@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Pela presente portaria é renovada, por um período de oito anos, a concessão da zona de caça associativa da Gachinha e outras (processo n.º 32-DGF), abrangendo os prédios rústicos designados «Herdades do Furadouro, Ratinho, Godinha, Briosa» e outros, sitos na freguesia de Ciladas de São Romão, município de Vila Viçosa, com uma área de 769 ha.",
+    "depois": "1.º Pela presente portaria é renovada, por um período de seis anos, a concessão da zona de caça associativa da Herdade do Ratinho e outras (processo n.º 32-DGRF), abrangendo os prédios rústicos designados Herdades do Furadouro, Ratinho, Godinha, Brioa e outros, sitos na freguesia de Ciladas de São Romão, município de Vila Viçosa, com a área de 769 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:401752:por",
+    "alterador": "pt:dre:676190:por"
+  }
+]

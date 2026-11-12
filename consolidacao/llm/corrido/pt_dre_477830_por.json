@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:477830:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 34,
+      "texto": "1.º - (Revogado.)\n\n2.º - (Revogado.)\n\n3.º - (Revogado.)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n6.º - (Revogado.)\n\n7.º - (Revogado.)\n\n8.º - (Revogado.)\n\n9.º - (Revogado.)\n\n10.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 41,
+      "ate": 41,
+      "texto": "14.º - (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 902/87) fixa nova duração do internato geral (dezanove meses) sem dar nova redação ao n.º 11.º e mantém o original em vigor no que não for contrariado: derrogação não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1: nova duração do internato e regime de férias, sem alteração textual do original; manutenção em vigor no que não for contrariado — não aplicada.",
+    "Alterador 2, n.º 2.º: revoga a portaria com excepção dos n.os 11.º a 13.º — n.os 1.º a 10.º (unidades 9 a 34) e 14.º (unidade 41) passam a (Revogado.).",
+    "Alterador 2, n.os 1.º e 3.º e Regulamento anexo: aprovam regulamento novo e revogam artigos da Portaria n.º 1223/82 — dirigidos a outros diplomas, ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

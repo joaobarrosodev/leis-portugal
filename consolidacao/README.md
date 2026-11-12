@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.444 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.472 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -170,6 +170,7 @@ Destes 618, 592 ainda não foram pedidos.
 | 87 | 36 | 24 | 16 | 515 |
 | 88 | 39 | 27 | 16 | 474 |
 | 89 | 40 | 30 | 26 | 434 |
+| 90 | 40 | 34 | 28 | 394 |
 
 Na ronda 87, a Portaria 680/71 foi para `llm/exclusoes.json`, porque está revogada por inteiro pela Portaria 654/74. Dois diplomas da vista 001 ficaram sem resposta do verificador e não entram.
 
@@ -179,6 +180,8 @@ Na ronda 88 foram para `llm/exclusoes.json` seis diplomas revogados por inteiro:
 - ou um alargamento de composição sem texto novo.
 
 Na ronda 89 foram para as exclusões outros quatro revogados por inteiro: as Portarias 774/78, 533-D/2000 e 142/80 e o Despacho Normativo 28/2003. Na Convenção sobre metais preciosos (Decreto 56/82), as alterações entram nos textos inglês e português, os únicos que os decretos de alteração publicam; o texto francês fica como estava.
+
+Na ronda 90 foram para as exclusões a Portaria 181/81, revogada por inteiro pela Portaria 44/84, e o Despacho Normativo 18-B/2009 (Estatutos da Universidade do Porto). Neste, as alterações de 2025 seguem a numeração da republicação de 2015, que não está no texto, e aplicá-las sozinhas daria um texto que nunca esteve em vigor.
 
 **O que isto quer dizer para o RAG.** O aviso "Texto original; alterado por…" mantém-se em todos os diplomas alterados sem versão consolidada, mesmo nos "sem alteração textual". Tirá-lo nesses casos faria o sistema responder com texto desatualizado em cerca de 14% a 28% deles (`rag/README.md`).
 

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:306936:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (Portaria 68/2011), art. 1.º n.º 1: altera os artigos 13.º, 14.º, 34.º e 36.º da Portaria n.º 1230/2006 'na redacção da Portaria n.º 1276/2010' — é alteração de outro diploma; ignorada.",
+    "Alt. 1, art. 1.º n.º 2: altera o Regulamento da Portaria n.º 1230/2006 — outro diploma; ignorada.",
+    "Alt. 2 (Portaria 10/2013), art. 1.º: altera os artigos 13.º, 14.º, 22.º, 34.º e 36.º da Portaria n.º 1230/2006 — outro diploma; ignorada. Nenhum artigo do original muda."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

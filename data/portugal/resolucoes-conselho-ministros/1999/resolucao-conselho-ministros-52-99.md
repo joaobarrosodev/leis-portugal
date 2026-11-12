@@ -38,10 +38,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2018-11-30'
+version_history:
+  file: resolucao-conselho-ministros-52-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-11-30'
+    amending: pt:dre:117179869:por
+    amending_title: Aviso n.º 17712/2018
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 23.º
+    - Altera Artigo 27.º
+    - Altera Artigo 37.º
+    - Altera Artigo 48.º
+    - Altera Artigo 50.º
+    - Altera Artigo 53.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/52/1999/06/11/p/dre/pt/html
@@ -67,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:31:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso n.º 17712/2018. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1999/resolucao-conselho-ministros-52-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -254,6 +275,10 @@ Todas as acções de intervenção pública ou privada que impliquem alteraçõe
 
 2 - Os licenciamentos, aprovações e autorizações permitidos neste Regulamento devem ser entendidos sem prejuízo das atribuições e competências concedidas por legislação em vigor às demais entidades de direito público.
 
+3 - Quando se verificarem alterações à legislação em vigor referida neste Regulamento, as remissões expressas que aqui para ela se fazem consideram-se automaticamente transferidas para as correspondentes disposições dos diplomas que substituem ou complementam os alterados ou revogados.
+
+> Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30.
+
 ###### Artigo 6.º — Execução e financiamento
 
 Sem prejuízo dos poderes de autorização, aprovação ou licenciamento urbanísticos, estabelecidos em lei ou regulamento, fica a cargo da LUSOTUR - Sociedade Financeira de Turismo, S. A., promover a execução e financiamento das infra-estruturas, equipamentos e demais investimentos a realizar no quadro do plano de financiamento referido no n.º 2, alínea d), do artigo 1.º e nos termos do protocolo a celebrar ao abrigo do disposto no n.º 3 do artigo 41.º do [Decreto Regulamentar n.º 11/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1991-471173), de 21 de Março.
@@ -434,7 +459,11 @@ Identifica-se na área de intervenção do PU Vilamoura a categoria de espaço �
 
 ###### Artigo 23.º — Usos na categoria de espaço área urbano-turística
 
-Nesta categoria de espaço são permitidos os usos de carácter turístico e hoteleiro, comerciais, de serviços e equipamentos.
+1 - Nesta categoria de espaço são permitidos os usos de caráter turístico e hoteleiro, comerciais, de serviços e equipamentos.
+
+2 - Nas áreas urbano-turísticas contíguas à categoria lagos e canais é admissível um tratamento natural, pontual e contido das margens dos lagos.
+
+> Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30.
 
 ###### Artigo 24.º — Edificabilidade na categoria de espaço área urbano-turística
 
@@ -463,6 +492,12 @@ Identifica-se na área de intervenção do PU Vilamoura a subcategoria de espaç
 [[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)
 
 3 - Esta categoria de espaço destina-se à regularização das linhas de drenagem natural e armazenagem da água resultante, com fins de valorização ambiental e paisagística dos espaços onde estes se inserem e de suporte a actividades lúdicas complementares.
+
+4 - A área de lagos e canais inclui zonas inundadas e zonas secas contíguas, que contribuem para o desempenho das funções referidas no número anterior.
+
+5 - As zonas secas contíguas poderão ser inseridas em operações de loteamento, enquanto áreas para espaços verdes, integradas ou não em áreas de logradouros, sem capacidade edificatória e que garantam a continuidade da usufruição do espaço em que se inserem.
+
+> Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30.
 
 ###### Artigo 28.º — Categoria de espaço verde urbano
 
@@ -544,7 +579,11 @@ Identificam-se na área de intervenção do PU Vilamoura três categorias de esp
 
 ###### Artigo 37.º — Usos na categoria de espaço urbanizável de expansão
 
-Nesta categoria de espaço são permitidos os usos residenciais, de carácter turístico e hoteleiro, comerciais, de serviços e equipamentos.
+1 - Nesta categoria de espaço são permitidos os usos residenciais, de caráter turístico e hoteleiro, comerciais, de serviços e equipamentos.
+
+2 - Nos espaços urbanizáveis de expansão contíguos às subcategorias lagos e canais é admissível um tratamento natural, pontual e contido das margens dos lagos.
+
+> Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30.
 
 ###### Artigo 38.º — Edificabilidade na categoria de espaço urbanizável de expansão
 
@@ -666,6 +705,12 @@ a) Localização e área proposta:
 
 b) A subcategoria de espaço lagos e canais em RAN destina-se à regularização das linhas de drenagem natural e armazenagem da água resultante, em adequação com a rede hidrográfica, com fins de valorização ambiental e paisagística dos espaços onde estes se inserem e de suporte a actividades lúdicas complementares.
 
+c) A área de lagos e canais inclui zonas inundadas e zonas secas contíguas, que contribuem para o desempenho das funções referidas na alínea anterior;
+
+d) Nas zonas secas contíguas o regime de uso do solo é o previsto no regime jurídico da reserva agrícola nacional.
+
+> Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30.
+
 ###### Artigo 49.º — Categoria de espaço área de agricultura condicionada II
 
 1 - Identifica-se na área de intervenção do PU Vilamoura a categoria de espaço área de agricultura condicionada II, delimitada na planta de zonamento:
@@ -702,6 +747,12 @@ a) Localização e área proposta:
 
 b) A subcategoria de espaço lagos e canais em área de agricultura condicionada II destina-se à regularização das linhas de drenagem natural e armazenagem da água resultante, em adequação com a rede hidrográfica, com fins de valorização ambiental e paisagística dos espaços onde estes se inserem e de suporte a actividades lúdicas complementares.
 
+c) A área de lagos e canais inclui zonas inundadas e zonas secas contíguas, que contribuem para o desempenho das funções referidas na alínea anterior;
+
+d) Nas zonas secas contíguas o regime de uso do solo é o previsto nos respetivos regimes jurídicos da reserva agrícola nacional e da reserva ecológica nacional.
+
+> Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30.
+
 ### CAPÍTULO V — Espaço natural
 
 ###### Artigo 51.º — Âmbito e usos
@@ -733,6 +784,12 @@ a) Localização e área proposta:
 [[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)
 
 b) A subcategoria, de espaço lagos e canais em REN destina-se à regularização das linhas de drenagem natural e armazenagem da água resultante, em adequação com a rede hidrológica, com fins de valorização ambiental e paisagística dos espaços onde estes se inserem e de suporte a actividades lúdicas complementares.
+
+c) A área de lagos e canais inclui zonas inundadas e zonas secas contíguas, que contribuem para o desempenho das funções referidas na alínea anterior;
+
+d) Nas zonas secas contíguas o regime de uso do solo é o previsto no regime jurídico da reserva ecológica nacional.
+
+> Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30.
 
 ### CAPÍTULO VI — Principais infra-estruturas
 

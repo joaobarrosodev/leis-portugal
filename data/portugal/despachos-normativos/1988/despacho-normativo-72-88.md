@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-01-12'
+version_history:
+  file: despacho-normativo-72-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-08-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-01-12'
+    amending: pt:dre:234481:por
+    amending_title: Despacho Normativo n.º 4/89; Despacho Normativo n.º 4/89
+    changes:
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:40:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 4/89; Despacho
+    Normativo n.º 4/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1988/despacho-normativo-72-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +155,9 @@ Nestes termos, determina-se, ao abrigo dos artigos 12.º e 13.º do [Decreto-Lei
 
 3 - Os departamentos ministeriais deverão privilegiar, através das quotas que lhes são atribuídas, a satisfação das necessidades de pessoal dos serviços que prossigam objectivos prioritários do ponto de vista da eficácia da Administração e de melhoria da gestão pública, bem como dos que estejam sediados em zonas periféricas.
 
-4 - Os departamentos ministeriais não poderão utilizar as respectivas quotas para a admissão de pessoal além dos quadros fora dos casos expressamente previstos nas alíneas b) a d) do artigo 14.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
+4 - Os departamentos ministeriais não poderão utilizar as respectivas quotas para a admissão de pessoal além dos quadros fora dos casos expressamente previstos nas alíneas b) a d) do artigo 14.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e nos artigos 1.º e 2.º do [Decreto-Lei n.º 200/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1985-182239), de 25 de Junho.
+
+> Alterado pelo/a [Despacho Normativo n.º 4/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-1989-234481), publicado em 1989-01-07.
 
 5 - A utilização das quotas de descongelamento depende de declaração da Direcção-Geral da Administração Pública (DGAP) comprovativa da não existência, perante cada pedido, do pessoal abrangido pelos mecanismos de mobilidade e reafectação de pessoal, da mesma ou de diferente categoria, sem prejuízo, neste último caso, do respeito pelos requisitos legalmente estabelecidos e de publicitação em, pelo menos, dois órgãos de comunicação social de âmbito nacional.
 

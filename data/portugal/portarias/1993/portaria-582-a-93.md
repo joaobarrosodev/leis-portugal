@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-02-06'
+version_history:
+  file: portaria-582-a-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-06-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-02-06'
+    amending: pt:dre:138095:por
+    amending_title: Portaria n.º 97/95
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/582-a/1993/06/07/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:59:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 97/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-582-a-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,7 +188,9 @@ c) Concurso para titulares de matrícula e inscrição em curso de ensino superi
 
 ###### Artigo 3.º — Âmbito
 
-Os pares estabelecimento/curso abrangidos pelo presente Regulamento são os abrangidos pela alínea a) do n.º 1 e pela alínea c) do n.º 2 do artigo 24.º do [Decreto-Lei n.º 189/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1992-240823), de 3 de Setembro.
+Os pares estabelecimento/curso abrangidos pelo presente Regulamento são os abrangidos pela alínea a) do n.º 1 e pelas alíneas a) e c) do n.º 2 do artigo 24.º do [Decreto-Lei n.º 189/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1992-240823), de 3 de Setembro.
+
+> Alterado pelo/a [Portaria n.º 97/95](https://diariodarepublica.pt/dr/detalhe/portaria/97-1995-138095), publicado em 1995-02-01.
 
 ###### Artigo 4.º — Incompatibilidades
 

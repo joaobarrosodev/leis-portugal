@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:379113:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "2 - Peles tratadas, incluindo os respectivos desperdícios.",
+      "alterador": 2
+    },
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "4 - Madeira, serradura e outros materiais derivados da madeira tratados com produtos de conservação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 19,
+      "texto": "6 - Resíduos urbanos sólidos, tais como as sobras de mesa das cozinhas domésticas.\n\n7 - Sobras não tratadas dos estabelecimentos alimentares, com excepção dos géneros alimentícios de origem vegetal que, por motivos de frescura, foram julgados impróprios para o consumo humano.\n\n8 - Embalagens e partes de embalagens provenientes da utilização de produtos da indústria agro-alimentar.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 415/94) substitui o anexo: muda ponto 2 (Peles curtidas...), ponto 4 (sem vírgula antes de 'tratados') e acrescenta pontos 6 a 8.",
+    "Alterador 2 (Portaria 97/97) substitui o anexo da Portaria 415/94 (o anexo em vigor da 1212/91): ponto 2 passa a 'Peles tratadas...' e ponto 7 ganha vírgulas; restantes iguais ao alterador 1.",
+    "Resultado: substituídas unidades 16 (texto do alterador 2) e 18 (alterador 1); pontos 6-8 inseridos depois da 19 com a redação final do alterador 2."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

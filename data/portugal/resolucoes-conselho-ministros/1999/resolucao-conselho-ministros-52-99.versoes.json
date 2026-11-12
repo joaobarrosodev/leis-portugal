@@ -1,0 +1,882 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:308573:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-06-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b8f136d146497f0f",
+    "5ce329e6bb792f03",
+    "23836370ae405d04",
+    "15a54c7853764d62",
+    "60531ae1678e18d9",
+    "9b5b028ce6d225f8",
+    "7d4ef3d929d3be7d",
+    "64a0c4d5df72bfd2",
+    "98f19a07925aecc0",
+    "a01edc6fda9b0de4",
+    "a8797bb6ff370989",
+    "4ecfa7ea570f2ce5",
+    "aad2d2046d181f42",
+    "d97cd9a9c0009cf6",
+    "1068a881a5153808",
+    "27749104884b69ea",
+    "6accee749ff72f02",
+    "2dbac6e0b37ac808",
+    "e6b26a347ad80f09",
+    "b6481d628e168721",
+    "1ab9c947fa23e51e",
+    "12d784b17cbb18cb",
+    "65e8c4a73a719b16",
+    "07a88e1b0c6061af",
+    "0519bbe753aa65ff",
+    "aaf2d571e766d74a",
+    "5a0c68dd99ae83a6",
+    "781d84bf4049e7b1",
+    "3d5b5890e8689d2a",
+    "a2f8de0df7e8489d",
+    "bb85add9b335570f",
+    "a4b99c23e4d1b963",
+    "11f3a2202f17073d",
+    "4a52bdb366e28df6",
+    "eb97dc89b018b7c7",
+    "43fd17d4836f8681",
+    "cdcdee32d22dc8b7",
+    "aa49811b956dac0a",
+    "3e2aa104084ce6c9",
+    "30f4d0056bca6acd",
+    "3019c187260d53ba",
+    "b5594858b8652529",
+    "acb2ed613fb133de",
+    "c26389aac9fb098d",
+    "1896830e39d439ed",
+    "dce6a77222b0c037",
+    "caee33f4c3a6e2fe",
+    "6e325e00da681e71",
+    "9001302e724c5f02",
+    "b8e97a05ae7e8675",
+    "ca8af92788e39c02",
+    "b00993691eaa7925",
+    "a33b222e58eae136",
+    "02b0efa025303682",
+    "939ecb380effb9ea",
+    "267371a7fbc3a932",
+    "b47d15761268760a",
+    "15000e6309c5b90a",
+    "dae45b4198bfe365",
+    "b920163891f5602d",
+    "51ae222db61f12a9",
+    "1d8a7590d9a3dbfb",
+    "782f1e3ca4781861",
+    "4807a01d5b2cd1eb",
+    "0822c4ee8cb6ffdb",
+    "191e5c79ea066a21",
+    "1852879cdc771d5e",
+    "967596e8af781028",
+    "ea3c15f3bda55abc",
+    "874d34d37d933478",
+    "b03d2d35e00433d1",
+    "558511ff47d637fd",
+    "67d53134643f28c3",
+    "6d432ad241543b40",
+    "bc856a68782cd83c",
+    "4e5b89ec136ab9a6",
+    "f578b806357ef5c5"
+   ]
+  },
+  {
+   "date": "2018-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117179869:por",
+     "title": "Aviso n.º 17712/2018",
+     "published": "2018-11-30",
+     "dre_path": "/dr/detalhe/aviso/17712-2018-117179869"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 50.º",
+    "Altera Artigo 53.º"
+   ],
+   "fragments": [
+    "b8f136d146497f0f",
+    "5ce329e6bb792f03",
+    "23836370ae405d04",
+    "15a54c7853764d62",
+    "60531ae1678e18d9",
+    "9b5b028ce6d225f8",
+    "7d4ef3d929d3be7d",
+    "9c3d2878f0f4d619",
+    "98f19a07925aecc0",
+    "a01edc6fda9b0de4",
+    "a8797bb6ff370989",
+    "4ecfa7ea570f2ce5",
+    "aad2d2046d181f42",
+    "d97cd9a9c0009cf6",
+    "1068a881a5153808",
+    "27749104884b69ea",
+    "6accee749ff72f02",
+    "2dbac6e0b37ac808",
+    "e6b26a347ad80f09",
+    "b6481d628e168721",
+    "1ab9c947fa23e51e",
+    "12d784b17cbb18cb",
+    "65e8c4a73a719b16",
+    "07a88e1b0c6061af",
+    "0519bbe753aa65ff",
+    "aaf2d571e766d74a",
+    "5a0c68dd99ae83a6",
+    "781d84bf4049e7b1",
+    "3d5b5890e8689d2a",
+    "f87b5535810d5474",
+    "bb85add9b335570f",
+    "a4b99c23e4d1b963",
+    "11f3a2202f17073d",
+    "b31c2a56ebf87521",
+    "eb97dc89b018b7c7",
+    "43fd17d4836f8681",
+    "cdcdee32d22dc8b7",
+    "aa49811b956dac0a",
+    "3e2aa104084ce6c9",
+    "30f4d0056bca6acd",
+    "3019c187260d53ba",
+    "b5594858b8652529",
+    "acb2ed613fb133de",
+    "c26389aac9fb098d",
+    "cb060e4c40249640",
+    "dce6a77222b0c037",
+    "caee33f4c3a6e2fe",
+    "6e325e00da681e71",
+    "9001302e724c5f02",
+    "b8e97a05ae7e8675",
+    "ca8af92788e39c02",
+    "b00993691eaa7925",
+    "a33b222e58eae136",
+    "02b0efa025303682",
+    "939ecb380effb9ea",
+    "267371a7fbc3a932",
+    "d0c13e4d2717adf5",
+    "15000e6309c5b90a",
+    "de21a0bd7cbeaa1f",
+    "b920163891f5602d",
+    "51ae222db61f12a9",
+    "1d8a7590d9a3dbfb",
+    "6d794dc474288ec3",
+    "4807a01d5b2cd1eb",
+    "0822c4ee8cb6ffdb",
+    "191e5c79ea066a21",
+    "1852879cdc771d5e",
+    "967596e8af781028",
+    "ea3c15f3bda55abc",
+    "874d34d37d933478",
+    "b03d2d35e00433d1",
+    "558511ff47d637fd",
+    "67d53134643f28c3",
+    "6d432ad241543b40",
+    "bc856a68782cd83c",
+    "4e5b89ec136ab9a6",
+    "f578b806357ef5c5"
+   ]
+  }
+ ],
+ "fragments": {
+  "b8f136d146497f0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia Municipal de Loulé aprovou, em 27 de Março de 1998, o Plano de Urbanização de Vilamoura - 2.ª fase:\n\nFoi verificada a conformidade formal do Plano de Urbanização de Vilamoura com as disposições legais e regulamentares em vigor, nos termos previstos no n.º 2 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.\n\nO município de Loulé dispõe de Plano Director Municipal, ratificado pela [Resolução do Conselho de Ministros n.º 81/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/81-1995-431992), de 27 de Julho, publicada no Diário da República, 1.ª série-B, n.º 195, de 24 de Agosto de 1995.\n\nUma vez que o Plano de Urbanização de Vilamoura - 2.ª fase introduz alterações àquele instrumento de planeamento, na medida em que implica modificações ao nível da definição do perímetro urbano e das servidões e restrições de utilidade pública, a sua ratificação compete ao Conselho de Ministros.\n\nImporta mencionar que as utilizações não agrícolas de solos integrados na Reserva Agrícola Nacional previstas no n.º 3 do artigo 47.º e na alínea c) do n.º 1 do artigo 48.º do Regulamento do Plano devem obedecer ao regime jurídico constante do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, alterado pelo [Decreto-Lei n.º 274/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1992-616449), de 12 de Dezembro, e pelo [Decreto-Lei n.º 278/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1995-668291), de 25 de Outubro.\n\nO município de Loulé encontra-se abrangido pelo Plano Regional de Ordenamento do Território para o Algarve, aprovado pelo [Decreto Regulamentar n.º 11/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1991-471173), de 21 de Março.\n\nO empreendimento turístico que está subjacente ao Plano de Urbanização de Vilamoura - 2.ª fase, embora não totalmente conforme com o regime de ocupação, uso e transformação do solo estabelecido naquele Plano Regional de Ordenamento do Território, serve a prossecução dos seus objectivos.\n\nPara o efeito, foi reconhecido o interesse público do empreendimento turístico através do despacho conjunto de 27 de Setembro de 1995, publicado no Diário da República, 2.ª série, de 28 de Outubro de 1995, pelo que pode ser admitido, ao abrigo do artigo 41.º do [Decreto Regulamentar n.º 11/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1991-471173), de 21 de Março.\n\nCom o presente Plano entra em vigor um protocolo celebrado entre a Comissão de Coordenação da Região do Algarve, a Direcção-Geral do Turismo, a Direcção Regional do Ambiente - Algarve, a Câmara Municipal de Loulé e a LUSOTUR - Sociedade Financeira de Turismo, S. A., celebrado nos termos do n.º 3 do artigo 41.º do [Decreto Regulamentar n.º 11/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1991-471173), de 21 de Março, no qual se discriminam, expressa e detalhadamente, os montantes e o prazo de execução dos investimentos a realizar em infra-estruturas na área simultaneamente abrangida pelo Plano de Urbanização e pelo Plano Regional de Ordenamento do Território.\n\nFoi igualmente elaborado o estudo de envolvência a que se refere o n.º 2 do artigo 41.º do [Decreto Regulamentar n.º 11/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1991-471173), de 21 de Março.\n\nFoi realizado o inquérito público nos termos previstos no artigo 14.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, e emitidos os pareceres a que se refere o artigo 13.º do mesmo diploma legal.\n\nConsiderando o disposto nos artigos 3.º, n.º 3, e 16.º n.º 1, alínea d), do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro:\n\nAssim:\n\nNos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\nRatificar o Plano de Urbanização de Vilamoura - 2.ª fase, no município de Loulé, cujo regulamento e planta de zonamento se publicam em anexo à presente resolução, dela fazendo parte integrante.\n\nPresidência do Conselho de Ministros, 25 de Março de 1999. - O Primeiro Ministro, António Manuel de Oliveira Guterres.\n\nREGULAMENTO DO PLANO DE URBANIZAÇÃO DE VILAMOURA - 2.ª FASE"
+  },
+  "5ce329e6bb792f03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO I — Disposições gerais e condicionantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Disposições gerais e condicionantes"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "15a54c7853764d62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Composição\n\n1 - O Plano de Urbanização de Vilamoura - 2.ª fase, adiante designado por PU Vilamoura, abrange uma área do território do município de Loulé com os limites identificados na planta de zonamento e na planta actualizada de condicionantes, elaboradas respectivamente à escala de 1:5000 e de 1:10000, que, com o presente Regulamento, constituem os elementos fundamentais do PU Vilamoura.\n\n2 - Os elementos complementares do PU Vilamoura são:\n\na) Relatório, que menciona as principais medidas, indicações e disposições adoptadas;\n\nb) Planta de enquadramento, elaborada à escala de 1:25000, que abrange a zona envolvente, bem como as principais vias que a servem;\n\nc) Programa de execução;\n\nd) Plano de financiamento.\n\n3 - Os elementos anexos são constituídos pelos seguintes elementos:\n\na) Estudos de caracterização:\n\nCaracterização física;\n\nCaracterização sócio-económica e demográfica;\n\nCaracterização da rede de equipamentos colectivos;\n\nRede viária e transportes;\n\nEstudo de acessibilidades;\n\nSistema de abastecimento de água;\n\nDrenagem e tratamento de águas residuais domésticas;\n\nEstudo de drenagem;\n\nEnergia eléctrica, telecomunicações e segurança;\n\nResíduos sólidos;\n\nPaisagismo;\n\nb) Extracto do Regulamento e planta de síntese do PDM de Loulé e do PROT - Algarve;\n\nc) Planta da situação existente."
+  },
+  "60531ae1678e18d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Hierarquia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Hierarquia\n\nTodas as acções de intervenção pública ou privada que impliquem alterações à ocupação, uso e transformação do solo a realizar na área de intervenção do PU Vilamoura respeitarão, obrigatoriamente, as disposições do presente Regulamento e da planta de zonamento."
+  },
+  "9b5b028ce6d225f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Alteração e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração e revisão\n\n1 - A alteração do PU Vilamoura faz-se em conformidade com o artigo 20.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com a redacção dada pelo [Decreto-Lei n.º 155/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1997-164053), de 24 de Junho.\n\n2 - A revisão do PU Vilamoura faz-se em conformidade com o artigo 19.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com a redacção dada pelo [Decreto-Lei n.º 155/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1997-164053), de 24 de Junho."
+  },
+  "7d4ef3d929d3be7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objectivo\n\n1 - É objectivo do PU Vilamoura definir uma organização para o meio urbano e áreas de protecção, estabelecendo, designadamente, o perímetro urbano, a concepção geral da forma urbana, os parâmetros urbanísticos, o destino das construções, os valores patrimoniais a proteger, os locais destinados à instalação de equipamentos, os espaços livres e o traçado esquemático da rede viária e das infra-estruturas principais.\n\n2 - Constitui igualmente objectivo do PU Vilamoura dar cumprimento ao estabelecido no n.º 2 do despacho conjunto de 27 de Setembro de 1995, publicado no Diário da República, 2.ª série, n.º 250, de 28 de Outubro de 1995, que reconhece o interesse público da 2.ª fase do empreendimento turístico de Vilamoura."
+  },
+  "64a0c4d5df72bfd2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Complementaridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Complementaridade\n\n1 - Nas matérias do seu âmbito, o Regulamento integra, complementa e desenvolve a legislação aplicável na área de intervenção, nomeadamente as disposições constantes no PDM de Loulé e não alteradas pelo presente PU Vilamoura.\n\n2 - Os licenciamentos, aprovações e autorizações permitidos neste Regulamento devem ser entendidos sem prejuízo das atribuições e competências concedidas por legislação em vigor às demais entidades de direito público."
+  },
+  "98f19a07925aecc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Execução e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Execução e financiamento\n\nSem prejuízo dos poderes de autorização, aprovação ou licenciamento urbanísticos, estabelecidos em lei ou regulamento, fica a cargo da LUSOTUR - Sociedade Financeira de Turismo, S. A., promover a execução e financiamento das infra-estruturas, equipamentos e demais investimentos a realizar no quadro do plano de financiamento referido no n.º 2, alínea d), do artigo 1.º e nos termos do protocolo a celebrar ao abrigo do disposto no n.º 3 do artigo 41.º do [Decreto Regulamentar n.º 11/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1991-471173), de 21 de Março."
+  },
+  "a01edc6fda9b0de4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Utilização\n\nNa aplicação do Regulamento, para efeitos de definição das condicionantes à edificabilidade, deverão ser sempre considerados cumulativamente os elementos referentes à planta de zonamento e planta actualizada de condicionantes, prevalecendo os mais restritivos."
+  },
+  "a8797bb6ff370989": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Definições\n\nPara efeitos do presente Regulamento, são adoptadas as seguintes definições:\n\n1) Parcela - área de terreno, não resultante de operação de loteamento, marginada por via pública e susceptível de construção;\n\n2) Lote - área de terreno, marginada por arruamento, destinada à construção, resultante de uma operação de loteamento, licenciada nos termos da legislação em vigor;\n\n3) Densidade bruta - quociente entre o número de fogos ou habitantes e a área total de terreno onde se localizam (ou seja, a área de intervenção), incluindo a rede viária e a área afecta a instalações e equipamentos sociais ou públicos;\n\n4) Densidade líquida - quociente entre o número de fogos ou de habitantes e a área do terreno respectivo, excluindo a área afecta a espaço público (rede viária, estacionamento, áreas livres e equipamentos sociais);\n\n5) Área total de construção - para os edifícios construídos ou a construir, quaisquer que sejam os fins a que se destinam, é a soma das áreas brutas de todos os pisos (incluindo escadas e caixas de elevadores), acima e abaixo do solo, com exclusão de:\n\na) Terraços;\n\nb) Garagens e arrecadações em cave;\n\nc) Áreas de estacionamento;\n\nd) Serviços técnicos instalados nas caves dos edifícios;\n\ne) Galerias exteriores públicas;\n\nf) Arruamentos ou espaços livres de uso público cobertos pela edificação;\n\ng) Zonas de sótão não habitáveis;\n\n6) Área de implantação - área medida em projecção vertical das construções, delimitada pelo perímetro dos pisos mais salientes, excluindo varandas e platibandas;\n\n7) Índice de ocupação - quociente da área total de construção pela área total da parcela ou do lote;\n\n8) Índice de utilização bruta (IUB) - quociente entre a área total de construção e a área total do terreno onde se localizam as construções, incluindo a rede viária e a área afecta a espaços públicos e equipamentos sociais;\n\n9) Índice volumétrico (metros cúbicos/metros quadrados) - relação entre o volume de construção acima do solo e a área da parcela ou do lote;\n\n10) Área impermeabilizada - área do terreno ocupada por edifícios, vias, passeios, estacionamentos, piscinas e demais obras que impermeabilizem o terreno;\n\n11) Altura total das construções - dimensão vertical da construção a partir do ponto da cota média do terreno, no alinhamento desta, até ao ponto mais alto, excluindo acessórios (chaminés, casa das máquinas de ascensores, depósitos de água, etc.) e elementos decorativos, mas incluindo a cobertura;\n\n12) Cércea - dimensão vertical da construção, contada a partir do ponto da cota média do terreno no alinhamento da fachada até a linha superior do beirado, platibanda ou guarda do terraço;\n\n13) Cota de soleira - demarcação altimétrica do nível do ponto médio do degrau da entrada principal, referida ao arruamento de acesso;\n\n14) Fogo - habitação unifamiliar em edifício isolado ou colectivo, que deverá ter como referência, no que se respeita a áreas urbanizáveis ou a preencher, o valor de 2,7 habitantes por fogo;\n\n15) Obras de construção - execução de obras novas, incluindo pré-fabricadas e construções amovíveis;\n\n16) Obra de reconstrução - execução de uma construção em local ocupado por outra;\n\n17) Obras de alteração - execução de obras que, por qualquer forma, modifiquem o projecto da construção existente;\n\n18) Obras de ampliação - execução de obras para ampliar partes existentes de uma construção;\n\n19) Perímetro urbano - define o conjunto dos espaços urbano e urbanizável e do espaço industrial contíguo;\n\n20) Instrumentos de planeamento de pormenor (IPP) - correspondem a áreas delimitadas sujeitas a tratamento, que pode assumir a figura de plano de pormenor, loteamento, projecto de edificação conjunta, projecto urbano ou plano de alinhamentos e de cérceas, conforme se mostrar mais conveniente, integrando espaços urbano-turísticos, urbanizáveis, agrícolas, naturais, principais infra-estruturas e espaços-canais;\n\n21) Coeficiente de ocupação do solo (COS) - quociente entre a área total de construção acima do solo e a área de intervenção incluída no perímetro urbano de cada IPP;\n\n22) Coeficiente de afectação do solo (CAS) - quociente entre a área de implantação das construções e a área de intervenção incluída no perímetro urbano de cada IPP;\n\n23) Coeficiente de impermeabilização do solo (CIS) - quociente entre a área total de implantação das construções, incluindo a rede viária, estacionamento e equipamentos sociais, que exijam a impermeabilização do solo e a área de intervenção incluída no perímetro urbano de cada IPP."
+  },
+  "4ecfa7ea570f2ce5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Servidões administrativas e outras restrições de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Servidões administrativas e outras restrições de utilidade pública"
+  },
+  "aad2d2046d181f42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Âmbito\n\n1 - As servidões administrativas e outras restrições de utilidade pública ao uso do solo regem-se pela legislação aplicável e pelo disposto neste capítulo. São as seguintes:\n\na) Reserva Ecológica Nacional (REN);\n\nb) Reserva Agrícola Nacional (RAN);\n\nc) Protecção a imóvel de interesse público - ruínas romanas do Cerro da Vila;\n\nd) Servidão aeronáutica ao Aeroporto de Faro;\n\ne) Protecção a furos de captação de águas municipais;\n\nf) Protecção a redes de adução e distribuição domiciliária de água;\n\ng) Protecção a redes de drenagem de efluentes;\n\nh) Restrições ao uso das áreas do domínio hídrico;\n\ni) Servidões rodoviárias;\n\nj) Protecção a edifícios escolares.\n\n2 - A demarcação dos solos incluídos no domínio hídrico, constante da planta actualizada de condicionantes, não substitui a delimitação efectuada, nos termos legais, pela entidade competente."
+  },
+  "d97cd9a9c0009cf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Reserva Ecológica Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reserva Ecológica Nacional\n\nAplica-se o disposto no artigo 9.º do Regulamento do Plano Director Municipal de Loulé."
+  },
+  "1068a881a5153808": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Reserva Agrícola Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Reserva Agrícola Nacional\n\nAplica-se o disposto no artigo 10.º do Regulamento do Plano Director Municipal de Loulé."
+  },
+  "27749104884b69ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Protecção ao imóvel de interesse público - Ruínas romanas do Cerro da Vila",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Protecção ao imóvel de interesse público - Ruínas romanas do Cerro da Vila\n\n1 - Aplica-se o disposto no artigo 12.º do Regulamento do Plano Director Municipal de Loulé.\n\n2 - O imóvel de interesse público ruínas romanas do Cerro da Vila, classificado pelo [Decreto n.º 129/77](https://diariodarepublica.pt/dr/detalhe/decreto/129-1977-278706), de 29 de Setembro, tem uma zona de protecção que abrange a área envolvente ao imóvel numa faixa de 50 m, contados a partir dos seus limites."
+  },
+  "6accee749ff72f02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Servidões dos aeródromos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Servidões dos aeródromos\n\n1 - A servidão do Aeroporto de Faro é a que consta do [Decreto-Lei n.º 51/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1980-677432), de 25 de Março, e respectiva actualização.\n\n2 - As servidões dos restantes aeródromos deverão contemplar as orientações definidas nos Decretos-Leis n.os 45986 e 45987, de 22 de Outubro de 1964."
+  },
+  "2dbac6e0b37ac808": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Protecção a furos de captação de águas municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Protecção a furos de captação de águas municipais\n\nAplica-se o disposto no artigo 15.º do Regulamento do Plano Director Municipal de Loulé, nomeadamente no que se refere à delimitação dos perímetros de protecção e sua tipologia."
+  },
+  "e6b26a347ad80f09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Protecção a redes de adução e distribuição domiciliária de águas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Protecção a redes de adução e distribuição domiciliária de águas\n\n1 - Aplica-se o disposto no artigo 16.º do Regulamento do Plano Director Municipal de Loulé.\n\n2 - As redes de adução e distribuição de água e respectivas faixas de protecção ficam sujeitas aos condicionalismos legais aplicáveis, com destaque para os referentes a edificabilidade e plantação de árvores."
+  },
+  "b6481d628e168721": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Protecção a redes de drenagem de efluentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Protecção a redes de drenagem de efluentes\n\n1 - Aplica-se o disposto no artigo 17.º do Regulamento do Plano Director Municipal de Loulé.\n\n2 - As redes de drenagem e respectivas faixas de protecção ficam sujeitas aos condicionalismos legais aplicáveis, com destaque para os referentes a edificabilidade e plantação de árvores.\n\n3 - A área de protecção à ETAR de Vilamoura encontra-se assinalada da planta de zonamento e corresponde às áreas envolventes a este equipamento identificadas como verde de protecção e enquadramento em área de RAN e verde de protecção e enquadramento em área de agricultura condicionada II."
+  },
+  "1ab9c947fa23e51e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Domínio hídrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Domínio hídrico\n\n1 - Aplica-se o disposto no artigo 21.º do Regulamento do Plano Director Municipal de Loulé.\n\n2 - Os condicionamentos respeitantes ao domínio hídrico abrangem, na área de intervenção do Plano, a linha de água da ribeira de Quarteira e respectivas zonas adjacentes, nos termos do [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), de 26 de Fevereiro."
+  },
+  "12d784b17cbb18cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Servidões rodoviárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Servidões rodoviárias\n\nAplica-se o disposto no artigo 14.º do Regulamento do Plano Director Municipal de Loulé."
+  },
+  "65e8c4a73a719b16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Servidão a edifícios escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Servidão a edifícios escolares\n\n1 - Aplica-se o disposto no artigo 20.º do Regulamento do Plano Director Municipal de Loulé.\n\n2 - Os condicionamentos respeitantes à servidão a edifícios escolares incidem, nos termos da legislação aplicável, sobre as áreas para tal referenciadas na planta de zonamento, independentemente de as mesmas poderem vir a ser objecto de acerto e redefinição pontual dos seus limites e área."
+  },
+  "07a88e1b0c6061af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO II — Usos do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Usos do solo"
+  },
+  "0519bbe753aa65ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Ocupação, uso e transformação do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Ocupação, uso e transformação do solo"
+  },
+  "aaf2d571e766d74a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Categorias e subcategorias de espaços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Categorias e subcategorias de espaços\n\n1 - A área de intervenção do PU Vilamoura classifica-se, para efeitos de ocupação, uso e transformação do solo, nas seguintes categorias e subcategorias de espaços, delimitados na planta de zonamento:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\n2 - Para efeitos regulamentares, para cada IPP deverão ser considerados os parâmetros urbanísticos do quadro regulamentar respectivo, sendo meramente indicativa a morfologia apresentada na planta de zonamento e nos elementos anexos: plantas de morfologias urbanas."
+  },
+  "5a0c68dd99ae83a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Espaço urbano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Espaço urbano"
+  },
+  "781d84bf4049e7b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Âmbito e usos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Âmbito e usos\n\n1 - Os espaços urbanos são caracterizados pelo elevado nível de infra-estruturação e concentração de edificações, destinando-se o solo predominantemente à construção.\n\n2 - Os espaços urbanos destinam-se a uma ocupação com fins predominantemente habitacionais, podendo integrar outras funções, como equipamentos, actividades terciárias, indústria e turismo, desde que, pelas suas características, sejam compatíveis com a função habitacional, bem como espaços verdes urbanos, equipados e de protecção."
+  },
+  "3d5b5890e8689d2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Categoria de espaço área urbano-turística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Categoria de espaço área urbano-turística\n\nIdentifica-se na área de intervenção do PU Vilamoura a categoria de espaço área urbano-turística, delimitada na planta de zonamento."
+  },
+  "a2f8de0df7e8489d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Usos na categoria de espaço área urbano-turística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Usos na categoria de espaço área urbano-turística\n\nNesta categoria de espaço são permitidos os usos de carácter turístico e hoteleiro, comerciais, de serviços e equipamentos."
+  },
+  "bb85add9b335570f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Edificabilidade na categoria de espaço área urbano-turística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Edificabilidade na categoria de espaço área urbano-turística\n\n1 - Os parâmetros de edificabilidade a verificar nesta categoria de espaço são os constantes do quadro de síntese do capítulo VIII, «Instrumentos de planeamento de pormenor».\n\n2 - Em operações de loteamento aplicam-se as disposições de dimensionamento de espaços verdes e de utilização colectiva e de dimensionamento de infra-estruturas viárias e estacionamento constantes da [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro, ou outra que a substitua, salvo quando, pela sua dimensão ou localização, se justifique a afectação de espaços verdes de dimensão similar na zona em que o loteamento se insere.\n\n3 - Para efeitos de implantação de equipamentos de utilização colectiva, vigorarão apenas as disposições e propostas do presente PU, nomeadamente as referenciadas em planta de zonamento, ou outras a definir com maior detalhe em planos de pormenor."
+  },
+  "a4b99c23e4d1b963": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Subcategoria de espaço em área urbano-turística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Subcategoria de espaço em área urbano-turística\n\nIdentifica-se na área de intervenção do PU Vilamoura a subcategoria de espaço em área urbano-turística área urbano-turística com alvará existente, delimitada na planta de zonamento."
+  },
+  "11f3a2202f17073d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Edificabilidade na subcategoria de espaço área urbano-turística com alvará existente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Edificabilidade na subcategoria de espaço área urbano-turística com alvará existente\n\n1 - Os parâmetros de edificabilidade a verificar nesta subcategoria de espaço são os constantes do quadro de síntese do capítulo VIII, «Instrumentos de planeamento de pormenor».\n\n2 - Em caso de verificação de não conformidade dos alvarás existentes com os indicadores referidos no n.º 1, serão os mesmos sujeitos a revisão, por forma a cumprir o acima disposto, nos termos da legislação aplicável."
+  },
+  "4a52bdb366e28df6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Categoria de espaço lagos e canais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Categoria de espaço lagos e canais\n\n1 - Identifica-se na área de intervenção do PU Vilamoura a categoria de espaço lagos e canais, delimitada na planta de zonamento.\n\n2 - Localização e áreas:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\n3 - Esta categoria de espaço destina-se à regularização das linhas de drenagem natural e armazenagem da água resultante, com fins de valorização ambiental e paisagística dos espaços onde estes se inserem e de suporte a actividades lúdicas complementares."
+  },
+  "eb97dc89b018b7c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Categoria de espaço verde urbano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Categoria de espaço verde urbano\n\n1 - Identifica-se na área de intervenção do PU Vilamoura a categoria de espaço verde urbano, delimitada na planta de zonamento.\n\n2 - São áreas que, pela sua natureza e sensibilidade, se destinam a equipar e qualificar os espaços urbano-turísticos onde se inserem e a facilitar a drenagem natural."
+  },
+  "43fd17d4836f8681": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Subcategorias de espaço verde urbano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Subcategorias de espaço verde urbano\n\nIdentificam-se na área de intervenção do PU Vilamoura as seguintes subcategorias em espaço verde urbano, delimitadas na planta de zonamento:\n\n1) Subcategoria de espaço área de verde urbano equipado;\n\n2) Subcategoria de espaço área de verde urbano de protecção."
+  },
+  "cdcdee32d22dc8b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Subcategoria de espaço verde urbano equipado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Subcategoria de espaço verde urbano equipado\n\n1 - Localização e áreas propostas:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\n2 - A subcategoria de espaço verde urbano equipado caracteriza-se pela sua natureza e sensibilidade e destina-se a equipar e qualificar os espaços urbanos em que se insere e facilitar a drenagem natural e a instalação de equipamentos ou de áreas livres de lazer e recreio, nomeadamente para prática desportiva, como campos de futebol relvados e campos de golfe.\n\n3 - São igualmente permitidos os usos do solo, nos termos da legislação em vigor, nomeadamente a implantação de espaços verdes e livres arborizados, áreas de recreio e lazer, zonas de observação da natureza, espelhos de água e lagos, incluindo para prática de desportos náuticos, percursos pedonais e equestres e todas as demais funções compatíveis com o seu estatuto."
+  },
+  "aa49811b956dac0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Subcategoria de espaço verde urbano de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Subcategoria de espaço verde urbano de protecção\n\n1 - Localização e área proposta:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\n2 - A subcategoria de espaço verde urbano de protecção destina-se à instalação de zonas verdes de protecção e enquadramento aos espaços urbano-turísticos, onde se preconiza a plantação de maciços arbóreos de espécies adequadas, por forma a constituírem barreiras naturais de enquadramento e protecção visual, podendo albergar, complementarmente, actividades e equipamentos compatíveis de recreio e desportivos.\n\n3 - São igualmente permitidos os usos do solo, nos termos da legislação em vigor, nomeadamente a implantação de áreas de recreio e lazer, zonas de observação da natureza, espelhos de água e lagos, incluindo para prática de desportos náuticos, percursos pedonais e equestres e todas as demais funções compatíveis com o seu estatuto."
+  },
+  "3e2aa104084ce6c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Categoria de espaço equipamentos propostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Categoria de espaço equipamentos propostos\n\nA categoria de espaço equipamentos propostos destina-se à implantação de equipamentos colectivos de uso público necessários ao correcto ordenamento do território e qualidade de vida das populações abrangidas."
+  },
+  "30f4d0056bca6acd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Subcategorias de espaço equipamentos propostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Subcategorias de espaço equipamentos propostos\n\nIdentificam-se na categoria de espaço equipamentos propostos as seguintes subcategorias, com os usos respectivos propostos no âmbito do presente Plano de Urbanização:\n\n1) E1 - Escola EB 1;\n\n2) E2 - Escola EB 2.3;\n\n3) E3 - Creche/jardim infantil;\n\n4) E4 - Creche/jardim infantil;\n\n5) E5 - Centro de dia da terceira idade;\n\n6) E6 - Igreja."
+  },
+  "3019c187260d53ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Usos, afectação e edificabilidade nas subcategorias de espaço equipamentos propostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Usos, afectação e edificabilidade nas subcategorias de espaço equipamentos propostos\n\n1 - Observar-se-ão nestas subcategorias de espaço as seguintes disposições quanto à afectação proposta, área de intervenção, área máxima de construção, área máxima de implantação e número máximo de pisos acima do solo:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\n2 - As implantações de cada equipamento proposto, referenciadas na planta de zonamento, poderão ser objecto de acerto de limites ou localização alternativa na classe de espaço em que se inserem, desde que observados os parâmetros urbanísticos referidos no presente artigo."
+  },
+  "b5594858b8652529": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Espaço urbanizável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Espaço urbanizável"
+  },
+  "acb2ed613fb133de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Âmbito e usos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Âmbito e usos\n\nO espaço urbanizável caracteriza-se por se destinar a ocupação habitacional e funções compatíveis, podendo vir a adquirir as características de espaço urbano."
+  },
+  "c26389aac9fb098d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Categorias de espaço urbanizável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Categorias de espaço urbanizável\n\nIdentificam-se na área de intervenção do PU Vilamoura três categorias de espaço urbanizável, delimitadas na planta de zonamento:\n\n1) Categoria de espaço urbanizável de expansão;\n\n2) Categoria de espaço urbanizável de expansão de baixa densidade;\n\n3) Categoria de espaço verde urbano."
+  },
+  "1896830e39d439ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Usos na categoria de espaço urbanizável de expansão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Usos na categoria de espaço urbanizável de expansão\n\nNesta categoria de espaço são permitidos os usos residenciais, de carácter turístico e hoteleiro, comerciais, de serviços e equipamentos."
+  },
+  "dce6a77222b0c037": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Edificabilidade na categoria de espaço urbanizável de expansão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Edificabilidade na categoria de espaço urbanizável de expansão\n\n1 - Os parâmetros de edificabilidade a verificar nesta categoria de espaço são os constantes do quadro de síntese do capítulo VIII, «Instrumentos de planeamento de pormenor».\n\n2 - Em operações de loteamento aplicam-se as disposições de dimensionamento de espaços verdes e de utilização colectiva e de dimensionamento de infra-estruturas viárias e estacionamento constantes da [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro, ou outra que a substitua, salvo quando, pela sua dimensão ou localização, se justifique a afectação de espaços verdes de dimensão similar na zona em que o loteamento se insere.\n\n3 - Para efeitos de implantação de equipamentos de utilização colectiva, vigorarão apenas as disposições e propostas do presente PU, nomeadamente as referenciadas na planta de zonamento, ou outras a definir com maior detalhe em planos de pormenor.\n\n4 - Na zona 1.3, o edifício a construir fica condicionado a uma cota altimétrica de implantação não inferior a 15 m."
+  },
+  "caee33f4c3a6e2fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Usos na categoria de espaço urbanizável de expansão de baixa densidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Usos na categoria de espaço urbanizável de expansão de baixa densidade\n\nNesta categoria de espaço são permitidos os usos residenciais, de carácter turístico e hoteleiro, comerciais, de serviços e equipamentos."
+  },
+  "6e325e00da681e71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Edificabilidade na categoria de espaço urbanizável de expansão de baixa densidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Edificabilidade na categoria de espaço urbanizável de expansão de baixa densidade\n\n1 - Os parâmetros de edificabilidade a verificar nesta categoria de espaço são os constantes no quadro de síntese do capítulo VIII, «Instrumentos de planeamento de pormenor».\n\n2 - Em operações de loteamento aplicam-se as disposições de dimensionamento de espaços verdes e de utilização colectiva e de dimensionamento de infra-estruturas viárias e estacionamento, constantes da [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro, ou outra que a substitua, salvo quando, pela sua dimensão ou localização, se justifique a afectação de espaços verdes de dimensão similar na zona em que o loteamento se insere.\n\n3 - Para efeitos de implantação de equipamentos de utilização colectiva, vigorarão apenas as disposições e propostas do presente PU, nomeadamente as referenciadas na planta de zonamento, ou outras a definir com maior detalhe em planos de pormenor."
+  },
+  "9001302e724c5f02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Categoria de espaço verde urbano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Categoria de espaço verde urbano\n\n1 - Identifica-se na área de intervenção do PU Vilamoura a categoria de espaço verde urbano em espaço urbanizável, delimitada na planta de zonamento.\n\n2 - São áreas que, pela sua natureza e sensibilidade, se destinam a equipar e qualificar os espaços urbanizáveis onde se inserem e a facilitar a drenagem natural."
+  },
+  "b8e97a05ae7e8675": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Subcategorias de espaço verde urbano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Subcategorias de espaço verde urbano\n\nIdentificam-se na área de intervenção do PU Vilamoura as seguintes subcategorias de espaço verde urbano, delimitadas na planta de zonamento:\n\n1) Subcategoria de espaço área de verde urbano equipado;\n\n2) Subcategoria de espaço área de verde urbano de protecção."
+  },
+  "ca8af92788e39c02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Subcategoria de espaço verde urbano equipado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Subcategoria de espaço verde urbano equipado\n\n1 - Localização e áreas propostas:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\n2 - A subcategoria de espaço verde urbano equipado em espaço urbanizável caracteriza-se pela sua natureza e sensibilidade e destina-se a equipar e qualificar os espaços urbanizáveis em que se insere e facilitar a drenagem natural, destinando-se à instalação de equipamentos ou de áreas livres de lazer e recreio, nomeadamente para prática desportiva, como campos de futebol relvados e campos de golfe.\n\n3 - São igualmente permitidos os usos do solo, nomeadamente a implantação de espaços verdes e livres arborizados, áreas de recreio e lazer, zonas de observação da natureza, espelhos de água e lagos, incluindo para prática de desportos náuticos, percursos pedonais e equestres e todas as demais funções compatíveis com o seu estatuto."
+  },
+  "b00993691eaa7925": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Subcategoria de espaço verde urbano de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Subcategoria de espaço verde urbano de protecção\n\n1 - Localização e área proposta:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\n2 - A subcategoria de espaço verde urbano de protecção destina-se à instalação de zonas verdes de protecção e enquadramento aos espaços urbanizáveis, onde se preconiza a plantação de maciços arbóreos de espécies adequadas, por froma a constituírem barreiras naturais de enquadramento e protecção visual, podendo albergar, complementarmente, actividades e equipamentos compatíveis de recreio e desportivos.\n\n3 - São igualmente permitidos os usos do solo, nomeadamente a implantação de áreas de recreio e lazer, zonas de observação da natureza, espelhos de água e lagos, incluindo para prática de desportos náuticos, percursos pedonais e equestres e todas as demais funções compatíveis com o seu estatuto."
+  },
+  "a33b222e58eae136": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Espaço agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Espaço agrícola"
+  },
+  "02b0efa025303682": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Âmbito e usos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Âmbito e usos\n\n1 - Os espaços agrícolas têm como objectivo a preservação dos solos com maior aptidão agrícola, que contribuem para o desenvolvimento da agricultura e para o equilíbrio biofísico, integrando-se na RAN.\n\n2 - São permitidos os usos não agrícolas dos solos, nomeadamente a implantação de espaços verdes e livres arborizados, áreas de recreio e lazer, golfes, zonas de observação da natureza, espelhos de água e lagos, percursos pedonais e equestres e todas as demais funções compatíveis com o regime da RAN e, quando seja o caso, com o regime da REN.\n\n3 - A abertura das vias de acesso às zonas urbanizáveis, ao centro de treinamento desportivo e à ETAR de Vilamoura, nomeadamente as preconizadas na simulação constante da planta de zonamento, é desde já admitida, sendo a sua implantação definitiva consequente de projecto específico que definirá em rigor a localização e dimensionamento da área eventualmente a desafectar ao regime da RAN.\n\n4 - A implantação de imóveis de apoio e construções precárias, decorrentes, nomeadamente, da concretização do centro de treinamento desportivo, ficará condicionada à verificação da sua compatibilidade com o regime da RAN.\n\n5 - O projecto do centro de treinamento desportivo será objecto de parecer prévio vinculativo da entidade de tutela, para além do referenciado no presente artigo.\n\n6 - Neste espaço serão salvaguardadas as zonas de habitat caniçal existentes ou, caso tal se revele inconveniente, em função de estudos específicos a desenvolver, serão adoptadas medidas compensatórias que permitam a constituição de uma zona de habitat caniçal com a capacidade de suporte e características ecológicas equivalentes às actualmente existentes."
+  },
+  "939ecb380effb9ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Categorias de espaço agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Categorias de espaço agrícola\n\nNa área do PU Vilamoura identificam-se as seguintes categorias de espaço agrícola, delimitadas na planta de zonamento:\n\n1) Áreas de RAN - correspondem a áreas ao abrigo do regime da RAN;\n\n2) Áreas de agricultura condicionada II - correspondem a áreas ao abrigo do regime da RAN coincidentes com áreas ao abrigo do regime da REN, estas integradas no ecossistema zonas ameaçadas por cheias, prevalecendo, por este facto, o regime da REN."
+  },
+  "267371a7fbc3a932": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Categoria de espaço área de RAN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Categoria de espaço área de RAN\n\n1 - Na área do PU Vilamoura identificam-se as seguintes áreas incluídas na categoria de espaço área de RAN:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\n2 - O regime de solos da RAN encontra-se definido em legislação específica.\n\n3 - A categoria de espaço área de RAN inclui, no IPP 1 - Aldeia hípica, uma área com 5000 m2, destinada a parqueamento automóvel, de apoio ao centro de treinamento desportivo. Nesta área de estacionamento apenas é permitida a sua pavimentação em materiais permeáveis ou semipermeáveis, preconizando-se, nomeadamente, a instalação de grelhas de relvamento e gravilha nos estacionamentos e zonas de circulação automóvel."
+  },
+  "b47d15761268760a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Subcategorias de espaços em áreas de RAN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Subcategorias de espaços em áreas de RAN\n\nIdentificam-se na área de intervenção do PU Vilamoura as seguintes subcategorias de espaço em áreas de RAN, delimitadas na planta de zonamento:\n\n1) Subcategoria de espaço centro de treinamento desportivo:\n\na) Localização e áreas propostas:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) A subcategoria de espaço centro de treinamento desportivo destina-se à prática de actividades desportivas, de treino ou competição que tenham como princípio o seu desenvolvimento ao ar livre e em solo revestido por material herbáceo, areia, plano de água ou terra;\n\nc) São permitidos os usos complementares compatíveis com o regime da RAN, nomeadamente a instalação de apoios provisórios, bancadas desmontáveis e outros meios que possibilitem o treino e a realização de competições desportivas de âmbito nacional ou internacional;\n\n2) Subcategoria de espaço verde de protecção e enquadramento em área de RAN:\n\na) Localização e áreas propostas:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) A subcategoria de espaço verde de protecção e enquadramento em área de RAN destina-se à instalação de zonas verdes de protecção e enquadramento, onde se preconiza a plantação de maciços arbóreos de espécies adequadas, por forma a constituírem barreiras naturais de enquadramento e protecção visual, podendo albergar, complementarmente, actividades e equipamentos compatíveis de recreio e desportivos;\n\n3) Subcategoria de espaço lagos e canais em RAN:\n\na) Localização e área proposta:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) A subcategoria de espaço lagos e canais em RAN destina-se à regularização das linhas de drenagem natural e armazenagem da água resultante, em adequação com a rede hidrográfica, com fins de valorização ambiental e paisagística dos espaços onde estes se inserem e de suporte a actividades lúdicas complementares."
+  },
+  "15000e6309c5b90a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Categoria de espaço área de agricultura condicionada II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Categoria de espaço área de agricultura condicionada II\n\n1 - Identifica-se na área de intervenção do PU Vilamoura a categoria de espaço área de agricultura condicionada II, delimitada na planta de zonamento:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\n2 - Esta categoria de espaço encontra-se abrangida pelos regimes da RAN e da REN."
+  },
+  "dae45b4198bfe365": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Subcategorias de espaços em áreas de agricultura condicionada II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Subcategorias de espaços em áreas de agricultura condicionada II\n\nIdentificam-se na área de intervenção do PU Vilamoura as seguintes subcategorias de espaço em áreas de agricultura condicionada II, delimitadas na planta de zonamento:\n\n1) Subcategoria de espaço centro de treinamento desportivo:\n\na) Localização e área proposta:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) A subcategoria de espaço centro de treinamento desportivo em área de agricultura condicionada destina-se à prática de actividades desportivas de treino ou competição que tenham como princípio o seu desenvolvimento ao ar livre e em solo revestido por material herbáceo, areia, plano de água ou terra, compatíveis com os regimes da RAN e da REN;\n\n2) Subcategoria de espaço verde de protecção e enquadramento em área de agricultura condicionada II:\n\na) Localização e áreas propostas:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) A subcategoria de espaço verde de protecção e enquadramento em área de agricultura condicionada II destina-se à instalação de zonas verdes de protecção e enquadramento, onde se preconiza a plantação de maciços arbóreos de espécies adequadas, por forma a constituírem barreiras naturais de enquadramento e protecção visual, podendo albergar, complementarmente, actividades e equipamentos de recreio e desportivos compatíveis com os regimes da RAN e da REN;\n\n3) Subcategoria de espaço lagos e canais em área de agricultura condicionada II:\n\na) Localização e área proposta:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) A subcategoria de espaço lagos e canais em área de agricultura condicionada II destina-se à regularização das linhas de drenagem natural e armazenagem da água resultante, em adequação com a rede hidrográfica, com fins de valorização ambiental e paisagística dos espaços onde estes se inserem e de suporte a actividades lúdicas complementares."
+  },
+  "b920163891f5602d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Espaço natural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Espaço natural"
+  },
+  "51ae222db61f12a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Âmbito e usos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Âmbito e usos\n\n1 - Os espaços naturais têm como objectivo a conservação de valores naturais, a promoção do repouso e do recreio ao ar livre e a preservação da qualidade ambiental, integrando-se na REN.\n\n2 - São permitidos os usos compatíveis, nos termos da legislação em vigor, nomeadamente a implantação de espaços verdes e livres arborizados, áreas de recreio e lazer, zonas de observação da natureza, espelhos de água e lagos, percursos pedonais e equestres e todas as demais funções compatíveis com o regime da REN, nos termos da legislação aplicável.\n\n3 - A implantação de imóveis de apoio e construções precárias ficará condicionada a parecer vinculativo da entidade competente."
+  },
+  "1d8a7590d9a3dbfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Categoria de espaço natural de grau I - REN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Categoria de espaço natural de grau I - REN\n\n1 - Identifica-se na área de intervenção do PU Vilamoura a categoria de espaço natural de grau I - REN, delimitada na planta de zonamento:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\n2 - São espaços que se integram na REN, estando sujeitos ao regime constante da legislação aplicável.\n\n3 - São permitidos os usos compatíveis, nos termos da legislação aplicável.\n\n4 - A implantação de equipamentos de apoio e construções precárias ficará condicionada a parecer vinculativo da entidade competente."
+  },
+  "782f1e3ca4781861": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Subcategoria de espaço lagos e canais em REN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Subcategoria de espaço lagos e canais em REN\n\n1 - Identifica-se na área de intervenção do PU Vilamoura a subcategoria de espaço lagos e canais em REN, delimitada na planta de zonamento:\n\na) Localização e área proposta:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) A subcategoria, de espaço lagos e canais em REN destina-se à regularização das linhas de drenagem natural e armazenagem da água resultante, em adequação com a rede hidrológica, com fins de valorização ambiental e paisagística dos espaços onde estes se inserem e de suporte a actividades lúdicas complementares."
+  },
+  "4807a01d5b2cd1eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Principais infra-estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Principais infra-estruturas"
+  },
+  "0822c4ee8cb6ffdb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Âmbito e usos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Âmbito e usos\n\nA classe de espaço principais infra-estruturas abrange áreas onde existem infra-estruturas básicas estruturantes."
+  },
+  "191e5c79ea066a21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Categorias de espaço infra-estruturas existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Categorias de espaço infra-estruturas existentes\n\nNa área do PU Vilamoura identificam-se as seguintes categorias de espaço em infra-estruturas existentes, delimitadas na planta de zonamento:\n\n1) Categoria de espaço subestação eléctrica (alvará n.º 4/90):\n\na) Localização e área:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) Esta categoria de espaço destina-se à implantação da subestação eléctrica de Vilamoura, admitindo-se os usos compatíveis;\n\n2) Categoria de espaço depósitos de água:\n\na) A subcategoria de espaço depósitos de água localiza-se no IPP 3 - Encosta das Oliveiras;\n\nb) Esta categoria de espaço destina-se à implantação dos depósitos de armazenagem e abastecimento de água ao empreendimento, admitindo-se os usos compatíveis;\n\n3) Categoria de espaço ETAR de Vilamoura:\n\na) Localização e área:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) Esta categoria de espaço destina-se à implantação da estação de tratamento de esgotos de Vilamoura, admitindo-se os usos compatíveis."
+  },
+  "1852879cdc771d5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Espaço-canal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Espaço-canal"
+  },
+  "967596e8af781028": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Âmbito e usos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Âmbito e usos\n\nOs espaços-canais correspondem a corredores activados por infra-estruturas e que têm efeito de barreira física dos espaços que os marginam."
+  },
+  "ea3c15f3bda55abc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Categoria de espaço-canal proposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Categoria de espaço-canal proposto\n\nÉ definida a categoria de espaço-canal proposto, destinada à implantação de uma via proposta de âmbito municipal, cuja área non aedificandi se encontra referenciada na planta de zonamento."
+  },
+  "874d34d37d933478": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Instrumentos de planeamento de pormenor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Instrumentos de planeamento de pormenor"
+  },
+  "b03d2d35e00433d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Âmbito\n\n1 - Os instrumentos de planeamento de pormenor (IPP) correspondem a áreas de desenvolvimento global ou homogéneo, integrando espaços urbano-turísticos, urbanizáveis, agrícolas, naturais, de equipamentos e grandes infra-estruturas e espaços-canais.\n\n2 - Cada IPP será objecto, na globalidade ou parcelarmente, de plano de pormenor, projectos de loteamento ou projectos de licenciamento de empreendimentos turísticos, conforme as suas características, que desenvolvam as directrizes do presente PU Vilamoura, admitindo-se a sua execução faseada."
+  },
+  "558511ff47d637fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Instrumentos de planeamento de pormenor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Instrumentos de planeamento de pormenor\n\nIdentificam-se na área de intervenção do PU Vilamoura os seguintes IPP:\n\n1) IPP 1 - Aldeia hípica;\n\n2) IPP 2 - Pinhal Velho;\n\n3) IPP 3 - Encosta das Oliveiras;\n\n4) IPP 4 - Cerro da Vinha;\n\n5) IPP 5 - Fonte do Ulme;\n\n6) IPP 6 - Colinas do golfe;\n\n7) IPP 7 - Canais do golfe;\n\n8) IPP 8 - Cidade lacustre."
+  },
+  "67d53134643f28c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Parâmetros de edificabilidade nos instrumentos de planeamento de pormenor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Parâmetros de edificabilidade nos instrumentos de planeamento de pormenor\n\n1 - Verificar-se-ão para os diversos IPP os parâmetros urbanísticos referenciados no seguinte quadro de síntese:\n\nParâmetros urbanísticos\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\n2 - Para cada uma das zonas que integram os IPP são admissíveis acertos pontuais aos parâmetros urbanísticos constantes do quadro do número anterior, desde que não sejam ultrapassados os respectivos quantitativos globais para cada IPP, referenciados no mesmo quadro.\n\n3 - Não são admitidas alterações ao número máximo de pisos indicado em cada uma das zonas que integram os IPP."
+  },
+  "6d432ad241543b40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO III — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Disposições complementares"
+  },
+  "bc856a68782cd83c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Cedências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Cedências"
+  },
+  "4e5b89ec136ab9a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Áreas de cedência ao município",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Áreas de cedência ao município\n\nAs cedências de parcelas de terreno a integrar no domínio municipal, nomeadamente quanto a espaços verdes e livres, vias automóveis, áreas de estacionamento e áreas de equipamentos públicos, nos termos do referido no presente Regulamento, regem-se pela legislação aplicável."
+  },
+  "f578b806357ef5c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Achados arqueológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Achados arqueológicos\n\n1 - Quando na realização de obras ou movimentos de terras se verificar a descoberta de vestígios arqueológicos, as obras deverão ser suspensas e notificada a Câmara Municipal de Loulé e a entidade de tutela, no mais curto período de tempo, por forma a permitir a execução de escavações e prospecção de emergência.\n\n2 - Poderá a entidade de tutela suspender ou embargar os trabalhos, se tal não for cumprido.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)"
+  },
+  "9c3d2878f0f4d619": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Complementaridade",
+   "in_force_from": "2018-11-30",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30."
+   ],
+   "markdown": "###### Artigo 5.º — Complementaridade\n\n1 - Nas matérias do seu âmbito, o Regulamento integra, complementa e desenvolve a legislação aplicável na área de intervenção, nomeadamente as disposições constantes no PDM de Loulé e não alteradas pelo presente PU Vilamoura.\n\n2 - Os licenciamentos, aprovações e autorizações permitidos neste Regulamento devem ser entendidos sem prejuízo das atribuições e competências concedidas por legislação em vigor às demais entidades de direito público.\n\n3 - Quando se verificarem alterações à legislação em vigor referida neste Regulamento, as remissões expressas que aqui para ela se fazem consideram-se automaticamente transferidas para as correspondentes disposições dos diplomas que substituem ou complementam os alterados ou revogados.\n\n> Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30."
+  },
+  "f87b5535810d5474": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Usos na categoria de espaço área urbano-turística",
+   "in_force_from": "2018-11-30",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30."
+   ],
+   "markdown": "###### Artigo 23.º — Usos na categoria de espaço área urbano-turística\n\n1 - Nesta categoria de espaço são permitidos os usos de caráter turístico e hoteleiro, comerciais, de serviços e equipamentos.\n\n2 - Nas áreas urbano-turísticas contíguas à categoria lagos e canais é admissível um tratamento natural, pontual e contido das margens dos lagos.\n\n> Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30."
+  },
+  "b31c2a56ebf87521": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Categoria de espaço lagos e canais",
+   "in_force_from": "2018-11-30",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30."
+   ],
+   "markdown": "###### Artigo 27.º — Categoria de espaço lagos e canais\n\n1 - Identifica-se na área de intervenção do PU Vilamoura a categoria de espaço lagos e canais, delimitada na planta de zonamento.\n\n2 - Localização e áreas:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\n3 - Esta categoria de espaço destina-se à regularização das linhas de drenagem natural e armazenagem da água resultante, com fins de valorização ambiental e paisagística dos espaços onde estes se inserem e de suporte a actividades lúdicas complementares.\n\n4 - A área de lagos e canais inclui zonas inundadas e zonas secas contíguas, que contribuem para o desempenho das funções referidas no número anterior.\n\n5 - As zonas secas contíguas poderão ser inseridas em operações de loteamento, enquanto áreas para espaços verdes, integradas ou não em áreas de logradouros, sem capacidade edificatória e que garantam a continuidade da usufruição do espaço em que se inserem.\n\n> Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30."
+  },
+  "cb060e4c40249640": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Usos na categoria de espaço urbanizável de expansão",
+   "in_force_from": "2018-11-30",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30."
+   ],
+   "markdown": "###### Artigo 37.º — Usos na categoria de espaço urbanizável de expansão\n\n1 - Nesta categoria de espaço são permitidos os usos residenciais, de caráter turístico e hoteleiro, comerciais, de serviços e equipamentos.\n\n2 - Nos espaços urbanizáveis de expansão contíguos às subcategorias lagos e canais é admissível um tratamento natural, pontual e contido das margens dos lagos.\n\n> Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30."
+  },
+  "d0c13e4d2717adf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Subcategorias de espaços em áreas de RAN",
+   "in_force_from": "2018-11-30",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30."
+   ],
+   "markdown": "###### Artigo 48.º — Subcategorias de espaços em áreas de RAN\n\nIdentificam-se na área de intervenção do PU Vilamoura as seguintes subcategorias de espaço em áreas de RAN, delimitadas na planta de zonamento:\n\n1) Subcategoria de espaço centro de treinamento desportivo:\n\na) Localização e áreas propostas:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) A subcategoria de espaço centro de treinamento desportivo destina-se à prática de actividades desportivas, de treino ou competição que tenham como princípio o seu desenvolvimento ao ar livre e em solo revestido por material herbáceo, areia, plano de água ou terra;\n\nc) São permitidos os usos complementares compatíveis com o regime da RAN, nomeadamente a instalação de apoios provisórios, bancadas desmontáveis e outros meios que possibilitem o treino e a realização de competições desportivas de âmbito nacional ou internacional;\n\n2) Subcategoria de espaço verde de protecção e enquadramento em área de RAN:\n\na) Localização e áreas propostas:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) A subcategoria de espaço verde de protecção e enquadramento em área de RAN destina-se à instalação de zonas verdes de protecção e enquadramento, onde se preconiza a plantação de maciços arbóreos de espécies adequadas, por forma a constituírem barreiras naturais de enquadramento e protecção visual, podendo albergar, complementarmente, actividades e equipamentos compatíveis de recreio e desportivos;\n\n3) Subcategoria de espaço lagos e canais em RAN:\n\na) Localização e área proposta:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) A subcategoria de espaço lagos e canais em RAN destina-se à regularização das linhas de drenagem natural e armazenagem da água resultante, em adequação com a rede hidrográfica, com fins de valorização ambiental e paisagística dos espaços onde estes se inserem e de suporte a actividades lúdicas complementares.\n\nc) A área de lagos e canais inclui zonas inundadas e zonas secas contíguas, que contribuem para o desempenho das funções referidas na alínea anterior;\n\nd) Nas zonas secas contíguas o regime de uso do solo é o previsto no regime jurídico da reserva agrícola nacional.\n\n> Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30."
+  },
+  "de21a0bd7cbeaa1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Subcategorias de espaços em áreas de agricultura condicionada II",
+   "in_force_from": "2018-11-30",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30."
+   ],
+   "markdown": "###### Artigo 50.º — Subcategorias de espaços em áreas de agricultura condicionada II\n\nIdentificam-se na área de intervenção do PU Vilamoura as seguintes subcategorias de espaço em áreas de agricultura condicionada II, delimitadas na planta de zonamento:\n\n1) Subcategoria de espaço centro de treinamento desportivo:\n\na) Localização e área proposta:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) A subcategoria de espaço centro de treinamento desportivo em área de agricultura condicionada destina-se à prática de actividades desportivas de treino ou competição que tenham como princípio o seu desenvolvimento ao ar livre e em solo revestido por material herbáceo, areia, plano de água ou terra, compatíveis com os regimes da RAN e da REN;\n\n2) Subcategoria de espaço verde de protecção e enquadramento em área de agricultura condicionada II:\n\na) Localização e áreas propostas:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) A subcategoria de espaço verde de protecção e enquadramento em área de agricultura condicionada II destina-se à instalação de zonas verdes de protecção e enquadramento, onde se preconiza a plantação de maciços arbóreos de espécies adequadas, por forma a constituírem barreiras naturais de enquadramento e protecção visual, podendo albergar, complementarmente, actividades e equipamentos de recreio e desportivos compatíveis com os regimes da RAN e da REN;\n\n3) Subcategoria de espaço lagos e canais em área de agricultura condicionada II:\n\na) Localização e área proposta:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) A subcategoria de espaço lagos e canais em área de agricultura condicionada II destina-se à regularização das linhas de drenagem natural e armazenagem da água resultante, em adequação com a rede hidrográfica, com fins de valorização ambiental e paisagística dos espaços onde estes se inserem e de suporte a actividades lúdicas complementares.\n\nc) A área de lagos e canais inclui zonas inundadas e zonas secas contíguas, que contribuem para o desempenho das funções referidas na alínea anterior;\n\nd) Nas zonas secas contíguas o regime de uso do solo é o previsto nos respetivos regimes jurídicos da reserva agrícola nacional e da reserva ecológica nacional.\n\n> Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30."
+  },
+  "6d794dc474288ec3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Subcategoria de espaço lagos e canais em REN",
+   "in_force_from": "2018-11-30",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30."
+   ],
+   "markdown": "###### Artigo 53.º — Subcategoria de espaço lagos e canais em REN\n\n1 - Identifica-se na área de intervenção do PU Vilamoura a subcategoria de espaço lagos e canais em REN, delimitada na planta de zonamento:\n\na) Localização e área proposta:\n\n[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)](https://files.diariodarepublica.pt/1s/1999/06/134b00/33243336.pdf)\n\nb) A subcategoria, de espaço lagos e canais em REN destina-se à regularização das linhas de drenagem natural e armazenagem da água resultante, em adequação com a rede hidrológica, com fins de valorização ambiental e paisagística dos espaços onde estes se inserem e de suporte a actividades lúdicas complementares.\n\nc) A área de lagos e canais inclui zonas inundadas e zonas secas contíguas, que contribuem para o desempenho das funções referidas na alínea anterior;\n\nd) Nas zonas secas contíguas o regime de uso do solo é o previsto no regime jurídico da reserva ecológica nacional.\n\n> Alterado pelo/a [Aviso n.º 17712/2018](https://diariodarepublica.pt/dr/detalhe/aviso/17712-2018-117179869), publicado em 2018-11-30."
+  }
+ }
+}

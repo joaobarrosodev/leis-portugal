@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:290819:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Cervos, município de Montalegre, com uma área de 1970 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A substituição da planta anexa (Portaria n.º 1001/95) só existe em imagem; as Portarias n.os 503/2000, 683/2000 e 198/2007 suspendem e renovam a concessão sem alterar o texto da portaria.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (área 1970 ha) — substituída a unidade 6; planta substituída só em imagem, não aplicada.",
+    "Alterador 2: suspensão da atividade cinegética por 180 dias — não textual, nada aplicado.",
+    "Alterador 3: renovação por seis anos e revogação da Portaria n.º 503/2000 — não altera o texto do original, nada aplicado.",
+    "Alterador 4: renovação por 12 anos, área 1975 ha, com planta — sem instrução textual sobre o original, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

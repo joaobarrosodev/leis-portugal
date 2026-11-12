@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Curtumes e desperdícios dos curtumes.",
+    "depois": "2 - Peles tratadas, incluindo os respectivos desperdícios.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:379113:por",
+    "alterador": "pt:dre:555464:por;pt:dre:290380:por"
+  },
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - Madeira, serradura e outros materiais derivados da madeira, tratados com produtos de conservação.",
+    "depois": "4 - Madeira, serradura e outros materiais derivados da madeira tratados com produtos de conservação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:379113:por",
+    "alterador": "pt:dre:555464:por;pt:dre:290380:por"
+  },
+  {
+    "artigo": "depois da unidade 19",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "6 - Resíduos urbanos sólidos, tais como as sobras de mesa das cozinhas domésticas.\n\n7 - Sobras não tratadas dos estabelecimentos alimentares, com excepção dos géneros alimentícios de origem vegetal que, por motivos de frescura, foram julgados impróprios para o consumo humano.\n\n8 - Embalagens e partes de embalagens provenientes da utilização de produtos da indústria agro-alimentar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:379113:por",
+    "alterador": "pt:dre:555464:por;pt:dre:290380:por"
+  }
+]

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-05-16'
+version_history:
+  file: portaria-321-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-04-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-05-16'
+    amending: pt:dre:510185:por
+    amending_title: Portaria n.º 436/95
+    changes:
+    - Altera Artigo unidades 7-8
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:18:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 436/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-321-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -151,9 +166,11 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 1.º Fica sujeita ao regime cinegético especial a propriedade constante da planta anexa, denominada «Herdade de Adema», situada na freguesia de Samora Correia, concelho de Benavente, com uma área de 704,05 ha.
 
-2.º Nesta área, até ao dia 31 de Maio de 1996, é concessionada à Meto Portuguesa - Comércio e Indústria de Produtos Alimentares, Lda., a exploração de uma zona de caça turística (processo n.º 244 da Direcção-Geral das Florestas).
+2.º Pelo presente diploma é concessionada, até 31 de Maio de 1996, à AMT - Comércio e Indústria de Produtos Alimentares, S. A., com o número de pessoa colectiva 501859969 e sede em Castanheira do Ribatejo, Vila Franca de Xira, a zona de caça turística da Herdade de Adema (processo n.º 244 do Instituto Florestal).
 
-3.º Nesta zona de caça é facultado o exercício venatório a todos o caçadores, em igualdade de circunstâncias, quando devidamente licenciados pela entidade gestora.
+3.º A AMT - Comércio e Indústria de Produtos Alimentares, S. A., como entidade gestora da zona de caça turística concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
+
+> Alterado pelo/a [Portaria n.º 436/95](https://diariodarepublica.pt/dr/detalhe/portaria/436-1995-510185), publicado em 1995-05-11.
 
 4.º Nesta zona de caça a Meto Portuguesa - Comércio e Indústria de Produtos Alimentares, Lda., entidade responsável pela sua gestão, fica obrigada a cumprir e fazer cumprir o plano de ordenamento e exploração cinegético aprovado pela Direcção-Geral das Florestas, nomeadamente no respeitante aos limites anuais de cada uma das espécies, períodos, processos e meios de caça respectivos.
 

@@ -1,0 +1,48 @@
+{
+  "id": "pt:dre:55119526:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "3 - Os protocolos a celebrar entre o INEM e as entidades parceiros do SIEM são regulados e financiados nos termos definidos por acordo entre o INEM e Liga dos Bombeiros Portugueses (LBP) e/ou Cruz Vermelha Portuguesa (CVP), homologados pelo ministério com a tutela da saúde, constituindo-se através de protocolo de colaboração com as entidades operadoras.",
+      "alterador": 3
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "",
+      "alterador": 3
+    },
+    {
+      "de": 43,
+      "ate": 43,
+      "texto": "b) Os MEM e os MS são sediados nas localidades com SUP e SUMC, cuja demografia, acessibilidades e nível de ocorrências assim o justifiquem;",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 18,
+      "texto": "g) Motociclos de Socorro (MS): cuja missão é a deslocação rápida ao local da ocorrência, com vista à avaliação e estabilização clínica inicial das vítimas de trauma ou de doença súbita e das grávidas e eventual preparação para o transporte, bem como o auxílio de outras equipas que se encontrem no local da ocorrência e à triagem primária em situações excecionais.",
+      "alterador": 3
+    },
+    {
+      "depois_de": 19,
+      "texto": "2-A - Os MS estão sedeados em Corpos de Bombeiros e Cruz Vermelha Portuguesa e são tripulados por um elemento pertencente à entidade operadora, com formação específica em técnicas de emergência médica pré-hospitalar, definida e certificada pelo INEM, I. P., que lhe atribui as competências necessárias para a prestação de cuidados de emergência médica sob supervisão do médico regulador do CODU.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Despacho 7047/2022): fixa subsídios sem alterar o texto do original — nada aplicado.",
+    "Alterador 2 (Despacho 7989/2023): idem, sem instrução dirigida ao texto — nada aplicado.",
+    "Alterador 3 (Despacho 3611/2025) n.º 1: aditada alínea g) ao n.º 1 — inserção depois da unidade 18.",
+    "Alterador 3 n.º 2: aditado n.º 2-A — inserção depois da unidade 19.",
+    "Alterador 3 n.º 3: nova redação do n.º 3 — substituída a unidade 20.",
+    "Alterador 3 n.º 4: nova redação da alínea b) do n.º 12 — substituída a unidade 43.",
+    "Alterador 3 n.º 5: eliminada a alínea a) do n.º 8 — unidade 26 substituída por texto vazio."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

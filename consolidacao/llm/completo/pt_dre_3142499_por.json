@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:3142499:por",
+  "artigos": [
+    {
+      "chave": "80.º",
+      "epigrafe": "Nomeação e duração máxima do exercício de funções",
+      "texto": "1 - O IPG tem um Administrador, escolhido entre pessoas com saber e experiência na área da gestão, com competência para a gestão corrente do Instituto e a coordenação dos seus serviços, sob a direcção do Presidente.\n\n2 - O Administrador é livremente nomeado e exonerado pelo Presidente.\n\n3 - A duração máxima do exercício de funções como Administrador não pode exceder 10 anos.\n\n4 - O cargo de administrador do IPG é equiparado, para todos os efeitos legais, a subdiretor-geral, aplicando-se-lhe subsidiariamente o disposto no estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado. Esta disposição produz efeitos a 1 de janeiro de 2018.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DN 23/2019, n.º 1: altera o artigo 80.º dos Estatutos (n.os 1 a 3 e epígrafe mantidos com [...]; aditado o n.º 4) — aplicado.",
+    "DN 23/2019, n.º 2: entrada em vigor — sem efeito no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

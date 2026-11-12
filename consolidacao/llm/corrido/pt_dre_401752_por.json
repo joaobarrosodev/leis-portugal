@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:401752:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Pela presente portaria é renovada, por um período de seis anos, a concessão da zona de caça associativa da Herdade do Ratinho e outras (processo n.º 32-DGRF), abrangendo os prédios rústicos designados Herdades do Furadouro, Ratinho, Godinha, Brioa e outros, sitos na freguesia de Ciladas de São Romão, município de Vila Viçosa, com a área de 769 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 179/2006): nova redação do n.º 1.º — substituída a unidade 8.",
+    "Alterador 2 (Portaria 315/2007): renova a concessão por portaria própria, sem instrução de alteração ao texto do original — nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

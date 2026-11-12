@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Artigo 1.º Será anualmente distribuído, tanto no Instituto Superior Técnico como na Faculdade de Engenharia da Universidade do Porto, um prémio de 5000$00, designado por «Prémio Marconi», oferecido pela Companhia Portuguesa Rádio Marconi.",
+    "depois": "Artigo 1.º Será anualmente distribuído, tanto no Instituto Superior Técnico como na Faculdade de Engenharia da Universidade do Porto, um prémio de 10000$00, designado por «Prémio Marconi», oferecido pela Companhia Portuguesa Rádio Marconi.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:501825:por",
+    "alterador": "pt:dre:536059:por"
+  }
+]

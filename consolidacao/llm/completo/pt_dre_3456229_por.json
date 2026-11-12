@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:3456229:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Atribuições",
+      "texto": "1 - A Universidade do Porto prossegue, entre outros fins, os seguintes:\n\na) A formação no sentido global - cultural, científica, técnica, artística, cívica e ética - no quadro de processos diversificados de ensino e aprendizagem, visando o desenvolvimento de capacidades e competências específicas e transferíveis e a difusão do conhecimento;\n\nb) A realização de investigação científica e a criação cultural e artística, envolvendo a descoberta, aquisição e desenvolvimento de saberes e práticas, de nível avançado;\n\nc) A valorização social do conhecimento e a sua transferência para os agentes económicos e sociais, como motor de inovação e mudança;\n\nd) O incentivo ao espírito observador, à análise objectiva, ao juízo crítico e a uma atitude de problematização e avaliação da actividade científica, cultural, artística e social;\n\ne) A conservação e divulgação do património científico, cultural e artístico para utilização criativa dos especialistas e do público;\n\nf) A cooperação com as diversas instituições, grupos e outros agentes numa perspectiva de valorização recíproca, nomeadamente através da investigação aplicada e da prestação de serviços à comunidade;\n\ng) O intercâmbio cultural, científico, artístico e técnico com instituições nacionais e estrangeiras;\n\nh) A contribuição, no seu âmbito de actividade, para a cooperação internacional e para a aproximação entre os povos.\n\n2 - A Universidade do Porto concede graus de licenciado, mestre e doutor e o título de agregado, bem como outros certificados e diplomas no âmbito de actuação das suas escolas concedendo ainda equivalência e reconhecimento de graus e habilitações académicas, nos termos da lei.\n\n3 - A Universidade do Porto concede o título honorífico de doutor honoris causa, nos termos definidos na lei e nos presentes estatutos.\n\n4 - O Estabelecimento de Ensino da Universidade do Porto integra uma escola de ensino politécnico que compartilha do seu regime jurídico, incluindo a autonomia e governo próprio.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "As alterações do DN 8/2025 aos artigos 63.º (Estrutura dos órgãos), 67.º (Conselho Científico) e 85.º (Modelo Organizativo) e o aditamento ao anexo do artigo 85.º, n.º 1, alínea b), referem-se à numeração da republicação feita pelo DN 8/2015, que não está refletida no texto atual (aqui o 63.º é 'Conselho científico', o 67.º e o 85.º são outros artigos e não existe artigo 'Modelo Organizativo' com anexo nem esse anexo); o alvo é ambíguo e não se aplicaram. O alterador 1 (DN 8/2015) não traz texto no pedido.",
+  "instrucoes": [
+    "Alterador 1 (DN 8/2015): sem texto no pedido — nada aplicado.",
+    "DN 8/2025, art. 1.º, artigo 1.º: n.os 1 a 3 mantidos ([...]), aditado o n.º 4 — aplicado.",
+    "DN 8/2025, art. 1.º, artigos 63.º, 67.º e 85.º: numeração da republicação de 2015, não corresponde aos artigos com essas chaves no texto atual — não aplicado (nao_aplicavel).",
+    "DN 8/2025, art. 2.º: aditamento de 'Escola de Enfermagem da Universidade do Porto' ao anexo do artigo 85.º, n.º 1, b) — anexo inexistente no texto atual, não aplicado.",
+    "DN 8/2025, art. 3.º: produção de efeitos — sem efeito no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

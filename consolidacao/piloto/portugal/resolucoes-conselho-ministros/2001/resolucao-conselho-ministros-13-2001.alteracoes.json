@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - A emissão de obrigações do Tesouro é autorizada até ao montante máximo de 9 mil milhões de euros, de acordo com o disposto no [Decreto-Lei n.º 280/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1998-241413), de 17 de Setembro, e no respeito pelas seguintes condições complementares:",
+    "depois": "2 - A emissão de obrigações do Tesouro é autorizada até ao montante máximo de 9,5 mil milhões de euros, de acordo com o disposto no [Decreto-Lei n.º 280/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1998-241413), de 17 de Setembro, e no respeito pelas seguintes condições complementares:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:320742:por",
+    "alterador": "pt:dre:584803:por"
+  },
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - A emissão de dívida pública fundada, denominada em moeda com ou sem curso legal em Portugal, sob formas de representação distintas das indicadas nos números anteriores, é autorizada até ao montante máximo de 1000 milhões de euros.",
+    "depois": "4 - A emissão de dívida pública fundada, denominada em moeda com ou sem curso legal em Portugal, sob formas de representação distintas das indicadas nos números anteriores, é autorizada até ao montante máximo de 3,5 mil milhões de euros.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:320742:por",
+    "alterador": "pt:dre:584803:por"
+  }
+]

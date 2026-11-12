@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:391386:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 44/84 (alterador 1), no seu n.º 14.º, revoga por inteiro a Portaria n.º 181/81.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 44/84), n.º 14.º: revoga a Portaria 181/81 por inteiro; nada devolvido. As restantes disposições são regime novo, não alterações textuais ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

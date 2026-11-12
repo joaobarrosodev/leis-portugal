@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:402169:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de São Martinho do Peso, município de Mogadouro, com uma área de 1570 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a substituição da planta anexa não se aplica porque a planta só existe em imagem; alterador 2 (Portaria 718/97) revoga a concessão da zona de caça (ato administrativo, sem revogação expressa da portaria nem alteração textual), pelo que não se altera o texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 353/94): nova redação do n.º 1.º — substituída a unidade 6.",
+    "Alterador 1: substituição da planta anexa — não aplicada (imagem).",
+    "Alterador 2 (Portaria 718/97): revogação da concessão da zona de caça — não é alteração textual nem revogação expressa da portaria; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

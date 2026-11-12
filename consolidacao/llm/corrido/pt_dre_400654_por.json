@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:400654:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Pela presente portaria é renovada, por um período de oito anos, a concessão da zona de caça associativa da Herdade da Gachinha e outras (processo n.º 977-DGF), abrangendo os prédios rústicos denominados Monte de São Braz, Gaixinha, A Gachinha e Horta do Vale, sitos na freguesia de Santiago, município de Alcácer do Sal, com uma área de 366,05 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    },
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Pela presente portaria é renovada, por um período de oito anos, a concessão da zona de caça associativa da Herdade da Gachinha e outras (processo n.º 977-DGF), abrangendo os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Santiago, município de Alcácer do Sal, com uma área de 1333,2750 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A nova planta publicada com a Portaria n.º 812/2002 só vem em imagem, por isso a unidade 12 (ligação para a planta) não foi alterada.",
+  "instrucoes": [
+    "Portaria 1304/2001: nova redação do n.º 1.º -> unidade 8 substituída",
+    "Portaria 812/2002: nova redação do n.º 1.º (sem o número no texto; mantido '1.º ') -> unidade 8 substituída; planta nova só em imagem -> nao_aplicavel",
+    "Portaria 752/2008: nova renovação da concessão, sem alteração textual do original -> ignorada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituições que se sobrepõem em 8-8"
+  ]
+}

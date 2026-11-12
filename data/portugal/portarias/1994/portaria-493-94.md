@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-10-04'
+version_history:
+  file: portaria-493-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-10-04'
+    amending: pt:dre:493176:por
+    amending_title: Portaria n.º 1079/2003
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/493/1994/07/05/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:28:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1079/2003. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-493-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +159,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Maxial, município de Torres Vedras, com uma área de 1800 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Maxial, município de Torres Vedras, com a área de 1618,2572 ha.
+
+> Alterado pelo/a [Portaria n.º 1079/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1079-2003-493176), publicado em 2003-09-29.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Associação de Caçadores Os Emes do Oeste (registo no Instituto Florestal n.º 3.1382.93), com sede no Maxial, Torres Vedras, a zona de caça associativa de Maxial (processo n.º 1544 do Instituto Florestal).
 

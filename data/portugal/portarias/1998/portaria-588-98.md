@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-03-18'
+version_history:
+  file: portaria-588-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-08-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-03-18'
+    amending: pt:dre:144855:por
+    amending_title: Portaria n.º 176/99
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/588/1998/08/22/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:09:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 176/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-588-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,7 +161,9 @@ Ouvidos o Conselho Nacional da Caça e da Conservação da Fauna e o Conselho Ci
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Peraboa, município da Covilhã, com uma área de 1779 ha, e na freguesia de Caria, município de Belmonte, com uma área de 171 ha, perfazendo uma área de 1950 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Peraboa, município da Covilhã, com uma área de 1777,50 ha, e na freguesia de Caria, município de Belmonte, com uma área de 171 ha, perfazendo uma área de 1948,50 ha.
+
+> Alterado pelo/a [Portaria n.º 176/99](https://diariodarepublica.pt/dr/detalhe/portaria/176-1999-144855), publicado em 1999-03-13.
 
 2.º Pela presente portaria é concessionada pelo período de 12 anos ao Clube de Caça e Pesca de Peraboa (registo na Direcção-Geral das Florestas n.º 2.1589.97), com sede em Peraboa, Covilhã, a zona de caça associativa de Peraboa (processo n.º 2003 da Direcção-Geral das Florestas).
 

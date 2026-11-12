@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-02-27'
+version_history:
+  file: portaria-183-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-03-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-02-27'
+    amending: pt:dre:676190:por
+    amending_title: Portaria n.º 179/2006
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/183/2001/03/09/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:30:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 179/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-183-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,7 +165,9 @@ Ouvidos o Conselho Cinegético Municipal e o Conselho Nacional da Caça e da Con
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Pela presente portaria é renovada, por um período de oito anos, a concessão da zona de caça associativa da Gachinha e outras (processo n.º 32-DGF), abrangendo os prédios rústicos designados «Herdades do Furadouro, Ratinho, Godinha, Briosa» e outros, sitos na freguesia de Ciladas de São Romão, município de Vila Viçosa, com uma área de 769 ha.
+1.º Pela presente portaria é renovada, por um período de seis anos, a concessão da zona de caça associativa da Herdade do Ratinho e outras (processo n.º 32-DGRF), abrangendo os prédios rústicos designados Herdades do Furadouro, Ratinho, Godinha, Brioa e outros, sitos na freguesia de Ciladas de São Romão, município de Vila Viçosa, com a área de 769 ha.
+
+> Alterado pelo/a [Portaria n.º 179/2006](https://diariodarepublica.pt/dr/detalhe/portaria/179-2006-676190), publicado em 2006-02-22.
 
 2.º É revogada a [Portaria n.º 55/2001](https://diariodarepublica.pt/dr/detalhe/portaria/55-2001-315108), de 29 de Janeiro.
 

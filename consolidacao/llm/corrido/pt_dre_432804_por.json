@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:432804:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Pelo presente diploma é renovada, por um período de 12 anos, a concessão da zona de caça turística das Herdades da Palmeira, Ravasqueira e outras (processo n.º 94 do Instituto Florestal), abrangendo os prédios rústicos denominados «Herdades da Palmeira, Ravasqueira, Coelhas e Gafanhão» e outras, sitos na freguesia e município de Arraiolos, com uma área de 1353,75 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 81/96): nova redação do n.º 1.º (período de 12 anos) — substituída a unidade 8.",
+    "Alterador 2: duplicado da Portaria 81/96 — mesma alteração, já aplicada.",
+    "Alterador 3 (Portaria 773/2005): anexa um prédio à zona de caça, sem alteração textual do original — nada a fazer.",
+    "Alterador 4 (Portaria 69/2009): renova a concessão por portaria autónoma, sem alteração textual do original — nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

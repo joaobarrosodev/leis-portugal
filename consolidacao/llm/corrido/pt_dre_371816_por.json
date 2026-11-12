@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:371816:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Idanha-a-Velha e Medelim, município de Idanha-a-Nova, com uma área de 2013,72 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 extingue a zona de caça na parte dos prédios que passam para a nova zona de caça turística, sem nova redação nem área indicada para o original: alteração não textual.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º (freguesias de Idanha-a-Velha e Medelim) -> substituída a unidade 7.",
+    "Alterador 2: extinção parcial da zona de caça e concessão de nova zona turística -> não textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

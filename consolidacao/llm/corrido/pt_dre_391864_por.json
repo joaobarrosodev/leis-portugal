@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:391864:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 12,
+      "texto": "Artigo 1.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1414/2007, n.º 10.º: revoga o artigo 1.º do Decreto(-Lei) n.º 67/82 -> unidades 7-12 substituídas por 'Artigo 1.º - (Revogado.)'",
+    "Restantes números da portaria (criação do serviço de finanças, extinção dos serviços, mapa) não alteram o texto do original: ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 7-12: parágrafo que não está no alterador nem no original: Artigo 1.º - (Revogado.)"
+  ]
+}

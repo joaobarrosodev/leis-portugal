@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "80.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 80.º — Nomeação e duração máxima do exercício de funções\n\n1 - O IPG tem um Administrador, escolhido entre pessoas com saber e experiência na área da gestão, com competência para a gestão corrente do Instituto e a coordenação dos seus serviços, sob a direcção do Presidente.\n\n2 - O Administrador é livremente nomeado e exonerado pelo Presidente.\n\n3 - A duração máxima do exercício de funções como Administrador não pode exceder 10 anos.",
+    "depois": "###### Artigo 80.º — Nomeação e duração máxima do exercício de funções\n\n1 - O IPG tem um Administrador, escolhido entre pessoas com saber e experiência na área da gestão, com competência para a gestão corrente do Instituto e a coordenação dos seus serviços, sob a direcção do Presidente.\n\n2 - O Administrador é livremente nomeado e exonerado pelo Presidente.\n\n3 - A duração máxima do exercício de funções como Administrador não pode exceder 10 anos.\n\n4 - O cargo de administrador do IPG é equiparado, para todos os efeitos legais, a subdiretor-geral, aplicando-se-lhe subsidiariamente o disposto no estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado. Esta disposição produz efeitos a 1 de janeiro de 2018.\n\n> Alterado pelo/a [Despacho Normativo n.º 23/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2019-125139102), publicado em 2019-10-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3142499:por",
+    "alterador": "pt:dre:125139102:por"
+  }
+]

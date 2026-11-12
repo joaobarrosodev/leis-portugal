@@ -1,0 +1,62 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:432804:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-08-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ee2ae05d32bd3105"
+   ]
+  },
+  {
+   "date": "1996-03-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:534395:por",
+     "title": "Portaria n.º 81/96",
+     "published": "1996-03-15",
+     "dre_path": "/dr/detalhe/portaria/81-1996-534395"
+    },
+    {
+     "id": "pt:dre:534395:por",
+     "title": "Portaria n.º 81/96",
+     "published": "1996-03-15",
+     "dre_path": "/dr/detalhe/portaria/81-1996-534395"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8"
+   ],
+   "fragments": [
+    "5d535fd2323c02c6"
+   ]
+  }
+ ],
+ "fragments": {
+  "ee2ae05d32bd3105": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Agosto\n\nPela [Portaria n.º 1090/90](https://diariodarepublica.pt/dr/detalhe/portaria/1090-1990-566175), de 31 de Outubro, foi concessionada à Sociedade Agrícola D. Dinis, S. A., uma zona de caça turística situada no município de Arraiolos.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no artigo 83.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro;\n\nOuvido o Conselho Nacional da Caça e da Conservação da Fauna:\n\nManda o Governo, pelo Ministro da Agricultura, o seguinte:\n\n1.º Pelo presente diploma é renovada, por um período de seis anos, a concessão da zona de caça turística das Herdades da Palmeira, Ravasqueira e outras (processo n.º 94 do Instituto Florestal), abrangendo os prédios rústicos denominados «Herdades da Palmeira, Ravasqueira, Coelhas e Gafanhão» e outras, sitos na freguesia e município de Arraiolos, com uma área de 1353,75 ha.\n\n2.º Mantêm-se integralmente os direitos e obrigações decorrentes da lei e constantes da [Portaria n.º 1090/90](https://diariodarepublica.pt/dr/detalhe/portaria/1090-1990-566175), de 31 de Outubro, com excepção do disposto no n.º 8.º, cuja renovação da concessão será feita nos termos do artigo 83.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro.\n\n3.º O presente diploma entra em vigor a partir de 13 de Agosto de 1995.\n\nMinistério da Agricultura.\n\nAssinada em 7 de Agosto de 1995.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  },
+  "5d535fd2323c02c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1996-03-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 81/96](https://diariodarepublica.pt/dr/detalhe/portaria/81-1996-534395), publicado em 1996-03-15."
+   ],
+   "markdown": "de 28 de Agosto\n\nPela [Portaria n.º 1090/90](https://diariodarepublica.pt/dr/detalhe/portaria/1090-1990-566175), de 31 de Outubro, foi concessionada à Sociedade Agrícola D. Dinis, S. A., uma zona de caça turística situada no município de Arraiolos.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no artigo 83.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro;\n\nOuvido o Conselho Nacional da Caça e da Conservação da Fauna:\n\nManda o Governo, pelo Ministro da Agricultura, o seguinte:\n\n1.º Pelo presente diploma é renovada, por um período de 12 anos, a concessão da zona de caça turística das Herdades da Palmeira, Ravasqueira e outras (processo n.º 94 do Instituto Florestal), abrangendo os prédios rústicos denominados «Herdades da Palmeira, Ravasqueira, Coelhas e Gafanhão» e outras, sitos na freguesia e município de Arraiolos, com uma área de 1353,75 ha.\n\n> Alterado pelo/a [Portaria n.º 81/96](https://diariodarepublica.pt/dr/detalhe/portaria/81-1996-534395), publicado em 1996-03-15.\n\n2.º Mantêm-se integralmente os direitos e obrigações decorrentes da lei e constantes da [Portaria n.º 1090/90](https://diariodarepublica.pt/dr/detalhe/portaria/1090-1990-566175), de 31 de Outubro, com excepção do disposto no n.º 8.º, cuja renovação da concessão será feita nos termos do artigo 83.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro.\n\n3.º O presente diploma entra em vigor a partir de 13 de Agosto de 1995.\n\nMinistério da Agricultura.\n\nAssinada em 7 de Agosto de 1995.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  }
+ }
+}

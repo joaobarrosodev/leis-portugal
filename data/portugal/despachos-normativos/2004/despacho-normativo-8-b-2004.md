@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-02-23'
+version_history:
+  file: despacho-normativo-8-b-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-02-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-02-23'
+    amending: pt:dre:676196:por
+    amending_title: Despacho Normativo n.º 12/2006
+    changes:
+    - Altera Artigo ANEXO I::1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/8-b/2004/02/18/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:41:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 12/2006. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2004/despacho-normativo-8-b-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -546,7 +561,7 @@ Artigo 4.º
 
 Condições de elegibilidade dos projectos
 
-Os projectos a candidatar pelo INFTUR a cada uma das medidas previstas no presente Regulamento têm de reunir as seguintes condições de elegibilidade:
+1 - Os projectos a candidatar pelo INFTUR a cada uma das medidas previstas no presente Regulamento têm de reunir as seguintes condições de elegibilidade:
 
 a) Enquadrarem-se nos objectivos da medida e nas linhas de estratégia sectorial definidas;
 
@@ -559,6 +574,8 @@ d) Apresentarem memória descritiva e cronograma de trabalhos;
 e) Apresentarem uma estrutura de custos pormenorizada, fundamentada e ajustada aos fins a prosseguir;
 
 f) Não estar iniciada a respectiva execução material até seis meses antes da apresentação da candidatura e não estar realizada em mais de 25%.
+
+2 - O prazo para a execução material e financeira dos projectos termina em 31 de Dezembro de 2008.
 
 Artigo 5.º
 
@@ -856,7 +873,7 @@ Artigo 5.º
 
 Condições de elegibilidade dos projectos
 
-Os projectos a candidatar a cada uma das medidas previstas no presente Regulamento têm de reunir as seguintes condições de elegibilidade:
+1 - Os projectos a candidatar a cada uma das medidas previstas no presente Regulamento têm de reunir as seguintes condições de elegibilidade:
 
 a) Enquadrarem-se nos objectivos da medida a que se candidatam;
 
@@ -871,6 +888,8 @@ e) Apresentarem uma adequada cobertura financeira, com explicitação das fontes
 f) Demonstrarem relevância turística;
 
 g) Não estar iniciada a respectiva execução material até seis meses antes da apresentação da candidatura e não estar realizado o investimento em mais de 25%.
+
+2 - O prazo para a execução material e financeira dos projectos termina em 31 de Dezembro de 2008.
 
 Artigo 6.º
 
@@ -894,7 +913,7 @@ g) Outras despesas com a promoção do projecto, bem como com a organização de
 
 h) Aquisição e instalação de equipamentos pedagógicos em estruturas formativas públicas com actividade relevante na área do turismo;
 
-i) Remodelação, recuperação, adaptação e modernização de edifícios, bem como estudos referentes à aquisição e instalação de equipamentos em estruturas formativas públicas com actividade relevante na área do turismo.
+i) Construção, ampliação, remodelação, recuperação, adaptação e modernização de edifícios, bem como estudos referentes à aquisição e instalação de equipamentos em estruturas formativas públicas com actividade relevante na área do turismo.
 
 2 - Todas as despesas elegíveis são objecto de uma análise de razoabilidade e de adequação aos valores médios de mercado.
 
@@ -1141,3 +1160,5 @@ CF = critério F.
 5 - A intensidade do incentivo a conceder determina-se, em cada medida, em função da pontuação obtida pelos projectos nos termos seguintes:
 
 [[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00090019.pdf)
+
+> Alterado pelo/a [Despacho Normativo n.º 12/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2006-676196), publicado em 2006-02-22.

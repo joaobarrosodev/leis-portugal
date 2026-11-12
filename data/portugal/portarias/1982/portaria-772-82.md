@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-06-28'
+version_history:
+  file: portaria-772-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-08-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-06-28'
+    amending: pt:dre:387276:por
+    amending_title: Portaria n.º 408/84
+    changes:
+    - Altera Artigo unidades 62-64
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:24:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 408/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-772-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -245,11 +260,15 @@ História Moderna.
 
 3 - Áreas obrigatórias e unidades de crédito necessárias à obtenção do curso:
 
-a) História de Portugal ... 8
+História de Portugal (séculos XIV a XVIII):
 
-b) História do Brasil ... 4
+a) A crise dos fins do século XIV e os primórdios da expansão ... 4
 
-c) Demografia Histórica ... 4
+b) História rural de Portugal no século XVIII ... 8
+
+c) Sociabilidade camponesa ... 4
+
+> Alterado pelo/a [Portaria n.º 408/84](https://diariodarepublica.pt/dr/detalhe/portaria/408-1984-387276), publicado em 1984-06-23.
 
 Total ... 16
 

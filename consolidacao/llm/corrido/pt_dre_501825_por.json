@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:501825:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "Artigo 1.º Será anualmente distribuído, tanto no Instituto Superior Técnico como na Faculdade de Engenharia da Universidade do Porto, um prémio de 10000$00, designado por «Prémio Marconi», oferecido pela Companhia Portuguesa Rádio Marconi.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: importância do prémio alterada de 5000$00 para 10000$00 — substituída no artigo 1.º (unidade 5)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

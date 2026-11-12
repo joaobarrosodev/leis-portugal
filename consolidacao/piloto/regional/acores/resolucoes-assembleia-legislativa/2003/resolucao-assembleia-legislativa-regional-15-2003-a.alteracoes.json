@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "ANEXO — Regimento da Assembleia Legislativa Regional dos Açores::35.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 35.º — Composição das comissões\n\n1 - A composição das comissões deve corresponder às relações de voto dos partidos representados na Assembleia, não podendo ser constituídas por menos de 7 nem por mais de 11 deputados.\n\n2 - As presidências das comissões são, no conjunto, repartidas pelos grupos parlamentares, em proporção com o número dos seus deputados.\n\n3 - Para efeitos do número anterior, e sem prejuízo do princípio da proporcionalidade, utilizado o método da média mais alta de Hondt, os grupos parlamentares escolhem as presidências que lhes caibam, a começar pelo grupo parlamentar do partido mais votado na eleição para a Assembleia.\n\n4 - O número de membros de cada comissão e a sua distribuição pelos diversos partidos são fixados por deliberação da Assembleia, sob proposta do Presidente, ouvida a Conferência.",
+    "depois": "###### Artigo 35.º — Composição das comissões\n\n1 - A composição das comissões especializadas permanentes deve corresponder às relações de voto dos partidos representados na Assembleia, não podendo ser constituídas por menos de 7 nem por mais de 13 deputados.\n\n2 - As presidências das comissões são, no conjunto, repartidas pelos grupos parlamentares, em proporção com o número dos seus deputados.\n\n3 - Para efeitos do número anterior, e sem prejuízo do princípio da proporcionalidade, utilizado o método da média mais alta de Hondt, os grupos parlamentares escolhem as presidências que lhes caibam, a começar pelo grupo parlamentar do partido mais votado na eleição para a Assembleia.\n\n4 - O número de membros de cada comissão e a sua distribuição pelos diversos partidos são fixados por deliberação da Assembleia, sob proposta do Presidente, ouvida a Conferência.\n\n> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 3/2009/A](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/3-2009-397361), publicado em 2009-01-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:437213:por",
+    "alterador": "pt:dre:397361:por"
+  },
+  {
+    "artigo": "ANEXO — Regimento da Assembleia Legislativa Regional dos Açores::45.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 45.º — Composição\n\n1 - A Comissão Permanente é presidida pelo Presidente da Assembleia e composta pelos vice-presidentes e por deputados indicados por todos os grupos e representações parlamentares, de acordo com a respectiva representatividade na Assembleia.\n\n2 - Aplica-se à Comissão Permanente o disposto nos n.os 1 e 4 do artigo 35.º e nos artigos 36.º e 37.º",
+    "depois": "###### Artigo 45.º — Composição\n\n1 - A comissão permanente é presidida pelo Presidente da Assembleia e composta pelos Vice-Presidentes e por deputados indicados por todos os grupos e representações parlamentares, não podendo ser constituída por menos de um quarto nem por mais de metade dos deputados que compõem a Assembleia.\n\n2 - Aplica-se à comissão permanente o disposto no n.º 4 do artigo 35.º e nos artigos 36.º e 37.º, bem como no n.º 3 do artigo 38.º, no que respeita à eleição do relator e do secretário da respectiva mesa.\n\n> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 3/2009/A](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/3-2009-397361), publicado em 2009-01-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:437213:por",
+    "alterador": "pt:dre:397361:por"
+  }
+]

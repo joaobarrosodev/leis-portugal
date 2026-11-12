@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 62-64",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) História de Portugal ... 8\n\nb) História do Brasil ... 4\n\nc) Demografia Histórica ... 4",
+    "depois": "História de Portugal (séculos XIV a XVIII):\n\na) A crise dos fins do século XIV e os primórdios da expansão ... 4\n\nb) História rural de Portugal no século XVIII ... 8\n\nc) Sociabilidade camponesa ... 4",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:396882:por",
+    "alterador": "pt:dre:387276:por"
+  }
+]

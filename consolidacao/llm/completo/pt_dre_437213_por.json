@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:437213:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Regimento da Assembleia Legislativa Regional dos Açores::35.º",
+      "epigrafe": "Composição das comissões",
+      "texto": "1 - A composição das comissões especializadas permanentes deve corresponder às relações de voto dos partidos representados na Assembleia, não podendo ser constituídas por menos de 7 nem por mais de 13 deputados.\n\n2 - As presidências das comissões são, no conjunto, repartidas pelos grupos parlamentares, em proporção com o número dos seus deputados.\n\n3 - Para efeitos do número anterior, e sem prejuízo do princípio da proporcionalidade, utilizado o método da média mais alta de Hondt, os grupos parlamentares escolhem as presidências que lhes caibam, a começar pelo grupo parlamentar do partido mais votado na eleição para a Assembleia.\n\n4 - O número de membros de cada comissão e a sua distribuição pelos diversos partidos são fixados por deliberação da Assembleia, sob proposta do Presidente, ouvida a Conferência.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regimento da Assembleia Legislativa Regional dos Açores::45.º",
+      "epigrafe": "Composição",
+      "texto": "1 - A comissão permanente é presidida pelo Presidente da Assembleia e composta pelos Vice-Presidentes e por deputados indicados por todos os grupos e representações parlamentares, não podendo ser constituída por menos de um quarto nem por mais de metade dos deputados que compõem a Assembleia.\n\n2 - Aplica-se à comissão permanente o disposto no n.º 4 do artigo 35.º e nos artigos 36.º e 37.º, bem como no n.º 3 do artigo 38.º, no que respeita à eleição do relator e do secretário da respectiva mesa.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 3.º n.º 1: nova redação do n.º 1 do art. 35.º do Regimento (epígrafe e n.os 2 a 4 mantidos por '[...]'/'...'); aplicado.",
+    "Alterador 1, art. 3.º n.º 1: nova redação dos n.os 1 e 2 do art. 45.º do Regimento (epígrafe mantida por '[...]'); aplicado.",
+    "Alterador 1, arts. 1.º, 2.º, 3.º n.º 2 e 4.º: normas autónomas (elenco e composição das comissões, composição da comissão permanente, vigência), sem alteração textual ao Regimento; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

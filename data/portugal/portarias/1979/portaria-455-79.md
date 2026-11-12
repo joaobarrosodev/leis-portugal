@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-08-20'
+version_history:
+  file: portaria-455-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-08-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-08-20'
+    amending: pt:dre:471127:por
+    amending_title: Portaria n.º 537/80
+    changes:
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:59:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 537/80. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-455-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,7 +150,9 @@ Ter já obtido classificações iguais ou superiores aos limites mínimos fixado
 
 5 - Para que a realização das provas da época de recurso não possa reflectir-se em caso algum num atraso do processo de candidatura ao ensino superior, determina-se que a data de publicação dos resultados definitivos destas provas apenas deve obedecer ao requisito de em cada ano anteceder a data de abertura da última fase de candidatura ao ingresso no ensino superior.
 
-6 - Pela mesma razão acima enunciada, estas provas terão uma única chamada e não são passíveis de recurso.
+6 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 537/80](https://diariodarepublica.pt/dr/detalhe/portaria/537-1980-471127), publicado em 1980-08-20.
 
 7 - Disposições transitórias:
 

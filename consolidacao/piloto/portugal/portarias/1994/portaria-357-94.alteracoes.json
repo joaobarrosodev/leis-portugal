@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Bela Palha», «Tourega» e «Chotas», sitos na freguesia de Vimieiro, município de Arraiolos, com uma área de 1328,20 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Bela Palha», «Tourega» e «Chotas», sitos na freguesia de Vimieiro, município de Arraiolos, com uma área de 1263,20 ha, conforme planta anexa ao presente diploma e que dele faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:302324:por",
+    "alterador": "pt:dre:534049:por"
+  }
+]

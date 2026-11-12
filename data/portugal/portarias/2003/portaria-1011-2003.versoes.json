@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:496963:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-09-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "018883dcb8654b71"
+   ]
+  },
+  {
+   "date": "2004-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:515408:por",
+     "title": "Portaria n.º 997/2004",
+     "published": "2004-08-09",
+     "dre_path": "/dr/detalhe/portaria/997-2004-515408"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "a873af1498932bdc"
+   ]
+  }
+ ],
+ "fragments": {
+  "018883dcb8654b71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Setembro\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Serpa:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de São Gens (processo n.º 3408-DGF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores das Freguesias de Santa Maria e Salvador, com o número de pessoa colectiva 506394697, com sede na Rua da Abegoaria, 7800 Serpa.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Salvador e Santa Maria, município de Serpa, com a área de 1664,9550 ha.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 40%, relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 10%, relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 30%, relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 20%, aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva direcção regional de agricultura, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n7.º A sinalização da zona de caça deve obedecer ao disposto na alínea b) dos n.os 2.º e 3.º e nos n.os 4.º a 7.º da [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro, e ainda no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 3 de Setembro de 2003.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/09/216b00/60716071.pdf)"
+  },
+  "a873af1498932bdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2004-08-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 997/2004](https://diariodarepublica.pt/dr/detalhe/portaria/997-2004-515408), publicado em 2004-08-09."
+   ],
+   "markdown": "de 18 de Setembro\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Serpa:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de São Gens (processo n.º 3408-DGF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores das Freguesias de Santa Maria e Salvador, com o número de pessoa colectiva 506394697, com sede na Rua da Abegoaria, 7800 Serpa.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Salvador e Santa Maria, município de Serpa, com a área de 1655,7050 ha.\n\n> Alterado pelo/a [Portaria n.º 997/2004](https://diariodarepublica.pt/dr/detalhe/portaria/997-2004-515408), publicado em 2004-08-09.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 40%, relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 10%, relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 30%, relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 20%, aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva direcção regional de agricultura, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n7.º A sinalização da zona de caça deve obedecer ao disposto na alínea b) dos n.os 2.º e 3.º e nos n.os 4.º a 7.º da [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro, e ainda no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 3 de Setembro de 2003.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/09/216b00/60716071.pdf)"
+  }
+ }
+}

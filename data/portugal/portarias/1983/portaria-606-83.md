@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-04-24'
+version_history:
+  file: portaria-606-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-05-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-04-24'
+    amending: pt:dre:654953:por
+    amending_title: Portaria n.º 254/83
+    changes:
+    - Adita Artigo depois da unidade 55
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:44:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 254/83. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-606-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -213,6 +228,12 @@ c) Na definição das formas de apoio aos delegados, aos grupos e aos professore
 8.5 - Prestar às direcções-gerais de ensino o apoio e participação que por aquelas for solicitado no que se refere à preparação e orientação de acções de formação contínua;
 
 8.6 - Colaborar com os delegados na aplicação dos critérios de avaliação dos professores em profissionalização.
+
+8.7 - Em situações excepcionais de inexistência de delegados à profissionalização, assegurar o acompanhamento dos profissionalizandos e responsabilizar-se pela sua formação e avaliação, dando e propondo ao conselho pedagógico a informação qualitativa e a classificação.
+
+8.8 - Elaborar, em conjunto com os conselhos pedagógicos, proposta de plano de formação para os casos previstos no número anterior, a submeter, nos termos dos n.os 6.2 dos regulamentos aprovados pelas Portarias n.os [606/83](https://diariodarepublica.pt/dr/detalhe/portaria/606-1983-451812) e [607/83](https://diariodarepublica.pt/dr/detalhe/portaria/607-1983-451813), de 25 de Maio, ao conselho orientador e às direcções-gerais de ensino.
+
+> Aditado pelo/a [Portaria n.º 254/83](https://diariodarepublica.pt/dr/detalhe/portaria/254-1984-654953), publicado em 1984-04-19.
 
 9 - Compete aos conselhos de professores, em colaboração com o conselho pedagógico:
 

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "25-bis",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 25-bis\n\nAs autoridades aduaneiras competentes não exigirão o pagamento dos direitos e taxas de importação quando se provar, a seu contento, que um veículo importado ao abrigo de um documento de importação temporária já não poderá ser reexportado em virtude de ter sido destruído ou de se ter irremediavelmente perdido por motivo de força maior, particularmente em consequência de actos de guerra, motins ou catástrofes naturais.\n\n> Aditado pelo/a [Decreto do Governo n.º 52/84](https://diariodarepublica.pt/dr/detalhe/decreto-governo/52-1984-373644), publicado em 1984-08-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:478240:por",
+    "alterador": "pt:dre:373644:por"
+  }
+]

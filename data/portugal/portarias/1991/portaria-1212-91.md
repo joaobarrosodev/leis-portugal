@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-02-17'
+version_history:
+  file: portaria-1212-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-02-17'
+    amending: pt:dre:290380:por
+    amending_title: Portaria n.º 415/94; Portaria n.º 97/97
+    changes:
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 18-18
+    - Adita Artigo depois da unidade 19
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1212/1991/12/20/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:40:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 415/94; Portaria n.º
+    97/97. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-1212-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,10 +164,23 @@ Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da
 
 1 - Fezes, urina e o conteúdo isolado do aparelho digestivo obtido aquando do esvaziamento ou separação deste, independentemente do tratamento a que foram submetidos ou da mistura realizada.
 
-2 - Curtumes e desperdícios dos curtumes.
+2 - Peles tratadas, incluindo os respectivos desperdícios.
+
+> Alterado pelo/a [Portaria n.º 97/97](https://diariodarepublica.pt/dr/detalhe/portaria/97-1997-555464), publicado em 1997-02-12.
 
 3 - Sementes, plantas e outros materiais de propagação vegetativa tratados, após colheita, com produtos fitofarmacêuticos e respectivos produtos derivados.
 
-4 - Madeira, serradura e outros materiais derivados da madeira, tratados com produtos de conservação.
+4 - Madeira, serradura e outros materiais derivados da madeira tratados com produtos de conservação.
+
+> Alterado pelo/a [Portaria n.º 415/94](https://diariodarepublica.pt/dr/detalhe/portaria/415-1994-290380), publicado em 1994-06-28.
 
 5 - Lamas provenientes de estações de tratamento de águas residuais.
+
+
+6 - Resíduos urbanos sólidos, tais como as sobras de mesa das cozinhas domésticas.
+
+7 - Sobras não tratadas dos estabelecimentos alimentares, com excepção dos géneros alimentícios de origem vegetal que, por motivos de frescura, foram julgados impróprios para o consumo humano.
+
+8 - Embalagens e partes de embalagens provenientes da utilização de produtos da indústria agro-alimentar.
+
+> Aditado pelo/a [Portaria n.º 97/97](https://diariodarepublica.pt/dr/detalhe/portaria/97-1997-555464), publicado em 1997-02-12.

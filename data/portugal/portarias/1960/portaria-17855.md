@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1964-10-31'
+version_history:
+  file: portaria-17855.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-07-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1964-10-31'
+    amending: pt:dre:536059:por
+    amending_title: Portaria n.º 20878
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:46:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 20878. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1960/portaria-17855.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -92,7 +107,9 @@ Ministério da Educação Nacional, 23 de Julho de 1960. - Pelo Ministro da Educ
 
 Regulamento para a concessão do Prémio Marconi
 
-Artigo 1.º Será anualmente distribuído, tanto no Instituto Superior Técnico como na Faculdade de Engenharia da Universidade do Porto, um prémio de 5000$00, designado por «Prémio Marconi», oferecido pela Companhia Portuguesa Rádio Marconi.
+Artigo 1.º Será anualmente distribuído, tanto no Instituto Superior Técnico como na Faculdade de Engenharia da Universidade do Porto, um prémio de 10000$00, designado por «Prémio Marconi», oferecido pela Companhia Portuguesa Rádio Marconi.
+
+> Alterado pelo/a [Portaria n.º 20878](https://diariodarepublica.pt/dr/detalhe/portaria/20878-1964-536059), publicado em 1964-10-31.
 
 Art. 2.º Este prémio será atribuído ao licenciado em Engenharia Electrotécnica por cada um dos referidos estabelecimentos de ensino superior que tiver a maior classificação média nas cadeiras de Electrónica Aplicada (5.º ano), Telecomunicações I (5.º ano) e Telecomunicações II (6.º ano), desde que essa classificação média seja no mínimo igual a 16 valores e a informação final do seu curso não seja expressa por nota inferior a 14 valores (valorização arredondada nos termos da lei).
 

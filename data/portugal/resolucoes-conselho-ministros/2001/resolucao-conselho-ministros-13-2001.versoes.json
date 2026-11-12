@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:320742:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-02-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0ae29d7052f0640c"
+   ]
+  },
+  {
+   "date": "2002-01-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:584803:por",
+     "title": "Resolução do Conselho de Ministros n.º 3/2002",
+     "published": "2002-01-05",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/3-2002-584803"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7",
+    "Altera Artigo unidades 13-13"
+   ],
+   "fragments": [
+    "9e04776d847b1d3e"
+   ]
+  }
+ ],
+ "fragments": {
+  "0ae29d7052f0640c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Os artigos 70.º a 72.º da [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro, autorizam o Governo, nos termos da alínea h) do artigo 161.º da Constituição, a contrair empréstimos amortizáveis e a realizar outras operações de endividamento, destinados ao financiamento do défice orçamental, à assunção de passivos e regularização de responsabilidades e ao refinanciamento da dívida pública.\n\nPelo que cumpre agora dar execução aos artigos 70.º a 72.º da [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro, tendo em conta o disposto no artigo 5.º, n.º 1, da [Lei n.º 7/98](https://diariodarepublica.pt/dr/detalhe/lei/7-1998-223628), de 3 de Fevereiro, bem como no artigo 4.º, n.º 1, e no artigo 6.º, n.º 1, alínea a), dos Estatutos do Instituto de Gestão do Crédito Público, aprovados pelo [Decreto-Lei n.º 160/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1996-241644), de 4 de Setembro.\n\nAssim:\n\nNos termos da alínea b) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Autorizar o Instituto de Gestão do Crédito Público a contrair, em nome e representação da República, empréstimos sob as formas de representação indicadas nos números seguintes desta resolução, destinados às finalidades indicadas nos artigos 70.º a 72.º da [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro, até ao montante máximo fixado nesta última disposição.\n\n2 - A emissão de obrigações do Tesouro é autorizada até ao montante máximo de 9 mil milhões de euros, de acordo com o disposto no [Decreto-Lei n.º 280/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1998-241413), de 17 de Setembro, e no respeito pelas seguintes condições complementares:\n\na) O valor nominal mínimo de cada obrigação do Tesouro é de 1 cêntimo, podendo, todavia, o Instituto de Gestão do Crédito Público estabelecer outro valor nominal;\n\nb) O reembolso das obrigações do Tesouro é efectuado ao par;\n\nc) Se as obrigações do Tesouro forem emitidas por séries, estas são identificadas pelos respectivos cupão e data de vencimento, não podendo o respectivo prazo de vencimento exceder 30 anos;\n\nd) As condições específicas de cada série de obrigações do Tesouro, designadamente o regime de taxa de juro, as condições de pagamento de juros, o regime de reembolso e o destaque de direitos, são estabelecidas e divulgadas pelo Instituto de Gestão do Crédito Público, em função das condições vigentes nos mercados financeiros no momento da primeira emissão e da estratégia de financiamento considerada mais adequada.\n\n3 - A emissão de certificados de aforro é autorizada até ao montante máximo de 2,5 mil milhões de euros.\n\n4 - A emissão de dívida pública fundada, denominada em moeda com ou sem curso legal em Portugal, sob formas de representação distintas das indicadas nos números anteriores, é autorizada até ao montante máximo de 1000 milhões de euros.\n\n5 - O montante total das emissões de empréstimos públicos que sejam realizadas nos termos do disposto nos precedentes n.os 2 a 4 não poderá, em caso algum, ultrapassar o limite fixado no artigo 72.º da [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro.\n\n6 - Por despacho do Ministro das Finanças, podem ser anulados montantes autorizados, mas não colocados, de alguma ou algumas das formas de representação de empréstimos públicos previstas nos números anteriores e aumentados, no mesmo valor, os montantes autorizados para outra ou outras dessas formas.\n\n7 - A presente resolução entra em vigor no dia imediato ao da sua publicação.\n\nPresidência do Conselho de Ministros, 1 de Fevereiro de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "9e04776d847b1d3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2002-01-06",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 3/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2002-584803), publicado em 2002-01-05.",
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 3/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2002-584803), publicado em 2002-01-05."
+   ],
+   "markdown": "Os artigos 70.º a 72.º da [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro, autorizam o Governo, nos termos da alínea h) do artigo 161.º da Constituição, a contrair empréstimos amortizáveis e a realizar outras operações de endividamento, destinados ao financiamento do défice orçamental, à assunção de passivos e regularização de responsabilidades e ao refinanciamento da dívida pública.\n\nPelo que cumpre agora dar execução aos artigos 70.º a 72.º da [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro, tendo em conta o disposto no artigo 5.º, n.º 1, da [Lei n.º 7/98](https://diariodarepublica.pt/dr/detalhe/lei/7-1998-223628), de 3 de Fevereiro, bem como no artigo 4.º, n.º 1, e no artigo 6.º, n.º 1, alínea a), dos Estatutos do Instituto de Gestão do Crédito Público, aprovados pelo [Decreto-Lei n.º 160/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1996-241644), de 4 de Setembro.\n\nAssim:\n\nNos termos da alínea b) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Autorizar o Instituto de Gestão do Crédito Público a contrair, em nome e representação da República, empréstimos sob as formas de representação indicadas nos números seguintes desta resolução, destinados às finalidades indicadas nos artigos 70.º a 72.º da [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro, até ao montante máximo fixado nesta última disposição.\n\n2 - A emissão de obrigações do Tesouro é autorizada até ao montante máximo de 9,5 mil milhões de euros, de acordo com o disposto no [Decreto-Lei n.º 280/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1998-241413), de 17 de Setembro, e no respeito pelas seguintes condições complementares:\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 3/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2002-584803), publicado em 2002-01-05.\n\na) O valor nominal mínimo de cada obrigação do Tesouro é de 1 cêntimo, podendo, todavia, o Instituto de Gestão do Crédito Público estabelecer outro valor nominal;\n\nb) O reembolso das obrigações do Tesouro é efectuado ao par;\n\nc) Se as obrigações do Tesouro forem emitidas por séries, estas são identificadas pelos respectivos cupão e data de vencimento, não podendo o respectivo prazo de vencimento exceder 30 anos;\n\nd) As condições específicas de cada série de obrigações do Tesouro, designadamente o regime de taxa de juro, as condições de pagamento de juros, o regime de reembolso e o destaque de direitos, são estabelecidas e divulgadas pelo Instituto de Gestão do Crédito Público, em função das condições vigentes nos mercados financeiros no momento da primeira emissão e da estratégia de financiamento considerada mais adequada.\n\n3 - A emissão de certificados de aforro é autorizada até ao montante máximo de 2,5 mil milhões de euros.\n\n4 - A emissão de dívida pública fundada, denominada em moeda com ou sem curso legal em Portugal, sob formas de representação distintas das indicadas nos números anteriores, é autorizada até ao montante máximo de 3,5 mil milhões de euros.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 3/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2002-584803), publicado em 2002-01-05.\n\n5 - O montante total das emissões de empréstimos públicos que sejam realizadas nos termos do disposto nos precedentes n.os 2 a 4 não poderá, em caso algum, ultrapassar o limite fixado no artigo 72.º da [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro.\n\n6 - Por despacho do Ministro das Finanças, podem ser anulados montantes autorizados, mas não colocados, de alguma ou algumas das formas de representação de empréstimos públicos previstas nos números anteriores e aumentados, no mesmo valor, os montantes autorizados para outra ou outras dessas formas.\n\n7 - A presente resolução entra em vigor no dia imediato ao da sua publicação.\n\nPresidência do Conselho de Ministros, 1 de Fevereiro de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

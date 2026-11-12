@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:371816:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-07-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6db0156173031e3b"
+   ]
+  },
+  {
+   "date": "2001-11-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:567027:por",
+     "title": "Portaria n.º 1306/2001",
+     "published": "2001-11-22",
+     "dre_path": "/dr/detalhe/portaria/1306-2001-567027"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "2cc78631ec51ce1f"
+   ]
+  }
+ ],
+ "fragments": {
+  "6db0156173031e3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Julho\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro;\n\nOuvido o Conselho Cinegético Municipal de Idanha-a-Nova:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Idanha-a-Velha (processo n.º 2657-DGF), pelo período de seis anos, e transferida a sua gestão para a Junta de Freguesia de Idanha-a-Velha.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Idanha-a-Velha, município de Idanha-a-Nova, com a área de 2013,72 ha.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 30% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 20% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 20% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 30% aos demais caçadores conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva DRA, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça municipal será obrigatoriamente sinalizada com tabuletas do modelo n.º 2 e sinal do modelo n.º 10, definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.\n\n7.º A eficácia da transferência está dependente de prévia sinalização, de acordo com as condições definidas na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974).\n\n8.º Com carácter excepcional, justificado pela alteração anormal das circunstâncias, motivada pela complexidade de procedimentos inerentes à entrada em vigor e consequente execução da [Lei n.º 173/99](https://diariodarepublica.pt/dr/detalhe/lei/173-1999-558207), de 21 de Setembro, e do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, e em benefício do princípio da prossecução do interesse público e da protecção dos direitos e interesses dos cidadãos, não se aplica o determinado no n.º 3 do n.º 7.º da [Portaria n.º 467/2001](https://diariodarepublica.pt/dr/detalhe/portaria/467-2001-316162), de 8 de Maio.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 6 de Julho de 2001.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2001/07/171b00/45334534.pdf)"
+  },
+  "2cc78631ec51ce1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2001-11-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1306/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1306-2001-567027), publicado em 2001-11-22."
+   ],
+   "markdown": "de 25 de Julho\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro;\n\nOuvido o Conselho Cinegético Municipal de Idanha-a-Nova:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Idanha-a-Velha (processo n.º 2657-DGF), pelo período de seis anos, e transferida a sua gestão para a Junta de Freguesia de Idanha-a-Velha.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Idanha-a-Velha e Medelim, município de Idanha-a-Nova, com uma área de 2013,72 ha.\n\n> Alterado pelo/a [Portaria n.º 1306/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1306-2001-567027), publicado em 2001-11-22.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 30% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 20% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 20% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 30% aos demais caçadores conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva DRA, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça municipal será obrigatoriamente sinalizada com tabuletas do modelo n.º 2 e sinal do modelo n.º 10, definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.\n\n7.º A eficácia da transferência está dependente de prévia sinalização, de acordo com as condições definidas na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974).\n\n8.º Com carácter excepcional, justificado pela alteração anormal das circunstâncias, motivada pela complexidade de procedimentos inerentes à entrada em vigor e consequente execução da [Lei n.º 173/99](https://diariodarepublica.pt/dr/detalhe/lei/173-1999-558207), de 21 de Setembro, e do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, e em benefício do princípio da prossecução do interesse público e da protecção dos direitos e interesses dos cidadãos, não se aplica o determinado no n.º 3 do n.º 7.º da [Portaria n.º 467/2001](https://diariodarepublica.pt/dr/detalhe/portaria/467-2001-316162), de 8 de Maio.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 6 de Julho de 2001.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2001/07/171b00/45334534.pdf)"
+  }
+ }
+}

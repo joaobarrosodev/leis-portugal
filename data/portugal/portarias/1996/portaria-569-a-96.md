@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-02-25'
+version_history:
+  file: portaria-569-a-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-10-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-02-25'
+    amending: pt:dre:507176:por
+    amending_title: Portaria n.º 117/97
+    changes:
+    - Altera Artigo unidades 43-43
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/569-a/1996/10/10/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:33:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 117/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-569-a-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -233,7 +248,9 @@ ANEXO I
 
 2.º As cláusulas dos contratos celebrados ao abrigo da [Portaria n.º 809-E/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-e-1994-617289), de 12 de Setembro, que contrariem o direito comunitário deverão ser alteradas nos termos do disposto na presente portaria.
 
-3.º A título excepcional para o presente ano, os processos de candidatura às ajudas previstas na secção I do capítulo IV da [Portaria n.º 809-E/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-e-1994-617289), de 12 de Setembro, podem ser apresentados até 30 de Outubro e a celebração dos contratos entre os respectivos beneficiários e o IFADAP para efeitos da atribuição das ajudas pode ter lugar até 31 de Janeiro do próximo ano.
+3.º A título excepcional para o presente ano, os processos de candidatura às ajudas previstas na secção I do capítulo IV da [Portaria n.º 809-E/94](https://diariodarepublica.pt/dr/detalhe/portaria/809-e-1994-617289), de 12 de Setembro, podem ser apresentados até 30 de Outubro, a respectiva análise, aprovação pela Direcção-Geral do Desenvolvimento Rural e envio subsequente ao IFADAP até 28 de Fevereiro e a contratação das ajudas por este Instituto até 15 de Março de 1997.
+
+> Alterado pelo/a [Portaria n.º 117/97](https://diariodarepublica.pt/dr/detalhe/portaria/117-1997-507176), publicado em 1997-02-20.
 
 Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 

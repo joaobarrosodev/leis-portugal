@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-01-06'
+version_history:
+  file: resolucao-conselho-ministros-13-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-02-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-06'
+    amending: pt:dre:584803:por
+    amending_title: Resolução do Conselho de Ministros n.º 3/2002
+    changes:
+    - Altera Artigo unidades 7-7
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/13/2001/02/13/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:39:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 3/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2001/resolucao-conselho-ministros-13-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,7 +153,9 @@ Nos termos da alínea b) do artigo 199.º da Constituição, o Conselho de Minis
 
 1 - Autorizar o Instituto de Gestão do Crédito Público a contrair, em nome e representação da República, empréstimos sob as formas de representação indicadas nos números seguintes desta resolução, destinados às finalidades indicadas nos artigos 70.º a 72.º da [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro, até ao montante máximo fixado nesta última disposição.
 
-2 - A emissão de obrigações do Tesouro é autorizada até ao montante máximo de 9 mil milhões de euros, de acordo com o disposto no [Decreto-Lei n.º 280/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1998-241413), de 17 de Setembro, e no respeito pelas seguintes condições complementares:
+2 - A emissão de obrigações do Tesouro é autorizada até ao montante máximo de 9,5 mil milhões de euros, de acordo com o disposto no [Decreto-Lei n.º 280/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1998-241413), de 17 de Setembro, e no respeito pelas seguintes condições complementares:
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 3/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2002-584803), publicado em 2002-01-05.
 
 a) O valor nominal mínimo de cada obrigação do Tesouro é de 1 cêntimo, podendo, todavia, o Instituto de Gestão do Crédito Público estabelecer outro valor nominal;
 
@@ -149,7 +167,9 @@ d) As condições específicas de cada série de obrigações do Tesouro, design
 
 3 - A emissão de certificados de aforro é autorizada até ao montante máximo de 2,5 mil milhões de euros.
 
-4 - A emissão de dívida pública fundada, denominada em moeda com ou sem curso legal em Portugal, sob formas de representação distintas das indicadas nos números anteriores, é autorizada até ao montante máximo de 1000 milhões de euros.
+4 - A emissão de dívida pública fundada, denominada em moeda com ou sem curso legal em Portugal, sob formas de representação distintas das indicadas nos números anteriores, é autorizada até ao montante máximo de 3,5 mil milhões de euros.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 3/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2002-584803), publicado em 2002-01-05.
 
 5 - O montante total das emissões de empréstimos públicos que sejam realizadas nos termos do disposto nos precedentes n.os 2 a 4 não poderá, em caso algum, ultrapassar o limite fixado no artigo 72.º da [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro.
 

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:283163:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Os três alteradores (DL 288/91, DL 90/94 e DL 107/2013) alteram os Estatutos da Fundação Luso-Americana aprovados pelo Decreto-Lei n.º 168/85 (outro diploma), ainda que na redação dada pelo DL 45/88; pela regra, essas instruções não são do original e não foram aplicadas.",
+  "instrucoes": [
+    "DL 288/91, artigo único: altera o n.º 3 do art. 8.º dos Estatutos aprovados pelo DL 168/85, na versão dada pelo DL 45/88 — alteração a outro diploma, ignorada.",
+    "DL 90/94, art. 1.º: altera os arts. 8.º, 9.º e 12.º dos Estatutos anexos ao DL 168/85 — outro diploma, ignorada; art. 2.º é norma transitória.",
+    "DL 107/2013, arts. 2.º, 3.º e 5.º: alteram, reorganizam e revogam artigos do DL 168/85 e dos seus Estatutos — outro diploma, ignorado; art. 6.º republica os Estatutos (não o DL 45/88)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

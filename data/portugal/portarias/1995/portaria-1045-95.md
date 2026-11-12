@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-03-20'
+version_history:
+  file: portaria-1045-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-08-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-03-20'
+    amending: pt:dre:534395:por
+    amending_title: Portaria n.º 81/96; Portaria n.º 81/96
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1045/1995/08/28/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:44:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 81/96; Portaria n.º
+    81/96. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-1045-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,7 +157,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Pelo presente diploma é renovada, por um período de seis anos, a concessão da zona de caça turística das Herdades da Palmeira, Ravasqueira e outras (processo n.º 94 do Instituto Florestal), abrangendo os prédios rústicos denominados «Herdades da Palmeira, Ravasqueira, Coelhas e Gafanhão» e outras, sitos na freguesia e município de Arraiolos, com uma área de 1353,75 ha.
+1.º Pelo presente diploma é renovada, por um período de 12 anos, a concessão da zona de caça turística das Herdades da Palmeira, Ravasqueira e outras (processo n.º 94 do Instituto Florestal), abrangendo os prédios rústicos denominados «Herdades da Palmeira, Ravasqueira, Coelhas e Gafanhão» e outras, sitos na freguesia e município de Arraiolos, com uma área de 1353,75 ha.
+
+> Alterado pelo/a [Portaria n.º 81/96](https://diariodarepublica.pt/dr/detalhe/portaria/81-1996-534395), publicado em 1996-03-15.
 
 2.º Mantêm-se integralmente os direitos e obrigações decorrentes da lei e constantes da [Portaria n.º 1090/90](https://diariodarepublica.pt/dr/detalhe/portaria/1090-1990-566175), de 31 de Outubro, com excepção do disposto no n.º 8.º, cuja renovação da concessão será feita nos termos do artigo 83.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro.
 

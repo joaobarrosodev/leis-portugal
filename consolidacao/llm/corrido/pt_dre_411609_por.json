@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:411609:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "a) As contribuições devidas pelo trabalho prestado em cada mês serão pagas, do dia 11 ao dia 20 do mês seguinte àquele a que disserem respeito, na sede da Caixa de Previdência e Abono de Família do Distrito do Funchal, em dinheiro, vale do correio ou cheque à ordem desta instituição;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1: a redução temporária (seis meses) da contribuição da entidade patronal para $60 não se aplica porque as taxas do n.º 4 só existem no quadro em imagem e a alteração é transitória.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 279/74), n.º 1: contribuição patronal do n.º 4 alterada para $60 por seis meses — não aplicada (quadro em imagem, alteração temporária).",
+    "Alterador 1, n.º 2: prazo de pagamento da alínea a) do n.º 4 passa a ser do dia 11 ao dia 20 — substituída a unidade 20 trocando 'do dia 1 ao dia 10' por 'do dia 11 ao dia 20'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

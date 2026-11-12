@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:451812:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 55,
+      "texto": "8.7 - Em situações excepcionais de inexistência de delegados à profissionalização, assegurar o acompanhamento dos profissionalizandos e responsabilizar-se pela sua formação e avaliação, dando e propondo ao conselho pedagógico a informação qualitativa e a classificação.\n\n8.8 - Elaborar, em conjunto com os conselhos pedagógicos, proposta de plano de formação para os casos previstos no número anterior, a submeter, nos termos dos n.os 6.2 dos regulamentos aprovados pelas Portarias n.os [606/83](https://diariodarepublica.pt/dr/detalhe/portaria/606-1983-451812) e [607/83](https://diariodarepublica.pt/dr/detalhe/portaria/607-1983-451813), de 25 de Maio, ao conselho orientador e às direcções-gerais de ensino.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 254/84): adita os n.os 8.7 e 8.8 ao n.º 8 do Regulamento — inseridos a seguir à unidade 55 (8.6)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

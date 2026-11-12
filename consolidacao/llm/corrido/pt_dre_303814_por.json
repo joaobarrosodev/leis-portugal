@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:303814:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Castelo Rodrigo, município de Figueira de Castelo Rodrigo, com uma área de 1298,5625 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A substituição da planta anexa (Portaria n.º 1427/95) só existe em imagem; as Portarias n.º 171/99, 1033-DG/2004 e 520/2010 anexam, desanexam e renovam a concessão sem darem nova redação a nenhum ponto do original, pelo que não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (área 1298,5625 ha) - substituída a unidade 6.",
+    "Alterador 1: planta anexa substitui a anterior - não aplicável (imagem).",
+    "Alterador 2: anexação de 249,40 ha (total 1547,9625 ha) - não textual, não aplicada.",
+    "Alterador 3: renovação por 12 anos (1548 ha) - não textual, não aplicada.",
+    "Alterador 4: desanexação de 59 ha e anexação de 780 ha (total 2269 ha) - não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

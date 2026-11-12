@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:396882:por",
+  "substituicoes": [
+    {
+      "de": 62,
+      "ate": 64,
+      "texto": "História de Portugal (séculos XIV a XVIII):\n\na) A crise dos fins do século XIV e os primórdios da expansão ... 4\n\nb) História rural de Portugal no século XVIII ... 8\n\nc) Sociabilidade camponesa ... 4",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 403/89, n.º 12.º, n.º 1: derroga a Portaria n.º 772/82 'no que se refere ao curso de História Cultural e Política na Época Moderna', com regime de transição; é uma derrogação parcial sem alvo textual expresso (não revoga nem altera unidades concretas), por isso não se aplica ao texto.",
+  "instrucoes": [
+    "Portaria 408/84: nova redação do anexo I; só mudam as áreas obrigatórias do ponto 3 -> unidades 62-64 substituídas; a linha '... 16' corresponde à unidade 65 'Total ... 16', que fica; o resto do anexo é igual",
+    "Portaria 403/89: cria outro mestrado (não altera o original); n.º 12.º derroga a portaria quanto ao curso de História Cultural e Política na Época Moderna -> nao_aplicavel"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

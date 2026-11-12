@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:555645:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdade do Rabo do Toureiro», sito na freguesia e município de Barrancos, com uma área de 637,9250 ha, e «Herdades das Tezas, Coutada, Tapada» e outros, sitos nas freguesias de Safara e Santo Aleixo da Restauração, município de Moura, com uma área de 2161,0370 ha, perfazendo uma área de 2798,9620 ha, conforme planta anexa ao presente diploma e que dele faz parte integrante.",
+      "alterador": 2
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "7.º As propriedades que integram esta zona de caça, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidas ao regime florestal, obrigando-se a concessionária a manter dois guardas florestais auxiliares dotados de meio de transporte.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A substituição da planta anexa (Portaria n.º 34/95) não se aplica: a planta só existe em imagem; a Portaria n.º 831/2005 renova a concessão por 12 anos sem alterar o texto do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 963/91): nova redação do n.º 7.º — substituída a unidade 12.",
+    "Alterador 2 (Portaria 34/95): nova redação do n.º 1.º — substituída a unidade 6; substituição da planta anexa não aplicada (imagem).",
+    "Alterador 3 (Portaria 831/2005): renovação da concessão, sem instrução textual — nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6 - Pela mesma razão acima enunciada, estas provas terão uma única chamada e não são passíveis de recurso.",
+    "depois": "6 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:378763:por",
+    "alterador": "pt:dre:471127:por"
+  }
+]

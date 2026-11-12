@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Requerentes e beneficiários\n\n1 - Podem candidatar-se ao apoio financeiro a conceder no âmbito do presente Regulamento os autores e produtores de animação.\n\n2 - Os autores e os produtores que apresentem projectos no âmbito do presente Regulamento devem estar devidamente inscritos no ICAM.",
+    "depois": "###### Artigo 3.º — Requerentes e beneficiários\n\n1 - Podem candidatar-se ao apoio financeiro a conceder no âmbito do presente Regulamento os autores e produtores de animação.\n\n2 - Podem beneficiar do apoio financeiro a conceder no âmbito do presente Regulamento os produtores de animação.\n\n> Alterado pelo/a [Portaria n.º 730-A/2004](https://diariodarepublica.pt/dr/detalhe/portaria/730-a-2004-230340), publicado em 2004-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300002:por",
+    "alterador": "pt:dre:230340:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Instrução das candidaturas\n\n1 - As candidaturas ao apoio financeiro previstas no presente Regulamento devem ser apresentadas no ICAM mediante requerimento.\n\n2 - O requerimento a que se refere o número anterior deve ser apresentado em formulário próprio fornecido pelo ICAM, instruído com os seguintes documentos e informações:\n\na) Certidão do registo comercial da entidade produtora;\n\nb) Currículo dos autores;\n\nc) Currículo do produtor, quando for o caso;\n\nd) Sinopse desenvolvida;\n\ne) Outros elementos considerados relevantes para a apreciação da candidatura;\n\nf) Caracterização das personagens;\n\ng) Indicação das técnicas a utilizar;\n\nh) Contratos celebrados com o autor e com o autor de obra preexistente, se for o caso, em conformidade com o disposto no Código do Direito de Autor e Direitos Conexos;\n\ni) Registo da sinopse na Inspecção-Geral das Actividades Culturais;\n\nj) Declarações comprovativas da regular situação do requerente perante a administração fiscal e a segurança social.\n\n3 - Não há lugar à apresentação dos documentos mencionados nas alíneas a) e c) do número anterior quando o pedido for apresentado pelo autor.",
+    "depois": "###### Artigo 9.º — Instrução das candidaturas\n\n1 - As candidaturas ao apoio financeiro previstas no presente Regulamento devem ser apresentadas no ICAM mediante requerimento.\n\n2 - O requerimento a que se refere o número anterior deve ser apresentado em formulário próprio fornecido pelo ICAM, instruído com os seguintes documentos e informações:\n\na) Certidão do registo comercial da entidade produtora;\n\nb) Declarações comprovativas da regular situação do requerente perante a administração fiscal e a segurança social;\n\nc) Currículo do produtor, quando for o caso;\n\nd) Currículo dos autores;\n\ne) Conceito de produção com descrição das características do filme e sua aplicabilidade técnica e artística;\n\nf) Sinopse desenvolvida;\n\ng) Registo da obra na Inspecção-Geral das Actividades Culturais (IGAC);\n\nh) Contratos celebrados com o autor e com o autor de obra preexistente, se for o caso, em conformidade com o disposto no Código do Direito de Autor e Direitos Conexos;\n\ni) Apresentação gráfica.\n\n3 - Não há lugar à apresentação dos documentos mencionados nas alíneas a) e c) do número anterior quando o pedido for apresentado pelo autor.\n\n> Alterado pelo/a [Portaria n.º 730-A/2004](https://diariodarepublica.pt/dr/detalhe/portaria/730-a-2004-230340), publicado em 2004-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300002:por",
+    "alterador": "pt:dre:230340:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º — Decisão\n\n1 - Compete ao Ministro da Cultura decidir sobre a atribuição do apoio financeiro previsto no presente Regulamento, mediante proposta apresentada pelo ICAM baseada na deliberação do júri, nos montantes estabelecidos nos termos do artigo 50 e no financiamento solicitado.\n\n2 - A decisão a que se refere o número anterior deve ser tomada no prazo de 10 dias úteis a contar da apresentação da proposta do ICAM.\n\n3 - Compete ao ICAM tornar pública a decisão de atribuição de apoio financeiro, mediante aviso a afixar na sua sede e notificação a todos os requerentes admitidos a concursos.",
+    "depois": "###### Artigo 13.º — Decisão\n\n1 - Compete ao ICAM decidir sobre a atribuição do apoio financeiro previsto no presente Regulamento, mediante proposta apresentada pelo júri e após audiência dos interessados, nos termos constantes no Código do Procedimento Administrativo.\n\n2 - A decisão a que se refere o número anterior deve ser tomada no prazo de 10 dias úteis a contar da apresentação da proposta do júri.\n\n3 - Compete ao ICAM tornar pública a decisão de atribuição de apoio financeiro, mediante aviso a afixar na sua sede e notificação a todos os requerentes admitidos a concursos.\n\n4 - Da decisão do ICAM cabe recurso para o Ministro da Cultura, a apresentar no prazo de cinco dias úteis contados a partir da data de recepção da notificação.\n\n> Alterado pelo/a [Portaria n.º 730-A/2004](https://diariodarepublica.pt/dr/detalhe/portaria/730-a-2004-230340), publicado em 2004-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300002:por",
+    "alterador": "pt:dre:230340:por"
+  },
+  {
+    "artigo": "13.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 13.º-A — Condições de atribuição do apoio financeiro\n\n1 - No caso de a decisão a que se refere o artigo 13.º recair sobre um projecto apresentado pelo autor, deve este apresentar ao ICAM, no prazo de 30 dias úteis a contar da notificação, a indicação do produtor de animação do projecto.\n\n2 - Até ao termo do prazo referido no número anterior, devem ser apresentados os documentos relativos ao produtor de animação previstos nas alíneas a) e c) do n.º 2 do artigo 9.º do presente Regulamento, bem como declarações comprovativas da regular situação do mesmo perante a administração fiscal e a segurança social.\n\n3 - Não sendo cumprido o disposto nos números anteriores, fica sem efeito a atribuição do apoio financeiro.\n\n4 - No caso previsto no número anterior, a posição dos restantes candidatos na lista de ordenação referida no n.º 6 do artigo 12.º do presente Regulamento deverá ser ajustada em conformidade, passando para a posição do candidato preterido o candidato ordenado na posição imediatamente a seguir.\n\n> Aditado pelo/a [Portaria n.º 730-A/2004](https://diariodarepublica.pt/dr/detalhe/portaria/730-a-2004-230340), publicado em 2004-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300002:por",
+    "alterador": "pt:dre:230340:por"
+  },
+  {
+    "artigo": "15.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 15.º — Acordo de apoio financeiro\n\n1 - Comunicada a decisão referida no artigo 13.º, o ICAM celebra com o beneficiário um acordo de apoio financeiro no qual se estabelecem os termos e o montante do apoio atribuído.\n\n2 - O prazo destinado ao desenvolvimento de projectos de média metragem não pode ser superior a 12 meses.\n\n3 - O prazo destinado ao desenvolvimento de projectos de longa metragem e séries não pode ser superior a 18 meses.\n\n4 - O pagamento dos apoios financeiros é sempre efectuado em prestações.\n\n5 - O pagamento de cada prestação é condicionado à apresentação de contas para comprovação da boa aplicação das quantias entregues referentes ao apoio financeiro.\n\n6 - O pagamento da primeira prestação, no valor correspondente a 40% do apoio financeiro atribuído, é efectuado no acto de assinatura do acordo.\n\n7 - A última prestação no valor correspondente a 10% do apoio financeiro atribuído é efectuado após a entrega no ICAM pelo beneficiários dos seguintes elementos:\n\na) Estrutura do projecto;\n\nb) Estudo das personagens e dos ambientes, com os respectivos desenhos;\n\nc) Memorando descritivo das técnicas a utilizar;\n\nd) Previsão de custos do projecto;\n\ne) Documentos comprovativos das despesas realizadas.",
+    "depois": "###### Artigo 15.º — Acordo de apoio financeiro\n\n1 - Comunicada a decisão referida no artigo 13.º ou cumprido o disposto nos n.os 1 e 2 do artigo 13.º-A do presente Regulamento, o ICAM celebra com os produtores de animação um acordo de apoio financeiro no qual se estabelecem os termos e o montante do apoio atribuído.\n\n2 - O prazo destinado ao desenvolvimento de projectos de média metragem não pode ser superior a 12 meses.\n\n3 - O prazo destinado ao desenvolvimento de projectos de longa metragem e séries não pode ser superior a 18 meses.\n\n4 - O pagamento dos apoios financeiros é sempre efectuado em prestações.\n\n5 - O pagamento de cada prestação é condicionado à apresentação de contas para comprovação da boa aplicação das quantias entregues referentes ao apoio financeiro.\n\n6 - O pagamento da primeira prestação, no valor correspondente a 40% do apoio financeiro atribuído, é efectuado no acto de assinatura do acordo.\n\n7 - A última prestação no valor correspondente a 10% do apoio financeiro atribuído é efectuado após a entrega no ICAM pelo beneficiários dos seguintes elementos:\n\na) Guião;\n\nb) Desenvolvimento gráfico das personagens e dos ambientes;\n\nc) Documentos comprovativos das despesas realizadas.\n\n> Alterado pelo/a [Portaria n.º 730-A/2004](https://diariodarepublica.pt/dr/detalhe/portaria/730-a-2004-230340), publicado em 2004-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300002:por",
+    "alterador": "pt:dre:230340:por"
+  }
+]

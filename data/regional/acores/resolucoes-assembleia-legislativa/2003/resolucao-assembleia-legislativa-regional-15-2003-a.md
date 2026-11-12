@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-01-15'
+version_history:
+  file: resolucao-assembleia-legislativa-regional-15-2003-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-11-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-15'
+    amending: pt:dre:397361:por
+    amending_title: Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 3/2009/A
+    changes:
+    - Altera Artigo ANEXO — Regimento da Assembleia Legislativa Regional dos Açores::35.º
+    - Altera Artigo ANEXO — Regimento da Assembleia Legislativa Regional dos Açores::45.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolalr/15/2003/11/26/a/dre/pt/html
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:33:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução da Assembleia Legislativa
+    da Região Autónoma dos Açores n.º 3/2009/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/resolucoes-assembleia-legislativa/2003/resolucao-assembleia-legislativa-regional-15-2003-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -548,13 +564,15 @@ A mesa mantém-se em funções até ao início da nova legislatura.
 
 ###### Artigo 35.º — Composição das comissões
 
-1 - A composição das comissões deve corresponder às relações de voto dos partidos representados na Assembleia, não podendo ser constituídas por menos de 7 nem por mais de 11 deputados.
+1 - A composição das comissões especializadas permanentes deve corresponder às relações de voto dos partidos representados na Assembleia, não podendo ser constituídas por menos de 7 nem por mais de 13 deputados.
 
 2 - As presidências das comissões são, no conjunto, repartidas pelos grupos parlamentares, em proporção com o número dos seus deputados.
 
 3 - Para efeitos do número anterior, e sem prejuízo do princípio da proporcionalidade, utilizado o método da média mais alta de Hondt, os grupos parlamentares escolhem as presidências que lhes caibam, a começar pelo grupo parlamentar do partido mais votado na eleição para a Assembleia.
 
 4 - O número de membros de cada comissão e a sua distribuição pelos diversos partidos são fixados por deliberação da Assembleia, sob proposta do Presidente, ouvida a Conferência.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 3/2009/A](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/3-2009-397361), publicado em 2009-01-14.
 
 ###### Artigo 36.º — Indicação dos membros das comissões
 
@@ -658,9 +676,11 @@ Fora do período normal de funcionamento da Assembleia, durante o período em qu
 
 ###### Artigo 45.º — Composição
 
-1 - A Comissão Permanente é presidida pelo Presidente da Assembleia e composta pelos vice-presidentes e por deputados indicados por todos os grupos e representações parlamentares, de acordo com a respectiva representatividade na Assembleia.
+1 - A comissão permanente é presidida pelo Presidente da Assembleia e composta pelos Vice-Presidentes e por deputados indicados por todos os grupos e representações parlamentares, não podendo ser constituída por menos de um quarto nem por mais de metade dos deputados que compõem a Assembleia.
 
-2 - Aplica-se à Comissão Permanente o disposto nos n.os 1 e 4 do artigo 35.º e nos artigos 36.º e 37.º
+2 - Aplica-se à comissão permanente o disposto no n.º 4 do artigo 35.º e nos artigos 36.º e 37.º, bem como no n.º 3 do artigo 38.º, no que respeita à eleição do relator e do secretário da respectiva mesa.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 3/2009/A](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/3-2009-397361), publicado em 2009-01-14.
 
 ###### Artigo 46.º — Competência
 

@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "depois da unidade 18",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "g) Motociclos de Socorro (MS): cuja missão é a deslocação rápida ao local da ocorrência, com vista à avaliação e estabilização clínica inicial das vítimas de trauma ou de doença súbita e das grávidas e eventual preparação para o transporte, bem como o auxílio de outras equipas que se encontrem no local da ocorrência e à triagem primária em situações excecionais.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:55119526:por",
+    "alterador": "pt:dre:911816958:por"
+  },
+  {
+    "artigo": "depois da unidade 19",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "2-A - Os MS estão sedeados em Corpos de Bombeiros e Cruz Vermelha Portuguesa e são tripulados por um elemento pertencente à entidade operadora, com formação específica em técnicas de emergência médica pré-hospitalar, definida e certificada pelo INEM, I. P., que lhe atribui as competências necessárias para a prestação de cuidados de emergência médica sob supervisão do médico regulador do CODU.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:55119526:por",
+    "alterador": "pt:dre:911816958:por"
+  },
+  {
+    "artigo": "unidades 20-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - Os Postos de Emergência Médica e Postos Reserva são regulados e financiados nos termos definidos por acordo entre o INEM, a Autoridade Nacional da Proteção Civil (ANPC) e representantes das entidades parceiros do SIEM, homologado pelos Ministérios das respetivas tutelas, constituindo-se através de protocolo de colaboração entre o INEM, e as referidas entidades operadoras.",
+    "depois": "3 - Os protocolos a celebrar entre o INEM e as entidades parceiros do SIEM são regulados e financiados nos termos definidos por acordo entre o INEM e Liga dos Bombeiros Portugueses (LBP) e/ou Cruz Vermelha Portuguesa (CVP), homologados pelo ministério com a tutela da saúde, constituindo-se através de protocolo de colaboração com as entidades operadoras.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:55119526:por",
+    "alterador": "pt:dre:911816958:por"
+  },
+  {
+    "artigo": "unidades 26-26",
+    "operacao": "remover",
+    "regra": "llm",
+    "antes": "a) Cedência de veículo e seu equipamento no caso dos Postos de Emergência Médica;",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:55119526:por",
+    "alterador": "pt:dre:911816958:por"
+  },
+  {
+    "artigo": "unidades 43-43",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Os MEM são sediados nas localidades com SUP e SUMC, cuja demografia, acessibilidades e nível de ocorrências assim o justifiquem;",
+    "depois": "b) Os MEM e os MS são sediados nas localidades com SUP e SUMC, cuja demografia, acessibilidades e nível de ocorrências assim o justifiquem;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:55119526:por",
+    "alterador": "pt:dre:911816958:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - Os departamentos ministeriais não poderão utilizar as respectivas quotas para a admissão de pessoal além dos quadros fora dos casos expressamente previstos nas alíneas b) a d) do artigo 14.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.",
+    "depois": "4 - Os departamentos ministeriais não poderão utilizar as respectivas quotas para a admissão de pessoal além dos quadros fora dos casos expressamente previstos nas alíneas b) a d) do artigo 14.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e nos artigos 1.º e 2.º do [Decreto-Lei n.º 200/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1985-182239), de 25 de Junho.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:380155:por",
+    "alterador": "pt:dre:234481:por"
+  }
+]

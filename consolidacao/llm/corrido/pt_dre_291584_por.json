@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:291584:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Maxial, município de Torres Vedras, com a área de 1618,2572 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "As substituições da planta anexa (Portarias n.os 988/95 e 1079/2003) só existem em imagem; a renovação e anexação da Portaria n.º 796/2006 não alteram o texto da portaria.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (área 1626,9052 ha) — aplicada à unidade 6, depois substituída pela redação do alterador 2; planta só em imagem.",
+    "Alterador 2: nova redação do n.º 1.º da Portaria n.º 988/95, que é a redação do n.º 1.º do original (área 1618,2572 ha) — unidade 6 substituída com o texto final, mantido o número 1.º.",
+    "Alterador 3: renovação por 12 anos e anexação de prédios (área total 1760 ha) — sem instrução textual sobre o original, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

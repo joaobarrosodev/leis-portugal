@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2019-10-10'
+version_history:
+  file: despacho-normativo-48-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-09-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-10-10'
+    amending: pt:dre:125139102:por
+    amending_title: Despacho Normativo n.º 23/2019
+    changes:
+    - Altera Artigo 80.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:06:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 23/2019. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2008/despacho-normativo-48-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1363,6 +1378,10 @@ O regime remuneratório dos titulares dos órgãos de governo e de gestão do In
 2 - O Administrador é livremente nomeado e exonerado pelo Presidente.
 
 3 - A duração máxima do exercício de funções como Administrador não pode exceder 10 anos.
+
+4 - O cargo de administrador do IPG é equiparado, para todos os efeitos legais, a subdiretor-geral, aplicando-se-lhe subsidiariamente o disposto no estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado. Esta disposição produz efeitos a 1 de janeiro de 2018.
+
+> Alterado pelo/a [Despacho Normativo n.º 23/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2019-125139102), publicado em 2019-10-09.
 
 ###### Artigo 81.º — Competências
 

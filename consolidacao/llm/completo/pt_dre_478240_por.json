@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:478240:por",
+  "artigos": [
+    {
+      "chave": "25-bis",
+      "epigrafe": "",
+      "texto": "As autoridades aduaneiras competentes não exigirão o pagamento dos direitos e taxas de importação quando se provar, a seu contento, que um veículo importado ao abrigo de um documento de importação temporária já não poderá ser reexportado em virtude de ter sido destruído ou de se ter irremediavelmente perdido por motivo de força maior, particularmente em consequência de actos de guerra, motins ou catástrofes naturais.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 aprova os textos dos anexos 1 a 5 da Convenção, que não constam do texto atual e cujos modelos só vêm em imagem; não foram acrescentados.",
+  "instrucoes": [
+    "Alterador 1: aprovação dos anexos (texto francês e tradução) — anexos ausentes do texto atual e modelos só em imagem: não aplicada.",
+    "Alterador 2: aditado o artigo 25-bis (versão portuguesa), sem epígrafe."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

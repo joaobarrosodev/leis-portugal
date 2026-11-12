@@ -41,10 +41,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-01-18'
+version_history:
+  file: portaria-958-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-10-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-01-18'
+    amending: pt:dre:301621:por
+    amending_title: Portaria n.º 963/91; Portaria n.º 34/95
+    changes:
+    - Altera Artigo unidades 6-6
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: null
@@ -70,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:34:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 963/91; Portaria n.º
+    34/95. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-958-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +160,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º Ficam sujeitas ao regime cinegético especial as propriedades constantes da planta anexa, denominadas «Herdade do Rabo do Toureiro», situada na freguesia e concelho de Barrancos, com uma área de 637,9250 ha, e «Herdade das Tezas» e «Herdade da Coitada e Outras», situadas na freguesia de Safara, e «Herdade das Tezas e Malhada do Judeu», situadas na freguesia de Santo Aleixo da Restauração, ambas as freguesias situadas no concelho de Moura, com uma área de 1709, 3269 ha, perfazendo uma área de 2347,2519 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdade do Rabo do Toureiro», sito na freguesia e município de Barrancos, com uma área de 637,9250 ha, e «Herdades das Tezas, Coutada, Tapada» e outros, sitos nas freguesias de Safara e Santo Aleixo da Restauração, município de Moura, com uma área de 2161,0370 ha, perfazendo uma área de 2798,9620 ha, conforme planta anexa ao presente diploma e que dele faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 34/95](https://diariodarepublica.pt/dr/detalhe/portaria/34-1995-146940), publicado em 1995-01-13.
 
 2.º Nesta área, até ao dia 31 de Maio de 2005, é concessionada à Têxtil Manuel Gonçalves, S. A., a exploração de uma zona de caça turística (processo n.º 384 da Direcção-Geral das Florestas).
 
@@ -156,7 +174,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 6.º A linha perimetral desta zona de caça é obrigatoriamente sinalizada com tabuletas do modelo n.º 4 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, sendo aplicável em conjunto o disposto na citada portaria e na [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.
 
-7.º As propriedades que integram esta zona de caça, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidas ao regime florestal, obrigando-se a concessionária a manter três guardas florestais auxiliares dotados de meio de transporte.
+7.º As propriedades que integram esta zona de caça, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidas ao regime florestal, obrigando-se a concessionária a manter dois guardas florestais auxiliares dotados de meio de transporte.
+
+> Alterado pelo/a [Portaria n.º 963/91](https://diariodarepublica.pt/dr/detalhe/portaria/963-1991-301621), publicado em 1991-09-20.
 
 8.º Esta concessão é renovável, nos termos do disposto no artigo 73.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890).
 

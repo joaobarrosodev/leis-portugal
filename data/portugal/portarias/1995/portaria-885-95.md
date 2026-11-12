@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-07-01'
+version_history:
+  file: portaria-885-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-07-01'
+    amending: pt:dre:427404:por
+    amending_title: Portaria n.º 232/96
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/885/1995/07/14/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:13:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 232/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-885-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,7 +167,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos nas freguesias de Moimenta da Beira e Paradinho, município de Moimenta da Beira, com uma área de 2928 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Moimenta da Beira, Paradinho e Cabaços, município de Moimenta da Beira, com uma área de 2928 ha.
+
+> Alterado pelo/a [Portaria n.º 232/96](https://diariodarepublica.pt/dr/detalhe/portaria/232-1996-427404), publicado em 1996-06-26.
 
 2.º Pelo presente diploma é concessionada, até 14 de Julho de 2005, ao Clube Desportivo de Caça e Pesca de Moimenta da Beira (registo no Instituto Florestal n.º 1.1333.93), com sede em Moimenta da Beira, a zona de caça associativa de São Miguel (processo n.º 1341 do Instituto Florestal).
 

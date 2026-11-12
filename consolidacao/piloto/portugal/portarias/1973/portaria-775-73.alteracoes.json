@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 20-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) As contribuições devidas pelo trabalho prestado em cada mês serão pagas, do dia 1 ao dia 10 do mês seguinte àquele a que disserem respeito, na sede da Caixa de Previdência e Abono de Família do Distrito do Funchal, em dinheiro, vale do correio ou cheque à ordem desta instituição;",
+    "depois": "a) As contribuições devidas pelo trabalho prestado em cada mês serão pagas, do dia 11 ao dia 20 do mês seguinte àquele a que disserem respeito, na sede da Caixa de Previdência e Abono de Família do Distrito do Funchal, em dinheiro, vale do correio ou cheque à ordem desta instituição;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:411609:por",
+    "alterador": "pt:dre:411860:por"
+  }
+]
