@@ -56,6 +56,21 @@ def ids_without_text(directory: Path) -> set[str]:
     return found
 
 
+def _failure_key(item: dict[str, str]) -> tuple[str, str]:
+    for key in ("id", "listagem"):
+        if key in item:
+            return key, item[key]
+    return "", ""
+
+
+def _read_failures(path: Path | None) -> list[dict[str, str]]:
+    import json
+
+    if path is None or not path.exists():
+        return []
+    return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
+
+
 class _Ingestion:
     def __init__(
         self, acervo: Acervo, *, refresh: bool = False, only: set[str] | None = None, failures_path: Path | None = None
@@ -65,6 +80,14 @@ class _Ingestion:
         # Com `only`, só estes ids são (re)descarregados; os outros são ignorados.
         self.only = only
         self.failures_path = failures_path
+        # A lista de falhas acumula entre recolhas: uma recolha só de um ano (a diária)
+        # não apaga as falhas dos outros anos nem as notas acrescentadas à mão.
+        self._previous = _read_failures(failures_path)
+        self._attempted: set[tuple[str, str]] = set()
+        self._known: set[str] = set()
+
+    def _attempt(self, key: str, value: str) -> None:
+        self._attempted.add((key, value))
 
     def _save(self, document) -> WriteResult:
         record = document.record
@@ -75,8 +98,18 @@ class _Ingestion:
             return
         import json
 
+        previous = {_failure_key(item): item for item in self._previous}
+        current = []
+        for item in summary.failures:
+            earlier = previous.get(_failure_key(item), {})
+            # Falhou de novo: mantém os campos acrescentados (p. ex. "nota") e atualiza o motivo.
+            current.append({**{k: v for k, v in earlier.items() if k not in ("motivo", "error")}, **item})
+        retried = self._attempted | {("id", record_id) for record_id in self._known}
+        kept = [item for key, item in previous.items() if key not in retried]
         self.failures_path.parent.mkdir(parents=True, exist_ok=True)
-        self.failures_path.write_text("".join(json.dumps(item, ensure_ascii=False) + "\n" for item in summary.failures), encoding="utf-8")
+        self.failures_path.write_text(
+            "".join(json.dumps(item, ensure_ascii=False) + "\n" for item in kept + current), encoding="utf-8"
+        )
 
     def _run(
         self,
@@ -104,6 +137,7 @@ class _Ingestion:
             if limit is not None and done >= limit:
                 break
             done += 1
+            self._attempt("id", record_id)
             try:
                 result = collect(item)
             except LeisPortugalError as exc:
@@ -132,10 +166,11 @@ class CnpdIngestion(_Ingestion):
         progress: Progress = silent,
     ) -> DecisionRunSummary:
         summary = DecisionRunSummary()
-        known = existing_ids(self.acervo.data / ENTITIES_SCOPE / "cnpd")
+        known = self._known = existing_ids(self.acervo.data / ENTITIES_SCOPE / "cnpd")
         for slug in types:
             decision_type = cnpd.TYPES[slug]
             for year in years:
+                self._attempt("listagem", f"{slug}:{year}")
                 try:
                     listed = self.client.listing(decision_type, year)
                 except LeisPortugalError as exc:
@@ -151,11 +186,13 @@ class CnpdIngestion(_Ingestion):
 
                 remaining = None if limit is None else max(0, limit - len(summary.results) - len(summary.failures))
                 if remaining == 0:
+                    self._flush(summary)
                     return summary
                 self._run(
                     listed, key=cnpd.record_id, collect=collect, known=known, summary=summary,
                     progress=progress, label=f"CNPD {decision_type.label} {year}", limit=remaining,
                 )
+        self._flush(summary)
         return summary
 
 
@@ -181,9 +218,10 @@ class TcIngestion(_Ingestion):
 
     def ingest(self, *, years: list[int], limit: int | None = None, progress: Progress = silent) -> DecisionRunSummary:
         summary = DecisionRunSummary()
-        known = existing_ids(self.acervo.data / CASE_LAW_SCOPE / "tribunal-constitucional")
+        known = self._known = existing_ids(self.acervo.data / CASE_LAW_SCOPE / "tribunal-constitucional")
         published = dre_judgments(self.acervo)
         for year in years:
+            self._attempt("listagem", str(year))
             try:
                 listed = self.client.listing(year)
             except LeisPortugalError as exc:
@@ -203,9 +241,11 @@ class TcIngestion(_Ingestion):
 
             remaining = None if limit is None else max(0, limit - len(summary.results) - len(summary.failures))
             if remaining == 0:
+                self._flush(summary)
                 return summary
             self._run(
                 listed, key=tc.record_id, collect=collect, known=known, summary=summary,
                 progress=progress, label=f"TC {year}", limit=remaining,
             )
+        self._flush(summary)
         return summary

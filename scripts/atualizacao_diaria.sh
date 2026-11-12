@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # Atualização diária do acervo: DRE (1.ª Série) e EUR-Lex (Jornal Oficial) de um
-# intervalo de datas, ligação Portugal–UE, validação e relatórios.
+# intervalo de datas; acórdãos do Tribunal Constitucional e decisões da CNPD novos
+# (do ano anterior e do atual, porque o site publica com atraso); ligação
+# Portugal–UE, validação e relatórios.
 #
 # Uso: scripts/atualizacao_diaria.sh [DE] [ATÉ]
 #   DE/ATÉ em AAAA-MM-DD; por omissão, o dia anterior em Lisboa.
@@ -50,6 +52,12 @@ run() {
 echo "Atualização de $FROM a $TO"
 run leis-portugal collect dre --from "$FROM" --to "$TO"
 run leis-portugal collect eurlex --from "$FROM" --to "$TO" --workers 4
+# O TC e a CNPD não se pesquisam por data de publicação: relê-se a listagem dos
+# anos e recolhe-se só o que ainda não está no acervo.
+FROM_YEAR=$(( 10#${FROM:0:4} - 1 ))
+TO_YEAR=$(( 10#${TO:0:4} ))
+run leis-portugal collect tc --from-year "$FROM_YEAR" --to-year "$TO_YEAR"
+run leis-portugal collect cnpd --from-year "$FROM_YEAR" --to-year "$TO_YEAR"
 run leis-portugal link
 
 echo "::group::leis-portugal validate"

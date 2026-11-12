@@ -320,3 +320,36 @@ def test_tc_date_kept_when_listing_and_signature_agree_and_dropped_when_nothing_
     date, note = tc.decision_date(_tc_item("1996-05-12", number=355, year=1998), "Lisboa, 12 de Maio de 1996")
     assert date is None
     assert note.startswith("Sem data:")
+
+
+def test_failure_list_keeps_other_years_and_notes_and_drops_what_was_collected(repo_root: Path):
+    import json
+
+    path = repo_root / "reports" / "tc_failures.jsonl"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    earlier = [
+        {"id": "pt:tc:acordao:2007:396", "motivo": "sem_texto_na_fonte", "error": "x", "nota": "erro 401 na página"},
+        {"id": "pt:tc:acordao:2024:401", "motivo": "sem_texto_na_fonte", "error": "x", "nota": "já resolvido"},
+        {"listagem": "2024", "motivo": "rede", "error": "x"},
+    ]
+    path.write_text("".join(json.dumps(item) + "\n" for item in earlier), encoding="utf-8")
+
+    # A recolha diária só vê 2024: recolhe o 401 e lista 2024 sem erro.
+    TcIngestion(Acervo(repo_root), client_factory=FakeTcClient, failures_path=path).ingest(years=[2024])
+    kept = [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines()]
+    assert kept == [earlier[0]]
+
+
+def test_failure_list_keeps_the_note_when_the_same_page_fails_again(repo_root: Path):
+    import json
+
+    class Broken(FakeTcClient):
+        def page(self, item):
+            return SourceContent(url=item.url, content=b"<html><p>Erro</p></html>", media_type="text/html", sha256="d" * 64)
+
+    path = repo_root / "reports" / "tc_failures.jsonl"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps({"id": "pt:tc:acordao:2024:401", "motivo": "m", "error": "velho", "nota": "erro 401"}) + "\n", encoding="utf-8")
+    TcIngestion(Acervo(repo_root), client_factory=Broken, failures_path=path).ingest(years=[2024])
+    [entry] = [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines()]
+    assert entry["nota"] == "erro 401" and entry["error"] != "velho"

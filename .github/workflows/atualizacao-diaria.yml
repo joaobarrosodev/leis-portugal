@@ -1,7 +1,8 @@
 name: Atualização diária
 
-# Recolhe do DRE e do EUR-Lex os diplomas e atos publicados no dia anterior,
-# liga Portugal–UE, valida o acervo e publica as alterações no main.
+# Recolhe do DRE e do EUR-Lex os diplomas e atos publicados no dia anterior, e os
+# acórdãos do Tribunal Constitucional e as decisões da CNPD novos; liga Portugal–UE,
+# valida o acervo e publica as alterações no main.
 on:
   schedule:
     # 06:15 UTC: o Diário da República e o Jornal Oficial do dia anterior já estão completos.
@@ -41,7 +42,8 @@ jobs:
           cache: pip
 
       - name: Instalar o leis-portugal
-        run: pip install -e .
+        # `pdf`: o pypdf, para o texto dos PDF da CNPD (os digitalizados ficam sem texto até haver OCR).
+        run: pip install -e ".[pdf]"
 
       - name: Recolher, ligar, validar e gerar relatórios
         id: atualizacao
@@ -66,7 +68,7 @@ jobs:
           fi
           if [ "$FROM_DATE" = "$TO_DATE" ]; then period="$FROM_DATE"; else period="$FROM_DATE a $TO_DATE"; fi
           count=$(git diff --cached --name-only | wc -l | tr -d ' ')
-          git commit -q -m "Atualização diária: DRE e EUR-Lex de $period" -m "$count ficheiros alterados pela recolha automática."
+          git commit -q -m "Atualização diária: DRE, EUR-Lex, TC e CNPD de $period" -m "$count ficheiros alterados pela recolha automática."
           for attempt in 1 2 3; do
             if git push origin HEAD:main; then
               exit 0

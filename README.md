@@ -18,7 +18,7 @@ O objetivo é tornar o ordenamento jurídico português mais acessível, pesquis
 | Versões | ~10 mil diplomas e atos com o histórico de versões (`.versoes.json`) e consulta do texto numa data (`version-at`) |
 | Texto em vigor consolidado pelo leis-portugal | mais de 2,6 mil diplomas que o DRE dá como alterados mas não consolida: alterações aplicadas por regras ou por um LLM e verificadas às cegas por outro modelo; marcados como **sem valor oficial** (ver [`consolidacao/`](consolidacao/README.md)) |
 | Relações | ~1,04 milhões de relações (alterações, revogações, retificações, citações, transposições); ~89% apontam para um documento do acervo |
-| Decisões (fora da legislação) | 7.892 decisões da CNPD (todas menos as autorizações, ainda em recolha), só 41 % com texto porque a maioria dos PDF são digitalizações; 29.388 acórdãos do Tribunal Constitucional, todos os de 1983 a 2026 que têm texto no site; 2.896 normas julgadas tiradas da decisão dos de 2016 a 2026, ligadas ao diploma (90 % de precisão medida às cegas) |
+| Decisões (fora da legislação) | 7.892 decisões da CNPD (todas menos as autorizações, ainda em recolha), só 41 % com texto porque a maioria dos PDF são digitalizações; 29.392 acórdãos do Tribunal Constitucional, todos os de 1983 a 2026 que têm texto no site; 2.896 normas julgadas tiradas da decisão dos de 2016 a 2026, ligadas ao diploma (90 % de precisão medida às cegas) |
 | Fontes operacionais | Diário da República Eletrónico (DRE), EUR-Lex/CELLAR, CNPD e Tribunal Constitucional |
 | Atualização | Diária, por GitHub Actions |
 | Exportação | Índice de relações (JSONL), SQLite e Parquet com os metadados (`leis-portugal export`) |
@@ -399,11 +399,14 @@ O workflow [`.github/workflows/atualizacao-diaria.yml`](.github/workflows/atuali
 
 1. `leis-portugal collect dre` — diplomas da 1.ª Série do Diário da República.
 2. `leis-portugal collect eurlex` — regulamentos, diretivas e decisões publicados no Jornal Oficial da UE.
-3. `leis-portugal link` — ligações entre os diplomas portugueses e os atos da UE, e referências por ELI resolvidas para ids do acervo.
-4. `leis-portugal validate` — se a validação falhar, nada é publicado.
-5. `leis-portugal reports` — cobertura e progresso.
+3. `leis-portugal collect tc` e `leis-portugal collect cnpd` — acórdãos do Tribunal Constitucional e decisões da CNPD que ainda não estão no acervo. Estes sites não se pesquisam por data: a listagem do ano anterior e do atual é relida e só o que é novo é descarregado (cerca de 45 s e 30 s). Os PDF digitalizados da CNPD ficam sem texto até haver OCR (`collect cnpd --without-text`, num Mac).
+4. `leis-portugal link` — ligações entre os diplomas portugueses e os atos da UE, e referências por ELI resolvidas para ids do acervo.
+5. `leis-portugal validate` — se a validação falhar, nada é publicado.
+6. `leis-portugal reports` — cobertura e progresso.
 
-As alterações são publicadas no `main` num commit "Atualização diária: DRE e EUR-Lex de AAAA-MM-DD" feito por `github-actions[bot]`. Se uma das recolhas falhar (por exemplo, depois de um deploy do DRE), o que foi recolhido e validado é publicado na mesma e a execução fica marcada como falhada.
+As listas de falhas do TC e da CNPD (`reports/tc_failures.jsonl`, `reports/cnpd_failures.jsonl`) acumulam entre recolhas: uma recolha de dois anos só substitui as entradas desses anos, e uma página que volta a falhar mantém a nota que lhe foi acrescentada.
+
+As alterações são publicadas no `main` num commit "Atualização diária: DRE, EUR-Lex, TC e CNPD de AAAA-MM-DD" feito por `github-actions[bot]`. Se uma das recolhas falhar (por exemplo, depois de um deploy do DRE), o que foi recolhido e validado é publicado na mesma e a execução fica marcada como falhada.
 
 Para recuperar dias em falta, execute o workflow manualmente em *Actions → Atualização diária → Run workflow* com as datas `from` e `to`. Localmente:
 
@@ -484,9 +487,9 @@ O número no site é o que o histórico de decisões anuncia para cada ano e tip
 
 | Tribunal Constitucional | Na listagem | No repositório |
 |---|--:|--:|
-| Acórdãos de 2016 a 2026 | 9.661 | 9.660 |
+| Acórdãos de 2016 a 2026 | 9.665 | 9.664 |
 | Acórdãos de 1983 a 2015 | 19.740 | 19.728 |
-| **Total** | **29.401** | **29.388** |
+| **Total** | **29.405** | **29.392** |
 
 Todos os acórdãos recolhidos têm texto. Os 13 que faltam são lacunas do site (`reports/tc_failures.jsonl`): em 7 a página traz um erro do servidor do Tribunal («401 Unauthorized») em vez do acórdão, em 4 só tem o título e em 2 não tem texto nenhum. Alguns acórdãos têm texto muito curto porque a página do Tribunal também o tem (p. ex. o 773/2020 só tem o cabeçalho). As páginas anteriores a 2013 têm outra estrutura (`div.Section1`); o texto sai igual. Em 85 acórdãos a data da listagem do site tem uma gralha no ano (`0205-02-18`, `2010-10-10` num acórdão de 2013): ficam com a data da assinatura e uma nota a dizê-lo, ou sem data (2) quando nada a confirma. 167 acórdãos estão ligados ao registo do mesmo acórdão publicado no Diário da República (dos 168 que o acervo tem).
 
