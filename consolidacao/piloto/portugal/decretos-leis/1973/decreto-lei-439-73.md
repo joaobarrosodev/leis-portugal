@@ -151,6 +151,8 @@ b) Antes de terem completado o prazo referido na alínea anterior, desde que ind
 
 2. As dispensas do serviço referidas no número anterior, bem como as dos oficiais readmitidos nos termos do artigo 2.º, n.º 3, são da competência do Ministro da Administração Interna ou das Finanças, sob parecer do respectivo comandante-geral.
 
+Obrigações e direitos
+
 > Alterado pelo/a [Decreto-Lei n.º 829/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/829-1976-406916), publicado em 1976-11-20.
 
 ###### Artigo 11.º

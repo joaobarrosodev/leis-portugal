@@ -15,13 +15,14 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 407/86): nova redação do n.º 4 do art. 1.º — aplicada.",
-    "Alterador 2 (DL 229-A/88): nova redação do n.º 3 do art. 1.º — aplicada.",
-    "Alterador 3 (DL 311/89), art. 1.º: aditamento dos n.os 3 a 6 ao art. 4.º — aplicado. Art. 2.º (retroatividade) não textual.",
-    "Alterador 4 (DL 213/91), art. 1.º: aditamento dos n.os 7 e 8 ao art. 4.º — aplicado. Art. 2.º (aplicação a títulos já emitidos) não textual.",
-    "Alterador 5 (DL 305/91): altera o DL 202-B/86 (INH), não o original; ignorado."
+    "DL 407/86 (alterador 1): nova redação do n.º 4 do artigo 1.º.",
+    "DL 229-A/88 (alterador 2): nova redação do n.º 3 do artigo 1.º (n.º 4 do DL 407/86 mantido).",
+    "DL 311/89 (alterador 3): aditados os n.os 3 a 6 ao artigo 4.º; art. 2.º (efeitos retroativos) não textual.",
+    "DL 213/91 (alterador 4): aditados os n.os 7 e 8 ao artigo 4.º; art. 2.º não textual.",
+    "DL 305/91 (alterador 5): altera o DL 202-B/86 (INH), não o original — ignorado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

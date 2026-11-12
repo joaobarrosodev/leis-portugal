@@ -50,7 +50,7 @@ a) As acções correspondentes ao capital social da empresa que foi objecto de n
 
 b) As acções adicionais necessárias para que 51% do capital social existente em cada momento seja detido pelas entidades referidas na alínea a) do n.º 1.
 
-> Alterado pelo/a [Decreto-Lei n.º 191-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1989-636383), publicado em 1989-06-07.
+3 - São obrigatoriamente nominativas ou ao portador registadas as acções do tipo B, até perfazerem, conjuntamente com as do tipo A, o limite fixado na legislação bancária.
 
 Art. 6.º - 1 - O Estado e outras entidades pertencentes ao sector público podem alienar as acções do tipo B de que sejam titulares, devendo ser observadas as seguintes regras:
 

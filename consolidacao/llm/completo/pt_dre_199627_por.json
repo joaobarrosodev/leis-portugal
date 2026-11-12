@@ -45,13 +45,14 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "nao_aplicavel": "Alterador 4 (DL 705/75) não contém instruções textuais dirigidas ao original (art. 19.º extingue em Macau o Comando-Chefe, alteração não textual): não aplicado.",
   "instrucoes": [
-    "Alterador 1 (DL 153/70), artigo único: adita n.os 3 e 4 ao artigo 6.º; aditados.",
-    "Alterador 2 (DL 38/73), artigo único: adita n.º 5 ao artigo 6.º (n.os 1 a 4 com '...'); aditado, artigo 6.º final com n.os 1 a 5.",
-    "Alterador 3 (DL 18/75), art. 1.º: nova redação dos artigos 1.º (só proémio; alíneas a) a f) com '...' mantidas do texto atual), 4.º, 5.º, 7.º e 8.º; aplicada. A linha de secção 'A) Comando-chefe' / 'B) Comandos militar, naval e aéreo' que o texto atual tem no fim dos artigos 1.º e 8.º foi mantida.",
-    "Alterador 3 (DL 18/75), art. 2.º: adita o artigo 24.º; aditado. Art. 3.º (entrada em vigor) não é dirigido ao original.",
-    "Alterador 4 (DL 705/75): reorganiza as forças de Macau e extingue o Comando-Chefe em Macau; sem instrução textual dirigida ao original, nada aplicado."
+    "Alt. 1: adita os n.os 3 e 4 ao art. 6.º — aplicado.",
+    "Alt. 2: adita o n.º 5 ao art. 6.º — aplicado.",
+    "Alt. 3 art. 1.º: nova redação dos arts. 1.º (alíneas '...' mantêm o texto atual, com as subdivisões de e) e f)), 4.º, 5.º, 7.º e 8.º — aplicado; os subtítulos 'A) Comando-chefe' e 'B) Comandos militar, naval e aéreo', que no texto atual vêm no fim dos arts. 1.º e 8.º, mantêm-se.",
+    "Alt. 3 art. 2.º: adita o art. 24.º — aplicado.",
+    "Alt. 4: sem instruções textuais para o original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

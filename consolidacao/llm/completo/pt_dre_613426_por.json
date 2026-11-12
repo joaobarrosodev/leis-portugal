@@ -9,11 +9,12 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 3 (Decreto Regulamentar Regional n.º 38-A/2004/A), art. 18.º, n.º 1: a estrutura orgânica do Decreto Regulamentar Regional n.º 33/2000/A 'é substituída pela estabelecida no presente diploma' — substituição global (revogação tácita) sem instrução textual sobre artigos concretos; não aplicada ao texto.",
+  "titulos": [],
+  "nao_aplicavel": "Alterador 3 (Decreto Regulamentar Regional n.º 38-A/2004/A): não altera textualmente nenhum artigo do original; o seu artigo 18.º, n.º 1, diz apenas que a estrutura orgânica constante do Decreto Regulamentar Regional n.º 33/2000/A é substituída pela estabelecida no novo diploma (substituição global, não textual), por isso não foi aplicado ao texto.",
   "instrucoes": [
-    "Alterador 1 (DRR 15/2001/A): artigo 15.º, n.º 1, adita alínea e) 'Polícia administrativa' e a anterior e) passa a f). Ultrapassado pelo alterador 2.",
-    "Alterador 2 (DRR 33/2002/A): nova redação do n.º 1 do artigo 15.º, alíneas a) a g); n.os 2 e 3 mantidos ('...') do texto atual. Aplicado.",
-    "Alterador 3 (DRR 38-A/2004/A): novo diploma orgânico que substitui a estrutura do original (art. 18.º, n.º 1); não é alteração textual; ver nao_aplicavel."
+    "Alterador 1, art. 1.º: nova redação do art. 15.º (nova alínea e) Polícia administrativa no n.º 1, antiga e) passa a f)); absorvida pela redação do alterador 2.",
+    "Alterador 2, art. 1.º: nova redação do n.º 1 do art. 15.º com alíneas a) a g) (g) Assuntos da imigração); n.os 2 e 3 mantêm o texto atual. Devolvido o art. 15.º.",
+    "Alterador 3: aprova nova orgânica do IX Governo; art. 18.º, n.º 1, substitui globalmente a estrutura do original sem instrução textual: nao_aplicavel. Restantes artigos não se dirigem ao original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

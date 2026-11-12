@@ -291,15 +291,16 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "nao_aplicavel": "Alterador 7 (DL 132/2019), art. 50.º, alínea g): revoga o artigo 2.º do Decreto-Lei n.º 237/2004 (a norma que deu nova redação ao artigo 59.º); é instrução sobre outro diploma e não revoga o artigo 59.º do original, pelo que o artigo 59.º fica com a redação do DL 237/2004.",
   "instrucoes": [
-    "Alterador 1 (DL 299/2001), art. 2.º: percentagem do art. 51.º passa a 63% (substituída depois pelos alteradores 4 e 5).",
-    "Alterador 2 (DL 237/2004), art. 2.º: nova redação do art. 59.º (epígrafe 'Tesoureiros de finanças', n.os 1-6 mantidos, n.º 7 substituído, n.os 8-13 aditados). Restantes artigos alteram outros diplomas.",
-    "Alterador 3 (DL 36/2008), art. 3.º: nova redação dos arts. 15.º e 45.º (depois revogados pelo alterador 7).",
-    "Alterador 4 (DL 212/2008), art. 1.º: nova redação do art. 51.º (40 %), substituída pelo alterador 5. Art. 2.º altera o DL 81/2007: ignorado.",
-    "Alterador 5 (Lei 64-B/2011), art. 178.º: nova redação do art. 51.º (10 %), aplicada.",
-    "Alterador 6 (DL 17/2017), arts. 2.º e 4.º: nova redação dos arts. 15.º, 16.º, 30.º, 38.º, 41.º e 45.º e revogação de 15.º/1/c), 30.º/5 e 6 e 32.º/4 a 6; só o art. 30.º sobrevive (os outros são revogados pelo alterador 7).",
-    "Alterador 7 (DL 132/2019), art. 50.º, f): revogados os arts. 3.º a 24.º, 28.º, 29.º, 32.º, 37.º a 42.º, 45.º, 46.º, 48.º a 50.º, 67.º a 70.º e 72.º a 76.º. A alínea g) revoga o art. 2.º do DL 237/2004 (outro diploma): ignorada, art. 59.º mantém a redação dada."
+    "Alt. 1 (DL 299/2001), art. 2.º: percentagem do art. 51.º passa a 63% — substituída depois pelos alts. 4 e 5.",
+    "Alt. 2 (DL 237/2004), art. 2.º: nova redação do art. 59.º (epígrafe 'Tesoureiros de finanças', n.º 7 substituído, n.os 8 a 13 aditados; n.os 1 a 6 mantidos) — aplicado. Arts. 1.º, 3.º e 4.º alteram outros diplomas — ignorados.",
+    "Alt. 3 (DL 36/2008), art. 3.º: nova redação dos arts. 15.º e 45.º — depois revogados pelo alt. 7.",
+    "Alt. 4 (DL 212/2008), art. 1.º: art. 51.º passa a 40 % — substituído pelo alt. 5. Art. 2.º altera o DL 81/2007 — ignorado.",
+    "Alt. 5 (Lei 64-B/2011), art. 178.º: nova redação do art. 51.º (10 %) — aplicado.",
+    "Alt. 6 (DL 17/2017), art. 2.º: nova redação dos arts. 15.º, 16.º, 30.º, 38.º, 41.º e 45.º; art. 4.º revoga a alínea c) do n.º 1 do art. 15.º, os n.os 5 e 6 do art. 30.º e os n.os 4 a 6 do art. 32.º — aplicado ao art. 30.º; os restantes artigos são depois revogados por inteiro pelo alt. 7.",
+    "Alt. 7 (DL 132/2019), art. 50.º, alínea f): revoga os arts. 3.º a 24.º, 28.º, 29.º, 32.º, 37.º a 42.º, 45.º, 46.º, 48.º a 50.º, 67.º a 70.º e 72.º a 76.º — aplicado, um elemento por artigo; alínea g) é sobre o DL 237/2004 (ver nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

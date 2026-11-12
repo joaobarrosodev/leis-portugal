@@ -86,15 +86,21 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Resolução AR 1/87: suspensão de vigência, não textual. Lei 13/87, art. 5.º: regra interpretativa (S. A. R. L. deve entender-se como S. A.), não substituição textual; não aplicada. Decreto-Lei 126/89: derrogação genérica sem instruções textuais dirigidas ao original.",
+  "nao_aplicavel": "Resolução da AR n.º 1/87: suspensão da vigência de normas, não alteração textual. Lei n.º 13/87, art. 5.º: as referências a «sociedade anónima de responsabilidade limitada» e «S. A. R. L.» devem entender-se como «sociedade anónima» e «S. A.» - regra interpretativa, não substituição textual. Decreto-Lei n.º 126/89: regime novo que derroga tacitamente o diploma, sem instruções textuais dirigidas ao original.",
   "instrucoes": [
-    "Res. AR 1/87: suspende vigência de vários preceitos; não textual.",
-    "Lei 13/87 art. 1.º: elimina n.º 4 do art. 4.º do DL (absorvido na nova redação 21-23), n.º 4 do art. 4.º dos estatutos (48 eliminada), n.os 3 e 5 do art. 20.º dos estatutos (absorvidos na nova redação 104-108) e art. 29.º dos estatutos (136-137 eliminadas).",
-    "Lei 13/87 art. 2.º: nova redação do art. 3.º n.os 2, 4, 5, 6 (16 e 18), art. 4.º n.os 3-5 (21-23), art. 5.º n.º 2 (dentro da unidade 26), art. 6.º n.º 1 (28).",
-    "Lei 13/87 art. 3.º: adita arts. 8.º a 10.º depois do art. 7.º (31).",
-    "Lei 13/87 art. 4.º: estatutos art. 10.º n.º 6 (62), art. 11.º n.º 1 c) (67), art. 14.º n.º 4 aditado (depois de 77), art. 20.º (104-108), art. 21.º n.º 1 c) (112), art. 24.º alíneas b)-e) (125-127).",
-    "Lei 13/87 art. 5.º: regra interpretativa, não aplicada.",
-    "DL 126/89: sem instruções textuais."
+    "Res. AR 1/87: suspensão de vigência - não aplicada",
+    "Lei 13/87, art. 1.º: eliminado n.º 4 do art. 4.º do DL (unidade 22) - absorvido na nova redação do art. 4.º (unidades 21-23)",
+    "Lei 13/87, art. 1.º: eliminado n.º 4 do art. 4.º dos estatutos (unidade 48) - removida",
+    "Lei 13/87, art. 1.º: eliminados n.os 3 e 5 do art. 20.º dos estatutos - absorvido na nova redação do art. 20.º (unidades 104-108)",
+    "Lei 13/87, art. 1.º: eliminado o art. 29.º dos estatutos (unidades 136-137) - removidas",
+    "Lei 13/87, art. 2.º: art. 3.º do DL - n.º 2 substituído (unidade 16), n.º 4 substituído e aditados n.os 5 e 6 (unidade 18); n.os 1 e 3 mantêm-se",
+    "Lei 13/87, art. 2.º: art. 4.º do DL - n.os 3, 4 e 5 com nova redação (unidades 21-23); n.os 1 e 2 mantêm-se",
+    "Lei 13/87, art. 2.º: art. 5.º do DL - n.º 2 com nova redação, dentro da unidade 26 que junta a alínea b) do n.º 1 e o n.º 2",
+    "Lei 13/87, art. 2.º: art. 6.º do DL - n.º 1 com nova redação (unidade 28)",
+    "Lei 13/87, art. 3.º: aditados arts. 8.º, 9.º e 10.º - inseridos após a unidade 31",
+    "Lei 13/87, art. 4.º: estatutos art. 10.º n.º 6 (unidade 62), art. 11.º n.º 1 c) (unidade 67), art. 14.º n.º 4 aditado (após unidade 77), art. 20.º nova redação (unidades 104-108), art. 21.º n.º 1 c) (unidade 112), art. 24.º alíneas b) a e) (unidades 125-127)",
+    "Lei 13/87, art. 5.º: regra interpretativa S. A. R. L. -> S. A. - não aplicada",
+    "DL 126/89: sem instruções textuais - não aplicado"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

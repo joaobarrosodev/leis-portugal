@@ -15,13 +15,15 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 3 (Portaria n.º 621/99) anexa prédios e muda a área para 2209,1088 ha só por planta, sem nova redação; alterador 5 (Portaria n.º 931/2002) renova a concessão por 12 anos com área de 2166,2557 ha, sem nova redação do texto. Alteradores 1 e 4 suspendem a caça (não textual).",
+  "nao_aplicavel": "Alterador 1 (Portaria 985/97) suspende a actividade cinegética por 180 dias e foi revogado pelo alterador 2; alterador 3 (Portaria 621/99) anexa prédios (área 2209,1088 ha) por planta; alterador 4 (Portaria 634/2002) suspende a caça; alterador 5 (Portaria 931/2002) renova a concessão por 12 anos com 2166,2557 ha e nova planta: nenhum dá nova redação ao texto do original (alterações não textuais).",
   "instrucoes": [
-    "Alt. 1: suspensão da atividade cinegética por 180 dias - não textual, nada aplicado.",
-    "Alt. 2: nova redação do n.º 1.º (unidade 6) e aditamento do n.º 1.º-A a seguir - aplicados.",
-    "Alt. 3: anexação de prédios (área 2209,1088 ha) sem redação - não aplicado.",
-    "Alt. 4: suspensão da caça - não textual.",
-    "Alt. 5: renovação por 12 anos, área 2166,2557 ha, sem redação - não aplicado."
+    "Alt. 1: suspensão da actividade cinegética, não textual (e revogada pelo alt. 2).",
+    "Alt. 2, 1.º: nova redação do n.º 1.º -> unidade 6 substituída, mantendo o número 1.º.",
+    "Alt. 2, 1.º: aditado n.º 1.º-A -> inserido depois da unidade 6.",
+    "Alt. 2, 2.º-4.º: manutenção de direitos, revogação da Portaria 985/97 e vigência, sem texto a mudar.",
+    "Alt. 3: anexação de prédios por planta, não textual.",
+    "Alt. 4: suspensão da caça, não textual.",
+    "Alt. 5: renovação da concessão e nova área/planta, não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

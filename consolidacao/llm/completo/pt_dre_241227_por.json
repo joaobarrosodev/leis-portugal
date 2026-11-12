@@ -2,12 +2,6 @@
   "id": "pt:dre:241227:por",
   "artigos": [
     {
-      "chave": "6.º-A",
-      "epigrafe": "Defensor do Contribuinte",
-      "texto": "(Revogado.)",
-      "alterador": 8
-    },
-    {
       "chave": "8.º",
       "epigrafe": "Entidades sob tutela exclusiva",
       "texto": "1 - As atribuições cometidas ao Ministério das Finanças são prosseguidas pelas seguintes entidades:\n\na) Caixa Geral de Aposentações (CGA);\n\nb) Serviços Sociais do Ministério das Finanças (SOFE);\n\nc) Instituto de Seguros de Portugal (ISP);\n\nd) Comissão do Mercado de Valores Mobiliários (CMVM);\n\ne) Instituto de Gestão do Crédito Público (IGCP).\n\nf) Instituto de Informática.\n\n2 - As entidades referidas no número anterior estão sujeitas a tutela de legalidade de todos os seus actos e a tutela de mérito quanto aos actos que digam respeito à sua própria organização e funcionamento interno, em termos inspectivos, revogatórios e substitutivos, com fundamento na ilegalidade ou no demérito dos seus actos, de acordo com o fim da tutela.",
@@ -32,6 +26,12 @@
       "alterador": 4
     },
     {
+      "chave": "6.º-A",
+      "epigrafe": "Defensor do Contribuinte",
+      "texto": "(Revogado.)",
+      "alterador": 8
+    },
+    {
       "chave": "27.º",
       "epigrafe": "Defensor do Contribuinte",
       "texto": "(Revogado.)",
@@ -39,41 +39,23 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 4 (art. 2.º) e alterador 8 (art. 6.º) alteram a epígrafe da subsecção III da secção III do capítulo II («Órgãos de apoio e Defensor do Contribuinte» e depois «Órgãos de apoio»): as epígrafes de subsecção não constam do texto atual por artigos, pelo que não há unidade a que aplicar a alteração (o resultado final, «Órgãos de apoio», coincide com a epígrafe original).",
+  "titulos": [],
+  "nao_aplicavel": "Artigo 24.º (DL 107/97): o n.º 1 da nova redação é '(Actual corpo do artigo.)', ou seja, o corpo original do artigo 24.º; o texto atual só traz a frase literal '1 - (Actual corpo do artigo.)' e o corpo original não está no pedido, por isso o n.º 1 não pode ser reconstituído e o artigo fica como está. DL 113/2017 (fusão do FEA no FET, referências ao FEA lidas como feitas ao FET) não altera textualmente o original.",
   "instrucoes": [
-    "Alterador 1 (DL 107/97, art. 1.º): nova redação do 24.º — já aplicada no texto atual; nada a mudar.",
-    "Alterador 2 (DL 207/97, art. 2.º): nova redação do n.º 4 do 33.º — superada pelo alterador 3, cuja redação já está no texto atual; nada a mudar.",
-    "Alterador 3 (DL 28/98, art. 3.º): nova redação dos n.os 4 e 5 do 33.º — já aplicada no texto atual; arts. 1.º e 2.º alteram os Estatutos do IGCP (DL 160/96), ignorados.",
-    "Alterador 4 (DL 21/99, art. 1.º): 6.º — já aplicado; 8.º — passa a ter n.º 1 (com nova alínea f) Instituto de Informática) e n.º 2 novo, aplicado; 10.º — novo corpo com alíneas d) CGA e e) Instituto de Informática, aplicado e depois reordenado pelo alterador 5; 26.º — n.º 3 novo, aplicado; 27.º — n.º 6 novo, aplicado mas o artigo foi depois revogado pelo alterador 8.",
-    "Alterador 4 (DL 21/99, art. 2.º): epígrafe da subsecção III — ver nao_aplicavel.",
-    "Alterador 4 (DL 21/99, art. 3.º): aditamento do 6.º-A — já aplicado; art. 4.º: revogação da alínea c) do 4.º — já aplicada.",
-    "Alterador 5 (DL 289/2001, art. 2.º): 10.º — elimina a alínea b) (ISP) e renumera as anteriores c), d), e) para b), c), d); aplicado sobre a redação do alterador 4.",
-    "Alterador 6 (DL 315/2001, art. 2.º): 19.º — nova alínea h) no n.º 2 e a anterior h) passa a i); aplicado. Arts. 1.º, 3.º e 4.º alteram outros diplomas (DL 222/96, DL 360/99, DL 225/99), ignorados.",
-    "Alterador 7 (DL 215/2002): não contém instruções dirigidas ao DL 158/96; nada a aplicar.",
-    "Alterador 8 (DL 320-A/2002, art. 8.º): revoga o 27.º e o 6.º-A — ambos ficam «(Revogado.)»; art. 6.º: epígrafe da subsecção III — ver nao_aplicavel; alíneas c) e d) revogam outros diplomas, ignoradas.",
-    "Alterador 9 (DL 215-A/2004): orgânica do Governo, sem instruções dirigidas ao DL 158/96; nada a aplicar.",
-    "Alterador 10 (DL 113/2017): funde o FEA no FET e altera o DL 335/97 e o DL 117/2011; não contém instrução textual dirigida ao DL 158/96 (a referência ao FEA nos artigos 5.º e 24.º passa a entender-se feita ao FET por força do art. 6.º, sem alteração de texto); nada a aplicar."
+    "DL 107/97, art. 1.º: nova redação do artigo 24.º (n.os 2 a 5 e epígrafe já no texto atual; n.º 1 em nao_aplicavel).",
+    "DL 207/97, art. 2.º, e DL 28/98, art. 3.º: nova redação do n.º 4 e aditamento do n.º 5 do artigo 33.º; o texto atual já os tem.",
+    "DL 28/98, art. 1.º: altera os Estatutos do IGCP (DL 160/96), não o original: ignorado.",
+    "DL 21/99, art. 1.º: artigo 6.º (n.º 1, igual ao atual), artigo 8.º (novo n.º 1 com alínea f) e novo n.º 2: aplicado), artigo 10.º (novo corpo e alíneas d) e e): aplicado e depois refeito pelo DL 289/2001), artigo 26.º n.º 3 (aplicado), artigo 27.º n.º 6 (sem efeito, o artigo 27.º foi revogado pelo DL 320-A/2002).",
+    "DL 21/99, art. 2.º, e DL 320-A/2002, art. 6.º: a epígrafe da subsecção III da secção III do capítulo II passa a 'Órgãos de apoio e Defensor do Contribuinte' e depois volta a 'Órgãos de apoio'; fica igual à atual, nada a mudar.",
+    "DL 21/99, art. 3.º: adita o artigo 6.º-A (já no texto atual); revogado depois pelo DL 320-A/2002.",
+    "DL 21/99, art. 4.º: revoga a alínea c) do artigo 4.º; o texto atual já a tem revogada.",
+    "DL 289/2001, art. 2.º: artigo 10.º, alínea a) mantém-se, b), c) e d) passam a ter a redação das anteriores c), d) e e) (sai a alínea b), ISP); aplicado. O art. 2.º do DL 289/2001 foi revogado pelo DL 1/2015, o que não repristina a redação anterior.",
+    "DL 315/2001, art. 2.º: artigo 19.º, nova alínea h) e anterior h) passa a i) do n.º 2; aplicado (o diploma produz efeitos com a portaria do artigo 7.º; é alteração, não revogação). Os outros artigos alteram outros diplomas: ignorados.",
+    "DL 215/2002: nenhuma instrução dirigida ao original.",
+    "DL 320-A/2002, art. 8.º, alíneas a) e b): revoga os artigos 27.º e 6.º-A; aplicado. As alíneas c) e d) visam outros diplomas.",
+    "DL 215-A/2004 e DL 113/2017: nenhuma alteração textual do original."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "chars": 202118,
-      "artigos": 6
-    }
-  ],
   "problemas": []
 }

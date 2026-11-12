@@ -33,14 +33,14 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 4 (DL 140/2002) fixa novos limites da ZPE do Estuário do Tejo nos seus próprios anexos (sem alterar o texto do art. 5.º nem os anexos II/III do original) e o Alterador 5 (DL 190/2002) suspende esse artigo e repristina o art. 5.º do original — sem alteração textual. Art. 9.º do Alterador 3 (disposição transitória sobre o art. 28.º) não é textual.",
+  "titulos": [],
+  "nao_aplicavel": "DL 140/2002, art. 1.º: fixa os limites da ZPE nos anexos do próprio DL 140/2002, sem alterar o texto do DL 51/95, e a sua vigência foi suspensa pelo DL 190/2002 (que repristina o artigo 5.º do DL 51/95): nada a aplicar. DL 472/99, art. 9.º: disposição transitória sobre a aplicação no tempo do artigo 28.º, não textual.",
   "instrucoes": [
-    "Alterador 1 (Lei 10-B/96), art. 32.º, n.º 1: nova redação dos arts. 2.º (n.º 1) e 5.º (n.º 4) do Regulamento — já no texto atual; sem mudança. N.os 2 a 4 respeitam a outros diplomas; ignorados.",
-    "Alterador 2 (DL 27/97), art. 1.º: aditamento do art. 6.º ao DL 51/95 — já no texto atual; sem mudança. Art. 2.º respeita ao DL 54/95; ignorado.",
-    "Alterador 3 (DL 472/99), art. 6.º, n.º 1: nova redação dos arts. 12.º, 14.º e 23.º (já no texto atual), 26.º (n.º 3; n.os 1, 2 e 4 mantidos) e 28.º — aplicados os arts. 26.º e 28.º. Art. 9.º transitório não textual.",
-    "Alterador 4 (DL 140/2002): novos limites da ZPE em diploma próprio — não textual (nao_aplicavel).",
-    "Alterador 5 (DL 190/2002): suspensão e repristinação do art. 5.º — não textual (nao_aplicavel).",
-    "Alterador 6 (Lei 64-B/2011), art. 167.º, n.º 1: nova redação dos arts. 2.º, 3.º e 7.º do Regulamento — aplicada. N.os 2 e 3 respeitam a outros diplomas; ignorados."
+    "Lei 10-B/96 (alterador 1), art. 32.º, n.º 1: nova redação do n.º 1 do artigo 2.º e do n.º 4 do artigo 5.º do Regulamento — já aplicada pelo programa (5.º confere; 2.º volta a mudar pela Lei 64-B/2011). N.os 2 a 4: outros diplomas/autorização.",
+    "DL 27/97 (alterador 2), art. 1.º: aditado o artigo 6.º do decreto — já aplicado pelo programa e confere.",
+    "DL 472/99 (alterador 3), art. 6.º, n.º 1: artigos 12.º, 14.º e 23.º — já aplicados pelo programa e conferem; artigo 26.º: novo n.º 3 (n.os 1, 2 e 4 mantidos); artigo 28.º: nova redação. N.os 2 e 3: outros diplomas.",
+    "DL 140/2002 e DL 190/2002 (alteradores 4 e 5): ver nao_aplicavel.",
+    "Lei 64-B/2011 (alterador 6), art. 167.º, n.º 1: nova redação dos artigos 2.º (n.os 1 e 2), 3.º e 7.º do Regulamento. N.os 2 e 3: outros diplomas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

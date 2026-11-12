@@ -141,18 +141,22 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1, art. 3.º, n.º 2 (o capítulo II passa a designar-se «Do Conselho de Ministros»): muda o título de um capítulo, não o texto de um artigo; não aplicado. Alterador 5 (Decreto-Lei n.º 120/2002), art. 32.º, n.º 1: substitui globalmente a estrutura orgânica do original pela nova lei orgânica, sem revogação nem alteração textual de artigos; não aplicado ao texto. Alterador 3, art. 17.º: a nova redação só reproduz os n.os 1 e 2; o n.º 3 (aditado pelo alterador 1) foi mantido por não haver instrução expressa de eliminação.",
+  "titulos": [
+    {
+      "atual": "### CAPÍTULO II — Do Conselho de Ministros e dos Conselhos de Coordenação",
+      "novo": "### CAPÍTULO II — Do Conselho de Ministros",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 3 (DL 247/2001) dá nova redação ao art. 17.º só com os n.os 1 e 2, sem mencionar o n.º 3 aditado pelo DL 267-A/2000 e sem o revogar: mantido o n.º 3 (eliminação implícita incerta). Alterador 5 (DL 120/2002), art. 32.º, n.º 1: a estrutura orgânica do original é 'substituída' pela do novo diploma — substituição global, não textual, não aplicada ao texto. Alterador 6 (DL 151/2019): nenhuma instrução dirigida ao original.",
   "instrucoes": [
-    "Alt. 1, art. 1.º: nova redação dos arts. 2.º (igual ao texto atual), 6.º, 7.º, 8.º, 9.º, 15.º, 16.º, 17.º, 18.º, 19.º, 22.º, 25.º, 33.º, 34.º e 37.º; aplicada (no 6.º o n.º 4 passa a ser o anterior n.º 6, desaparecendo os antigos n.os 4 e 5; no 37.º o n.º 9 passa a ser o anterior n.º 10, desaparecendo o antigo n.º 9). Os 7.º, 16.º, 22.º, 25.º, 33.º, 34.º e 37.º ficam com esta redação.",
-    "Alt. 1, art. 2.º: aditamento dos arts. 28.º-A e 33.º-A; já constavam do texto atual.",
-    "Alt. 1, art. 3.º, n.º 1: revogação dos arts. 10.º, 11.º, 12.º, 35.º e 36.º; 10.º e 11.º já revogados, 35.º e 36.º ficam (Revogado.), 12.º depois repristinado pelo alt. 3.",
-    "Alt. 1, art. 3.º, n.º 2: nova designação do capítulo II; não é texto de artigo, não aplicado.",
-    "Alt. 2, art. 1.º: nova redação dos arts. 2.º, 6.º, 8.º, 14.º (n.º 2), 19.º (n.os 1, 4 e 5) e 28.º-A (n.º 2); aplicada. O 8.º volta a texto igual ao atual, por isso não é devolvido; 14.º e 28.º-A ficam com esta redação.",
-    "Alt. 3, art. 1.º: nova redação dos arts. 2.º, 6.º (n.os 1 e 2), 9.º (n.º 2), 15.º (n.º 1 revogado), 17.º (n.º 1), 18.º (n.º 1), 19.º (n.º 5), 23.º, 24.º e 26.º (n.º 1 e aditados n.os 3 e 4); aplicada.",
-    "Alt. 3, art. 2.º: repristinação do art. 12.º com nova redação; aplicada.",
-    "Alt. 4, art. 1.º: aditamento do art. 37.º-A; aplicado.",
-    "Alt. 5 (DL 120/2002), art. 32.º, n.º 1: substituição global da estrutura orgânica; não é alteração textual, não aplicada.",
-    "Alt. 6 (DL 151/2019): não contém instruções dirigidas ao Decreto-Lei n.º 474-A/99; nada aplicado."
+    "Alt. 1 (DL 267-A/2000), art. 1.º: nova redação dos arts. 2.º, 6.º, 7.º, 8.º, 9.º, 15.º, 16.º, 17.º, 18.º, 19.º, 22.º, 25.º, 33.º, 34.º e 37.º (no 37.º o n.º 9 passa a ser o anterior n.º 10) — aplicada; arts. 2.º, 6.º, 9.º, 15.º, 17.º, 18.º e 19.º voltam a ser alterados pelos alts. 2 e 3.",
+    "Alt. 1, art. 2.º: adita os arts. 28.º-A e 33.º-A — já estavam no texto atual (33.º-A sem outras alterações, não devolvido).",
+    "Alt. 1, art. 3.º, n.º 1: revoga os arts. 10.º, 11.º, 12.º, 35.º e 36.º — 10.º e 11.º já revogados no texto atual; 35.º e 36.º revogados; 12.º revogado e depois repristinado pelo alt. 3. N.º 2: o capítulo II passa a designar-se «Do Conselho de Ministros» — aplicado em titulos.",
+    "Alt. 2 (DL 116/2001), art. 1.º: nova redação dos arts. 2.º, 6.º, 8.º, 14.º, 19.º e 28.º-A — aplicada; o art. 8.º fica com o texto igual ao atual (não devolvido).",
+    "Alt. 3 (DL 247/2001), art. 1.º: nova redação dos arts. 2.º, 6.º, 9.º, 15.º (n.º 1 revogado), 17.º, 18.º, 19.º, 23.º, 24.º e 26.º — aplicada; art. 2.º: repristina o art. 12.º com nova redação — aplicado.",
+    "Alt. 4 (DL 24/2002), art. 1.º: adita o art. 37.º-A — aplicado.",
+    "Alt. 5 (DL 120/2002) e alt. 6 (DL 151/2019): ver nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

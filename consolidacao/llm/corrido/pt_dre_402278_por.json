@@ -15,14 +15,15 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 2, 2.º: o n.º 6.º passa a obrigar a manter só um guarda florestal auxiliar, mas sem nova redação do texto; não aplicado. Alteradores 3 e 4: suspensão da exploração e extinção da concessão, sem alteração nem revogação do texto; não aplicados.",
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 36/95): substituição da planta anexa, que só existe em imagem; alterador 2 (Portaria n.º 602/97): o n.º 2.º reduz a obrigação do n.º 6.º a um guarda florestal auxiliar sem dar nova redação ao texto, e a nova planta é imagem; alterador 3 (Portaria n.º 930/99): suspensão da exploração cinegética, não textual; alterador 4 (Portaria n.º 222/2000): extinção da concessão, não textual (não revoga expressamente o texto).",
   "instrucoes": [
-    "Alterador 1: nova redação do n.º 1.º (área de 2226 ha; a remissão diz 667-S4/94, gralha, mas o contexto identifica este diploma); aplicada à unidade 6 e depois substituída pela redação do alterador 2.",
-    "Alterador 2, 1.º: nova redação do n.º 1.º (1800 ha); substituída a unidade 6, mantendo o número 1.º.",
-    "Alterador 2, 1.º: aditado o n.º 1.º-A, inserido a seguir à unidade 6.",
-    "Alterador 2, 2.º: redução do número de guardas do n.º 6.º sem redação textual; não aplicado.",
-    "Alterador 3: suspensão da exploração cinegética; não textual.",
-    "Alterador 4: extinção da concessão; não textual."
+    "Alterador 1: nova redação do n.º 1.º (unidade 6, área 2226 ha) - aplicada e depois substituída pela do alterador 2",
+    "Alterador 1: substituição da planta anexa - imagem, em nao_aplicavel",
+    "Alterador 2: nova redação do n.º 1.º (área 1800 ha) - unidade 6 substituída, mantendo a numeração 1.º",
+    "Alterador 2: aditamento do n.º 1.º-A - inserido depois da unidade 6",
+    "Alterador 2: n.º 6.º passa a obrigar a um só guarda - sem nova redação, em nao_aplicavel",
+    "Alterador 3: suspensão da exploração - não textual, em nao_aplicavel",
+    "Alterador 4: extinção da concessão - não textual, em nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

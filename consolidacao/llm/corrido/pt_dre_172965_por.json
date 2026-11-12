@@ -4,48 +4,36 @@
     {
       "de": 25,
       "ate": 28,
-      "texto": "1.ª Repartição e 1.ª Tesouraria: Bucelas, Fanhões, Frielas, Loures, Lousa, Santo Antão do Tojal, Santo António dos Cavaleiros e São Julião do Tojal;\n\n3.ª Repartição e 3.ª Tesouraria: Bobadela, Moscavide, Portela, Santa Iria de Azoia e São João da Talha;\n\n4.ª Repartição e 4.ª Tesouraria: Apelação, Camarate, Prior Velho, Sacavém e Unhos.",
-      "alterador": 2
+      "alterador": 2,
+      "texto": "1.ª Repartição e 1.ª Tesouraria: Bucelas, Fanhões, Frielas, Loures, Lousa, Santo Antão do Tojal, Santo António dos Cavaleiros e São Julião do Tojal;\n\n3.ª Repartição e 3.ª Tesouraria: Bobadela, Moscavide, Portela, Santa Iria de Azoia e São João da Talha;\n\n4.ª Repartição e 4.ª Tesouraria: Apelação, Camarate, Prior Velho, Sacavém e Unhos."
     },
     {
       "de": 40,
       "ate": 40,
-      "texto": "1.ª Repartição, abrangendo as freguesias de Arrentela, Fernão Ferro, Aldeia de Paio Pires e Seixal;",
-      "alterador": 1
+      "alterador": 1,
+      "texto": "1.ª Repartição, abrangendo as freguesias de Arrentela, Fernão Ferro, Aldeia de Paio Pires e Seixal;"
     },
     {
       "de": 46,
-      "ate": 47,
-      "texto": "1.ª Repartição, abrangendo as freguesias de Avintes, Crestuma, Lever, Oliveira do Douro e Santa Marinha;\n\n2.ª Repartição, abrangendo as freguesias de Arcozelo, Canidelo, Gulpilhares, Madalena, São Félix da Marinha, São Pedro da Afurada, Valadares e Vilar do Paraíso;",
-      "alterador": 1
-    },
-    {
-      "de": 49,
       "ate": 49,
-      "texto": "4.ª Repartição, abrangendo as freguesias de Canelas, Mafamude e Vilar de Andorinho.",
-      "alterador": 1
+      "alterador": 1,
+      "texto": "1.ª Repartição, abrangendo as freguesias de Avintes, Crestuma, Lever, Oliveira do Douro e Santa Marinha;\n\n2.ª Repartição, abrangendo as freguesias de Arcozelo, Canidelo, Gulpilhares, Madalena, São Félix da Marinha, São Pedro da Afurada, Valadares e Vilar do Paraíso;\n\n3.ª Repartição, abrangendo as freguesias de Grijó, Olival, Pedroso, Perosinho, Sandim, Seixezelo, Sermonde e Serzedo;\n\n4.ª Repartição, abrangendo as freguesias de Canelas, Mafamude e Vilar de Andorinho."
     },
     {
       "de": 68,
       "ate": 68,
-      "texto": "8.º Em consequência da redução de bairros fiscais no concelho de Lisboa, conforme o previsto na [Portaria n.º 871/94](https://diariodarepublica.pt/dr/detalhe/portaria/871-1994-609281), de 29 de Setembro, são abatidos ao quadro de pessoal mencionado no n.º 6.º os lugares indicados no mapa II anexo à presente portaria, que dela faz parte integrante.",
-      "alterador": 1
+      "alterador": 1,
+      "texto": "8.º Em consequência da redução de bairros fiscais no concelho de Lisboa, conforme o previsto na [Portaria n.º 871/94](https://diariodarepublica.pt/dr/detalhe/portaria/871-1994-609281), de 29 de Setembro, são abatidos ao quadro de pessoal mencionado no n.º 6.º os lugares indicados no mapa II anexo à presente portaria, que dela faz parte integrante."
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2, 4.º e 5.º: extingue a 1.ª e a 2.ª Repartições de Santo Tirso e a 2.ª de Loures sem dar nova redacção à alínea I) (a nova redacção da alínea F) já omite a 2.ª de Loures); alterador 3, 1.º: redistribui as freguesias de Vila Nova de Gaia pelos quatro serviços sem alterar expressamente a alínea L); alterador 4: reestrutura os serviços de Oeiras com freguesias num mapa só em imagem; alterador 5: extingue o Serviço de Vila Nova de Gaia 3 e redistribui freguesias por anexo só em imagem. Nenhuma destas é uma alteração textual segura.",
+  "nao_aplicavel": "Alterador 2 (Portaria 163/99), n.os 4.º e 5.º: extinção das 1.ª e 2.ª Repartições de Santo Tirso (alínea I) e da 2.ª de Loures sem nova redação da alínea I) (alteração não textual; a de Loures fica refletida na nova redação da alínea F)); alterador 3 (Portaria 184/2006): redistribui as freguesias de Vila Nova de Gaia sem nova redação da alínea L); alterador 4 (Portaria 887/2010): reestrutura e extingue serviços de Oeiras sem nova redação da alínea H) (freguesias em mapa só em imagem); alterador 5 (Portaria 53/2011): extingue o Serviço de Gaia 3 e redistribui freguesias sem nova redação da alínea L) (anexo só em imagem). Nenhuma destas é alteração textual.",
   "instrucoes": [
-    "Alterador 1, 8.º: nova redacção da alínea F) do n.º 1.º (1.ª Repartição de Loures); depois substituída pela nova redacção da alínea F) do alterador 2.",
-    "Alterador 1, 8.º: nova redacção da alínea J) (1.ª Repartição do Seixal); unidade 40 substituída; a 2.ª fica com ....",
-    "Alterador 1, 8.º: nova redacção da alínea L); unidades 46-47 e 49 substituídas; a 3.ª Repartição (unidade 48) não muda.",
-    "Alterador 1, 8.º: nova redacção do n.º 8.º; unidade 68 substituída.",
-    "Alterador 1, 1.º a 7.º: repartições do Barreiro e de Setúbal; não alteram o original.",
-    "Alterador 2, 6.º: nova redacção da alínea F) (Loures); unidades 25-28 substituídas, o cabeçalho F) (unidade 24) não muda.",
-    "Alterador 2, 4.º e 5.º: extinção de repartições de Santo Tirso e da 2.ª de Loures; não textual, não aplicado (Loures já coberto pela nova alínea F)).",
-    "Alterador 2, restantes números: criação de serviços na Trofa e Odivelas e revogação na Portaria n.º 744-A/93; não alteram o original.",
-    "Alterador 3: redistribuição das freguesias de Gaia e desactivação da Tesouraria de Lisboa 15; não textual, não aplicado.",
-    "Alterador 4: reestruturação dos serviços de Oeiras com mapa em imagem; não aplicado.",
-    "Alterador 5: extinção do Serviço de Gaia 3 com anexo em imagem; não aplicado."
+    "Alterador 1 (Portaria 515/95), n.º 8.º: nova redação do n.º 1.º, alíneas F) (1.ª Repartição de Loures, unidade 25), J) (1.ª Repartição do Seixal, unidade 40) e L) (unidades 46 a 49), e do n.º 8.º (unidade 68). A mudança da unidade 25 foi depois substituída pela nova redação da alínea F) do alterador 2; as outras foram aplicadas.",
+    "Alterador 2 (Portaria 163/99), n.º 6.º: nova redação da alínea F) do n.º 1.º; o cabeçalho 'F) Concelho de Loures:' (unidade 24) não muda; as unidades 25 a 28 passam às três linhas novas. N.os 4.º e 5.º (extinções) sem nova redação: nao_aplicavel.",
+    "Alterador 3 (Portaria 184/2006): redistribuição de freguesias de Gaia sem nova redação: nao_aplicavel.",
+    "Alterador 4 (Portaria 887/2010): reestruturação de Oeiras sem nova redação: nao_aplicavel.",
+    "Alterador 5 (Portaria 53/2011): extinção do Serviço de Gaia 3 sem nova redação: nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

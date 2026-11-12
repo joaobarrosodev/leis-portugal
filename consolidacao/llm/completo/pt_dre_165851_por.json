@@ -2,18 +2,541 @@
   "id": "pt:dre:165851:por",
   "artigos": [
     {
+      "chave": "1.º",
+      "epigrafe": "Natureza",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Magistrados de países estrangeiros",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Regime financeiro",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Órgãos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Director",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Directores-adjuntos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Conselho de gestão",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Competência e funcionamento do conselho de gestão",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Conselho pedagógico",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Competência do conselho pedagógico",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Conselho de disciplina",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Competência do conselho de disciplina",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Conselho administrativo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Competência do conselho administrativo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Deliberações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Quadro",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Chefes de secção",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Formação profissional de magistrados",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Formação de assessores dos tribunais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Plano de actividades e relatório",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Ingresso",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Vagas e abertura de concurso",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Requerimentos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Listas de candidatos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Júris",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Fases",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Dispensa de testes",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "Fase escrita",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "Fase oral",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Classificação da fase escrita",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "Classificação da fase oral",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "Classificação final",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "Assessores",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "Graduação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "Reclamações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "Efeitos das reclamações sobre a fase oral",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "Faltas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "Validade das provas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "Preenchimento de lugares",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "Auditores de justiça",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "Direitos, deveres e incompatibilidades",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "Remuneração e regalias",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "55.º",
+      "epigrafe": "Funcionários e agentes do Estado",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "Objectivos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "Conteúdo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "Organização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "59.º",
+      "epigrafe": "Ciclos de actividades",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "60.º",
+      "epigrafe": "Actividades no CEJ",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "61.º",
+      "epigrafe": "Actividades nos tribunais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "62.º",
+      "epigrafe": "Colocação junto dos tribunais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "63.º",
+      "epigrafe": "Aproveitamento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "Falta de assiduidade",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "65.º",
+      "epigrafe": "Classificação e graduação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "66.º",
+      "epigrafe": "Opção de magistratura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "67.º",
+      "epigrafe": "Efeitos da exclusão",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "68.º",
+      "epigrafe": "Nomeação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
       "chave": "69.º",
       "epigrafe": "Organização",
-      "texto": "1 - O estágio tem início no dia 15 de Setembro subsequente à conclusão da fase teórico-prática, salvo se outro prazo for definido no despacho previsto no n.º 2 do artigo 59.º\n\n2 - O estágio tem a duração de 10 meses, salvo se a duração for alterada nos termos do artigo seguinte.\n\n3 - A duração do período de estágio pode, excepcionalmente, havendo motivo justificado, ser alterado, mediante deliberação do respectivo Conselho Superior, ouvido o director do Centro de Estudos Judiciários.",
-      "alterador": 2
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "70.º",
+      "epigrafe": "Regime",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "71.º",
+      "epigrafe": "Objectivos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "72.º",
+      "epigrafe": "Colocação definitiva",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "73.º",
+      "epigrafe": "Dever de permanência na magistratura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "74.º",
+      "epigrafe": "Objectivos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "75.º",
+      "epigrafe": "Organização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "76.º",
+      "epigrafe": "Objectivos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "77.º",
+      "epigrafe": "Organização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "78.º",
+      "epigrafe": "Plano anual",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "79.º",
+      "epigrafe": "Actividades",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "80.º",
+      "epigrafe": "Docentes e formadores",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "81.º",
+      "epigrafe": "Nomeação de docentes",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "82.º",
+      "epigrafe": "Designação de formadores",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "83.º",
+      "epigrafe": "Regime de provimento de docentes",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "84.º",
+      "epigrafe": "Regime de remunerações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "85.º",
+      "epigrafe": "Procedimento disciplinar",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "86.º",
+      "epigrafe": "Penas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "87.º",
+      "epigrafe": "Suspensão preventiva",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "88.º",
+      "epigrafe": "Aplicação das penas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "89.º",
+      "epigrafe": "Efeitos especiais das penas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "90.º",
+      "epigrafe": "Contagem dos prazos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "91.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "92.º",
+      "epigrafe": "Norma revogatória",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "93.º",
+      "epigrafe": "Regime transitório",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "94.º",
+      "epigrafe": "Conselhos de gestão, pedagógico e de disciplina",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "95.º",
+      "epigrafe": "Directores e docentes",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "96.º",
+      "epigrafe": "Pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "97.º",
+      "epigrafe": "Director do gabinete de estudos jurídico-sociais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "98.º",
+      "epigrafe": "Regulamento interno",
+      "texto": "(Revogado.)",
+      "alterador": 3
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Art. 59.º n.º 1: o alterador 2 diz '(Redacção do anterior corpo artigo.)', mas o corpo anterior do art. 59.º não consta do pedido (o texto atual já tem essa nota literal), pelo que não se pode reconstituir; mantido. Alterador 3 (Lei 2/2008), art. 118.º a): revoga a Lei 16/98 'com excepção da secção ii do capítulo i do título ii e dos artigos 27.º e 28.º', que se mantêm transitoriamente; a sistemática (títulos/capítulos/secções) não consta do texto atual, pelo que não se consegue identificar com segurança os artigos excepcionados; e o art. 113.º n.º 2 mantém a lei em vigor para a formação transitória — não aplicado.",
+  "titulos": [],
+  "nao_aplicavel": "Alterador 3 (Lei 2/2008), art. 118.º, a): a secção II do capítulo I do título II (arts. 18.º a 25.º) e os arts. 27.º e 28.º mantêm-se transitoriamente em vigor até à entrada em vigor da portaria referida no art. 103.º - revogação diferida para um facto futuro, não aplicada a esses artigos. A ressalva transitória do art. 113.º (regime da formação inicial para cursos anteriores) não é alteração textual.",
   "instrucoes": [
-    "Alterador 1 (Lei 3/2000), art. 2.º: nova redação do n.º 2 do art. 69.º — passou a n.º 3 pelo alterador 2.",
-    "Alterador 2 (DL 11/2002): art. 58.º já constava do texto atual; art. 59.º já constava (n.º 1 com nota literal não reconstituível); art. 69.º: n.os 1 e 2 novos e n.º 3 = redação do anterior n.º 2 dada pela Lei 3/2000, reconstituída a partir do alterador 1 (o texto atual tinha a nota literal).",
-    "Alterador 3 (Lei 2/2008), arts. 113.º e 118.º: revogação com excepções e regime transitório — não aplicada (ver nao_aplicavel)."
+    "Alt.1 art.2.º: nova redação do n.º 2 do art. 69.º - absorvida pelas alterações seguintes.",
+    "Alt.2 art.1.º: arts. 58.º, 59.º e 69.º - o programa já os tinha aplicado; ficam revogados pelo alt.3.",
+    "Alt.3 art.118.º, a): revoga a Lei 16/98, salvo a secção II do cap. I do tít. II (18.º a 25.º) e os arts. 27.º e 28.º - os restantes artigos ficam (Revogado.); a exceção tem revogação diferida para a portaria do art. 103.º - não aplicada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

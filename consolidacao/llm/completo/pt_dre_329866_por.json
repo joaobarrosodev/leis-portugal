@@ -9,13 +9,11 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "nao_aplicavel": "Alterador 2 (DLR 8/91/M), art. 17.º, alínea a): revoga o DRR 3/78/M 'no que respeita aos cargos previstos no presente diploma' (pessoal dirigente) - revogação parcial condicionada, não aplicada ao texto. Os restantes artigos do DLR 8/91/M adaptam o DL 323/89 e não alteram o texto do original.",
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação do art. 17.º; só muda a alínea b) do n.º 4 (o resto vem com '...'); aplicado.",
-    "Alterador 1, art. 2.º: entrada em vigor; não altera o texto.",
-    "Alterador 2, arts. 1.º a 16.º: regime próprio do pessoal dirigente e adaptações do Decreto-Lei n.º 323/89; não são instruções textuais dirigidas ao original.",
-    "Alterador 2, art. 17.º, a): revoga o original 'no que respeita aos cargos previstos no presente diploma' — revogação parcial por matéria, sem artigos identificados; não aplicada ao texto.",
-    "Alterador 2, art. 17.º, b): revoga outro diploma (Decreto Regional n.º 25/79/M); ignorada."
+    "Alterador 1 (DRR 3/79/M), art. 1.º: nova redação da alínea b) do n.º 4 do artigo 17.º; o resto ('...') fica como estava. O artigo 17.º vem no texto atual como '###### ARTIGO 17.º — (Pessoal administrativo)' dentro do bloco do 13.º; devolvido com a chave '17.º'.",
+    "Alterador 2 (DLR 8/91/M): revogação 'no que respeita aos cargos previstos' - não aplicada (ver nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

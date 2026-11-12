@@ -209,7 +209,7 @@ Serviço de prestação de cuidados de saúde.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Artigo 18.º — (Composição)
+###### Artigo 18.º — Composição
 
 1 - O conselho de administração é composto por três elementos, nomeados, em comissão de serviço, por despacho do Secretário Regional da Saúde e Segurança Social, sob proposta do director regional de Saúde.
 

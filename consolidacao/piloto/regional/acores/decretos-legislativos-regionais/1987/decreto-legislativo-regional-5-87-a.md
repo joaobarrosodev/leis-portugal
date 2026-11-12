@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:373581:por
-    title: Decreto Legislativo Regional n.º 21/88/A
-    publication_date: '1988-05-03'
   - id: pt:dre:534776:por
     title: Decreto Legislativo Regional n.º 1/2005/A
     publication_date: '2005-05-09'
+  - id: pt:dre:373581:por
+    title: Decreto Legislativo Regional n.º 21/88/A
+    publication_date: '1988-05-03'
 ---
 
 # Decreto Legislativo Regional n.º 5/87/A
@@ -33,55 +33,21 @@ O regime do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/dec
 
 ###### Artigo 2.º — Fundamentação e apreciação
 
-Depende de parecer da Secretaria Regional das Finanças (SRF) e da Secretaria Regional da Administração Pública (SRAP) a aprovação dos projectos de diploma que visem:
+(Revogado.)
 
-a) ...
-
-b) ...
-
-c) ...
-
-2 - ...
-
-a) ...
-
-b) Mapas dos modelos I, II e III anexos, com as adaptações necessárias, sempre que dos diplomas resulte a criação ou alteração de quadros ou mapas de pessoal;
-
-c) Parecer técnico dos serviços, quando os houver, que nos respectivos departamentos governamentais têm competência em matéria de organização de gestão de pessoal, o qual, em caso de criação ou reorganização de serviços ou de aumento de quadros, analisará, designadamente, soluções alternativas de concentração, de absorção de serviços ou de mobilidade, respectivamente.
-
-3 - Os estudos preliminares e a preparação dos referidos projectos podem ser assessorados pelos serviços da SRF e da SRAP.
-
-4 - A reorganização de serviços não deve determinar acréscimo dos encargos globais do respectivo departamento governamental.
-
-5 - ...
-
-6 - Os pareceres a que se refere o n.º 1 deverão ser prévios à circulação para aprovação em Conselho do Governo Regional e devem ser emitidos no prazo de 30 dias a contar da data da sua entrada nos respectivos departamentos, prazo que será interrompido sempre que se solicitem elementos adicionais ou se proceda a uma auditoria de gestão nos termos do artigo 3.º
-
-7 - O parecer da SRF deve pronunciar-se expressamente sobre o custo dos projectos, sua cobertura e adequação à política orçamental.
-
-8 - O parecer da SRAP deve pronunciar-se expressamente sobre:
-
-a) A eventual existência de serviços que prossigam objectivos complementares, paralelos ou sobrepostos;
-
-b) A adequação da estrutura proposta aos objectivos;
-
-c) A adequação dos efectivos à estrutura proposta e aos objectivos a prosseguir, bem como à política de recursos humanos, designadamente mobilidade e contenção de pessoal;
-
-d) A necessidade das soluções preconizadas, do ponto de vista da eficiência e da eficácia dos serviços e da sua compatibilização com o regime geral da função pública.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 1/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-534776), publicado em 2005-05-09.
 
 ###### Artigo 3.º — Auditoria de gestão
 
-1 - Quando for proposta a criação ou reestruturação de serviços ou de quadros de pessoal ou a definição do respectivo regime, podem os Secretários Regionais das Finanças e da Administração Pública, isolada ou conjuntamente, precedendo concordância do membro do Governo Regional interessado, determinar que os serviços competentes dos respectivos departamentos efectuem a acção de auditoria de gestão considerada adequada.
+(Revogado.)
 
-2 - ...
-
-3 - Impende sobre os serviços que forem objecto de auditoria de gestão, bem como sobre os serviços de apoio geral da respectiva secretaria regional, o dever de colaborar na sua realização.
-
-4 - O despacho que determinar a realização da acção de auditoria de gestão identificará, sempre que possível, os serviços de apoio geral da respectiva secretaria regional sobre os quais impende o dever de colaboração.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 1/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-534776), publicado em 2005-05-09.
 
 ###### Artigo 4.º — Extinção ou fusão de serviços
 
-Quando, com base em levantamentos efectuados das estruturas orgânicas da administração regional autónoma, se detecte a existência de serviços cuja finalidade se encontre esgotada ou que prossigam objectivos complementares, paralelos ou sobrepostos, deve o Conselho do Governo Regional proceder à sua fusão, absorção de atribuições ou extinção, conforme os casos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 1/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-534776), publicado em 2005-05-09.
 
 ###### Artigo 7.º — Estrutura dos quadros de pessoal
 
@@ -488,6 +454,10 @@ Os mapas anexos ao presente diploma podem ser alterados por despacho do Secretá
 2 - Para os efeitos previstos no artigo 2.º do decreto-lei referido no número anterior, serão competentes, respectivamente, a SRF e a SRAP.
 
 3 - Nos casos de contratação eventual que vise assegurar, de imediato, funções de prestação de serviços essenciais directamente ao público utente, o parecer prévio favorável da SRF e da SRAP é dispensado, ficando os serviços obrigados a comunicar às mesmas entidades, no prazo máximo de cinco dias, as razões e as condições da celebração do respectivo contrato.
+
+4 - (Revogado.)
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 1/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-534776), publicado em 2005-05-09.
 
 ###### Artigo 3.º — Destacamentos e requisições anteriores
 

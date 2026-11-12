@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:249865:por
     title: Decreto-Lei n.º 74/2008
     publication_date: '2008-04-22'
+  - id: pt:dre:607729:por
+    title: Decreto-Lei n.º 99/2009
+    publication_date: '2009-04-28'
 ---
 
 # Decreto-Lei n.º 312/2007
@@ -1634,7 +1637,7 @@ g) Autoridade de gestão do PO de assistência técnica co-financiado pelo FEDER
 
 12 - As atribuições, direitos e obrigações das autoridades de gestão dos PO sectoriais do QCA III, relativos à agricultura e desenvolvimento rural e às pescas são regulados por diploma legislativo próprio.
 
-> Alterado pelo/a [Decreto-Lei n.º 74/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2008-249865), publicado em 2008-04-22.
+> Alterado pelo/a [Decreto-Lei n.º 99/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2009-607729), publicado em 2009-04-28.
 
 ###### Artigo 69.º — Regulamentação do FSE
 

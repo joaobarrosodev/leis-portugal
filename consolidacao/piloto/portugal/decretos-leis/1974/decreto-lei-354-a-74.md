@@ -697,6 +697,8 @@ b) Desde o primeiro domingo de Outubro ao último de Dezembro em todos os locais
 
 c) A partir do último domingo de Dezembro, «à espera» e sem cão nos locais para o efeito definidos por edital.
 
+2. A partir do último domingo de Dezembro, exclusive, a caça aos tordos e estorninhos só é permitida à espera sem cão, nos locais designados pelo Serviço de Inspecção da Caça e Pesca, mediante proposta das comissões venatórias, e tornados públicos por edital.
+
 Corvos, gralhas, pegas e gaios
 
 > Alterado pelo/a [Portaria n.º 523-A/77](https://diariodarepublica.pt/dr/detalhe/portaria/523-a-1977-616645), publicado em 1977-08-13.

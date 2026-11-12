@@ -86,6 +86,6 @@ Comandantes de companhia dos Batalhões n.os 1, 2 e 3 de Fuzileiros;
 
 Comandantes da Unidade de Apoio de Fogos, da Unidade de Apoio de Transportes Tácticos e da Unidade de Apoio de Meios Aquáticos;
 
-2.º comandante da Esquadrilha de Submarinos.
-
 > Alterado pelo/a [Portaria n.º 882/82](https://diariodarepublica.pt/dr/detalhe/portaria/882-1982-375857), publicado em 1982-09-20.
+
+2.º comandante da Esquadrilha de Submarinos.

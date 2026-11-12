@@ -19,15 +19,15 @@ consolidacao:
   - id: pt:dre:180473:por
     title: Decreto-Lei n.º 21/99
     publication_date: '1999-01-28'
-  - id: pt:dre:306915:por
-    title: Decreto-Lei n.º 320-A/2002
-    publication_date: '2002-12-30'
   - id: pt:dre:603511:por
     title: Decreto-Lei n.º 289/2001
     publication_date: '2001-11-13'
   - id: pt:dre:576276:por
     title: Decreto-Lei n.º 315/2001
     publication_date: '2001-12-10'
+  - id: pt:dre:306915:por
+    title: Decreto-Lei n.º 320-A/2002
+    publication_date: '2002-12-30'
 ---
 
 # Decreto-Lei n.º 158/96

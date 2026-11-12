@@ -15,12 +15,13 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 4 (Portaria n.º 1493/2002) renova a concessão por 12 anos com área de 1711,6886 ha, sem nova redação do texto; alterador 3 suspende a caça (não textual).",
+  "nao_aplicavel": "Alterador 3 (Portaria 620/2002) suspende a caça e alterador 4 (Portaria 1493/2002) renova a concessão por 12 anos com 1711,6886 ha e nova planta: não dão nova redação ao texto do original (alterações não textuais).",
   "instrucoes": [
-    "Alt. 1: nova redação do n.º 1.º (1791,8095 ha) e aditamento do n.º 1.º-A - 1.º-A inserido a seguir à unidade 6; 1.º depois substituído pelo alt. 2.",
-    "Alt. 2: nova redação do n.º 1.º (1721,4015 ha) - unidade 6 substituída (redação final).",
-    "Alt. 3: suspensão da caça - não textual.",
-    "Alt. 4: renovação, área 1711,6886 ha, sem redação - não aplicado."
+    "Alt. 1, 1.º: nova redação do n.º 1.º (1791,8095 ha), depois substituída pelo alt. 2.",
+    "Alt. 1, 1.º: aditado n.º 1.º-A -> inserido depois da unidade 6.",
+    "Alt. 2, 1.º: nova redação do n.º 1.º (1721,4015 ha) -> unidade 6 substituída com o texto final, mantendo o número 1.º.",
+    "Alt. 3: suspensão da caça, não textual.",
+    "Alt. 4: renovação e nova área/planta, não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

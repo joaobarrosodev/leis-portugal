@@ -14,20 +14,6 @@
     "alterador": "pt:dre:636383:por"
   },
   {
-    "artigo": "unidades 19-19",
-    "operacao": "remover",
-    "regra": "llm",
-    "antes": "3 - São obrigatoriamente nominativas ou ao portador registadas as acções do tipo B, até perfazerem, conjuntamente com as do tipo A, o limite fixado na legislação bancária.",
-    "depois": "",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:355687:por",
-    "alterador": "pt:dre:636383:por"
-  },
-  {
     "artigo": "unidades 26-26",
     "operacao": "substituir",
     "regra": "llm",

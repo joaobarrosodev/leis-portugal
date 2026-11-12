@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-09-20'
+version_history:
+  file: portaria-453-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-08-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-09-20'
+    amending: pt:dre:375857:por
+    amending_title: Portaria n.º 882/82
+    changes:
+    - Altera Artigo unidades 9-33
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:41:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 882/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-453-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,54 +146,64 @@ Estado-Maior da Armada, 25 de Julho de 1978. - O Chefe do Estado-Maior da Armada
 
 Relação anexa à portaria
 
-Subchefe do Estado-Maior da Armada.
+Subchefe do Estado-Maior da Armada;
 
-2.º comandante do Comando Naval do Continente.
+2.º comandante do Comando Naval do Continente;
 
-2.º comandante do Comando Naval dos Açores.
+2.º comandante do Comando Naval dos Açores;
 
-2.º comandante da Base Naval de Lisboa.
+2.º comandante da Base Naval de Lisboa;
 
-Subdirector do Instituto Superior Naval de Guerra.
+Subdirector do Instituto Superior Naval de Guerra;
 
-Imediato da Escola Naval.
+Imediato da Escola Naval;
 
-Subdirector do Instituto Hidrográfico.
+Director técnico-científico do Instituto Hidrográfico;
 
-Subdirector do Hospital da Marinha.
+Director dos Serviços de Documentação do Instituto Hidrográfico;
 
-Subdirector da Direcção de Faróis.
+Director dos Serviços de Apoio do Instituto Hidrográfico;
 
-Subdirector da Fábrica Nacional de Cordoaria.
+Subdirector do Hospital da Marinha;
 
-Subdirector da Direcção de Abastecimento.
+Subdirector da Direcção de Faróis;
 
-2.º comandante do Corpo de Fuzileiros.
+Subdirector da Fábrica Nacional de Cordoaria;
 
-2.º comandante da Força de Fuzileiros do Continente.
+Subdirector da Direcção de Abastecimento;
 
-Imediato da Escola de Fuzileiros.
+2.º comandante do Corpo de Fuzileiros;
 
-Imediato do Grupo n.º 1 de Escolas da Armada.
+2.º comandante da Força de Fuzileiros do Continente;
 
-Imediato do Grupo n.º 2 de Escolas da Armada.
+Imediato da Escola de Fuzileiros;
 
-Director de instrução da Escola de Fuzileiros.
+Imediato do Grupo n.º 1 de Escolas da Armada;
 
-Director de instrução da Escola de Alunos Marinheiros.
+Imediato do Grupo n.º 2 de Escolas da Armada;
 
-Comandante de Grupo de Companhias do Grupo n.º 1 de Escolas da Armada.
+Directores das Messes de Lisboa, do Alfeite e de Cascais;
 
-Comandante de Grupo de Companhias do Grupo n.º 2 de Escolas da Armada.
+Director de instrução da Escola de Fuzileiros;
 
-Director de instrução de cursos não integrados em escolas do Grupo n.º 2 de Escolas da Armada.
+Director de instrução do Centro de Instrução por Correspondência;
 
-Chefe do Centro de Comunicações do Comando Naval do Continente.
+Comandante de grupo de companhias do Grupo n.º 1 de Escolas da Armada;
 
-Comandantes dos Batalhões n.º 1, n.º 2 e n.º 3 de Fuzileiros.
+Comandante de grupo de companhias do Grupo n.º 2 de Escolas da Armada;
 
-2.os comandantes dos Batalhões n.º 1, n.º 2 e n.º 3 de Fuzileiros.
+Director de instrução de cursos não integrados em escolas do Grupo n.º 2 de Escolas da Armada;
 
-Comandantes de companhia dos Batalhões n.º 1, n.º 2 e n.º 3 de Fuzileiros.
+Chefe do Centro de Comunicações do Comando Naval do Continente;
+
+Comandantes dos Batalhões n.os 1, 2 e 3 de Fuzileiros;
+
+2.os comandantes dos Batalhões n.os 1, 2 e 3 de Fuzileiros;
+
+Comandantes de companhia dos Batalhões n.os 1, 2 e 3 de Fuzileiros;
+
+Comandantes da Unidade de Apoio de Fogos, da Unidade de Apoio de Transportes Tácticos e da Unidade de Apoio de Meios Aquáticos;
+
+> Alterado pelo/a [Portaria n.º 882/82](https://diariodarepublica.pt/dr/detalhe/portaria/882-1982-375857), publicado em 1982-09-20.
 
 2.º comandante da Esquadrilha de Submarinos.

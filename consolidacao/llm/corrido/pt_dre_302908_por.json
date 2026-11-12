@@ -15,13 +15,15 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 2, n.º 2.º: o n.º 6.º passa a obrigar a manter um só guarda florestal auxiliar, mas sem nova redação textual; não aplicado. A planta anexa só existe em imagem. As suspensões (993-E/97, 815/99) e a extinção da concessão (56/2000) não são alterações textuais do original.",
+  "nao_aplicavel": "Alterador 2, n.º 2.º: a redução para um guarda florestal auxiliar no n.º 6.º não vem como nova redação (não é alteração textual), não aplicada. Alteradores 1 e 3 (suspensão da actividade/exploração cinegética) e alterador 4 (extinção da concessão) não alteram o texto nem o revogam, não aplicados.",
   "instrucoes": [
-    "Alterador 1: suspensão da actividade cinegética por 180 dias, sem instrução textual; não aplicado.",
-    "Alterador 2, n.º 1.º: nova redação do n.º 1.º (1531,2520 ha) aplicada na unidade 6; aditado o n.º 1.º-A (a instrução diz 'Portaria n.º 572/72', gralha pela 572/92 no mesmo diploma) a seguir à unidade 6.",
-    "Alterador 2, n.º 2.º: redução para um guarda no n.º 6.º sem texto novo; não aplicado. N.º 3.º revoga a Portaria 993-E/97, não o original.",
-    "Alterador 3: suspensão da exploração cinegética, sem instrução textual; não aplicado.",
-    "Alterador 4: extinção da concessão, não revoga o texto do original; não aplicado."
+    "Alt. 1 (Portaria 993-E/97): suspende a actividade cinegética por 180 dias; não textual, nada feito.",
+    "Alt. 2, 1.º: nova redação do n.º 1.º; substituída a unidade 6.",
+    "Alt. 2, 1.º (aditamento, citado como Portaria 572/72, de 26 de Junho, por gralha): adita o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alt. 2, 2.º: n.º 6.º passa a obrigar a um só guarda; sem nova redação, em nao_aplicavel.",
+    "Alt. 2, 3.º: revoga a Portaria 993-E/97 (outro diploma); ignorado.",
+    "Alt. 3 (Portaria 815/99): suspende a exploração cinegética; não textual, nada feito.",
+    "Alt. 4 (Portaria 56/2000): extingue a concessão; não revoga nem altera o texto, nada feito."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

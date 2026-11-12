@@ -41,10 +41,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-04-03'
+version_history:
+  file: portaria-994-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-08-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-04-03'
+    amending: pt:dre:524849:por
+    amending_title: Portaria n.º 213/97
+    changes:
+    - Altera Artigo unidades 9-11
+    - Altera Artigo unidades 55-69
+    - Altera Artigo unidades 72-75
+    - Altera Artigo unidades 78-84
+    - Altera Artigo unidades 87-91
+    - Altera Artigo unidades 94-97
+    - Altera Artigo unidades 100-103
+    - Altera Artigo unidades 108-111
+    - Altera Artigo unidades 115-117
+    - Altera Artigo unidades 119-121
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/994/1995/08/18/p/dre/pt/html
@@ -70,7 +93,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:17:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 213/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-994-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,11 +164,25 @@ Assim, ao abrigo do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/de
 
 Manda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Social, o seguinte:
 
-1.º ...
+1.º
 
 Âmbito de aplicação
 
-A presente portaria aplica-se aos alunos com necessidades educativas especiais que frequentam estabelecimentos de ensino particular de educação especial e que, em 15 de Setembro do ano em que se inicia o ano lectivo, tenham idades compreendidas entre os 6 e os 18 anos.
+A presente portaria aplica-se aos estabelecimentos de ensino particular de educação especial, tutelados pelo Ministério da Educação, nos termos do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, que prestem uma ou duas das seguintes modalidades de serviço:
+
+1) Atendimento de alunos com necessidades educativas especiais que exijam um atendimento específico resultante de:
+
+a) Dificuldades graves de comunicação no acesso ao currículo regular, designadamente nas áreas da motricidade, da linguagem, da visão e da audição;
+
+b) Dificuldades graves de compreensão do currículo regular;
+
+c) Problemas graves do foro emocional e comportamental;
+
+d) Outros problemas que, por razões conjunturais ou contextuais, devidamente fundamentadas, exijam um atendimento especializado não disponível no quadro do atendimento regular;
+
+2) Actividades de apoio à integração, assim como serviços técnicos e apoios complementares prestados por pessoal qualificado a alunos com necessidades educativas especiais, integrados em escolas do ensino regular, em articulação com as equipas de educação especial.
+
+> Alterado pelo/a [Portaria n.º 213/97](https://diariodarepublica.pt/dr/detalhe/portaria/213-1997-524849), publicado em 1997-03-29.
 
 2.º ...
 
@@ -232,103 +270,99 @@ b) Currículos alternativos, que substituem os currículos do regime educativo c
 
 Condições de frequência
 
-1 - A primeira matrícula no ensino básico é efectuada na escola da área pedagógica da residência do aluno, dependendo o encaminhamento para estabelecimento de ensino especial da apresentação dos seguintes documentos:
+1 - Para efeitos do definido no n.º 1 do n.º 1.º, a primeira matrícula do aluno é efectuada na escola da área pedagógica da residência do aluno, dependendo o encaminhamento para estabelecimento de ensino especial da apresentação dos seguintes documentos:
 
 a) Proposta de encaminhamento do aluno para escola de ensino especial, formulada pelo órgão de gestão e administração da escola onde foi efectuada a matrícula;
 
 b) Documento comprovativo da deficiência de que é portador, passado por médico da especialidade;
 
-c) Declaração de aceitação do aluno por parte do estabelecimento de ensino referido na alínea a);
+c) Declaração da aceitação do aluno por parte do estabelecimento de ensino referido na alínea a);
 
 d) Declaração de concordância do encarregado de educação;
 
-e) Parecer fundamentado da equipa de ensino especial da área escola, baseado em observação psicopedagógica, fazendo referência aos recursos humanos e materiais necessários à intervenção educativa, formalizado através da elaboração do plano educativo individual.
+e) Parecer fundamentado da equipa de ensino especial da área da escola, baseado em observação psicopedagógica, fazendo referência aos recursos humanos e materiais disponíveis na equipa e os necessários à intervenção educativa, formalizado através da elaboração de um plano educativo individual.
 
-2 - O pedido deverá ser enviado pelo órgão da escola ao Departamento da Educação Básica até 30 de Junho, de forma que o mesmo seja apreciado e o aluno possa transitar para escola de ensino especial.
+2 - Nos casos de encaminhamento que se reportem a crianças matriculadas pela primeira vez, o processo deverá ser enviado pelo órgão de gestão e administração da escola, até 30 de Junho, para o Departamento da Educação Básica.
 
-3 - No caso de alunos provenientes de escolas públicas do ensino regular que necessitem de encaminhamento para escolas de ensino especial, deverá o órgão de gestão e administração remeter ao Departamento da Educação Básica, até final do 2.º período do ano lectivo, o plano educativo do aluno, de acordo com o disposto no artigo 15.º do [Decreto-Lei n.º 319/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1991-403296), de 23 de Agosto, bem como os documentos referidos nas alíneas a), c), d) e e) do n.º 1 deste número, em ordem ao ano lectivo seguinte.
+3 - Nas situações de alunos provenientes de escolas públicas, particulares ou cooperativas, do ensino regular que necessitem de encaminhamento no ano lectivo seguinte para escolas particulares de ensino especial deverá o órgão de gestão e administração da escola de origem remeter para o Departamento da Educação Básica, até final do 2.º período do ano lectivo, o plano educativo do aluno, de acordo com o disposto no artigo 15.º do [Decreto-Lei n.º 319/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1991-403296), de 23 de Agosto, bem como os documentos referidos no n.º 1 deste número.
 
-4 - Após decisão, e até 30 de Junho, o Departamento da Educação Básica remete ao estabelecimento de ensino especial documento comprovativo da necessidade de encaminhamento, o plano educativo do aluno e os restantes elementos do respectivo processo.
+4 - Após decisão, e até 15 de Agosto ou 30 de Junho, consoante se trate, respectivamente, das situações referidas nos anteriores n.os 2 e 3, o Departamento da Educação Básica remeterá ao estabelecimento de ensino especial o documento comprovativo da necessidade de encaminhamento, bem como os elementos do respectivo processo.
 
-5 - As situações devidamente justificadas poderão ser admitidas pelo Departamento da Educação Básica independentemente dos prazos estabelecidos nos n.os 2 e 3 deste número.
+5 - Os projectos previstos no n.º 2 do n.º 1.º deverão ser enviados pelo estabelecimento particular de ensino especial para o Departamento da Educação Básica até ao final do 2.º período lectivo.
 
-6 - No caso de alunos provenientes de escolas particulares de ensino regular, devem as respectivas direcções pedagógicas comunicar, até 31 de Maio, a necessidade de apoio especializado ao Departamento da Educação Básica, de cujo processo devem constar os seguintes elementos:
+6 - Só em situações excepcionais, devidamente justificadas, poderão ser considerados pedidos de encaminhamento apresentados fora dos prazos estipulados nos números anteriores.
 
-a) Identificação do aluno;
-
-b) Relatório incluindo os antecedentes relevantes e o grau de eficácia de medidas anteriormente adoptadas;
-
-c) Caracterização das potencialidades, nível de aquisições e dificuldades do aluno;
-
-d) Diagnóstico médico.
+> Alterado pelo/a [Portaria n.º 213/97](https://diariodarepublica.pt/dr/detalhe/portaria/213-1997-524849), publicado em 1997-03-29.
 
 7.º
 
 Apoio financeiro
 
-1 - O apoio financeiro a conceder aos alunos das escolas particulares de ensino especial visa:
+1 - O apoio financeiro a conceder aos estabelecimentos particulares de educação especial visa:
 
-a) Proporcionar o ensino gratuito aos alunos com idades compreendidas entre os 6 e os 13 anos, de acordo com valores a fixar anualmente por portaria do Ministro da Educação;
+a) Proporcionar o ensino gratuito aos alunos referidos no n.º 1 do n.º 1.º com idades compreendidas entre os 6 e os 14 anos, de acordo com valores a fixar anualmente por portaria do Ministro da Educação;
 
-b) Comparticipar no custo das mensalidades relativas ao ensino dos alunos com idades compreendidas entre os 14 e os 18 anos.
+b) Comparticipar no custo das mensalidades relativas ao ensino dos alunos referidos no n.º 1 do n.º 1.º com idades compreendidas entre os 15 e os 18 anos;
 
-2 - A concessão de apoio financeiro depende de documento comprovativo da necessidade de frequência de escola particular de educação especial, emitido pelo Ministério da Educação.
+c) Comparticipar nos custos decorrentes do incremento de projectos no âmbito do referido no n.º 2 do n.º 1.2 - A concessão do apoio financeiro referido nas alíneas a) e b) do número anterior depende de documento comprovativo da necessidade de frequência de escola particular de educação especial, emitido pelo Departamento da Educação Básica.
+
+3 - A concessão do apoio financeiro referido na alínea c) do n.º 1 deste número depende de documento em que se estipulem os apoios a conceder ao projecto, emitido pelo Departamento da Educação Básica.
+
+> Alterado pelo/a [Portaria n.º 213/97](https://diariodarepublica.pt/dr/detalhe/portaria/213-1997-524849), publicado em 1997-03-29.
 
 8.º
 
 Formalização do apoio financeiro
 
-1 - O apoio financeiro a conceder é formalizado através de contrato a celebrar entre o Ministério da Educação, representado pelo Departamento da Educação Básica, e a entidade titular da autorização de funcionamento da escola.
+1 - O apoio financeiro a conceder é formalizado através do contrato de cooperação a celebrar entre o Ministério da Educação, representado pelo Departamento da Educação Básica, e a entidade titular da autorização de funcionamento da escola.
 
-2 - O contrato pode revestir uma das seguintes modalidades:
+2 - O incumprimento dos requisitos exigidos por parte da entidade titular da autorização de funcionamento do estabelecimento de ensino poderá determinar a rescisão do contrato.
 
-a) Contrato de cooperação, quando o estabelecimento de ensino particular de educação especial reúna os requisitos de funcionamento fixados;
+3 - O valor global do contrato é calculado com base em:
 
-b) Contrato de progresso, quando o estabelecimento de ensino se encontre em situação de progressiva melhoria dos requisitos de funcionamento estabelecidos.
+a) Número de alunos que frequentam a escola em cada ano lectivo, mediante lista a enviar ao Departamento da Educação Básica até 31 de Julho, e corresponde a 11 meses, devendo ainda as escolas informar aquele serviço, no prazo de 8 dias após a conclusão de cada um dos períodos lectivos, das alterações de frequência dos alunos que nesse período tenham ocorrido;
 
-3 - O incumprimento dos requisitos exigidos por parte da entidade titular da autorização de funcionamento do estabelecimento de ensino poderá determinar a rescisão do contrato.
+b) Apoio financeiro concedido pelo Ministério da Educação, através do Departamento da Educação Básica, ao projecto apresentado nos termos do n.º 2 do n.º 1.
 
-4 - O valor global do contrato é calculado com base no número de alunos que frequentam a escola em cada ano lectivo, mediante lista a enviar ao Departamento da Educação Básica até 31 de Julho, e correspondente a 11 meses, devendo ainda as escolas informar aquele serviço, no prazo de 8 dias após a conclusão de cada um dos períodos lectivos, das alterações de frequência dos alunos que nesses períodos tenham ocorrido.
+4 - Durante a vigência dos contratos poderão ser celebrados aditamentos, com a correspondente produção de efeitos financeiros, se as condições que determinarem a respectiva celebração forem alteradas.
 
-5 - Durante a vigência dos contratos poderão ser celebrados aditamentos, com a correspondente produção de efeitos financeiros, se as condições que determinaram a respectiva celebração forem alteradas.
+> Alterado pelo/a [Portaria n.º 213/97](https://diariodarepublica.pt/dr/detalhe/portaria/213-1997-524849), publicado em 1997-03-29.
 
 9.º
 
 Gratuitidade de ensino
 
-1 - A gratuitidade a que se refere a alínea a) do n.º 1 do n.º 7.º abrange a matrícula, o seguro escolar e a faculdade de dispor de apoios técnicos específicos exigidos pelas necessidades educativas do aluno.
+1 - A gratuitidade a que se refere a alínea a) do n.º 1 do n.º 7.º abrange a matrícula, o seguro escolar e a faculdade de dispor de apoios técnicos específicos exigidos pelas necessidades educativas dos alunos.
 
-2 - Para o ano lectivo de 1995-1996 são fixados os seguintes valores mensais, por aluno:
+2 - Para o ano lectivo de 1996-1997 é fixado o valor mensal, por aluno, de 80000$00.
 
-a) Em estabelecimento de ensino com contrato de cooperação - 77805$00;
+3 - O regime de gratuitidade será anual e progressivamente alargado até à idade de 18 anos.
 
-b) Em estabelecimento de ensino com contrato de progresso - 54600$00.
-
-3 - O regime de gratuitidade será anual e progressivamente alargado, até à idade de 18 anos.
+> Alterado pelo/a [Portaria n.º 213/97](https://diariodarepublica.pt/dr/detalhe/portaria/213-1997-524849), publicado em 1997-03-29.
 
 10.º
 
 Comparticipação
 
-1 - A comparticipação constitui o apoio financeiro a que se refere a alínea b) do n.º 1 do n.º 7.º e devido aos alunos não abrangidos pelo regime de gratuitidade de ensino.
+1 - A comparticipação constitui o apoio financeiro a que se refere a alínea b) do n.º 1 do n.º 7.º devido aos alunos não abrangidos pelo regime de gratuitidade de ensino.
 
-2 - Para o ano lectivo de 1995-1996 são fixados os seguintes valores mensais, por aluno:
+2 - Para o ano lectivo de 1996-1997 é fixado o valor mensal, por aluno, de 40200$00.
 
-a) Em estabelecimento de ensino com contrato de cooperação - 39060$00;
-
-b) Em estabelecimento de ensino com contrato de progresso - 17010$00.
+> Alterado pelo/a [Portaria n.º 213/97](https://diariodarepublica.pt/dr/detalhe/portaria/213-1997-524849), publicado em 1997-03-29.
 
 11.º
 
 Acção social escolar para os alunos abrangidos pela gratuitidade de ensino
 
-1 - O Ministério da Educação, através do Departamento da Educação Básica, prestará, a partir do dia 1 de Janeiro de 1996, aos alunos das escolas particulares de ensino especial integrados no regime de gratuitidade de ensino previsto no presente diploma apoio no âmbito da acção social escolar, mediante a atribuição de subsídios de alimentação e de transporte.
+1 - O Ministério da Educação, através do Departamento da Educação Básica, prestará apoio no âmbito da acção social escolar aos alunos das escolas particulares de ensino especial integrados no regime de gratuitidade do ensino previsto no presente diploma, mediante a atribuição de subsídios de alimentação e de transporte.
 
 2 - Os subsídios de alimentação e de transporte serão os seguintes:
 
-a) Subsídio de alimentação - 11250$00;
+a) Subsídio de alimentação - 11550$00;
 
-b) Subsídio de transporte - 7530$00.
+b) Subsídio de transporte - 7730$00.
+
+> Alterado pelo/a [Portaria n.º 213/97](https://diariodarepublica.pt/dr/detalhe/portaria/213-1997-524849), publicado em 1997-03-29.
 
 3 - Os subsídios de alimentação e de transporte só serão concedidos no caso da efectiva utilização desses serviços.
 
@@ -338,13 +372,15 @@ Cálculo dos encargos com transportes
 
 1 - Os estabelecimentos particulares de educação especial que assegurem transporte aos alunos referidos no número anterior podem cobrar, dentro dos escalões quilométricos a seguir indicados e contados a partir da zona periférica, os seguintes montantes:
 
-a) Pelos primeiros 5 km - 4791$00;
+a) Até 5 km - 4916$00;
 
-b) De 5 km a 10 km - 5899$00;
+b) De 5 km a 10 km - 6052$00;
 
-c) De 10 km a 15 km - 7639$00;
+c) De 10 km a 15 km - 7838$00;
 
-d) Mais de 15 km - 9407$00.
+d) Mais de 15 km - 9652$00.
+
+> Alterado pelo/a [Portaria n.º 213/97](https://diariodarepublica.pt/dr/detalhe/portaria/213-1997-524849), publicado em 1997-03-29.
 
 2 - Para os efeitos previstos no número anterior, considera-se zona periférica a excedente a um raio de 3 km a partir do estabelecimento de ensino.
 
@@ -352,19 +388,19 @@ d) Mais de 15 km - 9407$00.
 
 13.º
 
-Normas transitórias
+Disposição transitória
 
-1 - De 1 de Setembro a 31 de Dezembro de 1995 o apoio referido no n.º 11.º será prestado pelo Ministério do Emprego e da Segurança Social, englobando, se for caso disso, os valores referidos no n.º 12.º relativos ao transporte.
+Para efeitos de delimitação das faixas etárias referidas nos n.os 1.º e 7.º, a verificação da idade dos alunos reporta-se a 15 de Setembro de 1996.
 
-2 - No ano lectivo de 1995-1996, para os alunos com idades compreendidas entre os 14 e os 18 anos que frequentem o mesmo estabelecimento de ensino do ano anterior, é dispensada a apresentação do documento previsto no n.º 2 do n.º 7.º da presente portaria.
+> Alterado pelo/a [Portaria n.º 213/97](https://diariodarepublica.pt/dr/detalhe/portaria/213-1997-524849), publicado em 1997-03-29.
 
 14.º
 
-Disposições finais
+Produção de efeitos
 
-1 - O disposto na presente portaria produz efeitos a partir de 1 de Setembro de 1995.
+O disposto na presente portaria produz efeitos a partir de 1 de Setembro de 1996.
 
-2 - Pelo presente diploma é revogado o Despacho n.º 232/ME/93, de 10 de Dezembro.
+> Alterado pelo/a [Portaria n.º 213/97](https://diariodarepublica.pt/dr/detalhe/portaria/213-1997-524849), publicado em 1997-03-29.
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 

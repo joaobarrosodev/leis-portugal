@@ -15,11 +15,12 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Substituição da planta anexa (Portarias 1002/95 e 866/97) só em imagem; Portarias 726/98, 716/99 e 854/2003 (anexação de prédios, área condicionada, sinalização), 1033-BU/2004 (renovação por 12 anos, áreas de condicionamento) e 1073/2006 (anexação) não dão nova redação a nenhum ponto do original; a Portaria 726/98 só refere no preâmbulo o lapso da área (849,8536 ha), sem instrução de retificação.",
+  "nao_aplicavel": "Substituição das plantas anexas (Portarias 1002/95, 866/97, 726/98, 716/99, 854/2003, 1033-BU/2004, 1073/2006): só em imagem. Anexações de prédios e alterações de área total (726/98, 716/99, 854/2003, 1073/2006), retificação da área para 849,8536 ha referida no preâmbulo da 726/98, renovação da concessão por 12 anos com área de 1861 ha (1033-BU/2004) e criação de áreas condicionadas: sem nova redação de texto do original, não aplicadas.",
   "instrucoes": [
-    "Portaria 1002/95: nova redação do n.º 1.º (1575,6475 ha) e nova planta; o n.º 1.º volta a ser reescrito pela Portaria 866/97, por isso a substituição da unidade 6 vai com alterador 2; planta em imagem, não aplicada.",
-    "Portaria 866/97, 1.º: nova redação do n.º 1.º (unidade 6, 858,3701 ha, mantido o número '1.º') e aditamento do n.º 1.º-A (inserção depois da 6).",
-    "Portarias 726/98, 716/99, 854/2003, 1033-BU/2004 e 1073/2006: anexações, renovação e áreas condicionadas, sem alteração textual; não aplicadas."
+    "Portaria 1002/95: nova redação do n.º 1.º (área 1575,6475 ha); substituída depois pela redação da 866/97.",
+    "Portaria 866/97 1.º: nova redação do n.º 1.º (área 858,3701 ha): unidade 6 com a numeração '1.º'.",
+    "Portaria 866/97 1.º: adita o n.º 1.º-A: inserido depois da unidade 6.",
+    "Portarias 726/98, 716/99, 854/2003, 1033-BU/2004 e 1073/2006: anexações, renovação e áreas condicionadas sem alteração textual (ver nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

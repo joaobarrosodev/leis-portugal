@@ -9,15 +9,15 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 2 (Acórdão do Tribunal Constitucional n.º 801/2014): declara com força obrigatória geral a inconstitucionalidade do n.º 4 do artigo 3.º (numeração da Lei n.º 1/2013); não é alteração textual, pelo que o n.º 4 se mantém no texto.",
+  "titulos": [],
+  "nao_aplicavel": "Acórdão do Tribunal Constitucional n.º 801/2014: declara inconstitucional, com força obrigatória geral, o n.º 4 do artigo 3.º (numeração da Lei n.º 1/2013); não é alteração textual, o texto mantém-se.",
   "instrucoes": [
-    "Alterador 1 (Lei n.º 1/2013), art. 1.º: nova redação do artigo 3.º com novos n.os 1 e 2 e os anteriores n.os 2 e 3 passados a n.os 3 e 4; aplicado (texto dos n.os 3 e 4 copiado do texto atual).",
-    "Alterador 1, art. 2.º: altera o artigo 18.º da Lei n.º 19/2003; ignorado (outro diploma).",
-    "Alterador 2 (Acórdão TC n.º 801/2014): inconstitucionalidade do n.º 4 do artigo 3.º e do n.º 8 do artigo 5.º da Lei n.º 19/2003; não textual, não aplicado (ver nao_aplicavel).",
-    "Alterador 3 (Lei Orgânica n.º 5/2015): altera a Lei n.º 28/82 e a Lei n.º 19/2003; ignorado.",
-    "Alteradores 4, 6 e 7 (Leis n.os 42/2016, 114/2017 e Lei Orgânica n.º 1/2018): vêm sem texto; nada aplicado.",
-    "Alterador 5 (Lei n.º 4/2017), art. 4.º, n.º 1: revoga os n.os 1 e 2 do artigo 3.º na redação da Lei n.º 1/2013; aplicado (n.os 1 e 2 passam a '(Revogado.)'). Restantes artigos alteram a Lei n.º 19/2003; ignorados.",
-    "Alterador 8 (Lei n.º 50/2025): altera e revoga artigos da Lei n.º 77/88; ignorado."
+    "Lei 1/2013 art. 1.º: nova redação do artigo 3.º (n.os 1 e 2 novos, antigos n.os 2 e 3 passam a 3 e 4): aplicado.",
+    "Lei 1/2013 art. 2.º: altera a Lei n.º 19/2003: ignorado.",
+    "Acórdão TC 801/2014: declaração de inconstitucionalidade do n.º 4 do artigo 3.º: em nao_aplicavel.",
+    "Lei Orgânica 5/2015: altera a Lei n.º 28/82 e a Lei n.º 19/2003: ignorado.",
+    "Lei 4/2017 art. 4.º n.º 1: revoga os n.os 1 e 2 do artigo 3.º: aplicado; o resto altera a Lei n.º 19/2003: ignorado.",
+    "Leis 42/2016, 114/2017 e LO 1/2018: sem instruções no pedido. Lei 50/2025: altera a Lei n.º 77/88: ignorado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

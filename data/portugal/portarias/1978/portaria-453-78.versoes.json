@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:299993:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-08-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1897a23a1e5f04bc"
+   ]
+  },
+  {
+   "date": "1982-09-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:375857:por",
+     "title": "Portaria n.º 882/82",
+     "published": "1982-09-20",
+     "dre_path": "/dr/detalhe/portaria/882-1982-375857"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-33"
+   ],
+   "fragments": [
+    "75e835188d85fd2b"
+   ]
+  }
+ ],
+ "fragments": {
+  "1897a23a1e5f04bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Agosto\n\nConsiderando a necessidade de interpretar a definição do exercício de funções de comando, direcção ou chefia, nos escalões intermédios da organização da Marinha, à luz do disposto no artigo 6.º do Regulamento de Disciplina Militar, aprovado e posto em vigor pelo [Decreto-Lei n.º 142/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1977-139918), de 9 de Abril, sem prejuízo da plenitude da competência disciplinar das entidades que exercem directamente aquelas funções:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguinte:\n\n1.º Na Marinha, as entidades que, situando-se nos escalões intermédios de comando, direcção ou chefia, poderão exercer a competência disciplinar correspondente ao seu posto são as que constam da relação anexa à presente portaria.\n\n2.º A relação mencionada no n.º 1.º será revista sempre que a apreciação das circunstâncias em que se verifica o exercício das funções em causa, nos citados escalões, o recomende.\n\nEstado-Maior da Armada, 25 de Julho de 1978. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante.\n\nRelação anexa à portaria\n\nSubchefe do Estado-Maior da Armada.\n\n2.º comandante do Comando Naval do Continente.\n\n2.º comandante do Comando Naval dos Açores.\n\n2.º comandante da Base Naval de Lisboa.\n\nSubdirector do Instituto Superior Naval de Guerra.\n\nImediato da Escola Naval.\n\nSubdirector do Instituto Hidrográfico.\n\nSubdirector do Hospital da Marinha.\n\nSubdirector da Direcção de Faróis.\n\nSubdirector da Fábrica Nacional de Cordoaria.\n\nSubdirector da Direcção de Abastecimento.\n\n2.º comandante do Corpo de Fuzileiros.\n\n2.º comandante da Força de Fuzileiros do Continente.\n\nImediato da Escola de Fuzileiros.\n\nImediato do Grupo n.º 1 de Escolas da Armada.\n\nImediato do Grupo n.º 2 de Escolas da Armada.\n\nDirector de instrução da Escola de Fuzileiros.\n\nDirector de instrução da Escola de Alunos Marinheiros.\n\nComandante de Grupo de Companhias do Grupo n.º 1 de Escolas da Armada.\n\nComandante de Grupo de Companhias do Grupo n.º 2 de Escolas da Armada.\n\nDirector de instrução de cursos não integrados em escolas do Grupo n.º 2 de Escolas da Armada.\n\nChefe do Centro de Comunicações do Comando Naval do Continente.\n\nComandantes dos Batalhões n.º 1, n.º 2 e n.º 3 de Fuzileiros.\n\n2.os comandantes dos Batalhões n.º 1, n.º 2 e n.º 3 de Fuzileiros.\n\nComandantes de companhia dos Batalhões n.º 1, n.º 2 e n.º 3 de Fuzileiros.\n\n2.º comandante da Esquadrilha de Submarinos."
+  },
+  "75e835188d85fd2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1982-09-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 882/82](https://diariodarepublica.pt/dr/detalhe/portaria/882-1982-375857), publicado em 1982-09-20."
+   ],
+   "markdown": "de 11 de Agosto\n\nConsiderando a necessidade de interpretar a definição do exercício de funções de comando, direcção ou chefia, nos escalões intermédios da organização da Marinha, à luz do disposto no artigo 6.º do Regulamento de Disciplina Militar, aprovado e posto em vigor pelo [Decreto-Lei n.º 142/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1977-139918), de 9 de Abril, sem prejuízo da plenitude da competência disciplinar das entidades que exercem directamente aquelas funções:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguinte:\n\n1.º Na Marinha, as entidades que, situando-se nos escalões intermédios de comando, direcção ou chefia, poderão exercer a competência disciplinar correspondente ao seu posto são as que constam da relação anexa à presente portaria.\n\n2.º A relação mencionada no n.º 1.º será revista sempre que a apreciação das circunstâncias em que se verifica o exercício das funções em causa, nos citados escalões, o recomende.\n\nEstado-Maior da Armada, 25 de Julho de 1978. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante.\n\nRelação anexa à portaria\n\nSubchefe do Estado-Maior da Armada;\n\n2.º comandante do Comando Naval do Continente;\n\n2.º comandante do Comando Naval dos Açores;\n\n2.º comandante da Base Naval de Lisboa;\n\nSubdirector do Instituto Superior Naval de Guerra;\n\nImediato da Escola Naval;\n\nDirector técnico-científico do Instituto Hidrográfico;\n\nDirector dos Serviços de Documentação do Instituto Hidrográfico;\n\nDirector dos Serviços de Apoio do Instituto Hidrográfico;\n\nSubdirector do Hospital da Marinha;\n\nSubdirector da Direcção de Faróis;\n\nSubdirector da Fábrica Nacional de Cordoaria;\n\nSubdirector da Direcção de Abastecimento;\n\n2.º comandante do Corpo de Fuzileiros;\n\n2.º comandante da Força de Fuzileiros do Continente;\n\nImediato da Escola de Fuzileiros;\n\nImediato do Grupo n.º 1 de Escolas da Armada;\n\nImediato do Grupo n.º 2 de Escolas da Armada;\n\nDirectores das Messes de Lisboa, do Alfeite e de Cascais;\n\nDirector de instrução da Escola de Fuzileiros;\n\nDirector de instrução do Centro de Instrução por Correspondência;\n\nComandante de grupo de companhias do Grupo n.º 1 de Escolas da Armada;\n\nComandante de grupo de companhias do Grupo n.º 2 de Escolas da Armada;\n\nDirector de instrução de cursos não integrados em escolas do Grupo n.º 2 de Escolas da Armada;\n\nChefe do Centro de Comunicações do Comando Naval do Continente;\n\nComandantes dos Batalhões n.os 1, 2 e 3 de Fuzileiros;\n\n2.os comandantes dos Batalhões n.os 1, 2 e 3 de Fuzileiros;\n\nComandantes de companhia dos Batalhões n.os 1, 2 e 3 de Fuzileiros;\n\nComandantes da Unidade de Apoio de Fogos, da Unidade de Apoio de Transportes Tácticos e da Unidade de Apoio de Meios Aquáticos;\n\n> Alterado pelo/a [Portaria n.º 882/82](https://diariodarepublica.pt/dr/detalhe/portaria/882-1982-375857), publicado em 1982-09-20.\n\n2.º comandante da Esquadrilha de Submarinos."
+  }
+ }
+}

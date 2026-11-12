@@ -15,14 +15,14 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 2, n.º 2.º: a redução para um guarda florestal auxiliar no n.º 6.º é dita por remissão, sem nova redação do n.º 6.º, e não foi aplicada ao texto; as novas plantas (alteradores 2, 3 e 5) só vêm em imagem; a suspensão (alterador 1, revogado pelo alterador 2), as anexações com nova área total (alteradores 3 e 5) e a renovação por seis anos (alterador 4) não são alterações textuais.",
+  "nao_aplicavel": "Alterador 2, 2.º: o n.º 6.º passa a obrigar a manter um só guarda florestal auxiliar, mas sem nova redacção do texto — não aplicada para não inventar texto. Alterador 1 (suspensão, revogado pelo alterador 2), alteradores 3 e 5 (anexações por planta) e alterador 4 (renovação) não são alterações textuais.",
   "instrucoes": [
-    "Alterador 1: suspensão da atividade cinegética por 180 dias; não textual e revogada pelo alterador 2.",
-    "Alterador 2, n.º 1.º: nova redação do n.º 1.º (unidade 9) e aditamento do n.º 1.º-A, inserido a seguir.",
-    "Alterador 2, n.º 2.º: n.º 6.º passa a obrigar a um só guarda; sem redação textual, não aplicado.",
-    "Alterador 3: anexação de 37,0334 ha (área total 1949,2143 ha), planta em imagem; não aplicado.",
-    "Alterador 4: renovação da concessão por seis anos a partir de 16 de julho de 2005; não aplicado.",
-    "Alterador 5: anexação de 237 ha (área total 2186 ha), planta em imagem; não aplicado."
+    "Alt. 1: suspensão por 180 dias — não textual.",
+    "Alt. 2, 1.º: nova redacção do n.º 1.º — substituída a unidade 9, mantendo o número 1.º.",
+    "Alt. 2, 1.º: aditado n.º 1.º-A — inserido depois da unidade 9.",
+    "Alt. 2, 2.º: n.º 6.º passa a um guarda — sem redacção textual, em nao_aplicavel.",
+    "Alt. 3 e 5: anexações — não textuais.",
+    "Alt. 4: renovação — não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

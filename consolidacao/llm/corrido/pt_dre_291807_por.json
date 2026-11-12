@@ -4,14 +4,14 @@
   "insercoes": [
     {
       "depois_de": 19,
-      "texto": "9.º-A. Os aposentados, os reformados e os demais pensionistas da Caixa Geral de Aposentações e do Montepio dos Servidores do Estado, bem como os funcionários que se encontrem na situação de reserva e de desligados do serviço, aguardando aposentação ou reforma, com excepção do pessoal que no primeiro ano de passagem a qualquer das situações nele previstas receba subsídio de férias, têm direito a receber, em cada ano civil, um 14.º mês, pagável em Julho, de montante igual à pensão correspondente a esse mesmo mês.\n\n9.º-B. O pessoal abrangido pela presente portaria e que se encontre, cumulativamente, na situação de pensionista, por qualquer outro regime de protecção social, ou no exercício de funções, quer públicas, quer de natureza privada, terá de optar, respectivamente, entre o 14.º mês ou o subsídio de férias que lhe competir em razão da sua situação e o 14.º mês a que tem direito nos termos do número anterior.\n\n9.º-C. O abono do 14.º mês será liquidado pela Caixa Geral de Aposentações, pelo Montepio dos Servidores do Estado ou pela entidade de que dependa o interessado, consoante se encontre na situação de pensionista, de reserva ou aguardando aposentação, sem prejuízo de, nos termos legais, o respectivo encargo ser suportado pelas entidades responsáveis pela aposentação do seu pessoal.",
-      "alterador": 1
+      "alterador": 1,
+      "texto": "9.º-A. Os aposentados, os reformados e os demais pensionistas da Caixa Geral de Aposentações e do Montepio dos Servidores do Estado, bem como os funcionários que se encontrem na situação de reserva e de desligados do serviço, aguardando aposentação ou reforma, com excepção do pessoal que no primeiro ano de passagem a qualquer das situações nele previstas receba subsídio de férias, têm direito a receber, em cada ano civil, um 14.º mês, pagável em Julho, de montante igual à pensão correspondente a esse mesmo mês.\n\n9.º-B. O pessoal abrangido pela presente portaria e que se encontre, cumulativamente, na situação de pensionista, por qualquer outro regime de protecção social, ou no exercício de funções, quer públicas, quer de natureza privada, terá de optar, respectivamente, entre o 14.º mês ou o subsídio de férias que lhe competir em razão da sua situação e o 14.º mês a que tem direito nos termos do número anterior.\n\n9.º-C. O abono do 14.º mês será liquidado pela Caixa Geral de Aposentações, pelo Montepio dos Servidores do Estado ou pela entidade de que dependa o interessado, consoante se encontre na situação de pensionista, de reserva ou aguardando aposentação, sem prejuízo de, nos termos legais, o respectivo encargo ser suportado pelas entidades responsáveis pela aposentação do seu pessoal."
     }
   ],
-  "nao_aplicavel": "Alterador 2 (Portaria n.º 53/91): os n.os 8.º e 13.º fixam novos montantes do subsídio de refeição e dos subsídios de viagem e marcha 'fixados na Portaria n.º 904-B/89', mas não dão nova redação a nenhum número do original; é uma nova fixação de valores, não uma alteração textual.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, n.º 1.º: adita os n.os 9.º-A, 9.º-B e 9.º-C; inseridos a seguir ao 9.º (unidade 19).",
-    "Alterador 2, n.os 8.º e 13.º: atualizam valores fixados na portaria sem nova redação; não aplicado (nao_aplicavel)."
+    "Alterador 1 (Portaria 514/90), n.º 1.º: adita os n.os 9.º-A, 9.º-B e 9.º-C; inseridos depois da unidade 19 (n.º 9.º).",
+    "Alterador 2 (Portaria 53/91): fixa novos valores e tabelas em texto próprio, sem nenhuma instrução de alteração textual dirigida ao original (as referências à Portaria 904-B/89 nos n.os 8.º e 13.º só identificam os montantes a atualizar); nada a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

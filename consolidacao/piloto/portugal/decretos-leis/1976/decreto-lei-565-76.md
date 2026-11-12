@@ -7,9 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:454502:por
-    title: Decreto-Lei n.º 142/2008
-    publication_date: '2008-07-24'
+  - id: pt:dre:280542:por
+    title: Decreto-Lei n.º 487/77
+    publication_date: '1977-11-17'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -48,51 +48,99 @@ Extremo norte do sapal do mouchão de Alhandra, Vala do Tejinho, Terras de Baixo
 
 2. Os limites da área descrita no número anterior vão demarcados na carta corográfica militar anexa ao presente decreto e que dele faz parte integrante.
 
-3 - (Revogado.)
-
-> Alterado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+3. A navegação a motor mantém-se nas calas, devidamente sinalizadas, em especial na cala das Barcas.
 
 ###### Artigo 3.º
 
-(Revogado.)
+1. Dentro da Reserva Natural do Estuário do Tejo fica definida a Reserva Integral de Pancas, cujos limites, em linhas muito gerais, são os seguintes:
 
-> Revogado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+Desde o marco geodésico da Ponta da Erva, segundo uma linha recta até à vala que separa as lamas junto às salinas. Segue depois pela vala citada anteriormente até ao entroncamento com o caminho de acesso às lamas. A partir daqui fica abrangida pela Reserva uma faixa de terra de pasto com a largura de cerca de 100 m a contar da vala.
+
+Todo o restante limite leste da Reserva é definido ao longo do cômoro que separa a zona de sapal da zona agricultada até próximo do limite sul da Reserva Natural.
+
+A oeste, desde a foz do rio das Enguias até ao esteiro de Vale de Frades, o limite da Reserva Integral será a curva de nível da cota 2,5 m acima do 0 hidrográfico. Entre o esteiro de Vale de Frades e o de Pancas, o limite será dado por uma linha paralela à costa e que dista desta cerca de 500 m. Acima da Vala de Pancas, e até à Ponta da Erva, o limite será de novo a curva de nível da cota 2,5 m acima do 0 hidrográfico.
+
+2. Os limites da área descrita no número anterior vão marcados na carta anexa ao presente decreto.
 
 ###### Artigo 4.º
 
-(Revogado.)
+1. Dentro da Reserva Natural do Estuário do Tejo fica definida a Reserva Integral do Mouchão do Lombo do Tejo, constituída por uma pequena lagoa situada nesse mouchão.
 
-> Revogado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+2. Os limites da área descrita no número anterior vão demarcados na carta anexa ao presente decreto.
 
 ###### Artigo 5.º
 
-(Revogado.)
+Até à entrada em vigor da portaria que regulamentará a orgânica e funcionamento da Reserva, esta será administrada por uma comissão instaladora, a que presidirá um representante do Serviço Nacional de Parques, Reservas e Património Paisagístico a designar pelo Secretário de Estado do Ambiente, de que farão parte um representantes do Ministério das Obras Públicas, Ministério da Agricultura e Pescas, Administração-Geral do Porto de Lisboa, Direcção-Geral dos Serviços de Fomento Marítimo e Câmaras Municipais de Benavente e de Vila Franca de Xira.
 
-> Revogado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+> Alterado pelo/a [Decreto-Lei n.º 487/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1977-280542), publicado em 1977-11-17.
 
 ###### Artigo 6.º
 
-(Revogado.)
+Constitui contravenção:
 
-> Revogado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+1. Na Reserva Natural do Estuário do Tejo:
+
+a) A introdução de qualquer tipo de alteração às actividades económicas ali existentes sem autorização especial da Secretaria de Estado do Ambiente através do Serviço Nacional de Parques e Reservas;
+
+b) A introdução de qualquer tipo de alteração à morfologia do terreno, nomeadamente no que respeita a caminhos; a construção de quaisquer imóveis ou a alteração dos existentes, a passagem de novas linhas eléctricas ou telefónicas, sem autorização especial da Secretaria de Estado do Ambiente;
+
+c) O abandono de detritos ou depósito de materiais fora dos locais especialmente destinados a esse fim ou a criação de novos desses locais;
+
+d) A utilização dos terrenos da Reserva para acampamento, a não ser com especial autorização da comissão instaladora;
+
+e) A introdução na Reserva de animais não domésticos e de espécies vegetais exóticas quando não superiormente autorizada, bem como a destruição e colheita de plantas e partes de plantas endémicas;
+
+f) O sobrevoo da zona por aeronaves que circulem com o tecto de voo inferior a 1000 pés, salvo em voo de aproximação para aterragem ou descolagem de aeroportos;
+
+g) O exercício de caça, enquanto não for regulamentado pelas entidades competentes na matéria;
+
+h) A navegação a motor, sendo apenas consentida a adequada à pesca artesanal que ali se realiza e a que circula nas calas devidamente sinalizadas.
+
+2. Nas Reservas Integrais de Pancas e do Mouchão do Lombo do Tejo, além das restrições referidas nas alíneas a) e f) do número anterior, constitui contravenção
+
+a) A introdução, a circulação e o estabelecimento de pessoas, veículos ou animais;
+
+b) A destruição da vegetação e a captura ou caça de qualquer animal selvagem;
+
+c) A pesca profissional ou desportiva.
+
+3. Sem prejuízo do disposto neste diploma, são mantidas as atribuições e competência que por lei caibam a outros serviços e organismos oficiais, nomeadamente à Administração-Geral do Porto de Lisboa.
+
+> Alterado pelo/a [Decreto-Lei n.º 487/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1977-280542), publicado em 1977-11-17.
 
 ###### Artigo 7.º
 
-(Revogado.)
+1. As contravenções previstas no artigo 6.º, sem prejuízo de outras sanções aplicáveis, são punidas:
 
-> Revogado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+a) Com multa de 10000$00 a 1000000$00, as das alíneas a), b) e f) do n.º 1;
+
+b) Com multa de 5000$00 a 50000$00, as das alíneas c), e) e g) do n.º 1;
+
+c) Com multa de 500$00 a 10000$00, a da alínea d) do n.º 1;
+
+d) Com multa de 1000$00 a 50000$00, as das alíneas a), b) e c) do n.º 2.
+
+§ único. O valor das multas previstas nas alíneas a), b) e c) do n.º 1 duplicará no caso de a contravenção ser praticada dentro do perímetro das Reservas Integrais.
+
+2. A aplicação da multa pelas contravenções previstas nas alíneas a), b), c) e d) do n.º 1 do artigo 6.º envolve a obrigação de o infractor demolir as obras ou trabalhos efectuados, quando não possam ser autorizados.
+
+3. Se o infractor se recusar a demolir as obras ou trabalhos efectuados para que fora intimado, a comissão instaladora ou, de futuro, a direcção da Reserva mandará proceder à demolição, apresentando a relação das despesas.
 
 ###### Artigo 8.º
 
-(Revogado.)
+1. As funções de polícia e fiscalização da Reserva competem às câmaras municipais dentro de cuja área de jurisdição se situem terrenos de Reservas, aos funcionários do Serviço Nacional de Parques, Reservas e Património Paisagístico e ao Corpo de Vigilantes da Natureza, logo que este seja constituído.
 
-> Revogado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+2. Os autos de notícia por infracção ao disposto no presente decreto serão levantados e processados nos termos dos artigos 166.º e 167.º do Código de Processo Penal.
+
+3. Sem prejuízo do estipulado no n.º 1 deste artigo, na zona de jurisdição marítima as funções de fiscalização e polícia continuarão a ser exercidas pela autoridade marítima, a qual actuará de acordo com o Regulamento Geral das Capitanias e outra legislação marítima em vigor.
+
+4. Também sem prejuízo do estipulado no n.º 1 deste artigo, é assegurada às autoridades portuárias a competência que lhes seja conferida por lei dentro da área da sua jurisdição.
+
+> Alterado pelo/a [Decreto-Lei n.º 487/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1977-280542), publicado em 1977-11-17.
 
 ###### Artigo 9.º
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+Serão aprovados por portaria conjunta do Secretário de Estado do Ambiente e do Chefe do Estado-Maior da Armada, no prazo de um ano, os sinais indicativos de proibição, permissões e condicionamentos previstos neste decreto para os quais não existam já modelos legalmente estabelecidos.
 
 ###### Artigo 10.º
 
@@ -100,9 +148,13 @@ As despesas emergentes da execução do presente diploma serão suportadas pelas
 
 ###### Artigo 11.º
 
-(Revogado.)
+1. O Secretário de Estado do Ambiente poderá autorizar, através do Serviço Nacional de Parques, Reservas e Património Paisagístico, que se realizem, dentro da área da Reserva Natural do Estuário do Tejo ou nas Reservas Integrais de Pancas e do Mouchão do Lombo e do Tejo, trabalhos, actividades e estudos de índole científica ou técnica.
 
-> Aditado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+2. Será dispensada a autorização prevista no número anterior desde que os trabalhos, actividades ou estudos a realizar interessem à defesa nacional e tenham obtido prévia homologação do Chefe do Estado-Maior-General das Forças Armadas.
+
+Neste caso, e a menos que no despacho de homologação se disponha diversamente, a entidade responsável pela realização dos trabalhos, actividades ou estudos dará conhecimento ao Serviço Nacional de Parques, Reservas e Património Paisagístico de quando se propõe iniciá-los, e, se possível, do respectivo objecto e desenvolvimento ulterior.
+
+> Aditado pelo/a [Decreto-Lei n.º 487/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1977-280542), publicado em 1977-11-17.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - António Poppe Lopes Cardoso - Álvaro Augusto Veiga de Oliveira.
 

@@ -15,13 +15,12 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "As plantas anexas substituídas (Portarias 735/95, 759/97, 153/99, 1033-CQ/2004 e 158/2007) só existem em imagem; as anexações de prédios (153/99, 1033-CQ/2004, 158/2007) e a renovação da concessão (158/2007) não são alterações textuais do original.",
+  "nao_aplicavel": "Substituição das plantas anexas (Portarias 735/95 e 759/97) só em imagem. Portarias 153/99 e 1033-CQ/2004 (anexações) e 158/2007 (renovação e anexação) não alteram textualmente a portaria: são atos autónomos sobre a concessão.",
   "instrucoes": [
-    "Alterador 1: nova redação do n.º 1.º (área 1796,9750 ha) e substituição da planta; o n.º 1.º foi de novo substituído pelo alterador 2, fica só a redação final na unidade 6; planta não aplicável (imagem).",
-    "Alterador 2: nova redação do n.º 1.º (área 1624,2750 ha) aplicada na unidade 6; aditado o n.º 1.º-A, inserido a seguir à unidade 6.",
-    "Alterador 3: anexação de prédios e nova área total, sem instrução textual; não aplicado.",
-    "Alterador 4: anexação de prédios (área total 2085 ha), sem instrução textual; não aplicado.",
-    "Alterador 5: renovação da concessão e anexação de prédios, sem instrução textual; não aplicado."
+    "Portaria 735/95: nova redação do n.º 1.º (unidade 6) - aplicada, depois substituída pela redação da Portaria 759/97; planta só em imagem",
+    "Portaria 759/97, 1.º: nova redação do n.º 1.º (unidade 6) - substituída",
+    "Portaria 759/97: aditado n.º 1.º-A - inserido após a unidade 6",
+    "Portarias 153/99, 1033-CQ/2004 e 158/2007: anexações e renovação sem alteração textual - não aplicadas"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

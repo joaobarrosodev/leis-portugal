@@ -9,12 +9,13 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 2 (Decreto Regional n.º 24/79/M): o artigo 1.º fixa a composição do Governo em um Presidente e seis Secretários e o artigo 2.º extingue as Secretarias de Agricultura e Pescas e de Economia, mas não dá nova redação aos artigos 1.º e 2.º do original (derrogação material, não textual); não aplicado ao texto.",
+  "titulos": [],
+  "nao_aplicavel": "Alterador 2 (Decreto Regional n.º 24/79/M): os artigos 1.º a 7.º estabelecem um novo regime (Governo com seis Secretários Regionais, extinção e criação de Secretarias Regionais, transição de sectores) sem dar nova redação a nenhum artigo do original; não é alteração textual dos artigos 1.º e 2.º, que ficam como estão. Alterador 3, artigo 2.º: revogação de 'toda a legislação em contrário' é condicional e não se aplica ao texto (designadamente ao n.º 3 do artigo 3.º).",
   "instrucoes": [
-    "Alterador 1 (DR 11/79/M), art. 1.º: nova redação do art. 3.º, n.os 1 e 4 (restantes '...'); aplicado; o novo n.º 1 substitui o antigo n.º 1 com as suas alíneas a) e b).",
-    "Alterador 2 (DR 24/79/M): nova composição do Governo e extinção/criação de Secretarias sem alteração textual do original; não aplicado (ver nao_aplicavel).",
-    "Alterador 3 (DR 15/81/M), art. 1.º: nova redação do n.º 1 do art. 3.º; aplicado sobre a redação do alterador 1. Art. 2.º revogação genérica da legislação em contrário: condicional, não aplicada ao texto.",
-    "Alterador 4 (DRR 16/88/M): altera o Decreto Regulamentar Regional n.º 12/88/M, não o original; ignorado."
+    "Alterador 1 (DR 11/79/M), art. 1.º: nova redação do n.º 1 e do n.º 4 do artigo 3.º (n.os 2, 3, 5, 6 e 7 com '...' ficam); aplicado.",
+    "Alterador 2 (DR 24/79/M): normas autónomas sobre a composição do Governo e Secretarias, sem instrução textual sobre o original; não aplicado (nao_aplicavel).",
+    "Alterador 3 (DR 15/81/M), art. 1.º: nova redação do n.º 1 do artigo 3.º (substitui a dada pelo alterador 1); aplicado. Art. 2.º revogação genérica condicional: não aplicada.",
+    "Alterador 4 (DRR 16/88/M): altera o DRR 12/88/M, não o original; ignorado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

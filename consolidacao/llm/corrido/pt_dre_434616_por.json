@@ -2,9 +2,9 @@
   "id": "pt:dre:434616:por",
   "substituicoes": [
     {
-      "de": 11,
+      "de": 9,
       "ate": 11,
-      "texto": "A presente portaria aplica-se aos estabelecimentos de ensino particular de educação especial, tutelados pelo Ministério da Educação, nos termos do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, que prestem uma ou duas das seguintes modalidades de serviço:\n\n1) Atendimento de alunos com necessidades educativas especiais que exijam um atendimento específico resultante de:\n\na) Dificuldades graves de comunicação no acesso ao currículo regular, designadamente nas áreas da motricidade, da linguagem, da visão e da audição;\n\nb) Dificuldades graves de compreensão do currículo regular;\n\nc) Problemas graves do foro emocional e comportamental;\n\nd) Outros problemas que, por razões conjunturais ou contextuais, devidamente fundamentadas, exijam um atendimento especializado não disponível no quadro do atendimento regular;\n\n2) Actividades de apoio à integração, assim como serviços técnicos e apoios complementares prestados por pessoal qualificado a alunos com necessidades educativas especiais, integrados em escolas do ensino regular, em articulação com as equipas de educação especial.",
+      "texto": "1.º\n\nÂmbito de aplicação\n\nA presente portaria aplica-se aos estabelecimentos de ensino particular de educação especial, tutelados pelo Ministério da Educação, nos termos do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, que prestem uma ou duas das seguintes modalidades de serviço:\n\n1) Atendimento de alunos com necessidades educativas especiais que exijam um atendimento específico resultante de:\n\na) Dificuldades graves de comunicação no acesso ao currículo regular, designadamente nas áreas da motricidade, da linguagem, da visão e da audição;\n\nb) Dificuldades graves de compreensão do currículo regular;\n\nc) Problemas graves do foro emocional e comportamental;\n\nd) Outros problemas que, por razões conjunturais ou contextuais, devidamente fundamentadas, exijam um atendimento especializado não disponível no quadro do atendimento regular;\n\n2) Actividades de apoio à integração, assim como serviços técnicos e apoios complementares prestados por pessoal qualificado a alunos com necessidades educativas especiais, integrados em escolas do ensino regular, em articulação com as equipas de educação especial.",
       "alterador": 1
     },
     {
@@ -16,7 +16,7 @@
     {
       "de": 72,
       "ate": 75,
-      "texto": "1 - O apoio financeiro a conceder aos estabelecimentos particulares de educação especial visa:\n\na) Proporcionar o ensino gratuito aos alunos referidos no n.º 1 do n.º 1.º com idades compreendidas entre os 6 e os 14 anos, de acordo com valores a fixar anualmente por portaria do Ministro da Educação;\n\nb) Comparticipar no custo das mensalidades relativas ao ensino dos alunos referidos no n.º 1 do n.º 1.º com idades compreendidas entre os 15 e os 18 anos;\n\nc) Comparticipar nos custos decorrentes do incremento de projectos no âmbito do referido no n.º 2 do n.º 1.º\n\n2 - A concessão do apoio financeiro referido nas alíneas a) e b) do número anterior depende de documento comprovativo da necessidade de frequência de escola particular de educação especial, emitido pelo Departamento da Educação Básica.\n\n3 - A concessão do apoio financeiro referido na alínea c) do n.º 1 deste número depende de documento em que se estipulem os apoios a conceder ao projecto, emitido pelo Departamento da Educação Básica.",
+      "texto": "1 - O apoio financeiro a conceder aos estabelecimentos particulares de educação especial visa:\n\na) Proporcionar o ensino gratuito aos alunos referidos no n.º 1 do n.º 1.º com idades compreendidas entre os 6 e os 14 anos, de acordo com valores a fixar anualmente por portaria do Ministro da Educação;\n\nb) Comparticipar no custo das mensalidades relativas ao ensino dos alunos referidos no n.º 1 do n.º 1.º com idades compreendidas entre os 15 e os 18 anos;\n\nc) Comparticipar nos custos decorrentes do incremento de projectos no âmbito do referido no n.º 2 do n.º 1.2 - A concessão do apoio financeiro referido nas alíneas a) e b) do número anterior depende de documento comprovativo da necessidade de frequência de escola particular de educação especial, emitido pelo Departamento da Educação Básica.\n\n3 - A concessão do apoio financeiro referido na alínea c) do n.º 1 deste número depende de documento em que se estipulem os apoios a conceder ao projecto, emitido pelo Departamento da Educação Básica.",
       "alterador": 1
     },
     {
@@ -39,14 +39,14 @@
     },
     {
       "de": 100,
-      "ate": 104,
-      "texto": "1 - O Ministério da Educação, através do Departamento da Educação Básica, prestará apoio no âmbito da acção social escolar aos alunos das escolas particulares de ensino especial integrados no regime de gratuitidade do ensino previsto no presente diploma, mediante a atribuição de subsídios de alimentação e de transporte.\n\n2 - Os subsídios de alimentação e de transporte serão os seguintes:\n\na) Subsídio de alimentação - 11550$00;\n\nb) Subsídio de transporte - 7730$00.\n\n3 - Os subsídios de alimentação e de transporte só serão concedidos no caso da efectiva utilização desses serviços.",
+      "ate": 103,
+      "texto": "1 - O Ministério da Educação, através do Departamento da Educação Básica, prestará apoio no âmbito da acção social escolar aos alunos das escolas particulares de ensino especial integrados no regime de gratuitidade do ensino previsto no presente diploma, mediante a atribuição de subsídios de alimentação e de transporte.\n\n2 - Os subsídios de alimentação e de transporte serão os seguintes:\n\na) Subsídio de alimentação - 11550$00;\n\nb) Subsídio de transporte - 7730$00.",
       "alterador": 1
     },
     {
-      "de": 107,
-      "ate": 113,
-      "texto": "1 - Os estabelecimentos particulares de educação especial que assegurem transporte aos alunos referidos no número anterior podem cobrar, dentro dos escalões quilométricos a seguir indicados e contados a partir da zona periférica, os seguintes montantes:\n\na) Até 5 km - 4916$00;\n\nb) De 5 km a 10 km - 6052$00;\n\nc) De 10 km a 15 km - 7838$00;\n\nd) Mais de 15 km - 9652$00.\n\n2 - Para os efeitos previstos no número anterior, considera-se zona periférica a excedente a um raio de 3 km a partir do estabelecimento de ensino.\n\n3 - Na determinação dos escalões indicados no n.º 1 deve ser apurada a contagem quilométrica pelo percurso mais curto entre o estabelecimento de ensino especial e a residência do aluno, deduzida a distância a que se refere o número anterior.",
+      "de": 108,
+      "ate": 111,
+      "texto": "a) Até 5 km - 4916$00;\n\nb) De 5 km a 10 km - 6052$00;\n\nc) De 10 km a 15 km - 7838$00;\n\nd) Mais de 15 km - 9652$00.",
       "alterador": 1
     },
     {
@@ -58,16 +58,24 @@
     {
       "de": 119,
       "ate": 121,
-      "texto": "Produção de efeitos\n\nO disposto na presente portaria produz efeitos a partir de 1 de Setembro de 1996.»",
+      "texto": "Produção de efeitos\n\nO disposto na presente portaria produz efeitos a partir de 1 de Setembro de 1996.",
       "alterador": 1
     }
   ],
   "insercoes": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Portaria 213/97), 1.º: nova redação dos n.os 1.º e 6.º a 14.º; substituídos os corpos (e as epígrafes de 13.º e 14.º, que mudam para Disposição transitória e Produção de efeitos); as epígrafes iguais e as unidades de número ficam.",
-    "No 7.º a redação do artigo 1.º da Portaria 213/97 junta por gralha de extração a alínea c) e o n.º 2 (\"n.º 1.2 - A concessão\"); usei a separação e o texto da versão consolidada anexa à mesma portaria (\"n.º 2 do n.º 1.º\" e \"2 - A concessão ...\").",
-    "Alterador 1, 2.º: publica a versão consolidada; nada a aplicar além do 1.º."
+    "Alt. 1, 1.º: nova redação do n.º 1.º (unidades 9 a 11: número, epígrafe e corpo com 1) e 2)).",
+    "Alt. 1, 1.º: nova redação do n.º 6.º (corpo, unidades 55 a 69).",
+    "Alt. 1, 1.º: nova redação do n.º 7.º (corpo, unidades 72 a 75); copiado letra a letra, incluindo a alínea c) colada ao n.º 2 tal como vem no texto da instrução.",
+    "Alt. 1, 1.º: nova redação do n.º 8.º (corpo, unidades 78 a 84).",
+    "Alt. 1, 1.º: nova redação do n.º 9.º (unidades 87 a 91).",
+    "Alt. 1, 1.º: nova redação do n.º 10.º (unidades 94 a 97).",
+    "Alt. 1, 1.º: nova redação do n.º 11.º (unidades 100 a 103; n.º 3 igual).",
+    "Alt. 1, 1.º: nova redação do n.º 12.º (alíneas do n.º 1, unidades 108 a 111; resto igual).",
+    "Alt. 1, 1.º: nova redação do n.º 13.º (epígrafe e corpo, unidades 115 a 117).",
+    "Alt. 1, 1.º: nova redação do n.º 14.º (epígrafe e corpo, unidades 119 a 121).",
+    "Alt. 1, 2.º: republica em anexo a versão consolidada; não é instrução de alteração, seguiu-se o texto do 1.º."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

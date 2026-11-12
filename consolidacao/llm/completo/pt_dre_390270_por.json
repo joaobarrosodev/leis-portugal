@@ -15,13 +15,13 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 180/70), art. 1.º: nova redação do artigo 1.º do original; aplicada.",
-    "Alterador 1, arts. 2.º e 3.º: normas próprias do DL 180/70 (não dirigidas ao original); ignoradas.",
-    "Alterador 1, art. 4.º: altera o artigo 16.º do DL 48948; ignorado.",
-    "Alterador 2 (DL 9/78), art. 1.º: nova redação do artigo 2.º; n.º 1, proémio do n.º 2 e alíneas b) e c) mantidos (...), alínea a) substituída por 'As comissões de cobrança;', n.º 3 substituído.",
-    "Alterador 3 (DL 161/88), artigo único: revoga o n.º 3 do artigo 2.º; n.º 3 passa a '(Revogado.)' (o texto dado pelo alterador 2 fica assim sem efeito)."
+    "DL 180/70 art. 1.º: nova redação do art. 1.º — aplicada",
+    "DL 180/70 arts. 2.º, 3.º (normas próprias) e 4.º (altera DL 48948) — não são alterações ao original",
+    "DL 9/78 art. 1.º: nova redação da alínea a) do n.º 2 e do n.º 3 do art. 2.º — aplicada (n.º 3 depois revogado)",
+    "DL 161/88: revoga o n.º 3 do art. 2.º — aplicado"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

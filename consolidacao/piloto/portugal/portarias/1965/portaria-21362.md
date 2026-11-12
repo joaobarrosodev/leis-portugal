@@ -55,6 +55,8 @@ a) Ovos - 2$00 por dúzia;
 
 b) Criação viva - 2$00 por quilograma;
 
+> Alterado pelo/a [Portaria n.º 327-C/76](https://diariodarepublica.pt/dr/detalhe/portaria/327-c-1976-310621), publicado em 1976-06-01.
+
 c) Criação morta - 1$00 por quilograma.
 
 § 1.º Quando o comércio grossista adquirir a criação viva e efectuar o abate, as margens máximas que poderá auferir, nos termos deste número, serão as seguintes:
@@ -73,6 +75,8 @@ c) Leporídeos prontos a cozinhar - 8$00 por quilograma.
 
 a) Ovos - 2$00 por dúzia;
 
+> Alterado pelo/a [Portaria n.º 327-C/76](https://diariodarepublica.pt/dr/detalhe/portaria/327-c-1976-310621), publicado em 1976-06-01.
+
 b) Criação viva - 3$00 por quilograma;
 
 c) Criação morta:
@@ -84,6 +88,8 @@ c) Criação morta:
 3) Leporídeos prontos a cozinhar - 3$00 por quilograma.
 
 § 1.º Enquanto o comércio retalhista adquirir a criação viva e efectuar o abate as margens máximas que poderá auferir, nos termos deste número, serão as seguintes:
+
+> Alterado pelo/a [Portaria n.º 327-C/76](https://diariodarepublica.pt/dr/detalhe/portaria/327-c-1976-310621), publicado em 1976-06-01.
 
 a) Galináceos preparados segundo o tipo tradicional - 5$00 por quilograma;
 

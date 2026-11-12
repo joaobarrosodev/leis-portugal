@@ -15,13 +15,14 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alteradores 2 (nova denominação da entidade gestora), 3 (renovação e correção da área para 2291 ha, só no preâmbulo), 4 (anexação de prédios, área total 2341 ha) e 5 (transmissão da concessão) são normas autónomas, sem alteração textual do original: não aplicados.",
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 363/2002): mudança de denominação da entidade gestora para IP Vale - Gestão Imobiliária, S. A., sem nova redação de qualquer ponto; alterador 3 (Portaria n.º 1037-F/2004): renovação da concessão por 12 anos, retificação da área para 2291 ha só no preâmbulo e nova planta (imagem), sem alteração textual; alterador 4 (Portaria n.º 585/2006): anexação de prédios (área total 2341 ha) com planta em imagem, sem alteração textual; alterador 5 (Portaria n.º 326/2007): transmissão da concessão para a IP Cinegética, sem alteração textual.",
   "instrucoes": [
-    "Alterador 1 (Portaria 593/96): nova redação dos n.os 2.º e 4.º (unidades 7 e 9).",
-    "Alterador 2 (Portaria 363/2002): mudança de denominação da entidade gestora por norma autónoma: não aplicado.",
-    "Alterador 3 (Portaria 1037-F/2004): renovação por 12 anos e área de 2291 ha, não textual: não aplicado.",
-    "Alterador 4 (Portaria 585/2006): anexação de prédios, não textual: não aplicado.",
-    "Alterador 5 (Portaria 326/2007): transmissão da concessão, não textual: não aplicado."
+    "Alterador 1: nova redação do n.º 2.º (unidade 7) - substituída",
+    "Alterador 1: nova redação do n.º 4.º (unidade 9) - substituída",
+    "Alterador 2: alteração da denominação da entidade gestora - não textual, em nao_aplicavel",
+    "Alterador 3: renovação da concessão e correção da área por lapso no preâmbulo - não textual, em nao_aplicavel",
+    "Alterador 4: anexação de prédios e nova planta - não textual, em nao_aplicavel",
+    "Alterador 5: transmissão da concessão - não textual, em nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

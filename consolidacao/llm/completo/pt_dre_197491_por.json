@@ -9,13 +9,14 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alt.1 (Lei 3-B/2010) art. 16.º: aditado artigo 8.º-A - já presente no texto atual.",
-    "Alt.2 (DL 29-A/2011) art. 84.º: nova redação do n.º 1 do artigo 8.º-A, n.º 2 '...' - aplicada.",
-    "Alt.3 (Lei 64-B/2011) art. 189.º: só menciona o original numa referência - nada a aplicar.",
-    "Alt.4 (DL 105/2013) art. 6.º, 1: revogado o n.º 2 do artigo 8.º-A - aplicado; restantes artigos alteram DL 118/83, 158/2005, 167/2005, 36/2013 - ignorados.",
-    "Alt.5 (Lei 30/2014) e Alt.6 (DL 81/2015): alteram DL 118/83, 158/2005 e 167/2005 - não são do original, ignorados."
+    "Alterador 1 (Lei 3-B/2010), art. 16.º: adita o art. 8.º-A; já está no texto atual com essa redação.",
+    "Alterador 2 (DL 29-A/2011), art. 84.º: nova redação do n.º 1 do art. 8.º-A (copiada letra a letra, incluindo '3-B/20010, de 24 de Abril'); n.º 2 mantém-se.",
+    "Alterador 3 (Lei 64-B/2011), art. 189.º: só cita o original; nenhuma instrução.",
+    "Alterador 4 (DL 105/2013), art. 6.º, n.º 1: revoga o n.º 2 do art. 8.º-A -> '2 - (Revogado.)'. Restantes artigos alteram os DL 118/83, 158/2005 e 167/2005: ignorados.",
+    "Alterador 5 (Lei 30/2014) e alterador 6 (DL 81/2015): alteram outros diplomas (DL 118/83, 158/2005, 167/2005); nada aplicado ao original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

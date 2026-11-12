@@ -390,5 +390,19 @@
     "unidade": [],
     "diploma": "pt:dre:692200:por",
     "alterador": "pt:dre:642555:por;pt:dre:276467:por;pt:dre:164210:por;pt:dre:273419:por"
+  },
+  {
+    "artigo": "CAPÍTULO II — Do Conselho de Ministros e dos Conselhos de Coordenação",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "### CAPÍTULO II — Do Conselho de Ministros e dos Conselhos de Coordenação",
+    "depois": "### CAPÍTULO II — Do Conselho de Ministros",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:692200:por",
+    "alterador": "pt:dre:642555:por;pt:dre:276467:por;pt:dre:164210:por;pt:dre:273419:por"
   }
 ]

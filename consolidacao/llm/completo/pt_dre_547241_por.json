@@ -172,7 +172,7 @@
     {
       "chave": "70.º",
       "epigrafe": "",
-      "texto": "1. É permitido caçar tordos e estorninhos desde o dia feriado de 15 de Agosto ao último domingo de Fevereiro, nas seguintes condições:\n\na) Desde o dia 15 de Agosto até ao primeiro domingo de Outubro nos locais e com os condicionamentos definidos para a caça às rolas;\n\nb) Desde o primeiro domingo de Outubro ao último de Dezembro em todos os locais onde é permitido caçar;\n\nc) A partir do último domingo de Dezembro, «à espera» e sem cão nos locais para o efeito definidos por edital.\n\nCorvos, gralhas, pegas e gaios",
+      "texto": "1. É permitido caçar tordos e estorninhos desde o dia feriado de 15 de Agosto ao último domingo de Fevereiro, nas seguintes condições:\n\na) Desde o dia 15 de Agosto até ao primeiro domingo de Outubro nos locais e com os condicionamentos definidos para a caça às rolas;\n\nb) Desde o primeiro domingo de Outubro ao último de Dezembro em todos os locais onde é permitido caçar;\n\nc) A partir do último domingo de Dezembro, «à espera» e sem cão nos locais para o efeito definidos por edital.\n\n2. A partir do último domingo de Dezembro, exclusive, a caça aos tordos e estorninhos só é permitida à espera sem cão, nos locais designados pelo Serviço de Inspecção da Caça e Pesca, mediante proposta das comissões venatórias, e tornados públicos por edital.\n\nCorvos, gralhas, pegas e gaios",
       "alterador": 7
     },
     {
@@ -207,24 +207,20 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 6 (Decreto-Lei n.º 101/77) prorroga os mandatos do art. 168.º sem lhe dar nova redação (alteração não textual), por isso o art. 168.º fica como está. O Alterador 15 (Decreto-Lei n.º 311/87) vem sem texto no pedido; nada aplicado.",
+  "titulos": [],
+  "nao_aplicavel": "Portaria 529/76, n.º 3.º: revoga 'as disposições que contrariem o disposto neste diploma' - revogação condicional, não aplicada. Portaria 451/75, n.os 2.º a 5.º, Portaria 452/75, n.os 1.º, 3.º e 4.º, e Portaria 523-A/77, n.º 1.º: regras autónomas (suspensões, credenciais, proibições) que não alteram textualmente o original. DL 101/77 (prorrogação dos mandatos do art. 168.º) e DL 42/79 (extensão do regime do art. 26.º): não são alterações textuais do original.",
   "instrucoes": [
-    "Alt. 1 (Portaria 451/75), 1.º: nova alínea a) do n.º 1 do art. 10.º (o resto com '...'); nova redação integral dos arts. 14.º, 16.º e 20.º (o 20.º fica num só parágrafo). Aplicado.",
-    "Alt. 1, 2.º a 5.º: suspensão de licenciamento, credenciais de furões, regras autónomas; não são instruções textuais dirigidas ao original.",
-    "Alt. 2: repete a Portaria 451/75 (igual ao alt. 1); o resultado não muda; a mudança fica atribuída ao alt. 1.",
-    "Alt. 3 (Portaria 452/75), 2.º: novas redações dos arts. 36.º, 62.º n.º 1, 65.º, 70.º n.º 2, 75.º e 81.º a)-c) (d) mantida). Aplicado; 36.º, 62.º, 65.º e 70.º foram depois substituídos pelos alts. 5 e 7. 1.º, 3.º e 4.º são regras autónomas.",
-    "Alt. 4 (Portaria 126/76): a parte III do art. 16.º passa a ter as alíneas a) e b). Aplicado.",
-    "Alt. 5 (Portaria 529/76), 1.º: novas redações dos arts. 17.º, 18.º, 34.º, 52.º, 58.º, 60.º, 62.º, 65.º, 66.º, 68.º, 70.º, 71.º (n.º 2 mantido), 73.º e 78.º (n.º 1 mantido). Aplicado. 2.º: aditados os arts. 18.º-A e 69.º-A. 3.º: revogação do que contrariar o diploma (condicional) e de normas das Portarias 451/75 e 452/75; não se aplica ao texto.",
-    "Alt. 6 (DL 101/77): prorroga os mandatos do art. 168.º sem nova redação; não aplicado (ver nao_aplicavel).",
-    "Alt. 7 (Portaria 523-A/77), 2.º: novas redações dos arts. 35.º, 36.º, 40.º, 41.º, 44.º, 45.º, 51.º, 54.º, 62.º, 64.º, 65.º, 66.º, 68.º, 69.º-A, 70.º e 71.º; as unidades marcadas com '...' ficam como estão. Os '...' soltos entre artigos são lidos como separadores. Por isso o art. 36.º fica só com a frase nova (sai a exceção do n.º 2) e o art. 70.º fica só com o n.º 1 e as alíneas a) a c) (sai o n.º 2, que não vem nem com '2 ...'). 1.º é regra autónoma.",
-    "Alt. 8: repete a Portaria 523-A/77 (igual ao alt. 7); o resultado não muda.",
-    "Alt. 9 (Portaria 297-A/78), 1.º: novos I) e II) a) do art. 16.º. Aplicado só aos parágrafos indicados; a frase de abertura que vem na transcrição ('as seguintes taxas') não está abrangida pela instrução, por isso mantém-se a atual. 2.º a 4.º não são textuais.",
-    "Alt. 10 (Portaria 483/78): novas redações dos arts. 35.º, 41.º n.º 1 (n.º 2 mantido), 44.º e 51.º. Aplicado; o 41.º foi depois substituído pelo alt. 14.",
-    "Alt. 11 (Portaria 686/78): nova redação do art. 56.º. Aplicado. Alt. 12 repete-a; o resultado não muda.",
-    "Alt. 13 (DL 42/79): estende o regime do art. 26.º a outros casos sem alterar o texto; nada a aplicar.",
-    "Alt. 14 (DL 222/85): nova redação dos arts. 39.º, 40.º, 41.º (substituição integral num só parágrafo) e do n.º 1 do art. 73.º, e das epígrafes de secção antes dos arts. 39.º e 40.º. Essas epígrafes estão no fim do corpo dos arts. 38.º e 39.º, por isso foram atualizadas aí ('Gamos, veados, corços e javalis'; 'Raposos, lobos e saca-rabos', copiado letra a letra).",
-    "Alt. 15 (DL 311/87): o pedido não traz nenhum texto; nada aplicado.",
-    "Mantidas as epígrafes de secção que estão no fim dos corpos substituídos (34.º 'Lebres', 64.º 'Pombos bravos', 65.º 'Galinholas', 70.º 'Corvos, gralhas, pegas e gaios', 71.º 'Processos de caça')."
+    "Alteradores 1 e 2 (a mesma Portaria 451/75), n.º 1.º: alínea a) do n.º 1 do artigo 10.º e artigos 14.º, 16.º e 20.º: aplicadas (alterador 1).",
+    "Alterador 3 (Portaria 452/75), n.º 2.º: artigos 36.º, n.º 1 do 62.º, 65.º, n.º 2 do 70.º, 75.º e alíneas a) a c) do 81.º: aplicadas; 36.º, 62.º, 65.º e 70.º voltaram a mudar depois.",
+    "Alterador 4 (Portaria 126/76): parte III do artigo 16.º: aplicada.",
+    "Alterador 5 (Portaria 529/76): artigos 17.º, 18.º, 34.º, 52.º, 58.º, 60.º, 62.º, 65.º, 66.º, 68.º, 70.º, 71.º (n.º 2 mantido), 73.º e 78.º (n.º 1 mantido) com nova redação; aditados os artigos 18.º-A e 69.º-A.",
+    "Alterador 7 (= 8, Portaria 523-A/77), n.º 2.º: artigos 35.º, 36.º, 40.º, 41.º, 44.º, 45.º, 51.º, 54.º, 62.º (n.º 1 e alínea c) do n.º 2), 64.º, 65.º, 66.º, 68.º (n.º 1), 69.º-A (n.º 1 e alínea b)), 70.º (n.º 1; o '...' a seguir mantém o n.º 2) e 71.º (n.º 1): aplicadas; os '...' entre artigos indicam artigos omitidos.",
+    "Alterador 9 (Portaria 297-A/78): parágrafos I) e II), alínea a), do artigo 16.º: aplicados (a frase inicial do artigo fica a da Portaria 451/75, por não ser objeto da instrução).",
+    "Alterador 10 (Portaria 483/78): artigos 35.º, 41.º (n.º 1), 44.º e 51.º: aplicadas.",
+    "Alterador 11 (= 12, Portaria 686/78): artigo 56.º: aplicado.",
+    "Alterador 14 (DL 222/85): artigos 39.º e 40.º e as epígrafes que os antecedem (que no texto atual estão no fim do corpo dos artigos 38.º e 39.º), artigo 41.º e n.º 1 do 73.º: aplicadas.",
+    "As epígrafes de grupo ('Lebres', 'Pombos bravos', 'Galinholas', 'Corvos, gralhas, pegas e gaios', 'Processos de caça') que no texto atual estão no fim do corpo dos artigos 34.º, 64.º, 65.º, 70.º e 71.º foram mantidas.",
+    "Alterador 15 (DL 311/87): sem artigos dirigidos ao original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

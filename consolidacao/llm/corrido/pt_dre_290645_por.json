@@ -15,12 +15,15 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 1: substituição da planta anexa (só em imagem). Alterador 2, n.º 2.º: o 6.º passa a obrigar a um só guarda florestal auxiliar, mas sem nova redação do texto (não aplicado). Alteradores 3 (suspensão) e 4 (renovação e anexação): não textuais.",
+  "nao_aplicavel": "Alterador 2, 2.º: o n.º 6.º passa a obrigar a manter um só guarda florestal auxiliar, mas sem nova redacção do texto — não aplicada. Alterador 1: substituição da planta anexa (só em imagem). Alterador 3 (suspensão) e alterador 4 (renovação e anexação) não são alterações textuais.",
   "instrucoes": [
-    "Alterador 1: nova redação do 1.º (área 2885,6030 ha), depois substituída pela do alterador 2 na unidade 6; substituição da planta não aplicada.",
-    "Alterador 2: nova redação do 1.º (unidade 6, área 1980,02 ha) e aditamento do 1.º-A depois da unidade 6; modificação do número de guardas do 6.º sem redação textual, não aplicada.",
-    "Alterador 3: suspensão do exercício da caça; não textual.",
-    "Alterador 4: renovação e anexação; não textual."
+    "Alt. 1: nova redacção do n.º 1.º (2885,6030 ha) — substituída depois pela do alt. 2 na mesma unidade 6.",
+    "Alt. 1: substituição da planta — só em imagem, não aplicada.",
+    "Alt. 2, 1.º: nova redacção do n.º 1.º — substituída a unidade 6, mantendo o número 1.º.",
+    "Alt. 2, 1.º: aditado n.º 1.º-A — inserido depois da unidade 6.",
+    "Alt. 2, 2.º: n.º 6.º passa a um guarda — sem redacção textual, em nao_aplicavel.",
+    "Alt. 3: suspensão — não textual.",
+    "Alt. 4: renovação e anexação — não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

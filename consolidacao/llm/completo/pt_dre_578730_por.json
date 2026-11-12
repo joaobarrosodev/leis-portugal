@@ -47,13 +47,14 @@
   "removidos": [
     "18.º"
   ],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alt.1: nova redação do artigo 14.º - aplicada.",
-    "Alt.2 art. 1.º: aditados 12.º-A, 15.º-A, 17.º-A e 17.º-B - aplicados.",
-    "Alt.2 art. 2.º: eliminado o artigo 18.º (removido) e nova redação do corpo do 15.º, mantendo o § único atual - aplicados.",
-    "Alt.2 arts. 3.º a 5.º: alteram a Reforma Aduaneira e suas tabelas - não são do original, ignorados.",
-    "Alt.3: nova redação do artigo 9.º - aplicada."
+    "Alterador 1 (Decreto 285/71): nova redação do art. 14.º (corpo e § único) — aplicada.",
+    "Alterador 2, art. 1.º: aditados os arts. 12.º-A, 15.º-A, 17.º-A e 17.º-B — aplicados.",
+    "Alterador 2, art. 2.º: eliminado o art. 18.º (sem renumeração) — vai em removidos; nova redação do corpo do art. 15.º, § único mantido do texto atual.",
+    "Alterador 2, arts. 3.º a 5.º: alteram a Reforma Aduaneira e as suas tabelas — outro diploma, ignorados.",
+    "Alterador 3 (Decreto do Governo 84/83): nova redação do art. 9.º (1000000$00) — aplicada; art. 2.º é entrada em vigor."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

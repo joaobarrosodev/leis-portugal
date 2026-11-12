@@ -15,14 +15,14 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 2, 2.º: o n.º 6.º passa a obrigar a manter só um guarda florestal auxiliar, mas sem nova redação do texto; não aplicado. Alterador 4: renovação da concessão e anexação de prédios (planta só em imagem), sem alteração do texto; não aplicado.",
+  "nao_aplicavel": "Alterador 1, 2 e 3: as plantas anexas substitutas só existem em imagem; alterador 2 (Portaria n.º 789/98): o n.º 2.º reduz a obrigação do n.º 6.º a um guarda florestal auxiliar sem dar nova redação ao texto; alterador 4 (Portaria n.º 1154/2005): renovação da concessão, anexação de prédios e área total de 2067 ha com planta em imagem, sem alteração textual.",
   "instrucoes": [
-    "Alterador 1: nova redação do n.º 1.º com os n.os 1 (2746,3250 ha) e 2 (área desanexada); depois substituída por inteiro pela redação do alterador 2.",
-    "Alterador 2, 1.º: nova redação do n.º 1.º (1780,60 ha), um só parágrafo; depois substituída pela do alterador 3.",
-    "Alterador 2, 1.º: aditado o n.º 1.º-A, inserido a seguir à unidade 6.",
-    "Alterador 2, 2.º: redução do número de guardas do n.º 6.º sem redação textual; não aplicado.",
-    "Alterador 3: nova redação do n.º 1.º (1778,95 ha); unidade 6 fica com esta redação, mantendo o número 1.º.",
-    "Alterador 4: renovação e anexação; não textual."
+    "Alterador 1: nova redação do n.º 1.º com n.os 1 e 2 (área 2746,3250 ha) - aplicada e depois substituída pelas redações seguintes",
+    "Alterador 2: nova redação do n.º 1.º num só parágrafo (área 1780,60 ha) - substitui todo o n.º 1.º, depois substituída pela do alterador 3",
+    "Alterador 2: aditamento do n.º 1.º-A - inserido depois da unidade 6",
+    "Alterador 2: n.º 6.º passa a obrigar a um só guarda - sem nova redação, em nao_aplicavel",
+    "Alterador 3: nova redação do n.º 1.º (área 1778,95 ha) - unidade 6 substituída, mantendo a numeração 1.º",
+    "Alterador 4: renovação e anexação - não textual, em nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

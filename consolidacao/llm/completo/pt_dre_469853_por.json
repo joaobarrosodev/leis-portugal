@@ -21,15 +21,14 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Art. 3.º do Decreto n.º 48607 (lugares aumentados e suprimidos nos quadros de pessoal) e o novo mapa II só vêm em imagem ('ver documento original'); art. 7.º substitui genericamente qualquer referência a engenheiros/arquitectos de 2.ª classe por engenheiro-adjunto/arquitecto-adjunto, alteração não textual sem alvos especificados, não aplicada aos restantes artigos (p. ex. 33.º, 39.º).",
+  "titulos": [],
+  "nao_aplicavel": "Decreto n.º 48607, art. 7.º: substituição genérica de qualquer referência a engenheiros/arquitectos de 2.ª classe por engenheiro-adjunto/arquitecto-adjunto no articulado; não é uma alteração textual localizada (exige adaptação gramatical em cada ocorrência, p. ex. 'engenheiros de 1.ª ou 2.ª classe') e não foi aplicada ao texto. Art. 3.º (lugares aumentados/suprimidos) e mapa II só em imagem.",
   "instrucoes": [
-    "Art. 1.º: nova redação do artigo 70.º — substituído o corpo inteiro pelo texto do alterador.",
-    "Art. 2.º: nova redação do artigo 72.º — substituído o corpo.",
-    "Art. 3.º: aumento/supressão de lugares nos quadros (em imagem) — não aplicado, ver nao_aplicavel.",
-    "Art. 4.º e 6.º: alteram o Decreto n.º 47499 — ignorados.",
-    "Art. 5.º: norma transitória autónoma — sem alteração ao texto.",
-    "Art. 7.º: substituição genérica de referências a engenheiros/arquitectos de 2.ª classe — não aplicada, ver nao_aplicavel.",
-    "Art. 8.º: revoga o artigo 71.º — marcado '(Revogado.)'; revogação genérica da legislação em contrário não aplicada; § 1.º do art. 33.º do Decreto n.º 47499 ignorado."
+    "Art. 1.º: nova redação do art. 70.º — aplicada",
+    "Art. 2.º: nova redação do art. 72.º — aplicada",
+    "Art. 8.º: revoga o art. 71.º — aplicado (Revogado.)",
+    "Art. 7.º: substituição genérica de referências — não aplicada (nao_aplicavel)",
+    "Arts. 3.º e 4.º/5.º/6.º: quadros em imagem e alterações a outro diploma (Decreto 47499) — ignorados"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

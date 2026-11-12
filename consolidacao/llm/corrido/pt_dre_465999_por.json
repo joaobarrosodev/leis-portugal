@@ -4,27 +4,25 @@
     {
       "de": 6,
       "ate": 6,
-      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Loures, com a área de 1948,5940 ha.",
-      "alterador": 2
+      "alterador": 2,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Loures, com a área de 1948,5940 ha."
     }
   ],
   "insercoes": [
     {
       "depois_de": 6,
-      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
-      "alterador": 2
+      "alterador": 2,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo."
     }
   ],
-  "nao_aplicavel": "Alterador 1 (suspensão da actividade cinegética por 180 dias) não é textual; alterador 2, n.º 2.º, reduz a obrigação do n.º 6.º a um guarda sem dar nova redação; alterador 3 (anexação de prédios e fiscalização por dois guardas), alteradores 4, 5, 6 e 8 (anexações e desanexações com nova área total) e alterador 7 (renovação da concessão por 12 anos e anexação) alteram áreas, prazo e plantas sem nova redação do texto do original.",
+  "nao_aplicavel": "Alterador 2 (Portaria 1147/97), n.º 2.º: reduz para um o número de guardas do n.º 6.º sem dar nova redação (alteração não textual); alterador 3 (Portaria 765/2000), n.º 2.º: fiscalização por dois guardas, sem nova redação do n.º 6.º; anexações/desanexações e áreas totais dos alteradores 3 a 8, suspensão do alterador 1 (revogada pelo alterador 2) e renovação do alterador 7 não são alterações textuais; plantas só em imagem.",
   "instrucoes": [
-    "Alterador 1: suspende a actividade cinegética por 180 dias - não textual, não aplicado.",
-    "Alterador 2, n.º 1.º: nova redação do n.º 1.º - substituída a unidade 6.",
-    "Alterador 2: adita o n.º 1.º-A - inserido a seguir à unidade 6.",
-    "Alterador 2, n.º 2.º: o n.º 6.º passa a obrigar só a um guarda, sem nova redação - não aplicado.",
-    "Alterador 3: anexa prédios (área total 2084,6140 ha) e fiscalização por dois guardas, um com transporte, sem nova redação - não aplicado.",
-    "Alteradores 4, 5 e 6: desanexação/anexação de prédios com nova área total - não aplicado.",
-    "Alterador 7: renova a concessão por 12 anos e anexa prédios (1901 ha) - não aplicado.",
-    "Alterador 8: desanexa e anexa prédios (2015 ha) - não aplicado."
+    "Alterador 1 (Portaria 982/97): suspende a atividade cinegética, sem alteração textual; foi revogada pelo alterador 2. Nada aplicado.",
+    "Alterador 2 (Portaria 1147/97), n.º 1.º: nova redação do n.º 1.º (unidade 6, substituída) e aditamento do n.º 1.º-A (inserido depois da unidade 6); n.º 2.º altera o número de guardas do n.º 6.º sem nova redação: nao_aplicavel.",
+    "Alterador 3 (Portaria 765/2000): anexação de prédios e dois guardas, sem nova redação: nao_aplicavel.",
+    "Alteradores 4, 5, 6 (Portarias 821/2002, 1253/2002, 526/2005): desanexação/anexações de prédios, sem alteração textual.",
+    "Alterador 7 (Portaria 1597/2007): renovação e anexação, sem alteração textual.",
+    "Alterador 8 (Portaria 1240/2009): desanexação e anexação, sem alteração textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

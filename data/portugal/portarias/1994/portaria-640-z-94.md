@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-11-04'
+version_history:
+  file: portaria-640-z-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-11-04'
+    amending: pt:dre:685019:por
+    amending_title: Portaria n.º 1133/97; Portaria n.º 964/99
+    changes:
+    - Altera Artigo unidades 8-8
+    - Adita Artigo depois da unidade 8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/640-z/1994/07/15/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:34:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1133/97; Portaria n.º
+    964/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-640-z-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,7 +181,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos nas freguesias de Santa Catarina e Carvalhal Benfeito, município das Caldas da Rainha, com uma área de 2996,6687 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Santa Catarina e Carvalhal Benfeito, município das Caldas da Rainha, com uma área de 1494,5671 ha.
+
+> Alterado pelo/a [Portaria n.º 964/99](https://diariodarepublica.pt/dr/detalhe/portaria/964-1999-692057), publicado em 1999-10-30.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 1133/97](https://diariodarepublica.pt/dr/detalhe/portaria/1133-1997-685019), publicado em 1997-11-07.
 
 2.º Pelo presente diploma é concessionada, até 15 de Julho de 2005, à Associação de Caçadores de Santa Catarina (registo no Instituto Florestal n.º 3.1232.92), com sede em Santa Catarina, Caldas da Rainha, a zona de caça associativa da freguesia de Santa Catarina (processo n.º 1509 do Instituto Florestal).
 

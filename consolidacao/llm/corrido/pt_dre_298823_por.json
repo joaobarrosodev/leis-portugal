@@ -15,12 +15,14 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Substituição da planta anexa (alteradores 1 e 2) só vem em imagem; Portaria n.º 505/2000 (suspensão da actividade cinegética) e Portaria n.º 714/2000 (renovação com nova área e redução a um só guarda florestal auxiliar, por excepção e sem nova redacção do n.º 6.º) não são alterações textuais.",
+  "nao_aplicavel": "Alterador 4, 2.º: a fiscalização passa a um só guarda florestal auxiliar, sem nova redacção do n.º 6.º — não aplicada. Alterador 1: substituição da planta anexa (só em imagem). Alterador 3 (suspensão, revogado pelo alterador 4) e alterador 4, 1.º (renovação) não são alterações textuais.",
   "instrucoes": [
-    "Alterador 1: nova redacção do n.º 1.º (2206 ha); substituída depois pela do alterador 2.",
-    "Alterador 2: nova redacção do n.º 1.º (2038,5660 ha) aplicada à unidade 6, mantendo a numeração 1.º; aditado o n.º 1.º-A depois da unidade 6.",
-    "Alterador 3: suspensão da actividade cinegética por 180 dias, não textual.",
-    "Alterador 4: renovação da concessão e excepção quanto à fiscalização (um só guarda), sem nova redacção; não aplicada ao texto."
+    "Alt. 1: nova redacção do n.º 1.º (2206 ha) — substituída depois pela do alt. 2 na mesma unidade 6.",
+    "Alt. 1: substituição da planta — só em imagem, não aplicada.",
+    "Alt. 2, 1.º: nova redacção do n.º 1.º — substituída a unidade 6, mantendo o número 1.º.",
+    "Alt. 2, 1.º: aditado n.º 1.º-A — inserido depois da unidade 6.",
+    "Alt. 3: suspensão — não textual.",
+    "Alt. 4: renovação e um só guarda — sem redacção textual, em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

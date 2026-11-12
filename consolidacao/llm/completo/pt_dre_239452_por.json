@@ -27,15 +27,13 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Decreto-Lei n.º 48541, art. 12.º: revoga 'a segunda parte do n.º 2 do artigo 25.º' sem dizer onde começa essa parte nem dar nova redação; cortar o texto exigiria escolher o ponto de corte (provavelmente 'e a inspecção nela compreendida estenderá a sua acção às escolas preparatórias particulares'), por isso o art. 25.º ficou como está.",
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (DL 48541), art. 12.º: revoga 'a segunda parte do n.º 2 do artigo 25.º' sem delimitar o texto revogado; o corte exato dentro do número é ambíguo, pelo que não foi aplicado ao texto.",
   "instrucoes": [
-    "DL 48541 art. 8.º n.º 1: aditados os n.os 4 e 5 ao art. 6.º; aplicado.",
-    "DL 48541 art. 8.º n.º 2: nova redação do art. 17.º; aplicado.",
-    "DL 48541 art. 8.º n.º 2: nova redação do n.º 1 do art. 19.º, n.º 2 mantido; aplicado.",
-    "DL 48541 art. 8.º n.º 2: nova redação integral do art. 27.º (n.os 1 a 6); aplicado.",
-    "DL 48541 art. 12.º: revogação da segunda parte do n.º 2 do art. 25.º; ponto de corte não definido, em nao_aplicavel.",
-    "DL 48541 arts. 1.º a 7.º, 9.º a 11.º e 13.º: normas autónomas, não alteram o texto do original.",
-    "Portaria 340/78: altera o quadro de pessoal de uma escola fixado noutra portaria; não é dirigida ao original, ignorada."
+    "Alt. 1, art. 8.º n.º 1: aditados ao art. 6.º os n.os 4 e 5.",
+    "Alt. 1, art. 8.º n.º 2: novas redações do art. 17.º, do n.º 1 do art. 19.º (n.º 2 mantido) e do art. 27.º (n.os 1 a 6).",
+    "Alt. 1, art. 12.º: revogação da segunda parte do n.º 2 do art. 25.º — em nao_aplicavel.",
+    "Restantes artigos do DL 48541 e Portaria 340/78 (alt. 2) não alteram o texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

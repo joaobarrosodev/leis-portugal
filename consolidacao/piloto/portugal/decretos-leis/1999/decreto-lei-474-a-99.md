@@ -533,7 +533,7 @@ Permanece na dependência conjunta do Ministro do Trabalho e da Solidariedade e 
 
 O Conselho Superior de Obras Públicas e Transportes mantém a competência para se pronunciar sobre os problemas técnicos e económicos dos Ministérios do Planeamento, da Educação, da Saúde e do Ambiente e do Ordenamento do Território, nos termos do disposto no [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, que os respectivos Ministros lhes submetam.
 
-### CAPÍTULO II — Do Conselho de Ministros e dos Conselhos de Coordenação
+### CAPÍTULO II — Do Conselho de Ministros
 
 ###### Artigo 32.º
 

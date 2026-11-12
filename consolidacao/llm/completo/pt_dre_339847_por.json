@@ -9,15 +9,14 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Lei 30-D/2000): altera os artigos 150.º, 238.º, 252.º-A, 257.º, 474.º, 623.º e 629.º do Código de Processo Civil na redação dada pelo artigo 1.º do original; é alteração a outro diploma (CPC), ignorada.",
-    "Alterador 2 (DL 320-B/2002): nova redação dos n.os 1 e 2 do artigo 7.º; aplicada, mas depois sobreposta pela revogação do alterador 6.",
-    "Alterador 3 (DL 32/2003): altera o Código Comercial e o anexo ao DL 269/98; nada dirigido ao original, ignorado.",
-    "Alteradores 4, 7, 8, 9 e 10: sem texto dirigido ao original; nada a aplicar.",
-    "Alterador 5 (DL 199/2003): altera o CPC (incl. 252.º-A); outro diploma, ignorado.",
-    "Alterador 6 (DL 324/2003, art. 4.º, n.º 3): revoga os n.os 1 e 2 do artigo 7.º; artigo 7.º fica com 1 - (Revogado.) e 2 - (Revogado.), restantes números inalterados.",
-    "Alteradores 11 (DL 35/2010) e 12 (Lei 60/2012): alteram o CPC; outro diploma, ignorados."
+    "Alt. 1 (Lei 30-D/2000): altera artigos do Código de Processo Civil na redação dada pelo art. 1.º do original — instrução sobre outro diploma, ignorada.",
+    "Alt. 2 (DL 320-B/2002), art. 1.º: nova redação dos n.os 1 e 2 do art. 7.º — aplicada, mas depois revogados pelo alt. 6.",
+    "Alts. 3 (DL 32/2003) e 5 (DL 199/2003): alteram o DL 269/98, o CPC, o Código Civil, o Código Comercial e o DL 38/2003 — ignorados. Alts. 4, 7, 8, 9 e 10 sem texto dirigido ao original.",
+    "Alt. 6 (DL 324/2003), art. 4.º, n.º 3: revoga os n.os 1 e 2 do art. 7.º — aplicado.",
+    "Alts. 11 (DL 35/2010) e 12 (Lei 60/2012): alteram o CPC — ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

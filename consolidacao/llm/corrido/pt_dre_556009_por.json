@@ -15,14 +15,12 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "A substituição da planta anexa (alteradores 1 e 2) só existe em imagem; não aplicada. Os alteradores 3 a 6 (suspensão da caça, renovações da concessão por seis anos, anexações de prédios e novas áreas) não contêm instruções textuais dirigidas ao original; não aplicados.",
+  "nao_aplicavel": "Substituição das plantas anexas (Portarias 979/94 e 877/97) só em imagem. Portarias 592/2002 (suspensão da caça), 906/2002 (renovação), 1215/2004 (anexação) e 1065/2008 (renovação e anexação) não alteram textualmente a portaria: são atos autónomos sobre a concessão.",
   "instrucoes": [
-    "Alterador 1: nova redacção do n.º 1.º (1868,85 ha); aplicada à unidade 6, depois substituída pela redacção do alterador 2. Substituição da planta anexa: só em imagem, não aplicada.",
-    "Alterador 2, 1.º: nova redacção do n.º 1.º (1785,1425 ha); substituída a unidade 6 mantendo o número 1.º. Aditado o n.º 1.º-A, inserido depois da unidade 6.",
-    "Alterador 3: suspende o exercício da caça até à renovação; não textual, não aplicado.",
-    "Alterador 4: renova a concessão por seis anos com área de 1555,9525 ha e revoga a Portaria n.º 592/2002 (outro diploma); não textual, não aplicado.",
-    "Alterador 5: anexa prédios (área total 1648 ha); não textual, não aplicado.",
-    "Alterador 6: renova a concessão e anexa prédios (área total 1511 ha); não textual, não aplicado."
+    "Portaria 979/94: nova redação do n.º 1.º (unidade 6) - aplicada, depois substituída pela redação da Portaria 877/97; planta substituída só em imagem",
+    "Portaria 877/97, 1.º: nova redação do n.º 1.º (unidade 6) - substituída, mantendo o número 1.º",
+    "Portaria 877/97: aditado n.º 1.º-A - inserido após a unidade 6",
+    "Portarias 592/2002, 906/2002, 1215/2004 e 1065/2008: suspensão, renovações e anexações sem alteração textual - não aplicadas"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

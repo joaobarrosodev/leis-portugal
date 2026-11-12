@@ -3,7 +3,7 @@
   "artigos": [
     {
       "chave": "18.º",
-      "epigrafe": "(Composição)",
+      "epigrafe": "Composição",
       "texto": "1 - O conselho de administração é composto por três elementos, nomeados, em comissão de serviço, por despacho do Secretário Regional da Saúde e Segurança Social, sob proposta do director regional de Saúde.\n\n2 - A presidência do conselho de administração é confiada a um médico, a quem é conferida a designação de director do centro de saúde.\n\n3 - Os restantes membros do conselho de administração são um vogal administrativo, nomeado de entre indivíduos vinculados ou não à Administração Pública, de preferência com licenciatura adequada, designadamente na área da gestão, e um vogal enfermeiro, nomeado de entre profissionais integrados na carreira de enfermagem.\n\n4 - A duração e a cessação da comissão de serviço obedecem ao disposto nos artigo 5.º e 7.º, nomeadamente no seu n.º 2, alínea a), do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.",
       "alterador": 3
     },
@@ -33,14 +33,15 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação dos n.os 1 e 4 (aditado) do art. 18.º, do n.º 2 do art. 37.º (com nova epígrafe 'Caracterização e competência') e do art. 62.º (nova epígrafe 'Remuneração dos cargos'); aplicado. No art. 18.º a epígrafe não muda de palavras e manteve-se a atual.",
-    "Alterador 1, arts. 2.º e 3.º: normas próprias, não alteram o texto do original; ignorados.",
-    "Alterador 1, art. 4.º: revoga os arts. 60.º e 67.º; ambos ficam (Revogado.).",
-    "Alterador 2, art. 1.º: nova redação do n.º 3 do art. 18.º; aplicada e depois substituída pela do alterador 3.",
-    "Alterador 3, artigo único: nova redação do n.º 3 do art. 18.º; aplicada (redação final).",
-    "Alterador 4, art. 53.º: só remete para o original; nada a aplicar."
+    "DRR 6/90/A art. 1.º: nova redação dos artigos 18.º (n.os 1 e 4), 37.º (n.º 2, epígrafe) e 62.º: aplicado.",
+    "DRR 6/90/A art. 2.º e 3.º: normas próprias, sem alteração do texto.",
+    "DRR 6/90/A art. 4.º: revogados os artigos 60.º e 67.º: aplicado.",
+    "DRR 9/97/A: nova redação do n.º 3 do artigo 18.º: substituída depois pela do DRR 8/98/A.",
+    "DRR 8/98/A: nova redação do n.º 3 do artigo 18.º: aplicado.",
+    "DLR 1/2010/A art. 53.º: só remete para o original, sem alteração."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

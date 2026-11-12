@@ -13,12 +13,12 @@
       "alterador": 3
     }
   ],
-  "nao_aplicavel": "Alterador 1 (Portaria 807-A/88) suspende a aplicação da portaria a certo pessoal, sem alterar o texto; alterador 4 (Portaria 105/2008) revoga as Portarias 807-A/88 e 201/97 (outros diplomas), sem instrução textual sobre o original, pelo que o n.º 18.º aditado pela 201/97 se mantém no texto.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alt.1: suspensão de aplicação (não textual) - não aplicada",
-    "Alt.2: aditados n.os 13.º a 17.º - inseridos depois do 12.º (unidade 22)",
-    "Alt.3: aditado n.º 18.º - inserido a seguir aos 13.º-17.º",
-    "Alt.4: revoga Portarias 807-A/88 e 201/97 - instrução dirigida a outros diplomas, ignorada"
+    "Alt. 1 (Portaria 807-A/88): suspende a aplicação a magistraturas e pessoal do Ministério da Justiça; não textual, nada feito.",
+    "Alt. 2 (Portaria 588/93): aditados os n.os 13.º a 17.º, inseridos depois da unidade 22.",
+    "Alt. 3 (Portaria 201/97): aditado o n.º 18.º, inserido a seguir ao 17.º (depois da unidade 22, após a inserção do alterador 2).",
+    "Alt. 4 (Portaria 105/2008): revoga as Portarias 807-A/88 e 201/97 (outros diplomas); ignorado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

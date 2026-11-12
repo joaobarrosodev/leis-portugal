@@ -111,8 +111,6 @@ L) Concelho de Vila Nova de Gaia:
 
 2.ª Repartição, abrangendo as freguesias de Arcozelo, Canidelo, Gulpilhares, Madalena, São Félix da Marinha, São Pedro da Afurada, Valadares e Vilar do Paraíso;
 
-> Alterado pelo/a [Portaria n.º 515/95](https://diariodarepublica.pt/dr/detalhe/portaria/515-1995-527389), publicado em 1995-05-31.
-
 3.ª Repartição, abrangendo as freguesias de Grijó, Olival, Pedroso, Perosinho, Sandim, Seixezelo, Sermonde e Serzedo;
 
 4.ª Repartição, abrangendo as freguesias de Canelas, Mafamude e Vilar de Andorinho.

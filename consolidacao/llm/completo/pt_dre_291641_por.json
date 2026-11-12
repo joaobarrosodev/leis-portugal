@@ -27,14 +27,14 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, artigo único: nova redacção dos arts. 7.º, 9.º, 23.º a 31.º e 35.º a 39.º; o texto atual destes artigos já a reflete, sem mudanças adicionais.",
-    "Alterador 2, art. 1.º: art. 29.º com novo n.º 4, novo n.º 7 e os antigos n.os 7 e 8 passam a 8 e 9; aplicado.",
-    "Alterador 2, art. 1.º: art. 30.º com novos n.os 2, 3 e 4, mantendo n.os 1 e 5; aplicado.",
-    "Alterador 2, art. 1.º: art. 37.º com novo n.º 1; aplicado.",
-    "Alterador 2, art. 2.º: aditado o art. 42.º-A; aplicado.",
-    "Alterador 3: altera os n.os 2.º e 12.º do Regulamento de Execução (RCM 33/96), não o original; ignorado."
+    "Alt. 1 (DL 162/97): nova redação dos arts. 7.º, 9.º, 23.º a 31.º e 35.º a 39.º; conferidos os artigos já alterados pelo programa, que correspondem ao alterador 1 (com o '...' a manter o texto atual); 29.º, 30.º e 37.º seguem depois para o alterador 2.",
+    "Alt. 2 (DL 221/99), art. 1.º: art. 29.º com novo n.º 4, novo n.º 7 (estruturas associativas) e antigos n.os 7 e 8 renumerados 8 e 9; art. 30.º com novos n.os 2, 3 e 4 (n.os 1 e 5 mantidos); art. 37.º com novo n.º 1 (n.º 2 mantido).",
+    "Alt. 2, art. 2.º: adita o art. 42.º-A.",
+    "Alt. 2, art. 3.º: entrada em vigor do próprio alterador; não muda o texto.",
+    "Alt. 3 (RCM 59/99): altera os n.os 2.º e 12.º do Regulamento de Execução (RCM 33/96), não o original; ignorada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

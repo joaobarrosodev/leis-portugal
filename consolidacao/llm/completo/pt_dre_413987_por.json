@@ -10,7 +10,7 @@
     {
       "chave": "10.º",
       "epigrafe": "",
-      "texto": "1. Os oficiais admitidos nos termos dos artigos 7.º e 9.º bem como os readmitidos nos termos do n.º 3 do artigo 2.º, podem requerer dispensa do serviço da Guarda Nacional Republicana ou da Guarda Fiscal nos casos seguintes:\n\na) Após terem completado cinco anos de serviço;\n\nb) Antes de terem completado o prazo referido na alínea anterior, desde que indemnizem a Fazenda Nacional de 20% dos vencimentos auferidos durante o estágio, por cada ano que lhes falte para completar aquele prazo.\n\n2. As dispensas do serviço referidas no número anterior, bem como as dos oficiais readmitidos nos termos do artigo 2.º, n.º 3, são da competência do Ministro da Administração Interna ou das Finanças, sob parecer do respectivo comandante-geral.",
+      "texto": "1. Os oficiais admitidos nos termos dos artigos 7.º e 9.º bem como os readmitidos nos termos do n.º 3 do artigo 2.º, podem requerer dispensa do serviço da Guarda Nacional Republicana ou da Guarda Fiscal nos casos seguintes:\n\na) Após terem completado cinco anos de serviço;\n\nb) Antes de terem completado o prazo referido na alínea anterior, desde que indemnizem a Fazenda Nacional de 20% dos vencimentos auferidos durante o estágio, por cada ano que lhes falte para completar aquele prazo.\n\n2. As dispensas do serviço referidas no número anterior, bem como as dos oficiais readmitidos nos termos do artigo 2.º, n.º 3, são da competência do Ministro da Administração Interna ou das Finanças, sob parecer do respectivo comandante-geral.\n\nObrigações e direitos",
       "alterador": 3
     },
     {
@@ -45,13 +45,14 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 6 (Decreto-Lei n.º 374/85): o pedido não traz nenhum texto deste diploma, pelo que não há instrução que se possa aplicar.",
+  "titulos": [],
+  "nao_aplicavel": "Alterador 6 (Decreto-Lei n.º 374/85): o pedido não traz o texto de nenhum artigo que mencione o original, pelo que não há instrução que se possa aplicar.",
   "instrucoes": [
-    "Alt. 1 (DL 696/74): nova redação da alínea c) do n.º 1 do art. 16.º; ultrapassada pela substituição integral do art. 16.º pelo alt. 5.",
-    "Alt. 2 (DL 826/76): art. 19.º mantém n.os 1 e 2 e ganha n.º 3; aplicado.",
-    "Alt. 3 (DL 829/76): art. 2.º ganha n.º 3; art. 10.º passa a n.º 1 com novo proémio (alíneas a) e b) mantidas) e ganha n.º 2; aplicados.",
-    "Alt. 4 (DL 217/78): revoga o n.º 2 do art. 32.º ('2 - (Revogado.)') e dá nova redação ao art. 34.º; aplicados.",
-    "Alt. 5 (DL 220/80): nova redação integral dos arts. 16.º e 17.º; aplicada.",
+    "Alt. 1 (DL 696/74): nova redação da alínea c) do n.º 1 do art. 16.º; aplicada mas depois absorvida pela nova redação integral do art. 16.º dada pelo alterador 5.",
+    "Alt. 2 (DL 826/76): adita n.º 3 ao art. 19.º; n.os 1 e 2 mantidos ('...').",
+    "Alt. 3 (DL 829/76): adita n.º 3 ao art. 2.º; nova redação do n.º 1 do art. 10.º (alíneas a) e b) mantidas) e aditamento do n.º 2; mantida no fim do art. 10.º a linha de divisão 'Obrigações e direitos' que vem no texto atual.",
+    "Alt. 4 (DL 217/78): revoga o n.º 2 do art. 32.º; nova redação integral do art. 34.º.",
+    "Alt. 5 (DL 220/80): nova redação integral dos arts. 16.º e 17.º.",
     "Alt. 6 (DL 374/85): sem texto no pedido; nada aplicado."
   ],
   "modelo": "claude-opus-5-5",

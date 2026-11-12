@@ -45,16 +45,15 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Portaria 1138/92 retira da lista 1 os leites dietéticos para alimentação infantil só em parte (excepto os alimentos dietéticos para lactentes destinados a prescrição em certos erros congénitos do metabolismo ou outras situações metabólicas especiais); não há nova redação do item, pelo que a unidade 42 fica como está.",
+  "nao_aplicavel": "Portaria n.º 1138/92 (alterador 6): retira da lista 1 os leites dietéticos para alimentação infantil apenas na parte em que não correspondam a alimentos dietéticos para lactentes destinados a prescrição em certos erros congénitos do metabolismo; é uma exclusão parcial sem nova redação do item, pelo que a unidade 42 não foi alterada.",
   "instrucoes": [
-    "Alt. 1, 1.º: excluídos da lista 1 as bolachas (unidade 35) e as conservas (43)",
-    "Alt. 1, 2.º: suprimida a lista 2 (unidades 44-52)",
-    "Alt. 1, 3.º: revogado o n.º 2 do 2.º, com as alíneas (9-11)",
-    "Alt. 2, 2.º: retiradas da lista 1 as massas alimentícias (36); revogação na Portaria 31-A/85 ignorada",
-    "Alt. 3, 2.º: retiradas da lista 1 as farinhas de trigo (37)",
-    "Alt. 4: repete o alt. 3 (farinhas já retiradas); nada a fazer",
-    "Alt. 5: retiradas da lista 1 as margarinas (38)",
-    "Alt. 6: retirada parcial dos leites dietéticos; não aplicada (ver nao_aplicavel)"
+    "Portaria 398/86 1.º: exclui da lista 1 as bolachas (unidade 35) e as conservas de atum e sardinha (unidade 43): eliminadas.",
+    "Portaria 398/86 2.º: suprime a lista 2 (unidades 44-52): eliminadas.",
+    "Portaria 398/86 3.º: revoga o n.º 2 do n.º 2.º (unidades 9-11): '2 - (Revogado.)'. A revogação de outras portarias não é do original.",
+    "Portaria 1203/90 2.º: retira da lista 1 as massas alimentícias em embalagens de papel (unidade 36): eliminada.",
+    "Portarias 1204/90 e 1216/90 2.º: retiram da lista 1 as farinhas de trigo para usos culinários (unidade 37): eliminada (instrução repetida pela 1216/90).",
+    "Portaria 1144/91 1.º: retira da lista 1 as margarinas (unidade 38): eliminada.",
+    "Portaria 1138/92 1.º: retirada parcial dos leites dietéticos: não aplicada (ver nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

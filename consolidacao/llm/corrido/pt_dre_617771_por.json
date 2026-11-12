@@ -15,15 +15,16 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Portaria 1127/97, n.º 2.º: o n.º 6.º passa a obrigar a manter só um guarda florestal auxiliar, mas sem nova redação textual, por isso a unidade 12 não foi mudada. Portarias n.os 980/97 e 901/2004 (suspensões), 519/2005 (renovação) e 884/2010 (anexação com planta): não alteram textualmente o original.",
+  "nao_aplicavel": "Alterador 2, n.º 2.º, modifica o n.º 6.º do original quanto ao número de guardas (passa a obrigar a manter um guarda florestal auxiliar dotado de meio de transporte) sem dar nova redação: alteração não textual, não aplicada à unidade 12. Alterador 1 (Portaria 980/97, suspensão, revogada pelo alt. 2), alterador 3 (Portaria 901/2004, suspensão), alterador 4 (Portaria 519/2005, renovação com 1198 ha, afirmando lapso na área) e alterador 5 (Portaria 884/2010, anexação, 2983 ha) não dão nova redação ao texto. A Portaria 1006/95, referida como alteradora, não consta do pedido.",
   "instrucoes": [
-    "Alterador 1 (Portaria 980/97): suspensão por 180 dias; não textual.",
-    "Alterador 2 (Portaria 1127/97), 1.º: nova redação do n.º 1.º; substituída a unidade 6.",
-    "Alterador 2 (Portaria 1127/97): aditado o n.º 1.º-A; inserido depois da unidade 6.",
-    "Alterador 2 (Portaria 1127/97), 2.º: n.º 6.º passa a exigir um guarda em vez de dois, sem nova redação; não aplicado.",
-    "Alterador 3 (Portaria 901/2004): suspensão até à renovação; não textual.",
-    "Alterador 4 (Portaria 519/2005): renovação por 11 anos; não textual.",
-    "Alterador 5 (Portaria 884/2010): anexação de 1785 ha à zona ii; não textual."
+    "Alt. 1: suspensão da actividade cinegética, não textual.",
+    "Alt. 2, 1.º: nova redação do n.º 1.º -> unidade 6 substituída.",
+    "Alt. 2, 1.º: aditado n.º 1.º-A -> inserido depois da unidade 6.",
+    "Alt. 2, 2.º: n.º 6.º passa a obrigar a um só guarda, sem nova redação -> nao_aplicavel.",
+    "Alt. 2, 3.º-4.º: revogação da Portaria 980/97 e vigência, sem texto a mudar.",
+    "Alt. 3: suspensão, não textual.",
+    "Alt. 4: renovação e área de 1198 ha, não textual.",
+    "Alt. 5: anexação de prédios, não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

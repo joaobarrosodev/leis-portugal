@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:405937:por
-    title: Decreto-Lei n.º 3/2000
-    publication_date: '2000-01-29'
   - id: pt:dre:218365:por
     title: Decreto-Lei n.º 237/2004
     publication_date: '2004-12-18'
+  - id: pt:dre:405937:por
+    title: Decreto-Lei n.º 3/2000
+    publication_date: '2000-01-29'
 ---
 
 # Decreto-Lei n.º 366/99

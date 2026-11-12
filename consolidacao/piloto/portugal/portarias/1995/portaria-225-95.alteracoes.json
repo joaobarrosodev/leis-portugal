@@ -28,25 +28,11 @@
     "alterador": "pt:dre:158268:por;pt:dre:527389:por"
   },
   {
-    "artigo": "unidades 46-47",
+    "artigo": "unidades 46-49",
     "operacao": "substituir",
     "regra": "llm",
-    "antes": "1.ª Repartição, abrangendo as freguesias de Avintes, Crestuma, Lever, Mafamude, Oliveira do Douro e Vilar de Andorinho;\n\n2.ª Repartição, abrangendo as freguesias de Arcozelo, Canelas, Gulpilhares, Madalena, São Félix da Marinha, Valadares e Vilar do Paraíso;",
-    "depois": "1.ª Repartição, abrangendo as freguesias de Avintes, Crestuma, Lever, Oliveira do Douro e Santa Marinha;\n\n2.ª Repartição, abrangendo as freguesias de Arcozelo, Canidelo, Gulpilhares, Madalena, São Félix da Marinha, São Pedro da Afurada, Valadares e Vilar do Paraíso;",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:172965:por",
-    "alterador": "pt:dre:158268:por;pt:dre:527389:por"
-  },
-  {
-    "artigo": "unidades 49-49",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "4.ª Repartição, abrangendo as freguesias de Canidelo, Santa Marinha e São Pedro da Afurada.",
-    "depois": "4.ª Repartição, abrangendo as freguesias de Canelas, Mafamude e Vilar de Andorinho.",
+    "antes": "1.ª Repartição, abrangendo as freguesias de Avintes, Crestuma, Lever, Mafamude, Oliveira do Douro e Vilar de Andorinho;\n\n2.ª Repartição, abrangendo as freguesias de Arcozelo, Canelas, Gulpilhares, Madalena, São Félix da Marinha, Valadares e Vilar do Paraíso;\n\n3.ª Repartição, abrangendo as freguesias de Grijó, Olival, Pedroso, Perosinho, Sandim, Seixezelo, Sermonde e Serzedo;\n\n4.ª Repartição, abrangendo as freguesias de Canidelo, Santa Marinha e São Pedro da Afurada.",
+    "depois": "1.ª Repartição, abrangendo as freguesias de Avintes, Crestuma, Lever, Oliveira do Douro e Santa Marinha;\n\n2.ª Repartição, abrangendo as freguesias de Arcozelo, Canidelo, Gulpilhares, Madalena, São Félix da Marinha, São Pedro da Afurada, Valadares e Vilar do Paraíso;\n\n3.ª Repartição, abrangendo as freguesias de Grijó, Olival, Pedroso, Perosinho, Sandim, Seixezelo, Sermonde e Serzedo;\n\n4.ª Repartição, abrangendo as freguesias de Canelas, Mafamude e Vilar de Andorinho.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

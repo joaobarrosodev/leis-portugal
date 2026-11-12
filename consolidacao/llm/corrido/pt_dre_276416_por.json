@@ -6,12 +6,6 @@
       "ate": 8,
       "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Santa Catarina e Carvalhal Benfeito, município das Caldas da Rainha, com uma área de 1494,5671 ha.",
       "alterador": 4
-    },
-    {
-      "de": 14,
-      "ate": 14,
-      "texto": "6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter dois guardas florestais auxiliares dotados de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
-      "alterador": 1
     }
   ],
   "insercoes": [
@@ -21,13 +15,14 @@
       "alterador": 3
     }
   ],
-  "nao_aplicavel": "Portaria 1133/97, 2.º: diz que o n.º 6.º 'passa apenas a obrigar' a um guarda florestal auxiliar, sem nova redação do texto; não aplicado (o n.º 6.º fica com a retificação de 1994). Portaria 1012/97 (suspensão da atividade cinegética, depois revogada) e Portaria 744/2005 (renovação por 12 anos) não alteram o texto; plantas só em imagem.",
+  "nao_aplicavel": "Portaria 1012/97 (suspensão da actividade cinegética por 180 dias, depois revogada pela 1133/97) e Portaria 744/2005 (renovação por 12 anos com área de 1664 ha) não alteram o texto; substituição das plantas anexas só em imagem; a Portaria 965/95, referida como alteradora, não consta do pedido.",
   "instrucoes": [
-    "Declaração de Rectificação 135/94: no n.º 6.º, 'um guarda florestal auxiliar dotado' passa a 'dois guardas florestais auxiliares dotados' (unidade 14).",
-    "Portaria 1012/97: suspende a atividade cinegética por 180 dias; não textual.",
-    "Portaria 1133/97, 1.º: nova redação do n.º 1.º (1509,6797 ha), depois reescrita pela Portaria 964/99; aditamento do n.º 1.º-A (inserção depois da 8). 2.º: redução para um guarda, não textual (ver nao_aplicavel). 3.º revoga a Portaria 1012/97, outro diploma.",
-    "Portaria 964/99: nova redação do n.º 1.º (unidade 8, 1494,5671 ha, mantido o número '1.º').",
-    "Portaria 744/2005: renovação da concessão; não textual."
+    "Declaração de Rectificação 135/94: no n.º 6.º 'um guarda florestal auxiliar dotado' passa a 'dois guardas florestais auxiliares dotados'; a Portaria 1133/97 2.º repõe a obrigação de um guarda florestal auxiliar dotado de meio de transporte, pelo que a unidade 14 fica com o texto original (sem mudança).",
+    "Portaria 1012/97: suspensão temporária, não textual.",
+    "Portaria 1133/97 1.º: nova redação do n.º 1.º (1509,6797 ha); substituída depois pela 964/99.",
+    "Portaria 1133/97 1.º: adita o n.º 1.º-A: inserido depois da unidade 8.",
+    "Portaria 964/99: nova redação do n.º 1.º (1494,5671 ha): unidade 8 com a numeração '1.º'.",
+    "Portaria 744/2005: renovação, não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

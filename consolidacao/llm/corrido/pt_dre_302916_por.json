@@ -15,13 +15,13 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Planta anexa (alterador 1) só em imagem; Portaria n.º 354/98 (anexação de prédios e fiscalização por dois guardas, sem nova redacção do n.º 6.º), suspensão (Portaria n.º 659/2001), renovações (Portarias n.os 552-D/2002 e 801/2007) e anexação (Portaria n.º 225/2009) não são alterações textuais.",
+  "nao_aplicavel": "Alterador 2: anexação de prédios e fiscalização por dois guardas (altera o 6.º sem nova redação textual); alterador 3: suspensão temporária da caça (revogada pelo alterador 4); alteradores 4, 5 e 6: renovações, anexação, novas áreas e plantas, sem alteração textual.",
   "instrucoes": [
-    "Alterador 1: nova redacção do n.º 1.º (564,0920 ha) na unidade 6, mantendo a numeração 1.º; aditado o n.º 1.º-A depois da unidade 6.",
-    "Alterador 2: anexação de prédios e dois guardas florestais auxiliares, sem nova redacção; não aplicado.",
-    "Alterador 3: suspensão do exercício da caça, não textual.",
-    "Alteradores 4 e 5: renovações da concessão, não textuais.",
-    "Alterador 6: anexação de prédios, não textual."
+    "Alterador 1, 1.º: nova redação do n.º 1.º: unidade 6 substituída",
+    "Alterador 1, 1.º: aditado n.º 1.º-A: inserido depois da unidade 6",
+    "Alterador 2: anexação e dois guardas, sem texto novo: não aplicado",
+    "Alterador 3: suspensão, não textual: não aplicado",
+    "Alteradores 4 a 6: renovações e anexação, não textuais: não aplicados"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

@@ -3,14 +3,32 @@
   "substituicoes": [
     {
       "de": 18,
+      "ate": 20,
+      "texto": "4.º Os preços de venda dos produtos avícolas e cunícolas formam-se, para o comércio grossista, e qualquer que seja o número de intervenientes, fazendo acrescer aos preços de compra na produção uma quantia até às margens máximas adiante indicadas, as quais são independentes da classificação comercial dos produtos e englobam o lucro líquido, bem como todos os encargos inerentes ao exercício da respectiva actividade:\n\na) Ovos - 2$00 por dúzia;\n\nb) Criação viva - 2$00 por quilograma;",
+      "alterador": 4
+    },
+    {
+      "de": 23,
       "ate": 24,
-      "texto": "4.º Os preços de venda dos produtos avícolas e cunícolas formam-se, para o comércio grossista, e qualquer que seja o número de intervenientes, fazendo acrescer aos preços de compra na produção uma quantia até às margens máximas adiante indicadas, as quais são independentes da classificação comercial dos produtos e englobam o lucro líquido, bem como todos os encargos inerentes ao exercício da respectiva actividade:\n\na) Ovos - 2$00 por dúzia;\n\nb) Criação viva - 2$00 por quilograma;\n\nc) Criação morta - 1$00 por quilograma.\n\n§ 1.º Quando o comércio grossista adquirir a criação viva e efectuar o abate, as margens máximas que poderá auferir, nos termos deste número, serão as seguintes:\n\na) Galináceos preparados segundo o tipo tradicional - 4$00 por quilograma;\n\nb) Galináceos prontos a cozinhar - 14$00 por quilograma;\n\nc) Leporídeos prontos a cozinhar - 8$00 por quilograma.",
+      "texto": "a) Galináceos preparados segundo o tipo tradicional - 4$00 por quilograma;\n\nb) Galináceos prontos a cozinhar - 14$00 por quilograma;\n\nc) Leporídeos prontos a cozinhar - 8$00 por quilograma.",
       "alterador": 4
     },
     {
       "de": 26,
+      "ate": 27,
+      "texto": "5.º Os preços de venda dos produtos avícolas e cunícolas formam-se para o comércio retalhista, fazendo acrescer aos preços de aquisição uma quantia até às margens máximas adiante indicadas, as quais são independentes da classificação comercial dos produtos e englobam o lucro líquido, bem como todos os encargos inerentes ao exercício da respectiva actividade:\n\na) Ovos - 2$00 por dúzia;",
+      "alterador": 4
+    },
+    {
+      "de": 31,
+      "ate": 32,
+      "texto": "2) Galináceos prontos a cozinhar - 4$00 por quilograma;\n\n3) Leporídeos prontos a cozinhar - 3$00 por quilograma.\n\n§ 1.º Enquanto o comércio retalhista adquirir a criação viva e efectuar o abate as margens máximas que poderá auferir, nos termos deste número, serão as seguintes:",
+      "alterador": 4
+    },
+    {
+      "de": 34,
       "ate": 34,
-      "texto": "5.º Os preços de venda dos produtos avícolas e cunícolas formam-se para o comércio retalhista, fazendo acrescer aos preços de aquisição uma quantia até às margens máximas adiante indicadas, as quais são independentes da classificação comercial dos produtos e englobam o lucro líquido, bem como todos os encargos inerentes ao exercício da respectiva actividade:\n\na) Ovos - 2$00 por dúzia;\n\nb) Criação viva - 3$00 por quilograma;\n\nc) Criação morta:\n\n1) Galináceos preparados segundo o tipo tradicional - 2$50 por quilograma;\n\n2) Galináceos prontos a cozinhar - 4$00 por quilograma;\n\n3) Leporídeos prontos a cozinhar - 3$00 por quilograma.\n\n§ 1.º Enquanto o comércio retalhista adquirir a criação viva e efectuar o abate as margens máximas que poderá auferir, nos termos deste número, serão as seguintes:\n\na) Galináceos preparados segundo o tipo tradicional - 5$00 por quilograma;\n\nb) Galináceos prontos a cozinhar - 13$20 por quilograma;\n\nc) Leporídeos prontos a cozinhar - 9$00 por quilograma.",
+      "texto": "b) Galináceos prontos a cozinhar - 13$20 por quilograma;\n\nc) Leporídeos prontos a cozinhar - 9$00 por quilograma.",
       "alterador": 4
     }
   ],
@@ -21,14 +39,14 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1 (Portaria n.º 820/73), n.º 2.º: eleva 'os limites mínimos e máximos das penas de multa' dos n.os 19.º e 20.º para 1000$00 e 10000$00 sem dar nova redação a esses números; alteração indireta, não textual, não aplicada ao texto das unidades 56 e 57.",
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 820/73), n.º 2.º: eleva os limites mínimos e máximos das multas dos n.os 19.º e 20.º para 1000$00 e 10000$00 sem dar nova redação a esses números; é uma alteração de valores não textual, que não se aplica ao texto.",
   "instrucoes": [
-    "Alterador 1, n.º 2.º: elevação das multas dos n.os 19.º e 20.º sem nova redação: não aplicada (ver nao_aplicavel).",
-    "Alterador 1, n.º 10.º: aditado o § 5.º ao n.º 9.º, inserido a seguir ao § 4.º (unidade 43).",
-    "Alterador 1, restantes números: dirigem-se às Portarias n.os 20921, 22307, 267/72 e 18113: ignorados.",
-    "Alteradores 2, 3, 5, 6, 7, 8, 9 e 10: regimes de preços/margens próprios e revogação de outras portarias, com a Portaria n.º 21362 a manter-se em vigor no que não contrariem: revogação condicional, não aplicada ao texto.",
-    "Alterador 4, n.º 1.º: nova redação dos n.os 4.º e 5.º; substituídas as unidades 18-24 e 26-34; os §§ 2.º ('...') ficam (unidades 25 e 35).",
-    "Alterador 11 (Despacho Normativo n.º 23/90): revoga o Despacho Normativo n.º 102/83 ao abrigo do n.º 7.º: não altera o original."
+    "Alt. 1 (Port. 820/73) n.º 2.º: eleva os limites das multas dos n.os 19.º e 20.º, sem nova redação -> não aplicado (nao_aplicavel).",
+    "Alt. 1 n.º 10.º: adita o § 5.º ao n.º 9.º -> inserção depois da unidade 43.",
+    "Alt. 1 n.os 1.º-9.º: alteram outras portarias (20921, 22307, 267/72, 18113) -> ignorados.",
+    "Alt. 2, 3, 5, 6, 7, 8, 9, 10: novos regimes de preços/margens; o original 'mantém-se em vigor em tudo o que não contrarie' (revogação condicional) -> nada aplicado.",
+    "Alt. 4 (Port. 327-C/76) n.º 1.º: nova redação dos n.os 4.º e 5.º (§ 2.º mantidos) -> substituídas as unidades 18-20, 23-24 (4.º e § 1.º) e 26-27, 31-32, 34 (5.º e § 1.º); unidades iguais ficaram.",
+    "Alt. 11 (Desp. Normativo 23/90): revoga o Despacho Normativo 102/83 ao abrigo do n.º 7.º -> nada a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

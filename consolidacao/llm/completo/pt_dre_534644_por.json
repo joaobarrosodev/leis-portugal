@@ -33,34 +33,16 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 338/2001), art. 1.º: nova redação de 2.º aa), 17.º n.º 4, 19.º b) c) d) j), 23.º n.º 5, 24.º c) iv), 27.º n.º 4, 39.º n.º 1, 44.º n.os 3 e 7, 45.º n.º 3, 47.º n.º 3, 49.º g) e l), 66.º n.º 4, 69.º n.º 8, 84.º a) e n.º 2, 93.º n.º 3, 96.º n.º 3, 97.º n.º 4, 99.º n.º 5, 100.º n.º 4, 101.º b), 113.º n.os 4 e 5, 114.º n.º 4 — já constam letra a letra no texto atual (marcados como já alterados); nada a devolver.",
-    "Alterador 1, art. 1.º: 115.º n.º 2 ('As áreas de refúgio de caça são criadas...') — aplicado, artigo devolvido.",
-    "Alterador 1, art. 1.º: 119.º (prazo do parecer do n.º 1 do 118.º passa a 10 dias) — aplicado, artigo devolvido.",
-    "Alterador 1, art. 1.º: 128.º n.º 1 hh) nova redação — aplicado; as restantes alíneas mantidas (o 'o) ...' final do alterador é a alínea oo) inalterada).",
-    "Alterador 1, art. 1.º: 155.º e) ('ou de ZCN e suas renovações, findo o qual...') — aplicado, artigo devolvido.",
-    "Alterador 1, art. 1.º: 166.º b) (ressalva dos três anos de funções semelhantes) — aplicado, artigo devolvido.",
-    "Alterador 1, art. 4.º: republicação em anexo com correcções materiais — não é instrução textual sobre artigos; ignorada.",
-    "Alterador 2 (Portaria 1378/2003) e Alterador 3 (Portaria 755/2004): suspensões de zonas de caça concretas ao abrigo do original — não alteram o texto; ignoradas.",
-    "Alterador 4 (DL 201/2005): art. 1.º altera o DL 202/2004 (outro diploma) — ignorado; art. 3.º repristina o 69.º do original na redação do DL 338/2001, que é a redação já constante do texto atual — sem mudança; arts. 161.º, 164.º, 167.º e 170.º só referem o original — ignorados.",
-    "Alterador 5 (Portaria 388/2006): altera a Portaria 831/2002 (outro diploma) — ignorado."
+    "Alterador 1 (DL 338/2001), art. 1.º: alterações aos arts. 2.º aa), 17.º n.º 4, 19.º b), c), d), j), 23.º n.º 5, 24.º n.º 2 c) iv), 27.º n.º 4, 39.º n.º 1, 44.º n.os 3 e 7, 45.º n.º 3, 47.º n.º 3, 49.º n.º 1 g) e l), 66.º n.º 4, 69.º n.º 8, 84.º n.º 1 a) e n.º 2, 93.º n.º 3, 96.º n.º 3, 97.º n.º 4, 99.º n.º 5, 100.º n.º 4, 101.º n.º 2 b), 113.º n.os 4 e 5 e 114.º n.º 4: já aplicadas corretamente pelo programa; sem mudança.",
+    "Alterador 1: art. 115.º n.º 2 ('As áreas de refúgio de caça são criadas'), art. 119.º (novo texto, prazo de 10 dias), art. 128.º n.º 1 hh), art. 155.º e) ('e suas renovações,') e art. 166.º b): aplicados.",
+    "Alterador 1, art. 4.º: republicação do diploma (o texto republicado não vem no pedido); nada a aplicar.",
+    "Alteradores 2, 3 e 5 (Portarias 1378/2003, 755/2004 e 388/2006): atos de aplicação (suspensões de zonas de caça, alteração de outra portaria); não alteram o texto do original.",
+    "Alterador 4 (DL 201/2005): art. 1.º altera o DL 202/2004 (outro diploma), incluindo os arts. 161.º, 164.º, 167.º e 170.º desse decreto-lei que apenas mencionam o original; ignorado. Art. 3.º repristina o art. 69.º do original na redação do DL 338/2001: o texto atual do art. 69.º já é essa redação; sem mudança."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "chars": 204716,
-      "artigos": 5
-    }
-  ],
   "problemas": []
 }

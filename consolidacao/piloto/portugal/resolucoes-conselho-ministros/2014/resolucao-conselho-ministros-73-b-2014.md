@@ -388,8 +388,6 @@ Notas curriculares (síntese)
 
 Programa operacional temático 'Competitividade e Internacionalização'
 
-> Alterado pelo/a [Despacho n.º 11338/2021](https://diariodarepublica.pt/dr/detalhe/despacho/11338-2021-174516729), publicado em 2021-11-18.
-
 Nota curricular de Nuno André Oliveira Mangas Pereira
 
 1 - Dados Pessoais:
@@ -450,8 +448,6 @@ Desde 2012 - professor coordenador do Instituto Politécnico de Leiria;
 
 1994-1996 - assistente na Escola Superior de Tecnologia e Gestão do Instituto Politécnico de Leiria.
 
-> Alterado pelo/a [Despacho n.º 11046/2020](https://diariodarepublica.pt/dr/detalhe/despacho/11046-2020-148113973), publicado em 2020-11-11.
-
 Nota curricular de Ana Margarida Lemos Gomes
 
 1 - Dados pessoais:
@@ -486,7 +482,7 @@ Participação no programa 'Investment Screening - A Project for Portugal', no �
 
 2014-2015: economista no Fundo Monetário Internacional.
 
-> Aditado pelo/a [Despacho n.º 11338/2021](https://diariodarepublica.pt/dr/detalhe/despacho/11338-2021-174516729), publicado em 2021-11-18.
+> Alterado pelo/a [Despacho n.º 11338/2021](https://diariodarepublica.pt/dr/detalhe/despacho/11338-2021-174516729), publicado em 2021-11-18.
 
 Programa Operacional Temático Inclusão Social e Emprego
 

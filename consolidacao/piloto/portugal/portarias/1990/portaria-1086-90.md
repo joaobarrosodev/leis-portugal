@@ -526,7 +526,7 @@ b) Das embarcações de pesca, à Direcção-Geral das Pescas (DGP), com conheci
 
 4 - Como tempo de navegação apenas é contado o que for realizado no mar e aquele que, efectuado dentro de barras, rios e rias ou portos fechados, corresponda a navegação preliminar ou complementar da navegação do mar.
 
-###### Artigo 29.º — Contagem de tirocínios
+###### Artigo 29.º — Contagem dos tirocínios
 
 1 - Os tirocínios, sem prejuízo de outros requisitos legais estabelecidos para o efeito, tem por fim permitir o ingresso em categoria superior e só são contados desde que o marítimo os realize incluído no rol de tripulação ou no rol de matrícula de uma embarcação no desempenho de funções correspondentes à categoria que possui ou a categoria superior.
 

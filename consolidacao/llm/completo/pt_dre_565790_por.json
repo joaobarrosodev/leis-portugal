@@ -69,7 +69,7 @@
     },
     {
       "chave": "29.º",
-      "epigrafe": "Contagem de tirocínios",
+      "epigrafe": "Contagem dos tirocínios",
       "texto": "1 - Os tirocínios, sem prejuízo de outros requisitos legais estabelecidos para o efeito, tem por fim permitir o ingresso em categoria superior e só são contados desde que o marítimo os realize incluído no rol de tripulação ou no rol de matrícula de uma embarcação no desempenho de funções correspondentes à categoria que possui ou a categoria superior.\n\n2 - Os tirocínios para ingresso numa dada categoria esgotam-se, em quantidade e qualidade, com o acesso a esta categoria.\n\n3 - Os tirocínios realizados por marítimos nacionais em embarcações estrangeiras são considerados como efectuados em embarcações nacionais, desde que:\n\na) O embarque tenha sido autorizado nos termos da legislação em vigor;\n\nb) O preenchimento e encaminhamento dos documentos comprovativos dos tirocínios se processe em conformidade com o disposto no presente anexo.",
       "alterador": 1
     },
@@ -237,20 +237,20 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Portaria n.º 388/98, n.º 11.º, alínea e): revoga 'as referências à alínea b) do n.º 1 do artigo 18.º' nos artigos 19.º, 20.º, 21.º e 23.º e no n.º 2 do artigo 22.º. Não traz texto novo; tirar essas referências obriga a reescrever frases ('alíneas b) e d)' nos arts. 20.º e 23.º, 'alínea b) do n.º 1 e para os de radiotelegrafistas' no art. 21.º, e o n.º 2 do art. 22.º, que trata do exame de embarcações salva-vidas sem citar a alínea). Por isso não foi aplicada: os arts. 20.º, 21.º, 22.º e 23.º ficam com essas referências tal como no texto atual. No art. 19.º, n.º 1, alínea a), a Portaria n.º 417/98 deu depois uma redação nova que volta a citar a alínea b), e essa redação foi a aplicada.",
+  "titulos": [],
+  "nao_aplicavel": "Portaria n.º 388/98, n.º 11.º, alínea e): revoga 'as referências à alínea b) do n.º 1 do artigo 18.º' nos artigos 19.º, 20.º, 21.º e 23.º e no n.º 2 do artigo 22.º, sem dar nova redação; não é alteração textual segura (o n.º 2 do artigo 22.º nem tem referência expressa), pelo que não se reescreveram essas frases. Portarias n.os 279/92 e 653/94 prorrogam/reactivam o regime transitório do artigo 52.º sem alterar o texto. Os modelos de certificados anexos às Portarias n.os 388/98 e 417/98 só existem em imagem.",
   "instrucoes": [
-    "Portaria 1052/91 n.º 1.º: altera o regulamento anexo à Portaria 251/89 (outro diploma); ignorado.",
-    "Portaria 1052/91 n.º 2.º: nova redação dos arts. 2.º, 3.º (epígrafe 'Cursos de chefia'), 29.º (epígrafe 'Contagem de tirocínios'; nova redação do intróito do n.º 3; ficam os n.os 1 e 2 e as alíneas a) e b)) e 46.º (epígrafe nova; n.º 1 novo; fica o n.º 2). Aplicado.",
-    "Portaria 1052/91 n.º 3.º: revoga o n.º 3 do art. 1.º do anexo (aplicado como '3 - (Revogado.)'); as outras revogações são de outros diplomas.",
-    "Portaria 279/92 e Portaria 653/94: prorrogam/reativam o regime transitório do art. 52.º; não alteram o texto. Nada aplicado.",
-    "Portaria 388/98 n.º 1.º: nova redação dos arts. 33.º (intróito e alínea a) do n.º 1; a quebra de linha a meio da alínea a) no alterador foi juntada com um espaço), 34.º (epígrafe, intróito, alíneas c) e d)), 37.º e 38.º (epígrafes e corpo). Aplicado.",
-    "Portaria 388/98 n.º 2.º: adita os arts. 37.º-A a 37.º-I e 38.º-A a 38.º-D. Aplicado, copiados tal como estão no alterador (com 'btido' no 38.º-C e o ponto final na epígrafe do 37.º-D).",
-    "Portaria 388/98 n.º 11.º a) a d): revoga o ponto 4) da alínea a) do n.º 1 do art. 1.º ('4) (Revogado.)'), o art. 5.º ('(Revogado.)'), a alínea b) do n.º 2 do art. 17.º (apagada, e a antiga c) passa a b)) e a alínea b) do n.º 1 do art. 18.º ('b) (Revogada.)'). Aplicado.",
-    "Portaria 388/98 n.º 11.º e): revogação das referências à alínea b) do n.º 1 do art. 18.º; não aplicada (ver nao_aplicavel).",
-    "Portaria 388/98 n.os 3.º a 10.º e 12.º: regras de exames, definições, regime transitório e entrada em vigor, sem alteração textual do anexo. O anexo de modelos só vem em imagem.",
-    "Portaria 417/98 n.º 1.º: nova redação do art. 18.º (alíneas e) a l) a seguir à d) no n.º 1), do art. 19.º (alíneas a) e d) do n.º 1), do art. 20.º (alíneas f) a h) nos n.os 1 e 2), do art. 21.º (alíneas d) a f)), do art. 22.º (alíneas f) a h) no n.º 3), do art. 23.º (alíneas f) a h) no n.º 3), do art. 33.º (alínea e) do n.º 1) e do art. 49.º (alínea a)). Aplicado. As alíneas que ficam do texto atual mantêm a pontuação que tinham (por exemplo, o ponto final da antiga última alínea).",
-    "Portaria 417/98 n.º 2.º: adita os arts. 47.º-A a 47.º-H. Aplicado. Os modelos só vêm em imagem.",
-    "DL 567/99 art. 2.º: altera o Regulamento da Náutica de Recreio (DL 329/95), que só cita a Portaria 1086/90; não é dirigido ao original. Ignorado."
+    "P. 1052/91 1.º: altera artigos do regulamento anexo à Portaria n.º 251/89 (outro diploma): ignorado.",
+    "P. 1052/91 2.º: nova redação dos artigos 2.º, 3.º (epígrafe 'Cursos de chefia'), 29.º (n.º 3) e 46.º (epígrafe e n.º 1): aplicado.",
+    "P. 1052/91 3.º: revoga o n.º 3 do artigo 1.º: aplicado (3 - (Revogado.)); as outras revogações são de outros diplomas.",
+    "P. 279/92 e P. 653/94: prorrogação/reativação do regime transitório do artigo 52.º: não textual, em nao_aplicavel.",
+    "P. 388/98 1.º: nova redação dos artigos 33.º, 34.º, 37.º e 38.º: aplicado (a alínea a) do n.º 1 do 33.º, partida em dois parágrafos no texto, foi unida).",
+    "P. 388/98 2.º: aditados os artigos 37.º-A a 37.º-I e 38.º-A a 38.º-D: aplicado.",
+    "P. 388/98 11.º a)-d): revogados o n.º 4) da alínea a) do n.º 1 do artigo 1.º, o artigo 5.º, a alínea b) do n.º 2 do artigo 17.º (a c) passa a b)) e a alínea b) do n.º 1 do artigo 18.º: aplicado.",
+    "P. 388/98 11.º e): revogação das referências à alínea b) do n.º 1 do artigo 18.º: em nao_aplicavel.",
+    "P. 417/98 1.º: nova redação parcial dos artigos 18.º (alíneas e) a l)), 19.º, 20.º, 21.º, 22.º, 23.º, 33.º (alínea e)) e 49.º (alínea a)): aplicado, mantendo o que vem em '...'.",
+    "P. 417/98 2.º: aditados os artigos 47.º-A a 47.º-H: aplicado.",
+    "DL 567/99: altera o Regulamento da Náutica de Recreio (outro diploma): ignorado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

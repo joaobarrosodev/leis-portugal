@@ -32,15 +32,15 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 2, 1.º e 2.º (cessação do mandato do BPSM e sucessão do Estado nos créditos) e alterador 4 (DL 161/89, arts. 3.º e 4.º: referências à comissão liquidatária entendidas como feitas ao administrador liquidatário; superintendência do Ministro das Finanças) não alteram o texto. As prorrogações intermédias pelas Portarias 238/83 e 869/83 não vêm no pedido; ficou o prazo final do alterador 3.",
+  "nao_aplicavel": "Portaria n.º 1075/82, n.os 1.º e 2.º (cessação do mandato do BPSM e sucessão do Estado nos créditos) são normas autónomas, sem alteração textual. Decreto-Lei n.º 161/89, arts. 3.º e 4.º (referências às comissões liquidatárias entendem-se feitas ao administrador liquidatário; superintendência do Ministro das Finanças): regra interpretativa/de competência, não alteração textual.",
   "instrucoes": [
-    "Alt. 1: nova redação da alínea a) do n.º 11.º (unidade 41), depois alterada no prazo pelo alt. 3; fica a redação do alt. 1 com a data do alt. 3.",
-    "Alt. 2, 3.º: nova redação da alínea g) do n.º 13.º (unidade 56) aplicada.",
-    "Alt. 2, 4.º: aditada a alínea h) ao n.º 13.º, depois da unidade 56.",
-    "Alt. 2, 5.º: aditado o n.º 20.º, depois do 19.º (unidade 72).",
-    "Alt. 2, 1.º e 2.º: normas próprias, não textuais; não aplicadas.",
-    "Alt. 3: prazos do n.º 6) da alínea b) do n.º 5.º (unidade 23) e da alínea a) do n.º 11.º (unidade 41) alterados para 30 de Novembro de 1984.",
-    "Alt. 4, arts. 3.º e 4.º: regra interpretativa de referências e superintendência, não textual; não aplicada."
+    "Portaria 942/82: nova redação da alínea a) do n.º 11.º (unidade 41) - aplicada, depois alterada de novo pelo alterador 3",
+    "Portaria 1075/82, 3.º: nova redação da alínea g) do n.º 13.º (unidade 56) - substituída",
+    "Portaria 1075/82, 4.º: aditada alínea h) ao n.º 13.º - inserida após a unidade 56",
+    "Portaria 1075/82, 5.º: aditado n.º 20.º - inserido após a unidade 72",
+    "Portaria 1075/82, 1.º e 2.º: normas autónomas - não aplicadas",
+    "Portaria 731/84: prazos do n.º 6 da alínea b) do n.º 5.º (unidade 23) e da alínea a) do n.º 11.º (unidade 41) alterados para 30 de Novembro de 1984 - datas substituídas no texto",
+    "Decreto-Lei 161/89, arts. 3.º e 4.º: remissão interpretativa e competência - não aplicados (nao_aplicavel)"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

@@ -9,17 +9,17 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Despacho Normativo 107/77): esclarecimento interpretativo do n.º 2 do artigo 4.º, sem alteração textual; nada aplicado.",
-    "Alterador 2 (Portaria 348/77): regulamentação ao abrigo do diploma, sem instrução de alteração; nada aplicado.",
-    "Alterador 3 (DL 531/79): nova redação do n.º 1 do artigo 4.º; substituída depois pelos alteradores 4, 6, 7 e 8 (e o DL 531/79 foi revogado pelo DL 29/80).",
-    "Alterador 4 (DL 29/80), art. 1.º: nova redação do n.º 1 do artigo 4.º (depois substituída), n.os 2 a 4 '...' (mantidos), aditados n.os 5 e 6; n.os 5 e 6 copiados deste alterador. Art. 2.º altera o DL 371/75; ignorado.",
-    "Alterador 5 (Portaria 1049/81): exclusão de bens do regime ao abrigo do n.º 6 do artigo 4.º, sem alteração textual; nada aplicado.",
-    "Alteradores 6 (DL 184/82) e 7 (DL 294/84): nova redação do n.º 1 do artigo 4.º, n.os 2 a 6 '...'; n.º 1 substituído depois pelo alterador 8. Art. 2.º de cada altera o DL 371/75; ignorado.",
-    "Alterador 8 (DL 368/86), art. 1.º: nova redação do n.º 1 do artigo 4.º, n.os 2 a 6 '...', aditados n.os 7, 8 e 9; aplicado. Texto final do artigo 4.º: n.º 1 e n.os 7-9 do alterador 8, n.os 2-4 do texto atual, n.os 5-6 do alterador 4.",
-    "Alterador 9 (DL 415-A/86): art. 8.º, n.º 3, ressalva condicional ('que não colidam'); não se aplica ao texto.",
-    "Alterador 10 (Portaria 826/2005): altera a Portaria 618-A/2005, não o original; ignorado."
+    "Alterador 1 (Despacho Normativo 107/77): interpretação do n.º 2 do art. 4.º; não altera o texto.",
+    "Alteradores 2 e 5 (Portarias 348/77 e 1049/81): atos de execução; não alteram o texto.",
+    "Alterador 3 (DL 531/79): nova redação do n.º 1 do art. 4.º; substituída depois pelos alteradores 4, 6, 7 e 8.",
+    "Alterador 4 (DL 29/80): nova redação do art. 4.º, n.º 1 e aditamento dos n.os 5 e 6 (n.os 2 a 4 mantidos); aplicado (n.os 5 e 6).",
+    "Alteradores 6 e 7 (DL 184/82 e 294/84): nova redação do n.º 1 do art. 4.º; substituída depois pelo alterador 8.",
+    "Alterador 8 (DL 368/86): nova redação do n.º 1 do art. 4.º e aditamento dos n.os 7, 8 e 9; aplicado.",
+    "Alterador 9 (DL 415-A/86): mantém em vigor o original no que não colida; sem alteração textual.",
+    "Alterador 10 (Portaria 826/2005): altera a Portaria 618-A/2005 (outro diploma); ignorado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

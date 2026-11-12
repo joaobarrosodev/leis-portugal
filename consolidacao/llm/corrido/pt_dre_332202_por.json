@@ -15,12 +15,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1 (anexação de prédios, área total 1133,4190 ha, nova planta), alterador 3 (suspensão da caça, depois revogada) e alterador 4 (renovação por 12 anos) não alteram textualmente o original: não aplicados.",
+  "nao_aplicavel": "Alterador 1: anexação de prédios e nova área com planta, sem nova redação; alterador 3: suspensão temporária (revogada pelo alterador 4); alterador 4: renovação por 12 anos, sem alteração textual (o prazo do 2.º não recebe nova redação).",
   "instrucoes": [
-    "Alterador 1 (Portaria 11/99): anexação de prédios com nova planta, sem alteração textual: não aplicado.",
-    "Alterador 2 (Portaria 864/99): onde se lê 'Sociedade Agrícola da Herdade de Alcobaça, Lda.' passa a ler-se 'Sociedade Agrícola da Fonte do Pinheiro, S. A.': trocado nas unidades 7 e 9.",
-    "Alterador 3 (Portaria 562/2002): suspensão temporária da caça, não textual: não aplicado.",
-    "Alterador 4 (Portaria 1168/2002): renovação da concessão e revogação da Portaria 562/2002, não textual: não aplicado."
+    "Alterador 1: anexação de prédios, não textual: não aplicado",
+    "Alterador 2: onde se lê «Sociedade Agrícola da Herdade de Alcobaça, Lda.» passa «Sociedade Agrícola da Fonte do Pinheiro, S. A.»: unidades 7 e 9",
+    "Alterador 3: suspensão, não textual: não aplicado",
+    "Alterador 4: renovação, não textual: não aplicado"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

@@ -1,27 +1,28 @@
 {
   "id": "pt:dre:163788:por",
-  "removidos": [],
   "artigos": [
     {
       "chave": "16.º",
       "epigrafe": "",
-      "alterador": 3,
-      "texto": "1. Às circunscrições de estradas compete, na área da sua jurisdição e dentro da orientação estabelecida superiormente, o exercício das atribuições necessárias à prossecução dos fins da Junta, designadamente:\n\na) Elaborar, em coordenação com os órgãos de planeamento regional, propostas de planeamento da rede rodoviária regional, tendo em conta o planeamento nacional;\n\nb) Coordenar e assegurar a gestão dos programas anuais de obras a cargo das direcções de estradas;\n\nc) Elaborar os projectos de construção e de grande reparação de estradas e outros estudos que lhes sejam atribuídos;\n\nd) Apoiar as direcções de estradas directamente responsáveis pela execução das obras;\n\ne) Gerir o parque regional de estradas.\n\n2. No parque regional de estradas constituir-se-á a reserva de máquinas da respectiva circunscrição e nele funcionará a oficina de mecânica que apoiará as oficinas distritais."
+      "texto": "1. Às circunscrições de estradas compete, na área da sua jurisdição e dentro da orientação estabelecida superiormente, o exercício das atribuições necessárias à prossecução dos fins da Junta, designadamente:\n\na) Elaborar, em coordenação com os órgãos de planeamento regional, propostas de planeamento da rede rodoviária regional, tendo em conta o planeamento nacional;\n\nb) Coordenar e assegurar a gestão dos programas anuais de obras a cargo das direcções de estradas;\n\nc) Elaborar os projectos de construção e de grande reparação de estradas e outros estudos que lhes sejam atribuídos;\n\nd) Apoiar as direcções de estradas directamente responsáveis pela execução das obras;\n\ne) Gerir o parque regional de estradas.\n\n2. No parque regional de estradas constituir-se-á a reserva de máquinas da respectiva circunscrição e nele funcionará a oficina de mecânica que apoiará as oficinas distritais.",
+      "alterador": 3
     },
     {
       "chave": "17.º",
       "epigrafe": "",
-      "alterador": 3,
-      "texto": "As direcções de estradas são serviços distritais das circunscrições de estradas, competindo-lhes, a nível distrital e dentro da orientação estabelecida superiormente, o exercício das atribuições necessárias à prossecução dos fins da Junta, designadamente:\n\na) Elaborar, em coordenação com a respectiva circunscrição e com as autarquias e outros órgãos locais, os programas de obras e de outros trabalhos com aquelas correlacionados;\n\nb) Elaborar projectos e outros estudos de extensão e âmbito restritos;\n\nc) Fiscalizar e administrar as obras em regime de empreitadas em curso no respectivo distrito;\n\nd) Realizar e fiscalizar as obras que lhes sejam atribuídas em regime de administração directa;\n\ne) Garantir as operações de conservação, arborização, sinalização, demarcação e polícia e elaborar o cadastro da rede de estradas distrital e seus pertences;\n\nf) Gerir os parques distritais de estradas."
+      "texto": "As direcções de estradas são serviços distritais das circunscrições de estradas, competindo-lhes, a nível distrital e dentro da orientação estabelecida superiormente, o exercício das atribuições necessárias à prossecução dos fins da Junta, designadamente:\n\na) Elaborar, em coordenação com a respectiva circunscrição e com as autarquias e outros órgãos locais, os programas de obras e de outros trabalhos com aquelas correlacionados;\n\nb) Elaborar projectos e outros estudos de extensão e âmbito restritos;\n\nc) Fiscalizar e administrar as obras em regime de empreitadas em curso no respectivo distrito;\n\nd) Realizar e fiscalizar as obras que lhes sejam atribuídas em regime de administração directa;\n\ne) Garantir as operações de conservação, arborização, sinalização, demarcação e polícia e elaborar o cadastro da rede de estradas distrital e seus pertences;\n\nf) Gerir os parques distritais de estradas.",
+      "alterador": 3
     }
   ],
-  "nao_aplicavel": "Alt. 3 (DL 771/76), art. 13.º: nova alínea i) do n.º 1, mas o texto atual do art. 13.º só tem a alínea a) (truncada, sem as alíneas b) a i) nem o n.º 2); não foi possível aplicar. Alts. 1 e 2 alteram os quadros de pessoal (mapas) que só vêm em imagem.",
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 3, art. 1.º, artigo 13.º: a nova redação mantém ('...') o corpo do n.º 1, as alíneas a) a h) e o n.º 2 e substitui a alínea i), mas o texto atual do artigo 13.º só tem o corpo do n.º 1 e a alínea a) (o resto perdeu-se em títulos de divisão), pelo que não se pode reconstruir o artigo com segurança. Alteradores 1 e 2: alteram os quadros de pessoal (mapas II e III), que só vêm em imagem. Alterador 4: transfere competências e extingue a Circunscrição de Urbanização da Madeira, sem alteração textual ao original. Alterador 5: não traz texto.",
   "instrucoes": [
-    "Alt. 1 (DL 677/73): altera o quadro do mapa II por mapa em imagem; não aplicável.",
-    "Alt. 2 (DL 458/75): altera quadros (mapas em imagem); não aplicável.",
-    "Alt. 3 (DL 771/76, art. 1.º): nova redação dos arts. 13.º (não aplicável, ver nao_aplicavel), 16.º e 17.º (aplicados).",
-    "Alt. 4 (DL 365/79): transferência de competências para a RAM; não textual.",
-    "Alt. 5 (DL 183/80): sem texto."
+    "Alterador 1 (DL 677/73), art. 1.º: altera o quadro de pessoal da DGSH (mapa II, imagem) - não aplicável.",
+    "Alterador 2 (DL 458/75), art. 1.º: altera os quadros (mapas, imagem) - não aplicável; restantes artigos são autónomos.",
+    "Alterador 3 (DL 771/76), art. 1.º: nova redação dos artigos 13.º, 16.º e 17.º - 16.º e 17.º substituídos por inteiro; 13.º não aplicável (texto atual incompleto). Arts. 2.º e 3.º autónomos.",
+    "Alterador 4 (DL 365/79): regionalização na Madeira, sem alteração textual - não aplicável.",
+    "Alterador 5 (DL 183/80): sem texto - nada a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -60,7 +60,7 @@
     "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 11.º\n\nO Instituto Politécnico de Lisboa agrupa os seguintes estabelecimentos de ensino:\n\na) Escola Superior de Educação;\n\nb) Escola Superior de Gestão e Contabilidade;\n\nc) Escola Superior de Tecnologia;\n\nd) Escola Superior de Saúde;\n\ne) Escola Superior de Jornalismo.\n\n2 - As Escolas Superiores Técnicas a que se referem as alíneas b) e c) do número anterior resultarão, respectivamente, da reconversão dos actuais Instituto Superior de Contabilidade e Administração e Instituto Superior de Engenharia, ambos de Lisboa.",
-    "depois": "###### Artigo 11.º\n\nO Instituto Politécnico de Lisboa é composto pelos seguintes estabelecimentos de ensino:\n\na) Escola Superior de Educação;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Escola Superior de Comunicação Social.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.",
+    "depois": "###### Artigo 11.º\n\nO Instituto Politécnico de Lisboa é composto pelos seguintes estabelecimentos de ensino:\n\na) Escola Superior de Educação;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Escola Superior de Comunicação Social.\n\n> Alterado pelo/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

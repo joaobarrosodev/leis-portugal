@@ -28,7 +28,7 @@ Assim, ao abrigo do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/de
 
 Manda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Social, o seguinte:
 
-1.º ...
+1.º
 
 Âmbito de aplicação
 
@@ -168,9 +168,7 @@ a) Proporcionar o ensino gratuito aos alunos referidos no n.º 1 do n.º 1.º co
 
 b) Comparticipar no custo das mensalidades relativas ao ensino dos alunos referidos no n.º 1 do n.º 1.º com idades compreendidas entre os 15 e os 18 anos;
 
-c) Comparticipar nos custos decorrentes do incremento de projectos no âmbito do referido no n.º 2 do n.º 1.º
-
-2 - A concessão do apoio financeiro referido nas alíneas a) e b) do número anterior depende de documento comprovativo da necessidade de frequência de escola particular de educação especial, emitido pelo Departamento da Educação Básica.
+c) Comparticipar nos custos decorrentes do incremento de projectos no âmbito do referido no n.º 2 do n.º 1.2 - A concessão do apoio financeiro referido nas alíneas a) e b) do número anterior depende de documento comprovativo da necessidade de frequência de escola particular de educação especial, emitido pelo Departamento da Educação Básica.
 
 3 - A concessão do apoio financeiro referido na alínea c) do n.º 1 deste número depende de documento em que se estipulem os apoios a conceder ao projecto, emitido pelo Departamento da Educação Básica.
 
@@ -228,9 +226,9 @@ a) Subsídio de alimentação - 11550$00;
 
 b) Subsídio de transporte - 7730$00.
 
-3 - Os subsídios de alimentação e de transporte só serão concedidos no caso da efectiva utilização desses serviços.
-
 > Alterado pelo/a [Portaria n.º 213/97](https://diariodarepublica.pt/dr/detalhe/portaria/213-1997-524849), publicado em 1997-03-29.
+
+3 - Os subsídios de alimentação e de transporte só serão concedidos no caso da efectiva utilização desses serviços.
 
 12.º
 
@@ -246,11 +244,11 @@ c) De 10 km a 15 km - 7838$00;
 
 d) Mais de 15 km - 9652$00.
 
+> Alterado pelo/a [Portaria n.º 213/97](https://diariodarepublica.pt/dr/detalhe/portaria/213-1997-524849), publicado em 1997-03-29.
+
 2 - Para os efeitos previstos no número anterior, considera-se zona periférica a excedente a um raio de 3 km a partir do estabelecimento de ensino.
 
 3 - Na determinação dos escalões indicados no n.º 1 deve ser apurada a contagem quilométrica pelo percurso mais curto entre o estabelecimento de ensino especial e a residência do aluno, deduzida a distância a que se refere o número anterior.
-
-> Alterado pelo/a [Portaria n.º 213/97](https://diariodarepublica.pt/dr/detalhe/portaria/213-1997-524849), publicado em 1997-03-29.
 
 13.º
 
@@ -264,7 +262,7 @@ Para efeitos de delimitação das faixas etárias referidas nos n.os 1.º e 7.º
 
 Produção de efeitos
 
-O disposto na presente portaria produz efeitos a partir de 1 de Setembro de 1996.»
+O disposto na presente portaria produz efeitos a partir de 1 de Setembro de 1996.
 
 > Alterado pelo/a [Portaria n.º 213/97](https://diariodarepublica.pt/dr/detalhe/portaria/213-1997-524849), publicado em 1997-03-29.
 

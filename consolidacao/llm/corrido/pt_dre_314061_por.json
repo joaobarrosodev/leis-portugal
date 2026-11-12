@@ -33,14 +33,14 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "As 'necessárias adaptações que resultam do avanço de quatro/seis/oito anos de tributação' (alteradores 1, 2 e 3) não são alterações textuais determinadas; não aplicadas.",
+  "nao_aplicavel": "As 'necessárias adaptações que resultam do avanço de quatro/seis/oito anos de tributação' (DL 267/71, DL 121/73 e DL 263/75) não são alterações textuais concretas: não aplicadas aos anos referidos no texto (exceto a substituição expressa de 1973 por 1975 no § único do artigo 2.º).",
   "instrucoes": [
-    "Alterador 1 a): lista da alínea c) do artigo 1.º substituída pela anexa ao DL 267/71: unidades 98-108 substituídas (título e 14 actividades).",
-    "Alterador 1 b), 2 b), 3 b): referência à verba no § 8.º do artigo 7.º substituída sucessivamente; fica a última (capítulo 9.º, artigo 94.º) na unidade 44.",
-    "Alterador 1 c), 2 c), 3 c): referência ao Decreto 47086 no § 1.º do artigo 12.º substituída pela do Decreto 47780, de 6 de Julho de 1967 (unidade 55).",
-    "Alterador 2 art. 2.º: nova redacção do § único do artigo 2.º (corpo '...' mantido); alterador 3 art. 1.º substitui nele 1973 por 1975: unidade 15.",
-    "Alterador 3 art. 2.º: nova redacção do corpo do artigo 3.º (§ único '...' mantido): unidade 17.",
-    "Adaptações genéricas pelo avanço dos anos de tributação: não textuais, em nao_aplicavel."
+    "DL 267/71 a): substitui a lista anexa (alínea c) do art. 1.º) pela anexa ao DL 267/71: unidades 98-108 substituídas pela nova lista (cabeçalho e 14 actividades); a assinatura 109 fica.",
+    "DL 267/71 b), DL 121/73 b) e DL 263/75 b): verba do § 8.º do art. 7.º passa sucessivamente a cap. 15.º art. 175.º n.º 4), cap. 14.º art. 209.º e cap. 9.º art. 94.º; aplicada a redação final (unidade 44).",
+    "DL 267/71 c), DL 121/73 c) e DL 263/75 c): no § 1.º do art. 12.º a referência ao Decreto n.º 47086, de 9 de Julho de 1966, passa à do Decreto n.º 47780, de 6 de Julho de 1967 (unidade 55, redação final).",
+    "DL 121/73 a) e DL 263/75 a): mesma lista do DL 267/71, já aplicada.",
+    "DL 121/73 art. 2.º: nova redação do § único do art. 2.º (corpo '...' fica); DL 263/75 art. 1.º substitui nele 1973 por 1975: unidade 15.",
+    "DL 263/75 art. 2.º: nova redação do corpo do art. 3.º (§ único '...' fica): unidade 17."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

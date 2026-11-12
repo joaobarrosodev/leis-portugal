@@ -1,0 +1,2225 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:165851:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-04-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "576d1a394ab8f370",
+    "e0853350e08f773e",
+    "fad815895c42f021",
+    "85bdcacd1f0cae14",
+    "7780b75bf669705c",
+    "2f046fdd09e60ec7",
+    "8987bb6bbbba508c",
+    "7992c63bb2bfa40e",
+    "d14504708a18e21a",
+    "2f90beaa4adbd090",
+    "3c63b6e1566d3154",
+    "0feaab4ce2a21f8d",
+    "c6756aa5f5deff3b",
+    "1e03de5185509cdb",
+    "8383377bbc680981",
+    "1d56db33d635691d",
+    "cf3f2e0ce880888f",
+    "c3099219c08cb770",
+    "1bbe72c60fab2bb1",
+    "24ed33e1b4b37155",
+    "a9fe5ee5f9c46c76",
+    "d728e08f306450d4",
+    "ced757d71a3bcad6",
+    "36ab8d72ce0c8c50",
+    "13671b1e15396062",
+    "7baa1660ab60651f",
+    "60c52c6be61de2f4",
+    "ac8a214785aa430e",
+    "8ba8c042ca13b66f",
+    "2744497544cc48d3",
+    "7e6e445ab1fbd6c0",
+    "836cdb8d81b1c5d5",
+    "88afa9314f969d79",
+    "18f83386fa80d767",
+    "bce4c3d0b2a040f6",
+    "7beb0fb4cebc46c1",
+    "ac8a0b2c09a3fadb",
+    "23836370ae405d04",
+    "60b364fbcb31e35c",
+    "d37061070b1fa83b",
+    "4293ee5c2be65f12",
+    "87c223e35f7b0ea9",
+    "d71829eb290ea09d",
+    "470ff8582518abc4",
+    "8d95cf1ffa30ff14",
+    "f61ecbfb3c4562f0",
+    "a9f36ed1c7d9e072",
+    "9aca10ffb4a1aa6a",
+    "deb7002ded88b790",
+    "3a769a310ebdcb65",
+    "ad731c99b4ad6e12",
+    "9e6d3408a9aa77d9",
+    "c4a32130298879db",
+    "6ce4ee225756c76e",
+    "7de6312a9caafc1f",
+    "05135ea725b882da",
+    "e2a20cde1564abb9",
+    "8561991bccb7cfc1",
+    "119a438c4d795fdc",
+    "583215980c0f4b55",
+    "3b75292e6ea500eb",
+    "738d6113ef5ab6bc",
+    "992892a5319f3ef2",
+    "809e6ff7a5c99a3f",
+    "59d2cfa5723ec8b2",
+    "1728549f24612144",
+    "470ff8582518abc4",
+    "4c6abcfabfff0fb2",
+    "94fa38ba67b503fa",
+    "2d3dc41724650ae3",
+    "f1f1c49598f38f7d",
+    "04a1419cb4fd4908",
+    "4c216c7776bd00be",
+    "b439fb85e22c303f",
+    "30560f0ad059f0de",
+    "4ef70b709bf768a9",
+    "daa9ab6310bdb843",
+    "d1c40524084e5360",
+    "005a1e21ba97e085",
+    "ef3537558394dd43",
+    "98a82f0817129093",
+    "09509b8597760247",
+    "5128aec9bf233df2",
+    "3748b2e786067ec1",
+    "9f53b6fbfe36a58d",
+    "6607d9cb8232b009",
+    "371d8d7c712cdb7d",
+    "7fe55324fc2c6ee4",
+    "c2e7f59e4a879b24",
+    "fcdfe4351d8984d1",
+    "cd2a12fbf27bf0b0",
+    "6500249bd6d43aa3",
+    "0f04c19bf987ac00",
+    "916ab0de63beaf90",
+    "3d243567aa02885a",
+    "bc8b9bd38c71ce8d",
+    "0db1e29bcd3a6495",
+    "4bdfa056c0678945",
+    "a76fc4342f9e106c",
+    "79232fc5e5dfa931",
+    "da3b51cb4b70a427",
+    "856665ba7b075e8f",
+    "08bfb1eb83dab85e",
+    "467cedf4327f1042",
+    "6a874fd174da93ce",
+    "4b5aaaf7c2a2fb63",
+    "9166ed79d6968b2f",
+    "29de2cedcbedfa70",
+    "10269b74244a8d2f",
+    "a445c841c84ef2fa",
+    "e3416126e693fc6f",
+    "9915a126c51f0cf5",
+    "13cd1e77c9934aba",
+    "ad55476debacb9bb",
+    "6a27b299f46deca8",
+    "fb4afb21195958cb",
+    "cc5f7055bd5eb55a",
+    "c88499084d3e7d4a",
+    "a20f1f19d4cbd81a",
+    "613d4e135b8e2f16",
+    "3827fbabaef5fca4"
+   ]
+  },
+  {
+   "date": "2008-01-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:514813:por",
+     "title": "Lei n.º 3/2000",
+     "published": "2000-03-20",
+     "dre_path": "/dr/detalhe/lei/3-2000-514813"
+    },
+    {
+     "id": "pt:dre:239226:por",
+     "title": "Decreto-Lei n.º 11/2002",
+     "published": "2002-01-24",
+     "dre_path": "/dr/detalhe/decreto-lei/11-2002-239226"
+    },
+    {
+     "id": "pt:dre:386626:por",
+     "title": "Lei n.º 2/2008",
+     "published": "2008-01-14",
+     "dre_path": "/dr/detalhe/lei/2-2008-386626"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 69.º",
+    "Altera Artigo 58.º",
+    "Altera Artigo 59.º",
+    "Altera Artigo 69.º",
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 40.º",
+    "Revoga Artigo 41.º",
+    "Revoga Artigo 42.º",
+    "Revoga Artigo 43.º",
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º",
+    "Revoga Artigo 47.º",
+    "Revoga Artigo 48.º",
+    "Revoga Artigo 49.º",
+    "Revoga Artigo 50.º",
+    "Revoga Artigo 51.º",
+    "Revoga Artigo 52.º",
+    "Revoga Artigo 53.º",
+    "Revoga Artigo 54.º",
+    "Revoga Artigo 55.º",
+    "Revoga Artigo 56.º",
+    "Revoga Artigo 57.º",
+    "Revoga Artigo 58.º",
+    "Revoga Artigo 59.º",
+    "Revoga Artigo 60.º",
+    "Revoga Artigo 61.º",
+    "Revoga Artigo 62.º",
+    "Revoga Artigo 63.º",
+    "Revoga Artigo 64.º",
+    "Revoga Artigo 65.º",
+    "Revoga Artigo 66.º",
+    "Revoga Artigo 67.º",
+    "Revoga Artigo 68.º",
+    "Revoga Artigo 69.º",
+    "Revoga Artigo 70.º",
+    "Revoga Artigo 71.º",
+    "Revoga Artigo 72.º",
+    "Revoga Artigo 73.º",
+    "Revoga Artigo 74.º",
+    "Revoga Artigo 75.º",
+    "Revoga Artigo 76.º",
+    "Revoga Artigo 77.º",
+    "Revoga Artigo 78.º",
+    "Revoga Artigo 79.º",
+    "Revoga Artigo 80.º",
+    "Revoga Artigo 81.º",
+    "Revoga Artigo 82.º",
+    "Revoga Artigo 83.º",
+    "Revoga Artigo 84.º",
+    "Revoga Artigo 85.º",
+    "Revoga Artigo 86.º",
+    "Revoga Artigo 87.º",
+    "Revoga Artigo 88.º",
+    "Revoga Artigo 89.º",
+    "Revoga Artigo 90.º",
+    "Revoga Artigo 91.º",
+    "Revoga Artigo 92.º",
+    "Revoga Artigo 93.º",
+    "Revoga Artigo 94.º",
+    "Revoga Artigo 95.º",
+    "Revoga Artigo 96.º",
+    "Revoga Artigo 97.º",
+    "Revoga Artigo 98.º"
+   ],
+   "fragments": [
+    "576d1a394ab8f370",
+    "e0853350e08f773e",
+    "60c3621d86f12c3a",
+    "806a81d680d1619c",
+    "a399880447f349d2",
+    "9ff6ded8f213ac9b",
+    "8987bb6bbbba508c",
+    "7992c63bb2bfa40e",
+    "d14504708a18e21a",
+    "92e3925fc98b3fe1",
+    "8b651102b0763814",
+    "ced89a6c47aaa2fc",
+    "0c49a64526b6028b",
+    "1a591a3a21f4a5a1",
+    "6f913d3857bd401e",
+    "45671fc5c9bd15cf",
+    "b6ebe3592d948b67",
+    "6c37f45f348b34bf",
+    "18c6822e92e39ee0",
+    "cafd1daa5ee18a29",
+    "51f1c089bdc660fd",
+    "949603de21459b41",
+    "ced757d71a3bcad6",
+    "36ab8d72ce0c8c50",
+    "13671b1e15396062",
+    "7baa1660ab60651f",
+    "60c52c6be61de2f4",
+    "ac8a214785aa430e",
+    "8ba8c042ca13b66f",
+    "2744497544cc48d3",
+    "7e6e445ab1fbd6c0",
+    "836cdb8d81b1c5d5",
+    "a59226085bc282e0",
+    "18f83386fa80d767",
+    "bce4c3d0b2a040f6",
+    "c95d9c675986ffed",
+    "ac8a0b2c09a3fadb",
+    "23836370ae405d04",
+    "2a9076ca655ea63d",
+    "ae33a8f2743d5100",
+    "a530b1f55a3430fe",
+    "87c223e35f7b0ea9",
+    "d71829eb290ea09d",
+    "470ff8582518abc4",
+    "62104555a563f97b",
+    "8dbf49dc7e297ab8",
+    "f0b9ed85090b907a",
+    "0876f750f8ab5e61",
+    "deb7002ded88b790",
+    "68504413e483e053",
+    "93af58e71cb4d074",
+    "1a62a4fb6d1e83b0",
+    "e0c8bcd46d3448ee",
+    "2ea3d865dc36dbf3",
+    "7de6312a9caafc1f",
+    "58354e306709ad9b",
+    "4aadbc767b47a73e",
+    "7e3e77e1fc81ce3e",
+    "754a196eba54c307",
+    "5dff222204a56243",
+    "8bb7643c00e53ebe",
+    "86f7b6449167303e",
+    "cd52ae67a3ac83f1",
+    "30652e34d92d0062",
+    "143b682a0aaa3e6f",
+    "1728549f24612144",
+    "470ff8582518abc4",
+    "7b67fab6d7dbca54",
+    "ef6535abb96da632",
+    "5d3654eda9d3a1a7",
+    "c3ee4fe44eff4d08",
+    "04a1419cb4fd4908",
+    "13c81a95298bc7db",
+    "6aec84e3258bdd57",
+    "ef78b678c210c0e3",
+    "0384e5a850b336c3",
+    "af8959839e2a74fa",
+    "514d4aa07a2dc78c",
+    "1a4b99108d2a095e",
+    "a650fb1346057f83",
+    "f81420ea5f7c37d4",
+    "28ae7e3cbda74ca3",
+    "95355bf4d3fef9f6",
+    "58839dc6882c526e",
+    "9f53b6fbfe36a58d",
+    "a559b6cf5ed110dd",
+    "4d5d3d1ef1de910f",
+    "72c4c90c92648a5f",
+    "9f10be31a04fb23e",
+    "284932cdbf0f9ccd",
+    "f697f0f3ad7ec969",
+    "6500249bd6d43aa3",
+    "2f470f205131af28",
+    "27992573afa389a4",
+    "3d243567aa02885a",
+    "2eddc90ec9f1e64e",
+    "d9a90259693fc5a5",
+    "f205a2e8e31a5792",
+    "7b24a2980405eb22",
+    "79232fc5e5dfa931",
+    "005531ffb1581ac1",
+    "7adc3eefd686d717",
+    "bbd037aa20fae8fc",
+    "ac24defbe646c181",
+    "f88f12913da4ec2c",
+    "4b5aaaf7c2a2fb63",
+    "90d6262c07f90fbd",
+    "657af98221e6cd34",
+    "5c9a464db4d45b9a",
+    "b64c2bf510b0b138",
+    "a4f926396aa7ba1a",
+    "9915a126c51f0cf5",
+    "f5ce1efc32b66904",
+    "261c76fab8c3780c",
+    "932e0c3a9d44c521",
+    "844adba12f499b76",
+    "09c8b48fca0863e4",
+    "1d2431b4927f2f41",
+    "5bb2c1cd28369a51",
+    "118d3b83bca99477",
+    "47047ddaaecd80bc"
+   ]
+  }
+ ],
+ "fragments": {
+  "576d1a394ab8f370": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Abril\n\nLei que regula a estrutura e funcionamento do Centro de Estudos Judiciários\n\nA Assembleia da República decreta, nos termos dos artigos 161.º, alínea c), e 166.º, n.º 3, e do artigo 112.º, n.º 5, da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "e0853350e08f773e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO I — Natureza, atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Natureza, atribuições e competências"
+  },
+  "fad815895c42f021": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Centro de Estudos Judiciários (CEJ) é um estabelecimento dotado de personalidade jurídica e de autonomia administrativa e financeira, sob tutela do Ministro da Justiça.\n\n2 - O CEJ tem sede em Lisboa."
+  },
+  "85bdcacd1f0cae14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições do CEJ:\n\na) A formação profissional de magistrados;\n\nb) A formação de assessores dos tribunais;\n\nc) O apoio a acções de formação jurídica e judiciária de advogados, solicitadores e agentes de outros sectores profissionais;\n\nd) O desenvolvimento de actividades de estudo e de investigação jurídica e judiciária."
+  },
+  "7780b75bf669705c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Magistrados de países estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Magistrados de países estrangeiros\n\n1 - Ao CEJ pode ainda ser atribuída a formação profissional de magistrados e candidatos à magistratura de países estrangeiros, designadamente de expressão oficial portuguesa.\n\n2 - As modalidades de ingresso e frequência relativas aos magistrados e candidatos à magistratura de países estrangeiros serão definidas nos acordos de cooperação técnica em matéria judiciária celebrados com os respectivos países."
+  },
+  "2f046fdd09e60ec7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime financeiro\n\n1 - Constituem receitas do CEJ:\n\na) As dotações que lhe forem consignadas no Orçamento do Estado;\n\nb) As dotações que lhe forem consignadas pelo Gabinete de Gestão Financeira do Ministério da Justiça;\n\nc) Os valores e rendimentos que constituem o seu património ou que neste venham a ingressar;\n\nd) O produto da venda de publicações ou da prestação de serviços;\n\ne) As doações, heranças ou legados feitos a seu favor;\n\nf) Quaisquer outros recursos que lhe sejam atribuídos.\n\n2 - Constituem despesas do CEJ:\n\na) As remunerações e bolsas de estudo devidas a directores, docentes, formadores, especialistas, pessoal de secretaria e auditores de justiça;\n\nb) Os encargos com deslocações e ajudas de custo a suportar no âmbito das actividades de formação;\n\nc) Os demais encargos de funcionamento."
+  },
+  "8987bb6bbbba508c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO II — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Organização"
+  },
+  "7992c63bb2bfa40e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Órgãos e serviços"
+  },
+  "d14504708a18e21a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Órgãos"
+  },
+  "2f90beaa4adbd090": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos\n\nSão órgãos do CEJ:\n\na) O director;\n\nb) O conselho de gestão;\n\nc) O conselho pedagógico;\n\nd) O conselho de disciplina;\n\ne) O conselho administrativo."
+  },
+  "3c63b6e1566d3154": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Director\n\n1 - O director do CEJ é nomeado por despacho conjunto do Primeiro-Ministro e do Ministro da Justiça de entre magistrados, professores universitários ou advogados, ouvido o conselho de gestão.\n\n2 - A nomeação faz-se em comissão de serviço, por períodos renováveis de três anos.\n\n3 - A comissão de serviço do director não determina abertura de vaga no lugar de origem ou naquele para que, entretanto, tenha sido nomeado, ainda que aquele lugar ou esta nomeação integrem comissão de serviço.\n\n4 - Para efeitos remuneratórios, o cargo de director do CEJ é equiparado ao de juiz do Supremo Tribunal de Justiça."
+  },
+  "0feaab4ce2a21f8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência\n\nCompete ao director:\n\na) Representar o CEJ perante entidades públicas e privadas;\n\nb) Elaborar o regulamento interno e o plano anual de actividades;\n\nc) Cumprir e fazer cumprir as disposições legais e regulamentares relativas à organização e ao funcionamento do CEJ e as deliberações tom das pelos respectivos órgãos;\n\nd) Dirigir, coordenar e fiscalizar as actividades formativas;\n\ne) Autorizar a realização das despesas aprovadas;\n\nf) Elaborar e submeter à apreciação do Ministro da Justiça o relatório anual de actividades;\n\ng) Exercer as funções que lhe sejam conferidas por lei ou pelo regulamento interno e as que, devendo ser prosseguidas pelo CEJ, não pertençam a outros órgãos."
+  },
+  "c6756aa5f5deff3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Directores-adjuntos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Directores-adjuntos\n\n1 - No exercício das suas funções, o director é assistido por quatro directores-adjuntos, que especialmente o coadjuvam:\n\na) Um director-adjunto na fase teórico-prática a decorrer no CEJ e na formação permanente;\n\nb) Dois directores-adjuntos na fase teórico-prática a decorrer nos tribunais, na fase de estágio e na formação complementar;\n\nc) Um director-adjunto na área de estudos e investigação.\n\n2 - O director é substituído pelo director-adjunto referido na alínea a) do número anterior e, na falta deste, pelo director-adjunto referido na alínea b) do mesmo número com maior antiguidade no cargo.\n\n3 - Sem prejuízo do que se preceitua no número seguinte, os directores-adjuntos são nomeados pelo Ministro da Justiça, ouvido o conselho de gestão, de entre magistrados, docentes universitários, advogados ou licenciados de reconhecido mérito e exercem funções nos termos do n.º 2 do artigo 6.º, aplicando-se-lhes o disposto no n.º 3 do mesmo artigo.\n\n4 - A nomeação dos directores-adjuntos a que se refere a alínea b) do n.º 1 recai em magistrados judiciais e do Ministério Público, um de cada magistratura.\n\n5 - Para efeitos remuneratórios, o cargo de director-adjunto é equiparado ao de juiz de Relação, excepto se for provido por magistrado, caso em que este pode optar pela remuneração relativa ao lugar de origem."
+  },
+  "1e03de5185509cdb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Conselho de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conselho de gestão\n\n1 - Constituem o conselho de gestão:\n\na) O presidente do Supremo Tribunal de Justiça, que preside;\n\nb) O Procurador-Geral da República;\n\nc) O bastonário da Ordem dos Advogados;\n\nd) O director do CEJ;\n\ne) Duas personalidades de reconhecido mérito, designadas pela Assembleia da República;\n\nf) Dois professores das Faculdades de Direito, designados por despacho conjunto dos Ministros da Justiça e da Educação;\n\ng) Um magistrado designado pelo Conselho Superior da Magistratura;\n\nh) Um magistrado designado pelo Conselho Superior do Ministério Público;\n\ni) Dois auditores de justiça, eleitos pelos seus pares.\n\n2 - Quando deva funcionar fora das épocas de frequência, o conselho de gestão é constituído pelos membros referidos nas alíneas a) a h) do número anterior.\n\n3 - O presidente do conselho de gestão é sucessivamente substituído pelas personalidades referidas nas alíneas b) a d) do n.º 1."
+  },
+  "8383377bbc680981": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competência e funcionamento do conselho de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência e funcionamento do conselho de gestão\n\n1 - Compete ao conselho de gestão:\n\na) Aprovar o plano anual de actividades e apreciar o relatório de execução;\n\nb) Aprovar o projecto de orçamento e os balancetes de execução orçamental;\n\nc) Aprovar o regulamento interno;\n\nd) Pronunciar-se sobre a nomeação e a renovação das comissões de serviço do director e dos directores-adjuntos;\n\ne) Deliberar sobre quaisquer questões relativas à organização ou ao funcionamento do CEJ que não sejam da competência de outros órgãos ou lhe sejam submetidas pelo Ministro da Justiça ou pelo director.\n\n2 - O conselho reúne, ordinariamente, três vezes por ano e, extraordinariamente, sempre que convocado pelo presidente, por iniciativa própria ou a solicitação do Ministro da Justiça ou do director."
+  },
+  "1d56db33d635691d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Conselho pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conselho pedagógico\n\n1 - Constituem o conselho pedagógico:\n\na) O director do CEJ, que preside;\n\nb) Os directores-adjuntos;\n\nc) Um magistrado designado pelo Conselho Superior da Magistratura;\n\nd) Um magistrado designado pelo Conselho Superior do Ministério Público;\n\ne) Um advogado designado pela Ordem dos Advogados;\n\nf) Duas personalidades designadas pelo conselho de gestão;\n\ng) Uma personalidade designada pelo Ministro da Justiça.\n\n2 - O conselho pedagógico pode ouvir, sempre que o considere conveniente, directores das delegações, docentes e formadores.\n\n3 - O conselho pedagógico reúne quando convocado pelo seu presidente."
+  },
+  "cf3f2e0ce880888f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competência do conselho pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência do conselho pedagógico\n\nCompete ao conselho pedagógico:\n\na) Emitir parecer sobre questões respeitantes ao regime de formação;\n\nb) Pronunciar-se sobre a nomeação de docentes e a renovação das respectivas comissões de serviço;\n\nc) Apreciar a adequação e o aproveitamento dos auditores de justiça e dos candidatos a assessores e proceder à sua graduação final."
+  },
+  "c3099219c08cb770": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Conselho de disciplina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conselho de disciplina\n\n1 - Constituem o conselho de disciplina:\n\na) O director do CEJ, que preside;\n\nb) Os directores-adjuntos;\n\nc) Um magistrado designado pelo Conselho Superior da Magistratura;\n\nd) Um magistrado designado pelo Conselho Superior do Ministério Público;\n\ne) Duas personalidades designadas pelo conselho de gestão;\n\nf) Dois auditores de justiça, eleitos pelos seus pares.\n\n2 - Quando deva funcionar fora das épocas de frequência, o conselho de disciplina é constituído pelos membros referidos nas alíneas a) a e) do número anterior.\n\n3 - O conselho de disciplina reúne quando convocado pelo seu presidente."
+  },
+  "1bbe72c60fab2bb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competência do conselho de disciplina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência do conselho de disciplina\n\nCompete ao conselho de disciplina exercer as funções de natureza disciplinar previstas nos artigos 85.º a 88.º"
+  },
+  "24ed33e1b4b37155": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conselho administrativo\n\n1 - Constituem o conselho administrativo:\n\na) O director do CEJ, que preside;\n\nb) O secretário;\n\nc) O chefe da secção de administração financeira.\n\n2 - O conselho administrativo reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocado pelo seu presidente."
+  },
+  "a9fe5ee5f9c46c76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Competência do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competência do conselho administrativo\n\nCompete ao conselho administrativo:\n\na) Elaborar o orçamento;\n\nb) Organizar a contabilidade e fiscalizar a sua escrituração;\n\nc) Apresentar a conta de gerência."
+  },
+  "d728e08f306450d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Deliberações\n\n1 - Para a validade das deliberações exige-se a presença de, pelo menos, seis membros nos casos do conselho de gestão, do conselho pedagógico e do conselho de disciplina e dois membros no caso do conselho administrativo.\n\n2 - As deliberações dos órgãos referidos no número anterior são tomadas por maioria, cabendo ao presidente voto de qualidade."
+  },
+  "ced757d71a3bcad6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Serviços"
+  },
+  "36ab8d72ce0c8c50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Serviços\n\n1 - São serviços centrais do CEJ:\n\na) O gabinete de estudos jurídico-sociais;\n\nb) O departamento de planeamento, organização e informática;\n\nc) A biblioteca;\n\nd) O museu judiciário;\n\ne) A secretaria.\n\n2 - São serviços periféricos do CEJ as delegações."
+  },
+  "13671b1e15396062": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Gabinete de estudos jurídico-sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Gabinete de estudos jurídico-sociais\n\n1 - O gabinete de estudos jurídico-sociais é dirigido pelo director-adjunto para a área de estudos e investigação.\n\n2 - Ao gabinete compete, designadamente:\n\na) Preparar o respectivo plano anual de actividades;\n\nb) Prestar apoio científico e técnico às acções formativas do CEJ, pelo desenvolvimento de áreas de investigação científica de suporte às matérias curriculares;\n\nc) Efectuar ou participar em estudos sobre a realidade sócio-jurídica em que se inscreve a administração da justiça;\n\nd) Promover a realização de seminários, colóquios, conferências e cursos relativos às matérias referidas nas alíneas b) e c);\n\ne) Assegurar a publicação, difusão e comercialização de estudos efectuados pelo CEJ;\n\nf) Proceder, em articulação com a biblioteca, à instalação e organização de bancos de dados e equipamentos de acesso a redes electrónicas para apoio documental à actividade do CEJ."
+  },
+  "7baa1660ab60651f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Departamento de planeamento, organização e informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Departamento de planeamento, organização e informática\n\n1 - O departamento de planeamento, organização e informática é dirigido por um director-adjunto, designado pelo director.\n\n2 - Ao departamento de planeamento, organização e informática compete, designadamente:\n\na) Proceder a estudos com vista ao aperfeiçoamento dos serviços, elaborar projectos e acompanhar a sua execução;\n\nb) Realizar estudos de racionalização e de suporte da informação;\n\nc) Analisar as necessidades de equipamento e material, suas características e adequação;\n\nd) Desenvolver, coordenar e controlar, no âmbito das atribuições do CEJ, o planeamento da actividade informática e estudar e executar as acções necessárias ao tratamento da informação;\n\ne) Executar a análise e programação das aplicações desenvolvidas no âmbito das atribuições do CEJ;\n\nf) Apoiar tecnicamente a elaboração de cadernos de encargos, a selecção, aquisição, contratação e instalação de equipamento de informática ou de suportes lógicos;\n\ng) Dar execução às acções de formação dos auditores na área das tecnologias de informação e comunicação, processamento de texto e bases de dados.\n\n3 - O departamento de planeamento, organização e informática funciona em articulação com os serviços do Ministério da Justiça responsáveis pelas áreas do planeamento, da organização e da informática."
+  },
+  "60c52c6be61de2f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Biblioteca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Biblioteca\n\n1 - A biblioteca é dirigida por um director-adjunto, designado pelo director.\n\n2 - À biblioteca compete, designadamente:\n\na) Prestar apoio documental, técnico e de informação teórica e científica aos auditores de justiça, aos candidatos a assessores e ainda aos magistrados, advogados, solicitadores e assessores que o solicitem;\n\nb) Propor a aquisição e proceder ao tratamento de livros, revistas e outra documentação, designadamente em formato digital, necessária à prestação dos serviços a que se refere a alínea anterior, bem como disponibilizar o acesso à Internet e a outras redes electrónicas relevantes para as finalidades do CEJ;\n\nc) Proceder à conservação, catalogação, exploração e difusão do fundo documental do CEJ e de publicações por este produzidas;\n\nd) Promover a realização de sessões públicas sobre o livro jurídico, bem como sobre as demais formas de edição jurídica típicas das sociedades de informação."
+  },
+  "ac8a214785aa430e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Museu judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Museu judiciário\n\n1 - O museu judiciário é dirigido pelo director-adjunto a que se refere o n.º 1 do artigo 19.º\n\n2 - Ao museu judiciário compete:\n\na) A recolha, catalogação, guarda e exposição pública dos objectos de interesse didáctico, cultural e histórico ilustrativos da vida dos tribunais e ligados à administração da justiça;\n\nb) A elaboração de estudos sobre temas do património histórico e cultural dos tribunais.\n\n3 - O museu judiciário funciona em articulação com o Instituto Português de Museus."
+  },
+  "8ba8c042ca13b66f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Secretaria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Secretaria\n\n1 - À secretaria, chefiada por um secretário, compete assegurar o apoio técnico-administrativo do CEJ.\n\n2 - A secretaria compreende:\n\na) A secção pedagógica, de estudos e de estágios;\n\nb) A secção de administração de pessoal, expediente e arquivo;\n\nc) A secção de administração financeira.\n\n3 - À secção pedagógica, de estudos e de estágios compete, designadamente:\n\na) Organizar e executar o serviço das direcções das fases teórico-prática, de estágios, de formação permanente e da área de estudos e investigação;\n\nb) Manter actualizado o registo biográfico dos auditores de justiça, dos magistrados em regime de estágio e dos candidatos a assessores;\n\nc) Manter actualizado o registo de intervenções de formadores e de conferencistas;\n\nd) Prestar apoio ao director na área da formação geral;\n\ne) Assegurar a execução dos planos de formação permanente;\n\nf) Assegurar o serviço de reprografia.\n\n4 - À secção de administração de pessoal, expediente e arquivo compete, designadamente:\n\na) Organizar e manter actualizado o registo biográfico de directores, formadores e funcionários;\n\nb) Assegurar a recepção, registo, classificação, distribuição e expedição de correspondência, expediente e mais documentação;\n\nc) Proceder ao arquivo de todos os processos e mais documentação;\n\nd) Executar as demais funções que lhe forem cometidas pelo secretário.\n\n5 - À secção de administração financeira compete, designadamente:\n\na) Elaborar o projecto de orçamento, acompanhar a sua execução e propor as alterações convenientes;\n\nb) Assegurar o serviço orçamental e de contabilidade;\n\nc) Assegurar o serviço de gestão patrimonial e economato."
+  },
+  "2744497544cc48d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Delegações do CEJ",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Delegações do CEJ\n\n1 - O CEJ tem uma delegação na sede de cada distrito judicial.\n\n2 - As delegações são dirigidas conjuntamente por um magistrado judicial e por um magistrado do Ministério Público designados, sob proposta do director, pelos Conselhos Superiores da Magistratura e do Ministério Público, conforme os casos.\n\n3 - Os directores das delegações referidos no número anterior são nomeados nos termos do n.º 2 do artigo 6.º, aplicando-se-lhes o disposto no n.º 3 do mesmo artigo, ou em regime de acumulação com redução de serviço."
+  },
+  "7e6e445ab1fbd6c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competência\n\nCompete aos directores das delegações:\n\na) Colaborar com o director na elaboração dos planos de formação inicial junto dos tribunais;\n\nb) Orientar e acompanhar, na área do respectivo distrito judicial, a execução dos planos de formação inicial junto dos tribunais;\n\nc) Organizar e dirigir, no âmbito da formação inicial junto dos tribunais, seminários, colóquios e ciclos de estudos;\n\nd) Apoiar as acções de formação complementar e de formação permanente;\n\ne) Prestar informação periódica sobre o aproveitamento dos auditores de justiça ao director do CEJ e sobre o aproveitamento dos magistrados em estágio aos Conselhos Superiores da Magistratura e do Ministério Público;\n\nf) Exercer as demais funções que lhes sejam atribuídas pelo director do CEJ."
+  },
+  "836cdb8d81b1c5d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Pessoal"
+  },
+  "88afa9314f969d79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Quadro\n\nO quadro de pessoal do CEJ é aprovado por portaria conjunta dos Ministros das Finanças e da Justiça e do membro do Governo que tenha a seu cargo a Administração Pública."
+  },
+  "18f83386fa80d767": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Secretário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Secretário\n\n1 - O secretário é nomeado pelo director do CEJ de entre funcionários habilitados com licenciatura e experiência profissional adequadas ou de entre secretários judiciais ou secretários técnicos.\n\n2 - A nomeação efectua-se em comissão de serviço, por períodos renováveis de três anos.\n\n3 - Para efeitos remuneratórios, o cargo de secretário é equivalente ao de secretário de tribunal superior.\n\n4 - O secretário é substituído pelo mais antigo dos funcionários de maior categoria."
+  },
+  "bce4c3d0b2a040f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Competência do secretário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Competência do secretário\n\nCompete ao secretário do CEJ chefiar os serviços de secretaria, com observância do regulamento interno, e, em especial:\n\na) Fiscalizar o funcionamento dos serviços, nomeadamente em matéria de faltas e licenças;\n\nb) Assegurar o secretariado do conselho de gestão, do conselho pedagógico, do conselho de disciplina e do conselho administrativo, lavrando as respectivas actas;\n\nc) Submeter a despacho os assuntos que exijam decisão superior;\n\nd) Elaborar ordens de execução permanente;\n\ne) Zelar pela guarda e conservação das instalações e valores afectos ao CEJ."
+  },
+  "7beb0fb4cebc46c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Chefes de secção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Chefes de secção\n\n1 - Os lugares de chefe de secção são providos nos termos da lei geral.\n\n2 - Os lugares a que se refere o número anterior podem ainda ser providos por oficiais de justiça, em comissão de serviço, por períodos renováveis de três anos."
+  },
+  "ac8a0b2c09a3fadb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO III — Actividades de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Actividades de formação"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "60b364fbcb31e35c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Formação profissional de magistrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Formação profissional de magistrados\n\n1 - A formação profissional de magistrados abrange actividades de formação inicial, de formação complementar e de formação permanente.\n\n2 - A formação inicial compreende uma fase teórico-prática e uma fase de estágio."
+  },
+  "d37061070b1fa83b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Formação de assessores dos tribunais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Formação de assessores dos tribunais\n\nA formação de assessores dos tribunais é regulada nos termos do n.º 1 do artigo 7.º da [Lei n.º 2/98](https://diariodarepublica.pt/dr/detalhe/lei/2-1998-224853), de 8 de Janeiro."
+  },
+  "4293ee5c2be65f12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Plano de actividades e relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Plano de actividades e relatório\n\n1 - O ano de actividades do CEJ tem início em 15 de Setembro.\n\n2 - O plano anual de actividades deve ser aprovado até 31 de Julho.\n\n3 - O relatório anual de actividades será apresentado ao Ministro da Justiça até 31 de Dezembro, após apreciação pelo conselho de gestão."
+  },
+  "87c223e35f7b0ea9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Formação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Formação inicial"
+  },
+  "d71829eb290ea09d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Ingresso"
+  },
+  "470ff8582518abc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Disposições gerais"
+  },
+  "8d95cf1ffa30ff14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Ingresso\n\n1 - São condições de ingresso no CEJ:\n\na) Ser cidadão português;\n\nb) Possuir há, pelo menos, dois anos, na data de abertura do concurso, licenciatura em Direito por universidade portuguesa ou habilitação académica equivalente à face da lei portuguesa;\n\nc) Reunir os demais requisitos de ingresso na função pública.\n\n2 - Os candidatos que concorram na qualidade de assessores devem satisfazer os requisitos exigidos pelo artigo 15.º da [Lei n.º 2/98](https://diariodarepublica.pt/dr/detalhe/lei/2-1998-224853), de 8 de Janeiro, e requerer o ingresso no primeiro curso posterior à data da cessação de funções."
+  },
+  "f61ecbfb3c4562f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Vagas e abertura de concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Vagas e abertura de concurso\n\n1 - Até ao dia 15 de Julho do ano de abertura do concurso, o Conselho Superior da Magistratura e a Procuradoria-Geral da República informam o Ministro da Justiça do número previsível de magistrados necessários, tendo em conta a duração do período de formação.\n\n2 - O Ministro da Justiça, por aviso publicado no Diário da República durante o mês de Outubro, declara aberto concurso de ingresso no CEJ, com indicação dos lugares a preencher em cada magistratura.\n\n3 - Com a abertura do concurso, o CEJ faz publicar aviso com a lista de matérias sobre que versam as provas e com a data e o local em que se efectuam as provas escritas."
+  },
+  "a9f36ed1c7d9e072": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Requerimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Requerimentos\n\n1 - No prazo de 15 dias contado da publicação do aviso a que se refere o n.º 2 do artigo anterior, os candidatos devem requerer o ingresso no CEJ.\n\n2 - Os requerimentos são dirigidos ao director e instruídos com os documentos comprovativos dos requisitos de ingresso.\n\n3 - Os candidatos a que se refere o n.º 2 do artigo 33.º têm apenas de fazer prova dos requisitos nele mencionados."
+  },
+  "9aca10ffb4a1aa6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Listas de candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Listas de candidatos\n\n1 - Encerrado o prazo para apresentação dos requerimentos, é publicada no Diário da República a lista dos candidatos admitidos.\n\n2 - Da lista cabe reclamação para o Ministro da Justiça, no prazo de 10 dias.\n\n3 - Decididas as reclamações, ou não as havendo, é publicada no Diário da República a lista definitiva."
+  },
+  "deb7002ded88b790": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Métodos de selecção"
+  },
+  "3a769a310ebdcb65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Júris",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Júris\n\n1 - Os candidatos efectuam testes de aptidão perante júris, constituídos pelo menos por três membros, de entre:\n\na) Personalidades de reconhecido mérito no domínio do direito e da cultura, nomeadas pelo Ministro da Justiça;\n\nb) Magistrados, designados pelos Conselhos Superiores da Magistratura e do Ministério Público.\n\n2 - Um terço dos membros dos júris será integrado pelas personalidades a que se refere a alínea a) do número anterior e os restantes, em igualdade, pelos magistrados a que se refere a alínea b) do mesmo número.\n\n3 - Na entrevista a que se refere o n.º 1 do artigo 38.º, os júris são assessorados por um psicólogo nomeado pelo Ministro da Justiça.\n\n4 - Os presidentes de cada júri são nomeados pelo director do CEJ, de entre juízes de tribunais superiores e procuradores-gerais-adjuntos designados nos termos da alínea b) do n.º 1."
+  },
+  "ad731c99b4ad6e12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Fases",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Fases\n\n1 - Os testes de aptidão integram uma fase escrita, uma fase oral e uma entrevista.\n\n2 - Para cada prova da fase escrita é designado dia próprio, podendo as provas incluídas na fase oral realizar-se num só dia ou repartir-se por dois dias."
+  },
+  "9e6d3408a9aa77d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Dispensa de testes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Dispensa de testes\n\n1 - Os doutores em Direito estão isentos das fases escrita e oral e têm preferência sobre os restantes candidatos.\n\n2 - Os candidatos a que se refere o n.º 2 do artigo 33.º estão isentos da fase escrita."
+  },
+  "c4a32130298879db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Fase escrita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Fase escrita\n\n1 - A fase escrita compreende:\n\na) Uma composição sobre temas culturais, sociais ou económicos;\n\nb) A resolução de questões práticas de direito civil e comercial e de direito processual civil;\n\nc) A resolução de questões práticas de direito criminal e de direito processual penal.\n\n2 - Cada prova tem a duração de três horas.\n\n3 - As provas mencionadas no n.º 1 versam sobre as matérias constantes do aviso referido no n.º 3 do artigo 34.º, podendo os candidatos, para as provas das alíneas b) e c), fazer-se acompanhar de textos de legislação e de bibliografia.\n\n4 - A fase escrita decorre sob o anonimato dos candidatos.\n\n5 - Em caso de inaptidão, nos termos do n.º 3 do artigo 42.º, a fase escrita é eliminatória."
+  },
+  "6ce4ee225756c76e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Fase oral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Fase oral\n\n1 - A fase oral compreende:\n\na) Uma conversação sobre temas de deontologia, metodologia e sociologia relacionados com a administração da justiça;\n\nb) Uma discussão sobre direito civil e comercial e direito processual civil;\n\nc) Uma discussão sobre direito criminal e direito processual penal;\n\nd) Um interrogatório sobre temas de direito constitucional, comunitário, administrativo, trabalho e família e menores.\n\n2 - As provas mencionadas no número anterior versam sobre as matérias constantes do aviso referido no n.º 3 do artigo 34.º, tendo cada uma a duração máxima de trinta minutos.\n\n3 - As provas são públicas, excepto para os candidatos que ainda as não tenham prestado."
+  },
+  "7de6312a9caafc1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Classificação, graduação final e validade das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Classificação, graduação final e validade das provas"
+  },
+  "05135ea725b882da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Classificação da fase escrita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Classificação da fase escrita\n\n1 - Cada prova da fase escrita é classificada segundo um processo valorimétrico, numa escala de 0 a 20.\n\n2 - A classificação é publicada mediante afixação de pauta na sede e nas delegações do CEJ, em data a anunciar aos candidatos no acto da realização da última prova.\n\n3 - São admitidos à fase oral os candidatos que obtenham a classificação mínima de 10 valores em cada prova da fase escrita."
+  },
+  "e2a20cde1564abb9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Classificação da fase oral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Classificação da fase oral\n\n1 - Cada prova da fase oral, com excepção da entrevista a que se refere o n.º 1 do artigo 38.º, é classificada segundo um processo valorimétrico, numa escala de 0 a 20, sendo a entrevista classificada com a menção de Favorável ou Não favorável.\n\n2 - São excluídos os candidatos que não obtenham, em cada prova, a classificação mínima de 10 valores, bem como os que, na entrevista, não obtenham a menção de Favorável."
+  },
+  "8561991bccb7cfc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Classificação final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Classificação final\n\n1 - A classificação final corresponde à média aritmética das classificações obtidas nas provas da fase oral.\n\n2 - Em reunião dos presidentes dos júris, os candidatos são declarados como Aptos e Não aptos, elaborando-se uma lista dos primeiros, por ordem decrescente de graduação, segundo um processo valorimétrico, numa escala de 10 a 20.\n\n3 - Em caso de igualdade, atende-se, sucessivamente, à média aritmética das classificações obtidas na fase escrita, à nota de licenciatura e à idade, preferindo os mais velhos."
+  },
+  "119a438c4d795fdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Assessores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Assessores\n\n1 - É aplicável aos assessores a que se refere o n.º 2 do artigo 39.º o disposto nos n.os 1 e 2 do artigo anterior, efectuando-se, porém, a sua graduação em lista autónoma.\n\n2 - Em caso de igualdade, observar-se-á, na parte aplicável, o preceituado no n.º 3 do artigo anterior."
+  },
+  "583215980c0f4b55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Graduação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Graduação\n\n1 - A graduação efectua-se em lista final, com base nas listas a que se referem o artigo 44.º e o artigo anterior, nela figurando, alternadamente, os candidatos graduados em cada lista, a começar pela relativa aos assessores, sem prejuízo do disposto no n.º 1 do artigo 39.º\n\n2 - As listas mencionadas no número anterior são afixadas na sede e nas delegações do CEJ, indicando-se, na lista final, os candidatos admitidos em função das vagas disponíveis."
+  },
+  "3b75292e6ea500eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Reclamações\n\n1 - Os candidatos eliminados na fase escrita podem reclamar da classificação, no prazo de cinco dias, em requerimento fundamentado, dirigido ao director, pedindo a revisão de uma ou mais provas.\n\n2 - Para o efeito do disposto no número anterior, a secretaria entregará ao candidato, no prazo de vinte e quatro horas, cópia da prova ou provas objecto de reclamação, dia a partir do qual se contará o prazo para apresentação do requerimento.\n\n3 - A reclamação será apreciada e decidida por três elementos dos júris, designados pelo director.\n\n4 - Do júri a que se refere o número anterior não podem fazer parte os membros que intervieram na classificação das provas sobre que recaiu a reclamação."
+  },
+  "738d6113ef5ab6bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Efeitos das reclamações sobre a fase oral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Efeitos das reclamações sobre a fase oral\n\n1 - A pendência das reclamações a que se refere o artigo 47.º não suspende a realização da fase oral quanto aos demais candidatos.\n\n2 - Se, em consequência da reclamação, os candidatos vierem a ser admitidos à fase oral, designar-se-á data para prestação das provas."
+  },
+  "992892a5319f3ef2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Faltas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Faltas\n\n1 - Os candidatos que não compareçam à prova ou provas realizadas num dia podem justificar a falta, perante o director, nas vinte e quatro horas seguintes.\n\n2 - Se a falta for considerada justificada, é designado novo dia para a realização da prova ou provas.\n\n3 - Em cada fase não é permitido faltar a mais de um dia de provas."
+  },
+  "809e6ff7a5c99a3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Validade das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Validade das provas\n\n1 - A validade das provas é limitada ao período de formação que imediatamente se lhes seguir.\n\n2 - Por motivos ponderosos, e a requerimento apresentado até à data de início do curso, pode o director autorizar que o candidato frequente o curso seguinte.\n\n3 - Aos candidatos impedidos de frequentar o curso por motivo de cumprimento de serviço militar obrigatório é contado o tempo para efeitos de antiguidade como se tivessem frequentado o período imediato de formação."
+  },
+  "59d2cfa5723ec8b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Preenchimento de lugares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Preenchimento de lugares\n\n1 - Os lugares a que se refere o n.º 2 do artigo 34.º são preenchidos na proporção de um terço para os assessores e de dois terços para os restantes candidatos.\n\n2 - Os lugares não preenchidos por um dos grupos referidos no número anterior acrescem ao outro grupo de candidatos."
+  },
+  "1728549f24612144": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Frequência"
+  },
+  "4c6abcfabfff0fb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Auditores de justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Auditores de justiça\n\nOs candidatos admitidos ingressam no CEJ com o estatuto de auditor de justiça."
+  },
+  "94fa38ba67b503fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Direitos, deveres e incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Direitos, deveres e incompatibilidades\n\n1 - Em tudo o que não for contrariado pela presente lei, os auditores de justiça estão sujeitos, quanto a direitos, deveres e incompatibilidades, ao regime da função pública.\n\n2 - Os auditores de justiça estão especialmente obrigados ao segredo de justiça e aos deveres de disciplina e de aproveitamento constantes do regulamento interno.\n\n3 - As férias a que os auditores de justiça tenham direito só podem ser gozadas no período das férias judiciais."
+  },
+  "2d3dc41724650ae3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Remuneração e regalias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Remuneração e regalias\n\n1 - Os auditores de justiça têm direito a uma bolsa de estudo correspondente a 50% do índice 100 da escala indiciária das magistraturas.\n\n2 - Os auditores de justiça podem inscrever-se nos Serviços Sociais do Ministério da Justiça."
+  },
+  "f1f1c49598f38f7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Funcionários e agentes do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Funcionários e agentes do Estado\n\n1 - Os candidatos que sejam funcionários ou agentes do Estado, de institutos públicos ou de empresas públicas têm direito a frequentar o CEJ em regime de requisição e a optar, neste caso, pelas remunerações base relativas à categoria de origem.\n\n2 - Em caso de exclusão ou de desistência justificada, os auditores de justiça que se encontrem na situação prevista no número anterior retomam os seus cargos ou funções sem perda de antiguidade; se a desistência for injustificada, o tempo de frequência é descontado na antiguidade relativa ao cargo."
+  },
+  "04a1419cb4fd4908": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Fase teórico-prática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Fase teórico-prática"
+  },
+  "4c216c7776bd00be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Objectivos\n\n1 - A fase teórico-prática tem como objectivo a formação técnico-jurídica dos auditores, visando, designadamente:\n\na) A consolidação e o complemento dos conhecimentos teóricos na perspectiva das necessidades práticas da aplicação do direito;\n\nb) O domínio da metodologia jurídica no tratamento judiciário de casos práticos;\n\nc) A aprendizagem da técnica de recolha da prova e da sua valoração;\n\nd) O desenvolvimento da sensibilidade jurídica, da análise crítica, da ponderação e da capacidade de argumentação e de decisão;\n\ne) O estudo e reflexão sobre as regras deontológicas, o sentido ético da função e as relações interprofissionais;\n\nf) O domínio elementar das modernas tecnologias de informação e comunicação e da aplicação dos meios informáticos à actividade judiciária;\n\ng) A aprendizagem e a técnica da elaboração de peças processuais.\n\n2 - A fase teórico-prática é organizada por forma a assegurar uma conscienciosa opção pela magistratura judicial ou pela magistratura do Ministério Público."
+  },
+  "b439fb85e22c303f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Conteúdo\n\nNo âmbito das actividades teórico-práticas incluem-se os seguintes conjuntos de matérias:\n\nI - Formativas:\n\na) Deontologia;\n\nb) Metodologia jurídica;\n\nc) Psicologia judiciária;\n\nd) Sociologia judiciária;\n\ne) Idiomas.\n\nII - Profissionais e de aplicação:\n\na) Análise da doutrina e da jurisprudência, designadamente nos domínios do direito civil, direito comercial, direito criminal, direito processual civil e penal, direito do trabalho e direito de família e menores;\n\nb) Criminologia, criminalística e penologia;\n\nc) Medicina legal e psiquiatria forense;\n\nd) Tecnologia judiciária;\n\ne) Organização e métodos e gestão do processo.\n\nIII - Informativas e de especialidade:\n\na) Sistemas de direito comparado;\n\nb) Direito internacional;\n\nc) Cooperação judiciária internacional;\n\nd) Direito comunitário;\n\ne) Direito constitucional;\n\nf) Direito administrativo;\n\ng) Direito económico;\n\nh) Direito do ambiente e consumo;\n\ni) Organização judiciária."
+  },
+  "30560f0ad059f0de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Organização\n\n1 - A fase de actividades teórico-práticas tem duração de 22 meses, com início no dia 15 do mês de Setembro subsequente à data da abertura do concurso de ingresso e termo em 15 de Julho.\n\n2 - A fase a que se refere o número anterior decorre na sede do CEJ, sob a orientação de docentes, e nos tribunais, sob a orientação de formadores."
+  },
+  "4ef70b709bf768a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Ciclos de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Ciclos de actividades\n\nAs actividades teórico-práticas desenvolvem-se pelos seguintes períodos:\n\na) De 15 de Setembro a 31 de Março, na sede do CEJ;\n\nb) De 1 de Abril a 31 de Março, nos tribunais;\n\nc) De 1 de Abril a 15 de Julho, na sede do CEJ."
+  },
+  "daa9ab6310bdb843": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Actividades no CEJ",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Actividades no CEJ\n\nAs actividades no CEJ realizam-se em grupos de trabalho e em sessões conjuntas, devendo incluir, além de visitas de estudo, actividades de pesquisa e de investigação, seminários, conferências e colóquios, quer em áreas especializadas, quer em áreas não especializadas de interesse para o exercício da função judiciária."
+  },
+  "d1c40524084e5360": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Actividades nos tribunais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Actividades nos tribunais\n\n1 - As actividades nos tribunais efectuam-se, por iguais períodos de tempo, sob orientação de magistrados judiciais e de magistrados do Ministério Público.\n\n2 - A formação junto dos tribunais compreende a participação dos auditores de justiça nas actividades judiciárias, cabendo-lhes:\n\na) Assistir os formadores em actos de inquérito e de instrução criminal;\n\nb) Intervir em actos preparatórios do processo que não sejam exclusivos da função jurisdicional;\n\nc) Colaborar na preparação de projectos de peças processuais;\n\nd) Assistir às diligências de prova e às deliberações dos órgãos judiciais."
+  },
+  "005a1e21ba97e085": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Colocação junto dos tribunais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Colocação junto dos tribunais\n\n1 - Até 30 dias antes do início do ciclo junto dos tribunais, o CEJ, obtida a aprovação do Conselho Superior da Magistratura e da Procuradoria-Geral da República, afixa a lista de locais de formação.\n\n2 - Os auditores de justiça indicam, por ordem decrescente de preferência, os tribunais em que pretendem realizar as actividades.\n\n3 - Na colocação, são factores atendíveis a graduação nas provas de admissão e a situação pessoal e familiar dos auditores.\n\n4 - O director do CEJ, por motivo justificado, pode transferir os auditores de justiça dos respectivos locais de formação."
+  },
+  "ef3537558394dd43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — Aproveitamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Aproveitamento\n\n1 - No fim de cada ciclo de actividades, os docentes e os directores das delegações, respectivamente, elaboram relatório sobre a adequação e o aproveitamento dos auditores de justiça.\n\n2 - O relatório a que se refere o número anterior avalia a aptidão dos auditores para o exercício da função de magistrados, considerando, em especial, a cultura jurídica e a cultura geral, a capacidade de investigação, de organização e de trabalho, a capacidade de ponderação e de decisão, a relação humana, a assiduidade e a pontualidade.\n\n3 - Em qualquer momento do período de actividades teórico-práticas, o conselho pedagógico, sob proposta do director, pode decidir a exclusão do auditor de justiça, quando do relatório referido no n.º 1 resultar falta de adequação ou de aproveitamento."
+  },
+  "98a82f0817129093": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Falta de assiduidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Falta de assiduidade\n\n1 - Determinam a perda de frequência do curso, no período de actividades teórico-práticas, cinco faltas injustificadas, seguidas ou interpoladas.\n\n2 - Podem implicar a perda de frequência do curso, por deliberação do conselho pedagógico, tendo em conta as suas consequências no aproveitamento do auditor, mais de 30 faltas justificadas.\n\n3 - Sob proposta do director, o conselho pedagógico pode autorizar a frequência de novo período formativo aos auditores de justiça a que se refere o número anterior."
+  },
+  "09509b8597760247": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — Classificação e graduação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Classificação e graduação\n\n1 - Terminado o período de actividades teórico-práticas, o conselho pedagógico procede à classificação dos auditores de justiça, numa escala valorimétrica de 0 a 20.\n\n2 - A classificação final baseia-se na avaliação contínua do aproveitamento dos auditores, levando em consideração, designadamente, os relatórios elaborados nos termos do n.º 1 do artigo 63.º\n\n3 - Os auditores de justiça com notação inferior a 10 são excluídos, considerando-se os demais habilitados à fase de estágio.\n\n4 - Os auditores de justiça que obtenham notação positiva são graduados segundo a respectiva classificação, atendendo-se, em caso de igualdade, sucessivamente, à sua graduação nos testes de aptidão, à nota de licenciatura e à idade, preferindo os mais velhos.\n\n5 - O conselho pedagógico faz publicar os resultados da classificação e graduação, que manda afixar em pauta na sede do CEJ."
+  },
+  "5128aec9bf233df2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — Opção de magistratura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Opção de magistratura\n\n1 - No prazo de cinco dias contado da afixação a que se refere o n.º 5 do artigo anterior, os auditores de justiça devem apresentar declaração de opção pela magistratura judicial ou pela magistratura do Ministério Público.\n\n2 - Havendo desproporção entre as vagas disponíveis para cada magistratura e as respectivas opções, têm preferência os auditores com melhor graduação.\n\n3 - Os auditores de justiça que, face à opção expressa, não tenham vaga podem, em dois dias, requerer a alteração da sua opção."
+  },
+  "3748b2e786067ec1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — Efeitos da exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Efeitos da exclusão\n\nOs auditores de justiça excluídos no período de formação teórico-prática não podem concorrer ao ingresso no CEJ antes de decorridos três anos sobre a sua exclusão, salvo se esta tiver ocorrido por falta de vaga na magistratura por que tenham feito opção."
+  },
+  "9f53b6fbfe36a58d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Fase de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Fase de estágio"
+  },
+  "6607d9cb8232b009": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — Nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Nomeação\n\n1 - Os auditores de justiça graduados são nomeados juízes de direito ou delegados do procurador da República em regime de estágio, respectivamente, pelo Conselho Superior da Magistratura ou pelo Conselho Superior do Ministério Público.\n\n2 - Enquanto não forem nomeados, os candidatos à magistratura mantêm o estatuto de auditores de justiça.\n\n3 - Por motivo justificado, podem ser transferidos pelo respectivo conselho superior os juízes de direito ou os delegados do procurador da República a que se refere o n.º 1."
+  },
+  "371d8d7c712cdb7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Organização\n\n1 - O estágio tem início no dia 15 de Setembro subsequente à conclusão da fase teórico-prática e termina em 15 de Julho seguinte.\n\n2 - O estágio pode ser prolongado pelo tempo necessário, havendo motivo justificado, por deliberação do respectivo conselho superior ou sob proposta do director do CEJ."
+  },
+  "7fe55324fc2c6ee4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Regime\n\n1 - Os magistrados em regime de estágio exercem, com a assistência de formadores, mas sob responsabilidade própria, as funções inerentes à respectiva magistratura, com os respectivos direitos, deveres e incompatibilidades.\n\n2 - O exercício de funções a que se refere o número anterior desenvolve-se progressivamente, tendo em conta a complexidade e o volume de serviço.\n\n3 - Os Conselhos Superiores da Magistratura e do Ministério Público devem recolher elementos sobre a idoneidade, o mérito e o desempenho dos magistrados em regime de estágio.\n\n4 - Sempre que os elementos obtidos ponham em dúvida a adequação do estagiário ao exercício de funções, os conselhos superiores determinam, com prioridade e urgência, uma inspecção extraordinária."
+  },
+  "c2e7f59e4a879b24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Objectivos\n\nSão objectivos da fase de estágio:\n\na) O aprofundamento dos conhecimentos adquiridos na fase anterior;\n\nb) O adestramento dos magistrados na prática judiciária, em razão da qualidade e da eficiência normalmente exigidas para o exercício de funções em início de carreira;\n\nc) O apuramento do sentido de responsabilidade e da capacidade de ponderação e de decisão dos magistrados."
+  },
+  "fcdfe4351d8984d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º — Colocação definitiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Colocação definitiva\n\nTerminada a fase de estágio, os magistrados são colocados em regime de efectividade; na falta de vagas, e até à sua ocorrência, são colocados como auxiliares."
+  },
+  "cd2a12fbf27bf0b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º — Dever de permanência na magistratura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Dever de permanência na magistratura\n\nOs magistrados que injustificadamente requeiram a exoneração antes de decorridos cinco anos sobre a nomeação a que se refere o n.º 1 do artigo 68.º ficam obrigados a indemnizar o CEJ pelas despesas de formação relativas à fase teórico-prática."
+  },
+  "6500249bd6d43aa3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Formação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Formação complementar"
+  },
+  "0f04c19bf987ac00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Objectivos\n\nA formação complementar visa:\n\na) O intercâmbio das experiências individuais dos magistrados numa perspectiva de valorização profissional;\n\nb) A reflexão sobre os dados recolhidos da prática judiciária, com vista a uma melhor definição, aperfeiçoamento e harmonização de critérios no exercício da função;\n\nc) O estudo de áreas especializadas do direito."
+  },
+  "916ab0de63beaf90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Organização\n\n1 - A formação complementar decorre nos dois anos subsequentes à colocação a que se refere o artigo 72.º\n\n2 - A participação nas actividades de formação complementar é obrigatória, sendo considerada acto de serviço.\n\n3 - As actividades são anualmente planeadas pelos Conselhos Superiores da Magistratura e do Ministério Público em colaboração com o CEJ.\n\n4 - As actividades são organizadas por forma centralizada ou descentralizada, conforme as específicas necessidades dos magistrados destinatários.\n\n5 - Constituem encargo do CEJ as despesas com a formação complementar."
+  },
+  "3d243567aa02885a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Formação permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Formação permanente"
+  },
+  "bc8b9bd38c71ce8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Objectivos\n\nA formação permanente visa promover a actualização da informação jurídica dos magistrados e o debate de novas problemáticas da vida judiciária."
+  },
+  "0db1e29bcd3a6495": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Organização\n\nO CEJ, em colaboração com os Conselhos Superiores da Magistratura e do Ministério Público, assegura actividades de formação permanente dos magistrados, nos termos definidos no presente capítulo."
+  },
+  "4bdfa056c0678945": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º — Plano anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Plano anual\n\n1 - As actividades de formação permanente integram o plano e relatório anual de actividades.\n\n2 - A elaboração do plano a que se refere o número anterior é precedida de audição dos Conselhos Superiores da Magistratura e do Ministério Público."
+  },
+  "a76fc4342f9e106c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — Actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Actividades\n\n1 - O plano das actividades de formação permanente é divulgado a todos os magistrados até 30 de Setembro.\n\n2 - Até 15 de Outubro, os magistrados que pretendam participar nas actividades de formação devem requerê-lo ao Conselho Superior da Magistratura ou à Procuradoria-Geral da República, que comunicarão ao CEJ a relação dos interessados a quem concederam autorização.\n\n3 - Nos 15 dias seguintes à comunicação a que se refere o número anterior, o CEJ dará conhecimento aos interessados das acções em que se encontram inscritos.\n\n4 - Os magistrados devem comunicar a sua participação em acções de formação permanente, consoante os casos, ao Conselho Superior da Magistratura ou à Procuradoria-Geral da República, no prazo de 10 dias a contar do termo de cada acção."
+  },
+  "79232fc5e5dfa931": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Docentes e formadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Docentes e formadores"
+  },
+  "da3b51cb4b70a427": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º — Docentes e formadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Docentes e formadores\n\n1 - Os cursos e demais actividades formativas são ministrados por docentes e por formadores.\n\n2 - Os docentes são nomeados de entre magistrados, docentes universitários, advogados e personalidades de reconhecido mérito.\n\n3 - Os formadores são escolhidos de entre magistrados.\n\n4 - O director pode solicitar a intervenção em actividades formativas de personalidades ou instituições qualificadas."
+  },
+  "856665ba7b075e8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º — Nomeação de docentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Nomeação de docentes\n\n1 - A nomeação de docentes compete ao Ministro da Justiça, sob proposta do director do CEJ, ouvido o conselho pedagógico.\n\n2 - A nomeação de docentes em regime de acumulação ou a tempo parcial, nos termos do n.º 1 do artigo 83.º, pode ser delegada no director.\n\n3 - Quando a nomeação recair em magistrado, será precedida da autorização dos Conselhos Superiores da Magistratura e do Ministério Público, conforme os casos."
+  },
+  "08bfb1eb83dab85e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82.º — Designação de formadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Designação de formadores\n\n1 - Os formadores são designados pelos Conselhos Superiores da Magistratura ou do Ministério Público, sob proposta do director do CEJ.\n\n2 - A designação a que se refere o número anterior depende da anuência dos respectivos magistrados."
+  },
+  "467cedf4327f1042": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º — Regime de provimento de docentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Regime de provimento de docentes\n\n1 - Os magistrados e os demais funcionários ou agentes do Estado, de institutos públicos ou de empresas públicas, quando na efectividade, são nomeados em comissão de serviço, por períodos renováveis de três anos, ou em regime de acumulação, quando exerçam funções formativas a tempo parcial.\n\n2 - Os restantes docentes são contratados.\n\n3 - É aplicável o disposto no n.º 3 do artigo 6.º às nomeações como docentes de magistrados em comissão de serviço."
+  },
+  "6a874fd174da93ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º — Regime de remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Regime de remunerações\n\n1 - O regime de remuneração dos docentes, directores das delegações, formadores, membros dos júris, membros do conselho de gestão, membros do conselho pedagógico e membros do conselho de disciplina é fixado por despacho conjunto dos Ministros da Justiça e das Finanças e do membro do Governo responsável pela Administração Pública.\n\n2 - No caso de provimento em tempo integral, os docentes e os directores das delegações auferem a remuneração correspondente ao lugar de origem.\n\n3 - As remunerações devidas a magistrados consideram-se integradas nas remunerações correspondentes ao cargo de origem e têm a mesma natureza."
+  },
+  "4b5aaaf7c2a2fb63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Regime disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Regime disciplinar"
+  },
+  "9166ed79d6968b2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 85.º — Procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Procedimento disciplinar\n\nA violação dos deveres do cargo, nomeadamente os que resultem do presente diploma e os previstos no regulamento interno do CEJ, constitui infracção disciplinar."
+  },
+  "29de2cedcbedfa70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º — Penas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Penas\n\nAos auditores de justiça são aplicáveis as seguintes penas:\n\na) Advertência;\n\nb) Censura;\n\nc) Suspensão até um mês;\n\nd) Expulsão."
+  },
+  "10269b74244a8d2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 87.º — Suspensão preventiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Suspensão preventiva\n\nO director, ouvido o conselho de disciplina, pode suspender preventivamente, até 15 dias, os auditores de justiça sujeitos a procedimento disciplinar, se a frequência das actividades lectivas e formativas se revelar gravemente atentatória da disciplina devida."
+  },
+  "a445c841c84ef2fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 88.º — Aplicação das penas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Aplicação das penas\n\n1 - A aplicação das penas compete:\n\na) Ao director, quanto às penas previstas nas alíneas a) e b) do artigo 86.º;\n\nb) Ao conselho de disciplina, quanto às restantes penas.\n\n2 - Das decisões do director em matéria disciplinar cabe reclamação para o conselho de disciplina."
+  },
+  "e3416126e693fc6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 89.º — Efeitos especiais das penas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Efeitos especiais das penas\n\n1 - A aplicação da pena de expulsão importa a impossibilidade de frequência do CEJ pelo período de cinco anos.\n\n2 - Quando o infractor for funcionário ou agente do Estado, de instituto público ou de empresa pública, comunicar-se-á ao respectivo superior hierárquico a aplicação das penas previstas nas alíneas c) e d) do artigo 86.º"
+  },
+  "9915a126c51f0cf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Disposições finais e transitórias"
+  },
+  "13cd1e77c9934aba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 90.º — Contagem dos prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Contagem dos prazos\n\nSalvo disposição em contrário, à contagem dos prazos referidos neste diploma aplica-se o disposto no n.º 1 do artigo 72.º do [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, na redacção dada pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro."
+  },
+  "ad55476debacb9bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 91.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Entrada em vigor\n\nA presente lei entra em vigor no dia imediato ao da sua publicação."
+  },
+  "6a27b299f46deca8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 92.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Norma revogatória\n\n1 - É revogado o [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro, com as alterações introduzidas pelos Decretos-Leis n.os [264-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-a-1981-517226), de 3 de Setembro, [146-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-a-1984-475558), de 9 de Maio, [404/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1988-358757), de 9 de Novembro, [23/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1992-158598), de 21 de Fevereiro, e [395/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1993-674023), de 24 de Novembro.\n\n2 - São revogados os Decretos-Leis n.os [146-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-b-1984-475559), de 9 de Maio, e [83/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1989-613937), de 23 de Março."
+  },
+  "fb4afb21195958cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 93.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Regime transitório\n\n1 - Sem prejuízo do disposto no artigo 91.º, a presente lei não se aplica aos auditores de justiça que tenham iniciado o respectivo curso de formação antes da sua entrada em vigor e aos magistrados que se encontrem em regime de estágio.\n\n2 - Para o efeito do preceituado no número anterior, mantém-se em vigor o [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro, com as alterações que lhe foram introduzidas.\n\n3 - Mantém-se ainda em vigor o disposto nos artigos 34.º a 40.º do [Decreto-Lei n.º 374-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-a-1979-256637), de 10 de Setembro, com as alterações que lhe foram introduzidas, para os candidatos que tenham requerido o ingresso no CEJ no concurso aberto em 1997."
+  },
+  "cc5f7055bd5eb55a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 94.º — Conselhos de gestão, pedagógico e de disciplina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Conselhos de gestão, pedagógico e de disciplina\n\n1 - Mantêm-se em funções, com a actual constituição e funcionamento, o conselho de gestão, o conselho pedagógico e o conselho de disciplina até à data do início de funções do conselho de gestão, do conselho pedagógico e do conselho de disciplina a que se referem os artigos 9.º, 11.º e 13.º, aplicando-se, com as necessárias adaptações, o disposto no n.º 2 do artigo anterior.\n\n2 - O conselho de gestão, o conselho pedagógico e o conselho de disciplina, com a composição estabelecida pela presente lei, iniciam funções em 15 de Setembro de 1998."
+  },
+  "c88499084d3e7d4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 95.º — Directores e docentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Directores e docentes\n\nSão mantidos nos respectivos cargos o director, os directores-adjuntos, os directores das delegações e os docentes do CEJ."
+  },
+  "a20f1f19d4cbd81a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 96.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Pessoal\n\n1 - A transição para o novo quadro aprovado pela portaria a que se refere o artigo 26.º do presente diploma dos funcionários providos em lugares do actual quadro efectua-se nos termos seguintes:\n\na) Para a carreira, categoria e escalão que o funcionário presentemente possui;\n\nb) Para a carreira e categoria correspondentes às funções efectivamente desempenhadas, remunerados pelo mesmo índice, ou, não havendo coincidência, remunerados pelo índice imediatamente superior, observadas que sejam as habilitações legalmente exigidas.\n\n2 - As correspondências de categoria fazem-se em função do índice remuneratório do escalão 1 da categoria em que o funcionário se encontre e o escalão 1 da categoria da nova carreira, sem prejuízo da atribuição do índice nos termos da alínea b) do número anterior.\n\n3 - O tempo de serviço na categoria que deu origem à transição conta, para efeitos de promoção, como se fosse prestado na nova categoria a partir da data do início das funções correspondentes às da categoria para que se operou a transição.\n\n4 - É mantido nos respectivos cargos o pessoal do quadro da secretaria provido em comissão de serviço."
+  },
+  "613d4e135b8e2f16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 97.º — Director do gabinete de estudos jurídico-sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Director do gabinete de estudos jurídico-sociais\n\nO director do gabinete de estudos jurídico-sociais transita, sem necessidade de quaisquer formalidades, para o cargo de director-adjunto para a área de estudos e investigação."
+  },
+  "3827fbabaef5fca4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 98.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Regulamento interno\n\n1 - No prazo de 30 dias a contar da data referida no n.º 2 do artigo 94.º, o director deve submeter a aprovação do conselho de gestão um regulamento interno.\n\n2 - O regulamento a que se refere o número anterior, depois de aprovado, é publicado no Diário da República.\n\n3 - Até à data da publicação do novo regulamento, mantém-se em vigor, com as necessárias adaptações, o actual regulamento interno.\n\nAprovada em 19 de Fevereiro de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 18 de Março de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 26 de Março de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "60c3621d86f12c3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "806a81d680d1619c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "a399880447f349d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Magistrados de países estrangeiros",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 3.º — Magistrados de países estrangeiros\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "9ff6ded8f213ac9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Regime financeiro",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 4.º — Regime financeiro\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "92e3925fc98b3fe1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 5.º — Órgãos\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "8b651102b0763814": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Director",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 6.º — Director\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "ced89a6c47aaa2fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competência",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 7.º — Competência\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "0c49a64526b6028b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Directores-adjuntos",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 8.º — Directores-adjuntos\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "1a591a3a21f4a5a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Conselho de gestão",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 9.º — Conselho de gestão\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "6f913d3857bd401e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competência e funcionamento do conselho de gestão",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 10.º — Competência e funcionamento do conselho de gestão\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "45671fc5c9bd15cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Conselho pedagógico",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 11.º — Conselho pedagógico\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "b6ebe3592d948b67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competência do conselho pedagógico",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 12.º — Competência do conselho pedagógico\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "6c37f45f348b34bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Conselho de disciplina",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 13.º — Conselho de disciplina\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "18c6822e92e39ee0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competência do conselho de disciplina",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 14.º — Competência do conselho de disciplina\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "cafd1daa5ee18a29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Conselho administrativo",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 15.º — Conselho administrativo\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "51f1c089bdc660fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Competência do conselho administrativo",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 16.º — Competência do conselho administrativo\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "949603de21459b41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Deliberações",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 17.º — Deliberações\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "a59226085bc282e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Quadro",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 26.º — Quadro\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "c95d9c675986ffed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Chefes de secção",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 29.º — Chefes de secção\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "2a9076ca655ea63d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Formação profissional de magistrados",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 30.º — Formação profissional de magistrados\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "ae33a8f2743d5100": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Formação de assessores dos tribunais",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 31.º — Formação de assessores dos tribunais\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "a530b1f55a3430fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Plano de actividades e relatório",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 32.º — Plano de actividades e relatório\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "62104555a563f97b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Ingresso",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 33.º — Ingresso\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "8dbf49dc7e297ab8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Vagas e abertura de concurso",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 34.º — Vagas e abertura de concurso\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "f0b9ed85090b907a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Requerimentos",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 35.º — Requerimentos\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "0876f750f8ab5e61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Listas de candidatos",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 36.º — Listas de candidatos\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "68504413e483e053": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Júris",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 37.º — Júris\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "93af58e71cb4d074": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Fases",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 38.º — Fases\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "1a62a4fb6d1e83b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Dispensa de testes",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 39.º — Dispensa de testes\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "e0c8bcd46d3448ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Fase escrita",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 40.º — Fase escrita\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "2ea3d865dc36dbf3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Fase oral",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 41.º — Fase oral\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "58354e306709ad9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Classificação da fase escrita",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 42.º — Classificação da fase escrita\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "4aadbc767b47a73e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Classificação da fase oral",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 43.º — Classificação da fase oral\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "7e3e77e1fc81ce3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Classificação final",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 44.º — Classificação final\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "754a196eba54c307": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Assessores",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 45.º — Assessores\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "5dff222204a56243": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Graduação",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 46.º — Graduação\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "8bb7643c00e53ebe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Reclamações",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 47.º — Reclamações\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "86f7b6449167303e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Efeitos das reclamações sobre a fase oral",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 48.º — Efeitos das reclamações sobre a fase oral\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "cd52ae67a3ac83f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Faltas",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 49.º — Faltas\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "30652e34d92d0062": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Validade das provas",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 50.º — Validade das provas\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "143b682a0aaa3e6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Preenchimento de lugares",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 51.º — Preenchimento de lugares\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "7b67fab6d7dbca54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Auditores de justiça",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 52.º — Auditores de justiça\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "ef6535abb96da632": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Direitos, deveres e incompatibilidades",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 53.º — Direitos, deveres e incompatibilidades\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "5d3654eda9d3a1a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Remuneração e regalias",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 54.º — Remuneração e regalias\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "c3ee4fe44eff4d08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Funcionários e agentes do Estado",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 55.º — Funcionários e agentes do Estado\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "13c81a95298bc7db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Objectivos",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 56.º — Objectivos\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "6aec84e3258bdd57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Conteúdo",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 57.º — Conteúdo\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "ef78b678c210c0e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Organização",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 11/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2002-239226), publicado em 2002-01-24.",
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 58.º — Organização\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 11/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2002-239226), publicado em 2002-01-24.\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "0384e5a850b336c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Ciclos de actividades",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 11/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2002-239226), publicado em 2002-01-24.",
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 59.º — Ciclos de actividades\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 11/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2002-239226), publicado em 2002-01-24.\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "af8959839e2a74fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Actividades no CEJ",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 60.º — Actividades no CEJ\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "514d4aa07a2dc78c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Actividades nos tribunais",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 61.º — Actividades nos tribunais\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "1a4b99108d2a095e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Colocação junto dos tribunais",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 62.º — Colocação junto dos tribunais\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "a650fb1346057f83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — Aproveitamento",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 63.º — Aproveitamento\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "f81420ea5f7c37d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Falta de assiduidade",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 64.º — Falta de assiduidade\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "28ae7e3cbda74ca3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — Classificação e graduação",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 65.º — Classificação e graduação\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "95355bf4d3fef9f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — Opção de magistratura",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 66.º — Opção de magistratura\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "58839dc6882c526e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — Efeitos da exclusão",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 67.º — Efeitos da exclusão\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "a559b6cf5ed110dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — Nomeação",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 68.º — Nomeação\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "4d5d3d1ef1de910f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — Organização",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-2000-514813), publicado em 2000-03-20.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 11/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2002-239226), publicado em 2002-01-24.",
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 69.º — Organização\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-2000-514813), publicado em 2000-03-20.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 11/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2002-239226), publicado em 2002-01-24.\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "72c4c90c92648a5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — Regime",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 70.º — Regime\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "9f10be31a04fb23e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — Objectivos",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 71.º — Objectivos\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "284932cdbf0f9ccd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º — Colocação definitiva",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 72.º — Colocação definitiva\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "f697f0f3ad7ec969": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º — Dever de permanência na magistratura",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 73.º — Dever de permanência na magistratura\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "2f470f205131af28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º — Objectivos",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 74.º — Objectivos\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "27992573afa389a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º — Organização",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 75.º — Organização\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "2eddc90ec9f1e64e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º — Objectivos",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 76.º — Objectivos\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "d9a90259693fc5a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º — Organização",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 77.º — Organização\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "f205a2e8e31a5792": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º — Plano anual",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 78.º — Plano anual\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "7b24a2980405eb22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — Actividades",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 79.º — Actividades\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "005531ffb1581ac1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º — Docentes e formadores",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 80.º — Docentes e formadores\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "7adc3eefd686d717": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º — Nomeação de docentes",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 81.º — Nomeação de docentes\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "bbd037aa20fae8fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82.º — Designação de formadores",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 82.º — Designação de formadores\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "ac24defbe646c181": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º — Regime de provimento de docentes",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 83.º — Regime de provimento de docentes\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "f88f12913da4ec2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º — Regime de remunerações",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 84.º — Regime de remunerações\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "90d6262c07f90fbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 85.º — Procedimento disciplinar",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 85.º — Procedimento disciplinar\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "657af98221e6cd34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º — Penas",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 86.º — Penas\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "5c9a464db4d45b9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 87.º — Suspensão preventiva",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 87.º — Suspensão preventiva\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "b64c2bf510b0b138": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 88.º — Aplicação das penas",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 88.º — Aplicação das penas\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "a4f926396aa7ba1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 89.º — Efeitos especiais das penas",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 89.º — Efeitos especiais das penas\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "f5ce1efc32b66904": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 90.º — Contagem dos prazos",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 90.º — Contagem dos prazos\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "261c76fab8c3780c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 91.º — Entrada em vigor",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 91.º — Entrada em vigor\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "932e0c3a9d44c521": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 92.º — Norma revogatória",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 92.º — Norma revogatória\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "844adba12f499b76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 93.º — Regime transitório",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 93.º — Regime transitório\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "09c8b48fca0863e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 94.º — Conselhos de gestão, pedagógico e de disciplina",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 94.º — Conselhos de gestão, pedagógico e de disciplina\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "1d2431b4927f2f41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 95.º — Directores e docentes",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 95.º — Directores e docentes\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "5bb2c1cd28369a51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 96.º — Pessoal",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 96.º — Pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "118d3b83bca99477": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 97.º — Director do gabinete de estudos jurídico-sociais",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 97.º — Director do gabinete de estudos jurídico-sociais\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+  },
+  "47047ddaaecd80bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 98.º — Regulamento interno",
+   "in_force_from": "2008-01-15",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14."
+   ],
+   "markdown": "###### Artigo 98.º — Regulamento interno\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 2/2008](https://diariodarepublica.pt/dr/detalhe/lei/2-2008-386626), publicado em 2008-01-14.\n\nAprovada em 19 de Fevereiro de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 18 de Março de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 26 de Março de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

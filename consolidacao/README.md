@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.317 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.329 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -52,6 +52,16 @@ A triagem refeita mudou só os 631 diplomas com um alterador novo: **412 sem alt
 Os 88 com instruções seguiram o fluxo normal: 50 em 17 pedidos completos (`llm_completo.py`) e 34 em 9 de texto corrido (`llm_corrido.py`), 26 subagentes Opus; a verificação letra a letra juntou 57. **6 saíram à mão** (estado `não junto` em `llm/juntados-completo.jsonl`, com o motivo): 5 que o LLM devolveu com todos os artigos "(Revogado.)" por um alterador que revoga o diploma inteiro (RCM 85/95, 92/94, 136/95 e 144/95, Portaria 780/99), que são "revogado por inteiro" e não uma consolidação, e a RCM 116/94, com uma revogação que só produz efeito quando o plano de pormenor entrar em vigor. Ronda 80 (`verificacao/entrada-piloto-80-lote-01..02.jsonl`, 25 vistas, verificadores Sonnet às cegas): 55 diplomas, **35 sem reparos**, que estão agora em `data/`. Os 20 com reparos são sobretudo anexos e quadros só em imagem, cabeçalhos de secção em falta e um artigo substituído que ficou duplicado (Despacho 2037/2026).
 
 **Correção no `acervo.py`:** um diploma da escala que também estava no piloto (Despacho 1941-A/2014) usava a seleção do piloto, em que o alterador ainda não estava no acervo. Agora um juntado da escala usa a seleção da escala (`_selecao_de`).
+
+### 6. Repedir os reparos de texto: ronda 81 (12/11/2026)
+
+Dos 807 diplomas cuja última ronda às cegas teve reparos, 487 falham por anexos, quadros, mapas ou imagens (não se resolvem com texto). Dos outros, 138 tinham só artigos `errado` ou `dúvida` e 161 uma instrução de texto em falta. Repediram-se os 100 mais citados (60 de pedido completo e 40 de texto corrido) com o mesmo método e a indicação de que já tinham falhado; ficaram de fora 6 pedidos acima de 450 mil caracteres (18 diplomas, entre eles o DL 227-B/2000). 24 subagentes Opus; a verificação letra a letra juntou 99.
+
+**Só 17 deram um texto diferente do que já tinha falhado** (`cegas.py` só põe numa ronda nova o consolidado que mudou): nos outros 82 o pedido novo reproduziu exatamente o mesmo resultado. Ronda 81 (`verificacao/entrada-piloto-81-lote-01.jsonl`, 9 vistas, verificadores Sonnet às cegas): **6 sem reparos**, aplicados (DL 439/73, Lei 16/98, Portarias 453/78, 640-Z/94 e 994/95, DRR 3/86/A). Os 11 com reparos repetem os padrões de antes: substituições terminológicas gerais não aplicadas, alíneas "[Actual alínea …]" por renumerar, valores inventados numa tabela, e republicações com erros que o consolidado copia (DL 55-A/2000).
+
+Conclusão: repedir com o mesmo método rende pouco (6 em 100). Para estes diplomas é preciso outra abordagem: repedir só os artigos `errado`, com o motivo do verificador, ou uma revisão humana.
+
+**Cuidado ao correr `juntar`:** o `llm_completo.py juntar` e o `llm_corrido.py juntar` reescrevem as entradas de todos os diplomas a partir das respostas guardadas. Isto desfez as 6 exclusões manuais da ronda 80 (revogados por inteiro e revogação adiada) e tirou o campo `passagens` aos 18 grandes; essas entradas e dois consolidados dos 18 (DL 202/2000 e DL 63-A/2013) foram repostos como estavam.
 
 ## Resultado em resumo
 

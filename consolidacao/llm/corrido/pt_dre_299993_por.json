@@ -3,16 +3,18 @@
   "substituicoes": [
     {
       "de": 9,
-      "ate": 34,
-      "texto": "Subchefe do Estado-Maior da Armada;\n\n2.º comandante do Comando Naval do Continente;\n\n2.º comandante do Comando Naval dos Açores;\n\n2.º comandante da Base Naval de Lisboa;\n\nSubdirector do Instituto Superior Naval de Guerra;\n\nImediato da Escola Naval;\n\nDirector técnico-científico do Instituto Hidrográfico;\n\nDirector dos Serviços de Documentação do Instituto Hidrográfico;\n\nDirector dos Serviços de Apoio do Instituto Hidrográfico;\n\nSubdirector do Hospital da Marinha;\n\nSubdirector da Direcção de Faróis;\n\nSubdirector da Fábrica Nacional de Cordoaria;\n\nSubdirector da Direcção de Abastecimento;\n\n2.º comandante do Corpo de Fuzileiros;\n\n2.º comandante da Força de Fuzileiros do Continente;\n\nImediato da Escola de Fuzileiros;\n\nImediato do Grupo n.º 1 de Escolas da Armada;\n\nImediato do Grupo n.º 2 de Escolas da Armada;\n\nDirectores das Messes de Lisboa, do Alfeite e de Cascais;\n\nDirector de instrução da Escola de Fuzileiros;\n\nDirector de instrução do Centro de Instrução por Correspondência;\n\nComandante de grupo de companhias do Grupo n.º 1 de Escolas da Armada;\n\nComandante de grupo de companhias do Grupo n.º 2 de Escolas da Armada;\n\nDirector de instrução de cursos não integrados em escolas do Grupo n.º 2 de Escolas da Armada;\n\nChefe do Centro de Comunicações do Comando Naval do Continente;\n\nComandantes dos Batalhões n.os 1, 2 e 3 de Fuzileiros;\n\n2.os comandantes dos Batalhões n.os 1, 2 e 3 de Fuzileiros;\n\nComandantes de companhia dos Batalhões n.os 1, 2 e 3 de Fuzileiros;\n\nComandantes da Unidade de Apoio de Fogos, da Unidade de Apoio de Transportes Tácticos e da Unidade de Apoio de Meios Aquáticos;\n\n2.º comandante da Esquadrilha de Submarinos.",
+      "ate": 33,
+      "texto": "Subchefe do Estado-Maior da Armada;\n\n2.º comandante do Comando Naval do Continente;\n\n2.º comandante do Comando Naval dos Açores;\n\n2.º comandante da Base Naval de Lisboa;\n\nSubdirector do Instituto Superior Naval de Guerra;\n\nImediato da Escola Naval;\n\nDirector técnico-científico do Instituto Hidrográfico;\n\nDirector dos Serviços de Documentação do Instituto Hidrográfico;\n\nDirector dos Serviços de Apoio do Instituto Hidrográfico;\n\nSubdirector do Hospital da Marinha;\n\nSubdirector da Direcção de Faróis;\n\nSubdirector da Fábrica Nacional de Cordoaria;\n\nSubdirector da Direcção de Abastecimento;\n\n2.º comandante do Corpo de Fuzileiros;\n\n2.º comandante da Força de Fuzileiros do Continente;\n\nImediato da Escola de Fuzileiros;\n\nImediato do Grupo n.º 1 de Escolas da Armada;\n\nImediato do Grupo n.º 2 de Escolas da Armada;\n\nDirectores das Messes de Lisboa, do Alfeite e de Cascais;\n\nDirector de instrução da Escola de Fuzileiros;\n\nDirector de instrução do Centro de Instrução por Correspondência;\n\nComandante de grupo de companhias do Grupo n.º 1 de Escolas da Armada;\n\nComandante de grupo de companhias do Grupo n.º 2 de Escolas da Armada;\n\nDirector de instrução de cursos não integrados em escolas do Grupo n.º 2 de Escolas da Armada;\n\nChefe do Centro de Comunicações do Comando Naval do Continente;\n\nComandantes dos Batalhões n.os 1, 2 e 3 de Fuzileiros;\n\n2.os comandantes dos Batalhões n.os 1, 2 e 3 de Fuzileiros;\n\nComandantes de companhia dos Batalhões n.os 1, 2 e 3 de Fuzileiros;\n\nComandantes da Unidade de Apoio de Fogos, da Unidade de Apoio de Transportes Tácticos e da Unidade de Apoio de Meios Aquáticos;",
       "alterador": 4
     }
   ],
   "insercoes": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alteradores 1, 2 e 3: novas redacções da relação anexa, sucessivamente substituídas (as Portarias 595/79 e 386/81 foram revogadas pelas seguintes).",
-    "Alterador 4: nova redacção integral da relação anexa; substitui as unidades 9 a 34 pela lista da Portaria n.º 882/82."
+    "Alterador 1 (Portaria 465/79): nova redação da relação anexa (Instituto Hidrográfico), superada pelas redações seguintes",
+    "Alterador 2 (Portaria 595/79): nova redação integral da relação anexa, superada (e revogada pela Portaria 386/81)",
+    "Alterador 3 (Portaria 386/81): nova redação integral da relação anexa, superada; o 2.º revoga a Portaria 595/79, não o original",
+    "Alterador 4 (Portaria 882/82): nova redação integral da relação anexa; unidades 9 a 33 substituídas pelo texto do alterador 4 (a 34 fica igual); o 2.º revoga a Portaria 386/81, não o original"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
