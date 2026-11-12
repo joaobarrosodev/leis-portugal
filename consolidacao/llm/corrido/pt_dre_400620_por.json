@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:400620:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "4.º Ao pessoal docente serão atribuídas as seguintes gratificações mensais:\n\nPessoal com categoria superior à letra H, inclusive ... 4000$00\n\nPessoal com categorias compreendidas entre as letras I e L, inclusive ... 2000$00\n\nOutro pessoal ... 1000$00",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 195/73: nova redação do n.º 4.º (tabela de gratificações mensais) -> substituída a unidade 8"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

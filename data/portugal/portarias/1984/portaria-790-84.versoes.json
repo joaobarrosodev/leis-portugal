@@ -1,0 +1,62 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:400042:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-10-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "62a23463fc74e3ca"
+   ]
+  },
+  {
+   "date": "1985-05-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152349:por",
+     "title": "Portaria n.º 262/85",
+     "published": "1985-05-09",
+     "dre_path": "/dr/detalhe/portaria/262-1985-152349"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 12-12",
+    "Altera Artigo unidades 13-14",
+    "Altera Artigo unidades 18-18",
+    "Altera Artigo unidades 26-26"
+   ],
+   "fragments": [
+    "dd93c04abe1c812e"
+   ]
+  }
+ ],
+ "fragments": {
+  "62a23463fc74e3ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Outubro\n\nConsiderando que importa adequar o processo de definição do número, funções, composição e normas de funcionamento dos conselhos científicos do Instituto Nacional de Investigação Científica às novas situações que têm surgido, consequência do progresso científico e tecnológico:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, nos termos do artigo 1.º do [Decreto-Lei n.º 306/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1984-399248), de 19 de Setembro, o seguinte:\n\n1.º O Instituto Nacional de Investigação Científica (INIC) disporá dos seguintes conselhos científicos:\n\na) Conselho científico das Ciências Exactas;\n\nb) Conselho científico das Ciências Naturais;\n\nc) Conselho científico das Ciências Humanas;\n\nd) Conselho científico das Ciências Sociais;\n\ne) Conselho científico das Ciências da Saúde;\n\nf) Conselho científico das Ciências da Engenharia.\n\n2.º Os conselhos científicos do INIC serão compostos por professores universitários, investigadores e individualidades de reconhecida competência da área científica correspondente, a nomear nos termos do artigo 47.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 28 de Setembro.\n\n3.º Compete aos conselhos científios do INIC, no âmbito dos respectivos domínios:\n\na) Pronunciar-se sobre os planos anuais e plurianuais de actividades científicas dos organismos, bem como sobre as respectivas propostas de orçamento;\n\nb) Pronunciar-se sobre os relatórios de actividades científicas dos organismos dependentes;\n\nc) Dar parecer sobre a criação, reconversão ou extinção de centros e de outros organismos dependentes;\n\nd) Propor à comissão executiva do INIC os critérios de concessão de bolsas de estudo no País e fora do País;\n\ne) Propor à comissão executiva do INIC os critérios e selecção e financiamento de projectos e programas de investigação;\n\nf) Propor à comissão executiva do INIC os critérios de financiamento ou concessão de subsídios para reuniões científicas e para publicações de carácter científico ou técnico;\n\ng) Apreciar, em função dos critérios aprovados, todos os processos que sejam submetidos à sua apreciação;\n\nh) Solicitar parecer a individualidades nacionais ou estrangeiras, sempre que o entenderem conveniente, para a prossecução das suas atribuições.\n\n4.º Os conselhos científicos reúnem por convocação do presidente do INIC ou da entidade em quem o mesmo delegar essa competência.\n\n5.º Os conselhos científicos poderão funcionar em plenário ou em comissões, constituídas por especialistas de áreas científicas restritas, que prestarão aos presidentes dos respectivos conselhos o apoio solicitado, formulando pareceres nos domínios das suas competências.\n\n6.º:\n\na) As comissões serão homologadas por despacho do presidente do INIC e compreenderão entre 2 e 4 membros;\n\nb) As comissões reunirão por convocação do presidente do INIC, nos termos do n.º 4.º, ainda quando os seus membros o entenderem conveniente.\n\n7.º As deliberações dos conselhos científicos só produzirão efeitos quando tomadas pela maioria dos membros em efectividade de funções.\n\n8.º Das reuniões dos conselhos científicos e das suas comissões serão exaradas actas.\n\n9.º As normas de funcionamento interno de cada conselho científico serão estabelecidas por despacho do presidente do INIC.\n\nMinistério da Educação.\n\nAssinada em 6 de Junho de 1984.\n\nO Ministro da Educação, José Augusto Seabra."
+  },
+  "dd93c04abe1c812e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1985-05-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 262/85](https://diariodarepublica.pt/dr/detalhe/portaria/262-1985-152349), publicado em 1985-05-09.",
+    "Alterado pelo/a [Portaria n.º 262/85](https://diariodarepublica.pt/dr/detalhe/portaria/262-1985-152349), publicado em 1985-05-09.",
+    "Alterado pelo/a [Portaria n.º 262/85](https://diariodarepublica.pt/dr/detalhe/portaria/262-1985-152349), publicado em 1985-05-09.",
+    "Alterado pelo/a [Portaria n.º 262/85](https://diariodarepublica.pt/dr/detalhe/portaria/262-1985-152349), publicado em 1985-05-09."
+   ],
+   "markdown": "de 9 de Outubro\n\nConsiderando que importa adequar o processo de definição do número, funções, composição e normas de funcionamento dos conselhos científicos do Instituto Nacional de Investigação Científica às novas situações que têm surgido, consequência do progresso científico e tecnológico:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, nos termos do artigo 1.º do [Decreto-Lei n.º 306/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1984-399248), de 19 de Setembro, o seguinte:\n\n1.º O Instituto Nacional de Investigação Científica (INIC) disporá dos seguintes conselhos científicos:\n\na) Conselho científico das Ciências Exactas;\n\nb) Conselho científico das Ciências Naturais;\n\nc) Conselho científico das Ciências Humanas;\n\nd) Conselho científico das Ciências Sociais;\n\ne) Conselho científico das Ciências da Saúde;\n\nf) Conselho científico das Ciências da Engenharia.\n\n2.º Os conselhos científicos do INIC serão compostos por professores universitários, investigadores e individualidades de reconhecida competência da área científica correspondente, a nomear nos termos do artigo 46.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 28 de Setembro.\n\n> Alterado pelo/a [Portaria n.º 262/85](https://diariodarepublica.pt/dr/detalhe/portaria/262-1985-152349), publicado em 1985-05-09.\n\n3.º Compete aos conselhos científicos do INIC, no âmbito dos respectivos domínios:\n\na) Pronunciar-se sobre os planos anuais e plurianuais das actividades científicas dos organismos, bem como sobre as respectivas propostas de orçamento;\n\n> Alterado pelo/a [Portaria n.º 262/85](https://diariodarepublica.pt/dr/detalhe/portaria/262-1985-152349), publicado em 1985-05-09.\n\nb) Pronunciar-se sobre os relatórios de actividades científicas dos organismos dependentes;\n\nc) Dar parecer sobre a criação, reconversão ou extinção de centros e de outros organismos dependentes;\n\nd) Propor à comissão executiva do INIC os critérios de concessão de bolsas de estudo no País e fora do País;\n\ne) Propor à comissão executiva do INIC os critérios, selecção e financiamento de projectos e programas de investigação;\n\n> Alterado pelo/a [Portaria n.º 262/85](https://diariodarepublica.pt/dr/detalhe/portaria/262-1985-152349), publicado em 1985-05-09.\n\nf) Propor à comissão executiva do INIC os critérios de financiamento ou concessão de subsídios para reuniões científicas e para publicações de carácter científico ou técnico;\n\ng) Apreciar, em função dos critérios aprovados, todos os processos que sejam submetidos à sua apreciação;\n\nh) Solicitar parecer a individualidades nacionais ou estrangeiras, sempre que o entenderem conveniente, para a prossecução das suas atribuições.\n\n4.º Os conselhos científicos reúnem por convocação do presidente do INIC ou da entidade em quem o mesmo delegar essa competência.\n\n5.º Os conselhos científicos poderão funcionar em plenário ou em comissões, constituídas por especialistas de áreas científicas restritas, que prestarão aos presidentes dos respectivos conselhos o apoio solicitado, formulando pareceres nos domínios das suas competências.\n\n6.º:\n\na) As comissões serão homologadas por despacho do presidente do INIC e compreenderão entre 2 e 4 membros;\n\nb) As comissões reunirão por convocação do presidente do INIC, nos termos do n.º 4.º, ou ainda quando os seus membros o entenderem conveniente.\n\n> Alterado pelo/a [Portaria n.º 262/85](https://diariodarepublica.pt/dr/detalhe/portaria/262-1985-152349), publicado em 1985-05-09.\n\n7.º As deliberações dos conselhos científicos só produzirão efeitos quando tomadas pela maioria dos membros em efectividade de funções.\n\n8.º Das reuniões dos conselhos científicos e das suas comissões serão exaradas actas.\n\n9.º As normas de funcionamento interno de cada conselho científico serão estabelecidas por despacho do presidente do INIC.\n\nMinistério da Educação.\n\nAssinada em 6 de Junho de 1984.\n\nO Ministro da Educação, José Augusto Seabra."
+  }
+ }
+}

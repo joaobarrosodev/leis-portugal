@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-11-16'
+version_history:
+  file: despacho-normativo-149-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-11-16'
+    amending: pt:dre:690794:por
+    amending_title: Despacho Normativo n.º 355/93; Despacho Normativo n.º 355/93
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/149/1993/07/12/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:01:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 355/93; Despacho
+    Normativo n.º 355/93. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-149-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,6 +143,8 @@ Determina-se o seguinte:
 
 1 - É criado no quadro da Direcção-Geral dos Serviços de Gestão e Organização, aprovado pela [Portaria n.º 110/93](https://diariodarepublica.pt/dr/detalhe/portaria/110-1993-599877), de 30 de Janeiro, um lugar de técnico superior principal da carreira de técnico superior de biblioteca e documentação, a extinguir quando vagar.
 
-2 - A criação do lugar referido no número anterior produz efeitos desde 10 de Junho de 1992, considerando-se tais efeitos como reportados ao quadro da ex-Biblioteca Nacional até à entrada em vigor da portaria referida no número anterior.
+2 - A criação do lugar referido no número anterior produz efeitos a partir de 1 de Abril de 1992, considerando-se tais efeitos como reportados ao quadro da ex-Biblioteca Nacional até à entrada em vigor da portaria referida no número anterior.
+
+> Alterado pelo/a [Despacho Normativo n.º 355/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/355-1993-690794), publicado em 1993-11-11.
 
 Presidência do Conselho de Ministros e Ministério das Finanças, 7 de Maio de 1993. - O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite.

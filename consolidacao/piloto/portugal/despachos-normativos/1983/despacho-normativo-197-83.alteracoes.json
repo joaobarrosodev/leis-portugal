@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º-A - A comissão consultiva do Mercado Abastecedor de Chaves de Oliveira, constituída nos termos do artigo 26.º do Regulamento dos Mercados Abastecedores de Frutas e Produtos Hortícolas, terá a seguinte composição alargada:",
+    "depois": "6.º-A. A comissão consultiva do Mercado Abastecedor de Chaves de Oliveira, constituída nos termos do artigo 26.º do Regulamento dos Mercados Abastecedores de Frutas e Produtos Hortícolas, na nova redacção dada pelo [Decreto-Lei n.º 348/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1984-400577), de 29 de Outubro, terá a seguinte composição alargada:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:441740:por",
+    "alterador": "pt:dre:178341:por"
+  },
+  {
+    "artigo": "unidades 5-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) 1 representante da Direcção-Geral do Comércio;\n\nc) 1 representante da Direcção-Geral de Fiscalização Económica;\n\nd) 1 representante da Junta Nacional das Frutas;\n\ne) 1 representante da Associação Nacional dos Armazenistas, Importadores e Exportadores de Frutas e Produtos Hortícolas;\n\nf) 1 representante da Confederação dos Agricultores de Portugal;\n\ng) 1 representante dos descarregadores e dos transportadores;\n\nh) 1 representante da Federação do Comércio Retalhista Português;\n\ni) 1 representante dos mandatários;\n\nj) 1 representante da Direcção de Saúde do Porto;\n\nk) 1 representante da Câmara Municipal do Porto;\n\nl) 1 membro da comissão administrativa;\n\nm) 1 membro da comissão de fiscalização.",
+    "depois": "b) 1 representante da Direcção-Geral do Comércio Interno;\n\nc) 1 representante da Direcção-Geral de Concorrência e Preços;\n\nd) 1 representante do Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares;\n\ne) 1 representante da Direcção-Geral da Inspecção Económica;\n\nf) 1 representante da Junta Nacional das Frutas;\n\ng) 1 representante da Confederação dos Agricultores de Portugal;\n\nh) 1 representante da Associação Nacional dos Armazenistas, Importadores e Exportadores de Frutas e Produtos Hortícolas;\n\ni) 1 representante dos descarregadores e dos transportadores;\n\nj) 1 representante da Federação do Comércio Retalhista Português;\n\nk) 1 representante da Administração Regional de Saúde do Porto;\n\nl) 1 membro da comissão administrativa;\n\nm) 1 representante da Câmara Municipal do Porto;\n\nn) 1 representante dos mandatários;\n\no) 1 membro da comissão de fiscalização.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:441740:por",
+    "alterador": "pt:dre:178341:por"
+  }
+]

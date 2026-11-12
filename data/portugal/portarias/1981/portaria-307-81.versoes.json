@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:389376:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1981-03-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e74ebc2f821ba88f"
+   ]
+  },
+  {
+   "date": "1981-05-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:573683:por",
+     "title": "Portaria n.º 406/81",
+     "published": "1981-05-21",
+     "dre_path": "/dr/detalhe/portaria/406-1981-573683"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-5"
+   ],
+   "fragments": [
+    "11b59bc8a641b363"
+   ]
+  }
+ ],
+ "fragments": {
+  "e74ebc2f821ba88f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Março\n\nO [Decreto-Lei n.º 299/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1980-470785), de 16 de Agosto, autorizou a cunhagem, pela Imprensa Nacional-Casa da Moeda, de moedas comemorativas da autonomia regional dos Açores.\n\nNestes termos e ao abrigo do disposto nos artigos 2.º, 3.º, 4.º e 5.º do supramencionado diploma legal:\n\nManda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, aprovar, sob proposta do Governo Regional dos Açores, a emissão de 27 milhões de escudos em moedas de 100$00 alusivas à Região Autónoma dos Açores, em conformidade com os desenhos do verso e reverso da moeda, que junto se publicam.\n\nMinistério das Finanças e do Plano, 5 de Fevereiro de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/07500/08010802.pdf)"
+  },
+  "11b59bc8a641b363": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1981-05-21",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 406/81](https://diariodarepublica.pt/dr/detalhe/portaria/406-1981-573683), publicado em 1981-05-21."
+   ],
+   "markdown": "de 31 de Março\n\nO [Decreto-Lei n.º 299/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1980-470785), de 16 de Agosto, autorizou a cunhagem, pela Imprensa Nacional-Casa da Moeda, de moedas comemorativas da autonomia regional dos Açores.\n\nNestes termos e ao abrigo do disposto nos artigos 2.º, 3.º, 4.º e 5.º do supramencionado diploma legal:\n\nAprovar, sob proposta do Governo Regional dos Açores, a emissão de 19250000$00, em moedas de 25$00, e 27000000$00, em moedas de 100$00, alusivas à Região Autónoma dos Açores.\n\nO verso e anverso das moedas em causa serão em tudo conformes com os desenhos que junto se publicam, excepto no respeitante aos algarismos, que deverão ser, na de 25$00, 25 em lugar de 100.\n\n> Alterado pelo/a [Portaria n.º 406/81](https://diariodarepublica.pt/dr/detalhe/portaria/406-1981-573683), publicado em 1981-05-21.\n\nMinistério das Finanças e do Plano, 5 de Fevereiro de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/07500/08010802.pdf)"
+  }
+ }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - No caso de os beneficiários referidos no número anterior receberem uma pensão de reforma ou de invalidez, qualquer que seja o regime de segurança social, a indemnização compensatória complementar extraordinária será paga a título de ajudas nacionais.",
+    "depois": "2 - No caso de os beneficiários referidos no número anterior receberem uma pensão de reforma ou de invalidez, qualquer que seja o regime de segurança social, bem como no caso das fundações, a indemnização compensatória complementar extraordinária será paga a título de ajudas nacionais.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:431575:por",
+    "alterador": "pt:dre:160512:por"
+  },
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - O montante da indemnização compensatória complementar extraordinária é fixado para bovinos, ovinos, caprinos e equídeos, convertidos em cabeças normais de acordo com a tabela de conversão constante do anexo IV a este diploma, do qual faz parte integrante, e por hectare de superfície cultivada com olival, até ao limite, por beneficiário, de 120 CN ou hectare, sem prejuízo do disposto nos números seguintes.",
+    "depois": "2 - O montante da indemnização compensatória complementar extraordinária é fixado para os bovinos, ovinos, caprinos e equídeos, convertidos em cabeças normais, de acordo com a tabela de conversão constante do anexo IV a este diploma, do qual faz parte integrante, e por hectare de superfície cultivada com olival, até ao limite, por beneficiário ou por núcleo, no caso das fundações, de 120 CN ou hectares, sem prejuízo do disposto nos números seguintes.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:431575:por",
+    "alterador": "pt:dre:160512:por"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:395343:por",
+  "artigos": [
+    {
+      "chave": "ANEXO II — (a que se refere o n.º 2.º)::5.º",
+      "epigrafe": "Utilização, prazo e condições financeiras",
+      "texto": "1 - Os empréstimos são concedidos pelo prazo máximo de quatro anos e amortizáveis anualmente, em prestações de igual montante, vencendo-se a primeira amortização, no máximo, dois anos após a data prevista para a primeira utilização.\n\n2 - A utilização dos empréstimos é realizada no prazo máximo de seis meses após a data do contrato, podendo efectuar-se até quatro utilizações por operação.\n\n3 - Os empréstimos vencem juros, contados dia a dia sobre o capital efectivamente utilizado, à taxa de juro anual contratada. Os juros são calculados e pagos anual e postecipadamente.\n\n4 - São atribuídas as seguintes bonificações de juros:\n\nLinha de crédito para os pequenos produtores:\n\n1.º ano - 100% da taxa de referência;\n\n2.º ano - 100% da taxa de referência;\n\n3.º ano - 100% da taxa de referência;\n\nLinha de crédito para os restante produtores:\n\n1.º ano - 80% da taxa de referência;\n\n2.º ano - 60% da taxa de referência;\n\n3.º ano - 40% da taxa de referência.\n\n5 - As percentagens referidas no número anterior são aplicadas sobre a taxa de referência criada pelo [Decreto-Lei n.º 359/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1989-549393), de 18 de Outubro, em vigor no início do período de contagem de juros, salvo se aquela for superior à taxa activa praticada pela instituição de crédito, caso em que aquelas percentagens são aplicadas sobre esta última.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 1209/2000 dá nova redação ao n.º 1 do artigo 5.º do anexo II (primeira amortização até dois anos): aplicado, resto do artigo mantido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

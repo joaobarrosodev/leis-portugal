@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:456856:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-05-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f964dad23f917547",
+    "30ab9657adc229ba"
+   ]
+  },
+  {
+   "date": "1997-03-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:518385:por",
+     "title": "Portaria n.º 191/97",
+     "published": "1997-03-20",
+     "dre_path": "/dr/detalhe/portaria/191-1997-518385"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 19-19",
+    "Altera Artigo unidades 21-21",
+    "Altera Artigo unidades 24-24",
+    "Altera Artigo unidades 28-46",
+    "Altera Artigo unidades 47-51"
+   ],
+   "fragments": [
+    "f964dad23f917547",
+    "75a8f589be3b01cd"
+   ]
+  }
+ ],
+ "fragments": {
+  "f964dad23f917547": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Maio\n\nA carreira dos técnicos superiores de saúde, instituída pelo [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, impôs maiores exigências e responsabilidades no exercício das funções inerentes aos diversos ramos de actividade, requerendo elevado nível de formação pós-graduada através de estágios pré-carreira conferentes do grau de especialista.\n\nO [Decreto-Lei n.º 241/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), de 22 de Setembro, com o aditamento introduzido pela [Portaria n.º 1109/95](https://diariodarepublica.pt/dr/detalhe/portaria/1109-1995-550982), de 9 de Setembro, incluiu o ramo de psicologia clínica nos ramos de actividades da carreira dos técnicos superiores de saúde, previstos no artigo 9.º do citado [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424).\n\nAs necessidades e os cuidados cada vez mais diferenciados dos serviços de saúde obrigam a uma especialização exigente e criteriosa dos seus profissionais.\n\nPor outro lado, a evolução dos conhecimentos em saúde mental resulta essencialmente de um trabalho em equipa ou de cooperação interdisciplinar, que exige um desenvolvimento especializado em cada uma das disciplinas intervenientes, o que torna necessário organizar e regulamentar o estágio de especialização na área de psicologia clínica que confira uma formação técnico-científica, a par de uma prática clínica supervisionada.\n\nAssim, ao abrigo do disposto no n.º 6 do artigo 6.º do [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro:\n\nManda o Governo, pela Ministra da Saúde, o seguinte:\n\n1.º É aprovado o programa de formação do estágio do ramo de psicologia clínica da carreira de técnicos superiores de saúde, anexo à presente portaria e que dela é parte integrante.\n\n2.º A aplicação e desenvolvimento do programa compete aos órgãos e agentes responsáveis pela formação nos estágios, devendo ser assegurada a maior uniformidade a nível nacional.\n\nMinistério da Saúde.\n\nAssinada em 22 de Abril de 1996.\n\nA Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina."
+  },
+  "30ab9657adc229ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1 - Objectivos gerais:\n\n1.1 - Complementar a formação científica e técnica de base das licenciaturas previstas para o ingresso no ramo de psicologia clínica;\n\n1.2 - Conferir ao estagiário formação especializada, teórica e prática, para o exercício autónomo funcional e tecnicamente diferenciado na área de psicologia clínica;\n\n1.3 - Facilitar o desenvolvimento do sentido de responsabilidade, espírito de iniciativa, aperfeiçoamento e actualização profissional permanentes, bem como do espírito de equipa em geral e em especial na sua actuação técnico-profissional e científica;\n\n1.4 - Proporcionar uma experiência alargada e supervisionada de intervenções psicoterapêuticas nos vários modelos teóricos adoptados nos serviços.\n\n2 - Objectivos específicos:\n\n2.1 - Implementar programas de acção específicos (técnicas de observação, de entrevista, de psicodiagnóstico, psicoterapia individual ou de grupo, projectos de investigação científica);\n\n2.2 - Identificar, prevenir e tratar problemas psicológicos nos indivíduos e nos grupos;\n\n2.3 - Avaliação psicodiagnóstica de indivíduos e de grupos;\n\n2.4 - Intervenção psicoterapêutica individual, conjugal, familiar e de grupo;\n\n2.5 - Avaliar a qualidade e eficácia das intervenções adoptadas;\n\n2.6 - Colaborar no desenvolvimento de metodologias de investigação na área da saúde e no aperfeiçoamento e criação de novos instrumentos de avaliação.\n\n3 - Desenvolvimento do estágio:\n\n3.1 - Conteúdo - o estágio deverá abranger o estudo e tratamento psicológico do indivíduo nos seus diversos ciclos de vida. Neste sentido, consideram-se obrigatórias as seguintes áreas:\n\nPsicologia e psicopatologia infantil e juvenil;\n\nPsicologia e psicopatologia do adulto.\n\nEm cada uma destas áreas principais o estagiário deverá participar em todas as actividades da equipa que integra, tal como enunciado nos objectivos específicos.\n\nDeverá ainda frequentar obrigatoriamente um curso teórico, organizado para esse fim. Os cursos teóricos abordarão os grandes temas da psicologia clínica numa perspectiva evolutiva, tendo como objectivo o aprofundamento teórico da psicopatologia e das intervenções psicoterapêuticas e a actualização dos novos conhecimentos no campo do psicodiagnóstico e da investigação.\n\nA fim de complementar a sua formação nas áreas acima mencionadas, deve o estagiário frequentar seminários, cursos, conferências ou outras acções formativas relacionadas com os seguintes temas:\n\nPsicologia do desenvolvimento e saúde infantil;\n\nPsicologia e psicopatologia da adolescência;\n\nDeficiência mental e reabilitação;\n\nToxicodependência;\n\nSaúde familiar e comunitária;\n\nPsicogeriatria;\n\nEpidemiologia e prevenção;\n\nNeuropsicologia;\n\nPsicodiagnóstico;\n\nPsicologia forense;\n\nPsicofarmacologia;\n\nModelos e técnicas psicoterapêuticas (modelo comportamental e cognitivo, modelo sistémico, modelo psicodinâmico);\n\nMetodologia da investigação.\n\n3.2 - Calendarização do estágio - o estágio organiza-se em três períodos anuais, sendo um ano dedicado à psicologia e psicopatologia infantil e juvenil, outro dedicado à psicologia e psicopatologia do adulto e o terceiro ano opcional. Neste último ano de estágio, a formação será levada a cabo através de cursos magistrais, seminários e conferências, orientados por especialistas de reconhecida competência nos domínios da psicologia clínica e da saúde, para além das actividades de consulta com supervisão.\n\nO estágio poderá iniciar-se por qualquer um dos módulos principais. Num e noutro casos, o estágio pode ser efectuado em serviços de saúde mental ou em outros serviços de saúde de cariz diverso, como cardiologia, neurologia, pediatria, centros de reabilitação, centros ou serviços de patologias específicas, nunca podendo ser prejudicada a formação em psicologia e psicopatologia infantil e juvenil e de adultos.\n\nA formação clínica realizar-se-á nos diversos serviços sempre supervisionada por um psicólogo clínico com mais de cinco anos de prática, em coordenação com o director do respectivo serviço ou com o chefe da equipa que integra.\n\nCompete à comissão de coordenação dos estágios esta articulação.\n\nO estágio deve compreender 50% de prática clínica supervisionada (avaliação e intervenção) e 50% de formação teórica.\n\nO estagiário deverá participar em todas as actividades desenvolvidas pelo serviço que digam respeito à sua formação, nomeadamente nas reuniões técnico-científicas (discussão de casos e orientação clínica) com outros profissionais.\n\nDeverá participar ainda em sessões teórico-práticas de discussão, com base no trabalho clínico por si realizado, para além da pesquisa bibliográfica necessária.\n\n3.3 - Local do estágio - o estágio terá lugar em instituições e serviços de reconhecida idoneidade técnico-científica, a determinar pelo Ministério da Saúde.\n\n3.4 - Duração do estágio - o estágio tem a duração de três anos."
+  },
+  "75a8f589be3b01cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": "1997-03-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20.",
+    "Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20.",
+    "Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20.",
+    "Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20.",
+    "Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20."
+   ],
+   "markdown": "## ANEXO\n\n1 - Objectivos gerais:\n\n1.1 - Complementar a formação científica e técnica de base das licenciaturas previstas para o ingresso no ramo de psicologia clínica;\n\n1.2 - Conferir ao estagiário formação especializada, teórica e prática, para o exercício autónomo funcional e tecnicamente diferenciado na área de psicologia clínica;\n\n1.3 - Facilitar o desenvolvimento do sentido de responsabilidade, espírito de iniciativa, aperfeiçoamento e actualização profissional permanentes, bem como do espírito de equipa em geral e em especial na sua actuação técnico-profissional e científica;\n\n1.4 - Proporcionar uma experiência alargada e supervisionada de diferentes modelos e técnicas psicológicas.\n\n> Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20.\n\n2 - Objectivos específicos:\n\n2.1 - Implementar programas de acção específicos, técnicas de observação, de entrevista, de avaliação psicológica, psicoterapia individual ou de grupo, projectos de investigação científica, ou outras acções científicas e técnicas no campo da saúde;\n\n> Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20.\n\n2.2 - Identificar, prevenir e tratar problemas psicológicos nos indivíduos e nos grupos;\n\n2.3 - Avaliação psicodiagnóstica de indivíduos e de grupos;\n\n2.4 - Intervenção psicológica individual, conjugal, familiar e de grupos;\n\n> Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20.\n\n2.5 - Avaliar a qualidade e eficácia das intervenções adoptadas;\n\n2.6 - Colaborar no desenvolvimento de metodologias de investigação na área da saúde e no aperfeiçoamento e criação de novos instrumentos de avaliação.\n\n3 - Desenvolvimento do estágio:\n\n3.1 - Conteúdo - o estágio deverá abranger o estudo e tratamento psicológico do indivíduo no seu ciclo de vida. Neste sentido, considera-se obrigatória a formação teórico-prática em avaliação e intervenção psicológica, tais como as psicopatologias, as psicoterapias e a psicologia da saúde.\n\nEm cada uma destas áreas, o estagiário deverá participar em todas as actividades da equipa que integra, tal como enunciado nos objectivos específicos.\n\nDeverá ainda frequentar cursos teóricos, organizados para esse fim. Os cursos teóricos abordarão os grandes temas da psicologia clínica e da saúde numa perspectiva evolutiva, tendo como objectivo o aprofundamento dos conhecimentos e metodologias de avaliação, intervenção e investigação psicológicas.\n\nA fim de complementar a sua formação nas áreas acima mencionadas, deve o estagiário frequentar seminários, cursos, conferências ou outras acções formativas relacionadas com temas pertinentes para os serviços.\n\n> Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20.\n\n3.2 - Calendarização do estágio - o estágio organiza-se em três períodos anuais. Os primeiros dois anos serão dedicados aos modelos e métodos de avaliação e intervenção psicológicas. No último ano de estágio a formação será levada a cabo através de cursos intensivos, seminários e conferências, orientados por especialistas de reconhecida competência nos domínios da psicologia clínica e da saúde, para além das actividades de consulta com supervisão.\n\nO estágio pode ser efectuado em quaisquer serviços de saúde, incluindo serviços de saúde mental, cardiologia, neurologia, pediatria, centros de reabilitação, centros de saúde e outros serviços de cariz diverso ou de patologias específicas (hospitais e outras instituições de saúde).\n\nA formação clínica realizar-se-á nos diversos serviços sempre supervisionada por um psicólogo clínico com cinco ou mais anos de prática.\n\n> Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20.\n\nO estagiário deverá participar em todas as actividades desenvolvidas pelo serviço que digam respeito à sua formação, nomeadamente nas reuniões técnico-científicas (discussão de casos e orientação clínica) com outros profissionais.\n\nDeverá participar ainda em sessões teórico-práticas de discussão, com base no trabalho clínico por si realizado, para além da pesquisa bibliográfica necessária.\n\n3.3 - Local do estágio - o estágio terá lugar em instituições e serviços de reconhecida idoneidade técnico-científica, a determinar pelo Ministério da Saúde.\n\n3.4 - Duração do estágio - o estágio tem a duração de três anos."
+  }
+ }
+}

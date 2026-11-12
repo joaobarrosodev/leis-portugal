@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:383028:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 81,
+      "texto": "1 - Veículos automóveis:\n\n1.1 - Para serviços gerais:\n\n1.1.1 - Tipo A, não especificados:\n\nPreço: até 300 contos.\n\nCilindrada: até 1000 cm3.\n\nPotência: até 45 cv DIN a 5800 r. p. m.\n\n1.1.2 - Tipo B, para passageiros:\n\nPreço: até 400 contos.\n\nCilindrada: até 1300 cm3.\n\nPotência: até 65 cv DIN a 5800 r. p. m.\n\n1.2 - Pare uso pessoal:\n\nPreço: até 980 contos.\n\nCilindrada: até 2300 cm3.\n\nPotência: até 85 cv DIN 5800 r. p. m.\n\n1.3 - Para serviços extraordinários:\n\n1.3.1 - Normal:\n\nPreço: até 900 contos.\n\nCilindrada: até 2200 cm3\n\nPotência: até 80 cv DIN a 5800 r. p. m.\n\n1.3.2 - Económico:\n\nPreço: até 600 contos.\n\nCilindrada: até 1500 cm3 diesel.\n\nPotência: até 50 cv DIN a 5000 r. p. m.\n\n1.4 - De representação:\n\n(Características a serem definidas caso a caso pelo Gabinete de Gestão de Veículos do Estado.)\n\n2 - Veículos mistos:\n\n3.1 - Normais:\n\nPreço: até 420 contos.\n\nCilindrada: até 1300 cm3.\n\nPotência: até 70 cv DIN a 5800 r. p. m.\n\n2.2 - Económico:\n\nPreço: até 650 contos.\n\nCilindrada: 1500 cm3.\n\nPotência: até 50 cv DIN a 5000 r. p. m.\n\n2.3 - Grandes:\n\nPreço: até 850 contos.\n\nCilindrada: 2200 cm3.\n\nPotência: até 65 cv DIN a 5000 r. p. m.\n\n3 - Veículos de carga:\n\n3.1 - Até 1000 kg de capacidade de carga:\n\nPreço: até 400 contos.\n\nCilindrada: até 1500 cm3.\n\nPotência: até 65 cv DIN a 5800 r. p. m.\n\n3.2 - Até 3500 kg de capacidade de carga:\n\nPreço: até 600 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\n3.3 - Até 8000 kg de capacidade de carga:\n\nPreço: até 1200 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\n3.4 - Acima de 8000 kg de capacidade de carga:\n\nPreço: livre.\n\nCilindrada: livre.\n\nPotência: livre.\n\n4 - Autocarros:\n\n4.1 - Até 9 lugares:\n\nPreço: até 700 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\n4.2 - Até 19 lugares:\n\nPreço: até 1300 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\n4.3 - Mais de 20 lugares:\n\nPreço: até 2800 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\n5 - Veículos todo o terreno (com tracção nas quatro rodas):\n\nPreço: até 800 contos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Despacho Normativo n.º 190/79) dá nova redação a todo o quadro anexo: substituídas as unidades 11 a 81 pela nova redação (82-83 ficam iguais; os pontos 5 e '(com tracção nas quatro rodas)' passam a uma só unidade, como no alterador)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

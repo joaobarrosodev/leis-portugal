@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-08-08'
+version_history:
+  file: despacho-normativo-100-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-05-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-08-08'
+    amending: pt:dre:377913:por
+    amending_title: Despacho Normativo n.º 190/79
+    changes:
+    - Altera Artigo unidades 11-81
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:49:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 190/79. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1979/despacho-normativo-100-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,103 +132,103 @@ Deste modo, consoante o exposto, determina-se:
 
 Ministérios das Finanças e do Plano, da Indústria e Tecnologia e do Comércio e Turismo, 18 de Abril de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia.
 
-1 - Veículos automóveis
+1 - Veículos automóveis:
 
 1.1 - Para serviços gerais:
 
 1.1.1 - Tipo A, não especificados:
 
-Preço: até 230 contos.
+Preço: até 300 contos.
 
-Cilindrada: até 1000 c. c.
+Cilindrada: até 1000 cm3.
 
-Potência: até 40 cv DIN a 5800 r. p. m.
+Potência: até 45 cv DIN a 5800 r. p. m.
 
 1.1.2 - Tipo B, para passageiros:
 
-Preço: até 300 contos.
+Preço: até 400 contos.
 
-Cilindrada: até 1500 c. c.
+Cilindrada: até 1300 cm3.
 
-Potência: até 70 cv DIN a 6000 r. p. m.
+Potência: até 65 cv DIN a 5800 r. p. m.
 
-1.2 - Para uso pessoal:
+1.2 - Pare uso pessoal:
 
-Preço: até 800 contos.
+Preço: até 980 contos.
 
-Cilindrada: até 2200 c. c.
+Cilindrada: até 2300 cm3.
 
-Potência: até 130 cv DIN a 6000 r. p. m.
+Potência: até 85 cv DIN 5800 r. p. m.
 
 1.3 - Para serviços extraordinários:
 
 1.3.1 - Normal:
 
-Preço: até 800 contos.
+Preço: até 900 contos.
 
-Cilindrada: até 2000 c. c.
+Cilindrada: até 2200 cm3
 
-Potência: até 130 cv DIN a 6000 r. p. m.
+Potência: até 80 cv DIN a 5800 r. p. m.
 
 1.3.2 - Económico:
 
 Preço: até 600 contos.
 
-Cilindrada: até 1500 c. c. diesel.
+Cilindrada: até 1500 cm3 diesel.
 
 Potência: até 50 cv DIN a 5000 r. p. m.
 
 1.4 - De representação:
 
-(Características a serem definidas caso a caso pela comissão competente.)
+(Características a serem definidas caso a caso pelo Gabinete de Gestão de Veículos do Estado.)
 
-2 - Veículos mistos
+2 - Veículos mistos:
 
-2.1 - Normais:
+3.1 - Normais:
 
-Preço: até 350 contos.
+Preço: até 420 contos.
 
-Cilindrada: até 1500 c. c.
+Cilindrada: até 1300 cm3.
 
-Potência: até 70 cv DIN a 6000 r. p. m.
+Potência: até 70 cv DIN a 5800 r. p. m.
 
 2.2 - Económico:
 
 Preço: até 650 contos.
 
-Cilindrada: até 1500 c. c.
+Cilindrada: 1500 cm3.
 
 Potência: até 50 cv DIN a 5000 r. p. m.
 
 2.3 - Grandes:
 
-Preço: até 800 contos.
+Preço: até 850 contos.
 
-Cilindrada: 2200 c. c.
+Cilindrada: 2200 cm3.
 
-Potência: até 65 cv DIN a 4500 r. p. m.
+Potência: até 65 cv DIN a 5000 r. p. m.
 
-3 - Veículos de carga
+3 - Veículos de carga:
 
 3.1 - Até 1000 kg de capacidade de carga:
 
-Preço: até 250 contos.
+Preço: até 400 contos.
 
-Cilindrada: até 1500 c. c.
+Cilindrada: até 1500 cm3.
 
-Potência: até 65 cv DIN a 6000 r. p. m.
+Potência: até 65 cv DIN a 5800 r. p. m.
 
 3.2 - Até 3500 kg de capacidade de carga:
 
-Preço: até 500 contos.
+Preço: até 600 contos.
 
 Cilindrada: livre.
 
 Potência: livre.
 
-3.3 - Até 800 kg de capacidade de carga:
+3.3 - Até 8000 kg de capacidade de carga:
 
-Preço: até 850 contos.
+Preço: até 1200 contos.
 
 Cilindrada: livre.
 
@@ -227,11 +242,11 @@ Cilindrada: livre.
 
 Potência: livre.
 
-4 - Autocarros
+4 - Autocarros:
 
-4.1 - Até 10 lugares:
+4.1 - Até 9 lugares:
 
-Preço: até 600 contos.
+Preço: até 700 contos.
 
 Cilindrada: livre.
 
@@ -239,7 +254,7 @@ Potência: livre.
 
 4.2 - Até 19 lugares:
 
-Preço: até 1000 contos.
+Preço: até 1300 contos.
 
 Cilindrada: livre.
 
@@ -247,17 +262,17 @@ Potência: livre.
 
 4.3 - Mais de 20 lugares:
 
-Preço: até 2500 contos.
+Preço: até 2800 contos.
 
-Cilindrada: livre
+Cilindrada: livre.
 
 Potência: livre.
 
-5 - Veículos todo o terreno
+5 - Veículos todo o terreno (com tracção nas quatro rodas):
 
-(com tracção nas quatro rodas)
+Preço: até 800 contos.
 
-Preço: até 700 contos.
+> Alterado pelo/a [Despacho Normativo n.º 190/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/190-1979-377913), publicado em 1979-08-08.
 
 Cilindrada: livre.
 

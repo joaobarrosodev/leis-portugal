@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-07-06'
+version_history:
+  file: portaria-1021-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-08-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-07-06'
+    amending: pt:dre:160512:por
+    amending_title: Portaria n.º 431/97
+    changes:
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1021/1995/08/21/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:44:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 431/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-1021-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -161,7 +177,9 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 3.º - 1 - Podem beneficiar de indemnização compensatória complementar extraordinária todos os agricultores em nome individual ou colectivo que explorem, pelo menos, 1 ha de superfície agrícola útil nas regiões desfavorecidas constantes do anexo I e cujas explorações tenham sido afectadas pela seca.
 
-2 - No caso de os beneficiários referidos no número anterior receberem uma pensão de reforma ou de invalidez, qualquer que seja o regime de segurança social, a indemnização compensatória complementar extraordinária será paga a título de ajudas nacionais.
+2 - No caso de os beneficiários referidos no número anterior receberem uma pensão de reforma ou de invalidez, qualquer que seja o regime de segurança social, bem como no caso das fundações, a indemnização compensatória complementar extraordinária será paga a título de ajudas nacionais.
+
+> Alterado pelo/a [Portaria n.º 431/97](https://diariodarepublica.pt/dr/detalhe/portaria/431-1997-160512), publicado em 1997-07-01.
 
 4.º - 1 - Sempre que a exploração recorra a baldios para alimentação do seu efectivo pecuário, a área destes será considerada proporcionalmente ao número de cabeças que o utilizem, até ao máximo de 1 ha por cabeça normal (CN) elegível, para determinação da superfície agrícola útil da exploração.
 
@@ -169,7 +187,9 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 5.º - 1 - O montante da indemnização compensatória complementar extraordinária é determinado, no caso da actividade pecuária, em função do grau de incidência dos efeitos da seca e, no caso das superfícies cultivadas com olival, em função da quebra de produtividade e consta dos anexos II e III a este diploma, do qual fazem parte integrante.
 
-2 - O montante da indemnização compensatória complementar extraordinária é fixado para bovinos, ovinos, caprinos e equídeos, convertidos em cabeças normais de acordo com a tabela de conversão constante do anexo IV a este diploma, do qual faz parte integrante, e por hectare de superfície cultivada com olival, até ao limite, por beneficiário, de 120 CN ou hectare, sem prejuízo do disposto nos números seguintes.
+2 - O montante da indemnização compensatória complementar extraordinária é fixado para os bovinos, ovinos, caprinos e equídeos, convertidos em cabeças normais, de acordo com a tabela de conversão constante do anexo IV a este diploma, do qual faz parte integrante, e por hectare de superfície cultivada com olival, até ao limite, por beneficiário ou por núcleo, no caso das fundações, de 120 CN ou hectares, sem prejuízo do disposto nos números seguintes.
+
+> Alterado pelo/a [Portaria n.º 431/97](https://diariodarepublica.pt/dr/detalhe/portaria/431-1997-160512), publicado em 1997-07-01.
 
 3 - Para efeitos do cálculo do montante da indemnização compensatória complementar extraordinária devem ser respeitadas as seguintes relações de CN por hectare de superfície forrageira:
 

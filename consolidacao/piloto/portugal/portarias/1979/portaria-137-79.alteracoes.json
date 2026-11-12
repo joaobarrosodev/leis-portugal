@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 22-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) A data do início dos cursos e a respectiva duração serão fixadas anualmente por despacho do Chefe do Estado-Maior da Armada.",
+    "depois": "d) As datas de início dos CFOSE são fixadas no Plano de Actividades de Instrução da Armada (PAIA).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383008:por",
+    "alterador": "pt:dre:400418:por"
+  },
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "9.º Os sargentos e praças que durante a frequência dos CFOSE revelarem falta de qualidades militares e aqueles cuja permanência nos cursos se considere inconveniente, tanto do ponto de vista disciplinar como educativo, podem ser imediatamente eliminados dos cursos mediante proposta do comandante da Escola Naval.",
+    "depois": "9.º Os sargentos e praças que durante a frequência dos CFOSE revelarem falta de qualidades militares e aqueles cuja permanência nos cursos se considere inconveniente, tanto do ponto de vista disciplinar como educativo, podem ser imediatamente eliminados por decisão do superintendente dos Serviços do Pessoal da Armada mediante proposta do comandante da Escola Naval.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383008:por",
+    "alterador": "pt:dre:400418:por"
+  },
+  {
+    "artigo": "unidades 26-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "10.º As funções de director de instrução dos CFOSE são exercidas pelo adjunto do director de instrução da Escola Naval, ao qual compete, em especial:",
+    "depois": "10.º O tratamento dos assuntos de natureza pedagógica relativos aos CFOSE é da competência de um adjunto para os CFOSE do director de instrução da Escola Naval, em especial no que respeita a:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383008:por",
+    "alterador": "pt:dre:400418:por"
+  },
+  {
+    "artigo": "unidades 30-32",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "11.º Os sargentos e praças da Armada admitidos à frequência dos CFOSE mantêm os seus postos e classes, com a designação de cadetes (primeiros-sargentos cadetes, segundos-sargentos cadetes, cabos cadetes e marinheiros cadetes).\n\nOs referidos sargentos e praças podem ser promovidos ao posto imediato quando essa promoção lhes competir na sua classe, mantendo, no novo posto, a designação de cadetes.\n\nPerdem a designação de cadetes os sargentos e praças da Armada que, por qualquer motivo, sejam excluídos da frequência dos CFOSE.",
+    "depois": "11.º Os sargentos e praças da Armada admitidos à frequência dos CFOSE mantêm os seus postos e classes com a designação de cadetes (primeiro-sargento cadete, segundo-sargento cadete, cabo cadete e primeiro-marinheiro cadete).\n\nOs referidos sargentos e praças podem ser promovidos ao posto imediato quando essa promoção lhes competir na sua classe, mantendo no novo posto a designação de cadete.\n\nPerdem a designação de cadete os sargentos e praças da Armada que, por qualquer motivo, sejam excluídos da frequência dos CFOSE.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383008:por",
+    "alterador": "pt:dre:400418:por"
+  }
+]

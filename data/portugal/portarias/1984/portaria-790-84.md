@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-05-14'
+version_history:
+  file: portaria-790-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-10-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-05-14'
+    amending: pt:dre:152349:por
+    amending_title: Portaria n.º 262/85
+    changes:
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 13-14
+    - Altera Artigo unidades 18-18
+    - Altera Artigo unidades 26-26
 identifiers:
   celex: null
   eli: null
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:13:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 262/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-790-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,11 +153,15 @@ e) Conselho científico das Ciências da Saúde;
 
 f) Conselho científico das Ciências da Engenharia.
 
-2.º Os conselhos científicos do INIC serão compostos por professores universitários, investigadores e individualidades de reconhecida competência da área científica correspondente, a nomear nos termos do artigo 47.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 28 de Setembro.
+2.º Os conselhos científicos do INIC serão compostos por professores universitários, investigadores e individualidades de reconhecida competência da área científica correspondente, a nomear nos termos do artigo 46.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 28 de Setembro.
 
-3.º Compete aos conselhos científios do INIC, no âmbito dos respectivos domínios:
+> Alterado pelo/a [Portaria n.º 262/85](https://diariodarepublica.pt/dr/detalhe/portaria/262-1985-152349), publicado em 1985-05-09.
 
-a) Pronunciar-se sobre os planos anuais e plurianuais de actividades científicas dos organismos, bem como sobre as respectivas propostas de orçamento;
+3.º Compete aos conselhos científicos do INIC, no âmbito dos respectivos domínios:
+
+a) Pronunciar-se sobre os planos anuais e plurianuais das actividades científicas dos organismos, bem como sobre as respectivas propostas de orçamento;
+
+> Alterado pelo/a [Portaria n.º 262/85](https://diariodarepublica.pt/dr/detalhe/portaria/262-1985-152349), publicado em 1985-05-09.
 
 b) Pronunciar-se sobre os relatórios de actividades científicas dos organismos dependentes;
 
@@ -147,7 +169,9 @@ c) Dar parecer sobre a criação, reconversão ou extinção de centros e de out
 
 d) Propor à comissão executiva do INIC os critérios de concessão de bolsas de estudo no País e fora do País;
 
-e) Propor à comissão executiva do INIC os critérios e selecção e financiamento de projectos e programas de investigação;
+e) Propor à comissão executiva do INIC os critérios, selecção e financiamento de projectos e programas de investigação;
+
+> Alterado pelo/a [Portaria n.º 262/85](https://diariodarepublica.pt/dr/detalhe/portaria/262-1985-152349), publicado em 1985-05-09.
 
 f) Propor à comissão executiva do INIC os critérios de financiamento ou concessão de subsídios para reuniões científicas e para publicações de carácter científico ou técnico;
 
@@ -163,7 +187,9 @@ h) Solicitar parecer a individualidades nacionais ou estrangeiras, sempre que o 
 
 a) As comissões serão homologadas por despacho do presidente do INIC e compreenderão entre 2 e 4 membros;
 
-b) As comissões reunirão por convocação do presidente do INIC, nos termos do n.º 4.º, ainda quando os seus membros o entenderem conveniente.
+b) As comissões reunirão por convocação do presidente do INIC, nos termos do n.º 4.º, ou ainda quando os seus membros o entenderem conveniente.
+
+> Alterado pelo/a [Portaria n.º 262/85](https://diariodarepublica.pt/dr/detalhe/portaria/262-1985-152349), publicado em 1985-05-09.
 
 7.º As deliberações dos conselhos científicos só produzirão efeitos quando tomadas pela maioria dos membros em efectividade de funções.
 

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:470444:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Resolução 115/81 apenas executa a Resolução 281/80 (novas diretivas de negociação aérea) e revoga a Resolução de 22-10-1974; não contém instrução que altere o texto do original: nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

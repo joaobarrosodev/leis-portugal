@@ -1,0 +1,57 @@
+---
+id: pt:dre:402157:por
+title: Portaria n.º 667-O9/93
+original: data/portugal/portarias/1993/portaria-667-o9-93.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:670707:por
+    title: Portaria n.º 1008/93
+    publication_date: '1993-10-12'
+---
+
+# Portaria n.º 667-O9/93
+
+de 14 de Julho
+
+Pela [Portaria n.º 722-I4/92](https://diariodarepublica.pt/dr/detalhe/portaria/722-i4-1992-617675), de 15 de Julho, foi concedida à Associação de Caçadores e Pescadores de Ovil e Loivos do Monte uma zona de caça associativa, com uma área de 1970 ha, situada no município de Baio.
+
+A concessionária requereu agora a anexação de outros prédios rústicos, com uma área de 730 ha.
+
+Com fundamento no disposto nos artigos 19.º, 20.º, 21.º e 26.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 80.º e 81.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro;
+
+Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
+
+Manda o Governo, pelo Ministro da Agricultura, o seguinte:
+
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Viariz, Gestaçô, Teixeira, Campelo, Loivos do Monte e Ovil, município de Baião, e nas freguesias de Bustelo, Carneiro e Carvalho do Rei, município de Amarante, com uma área de 2700 ha.
+
+> Alterado pelo/a [Portaria n.º 1008/93](https://diariodarepublica.pt/dr/detalhe/portaria/1008-1993-670707), publicado em 1993-10-12.
+
+2.º Pelo presente diploma é concessionada, até 25 de Julho de 2004, à Associação de Caçadores e Pescadores de Ovil e Loivos do Monte (registo no Instituto Florestal n.º 1.011.87), com sede em São João de Ovil, Baio, a zona de caça associativa de Ovil e Loivos do Monte (processo n.º 1017 do Instituto Florestal).
+
+3.º A Associação de Caçadores e Pescadores de Ovil e Loivos do Monte, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegética aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
+
+4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados da Associação de Caçadores e Pescadores de Ovil e Loivos do Monte, com observância das regras legais e das suas normas estatutárias e regulamentares.
+
+5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.
+
+2 - A sinalização obedecerá às condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925) e 6.º e 7.º da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.
+
+6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter dois guardas florestais auxiliares dotados de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).
+
+7.º O disposto no presente diploma não é aplicável às áreas consignadas no artigo 14.º, n.os 1 e 2, da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.
+
+8.º Esta concessão é renovável nos termos do disposto no artigo 83.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874).
+
+9.º É revogada a [Portaria n.º 722-I4/92](https://diariodarepublica.pt/dr/detalhe/portaria/722-i4-1992-617675), de 15 de Julho.
+
+Ministério da Agricultura.
+
+Assinada em 14 de Julho de 1993.
+
+Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b02/01820182.pdf)

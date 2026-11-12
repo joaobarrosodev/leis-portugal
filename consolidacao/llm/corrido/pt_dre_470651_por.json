@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:470651:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 620/85 adita um lugar de auxiliar técnico de BAD ao quadro de pessoal anexo, que só existe em imagem (ver documento original); não há texto a alterar.",
+  "instrucoes": [
+    "Alterador 1: adita um lugar de auxiliar técnico de BAD (letra N, Q ou S, a extinguir quando vagar) ao quadro anexo; não aplicado porque o quadro só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:408510:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Pela presente portaria é concessionada, até 28 de Fevereiro de 2011, à Associação de Caçadores Os Amigos da Caça, com o número de pessoa colectiva 502048450 e sede na Rua de Angola, 14, Coruche, a zona de caça associativa da Herdade de Verdugos (processo n.º 2240 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 86/2002 dá nova redação ao n.º 2.º (prazo da concessão até 28 de Fevereiro de 2011): substituída a unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

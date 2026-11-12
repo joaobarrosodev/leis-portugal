@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:402163:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º É criada a Zona de Caça Nacional da Quinta do Canal e Ínsua (processo n.º 1230 do Instituto Florestal), situada na freguesia de Alqueidão, município da Figueira da Foz, com uma área total de 405 ha, cujos limites constam da planta anexa ao presente diploma e que dele faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a substituição da planta anexa não se aplica porque a planta só existe em imagem no documento original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 437/95): nova redação do n.º 1.º -> substituída a unidade 8, mantendo o número 1.º do texto atual.",
+    "Alterador 1: planta anexa substitui a da portaria original -> não aplicável (anexo só em imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

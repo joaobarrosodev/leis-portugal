@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-11-01'
+version_history:
+  file: despacho-normativo-2-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-01-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-11-01'
+    amending: pt:dre:441740:por
+    amending_title: Despacho Normativo n.º 197/83; Despacho Normativo n.º 198/83
+    changes:
+    - Adita Artigo depois da unidade 24
+    - Altera Artigo unidades 81-88
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:43:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 197/83; Despacho
+    Normativo n.º 198/83. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1978/despacho-normativo-2-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,6 +175,36 @@ l) Dar cumprimento a outras diligências que decorram dos preceitos legais vigen
 a) Quando a comissão de fiscalização considerar oportuno;
 
 b) Quando solicitado por mais de um terço dos seus membros.
+
+6.º-A - A comissão consultiva do Mercado Abastecedor de Chaves de Oliveira, constituída nos termos do artigo 26.º do Regulamento dos Mercados Abastecedores de Frutas e Produtos Hortícolas, terá a seguinte composição alargada:
+
+a) 1 representante da Direcção Regional de Agricultura de Entre Douro e Minho, que coordenará;
+
+b) 1 representante da Direcção-Geral do Comércio;
+
+c) 1 representante da Direcção-Geral de Fiscalização Económica;
+
+d) 1 representante da Junta Nacional das Frutas;
+
+e) 1 representante da Associação Nacional dos Armazenistas, Importadores e Exportadores de Frutas e Produtos Hortícolas;
+
+f) 1 representante da Confederação dos Agricultores de Portugal;
+
+g) 1 representante dos descarregadores e dos transportadores;
+
+h) 1 representante da Federação do Comércio Retalhista Português;
+
+i) 1 representante dos mandatários;
+
+j) 1 representante da Direcção de Saúde do Porto;
+
+k) 1 representante da Câmara Municipal do Porto;
+
+l) 1 membro da comissão administrativa;
+
+m) 1 membro da comissão de fiscalização.
+
+> Aditado pelo/a [Despacho Normativo n.º 197/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/197-1983-441740), publicado em 1983-10-25.
 
 7.º As convocatórias para as sessões da comissão consultiva, bem como as respectivas ordens de trabalho, deverão ser enviadas a todos os membros da comissão pelo secretário da mesma comissão com antecedência mínima de oito dias, segundo as instruções da comissão de fiscalização.
 
@@ -272,21 +318,9 @@ b) Que decorram de incêndio, explosão ou inundação ocorridos no posto de ven
 
 31.º Os vendedores do Mercado Abastecedor serão obrigados a cuidar da limpeza dos espaços que lhes estejam reservados e a depositar os desperdícios nos recipientes para esse fim destinados ou acumular os desperdícios em recipiente próprio, que será despejado pelos serviços de limpeza do Mercado.
 
-32.º O Mercado Abastecedor funcionará, todos os dias úteis, com o seguinte horário:
+32.º A comissão administrativa do Mercado estabelecerá o horário de funcionamento do Mercado, procurando compatibilizar os interesses dos utentes compradores e vendedores e tendo em conta as possibilidades de funcionamento das instalações.
 
-Abastecimento - das 3 horas às 5 horas e 30 minutos;
-
-Arrumação das mercadorias - das 5 horas e 30 minutos às 6 horas;
-
-Período de venda - das 6 às 10 horas;
-
-Encerramento do portão para os compradores - 10 horas;
-
-Encerramento dos lugares de venda - 10 horas e 30 minutos;
-
-Encerramento do Mercado - 12 horas;
-
-Abastecimento (2.ª abertura) - das 17 às 19 horas.
+> Alterado pelo/a [Despacho Normativo n.º 198/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/198-1983-441714), publicado em 1983-10-27.
 
 33.º A entrada, saída e estacionamento de veículos no Mercado devem processar-se de harmonia com as disposições estabelecidas pela comissão administrativa para a circulação dentro do Mercado.
 

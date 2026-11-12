@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Época normal\n\n1 - A época normal tem duas chamadas.\n\n2 - Cada estudante pode apresentar-se a ambas as chamadas, sendo considerada apenas a prova da chamada em que obtenha melhor classificação.\n\n3 - A apresentação à segunda chamada não carece de outra inscrição.",
+    "depois": "###### Artigo 3.º — Época normal\n\n1 - A época normal tem duas chamadas.\n\n1-A - Excepcionalmente, no ano de 1992, a época normal tem três chamadas.\n\n2 - Cada estudante pode apresentar-se a todas as chamadas, sendo considerada apenas a prova da chamada em que obtenha a melhor classificação.\n\n3 - A apresentação às 2.ª e 3.ª chamadas não carece de outra inscrição.\n\n> Alterado pelo/a [Portaria n.º 341/92](https://diariodarepublica.pt/dr/detalhe/portaria/341-1992-200018), publicado em 1992-04-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395573:por",
+    "alterador": "pt:dre:200018:por"
+  },
+  {
+    "artigo": "31.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 31.º — Estudantes que realizaram duas chamadas de uma época da prova\n\n1 - Os estudantes que tenham realizado ambas as chamadas de uma época da prova geral de acesso apenas poderão requerer a consulta e posterior reapreciação da prova considerada, isto é, a prova da chamada em que obtiveram a melhor classificação.\n\n2 - Se a classificação das duas provas prestadas for igual, os estudantes poderão requerer a consulta e posterior reapreciação de uma delas.",
+    "depois": "###### Artigo 31.º — Estudantes que realizaram mais de uma chamada de uma época da prova\n\n1 - Os estudantes que tenham realizado mais de uma chamada de uma época da prova geral de acesso apenas poderão requerer a consulta e posterior reapreciação da prova considerada, isto é, da prova da chamada em que obtiveram a melhor classificação.\n\n2 - Se a classificação das provas prestadas for igual, os estudantes poderão requerer a consulta e posterior reapreciação de uma delas.\n\n> Alterado pelo/a [Portaria n.º 341/92](https://diariodarepublica.pt/dr/detalhe/portaria/341-1992-200018), publicado em 1992-04-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395573:por",
+    "alterador": "pt:dre:200018:por"
+  }
+]

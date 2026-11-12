@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:425894:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "3.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Cabrela, município de Montemor-o-Novo, com a área de 2227 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 530/2006 dá nova redação ao n.º 3.º (área passa a 2227 ha): substituída a unidade 8."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

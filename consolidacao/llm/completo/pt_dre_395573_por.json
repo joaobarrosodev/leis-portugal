@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:395573:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Época normal",
+      "texto": "1 - A época normal tem duas chamadas.\n\n1-A - Excepcionalmente, no ano de 1992, a época normal tem três chamadas.\n\n2 - Cada estudante pode apresentar-se a todas as chamadas, sendo considerada apenas a prova da chamada em que obtenha a melhor classificação.\n\n3 - A apresentação às 2.ª e 3.ª chamadas não carece de outra inscrição.",
+      "alterador": 1
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Estudantes que realizaram mais de uma chamada de uma época da prova",
+      "texto": "1 - Os estudantes que tenham realizado mais de uma chamada de uma época da prova geral de acesso apenas poderão requerer a consulta e posterior reapreciação da prova considerada, isto é, da prova da chamada em que obtiveram a melhor classificação.\n\n2 - Se a classificação das provas prestadas for igual, os estudantes poderão requerer a consulta e posterior reapreciação de uma delas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "A nova redação do anexo II (Prazos) da Portaria n.º 341/92 não foi aplicada: o anexo II existe no texto atual só como título de divisão, sem artigo onde pôr o texto.",
+  "instrucoes": [
+    "Alterador 1 n.º 1.º: nova redação do art. 3.º (aditado n.º 1-A, n.os 2 e 3 alterados) aplicada.",
+    "Alterador 1 n.º 1.º: nova redação do art. 31.º (epígrafe e n.os 1 e 2) aplicada.",
+    "Alterador 1 n.º 1.º: nova redação do anexo II (prazos) não aplicada, anexo sem artigos no texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

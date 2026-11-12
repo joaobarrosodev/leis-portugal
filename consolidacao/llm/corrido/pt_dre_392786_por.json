@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:392786:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 31/83 substitui e revoga por inteiro a Portaria n.º 486/82 (n.º 2.º: 'que assim se considera revogada'), pelo que não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Portaria 31/83, 2.º: revoga a Portaria 486/82 por inteiro (com efeitos desde a sua entrada em vigor); nada aplicado ao texto, registado em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "depois da unidade 24",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "6.º-A - A comissão consultiva do Mercado Abastecedor de Chaves de Oliveira, constituída nos termos do artigo 26.º do Regulamento dos Mercados Abastecedores de Frutas e Produtos Hortícolas, terá a seguinte composição alargada:\n\na) 1 representante da Direcção Regional de Agricultura de Entre Douro e Minho, que coordenará;\n\nb) 1 representante da Direcção-Geral do Comércio;\n\nc) 1 representante da Direcção-Geral de Fiscalização Económica;\n\nd) 1 representante da Junta Nacional das Frutas;\n\ne) 1 representante da Associação Nacional dos Armazenistas, Importadores e Exportadores de Frutas e Produtos Hortícolas;\n\nf) 1 representante da Confederação dos Agricultores de Portugal;\n\ng) 1 representante dos descarregadores e dos transportadores;\n\nh) 1 representante da Federação do Comércio Retalhista Português;\n\ni) 1 representante dos mandatários;\n\nj) 1 representante da Direcção de Saúde do Porto;\n\nk) 1 representante da Câmara Municipal do Porto;\n\nl) 1 membro da comissão administrativa;\n\nm) 1 membro da comissão de fiscalização.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:468822:por",
+    "alterador": "pt:dre:441740:por;pt:dre:441714:por"
+  },
+  {
+    "artigo": "unidades 81-88",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "32.º O Mercado Abastecedor funcionará, todos os dias úteis, com o seguinte horário:\n\nAbastecimento - das 3 horas às 5 horas e 30 minutos;\n\nArrumação das mercadorias - das 5 horas e 30 minutos às 6 horas;\n\nPeríodo de venda - das 6 às 10 horas;\n\nEncerramento do portão para os compradores - 10 horas;\n\nEncerramento dos lugares de venda - 10 horas e 30 minutos;\n\nEncerramento do Mercado - 12 horas;\n\nAbastecimento (2.ª abertura) - das 17 às 19 horas.",
+    "depois": "32.º A comissão administrativa do Mercado estabelecerá o horário de funcionamento do Mercado, procurando compatibilizar os interesses dos utentes compradores e vendedores e tendo em conta as possibilidades de funcionamento das instalações.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:468822:por",
+    "alterador": "pt:dre:441740:por;pt:dre:441714:por"
+  }
+]

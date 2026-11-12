@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:430461:por",
+  "substituicoes": [
+    {
+      "de": 64,
+      "ate": 64,
+      "texto": "Art. 11.º O lugar de director do Centro de Estudos de Nutrição é provido, sob proposta do director do Instituto, de entre licenciados em Medicina com preparação em Nutrição pertencentes ao quadro de pessoal do INSA ou de outra instituição de saúde.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 981/82: nova redação do artigo 11.º do Regulamento — substituída a unidade 64."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

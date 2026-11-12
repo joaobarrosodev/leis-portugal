@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:393627:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Resolução n.º 309/79 não contém nenhuma instrução textual dirigida à Resolução n.º 51/79: limita-se a tomar novas medidas e a aprovar alterações aos estatutos da sociedade (outro instrumento), sem alterar nem revogar expressamente o texto da 51/79.",
+  "instrucoes": [
+    "Resolução 309/79: aumento de capital, nomeação de gestores e alterações aos estatutos da Sociedade de Vinhos Borges & Irmão em execução da 51/79; nenhuma alteração textual à 51/79, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

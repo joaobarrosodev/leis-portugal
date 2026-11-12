@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-10-18'
+version_history:
+  file: portaria-432-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-10-18'
+    amending: pt:dre:376233:por
+    amending_title: Portaria n.º 981/82
+    changes:
+    - Altera Artigo unidades 64-64
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:04:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 981/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-432-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -227,7 +242,9 @@ Art. 10.º - 1. O Centro de Estudos de Nutrição ocupará nas instalações do 
 
 3. Também em despacho do Secretário de Estado da Saúde serão definidos os termos em que se processará a colaboração da Escola Nacional de Saúde Pública com o Centro de Estudos de Nutrição.
 
-Art. 11.º O lugar de director do Centro de Estudos de Nutrição é exercido, por inerência de funções, pelo professor da cadeira de Nutrição e Higiene de Alimentação da Escola Nacional de Saúde Pública.
+Art. 11.º O lugar de director do Centro de Estudos de Nutrição é provido, sob proposta do director do Instituto, de entre licenciados em Medicina com preparação em Nutrição pertencentes ao quadro de pessoal do INSA ou de outra instituição de saúde.
+
+> Alterado pelo/a [Portaria n.º 981/82](https://diariodarepublica.pt/dr/detalhe/portaria/981-1982-376233), publicado em 1982-10-18.
 
 Art. 12.º - 1. O Centro de Estudos de Nutrição entra no regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, contando-se o início do período de instalação a partir da data de posse da primeira comissão instaladora.
 

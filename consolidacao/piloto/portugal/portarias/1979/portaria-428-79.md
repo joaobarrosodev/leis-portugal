@@ -1,0 +1,149 @@
+---
+id: pt:dre:377741:por
+title: Portaria n.º 428/79
+original: data/portugal/portarias/1979/portaria-428-79.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:367454:por
+    title: Portaria n.º 605/79
+    publication_date: '1979-11-22'
+---
+
+# Portaria n.º 428/79
+
+de 13 de Agosto
+
+Pelas Portarias n.os [296/78](https://diariodarepublica.pt/dr/detalhe/portaria/296-1978-294571), de 31 de Maio, e [462/78](https://diariodarepublica.pt/dr/detalhe/portaria/462-1978-299851), de 14 de Agosto, foram afectadas a cada uma das direcções-gerais do Ministério da Indústria e Tecnologia as várias actividades industriais constantes na classificação das actividades económicas por ramos de actividades (CAE), revisão 1, de 1973.
+
+Considerando a necessidade de se reajustar essa distribuição e mantendo a classificação referida:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Tecnologia, ao abrigo das disposições conjugadas do artigo 7.º, n.º 1, alínea a), e do artigo 10.º, n.º 2, do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro, que as actividades industriais passem a ser afectadas pela forma seguinte, ficando revogadas as citadas Portarias n.os 8296/78, de 31 de Maio, e [462/78](https://diariodarepublica.pt/dr/detalhe/portaria/462-1978-299851) de 14 de Agosto:
+
+1) Direcção-Geral de Energia:
+
+Classe CAE:
+
+353 - Refinação de petróleo.
+
+354 - Fabricação de derivados diversos de petróleo e carvão.
+
+410 - Electricidade, gás e vapor.
+
+Subgrupos CAE:
+
+3511.4 - Fabricação de produtos químicos para indústrias nucleares e produtos delas resultantes.
+
+2) Direcção-Geral de Geologia e Minas:
+
+Classe CAE:
+
+210 - Extracção de carvão.
+
+230 - Extracção de minérios metálicos.
+
+290 - Extracção de minérios não metálicos e rochas industriais, com excepção do subgrupo 2903.1 - extracção de sal marinho.
+
+3) Direcção-Geral das Indústrias Químicas e Metalúrgicas:
+
+351 - Fabricação de produtos químicos industriais, com excepção do subgrupo 3511.4 - Fabricação de produtos químicos para indústrias nucleares e produtos delas resultantes.
+
+352 - Fabricação de outros produtos químicos.
+
+355 - Indústria da borracha.
+
+356 - Fabricação de artigos de matérias plásticas.
+
+371 - Indústrias básicas de ferro e aço.
+
+372 - Indústrias básicas de metais não ferrosos.
+
+Grupo CAE:
+
+3692 - Fabricação de cimento, cal e gesso.
+
+4) Direcção-Geral das Indústrias Electromecânicas:
+
+Classe CAE:
+
+381 - Fabricação de produtos metálicos, com excepção de máquinas, equipamento e material de transporte.
+
+382 - Fabricação de máquinas não eléctricas.
+
+383 - Fabricação de máquinas, aparelhos, utensílios e outro material eléctrico.
+
+384 - Construção de material de transporte.
+
+385 - Fabricação de instrumentos profissionais e científicos e de aparelhos de medida, de verificação, fotográficos e de instrumentos de óptica.
+
+Grupos CAE:
+
+9512 - Reparação de aparelhos eléctricos.
+
+9513 - Reparação de automóveis e motocicletas.
+
+9514 - Reparação de relógios.
+
+9519 - Outros serviços de reparação não especificada.
+
+5) Direcção-Geral das Indústrias Transformadoras Ligeiras:
+
+Classe CAE:
+
+311-312 - Indústria da alimentação, nos termos estabelecidos pelo [Decreto Regulamentar n.º 55/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1979-365517), de 22 de Setembro.
+
+313 - Indústria das bebidas, nos termos estabelecidos pelo [Decreto Regulamentar n.º 55/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1979-365517), de 22 de Setembro.
+
+314 - Indústria do tabaco, nos termos estabelecidos pelo [Decreto Regulamentar n.º 55/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1979-365517), de 22 de Setembro.
+
+321 - Indústrias têxteis.
+
+322 - Fabricação de artigos de vestuário, com excepção do calçado.
+
+323 - Indústria de curtumes e dos artigos de couro, dos seus substitutos e da pele, com excepção do calçado e outros artigos de vestuário.
+
+324 - Fabricação de calçado, com excepção de calçado vulcanizado, de borracha moldada ou de plástico e o feito inteiramente de madeira.
+
+331 - Indústria da madeira, fabrico de artefactos da madeira e da cortiça, com excepção do mobiliário.
+
+332 - Fabricação de mobiliário, com excepção de mobiliário metálico e de plástico moldado.
+
+341 - Indústria do papel.
+
+342 - Artes gráficas e edição de publicações.
+
+361 - Fabricação de artigos de porcelana, faiança, grés fino e olaria de barro.
+
+362 - Fabricação de vidro e de artigos de vidro.
+
+952 - Lavandarias e tinturarias.
+
+Grupos CAE:
+
+3691 - Fabricação de materiais de barro para construção e de produtos refractários.
+
+3699 - Fabricação de outros produtos minerais não metálicos.
+
+3901 - Fabricação de jóias e artigos de ourivesaria.
+
+3902 - Fabricação de instrumentos musicais.
+
+3903 - Fabricação de artigos de desporto.
+
+3909 - Indústrias transformadoras diversas.
+
+9511 - Reparação de calçado e outros artigos de couro.
+
+> Alterado pelo/a [Portaria n.º 605/79](https://diariodarepublica.pt/dr/detalhe/portaria/605-1979-367454), publicado em 1979-11-22.
+
+6) Gabinete de Pesquisa e Exploração de Petróleos:
+
+Classe CAE:
+
+220 - Extracção de petróleo bruto e gás natural.
+
+Ficarão também afectas à Direcção-Geral de Geologia e Minas as actividades das classes 371 e 372 que pela sua pequena dimensão, reduzida complexidade tecnológica e estreita interligação com a actividade mineira sejam objecto de acordo de transferência entre a Direcção-Geral das Indústrias Químicas e Metalúrgicas e a Direcção-Geral de Geologia e Minas.
+
+Ministério da Indústria e Tecnologia, 26 de Julho de 1979. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto.

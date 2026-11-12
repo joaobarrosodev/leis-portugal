@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 37-37",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "10 - Engenharia Electrónica.",
+    "depois": "10 - Engenharia Electrotécnica.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:386645:por",
+    "alterador": "pt:dre:177429:por"
+  }
+]

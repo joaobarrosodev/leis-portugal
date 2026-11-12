@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, aprovar, sob proposta do Governo Regional dos Açores, a emissão de 27 milhões de escudos em moedas de 100$00 alusivas à Região Autónoma dos Açores, em conformidade com os desenhos do verso e reverso da moeda, que junto se publicam.",
+    "depois": "Aprovar, sob proposta do Governo Regional dos Açores, a emissão de 19250000$00, em moedas de 25$00, e 27000000$00, em moedas de 100$00, alusivas à Região Autónoma dos Açores.\n\nO verso e anverso das moedas em causa serão em tudo conformes com os desenhos que junto se publicam, excepto no respeitante aos algarismos, que deverão ser, na de 25$00, 25 em lugar de 100.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:389376:por",
+    "alterador": "pt:dre:573683:por"
+  }
+]

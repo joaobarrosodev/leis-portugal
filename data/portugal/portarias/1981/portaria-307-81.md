@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-05-21'
+version_history:
+  file: portaria-307-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-05-21'
+    amending: pt:dre:573683:por
+    amending_title: Portaria n.º 406/81
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:42:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 406/81. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-307-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -103,7 +118,11 @@ O [Decreto-Lei n.º 299/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Nestes termos e ao abrigo do disposto nos artigos 2.º, 3.º, 4.º e 5.º do supramencionado diploma legal:
 
-Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, aprovar, sob proposta do Governo Regional dos Açores, a emissão de 27 milhões de escudos em moedas de 100$00 alusivas à Região Autónoma dos Açores, em conformidade com os desenhos do verso e reverso da moeda, que junto se publicam.
+Aprovar, sob proposta do Governo Regional dos Açores, a emissão de 19250000$00, em moedas de 25$00, e 27000000$00, em moedas de 100$00, alusivas à Região Autónoma dos Açores.
+
+O verso e anverso das moedas em causa serão em tudo conformes com os desenhos que junto se publicam, excepto no respeitante aos algarismos, que deverão ser, na de 25$00, 25 em lugar de 100.
+
+> Alterado pelo/a [Portaria n.º 406/81](https://diariodarepublica.pt/dr/detalhe/portaria/406-1981-573683), publicado em 1981-05-21.
 
 Ministério das Finanças e do Plano, 5 de Fevereiro de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão.
 

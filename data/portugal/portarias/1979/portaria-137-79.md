@@ -29,10 +29,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-11-11'
+version_history:
+  file: portaria-137-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-03-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-11-11'
+    amending: pt:dre:400418:por
+    amending_title: Portaria n.º 851/84
+    changes:
+    - Altera Artigo unidades 22-22
+    - Altera Artigo unidades 25-25
+    - Altera Artigo unidades 26-26
+    - Altera Artigo unidades 30-32
 identifiers:
   celex: null
   eli: null
@@ -58,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:51:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 851/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-137-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -151,15 +169,21 @@ b) Os cursos são divididos em dois ciclos, podendo o 1.º ciclo ser comum, no t
 
 c) Os cursos compreendem instruções nas unidades e serviços da Armada e embarque em navios armados;
 
-d) A data do início dos cursos e a respectiva duração serão fixadas anualmente por despacho do Chefe do Estado-Maior da Armada.
+d) As datas de início dos CFOSE são fixadas no Plano de Actividades de Instrução da Armada (PAIA).
+
+> Alterado pelo/a [Portaria n.º 851/84](https://diariodarepublica.pt/dr/detalhe/portaria/851-1984-400418), publicado em 1984-11-06.
 
 7.º Compete à Escola Naval organizar e coordenar o funcionamento dos CFOSE, bem como elaborar os planos de curso e submetê-los à aprovação superior.
 
 8.º Nos CFOSE são aplicáveis os critérios relativos a classificação, aprovação e eliminação indicados na [Portaria n.º 23266](https://diariodarepublica.pt/dr/detalhe/portaria/23266-1968-234763), de 16 de Março de 1968.
 
-9.º Os sargentos e praças que durante a frequência dos CFOSE revelarem falta de qualidades militares e aqueles cuja permanência nos cursos se considere inconveniente, tanto do ponto de vista disciplinar como educativo, podem ser imediatamente eliminados dos cursos mediante proposta do comandante da Escola Naval.
+9.º Os sargentos e praças que durante a frequência dos CFOSE revelarem falta de qualidades militares e aqueles cuja permanência nos cursos se considere inconveniente, tanto do ponto de vista disciplinar como educativo, podem ser imediatamente eliminados por decisão do superintendente dos Serviços do Pessoal da Armada mediante proposta do comandante da Escola Naval.
 
-10.º As funções de director de instrução dos CFOSE são exercidas pelo adjunto do director de instrução da Escola Naval, ao qual compete, em especial:
+> Alterado pelo/a [Portaria n.º 851/84](https://diariodarepublica.pt/dr/detalhe/portaria/851-1984-400418), publicado em 1984-11-06.
+
+10.º O tratamento dos assuntos de natureza pedagógica relativos aos CFOSE é da competência de um adjunto para os CFOSE do director de instrução da Escola Naval, em especial no que respeita a:
+
+> Alterado pelo/a [Portaria n.º 851/84](https://diariodarepublica.pt/dr/detalhe/portaria/851-1984-400418), publicado em 1984-11-06.
 
 a) Coordenar a instrução dos vários cursos nas diferentes unidades e serviços;
 
@@ -167,11 +191,13 @@ b) Organizar os programas de conferências, visitas e embarque;
 
 c) Propor ao director de instrução da Escola Naval a actualização dos planos de curso.
 
-11.º Os sargentos e praças da Armada admitidos à frequência dos CFOSE mantêm os seus postos e classes, com a designação de cadetes (primeiros-sargentos cadetes, segundos-sargentos cadetes, cabos cadetes e marinheiros cadetes).
+11.º Os sargentos e praças da Armada admitidos à frequência dos CFOSE mantêm os seus postos e classes com a designação de cadetes (primeiro-sargento cadete, segundo-sargento cadete, cabo cadete e primeiro-marinheiro cadete).
 
-Os referidos sargentos e praças podem ser promovidos ao posto imediato quando essa promoção lhes competir na sua classe, mantendo, no novo posto, a designação de cadetes.
+Os referidos sargentos e praças podem ser promovidos ao posto imediato quando essa promoção lhes competir na sua classe, mantendo no novo posto a designação de cadete.
 
-Perdem a designação de cadetes os sargentos e praças da Armada que, por qualquer motivo, sejam excluídos da frequência dos CFOSE.
+Perdem a designação de cadete os sargentos e praças da Armada que, por qualquer motivo, sejam excluídos da frequência dos CFOSE.
+
+> Alterado pelo/a [Portaria n.º 851/84](https://diariodarepublica.pt/dr/detalhe/portaria/851-1984-400418), publicado em 1984-11-06.
 
 12.º É revogada a [Portaria n.º 22015](https://diariodarepublica.pt/dr/detalhe/portaria/22015-1966-473523), de 23 de Maio de 1966.
 

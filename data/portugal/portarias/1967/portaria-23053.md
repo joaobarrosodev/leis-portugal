@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-03-20'
+version_history:
+  file: portaria-23053.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-12-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-03-20'
+    amending: pt:dre:684215:por
+    amending_title: Portaria n.º 195/73
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:38:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 195/73. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1967/portaria-23053.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -103,7 +118,15 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 3.º Compete igualmente ao governador-geral designar os organismos ou entidades que poderão colaborar na organização dos cursos, bem como tomar quaisquer outras medidas que possam contribuir para a eficiência dos mesmos.
 
-4.º Ao pessoal docente serão atribuídas as gratificações previstas no § 4.º do artigo 16.º do [Decreto n.º 47235](https://diariodarepublica.pt/dr/detalhe/decreto/47235-1966-478211), de 3 de Outubro de 1966.
+4.º Ao pessoal docente serão atribuídas as seguintes gratificações mensais:
+
+Pessoal com categoria superior à letra H, inclusive ... 4000$00
+
+Pessoal com categorias compreendidas entre as letras I e L, inclusive ... 2000$00
+
+Outro pessoal ... 1000$00
+
+> Alterado pelo/a [Portaria n.º 195/73](https://diariodarepublica.pt/dr/detalhe/portaria/195-1973-684215), publicado em 1973-03-20.
 
 Ministério do Ultramar, 11 de Dezembro de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 

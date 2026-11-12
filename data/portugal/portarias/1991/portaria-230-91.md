@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-09-03'
+version_history:
+  file: portaria-230-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-03-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-09-03'
+    amending: pt:dre:403682:por
+    amending_title: Portaria n.º 888/91
+    changes:
+    - Altera Artigo unidades 39-39
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/230/1991/03/21/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:43:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 888/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-230-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -187,7 +202,13 @@ b) Quando se trate de obras cuja especificidade o justifique, poderão os servi�
 
 11.º A DGPA pode proceder à aquisição de equipamentos destinados a mais de um centro, tendo em vista a melhor gestão daqueles e a economia dos fundos afectos ao Programa.
 
-12.º Constitui excepção ao disposto nos n.os 9.º, 10.º e 11.º a construção e o equipamento dos quatro centros da Associação Portuguesa para o Desenvolvimento Rural (APDR), do centro do Instituto de Formação e Educação Cooperativa (IFEC) e do centro do Instituto Sindical Agrário para a Formação, Cooperação e Desenvolvimento do Mundo Rural (SETAAFOC), cuja execução será da responsabilidade destas mesmas instituições.
+12.º Constituem excepção ao disposto nos n.os 9.º, 10.º e 11.º:
+
+a) A construção e o equipamento dos quatro centros da Associação Portuguesa para o Desenvolvimento Rural (APDR), do Centro do Instituto de Formação e Educação e Cooperativa (IFEC) e do Centro do Instituto Sindical Agrário para a Formação, Cooperação e Desenvolvimento do Mercado Rural (SETAAFOC), cuja execução será da responsabilidade destas mesmas instituições;
+
+b) Construção e ou equipamento de outros centros de formação profissional de agricultores, cuja gestão venha, por despacho do Ministro da Agricultura, Pescas e Alimentação, a ser cometida a outras entidades, às quais caberá a execução dos respectivos investimentos.
+
+> Alterado pelo/a [Portaria n.º 888/91](https://diariodarepublica.pt/dr/detalhe/portaria/888-1991-403682), publicado em 1991-08-29.
 
 13.º Sempre que se torne necessário para assegurar o acompanhamento e o controlo da execução dos subprogramas, poderão os organismos por eles responsáveis recorrer a outras entidades, nos termos da alínea f) do artigo 13.º do Decreto-Lei n.º 96/87, de 4 de Março.
 

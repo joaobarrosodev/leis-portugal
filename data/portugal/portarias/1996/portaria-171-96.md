@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-03-25'
+version_history:
+  file: portaria-171-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-03-25'
+    amending: pt:dre:518385:por
+    amending_title: Portaria n.º 191/97
+    changes:
+    - Altera Artigo unidades 19-19
+    - Altera Artigo unidades 21-21
+    - Altera Artigo unidades 24-24
+    - Altera Artigo unidades 28-46
+    - Altera Artigo unidades 47-51
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/171/1996/05/22/p/dre/pt/html
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:19:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 191/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-171-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,17 +171,23 @@ A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
 1.3 - Facilitar o desenvolvimento do sentido de responsabilidade, espírito de iniciativa, aperfeiçoamento e actualização profissional permanentes, bem como do espírito de equipa em geral e em especial na sua actuação técnico-profissional e científica;
 
-1.4 - Proporcionar uma experiência alargada e supervisionada de intervenções psicoterapêuticas nos vários modelos teóricos adoptados nos serviços.
+1.4 - Proporcionar uma experiência alargada e supervisionada de diferentes modelos e técnicas psicológicas.
+
+> Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20.
 
 2 - Objectivos específicos:
 
-2.1 - Implementar programas de acção específicos (técnicas de observação, de entrevista, de psicodiagnóstico, psicoterapia individual ou de grupo, projectos de investigação científica);
+2.1 - Implementar programas de acção específicos, técnicas de observação, de entrevista, de avaliação psicológica, psicoterapia individual ou de grupo, projectos de investigação científica, ou outras acções científicas e técnicas no campo da saúde;
+
+> Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20.
 
 2.2 - Identificar, prevenir e tratar problemas psicológicos nos indivíduos e nos grupos;
 
 2.3 - Avaliação psicodiagnóstica de indivíduos e de grupos;
 
-2.4 - Intervenção psicoterapêutica individual, conjugal, familiar e de grupo;
+2.4 - Intervenção psicológica individual, conjugal, familiar e de grupos;
+
+> Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20.
 
 2.5 - Avaliar a qualidade e eficácia das intervenções adoptadas;
 
@@ -170,53 +195,23 @@ A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
 3 - Desenvolvimento do estágio:
 
-3.1 - Conteúdo - o estágio deverá abranger o estudo e tratamento psicológico do indivíduo nos seus diversos ciclos de vida. Neste sentido, consideram-se obrigatórias as seguintes áreas:
+3.1 - Conteúdo - o estágio deverá abranger o estudo e tratamento psicológico do indivíduo no seu ciclo de vida. Neste sentido, considera-se obrigatória a formação teórico-prática em avaliação e intervenção psicológica, tais como as psicopatologias, as psicoterapias e a psicologia da saúde.
 
-Psicologia e psicopatologia infantil e juvenil;
+Em cada uma destas áreas, o estagiário deverá participar em todas as actividades da equipa que integra, tal como enunciado nos objectivos específicos.
 
-Psicologia e psicopatologia do adulto.
+Deverá ainda frequentar cursos teóricos, organizados para esse fim. Os cursos teóricos abordarão os grandes temas da psicologia clínica e da saúde numa perspectiva evolutiva, tendo como objectivo o aprofundamento dos conhecimentos e metodologias de avaliação, intervenção e investigação psicológicas.
 
-Em cada uma destas áreas principais o estagiário deverá participar em todas as actividades da equipa que integra, tal como enunciado nos objectivos específicos.
+A fim de complementar a sua formação nas áreas acima mencionadas, deve o estagiário frequentar seminários, cursos, conferências ou outras acções formativas relacionadas com temas pertinentes para os serviços.
 
-Deverá ainda frequentar obrigatoriamente um curso teórico, organizado para esse fim. Os cursos teóricos abordarão os grandes temas da psicologia clínica numa perspectiva evolutiva, tendo como objectivo o aprofundamento teórico da psicopatologia e das intervenções psicoterapêuticas e a actualização dos novos conhecimentos no campo do psicodiagnóstico e da investigação.
+> Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20.
 
-A fim de complementar a sua formação nas áreas acima mencionadas, deve o estagiário frequentar seminários, cursos, conferências ou outras acções formativas relacionadas com os seguintes temas:
+3.2 - Calendarização do estágio - o estágio organiza-se em três períodos anuais. Os primeiros dois anos serão dedicados aos modelos e métodos de avaliação e intervenção psicológicas. No último ano de estágio a formação será levada a cabo através de cursos intensivos, seminários e conferências, orientados por especialistas de reconhecida competência nos domínios da psicologia clínica e da saúde, para além das actividades de consulta com supervisão.
 
-Psicologia do desenvolvimento e saúde infantil;
+O estágio pode ser efectuado em quaisquer serviços de saúde, incluindo serviços de saúde mental, cardiologia, neurologia, pediatria, centros de reabilitação, centros de saúde e outros serviços de cariz diverso ou de patologias específicas (hospitais e outras instituições de saúde).
 
-Psicologia e psicopatologia da adolescência;
+A formação clínica realizar-se-á nos diversos serviços sempre supervisionada por um psicólogo clínico com cinco ou mais anos de prática.
 
-Deficiência mental e reabilitação;
-
-Toxicodependência;
-
-Saúde familiar e comunitária;
-
-Psicogeriatria;
-
-Epidemiologia e prevenção;
-
-Neuropsicologia;
-
-Psicodiagnóstico;
-
-Psicologia forense;
-
-Psicofarmacologia;
-
-Modelos e técnicas psicoterapêuticas (modelo comportamental e cognitivo, modelo sistémico, modelo psicodinâmico);
-
-Metodologia da investigação.
-
-3.2 - Calendarização do estágio - o estágio organiza-se em três períodos anuais, sendo um ano dedicado à psicologia e psicopatologia infantil e juvenil, outro dedicado à psicologia e psicopatologia do adulto e o terceiro ano opcional. Neste último ano de estágio, a formação será levada a cabo através de cursos magistrais, seminários e conferências, orientados por especialistas de reconhecida competência nos domínios da psicologia clínica e da saúde, para além das actividades de consulta com supervisão.
-
-O estágio poderá iniciar-se por qualquer um dos módulos principais. Num e noutro casos, o estágio pode ser efectuado em serviços de saúde mental ou em outros serviços de saúde de cariz diverso, como cardiologia, neurologia, pediatria, centros de reabilitação, centros ou serviços de patologias específicas, nunca podendo ser prejudicada a formação em psicologia e psicopatologia infantil e juvenil e de adultos.
-
-A formação clínica realizar-se-á nos diversos serviços sempre supervisionada por um psicólogo clínico com mais de cinco anos de prática, em coordenação com o director do respectivo serviço ou com o chefe da equipa que integra.
-
-Compete à comissão de coordenação dos estágios esta articulação.
-
-O estágio deve compreender 50% de prática clínica supervisionada (avaliação e intervenção) e 50% de formação teórica.
+> Alterado pelo/a [Portaria n.º 191/97](https://diariodarepublica.pt/dr/detalhe/portaria/191-1997-518385), publicado em 1997-03-20.
 
 O estagiário deverá participar em todas as actividades desenvolvidas pelo serviço que digam respeito à sua formação, nomeadamente nas reuniões técnico-científicas (discussão de casos e orientação clínica) com outros profissionais.
 

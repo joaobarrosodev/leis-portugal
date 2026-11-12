@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:389376:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "Aprovar, sob proposta do Governo Regional dos Açores, a emissão de 19250000$00, em moedas de 25$00, e 27000000$00, em moedas de 100$00, alusivas à Região Autónoma dos Açores.\n\nO verso e anverso das moedas em causa serão em tudo conformes com os desenhos que junto se publicam, excepto no respeitante aos algarismos, que deverão ser, na de 25$00, 25 em lugar de 100.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 406/81: a Portaria 307/81 passa a ter nova redação (emissão em moedas de 25$00 e 100$00 e desenhos); substituída a parte dispositiva (unidade 5) pelos dois parágrafos novos, mantendo preâmbulo, assinatura e ligação para o documento original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

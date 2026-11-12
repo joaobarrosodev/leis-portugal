@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:468822:por",
+  "substituicoes": [
+    {
+      "de": 81,
+      "ate": 88,
+      "texto": "32.º A comissão administrativa do Mercado estabelecerá o horário de funcionamento do Mercado, procurando compatibilizar os interesses dos utentes compradores e vendedores e tendo em conta as possibilidades de funcionamento das instalações.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 24,
+      "texto": "6.º-A - A comissão consultiva do Mercado Abastecedor de Chaves de Oliveira, constituída nos termos do artigo 26.º do Regulamento dos Mercados Abastecedores de Frutas e Produtos Hortícolas, terá a seguinte composição alargada:\n\na) 1 representante da Direcção Regional de Agricultura de Entre Douro e Minho, que coordenará;\n\nb) 1 representante da Direcção-Geral do Comércio;\n\nc) 1 representante da Direcção-Geral de Fiscalização Económica;\n\nd) 1 representante da Junta Nacional das Frutas;\n\ne) 1 representante da Associação Nacional dos Armazenistas, Importadores e Exportadores de Frutas e Produtos Hortícolas;\n\nf) 1 representante da Confederação dos Agricultores de Portugal;\n\ng) 1 representante dos descarregadores e dos transportadores;\n\nh) 1 representante da Federação do Comércio Retalhista Português;\n\ni) 1 representante dos mandatários;\n\nj) 1 representante da Direcção de Saúde do Porto;\n\nk) 1 representante da Câmara Municipal do Porto;\n\nl) 1 membro da comissão administrativa;\n\nm) 1 membro da comissão de fiscalização.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Desp. Norm. 197/83 adita o artigo 6.º-A (composição alargada da comissão consultiva): inserido a seguir ao 6.º (unidade 24).",
+    "Desp. Norm. 198/83 dá nova redação ao artigo 32.º (horário): unidades 81-88 substituídas pela nova redação."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

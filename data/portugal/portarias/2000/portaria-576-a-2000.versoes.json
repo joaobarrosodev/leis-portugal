@@ -1,0 +1,156 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:395343:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-08-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e4a5af5bac1dc2cb",
+    "3f4c1227e058222d",
+    "d4c0cdcc82c6d955",
+    "ae8b5ccdff1478d4",
+    "b61dff19abf1c9c5",
+    "7fd450b0fc862a15",
+    "dae8f30f1c86675f",
+    "4a01c4a234e610e7",
+    "cc2625a1d40ce36b",
+    "4a8f0f1a3b497c2f",
+    "887e5a23cf99390a"
+   ]
+  },
+  {
+   "date": "2000-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:660753:por",
+     "title": "Portaria n.º 1209/2000",
+     "published": "2000-12-23",
+     "dre_path": "/dr/detalhe/portaria/1209-2000-660753"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO II — (a que se refere o n.º 2.º)::5.º"
+   ],
+   "fragments": [
+    "e4a5af5bac1dc2cb",
+    "3f4c1227e058222d",
+    "d4c0cdcc82c6d955",
+    "ae8b5ccdff1478d4",
+    "b61dff19abf1c9c5",
+    "7fd450b0fc862a15",
+    "dae8f30f1c86675f",
+    "1a5520df5bbbcfc3",
+    "cc2625a1d40ce36b",
+    "4a8f0f1a3b497c2f",
+    "887e5a23cf99390a"
+   ]
+  }
+ ],
+ "fragments": {
+  "e4a5af5bac1dc2cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Agosto\n\nAs chuvas intensas e contínuas de carácter excepcional ocorridas durante os meses de Abril e Maio originaram prejuízos significativos, em diversas zonas do continente, nalgumas culturas.\n\nDada a natureza deste fenómeno, os prejuízos não são passíveis de ser indemnizados pelo seguro de colheitas, pelo que se prevê uma quebra dos rendimentos dos agricultores afectados, com consequências no financiamento das culturas na próxima campanha.\n\nAtendendo ao carácter excepcional do fenómeno e à necessidade de criar condições para o relançamento das actividades, o Governo considera estarem reunidas as condições para declarar situação de calamidade agrícola de origem climatérica, nos termos e para os efeitos previstos no artigo 6.º do [Decreto-Lei n.º 20/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1996-535012), de 19 de Março, que institui o Sistema Integrado de Protecção contra as Aleatoriedades Climáticas.\n\nDe acordo com o estipulado na alínea c) do artigo 18.º do citado decreto-lei e tendo em conta a [Portaria n.º 388/99](https://diariodarepublica.pt/dr/detalhe/portaria/388-1999-316922), de 27 de Maio, importa, na sequência desta declaração, definir os termos de intervenção do Fundo de Calamidades, designadamente as condições de acesso à medida de apoio a criar no âmbito do Fundo.\n\nAssim, ao abrigo do artigo 6.º e da alínea c) do artigo 18.º, ambos do [Decreto-Lei n.º 20/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1996-535012), de 19 de Março:\n\nManda o Governo, pelos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É declarada situação de calamidade agrícola de origem climatérica para as culturas de batata, cereja, tomate e melão afectadas pelas chuvas intensas e contínuas ocorridas entre 1 de Abril e 31 de Maio de 2000, nas freguesias definidas no anexo I à presente portaria.\n\n2.º As ajudas a conceder aos agricultores revestirão a forma de bonificação de juros de empréstimos, nas condições estabelecidas no anexo II a esta portaria.\n\n3.º Por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, são estabelecidas as datas dos seguros de colheitas que relevam para efeitos de atribuição dos benefícios do Fundo de Calamidades.\n\nEm 7 de Agosto de 2000.\n\nPelo Ministro das Finanças, Manuel Pedro da Cruz Baganha, Secretáro de Estado dos Assuntos Fiscais. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos."
+  },
+  "3f4c1227e058222d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — (a que se refere o n.º 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — (a que se refere o n.º 1.º)\n\nBatata\n\nEntre Douro e Minho\n\nConcelho de Gondomar:\n\nFânzeres.\n\nFoz do Sousa.\n\nJovim.\n\nRio Tinto.\n\nSão Cosme.\n\nConcelho da Maia:\n\nFolgosa.\n\nGueifões.\n\nMilheirós.\n\nMoreira.\n\nNogueira.\n\nSão Pedro Fins.\n\nSilva Escura.\n\nSanta Maria de Avioso.\n\nVila Nova da Telha.\n\nConcelho de Matosinhos:\n\nCustóias.\n\nGuifões.\n\nLavra.\n\nLeça do Balio.\n\nPerafita.\n\nSanta Cruz do Bispo.\n\nConcelho da Póvoa de Varzim:\n\nAguçadora.\n\nAmorim.\n\nArgivai.\n\nA Ver-o-Mar.\n\nBeiriz.\n\nEstela.\n\nLaundos.\n\nNavais.\n\nTerroso.\n\nConcelho de Valongo:\n\nAlfena.\n\nErmesinde.\n\nConcelho de Vila do Conde:\n\nArcos.\n\nÁrvore.\n\nAveleda.\n\nAzurara.\n\nBagunte.\n\nCanidelo.\n\nFajoses.\n\nFerreiró.\n\nFornelo.\n\nGião.\n\nGuilhabreu.\n\nJunqueira.\n\nLabruge.\n\nMacieira da Maia.\n\nMalta.\n\nMindelo.\n\nModivas.\n\nMosteiró.\n\nOuteiro Maior.\n\nParada.\n\nTougues.\n\nTouguinha.\n\nTouguinhó.\n\nVairão.\n\nVila Chã.\n\nVilar.\n\nVilar de Pinheiro.\n\nConcelho de Vila Nova de Gaia:\n\nArcozelo.\n\nGulpilhares.\n\nMadalena.\n\nPedroso.\n\nSerzedo.\n\nValadares.\n\nBeira Litoral\n\nConcelho de Anadia:\n\nAmoreira da Gândara.\n\nParedes do Bairro.\n\nSão Lourenço do Bairro.\n\nSangalhos.\n\nVilarinho do Bairro.\n\nConcelho da Batalha:\n\nBatalha.\n\nGolpilheira.\n\nConcelho de Cantanhede:\n\nAnçã.\n\nBolho.\n\nCadima.\n\nCamarneira.\n\nCantanhede.\n\nCordinhã.\n\nCorticeiro de Cima.\n\nCovões.\n\nFebres.\n\nMurtede.\n\nOurentã.\n\nOutil.\n\nPocariça.\n\nPortunhos.\n\nSão Caetano.\n\nSanguinheira.\n\nSepins.\n\nTocha.\n\nVilamar.\n\nConcelho de Vagos:\n\nCalvão.\n\nCovão do Lobo.\n\nFonte de Angeão.\n\nGafanha da Boa Hora.\n\nOuca.\n\nPonte de Vagos\n\nSosa.\n\nSanta Catarina.\n\nSanto André de Vagos.\n\nSanto António de Vagos.\n\nVagos.\n\nConcelho de Oliveira do Bairro:\n\nBustos.\n\nMamarrosa.\n\nOiã.\n\nOliveira do Bairro.\n\nPalhaça.\n\nTroviscal.\n\nConcelho de Aveiro:\n\nAradas.\n\nCacia.\n\nEirol.\n\nEixo.\n\nEsgueira.\n\nNariz.\n\nNossa Senhora de Fátima.\n\nOliveirinha.\n\nRequeixo.\n\nSão Bernardo.\n\nSanta Joana.\n\nConcelho de Ílhavo:\n\nGafanha da Encarnação.\n\nGafanha do Carmo.\n\nSão Salvador.\n\nConcelho de Coimbra:\n\nLamarosa.\n\nSão João do Campo.\n\nSão Martinho de Árvore.\n\nSão Silvestre.\n\nConcelho de Condeixa-a-Nova:\n\nAnobra.\n\nBelide.\n\nCondeixa-a-Nova.\n\nCondeixa-a-Velha.\n\nEga.\n\nSebal.\n\nConcelho da Figueira da Foz:\n\nBom Sucesso.\n\nFerreira-a-Nova.\n\nMaiorca.\n\nQuiaios.\n\nSantana.\n\nConcelho da Mealhada:\n\nAntes.\n\nBarcouço.\n\nCasal Comba.\n\nMealhada.\n\nPampilhosa.\n\nVentosa do Bairro.\n\nConcelho de Mira:\n\nCarapelhos.\n\nMira.\n\nPraia de Mira.\n\nSeixo.\n\nConcelho de Montemor-o-Velho:\n\nAbrunheira.\n\nArazede.\n\nCarapinheira.\n\nEreira.\n\nGatões.\n\nLiceia.\n\nMeães do Campo.\n\nMontemor-o-Velho.\n\nPereira.\n\nSanto Varão.\n\nSeixo dos Gatões.\n\nTentúgal.\n\nVerride.\n\nVila Nova da Barca.\n\nConcelho de Porto de Mós:\n\nJuncal.\n\nConcelho de Soure:\n\nAlfarelos.\n\nBrunhós.\n\nDegracias.\n\nFigueiró do Campo.\n\nGesteira.\n\nGranja do Ulmeiro.\n\nPombalinho.\n\nSamuel.\n\nSoure.\n\nTapeus.\n\nVila Nova de Anços.\n\nVinha da Rainha.\n\nRibatejo e Oeste\n\nTodas as freguesias dos seguintes concelhos:\n\nAlcobaça, Alpiarça, Benavente, Bombarral, Cadaval, Caldas da Rainha, Chamusca, Golegã, Lourinhã, Nazaré, Óbidos, Peniche, Salvaterra de Magos, Torres Vedras e Vila Nova da Barquinha.\n\nCereja\n\nEntre Douro e Minho\n\nConcelho de Resende:\n\nAnreade.\n\nBarrô.\n\nCárquere.\n\nFelgueiras.\n\nFreigil.\n\nMiomães.\n\nPaus.\n\nResende.\n\nSão Cipriano.\n\nSão João de Fontoura.\n\nSão Martinho dos Mouros.\n\nSão Romão de Aregos.\n\nConcelho de Cinfães:\n\nCinfães.\n\nEspadanedo.\n\nMoimenta.\n\nNespereira.\n\nOliveira do Douro.\n\nSão Cristóvão de Nogueira.\n\nSantiago de Piães\n\nSouselo.\n\nTarouquela.\n\nTravanca.\n\nConcelho de Baião:\n\nAncede.\n\nCovelos.\n\nLoivos da Ribeira.\n\nOvil.\n\nRibadouro.\n\nSanta Cruz do Douro.\n\nSanta Marinha do Zêzere.\n\nTresouras.\n\nConcelho de Cabeceiras de Basto:\n\nFaia.\n\nConcelho de Marco de Canaveses:\n\nPaços de Gaiolo.\n\nParedes de Viadores.\n\nTuias.\n\nTrás-os-Montes\n\nConcelho de Lamego:\n\nAlmacave.\n\nCambres.\n\nFerreiro de Avões.\n\nLamego (Sé).\n\nPenajóia.\n\nSamodães.\n\nSande.\n\nConcelho de Tarouca:\n\nGouviães.\n\nConcelho de Armamar:\n\nAldeias.\n\nAriceira.\n\nArmamar.\n\nCimbres.\n\nFolgosa.\n\nFontelo.\n\nGoujoim.\n\nQueimada.\n\nQueimadela.\n\nSão Cosmado.\n\nSão Martinho de Chãs.\n\nSão Romão.\n\nSanta Cruz de Lumiares.\n\nSantiago.\n\nSanto Adrião.\n\nTões.\n\nVacalar.\n\nVila Seca.\n\nConcelho de Tabuaço:\n\nBarcos.\n\nSanta Leocádia.\n\nTabuaço.\n\nTávora.\n\nConcelho de Mesão Frio:\n\nBarqueiros.\n\nMesão Frio (São Nicolau).\n\nMesão Frio (Santa Cristina).\n\nVila Jusã.\n\nVila Marim.\n\nConcelho de Peso da Régua:\n\nCanelas.\n\nCovelinhas.\n\nFontelas.\n\nGalafura.\n\nGodim.\n\nLoureiro.\n\nMouramorta.\n\nPeso da Régua.\n\nPoiares.\n\nSedielos.\n\nVilarinho de Freire.\n\nVinhós.\n\nConcelho de Mirandela:\n\nMascarenhas.\n\nConcelho de Valpaços:\n\nÁgua Revés.\n\nBeira Interior\n\nConcelho do Fundão:\n\nAlcaide.\n\nAlcaria.\n\nAlcongosta.\n\nAldeia de Joanes.\n\nAldeia Nova do Cabo.\n\nAlpedrinha.\n\nAtalaia do Campo.\n\nCapinha.\n\nCastelejo.\n\nCastelo Novo.\n\nDonas.\n\nEnxames.\n\nFatela.\n\nFundão.\n\nOrca.\n\nPêro Viseu.\n\nPóvoa da Atalaia.\n\nSoalheira.\n\nSouto da Casa.\n\nTelhado.\n\nVale Prazeres.\n\nValverde.\n\nConcelho da Covilhã:\n\nDominguizo.\n\nFerro.\n\nPeraboa.\n\nTeixoso.\n\nTortosendo.\n\nConcelho da Guarda:\n\nAldeia Viçosa.\n\nCavadoude.\n\nFaia.\n\nMaçainhas de Baixo.\n\nMizarela.\n\nPêro Soares.\n\nPorto da Carne.\n\nVila Soeiro.\n\nConcelho de Belmonte:\n\nCaria.\n\nConcelho de Proença-a-Nova:\n\nAlvito da Beira.\n\nMontes da Senhora.\n\nProença-a-Nova.\n\nSobreira Formosa.\n\nRibatejo e Oeste\n\nConcelho de Ferreira do Zêzere:\n\nTodas as freguesias.\n\nAlentejo\n\nConcelho de Portalegre:\n\nSão Julião.\n\nTomate\n\nRibatejo e Oeste\n\nConcelho de Alenquer:\n\nAlenquer.\n\nCarregado.\n\nConcelho de Almeirim:\n\nTodas as freguesias.\n\nConcelho de Alpiarça:\n\nTodas as freguesias.\n\nConcelho da Azambuja:\n\nAzambuja.\n\nVila Nova da Rainha.\n\nConcelho de Benavente:\n\nTodas as freguesias.\n\nConcelho de Constância:\n\nMontalvo.\n\nConcelho do Montijo:\n\nCanha.\n\nConcelho da Chamusca:\n\nCarregueira.\n\nChamusca.\n\nParreira.\n\nPinheiro Grande.\n\nVale de Cavalos.\n\nConcelho de Vila Franca de Xira:\n\nCastanheira do Ribatejo.\n\nVila Franca de Xira.\n\nConcelho de Coruche:\n\nTodas as freguesias, com excepção dos campos da freguesia de Branca contíguos aos limites do concelho do Montijo que tenham sido cultivados com tomate para indústria em 1999.\n\nConcelho da Golegã:\n\nTodas as freguesias.\n\nConcelho de Santarém:\n\nMarvila de Santarém.\n\nPombalinho.\n\nRibeira de Santarém.\n\nSão Vicente do Paul.\n\nVale de Figueira.\n\nConcelho de Abrantes:\n\nRio de Moinhos.\n\nRossio ao sul do Tejo.\n\nConcelho de Torres Novas:\n\nSalvador.\n\nRiachos.\n\nConcelho de Salvaterra de Magos:\n\nTodas as freguesias.\n\nConcelho de Loures:\n\nSanta lria de Azoia.\n\nSão Julião do Tojal.\n\nConcelho do Cartaxo:\n\nValada.\n\nVila Chã de Ourique.\n\nAlentejo\n\nConcelho de Avis:\n\nAldeia Velha.\n\nAvis.\n\nBenavila.\n\nErvedal.\n\nMaranhão.\n\nValongo.\n\nConcelho de Ferreira do Alentejo:\n\nAlfundão.\n\nFerreira do Alentejo.\n\nFigueira de Cavaleiros.\n\nConcelho de Santiago do Cacém:\n\nAlvalade do Sado.\n\nSão Domingos.\n\nSanta Cruz.\n\nSantiago do Cacém.\n\nSanto André.\n\nConcelho de Odemira:\n\nBicos.\n\nConcelho de Montemor-o-Novo:\n\nCabrela.\n\nForos de Vale de Figueira.\n\nLavre.\n\nMontemor (Nossa Senhora da Vila).\n\nSantiago do Escoural.\n\nConcelho de Campo Maior:\n\nTodas as freguesias.\n\nConcelho de Sousel:\n\nCano.\n\nCasa Branca.\n\nSanto Amaro.\n\nSousel.\n\nConcelho de Elvas:\n\nTodas as freguesias.\n\nConcelho de Grândola:\n\nGrândola.\n\nMelides.\n\nConcelho de Aljustrel:\n\nTodas as freguesias.\n\nConcelho de Estremoz:\n\nSão Bento do Cortiço.\n\nConcelho de Mora:\n\nTodas as freguesias.\n\nConcelho de Vendas Novas:\n\nVendas Novas.\n\nConcelho do Alvito:\n\nVila Nova da Baronia.\n\nConcelho de Arraiolos:\n\nVimieiro.\n\nConcelho Ponte de Sor:\n\nTramaga.\n\nMontargil.\n\nPonte de Sor.\n\nConcelho de Fronteira:\n\nCabeço de Vide.\n\nFronteira.\n\nSão Saturnino.\n\nVale de Seda.\n\nMelão\n\nRibatejo e Oeste\n\nConcelho de Alenquer:\n\nAlenquer.\n\nCarregado.\n\nConcelho de Almeirim:\n\nTodas as freguesias.\n\nConcelho de Alpiarça:\n\nTodas as freguesias.\n\nConcelho de Azambuja:\n\nAzambuja.\n\nVila Nova da Rainha.\n\nConcelho de Benavente:\n\nTodas as freguesias.\n\nConcelho de Constância:\n\nMontalvo.\n\nConcelho do Montijo:\n\nCanha.\n\nConcelho da Chamusca:\n\nCarregueira.\n\nChamusca.\n\nParreira.\n\nPinheiro Grande.\n\nVale de Cavalos\n\nConcelho de Vila Franca de Xira:\n\nTodas as freguesias.\n\nConcelho de Coruche:\n\nTodas as freguesias.\n\nConcelho da Golegã:\n\nTodas as freguesias.\n\nConcelho de Santarém:\n\nMarvila de Santarém.\n\nPombalinho.\n\nRibeira de Santarém.\n\nSão Vicente do Paul.\n\nVale de Figueira.\n\nConcelho de Abrantes:\n\nRio de Moinhos.\n\nRossio ao sul do Tejo.\n\nConcelho de Torres Novas:\n\nSalvador.\n\nRiachos.\n\nConcelho de Salvaterra de Magos:\n\nTodas as freguesias.\n\nConcelho de Loures:\n\nSanta Iria de Azoia.\n\nSão Julião do Tojal.\n\nConcelho do Cartaxo:\n\nValada.\n\nVila Chã de Ourique."
+  },
+  "d4c0cdcc82c6d955": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — (a que se refere o n.º 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — (a que se refere o n.º 2.º)\n\nRegulamento que estabelece o regime de intervenção do Fundo de Calamidades"
+  },
+  "ae8b5ccdff1478d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - São criadas duas linhas de crédito com o objectivo de disponibilizar meios financeiros para relançamento das culturas de batata, cereja, tomate e melão nas freguesias mencionadas no anexo I.\n\n2 - Uma das linhas de crédito é destinada a pequenos produtores e a outra aos restantes produtores.\n\n3 - Entende-se por pequeno produtor, para os efeitos deste regulamento, o que exerce a sua actividade em exploração de dimensão inferior a 5 ha."
+  },
+  "b61dff19abf1c9c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Montante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Montante\n\nO montante global máximo de crédito a conceder é de 2 milhões de contos na linha para pequenos produtores e de 3 milhões de contos na linha para os restantes produtores."
+  },
+  "7fd450b0fc862a15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acesso\n\n1 - Têm acesso à linha de crédito as entidades que desenvolvam as culturas de batata, cereja, tomate e melão nas freguesias mencionadas no anexo I, com perdas de produção iguais ou superiores a 50% já confirmadas pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas e que tenham celebrado seguro de colheitas e aderido ao Fundo de Calamidades em 2000.\n\n2 - O montante máximo de crédito por hectare a conceder a cada entidade corresponde ao valor que consta na linha de crédito de curto prazo - agricultura, silvicultura e pecuária, actualmente em vigor."
+  },
+  "dae8f30f1c86675f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Forma\n\nO crédito é concedido sob a forma de empréstimo reembolsável pelas instituições de crédito que celebrem protocolo com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP)."
+  },
+  "4a01c4a234e610e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Utilização, prazo e condições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Utilização, prazo e condições financeiras\n\n1 - Os empréstimos são concedidos pelo prazo máximo de quatro anos e amortizáveis anualmente, em prestações de igual montante, vencendo-se a primeira amortização, no máximo, um ano após a data prevista para a primeira utilização.\n\n2 - A utilização dos empréstimos é realizada no prazo máximo de seis meses após a data do contrato, podendo efectuar-se até quatro utilizações por operação.\n\n3 - Os empréstimos vencem juros, contados dia a dia sobre o capital efectivamente utilizado, à taxa de juro anual contratada. Os juros são calculados e pagos anual e postecipadamente.\n\n4 - São atribuídas as seguintes bonificações de juros:\n\nLinha de crédito para os pequenos produtores:\n\n1.º ano - 100% da taxa de referência;\n\n2.º ano - 100% da taxa de referência;\n\n3.º ano - 100% da taxa de referência;\n\nLinha de crédito para os restante produtores:\n\n1.º ano - 80% da taxa de referência;\n\n2.º ano - 60% da taxa de referência;\n\n3.º ano - 40% da taxa de referência.\n\n5 - As percentagens referidas no número anterior são aplicadas sobre a taxa de referência criada pelo [Decreto-Lei n.º 359/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1989-549393), de 18 de Outubro, em vigor no início do período de contagem de juros, salvo se aquela for superior à taxa activa praticada pela instituição de crédito, caso em que aquelas percentagens são aplicadas sobre esta última."
+  },
+  "cc2625a1d40ce36b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições de bonificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de bonificação\n\n1 - A bonificação dos juros é processada enquanto se verificar o pontual cumprimento das obrigações contratualmente assumidas pelos mutuários.\n\n2 - O incumprimento de qualquer destas obrigações deve ser prontamente comunicado pelas instituições de crédito ao IFADAP e acarreta a cessação das bonificações.\n\n3 - A cessação das bonificações importa para o mutuário o pagamento dos juros à taxa contratual desde a data da última contagem de responsabilidades anterior à data do incumprimento."
+  },
+  "4a8f0f1a3b497c2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Outras condições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Outras condições\n\n1 - Compete ao IFADAP adoptar as normas técnicas, financeiras e de funcionamento das linhas de crédito necessárias à execução deste diploma.\n\n2 - As instituições de crédito fornecem pontualmente ao IFADAP todas as informações por este solicitadas relativamente à aplicação do disposto no presente diploma."
+  },
+  "887e5a23cf99390a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Financiamento\n\nOs encargos financeiros referentes à bonificação da taxa de juro dos empréstimos são suportados pelas verbas do programa SIPAC, projecto Fundo de Calamidades, que será, para o efeito, reforçado com as verbas necessárias."
+  },
+  "1a5520df5bbbcfc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Utilização, prazo e condições financeiras",
+   "in_force_from": "2000-12-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1209/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1209-2000-660753), publicado em 2000-12-23."
+   ],
+   "markdown": "###### Artigo 5.º — Utilização, prazo e condições financeiras\n\n1 - Os empréstimos são concedidos pelo prazo máximo de quatro anos e amortizáveis anualmente, em prestações de igual montante, vencendo-se a primeira amortização, no máximo, dois anos após a data prevista para a primeira utilização.\n\n2 - A utilização dos empréstimos é realizada no prazo máximo de seis meses após a data do contrato, podendo efectuar-se até quatro utilizações por operação.\n\n3 - Os empréstimos vencem juros, contados dia a dia sobre o capital efectivamente utilizado, à taxa de juro anual contratada. Os juros são calculados e pagos anual e postecipadamente.\n\n4 - São atribuídas as seguintes bonificações de juros:\n\nLinha de crédito para os pequenos produtores:\n\n1.º ano - 100% da taxa de referência;\n\n2.º ano - 100% da taxa de referência;\n\n3.º ano - 100% da taxa de referência;\n\nLinha de crédito para os restante produtores:\n\n1.º ano - 80% da taxa de referência;\n\n2.º ano - 60% da taxa de referência;\n\n3.º ano - 40% da taxa de referência.\n\n5 - As percentagens referidas no número anterior são aplicadas sobre a taxa de referência criada pelo [Decreto-Lei n.º 359/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1989-549393), de 18 de Outubro, em vigor no início do período de contagem de juros, salvo se aquela for superior à taxa activa praticada pela instituição de crédito, caso em que aquelas percentagens são aplicadas sobre esta última.\n\n> Alterado pelo/a [Portaria n.º 1209/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1209-2000-660753), publicado em 2000-12-23."
+  }
+ }
+}

@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2017-06-28'
+version_history:
+  file: portaria-538-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-06-28'
+    amending: pt:dre:107573231:por
+    amending_title: Portaria n.º 200/2017
+    changes:
+    - Altera Artigo unidades 15-15
+    - Altera Artigo unidades 27-27
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:10:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 200/2017. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-538-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,7 +151,9 @@ O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 Adaptação do protocolo do Centro de Formação Profissional para o Sector da Indústria de Ourivesaria e Relojoaria do Norte.
 
-O Instituto do Emprego e Formação Profissional (IEFP) e a Associação das Indústrias de Ourivesaria e Relojoaria do Norte adaptam o protocolo que criou o Centro de Formação Profissional de harmonia com as cláusulas seguintes:
+O Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), e a Associação de Ourivesaria e Relojoaria de Portugal (AORP) adotam o Protocolo que criou o Centro de Formação Profissional, de harmonia com as cláusulas seguintes:
+
+> Alterado pelo/a [Portaria n.º 200/2017](https://diariodarepublica.pt/dr/detalhe/portaria/200-2017-107573231), publicado em 2017-06-27.
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -159,7 +177,9 @@ Destinatários
 
 A frequência do Centro é facultada, por ordem de prioridades:
 
-a) Aos empresários e trabalhadores das empresas associadas da Associação da Indústria de Ourivesaria e Relojoaria do Norte;
+a) Aos empresários e trabalhadores das empresas associadas da Associação de Ourivesaria e Relojoaria de Portugal (AORP);
+
+> Alterado pelo/a [Portaria n.º 200/2017](https://diariodarepublica.pt/dr/detalhe/portaria/200-2017-107573231), publicado em 2017-06-27.
 
 b) Aos candidatos às profissões que se enquadrem no âmbito do sector de actividade do segundo outorgante;
 

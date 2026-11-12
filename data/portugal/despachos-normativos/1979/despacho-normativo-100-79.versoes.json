@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:383028:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-05-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2b7409d5008f5811"
+   ]
+  },
+  {
+   "date": "1979-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:377913:por",
+     "title": "Despacho Normativo n.º 190/79",
+     "published": "1979-08-08",
+     "dre_path": "/dr/detalhe/despacho-normativo/190-1979-377913"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 11-81"
+   ],
+   "fragments": [
+    "9b73296cac4b5ae6"
+   ]
+  }
+ ],
+ "fragments": {
+  "2b7409d5008f5811": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo, no exercício da competência que lhe é conferida pelo n.º 3 do artigo 2.º do [Decreto-Lei n.º 50/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1978-447101), de 28 de Março, o Ministro da Indústria e Tecnologia nomeado, pelo Despacho n.º 207/78, de 13 de Setembro, os elementos que compõem a comissão a que alude o n.º 2 do mesmo artigo, e nos termos aí transcritos;\n\nTendo a dita comissão tomado o exercício de funções em ordem a concretizar as incumbências referidas no n.º 2 do citado artigo;\n\nTendo, relativamente à definição das características de preço, cilindrada e potência, essa comissão elaborado e apresentado, em conformidade com a classificação e emprego de veículos, de harmonia com o disposto, respectivamente, no n.º 1 do artigo 2.º e no n.º 1 do artigo 3.º, uma proposta de aprovação, contendo vários agrupamentos e escalões condizentes com a lei, devidamente diferenciados e ajustados às capacidades financeiras actuais do Estado e seus serviços;\n\nPor outro lado, considerando que, para se conseguir a necessária uniformidade de prática no concernente à aquisição de veículos, se torna imperioso que as definições adoptadas sejam estendidas a todos os Ministérios e outros serviços do Estado, mediante adequado instrumento administrativo;\n\nConsiderando, na verdade, que, para esse efeito, é bastante um despacho normativo assinado por cada um dos Ministros de cujo Ministério saiu o membro que, nos termos do n.º 2 do artigo 2.º do [Decreto-Lei n.º 50/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1978-447101), de 28 de Março, passou a fazer parte da comissão acima referida.\n\nDeste modo, consoante o exposto, determina-se:\n\n1 - Sem prejuízo de revisão a efectuar decorridos seis meses, é aprovada, para o corrente ano económico, a proposta formulada pela comissão a que alude o n.º 2 do artigo 2.º do [Decreto-Lei n.º 50/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1978-447101), de 28 de Março, contendo a definição das características de preço, cilindrada e potência dos veículos a adquirir pelo Estado ou pelos seus serviços personalizados.\n\n2 - A mencionada proposta, que vem em anexo e faz parte integrante deste despacho, é de aplicação obrigatória e imediata\n\nMinistérios das Finanças e do Plano, da Indústria e Tecnologia e do Comércio e Turismo, 18 de Abril de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia.\n\n1 - Veículos automóveis\n\n1.1 - Para serviços gerais:\n\n1.1.1 - Tipo A, não especificados:\n\nPreço: até 230 contos.\n\nCilindrada: até 1000 c. c.\n\nPotência: até 40 cv DIN a 5800 r. p. m.\n\n1.1.2 - Tipo B, para passageiros:\n\nPreço: até 300 contos.\n\nCilindrada: até 1500 c. c.\n\nPotência: até 70 cv DIN a 6000 r. p. m.\n\n1.2 - Para uso pessoal:\n\nPreço: até 800 contos.\n\nCilindrada: até 2200 c. c.\n\nPotência: até 130 cv DIN a 6000 r. p. m.\n\n1.3 - Para serviços extraordinários:\n\n1.3.1 - Normal:\n\nPreço: até 800 contos.\n\nCilindrada: até 2000 c. c.\n\nPotência: até 130 cv DIN a 6000 r. p. m.\n\n1.3.2 - Económico:\n\nPreço: até 600 contos.\n\nCilindrada: até 1500 c. c. diesel.\n\nPotência: até 50 cv DIN a 5000 r. p. m.\n\n1.4 - De representação:\n\n(Características a serem definidas caso a caso pela comissão competente.)\n\n2 - Veículos mistos\n\n2.1 - Normais:\n\nPreço: até 350 contos.\n\nCilindrada: até 1500 c. c.\n\nPotência: até 70 cv DIN a 6000 r. p. m.\n\n2.2 - Económico:\n\nPreço: até 650 contos.\n\nCilindrada: até 1500 c. c.\n\nPotência: até 50 cv DIN a 5000 r. p. m.\n\n2.3 - Grandes:\n\nPreço: até 800 contos.\n\nCilindrada: 2200 c. c.\n\nPotência: até 65 cv DIN a 4500 r. p. m.\n\n3 - Veículos de carga\n\n3.1 - Até 1000 kg de capacidade de carga:\n\nPreço: até 250 contos.\n\nCilindrada: até 1500 c. c.\n\nPotência: até 65 cv DIN a 6000 r. p. m.\n\n3.2 - Até 3500 kg de capacidade de carga:\n\nPreço: até 500 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\n3.3 - Até 800 kg de capacidade de carga:\n\nPreço: até 850 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\n3.4 - Acima de 8000 kg de capacidade de carga:\n\nPreço: livre.\n\nCilindrada: livre.\n\nPotência: livre.\n\n4 - Autocarros\n\n4.1 - Até 10 lugares:\n\nPreço: até 600 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\n4.2 - Até 19 lugares:\n\nPreço: até 1000 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\n4.3 - Mais de 20 lugares:\n\nPreço: até 2500 contos.\n\nCilindrada: livre\n\nPotência: livre.\n\n5 - Veículos todo o terreno\n\n(com tracção nas quatro rodas)\n\nPreço: até 700 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\nO Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia."
+  },
+  "9b73296cac4b5ae6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1979-08-08",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 190/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/190-1979-377913), publicado em 1979-08-08."
+   ],
+   "markdown": "Tendo, no exercício da competência que lhe é conferida pelo n.º 3 do artigo 2.º do [Decreto-Lei n.º 50/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1978-447101), de 28 de Março, o Ministro da Indústria e Tecnologia nomeado, pelo Despacho n.º 207/78, de 13 de Setembro, os elementos que compõem a comissão a que alude o n.º 2 do mesmo artigo, e nos termos aí transcritos;\n\nTendo a dita comissão tomado o exercício de funções em ordem a concretizar as incumbências referidas no n.º 2 do citado artigo;\n\nTendo, relativamente à definição das características de preço, cilindrada e potência, essa comissão elaborado e apresentado, em conformidade com a classificação e emprego de veículos, de harmonia com o disposto, respectivamente, no n.º 1 do artigo 2.º e no n.º 1 do artigo 3.º, uma proposta de aprovação, contendo vários agrupamentos e escalões condizentes com a lei, devidamente diferenciados e ajustados às capacidades financeiras actuais do Estado e seus serviços;\n\nPor outro lado, considerando que, para se conseguir a necessária uniformidade de prática no concernente à aquisição de veículos, se torna imperioso que as definições adoptadas sejam estendidas a todos os Ministérios e outros serviços do Estado, mediante adequado instrumento administrativo;\n\nConsiderando, na verdade, que, para esse efeito, é bastante um despacho normativo assinado por cada um dos Ministros de cujo Ministério saiu o membro que, nos termos do n.º 2 do artigo 2.º do [Decreto-Lei n.º 50/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1978-447101), de 28 de Março, passou a fazer parte da comissão acima referida.\n\nDeste modo, consoante o exposto, determina-se:\n\n1 - Sem prejuízo de revisão a efectuar decorridos seis meses, é aprovada, para o corrente ano económico, a proposta formulada pela comissão a que alude o n.º 2 do artigo 2.º do [Decreto-Lei n.º 50/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1978-447101), de 28 de Março, contendo a definição das características de preço, cilindrada e potência dos veículos a adquirir pelo Estado ou pelos seus serviços personalizados.\n\n2 - A mencionada proposta, que vem em anexo e faz parte integrante deste despacho, é de aplicação obrigatória e imediata\n\nMinistérios das Finanças e do Plano, da Indústria e Tecnologia e do Comércio e Turismo, 18 de Abril de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia.\n\n1 - Veículos automóveis:\n\n1.1 - Para serviços gerais:\n\n1.1.1 - Tipo A, não especificados:\n\nPreço: até 300 contos.\n\nCilindrada: até 1000 cm3.\n\nPotência: até 45 cv DIN a 5800 r. p. m.\n\n1.1.2 - Tipo B, para passageiros:\n\nPreço: até 400 contos.\n\nCilindrada: até 1300 cm3.\n\nPotência: até 65 cv DIN a 5800 r. p. m.\n\n1.2 - Pare uso pessoal:\n\nPreço: até 980 contos.\n\nCilindrada: até 2300 cm3.\n\nPotência: até 85 cv DIN 5800 r. p. m.\n\n1.3 - Para serviços extraordinários:\n\n1.3.1 - Normal:\n\nPreço: até 900 contos.\n\nCilindrada: até 2200 cm3\n\nPotência: até 80 cv DIN a 5800 r. p. m.\n\n1.3.2 - Económico:\n\nPreço: até 600 contos.\n\nCilindrada: até 1500 cm3 diesel.\n\nPotência: até 50 cv DIN a 5000 r. p. m.\n\n1.4 - De representação:\n\n(Características a serem definidas caso a caso pelo Gabinete de Gestão de Veículos do Estado.)\n\n2 - Veículos mistos:\n\n3.1 - Normais:\n\nPreço: até 420 contos.\n\nCilindrada: até 1300 cm3.\n\nPotência: até 70 cv DIN a 5800 r. p. m.\n\n2.2 - Económico:\n\nPreço: até 650 contos.\n\nCilindrada: 1500 cm3.\n\nPotência: até 50 cv DIN a 5000 r. p. m.\n\n2.3 - Grandes:\n\nPreço: até 850 contos.\n\nCilindrada: 2200 cm3.\n\nPotência: até 65 cv DIN a 5000 r. p. m.\n\n3 - Veículos de carga:\n\n3.1 - Até 1000 kg de capacidade de carga:\n\nPreço: até 400 contos.\n\nCilindrada: até 1500 cm3.\n\nPotência: até 65 cv DIN a 5800 r. p. m.\n\n3.2 - Até 3500 kg de capacidade de carga:\n\nPreço: até 600 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\n3.3 - Até 8000 kg de capacidade de carga:\n\nPreço: até 1200 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\n3.4 - Acima de 8000 kg de capacidade de carga:\n\nPreço: livre.\n\nCilindrada: livre.\n\nPotência: livre.\n\n4 - Autocarros:\n\n4.1 - Até 9 lugares:\n\nPreço: até 700 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\n4.2 - Até 19 lugares:\n\nPreço: até 1300 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\n4.3 - Mais de 20 lugares:\n\nPreço: até 2800 contos.\n\nCilindrada: livre.\n\nPotência: livre.\n\n5 - Veículos todo o terreno (com tracção nas quatro rodas):\n\nPreço: até 800 contos.\n\n> Alterado pelo/a [Despacho Normativo n.º 190/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/190-1979-377913), publicado em 1979-08-08.\n\nCilindrada: livre.\n\nPotência: livre.\n\nO Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia."
+  }
+ }
+}

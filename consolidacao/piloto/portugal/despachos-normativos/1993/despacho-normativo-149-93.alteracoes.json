@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - A criação do lugar referido no número anterior produz efeitos desde 10 de Junho de 1992, considerando-se tais efeitos como reportados ao quadro da ex-Biblioteca Nacional até à entrada em vigor da portaria referida no número anterior.",
+    "depois": "2 - A criação do lugar referido no número anterior produz efeitos a partir de 1 de Abril de 1992, considerando-se tais efeitos como reportados ao quadro da ex-Biblioteca Nacional até à entrada em vigor da portaria referida no número anterior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:388869:por",
+    "alterador": "pt:dre:690794:por"
+  }
+]

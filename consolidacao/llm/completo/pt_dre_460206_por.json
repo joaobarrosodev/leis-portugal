@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:460206:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Constituição",
+      "texto": "1 - Integram o Instituto:\n\na) A Escola Superior de Educação;\n\nb) A Escola Superior Agrária;\n\nc) A Escola Superior de Tecnologia e de Gestão;\n\nd) A Escola Superior de Enfermagem.\n\n2 - A criação, integração e entrada em funcionamento de novas escolas ou outras unidades orgânicas no Instituto, bem como a modificação ou extinção das existentes, regula-se pelo disposto na alínea b) do n.º 2 do artigo 7.º da lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro).",
+      "alterador": 1
+    },
+    {
+      "chave": "59.º-A",
+      "epigrafe": "Membros dos órgãos de gestão da Escola Superior de Enfermagem",
+      "texto": "1 - A Escola Superior de Enfermagem deve, no prazo de 10 dias a contar da publicação da presente revisão dos Estatutos, proceder à eleição dos membros dos seus órgãos, bem como eleger os seus representantes nos órgãos do Instituto, nos termos previstos nos Estatutos.\n\n2 - Até à eleição do conselho directivo da Escola Superior de Enfermagem, a directora da Escola Superior de Enfermagem integra, por inerência, o conselho geral do Instituto e a sua comissão permanente.\n\n3 - Durante o período transitório previsto no número anterior, a directora da Escola Superior de Enfermagem participa, conjuntamente com os presidentes dos conselhos directivos das Escolas, na aprovação das propostas previstas no n.º 5 do artigo 19.º dos presentes Estatutos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "A nova redação do anexo I (emblemática) não se aplica: no texto atual o anexo I é só um título de divisão sem artigos e o texto novo depende de figuras que só vêm em imagem.",
+  "instrucoes": [
+    "n.º 1: nova redação do art. 2.º (aditada alínea d)) — aplicada",
+    "n.º 2: aditado art. 59.º-A — aplicado",
+    "n.º 3: nova redação do anexo I — não aplicável (sem artigo no texto atual; figuras em imagem)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:386645:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-06-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3ebe30edef51e93c"
+   ]
+  },
+  {
+   "date": "1985-09-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177429:por",
+     "title": "Portaria n.º 693/85",
+     "published": "1985-09-18",
+     "dre_path": "/dr/detalhe/portaria/693-1985-177429"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 37-37"
+   ],
+   "fragments": [
+    "227e51d7f0ed816e"
+   ]
+  }
+ ],
+ "fragments": {
+  "3ebe30edef51e93c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Junho\n\nSob proposta da Universidade de Aveiro;\n\nTendo em vista o disposto na [Portaria n.º 757/82](https://diariodarepublica.pt/dr/detalhe/portaria/757-1982-397280), de 5 de Agosto;\n\nAo abrigo do disposto no artigo 13.º do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar a estrutura orgânica do quadro de professores catedráticos e associados da Universidade de Aveiro, constante em anexo a esta portaria.\n\nMinistério da Educação.\n\nAssinada em 22 de Maio de 1984.\n\nO Ministro da Educação, José Augusto Seabra.\n\nAnexo à Portaria n.º 359/84\n\nEstrutura orgânica do quadro de professores catedráticos e associados da Universidade de Aveiro\n\nGrupos/subgrupos:\n\n1 - Línguas e Culturas Modernas.\n\n1.1 - Linguística.\n\n1.2 - Literatura.\n\n1.3 - Culturas.\n\n2 - Ciências da Educação.\n\n2.1 - Fundamentos da Educação.\n\n2.2 - Psicologia da Educação.\n\n2.3 - Didáctica.\n\n2.4 - Sociologia da Educação.\n\n3 - Matemática Pura.\n\n4 - Matemática Aplicada.\n\n5 - Física.\n\n6 - Química.\n\n7 - Geociências.\n\n7.1 - Geologia.\n\n7.2 - Geociências Aplicadas.\n\n8 - Biologia.\n\n8.1 - Botânica.\n\n8.2 - Zoologia.\n\n8.3 - Biotecnologias.\n\n9 - Ciências Aplicadas ao Ambiente.\n\n9.1 - Ciências do Ambiente.\n\n9.2 - Tecnologias de Processamento de Águas e Efluentes.\n\n9.3 - Planeamento Regional e Urbano.\n\n10 - Engenharia Electrónica.\n\n10.1 - Electrónica.\n\n10.2 - Telecomunicações.\n\n10.3 - Comando Automático.\n\n11 - Ciência e Engenharia dos Materiais."
+  },
+  "227e51d7f0ed816e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1985-09-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 693/85](https://diariodarepublica.pt/dr/detalhe/portaria/693-1985-177429), publicado em 1985-09-18."
+   ],
+   "markdown": "de 11 de Junho\n\nSob proposta da Universidade de Aveiro;\n\nTendo em vista o disposto na [Portaria n.º 757/82](https://diariodarepublica.pt/dr/detalhe/portaria/757-1982-397280), de 5 de Agosto;\n\nAo abrigo do disposto no artigo 13.º do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar a estrutura orgânica do quadro de professores catedráticos e associados da Universidade de Aveiro, constante em anexo a esta portaria.\n\nMinistério da Educação.\n\nAssinada em 22 de Maio de 1984.\n\nO Ministro da Educação, José Augusto Seabra.\n\nAnexo à Portaria n.º 359/84\n\nEstrutura orgânica do quadro de professores catedráticos e associados da Universidade de Aveiro\n\nGrupos/subgrupos:\n\n1 - Línguas e Culturas Modernas.\n\n1.1 - Linguística.\n\n1.2 - Literatura.\n\n1.3 - Culturas.\n\n2 - Ciências da Educação.\n\n2.1 - Fundamentos da Educação.\n\n2.2 - Psicologia da Educação.\n\n2.3 - Didáctica.\n\n2.4 - Sociologia da Educação.\n\n3 - Matemática Pura.\n\n4 - Matemática Aplicada.\n\n5 - Física.\n\n6 - Química.\n\n7 - Geociências.\n\n7.1 - Geologia.\n\n7.2 - Geociências Aplicadas.\n\n8 - Biologia.\n\n8.1 - Botânica.\n\n8.2 - Zoologia.\n\n8.3 - Biotecnologias.\n\n9 - Ciências Aplicadas ao Ambiente.\n\n9.1 - Ciências do Ambiente.\n\n9.2 - Tecnologias de Processamento de Águas e Efluentes.\n\n9.3 - Planeamento Regional e Urbano.\n\n10 - Engenharia Electrotécnica.\n\n> Alterado pelo/a [Portaria n.º 693/85](https://diariodarepublica.pt/dr/detalhe/portaria/693-1985-177429), publicado em 1985-09-18.\n\n10.1 - Electrónica.\n\n10.2 - Telecomunicações.\n\n10.3 - Comando Automático.\n\n11 - Ciência e Engenharia dos Materiais."
+  }
+ }
+}

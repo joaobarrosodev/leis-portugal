@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-10-15'
+version_history:
+  file: despacho-normativo-197-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-10-15'
+    amending: pt:dre:178341:por
+    amending_title: Despacho Normativo n.º 95/85
+    changes:
+    - Altera Artigo unidades 3-3
+    - Altera Artigo unidades 5-16
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:24:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 95/85. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1983/despacho-normativo-197-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,32 +129,40 @@ validation:
 
 Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 509/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/509-1977-279588), de 14 de Dezembro, determina-se que seja introduzido no Regulamento Interno do Mercado Abastecedor de Chaves de Oliveira um artigo 6.º-A, com a seguinte redacção:
 
-6.º-A - A comissão consultiva do Mercado Abastecedor de Chaves de Oliveira, constituída nos termos do artigo 26.º do Regulamento dos Mercados Abastecedores de Frutas e Produtos Hortícolas, terá a seguinte composição alargada:
+6.º-A. A comissão consultiva do Mercado Abastecedor de Chaves de Oliveira, constituída nos termos do artigo 26.º do Regulamento dos Mercados Abastecedores de Frutas e Produtos Hortícolas, na nova redacção dada pelo [Decreto-Lei n.º 348/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1984-400577), de 29 de Outubro, terá a seguinte composição alargada:
+
+> Alterado pelo/a [Despacho Normativo n.º 95/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/95-1985-178341), publicado em 1985-10-10.
 
 a) 1 representante da Direcção Regional de Agricultura de Entre Douro e Minho, que coordenará;
 
-b) 1 representante da Direcção-Geral do Comércio;
+b) 1 representante da Direcção-Geral do Comércio Interno;
 
-c) 1 representante da Direcção-Geral de Fiscalização Económica;
+c) 1 representante da Direcção-Geral de Concorrência e Preços;
 
-d) 1 representante da Junta Nacional das Frutas;
+d) 1 representante do Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares;
 
-e) 1 representante da Associação Nacional dos Armazenistas, Importadores e Exportadores de Frutas e Produtos Hortícolas;
+e) 1 representante da Direcção-Geral da Inspecção Económica;
 
-f) 1 representante da Confederação dos Agricultores de Portugal;
+f) 1 representante da Junta Nacional das Frutas;
 
-g) 1 representante dos descarregadores e dos transportadores;
+g) 1 representante da Confederação dos Agricultores de Portugal;
 
-h) 1 representante da Federação do Comércio Retalhista Português;
+h) 1 representante da Associação Nacional dos Armazenistas, Importadores e Exportadores de Frutas e Produtos Hortícolas;
 
-i) 1 representante dos mandatários;
+i) 1 representante dos descarregadores e dos transportadores;
 
-j) 1 representante da Direcção de Saúde do Porto;
+j) 1 representante da Federação do Comércio Retalhista Português;
 
-k) 1 representante da Câmara Municipal do Porto;
+k) 1 representante da Administração Regional de Saúde do Porto;
 
 l) 1 membro da comissão administrativa;
 
-m) 1 membro da comissão de fiscalização.
+m) 1 representante da Câmara Municipal do Porto;
+
+n) 1 representante dos mandatários;
+
+o) 1 membro da comissão de fiscalização.
+
+> Alterado pelo/a [Despacho Normativo n.º 95/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/95-1985-178341), publicado em 1985-10-10.
 
 Ministérios da Administração Interna, da Agricultura, Florestas e Alimentação e do Comércio e Turismo, 4 de Outubro de 1983. - Pelo Ministro da Administração Interna, Helena de Melo Torres Marques, Secretária de Estado da Administração Autárquica. - Pelo Ministro da Agricultura, Florestas e Alimentação, Jacinto José Montalvão de Santos e Silva Marques, Secretário de Estado da Alimentação. - Pelo Ministro do Comércio e Turismo, Carlos Alberto Antunes Filipe, Secretário de Estado do Comércio Interno.

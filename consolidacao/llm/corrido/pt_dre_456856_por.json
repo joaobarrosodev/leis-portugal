@@ -1,0 +1,47 @@
+{
+  "id": "pt:dre:456856:por",
+  "substituicoes": [
+    {
+      "de": 19,
+      "ate": 19,
+      "texto": "1.4 - Proporcionar uma experiência alargada e supervisionada de diferentes modelos e técnicas psicológicas.",
+      "alterador": 1
+    },
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "2.1 - Implementar programas de acção específicos, técnicas de observação, de entrevista, de avaliação psicológica, psicoterapia individual ou de grupo, projectos de investigação científica, ou outras acções científicas e técnicas no campo da saúde;",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "2.4 - Intervenção psicológica individual, conjugal, familiar e de grupos;",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 46,
+      "texto": "3.1 - Conteúdo - o estágio deverá abranger o estudo e tratamento psicológico do indivíduo no seu ciclo de vida. Neste sentido, considera-se obrigatória a formação teórico-prática em avaliação e intervenção psicológica, tais como as psicopatologias, as psicoterapias e a psicologia da saúde.\n\nEm cada uma destas áreas, o estagiário deverá participar em todas as actividades da equipa que integra, tal como enunciado nos objectivos específicos.\n\nDeverá ainda frequentar cursos teóricos, organizados para esse fim. Os cursos teóricos abordarão os grandes temas da psicologia clínica e da saúde numa perspectiva evolutiva, tendo como objectivo o aprofundamento dos conhecimentos e metodologias de avaliação, intervenção e investigação psicológicas.\n\nA fim de complementar a sua formação nas áreas acima mencionadas, deve o estagiário frequentar seminários, cursos, conferências ou outras acções formativas relacionadas com temas pertinentes para os serviços.",
+      "alterador": 1
+    },
+    {
+      "de": 47,
+      "ate": 51,
+      "texto": "3.2 - Calendarização do estágio - o estágio organiza-se em três períodos anuais. Os primeiros dois anos serão dedicados aos modelos e métodos de avaliação e intervenção psicológicas. No último ano de estágio a formação será levada a cabo através de cursos intensivos, seminários e conferências, orientados por especialistas de reconhecida competência nos domínios da psicologia clínica e da saúde, para além das actividades de consulta com supervisão.\n\nO estágio pode ser efectuado em quaisquer serviços de saúde, incluindo serviços de saúde mental, cardiologia, neurologia, pediatria, centros de reabilitação, centros de saúde e outros serviços de cariz diverso ou de patologias específicas (hospitais e outras instituições de saúde).\n\nA formação clínica realizar-se-á nos diversos serviços sempre supervisionada por um psicólogo clínico com cinco ou mais anos de prática.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 191/97 dá nova redação ao n.º 1.4 do anexo: unidade 19 substituída.",
+    "Nova redação do n.º 2.1: unidade 21 substituída.",
+    "Nova redação do n.º 2.4: unidade 24 substituída.",
+    "Nova redação do n.º 3.1 (quatro parágrafos, sem as listas de áreas e temas): unidades 28-46 substituídas.",
+    "Nova redação do n.º 3.2: unidades 47-51 substituídas pelos três primeiros parágrafos novos (desaparecem 'Compete à comissão...' e 'O estágio deve compreender 50%...'); unidades 52-53 ficam iguais à nova redação."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

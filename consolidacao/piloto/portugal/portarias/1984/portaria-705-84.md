@@ -1,0 +1,113 @@
+---
+id: pt:dre:399221:por
+title: Portaria n.º 705/84
+original: data/portugal/portarias/1984/portaria-705-84.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:274252:por
+    title: Portaria n.º 483/93
+    publication_date: '1993-05-07'
+---
+
+# Portaria n.º 705/84
+
+de 11 de Setembro
+
+Torna-se necessário definir as condições de realização das provas especiais de avaliação, previstas no artigo 35.º do Estatuto do Técnico Responsável, aprovado pelo Decreto Regulamentar n.º 31/83, de 18 de Abril, a prestar pelos indivíduos que, não possuindo os requisitos fixados no artigo 5.º daquele Estatuto, pretendam inscrever-se na Direcção-Geral de Energia como responsáveis pela execução de instalações eléctricas em baixa tensão. Posteriormente, e tendo em conta a experiência resultante da aplicação da presente portaria, definir-se-ão as condições de realização das provas especiais para possibilitar a inscrição como técnico responsável pela exploração de instalações eléctricas.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Educação e da Indústria e Energia, o seguinte:
+
+1.º Podem requerer a admissão à prestação das provas especiais de avaliação referidas no artigo 35.º do Estatuto do Técnico Responsável, aprovado pelo Decreto Regulamentar n.º 31/83, de 18 de Abril, para inscrição como técnico responsável pela execução de instalações eléctricas, os candidatos que, cumulativamente, reúnam as seguintes condições:
+
+a) Ter requerido nos termos do Estatuto a sua inscrição como técnico responsável;
+
+b) Possuir, no mínimo, como habilitações literárias, a escolaridade obrigatória à data da frequência do ensino;
+
+c) Ter experiência profissional.
+
+2.º A experiência profissional deverá ser declarada pelo candidato, que apresentará a lista das instalações ou trabalhos realizados, o tempo de exercício da actividade e a carteira profissional, que poderão ser sujeitos a confirmação pelo distribuidor público, proprietário ou entidade patronal no caso de o candidato trabalhar por conta de outrem.
+
+3.º A Direcção-Geral de Energia poderá, se assim o entender conveniente, mandar proceder à fiscalização das instalações eléctricas mencionadas na declaração a que se refere o número anterior.
+
+4.º Os candidatos à prestação das provas especiais devem proceder, no acto de inscrição, ao pagamento da importância de 20000$00, destinada a cobrir os custos com a sua realização.
+
+> Alterado pelo/a [Portaria n.º 483/93](https://diariodarepublica.pt/dr/detalhe/portaria/483-1993-274252), publicado em 1993-05-07.
+
+5.º A elaboração das provas, assim como a respectiva avaliação, ficará a cargo de um júri constituído por:
+
+a) 1 representante da Direcção-Geral de Energia, que presidirá;
+
+b) 2 professores do ensino secundário, um do 2.º grupo B e outro do 12.º grupo B, a designar pela Direcção-Geral do Ensino Secundário.
+
+6.º As provas versam sobre as matérias constantes do quadro I anexo à presente portaria e serão constituídas por uma prova escrita e por uma prova prática.
+
+7.º As provas escrita e prática terão a cotação máxima de 20 valores cada uma, sendo a respectiva classificação expressa em unidades exactas.
+
+8.º O júri procederá ao apuramento de uma classificação final, que será expressa pela média aritmética ponderada, com arredondamento às unidades, das classificações obtidas pelo candidato em cada uma das provas prestadas. Às provas escrita e prática serão atribuídos os coeficientes 1 e 2, respectivamente.
+
+9.º A classificação final e as classificações obtidas em cada uma das provas serão registadas em acta, assinada por todos os membros do júri. O original da acta será entregue na Direcção-Geral de Energia e um duplicado da mesma será afixado no local em que as provas tiveram lugar, para conhecimento dos candidatos.
+
+10.º Os candidatos que obtenham média final igual ou superior a 10 valores, com classificação em cada uma das provas não inferior a 8 valores, serão inscritos na Direcção-Geral de Energia como técnicos responsáveis pela execução de instalações eléctricas.
+
+11.º Os candidatos com classificação final inferior a 10 valores poderão, decorridos 180 dias, requerer de novo a prestação das provas de avaliação.
+
+12.º As provas terão lugar em data e local a fixar pela Direcção-Geral do Ensino Secundário.
+
+13.º O montante referido no n.º 4.º deverá ser repartido na seguinte proporção:
+
+a) 40% às escolas para pagamento de despesas afectas à realização das provas;
+
+b) 40% a repartir equitativamente pelos membros do júri;
+
+c) 20% para a entidade que tenha a seu cargo a organização das provas.
+
+> Alterado pelo/a [Portaria n.º 483/93](https://diariodarepublica.pt/dr/detalhe/portaria/483-1993-274252), publicado em 1993-05-07.
+
+14.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Ministérios da Educação e da Indústria e Energia.
+
+Assinada em 26 de Julho de 1984.
+
+O Ministro da Educação, José Augusto Seabra. - O Ministro da Indústria e Energia, José Veiga Simão.
+
+## ANEXO - QUADRO I — Matérias das provas de avaliação
+
+1 - Prova escrita:
+
+1.1 - Electricidade:
+
+Conceito de: circuito eléctrico; corrente contínua; tensão; intensidade de corrente; lei de Ohm; corrente alternada; valor eficaz de tensão e de intensidade de corrente; potência activa; potência aparente; factor de potência e instalação eléctrica.
+
+Cálculo de resistências, intensidades de corrente e de potências.
+
+1.2 - Tecnologia eléctrica:
+
+Escolha adequada de cabos e da respectiva secção com vista ao fornecimento de energia a receptores, atendendo às intensidades de corrente máximas admissíveis, às quedas de tensão, bem como às correntes de sobrecarga e de curto-circuito.
+
+Escolha adequada de aparelhos de protecção.
+
+Utilização de normas e tabelas técnicas para apoio ao ponto anterior.
+
+Utilização do Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica e do Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas, aprovados pelo [Decreto-Lei n.º 740/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/740-1974-242189), de 26 de Dezembro, com particular relevo para a protecção das instalações e das pessoas (contactos directos e indirectos).
+
+Conhecimento da constituição de equipamentos eléctricos típicos das instalações de utilização de energia eléctrica.
+
+1.3 - Desenho esquemático:
+
+Leitura e interpretação de esquemas eléctricos de projectos de baixa tensão.
+
+Execução de esquemas de parte ou do todo de instalações eléctricas de baixa tensão.
+
+2 - Prova prática:
+
+Execução de partes de instalações de utilização de energia eléctrica.
+
+Detecção de avarias e recolocação em serviço.
+
+Descrição em pequeno relatório das actividades realizadas nos pontos anteriores.

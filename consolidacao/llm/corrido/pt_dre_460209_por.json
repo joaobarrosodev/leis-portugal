@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:460209:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1064/99 (alterador 1) revoga a concessão do regime cinegético especial atribuída pela Portaria n.º 852/95 (processo n.º 1820-DGF), por incumprimento da concessionária; é a revogação do diploma por inteiro (todo o seu objeto é essa concessão), sem alteração textual a aplicar às unidades.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 1064/99): revoga a concessão de regime cinegético especial atribuída pelo original; equivale a revogação total do diploma, registada em nao_aplicavel, sem substituições nem inserções."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

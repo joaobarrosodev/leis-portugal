@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-10-17'
+version_history:
+  file: portaria-667-o9-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-10-17'
+    amending: pt:dre:670707:por
+    amending_title: Portaria n.º 1008/93; Portaria n.º 1008/93
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/667-o9/1993/07/14/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:04:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1008/93; Portaria n.º
+    1008/93. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-667-o9-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,7 +156,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos nas freguesias de Viariz, Gesta, Teixeira, Campelo, Loivos do Monte, Ovil, Bustelo e Carneiro, município de Baio, e na freguesia de Carvalho do Rei, município de Amarante, com uma área de 2700 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Viariz, Gestaçô, Teixeira, Campelo, Loivos do Monte e Ovil, município de Baião, e nas freguesias de Bustelo, Carneiro e Carvalho do Rei, município de Amarante, com uma área de 2700 ha.
+
+> Alterado pelo/a [Portaria n.º 1008/93](https://diariodarepublica.pt/dr/detalhe/portaria/1008-1993-670707), publicado em 1993-10-12.
 
 2.º Pelo presente diploma é concessionada, até 25 de Julho de 2004, à Associação de Caçadores e Pescadores de Ovil e Loivos do Monte (registo no Instituto Florestal n.º 1.011.87), com sede em São João de Ovil, Baio, a zona de caça associativa de Ovil e Loivos do Monte (processo n.º 1017 do Instituto Florestal).
 

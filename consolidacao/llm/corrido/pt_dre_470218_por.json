@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:470218:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 431/81 substitui o quadro de pessoal do Conselho Nacional do Plano (anexo ao DL 84/79, aumentado por esta portaria) por um novo quadro que só existe em imagem no documento original, pelo que não há texto a aplicar.",
+  "instrucoes": [
+    "Portaria 431/81 substitui o quadro de pessoal do CNP pelo quadro anexo (só em imagem): não aplicado, ver nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

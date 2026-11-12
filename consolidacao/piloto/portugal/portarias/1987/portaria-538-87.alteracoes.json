@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O Instituto do Emprego e Formação Profissional (IEFP) e a Associação das Indústrias de Ourivesaria e Relojoaria do Norte adaptam o protocolo que criou o Centro de Formação Profissional de harmonia com as cláusulas seguintes:",
+    "depois": "O Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), e a Associação de Ourivesaria e Relojoaria de Portugal (AORP) adotam o Protocolo que criou o Centro de Formação Profissional, de harmonia com as cláusulas seguintes:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:419453:por",
+    "alterador": "pt:dre:107573231:por"
+  },
+  {
+    "artigo": "unidades 27-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Aos empresários e trabalhadores das empresas associadas da Associação da Indústria de Ourivesaria e Relojoaria do Norte;",
+    "depois": "a) Aos empresários e trabalhadores das empresas associadas da Associação de Ourivesaria e Relojoaria de Portugal (AORP);",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:419453:por",
+    "alterador": "pt:dre:107573231:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:386645:por",
+  "substituicoes": [
+    {
+      "de": 37,
+      "ate": 37,
+      "texto": "10 - Engenharia Electrotécnica.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 693/85) dá nova redação ao anexo; comparado com o texto atual, só muda o grupo 10 ('Engenharia Electrónica' passa a 'Engenharia Electrotécnica'): substituída a unidade 37."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

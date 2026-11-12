@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:431575:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "2 - No caso de os beneficiários referidos no número anterior receberem uma pensão de reforma ou de invalidez, qualquer que seja o regime de segurança social, bem como no caso das fundações, a indemnização compensatória complementar extraordinária será paga a título de ajudas nacionais.",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "2 - O montante da indemnização compensatória complementar extraordinária é fixado para os bovinos, ovinos, caprinos e equídeos, convertidos em cabeças normais, de acordo com a tabela de conversão constante do anexo IV a este diploma, do qual faz parte integrante, e por hectare de superfície cultivada com olival, até ao limite, por beneficiário ou por núcleo, no caso das fundações, de 120 CN ou hectares, sem prejuízo do disposto nos números seguintes.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 431/97: nova redação do n.º 2 do n.º 3.º — substituída a unidade 13 (n.º 1 com '...' mantém-se).",
+    "Portaria 431/97: nova redação do n.º 2 do n.º 5.º — substituída a unidade 17 (n.º 1 com '...' mantém-se)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

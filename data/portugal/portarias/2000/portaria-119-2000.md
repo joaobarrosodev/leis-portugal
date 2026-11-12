@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-01-29'
+version_history:
+  file: portaria-119-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-29'
+    amending: pt:dre:239214:por
+    amending_title: Portaria n.º 86/2002
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/119/2000/03/04/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:20:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 86/2002. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-119-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,7 +150,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos designados «Herdades de Verdugos de Baixo e Verdugos do Meio», sitos nas freguesias de Couço e Santana do Mato, município de Coruche, com uma área de 606,1250 ha, conforme planta anexa à presente portaria, que dela faz parte integrante.
 
-2.º Pela presente portaria é concessionada, pelo período de 12 anos, à Associação de Caçadores Os Amigos da Caça, com o número de pessoa colectiva 502048450 e sede na Rua de Angola, 14, Coruche, a zona de caça associativa da Herdade de Verdugos (processo n.º 2240 da Direcção-Geral das Florestas).
+2.º Pela presente portaria é concessionada, até 28 de Fevereiro de 2011, à Associação de Caçadores Os Amigos da Caça, com o número de pessoa colectiva 502048450 e sede na Rua de Angola, 14, Coruche, a zona de caça associativa da Herdade de Verdugos (processo n.º 2240 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 86/2002](https://diariodarepublica.pt/dr/detalhe/portaria/86-2002-239214), publicado em 2002-01-24.
 
 3.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3, definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.
 

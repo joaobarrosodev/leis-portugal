@@ -1,0 +1,68 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:399221:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-09-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ba80a9bbc6dd69e8",
+    "0bbbd4d03fd4d261"
+   ]
+  },
+  {
+   "date": "1993-05-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:274252:por",
+     "title": "Portaria n.º 483/93",
+     "published": "1993-05-07",
+     "dre_path": "/dr/detalhe/portaria/483-1993-274252"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 12-12",
+    "Altera Artigo unidades 23-23"
+   ],
+   "fragments": [
+    "7c340de17617c7fe",
+    "0bbbd4d03fd4d261"
+   ]
+  }
+ ],
+ "fragments": {
+  "ba80a9bbc6dd69e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Setembro\n\nTorna-se necessário definir as condições de realização das provas especiais de avaliação, previstas no artigo 35.º do Estatuto do Técnico Responsável, aprovado pelo Decreto Regulamentar n.º 31/83, de 18 de Abril, a prestar pelos indivíduos que, não possuindo os requisitos fixados no artigo 5.º daquele Estatuto, pretendam inscrever-se na Direcção-Geral de Energia como responsáveis pela execução de instalações eléctricas em baixa tensão. Posteriormente, e tendo em conta a experiência resultante da aplicação da presente portaria, definir-se-ão as condições de realização das provas especiais para possibilitar a inscrição como técnico responsável pela exploração de instalações eléctricas.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelos Ministros da Educação e da Indústria e Energia, o seguinte:\n\n1.º Podem requerer a admissão à prestação das provas especiais de avaliação referidas no artigo 35.º do Estatuto do Técnico Responsável, aprovado pelo Decreto Regulamentar n.º 31/83, de 18 de Abril, para inscrição como técnico responsável pela execução de instalações eléctricas, os candidatos que, cumulativamente, reúnam as seguintes condições:\n\na) Ter requerido nos termos do Estatuto a sua inscrição como técnico responsável;\n\nb) Possuir, no mínimo, como habilitações literárias, a escolaridade obrigatória à data da frequência do ensino;\n\nc) Ter experiência profissional.\n\n2.º A experiência profissional deverá ser declarada pelo candidato, que apresentará a lista das instalações ou trabalhos realizados, o tempo de exercício da actividade e a carteira profissional, que poderão ser sujeitos a confirmação pelo distribuidor público, proprietário ou entidade patronal no caso de o candidato trabalhar por conta de outrem.\n\n3.º A Direcção-Geral de Energia poderá, se assim o entender conveniente, mandar proceder à fiscalização das instalações eléctricas mencionadas na declaração a que se refere o número anterior.\n\n4.º A admissão dos candidatos à prestação das provas especiais é da competência da Direcção-Geral de Energia. Os candidatos admitidos devem proceder ao pagamento da importância de 2500$00, naquela Direcção-Geral.\n\n5.º A elaboração das provas, assim como a respectiva avaliação, ficará a cargo de um júri constituído por:\n\na) 1 representante da Direcção-Geral de Energia, que presidirá;\n\nb) 2 professores do ensino secundário, um do 2.º grupo B e outro do 12.º grupo B, a designar pela Direcção-Geral do Ensino Secundário.\n\n6.º As provas versam sobre as matérias constantes do quadro I anexo à presente portaria e serão constituídas por uma prova escrita e por uma prova prática.\n\n7.º As provas escrita e prática terão a cotação máxima de 20 valores cada uma, sendo a respectiva classificação expressa em unidades exactas.\n\n8.º O júri procederá ao apuramento de uma classificação final, que será expressa pela média aritmética ponderada, com arredondamento às unidades, das classificações obtidas pelo candidato em cada uma das provas prestadas. Às provas escrita e prática serão atribuídos os coeficientes 1 e 2, respectivamente.\n\n9.º A classificação final e as classificações obtidas em cada uma das provas serão registadas em acta, assinada por todos os membros do júri. O original da acta será entregue na Direcção-Geral de Energia e um duplicado da mesma será afixado no local em que as provas tiveram lugar, para conhecimento dos candidatos.\n\n10.º Os candidatos que obtenham média final igual ou superior a 10 valores, com classificação em cada uma das provas não inferior a 8 valores, serão inscritos na Direcção-Geral de Energia como técnicos responsáveis pela execução de instalações eléctricas.\n\n11.º Os candidatos com classificação final inferior a 10 valores poderão, decorridos 180 dias, requerer de novo a prestação das provas de avaliação.\n\n12.º As provas terão lugar em data e local a fixar pela Direcção-Geral do Ensino Secundário.\n\n13.º A Direcção-Geral de Energia assegurará o pagamento de todas as despesas resultantes da realização das provas, incluindo uma gratificação de 500$00 por candidato a cada um dos membros do júri.\n\n14.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nMinistérios da Educação e da Indústria e Energia.\n\nAssinada em 26 de Julho de 1984.\n\nO Ministro da Educação, José Augusto Seabra. - O Ministro da Indústria e Energia, José Veiga Simão."
+  },
+  "0bbbd4d03fd4d261": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO - QUADRO I — Matérias das provas de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO - QUADRO I — Matérias das provas de avaliação\n\n1 - Prova escrita:\n\n1.1 - Electricidade:\n\nConceito de: circuito eléctrico; corrente contínua; tensão; intensidade de corrente; lei de Ohm; corrente alternada; valor eficaz de tensão e de intensidade de corrente; potência activa; potência aparente; factor de potência e instalação eléctrica.\n\nCálculo de resistências, intensidades de corrente e de potências.\n\n1.2 - Tecnologia eléctrica:\n\nEscolha adequada de cabos e da respectiva secção com vista ao fornecimento de energia a receptores, atendendo às intensidades de corrente máximas admissíveis, às quedas de tensão, bem como às correntes de sobrecarga e de curto-circuito.\n\nEscolha adequada de aparelhos de protecção.\n\nUtilização de normas e tabelas técnicas para apoio ao ponto anterior.\n\nUtilização do Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica e do Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas, aprovados pelo [Decreto-Lei n.º 740/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/740-1974-242189), de 26 de Dezembro, com particular relevo para a protecção das instalações e das pessoas (contactos directos e indirectos).\n\nConhecimento da constituição de equipamentos eléctricos típicos das instalações de utilização de energia eléctrica.\n\n1.3 - Desenho esquemático:\n\nLeitura e interpretação de esquemas eléctricos de projectos de baixa tensão.\n\nExecução de esquemas de parte ou do todo de instalações eléctricas de baixa tensão.\n\n2 - Prova prática:\n\nExecução de partes de instalações de utilização de energia eléctrica.\n\nDetecção de avarias e recolocação em serviço.\n\nDescrição em pequeno relatório das actividades realizadas nos pontos anteriores."
+  },
+  "7c340de17617c7fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 483/93](https://diariodarepublica.pt/dr/detalhe/portaria/483-1993-274252), publicado em 1993-05-07.",
+    "Alterado pelo/a [Portaria n.º 483/93](https://diariodarepublica.pt/dr/detalhe/portaria/483-1993-274252), publicado em 1993-05-07."
+   ],
+   "markdown": "de 11 de Setembro\n\nTorna-se necessário definir as condições de realização das provas especiais de avaliação, previstas no artigo 35.º do Estatuto do Técnico Responsável, aprovado pelo Decreto Regulamentar n.º 31/83, de 18 de Abril, a prestar pelos indivíduos que, não possuindo os requisitos fixados no artigo 5.º daquele Estatuto, pretendam inscrever-se na Direcção-Geral de Energia como responsáveis pela execução de instalações eléctricas em baixa tensão. Posteriormente, e tendo em conta a experiência resultante da aplicação da presente portaria, definir-se-ão as condições de realização das provas especiais para possibilitar a inscrição como técnico responsável pela exploração de instalações eléctricas.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelos Ministros da Educação e da Indústria e Energia, o seguinte:\n\n1.º Podem requerer a admissão à prestação das provas especiais de avaliação referidas no artigo 35.º do Estatuto do Técnico Responsável, aprovado pelo Decreto Regulamentar n.º 31/83, de 18 de Abril, para inscrição como técnico responsável pela execução de instalações eléctricas, os candidatos que, cumulativamente, reúnam as seguintes condições:\n\na) Ter requerido nos termos do Estatuto a sua inscrição como técnico responsável;\n\nb) Possuir, no mínimo, como habilitações literárias, a escolaridade obrigatória à data da frequência do ensino;\n\nc) Ter experiência profissional.\n\n2.º A experiência profissional deverá ser declarada pelo candidato, que apresentará a lista das instalações ou trabalhos realizados, o tempo de exercício da actividade e a carteira profissional, que poderão ser sujeitos a confirmação pelo distribuidor público, proprietário ou entidade patronal no caso de o candidato trabalhar por conta de outrem.\n\n3.º A Direcção-Geral de Energia poderá, se assim o entender conveniente, mandar proceder à fiscalização das instalações eléctricas mencionadas na declaração a que se refere o número anterior.\n\n4.º Os candidatos à prestação das provas especiais devem proceder, no acto de inscrição, ao pagamento da importância de 20000$00, destinada a cobrir os custos com a sua realização.\n\n> Alterado pelo/a [Portaria n.º 483/93](https://diariodarepublica.pt/dr/detalhe/portaria/483-1993-274252), publicado em 1993-05-07.\n\n5.º A elaboração das provas, assim como a respectiva avaliação, ficará a cargo de um júri constituído por:\n\na) 1 representante da Direcção-Geral de Energia, que presidirá;\n\nb) 2 professores do ensino secundário, um do 2.º grupo B e outro do 12.º grupo B, a designar pela Direcção-Geral do Ensino Secundário.\n\n6.º As provas versam sobre as matérias constantes do quadro I anexo à presente portaria e serão constituídas por uma prova escrita e por uma prova prática.\n\n7.º As provas escrita e prática terão a cotação máxima de 20 valores cada uma, sendo a respectiva classificação expressa em unidades exactas.\n\n8.º O júri procederá ao apuramento de uma classificação final, que será expressa pela média aritmética ponderada, com arredondamento às unidades, das classificações obtidas pelo candidato em cada uma das provas prestadas. Às provas escrita e prática serão atribuídos os coeficientes 1 e 2, respectivamente.\n\n9.º A classificação final e as classificações obtidas em cada uma das provas serão registadas em acta, assinada por todos os membros do júri. O original da acta será entregue na Direcção-Geral de Energia e um duplicado da mesma será afixado no local em que as provas tiveram lugar, para conhecimento dos candidatos.\n\n10.º Os candidatos que obtenham média final igual ou superior a 10 valores, com classificação em cada uma das provas não inferior a 8 valores, serão inscritos na Direcção-Geral de Energia como técnicos responsáveis pela execução de instalações eléctricas.\n\n11.º Os candidatos com classificação final inferior a 10 valores poderão, decorridos 180 dias, requerer de novo a prestação das provas de avaliação.\n\n12.º As provas terão lugar em data e local a fixar pela Direcção-Geral do Ensino Secundário.\n\n13.º O montante referido no n.º 4.º deverá ser repartido na seguinte proporção:\n\na) 40% às escolas para pagamento de despesas afectas à realização das provas;\n\nb) 40% a repartir equitativamente pelos membros do júri;\n\nc) 20% para a entidade que tenha a seu cargo a organização das provas.\n\n> Alterado pelo/a [Portaria n.º 483/93](https://diariodarepublica.pt/dr/detalhe/portaria/483-1993-274252), publicado em 1993-05-07.\n\n14.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nMinistérios da Educação e da Indústria e Energia.\n\nAssinada em 26 de Julho de 1984.\n\nO Ministro da Educação, José Augusto Seabra. - O Ministro da Indústria e Energia, José Veiga Simão."
+  }
+ }
+}

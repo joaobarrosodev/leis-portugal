@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-07-09'
+version_history:
+  file: portaria-240-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-03-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-07-09'
+    amending: pt:dre:472739:por
+    amending_title: Portaria n.º 443-A/97
+    changes:
+    - Altera Artigo ANEXO — Regulamento de Exploração do Serviço de Telecomunicações Complementares - Serviço Móvel Terrestre::5.º
+    - Altera Artigo ANEXO — Regulamento de Exploração do Serviço de Telecomunicações Complementares - Serviço Móvel Terrestre::6.º
+    - Altera Artigo ANEXO — Regulamento de Exploração do Serviço de Telecomunicações Complementares - Serviço Móvel Terrestre::7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/240/1991/03/23/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:44:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 443-A/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-240-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -161,7 +178,7 @@ A prestação do SMT é assegurada pelos operadores licenciados nos termos do di
 
 1 - Constituem direitos e obrigações dos operadores do serviço de telecomunicações complementares - serviço móvel terrestre, para além dos demais que decorram da lei e dos respectivos títulos de licenciamento, os seguintes:
 
-a) Adaptar e promover as interligações de forma coordenada com os operadores de serviço público de telecomunicações, nomeadamente quanto à integração e adequabilidade às condições existentes dos serviços básicos respectivos;
+a) Interligar-se, a nível nacional, com outros operadores de telecomunicações de uso público em condições de razoável adequabilidade face à natureza e finalidade dos serviços a interligar, utilizando a rede básica de telecomunicações e o serviço fixo de telefone, independentemente de outros meios a acordar entre as partes;
 
 b) Notificar, com a antecedência mínima de 24 horas, os utentes do serviço em caso de suspensão ou interrupção do mesmo, quando aquelas tenham duração superior a 24 horas, salvo quando sejam determinadas por motivo imprevisto ou caso de força maior e como tal não sejam imputáveis ao operador;
 
@@ -171,7 +188,7 @@ d) Suspender o funcionamento do serviço prestado, mediante notificação ao Ins
 
 e) Providenciar, no que for necessário e estiver ao seu alcance, no sentido de assegurar e fazer respeitar, nos termos da legislação em vigor, o sigilo das comunicações do serviço prestado, não havendo lugar a quaisquer responsabilidades por acções ou omissões que lhe não sejam imputáveis;
 
-f) Publicar, de forma detalhada, os vários componentes dos preços cobrados;
+f) Anunciar e divulgar ao público em geral, de forma detalhada, os vários componentes dos preços cobrados;
 
 g) Garantir a igualdade de acesso ao serviço;
 
@@ -187,27 +204,33 @@ m) Promover o acesso, no caso de serviços pan-europeus, em Portugal, a assinant
 
 n) Atribuir cartões especiais de acesso, exclusivamente para a realização de ensaios, às entidades que forneçam, instalem ou conservem equipamentos terminais.
 
+o) Instalar, a expensas próprias, e disponibilizar sistemas adequados à intercepção legal das comunicações, a executar pelas autoridades legalmente competentes para o efeito.
+
 2 - Para os efeitos da alínea b) do número anterior, não é cobrado ao utente, durante o período de suspensão ou de interrupção do serviço, o valor da taxa de assinatura correspondente ao período nele compreendido.
 
 3 - Para os efeitos das alíneas b) e c) do n.º 1, a não observância dos prazos aí referidos dá lugar ao ressarcimento, pelo operador, dos prejuízos causados, quando lhe sejam imputáveis, sem prejuízo de outras sanções que ao caso sejam de aplicar, designadamente de carácter contra-ordenacional, previstas no artigo 17.º do [Decreto-Lei n.º 346/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1990-566193), de 3 de Novembro.
 
-###### Artigo 6.º — Telefone móvel
+> Alterado pelo/a [Portaria n.º 443-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/443-a-1997-472739), publicado em 1997-07-04.
 
-1 - O assinante do SMT é responsável pela aquisição, instalação e conservação de todo o equipamento constitutivo do telefone móvel, bem como pela sua utilização.
+###### Artigo 6.º — Equipamento terminal
 
-2 - Nenhum telefone móvel pode ser ligado à rede do SMT sem que esteja devidamente homologado.
+1 - O assinante do SMT é responsável pela aquisição, instalação e conservação de todo o equipamento terminal para acesso ao serviço, bem como pela sua utilização.
 
-3 - O equipamento deverá conter uma etiqueta com o número de aprovação, gravado em caracteres indeléveis, colocada em local bem visível na sua posição normal de funcionamento.
+2 - Nenhum equipamento pode ser ligado às redes do SMT sem que esteja devidamente aprovado e marcado nos termos do [Decreto-Lei n.º 228/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1993-268601), de 22 de Junho.
 
-4 - A instalação ou utilização de um telefone móvel não aprovado ou que tenha sido tecnicamente modificado em relação ao tipo aprovado implica a apreensão imediata do respectivo equipamento e a suspensão da prestação do serviço, não tendo o seu titular, por tal facto, direito a qualquer indemnização.
+3 - A ligação às redes do SMT de um equipamento não aprovado ou que tenha sido modificado em relação ao tipo aprovado é sancionada nos termos do [Decreto-Lei n.º 228/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1993-268601), de 22 de Junho, podendo determinar, nomeadamente, a apreensão do equipamento.
 
-5 - Ao operador e à autoridade de fiscalização competente é garantido o acesso aos telefones móveis para observância dos requisitos referidos nos números anteriores.
+4 - Ao operador e à autoridade de fiscalização competente é garantido o acesso aos equipamentos terminais para verificação dos requisitos referidos nos números anteriores.
+
+> Alterado pelo/a [Portaria n.º 443-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/443-a-1997-472739), publicado em 1997-07-04.
 
 ###### Artigo 7.º — Perturbações radioeléctricas
 
-1 - Se a utilização de um qualquer telefone móvel provocar perturbações na prestação do SMT ou na recepção de outras radiocomunicações, o seu titular é obrigado, mediante notificação do ICP, a suspender o seu funcionamento e a proceder às reparações ou modificações necessárias para eliminar ou atenuar eficazmente tais perturbações.
+1 - Se a utilização de um qualquer equipamento terminal provocar perturbações na prestação do SMT ou na recepção de outras radiocomunicações, o seu titular é obrigado, mediante notificação do ICP, a suspender o seu funcionamento e a proceder às reparações ou modificações necessárias para eliminar ou atenuar eficazmente tais perturbações.
 
 2 - A suspensão referida no número anterior cessará após a verificação, por parte do ICP, de que a perturbação foi eliminada ou atenuada para níveis aceitáveis.
+
+> Alterado pelo/a [Portaria n.º 443-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/443-a-1997-472739), publicado em 1997-07-04.
 
 ###### Artigo 8.º — Contratos
 

@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:399221:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "4.º Os candidatos à prestação das provas especiais devem proceder, no acto de inscrição, ao pagamento da importância de 20000$00, destinada a cobrir os custos com a sua realização.",
+      "alterador": 1
+    },
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "13.º O montante referido no n.º 4.º deverá ser repartido na seguinte proporção:\n\na) 40% às escolas para pagamento de despesas afectas à realização das provas;\n\nb) 40% a repartir equitativamente pelos membros do júri;\n\nc) 20% para a entidade que tenha a seu cargo a organização das provas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 483/93: nova redação do n.º 4.º -> substituída a unidade 12",
+    "Portaria 483/93: nova redação do n.º 13.º (com alíneas a) a c)) -> substituída a unidade 23"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:383008:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "d) As datas de início dos CFOSE são fixadas no Plano de Actividades de Instrução da Armada (PAIA).",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "9.º Os sargentos e praças que durante a frequência dos CFOSE revelarem falta de qualidades militares e aqueles cuja permanência nos cursos se considere inconveniente, tanto do ponto de vista disciplinar como educativo, podem ser imediatamente eliminados por decisão do superintendente dos Serviços do Pessoal da Armada mediante proposta do comandante da Escola Naval.",
+      "alterador": 1
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "10.º O tratamento dos assuntos de natureza pedagógica relativos aos CFOSE é da competência de um adjunto para os CFOSE do director de instrução da Escola Naval, em especial no que respeita a:",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 32,
+      "texto": "11.º Os sargentos e praças da Armada admitidos à frequência dos CFOSE mantêm os seus postos e classes com a designação de cadetes (primeiro-sargento cadete, segundo-sargento cadete, cabo cadete e primeiro-marinheiro cadete).\n\nOs referidos sargentos e praças podem ser promovidos ao posto imediato quando essa promoção lhes competir na sua classe, mantendo no novo posto a designação de cadete.\n\nPerdem a designação de cadete os sargentos e praças da Armada que, por qualquer motivo, sejam excluídos da frequência dos CFOSE.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 851/84: nova redação do n.º 6.º, alínea d) -> unidade 22 substituída.",
+    "Portaria 851/84: nova redação do n.º 9.º -> unidade 25 substituída.",
+    "Portaria 851/84: nova redação do n.º 10.º -> corpo (unidade 26) substituído; alíneas a) a c) iguais, mantidas.",
+    "Portaria 851/84: nova redação do n.º 11.º -> unidades 30-32 substituídas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

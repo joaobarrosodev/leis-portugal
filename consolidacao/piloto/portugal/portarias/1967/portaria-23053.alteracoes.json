@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Ao pessoal docente serão atribuídas as gratificações previstas no § 4.º do artigo 16.º do [Decreto n.º 47235](https://diariodarepublica.pt/dr/detalhe/decreto/47235-1966-478211), de 3 de Outubro de 1966.",
+    "depois": "4.º Ao pessoal docente serão atribuídas as seguintes gratificações mensais:\n\nPessoal com categoria superior à letra H, inclusive ... 4000$00\n\nPessoal com categorias compreendidas entre as letras I e L, inclusive ... 2000$00\n\nOutro pessoal ... 1000$00",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400620:por",
+    "alterador": "pt:dre:684215:por"
+  }
+]

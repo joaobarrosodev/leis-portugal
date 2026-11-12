@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-05-16'
+version_history:
+  file: portaria-667-p8-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-05-16'
+    amending: pt:dre:510177:por
+    amending_title: Portaria n.º 437/95
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/667-p8/1993/07/14/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:04:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 437/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-667-p8-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,7 +148,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º É criada a zona de caça nacional da Quinta do Canal e Ínsua (processo n.º 1230 do Instituto Florestal), situada na freguesia de Alqueidão, município da Figueira da Foz, com uma área total de 415,5232 ha, cujos limites constam da planta anexa a este diploma, de que faz parte integrante.
+1.º É criada a Zona de Caça Nacional da Quinta do Canal e Ínsua (processo n.º 1230 do Instituto Florestal), situada na freguesia de Alqueidão, município da Figueira da Foz, com uma área total de 405 ha, cujos limites constam da planta anexa ao presente diploma e que dele faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 437/95](https://diariodarepublica.pt/dr/detalhe/portaria/437-1995-510177), publicado em 1995-05-11.
 
 2.º A exploração desta zona de caça é concessionada pelo período de seis anos ao Instituto Florestal.
 

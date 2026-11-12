@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:400620:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1967-12-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f075c87ff7dd9b3a"
+   ]
+  },
+  {
+   "date": "1973-03-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:684215:por",
+     "title": "Portaria n.º 195/73",
+     "published": "1973-03-20",
+     "dre_path": "/dr/detalhe/portaria/195-1973-684215"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8"
+   ],
+   "fragments": [
+    "dd0db9a4700226ec"
+   ]
+  }
+ ],
+ "fragments": {
+  "f075c87ff7dd9b3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tornando-se necessário dotar os Serviços de Veterinária da província de Moçambique e facultar às empresas de exploração pecuária técnicos auxiliares em número suficiente e com preparação adequada;\n\nSob proposta do governador-geral:\n\nManda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 42.º do [Decreto n.º 47235](https://diariodarepublica.pt/dr/detalhe/decreto/47235-1966-478211), de 3 de Outubro de 1966:\n\n1.º São criados, na província de Moçambique, cursos de auxiliares técnicos de pecuária, no âmbito dos Serviços de Veterinária.\n\n2.º A organização dos programas, a designação do pessoal docente e as dotações para ocorrer aos encargos são da competência do governador-geral.\n\n3.º Compete igualmente ao governador-geral designar os organismos ou entidades que poderão colaborar na organização dos cursos, bem como tomar quaisquer outras medidas que possam contribuir para a eficiência dos mesmos.\n\n4.º Ao pessoal docente serão atribuídas as gratificações previstas no § 4.º do artigo 16.º do [Decreto n.º 47235](https://diariodarepublica.pt/dr/detalhe/decreto/47235-1966-478211), de 3 de Outubro de 1966.\n\nMinistério do Ultramar, 11 de Dezembro de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.\n\nPara ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha."
+  },
+  "dd0db9a4700226ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1973-03-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 195/73](https://diariodarepublica.pt/dr/detalhe/portaria/195-1973-684215), publicado em 1973-03-20."
+   ],
+   "markdown": "Tornando-se necessário dotar os Serviços de Veterinária da província de Moçambique e facultar às empresas de exploração pecuária técnicos auxiliares em número suficiente e com preparação adequada;\n\nSob proposta do governador-geral:\n\nManda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 42.º do [Decreto n.º 47235](https://diariodarepublica.pt/dr/detalhe/decreto/47235-1966-478211), de 3 de Outubro de 1966:\n\n1.º São criados, na província de Moçambique, cursos de auxiliares técnicos de pecuária, no âmbito dos Serviços de Veterinária.\n\n2.º A organização dos programas, a designação do pessoal docente e as dotações para ocorrer aos encargos são da competência do governador-geral.\n\n3.º Compete igualmente ao governador-geral designar os organismos ou entidades que poderão colaborar na organização dos cursos, bem como tomar quaisquer outras medidas que possam contribuir para a eficiência dos mesmos.\n\n4.º Ao pessoal docente serão atribuídas as seguintes gratificações mensais:\n\nPessoal com categoria superior à letra H, inclusive ... 4000$00\n\nPessoal com categorias compreendidas entre as letras I e L, inclusive ... 2000$00\n\nOutro pessoal ... 1000$00\n\n> Alterado pelo/a [Portaria n.º 195/73](https://diariodarepublica.pt/dr/detalhe/portaria/195-1973-684215), publicado em 1973-03-20.\n\nMinistério do Ultramar, 11 de Dezembro de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.\n\nPara ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha."
+  }
+ }
+}

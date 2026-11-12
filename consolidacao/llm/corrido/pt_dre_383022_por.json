@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:383022:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Decreto-Lei 167/2003, artigo 3.º, n.º 3: só mantém em vigor o quadro aprovado pela Portaria 295/97 até à aprovação do quadro transitório; não é uma alteração textual do original (e o quadro anexo só vem em imagem).",
+  "instrucoes": [
+    "DL 167/2003, art. 3.º, n.º 3: norma transitória que mantém o quadro da portaria em vigor até novo quadro; sem alteração ao texto, nada aplicado.",
+    "Restantes artigos e Estatutos anexos dirigem-se ao INEM e ao DL 234/81 (revogado), não ao texto da portaria: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

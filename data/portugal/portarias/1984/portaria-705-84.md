@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-05-12'
+version_history:
+  file: portaria-705-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-09-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-05-12'
+    amending: pt:dre:274252:por
+    amending_title: Portaria n.º 483/93
+    changes:
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 23-23
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:11:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 483/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-705-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,7 +141,9 @@ c) Ter experiência profissional.
 
 3.º A Direcção-Geral de Energia poderá, se assim o entender conveniente, mandar proceder à fiscalização das instalações eléctricas mencionadas na declaração a que se refere o número anterior.
 
-4.º A admissão dos candidatos à prestação das provas especiais é da competência da Direcção-Geral de Energia. Os candidatos admitidos devem proceder ao pagamento da importância de 2500$00, naquela Direcção-Geral.
+4.º Os candidatos à prestação das provas especiais devem proceder, no acto de inscrição, ao pagamento da importância de 20000$00, destinada a cobrir os custos com a sua realização.
+
+> Alterado pelo/a [Portaria n.º 483/93](https://diariodarepublica.pt/dr/detalhe/portaria/483-1993-274252), publicado em 1993-05-07.
 
 5.º A elaboração das provas, assim como a respectiva avaliação, ficará a cargo de um júri constituído por:
 
@@ -147,7 +165,15 @@ b) 2 professores do ensino secundário, um do 2.º grupo B e outro do 12.º grup
 
 12.º As provas terão lugar em data e local a fixar pela Direcção-Geral do Ensino Secundário.
 
-13.º A Direcção-Geral de Energia assegurará o pagamento de todas as despesas resultantes da realização das provas, incluindo uma gratificação de 500$00 por candidato a cada um dos membros do júri.
+13.º O montante referido no n.º 4.º deverá ser repartido na seguinte proporção:
+
+a) 40% às escolas para pagamento de despesas afectas à realização das provas;
+
+b) 40% a repartir equitativamente pelos membros do júri;
+
+c) 20% para a entidade que tenha a seu cargo a organização das provas.
+
+> Alterado pelo/a [Portaria n.º 483/93](https://diariodarepublica.pt/dr/detalhe/portaria/483-1993-274252), publicado em 1993-05-07.
 
 14.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 

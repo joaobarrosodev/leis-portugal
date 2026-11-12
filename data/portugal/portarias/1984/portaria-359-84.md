@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-09-23'
+version_history:
+  file: portaria-359-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-09-23'
+    amending: pt:dre:177429:por
+    amending_title: Portaria n.º 693/85
+    changes:
+    - Altera Artigo unidades 37-37
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:02:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 693/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-359-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -183,7 +198,9 @@ Grupos/subgrupos:
 
 9.3 - Planeamento Regional e Urbano.
 
-10 - Engenharia Electrónica.
+10 - Engenharia Electrotécnica.
+
+> Alterado pelo/a [Portaria n.º 693/85](https://diariodarepublica.pt/dr/detalhe/portaria/693-1985-177429), publicado em 1985-09-18.
 
 10.1 - Electrónica.
 

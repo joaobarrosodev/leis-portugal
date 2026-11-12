@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-06-06'
+version_history:
+  file: portaria-667-a8-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-06-06'
+    amending: pt:dre:301598:por
+    amending_title: Portaria n.º 348/94
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/667-a8/1993/07/14/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:01:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 348/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-667-a8-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,7 +164,9 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdade de Batepé Novo», «Batepé Velho» e «Serra de Portas», sitos na freguesia de Nossa Senhora do Bispo, município de Montemor-o-Novo, com uma área de 676,0750 ha, conforme planta em anexo ao presente diploma, que dele faz parte integrante.
 
-2.º Pelo presente diploma é concessionada, até 10 de Abril de 1994, à Associação de Caçadores de Batepé (registo no Instituto Florestal n.º 2.315.88), com sede em Reguengo do Fetal, Batalha, a zona de caça associativa das Herdades de Batepé Novo e Batepé Velho (processo n.º 43 do Instituto Florestal).
+2.º Pelo presente diploma é concessionada, até 10 de Abril de 1995, à Associação de Caçadores de Batepé (registo no Instituto Florestal n.º 2.315.88), com sede em Reguengo do Fetal, Batalha, a zona de caça associativa das Herdades de Batepé Novo e Batepé Velho (processo n.º 43 do Instituto Florestal).
+
+> Alterado pelo/a [Portaria n.º 348/94](https://diariodarepublica.pt/dr/detalhe/portaria/348-1994-301598), publicado em 1994-06-01.
 
 3.º A Associação de Caçadores de Batepé, entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegética aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

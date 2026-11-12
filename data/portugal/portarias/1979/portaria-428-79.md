@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-11-22'
+version_history:
+  file: portaria-428-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-08-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-11-22'
+    amending: pt:dre:367454:por
+    amending_title: Portaria n.º 605/79
+    changes:
+    - Altera Artigo unidades 41-56
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:58:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 605/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-428-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -190,17 +205,17 @@ Grupos CAE:
 
 Classe CAE:
 
-311-312 - Indústria da alimentação, com excepção do grupo 3114 «Conservação de peixe e outros produtos da pesca».
+311-312 - Indústria da alimentação, nos termos estabelecidos pelo [Decreto Regulamentar n.º 55/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1979-365517), de 22 de Setembro.
 
-313 - Indústria das bebidas.
+313 - Indústria das bebidas, nos termos estabelecidos pelo [Decreto Regulamentar n.º 55/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1979-365517), de 22 de Setembro.
 
-314 - Indústria do tabaco.
+314 - Indústria do tabaco, nos termos estabelecidos pelo [Decreto Regulamentar n.º 55/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1979-365517), de 22 de Setembro.
 
 321 - Indústrias têxteis.
 
 322 - Fabricação de artigos de vestuário, com excepção do calçado.
 
-323 - Indústria de curtumes e dos artigos de couro e dos seus substitutos e da pele, com excepção do calçado e outros artigos de vestuário.
+323 - Indústria de curtumes e dos artigos de couro, dos seus substitutos e da pele, com excepção do calçado e outros artigos de vestuário.
 
 324 - Fabricação de calçado, com excepção de calçado vulcanizado, de borracha moldada ou de plástico e o feito inteiramente de madeira.
 
@@ -212,15 +227,29 @@ Classe CAE:
 
 342 - Artes gráficas e edição de publicações.
 
+361 - Fabricação de artigos de porcelana, faiança, grés fino e olaria de barro.
+
+362 - Fabricação de vidro e de artigos de vidro.
+
 952 - Lavandarias e tinturarias.
 
 Grupos CAE:
 
+3691 - Fabricação de materiais de barro para construção e de produtos refractários.
+
+3699 - Fabricação de outros produtos minerais não metálicos.
+
+3901 - Fabricação de jóias e artigos de ourivesaria.
+
+3902 - Fabricação de instrumentos musicais.
+
+3903 - Fabricação de artigos de desporto.
+
+3909 - Indústrias transformadoras diversas.
+
 9511 - Reparação de calçado e outros artigos de couro.
 
-9514 - Reparação de objectos de joalharia.
-
-(Algumas destas actividades poderão vir a ser afectas ao Ministério da Agricultura e Pescas, para o que se terá de publicar o decreto mencionado no n.º 2 do artigo 32.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.)
+> Alterado pelo/a [Portaria n.º 605/79](https://diariodarepublica.pt/dr/detalhe/portaria/605-1979-367454), publicado em 1979-11-22.
 
 6) Gabinete de Pesquisa e Exploração de Petróleos:
 

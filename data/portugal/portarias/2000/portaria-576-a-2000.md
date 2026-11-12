@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-12-28'
+version_history:
+  file: portaria-576-a-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-08-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-12-28'
+    amending: pt:dre:660753:por
+    amending_title: Portaria n.º 1209/2000
+    changes:
+    - Altera Artigo ANEXO II — (a que se refere o n.º 2.º)::5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/576-a/2000/08/08/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:24:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1209/2000. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-576-a-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1204,7 +1219,7 @@ O crédito é concedido sob a forma de empréstimo reembolsável pelas institui�
 
 ###### Artigo 5.º — Utilização, prazo e condições financeiras
 
-1 - Os empréstimos são concedidos pelo prazo máximo de quatro anos e amortizáveis anualmente, em prestações de igual montante, vencendo-se a primeira amortização, no máximo, um ano após a data prevista para a primeira utilização.
+1 - Os empréstimos são concedidos pelo prazo máximo de quatro anos e amortizáveis anualmente, em prestações de igual montante, vencendo-se a primeira amortização, no máximo, dois anos após a data prevista para a primeira utilização.
 
 2 - A utilização dos empréstimos é realizada no prazo máximo de seis meses após a data do contrato, podendo efectuar-se até quatro utilizações por operação.
 
@@ -1229,6 +1244,8 @@ Linha de crédito para os restante produtores:
 3.º ano - 40% da taxa de referência.
 
 5 - As percentagens referidas no número anterior são aplicadas sobre a taxa de referência criada pelo [Decreto-Lei n.º 359/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1989-549393), de 18 de Outubro, em vigor no início do período de contagem de juros, salvo se aquela for superior à taxa activa praticada pela instituição de crédito, caso em que aquelas percentagens são aplicadas sobre esta última.
+
+> Alterado pelo/a [Portaria n.º 1209/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1209-2000-660753), publicado em 2000-12-23.
 
 ###### Artigo 6.º — Condições de bonificação
 

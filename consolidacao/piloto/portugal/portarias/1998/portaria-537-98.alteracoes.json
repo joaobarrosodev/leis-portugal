@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Texto bilíngue\n\nAs cartas de curso e o diploma a que se refere o n.º 1.º terão num lado o texto em português e no outro o texto em latim, devendo a forma gráfica de ambos os textos revestir igual dignidade.",
+    "depois": "Texto bilingue\n\nAs cartas de curso e o diploma a que se refere o n.º 1.º têm o texto em português ou, em opção, num lado o texto em português e no outro o texto em latim, devendo, neste caso, a forma gráfica de ambos os textos revestir igual dignidade.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:437457:por",
+    "alterador": "pt:dre:302550:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º A admissão dos candidatos à prestação das provas especiais é da competência da Direcção-Geral de Energia. Os candidatos admitidos devem proceder ao pagamento da importância de 2500$00, naquela Direcção-Geral.",
+    "depois": "4.º Os candidatos à prestação das provas especiais devem proceder, no acto de inscrição, ao pagamento da importância de 20000$00, destinada a cobrir os custos com a sua realização.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:399221:por",
+    "alterador": "pt:dre:274252:por"
+  },
+  {
+    "artigo": "unidades 23-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "13.º A Direcção-Geral de Energia assegurará o pagamento de todas as despesas resultantes da realização das provas, incluindo uma gratificação de 500$00 por candidato a cada um dos membros do júri.",
+    "depois": "13.º O montante referido no n.º 4.º deverá ser repartido na seguinte proporção:\n\na) 40% às escolas para pagamento de despesas afectas à realização das provas;\n\nb) 40% a repartir equitativamente pelos membros do júri;\n\nc) 20% para a entidade que tenha a seu cargo a organização das provas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:399221:por",
+    "alterador": "pt:dre:274252:por"
+  }
+]

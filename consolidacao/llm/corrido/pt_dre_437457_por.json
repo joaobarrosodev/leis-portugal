@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:437457:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 12,
+      "texto": "Texto bilingue\n\nAs cartas de curso e o diploma a que se refere o n.º 1.º têm o texto em português ou, em opção, num lado o texto em português e no outro o texto em latim, devendo, neste caso, a forma gráfica de ambos os textos revestir igual dignidade.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 377/2002: nova redação do n.º 2.º (epígrafe 'Texto bilingue' e corpo) — substituídas as unidades 11-12; a unidade 10 ('2.º') não muda."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

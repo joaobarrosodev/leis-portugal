@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:400042:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "2.º Os conselhos científicos do INIC serão compostos por professores universitários, investigadores e individualidades de reconhecida competência da área científica correspondente, a nomear nos termos do artigo 46.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 28 de Setembro.",
+      "alterador": 1
+    },
+    {
+      "de": 13,
+      "ate": 14,
+      "texto": "3.º Compete aos conselhos científicos do INIC, no âmbito dos respectivos domínios:\n\na) Pronunciar-se sobre os planos anuais e plurianuais das actividades científicas dos organismos, bem como sobre as respectivas propostas de orçamento;",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "e) Propor à comissão executiva do INIC os critérios, selecção e financiamento de projectos e programas de investigação;",
+      "alterador": 1
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "b) As comissões reunirão por convocação do presidente do INIC, nos termos do n.º 4.º, ou ainda quando os seus membros o entenderem conveniente.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 262/85 (retificação): n.º 2.º com 'artigo 46.º' -> unidade 12",
+    "Portaria 262/85: proémio do n.º 3.º reproduzido com 'científicos' e alínea a) com 'das actividades' -> unidades 13-14",
+    "Portaria 262/85: alínea e) do n.º 3.º -> unidade 18; alíneas b), c), d), f), g), h) com '...' mantidas",
+    "Portaria 262/85: alínea b) do n.º 6.º com 'ou ainda' -> unidade 26; 6.º e a) com '...' mantidos"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

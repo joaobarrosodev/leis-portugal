@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:419453:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "O Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), e a Associação de Ourivesaria e Relojoaria de Portugal (AORP) adotam o Protocolo que criou o Centro de Formação Profissional, de harmonia com as cláusulas seguintes:",
+      "alterador": 1
+    },
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "a) Aos empresários e trabalhadores das empresas associadas da Associação de Ourivesaria e Relojoaria de Portugal (AORP);",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 200/2017, anexo: nova redação do texto introdutório do protocolo: substituída a unidade 15.",
+    "Nova redação da alínea a) da cláusula III (epígrafe, proémio e alíneas b) a d) ficam [...]): substituída só a unidade 27."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

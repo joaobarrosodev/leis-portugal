@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:441740:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-10-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "eed2551464f06c17"
+   ]
+  },
+  {
+   "date": "1985-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178341:por",
+     "title": "Despacho Normativo n.º 95/85",
+     "published": "1985-10-10",
+     "dre_path": "/dr/detalhe/despacho-normativo/95-1985-178341"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3",
+    "Altera Artigo unidades 5-16"
+   ],
+   "fragments": [
+    "bf2c1ec89935931e"
+   ]
+  }
+ ],
+ "fragments": {
+  "eed2551464f06c17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 509/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/509-1977-279588), de 14 de Dezembro, determina-se que seja introduzido no Regulamento Interno do Mercado Abastecedor de Chaves de Oliveira um artigo 6.º-A, com a seguinte redacção:\n\n6.º-A - A comissão consultiva do Mercado Abastecedor de Chaves de Oliveira, constituída nos termos do artigo 26.º do Regulamento dos Mercados Abastecedores de Frutas e Produtos Hortícolas, terá a seguinte composição alargada:\n\na) 1 representante da Direcção Regional de Agricultura de Entre Douro e Minho, que coordenará;\n\nb) 1 representante da Direcção-Geral do Comércio;\n\nc) 1 representante da Direcção-Geral de Fiscalização Económica;\n\nd) 1 representante da Junta Nacional das Frutas;\n\ne) 1 representante da Associação Nacional dos Armazenistas, Importadores e Exportadores de Frutas e Produtos Hortícolas;\n\nf) 1 representante da Confederação dos Agricultores de Portugal;\n\ng) 1 representante dos descarregadores e dos transportadores;\n\nh) 1 representante da Federação do Comércio Retalhista Português;\n\ni) 1 representante dos mandatários;\n\nj) 1 representante da Direcção de Saúde do Porto;\n\nk) 1 representante da Câmara Municipal do Porto;\n\nl) 1 membro da comissão administrativa;\n\nm) 1 membro da comissão de fiscalização.\n\nMinistérios da Administração Interna, da Agricultura, Florestas e Alimentação e do Comércio e Turismo, 4 de Outubro de 1983. - Pelo Ministro da Administração Interna, Helena de Melo Torres Marques, Secretária de Estado da Administração Autárquica. - Pelo Ministro da Agricultura, Florestas e Alimentação, Jacinto José Montalvão de Santos e Silva Marques, Secretário de Estado da Alimentação. - Pelo Ministro do Comércio e Turismo, Carlos Alberto Antunes Filipe, Secretário de Estado do Comércio Interno."
+  },
+  "bf2c1ec89935931e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1985-10-15",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 95/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/95-1985-178341), publicado em 1985-10-10.",
+    "Alterado pelo/a [Despacho Normativo n.º 95/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/95-1985-178341), publicado em 1985-10-10."
+   ],
+   "markdown": "Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 509/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/509-1977-279588), de 14 de Dezembro, determina-se que seja introduzido no Regulamento Interno do Mercado Abastecedor de Chaves de Oliveira um artigo 6.º-A, com a seguinte redacção:\n\n6.º-A. A comissão consultiva do Mercado Abastecedor de Chaves de Oliveira, constituída nos termos do artigo 26.º do Regulamento dos Mercados Abastecedores de Frutas e Produtos Hortícolas, na nova redacção dada pelo [Decreto-Lei n.º 348/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1984-400577), de 29 de Outubro, terá a seguinte composição alargada:\n\n> Alterado pelo/a [Despacho Normativo n.º 95/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/95-1985-178341), publicado em 1985-10-10.\n\na) 1 representante da Direcção Regional de Agricultura de Entre Douro e Minho, que coordenará;\n\nb) 1 representante da Direcção-Geral do Comércio Interno;\n\nc) 1 representante da Direcção-Geral de Concorrência e Preços;\n\nd) 1 representante do Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares;\n\ne) 1 representante da Direcção-Geral da Inspecção Económica;\n\nf) 1 representante da Junta Nacional das Frutas;\n\ng) 1 representante da Confederação dos Agricultores de Portugal;\n\nh) 1 representante da Associação Nacional dos Armazenistas, Importadores e Exportadores de Frutas e Produtos Hortícolas;\n\ni) 1 representante dos descarregadores e dos transportadores;\n\nj) 1 representante da Federação do Comércio Retalhista Português;\n\nk) 1 representante da Administração Regional de Saúde do Porto;\n\nl) 1 membro da comissão administrativa;\n\nm) 1 representante da Câmara Municipal do Porto;\n\nn) 1 representante dos mandatários;\n\no) 1 membro da comissão de fiscalização.\n\n> Alterado pelo/a [Despacho Normativo n.º 95/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/95-1985-178341), publicado em 1985-10-10.\n\nMinistérios da Administração Interna, da Agricultura, Florestas e Alimentação e do Comércio e Turismo, 4 de Outubro de 1983. - Pelo Ministro da Administração Interna, Helena de Melo Torres Marques, Secretária de Estado da Administração Autárquica. - Pelo Ministro da Agricultura, Florestas e Alimentação, Jacinto José Montalvão de Santos e Silva Marques, Secretário de Estado da Alimentação. - Pelo Ministro do Comércio e Turismo, Carlos Alberto Antunes Filipe, Secretário de Estado do Comércio Interno."
+  }
+ }
+}

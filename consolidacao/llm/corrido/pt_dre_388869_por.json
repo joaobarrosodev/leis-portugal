@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:388869:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "2 - A criação do lugar referido no número anterior produz efeitos a partir de 1 de Abril de 1992, considerando-se tais efeitos como reportados ao quadro da ex-Biblioteca Nacional até à entrada em vigor da portaria referida no número anterior.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Despacho Normativo n.º 355/93) dá nova redação ao n.º 2: substituída a unidade 6.",
+    "Alterador 2 é o mesmo Despacho Normativo n.º 355/93 repetido, com a mesma redação do n.º 2: já aplicada, sem mudança adicional."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

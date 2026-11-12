@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 64-64",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 11.º O lugar de director do Centro de Estudos de Nutrição é exercido, por inerência de funções, pelo professor da cadeira de Nutrição e Higiene de Alimentação da Escola Nacional de Saúde Pública.",
+    "depois": "Art. 11.º O lugar de director do Centro de Estudos de Nutrição é provido, sob proposta do director do Instituto, de entre licenciados em Medicina com preparação em Nutrição pertencentes ao quadro de pessoal do INSA ou de outra instituição de saúde.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430461:por",
+    "alterador": "pt:dre:376233:por"
+  }
+]

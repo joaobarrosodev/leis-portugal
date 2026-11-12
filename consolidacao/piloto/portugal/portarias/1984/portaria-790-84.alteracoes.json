@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Os conselhos científicos do INIC serão compostos por professores universitários, investigadores e individualidades de reconhecida competência da área científica correspondente, a nomear nos termos do artigo 47.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 28 de Setembro.",
+    "depois": "2.º Os conselhos científicos do INIC serão compostos por professores universitários, investigadores e individualidades de reconhecida competência da área científica correspondente, a nomear nos termos do artigo 46.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 28 de Setembro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400042:por",
+    "alterador": "pt:dre:152349:por"
+  },
+  {
+    "artigo": "unidades 13-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Compete aos conselhos científios do INIC, no âmbito dos respectivos domínios:\n\na) Pronunciar-se sobre os planos anuais e plurianuais de actividades científicas dos organismos, bem como sobre as respectivas propostas de orçamento;",
+    "depois": "3.º Compete aos conselhos científicos do INIC, no âmbito dos respectivos domínios:\n\na) Pronunciar-se sobre os planos anuais e plurianuais das actividades científicas dos organismos, bem como sobre as respectivas propostas de orçamento;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400042:por",
+    "alterador": "pt:dre:152349:por"
+  },
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) Propor à comissão executiva do INIC os critérios e selecção e financiamento de projectos e programas de investigação;",
+    "depois": "e) Propor à comissão executiva do INIC os critérios, selecção e financiamento de projectos e programas de investigação;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400042:por",
+    "alterador": "pt:dre:152349:por"
+  },
+  {
+    "artigo": "unidades 26-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) As comissões reunirão por convocação do presidente do INIC, nos termos do n.º 4.º, ainda quando os seus membros o entenderem conveniente.",
+    "depois": "b) As comissões reunirão por convocação do presidente do INIC, nos termos do n.º 4.º, ou ainda quando os seus membros o entenderem conveniente.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:400042:por",
+    "alterador": "pt:dre:152349:por"
+  }
+]

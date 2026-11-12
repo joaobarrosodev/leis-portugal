@@ -1,0 +1,122 @@
+{
+  "id": "pt:dre:390816:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::1.º",
+      "epigrafe": "Objecto",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::2.º",
+      "epigrafe": "Celebração de protocolos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::3.º",
+      "epigrafe": "Relação entre as partes nos protocolos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::4.º",
+      "epigrafe": "Relações das partes com os mutuários",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::5.º",
+      "epigrafe": "Protocolos em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::6.º",
+      "epigrafe": "Promotores",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::7.º",
+      "epigrafe": "Condições de acesso dos promotores",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::8.º",
+      "epigrafe": "Projectos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::9.º",
+      "epigrafe": "Condições de acesso dos projectos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::10.º",
+      "epigrafe": "Natureza e intensidade dos incentivos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::11.º",
+      "epigrafe": "Condições dos incentivos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::12.º",
+      "epigrafe": "Candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::13.º",
+      "epigrafe": "Deliberação preliminar, processo negocial e decisão final",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::14.º",
+      "epigrafe": "Prazo para a contratualização e caducidade dos direitos aos incentivos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::15.º",
+      "epigrafe": "Contratualização",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::16.º",
+      "epigrafe": "Comissões de acompanhamento",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::17.º",
+      "epigrafe": "Enquadramento automático",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO DOS FINANCIAMENTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO::18.º",
+      "epigrafe": "Cobertura orçamental",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "N.º 2 do Despacho Normativo n.º 31/2009 revoga o Despacho Normativo n.º 14/2001 (sem prejuízo da aplicação aos financiamentos já concedidos): os 18 artigos do regulamento anexo ficam '(Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

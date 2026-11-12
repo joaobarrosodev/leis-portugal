@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-04-13'
+version_history:
+  file: portaria-537-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-08-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-04-13'
+    amending: pt:dre:302550:por
+    amending_title: Portaria n.º 377/2002
+    changes:
+    - Altera Artigo unidades 11-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/537/1998/08/17/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:09:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 377/2002. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-537-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,9 +159,11 @@ Os modelos de carta de curso dos graus de bacharel e de licenciado, bem como o d
 
 2.º
 
-Texto bilíngue
+Texto bilingue
 
-As cartas de curso e o diploma a que se refere o n.º 1.º terão num lado o texto em português e no outro o texto em latim, devendo a forma gráfica de ambos os textos revestir igual dignidade.
+As cartas de curso e o diploma a que se refere o n.º 1.º têm o texto em português ou, em opção, num lado o texto em português e no outro o texto em latim, devendo, neste caso, a forma gráfica de ambos os textos revestir igual dignidade.
+
+> Alterado pelo/a [Portaria n.º 377/2002](https://diariodarepublica.pt/dr/detalhe/portaria/377-2002-302550), publicado em 2002-04-08.
 
 3.º
 
