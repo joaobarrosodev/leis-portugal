@@ -1,0 +1,1211 @@
+---
+schema_version: '1.0'
+id: pt:dre:147432893:por
+title: Declaração n.º 95/2020
+short_title: null
+summary: 2.ª alteração por adaptação do PDM do Cartaxo
+jurisdiction: portugal
+territory: null
+document_type: declaracao
+document_type_label: Declaração
+issuing_authority:
+- Município do Cartaxo
+proposing_entity: null
+official_number: 95/2020
+official_date: null
+publication_date: '2020-11-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 214/2020, Série II de 2020-11-03
+  number: '214'
+  series: II
+  supplement: null
+  pages: 194 - 219
+  pdf_url: https://files.diariodarepublica.pt/2s/2020/11/214000000/0019400219.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '147432893'
+  dre_path: /dr/detalhe/declaracao/95-2020-147432893
+  internal: pt:dre:147432893:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao/95-2020-147432893
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao/95-2020-147432893
+  consolidated_url: null
+  retrieved_at: '2026-11-12T18:57:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d5418098dadb47141636ec3616c52695a3ea40573f28acfb5febf2f914644559
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T18:57:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:114555405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114682804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115406981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1313480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132432011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2432256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58752835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74019772:por
+  label: null
+  source: null
+article_structure:
+  article_count: 70
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T18:57:45Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração n.º 95/2020
+
+2.ª Alteração por Adaptação do Plano Diretor Municipal do Cartaxo
+
+Pedro Miguel Magalhães Ribeiro, licenciado em Economia e Presidente da Câmara Municipal do Cartaxo:
+
+Torna público, nos termos do n.º 3, do artigo n.º 121.º do Regime Jurídico de Instrumentos de Gestão Territorial (RJIGT), aprovado pelo [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743) de 14 de maio, que a Câmara Municipal do Cartaxo deliberou, por unanimidade, na sua reunião ordinária de 21 de setembro de 2020 aprovar, por mera declaração, a 2.ª alteração por adaptação do Plano Diretor Municipal do Cartaxo decorrente da publicação na 2.ª série do Diário da República n.º 81, de 24 de abril da [Declaração n.º 46-A/2020](https://diariodarepublica.pt/dr/detalhe/declaracao/46-a-2020-132432011), a qual determina a caducidade da zona de servidão non aedificandi do Estudo Prévio das EENN 3 e 114 - Variante a Santarém.
+
+De acordo com o previsto no n.º 4 do artigo 121.º do RJIGT, foi dado conhecimento à Assembleia Municipal do Cartaxo, bem como à Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo.
+
+A alteração incidiu sobre as Plantas de Condicionantes, Ordenamento e Aglomerado Urbano do Cartaxo, assim como sobre o Regulamento do plano, ratificado pela [Resolução do Conselho de Ministros n.º 5/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-1998-239666), publicada na 1.ª série-B do Diário da República, de 22 de janeiro de 1998, na sua redação atual, alterando os artigos 41.º e 43.º
+
+Mais torna público, que a referida alteração por adaptação poderá ser consultada no sítio da internet do município em www.cm-cartaxo.pt, conforme o artigo 192.º do RJIGT.
+
+A presente alteração entra em vigor no dia útil seguinte ao da sua publicação no Diário da República.
+
+Nos termos da alínea k) do n.º 4 do artigo 191.º do RJIGT, publicam-se em anexo a esta Declaração, as Planta de Condicionantes, Ordenamento e Aglomerado Urbano do Cartaxo, bem como os artigos alterados do Regulamento do plano, procedendo-se igualmente à sua republicação.
+
+7 de outubro de 2020. - O Presidente da Câmara Municipal, Pedro Miguel Magalhães Ribeiro.
+
+2.ª Alteração por Adaptação do Plano Diretor Municipal do Cartaxo
+
+Altera os Artigos 41.º e 43.º
+
+###### Artigo 41.º — [...]
+
+1 - [...].
+
+2 - [...]:
+
+a) [...];
+
+b) [...]:
+
+b1) [...];
+
+b2) Outras estradas - EN 3.
+
+c) [...]:
+
+[...];
+
+[...];
+
+[...];
+
+[...].
+
+3 - [...].
+
+###### Artigo 43.º — (Revogado.)
+
+O regulamento do PDM do Cartaxo, ratificado pela [Resolução do Conselho de Ministros n.º 5/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/5-1998-239666), de 22/01, é aqui republicado com as redações que lhe foram dadas pelos: [Aviso n.º 14548/2010](https://diariodarepublica.pt/dr/detalhe/aviso/14548-2010-2432256), de 22/07; [Aviso n.º 18632/2011](https://diariodarepublica.pt/dr/detalhe/aviso/18632-2011-1313480), de 20/09; [Aviso n.º 4471/2016](https://diariodarepublica.pt/dr/detalhe/aviso/4471-2016-74019772), de 01/04; [Aviso n.º 1020/2018](https://diariodarepublica.pt/dr/detalhe/aviso/1020-2018-114555405), de 22/01; [Aviso n.º 2015/2018](https://diariodarepublica.pt/dr/detalhe/aviso/2015-2018-114682804), de 13/02; [Aviso n.º 7262/2018](https://diariodarepublica.pt/dr/detalhe/aviso/7262-2018-115406981), de 29/05; Aviso 1967/2019, de 04/02, e pelo presente Aviso.
+
+Republicação do Regulamento do Plano Diretor Municipal do Cartaxo
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Definição
+
+O Plano Diretor Municipal do Cartaxo, adiante designado por PDMC, constitui o instrumento definidor das linhas gerais da política de ordenamento físico e de gestão urbanística do território municipal, tendo em atenção os objetivos de desenvolvimento definidos para o concelho.
+
+###### Artigo 2.º — Delimitação territorial
+
+O PDMC é aplicável na totalidade da área do território municipal, conforme indicado na planta de ordenamento.
+
+###### Artigo 3.º — Objetivos
+
+São objetivos do PDMC:
+
+a) Contribuir para uma prática contínua de ordenamento e planeamento através da sua gestão participada, da elaboração de planos de urbanização e de planos de pormenor e de uma maior articulação com os órgãos de ordenamento e planeamento setorial da administração regional ou central;
+
+b) Contribuir para uma efetiva política de gestão dos solos pela Câmara Municipal do Cartaxo e para a disciplina das operações de urbanização, racionalizando e programando as expansões urbanas, com otimização da utilização das infraestruturas e equipamentos instalados e a instalar;
+
+c) Contribuir para a correta implantação e proteção das novas infraestruturas rodoviárias;
+
+d) Contribuir para a fixação de indústrias de pequena e média dimensão, equipamentos de nível regional e atividades do terciário;
+
+e) Contribuir para o aproveitamento equilibrado da frente do rio Tejo e das áreas de paisagem natural de elevada qualidade ambiental em que se localiza;
+
+f) Contribuir para a despoluição dos cursos de água e para a salvaguarda dos recursos hídricos, identificados e inventariados na Reserva Ecológica Nacional (REN);
+
+g) Contribuir para a salvaguarda e ampliação das áreas de vocação florestal, de uso diversificado, e para a salvaguarda e diversificação das áreas de uso agrícola, umas e outras participando na constituição de uma rede de contínuo natural, associada à rede hidrográfica.
+
+###### Artigo 4.º — Composição
+
+1 - O PDMC é composto pelos seguintes elementos:
+
+a) Peças escritas:
+
+Volume I - Relatório descritivo e propositivo do PDM do Cartaxo;
+
+Volume II - Regulamento do PDM do Cartaxo;
+
+Volume III - Elementos anexos ao Plano;
+
+b) Peças desenhadas:
+
+Planta de ordenamento à escala de 1:25 000;
+
+Planta de unidades operativas de planeamento e gestão, à escala de 1:25 000;
+
+Planta de condicionantes - servidões e restrições de utilidade pública, à escala de 1:25 000;
+
+Planta de condicionantes REN, à escala de 1:25 000;
+
+Planta de condicionantes RAN, à escala de 1:25 000;
+
+Planta do aglomerado urbano do Cartaxo, à escala de 1:5000;
+
+Planta do aglomerado urbano de Vila Chã de Ourique, à escala de 1:5000;
+
+Planta do aglomerado urbano de Pontével, à escala aproximada de 1:5000;
+
+Planta do aglomerado urbano da Lapa, à escala aproximada de 1:5000;
+
+Planta do aglomerado urbano de Vale da Pedra, à escala aproximada de 1:5000;
+
+Planta do aglomerado urbano de Vale da Pinta, à escala aproximada de 1:5000;
+
+Planta do aglomerado urbano de Ereira, à escala aproximada de 1:5000;
+
+Planta do aglomerado urbano de Valada, à escala aproximada de 1:5000;
+
+Planta do aglomerado urbano de Casais dos Lagartos, à escala de 1:5000;
+
+Plantas dos aglomerados urbanos de Casais dos Penedos/Casais da Amendoeira, à escala de 1:5000;
+
+Planta de enquadramento, à escala de 1:250 000;
+
+Planta de enquadramento, à escala de 1:50 000;
+
+Planta da divisão administrativa, à escala de 1:25 000;
+
+Carta hidrológica, à escala de 1:25 000;
+
+Carta das áreas abrangidas pelas cheias, à escala de 1:25 000;
+
+Carta de permeabilidade, à escala de 1:25 000;
+
+Carta das áreas de máxima infiltração, à escala de 1:25 000;
+
+Carta topográfica do concelho, à escala de 1:25 000;
+
+Carta de declives, à escala de 1:25 000;
+
+Planta da situação existente, à escala de 1:25 000;
+
+Carta de ocupação do solo, à escala de 1:25 000;
+
+Planta das potencialidades agrárias, à escala de 1:25 000;
+
+Planta da estrutura urbana, à escala de 1:25 000;
+
+Planta do sistema de abastecimento de água, à escala de 1:25 000;
+
+Planta de localização das ETAR, à escala de 1:25 000;
+
+Planta da localização de lixeiras, depósitos de detritos e entulhos, à escala de 1:25 000;
+
+Planta de localização dos principais fatores de degradação do ambiente, à escala de 1:25 000;
+
+Planta da rede viária básica de infraestruturas viárias, à escala de 1:25 000;
+
+Planta da REN - Situação existente, à escala de 1:25 000;
+
+Planta da REN - Propostas de exclusão n.º 1, à escala de 1:25 000;
+
+Planta da REN - Propostas de exclusão n.º 2, à escala de 1:25 000;
+
+Planta da RAN - Propostas de desanexação, à escala de 1:25 000;
+
+c) Anexo I - Património.
+
+2 - São elementos complementares das plantas de ordenamento, unidades operativas de planeamento e gestão, e de condicionantes as plantas dos aglomerados urbanos do concelho, à escala de 1:5000, onde se encontram definidos os seguintes perímetros urbanos: Cartaxo, Vila Chã de Ourique, Pontével, Lapa, Vale da Pedra, Vale da Pinta, Ereira, Valada, Casais dos Lagartos e Casais dos Penedos/Casais da Amendoeira. Estas plantas são objeto de publicação no Diário da República.
+
+###### Artigo 5.º — Revisão do Plano Diretor Municipal do Cartaxo
+
+O PDMC poderá ser revisto nos termos da lei, sempre que a Câmara Municipal do Cartaxo considere inadequadas as disposições nele consagradas.
+
+###### Artigo 6.º — Natureza e força vinculativa
+
+1 - As disposições do PDMC revestem a natureza de regulamento administrativo e são de cumprimento obrigatório nas relações entre os diversos níveis da Administração Pública, central, regional e local e entre esta e os administrados.
+
+2 - Os licenciamentos, aprovações e autorizações previstos neste Regulamento devem ser entendidos sem prejuízo das atribuições e competência cometidas por lei às demais entidades de direito público.
+
+###### Artigo 7.º — Definições
+
+Além das definições contidas na legislação em vigor, são estabelecidas as seguintes no âmbito do Regulamento do PDMC:
+
+Densidade bruta máxima - valor máximo admitido para o quociente entre o total do número de fogos e a área urbanizada ou urbanizável regulamentada em que se implantam, referida em fogos/hectare;
+
+Densidade líquida máxima - valor máximo para o quociente entre o total do número de fogos e a área da parcela de terreno em que se implantam, referida em fogos/hectare;
+
+Índice de ocupação ou de implantação máximo - valor máximo admitido para o quociente entre o total da área de implantação dos edifícios e a área da parcela de terreno em que se implantam, referido em percentagem;
+
+Índice de utilização ou de construção máximo - valor máximo admitido para o quociente entre a área total de pavimentos dos edifícios construídos acima e abaixo do nível do terreno e a área da parcela de terreno em que se implantam, referido em percentagem;
+
+Índice volumétrico máximo - valor máximo admitido para o quociente entre o total do volume dos edifícios construídos acima do nível do terreno e a área da parcela de terreno em que se implantam, referido em metros cúbicos/metros quadrados;
+
+Índice de utilização líquido - quociente da área total de pavimentos pela área total da parcela suscetível de construção, pelo lote ou pela área líquida de loteamento;
+
+Perímetro urbano - linha poligonal que delimita pelo exterior, de acordo com o Plano, o conjunto das classes de espaço urbano, espaço urbanizável e espaço industrial que seja contíguo às classes de espaço urbano e urbanizável;
+
+Área total de construção ou de pavimentos - somatório das áreas brutas de todos os pisos (incluindo átrios, escadas, elevadores e sistemas de deposição de lixos) acima e abaixo da cota de soleira, com exclusão de:
+
+Alpendres incluídos na habitação, com área não superior a 5 % da área total de construção, terraços e varandas;
+
+Garagens na cave;
+
+Galerias exteriores públicas;
+
+Arruamentos ou outros espaços livres de uso público cobertos para edificação;
+
+Sótãos sem pé-direito regulamentar para fins habitacionais ou comerciais;
+
+Áreas técnicas acima ou abaixo da cota de soleira;
+
+Área líquida de loteamento - somatório da área dos lotes edificáveis, não incluindo os espaços livres públicos, arruamentos, áreas de estacionamento público, áreas de equipamento e áreas verdes;
+
+Número de pisos limite - número total de pavimentos sobrepostos acima da cota de soleira, incluindo os aproveitamentos das coberturas, em condições legais de utilização;
+
+Lugar de estacionamento - área não edificada de domínio público afeta a estacionamento de veículo ligeiro, servida por arruamento, correspondendo a 20 m2/lugar, ou área equivalente de domínio privado afeta em exclusivo a essa utilização, correspondente a 25 m2/lugar, quando em estrutura edificada;
+
+Altura da edificação - dimensão vertical da edificação, contada a partir da cota média do terreno no alinhamento da fachada principal até ao ponto mais alto da construção, excetuando chaminés;
+
+Valor modal da cércea - cércea que apresenta maior frequência num conjunto edificado;
+
+Área social - conjunto de edificações autorizadas e respetiva área envolvente, não possuindo as características necessárias para a classificação como aglomerado do nível V, de acordo com a definição do artigo 11.º deste Regulamento;
+
+Superfície útil - soma das áreas de todos os compartimentos, incluindo vestíbulos, circulações, instalações sanitárias, arrumos, outros compartimentos de função similar e armários nas paredes, mede-se pelo intradorso das paredes exteriores, descontando encalços até 30 cm, paredes interiores, divisórias e condutas.
+
+### CAPÍTULO II — Servidões administrativas e restrições de utilidade pública
+
+###### Artigo 8.º — Servidões administrativas e restrições de utilidade pública
+
+Regem-se pelo disposto no presente título e legislação aplicável as servidões administrativas e restrições de utilidade pública ao uso dos solos seguidamente identificados:
+
+a) Conservação do património natural:
+
+a1) Margens e zonas inundáveis;
+
+a2) Nascente;
+
+a3) Areias dos rios;
+
+a4) Pedreiras;
+
+a5) REN;
+
+a6) RAN;
+
+a7) Sobreiros;
+
+a8) Oliveiras;
+
+a9) Pinheiro-bravo e eucalipto;
+
+b) Conservação do património edificado:
+
+b1) Monumentos nacionais, imóveis de interesse público e valores concelhios;
+
+b2) Edifícios públicos;
+
+b3) Conjuntos e sítios arqueológicos;
+
+c) Proteção de infraestruturas e equipamentos:
+
+c1) Saneamento básico;
+
+c2) Proteção das linhas elétricas;
+
+c3) Passagem das linhas de alta tensão;
+
+c4) Estradas nacionais;
+
+c5) Vias municipais;
+
+c6) Vias férreas;
+
+c7) Telecomunicações;
+
+c8) Escolas;
+
+c9) Equipamentos de saúde;
+
+d) Defesa nacional/segurança pública:
+
+Prisões;
+
+e) Cartografia e planeamento:
+
+e1) Marcos geodésicos;
+
+e2) Planeamento n.º 1 (medidas preventivas);
+
+e3) Planeamento n.º 2 (zonas de defesa e controlo urbano).
+
+### CAPÍTULO III — Uso dominante do solo - Usos urbanos e industriais
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 9.º — Classes de espaço
+
+Os espaços com usos predominantemente urbanos compreendem as seguintes classes:
+
+a) Espaço urbano;
+
+b) Espaço urbanizável;
+
+c) Espaço industrial;
+
+d) Espaço turístico.
+
+###### Artigo 10.º — Hierarquia dos aglomerados urbanos
+
+O Plano estabelece a seguinte hierarquia para os aglomerados urbanos, por ordem decrescente de importância:
+
+a) Nível I (NI) - Cartaxo;
+
+b) Nível II (NII) - Vila Chã de Ourique e Pontével;
+
+c) Nível III (NIII) - Lapa, Vale da Pedra, Vale da Pinta, Ereira, Valada e Casais dos Lagartos;
+
+d) Nível IV (NIV) - Casais dos Penedos e Casais da Amendoeira;
+
+e) Nível V (NV) - os seguintes aglomerados, não delimitados na planta de ordenamento, servidos por arruamento de utilização pública e redes públicas de abastecimento de água e fornecimento de energia elétrica: Casais de Alcaria/Pinhal do Bairro, Casais do Latagão, Cruz do Campo, Reguengo de Valada, Porto de Muge, Casais dos Telégrafos, Santana, Casais dos Luíses e Setil.
+
+###### Artigo 11.º — Perímetro urbano
+
+1 - O perímetro urbano dos aglomerados urbanos dos níveis I, II, III e IV é delimitado graficamente na planta de ordenamento.
+
+2 - Nos aglomerados do nível V considera-se ser o seu perímetro urbano o definido pelos pontos distanciados 50 m do eixo dos arruamentos, no sentido transversal, e 20 m da última edificação existente à data da publicação do PDM, no sentido dos arruamentos.
+
+###### Artigo 12.º — Restrições gerais
+
+1 - No espaço compreendido dentro dos perímetros urbanos é interdita a instalação de parques de sucata, depósitos de resíduos sólidos, instalações pecuárias e depósitos de produtos explosivos e de produtos inflamáveis.
+
+2 - No espaço urbano e urbanizável é interdita a instalação de indústrias dos tipos 1 e 2.
+
+3 - Quando se verifique a inexistência de impacte relevante no equilíbrio urbano e ambiental, pode a Câmara Municipal declarar compatível com uso industrial o alvará de autorização de utilização de edifício ou sua fração autónoma destinado:
+
+a) Ao uso de comércio, serviços ou armazenagem, no caso de se tratar de estabelecimento industrial a que se refere a parte 2-B do anexo I ao Sistema de Indústria Responsável;
+
+b) Ao uso de habitação, no caso de se tratar de estabelecimento abrangido pela parte 2-A do anexo I ao Sistema de Indústria Responsável;
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+#### SECÇÃO II — Espaço urbano e urbanizável
+
+##### SUBSECÇÃO I — Regime geral do espaço urbano e urbanizável
+
+###### Artigo 13.º — Implementação do Plano
+
+1 - Os índices estabelecidos nos artigos seguintes referem-se a planos de urbanização ou planos de pormenor.
+
+2 - Na ausência de plano referido no número anterior, os índices estabelecidos são de aplicação direta.
+
+###### Artigo 14.º — Regime de edificabilidade
+
+Em planos de urbanização ou de pormenor são admitidos como valores máximos os parâmetros constantes do quadro de caracterização.
+
+Quadro de caracterização
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/11/214000000/0019400219.pdf)
+
+##### SUBSECÇÃO II — Espaço urbano
+
+###### Artigo 15.º — Categorias de espaço
+
+No espaço urbano são consideradas as seguintes categorias de espaço:
+
+a) Área urbanizada (U);
+
+b) Área verde de proteção e enquadramento (VP).
+
+###### Artigo 16.º — Área urbanizada
+
+Consoante o grau de desenvolvimento e de integração na estrutura urbana, a área urbanizada é diferenciada nas seguintes zonas homogéneas, delimitadas graficamente nas plantas específicas de cada aglomerado:
+
+a) Zona consolidada (ZC) - correspondente a zona com estrutura urbana bem caracterizada onde é autorizada a construção nos espaços intersticiais ainda não preenchidos, com manutenção das características tipológicas, número de pisos, cérceas e volumetria predominantes na referida zona, não constituindo precedência a existência pontual de edifício(s) com altura superior à envolvente construída;
+
+b) Zona a completar ou reabilitar (ZR) - correspondente a zona com estrutura urbana mal definida, a sujeitar a ações que visem a sua consolidação, a satisfação das exigências básicas de habitabilidade, salubridade e segurança e a obtenção de situações regulamentares, e onde se pretende um enquadramento na área urbana que atenda ao tipo de construções existentes e à sua utilização dominante.
+
+###### Artigo 17.º — Área verde de proteção e enquadramento
+
+1 - A área verde de proteção e enquadramento é constituída por espaços ocupados por vegetação natural ou plantada, dominantemente sujeitos ao regime da REN, nos quais a função de enquadramento paisagístico e de proteção dos recursos naturais é privilegiada face a outros usos.
+
+2 - Nos espaços definidos no número anterior e não sujeitos ao regime da REN, a Câmara Municipal poderá autorizar a edificação de uma habitação isolada e unifamiliar, desde que a parcela tenha uma dimensão igual ou superior a 2500 m2, sem prejuízo das parcelas de menor dimensão, devidamente registadas à data de entrada em vigor deste PDM, obedecendo aos seguintes parâmetros urbanísticos:
+
+a) Índice de implantação do solo máximo de 15 %;
+
+b) Área coberta não superior a 300 m2, incluindo anexos;
+
+c) Número de pisos: dois;
+
+d) Altura máxima das construções: 7 m;
+
+e) A superfície impermeabilizada dos lotes não poderá exceder 20 % da área edificada, para além da definida de acordo com o índice de ocupação do solo.
+
+3 - Na área verde de proteção e enquadramento poderá ainda admitir-se:
+
+a) A instalação de equipamento coletivo no âmbito da vocação do espaço devendo observar os seguintes parâmetros:
+
+i) Índice de utilização: 0,10;
+
+ii) Índice de impermeabilização: 0,5.
+
+b) O aumento da área total de construção legalmente existente destinada a equipamento coletivo em atividade, desde que a mesma não exceda 30 % da área total licenciada.
+
+###### Artigo 18.º — Regime de edificabilidade
+
+O espaço urbano encontra-se sujeito aos seguintes condicionamentos:
+
+a) As construções novas deverão integrar-se harmoniosamente no tecido urbano construído, mantendo as características de alinhamentos, cércea, volumetria e ocupação do lote, tradicionais do aglomerado em que se inserem;
+
+b) A altura máxima das edificações deverá respeitar o valor modal das cérceas das construções vizinhas;
+
+c) O alinhamento definido pelas edificações imediatamente contíguas será obrigatoriamente respeitado, salvo quando exista plano de alinhamento aprovado pela Câmara Municipal;
+
+d) A profundidade máxima admissível para as empenas em edifícios de habitação coletiva será de 15 m, quando não existam edifícios confinantes. Quando existam edifícios confinantes, a profundidade das empenas poderá ser igual à desses edifícios, desde que fiquem asseguradas as boas condições de salubridade (exposição, insolação e ventilação) dos espaços habitáveis. No caso de edifícios destinados a equipamentos de interesse público ou hotelaria, a profundidade das empenas, em situações de integração em banda contínua, não poderá exceder 17 m;
+
+e) É interdito o licenciamento de obras de urbanização ou de edificação que pelo seu volume, configuração e localização provoquem um impacte negativo na paisagem ou limitem o campo visual em local singular e único para a sua contemplação;
+
+f) Poderão ser admitidas obras de que resulte aumento da área total de construção legalmente existente destinada a equipamento coletivo em atividade, desde que a mesma não exceda 30 % da área total licenciada.
+
+##### SUBSECÇÃO III — Espaço urbanizável
+
+###### Artigo 19.º — Espaço urbanizável
+
+O espaço urbanizável é constituído pela área urbanizável na qual se aplicam sem restrições os indicadores previstos no artigo 14.º referentes às zonas a reabilitar.
+
+#### SECÇÃO III — Espaço industrial
+
+###### Artigo 20.º — Categorias de espaço
+
+1 - No espaço industrial são consideradas as seguintes categorias de espaço:
+
+a) Área industrial existente;
+
+b) Área industrial proposta, a constituir no exterior do aglomerado urbano e onde é admitida atividade industrial dos tipos 1, 2 e 3. Estão nesta categoria de espaço as áreas industriais da Lapa, da Cruz do Campo e de Vale da Pedra.
+
+2 - Poderão ser licenciados outros estabelecimentos e atividades industriais, nos termos do artigo 30.º, no espaço agrícola, e do artigo 35.º, no espaço florestal.
+
+###### Artigo 21.º — Área industrial existente
+
+1 - Nas áreas industriais existentes integradas nos perímetros urbanos serão respeitados os condicionamentos constantes do artigo 12.º deste Regulamento.
+
+2 - Nas restantes áreas industriais existentes são admitidos, para além do uso industrial dominante, armazenagem, comércio, serviços complementares, infraestruturas de apoio e operações de gestão de resíduos não perigosos.
+
+###### Artigo 22.º — Área industrial proposta
+
+1 - As condições de ocupação e instalação de indústrias e outras atividades nas áreas industriais propostas são estabelecidas em planos de pormenor.
+
+2 - Enquanto não forem elaborados os planos referidos no número anterior aplicam-se os parâmetros constantes do artigo 23.º deste Regulamento.
+
+3 - Nas áreas industriais propostas são admitidos, para além do uso industrial dominante, armazenagem, comércio, serviços complementares, infraestruturas de apoio e operações de gestão de resíduos não perigosos.
+
+###### Artigo 23.º — Regime de restrições e condicionamentos
+
+1 - Para as áreas industriais são estabelecidos os seguintes condicionamentos aplicáveis à área do prédio ou dos prédios em que incide uma determinada operação urbanística:
+
+a) Área mínima: 800 m2;
+
+b) Índice de ocupação limite: 0,70;
+
+c) Índice volumétrico limite: 5 m3/m2;
+
+d) Afastamento mínimo da edificação principal em que se desenvolve a atividade ao limite da frente do lote: 10 m;
+
+e) Afastamento mínimo da edificação principal em que se desenvolve a atividade ao limite do tardoz do lote: 10 m;
+
+f) Afastamento mínimo da edificação principal em que se desenvolve a atividade ao limite lateral do lote: 5 m.
+
+2 - Deverão ser estabelecidas na área industrial zonas verdes de proteção e enquadramento com área não inferior a 10 % da área total do lote e constituição adequada à proteção e minimização dos impactes negativos aí gerados.
+
+3 - A área obrigatoriamente não impermeabilizada é, no mínimo, de 20 % da área de cada lote.
+
+#### SECÇÃO IV — Espaço turístico
+
+###### Artigo 24.º — Áreas turísticas
+
+O espaço turístico é constituído pelas seguintes áreas turísticas:
+
+a) Área turística da Quinta dos Chavões, Vila Chã de Ourique;
+
+b) Complexo turístico e desportivo da Quinta das Pratas.
+
+###### Artigo 25.º — Área turística da Quinta dos Chavões
+
+Esta área, identificada na planta de ordenamento, terá ocupação a definir em plano de pormenor.
+
+###### Artigo 26.º — Complexo turístico e desportivo da Quinta das Pratas
+
+No complexo da Quinta das Pratas, vocacionado para uma utilização humana orientada para o recreio, desporto e cultura, é permitida a instalação de equipamentos de carácter turístico-desportivo.
+
+### CAPÍTULO IV — Uso dominante do solo - Usos não urbanos
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 27.º — Classes de espaço
+
+Os espaços com usos não urbanos compreendem as seguintes classes:
+
+a) Espaço agrícola;
+
+b) Espaço florestal;
+
+c) Espaço de indústria extrativa;
+
+d) Espaço natural.
+
+###### Artigo 28.º — Regime de restrições e condicionamentos
+
+1 - Sem prejuízo das restrições e condicionantes constantes da lei, ficam interditas nestes espaços as práticas de destruição do revestimento vegetal, do relevo natural e das camadas de solo arável, desde que não integradas em práticas de exploração ou destinadas a ocupações expressamente autorizadas para cada classe e categoria de espaço.
+
+2 - Sem prejuízo do disposto na legislação aplicável a cada caso, nomeadamente a referente à RAN e à REN, a Câmara Municipal poderá autorizar edificações nos espaços com usos não urbanos desde que sejam observadas as disposições contidas neste Regulamento para cada classe e categoria de espaço.
+
+3 - A edificação de instalações destinadas a explorações pecuárias deve observar as seguintes disposições:
+
+a) Afastamentos mínimos da implantação a:
+
+i) Edificações preexistentes destinadas a habitação, comércio, serviços e equipamentos de utilização coletiva e empreendimentos turísticos - 200 m;
+
+ii) Aglomerados urbanos - 200 m;
+
+b) Promover a correta integração paisagística, nomeadamente através da plantação de cortinas arbóreas, sem prejuízo do disposto na legislação em vigor relativa à proteção da floresta contra incêndios;
+
+c) Assegurar sistemas de tratamento e gestão de resíduos e efluentes, desde a produção, recolha, armazenamento, encaminhamento, tratamento e destino final, em conformidade com a legislação em vigor, e adotar boas práticas ambientais de modo a impedir a poluição dos solos e das águas.
+
+4 - A altura máxima das edificações é de 10 m, medidos no ponto mais desfavorável das mesmas, a partir do terreno natural até ao ponto mais elevado da cobertura, sem ultrapassar os 2 pisos acima da cota de soleira, incluindo-se nessa altura as frentes livres das caves e excluindo-se chaminés e elementos acessórios decorativos, podendo ainda ser excedida em silos, depósitos de água ou instalações especiais tecnicamente justificadas.
+
+#### SECÇÃO II — Espaço agrícola
+
+###### Artigo 29.º — Categorias de espaço
+
+No espaço agrícola são consideradas as seguintes categorias de espaço:
+
+a) Área agrícola da RAN - área destinada primordialmente à produção agrícola, correspondente aos solos com maior potencial agrícola, integrados na RAN;
+
+b) Outra área agrícola - área destinada à produção agrícola, mas não submetida ao regime da RAN;
+
+c) Área agro-pastoril - área de agricultura marginal, praticada em solos de menor capacidade de uso agrícola, mais vocacionada para o estabelecimento de pastagens melhoradas, conservação e renovação de prados ou introdução de culturas forrageiras em rotação.
+
+###### Artigo 30.º — Regime de edificabilidade no espaço agrícola
+
+1 - Sem prejuízo do disposto na legislação aplicável, nomeadamente a referente à RAN e à REN, a Câmara Municipal poderá permitir obras de edificação para:
+
+a) Instalações para apoio às atividades agrícolas e agropecuárias;
+
+b) Estabelecimentos industriais incluídos nos tipos 2 e 3, de apoio e transformação de produtos agrícolas;
+
+c) Infraestruturas e equipamentos de aproveitamento do potencial ecológico, designadamente unidades produtoras de energias renováveis;
+
+d) Instalações para operadores de gestão de resíduos (OGR) de origem agrícola e/ou florestal (verdes e castanhos), restringindo-se a instalação de estabelecimentos industriais que possam estar associados àqueles OGR, a casos excecionais, desde que devidamente comprovado pela entidade competente que a sua localização exige proximidade da produção primária ou que, pela sua natureza técnica e económica haja inconvenientes na sua instalação em zonas industriais;
+
+e) Empreendimentos de:
+
+i) Turismo no Espaço Rural (TER);
+
+ii) Turismo de Habitação (TH);
+
+f) Equipamentos coletivos no âmbito da vocação deste espaço.
+
+2 - Nas situações previstas no número anterior, a parcela de terreno deve ter área igual ou superior a 1 ha - ou 0,5 ha, se já constituir um artigo individualizado e como tal estiver inscrito e registado à data da publicação do PDMC - e não deve estar condicionada por regime, servidão ou restrição que o contrarie.
+
+3 - A Câmara Municipal poderá permitir a edificação de habitação unifamiliar para residência do proprietário ou dos trabalhadores permanentes da exploração agrícola, incluindo os respetivos anexos, desde que a parcela de terreno disponha de área igual ou superior a 4 ha, sem prejuízo do disposto na legislação aplicável, nomeadamente a referente à RAN e à REN.
+
+4 - As edificações referidas deverão observar as seguintes disposições:
+
+a) Para a situação constante do n.º 3, a área bruta de construção total destinada a habitação, incluindo anexos, não poderá exceder os 400 m2;
+
+b) Para as situações constantes do n.º 1, o índice de construção máximo à parcela de 0,05, incluindo habitação quando em conjunto;
+
+c) A área global afeta à implantação de todas as construções, arruamentos, estacionamentos e demais áreas impermeabilizadas não poderá exceder 0,10 da área global da parcela;
+
+d) Poderão ser admitidas obras de que resulte aumento da área total de construção legalmente existente destinada a equipamento coletivo em atividade, desde que a mesma não exceda 30 % da área total licenciada.
+
+5 - Em parcelas com área inferior a 4 ha e desde que a área total de construção resultante não exceda a prevista na alínea a) do número anterior, sem nunca poder ultrapassar o índice urbanístico definido para o aglomerado mais próximo, poderão ser admitidas as seguintes obras:
+
+a) Ampliação de edifícios destinados a habitação;
+
+b) Ampliação e construção de anexos de apoio habitacional, desde a que área total de construção não ultrapasse 80 m2.
+
+###### Artigo 31.º — Estufa
+
+1 - Sem prejuízo do disposto na legislação aplicável, nomeadamente a referente à RAN e à REN, a Câmara Municipal poderá permitir a instalação de estufas.
+
+2 - A instalação de estufas está sujeita a licença, sendo-lhe aplicável os seguintes condicionamentos:
+
+a) Afastamentos mínimos da implantação a:
+
+i) Vias públicas - o previsto no artigo 42.º deste Regulamento e demais legislação específica em vigor;
+
+ii) Estremas dos prédios - 5 m;
+
+iii) Perímetros urbanos delimitados em planta de ordenamento do PDMC - 50 m;
+
+iv) A ocorrências com valor patrimonial e cultural, identificado em PDMC ou mediante parecer emitido por organismo competente - 200 m;
+
+b) Índice de ocupação máximo referido à parcela de terreno de 0,05, incluindo a área de implantação das demais edificações.
+
+3 - Ficam dispensadas da observância de qualquer índice de ocupação as estufas que cumulativamente:
+
+a) Não impliquem impermeabilização permanente do solo;
+
+b) Sejam constituídas por estrutura ligeira de madeira ou perfil metálico sem recurso a sapatas de fundação;
+
+c) Não impliquem a remodelação dos terrenos;
+
+d) Apresentem revestimentos laterais e/ou de cobertura em plástico ou rede comercializados em filme ou rolo, podendo admitir-se recurso a outro material desde que não seja sob a forma de placa rígida.
+
+4 - As estufas com as características indicadas no número anterior e com uma área máxima de implantação até 1000 m2, ficam isentas de controlo prévio municipal.
+
+5 - Nos processos a apresentar deverão ser identificados os aquíferos que vão ser explorados e a capacidade produtiva destes, bem como deverá ser assegurada a infiltração das águas pluviais no solo e previstos os sistemas de drenagem adequados.
+
+6 - É imposta a remoção das estruturas das estufas após o seu abandono, bem como a recuperação do terreno para a atividade agrícola, considerando-se que as estufas estão abandonadas 24 meses após a última colheita nelas efetuada.
+
+#### SECÇÃO III — Espaço florestal
+
+###### Artigo 32.º — Categorias de espaço
+
+No espaço florestal são consideradas as seguintes categorias de espaço:
+
+a) Área florestal de produção, constituída por:
+
+a1) Montado de sobro;
+
+a2) Outras matas de produção;
+
+b) Área florestal de proteção, constituída pelas áreas de mata de proteção.
+
+###### Artigo 33.º — Área florestal de produção
+
+1 - Área destinada primordialmente à exploração silvícola, ocupada por povoamentos onde predominam o pinheiro-bravo e o eucalipto e ainda algum montado de sobro.
+
+a) Nos espaços ocupados por montado de sobro, objeto de proteção específica que condicione o seu corte, deve ser privilegiada a silvo-pastorícia, sem prejuízo de outras atividades como o fomento cinegético e a apicultura.
+
+b) Os espaços caracterizados como outras matas de produção são ocupados por folhosas de rápido crescimento e resinosas, onde se privilegia essencialmente a exploração florestal.
+
+2 - O regime de edificabilidade nesta área é o disposto no artigo 35.º deste Regulamento.
+
+###### Artigo 34.º — Área florestal de proteção
+
+1 - Esta área é constituída pelas faixas de proteção dos cursos de água, pelas comunidades de vegetação instaladas em litossolos de arenitos, nas zonas de relevo acidentado e nas encostas de vale que pendem para as ribeiras principais, estabelecendo um continuum naturalle que assegura a salvaguarda do património genético, a defesa e valorização dos recursos hídricos e a redução dos riscos de erosão do solo e de incêndio.
+
+2 - Nesta área é interdita a edificação, com exceção de instalações de vigilância e combate a incêndios florestais e ampliações em edifícios destinados a habitação, construídos ao abrigo de direito anterior, desde que daí não resulte uma área de implantação superior a 250 m2.
+
+###### Artigo 35.º — Regime de edificabilidade no espaço florestal
+
+1 - Sem prejuízo da legislação aplicável, a Câmara Municipal poderá permitir a edificação indispensável à proteção e exploração silvícola desse espaço, bem como ainda:
+
+a) Instalações para operadores de gestão de resíduos (OGR) de origem agrícola e/ou florestal (verdes e castanhos), restringindo-se a instalação de estabelecimentos industriais que possam estar associados àqueles OGR, a casos excecionais, desde que devidamente comprovado pela entidade competente que a sua localização exige proximidade da produção primária ou que, pela sua natureza técnica e económica haja inconvenientes na sua instalação em zonas industriais;
+
+b) Empreendimentos de:
+
+i) Turismo no Espaço Rural (TER);
+
+ii) Turismo de Habitação (TH);
+
+c) Infraestruturas e equipamentos de aproveitamento do potencial ecológico, designadamente unidades produtoras de energias renováveis;
+
+d) Equipamentos coletivos no âmbito da vocação deste espaço.
+
+2 - A parcela de terreno em que se localiza deve ter área igual ou superior a 2 ha - ou 0,5ha, se já constituir um artigo individualizado e como tal estiver inscrito e registado à data da publicação do PDMC - e não deve estar condicionada por regime, servidão ou restrição que o contrarie, designadamente REN e regime hídrico.
+
+3 - A Câmara Municipal poderá permitir a edificação de habitação unifamiliar para residência do proprietário incluindo os respetivos anexos, desde que a parcela de terreno disponha de área igual ou superior a 4 ha, sem prejuízo do disposto na legislação aplicável, nomeadamente a referente à RAN e à REN.
+
+4 - As edificações referidas deverão observar as seguintes disposições:
+
+a) Para a situação constante do n.º 3, a área bruta de construção total destinada a habitação, incluindo anexos, não poderá exceder os 400 m2;
+
+b) Para as situações constantes do n.º 1, o índice de construção máximo à parcela de 0,05, incluindo habitação quando em conjunto;
+
+c) A área global afeta à implantação de todas as construções, arruamentos, estacionamentos e demais áreas impermeabilizadas não poderá exceder 0,10 da área global da parcela;
+
+d) Poderão ser admitidas obras de que resulte aumento da área total de construção legalmente existente destinada a equipamento coletivo em atividade, desde que a mesma não exceda 30 % da área total licenciada.
+
+5 - Em parcelas com área inferior a 4 ha e desde que a área total de construção resultante não exceda a prevista na alínea a) do número anterior, sem nunca poder ultrapassar o índice urbanístico definido para o aglomerado mais próximo, poderão ser admitidas as seguintes obras:
+
+a) Ampliação de edifícios destinados a habitação;
+
+b) Ampliação e construção de anexos de apoio habitacional, desde a que área total de construção não ultrapasse 80 m2.
+
+6 - Nas Outras Matas de Produção é admitida a instalação de estufas aplicando-se o disposto no artigo 31.º deste Regulamento.
+
+#### SECÇÃO IV — Espaço de indústria extrativa
+
+###### Artigo 36.º — Espaço de indústria extrativa
+
+1 - Os espaços de indústria extrativa delimitados na planta de ordenamento são constituídos pelas áreas sujeitas a atividades de extração.
+
+2 - Nestes espaços o licenciamento das atividades industriais fica sujeito ao disposto na legislação específica.
+
+#### SECÇÃO V — Espaço natural
+
+###### Artigo 37.º — Definição e constituição
+
+O espaço natural delimitado na planta de ordenamento é o espaço no qual se privilegia a proteção dos recursos naturais e a salvaguarda dos valores paisagísticos e que pela sua especificidade patrimonial merecem relevância, neles se incluindo a RAN e a REN, cuja legislação deverá ser observada em todo o espaço natural.
+
+###### Artigo 38.º — Categorias de espaço
+
+O espaço natural compreende as seguintes categorias:
+
+a) Área natural;
+
+b) Área de vocação recreativa.
+
+###### Artigo 39.º — Área natural
+
+1 - A área natural é constituída pela área ribeirinha composta pelo leito e frente do rio Tejo, seus afluentes e valas, englobando as suas margens e uma faixa de proteção delimitada para além da linha de máxima preia-mar das águas vivas equinociais, correspondente ao seu leito de cheia (cheia de fevereiro de 1979).
+
+2 - Sem prejuízo dos regimes jurídicos da RAN e da REN, poderão ser autorizadas edificações com a seguinte finalidade:
+
+a) Turismo no Espaço Rural (TER);
+
+b) Turismo de Habitação (TH);
+
+c) (Revogada.)
+
+d) Edificações que contribuam para reforçar o potencial produtivo da exploração agrícola a comprovar por declaração emitida pela entidade competente;
+
+e) Infraestruturas e equipamentos de aproveitamento do potencial ecológico, designadamente unidades produtoras de energias renováveis;
+
+f) Equipamentos coletivos no âmbito da vocação deste espaço.
+
+3 - A altura máxima das construções, com exceção de silos, depósitos de água ou instalações especiais devidamente justificadas, é de 6,5 m, medidos à platibanda ou beirado.
+
+4 - Na Área Natural é admitida a instalação de estufas aplicando-se o disposto no artigo 31.º deste Regulamento.
+
+###### Artigo 40.º — Área de vocação recreativa
+
+1 - Esta área, delimitada na planta de ordenamento, corresponde à zona de revalorização da área ribeirinha de Valada, vocacionada para uma utilização humana orientada para o recreio e o desfrute dos valores naturais, desde que salvaguardadas as condições para a manutenção e renovação desses valores.
+
+2 - As condições de ocupação serão estabelecidas em plano de pormenor, ficando o licenciamento de qualquer edificação sujeito à prévia aprovação daquele plano.
+
+### CAPÍTULO V — Espaço-canal de infraestrutura
+
+#### SECÇÃO I — Rede rodoviária
+
+###### Artigo 41.º — Constituição
+
+1 - No concelho do Cartaxo, a rede rodoviária é constituída por:
+
+a) Rede nacional de estradas;
+
+b) Rede municipal de estradas e caminhos.
+
+2 - A rede nacional de estradas, de acordo com o Plano Rodoviário Nacional ([Decreto-Lei n.º 380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), de 26 de setembro), é constituída, no concelho do Cartaxo, pelas seguintes comunicações públicas rodoviárias:
+
+a) Da rede fundamental - IPI/AE 1;
+
+b) Da rede complementar:
+
+b1) Itinerários complementares - inexistentes;
+
+b2) Outras estradas - EN 3.
+
+c) Estradas nacionais a integrar na rede municipal:
+
+EN 3-2 - EN 3 (Cruz do Campo)-Valada;
+
+EN 3-3 - EN 3 (Cartaxo)-Reguengo;
+
+EN 114-2 - limite norte do concelho-Setil;
+
+EN 365-2 - limite oeste do concelho-Cartaxo.
+
+3 - A rede municipal de estradas e caminhos, fundamental para o ordenamento municipal, é constituída, no concelho do Cartaxo, pelas comunicações públicas rodoviárias referidas no n.º 2, alínea c), deste artigo como estradas nacionais a integrar na rede municipal, quando da sua integração na rede municipal, e ainda pelas seguintes vias municipais classificadas e constituindo a rede de acessibilidade fundamental para o ordenamento do concelho do Cartaxo: estradas municipais n.os 512, 512-1, 514, 514-3, 517, 587, 587-1, 600 e 600-1 e caminhos municipais n.os 1394, 1395, 1396, 1397, 1398, 1399, 1399-1, 1400, 1401, 1402, 1403 e 1404.
+
+###### Artigo 42.º — Regime de restrições e condicionamentos
+
+1 - Nas comunicações públicas rodoviárias observar-se-á, em toda a sua extensão, o regime previsto na legislação específica em vigor.
+
+2 - Na rede municipal de estradas e caminhos observar-se-á, em toda a sua extensão, o regime previsto na [Lei n.º 2110](https://diariodarepublica.pt/dr/detalhe/lei/2110-1961-172974), de 19 de agosto de 1961.
+
+3 - Nas vias municipais são estabelecidas faixas non ædificandi, medidas ao eixo da via ou ao limite da zona da estrada ou caminho, como a seguir se refere:
+
+a) Estradas municipais:
+
+a1) 8 m, para a edificação em geral, medidos ao eixo da via;
+
+a2) 50 m, para a edificação de estabelecimentos industriais ou outras instalações que promovam congestionamento de tráfego, medidos ao limite da zona da estrada.
+
+b) Caminhos municipais:
+
+b1) 6 m, para a edificação em geral, medidos ao eixo da via;
+
+b2) 30 m, para a edificação de estabelecimentos industriais ou outras instalações que promovam congestionamento de tráfego, medidos ao limite da zona do caminho;
+
+c) Estradas nacionais, quando integradas na rede municipal: aplica-se o regime vigente das estradas nacionais.
+
+4 - Enquanto não se verificar a integração das estradas nacionais na rede municipal, as faixas non ædificandi são as definidas na legislação específica em vigor.
+
+5 - Nos troços das estradas e caminhos municipais dentro do perímetro urbano serão observados, até à aprovação de normas provisórias ou de planos de urbanização, os seguintes afastamentos mínimos ao eixo da via:
+
+Para a edificação em geral, 8 m;
+
+Para a edificação, quando afeta a usos comerciais, industriais ou outros que possam provocar congestionamento de trânsito, 20 m.
+
+###### Artigo 43.º — (Revogado.)
+
+#### SECÇÃO II — Rede ferroviária
+
+###### Artigo 44.º — Constituição
+
+A rede ferroviária é constituída, no concelho do Cartaxo, pelas seguintes comunicações públicas ferroviárias, exploradas pela CP:
+
+a) Linha do Norte;
+
+b) Linha de Vendas Novas.
+
+###### Artigo 45.º — Proteção da rede ferroviária
+
+1 - Nas comunicações públicas ferroviárias já construídas observar-se-á, em toda a sua extensão, o regime previsto na legislação em vigor.
+
+2 - Nas comunicações públicas ferroviárias já construídas são constituídas faixas de proteção non ædificandi, que, em conformidade com o futuro regulamento de exploração e polícia dos caminhos de ferro, terão o mínimo de 10 m ou 40 m de largura, contados a partir da crista do talude de escavação ou da base do talude de aterro, ou da borda exterior do caminho marginal de serviço, quando não ocorra escavação ou aterro, consoante se trate de edificação ou de instalação industrial.
+
+3 - Deverá ser acautelada a duplicação da linha Setil-Vendas Novas, reservando-se desde já para o referido espaço-canal faixas de proteção de 30 m (10 m + 20 m) e de 60 m (40 m + 20 m), respetivamente, para as situações previstas no número anterior e medidas como aí se indica.
+
+#### SECÇÃO III — Outras infraestruturas
+
+###### Artigo 46.º — Rede geral de transporte de energia em alta tensão (AT)
+
+1 - A rede geral de transporte de energia do concelho do Cartaxo é constituída fundamentalmente por linhas de transporte de alta tensão.
+
+2 - Nas linhas de transporte de alta tensão observa-se, em toda a sua extensão, o regime previsto na legislação específica em vigor, com os condicionamentos na travessia e vizinhança das comunicações públicas rodoviárias nacionais e municipais, ferroviárias, de outras linhas de transporte de energia, de áreas urbanas e de recintos escolares e desportivos.
+
+###### Artigo 47.º — Rede geral de saneamento básico
+
+1 - A rede geral de saneamento é constituída, no concelho do Cartaxo, pela rede geral de abastecimento de água e rede geral de drenagem de águas residuais.
+
+2 - A rede geral de abastecimento de água para consumo doméstico é constituída pelas captações, que, em termos sanitários, deverão obedecer à norma portuguesa NP-836 «abastecimento de água a aglomerados populacionais - origem e captação de águas - condutas de águas», entre as captações e os reservatórios de serviço, e está em toda a sua extensão abrangida pelo regime de proteção, sob jurisdição da Câmara Municipal do Cartaxo, constituindo-se uma faixa de servidão non ædificandi com 5 m de largura, medidos para cada um dos lados das adutoras e envolvendo os reservatórios e equipamentos da rede. Neste sistema inclui-se ainda uma captação de água com origem nos recursos da EPAL, mais precisamente no «Aqueduto Tejo», à saída da estação de tratamento de água da EPAL em Vale da Pedra.
+
+3 - A rede de drenagem de águas residuais é constituída pelas canalizações entre a câmara de reunião dos coletores urbanos e as ETAR, fossa coletiva ou ponto de lançamento dos efluentes, e está, em toda a sua extensão, abrangida pelo regime de proteção, sob jurisdição da Câmara Municipal do Cartaxo, constituindo-se uma faixa de servidão non ædificandi com 5 m de largura, medidos para cada um dos emissários gerais e envolvendo os equipamentos da rede, e com 50 m de largura numa faixa a partir das estremas dos prédios onde se localizam as ETAR.
+
+4 - Deverá ser promovida a correta integração paisagística, nomeadamente através de plantação de cortinas arbóreas em todo o perímetro do prédio onde se implanta a ETAR, sem prejuízo do disposto na legislação em vigor relativa à proteção da floresta contra incêndios.
+
+5 - As condições de licenciamento e normas de descarga de águas residuais regem-se pela observância da legislação em vigor.
+
+### CAPÍTULO VI — Património cultural
+
+###### Artigo 48.º — Definição
+
+Considera-se património cultural concelhio o conjunto formado pelos valores culturais, constituído pelos monumentos, conjuntos ou sítios que, pelas suas características, se assumem como valores de reconhecido interesse histórico, arqueológico, artístico, científico, técnico ou social, a todos eles se associando zonas de proteção correspondentes aos locais em que se enquadram.
+
+###### Artigo 49.º — Proteção do património cultural
+
+1 - As formas e o regime de proteção do património cultural encontram-se definidos na legislação em vigor, a qual apresenta regimes específicos no que concerne aos bens imóveis, bens móveis e património arqueológico.
+
+2 - Os imóveis propostos para classificação encontram-se assinalados nas plantas dos aglomerados urbanos.
+
+3 - Enquanto não se promover a delimitação da zona especial de proteção, deve considerar-se como zona de proteção, no âmbito do PDMC, a área envolvente do imóvel, ocorrência ou conjunto, com uma largura de 50 m contados a partir dos seus limites.
+
+4 - As novas edificações a implantar nas zonas de proteção, bem como nas zonas especiais de proteção, instituídas ou propostas, terão de se harmonizar com as edificações existentes e integrar-se na envolvência comum. A harmonização implicará condicionamentos na localização, implantação, dimensão, volume, materiais e desenho arquitetónico, de modo que se assegure a necessária integração como meio de proteção e salvaguarda pretendidas.
+
+###### Artigo 50.º — Achados arqueológicos
+
+1 - Deverá ser imediatamente suspensa pelo respetivo técnico responsável a execução de obras, particulares ou não, em que se verificarem achados arqueológicos.
+
+2 - O referido responsável deverá dar imediato conhecimento do achado à Câmara Municipal e aos respetivos serviços, os quais deverão comunicar a ocorrência ao Instituto Português do Património Arquitetónico (IPPAR).
+
+### CAPÍTULO VII — Unidades operativas de planeamento e gestão
+
+###### Artigo 51.º — Caracterização
+
+1 - Unidade operativa de planeamento e gestão é uma área sujeita a regulamentação e gestão urbanística própria, conferida por plano municipal de ordenamento (plano de urbanização, plano de pormenor) ou plano de salvaguarda e valorização.
+
+2 - É obrigatória a elaboração de planos para as unidades operativas de planeamento e gestão.
+
+3 - Enquanto não vigorarem os correspondentes planos, nas áreas abrangidas pelas unidades operativas de planeamento e gestão vigoram as disposições deste Regulamento para as respetivas classes de espaço.
+
+###### Artigo 52.º — Identificação das unidades operativas de planeamento e gestão
+
+No concelho do Cartaxo são constituídas as seguintes unidades operativas de planeamento e gestão:
+
+a) Áreas a sujeitar a planos de urbanização:
+
+Cartaxo;
+
+Vila Chã de Ourique;
+
+Pontével;
+
+Casais dos Lagartos;
+
+Cruz do Campo;
+
+Vale da Pedra;
+
+b) Áreas a sujeitar a planos de pormenor:
+
+Espaço urbanizável das sedes de freguesia, designadamente no Cartaxo, Vila Chã de Ourique, Pontével, Vale da Pedra, Vale da Pinta e Ereira;
+
+Área de revalorização ribeirinha de Valada;
+
+Área industrial sul de Vila Chã de Ourique;
+
+Área industrial da Cruz do Campo;
+
+Área industrial de Vale da Pedra;
+
+Área industrial da Lapa;
+
+c) Áreas a sujeitar a planos de salvaguarda e valorização:
+
+Áreas centrais do Cartaxo, Vila Chã de Ourique e Pontével;
+
+Valada.
+
+### CAPÍTULO VIII — Disposições complementares
+
+#### SECÇÃO I — Licenciamento de operações de loteamento, obras de urbanização e edificações
+
+###### Artigo 53.º — Parâmetros de dimensionamento de espaços verdes e de utilização coletiva, infraestruturas viárias e equipamentos
+
+Até à fixação dos parâmetros em planos municipais de ordenamento do território, aplicar-se-ão os parâmetros estabelecidos na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de dezembro.
+
+###### Artigo 54.º — Poluição sonora
+
+1 - São impostas medidas de minimização, quando do licenciamento municipal de operações de loteamento, obras de urbanização e obras particulares, nas faixas marginais da rede rodoviária dentro dos perímetros urbanos, nas zonas de proteção dos imóveis classificados ou propostos para classificação, nos edifícios públicos e nos estabelecimentos de ensino, saúde e segurança social.
+
+2 - Na aprovação da localização e no licenciamento das áreas comerciais, de serviços e de desporto e recreio são impostas igualmente as medidas de minimização necessárias à satisfação das disposições legais de proteção contra o ruído.
+
+3 - Para além do disposto na legislação especial aplicável, a Câmara Municipal do Cartaxo imporá ainda, sempre que requerido, o estabelecimento de zonas vedadas à circulação automóvel de passagem e a criação de vias alternativas para veículos pesados fora das áreas habitacionais.
+
+#### SECÇÃO II — Circulação e estacionamento
+
+###### Artigo 55.º — Circulação e estacionamento
+
+1 - Nos casos em que os valores indicados nos artigos 56.º a 65.º deste Regulamento sejam menos favoráveis, do ponto de vista do uso em causa, do que os valores mínimos dos parâmetros correspondentes do quadro I anexo à [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de dezembro, deverão ser aplicados os mais favoráveis.
+
+2 - Aos planos de urbanização e de pormenor e nas operações de loteamento nos espaços urbanizáveis deverá afetar-se uma área correspondente a, pelo menos, 25 % da área total a vias e estacionamento locais.
+
+3 - Para as áreas urbanizáveis, novas áreas industriais e áreas urbanas e industriais existentes ficam a circulação e o estacionamento automóvel sujeitos ao disposto nos artigos 57.º a 66.º deste Regulamento.
+
+###### Artigo 56.º — Área para lugar de estacionamento
+
+Para efeitos do cálculo da área por lugar de estacionamento, deve considerar-se:
+
+a) Veículos ligeiros - uma área bruta de 20 m2 por lugar de estacionamento à superfície e de 25 m2 por lugar de estacionamento em estrutura edificada (enterrada ou não);
+
+b) Veículos pesados - uma área bruta de 75 m2 por lugar de estacionamento à superfície e de 130 m2 por lugar de estacionamento em estrutura edificada (enterrada ou não).
+
+###### Artigo 57.º — Edifícios para habitação
+
+1 - Nos edifícios para habitação coletiva é obrigatória a existência de uma área de estacionamento no interior do lote necessária a 1,5 lugares de estacionamento por cada fogo, exceto quando os fogos tiverem uma área bruta superior a 150 m2 e ou tipologia superior ou igual a T4, caso em que a área de estacionamento no interior do lote é a correspondente a dois lugares de estacionamento por cada fogo.
+
+2 - Nas moradias unifamiliares é obrigatória a existência de dois lugares de estacionamento no interior do lote, exceto quando a área bruta edificada for inferior a 150 m2, situação em que se admite apenas um lugar de estacionamento no interior do lote.
+
+###### Artigo 58.º — Edifícios e áreas destinados a serviços
+
+Nos edifícios e áreas destinados a serviços são obrigatórias as seguintes áreas de estacionamento no interior da parcela:
+
+a) Quando a sua superfície útil total for inferior ou igual a 500 m2, a área para estacionamento será de dois lugares por cada 100 m2 de área bruta;
+
+b) Quando a sua superfície útil total for superior a 500 m2, a área para o estacionamento será de três lugares por cada 100 m2 de área bruta.
+
+###### Artigo 59.º — Indústrias e armazéns
+
+1 - Nos edifícios destinados a indústria e armazéns deverá ser obrigatória a existência de uma área de estacionamento para pessoal e visitantes, dentro do lote, equivalente a um lugar por cada 150 m2 de área coberta total de pavimentos.
+
+2 - Quando a área do lote for superior a 1000 m2, a área de estacionamento obrigatória será equivalente a um lugar por cada 100 m2 de área coberta total de pavimentos.
+
+3 - Em qualquer dos casos, deverá ser prevista no interior do lote a área necessária ao estacionamento de veículos pesados, em função do tipo de indústria a instalar.
+
+###### Artigo 60.º — Estabelecimentos hoteleiros
+
+1 - Nos edifícios destinados a estabelecimentos hoteleiros, as áreas a reservar para estacionamento no interior do lote deverão corresponder a dois lugares de estacionamento por cada cinco quartos.
+
+2 - Para além da área necessária ao estacionamento de veículos ligeiros, deverá ainda ser prevista no interior do lote uma área para o estacionamento de veículos pesados e de passageiros, em função da dimensão e localização da unidade hoteleira.
+
+3 - Nos espaços urbanizáveis deverá prever-se uma área mínima de estacionamento de um lugar para parqueamento de veículo pesado por cada 70 quartos.
+
+###### Artigo 61.º — Edifícios e áreas destinados a comércio retalhista
+
+1 - A área destinada a estacionamento deve ser contígua ao estabelecimento comercial e facilmente acessível. Os valores apresentados são o limiar mínimo que deve ser considerado: a área de estacionamento deverá ser calculada, caso a caso, em função do número de lugares necessários, determinados com base no volume de tráfego estimado, picos de procura e tempo de estacionamento, devendo ainda ter em atenção o espaço ocupado pela viatura e as áreas para manobra.
+
+2 - Nos edifícios ou áreas destinados a comércio retalhista, concentrado ou não, são obrigatórias as seguintes áreas de estacionamento no interior da parcela:
+
+a) Quando a sua superfície bruta for inferior a 200 m2, a área de estacionamento é equivalente a um lugar por cada 50 m2 de área total de construção;
+
+b) Quando a sua superfície bruta for igual ou superior a 200 m2 e inferior a 1000 m, a área de estacionamento é equivalente a um lugar por cada 35 m2 de área total de construção;
+
+c) Quando a sua superfície bruta for igual ou superior a 1000 m2 e inferior a 2500 m2, a área de estacionamento é equivalente a um lugar por cada 25 m2 de área total de construção;
+
+d) Quando a sua superfície bruta for superior a 2500 m2, a área de estacionamento é equivalente a um lugar por cada 15 m2 de área total de construção.
+
+3 - No caso de estabelecimentos localizados em áreas urbanas consolidadas, sem possibilidade de criação de áreas de estacionamento da dimensão apontada, admite-se a redução do número de lugares de estacionamento para os seguintes valores:
+
+a) Quando a sua superfície bruta for inferior a 700 m2, não será considerada obrigatória a existência de área de estacionamento;
+
+b) Quando a sua superfície bruta for igual ou superior a 700 m2 e inferior a 2500 m2, a área de estacionamento é equivalente a três lugares por cada 100 m2 de área total de construção.
+
+4 - Para superfícies de comércio, com uma área bruta total superior a 2500 m2 deverá tornar-se obrigatória a apresentação à Câmara Municipal do Cartaxo de um estudo de tráfego contendo, designadamente, elementos que permitam avaliar:
+
+A acessibilidade do local em relação ao transporte individual;
+
+A capacidade das vias envolventes;
+
+A capacidade de estacionamento no próprio lote do empreendimento e nas vias que constituam a sua envolvente imediata;
+
+O funcionamento das operações de carga e descarga.
+
+###### Artigo 62.º — Hipermercados e edifícios destinados a comércio grossista
+
+1 - Nos hipermercados com área bruta superior a 2500 m2 e inferior ou igual a 4000 m2 será obrigatória a existência de uma área de estacionamento no interior do lote equivalente a cinco lugares de estacionamento para veículos ligeiros por cada 100 m2 de área útil de vendas e de mais um lugar de estacionamento para veículo pesado por cada 500 m2 de área bruta de construção destinada ao armazenamento de produtos.
+
+2 - Nos hipermercados com superfície bruta superior a 4000 m2 e nos edifícios destinados a comércio grossista de superfície idêntica será obrigatória a existência de área de estacionamento no interior do lote, cuja dimensão deverá ser definida por estudo específico a apresentar pelo promotor, nos termos legais em vigor, nunca podendo ser inferior à estabelecida no número anterior.
+
+3 - Os centros comerciais, os grandes armazéns e os hipermercados de bricolage, são comparáveis, para efeito de cálculo das necessidades de estacionamento, aos hipermercados de área bruta inferior a 4000 m2.
+
+4 - Em todas as situações previstas no presente artigo, e independentemente da necessidade de dar cumprimento ao estabelecido no [Decreto-Lei n.º 258/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1992-584256), de 20 de novembro, é obrigatória a apresentação de um estudo de tráfego, nos termos estabelecidos no n.º 4 do artigo anterior.
+
+###### Artigo 63.º — Salas de espetáculo
+
+Para salas de espetáculo, as áreas de estacionamento obrigatórias serão equivalentes a 2 lugares de estacionamento por cada 25 lugares sentados.
+
+###### Artigo 64.º — Equipamentos coletivos
+
+Para as instalações de equipamentos coletivos, designadamente de natureza escolar básica (secundária e universitária), desportiva e hospitalar, deverá proceder-se à definição das condições de acessibilidade e de capacidade de estacionamento.
+
+###### Artigo 65.º — Regime de exceção
+
+Excecionalmente e onde não seja possível concretizar as disposições dos artigos desta secção, nomeadamente nas áreas urbanas sujeitas a renovação e nas pequenas áreas intersticiais no tecido consolidado, a Câmara Municipal do Cartaxo elaborará regras específicas para cada caso.
+
+#### SECÇÃO III — Legalização de construções existentes
+
+###### Artigo 65.º-A — Legalização de construções existentes
+
+1 - A Câmara Municipal, pode legalizar edificações existentes com uso habitacional, equipamentos, comercial ou de serviços, quando haja divergência com os usos admitidos na categoria de espaço em que as mesmas se integram, desde que:
+
+a) Se garanta conformidade com os regimes legais das servidões administrativas ou restrições de utilidade pública, caso existam;
+
+b) Seja comprovada a sua existência à data da publicação do PDM;
+
+c) Seja comprovada a correspondência entre os documentos que instruem o processo de legalização e as construções existentes;
+
+d) Seja garantida a estabilidade e segurança das construções por técnico responsável que se responsabilize pelos aspetos estruturais da obra realizada;
+
+e) Sejam cumpridos os requisitos mínimos estabelecidos na legislação aplicável à respetiva construção, designadamente a [Portaria n.º 243/84](https://diariodarepublica.pt/dr/detalhe/portaria/243-1984-654940), de 17 de abril;
+
+f) (Revogada.)
+
+2 - Admite-se a legalização das operações urbanísticas necessárias à regularização e alteração/ampliação de estabelecimentos e explorações a que se refere o [Decreto-Lei n.º 165/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2014-58752835), de 5 de novembro, na sua redação atual, e que tenham recebido deliberação favorável ou deliberação final condicionada na conferência decisória prevista neste diploma, independentemente da categoria de espaço onde se localizam e no estrito cumprimento das condições impostas na conferência decisória.
+
+### CAPÍTULO IX — Disposições finais e transitórias
+
+###### Artigo 66.º — Entrada em vigor do Plano Diretor Municipal do Cartaxo
+
+As disposições do presente Regulamento não prejudicam a permanência de direitos legalmente constituídos e não afetados de caducidade ou prescrição.
+
+###### Artigo 67.º — Consulta
+
+O PDMC pode ser consultado pelos interessados nos serviços competentes do município do Cartaxo, dentro das horas normais de expediente, bem como no sítio eletrónico do município. Mediante solicitação dirigida Câmara Municipal do Cartaxo, serão passadas certidões de matérias incluídas no PDMC.
+
+Identificadores das imagens e respetivos endereços do sítio do SNIT
+
+(conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+
+56131 - [http://ssaigt.dgterritorio.pt/i/Os_demais_elementos_do_plano_afetados_56131_1406_Cartaxo.jpg](http://ssaigt.dgterritorio.pt/i/Os_demais_elementos_do_plano_afetados_56131_1406_Cartaxo.jpg)
+
+56133 - [http://ssaigt.dgterritorio.pt/i/PCond_56133_1406_Condicionantes.jpg](http://ssaigt.dgterritorio.pt/i/PCond_56133_1406_Condicionantes.jpg)
+
+56230 - [http://ssaigt.dgterritorio.pt/i/POrd_56230_1406_Ordenamento..jpg](http://ssaigt.dgterritorio.pt/i/POrd_56230_1406_Ordenamento..jpg)
+
+613641504

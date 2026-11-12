@@ -1,0 +1,3159 @@
+---
+schema_version: '1.0'
+id: pt:dre:167359680:por
+title: Declaração n.º 65-A/2021
+short_title: null
+summary: Alteração por adaptação do Plano Diretor Municipal de Arganil
+jurisdiction: portugal
+territory: null
+document_type: declaracao
+document_type_label: Declaração
+issuing_authority:
+- Município de Arganil
+proposing_entity: null
+official_number: 65-A/2021
+official_date: null
+publication_date: '2021-07-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 135/2021, 1º Suplemento, Série II de 2021-07-14
+  number: '135'
+  series: II
+  supplement: null
+  pages: 360-(2) a 360-(80)
+  pdf_url: https://files.diariodarepublica.pt/2s/2021/07/135000001/0000200080.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '167359680'
+  dre_path: /dr/detalhe/declaracao/65-a-2021-167359680
+  internal: pt:dre:167359680:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao/65-a-2021-167359680
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao/65-a-2021-167359680
+  consolidated_url: null
+  retrieved_at: '2026-11-12T19:06:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 285f6603c8811f56a2b595e84ccb30d8a898b51ca6226e49158029754799b78f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T19:06:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:123513807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125009062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1520547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2226272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2594532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2967235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58752835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+article_structure:
+  article_count: 197
+  section_count: 77
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T19:06:41Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração n.º 65-A/2021
+
+Alteração por adaptação do Plano Diretor Municipal de Arganil
+
+Luís Paulo Carreira Fonseca da Costa, Presidente da Câmara Municipal de Arganil, torna público, em cumprimento do disposto na alínea t) do n.º 1 do artigo 35.º, e nos termos e para efeitos do disposto no artigo 56.º, ambos do Anexo I da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na atual redação, conjugado com o n.º 1 e a alínea k) do n.º 4 do artigo 191.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, na atual redação, que a Câmara Municipal de Arganil deliberou, na sua reunião ordinária realizada em 16 de junho de 2021, aprovar, nos termos do disposto no artigo 121.º, articulado com o artigo 198.º, do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, na atual redação, a alteração por adaptação do Plano Diretor Municipal de Arganil, publicado pelo Diário da República, n.º 176, de 9 de setembro de 2015, para transposição das normas do Plano de Ordenamento da Albufeira das Fronhas (POAF) e do Plano de Ordenamento da Área de Paisagem Protegida da Serra do Açor (POAPPSA).
+
+A alteração do Plano Diretor Municipal de Arganil, plenamente eficaz e em vigor, que a seguir se publica, incide sobre o Regulamento e sobre as Plantas de Ordenamento e de Condicionantes.
+
+Mais se torna público que, em cumprimento do disposto no n.º 4 do artigo 121.º do [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, na atual redação, a presente declaração foi transmitida à Assembleia Municipal de Arganil e à Comissão de Coordenação e Desenvolvimento Regional do Centro.
+
+Assim e para efeitos de eficácia, publicam-se em anexo as disposições do Regulamento alteradas, e as plantas atrás referidas, bem como a republicação do respetivo Regulamento.
+
+Esta alteração entra em vigor no dia útil seguinte à sua publicação no Diário da República.
+
+7 de julho de 2021. - O Presidente da Câmara Municipal, Luís Paulo Carreira Fonseca da Costa.
+
+1.ª Alteração do Plano Diretor Municipal de Arganil
+
+(extrato do regulamento)
+
+1 - Os artigos 3.º, 4.º, 5.º, 6.º, 9.º,14.º,15.º, 23.º, 24.º, 46.º e 88.º passam a ter a nova redação.
+
+2 - Foram introduzidos novos artigos: 22.º-A, 27.º-A, 30.º-A, 34.º-A, 37.º-A, 38.º-A, 38.º-B, 48.º-A, 48.º-B e 57.º-A.
+
+2 - Foram criados dois novos capítulos: Capítulo IX (artigos 93.º a 104.º) e Capítulo X (artigos 105.º a 119.º).
+
+3 - O Capítulo IX passou a ser o Capítulo XI e, consequentemente, os artigos 93.º, 94.º, 95.º e 96.º passaram a ser, respetivamente, os artigos 120.º, 121.º, 122.º e 123.º
+
+###### Artigo 3.º — Composição do PDM
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) Planta de Ordenamento - Zona de Proteção da Albufeira de Fronhas (escala 1/10.000);
+
+g) Planta de Ordenamento - Paisagem Protegida da Serra do Açor (escala 1/10.000);
+
+h) [Anterior f).]
+
+i) [Anterior g).]
+
+j) [Anterior h).]
+
+k) [Anterior i).]
+
+l) [Anterior j).]
+
+m) [Anterior k).]
+
+n) [Anterior l).]
+
+2 - ...
+
+###### Artigo 4.º — Instrumentos de Gestão Territorial a Observar
+
+1 - ...
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) ...
+
+d) ...
+
+e) Plano de Pormenor da Zona Industrial da Relvinha ([Aviso n.º 12119-A/2019](https://diariodarepublica.pt/dr/detalhe/aviso/12119-a-2019-123513807), DR 142 II S, de 26.07.2019).
+
+2 - ...
+
+###### Artigo 5.º — Definições
+
+1 - ...
+
+2 - Para efeitos do presente regulamento estabelecem-se ainda as seguintes definições:
+
+a) Área non aedificandi, área delimitada geograficamente onde é interdita qualquer espécie de edificação ou utilização do solo para fins urbanísticos;
+
+b) Área de Implantação, valor numérico expresso em metros quadrados (m2), do somatório das áreas resultantes da projeção do plano horizontal de todos os edifícios (residenciais e não residenciais), incluindo anexos, mas excluindo varandas e platibandas,
+
+c) [Anterior a).]
+
+d) [Anterior b).]
+
+e) [Anterior c).]
+
+f) [Anterior d).]
+
+g) Nível de pleno armazenamento, corresponde à cota máxima a que pode realizar-se o armazenamento de água na albufeira que, no caso da albufeira de Fronhas, corresponde à cota de 136 metros;
+
+h) Zona reservada, corresponde à faixa, medida na horizontal, com a largura de 50 metros, contados a partir da linha de nível de pleno armazenamento;
+
+i) Zona de proteção da Albufeira de Fronhas, corresponde à faixa, medida na horizontal, com a largura de 500 metros, contados a partir da linha de nível de pleno armazenamento;
+
+j) Construção ligeira, a que se encontra assente sobre fundação não permanente e que utilize materiais ligeiros pré-fabricados ou modelados que permitam a sua fácil desmontagem e remoção;
+
+k) Parque de estacionamento regularizado, o local devidamente delimitado e exclusivamente destinado ao estacionamento de veículos, com superfície regularizada e revestimento permeável, semipermeável, com sistema de drenagem de águas pluviais e com as vias de circulação e os lugares de estacionamento devidamente assinalados;
+
+l) Piscina fluvial, a plataforma flutuante e amovível destinada a proporcionar, em condições de segurança, a utilização do plano de água para banhos e natação.
+
+###### Artigo 6.º — Identificação
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - Recursos hídricos:
+
+a) Domínio Hídrico:
+
+i) Leitos e margens dos cursos de água;
+
+ii) Albufeiras e respetivas margens.
+
+b) Zona de proteção das Albufeiras de águas públicas:
+
+i) Zona de proteção;
+
+ii) Zonas reservada;
+
+iii) Zona de respeito da barragem e dos órgãos de segurança de utilização da albufeira,
+
+c) Perímetros de proteção de captações de água destinadas ao abastecimento:
+
+i) Zona de proteção imediata;
+
+ii) Zona de proteção intermédia;
+
+iii) Zona de proteção alargada,
+
+6 - Recursos Ecológicos:
+
+a) ...
+
+b) ...
+
+c) Área da Paisagem Protegida da Serra do Açor,
+
+7 - Recursos Agrícolas e Florestais:
+
+a) ...
+
+b) ...
+
+c) ...
+
+i) ...
+
+ii) ...
+
+iii) ...
+
+d) ...
+
+e) ...
+
+f) Azevinhos espontâneos, em povoamentos ou isolados.
+
+8 - ...
+
+9 - ...
+
+###### Artigo 9.º — Qualificação do solo rural e do solo urbano
+
+Para efeitos de aplicação do presente Regulamento é considerada, em função da sua utilização dominante, a seguinte qualificação do solo, considerando diferentes categorias operativas e funcionais, e correspondente à representação gráfica expressa na Planta de Ordenamento - Classificação e Qualificação do Solo à escala 1/25000, Planta de Ordenamento - Zona de proteção da Albufeira de Fronhas e Planta de Ordenamento - Paisagem Protegida da Serra do Açor.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/07/135000001/0000200080.pdf)
+
+###### Artigo 14.º — Compatibilidade de usos e atividades
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Para a zona de proteção da Albufeira de Fronhas é estabelecido o zonamento constante da Planta de Ordenamento - Zona de Proteção da Albufeira de Fronhas, ao qual são aplicáveis as disposições estabelecidas no Capítulo IX, que prevalecem sobre as demais regras estabelecidas no presente Regulamento.
+
+5 - Para a área da paisagem protegida da Serra do Açor é estabelecido o zonamento constante da Planta de Ordenamento - Paisagem Protegida da Serra do Açor, ao qual são aplicáveis as disposições estabelecidas no Capítulo X, que prevalecem sobre as demais regras estabelecidas no presente Regulamento.
+
+###### Artigo 15.º — Condições gerais de edificabilidade
+
+1 - ...
+
+2 - ...
+
+3 - As condições gerais de edificabilidade aplicáveis nas áreas abrangidas pela zona de proteção da albufeira de Fronhas estão definidas no Capítulo IX - Zona de proteção da Albufeira de Fronhas.
+
+4 - As condições gerais de edificabilidade aplicáveis na área de paisagem protegida da Serra do Açor devem obedecer, ou devem respeitar o regime de proteção específica estabelecido no Capítulo X - Paisagem protegida da Serra do Açor.
+
+###### Artigo 22.º-A — Zona de proteção da albufeira de Fronhas
+
+Ao solo rural abrangido pela zona de proteção da Albufeira de Fronhas são aplicáveis as disposições estabelecidas no Capítulo IX, que prevalecem sobre as demais regras estabelecidas no presente Regulamento.
+
+###### Artigo 23.º — Caracterização do Espaço Natural
+
+1 - São espaços de elevada sensibilidade ambiental e paisagística que integram valores de natureza cultural, histórica, paisagística e ambiental, objeto de proteção específica, e que integram a Reserva Biogenética da Mata Margaraça, bem como a área correspondente aos limites da Rede Natura 2000 - Sítio Complexo do Açor PTCON0051 RCM 76/00 de 5 julho, de modo a salvaguardar a manutenção do seu equilíbrio ecológico, que se subdividem em cinco subcategorias:
+
+i) Área de Proteção Total;
+
+ii) Área de Proteção Parcial I;
+
+iii) Área de Proteção Parcial II;
+
+iv) Área de Proteção Complementar;
+
+v) Área do SIC - Complexo do Açor, exterior à PPSA (que inclui também as áreas de SIC do S. Pedro do Açor e Cebola).
+
+2 - ...
+
+3 - ...
+
+4 - Nas áreas da Paisagem Protegida da Serra do Açor são aplicáveis as disposições do Capítulo X, que prevalecem sobre as demais regras estabelecidas no presente Regulamento.
+
+###### Artigo 24.º — Regime de edificabilidade
+
+1 - As condições de edificabilidade a aplicar no espaço natural, encontram-se definidas e expressa no Capítulo X do presente regulamento.
+
+2 - Para a área do SIC é aplicável a alínea a) do n.º 2 do artigo 9.º do DL 140/99, de 24 de abril, com as alterações do DL n.º 49/2005, de 24 de fevereiro de 2005.
+
+###### Artigo 27.º-A — Espaços Agrícolas integrados na zona de proteção da albufeira de fronhas
+
+A identificação e o regime de ocupação e edificabilidade aplicável aos espaços agrícolas integrados na zona de proteção da albufeira de Fronhas estão definidos no Capítulo IX - Albufeira de Fronhas.
+
+###### Artigo 30.º-A — Espaços florestais integrados na zona de proteção da albufeira de Fronhas
+
+A identificação e o regime de ocupação e edificabilidade aplicável aos espaços florestais integrados na zona de proteção da albufeira de Fronhas estão definidos no Capítulo IX - Albufeira de Fronhas.
+
+###### Artigo 34.º-A — Espaços de ocupação turística integrados na zona de proteção da albufeira de Fronhas
+
+A identificação e o regime de ocupação e edificabilidade aplicável aos espaços de ocupação turística na zona de proteção da albufeira de Fronhas estão definidos no Capítulo IX - Zona de proteção da Albufeira de Fronhas.
+
+###### Artigo 37.º-A — Aglomerados rurais integrados na zona de proteção da albufeira de Fronhas e na área da paisagem protegida da Serra do Açor
+
+Nos aglomerados rurais abrangidos pela zona de proteção da albufeira de Fronhas e na área de paisagem protegida da Serra do Açor, aplica-se o regime de ocupação e edificabilidade estabelecido no artigo anterior.
+
+###### Artigo 38.º-A — Zona de proteção da albufeira de Fronhas
+
+Ao solo urbano abrangido pela zona de proteção da Albufeira de Fronhas são aplicáveis as disposições estabelecidas no Capítulo IX, que prevalecem sobre as demais regras estabelecidas no presente Regulamento.
+
+###### Artigo 38.º-B — Área de paisagem protegida da Serra do Açor
+
+Ao solo urbano inserido na área da paisagem protegida da Serra do Açor são aplicáveis as disposições estabelecidas para a respetiva categoria de espaço, de acordo com o estabelecido no presente regulamento.
+
+###### Artigo 46.º — Identificação
+
+1 - ...
+
+2 - O Espaço Urbano de Baixa Densidade, corresponde aos aglomerados urbanos, nomeadamente Anceriz, Barril de Alva, Benfeita, Celavisa, Cepos, Cerdeira, Folques, Moura da Serra, Piódão, Pombeiro da Beira, Sarzedo, Secarias, Teixeira, Vila Cova de Alva e Pardieiros, que se caracterizam fundamentalmente pela função habitacional.
+
+###### Artigo 48.º-A — Espaço Urbano de Baixa Densidade integrados na zona de proteção da albufeira de Fronhas
+
+A identificação e o regime de uso, ocupação e edificabilidade aplicável ao espaço urbano de baixa densidade na zona de proteção da albufeira de Fronhas estão definidos no Capítulo IX - Zona de proteção da Albufeira de Fronhas."
+
+###### Artigo 48.º-B — Espaço Urbano de Baixa Densidade integrados na área de paisagem protegida da Serra do Açor
+
+A identificação e o regime de uso, ocupação e edificabilidade aplicável ao espaço urbano de baixa densidade na área de paisagem protegida da Serra do Açor, são os definidos na respetiva categoria de espaço.
+
+###### Artigo 57.º-A — Espaço de Atividades Económicas integrado na zona de proteção da albufeira de Fronhas
+
+A identificação e o regime de uso, ocupação e edificabilidade aplicável ao espaço de atividades económicas na zona de proteção da albufeira de Fronhas está definido no Capítulo IX - Zona de proteção da Albufeira de Fronhas."
+
+###### Artigo 88.º — Unidades Operativas de Planeamento e Gestão
+
+1 - Sem prejuízo do disposto no artigo anterior, são desde já identificadas as seguintes "Unidades Operativas de Planeamento e Gestão":
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) UOPG 6 - Área de Aptidão Turística da Roda.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+### CAPÍTULO IX — Zona de Proteção da Albufeira de Fronhas
+
+#### SECÇÃO I — Disposições Gerais
+
+###### Artigo 93.º — Âmbito e objetivos
+
+1 - As regras em causa, aplicam-se às categorias de espaço abrangidas pela zona de proteção da Albufeira de Fronhas, as quais se encontram representadas na correspondente Planta de Ordenamento.
+
+2 - A Albufeira de Fronhas abrange o plano de água e respetiva zona de proteção, que corresponde à faixa medida na horizontal, com a largura de 500 m, contada a partir do nível de pleno armazenamento [NPA).
+
+###### Artigo 94.º — Atividades interditas
+
+Para além das disposições legais aplicáveis na zona de proteção da albufeira são ainda interditas as seguintes atividades:
+
+a) A realização de obras de construção, à exceção das previstas pelo presente Regulamento;
+
+b) A instalação de depósitos de resíduos de qualquer natureza, a instalação ou ampliação de aterros destinados a resíduos perigosos, não perigosos ou inertes;
+
+c) A realização de escavações ou a retirada de inertes, com exceção das ações de natureza arqueológica e as necessárias à manutenção das condições de segurança das infraestruturas de exploração da albufeira;
+
+d) A prática de atividades passíveis de conduzir ao aumento da erosão, ao transporte de material sólido para o meio hídrico ou que induzam alterações ao relevo existente, nomeadamente as mobilizações de solo não realizadas segundo as curvas de nível, a constituição de depósitos de terras soltas em áreas declivosas e sem dispositivos que evitem o seu arraste.
+
+#### SECÇÃO II — Disposições Especificas
+
+##### SUBSECÇÃO I — Zonamento e atividades na zona de proteção
+
+###### Artigo 95.º — Zonamento
+
+A zona de proteção da albufeira, compreende:
+
+a) Zona reservada;
+
+b) Zona de proteção de nível I;
+
+c) Zona de proteção de nível II;
+
+d) Zona de proteção de nível III;
+
+e) Zona de proteção de nível IV, a qual é constituída por:
+
+i) Área de aptidão recreativa Fronhas 1;
+
+ii) Área de aptidão recreativa Fronhas 2;
+
+iii) Área de aptidão recreativa de Sail;
+
+iv) Área de aptidão recreativa da Roda;
+
+v) Área de aptidão recreativa de Maladão;
+
+vi) Área de aptidão turística da Roda
+
+f) Zona de proteção de nível V.
+
+###### Artigo 96.º — Zona de respeito da barragem e dos órgãos de segurança e de utilização da albufeira
+
+A zona de respeito da barragem e dos órgãos de segurança e de utilização da albufeira corresponde a uma faixa, localizada imediatamente a jusante da barragem, com largura de 250 m, nela sendo interdita:
+
+a) A realização de quaisquer obras de edificação, incluindo a abertura de caminhos, a implantação de linhas de transporte de energia e de conduta de águas, salvo as que decorram do funcionamento do empreendimento hidráulico;
+
+b) A prática de quaisquer atividades secundárias e a instalação de quaisquer infraestruturas de apoio às atividades secundárias.
+
+###### Artigo 97.º — Zona reservada
+
+1 - Sem prejuízo da observância do disposto no artigo 94.º (atividades interditas), é interdita ainda na zona reservada da albufeira a prática de quaisquer atos ou atividades suscetíveis de afetar direta ou indiretamente a qualidade da água da albufeira, designadamente:
+
+a) Todas as ações que potenciem os riscos de erosão do solo, com destaque para os movimentos de terra que alterem de forma significativa e dissonante a morfologia atual do terreno;
+
+b) Todas as ações que potenciem os riscos de incêndio;
+
+c) As atividades de prospeção, pesquisa e exploração de massas minerais;
+
+d) A instalação de vedações, com exceção daquelas que constituam a única alternativa viável à proteção e segurança de pessoas e bens, sem prejuízo do dever de garantia de acesso à albufeira e circulação em torno da mesma;
+
+e) As operações de loteamento, obras de urbanização e, ainda, a realização de obras de edificação, exceto as destinadas a infraestruturas de apoio à utilização da albufeira a que se refere o número seguinte.
+
+2 - Na zona reservada é permitida a prática dos seguintes atos e atividades:
+
+Novas construções que constituam infraestruturas de apoio à utilização da albufeira ou que estejam integradas em áreas de aptidão recreativa e na área de aptidão turística, desde que, em qualquer um dos casos, não constituam obstáculo à drenagem e infiltração das águas.
+
+3 - Nas construções existentes legalmente licenciadas é permitida a realização de obras de ampliação desde que as mesmas se destinem a suprir insuficiências de instalações sanitárias e cozinhas e desde que não corresponda a um aumento total da área de construção superior a 60 m2, ao aumento do número de pisos e não implique a ocupação em relação à albufeira de terrenos mais avançados do que o edifício existente.
+
+###### Artigo 98.º — Zona de proteção de nível I
+
+1 - A zona de proteção de nível I é composta por áreas com sensibilidade ecológica elevada, definida em função das suas características físicas e ambientais e cuja afetação pode pôr em risco o bom estado da massa de água.
+
+2 - A zona mencionada no número anterior inclui sistemas biofísicos da REN, designadamente a faixa de proteção à albufeira, as zonas ameaçadas pelas cheias, as áreas de máxima infiltração, as áreas com risco de erosão e as escarpas.
+
+3 - Para além do disposto no artigo 94.º (atividades interditas) do presente Regulamento, nesta zona é interdita a prática de todos os atos e atividades suscetíveis de afetar, direta ou indiretamente, a qualidade da água da albufeira, nomeadamente:
+
+a) Todas as ações que potenciem os riscos de erosão do solo com destaque para os movimentos de terra que alterem de forma significativa e dissonante a morfologia atual do terreno;
+
+b) Todas as ações que potenciem os riscos de incêndio;
+
+c) As atividades de prospeção, pesquisa e exploração de massas minerais;
+
+d) As operações de loteamento urbano e obras de urbanização.
+
+###### Artigo 99.º — Zona de proteção de nível II
+
+1 - A zona de proteção de nível II é composta por áreas com sensibilidade ecológica, definida em função das suas características físicas e ambientais e cuja afetação pode pôr em risco o bom estado da massa de água.
+
+2 - A zona mencionada no número anterior é constituída por áreas com potencial risco de erosão, não integradas na REN e possuidoras de declives acentuados e de solos com características de erodibilidade acentuada.
+
+3 - Sem prejuízo do disposto no número anterior, o regime de edificabilidade nestas zonas deve obedecer ao estipulado no artigo 100.º (Zona de proteção de nível III) do presente Regulamento.
+
+###### Artigo 100.º — Zona de proteção de nível III
+
+1 - A zona de proteção de nível III é composta por áreas agrícolas, florestais e agro-silvo-pastoris, localizadas fora das zonas de proteção de nível I e de nível II e que, pelas suas características, favorecem a biodiversidade e a proteção global da albufeira.
+
+2 - Nas áreas agrícolas, florestais e agro-silvo-pastoris, a realização de novas obras de construção não pode ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+a) A construção seja destinada a habitação permanente do agricultor da parcela onde aquela se insere;
+
+b) A parcela referida na alínea anterior possua uma área igual ou superior a 10.000 m2, no caso de áreas agrícolas e de 10.000 m2, no caso de áreas florestais;
+
+c) Área máxima de implantação de 300 m2;
+
+d) Número máximo de dois pisos.
+
+3 - Nas áreas referidas no número anterior, a realização das obras de ampliação de construções existentes e legalmente licenciadas não pode ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+a) O edifício sobre o qual incidam as obras referidas se destine à habitação do proprietário;
+
+b) A área a ampliar não exceda os 30 % da área de implantação da construção inicial, não podendo exceder no total uma área de implantação superior a 300 m2;
+
+c) Número máximo de dois pisos ou existentes.
+
+4 - Sem prejuízo do disposto no número anterior, nas áreas agrícolas, florestais e agro-silvo-pastoris é permitida a realização de obras de conservação ou ampliação de construções existentes, desde que se destinem a turismo no espaço rural ou turismo de habitação e cumpram o disposto na legislação em vigor.
+
+5 - Nas áreas mencionadas no número anterior a realização de obras de construção ou ampliação de um anexo de apoio à atividade agrícola ou florestal não pode ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+a) Área máxima de implantação de 60 m2;
+
+b) Número máximo de um piso.
+
+6 - A área máxima de implantação e o número máximo de pisos referidos nas alíneas a) e b) do número anterior podem ser ultrapassadas desde que técnica e economicamente justificável.
+
+7 - Sem prejuízo da observância do disposto no artigo 94.º [atividades interditas) é interdita ainda nas áreas agrícolas, florestais e agro-silvo-pastoris, a prática dos seguintes atos e atividades:
+
+a) Todas as ações que potenciem os riscos de incêndio;
+
+b) As atividades de prospeção, pesquisa e exploração de massas minerais;
+
+c) A instalação de vedações, com exceção daquelas que constituam a única alternativa viável à proteção e segurança de pessoas e bens, sem prejuízo do dever de garantia de acesso à albufeira e circulação em torno da mesma;
+
+##### SUBSECÇÃO II — Zona de proteção de nível IV
+
+###### Artigo 101.º — Regime geral
+
+1 - A zona de proteção de nível IV é composta por áreas que pela sua proximidade ao plano de água e pelas suas características físicas e ambientais apresentam aptidão para a utilização turística e recreativa da albufeira.
+
+2 - As áreas a que se refere o número anterior encontram-se representadas na Planta de Ordenamento - Zona de Proteção da Albufeira de Fronhas pelas áreas de aptidão recreativa e áreas de aptidão turística, destinando-se à instalação de equipamentos, infraestruturas e serviços de apoio às atividades de turismo, recreio e lazer.
+
+###### Artigo 102.º — Áreas de aptidão recreativa
+
+1 - As áreas de aptidão recreativa são constituídas pelas áreas de aptidão recreativa Fronhas 1, Fronhas 2, Sail, Roda e Maladão, identificadas na Planta de Ordenamento - Zona de Proteção da Albufeira de Fronhas.
+
+2 - As áreas de aptidão recreativa devem ser objeto de projetos de execução os quais devem atender às disposições constantes na legislação especifica e no presente regulamento, devendo considerar a reabilitação da zona ribeirinha e contemplar a sua dotação em equipamentos e infraestruturas de apoio à utilização do plano de água.
+
+3 - Até à aprovação do projeto de execução a que se refere o número anterior, aplica-se o artigo 97.º do presente regulamento.
+
+###### Artigo 102.º-A — Área de Aptidão Recreativa Fronhas 1
+
+Nesta área está prevista a sua recuperação e arranjo paisagístico, bem como a construção e implantação de um conjunto de equipamentos e infraestruturas de apoio à utilização recreativa, nomeadamente:
+
+a) Um centro náutico;
+
+b) Uma construção ligeira vocacionada para clube náutico e espaço de educação ambiental integrando, para o efeito, uma área administrativa com um espaço para reuniões ou conferências e para formação, um bar ou esplanada e instalações sanitárias, não podendo aquela construção ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+i) Área máxima de implantação de 300 m2;
+
+ii) Número máximo de um piso;
+
+c) Um parque de merendas e um parque infantil devidamente equipados e infraestruturados;
+
+d) A construção de parques de estacionamento regularizados, devidamente dimensionados para esse efeito e a localizar fora da zona reservada da albufeira;
+
+e) A implantação de piscina fluvial e a construção de equipamento de apoio a esta atividade balnear como instalações sanitárias e balneários.
+
+###### Artigo 102.º-B — Área de Aptidão Recreativa Fronhas 2
+
+Nesta área está prevista a sua recuperação e arranjo paisagístico, bem como a construção de um equipamento de apoio à utilização recreativa, constituído por um restaurante panorâmico com esplanada, não podendo a referida construção ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+i) Área máxima de implantação de 300 m2;
+
+ii) Número máximo de um piso.
+
+###### Artigo 102.º-C — Área de Aptidão Recreativa de Sail
+
+Nesta área está prevista a sua recuperação e arranjo paisagístico, bem como a construção e implantação de um conjunto de equipamentos e infraestruturas de apoio à utilização recreativa, nomeadamente:
+
+a) Uma construção ligeira destinada a um estabelecimento de restauração e de bebidas, não podendo aquela ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+Área máxima de implantação de 200 m2;
+
+Número máximo de um piso;
+
+b) A construção de um parque de merendas e de um parque infantil devidamente equipados e infraestruturados;
+
+c) A implantação de piscina fluvial e a construção de equipamento de apoio a esta atividade balnear como instalações sanitárias e balneários;
+
+d) A construção de parques de estacionamento regularizados, devidamente dimensionados para esse efeito e a localizar fora da zona reservada da albufeira;
+
+e) Um embarcadouro.
+
+###### Artigo 102.º-D — Área de Aptidão Recreativa da Roda
+
+A área de aptidão recreativa da Roda deve ser objeto de recuperação e arranjo paisagístico, sendo permitida a construção e a implementação de um conjunto de equipamentos e de infra -estruturas de apoio à utilização recreativa, nomeadamente:
+
+a) A construção de um estabelecimento de restauração e de bebidas com esplanada, não podendo aquela ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+Área máxima de implantação de 200 m2;
+
+Número máximo de um piso;
+
+b) A construção de um parque infantil;
+
+c) A implantação de uma estrutura ligeira de apoio às embarcações de recreio, a remos e a pedal, integrando posto de socorros e comunicações e espaço para armazenamento de material com as seguintes características:
+
+Área máxima de implantação de 50 m2;
+
+Número máximo de um piso;
+
+d) A criação de um circuito de manutenção equipado com estruturas de apoio construídas com materiais naturais;
+
+e) A criação de uma pista de pesca dotada de equipamentos e infraestruturas de apoio a essa prática;
+
+f) A recuperação da rampa de acesso ao plano de água e apoio;
+
+g) Um parque de estacionamento regularizado, fora da área reservada.
+
+###### Artigo 102.º-E — Área de Aptidão Recreativa de Maladão
+
+Nesta área está prevista a sua recuperação e arranjo paisagístico, bem como a construção e implantação de um conjunto de equipamentos e de infraestruturas de apoio à utilização recreativa, nomeadamente:
+
+a) A construção de um restaurante com esplanada, não podendo aquela ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+Área máxima de implantação de 300 m2;
+
+Número máximo de um piso;
+
+b) A construção de um parque de merendas e de um parque infantil devidamente equipados e infraestruturados;
+
+c) A implantação de piscina fluvial e a construção de equipamento de apoio a esta atividade balnear como instalações sanitárias e balneários;
+
+d) A construção de parques de estacionamento regularizados, fora da área reservada.
+
+###### Artigo 102.º-F — Área de aptidão turística da Roda
+
+Esta área será executada através de uma unidade operativa de planeamento e gestão [UOPG), identificada na Planta de Ordenamento do PDM e na Planta de Ordenamento - Zona de Proteção Albufeira de Fronhas como UOPG 6, a qual respeitará as disposições definidas para a referida UOPG 6, conforme consta do Anexo I - Unidades Operativas de Planeamento e Gestão - do regulamento do PDM.
+
+##### SUBSECÇÃO III — Zona de proteção de nível V
+
+###### Artigo 103.º — Regime geral
+
+1 - A zona de proteção de nível V é constituída por áreas de ocupação urbana de densidade variável, referenciadas indicativamente.
+
+2 - A delimitação, classificação e qualificação do solo dessas áreas de ocupação urbana é a constante na planta de ordenamento - classificação e qualificação do solo, cujo uso, ocupação e transformação do solo se rege pelo disposto nas normas regulamentares das respetivas categorias de espaço do presente regulamento.
+
+3 - As áreas da zona de proteção de nível V que não foram incluídas em perímetros urbanos ou aglomerados rurais, devem observar o disposto no artigo 100.º do presente regulamento e as normas regulamentares das respetivas categorias de espaço onde se inserem.
+
+###### Artigo 104.º — Regime específico
+
+1 - Na zona de proteção à captação de água superficial inserida na zona de proteção da albufeira, são interditas a prática de quaisquer atividades ou instalações, excecionando apenas as que têm por finalidade a conservação, a manutenção e a beneficiação da exploração da captação.
+
+2 - Para as edificações existentes ou a construir na zona de proteção da albufeira, não abrangidas pelos sistemas públicos de recolha de tratamento das águas residuais, é obrigatório:
+
+a) A construção, sempre que se trate de edificações localizadas na envolvente próximo do plano de água, na faixa dos 150 metros de projeção horizontal contados a partir do nível de pleno armazenamento, de fossas estanques com capacidade adequada e transporte das águas residuais a destino final adequado.
+
+b) A construção, sempre que se trate de edificações localizadas na restante área de intervenção, de fossas estanques com capacidade adequada, ou em alternativa, a construção de fossas séticas associadas a órgãos complementares de infiltração ou de filtração, cujo dimensionamento terá de ser efetuado e licenciado em função da realização de ensaios específicos de permeabilidade dos solos.
+
+c) Nas zonas de aptidão recreativa e na área de aptidão turística é obrigatória a construção de sistema de recolha de tratamentos tipo terciário de águas residuais ou em alternativa, a construção de fossas estanques nos termos definidos nos números anteriores.
+
+### CAPÍTULO X — Paisagem Protegida da Serra do Açor
+
+#### SECÇÃO I — Disposições Gerais
+
+###### Artigo 105.º — Âmbito e objetivos
+
+1 - O presente capítulo estabelece as regras aplicáveis à Planta de Ordenamento - Paisagem protegida da Serra do Açor, as quais prevalecem sobre as demais regras estabelecidas nos capítulos anteriores.
+
+2 - A área de paisagem protegida da Serra do Açor encontra-se demarcada na planta de ordenamento do PDM de Arganil na categoria de espaço natural, tendo o nível de proteção para cada tipo de área sido definido de acordo com a importância dos valores naturais presentes e a respetiva sensibilidade ecológica, tendo o Espaço Natural correspondente à PPSA sido subdividido nas seguintes subcategorias de espaço:
+
+i) Área de Proteção Total;
+
+ii) Área de Proteção Parcial I;
+
+iii) Área de Proteção Parcial II;
+
+iv) Área de Proteção Complementar;
+
+v) Área exterior à PPSA incluída no SIC Complexo do Açor (PTCON0051).
+
+3 - A área de paisagem protegida da Serra do Açor [APPSA) integra áreas prioritárias para a conservação da natureza e da biodiversidade, com inegáveis valores paisagísticos, culturais, científicos e recreativos e tem como objetivo a salvaguarda dos recursos e valores naturais, bem como a definição de um regime de gestão compatível com a utilização sustentável do território, através do estabelecimento e regulamentação de usos preferenciais, condicionados e interditos na sua área de intervenção, determinados por critérios de conservação da natureza e da biodiversidade, nos termos da legislação vigente.
+
+#### SECÇÃO II — Disposições Comuns
+
+###### Artigo 106.º — Atos e atividades interditas
+
+Na área de paisagem protegida da Serra do Açor, para além das interdições decorrentes de legislação específica e sem prejuízo das disposições específicas previstas para as áreas sujeitas a regimes de proteção, são interditos os seguintes atos e atividades:
+
+a) As ações de prospeção pesquisa e de extração de inertes;
+
+b) A instalação de suiniculturas, aviculturas, ou quaisquer outras explorações zootécnicas similares em sistemas de exploração intensivo;
+
+c) Operações de loteamento urbano ou industrial;
+
+d) A instalação ou ampliação de depósitos de materiais de construção e demolição, de sucata, de veículos, de inertes, de operações de gestão de resíduos, bem como o vazamento de outros resíduos sólidos ou líquidos;
+
+e) A instalação de estabelecimentos industriais dos tipos 1 e 2, que à data da entrada em vigor do DL n.º 209/2008 de 29 de outubro, se encontravam incluídos no Tipo I e II, respetivamente nos n.º 2 e n.º 3 do artigo 4.º;
+
+f) A instalação de depósitos de produtos explosivos ou de combustíveis, incluindo postos de combustível;
+
+g) A instalação de novos aproveitamentos energéticos, com exceção dos previstos na alínea f) do n.º 1 do artigo 107.º (atos e atividades condicionados);
+
+###### Artigo 107.º — Atos e atividades condicionados
+
+Sem prejuízo dos pareceres, das autorizações ou das aprovações legalmente exigíveis, bem como das disposições específicas previstas para as áreas sujeitas a regimes de proteção, ficam sujeitos a autorização ou parecer vinculativo da entidade competente em matéria de conservação da natureza e biodiversidade, os seguintes atos e atividades:
+
+a) As alterações da utilização atual do solo;
+
+b) A realização de quaisquer obras de construção, reconstrução, ampliação e demolição de edificações;
+
+c) A autorização de alteração da utilização de edificações preexistentes;
+
+d) A abertura de estradas, caminhos e acessos, bem como a beneficiação, ampliação ou qualquer modificação dos existentes, com exceção das operações de manutenção de caminhos agrícolas;
+
+e) A instalação, beneficiação ou manutenção de infraestruturas hidráulicas, elétricas, de telecomunicações, de transporte de gás natural, de saneamento básico ou de transporte de energia;
+
+f) A instalação de aerogeradores, desde que localizados em áreas de proteção complementar acima dos 950 m de altitude;
+
+g) A instalação, reconversão ou intensificação de explorações agrícolas extensivas, agropecuárias ou zootécnicas, nomeadamente a introdução de culturas irrigadas e respetivos sistemas de irrigação e drenagem, quando impliquem a edificação e ampliação de construções;
+
+h) As obras de escassa relevância urbanística identificadas nas alíneas b) e g) do n.º 1 do artigo 6.º-A da [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138) de 23 de setembro.
+
+###### Artigo 108.º — Edificações e infraestruturas
+
+1 - Todos os projetos de edificações e infraestruturas fora do espaço urbano de baixa densidade de Pardieiros e do aglomerado rural do Enxudro devem respeitar os valores e as características culturais e paisagísticas do sítio em que se inserem, designadamente na implantação, morfologia, tipologias, materiais e cores, sendo interdita a adoção de soluções agressivas ou dissonantes.
+
+2 - É obrigatória a recuperação e o tratamento paisagístico das áreas alteradas pelas obras de edificação.
+
+3 - Os projetos são acompanhados, sem prejuízo do disposto na legislação aplicável, dos seguintes elementos, sempre que solicitado:
+
+a) Inventariação das espécies de fauna e da flora de porte arbóreo e maciço de vegetação a manter ou a eliminar durante a execução dos trabalhos;
+
+b) Estudo de integração paisagística à escala adequada;
+
+c) Levantamento topográfico do local.
+
+#### SECÇÃO III — Disposições Específicas
+
+##### SUBSECÇÃO I — Espaço Natural
+
+###### Artigo 109.º — Tipologias
+
+1 - Na área de intervenção do APPSA encontram-se identificadas as seguintes subcategorias sujeitas a regimes de proteção:
+
+a) Área de proteção total;
+
+b) Área de proteção parcial I
+
+c) Área de proteção parcial II
+
+d) Áreas de proteção complementar.
+
+##### DIVISÃO I — Áreas de proteção total
+
+###### Artigo 110.º — Âmbito e objetivos
+
+1 - As áreas de proteção total correspondem a espaços onde os valores naturais assumem um caráter de excecionalidade do ponto de vista da conservação da natureza e que se caracterizam por uma sensibilidade ecológica muito elevada.
+
+2 - As áreas integradas em Proteção Total englobam a unidade de vegetação de florestas pré-climáticas de folhosas indígenas da Mata da Margaraça.
+
+3 - Nas áreas de proteção total pretende-se preservar locais de elevado interesse e extrema sensibilidade à intervenção humana, de forma a garantir a manutenção dos processos naturais em estado de perturbação mínima e preservar amostras ecologicamente representativas num estado dinâmico e evolutivo.
+
+###### Artigo 111.º — Disposições específicas das áreas de proteção total
+
+As áreas de proteção total são áreas non aedificandi.
+
+##### DIVISÃO II — Áreas de proteção parcial do tipo I
+
+###### Artigo 112.º — Âmbito e objetivos
+
+1 - As áreas de proteção parcial do tipo I correspondem a espaços que contêm valores naturais e paisagísticos muito relevantes para a conservação da natureza e da biodiversidade, bem como de elevada sensibilidade ecológica, em que os usos temporários do solo ou da água podem ser compatíveis com a conservação de habitats naturais e de espécies da flora e da fauna, desempenhando também funções de enquadramento ou transição das áreas de nível superior.
+
+2 - As áreas referidas no número anterior englobam unidades de vegetação correspondentes às comunidades não climácicas de folhosas indígenas, às comunidades ripícolas, aos bosquetes residuais de sobreiro, aos matagais arborescentes de espécies lauróides e às comunidades rupícolas e prados de altitude, incluindo também a área definida para visitação da Mata da Margaraça.
+
+3 - Os principais objetivos das áreas de proteção parcial do tipo I são:
+
+a) A conservação dos valores naturais e paisagísticos relevantes para a conservação da natureza e da biodiversidade;
+
+b) A consolidação de áreas nucleares de espécies florísticas e faunísticas.
+
+###### Artigo 113.º — Disposições específicas das áreas de proteção parcial do tipo I
+
+1 - Sem prejuízo do disposto no artigo 105.º do presente regulamento, nas áreas de proteção parcial do tipo I são ainda interditas as seguintes atividades:
+
+a) As alterações da utilização atual do solo, exceto as ações de conservação da natureza promovidas ou autorizadas pela entidade competente em matéria de conservação da natureza e da biodiversidade;
+
+b) A abertura de estradas, caminhos e acessos, podendo ser efetuada a beneficiação e manutenção das existentes, bem como as ações necessárias à defesa da floresta ao abrigo da legislação específica aplicável;
+
+c) A instalação de infraestruturas hidráulicas, elétricas, de telecomunicações, de transporte de gás natural, de saneamento básico ou de produção e transporte de energia;
+
+d) A realização de quaisquer obras de construção ou de ampliação;
+
+e) A instalação de unidades de alojamento turístico.
+
+##### DIVISÃO III — Áreas de proteção parcial do tipo II
+
+###### Artigo 114.º — Âmbito e objetivos
+
+1 - As áreas de proteção parcial do tipo II correspondem a espaços que contêm valores naturais e paisagísticos relevantes para a conservação da natureza, bem como de moderada sensibilidade ecológica, em que a manutenção dos habitats naturais e de determinadas espécies da flora e da fauna é compatível ou depende dos usos tradicionais do solo e da água, desempenhando também funções de enquadramento ou transição das áreas de nível superior, podendo ainda funcionar como corredores ecológicos.
+
+2 - As áreas referidas no número anterior englobam as áreas agrícolas e de pinhal da Área da Paisagem Protegida da Serra do Açor.
+
+3 - Os principais objetivos das áreas de proteção parcial do tipo II são:
+
+a) A conservação dos valores naturais e paisagísticos relevantes para a conservação da natureza e da biodiversidade;
+
+b) A manutenção dos espaços rurais, assegurando a conservação dos valores paisagísticos e culturais;
+
+c) A promoção do uso sustentável dos recursos, garantindo o desenvolvimento socioeconómico local;
+
+d) A promoção e valorização das atividades tradicionais de natureza agrícola e florestal, ou de exploração de outros recursos que constituam o seu suporte, ou que sejam compatíveis com o seu uso sustentável e os valores paisagísticos a preservar.
+
+###### Artigo 115.º — Disposições específicas das áreas de proteção parcial do tipo II
+
+Sem prejuízo do disposto no artigo 105.º do presente Regulamento, nas áreas de proteção parcial do tipo II são ainda interditas as seguintes atividades:
+
+a) As alterações da utilização atual do solo, exceto as decorrentes de ações de conservação da natureza promovidas ou autorizadas pela entidade competente em matéria de conservação da natureza e biodiversidade;
+
+b) A realização de quaisquer obras de construção ou de ampliação.
+
+##### DIVISÃO IV — Áreas de proteção complementar
+
+###### Artigo 116.º — Âmbito e objetivos
+
+1 - As áreas de proteção complementar correspondem a espaços constituídos por coberturas vegetais de reduzido valor natural e média sensibilidade ecológica, mas que estabelecem a transição e amortecimento de impactes e são necessárias à proteção das áreas em que se verificam níveis superiores de proteção.
+
+2 - As áreas de proteção complementar englobam áreas de giestal e de urzal da Área da Paisagem Protegida da Serra do Açor.
+
+3 - Os principais objetivos das áreas de proteção complementar são:
+
+a) A integração e enquadramento das áreas rurais e outras, devendo a intervenção humana ser compatibilizada com os valores naturais e paisagísticos;
+
+b) A valorização das atividades tradicionais, nomeadamente silvopastoris ou de exploração de outros recursos que constituam o suporte, ou que sejam compatíveis com os valores paisagísticos a preservar.
+
+###### Artigo 117.º — Disposições específicas das áreas de proteção complementar
+
+1 - Nas áreas de proteção complementar aplica-se o disposto nos artigos 106.º e 107.º do presente Regulamento, sem prejuízo dos pareceres, autorizações ou aprovações que sejam legalmente exigíveis nos termos da legislação aplicável.
+
+2 - A área de implantação de qualquer edificação localizada na área de proteção complementar pode ser ampliada até 50 % da área inicial, estando sujeita aos seguintes limites máximos:
+
+i) Edifícios de habitação: 200 m2;
+
+ii) Edifícios que prestam serviços de alojamento, desde que reconhecidos como Turismo de natureza: 500 m2.
+
+##### SUBSECÇÃO II — Áreas de exclusão dos regimes de proteção
+
+###### Artigo 118.º — Regime de edificabilidade
+
+Ao aglomerado rural do Enxudro e ao espaço urbano de baixa densidade de Pardieiros, aplica-se o regime de edificabilidade constante, respetivamente, os artigos n.º 37 e n.º 48.
+
+##### SUBSECÇÃO III — Áreas de intervenção específica
+
+###### Artigo 119.º — Regime de proteção
+
+As áreas de intervenção específica - Áreas de Acacial e Fraga da Pena - estão abrangidas pela aplicação dos regimes de proteção das áreas que lhe estão subjacentes.
+
+###### Artigo 120.º — Alteração à legislação
+
+[Anterior 93.]
+
+###### Artigo 121.º — Omissões
+
+[Anterior 94.]
+
+###### Artigo 122.º — Revisão
+
+[Anterior 95.]
+
+###### Artigo 123.º — Entrada em vigor
+
+[Anterior 96.]
+
+### CAPÍTULO I — Disposições Gerais
+
+###### Artigo 1.º — Âmbito e aplicação
+
+O Plano Diretor Municipal de Arganil, adiante designado por PDMA, de que o presente regulamento faz parte integrante, tem por objeto estabelecer as regras e orientações a que deverá obedecer a ocupação, uso e transformação do solo, para todo o território municipal, delimitado na Planta de Ordenamento, à escala 1/25000, de acordo com a Carta Administrativa Oficial de Portugal, CAOP 2014.
+
+###### Artigo 2.º — Objetivos Estratégicos
+
+Os objetivos estratégicos enquadrados pelo modelo estratégico de desenvolvimento e que, conjuntamente com o modelo territorial conformam a proposta de ordenamento, materializam-se nos seguintes eixos:
+
+a) Eixo 1 - Fortalecer e dinamizar a Base Económica Local;
+
+b) Eixo 2 - Requalificar o Território e o Urbano e Promover a Coesão Social;
+
+c) Eixo 3 - Potenciar o setor do Turismo como fator Chave;
+
+d) Eixo 4 - Potenciar e afirmar Imagem e Identidade concelhias;
+
+e) Eixo 5 - Salvaguardar os recursos e os valores naturais.
+
+###### Artigo 3.º — Composição do PDM
+
+1 - O PDMA é constituído pelos seguintes documentos:
+
+a) Regulamento;
+
+b) Planta de Ordenamento - Classificação e Qualificação do Solo (escala 1/25.000);
+
+c) Planta de Ordenamento - Estrutura Ecológica Municipal (escala 1/25.000);
+
+d) Planta de Ordenamento - Zonamento Acústico (escala 1/25.000);
+
+e) Planta de Ordenamento - Sistema Patrimonial (escala 1/25.000);
+
+f) Planta de Ordenamento - Zona de Proteção da Albufeira de Fronhas (escala 1/10.000);
+
+g) Planta de Ordenamento - Paisagem Protegida da Serra do Açor (escala 1/10.000);
+
+h) Planta de Condicionantes - REN (escala 1/25.000);
+
+i) Planta de Condicionantes - RAN e Aproveitamentos Hidroagrícolas (escala 1/25.000);
+
+j) Planta de Condicionantes - Rede Natura (escala 1/25.000);
+
+k) Planta de Condicionantes - Perigosidade de Risco de Incêndio (escala 1/25.000);
+
+l) Planta de Condicionantes - Áreas Percorridas por Incêndio (escala 1/25.000);
+
+m) Planta de Condicionantes - Regime Florestal (escala 1/25.000);
+
+n) Planta de Condicionantes - Outras (escala 1/25.000).
+
+2 - O PDMA é acompanhado por:
+
+a) Relatório de Fundamentação das Opções do Plano;
+
+b) Relatório de Avaliação da Execução do PDM em Vigor e Fundamentação da Expansão dos Perímetros Urbanos;
+
+c) Relatório dos Estudos setoriais de Caracterização;
+
+d) Compromissos Urbanísticos;
+
+e) Ponderação dos Pareceres emitidos em Conferencia de Serviços;
+
+f) Relatório Ambiental e Resumo Não Técnico;
+
+g) Processo Administrativo;
+
+h) Ponderação dos Resultados da Discussão Pública;
+
+i) Ficha de Dados Estatísticos;
+
+j) Planta de Enquadramento Regional;
+
+k) Planta da Situação Existente;
+
+l) Planta da Situação Existente - Uso Atual do Solo.
+
+3 - Outras Peças Desenhas de apoio aos Estudos setoriais de Caracterização:
+
+a) Planta do Esboço Litológico;
+
+b) Planta dos Valores Naturais - Habitats;
+
+c) Planta dos Valores Naturais - Fauna e Flora;
+
+d) Planta dos Sistemas de Abastecimento de Água;
+
+e) Planta do Saneamento Básico;
+
+f) Planta da Rede Viária;
+
+g) Planta dos Equipamentos de Utilização Coletiva;
+
+h) Planta dos Elementos Patrimoniais i)Planta das Atividades Económicas.
+
+4 - Outros elementos anexos ao plano:
+
+a) Mapa de Ruído;
+
+b) Carta Educativa.
+
+###### Artigo 4.º — Instrumentos de Gestão Territorial a Observar
+
+1 - Na área de intervenção do PDMA deverão ser observados os seguintes instrumentos de gestão territorial de âmbito nacional e municipal:
+
+a) Área Crítica de Reabilitação e Recuperação Urbana da Aldeia do Piódão (D 23/96, DR 186 IS-B, de 12/08/1996);
+
+b) Plano de Pormenor da Quinta da Estafeira (Aviso n.º 11016/2013, DR 170 II S, de 4.09.2013);
+
+c) Plano de Pormenor da Zona Industrial da relvinha [[Aviso n.º 12119-A/2019](https://diariodarepublica.pt/dr/detalhe/aviso/12119-a-2019-123513807), DR 142 II S, de 26.07.2019].
+
+2 - Os instrumentos de gestão territorial referidos no número anterior, com a delimitação constante da Planta de Ordenamento, prevalecem sobre as disposições do Plano.
+
+###### Artigo 5.º — Definições
+
+1 - Para efeito de aplicação do Plano, são adotados os conceitos técnicos definidos no [Decreto Regulamentar n.º 5/2019](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), de 27 de setembro e, na ausência destes, os constantes de documentos oficiais de natureza normativa produzidos pelas entidades nacionais legalmente competentes em razão da matéria em causa.
+
+2 - Para efeitos do presente regulamento estabelecem-se ainda as seguintes definições:
+
+a) Área non aedificandi, área delimitada geograficamente onde é interdita qualquer espécie de edificação ou utilização do solo para fins urbanísticos;
+
+b) Área de Implantação, valor numérico expresso em metros quadrados (m2), do somatório das áreas resultantes da projeção do plano horizontal de todos os edifícios (residenciais e não residenciais), incluindo anexos, mas excluindo varandas e platibandas;
+
+c) Anexo Agrícola/Pecuário/Florestal: Edifício anexo, destinado a uso complementar da atividade agrícola, pecuária e/ou florestal, nomeadamente: arrecadação para alfaias agrícolas, armazenagem de produtos e recolha de animais domésticos;
+
+d) Equipamento ou Infraestruturas, não complementares, das funções urbanas: Instalações e serviços de interesse geral ou particular, podendo considerar-se, nomeadamente, as seguintes: estações de bombagem e reservatórios de água potável; estações de tratamento (de água, ETA e de águas residuais, ETAR); centrais elétricas, térmicas e hidráulicas; subestações e postos de transformação; centrais telefónicas; centros de distribuição de gás natural; abastecedores e reservatórios de combustíveis; estações emissoras, nomeadamente, de rádio, televisão e telecomunicações; estações e instalações ferroviárias; instalações para recolha, processamento e tratamento de resíduos sólidos; barragens, mini-hídricas; parques eólicos; equipamentos de recreio e lazer de apoio ao solo rural e outros;
+
+e) Empreendimentos Turísticos Isolados (ETI), que correspondem a estabelecimentos hoteleiros, nas tipologias Hotéis, desde que associados a temáticas específicas (saúde, desporto, atividades cinegéticas, da natureza, educativas, culturais, sociais, etc.) que contribuam para a valorização económica e ambiental do espaço rural, e Pousadas; empreendimentos de Turismo no Espaço Rural (TER); empreendimentos de Turismo de Habitação; Parques de Campismo e de Caravanismo;
+
+f) Núcleos de Desenvolvimento Turístico (NDT), que correspondem às áreas de ocupação turística em solo rural, nas quais se integram conjuntos de empreendimentos turísticos e equipamentos de animação turística, bem como outros equipamentos e atividades de turismo e lazer compatíveis com o estatuto de solo rural. Nos NDT podem ser incluídos os seguintes empreendimentos turísticos: estabelecimentos hoteleiros, Aldeamentos Turísticos, empreendimentos de Turismo de Habitação, empreendimentos de Turismo em Espaço Rural, Parques de Campismo e Caravanismo e empreendimentos de Turismo da Natureza, bem como conjuntos turísticos (resorts) que englobem as tipologias anteriores;
+
+g) Nível de pleno armazenamento, corresponde à cota máxima a que pode realizar-se o armazenamento de água na albufeira que, no caso da albufeira de Fronhas, corresponde à cota de 136 metros;
+
+h) Zona reservada, corresponde à faixa, medida na horizontal, com a largura de 50 metros, contados a partir da linha de nível de pleno armazenamento;
+
+i) Zona de proteção da Albufeira de Fronhas, corresponde à faixa, medida na horizontal, com a largura de 500 metros, contados a partir da linha de nível de pleno armazenamento;
+
+j) Construção ligeira, a que se encontra assente sobre fundação não permanente e que utilize materiais ligeiros pré-fabricados ou modelados que permitam a sua fácil desmontagem e remoção;
+
+k) Parque de estacionamento regularizado, o local devidamente delimitado e exclusivamente destinado ao estacionamento de veículos, com superfície regularizada e revestimento permeável, semipermeável, com sistema de drenagem de águas pluviais e com as vias de circulação e os lugares de estacionamento devidamente assinalados;
+
+l) Piscina fluvial, a plataforma flutuante e amovível destinada a proporcionar, em condições de segurança, a utilização do plano de água para banhos e natação.
+
+### CAPÍTULO II — Servidões Administrativas e Restrições de Utilidade Pública
+
+###### Artigo 6.º — Identificação
+
+1 - Na área do PDMA são aplicáveis os regimes das Servidões Administrativas e Restrições de Utilidade Pública em vigor, nomeadamente as assinaladas na planta de Condicionantes e nos números seguintes.
+
+2 - Património Classificado e respetivas zonas de proteção e zonas especiais de proteção:
+
+a) Bens Imóveis Classificados como Monumento Nacional:
+
+Igreja de S. Pedro de Arganil - Classificada como MN - Monumento Nacional - [Decreto n.º 20249](https://diariodarepublica.pt/dr/detalhe/decreto/20249-1931-528623), DG n.º 196, de 24/08/1931. Dispõe de Zona Especial de Proteção (ZEP) - Portaria publicada no DG, 2.ª série, n.º 14, de 17/01/1951;
+
+b) Bens Imóveis Classificados como de Interesse Público:
+
+1) Capela da Sr.ª da Agonia - Classificada como IIP - Imóvel de Interesse Público - [Decreto n.º 28/82](https://diariodarepublica.pt/dr/detalhe/decreto/28-1982-600294), DR n.º 47 de 26/02/1982; Dispõe de Zona Geral de Proteção (ZP) de 50 metros;
+
+2) Capela da Rainha Santa Isabel - Classificado como MIP - Monumento de Interesse Público ([Portaria n.º 642/2012](https://diariodarepublica.pt/dr/detalhe/portaria/642-2012-2594532), DR, de 2.ª série, n.º 212, de 2-11-2012). [Anúncio n.º 5560/2012](https://diariodarepublica.pt/dr/detalhe/anuncio/5560-2012-2226272), DR, 2.ª série, n.º 52, de 13-03-2012;
+
+3) Castro da Lomba do Canho - Classificada como IIP - Imóvel de Interesse Público - [Decreto n.º 42255](https://diariodarepublica.pt/dr/detalhe/decreto/42255-1959-423388), DG n.º 105, de 08/05/1959; Dispõe de Zona Geral de Proteção (ZP) de 50 metros;
+
+4) Convento de Santo António - Classificado como MIP - Monumento de Interesse Público. [Portaria n.º 885/2013](https://diariodarepublica.pt/dr/detalhe/portaria/885-2013-2967235), DR, 2.ª série, n.º 240, de 11-12-2013. [Anúncio n.º 13513/2012](https://diariodarepublica.pt/dr/detalhe/anuncio/13513-2012-1520547), DR, 2.ª série, n.º 192, de 3-10-2012;
+
+5) Igreja Matriz de Vila Cova de Alva - Classificada como MIP - Monumento de Interesse Público - Portaria n.º 257/2011, DR, 2.ª série, n.º 19 de 27/12/2011); Dispõe de Zona Especial de Proteção (ZEP) - Portaria n.º 257/2011, publicada no DR, 2.ª série n.º 19 de 27/12/2011;
+
+6) Mosteiro de Folques, recheio artístico e quinta. Classificada como IIP - Imóvel de Interesse Público - [Decreto n.º 5/2002](https://diariodarepublica.pt/dr/detalhe/decreto/5-2002-278071), DR, 1.ª série-B, n.º 42 de 19/02/2002); Dispõe de Zona Geral de Proteção (ZP) de 50 metros;
+
+7) Pelourinho de Arganil. Classificado como IIP - Imóvel de Interesse Público - Decreto n.º 23 122, DG n.º 231, de 11/10/1933); Dispõe de Zona Geral de Proteção (ZP) de 50 metros;
+
+8) Pelourinho de Vila Cova de Alva. Classificado como IIP - Imóvel de Interesse Público - Decreto n.º 23 122, DG n.º 231, de 11/10/1933); Dispõe de Zona Geral de Proteção (ZP) de 50 metros;
+
+9) Povoação de Piódão. Classificado como IIP Imóvel de Interesse Público - [Decreto n.º 95/78](https://diariodarepublica.pt/dr/detalhe/decreto/95-1978-329662), DR n.º 210, de 12/09/1978); Dispõe de Zona Geral de Proteção (ZP) de 50 metros;
+
+10) Dois Túmulos existentes na parede e no pavimento da Capela-Mor da Igreja de Pombeiro. Classificado como IIP - Imóvel de Interesse Público - [Decreto n.º 33587](https://diariodarepublica.pt/dr/detalhe/decreto/33587-1944-273397), DG n.º 63 de 27/03/1944; [Decreto n.º 30838](https://diariodarepublica.pt/dr/detalhe/decreto/30838-1940-201033), DG n.º 254, de 01/11/1940; [Decreto n.º 30762](https://diariodarepublica.pt/dr/detalhe/decreto/30762-1940-195002), DG n.º 225, de 26/09/1940); Dispõe de Zona Geral de Proteção (ZP) de 50 metros;
+
+c) Bens Imóveis Classificados como de Interesse Municipal:
+
+Igreja da Misericórdia de Arganil. Classificado como IM - Interesse Municipal - [Decreto n.º 129/77](https://diariodarepublica.pt/dr/detalhe/decreto/129-1977-278706), DR, 1.ª série, n.º 226, de 29/09/77).
+
+3 - Infraestruturas básicas:
+
+a) Rede Nacional de Transporte de Eletricidade;
+
+b) Rede Nacional de Distribuição de Eletricidade.
+
+4 - Infraestruturas de transporte e comunicações:
+
+a) Rede rodoviária nacional (IC6, EN 17, EN 342, EN 342-4);
+
+b) Estrada Regional (ER 342);
+
+c) Estradas Desclassificadas [EN17 (alguns troços), EN 17-2, EN 337, EN344];
+
+d) Rede de estradas e caminhos municipais.
+
+5 - Recursos hídricos:
+
+a) Domínio Hídrico:
+
+i) Leitos e margens dos cursos de água;
+
+ii) Albufeiras e respetivas margens.
+
+b) Zona de proteção das Albufeiras de águas públicas:
+
+i) Zona de proteção;
+
+ii) Zonas reservada;
+
+iii) Zona de respeito da barragem e dos órgãos de segurança de utilização da albufeira.
+
+c) Perímetros de proteção de captações de água destinadas ao abastecimento:
+
+i) Zona de proteção imediata;
+
+ii) Zona de proteção intermédia;
+
+iii) Zona de proteção alargada.
+
+6 - Recursos Ecológicos:
+
+a) Reserva Ecológica Nacional;
+
+b) Rede Natura 2000 - Sítio da Rede Natura 2000 do Complexo do Açor - PTCON0051;
+
+c) Área da Paisagem Protegida da Serra do Açor.
+
+7 - Recursos Agrícolas e Florestais:
+
+a) Reserva Agrícola Nacional, aproveitamentos hidroagrícolas e suas infraestruturas;
+
+b) Áreas sujeitas ao Regime Florestal.
+
+c) Defesa da Floresta contra Incêndios:
+
+i) Povoamentos Florestais Percorridos por Incêndios;
+
+ii) Classe de risco de incêndio - perigosidade alta e muito alta;
+
+iii) Pontos de Água.
+
+d) Árvores de interesse público;
+
+e) Sobreiro e Azinheira;
+
+f) Azevinhos espontâneos, em povoamentos ou isolados.
+
+8 - Recursos Geológicos: Concessão, Licenças, Perímetros de Proteção, Áreas Cativas e de Reserva, Concessões para Recuperação, Contratos de Prospeção e Pesquisa, Jazigos e Ocorrências de Urânio.
+
+9 - Vértices Geodésicos.
+
+###### Artigo 7.º — Regime jurídico
+
+Nas áreas abrangidas por servidões administrativas e restrições de utilidade pública referidas no número anterior, aplica-se a legislação específica em vigor.
+
+### CAPÍTULO III — Uso do Solo
+
+#### SECÇÃO I — Classificação do Solo Rural e Urbano
+
+###### Artigo 8.º — Classificação do Solo
+
+1 - Classifica-se como Solo Rural o que se destina ao aproveitamento agrícola, pecuário e florestal ou de recursos geológicos, a espaços naturais de proteção ou de lazer ou a outros tipos de ocupação humana que não lhe confiram o estatuto de solo urbano.
+
+2 - Classifica-se como Solo Urbano o que se destina a urbanização e a edificação urbana, constituindo no seu todo o perímetro urbano.
+
+###### Artigo 9.º — Qualificação do solo rural e do solo urbano
+
+Para efeitos de aplicação do presente Regulamento é considerada, em função da sua utilização dominante, a seguinte qualificação do solo, considerando diferentes categorias operativas e funcionais, e correspondente à representação gráfica expressa na Planta de Ordenamento - Classificação e Qualificação do Solo à escala 1/25000, Planta de Ordenamento - Zona de proteção da Albufeira de Fronhas e Planta de Ordenamento - Paisagem Protegida da Serra do Açor.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/07/135000001/0000200080.pdf)
+
+#### SECÇÃO II — Sistema Urbano
+
+###### Artigo 10.º — Aglomerados Urbanos
+
+1 - Para efeitos de aplicação do PDMA identificam-se a seguir os aglomerados urbanos do concelho de Arganil definidos de acordo com a dinâmica demográfica, os níveis de crescimento e de acessibilidade, as funções instaladas, a estrutura do tecido urbano e edificado, o nível de infraestruturação e o seu potencial de desenvolvimento:
+
+a) Espaço Urbano Central - Aglomerado de Arganil;
+
+b) Espaço Urbano Residencial - Aglomerado de Arganil, Côja, Pomares e S. Martinho da Cortiça;
+
+c) Espaço Urbano de Baixa Densidade - Aglomerados de Anceriz, Barril de Alva, Benfeita, Celavisa, Cepos, Cerdeira, Folques, Moura da Serra, Pardieiros, Piodão, Pombeiro da Beira, Sarzedo, Secarias, Teixeira e Vila Cova de Alva, todos integrantes de áreas centrais de freguesias e, ainda, os aglomerados de Casal de S. João e Vinhó.
+
+2 - O espaço central corresponde ao núcleo urbano central de Arganil, constituído por uma malha urbana mais antiga, que revela uma elevada concentração de população e diversificação de funções urbanas, nomeadamente, residenciais, de equipamentos, de comércio, de serviços e eventualmente industriais e empresariais, constituindo o principal polo de vida sociocultural do concelho.
+
+3 - O espaço residencial, corresponde à área urbana envolvente ao núcleo urbano central de Arganil, que revela e complementa uma elevada dinâmica sociourbanística expressa numa elevada concentração de população e diversificação de funções urbanas, nomeadamente, residenciais, de equipamentos, de comércio, de serviços e eventualmente industriais e empresariais, constituindo o principal polo de vida sociocultural do concelho, mas também as áreas centrais dos aglomerados de Côja, S. Martinho da Cortiça e Pomares, onde as dinâmicas sociourbanísticas têm revelado maior expressão no concelho de Arganil.
+
+4 - O espaço urbano de baixa densidade, corresponde ao território marcado por um conjunto de aglomerados, e que constitui o perímetro urbano central de Anceriz, Barril de Alva, Benfeita, Celavisa, Cepos, Cerdeira, Folques, Moura da Serra, Pardieiros, Piódão, Pombeiro da Beira, Sarzedo, Secarias, Teixeira e Vila Cova de Alva, evidenciando uma relação urbana-rural fortemente marcante da imagem e da estrutura urbana, e que revelam ainda uma acentuada dependência funcional da referida área urbana central, embora integre ainda áreas de dimensão significativa afetas à ocupação de equipamentos ou de atividades industriais, e como tal identificadas na Planta de Ordenamento.
+
+#### SECÇÃO III — Disposições comuns ao solo rural e ao solo urbano
+
+###### Artigo 11.º — Integração e transformação de preexistências
+
+1 - Consideram-se preexistências ao presente Plano as atividades, explorações, instalações, edificações, equipamentos ou quaisquer atos, nomeadamente aqueles que, executados ou em curso à data da sua entrada em vigor, cumpram nesse momento pelo menos uma das seguintes condições:
+
+a) Não careçam de qualquer licença, comunicação prévia, aprovação ou autorização, nos termos da lei;
+
+b) Estejam licenciados, aprovados ou autorizados pela entidade competente, nos casos em que a lei a tal obriga, e desde que as respetivas licenças, aprovações ou autorizações sejam válidas e se mantenham eficazes;
+
+c) Constituam direitos ou expectativas legalmente protegidas durante o período da sua vigência, considerando-se como tal, para efeitos do presente Regulamento, informações prévias favoráveis, aprovações de projetos de arquitetura ou outros compromissos juridicamente vinculativos para o Município.
+
+2 - Caso as preexistências ou as condições das licenças ou autorizações não se conformem com a disciplina instituída pelo presente Plano podem ser autorizadas alterações ou ampliações às mesmas nas seguintes situações cumulativas:
+
+a) Desde que a alteração ou ampliação seja possível nos termos dos regimes legais das servidões administrativas ou restrições de utilidade pública eventualmente aplicáveis ao local;
+
+b) Quando introduzido qualquer novo uso, este não seja desconforme com as disposições do Plano;
+
+c) Se obtenham melhorias relevantes quanto à inserção urbanística e paisagística ou à qualidade arquitetónica das edificações;
+
+d) Não tenham como efeito o agravamento das condições de desconformidade;
+
+3 - Para efeitos da alínea d) do número anterior, considera-se não existir agravamento das desconformidades, quanto ao cumprimento dos parâmetros urbanísticos, as ampliações até 50 % da área de construção preexistente.
+
+###### Artigo 12.º — Legalização de construções não licenciadas
+
+1 - Nas parcelas onde se localizem atividades ou usos não licenciados anteriores à data da entrada em vigor da versão inicial do PDM de Arganil, ocorrida a 21 de novembro de 1995, ou posteriores a esta data, que careçam de medidas de reposição de legalidade urbanística tal como se encontra previsto no regime jurídico de urbanização e edificação em vigor, podem as construções e os usos existentes à data de entrada em vigor do presente Plano que a elas estejam afetos ser objeto de legalização, desde que cumpram as normas constantes do presente artigo.
+
+2 - As atividades, estabelecimentos, explorações, instalações e edificações abrangidas por regimes legais em vigor [como é exemplo o regime extraordinário estabelecido pelo [Decreto-Lei n.º 165/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2014-58752835)] seguem o procedimento previsto no respetivo diploma, considerando-se compatíveis com as categorias de espaço onde se inserem no caso de virem a obter parecer favorável ou favorável condicionado no âmbito do procedimento de regularização.
+
+3 - Sem prejuízo do estabelecido no número anterior, as legalizações devem obedecer aos seguintes requisitos:
+
+a) Salvaguarda das condições higienossanitárias e de salubridade das instalações técnicas e de gestão ambiental, a verificar pelas entidades competentes;
+
+b) Garantia de exigências de ordem funcional, ambiental e paisagística.
+
+4 - A Câmara Municipal, mediante vistoria requerida pelos interessados, pode licenciar as edificações existentes com uso habitacional, quando haja divergências com os usos admitidos na área em que as mesmas se integram, desde que:
+
+a) Seja verificada a sua existência através da cartografia anterior à publicação do PDM, ocorrida a 21 de novembro de 1995 ou, sendo a edificação posterior a este, seja comprovada a sua conformidade material com aquele instrumento de planeamento;
+
+b) Seja comprovada a correspondência entre os documentos que instruem o processo de controlo e as construções existentes, no caso das edificações realizadas em momento anterior à publicação do PDM, ocorrida a 21 de novembro de 1995;
+
+c) Seja garantida por técnico responsável a estabilidade e a segurança das construções;
+
+d) Sejam cumpridos os requisitos mínimos estabelecidos em regulamento municipal.
+
+5 - Quando estejam em causa edificação afetas a atividades económicas legalmente existentes, podem ser legalizadas as ampliações estritamente necessárias ao cumprimento das exigências decorrentes dos respetivos regimes legais.
+
+6 - A apreciação dos pedidos de regularização, na parte respeitante às eventuais desconformidades das situações com a disciplina estabelecida pelo presente Plano, realiza-se através da avaliação dos impactes da manutenção da atividade, exploração, instalação ou edificação, na perspetiva do ordenamento do território, da segurança de pessoas e bens, e da salvaguarda dos recursos e valores naturais e culturais, e das medidas e os procedimentos a adotar que sejam suscetíveis de fazer cessar ou minimizar os eventuais impactes negativos decorrentes da referida manutenção, articulada, nas situações referidas no n.º 2, com a ponderação de todos os restantes fatores previstos no respetivo diploma legal.
+
+7 - O procedimento estabelecido no presente artigo é aplicável, com as devidas adaptações, a outros regimes extraordinários de regularização de atividades, explorações ou instalações que venham a ser legalmente estabelecidos.
+
+8 - Os prazos máximos para apresentação dos pedidos de regularização de situações a realizar ao abrigo do presente procedimento especial são os seguintes:
+
+a) Para as situações referidas no n.º 2, o prazo estabelecido no respetivo diploma legal;
+
+b) Para as restantes situações, o prazo será de três anos a contar da data de entrada em vigor do presente Plano.
+
+###### Artigo 13.º — Ruído
+
+1 - Para efeitos de zonamento acústico, o PDMA classifica como zona mista todas as áreas incluídas no perímetro urbano, à exceção dos espaços destinados exclusivamente ao uso industrial, de acordo com o expresso na "Planta de Ordenamento - Zonamento Acústico" e em conformidade com os critérios que se encontram definidos na legislação específica relativa ao ruído.
+
+2 - No território municipal não integrado em Perímetro Urbano todos os recetores sensíveis, existentes ou a licenciar, são equiparados à classificação de zona mista, para efeito da aplicação do regime jurídico relativo ao ruído.
+
+3 - Nas situações em que se verifica que os valores limites de exposição para os diferentes usos são excedidos, apenas é permitido o licenciamento de novas edificações, mesmo que enquadradas no PDMA, desde que seja assegurada a satisfação e de uma das seguintes condições:
+
+a) Mediante a apresentação de um plano de redução ou monitorização do ruído e adoção de medidas específicas de minimização de impactes acústicos negativos;
+
+b) Mediante apresentação ou nova recolha de dados acústicos que comprovem a alteração dos valores de referência;
+
+c) Após execução do PDMA de redução de ruído da responsabilidade da Câmara Municipal.
+
+###### Artigo 14.º — Compatibilidade de usos e atividades
+
+1 - A realização de ações ou a instalação de atividades fica condicionada ao respeito com a ocupação e destino preferencial das categorias de espaço onde se inserem.
+
+2 - Há razões de incompatibilidade quando da ocupação, utilização ou instalação de usos ou atividades, decorram incidências urbanas, ambientais e paisagísticas negativas, nomeadamente:
+
+a) Produção de ruídos, fumos, cheiros ou resíduos que agravem as condições de salubridade ou dificultem o seu melhoramento;
+
+b) Perturbação das condições de trânsito e estacionamento ou produção de movimentos de cargas e descargas em regime permanente que prejudiquem a utilização da via pública;
+
+c) Agravamento de riscos de incêndio ou explosão;
+
+d) Prejudiquem a salvaguarda e valorização do património classificado ou de reconhecido valor cultural, arquitetónico, arqueológico, paisagístico ou ambiental;
+
+e) Correspondam a outras situações de incompatibilidade que a lei geral considere como tal, designadamente as constantes no Sistema da Indústria Responsável (SIR) e no Regulamento Geral do Ruído.
+
+f) Dimensões ou outras características arquitetónicas não conformes com a paisagem natural;
+
+g) Inadequada inserção urbanística e/ou paisagística da intervenção na envolvente.
+
+3 - Às atividades instaladas que geram incompatibilidades com os usos dominantes devem ser impostos condicionalismos à sua manutenção e definidas medidas mitigadoras, tendo em conta os impactes sobre os espaços em que se localizam.
+
+4 - Para a zona de proteção da Albufeira de Fronhas é estabelecido o zonamento constante da Planta de Ordenamento - Zona de Proteção da Albufeira de Fronhas, ao qual são aplicáveis as disposições estabelecidas no Capítulo IX, que prevalecem sobre as demais regras estabelecidas no presente Regulamento.
+
+5 - Para a área da paisagem protegida da Serra do Açor é estabelecido o zonamento constante da Planta de Ordenamento - Paisagem Protegida da Serra do Açor, ao qual são aplicáveis as disposições estabelecidas no Capítulo X, que prevalecem sobre as demais regras estabelecidas no presente Regulamento.
+
+###### Artigo 15.º — Condições gerais de edificabilidade
+
+1 - É condição necessária para que um terreno seja considerado apto à edificação, seja qual for o tipo ou utilização do edifício, que satisfaça cumulativamente as seguintes exigências:
+
+a) Quando a edificação se destine a uso habitacional, turístico, comércio, serviços ou indústria e se localize em solo rural, o prédio respetivo não esteja classificado no Plano Municipal de Defesa da Floresta Contra Incêndios (PMDFCI), a que corresponde a Carta de perigosidade de incêndios anexa à Planta de Condicionantes, com risco de incêndio elevado ou muito elevado.
+
+b) A edificabilidade esteja condicionada em função do limite das áreas ardidas durante os próximos 10 anos.
+
+2 - As intervenções permitidas para o Solo Rural ficam condicionadas a:
+
+a) Garantia de acesso viário;
+
+b) Garantia de execução de soluções autónomas para o abastecimento de água, drenagem de esgotos e abastecimento de energia elétrica, cuja construção e manutenção serão encargo dos interessados;
+
+c) Caso a extensão das redes públicas seja viável e autorizada, cabe aos interessados suportar os respetivos custos;
+
+d) Sempre que não haja possibilidade de ligação imediata às redes públicas de abastecimento de água e de drenagem de águas residuais, as soluções autónomas a adotar devem implantar-se, sempre que possível, de modo a viabilizar a sua futura ligação às referidas redes.
+
+e) Os efluentes domésticos serão obrigatoriamente objeto de tratamento adequado, em instalação própria, sem o qual não poderão ser lançados na rede de drenagem natural;
+
+f) Os efluentes industriais ou das unidades agropecuárias não podem ser lançados diretamente nas linhas de água, sendo previamente assegurado o seu tratamento adequado;
+
+g) As instalações agropecuárias, as unidades industriais e de armazenagem ou outros programas de função não habitacional, devem garantir uma correta inserção no meio envolvente, constituindo cortinas arbóreas junto ao limite das parcelas que contribuam para a atenuação de impacto visual dos edifícios.
+
+3 - As condições gerais de edificabilidade aplicáveis nas áreas abrangidas pela zona de proteção da albufeira de Fronhas estão definidas no Capítulo IX - Zona de proteção da Albufeira de Fronhas.
+
+4 - As condições gerais de edificabilidade aplicáveis na área de paisagem protegida da Serra do Açor devem obedecer, ou devem respeitar o regime de proteção específica estabelecido no Capítulo X - Paisagem protegida da Serra do Açor.
+
+###### Artigo 16.º — Zonas Inundáveis
+
+1 - Consideram-se zonas inundáveis as áreas atingidas pela maior cheia de um curso de água.
+
+2 - Nas categorias de solo urbano abrangidas por zonas inundáveis é interdita a execução de caves, aterros e outros obstáculos que interfiram negativamente com o escoamento das águas da rede hidrográfica.
+
+3 - Nas zonas inundáveis integradas em perímetro urbano (como tal delimitadas na planta de ordenamento) a construção de novas edificações deve corresponder, unicamente, a situações de colmatação da malha urbana, admitindo-se a construção de edificações que se destinem à substituição de edifícios a demolir não podendo, nestes casos, a área de implantação ser superior à anteriormente ocupada.
+
+4 - Nas zonas inundáveis são interditos edifícios destinados à instalação de equipamentos sensíveis, nos termos da alínea a), do n.º 1 do artigo 2.º do [Decreto-Lei n.º 115/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2010-307873), de 22 de outubro, bem como qualquer obra de edificação a eles relativa que agrave a suscetibilidade de ocorrência de inundações.
+
+5 - Qualquer intervenção urbanística localizada em zonas inundáveis deve prever soluções técnicas que não afetem as condições de permeabilidade dos solos e o escoamento superficial das águas.
+
+6 - Nas zonas inundáveis que integram o perímetro urbano e que são qualificadas como espaços verdes não são admitidas:
+
+a) Operações urbanísticas de construção qualquer que seja o seu fim, exceção feita a obras de reconstrução ou alteração, que configurem condições de segurança e salubridade e desde que a cota de soleira se situa acima da cota local de máxima cheia;
+
+b) Alteração do sistema natural de escoamento por obstrução à circulação das águas;
+
+c) Realização de obras que impliquem alterações das características naturais das zonas ou da foz das ribeiras;
+
+d) Destruição do revestimento vegetal ou alteração do relevo natural;
+
+e) Instalações destinadas a operações de gestão de resíduos.
+
+#### SECÇÃO IV — Proteção e Salvaguarda
+
+###### Artigo 17.º — Proteção ao sistema de aproveitamento hidroagrícola
+
+1 - No âmbito da delimitação do aproveitamento hidroagrícola, qualquer alteração à linha de abastecimento do regadio fica sujeita à demonstração da existência de condições para a sua reposição.
+
+2 - O restabelecimento dos sistemas que forem interrompidos devido a intervenções não relacionadas com a exploração e conservação do aproveitamento hidroagrícola deve ser, obrigatoriamente, feito de acordo com as orientações técnicas da Direção Regional da agricultura em conjunto com a entidade que superintende na gestão da área regada e em cumprimento com o Regime Jurídico das Obras dos Aproveitamentos Hidroagrícolas e demais legislação complementar.
+
+###### Artigo 18.º — Proteção de Equipamentos de Ensino
+
+1 - É zona non aedificandi a área em torno de qualquer equipamento educativo contida no perímetro definido pela distância de 12 m, medida a partir do limite exterior do recinto escolar.
+
+2 - Considera-se zona de proteção dos equipamentos de ensino, onde a construção ou a alteração do uso do solo será obrigatoriamente sujeita a apreciação técnica que poderá condicionar, fundamentadamente, o regime de edificabilidade previsto, a área definida pela distância de 30 m, medida a partir dos limites exteriores dos recintos escolares.
+
+3 - Sobre toda a área de proteção definida no n.º 2 não deverá passar qualquer linha de alta tensão.
+
+#### SECÇÃO V — Estrutura Ecológica Municipal
+
+###### Artigo 19.º — Âmbito Territorial
+
+1 - A estrutura ecológica municipal é constituída pelo conjunto de áreas que, em virtude das suas características biofísicas e culturais, da sua continuidade ecológica e do seu ordenamento e tem por têm por função principal contribuir para o equilíbrio ecológico e para a proteção, conservação e valorização ambiental e paisagística dos espaços rurais e urbanos
+
+2 - Constitui a Estrutura Ecológica Fundamental áreas da Reserva Ecológica Nacional, as albufeiras de Fronhas, Rei dos Moinhos e Alto do Ceira, os leitos dos cursos de água, a Reserva Agrícola Nacional e os espaços verdes urbanos.
+
+3 - Constitui a Estrutura Ecológica Complementar as áreas que integram o corredor ecológico do PROFPIN/corredor ecológico secundário da ERPVA.
+
+4 - Constitui a Estrutura de Valorização as áreas que integram a rede natura 2000 (sítio complexo do Açor - PTCON 0051), área de paisagem protegida da Serra do Açor, reserva biogenética da mata da Margaraça e o regime florestal.
+
+5 - A estrutura ecológica municipal incide nas diversas categorias de solo rural e urbano com um regime de uso adequado às suas características e funções e corresponde genericamente a áreas onde se privilegia o estabelecimento de medidas básicas e de parâmetros de ocupação e utilização do solo adequados à sua salvaguarda e valorização, assegurando a compatibilização das funções de proteção, regulação e enquadramento com os usos produtivo, o recreio e o bem-estar das populações.
+
+###### Artigo 20.º — Regime de compatibilidade na Estrutura Ecológica Municipal
+
+1 - Podem admitir-se usos e funções urbanas, incluindo edificação, desde que cumprindo o regime de ocupação previsto para a respetiva categoria ou subcategoria de espaço, e sem prejuízo das condicionantes em vigor.
+
+2 - A implantação de equipamentos e infraestruturas deverá garantir a continuidade dos espaços verdes e não criar qualquer estrangulamento ou descontinuidade às margens de proteção às linhas de água.
+
+### CAPÍTULO IV — Solo Rural
+
+#### SECÇÃO I — Disposições Gerais
+
+###### Artigo 21.º — Qualificação
+
+1 - As categorias e subcategorias funcionais pertencentes ao Solo Rural apresentam no seu conjunto grande potencialidade para as atividades florestais, agrícolas e agro-silvo-pastoris e para a manutenção do equilíbrio biofísico e paisagístico, complementadas com o desenvolvimento de atividades de educação ambiental, de turismo da natureza, ou outras atividades ao ar livre.
+
+2 - Nas edificações preexistentes é admissível a alteração de uso para a instalação de empreendimentos turísticos nas tipologias de empreendimentos turísticos de habitação, empreendimentos de turismo no espaço rural e pousadas ou alojamento local, sendo permitida a ampliação das construções existentes, cumprindo com as seguintes regras e parâmetros urbanísticos:
+
+a) O número máximo de pisos corresponde ao definido para as categorias de solo onde é admitida a instalação das tipologias de empreendimentos turísticos, devendo salvaguardar a cércea existente, se superior;
+
+b) A área de implantação da construção poderá ser ampliada até um máximo de 30 % da área de implantação da construção principal existente;
+
+###### Artigo 22.º — Defesa e prevenção de incêndio florestal
+
+Independentemente das disposições regulamentares afetas a cada classe de espaço do solo rural que a seguir se apresentam, qualquer nova edificação em solo rural deve enquadrar-se nas orientações do sistema nacional de prevenção e proteção das florestas contra incêndios, nomeadamente quanto aos afastamentos às estremas definidos na legislação em vigor ou no respetivo plano municipal de defesa da floresta contra incêndios (PMDFCI).
+
+###### Artigo 22.º-A — Zona de proteção da albufeira de Fronhas
+
+Ao solo rural abrangido pela zona de proteção da Albufeira de Fronhas são aplicáveis as disposições estabelecidas no Capítulo IX, que prevalecem sobre as demais regras estabelecidas no presente Regulamento.
+
+#### SECÇÃO II — Espaço Natural
+
+###### Artigo 23.º — Caracterização do Espaço Natural
+
+1 - São espaços de elevada sensibilidade ambiental e paisagística que integram valores de natureza cultural, histórica, paisagística e ambiental, objeto de proteção específica, e que integram a Reserva Biogenética da Mata Margaraça, bem como a área correspondente aos limites da Rede Natura 2000 - Sítio Complexo do Açor PTCON0051 RCM 76/00 de 5 julho, de modo a salvaguardar a manutenção do seu equilíbrio ecológico, que se subdividem em cinco subcategorias:
+
+i) Área de Proteção Total;
+
+ii) Área de Proteção Parcial I;
+
+iii) Área de Proteção Parcial II;
+
+iv) Área de Proteção Complementar;
+
+v) Área do SIC - Complexo do Açor, exterior à PPSA (que inclui também as áreas de SIC do S. Pedro do Açor e Cebola).
+
+2 - Compõem-se de áreas constituídas por paisagens naturais, florestais ou agrícolas, considerando-se estas como unidades geográficas, ecológicas, ambientais e paisagísticas, resultantes da ação determinante do homem e da reação da natureza, sem deixar de se verificar o equilíbrio biológico, a estabilidade física e a dinâmica dos ecossistemas.
+
+3 - Nos termos da lei, qualquer intervenção neste espaço encontra-se condicionada ao cumprimento de legislação específica.
+
+4 - Nas áreas da Paisagem Protegida da Serra do Açor são aplicáveis as disposições do Capítulo X, que prevalecem sobre as demais regras estabelecidas no presente Regulamento.
+
+###### Artigo 24.º — Regime de edificabilidade
+
+1 - As condições de edificabilidade a aplicar no es3paço natural, encontram-se definidas e expressa no Capítulo X do presente regulamento.
+
+2 - Para a área do SIC é aplicável a alínea a) do n.º 2 do artigo 9.º do DL 140/99, de 24 de abril, com as alterações do DL n.º 49/2005, de 24 de fevereiro de 2005.
+
+#### SECÇÃO III — Espaço Agrícola
+
+###### Artigo 25.º — Caracterização do Espaço Agrícola
+
+Os espaços pertencentes a esta categoria possuem características mais adequadas à atividade agrícola, agropecuária e pecuária, englobando áreas que apresentam ou revelam elevada capacidade de uso agrícola, incluídas na RAN, ou outras que pelo seu uso dominante, revelam aptidão para a atividade agrícola.
+
+###### Artigo 26.º — Estatuto de Uso e Ocupação do Solo
+
+1 - Os Espaços Agrícolas destinam-se preferencialmente à localização das atividades mencionadas no artigo anterior, podendo admitir-se outras que, não criando situações de incompatibilidade com a utilização preferencial, sejam delas complementares, em especial atividades industriais diretamente ligadas ao aproveitamento, transformação, comércio ou armazenamento de produtos agrícolas, agropecuários, florestais e geológicos.
+
+2 - A edificabilidade no espaço agrícola tem caráter excecional, devendo restringir-se à edificação de suporte às atividades económicas associadas à valorização dos recursos naturais, ambientais, culturais e paisagísticos e/ou à promoção da multifuncionalidade dos espaços rurais e, em especial, às atividades relacionadas com as práticas agrícolas, podendo, excecionalmente, admitir-se a instalação de outras atividades que contribuam para diversificar e reforçar a base económica e que pela sua natureza só possam ser instaladas nestes espaços.
+
+3 - Nos Espaços Agrícolas admitem-se as seguintes ocupações e utilizações:
+
+a) Anexos Agrícolas e Pecuários de apoio à atividade na parcela e muros de vedação;
+
+b) Instalações agropecuárias, pecuárias ou outras compatíveis com estes espaços e desde que a sua localização diste pelo menos, 200 metros do limite do perímetro urbano;
+
+c) Habitação Unifamiliar, para residência do agricultor ou proprietário;
+
+d) Equipamentos ou Infraestruturas que pela sua natureza não se possam localizar em solo urbano, nomeadamente ETARs, Ecocentros ou Subestações ou outras;
+
+e) Empreendimentos Turísticos Isolados e Núcleos de Desenvolvimento Turístico que assegurem uma adequada inserção na morfologia do terreno e garantam a preservação das vistas;
+
+f) Exploração de Recursos Geológicos do domínio público do Estado nos espaços identificados na Planta de Ordenamento - Classificação e Qualificação do Solo, como "Área Potencial".
+
+###### Artigo 27.º — Regime de Edificabilidade
+
+1 - A edificação para fins habitacionais de quem exerça atividade agrícola ou atividades conexas ou complementares à atividade agrícola é admissível nas seguintes condições:
+
+a) Área da parcela igual ou superior a 10.000 m2;
+
+b) Índice de Utilização do Solo inferior a 0,05;
+
+c) Índice de Impermeabilização do Solo inferior a 0,1;
+
+d) Número máximo de pisos: 2 acima da cota de soleira
+
+e) Disponha de acesso público e de infraestruturas;
+
+f) Seja indispensável ao desenvolvimento ou manutenção de atividades produtivas tradicionais.
+
+2 - Os Empreendimentos Turísticos Isolados nas tipologias Hotéis, Pousadas, Hotéis Rurais, Empreendimentos de Turismo no Espaço Rural, Empreendimentos de Turismo de habitação e Parques de Campismo e Caravanismo e equipamentos coletivos de interesse municipal, devem cumprir, cumulativamente, as seguintes condições:
+
+a) Área da parcela não inferior a 5.000 m2;
+
+b) A edificação deverá estar concentrada em 35 % da área do empreendimento;
+
+c) Número máximo de pisos não superior a dois (rés do chão +1) acima da cota de soleira;
+
+d) Os Hotéis, Pousadas e Hotéis Rurais construídos de raiz devem obedecer aos seguintes parâmetros:
+
+i) Mínimo de 3 estrelas;
+
+ii) Densidade Máxima 40 camas por hectares, excetuando as pousadas e os hotéis e hotéis rurais que resultem da reabilitação e renovação de edifícios preexistentes e de valia patrimonial;
+
+iii) Número máximo de camas: 200 camas;
+
+iv) Associar equipamentos de recreio e de lazer de ar livre.
+
+3 - Os Núcleos de Desenvolvimento Turísticos (NDT) devem observar as seguintes regras e parâmetros urbanísticos:
+
+a) Área mínima de 150.000 m2;
+
+b) Integrem atividades de recreio e de lazer ao ar livre;
+
+c) Mediante a aprovação prévia de Planos de Urbanização ou Planos de Pormenor, nos termos legais, e identificando os respetivos sistemas de execução, por forma a garantir a sua correta inserção na envolvente;
+
+4 - As unidades industriais isoladas, de armazenagem e comércio por grosso, de apoio à atividade agrícola, florestal e agropecuária, não enquadráveis nos Espaços Urbanos e Industriais, devem demostrar, caso a caso, o seu interesse para a economia do concelho, reconhecido pela Assembleia Municipal, e cumprir, cumulativamente, as seguintes condições:
+
+a) Área da parcela não inferior a 5000 m2;
+
+b) Área total de implantação inferior ou igual a 35 % da área total da parcela;
+
+c) Altura da fachada não superior ou igual a 7 metros, exceto em situações devidamente justificadas por necessidades produtivas ou tecnológicas.
+
+5 - A instalação de construções de caráter agropecuário e de caráter industriais que visem o aproveitamento ou valorização dos recursos agrícolas, devem cumprir, cumulativamente, as seguintes condições:
+
+a) Área total de implantação inferior ou igual a 35 % da área total da parcela;
+
+b) Altura da fachada não superior ou igual a 7 metros;
+
+c) Nas novas instalações agropecuárias deve garantir-se a criação de uma "cortina arbórea" de isolamento e proteção na envolvente da área edificada, através de arborização por espécies de folha perene, e ainda observar as orientações constantes na Estratégia Nacional para os Efluentes Agropecuários e Agroindustriais (ENEAPAI).
+
+6 - A edificação de anexos de apoio ao desenvolvimento das atividades agrícolas não pode exceder os 150 m2 de área de construção e uma altura de fachada, máxima, de 3 metros.
+
+7 - A instalação de infraestruturas que pela sua natureza não se possam localizar em solo urbano, nomeadamente ETARs, ecocentros ou subestações, postos de transformação, parque eólicos e outras, devem observar as disposições ambientais e paisagísticas decorrentes dos respetivos processos de licenciamento junto das entidades competentes, sendo as regras e os parâmetros urbanísticos aqueles que resultem das condições de funcionalidade e de operacionalidade exigidas ao normal funcionamento dessas infraestruturas específicas.
+
+###### Artigo 27.º-A — Espaços Agrícolas integrados na zona de proteção da albufeira de fronhas
+
+A identificação e o regime de ocupação e edificabilidade aplicável aos espaços agrícolas integrados na zona de proteção da albufeira de Fronhas estão definidos no Capítulo IX - Albufeira de Fronhas.
+
+#### SECÇÃO IV — Espaço Florestal
+
+###### Artigo 28.º — Caracterização do Espaço Florestal
+
+1 - Os espaços pertencentes a esta categoria correspondem a áreas ocupadas por povoamentos florestais, matos, áreas ardidas de povoamentos florestais, áreas de corte raso e os terrenos improdutivos ou estéreis do ponto de vista da existência de comunidades vegetais e de acordo com a classificação do Plano de Defesa da Floresta e do Plano Regional de Ordenamento Florestal do Pinhal Interior Norte.
+
+2 - Atendendo às suas características, o Espaço Florestal, de acordo com o PROF - Pinhal Interior Norte, abrange as seguintes funções:
+
+a) Função Produção exclusiva, que corresponde aos espaços florestais integrados na sub-região homogénea da Floresta do Vale do Alva;
+
+b) Função Recreio e Estética da Paisagem, que corresponde aos espaços florestais integrados na sub-região homogénea de Lousã e Açor.
+
+3 - Para a qualificação desta categoria de espaço importa considerar o seu ordenamento sectorial, tendo como objetivo fundamental assegurar a sua função ecológica, de proteção e de produção, podendo eventualmente aí ocorrer outras atividades que, não criando situações de incompatibilidade com o uso dominante, sejam dele complementares.
+
+###### Artigo 29.º — Estatuto de Uso e Ocupação do Solo
+
+1 - A edificabilidade no espaço florestal tem caráter excecional devendo restringir-se à edificação de suporte às atividades económicas associadas à valorização dos recursos naturais, ambientais, culturais e paisagísticos e/ou à promoção da multifuncionalidade dos espaços rurais, podendo, excecionalmente, admitir-se a instalação de outras atividades que contribuam para diversificar e reforçar a base económica e que pela sua natureza só possam ser instaladas em espaço florestal.
+
+2 - Nos espaços florestais são admissíveis:
+
+a) Anexos Florestais e Agrícolas;
+
+b) Habitação Unifamiliar para residência do silvicultor ou proprietário;
+
+c) Equipamentos e Infraestruturas territoriais que pela sua natureza e dimensão não se possam localizar em solo urbano, nomeadamente, ETARs, Ecocentros ou Subestações;
+
+d) Empreendimentos Turísticos Isolados e Núcleos de Desenvolvimento Turístico que assegurem a adequada inserção na morfologia do terreno e garantam a preservação das vistas;
+
+e) Atividades Industriais, apenas nos casos em que se relacione com atividades agroflorestais ou unidades agropecuárias, não enquadráveis nos Espaços Urbanos e Industriais existentes, e enquadrados em estudos urbanísticos adequados que garantam a correta inserção na envolvente;
+
+f) Exploração de Recursos Geológicos do domínio público do Estado, nos espaços identificados na Planta de Ordenamento - Classificação e Qualificação do Solo, como "Área Potencial";
+
+g) Instalações agropecuárias e pecuárias ou outras compatíveis com o espaço florestal.
+
+h) Implantação e Execução de infraestruturas, designadamente, de telecomunicações, de gás, de produção de energia e em especial de energias renováveis (hídrica, eólica e solar), de infraestruturas viárias e outras.
+
+3 - No espaço florestal os processos e projetos de arborização e/ rearborização devem observar as orientações dos PROF Pinhal Interior Norte, quanto às espécies e quanto aos modelos de exploração silvícola a adotar.
+
+###### Artigo 30.º — Regime de Edificabilidade
+
+1 - Pode ser admitida a construção de habitação unifamiliar cumprindo, cumulativamente, os seguintes parâmetros:
+
+a) Área mínima da parcela não inferior a 10.000 m2;
+
+b) Número máximo de pisos igual ou inferior a dois, acima da cota de soleira;
+
+c) Área de construção total que não exceda os 300 m2;
+
+2 - É admissível a instalação de empreendimentos turísticos nas tipologias Hotéis, Pousadas, Hotéis Rurais, Empreendimentos de Turismo no Espaço Rural, Empreendimentos de Turismo de habitação e Parques de Campismo e Caravanismo e equipamentos coletivos de interesse municipal, cumprindo, cumulativamente, as seguintes condições:
+
+a) Área da parcela não inferior a 15.000 m2;
+
+b) Área total de implantação inferior ou igual a 35 % da área total da parcela;
+
+c) Os Hotéis, Pousadas e Hotéis Rurais construídos de raiz devem obedecer aos seguintes parâmetros:
+
+i) Mínimo de 3 estrelas;
+
+ii) Densidade Máxima 40 camas por hectare;
+
+iii) Número máximo de camas: 200 camas;
+
+iv) Associar equipamentos de recreio e de lazer ao ar livre.
+
+3 - É admissível a instalação de Núcleos de Desenvolvimento Turísticos (NDT), desde que observem as seguintes regras e parâmetros urbanísticos:
+
+a) Área mínima de 150.000 m2;
+
+b) Integrem atividades de recreio e de lazer ao ar livre;
+
+c) Mediante a aprovação prévia de Planos de Urbanização ou Planos de Pormenor, nos termos legais, e identificando os respetivos sistemas de execução, por forma a garantir a sua correta inserção na envolvente;
+
+4 - São ainda admissíveis a instalação de unidades industriais isoladas não enquadráveis nos Espaços Urbanos e Industriais, desde que demonstrado, caso a caso, o seu interesse para a economia do concelho e reconhecido pela Assembleia Municipal, cumprindo, cumulativamente, as seguintes condições:
+
+a) Área da parcela não inferior a 15.000 m2;
+
+b) Área total de implantação inferior ou igual a 35 % da área total da parcela;
+
+c) Altura da fachada não superior a 7 metros, exceto em situações devidamente justificadas por necessidades produtivas ou tecnológicas.
+
+5 - É admissível a instalação de unidades agropecuárias desde que cumpram, cumulativamente, as seguintes condições:
+
+a) Área total de implantação inferior ou igual a 25 % da área total da parcela;
+
+b) Altura da fachada não superior ou igual a 7 metros;
+
+c) Nas novas instalações agropecuárias deve garantir-se a criação de uma "cortina verde" de isolamento e proteção na envolvente da área edificada, através de arborização por espécies de folha perene, e ainda observar as orientações constantes na Estratégia Nacional para os Efluentes Agropecuários e Agroindustriais (ENEAPAI).
+
+6 - São ainda admissíveis nos espaços florestais a edificação de anexos de apoio ao desenvolvimento das atividades silvícolas desde que não excedam os 150 m2 de área de construção e até uma altura de fachada, máxima, de 3 metros.
+
+7 - A instalação de infraestruturas que pela sua natureza não se possam localizar em solo urbano, nomeadamente ETARs, ecocentros ou subestações, postos de transformação, parque eólicos e outras, devem observar as disposições ambientais e paisagísticas decorrentes dos respetivos processo de licenciamento junto das entidades competentes, sendo as regras e os parâmetros urbanísticos aqueles que resultem das condições de funcionalidade e de operacionalidade exigidas ao normal funcionamento dessas infraestruturas específicas.
+
+###### Artigo 30.º-A — Espaços florestais integrados na zona de proteção da albufeira de Fronhas
+
+A identificação e o regime de ocupação e edificabilidade aplicável aos espaços florestais integrados na zona de proteção da albufeira de Fronhas estão definidos no Capítulo IX - Albufeira de Fronhas.
+
+#### SECÇÃO V — Espaços de Exploração de Recursos Geológicos
+
+###### Artigo 31.º — Identificação dos Espaços de Exploração de Recursos Geológicos
+
+1 - Os espaços de exploração de recursos geológicos existentes no concelho, destinam-se à exploração dos recursos minerais do solo e subsolo e estão devidamente assinalados na Planta de Ordenamento.
+
+2 - Os espaços assinalados na Planta de Ordenamento como "Áreas Potenciais" destinam-se, preferencialmente, à instalação de atividades de exploração dos recursos minerais do solo e subsolo, mediante o cumprimento e enquadramento da legislação específica em vigor.
+
+###### Artigo 32.º — Regime de Edificabilidade
+
+1 - Nos espaços afetos à exploração de recursos geológicos é admissível a instalação dos respetivos anexos, armazéns, escritório e de estabelecimentos Industriais para transformação dos recursos extraídos da área objeto de exploração, desde que enquadrados em projetos e planos de exploração, com indicação dos posteriores projetos ambientais de requalificação paisagística e de acordo com o definido no quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/07/135000001/0000200080.pdf)
+
+2 - O acesso e o abandono da atividade de pesquisa e de exploração de recursos geológicos faz-se no âmbito do cumprimento da legislação específica em vigor, devendo atender-se ao uso e ocupação do solo dominante.
+
+3 - Esta categoria abrange as áreas de extração e as necessárias à atividade, incluindo atividades afins, nomeadamente. os anexos e outras ocupações conexas com a transformação, bem como áreas complementares funcionalmente destinadas ao conhecimento, salvaguarda e valorização dos recursos geológicos.
+
+4 - Sem prejuízo da legislação em vigor, as explorações de recursos geológicos devem observar os seguintes afastamentos:
+
+a) 200 metros ao eixo de estradas nacionais e municipais;
+
+b) 100 metros a outras estradas e caminhos municipais;
+
+c) 500 metros aos limites do perímetro urbano e dos aglomerados rurais.
+
+#### SECÇÃO VI — Espaços de Ocupação Turística
+
+###### Artigo 33.º — Caracterização dos Espaços de Ocupação Turística
+
+Os Espaços de Ocupação Turística identificados na Planta de Ordenamento caracterizam-se pela reserva estratégica de terrenos para instalação e execução futura de novos espaços de utilização para fins turísticos.
+
+###### Artigo 34.º — Regime de Edificabilidade
+
+1 - As intervenções ficam condicionadas à definição de um programa de forte e reconhecida componente turística que envolva, nomeadamente, Empreendimentos Turísticos Isolados e Núcleos de Desenvolvimento Turístico em espaço rural, desportos/lazer e Estabelecimentos Hoteleiros, podendo a Câmara Municipal, em função da oportunidade e da sobrecarga das infraestruturas, condicionar tais intervenções à constituição de um estrutura permanente para a gestão e exploração e/ou da garantia, por parte dos promotores, da execução, manutenção e gestão de todas as redes de infraestruturas;
+
+2 - As intervenções referidas no ponto anterior ficam ainda condicionadas ao cumprimento dos seguintes parâmetros urbanísticos:
+
+a) Índice de ocupação máximo de 0.20;
+
+b) Número máximo de pisos de 2 acima da cota de soleira, com exceção dos estabelecimentos hoteleiros onde são admissíveis os 4 pisos acima da cota de soleira;
+
+c) Programa de forte e reconhecida componente turística que envolva, nomeadamente, turismo em espaço rural, desportos/lazer e estabelecimentos hoteleiros ou outro equipamento âncora que o Município aceite como relevante e oportuno;
+
+3 - Nas intervenções não territorializadas na Planta de Ordenamento, para as quais se indica a intenção de localização do projeto de investimento, a sua concretização fica condicionada a uma área mínima de intervenção de 2 hectares;
+
+###### Artigo 34.º-A — Espaços de ocupação turística integrados na zona de proteção da albufeira de Fronhas
+
+A identificação e o regime de ocupação e edificabilidade aplicável aos espaços de ocupação turística na zona de proteção da albufeira de Fronhas estão definidos no Capítulo IX - Zona de proteção da Albufeira de Fronhas.
+
+#### SECÇÃO VII — Aglomerados Rurais
+
+###### Artigo 35.º — Caracterização dos Aglomerados Rurais
+
+Os aglomerados rurais identificados na Planta de Ordenamento caracterizam-se pela existência de pequenos núcleos de edificações concentrados, servidos de arruamentos de uso público, com funções residenciais e de apoio a atividades localizadas em solo rural, onde se registam algumas carências ao nível das infraestruturas básicas, viárias e outras, que não lhe conferem uma imagem de cariz urbano.
+
+###### Artigo 36.º — Estatuto de Uso e Ocupação do Solo
+
+1 - Nestes espaços coexistem usos agrícolas com funções urbanas, e permite-se um regime de edificabilidade intermédio entre o do solo rural e o do solo urbano, desde que rigorosamente salvaguardados os valores paisagísticos e ambientais.
+
+2 - São permitidas nos Aglomerados Rurais as seguintes ocupações e utilizações:
+
+a) Obras de reconstrução, conservação e ampliação de edifícios existentes licenciados ou legalizados, independentemente do seu uso;
+
+b) Novas construções para habitação unifamiliar, comércio, serviços e outros usos compatíveis, nomeadamente, a instalação de equipamentos ou atividades de apoio e de revitalização do mundo rural;
+
+c) Anexos Agrícolas e Pecuários de apoio à atividade na parcela;
+
+d) Equipamentos de Utilização Coletiva, desde que reconhecido o interesse municipal;
+
+e) Empreendimentos de turismo no espaço rural (incluindo hotéis rurais construídos de raiz, turismo de habitação, pousadas) e alojamento local;
+
+f) Armazéns, oficinas e outras edificações desde que relacionadas com a proteção civil.
+
+###### Artigo 37.º — Regime de Edificabilidade
+
+A edificabilidade em parcela constituída nos Aglomerados Rurais, quando admitida, fica condicionada ao cumprimento dos seguintes parâmetros urbanísticos:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/07/135000001/0000200080.pdf)
+
+###### Artigo 37.º-A — Aglomerados rurais integrados na zona de proteção da albufeira de Fronhas e na área da paisagem protegida da Serra do Açor
+
+Nos aglomerados rurais abrangidos pela zona de proteção da albufeira de Fronhas e na área de paisagem protegida da Serra do Açor, aplica-se o regime de ocupação e edificabilidade estabelecido no artigo anterior.
+
+### CAPÍTULO V — Solo Urbano
+
+#### SECÇÃO I — Disposições Gerais
+
+###### Artigo 38.º — Caracterização geral do Solo Urbano
+
+1 - A classe de Solo Urbano compreende como categorias operativas, os solos urbanizados e os solos urbanizáveis, que no seu conjunto constituem o perímetro urbano. Estas categorias operativas integram como categorias funcionais, o Espaço Central, o Espaço Residencial, o Espaço Urbano de Baixa Densidade, o Espaço de Atividade Económica, o Espaço Verde, e o Espaço de Uso Especial que se encontra subdividido nas subcategorias áreas destinadas a equipamentos e áreas destinadas a turismo.
+
+2 - Os Solos Urbanizados correspondem a áreas infraestruturadas onde se registam concentrações de construção, com funções habitacionais, comerciais, turísticas, industriais, serviços e a estrutura verde urbana, áreas estas que podem apresentar necessidade de intervenções de diversa índole, designadamente, para consolidação, para recuperação ou de salvaguarda.
+
+3 - Os Solos urbanizáveis correspondem a solos cuja urbanização é possível programar, podendo vir a adquirir as características dos solos Urbanizados, a curto ou médio prazo, através de instrumentos de planeamento adequados, nomeadamente, planos de urbanização, planos de pormenor ou unidades de execução.
+
+###### Artigo 38.º-A — Zona de proteção da albufeira de Fronhas
+
+Ao solo urbano abrangido pela zona de proteção da Albufeira de Fronhas são aplicáveis as disposições estabelecidas no Capítulo IX, que prevalecem sobre as demais regras estabelecidas no presente Regulamento.
+
+###### Artigo 38.º-B — Área de paisagem protegida da Serra do Açor
+
+Ao solo urbano inserido na área da paisagem protegida da Serra do Açor são aplicáveis as disposições estabelecidas para a respetiva categoria de espaço, de acordo com o estabelecido no presente regulamento.
+
+#### SECÇÃO II — Solo Urbanizado
+
+###### Artigo 39.º — Disposições Gerais
+
+1 - Na ampliação ou na construção de novos edifícios em frente urbana consolidada, deve considerar-se o enquadramento no alinhamento dominante e na moda da cércea e das formas de relação do edifício com o espaço público na frente urbana em que o prédio se integra.
+
+2 - Excetuam-se do número anterior as situações em que o Município já tenha estabelecido ou venha a estabelecer novos alinhamentos, através de instrumento adequado para o efeito, necessários a:
+
+a) Reperfilamento do arruamento confrontante;
+
+b) Correção do traçado do espaço público;
+
+c) Reordenamento urbanístico do local da intervenção.
+
+3 - Na ausência de frente urbana consolidada referida no número um, ou em operações de loteamento, aplicam-se os parâmetros de edificabilidade definidos para cada subcategoria de espaço.
+
+4 - Excetuam-se dos números 1 e 3 as situações de colmatação, nas quais as novas construções ou as ampliações de edifícios existentes respeitam os alinhamentos dos edifícios contíguos e estabelecem a articulação volumétrica desses mesmos edifícios.
+
+5 - Nas situações de ampliação ou de construção em parcelas ou lotes não edificados, devem ser ponderados as condições decorrentes do aumento do número de fogos, ou das superfícies para outras funções, atendendo à capacidade de estacionamento público, dos acessos viários e dos equipamentos coletivos, cuja insuficiência constitui fundamento para o indeferimento das mesmas operações urbanísticas, nos termos da lei em vigor.
+
+6 - Os usos e atividades existentes com licenciamento aprovado à data da entrada em vigor do PDMA, que não se compatibilizem com o estatuto de uso e ocupação definido nos números anteriores, podem ser objeto de obras de reconstrução, não sendo admitida a alteração de uso, nem alterações de cérceas ou volumes de construção, a não ser que em situação devidamente justificada pela necessidade de introdução de melhorias das condições de habitabilidade e funcionalidade existentes, salvaguardando sempre o enquadramento urbano - paisagístico do local.
+
+##### SUBSECÇÃO I — Espaço Central
+
+###### Artigo 40.º — Identificação
+
+Esta categoria de espaço central é atribuída aos Solos Urbanizados que apresentam e revelam aptidões para uma elevada concentração de construção, funções, população e infraestruturas e que corresponde ao espaço urbano central da Vila de Arganil.
+
+###### Artigo 41.º — Estatuto de Uso e Ocupação do Solo
+
+1 - Os espaços classificados como espaço central destinam-se à localização e implantação de atividades, funções e instalações com fins habitacionais, incluindo anexos, comerciais, serviços, turismo e mobiliário urbano, incluindo equipamentos de utilização coletiva, públicos ou privados, edificados ou não, e ainda indústrias compatíveis com a envolvente urbana.
+
+2 - Na área correspondente ao núcleo antigo dos aglomerados urbanos devem ser elaborados instrumentos de gestão territorial e/ou delimitadas Unidades de Execução, que definam orientações a nível de projeto e intervenções urbanas, nomeadamente no que respeita ao espaço público, aos materiais e a adequabilidade ao sítio dos projetos.
+
+3 - As intervenções urbanísticas devem ter particular incidência na organização e qualificação da imagem urbana e do espaço público, organização e sentidos de tráfego, salvaguarda do edificado e da paisagem urbana e instalação de mobiliário urbano.
+
+###### Artigo 42.º — Regime de Edificabilidade
+
+Sem prejuízo do disposto no artigo 39.º, consideram-se ainda os seguintes parâmetros e exceções para a aferição da edificabilidade nestas áreas:
+
+a) A altura máxima da fachada: a dominante, 4 pisos acima da cota de soleira ou 12 metros;
+
+b) Número máximo de pisos admitido abaixo da cota de soleira é de 1 e, excecionalmente e em função das características topográficas do local o número de pisos abaixo da cota de soleira pode ser superior a 1.
+
+c) O Índice Máximo de Utilização do Solo, deverá ter em conta a dominante e não deve exceder 1.5;
+
+d) Admitem-se exceções na definição do número máximo de pisos, desde que a natureza das edificações a construir e as suas características arquitetónicas e ou de funcionalidade, assim o justifiquem.
+
+##### SUBSECÇÃO II — Espaço Residencial
+
+###### Artigo 43.º — Identificação e Qualificação
+
+A qualificação do Espaço Residencial compreende os espaços complementares ao espaço central, apresentando menor densidade de ocupação e uma estrutura urbana linear, que se caracterizam fundamentalmente pela função habitacional, bem como para a instalação de equipamentos de utilização coletiva, de iniciativa pública ou privada.
+
+###### Artigo 44.º — Estatuto de Uso e Ocupação do Solo
+
+Consideram-se Espaços Residenciais as áreas que se destinam, preferencialmente, as funções residenciais, podendo acolher outros usos desde que compatíveis com a utilização dominante, nomeadamente, equipamentos de utilização coletiva, comércio, serviços, turismo, armazenagem e indústrias.
+
+###### Artigo 45.º — Regime de Edificabilidade
+
+Para aplicação do disposto no n.º 3 do artigo 39, consideram-se os seguintes parâmetros e orientações urbanísticas:
+
+a) A altura máxima da fachada: a dominante, 3 pisos acima da cota de soleira ou 10 metros;
+
+b) Número máximo de pisos admitido abaixo da cota de soleira é de 1 e, excecionalmente e em função das características topográficas do local o número de pisos abaixo da cota de soleira pode ser superior a 1.
+
+c) Índice Máximo de Utilização do Solo: 1,35
+
+##### SUBSECÇÃO III — Espaço Urbano de Baixa Densidade
+
+###### Artigo 46.º — Identificação
+
+1 - O Espaço Urbano de Baixa Densidade integra os espaços urbanos de significativa relação entre o meio urbano e o meio rural, caracterizados por um nível médio ou baixo de infraestruturação, baixa densidade populacional e reduzido nível de funções urbanas, e de forte dependência funcional com os aglomerados urbanos da sede de concelho.
+
+2 - O Espaço Urbano de Baixa Densidade, corresponde aos aglomerados urbanos, nomeadamente Anceriz, Barril de Alva, Benfeita, Celavisa, Cepos, Cerdeira, Folques, Moura da Serra, Piódão, Pombeiro da Beira, Sarzedo, Secarias, Teixeira, Vila Cova de Alva e Pardieiros, que se caracterizam fundamentalmente pela função habitacional.
+
+###### Artigo 47.º — Estatuto de Uso e Ocupação do Solo
+
+Os espaços classificados como Espaço Urbano Baixa Densidade destinam-se à localização e implantação de atividades com fins habitacionais, mas onde se identifica a existência outras funções compatíveis, nomeadamente, comerciais, de serviços, turismo, incluindo equipamentos de utilização coletiva, públicos ou privados, edificados ou não, e ainda indústrias, compatíveis com a envolvente urbana, e instalações agrícolas e pecuárias já existentes.
+
+###### Artigo 48.º — Regime de Edificabilidade
+
+1 - Sem prejuízo do disposto no artigo 39.º, consideram-se para o Espaço Urbano de Baixa Densidade, os seguintes parâmetros e orientações urbanísticas:
+
+a) A altura máxima da fachada: 2 pisos acima da cota de soleira ou 7 metros;
+
+b) Número máximo de pisos admitido abaixo da cota de soleira é de 1 e, excecionalmente e em função das características topográficas do local o número de pisos abaixo da cota de soleira pode ser superior a 1.
+
+c) Admite-se o 3.º piso acima da cota de soleira, desde que enquadrado por soluções urbanísticas associadas à criação de praças ou arranjos de espaço público, ou quando este seja recuado relativamente ao alçado principal.
+
+d) Índice máximo de ocupação do solo: 0,4;
+
+e) Índice máximo de utilização do solo: 0,7;
+
+f) Tipologias habitacionais, moradias unifamiliares, isoladas, geminadas ou em banda;
+
+g) Nas operações de loteamento não poderão ser constituídos lotes com área inferior a 500 m2;
+
+###### Artigo 48.º-A — Espaço Urbano de Baixa Densidade integrados na zona de proteção da albufeira de Fronhas
+
+A identificação e o regime de uso, ocupação e edificabilidade aplicável ao espaço urbano de baixa densidade na zona de proteção da albufeira de Fronhas estão definidos no Capítulo IX - Zona de proteção da Albufeira de Fronhas."
+
+###### Artigo 48.º-B — Espaço Urbano de Baixa Densidade integrados na área de paisagem protegida da Serra do Açor
+
+A identificação e o regime de uso, ocupação e edificabilidade aplicável ao espaço urbano de baixa densidade na área de paisagem protegida da Serra do Açor, são os definidos na respetiva categoria de espaço.
+
+##### SUBSECÇÃO IV — Espaço de Uso Especial - Equipamento
+
+###### Artigo 49.º — Identificação
+
+A categoria de Espaços de Uso Especial - Equipamento é atribuída aos espaços urbanizados que apresentam e revelam aptidão para uma concentração de equipamentos de utilização coletiva estruturantes e de âmbito concelhio.
+
+###### Artigo 50.º — Estatuto de Uso e Ocupação do Solo
+
+Os Espaços de Uso Especial destinam-se, preferencialmente, à localização e implantação de equipamentos públicos ou privados, admitindo-se também a instalação de atividades comerciais e de serviços de apoio aos equipamentos.
+
+###### Artigo 51.º — Regime de Edificabilidade
+
+Sem prejuízo do disposto no artigo 39.º, consideram-se ainda os seguintes parâmetros para a aferição da edificabilidade nestas áreas:
+
+a) A altura máxima da fachada: 2 pisos acima da cota de soleira;
+
+b) Número máximo de pisos admitido abaixo da cota de soleira é de 1 e, excecionalmente e em função das características topográficas do local o número de pisos abaixo da cota de soleira pode ser superior a 1.
+
+c) Índice Máximo de Utilização do Solo: 0,6.
+
+##### SUBSECÇÃO V — Espaço de Uso Especial - Turismo
+
+###### Artigo 52.º — Identificação
+
+A categoria de Espaços de Uso Especial - Turismo é atribuída às áreas que apresentam um elevado potencial para instalação de empreendimentos turísticos, equipamentos e atividades de desporto e lazer.
+
+###### Artigo 53.º — Estatuto de Uso e Ocupação do Solo
+
+Os Espaços de Uso Especial - Turismo destinam-se, preferencialmente, à localização e implantação de empreendimentos turísticos, equipamentos e atividades de desporto e lazer e admitem, também, a instalação do uso de atividades comerciais e serviços complementares aos empreendimentos turísticos e atividades de âmbito turístico.
+
+###### Artigo 54.º — Regime de Edificabilidade
+
+Sem prejuízo do disposto no artigo 39.º, consideram-se ainda os seguintes parâmetros e exceções para a aferição da edificabilidade nestas áreas:
+
+a) A altura máxima da fachada: 2 pisos acima da cota de soleira;
+
+b) Número máximo de pisos admitido abaixo da cota de soleira é de 1 e, excecionalmente e em função das características topográficas do local o número de pisos abaixo da cota de soleira pode ser superior a 1.
+
+c) Índice Máximo de Utilização do Solo: 0,7.
+
+d) A necessidade de uma intervenção para a globalidade da área implica, necessariamente, a elaboração de estudo urbanístico adequado, Plano de Pormenor ou Unidade de Execução, que deve estabelecer o modelo de ocupação e as regras de edificabilidade a observar.
+
+##### SUBSECÇÃO VI — Espaço de Atividade Económica
+
+###### Artigo 55.º — Identificação e Qualificação
+
+1 - O Espaço de Atividades Económicas integra as áreas vocacionadas para a instalação de atividades económicas, nomeadamente, indústria, armazenagem, oficinas, comércio e serviços, designadamente:
+
+a) A zona industrial da Relvinha, freguesia de Sarzedo;
+
+b) A zona industrial de Côja, União de freguesias de Côja e Barril de Alva;
+
+c) A zona industrial de Vale de Zebras, freguesia de Arganil;
+
+d) A zona industrial de Vale de Fojo, freguesia de S. Martinho da Cortiça.
+
+2 - A instalação de novos estabelecimentos industriais deve garantir soluções que visem o uso eficiente da água, bem como o adequado tratamento de efluentes, adotando, quando for economicamente viável, as melhores tecnologias disponíveis.
+
+###### Artigo 56.º — Estatuto de Uso e Ocupação do Solo
+
+1 - Os espaços classificados como Espaço de Atividades Económicas revelam aptidão para uma elevada concentração de atividades industriais, de armazenagem, empresariais e de serviços, com as adequadas condições de infraestruturação, equipamentos, equipamentos hoteleiros e serviços de apoio.
+
+2 - Admitem, ainda, instalações de operações de gestão de resíduos, desde que observem os seguintes requisitos:
+
+a) Drenagem pluvial de áreas impermeáveis;
+
+b) Drenagem interna de zonas permeáveis de depósito;
+
+c) Tratamento adequado dos efluentes referidos nas alíneas anteriores, previamente à sua descarga na rede pública ou meio recetor;
+
+d) Plantação de uma cortina arbórea periférica contínua, que envolva a totalidade da área do parque com uma faixa de 10 m de largura e, no mínimo, 2 fiadas intercaladas de árvores (preferencialmente do género Cupressus, e/ou Thuya.
+
+###### Artigo 57.º — Regime de Edificabilidade
+
+Os parâmetros urbanísticos a considerar para a edificabilidade destas áreas são os seguintes:
+
+a) O índice de ocupação do solo, máximo do lote não pode ser superior a 60 % da sua área total;
+
+b) A implantação dos edifícios deverá respeitar os afastamentos mínimos aos limites do lote ou parcela de 5 metros;
+
+c) Excecionalmente podem admitir-se outros afastamentos mínimos ao limite do lote, desde que tecnicamente justificados e se revelem indispensáveis ao funcionamento normal das atividades;
+
+d) A Altura da fachada máxima admitida é de 12 metros;
+
+e) Em situações excecionais, por razões de ordem técnica do exercício da atividade instalada e desde que tecnicamente fundamentada e devidamente justificada, a altura absoluta pode exceder o parâmetro definido na alínea anterior.
+
+###### Artigo 57.º-A — Espaço de Atividades Económicas integrado na zona de proteção da albufeira de Fronhas
+
+A identificação e o regime de uso, ocupação e edificabilidade aplicável ao espaço de atividades económicas na zona de proteção da albufeira de Fronhas está definido no Capítulo IX - Zona de proteção da Albufeira de Fronhas."
+
+##### SUBSECÇÃO VII — Espaço Verde
+
+###### Artigo 58.º — Identificação e Qualificação
+
+A categoria de Espaço Verde coincide com a Estrutura Ecológica urbana e compreende os espaços verdes de utilização coletiva e conjuntos vegetais existentes no espaço público que encerram algumas práticas agrícolas, com a função de ligação entre os diferentes sistemas da estrutura ecológica municipal.
+
+###### Artigo 59.º — Estatuto de Uso e Ocupação do Solo
+
+O Espaço Verde admite a instalação de pequenos equipamentos e infraestruturas de apoio, desde que compatíveis com a vocação destas áreas, com funções de equilíbrio ecológico e de acolhimento de atividades ao ar livre de recreio, lazer, desporto e cultura, correspondendo aos principais espaços públicos vocacionados para o recreio e o lazer, como espaços de parque, jardins, principais praças e largos.
+
+###### Artigo 60.º — Regime de Edificabilidade
+
+A edificabilidade no Espaço Verde fica condicionada à instalação de pequenos equipamentos de apoio, nomeadamente, Parques Infantis, Quiosques ou Instalações Sanitárias e respetivo mobiliário urbano, e estruturas de apoio à atividade agrícola, desde que o Índice Máximo de Utilização do Solo não seja superior a 0,2 e sem prejuízo do regime aplicável aos solos em REN e do disposto sobre Zonas Inundáveis no artigo 14.º deste regulamento.
+
+#### SECÇÃO III — Solo Urbanizável
+
+###### Artigo 61.º — Disposições Gerais
+
+1 - Os solos urbanizáveis integram as áreas necessárias para a expansão dos aglomerados urbanos, e no qual a urbanização é sempre precedida de programação, onde se visa a criação de uma estrutura urbana ordenada e devidamente infraestruturada, podendo ser objeto de transformação em solos urbanizados, mediante a elaboração de instrumentos de planeamento adequados, nomeadamente, Planos de Pormenor, Unidades de Execução e Operações de Loteamento.
+
+2 - A programação da urbanização do solo processa-se através da delimitação de unidades de execução e da inscrição do correspondente programa de execução no plano de atividades municipal e, quando aplicável, no orçamento municipal.
+
+3 - Todas as intervenções devem garantir e demonstrar a compatibilidade e inserção na área urbana envolvente, nomeadamente, com o tecido urbano consolidado, designadamente, e no que respeita a rede viária e infraestruturas, programação de equipamento público, tipologias de edificação e estrutura e continuidade do espaço público.
+
+4 - Enquanto não estiverem em vigor os Planos de Pormenor e/ou a Unidades de Execução referidas no ponto 1, a Câmara Municipal pode, supletivamente, permitir operações urbanísticas avulsas de licenciamento em parcela constituída, quando digam respeito a parcelas situadas em contiguidade com a zona urbanizada ou com áreas que tenham adquirido características semelhantes àquela através de ações de urbanização ou edificação, e desde que o Município considere que as soluções propostas asseguram uma correta articulação formal e funcional com a zona urbanizada e não prejudicam o ordenamento urbanístico da área envolvente, nomeadamente, áreas que disponham de acesso público e relação com a estrutura urbana existente e possibilitem a articulação e ligação às redes públicas de infraestruturas.
+
+5 - Nas situações referidas no número anterior aplicam-se os parâmetros e as regras urbanísticas dos espaços urbanizados correspondentes.
+
+##### SUBSECÇÃO I — Espaço Residencial
+
+###### Artigo 62.º — Identificação
+
+A categoria de Espaço Residencial é atribuída aos Solos Programados das áreas edificadas em aglomerados de características marcadamente rurais, caracterizados por um nível médio de infraestruturação, baixa densidade populacional e reduzido nível de funções urbanas, correspondendo a uma estrutura edificada com envolvência rural, onde se programa a implementação de novas infraestruturas, equipamentos e organização de espaços públicos, correspondendo, predominantemente, ao espaço urbano programado de algumas sedes de freguesia.
+
+###### Artigo 63.º — Regime de Edificabilidade
+
+Consideram-se os seguintes parâmetros para a aferição da edificabilidade nestas áreas a aplicar apenas em operações de loteamento e unidades de execução:
+
+a) A altura máxima da fachada: 2 pisos acima da cota de soleira, admitindo-se 3 pisos em situações excecionais, desde que enquadrado em intervenções urbanísticas de conjunto, que abranjam uma área não inferior a 5.000 m2, na envolvente de espaços públicos: praças ou largos, existentes ou propostos, ou associado a novas intervenções, que promovam o incentivo à criação de novos espaços públicos: praças ou largos, com uma área mínima de 1000 m2;
+
+b) Número máximo de pisos admitido abaixo da cota de soleira é de 1 e, excecionalmente e em função das características topográficas do local o número de pisos abaixo da cota de soleira pode ser superior a 1;
+
+c) Número máximo de fogos/hectare - 30;
+
+d) Índice Máximo de Utilização do Solo - 0,8;
+
+e) Índice Máximo de Ocupação do Solo - 0,6.
+
+##### SUBSECÇÃO II — Espaço de Uso Especial - Áreas Destinadas a Equipamentos
+
+###### Artigo 64.º — Identificação
+
+A categoria de Espaço de Uso Especial - Área Destinada a Equipamento é atribuída às áreas de expansão da categoria de Espaço de Equipamento e destinam-se, preferencialmente, à localização e implantação de equipamentos públicos ou privados, admitindo-se também a instalação de atividades de armazenagem, comerciais e de serviços essenciais à dinamização da área, cuja área de influência extravasa os limites do concelho.
+
+###### Artigo 65.º — Regime de Edificabilidade
+
+1 - Para estas áreas deve ser garantido:
+
+a) O tratamento paisagístico do sítio e lhe confira a valência de espaço público;
+
+b) Os parâmetros de edificabilidade associados às edificações não podem exceder o Índice Máximo de Ocupação do Solo de 0,3 e a altura da fachada máxima admissível, é a correspondente a 2 pisos acima da cota de soleira ou 7 metros, podendo variar em função da tipologia do equipamento, desde que devidamente justificado;
+
+c) No caso de execução de equipamentos vocacionados para o recreio e lazer ao ar livre, designadamente, parques infantis, campos de jogos, parques de merendas e outros, apenas devem garantir que o índice de impermeabilização não exceda 0,5.
+
+##### SUBSECÇÃO III — Espaço de Atividade Económica
+
+###### Artigo 66.º — Identificação
+
+1 - A categoria de Espaço de Atividades Económicas é atribuída aos espaços que apresentam e revelam aptidão para uma elevada concentração de atividades industriais, de armazenagem, empresariais e serviços com as adequadas condições de infraestruturação, equipamentos e serviços de apoio.
+
+2 - A categoria de Espaço de Atividades Económicas integra a reserva estratégica de terrenos para a expansão e/ou instalação e execução futura de novos polos empresariais, designadamente:
+
+a) Expansão da Zona Industrial da Relvinha;
+
+b) Expansão Zona Industrial de Côja;
+
+c) A expansão da Zona Industrial de Vale de Fojo.
+
+3 - A instalação de novos estabelecimentos industriais deve garantir soluções que visem o uso eficiente da água, bem como o adequado tratamento de efluentes, adotando, quando for economicamente viável, as melhores tecnologias disponíveis.
+
+###### Artigo 67.º — Regime de Edificabilidade
+
+A edificabilidade nestas áreas fica condicionada ao cumprimento dos seguintes parâmetros urbanísticos:
+
+a) O índice máximo de ocupação do lote não pode ser superior a 70 % da sua área total;
+
+b) O índice máximo de impermeabilização ao lote não pode ser superior a 90 % da sua área total;
+
+c) O índice máximo de utilização do solo: 1,0.
+
+d) A altura da edificação máxima é de 12 metros;
+
+e) Excecionalmente, por razões de ordem técnica do exercício das atividades instaladas e devidamente justificadas, o parâmetro definido na alínea anterior pode assumir outros valores;
+
+f) Existência de zonas ajardinadas de enquadramento de área não inferior a 5 % da área do lote.
+
+### CAPÍTULO VI — Espaços Canais
+
+###### Artigo 68.º — Caracterização
+
+Estes espaços correspondem aos corredores de passagem de infraestruturas, nomeadamente, rede viária, rede de abastecimento de água, rede de águas residuais, rede de abastecimento de gás e rede elétrica.
+
+#### SECÇÃO I — Rede Viária
+
+###### Artigo 69.º — Hierarquia da Rede Viária
+
+1 - A hierarquia da rede rodoviária para o concelho de Arganil, definida na planta de ordenamento do PDMA, resulta da importância que cada uma das vias desempenha na estrutura viária concelhia.
+
+2 - A rede viária no concelho de Arganil apresenta os seguintes níveis:
+
+a) Rede Nacional Complementar, constituída pelos itinerários complementares (IC) e pelas Estradas Nacionais (EN), incluindo itinerários desclassificados a integrar a rede municipal;
+
+b) Estrada Regional, constituída pelas comunicações públicas rodoviárias com interesse supramunicipal e complementar à Rede Rodoviária Nacional;
+
+c) Rede Municipal, constituída pelas vias municipais que estabelecem ligações principais entre os diversos aglomerados urbanos e a rede de Estradas Nacionais;
+
+d) Vias Urbanas ou Rurais, constituída pelas restantes vias urbanas e caminhos municipais não integrados na Rede Nacional Complementar e na Rede Municipal, consoante se encontre inserida em espaço urbano ou rural.
+
+3 - Para uma melhor adaptação ao regime cadastral e/ou opções urbanísticas, os traçados das vias municipais propostas podem ser alterados, desde que se garanta o respeito pela continuidade sugerida, pela quantidade de espaço reservado e pela funcionalidade implícita desses eixos.
+
+4 - A alteração implicará sempre a integração das áreas na classe de espaço marginante.
+
+5 - Nos troços de vias municipais existentes, para os quais não exista regulamentação aprovada em Planos Municipais aprovados, a Câmara Municipal fica obrigada a estabelecer os respetivos alinhamentos.
+
+6 - Todos os acessos públicos constituídos para serventia de habitações e que não tenham saída, só são permitidos se assegurarem um arranjo de espaço público que permita a inversão de marcha de veículos ligeiros e veículos de proteção civil.
+
+###### Artigo 70.º — Áreas de Proteção da Rede Viária
+
+1 - Consideram-se áreas de proteção à rede viária, os espaços destinados a proteger as vias de ocupações demasiadas próximas que afetem a segurança do trânsito e visibilidade e por outro lado, salvaguardar a implantação das vias previstas ou o alargamento das existentes.
+
+2 - As áreas de proteção das vias e caminhos municipais têm caráter non aedificandi, até à aprovação dos projetos de execução da construção das vias previstas ou alargamento das vias existentes, ou até à aprovação de um Plano de Alinhamentos.
+
+3 - Tendo em consideração a hierarquização definida para a rede viária, estabelece-se as seguintes áreas de proteção das vias e caminhos municipais existentes ou previstas, para terrenos localizados fora do perímetro urbano, medidas a partir do limite da plataforma da via:
+
+a) Rede Nacional Complementar (IC6) - de acordo com a legislação em vigor;
+
+b) Rede Nacional Complementar (EN17, EN342, EN342-4) - de acordo com a legislação em vigor;
+
+c) Estradas Regionais (ER342) - de acordo com a legislação em vigor;
+
+d) Rede Municipal (EM) - de acordo com o definido em Regulamento Municipal;
+
+e) Estrada Desclassificada (EN17, EN337, EN344) - de acordo com a legislação em vigor.
+
+4 - Ás estradas e ligações que pertencem à rede rodoviária nacional aplicam-se as disposições legais em vigor, nomeadamente as que sujeitam qualquer intervenção direta e indireta nestas vias a parecer e aprovação das entidades competentes.
+
+5 - Ás estradas desclassificadas aplica o disposto no [Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712) de 23 de janeiro até à sua efetiva transferência para a jurisdição da Câmara Municipal.
+
+6 - Na rede viária municipal existente e prevista, localizada dentro dos perímetros urbanos, sempre que as características da infraestrutura viária (arruamento, estacionamento e passeios) não garantam as melhores condições de circulação e mobilidade, automóvel e/ou pedonal, a Câmara Municipal poderá determinar um plano de alinhamentos, para as construções a realizar nos terrenos confinantes com a infraestrutura viária, salvaguardando deste modo uma futura intervenção a realizar sobre a mesma.
+
+7 - Até à data da publicação do ato declarativo de utilidade pública dos terrenos e da respetiva planta parcelar, nos termos do artigo 3.º do DL n.º 13 /94, de 15 de janeiro, mantêm o corredor de proteção para construção da variante à EN 342 Lousã/Góis/Arganil e à ER 342 Arganil/Côja, determinado pela declaração (extrato) n.º 92/2010, publicada no Diário da República n.º 72, 2.ª série, de 14 de abril de 2010.
+
+###### Artigo 71.º — Áreas de Serviço e Postos de Abastecimento de Combustível Públicos
+
+1 - As áreas de serviço e os postos de abastecimento de combustíveis públicos são áreas técnicas adjacentes aos espaços canais rodoviários, podendo ser instalados em terrenos localizados na classe de solo urbano ou classe de solo rural, sendo que para esta última, apenas nos terrenos que confrontem com a Rede Nacional Complementar (ENs).
+
+2 - A instalação de áreas de serviço ou postos de abastecimento de combustível em terrenos localizados na classe de solo urbano deverá garantir uma correta inserção urbanística, não se admitindo a sua instalação em áreas com características dominantemente residenciais.
+
+3 - A instalação de áreas de serviço ou postos de abastecimento de combustível em terrenos localizados na classe de solo rural, que confrontem com Rede Nacional Complementar (ENs), é apenas autorizada numa faixa de 50 metros, medida a partir do limite da plataforma da via.
+
+4 - Deverá ser garantido o cumprimento de todas as condicionantes legais relativas à instalação de Áreas de Serviço e Postos de Abastecimento de Combustível Públicos no interior da parcela de terreno objeto de intervenção, não podendo a intervenção criar quaisquer condicionantes sobre as parcelas de terreno contíguas.
+
+#### SECÇÃO II — Rede de Abastecimento de Água
+
+###### Artigo 72.º — Caracterização da Rede de Abastecimento de Água
+
+A rede de abastecimento de água do concelho de Arganil é constituída pelos reservatórios de água, instalações de captação de água para abastecimento público, condutas adutoras e distribuidoras e restantes órgãos de rede.
+
+###### Artigo 73.º — Áreas de Proteção da Rede de Abastecimento de água
+
+1 - As captações de água para abastecimento público estão sujeitas ao regime de proteção definido pela legislação em vigor.
+
+2 - Para proteção dos restantes elementos da Rede de Abastecimento de água são constituídas as seguintes faixas non aedificandi:
+
+a) Condutas adutoras dentro dos perímetros urbanos - 5 metros de largura medidos para cada um dos lados do eixo das condutas;
+
+b) Condutas adutoras fora dos perímetros urbanos - 10 metros de largura medidos para cada um dos lados do eixo das condutas;
+
+c) Reservatórios e câmaras de manobras - 15 metros de largura medidos a partir dos limites exteriores dos reservatórios e câmaras de manobras.
+
+3 - Excecionalmente pode ser reduzida a dimensão da faixa non aedificandi, até ao máximo de 20 %, desde que tecnicamente fundamentada e desde que tal situação não prejudique a exploração do serviço de abastecimento de água.
+
+4 - Para cumprimento do disposto no número anterior, é da competência dos serviços municipais avaliar as pretensões e definir a dimensão da faixa non aedificandi.
+
+5 - Até à definição dos perímetros de proteção às captações de água para abastecimento público é fixado uma faixa de proteção de 200 metros, não sendo admissível nesta faixa e existência de sumidouros de águas negras abertas na camada aquífera captada, outras captações, regas com águas negras, explorações florestais das espécies de crescimento rápido, instalações pecuárias ou instalações industriais cujos efluentes possam constituir perigo de poluição ou contaminação de águas.
+
+6 - No que diz respeito às explorações florestais das espécies de crescimento rápido, após a definição dos perímetros de proteção às captações de água para abastecimento público, a faixa de proteção deverá ser a seguinte:
+
+a) Nas cotas inferiores, deverá a captação estar salvaguardada por uma faixa de proteção de 30 metros;
+
+b) Nas cotas superiores, deverá a captação estar salvaguardada por uma faixa de proteção de 100 metros;
+
+c) Em situações de declive num intervalo entre 0 % e 10 %, deverá a captação estar salvaguardada por uma faixa de proteção de 50 metros.
+
+#### SECÇÃO III — Rede de Águas Residuais
+
+###### Artigo 74.º — Caracterização da Rede de Águas Residuais
+
+A rede de águas residuais do concelho de Arganil é constituída pelas ETARS, emissários e estações elevatórias.
+
+###### Artigo 75.º — Áreas de Proteção da Rede de Águas Residuais
+
+1 - Para proteção da Rede de Águas Residuais são constituídas as seguintes faixas non aedificandi:
+
+a) ETARS - 100 metros de largura à volta dos limites exteriores das ETARS.
+
+b) Emissário dentro dos perímetros urbanos - 5 metros de largura medidos para cada um dos lados do eixo dos emissários;
+
+c) Emissário fora dos perímetros urbanos - 10 metros de largura medidos para cada um dos lados do eixo dos emissários;
+
+d) Estações elevatórias - 30 metros de largura medidos a partir dos limites exteriores das estações elevatórias.
+
+2 - Excecionalmente pode ser reduzida a dimensão da faixa non aedificandi, até ao máximo de 20 %, desde que tecnicamente fundamentada e que tal situação não prejudique a exploração do serviço da rede de águas residuais.
+
+3 - Para cumprimento do disposto no número anterior, é da competência dos serviços municipais avaliar as pretensões e definir a dimensão da faixa non aedificandi.
+
+#### SECÇÃO IV — Rede Elétrica
+
+###### Artigo 76.º — Caracterização da Rede Elétrica
+
+A rede elétrica do concelho de Arganil é constituída pelas linhas de muito alta tensão, alta tensão, média tensão e baixa tensão, postos de transformação e outros órgãos da rede, estando sujeita ao regime de proteções definido pela legislação em vigor.
+
+### CAPÍTULO VII — Sistema Patrimonial
+
+#### SECÇÃO I — Património Edificado
+
+###### Artigo 77.º — Identificação
+
+O património arquitetónico e arqueológico municipal identificado na Planta de Ordenamento - Sistema Patrimonial é constituído pelo património classificado e pelo património arqueológicos - sítios inventariados que, pelo seu interesse cultural, histórico, arquitetónico e arqueológico, foram objeto de classificação e valorização.
+
+###### Artigo 78.º — Património Classificado
+
+1 - Os bens Imóveis classificados, zonas especiais de proteção e zonas gerais de proteção, encontram-se identificados na Planta de Ordenamento - Sistema Patrimonial e no Anexo II do presente Regulamento.
+
+2 - Qualquer intervenção a desenvolver nos bens imóveis classificados, nas zonas especiais ou gerais de proteção, devem respeitar as condicionantes estabelecidas na legislação em vigor.
+
+###### Artigo 79.º — Património Arqueológico
+
+1 - O património Arqueológico encontra-se identificado na Planta de Ordenamento - Sistema Patrimonial e no anexo III do presente regulamento e compreende:
+
+a) Conjuntos ou sítios correspondentes aos valores arqueológicos e identificáveis;
+
+b) Áreas de potencial valor arqueológico correspondentes à delimitação de um território suscetível de ocorrência de valores arqueológicos.
+
+2 - Consideram-se conjuntos e/ou sítios arqueológicos todos os locais onde se identifique a presença de vestígios de evolução humana, cuja preservação e estudo permitam traçar a história da humanidade, e cuja principal fonte de informação seja constituída por escavações, prospeções e outros métodos de pesquisa arqueológica;
+
+3 - Consideram-se áreas de potencial valor arqueológico os locais adjacentes aos que já fornecem indícios arqueológicos, os centros históricos de reconhecida antiguidade, bem como capelas, santuários, igrejas e área envolvente, ou respetivos adros, locais para os quais exista uma forte probabilidade de ocorrência de achados e de enterramentos humanos, cuja existência não tenha sido ainda comprovada pela identificação e recolha de vestígios materiais e/ou osteológicos;
+
+4 - Nos locais identificados como Sítio Arqueológico, na Planta de Ordenamento - Sistema Patrimonial, e listados no anexo III do presente regulamento, todas as intervenções que envolvam obras de edificação, obras de demolição, operações de loteamento, obras de urbanização e trabalhos de revolvimentos ou remoção de solos, ficam condicionadas à realização de trabalhos arqueológicos, efetuados nos termos da legislação em vigor, imprescindíveis à aprovação e execução das intervenções pretendidas. Nas áreas identificadas como de potencial valor arqueológico, os trabalhos que envolvam alteração do solo como remoção, revolvimento ou corte de árvores, com exceção de atividade agrícola devem ser precedidas de parecer prévio da entidade da tutela.
+
+5 - Dos achados fortuitos de vestígios arqueológicos deve ser dado conhecimento à administração do património cultural competente ou à autoridade policial, dentro do prazo de quarenta e oito horas.
+
+6 - Sempre que seja criada uma nova zona especial de proteção ou zona automática de proteção, ou que a realização de intervenções arqueológicas e novos achados determinem a reformulação ou o estabelecimento de novos perímetros especiais de proteção arqueológica e zonas de potencial arqueológico, proceder-se-á à atualização da Planta de Ordenamento - Sistema Patrimonial.
+
+### CAPÍTULO VIII — Programação e Execução
+
+#### SECÇÃO I — Regras gerais para a Urbanização e Edificação
+
+###### Artigo 80.º — Princípios Gerais de Planeamento e de Gestão
+
+1 - Todas as operações urbanísticas a realizar na área do PDMA tem como objetivo a melhoria formal e funcional do tecido urbano em que se enquadram, bem como a promoção das condições de acessibilidade para as pessoas com mobilidade condicionada.
+
+2 - O Município assegura e promove a execução coordenada e programada do PDMA, tendo a colaboração das entidades públicas e privadas, e promove a realização das infraestruturas e dos equipamentos de utilização coletiva, em conformidade com os princípios, objetivos e prioridades estabelecidas e recorrendo aos meios de política de solos e aos sistemas e instrumentos de execução que se encontram previstos no regime jurídico dos instrumentos de gestão territorial.
+
+3 - A coordenação e execução programada do PDMA determinam para os agentes públicos e privados, o dever de concretização e adequação das pretensões aos objetivos e prioridades estabelecidos pelo PDMA.
+
+4 - A execução dos sistemas gerais de infraestruturas e equipamentos de utilização coletiva determinam o dever de participação dos particulares no seu financiamento nos termos da legislação em vigor.
+
+###### Artigo 81.º — Dimensionamento das áreas destinadas a espaços verdes de utilização coletiva, infraestruturas viárias e equipamentos de utilização coletiva
+
+1 - As operações de loteamento e as demais operações urbanísticas com impacte relevante e/ou semelhante a uma operação de loteamento devem prever áreas destinadas à implantação de espaços verdes e de utilização coletiva, equipamentos de utilização coletiva e infraestruturas - estacionamentos, de acordo com os parâmetros fixados no presente regulamento.
+
+2 - As áreas destinadas à implantação de espaços verdes e de utilização coletiva e equipamentos de utilização coletiva devem respeitar os seguintes valores mínimos:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/07/135000001/0000200080.pdf)
+
+3 - As áreas destinadas a espaços verdes e equipamentos de utilização coletiva devem ser cedidas ao domínio municipal.
+
+4 - O Município pode prescindir das cedências, na totalidade ou parte das parcelas referidas no número anterior, em acordo com o estabelecido em regulamento municipal, sempre que essa cedência seja desnecessária ou inconveniente face às condições urbanísticas do local, havendo, neste caso, lugar ao pagamento de uma compensação.
+
+5 - Para efeitos de dimensionamento das áreas de cedência ao domínio público referida nos pontos anteriores estabelece-se o seguinte:
+
+a) Não se consideram para efeito de dimensionamento de espaços verdes e de utilização coletiva, bem como de equipamento de utilização coletiva, áreas contínuas onde não seja possível inscrever um quadrado de 6 por 6 metros;
+
+b) Em qualquer das situações referidas na alínea anterior, as áreas devem confrontar com arruamento público.
+
+6 - Nas áreas cedidas ao domínio municipal para os espaços verdes e de utilização coletiva o regime de edificabilidade é o definido para os Espaços Verdes.
+
+7 - Nas áreas cedidas ao domínio municipal para equipamentos de utilização coletiva o regime de edificabilidade é o definido para os espaços de uso especial - áreas destinadas a equipamentos.
+
+8 - Para efeito de dimensionamento de arruamentos, serão aplicados no território municipal os valores constantes do quadro seguinte, definidos de acordo com os diferentes usos:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/07/135000001/0000200080.pdf)
+
+###### Artigo 82.º — Lugares de Estacionamento
+
+1 - Nas novas construções, e nas que venham a ser alvo de ampliação, bem como nas operações de loteamentos e nas edificações com impacto semelhante ao loteamento, devem ser garantidos os seguintes parâmetros quantitativos mínimos de estacionamento:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/07/135000001/0000200080.pdf)
+
+2 - Para as restantes tipologias de Empreendimentos Turísticos aplica-se o estipulado na Portaria n.º 327/2008, de 28 de abril.
+
+3 - Para o cálculo das áreas e dimensionamento dos lugares de estacionamento apontados no quadro anterior, deve considerar-se, por lugar de estacionamento, os seguintes parâmetros de dimensionamento:
+
+a) Lugar de estacionamento para veículos ligeiros: Largura: 2,50 m; Comprimento: 5,00;
+
+b) Lugar de estacionamento para veículos pesados: Largura: 3,00 m; Comprimento: 15,00;
+
+4 - No caso de constituição de propriedade horizontal será obrigatoriamente consignado nas frações a integração de, no mínimo, um lugar de estacionamento por fogo/unidade de ocupação.
+
+5 - Em todos os estabelecimentos comerciais com área bruta de construção (abc) superior a 500 m2, bem como em quaisquer atividades que pela sua natureza, dimensão e/ou especificidade possam não se enquadrar no determinado nas alíneas anteriores, a programação de estacionamento deverá ser aferida através de Estudo de Tráfego.
+
+6 - Nas alterações de uso para Comércio e Serviços, podem considerar-se valores diferentes, mediante a avaliação da atividade a instalar e a ponderação sobre o impacto da sobrecarga urbanística da mesma.
+
+7 - Sem prejuízo da regulamentação em vigor, a Câmara Municipal pode deliberar a dispensa total ou parcial do cumprimento da dotação de estacionamento, desde que se verifique uma das seguintes condições:
+
+a) O seu cumprimento implicar a modificação da arquitetura original de edifícios ou na continuidade do conjunto edificado, que pelo seu valor arquitetónico intrínseco, pela sua integração em conjuntos característicos ou em áreas de reconhecido valor paisagístico, devem ser preservados;
+
+b) A impossibilidade ou a inconveniência de natureza técnica, nomeadamente em função das características geológicas do terreno, dos níveis freáticos, do condicionamento da segurança de edificações envolventes, da interferência com equipamentos e infraestruturas ou da funcionalidade dos sistemas públicos de circulação de pessoas e veículos;
+
+c) As dimensões do prédio ou a sua situação urbana tornarem tecnicamente desaconselhável a construção do estacionamento com a dotação exigida, por razões de economia e funcionalidade interna.
+
+8 - Sempre que as condições urbanísticas não permitam a aplicação dos valores mínimos de estacionamento referidos, será o Município compensado pelo requerente da inerente sobrecarga de custos relativos às infraestruturas de estacionamento, de acordo com o estipulado em regulamento municipal.
+
+9 - Em todas as operações urbanísticas deve ser salvaguardada a existência e reserva de lugares de estacionamento destinados a veículos que transportem pessoas com mobilidade condicionada nos termos das boas práticas urbanísticas e da legislação em vigor.
+
+#### SECÇÃO II — Instrumentos Urbanísticos e Licenciamento
+
+###### Artigo 83.º — Instrumentos Urbanísticos
+
+1 - As propostas de intervenção, como obras de construção ou obras de urbanização, obrigam-se a garantir um adequado enquadramento urbanístico e/ou paisagístico, na envolvente que deverá ser demonstrado e garantido, por adequados instrumentos urbanísticos.
+
+2 - Os instrumentos urbanísticos, que devem ter o desenvolvimento suficiente para assegurar a harmonia, enquadramento e complementaridade das diversas iniciativas públicas e privadas, podem traduzir-se em:
+
+a) Planos de Urbanização e Planos de Pormenor, tal como definidos na legislação que disciplina o Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), incluindo as respetivas modalidades específicas;
+
+b) Unidades de Execução;
+
+c) Operações de Loteamento urbano, nos termos do respetivo regime jurídico;
+
+3 - Os projetos a realizar devem compatibilizar os parâmetros urbanísticos estabelecidos com o princípio da igualdade, procurando obter a justa repartição de benefícios e encargos decorrentes das intervenções urbanísticas e devem ser acompanhado, sempre que se justifique, por plano ou estudo de acessibilidade.
+
+###### Artigo 84.º — Licenciamento em Solo Urbanizado
+
+1 - A edificabilidade em lotes ou parcelas constituídas baseia-se no princípio da cércea e do alinhamento dominante e resulta da observância das características morfológicas do tecido urbano existente, nomeadamente, tipologias arquitetónicas, modelação do parcelamento da propriedade e estrutura do espaço público, sendo exigido a justificação urbanística da adequada inserção na unidade urbana envolvente.
+
+2 - Os planos de pormenor e as operações de loteamento devem estabelecer o equilíbrio de transição entre zonas com morfologias urbanas e tipologias arquitetónicas diferenciadas, nomeadamente, no que se refere à continuidade da estrutura do espaço público, das vias e da cércea dos edifícios.
+
+3 - Nas situações de reconversão ou de construção em parcelas ou lotes não edificados, devem ser ponderados as condições decorrentes do aumento do número de fogos ou das superfícies para outras funções, atendendo à capacidade de estacionamento público, dos acessos viários e dos equipamentos coletivos, cuja insuficiência constitui fundamento para o indeferimento das mesmas operações urbanísticas nos termos da lei em vigor.
+
+###### Artigo 85.º — Licenciamento sistemático em solo urbanizável
+
+Estas zonas podem ser objeto de transformação urbanística mediante a elaboração de planos de urbanização, planos de pormenor ou unidades de execução.
+
+###### Artigo 86.º — Licenciamento Assistemático em Solo Urbanizável
+
+1 - Excecionalmente, a execução e urbanização destes espaços podem dispensar a elaboração de planos de pormenor e/ou da unidade de execução sempre que as soluções propostas assegurem uma correta articulação formal e funcional com a zona urbanizada, não prejudiquem o ordenamento urbanístico da área envolvente e que os prédios a ser abrangidos pela operação urbanística estejam situados em contiguidade com a zona urbanizada e não sejam postos em causa os princípios programáticos nem as orientações para a execução de UOPG, sendo caso.
+
+2 - Nas situações referidas no número anterior aplicam-se os parâmetros urbanísticos definidos para as respetivas e correspondentes categorias de espaço urbanizado.
+
+#### SECÇÃO III — Orientações para Programação e Execução
+
+###### Artigo 87.º — Âmbito e Objetivos
+
+1 - Atento ao processo de transformação do território e às necessidades da população, o Município define, ao longo do tempo e em função da oportunidade estratégica ou da dinâmica evidenciada, as intervenções que possam desempenhar um papel estruturante ou multiplicativo no desenvolvimento e ordenamento do concelho.
+
+2 - Para esse fim, poderá a Câmara Municipal definir "unidades operativas de planeamento e gestão" ou "unidades de execução" que concorram para a concretização dos programas estabelecidos, como Áreas de Intervenção Prioritária ou outras que se entendam pela oportunidade, relevantes; devendo em ambos os casos, incluir objetivos e programas de ocupação, delimitação territorial e sugestões para a respetiva execução.
+
+###### Artigo 88.º — Unidades Operativas de Planeamento e Gestão
+
+1 - Sem prejuízo do disposto no artigo anterior, são desde já identificadas as seguintes "Unidades Operativas de Planeamento e Gestão":
+
+a) UOPG 1 - Expansão Urbana Poente da Vila de Arganil;
+
+b) UOPG 2 - Expansão Urbana Norte de Côja;
+
+c) UOPG 3 - Expansão do Espaço de Atividade Económica de Côja;
+
+d) UOPG 4 - Expansão do Espaço de Atividade Económica da Relvinha;
+
+e) UOPG 5 - Expansão do Espaço de Atividade Económica de Vale do Fojo;
+
+f) UOPG 6 - Área de Aptidão Turística da Roda.
+
+2 - A delimitação das UOPG deve ser ajustada quando tal resulte da necessidade de conformar as Unidades de Execução ao cadastro de propriedade ou à rede viária, podendo igualmente serem alterados os limites da sua abrangência quando tal for justificado em sede de Plano de Urbanização ou de Pormenor.
+
+3 - Quaisquer operações urbanísticas integradas nas Unidades Operativas de Planeamento e de Gestão devem concorrer para a concretização do conteúdo programático de acordo com o expresso no Anexo I a este Regulamento.
+
+4 - Independentemente do estabelecido no artigo 86.º Licenciamento assistemático em solo urbanizável, a Câmara Municipal pode condicionar os processos de urbanização, em função da apetência revelada para a urbanização e das desejadas condições de estruturação urbanística da área, à prévia elaboração de Plano de Pormenor e/ou à constituição de uma ou várias Unidades de Execução.
+
+5 - A execução das Unidades Operativas de Planeamento e Gestão realiza-se através de operações urbanísticas obrigatoriamente enquadradas pelos seguintes instrumentos, utilizados isolada ou articuladamente e integrando total ou parcialmente as áreas de intervenção propostas para cada uma das UOPGs:
+
+a) Plano de Urbanização;
+
+b) Plano de Pormenor;
+
+c) Unidade de Execução.
+
+6 - O Município pode autorizar, em área abrangida por Unidade Operativa de Planeamento e Gestão, operações urbanísticas isoladas, quando digam respeito a parcelas situadas em contiguidade com a zona urbanizada e desde que o município considere que as soluções propostas asseguram uma correta articulação formal e funcional com a zona urbanizada e não prejudicam o ordenamento urbanístico da área envolvente e não sejam postos em causa os princípios programáticos nem as orientações para a execução da respetiva UOPG.
+
+7 - Nas situações referidas no número anterior aplicam-se as disposições regulamentares da respetiva categoria de espaço definidas para o solo Urbanizável.
+
+###### Artigo 89.º — Mecanismos de perequação
+
+1 - Consideram-se dois cenários:
+
+a) No cenário 1, que regra geral, acontece no Solo Urbanizado, o processo de transformação ocorre maioritariamente através de edificação reportada a cada propriedade, pelo que a ocupação existente e prévia ao PDMA, induz já expectativas edificatórias, ou seja, ocorre em geral, através de operações sujeitas a controlo prévio nos termos do Regime Jurídico de Urbanização e Edificação (RJUE);
+
+b) No cenário 2, os processos de urbanização exigem a alteração da estrutura fundiária, pelo que a viabilidade executória do PDMA exige, na maioria dos casos, a associação entre proprietários, exigindo os princípios perequativos a adoção de um mesmo índice médio de utilização.
+
+2 - No cenário 1, o mecanismo perequativo deve traduzir-se numa diferenciação das taxas unitárias, por m2 de área de construção, em função do maior ou menor índice de construção, a fixar em Regulamento Municipal.
+
+3 - No cenário 2, o mecanismo perequativo deve estruturar-se com base num Índice Médio de Utilização e no estabelecimento de uma área de cedência média, bem como na corresponde repartição dos custos de urbanização, tal como tipificados na lei.
+
+4 - A aplicação dos mecanismos de perequação referidos no número anterior realiza-se no âmbito de planos de pormenor e de unidades de execução que venham a ser definidos.
+
+###### Artigo 90.º — Sistemas de execução
+
+1 - Nos termos do RJIGT, os métodos de execução sistemática assumem a designação de "sistema de compensação", no caso em que a iniciativa parte dos proprietários dos prédios abrangidos sem interferência do Município, de "sistema de cooperação", quando a iniciativa dos particulares tem a cooperação municipal, ou de "sistema de imposição administrativa", quando a iniciativa da intervenção urbanística é da responsabilidade do município.
+
+2 - Para as intervenções territoriais, inseridas em UOPG, prioritárias ou não, e que o Município venha a definir, ao longo do tempo e tendo em atenção o processo de desenvolvimento do território e as orientações do PDMA, correspondendo a uma ou a várias "unidades de execução", estão sujeitas ao "sistema de cooperação" ou ao "sistema de imposição administrativa".
+
+3 - Para as intervenções territoriais não consideradas prioritárias e em que, para um desenvolvimento ordenado, se mostre conveniente a associação de proprietários, devem ser delimitadas "unidades de execução" a sujeitar ao "sistema de compensação".
+
+#### SECÇÃO IV — Política Municipal de solos
+
+###### Artigo 91.º — Orientações gerais
+
+A política municipal de solos, visando o desenvolvimento harmonioso do território, deve procurar:
+
+a) A articulação espacial e temporal e o equilíbrio custos/benefícios nos processos de construção de infraestruturas e edifícios;
+
+b) A dinamização das iniciativas urbanísticas e de construção do setor privado e cooperativo, orientando-as para as áreas de intervenção prioritária, que devem ser definidas ao longo do tempo;
+
+c) A adoção de mecanismos tendentes à efetiva construção nos terrenos destinados a esse fim, que estejam infraestruturados e não construídos;
+
+d) A constituição na posse da Câmara de uma bolsa de terrenos, que lhe permita assegurar os mecanismos perequativos referidos no Capítulo anterior, uma política social e de desenvolvimento e uma intervenção supletiva no mercado fundiário;
+
+e) A promoção de programas de habitação social e/ou a custos controlados, de forma direta ou indireta, com a aquisição/disponibilização de terrenos para o efeito.
+
+###### Artigo 92.º — Aquisição de terrenos destinados a equipamentos e infraestruturas
+
+1 - Os terrenos destinados a equipamentos e infraestruturas situados em espaços agrícolas e florestais são adquiridos por compra ou expropriação.
+
+2 - Quando os terrenos destinados a equipamentos e infraestruturas se situem em espaço urbanizado ou urbanizável e em propriedades destinadas também a edificação, a Câmara Municipal de Arganil, promove a associação entre proprietários para realização da urbanização ou a realização de contratos de urbanização entre os proprietários e a Câmara Municipal de Arganil, de acordo com os limites das "unidades de execução".
+
+3 - Na situação prevista no número anterior, caso se verifique a recusa ou indisponibilidade do proprietário por tempo considerado excessivo, a Câmara Municipal de Arganil promove a aquisição, por compra ou expropriação, não só das parcelas destinadas a equipamentos ou infraestruturas, mas também das destinadas à edificação, tendo em vista o desenvolvimento harmonioso dos espaços urbano/urbanizáveis, assegurando a articulação espacial e temporal das infraestruturas, equipamentos e edificação.
+
+### CAPÍTULO IX — Zona de Proteção da Albufeira de Fronhas
+
+#### SECÇÃO I — Disposições Gerais
+
+###### Artigo 93.º — Âmbito e objetivos
+
+1 - As regras em causa aplicam-se às categorias de espaço abrangidas pela zona de proteção da Albufeira de Fronhas, as quais se encontram representadas na correspondente Planta de Ordenamento.
+
+2 - A Albufeira de Fronhas abrange o plano de água e respetiva zona de proteção, que corresponde à faixa medida na horizontal, com a largura de 500 m, contada a partir do nível de pleno armazenamento [NPA].
+
+###### Artigo 94.º — Atividades interditas
+
+Para além das disposições legais aplicáveis na zona de proteção da albufeira são ainda interditas as seguintes atividades:
+
+a) A realização de obras de construção, à exceção das previstas pelo presente Regulamento;
+
+b) A instalação de depósitos de resíduos de qualquer natureza, a instalação ou ampliação de aterros destinados a resíduos perigosos, não perigosos ou inertes.
+
+c) A realização de escavações ou a retirada de inertes, com exceção das ações de natureza arqueológica e as necessárias à manutenção das condições de segurança das infraestruturas de exploração da albufeira;
+
+d) A prática de atividades passíveis de conduzir ao aumento da erosão, ao transporte de material sólido para o meio hídrico ou que induzam alterações ao relevo existente, nomeadamente as mobilizações de solo não realizadas segundo as curvas de nível, a constituição de depósitos de terras soltas em áreas declivosas e sem dispositivos que evitem o seu arraste.
+
+#### SECÇÃO II — Disposições Especificas
+
+##### SUBSECÇÃO I — Zonamento e atividades na zona de proteção
+
+###### Artigo 95.º — Zonamento
+
+A zona de proteção da albufeira compreende:
+
+a) Zona reservada;
+
+b) Zona de proteção de nível I;
+
+c) Zona de proteção de nível II;
+
+d) Zona de proteção de nível III;
+
+e) Zona de proteção de nível IV, a qual é constituída por:
+
+i) Área de aptidão recreativa Fronhas 1;
+
+ii) Área de aptidão recreativa Fronhas 2;
+
+iii) Área de aptidão recreativa de Sail;
+
+iv) Área de aptidão recreativa da Roda;
+
+v) Área de aptidão recreativa de Maladão;
+
+vi) Área de aptidão turística da Roda.
+
+f) Zona de proteção de nível V.
+
+###### Artigo 96.º — Zona de respeito da barragem e dos órgãos de segurança e de utilização da albufeira
+
+A zona de respeito da barragem e dos órgãos de segurança e de utilização da albufeira corresponde a uma faixa, localizada imediatamente a jusante da barragem, com largura de 250 m, nela sendo interdita:
+
+a) A realização de quaisquer obras de edificação, incluindo a abertura de caminhos, a implantação de linhas de transporte de energia e de conduta de águas, salvo as que decorram do funcionamento do empreendimento hidráulico;
+
+b) A prática de quaisquer atividades secundárias e a instalação de quaisquer infraestruturas de apoio às atividades secundárias.
+
+###### Artigo 97.º — Zona reservada
+
+1 - Sem prejuízo da observância do disposto no artigo n.º 94 [atividades interditas], é interdita ainda na zona reservada da albufeira a prática de quaisquer atos ou atividades suscetíveis de afetar direta ou indiretamente a qualidade da água da albufeira, designadamente:
+
+a) Todas as ações que potenciem os riscos de erosão do solo, com destaque para os movimentos de terra que alterem de forma significativa e dissonante a morfologia atual do terreno;
+
+b) Todas as ações que potenciem os riscos de incêndio;
+
+c) As atividades de prospeção, pesquisa e exploração de massas minerais;
+
+d) A instalação de vedações, com exceção daquelas que constituam a única alternativa viável à proteção e segurança de pessoas e bens, sem prejuízo do dever de garantia de acesso à albufeira e circulação em torno da mesma;
+
+e) As operações de loteamento, obras de urbanização e, ainda, a realização de obras de edificação, exceto as destinadas a infraestruturas de apoio à utilização da albufeira a que se refere o número seguinte.
+
+2 - Na zona reservada é permitida a prática dos seguintes atos e atividades:
+
+Novas construções que constituam infraestruturas de apoio à utilização da albufeira ou que estejam integradas em áreas de aptidão recreativa e na área de aptidão turística, desde que, em qualquer um dos casos, não constituam obstáculo à drenagem e infiltração das águas.
+
+3 - Nas construções existentes legalmente licenciadas é permitida a realização de obras de ampliação desde que as mesmas se destinem a suprir insuficiências de instalações sanitárias e cozinhas e desde que não corresponda a um aumento total da área de construção superior a 60 m2, ao aumento do número de pisos e não implique a ocupação em relação à albufeira de terrenos mais avançados do que o edifício existente.
+
+###### Artigo 98.º — Zona de proteção de nível I
+
+1 - A zona de proteção de nível I é composta por áreas com sensibilidade ecológica elevada, definida em função das suas características físicas e ambientais e cuja afetação pode pôr em risco o bom estado da massa de água.
+
+2 - A zona mencionada no número anterior inclui sistemas biofísicos da REN, designadamente a faixa de proteção à albufeira, as zonas ameaçadas pelas cheias, as áreas de máxima infiltração, as áreas com risco de erosão e as escarpas.
+
+3 - Para além do disposto no artigo 94.º [atividades interditas] do presente Regulamento, nesta zona é interdita a prática de todos os atos e atividades suscetíveis de afetar, direta ou indiretamente, a qualidade da água da albufeira, nomeadamente:
+
+a) Todas as ações que potenciem os riscos de erosão do solo com destaque para os movimentos de terra que alterem de forma significativa e dissonante a morfologia atual do terreno;
+
+b) Todas as ações que potenciem os riscos de incêndio;
+
+c) As atividades de prospeção, pesquisa e exploração de massas minerais;
+
+d) As operações de loteamento urbano e obras de urbanização.
+
+###### Artigo 99.º — Zona de proteção de nível II
+
+1 - A zona de proteção de nível II é composta por áreas com sensibilidade ecológica, definida em função das suas características físicas e ambientais e cuja afetação pode pôr em risco o bom estado da massa de água.
+
+2 - A zona mencionada no número anterior é constituída por áreas com potencial risco de erosão, não integradas na REN e possuidoras de declives acentuados e de solos com características de erodibilidade acentuada.
+
+3 - Sem prejuízo do disposto no número anterior, o regime de edificabilidade nestas zonas deve obedecer ao estipulado no artigo 100.º [Zona de proteção de nível III] do presente Regulamento.
+
+###### Artigo 100.º — Zona de proteção de nível III
+
+1 - A zona de proteção de nível III é composta por áreas agrícolas, florestais e agro-silvo-pastoris, localizadas fora das zonas de proteção de nível I e de nível II e que, pelas suas características, favorecem a biodiversidade e a proteção global da albufeira.
+
+2 - Nas áreas agrícolas, florestais e agro-silvo-pastoris, a realização de novas obras de construção não pode ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+a) A construção seja destinada a habitação permanente do agricultor da parcela onde aquela se insere;
+
+b) A parcela referida na alínea anterior possua uma área igual ou superior a 10.000 m2, no caso de áreas agrícolas e de 10.000 m2, no caso de áreas florestais;
+
+c) Área máxima de implantação de 300 m2;
+
+d) Número máximo de dois pisos.
+
+3 - Nas áreas referidas no número anterior, a realização das obras de ampliação de construções existentes e legalmente licenciadas não pode ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+a) O edifício sobre o qual incidam as obras referidas se destine à habitação do proprietário;
+
+b) A área a ampliar não exceda os 30 % da área de implantação da construção inicial, não podendo exceder no total uma área de implantação superior a 300 m2;
+
+c) Número máximo de dois pisos ou existentes.
+
+4 - Sem prejuízo do disposto no número anterior, nas áreas agrícolas, florestais e agro-silvo-pastoris é permitida a realização de obras de conservação ou ampliação de construções existentes, desde que se destinem a turismo no espaço rural ou turismo de habitação e cumpram o disposto na legislação em vigor.
+
+5 - Nas áreas mencionadas no número anterior a realização de obras de construção ou ampliação de um anexo de apoio à atividade agrícola ou florestal não pode ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+a) Área máxima de implantação de 60 m2;
+
+b) Número máximo de um piso.
+
+6 - A área máxima de implantação e o número máximo de pisos referidos nas alíneas a) e b) do número anterior podem ser ultrapassadas desde que técnica e economicamente justificável.
+
+7 - Sem prejuízo da observância do disposto no artigo 94.º [atividades interditas] é interdita ainda nas áreas agrícolas, florestais e agro-silvo-pastoris, a prática dos seguintes atos e atividades:
+
+a) Todas as ações que potenciem os riscos de incêndio;
+
+b) As atividades de prospeção, pesquisa e exploração de massas minerais;
+
+c) A instalação de vedações, com exceção daquelas que constituam a única alternativa viável à proteção e segurança de pessoas e bens, sem prejuízo do dever de garantia de acesso à albufeira e circulação em torno da mesma;
+
+##### SUBSECÇÃO II — Zona de proteção de nível IV
+
+###### Artigo 101.º — Regime geral
+
+1 - A zona de proteção de nível IV é composta por áreas que pela sua proximidade ao plano de água e pelas suas características físicas e ambientais apresentam aptidão para a utilização turística e recreativa da albufeira.
+
+2 - As áreas a que se refere o número anterior encontram-se representadas na Planta de Ordenamento - Zona de Proteção da Albufeira de Fronhas pelas áreas de aptidão recreativa e áreas de aptidão turística, destinando-se à instalação de equipamentos, infra -estruturas e serviços de apoio às atividades de turismo, recreio e lazer.
+
+###### Artigo 102.º — Áreas de aptidão recreativa
+
+1 - As áreas de aptidão recreativa são constituídas pelas áreas de aptidão recreativa Fronhas 1, Fronhas 2, Sail, Roda e Maladão, identificadas na Planta de Ordenamento - Zona de Proteção da Albufeira de Fronhas.
+
+2 - As áreas de aptidão recreativa devem ser objeto de projetos de execução os quais devem atender às disposições constantes na legislação específica e no presente regulamento, devendo considerar a reabilitação da zona ribeirinha e contemplar a sua dotação em equipamentos e infraestruturas de apoio à utilização do plano de água.
+
+3 - Até à aprovação do projeto de execução a que se refere o número anterior, aplica-se o artigo 97.º do presente regulamento.
+
+###### Artigo 102.º-A — Área de Aptidão Recreativa Fronhas 1
+
+Nesta área está prevista a sua recuperação e arranjo paisagístico, bem como a construção e implantação de um conjunto de equipamentos e infraestruturas de apoio à utilização recreativa, nomeadamente:
+
+a) Um centro náutico;
+
+b) Uma construção ligeira vocacionada para clube náutico e espaço de educação ambiental integrando, para o efeito, uma área administrativa com um espaço para reuniões ou conferências e para formação, um bar ou esplanada e instalações sanitárias, não podendo aquela construção ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+i) Área máxima de implantação de 300 m2;
+
+ii) Número máximo de um piso.
+
+c) Um parque de merendas e um parque infantil devidamente equipados e infra-estruturados;
+
+d) A construção de parques de estacionamento regularizados, devidamente dimensionados para esse efeito e a localizar fora da zona reservada da albufeira;
+
+e) A implantação de piscina fluvial e a construção de equipamento de apoio a esta atividade balnear como instalações sanitárias e balneários.
+
+###### Artigo 102.º-B — Área de Aptidão Recreativa Fronhas 2
+
+Nesta área está prevista a sua recuperação e arranjo paisagístico, bem como a construção de um equipamento de apoio à utilização recreativa, constituído por um restaurante panorâmico com esplanada, não podendo a referida construção ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+i) Área máxima de implantação de 300 m2;
+
+ii) Número máximo de um piso.
+
+###### Artigo 102.º-C — Área de Aptidão Recreativa de Sail
+
+Nesta área está prevista a sua recuperação e arranjo paisagístico, bem como a construção e implantação de um conjunto de equipamentos e infraestruturas de apoio à utilização recreativa, nomeadamente:
+
+a) Uma construção ligeira destinada a um estabelecimento de restauração e de bebidas, não podendo aquela ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+Área máxima de implantação de 200 m2;
+
+Número máximo de um piso.
+
+b) A construção de um parque de merendas e de um parque infantil devidamente equipados e infraestruturados;
+
+c) A implantação de piscina fluvial e a construção de equipamento de apoio a esta atividade balnear como instalações sanitárias e balneários;
+
+d) A construção de parques de estacionamento regularizados, devidamente dimensionados para esse efeito e a localizar fora da zona reservada da albufeira;
+
+e) Um embarcadouro.
+
+###### Artigo 102.º-D — Área de Aptidão Recreativa da Roda
+
+A área de aptidão recreativa da Roda deve ser objeto de recuperação e arranjo paisagístico, sendo permitida a construção e a implementação de um conjunto de equipamentos e de infraestruturas de apoio à utilização recreativa, nomeadamente:
+
+a) A construção de um estabelecimento de restauração e de bebidas com esplanada, não podendo aquela ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+Área máxima de implantação de 200 m2;
+
+Número máximo de um piso;
+
+b) A construção de um parque infantil;
+
+c) A implantação de uma estrutura ligeira de apoio às embarcações de recreio, a remos e a pedal, integrando posto de socorros e comunicações e espaço para armazenamento de material com as seguintes características:
+
+Área máxima de implantação de 50 m2;
+
+Número máximo de um piso.
+
+d) A criação de um circuito de manutenção equipado com estruturas de apoio construídas com materiais naturais;
+
+e) A criação de uma pista de pesca dotada de equipamentos e infraestruturas de apoio a essa prática;
+
+f) A recuperação da rampa de acesso ao plano de água e apoio;
+
+g) Um parque de estacionamento regularizado, fora da área reservada.
+
+###### Artigo 102.º-E — Área de Aptidão Recreativa de Maladão
+
+Nesta área está prevista a sua recuperação e arranjo paisagístico, bem como a construção e implantação de um conjunto de equipamentos e de infra -estruturas de apoio à utilização recreativa, nomeadamente:
+
+a) A construção de um restaurante com esplanada, não podendo aquela ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+Área máxima de implantação de 300 m2;
+
+Número máximo de um piso;
+
+b) A construção de um parque de merendas e de um parque infantil devidamente equipados e infraestruturados;
+
+c) A implantação de piscina fluvial e a construção de equipamento de apoio a esta atividade balnear como instalações sanitárias e balneários;
+
+d) A construção de parques de estacionamento regularizados, fora da área reservada.
+
+###### Artigo 102.º-F — Área de aptidão turística da Roda
+
+Esta área será executada através de uma unidade operativa de planeamento e gestão [UOPG], identificada na Planta de Ordenamento do PDM e na Planta de Ordenamento - Zona de Proteção Albufeira de Fronhas como UOPG 6, a qual respeitará as disposições definidas para a referida UOPG 6, conforme consta do Anexo I - Unidades Operativas de Planeamento e Gestão - do regulamento do PDM.
+
+##### SUBSECÇÃO III — Zona de proteção de nível V
+
+###### Artigo 103.º — Regime geral
+
+1 - A zona de proteção de nível V é constituída por áreas de ocupação urbana de densidade variável, referenciadas indicativamente.
+
+2 - A delimitação, classificação e qualificação do solo dessas áreas de ocupação urbana é a constante na planta de ordenamento - classificação e qualificação do solo, cujo uso, ocupação e transformação do solo se rege pelo disposto nas normas regulamentares das respetivas categorias de espaço do presente regulamento.
+
+3 - As áreas da zona de proteção de nível V que não foram incluídas em perímetros urbanos ou aglomerados rurais, devem observar o disposto no artigo 100.º do presente regulamento e as normas regulamentares das respetivas categorias de espaço onde se inserem.
+
+###### Artigo 104.º — Regime específico
+
+1 - Na zona de proteção à captação de água superficial inserida na zona de proteção da albufeira, são interditas a prática de quaisquer atividades ou instalações, excecionando apenas as que têm por finalidade a conservação, a manutenção e a beneficiação da exploração da captação.
+
+2 - Para as edificações existentes ou a construir na zona de proteção da albufeira, não abrangidas pelos sistemas públicos de recolha de tratamento das águas residuais, é obrigatório:
+
+a) A construção, sempre que se trate de edificações localizadas na envolvente próximo do plano de água, na faixa dos 150 metros de projeção horizontal contados a partir do nível de pleno armazenamento, de fossas estanques com capacidade adequada e transporte das águas residuais a destino final adequado;
+
+b) A construção, sempre que se trate de edificações localizadas na restante área de intervenção, de fossas estanques com capacidade adequada, ou em alternativa, a construção de fossas séticas associadas a órgãos complementares de infiltração ou de filtração, cujo dimensionamento terá de ser efetuado e licenciado em função da realização de ensaios específicos de permeabilidade dos solos;
+
+c) Nas zonas de aptidão recreativa e na área de aptidão turística é obrigatória a construção de sistema de recolha de tratamentos tipo terciário de águas residuais ou em alternativa, a construção de fossas estanques nos termos definidos nos números anteriores.
+
+### CAPÍTULO X — Paisagem Protegida da Serra do Açor
+
+#### SECÇÃO I — Disposições Gerais
+
+###### Artigo 105.º — Âmbito e objetivos
+
+1 - O presente capítulo estabelece as regras aplicáveis à Planta de Ordenamento - Paisagem protegida da Serra do Açor, as quais prevalecem sobre as demais regras estabelecidas nos capítulos anteriores.
+
+2 - A área de paisagem protegida da Serra do Açor encontra-se demarcada na planta de ordenamento do PDM de Arganil na categoria de espaço natural, tendo o nível de proteção para cada tipo de área sido definido de acordo com a importância dos valores naturais presentes e a respetiva sensibilidade ecológica, tendo o Espaço Natural correspondente à PPSA sido subdividido nas seguintes subcategorias de espaço:
+
+i) Área de Proteção Total;
+
+ii) Área de Proteção Parcial I;
+
+iii) Área de Proteção Parcial II;
+
+iv) Área de Proteção Complementar;
+
+v) Área exterior à PPSA incluída no SIC Complexo do Açor (PTCON0051).
+
+3 - A área de paisagem protegida da Serra do Açor [APPSA] integra áreas prioritárias para a conservação da natureza e da biodiversidade, com inegáveis valores paisagísticos, culturais, científicos e recreativos e tem como objetivo a salvaguarda dos recursos e valores naturais, bem como a definição de um regime de gestão compatível com a utilização sustentável do território, através do estabelecimento e regulamentação de usos preferenciais, condicionados e interditos na sua área de intervenção, determinados por critérios de conservação da natureza e da biodiversidade, nos termos da legislação vigente.
+
+#### SECÇÃO II — Disposições Comuns
+
+###### Artigo 106.º — Atos e atividades interditas
+
+Na área de paisagem protegida da Serra do Açor, para além das interdições decorrentes de legislação específica e sem prejuízo das disposições específicas previstas para as áreas sujeitas a regimes de proteção, são interditos os seguintes atos e atividades:
+
+a) As ações de prospeção pesquisa e de extração de inertes;
+
+b) A instalação de suiniculturas, aviculturas, ou quaisquer outras explorações zootécnicas similares em sistemas de exploração intensivo;
+
+c) Operações de loteamento urbano ou industrial;
+
+d) A instalação ou ampliação de depósitos de materiais de construção e demolição, de sucata, de veículos, de inertes, de operações de gestão de resíduos, bem como o vazamento de outros resíduos sólidos ou líquidos;
+
+e) A instalação de estabelecimentos industriais dos tipos 1 e 2, que à data da entrada em vigor do DL n.º 209/2008 de 29 de outubro, se encontravam incluídos no Tipo I e II, respetivamente nos n.º 2 e n.º 3 do artigo 4.º;
+
+f) A instalação de depósitos de produtos explosivos ou de combustíveis, incluindo postos de combustível;
+
+g) A instalação de novos aproveitamentos energéticos, com exceção dos previstos na alínea f) do n.º 1 do artigo 107.º [atos e atividades condicionados];
+
+###### Artigo 107.º — Atos e atividades condicionados
+
+Sem prejuízo dos pareceres, das autorizações ou das aprovações legalmente exigíveis, bem como das disposições específicas previstas para as áreas sujeitas a regimes de proteção, ficam sujeitos a autorização ou parecer vinculativo da entidade competente em matéria de conservação da natureza e biodiversidade, os seguintes atos e atividades:
+
+a) As alterações da utilização atual do solo;
+
+b) A realização de quaisquer obras de construção, reconstrução, ampliação e demolição de edificações;
+
+c) A autorização de alteração da utilização de edificações preexistentes;
+
+d) A abertura de estradas, caminhos e acessos, bem como a beneficiação, ampliação ou qualquer modificação dos existentes, com exceção das operações de manutenção de caminhos agrícolas;
+
+e) A instalação, beneficiação ou manutenção de infraestruturas hidráulicas, elétricas, de telecomunicações, de transporte de gás natural, de saneamento básico ou de transporte de energia;
+
+f) A instalação de aerogeradores, desde que localizados em áreas de proteção complementar acima dos 950 m de altitude;
+
+g) A instalação, reconversão ou intensificação de explorações agrícolas extensivas, agropecuárias ou zootécnicas, nomeadamente a introdução de culturas irrigadas e respetivos sistemas de irrigação e drenagem, quando impliquem a edificação e ampliação de construções;
+
+h) As obras de escassa relevância urbanística identificadas nas alíneas b) e g) do n.º 1 do artigo 6.º-A da [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138) de 23 de setembro.
+
+###### Artigo 108.º — Edificações e infraestruturas
+
+1 - Todos os projetos de edificações e infraestruturas fora do espaço urbano de baixa densidade de Pardieiros e do aglomerado rural do Enxudro devem respeitar os valores e as características culturais e paisagísticas do sítio em que se inserem, designadamente na implantação, morfologia, tipologias, materiais e cores, sendo interdita a adoção de soluções agressivas ou dissonantes.
+
+2 - É obrigatória a recuperação e o tratamento paisagístico das áreas alteradas pelas obras de edificação.
+
+3 - Os projetos são acompanhados, sem prejuízo do disposto na legislação aplicável, dos seguintes elementos, sempre que solicitado:
+
+a) Inventariação das espécies de fauna e da flora de porte arbóreo e maciço de vegetação a manter ou a eliminar durante a execução dos trabalhos;
+
+b) Estudo de integração paisagística à escala adequada;
+
+c) Levantamento topográfico do local.
+
+#### SECÇÃO III — Disposições Específicas
+
+##### SUBSECÇÃO I — Espaço Natural
+
+###### Artigo 109.º — Tipologias
+
+1 - Na área de intervenção do APPSA encontram-se identificadas as seguintes subcategorias sujeitas a regimes de proteção:
+
+a) Área de proteção total;
+
+b) Área de proteção parcial I
+
+c) Área de proteção parcial II
+
+d) Áreas de proteção complementar.
+
+##### DIVISÃO I — Áreas de proteção total
+
+###### Artigo 110.º — Âmbito e objetivos
+
+1 - As áreas de proteção total correspondem a espaços onde os valores naturais assumem um caráter de excecionalidade do ponto de vista da conservação da natureza e que se caracterizam por uma sensibilidade ecológica muito elevada.
+
+2 - As áreas integradas em Proteção Total englobam a unidade de vegetação de florestas pré-climáticas de folhosas indígenas da Mata da Margaraça.
+
+3 - Nas áreas de proteção total pretende-se preservar locais de elevado interesse e extrema sensibilidade à intervenção humana, de forma a garantir a manutenção dos processos naturais em estado de perturbação mínima e preservar amostras ecologicamente representativas num estado dinâmico e evolutivo.
+
+###### Artigo 111.º — Disposições específicas das áreas de proteção total
+
+As áreas de proteção total são áreas non aedificandi.
+
+##### DIVISÃO II — Áreas de proteção parcial do tipo I
+
+###### Artigo 112.º — Âmbito e objetivos
+
+1 - As áreas de proteção parcial do tipo I correspondem a espaços que contêm valores naturais e paisagísticos muito relevantes para a conservação da natureza e da biodiversidade, bem como de elevada sensibilidade ecológica, em que os usos temporários do solo ou da água podem ser compatíveis com a conservação de habitats naturais e de espécies da flora e da fauna, desempenhando também funções de enquadramento ou transição das áreas de nível superior.
+
+2 - As áreas referidas no número anterior englobam unidades de vegetação correspondentes às comunidades não climácicas de folhosas indígenas, às comunidades ripícolas, aos bosquetes residuais de sobreiro, aos matagais arborescentes de espécies lauróides e às comunidades rupícolas e prados de altitude, incluindo também a área definida para visitação da Mata da Margaraça.
+
+3 - Os principais objetivos das áreas de proteção parcial do tipo I são:
+
+a) A conservação dos valores naturais e paisagísticos relevantes para a conservação da natureza e da biodiversidade;
+
+b) A consolidação de áreas nucleares de espécies florísticas e faunísticas.
+
+###### Artigo 113.º — Disposições específicas das áreas de proteção parcial do tipo I
+
+1 - Sem prejuízo do disposto no artigo 105.º do presente regulamento, nas áreas de proteção parcial do tipo I são ainda interditas as seguintes atividades:
+
+a) As alterações da utilização atual do solo, exceto as ações de conservação da natureza promovidas ou autorizadas pela entidade competente em matéria de conservação da natureza e da biodiversidade;
+
+b) A abertura de estradas, caminhos e acessos, podendo ser efetuada a beneficiação e manutenção das existentes, bem como as ações necessárias à defesa da floresta ao abrigo da legislação específica aplicável;
+
+c) A instalação de infraestruturas hidráulicas, elétricas, de telecomunicações, de transporte de gás natural, de saneamento básico ou de produção e transporte de energia;
+
+d) A realização de quaisquer obras de construção ou de ampliação;
+
+e) A instalação de unidades de alojamento turístico.
+
+##### DIVISÃO III — Áreas de proteção parcial do tipo II
+
+###### Artigo 114.º — Âmbito e objetivos
+
+1 - As áreas de proteção parcial do tipo II correspondem a espaços que contêm valores naturais e paisagísticos relevantes para a conservação da natureza, bem como de moderada sensibilidade ecológica, em que a manutenção dos habitats naturais e de determinadas espécies da flora e da fauna é compatível ou depende dos usos tradicionais do solo e da água, desempenhando também funções de enquadramento ou transição das áreas de nível superior, podendo ainda funcionar como corredores ecológicos.
+
+2 - As áreas referidas no número anterior englobam as áreas agrícolas e de pinhal da Área da Paisagem Protegida da Serra do Açor.
+
+3 - Os principais objetivos das áreas de proteção parcial do tipo II são:
+
+a) A conservação dos valores naturais e paisagísticos relevantes para a conservação da natureza e da biodiversidade;
+
+b) A manutenção dos espaços rurais, assegurando a conservação dos valores paisagísticos e culturais;
+
+c) A promoção do uso sustentável dos recursos, garantindo o desenvolvimento socioeconómico local;
+
+d) A promoção e valorização das atividades tradicionais de natureza agrícola e florestal, ou de exploração de outros recursos que constituam o seu suporte, ou que sejam compatíveis com o seu uso sustentável e os valores paisagísticos a preservar.
+
+###### Artigo 115.º — Disposições específicas das áreas de proteção parcial do tipo II
+
+Sem prejuízo do disposto no artigo 105.º do presente Regulamento, nas áreas de proteção parcial do tipo II são ainda interditas as seguintes atividades:
+
+a) As alterações da utilização atual do solo, exceto as decorrentes de ações de conservação da natureza promovidas ou autorizadas pela entidade competente em matéria de conservação da natureza e biodiversidade;
+
+b) A realização de quaisquer obras de construção ou de ampliação.
+
+##### DIVISÃO IV — Áreas de proteção complementar
+
+###### Artigo 116.º — Âmbito e objetivos
+
+1 - As áreas de proteção complementar correspondem a espaços constituídos por coberturas vegetais de reduzido valor natural e média sensibilidade ecológica, mas que estabelecem a transição e amortecimento de impactes e são necessárias à proteção das áreas em que se verificam níveis superiores de proteção.
+
+2 - As áreas de proteção complementar englobam áreas de giestal e de urzal da Área da Paisagem Protegida da Serra do Açor.
+
+3 - Os principais objetivos das áreas de proteção complementar são:
+
+a) A integração e enquadramento das áreas rurais e outras, devendo a intervenção humana ser compatibilizada com os valores naturais e paisagísticos;
+
+b) A valorização das atividades tradicionais, nomeadamente silvopastoris ou de exploração de outros recursos que constituam o suporte, ou que sejam compatíveis com os valores paisagísticos a preservar.
+
+###### Artigo 117.º — Disposições específicas das áreas de proteção complementar
+
+1 - Nas áreas de proteção complementar aplica-se o disposto nos artigos 106.º e 107.º do presente Regulamento, sem prejuízo dos pareceres, autorizações ou aprovações que sejam legalmente exigíveis nos termos da legislação aplicável.
+
+2 - A área de implantação de qualquer edificação localizada na área de proteção complementar pode ser ampliada até 50 % da área inicial, estando sujeita aos seguintes limites máximos:
+
+i) Edifícios de habitação: 200 m2;
+
+ii) Edifícios que prestam serviços de alojamento, desde que reconhecidos como Turismo de natureza: 500 m2.
+
+##### SUBSECÇÃO II — Áreas de exclusão dos regimes de proteção
+
+###### Artigo 118.º — Regime de edificabilidade
+
+Ao aglomerado rural do Enxudro e ao espaço urbano de baixa densidade de Pardieiros, aplica-se o regime de edificabilidade constante, respetivamente, os artigos n.º 37 e n.º 48.
+
+##### SUBSECÇÃO III — Áreas de intervenção específica
+
+###### Artigo 119.º — Regime de proteção
+
+As áreas de intervenção específica - Áreas de Acacial e Fraga da Pena - estão abrangidas pela aplicação dos regimes de proteção das áreas que lhe estão subjacentes.
+
+### CAPÍTULO XI — Disposições Finais e Complementares
+
+###### Artigo 120.º — Alteração à legislação
+
+Quando se verificarem alterações à legislação em vigor, referida neste Regulamento, as remissões expressas que para ela forem feitas, considerar-se-ão automaticamente transferidas para a nova legislação.
+
+###### Artigo 121.º — Omissões
+
+Quaisquer omissões ou dúvidas de interpretação e aplicação do presente Regulamento serão resolvidas, de acordo com a legislação em vigor.
+
+###### Artigo 122.º — Revisão
+
+O presente Plano deve ser revisto no prazo de 10 anos.
+
+###### Artigo 123.º — Entrada em vigor
+
+O presente regulamento entra em vigor no dia útil seguinte ao da sua publicação no Diário da República.
+
+## ANEXO I — Unidades Operativas de Planeamento e de Gestão
+
+UOPG 1 - Expansão Poente da Vila de Arganil
+
+1 - Objetivos Programáticos:
+
+a) Dotar o concelho de Arganil de um espaço urbano de qualidade, com um programa predominantemente habitacional, associado à atividade comercial, de serviços e do uso turístico, como prolongamento da malha urbana da Vila;
+
+b) Reforçar o papel aglutinador da EN 342 articulando este espaço com sua a envolvente;
+
+c) Garantir a consolidação da malha urbana intervindo nos vazios urbanos ainda existentes.
+
+d) Dinamizar o tecido comercial local;
+
+e) Resolver problemas ao nível da rede viária, como sejam o trânsito de atravessamento e a carência de espaços de estacionamento;
+
+f) Garantir a implementação de novas áreas que ofereçam adequadas condições de acessibilidade e de qualidade do espaço público.
+
+2 - Orientações e parâmetros urbanísticos:
+
+a) Articulação com a nova variante norte à vila, como alternativa ao trânsito de atravessamento nascente/poente do aglomerado;
+
+b) Os projetos e as operações urbanísticas deverão encontrar soluções que forneçam áreas de reserva urbanística a depositar na bolsa municipal de terrenos para usos de interesse público;
+
+c) O índice médio de utilização e a área de cedência média serão definidos em plano de pormenor ou unidade de execução;
+
+d) Os parâmetros de dimensionamento e a cedência dos solos a afetar para acessibilidades, equipamentos e espaços verdes de utilização coletiva serão definidos em plano de pormenor ou unidade de execução.
+
+e) Os parâmetros urbanísticos a aplicar:
+
+i) Índice de Utilização do Solo aplicado à totalidade da Unidade Operativa de Planeamento e de Gestão, 1,0;
+
+ii) Índice de Ocupação do Solo aplicado à totalidade da Unidade Operativa de Planeamento e de Gestão, 0,50;
+
+iii) Número de Pisos acima do solo, máximo, 3.
+
+3 - Orientações para a execução:
+
+a) Negociação com proprietários para a definição da intervenção quer do ponto de vista programático quer do ponto de vista do adequado desenho urbano;
+
+b) Elaboração de Plano de Pormenor, ou constituição de uma ou várias Unidades de Execução envolvendo a globalidade da Área de Intervenção Prioritária;
+
+c) Os parâmetros urbanísticos acima referidos, em sede de plano de pormenor, podem ser majorados ou minorados, 20 %.
+
+UOPG 2 - Expansão Norte de Côja
+
+1 - Objetivos Programáticos:
+
+a) Dotar o concelho de um espaço urbano de qualidade, com um programa predominantemente habitacional, associado à atividade comercial, de serviços e do uso turístico;
+
+b) Potenciar a criação de uma malha urbana qualificada como remate urbano da área edificada existente, intervindo nos vazios urbanos ainda existentes;
+
+c) Criar uma nova centralidade partilhada pela função residencial mas onde predomina a função terciária e onde a presença dos espaços verdes urbanos são um fator distintivo;
+
+d) Apostar numa estrutura verde e paisagem de excelência, de recreio e lazer ativos, aproveitando o potencial da riqueza de estrutura ecológica no local;
+
+2 - Orientações e parâmetros urbanísticos:
+
+a) Os projetos e as operações urbanísticas deverão encontrar soluções que forneçam áreas de reserva urbanística a depositar na bolsa municipal de terrenos para usos de interesse público;
+
+b) O índice médio de utilização e a área de cedência média serão definidos em plano de pormenor ou unidade de execução;
+
+c) Os parâmetros de dimensionamento e a cedência dos solos a afetar para acessibilidades, equipamentos e espaços verdes de utilização coletiva serão definidos em plano de pormenor ou unidade de execução.
+
+d) Os parâmetros urbanísticos a aplicar:
+
+i) Índice de Utilização do Solo aplicado à totalidade da Unidade Operativa de Planeamento e de Gestão, 1,0;
+
+ii) Índice de Ocupação do Solo aplicado à totalidade da Unidade Operativa de Planeamento e de Gestão, 0,50;
+
+iii) Número de Pisos acima do solo, máximo, 3.
+
+3 - Orientações para a execução:
+
+a) Definição do caderno de encargos para uma área que se entende ser estruturante na qualificação e valorização do território mono funcional de Côja;
+
+b) Negociação com proprietários para a definição da intervenção quer do ponto de vista programático quer do ponto de vista do adequado desenho urbano;
+
+c) Elaboração de Plano de Pormenor, ou constituição de uma ou várias Unidades de Execução envolvendo a globalidade da Área de Intervenção Prioritária;
+
+d) Os parâmetros urbanísticos acima referidos, em sede de plano de pormenor, podem ser majorados ou minorados, 20 %.
+
+UOPG 3 - Polo de Atividades Económicas de Côja
+
+1 - Objetivos Programáticos:
+
+a) Gerir a localização industrial através da oferta de espaços industriais infraestruturados e apoiados em eixos de mobilidade preferencial;
+
+b) Assumir um espaço de atividade económica já existente, associado ao eixo da EN 342 como espaço preferencial para a valorização da atividade económica do concelho;
+
+2 - Orientações e parâmetros urbanísticos:
+
+a) Enquadrar e qualificar um espaço de atividades económicas já existentes;
+
+b) Definir os diferentes usos e funções;
+
+c) Dotar o espaço industrial de serviços e equipamentos de uso comum;
+
+d) Garantir um adequado enquadramento da área com a envolvente seja ao nível ambiental, paisagístico ou, mesmo, seja ao nível da prevenção de risco de incêndio.
+
+e) Os parâmetros urbanísticos a aplicar:
+
+i) Índice de Utilização do Solo aplicado à totalidade da Unidade Operativa de Planeamento e de Gestão, 1,0;
+
+ii) Índice de Ocupação do Solo aplicado à totalidade da Unidade Operativa de Planeamento e de Gestão, 0,70;
+
+iii) Altura máxima da fachada, 9 metros.
+
+f) Excetuam-se do disposto na alínea anterior, os elementos das edificações que, por razões técnicas ou do respetivo funcionamento das atividades neles localizadas, justificadamente exijam uma altura superior a 2 pisos.
+
+3 - Orientações para a execução:
+
+a) A execução deve ser enquadrada em Plano de Urbanização ou de Pormenor e deve estabelecer o modelo de ocupação para a globalidade da área;
+
+b) Os índices e parâmetros urbanísticos acima referidos para a UOPG podem, em sede de plano de urbanização ou de pormenor ou unidade de execução, ser majorados ou minorados até ao máximo de 20 %.
+
+UOPG 4 - Polo de Atividades Económicas da Relvinha
+
+1 - Objetivos Programáticos:
+
+a) Gerir a localização industrial através da oferta de espaços industriais infraestruturados e apoiados em eixos de mobilidade preferencial, potenciado pela proximidade do nó do IC6;
+
+b) Assumir o eixo da EN 342-4 como via preferencial para a valorização da atividade económica do concelho.
+
+2 - Orientações e parâmetros urbanísticos:
+
+a) Promover a expansão, estruturação e infraestruturação de um espaço industrial programado, na continuidade de uma Zona Industrial já existente;
+
+b) Reforçar o papel de Arganil no contexto regional, não só como espaço habitacional qualificado mas também e sobretudo na oferta de espaços de atividade económica estruturados e qualificados;
+
+c) Fasear a intervenção de maneira a torná-la exequível e flexível:
+
+i) Resolução dos problemas inerentes na relação deste tipo de atividade com o meio urbano envolvente;
+
+ii) Concretização de um espaço industrial estruturado, que contribua para a melhoria da qualidade e da imagem dos novos espaços industrial;
+
+iii) Promover e articular este espaço com o nó do IC6.
+
+d) Concretizar um estudo de gestão territorial para esta unidade operativa de planeamento e gestão;
+
+e) Os parâmetros urbanísticos a aplicar:
+
+i) Índice de Utilização do Solo aplicado à totalidade da Unidade Operativa de Planeamento e de Gestão, 1,0;
+
+ii) Índice de Ocupação do Solo aplicado à totalidade da Unidade Operativa de Planeamento e de Gestão, 0,70;
+
+iii) Altura máxima da fachada, 9 metros.
+
+f) Excetuam-se do disposto na alínea anterior, os elementos das edificações que, por razões técnicas ou do respetivo funcionamento das atividades neles localizadas, justificadamente exijam uma altura superior a 2 pisos.
+
+3 - Orientações para a execução:
+
+a) A execução deve ser enquadra em Plano de Urbanização e/ou de Pormenor e deve estabelecer o modelo de ocupação para a globalidade da área;
+
+b) Negociação com proprietários para a definição da intervenção quer do ponto de vista programático quer do ponto de vista do desenho adequado;
+
+c) Constituição de uma ou várias Unidades de Execução envolvendo a globalidade da Área de Intervenção;
+
+d) Os índices e parâmetros urbanísticos acima referidos para a UOPG, podem em sede de plano de urbanização ou de pormenor ou em unidade de execução ser majorados ou minorados até ao máximo de 20 %.
+
+UOPG 5 - Polo de Atividades Económicas de Vale do Fojo
+
+1 - Objetivos Programáticos:
+
+a) Gerir a localização industrial através da oferta de espaços industriais infraestruturados e apoiados em eixos de mobilidade preferencial;
+
+b) Assumir um espaço de atividade económica já existente, associado ao eixo da EN 17 como espaço preferencial para a valorização da atividade económica do concelho;
+
+2 - Orientações e parâmetros urbanísticos:
+
+a) Enquadrar e qualificar um espaço de atividades económicas já existentes;
+
+b) Definir os diferentes usos e funções;
+
+c) Dotar o espaço industrial de serviços e equipamentos de uso comum;
+
+d) Garantir um adequado enquadramento da área com a envolvente seja ao nível ambiental, paisagístico ou, mesmo, seja ao nível da prevenção de risco de incêndio;
+
+e) Os parâmetros urbanísticos a aplicar:
+
+i) Índice de Utilização do Solo aplicado à totalidade da Unidade Operativa de Planeamento e de Gestão, 1,0;
+
+ii) Índice de Ocupação do Solo aplicado à totalidade da Unidade Operativa de Planeamento e de Gestão, 0,70;
+
+iii) Altura máxima da fachada, 9 metros.
+
+f) Excetuam-se do disposto na alínea anterior, os elementos das edificações que, por razões técnicas ou do respetivo funcionamento das atividades neles localizadas, justificadamente exijam uma altura superior a 2 pisos.
+
+3 - Orientações para a execução:
+
+a) A execução deve ser enquadrada em Plano de Urbanização ou de Pormenor e deve estabelecer o modelo de ocupação para a globalidade da área;
+
+b) Os índices e parâmetros urbanísticos acima referidos para a UOPG podem, em sede de plano de urbanização ou de pormenor ou unidade de execução, ser majorados ou minorados até ao máximo de 20 %.
+
+UOPG 6 - Área de aptidão turística da Roda
+
+1 - Objetivos Programáticos:
+
+Prever a construção de um empreendimento turístico com a classificação de Aldeamento Turístico.
+
+2 - Orientações e parâmetros urbanísticos:
+
+A construção não poderá ser objeto de licenciamento ou de admissão de comunicação prévia se não se verificarem os seguintes requisitos:
+
+a) Número máximo de 210 camas;
+
+b) Índice máximo de implantação de 0,07;
+
+c) Índice máximo de impermeabilização de 0,24;
+
+d) Número máximo de dois pisos.
+
+3 - Orientações para a execução:
+
+a) A execução deve ser enquadrada em Plano de Urbanização e/ou de Pormenor e deve estabelecer o modelo de ocupação para a globalidade da área;
+
+b) O empreendimento turístico deve ainda integrar um conjunto de estruturas e de infraestruturas de apoio à utilização do plano de água, a definir em projeto próprio, nomeadamente um ponto de acostagem;
+
+c) O empreendimento turístico referido nos números anteriores deve, nos termos da legislação específica em vigor, possuir as condições exigidas para a categoria mínima de 4 estrelas.
+
+## ANEXO II — Património Edificado
+
+Esta informação consta em forma de link em anexo.
+
+## ANEXO III — Património Arqueológico
+
+[(*) Designação de sítio sem representação cartográfica, na Planta de Ordenamento - Sistema Patrimonial, por carecer de validação de localização ou existência]
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/07/135000001/0000200080.pdf)
+
+Identificadores das imagens e respetivos endereços do sítio do SNIT
+
+(conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+
+60093 - [http://ssaigt.dgterritorio.pt/i/POrd_60093_0601_PO_UsoS_Pub.jpg](http://ssaigt.dgterritorio.pt/i/POrd_60093_0601_PO_UsoS_Pub.jpg)
+
+60094 - [http://ssaigt.dgterritorio.pt/i/POrd_60094_0601_PO_1_4_Pub.jpg](http://ssaigt.dgterritorio.pt/i/POrd_60094_0601_PO_1_4_Pub.jpg)
+
+60095 - [http://ssaigt.dgterritorio.pt/i/POrd_60095_0601_PO_1_5_Dep.jpg](http://ssaigt.dgterritorio.pt/i/POrd_60095_0601_PO_1_5_Dep.jpg)
+
+60096 - [http://ssaigt.dgterritorio.pt/i/PCond_60096_0601_PC_2_7_Pub.jpg](http://ssaigt.dgterritorio.pt/i/PCond_60096_0601_PC_2_7_Pub.jpg)
+
+60275 - [http://ssaigt.dgterritorio.pt/i/Os_demais_elementos_do_plano_afetados_60275_0601_An_II_1_Pub.jpg](http://ssaigt.dgterritorio.pt/i/Os_demais_elementos_do_plano_afetados_60275_0601_An_II_1_Pub.jpg)
+
+60275 - [http://ssaigt.dgterritorio.pt/i/Os_demais_elementos_do_plano_afetados_60275_0601_An_II_2_Pub.jpg](http://ssaigt.dgterritorio.pt/i/Os_demais_elementos_do_plano_afetados_60275_0601_An_II_2_Pub.jpg)
+
+60275 - [http://ssaigt.dgterritorio.pt/i/Os_demais_elementos_do_plano_afetados_60275_0601_An_II_3_Pub.jpg](http://ssaigt.dgterritorio.pt/i/Os_demais_elementos_do_plano_afetados_60275_0601_An_II_3_Pub.jpg)
+
+60275 - [http://ssaigt.dgterritorio.pt/i/Os_demais_elementos_do_plano_afetados_60275_0601_An_II_4_Pub.jpg](http://ssaigt.dgterritorio.pt/i/Os_demais_elementos_do_plano_afetados_60275_0601_An_II_4_Pub.jpg)
+
+60275 - [http://ssaigt.dgterritorio.pt/i/Os_demais_elementos_do_plano_afetados_60275_0601_An_II_5_Pub.jpg](http://ssaigt.dgterritorio.pt/i/Os_demais_elementos_do_plano_afetados_60275_0601_An_II_5_Pub.jpg)
+
+614409044

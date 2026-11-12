@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:2260961:por
+title: Declaração n.º 3/2013
+short_title: null
+summary: Aprovação dos mapas de parcelas a expropriar e onerar com servidão administrativa de aqueduto público subterrâneo,
+  com caráter urgente, a pedido da Empresa das Águas de Santarém, E. M., S. A.
+jurisdiction: portugal
+territory: null
+document_type: declaracao
+document_type_label: Declaração
+issuing_authority:
+- Presidência do Conselho de Ministros - Direção-Geral das Autarquias Locais
+proposing_entity: null
+official_number: 3/2013
+official_date: null
+publication_date: '2013-01-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 4/2013, Série II de 2013-01-07
+  number: '4'
+  series: II
+  supplement: null
+  pages: 497 - 498
+  pdf_url: https://files.diariodarepublica.pt/2s/2013/01/004000000/0049700498.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2260961'
+  dre_path: /dr/detalhe/declaracao/3-2013-2260961
+  internal: pt:dre:2260961:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao/3-2013-2260961
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao/3-2013-2260961
+  consolidated_url: null
+  retrieved_at: '2026-11-12T18:12:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8d9cd92b31f1733432977816c32a4411fe0b8e155bc89350477352fcf9e11055
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T18:12:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Abastecimento de Água
+- Expropriação
+- Santarém
+- Servidão Administrativa
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:309323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T18:12:10Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração n.º 3/2013
+
+Torna-se público que o Secretário de Estado da Administração Local e Reforma Administrativa, por despacho de 19 de dezembro de 2012, no exercício das competências previstas no n.º 1 do artigo 3.º do [Decreto-Lei n.º 123/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2010-309323), de 12 de novembro, e nos termos e para os efeitos previstos nos artigos 1.º, 2.º, 3.º e 7.º, todos do mesmo decreto-lei, sob proposta da Empresa das Águas de Santarém, E. M., S. A., aprovou os mapas de parcelas constantes da IT I-001278-2012, de 11 de dezembro de 2012, da Direção-Geral das Autarquias Locais, cuja expropriação e oneração com servidão administrativa de aqueduto público, com caráter de urgência, são necessárias para efeitos de construção do "Sistema de Saneamento de Santos", com os fundamentos de facto e de direito aí expostos e tendo em consideração os documentos constantes do processo n.º 13.013.12/DMAJ, daquela Direção-Geral, onde podem ser consultados.
+
+Mapa de identificação da parcela a expropriar
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/01/004000000/0049700498.pdf)
+
+Mapa de concretização dos bens a sujeitar a servidão administrativa
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/01/004000000/0049700498.pdf)
+
+A faixa de servidão apresenta uma área total de 9353,40 m2, com 935,34 m de comprimento e 10 m de largura (5 m para cada lado do eixo longitudinal da conduta), e implica os seguintes encargos:
+
+A ocupação permanente do subsolo na zona da instalação da conduta;
+
+A proibição de realizar escavações ou edificar qualquer tipo de construção duradoura ou precária, numa faixa de 3 m para cada lado do eixo longitudinal da conduta;
+
+A proibição de plantar árvores de qualquer espécie perene, de porte médio ou grande, ou cuja raiz atinja profundidades superiores a 0,8 m, numa faixa de 5 m para cada lado do eixo longitudinal da conduta;
+
+A obrigação dos atuais e subsequentes proprietários, arrendatários ou possuidores a qualquer título do terreno em causa de manterem livre a respetiva área, zona aérea e subterrânea de incidência e de consentirem, sempre que se mostre necessário, no acesso e ocupação pela entidade beneficiária da referida faixa de 5 m de largura, com 2,5 m de largura para cada lado do eixo longitudinal da conduta, para a realização de obras de construção, reparação, manutenção, vigilância e exploração da conduta ou para a instalação de circuitos de dados e outras componentes das infraestruturas ou que à mesma possam estar associadas, nos termos e para os efeitos do preceituado nos artigos 1.º e 2.º do [Decreto-Lei n.º 34021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34021-1944-561799), de 11 de outubro de 1944.
+
+26 de dezembro de 2012. - A Subdiretora-Geral, Sónia Ramalhinho.
+
+206630988

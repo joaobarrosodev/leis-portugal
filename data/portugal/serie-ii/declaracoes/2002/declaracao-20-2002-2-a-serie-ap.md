@@ -1,0 +1,89 @@
+---
+schema_version: '1.0'
+id: pt:dre:2436347:por
+title: Declaração n.º 20/2002 (2.ª série) - AP
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: declaracao
+document_type_label: Declaração
+issuing_authority:
+- Assembleia Municipal da Figueira da Foz
+proposing_entity: null
+official_number: 20/2002 (2.ª série) - AP
+official_date: null
+publication_date: '2002-06-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 140/2002, Apêndice 80/2002, Série II de 2002-06-20
+  number: '140'
+  series: II
+  supplement: null
+  pages: 3 - 3
+  pdf_url: https://files.diariodarepublica.pt/2s/2002/06/140080000/0000300003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2436347'
+  dre_path: /dr/detalhe/declaracao/20-2002-2436347
+  internal: pt:dre:2436347:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao/20-2002-2436347
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao/20-2002-2436347
+  consolidated_url: null
+  retrieved_at: '2026-11-12T18:16:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 18c54211a03af5627ec6b7b02cc01a66136984be9178c94e19404eb4827ef088
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T18:16:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T18:16:31Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração n.º 20/2002 (2.ª série) - AP
+
+Declaração n.º 20/2002 (2.ª série) - AP. - Torna-se público que a Assembleia Municipal da Figueira da Foz, em sessão realizada no dia 27 de Dezembro do ano 2001, sob proposta da Câmara Municipal da Figueira da Foz, desistiu da expropriação do prédio abaixo identificado, cuja declaração de utilidade pública foi publicada no Diário da República, 2.ª série, n.º 163, do dia 17 de Julho de 2000:
+
+Parcela de terreno, designada com o n.º 13, com a área de 200 m2, a destacar do prédio misto sito na Várzea, inscrito na matriz predial rústica da freguesia de São Julião sob o artigo 74, e na matriz predial urbana da freguesia de Tavarede sob o artigo 671 e omissos na 1.ª Conservatória do Registo Predial pertencente aos herdeiros de João Miguéis Fadigas e Ermida Gaspar da Silva, sem determinação de parte ou direito: João da Silva Fadigas, casado com Júlia Lopes Serra sob o regime da comunhão geral de bens, residentes na Ladeira da Várzea, 13, na Figueira da Foz, José da Silva Fadigas, casado com Maria Manuela Rascão da Piedade sob o regime da comunhão geral de bens, residentes na Rua do 1.º de Maio, 36, Chã Tavarede, Maria Lucília da Silva Fadigas, casada com António Caniceiro Mendes sob o regime da comunhão geral de bens, residentes na Rua da Várzea, 14, Figueira da Foz, António da Silva Fadigas, casado com Maria Alzira Simões Taborda da Silva sob o regime da comunhão geral de bens, residentes na Rua das Galinheiras, 42, na Figueira da Foz, e Guilhermina da Silva Fadigas Góis Nobre, também conhecida por Guilhermina da Silva, viúva, residente na Rua da Várzea, 8, Figueira da Foz.
+
+6 de Maio de 2002. - O Presidente da Assembleia Municipal, Daniel Martins dos Santos.
