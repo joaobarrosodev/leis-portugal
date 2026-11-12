@@ -51,6 +51,7 @@ Acórdãos em `data/jurisprudencia/tribunal-constitucional/`.
 - **Base:** o site do Tribunal Constitucional declara todos os direitos reservados e autoriza a reprodução **para fins privados**, com citação da fonte e da natureza não autêntica do texto. Por isso, o bloco `reuse` destes registos tem `status: restricted`.
 - **Atribuição:** "Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados".
 - **Atenção:** o texto do site não tem carácter autêntico. A versão oficial é a dos arquivos do Tribunal e, para os acórdãos publicados no Diário da República, a do DR (o registo liga-lhe com `published_in`). Antes de reutilizar estes textos fora do uso privado, confirme as condições com o Tribunal.
+- **Pedido ao Tribunal:** em 12/11/2026 o projeto pediu ao Tribunal (Responsável pelo acesso à informação) a confirmação de que esta reutilização é aceite: acesso gratuito, sem fins comerciais, texto sem alterações, fonte e ligação a cada acórdão, menção de que não é a versão oficial, recolha a 1 pedido por segundo. Se o Tribunal não aceitar, o texto dos acórdãos sai do repositório e ficam só o número, a data e a ligação ao site. Enquanto não houver resposta, o estado mantém-se `restricted`.
 
 ## Boas práticas
 
