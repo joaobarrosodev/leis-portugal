@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:618526:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 166/97, 4.º: revogação parcial da Portaria n.º 707/89 apenas «no que se refere aos serviços dos registos e do notariado de Alcochete» — revogação por matéria, não textual (o ponto 1.º lista vários concelhos e o quadro de pessoal só existe em imagem), por isso não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, 4.º: revoga a Portaria 707/89 só quanto a Alcochete — revogação parcial por matéria, não aplicada (nao_aplicavel).",
+    "Alterador 1, 1.º a 3.º: criam serviços e quadros próprios da Portaria 166/97 — não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 14-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º A Comissão Permanente será constituída por um professor universitário de Astronomia e outro de Aeronáutica e pelos representantes dos seguintes organismos:\n\na) Ministério dos Negócios Estrangeiros;\n\nb) Secretaria de Estado da Aeronáutica;\n\nc) Junta de Investigações do Ultramar;\n\nd) Instituto de Alta Cultura;\n\ne) Direcção-Geral da Aeronáutica Civil;\n\nf) Serviço Meteorológico Nacional;\n\ng) Correios e Telecomunicações de Portugal;\n\nh) Observatório Astronómico de Lisboa,\n\ne bem assim por duas entidades, oficiais ou privadas, que se tenham interessado por assuntos de astronáutica.\n\nOs representantes dos organismos acima referidos serão designados pelos respectivos Ministros.\n\nO presidente e o vice-presidente da Junta Nacional de Investigação Científica e Tecnológica poderão assistir a quaisquer reuniões da Comissão Permanente.\n\n3.º O Presidente do Conselho designará de entre os membros que constituem a Comissão Permanente o seu presidente e o seu vice-presidente.",
+    "depois": "2.º A Comissão Permanente de Estudos do Espaço Exterior será constituída pelos representantes das seguintes entidades:\n\nDirecção-Geral dos Negócios Políticos;\n\nDirecção-Geral dos Negócios Económicos;\n\nEstado-Maior da Força Aérea, Base Aérea n.º 1;\n\nEstado-Maior da Armada, Instituto Hidrográfico;\n\nEstado-Maior do Exército, Serviço Cartográfico;\n\nInstituto de Investigação Científica Tropical - JICU;\n\nInstituto Nacional de Investigação Científica;\n\nObservatório Astronómico de Lisboa;\n\nUniversidades (até 3 personalidades de reconhecido mérito no domínio, devendo obrigatoriamente ser uma de astronomia e outra de aeronáutica);\n\nDirecção-Geral de Aviação Civil;\n\nInstituto Nacional de Meteorologia e Geofísica;\n\nDirecção-Geral dos Recursos e Aproveitamentos Hidráulicos;\n\nLaboratório Nacional de Engenharia Civil;\n\nCorreios e Telecomunicações de Portugal;\n\nInstituto Geográfico e Cadastral;\n\nInstituto Nacional de Investigação Agrária e Extensão Rural;\n\nDirecção-Geral das Florestas;\n\nInstituto Nacional de Investigação das Pescas;\n\nDirecção-Geral do Ordenamento;\n\nDirecção-Geral da Qualidade do Ambiente;\n\nAté 6 personalidades de reconhecido mérito na área das actividades ligadas à utilização pacífica do espaço exterior do sector público e privado nomeadas pelo membro de tutela da Junta, sob proposta do presidente desta, ouvidos os restantes membros da Comissão.\n\nOs representantes dos organismos acima referidos serão designados por despacho dos ministros das respectivas tutelas.\n\n3.º A Comissão terá um presidente e um vice-presidente - substituto daquele nos seus impedimentos -, sendo estes os representantes permanentes que tenham obtido a maioria dos votos em eleições directas e secretas realizadas para o efeito em plenário.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:227261:por",
+    "alterador": "pt:dre:310443:por"
+  }
+]

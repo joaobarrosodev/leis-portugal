@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:276242:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Malcata, município do Sabugal, com uma área de 1968 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a substituição da planta anexa não se aplica ao texto porque a planta só existe em imagem.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1472/95): nova redação do n.º 1.º — substituída a unidade 6.",
+    "Alterador 1: a nova planta substitui a anexa — não aplicável (planta só em imagem).",
+    "Alterador 2 (Portaria 82/96): nova redação do n.º 6.º — o texto é igual letra a letra ao atual (unidade 12), nada muda.",
+    "Alterador 3 (Portaria 82/96, repetida): mesma instrução que o alterador 2, nada muda."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:677614:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 694/82, 21.º: revoga por inteiro a Portaria n.º 142/80 (ressalvando só a aplicação às alienações já autorizadas), por isso não há texto a alterar.",
+  "instrucoes": [
+    "Alterador 1, 21.º: revogação total da Portaria 142/80 — nada devolvido (nao_aplicavel).",
+    "Alterador 1, restantes pontos e anexos I a III: regime novo próprio da Portaria 694/82, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

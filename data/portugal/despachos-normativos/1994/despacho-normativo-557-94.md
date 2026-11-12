@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-03-11'
+version_history:
+  file: despacho-normativo-557-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-03-11'
+    amending: pt:dre:263701:por
+    amending_title: Despacho Normativo n.º 11-G/95; Despacho Normativo n.º 11-G/95
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/557/1994/07/29/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:21:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 11-G/95; Despacho
+    Normativo n.º 11-G/95. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-557-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -166,7 +182,7 @@ Os promotores deverão cumprir as seguintes condições:
 
 1 - Condições pré-projecto:
 
-a) Encontrar-se devidamente acreditados ou reconhecidos no âmbito do SPQ, com excepção dos promotores dos projectos transitados do Programa Operacional Prisma abrangidos pelo disposto no artigo 22.º do [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho;
+a) Encontrar-se devidamente acreditados ou reconhecidos no âmbito do SPQ, ou ter apresentado o respectivo processo no IPQ, devendo, contudo, comprovar a sua acreditação ou reconhecimento antes da assinatura do contrato, com excepção dos projectos transitados do Programa Operacional Prisma abrangidos pelo disposto no artigo 22.º do [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho;
 
 b) Comprovar que dispõem de contabilidade organizada de acordo com as especificações do Plano Oficial de Contabilidade, quando aplicável;
 
@@ -182,7 +198,7 @@ a) Apresentar condições de viabilização auto-sustentável a prazo;
 
 b) Possuir a estrutura organizacional, os meios financeiros e os recursos humanos adequados que confiram capacidade técnica adequada às exigências da sua actividade e à execução da estratégia subjacente ao projecto apresentado;
 
-c) Obrigar-se, após a conclusão do projecto, à prestação de serviços, no âmbito do SPQ, por um período de cinco anos;
+c) Obrigar-se, após a conclusão do projecto, à prestação de serviços, no âmbito do SPQ, por um período de cinco anos, com excepção dos organismos de normalização candidatos à acção B, em que esse período é de apenas três anos.
 
 3 - No caso de as entidades beneficiárias serem empresas, deverão ainda ser cumpridas as seguintes condições de acesso pré-projecto:
 
@@ -203,6 +219,8 @@ a) Demonstrar possuírem uma situação económica e financeira equilibrada, cum
 Cobertura do activo líquido pelos capitais próprios superior a 30% ou financiamento do investimento por capitais próprios em percentagem superior a 35%;
 
 Existência de um fundo de maneio adequado à actividade global da empresa.
+
+> Alterado pelo/a [Despacho Normativo n.º 11-G/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-g-1995-263701), publicado em 1995-03-06.
 
 ###### Artigo 6.º — Condições de acesso do projecto
 
@@ -318,6 +336,10 @@ k) Ensaios de experimentação pró-normativa;
 
 l) Organização, no País, de reuniões internacionais de âmbito normativo;
 
+m) Construção e adaptação de edifícios destinados à actividade laboratorial, sujeito a um custo máximo por metro quadrado e até um limite máximo de comparticipação de 7500 contos;
+
+n) Aquisição de unidades móveis directamente associadas à actividade.
+
 3 - Os critérios para a determinação dos níveis, bem como os limites máximos a considerar nos custos associados às aplicações relevantes referidas nas alíneas a), i) e j) do n.º 1, bem como a alínea g) do n.º 2, serão definidos por despacho do Ministro da Indústria e Energia.
 
 4 - As aplicações relevantes das alíneas f) a l) do n.º 2 só serão comparticipadas no caso de ON acreditados ou reconhecidos.
@@ -326,7 +348,11 @@ l) Organização, no País, de reuniões internacionais de âmbito normativo;
 
 6 - Para efeitos do disposto na alínea k) do n.º 1 deste artigo, entende-se por assistência técnica todo o trabalho desenvolvido na entidade promotora por entidade externa, a fim de implementar e executar as acções necessárias ao projecto em causa.
 
-7 - O limite estabelecido na alínea a) do n.º 1 do presente artigo poderá ser ultrapassado em casos de excepcional interesse a definir superiormente.
+7 - As aplicações relevantes previstas nas alíneas m) e n) do n.º 2 só serão comparticipadas no caso de organismos de verificação metrológica.
+
+8 - Os limites estabelecidos nas alíneas a) do n.º 1 e m) do n.º 2 do presente artigo poderão ser ultrapassados em caso de excepcional interesse, a definir superiormente.
+
+> Alterado pelo/a [Despacho Normativo n.º 11-G/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-g-1995-263701), publicado em 1995-03-06.
 
 ###### Artigo 9.º — Incentivo
 

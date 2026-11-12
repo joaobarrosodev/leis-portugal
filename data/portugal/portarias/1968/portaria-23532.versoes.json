@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:276055:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1968-08-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4fb4c037b0655ab8"
+   ]
+  },
+  {
+   "date": "1974-03-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:412203:por",
+     "title": "Portaria n.º 226/74",
+     "published": "1974-03-27",
+     "dre_path": "/dr/detalhe/portaria/226-1974-412203"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-5"
+   ],
+   "fragments": [
+    "664ea606a52541e0"
+   ]
+  }
+ ],
+ "fragments": {
+  "4fb4c037b0655ab8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Negócios Estrangeiros, nos termos do artigo 5.º do [Decreto-Lei n.º 41965](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41965-1958-339236), de 19 de Novembro de 1958, que a missão permanente de Portugal junto da Organização das Nações Unidas passe a ter a seguinte composição:\n\n1) Chefe de missão - o representante permanente de Portugal;\n\n2) Membros da missão - quatro funcionários do quadro do pessoal do serviço diplomático de categoria inferior a ministro plenipotenciário de 1.ª classe, um dos quais poderá ser ministro plenipotenciário de 2.ª classe ou conselheiro de embaixada;\n\n3) Pessoal assalariado - um consultor especial, um encarregado dos serviços de imprensa, quatro funcionários em serviço privativo de qualquer categoria, entre terceiro-oficial, escriturário ou dactilógrafo, e um contínuo.\n\nMinistérios das Finanças e dos Negócios Estrangeiros, 12 de Agosto de 1968. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira."
+  },
+  "664ea606a52541e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1974-03-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 226/74](https://diariodarepublica.pt/dr/detalhe/portaria/226-1974-412203), publicado em 1974-03-27."
+   ],
+   "markdown": "Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Negócios Estrangeiros, nos termos do artigo 5.º do [Decreto-Lei n.º 41965](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41965-1958-339236), de 19 de Novembro de 1958, que a missão permanente de Portugal junto da Organização das Nações Unidas passe a ter a seguinte composição:\n\n1) Chefe de missão - o representante permanente de Portugal;\n\n2) Membros da missão - quatro funcionários do quadro do pessoal do serviço diplomático de categoria inferior a ministro plenipotenciário de 1.ª classe, um dos quais poderá ser ministro plenipotenciário de 2.ª classe ou conselheiro de embaixada;\n\n3) Pessoal assalariado. - Um consultor especial, dois funcionários do quadro administrativo da Secretaria de Estado, em serviço privativo, de qualquer categoria entre segundo-oficial, terceiro-oficial e escriturário-dactilógrafo de 1.ª ou de 2.ª classe, dois dactilógrafos, um telefonista, um motorista, um porteiro, um contínuo e um servente.\n\n> Alterado pelo/a [Portaria n.º 226/74](https://diariodarepublica.pt/dr/detalhe/portaria/226-1974-412203), publicado em 1974-03-27.\n\nMinistérios das Finanças e dos Negócios Estrangeiros, 12 de Agosto de 1968. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira."
+  }
+ }
+}

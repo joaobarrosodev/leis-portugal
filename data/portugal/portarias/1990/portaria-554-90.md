@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-08-27'
+version_history:
+  file: portaria-554-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-07-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-08-27'
+    amending: pt:dre:574154:por
+    amending_title: Portaria n.º 729/90
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:23:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 729/90. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-554-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,7 +146,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 3.º Às áreas da RAN identificadas na carta publicada em anexo é aplicável o regime jurídico da RAN constante, designadamente, dos artigos 8.º e seguintes do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho.
 
-4.º A partir do momento da entrada em vigor do presente regulamento caducam todos os certificados de classificação de solos já emitidos.
+4.º A partir do momento da entrada em vigor do presente Regulamento caducam todos os certificados de classificação de solos já emitidos relativos a terrenos não inseridos nas áreas da RAN delimitadas na carta publicada em anexo.
+
+> Alterado pelo/a [Portaria n.º 729/90](https://diariodarepublica.pt/dr/detalhe/portaria/729-1990-574154), publicado em 1990-08-22.
 
 5.º Os pareceres favoráveis emitidos pela Comissão Regional da Reserva Agrícola do Algarve até à entrada em vigor do presente regulamento carecem de confirmação do mesmo órgão.
 

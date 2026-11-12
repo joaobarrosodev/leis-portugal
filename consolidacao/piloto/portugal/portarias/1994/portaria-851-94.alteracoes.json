@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 315-326",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "22.º Os tractores agrícolas e as máquinas agrícolas e industriais automotrizes devem possuir, na sua parte superior, uma luz com as seguintes características:\n\na) Número - uma luz;\n\nb) Cor da luz emitida - amarela;\n\nc) Deve ser respeitado o seguinte posicionamento:\n\nEm largura:\n\nDeve estar colocada no plano longitudinal médio do veículo. Caso tal colocação seja impossível, deverá ser colocada no lado esquerdo do veículo;\n\nEm comprimento:\n\nDeve estar colocada sobre a estrutura de segurança, se existir, ou, em caso contrário, colocada atrás da posição do condutor;\n\nEm altura:\n\nDeve estar colocada sobre a estrutura de segurança. Caso esta não exista, será colocada na extremidade de um suporte vertical, a uma altura mínima de 1000 mm, medida a partir da parte superior do guarda-lamas da retaguarda ou, quando este não exista, do ponto mais elevado da estrutura do veículo, sem prejuízo dos limites fixados regulamentarmente;\n\nd) A luz será do tipo rotativo ou intermitente, e deverá ser visível à distância de, pelo menos, 100 m;\n\ne) Ficam dispensados da instalação da luz referida neste número os veículos que, por construção, não possuam qualquer sistema eléctrico que permita alimentar electricamente esta luz.",
+    "depois": "22.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:604454:por",
+    "alterador": "pt:dre:383017:por"
+  }
+]

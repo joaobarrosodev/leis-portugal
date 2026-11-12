@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 11-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Cooperativas de proprietários, desde que os estatutos proíbam a cedência do fogo a terceiros durante o período de amortização e a regulamentem findo este, designadamente quanto ao preço e publicidade do acto;\n\n3.º Cooperativas de inquilinato cooperador, em que a cooperativa detém a propriedade dos fogos e cede aos sócios, mediante um contrato de arrendamento, nos termos gerais, o respectivo fogo, desde que os estatutos estabeleçam que as rendas serão fixadas pelo Fundo de Fomento da Habitação e que os excedentes líquidos serão investidos na aquisição de novos fogos;",
+    "depois": "2.º Cooperativas de inquilinato cooperador, em que a cooperativa detém a propriedade dos fogos e cede aos sócios, mediante um contrato de arrendamento, nos termos gerais, o respectivo fogo, desde que os estatutos estabeleçam que as rendas serão fixadas pelo Fundo de Fomento da Habitação e que os excedentes líquidos serão investidos na aquisição de novos fogos;\n\n3.º Cooperativas de proprietários, desde que os estatutos proíbam a cedência do fogo a terceiros durante o período de amortização e a regulamentem findo este, designadamente quanto ao preço e publicidade do acto;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:681838:por",
+    "alterador": "pt:dre:409292:por"
+  },
+  {
+    "artigo": "depois da unidade 15",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "7.º Promotores que construam casas cujos fogos fiquem sujeitos a fixação ou contrôle dos valores das rendas ou dos preços de venda.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:681838:por",
+    "alterador": "pt:dre:409292:por"
+  }
+]

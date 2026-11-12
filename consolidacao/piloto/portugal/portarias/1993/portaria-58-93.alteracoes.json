@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º São integrados no Centro Regional de Segurança Social de Aveiro, Beja, Braga, Bragança, Castelo Branco, Coimbra, Évora, Faro, Guarda, Leiria, Lisboa, Portalegre, Porto, Santarém, Setúbal, Viana do Castelo, Vila Real e Viseu os contribuintes, beneficiários e acções da Caixa de Previdência dos Profissionais de Espectáculos (adiante designada por Caixa), com efeitos reportados a 1 de Outubro de 1993.\n\n2.º A integração orgânica e funcional da Caixa e do respectivo pessoal no Centro Regional de Segurança Social de Lisboa terá igualmente lugar em 1 de Outubro de 1993.\n\n3.º O património imobiliário e os equipamentos da Caixa, bem como as suas posições contratuais, tanto activas como passivas, consideram-se transferidos para a titularidade do Centro Regional de Segurança Social de Lisboa, com efeitos reportados à data da integração, de acordo com os artigos 2.º e 5.º do [Decreto-Lei n.º 515/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1979-365765), de 28 de Dezembro.",
+    "depois": "1.º São integrados nos Centros Regionais de Segurança Social do Norte, do Centro, de Lisboa e Vale do Tejo, do Alentejo e do Algarve os contribuintes, beneficiários e acções da Caixa de Previdência dos Profissionais de Espectáculos (adiante designada por Caixa), com efeitos reportados a 1 de Outubro de 1993.\n\n2.º A integração orgânica e funcional da Caixa e do respectivo pessoal no Centro Regional de Segurança Social de Lisboa e Vale do Tejo terá igualmente lugar em 1 de Outubro de 1993.\n\n3.º O património imobiliário e os equipamentos da Caixa, bem como as suas posições contratuais, tanto activas como passivas, consideram-se transferidos para a titularidade do Centro Regional de Segurança Social de Lisboa e Vale do Tejo, com efeitos reportados à data da integração de acordo com os artigos 2.º e 5.º do [Decreto-Lei n.º 515/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1979-365765), de 28 de Dezembro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:588262:por",
+    "alterador": "pt:dre:660311:por"
+  }
+]

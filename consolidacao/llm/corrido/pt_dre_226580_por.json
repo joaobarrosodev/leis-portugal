@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:226580:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 13,
+      "texto": "(Artigo 6.º da Convenção da Associação Europeia de Comércio Livre)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/12/29800/23192324.pdf)\n\nMinistério das Finanças, 26 de Dezembro de 1966. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os artigos 4.º do Decreto-Lei n.º 46463 e 3.º do Decreto-Lei n.º 46540 renumeram e alteram artigos pautais (87.02.11 a 87.02.15, 33.06.02) da lista anexa, que só existe em imagem no texto atual; além disso essa lista foi depois substituída por inteiro pelo Decreto-Lei n.º 47417.",
+  "instrucoes": [
+    "Alterador 1 (DL 46463), art. 4.º: renumera 87.02.13/14 para 87.02.14/15 e 87.02.11/12 para 87.02.12/13 com nova redação na lista anexa; lista só em imagem, não aplicado (nao_aplicavel). Arts. 1.º a 3.º visam outros diplomas: ignorados.",
+    "Alterador 2 (DL 46540), art. 3.º: renumera 33.06.02 para 33.06.03 na lista anexa; lista só em imagem, não aplicado (nao_aplicavel). Arts. 1.º e 2.º visam outros diplomas: ignorados.",
+    "Alterador 3 (DL 47417), art. 1.º: a lista anexa ao DL 46142 é substituída pela lista junta; substituídas as unidades 11 a 13 (subtítulo, ligação ao documento e assinatura da lista) pelas do alterador; o título 'Lista dos direitos fiscais' (unidade 10) mantém-se igual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

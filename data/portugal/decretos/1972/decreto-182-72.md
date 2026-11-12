@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-11-05'
+version_history:
+  file: decreto-182-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-05-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-11-05'
+    amending: pt:dre:409292:por
+    amending_title: Decreto-Lei n.º 794/76
+    changes:
+    - Altera Artigo unidades 11-12
+    - Adita Artigo depois da unidade 15
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:22:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 794/76. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1972/decreto-182-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,15 +148,21 @@ Art. 4.º Nos termos do n.º 3 do artigo 43.º do [Decreto-Lei n.º 576/70](http
 
 1.º Cooperativas de habitação de propriedade colectiva, em que os fogos se mantêm na propriedade da cooperativa, sendo atribuído aos sócios e seus sucessores o direito de habitação, regulando os estatutos o regime de uso e sucessão por morte e proibindo a transmissão entre vivos, salvo a favor da cooperativa e nas condições especiais fixadas;
 
-2.º Cooperativas de proprietários, desde que os estatutos proíbam a cedência do fogo a terceiros durante o período de amortização e a regulamentem findo este, designadamente quanto ao preço e publicidade do acto;
+2.º Cooperativas de inquilinato cooperador, em que a cooperativa detém a propriedade dos fogos e cede aos sócios, mediante um contrato de arrendamento, nos termos gerais, o respectivo fogo, desde que os estatutos estabeleçam que as rendas serão fixadas pelo Fundo de Fomento da Habitação e que os excedentes líquidos serão investidos na aquisição de novos fogos;
 
-3.º Cooperativas de inquilinato cooperador, em que a cooperativa detém a propriedade dos fogos e cede aos sócios, mediante um contrato de arrendamento, nos termos gerais, o respectivo fogo, desde que os estatutos estabeleçam que as rendas serão fixadas pelo Fundo de Fomento da Habitação e que os excedentes líquidos serão investidos na aquisição de novos fogos;
+3.º Cooperativas de proprietários, desde que os estatutos proíbam a cedência do fogo a terceiros durante o período de amortização e a regulamentem findo este, designadamente quanto ao preço e publicidade do acto;
+
+> Alterado pelo/a [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), publicado em 1976-11-05.
 
 4.º Particulares associados com vista à construção de edifícios destinados à habitação dos próprios, em regime de propriedade horizontal;
 
 5.º Sociedades constituídas nos termos dos artigos 31.º e seguintes da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, ou nos termos da [Lei n.º 2007](https://diariodarepublica.pt/dr/detalhe/lei/2007-1945-610718), de 7 de Maio de 1945;
 
 6.º Outros promotores privados que construam segundo o regime de casas de renda limitada, nos termos da legislação especial aplicável.
+
+7.º Promotores que construam casas cujos fogos fiquem sujeitos a fixação ou contrôle dos valores das rendas ou dos preços de venda.
+
+> Aditado pelo/a [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), publicado em 1976-11-05.
 
 Art. 5.º - 1. O direito de superfície sobre os terrenos urbanizados será concedido, independentemente de hasta pública, mediante ajuste directo, nos termos do artigo 43.º, n.º 1, do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), calculando-se o preço nos termos do artigo 44.º do mesmo diploma, competindo ao Fundo de Fomento da Habitação organizar o respectivo concurso.
 

@@ -1,0 +1,47 @@
+{
+  "id": "pt:dre:180645:por",
+  "substituicoes": [
+    {
+      "de": 30,
+      "ate": 33,
+      "texto": "d) A Divisão de Organização e Informática;\n\ne) A Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações;\n\nf) O Centro de Relações Públicas e Documentação;\n\ng) O Serviço de Fiscalização;\n\nh) A delegação de Lamego;\n\ni) Os serviços locais.",
+      "alterador": 6
+    },
+    {
+      "de": 159,
+      "ate": 165,
+      "texto": "a) Elaborar e acompanhar a execução dos planos de actividades e dos projectos de investimento anuais do Centro;\n\nb) Participar na definição dos elementos estatísticos a apurar, coordenar a recolha e proceder à sua análise e difusão;\n\nc) Velar pelas condições de segurança dos edifícios, pronunciar-se sobre a realização de obras, elaborar cadernos de encargos e fiscalizar a execução dos trabalhos;\n\nd) Realizar as acções necessárias ao recrutamento, integração, formação e controlo do pessoal do Centro.",
+      "alterador": 6
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 165,
+      "texto": "###### Artigo 15.º-A\n\n##### Divisão de Organização e Informática\n\nCompete à Divisão de Organização e Informática:\n\na) Proceder a estudos com vista à melhoria do funcionamento dos serviços e acompanhar a sua implementação;\n\nb) Colaborar com a Divisão de Apoio Técnico no estudo das exigências dos postos de trabalho e na determinação dos efectivos a utilizar;\n\nc) Efectuar a análise das tarefas e dos postos de trabalho, com vista ao controle de custos e ao estabelecimento de padrões de produtividade;\n\nd) Analisar, em colaboração com os serviços interessados, as necessidades de equipamento e material, as suas características e respectiva adequação;\n\ne) Proceder a estudos de racionalização de impressos e outros suportes de informação;\n\nf) Assegurar a ligação funcional entre os serviços utilizadores do equipamento informático e entre estes e os serviços centrais;\n\ng) Proceder à transcrição de dados para suporte adequado ao processamento informático, colaborando nas operações destinadas a garantir a qualidade dos mesmos;\n\nh) Desenvolver, coordenar e controlar o planeamento da actividade de processamento de dados e estudar e executar as acções necessárias ao tratamento computadorizado de informatização;\n\ni) Produzir estatísticas actualizadas sobre a ocupação e rendimento do equipamento informático;\n\nj) Colaborar na elaboração de manuais de operação e assegurar a sua correcta aplicação e utilização;\n\nl) Organizar as bibliotecas de operação, de bandas e de discos e zelar pela sua manutenção;\n\nm) Executar a análise, a programação e a testagem de trabalhos de interesse específico do Centro;\n\nn) Colaborar na optimização da utilização do equipamento, tendo em atenção os recursos de hardware e software disponíveis;\n\no) Colaborar nas acções de selecção e formação de pessoal de informática;\n\np) Garantir a segurança e privaticidade da informação à sua guarda;\n\nq) Apoiar tecnicamente na elaboração de cadernos de encargos, selecções, aquisição, contratação e instalação de equipamentos de informática ou de suportes lógicos;\n\nr) Estudar as características técnicas do equipamento de informática e dos suportes lógicos e avaliar, do ponto de vista técnico-económico, os projectos de informática.",
+      "alterador": 3
+    },
+    {
+      "depois_de": 165,
+      "texto": "###### Artigo 15.º-B\n\n##### Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações\n\nCompete à Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações:\n\n1) Em matéria de acção jurídica e de contencioso:\n\na) Emitir pareceres, informações, satisfazer consultas e elaborar estudos de natureza jurídica;\n\nb) Elaborar minutas de escrituras, contratos e outros documentos de carácter legal;\n\nc) Apoiar juridicamente as instituições particulares de solidariedade social;\n\nd) Apoiar os serviços competentes na preparação dos processos necessários ao julgamento das questões que impliquem envolvimento do Centro e proceder ao acompanhamento dos processos junto dos tribunais;\n\ne) Reclamar créditos por dívidas de contribuições em processos de falência, em processos de execução movidos por outros credores, em processos de inventário ou outros;\n\nf) Promover o reembolso de prestações pagas indevidamente sempre que seja necessário o recurso à via judicial;\n\n2) Em matéria de contra-ordenações:\n\na) Organizar e instruir os processos de contra-ordenações;\n\nb) Elaborar relação dos processos arquivados;\n\nc) Propor a nomeação de defensor oficioso nos casos legalmente previstos;\n\nd) Propor a aplicação de coimas nos termos regulamentares;\n\ne) Determinar o montante de custas dos processos;\n\nf) Preparar os processos para decisão final;\n\ng) Remeter os processos a tribunal, nas circunstâncias legalmente previstas;\n\nh) Representar a instituição de segurança social na fase judicial da contra-ordenação;\n\ni) Organizar e actualizar ficheiros relacionados com os processos de contra-ordenações;\n\nj) Promover a emissão de orientações para os serviços que procedam à averiguação de infracções ou que, de qualquer modo, sejam chamados a colaborar;\n\nl) Recolher e tratar os necessários dados estatísticos.",
+      "alterador": 6
+    }
+  ],
+  "nao_aplicavel": "Alterador 3, n.º 5.º (conteúdo funcional dos técnicos superiores de informática) e n.º 4.º, e alterador 6, n.os 4.º e 5.º, mexem no quadro/mapa de pessoal, que só vem em imagem e não indica onde entra no texto; alterador 7 é duplicado do alterador 6 e não se aplica segunda vez.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 19/86): transfere o Semi-Internato de Seia — sem alteração textual ao original.",
+    "Alterador 2 (Portaria 191/86): aumenta mapa/quadro de pessoal (mapa em imagem) — não aplicado.",
+    "Alterador 3, 1.º: nova redação do artigo 5.º (alínea d) Divisão de Organização e Informática) — absorvida pela redação final do alterador 6 (unidades 30-33).",
+    "Alterador 3, 2.º: nova redação do artigo 15.º — absorvida pela redação final do alterador 6 (unidades 159-165).",
+    "Alterador 3, 3.º: adita o artigo 15.º-A — inserido depois da unidade 165.",
+    "Alterador 3, 4.º e 5.º: quadro de pessoal (mapa em imagem) e conteúdo funcional dos técnicos superiores de informática sem lugar indicado no Regulamento — não aplicado.",
+    "Alteradores 4 e 5 (Portarias 935/92 e 58/93): integração de caixas de previdência — sem alteração textual ao original.",
+    "Alterador 6, 1.º: nova redação do artigo 5.º — substituídas as alíneas d) a g) (unidades 30-33) pelas alíneas d) a i); a) a c) ficam iguais.",
+    "Alterador 6, 2.º: nova redação do artigo 15.º — substituídas as alíneas (unidades 159-165) pelas novas a) a d); epígrafe e proémio iguais.",
+    "Alterador 6, 3.º: adita o artigo 15.º-B — inserido depois da unidade 165, a seguir ao 15.º-A.",
+    "Alterador 6, 4.º e 5.º: quadro de pessoal (mapa em imagem) — não aplicado.",
+    "Alterador 7: repete integralmente a Portaria 423/93 (alterador 6) — nada a aplicar de novo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

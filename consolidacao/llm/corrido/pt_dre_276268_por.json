@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:276268:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Seixo do Côa, município do Sabugal, com uma área de 1844,6875 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a substituição da planta anexa não se aplica porque a planta só existe em imagem; alteradores 2 e 3 (suspensão da atividade cinegética e renovação da concessão) não alteram o texto do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 135/95): nova redação do n.º 1.º — substituída a unidade 6.",
+    "Alterador 1: a nova planta substitui a anexa — não aplicável (planta só em imagem).",
+    "Alterador 2 (Portaria 522/2000): suspende a atividade cinegética por 180 dias — não textual, nada aplicado.",
+    "Alterador 3 (Portaria 799/2000): renova a concessão por 15 anos e revoga a Portaria 522/2000 — não textual quanto ao original, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

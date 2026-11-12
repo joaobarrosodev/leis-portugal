@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:550008:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-11-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b7d40f0d17aa5a05",
+    "cea01b9dbb870ce6",
+    "81de1a1cc27e2fe6",
+    "ef8536c1f445be07",
+    "7efc1081d5feefc8",
+    "213990e2f335a978",
+    "bbddabeba8dfaacf",
+    "5f47d8e71a0d2dc6",
+    "66b63eb7d4eb919b"
+   ]
+  },
+  {
+   "date": "1995-02-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:188690:por",
+     "title": "Decreto-Lei n.º 43/95",
+     "published": "1995-02-22",
+     "dre_path": "/dr/detalhe/decreto-lei/43-1995-188690"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "b7d40f0d17aa5a05",
+    "cea01b9dbb870ce6",
+    "e32d31f55701a708",
+    "ef8536c1f445be07",
+    "7efc1081d5feefc8",
+    "213990e2f335a978",
+    "bbddabeba8dfaacf",
+    "5f47d8e71a0d2dc6",
+    "66b63eb7d4eb919b"
+   ]
+  }
+ ],
+ "fragments": {
+  "b7d40f0d17aa5a05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Novembro\n\nA Lei Orgânica da Guarda Nacional Republicana, aprovada pelo [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Julho, prevê, no n.º 2 do seu artigo 62.º, existência de pessoal civil contratado, cujas categorias e número de efectivos constam do quadro IV anexo ao mesmo diploma, pessoal esse que se destina a exercer funções específicas para as quais se exigem habilitações apropriadas, no âmbito desse corpo especial de tropas.\n\nA experiência tem vindo a demonstrar, todavia, que, se para o exercício de algumas funções, em geral exercidas em regime de tempo parcial, o contrato é a forma de provimento mais adequada, o mesmo se não pode afirmar quanto ao provimento do pessoal que desempenha funções que correspondem a necessidades permanentes e próprias do serviço, ao qual é justo proporcionar expectativas de evolução profissional conferidas pelo regime de carreira.\n\nEm consequência, e de acordo com as normas gerais de enquadramento das carreiras da função pública, procede-se à definição e regulamentação do regime a que deve obedecer o pessoal civil que exerce funções na Guarda Nacional Republicana, bem como à aprovação do respectivo quadro orgânico, dotando-o com o pessoal necessário e adequado ao cumprimento das missões específicas que lhe estão cometidas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "cea01b9dbb870ce6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma é aplicável ao pessoal civil que presta serviço na Guarda Nacional Republicana, sob a sua direcção e disciplina."
+  },
+  "81de1a1cc27e2fe6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Quadro de pessoal\n\nA Guarda Nacional Republicana dispõe do pessoal civil constante do quadro anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "ef8536c1f445be07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Provimento\n\n1 - O provimento do pessoal civil da Guarda Nacional Republicana será feito por nomeação provisória ou em comissão de serviço, pelo período de um ano.\n\n2 - Findo o prazo referido no número anterior, o funcionário:\n\na) Será provido definitivamente, se tiver revelado aptidão para o lugar;\n\nb) Será exonerado ou regressará ao serviço de origem, conforme se trate de nomeação provisória ou comissão de serviço, se não tiver revelado aptidão para o lugar.\n\n3 - Se o funcionário a nomear já tiver provimento definitivo noutro lugar da função pública, poderá ser, desde logo, provido definitivamente, nos casos em que exerça funções da mesma natureza.\n\n4 - O disposto no número anterior não prejudica a nomeação, em comissão de serviço, por um período a determinar até ao limite fixado no n.º 1, com base na opção do funcionário ou por conveniência da Administração.\n\n5 - O tempo de serviço em regime de comissão conta para todos os efeitos legais:\n\na) No lugar de origem, quando à comissão não se seguir provimento definitivo;\n\nb) No lugar do quadro do pessoal civil da Guarda Nacional Republicana em que vier a ser provido definitivamente finda a comissão.\n\n6 - O disposto nos números anteriores não prejudica a aplicação do regime previsto no [Decreto-Lei n.º 313/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1987-418190), de 20 de Agosto."
+  },
+  "7efc1081d5feefc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime de pessoal\n\nO pessoal civil da Guarda Nacional Republicana rege-se pelo estabelecido na lei geral para os demais funcionários e agentes da Administração Pública central e pelo disposto no presente diploma."
+  },
+  "213990e2f335a978": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Recrutamento\n\n1 - O recrutamento para as categorias que integram as carreiras inseridas nos grupos de pessoal técnico, técnico-profissional, administrativo, operário e auxiliar, constantes do quadro de pessoal a que se refere o artigo 2.º, rege-se pelas disposições do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, e do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.\n\n2 - O recrutamento para as categorias que integram as carreiras médica, de enfermagem e dos técnicos de diagnóstico e terapêutica rege-se pela legislação em vigor para aquelas carreiras no âmbito do Ministério da Saúde.\n\n3 - O recrutamento do pessoal docente rege-se pela legislação em vigor para idêntico pessoal no âmbito do Ministério da Educação."
+  },
+  "bbddabeba8dfaacf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Carreira de fiel de armazém",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Carreira de fiel de armazém\n\n1 - A carreira de fiel de armazém desenvolve-se pelas categorias de fiel de armazém principal, de 1.ª e de 2.ª classe, a que correspondem, respectivamente, as letras de vencimento L, O e Q.\n\n2 - A progressão na carreira de fiel de armazém faz-se de acordo com as regras definidas na lei geral para as carreiras horizontais.\n\n3 - Os lugares de fiel de armazém de 2.ª classe são providos de entre indivíduos habilitados com a escolaridade obrigatória, de acordo com a lei geral."
+  },
+  "5f47d8e71a0d2dc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Transição do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transição do pessoal\n\nSem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, o pessoal civil que, à data da entrada em vigor do presente diploma, presta serviço na Guarda Nacional Republicana transita para os lugares do quadro a que se refere o artigo 2.º, de acordo com as seguintes regras:\n\na) Para categoria idêntica à que o agente já possui;\n\nb) Sem prejuízo das habilitações legais, para categoria que integre as funções que efectivamente desempenha, remunerada pela mesma letra de vencimento ou, quando não se verifique coincidência de letras, para categoria remunerada por letra de vencimento que seja imediatamente superior na estrutura da carreira para que se processa a transição."
+  },
+  "66b63eb7d4eb919b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Tempo de serviço a considerar para efeitos de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tempo de serviço a considerar para efeitos de transição\n\nAos agentes contratados que transitarem para o quadro de pessoal civil da Guarda Nacional Republicana, nos termos do artigo anterior, será contado, para efeitos de acesso na carreira, o tempo de serviço prestado na situação anterior, desde que no exercício de funções correspondentes às da categoria para que se operou a transição.\n\nVisto e aprovado em Conselho de Ministros de 28 de Setembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho.\n\nPromulgado em 26 de Outubro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 28 de Outubro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nQuadro a que se refere o artigo 2.º do Decreto-Lei n.º 396/89\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/25900/49584961.pdf)"
+  },
+  "e32d31f55701a708": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Quadro de pessoal",
+   "in_force_from": "1995-02-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 43/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1995-188690), publicado em 1995-02-22."
+   ],
+   "markdown": "###### Artigo 2.º — Quadro de pessoal\n\nA Guarda Nacional Republicana dispõe do pessoal constante do quadro de pessoal aprovado por portaria conjunta dos Ministros da Administração Interna e das Finanças.\n\n> Alterado pelo/a [Decreto-Lei n.º 43/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1995-188690), publicado em 1995-02-22."
+  }
+ }
+}

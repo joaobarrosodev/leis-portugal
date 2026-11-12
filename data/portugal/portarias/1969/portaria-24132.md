@@ -28,10 +28,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-01-14'
+version_history:
+  file: portaria-24132.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-06-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-01-14'
+    amending: pt:dre:227268:por
+    amending_title: Portaria n.º 33/70
+    changes:
+    - Altera Artigo unidades 40-41
+    - Altera Artigo unidades 122-123
+    - Altera Artigo unidades 220-220
+    - Altera Artigo unidades 222-222
 identifiers:
   celex: null
   eli: null
@@ -57,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:01:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 33/70. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1969/portaria-24132.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -184,9 +202,11 @@ Art. 8.º - 1. Três dias após o encerramento do prazo do concurso será afixad
 
 2. No terceiro dia subsequente ao decurso do prazo fixado nos números anteriores será afixada a lista definitiva dos candidatos admitidos. Simultâneamente, o júri afixará a data do início das provas, que deverá realizar-se em prazo não superior a dez dias, bem como o número de candidatos que em cada dia efectuam provas.
 
-Art. 9.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá quatro vogais, todos médicos dos quadros hospitalares, dois dos quais serão de categoria não inferior a assistente de hospital central, e os restantes, graduados com, pelo menos, três anos na categoria.
+Artigo 9.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá dois vogais, com as categorias de assistente ou graduado.
 
-2. Todos os membros do júri deverão, sempre que possível, pertencer ao ramo clínico ou especialidade a que respeitam as provas. O presidente e dois vogais pertencerão ao quadro do estabelecimento ou serviço interessado. Os restantes devem ser escolhidos dos quadros de outros hospitais centrais, mas cada hospital não dará para o mesmo júri mais de um vogal.
+2. Os membros do júri deverão, de preferência pertencer ao ramo clínico ou especialidade a que respeitam as provas. O presidente pertencerá ao quadro do estabelecimento ou serviço interessado. Os vogais devem ser escolhidos nos quadros de outros hospitais centrais, sempre que possível.
+
+> Alterado pelo/a [Portaria n.º 33/70](https://diariodarepublica.pt/dr/detalhe/portaria/33-1970-227268), publicado em 1970-01-14.
 
 3. Os médicos que hão-de constituir os júris serão propostos por cada hospital, ouvida a respectiva comissão médica.
 
@@ -348,9 +368,11 @@ Art. 22.º - 1. Três dias após o encerramento do prazo do concurso, será afix
 
 2. No terceiro dia subsequente ao decurso do prazo concedido no número anterior será afixada lista definitiva dos candidatos admitidos ao concurso, bem como a composição definitiva dos júris.
 
-Art. 23.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá seis ou quatro vogais, conforme se trate de concurso para medicina interna e cirurgia geral ou para outras especialidades, que serão médicos dos quadros hospitalares com categoria não inferior a assistente de hospital central.
+Art. 23.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá quatro ou dois vogais, conforme se trate de concurso para medicina interna e cirurgia geral ou para outras especialidades, que serão médicos dos quadros hospitalares com categoria não inferior a assistente de hospital central.
 
-2. Todos os membros dos júris deverão pertencer, sempre que possível, ao ramo clínico ou especialidade a que respeitam as provas. O presidente e dois vogais pertencerão ao quadro do hospital interessado. Os restantes vogais devem ser escolhidos nos quadros de outros hospitais centrais, mas cada hospital não dará para o mesmo júri mais de um vogal. Nos júris dos concursos para medicina interna e cirurgia geral serão três os vogais pertencentes ao quadro do hospital interessado.
+2. Todos os membros dos júris deverão pertencer, sempre que possível, ao ramo clínico ou especialidade a que respeitam as provas. O presidente e um dos vogais pertencerão ao quadro do hospital interessado. Os restantes vogais devem ser, de preferência, escolhidos nos quadros de outros hospitais centrais.
+
+> Alterado pelo/a [Portaria n.º 33/70](https://diariodarepublica.pt/dr/detalhe/portaria/33-1970-227268), publicado em 1970-01-14.
 
 3. Os médicos que hão-de constituir os júris serão propostos por cada estabelecimento, ouvida a respectiva comissão médica.
 
@@ -544,11 +566,15 @@ Art. 34.º - 1. A apreciação do curriculum vitae dos candidatos será feita pe
 
 3. Terminada a apreciação do curriculum vitae de todos os candidatos, o júri afixará a respectiva classificação em mérito relativo, sem atribuição de valores. Quando for necessário desempatar o mérito dos candidatos, será condição de preferência a maior antiguidade no lugar de assistente.
 
-Art. 35.º - 1. O júri será constituído por um presidente e seis vogais, todos com categoria de director de serviço de hospital central.
+Art. 35.º - 1. O júri será constituído por um presidente e quatro vogais, todos com categoria de director de serviço de hospital central.
+
+> Alterado pelo/a [Portaria n.º 33/70](https://diariodarepublica.pt/dr/detalhe/portaria/33-1970-227268), publicado em 1970-01-14.
 
 2. O presidente é, por norma, o director clínico do estabelecimento onde se efectua o concurso, podendo, no entanto, delegar esse cargo num dos directores de serviço com maior antiguidade no lugar. Nos Hospitais Civis de Lisboa a presidência do júri cabe ao presidente da respectiva comissão médica.
 
-3. Dos seis vogais, três pertencerão a hospitais diversos daquele em que se realiza o concurso, não devendo cada um destes estabelecimentos designar mais do que um elemento para o mesmo júri.
+3. Dos quatro vogais, dois pertencerão a hospitais diversos daquele em que se realiza o concurso.
+
+> Alterado pelo/a [Portaria n.º 33/70](https://diariodarepublica.pt/dr/detalhe/portaria/33-1970-227268), publicado em 1970-01-14.
 
 4. Os elementos dos júris são propostos pela direcção clínica do estabelecimento onde se efectua o concurso, ouvida a respectiva comissão médica. No caso dos vogais previstos no número anterior, as direcções clínicas dos hospitais em causa ajustarão entre si quais os elementos a propor.
 

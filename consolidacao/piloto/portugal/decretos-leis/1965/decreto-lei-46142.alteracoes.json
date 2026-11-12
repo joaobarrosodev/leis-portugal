@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "(Artigo 6.º da Convenção da Associação Europeia do Comércio Livre)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/01/00100/00010008.pdf)\n\nMinistério das Finanças, 2 de Janeiro de 1965. - O Ministro das Finanças, António Manuel Pinto Barbosa.",
+    "depois": "(Artigo 6.º da Convenção da Associação Europeia de Comércio Livre)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/12/29800/23192324.pdf)\n\nMinistério das Finanças, 26 de Dezembro de 1966. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226580:por",
+    "alterador": "pt:dre:477836:por"
+  }
+]

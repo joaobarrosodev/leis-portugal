@@ -37,10 +37,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2023-10-16'
+version_history:
+  file: decreto-56-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-10-16'
+    amending: pt:dre:225810:por
+    amending_title: Decreto n.º 42/92; Decreto n.º 39/99; Decreto n.º 26/2023
+    changes:
+    - Altera Artigo unidades 16-16
+    - Adita Artigo depois da unidade 53
+    - Altera Artigo unidades 64-68
+    - Altera Artigo unidades 85-149
+    - Altera Artigo unidades 310-310
+    - Adita Artigo depois da unidade 347
+    - Altera Artigo unidades 358-362
+    - Altera Artigo unidades 378-441
 identifiers:
   celex: null
   eli: null
@@ -66,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:00:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 42/92; Decreto n.º 39/99;
+    Decreto n.º 26/2023. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1982/decreto-56-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,7 +177,9 @@ I - Scope and operation
 
 ARTICLE 1
 
-1 - Legal provisions of a Contracting State which require articles of precious metals to be assayed by an authorized body and to be marked with official stamps so as to indicate that they have been satisfactorily assayed, or require such articles to be marked so as to indicate the sponsor, the nature of the metal or the standard of fineness, shall be deemed to be satisfied in respect of articles of precious metals imported from the territory of another Contracting State if such articles have been controlled and marked in accordance with the provisions of this Convention.
+1 - Legal provisions of a Contracting State which require articles of precious metals to be assayed by an authorized body and to be marked with official stamps so as to indicate that they have been satisfactorily assayed, or require such articles to be marked so as to indicate the sponsor, the nature of the metal or the standard of fineness, shall be deemed to be satisfied in respect of imported articles of precious metals if such articles have been controlled and marked in accordance with the provisions of this Convention in one of the Contracting State.
+
+> Alterado pelo/a [Decreto n.º 39/99](https://diariodarepublica.pt/dr/detalhe/decreto/39-1999-667276), publicado em 1999-10-19.
 
 2 - For articles controlled and marked in accordance with the provisions of this Convention an importing Contracting State shall not require further assayng or marking of a king referred to in paragraph 1, except for the purpose of check tests as provided in article 6.
 
@@ -231,6 +255,10 @@ To encourage the adequate protection of the marks against forgery and misuse;
 
 To make recommendations in the case of any matter referred to it under the provisions of paragraph 2 of article 9, or for the settlement of any dispute arising out of the operation of this Convention which is presented to the Standing Committee.
 
+To examine whether the arrangements of a State interested in acceding to this Convention comply with the conditions of the Convention and its annexes and to make a report in that respect for consideration by the Contracting States.
+
+> Aditado pelo/a [Decreto n.º 42/92](https://diariodarepublica.pt/dr/detalhe/decreto/42-1992-225810), publicado em 1992-10-13.
+
 3 - The Standing Committee shall adopt rules of procedure for its meeting, including rules for the convening of such meetings. This Committee shall meet at least once a year. The first meeting shall be convened by the depositary not later than six months after the coming into force of this Convention.
 
 4 - The Standing Committee may make recommendations on any question relating to the implementation of this Convention or make proposals for the amendment of this Convention or its Annexes. Such recommendations or proposals shall be transmitted to the depositary who shall notify all Contracting States.
@@ -251,15 +279,13 @@ IV - Final provisions
 
 ARTICLE 12
 
-1 - This Convention is open to accession by any State being a Member of the United Nations or of any of the specialized agencies or of the International Atomic Energy Agency or a Party to the Statute of the International Court of Justice and having arrangements for the assay and marking of articles of precious metals necessary to comply with the requirements of this Convention.
+1 - Any State being a member of the United Nations or of any of the specialized agencies or of the International Atomic Energy Agency or a Party to the Statute of the International Court of Justice and having arrangements for the assay and marking of articles of precious metals necessary to comply with the requirements of the Convention and its annexes may, upon invitation of the Contracting States to be transmitted by the depositary Government, accede to this Convention.
 
-2 - Requests for accession expressing willingness to accept the obligations under this Convention, together with a description of the assay offices which the requesting State proposes to appoint in accordance with article 5, shall be addressed to the depositary, who shall notify the Governments of all Contracting States and ask them to consent to the accession.
+2 - The Governments of the Contracting States shall base their decision whether to invite a State to accede primarily on the report refferred to in article 10, paragraph 2.
 
-3 - The Governments of the Contracting States shall base their decision whether to consent to the accession solely on the technical competence and the reliability of the assay office described in the request for accession and on the existence of arrangements necessary to comply with the provisions of article 8.
+3 - The invited State may accede to this Convention by depositing an instrument of accession with the depositary which shall notify all other Contracting States. The accession shall become effective three months after deposit of that instrument.
 
-4 - The Governments shall notify their reply to the depositary within four months after receipt of the notification of a request for accession. Any Government not replying within that period shall be deemed to have consented to the accession. The depositary shall inform the Governments of the requesting State and of the Contracting States whether the request for accession has received general consent.
-
-5 - Provided that the Governments of all Contracting States have consented to the acession, the requesting State may accede to this Convention by depositing an instrument of accession with the depositary, which shall notify all other Contracting States. The accession shall become effective three months after deposit of that instrument.
+> Alterado pelo/a [Decreto n.º 42/92](https://diariodarepublica.pt/dr/detalhe/decreto/42-1992-225810), publicado em 1992-10-13.
 
 ARTICLE 13
 
@@ -293,135 +319,194 @@ ANNEX I
 
 Definitions and technical requirements
 
-1 - For the purposes of this Convention, articles of precious metals means articles consisting of or containing gold, silver, platinum or their alloys and complete as to all their metalic parts, but excluding the following:
+1 - Definitions - for the purpose of this Convention the following definitions apply:
 
-a) Articles consisting of alloys of a fineness less than 375 for gold, 800 for silver or 950 for platinum;
+1.1 - Precious metals - precious metals are platinum, gold, palladium and silver. Platinum is the most precious metal followed by gold, palladium and silver.
 
-b) Parts or incomplete semimanufactures;
+1.2 - Precious metal alloy - a precious metal alloy is a solid solution containing at least one precious metal.
 
-c) Raw materials including bars, plates, sheets, foils, rods, wire, strips and tubes.
+1.3 - Precious metal article - a precious metal article is any item of jewellery, goldsmith's, silversmith's or watchmaker's ware or any other object made entirely or in part from precious metals or their alloys. "In part" means that a precious metal article may contain:
 
-Standards of fineness
+i) Non-metallic parts;
 
-2 - The following standards of fineness shall be recognized for the purpose of this Convention:
+ii) Base metal parts for technical reasons and/or decoration (see paragraph 1.5 below).
 
-a) For gold, 750, 585 and 375;
+1.4 - Mixed precious metal article - a mixed precious metal article is an article consisting of two or more precious metal alloys.
 
-b) For silver, 925, 830 and 800;
+1.5 - Multimetal article - a multimetal article is composed of parts of precious metal and parts of non-precious metal.
 
-c) For platinum, 950.
+1.6 - Fineness - the fineness is the content of the named precious metal measured in terms of parts per thousand by weight of alloy.
 
-3 - «Fineness» means the number of parts by weight of fine gold or silver or platinum in 1,000 parts by weight of alloy.
+1.7 - Standard of fineness - the standard of fineness is the minimum content of the named precious metals measured in terms of parts per thousand by weight of alloy.
 
-4 - The standard of fineness of any article of precious metal, which is of a fineness higher than a standard for that metal mentioned in paragraph 2, shall for the purposes of this Convention be regarded as being of the nearest lower standard as defined in that paragraph.
+1.8 - Coating/plating - coating or plating is one or more layers of a material, permitted by the Standing Committee, applied to all, or part, of a precious metal article e. g. by a chemical, electrochemical, mechanical or physical process.
 
-5 - The fineness of all parts of the article, excluding solder and such parts as are permitted under paragraphs 7 to 14, shall be not less than the standard of fineness for the article concerned.
+1.9 - Base metals - base metals are all metals, except platinum, gold, palladium, and silver.
 
-The use of solder
+1.10 - Assay - an assay is a quantitative analysis of a precious metal alloy by a method defined in paragraph 3.2 of Annex II.
 
-6 - Standards of fineness of solder shall be as follows:
+1.11 - Other definitions and further details - the Standing Committee may decide on other definitions as well as further details.
 
-a) Gold. - The solder for gold articles shall be of the same standard of fineness as the article concerned, subject to the following exceptions:
+2 - Technical requirements:
 
-In the case of gold articles of filigree work and watch cases of the 750 standard, the solder shall contain not less than 740 parts of gold per 1,000. For white gold articles of the 750 standard the solder shall contain not less than 585 parts of gold per 1,000;
+2.1 - Articles not covered by the Convention - the Convention does not apply to:
 
-b) Silver. - Solder for silver articles of the 925 standard shall contain not less than 650 parts of silver per 1,000. Solder for silver articles of the 800 and 830 standards shall contain not less than 550 parts of silver per 1,000;
+a) Articles made of alloys of a fineness not defined by the Standing Committee;
 
-c) Platinum. - Solder for platinum shall contain at least 995 parts per 1,000 of gold, silver, platinum or palladium.
+b) Any article which is intended to be used for medical, dental, veterinary, scientific or technical purpose;
 
-Solder which below the standard of fineness of the article shall be used only in the quantities necessary for joining. Such solder shall not be used for strengthening, weighting or filling.
+c) Coins which are legal tender;
 
-The use of base metal parts
+d) Parts or incomplete semimanufactures (e. g. metal parts or surface layer);
 
-7 - Base metal parts in precious metal articles shall be prohibited, except as follows;
+e) Raw materials such as bars, plates, wire and tubes;
 
-a) Movements of propelling pencils, clocks and watches, the internal mechanism of lighters and similar mechanisms where precious metals are unsuitable for technical reasons;
+f) Base metal articles coated with precious metal;
 
-b) Blades of knives and such parts of bottle openers and corkscrews and similar articles which for technical reasons cannot be made of precious metals;
+g) Any other object decided by the Standing Committee.
 
-c) Springs;
+Consequently, the articles referred to in a) to g) above cannot be marked with the Common Control Mark.
 
-d) Wire for joints of silver binges;
+2.2 - Standards of fineness applied under the Convention - subject to article 1, paragraph 2 of the Convention, the standards of fineness applied under the Convention shall be those defined by the Standing Committee.
 
-e) Pins for silver brooches.
+2.3 - Tolerance - no negative tolerance is permitted in relation to the standard of fineness indicated on the article.
 
-8 - Base metal parts permitted under paragraph 7, a), c), d) and e), shall not be soldered to the precious metal.
+2.4 - Use of solder:
 
-9 - Base metal parts where practicable shall be stamped or engraved «METAL» or with a specific designation of the metal; where this is impracticable these shall be readily distinguishable by colour from the precious metal. This requirement shall not apply to clock or watch movements. Base metal shall not be used merely for strengthening, weighting or filling purposes.
+2.4.1 - The principles are:
 
-The use of non-metallic substances
+a) Solder may be used only for joining purposes;
 
-10 - The use of non-metallic parts shall be permitted provided these are clearly distinguishable from the precious metal, they are not plated or coloured to resemble precious metals and their extent is clearly visible.
+b) The standard of fineness of the solder shall be the same as the standard of fineness of the article;
 
-Non-metallic fillings for handles for knives, forks and spoons shall also be permitted provided such fillings are used only in the quantities that are necessary for joining.
+c) If a solder of a lower standard of fineness is used, the whole article must be to a permitted standard of fineness.
 
-The use of more than one precious metal in the same article
+2.4.2 - Practical exceptions from these principles and other methods of joining are defined by the Standing Committee.
 
-11 - The use of more than one precious metal in the same article shall be prohibited, except in the following cases:
+2.5 - Use of base metal parts and non-metallic parts in precious metal articles:
 
-a) The use of platinum parts on articles which contain gold parts exceeding 50 per cent by weiht of the total metallic parts, provided that the article is marked as gold on the gold part with the marks specified in paragraph 5 of Annex II;
+2.5.1 - Base metal parts and non-metallic parts are permitted in precious metal articles as a mechanical function for which precious metals are unsuitable either for strength or durability, subject to the following conditions:
 
-b) The use of gold and/or platinum parts on articles which contain silver parts exceeding 50 per cent by weight of the total metallic parts, provided that the article is marked as silver on the silver part with the marks specified in paragraph 5 of Annex II;
+a) When visible, base metal parts and non-metallic parts shall be clearly distinguishable by colour from the precious metal;
 
-c) The use of small working parts of a less precious metal, such as tongues for clasps, which for technical reasons cannot be made of the more precious metal, provided that the less precious part is stamped or engraved with a specific designation of the metal.
+b) They shall be neither coated nor treated to give the appearance of a precious metal;
 
-12 - The coating of silver articles with gold is permitted provided that the whole article is marked as silver. The coating of white gold, silver or platinum articles with rhodium is permitted provided that the whole article is marked as gold, silver or platinum respectively.
+c) They shall not be used for the purpose of strengthening, weighting or filling;
 
-13 - Undercoats or final coatings of metals, other than those permitted under paragraph 12, on precious metal articles shall be prohibited.
+d) Where practical, base metal parts shall be marked "METAL".
 
-14 - The parts of platinum referred to in paragraph 11, a), the parts of gold or platinum referred to in paragraph 11, b), the parts of less precious metal referred to in paragraph 11, c), and the gold coating referred to in paragraph 12 shall be of a fineness not less than the minimum standard of fineness for these metals as laid down in paragraph 2.
+2.5.2 - The Standing Committee may decide on further details or exceptions on base metal parts as well as non-metallic parts and substances.
+
+2.6 - Multimetal articles:
+
+2.6.1 - It is permitted to use base metal parts and non-metallic parts in precious metal articles for decoration, subject to the following conditions:
+
+a) Base metal parts and non-metallic parts shall be clearly visible by their extent;
+
+b) They shall be distinguishable by colour from the precious metal (i. e. they shall be neither coated nor treated to give the appearance of a precious metal);
+
+c) Base metal parts shall be marked "METAL".
+
+2.6.2 - The Standing Committee may decide on further details or exceptions.
+
+2.7 - Coating of precious metal articles - the Standing Committee decides on permitted coatings and exceptions for technical reasons.
 
 ANNEX II
 
-Control by the authorized assay offices
+Control by the authorised assay office(s)
 
-1 - An authorized assay office shall examine whether articles of precious metals which are presented to it in order to be marked with the Common Control Mark will fulfil the conditions of Annex I to this Convention.
+1 - General:
 
-Methods of analysis
+1.1 - The authorised assay office (thereafter referred to as "assay office") must comply with the conditions and requirements, as stated in paragraph 2 of article 5 of the Convention, not only at the moment of the notification to the Depositary but at any time of operation thereafter.
 
-2 - The authorized assay office shall use one of the following methods of analysis in assaying articles of precious metals:
+1.2 - The assay office shall examine whether articles of precious metals, which are presented to it in order to be marked with the Common Control Mark, fulfil the conditions of Annex I to the Convention.
 
-Gold - cupellation;
+1.3 - To examine articles of precious metals, the assay office shall in principle have a competent testing laboratory. The laboratory shall in principle be able to analyse those articles of precious metals, which are to be marked with the Common Control Mark, in line with approved testing methods (see paragraph 3.2 below). An assay office may subcontract testing. The Standing Committee shall define the conditions for the subcontracting of testing. It shall also issue guidelines for the assessment requirements of a testing laboratory.
 
-Silver - Gay-Lussac, or Volhard, or potentiometric;
+1.4 - To demonstrate its competence, the laboratory shall either be accredited according to ISO standard 17025 or demonstrate an equivalent level of competence.
 
-Platinum - gravimetric (ammonium chloroplatinate), or atomic absorption, or spectrographic, or spectrophotometric.
+1.5 - An equivalent level of competence is achieved when the assay office operates a management system, which fulfils the main requirements of ISO standard 17025, and successfully participates in the international proficiency testing scheme on precious metals called "Round Robin". The Round Robin is run by the Standing Committee or another body designated by the Standing Committee. The Standing Committee shall define how an equivalent level of competence shall be achieved and verified. It shall also issue guidelines on Round Robin, including the level of participation and the performance criteria.
 
-3 - The number of samples taken and analysed shall be sufficient to enable the assay office to be satisfied that all parts of all articles controlled are up to the required standards of fineness.
+1.6 - The Standing Committee shall provide further guidance on the requirements mentioned in paragraph 2 of article 5 of the Convention, notably on the independence of the assay office staff.
 
-4 - No minus tolerance shall be permitted. The authorized assay office may, however, accept assay results showing a small deviation below standard falling within the margins of recognized inaccuracies in the approved assay methods.
+2 - Testing:
 
-Marking
+2.1 - If an article is found by the assay office to be complete as to all its metallic parts and if it complies with the provisions of Annex I to this Convention, the assay office shall, on request, mark the article with its assay office mark and the Common Control Mark. In cases where the Common Control Mark is applied the assay office shall, before the article leaves its custody, ensure that the article is fully marked in accordance with the provisions of paragraphs below.
 
-5 - The following marks shall be applied:
+2.2 - The testing of articles of precious metals submitted for marking with the Common Control Mark consists of the two following steps:
 
-a) A registered responsibility mark as described in paragraph 7;
+a) The evaluation of the homogeneity of the batch; and
 
-b) A number in arabic numerals showing the standard of fineness of the article in parts per thousand;
+b) The determination of the fineness of the alloy (assay).
 
-c) The mark of the authorized assay office;
+2.3 - The purpose of an assay is to assess the conformity of an alloy or a precious metal article.
 
-d) The Common Control Mark as described in paragraph 8.
+3 - Test methods and methods of analysis:
 
-Marks a) and b) shall be punched or cast on the article.
+3.1 - The assay office may use any of the test methods to evaluate the homogeneity of a batch as defined by the Standing Committee.
 
-Marks c) and d) shall be punched on the article.
+3.2 - The assay office shall use any of the approved methods of analysis in assaying articles of precious metals as defined by the Standing Committee.
 
-6 - If an article consists of parts, one or more of which are hinged or readily separable from the main part of the article, the above marks shall be applied only to the main part. In such case the assay office shall where practicable apply the Common Control Mark to the other parts.
+4 - Sampling - the number of items taken from a batch and the number of samples taken from these items for testing and analysis shall be sufficient to establish the homogeneity of the batch and ensure that all parts of all articles controlled in the batch are up to the required standard of fineness. Sampling guidelines are established by the Standing Committee.
 
-7 - The responsibility mark referred to in paragraph 5, a), shall consist of the name of the sponsor, an abbreviation thereof or a symbol, which has been entered into an official register of the Contracting State, or one of its authorized assay offices, in whose territory the article in question is controlled.
+5 - Marking:
 
-8 - The Common Control Mark shall consist of the representation of a balance together with the number in arabic numerals showing the standard of fineness of the article in parts per thousand in relief on a lined background surrounded by a shield indicating the nature of the precious metal as follows:
+5.1 - Principle:
 
-For gold articles: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+5.1.1 - Articles, which satisfy the criteria in Annex I, shall be marked with the Common Control Mark (CCM), as described in paragraph 5.5, in line with the requirements set out in the present Annex.
 
-For silver articles: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+5.1.2 - The CCM is applied together with other marks (some of which can be combined), which together provide the following minimum information on:
 
-For platinum articles: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+a) Who has produced (or imported) the article: this is indicated by a registered responsibility mark as described in paragraph 5.4;
 
-Examples of the design of the Common Control Mark are reproduced at Appendix.
+b) Who has controlled the article: this is shown by the mark of the assay office;
 
-9 - If the article is found by the authorized assay office to comply with the provisions of Annex I to this Convention, the authorized assay office may mark the article with its appointed assay office mark and the Common Control Mark. In cases where the Common Control Mark is applied the authorized assay office shall, before the article leaves its custody, ensure that the article is fully marked in accordance with the provisions of paragraphs 5 and 6. Whenever possible all marks shall be placed in immediate proximity to each other.
+c) What the precious metal content of the article is: this is indicated by a fineness mark in arabic numerals; and
+
+d) What precious metal the article is made of: this is shown by a mark, symbol or shape indicating the nature of the precious metal.
+
+5.1.3 - The Standing Committee determines which of these marks must be applied on articles and which can be combined.
+
+5.2 - Methods - the following are accepted methods of marking: punching and laser. The Standing Committee can decide on other methods of marking articles.
+
+5.3 - Display - whenever possible, all marks shall be placed in immediate proximity to each other. Other marks (e. g. year mark), which are not to be confused with the marks mentioned above, are allowed as additional marks.
+
+5.4 - Register for responsibility marks - the responsibility mark referred to in letter a) of paragraph 5.1.2 shall be registered in an official register of the Contracting State and/or one of its assay offices, which controls the article in question.
+
+5.5 - The Common Control Mark (CCM):
+
+5.5.1 - Description:
+
+5.5.1.1 - The CCM is a conformity mark indicating that the article of precious metals has been controlled in accordance with the Convention's requirements, as contained in the present Annexes and the Compilation of Technical Decisions. It shall consist of the representation of a balance in relief on a lined background surrounded by a geometrically variable shield.
+
+5.5.1.2 - The CCM can be combined with a fineness and precious metal mark: in this case, it is surrounded by a shield indicating the nature of the precious metal and contains a number in arabic numerals showing in relief the standard of fineness of the article in parts per thousand, as described below (type 1).
+
+5.5.1.3 - The CCM can be a conformity mark only: in this case, it is surrounded by a standardised octagonal shield, as described below (type 2).
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/222645052/222662775.png) |
+| --- |
+
+5.5.2 - Approved sizes - the approved sizes of the CCM and other compulsory marks are defined by the Standing Committee.
+
+5.6 - Articles consisting of more than one alloy of the same precious metal - where an article consists of different alloys of the same precious metal, the fineness mark and the CCM applied shall be that of the lowest fineness present in the article. Exceptions can be decided on by the Standing Committee.
+
+5.7 - Articles consisting of parts - if an article consists of parts which are hinged or readily separable, the above marks shall, when possible, be applied to the main part. Where practicable the CCM shall be applied also to the lesser parts.
+
+5.8 - Mixed precious metal articles:
+
+5.8.1 - If an article consists of different precious metal alloys, and if the colour and extent of each alloy are clearly visible, the marks referred to in paragraph 5.1.2 shall be applied on one precious metal alloy and the appropriate CCM (type 1) on the other(s).
+
+5.8.2 - If an article consists of different precious metal alloys and if the colour and extent of each alloy is not visible, the marks referred to in paragraph 5.1.2 and the corresponding CCM shall be applied on the least precious metal. The CCM relating to the more precious metals may not be applied.
+
+5.8.3 - Additional rules as well as exceptions justified by technical reasons are decided on by the Standing Committee.
+
+5.9 - Multimetal articles:
+
+5.9.1 - The marks referred to in paragraph 5.1.2 shall be applied on the precious metal part of a multimetal article. The mark (or equivalent) shall be applied on the metallic part in line with paragraph 2.6 of Annex I to the Convention.
+
+5.9.2 - The Standing Committee may decide on further details or exceptions.
+
+> Alterado pelo/a [Decreto n.º 26/2023](https://diariodarepublica.pt/dr/detalhe/decreto/26-2023-222645052), publicado em 2023-10-11.
 
 APPENDIX - APPENDICE
 
@@ -743,7 +828,9 @@ I - Âmbito e funcionamento da Convenção
 
 ###### ARTIGO 1.º
 
-1 - As disposições legais de um Estado Contratante que prescrevem que os artefactos de metais preciosos devem ser controlados por uma entidade oficial e marcados com punções oficiais comprovativos da qualidade dos mesmos artefactos, ou que esses artefactos devem ser portadores de marcas que indiquem o responsável, a natureza do metal precioso ou o seu toque, deverão ser observadas para os artefactos de metais preciosos importados de outro Estado Contratante, se esses artefactos tiverem sido analisados e marcados de acordo com as disposições da presente Convenção.
+1 - As disposições legais de um Estado Contratante que prescrevem que os artefactos de metais preciosos devem ser controlados por uma entidade oficial e marcados com punções oficiais comprovativos da qualidade dos mesmos artefactos, ou que esses artefactos devem ser portadores de marcas que indiquem o responsável, a natureza do metal precioso ou o seu toque, deverão ser consideradas observadas para os artefactos de metais preciosos importados se esses artefactos tiverem sido analisados e marcados de acordo com as disposições da presente Convenção num dos Estados Contratantes.
+
+> Alterado pelo/a [Decreto n.º 39/99](https://diariodarepublica.pt/dr/detalhe/decreto/39-1999-667276), publicado em 1999-10-19.
 
 2 - Um Estado Contratante importador não exigirá que os artefactos analisados e marcados de acordo com as disposições da presente Convenção sejam submetidos a novos ensaios ou marcações idênticas às mencionadas no parágrafo 1, salvo se se tratar de testes de prova definidos e estabelecidos no artigo 6.º
 
@@ -819,6 +906,10 @@ Promover uma protecção adequada dos punções contra falsificações e uso abu
 
 Apresentar recomendações sobre cada caso que lhe seja submetido em face das disposições do parágrafo 2 do artigo 9.º ou para solução de qualquer diferendo resultante da aplicação da presente Convenção e que seja submetido ao Comité Permanente.
 
+Verificar se os acordos feitos por um Estado, exprimindo a vontade de aderir à presente Convenção, satisfazem as exigências desta e dos seus anexos e sobre a matéria elaborar um relatório que será submetido à apreciação dos Estados Contratantes.
+
+> Aditado pelo/a [Decreto n.º 42/92](https://diariodarepublica.pt/dr/detalhe/decreto/42-1992-225810), publicado em 1992-10-13.
+
 3 - O Comité Permanente adoptará regras de funcionamento para as suas reuniões, incluindo regras de convocação. Reunir-se-á pelo menos uma vez por ano. A primeira reunião terá lugar, por convocação do Estado depositário, o mais tardar seis meses após a entrada em vigor da presente Convenção.
 
 4 - O Comité Permanente pode apresentar recomendações sobre qualquer questão relativa à entrada em vigor da presente Convenção ou fazer propostas de alteração à Convenção ou seus Anexos. Tais recomendações ou propostas serão transmitidas ao Estado depositário, que informará todos os Estados Contratantes.
@@ -839,15 +930,13 @@ IV - Disposições finais
 
 ###### ARTIGO 12.º
 
-1 - A presente Convenção está aberta à adesão de qualquer Estado membro da Organização das Nações Unidas ou membro de qualquer instituição especializada ou da Agência Internacional da Energia Atómica ou do Estatuto do Tribunal Internacional de Justiça, fazendo acordos para o ensaio e marcação de artefactos de metais preciosos em concordância com os requisitos da presente Convenção.
+1 - Qualquer Estado membro da Organização das Nações Unidas ou membro de qualquer instituição especializada ou da Agência Internacional da Energia Atómica ou do Estatuto do Tribunal Internacional de Justiça, tendo disposições para o controlo e marcação de artefactos de metais preciosos e desde que essas disposições satisfaçam os requisitos da presente Convenção e dos seus anexos, pode, a convite do Estados Contratantes que será transmitido pelo Governo depositário, aderir à presente convenção.
 
-2 - Os pedidos de adesão exprimindo a vontade de aceitar as obrigações decorrentes da presente Convenção, acompanhados da descrição das contrastarias que o Estado aderente se propõe designar em conformidade com o artigo 5.º, deverão ser dirigidos ao Estado depositário, que notificará todos os Estados Contratantes, solicitando a aceitação desses Estados àquela adesão.
+2 - Os Governos dos Estados Contratantes, ao decidirem convidar um Estado a aderir, fundamentar-se-ão basicamente no relatório referido no parágrafo 2 do artigo 10.
 
-3 - Os governos dos Estados Contratantes, ao decidirem apoiar uma candidatura, fundamentar-se-ão unicamente na competência técnica e na segurança que a contrastaria indicada no pedido de adesão apresente e na existência dos arranjos necessários de acordo com as disposições do artigo 8.º
+3 - O Estado convidado pode aderir à presente Convenção depositando um instrumento de adesão junto do Estado depositário, o qual notificará todos os outros Estados Contratantes. A adesão entrará em vigor no prazo de três meses após o depósito daquele instrumento.
 
-4 - Os governos deverão notificar a sua resposta ao Estado depositário dentro de quatro meses após recepção da notificação com o pedido da candidatura. Passado este prazo, qualquer governo que não tenha comunicado a sua resposta será considerado como tendo aceitado a adesão. O Estado depositário fica encarregado de informar os governos do Estado requerente e dos Estados Contratantes da aceitação geral, ou da recusa, do pedido de adesão.
-
-5 - Desde que os governos dos Estados Contratantes tenham consentido no acesso, o Estado requerente pode aderir à presente Convenção, depositando o instrumento de adesão junto do Estado depositário, que notificará todos os outros Estados Contratantes. A adesão entrará em vigor no prazo de três meses após o depósito desse instrumento.
+> Alterado pelo/a [Decreto n.º 42/92](https://diariodarepublica.pt/dr/detalhe/decreto/42-1992-225810), publicado em 1992-10-13.
 
 ###### ARTIGO 13.º
 
@@ -879,133 +968,192 @@ Seguem-se as assinaturas dos representantes da Áustria, Finlândia, Noruega, Po
 
 ## ANEXO I — Definições e exigências técnicas
 
-1 - São considerados artefactos de metal precioso, para os fins da presente Convenção, os artefactos inteiramente ou parcialmente feitos de ouro, prata ou platina, ou qualquer liga destes metais, e que possuam todas as suas partes metálicas, com excepção de:
+1 - Definições - para os fins da presente Convenção, são adotadas as seguintes definições:
 
-a) Artigos feitos de uma liga cujo toque seja inferior a 375 milésimos para o ouro, 800 milésimos para a prata e 950 milésimos para a platina;
+1.1 - Metais preciosos - os metais preciosos são a platina, o ouro, o paládio e a prata. A platina é o metal mais precioso, seguida pelo ouro, paládio e prata.
 
-b) Partes de artefactos ou de produtos semi-acabados ou incompletos;
+1.2 - Liga de metal precioso - uma liga de metal precioso é uma solução sólida que contém pelo menos um metal precioso.
 
-c) Matérias-primas, incluindo barras, lâminas, folhas, chapas, fios, tiras e tubos.
+1.3 - Artigo de metal precioso - um artigo de metal precioso é qualquer artigo de joalharia, ourivesaria ou relojoaria ou qualquer outro objeto fabricado inteiramente ou em parte a partir de metais preciosos ou ligas de metais preciosos. «Em parte» significa que um artigo de metal precioso poderá conter:
 
-Toques
+i) Partes não metálicas;
 
-2 - Para os fins da presente Convenção, serão reconhecidos os seguintes toques:
+ii) Partes em metal comum por razões técnicas e/ou decorativas (v. ponto 1.5 adiante).
 
-a) 750(por mil), 585(por mil) e 375(por mil) para o ouro;
+1.4 - Artigo misto de metais preciosos - um artigo misto de metais preciosos é um artigo composto por duas ou mais ligas de metais preciosos.
 
-b) 925(por mil), 830(por mil) e 800(por mil) para a prata;
+1.5 - Artigo multimetal - um artigo multimetal é composto por partes de metal precioso e partes de metal não precioso.
 
-c) 950(por mil) para platina.
+1.6 - Toque - o toque é a proporção do metal precioso designado, expressa em milésimos do peso da liga.
 
-3 - O «toque» indica a quantidade, em peso, de ouro fino, prata fina ou platina contida em 1000 partes de uma liga.
+1.7 - Toque legal - o toque legal é o teor mínimo dos metais preciosos designados, expresso em milésimos do peso da liga.
 
-4 - Se o toque de um artefacto de metal precioso for superior a um dos toques mencionados no parágrafo 2, o artefacto será considerado, para os fins da presente Convenção, como sendo do toque imediatamente inferior, entre os indicados no parágrafo acima.
+1.8 - Revestimento/chapeamento - o revestimento ou chapeamento consiste numa ou mais camadas de um material, permitidas pelo Comité Permanente, aplicadas na totalidade ou em parte de um artigo de metal precioso, por exemplo através de um processo químico, eletroquímico, mecânico ou físico.
 
-5 - Nenhuma parte de um artefacto de metal precioso será de toque inferior ao do próprio artefacto, com excepção da soldadura e das partes autorizadas ao abrigo dos parágrafos 7 a 14.
+1.9 - Metais comuns - o termo «metais comuns» designa todos os metais, exceto a platina, o ouro, o paládio e a prata.
 
-Uso da soldadura
+1.10 - Ensaio - um ensaio é uma análise quantitativa de uma liga de metal precioso segundo um método definido no ponto 3.2 do Anexo II.
 
-6 - Os toques admitidos para as soldaduras são os seguintes:
+1.11 - Outras definições e pormenores - o Comité Permanente pode decidir optar por outras definições e pormenores adicionais.
 
-a) Ouro. - A soldadura de artefactos de ouro será do mesmo toque que aqueles, apenas com as seguintes excepções:
+2 - Exigências técnicas:
 
-Para os artefactos de filigrana de ouro e caixas de relógios, com o toque de 750(por mil), a soldadura conterá, pelo menos, 740 milésimos de ouro;
+2.1 - Artigos não abrangidos pela Convenção - a Convenção não se aplica:
 
-Para os artefactos de ouro branco, com com o toque de 750(por mil), a soldadura conterá, pelo menos, 585 milésimos de ouro;
+a) A artigos feitos de ligas de toque não definido pelo Comité Permanente;
 
-b) Prata. - A solda para os artigos de prata com o toque de 925 não deve conter menos de 650 partes de prata em cada 1000. A solda para artigos de prata com o toque de 800 e 830 não deve conter menos de 550 partes de prata em cada 1000.
+b) Aos artigos destinados a utilização para fins médicos, odontológicos, veterinários, científicos ou técnicos;
 
-c) Platina. - A soldadura para a platina conterá, no mínimo, 995 milésimos de ouro, prata, platina ou paládio.
+c) Às moedas com curso legal;
 
-A soldadura cujo toque seja inferior ao dos artefactos não será utilizada senão em quantidades necessárias à soldagem, não devendo ser usada para reforçar, tornar mais pesado ou encher um artefacto.
+d) Às partes ou produtos semifabricados incompletos (por exemplo, partes metálicas ou revestimentos superficiais);
 
-Uso de partes em metal comum
+e) A matérias-primas como barras, placas, fios e tubos;
 
-7 - Os artefactos de metal precioso não devem conter partes em metal comum, salvo nos seguintes casos:
+f) A artigos de metal comum revestidos com metal precioso;
 
-a) Mecanismos de lapiseiras, peças de relógios, mecanismos interiores de isqueiros e similares, onde o uso de metais preciosos não seria apropriado por razões de ordem técnica;
+g) A qualquer outro objeto abrangido por uma decisão do Comité Permanente.
 
-b) Lâminas de facas e peças de abrir garrafas, saca-rolhas e artigos similares que, por razões técnicas, não possam ser feitos de metal precioso;
+Consequentemente, os artigos referidos nas alíneas a) a g) acima não podem ser marcados com a Marca Comum de Controlo.
 
-c) Grampos para canetas e lapiseiras;
+2.2 - Toques legais admitidos pela Convenção - sem prejuízo do disposto no n.º 2 do artigo 1.º da Convenção, os toques legais admitidos pela Convenção serão os definidos pelo Comité Permanente.
 
-d) Eixos de dobradiças de prata;
+2.3 - Tolerância - não é permitida qualquer tolerância negativa em relação ao toque legal indicado no artigo.
 
-e) Alfinetes para broches de prata.
+2.4 - Utilização da soldadura:
 
-8 - As partes de metal comum previstas no parágrafo 7, a), c), d) e e), não devem ser soldadas ao metal precioso.
+2.4.1 - Os princípios aplicáveis são os seguintes:
 
-9 - As partes de metal comum devem ser sempre marcadas com a palavra «METAL» ou uma designação específica do metal incorporado, gravada ou esculpida; se não for possível tal indicação, as partes deverão distinguir-se facilmente do metal precioso pela sua cor. Esta medida não se aplica aos mecanismos de relógios. O metal comum não deve ser usado simplesmente para reforçar, dar mais peso ou encher um artefacto.
+a) A solda pode ser usada apenas para fins de junção;
 
-Uso de substâncias não metálicas
+b) O toque legal da solda deve ser o mesmo que figura no artigo;
 
-10 - O uso de partes não metálicas é autorizado desde que tais partes se distingam claramente do metal precioso; essas substâncias não devem ser douradas ou coloridas de forma a confundirem-se com os metais preciosos e deverão ser nitidamente visíveis. Enchimentos não metálicos para cabos de facas, garfos ou colheres podem ser igualmente autorizados, desde que essas substâncias sejam apenas utilizadas nas quantidades necessárias para fixar os cabos.
+c) Se for utilizada uma solda com toque legal inferior, todo o artigo deve ter um toque legal admitido.
 
-Uso de vários metais preciosos no mesmo artefacto
+2.4.2 - As exceções práticas a estes princípios e os restantes métodos de junção são definidos pelo Comité Permanente.
 
-11 - É proibido o uso de vários metais preciosos no mesmo artefacto, excepto nos seguintes casos:
+2.5 - Utilização de partes em metal comum e de partes não metálicas em artigos de metais preciosos
 
-a) O uso de partes de platina em artefactos que contenham partes de ouro excedendo 50% do peso total das partes metálicas, desde que o artefacto seja marcado como ouro, na parte do ouro, com os punções indicados no parágrafo 5 do Anexo II;
+2.5.1 - São admitidas partes em metal comum e partes não metálicas em artigos de metais preciosos como função mecânica para a qual os metais preciosos sejam inadequados em termos de resistência ou durabilidade, sujeito às seguintes condições:
 
-b) O uso de partes de ouro e ou platina é admitido em artefactos nos quais o peso da prata represente, pelo menos, 50% do peso de todas as partes metálicas, desde que tais artefactos sejam marcados como prata, na parte da prata, com os punções específicos indicados no parágrafo 5 do Anexo II;
+a) Quando visíveis, as partes de metal comum e as partes não metálicas devem distinguir-se claramente do metal precioso pela cor;
 
-c) Se, por razões técnicas, as pequenas partes móveis, tais como alfinetes de fivelas, não puderem ser confeccionadas com o mesmo metal do artigo, será admitido o uso de metal precioso menos nobre, desde que seja gravada ou estampada na parte de metal precioso a designação específica do metal.
+b) Não devem ser revestidas nem tratadas para dar a aparência de um metal precioso;
 
-12 - É permitido o revestimento de artefactos de prata com ouro, desde que todo o artefacto seja marcado como prata. O revestimento com ródio de artefactos de ouro branco, prata ou platina é permitido desde que todo o artefacto seja marcado, respectivamente, como ouro, prata ou platina.
+c) Não devem ser utilizadas a fim de reforçar, tornar mais pesado ou preencher um artigo;
 
-13 - Serão proibidos quaisquer revestimentos finais ou sub-revestimentos de metais em artefactos de metais preciosos, excepto os mencionados no parágrafo 12.
+d) Sempre que possível, as partes de metal comum devem ser marcadas com a menção «METAL».
 
-14 - As partes de platina a que se refere o parágrafo 11, a), as partes de ouro ou platina a que se refere o parágrafo 11, b), as partes em metais preciosos menos nobres a que se refere o parágrafo 11, c), e o revestimento com ouro ou platina, conforme o parágrafo 12, não serão de toque inferior aos toques mínimos fixados no parágrafo 2.
+2.5.2 - O Comité Permanente pode decidir outros pormenores ou exceções no que se refere às partes de metal comum, bem como às partes e substâncias não metálicas.
 
-## ANEXO II — Controle efectuado pelas contrastarias oficiais
+2.6 - Artigos multimetais:
 
-1 - As contrastarias oficiais analisam os artefactos de metais preciosos que lhes são apresentados e verificam se correspondem às condições do Anexo I da presente Convenção, a fim de serem puncionados com a Marca Comum de Controle.
+2.6.1 - É autorizada a utilização de partes de metal comum e de partes não metálicas em artigos de metais preciosos para fins de decoração, sujeito às seguintes condições:
 
-Métodos de análise
+a) As partes de metal comum e as partes não metálicas devem ser claramente visíveis pela sua extensão;
 
-2 - Para análise dos artefactos de metais preciosos que são apresentados, a contrastaria oficial utilizará um dos seguintes métodos de análise:
+b) Devem poder distinguir-se dos metais preciosos pela cor (ou seja, não devem ser revestidas nem tratadas para lhes dar a aparência de metais preciosos);
 
-Ouro - método de copelação;
+c) As partes de metal comum devem ser marcadas como «METAL».
 
-Prata - método de Gay-Lussac, ou Volhard, ou potenciométrico;
+2.6.2 - O Comité Permanente pode decidir de outros pormenores ou exceções.
 
-Platina - método gravimétrico (cloroplatinado de amónio), ou absorção atómica, ou espectrográfico, ou espectrofotométrico.
+2.7 - Revestimento de artigos de metais preciosos - o Comité Permanente decide sobre os revestimentos autorizados e as exceções por razões técnicas.
 
-3 - O número de tomas para análise deve ser suficiente para permitir à contrastaria assegurar-se de que todas as partes de todos os artefactos analisados satisfazem os toques exigidos.
+## ANEXO II — Controlo efetuado pelas contrastarias oficiais
 
-4 - Não será admitida nenhuma tolerância. Contudo, qualquer contrastaria oficial pode aceitar resultados de análise que apresentem uma ligeira diferença para menos, desde que esta fique dentro das margens de precisão admitidas para os métodos de análise aprovados.
+1 - Aspetos gerais:
 
-Marcação
+1.1 - A contrastaria autorizada (adiante designada «contrastaria») deve cumprir as condições e requisitos referidos no n.º 2 do artigo 5.º da Convenção, não só no momento da notificação ao Depositário mas também em qualquer momento posterior.
 
-5 - Serão apostos os seguintes punções:
+1.2 - A contrastaria analisa se os artigos de metais preciosos que lhe são apresentados para serem marcados com a Marca Comum de Controlo preenchem as condições previstas no Anexo I da Convenção.
 
-a) Um punção de responsabilidade, registado, conforme descrição dada no parágrafo 7;
+1.3 - A fim de examinar os artigos de metais preciosos, a contrastaria deve, em princípio, dispor de um laboratório de ensaio competente. O laboratório deverá, em princípio, poder analisar os artigos de metais preciosos, os quais devem ser marcados com a Marca Comum de Controlo em conformidade com os métodos de ensaio aprovados (v. ponto 3.2 adiante). Uma contrastaria pode subcontratar os ensaios. O Comité Permanente definirá as condições para a subcontratação dos ensaios. Deve igualmente emitir orientações para os requisitos de avaliação de um laboratório de ensaio.
 
-b) Um número em algarismos árabes indicando o toque do artefacto, em milésimos;
+1.4 - A fim de demonstrar a sua competência, o laboratório deve ser acreditado de acordo com a norma ISO 17025 ou demonstrar um nível de competência equivalente.
 
-c) O punção da contrastaria oficial;
+1.5 - Um nível de competência equivalente é alcançado quando a contrastaria aplica um sistema de gestão que cumpra os principais requisitos da norma ISO 17025 e participa com sucesso no programa internacional de testes de aptidão de metais preciosos denominado «Round Robin». O Round Robin é gerido pelo Comité Permanente ou por outro organismo designado pelo Comité Permanente. O Comité Permanente definirá a forma como deve ser alcançado e verificado um nível de competência equivalente. Emite igualmente orientações sobre o Round Robin, incluindo o nível de participação e os critérios de desempenho.
 
-d) A Marca Comum de Controle, tal como descrita no parágrafo 8.
+1.6 - O Comité Permanente fornecerá orientações adicionais sobre os requisitos referidos no n.º 2 do artigo 5.º da Convenção, designadamente no que se refere à independência do pessoal do serviço de contrastaria.
 
-As marcas a) e b) serão incrustadas ou gravadas no artefacto.
+2 - Análise:
 
-As marcas c) e d) serão incrustadas.
+2.1 - Se a contrastaria considerar que um artigo está completo no que se refere a todas as suas partes metálicas e que está em conformidade com o disposto no Anexo I da Convenção, poderá, mediante pedido, marcar o artigo com o punção da contrastaria oficial e a Marca Comum de Controlo. Nos casos em que seja aplicada a Marca Comum de Controlo, a contrastaria deverá certificar-se, antes de restituir o artigo, que o mesmo está efetivamente marcado de acordo com o disposto nos pontos seguintes.
 
-6 - Se um artefacto for composto por várias peças, uma das quais for suspensa ou completamente separada da peça principal, as marcas acima indicadas deverão ser apostas apenas na peça principal. Nesse caso, a contrastaria pode, se for praticável, apor a Marca Comum de Controle nas outras partes.
+2.2 - A análise dos artigos de metais preciosos submetidos para marcação com a Marca Comum de Controlo consiste nas duas etapas seguintes:
 
-7 - O punção de responsabilidade a que se refere o parágrafo 5, a), reproduzirá o nome do fabricante ou uma abreviatura ou um símbolo do mesmo e será inscrito no registo oficial do Estado Contratante ou numa das suas contrastarias reconhecidas no território onde o artefacto em questão for analisado.
+a) Avaliação da homogeneidade do lote; e
 
-8 - A Marca Comum de Controle será constituída pela estilização de uma balança em relevo sobre fundo linear e a indicação do toque do artefacto em números árabes e em milésimos, tudo enquadrado por um desenho que indica a natureza do metal precioso, da seguinte forma:
+b) Determinação do toque da liga (ensaio).
 
-Para os artefactos de ouro: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+2.3 - O objetivo de um ensaio é avaliar a conformidade de uma liga ou de um artigo de metal precioso.
 
-Para os artefactos de prata: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+3 - Métodos de ensaio e de análise:
 
-Para os artefactos de platina: [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09900/10741089.pdf)
+3.1 - A contrastaria pode utilizar qualquer um dos métodos de ensaio para avaliar a homogeneidade de um lote, tal como definido pelo Comité Permanente.
 
-Os modelos da Marca Comum de Controle são reproduzidos no Apêndice.
+3.2 - A contrastaria utilizará qualquer dos métodos de análise aprovados para a determinação dos artigos de metais preciosos tal como definidos pelo Comité Permanente.
 
-9 - Se a contrastaria oficial verificar que o artefacto corresponde às disposições do Anexo I da presente Convenção, pode marcá-lo com o seu punção e com a Marca Comum de Controle. Se o fizer com a Marca Comum de Controle, a contrastaria deverá assegurar-se, antes de restituir o artefacto, que este já é portador de todas as outras marcas, de acordo com as disposições dos parágrafos 5 e 6. Na medida do possível, todas as marcas serão apostas próximo umas das outras.
+4 - Amostragem - o número de artigos retirados de um lote e o número de amostras colhidas desses artigos para efeitos de ensaio e análise devem ser suficientes para provar a homogeneidade do lote e garantir que todas as partes de todos os artigos analisados no lote satisfazem o toque legal exigido. As diretrizes de amostragem serão estabelecidas pelo Comité Permanente.
+
+5 - Marcação:
+
+5.1 - Princípio:
+
+5.1.1 - Os artigos que satisfaçam os critérios referidos no Anexo I devem ser marcados com a Marca Comum de Controlo (MCC), tal como descrita no ponto 5.5, em conformidade com os requisitos estabelecidos no presente Anexo.
+
+5.1.2 - A MCC é aplicada juntamente com outras marcas (algumas das quais podem ser combinadas) que, em conjunto, fornecem as seguintes informações mínimas sobre:
+
+a) Quem produziu (ou importou) o artigo: tal é indicado por uma marca de responsabilidade registada, conforme descrito no ponto 5.4;
+
+b) Quem controlou o artigo: tal é indicado pela marca da contrastaria;
+
+c) Qual o conteúdo em metal precioso do artigo: tal é indicado por uma marca de toque legal em algarismos árabes; e
+
+d) De que metal precioso é feito o artigo: tal é demonstrado por uma marca, símbolo ou forma indicando a natureza do metal precioso.
+
+5.1.3 - O Comité Permanente determina qual destas marcas deve ser aplicada nos artigos e quais podem ser combinadas.
+
+5.2 - Métodos - são aceites os seguintes métodos de marcação: incrustação e laser. O Comité Permanente poderá decidir de outros métodos de marcação dos artigos.
+
+5.3 - Colocação - sempre que possível, todas as marcas devem ser colocadas na proximidade imediata entre si. Outras marcas (por exemplo, marcação do ano) serão autorizadas a título acessório, desde que não possam ser confundidas com as marcas mencionadas acima.
+
+5.4 - Registo de marcas de responsabilidade - a marca de responsabilidade referida na alínea a) do ponto 5.1.2 será registada num registo oficial do Estado Contratante e/ou numa das suas contrastarias que controla o artigo em questão.
+
+5.5 - Marca Comum de Controlo (MCC):
+
+5.5.1 - Descrição:
+
+5.5.1.1 - A MCC é uma marca de conformidade que indica que o artigo de metais preciosos foi controlado em conformidade com os requisitos da Convenção, tal como constam dos presentes Anexos e da Compilação de Decisões Técnicas. Consiste na representação de uma balança em relevo sobre um fundo forrado, rodeada por um enquadramento de forma geométrica variável.
+
+5.5.1.2 - A MCC pode ser combinada com uma marca de indicação do toque e do metal precioso: neste caso, é cercada por um enquadramento que indica a natureza do metal precioso e deverá conter um número em algarismos árabes mostrando em relevo a indicação do toque do artigo em milésimos, como descrito abaixo (tipo 1).
+
+5.5.1.3 - A MCC pode ser apenas uma marca de conformidade: nesse caso, é cercada por um enquadramento octogonal padronizado, como descrito adiante (tipo 2).
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/222645052/222662776.png) |
+| --- |
+
+5.5.2 - Dimensões aprovadas - as dimensões aprovadas da MCC e de outras marcas obrigatórias são definidas pelo Comité Permanente.
+
+5.6 - Artigos constituídos por mais de uma liga do mesmo metal precioso - sempre que um artigo seja composto por diferentes ligas do mesmo metal precioso, a indicação do toque e a MCC aplicada devem ser correspondentes ao toque menos elevado presente no artigo. O Comité Permanente poderá decidir aplicar exceções.
+
+5.7 - Artigos constituídos por partes - se um artigo for composto por partes que sejam articuladas ou facilmente separáveis, as marcas deverão, na medida do possível, ser aplicadas na parte principal. Sempre que possível, a MCC deve ser aplicada também nas partes de menor dimensão.
+
+5.8 - Artigos de metais preciosos mistos:
+
+5.8.1 - Se um artigo for composto por diferentes ligas de metais preciosos e a cor e extensão de cada liga forem claramente visíveis, as marcas referidas no ponto 5.1.2 serão apostas numa das ligas de metais preciosos e a MCC correspondente (tipo 1) na ou nas restantes ligas.
+
+5.8.2 - Se um artigo for composto por diferentes ligas de metais preciosos e a cor e extensão de cada liga não forem claramente visíveis, as marcas referidas no ponto 5.1.2 e a MCC correspondente serão apostas no metal menos precioso. A MCC relativa aos metais mais preciosos não poderá ser aplicada.
+
+5.8.3 - As regras adicionais, bem como as exceções justificadas por razões técnicas, são decididas pelo Comité Permanente.
+
+5.9 - Artigos multimetais:
+
+5.9.1 - As marcas referidas no ponto 5.1.2 devem ser aplicadas na parte de metal precioso de um artigo multimetal. A marca (ou equivalente) deve ser aplicada na parte metálica, em conformidade com o ponto 2.6 do Anexo I da Convenção.
+
+5.9.2 - O Comité Permanente poderá decidir sobre outros pormenores ou exceções.
+
+> Alterado pelo/a [Decreto n.º 26/2023](https://diariodarepublica.pt/dr/detalhe/decreto/26-2023-222645052), publicado em 2023-10-11.
 
 APÊNDICE
 

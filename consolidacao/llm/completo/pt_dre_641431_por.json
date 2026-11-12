@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:641431:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Os alteradores 1 (RCM 60/2008), 2 (RCM 131/2008) e 3 (Portaria 314/2012) só alteram a delimitação cartográfica da REN do município de Paredes através de planta anexa (só em imagem), sem qualquer alteração textual ao Regulamento do PU de Rebordosa; além disso o 2 e o 3 só produzem efeitos com a entrada em vigor de outros planos de urbanização (facto futuro). O alterador 4 (Aviso 1013/2019) não traz texto dirigido ao original.",
+  "instrucoes": [
+    "Alterador 1 (RCM 60/2008): aprova alteração da delimitação da REN de Paredes por planta anexa; não textual, nada aplicado.",
+    "Alterador 2 (RCM 131/2008): idem, por planta anexa, com efeitos na entrada em vigor do PU da Zona Industrial de Lordelo; não textual, nada aplicado.",
+    "Alterador 3 (Portaria 314/2012): idem, planta e quadro anexo em imagem, efeitos com a alteração do PU de Cete/Parada; não textual, nada aplicado.",
+    "Alterador 4 (Aviso 1013/2019): sem artigos que mencionem o original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

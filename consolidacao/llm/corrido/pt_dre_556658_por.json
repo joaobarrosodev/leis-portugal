@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:556658:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "alterador": 1,
+      "texto": "7.º As propriedades que integram esta zona de caça, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidas ao regime florestal, obrigando-se a concessionária a manter dois guardas florestais auxiliares dotados de meio de transporte."
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2 a 5 (anexação de prédio e nova área, suspensão da caça, renovação da concessão por 10 anos, anexação/desanexação com nova área e planta) são atos sobre a concessão sem nova redação de qualquer ponto do original: não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 7.º (dois guardas em vez de três) -> substituída a unidade 12.",
+    "Alterador 2: anexa o prédio Vale Vinagre (área total 2745,7474 ha, planta) sem redação nova -> não textual, nao_aplicavel.",
+    "Alterador 3: suspende o exercício da caça até à renovação -> não textual, nao_aplicavel.",
+    "Alterador 4: renova a concessão por 10 anos e revoga a Portaria 665/2002 -> não textual, nao_aplicavel.",
+    "Alterador 5: anexa e desanexa prédios (área total 3109 ha, planta) -> não textual, nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

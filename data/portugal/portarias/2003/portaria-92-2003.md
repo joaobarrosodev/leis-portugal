@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-09-16'
+version_history:
+  file: portaria-92-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-01-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-09-16'
+    amending: pt:dre:504500:por
+    amending_title: Portaria n.º 958/2003
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/92/2003/01/23/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:52:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 958/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-92-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,7 +161,9 @@ Ouvido o Conselho Cinegético Municipal de Almodôvar:
 
 Manda o Governo, pelos Ministros da Economia e da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
 
-1.º Pela presente portaria é concessionada, pelo período de 12 anos, à MOURACAÇA - Actividades de Caça Turística, Lda., com o número de pessoa colectiva 505305070 e sede na loja n.º 7, Edifício Algamar-Vilamoura, 8125 Quarteira, a zona de caça turística do Almarjão (processo n.º 3224-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Santa Clara-a-Nova e Almodôvar, município de Almodôvar, com uma área de 846,4830 ha.
+1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, à MOURACAÇA - Actividades de Caça Turística, Lda., com o número de pessoa colectiva 505305070 e sede na loja n.º 7, Edifício Algamar, Vilamoura, 8125 Quarteira, a zona de caça turística do Almarjão (processo n.º 3224-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Santa Clara-a-Nova e Almodôvar, município de Almodôvar, com uma área de 846,4830 ha.
+
+> Alterado pelo/a [Portaria n.º 958/2003](https://diariodarepublica.pt/dr/detalhe/portaria/958-2003-504500), publicado em 2003-09-11.
 
 2.º A Direcção-Geral do Turismo emitiu, ao abrigo do disposto no n.º 3 do artigo 34.º, parecer favorável condicionado à aprovação do projecto de arquitectura do pavilhão de caça, à conclusão da obra no prazo de 12 meses a contar da data de notificação da aprovação do projecto e à verificação da conformidade da obra com o projecto aprovado.
 

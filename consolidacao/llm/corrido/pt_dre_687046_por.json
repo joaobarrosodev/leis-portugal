@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:687046:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Sardoal e Valhascos, município do Sardoal, com a área de 1188 ha.",
+      "alterador": 4
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º A - Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 4
+    }
+  ],
+  "nao_aplicavel": "As plantas anexas (substituídas pelos alteradores 2, 4, 5, 6 e 7) só existem em imagem; e as anexações de prédios (alteradores 5 e 7), a renovação da concessão (alterador 6) e a suspensão da actividade cinegética (alterador 3) não são alterações textuais do original, pelo que as novas áreas (1555 ha, 1151,2790 ha, 1158 ha) não foram escritas no n.º 1.º.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 462/94): nova redacção do n.º 1.º (1324,5290 ha) — substituída depois pelas redacções dos alteradores 2 e 4; fica só a final na unidade 6.",
+    "Alterador 2 (Portaria 989/95): nova redacção do n.º 1.º (1321,8770 ha) — sobreposta pelo alterador 4; substituição da planta anexa só em imagem, não aplicada.",
+    "Alterador 3 (Portaria 973-A/97): revoga a Portaria 826/97, mantém em vigor o original e suspende a actividade cinegética por 180 dias — sem alteração textual ao original (e foi revogada pelo alterador 4).",
+    "Alterador 4 (Portaria 96/98): nova redacção do n.º 1.º (1188 ha) — unidade 6 substituída, mantendo o texto do alterador; aditado o n.º 1.º-A — inserido a seguir à unidade 6.",
+    "Alterador 5 (Portaria 632/2000): anexação de sete prédios (área total 1555 ha) com planta — não textual, não aplicada.",
+    "Alterador 6 (Portaria 797/2003): renovação da concessão por nove anos com 1151,2790 ha — não textual, não aplicada.",
+    "Alterador 7 (Portaria 563/2009): anexação de prédios (área total 1158 ha) — não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

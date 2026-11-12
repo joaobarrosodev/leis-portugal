@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:227261:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 26,
+      "texto": "2.º A Comissão Permanente de Estudos do Espaço Exterior será constituída pelos representantes das seguintes entidades:\n\nDirecção-Geral dos Negócios Políticos;\n\nDirecção-Geral dos Negócios Económicos;\n\nEstado-Maior da Força Aérea, Base Aérea n.º 1;\n\nEstado-Maior da Armada, Instituto Hidrográfico;\n\nEstado-Maior do Exército, Serviço Cartográfico;\n\nInstituto de Investigação Científica Tropical - JICU;\n\nInstituto Nacional de Investigação Científica;\n\nObservatório Astronómico de Lisboa;\n\nUniversidades (até 3 personalidades de reconhecido mérito no domínio, devendo obrigatoriamente ser uma de astronomia e outra de aeronáutica);\n\nDirecção-Geral de Aviação Civil;\n\nInstituto Nacional de Meteorologia e Geofísica;\n\nDirecção-Geral dos Recursos e Aproveitamentos Hidráulicos;\n\nLaboratório Nacional de Engenharia Civil;\n\nCorreios e Telecomunicações de Portugal;\n\nInstituto Geográfico e Cadastral;\n\nInstituto Nacional de Investigação Agrária e Extensão Rural;\n\nDirecção-Geral das Florestas;\n\nInstituto Nacional de Investigação das Pescas;\n\nDirecção-Geral do Ordenamento;\n\nDirecção-Geral da Qualidade do Ambiente;\n\nAté 6 personalidades de reconhecido mérito na área das actividades ligadas à utilização pacífica do espaço exterior do sector público e privado nomeadas pelo membro de tutela da Junta, sob proposta do presidente desta, ouvidos os restantes membros da Comissão.\n\nOs representantes dos organismos acima referidos serão designados por despacho dos ministros das respectivas tutelas.\n\n3.º A Comissão terá um presidente e um vice-presidente - substituto daquele nos seus impedimentos -, sendo estes os representantes permanentes que tenham obtido a maioria dos votos em eleições directas e secretas realizadas para o efeito em plenário.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 244/86 (n.º 2.º) extingue a Comissão Permanente de Estudos do Espaço Exterior, mas não revoga nem altera expressamente o texto da Portaria n.º 29/70; o n.º 2.º da Portaria n.º 307/71 (substituto de cada membro) é norma autónoma, sem alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 307/71), n.º 1.º: acrescenta seis membros i) a n) à composição do n.º 2.º; ficou absorvido pela nova redação integral do n.º 2.º dada pelo alterador 2, por isso não se insere separadamente. N.º 2.º (substitutos): norma autónoma, não textual.",
+    "Alterador 2 (Portaria 292/83): nova redação dos n.os 2.º e 3.º; substituídas as unidades 14 a 26 pelo texto novo (o antigo 2.º, incluindo as alíneas a) a h) e os parágrafos seguintes, e o 3.º).",
+    "Alterador 3 (Portaria 244/86), n.º 2.º: extingue a Comissão; não é revogação textual, não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

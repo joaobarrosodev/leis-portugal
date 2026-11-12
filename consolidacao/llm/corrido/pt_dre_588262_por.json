@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:588262:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 10,
+      "texto": "1.º São integrados nos Centros Regionais de Segurança Social do Norte, do Centro, de Lisboa e Vale do Tejo, do Alentejo e do Algarve os contribuintes, beneficiários e acções da Caixa de Previdência dos Profissionais de Espectáculos (adiante designada por Caixa), com efeitos reportados a 1 de Outubro de 1993.\n\n2.º A integração orgânica e funcional da Caixa e do respectivo pessoal no Centro Regional de Segurança Social de Lisboa e Vale do Tejo terá igualmente lugar em 1 de Outubro de 1993.\n\n3.º O património imobiliário e os equipamentos da Caixa, bem como as suas posições contratuais, tanto activas como passivas, consideram-se transferidos para a titularidade do Centro Regional de Segurança Social de Lisboa e Vale do Tejo, com efeitos reportados à data da integração de acordo com os artigos 2.º e 5.º do [Decreto-Lei n.º 515/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1979-365765), de 28 de Dezembro.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 871/93): nova redação dos n.os 1.º, 2.º e 3.º — substituídas as unidades 8 a 10.",
+    "Alterador 2 (Portaria 101/94): altera o artigo 48.º do Regulamento aprovado pela Portaria 140/92, não o original — ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

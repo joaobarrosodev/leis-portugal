@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-11-23'
+version_history:
+  file: portaria-615-t5-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-11-23'
+    amending: pt:dre:316887:por
+    amending_title: Portaria n.º 1172/91
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/615-t5/1991/07/08/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:56:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1172/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-615-t5-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,7 +172,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna e obtido parecer
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º Fica sujeito ao regime cinegético especial o prédio rústico denominado «Herdade da Fonte Coberta», sito na freguesia de Nossa Senhora de Machede, concelho de Évora, com uma área de 1339,5120 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
+1.º Ficam sujeitas ao regime cinegético especial as propriedades constantes da planta anexa, denominadas «Herdade da Fonte Coberta» e «Herdade de Vale Melhorado de Baixo» e outras, sitas na freguesia de Nossa Senhora de Machede, concelho de Évora, com uma área de 1339,5120 ha.
+
+> Alterado pelo/a [Portaria n.º 1172/91](https://diariodarepublica.pt/dr/detalhe/portaria/1172-1991-316887), publicado em 1991-11-18.
 
 2.º Pelo presente diploma é concessionada, pelo período de seis anos, à SALTUS - Sociedade Alentejana de Caça e Turismo Rural, S. A., com o número de pessoa colectiva 971173974 e sede na Rua de João de Deus, 1, Évora, a zona de caça turística do Vale Melhorado (processo n.º 800 da Direcção-Geral das Florestas).
 

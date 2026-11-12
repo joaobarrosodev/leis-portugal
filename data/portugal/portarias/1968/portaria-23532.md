@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-03-27'
+version_history:
+  file: portaria-23532.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-08-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-03-27'
+    amending: pt:dre:412203:por
+    amending_title: Portaria n.º 226/74
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:49:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 226/74. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1968/portaria-23532.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -96,6 +111,8 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Ne
 
 2) Membros da missão - quatro funcionários do quadro do pessoal do serviço diplomático de categoria inferior a ministro plenipotenciário de 1.ª classe, um dos quais poderá ser ministro plenipotenciário de 2.ª classe ou conselheiro de embaixada;
 
-3) Pessoal assalariado - um consultor especial, um encarregado dos serviços de imprensa, quatro funcionários em serviço privativo de qualquer categoria, entre terceiro-oficial, escriturário ou dactilógrafo, e um contínuo.
+3) Pessoal assalariado. - Um consultor especial, dois funcionários do quadro administrativo da Secretaria de Estado, em serviço privativo, de qualquer categoria entre segundo-oficial, terceiro-oficial e escriturário-dactilógrafo de 1.ª ou de 2.ª classe, dois dactilógrafos, um telefonista, um motorista, um porteiro, um contínuo e um servente.
+
+> Alterado pelo/a [Portaria n.º 226/74](https://diariodarepublica.pt/dr/detalhe/portaria/226-1974-412203), publicado em 1974-03-27.
 
 Ministérios das Finanças e dos Negócios Estrangeiros, 12 de Agosto de 1968. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.

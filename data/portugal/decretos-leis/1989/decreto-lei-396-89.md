@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-02-27'
+version_history:
+  file: decreto-lei-396-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-11-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-02-27'
+    amending: pt:dre:188690:por
+    amending_title: Decreto-Lei n.º 43/95
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:55:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 43/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-396-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,7 +165,9 @@ O presente diploma é aplicável ao pessoal civil que presta serviço na Guarda 
 
 ###### Artigo 2.º — Quadro de pessoal
 
-A Guarda Nacional Republicana dispõe do pessoal civil constante do quadro anexo ao presente diploma, do qual faz parte integrante.
+A Guarda Nacional Republicana dispõe do pessoal constante do quadro de pessoal aprovado por portaria conjunta dos Ministros da Administração Interna e das Finanças.
+
+> Alterado pelo/a [Decreto-Lei n.º 43/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1995-188690), publicado em 1995-02-22.
 
 ###### Artigo 3.º — Provimento
 

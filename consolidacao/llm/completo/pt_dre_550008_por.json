@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:550008:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Quadro de pessoal",
+      "texto": "A Guarda Nacional Republicana dispõe do pessoal constante do quadro de pessoal aprovado por portaria conjunta dos Ministros da Administração Interna e das Finanças.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "A Portaria n.º 1314/95 (alterador 2) substitui o quadro anexo ao Decreto-Lei n.º 396/89 pelo seu anexo, que só vem em imagem (documento original), pelo que não se pode aplicar textualmente.",
+  "instrucoes": [
+    "Alterador 1 (DL 43/95, artigo único): nova redação do artigo 2.º — aplicada.",
+    "Alterador 2 (Portaria 1314/95): substitui o quadro anexo — não aplicada, anexo só em imagem (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

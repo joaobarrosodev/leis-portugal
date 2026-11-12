@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 30-33",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) A Repartição Administrativa;\n\ne) O Centro de Relações Públicas e Documentação;\n\nf) O Serviço de Fiscalização;\n\ng) Os serviços locais.",
+    "depois": "d) A Divisão de Organização e Informática;\n\ne) A Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações;\n\nf) A Repartição Administrativa;\n\ng) O Centro de Relações Públicas e Documentação;\n\nh) O Serviço de Fiscalização;\n\ni) Os serviços locais.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:183265:por",
+    "alterador": "pt:dre:688407:por;pt:dre:221279:por"
+  },
+  {
+    "artigo": "unidades 127-127",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Elaborar e acompanhar a execução dos planos de actividade e dos projectos de investimentos anuais do Centro;",
+    "depois": "a) Elaborar e acompanhar a execução dos planos de actividades e dos projectos de investimento anuais do Centro;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:183265:por",
+    "alterador": "pt:dre:688407:por;pt:dre:221279:por"
+  },
+  {
+    "artigo": "unidades 129-133",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Emitir pareceres e instruir processos de natureza jurídica, proceder a envio aos tribunais de execução fiscal, quando for caso disso, e acompanhar quaisquer processos junto dos tribunais;\n\nd) Velar pelas condições de segurança dos edifícios, pronunciar-se sobre a realização de obras, elaborar cadernos de encargos e fiscalizar a execução dos trabalhos;\n\ne) Realizar as acções necessárias ao recrutamento, integração, formação e controle do pessoal do Centro;\n\nf) Proceder a estudos com vista à melhoria do funcionamento dos serviços e acompanhar a sua implementação;\n\ng) Desenvolver, coordenar e controlar o planeamento da actividade de processamento de dados e estudar e executar as acções necessárias ao tratamento computorizado da informação.",
+    "depois": "c) Velar pelas condições de segurança dos edifícios, pronunciar-se sobre a realização de obras, elaborar cadernos de encargos e fiscalizar a execução dos trabalhos;\n\nd) Realizar as acções necessárias ao recrutamento, integração, formação e controlo do pessoal do Centro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:183265:por",
+    "alterador": "pt:dre:688407:por;pt:dre:221279:por"
+  },
+  {
+    "artigo": "depois da unidade 133",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 12.º-A\n\n##### Divisão de Organização e Informática\n\nCompete à Divisão de Organização e Informática:\n\na) Proceder a estudos com vista à melhoria do funcionamento dos serviços e acompanhar a sua implementação;\n\nb) Colaborar com a Divisão de Apoio Técnico no estudo das exigências dos postos de trabalho e na determinação dos efectivos a utilizar;\n\nc) Efectuar a análise das tarefas e dos postos de trabalho, com vista ao controle de custos e ao estabelecimento de padrões de produtividade;\n\nd) Analisar, em colaboração com os serviços interessados, as necessidades de equipamento e material, as suas características e respectiva adequação;\n\ne) Proceder a estudos de racionalização de impressos e outros suportes de informação;\n\nf) Assegurar a ligação funcional entre os serviços utilizadores do equipamento informático e entre estes e os serviços centrais;\n\ng) Proceder à transcrição de dados para suporte adequado ao processamento informático, colaborando nas operações destinadas a garantir a qualidade dos mesmos;\n\nh) Desenvolver, coordenar e controlar o planeamento da actividade de processamento de dados;\n\ni) Produzir estatísticas actualizadas sobre a ocupação e rendimento do equipamento informático;\n\nj) Colaborar na elaboração de manuais de operação e assegurar a sua correcta aplicação e utilização;\n\nl) Organizar as bibliotecas de operação, de bandas e discos e zelar pela sua manutenção;\n\nm) Executar a análise, a programação e a testagem de trabalhos de interesse específico do Centro;\n\nn) Colaborar na optimização da utilização do equipamento, tendo em atenção os recursos de hardware e software disponíveis;\n\no) Colaborar nas acções de selecção e formação de pessoal de informática;\n\np) Garantir a segurança e privaticidade da informação à sua guarda;\n\nq) Apoiar tecnicamente na elaboração de cadernos de encargos, selecções, aquisição, contratação e instalação de equipamentos de informática ou de suportes lógicos;\n\nr) Estudar as características técnicas do equipamento de informática e dos suportes lógicos e avaliar, do ponto de vista técnico-económico, os projectos de informática;\n\ns) Estudar e executar as acções necessárias ao tratamento computadorizado da informação.\n\n###### Artigo 12.º-B — Técnicos superiores de informática\n\n1 - Os técnicos superiores de informática desempenham funções numa das seguintes áreas funcionais:\n\na) Programação;\n\nb) Programação de sistemas;\n\nc) Planeamento e controle.\n\n2 - As tarefas inerentes à área de programação são, fundamentalmente, as seguintes:\n\na) Estudar o caderno de análises e obter as explicações complementares;\n\nb) Identificar, das fases de tratamento, os programas a elaborar;\n\nc) Segmentar cada unidade de tratamento em módulos lógicos;\n\nd) Codificar programas ou módulos na linguagem escolhida e velar pela aderência geral às normas de execução de programas e sua documentação;\n\ne) Colaborar na optimização da utilização do equipamento, tendo em atenção os recursos de software disponíveis;\n\nf) Identificar os programas utilitários e as macroinstruções necessárias à elaboração do programa;\n\ng) Preparar trabalhos de assemblagem, compilação e ensaio;\n\nh) Elaborar os cadernos de programação e documentar os programas segundo as normas adoptadas, por forma que a sua manutenção possa ser realizada por outro programador, incluindo o fluxograma, nos casos em que tal seja norma;\n\ni) Elaborar o manual de exploração;\n\nj) Colaborar em cursos de programação.\n\n3 - As tarefas inerentes à área de programação de sistemas são, fundamentalmente, as seguintes:\n\na) Assegurar o funcionamento do sistema de exploração e sua actualização segundo as instruções do construtor;\n\nb) Elaborar os programas utilitários particulares e as macroinstruções necessárias à utilização do sistema;\n\nc) Colaborar na elaboração dos programas ou módulos que exijam um conhecimento mais profundo das possibilidades do material;\n\nd) Apoiar os programadores de aplicação na utilização das macroinstruções, programas utilitários e outros suportes lógicos;\n\ne) Participar na identificação das causas de incidentes de exploração.\n\n4 - As tarefas inerentes à área de planeamento e controle são, fundamentalmente, as seguintes:\n\na) Coordenar as actividades de correspondência informática e de recolha de dados;\n\nb) Assegurar a ligação ao banco de dados, centros processadores e serviços utilizados;\n\nc) Colaborar em estudos gerais de informática e afins e na realização de pareceres técnicos;\n\nd) Efectuar estudos e análises de custos e determinar custos-padrões;\n\ne) Participar na organização de planos anuais de formação, de modo a proporcionar a valorização continuada do pessoal do quadro e adaptar aos métodos de trabalho dos centros o pessoal venha a ser recrutado;\n\nf) Realizar os estudos necessários à fundamentação das decisões sobre implementação e actualização do sistema, nomeadamente sob a adopção de novas versões ou derivadas de reconversão no equipamento;\n\ng) Orientar a correcta utilização dos instrumentos de medida, com vista à optimização do sistema e, se necessário, promover os estudos para criação de novos sistemas de controle;\n\nh) Realizar os estudos necessários à fundamentação de decisão conducentes ao desenvolvimento ou à aquisição de suportes lógicos a adoptar;\n\ni) Manter-se a par da evolução tecnológica e participar nos estudos de apetrechamento informático;\n\nj) Elaborar o planeamento geral dos serviços;\n\nk) Assegurar, com devida oportunidade, o controle de qualidade dos resultados na operação;\n\nl) Analisar os mapas de produção e de estatística do sistema, com vista a optimizar a sua utilização.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:183265:por",
+    "alterador": "pt:dre:688407:por;pt:dre:221279:por"
+  },
+  {
+    "artigo": "depois da unidade 133",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 12.º-C\n\n##### Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações\n\nCompete à Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações:\n\n1) Em matéria de acção jurídica e de contencioso:\n\na) Emitir pareceres e informações, satisfazer consultas e elaborar estudos de natureza jurídica;\n\nb) Elaborar minutas de escrituras, contratos e outros documentos de carácter legal;\n\nc) Apoiar juridicamente as instituições particulares de solidariedade social;\n\nd) Apoiar os serviços competentes na preparação dos processos necessários ao julgamento das questões que impliquem envolvimento do Centro e proceder ao acompanhamento dos processos junto dos tribunais;\n\ne) Reclamar créditos por dívidas de contribuições em processos de falência, em processos de execução movidos por outros credores, em processos de inventário ou outros;\n\nf) Promover o reembolso de prestações pagas indevidamente, sempre que seja necessário o recurso à via judicial;\n\n2) Em matéria de contra-ordenações:\n\na) Organizar e instruir os processos de contra-ordenações;\n\nb) Elaborar relação dos processos arquivados;\n\nc) Propor a nomeação de defensor oficioso, nos casos legalmente previstos;\n\nd) Propor a aplicação de coimas, nos termos regulamentares;\n\ne) Determinar o montante de custas dos processos;\n\nf) Preparar os processos para decisão final;\n\ng) Remeter os processos a tribunal, nas circunstâncias legalmente previstas;\n\nh) Representar a instituição de segurança social na fase judicial da contra-ordenação;\n\ni) Organizar e actualizar ficheiros relacionados com os processos de contra-ordenações;\n\nj) Promover a emissão de orientações para os serviços que procedam à averiguação de infracções ou que, de qualquer modo, sejam chamados a colaborar;\n\nl) Recolher e tratar os necessários dados estatísticos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:183265:por",
+    "alterador": "pt:dre:688407:por;pt:dre:221279:por"
+  }
+]

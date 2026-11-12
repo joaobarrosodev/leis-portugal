@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2019-03-15'
+version_history:
+  file: despacho-normativo-12-a-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-03-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-03-15'
+    amending: pt:dre:120999245:por
+    amending_title: Despacho Normativo n.º 7/2019
+    changes:
+    - Altera Artigo 75.º
+    - Altera Artigo 79.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:07:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 7/2019. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2009/despacho-normativo-12-a-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1268,9 +1284,11 @@ c) O responsável pelos serviços administrativos e financeiros, que secretaria.
 
 1 - O Administrador dos SAS é livremente escolhido pelo Presidente do IPV, de entre pessoas com saber e experiência na área da gestão.
 
-2 - O estatuto do Administrador dos SAS é equiparado ao estatuto do Administrador do IPV para todos os efeitos legais, salvo se a lei dispuser de forma diversa. Neste caso, os SAS são dirigidos por um director de serviços.
+2 - O cargo de Administrador dos SAS é equiparado a diretor de serviços, cargo de direção intermédia de 1.º grau.
 
 3 - A duração do exercício de funções como dirigente deste serviço não pode exceder dez anos.
+
+> Alterado pelo/a [Despacho Normativo n.º 7/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2019-120999245), publicado em 2019-03-14.
 
 ###### Artigo 76.º — Competências
 
@@ -1300,7 +1318,11 @@ A gestão dos serviços aos estudantes, como cantinas e residências, pode ser c
 
 2 - O Administrador é livremente nomeado e exonerado pelo Presidente.
 
-3 - A duração do exercício de funções como Administrador não pode exceder dez anos.
+3 - O cargo de Administrador do IPV é equiparado a subdiretor-geral, cargo de direção superior de 2.º grau.
+
+4 - A duração do exercício de funções como Administrador não pode exceder dez anos.
+
+> Alterado pelo/a [Despacho Normativo n.º 7/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2019-120999245), publicado em 2019-03-14.
 
 ###### Artigo 80.º — Competências
 

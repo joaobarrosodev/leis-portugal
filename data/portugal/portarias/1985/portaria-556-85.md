@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-04-26'
+version_history:
+  file: portaria-556-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-08-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-04-26'
+    amending: pt:dre:221519:por
+    amending_title: Portaria n.º 729/86; Portaria n.º 422/93; Portaria n.º 422/93
+    changes:
+    - Altera Artigo unidades 30-33
+    - Altera Artigo unidades 129-133
+    - Adita Artigo depois da unidade 133
+    - Adita Artigo depois da unidade 133
 identifiers:
   celex: null
   eli: null
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:29:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 729/86; Portaria n.º
+    422/93; Portaria n.º 422/93. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-556-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -225,13 +243,19 @@ b) A Divisão de Gestão Financeira;
 
 c) A Divisão de Apoio Técnico;
 
-d) A Repartição Administrativa;
+d) A Divisão de Organização e Informática;
 
-e) O Centro de Relações Públicas e Documentação;
+e) A Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações;
 
-f) O Serviço de Fiscalização;
+f) A Repartição Administrativa;
 
-g) Os serviços locais.
+g) O Centro de Relações Públicas e Documentação;
+
+h) O Serviço de Fiscalização;
+
+i) Os serviços locais.
+
+> Alterado pelo/a [Portaria n.º 422/93](https://diariodarepublica.pt/dr/detalhe/portaria/422-1993-692856), publicado em 1993-04-21.
 
 ### CAPÍTULO III — Departamentalização e competência dos serviços
 
@@ -423,15 +447,99 @@ a) Elaborar e acompanhar a execução dos planos de actividades e dos projectos 
 
 b) Participar na definição dos elementos estatísticos a apurar, coordenar a recolha e proceder à sua análise e difusão;
 
-c) Emitir pareceres e instruir processos de natureza jurídica, proceder a envio aos tribunais de execução fiscal quando for caso disso e acompanhar quaisquer processos junto dos tribunais;
+c) Velar pelas condições de segurança dos edifícios, pronunciar-se sobre a realização de obras, elaborar cadernos de encargos e fiscalizar a execução dos trabalhos;
 
-d) Velar pelas condições de segurança dos edifícios, pronunciar-se sobre a realização de obras, elaborar cadernos de encargos e fiscalizar a execução dos trabalhos;
+d) Realizar as acções necessárias ao recrutamento, integração, formação e controlo do pessoal do Centro.
 
-e) Realizar as acções necessárias ao recrutamento, integração, formação e controle do pessoal do Centro;
+> Alterado pelo/a [Portaria n.º 422/93](https://diariodarepublica.pt/dr/detalhe/portaria/422-1993-692856), publicado em 1993-04-21.
 
-f) Proceder a estudos com vista à melhoria do funcionamento dos serviços e acompanhar a sua implementação;
+###### Artigo 12.º-A
 
-g) Desenvolver, coordenar e controlar o planeamento da actividade de processamento de dados e estudar e executar as acções necessárias ao tratamento computorizado da informação.
+##### Divisão de Organização e Informática
+
+Compete à Divisão de Organização e Informática:
+
+a) Proceder a estudos com vista à melhoria do funcionamento dos serviços e acompanhar a sua implementação;
+
+b) Colaborar com a Divisão de Apoio Técnico no estudo das exigências dos postos de trabalho e na determinação dos efectivos a utilizar;
+
+c) Efectuar a análise das tarefas e dos postos de trabalho, com vista ao controle de custos e ao estabelecimento de padrões de produtividade;
+
+d) Analisar, em colaboração com os serviços interessados, as necessidades de equipamento e material, as suas características e respectiva adequação;
+
+e) Proceder a estudos de racionalização de impressos e outros suportes de informação;
+
+f) Assegurar a ligação funcional entre os serviços utilizadores do equipamento informático e entre estes e os serviços centrais;
+
+g) Proceder à transcrição de dados para suporte adequado ao processamento informático, colaborando nas operações destinadas a garantir a qualidade dos mesmos;
+
+h) Desenvolver, coordenar e controlar o planeamento da actividade de processamento de dados e estudar e executar as acções necessárias ao tratamento computadorizado da informação;
+
+i) Produzir estatísticas actualizadas sobre a ocupação e rendimento do equipamento informático;
+
+j) Colaborar na elaboração de manuais de operação e assegurar a sua correcta aplicação e utilização;
+
+l) Organizar as bibliotecas de operação, de bandas e de discos e zelar pela sua manutenção;
+
+m) Executar a análise, a programação e a testagem de trabalhos de interesse específico do Centro;
+
+n) Colaborar na optimização da utilização do equipamento, tendo em atenção os recursos hardware e software disponíveis;
+
+o) Colaborar nas acções de selecção e formação de pessoal de informática;
+
+p) Garantir a segurança e privaticidade da informação à sua guarda;
+
+q) Apoiar tecnicamente a elaboração de cadernos de encargos, selecções, aquisição, contratação e instalação de equipamentos de informática ou de suportes lógicos;
+
+r) Estudar as características técnicas do equipamento de informática e dos suportes lógicos e avaliar, do ponto de vista técnico-económico, os projectos de informática.
+
+> Aditado pelo/a [Portaria n.º 729/86](https://diariodarepublica.pt/dr/detalhe/portaria/729-1986-221519), publicado em 1986-12-03.
+
+###### Artigo 12.º-A
+
+##### Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações
+
+Compete à Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações:
+
+1) Em matéria de acção jurídica e de contencioso:
+
+a) Emitir pareceres, informações, satisfazer consultas e elaborar estudos de natureza jurídica;
+
+b) Elaborar minutas de escrituras, contratos e outros documentos de carácter legal;
+
+c) Apoiar juridicamente as instituições particulares de solidariedade social;
+
+d) Apoiar os serviços competentes na preparação dos processos necessários ao julgamento das questões que impliquem envolvimento do Centro e proceder ao acompanhamento dos processos junto dos tribunais;
+
+e) Reclamar créditos por dívidas de contribuições em processos de falência, em processos de execução movidos por outros credores, em processos de inventário ou outros;
+
+f) Promover o reembolso de prestações pagas indevidamente sempre que seja necessário o recurso à via judicial;
+
+2) Em matéria de contra-ordenações:
+
+a) Organizar e instruir os processos de contra-ordenações;
+
+b) Elaborar relação dos processos arquivados;
+
+c) Propor a nomeação de defensor oficioso nos casos legalmente previstos;
+
+d) Propor a aplicação de coimas nos termos regulamentares;
+
+e) Determinar o montante de custas dos processos;
+
+f) Preparar os processos para decisão final;
+
+g) Remeter os processos a tribunal, nas circunstâncias legalmente previstas;
+
+h) Representar a instituição de segurança social na fase judicial da contra-ordenação;
+
+i) Organizar e actualizar ficheiros relacionados com os processos de contra-ordenações;
+
+j) Promover a emissão de orientações para os serviços que procedam à averiguação de infracções ou que, de qualquer modo, sejam chamados a colaborar;
+
+l) Recolher e tratar os necessários dados estatísticos.
+
+> Aditado pelo/a [Portaria n.º 422/93](https://diariodarepublica.pt/dr/detalhe/portaria/422-1993-692856), publicado em 1993-04-21.
 
 ###### ARTIGO 13.º — (Repartição Administrativa)
 

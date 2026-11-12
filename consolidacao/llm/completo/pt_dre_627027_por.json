@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:627027:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Nenhuma instrução se aplica com segurança ao texto do Regulamento de 1995 (47 artigos): a RCM 167/2004 só suspende parcialmente o PDM e fixa medidas preventivas por prazo (não textual); a RCM 144/2007 (revisão do PDM) vem sem texto; a Declaração 149/2014 corrige só a planta de ordenamento (imagem); e os Avisos 12839/2015 (art. 49.º, revogação só na área do plano e prevalência «que contrariem»), 4757/2018 (art. 60.º), 16588/2018 (só plantas) e 12848/2019 (arts. 3.º a 136.º, incluindo 67.º-A a 67.º-L) alteram o Regulamento do PDM revisto de 2007, cuja numeração e conteúdo não correspondem aos do texto atual (o art. 3.º, 49.º, 60.º e seguintes não são os do original).",
+  "instrucoes": [
+    "Alterador 1 (RCM 167/2004): ratifica suspensão parcial do PDM e medidas preventivas por dois anos (anexo próprio) — não textual, não aplicada.",
+    "Alterador 2 (RCM 144/2007): revisão do PDM; sem texto de artigos dirigidos ao original no pedido — nada aplicado.",
+    "Alterador 3 (Declaração 149/2014): correção material da planta de ordenamento (imagem) — não aplicada.",
+    "Alterador 4 (Aviso 12839/2015, PP Tomix, art. 38.º): revoga o art. 49.º do regulamento do PDM só na área do plano e dá prevalência às disposições que contrariem — revogação parcial/condicional e referida ao regulamento revisto; não aplicada.",
+    "Alterador 5 (Aviso 4757/2018): nova redação do art. 60.º «Espaços de Usos Múltiplos» do regulamento revisto — artigo inexistente no texto atual; não aplicada.",
+    "Alterador 6 (Aviso 16588/2018): alteração das plantas (imagens) — não aplicada.",
+    "Alterador 7 (Aviso 12848/2019): adaptação ao POC-ACE, novas redações de artigos 3.º a 136.º do regulamento revisto e novo capítulo V (67.º-A a 67.º-L) — não correspondem ao texto atual do regulamento de 1995; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

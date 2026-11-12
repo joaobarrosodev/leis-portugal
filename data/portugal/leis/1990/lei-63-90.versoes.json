@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:242052:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1990-12-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "baaea4b84e69788d"
+   ]
+  },
+  {
+   "date": "1993-06-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:266622:por",
+     "title": "Lei n.º 19/93",
+     "published": "1993-06-25",
+     "dre_path": "/dr/detalhe/lei/19-1993-266622"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 6"
+   ],
+   "fragments": [
+    "2e2be93a6ebd902f"
+   ]
+  }
+ ],
+ "fragments": {
+  "baaea4b84e69788d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Dezembro\n\nSuspensão de vigência do artigo 2.º da [Lei n.º 26/84](https://diariodarepublica.pt/dr/detalhe/lei/26-1984-381746), de 31 de Julho (regime de remuneração do Presidente da República) e das alíneas b) e c) do n.º 4 do artigo 13.º do [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro (regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato dos três ramos das forças armadas).\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 167.º, alínea l), e 169.º, n.º 3, da Constituição, o seguinte:\n\nArtigo 1.º - 1 - É suspensa, a partir de 1 de Janeiro de 1991, e até que a Assembleia da República aprove os princípios de actualização das remunerações dos titulares dos cargos públicos, a vigência do disposto no artigo 2.º da [Lei n.º 26/84](https://diariodarepublica.pt/dr/detalhe/lei/26-1984-381746), de 31 de Julho, para efeitos de aplicação do regime transitório previsto nas alíneas b) e c) do n.º 1 do artigo 31.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, aplicando-se, enquanto vigorar a suspensão, unicamente o regime previsto no artigo 4.º deste diploma.\n\n2 - A suspensão prevista no número anterior é apenas aplicável à parcela das remunerações e pensões fixadas pela [Lei n.º 2/90](https://diariodarepublica.pt/dr/detalhe/lei/2-1990-333792), de 20 de Janeiro, que exceda o montante correspondente à remuneração base do cargo de Primeiro-Ministro.\n\nArt. 2.º É suspensa, nos termos previstos no artigo anterior, a aplicação dos índices fixados nas alíneas b) e c) do n.º 4 do artigo 13.º do [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro, aplicando-se, enquanto vigorar a suspensão, unicamente o regime previsto no n.º 3 do artigo 3.º do mesmo decreto-lei, conjugado com o n.º 4 do artigo 4.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.\n\nAprovada em 25 de Outubro de 1990.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 26 de Dezembro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 26 de Dezembro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "2e2be93a6ebd902f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1993-06-25",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/lei/19-1993-266622), publicado em 1993-06-25."
+   ],
+   "markdown": "de 26 de Dezembro\n\nSuspensão de vigência do artigo 2.º da [Lei n.º 26/84](https://diariodarepublica.pt/dr/detalhe/lei/26-1984-381746), de 31 de Julho (regime de remuneração do Presidente da República) e das alíneas b) e c) do n.º 4 do artigo 13.º do [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro (regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato dos três ramos das forças armadas).\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 167.º, alínea l), e 169.º, n.º 3, da Constituição, o seguinte:\n\nArtigo 1.º - 1 - É suspensa, a partir de 1 de Janeiro de 1991, e até que a Assembleia da República aprove os princípios de actualização das remunerações dos titulares dos cargos públicos, a vigência do disposto no artigo 2.º da [Lei n.º 26/84](https://diariodarepublica.pt/dr/detalhe/lei/26-1984-381746), de 31 de Julho, para efeitos de aplicação do regime transitório previsto nas alíneas b) e c) do n.º 1 do artigo 31.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, aplicando-se, enquanto vigorar a suspensão, unicamente o regime previsto no artigo 4.º deste diploma.\n\n2 - A suspensão prevista no número anterior é apenas aplicável à parcela das remunerações e pensões fixadas pela [Lei n.º 2/90](https://diariodarepublica.pt/dr/detalhe/lei/2-1990-333792), de 20 de Janeiro, que exceda o montante correspondente à remuneração base do cargo de Primeiro-Ministro.\n\n3 - À remuneração ou pensão que resulta da aplicação do número anterior é acrescentado o montante necessário para que se verifique uma diferenciação de 3% em relação à categoria que detenha o índice imediatamente inferior, de acordo com os mapas mandados anexar pela [Lei n.º 2/90](https://diariodarepublica.pt/dr/detalhe/lei/2-1990-333792), de 20 de Janeiro, à [Lei n.º 21/85](https://diariodarepublica.pt/dr/detalhe/lei/21-1985-393601), de 30 de Julho, e à [Lei n.º 47/86](https://diariodarepublica.pt/dr/detalhe/lei/47-1986-222422), de 15 de Outubro.\n\n> Aditado pelo/a [Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/lei/19-1993-266622), publicado em 1993-06-25.\n\nArt. 2.º É suspensa, nos termos previstos no artigo anterior, a aplicação dos índices fixados nas alíneas b) e c) do n.º 4 do artigo 13.º do [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro, aplicando-se, enquanto vigorar a suspensão, unicamente o regime previsto no n.º 3 do artigo 3.º do mesmo decreto-lei, conjugado com o n.º 4 do artigo 4.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.\n\nAprovada em 25 de Outubro de 1990.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 26 de Dezembro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 26 de Dezembro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

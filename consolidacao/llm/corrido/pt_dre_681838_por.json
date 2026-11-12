@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:681838:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 12,
+      "texto": "2.º Cooperativas de inquilinato cooperador, em que a cooperativa detém a propriedade dos fogos e cede aos sócios, mediante um contrato de arrendamento, nos termos gerais, o respectivo fogo, desde que os estatutos estabeleçam que as rendas serão fixadas pelo Fundo de Fomento da Habitação e que os excedentes líquidos serão investidos na aquisição de novos fogos;\n\n3.º Cooperativas de proprietários, desde que os estatutos proíbam a cedência do fogo a terceiros durante o período de amortização e a regulamentem findo este, designadamente quanto ao preço e publicidade do acto;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 15,
+      "texto": "7.º Promotores que construam casas cujos fogos fiquem sujeitos a fixação ou contrôle dos valores das rendas ou dos preços de venda.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Decreto-Lei n.º 794/76, artigo 60.º, n.os 1, 4, 5 e 6: regras de aplicação e interpretação do artigo 4.º (moradias, preferência dos expropriados) e de delegação da competência do artigo 15.º, sem nova redação para o texto do original; não se aplicam ao texto.",
+  "instrucoes": [
+    "Alterador 1, art. 60.º, n.º 2: os n.os 2.º e 3.º do artigo 4.º invertem posições — unidades 11-12 substituídas (3.º passa a 2.º e 2.º passa a 3.º).",
+    "Alterador 1, art. 60.º, n.º 3: aditado ao artigo 4.º um n.º 7.º — inserido depois da unidade 15.",
+    "Alterador 1, art. 60.º, n.os 1, 4, 5 e 6: não textuais (nao_aplicavel).",
+    "Alterador 1, arts. 19.º e 59.º: só remetem para o original, não o alteram — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-09-28'
+version_history:
+  file: portaria-757-a-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-09-28'
+    amending: pt:dre:214711:por
+    amending_title: Portaria n.º 498/96
+    changes:
+    - Revoga Artigo 14.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:38:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 498/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-757-a-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -331,9 +346,9 @@ d) As leituras, no início e no fim de cada período de emissão, dos valores da
 
 ###### Artigo 14.º — Ligação entre o estúdio e o emissor
 
-1 - A ligação entre o local de origem de um programa de radiodifusão e o estúdio ou entre o estúdio e o emissor deverá ser assegurada pelos meios normais de telecomunicações de uso público.
+(Revogado.)
 
-2 - Em caso de comprovada impossibilidade, a ligação referida no número anterior poderá ser autorizada por via rádio, em faixa de frequência a indicar, caso a caso, pela entidade que superintende nas radiocomunicações.
+> Revogado pelo/a [Portaria n.º 498/96](https://diariodarepublica.pt/dr/detalhe/portaria/498-1996-214711), publicado em 1996-09-23.
 
 ###### Artigo 15.º — Ensaios periódicos
 

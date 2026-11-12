@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:689023:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "O alterador 1 (DL 98/99) não altera o texto: sujeita a área do PP2 a medidas preventivas e suspende temporariamente o PP2 (artigo 4.º), alteração que não é textual e cujo fim depende de facto futuro; o alterador 3 (DL 24/2000) só altera o artigo 3.º do próprio DL 98/99 (outro diploma); os alteradores 2 (Portaria 1130-B/99) e 4 (Aviso 14147/2020) não trazem texto dirigido ao original.",
+  "instrucoes": [
+    "Alterador 1 (DL 98/99): medidas preventivas e suspensão temporária do PP2 na área da planta anexa; não é alteração textual, nada aplicado.",
+    "Alterador 2 (Portaria 1130-B/99): sem artigos que mencionem o original; nada aplicado.",
+    "Alterador 3 (DL 24/2000): altera a alínea b) do artigo 3.º do DL 98/99, outro diploma; ignorado.",
+    "Alterador 4 (Aviso 14147/2020): sem artigos que mencionem o original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

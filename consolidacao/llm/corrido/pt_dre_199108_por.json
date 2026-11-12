@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:199108:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 12,
+      "alterador": 2,
+      "texto": "a) 75% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 5% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 15% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 5% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º"
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 3 (Portaria n.º 555/2008, renovação da zona de caça com nova área de 10 732 ha e nova planta) e 4 (Portaria n.º 1408/2008, exclusão de prédios, área de 10 731 ha, planta anexa) não dão nova redação a nenhum ponto do original: são atos de renovação e exclusão de terrenos, alterações não textuais.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 3.º (percentagens 60/20/15/5); aplicada mas depois substituída pela do alterador 2 (o corpo do 3.º, unidade 8, fica igual)",
+    "Alterador 2: nova redação do n.º 3.º (percentagens 75/5/15/5); substituídas as alíneas a) a d), unidades 9-12",
+    "Alterador 3: renovação por seis anos e área de 10 732 ha; sem redação nova para o original, não aplicado",
+    "Alterador 4: exclusão de terrenos (área 10 731 ha); sem redação nova para o original, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

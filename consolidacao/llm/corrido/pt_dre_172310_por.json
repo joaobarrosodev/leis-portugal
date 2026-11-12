@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:172310:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Abaças, município de Vila Real, com uma área de 1519,70 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A anexação de prédios em Poiares (alterador 2, área total 1542 ha) e a extinção da zona de caça por caducidade com criação de nova zona (alterador 3) não são alterações textuais nem revogação expressa da portaria; as plantas só existem em imagem.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1426/2002): nova redacção do n.º 2.º (1519,70 ha) — unidade 7 substituída, mantendo a numeração 2.º; planta nova só em imagem.",
+    "Alterador 2 (Portaria 932/2004): anexação de prédios (22 ha, total 1542 ha) com planta — não textual, não aplicada.",
+    "Alterador 3 (Portaria 769/2008): extingue a zona de caça (proc. 3085) e cria outra (proc. 4955) — não altera nem revoga expressamente o texto; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

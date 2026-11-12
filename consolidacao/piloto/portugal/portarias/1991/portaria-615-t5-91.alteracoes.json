@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Fica sujeito ao regime cinegético especial o prédio rústico denominado «Herdade da Fonte Coberta», sito na freguesia de Nossa Senhora de Machede, concelho de Évora, com uma área de 1339,5120 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.",
+    "depois": "1.º Ficam sujeitas ao regime cinegético especial as propriedades constantes da planta anexa, denominadas «Herdade da Fonte Coberta» e «Herdade de Vale Melhorado de Baixo» e outras, sitas na freguesia de Nossa Senhora de Machede, concelho de Évora, com uma área de 1339,5120 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:205874:por",
+    "alterador": "pt:dre:316887:por"
+  }
+]

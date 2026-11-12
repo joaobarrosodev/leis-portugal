@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-06-16'
+version_history:
+  file: portaria-198-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-04-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-06-16'
+    amending: pt:dre:303617:por
+    amending_title: Portaria n.º 362/94
+    changes:
+    - Altera Artigo unidades 7-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/198/1994/04/06/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:21:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 362/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-198-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,9 +171,11 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 1.º Pelo presente é declarada extinta a concessão do regime cinegético especial atribuída pela [Portaria n.º 667-U1/93](https://diariodarepublica.pt/dr/detalhe/portaria/667-u1-1993-402495), de 14 de Julho, a Guedes e Irmãos -Gestão de Caça e Pesca, Lda.
 
-2.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdades das Gregas, Caliços, Vale Bom, Vale Médio, Courela do Murtório dos Pinheiros e Courela do Murtório das Figueiras», sitos na freguesia do Torrão, município de Alcácer do Sal, com uma área de 595,6458 ha, conforme planta anexa ao presente diploma e que dele faz parte integrante.
+2.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Vale Sobrigo», «Herdade das Gregas», «Caliços», «Vale Bom», «Vale Médio», «Courela do Murtório dos Pinheiros» e «Courela do Murtório das Figueiras», sitos na freguesia de Torrão, município de Alcácer do Sal, com uma área de 683,7708 ha, conforme planta anexa ao presente diploma e que dele faz parte integrante.
 
-3.º Pelo presente diploma é concessionada, até 31 de Maio de 2000, à Companhia Agrícola das Cortes e Valbom - COLBOM, S. A., com o número de pessoa colectiva 500067645 e sede na Rua dos Sapateiros, 128, 4.º, Lisboa, a zona de caça turística de Valbom (processo n.º 438 do Instituto Florestal).
+3.º Pelo presente diploma é concessionada até 31 de Maio de 2000, à Companhia Agrícola das Cortes e Valbom - COLBOM, S. A., com o número de pessoa colectiva 500067635 e sede na Rua de D. João V, 21, rés-do-chão, Lisboa, a zona de caça turística de Vale Bom (processo n.º 438 do Instituto Florestal).
+
+> Alterado pelo/a [Portaria n.º 362/94](https://diariodarepublica.pt/dr/detalhe/portaria/362-1994-303617), publicado em 1994-06-11.
 
 4.º A Companhia Agrícola das Cortes e Valbom - COLBOM, S. A., como entidade gestora da zona de caça turística concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

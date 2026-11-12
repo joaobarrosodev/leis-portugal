@@ -1,0 +1,49 @@
+{
+  "id": "pt:dre:570368:por",
+  "substituicoes": [
+    {
+      "de": 47,
+      "ate": 48,
+      "alterador": 1,
+      "texto": "Condições especiais de aplicação:\n\nEstas tarifas são aplicáveis durante todo o ano, mas só poderão ser aceites para reserva firme:\n\na) Da Madeira para o continente:\n\nNos dois últimos voos operados em cada dia;\n\nb) Do continente para a Madeira:\n\nNos dois primeiros voos operados em cada dia;\n\nc) Entre os Açores e o continente:\n\nAté à capacidade máxima de cinquenta e nove lugares em cada voo;\n\nNo caso de, no momento da partida, se verificar capacidade disponível, poderão ser aceites passageiros para além deste limite de capacidade."
+    },
+    {
+      "de": 61,
+      "ate": 62,
+      "alterador": 1,
+      "texto": "Cancelamento:\n\nEm caso de cancelamento durante os três dias que antecedem o início da viagem ou no próprio dia da viagem, será aplicada uma taxa fixa de 500$00. Esta taxa não será cobrada no caso de o passageiro utilizar uma tarifa de nível superior."
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 44,
+      "alterador": 1,
+      "texto": "Do Porto Santo para o Funchal, em serviços da TAP."
+    },
+    {
+      "depois_de": 64,
+      "alterador": 1,
+      "texto": "No caso das viagens entre o Porto Santo e a Madeira são elegíveis apenas os cidadãos de nacionalidade portuguesa residentes no Porto Santo.\n\nOs cidadãos de nacionalidade portuguesa residentes na Madeira ou nos Açores com idade não superior a 26 anos são elegíveis para as tarifas de residentes-estudantes."
+    },
+    {
+      "depois_de": 66,
+      "alterador": 1,
+      "texto": "No caso de residentes-estudantes, devem, ainda, apresentar certificado comprovativo emitido pelo respectivo estabelecimento de ensino."
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: as alterações às tarifas do n.º 1.º só vêm em imagem no documento original. Alterador 2, n.º 10.º: revogação parcial \"na parte respeitante à Região Autónoma dos Açores\", que não identifica unidades concretas do texto e não se pode aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alterações à tabela de tarifas do n.º 1.º só em imagem -> nao_aplicavel.",
+    "Alterador 1, 2.º, Área de aplicação: acrescenta 'Do Porto Santo para o Funchal...' -> inserção após unidade 44.",
+    "Alterador 1, 2.º: 'Condições especiais de aplicação' substitui 'Período de aplicação' -> substituídas unidades 47-48.",
+    "Alterador 1, 2.º: 'Cancelamento' substitui 'Cancelamento, reserva, pagamento e emissão do bilhete' -> substituídas unidades 61-62.",
+    "Alterador 1, 2.º, Elegibilidade: acrescenta dois parágrafos -> inserção após unidade 64.",
+    "Alterador 1, 2.º, Documentação: acrescenta parágrafo sobre residentes-estudantes -> inserção após unidade 66.",
+    "Alterador 2, 10.º: revoga a Portaria 2/81 na parte respeitante aos Açores -> revogação parcial sem alvo textual definido, nao_aplicavel; o resto da Portaria 954/82 é regime próprio, não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 61-62: parágrafo que não está no alterador nem no original: Cancelamento:"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:1053611:por",
+  "artigos": [
+    {
+      "chave": "75.º",
+      "epigrafe": "Administrador",
+      "texto": "1 - O Administrador dos SAS é livremente escolhido pelo Presidente do IPV, de entre pessoas com saber e experiência na área da gestão.\n\n2 - O cargo de Administrador dos SAS é equiparado a diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - A duração do exercício de funções como dirigente deste serviço não pode exceder dez anos.",
+      "alterador": 1
+    },
+    {
+      "chave": "79.º",
+      "epigrafe": "Nomeação e duração do exercício de funções",
+      "texto": "1 - O IPV tem um administrador, escolhido entre pessoas com saber e experiência na área da gestão, com competência para a gestão corrente do Instituto e a coordenação dos seus serviços, sob direcção do Presidente.\n\n2 - O Administrador é livremente nomeado e exonerado pelo Presidente.\n\n3 - O cargo de Administrador do IPV é equiparado a subdiretor-geral, cargo de direção superior de 2.º grau.\n\n4 - A duração do exercício de funções como Administrador não pode exceder dez anos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1 da deliberação: nova redação do artigo 75.º (n.º 2 substituído; n.os 1 e 3 mantidos) - aplicado.",
+    "Alterador 1, n.º 1 da deliberação: nova redação do artigo 79.º (novo n.º 3; antigo n.º 3 passa a n.º 4; n.os 1 e 2 mantidos) - aplicado.",
+    "Alterador 1, n.º 2 da deliberação: salvaguarda de nomeações já efetuadas - norma avulsa, não altera o texto dos Estatutos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

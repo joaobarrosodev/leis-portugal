@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:199978:por",
+  "substituicoes": [
+    {
+      "de": 40,
+      "ate": 41,
+      "alterador": 1,
+      "texto": "Artigo 9.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá dois vogais, com as categorias de assistente ou graduado.\n\n2. Os membros do júri deverão, de preferência pertencer ao ramo clínico ou especialidade a que respeitam as provas. O presidente pertencerá ao quadro do estabelecimento ou serviço interessado. Os vogais devem ser escolhidos nos quadros de outros hospitais centrais, sempre que possível."
+    },
+    {
+      "de": 122,
+      "ate": 123,
+      "alterador": 1,
+      "texto": "Art. 23.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá quatro ou dois vogais, conforme se trate de concurso para medicina interna e cirurgia geral ou para outras especialidades, que serão médicos dos quadros hospitalares com categoria não inferior a assistente de hospital central.\n\n2. Todos os membros dos júris deverão pertencer, sempre que possível, ao ramo clínico ou especialidade a que respeitam as provas. O presidente e um dos vogais pertencerão ao quadro do hospital interessado. Os restantes vogais devem ser, de preferência, escolhidos nos quadros de outros hospitais centrais."
+    },
+    {
+      "de": 220,
+      "ate": 220,
+      "alterador": 1,
+      "texto": "Art. 35.º - 1. O júri será constituído por um presidente e quatro vogais, todos com categoria de director de serviço de hospital central."
+    },
+    {
+      "de": 222,
+      "ate": 222,
+      "alterador": 1,
+      "texto": "3. Dos quatro vogais, dois pertencerão a hospitais diversos daquele em que se realiza o concurso."
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação dos n.os 1 e 2 do artigo 9.º: unidades 40-41 substituídas",
+    "Nova redação dos n.os 1 e 2 do artigo 23.º: unidades 122-123 substituídas",
+    "Nova redação dos n.os 1 e 3 do artigo 35.º: unidades 220 e 222 substituídas (n.º 2, unidade 221, mantém-se)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:224405:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As três portarias (892/2004, 906/2005 e 907/2005) revogam a Portaria n.º 324/95 só 'nas partes que àqueles cursos respeitam' (Técnico de Gestão Agrícola; Técnico de Gestão do Ambiente; Técnico Agro-Florestal e Técnico Florestal), sem identificar unidades; é uma revogação material por matéria, que abrange também os mapas anexos em imagem e mantém os planos em vigor para alunos já inscritos, pelo que não se marca nenhuma unidade com segurança.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 892/2004), n.os 6.º e 7.º: extingue o curso de técnico de gestão agrícola e revoga parcialmente a Portaria 324/95 na parte que lhe respeita; sem unidade identificada, não aplicado (nao_aplicavel).",
+    "Alterador 2 (Portaria 906/2005), n.os 6.º, 7.º e 9.º: extingue o curso de Técnico de Gestão do Ambiente e revoga parcialmente a Portaria 324/95 na parte respetiva; não aplicado (nao_aplicavel).",
+    "Alterador 3 (Portaria 907/2005), n.os 6.º, 7.º e 9.º: extingue os cursos de Técnico Agro-Florestal e Técnico Florestal e revoga parcialmente a Portaria 324/95 na parte respetiva; não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

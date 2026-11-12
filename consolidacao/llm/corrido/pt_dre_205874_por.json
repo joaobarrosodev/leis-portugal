@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:205874:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "alterador": 1,
+      "texto": "1.º Ficam sujeitas ao regime cinegético especial as propriedades constantes da planta anexa, denominadas «Herdade da Fonte Coberta» e «Herdade de Vale Melhorado de Baixo» e outras, sitas na freguesia de Nossa Senhora de Machede, concelho de Évora, com uma área de 1339,5120 ha."
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2 a 5 (Portarias n.os 705/97, 1201/97, 99/2004 e 1037-L/2004: suspensão da exploração, renovações da concessão e transmissão para novo concessionário) não dão nova redação a nenhum ponto do original; são alterações não textuais.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º; unidade 6 substituída, mantendo a numeração 1.º",
+    "Alterador 2: suspensão da exploração por 180 dias; não textual, não aplicado",
+    "Alterador 3: renovação por seis anos e revogação da Portaria 705/97; não textual, não aplicado",
+    "Alterador 4: renovação por 12 anos com área de 1340 ha; não textual, não aplicado",
+    "Alterador 5: transmissão da concessão; não textual, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

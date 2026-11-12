@@ -1,0 +1,219 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:639336:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-09-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3820ec1440eb6006",
+    "b2d04e9306cc2072",
+    "29956d2bbc6c3d4a",
+    "1e8b65df7d049b8c",
+    "4921c5c5cb8bcad8",
+    "b43e33aea4fbb3c1",
+    "dc2e580651b6aa15",
+    "8886cfa9bc75169b",
+    "30f10b2101a93226",
+    "2e5518b90c0c5428",
+    "f780aee5f6be1280",
+    "9583a2e655c84cd7",
+    "cf131adb1d7941a8",
+    "f927f74f32e4355e",
+    "f9f3401fe53ffbc7"
+   ]
+  },
+  {
+   "date": "1993-10-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:408774:por",
+     "title": "Decreto-Lei n.º 292/92",
+     "published": "1992-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/292-1992-408774"
+    },
+    {
+     "id": "pt:dre:645877:por",
+     "title": "Decreto-Lei n.º 337/93",
+     "published": "1993-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/337-1993-645877"
+    },
+    {
+     "id": "pt:dre:645877:por",
+     "title": "Decreto-Lei n.º 337/93",
+     "published": "1993-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/337-1993-645877"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "3820ec1440eb6006",
+    "b2d04e9306cc2072",
+    "29956d2bbc6c3d4a",
+    "c7e4f9333aa103a0",
+    "4921c5c5cb8bcad8",
+    "b43e33aea4fbb3c1",
+    "dc2e580651b6aa15",
+    "8886cfa9bc75169b",
+    "30f10b2101a93226",
+    "2e5518b90c0c5428",
+    "f780aee5f6be1280",
+    "2dbd9af418ff3c7a",
+    "cf131adb1d7941a8",
+    "f927f74f32e4355e",
+    "f9f3401fe53ffbc7"
+   ]
+  }
+ ],
+ "fragments": {
+  "3820ec1440eb6006": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Setembro\n\nO Teatro Nacional de S. Carlos afirmou-se, ao longo dos seus quase 200 anos de vida, como uma instituição ímpar no panorama lírico nacional e uma das mais prestigiadas salas de ópera da Europa.\n\nDurante os últimos anos, porém, tem vindo a assistir-se a uma progressiva degradação do número e qualidade das produções, traduzida no decréscimo da afluência de público e na acumulação de prejuízos. Em consequência, a empresa que gere o Teatro Nacional de S. Carlos tem sobrevivido na total dependência do apoio financeiro do Estado, através de subsídios e dotações de capital, apoio esse que totaliza, a preços de 1991, cerca de 12 milhões de contos.\n\nA responsabilidade por esta situação é imputável, em grande parte, a natureza jurídica de empresa pública que este Teatro assumiu em 1980, na medida em que os critérios de gestão que tal estrutura tendencialmente propicia não se revelam adequados a uma actividade em que é delicada a ponderação entre os critérios económico-financeiros e os objectivos de promoção e difusão cultural.\n\nA prossecução conjugada de tais objectivos passa, pois, pela criação de uma entidade dotada de adequada natureza jurídica que, privilegiando a criação de uma cultura lírica, a formação e defesa de intérpretes nacionais e a captação de novos públicos, disponha de mecanismos flexíveis de gestão que permitam a optimização de meios humanos e materiais e a obtenção de níveis aceitáveis de rentabilidade.\n\nA extinção da actual empresa pública, a que agora se procede, surge como iniciativa preliminar e necessária à criação de uma nova entidade para a gestão do Teatro Nacional de S. Carlos, a qual condiciona, aliás, todo o regime estabelecido para a liquidação.\n\nSimultaneamente, devolve-se à Companhia Nacional de Bailado a autonomia que havia perdido em 1985, aquando da sua integração, por via legislativa, no Teatro Nacional de S. Carlos, E. P. Pretende-se, deste modo, devolver o Teatro à sua pureza de instituição lírica e libertar a Companhia das peias a que um espaço físico inapropriado e uma programação secundarizada pela vertente operária do Teatro a haviam sujeito.\n\nForam ouvidas as entidades representativas dos trabalhadores da empresa.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "b2d04e9306cc2072": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É extinta a empresa pública que gere o Teatro Nacional de S. Carlos, adiante designado por TNSC, criada pelo [Decreto-Lei n.º 259/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1980-470194), de 5 de Agosto.\n\n2 - A empresa pública que gere o TNSC mantém a sua personalidade, para efeitos de liquidação, até à aprovação final das contas apresentadas pelo administrador liquidatário."
+  },
+  "29956d2bbc6c3d4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Efeitos\n\nA extinção da empresa pública que gere o TNSC produz os seguintes efeitos:\n\na) Dissolução imediata dos órgãos sociais;\n\nb) Vencimento imediato de todas as dívidas;\n\nc) Cessação dos vínculos laborais;\n\nd) Incapacidade de contracção de novos encargos, exceptuados os necessários às operações de liquidação;\n\ne) Autonomização da Companhia Nacional de Bailado."
+  },
+  "1e8b65df7d049b8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Administrador liquidatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Administrador liquidatário\n\n1 - É nomeado administrador liquidatário o licenciado Manuel Joaquim Barata Frexes, o qual é, para o efeito, requisitado aos Telefones de Lisboa e Porto (TLP), S. A.\n\n2 - O administrador liquidatário tem direito à remuneração de presidente do conselho de administração de empresa pública do grupo C, nível 3.\n\n3 - O administrador liquidatário exerce as suas funções no edifício do Teatro Nacional de S. Carlos, ficando afectos à sua actividade os meios humanos e materiais da empresa em liquidação."
+  },
+  "4921c5c5cb8bcad8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competências do administrador liquidatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências do administrador liquidatário\n\nCompete ao administrador liquidatário, dentro dos limites legalmente fixados e atentas as orientações emitidas pela tutela, praticar todos os actos necessários à liquidação da empresa pública que gere o TNSC, designadamente:\n\na) Assegurar a administração corrente do património, podendo autorizar a prestação de serviços que rentabilizem os meios humanos e materiais existentes;\n\nb) Representar a empresa pública que gere o TNSC em juízo ou fora dele, podendo constituir mandatários e confessar, desistir ou transigir em processo judicial;\n\nc) Promover a publicação, em pelo menos dois dos jornais mais lidos de Lisboa, do anúncio de liquidação da empresa pública que gere o TNSC;\n\nd) Notificar os credores conhecidos, por carta registada com aviso de recepção, da liquidação da empresa pública que gere o TNSC;\n\ne) Proceder, em conformidade com a lei, à graduação dos créditos verificados ou reconhecidos e elaborar o mapa dos créditos reclamados;\n\nf) Elaborar o inventário de todos os bens da empresa pública que gere o TNSC e submetê-lo à apreciação do membro do Governo responsável pela área da cultura e do Ministro das Finanças;\n\ng) Liquidar o activo patrimonial da empresa;\n\nh) Submeter à aprovação da tutela o relatório e contas do exercício de 1992, na parte referente ao 1.º semestre;\n\ni) Pagar aos credores, em conformidade com a graduação estabelecida."
+  },
+  "b43e33aea4fbb3c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Reclamação de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reclamação de créditos\n\nO prazo para a reclamação de créditos é de 60 dias contado a partir da data do aviso de recepção da notificação a que se refere a alínea d) do artigo anterior ou da publicação dos anúncios previstos na alínea c) do mesmo artigo."
+  },
+  "dc2e580651b6aa15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Funcionários e trabalhadores da empresa pública que gere o TNSC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funcionários e trabalhadores da empresa pública que gere o TNSC\n\nOs funcionários a que se refere o n.º 2 do artigo 3.º do [Decreto-Lei n.º 259/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1980-470194), de 5 de Agosto, ingressam no quadro de efectivos interdepartamentais, a partir de 1 de Setembro de 1992, para efeitos do disposto no [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro."
+  },
+  "8886cfa9bc75169b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Transferências para a Caixa Geral de Aposentações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transferências para a Caixa Geral de Aposentações\n\nA Caixa Geral de Aposentações assume a responsabilidade com os encargos relativos à aposentação do pessoal da empresa pública que gere o TNSC subscritor daquela instituição.\n\n2 - O administrador liquidatário transferirá para a Caixa Geral de Aposentações o montante global das quotas arrecadadas após a entrada em vigor do [Decreto-Lei n.º 259/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1980-470194), de 5 de Agosto, capitalizadas à taxa de desconto do Banco de Portugal.\n\n3 - A Caixa Geral de Aposentações será ainda indemnizada de uma quantia igual à resultante da aplicação do número anterior, a título de contribuição da empresa pública que gere o TNSC para o financiamento das pensões do pessoal aposentado e a aposentar."
+  },
+  "30f10b2101a93226": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Liquidação do passivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Liquidação do passivo\n\n1 - Apurado o montante total dos créditos, incluindo as indemnizações a pagar aos trabalhadores, o administrador liquidatário elaborará o mapa final do passivo, que submeterá à apreciação do membro do Governo responsável pela área da cultura e do Ministro das Finanças.\n\n2 - O Estado reserva para si a titularidade de todos os direitos da empresa pública que gere o TNSC, além dos já previstos nos artigos 29.º e 30.º do respectivo Estatuto, nos termos do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.\n\n3 - Aprovado o mapa final do passivo, o administrador liquidatário procederá ao pagamento dos credores, segundo a graduação estabelecida."
+  },
+  "2e5518b90c0c5428": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Apresentação e aprovação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação e aprovação de contas\n\n1 - O administrador liquidatário apresentará contas ao membro do Governo responsável pela área da cultura e ao Ministro das Finanças, sempre que estes o solicitem.\n\n2 - A conta final da liquidação será submetida, até ao termo do prazo fixado no artigo 10.º, à aprovação do membro do Governo responsável pela área da cultura e do Ministro das Finanças, devendo ser apresentada em forma de conta corrente e acompanhada de todos os elementos comprovativos."
+  },
+  "f780aee5f6be1280": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Prazo de liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prazo de liquidação\n\n1 - O prazo para a liquidação da empresa pública que gere o TNSC termina em 31 de Dezembro de 1992.\n\n2 - Por despacho conjunto do membro do Governo responsável pela área da cultura e do Ministro das Finanças, o prazo referido no número anterior poderá ser prorrogado até 31 de Maio de 1993, mediante solicitação devidamente fundamentada do administrador liquidatário."
+  },
+  "9583a2e655c84cd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Companhia Nacional de Bailado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Companhia Nacional de Bailado\n\nA Companhia Nacional de Bailado, adiante designada por CNB, integrada na empresa pública que gere o TNSC por força do [Decreto-Lei n.º 271/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1985-183445), de 16 de Julho, reassume plena personalidade jurídica e autonomia.\n\n2 - É repristinado o [Decreto-Lei n.º 460/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1982-380149), de 26 de Novembro, para vigorar com as devidas adaptações, nomeadamente:\n\na) A presidência da comissão instaladora compete ao director-geral dos Espectáculos e das Artes;\n\nb) Não há lugar à constituição do conselho consultivo;\n\nc) Os trabalhadores da CNB mantêm o estatuto laboral que detém na empresa pública que gere o TNSC;\n\nd) A CNB fica sujeita ao regime de instalação durante o período de um ano a contar da entrada em vigor do presente diploma.\n\n3 - Os encargos com o financiamento da CNB no ano de 1992 são satisfeitos, além das receitas próprias, pelas respectivas verbas de pessoal inscritas no orçamento da empresa pública que gere o TNSC, a transferir, e por verbas do Fundo de Fomento Cultural.\n\n4 - A CNB sucede na titularidade dos direitos transferidos para a empresa pública que gere o TNSC por força do disposto no artigo 10.º do [Decreto-Lei n.º 271/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1985-183445), de 16 de Julho, bem como na daqueles posteriormente adquiridos pela referida empresa pública em função da actividade da CNB.\n\n5 - Para efeitos do disposto no número anterior, o administrador liquidatário identificará devidamente no inventário a que se refere a alínea f) do artigo 4.º os direitos a transferir para a CNB."
+  },
+  "cf131adb1d7941a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Cessão da posição contratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cessão da posição contratual\n\n1 - O Estado, através da Direcção-Geral dos Edifícios e Monumentos Nacionais, sucede, na data da entrada em vigor do presente diploma, à empresa pública que gere o TNSC, como parte nos contratos por esta celebrados e referentes às obras a efectuar no edifício do Teatro, durante os meses de Julho de 1992 a Janeiro de 1993.\n\n2 - O disposto no número anterior constitui título suficiente para todos os efeitos legais."
+  },
+  "f927f74f32e4355e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nSão revogados os Decretos-Leis n.os [259/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1980-470194), de 5 de Agosto, [123/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1981-573731), de 25 de Maio, [179/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1985-151550), de 23 de Maio, e [271/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1985-183445), de 16 de Julho."
+  },
+  "f9f3401fe53ffbc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 4 de Junho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 29 de Agosto de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Setembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "c7e4f9333aa103a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Administrador liquidatário",
+   "in_force_from": "1993-10-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 292/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1992-408774), publicado em 1992-12-30."
+   ],
+   "markdown": "###### Artigo 3.º — Administrador liquidatário\n\n1 - É nomeada administradora liquidatária a licenciada Rita Lima Luzes, a qual é, para o efeito, requisitada ao Instituto Português do Património Arquitectónico e Arqueológico.\n\n2 - O administrador liquidatário tem direito à remuneração de presidente do conselho de administração de empresa pública do grupo C, nível 3.\n\n3 - O administrador liquidatário exerce as suas funções no edifício do Teatro Nacional de S. Carlos, ficando afectos à sua actividade os meios humanos e materiais da empresa em liquidação.\n\n> Alterado pelo/a [Decreto-Lei n.º 292/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1992-408774), publicado em 1992-12-30."
+  },
+  "2dbd9af418ff3c7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Companhia Nacional de Bailado",
+   "in_force_from": "1993-10-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 337/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1993-645877), publicado em 1993-09-30."
+   ],
+   "markdown": "###### Artigo 11.º — Companhia Nacional de Bailado\n\nA Companhia Nacional de Bailado, adiante designada por CNB, integrada na empresa pública que gere o TNSC por força do [Decreto-Lei n.º 271/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1985-183445), de 16 de Julho, reassume plena personalidade jurídica e autonomia.\n\n2 - É repristinado o [Decreto-Lei n.º 460/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1982-380149), de 26 de Novembro, para vigorar com as devidas adaptações, nomeadamente:\n\na) A presidência da comissão instaladora compete ao director-geral dos Espectáculos e das Artes;\n\nb) Não há lugar à constituição do conselho consultivo;\n\nc) Os trabalhadores da CNB mantêm o estatuto laboral que detém na empresa pública que gere o TNSC;\n\nd) A CNB fica sujeita ao regime de instalação até 31 de Dezembro de 1993.\n\n3 - Os encargos com o financiamento da CNB no ano de 1992 são satisfeitos, além das receitas próprias, pelas respectivas verbas de pessoal inscritas no orçamento da empresa pública que gere o TNSC, a transferir, e por verbas do Fundo de Fomento Cultural.\n\n4 - A CNB sucede na titularidade dos direitos transferidos para a empresa pública que gere o TNSC por força do disposto no artigo 10.º do [Decreto-Lei n.º 271/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1985-183445), de 16 de Julho, bem como na daqueles posteriormente adquiridos pela referida empresa pública em função da actividade da CNB.\n\n5 - Para efeitos do disposto no número anterior, o administrador liquidatário identificará devidamente no inventário a que se refere a alínea f) do artigo 4.º os direitos a transferir para a CNB.\n\n> Alterado pelo/a [Decreto-Lei n.º 337/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1993-645877), publicado em 1993-09-30."
+  }
+ }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3) Pessoal assalariado - um consultor especial, um encarregado dos serviços de imprensa, quatro funcionários em serviço privativo de qualquer categoria, entre terceiro-oficial, escriturário ou dactilógrafo, e um contínuo.",
+    "depois": "3) Pessoal assalariado. - Um consultor especial, dois funcionários do quadro administrativo da Secretaria de Estado, em serviço privativo, de qualquer categoria entre segundo-oficial, terceiro-oficial e escriturário-dactilógrafo de 1.ª ou de 2.ª classe, dois dactilógrafos, um telefonista, um motorista, um porteiro, um contínuo e um servente.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:276055:por",
+    "alterador": "pt:dre:412203:por"
+  }
+]

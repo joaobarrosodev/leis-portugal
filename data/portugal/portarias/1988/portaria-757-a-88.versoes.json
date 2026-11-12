@@ -1,0 +1,296 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:199431:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1988-11-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "755c05aa5971b5b6",
+    "ed303b645188efe2",
+    "ae120dc976649cc5",
+    "bf66271d5b015862",
+    "6e92b59a0337c163",
+    "dac89cebeb7fd5ed",
+    "7b63f783d0995ed2",
+    "dccc1c96a260b04f",
+    "e9e86b35de6a23be",
+    "2ad5be13c9c76d51",
+    "1d22974c48297096",
+    "f4fcd3ecf60c1be2",
+    "2c71b85736b58700",
+    "a78a3ddcef908ff7",
+    "4f355590891c0aeb",
+    "ff0e4d41e5e2ec7c",
+    "d81f4c2887c103ec",
+    "cbea46623e592aba",
+    "e866532b28b16f8d",
+    "36e3bdeaf99ea432",
+    "16f3db8260b93ca5",
+    "54a6f75898aa4a73",
+    "f388bfe437b378f3",
+    "ff26bc8eed2f71cb",
+    "ba87bfc6b4c5768f"
+   ]
+  },
+  {
+   "date": "1996-09-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:214711:por",
+     "title": "Portaria n.º 498/96",
+     "published": "1996-09-23",
+     "dre_path": "/dr/detalhe/portaria/498-1996-214711"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 14.º"
+   ],
+   "fragments": [
+    "755c05aa5971b5b6",
+    "ed303b645188efe2",
+    "ae120dc976649cc5",
+    "bf66271d5b015862",
+    "6e92b59a0337c163",
+    "dac89cebeb7fd5ed",
+    "7b63f783d0995ed2",
+    "dccc1c96a260b04f",
+    "e9e86b35de6a23be",
+    "2ad5be13c9c76d51",
+    "1d22974c48297096",
+    "f4fcd3ecf60c1be2",
+    "2c71b85736b58700",
+    "a78a3ddcef908ff7",
+    "5c0a009a32cd219d",
+    "ff0e4d41e5e2ec7c",
+    "d81f4c2887c103ec",
+    "cbea46623e592aba",
+    "e866532b28b16f8d",
+    "36e3bdeaf99ea432",
+    "16f3db8260b93ca5",
+    "54a6f75898aa4a73",
+    "f388bfe437b378f3",
+    "ff26bc8eed2f71cb",
+    "ba87bfc6b4c5768f"
+   ]
+  }
+ ],
+ "fragments": {
+  "755c05aa5971b5b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Novembro\n\nPela presente portaria o Governo estabelece claramente as regras de funcionamento a que as emissoras de radiodifusão sonora ficarão sujeitas depois de atribuídos os respectivos alvarás.\n\nEste diploma visa, pois, instituir as normas técnicas e operacionais aplicáveis às estações de radiodifusão que vierem a ser dotadas de alvará, nos termos do processo de concessão de autorizações em curso.\n\nCom a aprovação pela Assembleia da República da [Lei n.º 87/88](https://diariodarepublica.pt/dr/detalhe/lei/87-1988-377928), de 30 de Julho, foram definidos os novos princípios básicos e orientadores do exercício da actividade de radiodifusão, nomeadamente a consagração do princípio da abertura dessa actividade às entidades privadas, os aspectos fundamentais respeitantes à informação e programação, o direito de resposta, bem como muitos outros inerentes aos direitos, liberdades e garantias dos cidadãos.\n\nSeguidamente, o [Decreto-Lei n.º 338/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1988-355505), de 28 de Setembro, definiu as condições de acesso e de atribuição de alvarás para o exercício da actividade de radiodifusão, a validade dos alvarás, os tipos de cobertura radiofónica possíveis e ainda outros aspectos genéricos respeitantes à radiodifusão.\n\nA publicação recente do [Decreto-Lei n.º 320/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1988-355960), de 14 de Setembro, estabeleceu o quadro normativo em que são concedidas as autorizações para detenção, estabelecimento e utilização de estações e redes de radiocomunicações, abrangendo princípios gerais inerentes à detenção, instalação e uso da licença no âmbito do serviço de radiocomunicações cujas emissões se destinam a ser recebidas pelo público em geral, designado por serviço de radiodifusão.\n\nTambém as normas internacionais, ratificadas pelo Estado Português, constituem imperativos legais, nomeadamente as disposições da Convenção Internacional de Telecomunicações, instrumento fundamental da União Internacional de Telecomunicações (UIT), ratificado pela Assembleia da República (Resolução n.º 3/87, de 30 de Janeiro), cujo anexo - Regulamento das Radiocomunicações - constitui peça relevante neste âmbito, e que fundamentam parte do estabelecido no presente diploma.\n\nImporta agora, em complemento daqueles, estabelecer e aprovar o quadro dos procedimentos relativos ao licenciamento, funcionamento, segurança e condições técnicas a que devem satisfazer as estações emissoras de radiodifusão.\n\nManda o Governo, pelos Secretários de Estado dos Transportes Exteriores e das Comunicações e Adjunto do Ministro Adjunto e da Juventude, nos termos do disposto no artigo 33.º do [Decreto-Lei n.º 338/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1988-355505), de 28 de Setembro, o seguinte:\n\nESTAÇÕES EMISSORAS DE RADIODIFUSÃO SONORA"
+  },
+  "ed303b645188efe2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Conceitos\n\nPara efeitos do presente diploma, deve entender-se por:\n\na) Serviço de radiodifusão - serviço de radiocomunicações cujas emissões se destinam a ser recebidas directamente pelo público em geral;\n\nb) Estação de radiodifusão - estação do serviço de radiodifusão;\n\nc) Potência de ponta (de um emissor radioeléctrico) - média de potência fornecida à linha de alimentação da antena por um emissor em funcionamento normal, durante um ciclo de radiofrequência correspondente à amplitude máxima da envolvente de modulação;\n\nd) Potência média (de um emissor radioeléctrico) - média de potência fornecida à linha de alimentação da antena por um emissor em funcionamento normal, avaliada durante um intervalo de tempo relativamente longo em relação ao período da componente de mais baixa frequência da modulação;\n\ne) Potência da portadora (de um emissor radioeléctrico) - média de potência fornecida à linha de alimentação da antena por um emissor durante um ciclo de radiofrequência, na ausência de modulação;\n\nf) Ganho de uma antena - a relação, geralmente expressa em decibéis, entre a potência necessária à entrada de uma antena de referência sem perdas e a potência fornecida à entrada da antena em causa, para que as duas antenas produzam, numa dada direcção e à mesma distância, a mesma intensidade de campo ou a mesma densidade de fluxo de potência;\n\nConforme a antena de referência escolhida, distingue-se:\n\nO ganho isotrópico ou absoluto (Gi), quando a antena de referência é uma antena isotrópica, isolada no espaço;\n\nO ganho em relação a um dípolo de meia onda (Gd), quando a antena de referência é um dípolo de meia onda, isolado no espaço, cujo plano equatorial contém a direcção dada;\n\nO ganho em relação a uma antena vertical curta (Gv), quando a antena de referência é um condutor rectilíneo muito mais curto que o quarto do comprimento de onda, normal à superfície de um plano perfeitamente condutor que contém a direcção dada;\n\ng) Potência isotrópica radiada equivalente (p. i. r. e.) - o produto da potência fornecida à antena pelo seu ganho em relação a uma antena isotrópica numa dada direcção (ganho absoluto ou isotrópico);\n\nh) Potência aparente radiada (p. a. r.) - o produto da potência fornecida à antena pelo seu ganho em relação a um dípolo de meia onda numa dada direcção;\n\ni) Potência aparente radiada em relação a uma antena vertical curta (p. a. r. v.) - o produto da potência fornecida à antena pelo seu ganho em relação a uma antena vertical curta numa dada direcção;\n\nj) Altura equivalente da antena de emissão - a altura, expressa em metros, da antena acima do nível médio do solo entre as distâncias de 3 km e 15 km do emissor na direcção do receptor;\n\nk) Relação de protecção em audiofrequência - o valor mínimo convencional, geralmente expresso em decibéis, da relação sinal útil/sinal interferente em audiofrequência, que corresponde a uma qualidade de recepção definida subjectivamente como aceitável;\n\nl) Relação de protecção em radiofrequência - o valor mínimo, geralmente expresso em decibéis, da relação sinal útil/sinal interferente em radiofrequência que, em condições bem determinadas, permite obter à saída de um receptor a relação de protecção em audiofrequência;\n\nm) Campo mínimo utilizável - o valor mínimo do campo necessário para assegurar uma recepção satisfatória, em condições especificadas, em presença de ruídos naturais e artificiais, mas em ausência de interferências devidas a outros emissores;\n\nn) Campo utilizável - o valor mínimo do campo necessário para assegurar uma recepção satisfatória, em condições especificadas, em presença de ruídos naturais e artificiais e em presença de interferências, quer eles existam numa situação real, quer sejam determinados convencionalmente ou pelos planos de frequências;\n\no) Zona de cobertura - a zona no interior da qual o campo do emissor é igual ou superior ao campo utilizável;\n\np) Entidade que superintende nas radiocomunicações - a entidade em quem for delegada competência para a gestão do espectro radioeléctrico, a fixação e fiscalização das respectivas condições de utilização, bem como a concessão de licenças para o estabelecimento e exploração de emissores de radiodifusão."
+  },
+  "ae120dc976649cc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Classificação das estações de radiodifusão sonora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Classificação das estações de radiodifusão sonora\n\nAs estações de radiodifusão sonora, consoante a faixa de frequência em que funcionam, são classificadas numa das categorias a seguir indicadas:\n\n1.ª categoria - estações funcionando em ondas quilométricas;\n\n2.ª categoria - estações funcionando em ondas hectométricas;\n\n3.ª categoria - estações funcionando em ondas decamétricas;\n\n4.ª categoria - estações funcionando em ondas métricas;\n\n5.ª categoria - estações funcionando em outros tipos de ondas radioeléctricas ou ondas hertzianas."
+  },
+  "bf66271d5b015862": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Aplicabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicabilidade\n\nAs disposições do presente diploma aplicam-se a todos os equipamentos emissores que funcionem nas faixas de frequências atribuídas ao serviço de radiodifusão sonora, salvo os casos excepcionados na lei."
+  },
+  "6e92b59a0337c163": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Licenciamento\n\n1 - Para efeitos de obtenção do licenciamento do equipamento emissor de radiodifusão, a que se refere o n.º 1 do artigo 19.º do [Decreto-Lei n.º 338/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1988-355505), de 28 de Setembro, deverá, para além do pagamento da taxa correspondente, ser apresentado pedido acompanhado do projecto completo da instalação, do qual conste, nomeadamente:\n\na) Cópia do alvará devidamente autenticada;\n\nb) Ficha identificadora do projecto, conforme consta do anexo III;\n\nc) Memória descritiva e justificativa da instalação, incluindo as características técnicas dos equipamentos e acessórios utilizados;\n\nd) Esquema pormenorizado da instalação, incluindo o emissor, antena, estúdio, equipamentos acessórios e suas ligações;\n\ne) Estudo dos sistemas de antenas e terra, sob o ponto de vista eléctrico e mecânico;\n\nf) Tipo, alturas equivalentes segundo os radiais indicados na alínea g), diagrama de radiação da antena de emissão e sua localização exacta (coordenadas geográficas);\n\ng) Estudo prévio da cobertura radioeléctrica do emissor pretendida, devendo, para esse efeito, considerar-se os perfis do terreno desde o local da antena de emissão até 50 km de distância segundo radiais de 30 em 30 graus e utilizar, de preferência, cartas topográficas na escala de 1:25000;\n\nh) Planta, em escala não inferior a 1:2000, do edifício, local de instalação do emissor e demais equipamentos e sua interligação;\n\ni) Termo de responsabilidade do técnico responsável pela instalação, conforme minuta do anexo IV.\n\n2 - Os documentos referidos no número anterior deverão ser assinados pelo requerente e pelo técnico responsável e entregues em duplicado à entidade que superintenda nas radiocomunicações, sendo um dos exemplares, depois de aprovado, devolvido ao requerente.\n\n3 - A entidade que superintenda nas radiocomunicações poderá, caso o entenda necessário, exigir os esclarecimentos indispensáveis ao estudo do projecto de instalação e impor as alterações convenientes a esse projecto, fixando prazos para lhe serem apresentados os esclarecimentos ou alterações solicitadas.\n\n4 - A não apresentação dentro dos prazos fixados dos esclarecimentos ou alterações solicitadas implicará a não concessão do licenciamento."
+  },
+  "dac89cebeb7fd5ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Especificações técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Especificações técnicas\n\n1 - As especificações técnicas a que deverão satisfazer os equipamentos emissores de radiodifusão constam dos anexos I e II ao presente diploma.\n\n2 - As especificações técnicas referidas no número anterior, bem como as definições, ensaios e métodos de medida aplicáveis à sua verificação, basear-se-ão, em princípio, nas recomendações, pareceres e estudos pertinentes emitidos, para cada modalidade de serviço, pelos órgãos internacionais competentes, nomeadamente da UIT, com as eventuais restrições que aos mesmos tenham sido feitas por Portugal.\n\n3 - A entidade que superintenda nas radiocomunicações poderá fixar instruções técnicas que sejam indispensáveis ao bom funcionamento das estações emissoras de radiodifusão, bem como dos seus serviços auxiliares."
+  },
+  "7b63f783d0995ed2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Prazo de instalação e afinação dos equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prazo de instalação e afinação dos equipamentos\n\n1 - Aprovado o projecto de instalação, a que se refere o n.º 1 do artigo 4.º, a entidade que superintenda nas radiocomunicações notificará o requerente e fixar-lhe-á um prazo para a conclusão dos trabalhos de instalação e afinação dos equipamentos.\n\n2 - A entidade que superintenda nas radiocomunicações poderá prorrogar o prazo inicialmente fixado se o titular do alvará demonstrar, em pedido apresentado antes do termo daquele prazo, que o atraso verificado é devido a causas alheias à sua vontade.\n\n3 - Após concluída a instalação, os ensaios finais de afinação do emissor deverão ser efectuados sobre antena fictícia não radiante, com a presença do técnico responsável pelas instalações.\n\n4 - Em cada estação de radiodifusão sonora deverá existir o equipamento necessário à realização dos ensaios e afinações do emissor."
+  },
+  "dccc1c96a260b04f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Vistoria para entrada em funcionamento da instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Vistoria para entrada em funcionamento da instalação\n\n1 - Concluídos os ensaios finais de afinação do emissor, a entidade que superintenda nas radiocomunicações efectuará uma vistoria para verificar se a instalação está de acordo com o projecto aprovado e satisfaz as características mínimas fixadas no presente diploma.\n\n2 - Se na vistoria se verificar que a instalação não está de acordo com o projecto aprovado, ou não satisfaz as disposições fixadas no presente diploma, será fixado um prazo para efectivação das alterações necessárias.\n\n3 - A entrada em funcionamento e exploração da instalação só é autorizada após a sua aprovação em vistoria a efectuar pela entidade que superintende nas radiocomunicações.\n\n4 - Nos casos em que não seja possível efectuar a vistoria em data próxima da indicada nos números anteriores, a entidade que superintenda nas radiocomunicações poderá autorizar, a título provisório, a entrada em funcionamento da instalação."
+  },
+  "e9e86b35de6a23be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Aparelhos de medição do emissor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aparelhos de medição do emissor\n\n1 - Cada estação de radiodifusão deverá possuir os aparelhos de medição necessários ao ajuste do emissor, nomeadamente os seguintes:\n\na) Voltímetro indicador da tensão de alimentação do andar final;\n\nb) Amperímetro indicador da corrente de alimentação do andar final;\n\nc) Amperímetro indicador da corrente na linha de alimentação da antena.\n\n2 - Para o controle do nível de modulação é obrigatória a existência de um aparelho de medição indicador do valor do índice de modulação.\n\n3 - No caso de emissão estereofónica é obrigatória a existência de aparelhos de medição indicadores do valor do índice de modulação da portadora principal por:\n\na) A via principal M;\n\nb) A via subportadora estereofónica S;\n\nc) O sinal piloto;\n\nd) O conjunto de todos os sinais de modulação.\n\n4 - Em cada emissor é também obrigatória a existência de um dispositivo, sonoro ou luminoso, avisador de sobremodulação."
+  },
+  "2ad5be13c9c76d51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Tolerância de frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Tolerância de frequência\n\nA frequência central da faixa ocupada pela emissão de radiodifusão deve ser estabilizada de forma a não diferir da frequência consignada mais que o valor da tolerância fixada no Regulamento das Radiocomunicações para este tipo de serviço."
+  },
+  "1d22974c48297096": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Radiações não essenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Radiações não essenciais\n\nA potência de qualquer radiação não essencial do emissor de radiodifusão não pode exceder os valores fixados no Regulamento das Radiocomunicações para este tipo de serviço."
+  },
+  "f4fcd3ecf60c1be2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Técnico responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Técnico responsável\n\n1 - Cada estação emissora de radiodifusão deverá ter um técnico responsável pelo projecto, instalação e regular funcionamento das instalações, o qual deverá possuir, em princípio, as seguintes habilitações:\n\na) Licenciatura em Engenharia Electrotécnica (ramo de telecomunicações e electrónica), quando a potência aparente radiada da estação seja superior a 1 kW;\n\nb) Bacharelato em Engenharia Electrotécnica (ramo de telecomunicações e electrónica), quando a potência aparente radiada da estação seja igual ou inferior a 1 kW.\n\n2 - As disposições do número anterior poderão ser dispensadas, em casos especiais devidamente fundamentados, pelo membro do Governo que superintende nas comunicações, sob proposta dos serviços técnicos responsáveis."
+  },
+  "2c71b85736b58700": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Identificação da estação emissora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Identificação da estação emissora\n\n1 - A cada estação emissora de radiodifusão, devidamente licenciada nos termos da legislação em vigor, será atribuído um indicativo, de acordo com o disposto no Regulamento das Radiocomunicações.\n\n2 - No início e no fim de cada emissão e em regra de 30 em 30 minutos deverá ser enunciada de forma clara a identificação da estação emissora.\n\n3 - O anúncio de identificação da estação não deverá, porém, interromper a continuidade de quaisquer trechos de programa, de modo que, se estes tiverem duração superior a 30 minutos, o anúncio deverá fazer-se na primeira interrupção do programa."
+  },
+  "a78a3ddcef908ff7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Diário da estação emissora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Diário da estação emissora\n\n1 - Do registo diário de funcionamento de cada estação emissora não automática deve constar, nomeadamente:\n\na) As horas de arranque e paragem do funcionamento dos equipamentos da estação;\n\nb) As horas de início e fim de cada programa;\n\nc) Os períodos de interrupção anormal do funcionamento dos equipamentos da estação e respectivas causas;\n\nd) As leituras, no início e no fim de cada período de emissão, dos valores da corrente e da tensão de alimentação do andar final do emissor, bem como da corrente na linha de alimentação da antena.\n\n2 - A entidade que superintenda nas radiocomunicações poderá, sempre que o julgar conveniente, requisitar para consulta e análise o registo diário de funcionamento da estação.\n\n3 - O diário da estação emissora de radiodifusão poderá ser inutilizado quando tenham decorrido dois anos após o último registo nele inscrito."
+  },
+  "4f355590891c0aeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Ligação entre o estúdio e o emissor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Ligação entre o estúdio e o emissor\n\n1 - A ligação entre o local de origem de um programa de radiodifusão e o estúdio ou entre o estúdio e o emissor deverá ser assegurada pelos meios normais de telecomunicações de uso público.\n\n2 - Em caso de comprovada impossibilidade, a ligação referida no número anterior poderá ser autorizada por via rádio, em faixa de frequência a indicar, caso a caso, pela entidade que superintende nas radiocomunicações."
+  },
+  "ff0e4d41e5e2ec7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Ensaios periódicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Ensaios periódicos\n\n1 - Os titulares de licenças de emissores de radiodifusão deverão mantê-los nas melhores condições de funcionamento, realizando ensaios periódicos de verificação das suas características globais.\n\n2 - Os ensaios periódicos deverão satisfazer os limites indicados nas especificações técnicas exigíveis para o tipo de serviço e compreender, pelo menos, a resposta amplitude/frequência, a distorção não linear e a relação sinal/ruído.\n\n3 - Os relatórios dos ensaios periódicos efectuados deverão ser arquivados e conservados por um período de dois anos após a sua realização, de modo a estarem disponíveis a qualquer solicitação da entidade que superintende nas radiocomunicações."
+  },
+  "d81f4c2887c103ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Vistoria técnica e fiscalização das estações emissoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Vistoria técnica e fiscalização das estações emissoras\n\n1 - A entidade que superintende nas radiocomunicações poderá, sempre que o julgar conveniente, proceder à vistoria técnica das estações emissoras de radiodifusão licenciadas, a fim de verificar se a instalação e o funcionamento das mesmas obedece às condições regulamentares.\n\n2 - Se na vistoria técnica se verificar que a instalação não satisfaz as condições regulamentares, será fixado um prazo para proceder às correcções necessárias, findo o qual será efectuada nova vistoria e a estação emissora só poderá continuar em funcionamento se tiverem sido eliminadas as anomalias anteriormente existentes.\n\n3 - Os titulares de estações emissoras de radiocomunicações são obrigados a permitir a entrada nas suas instalações aos agentes da fiscalização radioeléctrica e das autoridades administrativas e policiais e a prestar-lhes todas as informações necessárias ao desempenho da sua missão."
+  },
+  "cbea46623e592aba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Segurança das instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Segurança das instalações\n\n1 - Na construção e instalação das estações de radiodifusão deverão seguir-se todas as normas sobre protecção de pessoas e coisas e salvaguarda dos interesses colectivos, prescritas no Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica, aprovado pelo [Decreto-Lei n.º 740/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/740-1974-242189), de 26 de Dezembro.\n\n2 - No que respeita à instalação emissora, seguir-se-ão, nomeadamente, as seguintes prescrições:\n\na) O acesso aos circuitos com tensões superiores aos limites fixados para a baixa tensão só deverá ser possível com as tensões desligadas;\n\nb) Todos os ajustamentos de circuitos com tensões superiores aos limites fixados para a baixa tensão serão feitos por comandos devidamente isolados, acessíveis exteriormente ao emissor;\n\nc) Em paralelo com os condensadores dos sistemas de filtragem existirão resistências de valor apropriado, de modo a obter-se a descarga dos mesmos ao desligar-se a tensão de alimentação;\n\nd) Serão obrigatoriamente ligados a uma terra de protecção as estruturas metálicas do emissor, os dispositivos mecânicos de protecção, as coberturas e blindagens dos cabos e, de um modo geral, todas as partes metálicas acessíveis;\n\ne) O condutor de ligação à terra será de secção suficiente para não apresentar impedância apreciável, não devendo aquela ser inferior a 16 mm2;\n\nf) A terra de protecção será constituída por chapa, varetas, tubos, perfilados, ou outros, de cobre, aço galvanizado ou aço revestido de cobre, enterrados verticalmente no solo a uma profundidade tal que entre a superfície do solo e a parte superior do eléctrodo de terra haja uma distância mínima de 0,80 m.\n\nA resistência da terra de protecção não deverá, normalmente, ultrapassar o valor de 1 Ohm.\n\n3 - No que respeita a instalação de antenas, seguir-se-ão, nomeadamente, as seguintes prescrições:\n\na) Os condutores de ligação à antena deverão estar devidamente afastados de quaisquer outros condutores e não ser facilmente acessíveis;\n\nb) Os sistemas de antenas não deverão ser facilmente acessíveis e deverão ser totalmente circundados por uma vedação, no caso de torres ou mastros metálicos isolados da terra;\n\nc) Caso a antena não esteja ligada directamente à terra, deverá ser equipada com um dispositivo limitador de sobretensões;\n\nd) As antenas e respectivos suportes serão sinalizados de acordo com as normas adoptadas pelas entidades aeronáuticas, sempre que possam constituir obstáculo à navegação aérea;\n\ne) A sinalização nocturna da antena deverá manter-se permanentemente em perfeito estado de funcionamento.\n\n4 - O regime de rentabilidade previsto no artigo 15.º do [Decreto-Lei n.º 320/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1988-355960), de 14 de Setembro, aplica-se às instalações emissoras de radiodifusão."
+  },
+  "e866532b28b16f8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Autorização provisória de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Autorização provisória de funcionamento\n\n1 - Na sequência do concurso público referido no artigo 6.º do [Decreto-Lei n.º 338/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1988-355505), de 28 de Setembro, a notificação da atribuição de alvará implica a autorização provisória para a entrada em funcionamento das estações emissoras.\n\n2 - A autorização provisória referida obriga ao respeito pelas condições técnicas mínimas exigíveis a observar durante o funcionamento das estações emissoras.\n\n3 - A autorização prevista no presente artigo não outorga aos seus titulares quaisquer direitos, os quais só se constituirão com o licenciamento dos respectivos equipamentos emissores."
+  },
+  "36e3bdeaf99ea432": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Actualização das características técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Actualização das características técnicas\n\nAs estações emissoras de radiodifusão sonora actualmente licenciadas deverão ser ajustadas de modo a obedecer ao preceituado no presente diploma num prazo de 180 dias a contar da sua entrada em vigor."
+  },
+  "16f3db8260b93ca5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente diploma entra imediatamente em vigor.\n\nPresidência do Conselho de Ministros e Ministério das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 21 de Novembro de 1988.\n\nO Secretário de Estado dos Transportes Exteriores e das Comunicações, Eduardo Perestrello Correia de Matos. - O Secretário de Estado Adjunto do Ministro Adjunto e da Juventude, Albino Azevedo Soares."
+  },
+  "54a6f75898aa4a73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Relações de protecção e campos utilizáveis em radiodifusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Relações de protecção e campos utilizáveis em radiodifusão\n\n1 - Ondas quilométricas e hectométricas.\n\n1.1 - Relações de protecção.\n\n1.1.1 - Relações de protecção no mesmo canal:\n\n30 dB para um sinal útil estável em presença de um sinal interferente estável em flutuante;\n\n27 dB para um sinal útil flutuante em presença de um sinal interferente estável ou flutuante;\n\n8 dB para um sinal útil em presença de um sinal interferente proveniente de um emissor da mesma rede sincronizada.\n\n1.1.2 - Relações de protecção no canal adjacente.\n\n1.1.2.1 - No caso de um sinal útil estável, as relações de protecção no canal adjacente são as seguintes:\n\nCaso A - 9 dB se se utiliza uma fraca compressão da modulação à entrada do emissor, tal como ela é correntemente praticada na transmissão de boa qualidade e quando a largura de faixa do sinal de audiofrequência é da ordem de 10 kHz;\n\nCaso B - 7 dB se se utiliza uma forte compressão da modulação com a ajuda de um aparelho automático (pelo menos 10 dB superior à do caso precedente) e quando a largura de faixa do sinal de audiofrequência é da ordem de 10 kHz;\n\nCaso C - 5 dB se se utiliza uma fraca compressão da modulação e quando a largura de faixa do sinal de audiofrequência é da ordem de 4,5 kHz;\n\nCaso D - 0 dB se se utiliza uma forte compressão da modulação com a ajuda de um aparelho automático e quando a largura de faixa do sinal de audiofrequência é da ordem de 4,5 kHz.\n\nOs valores indicados, em cada caso, só são válidos quando se aplica a mesma compressão às emissões útil e interferente.\n\nQuando duas estações funcionam em canais adjacentes com larguras de faixa ou compressões diferentes utiliza-se o valor mais elevado das suas relações de protecção correspondentes, salvo se as duas administrações intervenientes decidem de comum acordo utilizar cada uma a relação que corresponde ao sinal interferente.\n\n1.1.2.2 - No caso de um sinal útil flutuante, os valores das relações de protecção mencionadas no número anterior devem ser reduzidos de 3 dB.\n\n1.2 - Campo mínimo.\n\n1.2.1 - O valor do campo mínimo necessário para vencer o ruído natural nas zonas A, B e C (para 1 MHz) é o seguinte:\n\n+60 dB (uV/m) na zona A;\n\n+70 dB (uV/m) na zona B;\n\n+63 dB (uV/m) na zona C.\n\n1.2.1.1 - Os limites das zonas A, B e C para as regiões 1 e 3 estão indicados na fig. 1.1.\n\n1.2.2 - Campo utilizável:\n\n1.2.2.1 - Os valores do campo utilizável, expressos em decibéis (uV/m), são os indicados no quadro a seguir:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/27201/00020011.pdf)\n\n2 - Ondas métricas.\n\n2.1 - Relações de protecção.\n\n2.1.1 - Relações de protecção para a radiodifusão na faixa de frequências 87,5-108 MHz:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/27201/00020011.pdf)\n\nAs relações de protecção relativas às interferências troposféricas garantem uma recepção satisfatória durante 99% do tempo.\n\n2.2 - Campo mínimo.\n\n2.2.1 - Os valores do campo mínimo utilizável são os seguintes:\n\na) Para o serviço monofónico:\n\n70 dB (uV/m) nas grandes cidades;\n\n60 dB (uV/m) nas zonas urbanas;\n\n48 dB (uV/m) nas zonas rurais;\n\nb) Para o serviço estereofónico:\n\n74 dB (uV/m) nas grandes cidades;\n\n66 dB (uV/m) nas zonas urbanas;\n\n54 dB (uV/m) nas zonas rurais.\n\n2.2.2 - Para a determinação da cobertura radioeléctrica do emissor pretendida utilizam-se as curvas de propagação para o serviço de radiodifusão representadas nas figs. 2.1 e 2.2.\n\nEstas curvas usam como parâmetros a altura equivalente da antena de emissão (h1) e consideram que a altura da antena de recepção (h2) é de 10 m acima do solo.\n\n2.2.2.1 - Para valores de h1 de 20 m e de 10 m podem obter-se curvas suplementares a partir da curva de 37,5 m aplicando factores de correcção de -5 dB e -11 dB, respectivamente, para distâncias até 25 km, e de 0 dB em ambos os casos para distâncias superiores a 250 km, com interpolação linear para as distâncias intermédias.\n\n2.2.2.2 - Para alturas equivalentes de h1 inferiores a 10 m utilizam-se os valores obtidos para 10 m.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/27201/00020011.pdf)"
+  },
+  "f388bfe437b378f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Especificações técnicas de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Especificações técnicas de funcionamento\n\n1 - Campo de aplicação.\n\n1.1 - Estas especificações são aplicáveis a todos os emissores de radiodifusão em modulação de amplitude e em modulação de frequência.\n\n1.2 - Sistema completo - o conjunto de equipamentos e suas interligações compreendidos entre o microfone e a antena de emissão.\n\n1.2.1 - As medições para verificação das especificações técnicas num sistema completo serão efectuadas entre os terminais de ligação do microfone ou do reprodutor fonoeléctrico e a antena.\n\n1.2.2 - A determinação da resposta amplitude/frequência do sistema completo não deverá incluir qualquer dispositivo de correcção da curva de resposta do microfone ou do reprodutor fonoeléctrico.\n\n2 - Equipamentos em modulação de amplitude.\n\n2.1 - Resposta amplitude/frequência - a resposta amplitude/frequência do sistema completo, em relação à amplitude a 1000 Hz, deve satisfazer os limites seguintes:\n\na) Ondas quilométricas e hectométricas:\n\nNa faixa de frequências entre 50 Hz e 7500 Hz: (mais ou menos) 1 dB;\n\nNa faixa de frequências entre 7500 Hz e 10000 Hz: (mais ou menos) 1,5 dB;\n\nb) Ondas decamétricas:\n\nNa faixa de frequências entre 50 Hz e 7500 Hz: (mais ou menos) 1 dB;\n\nAs medidas serão efectuadas às percentagens de modulação de 30%, 60% e 90%.\n\n2.2 - Distorção não linear - a distorção não linear do sistema completo não deve exceder os limites seguintes:\n\na) Ondas quilométricas e hectométricas:\n\nNa faixa de frequências entre 50 Hz e 10000 Hz: 3%;\n\nb) Ondas decamétricas:\n\nNa faixa de frequência entre 50 Hz e 7500 Hz: 5%;\n\nAs medidas serão efectuadas às percentagens de modulação de 30%, 60% e 90%.\n\n2.3 - Relação sinal/ruído - o nível de ruído do fundo do sistema completo, em relação ao nível correspondente a 100% de modulação à frequência de 1000 Hz, não deve exceder os limites seguintes:\n\na) Ondas quilométricas e hectométricas: -55 dB;\n\nb) Ondas decamétricas: -60 dB.\n\n2.4 - Deslocação da portadora - a variação da portadora, permanente ou instantânea, devido à modulação, não deve exceder 5% em amplitude.\n\nAs medidas serão efectuadas às percentagens de modulação de 30%, 60% e 90%.\n\n3 - Equipamentos em modulação de frequência.\n\n3.1 - Emissões monofónicas.\n\n3.1.1 - Sinal de radiofrequência - o sinal de radiofrequência é constituído por uma portadora modulada em frequência pelo sinal de audiofrequência com um desvio máximo de frequência de (mais ou menos) 75 kHz, que se considera correspondente a 100% de modulação.\n\n3.1.2 - Pré-acentuação - a característica de pré-acentuação do sinal de audiofrequência é idêntica à curva admitância-frequência de um circuito resistência-capacidade em paralelo, com uma constante de tempo de 50 microssegundos.\n\nPara um sinal de audiofrequência de amplitude constante à entrada, a amplitude à saída, em relação à amplitude a 1000 Hz será expressa por:\n\n10 log((1 + 10(elevado a -2)((pi)(elevado a 2)))/(1 + 10(elevado a -8)((pi)(elevado a 2))F(elevado a 2))\n\nem que F é a frequência do sinal de audiofrequência.\n\n3.1.3 - Resposta amplitude/frequência - a resposta amplitude/frequência do sistema completo, em relação à amplitude de 1000 Hz, deve satisfazer os limites seguintes:\n\na) Na faixa de frequências entre 40 Hz e 125 Hz:\n\n+0,7 dB a -2,5 dB;\n\nb) Na faixa de frequência entre 125 Hz e 10000 Hz:\n\n+0,7 dB a -0,7 dB;\n\nc) Na faixa de frequências entre 10000 Hz e 14000 Hz:\n\n+1 dB a -2,5 dB;\n\nd) Na faixa de frequências entre 14000 Hz e 15000 Hz:\n\n+1 dB a -3 dB.\n\nOs aparelhos indicadores do valor da medição serão precedidos de um circuito de desacentuação com uma constante de tempo de 50 microssegundos.\n\nAs medidas serão efectuadas às percentagens de modulação de 30%, 60% e 90% do desvio máximo.\n\n3.1.4 - Distorção não linear - a distorção não linear do sistema completo não deve exceder os limites seguintes:\n\na) Na faixa de frequências entre 40 Hz e 125 Hz:\n\n1,4%: -37 dB;\n\nb) Na faixa de frequências entre 125 Hz e 7500 Hz:\n\n0,7%: -43 dB;\n\nc) Na faixa de frequências entre 7500 Hz e 15000 Hz:\n\n1%: -40 dB.\n\nOs aparelhos indicadores do valor da medição serão precedidos de um circuito de desacentuação com uma constante de tempo de 50 microssegundos.\n\nAs medidas serão efectuadas às percentagens de modulação de 30%, 60% e 90% do desvio máximo.\n\n3.1.5 - Relação sinal/ruído:\n\na) Em modulação de frequência - o nível máximo de ruído de fundo do sistema completo, devido à modulação de frequência residual em ausência de sinal de modulação, não deve ultrapassar - 65 dB em relação ao nível correspondente a 100% de modulação à frequência de 1000 Hz.\n\nOs aparelhos indicadores do valor da medição serão precedidos de um circuito de desacentuação com um constante de tempo de 50 microssegundos;\n\nb) Em modulação de amplitude - o nível de ruído de fundo do sistema completo, devido à modulação de amplitude parasita em ausência do sinal de modulação, não deve ultrapassar - 60 dB em relação ao nível da portadora não modulada.\n\n3.2 - Emissões estereofónicas, sistema de frequência piloto.\n\n3.2.1 - Sinal de radiofrequência - o sinal de radiofrequência é constituído por uma portadora modulada em frequência por um sinal multiplex estereofónico, com um desvio máximo de frequência de (mais ou menos) 75 kHz.\n\n3.2.2 - Sinal multiplex estereofónico - o sinal multiplex estereofónico é constituído por:\n\na) Um sinal M igual à semi-soma dos sinais «esquerdo» A e «direito» B, pré-acentuado da mesma forma que um sinal monofónico, que modula, em frequência, a portadora principal, com um desvio de frequência de 90% do desvio máximo de (mais ou menos) 75 kHz. É um sinal «compatível», no sentido em que a emissão estereofónica pode ser recebida com um receptor monofónico para o mesmo desvio máximo de frequência e a mesma pré-acentuação;\n\nb) Um sinal S igual à semidiferença dos sinais «esquerdo» A e «direito» B, pré-acentuado da mesma forma que um sinal monofónico, que modula, em amplitude, uma subportadora de 38 kHz.\n\nSuprimida a subportadora, a soma das faixas laterais modulam igualmente em frequência a portadora principal com um desvio de frequência de 90% do desvio máximo de (mais ou menos) 75 kHz;\n\nc) Um sinal piloto de frequência 19 kHz, exactamente metade da frequência da subportadora, modula, em frequência, a portadora principal, com um desvio de frequência de 8% a 10% do desvio máximo de (mais ou menos) 75 kHz.\n\n3.2.3 - Sinal da faixa de base no caso de emissão de sinais suplementares - no caso de se emitir, além do programa monofónico ou estereofónico principal, um programa monofónico suplementar e ou sinais de informação suplementares e no caso de um desvio máximo de frequência de (mais ou menos) 75 kHz, devem ser satisfeitas as seguintes condições:\n\na) A inserção do programa monofónico suplementar e ou sinais de informação suplementares deve permitir a compatibilidade com os receptores existentes, isto é, estes sinais adicionais não devem deteriorar a qualidade de recepção do programa principal, monofónico ou estereofónico;\n\nb) O sinal de faixa de base é constituído pelo sinal monofónico ou pelo sinal multiplex estereofónico, descrito anteriormente, cuja amplitude é, no mínimo, a 90% do valor máximo do sinal de faixa de base, e pelos sinais suplementares, cuja amplitude é no máximo igual a 10% deste mesmo valor;\n\nc) No caso de um programa monofónico suplementar, a subportadora e o seu desvio de frequência devem ser tais que a frequência instantânea correspondente do sinal fique compreendida entre 53 kHz e 76 kHz;\n\nd) No caso de sinais de informação suplementares, a frequência de qualquer subportadora adicional deve estar compreendida entre 15 kHz e 23 kHz ou entre 53 kHz e 76 kHz;\n\ne) Em nenhum caso o desvio máximo da portadora principal pelo sinal de faixa de base total deve ultrapassar (mais ou menos) 75 kHz.\n\n3.2.4 - Resposta amplitude/frequência - a resposta amplitude/frequência de cada uma das vias M, A e B deve satisfazer os limites indicados no n.º 3.1.3.\n\n3.2.5 - Distorção não linear - a distorção não linear de cada uma das vias M, A e B deve satisfazer os limites indicados no n.º 3.1.4.\n\n3.2.6 - Relação sinal/ruído - a relação sinal/ruído de cada uma das vias M, A e B deve satisfazer os limites indicados no n.º 3.1.5.\n\n3.2.7 - Diferença de ganho entre as vias A e B - a diferença de ganho entre as vias A e B deve satisfazer os limites seguintes:\n\na) Na faixa de frequências entre 40 Hz e 125 Hz - 2 dB;\n\nb) Na faixa de frequências entre 125 Hz e 10000 Hz - 1 dB;\n\nc) Na faixa de frequências entre 10000 Hz e 1400 Hz - 2 dB;\n\nd) Na faixa de frequências entre 14000 Hz e 15000 Hz - 3 dB.\n\n3.2.8 - Diferença de fase entre as vias A e B - a diferença de fase entre as vias A e B deve satisfazer os limites seguintes:\n\na) Na faixa de frequências entre 40 Hz e 200 Hz - segmento oblíquo entre 40º e 20º;\n\nb) Na faixa de frequências entre 200 Hz e 4000 Hz - 20º;\n\nc) Na faixa de frequências entre 4000 Hz e 15000 Hz - segmento oblíquo entre 20º e 45º.\n\n3.2.9 - Diafonia linear entre as vias A e B - a diafonia linear entre as vias A e B deve satisfazer os limites seguintes:\n\na) Na faixa de frequências entre 40 Hz e 300 Hz: -36 dB;\n\nb) Na faixa de frequências entre 300 Hz e 4000 Hz: -36 dB;\n\nc) Na faixa de frequências entre 4000 Hz e 15000 Hz: segmento oblíquo 6 dB por oitava.\n\n3.2.10 - Frequência do sinal piloto - a frequência do sinal piloto não deve diferir de 19 kHz (mais ou menos) 2 Hz.\n\n3.2.11 - Supressão da subportadora - a amplitude residual da subportadora de 38 kHz não deve exceder 1% da amplitude máxima.\n\n3.2.12 - Fase do sinal piloto em relação à subportadora - a fase relativa entre o sinal piloto e a subportadora é tal que, quando o emissor é modulado por um sinal multiplex para o qual A é positivo e B = -A, este sinal corta o eixo dos tempos com uma inclinação positiva cada vez que o valor instantâneo do sinal piloto é nulo.\n\nA tolerância de fase do sinal piloto não deve ultrapassar (mais ou menos) 3º em relação à condição acima indicada.\n\nPor outro lado, quando o sinal multiplex tem um valor positivo, o desvio da portadora principal é igualmente positivo."
+  },
+  "ff26bc8eed2f71cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Ficha de identificação do projecto da estação emissora de radiodifusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Ficha de identificação do projecto da estação emissora de radiodifusão\n\nEstação:\n\nNome: ...\n\nAlvará ref.: ...\n\nTipo de cobertura: ...\n\nInstalação:\n\nEmissor:\n\nLocal: ...\n\nFreguesia: ...\n\nConcelho: ...\n\nDescrição sumária: ...\n\nEstúdio:\n\nLocal: ...\n\nFreguesia: ...\n\nConcelho: ...\n\nLigação ao emissor: ...\n\nRequerente:\n\nNome: ...\n\nMorada: ...\n\nLocalidade: ...\n\nTelefone: ...\n\nAssinatura: ...\n\nTécnico responsável:\n\nNome: ...\n\nMorada: ...\n\nLocalidade: ...\n\nTelefone: ...\n\nAssinatura: ..."
+  },
+  "ba87bfc6b4c5768f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Termo de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Termo de responsabilidade\n\nEu, abaixo assinado, ... (nome, categoria profissional), portador do bilhete de identidade n.º ..., passado pelo Arquivo de Identificação de ... em .../.../..., ao serviço de ... (entidade), declaro que tomo toda a responsabilidade pelo projecto, instalação e regular funcionamento da estação emissora de radiodifusão ... (designação e localização da estação), comprometendo-me a observar todas as disposições legais aplicáveis, bem como as boas regras da técnica.\n\nData: .../.../...\n\n...\n\n(Assinatura reconhecida)"
+  },
+  "5c0a009a32cd219d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Ligação entre o estúdio e o emissor",
+   "in_force_from": "1996-09-28",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 498/96](https://diariodarepublica.pt/dr/detalhe/portaria/498-1996-214711), publicado em 1996-09-23."
+   ],
+   "markdown": "###### Artigo 14.º — Ligação entre o estúdio e o emissor\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 498/96](https://diariodarepublica.pt/dr/detalhe/portaria/498-1996-214711), publicado em 1996-09-23."
+  }
+ }
+}

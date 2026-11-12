@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 40-41",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 9.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá quatro vogais, todos médicos dos quadros hospitalares, dois dos quais serão de categoria não inferior a assistente de hospital central, e os restantes, graduados com, pelo menos, três anos na categoria.\n\n2. Todos os membros do júri deverão, sempre que possível, pertencer ao ramo clínico ou especialidade a que respeitam as provas. O presidente e dois vogais pertencerão ao quadro do estabelecimento ou serviço interessado. Os restantes devem ser escolhidos dos quadros de outros hospitais centrais, mas cada hospital não dará para o mesmo júri mais de um vogal.",
+    "depois": "Artigo 9.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá dois vogais, com as categorias de assistente ou graduado.\n\n2. Os membros do júri deverão, de preferência pertencer ao ramo clínico ou especialidade a que respeitam as provas. O presidente pertencerá ao quadro do estabelecimento ou serviço interessado. Os vogais devem ser escolhidos nos quadros de outros hospitais centrais, sempre que possível.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:199978:por",
+    "alterador": "pt:dre:227268:por"
+  },
+  {
+    "artigo": "unidades 122-123",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 23.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá seis ou quatro vogais, conforme se trate de concurso para medicina interna e cirurgia geral ou para outras especialidades, que serão médicos dos quadros hospitalares com categoria não inferior a assistente de hospital central.\n\n2. Todos os membros dos júris deverão pertencer, sempre que possível, ao ramo clínico ou especialidade a que respeitam as provas. O presidente e dois vogais pertencerão ao quadro do hospital interessado. Os restantes vogais devem ser escolhidos nos quadros de outros hospitais centrais, mas cada hospital não dará para o mesmo júri mais de um vogal. Nos júris dos concursos para medicina interna e cirurgia geral serão três os vogais pertencentes ao quadro do hospital interessado.",
+    "depois": "Art. 23.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá quatro ou dois vogais, conforme se trate de concurso para medicina interna e cirurgia geral ou para outras especialidades, que serão médicos dos quadros hospitalares com categoria não inferior a assistente de hospital central.\n\n2. Todos os membros dos júris deverão pertencer, sempre que possível, ao ramo clínico ou especialidade a que respeitam as provas. O presidente e um dos vogais pertencerão ao quadro do hospital interessado. Os restantes vogais devem ser, de preferência, escolhidos nos quadros de outros hospitais centrais.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:199978:por",
+    "alterador": "pt:dre:227268:por"
+  },
+  {
+    "artigo": "unidades 220-220",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 35.º - 1. O júri será constituído por um presidente e seis vogais, todos com categoria de director de serviço de hospital central.",
+    "depois": "Art. 35.º - 1. O júri será constituído por um presidente e quatro vogais, todos com categoria de director de serviço de hospital central.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:199978:por",
+    "alterador": "pt:dre:227268:por"
+  },
+  {
+    "artigo": "unidades 222-222",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3. Dos seis vogais, três pertencerão a hospitais diversos daquele em que se realiza o concurso, não devendo cada um destes estabelecimentos designar mais do que um elemento para o mesmo júri.",
+    "depois": "3. Dos quatro vogais, dois pertencerão a hospitais diversos daquele em que se realiza o concurso.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:199978:por",
+    "alterador": "pt:dre:227268:por"
+  }
+]

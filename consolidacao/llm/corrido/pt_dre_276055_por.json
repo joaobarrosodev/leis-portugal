@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:276055:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "3) Pessoal assalariado. - Um consultor especial, dois funcionários do quadro administrativo da Secretaria de Estado, em serviço privativo, de qualquer categoria entre segundo-oficial, terceiro-oficial e escriturário-dactilógrafo de 1.ª ou de 2.ª classe, dois dactilógrafos, um telefonista, um motorista, um porteiro, um contínuo e um servente.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 226/74): nova redação do n.º 3) — substituída a unidade 5 pela nova redação integral."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:254236:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 8,
+      "texto": "2.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Vale Sobrigo», «Herdade das Gregas», «Caliços», «Vale Bom», «Vale Médio», «Courela do Murtório dos Pinheiros» e «Courela do Murtório das Figueiras», sitos na freguesia de Torrão, município de Alcácer do Sal, com uma área de 683,7708 ha, conforme planta anexa ao presente diploma e que dele faz parte integrante.\n\n3.º Pelo presente diploma é concessionada até 31 de Maio de 2000, à Companhia Agrícola das Cortes e Valbom - COLBOM, S. A., com o número de pessoa colectiva 500067635 e sede na Rua de D. João V, 21, rés-do-chão, Lisboa, a zona de caça turística de Vale Bom (processo n.º 438 do Instituto Florestal).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portarias n.º 347/2000 (suspensão da actividade cinegética por 180 dias), n.º 942/2000 (renovação da concessão por 15 anos, com área de 595,6468 ha e nova planta só em imagem) e n.º 1264-DH/2004 (anexação de 154,05 ha, área total de 750 ha, planta só em imagem) não dão nova redacção a nenhum ponto do original: são alterações não textuais.",
+  "instrucoes": [
+    "Portaria n.º 362/94: nova redacção dos n.os 2.º e 3.º — substituídas as unidades 7 e 8.",
+    "Portaria n.º 347/2000: suspende a actividade cinegética 180 dias — não textual, em nao_aplicavel.",
+    "Portaria n.º 942/2000: renova a concessão por 15 anos e revoga a Portaria n.º 347/2000 — não textual, em nao_aplicavel.",
+    "Portaria n.º 1264-DH/2004: anexa prédios rústicos à zona de caça — não textual, em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

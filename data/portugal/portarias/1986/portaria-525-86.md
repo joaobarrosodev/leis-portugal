@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-04-08'
+version_history:
+  file: portaria-525-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-09-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-04-08'
+    amending: pt:dre:675218:por
+    amending_title: Portaria n.º 373/93; Portaria n.º 373/93
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 16.º
+    - Adita Artigo 16.º-A
 identifiers:
   celex: null
   eli: null
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:51:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 373/93; Portaria n.º
+    373/93. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-525-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -214,11 +231,15 @@ d) A Divisão de Organização e Informática;
 
 e) A Divisão de Apoio Técnico;
 
-f) O Centro de Relações Públicas e Documentação;
+f) A Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações;
 
-g) O Serviço de Fiscalização;
+g) O Centro de Relações Públicas e Documentação;
 
-h) Os serviços locais.
+h) O Serviço de Fiscalização;
+
+i) Os serviços locais.
+
+> Alterado pelo/a [Portaria n.º 373/93](https://diariodarepublica.pt/dr/detalhe/portaria/373-1993-675218), publicado em 1993-04-03.
 
 ### CAPÍTULO III — Departamentalização e competência dos serviços
 
@@ -608,7 +629,7 @@ a) Promover o estudo dos problemas de pessoal do Centro e orientar as acções d
 
 b) Colaborar, incentivar e apoiar a aplicação dos instrumentos adequados à avaliação no desempenho das funções do pessoal do Centro;
 
-c) Promover a definição de sistemas de controle de assiduidade e pontualidade;
+c) Promover a definição de sistemas de controlo de assiduidade e pontualidade;
 
 d) Promover a definição de índices de gestão em matéria de pessoal;
 
@@ -622,31 +643,63 @@ h) Colaborar e coordenar a participação em acções da iniciativa de outras en
 
 i) Elaborar os planos e programas relativos à actuação do Centro e acompanhar, através de relatórios periódicos de execução, a respectiva realização;
 
-j) Elaborar, de acordo com os planos e orientações estabelecidos, as propostas de programas e projectos de investimentos anuais;
+j) Elaborar, de acordo com os planos e orientações estabelecidos, as propostas de programas e projectos de investimento anuais;
 
 l) Participar na definição dos elementos estatísticos a apurar, coordenar a recolha e proceder à sua análise e difusão;
 
-m) Emitir pareceres e informações, satisfazer consultas e elaborar estudos de natureza jurídica;
+m) Pronunciar-se a respeito da aquisição ou arrendamento de terrenos e edifícios e da realização de obras;
 
-n) Elaborar minutas de escrituras, contratos e outros documentos de carácter legal;
+n) Elaborar projectos e cadernos de encargos destinados aos concursos de adjudicação de obras e acompanhar e fiscalizar a execução dos trabalhos;
 
-o) Apoiar judicamente as instituições particulares de solidariedade social;
+o) Dar parecer sobre as propostas de adjudicação de obras apresentadas pelos serviços e instituições particulares de solidariedade social;
 
-p) Apoiar os serviços competentes na preparação dos processos necessários ao julgamento das questões que impliquem envolvimento do Centro e proceder ao acompanhamento dos processos junto dos tribunais;
+p) Proceder à vistoria de edifícios, tendo em vista informar sobre as condições de segurança, conservação e reparação.
 
-q) Apreciar os processos de dívida de contribuições, multas e juros de mora, promovendo o seu envio aos tribunais de execução fiscal quando for caso disso;
+> Alterado pelo/a [Portaria n.º 373/93](https://diariodarepublica.pt/dr/detalhe/portaria/373-1993-675218), publicado em 1993-04-03.
 
-r) Reclamar créditos por dívidas de contribuições em processos de falência, em processos de execução movidos por outros credores, em processos de inventário ou outros;
+###### Artigo 16.º-A — Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações
 
-s) Promover o reembolso de prestações pagas indevidamente sempre que seja necessário o recurso à via judicial;
+Compete à Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações:
 
-t) Pronunciar-se a respeito da aquisição ou arrendamento de terrenos e edifícios e da realização de obras;
+1) Em matéria de acção jurídica e de contencioso:
 
-u) Elaborar projectos e cadernos de encargos destinados aos concursos de adjudicação de obras e acompanhar e fiscalizar a execução dos trabalhos;
+a) Emitir pareceres e informações, satisfazer consultas e elaborar estudos de natureza jurídica;
 
-v) Dar parecer sobre as propostas de adjudicação de obras apresentadas pelos serviços e instituições particulares de solidariedade social;
+b) Elaborar minutas de escrituras, contratos e outros documentos de carácter legal;
 
-x) Proceder à vistoria de edifícios, tendo em vista informar sobre as condições de segurança, conservação e reparação.
+c) Apoiar juridicamente as instituições particulares de solidariedade social;
+
+d) Apoiar os serviços competentes na preparação dos processos necessários ao julgamento das questões que impliquem envolvimento do Centro e proceder ao acompanhamento dos processos junto dos tribunais;
+
+e) Reclamar créditos por dívidas de contribuições em processos de falência, em processos de execução movidos por outros credores, em processos de inventário ou outros;
+
+f) Promover o reembolso de prestações pagas indevidamente, sempre que seja necessário o recurso à via judicial.
+
+2) Em matéria de contra-ordenações:
+
+a) Organizar e instruir os processos de contra-ordenações;
+
+b) Elaborar relação dos processos arquivados;
+
+c) Propor a nomeação de defensor oficioso, nos casos legalmente previstos;
+
+d) Propor a aplicação de coimas, nos termos regulamentares;
+
+e) Determinar o montante de custas dos processos;
+
+f) Preparar os processos para decisão final;
+
+g) Remeter os processos a tribunal, nas circunstâncias legalmente previstas;
+
+h) Representar a instituição de segurança social na fase judicial da contra-ordenação;
+
+i) Organizar e actualizar ficheiros relacionados com os processos de contra-ordenações;
+
+j) Promover a emissão de orientações para os serviços que procedam à averiguação de infracções ou que, de qualquer modo, sejam chamados a colaborar;
+
+l) Recolher e tratar os necessários dados estatísticos.
+
+> Aditado pelo/a [Portaria n.º 373/93](https://diariodarepublica.pt/dr/detalhe/portaria/373-1993-675218), publicado em 1993-04-03.
 
 ###### Artigo 17.º — (Centro de Relações Públicas e Documentação)
 

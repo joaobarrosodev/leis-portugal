@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "75.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 75.º — Administrador\n\n1 - O Administrador dos SAS é livremente escolhido pelo Presidente do IPV, de entre pessoas com saber e experiência na área da gestão.\n\n2 - O estatuto do Administrador dos SAS é equiparado ao estatuto do Administrador do IPV para todos os efeitos legais, salvo se a lei dispuser de forma diversa. Neste caso, os SAS são dirigidos por um director de serviços.\n\n3 - A duração do exercício de funções como dirigente deste serviço não pode exceder dez anos.",
+    "depois": "###### Artigo 75.º — Administrador\n\n1 - O Administrador dos SAS é livremente escolhido pelo Presidente do IPV, de entre pessoas com saber e experiência na área da gestão.\n\n2 - O cargo de Administrador dos SAS é equiparado a diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - A duração do exercício de funções como dirigente deste serviço não pode exceder dez anos.\n\n> Alterado pelo/a [Despacho Normativo n.º 7/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2019-120999245), publicado em 2019-03-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1053611:por",
+    "alterador": "pt:dre:120999245:por"
+  },
+  {
+    "artigo": "79.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 79.º — Nomeação e duração do exercício de funções\n\n1 - O IPV tem um administrador, escolhido entre pessoas com saber e experiência na área da gestão, com competência para a gestão corrente do Instituto e a coordenação dos seus serviços, sob direcção do Presidente.\n\n2 - O Administrador é livremente nomeado e exonerado pelo Presidente.\n\n3 - A duração do exercício de funções como Administrador não pode exceder dez anos.",
+    "depois": "###### Artigo 79.º — Nomeação e duração do exercício de funções\n\n1 - O IPV tem um administrador, escolhido entre pessoas com saber e experiência na área da gestão, com competência para a gestão corrente do Instituto e a coordenação dos seus serviços, sob direcção do Presidente.\n\n2 - O Administrador é livremente nomeado e exonerado pelo Presidente.\n\n3 - O cargo de Administrador do IPV é equiparado a subdiretor-geral, cargo de direção superior de 2.º grau.\n\n4 - A duração do exercício de funções como Administrador não pode exceder dez anos.\n\n> Alterado pelo/a [Despacho Normativo n.º 7/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2019-120999245), publicado em 2019-03-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1053611:por",
+    "alterador": "pt:dre:120999245:por"
+  }
+]

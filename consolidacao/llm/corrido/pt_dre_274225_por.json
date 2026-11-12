@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:274225:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 143/2002 (n.º 1.º) revoga por inteiro a Portaria n.º 774/78 (com eficácia diferida para as zonas dos rios Tuela e Baceiro e para a das ribeiras de Cortes e Paul até 1 de Agosto de 2002); por isso não se devolve nenhuma alteração.",
+  "instrucoes": [
+    "Portaria n.º 142/79: n.º 1 estende as licenças do tipo A aos residentes nos concelhos limítrofes (não textual); n.º 2 passa a designar 'zona de pesca reservada' a zona da alínea d) do n.º 1.º — não aplicada porque o original foi depois revogado por inteiro.",
+    "Portaria n.º 143/2002: revoga a Portaria n.º 774/78 por inteiro — nao_aplicavel, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

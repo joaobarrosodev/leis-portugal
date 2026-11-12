@@ -1,0 +1,1699 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1053611:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-03-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d257e6616b707885",
+    "cdceb1e4ae0351d4",
+    "e422c6f907dc5906",
+    "f12d6322084e1ce7",
+    "e791bc71cb5071d0",
+    "d070a5bafb551198",
+    "9b2cc60e6afe48ec",
+    "ccf29d9c886889b5",
+    "8cf719d770e97414",
+    "f283a7b381b27eac",
+    "9b916b73b6f2b5ad",
+    "69a022b133fbbe3c",
+    "ad4a744d4eec3289",
+    "11bf109ad46b4223",
+    "2a506c2985693d3f",
+    "7404189413ecfd39",
+    "17de2424355fa812",
+    "7976f2df21267b54",
+    "a00c0760c0a76bf1",
+    "b3c05379497830d8",
+    "e275e29e1444a874",
+    "2255a31ee4c3806a",
+    "6c9c04b98edf2ea3",
+    "791c03e901fe5507",
+    "ff397c15ba65ba9c",
+    "0566c65ce92143a6",
+    "8d59c709ea2f960b",
+    "65d8acfeb0ec857e",
+    "742112452ffdb828",
+    "5813f8eb85ca091f",
+    "393d1e6e8068f196",
+    "cb7c6db4254548c6",
+    "cb29eb395f4bf927",
+    "4283db006b6682f5",
+    "9a81cecb2ce7b006",
+    "6204fb9bef285fa9",
+    "4c652541473d48b6",
+    "46bedcf8fb78427f",
+    "411d3f02513fcdcd",
+    "6c45185d5d51d5f5",
+    "f3e09294bc3c3088",
+    "f8ce527fb388f2e6",
+    "844f85c1af2c7d0b",
+    "0df37e2cd0f004c5",
+    "33aa55980748b7ce",
+    "f8ef423d258ae1a3",
+    "08f132cd408a63a9",
+    "6a3da1ca34909bea",
+    "d293b6c6f9270bdb",
+    "392c7cd9e729bd8f",
+    "6f5afc890e3d4c7d",
+    "47031d1805655cfb",
+    "41ff5e00e4aaeab9",
+    "d79250bcd6aa6721",
+    "ba1aa543114233df",
+    "46d95ddd380d9d8f",
+    "cadbf8245a8eb8bb",
+    "5b4f5ee50ab705d4",
+    "c1211ea23d81f56a",
+    "f68ba464a3536295",
+    "4393932a28e9f8b7",
+    "9a13a287d5c5e630",
+    "66a780eb6d367959",
+    "2cc4d7b6e24db175",
+    "92c1c76ac051b731",
+    "80772b583ea7b7b6",
+    "2b1ff4d35925c547",
+    "cbe44af04cf4d05e",
+    "b43a0c94b0fc4fd0",
+    "570ed5402f6f2262",
+    "606f1648343fe0cf",
+    "b4dab0cea237abff",
+    "c261fe455e2c00cf",
+    "90bad9919ba07024",
+    "6dc1f0bf27d32bb2",
+    "55b0d6426901ee37",
+    "b89ffdcf1077c601",
+    "ed280bc23c0408d5",
+    "1543a4d91d21a14f",
+    "241751bc2f491426",
+    "6e1125bbe5e8c909",
+    "ab583940cf21e339",
+    "2b1ddadfc31af4fb",
+    "e3e6214f628f83a0",
+    "08f3efb8f6990302",
+    "e9fe672ddde1d8b6",
+    "e64eb2279e29d7d4",
+    "f89fa9ac2a2fecb4",
+    "48b3d70d674f3250",
+    "3d430057648db255",
+    "cdfcda4526304332",
+    "46c8fa89e52feffd",
+    "39b7f31ae7c94ab6",
+    "edcc72e2f7c098ce",
+    "ad920b0310543df8",
+    "2079f005055dd60c",
+    "9085d5fb12e619f7",
+    "fbbdaebde9354f0f",
+    "5beae03f9f6a0fe4",
+    "cfbb63e7b9dfcfee",
+    "3a6aab69ad171168",
+    "3386f8adb5b98346",
+    "23e8ee5695a5a4d7",
+    "992f21b78c574b3b",
+    "1ea3d8cd68a13ca0",
+    "8177dae813ade8ea",
+    "bd897b5ff8dec290",
+    "b57f226f42958b5f",
+    "70796ceba781c68c",
+    "13a77c0981d2dc46",
+    "270e56aa4168d54f",
+    "2674510b095bbf45",
+    "032dd3ba1b5a383c",
+    "b255b8f8c3b79c2e",
+    "b292fe023265dbd0",
+    "57f7ed5ccc430151",
+    "8bdd3f59595dba14",
+    "730014abb19492c4",
+    "597624480af41a63",
+    "6bbac6a24573d8f0",
+    "c1691a5d79e8bf52",
+    "18485ed67bbbf308",
+    "c1094ce0aa096c76",
+    "4a75580847806a8f",
+    "c6309f6108bebac3",
+    "ef464ea76b76ad73",
+    "e9fe672ddde1d8b6",
+    "2f14899ecf4cd6e0",
+    "cd3cad9780bee8ea",
+    "ccb5979dc6313da4",
+    "55915c5f8653251c",
+    "b6de098998c5a730",
+    "46ce24225733faf0",
+    "2138635ae778b8c2",
+    "b0dd64d9aa5fe66d",
+    "bf40c6f55d611fed",
+    "0abec4853cc267c6",
+    "c1b3c5546ed2c52f",
+    "d97e442037be2a92",
+    "e58339e49d4601be",
+    "a8ad8c34f35e307b",
+    "36770d8b12b029f7",
+    "5b427f45108da4e1",
+    "688ce41e2b826d91",
+    "f816aac06203387a",
+    "99f32532555f97db",
+    "217963daa318600f",
+    "17374783cb0ab9f8",
+    "7ce2ebee24ad373d",
+    "3c4f4aa16cadc37d",
+    "31275087ae262cd6",
+    "0bc97b77d0613b9c",
+    "69afabbd415bcb02",
+    "d500b407a449fcc3",
+    "e5df0f94a42962e9",
+    "05b436403ac5125e",
+    "ce02f9c6b07ef399",
+    "091d48e76543f6f9",
+    "a45acbab17ec5e59",
+    "e1869bd45fef17ff",
+    "7a208ecaf2e80405",
+    "854f9e3cffc814f5",
+    "213f0c5eb83d331f",
+    "b118faf59842a7b7",
+    "7d01a227559df215"
+   ]
+  },
+  {
+   "date": "2019-03-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:120999245:por",
+     "title": "Despacho Normativo n.º 7/2019",
+     "published": "2019-03-14",
+     "dre_path": "/dr/detalhe/despacho-normativo/7-2019-120999245"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 75.º",
+    "Altera Artigo 79.º"
+   ],
+   "fragments": [
+    "d257e6616b707885",
+    "cdceb1e4ae0351d4",
+    "e422c6f907dc5906",
+    "f12d6322084e1ce7",
+    "e791bc71cb5071d0",
+    "d070a5bafb551198",
+    "9b2cc60e6afe48ec",
+    "ccf29d9c886889b5",
+    "8cf719d770e97414",
+    "f283a7b381b27eac",
+    "9b916b73b6f2b5ad",
+    "69a022b133fbbe3c",
+    "ad4a744d4eec3289",
+    "11bf109ad46b4223",
+    "2a506c2985693d3f",
+    "7404189413ecfd39",
+    "17de2424355fa812",
+    "7976f2df21267b54",
+    "a00c0760c0a76bf1",
+    "b3c05379497830d8",
+    "e275e29e1444a874",
+    "2255a31ee4c3806a",
+    "6c9c04b98edf2ea3",
+    "791c03e901fe5507",
+    "ff397c15ba65ba9c",
+    "0566c65ce92143a6",
+    "8d59c709ea2f960b",
+    "65d8acfeb0ec857e",
+    "742112452ffdb828",
+    "5813f8eb85ca091f",
+    "393d1e6e8068f196",
+    "cb7c6db4254548c6",
+    "cb29eb395f4bf927",
+    "4283db006b6682f5",
+    "9a81cecb2ce7b006",
+    "6204fb9bef285fa9",
+    "4c652541473d48b6",
+    "46bedcf8fb78427f",
+    "411d3f02513fcdcd",
+    "6c45185d5d51d5f5",
+    "f3e09294bc3c3088",
+    "f8ce527fb388f2e6",
+    "844f85c1af2c7d0b",
+    "0df37e2cd0f004c5",
+    "33aa55980748b7ce",
+    "f8ef423d258ae1a3",
+    "08f132cd408a63a9",
+    "6a3da1ca34909bea",
+    "d293b6c6f9270bdb",
+    "392c7cd9e729bd8f",
+    "6f5afc890e3d4c7d",
+    "47031d1805655cfb",
+    "41ff5e00e4aaeab9",
+    "d79250bcd6aa6721",
+    "ba1aa543114233df",
+    "46d95ddd380d9d8f",
+    "cadbf8245a8eb8bb",
+    "5b4f5ee50ab705d4",
+    "c1211ea23d81f56a",
+    "f68ba464a3536295",
+    "4393932a28e9f8b7",
+    "9a13a287d5c5e630",
+    "66a780eb6d367959",
+    "2cc4d7b6e24db175",
+    "92c1c76ac051b731",
+    "80772b583ea7b7b6",
+    "2b1ff4d35925c547",
+    "cbe44af04cf4d05e",
+    "b43a0c94b0fc4fd0",
+    "570ed5402f6f2262",
+    "606f1648343fe0cf",
+    "b4dab0cea237abff",
+    "c261fe455e2c00cf",
+    "90bad9919ba07024",
+    "6dc1f0bf27d32bb2",
+    "55b0d6426901ee37",
+    "b89ffdcf1077c601",
+    "ed280bc23c0408d5",
+    "1543a4d91d21a14f",
+    "241751bc2f491426",
+    "6e1125bbe5e8c909",
+    "ab583940cf21e339",
+    "2b1ddadfc31af4fb",
+    "e3e6214f628f83a0",
+    "08f3efb8f6990302",
+    "e9fe672ddde1d8b6",
+    "e64eb2279e29d7d4",
+    "f89fa9ac2a2fecb4",
+    "48b3d70d674f3250",
+    "3d430057648db255",
+    "cdfcda4526304332",
+    "46c8fa89e52feffd",
+    "39b7f31ae7c94ab6",
+    "edcc72e2f7c098ce",
+    "ad920b0310543df8",
+    "2079f005055dd60c",
+    "9085d5fb12e619f7",
+    "2f17322ac9921e29",
+    "5beae03f9f6a0fe4",
+    "cfbb63e7b9dfcfee",
+    "3a6aab69ad171168",
+    "3386f8adb5b98346",
+    "e18169adc6c35ce1",
+    "992f21b78c574b3b",
+    "1ea3d8cd68a13ca0",
+    "8177dae813ade8ea",
+    "bd897b5ff8dec290",
+    "b57f226f42958b5f",
+    "70796ceba781c68c",
+    "13a77c0981d2dc46",
+    "270e56aa4168d54f",
+    "2674510b095bbf45",
+    "032dd3ba1b5a383c",
+    "b255b8f8c3b79c2e",
+    "b292fe023265dbd0",
+    "57f7ed5ccc430151",
+    "8bdd3f59595dba14",
+    "730014abb19492c4",
+    "597624480af41a63",
+    "6bbac6a24573d8f0",
+    "c1691a5d79e8bf52",
+    "18485ed67bbbf308",
+    "c1094ce0aa096c76",
+    "4a75580847806a8f",
+    "c6309f6108bebac3",
+    "ef464ea76b76ad73",
+    "e9fe672ddde1d8b6",
+    "2f14899ecf4cd6e0",
+    "cd3cad9780bee8ea",
+    "ccb5979dc6313da4",
+    "55915c5f8653251c",
+    "b6de098998c5a730",
+    "46ce24225733faf0",
+    "2138635ae778b8c2",
+    "b0dd64d9aa5fe66d",
+    "bf40c6f55d611fed",
+    "0abec4853cc267c6",
+    "c1b3c5546ed2c52f",
+    "d97e442037be2a92",
+    "e58339e49d4601be",
+    "a8ad8c34f35e307b",
+    "36770d8b12b029f7",
+    "5b427f45108da4e1",
+    "688ce41e2b826d91",
+    "f816aac06203387a",
+    "99f32532555f97db",
+    "217963daa318600f",
+    "17374783cb0ab9f8",
+    "7ce2ebee24ad373d",
+    "3c4f4aa16cadc37d",
+    "31275087ae262cd6",
+    "0bc97b77d0613b9c",
+    "69afabbd415bcb02",
+    "d500b407a449fcc3",
+    "e5df0f94a42962e9",
+    "05b436403ac5125e",
+    "ce02f9c6b07ef399",
+    "091d48e76543f6f9",
+    "a45acbab17ec5e59",
+    "e1869bd45fef17ff",
+    "7a208ecaf2e80405",
+    "854f9e3cffc814f5",
+    "213f0c5eb83d331f",
+    "b118faf59842a7b7",
+    "7d01a227559df215"
+   ]
+  }
+ ],
+ "fragments": {
+  "d257e6616b707885": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo Regime Jurídico das Instituições de Ensino Superior;\n\nTendo o Instituto Politécnico de Viseu procedido à aprovação dos seus novos Estatutos nos termos do citado artigo 172.º e submetido os mesmos a homologação ministerial;\n\nTendo sido realizada a sua apreciação nos termos da referida lei;\n\nAo abrigo do disposto no artigo 69.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro:\n\nDetermino:\n\n1 - São homologados os Estatutos do Instituto Politécnico de Viseu, os quais vão publicados em anexo ao presente despacho.\n\n2 - Este despacho entra em vigor no dia seguinte ao da sua publicação no Diário da República.\n\n23 de Março de 2009. - O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago.\n\nEstatutos do Instituto Politécnico de Viseu"
+  },
+  "cdceb1e4ae0351d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Disposições gerais"
+  },
+  "e422c6f907dc5906": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\n1 - O Instituto Politécnico de Viseu, adiante também designado por Instituto ou IPV, é uma instituição de ensino superior de direito público ao serviço da sociedade, que tem como objectivo a qualificação de alto nível, a produção e difusão do conhecimento, bem como a formação cultural, artística, tecnológica e científica dos seus estudantes, num quadro de referência internacional.\n\n2 - O IPV valoriza a actividade dos seus docentes, investigadores e funcionários, estimula a formação intelectual e profissional dos seus estudantes e assegura as condições para que todos os cidadãos devidamente habilitados possam ter acesso ao ensino superior e à aprendizagem ao longo da vida.\n\n3 - O IPV promove a mobilidade efectiva de estudantes e diplomados, tanto a nível nacional como internacional, com especial relevo para os países de expressão oficial portuguesa e países do espaço europeu.\n\n4 - O IPV tem o direito e o dever de participar, isoladamente ou através das suas unidades orgânicas, em actividades de ligação à sociedade, designadamente de difusão e transferência de conhecimento, assim como de valorização económica do conhecimento científico.\n\n5 - O IPV tem ainda o dever de contribuir para a compreensão pública das humanidades, das artes, da ciência e da tecnologia, promovendo e organizando acções de apoio à difusão da cultura humanística, artística, científica e tecnológica, e disponibilizando os recursos necessários a esses fins."
+  },
+  "f12d6322084e1ce7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições do IPV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições do IPV\n\n1 - São atribuições do IPV:\n\na) A criação, transmissão e difusão da cultura e do saber de natureza profissional, através da articulação do estudo, do ensino, da investigação orientada e do desenvolvimento experimental;\n\nb) A realização de ciclos de estudos visando a atribuição de graus académicos, bem como de cursos pós-secundários, de cursos de formação pós-graduada e outros, nos termos da lei;\n\nc) A criação do ambiente educativo apropriado às suas finalidades;\n\nd) A realização de investigação e o apoio e participação em instituições científicas;\n\ne) A transferência e valorização económica do conhecimento científico e tecnológico;\n\nf) A promoção e apoio à inserção dos estudantes e dos seus diplomados no mundo do trabalho;\n\ng) A realização de acções de formação profissional e de actualização de conhecimentos;\n\nh) A prestação de serviços à comunidade e de apoio ao desenvolvimento;\n\ni) A cooperação e o intercâmbio cultural, científico e técnico com instituições congéneres, nacionais e estrangeiras;\n\nj) A contribuição, no seu âmbito de actividade, para a cooperação internacional e para a aproximação entre os povos, com especial destaque para os países de expressão oficial portuguesa e os países europeus;\n\nk) A produção e difusão do conhecimento e da cultura.\n\n2 - Ao IPV, por intermédio das suas unidades orgânicas de ensino e investigação, compete, ainda, nos termos da lei, a concessão de equivalências, creditações e o reconhecimento de graus e habilitações académicos."
+  },
+  "e791bc71cb5071d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza jurídica\n\nO IPV é uma pessoa colectiva de direito público, dotada de autonomia estatutária, pedagógica, científica, cultural, administrativa, financeira, patrimonial e disciplinar."
+  },
+  "d070a5bafb551198": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios orientadores\n\n1 - Na linha da tradição do humanismo europeu, o IPV afirma a sua abertura ao mundo técnico-científico contemporâneo, à cooperação entre os povos, com especial relevo para os de expressão oficial portuguesa e os europeus, e à interacção entre culturas, no respeito pelos valores da independência, da tolerância e do diálogo.\n\n2 - O IPV e as suas unidades orgânicas regem-se, na sua administração e gestão, pelos princípios da democraticidade e da participação de todos os corpos da instituição, com vista a:\n\na) Favorecer a livre expressão da pluralidade de ideias e opiniões;\n\nb) Estimular a participação da comunidade académica nas actividades do IPV;\n\nc) Garantir a liberdade de criação cultural, científica e tecnológica;\n\nd) Assegurar as condições necessárias para uma atitude de permanente inovação científica e pedagógica;\n\ne) Promover uma estreita ligação entre as suas actividades e a comunidade em que se integra."
+  },
+  "9b2cc60e6afe48ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sede\n\nO IPV tem a sua sede na cidade de Viseu e pode estabelecer unidades orgânicas, ou outras, noutros locais, no respeito pelo quadro legal aplicável."
+  },
+  "ccf29d9c886889b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Símbolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Símbolos\n\n1 - O IPV adopta emblemática própria.\n\n2 - Sem prejuízo da respectiva especificidade, a emblemática de cada uma das unidades orgânicas referencia a do Instituto.\n\n3 - O Dia do Instituto é o dia 5 de Novembro."
+  },
+  "8cf719d770e97414": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Cooperação interinstitucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cooperação interinstitucional\n\n1 - O IPV pode estabelecer, directamente ou por intermédio das suas unidades orgânicas, com outras instituições públicas de ensino superior ou com outras entidades públicas ou privadas, protocolos ou acordos de associação ou de cooperação para o incentivo da mobilidade de estudantes e docentes, para a prossecução de parcerias e projectos comuns, incluindo programas de graus conjuntos e actividades de investigação, formação, prestação de serviços, e de integração dos estudantes na vida activa, nos termos da lei, ou de partilha de recursos ou equipamentos, seja com base em critérios de agregação territorial, seja com base em critérios de agregação sectorial.\n\n2 - As unidades orgânicas do IPV podem associar-se com unidades orgânicas de outras instituições de ensino superior para efeitos de coordenação conjunta na prossecução das suas actividades.\n\n3 - O IPV promoverá, directamente ou por intermédio das suas unidades orgânicas, a sua integração em redes e estabelecerá relações de parceria e de cooperação com estabelecimentos de ensino superior estrangeiros, organizações científicas estrangeiras ou internacionais e outras instituições, nomeadamente no âmbito da União Europeia, de acordos bilaterais ou multilaterais firmados pelo Estado Português e ainda no quadro dos países de expressão oficial portuguesa, para efeitos de coordenação conjunta na prossecução das suas actividades.\n\n4 - As acções e programas de cooperação internacional devem ser compatíveis com a natureza e fins do Instituto ou das suas unidades orgânicas e ter em conta o seu desenvolvimento estratégico e as grandes linhas de política nacional, designadamente em matéria de educação, ciência, cultura e relações internacionais."
+  },
+  "f283a7b381b27eac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Entidades de direito privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entidades de direito privado\n\n1 - O IPV, por si ou por intermédio das suas unidades orgânicas, pode, nos termos dos presentes estatutos, designadamente através de receitas próprias, criar livremente, por si ou em conjunto com outras entidades, públicas ou privadas, fazer parte de, ou incorporar no seu âmbito, entidades subsidiárias de direito privado, como fundações, associações e sociedades, destinadas a coadjuvá-lo no estrito desempenho dos seus fins.\n\n2 - O IPV, bem como as suas unidades orgânicas de ensino e investigação, podem delegar nas entidades referidas no número anterior, a execução de certas actividades, serviços ou projectos, incluindo a realização de cursos não conferentes de grau académico, mediante protocolo que defina claramente os termos da delegação, sem prejuízo da sua responsabilidade e superintendência científica e pedagógica."
+  },
+  "9b916b73b6f2b5ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO II — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Estrutura"
+  },
+  "69a022b133fbbe3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Organização"
+  },
+  "ad4a744d4eec3289": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Organização institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Organização institucional\n\n1 - O IPV, tendo em vista a concretização da sua missão bem como a especificidade do contexto social, económico e cultural em que se insere, organiza-se internamente da seguinte forma:\n\na) Unidades orgânicas de ensino e de investigação, adiante designadas escolas;\n\nb) Unidades de investigação com ou sem o estatuto de unidade orgânica;\n\nc) Unidades de investigação comuns a outras instituições de ensino superior universitário ou politécnico ou suas unidades orgânicas e ou de investigação;\n\nd) Outras unidades, com ou sem o estatuto de unidades orgânicas, que venham a ser criadas para a prossecução dos objectivos do Instituto.\n\n2 - O IPV dispõe de Serviços de Acção Social Escolar (SAS).\n\n3 - O IPV dispõe, ainda, de serviços de suporte à actividade académica e de apoio técnico ou administrativo permanente, necessários ao bom funcionamento do Instituto e de toda a sua estrutura organizativa."
+  },
+  "11bf109ad46b4223": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Unidades orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Unidades orgânicas\n\n1 - O IPV integra as seguintes unidades orgânicas de ensino e investigação:\n\na) Escola Superior de Educação de Viseu (ESEV);\n\nb) Escola Superior de Tecnologia de Viseu que passa a designar-se Escola Superior de Tecnologia e Gestão de Viseu (ESTGV);\n\nc) Escola Superior Agrária de Viseu (ESAV);\n\nd) Escola Superior de Saúde de Viseu (ESSV);\n\ne) Escola Superior de Tecnologia e Gestão de Lamego (ESTGL) que passa a integrar, por fusão, o Pólo de Lamego da Escola Superior de Educação de Viseu;\n\nf) Outras que eventualmente venham a ser criadas ou integradas no IPV, nos termos da lei.\n\n2 - O IPV integra uma unidade orgânica de investigação denominada Instituto de Desenvolvimento e Investigação (IDI).\n\n3 - Consideram-se, ainda, como integrando o universo do IPV, na medida da sua participação, as instituições de investigação comuns a outras instituições de ensino superior.\n\n4 - As unidades orgânicas a que se refere o n.º 1 do presente artigo dispõem de estatutos próprios.\n\n5 - A denominação prevista na alínea e) do n.º 1 poderá vir a ser alterada mediante aprovação do Conselho Geral.\n\n6 - A alteração das denominações prevista nos n.os 1 e 5 do presente artigo só produzem efeitos depois do respectivo registo.\n\n7 - A fusão a que se refere a alínea e) do n.º 1 fica dependente de aprovação tutelar nos termos do artigo 59.º n.º 2 do RJIES."
+  },
+  "2a506c2985693d3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Coordenação institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Coordenação institucional\n\nCompete ao Instituto a gestão do pessoal, a gestão administrativa e financeira, o planeamento global e o apoio técnico, competindo-lhe, de igual modo, a coordenação das actividades das diferentes unidades orgânicas integradas e demais serviços, numa perspectiva de racionalização e optimização dos recursos."
+  },
+  "7404189413ecfd39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos do IPV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos do IPV"
+  },
+  "17de2424355fa812": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Órgãos\n\n1 - São órgãos de governo do IPV:\n\na) O Conselho Geral;\n\nb) O Presidente;\n\nc) O Conselho de Gestão.\n\n2 - São, ainda, órgãos do IPV:\n\na) O Conselho Académico;\n\nb) O Conselho para a Avaliação e Qualidade."
+  },
+  "7976f2df21267b54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Conselho Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Conselho Geral"
+  },
+  "a00c0760c0a76bf1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição\n\n1 - O Conselho Geral é composto por trinta membros.\n\n2 - São membros do Conselho Geral:\n\na) Dezasseis representantes do conjunto dos professores e dos investigadores;\n\nb) Cinco representantes dos estudantes;\n\nc) Nove personalidades externas de reconhecido mérito não pertencentes à instituição, com conhecimentos e experiência relevantes para o Instituto.\n\n3 - Os membros a que refere a alínea a) do número anterior são eleitos pelo conjunto dos professores e investigadores do IPV, pelo sistema de representação proporcional, nos termos dos presentes estatutos.\n\n4 - Os membros a que se refere a alínea b) do n.º 2 são eleitos pelo conjunto dos estudantes do IPV, pelo sistema de representação proporcional, nos termos dos presentes estatutos.\n\n5 - Os membros a que se refere a alínea c) do n.º 2 são cooptados pelo conjunto dos membros referidos nas alíneas a) e b) do n.º 2, por maioria absoluta, nos termos dos presentes estatutos, com base em propostas fundamentadas subscritas por, pelo menos, um terço daqueles membros.\n\n6 - O mandato dos membros do Conselho Geral é de quatro anos, contados a partir da data da constituição do Conselho, nos termos do n.º 1 do artigo 16.º dos presentes estatutos, excepto no caso dos estudantes, em que é de dois anos, não podendo ser destituídos, salvo pelo próprio Conselho Geral, por maioria absoluta, em caso de falta grave, nos termos do regulamento do próprio órgão.\n\n7 - Os membros do Conselho Geral podem suspender o exercício do respectivo mandato, nos termos do regulamento referido no número anterior.\n\n8 - O mandato dos membros referidos na alínea a) do n.º 2 que não se encontrem em exercício efectivo de funções no Instituto, bem como o de membro que seja ou venha a ser eleito Presidente do Instituto, fica suspenso pelo período que durar tal situação.\n\n9 - A suspensão do mandato, nos termos dos números anteriores, pode verificar-se por uma ou mais vezes até ao limite de dois anos, para os membros a que se referem as alíneas a) e c) do n.º 2 e de um ano para os membros referidos na alínea b) do mesmo número, findo o qual ocorrerá a respectiva caducidade.\n\n10 - Nos casos de renúncia, suspensão ou caducidade do mandato, o membro em causa será substituído por aquele que se lhe seguir na lista pela qual haja sido eleito e que não tenha a qualidade de membro do Conselho.\n\n11 - Os membros do Conselho Geral não representam grupos nem interesses sectoriais e são independentes no exercício das suas funções."
+  },
+  "b3c05379497830d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competências do Conselho Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências do Conselho Geral\n\n1 - Compete ao Conselho Geral:\n\na) Eleger o seu presidente, por maioria absoluta dos membros em efectividade de funções, de entre os membros a que se refere a alínea c) do n.º 2 do artigo anterior;\n\nb) Aprovar o seu regulamento;\n\nc) Aprovar as alterações dos estatutos, nos termos dos n.os 2 a 4 do artigo 68.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro;\n\nd) Aprovar o regulamento eleitoral, organizar o procedimento de eleição e eleger o Presidente do Instituto, nos termos da lei e dos presentes estatutos;\n\ne) Apreciar os actos do Presidente do Instituto e do Conselho de Gestão;\n\nf) Aprovar a emblemática do Instituto e unidades orgânicas;\n\ng) Propor as iniciativas que considere necessárias ao bom funcionamento da instituição;\n\nh) Desempenhar as demais funções previstas na lei ou nos presentes estatutos.\n\n2 - Compete ao Conselho Geral, sob proposta do Presidente do Instituto:\n\na) Aprovar os planos estratégicos de médio prazo e o plano de acção para o quadriénio do mandato do Presidente do Instituto;\n\nb) Aprovar as linhas gerais de orientação da instituição no plano científico, pedagógico, financeiro e patrimonial;\n\nc) Criar, transformar, cindir, fundir ou extinguir unidades orgânicas;\n\nd) Aprovar, por maioria de dois terços dos membros em efectividade de funções, a participação do IPV em consórcios criados nos termos do artigo 17.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro;\n\ne) Aprovar os planos anuais de actividades e apreciar o relatório anual das actividades da instituição;\n\nf) Aprovar a proposta de orçamento;\n\ng) Aprovar as contas anuais consolidadas, acompanhadas do parecer do fiscal único;\n\nh) Fixar as propinas devidas pelos estudantes;\n\ni) Propor ou autorizar, conforme disposto na lei, a aquisição ou alienação de património imobiliário da instituição, bem como as operações de crédito;\n\nj) Apreciar e aprovar, por maioria de dois terços dos membros em efectividade de funções, a proposta de requerimento da transformação do IPV em instituição de ensino superior público de natureza fundacional;\n\nk) Pronunciar-se, a título consultivo, sobre os restantes assuntos que lhe forem apresentados pelo Presidente do IPV.\n\n3 - As deliberações a que se referem as alíneas a) a e) e g) do n.º 2 são obrigatoriamente precedidas por um parecer, a elaborar e aprovar pelos membros externos a que se refere a alínea c) do n.º 2 do artigo anterior.\n\n4 - As deliberações a que se refere a alínea c) do n.º 1 e as alíneas a) a h) do n.º 2 do presente artigo são obrigatoriamente precedidas por um parecer, a elaborar e aprovar pelo Conselho Académico.\n\n5 - Em todas as matérias da sua competência, o Conselho Geral pode solicitar pareceres a outros órgãos da instituição ou das suas unidades orgânicas, nomeadamente aos órgãos de natureza consultiva.\n\n6 - As deliberações do Conselho Geral são aprovadas por maioria simples, ressalvados os casos em que a lei ou os estatutos requeiram maioria absoluta ou outra mais exigente."
+  },
+  "e275e29e1444a874": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Competências do Presidente do Conselho Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competências do Presidente do Conselho Geral\n\n1 - Compete ao Presidente do Conselho Geral:\n\na) Convocar e presidir às reuniões;\n\nb) Declarar ou verificar as vagas no Conselho Geral e proceder às substituições devidas, nos termos dos presentes estatutos;\n\nc) Desempenhar as demais tarefas que lhe sejam cometidas pelos presentes estatutos.\n\n2 - O Presidente do Conselho Geral não interfere no exercício das competências dos demais órgãos da instituição, não lhe cabendo, em caso algum, representá-la nem pronunciar-se em seu nome.\n\n3 - A violação do disposto no número anterior pode constituir causa para a destituição do cargo, nos termos a definir pelo regulamento interno do órgão."
+  },
+  "2255a31ee4c3806a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Constituição do Conselho Geral e entrada em funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Constituição do Conselho Geral e entrada em funcionamento\n\n1 - O Conselho Geral considera-se legalmente constituído com o acto de posse, conferido pelo Presidente cessante deste órgão, aos membros eleitos a que se referem as alíneas a) e b) do n.º 2 do artigo 13.º dos presentes estatutos, no prazo máximo de 10 dias a contar da data da afixação dos resultados eleitorais.\n\n2 - O Conselho Geral fica desde logo convocado para uma reunião a realizar no quinto dia útil posterior ao da tomada de posse dos membros a que se refere o número anterior, com o seguinte ponto único da ordem de trabalhos: cooptação dos membros do Conselho Geral previstos na alínea c) do n.º 2 do artigo 13.º dos presentes estatutos.\n\n3 - Depois de o Conselho Geral deliberar sobre as personalidades a cooptar, o Presidente cessante notifica, por escrito, no prazo máximo de dois dias, as referidas personalidades, solicitando-lhes que confirmem a aceitação do cargo, considerando-se como não aceitação se a confirmação não for efectuada nos cinco dias úteis subsequentes.\n\n4 - Caso alguma das personalidades não aceite o cargo, o Presidente cessante convocará, de novo, o Conselho Geral para os cinco dias úteis subsequentes ao termo do prazo fixado para a aceitação com a ordem de trabalhos prevista no n.º 2, nos termos e para os efeitos previstos no n.º 3, ambos do presente artigo.\n\n5 - O processo referido no número anterior será sucessivamente repetido até que se verifique a aceitação por parte de todas as personalidades convidadas para integrar o Conselho Geral.\n\n6 - No prazo de cinco dias úteis a contar da aceitação por parte de todas as personalidades cooptadas, será convocada uma reunião do Conselho Geral para que tomem posse, após o que o Conselho entra em plenitude de funções.\n\n7 - O Presidente do Conselho Geral será eleito na reunião a que se refere o número anterior, coincidindo, o respectivo mandato com o do Conselho.\n\n8 - O Conselho Geral procederá igualmente à eleição do secretário do Conselho, o qual será eleito de entre os membros a que se refere a alínea a) do n.º 2 do artigo 13.º"
+  },
+  "6c9c04b98edf2ea3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Reuniões do Conselho Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reuniões do Conselho Geral\n\n1 - O Conselho Geral reúne, ordinariamente, quatro vezes ao ano, além das reuniões extraordinárias convocadas pelo seu presidente, por sua iniciativa, a pedido do Presidente do Instituto ou, ainda, de um terço dos seus membros.\n\n2 - Por decisão do Conselho Geral, podem participar nas reuniões, sem direito a voto:\n\na) Os Presidentes das unidades orgânicas;\n\nb) Personalidades convidadas para se pronunciarem sobre assuntos da sua especialidade.\n\n3 - O Presidente do Instituto participa nas reuniões, sem direito a voto."
+  },
+  "791c03e901fe5507": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Eleição dos representantes dos professores e dos investigadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Eleição dos representantes dos professores e dos investigadores"
+  },
+  "ff397c15ba65ba9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Da eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Da eleição\n\n1 - Os representantes dos professores e dos investigadores são eleitos, por listas, em colégio eleitoral único, constituído pelo universo dos professores e investigadores do IPV com capacidade eleitoral.\n\n2 - As listas são constituídas por dezasseis efectivos e oito suplentes.\n\n3 - Para apuramento dos resultados da eleição, será utilizado o sistema de representação proporcional (método de Hondt).\n\n4 - Os professores e investigadores não podem integrar mais que um caderno eleitoral, pelo que os que estiverem simultaneamente afectos a uma escola e a uma unidade de investigação integram, obrigatoriamente, os cadernos eleitorais da respectiva escola."
+  },
+  "0566c65ce92143a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Capacidade eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Capacidade eleitoral\n\nTêm capacidade eleitoral activa e passiva o conjunto dos professores e dos investigadores de todas as escolas integradas do IPV, independentemente de se encontrarem, ou não, em exercício de funções no Instituto."
+  },
+  "8d59c709ea2f960b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Eleição dos representantes dos estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Eleição dos representantes dos estudantes"
+  },
+  "65d8acfeb0ec857e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Da eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Da eleição\n\n1 - Os representantes dos estudantes são eleitos, por lista, em colégio eleitoral único, constituído pelo universo dos estudantes matriculados ou inscritos no IPV com capacidade eleitoral.\n\n2 - As listas são constituídas por cinco efectivos e cinco suplentes.\n\n3 - Para apuramento dos resultados da eleição, será utilizado o sistema de representação proporcional (método de Hondt)."
+  },
+  "742112452ffdb828": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Capacidade eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Capacidade eleitoral\n\n1 - Têm capacidade eleitoral activa e passiva os estudantes do Instituto matriculados ou inscritos nos cursos conferentes de grau académico.\n\n2 - Ficam excluídos da condição de eleitores e de elegíveis os alunos inscritos em qualquer outra formação, designadamente em disciplinas isoladas."
+  },
+  "5813f8eb85ca091f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Processo eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Processo eleitoral"
+  },
+  "393d1e6e8068f196": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Regulamento e calendário eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regulamento e calendário eleitorais\n\n1 - O regulamento e o calendário eleitorais são aprovados pelo Conselho Geral.\n\n2 - O processo eleitoral terá início sessenta dias (seguidos) antes de concluído o mandato dos membros eleitos, salvo se, observando-se aquela data, o processo decorrer, total ou parcialmente, em período de férias lectivas de verão, caso em que o Presidente deve antecipar o processo eleitoral para que este decorra no período lectivo imediatamente anterior."
+  },
+  "cb7c6db4254548c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Comissão eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Comissão eleitoral\n\n1 - A comissão eleitoral é constituída por um professor de carreira e um estudante, por cada escola do Instituto, designados pelo Conselho Geral.\n\n2 - A comissão eleitoral é presidida pelo professor mais antigo na categoria mais elevada, que tem voto de qualidade, em caso de empate."
+  },
+  "cb29eb395f4bf927": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Competências da Comissão Eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Competências da Comissão Eleitoral\n\n1 - A comissão eleitoral é responsável pela organização do processo eleitoral.\n\n2 - Compete à comissão eleitoral:\n\na) Receber os cadernos eleitorais parciais de docentes e estudantes enviados pelos presidentes das unidades orgânicas e integrá-los, para cada corpo, em caderno eleitoral único;\n\nb) Receber as candidaturas à eleição, verificar a respectiva conformidade com a lei, com os presentes estatutos e com o regulamento eleitoral, bem como decidir sobre a sua aceitação ou exclusão;\n\nc) Decidir sobre reclamações;\n\nd) Assegurar a regularidade do acto eleitoral, dar parecer sobre dúvidas e decidir sobre as questões que forem suscitadas no decurso do processo eleitoral;\n\ne) Elaborar os boletins de voto, nomear os elementos das mesas de voto, proceder ao escrutínio final dos votos, elaborar a correspondente acta e afixar os resultados eleitorais, remetendo todo o processo ao Conselho Geral;\n\nf) Praticar todos os restantes actos inerentes ao processo eleitoral."
+  },
+  "4283db006b6682f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Cadernos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Cadernos eleitorais\n\n1 - Os cadernos eleitorais serão elaborados, parcialmente, nas unidades orgânicas a que respeitam, com anotação do dia, hora e identificação da categoria e assinatura legível do responsável pela sua elaboração. Serão depois integrados, pela comissão eleitoral, num caderno eleitoral único por cada corpo, identificados por unidades orgânicas.\n\n2 - Os cadernos eleitorais serão afixados nos serviços centrais do IPV e em todas as unidades orgânicas e subdivididos pelas respectivas mesas de voto.\n\n3 - As reclamações por erros e omissões serão entregues dentro do prazo fixado nos termos do calendário eleitoral, nos serviços de expediente dos serviços centrais que as remeterá de imediato à comissão eleitoral.\n\n4 - A data a que se reportam os cadernos eleitorais será fixada no regulamento eleitoral."
+  },
+  "9a81cecb2ce7b006": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Candidaturas\n\n1 - As listas devem ser subscritas pelos candidatos ou instruídas com declarações individuais de concordância.\n\n2 - As listas serão entregues nos serviços de expediente dos serviços centrais, nos prazos regulamentares previstos, e dentro do seu horário de funcionamento. Dos documentos será passado recibo de entrega, com anotação do dia e hora de recepção.\n\n3 - As candidaturas podem indicar um mandatário que representa a respectiva lista. Pode igualmente credenciar um delegado e um suplente para, junto das mesas de voto, acompanhar as eleições.\n\n4 - Após a recepção das candidaturas, os serviços de expediente remetem as listas ao presidente da comissão eleitoral.\n\n5 - Após a sua aceitação, as listas serão afixadas nos serviços centrais do IPV e enviadas cópias para afixação a todas as escolas, permanecendo afixadas até ao fecho das urnas."
+  },
+  "6204fb9bef285fa9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Apuramento dos eleitos para o Conselho Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Apuramento dos eleitos para o Conselho Geral\n\n1 - O apuramento dos representantes eleitos por cada lista faz-se de acordo com o método de Hondt.\n\n2 - A comissão eleitoral verifica os documentos recebidos das mesas de voto e elabora a acta final do acto eleitoral, na qual constarão os membros eleitos.\n\n3 - A comissão eleitoral procede à afixação dos resultados eleitorais."
+  },
+  "4c652541473d48b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Reclamações e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Reclamações e recursos\n\n1 - As reclamações são dirigidas ao presidente da comissão eleitoral, no prazo de quarenta e oito horas, e por esta decididas em igual período.\n\n2 - Da decisão sobre as reclamações cabe recurso para o Conselho Geral, a interpor no prazo de quarenta e oito horas sobre aquela decisão, e a deliberar no prazo de cinco dias úteis.\n\n3 - A comissão eleitoral procede à afixação definitiva dos resultados eleitorais no dia útil imediato à decisão do recurso ou do final do prazo para interposição de reclamações."
+  },
+  "46bedcf8fb78427f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Presidente"
+  },
+  "411d3f02513fcdcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Funções do Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Funções do Presidente\n\n1 - O Presidente do IPV é o órgão superior de governo e de representação externa do Instituto.\n\n2 - O Presidente é o órgão de condução da política do Instituto e preside ao Conselho de Gestão."
+  },
+  "6c45185d5d51d5f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Eleição\n\n1 - O Presidente é eleito pelo Conselho Geral nos termos estabelecidos nos presentes estatutos, segundo o procedimento previsto no respectivo regulamento, a aprovar pelo Conselho Geral.\n\n2 - Podem ser eleitos Presidente do Instituto:\n\na) Professores e investigadores da própria instituição ou de outras instituições, nacionais ou estrangeiras, de ensino superior ou de investigação;\n\nb) Individualidades de reconhecido mérito e experiência profissional relevante.\n\n3 - Não pode ser eleito Presidente do Instituto:\n\na) Quem se encontre na situação de aposentado;\n\nb) Quem tenha sido condenado por infracção disciplinar, financeira ou penal no exercício de funções públicas ou profissionais, nos quatro anos subsequentes ao cumprimento da pena;\n\nc) Quem incorra noutras inelegibilidades previstas na lei e nos presentes estatutos.\n\n4 - O processo de eleição inclui, designadamente:\n\na) O anúncio público da abertura de candidaturas;\n\nb) A apresentação de candidaturas;\n\nc) A audição pública dos candidatos, com apresentação e discussão do seu programa de acção;\n\nd) A votação final do Conselho Geral, por maioria absoluta e voto secreto.\n\n5 - O processo eleitoral terá início com uma reunião extraordinária do Conselho Geral a realizar com a antecedência de noventa dias seguidos em relação ao términos do mandato, para aprovação do regulamento e calendário respectivos.\n\n6 - O anúncio público da abertura de candidaturas consiste na publicação do respectivo aviso na página principal do sítio da Internet do Instituto e antecede, em 30 dias seguidos, o início do prazo para apresentação de candidaturas. Esta informação deve ser divulgada em dois jornais de grande circulação nacional, em dois jornais de circulação regional e deve, ainda, ser comunicada ao ministro da tutela para os efeitos que tenha por convenientes.\n\n7 - No caso de, observados os prazos referidos nos números anteriores, o processo eleitoral vir a decorrer em período de férias lectivas de verão, deve o Presidente antecipá-lo para que decorra no período lectivo imediatamente anterior.\n\n8 - A declaração de candidatura deve ser subscrita por vinte professores de carreira ou investigadores de carreira e por cinquenta alunos."
+  },
+  "f3e09294bc3c3088": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Duração do mandato\n\n1 - O mandato do Presidente tem a duração de quatro anos, podendo ser renovado uma única vez, nos termos da lei e dos presentes estatutos.\n\n2 - Em caso de cessação antecipada do mandato, o novo Presidente inicia novo mandato."
+  },
+  "f8ce527fb388f2e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Estrutura da presidência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Estrutura da presidência\n\nO Presidente aprova, por despacho, o regime interno da presidência, podendo, se considerar adequado ao bom funcionamento do Instituto, organizar a presidência por áreas de actividade."
+  },
+  "844f85c1af2c7d0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Vice-presidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Vice-presidentes\n\n1 - O Presidente é coadjuvado por vice-presidentes, até ao limite de três.\n\n2 - O Presidente nomeia livremente os vice-presidentes de entre quem não se encontre em situação de incompatibilidade ou impedimento, podendo ser exteriores à instituição.\n\n3 - Os vice-presidentes podem ser exonerados a todo o tempo pelo Presidente e o seu mandato cessa com a cessação do mandato deste."
+  },
+  "0df37e2cd0f004c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Pró-presidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Pró-presidentes\n\n1 - O Presidente pode ainda ser coadjuvado por pró-presidentes para a implementação e desenvolvimento de tarefas, projectos e actividades específicas.\n\n2 - Os pró-presidentes são nomeados pelo Presidente, de entre docentes ou investigadores do IPV.\n\n3 - Os pró-presidentes podem ser exonerados a todo o tempo pelo Presidente, cessando funções com a conclusão das tarefas, projectos ou actividades para cujo desenvolvimento e implementação foram nomeados, ou com a cessação do mandato do Presidente que os nomeou se esta ocorrer primeiro.\n\n4 - Os pró-presidentes podem, se a natureza das funções que lhe forem cometidas assim o exigir, ser dispensados pelo Presidente, parcial ou totalmente, da prestação de serviço docente ou de investigação, não podendo as dispensas concedidas exceder o equivalente ao horário de três docentes em regime de tempo integral."
+  },
+  "33aa55980748b7ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Destituição do Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Destituição do Presidente\n\n1 - Em situação de gravidade para a vida da instituição, o Conselho Geral, convocado pelo seu Presidente por sua iniciativa, ou a pedido de um terço dos seus membros, pode deliberar, por maioria de dois terços dos seus membros, a suspensão do Presidente do Instituto e, após o devido procedimento administrativo, por idêntica maioria, a sua destituição.\n\n2 - As decisões de suspender ou de destituir o Presidente só podem ser votadas em reuniões especificamente convocadas para o efeito."
+  },
+  "f8ef423d258ae1a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Dedicação exclusiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Dedicação exclusiva\n\n1 - Os cargos de Presidente e de vice-presidente são exercidos em regime de dedicação exclusiva.\n\n2 - Quando sejam docentes ou investigadores do Instituto, o Presidente e os vice-presidentes ficam dispensados da prestação de serviço docente ou de investigação, sem prejuízo de, por sua iniciativa, o poderem prestar a título gracioso."
+  },
+  "08f132cd408a63a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Substituição do Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Substituição do Presidente\n\n1 - Quando se verifique a incapacidade temporária do Presidente, assume as suas funções o vice-presidente por ele designado, ou, na falta de indicação, o de mais idade.\n\n2 - Caso a situação de incapacidade se prolongue por mais de noventa dias, o Conselho Geral deve pronunciar-se acerca da conveniência da eleição de um novo Presidente.\n\n3 - Em caso de vacatura, de renúncia ou de incapacidade permanente do Presidente, deve o Conselho Geral determinar a abertura do procedimento de eleição de um novo Presidente no prazo máximo de oito dias.\n\n4 - Durante a vacatura do cargo de Presidente, bem como no caso de suspensão nos termos do artigo 35.º dos presentes estatutos, será aquele exercido interinamente pelo Vice-Presidente escolhido pelo Conselho Geral ou, na falta deles, pelo professor do Instituto mais antigo na categoria mais elevada."
+  },
+  "6a3da1ca34909bea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Competências do Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Competências do Presidente\n\n1 - O Presidente dirige e representa o Instituto incumbindo-lhe, designadamente:\n\na) Elaborar e apresentar ao Conselho Geral as propostas de:\n\ni) Plano estratégico de médio prazo e plano de acção para o quadriénio do seu mandato;\n\nii) Linhas gerais de orientação da instituição no plano científico e pedagógico;\n\niii) Plano e relatório anuais de actividades;\n\niv) Orçamento e contas anuais consolidadas, acompanhadas do parecer do fiscal único;\n\nv) Aquisição ou alienação de património imobiliário da instituição e de operações de crédito;\n\nvi) Criação, transformação ou extinção de unidades orgânicas;\n\nvii) Propinas devidas pelos estudantes;\n\nviii) Transformação do IPV em instituição de ensino superior público de natureza fundacional, nos termos previstos no artigo 129.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, depois de ouvido o Conselho Académico;\n\nb) Aprovar a criação, suspensão e extinção de cursos;\n\nc) Aprovar os valores máximos de novas admissões e de inscrições em cada ciclo de estudos para cada ano lectivo;\n\nd) Superintender na gestão académica, decidindo, designadamente, quanto à abertura de concursos, à nomeação e contratação de pessoal a qualquer título, à designação dos júris de concursos e de provas académicas e ao sistema e regulamentos de avaliação de docentes e discentes;\n\ne) Orientar e superintender na gestão administrativa e financeira da instituição, assegurando a eficiência no emprego dos seus meios e recursos;\n\nf) Atribuir apoios aos estudantes no quadro da acção social escolar, nos termos da lei;\n\ng) Aprovar a concessão de títulos ou distinções honoríficas;\n\nh) Instituir prémios escolares;\n\ni) Homologar as eleições e designações dos membros dos órgãos de gestão das unidades orgânicas com órgãos de governo próprio, só o podendo recusar com base em ilegalidade, bem como dar-lhes posse;\n\nj) Nomear e exonerar, nos termos da lei e dos presentes estatutos, o administrador do IPV, o administrador do SAS e os dirigentes dos serviços da instituição;\n\nk) Exercer o poder disciplinar, em conformidade com o disposto na lei e nos presentes estatutos;\n\nl) Assegurar o cumprimento das deliberações tomadas pelos órgãos colegiais da instituição;\n\nm) Aprovar os regulamentos previstos na lei e nos presentes estatutos, sem prejuízo do poder regulamentar das unidades orgânicas no âmbito das suas competências próprias;\n\nn) Velar pela observância das leis, dos presentes estatutos e dos regulamentos;\n\no) Propor as iniciativas que considere necessárias ao bom funcionamento da instituição;\n\np) Desempenhar as demais funções previstas na lei e nos presentes estatutos;\n\nq) Comunicar ao ministro da tutela todos os dados necessários ao exercício desta, designadamente os planos e orçamentos e os relatórios de actividades e contas;\n\nr) Tomar as medidas necessárias à garantia da qualidade do ensino e da investigação na instituição e nas suas unidades orgânicas;\n\ns) Representar a instituição em juízo ou fora dele;\n\nt) No domínio do Sistema de Gestão da Qualidade compete ao Presidente, podendo delegar num Vice-Presidente:\n\ni) Aprovar a política e os objectivos anuais;\n\nii) Aprovar o manual da qualidade e os procedimentos de gestão;\n\niii) Promover a revisão anual do sistema;\n\niv) Aprovar planos e programas abrangidos pelo sistema.\n\n2 - Cabem ainda ao Presidente todas as competências que por lei ou pelos estatutos não sejam atribuídas a outros órgãos do Instituto.\n\n3 - Sempre que tal se justifique, para maior eficiência na gestão de recursos humanos, o Presidente pode reafectar pessoal docente, investigador, pessoal não docente e não investigador entre unidades orgânicas.\n\n4 - As decisões relativas às matérias abrangidas pela alínea b) do n.º 1 carecem de parecer prévio do Conselho Académico e dos Conselhos Técnico-Científico e Pedagógico da respectiva escola.\n\n5 - As decisões relativas às matérias previstas na alínea c) do n.º 1 carecem de parecer prévio do Conselho Académico.\n\n6 - As decisões relativas às matérias abrangidas pelas alíneas g) e h) do n.º 1 são precedidas da audição dos conselhos técnico-científicos das escolas.\n\n7 - As decisões relativas à abertura de concursos, nomeação e contratação de pessoal docente e de pessoal não docente carecem, respectivamente, de parecer prévio do Conselho Técnico-Científico ou do Presidente da escola em causa.\n\n8 - As decisões relativas às matérias abrangidas pelo n.º 3 são precedidas de parecer prévio do Conselho Geral e do Conselho Académico.\n\n9 - As decisões relativas ao sistema e regulamento de avaliação de docentes e discentes, são precedidas da audição dos conselhos pedagógicos das escolas.\n\n10 - As decisões relativas à aplicação da pena de suspensão ou pena de escalão superior ao pessoal docente e não docente bem como das penas referidas no artigo 106 n.os 2 e 3 dos presentes estatutos, carecem de parecer vinculativo do Conselho Académico.\n\n11 - O Presidente pode delegar nos vice-presidentes, e nos órgãos de gestão do Instituto ou nos presidentes das unidades orgânicas, as competências que se revelem necessárias a uma gestão mais eficiente, com excepção dos casos previstos nos n.º 3 do presente artigo.\n\n12 - O Presidente dispõe de um secretariado composto até um máximo de três elementos, por si livremente designados."
+  },
+  "d293b6c6f9270bdb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho de Gestão"
+  },
+  "392c7cd9e729bd8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Composição e funcionamento do Conselho de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Composição e funcionamento do Conselho de Gestão\n\n1 - O Conselho de Gestão é composto pelo Presidente do Instituto, que preside, por um vice-presidente por si designado e pelo Administrador do IPV.\n\n2 - O Presidente do Instituto pode ainda designar, para fazer parte do Conselho de Gestão, um ou dois membros de competência reconhecida nos domínios da gestão, livremente escolhidos e nomeados de entre pessoal docente e investigador ou não docente e não investigador do Instituto.\n\n3 - Os membros previstos no número anterior podem ser livremente exonerados pelo Presidente.\n\n4 - O mandato dos membros do Conselho de Gestão tem a duração do mandato do Presidente que os designou e cessa com este.\n\n5 - Podem ser convocados para participar, sem direito a voto, nas reuniões do Conselho de Gestão, os presidentes das unidades orgânicas, os responsáveis pelos serviços da instituição e representantes dos estudantes e do pessoal não docente e não investigador.\n\n6 - As deliberações do Conselho de Gestão são tomadas por maioria simples, sendo os seus membros solidariamente responsáveis por essas deliberações, salvo se não tiverem estado presentes ou se houverem feito exarar em acta a sua discordância.\n\n7 - No caso de empate na votação, o Presidente terá voto de qualidade."
+  },
+  "6f5afc890e3d4c7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Competências do Conselho de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Competências do Conselho de Gestão\n\n1 - Compete ao Conselho de Gestão conduzir a gestão administrativa, patrimonial e financeira da instituição, bem como a gestão dos recursos humanos, sendo-lhe aplicável a legislação em vigor para os organismos públicos dotados de autonomia administrativa.\n\n2 - Compete ao Conselho de Gestão fixar as taxas e emolumentos, ouvidos os presidentes das escolas.\n\n3 - Compete-lhe, ainda, a atribuição de subsídios nos termos de regulamento a aprovar pelo Conselho Geral.\n\n4 - O Conselho de Gestão deve fixar um fundo de maneio por unidade orgânica, delegando no respectivo dirigente máximo, com a faculdade de subdelegar, a competência para autorizar as despesas e os pagamentos; o Conselho pode, ainda, delegar a competência para autorização de despesas e pagamentos relativas a determinadas categorias de actos, fixando o seu limite.\n\n5 - O Conselho de Gestão pode, em geral, delegar nos órgãos próprios das unidades orgânicas e nos dirigentes dos serviços, as competências que considere adequadas e necessárias a uma gestão mais eficiente, designadamente a autorização para despesas e pagamentos, podendo, ainda, delegar, nos órgãos das unidades orgânicas, a competência para gerir, no plano financeiro, o orçamento que lhe for atribuído."
+  },
+  "47031d1805655cfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Conselho Académico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Conselho Académico"
+  },
+  "41ff5e00e4aaeab9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Composição do Conselho Académico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Composição do Conselho Académico\n\n1 - O Conselho Académico é um órgão com funções de natureza consultiva nos termos do disposto no n.º 2 do artigo 78.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro.\n\n2 - Constituem o Conselho Académico:\n\na) O Presidente do Instituto;\n\nb) Os Presidentes das escolas;\n\nc) Os Presidentes da Assembleia de Representantes das escolas;\n\nd) Os Presidentes dos Conselhos Técnico-Científicos;\n\ne) Os Presidentes dos Conselhos Pedagógicos;\n\nf) O Presidente do Instituto de Desenvolvimento e Investigação;\n\ng) Os Presidentes das Associações de Estudantes das escolas;\n\nh) O Presidente da Associação de Estudantes do Instituto;\n\ni) O Administrador do IPV;\n\nj) O Administrador dos SAS.\n\n3 - O Conselho Académico pode convidar a participar nas suas reuniões, sem direito a voto, individualidades cuja presença seja considerada vantajosa para análise dos assuntos em apreciação."
+  },
+  "d79250bcd6aa6721": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Competências do Conselho Académico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Competências do Conselho Académico\n\n1 - Compete ao Conselho Académico:\n\na) Emitir parecer, nos termos do artigo 14.º dos presentes estatutos, quanto às seguintes matérias:\n\ni) Alterações dos estatutos;\n\nii) Planos estratégicos de médio prazo e plano de acção para o quadriénio do mandato do presidente;\n\niii) Linhas gerais de orientação da instituição no plano científico, pedagógico, financeiro e patrimonial.\n\niv) Criação, transformação, cisão e extinção de unidades orgânicas;\n\nv) Participação do IPV em consórcios, criados nos termos do artigo 17.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro;\n\nvi) Planos anuais de actividades e relatório anual das actividades da Instituição;\n\nvii) Proposta de orçamento;\n\nviii) Contas anuais consolidadas;\n\nix) Propinas devidas pelos estudantes;\n\nb) Emitir parecer, nos termos do artigo 38.º dos presentes estatutos, quanto às seguintes matérias:\n\ni) Transformação do IPV em instituição de ensino superior público de natureza fundacional, nos termos previstos no artigo 129.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro;\n\nii) Criação, suspensão e extinção de cursos;\n\niii) Valores máximos de novas admissões e de inscrição em cada ciclo de estudos em cada ano lectivo;\n\niv) Aplicação de penas graves, no âmbito do exercício do poder disciplinar;\n\nv) Reafectação de pessoal docente, investigador, pessoal não docente e não investigador entre unidades orgânicas.\n\nc) Emitir outros pareceres previstos nos presentes estatutos.\n\n2 - O parecer a que se refere o ponto iv) da alínea b) do número anterior tem carácter vinculativo.\n\n3 - Compete, ainda, ao Conselho Académico emitir orientações não vinculativas sobre:\n\na) Avaliação do aproveitamento dos estudantes;\n\nb) Calendário escolar;\n\nc) Regime de prescrições;\n\nd) Processo de auto-avaliação, avaliação externa e acreditação do ensino superior;\n\ne) Recrutamento de pessoal.\n\n4 - Pronunciar-se sobre todos os assuntos que lhe sejam submetidos pelo Presidente do Instituto ou pelo Conselho Geral.\n\n5 - Cabe, ainda, ao Conselho Académico elaborar o respectivo regulamento."
+  },
+  "ba1aa543114233df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Funcionamento\n\n1 - O Conselho Académico é presidido pelo Presidente do IPV e secretariado pelo Administrador do IPV.\n\n2 - O Conselho Académico reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que o Presidente o convoque, por sua iniciativa ou a requerimento de um terço dos seus membros, podendo funcionar em plenário ou em comissões especializadas, nos termos do seu regulamento interno."
+  },
+  "46d95ddd380d9d8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Conselho para a Avaliação e Qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Conselho para a Avaliação e Qualidade"
+  },
+  "cadbf8245a8eb8bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Composição\n\n1 - O Conselho para a Avaliação e Qualidade é o órgão do IPV responsável pelo estabelecimento dos mecanismos de auto-avaliação regular do desempenho do Instituto, das suas unidades orgânicas, bem como das actividades científicas e pedagógicas sujeitas ao sistema nacional de avaliação e acreditação, nos termos da lei, devendo garantir o cumprimento das obrigações legais e a colaboração com as instâncias competentes.\n\n2 - O Conselho para a Avaliação e Qualidade é responsável pela manutenção e melhoria do Sistema de Gestão da Qualidade (SGQ), assim como pela determinação da extensão do seu âmbito de certificação, sempre que esta se justifique, sendo apoiado, para o efeito, por um gestor da qualidade.\n\n3 - Integram o Conselho para a Avaliação e Qualidade:\n\na) O Presidente do IPV, que preside, podendo delegar no vice-presidente responsável pela área da avaliação;\n\nb) Os Presidentes das unidades orgânicas, que podem delegar num vice-presidente;\n\nc) Os Presidentes das comissões para avaliação e qualidade de cada uma das unidades orgânicas;\n\nd) O Gestor da Qualidade;\n\ne) Um representante da Associação de Estudantes do Instituto a designar por esta.\n\n4 - O Conselho pode convidar a participar nas suas reuniões, sem direito a voto, individualidades cuja presença seja considerada vantajosa para análise dos assuntos em apreciação."
+  },
+  "5b4f5ee50ab705d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Competências\n\nAo Conselho para a Avaliação e Qualidade compete a definição estratégica das políticas institucionais de avaliação e qualidade a prosseguir pelo Instituto, cabendo-lhe, designadamente:\n\na) Coordenar todos os processos de auto-avaliação e de avaliação externa do desempenho do Instituto, das suas unidades orgânicas, bem como das actividades científicas e pedagógicas sujeitas ou não ao sistema nacional de avaliação e acreditação;\n\nb) Elaborar um plano plurianual com indicação das áreas funcionais que devem ser avaliadas;\n\nc) Propor normas de avaliação a aplicar e definir padrões de qualidade;\n\nd) Indicar e calendarizar os níveis de proficiência que cada padrão de qualidade deve alcançar;\n\ne) Analisar os processos de avaliação efectuados e elaborar os respectivos relatórios de apreciação;\n\nf) Propor ao Presidente do IPV medidas de correcção de pontos fracos que forem identificadas.\n\n2 - As áreas de avaliação referidas na alínea b) do número anterior podem, designadamente, abranger:\n\na) Unidades orgânicas;\n\nb) Cursos;\n\nc) Departamentos ou áreas científicas;\n\nd) Procedimentos pedagógicos;\n\ne) Docentes nas áreas que devam ser submetidas a avaliação que não seja da competência do Conselho Técnico-científico ou do Conselho Pedagógico;\n\nf) Laboratórios afectos a actividade científica ou a actividade pedagógica;\n\ng) Serviços;\n\nh) Impacto do IPV na comunidade, nomeadamente quanto à empregabilidade dos diplomados e à contribuição para processos de inovação tecnológica.\n\n3 - Compete, ainda, ao Conselho para a Avaliação e Qualidade, no âmbito do SGQ:\n\na) A análise dos objectivos anuais e proposta de ajustes e ou correcções, quando adequado;\n\nb) A avaliação trimestral da eficácia do sistema, tendo como suporte os balanços da qualidade, elaborados pelo Gestor da Qualidade, correspondentes ao período em análise, e fazer propostas de ajustes e ou correcções, quando adequado;\n\nc) A análise da integração dos colaboradores das áreas abrangidas pela SGQ e proposta de acções concretas de melhoria, quando adequado;\n\nd) A análise dos resultados das auditorias, propondo as acções correctivas e de melhoria que entender adequadas.\n\n4 - Ao Gestor da Qualidade compete:\n\na) Dinamizar a elaboração e revisão da documentação do SGQ;\n\nb) Elaborar, trimestralmente, os relatórios de suporte à análise, a efectuar pelo Conselho para a Avaliação e Qualidade;\n\nc) Assegurar os contactos com o exterior, em matéria de gestão da qualidade;\n\nd) Dinamizar a implementação e a melhoria do SGQ, através da colaboração das áreas abrangidas pelo mesmo.\n\n5 - Compete, ainda, ao Conselho a elaboração e aprovação do seu regulamento interno."
+  },
+  "c1211ea23d81f56a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Funcionamento\n\nO Conselho reúne, ordinariamente, quatro vezes por ano e, extraordinariamente, sempre que convocado pelo Presidente do IPV, por sua iniciativa ou a requerimento de um terço dos seus membros."
+  },
+  "f68ba464a3536295": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Comissões para avaliação e qualidade nas unidades orgânicas de ensino e investigação e de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Comissões para avaliação e qualidade nas unidades orgânicas de ensino e investigação e de investigação\n\n1 - Em cada uma das unidades orgânicas do Instituto será constituída uma comissão de avaliação e qualidade na dependência do Conselho para a Avaliação e Qualidade à qual incumbe desenvolver e coordenar todo o processo de avaliação e que responderá directamente perante aquele Conselho.\n\n2 - A constituição das comissões referidas no número anterior será definida pelos estatutos das unidades orgânicas.\n\n3 - Em cada unidade orgânica, a comissão será nomeada pelo respectivo presidente que designa, de entre os seus membros, um docente que a preside.\n\n4 - O Conselho para a Avaliação e Qualidade aprovará o regulamento das comissões, o qual deve regular a sua competência e regras de funcionamento."
+  },
+  "4393932a28e9f8b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Provedor do Estudante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Provedor do Estudante"
+  },
+  "9a13a287d5c5e630": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Provedor do Estudante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Provedor do Estudante\n\n1 - O Provedor do Estudante é um professor designado pelo Conselho Geral de entre três professores de carreira do IPV, propostos pela Associação de Estudantes do Instituto.\n\n2 - O mandato tem a duração de dois anos e caduca quando o Provedor perde a qualidade de professor do Instituto, sendo que o mesmo professor não pode ser designado, nos termos do número anterior, mais que quatro vezes consecutivas.\n\n3 - O Provedor fica dispensado da actividade docente, sendo o exercício do cargo incompatível com o exercício de funções em qualquer órgão do Instituto ou escolas.\n\n4 - O Provedor dispõe de gabinete próprio e pode pedir apoio técnico e administrativo a qualquer serviço do Instituto competente para o efeito.\n\n5 - O Provedor do Estudante toma posse perante o Presidente do Conselho Geral."
+  },
+  "66a780eb6d367959": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Competências\n\n1 - O Provedor desenvolve a sua acção em articulação com as associações de estudantes e com os órgãos e serviços do Instituto e unidades orgânicas, designadamente com os conselhos pedagógicos.\n\n2 - Compete em especial ao Provedor:\n\na) Apreciar as queixas e reclamações que lhe sejam apresentadas pelos estudantes, depois de ouvidos os órgãos competentes, e, caso considere que a razão lhes assiste, proferir as recomendações pertinentes;\n\nb) Fazer recomendações genéricas tendo em vista acautelar os interesses dos estudantes, nomeadamente no domínio da actividade pedagógica e da acção social escolar;\n\nc) Elaborar, anualmente, um relatório a apresentar ao Conselho Geral que descreva a actividade desenvolvida;\n\nd) Elaborar a proposta de regulamento do Provedor, a apresentar em Conselho Geral para efeitos de aprovação.\n\n3 - Em geral, o Provedor desenvolve as actividades e iniciativas que julgue adequadas ao bom desempenho do mandato.\n\n4 - As recomendações devem ser implementadas pelos órgãos e serviços do Instituto e unidades orgânicas que delas sejam destinatários, devendo a recusa da sua implementação ser devidamente fundamentada e dela dado conhecimento ao Presidente do IPV e ao Provedor.\n\n5 - Sobre os órgãos e serviços do Instituto e escolas impende o dever de colaboração com o Provedor."
+  },
+  "2cc4d7b6e24db175": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Unidades orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Unidades orgânicas"
+  },
+  "92c1c76ac051b731": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Unidades orgânicas de ensino e investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Unidades orgânicas de ensino e investigação"
+  },
+  "80772b583ea7b7b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Estrutura e autonomias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Estrutura e autonomias\n\n1 - As escolas são dotadas de autonomia administrativa, científica e pedagógica, podendo, ainda, vir a ser dotadas de autonomia financeira, nos termos da lei.\n\n2 - As escolas regem-se por estatutos próprios a homologar pelo Presidente do IPV, nos termos do n.º 2 do artigo 96.º da Lei 62/2007, de 10 de Setembro.\n\n3 - As escolas dispõem de serviços próprios de natureza administrativa e para apoio ao ensino e investigação, a definir pelos respectivos estatutos.\n\n4 - Para coadjuvar os respectivos órgãos em matérias de índole administrativa e financeira, os estatutos das escolas podem prever a existência de um secretário, livremente nomeado e exonerado pelo Presidente da escola.\n\n5 - O secretário tem as competências e atribuições que lhe sejam fixadas pelos estatutos da escola e que lhe forem delegadas pelo respectivo Presidente.\n\n6 - Os estatutos de cada escola podem criar lugares de chefia, em número e com funções adequados à respectiva organização interna e ao grau de autonomia que detenham."
+  },
+  "2b1ff4d35925c547": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Órgãos das Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Órgãos das Escolas\n\n1 - São órgãos das escolas:\n\na) A Assembleia de Representantes;\n\nb) O Presidente;\n\nc) O Conselho Técnico-científico;\n\nd) O Conselho Pedagógico;\n\ne) O Conselho Administrativo.\n\n2 - Os Estatutos de cada escola definem os princípios que devem orientar as actividades próprias bem como a sua organização interna, no respeito pelo disposto na lei e nos presentes estatutos.\n\n3 - Os estatutos das escolas devem prever a respectiva organização interna, por áreas científicas e ou por departamentos, e a existência de um responsável por cada curso."
+  },
+  "cbe44af04cf4d05e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Assembleia de Representantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Assembleia de Representantes\n\n1 - A Assembleia de Representantes de cada escola é constituída por quinze membros:\n\na) Oito representantes dos professores de carreira ou investigadores de carreira;\n\nb) Dois representantes dos assistentes ou equiparados a professores ou a assistentes, em regime de tempo integral e que possuam vínculo à instituição por período superior a três anos, à data da afixação dos cadernos eleitorais;\n\nc) Três representantes dos estudantes;\n\nd) Dois representantes do pessoal não docente.\n\n2 - Os membros a que se refere a alínea a) do n.º 1 são eleitos pelo conjunto dos professores e investigadores de carreira de cada escola.\n\n3 - Os membros a que se refere a alínea b) do n.º 1 são eleitos pelo conjunto dos assistentes e equiparados a professores ou a assistentes de cada escola, em regime de tempo integral e com contrato não inferior a um ano.\n\n4 - Os membros a que se refere a alínea c) do n.º 1 são eleitos pelo conjunto dos estudantes de cada escola, matriculados ou inscritos nos cursos conferentes de grau académico.\n\n5 - Os membros a que se refere a alínea d) do n.º 1 são eleitos pelo pessoal não docente ao serviço de cada escola.\n\n6 - A eleição dos membros da Assembleia é feita por corpos, mediante a apresentação de listas, que devem conter um número de suplentes igual a 50 % do número de efectivos.\n\n7 - No apuramento dos resultados eleitorais será aplicado o método de Hondt.\n\n8 - No caso de se verificar a impossibilidade de constituir mais que uma lista, por não existirem na escola elementos suficientes, ou, no caso de não ser apresentada qualquer lista, a votação é uninominal, nos termos do n.º 5 do artigo 68.º dos presentes estatutos.\n\n9 - O mandato dos membros eleitos é de quatro anos, para os representantes a que se referem as alíneas a), b) e d) do n.º 1, e de dois anos para os representantes dos estudantes.\n\n10 - O Presidente da Assembleia de Representantes é eleito pelos membros da Assembleia, de entre os professores de carreira que a integram.\n\n11 - O modo de eleição é regulado pelos estatutos de cada escola."
+  },
+  "b43a0c94b0fc4fd0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Competências da Assembleia de Representantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Competências da Assembleia de Representantes\n\nCompete à Assembleia de Representantes:\n\na) Eleger e destituir o Presidente da Escola, nos termos a definir pelos estatutos;\n\nb) Outras competências que lhe sejam atribuídas pelos estatutos das escolas, no respeito da lei e dos presentes estatutos, designadamente aprovar alterações aos respectivos estatutos."
+  },
+  "570ed5402f6f2262": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Presidente da Escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Presidente da Escola\n\n1 - O Presidente é eleito de entre os professores de carreira da escola.\n\n2 - Nas escolas que não reúnam condições para constituir a Assembleia de Representantes, por não existirem professores nas condições referidas na alínea a) do n.º 1 do artigo 52.º dos presentes estatutos, o respectivo presidente será livremente nomeado e exonerado pelo Presidente do IPV, de entre professores de carreira do Instituto.\n\n3 - O mandato do Presidente é de quatro anos, podendo ser renovado por uma vez.\n\n4 - O Presidente pode ser coadjuvado por vice-presidentes, até ao máximo de dois, de entre docentes em serviço na escola e por si livremente nomeados e exonerados.\n\n5 - O mandato dos vice-presidentes cessa com o do Presidente."
+  },
+  "606f1648343fe0cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Competências do Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Competências do Presidente\n\n1 - Cabem ao Presidente as competências que lhe são atribuídas pela lei e pelos estatutos da escola.\n\n2 - Os estatutos das escolas podem estabelecer que o exercício de determinadas competências do Presidente sejam, obrigatoriamente, precedidas pela audição de outros órgãos."
+  },
+  "b4dab0cea237abff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Regime da prestação de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Regime da prestação de serviço\n\nO Presidente e os vice-presidentes ficam dispensados da prestação de serviço docente sem prejuízo de, por sua iniciativa, o poderem prestar a título gracioso."
+  },
+  "c261fe455e2c00cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Conselho Técnico-Científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Conselho Técnico-Científico\n\n1 - O conselho Técnico-Científico de cada escola é constituído por representantes eleitos, nos termos do artigo 102.º da Lei 62/2007, de 10 de Setembro, em número a fixar nos respectivos estatutos, entre um mínimo de dez e um máximo de vinte cinco.\n\n2 - Nas escolas em que o número de docentes em condições de serem eleitos seja inferior a dez, o Conselho Técnico-Científico será constituído por todas as pessoas elegíveis e serão convidados professores ou investigadores de outras unidades orgânicas ou de outras instituições ou, ainda, personalidades de reconhecida competência no âmbito da missão da instituição, até perfazerem, pelo menos, aquele número.\n\n3 - Os convites a que se refere o número anterior são feitos pelo Presidente do Instituto, mediante proposta do Presidente da Escola.\n\n4 - A situação a que se referem os números anteriores cessa quando estiverem reunidas as condições para a constituição do Conselho Técnico-Científico, nos termos do n.º 1, dando-se início, de imediato, ao processo eleitoral, nos termos fixados pelos estatutos da escola.\n\n5 - O mandato dos membros do Conselho Técnico-Científico é de dois anos.\n\n6 - O Presidente do Conselho Técnico-Científico é eleito pelos membros do Conselho, de entre os professores de carreira que o integram, para um mandato de dois anos, podendo ser renovado até ao limite máximo de oito anos consecutivos, incluindo o primeiro mandato.\n\n7 - A eleição e o modo de funcionamento do Conselho Técnico-Científico são definidos pelos estatutos das escolas, no respeito pela lei e pelos presentes estatutos."
+  },
+  "90bad9919ba07024": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Competências do Conselho Técnico-científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Competências do Conselho Técnico-científico\n\nCabem ao Conselho Técnico-Científico de cada escola as competências previstas na lei e as fixadas pelos respectivos estatutos."
+  },
+  "6dc1f0bf27d32bb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Conselho Pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Conselho Pedagógico\n\n1 - O Conselho Pedagógico tem a constituição que vier a ser definida pelos estatutos de cada escola, nos termos do artigo 104.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro.\n\n2 - Na definição da composição do Conselho Pedagógico deve ser respeitada a paridade entre representantes do corpo docente e dos estudantes da respectiva escola.\n\n3 - O mandato dos membros do Conselho Pedagógico é de dois anos.\n\n4 - O Presidente do Conselho Pedagógico é eleito pelos respectivos membros de, entre os professores de carreira que o integram ou, na sua ausência, de entre professores equiparados.\n\n5 - A eleição e o modo de funcionamento do Conselho Pedagógico são definidos pelos estatutos das escolas, no respeito pela lei e pelos presentes estatutos."
+  },
+  "55b0d6426901ee37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Competências do Conselho Pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Competências do Conselho Pedagógico\n\nCabem ao Conselho Pedagógico de cada escola as competências previstas na lei e as fixadas pelos respectivos estatutos."
+  },
+  "b89ffdcf1077c601": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Conselho Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Conselho Administrativo\n\nO Conselho Administrativo é constituído pelo:\n\na) Presidente da Escola;\n\nb) Um vice-presidente;\n\nc) O Secretário ou, na sua inexistência, um elemento do pessoal não docente, a designar pelo Presidente da Escola."
+  },
+  "ed280bc23c0408d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Competências do Conselho Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Competências do Conselho Administrativo\n\n1 - Ao Conselho Administrativo competem:\n\na) As competências que lhe forem delegadas pelo Conselho de Gestão do Instituto;\n\nb) As competências próprias da autonomia financeira que, nos termos da lei, vierem a ser atribuídas às escolas.\n\n2 - Caso não seja possível constituir o Conselho Administrativo nos termos do artigo anterior, as competências referidas no n.º 1 são atribuídas ao Presidente da Escola."
+  },
+  "1543a4d91d21a14f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Unidade orgânica de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Unidade orgânica de investigação"
+  },
+  "241751bc2f491426": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — Instituto de Desenvolvimento e Investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Instituto de Desenvolvimento e Investigação\n\n1 - O Instituto de Desenvolvimento e Investigação, adiante designado por IDI, é uma unidade orgânica do IPV dotada de autonomia científica.\n\n2 - Ao IDI compete coordenar as actividades das unidades de investigação que o integram, bem como promover, incentivar e apoiar o desenvolvimento da investigação científica do IPV, no respeito pelas autonomias das escolas.\n\n3 - O IDI dispõe de regulamento a aprovar pelo Presidente do Instituto, sob proposta do seu Presidente, ouvido o Conselho Académico.\n\n4 - Fazem parte do IDI, o Centro de Estudos em Educação, Tecnologias e Saúde (CI&DETS) e as unidades de investigação que nele venham a ser integradas.\n\n5 - A criação, transformação, extinção, fusão e integração de unidades de investigação do IDI são da competência do Conselho Geral do Instituto.\n\n6 - Cada unidade de investigação do IDI dispõe de regulamento próprio, de um coordenador e de conselho científico."
+  },
+  "6e1125bbe5e8c909": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Órgãos\n\nSão órgãos do IDI:\n\na) O Presidente;\n\nb) O conselho científico."
+  },
+  "ab583940cf21e339": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Presidente\n\n1 - O Presidente do IDI é eleito de entre os membros com vínculo ao IPV, que integram os conselhos científicos das unidades de investigação.\n\n2 - O Presidente é eleito no seio do conselho científico, nos termos do regulamento.\n\n3 - O Presidente pode ser exonerado em caso de violação culposa e grave dos seus deveres ou de grave conflito institucional.\n\n4 - O Presidente é coadjuvado por um vice-presidente por si livremente escolhido, nomeado e exonerado, de entre docentes ou investigadores.\n\n5 - O Presidente do IDI pode ser dispensado de serviço docente, nos termos do regulamento."
+  },
+  "2b1ddadfc31af4fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — Competências do Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Competências do Presidente\n\n1 - Compete ao Presidente:\n\na) Representar o IDI perante os demais órgãos do Instituto;\n\nb) Presidir ao conselho científico do IDI;\n\nc) Dirigir os serviços da unidade orgânica;\n\nd) Elaborar e submeter à aprovação do Presidente do IPV, o plano de actividades do IDI, que deve incluir a estimativa do orçamento necessário para a sua implementação, bem como elaborar o respectivo relatório de actividades;\n\ne) Exercer as demais funções previstas na lei e nos estatutos;\n\nf) Exercer as funções que lhe sejam delegadas pelo Presidente do IPV ou demais órgãos do Instituto.\n\n2 - O Presidente pode delegar no vice-presidente as competências que julgar adequadas ao melhor funcionamento da unidade orgânica que dirige."
+  },
+  "e3e6214f628f83a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — Conselho Científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Conselho Científico\n\n1 - O conselho científico do IDI é constituído por oito representantes eleitos pelo conjuntos dos:\n\na) Professores e investigadores de carreira que pertençam a cada uma das unidades de investigação que integram o IDI;\n\nb) Restantes docentes e investigadores, em regime de tempo integral, com contrato de duração não inferior a um ano, que sejam titulares do grau de doutor, qualquer que seja a natureza do seu vínculo à instituição e que integrem cada uma das unidades de investigação do IDI.\n\n2 - Podem integrar o conselho científico, nos termos a fixar no regulamento, membros convidados, de entre professores ou investigadores de outras instituições, ou personalidades de reconhecida competência no âmbito da missão da instituição.\n\n3 - As competências do conselho científico, bem como a respectiva eleição são definidas no regulamento do IDI, salvaguardadas as competências próprias das escolas e a legislação especialmente aplicável."
+  },
+  "08f3efb8f6990302": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições comuns relativas aos órgãos do Instituto e das unidades orgânicas integradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições comuns relativas aos órgãos do Instituto e das unidades orgânicas integradas"
+  },
+  "e9fe672ddde1d8b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "e64eb2279e29d7d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — Eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Eleições\n\nAs eleições para os diversos órgãos do IPV e respectivas unidades orgânicas devem respeitar o estabelecido nos números seguintes:\n\n1 - Devem realizar-se por listas ou por votação uninominal, de acordo com o que for estabelecido nos respectivos estatutos.\n\n2 - No caso de a eleição se realizar por listas, o apuramento dos resultados é efectuado através do método de Hondt.\n\n3 - Com excepção da eleição para o Conselho Geral que tem sempre lugar pelo sistema de representação proporcional nos termos do artigo 81.º n.º 3 e 4 do RJIES e 13.º n.os 3 e 4 dos Estatutos, as eleições só podem realizar-se por lista se o número de elegíveis for suficiente para constituir, pelo menos, duas listas.\n\n4 - Terminado o prazo estabelecido no calendário eleitoral sem que tenha sido apresentada qualquer lista, a eleição realizar-se-á por votação uninominal.\n\n5 - Na votação uninominal, cada eleitor vota em tantos elementos elegíveis quanto o número de pessoas a eleger.\n\n6 - Os presidentes dos órgãos de gestão do IPV e das suas unidades orgânicas ou os seus substitutos legais, a quem caiba desencadear os processos eleitorais, que não cumpram os prazos estabelecidos nos respectivos estatutos, podem perder o mandato. Podem, igualmente, ficar impedidos de se candidatar a qualquer órgão do IPV e das suas unidades orgânicas por um período de quatro anos.\n\n7 - As declarações de perda de mandato e de impedimento previstas no número anterior, são da competência do Conselho Geral."
+  },
+  "f89fa9ac2a2fecb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Homologação e posse",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Homologação e posse"
+  },
+  "48b3d70d674f3250": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — Prazo para a homologação e tomada de posse",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Prazo para a homologação e tomada de posse\n\nNo prazo de 10 dias úteis, contados da recepção do processo pela entidade competente, serão homologadas as eleições e conferida posse aos membros dos órgãos do Instituto e unidades orgânicas."
+  },
+  "3d430057648db255": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Perda de mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Perda de mandato"
+  },
+  "cdfcda4526304332": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — Perda do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Perda do mandato\n\n1 - Para além das condições específicas referidas na lei e nos presentes estatutos, os membros dos órgãos do Instituto e unidades orgânicas perdem o mandato quando:\n\na) Estejam permanentemente impossibilitados de exercer as suas funções;\n\nb) Faltem a mais de três reuniões consecutivas ou cinco alternadas por mandato, excepto se a justificação for aceite pelo respectivo órgão, conforme o seu regulamento;\n\nc) Renunciem expressamente ao exercício das suas funções, nos termos a fixar pelo regulamento do respectivo órgão;\n\nd) Alterem a qualidade em que foram eleitos, nomeadamente, no caso dos estudantes, quando terminarem o curso.\n\n2 - A substituição temporária dos membros eleitos para os diversos órgãos de gestão será efectuada de acordo com o respectivo regulamento.\n\n3 - Quando exista necessidade de realizar novas eleições para o preenchimento de vagas, os novos membros apenas completarão os mandatos dos cessantes."
+  },
+  "46c8fa89e52feffd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Incompatibilidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Incompatibilidades e impedimentos"
+  },
+  "39b7f31ae7c94ab6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — Independência e conflitos de interesses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Independência e conflitos de interesses\n\n1 - Os titulares e membros dos órgãos de governo e gestão do IPV estão exclusivamente ao serviço do interesse público da instituição e são independentes no exercício das suas funções.\n\n2 - Os presidentes, vice-presidentes e pró-presidentes do Instituto, os membros do Conselho de Gestão, bem como os presidentes e vice-presidentes das respectivas unidades orgânicas, os administradores do IPV e dos SAS não podem pertencer a quaisquer órgãos de governo ou gestão de outras instituições de ensino superior, público ou privado.\n\n3 - A verificação superveniente de qualquer incompatibilidade ou impedimento acarreta a perda do mandato e a inelegibilidade ou impossibilidade de nomeação para qualquer dos cargos previstos no n.º 2, durante o período de quatro anos.\n\n4 - A competência para declarar a incompatibilidade ou impedimento é do Conselho Geral."
+  },
+  "edcc72e2f7c098ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Serviços de Acção Social Escolar (SAS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Serviços de Acção Social Escolar (SAS)"
+  },
+  "ad920b0310543df8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Atribuições\n\n1 - Os Serviços de Acção Social Escolar do IPV são vocacionados para assegurar as funções da acção social escolar, no propósito de que nenhum estudante é excluído do sistema de ensino superior por incapacidade financeira.\n\n2 - No âmbito do sistema de acção social escolar, cabe aos SAS gerir os apoios directos, nas modalidades de bolsas de estudo e auxílio de emergência.\n\n3 - Cabe, ainda, aos SAS gerir apoios indirectos, tais como o acesso à alimentação e ao alojamento, a serviços de apoio médico, psicológico e social e actividades desportivas e culturais."
+  },
+  "2079f005055dd60c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º — Autonomia administrativa e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Autonomia administrativa e financeira\n\n1 - Os SAS gozam de autonomia administrativa e financeira, dispondo da capacidade de praticar actos jurídicos, de tomar decisões com eficácia externa e de praticar actos definitivos, bem como de dispor de receitas próprias e de capacidade de as afectar a despesas aprovadas, de acordo com orçamento próprio.\n\n2 - A autonomia financeira dos SAS concretiza-se pela autonomia orçamental (dispor e gerir orçamento próprio), autonomia de tesouraria (poder de gerir os recursos monetários próprios) e autonomia creditícia (poder de contrair dívidas, com recurso a operações financeiras de crédito), nos termos da lei.\n\n3 - Os SAS dispõem de um Administrador e de Conselho Administrativo.\n\n4 - Os SAS dispõem de serviços administrativos próprios, sem prejuízo de poderem partilhar serviços do Instituto, com o objectivo da racionalização dos recursos humanos e financeiros."
+  },
+  "9085d5fb12e619f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º — Conselho Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Conselho Administrativo\n\n1 - Integram o Conselho Administrativo dos SAS:\n\na) O Presidente do IPV que preside;\n\nb) O Administrador dos SAS;\n\nc) O responsável pelos serviços administrativos e financeiros, que secretaria.\n\n2 - Ao Conselho Administrativo é atribuída a gestão financeira dos SAS, bem como as competências que decorrem da lei para as unidades dotadas de autonomia administrativa e financeira e dos presentes estatutos."
+  },
+  "fbbdaebde9354f0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º — Administrador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Administrador\n\n1 - O Administrador dos SAS é livremente escolhido pelo Presidente do IPV, de entre pessoas com saber e experiência na área da gestão.\n\n2 - O estatuto do Administrador dos SAS é equiparado ao estatuto do Administrador do IPV para todos os efeitos legais, salvo se a lei dispuser de forma diversa. Neste caso, os SAS são dirigidos por um director de serviços.\n\n3 - A duração do exercício de funções como dirigente deste serviço não pode exceder dez anos."
+  },
+  "5beae03f9f6a0fe4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Competências\n\n1 - Compete ao Administrador dos SAS a gestão corrente dos serviços.\n\n2 - Compete também ao Administrador dos SAS a elaboração da proposta de orçamento e do plano de actividades, bem como do relatório de actividades e contas, todos a submeter a aprovação do Presidente do Instituto.\n\n3 - O Administrador dos SAS tem ainda as competências que lhe forem conferidas no regulamento interno dos SAS.\n\n4 - O Presidente do IPV e o Conselho Administrativo dos SAS podem delegar no administrador as competências que considerem adequadas ao melhor funcionamento destes serviços, designadamente, a autorização de despesas e de pagamentos.\n\n5 - O Administrador elabora o regulamento interno dos SAS e submete-o a aprovação do Presidente do Instituto."
+  },
+  "cfbb63e7b9dfcfee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º — Fiscalização e consolidação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Fiscalização e consolidação de contas\n\nOs SAS estão sujeitos à fiscalização exercida pelo fiscal único do Instituto e as suas contas são consolidadas com as contas do Instituto."
+  },
+  "3a6aab69ad171168": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º — Concessão dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Concessão dos serviços\n\nA gestão dos serviços aos estudantes, como cantinas e residências, pode ser concessionada, por deliberação do Conselho de Gestão do IPV, ouvidas as Associações de Estudantes, nos termos legalmente permitidos."
+  },
+  "3386f8adb5b98346": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Administrador do IPV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Administrador do IPV"
+  },
+  "23e8ee5695a5a4d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — Nomeação e duração do exercício de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Nomeação e duração do exercício de funções\n\n1 - O IPV tem um administrador, escolhido entre pessoas com saber e experiência na área da gestão, com competência para a gestão corrente do Instituto e a coordenação dos seus serviços, sob direcção do Presidente.\n\n2 - O Administrador é livremente nomeado e exonerado pelo Presidente.\n\n3 - A duração do exercício de funções como Administrador não pode exceder dez anos."
+  },
+  "992f21b78c574b3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Competências\n\n1 - Compete ao Administrador do Instituto:\n\na) A gestão corrente do Instituto;\n\nb) Ser membro do Conselho de Gestão do Instituto;\n\nc) Colaborar com o Presidente do Instituto na elaboração da proposta de orçamento e do plano de actividades;\n\nd) Colaborar com o Presidente do Instituto na elaboração do relatório de actividades e contas.\n\n2 - O Administrador tem ainda as competências que lhe forem delegadas pelo Presidente do Instituto."
+  },
+  "1ea3d8cd68a13ca0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Serviços centrais do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Serviços centrais do Instituto"
+  },
+  "8177dae813ade8ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Organização dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Organização dos serviços"
+  },
+  "bd897b5ff8dec290": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Conceito\n\nO IPV dispõe de serviços centrais, orientados para o apoio técnico ou administrativo às actividades do IPV e das unidades orgânicas nele integradas."
+  },
+  "b57f226f42958b5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Serviços\n\n1 - São Serviços Centrais do Instituto:\n\na) Departamento de Planeamento e Gestão Administrativa e Financeira;\n\nb) Departamento Jurídico;\n\nc) Departamento Técnico;\n\nd) Departamento de Comunicação, Cultura e Relações Externas;\n\ne) Gabinete de Estudos e de Transferência de Conhecimento e Tecnologia;\n\nf) Gabinete de Avaliação e Qualidade.\n\n2 - Ao Departamento de Planeamento e Gestão Administrativa e Financeira, incumbe prestar apoio aos órgãos do Instituto e unidades orgânicas, na área do planeamento e gestão, integrando, designadamente, os seguintes serviços:\n\na) Serviços administrativos;\n\nb) Serviços de planeamento e controlo de gestão;\n\nc) Serviços de recursos humanos.\n\n3 - Ao Departamento Jurídico incumbe prestar apoio jurídico aos órgãos do Instituto e unidades orgânicas, designadamente, através da elaboração de estudos e pareceres, recolha, compilação e divulgação de legislação relevante para os serviços e apoio nas áreas disciplinar, regulamentar e de contencioso.\n\n4 - Ao Departamento Técnico incumbe prestar apoio aos órgãos do Instituto e unidades orgânicas na área técnica, integrando, designadamente, os seguintes serviços:\n\na) Serviços de informática;\n\nb) Serviços de obras;\n\nc) Serviços de manutenção;\n\nd) Serviços de higiene e segurança.\n\n5 - Ao Departamento de Comunicação, Cultura e Relações Externas, incumbe prestar apoio aos órgãos do Instituto e unidades orgânicas naquelas áreas, integrando, designadamente, os seguintes serviços:\n\na) Serviços de comunicação, cultura e documentação;\n\nb) Serviços de relações externas;\n\nc) Serviços de apoio à inserção na vida activa e acompanhamento de diplomados;\n\n6 - Ao Gabinete de Estudos e Transferência de Conhecimento e Tecnologia cabe prestar apoio aos órgãos do Instituto e unidades orgânicas nestas áreas, a nível de prestação de serviços à comunidade.\n\n7 - Ao Gabinete de Avaliação e Qualidade incumbe prestar apoio aos órgãos do IPV e unidades orgânicas, designadamente ao Conselho para a Avaliação e Qualidade, no domínio da auto-avaliação e avaliação externa do Instituto e unidades orgânicas e no domínio da Gestão da Qualidade.\n\n8 - Os departamentos a que se referem as alíneas a), b), c) e d) do n.º 1 são dirigidos por directores de serviços.\n\n9 - A criação, divisão, fusão e extinção de serviços a nível de direcções de serviços ou de divisões, é da competência do Conselho Geral, sob proposta do Presidente do Instituto.\n\n10 - A estrutura e a organização dos restantes serviços são da competência do Conselho de Gestão do IPV, cabendo ao Presidente designar os respectivos responsáveis, de entre técnicos superiores ou assistentes técnicos do Instituto."
+  },
+  "70796ceba781c68c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Pessoal"
+  },
+  "13a77c0981d2dc46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º — Princípios Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Princípios Gerais\n\n1 - O IPV deve dispor, nos termos da lei, dos meios humanos necessários ao desempenho das suas atribuições, sem prejuízo da contratação externa de serviços.\n\n2 - Cabe ao IPV o recrutamento e promoção dos seus docentes e investigadores, bem como do restante pessoal, nos termos da lei.\n\n3 - O regime do pessoal docente e de investigação é definido em lei especial."
+  },
+  "270e56aa4168d54f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Pessoal\n\n1 - O número de unidades dos quadros de pessoal docente, de investigação e outro do IPV é fixado por despacho do ministro da tutela.\n\n2 - A distribuição das vagas dos mapas de pessoal pelas diferentes categorias, no caso do pessoal docente e de investigação, e pelas diferentes carreiras e categorias, no caso do restante pessoal, é feita pelo IPV, no respeito pelas regras gerais que sejam fixadas pelo ministro da tutela sobre esta matéria.\n\n3 - As escolas possuem mapas de pessoal docente próprios.\n\n4 - O pessoal não docente e não investigador será integrado num mapa único de pessoal não docente do IPV, sem prejuízo de poder ser afectado por unidades orgânicas."
+  },
+  "2674510b095bbf45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 85.º — Limites à nomeação e contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Limites à nomeação e contratação\n\n1 - O número máximo de docentes, investigadores e outro pessoal, qualquer que seja o regime legal aplicável, que o IPV pode nomear ou contratar, é fixado por despacho do ministro da tutela.\n\n2 - Não está sujeita a quaisquer limitações, designadamente àquelas a que se refere o número anterior, a contratação de pessoal em regime de contrato individual de trabalho, cujos encargos sejam satisfeitos, exclusivamente, através de receitas próprias, incluindo nestas as referentes a projectos de investigação e desenvolvimento, qualquer que seja a sua proveniência."
+  },
+  "032dd3ba1b5a383c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO III — Autonomia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Autonomia"
+  },
+  "b255b8f8c3b79c2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Gestão patrimonial, administrativa e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Gestão patrimonial, administrativa e financeira"
+  },
+  "b292fe023265dbd0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º — Autonomia de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Autonomia de gestão\n\nO IPV goza de autonomia patrimonial, administrativa e financeira, nos termos da lei."
+  },
+  "57f7ed5ccc430151": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 87.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Património\n\n1 - Constitui património do IPV o conjunto dos bens e direitos que lhe tenham sido transmitidos pelo Estado ou por outras entidades, públicas ou privadas, para a realização dos seus fins, bem como os bens adquiridos pela própria instituição.\n\n2 - Integram o património do IPV, designadamente:\n\na) Os imóveis por este adquiridos ou construídos, mesmo que em terrenos pertencentes ao Estado, após a entrada em vigor da [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro;\n\nb) Os imóveis do domínio privado do Estado que, nos termos legais, tenham sido transferidos para o seu património.\n\n3 - O IPV administra bens do domínio público ou privado do Estado ou de outra colectividade territorial, que lhes tenham sido cedidos pelo seu titular, nas condições previstas na lei e nos protocolos firmados com as mesmas entidades.\n\n4 - O IPV pode adquirir e arrendar terrenos ou edifícios indispensáveis ao seu funcionamento, nos termos da lei.\n\n5 - O IPV pode dispor livremente do seu património, com as limitações estabelecidas na lei e nos seus estatutos.\n\n6 - A alienação, a permuta e a oneração de património ou a cedência do direito de superfície carecem de autorização por despacho conjunto do ministro responsável pela área das finanças e do ministro da tutela.\n\n7 - O IPV mantém actualizado o inventário do seu património, bem como o cadastro dos bens do domínio público ou privado do Estado que tenha a seu cuidado."
+  },
+  "8bdd3f59595dba14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 88.º — Autonomia administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Autonomia administrativa\n\n1 - O IPV goza de autonomia administrativa, estando os seus actos sujeitos somente a impugnação judicial, salvo nos casos previstos na lei.\n\n2 - No desempenho da sua autonomia administrativa, o IPV pode:\n\na) Emitir regulamentos, nos casos previstos na lei e nos seus estatutos;\n\nb) Praticar actos administrativos;\n\nc) Celebrar contratos administrativos.\n\n3 - Salvo em casos de urgência, devidamente justificados, a aprovação dos regulamentos é precedida da divulgação dos projectos e da sua discussão pelos interessados, durante o período de um mês."
+  },
+  "730014abb19492c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 89.º — Autonomia Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Autonomia Financeira\n\n1 - O IPV goza de autonomia financeira, nos termos da lei e dos seus estatutos, gerindo livremente os seus recursos financeiros conforme critérios por si estabelecidos, incluindo as verbas anuais que lhe são atribuídas no Orçamento do Estado.\n\n2 - No âmbito da autonomia financeira, o IPV:\n\na) Elabora os seus planos plurianuais;\n\nb) Elabora e executa os seus orçamentos;\n\nc) Liquida e cobra as receitas próprias;\n\nd) Autoriza despesas e efectua pagamentos;\n\ne) Procede a todas as alterações orçamentais, com excepção das que sejam da competência da Assembleia da República e das que não sejam compatíveis com a afectação de receitas consignadas.\n\n3 - O IPV pode efectuar, desde que cobertos por receitas próprias, seguros de bens móveis e imóveis e também de doença e de risco dos seus funcionários, agentes e outros trabalhadores que se desloquem, em serviço, ao estrangeiro, ou de individualidades estrangeiras que, com carácter transitório, nele prestem qualquer tipo de funções.\n\n4 - As despesas do IPV em moeda estrangeira podem ser liquidadas directamente, mediante recurso aos serviços bancários por si considerados mais apropriados e eficientes."
+  },
+  "597624480af41a63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 90.º — Transparência orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Transparência orçamental\n\nO IPV tem o dever de informação ao Estado, como garantia de estabilidade orçamental e de solidariedade recíproca, bem como o dever de prestar à comunidade, de forma acessível e rigorosa, informação sobre a sua situação financeira."
+  },
+  "6bbac6a24573d8f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 91.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Garantias\n\n1 - O regime orçamental do IPV obedece às seguintes regras:\n\na) Fiabilidade das previsões de receitas e despesas, certificada pelo fiscal único;\n\nb) Consolidação do orçamento e das contas do IPV e das unidades orgânicas nele integradas;\n\nc) Eficiência no uso dos meios financeiros disponíveis;\n\nd) Obrigação de comunicação, ao ministro responsável pela área das finanças e ao ministro da tutela, dos instrumentos de gestão previsional e de prestação de contas;\n\ne) Sujeição à fiscalização e inspecção do ministério responsável pela área das finanças.\n\n2 - O IPV está sujeito ao Plano Oficial de Contabilidade Pública para o Sector da Educação (POC - Educação).\n\n3 - O IPV está sujeito ao estabelecido na lei quanto ao equilíbrio orçamental e à disciplina das finanças públicas.\n\n4 - As regras aplicáveis ao IPV quanto ao equilíbrio orçamental são as que resultam da aplicação do n.º 4 do artigo 113.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro."
+  },
+  "c1691a5d79e8bf52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 92.º — Saldos de gerência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Saldos de gerência\n\n1 - Não são aplicáveis ao IPV, nos termos do disposto no artigo 114.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as disposições legais que prescrevem a obrigatoriedade de reposição nos cofres do Estado dos saldos de gerência provenientes das dotações transferidas do Orçamento do Estado.\n\n2 - A utilização pelo IPV dos saldos de gerência provenientes de dotações transferidas do Orçamento do Estado não carece de autorização do ministro responsável pela área das finanças e do ministro da tutela.\n\n3 - As alterações no orçamento privativo do IPV que se traduzam em aplicação de saldos de gerência não carecem de autorização do Ministro responsável pela área das finanças e do ministro da tutela."
+  },
+  "18485ed67bbbf308": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 93.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Receitas\n\n1 - Constituem receitas do IPV:\n\na) As dotações orçamentais que lhes forem atribuídas pelo Estado;\n\nb) As receitas provenientes do pagamento de propinas e outras taxas de frequência de ciclos de estudos e outras acções de formação;\n\nc) As receitas provenientes de actividades de investigação e desenvolvimento;\n\nd) Os rendimentos da propriedade intelectual;\n\ne) Os rendimentos de bens próprios ou de que tenha a fruição;\n\nf) As receitas derivadas da prestação de serviços, emissão de pareceres e da venda de publicações e de outros produtos da sua actividade;\n\ng) Os subsídios, subvenções, comparticipações, doações, heranças e legados;\n\nh) O produto da venda ou arrendamento de bens imóveis, quando autorizada por lei, bem como de outros bens;\n\ni) Os juros de contas de depósitos e a remuneração de outras aplicações financeiras;\n\nj) Os saldos da conta de gerência de anos anteriores;\n\nk) O produto de taxas, emolumentos, multas, coimas e quaisquer outras receitas que legalmente lhes advenham;\n\nl) O produto de empréstimos contraídos;\n\nm) As receitas provenientes de contratos de financiamento plurianual celebrados com o Estado;\n\nn) Outras receitas previstas na lei.\n\n2 - O IPV pode recorrer ao crédito nos termos estabelecidos na lei, mediante autorização por despacho conjunto do Ministro responsável pela área das finanças e do ministro da tutela.\n\n3 - Com excepção das dotações transferidas do Orçamento do Estado e dos saldos das contas de gerência provenientes das dotações concedidas pelo Orçamento do Estado, pode o IPV depositar em qualquer instituição bancária todas as demais receitas que arrecade.\n\n4 - As receitas a que se refere a parte final do número anterior são geridas pelo IPV através do respectivo orçamento privativo, conforme critérios por si estabelecidos.\n\n5 - As aplicações financeiras do IPV devem ser realizadas no Tesouro, salvo para um valor que não exceda 25 % do seu montante total.\n\n6 - O princípio da não consignação de receitas não se aplica:\n\na) Às receitas provenientes do Orçamento do Estado destinadas ao financiamento de despesas ou de projectos específicos;\n\nb) Às receitas que, nos termos da lei ou de contrato, se destinem a cobrir determinadas despesas."
+  },
+  "c1094ce0aa096c76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 94.º — Isenção fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Isenção fiscal\n\nO IPV e as unidades orgânicas nele integradas estão isentas, nos mesmos termos que o esteja o Estado, de impostos, taxas, custas, emolumentos e selos."
+  },
+  "4a75580847806a8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 95.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Fiscal único\n\nA gestão patrimonial e financeira do IPV é controlada por um fiscal único, designado, de entre revisores oficiais de contas ou sociedades de revisores oficiais de contas, por despacho conjunto do Ministro responsável pela área das finanças e do ministro da tutela, ouvido o Presidente, e com as competências fixadas na lei-quadro dos institutos públicos."
+  },
+  "c6309f6108bebac3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 96.º — Controlo Financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Controlo Financeiro\n\n1 - Sem prejuízo das auditorias mandadas realizar pelo Estado, o IPV promove auditorias externas, a realizar por empresas de auditoria de reconhecido mérito, por si contratadas para o efeito.\n\n2 - As auditorias externas realizam-se de dois em dois anos, devendo uma reportar-se à primeira metade do mandato do Presidente e a seguinte preceder em três meses o final do mandato correspondente.\n\n3 - Os relatórios das auditorias referidas nos números anteriores, bem como os relatórios anuais do fiscal único, são remetidos ao ministro responsável pela área das finanças e ao ministro da tutela."
+  },
+  "ef464ea76b76ad73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Autonomia disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Autonomia disciplinar"
+  },
+  "2f14899ecf4cd6e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 97.º — Poder disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Poder disciplinar\n\n1 - O IPV detém, nos termos da lei e dos presentes estatutos, o poder de punir as infracções disciplinares praticadas por docentes, investigadores e demais trabalhadores, bem como pelos estudantes.\n\n2 - O poder disciplinar pertence ao Presidente do Instituto, podendo ser delegado nos presidentes das unidades orgânicas, sem prejuízo do direito de recurso para o Presidente."
+  },
+  "cd3cad9780bee8ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 98.º — Regime disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Regime disciplinar\n\nO estatuto disciplinar aplicável ao pessoal docente e investigador e não docente e não investigador é o definido nos termos da lei."
+  },
+  "ccb5979dc6313da4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Estatuto Disciplinar dos Estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Estatuto Disciplinar dos Estudantes"
+  },
+  "55915c5f8653251c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Princípios fundamentais"
+  },
+  "b6de098998c5a730": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 99.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º — Âmbito de aplicação\n\n1 - O presente Estatuto Disciplinar é aplicável aos estudantes do Instituto.\n\n2 - A perda temporária da qualidade de estudante não impede a aplicação do presente estatuto por infracções anteriormente cometidas."
+  },
+  "46ce24225733faf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 100.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100.º — Objectivos\n\nO objectivo do Estatuto Disciplinar é salvaguardar os valores do IPV, nomeadamente, a liberdade de expressão e de opinião, a liberdade de aprender e de ensinar e garantir a integridade moral e física dos estudantes, docentes, investigadores, restantes funcionários e colaboradores e proteger os seus bens patrimoniais."
+  },
+  "2138635ae778b8c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Infracções e sanções disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Infracções e sanções disciplinares"
+  },
+  "b0dd64d9aa5fe66d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 101.º — Infracções disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º — Infracções disciplinares\n\nPratica uma infracção disciplinar o estudante que, actuando dolosamente, viola o dever de respeito pelos valores referidos no artigo 100.º, nomeadamente quando:\n\na) Impedir ou constranger o normal decurso de aulas, provas académicas ou actividades de investigação, designadamente através de violência ou ameaça de violência;\n\nb) Impedir ou constranger, por meio de violência ou ameaça de violência, o normal funcionamento de órgãos ou serviços das instituições de ensino superior;\n\nc) Falsear os resultados de provas académicas, por meio, nomeadamente, de obtenção fraudulenta de enunciados, substituição fraudulenta de respostas, utilização de materiais ou equipamentos não permitidos, simulação de identidade pessoal ou falsificação de pautas, termos e enunciados;\n\nd) Ofender a honra, a liberdade, a integridade física ou a reserva da vida privada de colegas, docentes, investigadores e restantes funcionários e quaisquer outros colaboradores;\n\ne) Aceder e utilizar indevidamente quaisquer meios informáticos;\n\nf) Ilicitamente for portador de armas ou de engenhos explosivos;\n\ng) Ilicitamente for portador de drogas, facilitar ou promover o seu tráfico;\n\nh) Danificar, subtrair ou apropriar-se ilicitamente de bens patrimoniais pertencentes a instituição de ensino superior, ou que se encontrem nas suas instalações;\n\ni) Não acatar a sanção de suspensão e a suspensão preventiva;\n\nj) Praticar actos de violência ou coacção física ou psicológica sobre outros estudantes, designadamente no quadro das «praxes académicas»."
+  },
+  "bf40c6f55d611fed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 102.º — Sanções disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 102.º — Sanções disciplinares\n\n1 - Nos termos deste Estatuto são sanções disciplinares aplicáveis pelas infracções descritas no artigo anterior:\n\na) A advertência;\n\nb) A multa;\n\nc) A suspensão temporária das actividades escolares;\n\nd) A suspensão da avaliação escolar durante um ano;\n\ne) A interdição de frequência do Instituto até cinco anos.\n\n2 - A advertência consiste numa repreensão, verbal ou escrita, pela infracção cometida.\n\n3 - A multa consiste na aplicação de uma sanção pecuniária, até um máximo de 1/5 do valor da propina fixada para a instituição.\n\n4 - A suspensão temporária das actividades escolares consiste na proibição de frequência das aulas e de prestação das provas académicas, tendo a duração mínima de três dias úteis e a duração máxima de um ano.\n\n5 - A suspensão da avaliação escolar durante um ano consiste na proibição de se submeter a avaliação de quaisquer unidades curriculares ou outro tipo de actividades escolares susceptíveis de avaliação.\n\n6 - A interdição de frequência do Instituto, até cinco anos, consiste no afastamento do estudante do IPV, com proibição de acesso e permanência em quaisquer das suas instalações, por um período de até cinco anos."
+  },
+  "0abec4853cc267c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 103.º — Efeitos das sanções disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 103.º — Efeitos das sanções disciplinares\n\nAs sanções disciplinares produzem apenas os efeitos enunciados no presente Estatuto."
+  },
+  "c1b3c5546ed2c52f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 104.º — Determinação da sanção disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 104.º — Determinação da sanção disciplinar\n\n1 - A sanção disciplinar é determinada em função das circunstâncias do caso, da medida da culpa do estudante e das exigências de prevenção, tendo em conta, nomeadamente:\n\na) O número de infracções cometidas;\n\nb) O modo de execução e as consequências de cada infracção;\n\nc) O grau de participação do estudante em cada infracção;\n\nd) A intensidade do dolo;\n\ne) As motivações e finalidades do estudante;\n\nf) A conduta anterior à prática da infracção;\n\ng) As circunstâncias atenuantes ou agravantes especiais da infracção cometida.\n\n2 - Na decisão de aplicação de uma sanção disciplinar devem ser expressamente referidos os fundamentos da determinação daquela.\n\n3 - A sanção de interdição de frequência do Instituto até cinco anos, apenas pode ser aplicada quando as outras sanções se revelarem insuficientes ou inadequadas no caso, devendo a decisão de aplicação daquela sanção conter, expressamente, os motivos da não aplicação das outras sanções disciplinares."
+  },
+  "d97e442037be2a92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 105.º — Suspensão da sanção disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 105.º — Suspensão da sanção disciplinar\n\n1 - A sanção disciplinar superior a advertência pode ser suspensa, ponderada a boa conduta anterior ou posterior à prática da infracção.\n\n2 - A suspensão caduca se o estudante vier a ser condenado, no seu decurso, em virtude de novo procedimento disciplinar."
+  },
+  "e58339e49d4601be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Procedimento disciplinar"
+  },
+  "a8ad8c34f35e307b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 106.º — Competência disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 106.º — Competência disciplinar\n\n1 - Tem legitimidade para promover o procedimento disciplinar, com as limitações decorrentes do artigo 107.º, o Presidente do Instituto ou os presidentes das unidades orgânicas, se neles delegar.\n\n2 - A aplicação da sanção de suspensão da avaliação escolar durante um ano ou da sanção de interdição de frequência do Instituto até cinco anos, carece de parecer favorável do Conselho Académico.\n\n3 - A aplicação da sanção de multa, suspensão temporária das actividades escolares, suspensão da avaliação escolar durante um ano ou da sanção de interdição de frequência do Instituto até cinco anos, a ex-membros e membros dos órgãos dirigentes das Associações de Estudantes, carece de parecer favorável do Conselho Académico, convocado especialmente para o efeito."
+  },
+  "36770d8b12b029f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 107.º — Participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 107.º — Participação\n\n1 - Se a infracção disciplinar consistir em injúrias, difamação, ameaça, coação ou ofensa corporal simples, a promoção do procedimento não depende da apresentação de queixa, por escrito, pelo ofendido, quando for presenciada por quem a participar ao órgão da instituição de ensino superior, estatutariamente competente.\n\n2 - Quando a infracção integrar a prática de ilícito criminal que não dependa de queixa ou acusação particular pelo ofendido, é obrigatória a participação nos termos da lei, ao Ministério Público.\n\n3 - Nos casos previstos no n.º 1 a queixa pode ser retirada em qualquer fase do procedimento disciplinar, antes da aplicação da sanção ao estudante, mediante a apresentação de desistência, por escrito, pelo ofendido, ao órgão da instituição de ensino superior, estatutariamente competente."
+  },
+  "5b427f45108da4e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 108.º — Procedimento de averiguações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 108.º — Procedimento de averiguações\n\n1 - Antes da instauração de um procedimento disciplinar, o Presidente ou quem tiver a competência delegada para o efeito, pode determinar a promoção de um procedimento de averiguações para investigação sumária dos factos objecto de participação, para tal nomeando um instrutor.\n\n2 - O procedimento de averiguações termina com um relatório apresentado pelo instrutor, propondo o arquivamento ou a instauração de procedimento disciplinar."
+  },
+  "688ce41e2b826d91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 109.º — Procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 109.º — Procedimento disciplinar\n\n1 - O procedimento disciplinar tem por finalidade apurar a existência de uma infracção disciplinar e determinar os seus agentes, cabendo ao instrutor ordenar, oficiosamente ou a requerimento, a produção de todos os meios de prova que repute necessários para a descoberta da verdade.\n\n2 - O instrutor é nomeado pelo Presidente ou por quem tiver a competência delegada para o efeito.\n\n3 - O procedimento disciplinar inicia-se no prazo máximo de três dias úteis a contar da data da nomeação do instrutor, sendo concluído no prazo máximo de dois meses, a contar da data do seu início.\n\n4 - Sem prejuízo do prazo estipulado no artigo anterior, o instrutor notifica o arguido para contestar, por escrito, no prazo de 10 dias úteis, a imputação da prática da infracção disciplinar.\n\n5 - No prazo máximo de 10 dias úteis a contar da conclusão da instrução do procedimento disciplinar, o instrutor elabora um relatório, no qual propõe o arquivamento respectivo ou a aplicação de uma sanção disciplinar ao estudante.\n\n6 - O relatório mencionado no número anterior é remetido ao Presidente do Instituto ou aos presidentes das unidades orgânicas se neles houver delegado e ao estudante arguido, para este, no prazo máximo de 10 dias úteis, dizer o que se lhe oferecer."
+  },
+  "f816aac06203387a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 110.º — Impedimentos, suspeição e escusa do instrutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 110.º — Impedimentos, suspeição e escusa do instrutor\n\n1 - Não pode ser nomeado instrutor do procedimento de averiguações, nem do procedimento disciplinar quem tiver sido ofendido pela eventual infracção ou quem seja parente ou afim, em linha recta ou até ao terceiro grau da linha colateral, do ofendido ou do agente da infracção.\n\n2 - Para além dos casos previstos no número anterior e no prazo máximo de cinco dias úteis, a contar da nomeação do instrutor, o estudante pode requerer ao Presidente, ou a quem tiver a competência delegada para o efeito, a suspeição do instrutor quando a intervenção deste correr o risco de ser considerada suspeita, por existir motivo, sério e grave, adequado a gerar desconfiança sobre a sua imparcialidade.\n\n3 - Quando se verificarem as condições do número anterior e no prazo máximo de cinco dias úteis, a contar da nomeação, o instrutor pode pedir ao Presidente do Instituto ou aos presidentes das unidades orgânicas se neles houver delegado, que o escuse de intervir.\n\n4 - O Presidente do Instituto ou os presidentes das unidades orgânicas se neles houver delegado, decidem do requerimento de recusa ou do pedido de escusa, no prazo máximo de 10 dias úteis."
+  },
+  "99f32532555f97db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 111.º — Suspensão preventiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 111.º — Suspensão preventiva\n\nA requerimento do instrutor do processo, o Presidente do Instituto ou os presidentes da unidades orgânicas se neles houver delegado, pode suspender preventivamente o estudante, se se verificar perigo, em razão da natureza da infracção disciplinar, de perturbação do normal funcionamento da instituição."
+  },
+  "217963daa318600f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 112.º — Decisão disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 112.º — Decisão disciplinar\n\nO Presidente, ou quem tiver a competência delegada para o efeito, aprecia o relatório elaborado pelo instrutor e a resposta do estudante, no prazo máximo de um mês, a contar de data da recepção desta ou da data em que esta já não pode ser recebida e, observadas as demais formalidades legais, procede à aplicação da sanção disciplinar."
+  },
+  "17374783cb0ab9f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 113.º — Garantias de defesa do estudante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 113.º — Garantias de defesa do estudante\n\n1 - O estudante presume-se inocente até à aplicação da sanção disciplinar ou à decisão do recurso que dela haja sido interposto.\n\n2 - O estudante não pode ser responsabilizado disciplinarmente, mais do que uma vez, pela prática da mesma infracção.\n\n3 - O estudante é notificado pessoalmente ou, não sendo esta forma de notificação possível, mediante carta registada com aviso de recepção:\n\na) Da instauração do procedimento disciplinar e da nomeação do instrutor;\n\nb) Da nota de culpa;\n\nc) Do relatório previsto no n.º 5 do artigo 109.º;\n\nd) Da aplicação da sanção disciplinar ou do arquivamento do processo;\n\ne) Da aplicação das sanções de suspensão e de interdição, acompanhada da proposta do órgão da instituição de ensino superior estatutariamente competente;\n\nf) Da decisão que recair sobre eventual recurso.\n\n4 - Juntamente com a resposta à nota de culpa, o estudante pode apresentar documentos e rol de testemunhas, cujo número não deve exceder três por cada facto, e requerer a realização de quaisquer diligências necessárias ao esclarecimento da verdade.\n\n5 - O estudante pode consultar o processo e requerer certidões de quaisquer elementos dele constantes, durante o prazo fixado para a resposta à nota de culpa.\n\n6 - O estudante tem o direito de ser ouvido pelo instrutor em qualquer fase do processo mediante requerimento fundamentado.\n\n7 - O estudante pode constituir advogado como seu representante legal.\n\n8 - Durante o prazo fixado para a contestação, o representante legal do estudante pode consultar ou pedir a confiança do processo, requerer certidões de quaisquer elementos dele constantes e assistir às diligências empreendidas a requerimento do estudante, nomeadamente participar na inquirição de testemunhas."
+  },
+  "7ce2ebee24ad373d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 114.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 114.º — Recursos\n\nDa decisão que aplicar uma sanção disciplinar não cabe recurso hierárquico, salvo se a decisão tiver sido proferida pelos presidentes das unidades orgânicas, no uso de competência delegada, caso em que cabe recurso para o Presidente."
+  },
+  "3c4f4aa16cadc37d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 115.º — Prescrição do procedimento disciplinar e da sanção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 115.º — Prescrição do procedimento disciplinar e da sanção\n\n1 - O procedimento disciplinar extingue-se, por efeito da prescrição:\n\na) Dois anos sobre a data da prática da infracção;\n\nb) Três meses sobre a data do conhecimento da infracção pelo órgão da instituição de ensino superior estatutariamente competente, sem que o processo tenha sido promovido.\n\n2 - A prescrição do procedimento disciplinar suspende-se durante o tempo em que estiver a decorrer processo disciplinar contra estudante diverso daquele a quem a prescrição aproveita, no qual venha a apurar-se infracção de que este seja responsável.\n\n3 - Se o facto qualificado de infracção disciplinar for também considerado criminalmente ilícito e o prazo de prescrição de procedimento criminal for superior a dois anos, será este, exclusivamente, o prazo aplicável ao procedimento disciplinar.\n\n4 - A sanção disciplinar prescreve no prazo de um ano, a contar da data da sua aplicação, se não se tiver iniciado ou efectuado o seu cumprimento.\n\n5 - A perda temporária da qualidade de estudante determina a suspensão do prazo previsto no número anterior."
+  },
+  "31275087ae262cd6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 116.º — Revisão do procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 116.º — Revisão do procedimento disciplinar\n\n1 - A revisão do procedimento disciplinar é admitida a todo o tempo e tem como pressuposto o surgimento de novos meios de prova que suscitem graves dúvidas sobre a justiça da decisão de aplicação da sanção disciplinar.\n\n2 - A revisão do procedimento disciplinar é determinada pelo Presidente do Instituto ou pelos presidentes das unidades orgânicas se neles houver sido delegada competência relativa ao poder disciplinar, por sua iniciativa ou a requerimento do estudante.\n\n3 - A revisão do procedimento disciplinar não suspende o cumprimento da sanção.\n\n4 - É correspondentemente aplicável ao processo de revisão, o disposto nos artigos 109.º, 110.º, 113.º e 114.º\n\n5 - Da revisão do procedimento disciplinar não pode resultar agravação da responsabilidade do estudante.\n\n6 - Se a revisão do processo disciplinar determinar a revogação ou a atenuação da sanção, o Presidente do Instituto ou os presidentes das unidades orgânicas se neles houver delegado, tornará público o resultado da revisão."
+  },
+  "0bc97b77d0613b9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 117.º — Reabilitação do estudante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 117.º — Reabilitação do estudante\n\n1 - O estudante que haja sido punido com a interdição da frequência do IPV, por período superior a dois anos, pode requerer a sua reabilitação ao Presidente do Instituto, decorridos dois anos sobre a data em que tiver tido início o cumprimento da sanção.\n\n2 - Juntamente com o requerimento, o estudante pode apresentar documentos e rol de testemunhas, cujo número não deve exceder cinco, que abonem no sentido da boa conduta posterior à interdição da frequência."
+  },
+  "69afabbd415bcb02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 118.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 118.º — Regime subsidiário\n\nEm tudo o que não estiver regulado no presente Estatuto, são aplicáveis as disposições do Estatuto Disciplinar dos funcionários e demais trabalhadores da Administração Pública."
+  },
+  "d500b407a449fcc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO IV — Revisão e alteração dos Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Revisão e alteração dos Estatutos"
+  },
+  "e5df0f94a42962e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 119.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 119.º\n\nOs Estatutos do Instituto são revistos e alterados nos termos da lei."
+  },
+  "05b436403ac5125e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — Disposições finais e transitórias"
+  },
+  "ce02f9c6b07ef399": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Funcionamento e eleição dos novos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Funcionamento e eleição dos novos órgãos"
+  },
+  "091d48e76543f6f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 120.º — Entrada em funcionamento do novo sistema de órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 120.º — Entrada em funcionamento do novo sistema de órgãos\n\nO novo sistema de órgãos entra em funcionamento com a tomada de posse do novo Presidente, ou no prazo de cinco dias contados sobre a data da conclusão do processo de constituição e tomada de posse do Conselho Geral, na ausência de declaração de renúncia do actual Presidente, no caso de se encontrar abrangido pelo n.º 3 do artigo 174.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro."
+  },
+  "a45acbab17ec5e59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 121.º — Eleição dos novos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 121.º — Eleição dos novos órgãos\n\n1 - O Presidente cuja eleição tenha sido homologada antes da data de publicação dos presentes estatutos no Diário da República, sem que tenha ocorrido a tomada de posse, toma posse perante a Assembleia do Instituto, no prazo de 10 dias a contar da data da referida publicação.\n\n2 - Caso não se verifique a situação anterior, o Presidente é eleito nos quatro meses seguintes à publicação dos presentes estatutos, nos termos do artigo 30.º e seguintes e do regulamento a aprovar em Conselho Geral.\n\n3 - O actual Conselho Geral reúne no prazo de 10 dias a contar da publicação dos presentes estatutos, mediante convocatória do Presidente do Instituto com a seguinte ordem de trabalhos: aprovação do regulamento e calendário eleitoral e designação da comissão eleitoral para eleição do novo Conselho Geral e do Presidente do Instituto, se for o caso.\n\n4 - Os prazos previstos nos presentes estatutos para eleição e cooptação dos membros do Conselho Geral e do Presidente, devem ser encurtados e ajustados de forma a dar cumprimento ao prazo referido no n.º 2.\n\n5 - Até à eleição do Presidente do Conselho Geral, nos termos da alínea a) do n.º 1 do artigo 14.º dos presentes estatutos, o órgão é, transitoriamente, presidido pelo Presidente do Instituto."
+  },
+  "e1869bd45fef17ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 122.º — Reestruturação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 122.º — Reestruturação de serviços\n\nA reestruturação dos serviços do Instituto, nos termos dos presentes estatutos, bem como a nomeação de dirigentes dos serviços, só pode ser realizada pelo novo Presidente eleito ao abrigo dos números um ou dois do artigo anterior."
+  },
+  "7a208ecaf2e80405": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Estatutos das escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Estatutos das escolas"
+  },
+  "854f9e3cffc814f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 123.º — Assembleia Estatutária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 123.º — Assembleia Estatutária\n\n1 - A Assembleia Estatutária é constituída por:\n\na) Dez representantes dos professores ou investigadores de carreira;\n\nb) Três representantes dos alunos;\n\nc) Dois representantes do pessoal não docente.\n\n2 - Os membros a que se refere a alínea a) do n.º 1 são eleitos pelo conjunto dos professores e investigadores de carreira.\n\n3 - O apuramento dos resultados é feito através do método de Hondt.\n\n4 - A eleição dos membros da Assembleia é feita por corpos e mediante apresentação de listas, que devem conter um número de suplentes igual a 50 % do número de efectivos.\n\n5 - Caso se verifique impossibilidade de fazer mais que uma lista, por não existirem na escola docentes com as condições referidas na alínea a) do n.º 1 em número suficiente, a votação é uninominal.\n\n6 - Caso se verifique a absoluta impossibilidade de constituir a Assembleia nos termos do n.º 1, esta será composta pelo Presidente do Conselho Directivo ou pelo Director da escola e cinco professores ou equiparados, dois alunos e um funcionário, a eleger pelos respectivos corpos.\n\n7 - O Presidente da Assembleia é eleito de entre os docentes que a integram.\n\n8 - O processo eleitoral para a Assembleia Estatutária, incluindo a elaboração do respectivo regulamento eleitoral, é da responsabilidade do Conselho Directivo ou Director de cada escola e deve ter início no prazo máximo de 10 dias seguidos, contados a partir da data da publicação dos presentes estatutos.\n\n9 - A homologação da eleição é da competência do Presidente do IPV."
+  },
+  "213f0c5eb83d331f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 124.º — Novos estatutos das escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 124.º — Novos estatutos das escolas\n\n1 - Os novos estatutos das escolas devem ser submetidos ao Presidente do IPV, para homologação, no prazo máximo de cinco meses contados da data de publicação dos presentes estatutos.\n\n2 - No processo de elaboração dos estatutos, a Assembleia ouve os órgãos actuais da respectiva escola.\n\n3 - Os estatutos das escolas entram em vigor no dia seguinte ao da sua publicação no Diário da República, salvo o disposto no número seguinte.\n\n4 - Os actuais órgãos das escolas mantêm-se em funcionamento ao abrigo dos estatutos anteriores até que se verifique a tomada de posse dos novos órgãos.\n\n5 - Os membros dos novos órgãos são eleitos e tomam posse no prazo de noventa dias contados da publicação dos estatutos da respectiva escola."
+  },
+  "b118faf59842a7b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Entrada em vigor"
+  },
+  "7d01a227559df215": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 125.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 125.º\n\n1 - Os presentes estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República, salvo o disposto no número seguinte.\n\n2 - Os actuais órgãos do Instituto mantêm-se em funcionamento ao abrigo dos estatutos anteriores até à tomada de posse dos novos órgãos.\n\n201599405"
+  },
+  "2f17322ac9921e29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º — Administrador",
+   "in_force_from": "2019-03-15",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 7/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2019-120999245), publicado em 2019-03-14."
+   ],
+   "markdown": "###### Artigo 75.º — Administrador\n\n1 - O Administrador dos SAS é livremente escolhido pelo Presidente do IPV, de entre pessoas com saber e experiência na área da gestão.\n\n2 - O cargo de Administrador dos SAS é equiparado a diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - A duração do exercício de funções como dirigente deste serviço não pode exceder dez anos.\n\n> Alterado pelo/a [Despacho Normativo n.º 7/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2019-120999245), publicado em 2019-03-14."
+  },
+  "e18169adc6c35ce1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — Nomeação e duração do exercício de funções",
+   "in_force_from": "2019-03-15",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 7/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2019-120999245), publicado em 2019-03-14."
+   ],
+   "markdown": "###### Artigo 79.º — Nomeação e duração do exercício de funções\n\n1 - O IPV tem um administrador, escolhido entre pessoas com saber e experiência na área da gestão, com competência para a gestão corrente do Instituto e a coordenação dos seus serviços, sob direcção do Presidente.\n\n2 - O Administrador é livremente nomeado e exonerado pelo Presidente.\n\n3 - O cargo de Administrador do IPV é equiparado a subdiretor-geral, cargo de direção superior de 2.º grau.\n\n4 - A duração do exercício de funções como Administrador não pode exceder dez anos.\n\n> Alterado pelo/a [Despacho Normativo n.º 7/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2019-120999245), publicado em 2019-03-14."
+  }
+ }
+}

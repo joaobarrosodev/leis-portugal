@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-10-05'
+version_history:
+  file: decreto-lei-195-a-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-09-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-10-05'
+    amending: pt:dre:408774:por
+    amending_title: Decreto-Lei n.º 292/92; Decreto-Lei n.º 337/93; Decreto-Lei n.º 337/93
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/195-a/1992/09/08/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:17:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 292/92; Decreto-Lei
+    n.º 337/93; Decreto-Lei n.º 337/93. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-195-a-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -180,11 +196,13 @@ e) Autonomização da Companhia Nacional de Bailado.
 
 ###### Artigo 3.º — Administrador liquidatário
 
-1 - É nomeado administrador liquidatário o licenciado Manuel Joaquim Barata Frexes, o qual é, para o efeito, requisitado aos Telefones de Lisboa e Porto (TLP), S. A.
+1 - É nomeada administradora liquidatária a licenciada Rita Lima Luzes, a qual é, para o efeito, requisitada ao Instituto Português do Património Arquitectónico e Arqueológico.
 
 2 - O administrador liquidatário tem direito à remuneração de presidente do conselho de administração de empresa pública do grupo C, nível 3.
 
 3 - O administrador liquidatário exerce as suas funções no edifício do Teatro Nacional de S. Carlos, ficando afectos à sua actividade os meios humanos e materiais da empresa em liquidação.
+
+> Alterado pelo/a [Decreto-Lei n.º 292/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1992-408774), publicado em 1992-12-30.
 
 ###### Artigo 4.º — Competências do administrador liquidatário
 
@@ -256,13 +274,15 @@ b) Não há lugar à constituição do conselho consultivo;
 
 c) Os trabalhadores da CNB mantêm o estatuto laboral que detém na empresa pública que gere o TNSC;
 
-d) A CNB fica sujeita ao regime de instalação durante o período de um ano a contar da entrada em vigor do presente diploma.
+d) A CNB fica sujeita ao regime de instalação até 31 de Dezembro de 1993.
 
 3 - Os encargos com o financiamento da CNB no ano de 1992 são satisfeitos, além das receitas próprias, pelas respectivas verbas de pessoal inscritas no orçamento da empresa pública que gere o TNSC, a transferir, e por verbas do Fundo de Fomento Cultural.
 
 4 - A CNB sucede na titularidade dos direitos transferidos para a empresa pública que gere o TNSC por força do disposto no artigo 10.º do [Decreto-Lei n.º 271/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1985-183445), de 16 de Julho, bem como na daqueles posteriormente adquiridos pela referida empresa pública em função da actividade da CNB.
 
 5 - Para efeitos do disposto no número anterior, o administrador liquidatário identificará devidamente no inventário a que se refere a alínea f) do artigo 4.º os direitos a transferir para a CNB.
+
+> Alterado pelo/a [Decreto-Lei n.º 337/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1993-645877), publicado em 1993-09-30.
 
 ###### Artigo 12.º — Cessão da posição contratual
 

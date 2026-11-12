@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:693180:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Despacho Normativo n.º 2/2006 (alterador 3), no seu n.º 6, revoga por inteiro o Despacho Normativo n.º 28/2003.",
+  "instrucoes": [
+    "Alterador 1 (DN 33/2003): requisita duas técnicas e considera alterados os anexos I e III — anexos só em imagem; sem efeito por revogação total.",
+    "Alterador 2 (DN 14/2004): altera os anexos I, II e IV (listas em imagem) e alarga o âmbito do n.º 6 à DRATM sem nova redacção — sem efeito por revogação total.",
+    "Alterador 3 (DN 2/2006): n.º 6 revoga o DN 28/2003 — revogação total; nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

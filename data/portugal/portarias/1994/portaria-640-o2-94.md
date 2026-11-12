@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-02-13'
+version_history:
+  file: portaria-640-o2-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-02-13'
+    amending: pt:dre:198929:por
+    amending_title: Portaria n.º 135/95
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/640-o2/1994/07/15/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:33:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 135/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-640-o2-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +159,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Seixo do Coa, município do Sabugal, com uma área de 1860 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Seixo do Côa, município do Sabugal, com uma área de 1844,6875 ha.
+
+> Alterado pelo/a [Portaria n.º 135/95](https://diariodarepublica.pt/dr/detalhe/portaria/135-1995-198929), publicado em 1995-02-08.
 
 2.º Pelo presente diploma é concessionada, pelo período de seis anos, à Associação Desportiva de Caça e Pesca do Seixo do Coa (registo no Instituto Florestal n.º 2.1144.92), com sede em Seixo do Coa, Sabugal, a zona de caça associativa do Seixo do Coa (processo n.º 1670 do Instituto Florestal).
 

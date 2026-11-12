@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-03-29'
+version_history:
+  file: portaria-851-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-09-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-03-29'
+    amending: pt:dre:383017:por
+    amending_title: Portaria n.º 311-C/2005
+    changes:
+    - Altera Artigo unidades 315-326
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/851/1994/09/22/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:39:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 311-C/2005. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-851-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -735,29 +750,9 @@ e) O painel deve ser instalado com o bordo inferior em posição horizontal;
 
 f) Só poderão ser instalados nos veículos painéis aprovados pela Direcção-Geral de Viacão, que determinará através de despacho as condições de aprovacão.
 
-22.º Os tractores agrícolas e as máquinas agrícolas e industriais automotrizes devem possuir, na sua parte superior, uma luz com as seguintes características:
+22.º - (Revogado.)
 
-a) Número - uma luz;
-
-b) Cor da luz emitida - amarela;
-
-c) Deve ser respeitado o seguinte posicionamento:
-
-Em largura:
-
-Deve estar colocada no plano longitudinal médio do veículo. Caso tal colocação seja impossível, deverá ser colocada no lado esquerdo do veículo;
-
-Em comprimento:
-
-Deve estar colocada sobre a estrutura de segurança, se existir, ou, em caso contrário, colocada atrás da posição do condutor;
-
-Em altura:
-
-Deve estar colocada sobre a estrutura de segurança. Caso esta não exista, será colocada na extremidade de um suporte vertical, a uma altura mínima de 1000 mm, medida a partir da parte superior do guarda-lamas da retaguarda ou, quando este não exista, do ponto mais elevado da estrutura do veículo, sem prejuízo dos limites fixados regulamentarmente;
-
-d) A luz será do tipo rotativo ou intermitente, e deverá ser visível à distância de, pelo menos, 100 m;
-
-e) Ficam dispensados da instalação da luz referida neste número os veículos que, por construção, não possuam qualquer sistema eléctrico que permita alimentar electricamente esta luz.
+> Alterado pelo/a [Portaria n.º 311-C/2005](https://diariodarepublica.pt/dr/detalhe/portaria/311-c-2005-383017), publicado em 2005-03-24.
 
 23.º Todas as luzes referidas anteriormente devem obedecer à convenção de cores e possuir as correspondentes tonalidades bem definidas e uniformes.
 
