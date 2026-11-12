@@ -25,6 +25,7 @@ PASTA = RAIZ / "rag" / "resultados" / "privado" / "llm"
 RESULTADOS = RAIZ / "rag" / "resultados"
 PERGUNTAS = (
     RAIZ / "avaliacao" / "perguntas.jsonl",
+    RAIZ / "avaliacao" / "perguntas-ue.jsonl",
     RAIZ / "avaliacao" / "privado" / "perguntas-reais.jsonl",
     RAIZ / "avaliacao" / "privado" / "perguntas-coloquiais.jsonl",
 )

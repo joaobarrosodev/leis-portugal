@@ -231,6 +231,17 @@ Pelo critério das palavras fica igual ao que era sem reescrita (95% contra 94%)
 
 **Reescrita no sistema** (10/11/2026, `rag/reescrita.py`): com `ANTHROPIC_API_KEY`, `rag.perguntar` e `rag.avaliar` reescrevem a pergunta numa consulta jurídica antes da pesquisa (regras em `rag/REESCRITA.md`, as mesmas das medições; modelo `RAG_MODELO`, esforço baixo, uma chamada curta). A pesquisa usa só a consulta; o LLM que responde vê a pergunta original. `--sem-reescrita` desliga; sem chave, ou se a chamada falhar, a pesquisa usa a pergunta tal como está. `rag.perguntar` mostra "Pesquisa por: …" e guarda a consulta em `pesquisa_por` no registo. Não foi medido com a API (não há chave): a medição acima foi com sessões do Claude a seguir as mesmas regras.
 
+**Direito da União Europeia** (12/11/2026, `ue-reescrito`: as 167 perguntas de `avaliacao/perguntas-ue.jsonl`, 123 literais, 19 de atos revogados e 25 sem resposta, tiradas ao acaso dos atos da UE em vigor do acervo; índice de 12/11 com os 18 mil atos da UE recolhidos nesse dia; mesma reescrita, modo estrito, quatro juízes às cegas):
+
+| Tipo | n | Artigo certo em 1.º | "Não sei" | Fiabilidade (juízes) | Limite inferior 95% |
+|---|--:|--:|--:|--:|--:|
+| Literais | 123 | 98% | 26% | 100% (91/91) | 96% |
+| Revogadas | 19 | 89% | 37% | 100% (12/12) | 76% |
+| Sem resposta | 25 | — | recusa 25 de 25 | — | — |
+| Total com resposta | 142 | 96% | 27% | **100% (103/103)** | **96%** |
+
+Quando responde a uma pergunta sobre um ato da UE, acerta em pelo menos 96% (pior caso, 95% de confiança). Responde a 73% das que têm resposta. A pesquisa encontra o artigo certo em 1.º lugar em 98% das literais; os 26% de "não sei" vêm do limiar do reranker (3,0), que nas perguntas da UE deixa de fora artigos certos. As revogadas certas pelos juízes e não pelo critério de palavras (7 de 12) foram lidas à mão: dizem que o ato foi revogado e por qual, como a referência, mas com a data de adoção do revogador em vez da de publicação. Ressalvas: as perguntas citam o ato (são "bem feitas", como as sintéticas de Portugal); 76 perguntas sobre a data de entrada em vigor ou de aplicação foram retiradas por serem triviais; os juízes são o mesmo modelo e não deram nenhum erro em 103, o que é pouco escrutínio; sem jurista.
+
 **Perguntas como as escreve um utilizador** (30/10/2026, `coloquial`): as 281 reais reescritas, com a mesma resposta certa, em três perfis (pessoa de 65 anos, jovem de 22, pessoa aflita com um caso): pouco contexto, sem termos jurídicos, sem números de artigos. Quatro juízes às cegas.
 
 | Medida | Reais bem escritas | Mesmas, coloquiais |

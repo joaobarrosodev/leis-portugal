@@ -30,6 +30,10 @@ Os IDs têm falhas onde uma pergunta saiu do conjunto (`rev-004`, `lit-231`, `tm
 
 As novas foram tiradas com outras sementes de `amostra.py` (20261028 a 20261031), sem repetir diplomas do piloto. Ficaram de fora os diplomas que já caducaram na prática (os que "vigoram até" uma data passada), os anexos de republicação, os artigos só de alteração de outro diploma e os de entrada em vigor.
 
+## Perguntas sobre direito da UE (12/11/2026)
+
+`perguntas-ue.jsonl`: 167 perguntas com `ambito: "ue"` e ids `ue-lit-`, `ue-rev-` e `ue-sem-`, com os tipos de sempre (`literal`, `revogada`, `sem_resposta`). Candidatos de `amostra.py --ue --semente 20261112` (e `20261113` para os substitutos): artigos de atos da UE em vigor, consolidados ou nunca alterados, sem os artigos finais (entrada em vigor, aplicação, destinatários). Geração por subagentes Opus com as regras de `ue/REGRAS-geracao.md`; verificação literal (167 de 167); verificação às cegas por Sonnet (`ue/REGRAS-verificacao.md`, `verificacao/entrada-ue.jsonl` e `respostas-b-ue.jsonl`): 136 confirmadas automaticamente e as outras 31 revistas à mão (19 revogadas em que B não sabia da revogação, que vem dos metadados do CELLAR e não do texto; 5 com as mesmas respostas por outras palavras; 7 em que o artigo remete para um anexo ou outro ato mas a resposta está no texto). Das 243 escritas, 76 sobre a data de entrada em vigor ou de aplicação foram retiradas por serem triviais. Medição em `rag/README.md`, "Direito da União Europeia".
+
 ## FAQs oficiais: termos de reutilização
 
 Verificado em 27/10/2026:

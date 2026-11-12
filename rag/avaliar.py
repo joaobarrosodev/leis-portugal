@@ -47,7 +47,10 @@ def perguntas_reais() -> Path | None:
     return None
 
 
-def ler_perguntas(incluir_reais: bool = True) -> list[dict]:
+def ler_perguntas(incluir_reais: bool = True, ficheiro: Path | None = None) -> list[dict]:
+    """As perguntas do conjunto (e as reais e coloquiais, se existirem), ou só as de `ficheiro`."""
+    if ficheiro is not None:
+        return [json.loads(linha) for linha in ficheiro.read_text(encoding="utf-8").splitlines() if linha.strip()]
     ficheiros = [RAIZ / "avaliacao" / "perguntas.jsonl"]
     reais = perguntas_reais()
     if incluir_reais and reais:

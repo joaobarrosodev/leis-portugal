@@ -33,7 +33,16 @@ from comum import EXPORT, RAIZ, Artigo, artigos, corpo, menciona_artigo, normali
 
 EM_VIGOR = "legal_status in ('in_force', 'partially_in_force') and id not in (select source_id from relacoes where type = 'repealed_by')"
 NACIONAL = "jurisdiction in ('portugal', 'regional') and text_quality = 'texto'"
+UE = "jurisdiction = 'european_union' and text_quality = 'texto'"
+# Texto atual garantido: o consolidado. Com `--ue`, também o original de um ato nunca alterado
+# (sem `amended_by`), que é o texto em vigor de quase todos os atos da UE.
+TEXTO_ATUAL = "version_kind = 'consolidated'"
+TEXTO_ATUAL_UE = "(version_kind = 'consolidated' or id not in (select source_id from relacoes where type = 'amended_by'))"
 _ORTOGRAFIA = [("cç", "ç"), ("pç", "ç"), ("ct", "t"), ("pt", "t")]
+
+
+# Artigo final de um ato da UE (entrada em vigor, aplicação, destinatários): não dá pergunta.
+_FINAL_UE = re.compile(r"entra em vigor|é obrigatório em todos os seus elementos|são os destinatários|é aplicável a partir de", re.I)
 
 
 def util(artigo: Artigo) -> bool:
@@ -46,6 +55,7 @@ def util(artigo: Artigo) -> bool:
         and "Promulgado em" not in texto
         and "republica" not in artigo.parte.lower()
         and not texto.startswith(("É aprovad", "São aprovad"))
+        and not (NACIONAL == UE and _FINAL_UE.search(texto))
     )
 
 
@@ -72,7 +82,7 @@ def escolher(caminho: str, rng: random.Random) -> Artigo | None:
 
 def literais(db: sqlite3.Connection, rng: random.Random, n: int) -> list[dict]:
     linhas = db.execute(
-        f"select id, title, path from documentos where version_kind = 'consolidated' and {NACIONAL} and {EM_VIGOR}"
+        f"select id, title, path from documentos where {TEXTO_ATUAL} and {NACIONAL} and {EM_VIGOR}"
     ).fetchall()
     rng.shuffle(linhas)
     resultado = []
@@ -349,7 +359,11 @@ def main() -> int:
     parser.add_argument("--tipos", help="tipos a gerar, separados por vírgulas (por omissão, todos)")
     parser.add_argument("--documentos", help="títulos de diplomas consolidados para `composta`, separados por ponto e vírgula")
     parser.add_argument("--por-diploma", type=int, default=3)
+    parser.add_argument("--ue", action="store_true", help="atos da UE em vez da legislação portuguesa (literal, revogada, distrator)")
     args = parser.parse_args()
+    if args.ue:
+        global NACIONAL, TEXTO_ATUAL
+        NACIONAL, TEXTO_ATUAL = UE, TEXTO_ATUAL_UE
 
     db = sqlite3.connect(EXPORT)
     args.saida.mkdir(parents=True, exist_ok=True)

@@ -49,11 +49,11 @@ def pesquisar(pesquisa: Pesquisa, p: dict, reescrita: dict[str, str]):
     return reescrita_mod.pesquisar(pesquisa, p["pergunta"], p["data_referencia"], k=max(avaliar.KS), consulta=reescrita.get(p["id"], p["pergunta"]))
 
 
-def exportar(nome: str, tipos: set[str], por_lote: int, limiar: float, indice: Path | None, reescrita: dict[str, str]) -> None:
+def exportar(nome: str, tipos: set[str], por_lote: int, limiar: float, indice: Path | None, reescrita: dict[str, str], ficheiro: Path | None = None) -> None:
     from rag.modelos import Reranker
 
     pesquisa = Pesquisa(indice, reranker=Reranker("cruzado"))
-    perguntas = [p for p in avaliar.ler_perguntas() if p["tipo"] in tipos]
+    perguntas = [p for p in avaliar.ler_perguntas(ficheiro=ficheiro) if p["tipo"] in tipos]
     pasta = PASTA / nome
     pasta.mkdir(parents=True, exist_ok=True)
     for f in pasta.glob("entrada-*.jsonl"):
@@ -79,7 +79,7 @@ def exportar(nome: str, tipos: set[str], por_lote: int, limiar: float, indice: P
     print(f"{len(entradas)} perguntas para o LLM em {-(-len(entradas) // por_lote)} lotes; {regras} já são 'não sei' pelas regras.")
 
 
-def importar(nome: str, tipos: set[str], limiar: float, indice: Path | None, reescrita: dict[str, str]) -> None:
+def importar(nome: str, tipos: set[str], limiar: float, indice: Path | None, reescrita: dict[str, str], ficheiro: Path | None = None) -> None:
     from rag.modelos import Reranker
 
     respostas: dict[str, dict] = {}
@@ -90,7 +90,7 @@ def importar(nome: str, tipos: set[str], limiar: float, indice: Path | None, ree
                 respostas[d["id"]] = d
     pesquisa = Pesquisa(indice, reranker=Reranker("cruzado"))
     linhas, em_falta = [], 0
-    for p in (p for p in avaliar.ler_perguntas() if p["tipo"] in tipos):
+    for p in (p for p in avaliar.ler_perguntas(ficheiro=ficheiro) if p["tipo"] in tipos):
         consulta = pesquisar(pesquisa, p, reescrita)
         motivo = nao_sei_antes(consulta, limiar)
         if motivo:
@@ -116,12 +116,13 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--limiar", type=float, default=LIMIAR_PADRAO)
     parser.add_argument("--indice", type=Path)
     parser.add_argument("--reescrita", type=Path, help="Pasta com saida-*.jsonl (id, consulta) para pesquisar com a consulta jurídica.")
+    parser.add_argument("--perguntas", type=Path, help="Só as perguntas deste ficheiro (p. ex. avaliacao/perguntas-ue.jsonl).")
     args = parser.parse_args(argv)
     tipos = set(args.tipos.split(","))
     if args.acao == "exportar":
-        exportar(args.nome, tipos, args.lote, args.limiar, args.indice, ler_reescrita(args.reescrita))
+        exportar(args.nome, tipos, args.lote, args.limiar, args.indice, ler_reescrita(args.reescrita), args.perguntas)
     else:
-        importar(args.nome, tipos, args.limiar, args.indice, ler_reescrita(args.reescrita))
+        importar(args.nome, tipos, args.limiar, args.indice, ler_reescrita(args.reescrita), args.perguntas)
     return 0
 
 
