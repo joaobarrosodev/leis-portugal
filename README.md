@@ -16,7 +16,7 @@ O objetivo é tornar o ordenamento jurídico português mais acessível, pesquis
 | Registos | ~360 mil: ~275 mil da legislação nacional (1.ª Série desde 1833, praticamente completa face aos sitemaps do DRE, e parte da 2.ª Série), ~31 mil regionais (Açores e Madeira, incluindo o catálogo do Jornal Oficial dos Açores) e ~54 mil atos da UE (96 % dos que estão em vigor) |
 | Texto | ~246 mil com texto pesquisável; ~70 mil só com o PDF oficial (sobretudo 1910–1959, digitalizações); ~24 mil só com metadados, porque a fonte não tem texto nem PDF |
 | Versões | ~10 mil diplomas e atos com o histórico de versões (`.versoes.json`) e consulta do texto numa data (`version-at`) |
-| Texto em vigor consolidado pelo leis-portugal | ~2,3 mil diplomas que o DRE dá como alterados mas não consolida: alterações aplicadas por regras ou por um LLM e verificadas às cegas por outro modelo; marcados como **sem valor oficial** (ver [`consolidacao/`](consolidacao/README.md)) |
+| Texto em vigor consolidado pelo leis-portugal | mais de 2,6 mil diplomas que o DRE dá como alterados mas não consolida: alterações aplicadas por regras ou por um LLM e verificadas às cegas por outro modelo; marcados como **sem valor oficial** (ver [`consolidacao/`](consolidacao/README.md)) |
 | Relações | ~1,04 milhões de relações (alterações, revogações, retificações, citações, transposições); ~89% apontam para um documento do acervo |
 | Decisões (fora da legislação) | 7.892 decisões da CNPD (todas menos as autorizações, ainda em recolha), só 41 % com texto porque a maioria dos PDF são digitalizações; 29.388 acórdãos do Tribunal Constitucional, todos os de 1983 a 2026 que têm texto no site; 2.896 normas julgadas tiradas da decisão dos de 2016 a 2026, ligadas ao diploma (90 % de precisão medida às cegas) |
 | Fontes operacionais | Diário da República Eletrónico (DRE), EUR-Lex/CELLAR, CNPD e Tribunal Constitucional |
@@ -41,7 +41,7 @@ O que ainda não consegue (sem isto, os números enganam):
 - **Perguntas que precisam de dois artigos** ficam sem resposta em cerca de 1 em cada 4.
 - **É um protótipo:** as medições foram feitas com sessões do Claude, não com um serviço em produção.
 
-Os números por tipo de pergunta estão em [Cobertura e progresso](#cobertura-e-progresso) e o pormenor em [`rag/README.md`](rag/README.md).
+Os números por tipo de pergunta estão em [Cobertura e progresso](#cobertura-e-progresso) e o pormenor em [`rag/README.md`](rag/README.md). Para divulgar o projeto, há textos prontos e a lista do que não se pode afirmar em [`COMUNICACAO.md`](COMUNICACAO.md).
 
 ## Índice
 
