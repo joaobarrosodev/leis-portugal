@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:538625:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "A1 (RAR 57/2010): altera o artigo 10.º-A da RAR 20/2004 (aditado pelo original) — instrução dirigida a outro diploma, ignorada",
+    "A2 (RAR 74/2018) e A3 (RAR 125/2025): sem texto de instruções dirigidas ao original — nada a aplicar"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

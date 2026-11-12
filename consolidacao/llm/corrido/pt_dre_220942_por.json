@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:220942:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Diploma revogado por inteiro: o n.º 13.º da Portaria n.º 654/74 (alterador 1) revoga a Portaria n.º 680/71.",
+  "instrucoes": [
+    "Alterador 1, n.º 13.º: revoga a Portaria n.º 680/71 por inteiro — nada devolvido, registado em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

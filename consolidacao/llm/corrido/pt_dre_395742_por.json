@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:395742:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "3) Pessoal assalariado - um chanceler; um tradutor-intérprete; dois secretários de 1.ª classe; um secretário de 3.ª classe; um motorista; um contínuo, e dois auxiliares de serviço.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (DL 133/85, art. 1.º): o quadro do pessoal especializado passa a ser o do mapa I, que só vem em imagem; não é alteração textual da portaria. Alterador 4 (Portaria 901/2006, 1.º): cria um lugar de adido ou conselheiro no quadro da Missão junto da UNESCO sem dar nova redação; alteração não textual. A Portaria 333/95, referida pelo alterador 3, não consta dos alteradores.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 3 (unidade 6); substituída depois pela redação do alterador 3, por isso só se devolve a final.",
+    "Alterador 2: mapa I em imagem, não aplicado.",
+    "Alterador 3: nova composição do n.º 3 (unidade 6), substituída.",
+    "Alterador 4: criação de um lugar sem redação, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

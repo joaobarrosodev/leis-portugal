@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-05-07'
+version_history:
+  file: portaria-832-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-10-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-05-07'
+    amending: pt:dre:152325:por
+    amending_title: Portaria n.º 244/85
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:14:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 244/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-832-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -166,7 +181,9 @@ Verificando-se a inexistência de vagas nos quadros de pessoal da Secretaria-Ger
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e do Trabalho e Segurança Social e pelo Secretário de Estado da Administração Pública, o seguinte:
 
-1.º Os quadros de pessoal da Secretaria-Geral e da Inspecção-Geral do Trabalho, aprovados pelo [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março, e alterados pelas Portarias n.os [710/79](https://diariodarepublica.pt/dr/detalhe/portaria/710-1979-365767), de 29 de Dezembro, [90-A/80](https://diariodarepublica.pt/dr/detalhe/portaria/90-a-1980-525383), de 6 de Março, [173/82](https://diariodarepublica.pt/dr/detalhe/portaria/173-1982-600507), de 8 de Fevereiro, [432/82](https://diariodarepublica.pt/dr/detalhe/portaria/432-1982-606762), de 29 de Abril, e [904/82](https://diariodarepublica.pt/dr/detalhe/portaria/904-1982-375201), de 25 de Setembro, são aumentados dos lugares constantes, respectivamente, dos mapas I e II anexos ao presente diploma, a extinguir quando vagarem.
+1.º O quadro de pessoal da Secretaria-Geral, aprovado pelo [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março, e alterado pelas Portarias n.os [710/79](https://diariodarepublica.pt/dr/detalhe/portaria/710-1979-365767), de 29 de Dezembro, [90-A/80](https://diariodarepublica.pt/dr/detalhe/portaria/90-a-1980-525383), de 6 de Março, [173/82](https://diariodarepublica.pt/dr/detalhe/portaria/173-1982-600507), de 8 de Fevereiro, [432/82](https://diariodarepublica.pt/dr/detalhe/portaria/432-1982-606762), de 29 de Abril, e [904/83](https://diariodarepublica.pt/dr/detalhe/portaria/904-1983-442901), de 25 de Setembro, e o da Inspecção-Geral do Trabalho, aprovado pelo [Decreto-Lei n.º 327/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1983-453199), de 8 de Julho, são aumentados dos lugares constantes, respectivamente, dos mapas I e II anexos ao presente diploma, a extinguir quando vagarem.
+
+> Alterado pelo/a [Portaria n.º 244/85](https://diariodarepublica.pt/dr/detalhe/portaria/244-1985-152325), publicado em 1985-05-02.
 
 2.º Este diploma produz efeitos a partir de 1 de Maio de 1984.
 

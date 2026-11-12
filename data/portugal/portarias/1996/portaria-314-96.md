@@ -39,10 +39,38 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-05-15'
+version_history:
+  file: portaria-314-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-05-15'
+    amending: pt:dre:313815:por
+    amending_title: Portaria n.º 482/2001
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/314/1996/07/29/p/dre/pt/html
@@ -68,7 +96,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:26:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 482/2001. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-314-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,178 +184,90 @@ REGULAMENTO DE APOIO FINANCEIRO DIRECTO À PRODUÇÃO CINEMATOGRÁFICA
 
 ###### Artigo 1.º — Âmbito de aplicação
 
-O presente Regulamento abrange os apoios financeiros à produção cinematográfica a conceder pelo Instituto Português da Arte Cinematográfica e Audiovisual (IPACA ou Instituto), com o fim de completar os contributos obtidos pelo produtor junto de outras entidades financiadoras para a montagem financeira do projecto de filme de longa metragem de ficção.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.
 
 ###### Artigo 2.º — Complementaridade do apoio directo
 
-O apoio a conceder pelo IPACA, mediante a atribuição de financiamento directo, é sempre complementar de outros financiamentos já garantidos e comprovados e é condicionado à existência de uma percentagem mínima de financiamento exterior, a definir por despacho do Ministro da Cultura.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.
 
 ###### Artigo 3.º — Modalidade de apoio financeiro
 
-O financiamento directo a conceder pelo IPACA reveste unicamente a forma de subsídio a fundo perdido.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.
 
 ###### Artigo 4.º — Limites do apoio financeiro
 
-1 - O apoio financeiro a conceder ao abrigo do presente Regulamento é fixado anualmente, em quantia global, por despacho do Ministro da Cultura.
+(Revogado.)
 
-2 - Serão igualmente fixados por despacho do Ministro da Cultura os limites máximos do apoio a conceder a cada produção, tanto em valor absoluto como em percentagem do respectivo custo total.
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.
 
 ###### Artigo 5.º — Forma de concessão do apoio directo
 
-1 - Os apoios financeiros previstos no presente Regulamento são atribuídos mediante concurso.
+(Revogado.)
 
-2 - Compete ao Ministro da Cultura determinar o número de concursos a realizar anualmente.
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.
 
 ###### Artigo 6.º — Beneficiários
 
-1 - Podem beneficiar do apoio financeiro directo os produtores cinematográficos que se encontrem devidamente inscritos no IPACA.
+(Revogado.)
 
-2 - Quando se tratar de uma co-produção, o apoio financeiro será atribuído ao produtor ou produtores nacionais da obra cinematográfica.
-
-3 - As obras apresentadas deverão obedecer aos requisitos enunciados no artigo 13.º do [Decreto-Lei n.º 350/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1993-645305), de 7 de Outubro.
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.
 
 ###### Artigo 7.º — Publicitação do concurso
 
-1 - Compete ao IPACA anunciar a abertura do concurso, por aviso afixado na sua sede e publicado, simultaneamente, em dois jornais de grande expansão nacional.
+(Revogado.)
 
-2 - O aviso fará obrigatoriamente menção dos seguintes valores e do despacho que os aprovou:
-
-a) Montante global dos apoios a conceder;
-
-b) Percentagem mínima de financiamento exterior a que se refere o artigo 2.º;
-
-c) Limites a que se refere o n.º 2 do artigo 4.º
-
-3 - O aviso estabelecerá igualmente o prazo de apresentação das candidaturas, que não poderá ser inferior a 20 dias.
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.
 
 ###### Artigo 8.º — Apresentação das candidaturas
 
-1 - O pedido de concessão de financiamento directo à produção cinematográfica deve ser apresentado no IPACA, mediante requerimento, do qual constem:
+(Revogado.)
 
-a) A identificação completa e o domicílio ou sede dos requerentes;
-
-b) O número de telefone ou de telefax para notificações verbais;
-
-c) O título do projecto concorrente;
-
-d) O montante do apoio financeiro pretendido.
-
-2 - O requerimento a que se refere o número anterior deve ser instruído com os seguintes documentos:
-
-a) Certidão do registo comercial da entidade ou entidades produtoras e, relativamente aos produtores estrangeiros, documento equiparável que identifique os seus titulares e administradores;
-
-b) Currículo do realizador, com menção das presenças e dos prémios e distinções que tenha recebido em festivais nacionais e internacionais;
-
-c) Nível comprovado de audiência, expresso na venda de bilhetes durante o período de exibição comercial, no País ou no estrangeiro, das obras anteriores do mesmo realizador estreadas nos últimos cinco anos, bem como número comprovado de passagens das mesmas obras em televisão;
-
-d) Currículo do produtor ou co-produtores;
-
-e) Argumento cinematográfico e demais elementos que o produtor considere relevantes para a apreciação do projecto, tendo em conta os critérios de apreciação definidos no artigo 10.º;
-
-f) Sinopse;
-
-g) Formato e suporte;
-
-h) Duração prevista;
-
-i) Locais de filmagem e décors;
-
-j) Datas previstas de rodagem, montagem, sonorização e entrega da cópia síncrona;
-
-l) Autorizações do realizador, do argumentista e do autor de obra preexistente, prestadas nos termos do Código do Direito de Autor e Direitos Conexos;
-
-m) Registo do argumento cinematográfico na Direcção-Geral dos Espectáculos;
-
-n) Orçamento, segundo modelo do IPACA, e montagem financeira do projecto;
-
-o) Prova das participações financeiras exteriores ao IPACA que garantam a cobertura financeira do projecto, incluindo plano financeiro, plano de liquidação, condições de reembolso aos co-financiadores e outras condições eventualmente estabelecidas em acordos feitos com outras entidades, sendo obrigatória, em caso de co-produção ou co-participação, a especificação quantificada de cada um dos financiamentos, a sua proveniência e a sua calendarização;
-
-p) Contratos de distribuição e difusão da obra cinematográfica já celebrados ou negociados;
-
-q) Declarações comprovativas da inexistência de obrigações por cumprir perante a administração fiscal e a segurança social.
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.
 
 ###### Artigo 9.º — Admissão das candidaturas
 
-1 - No prazo de 10 dias a contar do termo do prazo para a apresentação das candidaturas, o IPACA verifica se os pedidos se encontram instruídos com as menções e os documentos referidos no artigo anterior e notifica os candidatos para, no prazo de cinco dias, suprir eventuais omissões e deficiências.
+(Revogado.)
 
-2 - Os pedidos que não forem completados ou corrigidos nos termos da parte final do número anterior serão liminarmente rejeitados pelo IPACA.
-
-3 - Serão igualmente rejeitadas as candidaturas que se encontrem nalguma das situações a seguir descritas, se o requerente, notificado para o efeito e no prazo de cinco dias, não apresentar esclarecimentos que as justifiquem:
-
-a) Candidaturas cujo orçamento seja considerado pelo IPACA manifestamente exagerado;
-
-b) Candidaturas cujo projecto não se mostre exequível dentro do orçamento proposto;
-
-c) Candidaturas cujos financiamentos exteriores não ofereçam garantias mínimas de credibilidade e solidez;
-
-d) Candidaturas cujos produtores não tenham cumprido obrigações anteriores para com o IPACA.
-
-4 - Da rejeição liminar cabe reclamação, no prazo de cinco dias, para a direcção do IPACA, que decide definitivamente em idêntico prazo.
-
-5 - A rejeição liminar e a decisão da reclamação são notificadas aos interessados, juntamente com os respectivos fundamentos, nos termos do Código do Procedimento Administrativo.
-
-6 - Decididas as reclamações ou terminados os prazos para a sua apresentação, o IPACA torna pública a lista das candidaturas admitidas, mediante aviso comunicado aos concorrentes e afixado na sua sede.
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.
 
 ###### Artigo 10.º — Apreciação das candidaturas
 
-1 - A apreciação das candidaturas é feita pelo IPACA, com base no parecer técnico de uma comissão designada para o efeito pelo Ministro da Cultura, sob proposta do Instituto, e constituída por três personalidades de reconhecido mérito.
+(Revogado.)
 
-2 - A apreciação das candidaturas deverá estar concluída dentro do prazo de 10 dias após a comunicação do aviso de admissão a que se refere o n.º 5 do artigo anterior.
-
-3 - O parecer técnico pontuará os projectos concorrentes, na escala de 1 a 5, em cada um dos seguintes aspectos:
-
-a) Currículo do realizador, com especial incidência nos últimos cinco anos, tendo designadamente em conta:
-
-aa) O nível de audiência, expresso na venda de bilhetes durante o período de exibição comercial, no País ou no estrangeiro, das suas obras anteriores, bem como o número de passagens das mesmas obras em televisão;
-
-ab) As presenças, prémios e distinções em festivais nacionais e internacionais;
-
-b) Currículo do produtor, com especial incidência no seu trabalho nos últimos cinco anos, considerando o número de obras produzidas e distribuídas no País e no estrangeiro, as receitas obtidas com as mesmas e as presenças, os prémios e as distinções em festivais nacionais ou internacionais;
-
-b) Interesse estratégico do projecto para o cinema português, tendo em conta o currículo dos parceiros nacionais ou não nacionais do produtor e as garantias de distribuição e difusão da obra a produzir.
-
-4 - Para efeitos de ordenação das candidaturas, ter-se-á em conta a mais alta das pontuações obtida nas subalíneas aa) ou ab) do número anterior.
-
-5 - Havendo candidaturas com igual pontuação em número que exceda os apoios a conceder, deverá o parecer técnico, para efeitos de desempate, pontuar os respectivos projectos, igualmente na escala de 1 a 5, tendo em conta a importância da componente nacional da obra do ponto de vista técnico, cultural e artístico.
-
-6 - O IPACA procede à ordenação das candidaturas com base no parecer técnico, justificando adequadamente as alterações feitas à pontuação dos concorrentes, se a elas houver lugar, e elabora a proposta de atribuição dos apoios financeiros.
-
-7 - O IPACA poderá a todo o tempo proceder à reavaliação dos financiamentos exteriores e excluir as candidaturas que não ofereçam as garantias mínimas indispensáveis a esses financiamentos.
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.
 
 ###### Artigo 11.º — Decisão
 
-1 - No prazo de 10 dias após a recepção da proposta do IPACA, o Ministro da Cultura decide a atribuição dos apoios financeiros directos com base na proposta apresentada, no montante de assistência financeira disponível e no financiamento solicitado.
+(Revogado.)
 
-2 - Compete ao IPACA tornar pública a lista dos apoios concedidos, mediante aviso afixado na sua sede e comunicado a todos os candidatos.
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.
 
 ###### Artigo 12.º — Acordo de apoio financeiro
 
-1 - A prestação do subsídio atribuído nos termos do artigo anterior é feita nos termos de acordo de apoio financeiro a celebrar entre o IPACA e o respectivo beneficiário.
+(Revogado.)
 
-2 - O acordo de apoio financeiro deve ser celebrado no prazo máximo de 60 dias a contar da notificação do IPACA para o efeito e dele constarão obrigatoriamente:
-
-a) Um plano de trabalhos, incluindo as datas de início e fim da rodagem;
-
-b) O prazo, não superior a dois anos, de entrega da cópia síncrona no IPACA;
-
-c) Um plano de entrega das prestações em que se desdobra o pagamento do subsídio.
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.
 
 ###### Artigo 13.º — Entrega das prestações e fiscalização
 
-1 - O pagamento de cada prestação é condicionado ao cumprimento do plano de trabalhos acordado e à prestação de contas, como demonstração da boa aplicação das quantias entregues.
+(Revogado.)
 
-2 - O IPACA pode verificar a qualquer momento as contas referentes ao filme, fiscalizar o prosseguimento dos trabalhos e exigir relatórios de execução.
-
-3 - A última prestação do subsídio, no valor mínimo de 5% do montante global do apoio, é destinada a suportar os custos que caibam ao produtor na promoção e estreia comercial da obra e o seu pagamento fica condicionado à entrega dos elementos referidos no n.º 3 do artigo 15.º do regulamento aprovado pela [Portaria n.º 86/96](https://diariodarepublica.pt/dr/detalhe/portaria/86-1996-534039), de 18 de Março, juntamente com os elementos que comprovem o cumprimento das condições em que se baseou a atribuição do apoio financeiro.
-
-4 - Concluído o filme com a entrega da cópia síncrona, bem como de uma cópia da obra, que o IPACA depositará para guarda da Cinemateca Portuguesa - Museu do Cinema, o produtor apresenta ao IPACA as contas finais da produção, certificadas por um contabilista devidamente credenciado.
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.
 
 ###### Artigo 14.º — Desistência
 
-1 - Os beneficiários podem desistir do apoio concedido até ao momento da celebração do acordo de apoio financeiro referido no artigo 12.º
+(Revogado.)
 
-2 - Em caso de desistência, o apoio financeiro reverte a favor do candidato ordenado imediatamente a seguir na lista final aprovada.
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.
 
 ###### Artigo 15.º — Sanções
 
-A falta de cumprimento das obrigações assumidas pelo beneficiário e a prestação de falsas declarações são punidas, independentemente de outros procedimentos aplicáveis, com as sanções previstas nos artigos 16.º e 17.º do regulamento aprovado pela [Portaria n.º 86/96](https://diariodarepublica.pt/dr/detalhe/portaria/86-1996-534039), de 18 de Março.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10.

@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:280073:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "(Concurso de admissão)",
+      "texto": "1 - A admissão no quadro será feita, tendo em atenção o disposto no artigo 2.º, por concurso documental ou por prestação de provas, anunciados:\n\na) Nas ordens de serviço das unidades e estabelecimentos militares, para os grupos de pessoal de alimentação, depósito, desenho, oficinal, auxiliar, vigilância, não especificado e para os concursos abertos apenas ao pessoal do QPCE;\n\nb) No Diário da República e nas ordens de serviço das unidades e estabelecimentos militares, para os restantes grupos de pessoal e quando os concursos sejam alargados ao mercado nacional de trabalho.\n\n2 - O concurso documental destina-se à admissão dos seguintes grupos de pessoal:\n\nTécnico superior;\n\nParamédico (excepto protésico).\n\n3 - O pessoal docente será admitido nos termos de legislação específica.\n\n4 - A prestação de provas destina-se à admissão dos seguintes grupos de pessoal:\n\na) Escritas, para o grupo de pessoal administrativo e de codificação de vencimentos, respectivamente, nas categorias:\n\nTerceiro-oficial;\n\nPreparador de vencimentos de 3.ª classe;\n\nb) Práticas, para os restantes grupos de pessoal, com excepção dos grupos de vigilância e auxiliar.",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Concursos documentais - Listas de admissão)",
+      "texto": "1 - Quando o recrutamento se fizer através de concurso documental, a Direcção do Serviço de Pessoal, dentro de vinte dias a contar do termo do prazo referido no n.º 6 do artigo 5.º, promoverá a publicação em Diário da República das listas dos candidatos que preencham as condições de admissão.\n\n2 - As listas serão organizadas por um júri nomeado para o efeito, que terá em atenção as habilitações literárias e profissionais, os corrículos e ainda as condições de preferência a que se refere o artigo 13.º\n\n3 - O júri será nomeado por despacho do director do Serviço de Pessoal e terá a seguinte constituição:\n\nPresidente - um oficial superior, do activo ou da reserva, de qualquer arma ou serviço.\n\nVogais - três oficiais de patente não inferior a capitão, do activo ou da reserva, de qualquer arma ou serviço.",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "(Condições de promoção)",
+      "texto": "1 - São condições de promoção:\n\na) Encontrar-se na categoria imediatamente inferior à categoria em que se verificar a vacatura;\n\nb) Ter na sua categoria ou em categoria equivalente:\n\n1) Três anos de serviço efectivo, para as categorias em que não é exigido concurso de promoção;\n\n2) Três anos de serviço efectivo à data do termo do prazo de entrega do requerimento do concurso, para as categorias em que este seja condição de promoção.\n\nc) Ter boas informações de serviço.\n\n2 - O ajudante general do Exército pode, sempre que as condições o exijam e através de despacho fundamentado, reduzir temporariamente o tempo de permanência na categoria previsto na alínea b) do número anterior.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 532/78): nova redação do artigo 19.º — aplicada e depois alterada pelo alterador 3",
+    "Alterador 2 (Portaria 710/78): nova redação do artigo 3.º (cita 'Portaria n.º 971/77', gralha evidente pela data e designação das normas) — aplicada, epígrafe mantida",
+    "Alterador 3 (Portaria 555/79): nova redação do artigo 6.º — aplicada; nova redação da alínea b) do n.º 1 do artigo 19.º, com '...' no resto — aplicada sobre a redação do alterador 1"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

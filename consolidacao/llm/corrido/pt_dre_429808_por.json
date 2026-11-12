@@ -1,0 +1,66 @@
+{
+  "id": "pt:dre:429808:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "a) Três representantes do Ministério da Indústria e Comércio (Direcção-Geral da Indústria, que presidirá, Direcção-Geral de Energia e Direcção-Geral de Geologia e Minas);",
+      "alterador": 2
+    },
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "b) Dois representantes do Ministério da Agricultura, Pescas e Alimentação (Instituto de Apoio à Transformação e Comercialização dos Produtos Agro-Alimentares e Direcção-Geral da Pecuária).",
+      "alterador": 2
+    },
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "d) Dois representantes da Secretaria de Estado da Saúde (Direcção-Geral de Saúde e Instituto Nacional de Saúde Dr. Ricardo Jorge).",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "d) Propor aos ministros ou secretários de Estado dos departamentos representados na Comissão a revisão da legislação aplicável aos estabelecimentos industriais licenciados e fiscalizados pelo Estado.",
+      "alterador": 2
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "2.3 - A Comissão poderá recorrer a técnicos de reconhecida competência e a entidades interessadas nas matérias do âmbito das atribuições da Comissão.",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "2.4 - O secretariado da Comissão será assegurado pela Direcção-Geral da Indústria.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 15,
+      "texto": "g') Para cumprimento das suas atribuições, a Direcção-Geral de Saúde terá, sempre que necessário, o apoio do Instituto Nacional de Saúde Dr. Ricardo Jorge.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 23,
+      "texto": "e) Um representante da Secretaria de Estado do Ambiente e Recursos Naturais (Direcção-Geral da Qualidade do Ambiente) e um representante da Secretaria de Estado da Administração Local e do Ordenamento do Território (Direcção-Geral da Administração Local).",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova alínea g') entre g) e h) do n.º 1, inserida depois da unidade 15.",
+    "Alterador 1, n.º 2: nova redação da alínea d) do n.º 2.1 (unidade 23).",
+    "Alterador 1, n.º 3: nova redação do n.º 2.3 (unidade 29).",
+    "Alterador 2, 1.º 1): novas alíneas a) e b) do n.º 2.1 (unidades 20 e 21).",
+    "Alterador 2, 1.º 2): alínea e) aditada ao n.º 2.1, depois da unidade 23.",
+    "Alterador 2, 1.º 3): nova alínea d) do n.º 2.2 (unidade 28).",
+    "Alterador 2, 1.º 4): nova redação do n.º 2.4 (unidade 30)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

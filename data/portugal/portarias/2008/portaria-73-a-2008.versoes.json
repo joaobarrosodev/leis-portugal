@@ -1,0 +1,60 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:288037:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-01-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c336be13cdefca75"
+   ]
+  },
+  {
+   "date": "2009-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:260663:por",
+     "title": "Portaria n.º 230-A/2009",
+     "published": "2009-02-27",
+     "dre_path": "/dr/detalhe/portaria/230-a-2009-260663"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 16-16",
+    "Altera Artigo unidades 22-23",
+    "Altera Artigo unidades 26-31"
+   ],
+   "fragments": [
+    "eed9c7a778899bd3"
+   ]
+  }
+ ],
+ "fragments": {
+  "c336be13cdefca75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Janeiro\n\nAs características dos certificados de aforro da série B, criada pelo [Decreto-Lei n.º 172-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-1986-518811), de 30 de Junho, actualmente em emissão, revelam-se desajustadas face às alterações entretanto verificadas na forma de funcionamento dos mercados financeiros, mecanismos de formação das taxas de juro e tecnologias de relacionamento entre as instituições financeiras e os seus clientes.\n\nJustifica-se, assim, que se evolua, progressivamente, para a oferta de novos produtos de captação da poupança das famílias adaptados a estas novas condições e enquadrados nos objectivos definidos para a gestão da dívida pública.\n\nAssim:\n\nNos termos do disposto no artigo 4.º do [Decreto-Lei n.º 122/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2002-370864), de 4 de Maio, manda o Governo, pelo Secretário de Estado do Tesouro e Finanças, o seguinte:\n\n1.º É criada uma nova série de certificados de aforro, designada «série C», com as características constantes da ficha técnica anexa a esta portaria.\n\n2.º É fechada a subscrição da série B criada pelo [Decreto-Lei n.º 172-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-1986-518811), de 30 de Junho.\n\nA presente portaria entra em vigor no dia 26 de Janeiro de 2008.\n\nO Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina, em 22 de Janeiro de 2008.\n\nCertificados de aforro - Série C\n\nFicha técnica\n\nValores e subscrição:\n\nValor nominal - (euro) 1;\n\nMínimo de subscrição - 100 unidades;\n\nMáximo por conta aforro - 1 milhão de unidades;\n\nMínimo por conta aforro - 100 unidades.\n\nPrazo e juros:\n\nPrazo - 10 anos;\n\nTaxa de juro - soma da taxa base na data de início do trimestre com o prémio de permanência atribuível à subscrição;\n\nTaxa base em percentagem - determinada mensalmente no antepenúltimo dia útil do mês, para vigorar durante o mês seguinte, segundo a fórmula:\n\n0,85*E3-0,25\n\nem que E3 é a média dos valores da EURIBOR a três meses observados nos 10 dias úteis anteriores, sendo o resultado arredondado à terceira casa decimal;\n\nPeríodo de contagem de juros - cada subscrição vencerá juros com uma periodicidade trimestral. O vencimento dos juros ocorre no dia do mês igual ao da data valor da subscrição. No caso de esse dia não existir no mês de vencimento, o vencimento terá lugar no 1.º dia do mês seguinte;\n\nPrémio de permanência em pontos percentuais:\n\n0,25, no 2.º ano;\n\n0,50, no 3.º ano;\n\n0,75, do 4.º ao 7.º ano;\n\n1, no 8.º ano;\n\n1,5, no 9.º ano;\n\n2,5, no 10.º ano;\n\nCapitalização - capitalização automática dos juros vencidos (líquidos de impostos);\n\nReembolso - de capital e juros capitalizados, no 10.º aniversário da data valor da subscrição;\n\nResgate antecipado - total ou parcial, a partir da data em que ocorra o primeiro vencimento de juros da subscrição. O resgate determina o reembolso do valor nominal das unidades resgatadas e do valor dos juros capitalizados até à data do resgate.\n\nTitularidade e movimentação:\n\nSó podem ser titulares pessoas singulares;\n\nCada pessoa singular só pode ser titular de uma conta aforro e a cada conta aforro estará associado um número de identificação bancária (NIB);\n\nO resgate antecipado pode ser efectuado pelo titular da conta aforro ou por terceiro indicado pelo titular na condição de movimentador da subscrição."
+  },
+  "eed9c7a778899bd3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-03-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 230-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/230-a-2009-260663), publicado em 2009-02-27.",
+    "Alterado pelo/a [Portaria n.º 230-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/230-a-2009-260663), publicado em 2009-02-27.",
+    "Alterado pelo/a [Portaria n.º 230-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/230-a-2009-260663), publicado em 2009-02-27."
+   ],
+   "markdown": "de 23 de Janeiro\n\nAs características dos certificados de aforro da série B, criada pelo [Decreto-Lei n.º 172-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-1986-518811), de 30 de Junho, actualmente em emissão, revelam-se desajustadas face às alterações entretanto verificadas na forma de funcionamento dos mercados financeiros, mecanismos de formação das taxas de juro e tecnologias de relacionamento entre as instituições financeiras e os seus clientes.\n\nJustifica-se, assim, que se evolua, progressivamente, para a oferta de novos produtos de captação da poupança das famílias adaptados a estas novas condições e enquadrados nos objectivos definidos para a gestão da dívida pública.\n\nAssim:\n\nNos termos do disposto no artigo 4.º do [Decreto-Lei n.º 122/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2002-370864), de 4 de Maio, manda o Governo, pelo Secretário de Estado do Tesouro e Finanças, o seguinte:\n\n1.º É criada uma nova série de certificados de aforro, designada «série C», com as características constantes da ficha técnica anexa a esta portaria.\n\n2.º É fechada a subscrição da série B criada pelo [Decreto-Lei n.º 172-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-1986-518811), de 30 de Junho.\n\nA presente portaria entra em vigor no dia 26 de Janeiro de 2008.\n\nO Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina, em 22 de Janeiro de 2008.\n\nCertificados de aforro - Série C\n\nFicha técnica\n\nValores e subscrição:\n\nValor nominal - (euro) 1;\n\nMínimo de subscrição - 100 unidades;\n\nMáximo por conta aforro - 250 000 unidades;\n\n> Alterado pelo/a [Portaria n.º 230-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/230-a-2009-260663), publicado em 2009-02-27.\n\nMínimo por conta aforro - 100 unidades.\n\nPrazo e juros:\n\nPrazo - 10 anos;\n\nTaxa de juro - soma da taxa base na data de início do trimestre com o prémio de permanência atribuível à subscrição;\n\nTaxa base em percentagem - determinada mensalmente no antepenúltimo dia útil do mês, para vigorar durante o mês seguinte, segundo a fórmula:\n\n0,85 * E3 + 0,25\n\nem que E3 é a média dos valores da Euribor a três meses observados nos 10 dias úteis anteriores, sendo o resultado arredondado à terceira casa decimal;\n\n> Alterado pelo/a [Portaria n.º 230-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/230-a-2009-260663), publicado em 2009-02-27.\n\nPeríodo de contagem de juros - cada subscrição vencerá juros com uma periodicidade trimestral. O vencimento dos juros ocorre no dia do mês igual ao da data valor da subscrição. No caso de esse dia não existir no mês de vencimento, o vencimento terá lugar no 1.º dia do mês seguinte;\n\nPrémio de permanência em pontos percentuais:\n\n0,50 no 2.º ano;\n\n0,75 no 3.º ano;\n\n1,00 do 4.º ao 7.º ano;\n\n1,25 no 8.º ano;\n\n1,5 no 9.º ano;\n\n2,5 no 10.º ano.\n\n> Alterado pelo/a [Portaria n.º 230-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/230-a-2009-260663), publicado em 2009-02-27.\n\nCapitalização - capitalização automática dos juros vencidos (líquidos de impostos);\n\nReembolso - de capital e juros capitalizados, no 10.º aniversário da data valor da subscrição;\n\nResgate antecipado - total ou parcial, a partir da data em que ocorra o primeiro vencimento de juros da subscrição. O resgate determina o reembolso do valor nominal das unidades resgatadas e do valor dos juros capitalizados até à data do resgate.\n\nTitularidade e movimentação:\n\nSó podem ser titulares pessoas singulares;\n\nCada pessoa singular só pode ser titular de uma conta aforro e a cada conta aforro estará associado um número de identificação bancária (NIB);\n\nO resgate antecipado pode ser efectuado pelo titular da conta aforro ou por terceiro indicado pelo titular na condição de movimentador da subscrição."
+  }
+ }
+}

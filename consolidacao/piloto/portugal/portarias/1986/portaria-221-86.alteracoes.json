@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 93-94",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - Condições necessárias à concessão do grau:\n\na) 130,5 unidades de crédito;",
+    "depois": "3 - Condições necessárias à obtenção do grau:\n\na) 131 unidades de crédito;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:227183:por",
+    "alterador": "pt:dre:374213:por"
+  },
+  {
+    "artigo": "unidades 96-101",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - Áreas científicas e distribuição das unidades de crédito.\n\nFísica ... 32\n\nQuímica ... 39,5\n\nCiências da Educação ... 30\n\nMatemática ... 22\n\nElectrónica e Informática ... 7",
+    "depois": "4 - Áreas científicas e distribuição das unidades de crédito:\n\na) Física ... 32,5\n\nb) Química ... 39,5\n\nc) Ciências da Educação ... 30\n\nd) Matemática ... 22\n\ne) Electrónica e Informática ... 7",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:227183:por",
+    "alterador": "pt:dre:374213:por"
+  }
+]

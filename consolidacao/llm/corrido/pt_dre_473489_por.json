@@ -1,0 +1,72 @@
+{
+  "id": "pt:dre:473489:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "§ único. (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 62,
+      "ate": 72,
+      "texto": "Art. 13.º - (Revogado.)\n\nArt. 14.º - (Revogado.)\n\nArt. 15.º - (Revogado.)\n\nArt. 16.º - (Revogado.)\n\nArt. 17.º - (Revogado.)\n\nArt. 18.º - (Revogado.)\n\nArt. 19.º - (Revogado.)\n\nArt. 20.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 73,
+      "ate": 73,
+      "texto": "Art. 21.º Para o desempenho de funções nos Serviços Mecanográficos poderão ser requisitados pelo Ministro das Finanças, quando se mostre conveniente, funcionários de qualquer dos departamentos deste Ministério.",
+      "alterador": 1
+    },
+    {
+      "de": 76,
+      "ate": 76,
+      "texto": "Art. 22.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 78,
+      "ate": 92,
+      "texto": "Art. 23.º - (Revogado.)\n\nArt. 24.º - (Revogado.)\n\nArt. 25.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 94,
+      "ate": 111,
+      "texto": "Art. 26.º - (Revogado.)\n\nArt. 27.º - (Revogado.)\n\nArt. 28.º - (Revogado.)\n\nArt. 29.º - (Revogado.)\n\nArt. 30.º - (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, art. 3.º (limite de idade dos arts. 14.º e 17.º não se aplica a funcionários públicos) e alterador 2, art. 2.º, n.os 1 e 2 (competências dos adjuntos, analista e operador-chefe passam aos subdirectores, analista-chefe e chefe de exploração) não são alterações textuais do regulamento; o art. 3.º do alterador 1 ficou além disso sem objeto pela revogação dos arts. 14.º e 17.º.",
+  "instrucoes": [
+    "Alt. 1 art. 1.º-2.º: alteram o mapa anexo ao DL 47023 — ignorado.",
+    "Alt. 1 art. 3.º: regra sobre limites de idade, não textual — nao_aplicavel.",
+    "Alt. 1 art. 4.º: nova redação do corpo do art. 21.º — unidade 73 substituída; §§ mantidos.",
+    "Alt. 2 art. 2.º: transferência de competências, não textual — nao_aplicavel.",
+    "Alt. 2 art. 15.º: revoga § único do art. 2.º (unidade 15), arts. 13.º-20.º (62-72), 22.º-30.º (76, 78-92, 94-111) — postos como (Revogado.), epígrafes de secção mantidas; restante revogação dirige-se a outros diplomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 15-15: parágrafo que não está no alterador nem no original: § único. (Revogado.)",
+    "substituição 62-72: parágrafo que não está no alterador nem no original: Art. 13.º - (Revogado.)",
+    "substituição 62-72: parágrafo que não está no alterador nem no original: Art. 14.º - (Revogado.)",
+    "substituição 62-72: parágrafo que não está no alterador nem no original: Art. 15.º - (Revogado.)",
+    "substituição 62-72: parágrafo que não está no alterador nem no original: Art. 16.º - (Revogado.)",
+    "substituição 62-72: parágrafo que não está no alterador nem no original: Art. 17.º - (Revogado.)",
+    "substituição 62-72: parágrafo que não está no alterador nem no original: Art. 18.º - (Revogado.)",
+    "substituição 62-72: parágrafo que não está no alterador nem no original: Art. 19.º - (Revogado.)",
+    "substituição 62-72: parágrafo que não está no alterador nem no original: Art. 20.º - (Revogado.)",
+    "substituição 76-76: parágrafo que não está no alterador nem no original: Art. 22.º - (Revogado.)",
+    "substituição 78-92: parágrafo que não está no alterador nem no original: Art. 23.º - (Revogado.)",
+    "substituição 78-92: parágrafo que não está no alterador nem no original: Art. 24.º - (Revogado.)",
+    "substituição 78-92: parágrafo que não está no alterador nem no original: Art. 25.º - (Revogado.)",
+    "substituição 94-111: parágrafo que não está no alterador nem no original: Art. 26.º - (Revogado.)",
+    "substituição 94-111: parágrafo que não está no alterador nem no original: Art. 27.º - (Revogado.)",
+    "substituição 94-111: parágrafo que não está no alterador nem no original: Art. 28.º - (Revogado.)",
+    "substituição 94-111: parágrafo que não está no alterador nem no original: Art. 29.º - (Revogado.)",
+    "substituição 94-111: parágrafo que não está no alterador nem no original: Art. 30.º - (Revogado.)"
+  ]
+}

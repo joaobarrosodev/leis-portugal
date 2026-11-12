@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:400455:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-10-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a7b3f2b2abc79a1b"
+   ]
+  },
+  {
+   "date": "1985-05-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152325:por",
+     "title": "Portaria n.º 244/85",
+     "published": "1985-05-02",
+     "dre_path": "/dr/detalhe/portaria/244-1985-152325"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "a535530682164fae"
+   ]
+  }
+ ],
+ "fragments": {
+  "a7b3f2b2abc79a1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Outubro\n\nConsiderando que o [Decreto-Lei n.º 42/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1984-367856), de 3 de Fevereiro, determina a extinção, em 30 de Junho do corrente ano, do quadro geral de adidos, criado pelo [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril;\n\nConsiderando que o n.º 1 do artigo 3.º daquele diploma legal dá como integrados nos quadros dos serviços ou organismos utilizadores, desde 1 de Maio, os funcionários adidos que, nesta data, se encontrem requisitados junto dos mesmos há mais de 6 meses e que o n.º 5 do mesmo preceito permite a integração dos adidos colocados nos serviços há menos de 6 meses, desde que estes tomem a iniciativa de desencadear o respectivo processo;\n\nVerificando-se a inexistência de vagas nos quadros de pessoal da Secretaria-Geral e da Inspecção-Geral do Trabalho e considerado as orientações definidas nesse sentido pela alínea a) do n.º 2 do artigo 3.º:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e do Trabalho e Segurança Social e pelo Secretário de Estado da Administração Pública, o seguinte:\n\n1.º Os quadros de pessoal da Secretaria-Geral e da Inspecção-Geral do Trabalho, aprovados pelo [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março, e alterados pelas Portarias n.os [710/79](https://diariodarepublica.pt/dr/detalhe/portaria/710-1979-365767), de 29 de Dezembro, [90-A/80](https://diariodarepublica.pt/dr/detalhe/portaria/90-a-1980-525383), de 6 de Março, [173/82](https://diariodarepublica.pt/dr/detalhe/portaria/173-1982-600507), de 8 de Fevereiro, [432/82](https://diariodarepublica.pt/dr/detalhe/portaria/432-1982-606762), de 29 de Abril, e [904/82](https://diariodarepublica.pt/dr/detalhe/portaria/904-1982-375201), de 25 de Setembro, são aumentados dos lugares constantes, respectivamente, dos mapas I e II anexos ao presente diploma, a extinguir quando vagarem.\n\n2.º Este diploma produz efeitos a partir de 1 de Maio de 1984.\n\nPresidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Trabalho e Segurança Social.\n\nAssinada em 11 de Outubro de 1984.\n\nPelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro do Trabalho e Segurança Social, Amândio Anes de Azevedo. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.\n\nMAPA I\n\nSecretaria-Geral\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/25000/33103310.pdf)\n\nMAPA II\n\nInspecção-Geral do Trabalho\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/25000/33103310.pdf)"
+  },
+  "a535530682164fae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1985-05-07",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 244/85](https://diariodarepublica.pt/dr/detalhe/portaria/244-1985-152325), publicado em 1985-05-02."
+   ],
+   "markdown": "de 27 de Outubro\n\nConsiderando que o [Decreto-Lei n.º 42/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1984-367856), de 3 de Fevereiro, determina a extinção, em 30 de Junho do corrente ano, do quadro geral de adidos, criado pelo [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril;\n\nConsiderando que o n.º 1 do artigo 3.º daquele diploma legal dá como integrados nos quadros dos serviços ou organismos utilizadores, desde 1 de Maio, os funcionários adidos que, nesta data, se encontrem requisitados junto dos mesmos há mais de 6 meses e que o n.º 5 do mesmo preceito permite a integração dos adidos colocados nos serviços há menos de 6 meses, desde que estes tomem a iniciativa de desencadear o respectivo processo;\n\nVerificando-se a inexistência de vagas nos quadros de pessoal da Secretaria-Geral e da Inspecção-Geral do Trabalho e considerado as orientações definidas nesse sentido pela alínea a) do n.º 2 do artigo 3.º:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e do Trabalho e Segurança Social e pelo Secretário de Estado da Administração Pública, o seguinte:\n\n1.º O quadro de pessoal da Secretaria-Geral, aprovado pelo [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março, e alterado pelas Portarias n.os [710/79](https://diariodarepublica.pt/dr/detalhe/portaria/710-1979-365767), de 29 de Dezembro, [90-A/80](https://diariodarepublica.pt/dr/detalhe/portaria/90-a-1980-525383), de 6 de Março, [173/82](https://diariodarepublica.pt/dr/detalhe/portaria/173-1982-600507), de 8 de Fevereiro, [432/82](https://diariodarepublica.pt/dr/detalhe/portaria/432-1982-606762), de 29 de Abril, e [904/83](https://diariodarepublica.pt/dr/detalhe/portaria/904-1983-442901), de 25 de Setembro, e o da Inspecção-Geral do Trabalho, aprovado pelo [Decreto-Lei n.º 327/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1983-453199), de 8 de Julho, são aumentados dos lugares constantes, respectivamente, dos mapas I e II anexos ao presente diploma, a extinguir quando vagarem.\n\n> Alterado pelo/a [Portaria n.º 244/85](https://diariodarepublica.pt/dr/detalhe/portaria/244-1985-152325), publicado em 1985-05-02.\n\n2.º Este diploma produz efeitos a partir de 1 de Maio de 1984.\n\nPresidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Trabalho e Segurança Social.\n\nAssinada em 11 de Outubro de 1984.\n\nPelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro do Trabalho e Segurança Social, Amândio Anes de Azevedo. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.\n\nMAPA I\n\nSecretaria-Geral\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/25000/33103310.pdf)\n\nMAPA II\n\nInspecção-Geral do Trabalho\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/25000/33103310.pdf)"
+  }
+ }
+}

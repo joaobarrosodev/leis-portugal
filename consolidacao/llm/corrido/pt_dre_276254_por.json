@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:276254:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia do Rosmaninhal, município de Idanha-a-Nova, com uma área de 145,2650 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a substituição da planta anexa (só em imagem no documento original) não é textual e não se aplica.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º — substituída a unidade 8.",
+    "Alterador 1: a planta anexa substitui a anexa ao original — planta só em imagem, não aplicada (nao_aplicavel).",
+    "Alterador 2: suspensão do exercício da caça até à renovação — não altera o texto do original; nada a fazer.",
+    "Alterador 3: renovação da concessão por 12 anos com nova área e planta — não é alteração textual do original; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

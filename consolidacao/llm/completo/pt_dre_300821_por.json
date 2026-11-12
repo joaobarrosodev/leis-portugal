@@ -1,0 +1,36 @@
+{
+  "id": "pt:dre:300821:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS::13.º",
+      "epigrafe": "Condições gerais de elegibilidade do projecto",
+      "texto": "1 - Constituem condições de elegibilidade do projecto:\n\na) Enquadrar-se nas linhas definidas no Plano Estratégico das Parcerias e Iniciativas Públicas, tendo em consideração as políticas sectoriais;\n\nb) Assegurar impactes estruturantes nos respectivos domínios;\n\nc) Envolver recursos humanos qualificados, cujo currículo garanta a execução adequada do projecto;\n\nd) Apresentar um orçamento convenientemente detalhado e fundamentado numa estrutura de custos adequada face aos objectivos a prosseguir;\n\ne) Não ter sido iniciada a sua realização antes da data do registo da apresentação do projecto, formalizado pelo organismo gestor;\n\nf) Ter uma duração máxima de dois anos, a contar da data da formalização da concessão do apoio, podendo tal prazo ser prorrogado em casos excepcionais devidamente justificados mediante autorização do Ministro da Economia sob proposta do gestor do Programa.\n\n2 - Os projectos devem ter natureza colectiva, abrangente e não discriminatória, não havendo portanto selectividade de empresas potencialmente visadas, desenvolvendo-se como medidas de carácter geral que reforçam a economia nacional, pelo que não são elegíveis projectos que configurem situações passíveis de enquadramento nas regras dos auxílios estatais na acepção dos artigos 87.º e 88.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado).\n\n3 - Quando o projecto tenha associada formação profissional, essa componente deve cumprir o disposto no respectivo regulamento específico e na legislação enquadradora dos apoios do FSE.",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS::19.º",
+      "epigrafe": "Pagamento do apoio",
+      "texto": "1 - Os pagamentos do apoio, com excepção dos pagamentos relativos à formação profissional que resultam de regulamento específico dessa componente, serão processados à entidade beneficiária nos termos constantes de norma de pagamentos homologada pelo Ministro da Economia.\n\n2 - Os pagamentos do apoio são assegurados pelo IAPMEI ou pelo IFT ou pelo ICEP.\n\n3 - No caso de parcerias, sempre que a entidade beneficiária seja externa à Administração Pública, deverá a mesma apresentar garantia bancária nos termos e condições previstos na norma de pagamentos.\n\n4 - No caso das entidades beneficiárias serem direcções-gerais ou outras congéneres, o pagamento dos serviços fornecidos por terceiros no âmbito do projecto é efectuado directamente pelo IAPMEI, pelo IFT ou pelo ICEP aos respectivos fornecedores.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS::23.º",
+      "epigrafe": "Disposições transitórias",
+      "texto": "Os projectos recepcionados até 31 de Janeiro de 2001 poderão ser comparticipados nas despesas efectuadas após 1 de Janeiro de 2000.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 4 (Portaria 560/2004), n.º 2.º: revoga a alínea g) do n.º 1 do artigo 3.º do Regulamento apenas 'na parte' relativa à promoção de marcas e produtos portugueses e à internacionalização da economia — revogação parcial sem delimitação textual segura; texto da alínea mantido.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1216-A/2000): nova redação do artigo 23.º (epígrafe '[...]') — aplicada, epígrafe mantida",
+    "Alterador 2 (Portaria 97/2002): nova redação integral do artigo 19.º (n.os 1 a 4; epígrafe '[...]') — aplicada, antigos n.os 5 a 8 deixam de existir",
+    "Alterador 3 (Portaria 109/2004): nova redação da alínea f) do n.º 1 do artigo 13.º — aplicada",
+    "Alterador 4 (Portaria 560/2004): aprova outro regulamento (não altera o texto); revogação parcial da alínea g) do n.º 1 do artigo 3.º 'na parte' relativa à internacionalização — não aplicada (nao_aplicavel)",
+    "Alterador 5 (Despacho 21019/2005): reabre a admissão de propostas, sem alteração textual — nada a aplicar"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

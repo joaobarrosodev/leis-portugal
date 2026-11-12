@@ -28,10 +28,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-12-16'
+version_history:
+  file: portaria-18053.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-11-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-12-16'
+    amending: pt:dre:311068:por
+    amending_title: Portaria n.º 745/75
+    changes:
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 16-18
+    - Altera Artigo unidades 20-22
+    - Altera Artigo unidades 24-47
+    - Altera Artigo unidades 50-55
 identifiers:
   celex: null
   eli: null
@@ -57,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:50:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 745/75. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1960/portaria-18053.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,89 +166,133 @@ Estatuto da Liga dos Combatentes da Grande Guerra
 
 (Liga dos Combatentes)
 
-Artigo 1.º A Liga dos Combatentes da Grande Guerra, também designada abreviadamente por Liga dos Combatentes, é uma instituição de utilidade pública, patriótica e de assistência, de carácter perpétuo, com personalidade jurídica e utilidade administrativa. Tem a sua sede na cidade de Lisboa e é fundamentalmente constituída por indivíduos que foram ou ainda são militares, os quais não podem manifestar, dentro dela, qualquer credo político ou religioso.
+Artigo 1.º A Liga dos Combatentes da Grande Guerra, fundada por portugueses que intervieram neste conflito e, por extensão, ora designada Liga dos Combatentes, é uma instituição de utilidade pública, patriótica, de assistência e de beneficência, de carácter perpétuo, com personalidade jurídica e utilidade administrativa. Tem a sua sede na cidade de Lisboa e é fundamentalmente constituída por indivíduos que foram ou ainda são militares, os quais não podem manifestar, dentro dela, qualquer credo político ou religioso.
+
+> Alterado pelo/a [Portaria n.º 745/75](https://diariodarepublica.pt/dr/detalhe/portaria/745-1975-311068), publicado em 1975-12-16.
 
 Art. 2.º Os seus fins são:
 
-1.º De protecção e auxílio mútuos e de defesa dos legítimos interesses espirituais, morais e materiais, nos termos preceituados nestes estatutos e no seu regulamento, de todos quantos, no cumprimento de superiores deveres militares, ou de outros em correlação com eles, se sacrificaram ou vierem a sacrificar pela integridade e maior engrandecimento da Pátria.
+1.º Protecção e auxílio mútuos e defesa dos legítimos interesses espirituais, morais e materiais dos que, conforme este Estatuto e seu Regulamento, cumpriram ou vieram a cumprir os seus deveres militares, e outros em correlação com eles, estendendo-se estes fins aos seus familiares compreendidos no artigo 4.º que se encontrem de algum modo carecidos;
 
-2.º Habilitar o Governo da República a poder não só atender às necessidades dos indivíduos indicados nos números e alíneas do artigo 3.º e primeira parte do artigo 4.º, como também a recompensar aqueles a quem a Pátria deva distinguir por feitos ou méritos revelados ao seu serviço.
+2.º Habilitar o Governo da República a poder não só atender às necessidades dos indivíduos indicados nos números e alíneas do artigo 3.º e primeira parte do artigo 4.º, como também a recompensar aqueles a quem a Pátria deva distinguir por feitos ou méritos revelados ao seu serviço;
 
-3.º Pugnar pelos altos desígnios nacionais e promover toda a possível propaganda do País, servindo-se para este fim, principalmente, do intercâmbio com as associações congéneres existentes nos diferentes países estrangeiros.
+3.º Pugnar pelos altos desígnios nacionais e promover toda a possível propaganda do País, servindo-se para esse fim, principalmente, do intercâmbio com as associações congéneres existentes nos diferentes países estrangeiros;
+
+> Alterado pelo/a [Portaria n.º 745/75](https://diariodarepublica.pt/dr/detalhe/portaria/745-1975-311068), publicado em 1975-12-16.
 
 4.º Criar, manter e desenvolver, em todo o território nacional, departamentos ou estabelecimentos educacionais, culturais, de trabalho e de assistência, em benefício geral da Nação e directo dos seus associados.
 
-§ único. Poderá ainda a Liga dos Combatentes, por decisão da assembleia geral e sob proposta da comissão central administrativa, agregar quaisquer obras, existentes ou que venham a fundar-se, de assistência a indivíduos que reúnam as condições expressas no n.º 1.º deste artigo ou a quaisquer dos designados na primeira parte do artigo 4.º
+§ único. Poderá ainda a Liga dos Combatentes, por decisão da assembleia geral e sob proposta da direcção central, agregar quaisquer obras, existentes ou que venham a fundar-se, de assistência a indivíduos que reúnam as condições expressas no n.º 1.º deste artigo ou a quaisquer dos designados na primeira parte do artigo 4.º
 
-Art. 3.º Consideram-se nas condições do n.º 1.º do artigo 2.º, e podem ser admitidos como sócios, todos os portugueses, de origem ou naturalizados, que reúnem os requisitos indicados nos números e alíneas deste artigo e não estejam, abrangidos pelo disposto no artigo 5.º:
+Art. 3.º Consideram-se nas condições básicas do n.º 1.º do artigo 2.º, e podem ser admitidos como sócios, todos os portugueses, de origem ou naturalizados, que reúnam os requisitos indicados nos números e alíneas deste artigo e não estejam abrangidos pelo disposto no artigo 5.º:
 
-1.º Que tenham prestado serviço em campanha no Exército, na Armada ou na marinha mercante, nacionais ou das nações aliadas durante a Grande Guerra;
+1.º Que tenham prestado serviço em campanha no Exército, na Armada ou na marinha mercante, nacionais ou das nações aliadas, durante a Grande Guerra;
+
+> Alterado pelo/a [Portaria n.º 745/75](https://diariodarepublica.pt/dr/detalhe/portaria/745-1975-311068), publicado em 1975-12-16.
 
 2.º Que tenham tomado parte nas campanhas ultramarinas de ocupação;
 
-3.º Que tenham servido no mar, no ar, ou em território nacional metropolitano ou ultramarino, em missão de soberania determinada pelo Governo, durante a guerra de 1939-1945, e ainda os que, durante ela, tenham feito parte das forças armadas nas nações aliadas.
+3.º Que tenham servido no mar, no ar, ou em território nacional metropolitano ou ultramarino, em missão de soberania determinada pelo Governo, durante a guerra de 1939-1945, e ainda os que, durante ela, tenham feito parte das forças armadas das nações aliadas contra o Eixo:
 
-a) No que respeita aos tripulantes dos navios de comércio e de pesca do alto e longínqua, importa satisfazer as condições expressas no [Decreto n.º 38515](https://diariodarepublica.pt/dr/detalhe/decreto/38515-1951-593491), de 19 de Novembro de 1951, para aquisição da medalha comemorativa do esforço desenvolvido pelos mesmos.
+a) No que respeita aos tripulantes dos navios de comércio e de pesca do alto e longínqua, importa satisfazer as condições expressas no [Decreto n.º 38515](https://diariodarepublica.pt/dr/detalhe/decreto/38515-1951-593491), de 19 de Novembro de 1951, para aquisição da medalha comemorativa do esforço desenvolvido pelos mesmos;
 
-b) Para os militares ou equiparados das forças terrestres, navais e aéreas da metrópole ou do ultramar portugueses que fizeram parte da expedição militar a Timor, em Setembro e Outubro de 1945, as condições são reguladas pela portaria de 12 de Agasto de 1958, que criou a medalha comemorativa da mesma expedição.
+b) Para os militares ou equiparados das forças terrestres, navais e aéreas da metrópole ou do ultramar, portugueses que fizeram parte da expedição militar a Timor, em Setembro e Outubro de 1945, as condições são reguladas pela portaria de 12 de Agosto de 1958, que criou a medalha comemorativa da mesma expedição;
 
-4.º Que tenham estado, estejam ou venham a estar no desempenho de missão de soberania provocada por situação de emergência em qualquer ponto do território nacional, e, também, que vierem a tomar parte em guerra, campanha e expedição militar contra os inimigos da Pátria, em terra portuguesa ou estrangeira.
+4.º Que tenham estado, estejam ou venham a estar no desempenho de missão de segurança determinada por situação de emergência em qualquer ponto do território nacional e, também, que vierem a tomar parte em guerra, campanha e expedição militar contra inimigos da Pátria, em terra portuguesa ou estrangeira.
 
-a) Para os militares ou equiparados, da metrópole ou do ultramar, que, a partir de 1 de Julho de 1954, fizeram parte da guarnição militar do Estado da índia ou das forças nele destacadas, as condições são reguladas pela [Portaria n.º 16669](https://diariodarepublica.pt/dr/detalhe/portaria/16669-1958-305206), de 19 de Abril de 1958, que lhes confere o direito ao uso da medalha comemorativa das expedições e campanhas das forças armadas portuguesas.
+Para os militares ou equiparados e elementos das forças militarizadas da metrópole ou do ultramar que a partir:
 
-Art. 4.º Poderão igualmente ser admitidos como sócios, em categorias diferentes a fixar, sem direito a voto nem ao exercício de qualquer cargo directivo, os filhos, viúvas, pais e irmãs solteiras dos indivíduos compreendidos nos n.os 1.º a 4.º e suas alíneas do artigo 3.º e ainda outros que mereçam fazer parte da prestimosa instituição pelo auxílio que lhe prestarem ou valimento que lhe derem.
+a) De 1 de Julho de 1954 fizeram parte da guarnição militar do então Estado da Índia ou das forças nele destacadas, as condições são reguladas pela [Portaria n.º 16669](https://diariodarepublica.pt/dr/detalhe/portaria/16669-1958-305206), de 19 de Abril de 1958, que lhes confere o direito ao uso da medalha comemorativa das expedições e campanhas das forças armadas portuguesas, não se incluindo os elementos das forças militarizadas;
 
-Art. 5.º Não poderão ser admitidos como sócios, na Liga dos Combatentes, os indivíduos que hajam sido condenados a pena maior por deserção, cobardia ou crime infamante ou não possuam boas qualidades morais e cívicas.
+b) De 15 de Março de 1961 tenham pertencido às forças de terra, mar e ar em actuação no Norte da então província de Angola, na zona já definida pelo respectivo comandante-chefe, as condições são reguladas pela [Portaria n.º 19683](https://diariodarepublica.pt/dr/detalhe/portaria/19683-1963-192857), de 4 de Fevereiro de 1963, que lhes confere o direito ao uso da medalha comemorativa das campanhas das forças armadas portuguesas, não se incluindo os elementos das forças militarizadas;
 
-Art. 6.º Os órgãos da Liga são: o conselho supremo, a assembleia geral e a comissão central administrativa.
+c) De 1 de Julho de 1960 tenham pertencido às forças de terra, mar e ar em actuação na então província de Angola e que não estejam abrangidos no mesmo período pela [Portaria n.º 19683](https://diariodarepublica.pt/dr/detalhe/portaria/19683-1963-192857), de 4 de Fevereiro de 1963, as condições são reguladas pela [Portaria n.º 20567](https://diariodarepublica.pt/dr/detalhe/portaria/20567-1964-582591), de 7 de Maio de 1964, que lhes confere o direito ao uso da medalha comemorativa das expedições das forças armadas portuguesas;
 
-§ 1.º As agências-gerais, agências, subagências, delegações e subdelegações serão geridas por comissões administrativas, de três a cinco membros, de nomeação da comissão central a homologar pela assembleia geral.
+d) De 23 de Dezembro de 1966 tenham pertencido às forças de terra, mar e ar em actuação no Norte de Angola ou noutra zona da então província, as condições são reguladas pela [Portaria n.º 22838](https://diariodarepublica.pt/dr/detalhe/portaria/22838-1967-315117), de 21 de Agosto de 1967, que lhes confere o direito ao uso da medalha comemorativa das campanhas das forças armadas portuguesas;
 
-§ 2.º Uma secção auxiliar feminina da Liga dos Combatentes, estabelecida e assim denominada pelo [Decreto n.º 25679](https://diariodarepublica.pt/dr/detalhe/decreto/25679-1935-581650), de 26 de Julho de 1935, exercerá a sua acção junto dos núcleos regionais.
+e) De 1 de Março de 1963 tenham pertencido às forças de terra, mar e ar em actuação na então província da Guiné, as condições são reguladas pela [Portaria n.º 20564](https://diariodarepublica.pt/dr/detalhe/portaria/20564-1964-582588), de 7 de Maio de 1964, que lhes confere o direito ao uso da medalha comemorativa das campanhas das forças armadas portuguesas;
 
-Art. 7.º O conselho supremo orienta as relações da Liga dos Combatentes com os poderes constituídos e com associações congéneres estrangeiras.
+f) De 1 de Setembro de 1959 tenham pertencido às forças de terra, mar e ar em actuação na então província da Guiné e que não estejam abrangidos no mesmo período pela [Portaria n.º 20564](https://diariodarepublica.pt/dr/detalhe/portaria/20564-1964-582588), as condições são reguladas pela [Portaria n.º 20565](https://diariodarepublica.pt/dr/detalhe/portaria/20565-1964-582589), de 7 de Maio de 1964, que lhes confere o direito ao uso da medalha comemorativa das expedições das forças armadas portuguesas;
 
-§ 1.º Terá este conselho como presidente de honra o Presidente da República e como vogais honorários os Ministros da Defesa Nacional, do Exército e da Marinha e o Subsecretário de Estado da Aeronáutica.
+g) De 15 de Agosto de 1960 tenham pertencido às forças de terra, mar e ar em actuação na então província de Moçambique, as condições são reguladas pela [Portaria n.º 20568](https://diariodarepublica.pt/dr/detalhe/portaria/20568-1964-582592), de 7 de Maio de 1964, que lhes confere o direito ao uso da medalha comemorativa das expedições das forças armadas portuguesas;
 
-§ 2.º O conselho supremo, que designará entre si o presidente e dois secretários efectivos, é constituído por um número variável de sócios combatentes e expedicionários eleitos pela assembleia geral, nunca inferior a dez nem superior a vinte, salvo o caso previsto no parágrafo seguinte.
+h) De 1 de Abril de 1965 tenham pertencido às forças de terra, mar e ar em actuação na então província de Moçambique, as condições são reguladas pela [Portaria n.º 21941](https://diariodarepublica.pt/dr/detalhe/portaria/21941-1966-486288), de 6 de Abril de 1966, que lhes confere o direito ao uso da medalha comemorativa das campanhas das forças armadas portuguesas;
 
-§ 3.º Quando o Presidente da República termine o seu mandato, deixará de ocupar o lugar designado no § 1.º deste artigo, que ficará pertencendo a quem lhe suceder, mas continuará a fazer parte do conselho supremo como membro efectivo.
+i) De 15 de Maio de 1961 tenham pertencido às forças de terra, mar e ar em actuação na então província de Cabo Verde, as condições são reguladas pela [Portaria n.º 20563](https://diariodarepublica.pt/dr/detalhe/portaria/20563-1964-582587), de 7 de Maio de 1964, que lhes confere o direito ao uso da medalha comemorativa das expedições das forças armadas portuguesas;
 
-Art. 8.º A assembleia geral será constituída por um representante do conselho supremo, de sua livre escolha, pelos sócios de honra, portugueses de origem ou naturalizados que tenham a qualidade de combatente ou a de expedicionário, pelos membros das comissões administrativas das agências de Lisboa e do Porto e pelos presidentes das comissões administrativas, ou seus delegados devidamente credenciados, de todos os demais núcleos previstos no § 1.º do artigo 6.º
+j) De 1 de Julho de 1961 tenham pertencido às forças de terra, mar e ar em actuação na então província de S. Tomé e Príncipe, as condições são reguladas pela [Portaria n.º 20566](https://diariodarepublica.pt/dr/detalhe/portaria/20566-1964-582590), de 7 de Maio de 1964, que lhes confere o direito ao uso da medalha comemorativa das expedições das forças armadas portuguesas;
 
-§ 1.º A primeira assembleia geral será constituída apenas pelas entidades referidas no corpo do artigo que já tivessem essa qualidade à data da [Portaria n.º 7826](https://diariodarepublica.pt/dr/detalhe/portaria/7826-1934-463857).
+l) De 1 de Agosto de 1962 tenham pertencido às forças de terra, mar e ar em actuação na província de Macau, as condições são reguladas pela [Portaria n.º 20569](https://diariodarepublica.pt/dr/detalhe/portaria/20569-1964-582593), de 7 de Maio de 1964, que lhes confere o direito ao uso da medalha comemorativa das expedições das forças armadas portuguesas;
 
-§ 2.º A mesa da assembleia geral será constituída por um presidente e dois secretários, sendo aquele, de direito, o representante do conselho supremo indicado no corpo deste artigo ou, na sua falta, o mais idoso dos presentes à reunião.
+m) De 1 de Agosto de 1961 tenham pertencido às forças de terra, mar e ar em actuação na província de Timor, as condições são reguladas pela [Portaria n.º 20570](https://diariodarepublica.pt/dr/detalhe/portaria/20570-1964-582594), de 7 de Maio de 1964, que lhes confere o direito ao uso da medalha comemorativa das expedições das forças armadas portuguesas.
 
-a) Os dois secretários serão eleitos anualmente, como determina o § 3.º deste artigo.
+Art. 4.º Poderão igualmente ser admitidos como sócios, em categorias diferentes a fixar no regulamento previsto no artigo 12.º deste Estatuto, sem direito de voto nem ao exercício de qualquer cargo directivo, com as excepções que forem prescritas naquele regulamento, os filhos, esposas, viúvas, pais e irmãs solteiras dos indivíduos compreendidos nos n.os 1.º a 4.º e suas alíneas do artigo 3.º e ainda outras pessoas singulares ou colectivas que mereçam fazer parte da prestimosa instituição pelo auxílio que lhe prestarem ou valimento que lhe derem.
 
-§ 3.º A convocação da assembleia geral será obrigatória, pelo menos, uma vez em cada ano, para apreciação do relatório e das contas e para eleição dos dois secretários da sua mesa, conforme dispõe a alínea a) do parágrafo anterior, e das pessoas que hão-de preencher os lugares vagos do conselho supremo.
+Art. 5.º Não poderão ser admitidos como sócios na Liga dos Combatentes, ou, sendo-o, serão excluídos, os indivíduos que hajam sido condenados a pena maior por deserção, cobardia ou crime infamante, enquanto não tiverem cumprido a respectiva pena ou hajam sido legal ou judicialmente ilibados, e todos aqueles que não possuam boas qualidades morais e cívicas.
 
-§ 4.º Deverá também a assembleia geral reunir:
+Art. 6.º A Liga compreende:
 
-a) A pedido da comissão central administrativa, para resolução de qualquer assunto da sua competência;
+a) Conselho supremo, assembleia geral, direcção central e conselho fiscal, como órgãos do seu núcleo central;
 
-b) Quando isso lhe seja requerida pelo mínimo de um terço dos componentes da mesma assembleia geral;
+b) Núcleos regionais nos territórios portugueses e, quando convier e for permitido, em países estrangeiros, sendo denominados conforme as suas localizações, de harmonia com o que se estabelecer no regulamento;
 
-c) Quando tiver de proceder às eleições referidas no § 2.º do artigo 9.º
+c) Secção auxiliar feminina, estabelecida pelo [Decreto n.º 25679](https://diariodarepublica.pt/dr/detalhe/decreto/25679-1935-581650), de 26 de Julho de 1935, que terá um conselho directivo central, dependente da direcção central, e delegações regionais, sempre que possível junto dos núcleos. Esta secção feminina poderá ter outra designação mais adequada às suas funções e estrutura, conforme se definir no Regulamento, e os seus membros serão sócios auxiliares quando outra categoria não lhes couber.
 
-§ 5.º A assembleia geral, que decide à pluralidade de votos, salvo quando se trate de casos julgados de excepcional importância ou, expressamente, da alteração deste estatuto, em quê as suas resoluções só serão válidas com dois terços dos votos dos elementos que a compõem e se designam no corpo deste artigo, poderá vàlidamente funcionar:
+§ 1.º A direcção central tem a constituição prevista no artigo 9.º, sendo os seus membros designados conforme se dispõe no mesmo artigo.
+
+§ 2.º Os núcleos regionais de cada distrito administrativo podem, por livre acordo, a formalizar, estabelecer ligações directas com o núcleo da cidade sede, para efeito de concentração e coordenação de actividades e de simplificação administrativa, sendo, porém, todos eles geridos por comissões directivas com três a cinco membros, eleitos trienalmente pelos sócios combatentes e expedicionários neles inscritos, tudo de harmonia com o estabelecido no Regulamento que prescreverá, também, as condições em que os núcleos podem eleger e constituir órgãos sociais internos além das citadas comissões directivas, indicando genericamente as suas designações, fins e constituição.
+
+§ 3.º A direcção central pode, por fundamentadas razões de inconveniência para a Liga, opor-se a que pessoas eleitas conforme o parágrafo anterior desempenhem funções em corpos sociais, decisão com efeitos suspensivos mas obrigatoriamente comunicada ao núcleo interessado para, em assembleia geral dos sócios eleitores nele inscritos, ser revista em definitivo a sua anterior eleição.
+
+§ 4.º A gestão de núcleos desactivados poderá, pela direcção central, ser confiada a comissões de outros núcleos com suficientes condições para a exercer, de harmonia com o que para cada caso for ajustado e estabelecido.
+
+§ 5.º Quando se verifique impossibilidade de se constituírem comissões directivas de núcleos regionais nos termos do § 2.º deste artigo mas haja sócio ou sócios neles filiados que possam e queiram gerir esses núcleos, pode a direcção central atribuir-lhes funções provisórias de gestor ou de comissão administrativa, a sancionar pela assembleia geral, na qual o núcleo terá representação conforme o disposto no artigo 8.º, mas onde o representante não dispõe de voto sobre o referido sancionamento.
+
+Art. 7.º O conselho supremo orienta as relações da Liga dos Combatentes com os poderes constituídos e com associações congéneres estrangeiras, deliberando validamente desde que estejam presentes pelo menos cinco dos seus membros efectivos.
+
+§ 1.º Terá este conselho como presidente de honra o Presidente da República e como vogais honorários os titulares dos departamentos da Defesa Nacional, do Exército, da Armada e da Força Aérea.
+
+§ 2.º O conselho supremo, que designará entre si o presidente e dois secretários efectivos, é constituído por um número variável de sócios combatentes e expedicionários eleitos pela assembleia geral, nunca inferior a dez nem superior a vinte.
+
+Art. 8.º A assembleia geral da Liga será constituída por um representante do conselho supremo, de sua livre escolha, pelos sócios de honra, portugueses de origem ou naturalizados que tenham a qualidade de combatente ou a de expedicionário, pelos membros das comissões directivas dos núcleos de Lisboa e Porto, pelos presidentes das comissões directivas, ou seus delegados devidamente credenciados, de todos os demais núcleos regionais previstos no artigo 6.º, sem prejuízo da representação própria dos núcleos que estiverem ligados distritalmente, conforme o previsto no início do § 2.º do mesmo artigo, um representante dos núcleos no regime previsto no § 5.º também do artigo 6.º e a presidente do conselho directivo central da secção feminina. As comissões directivas dos núcleos das sedes dos distritos que tenham um número de filiados combatentes e expedicionários superior a quinhentos podem designar mais um aos seus membros para tomar parte nas assembleias gerais, os quais também dispõem de voto, sem prejuízo do caso já considerado dos núcleos de Lisboa e do Porto.
+
+§ 1.º A mesa da assembleia geral será constituída por um presidente e dois secretários, sendo aquele, de direito, o representante do conselho supremo indicado no corpo deste artigo ou, na sua falta, o mais antigo dos membros daquele conselho presentes na reunião. Os dois secretários são eleitos trienalmente e reelegíveis.
+
+§ 2.º A convocação da assembleia geral ordinária será obrigatória pelo menos uma vez em cada ano, como regra no primeiro quadrimestre, para apreciação, eventual alteração e aprovação do relatório e das contas do ano anterior, oportunamente elaborados e divulgados pela direcção central, e para eleição dos secretários da sua mesa, dos membros da direcção central e do conselho fiscal, quando haja vacaturas ou termos de mandato, bem como das pessoas que hão-de preencher vagas no conselho supremo.
+
+§ 3.º A assembleia geral reunirá extraordinariamente:
+
+a) A pedido da direcção central, para resolução de qualquer assunto que deva ser decidido pela assembleia;
+
+b) Quando for requerido especificadamente ao presidente da mesa pelo mínimo de um terço dos componentes da mesma assembleia geral;
+
+c) Quando houver que proceder-se a eleições para preenchimento urgente de vacaturas abertas por entidades referidas no § 2.º deste artigo;
+
+d) Quando o for requerido especificadamente pelo conselho fiscal.
+
+§ 4.º A assembleia geral, que decide à pluralidade de votos, salvo quando se trate de casos de excepcional importância ou, expressamente, da alteração deste Estatuto, em que as suas resoluções só serão válidas com três quartos dos votos dos elementos presentes, poderá validamente funcionar:
+
+> Alterado pelo/a [Portaria n.º 745/75](https://diariodarepublica.pt/dr/detalhe/portaria/745-1975-311068), publicado em 1975-12-16.
 
 a) Em primeira convocação, quando se verificar a presença da maioria dos seus membros;
 
 b) Em segunda convocação, com qualquer número de membros presentes.
 
-Art. 9.º A comissão central administrativa será constituída por um presidente, um vice-presidente, um secretário-geral, dois tesoureiros, um secretário, um bibliotecário, dois vogais efectivos e três vogais adjuntos, três deles de nomeação oficial e os restantes nove eleitos conforme preceituam os parágrafos deste artigo.
+Art. 9.º À direcção central incumbe e compete a administração geral da Liga em todos os aspectos orgânicos, funcionais, financeiros e patrimoniais, o exercício dos poderes disciplinares que lhe caibam pelo Regulamento e a representação oficial da instituição; dispõe e dirige serviços indispensáveis à gestão e, também, os criados ou mantidos no seu âmbito com fins assistenciais ou lucrativos.
 
-§ 1.º O presidente, um tesoureiro e um vogal efectivo são de nomeação do Ministro da Defesa Nacional, ouvidos os Ministros do Exército e da Marinha e o Subsecretário de Estado da Aeronáutica.
+§ 1.º A direcção central é constituída por um presidente, um vice-presidente, um secretário-geral, dois vogais administrativos, um bibliotecário e conservador do museu, um secretário e quatro vogais, todos eleitos trienalmente pela assembleia geral, como previsto no § 2.º e alínea c) do § 3.º do artigo 8.º
 
-§ 2.º Os membros para os restantes cargos são eleitos pela assembleia geral, podendo fazer-se em cada triénio a substituição de três desses membros.
+§ 2.º Da direcção central só podem ser reeleitos os membros que obtiverem para isso o mínimo de dois terços dos votos emitidos pela assembleia geral na reunião que os deva eleger.
 
-Art. 10.º As receitas desta instituição provêm, principalmente, da venda da estampilha da Liga dos Combatentes da Grande Guerra, presentemente regulada pelos Decretos-Leis n.os 13670 e 41647 e [Decreto n.º 41648](https://diariodarepublica.pt/dr/detalhe/decreto/41648-1958-353883), de quotas dos seus associados, de subsídios de organismos do Estado e de corporações administrativas, de deixas, de doações, de legados, de donativos, de subscrições e da angariação que por outros meios se puder fazer em benefício dos seus cofres.
+Art. 10.º O conselho fiscal, eleito trienalmente pela assembleia geral, é constituído por três membros efectivos, que escolhem entre si o presidente, e por dois membros suplentes, tendo em relação a toda a Liga as funções legalmente prescritas para órgãos desta natureza.
 
-§ único. Estas receitas serão aplicadas directamente pela comissão central administrativa aos fins que servem a instituição ou, por delegação sua, pelas comissões administrativas dos núcleos indicados no § 1.º do artigo 6.º
+Art. 11.º As receitas desta instituição provêm, principalmente, da venda da estampilha da Liga dos Combatentes da Grande Guerra, presentemente regulada pelos Decretos-Leis n.os 13670 e 41647, [Decreto n.º 41648](https://diariodarepublica.pt/dr/detalhe/decreto/41648-1958-353883) e [Decreto-Lei n.º 47105](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47105-1966-475321), de quotas dos seus associados, de subsídios de organismos do Estado e de corpos administrativos, de heranças, de doações, de legados, de donativos, de subscrições e da angariação que por outros meios se puder fazer em benefício dos seus cofres, bem como as resultantes de actividades criadas ou mantidas com fins lucrativos.
 
-Art. 11.º A comissão central administrativa elaborará o regulamento necessário ao desenvolvimento e execução do presente estatuto e, ouvido o conselho supremo, submetê-lo-á à apreciação e homologação do Ministro da Defesa Nacional.
+§ único. Estas receitas, incluindo as quotas cobradas pelos núcleos regionais, são utilizadas pela direcção central para a prossecução dos fins da Liga e para custeio das despesas gerais e dos serviços, ou por delegação sua, conforme se definir, pelas comissões directivas dos núcleos regionais, sem prejuízo de estas aplicarem as suas receitas directas de acordo com os orçamentos anuais próprios a submeter à aprovação daquela direcção central no mês de Novembro do ano que precede aquele a que respeitem e com as alterações que esses orçamentos vierem a ter.
+
+Art. 12.º A direcção central elaborará o Regulamento necessário ao desenvolvimento e execução do presente Estatuto e, ouvido o conselho supremo, submetê-lo-á, bem como as suas alterações, à apreciação e aprovação da assembleia geral.
+
+> Alterado pelo/a [Portaria n.º 745/75](https://diariodarepublica.pt/dr/detalhe/portaria/745-1975-311068), publicado em 1975-12-16.
 
 Presidência do Conselho e Ministérios do Exército e da Marinha, 11 de Novembro de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz. - O Ministro do Exército, Afonso Magalhães de Almeida Fernandes. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - O Subsecretário de Estado da Aeronáutica, Kaulza Oliveira de Arriaga.
 

@@ -29,10 +29,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-04-12'
+version_history:
+  file: portaria-477-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-08-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-04-12'
+    amending: pt:dre:277806:por
+    amending_title: Portaria n.º 666/77; Portaria n.º 302/87
+    changes:
+    - Adita Artigo depois da unidade 15
+    - Altera Artigo unidades 20-20
+    - Altera Artigo unidades 21-21
+    - Altera Artigo unidades 23-23
+    - Adita Artigo depois da unidade 23
+    - Altera Artigo unidades 28-28
+    - Altera Artigo unidades 29-29
+    - Altera Artigo unidades 30-30
 identifiers:
   celex: null
   eli: null
@@ -58,7 +79,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:05:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 666/77; Portaria n.º
+    302/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-477-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,6 +162,10 @@ f) As entidades licenciadoras e fiscalizadoras efectuarão, o mais rapidamente p
 
 g) Para cumprimento das suas atribuições, a Inspecção-Geral do Trabalho terá, sempre que necessário, o apoio técnico da Direcção de Serviços de Prevenção de Riscos Profissionais;
 
+g') Para cumprimento das suas atribuições, a Direcção-Geral de Saúde terá, sempre que necessário, o apoio do Instituto Nacional de Saúde Dr. Ricardo Jorge.
+
+> Aditado pelo/a [Portaria n.º 666/77](https://diariodarepublica.pt/dr/detalhe/portaria/666-1977-277806), publicado em 1977-10-29.
+
 h) Os documentos escritos dirigidos às firmas pelas entidades com competência no licenciamento e na fiscalização das condições de higiene e segurança do trabalho serão obrigatoriamente mantidos nos estabelecimentos industriais a que respeitam, para serem exibidos a pedido de qualquer daquelas entidades.
 
 O não cumprimento do disposto nesta norma será punido com a multa prevista no artigo 8.º do [Decreto-Lei n.º 46923](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46923-1966-486317), de 28 de Março de 1966.
@@ -148,13 +174,23 @@ O não cumprimento do disposto nesta norma será punido com a multa prevista no 
 
 2.1 - A Comissão Interministerial Permanente tem a seguinte composição:
 
-a) Um representante do Ministério da Indústria e Tecnologia (Direcção-Geral da Qualidade), que presidirá;
+a) Três representantes do Ministério da Indústria e Comércio (Direcção-Geral da Indústria, que presidirá, Direcção-Geral de Energia e Direcção-Geral de Geologia e Minas);
 
-b) Um representante da Secretaria de Estado do Fomento Agrário (Direcção-Geral dos Serviços Pecuários);
+> Alterado pelo/a [Portaria n.º 302/87](https://diariodarepublica.pt/dr/detalhe/portaria/302-1987-666303), publicado em 1987-04-11.
+
+b) Dois representantes do Ministério da Agricultura, Pescas e Alimentação (Instituto de Apoio à Transformação e Comercialização dos Produtos Agro-Alimentares e Direcção-Geral da Pecuária).
+
+> Alterado pelo/a [Portaria n.º 302/87](https://diariodarepublica.pt/dr/detalhe/portaria/302-1987-666303), publicado em 1987-04-11.
 
 c) Dois representantes da Secretaria de Estado do Trabalho (Inspecção-Geral do Trabalho e Direcção de Serviços de Prevenção de Riscos Profissionais);
 
-d) Um representante da Secretaria de Estado da Saúde (Direcção-Geral de Saúde).
+d) Dois representantes da Secretaria de Estado da Saúde (Direcção-Geral de Saúde e Instituto Nacional de Saúde Dr. Ricardo Jorge).
+
+> Alterado pelo/a [Portaria n.º 666/77](https://diariodarepublica.pt/dr/detalhe/portaria/666-1977-277806), publicado em 1977-10-29.
+
+e) Um representante da Secretaria de Estado do Ambiente e Recursos Naturais (Direcção-Geral da Qualidade do Ambiente) e um representante da Secretaria de Estado da Administração Local e do Ordenamento do Território (Direcção-Geral da Administração Local).
+
+> Aditado pelo/a [Portaria n.º 302/87](https://diariodarepublica.pt/dr/detalhe/portaria/302-1987-666303), publicado em 1987-04-11.
 
 2.2 - A Comissão Interministerial Permanente tem as seguintes atribuições:
 
@@ -164,10 +200,16 @@ b) Promover ê elaboração de projectos de normas técnicas sobre hiegiene e se
 
 c) Elaborar parecer sobre casos omissos na legislação aplicável aos estabelecimentos industriais licenciados e fiscalizados pelo Estado e dúvidas que eventualmente a interpretação daquela legislação suscite;
 
-d) Propor aos Ministros ou Secretários de Estado dos departamentos representados na Comissão a revisão da legislação aplicável aos estabelecimentos industriais licenciados e fiscalizados pelo Estado, sempre que o considere necessário para a manter actualizada.
+d) Propor aos ministros ou secretários de Estado dos departamentos representados na Comissão a revisão da legislação aplicável aos estabelecimentos industriais licenciados e fiscalizados pelo Estado.
 
-2.3 - A Comissão poderá recorrer à colaboração de técnicos de reconhecida competência, quando o julgar necessário.
+> Alterado pelo/a [Portaria n.º 302/87](https://diariodarepublica.pt/dr/detalhe/portaria/302-1987-666303), publicado em 1987-04-11.
 
-2.4 - O secretariado da Comissão será assegurado pela Direcção-Geral da Qualidade.
+2.3 - A Comissão poderá recorrer a técnicos de reconhecida competência e a entidades interessadas nas matérias do âmbito das atribuições da Comissão.
+
+> Alterado pelo/a [Portaria n.º 666/77](https://diariodarepublica.pt/dr/detalhe/portaria/666-1977-277806), publicado em 1977-10-29.
+
+2.4 - O secretariado da Comissão será assegurado pela Direcção-Geral da Indústria.
+
+> Alterado pelo/a [Portaria n.º 302/87](https://diariodarepublica.pt/dr/detalhe/portaria/302-1987-666303), publicado em 1987-04-11.
 
 Ministérios da Indústria e Tecnologia, da Agricultura e Pescas, do Trabalho e dos Assuntos Sociais, 15 de Julho de 1976. - O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa. - O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso. - O Ministro do Trabalho, João Pedro Tomás Rosa. - O Ministro dos Assuntos Sociais, Rui Manuel Parente Chancerelle de Machete.

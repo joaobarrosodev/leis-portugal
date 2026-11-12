@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:369595:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 60,
+      "texto": "e) Os funcionários que possuam categorias da letra L, do quadro ou fora dele, desde que tenham ingressado em categoria igual ou inferior à do início da carreira e tenham mais de cinco anos nessas categorias ou, cumulativamente com elas, em categorias das letras J ou K e mais de quinze anos de bom e efectivo serviço na função pública, mediante proposta fundamentada da hierarquia.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova alínea e) da norma n.º 20 — inserida após a unidade 60 (alínea d)); a parte relativa ao despacho de 16 de Novembro de 1978 é de outro diploma e foi ignorada",
+    "Alterador 2: altera os mapas de pessoal da Portaria n.º 710/79 (outro diploma); nada a aplicar ao original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

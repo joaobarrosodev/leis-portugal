@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:469781:por",
+  "substituicoes": [
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "São dispensados os requisitos de habilitações literárias e ou técnico-profissionais a todo o pessoal que, ao tempo da publicação do [Decreto-Lei n.º 519-Q2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-q2-1979-156832), de 29 de Dezembro, se encontrasse ao serviço do Instituto da Família e Acção Social, qualquer que seja o seu vínculo jurídico.",
+      "alterador": 2
+    },
+    {
+      "de": 57,
+      "ate": 57,
+      "texto": "Os actuais técnicos de educação habilitados com o curso de educador de infância ou o do magistério primário, bem como os educadores de infância, desde que, uns e outros, desempenhem funções inspectivas e orientadoras da rede de estabelecimentos de infância dependentes do Ministério dos Assuntos Sociais, transitam para o novo quadro, para a categoria de técnico de educação de 1.ª ou de 2.ª classe, conforme possuam, respectivamente, mais ou menos de três anos de exercício efectivo daquelas funções.\n\nOs actuais técnicos de educação que não possuam as habilitações acima indicadas, mas se encontravam inseridos naquela carreira igualmente transitam para o novo quadro, para a categoria de técnico de educação de 1.ª classe ou de 2.ª classe, de acordo com o preceituado no parágrafo anterior, devendo, no entanto, os respectivos lugares ser extintos à medida que forem vagando.",
+      "alterador": 1
+    },
+    {
+      "de": 72,
+      "ate": 72,
+      "texto": "b) Igualmente transitam para esta categoria, por equivalência, os actuais professores de Trabalhos Manuais e o professor do 12.º grupo do ensino técnico.",
+      "alterador": 2
+    },
+    {
+      "de": 166,
+      "ate": 167,
+      "texto": "5.1 - É provido na categoria de encarregado do pessoal doméstico o pessoal que actualmente possui as categorias de encarregado de serviços domésticos, encarregado de lar, encarregado de refeitório e encarregado de sector de 2.ª classe, bem como todo o pessoal, independentemente da sua categoria actual, que exerça funções de encarregado do pesosal doméstico dos estabelecimentos na dependência deste Instituto.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 n.º 1: nova redação de II-C) — unidade 57 substituída pelo 1.º parágrafo novo e o parágrafo aditado; 58 fica igual.",
+    "Alt. 1 n.º 2: nova redação do 5.1 (H) num só parágrafo — unidades 166-167 substituídas.",
+    "Alt. 2: nova redação do ponto 8 dos critérios gerais — corpo (unidade 23) substituído; epígrafe igual.",
+    "Alt. 2: nova redação de D) 2.1 b) — unidade 72 substituída; 2.1 e a) mantidos ('...').",
+    "Alt. 3 (DRR 18/84/M): altera o quadro de pessoal regional (mapas em imagem), não o texto do original — ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

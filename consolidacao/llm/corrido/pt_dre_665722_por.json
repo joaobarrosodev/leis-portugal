@@ -1,0 +1,104 @@
+{
+  "id": "pt:dre:665722:por",
+  "substituicoes": [
+    {
+      "de": 51,
+      "ate": 51,
+      "texto": "2.8 - EPI para intervenção em situações de grande perigo. - O manual de informações entregue pelo fabricante com os EPI para intervenção em situações de grande perigo, referidas no n.º 2.1 do anexo II da presente portaria, deve incluir, em especial, dados destinados ao uso de pessoas competentes, treinadas e qualificadas para os interpretar e os fazer aplicar pelo utilizador.",
+      "alterador": 2
+    },
+    {
+      "de": 107,
+      "ate": 107,
+      "texto": "Para este efeito, os materiais constitutivos e outros componentes destes tipos de EPI devem ser escolhidos, ou concebidos, e colocados de modo que a corrente de fuga, medida através da cobertura de protecção, em condições de ensaio que utilizem tensões semelhantes às susceptíveis de serem encontradas in situ, seja tão fraca quanto possível e, em qualquer caso, inferior a um valor convencional máximo admissível correlacionado com o limiar de tolerância.",
+      "alterador": 1
+    },
+    {
+      "de": 139,
+      "ate": 139,
+      "texto": "## ANEXO II — Procedimentos de comprovação complementar",
+      "alterador": 1
+    },
+    {
+      "de": 141,
+      "ate": 141,
+      "texto": "1.1 - O exame CE de tipo é o procedimento pelo qual um organismo de qualificação reconhecida para o efeito no âmbito do Sistema Português da Qualidade (SPQ), a que se refere o Decreto-Lei n.º 234/93, de 2 de Julho, verifica e certifica se um modelo de EPI satisfaz as disposições que lhe são aplicáveis no âmbito do presente diploma.",
+      "alterador": 1
+    },
+    {
+      "de": 179,
+      "ate": 179,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 210,
+      "ate": 210,
+      "texto": "b) O organismo previsto no n.º 1 procederá periodicamente a auditorias e fornecerá um relatório de cada auditoria ao fabricante.",
+      "alterador": 1
+    },
+    {
+      "de": 221,
+      "ate": 222,
+      "texto": "## ANEXO IV — Declaração de conformidade CE\n\n1 - A declaração de conformidade CE é o procedimento pelo qual o fabricante ou o seu mandatário estabelecido na Comunidade emite uma declaração de acordo com o modelo constante do número seguinte, que atesta que o EPI está conforme com as disposições da presente portaria e do Decreto-Lei n.º 128/93, de 22 de Abril, a fim de a poder apresentar às autoridades competentes.\n\n2 - O modelo de declaração de conformidade CE é o seguinte:\n\n'O fabricante ou o seu mandatário estabelecido na CE ... (ver nota 1) declara que o EPI novo descrito a seguir: ... (ver nota 2) está conforme com as disposições do Decreto-Lei n.º 128/93, de 22 de Abril, que transpõe a Directiva n.º [89/686/CEE](http://data.europa.eu/eli/dir/1989/686/oj?locale=pt), com a norma nacional ..., que transpõe a norma harmonizada a nível europeu n.º ...; é idêntico ao EPI que foi objecto de certificado CE de tipo n.º ..., emitido por ... (ver nota 3); foi submetido ao procedimento referido nos n.os 3/4 (ver nota 4) do anexo II da Portaria n.º 1131/93, de 4 de Novembro, sob controlo de ... (ver nota 3).",
+      "alterador": 1
+    },
+    {
+      "de": 224,
+      "ate": 224,
+      "texto": "(Assinatura) (ver nota 5).",
+      "alterador": 1
+    },
+    {
+      "de": 229,
+      "ate": 229,
+      "texto": "(nota 5) Nome e função do signatário com poderes para vincular o fabricante ou seu mandário.'",
+      "alterador": 1
+    },
+    {
+      "de": 231,
+      "ate": 235,
+      "texto": "1 - Marcação CE de conformidade:\n\n1.2 - A marcação CE de conformidade é constituída pelas iniciais CE de acordo com o seguinte grafismo:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/085b00/07620763.pdf)\n\n1.3 - No caso de redução ou de ampliação da marcação CE, devem ser respeitadas as proporções resultantes do grafismo graduado acima indicado.\n\n1.4 - Os diferentes elementos de marcação CE devem ter sensivelmente a mesma dimensão vertical, que não pode ser inferior a 5 mm, podendo ser prevista uma derrogação a esta dimensão mínima para os EPI de pequena dimensão.",
+      "alterador": 1
+    },
+    {
+      "de": 236,
+      "ate": 236,
+      "texto": "",
+      "alterador": 2
+    },
+    {
+      "de": 237,
+      "ate": 239,
+      "texto": "",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 35,
+      "texto": "h) Às referências dos diplomas aplicados em conformidade com o n.º 5 do artigo 3.º-C do Decreto-Lei n.º 128/93, de 22 de Abril, com a redacção que lhe foi dada pelo n.º 2 do artigo 5.º do Decreto-Lei n.º 139/95, de 14 de Junho, se for o caso;\n\ni) Ao nome, morada e número de identificação dos organismos que intervêm na fase de concepção dos EPI.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 75,
+      "texto": "Os EPI destinados à prevenção do afogamento devem poder trazer à superfície tão rapidamente quanto possível, sem prejudicar a saúde do utilizador eventualmente esgotado ou sem sentidos, mergulhado num meio líquido, e fazê-lo flutuar numa posição que lhe permita respirar enquanto aguarda socorro.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1, 1): aditadas as alíneas h) e i) ao n.º 1.4 do anexo I: inserção depois da unidade 35.",
+    "Alt.1, 2): aditado parágrafo ao n.º 3.4 do anexo I a seguir ao primeiro parágrafo ([...] antes e depois): inserção depois da unidade 75.",
+    "Alt.1, 3): no 2.º parágrafo do n.º 3.8 do anexo I, 'corrente de fuga média' passa a 'corrente de fuga, medida': unidade 107.",
+    "Alt.1, 4): anexo II - nova epígrafe (unidade 139, mantido o formato '## ANEXO II — epígrafe'), nova redacção do n.º 1.1 (141) e da alínea b) do n.º 4.2 (210); eliminado o último parágrafo do n.º 2.2 (179).",
+    "Alt.1, 5): nova redacção do anexo IV: epígrafe, n.os 1 e 2 e modelo (221-222), assinatura (224) e nota 5 (229); 'Feito em' e notas 1 a 4 iguais.",
+    "Alt.1, 6): nova redacção do anexo V: n.os 1, 1.2, grafismo, 1.3 e 1.4 (231-235); antigos imagem e notas (237-239) eliminados.",
+    "Alt.2, 1.º: nova redacção do primeiro parágrafo do n.º 2.8 do anexo I: unidade 51.",
+    "Alt.2, 2.º: eliminado o n.º 1.5 do anexo V (que o Alt.1 tinha posto no lugar da unidade 236, com as alíneas a) e b)): unidade 236 eliminada, alíneas não inseridas.",
+    "Alt.3 (Declaração de Rectificação n.º 1026/2011): rectifica um aviso de procedimento concursal, não o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

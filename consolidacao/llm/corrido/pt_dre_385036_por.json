@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:385036:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 4: prorrogam ou alteram os prazos do n.º 6) da alínea b) do n.º 5.º (unidade 25, 'no prazo de 60 dias') e da alínea a) do n.º 9.º (unidade 36, 'No prazo de 1 ano') para datas fixas, sem dar nova redação — alteração não textual, não aplicada. Alterador 5 (Decreto-Lei n.º 161/89, arts. 3.º e 4.º): as referências à comissão liquidatária entendem-se feitas ao administrador liquidatário e a superintendência passa ao Ministro das Finanças — regra de leitura, não alteração textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1: prazo do n.º 5.º, b), 6) prorrogado até 3-8-1985 — sem nova redação; não aplicado.",
+    "Alterador 2: prazo do n.º 9.º, a) prorrogado até 3-3-1986 — sem nova redação; não aplicado.",
+    "Alterador 3: prazos do n.º 5.º, b), 6) e n.º 9.º, a) alterados para 3-3-1986 e 3-5-1986 — sem nova redação; não aplicado.",
+    "Alterador 4: os mesmos prazos alterados para 3-9-1986 e 3-7-1987 — sem nova redação; não aplicado.",
+    "Alterador 5: art. 1.º e 2.º dirigem-se a outros diplomas (ignorados); arts. 3.º e 4.º são regras de remissão/competência sem alteração textual; não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

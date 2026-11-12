@@ -1,0 +1,147 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:670534:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-02-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a5b5e8e9d85d6726",
+    "0318d15d628aa9c7",
+    "cf6eb56de00fac50",
+    "11eaedba1c03b1d0",
+    "e57964c733e00fc9",
+    "14a6b1eadc85c4c0",
+    "09e0c7dea5314371",
+    "0bf73a3cb026c2e5",
+    "4dacf2a6536b178c"
+   ]
+  },
+  {
+   "date": "1994-12-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:562064:por",
+     "title": "Decreto-Lei n.º 301/94",
+     "published": "1994-12-16",
+     "dre_path": "/dr/detalhe/decreto-lei/301-1994-562064"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "a5b5e8e9d85d6726",
+    "f311d51aae2e4d9b",
+    "cf6eb56de00fac50",
+    "11eaedba1c03b1d0",
+    "201c404a7b5508d6",
+    "14a6b1eadc85c4c0",
+    "09e0c7dea5314371",
+    "0bf73a3cb026c2e5",
+    "4dacf2a6536b178c"
+   ]
+  }
+ ],
+ "fragments": {
+  "a5b5e8e9d85d6726": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Fevereiro\n\nO artigo 4.º da [Lei n.º 36/91](https://diariodarepublica.pt/dr/detalhe/lei/36-1991-691435), de 27 de Julho, veio permitir às empresas objecto de privatização que o valor dos elementos do activo imobilizado resultante das avaliações, elaboradas pelas entidades habilitadas para efeitos dos processos de privatização, releve para o cálculo das reintegrações do exercício, remetendo para diploma posterior a respectiva regulamentação.\n\nAssim:\n\nNo desenvolvimento do regime estabelecido no artigo 4.º da [Lei n.º 36/91](https://diariodarepublica.pt/dr/detalhe/lei/36-1991-691435), de 27 de Julho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "0318d15d628aa9c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito da reavaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito da reavaliação\n\n1 - As empresas já privatizadas, em fase de privatização ou que venham a ser privatizadas podem reavaliar os elementos do seu activo imobilizado corpóreo ao serviço da empresa na data a que se reporta a reavaliação e existentes na data em que a mesma se efectua.\n\n2 - A reavaliação reporta-se à data da avaliação para privatização ou, sendo esta efectuado por fases, à data da avaliação para a primeira fase.\n\n3 - Exceptuam-se do disposto no número anterior:\n\na) Os elementos completamente reintegrados na data da reavalização e já reavaliados nessa qualidade ao abrigo de anterior legislação de carácter fiscal;\n\nb) Os elementos de reduzido valor cujo custo de aquisição ou de produção tenha sido deduzido num só exercício, nos termos do artigo 31.º do Código do IRC.\n\n4 - A reavaliação deve constar do balanço referente ao termo do período em que se integra a data da avaliação ou, nos casos em que esta seja anterior a 1 de Janeiro de 1991, do balanço referente ao termo do exercício de 1991.\n\n5 - Se já se tiver procedido ao encerramento das contas à data da publicação deste diploma ou não puder efectuar-se a reavaliação em tempo útil, deverá esta constar do balanço referente ao termo do exercício de 1992."
+  },
+  "cf6eb56de00fac50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Método de reavaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Método de reavaliação\n\n1 - Sem prejuízo do disposto no n.º 3, a reavaliação a que se refere o artigo anterior terá como base o valor resultante das avaliações elaboradas pelas entidades habilitadas para efeitos dos processos de privatização.\n\n2 - Havendo diferentes avaliações casuísticas elaboradas por mais de uma das entidades referidas no número anterior, relevará para o efeito o menor dos valores de entre os que forem aceites pelo Ministro das Finanças.\n\n3 - No caso de instituições financeiras, deverá ser obtida concordância das autoridades de controlo, anexando-se à declaração de rendimentos o correspondente documento comprovativo."
+  },
+  "11eaedba1c03b1d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Processo de actualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Processo de actualização\n\n1 - Os elementos do activo imobilizado não totalmente reintegrados serão actualizados multiplicando quer o valor dos mesmos elementos quer as correspondentes reintegrações acumuladas pelo coeficiente que resultar de divisão do valor líquido decorrente da avaliação pelo valor líquido contabilístico à data a que esta se reporta.\n\n2 - Os elementos do activo imobilizado já totalmente reintegrados serão actualizados pela adição ao valor de aquisição, de produção ou de reavaliação, consoante o caso, do valor líquido resultante da avaliação a que se refere o artigo anterior.\n\n3 - Sempre que seja necessário repartir por vários elementos do activo imobilizado um acréscimo decorrente da avaliação aceite nos termos do artigo 2.º, utilizar-se-ão, como critérios de repartição, os valores líquidos contabilísticos."
+  },
+  "e57964c733e00fc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Reserva de reavaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reserva de reavaliação\n\n1 - A reserva de reavaliação corresponderá ao saldo resultante dos movimentos contabilísticos inerentes ao processo de actualização, os quais serão registados, conforme os casos, a débito ou a crédito de uma conta denominada «Reserva de reavaliação - [Lei n.º 36/91](https://diariodarepublica.pt/dr/detalhe/lei/36-1991-691435), de 27 de Julho».\n\n2 - A reserva de reavaliação só pode ser movimentada para cobertura de prejuízos acumulados até ao termo do período em que se integra a data a que se reporta a reavaliação, inclusive, e para incorporação no capital social, na parte remanescente.\n\n3 - As utilizações previstas no número anterior só poderão efectivar-se no exercício seguinte àquele em que se efectuou a reavaliação."
+  },
+  "14a6b1eadc85c4c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Regime fiscal das reintegrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime fiscal das reintegrações\n\n1 - O regime fiscal das reintegrações dos elementos reavaliados ao abrigo da [Lei n.º 36/91](https://diariodarepublica.pt/dr/detalhe/lei/36-1991-691435), de 27 de Julho, regula-se pelas disposições sobre reintegrações e amortizações do Código do IRC e do [Decreto Regulamentar n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532), de 12 de Janeiro.\n\n2 - Tratando-se de bens totalmente reintegrados, a taxa máxima a praticar corresponderá à que permite reintegrar o novo valor dentro do período adicional de utilização futura prevista.\n\n3 - As reintegrações dos elementos do activo imobilizado poderão calcular-se sobre os valores resultantes da reavaliação a partir do exercício de 1991, inclusive."
+  },
+  "09e0c7dea5314371": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Custos ou perdas não dedutíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Custos ou perdas não dedutíveis\n\n1 - Não são dedutíveis para eleitos fiscais os seguintes custos ou perdas:\n\na) O produto de 0,4 pela importância do aumento das reintegrações anuais resultantes da reavaliação;\n\nb) A parte do valor líquido contabilístico dos elementos inutilizados ou destruídos que tenham sido reavaliados ao abrigo deste diploma, na parte que corresponde à reavaliação efectuado, observando-se, na parte restante, o disposto no n.º 1 do artigo 10.º do [Decreto Regulamentar n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532).\n\n2 - Para efeitos do disposto na alínea a) do número anterior, considera-se como aumento das reintegrações anuais o montante obtido pela aplicação ao acréscimo do valor do imobilizado proveniente da reavaliação das taxas de reintegração utilizadas no respectivo exercício."
+  },
+  "0bf73a3cb026c2e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Elementos demonstrativos da reavaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elementos demonstrativos da reavaliação\n\n1 - À declaração periódica de rendimentos a que se refere a alínea b) do n.º 1 do artigo 94.º do Código do IRC, relativa ao exercício em que for contabilizada a reserva de reavaliação, deverão os sujeitos passivos juntar mapas demonstrativos da reavaliação efectuada.\n\n2 - Os elementos reavaliados ao abrigo deste diploma figurarão anualmente a partir do exercício em que passarem a calcular-se as reintegrações sobre os novos valores, nos mapas modelos n.os 33.11, 33.12 ou 33.13, consoante o caso, com menção, na parte superior, da [Lei n.º 36/91](https://diariodarepublica.pt/dr/detalhe/lei/36-1991-691435), observando o disposto no artigo 22.º do [Decreto Regulamentar n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532), na parte aplicável."
+  },
+  "4dacf2a6536b178c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Legislação subsidiária\n\nObservar-se-ão, com as necessárias adaptações, as disposições do [Decreto-Lei n.º 49/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1991-508453), de 25 de Janeiro, na parte não especialmente regulamentada.\n\nVisto e aprovado em Conselho de Ministros de 3 de Janeiro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.\n\nPromulgado em 21 de Janeiro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 24 de Janeiro de 1992.\n\nO Primeiro-Ministro Aníbal António Cavaco Silva."
+  },
+  "f311d51aae2e4d9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito da reavaliação",
+   "in_force_from": "1994-12-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 301/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1994-562064), publicado em 1994-12-16."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito da reavaliação\n\n1 - As empresas já privatizadas, em fase de privatização ou que venham a ser privatizadas podem reavaliar os elementos do seu activo imobilizado corpóreo ao serviço da empresa na data a que se reporta a reavaliação e existentes na data em que a mesma se efectua.\n\n2 - A reavaliação reporta-se à data da avaliação para privatização ou, sendo esta efectuado por fases, à data da avaliação para a primeira fase.\n\n3 - Exceptuam-se do disposto no número anterior:\n\na) Os elementos completamente reintegrados na data da reavalização e já reavaliados nessa qualidade ao abrigo de anterior legislação de carácter fiscal;\n\nb) Os elementos de reduzido valor cujo custo de aquisição ou de produção tenha sido deduzido num só exercício, nos termos do artigo 31.º do Código do IRC.\n\n4 - A reavaliação deve constar do balanço referente ao termo do período em que se integra a data da avaliação, sem prejuízo do disposto no n.º 2 do artigo 4.º\n\n5 - Se já se tiver procedido ao encerramento das contas ou não puder efectuar-se a reavaliação em tempo útil, deverá então constar do balanço apurado, o mais tardar, no termo do exercício seguinte, sem prejuízo do disposto no n.º 2 do artigo 4.º\n\n> Alterado pelo/a [Decreto-Lei n.º 301/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1994-562064), publicado em 1994-12-16."
+  },
+  "201c404a7b5508d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Reserva de reavaliação",
+   "in_force_from": "1994-12-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 301/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1994-562064), publicado em 1994-12-16."
+   ],
+   "markdown": "###### Artigo 4.º — Reserva de reavaliação\n\n1 - A reserva de reavaliação corresponderá ao saldo resultante dos movimentos contabilísticos inerentes ao processo de actualização, os quais serão registados, conforme os casos, a débito ou a crédito de uma conta denominada «Reserva de reavaliação - [Lei n.º 36/91](https://diariodarepublica.pt/dr/detalhe/lei/36-1991-691435), de 27 de Julho».\n\n2 - A reserva de reavaliação pode ser movimentada no mesmo exercício em que seja contabilizada para, em conjunto com a utilização de reservas de reavaliação constituídas nos termos de outros diplomas legais, e independentemente da data da respectiva constituição, cobrir resultados transitados especificamente decorrentes da constituição ou reforço de provisões para pensões e encargos similares.\n\n3 - Salvo o disposto no número anterior, a reserva de reavaliação só pode ser movimentada para cobertura de prejuízos acumulados até ao termo do período em que se integra a data a que se reporta a reavaliação, inclusive, e para incorporação no capital social, na parte remanescente.\n\n4 - As utilizações previstas no número anterior só poderão efectivar-se no exercício seguinte àquele em que se efectuou a reavaliação.\n\n> Alterado pelo/a [Decreto-Lei n.º 301/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1994-562064), publicado em 1994-12-16."
+  }
+ }
+}

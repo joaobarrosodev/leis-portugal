@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-07-15'
+version_history:
+  file: decreto-lei-56-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-02-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-07-15'
+    amending: pt:dre:575689:por
+    amending_title: Decreto-Lei n.º 225/90
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:56:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 225/90. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-56-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -218,11 +234,17 @@ e) Os preços limiares aplicáveis ao arroz de grãos médios em cada estádio d
 
 ###### Artigo 5.º — Data de referência do direito nivelador
 
-1 - O direito nivelador a pagar pelo importador é o que estiver em vigor no dia da apresentação da mercadoria para desalfandegamento.
+1 - O direito nivelador a pagar pelo importador é o que estiver em vigor no dia em que for aceite a declaração aduaneira de importação.
 
-2 - A pedido do importador poderá ser aplicado à importação o direito nivelador em vigor no dia do pedido, ajustado em função do preço limiar que estiver em vigor na data da apresentação da mercadoria para desalfandegamento, durante o prazo de validade do certificado de importação de acordo com a legislação em vigor sobre fixação antecipada.
+2 - A pedido do importador, efectuado ao mesmo tempo que o pedido de certificado, pode ser aplicado à importação o direito nivelador que estiver em vigor no dia da concessão do certificado de importação.
 
-3 - Para importações provenientes de países terceiros, no caso de os direitos niveladores terem sido fixados nos termos do número anterior, poderão ser-lhes adicionados os prémios em vigor na Comunidade sempre que os preços CIF a prazo forem inferiores aos preços CIF do dia pedido.
+3 - Qualquer variação dos preços limiares acarreta o ajustamento dos direitos niveladores fixados ao abrigo do número anterior, desde que ainda não tenha sido aceite a respectiva declaração de importação.
+
+4 - Para importações provenientes de países terceiros, no caso de os direitos niveladores terem sido fixados nos termos do n.º 2, podem ser-lhes adicionados os prémios em vigor na Comunidade, sempre que os preços CIF a prazo forem inferiores aos preços CIF do dia da concessão do certificado de importação.
+
+5 - A faculdade prevista no n.º 2 pode ser suspensa, caso ocorram perturbações no mercado, por aviso do INGA - Instituto Nacional de Intervenção e Garantia Agrícola à Direcção-Geral do Comércio Externo, com efeitos imediatos após o seu conhecimento por esta Direcção-Geral, devendo o texto do aviso explicitar a data limite da duração da suspensão.
+
+> Alterado pelo/a [Decreto-Lei n.º 225/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1990-575689), publicado em 1990-07-10.
 
 ###### Artigo 6.º — Publicidade dos direitos niveladores
 
@@ -240,13 +262,21 @@ Os direitos niveladores serão cobrados pelas alfândegas e constituem receita d
 
 ###### Artigo 9.º — Documentação a utilizar
 
-Para efeitos do disposto no artigo 270.º do Acto de Adesão, utilizar-se-á um certificado de importação a emitir pela Direcção-Geral do Comércio Externo nas seguintes condições:
+Para efeitos do disposto no artigo 270.º do Acto de Adesão, utilizar-se-á um certificado de importação, a emitir pela Direcção-Geral do Comércio Externo, nas seguintes condições:
 
-a) O pedido de certificado será obrigatoriamente acompanhado da constituição de uma caução a favor da Direcção-Geral do Comércio Externo, a fixar nos termos do artigo 10.º, a qual servirá de garantia à boa execução da operação no prazo fixado, e que será perdida, salvo caso de força maior, no todo ou em parte, caso a operação se não realize apenas parcialmente, sendo restituída mediante apresentação de certidão pelas alfândegas comprovativa da realização da operação;
+a) O certificado de importação é concedido no terceiro dia útil a contar do dia da apresentação do pedido, considerando-se o dia de apresentação como primeiro dia, sem prejuízo do disposto no artigo 274.º do Acto de Adesão;
 
-b) A tolerância em relação à quantidade constante do certificado é de 10%;
+b) Os pedidos de certificados apresentados depois das 13 horas consideram-se apresentados no primeiro dia útil seguinte;
 
-c) O prazo de validade do certificado é de 60 dias.
+c) O pedido de certificado é obrigatoriamente acompanhado da constituição de uma caução a favor da Direcção-Geral do Comércio Externo, a fixar nos termos do artigo seguinte, a qual serve de garantia à boa execução da operação no prazo fixado e que será perdida, salvo caso de força maior, no todo ou em parte, caso a operação se não realize ou se realize apenas parcialmente;
+
+d) A caução será restituída mediante apresentação do original do certificado donde conste a respectiva utilização, visada pela Direcção-Geral das Alfândegas;
+
+e) A tolerância em relação à quantidade constante do certificado é de 10%;
+
+f) O prazo de validade do certificado é de 60 dias.
+
+> Alterado pelo/a [Decreto-Lei n.º 225/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1990-575689), publicado em 1990-07-10.
 
 ###### Artigo 10.º — Caução
 

@@ -1,0 +1,360 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:408501:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "35734576d5afb72d",
+    "227b7097b7f40156",
+    "7c312d0eec0aa403",
+    "66759b48d793483f",
+    "6a3cbcee04cadc8f",
+    "91d80e150ce9c174",
+    "9edf8a773bb2ce90",
+    "cd5a7abb73254511",
+    "42d76bc3db12d8ab",
+    "dbd29cbfa109465e",
+    "84e5fe3070f65e7c",
+    "f0054bdfde121303",
+    "ee99eb04e82c50ee",
+    "b5219b8d3e6bf285",
+    "478b34d18a70ada8",
+    "d55f21357c6e7c1e"
+   ]
+  },
+  {
+   "date": "2001-05-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:313815:por",
+     "title": "Portaria n.º 482/2001",
+     "published": "2001-05-10",
+     "dre_path": "/dr/detalhe/portaria/482-2001-313815"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "35734576d5afb72d",
+    "6f98e9adcd954777",
+    "a659dd53882aef0c",
+    "7d1a6d1c568415ee",
+    "46a0ba5a1add8ea8",
+    "029d758ee1266470",
+    "c7c88dd8e9bc2649",
+    "8ff4dd9728c2d260",
+    "4fc67f573594bd45",
+    "c8deaa0a744ba5df",
+    "f1481984cb8c260c",
+    "33a5b8466a310292",
+    "f651a607700f910e",
+    "c8154a50b025a978",
+    "c2792de6f82e292f",
+    "0682cf531b206a15"
+   ]
+  }
+ ],
+ "fragments": {
+  "35734576d5afb72d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Julho\n\nAs novas orientações sobre a intervenção do Estado em matéria cinematográfica, emergentes da entrada em funções do actual Governo e da criação do Ministério da Cultura, traduzir-se-ão numa nova lei do cinema, a publicar brevemente. Convém, no entanto, pôr em prática desde já algumas dessas orientações no que diz respeito ao sistema de apoios financeiros directos aos filmes de longa metragem. É esse o objectivo prosseguido pelo presente regulamento, à semelhança do que foi recentemente aprovado, em matéria de apoio selectivo, pela [Portaria n.º 86/96](https://diariodarepublica.pt/dr/detalhe/portaria/86-1996-534039), de 18 de Março. As principais alterações agora consagradas dizem respeito, por um lado, à unificação dos apoios numa única modalidade de subsídio a fundo perdido, com a consequente eliminação do subsídio reembolsável, que a experiência demonstrou ser de difícil aplicação prática, e, por outro, à instituição de um sistema mais claro e transparente de selecção dos projectos a apoiar, através da definição de métodos de apreciação e de um sistema de pontuações aplicado por uma comissão constituída por personalidades independentes.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 6.º do [Decreto-Lei n.º 350/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1993-645305), de 7 de Outubro:\n\nManda o Governo, pelo Ministro da Cultura, o seguinte:\n\n1.º É aprovado o Regulamento de Apoio Financeiro Directo à Produção Cinematográfica, publicado em anexo à presente portaria.\n\n2.º É revogada a [Portaria n.º 45-E/95](https://diariodarepublica.pt/dr/detalhe/portaria/45-e-1995-553416), de 19 de Janeiro, sem prejuízo da sua aplicação aos processos de assistência financeira aprovados ao seu abrigo.\n\nMinistério da Cultura.\n\nAssinada em 17 de Junho de 1996.\n\nO Ministro da Cultura, Manuel Maria Ferreira Carrilho.\n\nREGULAMENTO DE APOIO FINANCEIRO DIRECTO À PRODUÇÃO CINEMATOGRÁFICA"
+  },
+  "227b7097b7f40156": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente Regulamento abrange os apoios financeiros à produção cinematográfica a conceder pelo Instituto Português da Arte Cinematográfica e Audiovisual (IPACA ou Instituto), com o fim de completar os contributos obtidos pelo produtor junto de outras entidades financiadoras para a montagem financeira do projecto de filme de longa metragem de ficção."
+  },
+  "7c312d0eec0aa403": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Complementaridade do apoio directo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Complementaridade do apoio directo\n\nO apoio a conceder pelo IPACA, mediante a atribuição de financiamento directo, é sempre complementar de outros financiamentos já garantidos e comprovados e é condicionado à existência de uma percentagem mínima de financiamento exterior, a definir por despacho do Ministro da Cultura."
+  },
+  "66759b48d793483f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Modalidade de apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Modalidade de apoio financeiro\n\nO financiamento directo a conceder pelo IPACA reveste unicamente a forma de subsídio a fundo perdido."
+  },
+  "6a3cbcee04cadc8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Limites do apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Limites do apoio financeiro\n\n1 - O apoio financeiro a conceder ao abrigo do presente Regulamento é fixado anualmente, em quantia global, por despacho do Ministro da Cultura.\n\n2 - Serão igualmente fixados por despacho do Ministro da Cultura os limites máximos do apoio a conceder a cada produção, tanto em valor absoluto como em percentagem do respectivo custo total."
+  },
+  "91d80e150ce9c174": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Forma de concessão do apoio directo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma de concessão do apoio directo\n\n1 - Os apoios financeiros previstos no presente Regulamento são atribuídos mediante concurso.\n\n2 - Compete ao Ministro da Cultura determinar o número de concursos a realizar anualmente."
+  },
+  "9edf8a773bb2ce90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Beneficiários\n\n1 - Podem beneficiar do apoio financeiro directo os produtores cinematográficos que se encontrem devidamente inscritos no IPACA.\n\n2 - Quando se tratar de uma co-produção, o apoio financeiro será atribuído ao produtor ou produtores nacionais da obra cinematográfica.\n\n3 - As obras apresentadas deverão obedecer aos requisitos enunciados no artigo 13.º do [Decreto-Lei n.º 350/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1993-645305), de 7 de Outubro."
+  },
+  "cd5a7abb73254511": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Publicitação do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Publicitação do concurso\n\n1 - Compete ao IPACA anunciar a abertura do concurso, por aviso afixado na sua sede e publicado, simultaneamente, em dois jornais de grande expansão nacional.\n\n2 - O aviso fará obrigatoriamente menção dos seguintes valores e do despacho que os aprovou:\n\na) Montante global dos apoios a conceder;\n\nb) Percentagem mínima de financiamento exterior a que se refere o artigo 2.º;\n\nc) Limites a que se refere o n.º 2 do artigo 4.º\n\n3 - O aviso estabelecerá igualmente o prazo de apresentação das candidaturas, que não poderá ser inferior a 20 dias."
+  },
+  "42d76bc3db12d8ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apresentação das candidaturas\n\n1 - O pedido de concessão de financiamento directo à produção cinematográfica deve ser apresentado no IPACA, mediante requerimento, do qual constem:\n\na) A identificação completa e o domicílio ou sede dos requerentes;\n\nb) O número de telefone ou de telefax para notificações verbais;\n\nc) O título do projecto concorrente;\n\nd) O montante do apoio financeiro pretendido.\n\n2 - O requerimento a que se refere o número anterior deve ser instruído com os seguintes documentos:\n\na) Certidão do registo comercial da entidade ou entidades produtoras e, relativamente aos produtores estrangeiros, documento equiparável que identifique os seus titulares e administradores;\n\nb) Currículo do realizador, com menção das presenças e dos prémios e distinções que tenha recebido em festivais nacionais e internacionais;\n\nc) Nível comprovado de audiência, expresso na venda de bilhetes durante o período de exibição comercial, no País ou no estrangeiro, das obras anteriores do mesmo realizador estreadas nos últimos cinco anos, bem como número comprovado de passagens das mesmas obras em televisão;\n\nd) Currículo do produtor ou co-produtores;\n\ne) Argumento cinematográfico e demais elementos que o produtor considere relevantes para a apreciação do projecto, tendo em conta os critérios de apreciação definidos no artigo 10.º;\n\nf) Sinopse;\n\ng) Formato e suporte;\n\nh) Duração prevista;\n\ni) Locais de filmagem e décors;\n\nj) Datas previstas de rodagem, montagem, sonorização e entrega da cópia síncrona;\n\nl) Autorizações do realizador, do argumentista e do autor de obra preexistente, prestadas nos termos do Código do Direito de Autor e Direitos Conexos;\n\nm) Registo do argumento cinematográfico na Direcção-Geral dos Espectáculos;\n\nn) Orçamento, segundo modelo do IPACA, e montagem financeira do projecto;\n\no) Prova das participações financeiras exteriores ao IPACA que garantam a cobertura financeira do projecto, incluindo plano financeiro, plano de liquidação, condições de reembolso aos co-financiadores e outras condições eventualmente estabelecidas em acordos feitos com outras entidades, sendo obrigatória, em caso de co-produção ou co-participação, a especificação quantificada de cada um dos financiamentos, a sua proveniência e a sua calendarização;\n\np) Contratos de distribuição e difusão da obra cinematográfica já celebrados ou negociados;\n\nq) Declarações comprovativas da inexistência de obrigações por cumprir perante a administração fiscal e a segurança social."
+  },
+  "dbd29cbfa109465e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Admissão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Admissão das candidaturas\n\n1 - No prazo de 10 dias a contar do termo do prazo para a apresentação das candidaturas, o IPACA verifica se os pedidos se encontram instruídos com as menções e os documentos referidos no artigo anterior e notifica os candidatos para, no prazo de cinco dias, suprir eventuais omissões e deficiências.\n\n2 - Os pedidos que não forem completados ou corrigidos nos termos da parte final do número anterior serão liminarmente rejeitados pelo IPACA.\n\n3 - Serão igualmente rejeitadas as candidaturas que se encontrem nalguma das situações a seguir descritas, se o requerente, notificado para o efeito e no prazo de cinco dias, não apresentar esclarecimentos que as justifiquem:\n\na) Candidaturas cujo orçamento seja considerado pelo IPACA manifestamente exagerado;\n\nb) Candidaturas cujo projecto não se mostre exequível dentro do orçamento proposto;\n\nc) Candidaturas cujos financiamentos exteriores não ofereçam garantias mínimas de credibilidade e solidez;\n\nd) Candidaturas cujos produtores não tenham cumprido obrigações anteriores para com o IPACA.\n\n4 - Da rejeição liminar cabe reclamação, no prazo de cinco dias, para a direcção do IPACA, que decide definitivamente em idêntico prazo.\n\n5 - A rejeição liminar e a decisão da reclamação são notificadas aos interessados, juntamente com os respectivos fundamentos, nos termos do Código do Procedimento Administrativo.\n\n6 - Decididas as reclamações ou terminados os prazos para a sua apresentação, o IPACA torna pública a lista das candidaturas admitidas, mediante aviso comunicado aos concorrentes e afixado na sua sede."
+  },
+  "84e5fe3070f65e7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Apreciação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apreciação das candidaturas\n\n1 - A apreciação das candidaturas é feita pelo IPACA, com base no parecer técnico de uma comissão designada para o efeito pelo Ministro da Cultura, sob proposta do Instituto, e constituída por três personalidades de reconhecido mérito.\n\n2 - A apreciação das candidaturas deverá estar concluída dentro do prazo de 10 dias após a comunicação do aviso de admissão a que se refere o n.º 5 do artigo anterior.\n\n3 - O parecer técnico pontuará os projectos concorrentes, na escala de 1 a 5, em cada um dos seguintes aspectos:\n\na) Currículo do realizador, com especial incidência nos últimos cinco anos, tendo designadamente em conta:\n\naa) O nível de audiência, expresso na venda de bilhetes durante o período de exibição comercial, no País ou no estrangeiro, das suas obras anteriores, bem como o número de passagens das mesmas obras em televisão;\n\nab) As presenças, prémios e distinções em festivais nacionais e internacionais;\n\nb) Currículo do produtor, com especial incidência no seu trabalho nos últimos cinco anos, considerando o número de obras produzidas e distribuídas no País e no estrangeiro, as receitas obtidas com as mesmas e as presenças, os prémios e as distinções em festivais nacionais ou internacionais;\n\nb) Interesse estratégico do projecto para o cinema português, tendo em conta o currículo dos parceiros nacionais ou não nacionais do produtor e as garantias de distribuição e difusão da obra a produzir.\n\n4 - Para efeitos de ordenação das candidaturas, ter-se-á em conta a mais alta das pontuações obtida nas subalíneas aa) ou ab) do número anterior.\n\n5 - Havendo candidaturas com igual pontuação em número que exceda os apoios a conceder, deverá o parecer técnico, para efeitos de desempate, pontuar os respectivos projectos, igualmente na escala de 1 a 5, tendo em conta a importância da componente nacional da obra do ponto de vista técnico, cultural e artístico.\n\n6 - O IPACA procede à ordenação das candidaturas com base no parecer técnico, justificando adequadamente as alterações feitas à pontuação dos concorrentes, se a elas houver lugar, e elabora a proposta de atribuição dos apoios financeiros.\n\n7 - O IPACA poderá a todo o tempo proceder à reavaliação dos financiamentos exteriores e excluir as candidaturas que não ofereçam as garantias mínimas indispensáveis a esses financiamentos."
+  },
+  "f0054bdfde121303": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Decisão\n\n1 - No prazo de 10 dias após a recepção da proposta do IPACA, o Ministro da Cultura decide a atribuição dos apoios financeiros directos com base na proposta apresentada, no montante de assistência financeira disponível e no financiamento solicitado.\n\n2 - Compete ao IPACA tornar pública a lista dos apoios concedidos, mediante aviso afixado na sua sede e comunicado a todos os candidatos."
+  },
+  "ee99eb04e82c50ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Acordo de apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Acordo de apoio financeiro\n\n1 - A prestação do subsídio atribuído nos termos do artigo anterior é feita nos termos de acordo de apoio financeiro a celebrar entre o IPACA e o respectivo beneficiário.\n\n2 - O acordo de apoio financeiro deve ser celebrado no prazo máximo de 60 dias a contar da notificação do IPACA para o efeito e dele constarão obrigatoriamente:\n\na) Um plano de trabalhos, incluindo as datas de início e fim da rodagem;\n\nb) O prazo, não superior a dois anos, de entrega da cópia síncrona no IPACA;\n\nc) Um plano de entrega das prestações em que se desdobra o pagamento do subsídio."
+  },
+  "b5219b8d3e6bf285": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Entrega das prestações e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrega das prestações e fiscalização\n\n1 - O pagamento de cada prestação é condicionado ao cumprimento do plano de trabalhos acordado e à prestação de contas, como demonstração da boa aplicação das quantias entregues.\n\n2 - O IPACA pode verificar a qualquer momento as contas referentes ao filme, fiscalizar o prosseguimento dos trabalhos e exigir relatórios de execução.\n\n3 - A última prestação do subsídio, no valor mínimo de 5% do montante global do apoio, é destinada a suportar os custos que caibam ao produtor na promoção e estreia comercial da obra e o seu pagamento fica condicionado à entrega dos elementos referidos no n.º 3 do artigo 15.º do regulamento aprovado pela [Portaria n.º 86/96](https://diariodarepublica.pt/dr/detalhe/portaria/86-1996-534039), de 18 de Março, juntamente com os elementos que comprovem o cumprimento das condições em que se baseou a atribuição do apoio financeiro.\n\n4 - Concluído o filme com a entrega da cópia síncrona, bem como de uma cópia da obra, que o IPACA depositará para guarda da Cinemateca Portuguesa - Museu do Cinema, o produtor apresenta ao IPACA as contas finais da produção, certificadas por um contabilista devidamente credenciado."
+  },
+  "478b34d18a70ada8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Desistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Desistência\n\n1 - Os beneficiários podem desistir do apoio concedido até ao momento da celebração do acordo de apoio financeiro referido no artigo 12.º\n\n2 - Em caso de desistência, o apoio financeiro reverte a favor do candidato ordenado imediatamente a seguir na lista final aprovada."
+  },
+  "d55f21357c6e7c1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sanções\n\nA falta de cumprimento das obrigações assumidas pelo beneficiário e a prestação de falsas declarações são punidas, independentemente de outros procedimentos aplicáveis, com as sanções previstas nos artigos 16.º e 17.º do regulamento aprovado pela [Portaria n.º 86/96](https://diariodarepublica.pt/dr/detalhe/portaria/86-1996-534039), de 18 de Março."
+  },
+  "6f98e9adcd954777": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  },
+  "a659dd53882aef0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Complementaridade do apoio directo",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 2.º — Complementaridade do apoio directo\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  },
+  "7d1a6d1c568415ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Modalidade de apoio financeiro",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 3.º — Modalidade de apoio financeiro\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  },
+  "46a0ba5a1add8ea8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Limites do apoio financeiro",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 4.º — Limites do apoio financeiro\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  },
+  "029d758ee1266470": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Forma de concessão do apoio directo",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 5.º — Forma de concessão do apoio directo\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  },
+  "c7c88dd8e9bc2649": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Beneficiários",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 6.º — Beneficiários\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  },
+  "8ff4dd9728c2d260": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Publicitação do concurso",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 7.º — Publicitação do concurso\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  },
+  "4fc67f573594bd45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Apresentação das candidaturas",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 8.º — Apresentação das candidaturas\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  },
+  "c8deaa0a744ba5df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Admissão das candidaturas",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 9.º — Admissão das candidaturas\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  },
+  "f1481984cb8c260c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Apreciação das candidaturas",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 10.º — Apreciação das candidaturas\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  },
+  "33a5b8466a310292": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Decisão",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 11.º — Decisão\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  },
+  "f651a607700f910e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Acordo de apoio financeiro",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 12.º — Acordo de apoio financeiro\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  },
+  "c8154a50b025a978": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Entrega das prestações e fiscalização",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 13.º — Entrega das prestações e fiscalização\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  },
+  "c2792de6f82e292f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Desistência",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 14.º — Desistência\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  },
+  "0682cf531b206a15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Sanções",
+   "in_force_from": "2001-05-15",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 15.º — Sanções\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 482/2001](https://diariodarepublica.pt/dr/detalhe/portaria/482-2001-313815), publicado em 2001-05-10."
+  }
+ }
+}

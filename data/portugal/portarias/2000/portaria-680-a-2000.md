@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-02-03'
+version_history:
+  file: portaria-680-a-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-08-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-02-03'
+    amending: pt:dre:527224:por
+    amending_title: Portaria n.º 1216-A/2000; Portaria n.º 97/2002; Portaria n.º 109/2004
+    changes:
+    - Altera Artigo ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS::13.º
+    - Altera Artigo ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS::19.º
+    - Altera Artigo ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS::23.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/680-a/2000/08/29/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:25:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1216-A/2000; Portaria
+    n.º 97/2002; Portaria n.º 109/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-680-a-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -339,11 +356,13 @@ d) Apresentar um orçamento convenientemente detalhado e fundamentado numa estru
 
 e) Não ter sido iniciada a sua realização antes da data do registo da apresentação do projecto, formalizado pelo organismo gestor;
 
-f) Ter uma duração máxima de dois anos, a contar da data de formalização da concessão do apoio.
+f) Ter uma duração máxima de dois anos, a contar da data da formalização da concessão do apoio, podendo tal prazo ser prorrogado em casos excepcionais devidamente justificados mediante autorização do Ministro da Economia sob proposta do gestor do Programa.
 
 2 - Os projectos devem ter natureza colectiva, abrangente e não discriminatória, não havendo portanto selectividade de empresas potencialmente visadas, desenvolvendo-se como medidas de carácter geral que reforçam a economia nacional, pelo que não são elegíveis projectos que configurem situações passíveis de enquadramento nas regras dos auxílios estatais na acepção dos artigos 87.º e 88.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado).
 
 3 - Quando o projecto tenha associada formação profissional, essa componente deve cumprir o disposto no respectivo regulamento específico e na legislação enquadradora dos apoios do FSE.
+
+> Alterado pelo/a [Portaria n.º 109/2004](https://diariodarepublica.pt/dr/detalhe/portaria/109-2004-589694), publicado em 2004-01-29.
 
 ###### Artigo 14.º — Despesas elegíveis
 
@@ -573,29 +592,15 @@ b) Para projectos de iniciativas públicas, a notificação da decisão, que o o
 
 ###### Artigo 19.º — Pagamento do apoio
 
-1 - Os pedidos de pagamento são formalizados mediante preenchimento, pela entidade beneficiária, do respectivo formulário normalizado, enviado ao organismo competente coordenador.
+1 - Os pagamentos do apoio, com excepção dos pagamentos relativos à formação profissional que resultam de regulamento específico dessa componente, serão processados à entidade beneficiária nos termos constantes de norma de pagamentos homologada pelo Ministro da Economia.
 
-2 - Os pagamentos serão processados à entidade beneficiária na sequência de pedidos de reembolsos, de acordo com o previsto nos números seguintes, com excepção dos pagamentos relativos à formação profissional que resultam de regulamento específico dessa componente, tendo em consideração a legislação enquadradora dos apoios do FSE.
+2 - Os pagamentos do apoio são assegurados pelo IAPMEI ou pelo IFT ou pelo ICEP.
 
-3 - Os pagamentos do apoio são assegurados pelo IAPMEI ou pelo IFT ou pelo ICEP.
+3 - No caso de parcerias, sempre que a entidade beneficiária seja externa à Administração Pública, deverá a mesma apresentar garantia bancária nos termos e condições previstos na norma de pagamentos.
 
-4 - A entidade beneficiária poderá solicitar:
+4 - No caso das entidades beneficiárias serem direcções-gerais ou outras congéneres, o pagamento dos serviços fornecidos por terceiros no âmbito do projecto é efectuado directamente pelo IAPMEI, pelo IFT ou pelo ICEP aos respectivos fornecedores.
 
-a) Um adiantamento inicial correspondente a 30% do montante aprovado;
-
-b) Posterior ao adiantamento, pode solicitar dois reembolsos, desde que não excedam, conjuntamente com o primeiro adiantamento, 80% do valor aprovado.
-
-5 - Para efeitos da percepção dos pagamentos referentes aos reembolsos previstos na alínea b) do número anterior, a entidade beneficiária deve:
-
-a) No caso do primeiro reembolso, comprovar que já efectuou pagamentos no montante de pelo menos 60% do valor do adiantamento inicial;
-
-b) No caso do segundo reembolso, comprovar que já efectuou pagamentos no montante de pelo menos 60% do valor total recebido, incluindo o adiantamento e o primeiro reembolso.
-
-6 - No caso de parcerias, sempre que a entidade beneficiária seja externa à Administração Pública, deverá a mesma apresentar garantia bancária autónoma, emitida por instituição de crédito, correspondente ao valor do adiantamento inicial.
-
-7 - No caso de as entidades beneficiárias serem direcções-gerais ou outras congéneres, o pagamento das despesas do projecto é feito directamente pelo IAPMEI, pelo IFT ou pelo ICEP aos respectivos fornecedores.
-
-8 - O remanescente de 20% do apoio a pagar na fase de conclusão do projecto processa-se após verificação final da «Declaração de despesa» do investimento apresentada pela entidade beneficiária.
+> Alterado pelo/a [Portaria n.º 97/2002](https://diariodarepublica.pt/dr/detalhe/portaria/97-2002-276429), publicado em 2002-01-31.
 
 ###### Artigo 20.º — Obrigações das entidades beneficiárias
 
@@ -641,4 +646,6 @@ O controlo e a fiscalização são assegurados através de auditorias promovidas
 
 ###### Artigo 23.º — Disposições transitórias
 
-Os projectos recepcionados até 31 de Dezembro de 2000 poderão ser comparticipados nas despesas efectuadas após 1 de Janeiro de 2000.
+Os projectos recepcionados até 31 de Janeiro de 2001 poderão ser comparticipados nas despesas efectuadas após 1 de Janeiro de 2000.
+
+> Alterado pelo/a [Portaria n.º 1216-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1216-a-2000-527224), publicado em 2000-12-28.

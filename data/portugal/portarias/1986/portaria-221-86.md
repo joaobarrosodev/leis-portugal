@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-06-08'
+version_history:
+  file: portaria-221-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-05-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-06-08'
+    amending: pt:dre:374213:por
+    amending_title: Portaria n.º 362/88
+    changes:
+    - Altera Artigo unidades 93-94
+    - Altera Artigo unidades 96-101
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:43:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 362/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-221-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -341,20 +357,24 @@ c) Ciências da Educação.
 
 Cinco anos lectivos.
 
-3 - Condições necessárias à concessão do grau:
+3 - Condições necessárias à obtenção do grau:
 
-a) 130,5 unidades de crédito;
+a) 131 unidades de crédito;
+
+> Alterado pelo/a [Portaria n.º 362/88](https://diariodarepublica.pt/dr/detalhe/portaria/362-1988-374213), publicado em 1988-06-03.
 
 b) Aprovação em estágio pedagógico.
 
-4 - Áreas científicas e distribuição das unidades de crédito.
+4 - Áreas científicas e distribuição das unidades de crédito:
 
-Física ... 32
+a) Física ... 32,5
 
-Química ... 39,5
+b) Química ... 39,5
 
-Ciências da Educação ... 30
+c) Ciências da Educação ... 30
 
-Matemática ... 22
+d) Matemática ... 22
 
-Electrónica e Informática ... 7
+e) Electrónica e Informática ... 7
+
+> Alterado pelo/a [Portaria n.º 362/88](https://diariodarepublica.pt/dr/detalhe/portaria/362-1988-374213), publicado em 1988-06-03.

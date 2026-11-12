@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Máximo por conta aforro - 1 milhão de unidades;",
+    "depois": "Máximo por conta aforro - 250 000 unidades;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:288037:por",
+    "alterador": "pt:dre:260663:por"
+  },
+  {
+    "artigo": "unidades 22-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "0,85*E3-0,25\n\nem que E3 é a média dos valores da EURIBOR a três meses observados nos 10 dias úteis anteriores, sendo o resultado arredondado à terceira casa decimal;",
+    "depois": "0,85 * E3 + 0,25\n\nem que E3 é a média dos valores da Euribor a três meses observados nos 10 dias úteis anteriores, sendo o resultado arredondado à terceira casa decimal;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:288037:por",
+    "alterador": "pt:dre:260663:por"
+  },
+  {
+    "artigo": "unidades 26-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "0,25, no 2.º ano;\n\n0,50, no 3.º ano;\n\n0,75, do 4.º ao 7.º ano;\n\n1, no 8.º ano;\n\n1,5, no 9.º ano;\n\n2,5, no 10.º ano;",
+    "depois": "0,50 no 2.º ano;\n\n0,75 no 3.º ano;\n\n1,00 do 4.º ao 7.º ano;\n\n1,25 no 8.º ano;\n\n1,5 no 9.º ano;\n\n2,5 no 10.º ano.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:288037:por",
+    "alterador": "pt:dre:260663:por"
+  }
+]

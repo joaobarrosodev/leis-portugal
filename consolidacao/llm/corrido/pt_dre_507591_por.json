@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:507591:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 3.º do DR 27/87 revoga os artigos 31.º a 34.º do Regulamento do MNE (Decreto n.º 47478), com a redacção dada pelo Decreto n.º 149/76: alteração dirigida a outro diploma, ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

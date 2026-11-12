@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:566634:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (DL 210/99, art. 24.º n.os 3 e 4: cria um lugar de chefe de secção e extingue os de chefe de repartição; Portaria 877/99: nova nota (a) do pé do quadro; Portaria 1237/2000: cria um lugar de assessor principal; Portaria 171/2004: cria um lugar de motorista de pesados) incidem sobre o quadro de pessoal do mapa anexo, que só existe em imagem (unidade 11); não há texto a alterar.",
+  "instrucoes": [
+    "Alterador 1 (DL 210/99, art. 24.º): mantém o quadro e altera lugares do quadro em imagem -> não aplicável.",
+    "Alterador 2 (Portaria 877/99): nova redação da nota (a) do pé do quadro, que está em imagem -> não aplicável.",
+    "Alterador 3 (Portaria 1237/2000): cria lugar no quadro em imagem -> não aplicável.",
+    "Alterador 4 (Portaria 171/2004): cria lugar no quadro em imagem -> não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

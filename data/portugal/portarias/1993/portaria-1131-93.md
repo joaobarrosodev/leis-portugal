@@ -39,10 +39,37 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-08-24'
+version_history:
+  file: portaria-1131-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-11-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-08-24'
+    amending: pt:dre:555421:por
+    amending_title: Portaria n.º 109/96; Portaria n.º 695/97
+    changes:
+    - Adita Artigo depois da unidade 35
+    - Altera Artigo unidades 51-51
+    - Adita Artigo depois da unidade 75
+    - Altera Artigo unidades 107-107
+    - Altera Artigo unidades 139-139
+    - Altera Artigo unidades 141-141
+    - Altera Artigo unidades 179-179
+    - Altera Artigo unidades 210-210
+    - Altera Artigo unidades 221-222
+    - Altera Artigo unidades 224-224
+    - Altera Artigo unidades 229-229
+    - Altera Artigo unidades 231-235
+    - Altera Artigo unidades 236-236
+    - Altera Artigo unidades 237-239
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1131/1993/11/04/p/dre/pt/html
@@ -68,7 +95,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:43:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 109/96; Portaria n.º
+    695/97. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-1131-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -190,6 +218,12 @@ f) Ao género de embalagem apropriado ao transporte dos EPI;
 
 g) Ao significado da marcação, quando existia (v. n.º 2.12).
 
+h) Às referências dos diplomas aplicados em conformidade com o n.º 5 do artigo 3.º-C do Decreto-Lei n.º 128/93, de 22 de Abril, com a redacção que lhe foi dada pelo n.º 2 do artigo 5.º do Decreto-Lei n.º 139/95, de 14 de Junho, se for o caso;
+
+i) Ao nome, morada e número de identificação dos organismos que intervêm na fase de concepção dos EPI.
+
+> Aditado pelo/a [Portaria n.º 109/96](https://diariodarepublica.pt/dr/detalhe/portaria/109-1996-555421), publicado em 1996-04-10.
+
 O manual de informações deve ser redigido de forma precisa, compreensível e, pelo menos, na língua oficial do Estado membro destinatário.
 
 2 - Exigências suplementares comuns a vários géneros ou tipos de EPI:
@@ -220,7 +254,9 @@ No caso de se considerar que do envelhecimento imputável à utilização perió
 
 Quando tiverem sistemas de fixação e de extracção destinados a mantê-los ou retirá-los do utilizador, devem poder ser manobrados fácil e rapidamente.
 
-2.8 - EPI para intervenção em situações de grande perigo. - O manual de informações entregue pelo fabricante com os EPI para intervenção em situações de grande perigo deve incluir, em especial, dados destinados ao uso de pessoas competentes, treinadas e qualificadas para os interpretar e os fazer aplicar pelo utilizador.
+2.8 - EPI para intervenção em situações de grande perigo. - O manual de informações entregue pelo fabricante com os EPI para intervenção em situações de grande perigo, referidas no n.º 2.1 do anexo II da presente portaria, deve incluir, em especial, dados destinados ao uso de pessoas competentes, treinadas e qualificadas para os interpretar e os fazer aplicar pelo utilizador.
+
+> Alterado pelo/a [Portaria n.º 695/97](https://diariodarepublica.pt/dr/detalhe/portaria/695-1997-195211), publicado em 1997-08-19.
 
 Para além disso, deve descrever o procedimento a utilizar para verificar no utilizador equipado se o seu EPI está correctamente ajustado e apto a funcionar.
 
@@ -269,6 +305,10 @@ O valor eficaz das acelerações transmitidas ao utilizador por essas vibraçõe
 3.3 - Protecção contra as agressões físicas (atrito, picadas, cortes, incisões). - Os materiais constitutivos e outros componentes dos EPI destinados à protecção de todo ou parte do corpo contra agressões mecânicas superficiais como o atrito, picadas, cortes ou incisões devem ser escolhidos ou concebidos e colocados de modo que estes tipos de EPI possuam uma resistência à abrasão, à perfuração e ao corte por golpes (v. também n.º 3.1) adequada às condições previsíveis de utilização.
 
 3.4 - Prevenção do afogamento (coletes de salvação, braçadeiras e fatos de salvação). - Os EPI podem apresentar uma flutuabilidade intrínseca total ou parcial, ou ainda obtida por insuflação bucal ou efectuada por meio de um gás libertado automática ou manualmente.
+
+Os EPI destinados à prevenção do afogamento devem poder trazer à superfície tão rapidamente quanto possível, sem prejudicar a saúde do utilizador eventualmente esgotado ou sem sentidos, mergulhado num meio líquido, e fazê-lo flutuar numa posição que lhe permita respirar enquanto aguarda socorro.
+
+> Aditado pelo/a [Portaria n.º 109/96](https://diariodarepublica.pt/dr/detalhe/portaria/109-1996-555421), publicado em 1996-04-10.
 
 Nas condições previsíveis de emprego:
 
@@ -332,7 +372,9 @@ O fabricante deve indicar, em especial, no manual de instruções relativo a cad
 
 3.8 - Protecção contra choques eléctricos. - Os EPI destinados a proteger o corpo, no todo ou em parte, contra os efeitos da corrente eléctrica devem possuir um grau de isolamento adequado aos valores de tensão aos quais o utilizador é susceptível de ficar exposto nas condições previsíveis mais desfavoráveis.
 
-Para este efeito, os materiais constitutivos e outros componentes destes tipos de EPI devem ser escolhidos, ou concebidos, e colocados de modo que a corrente de fuga média através da cobertura de protecção, em condições de ensaio que utilizem tensões semelhantes às susceptíveis de serem encontradas in situ, seja tão fraca quanto possível e, em qualquer caso, inferior a um valor convencional máximo admissível correlacionado com o limiar de tolerância.
+Para este efeito, os materiais constitutivos e outros componentes destes tipos de EPI devem ser escolhidos, ou concebidos, e colocados de modo que a corrente de fuga, medida através da cobertura de protecção, em condições de ensaio que utilizem tensões semelhantes às susceptíveis de serem encontradas in situ, seja tão fraca quanto possível e, em qualquer caso, inferior a um valor convencional máximo admissível correlacionado com o limiar de tolerância.
+
+> Alterado pelo/a [Portaria n.º 109/96](https://diariodarepublica.pt/dr/detalhe/portaria/109-1996-555421), publicado em 1996-04-10.
 
 Os tipos de EPI destinados exclusivamente aos trabalhos ou manobras em instalações eléctricas sob tensão ou susceptíveis de ficarem sob tensão devem ostentar, tal como a sua embalagem, uma marcação que indique, nomeadamente, a classe de protecção e ou a tensão de utilização respectiva, o número de série e a data de fabriço; os EPI devem, além disso, incluir, no exterior da cobertura de protecção, um espaço reservado a marcação posterior da data de entrada em serviço e as dos ensaios ou controlos a efectuar periodicamente.
 
@@ -396,11 +438,15 @@ b) Um dispositivo de alarme destinado a prevenir oportunamente o utiliador de um
 
 c) Um fato de salvação que permita trazer à superfície o utilizador (v. 3.4.1).
 
-## ANEXO II — Exame CE
+## ANEXO II — Procedimentos de comprovação complementar
+
+> Alterado pelo/a [Portaria n.º 109/96](https://diariodarepublica.pt/dr/detalhe/portaria/109-1996-555421), publicado em 1996-04-10.
 
 1 - Exame CE de tipo:
 
-1.1 - O exame CE de tipo é o procedimento pelo qual um organismo de qualificação reconhecida para o efeito no âmbito do Sistema Nacional de Gestão da Qualidade (SNGQ), a que se refere o Decreto-Lei n.º 165/83, de 27 de Abril, verifica se um modelo de EPI satisfaz as disposições que lhe são aplicáveis no âmbito do presente diploma.
+1.1 - O exame CE de tipo é o procedimento pelo qual um organismo de qualificação reconhecida para o efeito no âmbito do Sistema Português da Qualidade (SPQ), a que se refere o Decreto-Lei n.º 234/93, de 2 de Julho, verifica e certifica se um modelo de EPI satisfaz as disposições que lhe são aplicáveis no âmbito do presente diploma.
+
+> Alterado pelo/a [Portaria n.º 109/96](https://diariodarepublica.pt/dr/detalhe/portaria/109-1996-555421), publicado em 1996-04-10.
 
 1.2 - O pedido de exame CE de tipo será apresentado pelo fabricante ou seu mandatário estabelecido na CEE, para o modelo considerado, a um único organismo, e incluirá:
 
@@ -476,7 +522,7 @@ Os EPI destinados a proteger contra as quedas de altura;
 
 Os EPI de protecção contra riscos eléctricos em trabalhos sob tensão perigosa ou os EPI utilizados como isolamento em trabalhos de alta tensão;
 
-Os capacetes e viseiras para utentes de motociclos e ciclomotores.
+> Alterado pelo/a [Portaria n.º 109/96](https://diariodarepublica.pt/dr/detalhe/portaria/109-1996-555421), publicado em 1996-04-10.
 
 3 - Sistema de garantia da qualidade CE do produto final:
 
@@ -538,7 +584,9 @@ A documentação técnica;
 
 Os manuais da qualidade.
 
-b) O organismo previsto no n.º 1 procederá periodicamente a auditorias e fornecerá um relatório de cada auditório ao fabricante.
+b) O organismo previsto no n.º 1 procederá periodicamente a auditorias e fornecerá um relatório de cada auditoria ao fabricante.
+
+> Alterado pelo/a [Portaria n.º 109/96](https://diariodarepublica.pt/dr/detalhe/portaria/109-1996-555421), publicado em 1996-04-10.
 
 c) O organismo previsto no n.º 1 pode ainda efectuar visitas sem pré-aviso ao fabricante, das quais lhe fornecerá relatórios de visita e, se necessário, relatórios de auditoria.
 
@@ -560,13 +608,21 @@ b) Pela lista exaustiva das exigências essenciais de segurança e saúde e das 
 
 3) Um exemplar do manual de informações referido no n.º 1.4 do anexo I.
 
-## ANEXO IV — Modelo de declaração de conformidade CE
+## ANEXO IV — Declaração de conformidade CE
 
-O fabricante ou seu mandatário estabelecido na CEE: ... (ver nota 1) declara que o EPI novo descrito a seguir: ... (ver nota 2) está conforme com as disposições do Decreto-Lei n.º 128/93, de 22 de Abril, que transpõe a Directiva [89/686/CEE](http://data.europa.eu/eli/dir/1989/686/oj?locale=pt), com a norma nacional ..., que transpõe a norma harmonizada a nível europeu ...; é idêntico ao EPI que foi objecto de certificado CE de tipo n.º ..., emitido por ... (ver nota 3) (ver nota 4); foi submetido ao procedimento referido no artigo 7.º/artigo 8.º (ver nota 4) o Decreto-Lei n.º 128/93, de 22 de Abril, sob controlo de ... (ver nota 3).
+1 - A declaração de conformidade CE é o procedimento pelo qual o fabricante ou o seu mandatário estabelecido na Comunidade emite uma declaração de acordo com o modelo constante do número seguinte, que atesta que o EPI está conforme com as disposições da presente portaria e do Decreto-Lei n.º 128/93, de 22 de Abril, a fim de a poder apresentar às autoridades competentes.
+
+2 - O modelo de declaração de conformidade CE é o seguinte:
+
+'O fabricante ou o seu mandatário estabelecido na CE ... (ver nota 1) declara que o EPI novo descrito a seguir: ... (ver nota 2) está conforme com as disposições do Decreto-Lei n.º 128/93, de 22 de Abril, que transpõe a Directiva n.º [89/686/CEE](http://data.europa.eu/eli/dir/1989/686/oj?locale=pt), com a norma nacional ..., que transpõe a norma harmonizada a nível europeu n.º ...; é idêntico ao EPI que foi objecto de certificado CE de tipo n.º ..., emitido por ... (ver nota 3); foi submetido ao procedimento referido nos n.os 3/4 (ver nota 4) do anexo II da Portaria n.º 1131/93, de 4 de Novembro, sob controlo de ... (ver nota 3).
+
+> Alterado pelo/a [Portaria n.º 109/96](https://diariodarepublica.pt/dr/detalhe/portaria/109-1996-555421), publicado em 1996-04-10.
 
 Feito em ... de ...
 
-... (assinatura) (ver nota 5).
+(Assinatura) (ver nota 5).
+
+> Alterado pelo/a [Portaria n.º 109/96](https://diariodarepublica.pt/dr/detalhe/portaria/109-1996-555421), publicado em 1996-04-10.
 
 (nota 1) Firma, endereço completo, sendo mandatário, indicar também a firma e o endereço do fabricante.
 
@@ -576,24 +632,24 @@ Feito em ... de ...
 
 (nota 4) Riscar o que não interessa.
 
-(nota 5) Nome e função do signatário com poderes para vincular o fabricante ou seu mandatário.
+(nota 5) Nome e função do signatário com poderes para vincular o fabricante ou seu mandário.'
+
+> Alterado pelo/a [Portaria n.º 109/96](https://diariodarepublica.pt/dr/detalhe/portaria/109-1996-555421), publicado em 1996-04-10.
 
 ## ANEXO V
 
-1 - Marca de conformidade CE:
+1 - Marcação CE de conformidade:
 
-1.2 - A marca de conformidade CE consiste no símbolo abaixo representado (ver nota 1), devendo os seus diferentes elementos ter sensivelmente a mesma dimensão vertical, que não pode ser inferior a 5 mm.
+1.2 - A marcação CE de conformidade é constituída pelas iniciais CE de acordo com o seguinte grafismo:
 
-1.3 - A marca CE deve ser aposta pelo fabricante em cada EPI na embalagem, de modo visível, legível e indelével ao longo do seu tempo de vida previsível.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/085b00/07620763.pdf)
 
-A marca CE é constituída pela sigla CE, seguida dos dois últimos algarismos do ano durante o qual foi aposta e, no caso de ter havido lugar a exame CE de tipo, acrescentada do número distintivo atribuído ao organismo que efectuou esse exame.
+1.3 - No caso de redução ou de ampliação da marcação CE, devem ser respeitadas as proporções resultantes do grafismo graduado acima indicado.
 
-1.4 - É proibido apor aos EPI marcas ou inscrições susceptíveis de serem confundidas com a marca CE.
+1.4 - Os diferentes elementos de marcação CE devem ter sensivelmente a mesma dimensão vertical, que não pode ser inferior a 5 mm, podendo ser prevista uma derrogação a esta dimensão mínima para os EPI de pequena dimensão.
 
-1.5 - A exigência de aposição da marca CE não se aplica a componentes não indispensáveis ao bom funcionamento dos EPI em que sejam incorporados.
+> Alterado pelo/a [Portaria n.º 109/96](https://diariodarepublica.pt/dr/detalhe/portaria/109-1996-555421), publicado em 1996-04-10.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/258b00/61896194.pdf)
+> Alterado pelo/a [Portaria n.º 695/97](https://diariodarepublica.pt/dr/detalhe/portaria/695-1997-195211), publicado em 1997-08-19.
 
-(nota 1) Os algarismos indicados a título de exemplo são os correspondentes ao 1.º ano de aplicação do decreto-lei.
-
-Quando for caso disso, à marca será acrescentado o número distintivo atribuído pela Comissão das Comunidades Europeias, nos termos do n.º 1 do artigo 9.º da Directiva [89/686/CEE](http://data.europa.eu/eli/dir/1989/686/oj?locale=pt), ao organismo que tenha efectuado o exame CE de tipo.
+> Alterado pelo/a [Portaria n.º 109/96](https://diariodarepublica.pt/dr/detalhe/portaria/109-1996-555421), publicado em 1996-04-10.

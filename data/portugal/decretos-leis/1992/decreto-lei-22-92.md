@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-12-21'
+version_history:
+  file: decreto-lei-22-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-02-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-12-21'
+    amending: pt:dre:562064:por
+    amending_title: Decreto-Lei n.º 301/94
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/22/1992/02/14/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:18:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 301/94. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-22-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,9 +154,11 @@ a) Os elementos completamente reintegrados na data da reavalização e já reava
 
 b) Os elementos de reduzido valor cujo custo de aquisição ou de produção tenha sido deduzido num só exercício, nos termos do artigo 31.º do Código do IRC.
 
-4 - A reavaliação deve constar do balanço referente ao termo do período em que se integra a data da avaliação ou, nos casos em que esta seja anterior a 1 de Janeiro de 1991, do balanço referente ao termo do exercício de 1991.
+4 - A reavaliação deve constar do balanço referente ao termo do período em que se integra a data da avaliação, sem prejuízo do disposto no n.º 2 do artigo 4.º
 
-5 - Se já se tiver procedido ao encerramento das contas à data da publicação deste diploma ou não puder efectuar-se a reavaliação em tempo útil, deverá esta constar do balanço referente ao termo do exercício de 1992.
+5 - Se já se tiver procedido ao encerramento das contas ou não puder efectuar-se a reavaliação em tempo útil, deverá então constar do balanço apurado, o mais tardar, no termo do exercício seguinte, sem prejuízo do disposto no n.º 2 do artigo 4.º
+
+> Alterado pelo/a [Decreto-Lei n.º 301/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1994-562064), publicado em 1994-12-16.
 
 ###### Artigo 2.º — Método de reavaliação
 
@@ -162,9 +180,13 @@ b) Os elementos de reduzido valor cujo custo de aquisição ou de produção ten
 
 1 - A reserva de reavaliação corresponderá ao saldo resultante dos movimentos contabilísticos inerentes ao processo de actualização, os quais serão registados, conforme os casos, a débito ou a crédito de uma conta denominada «Reserva de reavaliação - [Lei n.º 36/91](https://diariodarepublica.pt/dr/detalhe/lei/36-1991-691435), de 27 de Julho».
 
-2 - A reserva de reavaliação só pode ser movimentada para cobertura de prejuízos acumulados até ao termo do período em que se integra a data a que se reporta a reavaliação, inclusive, e para incorporação no capital social, na parte remanescente.
+2 - A reserva de reavaliação pode ser movimentada no mesmo exercício em que seja contabilizada para, em conjunto com a utilização de reservas de reavaliação constituídas nos termos de outros diplomas legais, e independentemente da data da respectiva constituição, cobrir resultados transitados especificamente decorrentes da constituição ou reforço de provisões para pensões e encargos similares.
 
-3 - As utilizações previstas no número anterior só poderão efectivar-se no exercício seguinte àquele em que se efectuou a reavaliação.
+3 - Salvo o disposto no número anterior, a reserva de reavaliação só pode ser movimentada para cobertura de prejuízos acumulados até ao termo do período em que se integra a data a que se reporta a reavaliação, inclusive, e para incorporação no capital social, na parte remanescente.
+
+4 - As utilizações previstas no número anterior só poderão efectivar-se no exercício seguinte àquele em que se efectuou a reavaliação.
+
+> Alterado pelo/a [Decreto-Lei n.º 301/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1994-562064), publicado em 1994-12-16.
 
 ###### Artigo 5.º — Regime fiscal das reintegrações
 

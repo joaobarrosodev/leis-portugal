@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-03-27'
+version_history:
+  file: portaria-487-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-07-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-03-27'
+    amending: pt:dre:663490:por
+    amending_title: Portaria n.º 29/87; Portaria n.º 339/93
+    changes:
+    - Altera Artigo unidades 30-34
+    - Adita Artigo depois da unidade 130
+    - Adita Artigo depois da unidade 130
+    - Altera Artigo unidades 176-213
 identifiers:
   celex: null
   eli: null
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:28:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 29/87; Portaria n.º
+    339/93. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-487-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -221,15 +239,17 @@ b) A Direcção de Serviços de Acção Social;
 
 c) A Direcção de Serviços Administrativos;
 
-d) A Divisão de Gestão Financeira;
+d) A Direcção de Serviços Técnicos;
 
-e) A Divisão de Organização, Informática e Gestão de Pessoal;
+e) A Divisão de Contra-Ordenações;
 
-f) O Centro de Relações Públicas e Documentação;
+f) A Divisão de Gestão Financeira;
 
 g) O Serviço de Fiscalização;
 
-h) Os serviços locais.
+h) Os serviços locais;
+
+> Alterado pelo/a [Portaria n.º 339/93](https://diariodarepublica.pt/dr/detalhe/portaria/339-1993-637687), publicado em 1993-03-22.
 
 ### CAPÍTULO III — Departamentalização e competência dos serviços
 
@@ -423,6 +443,110 @@ h) Providenciar pela aquisição de serviços de transportes, sempre que se torn
 
 i) Executar todas as tarefas de desenho, reprodução, duplicação, corte, alceamento e encadernação de documentos e de impressos.
 
+###### Artigo 15.º-A — Direcção de Serviços Técnicos
+
+1 - A Direcção de Serviços Técnicos abrange os serviços de organização, informática, gestão de pessoal, relações públicas e documentação.
+
+2 - Compete aos serviços das áreas de organização, informática e gestão de pessoal:
+
+a) Proceder a estudos com vista à melhoria do funcionamento dos serviços e acompanhar a sua implementação;
+
+b) Efectuar a análise das tarefas e dos postos de trabalho com vista ao controle de custos e ao estabelecimento de padrões de produtividade;
+
+c) Analisar, em colaboração com os serviços interessados, as necessidades de equipamento e material, as suas características e respectiva adequação;
+
+d) Proceder a estudos de racionalização de impressos e outros suportes de informação;
+
+e) Assegurar a ligação funcional entre os serviços utilizadores do equipamento informático e entre estes e os serviços centrais;
+
+f) Proceder à transcrição de dados para suporte adequado ao processamento informático, colaborando nas operações destinadas a garantir a qualidade dos mesmos;
+
+g) Desenvolver, coordenar e controlar o planeamento da actividade de processamento de dados;
+
+h) Produzir estatísticas actualizadas sobre a ocupação e rendimento do equipamento informático;
+
+i) Colaborar na elaboração de manuais de operação e assegurar a sua correcta aplicação e utilização;
+
+j) Organizar bibliotecas de operação de bandas e de discos e zelar pela sua manutenção;
+
+l) Executar a análise, a programação e a testagem de trabalhos de interesse específico do Centro;
+
+m) Colaborar na optimização da utilização do equipamento, tendo em atenção os recursos de hardware e software disponíveis;
+
+n) Garantir a segurança e privaticidade da informação à sua guarda;
+
+o) Apoiar tecnicamente na elaboração de cadernos de encargos, selecção, aquisição, contratação e instalação de equipamentos de informática ou de suportes lógicos;
+
+p) Estudar as características técnicas do equipamento de informática e dos suportes lógicos e avaliar, do ponto de vista técnico-económico, os projectos de informática;
+
+q) Promover o estudo dos problemas de pessoal do Centro e orientar as acções de acolhimento e integração;
+
+r) Colaborar, incentivar e apoiar a aplicação dos instrumentos adequados à avaliação no desempenho das funções do pessoal do Centro;
+
+s) Promover a definição de sistemas de controle de assiduidade e pontualidade;
+
+t) Promover a definição dos índices de gestão em matéria de pessoal;
+
+u) Proceder à aplicação dos métodos e técnicas de recrutamento, selecção e orientação de pessoal e efectuar o estudo das exigências dos postos de trabalho;
+
+v) Realizar o levantamento de necessidades e colaborar na definição de prioridades de formação e aperfeiçoamento profissional do pessoal dos serviços e instituições particulares de solidariedade social;
+
+x) Elaborar o plano de formação e aperfeiçoamento profissional do Centro e organizar e avaliar as acções da sua responsabilidade;
+
+z) Colaborar e coordenar a participação em acções de iniciativa de outras entidades no domínio da formação e aperfeiçoamento profissional.
+
+3 - Compete aos serviços das áreas de relações públicas e documentação:
+
+a) Elaborar indicadores sobre o funcionamento do Centro, com base, nomeadamente, no tratamento de informações, sugestões e reclamações recebidas, com vista à permanente melhoria da prestação de serviços;
+
+b) Promover campanhas de esclarecimento junto dos beneficiários, utentes, contribuintes e público, em geral, com vista à divulgação de informação sobre o sistema de segurança social e sobre o Centro, em particular;
+
+c) Proceder à análise e tratamento das informações veiculadas pelos órgãos de comunicação social e estabelecer contactos com profissionais de informação ou com serviços e entidades públicos ou privados, sempre que tal se revele de interesse para a correcta prossecução das actividades do Centro;
+
+d) Programar as acções necessárias à implantação e funcionamento de serviços de informação ao público;
+
+e) Proceder ao registo, catalogação e indexação das espécies bibliográficas, bem como organizar e conservar o fundo documental;
+
+f) Organizar e manter actualizados ficheiros de legislação, jurisprudência e doutrina sobre matéria de interesse para o Centro e efectuar a difusão interna de diplomas legais e outros elementos;
+
+g) Acolher, esclarecer e encaminhar as pessoas que se dirigem aos serviços;
+
+h) Prestar informações orais e escritas a beneficiários, utentes, contribuintes e outras entidades públicas ou privadas;
+
+i) Colher elementos indicadores do funcionamento dos serviços, quer pelas reclamações apresentadas, quer pelo tipo de informação prestada.
+
+> Aditado pelo/a [Portaria n.º 29/87](https://diariodarepublica.pt/dr/detalhe/portaria/29-1987-663490), publicado em 1987-01-15.
+
+###### Artigo 15.º-B
+
+##### Divisão de Contra-Ordenações
+
+Compete à Divisão de Contra-Ordenações:
+
+a) Organizar e instruir os processos de contra-ordenações;
+
+b) Elaborar relação dos processos arquivados;
+
+c) Propor a nomeação de defensor oficioso nos casos legalmente previstos;
+
+d) Propor a aplicação de coimas nos termos regulamentares;
+
+e) Determinar o montante de custas dos processos;
+
+f) Preparar os processos para decisão final;
+
+g) Remeter os processos a tribunal, nas circunstâncias legalmente previstas;
+
+h) Representar a instituição de segurança social na fase judicial da contra-ordenação;
+
+i) Organizar e actualizar ficheiros relacionados com os processos de contra-ordenações;
+
+j) Promover a emissão de orientações para os serviços que procedam a averiguação de infracções ou que, de qualquer modo, sejam chamados a colaborar;
+
+l) Recolher e tratar os necessários dados estatísticos.
+
+> Aditado pelo/a [Portaria n.º 339/93](https://diariodarepublica.pt/dr/detalhe/portaria/339-1993-637687), publicado em 1993-03-22.
+
 ###### ARTIGO 16.º — (Divisão de Gestão Financeira)
 
 1 - Na Divisão de Gestão Financeira integram-se a Repartição de Contabilidade e a Tesouraria.
@@ -513,81 +637,7 @@ d) Elaborar a folha diária de caixa;
 
 e) Assegurar as ligações com as instituições bancárias.
 
-###### ARTIGO 19.º — (Divisão de Organização, Informática e Gestão de Pessoal)
-
-Compete à Divisão de Organização, Informática e Gestão de Pessoal:
-
-a) Proceder a estudos com vista à melhoria do funcionamento dos serviços e acompanhar a sua implementação;
-
-b) Efectuar a análise das tarefas e dos postos de trabalho com vista ao controle de custos e ao estabelecimento de padrões de produtividade;
-
-c) Analisar, em colaboração com os serviços interessados, as necessidades de equipamento e material, as suas características e respectiva adequação;
-
-d) Proceder a estudos de racionalização de impressos o outros suportes de informação;
-
-e) Assegurar a ligação funcional entre os serviços utilizadores do equipamento informático e entre estes e os serviços centrais;
-
-f) Proceder à transcrição de dados para suporte adequado ao processamento informático, colaborando nas operações destinadas a garantir a qualidade dos mesmos;
-
-g) Desenvolver, coordenar e controlar o planeamento da actividade de processamento de dados;
-
-h) Produzir estatísticas actualizadas sobre a ocupação e rendimento do equipamento informático;
-
-i) Colaborar na elaboração de manuais de operação e assegurar a sua correcta aplicação e utilização;
-
-j) Organizar bibliotecas de operação, de bandas e de discos e zelar pela sua manutenção;
-
-l) Executar a análise, a programação e a testagem de trabalhos de interesse específico do Centro;
-
-m) Colaborar na optimização da utilização do equipamento, tendo em atenção os recursos de hardware e software disponíveis;
-
-n) Garantir a segurança e privaticidade da informação à sua guarda;
-
-o) Apoiar tecnicamente na elaboração de cadernos de encargos, selecção, aquisição, contratação e instalação de equipamentos de informática ou de suportes lógicos;
-
-p) Estudar as características técnicas do equipamento de informática e dos suportes lógicos e avaliar, do ponto de vista técnico-económico, os projectos de informática;
-
-q) Promover o estudo dos problemas de pessoal do Centro e orientar as acções de acolhimento e integração;
-
-r) Colaborar, incentivar e apoiar a aplicação dos instrumentos adequados à avaliação no desempenho das funções do pessoal do Centro;
-
-s) Promover a definição de sistemas de controle de assiduidade e pontualidade;
-
-t) Promover a definição dos índices de gestão em matéria de pessoal;
-
-u) Proceder à aplicação dos métodos e técnicas de recrutamento, selecção e orientação de pessoal e efectuar o estudo das exigências dos postos de trabalho;
-
-v) Realizar o levantamento de necessidades e colaborar na definição de prioridades de formação e aperfeiçoamento profissional do pessoal dos serviços e instituições particulares de solidariedade social;
-
-x) Elaborar o plano de formação e aperfeiçoamento profissional do Centro e organizar e avaliar as acções da sua responsabilidade;
-
-z) Colaborar e coordenar a participação em acções de iniciativa de outras entidades no domínio da formação e aperfeiçoamento profissional.
-
-###### ARTIGO 20.º — (Centro de Relações Públicas e Documentação)
-
-1 - Compete ao Centro de Relações Públicas e Documentação:
-
-a) Elaborar indicadores sobre o funcionamento do Centro com base, nomeadamente, no tratamento de informações sugestões e reclamações recebidas, com vista à permanecer melhoria da prestação de serviços
-
-b) Promover campanhas de esclarecimento junto dos beneficiários, utentes, contribuintes e público em geral, com vista à divulgação de informação sobre o sistema de segurança social e sobre o Centro em particular;
-
-c) Proceder à análise e tratamento das informações veiculadas pelos órgãos de comunicação social e estabelecer contactos com profissionais de informação ou com serviços e entidades públicas ou privadas, sempre que tal se revele de interesse para a correcta prossecução das actividades do Centro;
-
-d) Programar as acções necessárias à implantação e funcionamento de serviços de informação ao público;
-
-e) Proceder ao registo, catalogação e indexação das espécies bibliográficas, bem como organizar e conservar o fundo documental;
-
-f) Organizar e manter actualizados ficheiros de legislação, jurisprudência e doutrina sobre matéria de interesse para o Centro e efectuar a difusão interna de diplomas legais e outros elementos.
-
-2 - O Centro de Relações Públicas e Documentação dispõe também de serviços de informação ao público.
-
-3 - Compete aos serviços de informação ao público:
-
-a) Acolher, esclarecer e encaminhar as pessoas que se dirigem aos serviços;
-
-b) Prestar informações orais e escritas a beneficiários, utentes, contribuintes e outras entidades públicas ou privadas;
-
-c) Colher elementos indicadores do funcionamento dos serviços, quer pelas reclamações apresentadas, quer pelo tipo de informação prestada.
+> Alterado pelo/a [Portaria n.º 29/87](https://diariodarepublica.pt/dr/detalhe/portaria/29-1987-663490), publicado em 1987-01-15.
 
 ###### ARTIGO 21.º — (Serviço de Fiscalização)
 

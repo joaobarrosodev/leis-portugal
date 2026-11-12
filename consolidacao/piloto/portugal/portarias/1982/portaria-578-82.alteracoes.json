@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3) Pessoal assalariado - 1 secretário de 1.ª classe, 2 secretários de 2.ª classe, 1 motorista, 1 contínuo e 2 auxiliares de serviços.",
+    "depois": "3) Pessoal assalariado - um chanceler; um tradutor-intérprete; dois secretários de 1.ª classe; um secretário de 3.ª classe; um motorista; um contínuo, e dois auxiliares de serviço.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395742:por",
+    "alterador": "pt:dre:515246:por"
+  }
+]

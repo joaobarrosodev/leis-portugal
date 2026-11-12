@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:633527:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "O alterador 1 (Resolução do Conselho de Ministros n.º 198/2008) vem sem texto no pedido: não há instrução dirigida ao original que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1 (RCM 198/2008): texto vazio no pedido, nenhuma instrução identificável; nada alterado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

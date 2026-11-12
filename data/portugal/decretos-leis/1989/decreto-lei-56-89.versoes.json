@@ -1,0 +1,207 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:612403:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-02-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8ce01548666cd4de",
+    "ecaacdccf0f3292d",
+    "78b87e6033b6aa69",
+    "6537a251d35be47a",
+    "a85a38fe3ec926e9",
+    "d3b433b84c94270b",
+    "8a9933128ddcd4ee",
+    "d9b46e78af016726",
+    "8d559a7519a55f6e",
+    "1d7831aa85038337",
+    "24edc94bf276c231",
+    "0a3d7d2eda6c863f",
+    "a90debee2cd3c2c1",
+    "15aabe5dab31cfe9",
+    "a66c1fc4fb9cd5be"
+   ]
+  },
+  {
+   "date": "1990-07-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:575689:por",
+     "title": "Decreto-Lei n.º 225/90",
+     "published": "1990-07-10",
+     "dre_path": "/dr/detalhe/decreto-lei/225-1990-575689"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "8ce01548666cd4de",
+    "ecaacdccf0f3292d",
+    "78b87e6033b6aa69",
+    "6537a251d35be47a",
+    "a85a38fe3ec926e9",
+    "82a82a16bf816c3e",
+    "8a9933128ddcd4ee",
+    "d9b46e78af016726",
+    "8d559a7519a55f6e",
+    "1a679c52c94bf472",
+    "24edc94bf276c231",
+    "0a3d7d2eda6c863f",
+    "a90debee2cd3c2c1",
+    "15aabe5dab31cfe9",
+    "a66c1fc4fb9cd5be"
+   ]
+  }
+ ],
+ "fragments": {
+  "8ce01548666cd4de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Fevereiro\n\nO presente diploma tem por objectivo, basicmente, introduzir na ordem jurídica interna a nova classificação do arroz considerada na legislação comunitária através do Regulamento n.º 3877/87 do Conselho, de 18 de Dezembro de 1987. A nova classificação aplica-se apenas ao regime de trocas com o exterior, consagrando a existência de três tipos de arroz - redondo, médio e longo - e a aplicação ao arroz médio dos direitos niveladores aplicáveis ao arroz longo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "ecaacdccf0f3292d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente diploma define o regime de importação ao qual ficam submetidos os produtos constantes do anexo I ao presente diploma, que dele faz parte integrante.\n\n2 - Para efeitos do presente diploma, entende-se por arroz em casca, arroz em película ou descascado ou meio-preparo, arroz semibranqueado, arroz branqueado, trincas de arroz, arroz de grãos longos, arroz de grãos médios e arroz de grãos redondos ou curtos os produtos definidos no anexo II a este diploma."
+  },
+  "78b87e6033b6aa69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime de direitos\n\nA importação dos produtos referidos no artigo anterior fica sujeita ao pagamento de direitos niveladores, fixados pela Comissão do Mercado de Cereais."
+  },
+  "6537a251d35be47a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Método de cálculo dos direitos niveladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Método de cálculo dos direitos niveladores\n\n1 - Para o cálculo dos direitos niveladores a aplicar às importações de países que não sejam membros das Comunidades Europeias, a Comissão do Mercado de Cereais utilizará a seguinte metodologia:\n\na) O direito nivelador a aplicar ao arroz em película de grãos redondos é igual ao preço limiar diminuído do preço CIF;\n\nb) O direito nivelador a aplicar ao arroz em película de grãos longos é igual ao preço limiar diminuído do preço CIF;\n\nc) O direito nivelador a aplicar ao arroz em casca de grãos redondos é igual ao direito nivelador em vigor para o arroz em película de grãos redondos ajustado pela taxa de conversão de 0,8;\n\nd) O direito nivelador a aplicar ao arroz em casca de grãos longos é igual ao direito nivelador em vigor para o arroz em película de grãos longos ajustado pela taxa de conversão de 0,8;\n\ne) O direito nivelador a aplicar ao arroz branqueado de grãos redondos é igual ao preço limiar diminuído do preço CIF;\n\nf) O direito nivelador a aplicar ao arroz branqueado de grãos longos é igual ao preço limiar diminuído do preço CIF;\n\ng) O direito nivelador a aplicar ao arroz semibranqueado de grãos redondos é igual ao direito nivelador em vigor para o arroz branqueado de grãos redondos ajustado pela taxa de conversão de 0,939;\n\nh) O direito nivelador a aplicar ao arroz semibranqueado de grãos longos é igual ao direito nivelador em vigor para o arroz branqueado de grãos longos ajustado pela taxa de conversão de 0,933;\n\ni) O direito nivelador a aplicar às trincas de arroz é igual ao preço limiar diminuído do preço CIF;\n\nj) Os direitos niveladores aplicáveis ao arroz de grãos médios em cada estádio de transformação são os aplicáveis ao arroz de grãos longos no mesmo estádio de transformação.\n\n2 - Para efeitos dos cálculos referidos no número anterior os preços CIF a reter são os determinados pela Comunidade Económica Europeia (CEE) no âmbito da gestão da organização comum do mercado do arroz e os preços limiares são os definidos no artigo 4.º deste diploma.\n\n3 - Os direitos niveladores a aplicar às importações procedentes da Comunidade serão calculados pelo processo referido no n.º 1 do presente artigo, considerando as ofertas mais favoráveis com procedência comunitária.\n\n4 - A diferença entre o direito nivelador aplicável a importações procedentes de países membros da Comunidade na sua composição em 31 de Dezembro de 1985 e da Espanha é igual ao montante compensatório de adesão em vigor entre a Espanha e a CEE."
+  },
+  "a85a38fe3ec926e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Método de cálculo dos preços limiares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Método de cálculo dos preços limiares\n\n1 - Para efeitos dos cálculos referidos no artigo 3.º, serão fixados os seguintes preços limiares:\n\na) Um preço limiar para o arroz em película, que será calculado do seguinte modo:\n\nAdicionando ao preço de intervenção um elemento de mercado para o arroz em casca que não exceda o valor considerado pela regulamentação comunitária;\n\nAdicionando um montante representativo dos custos de transformação em película do arroz em casca, o qual será, por tonelada de arroz em casca, idêntico ao valor fixado para o mesmo efeito pela Comunidade;\n\nConvertendo em arroz em película o resultado encontrado anteriormente para o arroz em casca, multiplicando-o pela taxa de conversão de 1,25;\n\nAdicionando ao valor assim obtido um montante representativo do custo do transporte entre a região mais excedentária e a região mais deficitária em arroz, o qual não deverá exceder o valor considerado para o mesmo efeito pela Comunidade;\n\nDeduzindo ao resultado anterior um elemento representativo do somatório dos encargos correspondentes ao transporte entre o porto de desembarque e a região mais deficitária em arroz da margem de comercialização, assim como dos custos de movimentação no porto de desembarque, considerando, para este efeito, um valor que não exceda o utilizado pela regulamentação comunitária;\n\nb) Um preço limiar para o arroz branqueado de grãos redondos, o qual será derivado do preço limiar do arroz em película:\n\nAumentando-o do montante representativo, dos custos de transformação em branqueado do arroz em película, o qual será, por tonelada de arroz em película, idêntico ao valor fixado para o mesmo efeito pela Comunidade;\n\nDiminuindo-o do valor dos subprodutos, por tonelada de arroz em película, idêntico ao fixado pela Comunidade para o mesmo efeito, dividindo o resultado obtido pela taxa de conversão de 0,775 e adicionando o elemento fixo constante do anexo XXIV do Acto de Adesão;\n\nc) Um preço limiar para o arroz branqueado de grãos longos, o qual será derivado do preço limiar do arroz em película:\n\nAumentando-o do montante representativo dos custos de transformação, em branqueado do arroz em película, o qual será, por tonelada de arroz em película, idêntico ao valor fixado para o mesmo efeito pela Comunidade;\n\nDiminuindo-o do valor dos subprodutos, por tonelada de arroz em película idêntico ao fixado pela Comunidade para o mesmo efeito, dividindo o resultado obtido pela taxa de conversão de 0,69 e adicionando o elemento fixo constante do anexo XXIV do Acto de Adesão;\n\nd) Um preço limiar para as trincas de arroz, cujo valor será de 140% do preço limiar em vigor para o milho.\n\ne) Os preços limiares aplicáveis ao arroz de grãos médios em cada estádio de transformação são os aplicáveis ao arroz de grãos longos no mesmo estádio de transformação.\n\n2 - Qualquer agravamento dos custos de transformação verificado na Comunidade implica o correspondente ajustamento nos valores estabelecidos no número anterior.\n\n3 - Os preços limiares do arroz em película e do arroz branqueado serão objecto de majorações mensais derivadas das fixadas para o preço de intervenção do arroz em casca."
+  },
+  "d3b433b84c94270b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Data de referência do direito nivelador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Data de referência do direito nivelador\n\n1 - O direito nivelador a pagar pelo importador é o que estiver em vigor no dia da apresentação da mercadoria para desalfandegamento.\n\n2 - A pedido do importador poderá ser aplicado à importação o direito nivelador em vigor no dia do pedido, ajustado em função do preço limiar que estiver em vigor na data da apresentação da mercadoria para desalfandegamento, durante o prazo de validade do certificado de importação de acordo com a legislação em vigor sobre fixação antecipada.\n\n3 - Para importações provenientes de países terceiros, no caso de os direitos niveladores terem sido fixados nos termos do número anterior, poderão ser-lhes adicionados os prémios em vigor na Comunidade sempre que os preços CIF a prazo forem inferiores aos preços CIF do dia pedido."
+  },
+  "8a9933128ddcd4ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Publicidade dos direitos niveladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Publicidade dos direitos niveladores\n\n1 - Os montantes dos direitos niveladores a aplicar, considerada a organização dos mercados, criada pelo [Decreto-Lei n.º 61/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1987-663150), de 25 de Março, são dimanados e divulgados pela Comissão do Mercado de Cereais por aviso à Direcção-Geral das Alfândegas e conhecimento ao Instituto Nacional de Intervenção e Garantia Agrícola, à Direcção-Geral do Comércio Externo e à Direcção-Geral da Concorrência e Preços dois dias antes ao da sua entrada em vigor.\n\n2 - Competirá à Direcção-Geral das Alfândegas colocar à disposição dos agentes económicos interessados o aviso referido no número anterior a partir do dia da entrada em vigor dos respectivos direitos niveladores."
+  },
+  "d9b46e78af016726": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Validade dos direitos niveladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Validade dos direitos niveladores\n\nOs direitos niveladores, uma vez fixados, aplicam-se até serem suspensos ou modificados pela Comissão do Mercado de Cereais."
+  },
+  "8d559a7519a55f6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Cobrança e destino dos direitos niveladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cobrança e destino dos direitos niveladores\n\nOs direitos niveladores serão cobrados pelas alfândegas e constituem receita do Instituto Nacional de Intervenção e Garantia Agrícola."
+  },
+  "1d7831aa85038337": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Documentação a utilizar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Documentação a utilizar\n\nPara efeitos do disposto no artigo 270.º do Acto de Adesão, utilizar-se-á um certificado de importação a emitir pela Direcção-Geral do Comércio Externo nas seguintes condições:\n\na) O pedido de certificado será obrigatoriamente acompanhado da constituição de uma caução a favor da Direcção-Geral do Comércio Externo, a fixar nos termos do artigo 10.º, a qual servirá de garantia à boa execução da operação no prazo fixado, e que será perdida, salvo caso de força maior, no todo ou em parte, caso a operação se não realize apenas parcialmente, sendo restituída mediante apresentação de certidão pelas alfândegas comprovativa da realização da operação;\n\nb) A tolerância em relação à quantidade constante do certificado é de 10%;\n\nc) O prazo de validade do certificado é de 60 dias."
+  },
+  "24edc94bf276c231": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Caução\n\n1 - A caução a constituir a favor da Direcção-Geral do Comércio Externo será efectuada por depósito na Caixa Geral de Depósitos, mediante guia em triplicado, ou por garantia bancária.\n\n2 - O montante da caução será de 600$00 por tonelada, no caso de o direito nivelador a pagar ser o direito nivelador em vigor no dia do desalfandegamento, e de 1000$00 por tonelada, no caso de o importador desejar usar da faculdade prevista no n.º 2 do artigo 5.º do presente diploma."
+  },
+  "0a3d7d2eda6c863f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Legislação a revogar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Legislação a revogar\n\nSão revogados os Decretos-Leis n.os [64/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1986-196210), de 25 de Março, [328-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-c-1986-148778), de 30 de Setembro, e [241/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1987-419176), de 12 de Junho, no que aos direitos niveladores do arroz diz respeito."
+  },
+  "a90debee2cd3c2c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Produção de efeitos\n\nEste diploma produz efeitos no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 5 de Janeiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 9 de Fevereiro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 9 de Fevereiro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "15aabe5dab31cfe9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04400/07540757.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04400/07540757.pdf)"
+  },
+  "a66c1fc4fb9cd5be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n1 - a) Arroz em casca - arroz em que os grãos, após a debulha, se encontram envolvidos, no todo ou em parte, pela casca.\n\nb) Arroz em película, descascado ou meio-preparo - arroz em que a casca dos grãos foi removida pelo descasque, mantendo o pericarpo, ou película, quase intacto.\n\nc) Arroz semibranqueado - arroz a cujos grãos foi removida a casca, uma parte do gérmen e partes das camadas externas do pericarpo, mas não as camadas internas.\n\nd) Arroz branqueado - arroz em que a casca, o gérmen e camadas de pericarpo dos grãos foram removidos, total ou parcialmente, pela operação de branqueio.\n\n2 - a) Arroz de grãos redondos ou curtos - arroz cujos grãos tenham um comprimento inferior ou igual a 5,2 mm e cuja relação comprimento/largura seja inferior a 2.\n\nb) Arroz de grãos médios - arroz cujos grãos tenham um comprimento superior a 5,2 mm e inferior ou igual a 6,0 mm e cuja relação comprimento/largura seja inferior a 3.\n\nc) Arroz de grãos longos - arroz cujos grãos tenham um comprimento superior a 6,0 mm:\n\nA - Arroz cujos grãos tenham um comprimento superior a 6,0 mm e cuja relação comprimento/largura seja superior a 2 e inferior a 3;\n\nB - Arroz cujos grãos tenham um comprimento superior a 6,0 mm e cuja relação comprimento/largura seja superior ou igual a 3.\n\nd) Medição dos grãos - a medição dos grãos é efectuada em arroz branqueado, de acordo com o seguinte método:\n\nI) Colheita de uma amostra representativa do lote;\n\nII) Separar na amostra os grãos inteiros;\n\nIII) Efectuar duas medições sobre duas tomas de 100 grãos cada uma e estabelecer a média;\n\nIV) Determinar o resultado em milímetros, arredondando às décimas.\n\n3 - Trincas ou grão partido - fragmento de grão cujo comprimento é inferior a três quartos da média dos comprimentos dos grãos típicos da variedade."
+  },
+  "82a82a16bf816c3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Data de referência do direito nivelador",
+   "in_force_from": "1990-07-15",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 225/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1990-575689), publicado em 1990-07-10."
+   ],
+   "markdown": "###### Artigo 5.º — Data de referência do direito nivelador\n\n1 - O direito nivelador a pagar pelo importador é o que estiver em vigor no dia em que for aceite a declaração aduaneira de importação.\n\n2 - A pedido do importador, efectuado ao mesmo tempo que o pedido de certificado, pode ser aplicado à importação o direito nivelador que estiver em vigor no dia da concessão do certificado de importação.\n\n3 - Qualquer variação dos preços limiares acarreta o ajustamento dos direitos niveladores fixados ao abrigo do número anterior, desde que ainda não tenha sido aceite a respectiva declaração de importação.\n\n4 - Para importações provenientes de países terceiros, no caso de os direitos niveladores terem sido fixados nos termos do n.º 2, podem ser-lhes adicionados os prémios em vigor na Comunidade, sempre que os preços CIF a prazo forem inferiores aos preços CIF do dia da concessão do certificado de importação.\n\n5 - A faculdade prevista no n.º 2 pode ser suspensa, caso ocorram perturbações no mercado, por aviso do INGA - Instituto Nacional de Intervenção e Garantia Agrícola à Direcção-Geral do Comércio Externo, com efeitos imediatos após o seu conhecimento por esta Direcção-Geral, devendo o texto do aviso explicitar a data limite da duração da suspensão.\n\n> Alterado pelo/a [Decreto-Lei n.º 225/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1990-575689), publicado em 1990-07-10."
+  },
+  "1a679c52c94bf472": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Documentação a utilizar",
+   "in_force_from": "1990-07-15",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 225/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1990-575689), publicado em 1990-07-10."
+   ],
+   "markdown": "###### Artigo 9.º — Documentação a utilizar\n\nPara efeitos do disposto no artigo 270.º do Acto de Adesão, utilizar-se-á um certificado de importação, a emitir pela Direcção-Geral do Comércio Externo, nas seguintes condições:\n\na) O certificado de importação é concedido no terceiro dia útil a contar do dia da apresentação do pedido, considerando-se o dia de apresentação como primeiro dia, sem prejuízo do disposto no artigo 274.º do Acto de Adesão;\n\nb) Os pedidos de certificados apresentados depois das 13 horas consideram-se apresentados no primeiro dia útil seguinte;\n\nc) O pedido de certificado é obrigatoriamente acompanhado da constituição de uma caução a favor da Direcção-Geral do Comércio Externo, a fixar nos termos do artigo seguinte, a qual serve de garantia à boa execução da operação no prazo fixado e que será perdida, salvo caso de força maior, no todo ou em parte, caso a operação se não realize ou se realize apenas parcialmente;\n\nd) A caução será restituída mediante apresentação do original do certificado donde conste a respectiva utilização, visada pela Direcção-Geral das Alfândegas;\n\ne) A tolerância em relação à quantidade constante do certificado é de 10%;\n\nf) O prazo de validade do certificado é de 60 dias.\n\n> Alterado pelo/a [Decreto-Lei n.º 225/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1990-575689), publicado em 1990-07-10."
+  }
+ }
+}

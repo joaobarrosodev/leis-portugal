@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS::13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º — Condições gerais de elegibilidade do projecto\n\n1 - Constituem condições de elegibilidade do projecto:\n\na) Enquadrar-se nas linhas definidas no Plano Estratégico das Parcerias e Iniciativas Públicas, tendo em consideração as políticas sectoriais;\n\nb) Assegurar impactes estruturantes nos respectivos domínios;\n\nc) Envolver recursos humanos qualificados, cujo currículo garanta a execução adequada do projecto;\n\nd) Apresentar um orçamento convenientemente detalhado e fundamentado numa estrutura de custos adequada face aos objectivos a prosseguir;\n\ne) Não ter sido iniciada a sua realização antes da data do registo da apresentação do projecto, formalizado pelo organismo gestor;\n\nf) Ter uma duração máxima de dois anos, a contar da data de formalização da concessão do apoio.\n\n2 - Os projectos devem ter natureza colectiva, abrangente e não discriminatória, não havendo portanto selectividade de empresas potencialmente visadas, desenvolvendo-se como medidas de carácter geral que reforçam a economia nacional, pelo que não são elegíveis projectos que configurem situações passíveis de enquadramento nas regras dos auxílios estatais na acepção dos artigos 87.º e 88.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado).\n\n3 - Quando o projecto tenha associada formação profissional, essa componente deve cumprir o disposto no respectivo regulamento específico e na legislação enquadradora dos apoios do FSE.",
+    "depois": "###### Artigo 13.º — Condições gerais de elegibilidade do projecto\n\n1 - Constituem condições de elegibilidade do projecto:\n\na) Enquadrar-se nas linhas definidas no Plano Estratégico das Parcerias e Iniciativas Públicas, tendo em consideração as políticas sectoriais;\n\nb) Assegurar impactes estruturantes nos respectivos domínios;\n\nc) Envolver recursos humanos qualificados, cujo currículo garanta a execução adequada do projecto;\n\nd) Apresentar um orçamento convenientemente detalhado e fundamentado numa estrutura de custos adequada face aos objectivos a prosseguir;\n\ne) Não ter sido iniciada a sua realização antes da data do registo da apresentação do projecto, formalizado pelo organismo gestor;\n\nf) Ter uma duração máxima de dois anos, a contar da data da formalização da concessão do apoio, podendo tal prazo ser prorrogado em casos excepcionais devidamente justificados mediante autorização do Ministro da Economia sob proposta do gestor do Programa.\n\n2 - Os projectos devem ter natureza colectiva, abrangente e não discriminatória, não havendo portanto selectividade de empresas potencialmente visadas, desenvolvendo-se como medidas de carácter geral que reforçam a economia nacional, pelo que não são elegíveis projectos que configurem situações passíveis de enquadramento nas regras dos auxílios estatais na acepção dos artigos 87.º e 88.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado).\n\n3 - Quando o projecto tenha associada formação profissional, essa componente deve cumprir o disposto no respectivo regulamento específico e na legislação enquadradora dos apoios do FSE.\n\n> Alterado pelo/a [Portaria n.º 109/2004](https://diariodarepublica.pt/dr/detalhe/portaria/109-2004-589694), publicado em 2004-01-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300821:por",
+    "alterador": "pt:dre:589694:por;pt:dre:276429:por;pt:dre:527224:por"
+  },
+  {
+    "artigo": "ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS::19.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 19.º — Pagamento do apoio\n\n1 - Os pedidos de pagamento são formalizados mediante preenchimento, pela entidade beneficiária, do respectivo formulário normalizado, enviado ao organismo competente coordenador.\n\n2 - Os pagamentos serão processados à entidade beneficiária na sequência de pedidos de reembolsos, de acordo com o previsto nos números seguintes, com excepção dos pagamentos relativos à formação profissional que resultam de regulamento específico dessa componente, tendo em consideração a legislação enquadradora dos apoios do FSE.\n\n3 - Os pagamentos do apoio são assegurados pelo IAPMEI ou pelo IFT ou pelo ICEP.\n\n4 - A entidade beneficiária poderá solicitar:\n\na) Um adiantamento inicial correspondente a 30% do montante aprovado;\n\nb) Posterior ao adiantamento, pode solicitar dois reembolsos, desde que não excedam, conjuntamente com o primeiro adiantamento, 80% do valor aprovado.\n\n5 - Para efeitos da percepção dos pagamentos referentes aos reembolsos previstos na alínea b) do número anterior, a entidade beneficiária deve:\n\na) No caso do primeiro reembolso, comprovar que já efectuou pagamentos no montante de pelo menos 60% do valor do adiantamento inicial;\n\nb) No caso do segundo reembolso, comprovar que já efectuou pagamentos no montante de pelo menos 60% do valor total recebido, incluindo o adiantamento e o primeiro reembolso.\n\n6 - No caso de parcerias, sempre que a entidade beneficiária seja externa à Administração Pública, deverá a mesma apresentar garantia bancária autónoma, emitida por instituição de crédito, correspondente ao valor do adiantamento inicial.\n\n7 - No caso de as entidades beneficiárias serem direcções-gerais ou outras congéneres, o pagamento das despesas do projecto é feito directamente pelo IAPMEI, pelo IFT ou pelo ICEP aos respectivos fornecedores.\n\n8 - O remanescente de 20% do apoio a pagar na fase de conclusão do projecto processa-se após verificação final da «Declaração de despesa» do investimento apresentada pela entidade beneficiária.",
+    "depois": "###### Artigo 19.º — Pagamento do apoio\n\n1 - Os pagamentos do apoio, com excepção dos pagamentos relativos à formação profissional que resultam de regulamento específico dessa componente, serão processados à entidade beneficiária nos termos constantes de norma de pagamentos homologada pelo Ministro da Economia.\n\n2 - Os pagamentos do apoio são assegurados pelo IAPMEI ou pelo IFT ou pelo ICEP.\n\n3 - No caso de parcerias, sempre que a entidade beneficiária seja externa à Administração Pública, deverá a mesma apresentar garantia bancária nos termos e condições previstos na norma de pagamentos.\n\n4 - No caso das entidades beneficiárias serem direcções-gerais ou outras congéneres, o pagamento dos serviços fornecidos por terceiros no âmbito do projecto é efectuado directamente pelo IAPMEI, pelo IFT ou pelo ICEP aos respectivos fornecedores.\n\n> Alterado pelo/a [Portaria n.º 97/2002](https://diariodarepublica.pt/dr/detalhe/portaria/97-2002-276429), publicado em 2002-01-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300821:por",
+    "alterador": "pt:dre:589694:por;pt:dre:276429:por;pt:dre:527224:por"
+  },
+  {
+    "artigo": "ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS::23.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 23.º — Disposições transitórias\n\nOs projectos recepcionados até 31 de Dezembro de 2000 poderão ser comparticipados nas despesas efectuadas após 1 de Janeiro de 2000.",
+    "depois": "###### Artigo 23.º — Disposições transitórias\n\nOs projectos recepcionados até 31 de Janeiro de 2001 poderão ser comparticipados nas despesas efectuadas após 1 de Janeiro de 2000.\n\n> Alterado pelo/a [Portaria n.º 1216-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1216-a-2000-527224), publicado em 2000-12-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300821:por",
+    "alterador": "pt:dre:589694:por;pt:dre:276429:por;pt:dre:527224:por"
+  }
+]

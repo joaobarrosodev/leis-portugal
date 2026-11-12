@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-08-27'
+version_history:
+  file: portaria-640-r2-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-08-27'
+    amending: pt:dre:431799:por
+    amending_title: Portaria n.º 1030/95
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/640-r2/1994/07/15/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:34:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1030/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-640-r2-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -153,7 +168,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Rosmaninhal, município de Idanha-a-Nova, com uma área de 1391,5650 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia do Rosmaninhal, município de Idanha-a-Nova, com uma área de 145,2650 ha.
+
+> Alterado pelo/a [Portaria n.º 1030/95](https://diariodarepublica.pt/dr/detalhe/portaria/1030-1995-431799), publicado em 1995-08-22.
 
 2.º Pelo presente diploma é concessionada, até 15 de Julho de 2004, à CUBEIRA - Sociedade Agrícola e Cinegética, Lda., com o número de pessoa colectiva 971617805 e sede no lugar da Capa Rota, Estrada de Albarraque, Sintra, a zona de caça turística da Cubeira (processo n.º 773 do Instituto Florestal).
 

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — Data de referência do direito nivelador\n\n1 - O direito nivelador a pagar pelo importador é o que estiver em vigor no dia da apresentação da mercadoria para desalfandegamento.\n\n2 - A pedido do importador poderá ser aplicado à importação o direito nivelador em vigor no dia do pedido, ajustado em função do preço limiar que estiver em vigor na data da apresentação da mercadoria para desalfandegamento, durante o prazo de validade do certificado de importação de acordo com a legislação em vigor sobre fixação antecipada.\n\n3 - Para importações provenientes de países terceiros, no caso de os direitos niveladores terem sido fixados nos termos do número anterior, poderão ser-lhes adicionados os prémios em vigor na Comunidade sempre que os preços CIF a prazo forem inferiores aos preços CIF do dia pedido.",
+    "depois": "###### Artigo 5.º — Data de referência do direito nivelador\n\n1 - O direito nivelador a pagar pelo importador é o que estiver em vigor no dia em que for aceite a declaração aduaneira de importação.\n\n2 - A pedido do importador, efectuado ao mesmo tempo que o pedido de certificado, pode ser aplicado à importação o direito nivelador que estiver em vigor no dia da concessão do certificado de importação.\n\n3 - Qualquer variação dos preços limiares acarreta o ajustamento dos direitos niveladores fixados ao abrigo do número anterior, desde que ainda não tenha sido aceite a respectiva declaração de importação.\n\n4 - Para importações provenientes de países terceiros, no caso de os direitos niveladores terem sido fixados nos termos do n.º 2, podem ser-lhes adicionados os prémios em vigor na Comunidade, sempre que os preços CIF a prazo forem inferiores aos preços CIF do dia da concessão do certificado de importação.\n\n5 - A faculdade prevista no n.º 2 pode ser suspensa, caso ocorram perturbações no mercado, por aviso do INGA - Instituto Nacional de Intervenção e Garantia Agrícola à Direcção-Geral do Comércio Externo, com efeitos imediatos após o seu conhecimento por esta Direcção-Geral, devendo o texto do aviso explicitar a data limite da duração da suspensão.\n\n> Alterado pelo/a [Decreto-Lei n.º 225/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1990-575689), publicado em 1990-07-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:612403:por",
+    "alterador": "pt:dre:575689:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Documentação a utilizar\n\nPara efeitos do disposto no artigo 270.º do Acto de Adesão, utilizar-se-á um certificado de importação a emitir pela Direcção-Geral do Comércio Externo nas seguintes condições:\n\na) O pedido de certificado será obrigatoriamente acompanhado da constituição de uma caução a favor da Direcção-Geral do Comércio Externo, a fixar nos termos do artigo 10.º, a qual servirá de garantia à boa execução da operação no prazo fixado, e que será perdida, salvo caso de força maior, no todo ou em parte, caso a operação se não realize apenas parcialmente, sendo restituída mediante apresentação de certidão pelas alfândegas comprovativa da realização da operação;\n\nb) A tolerância em relação à quantidade constante do certificado é de 10%;\n\nc) O prazo de validade do certificado é de 60 dias.",
+    "depois": "###### Artigo 9.º — Documentação a utilizar\n\nPara efeitos do disposto no artigo 270.º do Acto de Adesão, utilizar-se-á um certificado de importação, a emitir pela Direcção-Geral do Comércio Externo, nas seguintes condições:\n\na) O certificado de importação é concedido no terceiro dia útil a contar do dia da apresentação do pedido, considerando-se o dia de apresentação como primeiro dia, sem prejuízo do disposto no artigo 274.º do Acto de Adesão;\n\nb) Os pedidos de certificados apresentados depois das 13 horas consideram-se apresentados no primeiro dia útil seguinte;\n\nc) O pedido de certificado é obrigatoriamente acompanhado da constituição de uma caução a favor da Direcção-Geral do Comércio Externo, a fixar nos termos do artigo seguinte, a qual serve de garantia à boa execução da operação no prazo fixado e que será perdida, salvo caso de força maior, no todo ou em parte, caso a operação se não realize ou se realize apenas parcialmente;\n\nd) A caução será restituída mediante apresentação do original do certificado donde conste a respectiva utilização, visada pela Direcção-Geral das Alfândegas;\n\ne) A tolerância em relação à quantidade constante do certificado é de 10%;\n\nf) O prazo de validade do certificado é de 60 dias.\n\n> Alterado pelo/a [Decreto-Lei n.º 225/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1990-575689), publicado em 1990-07-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:612403:por",
+    "alterador": "pt:dre:575689:por"
+  }
+]

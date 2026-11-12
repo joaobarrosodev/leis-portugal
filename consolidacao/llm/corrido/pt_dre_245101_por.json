@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:245101:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 20,
+      "texto": "Cevada - 20%;\n\nMilho - 50%;\n\nAveia - 10%;\n\nCenteio - 10%;\n\nSorgo - 10%;",
+      "alterador": 1
+    },
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "Quantidade de cereais forrageiros necessária para a produção de um quilograma de carne em Portugal, o montante de 4,5 kg;",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "b) Para efeitos da determinação do elemento referido na alínea b) da mesma disposição, a percentagem da média dos preços mínimos de importação fixados pela Comunidade para os quatro trimestres anteriores a 1 de Maio é de 9%.",
+      "alterador": 1
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "7.º Os direitos niveladores são calculados de acordo com as regras estabelecidas na presente portaria pela Junta Nacional dos Produtos Pecuários, em colaboração com a Direcção-Geral de Concorrência e Preços, e publicados trimestralmente, sob a forma de aviso, na 2.ª série do Diário da República.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "2.º a): mistura-tipo do n.º 3.º a) substituída (Cevada 20, Milho 50, Aveia 10, Centeio 10, Sorgo 10) — unidades 16-20 com as novas percentagens",
+    "2.º b): quantidade de cereais passa a 4,5 kg — unidade 21",
+    "2.º c): percentagem da alínea b) do n.º 3.º passa a 9% — unidade 25",
+    "3.º: nova redação do n.º 7.º — unidade 29",
+    "1.º revoga a Portaria 225/86 (outro diploma): ignorada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

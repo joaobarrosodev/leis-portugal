@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:644570:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "4) Atingida esta data, os selos sobrantes em poder de quaisquer entidades poderão ser trocados por outros valores postais que estejam em vigor nas estações do correio de Lisboa (Terreiro do Paço), Porto (Batalha), Coimbra, Funchal e Castelo Branco e nas tesourarias da Fazenda Pública das restantes localidades no prazo de noventa dias, findo o qual serão devolvidos ao 3.º Depósito Central nos noventa dias seguintes.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 416/72) n.º 1: nova redação do n.º 4 -> unidade 7 substituída, mantendo o número '4)'.",
+    "Alterador 1 n.º 2: altera a Portaria 98/72, não o original -> ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 7-7: parágrafo que não está no alterador nem no original: 4) Atingida esta data, os selos sobrantes em poder de quaisquer entidades poderã"
+  ]
+}

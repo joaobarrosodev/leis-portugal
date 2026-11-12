@@ -1,0 +1,106 @@
+{
+  "id": "pt:dre:408501:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Âmbito de aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Complementaridade do apoio directo",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Modalidade de apoio financeiro",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Limites do apoio financeiro",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Forma de concessão do apoio directo",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Beneficiários",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Publicitação do concurso",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Apresentação das candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Admissão das candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Apreciação das candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Decisão",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Acordo de apoio financeiro",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Entrega das prestações e fiscalização",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Desistência",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Sanções",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 15/99): o artigo 70.º revoga apenas 'todas as normas legais que contrariem' o diploma (revogação condicional) e o artigo 71.º mantém a Portaria n.º 314/96 em vigor até à aprovação das normas de execução; nada aplicado ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DL 15/99), art. 70.º: revogação condicional genérica — não aplicada; art. 71.º: mantém a Portaria 314/96 em vigor transitoriamente — sem alteração textual.",
+    "Alterador 2 (Portaria 482/2001), n.º 2.º: revoga a Portaria n.º 314/96 (sem prejuízo da aplicação aos processos aprovados) — os 15 artigos ficam '(Revogado.)'.",
+    "Alterador 2: o Regulamento anexo é novo e não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

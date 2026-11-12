@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-10-09'
+version_history:
+  file: portaria-496-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-09-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-10-09'
+    amending: pt:dre:621142:por
+    amending_title: Portaria n.º 1167/2001
+    changes:
+    - Revoga Artigo ANEXO::11.º
+    - Revoga Artigo ANEXO::15.º
+    - Revoga Artigo ANEXO::18.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/496/1996/09/18/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:31:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1167/2001. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-496-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -253,29 +270,9 @@ d) O montante do apoio financeiro pretendido.
 
 ###### Artigo 11.º — Instrução do pedido de apoio à pesquisa e desenvolvimento
 
-Nos concursos para apoio financeiro à pesquisa e desenvolvimento de projectos, o requerimento a que se refere o artigo anterior deve ser instruído com os seguintes documentos e menções:
+(Revogado.)
 
-a) Currículo da entidade proponente e dos seus principais colaboradores;
-
-b) Área temática da pesquisa e nota de intenções do projecto;
-
-c) Fontes de consulta a pesquisar e sua acessibilidade;
-
-d) Trabalhos de campo a realizar e materiais a recolher;
-
-e) Formato, suporte e duração prevista;
-
-f) Plano e calendário de desenvolvimento do projecto;
-
-g) Previsão de custos, tanto para o desenvolvimento como para a produção, e previsão de possíveis financiamentos exteriores ao IPACA;
-
-h) Autorizações a obter, ou eventualmente já obtidas, nos termos do Código do Direito de Autor e Direitos Conexos;
-
-i) Perspectivas de distribuição e difusão da obra a produzir;
-
-j) Outros elementos que o candidato considere relevantes para a apreciação do conteúdo do projecto;
-
-l) Declarações comprovativas da inexistência de obrigações por cumprir da entidade proponente perante a administração fiscal e, se for o caso, a segurança social.
+> Revogado pelo/a [Portaria n.º 1167/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1167-2001-621142), publicado em 2001-10-04.
 
 ###### Artigo 12.º — Instrução do pedido de apoio à produção
 
@@ -335,17 +332,9 @@ o) Declarações comprovativas da inexistência de obrigações por cumprir pera
 
 ###### Artigo 15.º — Critérios de selecção para o apoio ao desenvolvimento
 
-Nos concursos para o apoio à pesquisa e desenvolvimento de documentários, a selecção dos projectos a apoiar é feita com base nos seguintes critérios:
+(Revogado.)
 
-a) Interesse geral do documentário, no plano cultural e artístico;
-
-b) Relevância do documentário para o conhecimento da realidade, da história e da cultura portuguesas;
-
-c) Currículo da entidade proponente e dos seus principais colaboradores;
-
-d) Consistência das previsões de custos e da possibilidade de obter financiamentos exteriores;
-
-e) Perspectivas de distribuição e difusão pública da obra.
+> Revogado pelo/a [Portaria n.º 1167/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1167-2001-621142), publicado em 2001-10-04.
 
 ###### Artigo 16.º — Critérios de selecção para o apoio à produção
 
@@ -383,11 +372,9 @@ j) Garantias de distribuição e difusão pública da obra em salas de cinema ou
 
 ###### Artigo 18.º — Relatório de pesquisa e desenvolvimento
 
-1 - Os beneficiários de apoio financeiro à pesquisa e desenvolvimento de documentários deverão apresentar, no termo do calendário acordado, um relatório sobre os resultados do trabalho realizado, acompanhado da documentação comprovativa das despesas realizadas com os fundos recebidos.
+(Revogado.)
 
-2 - O relatório a que se refere o número anterior considerar-se-á aprovado pelo IPACA se outra decisão não for proferida no prazo de 20 dias.
-
-3 - Se o IPACA considerar que o trabalho realizado não correspondeu ao projecto que motivou a concessão do apoio, assim o declarará, fundamentadamente, no prazo previsto no número anterior, podendo ordenar a reposição dos montantes concedidos na proporção em que tal projecto se mostre insuficientemente executado.
+> Revogado pelo/a [Portaria n.º 1167/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1167-2001-621142), publicado em 2001-10-04.
 
 ###### Artigo 19.º — Acordo de apoio financeiro
 

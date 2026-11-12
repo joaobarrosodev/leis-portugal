@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:612403:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Data de referência do direito nivelador",
+      "texto": "1 - O direito nivelador a pagar pelo importador é o que estiver em vigor no dia em que for aceite a declaração aduaneira de importação.\n\n2 - A pedido do importador, efectuado ao mesmo tempo que o pedido de certificado, pode ser aplicado à importação o direito nivelador que estiver em vigor no dia da concessão do certificado de importação.\n\n3 - Qualquer variação dos preços limiares acarreta o ajustamento dos direitos niveladores fixados ao abrigo do número anterior, desde que ainda não tenha sido aceite a respectiva declaração de importação.\n\n4 - Para importações provenientes de países terceiros, no caso de os direitos niveladores terem sido fixados nos termos do n.º 2, podem ser-lhes adicionados os prémios em vigor na Comunidade, sempre que os preços CIF a prazo forem inferiores aos preços CIF do dia da concessão do certificado de importação.\n\n5 - A faculdade prevista no n.º 2 pode ser suspensa, caso ocorram perturbações no mercado, por aviso do INGA - Instituto Nacional de Intervenção e Garantia Agrícola à Direcção-Geral do Comércio Externo, com efeitos imediatos após o seu conhecimento por esta Direcção-Geral, devendo o texto do aviso explicitar a data limite da duração da suspensão.",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Documentação a utilizar",
+      "texto": "Para efeitos do disposto no artigo 270.º do Acto de Adesão, utilizar-se-á um certificado de importação, a emitir pela Direcção-Geral do Comércio Externo, nas seguintes condições:\n\na) O certificado de importação é concedido no terceiro dia útil a contar do dia da apresentação do pedido, considerando-se o dia de apresentação como primeiro dia, sem prejuízo do disposto no artigo 274.º do Acto de Adesão;\n\nb) Os pedidos de certificados apresentados depois das 13 horas consideram-se apresentados no primeiro dia útil seguinte;\n\nc) O pedido de certificado é obrigatoriamente acompanhado da constituição de uma caução a favor da Direcção-Geral do Comércio Externo, a fixar nos termos do artigo seguinte, a qual serve de garantia à boa execução da operação no prazo fixado e que será perdida, salvo caso de força maior, no todo ou em parte, caso a operação se não realize ou se realize apenas parcialmente;\n\nd) A caução será restituída mediante apresentação do original do certificado donde conste a respectiva utilização, visada pela Direcção-Geral das Alfândegas;\n\ne) A tolerância em relação à quantidade constante do certificado é de 10%;\n\nf) O prazo de validade do certificado é de 60 dias.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (DL 181/89), arts. 1.º a 3.º: extingue a Comissão do Mercado de Cereais e transfere as suas competências previstas no DL 56/89 para o INGA, sem alterar o texto dos artigos; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, arts. 1.º-3.º: extinção da CMC e transferência de competências para o INGA, sem nova redação; não aplicado (nao_aplicavel).",
+    "Alterador 2, artigo único: nova redação do artigo 5.º; substituído.",
+    "Alterador 2, artigo único: nova redação do artigo 9.º; substituído."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

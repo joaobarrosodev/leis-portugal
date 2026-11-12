@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 18-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - A tabela de precedência a aplicar é a constante do anexo V a esta portaria.\n\n2 - O aluno que não tenha obtido aprovação em disciplina precedente de alguma disciplina do plano de estudos do ano curricular em que se vai inscrever poderá inscrever-se simultaneamente nas disciplinas precedente e precedida desde que, na disciplina precedente, tenha reunido as condições de admissão a exame final; deve, no entanto, realizar os respectivos exames finais em épocas separadas, sendo condição de realização do exame da disciplina precedida ter obtido aprovação na disciplina precedente.\n\n3 - O regime de precedência fixado no n.º 2 é aplicável a todos os cursos ministrados na Faculdade de Ciências Sociais e Humanas, da Universidade Nova de Lisboa.\n\n4 (transitório) - Naquilo em que contrariem o regime de precedências vigente, as disposições dos n.os 1 e 2 só entrarão em vigor no ano lectivo de 1980-1981.",
+    "depois": "A tabela e regime de precedências de todos os cursos de licenciatura ministrados na Faculdade de Ciências Sociais e Humanas, da Universidade Nova de Lisboa, serão afixados em cada faculdade pelo conselho científico, ouvido o conselho pedagógico.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:677626:por",
+    "alterador": "pt:dre:600169:por"
+  }
+]

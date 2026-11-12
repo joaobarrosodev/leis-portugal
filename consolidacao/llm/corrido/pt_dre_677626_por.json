@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:677626:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 21,
+      "texto": "A tabela e regime de precedências de todos os cursos de licenciatura ministrados na Faculdade de Ciências Sociais e Humanas, da Universidade Nova de Lisboa, serão afixados em cada faculdade pelo conselho científico, ouvido o conselho pedagógico.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 71/86): substitui o quadro IV do anexo II, que só existe em imagem (ver documento original); não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 3.º; substituído o corpo (unidades 18-21) pelo texto novo, mantendo número e epígrafe.",
+    "Alterador 2: nova redação do quadro IV do anexo II, só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

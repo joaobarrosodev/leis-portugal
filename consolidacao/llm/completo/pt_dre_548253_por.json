@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:548253:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 850/2009) retifica o Anúncio n.º 1856/2009 da Câmara Municipal de Loures e publica os termos de referência para a alteração do PP5; apenas cita a Portaria n.º 1130-B/99 como enquadramento legal, sem instrução textual sobre o original. Alterador 2 (Aviso n.º 11018/2017) vem sem texto nenhum dirigido ao original; nada a aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Decl. Ret. 850/2009): retifica outro diploma (Anúncio n.º 1856/2009) e publica termos de referência — nenhuma alteração ao original.",
+    "Alterador 2 (Aviso 11018/2017): sem artigos que mencionem o original no pedido — nenhuma alteração."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

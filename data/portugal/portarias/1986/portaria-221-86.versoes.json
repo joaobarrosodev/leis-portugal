@@ -1,0 +1,98 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:227183:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-05-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "997b207924c40631",
+    "5576fa6cfb4fc2d5",
+    "829a2414012f92b4",
+    "505cc985d371beb9",
+    "416cdb279b0f6981"
+   ]
+  },
+  {
+   "date": "1988-06-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:374213:por",
+     "title": "Portaria n.º 362/88",
+     "published": "1988-06-03",
+     "dre_path": "/dr/detalhe/portaria/362-1988-374213"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 93-94",
+    "Altera Artigo unidades 96-101"
+   ],
+   "fragments": [
+    "997b207924c40631",
+    "5576fa6cfb4fc2d5",
+    "829a2414012f92b4",
+    "505cc985d371beb9",
+    "ae9547ba3ed42def"
+   ]
+  }
+ ],
+ "fragments": {
+  "997b207924c40631": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Maio\n\nSob proposta da Universidade de Trás-os-Montes e Alto Douro;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho, e no [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade de Trás-os-Montes e Alto Douro confere o grau de licenciado em:\n\na) Ensino de Inglês e Alemão;\n\nb) Ensino de Português e Francês;\n\nc) Ensino de Português e Inglês;\n\nd) Ensino de Física e Química;\n\nministrando, em consequência, os respectivos cursos.\n\n2.º\n\n(Organização)\n\nOs cursos de licenciatura a que se refere o n.º 1.º, adiante simplesmente designados por «cursos», organizam-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Estrutura curricular)\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são, para cada curso, os constantes dos anexos I a III a esta portaria.\n\n4.º\n\n(Planos de estudos)\n\n1 - Os planos de estudos dos cursos serão fixados por despacho reitoral, a publicar na 2.ª série do Diário da República, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.\n\n2 - Do despacho a que se refere o n.º 1 constarão igualmente a tabela e o regime de precedências a que se refere o n.º 5.º\n\n5.º\n\n(Precedências e regime de transição de ano)\n\n1 - Compete ao conselho científico, ouvido o conselho pedagógico, fixar a tabela e o regime de precedências.\n\n2 - O regime de transição de ano é parte integrante do regime de precedências.\n\n6.º\n\n(Classificação final)\n\nA classificação final dos cursos é calculada nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.\n\n7.º\n\n(Estágio pedagógico)\n\nO estágio pedagógico, bem como a admissão ao mesmo, é regulado pela [Portaria n.º 431/79](https://diariodarepublica.pt/dr/detalhe/portaria/431-1979-377538), de 16 de Agosto, com a redacção que lhe foi dada pelas Portarias n.os [791/80](https://diariodarepublica.pt/dr/detalhe/portaria/791-1980-462201), de 6 de Outubro, [176/83](https://diariodarepublica.pt/dr/detalhe/portaria/176-1983-309694), de 2 de Março, e [494/84](https://diariodarepublica.pt/dr/detalhe/portaria/494-1984-386070), de 23 de Julho.\n\nMinistério da Educação e Cultura.\n\nAssinada em 21 de Abril de 1986.\n\nO Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro."
+  },
+  "5576fa6cfb4fc2d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Licenciatura em Ensino de Inglês e Alemão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Licenciatura em Ensino de Inglês e Alemão\n\n1 - Áreas científicas do curso:\n\na) Inglês;\n\nb) Alemão;\n\nc) Ciências da Educação.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Total de unidades de crédito necessárias à concessão do grau:\n\na) 130,5 unidades de crédito;\n\nb) Aprovação em estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\nInglês ... 41\n\nAlemão ... 41\n\nCiências da Educação ... 32,5\n\nLinguística Geral ... 11\n\nTeoria da Literatura ... 5"
+  },
+  "829a2414012f92b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Licenciatura em Ensino de Português e Francês",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Licenciatura em Ensino de Português e Francês\n\n1 - Áreas científicas do curso:\n\na) Português;\n\nb) Francês;\n\nc) Ciências da Educação.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Total de unidades de crédito necessárias à concessão do grau:\n\na) 130,5 unidades de crédito;\n\nb) Aprovação em estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\nPortuguês ... 40\n\nFrancês ... 35,5\n\nCiências da Educação ... 30\n\nLinguística Geral ... 5\n\nTeoria da Literatura ... 10\n\nLatim ... 10"
+  },
+  "505cc985d371beb9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Licenciatura em Ensino de Português e Inglês",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Licenciatura em Ensino de Português e Inglês\n\n1 - Áreas científicas do curso:\n\na) Português;\n\nb) Inglês;\n\nc) Ciências da Educação.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 130 unidades de crédito;\n\nb) Aprovação em estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\nPortuguês ... 42,5\n\nInglês ... 42,5\n\nCiências da Educação ... 30\n\nLinguística Geral ... 5\n\nTeoria da Literatura ... 10"
+  },
+  "416cdb279b0f6981": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Licenciatura em Ensino de Física e Química",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Licenciatura em Ensino de Física e Química\n\n1 - Áreas científicas do curso:\n\na) Física;\n\nb) Química;\n\nc) Ciências da Educação.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à concessão do grau:\n\na) 130,5 unidades de crédito;\n\nb) Aprovação em estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito.\n\nFísica ... 32\n\nQuímica ... 39,5\n\nCiências da Educação ... 30\n\nMatemática ... 22\n\nElectrónica e Informática ... 7"
+  },
+  "ae9547ba3ed42def": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Licenciatura em Ensino de Física e Química",
+   "in_force_from": "1988-06-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 362/88](https://diariodarepublica.pt/dr/detalhe/portaria/362-1988-374213), publicado em 1988-06-03.",
+    "Alterado pelo/a [Portaria n.º 362/88](https://diariodarepublica.pt/dr/detalhe/portaria/362-1988-374213), publicado em 1988-06-03."
+   ],
+   "markdown": "## ANEXO IV — Licenciatura em Ensino de Física e Química\n\n1 - Áreas científicas do curso:\n\na) Física;\n\nb) Química;\n\nc) Ciências da Educação.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Condições necessárias à obtenção do grau:\n\na) 131 unidades de crédito;\n\n> Alterado pelo/a [Portaria n.º 362/88](https://diariodarepublica.pt/dr/detalhe/portaria/362-1988-374213), publicado em 1988-06-03.\n\nb) Aprovação em estágio pedagógico.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\na) Física ... 32,5\n\nb) Química ... 39,5\n\nc) Ciências da Educação ... 30\n\nd) Matemática ... 22\n\ne) Electrónica e Informática ... 7\n\n> Alterado pelo/a [Portaria n.º 362/88](https://diariodarepublica.pt/dr/detalhe/portaria/362-1988-374213), publicado em 1988-06-03."
+  }
+ }
+}

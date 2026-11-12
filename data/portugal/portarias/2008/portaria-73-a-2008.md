@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-03-01'
+version_history:
+  file: portaria-73-a-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-01-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-03-01'
+    amending: pt:dre:260663:por
+    amending_title: Portaria n.º 230-A/2009
+    changes:
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 22-23
+    - Altera Artigo unidades 26-31
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/73-a/2008/01/23/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:34:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 230-A/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-73-a-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,7 +179,9 @@ Valor nominal - (euro) 1;
 
 Mínimo de subscrição - 100 unidades;
 
-Máximo por conta aforro - 1 milhão de unidades;
+Máximo por conta aforro - 250 000 unidades;
+
+> Alterado pelo/a [Portaria n.º 230-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/230-a-2009-260663), publicado em 2009-02-27.
 
 Mínimo por conta aforro - 100 unidades.
 
@@ -174,25 +193,29 @@ Taxa de juro - soma da taxa base na data de início do trimestre com o prémio d
 
 Taxa base em percentagem - determinada mensalmente no antepenúltimo dia útil do mês, para vigorar durante o mês seguinte, segundo a fórmula:
 
-0,85*E3-0,25
+0,85 * E3 + 0,25
 
-em que E3 é a média dos valores da EURIBOR a três meses observados nos 10 dias úteis anteriores, sendo o resultado arredondado à terceira casa decimal;
+em que E3 é a média dos valores da Euribor a três meses observados nos 10 dias úteis anteriores, sendo o resultado arredondado à terceira casa decimal;
+
+> Alterado pelo/a [Portaria n.º 230-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/230-a-2009-260663), publicado em 2009-02-27.
 
 Período de contagem de juros - cada subscrição vencerá juros com uma periodicidade trimestral. O vencimento dos juros ocorre no dia do mês igual ao da data valor da subscrição. No caso de esse dia não existir no mês de vencimento, o vencimento terá lugar no 1.º dia do mês seguinte;
 
 Prémio de permanência em pontos percentuais:
 
-0,25, no 2.º ano;
+0,50 no 2.º ano;
 
-0,50, no 3.º ano;
+0,75 no 3.º ano;
 
-0,75, do 4.º ao 7.º ano;
+1,00 do 4.º ao 7.º ano;
 
-1, no 8.º ano;
+1,25 no 8.º ano;
 
-1,5, no 9.º ano;
+1,5 no 9.º ano;
 
-2,5, no 10.º ano;
+2,5 no 10.º ano.
+
+> Alterado pelo/a [Portaria n.º 230-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/230-a-2009-260663), publicado em 2009-02-27.
 
 Capitalização - capitalização automática dos juros vencidos (líquidos de impostos);
 

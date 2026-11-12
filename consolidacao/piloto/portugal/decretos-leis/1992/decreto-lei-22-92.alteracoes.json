@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Âmbito da reavaliação\n\n1 - As empresas já privatizadas, em fase de privatização ou que venham a ser privatizadas podem reavaliar os elementos do seu activo imobilizado corpóreo ao serviço da empresa na data a que se reporta a reavaliação e existentes na data em que a mesma se efectua.\n\n2 - A reavaliação reporta-se à data da avaliação para privatização ou, sendo esta efectuado por fases, à data da avaliação para a primeira fase.\n\n3 - Exceptuam-se do disposto no número anterior:\n\na) Os elementos completamente reintegrados na data da reavalização e já reavaliados nessa qualidade ao abrigo de anterior legislação de carácter fiscal;\n\nb) Os elementos de reduzido valor cujo custo de aquisição ou de produção tenha sido deduzido num só exercício, nos termos do artigo 31.º do Código do IRC.\n\n4 - A reavaliação deve constar do balanço referente ao termo do período em que se integra a data da avaliação ou, nos casos em que esta seja anterior a 1 de Janeiro de 1991, do balanço referente ao termo do exercício de 1991.\n\n5 - Se já se tiver procedido ao encerramento das contas à data da publicação deste diploma ou não puder efectuar-se a reavaliação em tempo útil, deverá esta constar do balanço referente ao termo do exercício de 1992.",
+    "depois": "###### Artigo 1.º — Âmbito da reavaliação\n\n1 - As empresas já privatizadas, em fase de privatização ou que venham a ser privatizadas podem reavaliar os elementos do seu activo imobilizado corpóreo ao serviço da empresa na data a que se reporta a reavaliação e existentes na data em que a mesma se efectua.\n\n2 - A reavaliação reporta-se à data da avaliação para privatização ou, sendo esta efectuado por fases, à data da avaliação para a primeira fase.\n\n3 - Exceptuam-se do disposto no número anterior:\n\na) Os elementos completamente reintegrados na data da reavalização e já reavaliados nessa qualidade ao abrigo de anterior legislação de carácter fiscal;\n\nb) Os elementos de reduzido valor cujo custo de aquisição ou de produção tenha sido deduzido num só exercício, nos termos do artigo 31.º do Código do IRC.\n\n4 - A reavaliação deve constar do balanço referente ao termo do período em que se integra a data da avaliação, sem prejuízo do disposto no n.º 2 do artigo 4.º\n\n5 - Se já se tiver procedido ao encerramento das contas ou não puder efectuar-se a reavaliação em tempo útil, deverá então constar do balanço apurado, o mais tardar, no termo do exercício seguinte, sem prejuízo do disposto no n.º 2 do artigo 4.º\n\n> Alterado pelo/a [Decreto-Lei n.º 301/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1994-562064), publicado em 1994-12-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:670534:por",
+    "alterador": "pt:dre:562064:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Reserva de reavaliação\n\n1 - A reserva de reavaliação corresponderá ao saldo resultante dos movimentos contabilísticos inerentes ao processo de actualização, os quais serão registados, conforme os casos, a débito ou a crédito de uma conta denominada «Reserva de reavaliação - [Lei n.º 36/91](https://diariodarepublica.pt/dr/detalhe/lei/36-1991-691435), de 27 de Julho».\n\n2 - A reserva de reavaliação só pode ser movimentada para cobertura de prejuízos acumulados até ao termo do período em que se integra a data a que se reporta a reavaliação, inclusive, e para incorporação no capital social, na parte remanescente.\n\n3 - As utilizações previstas no número anterior só poderão efectivar-se no exercício seguinte àquele em que se efectuou a reavaliação.",
+    "depois": "###### Artigo 4.º — Reserva de reavaliação\n\n1 - A reserva de reavaliação corresponderá ao saldo resultante dos movimentos contabilísticos inerentes ao processo de actualização, os quais serão registados, conforme os casos, a débito ou a crédito de uma conta denominada «Reserva de reavaliação - [Lei n.º 36/91](https://diariodarepublica.pt/dr/detalhe/lei/36-1991-691435), de 27 de Julho».\n\n2 - A reserva de reavaliação pode ser movimentada no mesmo exercício em que seja contabilizada para, em conjunto com a utilização de reservas de reavaliação constituídas nos termos de outros diplomas legais, e independentemente da data da respectiva constituição, cobrir resultados transitados especificamente decorrentes da constituição ou reforço de provisões para pensões e encargos similares.\n\n3 - Salvo o disposto no número anterior, a reserva de reavaliação só pode ser movimentada para cobertura de prejuízos acumulados até ao termo do período em que se integra a data a que se reporta a reavaliação, inclusive, e para incorporação no capital social, na parte remanescente.\n\n4 - As utilizações previstas no número anterior só poderão efectivar-se no exercício seguinte àquele em que se efectuou a reavaliação.\n\n> Alterado pelo/a [Decreto-Lei n.º 301/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1994-562064), publicado em 1994-12-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:670534:por",
+    "alterador": "pt:dre:562064:por"
+  }
+]

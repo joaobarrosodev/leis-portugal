@@ -29,10 +29,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-01-11'
+version_history:
+  file: despacho-normativo-289-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-08-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-01-11'
+    amending: pt:dre:390402:por
+    amending_title: Despacho Normativo n.º 21/81; Despacho Normativo n.º 2/82
+    changes:
+    - Altera Artigo unidades 23-23
+    - Altera Artigo unidades 57-57
+    - Altera Artigo unidades 72-72
+    - Altera Artigo unidades 166-167
 identifiers:
   celex: null
   eli: null
@@ -58,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:03:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 21/81; Despacho
+    Normativo n.º 2/82. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1980/despacho-normativo-289-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -174,7 +192,9 @@ Relativamente aos requisitos de habilitações literárias e técnico-profission
 
 8 - Dispensabilidade dos requisitos habilitacionais:
 
-Os requisitos de habilitações literárias ou e técnico-profissionais exigidos pelo [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673) para progressão nas carreiras apenas são dispensados para o pessoal com vínculo efectivo e que nelas já se encontrasse inserido.
+São dispensados os requisitos de habilitações literárias e ou técnico-profissionais a todo o pessoal que, ao tempo da publicação do [Decreto-Lei n.º 519-Q2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-q2-1979-156832), de 29 de Dezembro, se encontrasse ao serviço do Instituto da Família e Acção Social, qualquer que seja o seu vínculo jurídico.
+
+> Alterado pelo/a [Despacho Normativo n.º 2/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-1982-552994), publicado em 1982-01-11.
 
 9 - Retroactividade dos efeitos:
 
@@ -242,7 +262,11 @@ b) Igualmente transita para esta categoria o pessoal diplomado com um curso supe
 
 C) Carreira de técnicos de educação
 
-Os actuais técnicos de educação habilitados com o curso de educador de infância ou do magistério primário, bem como os educadores de infância, desde que, uns e outros, desempenham funções inspectivas e orientadoras da rede de estabelecimentos de infância dependentes do Ministério dos Assuntos Socais, transitam para o novo quadro, para as categorias de técnicos de educação de 1.ª classe ou de 2.ª classe, conforme possuam, respectivamente, mais ou menos de três anos de exercício efectivo daquelas funções.
+Os actuais técnicos de educação habilitados com o curso de educador de infância ou o do magistério primário, bem como os educadores de infância, desde que, uns e outros, desempenhem funções inspectivas e orientadoras da rede de estabelecimentos de infância dependentes do Ministério dos Assuntos Sociais, transitam para o novo quadro, para a categoria de técnico de educação de 1.ª ou de 2.ª classe, conforme possuam, respectivamente, mais ou menos de três anos de exercício efectivo daquelas funções.
+
+Os actuais técnicos de educação que não possuam as habilitações acima indicadas, mas se encontravam inseridos naquela carreira igualmente transitam para o novo quadro, para a categoria de técnico de educação de 1.ª classe ou de 2.ª classe, de acordo com o preceituado no parágrafo anterior, devendo, no entanto, os respectivos lugares ser extintos à medida que forem vagando.
+
+> Alterado pelo/a [Despacho Normativo n.º 21/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-1981-390402), publicado em 1981-01-16.
 
 Estes técnicos de educação, cujas letras remuneratórias ora se valorizaram por força dos últimos reajustamentos salariais verificados a nível do pessoal docente, constituirão a área de recrutamento dos inspectores-orientadores de educação pré-escolar logo que venha a ser definido o provimento dessa categoria no novo quadro da Inspecção-Geral do Ensino e desde que preencham os requisitos habilitacionais exigidos para idêntica categoria no Ministério da Educação ou tenham aprovação em curso específico equivalente a criar no Ministério dos Assuntos Sociais e como tal reconhecido por aquele Ministério.
 
@@ -272,7 +296,9 @@ b) Todo o pessoal que possua as habilitações exigidas, independentemente da su
 
 a) Os actuais monitores de 1.ª classe com mais de três anos de antiguidade na categoria;
 
-b) Igualmente transitam para esta categoria, por equivalência, os actuais professores de Trabalhos Manuais.
+b) Igualmente transitam para esta categoria, por equivalência, os actuais professores de Trabalhos Manuais e o professor do 12.º grupo do ensino técnico.
+
+> Alterado pelo/a [Despacho Normativo n.º 2/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-1982-552994), publicado em 1982-01-11.
 
 2.2 - São providos na categoria de técnico monitor de 1.ª classe:
 
@@ -460,9 +486,9 @@ O actual jardineiro e todo o pessoal que exerce essas funções, independentemen
 
 5 - Outro pessoal auxiliar:
 
-5.1 - É provido na categoria de encarregado do pessoal doméstico:
+5.1 - É provido na categoria de encarregado do pessoal doméstico o pessoal que actualmente possui as categorias de encarregado de serviços domésticos, encarregado de lar, encarregado de refeitório e encarregado de sector de 2.ª classe, bem como todo o pessoal, independentemente da sua categoria actual, que exerça funções de encarregado do pesosal doméstico dos estabelecimentos na dependência deste Instituto.
 
-O pessoal que actualmente possui as categorias de encarregado de serviços domésticos, encarregado de lar, encarregado de refeitório e encarregado de sector de 2.ª classe.
+> Alterado pelo/a [Despacho Normativo n.º 21/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-1981-390402), publicado em 1981-01-16.
 
 5.2 - É provido nas categorias de empregado dos serviços de acção médica principal, de 1.ª classe, de 2.ª classe e de 3.ª classe:
 

@@ -1,0 +1,36 @@
+{
+  "id": "pt:dre:219483:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::11.º",
+      "epigrafe": "Instrução do pedido de apoio à pesquisa e desenvolvimento",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO::15.º",
+      "epigrafe": "Critérios de selecção para o apoio ao desenvolvimento",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO::18.º",
+      "epigrafe": "Relatório de pesquisa e desenvolvimento",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (DL 15/99): o art. 70.º revoga só 'as normas legais que contrariem' o diploma (revogação condicional) e o art. 71.º mantém a Portaria 496/96 em vigor até à aprovação das normas de execução (efeito adiado para facto futuro) — não aplicados ao texto. Alterador 2 (Portaria 1167/2001, n.º 2.º): a revogação dos artigos 1.º, 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 13.º, 14.º, 17.º, 19.º, 20.º e 21.º é apenas 'na parte em que se aplicam ao desenvolvimento de documentários' (revogação parcial não textual) — não aplicada.",
+  "instrucoes": [
+    "DL 15/99 art. 70.º: revogação genérica das normas que contrariem o diploma — condicional, não aplicada",
+    "DL 15/99 art. 71.º: mantém a Portaria 496/96 em vigor até às normas de execução — efeito futuro, não aplicado",
+    "Portaria 1167/2001 n.º 2.º: revoga os artigos 11.º, 15.º e 18.º do Regulamento anexo — aplicado (Revogado.)",
+    "Portaria 1167/2001 n.º 2.º: revoga os artigos 1.º, 2.º, 3.º, 5.º-10.º, 13.º, 14.º, 17.º, 19.º-21.º só na parte aplicável ao desenvolvimento — não textual, em nao_aplicavel",
+    "Portaria 1167/2001 n.º 1.º e Regulamento anexo: aprova regulamento novo autónomo — não altera o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

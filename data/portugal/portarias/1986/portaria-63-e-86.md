@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-08-11'
+version_history:
+  file: portaria-63-e-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-03-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-08-11'
+    amending: pt:dre:214004:por
+    amending_title: Portaria n.º 426-A/86
+    changes:
+    - Altera Artigo unidades 16-20
+    - Altera Artigo unidades 21-21
+    - Altera Artigo unidades 25-25
+    - Altera Artigo unidades 29-29
 identifiers:
   celex: null
   eli: null
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:54:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 426-A/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-63-e-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,17 +157,21 @@ a) Para efeitos da determinação do elemento do direito nivelador referido na a
 
 Cereais forrageiros necessários para a produção de um quilograma de carne em Portugal, os constantes da mistura-tipo resultante da utilização das percentagens seguintes:
 
-Cevada - 5%;
+Cevada - 20%;
 
-Milho - 80%;
+Milho - 50%;
 
-Aveia - 5%;
+Aveia - 10%;
 
-Centeio - 5%;
+Centeio - 10%;
 
-Sorgo - 5%;
+Sorgo - 10%;
 
-Quantidade de cereais forrageiros necessária para a produção de um quilograma de carne em Portugal, o montante de 4,9 kg;
+> Alterado pelo/a [Portaria n.º 426-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-a-1986-214004), publicado em 1986-08-06.
+
+Quantidade de cereais forrageiros necessária para a produção de um quilograma de carne em Portugal, o montante de 4,5 kg;
+
+> Alterado pelo/a [Portaria n.º 426-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-a-1986-214004), publicado em 1986-08-06.
 
 Preço limiar nacional da quantidade de cereais forrageiros necessária para a produção de um quilograma de carne em Portugal, a média ponderada dos preços limiar dos cereais forrageiros referidos no primeiro parágrafo desta alínea, multiplicada pelo índice de conversão definido no parágrafo anterior;
 
@@ -157,7 +179,9 @@ Preço de oferta franco-fronteira da quantidade de cereais forrageiros necessár
 
 Preço de oferta franco-fronteira de cada um dos cereais forrageiros, a média aritmética dos preços CIF Lisboa estabelecidos para este cereal originário da CEE durante o período de cinco meses anteriores ao mês que precede o trimestre para o qual o dito elemento é calculado;
 
-b) Para efeitos da determinação do elemento referido na alínea b) da mesma disposição, a percentagem da média dos preços mínimos de importação fixados pela Comunidade para os quatro trimestres anteriores a 1 de Maio é de 12%.
+b) Para efeitos da determinação do elemento referido na alínea b) da mesma disposição, a percentagem da média dos preços mínimos de importação fixados pela Comunidade para os quatro trimestres anteriores a 1 de Maio é de 9%.
+
+> Alterado pelo/a [Portaria n.º 426-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-a-1986-214004), publicado em 1986-08-06.
 
 4.º De acordo com o n.º 6 do artigo 9.º do Decreto-Lei n.º 516/85, no cálculo do direito nivelador a aplicar aos produtos provenientes de Espanha, a determinação do preço de oferta franco-fronteira de cada um dos cereais forrageiros é baseada na média aritmética dos preços CIF Lisboa estabelecidos para este cereal originário de Espanha.
 
@@ -165,7 +189,9 @@ b) Para efeitos da determinação do elemento referido na alínea b) da mesma di
 
 6.º As percentagens referidas na alínea a) referentes à mistura tipo e na alínea b), ambas do n.º 3.º desta portaria, bem como os coeficientes técnicos mencionados no número anterior, serão progressivamente aproximadas, durante a primeira etapa, respectivamente aos valores constantes do artigo 1.º do Regulamento (CEE) n.º [2764/75](http://data.europa.eu/eli/reg/1975/2764/oj?locale=pt), ao elemento referido na alínea b) do n.º 1 do artigo 9.º do Regulamento (CEE) n.º [2759/75](http://data.europa.eu/eli/reg/1975/2759/oj?locale=pt) e aos coeficientes referidos no artigo 1.º do Regulamento (CEE) n.º [3602/82](http://data.europa.eu/eli/reg/1982/3602/oj?locale=pt).
 
-7.º Os direitos niveladores são calculados de acordo com as regras estabelecidas na presente portaria pela Junta Nacional dos Produtos Pecuários, em colaboração com a Direcção-Geral de Concorrência e Preços, e publicados mensalmente sob a forma de aviso na 2.ª série do Diário da República, pelo menos cinco dias úteis antes do início do período a que se reportam.
+7.º Os direitos niveladores são calculados de acordo com as regras estabelecidas na presente portaria pela Junta Nacional dos Produtos Pecuários, em colaboração com a Direcção-Geral de Concorrência e Preços, e publicados trimestralmente, sob a forma de aviso, na 2.ª série do Diário da República.
+
+> Alterado pelo/a [Portaria n.º 426-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-a-1986-214004), publicado em 1986-08-06.
 
 8.º O direito nivelador a aplicar aos produtos provenientes de países terceiros é fixado tendo em conta o nível do direito nivelador comunitário para países terceiros adicionado do elemento previsto na alínea a) do n.º 5 do artigo 9.º do Decreto-Lei n.º 516/85 e ainda da diferença entre o elemento referido na alínea b) do mesmo número e o elemento correspondente previsto na regulamentação comunitária.
 

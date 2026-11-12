@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.386 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.402 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -161,6 +161,15 @@ Destes 618, 592 ainda não foram pedidos.
   - o Decreto Regulamentar 8/83: o quadro de pessoal e as referências ao Ministro da Qualidade de Vida;
   - a RCM 8/94: um subtítulo repetido;
   - a Portaria 18022: a tabela anexa da Portaria 19785 só em imagem.
+
+**Rondas seguintes**, com o mesmo método e os 40 mais citados dos que faltam em cada uma. Os pedidos acima de 450 mil caracteres ficam numa lista à parte, para o `llm_gigantes.py`.
+
+| Ronda | Pedidos | Juntados | Aplicados (sem reparos às cegas) | Por pedir depois |
+| --- | --: | --: | --: | --: |
+| 86 | 37 | 18 | 14 | 555 |
+| 87 | 36 | 24 | 16 | 515 |
+
+Na ronda 87, a Portaria 680/71 foi para `llm/exclusoes.json`, porque está revogada por inteiro pela Portaria 654/74. Dois diplomas da vista 001 ficaram sem resposta do verificador e não entram.
 
 **O que isto quer dizer para o RAG.** O aviso "Texto original; alterado por…" mantém-se em todos os diplomas alterados sem versão consolidada, mesmo nos "sem alteração textual". Tirá-lo nesses casos faria o sistema responder com texto desatualizado em cerca de 14% a 28% deles (`rag/README.md`).
 

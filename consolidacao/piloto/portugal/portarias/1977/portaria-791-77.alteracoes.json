@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — (Concurso de admissão)\n\n1 - A admissão no quadro será feita, tendo em atenção o disposto no artigo 2.º, por concurso documental ou por prestação de provas, anunciado:\n\na) Nas ordens de serviço das unidades e estabelecimentos militares para os grupos de pessoal de alimentação, depósito, desenho, oficinal, auxiliar, vigilância, não especificado e para os concursos abertos apenas ao pessoal do QPCE;\n\nb) No Diário da República e nas ordens de serviço das unidades e estabelecimentos militares para os restantes grupos de pessoal e quando os concursos sejam alargados ao mercado nacional de trabalho.\n\n2 - O concurso documental destina-se à admissão dos seguintes grupos de pessoal:\n\nTécnico superior;\n\nDocente;\n\nParamédico (excepto protésico).\n\n3 - A apresentação de provas destina-se à admissão dos seguintes grupos de pessoal:\n\na) Escritas, para o grupo de pessoal administrativo e de codificação de vencimentos, respectivamente, nas categorias de:\n\nTerceiro-oficial;\n\nPreparador de vencimentos de 3.ª classe;\n\nb) Práticas, para os restantes grupos de pessoal, com excepção dos grupos de vigilância e auxiliar.",
+    "depois": "###### Artigo 3.º — (Concurso de admissão)\n\n1 - A admissão no quadro será feita, tendo em atenção o disposto no artigo 2.º, por concurso documental ou por prestação de provas, anunciados:\n\na) Nas ordens de serviço das unidades e estabelecimentos militares, para os grupos de pessoal de alimentação, depósito, desenho, oficinal, auxiliar, vigilância, não especificado e para os concursos abertos apenas ao pessoal do QPCE;\n\nb) No Diário da República e nas ordens de serviço das unidades e estabelecimentos militares, para os restantes grupos de pessoal e quando os concursos sejam alargados ao mercado nacional de trabalho.\n\n2 - O concurso documental destina-se à admissão dos seguintes grupos de pessoal:\n\nTécnico superior;\n\nParamédico (excepto protésico).\n\n3 - O pessoal docente será admitido nos termos de legislação específica.\n\n4 - A prestação de provas destina-se à admissão dos seguintes grupos de pessoal:\n\na) Escritas, para o grupo de pessoal administrativo e de codificação de vencimentos, respectivamente, nas categorias:\n\nTerceiro-oficial;\n\nPreparador de vencimentos de 3.ª classe;\n\nb) Práticas, para os restantes grupos de pessoal, com excepção dos grupos de vigilância e auxiliar.\n\n> Alterado pelo/a [Portaria n.º 710/78](https://diariodarepublica.pt/dr/detalhe/portaria/710-1978-324519), publicado em 1978-12-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:280073:por",
+    "alterador": "pt:dre:324519:por;pt:dre:364726:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — (Concursos documentais - Listas de admissão)\n\n1 - Quando o recrutamento se fizer através de concurso documental, a Direcção do Serviço de Pessoal, dentro de dez dias, a contar do termo do prazo referido no n.º 6 do artigo 5.º, elaborará, para publicação em Diário da República, as listas dos candidatos que preencham as condições de admissão.\n\n2 - As listas serão organizadas tendo em atenção habilitações literárias, profissionais, curriculum e as condições de preferência a que se refere o artigo 3.º",
+    "depois": "###### Artigo 6.º — (Concursos documentais - Listas de admissão)\n\n1 - Quando o recrutamento se fizer através de concurso documental, a Direcção do Serviço de Pessoal, dentro de vinte dias a contar do termo do prazo referido no n.º 6 do artigo 5.º, promoverá a publicação em Diário da República das listas dos candidatos que preencham as condições de admissão.\n\n2 - As listas serão organizadas por um júri nomeado para o efeito, que terá em atenção as habilitações literárias e profissionais, os corrículos e ainda as condições de preferência a que se refere o artigo 13.º\n\n3 - O júri será nomeado por despacho do director do Serviço de Pessoal e terá a seguinte constituição:\n\nPresidente - um oficial superior, do activo ou da reserva, de qualquer arma ou serviço.\n\nVogais - três oficiais de patente não inferior a capitão, do activo ou da reserva, de qualquer arma ou serviço.\n\n> Alterado pelo/a [Portaria n.º 555/79](https://diariodarepublica.pt/dr/detalhe/portaria/555-1979-364726), publicado em 1979-10-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:280073:por",
+    "alterador": "pt:dre:324519:por;pt:dre:364726:por"
+  },
+  {
+    "artigo": "19.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 19.º — (Condições de promoção)\n\nSão condições de promoção:\n\n1 - Encontrar-se na categoria imediatamente inferior à categoria em que se verificar a vacatura;\n\n2 - Ter na sua categoria, pelo menos, três anos de serviço efectivo nas seguintes condições:\n\na) À data da vacatura, para as categorias em que não estão previstos concursos de promoção;\n\nb) À data do termo do prazo de entrega do requerimento de concurso, para as categorias em que este seja condição de promoção.\n\n3 - Ter boas informações de serviço.",
+    "depois": "###### Artigo 19.º — (Condições de promoção)\n\n1 - São condições de promoção:\n\na) Encontrar-se na categoria imediatamente inferior à categoria em que se verificar a vacatura;\n\nb) Ter na sua categoria ou em categoria equivalente:\n\n1) Três anos de serviço efectivo, para as categorias em que não é exigido concurso de promoção;\n\n2) Três anos de serviço efectivo à data do termo do prazo de entrega do requerimento do concurso, para as categorias em que este seja condição de promoção.\n\nc) Ter boas informações de serviço.\n\n2 - O ajudante general do Exército pode, sempre que as condições o exijam e através de despacho fundamentado, reduzir temporariamente o tempo de permanência na categoria previsto na alínea b) do número anterior.\n\n> Alterado pelo/a [Portaria n.º 555/79](https://diariodarepublica.pt/dr/detalhe/portaria/555-1979-364726), publicado em 1979-10-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:280073:por",
+    "alterador": "pt:dre:324519:por;pt:dre:364726:por"
+  }
+]

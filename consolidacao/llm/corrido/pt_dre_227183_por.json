@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:227183:por",
+  "substituicoes": [
+    {
+      "de": 93,
+      "ate": 94,
+      "texto": "3 - Condições necessárias à obtenção do grau:\n\na) 131 unidades de crédito;",
+      "alterador": 1
+    },
+    {
+      "de": 96,
+      "ate": 101,
+      "texto": "4 - Áreas científicas e distribuição das unidades de crédito:\n\na) Física ... 32,5\n\nb) Química ... 39,5\n\nc) Ciências da Educação ... 30\n\nd) Matemática ... 22\n\ne) Electrónica e Informática ... 7",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2 a 5 (Portarias n.os 1083/89, 1080/89, 1081/89 e 1082/89): derrogam a Portaria n.º 221/86 'na parte referente à regulamentação' de cada curso (Português e Francês, Inglês e Alemão, Física e Química, Português e Inglês), sem prejuízo do regime de transição do seu n.º 8.º, e aprovam novos planos de estudos só em imagem; não indicam texto a substituir nem unidades concretas a revogar, pelo que não é uma alteração textual segura do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 362/88): nova redação do anexo IV (Física e Química) — n.º 3 passa a 'obtenção do grau' e 131 unidades de crédito (unidades 93-94); n.º 4 com ':' e áreas em alíneas a) a e), Física 32,5 (unidades 96-101); restantes unidades iguais, título do anexo mantido.",
+    "Alterador 2 (Portaria n.º 1083/89): derrogação da parte relativa ao curso de Português e Francês, com regime de transição — não aplicada (nao_aplicavel).",
+    "Alterador 3 (Portaria n.º 1080/89): derrogação da parte relativa ao curso de Inglês e Alemão — não aplicada (nao_aplicavel).",
+    "Alterador 4 (Portaria n.º 1081/89): derrogação da parte relativa ao curso de Física e Química — não aplicada (nao_aplicavel).",
+    "Alterador 5 (Portaria n.º 1082/89): derrogação da parte relativa ao curso de Português e Inglês — não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,330 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:300821:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-08-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2f54d31c4c9dc8f5",
+    "7a5be9c26b17dff6",
+    "031b08ab659c5b92",
+    "fc6dd292f64f4943",
+    "e0d87b8482dc87c5",
+    "2c388d0592925e9d",
+    "3bd39b86c52a34cb",
+    "36689c88f6a0f822",
+    "5745bd7c0f2bf6ad",
+    "b7a1ba66f1536e7e",
+    "020edf745e3498ae",
+    "ba969d91811bd789",
+    "ed67e00cfae48700",
+    "f98a62f8f27fece2",
+    "2805e9b22c89d5ac",
+    "950d03af03d19327",
+    "cda7f17f61d321ab",
+    "2f07c9a0b284d73c",
+    "81e1fbcda102e684",
+    "d8fd57346e7db655",
+    "85f2b13b820427c3",
+    "8af9ee3b7f9af0ce",
+    "9d33a955b6abcc3d",
+    "8941b9fb1c67803e",
+    "fc577752c113822d"
+   ]
+  },
+  {
+   "date": "2004-02-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:527224:por",
+     "title": "Portaria n.º 1216-A/2000",
+     "published": "2000-12-28",
+     "dre_path": "/dr/detalhe/portaria/1216-a-2000-527224"
+    },
+    {
+     "id": "pt:dre:276429:por",
+     "title": "Portaria n.º 97/2002",
+     "published": "2002-01-31",
+     "dre_path": "/dr/detalhe/portaria/97-2002-276429"
+    },
+    {
+     "id": "pt:dre:589694:por",
+     "title": "Portaria n.º 109/2004",
+     "published": "2004-01-29",
+     "dre_path": "/dr/detalhe/portaria/109-2004-589694"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS::13.º",
+    "Altera Artigo ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS::19.º",
+    "Altera Artigo ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS::23.º"
+   ],
+   "fragments": [
+    "2f54d31c4c9dc8f5",
+    "7a5be9c26b17dff6",
+    "031b08ab659c5b92",
+    "fc6dd292f64f4943",
+    "e0d87b8482dc87c5",
+    "2c388d0592925e9d",
+    "3bd39b86c52a34cb",
+    "36689c88f6a0f822",
+    "5745bd7c0f2bf6ad",
+    "b7a1ba66f1536e7e",
+    "020edf745e3498ae",
+    "ba969d91811bd789",
+    "ed67e00cfae48700",
+    "f98a62f8f27fece2",
+    "5ddc118902b7f5f3",
+    "950d03af03d19327",
+    "cda7f17f61d321ab",
+    "2f07c9a0b284d73c",
+    "81e1fbcda102e684",
+    "d8fd57346e7db655",
+    "3a3e9578c35e5cef",
+    "8af9ee3b7f9af0ce",
+    "9d33a955b6abcc3d",
+    "8941b9fb1c67803e",
+    "ab148a2c26990794"
+   ]
+  }
+ ],
+ "fragments": {
+  "2f54d31c4c9dc8f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Agosto\n\nO Decreto-Lei n.º 70-B/2000, de 5 de Maio, aprovou um enquadramento legal de referência para a criação de um conjunto de medidas de acção económica com vista ao desenvolvimento estratégico de diversos sectores de actividade da economia portuguesa, através do apoio directo e indirecto às empresas para o período de 2000 a 2006.\n\nInsere-se assim naquele enquadramento o Programa Operacional da Economia (POE) ao visar favorecer um acréscimo de produtividade e de competitividade das empresas portuguesas no mercado global, contemplando os sectores industrial, energético, da construção, turístico, comercial e dos serviços.\n\nUma das formas de concretização do POE é através de uma intervenção pró-activa do Ministério da Economia, em que os diversos organismos do Ministério, em cooperação com estruturas associativas empresariais, sindicais e profissionais, quer ainda com outras entidades, nomeadamente universidades, entidades do sistema científico e tecnológico e com intervenção no desenvolvimento de áreas específicas da actividade económica, actuam no sentido de colmatar inibições na espontaneidade das iniciativas empresariais, antecipar a resolução de constrangimentos ou bloqueios ao desenvolvimento da política económica ou criar/reforçar uma cultura de competência e de excelência nas organizações.\n\nTratam-se, na verdade, de entidades externas à Administração Pública cuja vocação, perfil, competência técnica e idoneidade justifica que, nos termos do n.º 1 do artigo 36.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril, sejam associadas à gestão de determinadas formas de actuação.\n\nAos organismos do Ministério caberá, igualmente, um papel determinante de natureza pró-activa ao serviço do desenvolvimento empresarial através de iniciativas públicas.\n\nEstas formas de concretização do POE visam colmatar falhas de mercado e debilidades do sistema económico-social.\n\nA presente portaria destina-se, assim, a definir as regras de implementação das parcerias e iniciativas públicas enquanto forma de prossecução dos apoios inseridos no POE.\n\nAssim, ao abrigo do artigo 20.º e nos termos da alínea b) do artigo 8.º, ambos do Decreto-Lei n.º 70-B/2000, de 5 de Maio:\n\nManda o Governo, pelos Ministros das Finanças e da Economia, que seja regulamentada a implementação das parcerias e iniciativas públicas, nos termos constantes do anexo à presente portaria e da qual faz parte integrante.\n\nEm 29 de Agosto de 2000.\n\nO Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Joaquim Augusto Nunes Pina Moura."
+  },
+  "7a5be9c26b17dff6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — REGULAMENTO GERAL PARA AS PARCERIAS E INICIATIVAS PÚBLICAS"
+  },
+  "031b08ab659c5b92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nPelo presente Regulamento são definidas as regras para a implementação das parcerias e iniciativas públicas, enquanto forma de prossecução dos apoios inseridos no Programa Operacional da Economia (POE)."
+  },
+  "fc6dd292f64f4943": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceitos\n\nPara efeitos do presente Regulamento, consideram-se:\n\na) Projectos de parcerias - projectos cuja execução é da responsabilidade de entidades externas à Administração Pública e que são desenvolvidos em colaboração com um ou mais organismos do Ministério da Economia;\n\nb) Projectos de iniciativas públicas - projectos cuja execução é da responsabilidade de organismos ou entidades que funcionam no âmbito do Ministério da Economia, embora podendo associar outras entidades."
+  },
+  "e0d87b8482dc87c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\n1 - São susceptíveis de apoio, no âmbito do presente Regulamento, os projectos que se enquadrem nas seguintes linhas de actuação:\n\na) Apoio a actividades e produtos de dimensão estratégica;\n\nb) Mobilização de novas ideias e novos empresários, nomeadamente através do fomento do empreendedorismo, dinamização da inovação de processos ou produtos, promoção de redes de cooperação, fomento de novas práticas comerciais e da valorização do sistema da propriedade industrial;\n\nc) Fomento de novos espaços de desenvolvimento económico;\n\nd) Dinamização de projectos estruturantes nos domínios da inovação e qualidade;\n\ne) Apoio à cooperação, observação, informação e apoio especializado às PME;\n\nf) Consolidação e alargamento de formas de financiamento às empresas, nomeadamente através da actuação sobre factores indutores da inovação financeira em PME;\n\ng) Promoção do País e internacionalização da economia, nomeadamente através de acções colectivas de acesso a mercados, da promoção da imagem de Portugal e informação internacional.\n\n2 - Poderão ser objecto de tratamento específico, nos termos a definir por despacho do Ministro da Economia, projectos em áreas consideradas estratégicas para a prossecução dos objectivos da política económica definida e não contempladas no número anterior."
+  },
+  "2c388d0592925e9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Formação profissional\n\nNos projectos desenvolvidos em parcerias ou por iniciativas públicas pode haver associada uma componente formação profissional, que deverá cumprir as normas definidas em regulamentação específica, bem como todas as regras estabelecidas na legislação nacional enquadradora dos apoios do Fundo Social Europeu (FSE)."
+  },
+  "3bd39b86c52a34cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Plano estratégico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Plano estratégico\n\n1 - O plano estratégico é um instrumento de gestão que tem por objectivo apresentar e enquadrar a estratégia definida para o POE, no âmbito do Ministério da Economia para o desenvolvimento de parcerias e iniciativas públicas.\n\n2 - O plano estratégico é bianual e define sinteticamente as prioridades e objectivos a prosseguir, adequando o quadro instrumental de actuação e os procedimentos de acompanhamento e avaliação.\n\n3 - A elaboração do plano estratégico é da responsabilidade do Gabinete Operacional da Economia para o Associativismo e Parcerias, desenvolvendo as articulações necessárias com entidades do Ministério da Economia, e que é submetido, pelo gestor do POE, à aprovação do Ministro da Economia.\n\n4 - O plano estratégico tem subjacentes os seguintes princípios:\n\na) Parceria, cooperação e concertação entre organismos da Administração e entidades externas envolvidas na execução dos projectos;\n\nb) Natureza estruturante, mobilizadora, direccionada para o mercado e obedecendo a uma lógica de política de desenvolvimento empresarial;\n\nc) Selectividade e concentração de meios e recursos;\n\nd) Coerência, procurando, nomeadamente, a integração, articulação e complementaridade de iniciativas de modo a evitar sobreposições;\n\ne) Simplificação do processo de concepção, execução e acompanhamento."
+  },
+  "36689c88f6a0f822": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Organismo gestor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Organismo gestor\n\nA gestão das parcerias e iniciativas públicas cabe ao Gabinete Operacional da Economia para o Associativismo e Parcerias, ao qual compete, como organismo gestor:\n\na) Verificar as condições de elegibilidade da entidade beneficiária e do projecto;\n\nb) Articular com os organismos competentes e potenciais parceiros na elaboração e desenvolvimento dos projectos;\n\nc) Submeter à apreciação da unidade de gestão competente as propostas de decisão relativas aos projectos;\n\nd) Colaborar no acompanhamento da execução física e financeira dos projectos;\n\ne) Articular com os organismos competentes no estabelecimento dos contactos com os diversos parceiros;\n\nf) Elaborar a proposta de encerramento de projectos."
+  },
+  "5745bd7c0f2bf6ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Organismos competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Organismos competentes\n\n1 - O organismo competente é aquele que do ponto de vista técnico detém as competências específicas necessárias ao desenvolvimento do projecto, em função de determinado domínio nele presente.\n\n2 - Podem ser organismos competentes para efeitos do presente Regulamento quaisquer entidades que funcionem no âmbito do Ministério da Economia, sem prejuízo de poderem ser consultadas entidades externas em áreas específicas.\n\n3 - Os organismos competentes podem ou não fazer parte do conjunto de entidades que desenvolve o projecto de parceria ou de iniciativa pública.\n\n4 - Aos organismos competentes cabe, no âmbito das iniciativas públicas:\n\na) Conceber o projecto em articulação com o organismo gestor;\n\nb) Coordenar as articulações com eventuais outras entidades intervenientes no projecto;\n\nc) Assegurar a gestão e execução do projecto;\n\nd) No caso de não integrarem o conjunto de entidades que desenvolve o projecto, analisar e emitir parecer relativamente aos investimentos enquadrados nas componentes da sua competência;\n\ne) No caso de não integrarem o conjunto de entidades que desenvolve o projecto, colaborar no acompanhamento do projecto, no âmbito da sua competência específica.\n\n5 - Aos organismos competentes cabe, no âmbito das parcerias:\n\na) Colaborar na concepção e execução do projecto;\n\nb) Assegurar as articulações com entidades parceiras e outros organismos competentes;\n\nc) Colaborar na preparação dos contratos ou dos anexos contratuais específicos;\n\nd) Colaborar no acompanhamento dos projectos no âmbito da sua competência específica;\n\ne) Emitir parecer, quando solicitado, sobre a «Declaração de despesa», relativamente à sua competência específica;\n\nf) No caso de não integrarem o conjunto de entidades que desenvolve o projecto, analisar e emitir parecer relativamente aos investimentos enquadrados nas componentes da sua competência."
+  },
+  "b7a1ba66f1536e7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Organismo competente coordenador de projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organismo competente coordenador de projecto\n\n1 - Dos organismos competentes referidos no artigo 7.º, existirá um organismo competente coordenador de projecto, que é aquele que assegura a coordenação técnica e processual de um projecto, em articulação com o organismo gestor.\n\n2 - Ao organismo competente coordenador de projecto, para além das competências referidas no artigo anterior, cabe:\n\na) Assegurar a adequada execução técnica e processual no desenvolvimento do projecto;\n\nb) Assegurar o adequado acompanhamento da execução dos projectos;\n\nc) Solicitar os pareceres necessários sobre a «Declaração de despesa»;\n\nd) Emitir ordens de pagamento;\n\ne) Elaborar relatórios semestrais e final de execução do projecto;\n\nf) Elaborar uma proposta de encerramento de projecto, a enviar ao Gabinete Operacional da Economia para o Associativismo e Parcerias."
+  },
+  "020edf745e3498ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Comissão de análise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comissão de análise\n\n1 - A comissão de análise é o órgão que, sempre que for necessário, reúne por iniciativa da comissão de gestão do POE, para ponderar sobre a relevância e prioridade do projecto e seu enquadramento no plano estratégico previsto no artigo 5.º, considerando também eventuais necessidades de reformulação, de outras articulações ou de outros elementos a envolver para potenciar os resultados do projecto.\n\n2 - A comissão de análise é presidida pelo gestor do POE e integrará os coordenadores de componentes sectoriais que tenham intervenção no projecto, o coordenador do Gabinete Operacional da Economia para o Associativismo e Parcerias, bem como os organismos do Ministério da Economia e outras entidades consideradas relevantes para o desenvolvimento do projecto, podendo designadamente ser convidados peritos de reconhecido mérito nos domínios a apreciar."
+  },
+  "ba969d91811bd789": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entidades beneficiárias\n\n1 - São entidades beneficiárias as entidades da envolvente empresarial, nomeadamente associações empresariais, profissionais ou sindicais, entidades do sistema científico e tecnológico, universidades e outras entidades do sistema de ensino, além de outras entidades representativas ou com intervenção no desenvolvimento de áreas específicas da actividade económica, bem como organismos ou entidades da Administração Pública, e outras entidades públicas que se considerem relevantes para a prossecução dos objectivos do plano estratégico previsto no artigo 5.º\n\n2 - A selecção das entidades para actuarem em parceria com a Administração Pública ou que no âmbito da execução de iniciativas públicas venham a ser associadas à gestão técnica e financeira no âmbito do POE poderá resultar de concurso, de escolha limitada ou de promoção personalizada."
+  },
+  "ed67e00cfae48700": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Formalização das parcerias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Formalização das parcerias\n\n1 - Nos projectos realizados em parceria deverá haver identificação das entidades intervenientes, dos papéis e actividades de cada uma delas no âmbito do projecto e orçamentação associada a cada intervenção, bem como explicitação dos mecanismos de articulação adoptados.\n\n2 - A identificação das entidades intervenientes na parceria referida no número anterior é objecto de um protocolo entre os diversos parceiros, a submeter ao organismo gestor.\n\n3 - Nos projectos em parceria deverá ficar definido qual o parceiro que lidera o projecto, explicitando, ainda, os mecanismos previstos para efeitos de recebimento dos apoios no quadro da parceria.\n\n4 - Nos projectos de iniciativa pública, quando envolvam várias entidades, aplica-se o referido nos números anteriores."
+  },
+  "f98a62f8f27fece2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Condições gerais de elegibilidade das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Condições gerais de elegibilidade das entidades beneficiárias\n\n1 - As entidades beneficiárias deverão cumprir as seguintes condições:\n\na) Encontrarem-se legalmente constituídas à data de apresentação da proposta de projecto;\n\nb) Cumprirem as condições legais necessárias ao exercício da respectiva actividade;\n\nc) Terem como objecto a actuação em áreas directamente relacionadas com as linhas de actuação em que se inserem os projectos a realizar;\n\nd) Demonstrarem, nomeadamente pelas actividades anteriormente desenvolvidas, adequadas vocação e experiência, bem como capacidade financeira para a prossecução dos objectivos e dos padrões de qualidade a atingir com os projectos a desenvolver;\n\ne) Possuírem uma estrutura organizacional adequada às exigências do projecto;\n\nf) Disporem de contabilidade organizada de acordo com a legislação aplicável;\n\ng) Terem a situação regularizada face à administração fiscal, à segurança social e às entidades pagadoras do apoio.\n\n2 - Quando o projecto tenha associada uma componente formação profissional, as entidades beneficiárias deverão ainda cumprir as condições de acesso previstas no respectivo regulamento específico e na legislação enquadradora dos apoios do FSE."
+  },
+  "2805e9b22c89d5ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Condições gerais de elegibilidade do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Condições gerais de elegibilidade do projecto\n\n1 - Constituem condições de elegibilidade do projecto:\n\na) Enquadrar-se nas linhas definidas no Plano Estratégico das Parcerias e Iniciativas Públicas, tendo em consideração as políticas sectoriais;\n\nb) Assegurar impactes estruturantes nos respectivos domínios;\n\nc) Envolver recursos humanos qualificados, cujo currículo garanta a execução adequada do projecto;\n\nd) Apresentar um orçamento convenientemente detalhado e fundamentado numa estrutura de custos adequada face aos objectivos a prosseguir;\n\ne) Não ter sido iniciada a sua realização antes da data do registo da apresentação do projecto, formalizado pelo organismo gestor;\n\nf) Ter uma duração máxima de dois anos, a contar da data de formalização da concessão do apoio.\n\n2 - Os projectos devem ter natureza colectiva, abrangente e não discriminatória, não havendo portanto selectividade de empresas potencialmente visadas, desenvolvendo-se como medidas de carácter geral que reforçam a economia nacional, pelo que não são elegíveis projectos que configurem situações passíveis de enquadramento nas regras dos auxílios estatais na acepção dos artigos 87.º e 88.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado).\n\n3 - Quando o projecto tenha associada formação profissional, essa componente deve cumprir o disposto no respectivo regulamento específico e na legislação enquadradora dos apoios do FSE."
+  },
+  "950d03af03d19327": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Despesas elegíveis\n\n1 - São elegíveis para projectos no âmbito da alínea a) do n.º 1 do artigo 3.º as seguintes despesas:\n\na) Estudos, pesquisas e trabalhos de campo inerentes aos levantamentos a efectuar no âmbito da prospecção dos produtos e actividades a promover;\n\nb) Consultoria necessária à implementação do projecto em áreas de conhecimento que ultrapassem a competência ou a capacidade das entidades beneficiárias;\n\nc) Deslocações e estadas demonstradas como essenciais para o desenvolvimento do projecto;\n\nd) Aquisição de serviços para o desenvolvimento de programas informáticos adequados para o carregamento e consulta de bases de dados, bem como os custos de aquisição de equipamentos informáticos;\n\ne) Despesas inerentes à realização de concursos de promoção, incluindo os respectivos prémios, e elaboração do adequado material publicitário;\n\nf) Despesas referentes a acções promocionais de divulgação de produtos e eventos inseridos no projecto que se revelem especialmente adequados aos objectivos e aos segmentos de público alvo a atingir;\n\ng) Implementação de acções no âmbito da sensibilização, criação e reforço de sistemas de segurança e qualidade;\n\nh) Despesas das entidades beneficiárias com recursos adicionais, humanos e outros necessários para a realização do projecto e que demonstrem não possuírem.\n\n2 - São elegíveis para projectos no âmbito da alínea b) do n.º 1 do artigo 3.º as seguintes despesas:\n\na) Projectos de apoio ao empreendedorismo:\n\n- Estudos, pesquisas e diagnósticos directamente relacionados com a concepção, implementação e avaliação do projecto;\n\n- Despesas das entidades beneficiárias com recursos adicionais, humanos e outros necessários para a concretização do projecto e que demonstrem não possuírem;\n\n- Consultoria necessária à implementação do projecto, nomeadamente em áreas que careçam de complementaridades específicas ou que ultrapassem a competência das entidades beneficiárias;\n\n- Deslocações e estadas demonstradas como essenciais para o desenvolvimento do projecto;\n\n- Aquisição de serviços para o desenvolvimento de programas informáticos adequados ao processamento da informação derivada do projecto, bem como os custos de aquisição dos equipamentos a utilizar;\n\n- Despesas inerentes à realização de concursos de promoção e lançamento, incluindo os respectivos prémios e a elaboração do adequado material publicitário;\n\n- Despesas com a divulgação e promoção do projecto;\n\n- Despesas inerentes à produção de materiais promocionais de suporte à execução do projecto que se revelem especialmente adequados aos objectivos e aos segmentos de público alvo a atingir;\n\n- Estudos directamente relacionados com a concepção e implementação dos sistemas de assistência técnica, pós-tutoria, informação e avaliação previstos e que não tenham sido apoiados no âmbito de outras medidas;\n\n- Realização de peritagens técnicas externas e planos de negócio e de marketing;\n\n- Prémios de montante a definir em regulamentação específica no âmbito de concursos e prémios de dinamização do empreendedorismo;\n\n- Despesas de investimento incorpóreo e relativas a consultoria e assistência técnica qualificada para o apoio à criação e consolidação das novas empresas, inclui a possibilidade de contratação temporária ou aquisição de serviços de recursos humanos especializados para prosseguir um plano de criação ou consolidação da actividade da empresa;\n\nb) Para projectos de valorização do sistema da propriedade industrial além do previstas nos 1.º, 2.º e 5.º travessões da alínea a) são elegíveis as seguintes despesas:\n\n- Despesas de promoção e divulgação do projecto;\n\n- Custos associados à deslocação de especialistas nacionais e estrangeiros que se revelem fundamentais para a execução do projecto;\n\n- Aquisição de bibliografia técnica essencial para a execução do projecto;\n\n- Custos com a divulgação de estudos directamente relacionados com o projecto.\n\n3 - São elegíveis no âmbito da alínea c) do n.º 1 do artigo 3.º as seguintes despesas:\n\nb) Despesas das entidades beneficiárias com recursos adicionais, humanos e outros necessários para a concretização do projecto e que demonstrem não possuírem;\n\nc) Consultoria necessária à implementação do projecto em áreas de conhecimento que ultrapassem a competência ou a capacidade das entidades beneficiárias;\n\nd) Deslocações e estadas demonstradas como essenciais para o desenvolvimento do projecto;\n\ne) Aquisição de meios informáticos (hardware e software) necessários à realização do projecto;\n\nf) Despesas referentes a acções de promoção e marketing justificadas como essenciais face à natureza do projecto e que se revelem particularmente adequados aos seus objectivos e aos segmentos de público alvo a atingir.\n\n4 - São elegíveis para projectos no âmbito da alínea d) do n.º 1 do artigo 3.º as seguintes despesas:\n\na) Estudos e diagnósticos considerados de interesse estratégico;\n\nb) Despesas das entidades beneficiárias com recursos adicionais, humanos e outros necessários para a concretização do projecto e que demonstrem não possuírem;\n\nc) Consultoria necessária à implementação do projecto em áreas de conhecimento que ultrapassem a competência ou a capacidade das entidades beneficiárias;\n\nd) Deslocações e estadas demonstradas como essenciais para o desenvolvimento do projecto;\n\ne) Aquisição de meios informáticos (hardware e software) necessários à realização do projecto;\n\nf) Despesas referentes a acções de divulgação que se justifiquem face à natureza do projecto;\n\ng) Despesas com seminários de informação e divulgação;\n\nh) Despesas com aquisição de matérias-primas e outros bens consumíveis justificadas como essenciais para o desenvolvimento do projecto;\n\ni) Alugueres de equipamento justificadas como essenciais para o desenvolvimento do projecto.\n\n5 - São elegíveis para projectos no âmbito da alínea e) do n.º 1 do artigo 3.º as seguintes despesas:\n\na) Estudos, pesquisas e trabalhos de campo inerentes à concepção e implementação do projecto;\n\nb) Despesas dos organismos promotores com recursos adicionais, humanos e outros necessários para a concretização dos projectos e que demonstrem não possuírem;\n\nc) Consultoria necessária à implementação do projecto, nomeadamente em áreas de conhecimento que ultrapassem a competência das entidades promotoras;\n\nd) Aquisição de serviços para o desenvolvimento de programas informáticos justificados como adequados para a criação, carregamento e consulta de bases de dados;\n\ne) Aquisição de informação especializada considerada como indispensável para a realização do projecto;\n\nf) Desenvolvimento e elaboração de produtos e sistemas de informação;\n\ng) Criação e aquisição de conteúdos;\n\nh) Deslocações e estadas demonstradas como essenciais para o desenvolvimento do projecto;\n\ni) Aluguer de instalações e de equipamento justificados como indispensáveis para a implementação do projecto;\n\nj) Aquisição de meios informáticos indispensáveis à realização do projecto;\n\nk) Despesas de promoção e divulgação do projecto/actividades.\n\n6 - São elegíveis no âmbito da alínea f) do n.º 1 do artigo 3.º as seguintes despesas:\n\na) Custos associados à melhoria a introduzir nos sistemas de informação, ao recurso a entidades independentes para a credibilização da informação produzida e à difusão da informação financeira aos agentes de mercado;\n\nb) Custos de desenvolvimento de sistemas de qualificação do risco, designadamente a instalação da estrutura de suporte e disponibilização dos meios logísticos necessários, bem como a recolha, processamento e difusão da informação financeira sobre empresas;\n\nc) Custos de promoção e atribuição do Estatuto de PME Excelência e de outras insígnias que prossigam idêntica finalidade;\n\nd) Custos com o recurso a agentes dinamizadores de processos de aumento ou transmissão de partes de capital de empresas e de recurso a formas estruturadas de financiamento;\n\ne) Realização de acções de demonstração de boas práticas e de divulgação das correspondentes empresas;\n\nf) Estudos e disseminação de boas práticas, bem como estudos que contribuam para a inovação financeira no mercado das micro e PME;\n\ng) Custos com os processos de implementação de novos instrumentos financeiros e com o subsequente acesso de empresas;\n\nh) Custos com a preparação e oferta de produtos de informação, estabelecimento e dinamização de canais de distribuição especializados, realização de seminários de informação e divulgação, outras acções de divulgação e elaboração de diagnósticos nas empresas;\n\ni) Custos de organização de grupos piloto e iniciativas tendentes à transformação da atitude e cultura empresariais;\n\nj) Custos com acções de sensibilização, manutenção de redes virtuais de comunicação e intercâmbio entre executivos financeiros e com o fomento da utilização da capacidade de gestão disponível no mercado.\n\n7 - São elegíveis para projectos no âmbito da alínea g) do n.º 1 do artigo 3.º as seguintes despesas:\n\na) Para projectos de informação internacional:\n\n- Aquisição de informação especializada;\n\n- Acessos a base de dados e redes internacionais de informação;\n\n- Desenvolvimento e elaboração de produtos e sistemas de informação;\n\n- Aquisição de meios informáticos (hardware e software) justificados como essenciais para a realização do projecto;\n\n- Criação e aquisição de conteúdos;\n\n- Promoção e distribuição de produtos e sistemas de informação;\n\n- Contratação de serviços especializados e assistência técnica justificados como indispensáveis para a realização do projecto;\n\nb) Para projectos de acções colectivas de acesso a mercados e promoção da imagem de Portugal:\n\n- Estudos, pesquisas e trabalhos de campo inerentes à concepção e implementação do projecto, nomeadamente em áreas de conhecimento que ultrapassem a competência ou a capacidade das entidades beneficiárias;\n\n- Aluguer de espaços e equipamento demonstrados como indispensáveis para a prossecução dos objectivos do projecto;\n\n- Montagem/desmontagem, construção e decoração de espaços promocionais;\n\n- Transporte de mostruários e material informativo e promocional;\n\n- Deslocações e estadas demonstradas como essenciais para o desenvolvimento do projecto;\n\n- Aquisição de informação especializada e elaboração de material informativo e promocional;\n\n- Promoção e divulgação, incluindo campanhas publicitárias;\n\n- Contratação de serviços gerais e técnicos de apoio local, quando justificados como indispensáveis para a prossecução dos objectivos do projecto;\n\n- Criação, registo e lançamento internacional de marcas próprias;\n\n- Estabelecimento e arranque de estruturas colectivas no exterior;\n\n- Acções complementares justificadas como indispensáveis para a prossecução dos objectivos do projecto.\n\n8 - São ainda consideradas elegíveis as despesas relacionadas com as garantias bancárias exigidas às entidades beneficiárias definidas no contrato de concessão de apoio, bem como as despesas de intervenção dos revisores oficiais de contas.\n\n9 - Para efeitos do disposto nos números anteriores, as despesas elegíveis mencionadas referem-se exclusivamente a despesas de aquisição de bens e serviços ao exterior, devidamente comprovadas com documentos de entidades terceiras.\n\n10 - Sempre que se justifique, poder-se-ão considerar despesas adicionais até ao limite de 20% das despesas elegíveis, por forma a cobrir o acréscimo de custos de estrutura das entidades executoras que indirectamente estão afectos à realização dos projectos.\n\n11 - Quando o projecto tenha associada uma componente formação profissional, as correspondentes despesas elegíveis são definidas em regulamento específico, tendo em consideração a legislação enquadradora dos apoios do FSE.\n\n12 - As despesas elegíveis são objecto de uma análise de razoabilidade e de adequação aos valores médios de mercado, podendo os organismos competentes e gestor proceder à respectiva adequação."
+  },
+  "cda7f17f61d321ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Despesas não elegíveis\n\nNão são elegíveis, designadamente, despesas com:\n\na) Aquisição de bens em estado de uso;\n\nb) Aquisição de terrenos, edifícios ou de mobiliário;\n\nc) Aquisição de veículos automóveis e outro material de transporte."
+  },
+  "2f07c9a0b284d73c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Processo de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Processo de decisão\n\n1 - As propostas de projecto são recepcionadas pelo GOE para o associativismo e parcerias que promove as articulações necessárias com os coordenadores sectoriais respectivos, organismos competentes e outras entidades relevantes para os objectivos do projecto.\n\n2 - Quando o objectivo dominante do projecto se inscreva na área da formação profissional, a articulação entre o Gabinete Operacional da Economia para o Associativismo e Parcerias e o organismo competente para a formação poderá ser ajustada em moldes a definir.\n\n3 - As propostas de projecto podem, sempre que se justifique, ser apreciadas em sede da comissão de análise até à sua formulação final.\n\n4 - Para as iniciativas públicas, em que exista mais de um organismo da Administração Pública envolvido, e para as parcerias, intervirá um organismo competente coordenador do projecto, previsto no artigo 8.º, que assegura, desde a fase de proposta de projecto, a respectiva concepção e acompanhamento técnico e processual.\n\n5 - O organismo gestor, após formulação final do projecto com os organismos competentes e entidades parceiras, elabora proposta de decisão, nela se integrando com a sua própria análise os eventuais pareceres dos organismos competentes e outras entidades, para apreciação em unidade de gestão do POE e subsequente submissão pelo gestor do POE ao Ministro da Economia.\n\n6 - A decisão relativa à concessão do incentivo é notificada à entidade beneficiária pelo organismo gestor ou, no caso das parcerias, pelo organismo competente coordenador do projecto."
+  },
+  "81e1fbcda102e684": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Formalização da concessão do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Formalização da concessão do apoio\n\nA concessão do apoio assume, no presente Regulamento, duas formas distintas:\n\na) Para projectos em parcerias, será formalizado um contrato de concessão de apoio entre as entidades beneficiárias e o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) ou o Instituto de Financiamento e Apoio ao Turismo (IFT) ou o ICEP - Investimentos, Comércio e Turismo de Portugal (ICEP), de acordo com as regras definidas no artigo 13.º do Decreto-Lei n.º 70-B/2000, de 5 de Maio, segundo minuta tipo homologada pelo Ministro da Economia;\n\nb) Para projectos de iniciativas públicas, a notificação da decisão, que o organismo gestor envia aos organismos da Administração executores dos projectos, constitui a formalização da concessão do apoio, excepto quando se trate de organismos públicos a funcionar fora do âmbito do Ministério da Economia em que será celebrado um protocolo com o gestor do POE."
+  },
+  "d8fd57346e7db655": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Apoio\n\n1 - O apoio a conceder assume a forma de incentivo não reembolsável, correspondendo até 100% das despesas elegíveis.\n\n2 - Para as mesmas despesas elegíveis, os apoios concedidos ao abrigo do presente Regulamento não são acumuláveis com quaisquer outros da mesma natureza."
+  },
+  "85f2b13b820427c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Pagamento do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pagamento do apoio\n\n1 - Os pedidos de pagamento são formalizados mediante preenchimento, pela entidade beneficiária, do respectivo formulário normalizado, enviado ao organismo competente coordenador.\n\n2 - Os pagamentos serão processados à entidade beneficiária na sequência de pedidos de reembolsos, de acordo com o previsto nos números seguintes, com excepção dos pagamentos relativos à formação profissional que resultam de regulamento específico dessa componente, tendo em consideração a legislação enquadradora dos apoios do FSE.\n\n3 - Os pagamentos do apoio são assegurados pelo IAPMEI ou pelo IFT ou pelo ICEP.\n\n4 - A entidade beneficiária poderá solicitar:\n\na) Um adiantamento inicial correspondente a 30% do montante aprovado;\n\nb) Posterior ao adiantamento, pode solicitar dois reembolsos, desde que não excedam, conjuntamente com o primeiro adiantamento, 80% do valor aprovado.\n\n5 - Para efeitos da percepção dos pagamentos referentes aos reembolsos previstos na alínea b) do número anterior, a entidade beneficiária deve:\n\na) No caso do primeiro reembolso, comprovar que já efectuou pagamentos no montante de pelo menos 60% do valor do adiantamento inicial;\n\nb) No caso do segundo reembolso, comprovar que já efectuou pagamentos no montante de pelo menos 60% do valor total recebido, incluindo o adiantamento e o primeiro reembolso.\n\n6 - No caso de parcerias, sempre que a entidade beneficiária seja externa à Administração Pública, deverá a mesma apresentar garantia bancária autónoma, emitida por instituição de crédito, correspondente ao valor do adiantamento inicial.\n\n7 - No caso de as entidades beneficiárias serem direcções-gerais ou outras congéneres, o pagamento das despesas do projecto é feito directamente pelo IAPMEI, pelo IFT ou pelo ICEP aos respectivos fornecedores.\n\n8 - O remanescente de 20% do apoio a pagar na fase de conclusão do projecto processa-se após verificação final da «Declaração de despesa» do investimento apresentada pela entidade beneficiária."
+  },
+  "8af9ee3b7f9af0ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Obrigações das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Obrigações das entidades beneficiárias\n\n1 - As entidades beneficiárias ficam sujeitas, quando aplicáveis, às seguintes obrigações:\n\na) Executar o projecto nos termos e prazos fixados no contrato;\n\nb) Cumprir as obrigações legais, designadamente de natureza fiscal;\n\nc) Entregar, nos prazos estabelecidos, todos os elementos que lhe forem solicitados pelas entidades com competências para o acompanhamento, controlo e fiscalização;\n\nd) Apresentar um documento de «Declaração de despesa» ao organismo competente coordenador;\n\ne) Comunicar ao organismo competente coordenador qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à aprovação do projecto ou à sua realização pontual;\n\nf) Manter as condições legais necessárias ao exercício da respectiva actividade, nomeadamente quanto à sua situação em matéria de licenciamento;\n\ng) Manter a situação regularizada perante as entidades pagadoras do apoio;\n\nh) Manter a contabilidade organizada de acordo com o Plano Oficial de Contabilidade;\n\ni) Criar e manter organizado e actualizado um dossier, com todos os documentos susceptíveis de comprovar as declarações prestadas na candidatura, para permitir o adequado acompanhamento e controlo da mesma;\n\nj) Cumprir as normas em vigor relativas à publicidade dos apoios.\n\n2 - As entidades beneficiárias obrigam-se, ainda, a não ceder, locar ou alienar o investimento, no todo ou em parte, sem autorização prévia da comissão de gestão do POE, num prazo mínimo de cinco anos após a data de celebração do contrato.\n\n3 - Quando o projecto tenha associada formação profissional, as entidades beneficiárias devem também observar as obrigações específicas dessa componente definidas em regulamento específico, tendo em consideração a legislação enquadradora dos apoios do FSE."
+  },
+  "9d33a955b6abcc3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Acompanhamento de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Acompanhamento de projectos\n\nSem prejuízo de outros mecanismos que venham a ser adoptados no âmbito dos projectos, o acompanhamento será efectuado pelo organismo gestor, pelo organismo competente coordenador do projecto e demais organismos competentes, tendo em atenção:\n\na) A verificação física do projecto, por observação directa e com base em relatórios de execução, demonstrando que o projecto foi realizado e que os objectivos foram atingidos nos termos previstos;\n\nb) A verificação financeira do projecto terá por base uma «Declaração de despesa do investimento» apresentada pela entidade beneficiária e certificada por um revisor oficial de contas, através da qual confirma a realização das despesas de investimentos, que os documentos comprovativos se encontram correctamente lançados na contabilidade e que o apoio foi contabilizado de acordo com o Plano Oficial de Contabilidade ou outro plano de contas sectorial, como é o caso do POCP aplicado à Administração Pública;\n\nc) A «Declaração de despesa do investimento» poderá ser verificada pelos organismos competentes, em alternativa à certificação por um ROC."
+  },
+  "8941b9fb1c67803e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Controlo e fiscalização\n\nO controlo e a fiscalização são assegurados através de auditorias promovidas pelo Gabinete de Gestão do POE."
+  },
+  "fc577752c113822d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Disposições transitórias\n\nOs projectos recepcionados até 31 de Dezembro de 2000 poderão ser comparticipados nas despesas efectuadas após 1 de Janeiro de 2000."
+  },
+  "5ddc118902b7f5f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Condições gerais de elegibilidade do projecto",
+   "in_force_from": "2004-02-03",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 109/2004](https://diariodarepublica.pt/dr/detalhe/portaria/109-2004-589694), publicado em 2004-01-29."
+   ],
+   "markdown": "###### Artigo 13.º — Condições gerais de elegibilidade do projecto\n\n1 - Constituem condições de elegibilidade do projecto:\n\na) Enquadrar-se nas linhas definidas no Plano Estratégico das Parcerias e Iniciativas Públicas, tendo em consideração as políticas sectoriais;\n\nb) Assegurar impactes estruturantes nos respectivos domínios;\n\nc) Envolver recursos humanos qualificados, cujo currículo garanta a execução adequada do projecto;\n\nd) Apresentar um orçamento convenientemente detalhado e fundamentado numa estrutura de custos adequada face aos objectivos a prosseguir;\n\ne) Não ter sido iniciada a sua realização antes da data do registo da apresentação do projecto, formalizado pelo organismo gestor;\n\nf) Ter uma duração máxima de dois anos, a contar da data da formalização da concessão do apoio, podendo tal prazo ser prorrogado em casos excepcionais devidamente justificados mediante autorização do Ministro da Economia sob proposta do gestor do Programa.\n\n2 - Os projectos devem ter natureza colectiva, abrangente e não discriminatória, não havendo portanto selectividade de empresas potencialmente visadas, desenvolvendo-se como medidas de carácter geral que reforçam a economia nacional, pelo que não são elegíveis projectos que configurem situações passíveis de enquadramento nas regras dos auxílios estatais na acepção dos artigos 87.º e 88.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado).\n\n3 - Quando o projecto tenha associada formação profissional, essa componente deve cumprir o disposto no respectivo regulamento específico e na legislação enquadradora dos apoios do FSE.\n\n> Alterado pelo/a [Portaria n.º 109/2004](https://diariodarepublica.pt/dr/detalhe/portaria/109-2004-589694), publicado em 2004-01-29."
+  },
+  "3a3e9578c35e5cef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Pagamento do apoio",
+   "in_force_from": "2004-02-03",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 97/2002](https://diariodarepublica.pt/dr/detalhe/portaria/97-2002-276429), publicado em 2002-01-31."
+   ],
+   "markdown": "###### Artigo 19.º — Pagamento do apoio\n\n1 - Os pagamentos do apoio, com excepção dos pagamentos relativos à formação profissional que resultam de regulamento específico dessa componente, serão processados à entidade beneficiária nos termos constantes de norma de pagamentos homologada pelo Ministro da Economia.\n\n2 - Os pagamentos do apoio são assegurados pelo IAPMEI ou pelo IFT ou pelo ICEP.\n\n3 - No caso de parcerias, sempre que a entidade beneficiária seja externa à Administração Pública, deverá a mesma apresentar garantia bancária nos termos e condições previstos na norma de pagamentos.\n\n4 - No caso das entidades beneficiárias serem direcções-gerais ou outras congéneres, o pagamento dos serviços fornecidos por terceiros no âmbito do projecto é efectuado directamente pelo IAPMEI, pelo IFT ou pelo ICEP aos respectivos fornecedores.\n\n> Alterado pelo/a [Portaria n.º 97/2002](https://diariodarepublica.pt/dr/detalhe/portaria/97-2002-276429), publicado em 2002-01-31."
+  },
+  "ab148a2c26990794": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Disposições transitórias",
+   "in_force_from": "2004-02-03",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1216-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1216-a-2000-527224), publicado em 2000-12-28."
+   ],
+   "markdown": "###### Artigo 23.º — Disposições transitórias\n\nOs projectos recepcionados até 31 de Janeiro de 2001 poderão ser comparticipados nas despesas efectuadas após 1 de Janeiro de 2000.\n\n> Alterado pelo/a [Portaria n.º 1216-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1216-a-2000-527224), publicado em 2000-12-28."
+  }
+ }
+}

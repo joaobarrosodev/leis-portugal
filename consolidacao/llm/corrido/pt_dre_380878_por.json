@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:380878:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (alteradores 1 a 6) incidem sobre o quadro de pessoal anexo, que no original só existe em imagem (unidade 7): a nova redação da nota a) (alterador 1), as alterações/acréscimos de lugares (alteradores 2, 3, 4 e 5, também só em imagem ou anexo) e a substituição do quadro (alterador 6) não se podem aplicar ao texto.",
+  "instrucoes": [
+    "Alterador 1: nova redação da nota a) do quadro anexo — quadro só em imagem, não aplicada",
+    "Alterador 2: altera de novo os quadros de pessoal (anexos em imagem) — não aplicada",
+    "Alterador 3: acrescenta lugares ao quadro (quadro em imagem) — não aplicada",
+    "Alterador 4: substitui o quadro na parte de biblioteca/documentação e arquivo (imagem) — não aplicada",
+    "Alterador 5: altera o quadro (imagem) — não aplicada",
+    "Alterador 6: substitui o quadro de pessoal (imagem) — não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
