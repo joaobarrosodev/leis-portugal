@@ -1,0 +1,21 @@
+{
+ "id": "pt:dre:346750:por",
+ "substituicoes": [
+  {
+   "de": 14852,
+   "ate": 14852,
+   "texto": "1. Sem prejuízo do disposto nos pontos 2 e 3, as entidades concederão um prazo mínimo de 40 dias entre a data de publicação do anúncio de previsão do contrato e a data-limite de apresentação das propostas.",
+   "alterador": 2
+  }
+ ],
+ "insercoes": [],
+ "nao_aplicavel": "Alterador 1 (Decreto do PR 18-A/2004) só ratifica, sem alterações ao texto. Alterador 2, ponto 1: retificações na lista em língua inglesa do anexo I (SH 0101 10 10 e 0808 20 10), que não existe em texto no original português (só em imagem/documento original). Ponto 2: retificações na lista em língua espanhola do anexo II (SH 2517.30.00 e 8520.20.00), quadros que só vêm em imagem tanto no original como no aviso. Ponto 3: versão alemã do apêndice IV do anexo III («Bewillingung»), inexistente no texto português; a alínea ii) só vem em imagem. Ponto 4: anexo VIII, parte A, secção II, ponto 7.3 — a secção de compromissos por setor está só em imagem na unidade 12181 («ver lista no documento original»); a frase «apenas se aplicam às transacções indicadas nos pontos B.3 e B.4» não existe no texto atual.",
+ "instrucoes": [
+  "Alterador 1: ratificação do Acordo; nenhuma alteração ao texto.",
+  "Alterador 2, ponto 1 (anexo I, lista inglesa, SH 0101 10 10 e 0808 20 10): não aplicado, lista não existe em texto português.",
+  "Alterador 2, ponto 2 (anexo II, lista espanhola, SH 2517.30.00 e 8520.20.00): não aplicado, quadros só em imagem.",
+  "Alterador 2, ponto 3 (anexo III, apêndice IV, versão alemã, Bewillingung/Bewilligung): não aplicado, versão alemã não está no texto.",
+  "Alterador 2, ponto 4 (anexo VIII, parte A, secção II, 7. serviços financeiros, ponto 3: B.3 e B.4 -> A.l e A.2): não aplicado, secção só em imagem (unidade 12181) e frase inexistente no texto atual.",
+  "Alterador 2, ponto 5 (anexo XIII, apêndice 3, Prazos, ponto 1: 'pontos 3 e 4' -> 'pontos 2 e 3'): aplicado na unidade 14852, resto do parágrafo mantido."
+ ]
+}
