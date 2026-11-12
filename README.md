@@ -13,7 +13,7 @@ O objetivo é tornar o ordenamento jurídico português mais acessível, pesquis
 
 | | |
 |---|---|
-| Registos | ~340 mil: ~274 mil da legislação nacional (1.ª Série desde 1833, praticamente completa face aos sitemaps do DRE, e parte da 2.ª Série), ~31 mil regionais (Açores e Madeira, incluindo o catálogo do Jornal Oficial dos Açores) e ~36 mil atos da UE |
+| Registos | ~360 mil: ~275 mil da legislação nacional (1.ª Série desde 1833, praticamente completa face aos sitemaps do DRE, e parte da 2.ª Série), ~31 mil regionais (Açores e Madeira, incluindo o catálogo do Jornal Oficial dos Açores) e ~54 mil atos da UE (96 % dos que estão em vigor) |
 | Texto | ~246 mil com texto pesquisável; ~70 mil só com o PDF oficial (sobretudo 1910–1959, digitalizações); ~24 mil só com metadados, porque a fonte não tem texto nem PDF |
 | Versões | ~10 mil diplomas e atos com o histórico de versões (`.versoes.json`) e consulta do texto numa data (`version-at`) |
 | Texto em vigor consolidado pelo leis-portugal | ~2,3 mil diplomas que o DRE dá como alterados mas não consolida: alterações aplicadas por regras ou por um LLM e verificadas às cegas por outro modelo; marcados como **sem valor oficial** (ver [`consolidacao/`](consolidacao/README.md)) |
@@ -411,7 +411,7 @@ A cobertura é medida a partir dos próprios dados por `leis-portugal reports`, 
 - [`reports/PROGRESSO.md`](reports/PROGRESSO.md): estado de cada componente e fonte, e próximos passos.
 - `reports/*_failures.jsonl`: um documento por linha que não foi possível recolher, com o motivo (`sem_texto_na_fonte`, `erro_de_acesso`, `metadados_em_falta`…). "A fonte não tem o texto" não é um erro: o documento existe, mas a fonte não publica o texto (em formato eletrónico ou em português).
 
-### Cobertura em percentagem (12 de novembro de 2026)
+### Cobertura em percentagem (12 de novembro de 2026, 2h)
 
 **Legislação portuguesa, face aos sitemaps do DRE** (comparação de 27/10/2026, `collect dre --missing`, em `reports/dre_sitemap_coverage.json`):
 
@@ -431,20 +431,20 @@ A 2.ª Série só se recolhe quando um diploma do acervo a cita ou a altera; a r
 
 Os PDF são sobretudo digitalizações de 1910 a 1959, sem texto que se possa pesquisar. Nos regionais, os metadados vêm quase todos do catálogo do Jornal Oficial dos Açores.
 
-**Texto em vigor dos diplomas alterados.** Dos 25.498 diplomas em vigor alterados que o DRE não consolida, mais de 19 mil não precisam de consolidação: o diploma que os altera não muda o texto, e o original é o texto em vigor. Dos cerca de 4.800 com alterações ao texto, **2.323 (cerca de 48 %)** têm o texto em vigor consolidado pelo leis-portugal, sem valor oficial (ver [`consolidacao/`](consolidacao/README.md)). Em 40 % dos registos nacionais (108.806) o DRE não indica se estão em vigor.
+**Texto em vigor dos diplomas alterados.** Dos 25.498 diplomas em vigor alterados que o DRE não consolida, mais de 19 mil não precisam de consolidação: o diploma que os altera não muda o texto, e o original é o texto em vigor. Dos cerca de 4.800 com alterações ao texto, **2.323 (cerca de 48 %)** têm o texto em vigor consolidado pelo leis-portugal, sem valor oficial (ver [`consolidacao/`](consolidacao/README.md)). Em 40 % dos registos nacionais (108.806) o DRE não indica se estão em vigor: numa amostra de 25 diplomas da 1.ª Série posteriores a 2000, o campo de vigência do DRE vinha vazio em todos. Metade são anteriores a 1960 e só em PDF; uns 13 mil são declarações de retificação, que seguem o diploma retificado; os outros ficam desconhecidos, porque só uma revogação total provada fixa o estado (375 diplomas, `reports/estrutura.md`). O sistema de perguntas avisa quando a vigência é desconhecida.
 
-**Direito da União Europeia, face ao CELLAR** (contagem de 11/11/2026, regulamentos, diretivas e decisões com CELEX `3AAAA[RLD]NNNN`, `resource_legal_in-force` verdadeiro):
+**Direito da União Europeia, face ao CELLAR.** A lista dos atos em vigor é a do CELLAR de 11/11/2026: regulamentos, diretivas e decisões com CELEX `3AAAA[RLD]NNNN` e `resource_legal_in-force` verdadeiro. Os que faltavam foram recolhidos a 12/11/2026, pelo CELEX:
 
-| Atos da UE em vigor | No repositório | Na UE | % |
-|---|--:|--:|--:|
-| Diretivas | 1.251 | 1.306 | **96 %** |
-| Regulamentos | 9.123 | 16.325 | **56 %** |
-| Decisões | 4.282 | 16.579 | **26 %** |
-| **Total** | **14.656** | **34.210** | **43 %** |
+| Atos da UE em vigor | No repositório | Na UE | % | Antes (11/11) |
+|---|--:|--:|--:|--:|
+| Regulamentos | 16.240 | 16.325 | **99,5 %** | 56 % |
+| Diretivas | 1.284 | 1.306 | **98,3 %** | 96 % |
+| Decisões | 15.438 | 16.579 | **93,1 %** | 26 % |
+| **Total** | **32.962** | **34.210** | **96,4 %** | 43 % |
 
-Contando os que já não estão em vigor, o repositório tem 35.671 dos cerca de 187 mil atos (19 %). As diretivas estão quase todas porque se recolhem também as que a legislação portuguesa cita ou transpõe; nos regulamentos e decisões faltam sobretudo atos de execução e de gestão corrente. A comparação é aproximada: junta a marca de vigência do CELLAR com o estado registado no acervo.
+Dos 1.248 que faltam, 1.218 não têm versão em português no EUR-Lex (sobretudo atos anteriores a 1986), 3 não têm XHTML nem HTML e 4 são decisões cujo número oficial coincide com o de outra já gravada, que o repositório recusa sobrepor (`reports/eurlex_em_vigor_failures.jsonl`). Contando os que já não estão em vigor, o repositório tem cerca de 54 mil atos da UE.
 
-**Leitura.** Para a legislação portuguesa principal, a coleção está completa face ao DRE. As lacunas estão no texto (um quarto dos nacionais só em PDF), na 2.ª Série, no texto em vigor de metade dos diplomas alterados sem consolidação oficial e em mais de metade do direito da UE em vigor, sobretudo regulamentos de execução e decisões. Ainda não há jurisprudência nem legislação local (regulamentos municipais).
+**Leitura.** Para a legislação portuguesa principal, a coleção está completa face ao DRE. As lacunas estão no texto (um quarto dos nacionais só em PDF), na 2.ª Série, no texto em vigor de metade dos diplomas alterados sem consolidação oficial e na vigência de muitos diplomas, que o DRE não indica. Ainda não há jurisprudência nem legislação local (regulamentos municipais).
 
 ## Qualidade e validação
 
