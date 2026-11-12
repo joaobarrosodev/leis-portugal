@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.361 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.363 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -70,6 +70,8 @@ Conclusão: repedir com o mesmo método rende pouco (6 em 100). Para estes diplo
 Foram 160 diplomas em 45 pedidos, respondidos por subagentes Opus. A verificação letra a letra juntou 150. **54 deram um texto diferente do que tinha falhado** (na ronda 81, sem os reparos, tinham sido 17 em 99). Na ronda 82 (`verificacao/entrada-piloto-82-lote-01..02.jsonl`, 21 vistas, verificadores Sonnet às cegas), dos 2.806 artigos 2.786 estão `certo`, 9 `errado` e 11 `dúvida`. **33 diplomas não têm reparos e 32 foram aplicados.** O que fica de fora é a Portaria 705-A/2000, que a Portaria 349/2007 revoga quase toda. Os 21 com reparos repetem padrões já vistos: texto antigo duplicado a seguir à nova redação, fecho com as assinaturas duplicado, marcadores "[Actual alínea …]" por substituir, substituições terminológicas por fazer e epígrafes em falta.
 
 Conclusão: com os reparos, o rendimento sobe de 6 em 100 (ronda 81) para 32 em 160. Os outros 96 juntados reproduziram o texto que já tinha falhado.
+
+**Ronda 83: os pedidos grandes demais.** Na ronda 82 ficaram de fora 9 pedidos acima de 450 mil caracteres, com 27 diplomas (3 por pedido). `reparos.py --ids FICHEIRO --por-ficheiro 1` repediu-os um por pedido. Ficaram dentro do limite 24; os 3 que ainda passam (até 965 mil caracteres) ficam para `llm_gigantes.py`. A verificação letra a letra aceitou as 24 respostas, mas só 5 deram um texto diferente: em vários diplomas o respondedor confirmou no alterador que o reparo do verificador não procedia e manteve o texto. Três concessões de autoestrada só têm, no texto atual, os títulos dos capítulos e não as bases, e as alterações às bases ficaram por aplicar. Às cegas (`verificacao/entrada-piloto-83-lote-01.jsonl`, 5 vistas), 2 ficaram sem reparos e foram aplicados: o DL 47627 e a Resolução da ALRAM 5/2012/M. Os 3 com reparos são o Regulamento 52-A/2005 (texto mudado onde a instrução diz "..."), o DL 315/91 (bases inseridas fora do sítio) e o DL 621-A/74 (artigo 39.º).
 
 ## Resultado em resumo
 

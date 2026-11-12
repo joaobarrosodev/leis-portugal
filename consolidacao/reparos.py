@@ -12,7 +12,10 @@ A resposta tem o formato de sempre e passa pelo mesmo caminho: `llm_completo.py 
 letra a letra), `juntar`, `cegas.py --escala --ronda N` e `acervo.py`. O verificador da ronda nova não
 vê estes reparos.
 
-Uso: `python consolidacao/reparos.py PASTA [--max N] [--por-ficheiro 3] [--max-chars 450000]`.
+Uso: `python consolidacao/reparos.py PASTA [--max N] [--ids FICHEIRO] [--por-ficheiro 3] [--max-chars 450000]`.
+
+Com `--ids` (um id por linha), só esses diplomas: é assim que se repedem, um por pedido
+(`--por-ficheiro 1`), os que ficaram em pedidos grandes demais.
 """
 
 from __future__ import annotations
@@ -83,6 +86,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("pasta", type=Path)
     parser.add_argument("--max", type=int, default=0, help="só os N mais citados")
+    parser.add_argument("--ids", type=Path, help="só os diplomas deste ficheiro (um id por linha)")
     parser.add_argument("--por-ficheiro", type=int, default=3)
     parser.add_argument("--max-chars", type=int, default=450_000, help="pedidos maiores ficam de fora")
     args = parser.parse_args()
@@ -96,6 +100,9 @@ def main() -> int:
         r = reparos(linhas)
         if r:
             textos[id_] = r
+    if args.ids:
+        so = set(args.ids.read_text(encoding="utf-8").split())
+        textos = {i: r for i, r in textos.items() if i in so}
     ids = sorted(textos, key=lambda i: -(selecao.get(i, {}).get("citacoes") or 0))
     if args.max:
         ids = ids[: args.max]

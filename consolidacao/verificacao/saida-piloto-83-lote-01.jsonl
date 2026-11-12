@@ -1,0 +1,531 @@
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 2.º", "veredicto": "errado", "motivo": "N.º 4 é '4 - ...' (mantém o original) mas o consolidado alterou-o.", "texto_esperado": "4 - Durante a fase de formação complementar o advogado estagiário participa no regime do acesso ao direito no quadro legal e regulamentar vigente."}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 9.º-A", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 10.º", "veredicto": "errado", "motivo": "N.º 2 é '2 - ...' mas o consolidado mudou 60 para 15 dias.", "texto_esperado": "2 - Os requerimentos para inscrição preparatória serão apresentados pelos candidatos até 60 dias antes do início de cada curso de estágio."}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 12.º", "veredicto": "errado", "motivo": "N.º 3 é '3 - ...' mas o consolidado alterou-o (retirou 'sem prejuízo dos direitos adquiridos...').", "texto_esperado": "3 - No caso previsto na alínea c) do número anterior o advogado estagiário ficará sujeito às normas regulamentares em vigor à data do reinício da fase de formação complementar, sem prejuízo dos direitos adquiridos pela aprovação na fase de formação inicial do estágio."}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 16.º", "veredicto": "errado", "motivo": "Alíneas b) e d) são '...' (mantêm o original) mas o consolidado alterou-as.", "texto_esperado": "b) Colaborar com o advogado estagiário na condução dos processos de cujo patrocínio este venha a ser incumbido, incluindo os prestados no regime do acesso ao direito;  d) Compensar o advogado estagiário das despesas por este efectuadas nos processos em que actuem conjuntamente, ou que tenham sido confiados pelo patrono ao advogado estagiário;"}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 29.º", "veredicto": "dúvida", "motivo": "A instrução só dá '1 - ... a) ... b) ... c) novo d) ... 2 - ...'; o original tem n.1 só com a),b) e n.2 com a),b); o consolidado reestrutura (a,b,d novos, n.2-4 novos) com texto que não vem da instrução (provavelmente do anexo republicado, que a vista não mostra). Só a alínea c) é confirmável.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 30.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 31.º", "veredicto": "errado", "motivo": "N.º 1 é '1 - ...' mas o consolidado acrescentou 'em especial a informação ... licenciatura' e uma vírgula.", "texto_esperado": "1 - No processo individual do advogado estagiário os serviços administrativos incorporarão todos os elementos que forem apresentados por este e bem assim os registos disciplinares, informações e pareceres que respeitem ao estágio e que sejam relevantes para instruir a informação final."}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 32.º", "veredicto": "errado", "motivo": "N.º 1 é '1 - ...' mas o consolidado acrescentou 'para qualquer das hipóteses aí consignadas,'.", "texto_esperado": "1 - Cumprido que esteja o disposto no artigo anterior, o centro de estágio dispõe de um prazo de 30 dias para a emissão da informação de Admitido ou Não admitido, o que constitui o resultado de uma mera verificação do cumprimento das obrigações impostas pelo presente Regulamento."}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 34.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 36.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 37.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 38.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 39.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 40.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 41.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 42.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 43.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "CAPÍTULO V", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 44.º", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 44.º-A", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 44.º-B", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 45.º", "veredicto": "dúvida", "motivo": "Corpo (n.1-4) igual à redação dada ('Artigo 45.º [...]'), mas a instrução mantém a epígrafe original ('Revogação do regulamento n.º 42-A/2002'); o consolidado usa 'Alterações ao Regulamento n.º 52-A/2005', que consta como cabeçalho do último artigo do diploma alterador.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 45.º-A", "veredicto": "certo", "motivo": "Corresponde à nova redação da deliberação.", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "CAPÍTULO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "CAPÍTULO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "CAPÍTULO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "SECÇÃO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "SECÇÃO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "SECÇÃO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "SECÇÃO IV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "SECÇÃO V", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "CAPÍTULO IV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 33.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 35.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "CAPÍTULO VI", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "artigo": "Artigo 46.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:1066871:por", "instrucoes_em_falta": ["Artigo 1.º: alteração ao Preâmbulo (novo texto integral) sem efeito no consolidado, onde o preâmbulo consta como igual ao original"], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "Preâmbulo: o diploma substitui-o por novo texto e o consolidado manteve o original."}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "DL 541-A/75 substitui o artigo pela nova redação; consolidado igual (epígrafe mantida).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 30.º", "veredicto": "certo", "motivo": "DL 3/75 altera n.º 1 e epígrafe; n.º 2 mantido.", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 32.º", "veredicto": "certo", "motivo": "DL 3/75 altera n.os 2 e 3; n.os 1 e 4 mantidos.", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 36.º", "veredicto": "certo", "motivo": "DL 38-B/75 altera n.º 1 (datas e parágrafo aditado) e epígrafe; restantes mantidos.", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 37.º", "veredicto": "certo", "motivo": "DL 38-B/75 altera n.os 1 e 2; n.º 3 mantido.", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 38.º", "veredicto": "certo", "motivo": "DL 38-B/75 altera n.º 1; DL 3/75 altera n.º 3; restantes mantidos.", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 39.º", "veredicto": "errado", "motivo": "Os n.os 3 e 4 não existem no original nem em nenhuma instrução dos diplomas que alteram; n.os 1 e 2 estão certos.", "texto_esperado": "1 - Até 17 de Fevereiro de 1975 as comissões de recenseamento eliminarão do caderno definitivo as inscrições que tenham sido consideradas indevidas e organizarão, por ordem alfabética, um caderno suplementar com as inscrições que houverem de ser feitas, mandando afixar, na sede da junta de freguesia ou no local onde funcionarem, uma relação dos nomes eliminados e dos novos eleitores inscritos.\n\n2 - Após a publicação a que se refere o número anterior e ressalvado o disposto nos números seguintes, os cadernos de recenseamento só poderão sofrer modificação no caso de morte do eleitor inscrito, de alteração da capacidade eleitoral e nos casos previstos no artigo 49.º, n.º 3, do Decreto-Lei n.º 621-C/74, de 15 de Novembro, na redacção dada pelo presente diploma."}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 40.º", "veredicto": "certo", "motivo": "DL 3/75 altera n.os 1 e 2; restantes mantidos.", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 41.º", "veredicto": "certo", "motivo": "DL 86/75 aditou n.º 2; corpo original passa a n.º 1.", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "TÍTULO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "CAPÍTULO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "SECÇÃO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "SECÇÃO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "CAPÍTULO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "CAPÍTULO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "CAPÍTULO IV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "TÍTULO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "CAPÍTULO I #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "CAPÍTULO II #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "SECÇÃO I #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "SECÇÃO II #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "CAPÍTULO III #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 29.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 31.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 33.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 34.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 35.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 42.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "TÍTULO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "CAPÍTULO I #3", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 43.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 44.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 45.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 46.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 47.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 48.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 49.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "CAPÍTULO II #3", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 50.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 51.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 52.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 53.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 54.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 55.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 56.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 57.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 58.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "TÍTULO IV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "artigo": "Artigo 59.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:309893:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:402880:por", "artigo": "Artigo 2.º-A", "veredicto": "certo", "motivo": "Igual à redacção do aditamento do DL 12/92, n.os 1 a 3 e alíneas.", "texto_esperado": ""}
+{"id": "pt:dre:402880:por", "artigo": "Artigo 5.º", "veredicto": "errado", "motivo": "Os aditamentos n.º 8 e 9 da base I (DL 330-A/95, art. 3.º e 4.º) e a nova redacção da base XLIII (art. 6.º) foram inseridos todos no topo do artigo, logo após o 1.º parágrafo e antes de 'Visto e aprovado', em vez de nos locais próprios; a base I termina ainda no n.º 7 e a base XLIII mantém 'ano 2020'. Foi também inserido no topo texto que não vem destas instruções (n.os 6 a 12 de um bloco que se parece com a base XVIII, a partir de outros diplomas), enquanto a base XVIII ficou inalterada com os n.os 6 e 7 originais.", "texto_esperado": "Artigo 5.º igual ao original, excepto: (1) no fim da base I, depois do n.º 7, acrescentar 'n.º 8 - O valor das taxas de portagem aplicado na A7 ... será deduzido do valor correspondente a este.' e 'n.º 9 - Relativamente à supressão de portagem na A9 ... a) ... b) ... c) ... d) ...'; (2) base XLIII: 'O prazo de concessão termina em 31 de Dezembro do ano 2025.' (no lugar de 2020); sem o bloco inserido no topo, que deve sair do início do artigo."}
+{"id": "pt:dre:402880:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:402880:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:402880:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:402880:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:402880:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:402880:por", "artigo": "ANEXO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:402880:por", "instrucoes_em_falta": ["DL 330-A/95 art. 3.º: aditamento do n.º 8 à base I (inserido fora do lugar, no topo do artigo 5.º, não na base I)", "DL 330-A/95 art. 4.º: aditamento do n.º 9 à base I (alíneas a) a d)) (inserido fora do lugar)", "DL 330-A/95 art. 6.º: nova redacção da base XLIII (2025) (a base XLIII mantém 2020; o texto novo está no topo do artigo)"], "artigos_a_mais": ["No Artigo 5.º, bloco inserido no topo com n.os 6 a 12 (taxas iniciais por despacho, multa de 5000$00, auto de notícia, equipamentos técnicos, etc.) que não resultam das instruções do DL 12/92 nem do DL 330-A/95"], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Redação do art. 1.º do DL 117-C/76 aplicada letra a letra; epígrafe de secção mantida do original.", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Redação do art. 1.º do DL 117-C/76 aplicada letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 35.º", "veredicto": "certo", "motivo": "Redação do artigo único do DL 164/74 aplicada letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 29.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 30.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 31.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 32.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 33.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 34.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 36.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 37.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 38.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 39.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 40.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 41.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 42.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 43.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 44.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 45.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 46.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 47.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 48.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 49.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 50.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 51.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 52.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 53.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 54.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 55.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 56.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "artigo": "Artigo 57.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:509792:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 8.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 12.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 13.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 15.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 20.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 24.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 26.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 33.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 35.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 36.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 41.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 41.º-A", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 47.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 48.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 48.º-A", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 55.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 56.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 60.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 62.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 67.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 68.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 74.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 76.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 81.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 84.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 85.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 89.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 92.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 97.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 99.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 106.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 107.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'. (O aditamento do 'n.º 9 do artigo 107.º' vem listado no art. 3.º do alterador sem texto; sem efeito possível.)", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 108.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 109.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 111.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 113.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 116.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 118.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 119.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 120.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 121.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 123.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 140.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 143.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 145.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 146.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 148.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 156.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 164.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 172.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 180.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 184.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 189.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 193.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 194.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 196.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 197.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 198.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 203.º-A", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 204.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 205.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 206.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 211.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 213.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 217.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 234.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 235.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 236.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 238.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 239.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 241.º", "veredicto": "certo", "motivo": "Consolidado coincide com a nova redação e o texto original nos '...'.", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "(preâmbulo)", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 1.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 2.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "TÍTULO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 1.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 2.º #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 3.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 4.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 5.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 6.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 7.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 9.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 9.º-A", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 9.º-B", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 10.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 11.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 14.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "TÍTULO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO I #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO I #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO I", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 16.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 17.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 18.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 19.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO II", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 21.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 22.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 23.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO II #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 25.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 27.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 28.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 29.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 30.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 31.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 32.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO II #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO I #3", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 34.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 37.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO II #3", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 38.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 38.º-A", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 39.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO III #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO I #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 40.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO II #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 42.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 43.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 44.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 45.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 46.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO IV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO V", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "TÍTULO III", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO I #3", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 49.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 50.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 51.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 52.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 53.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 54.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 57.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 58.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO II #3", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 59.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 61.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 63.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 64.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 65.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 66.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO III #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO I #4", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 69.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 70.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 71.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 72.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 73.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 75.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 77.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 78.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 79.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 80.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 82.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 83.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO II #4", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 86.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 87.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 88.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 90.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 91.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 93.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 94.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 95.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 96.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO III #3", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 98.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 100.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 101.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 102.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 103.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 104.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO IV #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 105.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 110.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 112.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 114.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO V #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 115.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 117.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 122.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "TÍTULO IV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO I #4", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO I #5", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO I #3", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 124.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO II #3", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 125.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 126.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 127.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 128.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 129.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 130.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 131.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 132.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 133.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 134.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 135.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO III #2", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 136.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 137.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 138.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 139.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 141.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 142.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 144.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO IV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 147.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 149.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 150.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 151.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 152.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 153.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 154.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 155.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO V", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 157.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 158.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 159.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO VI", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 160.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 161.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 162.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 163.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO VII", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 164.º-A", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 164.º-B", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 164.º-C", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 164.º-D", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 164.º-E", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO II #5", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO I #4", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 165.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 166.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 167.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 168.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 169.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 170.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO II #4", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 171.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 173.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "DIVISÃO III #3", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 174.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 175.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO II #4", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO I #6", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 176.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 177.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 178.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 179.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 181.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 182.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 183.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 185.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO II #6", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 186.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO III #3", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO I #7", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 187.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 188.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 190.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO II #7", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 191.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 192.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO III #4", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 195.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO IV", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 199.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 200.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 201.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 202.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 203.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO V", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO VI", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 207.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 208.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 209.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 210.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 212.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 214.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "SECÇÃO VII", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 215.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 216.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 218.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 219.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 220.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 221.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO IV #3", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 222.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 223.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 224.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 225.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO V #3", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 226.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 227.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 228.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO VI", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 229.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 230.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 231.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 232.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO VII", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 233.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO VIII", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 237.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 240.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "TÍTULO V", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "CAPÍTULO ÚNICO", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 242.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 243.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "artigo": "Artigo 244.º", "veredicto": "certo", "motivo": "Igual ao original letra a letra (nenhuma instrução o visa).", "texto_esperado": ""}
+{"id": "pt:dre:544397:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}

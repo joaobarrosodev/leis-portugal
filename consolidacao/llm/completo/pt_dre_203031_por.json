@@ -22,62 +22,17 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 23 (Lei n.º 66-B/2012, art. 241.º, n.º 2, al. i)) apenas autoriza o Governo a revogar o regime especial aprovado pelo DL 204/97; não é uma revogação direta do texto, não se aplica.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Lei 127-B/97, art. 34.º, n.º 5): nova redação do art. 1.º do Regime Especial (1.º#2), acrescenta 'ou as Regiões Autónomas'; superada pelos alteradores 2 e 11.",
-    "Alterador 2 (Lei 3-B/2000, art. 44.º, n.º 9): nova redação do art. 1.º do Regime (1.º#2), acrescenta os institutos públicos do DL 237/99; texto usado como n.º 1 final.",
-    "Alterador 3 (Lei 109-B/2001, art. 35.º, n.º 7): adita n.º 5 ao art. 3.º do Regime (3.º#2); aplicado.",
-    "Alterador 11 (DL 21/2007, art. 2.º): art. 1.º do Regime passa a n.º 1 (anterior corpo) e adita n.º 2; aplicado em 1.º#2.",
-    "Restantes instruções dos alteradores (Código do IVA, RITI, IRS, IRC, outros diplomas, autorizações legislativas) não se dirigem ao original e foram ignoradas; alteradores 5, 7, 12, 14, 19 e 21 vêm sem texto.",
-    "Alterador 22 (DL 197/2012), art. 9.º: nova redação do n.º 1 do art. 7.º do Regime (menção 'Exigibilidade de caixa'); n.os 2 a 4 mantidos do texto atual.",
-    "Alterador 22: restantes artigos alteram o CIVA, RITI e outros diplomas, não o original; ignorados.",
-    "Alterador 23: autorização legislativa para revogar o regime; não aplicada (ver nao_aplicavel).",
-    "Alteradores 24, 25, 26 e 27: nenhuma instrução dirigida ao original."
+    "Lei 127-B/97 art. 34.º n.º 5: nova redação do art. 1.º do Regime (Estado ou as Regiões Autónomas) — substituída depois pela Lei 3-B/2000.",
+    "Lei 3-B/2000 art. 44.º n.º 9: nova redação do art. 1.º do Regime (Estado, Regiões Autónomas ou institutos públicos do DL 237/99) — aplicada.",
+    "Lei 109-B/2001 n.º 7: adita n.º 5 ao art. 3.º do Regime (cessão de créditos) — aplicado.",
+    "DL 21/2007 art. 2.º: art. 1.º do Regime passa a n.º 1 (anterior corpo, na redação da Lei 3-B/2000, que o próprio DL 21/2007 cita) e n.º 2 novo — aplicado. Reparo do verificador não aceite: a Lei 3-B/2000 é o alterador 2 da lista e é ela que dá o texto 'as Regiões Autónomas ou os institutos públicos'.",
+    "DL 197/2012 art. 9.º: nova redação do n.º 1 do art. 7.º do Regime ('Exigibilidade de caixa'); n.os 2 a 4 ficam — aplicado.",
+    "Lei 66-B/2012 art. 241.º: autorização legislativa para revogar o regime; não é revogação — nada aplicado.",
+    "Restantes alteradores alteram o Código do IVA, o RITI e outros diplomas, não o original — ignorados."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21
-      ],
-      "chars": 283734,
-      "artigos": 2
-    },
-    {
-      "n": 2,
-      "alteradores": [
-        22,
-        23,
-        24,
-        25,
-        26,
-        27
-      ],
-      "chars": 124841,
-      "artigos": 1
-    }
-  ],
   "problemas": []
 }

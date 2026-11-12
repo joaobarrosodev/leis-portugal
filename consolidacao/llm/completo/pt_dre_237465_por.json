@@ -39,17 +39,17 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (DL 44828) só fixa data de entrada em vigor de outros diplomas; alterador 2 (DL 46632) muda o prazo do § único do art. 41.º sem nova redação e foi depois revogado e superado; alterador 6 (DL 479/71) eleva o capital do art. 3.º e fixa novas quotas-partes sem dar nova redação aos artigos 3.º e 36.º; alterador 7 (Decreto 553/71) cria sistema em substituição do do art. 1.º sem alteração textual; alterador 8 (DL 317/80) extingue o Fundo sem alteração textual. Nada disto aplicado ao texto.",
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (DL 44828): fixa para 1 de Março de 1963 a entrada em vigor, prevista no artigo 63.º, sem alterar textualmente o artigo; não aplicado ao texto. Alterador 6 (DL 479/71): eleva o capital do Fundo para 3 milhões de contos e fixa novas quotas-partes em disposições autónomas, sem dar nova redação aos artigos 3.º, 36.º ou 37.º; não é alteração textual. Alterador 7 (Decreto 553/71): cria um novo sistema 'em substituição' do instituído pelo artigo 1.º e regula de novo a matéria, sem alterar nem revogar expressamente artigos do original; substituição implícita, não textual. Alterador 8 (DL 317/80): extingue o Fundo e revoga o DL 478/71 e o Decreto 553/71, sem revogar expressamente o original nem artigos dele; não aplicado ao texto.",
   "instrucoes": [
-    "Alterador 1: data de entrada em vigor; não textual.",
-    "Alterador 2: prazo de quatro anos no § único do art. 41.º; não textual e superado pelos alteradores 3 e 4.",
-    "Alterador 3, art. 1.º: § único do art. 41.º substituído por §§ 1.º e 2.º; superado pelo alterador 4.",
-    "Alterador 4, art. 1.º: nova redação integral do art. 41.º; aplicada.",
-    "Alterador 5, art. 1.º: novas redações do § 3.º do art. 10.º, do art. 20.º, do § único do art. 29.º e do § 1.º do art. 36.º; aplicadas.",
-    "Alterador 5, art. 2.º: aditado § 3.º ao art. 41.º; aplicado.",
-    "Alterador 5, art. 3.º: nova redação da alínea d) do art. 47.º; aplicada.",
-    "Alterador 6: aumento de capital e quotas; não textual, não aplicado.",
-    "Alteradores 7 e 8: regime substitutivo e extinção do Fundo; não textuais."
+    "DL 44828, artigo único: adia a entrada em vigor (art. 63.º) para 1-3-1963; não textual, em nao_aplicavel.",
+    "DL 46632, artigo único: prazo do § único do art. 41.º passa a quatro anos; superado pelos DL 48006 (que o revoga) e 48702.",
+    "DL 48006, art. 1.º: substitui o § único do art. 41.º por §§ 1.º e 2.º; art. 2.º revoga o DL 46632; superado pelo DL 48702.",
+    "DL 48702, art. 1.º: nova redação integral do art. 41.º (corpo 'por força de parte', §§ 1.º e 2.º); aplicado. Art. 2.º é norma autónoma.",
+    "DL 49305, art. 1.º: novo § 3.º do art. 10.º, nova redação do art. 20.º, novo § único do art. 29.º (sem ponto final, como no alterador), novo § 1.º do art. 36.º; aplicados.",
+    "DL 49305, art. 2.º: adita § 3.º ao art. 41.º, sobre a redação do DL 48702; aplicado. O reparo do verificador está errado: o corpo e os §§ 1.º e 2.º vêm do DL 48702 (alterador 4), que está no pedido.",
+    "DL 49305, art. 3.º: nova alínea d) do art. 47.º; aplicado.",
+    "DL 479/71, Decreto 553/71 e DL 317/80: sem alterações textuais ao original; em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

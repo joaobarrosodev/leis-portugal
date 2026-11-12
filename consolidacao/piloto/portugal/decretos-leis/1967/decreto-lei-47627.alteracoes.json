@@ -1,31 +1,17 @@
 [
   {
-    "artigo": "35.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 35.º\n\nDe acordo com as suas disponibilidades financeiras e segundo regulamento aprovado pelo Ministro das Obras Públicas, pode o Laboratório atribuir prémios ou outras formas de recompensa aos seus servidores que tenham contribuído para o progresso dos conhecimentos de forma relevante ou para o incremento do prestígio, eficiência ou capacidade da acção da instituição.",
-    "depois": "###### Artigo 35.º\n\nO Laboratório pode instituir, nas condições que forem aprovadas pelo Ministro das Obras Públicas e dentro das suas disponibilidades financeiras, prémios para os servidores que tenham contribuído de forma excepcional para o progresso dos conhecimentos, para o prestígio da instituição ou para o incremento da eficiência da sua acção, bem como outras formas de estímulo, com o fim de fomentar o aumento da produtividade.\n\n> Alterado pelo/a [Decreto-Lei n.º 164/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1974-411337), publicado em 1974-04-22.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:509792:por",
-    "alterador": "pt:dre:411337:por;pt:dre:317132:por"
-  },
-  {
     "artigo": "2.º",
     "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 2.º\n\nO Laboratório tem um conselho administrativo, composto pelo director, que presidirá, pelo subdirector administrativo, pelo chefe do serviço administrativo e por um dos chefes de repartição.\n\n§ 1.º Às reuniões do conselho administrativo assistirá um delegado do Tribunal de Contas, por este designado, que perceberá uma gratificação mensal cujo quantitativo será fixado pelo Ministro das Obras Públicas, com o acordo do Ministro das Finanças.\n\n§ 2.º Mediante autorização, a conceder anualmente pelo Ministro das Obras Públicas, pode o director fazer-se substituir na presidência do conselho administrativo pelo subdirector ou pelo subdirector administrativo.\n\nII) Administração do Laboratório",
-    "depois": "###### Artigo 2.º\n\nO Laboratório tem um conselho administrativo composto pelo director, que presidirá, e por três a seis funcionários do quadro, nomeados pelo Ministro do Equipamento Social, sob proposta do director do LNEC.\n\n§ 1.º A nomeação dos vogais é feita por períodos de três anos, podendo ser dada por finda a todo o tempo, por despacho ministerial.\n\n§ 2.º Às reuniões do conselho administrativo assistirá um delegado do Tribunal de Contas, por este designado, que perceberá uma gratificação mensal cujo quantitativo será fixado pelo Ministro do Equipamento Social, com o acordo do Ministro das Finanças.\n\n§ 3.º Mediante autorização, a conceder anualmente pelo Ministro do Equipamento Social, pode o director fazer-se substituir na presidência do conselho administrativo por um dos vogais.\n\n> Alterado pelo/a [Decreto-Lei n.º 117-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-c-1976-317132), publicado em 1976-02-09.",
+    "depois": "###### Artigo 2.º\n\nO Laboratório tem um conselho administrativo composto pelo director, que presidirá, e por três a seis funcionários do quadro, nomeados pelo Ministro do Equipamento Social, sob proposta do director do LNEC.\n\n§ 1.º A nomeação dos vogais é feita por períodos de três anos, podendo ser dada por finda a todo o tempo, por despacho ministerial.\n\n§ 2.º Às reuniões do conselho administrativo assistirá um delegado do Tribunal de Contas, por este designado, que perceberá uma gratificação mensal cujo quantitativo será fixado pelo Ministro do Equipamento Social, com o acordo do Ministro das Finanças.\n\n§ 3.º Mediante autorização, a conceder anualmente pelo Ministro do Equipamento Social, pode o director fazer-se substituir na presidência do conselho administrativo por um dos vogais.\n\nII) Administração do Laboratório\n\n> Alterado pelo/a [Decreto-Lei n.º 117-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-c-1976-317132), publicado em 1976-02-09.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:509792:por",
-    "alterador": "pt:dre:411337:por;pt:dre:317132:por"
+    "alterador": "pt:dre:317132:por;pt:dre:411337:por"
   },
   {
     "artigo": "16.º",
@@ -39,6 +25,20 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:509792:por",
-    "alterador": "pt:dre:411337:por;pt:dre:317132:por"
+    "alterador": "pt:dre:317132:por;pt:dre:411337:por"
+  },
+  {
+    "artigo": "35.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 35.º\n\nDe acordo com as suas disponibilidades financeiras e segundo regulamento aprovado pelo Ministro das Obras Públicas, pode o Laboratório atribuir prémios ou outras formas de recompensa aos seus servidores que tenham contribuído para o progresso dos conhecimentos de forma relevante ou para o incremento do prestígio, eficiência ou capacidade da acção da instituição.",
+    "depois": "###### Artigo 35.º\n\nO Laboratório pode instituir, nas condições que forem aprovadas pelo Ministro das Obras Públicas e dentro das suas disponibilidades financeiras, prémios para os servidores que tenham contribuído de forma excepcional para o progresso dos conhecimentos, para o prestígio da instituição ou para o incremento da eficiência da sua acção, bem como outras formas de estímulo, com o fim de fomentar o aumento da produtividade.\n\n> Alterado pelo/a [Decreto-Lei n.º 164/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1974-411337), publicado em 1974-04-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:509792:por",
+    "alterador": "pt:dre:317132:por;pt:dre:411337:por"
   }
 ]

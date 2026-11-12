@@ -634,9 +634,9 @@ b) Admissão do recurso para o órgão competente.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Artigo 45.º — Alterações ao [Regulamento n.º 52-A/2005](https://diariodarepublica.pt/dr/detalhe/regulamento/52-a-2005-1066871)
+###### Artigo 45.º — Alterações ao Regulamento n.º 52-A/2005
 
-1 - As alterações introduzidas ao [Regulamento n.º 52-A/2005](https://diariodarepublica.pt/dr/detalhe/regulamento/52-a-2005-1066871), de 1 de Agosto entram em vigor no dia 1 de Janeiro de 2010.
+1 - As alterações introduzidas ao Regulamento n.º 52-A/2005, de 1 de Agosto entram em vigor no dia 1 de Janeiro de 2010.
 
 2 - A nova redacção do Regulamento Nacional de Estágio aplicar-se-á aos cursos de estágio que se iniciem após a sua entrada em vigor.
 

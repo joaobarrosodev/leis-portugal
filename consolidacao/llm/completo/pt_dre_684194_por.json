@@ -9,10 +9,11 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Portaria 122/2011, art. 1.º: aditamento de um n.º 2.º à própria Portaria n.º 484/2003 (com renumeração do antigo 2.º para 3.º); os números do articulado da portaria não estão no texto atual (só o Regulamento), não aplicado.",
+  "titulos": [],
+  "nao_aplicavel": "Artigo 1.º da Portaria n.º 122/2011: adita um n.º 2.º à própria Portaria n.º 484/2003 (parte dispositiva que aprova o Regulamento), passando o anterior n.º 2.º a 3.º. Esses números da portaria (1.º, 2.º) não constam do texto atual, que só traz os artigos do Regulamento (a chave 2.º é o artigo 2.º do Regulamento, e não há preâmbulo nem chave da portaria); o texto do anterior n.º 2.º também não vem no pedido, pelo que não se pode aplicar com segurança sem inventar.",
   "instrucoes": [
-    "Portaria 122/2011, art. 1.º: aditado n.º 2.º à Portaria (texto preambular não presente); não aplicado.",
-    "Portaria 122/2011, art. 2.º: nova redação do n.º 2 do artigo 85.º do Regulamento; aplicado."
+    "Alterador 1, art. 1.º: aditamento do n.º 2.º à Portaria 484/2003 e renumeração do anterior 2.º para 3.º — o reparo confirma-se no alterador, mas os números da portaria não estão no texto atual: nao_aplicavel.",
+    "Alterador 1, art. 2.º: nova redação do n.º 2 do artigo 85.º do Regulamento (crachá dourado também para os titulares dos órgãos de comando); n.os 1, 3 e 4 mantidos do texto atual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

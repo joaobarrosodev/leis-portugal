@@ -131,9 +131,9 @@ Desde a apresentação das candidaturas e durante o mandato os funcionários do 
 
 ###### Artigo 10.º — (Incompatibilidade das funções de Deputado com as de membro do Conselho de Estado e do Governo)
 
-1. A função de Deputado à Assembleia Constituinte não é compatível com a de membro do Governo Provisório.
+1 - A função de Deputado à Assembleia Constituinte não é compatível com a de membro do Governo Provisório.
 
-2. Finda a incompatibilidade por cessação de funções do membro do Governo, tomará este assento na Assembleia Constituinte, cessando o mandato do Deputado da mesma lista que figura em último lugar na ordem de precedência constante da declaração de candidatura.
+2 - Finda a incompatibilidade por cessação de funções do membro do Governo, tomará este assento na Assembleia Constituinte, cessando o mandato do Deputado da mesma lista que figura em último lugar na ordem de precedência constante da declaração de candidatura.
 
 > Alterado pelo/a [Decreto-Lei n.º 541-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-a-1975-264716), publicado em 1975-09-27.
 
@@ -295,7 +295,7 @@ c) As autoridades diplomáticas ou consulares competentes anunciarão aos reside
 
 d) A autoridade superior no território promoverá a publicação de idênticos anúncios nos territórios ultramarinos ainda sob administração portuguesa.
 
-###### Artigo 30.º — (Período de inscrição)
+###### Artigo 30.º — (Pedido de inscrição)
 
 1 - A inscrição dos eleitores no recenseamento para a eleição da Assembleia Constituinte decorrerá de 9 de Dezembro de 1974 a 8 de Janeiro de 1975.
 
@@ -343,7 +343,7 @@ d) A autoridade superior no território promoverá a publicação de idênticos 
 
 No território eleitoral os directores de estabelecimentos de hospitalização de alienados deverão enviar, até 27 de Dezembro de 1974, às comissões de recenseamento das freguesias das respectivas residências, antes do internamento, relações dos cidadãos em idade eleitoral.
 
-###### Artigo 36.º — (Exposição de cópia para exame e reclamação)
+###### Artigo 36.º — (Exposição da cópia para exame e reclamação)
 
 1 - De 23 de Janeiro a 11 de Fevereiro estará exposta, na sede da junta de freguesia ou no local onde funciona a comissão de recenseamento, uma cópia fiel do caderno definitivo do recenseamento, para exame e reclamação dos interessados.
 

@@ -244,7 +244,7 @@
     {
       "chave": "148.º",
       "epigrafe": "Requerimento de baixa à comissão",
-      "texto": "Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de apreciação no prazo que for designado, não se aplicando, neste caso, o disposto no artigo 145.º, salvo no que respeita à obrigatoriedade da distribuição aos deputados.",
+      "texto": "Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de apreciação no prazo que for designado, não se aplicando, neste caso, o disposto no artigo 145.º, salvo no que respeita à obrigatoriedade da distribuição aos deputados.\n\nSUBDIVISÃO II\n\nDiscussão e votação na generalidade",
       "alterador": 1
     },
     {
@@ -256,7 +256,7 @@
     {
       "chave": "164.º",
       "epigrafe": "Resoluções",
-      "texto": "O processo legislativo comum, aplica-se aos diplomas que sejam propostos com a forma de resolução.",
+      "texto": "O processo legislativo comum, aplica-se aos diplomas que sejam propostos com a forma de resolução.\n\nSUBDIVISÃO I\n\nDiscussão e votação na generalidade",
       "alterador": 1
     },
     {
@@ -390,25 +390,16 @@
   "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Res. 9/2015/M), art. 1.º: nova redação de 68 artigos do Regimento republicado. 8.º, 12.º, 13.º e 15.º já estavam com a redação certa (programa); não devolvidos. Devolvidos os outros 64, com '...'/[...] preenchidos do texto atual e as renumerações de números e alíneas ('Anterior n.º'/'Anterior alínea').",
-    "81.º: a nova redação acaba no n.º 4 (anterior n.º 5); os antigos n.os 4, 6 e 7 deixam de constar (a matéria dos n.os 6 e 7 passa para o 20.º, n.º 1, q), e n.º 2).",
-    "41.º: a antiga alínea c) sai com a renumeração (c) a k) = antigas d) a m)) e entra a nova l). 119.º: o antigo n.º 2 sai; os n.os 2 e 3 têm texto novo.",
-    "Alterador 1, art. 3.º: aditamentos dos artigos 41.º-A, 48.º-A e 203.º-A já estavam no texto atual (programa) com a redação certa; os números/alíneas aditados estão incluídos nas redações do art. 1.º.",
-    "Alterador 2 (Res. 15/2023/M): o pedido não traz nenhum artigo dirigido ao original; nada aplicado.",
-    "Nenhum título de divisão alterado."
+    "Alterador 1 (Res. 9/2015/M), art. 1.º: nova redação de 69 artigos do Regimento; aplicada a cada artigo, com \"...\"/\"[...]\" substituídos pelo texto atual e as alíneas e números \"Anterior\" reordenados a partir do texto atual.",
+    "Arts. 8.º, 12.º, 13.º e 15.º: o texto atual (já alterado por programa) coincide com a nova redação; não devolvidos.",
+    "Arts. 148.º e 164.º: corpo novo, mantendo no fim o título de subdivisão que estava no corpo atual (reparo do verificador confirmado: nenhuma instrução o elimina).",
+    "Art. 81.º: a nova redação tem só os n.os 1 a 4 (4 = anterior n.º 5); os antigos n.os 4, 6 e 7 não constam e passaram para o art. 20.º, n.º 1, alínea q), e n.º 2; devolvido com 4 números.",
+    "Art. 236.º: n.os 4 e 5 = anteriores n.os 6 e 7; antigos n.os 4 e 5 desaparecem da nova redação.",
+    "Art. 205.º: a nova redação só lista os n.os 1 a 4; o n.º 5 atual mantém-se, porque nenhuma instrução o elimina.",
+    "Alterador 1, art. 3.º: aditamentos (n.os e alíneas já incluídos na nova redação do art. 1.º; arts. 41.º-A, 48.º-A e 203.º-A já estão no texto atual, iguais ao aditado).",
+    "Alterador 2 (Res. 15/2023/M): sem texto que mencione o original; nada a aplicar."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2
-      ],
-      "chars": 188316,
-      "artigos": 64
-    }
-  ],
   "problemas": []
 }

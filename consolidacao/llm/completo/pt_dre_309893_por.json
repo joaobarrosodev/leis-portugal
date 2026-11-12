@@ -4,12 +4,12 @@
     {
       "chave": "10.º",
       "epigrafe": "(Incompatibilidade das funções de Deputado com as de membro do Conselho de Estado e do Governo)",
-      "texto": "1. A função de Deputado à Assembleia Constituinte não é compatível com a de membro do Governo Provisório.\n\n2. Finda a incompatibilidade por cessação de funções do membro do Governo, tomará este assento na Assembleia Constituinte, cessando o mandato do Deputado da mesma lista que figura em último lugar na ordem de precedência constante da declaração de candidatura.",
+      "texto": "1 - A função de Deputado à Assembleia Constituinte não é compatível com a de membro do Governo Provisório.\n\n2 - Finda a incompatibilidade por cessação de funções do membro do Governo, tomará este assento na Assembleia Constituinte, cessando o mandato do Deputado da mesma lista que figura em último lugar na ordem de precedência constante da declaração de candidatura.",
       "alterador": 5
     },
     {
       "chave": "30.º",
-      "epigrafe": "(Período de inscrição)",
+      "epigrafe": "(Pedido de inscrição)",
       "texto": "1 - A inscrição dos eleitores no recenseamento para a eleição da Assembleia Constituinte decorrerá de 9 de Dezembro de 1974 a 8 de Janeiro de 1975.\n\n2 - A inscrição dos eleitores residentes fora do território eleitoral no recenseamento para a eleição da Assembleia Constituinte decorrerá entre datas a fixar, quanto ao estrangeiro, pelo Ministro dos Negócios Estrangeiros, e quanto aos territórios ultramarinos ainda sob administração portuguesa, pela autoridade superior no território, por forma que os eleitores disponham do prazo mínimo de quinze dias para procederem à inscrição.",
       "alterador": 1
     },
@@ -21,7 +21,7 @@
     },
     {
       "chave": "36.º",
-      "epigrafe": "(Exposição de cópia para exame e reclamação)",
+      "epigrafe": "(Exposição da cópia para exame e reclamação)",
       "texto": "1 - De 23 de Janeiro a 11 de Fevereiro estará exposta, na sede da junta de freguesia ou no local onde funciona a comissão de recenseamento, uma cópia fiel do caderno definitivo do recenseamento, para exame e reclamação dos interessados.\n\nSem prejuízo do cumprimento da data limite de 11 de Fevereiro, o período da exposição dos cadernos definitivos não poderá ser inferior a cinco dias nem superior a dez dias.\n\n2 - O disposto no n.º 1 é igualmente válido, fora do território eleitoral, nos consulados de carreira, secções consulares ou embaixadas indicadas para efeito de recenseamento e nos locais dos territórios ultramarinos ainda sob administração portuguesa fixados nos termos do n.º 1 do artigo 23.º\n\n3 - O exame será feito tanto pelos cadernos originais no estrangeiro e nos territórios ultramarinos ainda sob administração portuguesa como pelas cópias referidas no n.º 5 do artigo 19.º\n\n4 - Os partidos políticos poderão obter cópia ou fotocópia dos cadernos eleitorais a que se referem os números anteriores desde que paguem as despesas ou ponham à disposição das comissões de recenseamento os meios técnicos adequados.",
       "alterador": 3
     },
@@ -57,13 +57,14 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 3/75), artigo 1.º: novos n.º 1 do artigo 30.º, n.os 2 e 3 do 32.º, n.º 1 do 36.º, n.os 1 e 2 do 37.º, n.os 1 e 3 do 38.º, n.º 1 do 39.º e n.os 1 e 2 do 40.º; aplicado; só se alteram números, por isso ficam as epígrafes atuais (o alterador imprime 'Pedido de inscrição' no 30.º). Artigo 2.º altera o DL 621-C/74; ignorado.",
-    "Alterador 2 (DL 5/75): artigo 39.º, novo n.º 2 e aditados n.os 3 e 4; aplicado (n.º 2 depois substituído pelo alterador 4).",
-    "Alterador 3 (DL 38-B/75): novo n.º 1 do 36.º, n.os 1 e 2 do 37.º (n.º 3 mantido) e n.º 1 do 38.º, substituindo a redação do alterador 1; aplicado; n.º 3 do 38.º fica com a redação do alterador 1.",
-    "Alterador 4 (DL 86/75), artigo 1.º: novo n.º 2 do artigo 39.º e n.º 2 aditado ao artigo 41.º (o texto atual passa a n.º 1); aplicado. Artigo 2.º altera o DL 621-C/74; ignorado.",
-    "Alterador 5 (DL 541-A/75): nova redação do artigo 10.º; aplicado, epígrafe mantida."
+    "DL 3/75 art. 1.º: nova redação de números dos arts. 30.º (n.º 1 e epígrafe), 32.º (n.os 2 e 3), 36.º, 37.º, 38.º (n.os 1 a 3), 39.º (n.º 1) e 40.º (n.os 1 e 2); aplicado. Art. 2.º altera o DL 621-C/74: ignorado.",
+    "DL 5/75: nova redação do n.º 2 do art. 39.º e aditamento dos n.os 3 e 4; aplicado. O reparo do verificador (n.os 3 e 4 sem instrução) não se confirma: vêm do DL 5/75, e o DL 86/75 só reescreve o n.º 2, ficando os n.os 3 e 4.",
+    "DL 38-B/75: nova redação dos n.os 1 dos arts. 36.º, 37.º e 38.º (com parágrafos novos), n.º 2 do art. 37.º e epígrafe do art. 36.º; aplicado sobre a redação do DL 3/75.",
+    "DL 86/75 art. 1.º: nova redação do n.º 2 do art. 39.º e aditamento do n.º 2 ao art. 41.º (o texto atual passa a n.º 1); aplicado. Art. 2.º altera o DL 621-C/74: ignorado.",
+    "DL 541-A/75: nova redação do art. 10.º (n.os 1 e 2); aplicado, epígrafe mantida."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

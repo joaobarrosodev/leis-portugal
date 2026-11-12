@@ -9,11 +9,13 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "No texto atual, os artigos 4.º e 5.º da Lei n.º 77/2017 não têm chave própria: vêm dentro do corpo da chave 3.º (a seguir ao anexo aditado ao Decreto-Lei n.º 96/2013). A nova redação do artigo 5.º (Lei n.º 114/2017, art. 322.º) vai na chave 5.º; o corpo da chave 3.º não foi mexido e continua a conter a redação antiga do artigo 5.º («180 dias após a sua publicação»).",
+  "titulos": [],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Lei n.º 114/2017, art. 322.º: nova redação do artigo 5.º (entrada em vigor a 1 de janeiro de 2018); epígrafe [...] mantém 'Entrada em vigor'. Aplicado na chave 5.º.",
-    "Decreto-Lei n.º 12/2019: altera, adita e revoga normas do Decreto-Lei n.º 96/2013, não da Lei n.º 77/2017: ignorado.",
-    "Decreto-Lei n.º 32/2020: altera o Decreto-Lei n.º 96/2013 e revoga o artigo 4.º do Decreto-Lei n.º 12/2019; nada dirigido à Lei n.º 77/2017: ignorado."
+    "Alterador 1 (Lei 114/2017, art. 322.º): nova redação do art. 5.º da Lei 77/2017; epígrafe '[...]' mantém a atual 'Entrada em vigor' (o art. 5.º existe no original, embora a vista o mostre dentro do bloco do 3.º); corpo substituído por 'A presente lei entra em vigor a 1 de janeiro de 2018.'",
+    "Reparo do verificador sobre a epígrafe do 5.º: não confirmado; o original tem 'Artigo 5.º / Entrada em vigor', logo '[...]' = 'Entrada em vigor'.",
+    "Alterador 2 (DL 12/2019): só altera e adita artigos do DL 96/2013 (outro diploma); ignorado.",
+    "Alterador 3 (DL 32/2020): só altera o DL 96/2013 (outro diploma); ignorado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

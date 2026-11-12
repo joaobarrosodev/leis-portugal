@@ -9,11 +9,14 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 54/90 art. 5.º: nova redação do n.º 2 do art. 3.º (n.os 1 e 3 '...') — aplicada; arts. 1.º a 4.º e 6.º alteram o Código do Registo Civil ou são normas autónomas — ignorados.",
-    "DL 318/2007 art. 11.º: nova redação do art. 3.º — novos n.os 1 e 2; n.º 3 = anterior n.º 2 (redação do DL 54/90); n.º 4 = anterior n.º 3 — aplicada; restantes artigos alteram outros diplomas — ignorados. (O art. 11.º menciona também os DL 42/89 e 40/94, que não vêm no pedido; a nova redação substitui o artigo por inteiro.)",
-    "Portaria 286/2012: só invoca o n.º 1 do art. 3.º como habilitação e altera outras portarias — nada a aplicar ao original."
+    "DL 54/90, art. 5.º: nova redação do n.º 2 do art. 3.º (impressos aprovados por portaria, sem a parte final 'e constituem exclusivo... Decreto-Lei n.º 144/83'); n.ºs 1 e 3 ficam ('...').",
+    "DL 318/2007, art. 11.º: nova redação do art. 3.º com n.ºs 1 e 2 novos; n.º 3 = anterior n.º 2 (na redação do DL 54/90, já sem a parte final) e n.º 4 = anterior n.º 3. Reparo do verificador não aceite: o anterior n.º 2 à data do DL 318/2007 era o texto dado pelo DL 54/90, que suprimiu a parte final.",
+    "DL 54/90, arts. 1.º a 4.º e 6.º: alteram o Código do Registo Civil ou são normas avulsas; não são do original, ignorados.",
+    "DL 318/2007, restantes artigos: alteram outros diplomas; ignorados.",
+    "Portaria 286/2012: altera outras portarias; a referência ao n.º 1 do art. 3.º do DL 145/85 é só norma habilitante; nada a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

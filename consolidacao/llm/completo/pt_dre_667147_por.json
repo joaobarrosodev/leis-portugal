@@ -226,49 +226,21 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 4 (DL 257/95, art. 5.º) adita um 'CAPÍTULO V — Do arrendamento para outros fins não habitacionais' (antes do art. 123.º): título novo, não está no texto atual, não vai em 'titulos'; os arts. 117.º a 120.º novos inserem-se no capítulo III (antes do título do capítulo IV), posição que a resposta não exprime. Alteradores 6 (Ac. TC 114/98, art. 36.º n.º 1), 7 (Ac. TC 55/99, art. 69.º n.º 1 a), na parte dos descendentes) e 9 (Ac. TC 97/2000, art. 107.º n.º 1 b)): declarações de inconstitucionalidade com força obrigatória geral, não textuais; de resto essas normas foram depois reescritas pelo DL 329-B/2000 (alterador 11), cuja redação se aplicou. Alterador 14 (Lei 6/2006, art. 60.º): revoga o RAU 'salvo nas matérias a que se referem os artigos 26.º e 28.º' — revogação ressalvada/parcial, sem alvo textual determinado; não aplicada. Alterador 13 (Lei 7/2001) só revoga a Lei 135/99 (não toca o texto do RAU); alteradores 15 e 16 não têm instruções para o original. Nota: o alterador 11 diz 'Artigo 12.º' com '1 - ... 2 - A realização das obras referidas no número anterior dá lugar à actualização das rendas regulada nos artigos 38.º e 39.º'; o art. 12.º não tem números e esse texto é o n.º 2 do art. 13.º (que remetia para o art. 38.º), pelo que se aplicou ao 13.º#2.",
+  "nao_aplicavel": "Acórdãos do Tribunal Constitucional n.º 114/98 (inconstitucionalidade com força obrigatória geral do n.º 1 do art. 36.º, depois reescrito pelo DL 329-B/2000) e n.º 97/2000 (inconstitucionalidade da al. b) do n.º 1 do art. 107.º, depois reescrita pelo DL 329-B/2000): declarações de inconstitucionalidade, não são alterações textuais; o Acórdão n.º 55/99 não declara inconstitucionalidade. Lei n.º 6/2006, art. 60.º: revoga o RAU salvo nas matérias dos artigos 26.º e 28.º do NRAU (revogação com ressalva, não aplicada ao texto). DL 257/95, arts. 2.º e 5.º: os novos arts. 117.º a 120.º ficam no capítulo III e é aditado um título 'CAPÍTULO V — Do arrendamento para outros fins não habitacionais' antes do art. 123.º; o título do CAPÍTULO IV devia passar para antes do novo 121.º. Não é possível acrescentar nem deslocar títulos de divisão no formato da resposta, por isso esses títulos ficam por pôr.",
   "instrucoes": [
-    "Alt. 1 (DL 278/93) art. 1.º: nova redação dos arts. 30.º, 31.º, 69.º, 78.º, 89.º e 99.º do RAU; 31.º e 69.º depois refeitos pelo alt. 11; 89.º: n.º 1 novo, n.º 3 mantido (ver alt. 5).",
-    "Alt. 1 art. 2.º: aditados 81.º-A, 89.º-A, 89.º-B, 89.º-C, 89.º-D (89.º-D sem epígrafe).",
-    "Alt. 2 (Lei 13/94): 81.º-A com novo n.º 2 e antigo n.º 2 como n.º 3.",
-    "Alt. 3 (DL 163/95) art. 3.º: n.º 4 do 84.º; o resto do diploma altera o Código Civil (ignorado).",
-    "Alt. 4 (DL 257/95): 12.º#2 nova redação; aditados 117.º a 120.º; antigos 117.º e 118.º passam a 121.º e 122.º; 121.º com nova redação; aditado 123.º (e capítulo V, não representável em 'titulos').",
-    "Alt. 5 (Ac. TC 410/97): inconstitucional a eliminação do n.º 3 do 89.º pelo DL 278/93; o n.º 3 mantém-se.",
-    "Alt. 6, 7, 9 (Acs. TC 114/98, 55/99, 97/2000): declarações de inconstitucionalidade não textuais; ver nao_aplicavel.",
-    "Alt. 8 (Lei 135/99) art. 5.º (diz 'Artigo 5.º' mas é o 85.º): nova alínea e), novo n.º 2, antigos n.os 2 e 3 passam a 3 e 4.",
-    "Alt. 10 (DL 64-A/2000): 7.º#2 (n.os 2 e 3 novos, sai o antigo n.º 4), 9.º#2 n.º 4, 111.º n.º 3 aditado, 115.º n.º 3, 122.º n.º 2; o resto altera o Código do Notariado.",
-    "Alt. 11 (DL 329-B/2000) art. 1.º: 13.º#2 n.º 2 (texto indicado como 'Artigo 12.º'), 15.º#2, 16.º#2 (n.º 5), 18.º, 31.º, 32.º, 36.º, 38.º, 56.º, 64.º (alínea e) do n.º 1), 69.º, 71.º (n.º 3), 73.º (epígrafe e texto), 107.º; arts. 2.º-4.º alteram outros diplomas (ignorados).",
-    "Alt. 12 (Lei 6/2001) art. 6.º: aditada a alínea f) ao n.º 1 do 85.º.",
-    "Alt. 13 (Lei 7/2001): revoga a Lei 135/99, sem efeito no texto do RAU.",
-    "Alt. 14 (Lei 6/2006) art. 60.º: revogação do RAU com ressalva das matérias dos arts. 26.º e 28.º; não aplicada (ver nao_aplicavel).",
-    "Alt. 15 e 16: sem instruções para o original."
+    "DL 278/93 art. 1.º: nova redação dos arts. 30.º (texto único), 31.º n.º 1 al. a) (depois substituída pelo DL 329-B/2000), 69.º n.º 1 proémio, 78.º (n.os 1 e 2), 89.º n.º 1 e 99.º n.º 2. O art. 89.º só tem os n.os 1 e 2 (o n.º 3 é eliminado), mas o Acórdão 410/97 declarou inconstitucional essa eliminação; por isso o n.º 3 fica.",
+    "DL 278/93 art. 2.º: adita os arts. 81.º-A, 89.º-A, 89.º-B, 89.º-C e 89.º-D (este sem epígrafe).",
+    "Lei 13/94: nova redação do art. 81.º-A, com um novo n.º 2 e o antigo n.º 2 a passar a n.º 3.",
+    "DL 163/95 art. 3.º: art. 84.º n.º 4. Os arts. 1.º e 2.º alteram o Código Civil: ignorados.",
+    "DL 257/95: art. 12.º (aplicado à chave 12.º#2); adita os arts. 117.º a 120.º; os antigos 117.º e 118.º passam a 121.º e 122.º (as chaves 117.º e 118.º continuam a existir com o texto novo, por isso não vão em removidos); nova redação do 121.º; adita o art. 123.º.",
+    "Acórdãos 410/97, 114/98, 55/99 e 97/2000: só o 410/97 tem efeito no texto (repõe o n.º 3 do art. 89.º); os outros vão em nao_aplicavel.",
+    "Lei 135/99 art. 5.º (o texto cita por gralha 'Artigo 5.º', mas a introdução diz que é o art. 85.º do RAU): al. e) do n.º 1 passa a dizer 'dois anos', novo n.º 2, e os antigos n.os 2 e 3 passam a 3 e 4. Reparo do verificador ao art. 85.º não confirmado: esta instrução existe. A revogação da Lei 135/99 pela Lei 7/2001 não repõe o texto anterior.",
+    "DL 64-A/2000: arts. 7.º (só os n.os 1 a 3; desaparecem o antigo n.º 2 sobre escritura pública e o n.º 4), 9.º n.º 4, 111.º (novo n.º 3), 115.º n.º 3 e 122.º n.º 2 (o antigo 118.º).",
+    "DL 329-B/2000 art. 1.º: arts. 15.º, 16.º (novo n.º 5), 18.º, 31.º, 32.º, 36.º (o antigo n.º 3 passa a n.º 4), 38.º, 56.º (novo n.º 3, o antigo n.º 3 passa a n.º 4), 64.º n.º 1 al. e), 69.º n.º 1 als. a) a d), 71.º (novo n.º 3), 73.º (com nova epígrafe) e 107.º n.º 1. O 'art. 12.º, n.º 2' da instrução aplicou-se ao n.º 2 do art. 13.º (13.º#2): o texto é o do n.º 2 do art. 13.º, e o art. 12.º não tem números. É lapso de numeração do diploma; o reparo de dúvida fica confirmado. Os arts. 2.º a 4.º alteram outros diplomas: ignorados.",
+    "Lei 6/2001 art. 6.º: adita a al. f) ao n.º 1 do art. 85.º (por cima da redação da Lei 135/99).",
+    "Lei 7/2001, Lei 29/2009 e Lei 24/2017: nenhuma instrução para o RAU. Lei 6/2006 art. 60.º: em nao_aplicavel."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16
-      ],
-      "chars": 282632,
-      "artigos": 37
-    }
-  ],
   "problemas": []
 }

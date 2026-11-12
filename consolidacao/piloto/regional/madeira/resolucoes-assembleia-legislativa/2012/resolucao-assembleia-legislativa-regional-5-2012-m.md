@@ -2330,6 +2330,10 @@ Não será admitido o requerimento previsto no n.º 2 do artigo anterior enquant
 
 Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de apreciação no prazo que for designado, não se aplicando, neste caso, o disposto no artigo 145.º, salvo no que respeita à obrigatoriedade da distribuição aos deputados.
 
+SUBDIVISÃO II
+
+Discussão e votação na generalidade
+
 > Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 149.º — Objecto
@@ -2461,6 +2465,10 @@ Os projectos e as propostas de decreto legislativo regional aprovados denominam-
 ###### Artigo 164.º — Resoluções
 
 O processo legislativo comum, aplica-se aos diplomas que sejam propostos com a forma de resolução.
+
+SUBDIVISÃO I
+
+Discussão e votação na generalidade
 
 > Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 

@@ -14,31 +14,21 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "O texto atual só traz os artigos 1.º a 5.º do decreto-lei e os títulos dos capítulos I a X do anexo; as bases da concessão não vêm no texto atual. Por isso não se aplicam: as novas redações das bases (art. 1.º do DL 44-D/2010 e art. 1.º do DL 111/2015), os aditamentos de bases (XVIII-A, XIX-A, LI-A, LXV-A, LXXXVII-A pelo DL 44-D/2010; XXXIV-A, LIV-A, LVII-A a LVII-BB, LXV-B a LXV-E, LXXXVI-A, LXXXVII-B pelo DL 111/2015) e as revogações do art. 5.º do DL 111/2015 (alvos inexistentes no texto atual). As epígrafes dos capítulos XVII e XXI (art. 3.º do DL 44-D/2010) não se aplicam porque esses capítulos não estão no texto atual; o aditamento do capítulo X-A (com secções e subsecções) e do capítulo XXII-A (art. 3.º, n.os 2 e 3, do DL 111/2015) também não, por não haver no texto atual títulos nem bases onde os inserir. Várias bases trazem fórmulas e quadros só em imagem.",
+  "nao_aplicavel": "Reparos do verificador confirmados quanto à existência das instruções, mas não aplicáveis: o texto atual do original só contém os artigos 1.º a 5.º do decreto-lei e os títulos dos capítulos I a X do anexo; o texto das bases (Base I a LXXXIX) não existe no texto atual, sem chave própria. Por isso não se aplicam: DL 44-D/2010 art. 1.º (nova redação de 72 bases, quase todas com '...'/'[...]' que remetem para texto atual inexistente) e art. 2.º (aditamento das bases XVIII-A, XIX-A, LI-A, LXV-A, LXXXVII-A a um anexo que não está no texto atual); DL 111/2015 art. 1.º (nova redação das bases I, II, V, VII, IX, X, XV, XVI, XVIII-A, XIX, XIX-A, XXIV, XXVII, XXIX a XXXI, XXXIV, XXXVII a XLIII, XLV, XLVII, XLVIII, L, LI-A, LII a LVI, LVIII, LX, LXI, LXV-A, LXVI, LXVIII, LXX, LXXI, LXXIII, LXXV a LXXVII, LXXIX, LXXXI, LXXXIII, LXXXIV, LXXXVIII e LXXXIX, incluindo a Base XXIV 'IMT'), art. 2.º (aditamento das bases XXXIV-A, LIV-A, LVII-A a LVII-BB, LXV-B a LXV-E, LXXXVI-A, LXXXVII-B) e art. 5.º (revogações de números e alíneas das bases I, XXXIV, XLV, XLVIII, L, LIV e LXV-A). Títulos: DL 44-D/2010 art. 3.º al. c) e d) (epígrafes dos capítulos XVII e XXI) e DL 111/2015 art. 3.º n.os 2 e 3 (aditamento do capítulo X-A 'Portagens' com secções/subsecções e do capítulo XXII-A 'Comissão de Peritos') não se aplicam porque esses capítulos não estão no texto atual e as regras não permitem inventar títulos. Republicações (art. 6.º de ambos) não trazem o texto republicado.",
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação de dezenas de bases do anexo — não aplicável (bases ausentes do texto atual).",
-    "Alterador 1, art. 2.º: aditamento das bases XVIII-A, XIX-A, LI-A, LXV-A e LXXXVII-A — não aplicável (bases ausentes).",
-    "Alterador 1, art. 3.º: epígrafes dos capítulos VII (Funções do InIR), X (Manutenção, exploração e conservação da Auto-Estrada), XVII e XXI — VII e X aplicados mas depois substituídos pelo alterador 2; XVII e XXI não existem no texto atual.",
-    "Alterador 1, art. 6.º: republicação — sem efeito no texto.",
-    "Alterador 2, art. 1.º: nova redação de bases — não aplicável (bases ausentes).",
-    "Alterador 2, art. 2.º: aditamento de bases XXXIV-A, LIV-A, LVII-A a LVII-BB, LXV-B a LXV-E, LXXXVI-A, LXXXVII-B — não aplicável.",
-    "Alterador 2, art. 3.º, n.º 1: capítulo VII passa a 'Funções do IMT' e capítulo X a 'Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios' — aplicado em titulos.",
-    "Alterador 2, art. 3.º, n.os 2 e 3: aditamento dos capítulos X-A (com secções I a X e subsecções) e XXII-A — não aplicado (não se inventam títulos).",
-    "Alterador 2, art. 5.º: revogação de alíneas e números das bases I, XXXIV, XLV, XLVIII, L, LIV e LXV-A — não aplicável (bases ausentes).",
-    "Alterador 2, art. 6.º: republicação — sem efeito no texto."
+    "DL 44-D/2010 art. 1.º: nova redação de bases do anexo — bases ausentes do texto atual; nao_aplicavel",
+    "DL 44-D/2010 art. 2.º: aditamento das bases XVIII-A, XIX-A, LI-A, LXV-A, LXXXVII-A — anexo de bases ausente; nao_aplicavel",
+    "DL 44-D/2010 art. 3.º a) e b): epígrafes dos capítulos VII (InIR) e X (Manutenção, exploração e conservação) — substituídas depois pelo DL 111/2015; c) e d) capítulos XVII e XXI ausentes; nao_aplicavel",
+    "DL 44-D/2010 art. 6.º: republicação sem texto; nada a aplicar",
+    "DL 111/2015 art. 1.º: nova redação de bases (incl. Base XXIV IMT) — bases ausentes do texto atual; nao_aplicavel",
+    "DL 111/2015 art. 2.º: aditamento de bases XXXIV-A, LIV-A, LVII-A a LVII-BB, LXV-B a LXV-E, LXXXVI-A, LXXXVII-B — nao_aplicavel",
+    "DL 111/2015 art. 3.º n.º 1: capítulo VII 'Funções do IMT' e capítulo X 'Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios' — aplicados em titulos",
+    "DL 111/2015 art. 3.º n.os 2 e 3: aditamento dos capítulos X-A e XXII-A — títulos inexistentes no texto atual; nao_aplicavel",
+    "DL 111/2015 art. 5.º: revogações de números/alíneas de bases — bases ausentes; nao_aplicavel",
+    "DL 111/2015 art. 6.º: republicação sem texto; nada a aplicar",
+    "Nenhuma instrução altera os artigos 1.º a 5.º do decreto-lei; ficam como estão"
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2
-      ],
-      "chars": 257763,
-      "artigos": 0
-    }
-  ],
   "problemas": []
 }

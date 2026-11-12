@@ -29,10 +29,63 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-09-15'
+version_history:
+  file: resolucao-assembleia-legislativa-regional-5-2012-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-01-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-09-15'
+    amending: pt:dre:70297427:por
+    amending_title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Adita Artigo 41.º-A
+    - Adita Artigo 48.º-A
+    - Adita Artigo 203.º-A
+    - Altera Artigo 20.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 33.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 41.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 60.º
+    - Altera Artigo 62.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 74.º
+    - Altera Artigo 76.º
+    - Altera Artigo 81.º
+    - Altera Artigo 84.º
+    - Altera Artigo 85.º
+    - Altera Artigo 89.º
+    - Altera Artigo 92.º
+    - Altera Artigo 97.º
+    - Altera Artigo 99.º
+    - Altera Artigo 106.º
+    - Altera Artigo 107.º
+    - Altera Artigo 108.º
+    - Altera Artigo 109.º
+    - Altera Artigo 111.º
+    - Altera Artigo 113.º
+    - Altera Artigo 116.º
+    - Altera Artigo 118.º
+    - Altera Artigo 119.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolalram/5/2012/01/17/m/dre/pt/html
@@ -58,7 +111,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:51:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução da Assembleia Legislativa
+    da Região Autónoma da Madeira n.º 9/2015/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/resolucoes-assembleia-legislativa/2012/resolucao-assembleia-legislativa-regional-5-2012-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -626,31 +680,33 @@ e) Apresentar propostas de moção;
 
 f) Participar e intervir nos debates e nas votações, nos termos do Regimento;
 
-g) Requerer e obter do Governo Regional ou dos órgãos de qualquer entidade pública regional os elementos, informações e publicações oficiais que considerem úteis para o exercício do seu mandato;
+g) Requerer e obter do Governo Regional ou dos órgãos de qualquer entidade pública regional, num prazo não superior a trinta dias, os elementos, informações e publicações oficiais que considerem úteis para o exercício do seu mandato;
 
-h) Formular perguntas ao Governo Regional sobre quaisquer actos deste ou da administração pública regional;
+h) Formular perguntas por escrito ao Governo Regional sobre quaisquer atos deste ou da administração pública regional;
 
 i) Provocar, por meio de interpelação ao Governo Regional, a abertura de dois debates em cada sessão legislativa sobre assuntos de política regional;
 
 j) Requerer a constituição de comissões parlamentares eventuais e de inquérito;
 
-l) Requerer ao Tribunal Constitucional a declaração de inconstitucionalidade ou de ilegalidade de normas nos termos constitucionais;
+k) Requerer ao Tribunal Constitucional a declaração de inconstitucionalidade ou de ilegalidade de normas nos termos constitucionais;
 
-m) Interpor recurso para o Tribunal Constitucional da deliberação do Plenário da Assembleia Legislativa, referido no n.º 6 do artigo 5.º;
+l) Interpor recurso para o Tribunal Constitucional da deliberação do Plenário da Assembleia Legislativa, referido no n.º 6 do artigo 5.º;
 
-n) Impugnar, junto do Tribunal Constitucional, as eleições realizadas na Assembleia Legislativa, com fundamento em inconstitucionalidade ou ilegalidade;
+m) Impugnar, junto do Tribunal Constitucional, as eleições realizadas na Assembleia Legislativa, com fundamento em inconstitucionalidade ou ilegalidade;
 
-o) Propor personalidades para quaisquer cargos que caiba à Assembleia Legislativa designar;
+n) Propor personalidades para quaisquer cargos que caiba à Assembleia Legislativa designar;
 
-p) Propor a emissão de votos;
+o) Propor a emissão de votos;
 
-q) Os demais consignados neste Regimento.
+p) Os demais consignados neste Regimento.
 
 2 - O poder referido na alínea l) do n.º 1 só pode ser exercido, no mínimo, por um décimo dos deputados.
 
 3 - Os deputados, individual ou colectivamente, podem ainda exercer outros poderes, previstos no Estatuto e no Regimento da Assembleia Legislativa.
 
 4 - Os poderes referidos nas alíneas e), i) e j) do n.º 1 só podem ser exercidos pelos grupos parlamentares.
+
+> Alterado pelo/a Artigo 1.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 9.º — Poderes complementares
 
@@ -724,7 +780,7 @@ b) Participar nas comissões da Assembleia Legislativa em função do número do
 
 c) Ser ouvido na fixação da ordem do dia e interpor recurso para o Plenário da ordem do dia fixada;
 
-d) Requerer, com a presença do Governo, o debate de questões de interesse público actual e urgente nos termos previstos no artigo 206.º do Regimento;
+d) Requerer, com a presença do Governo, debates de urgência, nos termos previstos no artigo 206.º do Regimento;
 
 e) Determinar a ordem do dia de um certo número de reuniões, nos termos do artigo 66.º do Regimento;
 
@@ -738,27 +794,33 @@ i) Requerer a constituição de comissões eventuais;
 
 j) Requerer o processamento de urgência de projectos ou propostas;
 
-l) Requerer a apreciação das contas da Região;
+k) Requerer a apreciação das contas da Região;
 
-m) Requerer a interrupção da reunião plenária, nos termos regimentais;
+l) Requerer a interrupção da reunião plenária, nos termos regimentais;
 
-n) Ser informado pelo Governo Regional, regular e directamente, sobre o andamento dos principais assuntos de interesse público nos termos do Estatuto da Região;
+m) Ser informado pelo Governo Regional, regular e directamente, sobre o andamento dos principais assuntos de interesse público nos termos do Estatuto da Região;
 
-o) Apresentar propostas de moção.
+n) Apresentar propostas de moção.
 
 2 - Cada grupo parlamentar tem direito a dispor de locais de trabalho na sede da Assembleia Legislativa ou fora dela, bem como de pessoal técnico e administrativo da sua confiança.
 
+> Alterado pelo/a Artigo 1.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
+
 ###### Artigo 13.º — Extensão dos poderes de grupo parlamentar
 
-Ao deputado que seja único representante de um partido ou aos deputados eleitos por um partido que não se constituam em grupo parlamentar são atribuídos os poderes enunciados nas alíneas a), b), c), d), e), j) e l) do n.º 1 e no n.º 2 do artigo anterior.
+Ao deputado que seja único representante de um partido são atribuídos os poderes enunciados nas alíneas a), b), c), d), e), j) e k) do n.º 1 e no n.º 2 do artigo anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 14.º — Direitos dos grupos parlamentares e partidos da oposição
 
 Os partidos políticos representados na Assembleia Legislativa e que não façam parte do Governo Regional gozam ainda dos direitos da oposição consagrados no Estatuto e na lei, designadamente o de serem informados sobre o andamento dos principais assuntos de interesse público.
 
-###### Artigo 15.º — Deputados independentes
+###### Artigo 15.º — Deputados não inscritos
 
-Os deputados que não integrem qualquer grupo parlamentar ou não sejam únicos representantes de partido comunicarão o facto ao Presidente da Assembleia Legislativa e exercem o mandato como independentes.
+Os deputados que não integrem qualquer grupo parlamentar e não sejam únicos representantes de partido, comunicam o facto ao Presidente da Assembleia Legislativa e exercem o mandato como deputados não inscritos.
+
+> Alterado pelo/a Artigo 1.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ## TÍTULO II — Organização da Assembleia Legislativa
 
@@ -836,25 +898,31 @@ i) Presidir à Conferência dos Representantes dos Grupos Parlamentares, previst
 
 j) Mandar publicar no Diário da República as resoluções e as moções aprovadas pela Assembleia Legislativa;
 
-l) Assegurar a ordem e disciplina, bem como a segurança da Assembleia Legislativa, podendo para isso requisitar e usar os meios necessários, tomando as medidas que entender convenientes;
+k) Assegurar a ordem e disciplina, bem como a segurança da Assembleia Legislativa, podendo para isso requisitar e usar os meios necessários, tomando as medidas que entender convenientes;
 
-m) Ordenar as rectificações ao Diário;
+l) Ordenar as rectificações ao Diário;
 
-n) Apreciar a regularidade das candidaturas apresentadas pelos deputados para cargos electivos, bem como anunciar os resultados da eleição e proclamar os candidatos eleitos;
+m) Apreciar a regularidade das candidaturas apresentadas pelos deputados para cargos electivos, bem como anunciar os resultados da eleição e proclamar os candidatos eleitos;
 
-o) Dinamizar a constituição dos grupos parlamentares de amizade, das comissões mistas interparlamentares e de outros organismos que se ocupem do diálogo da Assembleia Legislativa com as Regiões amigas da Madeira, acompanhar e incentivar os respectivos trabalhos e velar pelo cumprimento dos regulamentos sobre a matéria;
+n) Dinamizar a constituição dos grupos parlamentares de amizade, das comissões mistas interparlamentares e de outros organismos que se ocupem do diálogo da Assembleia Legislativa com as Regiões amigas da Madeira, acompanhar e incentivar os respectivos trabalhos e velar pelo cumprimento dos regulamentos sobre a matéria;
 
-p) Convocar os presidentes das comissões e das subcomissões para se inteirar dos respectivos trabalhos;
+o) Convocar os presidentes das comissões e das subcomissões para se inteirar dos respectivos trabalhos;
 
-q) Em geral, assegurar o cumprimento do Regimento e das deliberações da Assembleia Legislativa.
+p) Em geral, assegurar o cumprimento do Regimento e das deliberações da Assembleia Legislativa.
 
-2 - Compete ao Presidente da Assembleia Legislativa, ouvida a Conferência dos Representantes dos Grupos Parlamentares:
+q) Recusar a admissão e consequente envio para o Plenário de requerimentos, votos ou resoluções que considerar injuriosos ou difamatórios de pessoas e instituições.
+
+2 - Do despacho de recusa da admissão da alínea q) do n.º 1, e envio para o Plenário, cabe recurso para a Conferência dos Representantes dos Partidos.
+
+3 - Compete ao Presidente da Assembleia Legislativa, ouvida a Conferência dos Representantes dos Grupos Parlamentares:
 
 a) Estabelecer protocolos de acordo e de assistência com as universidades;
 
 b) Superintender o portal da Assembleia Legislativa na Internet e as imagens difundidas no sistema de vídeo do Parlamento.
 
-3 - O Presidente da Assembleia Legislativa pode delegar nos Vice-Presidentes o exercício dos seus poderes e competências, por despacho publicado no Diário da Assembleia Legislativa da Madeira.
+4 - O Presidente da Assembleia Legislativa pode delegar nos Vice-Presidentes o exercício dos seus poderes e competências, por despacho publicado no Diário da Assembleia Legislativa da Madeira.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 21.º — Competência quanto às reuniões plenárias
 
@@ -918,25 +986,27 @@ j) Chefiar as deputações da Assembleia Legislativa de que faça parte.
 
 ##### DIVISÃO III — Conferência dos Representantes dos Grupos Parlamentares
 
-###### Artigo 24.º — Conferência dos Representantes dos Grupos Parlamentares
+###### Artigo 24.º — Conferência dos Representantes do Partidos
 
-1 - A reunião dos representantes dos partidos com assento parlamentar, adiante designada por Conferência dos Representantes dos Grupos Parlamentares, é composta pelo presidente dos grupos parlamentares ou seus substitutos.
+1 - A reunião dos representantes dos partidos com assento parlamentar, é composta pelos presidentes dos grupos parlamentares ou seus substitutos e pelos deputados constituídos em representação parlamentar.
 
-2 - O Presidente da Assembleia Legislativa convoca a Conferência dos Representantes dos Grupos Parlamentares para lhes dar conhecimento e apreciar sobre os assuntos previstos na alínea b) do artigo 20.º e outros previstos no Regimento, e sempre que o entenda necessário para o regular funcionamento da Assembleia Legislativa.
+2 - O Presidente da Assembleia Legislativa convoca a Conferência dos Representantes dos Partidos para lhes dar conhecimento e apreciar sobre os assuntos previstos na alínea b) do artigo 20.º e outros previstos no Regimento, e sempre que o entenda necessário para o regular funcionamento da Assembleia Legislativa.
 
-3 - O Governo Regional tem direito a fazer-se representar na Conferência dos Representantes dos Grupos Parlamentares e a intervir nos assuntos que não se relacionem exclusivamente com a Assembleia Legislativa, a seu pedido ou a solicitação da Assembleia Legislativa.
+3 - O Governo Regional tem direito a fazer-se representar na Conferência dos Representantes dos Partidos e a intervir nos assuntos que não se relacionem exclusivamente com a Assembleia Legislativa, a seu pedido ou a solicitação da Assembleia Legislativa.
 
-4 - Os representantes dos grupos parlamentares têm na Conferência dos Representantes dos Grupos Parlamentares um número de votos igual ao número dos deputados que representam.
+4 - Os representantes dos grupos parlamentares têm na Conferência dos Representantes dos Partidos um número de votos igual ao número dos deputados que representam.
 
-5 - As decisões da Conferência dos Representantes dos Grupos Parlamentares, na falta de consenso, são tomadas por maioria, estando representada a maioria absoluta dos deputados em efectividade de funções.
+5 - As decisões da Conferência dos Representantes dos Partidos, na falta de consenso, são tomadas por maioria, estando representada a maioria absoluta dos deputados em efetividade de funções.
 
-6 - A Conferência dos Representantes pode fixar, nos termos do n.º 1 do artigo 146.º do Regimento, um tempo global para a discussão e apreciação de quaisquer iniciativas legislativas ou de resolução, sendo o tempo distribuído proporcionalmente entre os grupos parlamentares, em função do respectivo número de deputados.
+6 - A Conferência dos Representantes dos Partidos pode fixar, nos termos do n.º 1 do artigo 146.º do Regimento, um tempo global para a discussão e apreciação de quaisquer iniciativas legislativas ou de resolução.
 
-7 - No caso de a Conferência dos Representantes deliberar nos termos do número anterior, é garantido aos deputados únicos representantes de partido um tempo mínimo de intervenção que nunca pode ser inferior a cinco minutos.
+7 - (Revogado.)
 
 8 - Quando a Conferência dos Representantes deliberar nos termos do precedente n.º 6, apenas o uso da palavra para efeitos do disposto nos artigos 88.º, 89.º e 91.º do Regimento não é considerado nos tempos atribuídos a cada grupo parlamentar e aos deputados únicos representantes de partido.
 
-9 - Para efeito do disposto no artigo 13.º do Regimento, o Presidente da Assembleia procede à audição dos deputados únicos representantes de partido, com vinte e quatro horas de antecedência, sobre a ordem do dia que irá propor à Conferência dos Representantes dos Grupos Parlamentares.
+9 - (Revogado.)
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 #### SECÇÃO II — Mesa
 
@@ -958,11 +1028,13 @@ j) Chefiar as deputações da Assembleia Legislativa de que faça parte.
 
 1 - Os Secretários e Vice-Secretários são eleitos por sufrágio de lista completa e nominativa, proposta pelo mínimo de 5 e o máximo de 15 deputados, com declaração de anuência dos candidatos, considerando-se eleita a lista que obtiver a maioria absoluta dos votos dos deputados em efectividade de funções.
 
-2 - Os Vice-Presidentes propostos pelo maior grupo parlamentar serão eleitos por sufrágio de lista completa e nominativa, proposta por um mínimo de 5 e o máximo de 15 deputados, com declaração de anuência dos candidatos, com a maioria absoluta dos votos dos deputados em efectividade de funções.
+2 - Os Vice-Presidentes são eleitos em lista própria e nominativa, com a declaração de anuência dos candidatos, sob proposta de um mínimo de cinco e máximo de 15 deputados, com a maioria absoluta dos votos dos deputados em efetividade de funções.
 
 3 - O Vice-Presidente proposto pelo segundo maior grupo parlamentar será eleito, com declaração de anuência do candidato, sob proposta de um mínimo de 5 e máximo de 15 deputados, com a maioria absoluta dos votos dos deputados em efectividade de funções.
 
 4 - Logo que eleita a Mesa, o Presidente da Assembleia Legislativa comunica a sua composição ao Representante da República.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 27.º — Mandato
 
@@ -1044,7 +1116,9 @@ A Mesa mantém-se em funções até ao início da nova legislatura.
 
 1 - A composição das comissões deverá, no conjunto, ser repartida pelos grupos parlamentares e partidos em proporção com o número dos seus deputados, através da aplicação do método da média mais alta de Hondt.
 
-2 - O número de membros de cada comissão e a sua distribuição pelos diversos partidos são fixados por deliberação da Assembleia Legislativa, sob proposta do Presidente, ouvida a Conferência dos Representantes dos Grupos Parlamentares.
+2 - O número de membros de cada comissão e a sua distribuição pelos diversos partidos são fixados por deliberação da Assembleia Legislativa, sob proposta do Presidente, ouvida a Conferência dos Representantes dos Partidos, salvaguardando o direito de cada partido, a participar no mínimo numa Comissão.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 34.º — Subcomissões
 
@@ -1066,21 +1140,25 @@ A Mesa mantém-se em funções até ao início da nova legislatura.
 
 2 - Se algum grupo parlamentar ou partido não quiser ou não puder indicar representantes, não haverá lugar ao preenchimento das vagas por deputados de outros partidos.
 
-3 - Nenhum deputado pode ser indicado para mais de duas comissões especializadas permanentes.
+3 - Nenhum deputado pode ser indicado para mais de três comissões especializadas permanentes.
 
 4 - Podem ser indicados suplentes a todo o tempo e, na sua falta ou impedimento, os membros das comissões podem fazer-se substituir ocasionalmente por outros deputados do mesmo grupo.
 
 5 - Os deputados independentes indicam as opções sobre as comissões que desejem integrar e o Presidente da Assembleia Legislativa, ouvida a Conferência dos Representantes dos Grupos Parlamentares, designa aquela ou aquelas a que o deputado deve pertencer, acolhendo, na medida do possível, as opções apresentadas.
 
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
+
 ###### Artigo 36.º — Exercício das funções
 
-1 - O mandato dos representantes na Comissão Permanente, Comissão de Regimento e Mandatos e nas comissões especializadas permanentes manter-se-á até ao início da sessão legislativa seguinte.
+1 - O mandato dos representantes na Comissão Permanente, Comissão de Regimento e Mandatos e nas comissões especializadas permanentes mantém-se por legislatura.
 
 2 - Perde a qualidade de membro da comissão o deputado que deixe de pertencer ao grupo parlamentar pelo qual foi indicado, se este o requerer, ou que exceda o número regimental de faltas às respectivas reuniões.
 
 3 - Compete aos presidentes das comissões julgar as justificações das faltas dos seus membros, nos termos do artigo 7.º
 
 4 - O grupo parlamentar ou partido a que o deputado pertencer pode promover a sua substituição ou retirada, a todo o tempo.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 37.º — Presidência e Mesa das Comissões
 
@@ -1186,25 +1264,55 @@ a) Apreciar e dar parecer sobre os projectos e as propostas de lei, propostas de
 
 b) Votar na especialidade os textos aprovados no Plenário, nos termos e nos limites regimentais;
 
-c) Apreciação e votação dos projectos ou propostas de resolução, nos termos do disposto no artigo 164.º-A;
+c) Acompanhar e apreciar nos termos da Constituição e do Estatuto a participação da Região no processo de construção europeia;
 
-d) Acompanhar e apreciar nos termos da Constituição e do Estatuto a participação da Região no processo de construção europeia;
+d) Solicitar a participação dos membros do Governo Regional nos seus trabalhos, devendo estes comparecer quando tal seja requerido;
 
-e) Solicitar a participação dos membros do Governo Regional nos seus trabalhos, devendo estes comparecer quando tal seja requerido;
+e) Solicitar os depoimentos de quaisquer associações, instituições ou cidadãos, os quais poderão ser prestados por escrito, se os mesmos não residirem na Região;
 
-f) Solicitar os depoimentos de quaisquer associações, instituições ou cidadãos, os quais poderão ser prestados por escrito, se os mesmos não residirem na Região;
+f) Apreciar as petições dirigidas à Assembleia Legislativa;
 
-g) Apreciar as petições dirigidas à Assembleia Legislativa;
+g) Inteirar-se dos problemas políticos e administrativos que sejam do seu âmbito e fornecer à Assembleia Legislativa, quando esta o julgue conveniente, os elementos necessários à apreciação dos actos do Governo Regional e da administração pública regional autónoma;
 
-h) Inteirar-se dos problemas políticos e administrativos que sejam do seu âmbito e fornecer à Assembleia Legislativa, quando esta o julgue conveniente, os elementos necessários à apreciação dos actos do Governo Regional e da administração pública regional autónoma;
+h) Verificar o cumprimento pelo Governo Regional e pela administração pública regional autónoma das leis e resoluções da Assembleia Legislativa, podendo sugerir a esta as medidas consideradas convenientes;
 
-i) Verificar o cumprimento pelo Governo Regional e pela administração pública regional autónoma das leis e resoluções da Assembleia Legislativa, podendo sugerir a esta as medidas consideradas convenientes;
+i) Pronunciar-se sobre questões da competência dos órgãos de soberania que digam respeito à Região, por iniciativa dos deputados regionais ou por solicitação daqueles órgãos;
 
-j) Pronunciar-se sobre questões da competência dos órgãos de soberania que digam respeito à Região, por iniciativa dos deputados regionais ou por solicitação daqueles órgãos;
+j) Pronunciar-se sobre as matérias que lhe sejam submetidas nos termos da alínea i) do n.º 1 do artigo 36.º do Estatuto da Região;
 
-l) Pronunciar-se sobre as matérias que lhe sejam submetidas nos termos da alínea i) do n.º 1 do artigo 36.º do Estatuto da Região;
+k) Em geral, pronunciar-se sobre todos os problemas submetidos à sua apreciação pela Assembleia Legislativa ou pelo Presidente.
 
-m) Em geral, pronunciar-se sobre todos os problemas submetidos à sua apreciação pela Assembleia Legislativa ou pelo Presidente.
+l) Elaborar um relatório anual sobre a atividade desenvolvida.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
+
+###### Artigo 41.º-A — Relatórios
+
+1 - Os relatórios das Comissões Especializadas Permanentes têm por objetivo informar e habilitar o Plenário a uma adequada análise, conhecimento, discussão e decisão e deverão nas situações previstas na alínea a) do artigo 41.º do Regimento, conter o seguinte:
+
+a) Análise sucinta dos factos, situações e realidades que lhes respeitem;
+
+b) Esboço histórico e enquadramento histórico dos problemas suscitados;
+
+c) Enquadramento legal e doutrinário do tema em apreciação;
+
+d) Consequências previsíveis da aprovação e dos eventuais encargos financeiros e orçamentais ou outros, com a respetiva aplicação;
+
+e) Eventual legislação a revogar, bem como da necessidade ou não de ulterior desenvolvimento normativo;
+
+f) Referência aos contributos das associações patronais, sindicais ou outras entidades que tenham interesse nas matérias em questão, indicando se for o caso, aquelas que, segundo a lei, sejam objeto de consulta obrigatória;
+
+g) Conclusões e parecer;
+
+h) Posição sumária dos grupos, representações parlamentares ou deputados que a integram, face à matéria em análise e resumo dos respetivos argumentos;
+
+i) Se houve audição ou pronúncia de outras Comissões;
+
+j) Outros assuntos ou factos de relevante interesse para os objetivos do relatório;
+
+2 - Os relatórios têm a indicação da iniciativa ou matéria e são assinados pelo relator e pelo Presidente da Comissão.
+
+> Aditado pelo/a Artigo 3.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ##### DIVISÃO II — Comissões eventuais
 
@@ -1262,23 +1370,33 @@ i) Proceder à emissão de votos de congratulação, louvor, saudação, protest
 
 ###### Artigo 47.º — Representações e deputações
 
-1 - As representações e deputações da Assembleia Legislativa devem respeitar os princípios estabelecidos nos artigos 33.º e 35.º do Regimento.
+1 - As representações e deputações da Assembleia Legislativa devem respeitar os princípios estabelecidos nos artigos 33.º e 35.º, podendo ser equitativamente reduzidas por despacho do Presidente, ouvida a Conferência dos Representantes dos Partidos, caso os fins e objetivos da deslocação e os custos da mesma o justifiquem, assegurando, sempre que possível, a pluralidade parlamentar.
 
-2 - Compete à Conferência dos Representantes dos Grupos Parlamentares promover a constituição das representações e deputações parlamentares, acompanhar e incentivar os respectivos trabalhos e velar para que contribuam para a visibilidade externa e para o prestígio da Assembleia e da Região.
+2 - Compete à Conferência dos Representantes dos Partidos promover a constituição das representações e deputações parlamentares, acompanhar e incentivar os respetivos trabalhos e velar para que contribuam para a visibilidade externa e para o prestígio da Assembleia e da Região.
 
-3 - Quando as representações ou deputações não possam incluir representantes de todos os partidos, a sua composição é fixada pela Conferência dos Representantes dos Grupos Parlamentares.
+3 - Quando as representações ou deputações não possam incluir representantes de todos os partidos, a sua composição será fixada pela Conferência dos Representantes dos Partidos.
 
 4 - Finda a missão, as representações e deputações da Assembleia Legislativa elaboram, quando tal se justificar, um relatório com as informações necessárias à avaliação das suas finalidades, podendo o mesmo ser apresentado ao Plenário, se tal for entendido pela Conferência dos Representantes dos Grupos Parlamentares.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ### CAPÍTULO V — Designação de titulares de cargos exteriores à Assembleia Legislativa
 
 ###### Artigo 48.º — Sistema de eleição
 
-1 - Os titulares de cargos exteriores à Assembleia Legislativa, por esta designados, são eleitos mediante a apresentação de listas uninominais, a propor pelos grupos parlamentares ao Presidente da Assembleia Legislativa, acompanhadas da declaração de aceitação do candidato.
+1 - Os titulares de cargos exteriores à Assembleia Legislativa, por esta designados, são eleitos mediante a apresentação de listas uninominais tendo em conta o pluralismo parlamentar, propostas pelos grupos parlamentares ao Presidente da Assembleia Legislativa, acompanhadas da declaração de aceitação do candidato.
 
 2 - É eleito o candidato que obtiver mais votos.
 
 3 - A eleição faz-se por votação secreta e em Plenário.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
+
+###### Artigo 48.º-A — Informação dos trabalhos
+
+Os titulares de cargos exteriores à Assembleia Legislativa, devem apresentar um relatório ou prestar informações do trabalho realizado, anualmente e em Comissão.
+
+> Aditado pelo/a Artigo 3.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ## TÍTULO III — Funcionamento
 
@@ -1332,11 +1450,17 @@ Durante o funcionamento normal da Assembleia Legislativa pode esta suspender as 
 
 3 - Quando o termo de qualquer prazo recair em sábado, domingo, feriado, ou dia de luto nacional ou decretado pela Região Autónoma da Madeira, será transferido para o dia parlamentar seguinte.
 
+4 - As faltas dos deputados às reuniões do Plenário devem ser publicitadas no portal da Assembleia Legislativa da Madeira na internet.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
+
 ###### Artigo 56.º — Convocação de reuniões
 
-1 - Salvo marcação nas reuniões anteriores, as reuniões do Plenário e das comissões serão convocadas pelos respectivos presidentes com a antecedência mínima de quarenta e oito horas.
+1 - Salvo marcação nas reuniões anteriores, as reuniões do Plenário são convocadas pelo Presidente da Mesa, com a antecedência mínima de quarenta e oito horas.
 
 2 - A convocação será feita por qualquer meio de comunicação que assegure o seu efectivo conhecimento e publicidade.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 57.º — Funcionamento do Plenário e das comissões
 
@@ -1360,13 +1484,15 @@ As comissões não poderão reunir durante o funcionamento do Plenário, salvo q
 
 1 - A ordem do dia é fixada pelo Presidente da Assembleia Legislativa com a antecedência mínima de quarenta e oito horas, de acordo com as prioridades definidas no Regimento.
 
-2 - Antes da fixação da ordem do dia, o Presidente da Assembleia Legislativa ouve, a título indicativo, a Conferência dos Representantes dos Grupos Parlamentares, que, na falta de consenso, decide nos termos dos n.os 4 e 5 do artigo 24.º
+2 - Antes da fixação da ordem do dia, o Presidente da Assembleia Legislativa ouve, a título indicativo, a Conferência dos Representantes dos Partidos, que, na falta de consenso, decide nos termos dos n.os 4 e 5 do artigo 24.º
 
 3 - Das decisões do Presidente da Assembleia Legislativa que fixem a ordem do dia cabe recurso para o Plenário, que delibera em definitivo.
 
 4 - O recurso da decisão do Presidente da Assembleia Legislativa que fixa a ordem do dia é votado sem precedência de debate.
 
-5 - A ordem do dia será afixada em lugar público, nas instalações da Assembleia Legislativa, após a sua fixação definitiva, e distribuída em folhas avulsas aos grupos parlamentares e ao deputado único representante de partido.
+5 - A ordem do dia será afixada em lugar público, nas instalações da Assembleia Legislativa, após a sua fixação definitiva, e distribuída aos grupos parlamentares e ao deputado único representante de partido.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 61.º — Garantia de estabilidade da ordem do dia
 
@@ -1398,19 +1524,25 @@ i) Impugnações de normas jurídicas com fundamento em inconstitucionalidade ou
 
 j) Apreciação e aprovação das Contas da Região;
 
-l) Aprovação de decretos legislativos regionais;
+k) Segunda deliberação de decretos vetados politicamente pelo Representante da República, nos termos do artigo 233.º da Constituição;
 
-m) Segunda deliberação de decretos vetados politicamente pelo Representante da República, nos termos do artigo 233.º da Constituição;
+l) Projetos e propostas de decretos legislativos regionais;
 
-n) Pedidos de autorização legislativa à Assembleia da República;
+m) Pedidos de autorização legislativa à Assembleia da República;
 
-o) Deliberação sobre inquéritos parlamentares e poderes de instrução das comissões;
+n) Deliberação sobre inquéritos parlamentares e poderes de instrução das comissões;
 
-p) Designação dos representantes da Região cuja eleição caiba à Assembleia Legislativa;
+o) Designação dos representantes da Região cuja eleição caiba à Assembleia Legislativa;
 
-q) Votação final global das resoluções.
+p) Projetos e propostas de resoluções.
 
 2 - Dentro de cada uma das matérias, a ordem do dia será fixada segundo a precedência temporal da apresentação.
+
+3 - Para além do critério fixado no número anterior, cada grupo parlamentar ou deputado constituído em representação parlamentar, terá direito ao agendamento plenário semanal mínimo de uma iniciativa legislativa ou resoluções, com prioridade sobre as demais e de forma rotativa e por ordem decrescente de todas as representações parlamentares.
+
+4 - Caso existam iniciativas de urgência ou do Governo Regional, estas terão precedência relativamente às constantes do n.º 3.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 63.º — Prioridade absoluta na fixação da ordem do dia
 
@@ -1450,35 +1582,43 @@ c) Com mais de 16 deputados, três reuniões.
 
 1 - Os membros do Governo Regional têm assento nas reuniões da Assembleia Legislativa e o direito ao uso da palavra para efeito de apresentação de comunicação, de intervenção e de prestação de esclarecimentos.
 
-2 - O Governo Regional pode tomar a iniciativa de promover um debate parlamentar sobre assunto de relevante interesse regional.
+2 - O Governo Regional pode tomar a iniciativa de promover um debate parlamentar sobre assunto de relevante interesse regional ou um debate de urgência.
 
-3 - A Assembleia Legislativa poderá fixar ordem do dia exclusivamente destinada aos membros do Governo Regional responderem às perguntas e aos pedidos de esclarecimento dos deputados, nos termos da alínea h) do n.º 1 do artigo 8.º e dos artigos 198.º e seguintes do Regimento.
+3 - (Revogado.)
 
-4 - O dia e hora das reuniões previstas no número anterior serão fixados por acordo entre o Presidente da Assembleia Legislativa e o Presidente do Governo.
+4 - (Revogado.)
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 68.º — Apreciação de outras matérias
 
-O Presidente da Assembleia Legislativa incluirá na primeira parte da ordem do dia prevista no n.º 2 do artigo 82.º a apreciação das seguintes matérias:
+O Presidente da Assembleia Legislativa inclui na primeira parte da ordem do dia prevista no n.º 2 do artigo 82.º a apreciação das seguintes matérias:
 
-a) Deliberações sobre o mandato de deputado;
+a) Mensagens do Presidente da República à Assembleia;
 
-b) Recursos de decisões do Presidente;
+b) Segunda deliberação de decretos legislativos regionais sobre os quais o Representante da República tenha emitido veto;
 
-c) Eleições suplementares da Mesa;
+c) Deliberações sobre o mandato de deputado;
 
-d) Constituição de comissões, representações e deputações;
+d) Recursos de decisões do Presidente;
 
-e) Comunicações das comissões;
+e) Eleições suplementares da Mesa;
 
-f) Recursos nos termos dos artigos 134.º e 158.º do Regimento e determinações da comissão competente nos termos do artigo 137.º;
+f) Constituição de comissões, representações e deputações;
 
-g) Inquéritos nos termos dos artigos 217.º e 221.º;
+g) Comunicações das comissões;
 
-h) Alterações do Regimento;
+h) Recursos nos termos dos artigos 134.º e 158.º do Regimento e determinações da comissão competente nos termos do artigo 137.º;
 
-i) Designação de titulares de cargos exteriores à Assembleia Legislativa;
+i) Inquéritos nos termos dos artigos 217.º e 221.º;
 
-j) Outras matérias sobre as quais a Assembleia Legislativa deva pronunciar-se, não compreendidas nas prioridades fixadas nas alíneas anteriores.
+j) Alterações do Regimento;
+
+k) Designação de titulares de cargos exteriores à Assembleia Legislativa;
+
+l) Outras matérias sobre as quais a Assembleia Legislativa deva pronunciar-se, não compreendidas nas prioridades fixadas nas alíneas anteriores.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ### CAPÍTULO III — Reuniões plenárias
 
@@ -1524,11 +1664,13 @@ d) Exercício do direito de interrupção pelos grupos parlamentares;
 
 e) Garantia do bom andamento dos trabalhos.
 
-###### Artigo 74.º — Direito de interrupção dos grupos parlamentares
+###### Artigo 74.º — Direito de interrupção
 
 1 - Qualquer grupo parlamentar pode requerer a interrupção das reuniões plenárias, a qual não poderá ser recusada pelo Presidente da Assembleia Legislativa, se esse direito ainda não tiver sido exercido durante a mesma reunião.
 
-2 - A interrupção a que se refere o número anterior não pode exceder cinco minutos quando requerida por grupos parlamentares com menos de um décimo dos deputados, nem dez minutos quando se trate de grupo parlamentar com mais de um décimo de deputados.
+2 - A interrupção não pode exceder dez minutos quando requerida por grupos parlamentares, nem cinco minutos quando requerida por deputado único, representante de partido.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 75.º — Período das reuniões
 
@@ -1546,21 +1688,23 @@ c) Declarações políticas, nos termos do n.º 4 do artigo 78.º;
 
 d) Ao tratamento pelos deputados de assuntos de interesse político relevante;
 
-e) À emissão de votos de congratulação, louvor, saudação, protesto ou pesar;
+e) À emissão de votos de congratulação, solidariedade, louvor, saudação, protesto ou pesar;
 
 f) Apresentação de relatórios de representações e deputações.
 
 2 - O período de antes da ordem do dia não excederá quarenta e sete minutos, salvo o disposto no artigo 79.º
 
-3 - O período de antes da ordem do dia será composto por duas partes, em cada uma das quais serão tratados os seguintes assuntos:
+3 - O período de antes da ordem do dia, é composto por duas partes, em cada uma das quais são tratados os seguintes assuntos:
 
-a) Na primeira parte, de duração não superior a trinta e três minutos, os assuntos definidos nas alíneas a), c) e d) do n.º 1;
+a) Na primeira parte, os assuntos definidos nas alíneas a), b), c) e d) do n.º 1, não podendo exceder trinta e um minutos;
 
-b) Na segunda parte, no tempo remanescente, os assuntos referidos na alíneas e) e f) do n.º 1, quando os houver.
+b) Na segunda parte, os assuntos referidos na alíneas e) e f) do n.º 1, quando os houver.
 
 4 - O tempo de uso da palavra para comunicações ao Plenário por parte de membros do Governo Regional, bem como do debate que venham a suscitar, não conta para a determinação do tempo previsto no n.º 2, não podendo no entanto o debate exceder vinte minutos, nem o período de antes da ordem do dia prolongar-se para além do previsto no n.º 2 do artigo 79.º
 
-5 - Nos casos referidos no Regimento ou por deliberação da Conferência dos Representantes dos Grupos Parlamentares ou do Plenário, sem votos contra, poderá ser reduzido ou eliminado o período de antes da ordem do dia.
+5 - Nos casos referidos no Regimento, ou por deliberação da Conferência dos Representantes dos Partidos ou do Plenário, sem votos contra, pode ser reduzido ou eliminado o período de antes da ordem do dia.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 77.º — Expediente e informação
 
@@ -1612,19 +1756,15 @@ g) À comunicação de qualquer decisão do Presidente da Assembleia Legislativa
 
 ###### Artigo 81.º — Emissão de voto
 
-1 - Os votos de congratulação, louvor, saudação, protesto e pesar, podem ser propostos pela Mesa, pelos grupos parlamentares ou por deputados.
+1 - Os votos de congratulação, solidariedade, louvor, saudação, protesto e pesar, podem ser propostos pela Mesa, pelos grupos parlamentares ou por deputados.
 
 2 - O deputado ou os deputados que queiram propor qualquer voto devem entregar até vinte e quatro horas antes da hora marcada para o próximo Plenário, nos serviços da Assembleia, para efeitos de distribuição aos partidos. Só serão considerados dias úteis.
 
 3 - Apresentado à Assembleia Legislativa o texto da proposta de voto, pela Mesa ou por um dos deputados subscritores, poderá usar da palavra para discussão um deputado de cada partido pelo período máximo de dois minutos, procedendo-se seguidamente à votação, sem admissão de pedidos de esclarecimento.
 
-4 - O partido que não se tenha pronunciado durante a discussão poderá fazer uma declaração de voto oral de duração não superior a dois minutos.
+4 - Em casos excepcionais, pode o Plenário deliberar que os votos, apesar de entrarem fora do prazo previsto no n.º 2, sejam discutidos de imediato.
 
-5 - Em casos excepcionais, pode o Plenário deliberar que os votos, apesar de entrarem fora do prazo previsto no n.º 2, sejam discutidos de imediato.
-
-6 - A Mesa pode recusar a admissão e consequente envio para o Plenário de votos que considerar jocosos, injuriosos ou difamatórios de pessoas e instituições.
-
-7 - Do despacho de recusa da admissão e envio para o Plenário, cabe recurso para a Conferência dos Representantes dos Grupos Parlamentares.
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 82.º — Período da ordem do dia
 
@@ -1652,7 +1792,7 @@ c) Exercer o direito de defesa, nos casos previstos nos artigos 2.º e 5.º;
 
 d) Participar nos debates;
 
-e) Fazer perguntas ao Governo Regional sobre quaisquer actos deste ou da administração pública regional autónoma;
+e) Fazer perguntas e elaborar uma reformulação ao Governo Regional sobre quaisquer atos deste ou da administração pública regional autónoma;
 
 f) Invocar o Regimento ou interpelar a Mesa;
 
@@ -1664,21 +1804,25 @@ i) Pedir ou dar explicações ou esclarecimentos;
 
 j) Formular declarações de voto;
 
-l) Reagir contra ofensas à honra ou consideração ou dar explicações nos termos do artigo 91.º
+k) Reagir contra ofensas à honra ou consideração ou dar explicações nos termos do artigo 91.º
 
 2 - A palavra será dada pela ordem das inscrições, salvo no caso de exercício do direito de defesa e no período de antes da ordem do dia, em que se observará o disposto no artigo 78.º
 
-3 - É autorizada, a todo o tempo, a troca entre quaisquer oradores inscritos.
+3 - A reformulação de uma pergunta ou esclarecimento tem precedência sobre os demais oradores inscritos;
+
+4 - É autorizada, a todo o tempo, a troca entre quaisquer oradores inscritos.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 85.º — Uso da palavra pelos membros do Governo
 
-A palavra será concedida aos membros do Governo Regional para:
+A palavra é concedida aos membros do Governo Regional para:
 
 a) Apresentar antepropostas de lei, propostas de decreto legislativo regional, de resolução e de moção e propostas de alteração ou qualquer comunicação;
 
 b) Participar nos debates;
 
-c) Responder a perguntas de deputados por quaisquer actos do Governo Regional ou da administração pública regional;
+c) Responder a perguntas dos deputados sobre quaisquer atos do Governo Regional ou da administração pública regional e à sua reformulação;
 
 d) Invocar o Regimento ou interpelar a Mesa;
 
@@ -1687,6 +1831,8 @@ e) Pedir ou dar explicações ou esclarecimentos nos termos do artigo 92.º;
 f) Reagir contra ofensas à honra ou consideração ou dar explicações, nos termos do artigo 91.º;
 
 g) Fazer protestos.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 86.º — Uso da palavra no exercício do direito de defesa
 
@@ -1712,7 +1858,7 @@ O deputado que exercer o direito de defesa, nos termos dos artigos 2.º e 5.º d
 
 ###### Artigo 89.º — Requerimentos
 
-1 - São considerados requerimentos apenas os pedidos dirigidos à Mesa respeitantes ao processo de apresentação, discussão e votação de qualquer assunto ou ao funcionamento de reunião.
+1 - São considerados requerimentos apenas os pedidos dirigidos à Mesa respeitantes ao processo de apresentação, discussão de qualquer assunto ou ao funcionamento de reunião.
 
 2 - Os requerimentos podem ser formulados por escrito ou oralmente.
 
@@ -1720,13 +1866,17 @@ O deputado que exercer o direito de defesa, nos termos dos artigos 2.º e 5.º d
 
 4 - Os requerimentos orais, assim como a leitura dos requerimentos escritos, se pedida, não podem exceder dois minutos.
 
-5 - Admitidos os requerimentos, nos termos da alínea c) do artigo 20.º, serão imediatamente votados sem discussão.
+5 - Admitidos os requerimentos, sobre o funcionamento da reunião, os mesmos são imediatamente votados sem discussão.
 
-6 - A votação dos requerimentos é feita pela ordem da sua apresentação.
+6 - Os requerimentos respeitantes ao processo de apresentação, discussão de qualquer assunto, são votados nos termos do número três do artigo 69.º
 
-7 - Não são admitidas declarações de voto orais.
+7 - A votação dos requerimentos é feita pela ordem da sua apresentação.
 
-8 - Apenas o uso da palavra para efeitos do disposto nos artigos 88.º, 90.º e 91.º do Regimento não é considerado nos tempos globais referidos nos números anteriores.
+8 - Não são admitidas declarações de voto orais.
+
+9 - Apenas o uso da palavra para efeitos do disposto nos artigos 88.º, 90.º e 91.º do Regimento não é considerado nos tempos globais referidos nos números anteriores.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 90.º — Recursos e protestos
 
@@ -1764,11 +1914,13 @@ O deputado que exercer o direito de defesa, nos termos dos artigos 2.º e 5.º d
 
 2 - Os deputados que queiram formular pedidos de esclarecimento devem inscrever-se até findar a intervenção que os suscitou, sendo formulados e respondidos pela ordem de inscrição.
 
-3 - O orador interrogante e o orador respondente dispõem de dois minutos por cada intervenção, não podendo, porém, o orador respondente acumular tempos de resposta por período superior a seis minutos se não desejar usar da palavra a seguir a cada orador interrogante.
+3 - O orador interrogante e o orador respondente dispõem de um máximo de dois minutos por cada intervenção, não podendo, porém, o orador respondente acumular mais de três pedidos de esclarecimento.
 
 4 - O tempo previsto no n.º 3 só poderá ser usado no caso de o tempo global disponível do interrogante ou respondente o permitir.
 
 5 - Em caso algum haverá lugar à reformulação de pedidos de esclarecimento.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 93.º — Proibição do uso da palavra no período de votação
 
@@ -1802,19 +1954,23 @@ Anunciado o início da votação, nenhum deputado poderá usar da palavra até �
 
 ###### Artigo 97.º — Duração do uso da palavra
 
-1 - No período da ordem do dia, o tempo global do uso da palavra para o debate na generalidade do projecto ou proposta de lei ou de decreto legislativo regional, salvo quanto a Conferência dos Representantes dos Grupos Parlamentares dispuser diversamente, não poderá exceder:
+1 - No período da ordem do dia, o tempo global do uso da palavra para o debate na generalidade de projeto e proposta de resoluções, para cada Grupo Parlamentar ou deputado único representante de partido, não pode ser inferior a três minutos e para o debate de projeto ou proposta de lei ou de decreto legislativo regional, não pode ser inferior a quatro minutos, salvo quanto a Conferência dos Representantes dos Partidos dispuser diversamente.
 
-a) Para cada Grupo Parlamentar, dois minutos vezes o número de deputados que o compõem;
+a) (Revogada.)
 
-b) Três minutos por cada deputado único representante de partido;
+b) (Revogada.)
 
-c) O autor da iniciativa dispõe de mais dois minutos;
+c) (Revogada.)
 
-d) O Governo dispõe de tempo igual ao do grupo parlamentar com maior representatividade.
+d) (Revogada.)
 
 2 - Tratando-se de discussão na especialidade, o tempo global será reduzido a metade dos referidos no n.º 1.
 
-3 - Apenas o uso da palavra para efeitos do disposto nos artigos 88.º, 90.º e 91.º do Regimento não é considerado nos tempos globais referidos nos números anteriores.
+3 - Serão estabelecidas grelhas de tempo, por tipo de iniciativa, a definir na Conferência de Representantes dos Partidos, respeitando a representatividade dos representantes dos partidos na respetiva legislatura.
+
+4 - Apenas o uso da palavra para efeitos do disposto nos artigos 88.º, 90.º e 91.º do Regimento não é considerado nos tempos globais referidos nos números anteriores.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 #### SECÇÃO III — Deliberações e votações
 
@@ -1824,11 +1980,15 @@ Não poderão ser tomadas deliberações durante o período de antes da ordem do
 
 ###### Artigo 99.º — Requisitos da votação
 
-1 - Salvo nos casos previstos na Constituição, no Estatuto da Região ou no Regimento, as deliberações são tomadas à pluralidade de votos, estando presente a maioria do número legal de deputados.
+1 - Salvo nos casos previstos na Constituição, no Estatuto da Região ou no Regimento, todas as deliberações são tomadas à pluralidade de votos, estando presente a maioria do número legal de deputados, na última reunião de cada semana, nos termos do disposto no número três do artigo 69.º
 
-2 - As abstenções não contam para o apuramento da maioria.
+2 - Nas deliberações sem eficácia externa, tomadas sobre aspetos circunscritos à coordenação de trabalhos ou seus procedimentos, desde que estejam presentes mais de dois terços dos deputados de cada Grupo Parlamentar, os votos expressos serão contados como representando o respetivo universo.
 
-3 - O resultado de cada votação é imediatamente anunciado pela Mesa.
+3 - As abstenções não contam para o apuramento da maioria.
+
+4 - O resultado de cada votação é imediatamente anunciado pela Mesa.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 100.º — Voto
 
@@ -1896,21 +2056,27 @@ c) Impugnação de normas jurídicas provenientes dos órgãos de soberania por 
 
 ###### Artigo 106.º — Colaboração ou presença de outros deputados
 
-1 - Nas reuniões das comissões poderá participar, sem voto, um dos deputados autores do projecto de lei ou de resolução de processos especiais em apreciação.
+1 - Qualquer deputado pode assistir às reuniões das comissões e pode participar nos trabalhos sem direito a voto.
 
-2 - Qualquer outro deputado poderá assistir às reuniões e, se a comissão o autorizar, pode participar nos trabalhos sem direito a voto.
+2 - (Revogado.)
 
 3 - Qualquer deputado pode enviar às comissões observações escritas sobre a matéria da sua competência.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 107.º — Participação de membros do Governo e outras entidades
 
 1 - Os membros do Governo Regional podem participar nos trabalhos das comissões, a solicitação destas, devendo aqueles comparecer quando tal seja requerido ou por sua iniciativa.
 
-2 - As comissões podem solicitar ou admitir a participação nos seus trabalhos de funcionários, dirigentes ou técnicos de quaisquer entidades públicas desde que autorizados pelos seus superiores hierárquicos.
+2 - Os membros do Governo Regional devem, uma vez em cada sessão legislativa, dar conta da sua atividade, perante as Comissões.
 
-3 - As comissões podem ainda solicitar os depoimentos de quaisquer associações, instituições ou cidadãos, os quais poderão ser prestados por escrito, se os mesmos não residirem na Região.
+3 - As comissões podem solicitar ou admitir a participação nos seus trabalhos de funcionários, dirigentes ou técnicos de quaisquer entidades públicas desde que autorizados pelos seus superiores hierárquicos.
 
-4 - As diligências previstas relativamente aos Membros do Governo são efectuadas pelo Presidente da Assembleia Legislativa, por solicitação do Presidente da Comissão, precedida de deliberação desta.
+4 - As comissões podem ainda solicitar os depoimentos de quaisquer associações, instituições ou cidadãos, os quais poderão ser prestados por escrito, se os mesmos não residirem na Região.
+
+5 - As diligências previstas relativamente aos Membros do Governo são efectuadas pelo Presidente da Assembleia Legislativa, por solicitação do Presidente da Comissão, precedida de deliberação desta.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 108.º — Poderes das comissões
 
@@ -1932,13 +2098,21 @@ f) Realizar audições parlamentares.
 
 3 - As diligências previstas neste artigo são efectuadas pelo presidente da comissão, delas sendo dado conhecimento ao Presidente da Assembleia Legislativa.
 
+4 - Os diplomas, requerimentos e pareceres das comissões, que não contenham matéria reservada, devem ser disponibilizados no portal da Assembleia Legislativa na internet.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
+
 ###### Artigo 109.º — Audições parlamentares
 
 1 - A Assembleia Legislativa poderá realizar audições parlamentares, as quais terão lugar nas respectivas comissões por deliberação das mesmas.
 
-2 - As audições a que se refere o número anterior serão públicas, se as comissões assim o deliberarem.
+2 - As audições a que se refere o número anterior são públicas.
 
-3 - Qualquer das entidades referidas nos n.os 1 e 2 do artigo 107.º e no n.º 2 do artigo 108.º poderá ser ouvida em audição parlamentar.
+3 - Em casos excecionais poderão não sê-lo, se as comissões assim o deliberarem.
+
+4 - Qualquer das entidades referidas nos n.os 1 e 3 do artigo 107.º e no n.º 2 do artigo 108.º pode ser ouvida em audição parlamentar.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 110.º — Colaboração entre comissões
 
@@ -1946,9 +2120,11 @@ Duas ou mais comissões podem reunir em conjunto para o estudo de assunto de int
 
 ###### Artigo 111.º — Regulamento das comissões
 
-1 - Cada comissão poderá elaborar o seu regulamento.
+1 - Cada comissão especializada permanente deve elaborar o seu regulamento.
 
 2 - Na falta ou insuficiência do regulamento, aplicar-se-á, por analogia, o presente Regimento.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 112.º — Actas das comissões
 
@@ -1960,7 +2136,9 @@ Duas ou mais comissões podem reunir em conjunto para o estudo de assunto de int
 
 ###### Artigo 113.º — Informação dos trabalhos das comissões
 
-As comissões informarão trimestralmente a Assembleia Legislativa, através de comunicações dos respectivos relatores ou da publicação em suplemento ao Diário, acerca do andamento dos seus trabalhos.
+As comissões devem elaborar um relatório anual sobre os seus trabalhos à Assembleia Legislativa, através de comunicações dos respetivos relatores ou da publicação no Diário.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 114.º — Instalações e apoio
 
@@ -1980,9 +2158,11 @@ As comissões informarão trimestralmente a Assembleia Legislativa, através de 
 
 ###### Artigo 116.º — Publicidade das reuniões das comissões
 
-1 - As reuniões das comissões serão públicas, se estas assim o deliberarem.
+1 - As reuniões das Comissões são públicas.
 
-2 - As reuniões para a apreciação e votação dos projectos ou propostas de resolução, nos termos do disposto no artigo 164.º-A, são sempre públicas.
+2 - Em casos excecionais, poderão não sê-lo, se as Comissões assim o deliberarem.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 117.º — Colaboração dos meios de comunicação social
 
@@ -1996,7 +2176,7 @@ As comissões informarão trimestralmente a Assembleia Legislativa, através de 
 
 5 - A Mesa providenciará no sentido de serem distribuídos aos representantes dos órgãos de comunicação social textos dos assuntos em discussão e cópias das intervenções escritas.
 
-###### Artigo 118.º — Diário da Assembleia Legislativa da Madeira
+###### Artigo 118.º — Diário da Assembleia Legislativa da Região Autónoma da Madeira
 
 1 - O jornal oficial da Assembleia Legislativa é o Diário da Assembleia Legislativa da Madeira.
 
@@ -2004,13 +2184,17 @@ As comissões informarão trimestralmente a Assembleia Legislativa, através de 
 
 3 - O Diário, depois de aprovado, constituirá expressão autêntica do ocorrido na reunião a que respeitar.
 
-4 - O Diário e seus suplementos serão distribuídos gratuitamente aos deputados.
+4 - O Diário será publicado em duas séries.
 
-5 - O Diário será vendido, a quem o solicitar, quer avulso ou por assinatura.
+5 - O Diário e seus suplementos serão distribuídos gratuitamente aos deputados.
 
-###### Artigo 119.º — Conteúdo do Diário
+6 - O Diário será vendido, a quem o solicitar, quer avulso ou por assinatura.
 
-1 - Do Diário constarão, nomeadamente:
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
+
+###### Artigo 119.º — Conteúdo da 1.ª série do Diário
+
+1 - Da 1.ª série do Diário constarão, nomeadamente:
 
 a) Horas de abertura e de encerramento, nomes do Presidente da Assembleia Legislativa, dos Secretários e dos deputados presentes no início, e dos que entraram durante a reunião, os que estiveram ausentes em missão parlamentar, ou a ela faltaram;
 
@@ -2020,25 +2204,29 @@ c) Relato de quaisquer incidentes que ocorrerem;
 
 d) Designação das matérias indicadas ou fixadas para as reuniões seguintes.
 
-2 - As declarações de voto enviadas por escrito para a Mesa, nos termos do artigo 94.º, serão insertas no lugar próprio do Diário, com indicação respectiva.
+2 - A 1.ª série do Diário incluirá um sumário da reunião, aprovado pelo Presidente da Assembleia Legislativa, donde constará a menção dos assuntos tratados, a indicação dos intervenientes nas discussões, os resultados das votações e outros elementos que o Presidente julgue útil incluir.
 
-3 - O Diário incluirá um sumário da reunião, aprovado pelo Presidente da Assembleia Legislativa, donde constará a menção dos assuntos tratados, a indicação dos intervenientes nas discussões, os resultados das votações e outros elementos que o Presidente julgue útil incluir.
+3 - A 1.ª série do Diário, depois de aprovada, constituirá expressão autêntica do ocorrido na reunião a que respeitar.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 120.º — Elaboração e aprovação do Diário
 
-1 - O original do Diário é elaborado pelos serviços competentes e assinado pelo Presidente da Assembleia Legislativa e pelos Secretários da Mesa.
+1 - O original da 1.ª série do Diário é elaborado pelos serviços competentes e assinado pelo Presidente da Assembleia Legislativa e pelos Secretários da Mesa.
 
 2 - Qualquer interveniente nos debates pode proceder à revisão meramente literária do texto das suas intervenções, no prazo estabelecido pela Mesa.
 
 3 - Quando as rectificações ultrapassem o âmbito do número anterior, cabe à Mesa decidir da sua inclusão, sob informação dos serviços.
 
-4 - Até à aprovação do Diário qualquer deputado pode reclamar contra inexactidões e requerer a sua rectificação, que é decidida pela Mesa, sob informação dos serviços.
+4 - Até à aprovação da 1.ª série do Diário qualquer deputado pode reclamar contra inexatidões e requerer a sua retificação, que é decidida pela Mesa, sob informação dos serviços.
 
-5 - Findo o período previsto no n.º 2, o Diário é submetido à aprovação da Assembleia Legislativa.
+5 - Findo o período previsto no n.º 2, a 1.ª série do Diário é submetida à aprovação da Assembleia Legislativa.
 
-###### Artigo 121.º — Suplemento ao Diário
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
-O suplemento ao Diário incluirá:
+###### Artigo 121.º — Da 2.ª série do Diário
+
+1 - Na 2.ª série do Diário serão publicados:
 
 a) Os textos dos projectos e propostas de decreto legislativo regional, de resolução e de moção;
 
@@ -2050,9 +2238,13 @@ d) O Programa de Governo;
 
 e) As perguntas formuladas por escrito e os pedidos de informação ao Governo Regional, bem como as respectivas respostas;
 
-f) Os textos das petições que hajam de ser publicadas nos termos do Regimento;
+f) (Revogada.)
 
-g) Quaisquer outros documentos não lidos na reunião plenária que o Presidente da Assembleia Legislativa entenda mandar publicar.
+g) (Revogada.)
+
+2 - A 2.ª série do Diário é elaborada pelos serviços competentes e aprovada pela Mesa.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 122.º — Índice do Diário
 
@@ -2062,7 +2254,13 @@ Os serviços da Assembleia Legislativa, sob a direcção da Mesa, elaborarão no
 
 1 - A Assembleia Legislativa assegura, com permanência e actualização periódica, um portal na Internet.
 
-2 - O conteúdo, procedimentos e prazos de actualização do portal, bem como o serviço responsável pela sua gestão, serão definidos por despacho do Presidente da Assembleia Legislativa, ouvida a Conferência dos Representantes dos Grupos Parlamentares.
+2 - Todos os atos e documentos de publicação obrigatória em Diário, bem como todos os documentos cuja produção e tramitação seja imposta pelo Regimento, devem ser disponibilizados, no portal da Assembleia.
+
+3 - O conteúdo, procedimentos e prazos de actualização do portal, bem como o serviço responsável pela sua gestão, serão definidos por despacho do Presidente da Assembleia Legislativa, ouvida a Conferência dos Representantes dos Grupos Parlamentares.
+
+4 - O Diário da Assembleia é disponibilizado gratuitamente em suporte informático no portal da Assembleia.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ## TÍTULO IV — Formas de processo
 
@@ -2222,13 +2420,15 @@ O Presidente da Assembleia Legislativa poderá também enviar à comissão que s
 
 ###### Artigo 140.º — Prazo de apreciação
 
-1 - A comissão pronunciar-se-á, fundamentando devidamente o seu parecer, no prazo assinado pelo Presidente da Assembleia Legislativa, com direito de recurso do autor ou dos autores para o Plenário.
+1 - A comissão pronuncia-se, fundamentando devidamente o seu parecer, no prazo estabelecido pelo Presidente da Assembleia Legislativa, com direito de recurso do autor ou dos autores para o Plenário.
 
-2 - Se nenhum prazo tiver sido assinado, o parecer deverá ser apresentado ao Presidente da Assembleia Legislativa, no caso de projecto ou proposta de decreto legislativo regional, até ao trigésimo dia e, no caso de proposta de alteração, até ao terceiro dia posterior ao envio do texto à comissão.
+2 - Se nenhum prazo tiver sido estabelecido, o parecer deve ser apresentado ao Presidente da Assembleia Legislativa, no caso de projeto ou proposta de decreto legislativo regional, até ao trigésimo dia e, no caso de proposta de alteração, até ao quinto dia posterior ao envio do texto à comissão.
 
 3 - A comissão poderá pedir ao Presidente da Assembleia Legislativa, em requerimento fundamentado, uma prorrogação do prazo.
 
 4 - No caso de a comissão não apresentar o parecer no prazo inicial ou no da prorrogação, o projecto ou a proposta serão submetidos, independentemente dele, à discussão do Plenário, salvo se a comissão, por razões ponderosas, deliberar nova prorrogação por maioria, cujo prazo não poderá ser superior a trinta dias.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 141.º — Apreciação de projectos ou propostas sobre matérias idênticas
 
@@ -2244,9 +2444,11 @@ O Presidente da Assembleia Legislativa poderá também enviar à comissão que s
 
 ###### Artigo 143.º — Discussão pública
 
-1 - Em razão da especial relevância da matéria, a comissão competente pode propor ao Presidente da Assembleia Legislativa a discussão pública de projectos ou propostas de decreto legislativo regional.
+1 - Em razão da especial relevância da matéria, a comissão competente pode propor ao Presidente da Assembleia Legislativa a discussão pública de projetos ou propostas de decreto legislativo regional, por um período de trinta dias.
 
 2 - Os projectos ou propostas de decreto legislativo regional, devidamente impressos, são editados de forma autónoma e divulgados publicamente.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 144.º — Audição da AMRAM e da ANAFRE
 
@@ -2260,17 +2462,21 @@ Disposições gerais
 
 ###### Artigo 145.º — Conhecimento prévio dos projectos e propostas de decreto legislativo regional
 
-1 - Nenhum projecto ou proposta de decreto legislativo regional será discutido em reunião plenária sem ter sido distribuído em folhas avulsas aos deputados, com a antecedência de, pelo menos, 5 dias úteis.
+1 - Nenhum projeto ou proposta de decreto legislativo regional será discutido em reunião plenária sem ter sido distribuído aos deputados, com a antecedência de, pelo menos, 3 dias úteis.
 
-2 - Em caso de urgência, porém, a Conferência dos Representantes dos Grupos Parlamentares pode, por maioria absoluta ponderada em função do número de deputados nela representados, reduzir a antecedência do número anterior para setenta e duas horas, no mínimo.
+2 - (Revogado.)
 
-3 - O disposto nos números anteriores não prejudica o consenso estabelecido na Conferência dos Representantes dos Grupos Parlamentares no sentido de a discussão em reunião plenária poder ter lugar com dispensa dos prazos estabelecidos.
+3 - O disposto nos números anteriores não prejudica o consenso estabelecido na Conferência dos Representantes dos Partidos, no sentido de a discussão em reunião plenária poder ter lugar com dispensa dos prazos estabelecidos.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 146.º — Duração e termo do debate
 
-1 - A duração do debate segue o disposto no artigo 97.º, salvo quando a Conferência dos Representantes dos Grupos Parlamentares, em função da natureza e importância das matérias, dispuser diversamente.
+1 - A duração do debate segue o disposto no artigo 97.º, salvo quando a Conferência dos Representantes dos Partidos, em função da natureza e importância das matérias, dispuser diversamente.
 
-2 - O debate acabará, quando não houver mais oradores inscritos ou quando for aprovado por maioria dos deputados presentes, requerimento para que a matéria seja dada por discutida.
+2 - O debate acabará, quando não houver mais oradores inscritos.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 147.º — Requisitos do requerimento para termo do debate
 
@@ -2278,11 +2484,13 @@ Não será admitido o requerimento previsto no n.º 2 do artigo anterior enquant
 
 ###### Artigo 148.º — Requerimento de baixa à comissão
 
-Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de apreciação no prazo que for designado, não se aplicando, neste caso, o disposto no artigo 145.º, salvo no que respeita à obrigatoriedade da distribuição em folhas avulsas aos deputados.
+Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de apreciação no prazo que for designado, não se aplicando, neste caso, o disposto no artigo 145.º, salvo no que respeita à obrigatoriedade da distribuição aos deputados.
 
 SUBDIVISÃO II
 
 Discussão e votação na generalidade
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 149.º — Objecto
 
@@ -2342,9 +2550,11 @@ A requerimento de 10 deputados, a votação na especialidade poderá ser adiada 
 
 1 - Finda a discussão e votação na especialidade, procede-se à votação final global.
 
-2 - Se aprovado em comissão, o texto é enviado ao Plenário para votação final global na segunda reunião posterior à sua publicação no Diário ou à sua distribuição em folhas avulsas aos deputados.
+2 - Se aprovado em comissão, o texto é enviado ao Plenário para votação final global na segunda reunião posterior à sua publicação no Diário ou à sua distribuição aos deputados.
 
 3 - A votação final global não é precedida de discussão, podendo cada deputado ou grupo parlamentar produzir uma declaração escrita nos termos do artigo 94.º
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ##### DIVISÃO V — Redacção final
 
@@ -2410,13 +2620,13 @@ Os projectos e as propostas de decreto legislativo regional aprovados denominam-
 
 ###### Artigo 164.º — Resoluções
 
-1 - Nenhum projecto ou proposta de resolução será discutido em reunião de comissão sem ter sido distribuído em folhas avulsas aos deputados, com a antecedência de, pelo menos, 3 dias úteis.
-
-2 - O tempo global da duração e termo do debate, em função da natureza e importância das matérias, nos termos do disposto no n.º 1 do artigo 111.º, será fixado pelo regulamento de cada comissão.
+O processo legislativo comum, aplica-se aos diplomas que sejam propostos com a forma de resolução.
 
 SUBDIVISÃO I
 
 Discussão e votação na generalidade
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 164.º-A — Objecto
 
@@ -2520,11 +2730,13 @@ A Assembleia Legislativa, na elaboração da proposta a apresentar à Assembleia
 
 1 - O processo segue os trâmites dos decretos legislativos regionais, com as seguintes modificações:
 
-a) A iniciativa originária toma a forma de projecto ou anteproposta de proposta de lei, o qual deve conter essa menção expressa e a definição do seu âmbito;
+a) A iniciativa originária compete aos Deputados ou ao Governo Regional, tomando respetivamente a forma de projeto ou de anteproposta, de proposta de lei, o qual deve conter essa menção expressa e a definição do seu âmbito;
 
 b) A proposta aprovada toma a forma de resolução, assinada pelo Presidente da Assembleia Legislativa e por este enviada no prazo de três dias ao Presidente da Assembleia da República, sem prejuízo de ulterior publicação no Diário.
 
 2 - A Assembleia Legislativa pode solicitar o processo de urgência da proposta da sua iniciativa à Assembleia da República.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 173.º — Acompanhamento da proposta de lei
 
@@ -2578,13 +2790,15 @@ Elaborado o parecer da comissão competente, o Presidente da Assembleia Legislat
 
 ###### Artigo 180.º — Debate na generalidade
 
-1 - O debate na generalidade das propostas tem a duração máxima de três dias, conforme for deliberado e organizado pela Conferência dos Representantes dos Grupos Parlamentares, devendo a última destas reuniões ser exclusivamente destinada ao encerramento.
+1 - O debate na generalidade das propostas tem a duração máxima de três dias, conforme for deliberado e organizado pela Conferência dos Representantes dos Partidos, devendo a última destas reuniões ser exclusivamente destinada ao encerramento.
 
 2 - O debate inicia-se e encerra-se com uma intervenção do Governo Regional.
 
-3 - Antes do encerramento do debate usarão da palavra todos os partidos, sendo o tempo distribuído e atribuído na proporção de um minuto por cada deputado, com o mínimo de três minutos para cada um dos deputados que sejam únicos representantes de partido e de cinco minutos para cada um dos grupos parlamentares.
+3 - Antes do encerramento do debate usarão da palavra todos os partidos, sendo o tempo distribuído e atribuído de acordo com o disposto no artigo 97.º
 
 4 - O debate na generalidade segue os termos regimentalmente previstos para o Programa de Governo.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 181.º — Votação na generalidade
 
@@ -2620,11 +2834,13 @@ c) As matérias referentes a empréstimos e outros meios de financiamento.
 
 1 - O debate e votação na especialidade das matérias referidas no n.º 1 do artigo 182.º e das avocadas pelo Plenário bem como a votação final global das propostas do Plano e Orçamento realizar-se-ão em reunião plenária, exclusivamente destinada a esse fim.
 
-2 - A discussão na especialidade será deliberada e organizada pela Conferência dos Representantes dos Grupos Parlamentares, não podendo exceder os limites fixados no n.º 2 do artigo 97.º do Regimento.
+2 - A discussão na especialidade será deliberada e organizada pela Conferência dos Representantes dos Partidos, de acordo com o disposto no artigo 97.º
 
-3 - Antes da votação final global cada partido poderá usar da palavra pelo período fixado pela Conferência dos Representantes dos Grupos Parlamentares, o qual não poderá exceder os limites fixados no n.º 4 do artigo 78.º
+3 - Antes da votação final global cada partido poderá usar da palavra pelo período fixado pela Conferência dos Representantes dos Partidos, de acordo com o disposto no artigo 97.º
 
 4 - Não haverá lugar a declarações de voto, quer na votação na especialidade, quer na votação final global.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 185.º — Alterações orçamentais
 
@@ -2664,7 +2880,9 @@ O regime previsto nesta secção aplica-se também às alterações ou rectifica
 
 1 - O debate terminará na última reunião plenária com intervenção de um deputado de cada partido, pela ordem inversa do quantitativo de deputados por que é representado e do Presidente do Governo que o encerrará.
 
-2 - O tempo será distribuído e atribuído na proporção de um minuto por cada deputado, com o mínimo de três minutos para cada um dos deputados que sejam únicos representantes de partido e de cinco minutos para cada um dos grupos parlamentares.
+2 - O tempo será distribuído e atribuído de acordo com o disposto no artigo 97.º
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 190.º — Votação da moção de confiança
 
@@ -2694,15 +2912,19 @@ O regime previsto nesta secção aplica-se também às alterações ou rectifica
 
 1 - Após as intervenções previstas no artigo anterior, o debate terminará na última reunião plenária com intervenções de um deputado de cada partido, pela ordem inversa do quantitativo de deputados por que é representado e do Presidente do Governo Regional que o encerrará.
 
-2 - O tempo será distribuído e atribuído na proporção de um minuto por cada deputado, com o mínimo de três minutos para cada um dos deputados que sejam únicos representantes de partido e de cinco minutos para cada um dos grupos parlamentares.
+2 - O tempo será distribuído e atribuído de acordo com o disposto no artigo 97.º
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 194.º — Votação da moção de confiança
 
-1 - Encerrado o debate, proceder-se-á, na mesma reunião e após intervalo de meia hora, se solicitado por qualquer grupo parlamentar ou partido, à votação da moção de confiança.
+1 - Encerrado o debate, procede-se, de seguida e na mesma reunião, à votação da moção de confiança.
 
 2 - A moção de confiança pode ser retirada no todo ou em parte pelo Governo Regional, até ao fim do debate.
 
 3 - Não haverá lugar a declarações de voto.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 #### SECÇÃO III — Moção de censura ao Governo
 
@@ -2714,33 +2936,39 @@ O regime previsto nesta secção aplica-se também às alterações ou rectifica
 
 ###### Artigo 196.º — Debate
 
-1 - O debate iniciar-se-á no oitavo dia parlamentar subsequente à apresentação da moção de censura, não poderá exceder três dias e será deliberado e organizado pela Conferência dos Representantes dos Grupos Parlamentares.
+1 - O debate iniciar-se-á no oitavo dia parlamentar subsequente à apresentação da moção de censura, não pode exceder um dia e é deliberado e organizado pela Conferência dos Representantes dos Partidos.
 
 2 - O debate será aberto e encerrado pelo primeiro dos signatários da moção, que usará da palavra por período não superior a trinta minutos.
 
-3 - O Presidente do Governo tem direito a intervir imediatamente após e antes das intervenções previstas no número anterior, sem limite de tempo.
+3 - O Presidente do Governo, tem direito a intervir imediatamente após e antes das intervenções previstas no número anterior, por períodos não superiores a trinta minutos.
 
 4 - Durante os dias de reunião destinados ao debate, os tempos de intervenção serão os mesmos que os definidos para o debate da moção de confiança.
 
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
+
 ###### Artigo 197.º — Votação da moção de censura
 
-1 - Encerrado o debate, proceder-se-á na mesma reunião e após meia hora de intervalo, se solicitado por qualquer grupo parlamentar ou partido, à votação, não havendo lugar a declarações de voto.
+1 - Encerrado o debate, procede-se de seguida e na mesma reunião, à votação da moção de censura.
 
 2 - Se a moção de censura não for aprovada ou for retirada, os seus signatários não poderão apresentar outra durante a mesma sessão legislativa.
 
 3 - No caso de aprovação de uma moção de censura por maioria absoluta dos deputados em efectividade de funções, o Presidente da Assembleia Legislativa comunicará a moção ao Representante da República para efeito do disposto na alínea d) do n.º 1 do artigo 62.º do Estatuto da Região.
 
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
+
 #### SECÇÃO IV — Perguntas ao Governo
 
-###### Artigo 198.º — Formulação de perguntas
+###### Artigo 198.º — Debate com o Governo
 
-1 - As perguntas ao Governo Regional serão apresentadas por escrito na Mesa, até oito dias antes da reunião plenária prevista no n.º 3 do artigo 67.º
+1 - O Presidente do Governo e o Governo comparecem mensalmente perante o Plenário, para um debate, em data a fixar pelo Presidente da Assembleia Legislativa, ouvidos o Governo e a Conferência dos Representantes dos Partidos.
 
-2 - Cada pergunta deverá definir com rigor o seu objecto.
+2 - O debate será temático, sendo a escolha do tema, efetuada de forma alternada entre a Assembleia Legislativa e a Conferência dos Representantes dos Partidos, com a antecedência mínima de setenta e duas horas.
 
-3 - O Presidente da Assembleia Legislativa enviará as perguntas ao Governo Regional, até cinco dias antes da reunião plenária e mandá-las-á publicar no Diário.
+3 - O debate será organizado pela Conferência dos Representantes dos Partidos.
 
-4 - A Sessão Plenária destinada a perguntas ao Governo deverá realizar-se no período de 30 dias a contar da apresentação do requerimento para a realização da sessão.
+4 - (Revogado.)
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 199.º — Respostas
 
@@ -2766,11 +2994,21 @@ As perguntas que não tenham sido objecto de respostas serão de novo referencia
 
 Nos meses de Janeiro, Abril e Julho, serão publicados no Diário os requerimentos apresentados há mais de três meses e ainda não respondidos.
 
+###### Artigo 203.º-A — Reunião para o debate sobre o estado da Região
+
+1 - Em cada sessão legislativa tem lugar, no último trimestre, em data a fixar por acordo entre o Presidente da Assembleia e o Governo, um debate de política geral, iniciado com uma intervenção do Presidente do Governo Regional sobre o estado da Região, sujeito a perguntas dos grupos parlamentares ou dos deputados constituídos em representação parlamentar, seguindo-se o debate generalizado que é encerrado pelo Governo.
+
+2 - O debate é organizado pela Conferência dos Representantes dos Partidos.
+
+> Aditado pelo/a Artigo 3.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
+
 #### SECÇÃO V — Interpelações e debates
 
 ###### Artigo 204.º — Reunião da Assembleia Legislativa
 
-No caso de exercício do direito previsto nas alíneas d) e f) do n.º 1 do artigo 12.º, o debate será agendado e organizado pela Conferência dos Representantes dos Grupos Parlamentares.
+No caso de exercício do direito previsto nas alíneas d) e f) do n.º 1 do artigo 12.º, o debate será agendado e organizado pela Conferência dos Representantes dos Partidos.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 205.º — Debates sobre assuntos de política geral ou sectorial
 
@@ -2780,17 +3018,21 @@ No caso de exercício do direito previsto nas alíneas d) e f) do n.º 1 do arti
 
 3 - A distribuição dos tempos de intervenção é feita proporcionalmente pelos grupos parlamentares e deputados únicos representantes de partido em função da sua representatividade.
 
-4 - O tempo de intervenção do Governo é fixado pela Conferência dos Representantes dos Grupos Parlamentares, não podendo ser superior ao tempo de intervenção atribuído ao maior grupo parlamentar.
+4 - O tempo de intervenção do Governo é fixado pela Conferência dos representantes dos Partidos, não podendo ser superior ao tempo de intervenção atribuído ao maior grupo parlamentar.
 
 5 - O debate termina com as intervenções de um deputado do grupo parlamentar interpelante e do Presidente ou membro do Governo Regional que o encerra, não podendo nenhuma das intervenções exceder quinze minutos cada.
 
-###### Artigo 206.º — Debates sobre questões de interesse público, actual e urgente
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
-1 - Os grupos parlamentares e deputados representantes de partido podem requerer, com a presença do Governo Regional, debates sobre questões de interesse público, actual e urgente.
+###### Artigo 206.º — Debates de urgência
 
-2 - Os requerimentos para a realização dos debates de interesse público, actual e urgente deverão ser fundamentados e serão apreciados e votados pela Conferência dos Representantes dos Grupos Parlamentares, na primeira reunião posterior à apresentação do requerimento, com direito de recurso para o Plenário.
+1 - Os grupos parlamentares e deputados representantes de partido podem requerer, com a presença do Governo Regional, debates de urgência.
+
+2 - Os requerimentos para a realização dos Debates de urgência deverão ser fundamentados e serão apreciados e aprovados pela Conferência dos Representantes dos Partidos, na primeira reunião posterior à apresentação do requerimento.
 
 3 - O debate será agendado e organizado pela Conferência dos Representantes dos Grupos Parlamentares.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 #### SECÇÃO VI — Petições
 
@@ -2824,11 +3066,13 @@ A comissão procederá ao exame da petição até ao prazo máximo de sessenta d
 
 ###### Artigo 211.º — Apreciação em Plenário
 
-1 - As petições poderão ser apreciadas em reunião plenária quando subscritas por mais de 2000 cidadãos, devidamente identificados os seus subscritores, e tal seja justificado pela comissão.
+1 - As petições poderão ser apreciadas em reunião plenária quando subscritas por mais de 1500 cidadãos, devidamente identificados os seus subscritores, e tal seja justificado pela comissão.
 
-2 - O debate inicia-se com a apresentação do relatório da comissão, intervindo um representante de cada grupo parlamentar ou partido, por período a fixar pela Conferência dos Representantes dos Grupos Parlamentares.
+2 - O debate inicia-se com a apresentação do relatório da comissão, intervindo um representante de cada grupo parlamentar ou partido, por período a fixar pela Conferência dos Representantes dos Partidos.
 
 3 - A matéria constante da petição não é submetida à votação, mas com base na mesma, qualquer deputado pode exercer o direito de iniciativa.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 212.º — Envio ao Provedor de Justiça
 
@@ -2838,11 +3082,13 @@ Se a comissão propuser que a petição seja submetida ao Provedor de Justiça p
 
 1 - São publicadas na íntegra as petições:
 
-a) Assinadas por mais de 2000 cidadãos;
+a) Assinadas por mais de 1500 cidadãos;
 
 b) Que o Presidente da Assembleia Legislativa ou as comissões entendam que devem ser publicadas.
 
 2 - São igualmente publicados os relatórios a que as comissões entendam dar publicidade.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 214.º — Comunicação ao autor ou aos autores da petição
 
@@ -2874,9 +3120,11 @@ d) Ao Presidente do Governo.
 
 ###### Artigo 217.º — Apreciação
 
-1 - A Assembleia Legislativa pronunciar-se-á sobre o requerimento ou a proposta até ao 15.º dia posterior ao da sua publicação no Diário ou à sua distribuição em folhas avulsas.
+1 - A Assembleia Legislativa pronuncia-se por escrito, sobre o requerimento ou a proposta até ao 15.º dia posterior ao da sua publicação no Diário ou à sua distribuição.
 
-2 - No debate intervirão um dos requerentes ou proponentes do inquérito, o Presidente do Governo ou outro membro do Governo Regional e um representante de cada partido.
+2 - (Revogado).
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 218.º — Deliberação
 
@@ -2984,45 +3232,47 @@ Pode ser objecto de processo de urgência qualquer projecto e proposta de lei, e
 
 ###### Artigo 234.º — Deliberação de urgência
 
-1 - A iniciativa da adopção de processo de urgência compete aos deputados, aos grupos parlamentares ou ao Governo Regional.
+1 - A iniciativa da adoção de processo de urgência compete aos deputados, aos grupos parlamentares ou ao Governo Regional, que a devem requerer ao Presidente da Assembleia, por escrito e fundamentado.
 
-2 - A Assembleia Legislativa deliberará após debate em que terão direito de intervir um representante de cada partido, por período não superior a dois minutos cada e pela ordem inversa do quantitativo de deputados, procedendo-se de seguida à votação.
+2 - A mesa da Assembleia Legislativa remete de imediato para Plenário, para efeitos de votação de acordo com o disposto no número três do artigo 69.º
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 235.º — Faculdades da Assembleia Legislativa
 
-A Assembleia Legislativa poderá deliberar:
+A Assembleia Legislativa pode deliberar:
 
 a) A redução ou a dispensa do prazo previsto no artigo 145.º;
 
-b) A dispensa do exame em comissão ou a redução do respectivo prazo;
+b) (Revogada.)
 
 c) A redução de número de intervenções e da duração do uso da palavra dos deputados e do Governo Regional;
 
 d) A dispensa de envio à comissão para a redacção final ou a redução do respectivo prazo.
 
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
+
 ###### Artigo 236.º — Regra supletiva
 
-1 - Se a Assembleia Legislativa nada determinar, o processo de urgência terá a tramitação seguinte:
+1 - Se a Assembleia Legislativa nada determinar, o prazo para exame em comissão no processo de urgência, é de cinco dias;
 
-a) O prazo para exame em comissão será de cinco dias.
+a) (Revogada.)
 
-2 - Na discussão na generalidade, salvo quando a Conferência dos Representantes dos Grupos Parlamentares dispuser diversamente, os grupos parlamentares, os deputados únicos representantes de partido e representante de partido não constituído em grupo e o Governo Regional não poderão exceder o tempo global de:
+2 - Na discussão da generalidade, salvo quando a Conferência dos Representantes dos Partidos dispuser diversamente, os grupos parlamentares, os deputados únicos representantes de partido e representante de partido não constituído em grupo e o Governo Regional, têm direito ao tempo estabelecido no artigo 97.º
 
-a) Um minuto por cada deputado de Grupo Parlamentar;
+a) (Revogada.)
 
-b) Dois minutos por cada deputado único representante de partido;
+b) (Revogada.)
 
-c) O Governo dispõe de tempo igual ao do grupo parlamentar com maior representatividade.
+c) (Revogada.)
 
-3 - As propostas de alteração devem ser apresentadas até ao início da discussão na especialidade.
+3 - A discussão na especialidade será feita em Comissão, no prazo máximo de cinco dias.
 
-4 - Não haverá discussão na especialidade sobre os artigos quanto aos quais não tenha havido propostas de alteração.
+4 - O prazo para a redacção final será de dois dias.
 
-5 - Na discussão na especialidade de propostas de alteração o tempo global para cada grupo parlamentar, deputado único ou Governo é metade do previsto no n.º 2.
+5 - Apenas o uso da palavra para efeitos do disposto nos artigos 88.º, 90.º e 91.º do Regimento não é considerado nos tempos globais referidos nos números anteriores.
 
-6 - O prazo para a redacção final será de dois dias.
-
-7 - Apenas o uso da palavra para efeitos do disposto nos artigos 88.º, 90.º e 91.º do Regimento não é considerado nos tempos globais referidos nos números anteriores.
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ### CAPÍTULO VIII — Pareceres jurídicos
 
@@ -3036,7 +3286,7 @@ c) O Governo dispõe de tempo igual ao do grupo parlamentar com maior representa
 
 A iniciativa de pedido de parecer jurídico compete:
 
-a) A um décimo dos deputados em efectividade de funções;
+a) (Revogada.)
 
 b) Aos grupos parlamentares;
 
@@ -3044,15 +3294,19 @@ c) Às comissões especializadas da Assembleia Legislativa;
 
 d) Ao Presidente do Governo.
 
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
+
 ###### Artigo 239.º — Discussão e votação
 
-1 - A Assembleia Legislativa pronunciar-se-á sobre o requerimento ou a proposta até ao vigésimo dia posterior ao da sua distribuição em folhas avulsas.
+1 - A Assembleia Legislativa pronunciar-se-á sobre o requerimento ou a proposta até ao vigésimo dia posterior ao da sua distribuição.
 
 2 - No debate intervirão um dos requerentes ou proponentes do pedido de parecer jurídico, o Presidente do Governo ou outro membro do Governo Regional e um representante de cada partido.
 
 3 - Findo o debate, proceder-se-á à votação do requerimento.
 
-4 - O tempo global para a discussão e apreciação desta iniciativa será fixado pela Conferência dos Representantes dos Grupos Parlamentares.
+4 - O tempo global para a discussão e apreciação desta iniciativa será fixado pela Conferência dos Representantes dos Partidos.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ###### Artigo 240.º — Deliberação
 
@@ -3060,7 +3314,9 @@ Deliberado o pedido de parecer jurídico, caberá ao Presidente da Assembleia Le
 
 ###### Artigo 241.º — Publicitação do parecer
 
-O parecer depois de apresentado ao Presidente da Assembleia Legislativa, a fim de ser publicado no suplemento ao Diário, será distribuído em folhas avulsas aos grupos parlamentares.
+O parecer depois de apresentado ao Presidente da Assembleia Legislativa, a fim de ser publicado no suplemento ao Diário, será distribuído aos grupos parlamentares.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427), publicado em 2015-09-15.
 
 ## TÍTULO V — Disposições finais
 

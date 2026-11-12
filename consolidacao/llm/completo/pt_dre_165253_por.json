@@ -39,12 +39,14 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Art. 2.º, n.º 2, da Portaria n.º 182/2011 (referências a «procedimento de selecção» e a «funcionário ou agente» tidas por feitas a «procedimento concursal» e a «trabalhador»): regra de interpretação, não alteração textual; não aplicada ao texto.",
+  "titulos": [],
+  "nao_aplicavel": "Portaria n.º 182/2011, art. 2.º, n.º 2 (todas as referências a procedimento de selecção e a funcionário ou agente do regime anexo «devem ser tidas por feitas» a procedimento concursal e a trabalhador): é uma regra interpretativa de remissão geral, não uma alteração textual com alvo determinado; não se substituíram essas expressões no texto dos artigos (incluindo os n.os 2, 5 e 6 do art. 29.º, que a própria nova redação deixa com «...»).",
   "instrucoes": [
-    "Art. 2.º, n.º 1: nova redação dos artigos 28.º (texto e epígrafe novos), 29.º (epígrafe nova, n.º 3 novo, restantes números '...' mantidos) e 53.º (epígrafe '[...]' mantida, n.os 1, 4 e 6 novos, restantes mantidos); aplicado.",
-    "Art. 2.º, n.º 2: remissão interpretativa geral; não aplicada (nao_aplicavel).",
-    "Art. 2.º, n.º 3: revogados os artigos 24.º a 26.º; um elemento '(Revogado.)' por artigo.",
-    "Art. 1.º e anexo da Portaria n.º 182/2011: regime próprio, não altera o texto do original; ignorado."
+    "Art. 2.º, n.º 1: nova redação do art. 28.º (epígrafe e n.os 1 a 3) aplicada.",
+    "Art. 2.º, n.º 1: art. 29.º com nova epígrafe «Selecção e recrutamento» e novo n.º 3; n.os 1, 2, 4, 5 e 6 («...») ficam com o texto atual.",
+    "Art. 2.º, n.º 1: art. 53.º com epígrafe atual ([...]), novos n.os 1, 4 e 6; n.os 2, 3 e 5 («...») ficam com o texto atual.",
+    "Art. 2.º, n.º 2: substituição interpretativa geral de expressões; não aplicada ao texto (nao_aplicavel). Reparo do verificador sobre o art. 29.º, n.os 2, 5 e 6, ponderado e não acolhido por se tratar de remissão interpretativa e não de alteração textual.",
+    "Art. 2.º, n.º 3: revogados os artigos 24.º, 25.º e 26.º do regime anexo — (Revogado.)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

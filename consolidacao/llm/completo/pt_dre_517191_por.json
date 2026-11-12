@@ -14,38 +14,19 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "As bases da concessão (anexo I) não vêm no texto atual como artigos: o texto atual só tem os artigos 1.º a 5.º do decreto-lei e os títulos de divisão do anexo. Por isso não se aplicaram, por falta de texto e de chave onde as pôr: as novas redações das bases (alterador 1, art. 1.º; alterador 2, art. 1.º, quase todas com '...'/'[...]' que remetem para um texto atual que não existe aqui), os aditamentos de bases (alterador 1, art. 2.º: XVIII-A, XIX-A, LVII-A a LVII-CC, LXV-A; alterador 2, art. 2.º: XXXIV-A, LXV-B a LXV-E, LXXXVI-A, XCIII-A a XCIII-C), as revogações do alterador 2, art. 5.º (alíneas da base I, n.os das bases XIV, XXXIV, XLVIII, L, LI, LIV, LVII-I, LVII-U, LX, LXV-A e a base LXXXVIII) e as mudanças de epígrafe das bases LVII-V e LVII-Y (alterador 2, art. 3.º, f) e g)). Também não se aplicaram as mudanças sistemáticas a títulos que não estão no texto atual: epígrafes dos capítulos XVII e XXI (alterador 1, art. 3.º, n.º 1, c) e d)) e do capítulo XII (alterador 2, art. 3.º, h)); o aditamento do capítulo X-A e das suas secções e subsecções (alterador 1, art. 3.º, n.º 2) e as mudanças de epígrafe dessas secções/subsecções (alterador 2, art. 3.º, b) a e)); e o aditamento do capítulo XXII-A (alterador 2, art. 3.º, i)). Algumas bases novas têm quadros e fórmulas que só vêm em imagem ('ver documento original').",
+  "nao_aplicavel": "O texto atual só traz os artigos 1.º a 5.º do decreto e os títulos dos capítulos I a X do anexo I; o texto das bases da concessão não vem no texto atual, nem como artigos nem com chave. Por isso não se aplicam sem inventar: as novas redações das bases do DL 44-B/2010 art. 1.º e do DL 214-B/2015 art. 1.º (incluindo a base XXIV, que passou a 'InIR' e depois a 'IMT', com o texto completo dado pelo DL 214-B/2015, e as muitas bases com '...'/'[...]' que dependem do texto atual das bases, que falta); os aditamentos de bases (DL 44-B/2010 art. 2.º: XVIII-A, XIX-A, LVII-A a LVII-CC, LXV-A; DL 214-B/2015 art. 2.º: XXXIV-A, LXV-B a LXV-E, LXXXVI-A, XCIII-A a XCIII-C), por não haver chave nem posição para eles no texto atual; as revogações parciais e totais de bases (DL 44-B/2010 nas próprias redações; DL 214-B/2015 art. 5.º, incluindo a base LXXXVIII); as epígrafes dos capítulos XVII, XXI e XII (DL 44-B/2010 art. 3.º n.º 1 als. c) e d); DL 214-B/2015 art. 3.º al. h)), que não estão no texto atual; o aditamento do capítulo X-A e das suas secções e subsecções (DL 44-B/2010 art. 3.º n.º 2) e as alterações às suas epígrafes e às das bases LVII-V e LVII-Y (DL 214-B/2015 art. 3.º als. b) a g)), e o aditamento do capítulo XXII-A (al. i)), porque esses títulos não existem no texto atual e as regras proíbem inventá-los. As republicações (art. 6.º de ambos) não trazem o anexo no pedido.",
   "instrucoes": [
-    "Alterador 1 (DL 44-B/2010), art. 1.º: nova redação de dezenas de bases do anexo I; não aplicado, as bases não estão no texto atual (ver nao_aplicavel).",
-    "Alterador 1, art. 2.º: aditamento das bases XVIII-A, XIX-A, LVII-A a LVII-CC e LXV-A; não aplicado, as bases do anexo não estão no texto atual.",
-    "Alterador 1, art. 3.º, n.º 1, a): epígrafe do capítulo VII passa a 'Funções do InIR'; depois substituída pelo alterador 2 (ver abaixo).",
-    "Alterador 1, art. 3.º, n.º 1, b): epígrafe do capítulo X passa a 'Manutenção, exploração e conservação da Auto-Estrada'; aplicado em titulos.",
-    "Alterador 1, art. 3.º, n.º 1, c) e d): epígrafes dos capítulos XVII e XXI; não aplicado, esses títulos não estão no texto atual.",
-    "Alterador 1, art. 3.º, n.º 2: aditamento do capítulo X-A (Portagens) com secções e subsecções; não aplicado, para não inventar títulos.",
-    "Alterador 1, art. 6.º: republicação; sem efeito no texto.",
-    "Alterador 2 (DL 214-B/2015), art. 1.º: nova redação de dezenas de bases; não aplicado, as bases não estão no texto atual.",
-    "Alterador 2, art. 2.º: aditamento das bases XXXIV-A, LXV-B a LXV-E, LXXXVI-A, XCIII-A, XCIII-B e XCIII-C; não aplicado.",
-    "Alterador 2, art. 3.º, a): epígrafe do capítulo VII passa a 'Funções do IMT'; aplicado em titulos (redação final).",
-    "Alterador 2, art. 3.º, b) a e) e i)/ii): epígrafes das secções e subsecções do capítulo X-A; não aplicado, títulos inexistentes no texto atual.",
-    "Alterador 2, art. 3.º, f) e g): epígrafes das bases LVII-V e LVII-Y; não aplicado, bases inexistentes no texto atual.",
-    "Alterador 2, art. 3.º, h): epígrafe do capítulo XII; não aplicado, título inexistente no texto atual.",
-    "Alterador 2, art. 3.º, i): aditamento do capítulo XXII-A 'Comissão de Peritos'; não aplicado.",
-    "Alterador 2, art. 5.º: revogação de alíneas e números de várias bases e da base LXXXVIII; não aplicado, bases inexistentes no texto atual.",
-    "Alterador 2, art. 6.º: republicação; sem efeito no texto.",
-    "Os artigos 1.º a 5.º do decreto-lei não são alterados por nenhuma instrução."
+    "Reparo 'CAPÍTULO VII': confirmado que a epígrafe passa a 'Funções do InIR' (DL 44-B/2010 art. 3.º n.º 1 al. a)) e depois a 'Funções do IMT' (DL 214-B/2015 art. 3.º al. a)); aplicado o título final. A base XXIV foi de facto alterada (InIR, depois IMT), mas o seu texto não está no texto atual (nem como artigo nem dentro do título): vai em nao_aplicavel.",
+    "DL 44-B/2010 art. 3.º n.º 1 al. b): epígrafe do capítulo X passa a 'Manutenção, exploração e conservação da Auto-Estrada'; aplicado.",
+    "DL 44-B/2010 art. 3.º n.º 1 als. c) e d) (capítulos XVII e XXI) e DL 214-B/2015 art. 3.º al. h) (capítulo XII): títulos ausentes do texto atual; nao_aplicavel.",
+    "DL 44-B/2010 art. 1.º e DL 214-B/2015 art. 1.º (novas redações de bases): bases ausentes do texto atual; nao_aplicavel (reparo do verificador confirmado quanto ao conteúdo, mas não aplicável sem o texto das bases).",
+    "DL 44-B/2010 art. 2.º e DL 214-B/2015 art. 2.º (aditamento de bases): sem chave nem posição no texto atual; nao_aplicavel.",
+    "DL 44-B/2010 art. 3.º n.º 2 e DL 214-B/2015 art. 3.º als. b) a g) e i) (capítulo X-A, secções, subsecções, epígrafes das bases LVII-V e LVII-Y, capítulo XXII-A): títulos que não existem no texto atual; não inventados; nao_aplicavel.",
+    "DL 214-B/2015 art. 5.º e revogações do DL 44-B/2010 dentro das redações: incidem sobre bases ausentes do texto atual; nao_aplicavel.",
+    "Art. 6.º de ambos (republicação): não altera texto; o anexo republicado não vem no pedido.",
+    "Artigos 1.º a 5.º do decreto: nenhuma instrução os altera; ficam como estão."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2
-      ],
-      "chars": 284531,
-      "artigos": 0
-    }
-  ],
   "problemas": []
 }

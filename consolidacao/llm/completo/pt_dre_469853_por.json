@@ -2,6 +2,18 @@
   "id": "pt:dre:469853:por",
   "artigos": [
     {
+      "chave": "33.º",
+      "epigrafe": "",
+      "texto": "As Repartições Distritais de Obras Públicas e Transportes são chefiadas por engenheiros de 1.ª classe ou engenheiros-adjuntos, a designar pelo governador-geral sob proposta do director Provincial dos Serviços, entre as unidades daquelas categorias pertencentes aos quadros.\n\n§ único. Na falta daquelas unidades ou quando outras necessidades do serviço o recomendem, podem aquelas chefias ser atribuídas a adjuntos técnicos.",
+      "alterador": 1
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "",
+      "texto": "A Divisão Técnica, que é chefiada por um engenheiro de 1.ª classe ou engenheiro-adjunto, ou por um adjunto técnico, terá os seus serviços agrupados em secções e subsecções, conforme as especialidades, que podem funcionar separadas ou conjuntamente, consoante as disponibilidades de pessoal e o seu maior ou menor desenvolvimento em cada província.",
+      "alterador": 1
+    },
+    {
       "chave": "70.º",
       "epigrafe": "",
       "texto": "O quadro comum dos engenheiros e arquitectos dos serviços de obras públicas e transportes do ultramar compreende as seguinte categorias com o número de unidades e distribuição constantes do mapa II anexo a este diploma:\n\nEngenheiro-director;\n\nEngenheiro-chefe;\n\nArquitecto-chefe;\n\nEngenheiro de 1.ª classe;\n\nArquitecto de 1.ª classe;\n\nEngenheiro-adjunto;\n\nArquitecto-adjunto.\n\n§ único. São desempenhados por técnicos com a categoria de engenheiro-director os cargos de inspector provincial, de director de serviços e de subdirector de serviços (letra D do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de engenheiro-chefe, os cargos de chefe de repartição dos serviços centrais, de director regional, de chefe do parque e oficinas, em Angola e Moçambique, e de chefe de repartição provincial (letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de arquitecto-chefe, os cargos de chefe da Divisão de Estudos da Repartição de Edifícios e Monumentos e da Divisão do Inquérito e Planificação da Repartição de Urbanismo (letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de engenheiro de 1.ª classe ou de engenheiro-adjunto, os cargos de chefes de repartição distrital e de divisão técnica; com a categoria de arquitecto de 1.ª classe ou de arquitecto-adjunto, os cargos de chefes de secção de urbanização.",
@@ -18,19 +30,45 @@
       "epigrafe": "",
       "texto": "As vagas na categoria de engenheiro e de arquitecto de 1.ª classe são providas por meio de promoção, respectivamente, dos engenheiros-adjuntos e arquitectos-adjuntos com, pelo menos, três anos do serviço nesta classe com boas informações.",
       "alterador": 1
+    },
+    {
+      "chave": "74.º",
+      "epigrafe": "",
+      "texto": "Se as vagas a preencher nos termos dos artigos anteriores forem em número superior às dos candidatos com o tempo de serviço indicado no corpo do artigo, pode o Ministro do Ultramar, por despacho, autorizar a promoção de engenheiros e arquitectos de 1.ª classe e de engenheiros-adjuntos e arquitectos-adjuntos que não satisfaçam aquelas condições de tempo de serviço.",
+      "alterador": 1
+    },
+    {
+      "chave": "78.º",
+      "epigrafe": "",
+      "texto": "Os cargos de chefe de Secção Técnica das divisões das Repartições Provinciais, das Repartições Centrais e das Direcções Distritais serão, em regra, atribuídos a engenheiros-adjuntos ou a adjuntos técnicos conforme a importância e desenvolvimento dos respectivos serviços.",
+      "alterador": 1
+    },
+    {
+      "chave": "79.º",
+      "epigrafe": "",
+      "texto": "Os lugares de adjunto técnico principal serão providos por engenheiros-adjuntos ou por escolha entre adjuntos técnicos de 1.ª classe que possuam, pelo menos, dois anos de serviço nesta classe com boas informações.\n\n§ único. Se as vagas a preencher forem em número superior às dos candidatos com o tempo de serviço indicado no corpo do artigo, pode o governador-geral ou de província autorizar que a escolha recaia no pessoal da mesma categoria que não tenha ainda o tempo de serviço indicado.",
+      "alterador": 1
     }
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Decreto n.º 48607, art. 7.º: substituição genérica de qualquer referência a engenheiros/arquitectos de 2.ª classe por engenheiro-adjunto/arquitecto-adjunto no articulado; não é uma alteração textual localizada (exige adaptação gramatical em cada ocorrência, p. ex. 'engenheiros de 1.ª ou 2.ª classe') e não foi aplicada ao texto. Art. 3.º (lugares aumentados/suprimidos) e mapa II só em imagem.",
+  "nao_aplicavel": "Art. 3.º do Decreto 48607 (lugares aumentados e suprimidos nos quadros de pessoal) e o novo mapa II só vêm em imagem ('ver documento original'): não aplicados aos mapas. Art. 7.º aplicado só ao articulado (arts. 33.º, 39.º, 70.º, 72.º, 74.º, 78.º, 79.º); os mapas anexos (texto após o art. 109.º) não são articulado e muitos só vêm em imagem, ficam como estão. Art. 4.º e 6.º alteram o Decreto 47499 e o art. 5.º é norma transitória autónoma: não são do original.",
   "instrucoes": [
-    "Art. 1.º: nova redação do art. 70.º — aplicada",
-    "Art. 2.º: nova redação do art. 72.º — aplicada",
-    "Art. 8.º: revoga o art. 71.º — aplicado (Revogado.)",
-    "Art. 7.º: substituição genérica de referências — não aplicada (nao_aplicavel)",
-    "Arts. 3.º e 4.º/5.º/6.º: quadros em imagem e alterações a outro diploma (Decreto 47499) — ignorados"
+    "Art. 1.º: nova redação do art. 70.º, copiada do alterador (com § único).",
+    "Art. 2.º: nova redação do art. 72.º, copiada do alterador.",
+    "Art. 3.º: alterações aos quadros só em imagem — nao_aplicavel.",
+    "Art. 4.º e 6.º: alteram o Decreto 47499 — ignorados.",
+    "Art. 5.º: transição de pessoal, norma própria do alterador — sem alteração textual.",
+    "Art. 7.º: substituição de engenheiros/arquitectos de 2.ª classe por engenheiro-adjunto/arquitecto-adjunto no articulado — aplicada aos arts. 33.º, 39.º, 74.º, 78.º e 79.º (70.º e 72.º já com redação nova; 71.º revogado). Reparo confirmado e corrigido.",
+    "Art. 8.º: revoga o art. 71.º — '(Revogado.)'; a revogação genérica da legislação em contrário não se aplica ao texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [
+    "33.º: parágrafo que não está no alterador nem no original: As Repartições Distritais de Obras Públicas e Transportes são chefiadas por enge",
+    "39.º: parágrafo que não está no alterador nem no original: A Divisão Técnica, que é chefiada por um engenheiro de 1.ª classe ou engenheiro-",
+    "74.º: parágrafo que não está no alterador nem no original: Se as vagas a preencher nos termos dos artigos anteriores forem em número superi",
+    "78.º: parágrafo que não está no alterador nem no original: Os cargos de chefe de Secção Técnica das divisões das Repartições Provinciais, d",
+    "79.º: parágrafo que não está no alterador nem no original: Os lugares de adjunto técnico principal serão providos por engenheiros-adjuntos "
+  ]
 }

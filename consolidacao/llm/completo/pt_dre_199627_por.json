@@ -46,13 +46,13 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 4 (DL 705/75) não contém instruções textuais dirigidas ao original (art. 19.º extingue em Macau o Comando-Chefe, alteração não textual): não aplicado.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alt. 1: adita os n.os 3 e 4 ao art. 6.º — aplicado.",
-    "Alt. 2: adita o n.º 5 ao art. 6.º — aplicado.",
-    "Alt. 3 art. 1.º: nova redação dos arts. 1.º (alíneas '...' mantêm o texto atual, com as subdivisões de e) e f)), 4.º, 5.º, 7.º e 8.º — aplicado; os subtítulos 'A) Comando-chefe' e 'B) Comandos militar, naval e aéreo', que no texto atual vêm no fim dos arts. 1.º e 8.º, mantêm-se.",
-    "Alt. 3 art. 2.º: adita o art. 24.º — aplicado.",
-    "Alt. 4: sem instruções textuais para o original."
+    "DL 153/70 (1): adita n.os 3 e 4 ao art. 6.º; o texto dos dois números vem por extenso no alterador (o '...' só cobre os n.os 1 e 2), por isso o reparo do verificador não procede: aplicados.",
+    "DL 38/73 (2): adita n.º 5 ao art. 6.º; n.os 1 a 4 '...' mantêm o texto já consolidado. Art. 6.º com n.os 1 a 5.",
+    "DL 18/75 (3), art. 1.º: nova redação dos arts. 1.º (só proémio; alíneas a)-f) '...' ficam), 4.º, 5.º, 7.º e 8.º. As linhas de divisão 'A) Comando-chefe' e 'B) Comandos militar, naval e aéreo', que no texto atual vêm no fim dos arts. 1.º e 8.º, mantêm-se.",
+    "DL 18/75 (3), art. 2.º: adita o art. 24.º.",
+    "DL 705/75 (4): extingue em Macau o Comando-Chefe e cria as FSM; não contém instrução textual dirigida ao DL 49107, nada aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

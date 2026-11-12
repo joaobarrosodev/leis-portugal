@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:411337:por
-    title: Decreto-Lei n.º 164/74
-    publication_date: '1974-04-22'
   - id: pt:dre:317132:por
     title: Decreto-Lei n.º 117-C/76
     publication_date: '1976-02-09'
+  - id: pt:dre:411337:por
+    title: Decreto-Lei n.º 164/74
+    publication_date: '1974-04-22'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -46,6 +46,8 @@ O Laboratório tem um conselho administrativo composto pelo director, que presid
 § 2.º Às reuniões do conselho administrativo assistirá um delegado do Tribunal de Contas, por este designado, que perceberá uma gratificação mensal cujo quantitativo será fixado pelo Ministro do Equipamento Social, com o acordo do Ministro das Finanças.
 
 § 3.º Mediante autorização, a conceder anualmente pelo Ministro do Equipamento Social, pode o director fazer-se substituir na presidência do conselho administrativo por um dos vogais.
+
+II) Administração do Laboratório
 
 > Alterado pelo/a [Decreto-Lei n.º 117-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-c-1976-317132), publicado em 1976-02-09.
 
