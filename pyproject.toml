@@ -41,10 +41,18 @@ export = [
 pdf = [
   "pypdf>=5"
 ]
-# Protótipo de RAG (rag/): radical Snowball, reranker e embeddings locais, e o LLM (opcional)
+# Protótipo de RAG (rag/): radical Snowball, reranker e embeddings locais, as IAs (Claude, OpenAI, Gemini) e o cofre da chave
 rag = [
   "fastembed>=0.9",
-  "anthropic>=0.70"
+  "anthropic>=0.70",
+  "openai>=3.40",
+  "google-genai>=1.0",
+  "keyring>=25"
+]
+# A aplicação para Mac e Windows (app/): a janela e o empacotamento
+app = [
+  "pywebview>=5",
+  "pyinstaller>=6"
 ]
 
 [project.scripts]

@@ -3,6 +3,7 @@
 #
 # Uso: ./perguntar                     modo interativo
 #      ./perguntar "a pergunta"        uma só pergunta
+#      ./perguntar --web               abre a página no browser (escolher a IA, perguntar, avaliar)
 #      ./perguntar --reconstruir       volta a fazer o export e o índice
 #
 # Na primeira vez prepara tudo: o ambiente Python (.venv) com o extra `rag`, o export
@@ -24,7 +25,7 @@ if [[ ! -x "$VENV/bin/python" ]]; then
   python3 -m venv "$VENV"
 fi
 PY="$VENV/bin/python"
-if ! "$PY" -c "import leis_portugal, fastembed" 2>/dev/null; then
+if ! "$PY" -c "import leis_portugal, fastembed, anthropic, openai, google.genai, keyring" 2>/dev/null; then
   echo "A instalar o que falta (só da primeira vez)…"
   "$PY" -m pip install --quiet --upgrade pip
   "$PY" -m pip install --quiet -e '.[rag]'
@@ -41,4 +42,8 @@ elif [[ "$EXPORT" -nt "$INDICE" ]]; then
   echo "Nota: o export é mais recente do que o índice. Para o atualizar: ./perguntar --reconstruir"
 fi
 
+if [[ "${1:-}" == "--web" ]]; then
+  shift
+  PYTHONPATH=src exec "$PY" -m rag.web "$@"
+fi
 PYTHONPATH=src exec "$PY" -m rag.perguntar "$@"

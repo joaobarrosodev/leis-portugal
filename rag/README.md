@@ -69,6 +69,8 @@ PYTHONPATH=src python -m rag.avaliar --nome bm25 --sem-llm
 PYTHONPATH=src python -m rag.avaliar --nome cruzado --reranker cruzado --sem-llm
 ```
 
+A IA que escreve a resposta e reescreve a pergunta escolhe-se em `rag/provedores.py`: Claude (por omissão, `claude-opus-5-5`, **o único medido**), OpenAI ou Gemini (`RAG_PROVEDOR`, `RAG_MODELO` e a chave de cada uma). As instruções, o formato JSON e o modo estrito são os mesmos para as três; com outra IA ou modelo, cada resposta diz que a qualidade não foi medida. A página (`./perguntar --web`, `rag/web.py`) e a aplicação para Mac e Windows (`app/`) usam o mesmo caminho.
+
 Para fazer perguntas uma a uma (por exemplo, para alguém testar), na raiz do repositório:
 
 ```bash

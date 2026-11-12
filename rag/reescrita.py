@@ -9,7 +9,7 @@ estão em `rag/REESCRITA.md` (as mesmas que as sessões do Claude seguiram na me
 com resposta certa de 11% para 76%; nas 530 do teste o "não sei" cai de 53% para 34% com a
 mesma fiabilidade; nas 407 sintéticas não piora.
 
-Sem `ANTHROPIC_API_KEY` (ou se a chamada falhar), a pesquisa usa a pergunta tal como está.
+Sem a chave da IA escolhida (`rag.provedores`) ou se a chamada falhar, a pesquisa usa a pergunta tal como está.
 """
 
 from __future__ import annotations
@@ -17,9 +17,10 @@ from __future__ import annotations
 import dataclasses
 import re
 
+from rag import provedores
 from rag.fontes import RAIZ
 from rag.pesquisa import Consulta, Pesquisa
-from rag.resposta import MODELO, llm_disponivel
+from rag.resposta import llm_disponivel
 
 
 FICHEIRO = RAIZ / "rag" / "REESCRITA.md"
@@ -37,19 +38,11 @@ def reescrever(pergunta: str) -> str:
     """A consulta jurídica para a pergunta; a própria pergunta sem LLM ou se a chamada falhar."""
     if not llm_disponivel():
         return pergunta
-    import anthropic
-
     try:
-        resposta = anthropic.Anthropic().messages.create(
-            model=MODELO,
-            max_tokens=400,
-            system=instrucoes(),
-            output_config={"effort": "low"},
-            messages=[{"role": "user", "content": pergunta}],
-        )
-    except anthropic.APIError:
+        escrita = provedores.escrever(instrucoes(), pergunta, max_tokens=400, esforco="low")
+    except provedores.ErroIA:
         return pergunta
-    texto = " ".join("".join(b.text for b in resposta.content if b.type == "text").split())
+    texto = " ".join(escrita.texto.split())
     return texto[:MAXIMO_CARACTERES] if texto else pergunta
 
 
