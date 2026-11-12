@@ -92,6 +92,24 @@ O `juntar` do pedido completo passa agora a deixar como "não junto" os diplomas
 
 **Ronda 105: Decreto 45205 (Regulamento das Radiocomunicações de 1959).** Foi pelo `llm_gigantes.py`, numa só passagem, porque tem 1 alterador, o Decreto Regulamentar 10-A/77. O texto atual tem 846 mil caracteres e foi num ficheiro à parte. O respondedor Opus não encontrou nenhuma instrução para aplicar. O decreto regulamentar só aprova a revisão de Genebra de 1971, e as alterações estão nos anexos 1 a 19. No acervo, o alterador tem 12 mil caracteres: o preâmbulo, as assinaturas e ligações "(ver documento original)" para o PDF. O `juntar` deixou-o como "não junto" (a resposta não muda nada), por isso não há vistas nem verificação às cegas. **Não foi aplicado.** Juntou-se ao `llm/gigantes-ids.txt`.
 
+### Anexos só em imagem: o PDF do DR tem o texto? (amostra de 30, 12/11/2026)
+
+A ronda 104 mostrou um caso em que a "imagem" do acervo era, no PDF do DR, texto com camada de texto. Para saber se isto abre caminho aos diplomas travados por anexos em imagem, mediu-se uma amostra.
+
+- **A população.** Na última ronda de cada diploma (`verificacao/saida-piloto-*.jsonl`), 336 têm reparos que citam imagem, quadro, tabela, mapa, planta ou PDF, e **239 só têm reparos desses**. São os que um texto do anexo poderia desbloquear por inteiro. A contagem de 447 do ponto 1 usa outras palavras-chave e é mais larga.
+- **A amostra.** 30 dos 239, ao acaso (semente 104). Descarregaram-se os 63 PDFs do DR das ligações "(ver … no documento original)" do original e dos alteradores, e o texto saiu com o PDFKit (`scripts/pdftext.swift`, sem OCR). Um verificador Sonnet comparou o conteúdo do reparo com a imagem da página. Resultado em `verificacao/anexos-imagem-amostra-30.jsonl`.
+- **Data.** Todos os PDFs anteriores a 1997 são digitalizações sem camada de texto, e todos os de 1997 em diante têm texto.
+
+| Categoria | Diplomas |
+| --- | --: |
+| A: texto fiel no PDF, aproveitável sem juízo | 2 |
+| B: texto no PDF, mas as colunas do quadro perdem-se | 14 |
+| C: digitalização, só com OCR (todos quadros, nenhum desenho) | 7 |
+| D: planta ou mapa, sem texto possível | 4 |
+| E: o reparo não é afinal sobre a imagem | 3 |
+
+**Leitura.** Com o texto simples do PDF, só **2 em 30** (7 %) ficam resolvidos. Os B são quase todos planos de estudos: a camada dá "História e Teoria do Urbanismo … Anual …. 4", mas só a imagem diz que o 4 está na coluna das aulas teóricas, porque as células vazias não deixam marca no texto. O PDF guarda a posição de cada palavra, e um extrator que use as coordenadas pode recuperar as colunas. Isso **não foi testado**: se funcionar, os 14 B podem passar a A (até ~50 % da amostra). Os C pedem OCR de quadros, com mais risco de erro. Os D não têm solução por texto. Nada disto foi aplicado.
+
 ### Triagem: alterações que as regras não leem (12/11/2026)
 
 A leitura das instruções (`alteracoes.ler`) só vê uma instrução dirigida ao original pelo número. Escapam três coisas:
