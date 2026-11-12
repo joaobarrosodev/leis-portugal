@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:637908:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "e) Um oficial da Armada em serviço no Serviço de Armas Navais da Direcção de Navios;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 382/95: nova redação da alínea e) do n.º 2) do n.º 2.º; substituída a unidade 16 (restantes alíneas com '...' mantidas)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

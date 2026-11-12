@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:655337:por",
+  "substituicoes": [
+    {
+      "de": 46,
+      "ate": 47,
+      "texto": "3.3 - (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A Resolução do Conselho de Ministros n.º 159/2007 ratifica uma suspensão parcial temporária do Plano numa área delimitada em planta e medidas preventivas; não é alteração textual do Regulamento.",
+  "instrucoes": [
+    "RCM n.º 159/2007: suspensão parcial do Plano e medidas preventivas por um ano; não textual, não aplicada.",
+    "Aviso n.º 13207/2017, artigo 1.º: revogado o ponto 3.3 do n.º 3; unidades 46-47 (epígrafe/corpo e segundo parágrafo do 3.3) substituídas por '3.3 - (Revogado.)'; 3.3.1 e restantes mantidos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

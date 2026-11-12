@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:661894:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-03-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0417af5934bfbb0c"
+   ]
+  },
+  {
+   "date": "1991-01-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:495325:por",
+     "title": "Portaria n.º 40/91",
+     "published": "1991-01-17",
+     "dre_path": "/dr/detalhe/portaria/40-1991-495325"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4"
+   ],
+   "fragments": [
+    "519e67b61002247f"
+   ]
+  }
+ ],
+ "fragments": {
+  "0417af5934bfbb0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Março\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento, nos termos do n.º 3.º do artigo 4.º e do seu § único da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, o seguinte:\n\n1.º Que seja estabelecido junto do depósito franco instituído em nome da firma CABLESA - Indústria de Componentes Eléctricos, Lda., situado no lugar de Tapada Nova, freguesia de São Pedro de Penaferrim, concelho de Sintra, de conformidade com o disposto no artigo 2.º do [Decreto n.º 127/82](https://diariodarepublica.pt/dr/detalhe/decreto/127-1982-377148), de 12 de Novembro, um posto fiscal com o efectivo de 1 cabo e 5 soldados.\n\n2.º Que se proceda à correspondente inserção do referido posto fiscal no mapa II anexo à Reforma Aduaneira, sob a rubrica «Alfândega de Lisboa».\n\nSecretaria de Estado do Orçamento.\n\nAssinada em 9 de Março de 1984.\n\nO Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias."
+  },
+  "519e67b61002247f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-01-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 40/91](https://diariodarepublica.pt/dr/detalhe/portaria/40-1991-495325), publicado em 1991-01-17."
+   ],
+   "markdown": "de 28 de Março\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento, nos termos do n.º 3.º do artigo 4.º e do seu § único da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, o seguinte:\n\n1.º Que seja estabelecido junto do depósito franco instituído em nome da firma CABLESA - Indústria de Componentes Eléctricos, Lda., situado no lugar de Tapada Nova, freguesia de São Pedro de Penaferrim, concelho de Sintra, de conformidade com o disposto no artigo 2.º do [Decreto n.º 127/82](https://diariodarepublica.pt/dr/detalhe/decreto/127-1982-377148), de 12 de Novembro, um posto fiscal com os efectivos fiscais julgados necessários.\n\n> Alterado pelo/a [Portaria n.º 40/91](https://diariodarepublica.pt/dr/detalhe/portaria/40-1991-495325), publicado em 1991-01-17.\n\n2.º Que se proceda à correspondente inserção do referido posto fiscal no mapa II anexo à Reforma Aduaneira, sob a rubrica «Alfândega de Lisboa».\n\nSecretaria de Estado do Orçamento.\n\nAssinada em 9 de Março de 1984.\n\nO Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias."
+  }
+ }
+}

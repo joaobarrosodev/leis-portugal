@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:578771:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caçadores de S. Bento do Castelo, com o número de pessoa colectiva 505507498 e sede no lugar de Linhares, São Tomé do Castelo, 5000 Vila Real, a zona de caça associativa de São Bento do Castelo (processo n.º 3339-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de São Tomé do Castelo, município de Vila Real, com a área de 2995 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1033-AX/2004: nova redação do n.º 1.º (processo 3339-DGF); substituída a unidade 6."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

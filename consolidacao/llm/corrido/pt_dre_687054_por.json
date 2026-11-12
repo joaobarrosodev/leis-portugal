@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:687054:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Benespera, município da Guarda, com uma área 1534,75 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a substituição da planta anexa não é textual (planta só em imagem). Alteradores 2 e 3 (renovação da concessão e anexação de prédios) são atos autónomos sem instrução de alteração do texto do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1474/95): nova redação do n.º 1.º, área 1534,75 ha (unidade 6), copiado letra a letra; substituição da planta não aplicável (imagem).",
+    "Alterador 2 (Portaria 540/2003): renova a concessão por 12 anos com nova planta; sem alteração textual do original.",
+    "Alterador 3 (Portaria 1264-AN/2004): anexa prédios (561 ha); sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

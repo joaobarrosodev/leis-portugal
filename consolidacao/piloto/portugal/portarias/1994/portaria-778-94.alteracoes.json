@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 46-47",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.3 - Zona de protecção verde. - É constituída por uma faixa que envolve os limites norte, nascente e sul da área de intervenção.\n\nA zona de protecção verde será ligada à zona rural de protecção tal como esta se encontra definida no anteplano de urbanização em vigor. Esta faixa será constituída por extracto arbóreo, devendo ter uma largura mínima de 50 m.",
+    "depois": "3.3 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:655337:por",
+    "alterador": "pt:dre:114145166:por"
+  }
+]

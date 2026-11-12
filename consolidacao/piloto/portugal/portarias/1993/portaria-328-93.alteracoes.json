@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) Um oficial da Armada em serviço no Laboratório de Explosivos da Marinha;",
+    "depois": "e) Um oficial da Armada em serviço no Serviço de Armas Navais da Direcção de Navios;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:637908:por",
+    "alterador": "pt:dre:513263:por"
+  }
+]

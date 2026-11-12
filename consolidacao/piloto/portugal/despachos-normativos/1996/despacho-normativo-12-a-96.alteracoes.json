@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 24-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - Para efeitos do número anterior, entende-se por prioritários os projectos relativos a:",
+    "depois": "3 - Para efeitos do número anterior, entendem-se por prioritários os projectos relativos a:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:618170:por",
+    "alterador": "pt:dre:643718:por"
+  },
+  {
+    "artigo": "depois da unidade 24",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "a) Investimentos a efectuar nas áreas geográficas de intervenção dos Programas de Desenvolvimento do Douro/Vale do Côa, Norte Alentejano e Margens do Guadiana, previstos na medida «Acções piloto de valorização do potencial endógeno» do Subprograma Acções Específicas de Reequílibrio, do Programa de Promoção do Potencial de Desenvolvimento Regional;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:618170:por",
+    "alterador": "pt:dre:643718:por"
+  },
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Investimentos em infra-estruturas e equipamento de rega, desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar;",
+    "depois": "b) Investimentos em infra-estruturas e equipamento de rega, desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:618170:por",
+    "alterador": "pt:dre:643718:por"
+  },
+  {
+    "artigo": "unidades 26-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Actividades vegetais:",
+    "depois": "c) Actividades vegetais:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:618170:por",
+    "alterador": "pt:dre:643718:por"
+  },
+  {
+    "artigo": "unidades 29-29",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Actividades animais:",
+    "depois": "d) Actividades animais:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:618170:por",
+    "alterador": "pt:dre:643718:por"
+  }
+]

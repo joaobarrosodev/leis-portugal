@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:661557:por",
+  "artigos": [
+    {
+      "chave": "4.º-A",
+      "epigrafe": "",
+      "texto": "A título transitório, os processos de candidatura relativos aos programas anuais de execução de 2006 às ajudas à preservação e melhoramento genético das raças autóctones, raças exóticas e raça bovina frísia podem ser entregues até 30 dias após a entrada em vigor do presente diploma.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (Portaria 467/2006): aditado à Portaria n.º 391/2006 (ao diploma, não ao Regulamento anexo) o artigo 4.º-A, sem epígrafe; chave '4.º-A' conforme a instrução."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:668528:por",
+  "substituicoes": [
+    {
+      "de": 27,
+      "ate": 29,
+      "texto": "",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1270/93 suprime o n.º 4.º (Regime pós-laboral): eliminadas as unidades 27-29 (número, epígrafe e corpo)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:589294:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Artigo 2.º da Portaria n.º 154/2017 altera a competência territorial da Comissão (passa a ser Campanhã e Bonfim) sem dar nova redação ao n.º 1.º; alteração não textual, não aplicada para não inventar texto.",
+  "instrucoes": [
+    "Art. 2.º da Portaria n.º 154/2017: redefine a competência territorial (freguesias de Campanhã e Bonfim) sem nova redação do 1.º; não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

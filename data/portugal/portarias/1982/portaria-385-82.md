@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-07-09'
+version_history:
+  file: portaria-385-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-04-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-07-09'
+    amending: pt:dre:394568:por
+    amending_title: Portaria n.º 686/82
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:15:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 686/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-385-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,7 +131,9 @@ Assim:
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Energia, ao abrigo do artigo 2.º do [Decreto-Lei n.º 32438](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32438-1942-342460), de 24 de Novembro de 1942, o seguinte:
 
-1.º O emprego do álcool etílico desnaturado como carburante de substituição em motores de viaturas que, entregues a organismo do Estado, se destinem a investigação e demonstração pode, caso a caso, ser autorizado pela Direcção-Geral de Energia.
+1.º O emprego do álcool etílico desnaturado como carburante de substituição em motores de viaturas que se destinem a investigação e demonstração pode, caso a caso, ser autorizado por despacho do Secretário de Estado da Energia.
+
+> Alterado pelo/a [Portaria n.º 686/82](https://diariodarepublica.pt/dr/detalhe/portaria/686-1982-394568), publicado em 1982-07-09.
 
 2.º Salvo o que decorre do disposto no número anterior, mantém-se a proibição no continente do emprego de álcool etílico natural ou desnaturado, como carburante em motores de explosão de qualquer tipo.
 

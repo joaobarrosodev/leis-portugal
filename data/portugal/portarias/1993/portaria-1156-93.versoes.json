@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:685420:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-11-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dcbdfbafdbb8eed1"
+   ]
+  },
+  {
+   "date": "1993-12-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:537415:por",
+     "title": "Portaria n.º 1271/93",
+     "published": "1993-12-15",
+     "dre_path": "/dr/detalhe/portaria/1271-1993-537415"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-9"
+   ],
+   "fragments": [
+    "b762461112c91e3e"
+   ]
+  }
+ ],
+ "fragments": {
+  "dcbdfbafdbb8eed1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Novembro\n\nSob proposta da comissão instaladora do Instituto Politécnico da Guarda;\n\nConsiderando o disposto no n.º 4.º da [Portaria n.º 926/93](https://diariodarepublica.pt/dr/detalhe/portaria/926-1993-655882), de 22 de Setembro;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\nÚnico\n\nVagas - 1993-1994\n\nO número de vagas para a candidatura à matrícula e inscrição, no ano lectivo de 1993-1994, no curso de estudos superiores especializados em Organização e Intervenção Sócio-Educativas ministrado pela Escola Superior de Educação (pólo da Guarda) do Instituto Politécnico da Guarda é fixado em 30.\n\nMinistério da Educação.\n\nAssinada em 11 de Outubro de 1993.\n\nPelo Ministro da Educação, Pedro Augusto Lynce de Faria, Secretário de Estado do Ensino Superior."
+  },
+  "b762461112c91e3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1993-12-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1271/93](https://diariodarepublica.pt/dr/detalhe/portaria/1271-1993-537415), publicado em 1993-12-15."
+   ],
+   "markdown": "de 6 de Novembro\n\nSob proposta da comissão instaladora do Instituto Politécnico da Guarda;\n\nConsiderando o disposto no n.º 4.º da [Portaria n.º 926/93](https://diariodarepublica.pt/dr/detalhe/portaria/926-1993-655882), de 22 de Setembro;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\nÚnico\n\nVagas - 1993-1994\n\nO número de vagas para a candidatura à matrícula e inscrição, no ano lectivo de 1993-1994, no curso de estudos superiores especializados em Organização e Intervenção Sócio-Educativas da Escola Superior de Educação do Instituto Politécnico da Guarda é o seguinte:\n\nEscola Superior de Educação da Guarda - 30;\n\nEscola Superior de Educação da Guarda (Seia) - 30.\n\n> Alterado pelo/a [Portaria n.º 1271/93](https://diariodarepublica.pt/dr/detalhe/portaria/1271-1993-537415), publicado em 1993-12-15.\n\nMinistério da Educação.\n\nAssinada em 11 de Outubro de 1993.\n\nPelo Ministro da Educação, Pedro Augusto Lynce de Faria, Secretário de Estado do Ensino Superior."
+  }
+ }
+}

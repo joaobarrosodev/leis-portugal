@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-03-12'
+version_history:
+  file: despacho-normativo-113-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-03-12'
+    amending: pt:dre:287623:por
+    amending_title: Despacho Normativo n.º 11/88
+    changes:
+    - Altera Artigo unidades 44-48
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:34:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 11/88. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1986/despacho-normativo-113-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -196,15 +211,13 @@ g) Pelos quantitativos libertados pela aplicação do disposto no n.º 20, alín
 
 12 - Na distribuição dos saldos disponíveis observar-se-ão os seguintes procedimentos:
 
-a) A distribuição realizar-se-á, em princípio, segundo o sistema do licenciamento contínuo, com observância do disposto no n.º 14 e aplicação dos factores de ponderação previstos na alínea a) do n.º 16;
+a) A distribuição realizar-se-á, em princípio, segundo o sistema do licenciamento contínuo com observância do disposto no n.º 14 e aplicação dos factores de ponderação previstos na alínea a) do n.º 16;
 
-b) Serão, no entanto, efectuadas, nos primeiros cinco dias úteis de cada mês e a partir do mês de Fevereiro, inclusive, distribuições mensais dos saldos disponíveis nas categorias de produtos para os mercados que, pela pressão normal ou conjunturalmente existente, venham a ser superiormente considerados sensíveis;
+b) Em caso de eventuais dificuldades relativamente a qualquer categoria de produtos e para qualquer mercado, os respectivos pedidos de licenciamento de extras serão apreciados nas reuniões mensais que, a partir do mês de Fevereiro, poderão então efectuar-se nos primeiros cinco dias úteis de cada mês, com vista à distribuição criteriosa dos saldos disponíveis de cada uma dessas categorias que sejam consideradas sensíveis;
 
-c) O IT proporá superiormente, no início do ano e quando as circunstâncias de pressão o aconselharem, as categorias de produtos para determinados mercados a que o regime de distribuições mensais será aplicável;
+c) O IT comunicará às associações representativas do sector quais as categorias de produtos e quais os mercados a que será aplicável o disposto na alínea b).
 
-d) O IT proporá também superiormente o montante dos saldos disponíveis a considerar em cada uma das distribuições mensais, na observância do princípio de que a distribuição das exportações, com excepção das sazonais, deverá ser, tanto quanto possível, regular e homogénea ao longo do ano;
-
-e) O IT comunicará às associações representativas do sector quais as categorias de produtos e quais os mercados a que será aplicável o regime de distribuições mensais dos saldos disponíveis, bem como, até ao dia 15 do mês anterior a cada distribuição, qual o montante dos saldos disponíveis para o efeito dessa distribuição.
+> Alterado pelo/a [Despacho Normativo n.º 11/88](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-1988-287623), publicado em 1988-03-07.
 
 13 - O IT poderá propor superiormente, perante excepcionais condições de pressão em determinadas categorias de produtos para determinados mercados, nas quais esteja, nos termos da alínea b) do n.º 12, a ser aplicado o regime de distribuições mensais dos saldos disponíveis, a realização de distribuições intercalares, por antecipação parcial ou global das distribuições subsequentes, dando prévia notícia das mesmas às associações representativas do sector.
 

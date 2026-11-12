@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:585029:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 11,
+      "texto": "1.º São integrados no Centro Regional de Segurança Social de Lisboa e Vale do Tejo os contribuintes, beneficiários e acções da Caixa de Previdência do Pessoal da Companhia Carris de Ferro de Lisboa (adiante designada por Caixa), com efeitos reportados a 1 de Outubro de 1993.\n\n2.º A integração orgânica e funcional da Caixa e do respectivo pessoal no Centro Regional de Segurança Social de Lisboa e Vale do Tejo terá igualmente lugar em 1 de Outubro de 1993.\n\n3.º Os equipamentos da Caixa, bem como as suas posições contratuais, tanto activas como passivas, consideram-se transferidos para a titularidade do Centro Regional de Segurança Social de Lisboa e Vale do Tejo, com efeitos reportados à data da integração, de acordo com os artigos 2.º e 5.º do [Decreto-Lei n.º 515/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1979-365765), de 28 de Dezembro.\n\n4.º Dentro do prazo estabelecido nos números anteriores, a Caixa e o Centro Regional de Segurança Social de Lisboa e Vale do Tejo devem acordar sobre as acções necessárias à efectivação das diversas operações que a integração comporte, com o apoio da Direcção-Geral de Apoio Técnico à Gestão.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 957/93 dá nova redação aos n.os 1.º, 2.º, 3.º e 4.º: substituídas as unidades 8 a 11 pelo texto novo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

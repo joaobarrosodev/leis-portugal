@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Pedidos de financiamento\n\n1 - Os pedidos de financiamento serão sempre anuais.\n\n2 - Quando se trate de planos de formação com incidência financeira em mais de um ano económico, deverão as entidades promotoras formular os pedidos de financiamento até 30 de Setembro de cada ano, para efeitos de execução do plano.",
+    "depois": "###### Artigo 4.º — Pedidos de financiamento\n\n1 - Os pedidos de financiamento serão sempre anuais.\n\n2 - Quando se trate de planos de formação com incidência financeira com mais de um ano económico, deverão as entidades promotoras formular os pedidos de financiamento até ao fim de cada ano, para efeitos de continuidade de execução do plano.\n\n> Alterado pelo/a [Despacho Normativo n.º 701/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/701-1994-600129), publicado em 1994-10-01.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:654902:por",
+    "alterador": "pt:dre:600129:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:676182:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 12,
+      "texto": "a) 50 % relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 10 % relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 10 % relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 30 % aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 1601/2007): nova redação do n.º 3.º; o proémio (unidade 8) fica igual, substituídas as alíneas a) a d) (unidades 9-12) com as novas percentagens."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

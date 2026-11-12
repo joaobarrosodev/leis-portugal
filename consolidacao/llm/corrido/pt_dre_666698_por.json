@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:666698:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 1253/93 altera o mapa I (lugares de cozinheiro a abater passam a três) e acrescenta uma carreira ao mapa II, mas ambos os mapas só existem em imagem no texto (unidades 14 e 16) e a carreira acrescentada também só vem em imagem; não há texto onde aplicar.",
+  "instrucoes": [
+    "Portaria 1253/93 n.º 1): mapa I, cozinheiro passam a três lugares a abater — não aplicado (mapa em imagem).",
+    "Portaria 1253/93 n.º 2): acrescenta carreira ao mapa II — não aplicado (mapa e carreira em imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

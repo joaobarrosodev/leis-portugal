@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 44-48",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) A distribuição realizar-se-á, em princípio, segundo o sistema do licenciamento contínuo, com observância do disposto no n.º 14 e aplicação dos factores de ponderação previstos na alínea a) do n.º 16;\n\nb) Serão, no entanto, efectuadas, nos primeiros cinco dias úteis de cada mês e a partir do mês de Fevereiro, inclusive, distribuições mensais dos saldos disponíveis nas categorias de produtos para os mercados que, pela pressão normal ou conjunturalmente existente, venham a ser superiormente considerados sensíveis;\n\nc) O IT proporá superiormente, no início do ano e quando as circunstâncias de pressão o aconselharem, as categorias de produtos para determinados mercados a que o regime de distribuições mensais será aplicável;\n\nd) O IT proporá também superiormente o montante dos saldos disponíveis a considerar em cada uma das distribuições mensais, na observância do princípio de que a distribuição das exportações, com excepção das sazonais, deverá ser, tanto quanto possível, regular e homogénea ao longo do ano;\n\ne) O IT comunicará às associações representativas do sector quais as categorias de produtos e quais os mercados a que será aplicável o regime de distribuições mensais dos saldos disponíveis, bem como, até ao dia 15 do mês anterior a cada distribuição, qual o montante dos saldos disponíveis para o efeito dessa distribuição.",
+    "depois": "a) A distribuição realizar-se-á, em princípio, segundo o sistema do licenciamento contínuo com observância do disposto no n.º 14 e aplicação dos factores de ponderação previstos na alínea a) do n.º 16;\n\nb) Em caso de eventuais dificuldades relativamente a qualquer categoria de produtos e para qualquer mercado, os respectivos pedidos de licenciamento de extras serão apreciados nas reuniões mensais que, a partir do mês de Fevereiro, poderão então efectuar-se nos primeiros cinco dias úteis de cada mês, com vista à distribuição criteriosa dos saldos disponíveis de cada uma dessas categorias que sejam consideradas sensíveis;\n\nc) O IT comunicará às associações representativas do sector quais as categorias de produtos e quais os mercados a que será aplicável o disposto na alínea b).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:627061:por",
+    "alterador": "pt:dre:287623:por"
+  }
+]

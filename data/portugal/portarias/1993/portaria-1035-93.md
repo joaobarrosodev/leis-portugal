@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-12-20'
+version_history:
+  file: portaria-1035-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-10-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-12-20'
+    amending: pt:dre:537414:por
+    amending_title: Portaria n.º 1270/93
+    changes:
+    - Altera Artigo unidades 27-29
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1035/1993/10/15/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:41:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1270/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-1035-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,11 +177,7 @@ Contingente da alínea a) do n.º 1 do n.º 6.º da [Portaria n.º 1074/91](http
 
 2 - As vagas eventualmente sobrantes desta operação não serão utilizáveis para qualquer fim.
 
-4.º
-
-Regime pós-laboral
-
-O curso a que se refere o n.º 1.º será ministrado exclusivamente em regime pós-laboral.
+> Alterado pelo/a [Portaria n.º 1270/93](https://diariodarepublica.pt/dr/detalhe/portaria/1270-1993-537414), publicado em 1993-12-15.
 
 Ministério da Educação.
 

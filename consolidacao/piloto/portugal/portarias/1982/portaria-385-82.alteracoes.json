@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º O emprego do álcool etílico desnaturado como carburante de substituição em motores de viaturas que, entregues a organismo do Estado, se destinem a investigação e demonstração pode, caso a caso, ser autorizado pela Direcção-Geral de Energia.",
+    "depois": "1.º O emprego do álcool etílico desnaturado como carburante de substituição em motores de viaturas que se destinem a investigação e demonstração pode, caso a caso, ser autorizado por despacho do Secretário de Estado da Energia.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:607506:por",
+    "alterador": "pt:dre:394568:por"
+  }
+]

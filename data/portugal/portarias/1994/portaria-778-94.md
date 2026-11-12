@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2017-11-03'
+version_history:
+  file: portaria-778-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-08-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-11-03'
+    amending: pt:dre:114145166:por
+    amending_title: Aviso n.º 13207/2017
+    changes:
+    - Altera Artigo unidades 46-47
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/778/1994/08/30/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:37:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso n.º 13207/2017. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-778-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -210,9 +225,9 @@ As indústrias a instalar na Zona Industrial deverão respeitar a legislação e
 
 3.2 - Faseamento. - O Plano de Pormenor da Zona Industrial de Estremoz será implementado numa única fase; no entanto, a ocupação em cada zona estará condicionada pela possibilidade de ser servida pelas infra-estruturas entretanto instaladas.
 
-3.3 - Zona de protecção verde. - É constituída por uma faixa que envolve os limites norte, nascente e sul da área de intervenção.
+3.3 - (Revogado.)
 
-A zona de protecção verde será ligada à zona rural de protecção tal como esta se encontra definida no anteplano de urbanização em vigor. Esta faixa será constituída por extracto arbóreo, devendo ter uma largura mínima de 50 m.
+> Alterado pelo/a [Aviso n.º 13207/2017](https://diariodarepublica.pt/dr/detalhe/aviso/13207-2017-114145166), publicado em 2017-11-03.
 
 3.3.1 - Nas áreas já consolidadas onde a Zona Industrial eventualmente confine com áreas residenciais será igualmente criada uma estrutura verde de protecção.
 

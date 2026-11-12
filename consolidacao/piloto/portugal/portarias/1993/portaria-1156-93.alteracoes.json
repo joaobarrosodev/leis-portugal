@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O número de vagas para a candidatura à matrícula e inscrição, no ano lectivo de 1993-1994, no curso de estudos superiores especializados em Organização e Intervenção Sócio-Educativas ministrado pela Escola Superior de Educação (pólo da Guarda) do Instituto Politécnico da Guarda é fixado em 30.",
+    "depois": "O número de vagas para a candidatura à matrícula e inscrição, no ano lectivo de 1993-1994, no curso de estudos superiores especializados em Organização e Intervenção Sócio-Educativas da Escola Superior de Educação do Instituto Politécnico da Guarda é o seguinte:\n\nEscola Superior de Educação da Guarda - 30;\n\nEscola Superior de Educação da Guarda (Seia) - 30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:685420:por",
+    "alterador": "pt:dre:537415:por"
+  }
+]

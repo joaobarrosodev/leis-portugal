@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Se, à data de celebração do contrato, tiverem sido legalmente alteradas as taxas de juro para empréstimo a prazo idêntico ao constante desta portaria (oito anos), ficará autorizada a empresa a celebrar o contrato, estipulando a taxa de juro que nessa data vigorar.",
+    "depois": "3.º Se, à data da celebração do contrato, tiverem sido legalmente alteradas as taxas de juro para empréstimo a prazo idêntico ao constante desta portaria (10 anos), ficará autorizada a empresa a celebrar o contrato, estipulando a taxa de juro que nessa data vigorar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:575941:por",
+    "alterador": "pt:dre:601085:por"
+  }
+]

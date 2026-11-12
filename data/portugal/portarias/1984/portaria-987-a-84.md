@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-09-09'
+version_history:
+  file: portaria-987-a-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-09-09'
+    amending: pt:dre:220085:por
+    amending_title: Portaria n.º 489/86
+    changes:
+    - Altera Artigo unidades 19-19
+    - Altera Artigo unidades 21-21
 identifiers:
   celex: null
   eli: null
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:18:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 489/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-987-a-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,11 +166,15 @@ te - taxa semestral equivalente à taxa anual de 15%.
 
 4.º No caso de venda de terrenos, o mutuário procederá à imediata amortização extraordinária do empréstimo, na percentagem do financiamento em relação ao saldo devedor global.
 
-5.º Os empréstimos beneficiarão de uma bonificação à taxa de juro de 6,5% ao ano durante os 3 primeiros anos da sua vigência, sofrendo uma redução de 1% por ano nos anos seguintes.
+5.º Os empréstimos beneficiarão de uma bonificação à taxa de juro de 4,5% ao ano durante os três primeiros anos da sua vigência, sofrendo uma redução de 1% por ano nos anos seguintes.
+
+> Alterado pelo/a [Portaria n.º 489/86](https://diariodarepublica.pt/dr/detalhe/portaria/489-1986-220085), publicado em 1986-09-04.
 
 6.º Os montantes das bonificações são calculados pela aplicação da taxa de bonificação ao saldo devedor (S(índice k)) do empréstimo e deduzidos à prestação determinada de acordo com o n.º 3.º da presente portaria.
 
-7.º As bonificações serão processadas através do Instituto Nacional de Habitação, em condições a acordar entre este e as restantes instituições financiadoras, tendo por base o plano de aplicação elaborado de acordo com as orientações da política habitacional, devendo a taxa de bonificação manter-se fixa, a não ser que venha a verificar-se uma redução da taxa de juro, a qual acarretará uma redução, em igual número de pontos, na taxa de bonificações.
+7.º As bonificações serão processadas através do Instituto Nacional de Habitação, em condições a acordar entre este e as restantes instituições financiadoras, tendo por base o plano de aplicação elaborado de acordo com as orientações da política habitacional.
+
+> Alterado pelo/a [Portaria n.º 489/86](https://diariodarepublica.pt/dr/detalhe/portaria/489-1986-220085), publicado em 1986-09-04.
 
 8.º Para os anos de 1984 e 1985 é estabelecido um montante global de financiamento até ao valor de 2 milhões de contos, não podendo, no primeiro daqueles anos, o valor dos financiamentos exceder 1 milhão de contos.
 

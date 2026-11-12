@@ -38,10 +38,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-02-04'
+version_history:
+  file: portaria-852-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-08-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-02-04'
+    amending: pt:dre:150907:por
+    amending_title: Portaria n.º 55/92
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 30.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/852/1991/08/19/p/dre/pt/html
@@ -67,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:02:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 55/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-852-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -180,9 +204,11 @@ São órgãos de direcção técnica do CHC o director clínico e o enfermeiro-d
 
 ###### Artigo 6.º — Órgãos de apoio técnico
 
-1 - São órgãos de apoio técnico do CHC o conselho técnico, o conselho de adjuntos do director clínico, o conselho de enfermeiros-supervisores, a comissão médica, a comissão de enfermagem, a comissão de farmácia e terapêutica, a comissão de ética, comissão de epidemiologia e luta contra a infecção hospitalar e a comissão de coordenação oncológica.
+1 - São órgãos de apoio técnico do CHC o conselho técnico, o conselho de directores clínicos adjuntos do director clínico, o conselho de enfermeiros-supervisores, a comissão médica, a comissão de enfermagem, a comissão de farmácia e terapêutica, a comissão de ética, a comissão de epidemiologia e luta contra a infecção hospitalar e a comissão de coordenação oncológica.
 
 2 - Por iniciativa própria ou sob proposta, pode o conselho de administração constituir outras comissões permanentes ou grupos de trabalho, competindo-lhe, igualmente, a sua dissolução.
+
+> Alterado pelo/a [Portaria n.º 55/92](https://diariodarepublica.pt/dr/detalhe/portaria/55-1992-150907), publicado em 1992-01-30.
 
 ###### Artigo 7.º — Órgãos de participação e consulta
 
@@ -208,7 +234,7 @@ O conselho geral é o órgão de participação e consulta do CHC.
 
 1 - Ao director clínico do CHC compete coordenar a actividade médica dos hospitais integrados e dos departamentos e serviços comuns de acção médica.
 
-2 - Para efeitos do disposto no número anterior, cabe ao director clínico do CHC, no âmbito do conselho de adjuntos do director clínico, tomar as medidas necessárias, com salvaguarda das competências atribuídas a outros órgãos, e, nomeadamente:
+2 - Para efeitos do disposto no número anterior, cabe ao director clínico do CHC, no âmbito do conselho de directores clínicos adjuntos do director clínico, tomar as medidas necessárias, com salvaguarda das competências atribuídas a outros órgãos, nomeadamente:
 
 a) Compatibilizar, do ponto de vista técnico, os planos de acção apresentados pelos hospitais integrados e departamentos e serviços comuns de acção médica, com vista à sua inscrição no plano de acção global do CHC;
 
@@ -218,7 +244,9 @@ c) Fomentar a ligação, articulação e colaboração entre os hospitais integr
 
 d) Decidir os conflitos que surjam entre os hospitais integrados, os departamentos e serviços comuns de acção médica;
 
-e) Decidir em conselho de adjuntos do director clínico as dúvidas que lhe sejam presentes sobre deontologia médica pelos adjuntos do director clínico dos hospitais integrados e directores de departamentos e serviços comuns de acção médica.
+e) Decidir em conselho de directores clínicos adjuntos do director clínico as dúvidas que lhes sejam presentes sobre deontologia médica pelos directores clínicos adjuntos dos hospitais integrados e directores de departamentos e serviços comuns de acção médica.
+
+> Alterado pelo/a [Portaria n.º 55/92](https://diariodarepublica.pt/dr/detalhe/portaria/55-1992-150907), publicado em 1992-01-30.
 
 ###### Artigo 11.º — Enfermeiro-director do serviço de enfermagem
 
@@ -278,25 +306,29 @@ d) Dar parecer sobre os assuntos que lhe sejam apresentados;
 
 e) Sugerir o que julgar útil para a melhoria técnica dos serviços e para o aumento da sua eficiência.
 
-###### Artigo 13.º — Conselho de adjuntos do director clínico
+###### Artigo 13.º — Conselho de directores clínicos adjuntos
 
-1 - O conselho de adjuntos do director clínico é um órgão de apoio técnico, prestando apoio ao director clínico do CHC, que preside.
+1 - O conselho é um órgão de apoio técnico que presta apoio ao director clínico do CHC, que preside.
 
-2 - Fazem parte do conselho de adjuntos do director clínico, para além do seu presidente, os adjuntos do director clínico dos hospitais integrados.
+2 - Fazem parte do conselho, para além do seu presidente, os directores clínicos adjuntos dos hospitais integrados.
 
-3 - Compete ao conselho de adjuntos do director clínico emitir parecer, obrigatório nas situações previstas no n.º 2 do artigo 30.º do presente regulamento, sobre todas as matérias que o conselho de administração e o director clínico do CHC entendam submeter-lhe.
+3 - Compete ao conselho de directores clínicos adjuntos do director clínico emitir parecer obrigatório nas situações previstas no n.º 2 do artigo 30.º do presente regulamento e sobre todas as matérias que o conselho de administração e o director clínico do CHC entenderem submeter-lhe.
 
-4 - Ao conselho de adjuntos do director clínico compete ainda a coordenação e integração da orientação técnica dos serviços dos hospitais integrados e departamentos.
+4 - Ao conselho compete ainda a coordenação e integração da orientação técnica dos hospitais integrados e departamentos.
 
-5 - O conselho de adjuntos do director clínico reúne quando convocado pelo seu presidente ou a pedido de, pelo menos, dois dos seus vogais.
+5 - O conselho reúne quando convocado pelo seu presidente ou a pedido de, pelo menos, dois dos seus vogais.
+
+> Alterado pelo/a [Portaria n.º 55/92](https://diariodarepublica.pt/dr/detalhe/portaria/55-1992-150907), publicado em 1992-01-30.
 
 ###### Artigo 14.º — Comissão médica
 
 1 - A comissão médica do CHC é constituída pelo plenário das comissões médicas dos hospitais integrados e pelos directores de cada um dos departamentos e serviços comuns de acção médica do CHC, cabendo-lhe as competências constantes do artigo 20.º do Decreto Regualmentar n.º 3/88, de 22 de Janeiro, com as necessárias adaptações.
 
-2 - A comissão médica do CHC reúne em plenário sempre que o director clínico do CHC a convocar, por iniciativa própria ou a pedido de, pelo menos, dois dos directores clínicos dos hospitais integrados.
+2 - A comissão médica do CHC reúne em plenário sempre que o director clínico do CHC a convocar, por iniciativa própria ou a pedido de, pelo menos, dois dos directores clínicos adjuntos dos hospitais integrados.
 
-3 - Em cada hospital integrado existirá uma comissão médica como órgão de apoio técnico do respectivo director clínico, o qual preside, e com a constituição, forma de funcionamento e competências constantes dos artigos 19.º e 20.º do [Decreto Regulamentar n.º 3/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1988-138480), de 22 de Janeiro.
+3 - Em cada hospital integrado existirá uma comissão médica como órgão de apoio técnico do respectivo director clínico adjunto, o qual preside, e com a constituição, forma de funcionamento e competências constantes dos artigos 19.º e 20.º do [Decreto Regulamentar n.º 3/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1988-138480), de 22 de Janeiro.
+
+> Alterado pelo/a [Portaria n.º 55/92](https://diariodarepublica.pt/dr/detalhe/portaria/55-1992-150907), publicado em 1992-01-30.
 
 ###### Artigo 15.º — Comissão de ética
 
@@ -324,11 +356,13 @@ As questões relativas à ética, entendida esta não apenas na sua vertente mé
 
 1 - A comissão de farmácia e terapêutica do CHC é constituída pelo plenário das comissões de farmácia e terapêutica de cada um dos hospitais integrados, pelo director clínico do CHC e pelo director dos serviço farmacêuticos do CHC.
 
-2 - A comissão de farmácia e terapêutica do CHC é presidida pelo director clínico, reunindo sempre que convocada pelo seu presidente, por iniciativa própria ou a pedido de, pelo menos, dois dos directores clínicos dos hospitais integrados.
+2 - A comissão de farmácia e terapêutica do CHC é presidida pelo director clínico, reunindo sempre que convocada pelo seu presidente, por iniciativa própria ou a pedido de, pelo menos, dois dos directores clínicos adjuntos dos hospitais integrados.
 
 3 - A competência da comissão de farmácia e terapêutica do CHC é a que consta do artigo 24.º do [Decreto Regulamentar n.º 3/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1988-138480), de 22 de Janeiro, no que respeita à globalidade do CHC, sendo exercida ao nível dos hospitais integrados pelas comissões de farmácia e terapêutica próprias, nos termos do número seguinte.
 
-4 - As comissões de farmácia e terapêutica dos hospitais integrados, nomeadas pelo conselho de administração sob proposta do director clínico do respectivo hospital, são constituídas por igual número de médicos e técnicos superiores de saúde do ramo farmacêutico, sendo presididas pelo director clínico do hospital integrado ou por médico em quem delegue tais atribuições.
+4 - As comissões de farmácia e terapêutica dos hospitais integrados, nomeadas pelo conselho de administração, sob proposta do director clínico adjunto do respectivo hospital, são constituídas por igual número de médicos e técnicos superiores de saúde do ramo farmacêutico, sendo presididas pelo director clínico adjunto do hospital integrado ou por médico em quem delegue tais atribuições.
+
+> Alterado pelo/a [Portaria n.º 55/92](https://diariodarepublica.pt/dr/detalhe/portaria/55-1992-150907), publicado em 1992-01-30.
 
 ###### Artigo 19.º — Comissão de epidemiologia e lula contra a infecção hospitalar
 
@@ -348,9 +382,11 @@ As questões relativas à ética, entendida esta não apenas na sua vertente mé
 
 2 - A comissão de coordenação oncológica do CHC é constituída pelo plenário das comissões de coordenação oncológica de cada um dos hospitais integrados e pelo director clínico do CHC.
 
-3 - A comissão de coordenação oncológica do CHC é presidida pelo director clínico, reunindo sempre que convocada pelo seu presidente, por iniciativa própria ou a pedido de, pelo menos, dois dos adjuntos do director clínico dos hospitais integrados.
+3 - A comissão de coordenação oncológica do CHC é presidida pelo director clínico, reunindo sempre que convocada pelo seu presidente, por iniciativa própria ou a pedido de, pelo menos, dois dos directores clínicos adjuntos dos hospitais integrados.
 
 4 - A competência da comissão de coordenação oncológica do CHC é a que consta no n.º 6.º da [Portaria n.º 420/90](https://diariodarepublica.pt/dr/detalhe/portaria/420-1990-575143), de 8 de Junho, no que respeita à globalidade do CHC, sendo exercida, ao nível dos hospitais integrados, pelas comissões de coordenação oncológica próprias.
+
+> Alterado pelo/a [Portaria n.º 55/92](https://diariodarepublica.pt/dr/detalhe/portaria/55-1992-150907), publicado em 1992-01-30.
 
 ###### Artigo 21.º — Conselho geral
 
@@ -398,7 +434,7 @@ III - Dos hospitais integrados
 
 ###### Artigo 24.º — Conselhos directivos
 
-1 - A prossecução dos objectivos específicos de cada um dos hospitais integrados no CHC é assegurada, em cada um deles, por um conselho directivo, constituído pelo director clínico, que preside, pelo administrador e pelo enfermeiro-supervisor respectivos.
+1 - A prossecução dos objectivos específicos de cada um dos hospitais integradas no CHC é assegurada, em cada um deles, por um conselho directivo, constituído pelo director clínico adjunto, que preside, pelo administrador e pelo enfermeiro-supervisor respectivos.
 
 2 - A estes órgãos compete a gestão dos recursos postos à disposição os hospitais integrados, a coordenação do seu funcionamento geral, bem como a conjugação das competências individuais dos seus membros.
 
@@ -406,15 +442,21 @@ III - Dos hospitais integrados
 
 4 - Compete ainda aos conselhos directivos a apresentação de relatórios de actividades e respectiva tradução orçamental, bem como proceder à avaliação anual do funcionamento dos hospitais integrados respectivos.
 
-###### Artigo 25.º — Adjuntos do director clínico
+> Alterado pelo/a [Portaria n.º 55/92](https://diariodarepublica.pt/dr/detalhe/portaria/55-1992-150907), publicado em 1992-01-30.
 
-1 - Em cada um dos hospitais integrados existirá, como órgão de direcção técnica, pelo menos um adjunto do director clínico, proposto por este, nomeado pelo conselho de administração de entre os médicos do quadro de pessoal do CHC que exerçam funções no hospital respectivo e possuidores do grau de chefe de serviço, ouvido o pessoal médico do quadro do hospital em questão.
+###### Artigo 25.º — Directores clínicos adjuntos dos hospitais integrados
 
-2 - Aos adjuntos do director clínico dos hospitais integrados cabe o exercício das competências que lhe forem delegadas por aquele.
+1 - Em cada um dos hospitais integrados existe um director clínico adjunto, proposto pelo director clínico do CHC e nomeado pelo conselho de administração de entre os médicos do quadro de pessoal do CHC que exerçam funções no respectivo hospital e sejam possuidores do grau de chefe de serviço, ouvido o pessoal médico do quadro do respectivo hospital.
 
-3 - Os adjuntos do director clínico dos hospitais integrados são membros, por inerência, do conselho directivo respectivo, ao qual presidem.
+2 - Ao director clínico adjunto do hospital integrado cabe o exercício das competências que lhe forem delegadas pelo conselho de administração e as constantes do artigo 13.º do [Decreto Regulamentar n.º 3/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1988-138480), de 22 de Janeiro, no âmbito do respectivo hospital integrado.
 
-4 - Os adjuntos do director clínico dos hospitais integrados exercerão as respectivas funções em acumulação com as suas tarefas hospitalares, embora possam, por proposta do director clínico do CHC, ser delas parcialmente dispensados.
+3 - O director clínico adjunto do hospital integrado é, por inerência, membro do respectivo conselho directivo, ao qual preside.
+
+4 - O director clínico adjunto do hospital integrado exerce as respectivas funções em acumulação com as suas funções hospitalares, embora possa, por proposta do director clínico do CHC, ser delas parcialmente dispensado.
+
+5 - O director clínico adjunto do hospital integrado pode propor ao conselho de administração a nomeação de adjuntos para o hospital integrado respectivo.
+
+> Alterado pelo/a [Portaria n.º 55/92](https://diariodarepublica.pt/dr/detalhe/portaria/55-1992-150907), publicado em 1992-01-30.
 
 ###### Artigo 26.º — Administradores dos hospitais integrados
 
@@ -428,9 +470,11 @@ III - Dos hospitais integrados
 
 1 - Em cada um dos hospitais integrados será nomeado um enfermeiro-supervisor ou, não sendo possível, um enfermeiro-chefe, para integrar o respectivo conselho directivo, o qual será proposto pelo enfermeiro-director do serviço de enfermagem de entre os enfermeiros daquelas categorias do quadro do hospital em questão, ouvidos os enfermeiros-supervisores e chefes do respectivo hospital e nomeado pelo conselho de administração.
 
-2 - Ao enfermeiro-supervisor de hospital integrado cabe o exercício das competências constantes do artigo 15.º do [Decreto Regulamentar n.º 3/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1988-138480), de 22 de Janeiro, no âmbito do hospital integrado respectivo.
+2 - Ao enfermeiro-supervisor do hospital integrado cabe o exercício de competências que lhe forem delegadas pelo conselho de administração e as constantes do artigo 15.º do [Decreto Regulamentar n.º 3/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1988-138480), de 22 de Janeiro, no âmbito do respectivo hospital integrado.
 
 3 - O enfermeiro-supervisor de hospital integrado pode propor ao conselho de administração a nomeação de um adjunto.
+
+> Alterado pelo/a [Portaria n.º 55/92](https://diariodarepublica.pt/dr/detalhe/portaria/55-1992-150907), publicado em 1992-01-30.
 
 ###### Artigo 28.º — Órgãos de apoio técnico
 
@@ -456,11 +500,13 @@ V - Estrutura da área de prestação de cuidados
 
 1 - Tendo presente o disposto no artigo 8.º do [Decreto-Lei n.º 19/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1988-506396), de 21 de Janeiro, e a sua específica natureza, o CHC tenderá a estruturar-se, na área da prestação de cuidados, em departamentos, para além dos hospitais integrados.
 
-2 - A constituição de departamentos e a modificação da estrutura departamental do CHC dependem de despacho do Ministro da Saúde, sob proposta do conselho de administração fundamentada em parecer do conselho de directores clínicos.
+2 - A constituição de departamentos e a modificação da estrutura departamental do CHC dependem de despacho do Ministro da Saúde, sob proposta do conselho de administração fundamentada em parecer do conselho de directores clínicos adjuntos.
 
 3 - A estrutura departamental pode ser adoptada no interior de cada um dos hospitais integrados, associando serviços próprios e obedecendo ao estipulado no número anterior.
 
 VI - Serviços
+
+> Alterado pelo/a [Portaria n.º 55/92](https://diariodarepublica.pt/dr/detalhe/portaria/55-1992-150907), publicado em 1992-01-30.
 
 ###### Artigo 31.º — Serviços centrais e comuns
 

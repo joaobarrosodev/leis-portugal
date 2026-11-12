@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:668528:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-10-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "96db6a1e348ecd1b"
+   ]
+  },
+  {
+   "date": "1993-12-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:537414:por",
+     "title": "Portaria n.º 1270/93",
+     "published": "1993-12-15",
+     "dre_path": "/dr/detalhe/portaria/1270-1993-537414"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 27-29"
+   ],
+   "fragments": [
+    "256cfcc6c2b0bcda"
+   ]
+  }
+ ],
+ "fragments": {
+  "96db6a1e348ecd1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Outubro\n\nSob proposta da comissão instaladora do Instituto Politécnico do Porto;\n\nTendo em vista o disposto na [Portaria n.º 1074/91](https://diariodarepublica.pt/dr/detalhe/portaria/1074-1991-344443), de 23 de Outubro;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nVagas (1993-1994)\n\nO número de vagas para a candidatura à matrícula e inscrição, no ano lectivo de 1993-1994, para o curso de estudos superiores especializados em Educação Especial - Educação Pré-Escolar e Ensino Básico (1.º Ciclo), ministrado pela Escola Superior de Educação do Instituto Politécnico do Porto, é fixado em 30, assim distribuídas pelas suas opções e contingentes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/242b00/58245824.pdf)\n\n2.º\n\nReversão de vagas entre contingentes\n\nEm cada uma das opções as vagas eventualmente não ocupadas de um contingente reverterão para o outro contingente.\n\n3.º\n\nVagas sobrantes\n\n1 - As vagas eventualmente sobrantes de uma opção serão afectadas às outras opções pela seguinte ordem de prioridade:\n\na) Deficiências Motoras e Mental:\n\nContingente da alínea b) do n.º 1 do n.º 6.º da Portaria nº 1074/91;\n\nContingente da alínea a) do n.º 1 do n.º 6.º da [Portaria n.º 1074/91](https://diariodarepublica.pt/dr/detalhe/portaria/1074-1991-344443);\n\nb) Deficiência Visual e Multideficiência:\n\nContingente da alínea b) do n.º 1 do n.º 6.º da [Portaria n.º 1074/91](https://diariodarepublica.pt/dr/detalhe/portaria/1074-1991-344443);\n\nContingente da alínea a) do n.º 1 do n.º 6.º da [Portaria n.º 1074/91](https://diariodarepublica.pt/dr/detalhe/portaria/1074-1991-344443);\n\nc) Deficiência Auditiva e Problemas de Linguagem:\n\nContingente da alínea b) do n.º 1 do n.º 6.º da [Portaria n.º 1074/91](https://diariodarepublica.pt/dr/detalhe/portaria/1074-1991-344443);\n\nContingente da alínea a) do n.º 1 do n.º 6.º da [Portaria n.º 1074/91](https://diariodarepublica.pt/dr/detalhe/portaria/1074-1991-344443).\n\n2 - As vagas eventualmente sobrantes desta operação não serão utilizáveis para qualquer fim.\n\n4.º\n\nRegime pós-laboral\n\nO curso a que se refere o n.º 1.º será ministrado exclusivamente em regime pós-laboral.\n\nMinistério da Educação.\n\nAssinada em 20 de Setembro de 1993.\n\nO Ministro da Educação, António Fernando Couto dos Santos."
+  },
+  "256cfcc6c2b0bcda": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1993-12-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1270/93](https://diariodarepublica.pt/dr/detalhe/portaria/1270-1993-537414), publicado em 1993-12-15."
+   ],
+   "markdown": "de 15 de Outubro\n\nSob proposta da comissão instaladora do Instituto Politécnico do Porto;\n\nTendo em vista o disposto na [Portaria n.º 1074/91](https://diariodarepublica.pt/dr/detalhe/portaria/1074-1991-344443), de 23 de Outubro;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nVagas (1993-1994)\n\nO número de vagas para a candidatura à matrícula e inscrição, no ano lectivo de 1993-1994, para o curso de estudos superiores especializados em Educação Especial - Educação Pré-Escolar e Ensino Básico (1.º Ciclo), ministrado pela Escola Superior de Educação do Instituto Politécnico do Porto, é fixado em 30, assim distribuídas pelas suas opções e contingentes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/242b00/58245824.pdf)\n\n2.º\n\nReversão de vagas entre contingentes\n\nEm cada uma das opções as vagas eventualmente não ocupadas de um contingente reverterão para o outro contingente.\n\n3.º\n\nVagas sobrantes\n\n1 - As vagas eventualmente sobrantes de uma opção serão afectadas às outras opções pela seguinte ordem de prioridade:\n\na) Deficiências Motoras e Mental:\n\nContingente da alínea b) do n.º 1 do n.º 6.º da Portaria nº 1074/91;\n\nContingente da alínea a) do n.º 1 do n.º 6.º da [Portaria n.º 1074/91](https://diariodarepublica.pt/dr/detalhe/portaria/1074-1991-344443);\n\nb) Deficiência Visual e Multideficiência:\n\nContingente da alínea b) do n.º 1 do n.º 6.º da [Portaria n.º 1074/91](https://diariodarepublica.pt/dr/detalhe/portaria/1074-1991-344443);\n\nContingente da alínea a) do n.º 1 do n.º 6.º da [Portaria n.º 1074/91](https://diariodarepublica.pt/dr/detalhe/portaria/1074-1991-344443);\n\nc) Deficiência Auditiva e Problemas de Linguagem:\n\nContingente da alínea b) do n.º 1 do n.º 6.º da [Portaria n.º 1074/91](https://diariodarepublica.pt/dr/detalhe/portaria/1074-1991-344443);\n\nContingente da alínea a) do n.º 1 do n.º 6.º da [Portaria n.º 1074/91](https://diariodarepublica.pt/dr/detalhe/portaria/1074-1991-344443).\n\n2 - As vagas eventualmente sobrantes desta operação não serão utilizáveis para qualquer fim.\n\n> Alterado pelo/a [Portaria n.º 1270/93](https://diariodarepublica.pt/dr/detalhe/portaria/1270-1993-537414), publicado em 1993-12-15.\n\nMinistério da Educação.\n\nAssinada em 20 de Setembro de 1993.\n\nO Ministro da Educação, António Fernando Couto dos Santos."
+  }
+ }
+}

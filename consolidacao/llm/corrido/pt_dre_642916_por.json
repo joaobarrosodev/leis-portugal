@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:642916:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 728/2002 (n.º 2.º) não altera o texto: determina a cessação do curso e revoga a Portaria n.º 1481/95 por inteiro, findo o processo de transição; revogação total (diferida), nada a aplicar ao texto.",
+  "instrucoes": [
+    "Portaria n.º 728/2002, n.º 2.º, n.os 1 e 2: cessação da ministração do bacharelato e revogação de toda a portaria findo o processo de transição; não aplicado (revogação total do diploma)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

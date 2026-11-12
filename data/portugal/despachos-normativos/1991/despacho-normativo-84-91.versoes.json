@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:622982:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-04-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7c5a72f734390c2d"
+   ]
+  },
+  {
+   "date": "1992-05-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498686:por",
+     "title": "Despacho Normativo n.º 58/92",
+     "published": "1992-04-30",
+     "dre_path": "/dr/detalhe/despacho-normativo/58-1992-498686"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 12-12"
+   ],
+   "fragments": [
+    "f558885492492986"
+   ]
+  }
+ ],
+ "fragments": {
+  "7c5a72f734390c2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ao abrigo da alínea a) do n.º 4 do artigo 14.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, relativo à prestação de provas pelos jovens agricultores que apenas detenham experiência profissional, determino o seguinte:\n\n1 - A avaliação de conhecimentos dos jovens agricultores a que se refere a alínea a) do n.º 4 do artigo 14.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, consiste numa entrevista com visita de campo e incidirá sobre:\n\na) Conhecimentos técnicos no domínio agrícola relacionados com a actividade ou actividades em que o jovem se vai instalar;\n\nb) Domínio do plano de melhoria ou de exploração nas suas vertentes agrícola e económica.\n\n2 - Os júris de avaliação são constituídos por:\n\na) Um representante da Direcção-Geral de Planeamento e Agricultura, a qual poderá delegar esta atribuição em entidade habilitada para o efeito;\n\nb) Um representante da direcção regional de agricultura;\n\nc) Um representante da Associação dos Jovens Agricultores de Portugal (AJAP).\n\n3 - O júri deverá proferir a sua decisão no prazo de 30 dias úteis a contar da data em que o interessado requereu as provas de avaliação.\n\n4 - A decisão a que se refere o número anterior deverá ser devidamente fundamentada, caso seja desfavorável ao agricultor.\n\n5 - Quando a decisão seja desfavorável ao agricultor, este não poderá tornar a apresentar-se às provas de avaliação antes de decorrido um ano.\n\n6 - A Direcção-Geral do Planeamento e Agricultura estabelecerá os critérios e parâmetros referenciais que permitam uma identidade de procedimentos ao nível das várias regiões.\n\nMinistério da Agricultura, Pescas e Alimentação, 8 de Março de 1991. - Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  },
+  "f558885492492986": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1992-05-05",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 58/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/58-1992-498686), publicado em 1992-04-30."
+   ],
+   "markdown": "Ao abrigo da alínea a) do n.º 4 do artigo 14.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, relativo à prestação de provas pelos jovens agricultores que apenas detenham experiência profissional, determino o seguinte:\n\n1 - A avaliação de conhecimentos dos jovens agricultores a que se refere a alínea a) do n.º 4 do artigo 14.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, consiste numa entrevista com visita de campo e incidirá sobre:\n\na) Conhecimentos técnicos no domínio agrícola relacionados com a actividade ou actividades em que o jovem se vai instalar;\n\nb) Domínio do plano de melhoria ou de exploração nas suas vertentes agrícola e económica.\n\n2 - Os júris de avaliação são constituídos por:\n\na) Um representante da Direcção-Geral de Planeamento e Agricultura, a qual poderá delegar esta atribuição em entidade habilitada para o efeito;\n\nb) Um representante da direcção regional de agricultura;\n\nc) Um representante da Associação dos Jovens Agricultores de Portugal (AJAP).\n\n3 - O júri deverá proferir a sua decisão no prazo de 30 dias úteis a contar da data em que o interessado requereu as provas de avaliação.\n\n4 - A decisão a que se refere o número anterior deverá ser devidamente fundamentada, caso seja desfavorável ao agricultor.\n\n5 - O jovem agricultor que tenha obtido uma decisão desfavorável poderá requerer a prestação de segunda prova, que não deverá realizar-se antes de decorridos 90 dias a contar daquela decisão, não lhe sendo permitido submeter-se a nova avaliação.\n\n> Alterado pelo/a [Despacho Normativo n.º 58/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/58-1992-498686), publicado em 1992-04-30.\n\n6 - A Direcção-Geral do Planeamento e Agricultura estabelecerá os critérios e parâmetros referenciais que permitam uma identidade de procedimentos ao nível das várias regiões.\n\nMinistério da Agricultura, Pescas e Alimentação, 8 de Março de 1991. - Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  }
+ }
+}

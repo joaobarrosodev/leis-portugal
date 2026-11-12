@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5 - Quando a decisão seja desfavorável ao agricultor, este não poderá tornar a apresentar-se às provas de avaliação antes de decorrido um ano.",
+    "depois": "5 - O jovem agricultor que tenha obtido uma decisão desfavorável poderá requerer a prestação de segunda prova, que não deverá realizar-se antes de decorridos 90 dias a contar daquela decisão, não lhe sendo permitido submeter-se a nova avaliação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:622982:por",
+    "alterador": "pt:dre:498686:por"
+  }
+]

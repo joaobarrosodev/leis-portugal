@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:660571:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Loureiro, Ul, Pinheiro da Bemposta, Macinhata da Seixa, Travanca, Santiago de Riba-Ul, Madail, São Martinho de Gândara e Oliveira de Azeméis, município de Oliveira de Azeméis, com a área de 5350 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 23/2004: nova redação do n.º 2.º (acrescenta freguesias Madail e São Martinho de Gândara) — substituída a unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

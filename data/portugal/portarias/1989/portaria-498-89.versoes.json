@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:619719:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-07-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f8598fc71ee55c6b"
+   ]
+  },
+  {
+   "date": "1991-08-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:682239:por",
+     "title": "Portaria n.º 781/91",
+     "published": "1991-08-08",
+     "dre_path": "/dr/detalhe/portaria/781-1991-682239"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 11-11"
+   ],
+   "fragments": [
+    "efdbea08d4bbc723"
+   ]
+  }
+ ],
+ "fragments": {
+  "f8598fc71ee55c6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Julho\n\nO [Decreto-Lei n.º 162/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1987-666156), de 8 de Abril, revogando o [Decreto-Lei n.º 205/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1983-451430), de 21 de Maio, veio determinar a obrigatoriedade da exigência do seguro desportivo para os agentes desportivos que se inscrevam nas federações ou associações para efeitos de participação desportiva.\n\nPese embora ser o Instituto Nacional de Fomento do Desporto que suporta os encargos com o pagamento à entidade seguradora do prémio do seguro, está autorizado a cobrar aos beneficiários uma prestação periódica correspondente à respectiva comparticipação nesse pagamento.\n\nE, por seu turno, o valor dessa prestação corresponderá ao escalão em que se integra a modalidade desportiva em que o beneficiário participe.\n\nE isto porque, de acordo com o articulado daquele diploma legal, as diferentes modalidades desportivas haverão de agrupar-se em escalões em função do risco inerente a cada uma delas.\n\nNos termos legais, o valor daquela prestação periódica é fixado por portaria conjunta dos Ministros das Finanças e da Educação.\n\nSem prejuízo da actualização do valor agora fixado daquela prestação periódica, ditada pelo desenvolvimento do seguro do desportista federado;\n\nAo abrigo do disposto no n.º 1 do artigo 4.º do [Decreto-Lei n.º 162/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1987-666156), de 8 de Abril:\n\nManda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:\n\n1.º Os beneficiários do seguro do desportista federado previsto no [Decreto-Lei n.º 162/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1987-666156), de 8 de Abril, suportarão o encargo de uma prestação periódica correspondente à respectiva comparticipação no pagamento do prémio a efectuar de acordo com o disposto no artigo 8.º, n.º 1, daquele diploma legal, nos termos seguintes:\n\nPraticantes das modalidades integradas no escalão A e participantes não praticantes de todas as modalidades - 350$00;\n\nPraticantes das modalidades integradas no escalão B - 500$00;\n\nPraticantes das modalidades integradas no escalão C - 650$00.\n\n2.º Quando o beneficiário do seguro do desportista federado for praticante ou participante de várias modalidades, a prestação periódico correspondente à respectiva comparticipação no pagamento do prémio é igual à que corresponde ao escalão mais onerado.\n\nMinistérios das Finanças e da Educação.\n\nAssinada em 23 de Junho de 1989.\n\nO Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Educação, Roberto Artur da Luz Carneiro."
+  },
+  "efdbea08d4bbc723": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-08-13",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 781/91](https://diariodarepublica.pt/dr/detalhe/portaria/781-1991-682239), publicado em 1991-08-08."
+   ],
+   "markdown": "de 4 de Julho\n\nO [Decreto-Lei n.º 162/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1987-666156), de 8 de Abril, revogando o [Decreto-Lei n.º 205/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1983-451430), de 21 de Maio, veio determinar a obrigatoriedade da exigência do seguro desportivo para os agentes desportivos que se inscrevam nas federações ou associações para efeitos de participação desportiva.\n\nPese embora ser o Instituto Nacional de Fomento do Desporto que suporta os encargos com o pagamento à entidade seguradora do prémio do seguro, está autorizado a cobrar aos beneficiários uma prestação periódica correspondente à respectiva comparticipação nesse pagamento.\n\nE, por seu turno, o valor dessa prestação corresponderá ao escalão em que se integra a modalidade desportiva em que o beneficiário participe.\n\nE isto porque, de acordo com o articulado daquele diploma legal, as diferentes modalidades desportivas haverão de agrupar-se em escalões em função do risco inerente a cada uma delas.\n\nNos termos legais, o valor daquela prestação periódica é fixado por portaria conjunta dos Ministros das Finanças e da Educação.\n\nSem prejuízo da actualização do valor agora fixado daquela prestação periódica, ditada pelo desenvolvimento do seguro do desportista federado;\n\nAo abrigo do disposto no n.º 1 do artigo 4.º do [Decreto-Lei n.º 162/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1987-666156), de 8 de Abril:\n\nManda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:\n\n1.º Os atletas abrangidos pelo seguro do desportista federado, previsto no [Decreto-Lei n.º 162/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1987-666156), de 8 de Abril, suportarão o encargo de uma prestação periódica correspondente à respectiva comparticipação no pagamento do prémio, a efectuar de acordo com o disposto no n.º 1 do artigo 8.º daquele diploma legal, nos termos seguintes:\n\nCada federação desportiva poderá definir, no âmbito da sua modalidade, segundo critérios que atendam ao risco, nomeadamente conforme a idade, treino e competição, a prestação periódica de cada pessoa segura correspondente à respectiva comparticipação no pagamento do prémio do seguro;\n\nAs federações serão sempre responsáveis perante o INFD pela observância dos seguintes valores médios por atleta inscrito:\n\n> Alterado pelo/a [Portaria n.º 781/91](https://diariodarepublica.pt/dr/detalhe/portaria/781-1991-682239), publicado em 1991-08-08.\n\nPraticantes das modalidades integradas no escalão A e participantes não praticantes de todas as modalidades - 350$00;\n\nPraticantes das modalidades integradas no escalão B - 500$00;\n\nPraticantes das modalidades integradas no escalão C - 650$00.\n\n2.º Quando o beneficiário do seguro do desportista federado for praticante ou participante de várias modalidades, a prestação periódico correspondente à respectiva comparticipação no pagamento do prémio é igual à que corresponde ao escalão mais onerado.\n\nMinistérios das Finanças e da Educação.\n\nAssinada em 23 de Junho de 1989.\n\nO Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Educação, Roberto Artur da Luz Carneiro."
+  }
+ }
+}

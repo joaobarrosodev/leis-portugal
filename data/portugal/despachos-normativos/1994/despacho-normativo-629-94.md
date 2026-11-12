@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-10-06'
+version_history:
+  file: despacho-normativo-629-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-08-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-10-06'
+    amending: pt:dre:600129:por
+    amending_title: Despacho Normativo n.º 701/94
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/629/1994/08/31/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:23:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 701/94. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-629-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,7 +160,9 @@ O presente diploma define a competência do Instituto do Emprego e Formação Pr
 
 1 - Os pedidos de financiamento serão sempre anuais.
 
-2 - Quando se trate de planos de formação com incidência financeira em mais de um ano económico, deverão as entidades promotoras formular os pedidos de financiamento até 30 de Setembro de cada ano, para efeitos de execução do plano.
+2 - Quando se trate de planos de formação com incidência financeira com mais de um ano económico, deverão as entidades promotoras formular os pedidos de financiamento até ao fim de cada ano, para efeitos de continuidade de execução do plano.
+
+> Alterado pelo/a [Despacho Normativo n.º 701/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/701-1994-600129), publicado em 1994-10-01.
 
 ###### Artigo 5.º — Suspensão e redução dos apoios
 

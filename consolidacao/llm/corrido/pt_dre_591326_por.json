@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:591326:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Artigo 2.º da Portaria n.º 155/2017 altera a competência territorial da Comissão (passa a ser Paranhos e Ramalde) sem dar nova redação ao n.º 1.º; alteração não textual, não aplicada para não inventar texto.",
+  "instrucoes": [
+    "Art. 2.º da Portaria n.º 155/2017: redefine a competência territorial (freguesias de Paranhos e Ramalde) sem nova redação do 1.º; não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

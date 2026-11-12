@@ -1,0 +1,43 @@
+{
+  "id": "pt:dre:618170:por",
+  "substituicoes": [
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "3 - Para efeitos do número anterior, entendem-se por prioritários os projectos relativos a:",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "b) Investimentos em infra-estruturas e equipamento de rega, desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar;",
+      "alterador": 1
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "c) Actividades vegetais:",
+      "alterador": 1
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "d) Actividades animais:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 24,
+      "texto": "a) Investimentos a efectuar nas áreas geográficas de intervenção dos Programas de Desenvolvimento do Douro/Vale do Côa, Norte Alentejano e Margens do Guadiana, previstos na medida «Acções piloto de valorização do potencial endógeno» do Subprograma Acções Específicas de Reequílibrio, do Programa de Promoção do Potencial de Desenvolvimento Regional;",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 3 — corpo com 'entendem-se' (unidade 24), nova alínea a) inserida depois da 24, anteriores alíneas a), b), c) renumeradas b), c), d) (unidades 25, 26, 29) mantendo o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

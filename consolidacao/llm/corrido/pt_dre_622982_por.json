@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:622982:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "5 - O jovem agricultor que tenha obtido uma decisão desfavorável poderá requerer a prestação de segunda prova, que não deverá realizar-se antes de decorridos 90 dias a contar daquela decisão, não lhe sendo permitido submeter-se a nova avaliação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Despacho Normativo 58/92: nova redação do n.º 5 (unidade 12) aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

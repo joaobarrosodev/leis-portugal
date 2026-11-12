@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-08-13'
+version_history:
+  file: portaria-498-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-07-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-08-13'
+    amending: pt:dre:682239:por
+    amending_title: Portaria n.º 781/91
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:54:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 781/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-498-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,7 +144,13 @@ Ao abrigo do disposto no n.º 1 do artigo 4.º do [Decreto-Lei n.º 162/87](http
 
 Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
 
-1.º Os beneficiários do seguro do desportista federado previsto no [Decreto-Lei n.º 162/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1987-666156), de 8 de Abril, suportarão o encargo de uma prestação periódica correspondente à respectiva comparticipação no pagamento do prémio a efectuar de acordo com o disposto no artigo 8.º, n.º 1, daquele diploma legal, nos termos seguintes:
+1.º Os atletas abrangidos pelo seguro do desportista federado, previsto no [Decreto-Lei n.º 162/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1987-666156), de 8 de Abril, suportarão o encargo de uma prestação periódica correspondente à respectiva comparticipação no pagamento do prémio, a efectuar de acordo com o disposto no n.º 1 do artigo 8.º daquele diploma legal, nos termos seguintes:
+
+Cada federação desportiva poderá definir, no âmbito da sua modalidade, segundo critérios que atendam ao risco, nomeadamente conforme a idade, treino e competição, a prestação periódica de cada pessoa segura correspondente à respectiva comparticipação no pagamento do prémio do seguro;
+
+As federações serão sempre responsáveis perante o INFD pela observância dos seguintes valores médios por atleta inscrito:
+
+> Alterado pelo/a [Portaria n.º 781/91](https://diariodarepublica.pt/dr/detalhe/portaria/781-1991-682239), publicado em 1991-08-08.
 
 Praticantes das modalidades integradas no escalão A e participantes não praticantes de todas as modalidades - 350$00;
 

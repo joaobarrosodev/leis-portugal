@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-10-04'
+version_history:
+  file: portaria-74-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-01-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-10-04'
+    amending: pt:dre:651691:por
+    amending_title: Portaria n.º 957/93
+    changes:
+    - Altera Artigo unidades 8-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/74/1993/01/19/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:08:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 957/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-74-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,13 +161,15 @@ Nestes termos, ao abrigo do disposto no artigo 19.º do [Decreto-Lei n.º 549/77
 
 Manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
 
-1.º São integrados no Centro Regional de Segurança Social de Lisboa o contribuinte, beneficiários e acções da Caixa de Previdência do Pessoal da Companhia Carris de Ferro de Lisboa (adiante designada por Caixa), com efeitos reportados a 1 de Outubro de 1993.
+1.º São integrados no Centro Regional de Segurança Social de Lisboa e Vale do Tejo os contribuintes, beneficiários e acções da Caixa de Previdência do Pessoal da Companhia Carris de Ferro de Lisboa (adiante designada por Caixa), com efeitos reportados a 1 de Outubro de 1993.
 
-2.º A integração orgânica e funcional da Caixa e do respectivo pessoal no Centro Regional de Segurança Social de Lisboa terá igualmente lugar em 1 de Outubro de 1993.
+2.º A integração orgânica e funcional da Caixa e do respectivo pessoal no Centro Regional de Segurança Social de Lisboa e Vale do Tejo terá igualmente lugar em 1 de Outubro de 1993.
 
-3.º O património imobiliário e os equipamentos da Caixa, bem como as suas posições contratuais, tanto activas como passivas, consideram-se transferidas para a titularidade do Centro Regional de Segurança Social de Lisboa, com efeitos reportados à data da integração, de acordo com os artigos 2.º e 5.º do [Decreto-Lei n.º 515/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1979-365765), de 28 de Dezembro.
+3.º Os equipamentos da Caixa, bem como as suas posições contratuais, tanto activas como passivas, consideram-se transferidos para a titularidade do Centro Regional de Segurança Social de Lisboa e Vale do Tejo, com efeitos reportados à data da integração, de acordo com os artigos 2.º e 5.º do [Decreto-Lei n.º 515/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1979-365765), de 28 de Dezembro.
 
-4.º Dentro do prazo estabelecido nos números anteriores, a Caixa e o Centro Regional de Segurança Social de Lisboa devem acordar sobre as acções necessárias à efectivação das diversas operações que a integração comporte, com o apoio da Direcção-Geral de Apoio Técnico à Gestão.
+4.º Dentro do prazo estabelecido nos números anteriores, a Caixa e o Centro Regional de Segurança Social de Lisboa e Vale do Tejo devem acordar sobre as acções necessárias à efectivação das diversas operações que a integração comporte, com o apoio da Direcção-Geral de Apoio Técnico à Gestão.
+
+> Alterado pelo/a [Portaria n.º 957/93](https://diariodarepublica.pt/dr/detalhe/portaria/957-1993-651691), publicado em 1993-09-29.
 
 5.º A gestão financeira do Fundo Especial da Caixa compete ao Instituto de Gestão Financeira da Segurança Social, nos termos do artigo 6.º do respectivo Regulamento constante do [Despacho Normativo n.º 72/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/72-1986-219107), publicado no Diário da República, n.º 193, de 23 de Agosto de 1986.
 

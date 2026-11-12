@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-09-04'
+version_history:
+  file: portaria-403-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-07-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-09-04'
+    amending: pt:dre:373648:por
+    amending_title: Portaria n.º 658/84
+    changes:
+    - Altera Artigo unidades 6-8
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:48:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 658/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1972/portaria-403-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,11 +128,15 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricult
 
 1.ª A concessão do referido troço, que é do tipo de águas correntes, abrange uma extensão de 8 km, medidos ao longo do curso do rio Nabão, e fica compreendida entre o açude de pedra da Fábrica de Fiação e Tecidos, a montante, e o açude de pedra da Fábrica de Marianaia, a jusante, ocupando uma área de 31,30 ha.
 
-2.ª O prazo de validade da concessão é de oito anos, a contar da data da publicação do presente diploma, devendo a concessionária, no caso de pretender a sua revalidação, requerê-la com a antecedência de seis meses reportados ao termo em que esta expirar.
+2.º O prazo de validade da concessão é de 8 anos, a contar da data da publicação do presente diploma, que poderá ser prorrogável por idênticos períodos sempre que a concessionária e a Direcção-Geral das Florestas o tenham por conveniente, acautelados os interesses públicos e desde que não se verifique qualquer falta de cumprimento ao preceituado no respectivo alvará.
 
-3.ª A taxa devida anualmente pela utilização da zona concessionada é de 1600$00 e deverá ser liquidada no mês de Janeiro de cada ano.
+3.º - a) A taxa devida anualmente pela utilização da zona concessionada será fixada no alvará de concessão e deverá ser liquidada durante o mês de Janeiro de cada ano.
 
-4.ª A importância referida, que constitui receita do Fundo Especial da Caça e Pesca, será depositada na Caixa Geral de Depósitos, Crédito e Previdência por meio de guia, cuja cópia, em duplicado e com a indicação de ter sido paga, será remetida ao Serviço de Inspecção da Caça e Pesca, da Direcção-Geral dos Serviços Florestais e Aquícolas, através dos serviços regionais respectivos.
+b) A taxa referida na alínea anterior poderá ser revista de 4 em 4 anos se entretanto não houver, nesse espaço de tempo, quaisquer disposições governamentais que determinem a sua alteração.
+
+4.º A importância referida, que constitui receita das contas de ordem da Direcção-Geral das Florestas, será depositada na Caixa Geral de Depósitos, por meio de guia, cuja cópia, em duplicado e com a indicação de ter sido paga, será remetida à Direcção dos Serviços Aquícolas, através da Circunscrição Florestal da Marinha Grande.
+
+> Alterado pelo/a [Portaria n.º 658/84](https://diariodarepublica.pt/dr/detalhe/portaria/658-1984-373648), publicado em 1984-08-30.
 
 5.ª O pagamento da taxa referente ao corrente ano far-se-á da mesma forma, mas no acto da entrega do alvará, e será devida por inteiro.
 

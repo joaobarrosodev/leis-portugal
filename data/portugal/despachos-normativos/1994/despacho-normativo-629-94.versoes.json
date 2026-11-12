@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:654902:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "48db4cbe0a709db0",
+    "532b81aa9f1e9ff3",
+    "2be3de65ef9efe82",
+    "383d3c14513a6ab6",
+    "64c2dc4cff2e865c",
+    "4e4a6cb7afb7fc5a",
+    "5852dcb3b4b45081",
+    "2ff0ed4fa9f246a6",
+    "b00ef41db013fd95"
+   ]
+  },
+  {
+   "date": "1994-10-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:600129:por",
+     "title": "Despacho Normativo n.º 701/94",
+     "published": "1994-10-01",
+     "dre_path": "/dr/detalhe/despacho-normativo/701-1994-600129"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "48db4cbe0a709db0",
+    "532b81aa9f1e9ff3",
+    "2be3de65ef9efe82",
+    "383d3c14513a6ab6",
+    "24be3486d7485615",
+    "4e4a6cb7afb7fc5a",
+    "5852dcb3b4b45081",
+    "2ff0ed4fa9f246a6",
+    "b00ef41db013fd95"
+   ]
+  }
+ ],
+ "fragments": {
+  "48db4cbe0a709db0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que, no âmbito da vertente Fundo Social Europeu do Quadro Comunitário de Apoio para o período de 1994 a 1999, cabe ao Ministério do Emprego e da Segurança Social, através do Instituto do Emprego e Formação Profissional, a gestão dos programas constantes do n.º 8 do artigo 8.º do [Decreto Regulamentar n.º 15/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1994-290981), de 6 de Julho;\n\nConsiderando que a execução do actual quadro introduz alterações na caracterização dos programas que foram seguidos pelo Instituto do Emprego e Formação Profissional, bem como ao nível dos instrumentos de gestão, o que impõe uma definição das atribuições gestionárias daquele organismo;\n\nConsiderando que o Instituto do Emprego e Formação Profissional é equiparado a entidade gestora do programa quadro, por força do disposto no artigo 2.º, n.º 2, do [Decreto Regulamentar n.º 15/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1994-290981), de 6 de Julho;\n\nTendo em conta o disposto nos n.os 2 e 8 do artigo 8.º do [Decreto Regulamentar n.º 15/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1994-290981), de 6 de Julho:\n\nDetermina-se o seguinte:"
+  },
+  "532b81aa9f1e9ff3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma define a competência do Instituto do Emprego e Formação Profissional (IEFP) em matéria de formação profissional e emprego no âmbito dos programas apoiados pelo Fundo Social Europeu e pelo Fundo Europeu de Desenvolvimento Regional e, bem assim, das iniciativas comunitárias no âmbito dos recursos humanos."
+  },
+  "2be3de65ef9efe82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Competência gestionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competência gestionária\n\n1 - Enquanto organismo equiparado a entidade gestora de programa quadro, nos termos do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 15/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1994-290981), de 6 de Julho, o IEFP tem competência para a gestão das medidas integradas nos subprogramas constantes do anexo ao presente diploma e para a gestão das iniciativas comunitárias no âmbito dos recursos humanos.\n\n2 - O IEFP tem competência para a gestão dos planos de formação, no que concerne à análise dos pedidos de financiamento e à análise do respectivo saldo, apresentados pelos parceiros sociais representados na Comissão Permanente de Concertação Social do Conselho Económico e Social, nos termos do disposto no n.º 10 do artigo 8.º do [Decreto Regulamentar n.º 15/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1994-290981), de 6 de Julho.\n\n3 - O disposto nos números anteriores não prejudica a competência atribuída ao Departamento para os Assuntos do Fundo Social Europeu (DAFSE) e a outros organismos ou entidades com responsabilidade na gestão de intervenções operacionais financiadas por aquele Fundo."
+  },
+  "383d3c14513a6ab6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Local e entrega do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Local e entrega do pedido\n\n1 - Os pedidos de financiamento no âmbito do programa quadro gerido pelo IEFP serão apresentados em qualquer centro de emprego da delegação regional do Instituto em cuja área geográfica venha a decorrer a formação profissional.\n\n2 - Nos casos em que seja apresentado um plano de formação, o pedido de financiamento deverá ser entregue no centro de emprego da área da sede social da entidade promotora."
+  },
+  "64c2dc4cff2e865c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Pedidos de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pedidos de financiamento\n\n1 - Os pedidos de financiamento serão sempre anuais.\n\n2 - Quando se trate de planos de formação com incidência financeira em mais de um ano económico, deverão as entidades promotoras formular os pedidos de financiamento até 30 de Setembro de cada ano, para efeitos de execução do plano."
+  },
+  "4e4a6cb7afb7fc5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Suspensão e redução dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Suspensão e redução dos apoios\n\nAs decisões de suspensão e redução dos apoios relativas aos pedidos de financiamento abrangidos pelas medidas das intervenções operacionais e pelas iniciativas comunitárias geridas pelo IEFP são da competência da respectiva comissão executiva, sem prejuízo da competência atribuída ao DAFSE."
+  },
+  "5852dcb3b4b45081": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Assistência técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Assistência técnica\n\nOs encargos com a execução das medidas constantes do presente diploma, desde que elegíveis, serão assegurados pelo Programa de Assistência Técnica do Fundo Social Europeu."
+  },
+  "2ff0ed4fa9f246a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revogação\n\nÉ revogado o [Despacho Normativo n.º 112/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/112-1989-551236), de 28 de Dezembro, mantendo-se, porém, em vigor em relação aos processos apresentados no âmbito da vigência do anterior quadro comunitário.\n\nMinistério do Emprego e da Segurança Social, 26 de Julho de 1994. - O Secretário de Estado do Emprego e Formação Profissional, José Mateus Varatojo Júnior."
+  },
+  "b00ef41db013fd95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Descrição dos subprogramas e medidas a que se refere o n.º 1 do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Descrição dos subprogramas e medidas a que se refere o n.º 1 do artigo 2.º\n\n1 - Qualificação Inicial e Inserção no Mercado de Emprego:\n\na) Sistema de aprendizagem;\n\nb) Iniciação profissional e qualificação inicial/outras modalidades;\n\nc) Inserção no mercado de emprego.\n\n2 - Melhoria da Qualidade e Nível de Emprego:\n\na) Apoios ao emprego;\n\nb) Formação profissional contínua;\n\nc) Formação profissional para desempregados;\n\nd) Formação no âmbito das evoluções sectoriais negativas.\n\n3 - Formação e Gestão no Âmbito dos Recursos Humanos:\n\na) Medidas de carácter geral;\n\nb) Formação de formadores e outros agentes;\n\nc) Construção e adaptação de infra-estruturas necessárias à criação de empresas, à expansão dos centros de emprego e à realização de acções de formação.\n\n4 - Subprograma de Integração Económica e Social dos Grupos Sociais Desfavorecidos:\n\na) Apoio ao desenvolvimento social;\n\nb) Integração económica e social de desempregados de longa duração;\n\nc) Integração sócio-económica de pessoas com deficiência;\n\nd) Integração sócio-económica dos grupos mais desfavorecidos;\n\ne) Construção e adaptação de infra-estruturas e equipamentos de apoio.\n\n5 - Subprograma de Desenvolvimento Rural e Local:\n\na) Apoio ao investimento, artesanato e criação de emprego;\n\nb) Apoio à dinamização local."
+  },
+  "24be3486d7485615": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Pedidos de financiamento",
+   "in_force_from": "1994-10-06",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 701/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/701-1994-600129), publicado em 1994-10-01."
+   ],
+   "markdown": "###### Artigo 4.º — Pedidos de financiamento\n\n1 - Os pedidos de financiamento serão sempre anuais.\n\n2 - Quando se trate de planos de formação com incidência financeira com mais de um ano económico, deverão as entidades promotoras formular os pedidos de financiamento até ao fim de cada ano, para efeitos de continuidade de execução do plano.\n\n> Alterado pelo/a [Despacho Normativo n.º 701/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/701-1994-600129), publicado em 1994-10-01."
+  }
+ }
+}

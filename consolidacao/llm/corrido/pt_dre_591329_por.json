@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:591329:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Artigo 2.º da Portaria n.º 156/2017 redefine a competência territorial da Comissão (uniões de freguesias) sem dar nova redação ao n.º 1.º: alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Art. 2.º da Portaria 156/2017: nova competência territorial da Comissão do Porto Ocidental, sem nova redação do n.º 1.º — não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

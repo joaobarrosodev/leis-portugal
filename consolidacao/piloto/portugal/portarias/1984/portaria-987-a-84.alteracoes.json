@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 19-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º Os empréstimos beneficiarão de uma bonificação à taxa de juro de 6,5% ao ano durante os 3 primeiros anos da sua vigência, sofrendo uma redução de 1% por ano nos anos seguintes.",
+    "depois": "5.º Os empréstimos beneficiarão de uma bonificação à taxa de juro de 4,5% ao ano durante os três primeiros anos da sua vigência, sofrendo uma redução de 1% por ano nos anos seguintes.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:621934:por",
+    "alterador": "pt:dre:220085:por"
+  },
+  {
+    "artigo": "unidades 21-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º As bonificações serão processadas através do Instituto Nacional de Habitação, em condições a acordar entre este e as restantes instituições financiadoras, tendo por base o plano de aplicação elaborado de acordo com as orientações da política habitacional, devendo a taxa de bonificação manter-se fixa, a não ser que venha a verificar-se uma redução da taxa de juro, a qual acarretará uma redução, em igual número de pontos, na taxa de bonificações.",
+    "depois": "7.º As bonificações serão processadas através do Instituto Nacional de Habitação, em condições a acordar entre este e as restantes instituições financiadoras, tendo por base o plano de aplicação elaborado de acordo com as orientações da política habitacional.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:621934:por",
+    "alterador": "pt:dre:220085:por"
+  }
+]

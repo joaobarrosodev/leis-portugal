@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-08-15'
+version_history:
+  file: portaria-146-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-02-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-08-15'
+    amending: pt:dre:284079:por
+    amending_title: Portaria n.º 1033-AX/2004
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/146/2004/02/12/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:57:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1033-AX/2004. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-146-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,7 +145,9 @@ Ouvido o Conselho Cinegético Municipal de Vila Real:
 
 Manda o Governo, pelos Ministros da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, o seguinte:
 
-1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caçadores de S. Bento do Castelo, com o número de pessoa colectiva 505507498 e sede no Lugar de Linhares, São Tomé do Castelo, 5000 Vila Real, a zona de caça associativa de São Bento do Castelo (processo n.º 339-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de São Tomé do Castelo, município de Vila Real, com a área de 2995 ha.
+1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caçadores de S. Bento do Castelo, com o número de pessoa colectiva 505507498 e sede no lugar de Linhares, São Tomé do Castelo, 5000 Vila Real, a zona de caça associativa de São Bento do Castelo (processo n.º 3339-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de São Tomé do Castelo, município de Vila Real, com a área de 2995 ha.
+
+> Alterado pelo/a [Portaria n.º 1033-AX/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1033-ax-2004-284079), publicado em 2004-08-10.
 
 2.º A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas alterações de condicionantes por planos de ordenamento do território de áreas protegidas ou obtidos dados científicos que comprovem a incompatibilidade com a actividade cinegética, até ao máximo de 10% da área total da zona de caça.
 

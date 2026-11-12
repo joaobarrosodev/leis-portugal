@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Que seja estabelecido junto do depósito franco instituído em nome da firma CABLESA - Indústria de Componentes Eléctricos, Lda., situado no lugar de Tapada Nova, freguesia de São Pedro de Penaferrim, concelho de Sintra, de conformidade com o disposto no artigo 2.º do [Decreto n.º 127/82](https://diariodarepublica.pt/dr/detalhe/decreto/127-1982-377148), de 12 de Novembro, um posto fiscal com o efectivo de 1 cabo e 5 soldados.",
+    "depois": "1.º Que seja estabelecido junto do depósito franco instituído em nome da firma CABLESA - Indústria de Componentes Eléctricos, Lda., situado no lugar de Tapada Nova, freguesia de São Pedro de Penaferrim, concelho de Sintra, de conformidade com o disposto no artigo 2.º do [Decreto n.º 127/82](https://diariodarepublica.pt/dr/detalhe/decreto/127-1982-377148), de 12 de Novembro, um posto fiscal com os efectivos fiscais julgados necessários.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:661894:por",
+    "alterador": "pt:dre:495325:por"
+  }
+]

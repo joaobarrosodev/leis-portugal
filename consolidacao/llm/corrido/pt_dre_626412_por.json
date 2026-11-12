@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:626412:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Pelo presente diploma é concessionada, pelo período de 12 anos, a Rodrigo Nuno Mendia de Castro, entidade equiparada a pessoa colectiva com o n.º 804543550 e sede no Monte do Lameirão, Cano, Sousel, a zona de caça turística da Herdade do Lameirão (processo n.º 1292 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A substituição da planta anexa (Portaria n.º 523/93) não se aplica: a planta só existe em imagem no documento original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º -> substituída a unidade 7",
+    "Alterador 1: planta anexa substituída pela da Portaria n.º 523/93 -> não aplicável (imagem)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

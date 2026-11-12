@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:685420:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "O número de vagas para a candidatura à matrícula e inscrição, no ano lectivo de 1993-1994, no curso de estudos superiores especializados em Organização e Intervenção Sócio-Educativas da Escola Superior de Educação do Instituto Politécnico da Guarda é o seguinte:\n\nEscola Superior de Educação da Guarda - 30;\n\nEscola Superior de Educação da Guarda (Seia) - 30.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 1271/93): nova redação do número único; 'Único' e a epígrafe ([...]) ficam, substituído o corpo (unidade 9) por três parágrafos com as vagas da Guarda e de Seia."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

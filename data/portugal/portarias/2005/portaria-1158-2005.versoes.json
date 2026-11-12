@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:584406:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-11-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "65d78dd96ff5786f"
+   ]
+  },
+  {
+   "date": "2006-04-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:650370:por",
+     "title": "Portaria n.º 366/2006",
+     "published": "2006-04-13",
+     "dre_path": "/dr/detalhe/portaria/366-2006-650370"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "eea57e96ee0bf469"
+   ]
+  }
+ ],
+ "fragments": {
+  "65d78dd96ff5786f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Novembro\n\nCom fundamento no disposto no artigo 26.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto;\n\nOuvido o Conselho Cinegético Municipal de Penamacor:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Meimão (processo n.º 4162-DGRF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caça e Pesca de Meimão, com o número de pessoa colectiva 502520973 e sede na Rua de São Domingos, 3, 6320-192 Meimão.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Meimão, município de Penamacor, com a área de 1866 ha.\n\n3.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 40% relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 10% relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 10% relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 40% aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.\n\n6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 20 de Outubro de 2005.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/11/217b00/65006501.pdf)"
+  },
+  "eea57e96ee0bf469": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 366/2006](https://diariodarepublica.pt/dr/detalhe/portaria/366-2006-650370), publicado em 2006-04-13."
+   ],
+   "markdown": "de 11 de Novembro\n\nCom fundamento no disposto no artigo 26.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto;\n\nOuvido o Conselho Cinegético Municipal de Penamacor:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Meimão (processo n.º 4162-DGRF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caça e Pesca de Meimão, com o número de pessoa colectiva 502520973 e sede na Rua de São Domingos, 3, 6320-192 Meimão.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Meimão, município de Penamacor, com a área de 1847 ha.\n\n> Alterado pelo/a [Portaria n.º 366/2006](https://diariodarepublica.pt/dr/detalhe/portaria/366-2006-650370), publicado em 2006-04-13.\n\n3.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 40% relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 10% relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 10% relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 40% aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.\n\n6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 20 de Outubro de 2005.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/11/217b00/65006501.pdf)"
+  }
+ }
+}

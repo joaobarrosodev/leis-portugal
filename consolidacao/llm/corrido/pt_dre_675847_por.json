@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:675847:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 13.º da Portaria 1144/82 revoga por inteiro a Portaria n.º 270/73 (com ligação para este diploma), pelo que não há texto a alterar; nota: o alterador indica 'de 11 de Abril' e trata de cursos de enfermagem, enquanto este original é de 13 de Abril e versa o quadro de pessoal do Comando Naval de Angola, pelo que a correspondência deve ser confirmada.",
+  "instrucoes": [
+    "Portaria 1144/82, n.º 13.º: revoga as Portarias n.os 270/73 e 533/77 — revogação total, nada devolvido (registado em nao_aplicavel, com dúvida sobre a identidade do diploma)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

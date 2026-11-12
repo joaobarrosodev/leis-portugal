@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:607506:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º O emprego do álcool etílico desnaturado como carburante de substituição em motores de viaturas que se destinem a investigação e demonstração pode, caso a caso, ser autorizado por despacho do Secretário de Estado da Energia.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 686/82: nova redação do n.º 1.º — substituída a unidade 8."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

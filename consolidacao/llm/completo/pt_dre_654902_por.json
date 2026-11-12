@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:654902:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Pedidos de financiamento",
+      "texto": "1 - Os pedidos de financiamento serão sempre anuais.\n\n2 - Quando se trate de planos de formação com incidência financeira com mais de um ano económico, deverão as entidades promotoras formular os pedidos de financiamento até ao fim de cada ano, para efeitos de continuidade de execução do plano.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do artigo 4.º (n.º 2 alterado) - aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

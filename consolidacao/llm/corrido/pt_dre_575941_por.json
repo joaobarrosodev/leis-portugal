@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:575941:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "3.º Se, à data da celebração do contrato, tiverem sido legalmente alteradas as taxas de juro para empréstimo a prazo idêntico ao constante desta portaria (10 anos), ficará autorizada a empresa a celebrar o contrato, estipulando a taxa de juro que nessa data vigorar.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 148/82: nova redação do n.º 3.º; substituída a unidade 8."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

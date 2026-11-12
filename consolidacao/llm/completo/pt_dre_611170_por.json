@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:611170:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "A Portaria n.º 124/2020 não dá nova redação a nenhum artigo: muda a denominação do curso por norma autónoma (art. 2.º, sem alterar o texto do art. 1.º) e substitui a caracterização, estrutura curricular e plano de estudos do anexo, cujos quadros só vêm em imagem (\"ver documento original\").",
+  "instrucoes": [
+    "Art. 1.º (objeto) e art. 4.º/5.º (transição e aplicação no tempo): normas próprias, sem alteração textual ao original.",
+    "Art. 2.º: mudança de denominação para 'Enfermagem de Saúde Mental e Psiquiátrica' por norma autónoma; não é instrução de nova redação do art. 1.º, que se mantém.",
+    "Art. 3.º: nova caracterização, estrutura curricular e plano de estudos do anexo — não aplicada (quadros só em imagem; o anexo não está entre os artigos)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

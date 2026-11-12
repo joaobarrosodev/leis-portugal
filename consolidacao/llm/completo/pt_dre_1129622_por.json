@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:1129622:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Regulamento de Fardamento dos Mediadores Socioculturais a Exercer Funções no Serviço de Estrangeiros e Fronteiras::2.º",
+      "epigrafe": "Fardamento masculino",
+      "texto": "O fardamento masculino é constituído pelas seguintes peças:\n\na) Calça de homem em sarja de lã poliéster cor azul-clara, corte a direito, dois bolsos inclinados e bolso atrás com carcela e botão. Passadores médios para cinto e braguilha com fecho de correr, com bordado identificativo a dois tons - azul e amarelo - abaixo da primeira presilha do lado direito (fig. 1);\n\nb) Camisas de mangas compridas em algodão poliéster de cor azul-claro, com punhos a abotoar com botão, bolso de peito esquerdo com bordado identificativo a dois tons - azul e amarelo (fig. 2);\n\nc) Camisa de mangas curtas em algodão poliéster de cor azul-claro, com bolso de peito esquerdo com bordado identificativo a dois tons - azul e amarelo (fig. 3);\n\nd) Pullover em malha de lã poliéster de cor azul com mangas compridas de punhos canelados e bordado identificativo a dois tons no meio do peito esquerdo (fig. 4).",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Fardamento dos Mediadores Socioculturais a Exercer Funções no Serviço de Estrangeiros e Fronteiras::3.º",
+      "epigrafe": "Fardamento feminino",
+      "texto": "1 - O fardamento feminino é constituído pelas seguintes peças:\n\na) Calça em tecido de sarja em lã poliéster cor azul-clara de corte ligeiramente afunilado sem pinças, bolsos laterais e abertura com fecho de correr na costura lateral. Bordado identificativo a dois tons - azul e amarelo - abaixo da primeira presilha do lado direito (fig. 5);\n\nb) Saia em sarja de lã poliéster de cor azul-claro, traçada a abotoar ao lado esquerdo com botões, com bordado identificativo a dois tons - azul e amarelo (fig. 6);\n\nc) Camiseiro de mangas compridas em algodão poliéster de cor azul-claro, com punhos a abotoar com botão. Frentes e costas com pinças e bolso de peito esquerdo com bordado identificativo a dois tons - azul e amarelo (fig. 7);\n\nd) Camiseiro de mangas curtas em algodão poliéster de cor azul-claro. Frentes e costas com pinças e bolso de peito esquerdo com bordado identificativo a dois tons - azul e amarelo (fig. 8);\n\ne) Casaco em malha de lã poliéster de cor azul com mangas compridas e bordado identificativo a dois tons no meio do peito esquerdo (fig. 9).\n\n2 - Durante o período pré-natal as grávidas, quando o fardamento anterior se mostrar inadequado, utilizarão vestido traçado, corte abaixo do peito, apertado com fitilho, confeccionado em tecido de sarja de lã poliéster, de cor azul-clara. Bordado identificativo a dois tons no meio do peito esquerdo (fig. 10).\n\n3 - Sem prejuízo de poderem usar indistintamente calças ou sais, só serão fornecidas três peças, conforme a opção da funcionária.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (Portaria 282/2007), n.º 1.º: nova redação das alíneas b) e c) do art. 2.º e b), c) e d) do n.º 1 do art. 3.º do Regulamento anexo (os 'artigos 2.º e 3.º da portaria' são os do Regulamento, a portaria não tem outros); restantes unidades mantidas ('...').",
+    "Alt. 1, n.º 2.º: entrada em vigor, não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

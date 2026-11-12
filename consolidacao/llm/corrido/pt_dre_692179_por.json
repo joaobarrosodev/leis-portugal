@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:692179:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 211/2004): o pedido não traz nenhum texto deste diploma que mencione o original, pelo que não há instrução que se possa aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei 211/2004): texto vazio no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

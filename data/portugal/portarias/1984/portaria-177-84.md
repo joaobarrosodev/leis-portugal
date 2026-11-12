@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-01-22'
+version_history:
+  file: portaria-177-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-03-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-01-22'
+    amending: pt:dre:495325:por
+    amending_title: Portaria n.º 40/91
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:58:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 40/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-177-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,7 +132,9 @@ de 28 de Março
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento, nos termos do n.º 3.º do artigo 4.º e do seu § único da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, o seguinte:
 
-1.º Que seja estabelecido junto do depósito franco instituído em nome da firma CABLESA - Indústria de Componentes Eléctricos, Lda., situado no lugar de Tapada Nova, freguesia de São Pedro de Penaferrim, concelho de Sintra, de conformidade com o disposto no artigo 2.º do [Decreto n.º 127/82](https://diariodarepublica.pt/dr/detalhe/decreto/127-1982-377148), de 12 de Novembro, um posto fiscal com o efectivo de 1 cabo e 5 soldados.
+1.º Que seja estabelecido junto do depósito franco instituído em nome da firma CABLESA - Indústria de Componentes Eléctricos, Lda., situado no lugar de Tapada Nova, freguesia de São Pedro de Penaferrim, concelho de Sintra, de conformidade com o disposto no artigo 2.º do [Decreto n.º 127/82](https://diariodarepublica.pt/dr/detalhe/decreto/127-1982-377148), de 12 de Novembro, um posto fiscal com os efectivos fiscais julgados necessários.
+
+> Alterado pelo/a [Portaria n.º 40/91](https://diariodarepublica.pt/dr/detalhe/portaria/40-1991-495325), publicado em 1991-01-17.
 
 2.º Que se proceda à correspondente inserção do referido posto fiscal no mapa II anexo à Reforma Aduaneira, sob a rubrica «Alfândega de Lisboa».
 

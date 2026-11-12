@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:618297:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-08-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7a203208b0cad643"
+   ]
+  },
+  {
+   "date": "1991-07-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:662957:por",
+     "title": "Lei n.º 29/91",
+     "published": "1991-07-17",
+     "dre_path": "/dr/detalhe/lei/29-1991-662957"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-9"
+   ],
+   "fragments": [
+    "4f4724b1d89f8a8d"
+   ]
+  }
+ ],
+ "fragments": {
+  "7a203208b0cad643": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Agosto\n\nCriação da freguesia da Luzianes-Gare no concelho de Odemira\n\nA Assembleia da República decreta, nos termos dos artigos 167.º, alínea j), e 169.º, n.º 2, da Constituição, o seguinte:\n\nArtigo 1.º É criada no concelho de Odemira a freguesia de Luzianes-Gare.\n\nArt. 2.º Os limites da nova freguesia, conforme representação cartográfica, são os seguintes:\n\nA norte, com Pipinhas, Barranco das Taipas, Vale Chão e Bornico;\n\nA sul, com Padrona de Baixo, Monte da Figueira e Almarjões;\n\nA nascente, com Figueirinha, Caldeirão e Ribeira da Corte Brique;\n\nA poente, Geraldo Pais, Giz, Monte Novo Tamanqueira, Tamanqueirinha e Canadá.\n\nArt. 3.º - 1 - A comissão instaladora da nova freguesia será constituída nos termos e no prazo previstos no artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832), de 2 de Junho.\n\n2 - Para efeitos do disposto no número anterior, a Assembleia Municipal de Odemira nomeará uma comissão instaladora constituída por:\n\na) Um membro da Assembleia Municipal de Odemira;\n\nb) Um membro da Câmara Municipal de Odemira;\n\nc) Um membro da Assembleia de Freguesia de Sabóia;\n\nd) Um membro da Assembleia de Freguesia de Relíquias;\n\ne) Um membro da Assembleia de Freguesia de Santa Maria;\n\nf) Um membro da Assembleia de Freguesia de São Martinho das Amoreiras;\n\ng) Um membro da Junta de Freguesia de Sabóia;\n\nh) Um membro da Junta de Freguesia de Relíquias;\n\ni) Um membro da Junta de Freguesia de Santa Maria;\n\nj) Um membro da Junta de Freguesia de São Martinho das Amoreiras;\n\nl) Onze cidadãos eleitores da área da nova freguesia, designados de acordo com os n.os 2 e 3 do artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832).\n\nArt. 4.º A comissão instaladora exercerá funções até à tomada de posse dos órgãos autárquicos da nova freguesia.\n\nArt. 5.º As eleições para a assembleia da nova freguesia realizar-se-ão aquando das próximas eleições gerais autárquicas.\n\nArt. 6.º Esta lei entra em vigor cinco dias após a sua publicação.\n\nAprovada em 30 de Junho de 1989.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 26 de Julho de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 31 de Julho de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19900/36593660.pdf)"
+  },
+  "4f4724b1d89f8a8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 29/91](https://diariodarepublica.pt/dr/detalhe/lei/29-1991-662957), publicado em 1991-07-17."
+   ],
+   "markdown": "de 30 de Agosto\n\nCriação da freguesia da Luzianes-Gare no concelho de Odemira\n\nA Assembleia da República decreta, nos termos dos artigos 167.º, alínea j), e 169.º, n.º 2, da Constituição, o seguinte:\n\nArtigo 1.º É criada no concelho de Odemira a freguesia de Luzianes-Gare.\n\nArt. 2.º Os limites da nova freguesia, conforme representação cartográfica, são os seguintes:\n\nA norte, com Pipinhas, Barranco das Taipas, Vale Chão e Bornico;\n\nA sul, com Padrona de Baixo, Monte da Figueira e Almarjões;\n\nA nascente, com Figueirinha, Caldeirão e o limite da freguesia de Santa Clara-a-Velha;\n\n> Alterado pelo/a [Lei n.º 29/91](https://diariodarepublica.pt/dr/detalhe/lei/29-1991-662957), publicado em 1991-07-17.\n\nA poente, Geraldo Pais, Giz, Monte Novo Tamanqueira, Tamanqueirinha e Canadá.\n\nArt. 3.º - 1 - A comissão instaladora da nova freguesia será constituída nos termos e no prazo previstos no artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832), de 2 de Junho.\n\n2 - Para efeitos do disposto no número anterior, a Assembleia Municipal de Odemira nomeará uma comissão instaladora constituída por:\n\na) Um membro da Assembleia Municipal de Odemira;\n\nb) Um membro da Câmara Municipal de Odemira;\n\nc) Um membro da Assembleia de Freguesia de Sabóia;\n\nd) Um membro da Assembleia de Freguesia de Relíquias;\n\ne) Um membro da Assembleia de Freguesia de Santa Maria;\n\nf) Um membro da Assembleia de Freguesia de São Martinho das Amoreiras;\n\ng) Um membro da Junta de Freguesia de Sabóia;\n\nh) Um membro da Junta de Freguesia de Relíquias;\n\ni) Um membro da Junta de Freguesia de Santa Maria;\n\nj) Um membro da Junta de Freguesia de São Martinho das Amoreiras;\n\nl) Onze cidadãos eleitores da área da nova freguesia, designados de acordo com os n.os 2 e 3 do artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832).\n\nArt. 4.º A comissão instaladora exercerá funções até à tomada de posse dos órgãos autárquicos da nova freguesia.\n\nArt. 5.º As eleições para a assembleia da nova freguesia realizar-se-ão aquando das próximas eleições gerais autárquicas.\n\nArt. 6.º Esta lei entra em vigor cinco dias após a sua publicação.\n\nAprovada em 30 de Junho de 1989.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 26 de Julho de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 31 de Julho de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19900/36593660.pdf)"
+  }
+ }
+}

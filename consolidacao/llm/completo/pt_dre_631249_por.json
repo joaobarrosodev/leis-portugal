@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:631249:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "O texto do Alterador 1 (Portaria n.º 271/2003, 2.ª série) vem vazio no pedido, sem nenhuma instrução dirigida ao original, pelo que não há alteração que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 271/2003, 2.ª série): texto ausente no pedido; nenhuma instrução identificável; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

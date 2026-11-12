@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:619719:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "1.º Os atletas abrangidos pelo seguro do desportista federado, previsto no [Decreto-Lei n.º 162/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1987-666156), de 8 de Abril, suportarão o encargo de uma prestação periódica correspondente à respectiva comparticipação no pagamento do prémio, a efectuar de acordo com o disposto no n.º 1 do artigo 8.º daquele diploma legal, nos termos seguintes:\n\nCada federação desportiva poderá definir, no âmbito da sua modalidade, segundo critérios que atendam ao risco, nomeadamente conforme a idade, treino e competição, a prestação periódica de cada pessoa segura correspondente à respectiva comparticipação no pagamento do prémio do seguro;\n\nAs federações serão sempre responsáveis perante o INFD pela observância dos seguintes valores médios por atleta inscrito:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 781/91: nova redação do n.º 1.º; substituída a unidade 11 pela nova frase de abertura mais os dois parágrafos novos (federações); os três escalões (unidades 12-14) ficam iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caçadores de S. Bento do Castelo, com o número de pessoa colectiva 505507498 e sede no Lugar de Linhares, São Tomé do Castelo, 5000 Vila Real, a zona de caça associativa de São Bento do Castelo (processo n.º 339-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de São Tomé do Castelo, município de Vila Real, com a área de 2995 ha.",
+    "depois": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caçadores de S. Bento do Castelo, com o número de pessoa colectiva 505507498 e sede no lugar de Linhares, São Tomé do Castelo, 5000 Vila Real, a zona de caça associativa de São Bento do Castelo (processo n.º 3339-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de São Tomé do Castelo, município de Vila Real, com a área de 2995 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:578771:por",
+    "alterador": "pt:dre:284079:por"
+  }
+]

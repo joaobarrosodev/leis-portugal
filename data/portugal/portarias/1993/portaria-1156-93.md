@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-12-20'
+version_history:
+  file: portaria-1156-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-11-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-12-20'
+    amending: pt:dre:537415:por
+    amending_title: Portaria n.º 1271/93
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1156/1993/11/06/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:44:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1271/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-1156-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,7 +146,13 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Vagas - 1993-1994
 
-O número de vagas para a candidatura à matrícula e inscrição, no ano lectivo de 1993-1994, no curso de estudos superiores especializados em Organização e Intervenção Sócio-Educativas ministrado pela Escola Superior de Educação (pólo da Guarda) do Instituto Politécnico da Guarda é fixado em 30.
+O número de vagas para a candidatura à matrícula e inscrição, no ano lectivo de 1993-1994, no curso de estudos superiores especializados em Organização e Intervenção Sócio-Educativas da Escola Superior de Educação do Instituto Politécnico da Guarda é o seguinte:
+
+Escola Superior de Educação da Guarda - 30;
+
+Escola Superior de Educação da Guarda (Seia) - 30.
+
+> Alterado pelo/a [Portaria n.º 1271/93](https://diariodarepublica.pt/dr/detalhe/portaria/1271-1993-537415), publicado em 1993-12-15.
 
 Ministério da Educação.
 

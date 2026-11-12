@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:621768:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "A Portaria n.º 135/2007 não altera o texto do original: aprova um regulamento novo e, no n.º 2.º, revoga apenas 'as disposições do regulamento anexo à Portaria n.º 63/96 referentes ao registo das associações mutualistas', uma revogação parcial e por matéria que não identifica artigos (os artigos 1.º, 40.º e 41.º, por exemplo, abrangem também as fundações de segurança social complementar e remetem para o regime do diploma), pelo que não se pode aplicar com segurança ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: aprova novo Regulamento de Registo (diploma autónomo) - não é instrução de alteração do original; nada aplicado.",
+    "Alterador 1, n.º 2.º: revoga as disposições do regulamento anexo à Portaria n.º 63/96 referentes ao registo das associações mutualistas - revogação por matéria, sem artigos identificados; não aplicada (nao_aplicavel).",
+    "Alterador 1, n.º 3.º: entrada em vigor - sem efeito no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

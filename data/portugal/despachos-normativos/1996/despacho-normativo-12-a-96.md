@@ -39,10 +39,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-10'
+version_history:
+  file: despacho-normativo-12-a-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-04-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-10'
+    amending: pt:dre:643718:por
+    amending_title: Despacho Normativo n.º 55/97
+    changes:
+    - Altera Artigo unidades 24-24
+    - Adita Artigo depois da unidade 24
+    - Altera Artigo unidades 25-25
+    - Altera Artigo unidades 26-26
+    - Altera Artigo unidades 29-29
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/12-a/1996/04/03/p/dre/pt/html
@@ -68,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:29:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 55/97. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1996/despacho-normativo-12-a-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -160,17 +179,29 @@ Bovinicultura de leite;
 
 Pecuária em regime extensivo.
 
-3 - Para efeitos do número anterior, entende-se por prioritários os projectos relativos a:
+3 - Para efeitos do número anterior, entendem-se por prioritários os projectos relativos a:
 
-a) Investimentos em infra-estruturas e equipamento de rega, desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar;
+> Alterado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05.
 
-b) Actividades vegetais:
+a) Investimentos a efectuar nas áreas geográficas de intervenção dos Programas de Desenvolvimento do Douro/Vale do Côa, Norte Alentejano e Margens do Guadiana, previstos na medida «Acções piloto de valorização do potencial endógeno» do Subprograma Acções Específicas de Reequílibrio, do Programa de Promoção do Potencial de Desenvolvimento Regional;
+
+> Aditado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05.
+
+b) Investimentos em infra-estruturas e equipamento de rega, desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar;
+
+> Alterado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05.
+
+c) Actividades vegetais:
+
+> Alterado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05.
 
 i) Investimentos directos nas referidas actividades, como plantações, construções e equipamentos específicos, sistemas de regas, desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar;
 
 ii) Outros tipos de investimento não directos ou específicos, mas que tenham uma relação específica com as actividades indicadas, desde que estas tenham um peso importante nas actividades de exploração (pelo menos 50% das receitas globais);
 
-c) Actividades animais:
+d) Actividades animais:
+
+> Alterado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05.
 
 i) No sector da bovinicultura de leite, os investimentos que contribuam para a melhoria da qualidade do leite, como é o caso de salas individuais de ordenha, salas de leite, sistema de ordenha e refrigeração, ou visem aumentos de efectivos resultantes da atribuição de quotas suplementares e desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar;
 

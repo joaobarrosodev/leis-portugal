@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 27-29",
+    "operacao": "remover",
+    "regra": "llm",
+    "antes": "4.º\n\nRegime pós-laboral\n\nO curso a que se refere o n.º 1.º será ministrado exclusivamente em regime pós-laboral.",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:668528:por",
+    "alterador": "pt:dre:537414:por"
+  }
+]

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-05-05'
+version_history:
+  file: despacho-normativo-84-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-04-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-05-05'
+    amending: pt:dre:498686:por
+    amending_title: Despacho Normativo n.º 58/92
+    changes:
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/84/1991/04/05/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:53:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 58/92. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1991/despacho-normativo-84-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,7 +146,9 @@ c) Um representante da Associação dos Jovens Agricultores de Portugal (AJAP).
 
 4 - A decisão a que se refere o número anterior deverá ser devidamente fundamentada, caso seja desfavorável ao agricultor.
 
-5 - Quando a decisão seja desfavorável ao agricultor, este não poderá tornar a apresentar-se às provas de avaliação antes de decorrido um ano.
+5 - O jovem agricultor que tenha obtido uma decisão desfavorável poderá requerer a prestação de segunda prova, que não deverá realizar-se antes de decorridos 90 dias a contar daquela decisão, não lhe sendo permitido submeter-se a nova avaliação.
+
+> Alterado pelo/a [Despacho Normativo n.º 58/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/58-1992-498686), publicado em 1992-04-30.
 
 6 - A Direcção-Geral do Planeamento e Agricultura estabelecerá os critérios e parâmetros referenciais que permitam uma identidade de procedimentos ao nível das várias regiões.
 

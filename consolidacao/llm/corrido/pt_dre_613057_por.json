@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:613057:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A RCM n.º 54/99 só altera cartograficamente o PDM (alargamento do perímetro urbano via planta em imagem), sem alteração textual à portaria; o alterador 2 (RCM n.º 160/2004) não traz texto de instruções dirigidas ao original.",
+  "instrucoes": [
+    "Alterador 1: ratifica alteração à planta de síntese do PGU de Ponte de Sor que altera o PDM; alteração não textual, não aplicada.",
+    "Alterador 2: sem texto disponível; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

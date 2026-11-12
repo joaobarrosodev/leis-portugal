@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:621934:por",
+  "substituicoes": [
+    {
+      "de": 19,
+      "ate": 19,
+      "texto": "5.º Os empréstimos beneficiarão de uma bonificação à taxa de juro de 4,5% ao ano durante os três primeiros anos da sua vigência, sofrendo uma redução de 1% por ano nos anos seguintes.",
+      "alterador": 1
+    },
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "7.º As bonificações serão processadas através do Instituto Nacional de Habitação, em condições a acordar entre este e as restantes instituições financiadoras, tendo por base o plano de aplicação elaborado de acordo com as orientações da política habitacional.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 489/86: nova redação do n.º 5.º (unidade 19) aplicada.",
+    "Portaria 489/86: nova redação do n.º 7.º (unidade 21) aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

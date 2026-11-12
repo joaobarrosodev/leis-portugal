@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:607506:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-04-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5c937bb8f822a35c"
+   ]
+  },
+  {
+   "date": "1982-07-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:394568:por",
+     "title": "Portaria n.º 686/82",
+     "published": "1982-07-09",
+     "dre_path": "/dr/detalhe/portaria/686-1982-394568"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8"
+   ],
+   "fragments": [
+    "33b17e8d74e541bd"
+   ]
+  }
+ ],
+ "fragments": {
+  "5c937bb8f822a35c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Abril\n\nA substituição dos derivados do petróleo por outros combustíveis é considerada uma das melhores formas de adaptação à nova situação energética.\n\nPorém, o sector dos transportes encontra muitas dificuldades em libertar-se daquela dependência. Por isso se considera conveniente remover os entraves que existem ao estudo de alternativas que se apresentem com alguma viabilidade.\n\nPara o efeito é necessário introduzir algumas alterações ao disposto na [Portaria n.º 10380](https://diariodarepublica.pt/dr/detalhe/portaria/10380-1943-595974), de 27 de Abril de 1943.\n\nAssim:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Energia, ao abrigo do artigo 2.º do [Decreto-Lei n.º 32438](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32438-1942-342460), de 24 de Novembro de 1942, o seguinte:\n\n1.º O emprego do álcool etílico desnaturado como carburante de substituição em motores de viaturas que, entregues a organismo do Estado, se destinem a investigação e demonstração pode, caso a caso, ser autorizado pela Direcção-Geral de Energia.\n\n2.º Salvo o que decorre do disposto no número anterior, mantém-se a proibição no continente do emprego de álcool etílico natural ou desnaturado, como carburante em motores de explosão de qualquer tipo.\n\nSecretaria de Estado da Energia, 26 de Março de 1982. - O Secretário de Estado da Energia, João Nuno Boulain de Carvalho Carreira."
+  },
+  "33b17e8d74e541bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1982-07-09",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 686/82](https://diariodarepublica.pt/dr/detalhe/portaria/686-1982-394568), publicado em 1982-07-09."
+   ],
+   "markdown": "de 16 de Abril\n\nA substituição dos derivados do petróleo por outros combustíveis é considerada uma das melhores formas de adaptação à nova situação energética.\n\nPorém, o sector dos transportes encontra muitas dificuldades em libertar-se daquela dependência. Por isso se considera conveniente remover os entraves que existem ao estudo de alternativas que se apresentem com alguma viabilidade.\n\nPara o efeito é necessário introduzir algumas alterações ao disposto na [Portaria n.º 10380](https://diariodarepublica.pt/dr/detalhe/portaria/10380-1943-595974), de 27 de Abril de 1943.\n\nAssim:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Energia, ao abrigo do artigo 2.º do [Decreto-Lei n.º 32438](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32438-1942-342460), de 24 de Novembro de 1942, o seguinte:\n\n1.º O emprego do álcool etílico desnaturado como carburante de substituição em motores de viaturas que se destinem a investigação e demonstração pode, caso a caso, ser autorizado por despacho do Secretário de Estado da Energia.\n\n> Alterado pelo/a [Portaria n.º 686/82](https://diariodarepublica.pt/dr/detalhe/portaria/686-1982-394568), publicado em 1982-07-09.\n\n2.º Salvo o que decorre do disposto no número anterior, mantém-se a proibição no continente do emprego de álcool etílico natural ou desnaturado, como carburante em motores de explosão de qualquer tipo.\n\nSecretaria de Estado da Energia, 26 de Março de 1982. - O Secretário de Estado da Energia, João Nuno Boulain de Carvalho Carreira."
+  }
+ }
+}

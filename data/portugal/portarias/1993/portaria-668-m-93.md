@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-12-27'
+version_history:
+  file: portaria-668-m-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-12-27'
+    amending: pt:dre:643359:por
+    amending_title: Portaria n.º 1474/95
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/668-m/1993/07/15/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:06:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1474/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-668-m-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +159,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Benespera, município da Guarda, com uma área de 1638 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Benespera, município da Guarda, com uma área 1534,75 ha.
+
+> Alterado pelo/a [Portaria n.º 1474/95](https://diariodarepublica.pt/dr/detalhe/portaria/1474-1995-643359), publicado em 1995-12-22.
 
 2.º Pelo presente diploma é concessionada, pelo período de 10 anos, à Associação Cultural e Recreativa de Benespera (registo no Instituto Florestal n.º 2.1264.92), com sede em Benespera, Guarda, a zona de caça associativa de Benespera (processo n.º 1512 do Instituto Florestal).
 

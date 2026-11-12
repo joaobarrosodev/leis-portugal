@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A nascente, com Figueirinha, Caldeirão e Ribeira da Corte Brique;",
+    "depois": "A nascente, com Figueirinha, Caldeirão e o limite da freguesia de Santa Clara-a-Velha;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:618297:por",
+    "alterador": "pt:dre:662957:por"
+  }
+]

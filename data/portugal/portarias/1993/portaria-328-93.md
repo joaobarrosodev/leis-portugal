@@ -40,10 +40,24 @@ notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-05-07'
+version_history:
+  file: portaria-328-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-03-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-05-07'
+    amending: pt:dre:513263:por
+    amending_title: Portaria n.º 382/95
+    changes:
+    - Altera Artigo unidades 16-16
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/328/1993/03/20/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:53:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 382/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-328-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,7 +163,9 @@ c) Um professor universitário de Química;
 
 d) Um professor universitário da área dos Explosivos;
 
-e) Um oficial da Armada em serviço no Laboratório de Explosivos da Marinha;
+e) Um oficial da Armada em serviço no Serviço de Armas Navais da Direcção de Navios;
+
+> Alterado pelo/a [Portaria n.º 382/95](https://diariodarepublica.pt/dr/detalhe/portaria/382-1995-513263), publicado em 1995-05-02.
 
 f) Um engenheiro da Direcção-Geral da Indústria, do Ministério da Indústria e Energia;
 

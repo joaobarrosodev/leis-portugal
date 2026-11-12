@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:618170:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-04-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "60e9b8508bf5f556"
+   ]
+  },
+  {
+   "date": "1997-09-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:643718:por",
+     "title": "Despacho Normativo n.º 55/97",
+     "published": "1997-09-05",
+     "dre_path": "/dr/detalhe/despacho-normativo/55-1997-643718"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 24-24",
+    "Adita Artigo depois da unidade 24",
+    "Altera Artigo unidades 25-25",
+    "Altera Artigo unidades 26-26",
+    "Altera Artigo unidades 29-29"
+   ],
+   "fragments": [
+    "0051393d7fbb24c9"
+   ]
+  }
+ ],
+ "fragments": {
+  "60e9b8508bf5f556": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Portaria n.º 980/95, de 16 de Agosto, relativa à medida «Apoio às explorações agrícolas» do Programa de Apoio à Modernização Agrícola e Florestal (PAMAF), vem aprovar o Regulamento de Aplicação do Regime de Ajudas à Melhoria da Eficácia das Estruturas Agrícolas.\n\nConsiderando que, nos termos do Regulamento (CEE) n.º [3669/93](http://data.europa.eu/eli/reg/1993/3669/oj?locale=pt), do Conselho, de 22 de Dezembro, o montante das ajudas poderá ser limitado às dotações orçamentais existentes;\n\nFace às disponibilidades financeiras decorrentes do Orçamento do Estado aprovado para 1996, publicado no Diário da República, 1.ª série, de 15 de Março de 1996, e designadamente o montante afecto a esta medida;\n\nTendo em conta o despacho do Ministro da Agricultura de 27 de Julho de 1995, publicado no Diário da República, 2.ª série, de 26 de Agosto de 1995;\n\nE considerando ainda as actividades agrícolas e os respectivos investimentos que, de acordo com as orientações definidas no Programa do Governo, são considerados prioritários;\n\nAssim:\n\nNos termos do artigo 47.º do Regulamento aprovado pela Portaria n.º 980/95, de 16 de Agosto, determino que:\n\n1 - As candidaturas à medida «Apoio às explorações agrícolas» do PAMAF que apresentem viabilidade técnica, económica e financeira são seleccionadas tendo em conta os seguintes critérios:\n\na) Capacidade empresarial, nomeadamente o conhecimento sobre as actividades principais da exploração;\n\nb) Adequação dos investimentos na exploração agrícola às condições agro-climáticas;\n\nc) Interligação com outros investimentos em curso ou recentemente executados;\n\nd) Escoamento da produção.\n\n2 - Para além do disposto na número anterior, na análise e decisão das candidaturas são considerados prioritários:\n\na) Os investimentos em regadio;\n\nb) Os investimentos nos seguintes sectores:\n\nOlivicultura;\n\nViticultura;\n\nFruticultura;\n\nHorticultura;\n\nFloricultura;\n\nBovinicultura de leite;\n\nPecuária em regime extensivo.\n\n3 - Para efeitos do número anterior, entende-se por prioritários os projectos relativos a:\n\na) Investimentos em infra-estruturas e equipamento de rega, desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar;\n\nb) Actividades vegetais:\n\ni) Investimentos directos nas referidas actividades, como plantações, construções e equipamentos específicos, sistemas de regas, desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar;\n\nii) Outros tipos de investimento não directos ou específicos, mas que tenham uma relação específica com as actividades indicadas, desde que estas tenham um peso importante nas actividades de exploração (pelo menos 50% das receitas globais);\n\nc) Actividades animais:\n\ni) No sector da bovinicultura de leite, os investimentos que contribuam para a melhoria da qualidade do leite, como é o caso de salas individuais de ordenha, salas de leite, sistema de ordenha e refrigeração, ou visem aumentos de efectivos resultantes da atribuição de quotas suplementares e desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar;\n\nii) No sector da pecuária em regime extensivo, os investimentos na cria ou cria/recria, desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar.\n\n4 - Em situações de igualdade, deve ser dada ainda preferência aos projectos apresentados por jovens agricultores.\n\n5 - É revogado o despacho do Ministro da Agricultura de 27 de Julho de 1995, publicado no Diário da República, 2.ª série, de 26 de Agosto de 1995.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas, 3 de Abril de 1996. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva."
+  },
+  "0051393d7fbb24c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1997-09-10",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05.",
+    "Aditado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05.",
+    "Alterado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05.",
+    "Alterado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05.",
+    "Alterado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05."
+   ],
+   "markdown": "A Portaria n.º 980/95, de 16 de Agosto, relativa à medida «Apoio às explorações agrícolas» do Programa de Apoio à Modernização Agrícola e Florestal (PAMAF), vem aprovar o Regulamento de Aplicação do Regime de Ajudas à Melhoria da Eficácia das Estruturas Agrícolas.\n\nConsiderando que, nos termos do Regulamento (CEE) n.º [3669/93](http://data.europa.eu/eli/reg/1993/3669/oj?locale=pt), do Conselho, de 22 de Dezembro, o montante das ajudas poderá ser limitado às dotações orçamentais existentes;\n\nFace às disponibilidades financeiras decorrentes do Orçamento do Estado aprovado para 1996, publicado no Diário da República, 1.ª série, de 15 de Março de 1996, e designadamente o montante afecto a esta medida;\n\nTendo em conta o despacho do Ministro da Agricultura de 27 de Julho de 1995, publicado no Diário da República, 2.ª série, de 26 de Agosto de 1995;\n\nE considerando ainda as actividades agrícolas e os respectivos investimentos que, de acordo com as orientações definidas no Programa do Governo, são considerados prioritários;\n\nAssim:\n\nNos termos do artigo 47.º do Regulamento aprovado pela Portaria n.º 980/95, de 16 de Agosto, determino que:\n\n1 - As candidaturas à medida «Apoio às explorações agrícolas» do PAMAF que apresentem viabilidade técnica, económica e financeira são seleccionadas tendo em conta os seguintes critérios:\n\na) Capacidade empresarial, nomeadamente o conhecimento sobre as actividades principais da exploração;\n\nb) Adequação dos investimentos na exploração agrícola às condições agro-climáticas;\n\nc) Interligação com outros investimentos em curso ou recentemente executados;\n\nd) Escoamento da produção.\n\n2 - Para além do disposto na número anterior, na análise e decisão das candidaturas são considerados prioritários:\n\na) Os investimentos em regadio;\n\nb) Os investimentos nos seguintes sectores:\n\nOlivicultura;\n\nViticultura;\n\nFruticultura;\n\nHorticultura;\n\nFloricultura;\n\nBovinicultura de leite;\n\nPecuária em regime extensivo.\n\n3 - Para efeitos do número anterior, entendem-se por prioritários os projectos relativos a:\n\n> Alterado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05.\n\na) Investimentos a efectuar nas áreas geográficas de intervenção dos Programas de Desenvolvimento do Douro/Vale do Côa, Norte Alentejano e Margens do Guadiana, previstos na medida «Acções piloto de valorização do potencial endógeno» do Subprograma Acções Específicas de Reequílibrio, do Programa de Promoção do Potencial de Desenvolvimento Regional;\n\n> Aditado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05.\n\nb) Investimentos em infra-estruturas e equipamento de rega, desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar;\n\n> Alterado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05.\n\nc) Actividades vegetais:\n\n> Alterado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05.\n\ni) Investimentos directos nas referidas actividades, como plantações, construções e equipamentos específicos, sistemas de regas, desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar;\n\nii) Outros tipos de investimento não directos ou específicos, mas que tenham uma relação específica com as actividades indicadas, desde que estas tenham um peso importante nas actividades de exploração (pelo menos 50% das receitas globais);\n\nd) Actividades animais:\n\n> Alterado pelo/a [Despacho Normativo n.º 55/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1997-643718), publicado em 1997-09-05.\n\ni) No sector da bovinicultura de leite, os investimentos que contribuam para a melhoria da qualidade do leite, como é o caso de salas individuais de ordenha, salas de leite, sistema de ordenha e refrigeração, ou visem aumentos de efectivos resultantes da atribuição de quotas suplementares e desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar;\n\nii) No sector da pecuária em regime extensivo, os investimentos na cria ou cria/recria, desde que os respectivos montantes correspondam a, pelo menos, 50% do investimento global a considerar.\n\n4 - Em situações de igualdade, deve ser dada ainda preferência aos projectos apresentados por jovens agricultores.\n\n5 - É revogado o despacho do Ministro da Agricultura de 27 de Julho de 1995, publicado no Diário da República, 2.ª série, de 26 de Agosto de 1995.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas, 3 de Abril de 1996. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva."
+  }
+ }
+}

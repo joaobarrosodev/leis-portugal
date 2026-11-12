@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:627003:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por dois iguais períodos, à Associação de Caça e Pesca de Entre Rio Paiva e Paivô, com o número de pessoa colectiva 505407469 e sede em Silveiras, Covelo de Paivó, Arouca, a zona de caça associativa de Entre Rio Paiva e Paivô (processo n.º 2996-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Covelo de Paivó e Janarde, município de Arouca, com uma área de 715 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º -> substituída a unidade 6"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
