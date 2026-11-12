@@ -18,7 +18,7 @@ O objetivo é tornar o ordenamento jurídico português mais acessível, pesquis
 | Versões | ~10 mil diplomas e atos com o histórico de versões (`.versoes.json`) e consulta do texto numa data (`version-at`) |
 | Texto em vigor consolidado pelo leis-portugal | ~2,3 mil diplomas que o DRE dá como alterados mas não consolida: alterações aplicadas por regras ou por um LLM e verificadas às cegas por outro modelo; marcados como **sem valor oficial** (ver [`consolidacao/`](consolidacao/README.md)) |
 | Relações | ~1,04 milhões de relações (alterações, revogações, retificações, citações, transposições); ~89% apontam para um documento do acervo |
-| Decisões (fora da legislação) | 7.892 decisões da CNPD (todas menos as autorizações, ainda em recolha), só 41 % com texto porque a maioria dos PDF são digitalizações; 9.660 acórdãos do Tribunal Constitucional de 2016 a 2026, com texto (1983–2015 em recolha) |
+| Decisões (fora da legislação) | 7.892 decisões da CNPD (todas menos as autorizações, ainda em recolha), só 41 % com texto porque a maioria dos PDF são digitalizações; 9.660 acórdãos do Tribunal Constitucional de 2016 a 2026, com texto (1983–2015 em recolha); 2.896 normas julgadas tiradas da decisão desses acórdãos, ligadas ao diploma (90 % de precisão medida às cegas) |
 | Fontes operacionais | Diário da República Eletrónico (DRE), EUR-Lex/CELLAR, CNPD e Tribunal Constitucional |
 | Atualização | Diária, por GitHub Actions |
 | Exportação | Índice de relações (JSONL), SQLite e Parquet com os metadados (`leis-portugal export`) |
@@ -469,6 +469,10 @@ O número no site é o que o histórico de decisões anuncia para cada ano e tip
 | Acórdãos de 1983 a 2015 | em recolha | — |
 
 Todos os acórdãos recolhidos têm texto. O que falta (2021, n.º 652) não tem o texto na página do Tribunal (`reports/tc_failures.jsonl`). 90 estão ligados ao registo do mesmo acórdão publicado no Diário da República.
+
+**Normas julgadas pelo Tribunal Constitucional** (`python -m rag.jurisprudencia`, gravadas em `data/jurisprudencia/tribunal-constitucional/normas-julgadas.jsonl`). De cada acórdão lê-se só a decisão final e tira-se o sentido de cada alínea e as normas julgadas (artigo e diploma), ligadas ao diploma no índice do RAG. Dos 9.838 acórdãos, 1.487 julgam normas; os outros são sobretudo reclamações e recursos de que o Tribunal não conhece. Dão 1.699 alíneas: 64 declarações de inconstitucionalidade com força obrigatória geral, 43 não declarações, 554 juízos de inconstitucionalidade, 1.014 de não inconstitucionalidade e 24 de fiscalização preventiva. 2.523 normas ficam ligadas a um artigo que existe no índice.
+
+Medição às cegas (12/11/2026): outro modelo anotou 80 alíneas ao acaso, 20 delas declarações com força obrigatória geral, só a partir do texto. Numa primeira amostra, usada para corrigir o extrator, a precisão ficou em 97 % e a cobertura em 87 %. Numa segunda amostra, que o extrator nunca tinha visto, ficou em **90 % de precisão e 88 % de cobertura** das normas, com o sentido certo em 79 das 80 alíneas; é este o número de referência. O que falha são sobretudo diplomas citados por um nome que o índice não reconhece (regulamentos, estatutos, leis orgânicas): ficam sem diploma, em vez de serem ligados ao diploma errado.
 
 **Qualidade das respostas do protótipo de perguntas** (medida com quatro juízes às cegas, que são o mesmo modelo, sem revisão de jurista; pormenor em [`rag/README.md`](rag/README.md)):
 
