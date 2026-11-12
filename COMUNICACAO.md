@@ -49,3 +49,7 @@ Números de 12 de novembro de 2026.
 ## Ressalva que acompanha qualquer número de qualidade
 
 > Protótipo. Medido com juízes de IA às cegas, sem revisão de jurista. Não substitui um advogado nem a consulta do Diário da República.
+
+## Imagem de partilha
+
+[`.github/social-preview.png`](.github/social-preview.png) (1280×640) é a imagem que aparece quando se partilha o link do repositório. Põe-se à mão no GitHub, em Settings → General → Social preview. Gera-se com `python .github/social-preview.py`: se os números do README mudarem, atualizam-se no script e gera-se outra vez.
