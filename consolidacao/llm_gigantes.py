@@ -235,8 +235,20 @@ def verificar_mudanca(s: dict, antigo: list[str], fontes: list[str], tokens: lis
     paragrafos = [p for p in paragrafos if not _TITULO_ARTIGO.match(p)]
     velho, novo = "\n\n".join(antigo), "\n\n".join(paragrafos)
     if len(velho) + len(novo) <= GRANDE:
-        return problemas + lc.verificar_texto({"texto": novo}, antigo, fontes, tokens)
-    # troca enorme: palavra a palavra, cada sequência nova tem de estar seguida numa fonte
+        por_paragrafo = lc.verificar_texto({"texto": novo}, antigo, fontes, tokens)
+        # um parágrafo trocado por um só parágrafo em que a nova redação junta o texto atual e um
+        # trecho do alterador ("é aditado o seguinte período", um "leia-se" que só cobre o princípio
+        # da frase, numa ata de retificação): palavra a palavra, como numa troca enorme
+        if por_paragrafo and len(antigo) == 1 and len(paragrafos) == 1 and not _por_palavras(velho, novo, tokens):
+            return problemas
+        return problemas + por_paragrafo
+    return problemas + _por_palavras(velho, novo, tokens)
+
+
+def _por_palavras(velho: str, novo: str, tokens: list[str]) -> list[str]:
+    """Palavra a palavra: cada sequência nova tem de estar seguida numa fonte, ou ser feita de
+    pedaços de 4 ou mais palavras seguidas, cada um numa fonte."""
+    problemas = []
     a, b = lc._tokens(velho), lc._tokens(novo)
     for tipo, _i1, _i2, j1, j2 in SequenceMatcher(None, a, b, autojunk=False).get_opcodes():
         if tipo not in ("replace", "insert"):

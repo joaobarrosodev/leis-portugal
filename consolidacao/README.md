@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.713 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.714 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -82,6 +82,11 @@ Conclusão: com os reparos, o rendimento sobe de 6 em 100 (ronda 81) para 32 em 
 **Um erro apanhado e corrigido.** O `llm_completo.py juntar` e o `llm_gigantes.py juntar` escrevem o consolidado no mesmo ficheiro de `piloto/`. Correr o primeiro depois do segundo repunha o texto do pedido completo. A primeira verificação às cegas da última passagem viu esse texto e deu 48 trechos `errado` (apagamentos e mudanças sem instrução).
 
 O `juntar` do pedido completo passa agora a deixar como "não junto" os diplomas do `llm/gigantes-ids.txt`. Só três diplomas tinham resposta nos dois pedidos, estes três, por isso o erro não tocou em mais nenhum. As duas vistas refizeram-se e voltaram a ser verificadas, e as duas deram tudo `certo`.
+
+**Ronda 103: RAR 19/2008 (Tratado de Lisboa).** O texto tem 490 mil caracteres, por isso vai em ficheiro. Os 6 alteradores couberam numa só passagem: o DPR 31/2008, que só ratifica; a 2.ª, 3.ª, 4.ª e 5.ª atas de retificação (Avisos 185/2008, 22/2010, 70/2010 e 1/2012); e a RAR 78/2011, com o novo artigo 2.º do Protocolo relativo às disposições transitórias. Ficam por aplicar as correções aos quadros de correspondência, que no texto só existem em imagem.
+- **A primeira resposta foi recusada** pela verificação letra a letra: o respondedor trocou por «» as aspas simples ('…') com que as atas citam os termos. Repetida com as aspas das atas.
+- **Mudança no `llm_gigantes.verificar_mudanca`.** Três correções juntam, no mesmo parágrafo, o texto atual e um trecho da ata: um "terceiro período" aditado, um "leia-se" que só cobre o princípio da frase e um trecho acrescentado. Quando um parágrafo troca por um só parágrafo, passa agora a verificar-se palavra a palavra, como as trocas enormes. Cada sequência nova tem de estar seguida numa fonte, ou ser feita de pedaços de 4 ou mais palavras, cada um de uma fonte.
+- **Às cegas** (`verificacao/entrada-piloto-103-lote-01.jsonl`, um verificador Sonnet que citou a instrução de cada trecho): 69 trechos, todos `certo`, e nenhuma instrução em falta. Há um caso de pontuação duvidoso: no Trecho 58, o "leia-se" da ata não traz o ";" final. **Aplicada** (`acervo.py`: aplicável, `Recusados: 0`).
 
 ### Triagem: alterações que as regras não leem (12/11/2026)
 
