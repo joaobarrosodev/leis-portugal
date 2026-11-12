@@ -3,19 +3,19 @@ id: pt:dre:636761:por
 title: Decreto Legislativo Regional n.º 19/2007/A
 original: data/regional/acores/decretos-legislativos-regionais/2007/decreto-legislativo-regional-19-2007-a.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
-    sem valor oficial
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:604643:por
-    title: Decreto Legislativo Regional n.º 2/2009/A
-    publication_date: '2009-03-02'
-  - id: pt:dre:611938:por
-    title: Decreto Legislativo Regional n.º 10/2010/A
-    publication_date: '2010-03-16'
   - id: pt:dre:146559:por
     title: Decreto Legislativo Regional n.º 26/2011/A
     publication_date: '2011-11-04'
+  - id: pt:dre:544588:por
+    title: Decreto Legislativo Regional n.º 3/2012/A
+    publication_date: '2012-01-13'
+  - id: pt:dre:66041469:por
+    title: Decreto Legislativo Regional n.º 1/2015/A
+    publication_date: '2015-01-07'
   - id: pt:dre:73070297:por
     title: Decreto Legislativo Regional n.º 1/2016/A
     publication_date: '2016-01-08'
@@ -67,7 +67,7 @@ c) Subsistema de Apoio ao Desenvolvimento Estratégico, adiante designado por De
 
 d) Subsistema de Apoio ao Desenvolvimento da Qualidade e Inovação, adiante designado por Desenvolvimento da Qualidade e Inovação.
 
-2 - O SIDER não abrange os projectos de investimento relacionados com a produção primária de produtos agrícolas enumerados no anexo i do Tratado que institui a Comunidade Europeia.
+2 - O SIDER não abrange os projectos de investimento relacionados com a produção primária de produtos agrícolas enumerados no anexo i do Tratado Que Institui a Comunidade Europeia.
 
 ###### Artigo 3.º — Condições gerais de acesso dos promotores
 
@@ -79,23 +79,15 @@ b) Possuir a situação regularizada face à administração fiscal e à seguran
 
 c) Dispor de contabilidade organizada;
 
-d) Possuir situação financeira equilibrada, verificada pelo cumprimento do indicador de autonomia financeira igual ou superior a 15 %;
-
-e) (Revogada.)
+d) Possuir situação financeira equilibrada, verificada pelo cumprimento do indicador de autonomia financeira igual ou superior a 15 %.
 
 2 - As condições referidas nas alíneas a), c) e d) são exigíveis na data da apresentação da candidatura.
 
 3 - A condição referida na alínea b) apenas é exigível no momento da assinatura do contrato de concessão de incentivos.
 
-4 - No caso de empresas a constituir, o cumprimento das condições referidas nas alíneas a) a c) do número anterior é exigível até à data da celebração do contrato de concessão de incentivos.
+4 - No caso de empresas a constituir, o cumprimento das condições referidas nas alíneas a) a c) do n.º 1 é exigível até à data da celebração do contrato de concessão de incentivos.
 
 5 - Quando os promotores sejam agrupamentos complementares de empresas, os indicadores económicos e financeiros mencionados no presente diploma referem-se ao conjunto das empresas agrupadas.
-
-> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2009-604643), publicado em 2009-03-02.
-
-> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2010-611938), publicado em 2010-03-16.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
 
 ###### Artigo 4.º — Condições gerais de acesso dos projectos
 
@@ -113,13 +105,9 @@ e) Cumprir as condições legais necessárias ao exercício da respectiva activi
 
 f) No que respeita aos projectos de arquitectura ou às memórias descritivas do investimento, quando exigíveis legalmente, encontrarem-se previamente aprovados.
 
-2 - O comprovativo da condição referida na alínea e) do número anterior pode ser feito até à data de encerramento do projecto, devendo à data de apresentação da candidatura ser comprovado o início do respectivo processo de licenciamento.
+2 - O comprovativo da condição referida na alínea e) do número anterior pode ser feito até à de data encerramento do projecto, devendo à data de apresentação da candidatura ser comprovado o início do respectivo processo de licenciamento.
 
 3 - A condição referida na alínea f) do n.º 1 apenas é exigível no momento da celebração do contrato de concessão de incentivo.
-
-> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2009-604643), publicado em 2009-03-02.
-
-> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2010-611938), publicado em 2010-03-16.
 
 ###### Artigo 5.º — Despesas elegíveis
 
@@ -159,19 +147,13 @@ v) Despesas com garantias bancárias exigidas ao promotor.
 
 4 - Para efeitos do disposto no n.º 1, apenas são considerados os valores declarados pelo promotor do projecto que correspondam aos custos médios do mercado, podendo a entidade responsável pela análise da candidatura, caso não se verifique essa correspondência, proceder à respectiva adequação.
 
-5 - (Revogado.)
-
-> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2010-611938), publicado em 2010-03-16.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
-
 ###### Artigo 6.º — Despesas não elegíveis
 
 Não são elegíveis as despesas com:
 
-a) A aquisição de terrenos, com excepção do disposto na subalínea i) da alínea a) do n.º 1 do artigo anterior;
+a) Aquisição de terrenos, com excepção do disposto na subalínea i) da alínea a) do n.º 1 do artigo anterior;
 
-b) A aquisição de edifícios, com excepção do disposto na subalínea ii) da alínea a) do n.º 1 do artigo anterior;
+b) Aquisição de edifícios, com excepção do disposto na subalínea ii) da alínea a) do n.º 1 do artigo anterior;
 
 c) Aquisição de bens em estado de uso, à excepção das situações previstas nos regulamentos dos diversos subsistemas;
 
@@ -189,11 +171,9 @@ i) Publicidade corrente;
 
 j) Despesas de funcionamento da empresa;
 
-l) Bens que se destinem unicamente a substituição ou reposição, com a excepção dos referidos nos projectos previstos no n.º 3 do artigo 29.º;
+l) Bens que se destinem unicamente a substituição ou reposição, com excepção dos referidos nos projectos previstos no n.º 3 do artigo 29.º;
 
 m) Todas as rubricas de investimento que não apresentem suficiente justificação ou relevante importância para o desenvolvimento do projecto.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
 
 ###### Artigo 7.º — Incentivos
 
@@ -205,13 +185,9 @@ m) Todas as rubricas de investimento que não apresentem suficiente justificaç�
 
 4 - O valor máximo do incentivo a conceder por projecto não pode ser superior ao limite máximo de auxílio, indicado em equivalente de subvenção bruta (ESB), constante do mapa nacional dos auxílios estatais com finalidade regional para o período de 2007-2013, publicado no Jornal Oficial da União Europeia, n.º C 68, de 24 de Março de 2007.
 
-> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2010-611938), publicado em 2010-03-16.
-
 ###### Artigo 8.º — Apresentação das candidaturas
 
 As candidaturas ao SIDER são apresentadas exclusivamente através de formulário electrónico disponível no Portal do Governo.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
 
 ###### Artigo 9.º — Análise das candidaturas
 
@@ -219,19 +195,13 @@ As candidaturas ao SIDER são apresentadas exclusivamente através de formulári
 
 2 - As candidaturas das empresas ao Desenvolvimento Local, no caso de investimentos superiores a (euro) 200 000, e de projectos apresentados pelas estruturas associativas ou associações empresariais, e as candidaturas ao Desenvolvimento do Turismo, Desenvolvimento Estratégico e Desenvolvimento da Qualidade e Inovação são analisadas pelo departamento do Governo Regional com competência em matéria de economia.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
-
 ###### Artigo 10.º — Avocação
 
-O departamento do Governo com competência em matéria de economia pode, por razões de celeridade ou urgência na análise de projectos, avocar projectos previstos no n.º 1 do artigo anterior.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 2/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2009-604643), publicado em 2009-03-02.
+O departamento do Governo em matéria de economia pode, por razões de celeridade ou urgência na análise de projectos, avocar projectos previstos no n.º 1 do artigo anterior.
 
 ###### Artigo 11.º — Concessão de incentivos
 
 Os incentivos são concedidos mediante despacho do membro do Governo Regional com competência em matéria de economia ou por resolução do Conselho do Governo, de acordo com as competências para autorização de despesas.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 2/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2009-604643), publicado em 2009-03-02.
 
 ###### Artigo 12.º — Contrato de concessão de incentivos
 
@@ -243,8 +213,6 @@ Os incentivos são concedidos mediante despacho do membro do Governo Regional co
 
 4 - Os modelos de contrato são homologados por despacho do membro do Governo Regional com competência em matéria de economia, devendo dele constar cláusulas relativas aos objectivos do projecto de investimento, à forma e montante do incentivo concedido, aos direitos e obrigações das partes e, sendo caso disso, às garantias a prestar.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
-
 ###### Artigo 13.º — Renegociação do contrato e cessão da posição contratual
 
 1 - O contrato de concessão de incentivos pode ser objecto de renegociação se as condições em que foi celebrado tiverem sofrido uma alteração anormal, superveniente, não imputável ao promotor, e desde que devidamente fundamentada.
@@ -254,8 +222,6 @@ Os incentivos são concedidos mediante despacho do membro do Governo Regional co
 3 - A posição contratual do promotor no contrato de concessão de incentivos pode ser objecto de cessão, por motivos devidamente fundamentados, uma vez verificadas as condições de acesso do cessionário.
 
 4 - Compete ao membro do Governo Regional com competência em matéria de economia autorizar a renegociação do contrato de concessão de incentivos e a cessão da posição contratual do promotor.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 2/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2009-604643), publicado em 2009-03-02.
 
 ###### Artigo 14.º — Rescisão do contrato
 
@@ -271,8 +237,6 @@ c) Prestação de informações falsas sobre a situação do promotor ou viciaç
 
 3 - Quando a resolução se verificar pelo motivo referido na alínea c) do n.º 1, o promotor não pode apresentar candidaturas a quaisquer apoios pelo período de cinco anos.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
-
 ###### Artigo 15.º — Pagamento do incentivo
 
 1 - Os pagamentos dos incentivos são efectuados por transferência bancária para a conta bancária do promotor indicada no contrato de concessão de incentivos.
@@ -282,8 +246,6 @@ c) Prestação de informações falsas sobre a situação do promotor ou viciaç
 3 - O departamento do Governo Regional com competência em matéria de economia, em colaboração, conforme os casos, com outros departamentos do Governo, promove a verificação física dos projectos para efeitos de pagamento final do incentivo.
 
 4 - O valor do investimento correspondente ao último pedido de pagamento, que deve ser apresentado no prazo máximo de trinta dias úteis a partir da data de conclusão do projeto, não pode ser inferior a 10 % do investimento elegível do projeto.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 1/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), publicado em 2016-01-08.
 
 ###### Artigo 16.º — Antecipação e adiantamento do pagamento
 
@@ -298,10 +260,6 @@ c) Prestação de informações falsas sobre a situação do promotor ou viciaç
 5 - O não cumprimento da obrigação de apresentar os comprovativos do pagamento das respectivas facturas inibe o promotor de receber qualquer incentivo, a qualquer título, no âmbito do respectivo projecto.
 
 6 - O promotor pode ainda recorrer ao adiantamento da componente não reembolsável do incentivo, até 30 % do valor aprovado, mediante a apresentação de garantia bancária de valor idêntico, devendo executar o investimento correspondente no prazo máximo de um ano contado a partir da data de concessão do adiantamento.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
-
-### CAPÍTULO II — Desenvolvimento Local
 
 ###### Artigo 17.º — Obrigações dos promotores
 
@@ -325,7 +283,7 @@ h) Manter a situação regularizada perante as entidades pagadoras do incentivo;
 
 i) Manter a contabilidade organizada;
 
-j) Manter devidamente organizado em dossier todos os documentos susceptíveis de comprovar as informações e declarações prestadas no âmbito do projecto e de fundamentar as opções de investimento apresentadas, bem como todos os documentos comprovativos da realização das despesas de investimento, o qual poderá ser consultado a qualquer momento pelos organismos intervenientes no processo de análise, acompanhamento e fiscalização dos projectos, devendo este dossier ser mantido pelo prazo de três anos contado a partir do encerramento do PROCONVERGENCIA, de acordo com o disposto no artigo 90.º do Regulamento (CE) n.º [1083/2006](http://data.europa.eu/eli/reg/2006/1083/oj?locale=pt), do Conselho, de 11 de Julho, publicado no Jornal Oficial da União Europeia, n.º L 210, de 31 de Julho de 2006.
+j) Manter devidamente organizado em dossier todos os documentos susceptíveis de comprovar as informações e declarações prestadas no âmbito do projecto e de fundamentar as opções de investimento apresentadas, bem como todos os documentos comprovativos da realização das despesas de investimento, o qual poderá ser consultado a qualquer momento pelos organismos intervenientes no processo de análise, acompanhamento e fiscalização dos projectos, devendo este dossier ser mantido pelo prazo de três anos contado a partir do encerramento do PROCONVERGENCIA, de acordo com o disposto no artigo 90.º do Regulamento (CE) n.º [1083/2006](http://data.europa.eu/eli/reg/2006/1083/oj?locale=pt), do Conselho, de 11 de Julho, publicado no Jornal Oficial da União Europeia, n.º L 210, de 31 de Julho de 2006;
 
 l) Manter, em matéria de recursos humanos, as obrigações estabelecidas no contrato de concessão de incentivos;
 
@@ -333,19 +291,17 @@ m) Publicitar os apoios recebidos nos termos regulamentares;
 
 n) Não alienar ou onerar, a qualquer título, o empreendimento ou equipamento a que respeita o projecto nem ceder ou cessar a sua exploração ou utilização sem autorização do membro do Governo Regional com competência em matéria de economia.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
-
 ###### Artigo 18.º — Acompanhamento, fiscalização e avaliação
 
 1 - O acompanhamento e fiscalização dos projectos são efectuados pelo departamento do Governo Regional com competência em matéria de economia, pela Inspecção Administrativa Regional ou por empresas especializadas, podendo ser solicitados pelo membro do Governo Regional com competência em matéria de economia, em colaboração, conforme os casos, com outros departamentos do Governo, pelo gestor do Programa Operacional PROCONVERGÊNCIA ou por outras entidades integradas no sistema de controlo adoptado para o período de programação de 2007-2013.
 
 2 - O acompanhamento e avaliação da execução conferida ao SIDER são efectuados pelo Conselho Regional de Incentivos.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 2/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2009-604643), publicado em 2009-03-02.
+### CAPÍTULO II — Desenvolvimento Local
 
 ###### Artigo 19.º — Âmbito
 
-1 - São susceptíveis de apoio, no âmbito do Desenvolvimento Local:
+São susceptíveis de apoio, no âmbito do Desenvolvimento Local:
 
 a) Projectos vocacionados essencialmente para a satisfação do mercado local com investimentos iguais ou superiores a (euro) 15 000 nas seguintes áreas, classificadas de acordo com a Classificação Portuguesa de Actividades Económicas (CAE - Rev. 3), revista pelo Decreto-Lei n.º 381/2007, de 14 de Novembro:
 
@@ -357,25 +313,17 @@ iii) Comércio - divisões 45 a 47 da CAE, com excepção da classe 4773;
 
 iv) Restauração e similares - actividades incluídas na divisão 56;
 
-v) Serviços - divisões 37, 38, 39, 62, 71, 72, 78, 79, 82, 88 e 95, grupos 582, 592, 631, 812, 813 e 851, classes 5911, 5912, 9313, 9601, 9602 e 9604 e subclasse 52102 da CAE;
+v) Serviços - divisões 37, 38, 39, 62, 71, 72, 78, 79, 82, 88 e 95, grupos 582, 592, 631, 812, 813 e 851, classes 5911, 5912, 9313, 9601, 9602 e 9604 e na subclasse 52102 da CAE;
 
 b) Projectos com investimentos iguais ou superiores a (euro) 15 000 e iguais ou inferiores a (euro) 80 000, destinados à promoção da segurança e qualidade alimentar dos estabelecimentos do comércio e indústria do ramo alimentar e de restauração e bebidas, existentes há mais de três anos;
 
-c) Projectos de urbanismo comercial, com despesas iguais ou superiores a (euro) 15 000, que visem a qualificação do espaço público envolvente ao comércio, em áreas delimitadas dos centros urbanos das vilas e cidades, incluindo a modernização das fachadas dos estabelecimentos comerciais que confrontem com o espaço público, desde que os mesmos se encontrem previamente aprovados pela Câmara Municipal competente.
-
-2 - (Revogado.)
-
-3 - (Revogado.)
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
+c) Projectos de urbanismo comercial, com despesas iguais ou superiores a (euro)15 000, que visem a qualificação do espaço público envolvente ao comércio, em áreas delimitadas dos centros urbanos das vilas e cidades, incluindo a modernização das fachadas dos estabelecimentos comerciais que confrontem com o espaço público, desde que os mesmos se encontrem previamente aprovados pela Câmara Municipal competente.
 
 ###### Artigo 20.º — Promotores
 
 1 - Podem beneficiar dos incentivos previstos no Desenvolvimento Local empresários em nome individual, estabelecimentos individuais de responsabilidade limitada, sociedades comerciais, cooperativas e agrupamentos complementares de empresas.
 
-2 - Podem beneficiar dos incentivos previstos na alínea c) do n.º 1 do artigo anterior estruturas associativas do comércio ou as associações empresariais.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
+2 - Podem beneficiar dos incentivos previstos na alínea c) do artigo anterior estruturas associativas do comércio ou as associações empresariais.
 
 ###### Artigo 21.º — Critérios de selecção
 
@@ -395,7 +343,7 @@ f) Contributo do projecto para a competitividade;
 
 g) Contributo do projecto para reconversão estrutural;
 
-h) Contributo do projecto para a reconversão funcional.
+h) Contributo do projecto para a reconversão funcional;
 
 i) Contributo do projecto para a sustentabilidade económica, ambiental e social.
 
@@ -403,51 +351,41 @@ i) Contributo do projecto para a sustentabilidade económica, ambiental e social
 
 3 - Os projectos são considerados elegíveis se obtiverem uma pontuação final igual ou superior a 50 pontos.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
-
-### CAPÍTULO III — Desenvolvimento do Turismo
-
 ###### Artigo 22.º — Natureza e montante do incentivo
 
-1 - O incentivo a conceder às despesas elegíveis para os projectos a que se refere a alínea a) do n.º 1 do artigo 19.º reveste a forma de subsídio não reembolsável e reembolsável sem juros, de acordo com os seguintes escalões de investimento:
+1 - O incentivo a conceder às despesas elegíveis para os projectos a que se refere a alínea a) do artigo 19.º reveste a forma de subsídio não reembolsável e reembolsável sem juros, de acordo com os seguintes escalões de investimento:
 
 a) Até (euro) 200 000, subsídio não reembolsável, com uma taxa base de 40 % para as ilhas de São Miguel e Terceira, 45 % para as ilhas de Faial e Pico e 50 % para as restantes ilhas;
 
 b) Superior a (euro) 200 000 e inferior ou igual a (euro) 500 000, subsídio não reembolsável, com uma taxa base de 20 % para as ilhas de São Miguel e Terceira, 25 % para as ilhas de Faial e Pico e 30 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 %;
 
-c) Superior a (euro) 500 000, subsídio não reembolsável, com uma taxa base de 15 % para as ilhas de São Miguel e Terceira, 20 % para as ilhas de Faial e Pico e 25 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 %.
+c) Superior a (euro) 500 000, subsídio não reembolsável, com uma taxa base de 15 %, para as ilhas de São Miguel e Terceira, 20 % para as ilhas de Faial e Pico e 25 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 %.
 
 2 - Às taxas de incentivo não reembolsável referidas no número anterior podem ser acrescidas majorações, a definir na regulamentação deste subsistema, relativas à certificação da qualidade, eficiência energética, mais-valia ambiental, criação de emprego com habilitação adequada, localização do projecto, transformação e valorização de recursos endógenos, incremento da capacidade exportadora e, no caso dos projectos que se desenvolvam nas áreas de actividade inseridas nas divisões 56 e 79 da CAE, desde que reconhecidos de interesse para o turismo.
 
 3 - O prazo de financiamento do incentivo reembolsável é de 10 anos, dos quais os 3 primeiros são de carência de capital, contados a partir da data do primeiro pagamento do incentivo, sendo de 12 anos, dos quais os 4 primeiros são de carência de capital, para projectos com despesas elegíveis iguais ou superiores a (euro) 4 000 000.
 
-4 - O incentivo a conceder às despesas elegíveis para os projectos a que se refere a alínea b) do n.º 1 do artigo 19.º reveste a forma de subsídio não reembolsável, com uma taxa de comparticipação de 50 % para as ilhas de São Miguel e Terceira, 55 % para as ilhas de Faial e Pico e 60 % para as restantes ilhas.
+4 - O incentivo a conceder às despesas elegíveis para os projectos a que se refere a alínea b) do artigo 19.º reveste a forma de subsídio não reembolsável, com uma taxa de comparticipação de 50 % para as ilhas de São Miguel e Terceira, 55 % para as ilhas de Faial e Pico e de 60 % para as restantes ilhas.
 
-5 - O incentivo a conceder às despesas elegíveis para os projectos da alínea c) do n.º 1 do artigo 19.º reveste a forma de subsídio não reembolsável, sendo a taxa de comparticipação de 55 % para as ilhas de São Miguel e Terceira, 60 % para as ilhas de Faial e Pico e 65 % para as restantes ilhas.
+5 - O incentivo a conceder às despesas elegíveis para os projectos da alínea c) do artigo 19.º reveste a forma de subsídio não reembolsável, sendo a taxa de comparticipação de 55 % para as ilhas de São Miguel e Terceira, 60 % para as ilhas de Faial e Pico e 65 % para as restantes ilhas.
 
 6 - O valor máximo do apoio a conceder é de (euro) 2 000 000, sob a forma de subsídio não reembolsável, e (euro) 2 000 000, sob a forma de subsídio reembolsável, por projecto.
-
-7 - (Revogado.)
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
 
 ###### Artigo 23.º — Entidades gestoras
 
 Na gestão do Desenvolvimento Local intervêm:
 
-a) (Revogada.)
+a) Organismos avaliadores - direcção regional com competência em matéria de apoio ao investimento ou Câmara do Comércio e Indústria dos Açores, através das suas associadas;
 
-b) Organismos avaliadores - direcção regional com competência em matéria de apoio ao investimento ou Câmara do Comércio e Indústria dos Açores, através das suas associadas;
+b) Organismo coordenador - direcção regional com competência em matéria de apoio ao investimento;
 
-c) Organismo coordenador - direcção regional com competência em matéria de apoio ao investimento;
+c) Organismo de selecção - comissão de selecção.
 
-d) Organismo de selecção - comissão de selecção.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
+### CAPÍTULO III — Desenvolvimento do Turismo
 
 ###### Artigo 24.º — Âmbito
 
-1 - São susceptíveis de apoio, no âmbito do Desenvolvimento do Turismo:
+São susceptíveis de apoio, no âmbito do Desenvolvimento do Turismo:
 
 a) Projectos com investimento igual ou superior a (euro) 15 000, que se desenvolvam nas seguintes áreas, classificadas de acordo com a Classificação Portuguesa de Actividades Económicas (CAE - Rev. 3), revista pelo Decreto-Lei n.º 381/2007, de 14 de Novembro:
 
@@ -455,23 +393,15 @@ i) Alojamento - divisão 55 da CAE;
 
 ii) Aluguer de veículos automóveis - classe 7711 da CAE;
 
-iii) Actividades termais - subclasse 86905 da CAE;
+iii) Actividades Termais - subclasse 86905 da CAE;
 
 iv) Animação turística - actividades incluídas no Decreto-Lei n.º 108/2009, de 15 de Maio, desde que sejam reconhecidas de interesse para o desenvolvimento e consolidação da oferta turística regional pela direcção regional com competência em matéria de turismo;
 
-b) (Revogada.)
-
-c) Projectos com despesas iguais ou superiores a (euro) 5000 que visem a realização de acções e eventos de animação e promoção turísticas cujo interesse seja previamente reconhecido pela direcção regional com competência em matéria de turismo.
-
-2 - (Revogado.)
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
+b) Projectos com despesas iguais ou superiores a (euro) 5000 que visem a realização de acções e eventos de animação e promoção turísticas cujo interesse seja previamente reconhecido pela direcção regional com competência em matéria de turismo.
 
 ###### Artigo 25.º — Promotores
 
 Podem beneficiar dos incentivos previstos no Desenvolvimento do Turismo empresários em nome individual, estabelecimentos individuais de responsabilidade limitada, sociedades comerciais, cooperativas e agrupamentos complementares de empresas.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 2/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2009-604643), publicado em 2009-03-02.
 
 ###### Artigo 26.º — Critérios de selecção
 
@@ -489,23 +419,15 @@ e) Contributo do projecto para a inovação e diversificação da oferta;
 
 f) Contributo do projecto para a competitividade;
 
-g) (Revogada.)
-
-h) (Revogada.)
-
-i) Contributo do projecto para a sustentabilidade económica, ambiental e social.
+g) Contributo do projecto para a sustentabilidade económica, ambiental e social.
 
 2 - A metodologia de cálculo dos critérios mencionados no número anterior é definida no regulamento deste subsistema.
 
 3 - Os projectos são considerados elegíveis se obtiverem uma pontuação final igual ou superior a 50 pontos.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
-
-### CAPÍTULO IV — Desenvolvimento Estratégico
-
 ###### Artigo 27.º — Natureza e montante do incentivo
 
-1 - O incentivo a conceder às despesas elegíveis para os projectos a que se refere a alínea a) do n.º 1 do artigo 24.º reveste a forma de subsídio não reembolsável e reembolsável sem juros, de acordo com os seguintes escalões de investimento:
+1 - O incentivo a conceder às despesas elegíveis para os projectos a que se refere a alínea a) do artigo 24.º reveste a forma de subsídio não reembolsável e reembolsável sem juros, de acordo com os seguintes escalões de investimento:
 
 a) Até (euro) 200 000:
 
@@ -515,35 +437,29 @@ ii) Subsídio não reembolsável, com uma taxa base de 50 % para as ilhas de Sã
 
 b) Superior a (euro) 200 000 e inferior ou igual a (euro) 500 000:
 
-i) Subsídio não reembolsável, com uma taxa base de 25 % para as ilhas de São Miguel e Terceira, 30 % para as ilhas de Faial e Pico e 35 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 %, para os projectos a que se referem as subalíneas i) e ii);
+i) Subsídio não reembolsável, com uma taxa base de 25 % para as ilhas de São Miguel e Terceira, 30 % para as ilhas de Faial e Pico e 35 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 % para os projectos a que se referem as subalíneas i) e ii);
 
-ii) Subsídio não reembolsável, com uma taxa base de 35 % para as ilhas de São Miguel e Terceira, 40 % para as ilhas de Faial e Pico e 45 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 %, para os projectos a que se referem as subalíneas iii) e iv);
+ii) Subsídio não reembolsável, com uma taxa base de 35 % para as ilhas de São Miguel e Terceira, 40 % para as ilhas de Faial e Pico e 45 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 % para os projectos a que se referem as subalíneas iii) e iv);
 
 c) Superior a (euro) 500 000:
 
-i) Subsídio não reembolsável, com uma taxa base de 20 % para as ilhas de São Miguel e Terceira, 25 % para as ilhas de Faial e Pico e 30 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 %, para os projectos a que se referem as subalíneas i) e ii);
+i) Subsídio não reembolsável, com uma taxa base de 20 % para as ilhas de São Miguel e Terceira, 25 % para as ilhas de Faial e Pico e 30 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 % para os projectos a que se referem as subalíneas i) e ii).
 
-ii) Subsídio não reembolsável, com uma taxa base de 30 % para as ilhas de São Miguel e Terceira, 35 % para as ilhas de Faial e Pico e 40 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 %, para os projectos a que se referem as subalíneas iii) e iv).
+ii) Subsídio não reembolsável, com uma taxa base de 30 % para as ilhas de São Miguel e Terceira, 35 % para as ilhas de Faial e Pico e 40 % para as restantes ilhas, e subsídio reembolsável, com uma taxa de comparticipação de 25 % para os projectos a que se referem as subalíneas iii) e iv).
 
 2 - Às taxas de incentivo não reembolsável referidas no número anterior podem ser acrescidas majorações, a definir na regulamentação deste subsistema, relativas à certificação da qualidade, eficiência energética, mais-valia ambiental, criação de emprego com habilitação adequada e classificação do empreendimento turístico.
 
 3 - O prazo de financiamento do incentivo reembolsável é de 10 anos, dos quais os 3 primeiros são de carência de capital, contados a partir da data do primeiro pagamento do incentivo, sendo de 12 anos, dos quais os 4 primeiros são de carência de capital, para projectos com despesas elegíveis iguais ou superiores a (euro) 4 000 000.
 
-4 - (Revogado.)
+4 - O incentivo a conceder às despesas elegíveis para os projectos a que se refere a alínea b) do artigo 24.º reveste a forma de subsídio não reembolsável, a atribuir ao abrigo do Regulamento (CE) n.º [1998/2006](http://data.europa.eu/eli/reg/2006/1998/oj?locale=pt), da Comissão, de 15 de Dezembro (auxílios de minimis), com uma taxa de 50 % para as ilhas de São Miguel e Terceira, 55 % para as ilhas de Faial e Pico e 60 % para as restantes ilhas.
 
-5 - O incentivo a conceder às despesas elegíveis para os projectos a que se refere a alínea c) do n.º 1 do artigo 24.º reveste a forma de subsídio não reembolsável, a atribuir ao abrigo do Regulamento (CE) n.º [1998/2006](http://data.europa.eu/eli/reg/2006/1998/oj?locale=pt), da Comissão, de 15 de Dezembro (auxílios de minimis), com uma taxa de 50 % para as ilhas de São Miguel e Terceira, 55 % para as ilhas de Faial e Pico e 60 % para as restantes ilhas.
-
-6 - O valor máximo do apoio a conceder é de (euro) 3 500 000, sob a forma de subsídio não reembolsável, e (euro) 3 500 000, sob a forma de subsídio reembolsável, por projecto, à excepção do disposto no número anterior.
-
-7 - (Revogado.)
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
+5 - O valor máximo do apoio a conceder é de (euro) 3 500 000, sob a forma de subsídio não reembolsável, e (euro) 3 500 000, sob a forma de subsídio reembolsável, por projecto, à excepção do disposto no número anterior.
 
 ###### Artigo 28.º — Entidades gestoras
 
-As entidades responsáveis pela gestão do Desenvolvimento do Turismo são a direcção regional com competência em matéria de apoio ao investimento, para os projectos a que se refere a alínea a) do n.º 1 do artigo 24.º, e a direcção regional com competência em matéria de turismo, para os projectos a que se refere a alínea b) do n.º 1 do artigo 24.º, e a comissão de selecção.
+As entidades responsáveis pela gestão do Desenvolvimento do Turismo são a direcção regional com competência em matéria de apoio ao investimento, para os projectos a que se refere a alínea a) do artigo 24.º, e a direcção regional com competência em matéria de turismo, para os projectos a que se refere a alínea b) do artigo 24.º, e a comissão de selecção.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
+### CAPÍTULO IV — Desenvolvimento Estratégico
 
 ###### Artigo 29.º — Âmbito
 
@@ -567,7 +483,7 @@ h) Estabelecimentos de saúde com ou sem internamento;
 
 i) Residências assistidas e lares para idosos;
 
-j) Transporte marítimo interilhas;
+j) Transporte marítimo inter-ilhas;
 
 l) Operações de gestão de resíduos;
 
@@ -577,19 +493,13 @@ n) Investigação e desenvolvimento tecnológico, que visem o reforço da compet
 
 2 - Para efeitos do disposto na alínea a) do número anterior, consideram-se apenas os projectos que demonstrem contribuir de forma regular e continuada para o incremento das vendas ao mercado externo.
 
-3 - Para efeitos do disposto na alínea j) do n.º 1, consideram-se apenas os projectos de substituição de equipamentos e embarcações destinados ao transporte marítimo regular, que incluam pelo menos uma das seguintes ilhas: Santa Maria, Graciosa, São Jorge, Flores e Corvo.
-
-4 - (Revogado.)
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
+3 - Para efeitos do disposto na alínea j) do n.º 1, consideram-se apenas os projectos de substituição de equipamentos e embarcações destinados ao transporte marítimo regular, que incluam, pelo menos, uma das seguintes ilhas: Santa Maria, Graciosa, São Jorge, Flores e Corvo.
 
 ###### Artigo 30.º — Promotores
 
 1 - Podem beneficiar dos incentivos previstos no Desenvolvimento Estratégico empresários em nome individual, estabelecimentos individuais de responsabilidade limitada, sociedades comerciais, cooperativas, agrupamentos complementares de empresas, associações sem fins lucrativos de reconhecido interesse público e fundações.
 
 2 - Não podem ser promotores, directa ou indirectamente, as instituições particulares de solidariedade social ou misericórdias.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 2/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2009-604643), publicado em 2009-03-02.
 
 ###### Artigo 31.º — Critérios de selecção
 
@@ -603,17 +513,13 @@ c) Produtividade do projecto;
 
 d) Contributo do projecto para a diversificação e inovação da oferta;
 
-e) Adequação do projecto à estratégia de desenvolvimento regional para o sector de actividade em causa.
+e) Adequação do projecto à estratégia de desenvolvimento regional para o sector de actividade em causa;
 
 f) Contributo do projecto para a sustentabilidade económica, ambiental e social.
 
 2 - A metodologia de cálculo dos critérios mencionados no número anterior é definida no regulamento deste subsistema.
 
 3 - Os projectos são considerados elegíveis se obtiverem uma pontuação final igual ou superior a 50 pontos.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
-
-### CAPÍTULO V — Desenvolvimento da Qualidade e Inovação
 
 ###### Artigo 32.º — Natureza e montante do incentivo
 
@@ -633,31 +539,19 @@ b) Nos projectos a que se referem as alíneas a), c), g), h), i), j), l), m) e n
 
 6 - O valor máximo do apoio a conceder é de (euro) 4 000 000, sob a forma de subsídio não reembolsável, e (euro) 4 000 000, sob a forma de subsídio reembolsável, por projecto, à excepção dos projectos classificados como PIR, cujo limite por cada componente de incentivo não pode ultrapassar (euro) 5 000 000.
 
-7 - (Revogado.)
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
-
 ###### Artigo 33.º — Entidades gestoras
 
 As entidades responsáveis pela gestão do Desenvolvimento Estratégico são a direcção regional com competência em matéria de apoio ao investimento e a comissão de selecção.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
+### CAPÍTULO V — Desenvolvimento da Qualidade e Inovação
 
 ###### Artigo 34.º — Âmbito
 
-1 - São susceptíveis de apoio, no âmbito do Desenvolvimento da Qualidade e Inovação, projectos vocacionados para estimular a qualidade e inovação nas empresas, com investimento igual ou superior a (euro) 15 000 e igual ou inferior a (euro) 500 000.
-
-2 - (Revogado.)
-
-3 - (Revogado.)
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
+São susceptíveis de apoio, no âmbito do Desenvolvimento da Qualidade e Inovação, projectos vocacionados para estimular a qualidade e inovação nas empresas, com investimento igual ou superior a (euro) 15 000 e igual ou inferior a (euro) 500 000.
 
 ###### Artigo 35.º — Promotores
 
 Podem beneficiar dos incentivos previstos no Desenvolvimento da Qualidade e Inovação empresários em nome individual, estabelecimentos individuais de responsabilidade limitada, sociedades comerciais, cooperativas e agrupamentos complementares de empresas.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 2/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2009-604643), publicado em 2009-03-02.
 
 ###### Artigo 36.º — Critérios de selecção
 
@@ -669,7 +563,7 @@ b) Rentabilidade económica da empresa;
 
 c) Contributo do projecto para a qualificação da gestão da empresa, dos seus recursos humanos e dos seus processos e produtos;
 
-d) Contributo do projecto para a inovação e qualificação da oferta.
+d) Contributo do projecto para a inovação e qualificação da oferta;
 
 e) Contributo do projecto para a sustentabilidade económica, ambiental e social.
 
@@ -677,49 +571,35 @@ e) Contributo do projecto para a sustentabilidade económica, ambiental e social
 
 3 - Os projectos são considerados elegíveis se obtiverem uma pontuação final igual ou superior a 50 pontos.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
-
-### CAPÍTULO VI — Disposições finais e transitórias
-
 ###### Artigo 37.º — Natureza e montante do incentivo
 
 1 - O incentivo a conceder às despesas elegíveis reveste a forma de subsídio não reembolsável, com uma taxa base de 55 % para as ilhas de São Miguel e Terceira, 60 % para as ilhas de Faial e Pico e 65 % para as restantes ilhas.
 
-2 - Às taxas de incentivo mencionadas no número anterior podem ser acrescidas majorações, a definir na regulamentação deste subsistema, relativas à implementação de parcerias entre empresas ou entre empresas e instituições de I&D, projectos piloto demonstradores de soluções tecnologicamente inovadoras, criação de emprego com habilitação adequada, dimensão da empresa e investigação industrial.
-
-3 - (Revogado.)
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
+2 - Às taxas de incentivo mencionadas no número anterior podem ser acrescidas majorações, a definir na regulamentação deste subsistema, relativas à implementação de parcerias entre empresas ou entre empresas e instituições de I&D, projectos piloto demonstradores de soluções tecnologicamente inovadoras e criação de emprego com habilitação adequada, dimensão da empresa e investigação industrial.
 
 ###### Artigo 38.º — Entidades gestoras
 
 As entidades responsáveis pela gestão do Desenvolvimento da Qualidade e Inovação são a direcção regional com competência em matéria de apoio ao investimento e a comissão de selecção.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), publicado em 2011-11-04.
+### CAPÍTULO VI — Disposições finais e transitórias
 
 ###### Artigo 39.º — Proibição de acumulação de incentivos
 
 Os incentivos previstos no presente diploma não são cumuláveis com quaisquer outros da mesma natureza.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 2/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2009-604643), publicado em 2009-03-02.
-
 ###### Artigo 40.º — Disposições transitórias
 
 1 - O Decreto Legislativo Regional n.º 26/2000/A, de 10 de Agosto, alterado e republicado pelo Decreto Legislativo Regional n.º 13/2005/A, de 1 de Julho, bem como a respectiva regulamentação, continua a aplicar-se aos projectos de investimento aprovados no âmbito do sistema de incentivos por ele criado para efeitos de pagamento do incentivo.
 
-2 - Fica suspensa, durante o ano de 2016, a obrigação de reembolso de incentivo prevista na alínea l) do artigo 19.º do [Decreto Regulamentar Regional n.º 4/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2001-321891), de 6 de junho, alterado pelos [Decretos Regulamentares Regionais n.os 27/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-2002-634147), de 16 de setembro, [22/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2003-545184), de 27 de maio, [27/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-2004-527199), de 15 de julho e [25/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2005-489539), de 6 de dezembro, nos termos a definir em protocolo a celebrar para o efeito entre as instituições de crédito e o departamento do Governo Regional competente em matéria de política de incentivos.
+2 - Fica suspensa, durante o ano de 2016, a obrigação de reembolso de incentivo prevista na alínea l) do artigo 19.º do Decreto Regulamentar Regional n.º 4/2001/A, de 6 de junho, alterado pelos Decretos Regulamentares Regionais n.os 27/2002/A, de 16 de setembro, 22/2003/A, de 27 de maio, 27/2004/A, de 15 de julho e 25/2005/A, de 6 de dezembro, nos termos a definir em protocolo a celebrar para o efeito entre as instituições de crédito e o departamento do Governo Regional competente em matéria de política de incentivos.
 
 3 - O prazo de suspensão previsto no número anterior acresce ao prazo global de financiamento previsto nos artigos ali mencionados, na proporção de doze meses, a contabilizar no último ano do prazo.
 
 4 - As despesas efectuadas posteriormente a 1 de Janeiro de 2007, no âmbito de projectos iniciados após aquela data e abrangidos pelo presente diploma, podem ser comparticipadas desde que as respectivas candidaturas sejam apresentadas no prazo de 90 dias úteis contados da data de entrada em vigor da respectiva regulamentação específica.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 1/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), publicado em 2016-01-08.
-
 ###### Artigo 41.º — Regulamentação
 
 Os regulamentos dos diversos subsistemas do SIDER são aprovados por decreto regulamentar regional, no prazo de 60 dias a partir da entrada em vigor do presente diploma.
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 2/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2009-604643), publicado em 2009-03-02.
 
 ###### Artigo 42.º — Norma revogatória
 
@@ -751,23 +631,15 @@ m) Decreto Regulamentar Regional n.º 25/2005/A, de 6 de Dezembro;
 
 n) Decreto Regulamentar Regional n.º 6/2006/A, de 16 de Janeiro.
 
-> Aditado pelo/a [Decreto Legislativo Regional n.º 2/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2009-604643), publicado em 2009-03-02.
-
 ###### Artigo 43.º — Entrada em vigor
 
 O presente diploma entra em vigor no 1.º dia útil seguinte ao da sua publicação.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559) e [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588) e [Decreto Legislativo Regional n.º 1/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2015-66041469) e [Decreto Legislativo Regional n.º 1/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), publicado em 2016-01-08.
+
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 13 de Junho de 2007.
 
 O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
-
-Assinado em Angra do Heroísmo em 5 de Julho de 2007.
-
-Publique-se.
-
-O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
-
-> Aditado pelo/a [Decreto Legislativo Regional n.º 2/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2009-604643), publicado em 2009-03-02.
 
 Assinado em Angra do Heroísmo em 5 de Julho de 2007.
 

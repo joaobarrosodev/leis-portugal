@@ -1,0 +1,39 @@
+{
+ "id": "pt:dre:636761:por",
+ "passagens": [
+  {
+   "n": 1,
+   "alteradores": [
+    1,
+    2,
+    3
+   ],
+   "chars": 219851,
+   "texto_em_ficheiro": false
+  },
+  {
+   "n": 2,
+   "alteradores": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "chars": 184271,
+   "texto_em_ficheiro": false
+  },
+  {
+   "n": 3,
+   "alteradores": [
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "chars": 199935,
+   "texto_em_ficheiro": false
+  }
+ ],
+ "feito": true
+}

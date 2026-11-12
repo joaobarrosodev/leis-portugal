@@ -1,0 +1,32 @@
+{
+ "id": "pt:dre:636761:por",
+ "substituicoes": [
+  {
+   "de": 111,
+   "ate": 111,
+   "texto": "2 - Os promotores, após assinatura do contrato de concessão de incentivos, devem enviar, exclusivamente, pela Internet, em formulário eletrónico disponível no Portal do Governo, até 10 pedidos de pagamento, cujo valor mínimo terá de corresponder a 5 % do investimento elegível do projeto.",
+   "alterador": 4
+  },
+  {
+   "de": 113,
+   "ate": 113,
+   "texto": "4 - O valor do investimento correspondente ao último pedido de pagamento, que deve ser apresentado no prazo máximo de 90 dias úteis a partir da data de conclusão do projeto, não pode ser inferior a 10 % do investimento elegível do projeto.",
+   "alterador": 4
+  },
+  {
+   "de": 286,
+   "ate": 286,
+   "texto": "2 - Fica suspensa, durante o ano de 2015, a obrigação de reembolso de incentivo prevista na alínea l) do artigo 19.º do Decreto Regulamentar Regional n.º 4/2001/A, de 6 de junho, alterado pelos Decretos Regulamentares Regionais n.os27/2002/A, de 16 de setembro, 22/2003/A, de 27 de maio, 27/2004/A, de 15 de julho e 25/2005/A, de 6 de dezembro, nos termos a definir em protocolo a celebrar para o efeito entre as instituições de crédito e o departamento do Governo Regional competente em matéria de política de incentivos.\n\n3 - O prazo de suspensão previsto no número anterior acresce ao prazo global de financiamento previsto nos artigos ali mencionados, na proporção de doze meses, a contabilizar no último ano do prazo.\n\n4 - As despesas efectuadas posteriormente a 1 de Janeiro de 2007, no âmbito de projectos iniciados após aquela data e abrangidos pelo presente diploma, podem ser comparticipadas desde que as respectivas candidaturas sejam apresentadas no prazo de 90 dias úteis contados da data de entrada em vigor da respectiva regulamentação específica.",
+   "alterador": 7
+  }
+ ],
+ "insercoes": [],
+ "nao_aplicavel": null,
+ "instrucoes": [
+  "Alt. 4 (DLR 3/2012/A, art. 36.º): nova redação dos n.os 2 e 4 do artigo 15.º; substituídas as unidades 111 e 113.",
+  "Alt. 5 (DLR 2/2013/A, art. 38.º): artigo 40.º com novo n.º 2 (suspensão 2013) e n.º 3 = anterior n.º 2; substituído depois pelas alterações dos alteradores 6 e 7 na mesma unidade 286.",
+  "Alt. 6 (DLR 2/2014/A, art. 41.º): artigo 40.º com n.os 2 (suspensão 2014), 3 (prazo) e 4 = anterior n.º 2 (despesas); substituído pela redação do alterador 7.",
+  "Alt. 7 (DLR 1/2015/A, art. 38.º): artigo 40.º com n.º 2 (suspensão 2015), n.º 3 (prazo, doze meses) e n.º 4 = anterior n.º 2 (texto das despesas efectuadas após 1 de Janeiro de 2007); unidade 286 substituída por estes três números (redação final).",
+  "Artigos de suspensão de reembolso (art. 37.º de 2/2013/A, 39.º de 2/2014/A, 35.º de 1/2015/A) não alteram o texto do original: ignorados."
+ ]
+}

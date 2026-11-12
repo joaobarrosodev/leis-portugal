@@ -619,11 +619,15 @@ def passagem(ids: list[str], pasta: Path, max_chars: int) -> None:
 def juntar() -> None:
     selecao = {r["id"]: r for r in map(json.loads, (PASTA / "selecao-escala.jsonl").read_text(encoding="utf-8").splitlines())}
     linhas = []
-    excluidos = texto_mod.exclusoes()
+    excluidos, grandes = texto_mod.exclusoes(), texto_mod.gigantes()
     for f in sorted(COMPLETO.glob("pt_*.json")):
         resposta = json.loads(f.read_text(encoding="utf-8"))
         if resposta["id"] in excluidos:
             linhas.append({"id": resposta["id"], "title": selecao[resposta["id"]]["title"], "estado": "não junto", "motivo": excluidos[resposta["id"]]})
+        elif resposta["id"] in grandes:
+            # passou para `llm_gigantes.py`, que escreve o consolidado no mesmo ficheiro: juntar aqui
+            # escrevia por cima o texto do pedido completo
+            linhas.append({"id": resposta["id"], "title": selecao[resposta["id"]]["title"], "estado": "não junto", "motivo": "juntado por llm_gigantes.py (llm/juntados-corrido.jsonl)"})
         elif resposta["problemas"]:
             linhas.append({"id": resposta["id"], "title": selecao[resposta["id"]]["title"], "estado": "não junto", "motivo": "a resposta não passou a verificação letra a letra: " + "; ".join(resposta["problemas"])[:300]})
         elif not resposta["artigos"] and not resposta.get("removidos") and not resposta.get("titulos"):

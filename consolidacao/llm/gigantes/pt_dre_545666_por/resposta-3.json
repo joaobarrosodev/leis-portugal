@@ -1,0 +1,33 @@
+{"id": "pt:dre:545666:por",
+"substituicoes": [
+{"de": 55, "ate": 56, "texto": "1 - Os inventários não estão sujeitos a custas quando a herança seja deferida a incapazes, ausentes em parte incerta ou pessoas colectivas, desde que o seu valor não exceda 50000$00.\n\n2 - A meação e o quinhão do cônjuge ou de cada descendente gozam, nos inventários a que alude o número anterior, dos seguintes benefícios:", "alterador": 23},
+{"de": 60, "ate": 61, "texto": "3 - Na fixação do valor do processo e dos valores da meação e do quinhão dos descendentes nos casos de cumulação de inventários ter-se-á em conta, respectivamente, a soma de todos os bens relacionados e a soma de todos os bens atribuídos ao meeiro ou recebidos por cada descendente.", "alterador": 23},
+{"de": 130, "ate": 130, "texto": "Nos tribunais de comarca, as taxas de justiça devidas pelos processos cíveis, incluindo os inventários em que a herança não seja deferida a incapazes, ausentes em parte incerta ou pessoas colectivas, falências, insolvências, recursos de revisão e de oposição de terceiro, são as constantes da tabela anexa.", "alterador": 23},
+{"de": 148, "ate": 148, "texto": "h) Nos inventários que terminem depois de ordenadas as citações, mas não ultrapassem a fase da conferência de interessados;", "alterador": 23},
+{"de": 190, "ate": 191, "texto": "1 - É aplicável às interdições, inabilitações e inventários em que a herança seja deferida a incapazes, ausentes em parte incerta ou pessoas colectivas, o disposto nos artigos 17.º e 18.º\n\n2 - Aos inventários referidos no número anterior é também aplicável o disposto nos artigos 19.º e 28.º, considerando-se ainda incluídos na respectiva tributação os levantamentos das quantias de tornas cujo pagamento tenha sido reclamado pelo Ministério Público ou pelo representante do incapaz.", "alterador": 23},
+{"de": 388, "ate": 388, "texto": "2 - Quando o tribunal não arbitre, a procuradoria é igual a metade da taxa de justiça devida.", "alterador": 21},
+{"de": 426, "ate": 426, "texto": "2 - Não há lugar a preparos nos inventários em que a herança seja deferida a incapazes, ausentes em parte incerta ou pessoas colectivas, nas acções cíveis processadas conjuntamente com a acção penal e nos pedidos de apoio judiciário.", "alterador": 23},
+{"de": 434, "ate": 434, "texto": "5 - Nas falências, concordatas e inventários não há preparos para julgamento.", "alterador": 23},
+{"de": 441, "ate": 441, "texto": "4 - Nos inventários em que haja lugar a preparos, determinar-se-á a taxa de justiça com base no valor constante do requerimento inicial ou, havendo arrolamento, pela soma dos bens arrolados, se for superior.", "alterador": 23},
+{"de": 672, "ate": 673, "texto": "###### Artigo 158.º — (Revogado.)", "alterador": 23},
+{"de": 1082, "ate": 1082, "texto": "1 - Os chefes das repartições de finanças são obrigados a enviar, até ao dia 15 de cada mês, ao agente do Ministério Público da respectiva comarca, ou ao do 1.º juízo cível, quando haja mais de um, a relação dos processos de liquidação do imposto sobre sucessões e doações instaurados no mês anterior, com indicação do nome do autor da herança, data e local do óbito, idades e moradas das pessoas que lhe sucederam.\n\n2 - Quando a herança haja sido deferida a incapazes, ausentes em parte incerta ou pessoas colectivas, enviar-se-á também ao agente do Ministério Público cópia da relação de bens apresentada.\n\n3 - As relações referidas no n.º 1 podem ser substituídas por fotocópias do termo de declaração que os interessados são obrigados a prestar para efeitos de liquidação do imposto sobre as sucessões e doações, desde que o mesmo contenha os necessários elementos.", "alterador": 23}
+],
+"insercoes": [
+{"depois_de": 64, "texto": "3 - Está isento de custas o processo em que se requeira autorização judicial para aceitar herança deferida a incapaz, outorgar na respectiva partilha extrajudicial ou designar curador especial que nela o represente.", "alterador": 23},
+{"depois_de": 302, "texto": "f) O reembolso das despesas efectuadas pelo tribunal com a aquisição de fitas magnéticas necessárias à gravação das provas.", "alterador": 24}
+],
+"nao_aplicavel": "Alterador 22 (Portaria n.º 71/93): os novos valores dos emolumentos do artigo 195.º para exames forenses vêm numa tabela anexa só em imagem; não aplicado. Alterador 25 (Decreto-Lei n.º 224-A/96, art. 2.º): revoga o Código das Custas Judiciais aprovado pelo original, com excepção do artigo 221.º; como o original é o próprio Código (preâmbulo + Código), a revogação abrange praticamente todo o texto menos o artigo 221.º (unidades 906-907); não marquei cada um dos cerca de 268 artigos como revogado: a tratar como revogação global do diploma com ressalva do artigo 221.º.",
+"instrucoes": [
+"Alt. 21 (Lei 30-C/92, art. 38.º): nova redação do n.º 2 do art. 85.º (n.º 1 mantém-se) -> unidade 388 substituída.",
+"Alt. 22 (Portaria 71/93): atualiza emolumentos do art. 195.º por tabela anexa em imagem -> nao_aplicavel.",
+"Alt. 23 (DL 227/94, art. 4.º): art. 4.º novos n.os 1, 2 (alíneas mantidas) e 3 (o antigo n.º 3 desaparece e o antigo n.º 4 passa a n.º 3) -> 55-56 e 60-61 substituídas.",
+"Alt. 23: art. 5.º, aditado n.º 3 -> inserção depois de 64.",
+"Alt. 23: art. 16.º nova redação -> 130.",
+"Alt. 23: art. 18.º, n.º 1, alínea h) -> 148.",
+"Alt. 23: art. 33.º n.os 1 e 2 -> 190-191.",
+"Alt. 23: art. 96.º n.º 2 -> 426; art. 97.º n.º 5 -> 434; art. 98.º n.º 4 -> 441.",
+"Alt. 23: art. 267.º nova redação em 3 números -> 1082 substituída.",
+"Alt. 23 (art. 8.º): revoga o art. 158.º -> 672-673 passam a 'Artigo 158.º — (Revogado.)'.",
+"Alt. 24 (DL 39/95, art. 10.º): art. 65.º, aditada alínea f) -> inserção depois de 302.",
+"Alt. 25 (DL 224-A/96, art. 2.º): revoga o Código das Custas Judiciais salvo o art. 221.º -> nao_aplicavel (revogação quase total, ver acima)."
+]}

@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.363 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.365 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -72,6 +72,16 @@ Foram 160 diplomas em 45 pedidos, respondidos por subagentes Opus. A verificaç�
 Conclusão: com os reparos, o rendimento sobe de 6 em 100 (ronda 81) para 32 em 160. Os outros 96 juntados reproduziram o texto que já tinha falhado.
 
 **Ronda 83: os pedidos grandes demais.** Na ronda 82 ficaram de fora 9 pedidos acima de 450 mil caracteres, com 27 diplomas (3 por pedido). `reparos.py --ids FICHEIRO --por-ficheiro 1` repediu-os um por pedido. Ficaram dentro do limite 24; os 3 que ainda passam (até 965 mil caracteres) ficam para `llm_gigantes.py`. A verificação letra a letra aceitou as 24 respostas, mas só 5 deram um texto diferente: em vários diplomas o respondedor confirmou no alterador que o reparo do verificador não procedia e manteve o texto. Três concessões de autoestrada só têm, no texto atual, os títulos dos capítulos e não as bases, e as alterações às bases ficaram por aplicar. Às cegas (`verificacao/entrada-piloto-83-lote-01.jsonl`, 5 vistas), 2 ficaram sem reparos e foram aplicados: o DL 47627 e a Resolução da ALRAM 5/2012/M. Os 3 com reparos são o Regulamento 52-A/2005 (texto mudado onde a instrução diz "..."), o DL 315/91 (bases inseridas fora do sítio) e o DL 621-A/74 (artigo 39.º).
+
+**Ronda 84: os 3 que nem sozinhos cabem.** Foram pelo `llm_gigantes.py`, por passagens, como os 18 grandes da ronda 70. Juntaram-se ao `llm/gigantes-ids.txt`.
+
+- **Lei 30-G/2000:** 51 alteradores em 6 passagens. Só 3 dos alteradores mudam o texto da lei; os outros alteram os códigos fiscais que ela também alterou. Ficaram 6 trechos, todos `certo` às cegas, e foi aplicada.
+- **DLR 19/2007/A:** 12 alteradores em 3 passagens. A passagem 1 copia a republicação do DLR 26/2011/A. Às cegas teve 54 trechos, todos `certo`, e também foi aplicado.
+- **DL 44329 (Código das Custas Judiciais):** respondido em 3 passagens, mas não se aplica. O DL 224-A/96 revoga-o todo, menos o artigo 221.º. Ficou em `llm/exclusoes.json`.
+
+**Um erro apanhado e corrigido.** O `llm_completo.py juntar` e o `llm_gigantes.py juntar` escrevem o consolidado no mesmo ficheiro de `piloto/`. Correr o primeiro depois do segundo repunha o texto do pedido completo. A primeira verificação às cegas da última passagem viu esse texto e deu 48 trechos `errado` (apagamentos e mudanças sem instrução).
+
+O `juntar` do pedido completo passa agora a deixar como "não junto" os diplomas do `llm/gigantes-ids.txt`. Só três diplomas tinham resposta nos dois pedidos, estes três, por isso o erro não tocou em mais nenhum. As duas vistas refizeram-se e voltaram a ser verificadas, e as duas deram tudo `certo`.
 
 ## Resultado em resumo
 

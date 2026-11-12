@@ -1,0 +1,1176 @@
+{
+  "id": "pt:dre:545666:por",
+  "substituicoes": [
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "2 - As custas compreendem a taxa de justiça e os encargos.\n\n3 - (Revogado.)\n\n4 - (Revogado.)",
+      "alterador": [
+        20
+      ]
+    },
+    {
+      "de": 38,
+      "ate": 42,
+      "texto": "As custas dos processos cujos termos só em parte corram nos tribunais comuns são, nessa parte, contadas segundo as regras deste diploma, ainda que, no restante, estejam subordinadas a lei especial.\n\n###### Artigo 3.º — (Isenções de natureza especial)\n\n1 - São unicamente isentos de custas:\n\na) O Estado, as regiões autónomas, o território de Macau, as autarquias locais e as associações e federações de municípios;",
+      "alterador": [
+        13
+      ]
+    },
+    {
+      "de": 46,
+      "ate": 46,
+      "texto": "e) As instituições de segurança social reconhecidas por lei e os seus centros regionais, as instituições de previdência e as suas uniões, federações ou institutos e as caixas de abono de família;\n\nf) Os sinistrados em acidente de trabalho e os portadores de doença profissional, nas causas emergentes do acidente ou da doença;\n\ng) Os familiares dos trabalhadores por conta de outrém referidos na alínea anterior a que a lei confira direito a pensão, nos casos em que do acidente ou da doença tenha resultado a morte do trabalhador e se proponham fazer valer ou manter os direitos emergentes daqueles acidente ou doença;\n\nh) Quaisquer outras entidades a quem a lei especialmente vier a conceder o benefício da isenção.",
+      "alterador": [
+        13
+      ]
+    },
+    {
+      "de": 48,
+      "ate": 49,
+      "texto": "3 - Os representantes das autarquias locais, das associações ou federações de municípios e das pessoas colectivas de utilidade pública administrativa são pessoalmente, e entre si, solidariamente responsáveis pelo pagamento de custas quando, vencido o representado, se mostre que actuaram no processo por interesses ou motivos estranhos às suas funções; esta questão será apreciada e julgada a final oficiosamente.\n\n4. A isenção a favor dos incapazes não abrange os inventários, as interdições, as inabilitações, nem os incidentes ou os recursos que haja nesses processos.",
+      "alterador": [
+        1,
+        13
+      ]
+    },
+    {
+      "de": 51,
+      "ate": 62,
+      "texto": "1 - Os inventários não estão sujeitos a custas quando a herança seja deferida a incapazes, ausentes em parte incerta ou pessoas colectivas, desde que o seu valor não exceda 50000$00.\n\n2 - A meação e o quinhão do cônjuge ou de cada descendente gozam, nos inventários a que alude o número anterior, dos seguintes benefícios:\n\na) Não ficam sujeitos a encargos se, no conjunto, não ultrapassarem 100000$00;\n\nb) Não pagam imposto de justiça nem selos se, tomados singularmente, não excederem 125000$00;\n\nc) Não pagam selos e o imposto de justiça é reduzido de 60% se, nos mesmos termos, excederem 125000$00, mas não forem superiores a 300000$00.\n\n3 - Na fixação do valor do processo e dos valores da meação e do quinhão dos descendentes nos casos de cumulação de inventários ter-se-á em conta, respectivamente, a soma de todos os bens relacionados e a soma de todos os bens atribuídos ao meeiro ou recebidos por cada descendente.\n\n###### Artigo 5.º — (Isenções processuais. Interdições, inabilitações e outros processos com custas a cargo de incapazes)\n\n1 - Nos processos de interdição ou de inabilitação a cargo dos incapazes não há lugar a custas, se o valor do património do incapaz não for superior a 50000$00; liquidar-se-ão apenas os encargos, se esse valor for superior a 50000$00 mas não exceder 100000$00; contar-se-ão os encargos e o imposto de justiça sofrerá uma redução de 60%, se o valor do património se situar entre 100000$00 e 300000$00.\n\n2 - Nos processos de autorização para a prática de actos pelo representante do incapaz ou para confirmação dos actos que este tenha praticado sem a necessária autorização, bem como nos incidentes e actos a cargo de incapazes relativos à regência da sua pessoa ou administração de seus bens, não há lugar a custas, se o valor do património não exceder 50000$00.\n\n3 - Está isento de custas o processo em que se requeira autorização judicial para aceitar herança deferida a incapaz, outorgar na respectiva partilha extrajudicial ou designar curador especial que nela o represente.\n\n###### Artigo 6.º — Algumas isenções processuais\n\n1 - Nos processos de liquidação e partilha de bens das instituições de segurança social e dos organismos sindicais não são devidas custas, mas a remuneração dos liquidatários ou peritos e os reembolsos devidos ao Cofre Geral dos Tribunais sairão precípuos do produto dos bens liquidados.\n\n2 - Nos processos de expropriação por utilidade pública não são devidas custas na fase arbitral, nem pelo incidente de levantamento das quantias depositadas a título de indemnização, mas, naquela fase e ainda quando o expropriado vencido no recurso seja pessoa ou entidade isenta de custas, o expropriante suportará, mesmo que se trate de entidade também isenta, os encargos com o pagamento de salários aos árbitros e aos peritos, com os respectivos transportes e com a deslocação do tribunal.\n\n3 - O disposto no número anterior é aplicável aos processos para apuramento da mais-valia, mas os encargos que devam ser suportados pelo Estado e pelas câmaras municipais são repartidos entre si, em proporção do seu interesse na causa.\n\n4 - São isentos de custas os recursos com subida diferida que não cheguem a subir ou que, tendo subido com o recurso principal, fiquem desertos.",
+      "alterador": [
+        1,
+        13,
+        20,
+        23
+      ]
+    },
+    {
+      "de": 68,
+      "ate": 72,
+      "texto": "1 - Os valores atendíveis para efeito de custas são, com ressalva do disposto no artigo 11.º, os que resultam da aplicação das leis de processo para o processado a contar se não forem diferentes dos referidos nas alíneas seguintes:\n\na) Nas acções de dissolução de sociedade - o do capital social ou o do interesse patrimonial prosseguido, se for de menor montante; e nas de oposição a deliberações sociais, suspensão, declaração de invalidade ou de ineficácia destas ou das respectivas assembleias gerais - o do interesse patrimonial prosseguido, que não pode, em caso algum, ser inferior a 40 UCCs;\n\nb) Nos processos sobre o estado das pessoas, incluindo as acções de divórcio ou de separação por mútuo consentimento, nos processos sobre interesses imateriais e nos recursos sobre registo de propriedade industrial, literária, científica ou artística - o fixado pelo juiz, tendo em atenção a repercussão económica da acção para o responsável pelas custas ou, subsidiariamente, a situação económica deste, não podendo, porém, em caso algum, ser inferior a 40 UCCs;\n\nc) Nos processos cuja decisão envolva uma obrigação periódica, a não ser que se trate da acção de alimentos ou de contribuição para as despesas domésticas - o da importância relativa a um ano multiplicada por vinte, ou pelo número de anos que a decisão abranger, se for inferior; mas, se a decisão não tiver eficácia senão quanto à contribuição, taxa ou quantia que se discute - o da verba respectiva, não podendo o valor da causa, em nenhum dos casos, ser inferior à alçada do tribunal de comarca;",
+      "alterador": [
+        1,
+        5,
+        11,
+        13,
+        18,
+        19
+      ]
+    },
+    {
+      "de": 74,
+      "ate": 74,
+      "texto": "e) Nas acções de despejo com fundamento no n.º 1 do artigo 1096.º do Código Civil - o das rendas de dois anos e meio;",
+      "alterador": [
+        1
+      ]
+    },
+    {
+      "de": 79,
+      "ate": 79,
+      "texto": "j) Nas acções de demarcação - o da parte do prédio sobre que recai a divergência, ou o fixado pelo juiz, se não for determinável essa parte;",
+      "alterador": [
+        1
+      ]
+    },
+    {
+      "de": 82,
+      "ate": 82,
+      "texto": "n) Nas concordatas, acordos de credores e processos de recuperação das empresas - o do activo constante do balanço, quando o haja, ou o da valorização feita do activo, no caso contrário;",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 86,
+      "ate": 92,
+      "texto": "r) Nos incidentes do inventário posteriores à partilha - o dos quinhões das pessoas neles interessadas, a não ser que por sua natureza tenham valor diferente e que dos autos constem os elementos necessários para o determinar;\n\ns) Nos recursos em expropriações - o da diferença entre a indemnização fixada na arbitragem e a importância indicada pelo recorrente. No caso de haver mais de um recorrente atender-se-á à maior das diferenças;\n\nt) Nos depósitos e levantamentos, ainda que requeridos conjuntamente por duas ou mais pessoas - a soma dos valores a depositar ou a receber;\n\nu) Nas reclamações de contas - o das custas contadas na conta reclamada;\n\nv) Nos processos de assistência judiciária - o da acção a que respeitam.\n\nx) Nas acções ou incidentes destinados a efectivar ou a declarar extintos os direitos dos ofendidos por acidente de trabalho ou por doença profissional - o do montante das reservas matemáticas estabelecidas para garantia das respectivas pensões; é, porém, de 5 vezes o do valor anual da indemnização se a incapacidade invocada for temporária e será igual ao montante de todas as prestações se se tratar de pensões temporárias ou de indemnizações vencidas;\n\nz) Nas acções ou incidentes destinados a efectivar ou a declarar extintos os direitos dos familiares da vítima do acidente de trabalho ou de doença profissional com direito a pensão - o do montante apurado segundo as regras da alínea anterior;\n\naa) Nas acções ou incidentes destinados a efectivar ou a declarar extintos direitos de terceiros conexos com acidente de trabalho ou com doença profissional - o do valor do pedido;\n\nbb) Nas acções para revisão da incapacidade ou da pensão - o do montante, para mais ou para menos, que for pretendido, elevado ao quíntuplo da anuidade;\n\ncc) Nos incidentes de remição - o do capital remido;\n\ndd) Nos processos do contencioso das instituições de segurança social, abono de família ou organismos sindicais, para convocação da assembleia geral ou de órgão equivalente de instituição de segurança social ou de organismo sindical, para declaração de invalidade de deliberação de assembleia geral das mesmas entidades e nas reclamações de decisões disciplinares - o da alçada do tribunal do trabalho e mais 1$00;\n\n2. Nas acções de interdição ou de inabilitação não são levados em conta para a determinação do valor do património do incapaz, nos termos da alínea b) do número anterior, os bens que ele tenha recebido anteriormente em inventário motivado apenas pelo seu estado de incapacidade.\n\n3 - Para efeito de tributação dos recursos, o valor da causa mede-se pelo valor da sucumbência, nos termos prescritos no n.º 1 do artigo 678.º do Código de Processo Civil, devendo o recorrente indicar esse valor no próprio requerimento de interposição do recurso, sob pena de se atender aos valores constantes dos números anteriores.",
+      "alterador": [
+        1,
+        13,
+        18
+      ]
+    },
+    {
+      "de": 97,
+      "ate": 97,
+      "texto": "3 - No concurso de credores, se os bens não tiverem sido ainda liquidados, o valor a que se refere o número anterior será o dos bens penhorados, se for inferior ao dos créditos deduzidos.\n\n4 - O disposto no número anterior é igualmente aplicável quando o processo for remetido à conta nos termos do n.º 2 do artigo 122.º",
+      "alterador": [
+        20
+      ]
+    },
+    {
+      "de": 103,
+      "ate": 104,
+      "texto": "2 - Nos processos a que se refere a alínea b) do n.º 1 do artigo 8.º, qualquer que seja o valor declarado pelas partes para efeitos processuais, atender-se-á ao valor tributário de 40 UCCs, salvo se outro quantitativo vier a ser fixado pelo juiz.\n\n3 - As custas são calculadas pelo valor do pedido inicial, ainda que este venha a ser reduzido por iniciativa do autor ou pelo prudente arbítrio do tribunal.\n\n4 - A redução do valor dos bens, por deliberação dos interessados em inventário, nos termos do artigo 1362.º do Código de Processo Civil, é irrelevante para efeitos de contagem das custas.",
+      "alterador": [
+        19
+      ]
+    },
+    {
+      "de": 110,
+      "ate": 116,
+      "texto": "###### Artigo 13.º — (Revogado.)\n\n###### Artigo 14.º — (Revogado.)\n\n###### Artigo 15.º — (Revogado.)",
+      "alterador": [
+        18,
+        20
+      ]
+    },
+    {
+      "de": 119,
+      "ate": 152,
+      "texto": "###### Artigo 16.º — Taxa de justiça devida nos tribunais de comarca\n\nNos tribunais de comarca, as taxas de justiça devidas pelos processos cíveis, incluindo os inventários em que a herança não seja deferida a incapazes, ausentes em parte incerta ou pessoas colectivas, falências, insolvências, recursos de revisão e de oposição de terceiro, são as constantes da tabela anexa.\n\n###### Artigo 17.º — Redução a um quarto das taxas de justiça\n\nAs taxas de justiça são reduzidas a um quarto nos seguintes casos:\n\na) Nas acções que terminarem antes de oferecida a oposição e nas que, devido à falta ou ineficácia dela, for logo proferida sentença, mesmo que precedida de alegações dos mandatários judiciais;\n\nb) Nas acções que não admitam citação do réu e que terminem antes de proferido despacho algum da tramitação específica da respectiva forma de processo ou por virtude dele;\n\nc) Nos inventários que cessem antes de ordenadas as citações;\n\nd) Nos processos para declaração de falência ou insolvência que findem antes de iniciada a audiência de discussão e julgamento.\n\ne) Nas execuções que terminem antes do despacho que ordene a citação ou a penhora;\n\nf) Nos processos simplificados em que tenha sido observado o disposto no artigo 464.º-A do Código de Processo Civil.\n\n###### Artigo 18.º — Redução a metade das taxas de justiça\n\n1 - As taxas de justiça são reduzidas a metade nos seguintes casos:\n\na) Nas acções que terminem antes de efectuados, no prazo estabelecido no artigo 107.º, os preparos para julgamento por qualquer das partes;\n\nb) Nas acções que, não sendo exigíveis preparos para julgamento, terminem antes de ordenadas diligências de prova ou, se não houver lugar a elas, antes de preferida decisão final;\n\nc) Nas acções contestadas apenas pelo Ministério Público nos termos do artigo 15.º do Código de Processo Civil e que sejam julgadas procedentes, quando a audiência de discussão e o julgamento tenham sido determinados somente pela oposição deduzida;\n\nd) Nas acções que não tiverem ou não admitirem oposição nem audiência de discussão e julgamento;\n\ne) Nas acções cíveis processadas juntamente com a acção penal;\n\nf) Nas expropriações, em recurso da decisão arbitral;\n\ng) Nas execuções que findem antes de ordenadas as citações a que alude o artigo 864.º do Código de Processo Civil;\n\nh) Nos inventários que terminem depois de ordenadas as citações, mas não ultrapassem a fase da conferência de interessados;\n\ni) Nos processos para a declaração de falência ou insolvência em que uma ou outra não sejam decretadas.\n\n2 - Havendo reconvenção e prosseguindo o processo, a partir de certa fase, só pelo pedido do autor ou só pelo pedido do réu, aplicar-se-á o grau de redução adequado ao processado a contar até essa fase.\n\n3 - Na situação prevista na alínea a) do n.º 1, quando a acção for logo julgada devido à falta de contestação do réu, a taxa de justiça será reduzida a um quarto.",
+      "alterador": [
+        13,
+        18,
+        20,
+        23
+      ]
+    },
+    {
+      "de": 154,
+      "ate": 157,
+      "texto": "Nos inventários que tenham por fim a descrição e avaliação dos bens e naqueles em que não haja lugar a operações de partilha a taxa devida é reduzida a metade.\n\n###### Artigo 20.º — Meios preventivos da falência e processos de recuperação da empresa\n\n1 - Nos meios preventivos da falência e nos processos de recuperação da empresa a que se não siga a declaração de falência, a taxa de justiça é igual a um quarto da fixada na tabela anexa, mas, se o processo terminar antes de concluída a assembleia de credores, a taxa é de um oitavo, podendo o juiz, contudo, em qualquer dos casos, baixar a taxa de justiça até 5 UCs quando repute manifestamente excessiva a aplicável.\n\n2 - Quando se siga a declaração da falência, aplica-se a todo o processo a taxa de justiça estabelecida na tabela anexa.\n\n3 - Para efeitos de tributação, os processos de recuperação da empresa abrangem as justificações e reclamações de créditos e as propostas de meios de recuperação alternativos, apresentadas por credores ou pela empresa no desenvolvimento normal da lide.",
+      "alterador": [
+        18,
+        20
+      ]
+    },
+    {
+      "de": 160,
+      "ate": 160,
+      "texto": "2 - Se a concordata suspensiva não for recebida ou por qualquer motivo não chegar a ser homologada, a taxa de justiça da falência ou da insolvência é acrescida de um quarto.",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 163,
+      "ate": 166,
+      "texto": "1 - Nas execuções por custas e nas que se fundam em sentenças de condenação a taxa de justiça é igual a metade da fixada na tabela anexa e nas execuções baseadas em outros títulos é igual à da tabela.\n\n2 - Nos embargos ou outro meio legal de oposição à execução, a taxa de justiça é igual a metade da fixada na tabela, com redução para um quarto quando não for objecto de impugnação.",
+      "alterador": [
+        7,
+        13,
+        20
+      ]
+    },
+    {
+      "de": 168,
+      "ate": 175,
+      "texto": "Nos concursos de credores, a taxa de justiça é igual a um quarto da fixada na tabela, com redução para um oitavo se o processo terminar até ao termo do prazo para a resposta a que alude o artigo 867.º do Código de Processo Civil ou não houver impugnações.\n\n###### Artigo 24.º — Processos de foro laboral\n\nNos processos de foro laboral, a taxa de justiça é igual a metade da fixada na tabela anexa.\n\n###### Artigo 25.º — (Depósitos e levantamentos)\n\n1 - Nos depósitos e levantamentos de valor superior a uma UCC efectuados em processos de qualquer natureza a taxa de justiça é igual a um quarto da fixada na tabela anexa, sem prejuízo do disposto no artigo 33.º\n\n2 - Não é devida taxa nos depósitos e levantamentos de valor igual ou inferior ao mencionado no número anterior, nos levantamentos das cauções criminais, nem nos depósitos e levantamentos efectuados pelas partes e que constituam um acto normal da tramitação específica da respectiva forma de processo.\n\n###### Artigo 26.º — Processos relativos à jurisdição de menores\n\n1 - Nos processos, incidentes ou actos relativos à jurisdição de menores, a taxa de justiça é igual a um quarto da fixada na tabela, com redução para um oitavo quando ao processo, incidente ou acto não for deduzida oposição, podendo, porém, o juiz baixar excepcionalmente a taxa até metade de 1 UC, quando tal tal se justifique.\n\n2. A actividade processual destinada a providenciar sobre a representação do menor ou administração dos seus bens, a fiscalizar os actos dos seus representantes ou administradores, a assegurar a adopção ou o registo de filiação, ou a fins de análoga natureza, cujas custas devessem ficar a cargo do menor, só será tributada quando, não concorrendo nenhum motivo de isenção, o tribunal assim o determine, tendo em conta o benefício patrimonial alcançado pelo menor.",
+      "alterador": [
+        1,
+        12,
+        13,
+        18,
+        20
+      ]
+    },
+    {
+      "de": 187,
+      "ate": 213,
+      "texto": "###### Artigo 32.º — Taxa de justiça nos processos de incapazes\n\n1 - Nos processos de incapazes a taxa de justiça é igual a metade da fixada na tabela anexa.\n\n2. Consideram-se processos orfanológicos os inventários em que sejam interessados, sujeitos a custas, quaisquer menores ou pessoas equiparadas, bem como as interdições e as inabilitações, quando as custas devam ficar a cargo de incapazes.\n\n###### Artigo 33.º — (Redução do imposto de justiça nas interdições, inabilitações e inventários)\n\n1 - É aplicável às interdições, inabilitações e inventários em que a herança seja deferida a incapazes, ausentes em parte incerta ou pessoas colectivas, o disposto nos artigos 17.º e 18.º\n\n2 - Aos inventários referidos no número anterior é também aplicável o disposto nos artigos 19.º e 28.º, considerando-se ainda incluídos na respectiva tributação os levantamentos das quantias de tornas cujo pagamento tenha sido reclamado pelo Ministério Público ou pelo representante do incapaz.\n\n###### Artigo 34.º — (Revogado.)",
+      "alterador": [
+        1,
+        18,
+        23
+      ]
+    },
+    {
+      "de": 215,
+      "ate": 247,
+      "texto": "###### Artigo 35.º — Taxa de justiça devida nos recursos\n\n1 - As taxas de justiça a aplicar nas apelações, revistas e agravos de decisões proferidas em quaisquer acções e seus incidentes são iguais a metade das que constam da tabela anexa.\n\n2 - Em cada agravo de decisão interlocutória que suba juntamente com outro recurso, a taxa de justiça é igual a um oitavo da fixada na tabela anexa.\n\n###### Artigo 36.º — Taxa de justiça devida na reclamação contra o indeferimento ou retenção do recurso\n\nNa reclamação do despacho que rejeitar ou retiver o recurso, a taxa de justiça é igual a um quarto da taxa fixada na tabela anexa, com redução para um oitavo quando a parte contrária não responder à reclamação.\n\n###### Artigo 37.º — Taxa de justiça devida no recurso para o tribunal pleno\n\n1 - Nos recursos para o tribunal pleno, salvo no caso do artigo 770.º do Código de Processo Civil, a taxa de justiça é igual à que consta da tabela anexa.\n\n2 - A taxa é reduzida a metade se o recurso não for admitido ou se terminar antes da decisão a que se refere o artigo 766.º do Código de Processo Civil ou por virtude dela.\n\n###### Artigo 38.º — Taxa de justiça no recurso que sobe com outro de natureza penal\n\nNos recursos que subam juntamente com recurso de natureza penal a taxa de justiça é igual a um quarto da fixada na tabela anexa.\n\n###### Artigo 39.º — Taxa de justiça nas causas intentadas perante as Relações ou o Supremo\n\nNas causas directamente intentadas perante as Relações ou o Supremo e nos recursos de revisão e oposição de terceiro a esses tribunais dirigidos o imposto é igual ao estabelecido no artigo 16.º\n\n###### Artigo 40.º — Redução da taxa de justiça conforme a fase do recurso\n\n1 - Se o recurso for julgado deserto, quer no tribunal superior, quer não, ou se terminar antes de o processo entrar na fase de julgamento, a taxa de justiça é reduzida a metade.\n\n2 - A mesma redução se fará nos recursos de revisão e de oposição de terceiro, se terminarem antes de findar o prazo para a resposta da parte contrária.\n\n3 - Entende-se que o processo entrou na fase de julgamento logo que seja proferido despacho o mandando dar vista aos juízes para o conhecimento do objecto do recurso.\n\n###### Artigo 41.º — Taxa de justiça nos recursos em que se tenha aplicado o artigo 464.º-A do Código de Processo Civil\n\nSempre que na 1.ª instância se tenha usado da faculdade conferida pelo artigo 464.º-A do Código de Processo Civil, as taxas de justiça previstas na presente secção são reduzidas a metade.",
+      "alterador": [
+        18,
+        20
+      ]
+    },
+    {
+      "de": 250,
+      "ate": 254,
+      "texto": "1 - Nos embargos de terceiro, na oposição ao inventário, nos embargos apostos aos procedimentos cautelares e às concordatas, na anulação de concordatas, na falsidade, na habilitação, na liquidação, tanto durante a acção como posteriormente, nos processos de contribuição para as despesas domésticas, nas cauções, incluindo a transferência de responsabilidade, depois de esta definida, para a entidade seguradora, nos incidentes que foram processados por apenso, nos processos de conversão da separação judicial de pessoas e bens em divórcio e nos pedidos de apoio judiciário, a taxa de justiça é igual a um quarto da taxa fixada na tabela, com redução para um oitavo quando não for deduzida oposição ou esta não for admissível.\n\n2 - Nos casos previstos no número anterior pode ainda o juiz, quando tal se justifique, baixar excepcionalmente a taxa até metade da UC.\n\n###### Artigo 43.º — (Incidentes e actos)\n\n1 - Os incidentes da nulidade, esclarecimento e reforma das decisões e os demais incidentes e actos não abrangidos no artigo anterior que, devendo ser tributados, não estejam especialmente previstos neste Código, estão igualmente sujeitos à taxa de justiça estabelecida no artigo anterior.",
+      "alterador": [
+        1,
+        13,
+        19,
+        20
+      ]
+    },
+    {
+      "de": 258,
+      "ate": 261,
+      "texto": "c) Os acordos e conciliações homologados, na fase conciliatória do processo, quando tenha sido estabelecido direito a pensões, indemnizações ou demais quantias que acessoriamente lhes acresçam, quando, noutros casos, seja posto termo ao processo e ainda se o processo terminar por sentença condenatória que se siga imediatamente à tentativa de conciliação;\n\nd) As revisões de incapacidade;\n\ne) As remissões de pensões;\n\nf) As reclamações de decisões disciplinares por associado de instituição de segurança social ou de organização sindical, nas convocações de assembleias gerais ou seus órgãos equivalentes daquela instituição ou organização e ainda nas impugnações das respectivas deliberações;\n\ng) As que o tribunal julgue dever tributar, devido aos princípios que regem a condenação em custas.\n\n###### Artigo 44.º — Incidentes nos processos de incapazes\n\nA autorização e a confirmação dos actos de incapazes, a autorização para alienar ou onerar bens do ausente, a divisão de coisa comum e as contas de cabeça-de-casal e semelhantes, processadas por dependência do processo de incapazes, consideram-se incidentes para efeitos do disposto no artigo 42.º",
+      "alterador": [
+        1,
+        13,
+        18,
+        20
+      ]
+    },
+    {
+      "de": 263,
+      "ate": 268,
+      "texto": "A incompetência relativa dá lugar ao pagamento da taxa de justiça igual a um quarto da fixada na tabela anexa, com redução para um oitavo quando não tiver havido oposição ou for decretada oficiosamente.\n\n###### Artigo 46.º — (Revogado.)\n\n###### Artigo 47.º — (Revogado.)",
+      "alterador": [
+        1,
+        18,
+        20
+      ]
+    },
+    {
+      "de": 270,
+      "ate": 272,
+      "texto": "Nas cartas precatórias e comunicações equivalentes, expedidas para produção de prova pessoal, a taxa de justiça é igual a um oitavo da taxa fixada na tabela.",
+      "alterador": [
+        20
+      ]
+    },
+    {
+      "de": 274,
+      "ate": 275,
+      "texto": "1 - As cartas rogatórias expedidas para diligências que não sejam simples citações ou notificações estão sujeitas à taxa de justiça indicada no artigo anterior e não são passadas enquanto não for feito o depósito da importância necessária à tradução, quando exigida.\n\n2 - As cartas rogatórias recebidas pagam a taxa indicada no artigo anterior, quando for possível determinar o valor da causa ou da utilidade visada com a diligência, ou, se esse valor não puder ser determinado, pagam a taxa equivalente a uma UCC.",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 278,
+      "ate": 293,
+      "texto": "###### Artigo 50.º — Adiamentos\n\n1 - São isentos de custas os adiamentos dos actos judiciais que não possam realizar-se por motivos respeitantes ao próprio tribunal, que nesse caso constarão especificadamente da acta.\n\n2 - Os outros adiamentos estão sujeitos a taxa de justiça igual a um oitavo da fixada na tabela anexa, salvo se o adiamento for determinado por motivo justificado.\n\n3 - Se houver mais de um adiamento do mesmo acto judicial, fora dos casos previstos no n.º 1, seja qual for a parte responsável, a taxa será de um quarto da que consta da tabela anexa.\n\n4 - Salvo se o juiz determinar que os autos vão imediatamente à conta, as custas dos adiamentos apenas são liquidadas e pagas a final, devendo ser incluídas na conta do processo quando o responsável pelas custas do adiamento e do processo for a mesma pessoa.\n\n###### Artigo 51.º — (Revogado.)\n\n###### Artigo 52.º — Limites da taxa de justiça e das custas\n\n1 - Nos processos e incidentes, ainda que sujeitos a redução motivada pela fase em que terminaram, a taxa de justiça nunca será inferior a metade da UCC.\n\n2 - Nas acções declarativas, executivas, nos processos especiais e nos incidentes, desde que o pedido seja de quantia certa, as custas não podem exceder o respectivo valor, fazendo-se rateio, nos termos gerais, sempre que excedam esse limite.\n\n###### Artigo 53.º — (Revogado.)",
+      "alterador": [
+        2,
+        12,
+        18,
+        20
+      ]
+    },
+    {
+      "de": 296,
+      "ate": 324,
+      "texto": "###### Artigo 54.º — (Revogado.)",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 344,
+      "ate": 377,
+      "texto": "###### Artigo 56.º — (Imposto liquidado por percentagem)\n\nO imposto do selo correspondente aos processos e actos judiciais a ele sujeitos, que não deva estar pago no momento da apresentação dos papéis e documentos ou da realização do acto, é liquidado pelo regime de percentagem sobre o valor da causa.\n\n###### Artigo 57.º — (Revogado.)\n\n###### Artigo 58.º — (Revogado.)\n\n###### Artigo 59.º — (Revogado.)",
+      "alterador": [
+        1,
+        18
+      ]
+    },
+    {
+      "de": 383,
+      "ate": 383,
+      "texto": "Nos depósitos e levantamentos até ao valor de 1000$00 e nos actos avulsos o imposto do selo é liquidado nos termos da lei geral.",
+      "alterador": [
+        13
+      ]
+    },
+    {
+      "de": 386,
+      "ate": 387,
+      "texto": "###### Artigo 64.º — (Dispensa do pagamento prévio do imposto do selo)\n\n1 - As partes são dispensadas do pagamento prévio do imposto do selo exigido pelos artigos 89 e 154 da Tabela Geral do Imposto do Selo:\n\na) Em quaisquer acções de valor até 60000$00;\n\nb) Nos depósitos e levantamentos a que se refere o artigo 62.º;\n\nc) Nos processos de assistência judiciária;\n\nd) Nas cópias dos autos de conciliação referidos no artigo 91.º da [Portaria n.º 280/76](https://diariodarepublica.pt/dr/detalhe/portaria/280-1976-427609), de 4 de Maio;\n\ne) Nas certidões das decisões que imponham multas nos termos do artigo 107.º do mesmo diploma;\n\nf) Nas certidões a que se refere a alínea e) do artigo 91.º do Código de Processo do Trabalho;\n\ng) Nos requerimentos iniciais das acções executivas fundadas nos títulos referidos nas alíneas d), e), e f);\n\nh) No requerimento formulado ao Ministério Público, nos termos do n.º 2 do artigo 94.º do Código de Processo do Trabalho e pelos seus duplicados necessários.",
+      "alterador": [
+        13
+      ]
+    },
+    {
+      "de": 391,
+      "ate": 403,
+      "texto": "As custas compreendem os seguintes encargos:\n\na) Os reembolsos ao Cofre Geral dos Tribunais por despesas adiantadas, salvo as relativas aos gastos com papel, franquias postais e expediente;\n\nb) Os pagamentos devidos a quaisquer entidades ou pessoas pelo custo de certidões, salvo das extraídas oficiosamente pelo tribunal, documentos, pareceres, plantas, outros elementos de informação ou de prova e serviços que o tribunal tenha requisitado;\n\nc) As retribuições devidas aos administradores de falências ou insolvências e a outras pessoas com intervenção acidental no processo, bem como as indemnizações estabelecidas na lei a favor das pessoas que colaboram com a justiça;\n\nd) As despesas de transporte e ajudas de custo;\n\ne) Os reembolsos à parte vencedora a título de custas de parte e procuradoria.\n\nf) O reembolso das despesas efectuadas pelo tribunal com a aquisição de fitas magnéticas necessárias à gravação das provas.",
+      "alterador": [
+        1,
+        18,
+        24
+      ]
+    },
+    {
+      "de": 407,
+      "ate": 410,
+      "texto": "1 - As custas de parte compreendem tudo o que a parte haja despendido com o processo ou a parte do processo a que se refere a condenação e de que tenha direito a ser indemnizada.\n\n2 - São equiparadas às custas de parte, mesmo para efeito de rateio, as remunerações, indemnizações, percentagens, contribuições, quotizações e quaisquer outras quantias que, por força da lei, devam ser incluídas na conta.\n\n3 - Os preparos, bem como as custas pagas que tenham de ser restituídas, serão sempre atendidos na conta final.\n\n4 - As custas de parte não previstas no número anterior apenas serão atendidas na conta desde que o interessado com direito a reembolso proceda de uma das seguintes formas:\n\na) No final de cada requerimento ou articulado mencione, sob a epígrafe «Custas de parte», as quantias despendidas e outras a que tenha direito, somando-as e transportando-as nos sucessivos requerimentos ou articulados que vier a apresentar até ao termo da causa;\n\nb) No prazo de 7 dias a contar da notificação da decisão que importe a contagem do processo ofereça uma nota com discriminação das quantias despendidas e outras a que tenha direito e com indicação dos elementos de verificação.\n\n###### Artigo 68.º — (Revogado.)",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 415,
+      "ate": 418,
+      "texto": "Em processo cível - 400$00;\n\nEm processo obrigatório - 300$00;\n\nb) Os peritos ou louvados, com conhecimentos especiais, e os técnicos, por dia - 800$00;\n\nc) Os peritos ou técnicos diplomados com curso superior, quando a lei exija essa habilitação, por dia - 1200$00;",
+      "alterador": [
+        13
+      ]
+    },
+    {
+      "de": 421,
+      "ate": 422,
+      "texto": "2 - Nos processos por acidente de trabalho ou por doença profissional, em qualquer fase, e nas revisões, os peritos médicos são remunerados por cada exame feito, singularmente ou integrados em junta médica, nos termos dos artigos 195.º e 196.º\n\n3 - Se os peritos apresentarem desenhos, plantas, mapas ou quaisquer peças que sejam consideradas úteis, o tribunal arbitrará por esse trabalho a remuneração que pareça razoável.\n\n4 - Os técnicos de que o advogado pode fazer-se assistir, nos termos do artigo 42.º do Código de Processo Civil, não têm direito aos emolumentos fixados neste artigo.",
+      "alterador": [
+        13
+      ]
+    },
+    {
+      "de": 430,
+      "ate": 430,
+      "texto": "1. Às testemunhas é abonada a indemnização que for arbitrada pelo tribunal, entre 200$00 e 500$00 por dia.",
+      "alterador": [
+        8
+      ]
+    },
+    {
+      "de": 433,
+      "ate": 437,
+      "texto": "###### Artigo 73.º — (Importâncias que revertem para o Cofre Geral dos Tribunais)\n\nOs emolumentos contados nos termos do artigo 69.º a favor dos peritos que prestem serviço em estabelecimentos que tenham por função e realização de exames e que por esse serviço tenham remuneração ou vencimento revertem para o Cofre Geral dos Tribunais como receita própria.\n\n###### Artigo 74.º — (Revogado.)",
+      "alterador": [
+        8,
+        20
+      ]
+    },
+    {
+      "de": 440,
+      "ate": 440,
+      "texto": "1 - Os peritos, louvados e técnicos que não sejam de fora da comarca, os juízes de paz e os respectivos funcionários têm direito a receber, além da remuneração e dos emolumentos que lhes são atribuídos, a importância de 10$00 por cada quilómetro que percorram desde o local da sua residência até àquele em que se realize a diligência, e vice-versa.",
+      "alterador": [
+        13
+      ]
+    },
+    {
+      "de": 442,
+      "ate": 442,
+      "texto": "3 - Em processos obrigatórios os louvados não podem receber, incluindo o emolumento pela avaliação, mais que 500$00 em cada dia nem um total superior a 1,5% do valor do processo.",
+      "alterador": [
+        13
+      ]
+    },
+    {
+      "de": 477,
+      "ate": 478,
+      "texto": "###### Artigo 84.º — (Procuradoria a quem é devida e qual a parte que a paga)\n\n1 - Salvo o disposto no artigo 21.º do [Decreto-Lei n.º 391/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1988-354485), de 26 de Outubro, a parte vencedora, na proporção em que o seja, tem direito a receber do vencido, desistente ou confitente, em cada instância e no Supremo Tribunal de Justiça, uma quantia a título de procuradoria, que entra em regra de custas. A procuradoria é devida nas próprias transacções.",
+      "alterador": [
+        8,
+        20
+      ]
+    },
+    {
+      "de": 481,
+      "ate": 483,
+      "texto": "4 - Nas execuções por custas, nos processos em que a parte vencedora seja representada pelo Ministério Público, nas acções que terminem antes de ser oferecida a contestação e em quaisquer outras em que a parte vencedora não seja representada por advogado ou solicitador, a procuradoria é contada a favor do Serviço Social do Ministério da Justiça.\n\n5 - A procuradoria é abatida nas despesas extrajudiciais, indemnizações, diferença de juro ou pena convencional a que o vencedor ou exequente tenha direito por vir a juízo, salvo se a cláusula penal ou estipulação congénere não for restrita ao caso de cobrança judicial e dever funcionar por outro motivo.\n\n6 - Os incapazes são isentos de procuradoria, quando figurem como demandados.\n\n7 - Não há procuradoria nos incidentes nem nos processos que terminem por transacção se ambas as partes nisso acordarem.",
+      "alterador": [
+        1,
+        8,
+        20
+      ]
+    },
+    {
+      "de": 485,
+      "ate": 492,
+      "texto": "1 - A procuradoria é arbitrada pelo tribunal, tendo em atenção o valor da causa e a sua complexidade, entre um quarto e metade da taxa de justiça devida.\n\n2 - Quando o tribunal não arbitre, a procuradoria é igual a metade da taxa de justiça devida.",
+      "alterador": [
+        1,
+        20,
+        21
+      ]
+    },
+    {
+      "de": 496,
+      "ate": 499,
+      "texto": "1 - Da importância arbitrada a título de procuradoria a que a lei não dê destino especial é feita a dedução de 60%, que terá o seguinte destino:\n\na) 15% para o Conselho Geral da Ordem dos Advogados (CGOA);\n\nb) 2% para o Conselho Geral da Câmara dos Solicitadores (CGCS);\n\nc) 43% para a Caixa de Previdência dos Advogados e Solicitadores (CPAS).\n\n2 - O pagamento é feito directamente pelo tribunal, sendo a verba correspondente à percentagem a pagar à parte incluída no respectivo cheque de custas de parte e sendo a verba correspondente à soma das percentagens referidas no número anterior remetida mensalmente à CPAS.\n\n3 - Incumbe à CPAS remeter mensalmente ao CGOA e ao CGCS os montantes globais que a estes caibam nas referidas percentagens.",
+      "alterador": [
+        1,
+        20
+      ]
+    },
+    {
+      "de": 502,
+      "ate": 502,
+      "texto": "Nas notificações ou quaisquer outras diligências avulsas só são devidas, além dos selos, as despesas de transporte, as importâncias de caminhos e a quantia de 200$00 por cada notificação ou diligência, tendo em conta o disposto no n.º 3 do artigo 71.º",
+      "alterador": [
+        8
+      ]
+    },
+    {
+      "de": 504,
+      "ate": 509,
+      "texto": "1 - Pelas certidões, ainda que extraídas de processos penais, e pelos traslados pagar-se-á a quinquagésima parte de uma UCC por cada lauda, considerando-se sempre completa a última delas.\n\n2 - A lauda pode ter qualquer número de linhas.\n\n3 - Às certidões por fotocópia aplica-se o disposto nos números anteriores.",
+      "alterador": [
+        1,
+        8,
+        18
+      ]
+    },
+    {
+      "de": 511,
+      "ate": 511,
+      "texto": "1. Pelo termo de procuração ou de substabelecimento exarado nos autos para mandato judicial pagar-se-á a quantia que for devida nos termos da lei geral pela procuração que apenas confira poderes forenses, sem sujeição a outro selo além do liquidado pelo processo.",
+      "alterador": [
+        4
+      ]
+    },
+    {
+      "de": 515,
+      "ate": 515,
+      "texto": "1 - Pela busca a realizar pagar-se-á a vigésima parte de uma UCC.",
+      "alterador": [
+        8,
+        18
+      ]
+    },
+    {
+      "de": 518,
+      "ate": 518,
+      "texto": "Pelos termos de abertura e encerramento dos livros «Inventário» e «Diário», a que se refere o artigo 32.º do Código Comercial, contar-se-á a importância de 100$00 por cada livro.",
+      "alterador": [
+        8
+      ]
+    },
+    {
+      "de": 521,
+      "ate": 521,
+      "texto": "1. Por cada rubrica em quaisquer livros que não sejam do tribunal, dos conservadores e notários, quando expressamente exigida por lei, pagar-se-á a importância de 3$50.",
+      "alterador": [
+        8
+      ]
+    },
+    {
+      "de": 524,
+      "ate": 525,
+      "texto": "###### Artigo 94.º — (Revogado.)",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 527,
+      "ate": 527,
+      "texto": "Pela confiança do processo, nos termos dos artigos 169.º e 171.º do Código de Processo Civil, pagar-se-á a décima parte de uma UCC.",
+      "alterador": [
+        8,
+        18
+      ]
+    },
+    {
+      "de": 531,
+      "ate": 536,
+      "texto": "1 - Nos processos, incidentes e recursos e actos sujeitos a custas haverá lugar a preparos, salvo isenção legal; os preparos podem ser iniciais, para despesas e para julgamento.\n\n2 - Não há lugar a preparos nos inventários em que a herança seja deferida a incapazes, ausentes em parte incerta ou pessoas colectivas, nas acções cíveis processadas conjuntamente com a acção penal e nos pedidos de apoio judiciário.\n\n3 - Nos actos avulsos pode ser exigido preparo suficiente para garantir o seu custo, conforme determinação do funcionário responsável pela respectiva realização.\n\n4 - Sempre que se verifiquem graves perturbações na regularidade das comunicações postais, o tribunal superior pode conceder dispensa de preparos se entender que não são suficientes ou convenientes as prorrogações dos prazos.",
+      "alterador": [
+        20,
+        23
+      ]
+    },
+    {
+      "de": 538,
+      "ate": 546,
+      "texto": "1 - Preparos iniciais são os que se verificam no início de qualquer processo ou parte de processo sujeita a tributação especial.\n\n2 - Preparos para despesas são os destinados a fazer face ao pagamento dos encargos referidos nas alíneas b), c) e d) do artigo 65.º\n\n3 - Preparos para julgamento são os que têm lugar imediatamente antes das decisões das acções e dos recursos.\n\n4 - (Revogado.)\n\n5 - Nas falências, concordatas e inventários não há preparos para julgamento.\n\n6 - Não há lugar a preparo para despesas quando se trate de deslocação apenas de funcionários da secretaria.\n\n7 - Nos processos relativos à jurisdição de menores, os preparos iniciais e para despesas somente serão devidos quando o tribunal determinar, se forem de maioridade os interessados que os devam suportar e as circunstâncias especiais do caso ou a natureza da diligência requerida o justificarem.",
+      "alterador": [
+        13,
+        20,
+        23
+      ]
+    },
+    {
+      "de": 548,
+      "ate": 557,
+      "texto": "1 - Nos processos e recursos, os montantes de cada preparo inicial e para julgamento são iguais a um quarto da taxa de justiça que seria devida a final, mas nas acções de divórcio e separação por mútuo consentimento são de metade da taxa aplicável.\n\n2 - Nos processos, incidentes e actos sujeitos a taxa de justiça não superior a um quarto da taxa fixada na tabela não há preparos para julgamento e os montantes dos preparos iniciais são iguais a metade da taxa aplicável, mas, se o processo, incidente ou acto não admitirem oposição, o preparo é igual à taxa de justiça devida.\n\n3 - Os preparos para despesas serão indicados no prazo de 2 dias pela secção do processo, de harmonia com o montante provável, lavrando-se cota.\n\n4 - Nos inventários em que haja lugar a preparos, determinar-se-á a taxa de justiça com base no valor constante do requerimento inicial ou, havendo arrolamento, pela soma dos bens arrolados, se for superior.\n\n5 - Quando a soma dos preparos de ambas as partes exceda o valor do pedido de quantia certa, o montante de cada preparo é calculado tendo por base o valor do pedido, sendo os preparos arredondados para a dezena de escudos imediatamente superior.\n\n###### Artigo 99.º — (Revogado.)",
+      "alterador": [
+        1,
+        12,
+        18,
+        20,
+        23
+      ]
+    },
+    {
+      "de": 560,
+      "ate": 569,
+      "texto": "###### Artigo 101.º — (A quem incumbe o encargo do processo)\n\n1 - O encargo de efectuar o preparo inicial e o preparo para julgamento incumbe ao autor, recorrente ou requerente, ao réu ou requerido que deduza oposição e ao recorrido que alegue.\n\n2. Nos preparos para despesas, quando se trate de intervenção facultativa do tribunal colectivo ou de diligências requeridas ou sugeridas, o encargo recai sobre a parte que as requereu ou sugeriu; não se tratando de intervenção facultativa do tribunal colectivo, nem de diligências requeridas ou sugeridas, o encargo do preparo recairá sobre ambas as partes, por igual, ou incumbirá apenas a uma delas: por inteiro, se a outra parte não houver depositado o preparo inicial ou a respectiva quota-parte no próprio preparo para despesas, e por metade, se a outra parte for isenta de preparos.\n\n3 - Nos processos por acidente de trabalho ou por doença profissional o encargo de efectuar o preparo para despesas compete à pessoa ou entidade patronal ou à respectiva seguradora mas se a diligência for ordenada oficiosamente pelo tribunal e não estiver ainda determinada a pessoa ou entidade responsável pelo pagamento do preparo para despesas, se esta estiver determinada mas se recusar a efectuar o pagamento ou ainda se se mostrar impossível obter o pagamento em tempo útil, será o custo suportado pelo Cofre Geral dos Tribunais.\n\n4 - A pessoa ou entidade responsável, nos casos referidos no número anterior, será notificada para efectuar o reembolso e, se o não fizer, a quantia devida entrará em regra de custas, acrescida de 50%.",
+      "alterador": [
+        1,
+        13,
+        18
+      ]
+    },
+    {
+      "de": 571,
+      "ate": 571,
+      "texto": "Quando haja mais de um autor, recorrente ou requerente ou mais de um réu, recorrido ou requerido e as petições ou oposições forem distintas, cada um deles fará por inteiro os preparos fixados neste Código, mas os preparos para julgamento são limitados ao necessário para garantir a taxa de justiça e a procuradoria máxima.",
+      "alterador": [
+        20
+      ]
+    },
+    {
+      "de": 576,
+      "ate": 584,
+      "texto": "1 - O prazo para efectuar o preparo inicial é de 7 dias, a contar:\n\na) Para o autor ou requerente, da apresentação do seu requerimento em juízo ou da distribuição, quando a houver;\n\nb) Para o réu ou requerido e para o recorrido que alegue no tribunal de recurso, da apresentação em juízo da oposição;\n\nc) Para as cartas precatórias ou rogatórias, da notificação do despacho que as mandou passar;\n\nd) Para os recursos, da notificação da distribuição no tribunal superior.\n\n2 - Nos recursos para o tribunal pleno, os preparos iniciais são feitos:\n\na) Pelo recorrente, a contar da apresentação do requerimento, se tiver lugar no Supremo, ou da distribuição neste tribunal;\n\nb) Pelo recorrido, a contar da apresentação da resposta sobre a questão preliminar ou do oferecimento da alegação sobre o objecto do recurso, se não tiver respondido.\n\n3 - Nas reclamações do despacho que rejeitar ou retiver o recurso, os preparos são feitos a contar da notificação da decisão que mantenha o despacho reclamado.",
+      "alterador": [
+        10,
+        18
+      ]
+    },
+    {
+      "de": 586,
+      "ate": 588,
+      "texto": "###### Artigo 105.º — (Revogado.)",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 591,
+      "ate": 591,
+      "texto": "2 - Quando uma parte pretenda ou deva pagar o preparo ou quota-parte do preparo que a outra deixe de depositar, tem para o efeito sete dias, a contar do termo do prazo da parte faltosa.",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 593,
+      "ate": 594,
+      "texto": "1 - O preparo para julgamento é feito no prazo de sete dias a contar da notificação para oferecimento das provas ou, se a tal oferecimento não houver lugar, da notificação do despacho que ordene a expedição de alguma carta ou que designe dia para a produção de provas.\n\n2 - Se não tiver lugar nenhum dos despachos referidos no número anterior, antes de se abrir conclusão do processo para decisão final, o interessado será especialmente notificado para fazer o preparo no prazo de sete dias, sem prejuízo de, antes mesmo de chegada a altura da decisão final, o juiz ordenar em despacho autónomo que se proceda a essa notificação.\n\n3 - Nos recursos, o preparo para julgamento é feito no prazo de sete dias a contar da notificação do despacho que mande inscrever o processo em tabela.\n\n4 - Se o pagamento do preparo depender de notificação de algum despacho, o juiz poderá, quando o julgue conveniente, fixar para o efeito um prazo inferior a sete dias.\n\n5 - Nos recursos, o preparo para julgamento pode ser feito juntamente com o preparo inicial se a parte o desejar efectuar no tribunal de que recorreu.\n\n6 - Nas notificações a que se referem os n.os 1 a 3 os interessados serão expressamente advertidos do prazo de pagamento dos preparos.",
+      "alterador": [
+        11,
+        20
+      ]
+    },
+    {
+      "de": 596,
+      "ate": 596,
+      "texto": "1 - Os preparos são feitos no tribunal onde corre o processo, recurso ou incidente, salvo o disposto no n.º 4 do artigo 104.º e no n.º 3 do artigo 107.º",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 600,
+      "ate": 600,
+      "texto": "1 - À parte que os tenha feito são os preparos restituídos por inteiro quando não haja lugar ao pagamento de custas por nenhum dos litigantes e parcialmente se excederem a importância das custas contadas.\n\n2 - A restituição parcial dos preparos não terá, porém, lugar quando a importância a restituir seja inferior à vigésima parte da UC, revertendo essa quantia para o Cofre Geral dos Tribunais.\n\n3 - O disposto no número anterior é igualmente aplicável às importâncias depositadas a título de custas prováveis.",
+      "alterador": [
+        20
+      ]
+    },
+    {
+      "de": 607,
+      "ate": 608,
+      "texto": "###### Artigo 111.º — (Revogado.)",
+      "alterador": [
+        12,
+        18
+      ]
+    },
+    {
+      "de": 610,
+      "ate": 610,
+      "texto": "1. A falta de preparos para despesas tem as seguintes consequências:",
+      "alterador": [
+        1
+      ]
+    },
+    {
+      "de": 612,
+      "ate": 612,
+      "texto": "b) Não ser lícito à parte que não observou o disposto no n.º 1 do artigo 106.º efectuar o preparo para julgamento sem o pagamento de imposto de justiça igual ao dobro do preparo que não efectuou e nunca inferior ao dobro do preparo para julgamento.\n\n2. Se for obrigatória a intervenção do tribunal colectivo e este não puder reunir por falta do preparo, suspende-se a instância até que qualquer das partes faça o pagamento, sem prejuízo do disposto na lei processual quanto à deserção; no caso de ser facultativa a intervenção, a falta do preparo terá como efeito a realização do julgamento pelo juiz singular.",
+      "alterador": [
+        1,
+        3
+      ]
+    },
+    {
+      "de": 615,
+      "ate": 617,
+      "texto": "###### Artigo 114.º — Taxa de justiça devida pela falta de preparos\n\n1 - A taxa de justiça que acresce ao pagamento do preparo inicial, quando este é efectuado fora do primeiro prazo designado na lei, e a devida pela falta de pagamento do preparo para julgamento não são abatidas à taxa liquidada pelo processo e incluir-se-ão na primeira conta posterior.\n\n2 - As taxas fixadas para a falta de pagamento em tempo oportuno do preparo para julgamento são devidas, quer a parte efectue ou não o preparo a que faltou.",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 624,
+      "ate": 640,
+      "texto": "###### Artigo 116.º — (Pagamento das custas no caso de transferência do processo para outro tribunal)\n\n1 - Os processos que, por qualquer motivo, tenham sido contados nos termos do artigo 122.º não podem seguir em recurso ou ser remetidos para outro tribunal, em consequência de qualquer acto de iniciativa das partes, sem estarem pagas ou asseguradas todas as custas contadas de que o recorrente ou requerente seja responsável, apenas se deduzindo para o efeito os preparos efectuados pelo próprio responsável.\n\n2 - Havendo mais de um recorrente, não se faz a divisão de custas, para efeitos do disposto no número anterior, a não ser que os recursos sejam independentes e interpostos por autor e réu, porque, neste caso, cada um pagará as custas da sua responsabilidade, e, se algum deixar de o fazer, apenas será o recurso julgado deserto quanto a ele.\n\n3 - O trabalhador por conta de outrem, nos processos do foro laboral, pode obter a subida ao tribunal superior do recurso que interponha sem efectuar, ou garantir por fiança bancária, o pagamento das custas da sua responsabilidade se na sentença lhe for reconhecido crédito de montante suficiente para garantir este pagamento.\n\n4 - Se a sentença reconhecer ao trabalhador por conta de outrem crédito de montante suficiente para garantir o pagamento das custas da sua própria responsabilidade, não será instaurada execução por custas sem que esteja finda a execução de sentença.\n\n5 - Nos casos referidos nos n.os 3 e 4, somente o depósito da quantia exequenda à ordem do juiz do processo exonera o devedor, que de tal será advertido na primeira notificação a que houver lugar.\n\n6 - As cartas rogatórias, nos casos de sujeição a taxa de justiça, não são devolvidas sem que o pagamento seja feito.\n\n###### Artigo 117.º — Impossibilidade de o devedor de custas praticar actos no processo e obter certidões\n\n1 - O responsável por custas que tenham sido contadas nos termos do artigos 122.º e que as não haja pago no prazo legal não pode obter certidão nem praticar qualquer acto nesse processo, ou nos seus apensos, enquanto não efectuar o pagamento das custas de que é devedor.\n\n2 - Para fins exclusivamente de celebração de casamento, a secretaria pode passar certidões da sentença de divórcio, independentemente do pagamento das custas, desde que se tenha verificado na execução a impossibilidade de o responsável as pagar; na certidão dir-se-á que ela se destina exclusivamente à celebração de novo casamento e que as custas estão em dívida.\n\n3 - Os interessados que não sejam parte no processo podem obter certidões, independentemente do pagamento de custas, desde que invoquem um interesse próprio e legítimo, devendo as certidões fazer menção do fim a que exclusivamente podem destinar-se; nas certidões passadas a pedido da parte não responsável pelas custas mencionar-se-ão os nomes dos responsáveis pelo seu pagamento, a fim de que estes, ou os seus representantes, as não possam utilizar para quaisquer actos que envolvem cumprimento, execução ou registo do julgado.\n\n4 - O trabalhador por conta de outrem, nos processos do foro laboral, pode obter certidões ou praticar actos no processo, e seus apensos, sem efectuar o pagamento das custas da sua responsabilidade se na sentença lhe for reconhecido crédito de montante suficiente para garantir este pagamento, observando-se o disposto nos n.os 4 e 5 do artigo anterior; a advertência ao devedor terá, porém, lugar na notificação da penhora.\n\n5 - Nos pagamentos proceder-se-á à compensação entre o débito de custas do exequente e o crédito do executado.\n\n6 - Nas execuções emergentes de processos do foro laboral o crédito exequendo que represente pagamento de trabalho prestado por conta de outrem tem preferência sobre os créditos referidos nos artigos 1.º e 2.º do [Decreto-Lei n.º 512/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/512-1976-431397), de 3 de Julho.\n\n###### Artigo 118.º — Garantia com títulos de depósito a prazo\n\n1 - Quando o montante de cada preparo, inicial ou para julgamento, exceda 5 UCs, o interessado pode, para todos os efeitos, substituí-lo, mediante a junção ao processo de títulos de depósito a prazo, na Caixa Geral de Depósitos, de importância igual ou superior ao preparo devido.\n\n2 - Aos títulos de depósito será aposta a declaração, assinada por funcionário da secção, de que ficam cativos à ordem do tribunal, em substituição de preparos, embora os respectivos juros devam ser creditados na conta à ordem do interessado, devendo o funcionário comunicar o facto à Caixa Geral de Depósitos.\n\n3 - Se as custas garantidas pelos títulos de depósito vierem a ser pagas, a secção restitui-los-á ao interessado, logo que ele o solicite por qualquer forma, devendo nele apor a declaração de que as custas foram pagas; no caso contrário, as custas serão satisfeitas com o produto do depósito a prazo.\n\n###### Artigo 119.º — Garantia por fiança bancária\n\nSem prejuízo do disposto no artigo anterior, quando o montante de cada preparo, inicial ou para julgamento, exceder 10 UCs, o interessado pode substituí-lo, para todos os efeitos, por fiança bancária que garanta o pagamento da taxa de justiça aplicável e da procuradoria máxima.\n\n###### Artigo 119.º-A — Garantia do pagamento das custas\n\nO pagamento das custas que seja condição de subida do recurso ou do prosseguimento da causa pode igualmente ser substituído por garantias prestadas nos termos dos dois artigos anteriores.",
+      "alterador": [
+        13,
+        18,
+        20
+      ]
+    },
+    {
+      "de": 643,
+      "ate": 644,
+      "texto": "###### Artigo 121.º — Proibição de executar a decisão por valor superior ao da conta do processo\n\nSendo a decisão executada por valor superior àquele por que foi contado o processo, deve ser rectificada a conta e, findo o prazo de pagamento da diferença resultante da rectificação, não pode o responsável pelas custas praticar qualquer acto no processo e seus apensos enquanto não efectuar esse pagamento.",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 649,
+      "ate": 649,
+      "texto": "2 - Igualmente remeterá à conta as execuções suspensas por força do artigo 825.º do Código de Processo Civil, os processos cujo andamento seja suspenso por outra causa, se o juiz assim o determinar, aqueles que estejam parados por culpa das partes, passados que sejam três meses, e todos os processos em que haja liquidação a fazer.",
+      "alterador": [
+        20
+      ]
+    },
+    {
+      "de": 652,
+      "ate": 653,
+      "texto": "###### Artigo 123.º — (Revogado.)",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 657,
+      "ate": 657,
+      "texto": "2 - Se houver recurso interposto que deva subir em separado, mencionar-se-á no processo de recurso o total despendido por cada parte, a fim de ser considerado na conta que há-de efectuar-se no tribunal superior, ficando também a indicação no processo principal.",
+      "alterador": [
+        13
+      ]
+    },
+    {
+      "de": 659,
+      "ate": 659,
+      "texto": "1 - Nos casos de suspensão, de o processo subir em recurso ou de estar parado por mais de dois meses, a conta é feita como se nessa altura terminasse, pelo valor que teria a final, e os montantes das taxas serão abatidos nas contagens a que posteriormente se proceder.",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 665,
+      "ate": 666,
+      "texto": "1 - As custas das deprecadas são incluídas pelo tribunal deprecante na conta do processo, indicando-se a totalidade da taxa e as quantias destinadas às pessoas que hajam intervindo.\n\n2 - As cartas rogatórias são contadas e pagas no tribunal rogado.",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 674,
+      "ate": 675,
+      "texto": "###### Artigo 131.º — (Revogado.)",
+      "alterador": [
+        1,
+        18
+      ]
+    },
+    {
+      "de": 677,
+      "ate": 677,
+      "texto": "1 - O prazo de contagem das custas é de sete dias, salvo quando se trate de cartas rogatórias, papéis avulsos ou actos urgentes; nestes casos, o prazo será acomodado à urgência, nas nunca superior a dois dias.",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 691,
+      "ate": 693,
+      "texto": "###### Artigo 135.º — Não liquidação de custas de valor reduzido\n\nQuando a importância dívida por um interessado respeite exclusivamente a custas e o seu montante seja inferior à vigésima parte da UC, ela não será considerada, procedendo-se a rateio.",
+      "alterador": [
+        20
+      ]
+    },
+    {
+      "de": 721,
+      "ate": 721,
+      "texto": "3 - Nas acções de redução de prestações incertas a certas, divisão de águas, divisão de coisa comum, demarcação e outras idênticas as custas são pagas pelos interessados na proporção das respectivas quotas; mas, se houver oposição, as custas desta serão pagas pelo vencido, na proporção em que o for.\n\n4 - Nas acções por acidente de trabalho ou por doença profissional compete à pessoa ou entidade legalmente responsável pelo acidente ou pela doença, ainda que isenta de custas, o pagamento das remunerações aos peritos, as despesas realizadas com autópsias ou com outras diligências necessárias para o diagnóstico clínico dos efeitos do sinistro ou da doença. Se à causa de pedir não vier a ser reconhecida a natureza de acidente de trabalho ou de doença profissional são esses custos suportados pelo Cofre Geral dos Tribunais.\n\n5 - Se houver preparo para despesas efectuado, no caso referido no número anterior, será restituído após o trânsito em julgado da sentença que declarou inexistente o fundamento invocado ou do despacho que, por identidade de razão, ordenou o arquivamento do processo.",
+      "alterador": [
+        13
+      ]
+    },
+    {
+      "de": 744,
+      "ate": 746,
+      "texto": "###### Artigo 147.º — Pagamento das custas pela parte contrária ou por terceiro\n\nQualquer pessoa pode fazer o pagamento das custas que a outrem incumbe no último dia do respectivo prazo, ou posteriormente a essa data, nas condições em que ao devedor é lícito fazê-lo, ficando com direito de regresso contra este, salvo quando se demonstre que o pagamento foi feito de má fé.",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 753,
+      "ate": 756,
+      "texto": "###### Artigo 150.º — (Pagamento de custas em prestações)\n\n1 - Nos processos obrigatórios o meeiro e os herdeiros, os interditos ou os inabilitados cuja meação ou quinhões não excedam 500000$00 podem efectuar o pagamento das custas da sua responsabilidade em prestações, oferecendo caução por qualquer meio idóneo; se no quinhão ou bens do requerente figurarem imóveis de valor suficiente para garantia da responsabilidade que lhes cabe, é dispensada a caução, gozando as custas de privilégio sobre os bens do devedor a seguir aos créditos da Fazenda.\n\n2 - Aos trabalhadores por conta de outrem, nos processos do foro do trabalho, é também admitido o pagamento das custas da sua responsabilidade em prestações, desde que ofereçam garantia idónea.\n\n3 - Requerido o pagamento em prestações, o juiz, depois de ouvir o Ministério Público e de efectuadas as diligências necessárias, decidirá sobre a garantia oferecida ou exigirá a que lhe parecer suficiente e estabelecerá o montante das prestações, por forma que o prazo de pagamento nunca exceda 2 anos.\n\nTodos os actos relativos ao incidente de prestação de caução, sem exceptuar os praticados pelo conservador do registo predial, são isentos de custas, salvo no caso de indeferimento do pedido por manifesta inviabilidade dos fundamentos invocados ou da caução oferecida.",
+      "alterador": [
+        13
+      ]
+    },
+    {
+      "de": 764,
+      "ate": 765,
+      "texto": "3 - Mediante parecer favorável do Ministério Público, o juiz não ordenará, porém, o desconto no caso de a dívida de custas ser de montante tão reduzido que não justifique a actividade ou as despesas a que o desconto daria lugar.\n\n###### Artigo 153.º — Rateio das quantias depositadas e instauração da execução\n\n1 - Quando não se obtenha o pagamento das custas pelos meios a que se refere o artigo anterior, proceder-se-á a rateio das quantias depositadas, para entrarem em imediato pagamento, e far-se-á o processo com vista ao Ministério Público, dentro de catorze dias, informando se o devedor possui bens que possam ser executados.\n\n2 - Para prestar a informação referida no número anterior, a secção solicitará, quando necessário, o concurso das autoridades policiais e administrativas e do próprio Ministério Público.\n\n3 - O Ministério Público instaurará execução somente quando forem conhecidos bens ao devedor.\n\n4 - O Ministério Público não instaurará, porém, execução quando se verifiquem as condições previstas no n.º 3 do artigo anterior.\n\n5 - Estando apenas em dívida a procuradoria em favor do vencedor e as custas de parte, não tem lugar a informação referida no n.º 2 e o Ministério Público instaurará execução unicamente se o interessado com direito à procuradoria e ao reembolso tomar a iniciativa de indicar concretamente nos autos bens do devedor que possam ser executados.",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 777,
+      "ate": 778,
+      "texto": "###### Artigo 158.º — (Revogado.)",
+      "alterador": [
+        23
+      ]
+    },
+    {
+      "de": 781,
+      "ate": 784,
+      "texto": "###### Artigo 160.º — (Indicação dos bens que serão penhorados)\n\nSe não tiver elementos para indicar os bens que devem ser penhorados, o Ministério Público pode requerer que se proceda à penhora nos bens que forem encontrados.\n\n###### Artigo 161.º — (Separação judicial de bens)\n\nEfectuada a penhora sobre bens comuns, em execução por custas movida contra um só dos cônjuges, será o outro citado para requerer a separação judicial de bens, nos termos e com os efeitos indicados no n.º 2 do artigo 825.º do Código de Processo Civil.",
+      "alterador": [
+        1
+      ]
+    },
+    {
+      "de": 786,
+      "ate": 789,
+      "texto": "Se a penhora incidir sobre bens imóveis sitos fora da comarca, a deprecada não será devolvida sem o certificado do registo predial e a certidão de encargos.\n\n###### Artigo 163.º — Termo da execução por insuficiência do activo e arquivamento condicional da execução\n\n1 - Quando, mesmo por informações recolhidas ao abrigo do artigo 153.º, se verifique que o executado não dispõe de outros bens penhoráveis e os que foram penhorados se mostram insuficientes para a satisfação das custas, o juiz, a requerimento do Ministério Público, dispensará as reclamações de créditos e mandará proceder à imediata liquidação dos bens, a fim de pelo seu produto serem pagas unicamente as custas.\n\n2 - Verificando-se que o executado não possui bens, é a execução arquivada, sem prejuízo de dever continuar logo que alguns bens lhe sejam conhecidos.",
+      "alterador": [
+        1,
+        18
+      ]
+    },
+    {
+      "de": 804,
+      "ate": 804,
+      "texto": "d) A procuradoria, as custas de parte e a percentagem devida ao Fundo de Desemprego, sempre que em juízo tenha sido paga qualquer importância respeitante a remuneração a ela sujeita.",
+      "alterador": [
+        13
+      ]
+    },
+    {
+      "de": 810,
+      "ate": 811,
+      "texto": "###### Artigo 170.º — Taxa de juro de mora\n\nAs taxas de juro de mora são as estabelecidas na lei fiscal.",
+      "alterador": [
+        20
+      ]
+    },
+    {
+      "de": 815,
+      "ate": 818,
+      "texto": "###### Artigo 171.º — (Revogado.)",
+      "alterador": [
+        1,
+        12,
+        18
+      ]
+    },
+    {
+      "de": 821,
+      "ate": 849,
+      "texto": "###### Artigo 173.º — (Revogado.)\n\n###### Artigo 174.º — (Responsabilidade pelas custas devidas por menor de dezasseis anos)\n\nSe a pessoa sujeita a medida de prevenção criminal for menor de dezasseis anos, são os pais ou tutor quem responde pelas custas.\n\n###### Artigo 175.º — (Revogado.)\n\n###### Artigo 176.º — (Revogado.)\n\n###### Artigo 177.º — (Revogado.)\n\n###### Artigo 178.º — (Revogado.)",
+      "alterador": [
+        1,
+        12,
+        18
+      ]
+    },
+    {
+      "de": 852,
+      "ate": 853,
+      "texto": "###### Artigo 180.º — (Revogado.)",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 860,
+      "ate": 861,
+      "texto": "1. O Ministério Público está isento de custas.\n\n2. Os representantes legais de menores, nos recursos de decisões que se pronunciem sobre a aplicação, alteração ou cessação das medidas de prevenção criminal, bem como os réus presos, gozam de isenção do imposto de justiça pela interposição de recursos em 1.ª instância e do imposto inicial na instância superior; gozam ainda de isenção do imposto nos incidentes que requeiram ou a que façam oposição.",
+      "alterador": [
+        1
+      ]
+    },
+    {
+      "de": 867,
+      "ate": 879,
+      "texto": "###### Artigo 184.º — Taxa de justiça e fixar na decisão\n\nEm razão da situação económica do infractor e da complexidade do processo, a taxa de justiça a aplicar na decisão deve ser fixada entre os seguintes limites:\n\na) Em processo comum com intervenção do tribunal do júri - 5 UCs a 200 UCs;\n\nb) Em processo comum com intervenção do tribunal colectivo - 2 UCs a 100 UCs;\n\nc) Em processo comum com intervenção do juiz singular ou processo de classificação de falência - 1 UCC a 70 UCCs;\n\nd) Em processo sumário - 1 UCC a 30 UCCs;\n\ne) Em quaisquer outros processos, incluindo os do foro laboral ou que corram termos nos tribunais de menores e nos tribunais de execução de penas - um quarto da UCC a 5 UCCs;\n\nf) Em casos de desistência, perdão, injustificada abstenção de acusar do assistente e não recebimento da sua acusação e ainda nos casos de denúncia feita de má fé ou com negligência grave - um quarto da UCC a 5 UCCs.\n\n###### Artigo 185.º — Taxa de justiça devida nos incidentes\n\nNos incidentes é devida taxa de justiça nos termos seguintes:\n\na) Pela realização de instrução - 1 UCC a 10 UCCs;\n\nb) Por quaisquer outros incidentes estranhos ao andamento normal do processo - metade da UCC a 5 UCCs.",
+      "alterador": [
+        12,
+        13,
+        18,
+        20
+      ]
+    },
+    {
+      "de": 883,
+      "ate": 887,
+      "texto": "###### Artigo 187.º — Taxa devida pelo recorrente nos recursos e nos incidentes\n\n1 - Cada recorrente ou requerente pagará, dentro do prazo fixado no artigo 192.º, mas contado da notificação da distribuição do recurso ou da apresentação do requerimento, a seguinte taxa de justiça:\n\na) Nos recursos e nos pedidos de revisão - um quarto da UCC;\n\nb) Em qualquer incidente estranho aos termos regulares do processo - um quarto da UCC.",
+      "alterador": [
+        12,
+        18
+      ]
+    },
+    {
+      "de": 889,
+      "ate": 905,
+      "texto": "3 - Nos casos a que se refere a alínea a) do n.º 1, o regime de pagamento e a cominação correspondente são os que a lei estabelece para os preparos iniciais nos recursos cíveis.\n\n###### Artigo 188.º — Taxa de justiça a fixar na decisão do recurso ou incidente\n\n1 - Em razão da situação económica do responsável e da complexidade do processo, a taxa de justiça a aplicar na decisão do recurso ou incidente deve ser fixada entre os seguintes limites:\n\na) Nos recursos em processos de transgressão - 1 UCC a 10 UCCs;\n\nb) Nos recursos em quaisquer outros processos - 2 UCCs a 50 UCCs;\n\nc) Nos incidentes em quaisquer processos - metade da UCC a 5 UCCs;\n\nd) Nos processos de habeas corpus - 1 UCC a 30 UCCs.\n\n2 - Nos processos do foro laboral e nos que correm perante os tribunais de menores ou perante os tribunais de execução de penas, a taxa de justiça a aplicar na decisão do recurso ou incidente deve ser fixada entre os limites de um quarto da UCC e as 10 UCCs.\n\n3 - O tribunal de recurso que condene em taxa de justiça determinará também a condenação respeitante ao tribunal inferior, quando este o não tenha feito.\n\n###### Artigo 189.º — (Revogado.)",
+      "alterador": [
+        12,
+        13,
+        18
+      ]
+    },
+    {
+      "de": 907,
+      "ate": 915,
+      "texto": "###### Artigo 190.º — Taxa devida nos processos de caução e pela interposição de recurso\n\nEm qualquer tribunal pagar-se-á taxa de justiça nos casos e termos seguintes:\n\na) Nos processos de caução, conforme o seu valor:\n\nAté 10000$00 - 2000$00;\n\nDe mais de 10000$00 até 50000$00 - 4000$00;\n\nDe mais de 50000$00 até 200000$00 - 6000$00;\n\nDe mais de 200000$00, acresce à taxa anterior a importância de 1000$00 por cada 100000$00 ou fracção além daquela importância;\n\nb) Pela interposição de qualquer recurso - um quarto da UCC.",
+      "alterador": [
+        1,
+        12,
+        18
+      ]
+    },
+    {
+      "de": 919,
+      "ate": 922,
+      "texto": "O imposto que seja condição do seguimento de recurso ou incidente ou da prática de qualquer acto deve ser pago no prazo de cinco dias, a contar da apresentação do requerimento na secretaria ou da sua formulação no processo, independentemente de despacho e sob pena de o pedido ser considerado sem efeito. O recurso que tenha por efeito manter a liberdade do réu é recebido independentemente do pagamento do imposto pela interposição, que será pago nos cinco dias subsequentes à admissão do recurso.\n\n###### Artigo 193.º — Taxa de justiça variável\n\n1 - Quando a taxa de justiça seja variável, a taxa normal será igual ao dobro do seu limite mínimo.\n\n2 - Se o juiz não fixar a taxa de justiça, liquidar-se-á, salvo disposição em contrário, a taxa normal.\n\n3 - Nas transgressões em que for efectuado o pagamento da multa antes do julgamento, a taxa de justiça é liquidada pelo mínimo.",
+      "alterador": [
+        18,
+        20
+      ]
+    },
+    {
+      "de": 924,
+      "ate": 934,
+      "texto": "1 - Constituem custas em processo criminal:\n\na) Os reembolsos ao Cofre Geral dos Tribunais por despesas adiantadas, salvo as relativas aos gastos com papel, franquias postais e expediente;\n\nb) As despesas de transporte e ajudas de custo devidas pela condução de presos, antes do julgamento, de uma para outra comarca;\n\nc) As indemnizações atribuídas às testemunhas chamadas a depor na fase do julgamento;\n\nd) As despesas de transporte e as remunerações dos peritos;\n\ne) Os honorários atribuídos aos defensores oficiosos;\n\nf) A procuradoria;\n\ng) A importância de 250$00 a favor do captor e os caminhos devidos aos oficiais de justiça pelas capturas realizadas na área da comarca.\n\n2 - São equiparadas a custas as percentagens ou contribuições devidas a instituições de segurança social que, por força da lei, devam ser incluídas na conta dos processos cíveis.",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 936,
+      "ate": 940,
+      "texto": "1 - As custas são calculadas e liquidadas de harmonia com o disposto na parte cível do Código, salvo as seguintes alterações:\n\na) Os honorários dos defensores oficiosos, nomeados fora do âmbito do apoio judiciário, são arbitrados tendo em consideração o volume e a natureza do trabalho produzido e a situação económica do devedor, dentro dos seguintes limites:\n\nProcesso comum e de falência - 3000$00 a 30000$00;\n\nQuaisquer outros processos, incluindo os que correm nos tribunais de menores e de execução de penas - 1000$00 a 10000$00;",
+      "alterador": [
+        8,
+        13,
+        20
+      ]
+    },
+    {
+      "de": 942,
+      "ate": 950,
+      "texto": "Dos peritos em exames descritivos e louvações ... 200$00\n\nDos peritos com trabalhos de investigação ou que requeiram conhecimentos especiais ... 400$00\n\nDos peritos ou técnicos diplomados com curso superior, quando a lei exija essa habilitação ... 600$00\n\nDos enfermeiros ou auxiliares de enfermagem, por serviços prestados nas autópsias ... 450$00\n\nE por serviços prestados nos exames de ginecologia ... 300$00\n\nDos médicos, por exames de traumatologia ... 350$00\n\nDos médicos, por exames de ginecologia ... 450$00\n\nDos médicos por serviços de tanatologia ... 1200$00\n\nDos médicos e especialistas, em exame da sua especialidade e utilizando aparelhagem própria ... 1200$00\n\n2 - A procuradoria é igualmente arbitrada, tendo em consideração o volume e a natureza do trabalho produzido e a situação económica do devedor, entre um quarto e metade da taxa de justiça devida.\n\n3 - Nas acções penais que não tenham por exclusivo objecto crimes particulares, a procuradoria devida pelos réus condenados é contada a favor do Serviço Social do Ministério da Justiça; se a condenação resultar da prática de crimes particulares e de infracções públicas, a procuradoria será repartida com o assistente na proporção do número de cada espécie.\n\n4 - Os caminhos a que se refere a alínea g) do n.º 1 do artigo anterior são calculadas à razão de 10$00 por cada quilómetro que percorram desde o local da sua residência até àquele em que se realize a diligência e vice-versa, até ao máximo de 40.\n\n5 - O preceituado no n.º 1 vale como tabela para os fins prescritos no n.º 5 do artigo 66.º e no n.º 1 do artigo 162.º do Código de Processo Penal.",
+      "alterador": [
+        13,
+        20
+      ]
+    },
+    {
+      "de": 957,
+      "ate": 958,
+      "texto": "1 - Revertem para o Cofre Geral dos Tribunais, liquidando-se e arrecadando-se sob rubrica própria, os emolumentos devidos a peritos que prestem serviço em estabelecimentos que tenham por função a realização de exames e que por esse serviço tenham remuneração ou vencimento ou quando o pagamento lhe seja efectuado ou garantido por aquele Cofre.\n\n2 - A favor do Cofre Geral dos Tribunais revertem outrossim as importâncias que o Cofre tenha abonado ou deva abonar e ainda o emolumento de 10$00 por cada participação de acidente de trabalho ou de doença profissional incluída no mapa que a entidade seguradora e a entidade patronal dispensada de seguro devem, nos termos legais, remeter mensalmente ao tribunal.\n\n3 - O emolumento referido no número anterior é levado ao livro Emolumentos de Actos Avulsos e um duplicado da guia de depósito ficará junto ao próprio mapa.",
+      "alterador": [
+        8,
+        13,
+        18
+      ]
+    },
+    {
+      "de": 961,
+      "ate": 961,
+      "texto": "A secção em que corre o processo liquidará, no prazo de 48 horas, a multa, imposto de justiça e custas que sejam devidos.",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 963,
+      "ate": 964,
+      "texto": "",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 966,
+      "ate": 966,
+      "texto": "O pagamento voluntário do imposto de justiça resultante de condenação em qualquer tribunal é feito nos termos fixados no Código de Processo Penal.",
+      "alterador": [
+        6
+      ]
+    },
+    {
+      "de": 970,
+      "ate": 972,
+      "texto": "1. Se a multa, impostos de justiça resultantes de condenação e custas não forem pagos pelo réu, a secção, socorrendo-se, quando necessário, do concurso das autoridades policiais e administrativas e do próprio Ministério Público, informará dentro de dez dias, a contar do termo do prazo para o pagamento voluntário do débito resultante da decisão final do processo, se o devedor possui bens que possam ser imediatamente executados.\n\nNão sendo possível uma informação concludente naquele prazo, será ele prorrogado por dez dias, no máximo.\n\n2. Se forem conhecidos bens que possam ser imediatamente executados ou o réu os indicar, comprovando a sua titularidade, o Ministério Público instaurará execução no tribunal da condenação, a qual seguirá os termos das execuções por custas reguladas na parte cível, com observância do disposto no artigo 1696.º do Código Civil.",
+      "alterador": [
+        6
+      ]
+    },
+    {
+      "de": 974,
+      "ate": 975,
+      "texto": "4. Salvo nos tribunais de menores, se não for possível obter o pagamento imediato e não tiverem sido declarados inconvertíveis os impostos aplicados ao réu que a final tenha sido condenado por qualquer infracção penal, serão estes convertidos à razão de 20$00 por dia, até aos limites estabelecidos pelo § 3.º do artigo 639.º do Código de Processo Penal; o juiz declarará, porém, nessa oportunidade a inconvertibilidade se, pela informação da secção ou por outras diligências e ouvido o Ministério Público, se convencer de que o réu não tem possibilidade de pagar as quantias em dívida.",
+      "alterador": [
+        1
+      ]
+    },
+    {
+      "de": 980,
+      "ate": 986,
+      "texto": "###### Artigo 205.º — (Revogado.)",
+      "alterador": [
+        13,
+        18
+      ]
+    },
+    {
+      "de": 989,
+      "ate": 994,
+      "texto": "###### Artigo 207.º — (Revogado.)",
+      "alterador": [
+        20
+      ]
+    },
+    {
+      "de": 997,
+      "ate": 1000,
+      "texto": "###### Artigo 208.º — Montante das multas aplicáveis em processos cíveis e criminais\n\n1 - As multas aplicáveis nos processos cíveis e criminais devem ser fixadas entre os seguintes limites:\n\na) Para os litigantes de má fé - 2 UCCs a 100 UCCs;\n\nb) Para quaisquer outros casos não especialmente regulados na lei - um quarto da UCC a 5 UCCs.\n\n2 - À determinação do quantitativo das multas aplica-se, com as indispensáveis adaptações, o disposto no artigo 193.º\n\n3 - As multas aplicadas em processos cíveis não estão sujeitas a qualquer adicional.",
+      "alterador": [
+        12,
+        18
+      ]
+    },
+    {
+      "de": 1006,
+      "ate": 1006,
+      "texto": "1 - As restantes multas, salvo as impostas ao réu em processo penal, são liquidadas, em 2 dias, pela secção do processo, tendo o responsável o prazo de 10 dias para efectuar o pagamento, a contar da expedição do aviso postal registado que para o efeito lhe é remetido.\n\n2 - Na liquidação de multas do foro do trabalho estabelecidas por lei para o incumprimento de obrigações pecuniárias incluir-se-á também a importância correspondente à obrigação em falta, e o pagamento desta importância não é admitido sem a importância correspondente à multa pela infracção.",
+      "alterador": [
+        13
+      ]
+    },
+    {
+      "de": 1059,
+      "ate": 1062,
+      "texto": "1 - Logo que comece a correr qualquer prazo para depósito de preparos ou pagamento de custas ou multas, a secção do processo passa guias para estes depósitos ou pagamentos na Caixa Geral de Depósitos, lavrando termo, e delas faz entrega às partes, seus representantes ou mandatários, quando se apresentarem a recebê-las; havendo lugar a notificação para o depósito ou pagamento, se a notificação tiver lugar na área da comarca, a secção do processo juntará as guias, a fim de serem entregues ao notificando no acto da notificação, começando o prazo a correr da data em que esta for feita.\n\n2 - Nos casos especiais em que a lei autorize o interessado a solicitar guias para qualquer depósito ou pagamento, são estas imediatamente passadas e entregues.\n\n3 - Exclusivamente no caso de ser urgente a prática de acto que dependa de depósito de quaisquer quantias e estar fechada a Caixa Geral de Depósitos, pode a secção do processo receber as importâncias devidas, lavrando cota com indicação do dia e hora do recebimento, e entregá-las-á ali no primeiro dia útil imediato com as respectivas guias; o funcionário que receba estas importâncias providencia, de acordo com o presidente do tribunal, sobre a sua guarda e é considerado, para todos os efeitos, depositário judicial das somas recebidas.",
+      "alterador": [
+        18
+      ]
+    },
+    {
+      "de": 1088,
+      "ate": 1093,
+      "texto": "###### Artigo 230.º — Conta com a Caixa Geral de Depósitos. Assinatura de cheques\n\n1 - Os tribunais têm com a Caixa Geral de Depósitos uma conta referente a depósito de processos e ao cofre do tribunal, sob a rubrica «Tribunal Judicial de ...».\n\n2 - Esta conta vence juros.\n\n3 - Os cheques para movimentação da conta são assinados, no Supremo Tribunal de Justiça e nas relações, pelo secretário e pelo secretário judicial e, nos restantes tribunais, pelo secretário judicial e pelo escrivão da secção central ou, na falta deste, pelo escrivão mais antigo da secretaria.\n\n###### Artigo 231.º — Destino de algumas receitas\n\n1 - Revertem para o Cofre Geral dos Tribunais:\n\na) As taxas de justiça criminais e as somas em unidades de conta processual arrecadadas em processo penal;\n\nb) Os juros de mora das custas cíveis ou criminais;\n\nc) As multas e coimas fixadas em juízo, incluindo as multas resultantes da conversão da pena de prisão, na parte que por lei constitua receita do Estado.\n\n2 - Revertem, contudo, integralmente para o município respectivo as multas e coimas cujo produto, ainda que só em parte, constitua por lei receita das autarquias.\n\n3 - Das receitas mencionadas na alínea a) do n.º 1, trimestralmente, o Cofre Geral dos Tribunais remeterá 40% para o Serviço Social do Ministério da Justiça e 20% para o Instituto de Reinserção Social.",
+      "alterador": [
+        20
+      ]
+    },
+    {
+      "de": 1098,
+      "ate": 1102,
+      "texto": "###### Artigo 234.º — Verificação de escrita, pagamento e cheques\n\n1 - No último dia de cada mês, após o encerramento da secretaria, a secção central soma cada uma das colunas do livro Pagamentos, depois de nele lançar todos os processos recebidos para o efeito e de verificar se o total a pagar por cada processo está em harmonia com a respectiva conta corrente, bem como se as operações estão exactas.\n\n2 - Apurados os totais, a secção apresenta o livro, com os respectivos processos, ao exame do Ministério Público, que verifica a conformidade dos lançamentos com o que consta dos processos e apõe o seu visto nuns e noutros. Nos processos que hajam de prosseguir ou de ser remetidos para outro tribunal, vara ou juízo, o exame do Ministério Público tem lugar imediatamente após o lançamento no livro Pagamentos.\n\n3 - Seguidamente, a secção passa cheques isentos de selo a favor de todas as pessoas ou entidades pela totalidade do que cada uma tenha a receber e apresenta tudo ao secretário, o qual verifica a conformidade, assina os cheques, manda apor-lhes o selo branco do tribunal e rubrica no livro a sua nota de verificação.\n\n4 - Em todos os cheques é aposta sobrecarga com indicação da data até à qual podem ser pagos.\n\n5 - As operações referidas nos números anteriores relativas ao mês de Agosto são efectuadas com as do mês de Setembro.",
+      "alterador": [
+        20
+      ]
+    },
+    {
+      "de": 1106,
+      "ate": 1113,
+      "texto": "###### Artigo 236.º — Prescrição dos cheques não apresentados a pagamento\n\nPrescrevem a favor do Cofre Geral dos Tribunais os cheques que não forem apresentados a pagamento até ao fim de dois meses, contados a partir do último dia do mês em que o cheque foi emitido.",
+      "alterador": [
+        1,
+        20
+      ]
+    },
+    {
+      "de": 1120,
+      "ate": 1121,
+      "texto": "1. Para efectuar os pagamentos relativos a processos o tesoureiro procederá, quanto à importância do cheque mensal de levantamento, a que faz referência o artigo 234.º, nos seguintes termos:\n\na) As importâncias pertencentes ao Cofre dos Conservadores, Notários e Funcionários de Justiça, ao conselho geral da Ordem dos Advogados, à Caixa de Previdência da Ordem dos Advogados e à Câmara dos Solicitadores são depositadas numa só guia, em quadruplicado, devidamente discriminadas, à ordem do conselho administrativo dos Cofres, até ao dia 5 de cada mês, e as pertencentes ao Serviço Social do Ministério da Justiça serão depositadas em conta própria, por meio de guia em triplicado, à ordem da respectiva direcção, dentro do mesmo prazo; antes do depósito são as guias e seus duplicados verificados pelo Ministério Público e, efectuada a verificação, serão os exemplares remetidos àquelas entidades;",
+      "alterador": [
+        1
+      ]
+    },
+    {
+      "de": 1184,
+      "ate": 1184,
+      "texto": "c) Com passes em carros eléctricos e autocarros para oficiais de diligências e correios e fardamentos para pessoal menor, ou com subsídios para transportes e fardamentos fixados anualmente pelo Ministro da Justiça.",
+      "alterador": [
+        4
+      ]
+    },
+    {
+      "de": 1193,
+      "ate": 1199,
+      "texto": "###### Artigo 258.º — (Encargos do Cofre dos Conservadores, Notários e Funcionários de Justiça)\n\nSobre o Cofre dos Conservadores, Notários e Funcionários de Justiça recaem, entre outros, os seguintes encargos:\n\na) Os vencimentos dos funcionários de justiça em serviço nos tribunais, incluindo os tribunais centrais de menores e os tribunais de execução das penas, e no Conselho Superior Judiciário, e ainda os vencimentos dos oficiais-porteiros e a percentagem estabelecida para os escriturários;\n\nb) Os vencimentos dos funcionários na situação de adido;\n\nc) Os encargos autorizados pelo Ministro da Justiça com a participação emolumentar até ao máximo de 27,5 por cento dos respectivos vencimentos dos magistrados judiciais e do Ministério Público que desempenham cargos dependentes do Ministério da Justiça, subdirectores, inspectores-adjuntos e inspector da Polícia Judiciária, e ainda os relativos à construção, instalação, reparação e mobiliário dos tribunais, estabelecimentos tutelares de menores e prisionais;\n\nd) Os exames de habilitação para ingresso na magistratura judicial ou do Ministério Público, nos quadros do funcionalismo judicial ou para solicitadores;\n\ne) Os subsídios ao Cofre Geral dos Tribunais que, sob proposta do conselho administrativo, o Ministro da Justiça autorizar.",
+      "alterador": [
+        2
+      ]
+    },
+    {
+      "de": 1222,
+      "ate": 1224,
+      "texto": "###### Artigo 264.º — (Prescrição das importâncias emolumentares)\n\n1. As importâncias pertencentes aos magistrados, subdirectores, inspectores-adjuntos e inspectores da Polícia Judiciária e as pertencentes aos funcionários que, por si ou por procurador, se não apresentem a recebê-las prescrevem para o Cofre Geral dos Tribunais no prazo de três meses após aquele em que se operou a divisão ou a liquidação.\n\n2. Observar-se-á o disposto no [Decreto-Lei n.º 42947](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42947-1960-281448), de 27 de Abril de 1960, se as importâncias, incluindo os vencimentos, não puderem ser pagas por o interessado ter falecido.",
+      "alterador": [
+        2
+      ]
+    },
+    {
+      "de": 1231,
+      "ate": 1234,
+      "texto": "###### Artigo 267.º — (Relação sucessória)\n\n1 - Os chefes das repartições de finanças são obrigados a enviar, até ao dia 15 de cada mês, ao agente do Ministério Público da respectiva comarca, ou ao do 1.º juízo cível, quando haja mais de um, a relação dos processos de liquidação do imposto sobre sucessões e doações instaurados no mês anterior, com indicação do nome do autor da herança, data e local do óbito, idades e moradas das pessoas que lhe sucederam.\n\n2 - Quando a herança haja sido deferida a incapazes, ausentes em parte incerta ou pessoas colectivas, enviar-se-á também ao agente do Ministério Público cópia da relação de bens apresentada.\n\n3 - As relações referidas no n.º 1 podem ser substituídas por fotocópias do termo de declaração que os interessados são obrigados a prestar para efeitos de liquidação do imposto sobre as sucessões e doações, desde que o mesmo contenha os necessários elementos.",
+      "alterador": [
+        1,
+        23
+      ]
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 732,
+      "texto": "5 - Para os mandatários judiciais, o aviso será substituído por carta registada e cópia da respectiva conta.",
+      "alterador": [
+        20
+      ]
+    }
+  ],
+  "nao_aplicavel": "passagem 1: 1) Alterador 3 (DL 49213), art. 46.º: suspende a aplicação dos arts. 24.º, 46.º, 47.º, 48.º, 50.º, 68.º, 71.º, 87.º, 131.º, 194.º e 235.º, n.º 2 - não é alteração textual, não aplicada. 2) Alterador 4 (DL 270/72), art. 1.º: eleva para o dobro as quantias dos arts. 69.º, 72.º, 75.º, 88.º e 266.º - alteração aritmética sem texto; nos arts. 69.º, 72.º, 75.º e 88.º ficou absorvida pelas quantias fixadas depois (alteradores 8 e 13), mas no art. 266.º (40$00) não foi aplicada. 3) Alterador 9 (Resolução 56/82): inconstitucionalidade do art. 189.º, n.º 1, só 'na parte em que' - não textual, não aplicada. 4) Alterador 10 (DL 224/82), art. 3.º, e alterador 12 (DL 223/83), art. 8.º: uniformização de prazos (24 horas -> 1 dia, 48 horas -> 2 dias, 3 -> 5 dias, 5 -> 7 dias) nos arts. 98.º, 104.º a 107.º, 110.º, 122.º, 132.º, 138.º, 139.º, 144.º, 145.º, 165.º, 192.º, 199.º e 211.º sem nova redação dada - não aplicada (no art. 211.º ficou incorporada pela redação do alterador 13). 5) Alterador 13 (DL 118/85), art. 6.º: a nova redação traz só os n.os 1 e 2 (foro do trabalho), mas a epígrafe fala de expropriações e mais-valia; os n.os 1 e 2 anteriores (expropriação e mais-valia, redação do alterador 1) foram mantidos a seguir, sem renumeração - confirmar no DR. 6) Alterador 13, art. 22.º: a redação traz os n.os 1 a 3; o n.º 4 atual não é referido e foi mantido. | passagem 2: Não aplicado: (1) art. 2.º do DL 387-D/87 (alterador 18) e art. 5.º, n.º 1, do DL 212/89 (alterador 20) mandam considerar automaticamente substituídas as designações 'imposto de justiça'/'processos orfanológicos' por 'taxa de justiça'/'processos de incapazes' e 'UCC' por 'UC' — substituição terminológica genérica, não aplicada ao texto; (2) art. 5.º, n.º 2, do DL 387-D/87 revoga os preceitos que determinem a cobrança do imposto do selo, incluindo o mencionado nos artigos 4.º, 56.º, 60.º a 64.º, 82.º, 88.º e 90.º — revogação na parte relativa ao selo, sem alvo textual seguro, não aplicada; (3) a tabela anexa a que se refere o artigo 16.º (nota alterada pelo art. 2.º do DL 92/88, alterador 19, e tabela substituída pelo art. 2.º do DL 212/89, alterador 20) não está no texto atual e o anexo do DL 212/89 só vem em imagem. | passagem 3: Alterador 22 (Portaria n.º 71/93): os novos valores dos emolumentos do artigo 195.º para exames forenses vêm numa tabela anexa só em imagem; não aplicado. Alterador 25 (Decreto-Lei n.º 224-A/96, art. 2.º): revoga o Código das Custas Judiciais aprovado pelo original, com excepção do artigo 221.º; como o original é o próprio Código (preâmbulo + Código), a revogação abrange praticamente todo o texto menos o artigo 221.º (unidades 906-907); não marquei cada um dos cerca de 268 artigos como revogado: a tratar como revogação global do diploma com ressalva do artigo 221.º.",
+  "instrucoes": [
+    "Alt.1 (DL 47692) art. 1.º: nova redação dos arts. 3.º n.º4, 5.º, 6.º, 8.º (c, e, j, n.º2), 24.º-26.º, 32.º n.º2, 33.º, 42.º, 43.º, 44.º n.º2, 46.º, 56.º, 65.º c), 84.º n.º4, 85.º a), 87.º, 89.º, 97.º n.º7 (aditado), 98.º n.º3, 101.º, 112.º, 124.º, 131.º, 142.º, 150.º, 160.º-162.º, 171.º, 174.º, 183.º, 184.º, 188.º, 190.º (al. c) eliminada, artigo dado só com a) e b)), 195.º, 200.º, 202.º n.º4, 236.º, 239.º, 258.º, 267.º; aplicadas, salvo onde alteradores posteriores deram nova redação à mesma unidade (aí ficou a redação final).",
+    "Alt.2 (DL 48853): arts. 52.º (n.º3 aplicado; n.os 1-2 depois substituídos pelo alt.12), 195.º n.º2 (inserido como n.º2, passando o antigo n.º2 a n.º3), 258.º (artigo inteiro) e 264.º aplicados.",
+    "Alt.3 (DL 49213): art. 45.º - nova redação da alínea b) do n.º1 do art. 112.º aplicada; art. 46.º (suspensão) não textual; restantes artigos são regime autónomo.",
+    "Alt.4 (DL 270/72): art. 90.º n.º1 e art. 255.º c) aplicados; art. 195.º n.º1 depois substituído (alts. 8 e 13); art. 1.º (dobro) não aplicado; art. 3.º altera o DL 49213 - ignorado.",
+    "Alt.5 (DL 696/73): art. 4.º - nova redação do art. 8.º n.º1 a) aplicada; o resto altera o Estatuto Judiciário ou é autónomo.",
+    "Alt.6 (DL 161/76): art. 200.º e art. 202.º n.os 1-2 aplicados; art. 2.º altera o DL 49213 - ignorado.",
+    "Alt.7 (DL 533/77): art. 22.º n.º1 (alíneas a-c) aplicado; art. 1.º altera o CPC - ignorado.",
+    "Alt.8 (DL 366/80): art. 1.º quantias aplicadas nos arts. 72.º, 88.º, 89.º, 91.º, 92.º, 93.º, 95.º (as dos arts. 69.º e 75.º foram depois substituídas pelo alt.13); art. 2.º: arts. 73.º, 84.º (epígrafe, n.os 5-8), 195.º n.º1 a) e 198.º n.º1 aplicados; arts. 3.º-5.º não são do original.",
+    "Alt.9 (Res. 56/82): inconstitucionalidade parcial do art. 189.º n.º1 - não textual.",
+    "Alt.10 (DL 224/82): art. 2.º - arts. 8.º b) (depois redação do alt.11), 104.º n.º1 (último período) e 107.º n.º2 aplicados; art. 3.º (prazos) não aplicado; art. 1.º altera o CPC.",
+    "Alt.11 (Lei 3/83): redação final dos arts. 8.º b) e 107.º n.º2 aplicada; art. 104.º igual ao do alt.10; o resto altera o CPC.",
+    "Alt.12 (DL 223/83): arts. 26.º n.º1, 52.º n.os 1-2, 98.º n.º4, 111.º, 171.º (n.º2 aditado e renumeração dos 2-4 para 3-5), 177.º n.º1, 184.º (antiga al. c) eliminada, realfabetização), 185.º (antiga al. a) eliminada), 187.º n.º1, 188.º n.º1, 190.º e 208.º aplicados (43.º, 171.º n.º2, 184.º c) e 188.º n.º2 depois com redação do alt.13); arts. 2.º-7.º e 9.º não são do original; art. 8.º (prazos) não aplicado.",
+    "Alt.13 (DL 118/85) art. 2.º: arts. 2.º, 3.º, 4.º, 5.º, 6.º, 8.º (corpo, u), z) a ee) aditadas), 17.º b) c), 22.º n.º2, 25.º n.º1, 42.º, 43.º, 62.º, 64.º, 69.º, 75.º, 97.º, 101.º (epígrafe e n.os 3-4), 116.º, 117.º, 124.º, 142.º, 150.º, 167.º, 171.º n.º2, 184.º, 188.º, 195.º, 198.º, 205.º e 211.º aplicados; arts. 3.º-5.º alteram outros diplomas ou são autónomos.",
+    "Alterador 14 (DL 242/85, art. 4.º): arts. 8.º n.º1 b), 98.º, 104.º n.º1 e 105.º n.º1 — todos depois substituídos ou revogados pelo alterador 18; resultado final atribuído a 18/20.",
+    "Alterador 15 (DL 384-A/85, art. 2.º): arts. 105.º n.º2 (depois revogado pelo 18) e 107.º (o n.º 3 sobrevive como n.º 5 na redação do alterador 20).",
+    "Alterador 16 (Lei 38/86, art. 2.º): art. 107.º n.º1 — substituído depois pelos alteradores 18 e 20.",
+    "Alterador 17 (DL 214/87, art. 2.º): art. 87.º nova redação; alíneas a) e b) e n.º 3 mantidas na versão final, n.º1, c) e n.º2 na redação do alterador 20.",
+    "Alterador 18 (DL 387-D/87, art. 1.º): novas redações dos arts. 1.º, 8.º, 16.º-23.º, 25.º, 26.º, 32.º, 33.º, 35.º-45.º (com renumeração do 39.º/40.º/41.º), 48.º-52.º, 65.º, 67.º, 89.º, 91.º, 95.º-98.º, 101.º, 102.º, 104.º, 106.º-109.º, 114.º, 116.º, 117.º, 121.º, 122.º, 125.º, 127.º, 132.º, 147.º, 152.º, 153.º, 162.º, 163.º, 184.º, 185.º, 187.º, 188.º, 190.º, 193.º-195.º, 198.º, 208.º, 222.º; aplicadas (as que não foram depois mudadas).",
+    "Alterador 18 (art. 5.º, n.º1, a)): revogados os arts. 13.º, 14.º, 24.º, 34.º, 46.º, 47.º, 53.º, 54.º, 57.º-59.º, 68.º, 94.º, 99.º, 105.º, 111.º, 118.º, 119.º, 123.º, 131.º, 171.º, 173.º, 175.º-178.º, 180.º, 189.º, 205.º e n.º2 dos arts. 192.º e 199.º (n.º1 passa a corpo); aplicado (24.º, 118.º, 119.º depois repostos pelo alterador 20).",
+    "Alterador 19 (DL 92/88, art. 1.º): arts. 8.º n.º1 a), 11.º (novo n.º2 e renumeração), 18.º n.º3, 43.º n.º1, 46.º (depois revogado pelo 20), 50.º (depois mudado pelo 20), 51.º (depois revogado pelo 20), 184.º c); aplicado.",
+    "Alterador 20 (DL 212/89, art. 1.º): arts. 6.º, 9.º, 17.º, 18.º, 20.º, 22.º-24.º, 26.º, 35.º, 36.º, 42.º, 43.º g), 45.º, 48.º, 50.º, 84.º, 85.º, 87.º, 96.º, 98.º, 102.º, 107.º, 109.º, 118.º, 119.º, 119.º-A (aditado), 122.º, 135.º, 144.º n.º5, 170.º, 184.º, 193.º, 195.º, 230.º, 231.º, 234.º, 236.º; aplicado.",
+    "Alterador 20 (art. 8.º, a)): revogados os n.os 3 e 4 do art. 1.º e os arts. 15.º, 46.º, 51.º, 74.º, 97.º n.º4 e 207.º; aplicado.",
+    "Revogações no Código de Processo Civil, no DL 49213 e outros diplomas, e alterações ao CPC: não são do original, ignoradas.",
+    "Alt. 21 (Lei 30-C/92, art. 38.º): nova redação do n.º 2 do art. 85.º (n.º 1 mantém-se) -> unidade 388 substituída.",
+    "Alt. 22 (Portaria 71/93): atualiza emolumentos do art. 195.º por tabela anexa em imagem -> nao_aplicavel.",
+    "Alt. 23 (DL 227/94, art. 4.º): art. 4.º novos n.os 1, 2 (alíneas mantidas) e 3 (o antigo n.º 3 desaparece e o antigo n.º 4 passa a n.º 3) -> 55-56 e 60-61 substituídas.",
+    "Alt. 23: art. 5.º, aditado n.º 3 -> inserção depois de 64.",
+    "Alt. 23: art. 16.º nova redação -> 130.",
+    "Alt. 23: art. 18.º, n.º 1, alínea h) -> 148.",
+    "Alt. 23: art. 33.º n.os 1 e 2 -> 190-191.",
+    "Alt. 23: art. 96.º n.º 2 -> 426; art. 97.º n.º 5 -> 434; art. 98.º n.º 4 -> 441.",
+    "Alt. 23: art. 267.º nova redação em 3 números -> 1082 substituída.",
+    "Alt. 23 (art. 8.º): revoga o art. 158.º -> 672-673 passam a 'Artigo 158.º — (Revogado.)'.",
+    "Alt. 24 (DL 39/95, art. 10.º): art. 65.º, aditada alínea f) -> inserção depois de 302.",
+    "Alt. 25 (DL 224-A/96, art. 2.º): revoga o Código das Custas Judiciais salvo o art. 221.º -> nao_aplicavel (revogação quase total, ver acima)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "chars": 224721,
+      "texto_em_ficheiro": true
+    },
+    {
+      "n": 2,
+      "alteradores": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "chars": 187276,
+      "texto_em_ficheiro": true
+    },
+    {
+      "n": 3,
+      "alteradores": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "chars": 200851,
+      "texto_em_ficheiro": true
+    }
+  ],
+  "problemas": [
+    "passagem 2: substituição 122-123: título que não está no alterador nem no original: ###### Artigo 13.º — (Revogado.)",
+    "passagem 2: substituição 124-126: título que não está no alterador nem no original: ###### Artigo 14.º — (Revogado.)",
+    "passagem 2: substituição 127-128: título que não está no alterador nem no original: ###### Artigo 15.º — (Revogado.)",
+    "passagem 2: substituição 226-230: título que não está no alterador nem no original: ###### Artigo 34.º — (Revogado.)",
+    "passagem 2: substituição 285-287: título que não está no alterador nem no original: ###### Artigo 46.º — (Revogado.)",
+    "passagem 2: substituição 288-289: título que não está no alterador nem no original: ###### Artigo 47.º — (Revogado.)",
+    "passagem 2: substituição 303-304: título que não está no alterador nem no original: ###### Artigo 51.º — (Revogado.)",
+    "passagem 2: substituição 313-314: título que não está no alterador nem no original: ###### Artigo 53.º — (Revogado.)",
+    "passagem 2: substituição 317-345: título que não está no alterador nem no original: ###### Artigo 54.º — (Revogado.)",
+    "passagem 2: substituição 367-381: título que não está no alterador nem no original: ###### Artigo 57.º — (Revogado.)",
+    "passagem 2: substituição 382-383: título que não está no alterador nem no original: ###### Artigo 58.º — (Revogado.)",
+    "passagem 2: substituição 384-398: título que não está no alterador nem no original: ###### Artigo 59.º — (Revogado.)",
+    "passagem 2: substituição 437-439: título que não está no alterador nem no original: ###### Artigo 68.º — (Revogado.)",
+    "passagem 2: substituição 465-467: título que não está no alterador nem no original: ###### Artigo 74.º — (Revogado.)",
+    "passagem 2: substituição 556-557: título que não está no alterador nem no original: ###### Artigo 94.º — (Revogado.)",
+    "passagem 2: substituição 587-590: título que não está no alterador nem no original: ###### Artigo 99.º — (Revogado.)",
+    "passagem 2: substituição 614-616: título que não está no alterador nem no original: ###### Artigo 105.º — (Revogado.)",
+    "passagem 2: substituição 635-636: título que não está no alterador nem no original: ###### Artigo 111.º — (Revogado.)",
+    "passagem 2: substituição 687-688: título que não está no alterador nem no original: ###### Artigo 123.º — (Revogado.)",
+    "passagem 2: substituição 709-711: título que não está no alterador nem no original: ###### Artigo 131.º — (Revogado.)",
+    "passagem 2: substituição 854-863: título que não está no alterador nem no original: ###### Artigo 171.º — (Revogado.)",
+    "passagem 2: substituição 866-869: título que não está no alterador nem no original: ###### Artigo 173.º — (Revogado.)",
+    "passagem 2: substituição 872-882: título que não está no alterador nem no original: ###### Artigo 175.º — (Revogado.)",
+    "passagem 2: substituição 883-884: título que não está no alterador nem no original: ###### Artigo 176.º — (Revogado.)",
+    "passagem 2: substituição 885-888: título que não está no alterador nem no original: ###### Artigo 177.º — (Revogado.)",
+    "passagem 2: substituição 889-894: título que não está no alterador nem no original: ###### Artigo 178.º — (Revogado.)",
+    "passagem 2: substituição 897-898: título que não está no alterador nem no original: ###### Artigo 180.º — (Revogado.)",
+    "passagem 2: substituição 946-948: título que não está no alterador nem no original: ###### Artigo 189.º — (Revogado.)",
+    "passagem 2: substituição 1024-1029: título que não está no alterador nem no original: ###### Artigo 205.º — (Revogado.)",
+    "passagem 2: substituição 1032-1037: título que não está no alterador nem no original: ###### Artigo 207.º — (Revogado.)"
+  ],
+  "avisos": [
+    "substituição 110-116: título que não está no alterador nem no original: ###### Artigo 13.º — (Revogado.)",
+    "substituição 110-116: título que não está no alterador nem no original: ###### Artigo 14.º — (Revogado.)",
+    "substituição 110-116: título que não está no alterador nem no original: ###### Artigo 15.º — (Revogado.)",
+    "substituição 187-213: título que não está no alterador nem no original: ###### Artigo 34.º — (Revogado.)",
+    "substituição 263-268: título que não está no alterador nem no original: ###### Artigo 46.º — (Revogado.)",
+    "substituição 263-268: título que não está no alterador nem no original: ###### Artigo 47.º — (Revogado.)",
+    "substituição 278-293: título que não está no alterador nem no original: ###### Artigo 51.º — (Revogado.)",
+    "substituição 278-293: título que não está no alterador nem no original: ###### Artigo 53.º — (Revogado.)",
+    "substituição 296-324: título que não está no alterador nem no original: ###### Artigo 54.º — (Revogado.)",
+    "substituição 344-377: título que não está no alterador nem no original: ###### Artigo 57.º — (Revogado.)",
+    "substituição 344-377: título que não está no alterador nem no original: ###### Artigo 58.º — (Revogado.)",
+    "substituição 344-377: título que não está no alterador nem no original: ###### Artigo 59.º — (Revogado.)",
+    "substituição 407-410: título que não está no alterador nem no original: ###### Artigo 68.º — (Revogado.)",
+    "substituição 433-437: título que não está no alterador nem no original: ###### Artigo 74.º — (Revogado.)",
+    "substituição 524-525: título que não está no alterador nem no original: ###### Artigo 94.º — (Revogado.)",
+    "substituição 548-557: título que não está no alterador nem no original: ###### Artigo 99.º — (Revogado.)",
+    "substituição 586-588: título que não está no alterador nem no original: ###### Artigo 105.º — (Revogado.)",
+    "substituição 607-608: título que não está no alterador nem no original: ###### Artigo 111.º — (Revogado.)",
+    "substituição 652-653: título que não está no alterador nem no original: ###### Artigo 123.º — (Revogado.)",
+    "substituição 674-675: título que não está no alterador nem no original: ###### Artigo 131.º — (Revogado.)",
+    "substituição 777-778: título que não está no alterador nem no original: ###### Artigo 158.º — (Revogado.)",
+    "substituição 815-818: título que não está no alterador nem no original: ###### Artigo 171.º — (Revogado.)",
+    "substituição 821-849: título que não está no alterador nem no original: ###### Artigo 173.º — (Revogado.)",
+    "substituição 821-849: título que não está no alterador nem no original: ###### Artigo 175.º — (Revogado.)",
+    "substituição 821-849: título que não está no alterador nem no original: ###### Artigo 176.º — (Revogado.)",
+    "substituição 821-849: título que não está no alterador nem no original: ###### Artigo 177.º — (Revogado.)",
+    "substituição 821-849: título que não está no alterador nem no original: ###### Artigo 178.º — (Revogado.)",
+    "substituição 852-853: título que não está no alterador nem no original: ###### Artigo 180.º — (Revogado.)",
+    "substituição 889-905: título que não está no alterador nem no original: ###### Artigo 189.º — (Revogado.)",
+    "substituição 980-986: título que não está no alterador nem no original: ###### Artigo 205.º — (Revogado.)",
+    "substituição 989-994: título que não está no alterador nem no original: ###### Artigo 207.º — (Revogado.)"
+  ]
+}

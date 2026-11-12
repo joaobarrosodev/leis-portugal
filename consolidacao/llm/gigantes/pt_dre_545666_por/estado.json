@@ -1,0 +1,52 @@
+{
+ "id": "pt:dre:545666:por",
+ "passagens": [
+  {
+   "n": 1,
+   "alteradores": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "chars": 224721,
+   "texto_em_ficheiro": true
+  },
+  {
+   "n": 2,
+   "alteradores": [
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ],
+   "chars": 187276,
+   "texto_em_ficheiro": true
+  },
+  {
+   "n": 3,
+   "alteradores": [
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "chars": 200851,
+   "texto_em_ficheiro": true
+  }
+ ],
+ "feito": true
+}

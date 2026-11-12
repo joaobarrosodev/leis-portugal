@@ -1,0 +1,99 @@
+{
+ "id": "pt:dre:212015:por",
+ "passagens": [
+  {
+   "n": 1,
+   "alteradores": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "chars": 201347,
+   "texto_em_ficheiro": true
+  },
+  {
+   "n": 2,
+   "alteradores": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "chars": 168261,
+   "texto_em_ficheiro": true
+  },
+  {
+   "n": 3,
+   "alteradores": [
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "chars": 186876,
+   "texto_em_ficheiro": true
+  },
+  {
+   "n": 4,
+   "alteradores": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+   ],
+   "chars": 220423,
+   "texto_em_ficheiro": true
+  },
+  {
+   "n": 5,
+   "alteradores": [
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ],
+   "chars": 209055,
+   "texto_em_ficheiro": true
+  },
+  {
+   "n": 6,
+   "alteradores": [
+    48,
+    49,
+    50,
+    51
+   ],
+   "chars": 104113,
+   "texto_em_ficheiro": true
+  }
+ ],
+ "feito": true
+}

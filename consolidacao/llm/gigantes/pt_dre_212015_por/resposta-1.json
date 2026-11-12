@@ -1,0 +1,47 @@
+{
+ "id": "pt:dre:212015:por",
+ "substituicoes": [
+  {
+   "de": 723,
+   "ate": 723,
+   "texto": "3 - Aos contratos celebrados até à data da entrada em vigor da presente lei continua a aplicar-se o disposto no n.º 3 do artigo 6.º do Código do IRS, na redacção anterior, relativamente às entregas pagas até essa mesma data e às entregas periódicas inicialmente contratadas pagas em data posterior, não podendo o prazo inicialmente previsto ser prorrogado.",
+   "alterador": 4
+  },
+  {
+   "de": 730,
+   "ate": 730,
+   "texto": "7 - É revogado o artigo 2.º do Decreto-Lei n.º 25/98, de 10 de Fevereiro, mantendo-se o regime anterior quanto às prestações devidas a título de pré-reforma, estabelecida de acordo com o Decreto-Lei n.º 261/91, de 25 de Julho, e que tenham sido contratadas e o respectivo pagamento sido iniciado até 31 de Dezembro de 2000.",
+   "alterador": 1
+  },
+  {
+   "de": 1212,
+   "ate": 1213,
+   "texto": "8 - A nova redacção do artigo 87.º do Código do IRC aplica-se aos pagamentos especiais por conta respeitantes aos períodos de tributação iniciados a partir de 1 de Janeiro de 2001.\n\n9 - Os pagamentos especiais por conta relativos aos períodos de tributação de 1999 e 2000 que, à data da entrada em vigor da presente lei, não tenham sido deduzidos ou reembolsados ao abrigo da redacção anterior dos n.os 1 e 2 do artigo 87.º do Código do IRC, respectivamente, são ainda dedutíveis, nos termos do n.º 1 daquele artigo, até ao quarto exercício seguinte àquele a que digam respeito, sem prejuízo de, relativamente à parte que ainda assim não possa ser deduzida, poder ser solicitado o reembolso nos termos da redacção inicial do n.º 2 daquela disposição, com as necessárias adaptações.",
+   "alterador": 1
+  },
+  {
+   "de": 1307,
+   "ate": 1307,
+   "texto": "4 - A nova redacção do actual artigo 26.º do Estatuto dos Benefícios Fiscais é, no tocante às normas antiabuso introduzidas pela presente lei constantes das alíneas b), c) e d) do respectivo n.º 2, apenas aplicável às partes sociais e outros valores mobiliários adquiridos após a data de entrada em vigor da mesma, sendo isentas de IRS as mais-valias de partes sociais e outros valores mobiliários adquiridos anteriormente a 1 de Janeiro de 2001, com excepção das que sejam realizadas por:\n\na) Pessoas singulares não residentes e sem estabelecimento estável em território português que sejam residentes de Estados ou territórios constantes de lista aprovada por portaria do Ministro das Finanças;\n\nb) Transmissão onerosa de participações qualificadas;\n\nc) Transmissão onerosa de partes sociais em sociedades residentes em território português cujo activo seja constituído, em mais de 50%, por bens imobiliários aí situados ou que, sendo sociedades gestoras ou detentoras de participações sociais, se encontrem em relação de domínio, tal como esta é definida no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, a título de dominantes, com sociedades dominadas, igualmente residentes em território português, cujo activo seja constituído, em mais de 50%, por bens imobiliários aí situados.",
+   "alterador": 4
+  },
+  {
+   "de": 1534,
+   "ate": 1534,
+   "texto": "1 - (Revogado.)",
+   "alterador": 4
+  }
+ ],
+ "insercoes": [],
+ "nao_aplicavel": null,
+ "instrucoes": [
+  "Alt. 1 (Lei 85/2001), art. 7.º n.º 1: nova redacção do n.º 7 do art. 3.º; substituída a unidade 730.",
+  "Alt. 1, art. 7.º n.º 2: nova redacção dos n.os 8 e 9 do art. 7.º; substituídas as unidades 1212-1213.",
+  "Alt. 1, art. 7.º n.º 3: nova redacção do n.º 4 do art. 10.º; a mesma unidade (1307) volta a ser alterada pelo alt. 4, por isso fica só a redacção final do alt. 4.",
+  "Alt. 2 e 3 (DL 221/2001): só alteram o Código do IRC ao abrigo da autorização do art. 8.º; nada a aplicar ao original.",
+  "Alt. 4 (Lei 109-B/2001), art. 30.º n.º 8: revogado o n.º 1 do art. 18.º; unidade 1534 passa a '1 - (Revogado.)'.",
+  "Alt. 4, art. 30.º n.º 10: nova redacção do n.º 3 do art. 3.º; substituída a unidade 723.",
+  "Alt. 4, art. 45.º n.º 7: nova redacção do n.º 4 do art. 10.º (com alíneas a) a c)); substituída a unidade 1307.",
+  "Alt. 4, restantes referências à Lei 30-G/2000 (art. 30.º n.os 7 e 9, art. 32.º) são interpretativas/transitórias sem alterar o texto; as alterações aos Códigos do IRS, IRC e EBF não são do original."
+ ]
+}

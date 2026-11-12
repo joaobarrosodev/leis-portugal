@@ -1,0 +1,29 @@
+{
+ "id": "pt:dre:636761:por",
+ "substituicoes": [
+  {
+   "de": 113,
+   "ate": 113,
+   "texto": "4 - O valor do investimento correspondente ao último pedido de pagamento, que deve ser apresentado no prazo máximo de trinta dias úteis a partir da data de conclusão do projeto, não pode ser inferior a 10 % do investimento elegível do projeto.",
+   "alterador": 8
+  },
+  {
+   "de": 286,
+   "ate": 286,
+   "texto": "2 - Fica suspensa, durante o ano de 2016, a obrigação de reembolso de incentivo prevista na alínea l) do artigo 19.º do Decreto Regulamentar Regional n.º 4/2001/A, de 6 de junho, alterado pelos Decretos Regulamentares Regionais n.os 27/2002/A, de 16 de setembro, 22/2003/A, de 27 de maio, 27/2004/A, de 15 de julho e 25/2005/A, de 6 de dezembro, nos termos a definir em protocolo a celebrar para o efeito entre as instituições de crédito e o departamento do Governo Regional competente em matéria de política de incentivos.",
+   "alterador": 8
+  }
+ ],
+ "insercoes": [],
+ "nao_aplicavel": null,
+ "instrucoes": [
+  "Alterador 8 (DLR 1/2016/A), art. 37.º: nova redação do n.º 4 do art. 15.º (prazo de trinta dias úteis) — substituída a unidade 113.",
+  "Alterador 8, art. 37.º: nova redação do n.º 2 do art. 40.º (suspensão durante 2016) — substituída a unidade 286; n.os 1 e 3 ficam ([...]).",
+  "Alterador 8, art. 37.º: '4 - [Anterior n.º 2]' do art. 40.º — o n.º 4 atual (despesas posteriores a 1 de janeiro de 2007) já é o anterior n.º 2 do texto original, renumerado por alteração anterior; mantido sem mudança.",
+  "Alterador 8, art. 36.º: suspensão do reembolso em 2016 — norma autónoma, não textual; ignorada.",
+  "Alterador 9 (DLR 3/2017/A), art. 41.º: suspensão do reembolso em 2017 — norma autónoma, não altera o texto; ignorada.",
+  "Alterador 10 (DLR 12/2020/A), art. 5.º n.º 2 c): suspensão da devolução de prestações — não textual; ignorada.",
+  "Alterador 11 (DLR 2/2021/A), arts. 1.º e 2.º: diferimento de reembolsos e majoração — normas autónomas, não textuais; ignoradas.",
+  "Alterador 12 (DLR 28/2021/A), arts. 2.º e 3.º: diferimento de reembolsos e majoração — normas autónomas, não textuais; ignoradas."
+ ]
+}
