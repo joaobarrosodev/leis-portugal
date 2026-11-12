@@ -1,0 +1,32 @@
+{
+ "juizes": [
+  "a",
+  "b",
+  "c",
+  "s"
+ ],
+ "por_tipo": {
+  "texto_alterado": {
+   "n": 99,
+   "respondidas": 43,
+   "certas_brando": 38,
+   "certas": 42,
+   "incompletas": 0,
+   "erradas": 1,
+   "sem_fundamento": 0,
+   "discordam": 1,
+   "sem_julgamento": 0,
+   "ids_nao_certos": [
+    "alt-096"
+   ]
+  },
+  "total": {
+   "n": 99,
+   "respondidas": 43,
+   "certas_brando": 38,
+   "certas": 42,
+   "fiabilidade": 0.977,
+   "limite_inferior_95": 0.879
+  }
+ }
+}

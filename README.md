@@ -470,6 +470,18 @@ O número no site é o que o histórico de decisões anuncia para cada ano e tip
 
 Todos os acórdãos recolhidos têm texto. O que falta (2021, n.º 652) não tem o texto na página do Tribunal (`reports/tc_failures.jsonl`). 90 estão ligados ao registo do mesmo acórdão publicado no Diário da República.
 
+**Qualidade das respostas do protótipo de perguntas** (medida com quatro juízes às cegas, que são o mesmo modelo, sem revisão de jurista; pormenor em [`rag/README.md`](rag/README.md)):
+
+| Perguntas | Quando responde, certas | Pelo menos (95% de confiança) | Responde a |
+|---|--:|--:|--:|
+| Portugal, bem escritas (530 de teste) | 96% | 93% | 66% |
+| Portugal, a citar o diploma (407 sintéticas) | 100% | 99% | 99% |
+| Portugal, escritas como fala uma pessoa comum (281) | 95% | 91% | 81% |
+| Portugal, diplomas alterados (99) | 98% | 88% | 43% |
+| União Europeia, a citar o ato (142 com resposta) | 100% | 96% | 73% |
+
+"Responde a" é a parte das perguntas com resposta a que o sistema responde; nas outras diz "não sei". Todas as medições usam a reescrita da pergunta em consulta jurídica (menos a de diplomas alterados) e foram feitas com sessões do Claude, não com a API.
+
 **Leitura.** Para a legislação portuguesa principal, a coleção está completa face ao DRE. As lacunas estão no texto (um quarto dos nacionais só em PDF), na 2.ª Série, no texto em vigor de metade dos diplomas alterados sem consolidação oficial e na vigência de muitos diplomas, que o DRE não indica. Na jurisprudência, só há os acórdãos do Tribunal Constitucional (os do STJ e do STA, não). Ainda não há legislação local (regulamentos municipais).
 
 ## Qualidade e validação
