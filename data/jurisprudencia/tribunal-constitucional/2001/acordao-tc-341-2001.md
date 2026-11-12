@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:tc:acordao:2001:341
+title: Acórdão do Tribunal Constitucional n.º 341/2001
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: acordao-tribunal-constitucional
+document_type_label: Acórdão do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 341/2001
+official_date: '2001-07-10'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 229/01'
+- 'Espécie: Recurso'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:acordao:2001:341
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/acordaos/20010341.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/acordaos/20010301-0400.html
+  content_url: https://www.tribunalconstitucional.pt/tc/acordaos/20010341.html
+  consolidated_url: null
+  retrieved_at: '2026-11-12T12:56:14Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: c6856577b203b80488ff641974725cb2a9639de4d3741c9ba479ffaf985d0ee2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc
+  generated_at: '2026-11-12T12:56:14Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T12:56:14Z'
+  warnings: []
+  errors: []
+---
+
+# Acórdão do Tribunal Constitucional n.º 341/2001
+
+Acórdão nº 341/01
+
+Proc. nº 229/01
+
+3ª Secção
+
+Relator: Cons. Sousa e Brito
+
+Acordam, na 3ª secção do Tribunal Constitucional:
+
+I
+
+1. Nestes autos, em que é recorrente o Ministério Público e são recorridos A... e o Conselho de Administração do Centro Regional de Saúde da Região Autónoma da Madeira, o Tribunal Administrativo e Fiscal Agregado do Funchal, por decisão de 26 de Fevereiro de 2001, recusou aplicar, com fundamento na sua inconstitucionalidade material, a norma resultante da conjugação do disposto na al. c) do artigo 27º com o artigo 53º Decreto-Lei nº 267/85, de 16 de Julho. Escudou-se, para tanto, designadamente, na seguinte fundamentação: "Entendo que os artigos 27º-c) e 53º (...) todos da Lei de Processo nos Tribunais Administrativos são inconstitucionais, por violação do art. 20º-4 da Constituição da República Portuguesa e do principio do contraditório dali decorrente, quando prevêem que imediatamente antes da decisão final do Tribunal seja ouvido o MP e ademais sem permitir que as partes conheçam o teor do parecer final do agente do MP (...)".
+
+2. É desta decisão que vem interposto pelo representante do Ministério Público junto do Tribunal Administrativo e Fiscal Agregado do Funchal, ao abrigo dos artigos 280º, nº 1, alínea a), da Constituição e 70º, nº 1, alínea a), da Lei do Tribunal Constitucional, o presente recurso obrigatório de constitucionalidade, para apreciação da conformidade com a Constituição da norma desaplicada.
+
+3. Já neste Tribunal foi o Ministério Público, recorrente, notificado para alegar, o que fez, tendo concluído nos seguintes termos:
+
+"1 - Não viola o artigo 219º da Constituição a norma que, no âmbito do contencioso administrativo, comete ao Ministério Público a possibilidade de, em representação do Estado colectividade e na defesa da legalidade e do ordenamento objectivo, intervir nos processos em que não figure como recorrente ou recorrido.
+
+2 - Não é inconstitucional a norma constante dos artigos 27º, alínea c) e 53º da LPTA, quando interpretada em termos de ser lícito ao juiz assegurar o pleno cumprimento e actuação da regra do contraditório (nos termos constantes do artigo 3º, nº 3, do Código de Processo Civil), facultando às partes a possibilidade de se pronunciarem sobre a argumentação potencialmente relevante e inovatória que considerem constar daquele parecer exarado nos autos pelo Ministério Público.
+
+3 - Termos em que deverá proceder o presente recurso, em conformidade com o juízo de não inconstitucionalidade das normas que o integram".
+
+4. Por parte dos recorridos não foi apresentada, dentro do prazo legal, qualquer alegação.
+
+II
+
+5. O presente recurso tem por objecto a apreciação da constitucionalidade da norma que se extrai da conjugação dos artigos 27º, alínea c) e 53º do Decreto-Lei nº 267/85, de 16 de Julho, nos termos da qual é um direito do Ministério Público, salvo nos recurso que interponha em defesa da legalidade, emitir, em 14 dias, parecer sobre a decisão final a proferir, direito que é exercido findas que sejam as alegações das partes no recurso contencioso ou o prazo para a sua apresentação.
+
+6. Ora, no que se refere a esta questão, o Tribunal Constitucional teve já oportunidade no Acórdão nº 185/2001 (ainda inédito, mas de que se junta cópia aos autos), tirado em Plenário (embora com votos de vencido, entre os quais o do ora Relator), de decidir que a norma em causa não é inconstitucional.
+
+É, pois, esta jurisprudência que agora, mais uma vez, há que reiterar.
+
+III
+
+7. Pelo exposto, decide-se conceder provimento ao recurso e, em consequência, ordenar a reforma do despacho recorrido em conformidade com o presente juízo de constitucionalidade.
+
+Lisboa, 10 de Julho de 2001
+
+José de Sousa e Brito
+
+Maria dos Prazeres Pizarro Beleza
+
+Alberto Tavares da Costa
+
+Messias Bento
+
+Luís Nunes de Almeida

@@ -1,0 +1,156 @@
+---
+schema_version: '1.0'
+id: pt:tc:acordao:2002:490
+title: Acórdão do Tribunal Constitucional n.º 490/2002
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: acordao-tribunal-constitucional
+document_type_label: Acórdão do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 490/2002
+official_date: '2002-11-26'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 507/00'
+- 'Espécie: Recurso'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:acordao:2002:490
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/acordaos/20020490.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/acordaos/20020401-0500.html
+  content_url: https://www.tribunalconstitucional.pt/tc/acordaos/20020490.html
+  consolidated_url: null
+  retrieved_at: '2026-11-12T12:50:08Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: 8383cbf667f58e7a7e6b4ae187e4471b4a36593f75a66ad9b0399773c470471d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc
+  generated_at: '2026-11-12T12:50:08Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T12:50:08Z'
+  warnings: []
+  errors: []
+---
+
+# Acórdão do Tribunal Constitucional n.º 490/2002
+
+Acórdão nº 490/02
+
+Proc. nº 507/00
+
+3ª Secção
+
+Relator: Cons. Sousa e Brito
+
+Acordam, em Plenário, no Tribunal Constitucional:
+
+I – Relatório
+
+1. Nos presentes autos, em que figuram como recorrente A e como recorrido o Ministério Público, foi proferido, já neste Tribunal, o Acórdão nº 159/2002 (fls. 729 a 742), em que se decidiu negar provimento ao recurso de fiscalização concreta da constitucionalidade que o recorrente havia interposto ao abrigo da alínea b) do nº 1 do art. 70º da Lei do Tribunal Constitucional.
+
+2. Notificado deste acórdão o recorrente veio requerer a sua aclaração, requerimento que foi desatendido através do Acórdão nº 312/2002 (fls. 765 a 773).
+
+3. Notificado deste último acórdão o recorrente veio arguir a sua nulidade, o que foi desatendido pelo Acórdão nº 404/2002 (fls. 786 a 789).
+
+4. Na sequência apresentou o recorrente um requerimento de interposição de recurso para o Plenário, ao abrigo do disposto no artigo 79º-D da Lei do Tribunal Constitucional, alegando a existência de oposição de julgados entre o Acórdão nº 159/2002 (tirado nos presentes autos) e o Acórdão nº 310/97.
+
+5. O recurso não foi admitido, por despacho do Relator de fls. 796, que foi fundamentado nos seguintes termos: "Não admito o recurso para o Plenário, interposto através do requerimento de fls. 794 e 795, pela simples razão de que não há qualquer divergência de julgamento quanto à mesma norma, como exige o artigo 79º-D da Lei nº 28/82, de 15 de Novembro, entre o acórdão deste Tribunal nº 310/97 (invocado pelo requerente naquele requerimento, mas que nada tem a ver com a questão que se discutiu nos presentes autos, limitando-se a confirmar uma anterior decisão sumária no sentido do não conhecimento do objecto do recurso)e o Acórdão nº 159/2002, proferido nestes autos a fls. 729 a 742".
+
+6. É deste despacho que vem interposta a presente reclamação, fundamentada, designadamente, nos seguintes termos:
+
+"(...)
+
+5 – Na verdade, no aliás douto acórdão nº 159/2002, ficou exarado que: «... a possibilidade de reapreciação e eventual alteração pelo tribunal de recurso...da bondade da decisão proferida pelo tribunal recorrido sobre a matéria de facto, pressupõe que aquele tribunal possa aceder a todos os elementos de prova em que assentou aquela decisão nos pontos impugnados pelo recorrente...».
+
+6 – E o douto Acórdão proferido em sentido contrário neste Alto Tribunal, só por lapso identificado como sendo o 310/97 – como facilmente se depreende da transcrição feita -, mas que na verdade é o 340/97, de 23/4, tirado no proc. 40/97, afirma, em resumo, que: «A fundamentação da decisão do Tribunal colectivo...há-de permitir ao Tribunal superior uma avaliação segura e cabal do porquê da decisão e do processo lógico-mental que serviu de suporte ao respectivo conteúdo decisório»
+
+(...)".
+
+7. Notificado desta reclamação o Ministério Público, aqui recorrido, veio responder-lhe nos seguintes termos:
+
+"1º - A presente reclamação carece manifestamente de fundamento sério, só podendo perspectivar-se como pura e reprovável manobra dilatória do reclamante.
+
+2º - Sendo evidente a inexistência de qualquer conflito jurisprudencial entre o acórdão ora indicado (340/97) – que, aliás, se pronunciou pela não inconstitucionalidade das normas conjugadas dos artigos 410º, 432º e 433º do Código de Processo Penal ! – e a decisão proferida nos autos".
+
+Dispensados os vistos legais, cumpre decidir.
+
+II. Fundamentação
+
+8. A presente reclamação é manifestamente improcedente, sendo evidente que não existe qualquer oposição de julgados quanto à mesma norma, como exige o artigo 79º-D da LTC, entre os Acórdãos deste Tribunal nºs 340/97 e 159/2002 (este proferido nos presentes autos).
+
+Efectivamente, enquanto que o Acórdão nº 340/97 se pronunciou - como, bem, nota o Ministério Público - no sentido da não inconstitucionalidade das normas conjugadas dos artigos 410º, 432º e 433º do Código de Processo Penal, o Acórdão nº 159/2002 pronunciou-se pela não inconstitucionalidade de uma certa interpretação normativa (que o acórdão identifica) dos artigos 412º, nº 3, 428º e 431º do Código de Processo Penal.
+
+Assim, não há naqueles acórdãos um julgamento da questão de inconstitucionalidade da mesma norma, em sentido divergente, quer porque a norma em apreciação não era a mesma, quer porque ambos se pronunciaram, embora em relação a normas diferentes, pela sua não inconstitucionalidade.
+
+Dessa forma, e sem necessidade de maiores considerações, apenas há que concluir, como fez o despacho reclamado, pela inadmissibilidade do recurso para o Plenário que fora interposto ao abrigo do artigo 79º-D da LTC.
+
+III. Decisão
+
+Pelo exposto, decide-se indeferir a reclamação, confirmando o despacho reclamado.
+
+Custas pelo reclamante, fixando-se a taxa de justiça em 25 unidades de conta
+
+Lisboa, 26 de Novembro de 2002-
+
+José de Sousa e Brito
+
+Maria Helena Brito
+
+Maria Fernanda Palma
+
+Alberto Tavares da Costa
+
+Paulo Mota Pinto
+
+Bravo Serra
+
+Artur Maurício
+
+Guilherme da Fonseca
+
+Maria dos Prazeres Pizarro Beleza
+
+Luís Nunes de Almeida
+
+José Manuel Cardoso da Costa

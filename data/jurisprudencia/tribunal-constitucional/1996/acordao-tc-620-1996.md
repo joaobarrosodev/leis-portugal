@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:tc:acordao:1996:620
+title: Acórdão do Tribunal Constitucional n.º 620/1996
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: acordao-tribunal-constitucional
+document_type_label: Acórdão do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 620/1996
+official_date: '1996-04-17'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 121/96'
+- 'Espécie: Recurso'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:acordao:1996:620
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/acordaos/19960620.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/acordaos/19960601-0700.html
+  content_url: https://www.tribunalconstitucional.pt/tc/acordaos/19960620.html
+  consolidated_url: null
+  retrieved_at: '2026-11-12T13:55:08Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: 7ce21e6b740e1f8571a71538ee922f877c4eb5965cdb313676e81a0417538474
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc
+  generated_at: '2026-11-12T13:55:08Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T13:55:08Z'
+  warnings: []
+  errors: []
+---
+
+# Acórdão do Tribunal Constitucional n.º 620/1996
+
+Processo nº 121/96 ACÓRDÃO Nº 620/96
+
+1ª Secção
+
+Rel. Cons. Tavares da Costa
+
+Acordam na 1ª Secção do Tribunal Constitucional
+
+Nos presentes autos, em que é recorrente o Hospital Distrital de Tomar, concordando-se com a exposição do relator oportunamente elaborada e pelos fundamentos dos acórdãos deste Tribunal nºs. 760/95 e 761/95, publicados no Diário da República, II Série, de 2 do corrente, decide-se:
+
+a) não julgar inconstitucionais as normas dos artigos 2º, nº 2, alínea a) e 4º do Decreto‑Lei nº 194/92, de 8 de Setembro;
+
+b) conceder provimento ao recurso, devendo a decisão recorrida ser reformulada de acordo com o decidido quanto à questão de constitucionalidade.
+
+Lisboa, 17 de Abril de 1996
+
+Ass) Alberto Tavares da Costa
+
+Armindo Ribeiro Mendes
+
+Vitor Nunes de Almeida
+
+Antero Alves Monteiro Dinis
+
+Maria Fernanda Palma
+
+José Manuel Cardoso da Costa
+
+Processo nº 121/96
+
+1ª Secção
+
+Rel. Cons. Tavares da Costa
+
+Exposição preliminar a que se refere o nº 1 do ar­tigo 78º-A da Lei nº 28/82, de 15 de Novembro.
+
+1.- O Hospital Distrital de Tomar instaurou, no Tribunal Judicial da Comarca de Tomar, execução sob a forma sumá­ia contra a Companhia de Seguros A, com sede em ..., para pagamento da quantia de 25.396$00, acrescidos de juros de mora, à taxa legal, até integral pagamento, devidos por assistência hospitalar prestada a vários sinistrados.
+
+Juntou, para o efeito, a certidão de dívida hospi­talar, emitida nos termos do artigo 2º do Decreto-Lei nº 194/92, de 8 de Setembro, servindo como título executivo.
+
+O Senhor Juiz, no entanto, por despacho de 30 de Outubro de 1995, indeferiu liminarmente a execução, por entender inexistir aquele título, dado considerar materialmente inconstitucionais os artigos 2º, nº 2, alínea a) e 4º do citado diploma legal, face ao disposto no artigo 205º, nº 1, da Constituição da República.
+
+Do assim decidido interpuseram, o Ministério Público e o Hospital Distrital de Tomar, recurso para o Tribunal Constitucional, ao abrigo da alínea a) do nº 1 do artigo 70º da Lei nº 28/82, de 15 de Novembro.
+
+2.- A questão de constitucionalidade normativa do presente recurso já foi objecto de anteriores decisões deste Tri­bunal como ilustram os recentes acórdãos nºs. 760/95 e 761/95, da 2ª Secção, publicados no Diário da República, II Série, de 2 do corrente, neles se tendo decidido, por unanimidade, não enfermarem as citadas normas do apontado vício de inconstitucionalidade.
+
+Assim - e porque à doutrina emanada desses acórdãos se adere - remete-se simplesmente para essa jurisprudência, nos termos do nº 1 do artigo 78º-A da Lei nº 28/82, formulando-se o parecer de não inconstitucionalidade, devendo, consequentemente, conceder-se provimento ao recurso e determinar, oportunamente, a reformulação do decidido em consonância com este entendimento.
+
+Ouçam-se as partes, por 5 dias, nos termos do nº 1 do citado artigo 78º-A.
+
+Alberto Tavares da Costa

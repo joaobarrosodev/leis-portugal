@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:tc:acordao:1996:69
+title: Acórdão do Tribunal Constitucional n.º 69/1996
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: acordao-tribunal-constitucional
+document_type_label: Acórdão do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 69/1996
+official_date: '1996-02-06'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 228/94'
+- 'Espécie: Recurso'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:acordao:1996:69
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/acordaos/19960069.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/acordaos/19960001-0100.html
+  content_url: https://www.tribunalconstitucional.pt/tc/acordaos/19960069.html
+  consolidated_url: null
+  retrieved_at: '2026-11-12T13:48:45Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: 52fd036548ff9706dfbbd9442c55f0b0f3903a01518f3280f57c269c1e51e2ac
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc
+  generated_at: '2026-11-12T13:48:45Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T13:48:45Z'
+  warnings: []
+  errors: []
+---
+
+# Acórdão do Tribunal Constitucional n.º 69/1996
+
+Proc. nº 228/94 ACÓRDÃO Nº 69/96
+
+1ª Secção
+
+Rel. Cons. Monteiro Diniz
+
+Acordam no Tribunal Constitucional:
+
+1 - A Comissão Nacional de Objecção de Consciência, por acórdão de 17 de Novembro de 1993, indeferiu liminarmente a decla­ração de objecção de consciência apresentada por A em virtude de nela não se conter a "declaração expressa da disponibilidade do declarante para cumprir o serviço cívico alternativo" como é exigido pelo artigo 18º, nº 3, alínea d) da Lei nº 7/92, de 12 de Maio.
+
+Contra esta deliberação interpôs o declarante recurso para o Tribunal Administrativo de Círculo de Lisboa suscitando a questão da inconstitucionalidade daquela norma, por violação do disposto nos artigos 41º, nº 6 e 276º, nºs 4 e 5 da Constituição.
+
+Por sentença de 15 de Abril de 1994, foi recusada, com fundamento em inconstitucionalidade, a aplicação da norma da alí­nea d) do nº 3 do artigo 18º da Lei nº 7/92, concedendo-se, conse­quentemente, provimento ao recurso e anulando-se o acto impugnado.
+
+*///*
+
+2 - Em obediência ao disposto nos artigos 280º, nºs 1, alínea a) e 3 da Constituição e 70º, nº 1, alínea a) e 72º, nº 3, da Lei nº 28/82, de 15 de Novembro, na redacção dada pela Lei nº 85/89, de 7 de Setembro, (Lei do Tribunal Constitucional), interpôs o Ministério Público, daquela sen­tença, recurso obrigatório de Constitucionalidade.
+
+Nas alegações entretanto oferecidas pelo senhor Procurador-Geral Adjunto concluiu-se deste modo:
+
+1º - A norma da alínea d) do nº 3 do artigo 18º da Lei nº 7/92, de 12 de Maio (Lei sobre Objecção de Consciência), não enferma de inconstitucionalidade, designadamente por violação dos artigos 18º, nº 2, 41º, nº 6, e 276º, nº 4, da Constitui­ção.
+
+2º - Deve, em consequência, conceder-se provimento ao re­curso e determinar-se a reforma da decisão recorrida, na par­te impugnada.
+
+A recorrida Comissão Nacional de Objecção de Consciência não contralegou.
+
+Passados os vistos de lei cumpre apreciar e decidir.
+
+*///*
+
+3 - Este Tribunal teve já ensejo de apreciar e decidir questão idêntica aquela que nestes autos vem proposta, no acórdão nº 681/95, Diário da República, II Série, de 30 de Janeiro de 1996, tirado em processo que foi levado a plenário nos termos e para os efeitos previstos no artigo 79º-A, nº 1, da Lei do Tribunal Constitucional, aí se concluindo no sentido de a norma da alínea d), do nº 3, do artigo 18º da Lei nº 7/92, de 12 de Maio, não violar qualquer norma ou princípio constitucional, designadamente os artigos 18º, nº 2, 41º, nº 6 e 276º, nº 4, da Constituição.
+
+E assim sendo, cabe agora tão somente remeter para aquela decisão, acolhendo por inteiro a fundamentação que lhe serviu de suporte.
+
+*///*
+
+4 - Nesta conformidade, decide-se:
+
+a) Não julgar inconstitucional a norma da alínea d) do nº 3 do artigo 18º da Lei nº 7/92, de 12 de Maio;
+
+b) Conceder, consequentemente, provimento ao recurso e deter­minar a reforma da decisão recorrida em conformidade com o presen­te julgamento de não inconstitucionalidade.
+
+Lisboa, 6 de Fevereiro de 1996
+
+Ass) Antero Alves Monteiro Dinis
+
+Maria Fernanda Palma
+
+Maria da Assunção Esteves
+
+Alberto Tavares da Costa
+
+Vítor Nunes de Almeida
+
+Armindo Ribeiro Mendes
+
+José Manuel Cardoso da Costa

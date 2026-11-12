@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:tc:acordao:1999:619
+title: Acórdão do Tribunal Constitucional n.º 619/1999
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: acordao-tribunal-constitucional
+document_type_label: Acórdão do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 619/1999
+official_date: '1999-11-10'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 1003/98'
+- 'Espécie: Recurso'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:acordao:1999:619
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/acordaos/19990619.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/acordaos/19990601-0700.html
+  content_url: https://www.tribunalconstitucional.pt/tc/acordaos/19990619.html
+  consolidated_url: null
+  retrieved_at: '2026-11-12T13:21:07Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: 56d1fb8c4b02d2abddf530b91a698ce6ef59d3827994c61032dedcfdb3b1b09f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc
+  generated_at: '2026-11-12T13:21:07Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T13:21:07Z'
+  warnings: []
+  errors: []
+---
+
+# Acórdão do Tribunal Constitucional n.º 619/1999
+
+ACÓRDÃO Nº 619/99
+
+Proc. nº 1003/98
+
+2ª Secção
+
+Rel.: Consª Maria Fernanda Palma
+
+Acordam em Conferência no Tribunal Constitucional
+
+I
+
+1. Nos presentes autos de fiscalização concreta da constitucionalidade, em que figura como recorrente J... e como recorrido o Presidente do Tribunal Central Administrativo, o Tribunal Constitucional proferiu o Acórdão nº 475/99, no qual decidiu não tomar conhecimento do objecto do recurso relativamente às normas dos artigos 123º, nº 2, alínea d), 124º, alíneas a), b) e c), e 125º, nºs 1 e 2, do Código do Procedimento Administrativo, e 16º, 18º, 37º, 38º e 99º, nº 1, alínea g), do Decreto-Lei nº 129/84, de 27 de Abril, em virtude de não se verificarem os pressupostos processuais do recurso interposto. O Tribunal decidiu, porém, tomar conhecimento do objecto do recurso relativamente às normas dos artigos 116º, nº 1, do Decreto-Lei nº 129/84, de 27 de Abril, na redacção do Decreto-Lei nº 229/96, de 29 de Novembro, e 17º, nº 1, alínea g), da Lei nº 21/85, de 30 de Julho, na redacção da Lei nº 10/94, de 5 de Maio, não julgando inconstitucionais tais normas.
+
+2. O recorrente vem agora arguir a nulidade do Acórdão nº 475/99, na parte em que não tomou conhecimento do objecto do recurso, uma vez que não foi ouvido sobre tal questão, nos termos dos artigos 3º, nºs 2 e 3, e 704º, nº 1, do Código de Processo Civil.
+
+II
+
+3. O Tribunal Constitucional decidiu não tomar conhecimento de parte do objecto do recurso interposto, em virtude de não se verificarem, em relação às normas não apreciadas, os respectivos pressupostos processuais, nomeadamente por não ter sido suscitada durante o processo a respectiva questão de constitucionalidade normativa.
+
+Ora, o recorrente, nas alegações apresentadas, pronunciou-se expressamente sobre tal questão nos nºs 58 e ss. Com efeito, como que suscitando uma questão prévia à qual deu de imediato resposta, o recorrente afrontou expressamente o problema (que, implicitamente, se lhe afigurou duvidoso, ou, pelo menos, discutível) da verificação, in casu, do pressuposto processual do recurso da alínea b) do nº 1 do artigo 70º da Lei do Tribunal Constitucional, consistente na suscitação durante o processo da questão de constitucionalidade normativa, sustentando então uma interpretação contrária ao entendimento unânime e pacífico do Tribunal Constitucional sobre tal matéria.
+
+Uma vez que a opinião do recorrente já constava dos autos, de modo claro e preciso, afigurou-se manifestamente desnecessário (artigo 3º, nº 3, do Código de Processo Civil) ouvi-lo de novo sobre a verificação, no caso concreto, dos pressupostos processuais de recurso de constitucionalidade.
+
+Assim, não ocorreu qualquer violação do princípio do contraditório, uma vez que o recorrente se pronunciou sobre todas as questões relevantes para a decisão tomada no Acórdão nº 475/99. A audição de novo do recorrente sobre a questão acerca da qual já se havia pronunciado, ainda que antecipadamente, consubstanciaria um acto inútil e, portanto, desnecessário.
+
+Não procede, pois, a alegada nulidade.
+
+III
+
+4. Em face do exposto, O Tribunal Constitucional decide indeferir a presente arguição de nulidade, confirmando consequentemente o Acórdão nº 475/99.
+
+Custas pelo recorrente, fixando-se a taxa de justiça em 10 UCs.
+
+Lisboa, 10 de Novembro de 1999
+
+Maria Fernanda Palma
+
+Guilherme da Fonseca
+
+Bravo Serra
+
+Paulo Mota Pinto
+
+Luís Nunes de Almeida

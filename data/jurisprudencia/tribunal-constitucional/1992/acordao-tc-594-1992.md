@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:tc:acordao:1992:594
+title: Acórdão do Tribunal Constitucional n.º 594/1992
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: acordao-tribunal-constitucional
+document_type_label: Acórdão do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 594/1992
+official_date: '1992-12-15'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 288/92'
+- 'Espécie: Recurso'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:acordao:1992:594
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/acordaos/19920594.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/acordaos/19920501-0600.html
+  content_url: https://www.tribunalconstitucional.pt/tc/acordaos/19920594.html
+  consolidated_url: null
+  retrieved_at: '2026-11-12T10:14:23Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: cbdcc18b3f2387219faf279d23bd148b7335be081f77be2b3eb253a31fda59e6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc
+  generated_at: '2026-11-12T10:14:23Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T10:14:23Z'
+  warnings: []
+  errors: []
+---
+
+# Acórdão do Tribunal Constitucional n.º 594/1992
+
+ACÓRDÃO N.° 594/92
+
+Processo n.º 288/92
+
+2.ª Secção
+
+Relator: Conselheiro Alves Correia
+
+Acordam na 2ª Secção do Tribunal Constitucional:
+
+Nestes autos de recurso, vindos do Tribunal Tributário de 1ª Instância de Lisboa, sendo recorrente o Ministério Público e recorrida A., Lda, - pelos fundamentos do acórdão n.º 331/92, publicado no Diário da República, II Série, de 14 de Novembro de 1992.
+
+Decide-se:
+
+a) Não julgar inconstitucional a norma constante do n.º 1 do artigo 9.º do Decreto-Lei n.º 154/91, de 23 de Abril (por si ou conjugado com o n.º 2 do mesmo artigo);
+
+b) Revogar a decisão recorrida e, em consequência, ordenar que a mesma seja reformada em conformidade com o aqui decidido sobre a questão de constitucionalidade.
+
+Lisboa, 17 de Dezembro de 1992
+
+Fernando Alves Correia
+
+Bravo Serra
+
+Messias Bento
+
+Luís Nunes de Almeida
+
+Mário de Brito
+
+José Manuel Cardoso da Costa
