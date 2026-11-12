@@ -1,0 +1,65 @@
+{
+ "id": "pt:dre:609283:por",
+ "substituicoes": [
+  {
+   "de": 444,
+   "ate": 444,
+   "texto": "2 - As áreas de estruturação urbanística integradas na estrutura verde da cidade regulam-se pelo disposto no número seguinte, sendo os parâmetros previstos nas alíneas a) e b) aplicados à totalidade da área.\n\n3 - As restantes áreas que integram a estrutura verde da cidade ficam sujeitas às seguintes condições:",
+   "alterador": 3
+  },
+  {
+   "de": 787,
+   "ate": 789,
+   "texto": "As áreas consolidadas industriais destinam-se a ser ocupadas predominantemente com estabelecimentos industriais, podendo integrar superfícies comerciais, serviços, habitação e equipamentos colectivos.",
+   "alterador": 4
+  },
+  {
+   "de": 791,
+   "ate": 791,
+   "texto": "1 - Nas áreas consolidadas industriais admite-se a renovação do tecido e das edificações existentes com base em plano de pormenor ou operação de loteamento, em conformidade com as seguintes regras, salvo o disposto no número seguinte:",
+   "alterador": 4
+  },
+  {
+   "de": 794,
+   "ate": 797,
+   "texto": "c) Devem ser preservados elementos de património industrial constantes da carta municipal do património e, na falta desta, os identificados através de vistoria a realizar pela estrutura consultiva criada nos termos do n.º 2 do artigo 4.º;\n\nd) O disposto no capítulo III do presente título referente a rede viária, estacionamento e garagens.\n\n2 - No caso de parcelas ocupadas com edifícios onde a superfície de pavimento já corresponde a um IUL igual ou superior a 0,7 ou cujo processo de renovação urbana seja de interesse urbanístico para um melhor ordenamento da zona, nomeadamente nos aspectos ambiental, funcional e de circulação e estacionamento, o IUB fixado no número anterior pode ser aumentado até um máximo de 25% pela Câmara Municipal, podendo nestes casos a cércea máxima atingir, pontualmente, os 20 m.",
+   "alterador": 4
+  },
+  {
+   "de": 799,
+   "ate": 804,
+   "texto": "Nas áreas consolidadas industriais, na falta de planos ou dos loteamentos referidos no artigo anterior, apenas são permitidas obras de beneficiação, restauro, reabilitação, remodelação ou ampliação, bem como obras de construção, nas seguintes condições:\n\na) IUL máximo - 0,7;\n\nb) IO - 60%;\n\nc) Cércea máxima - 9 m;\n\nd) Devem ser preservados elementos de património industrial constantes da carta municipal do património e, na falta desta, os identificados através de vistoria a realizar pela estrutura consultiva criada nos termos do n.º 2 do artigo 4.º",
+   "alterador": 4
+  },
+  {
+   "de": 856,
+   "ate": 856,
+   "texto": "3 - Poderão excepcionalmente, por deliberação da Câmara Municipal, ser autorizados loteamentos e obras novas que não estejam abrangidos pelo número anterior, com ou sem mudança de uso, quando os mesmos forem considerados de interesse urbanístico, social ou económico e desde que não seja posta em causa a reestruturação urbanística da área, devendo o loteamento, a obra ou os novos usos ser compatíveis com a categoria de espaço onde se localizam.",
+   "alterador": 4
+  },
+  {
+   "de": 873,
+   "ate": 873,
+   "texto": "1 - Na falta dos planos referidos no artigo anterior, aplicam-se à remodelação, ampliação e obras novas de edifícios bem como às operações de loteamento nas áreas de reconversão urbanística de usos mistos as regras supletivas constantes do artigo 75.º",
+   "alterador": 4
+  }
+ ],
+ "insercoes": [
+  {
+   "depois_de": 828,
+   "texto": "d) Nas UOPG 17 - Parque periférico e 26 - Galinheiras, podem ser autorizados loteamentos de parcelas independentemente da sua área, se a Câmara Municipal considerar que não é prejudicada a adequada estruturação urbanística.",
+   "alterador": 3
+  }
+ ],
+ "nao_aplicavel": "Não textuais (não aplicadas): alterador 1 (DL 98/99) medidas preventivas e suspensão do PDM numa área; alteradores 2 (Decl. 257/2003) e 5 (RCM 20/2004) só alteram a planta de ordenamento (em imagem); alterador 3 também altera plantas (só em imagem); alterador 6 (RCM 69/2005, PP Artilharia Um) altera o PDM só na área do plano; alteradores 7, 8, 11, 12, 13, 14 (RCM 121/2008, 145-A/2008, 52/2009, 51/2009, 106/2009, 68/2010) suspendem artigos numa área e por prazo; alteradores 9 e 10 (RCM 153/2008, 192/2008) suspensão parcial e medidas preventivas; alterador 15 (Aviso 10052/2011, PP Amoreiras, art. 24.º) altera normas de estacionamento só na área de intervenção; alterador 16 (Aviso 1309/2012, PP Aterro da Boavista Nascente) revoga artigos 7.º, 13.º (imóvel 49.45), 76.º n.º 1 c), 106.º, 107.º, 109.º e 120.º n.os 2 e 3 só na área de intervenção do plano.",
+ "instrucoes": [
+  "Alt. 3 (RCM 104/2003): art. 19.º, novo n.º 2 e antigo n.º 2 passa a n.º 3 — substituída a unidade 444 pelos n.os 2 e 3.",
+  "Alt. 3: art. 70.º, aditada alínea d) — inserida depois da unidade 828.",
+  "Alt. 3: alteração das plantas de ordenamento — só em imagem, não aplicada.",
+  "Alt. 4 (Decl. 51/2004): art. 64.º nova redação do corpo — unidades 787-789.",
+  "Alt. 4: art. 65.º n.º 1 corpo nova redação (791); alínea c) eliminada, d) e e) passam a c) e d), n.º 2 nova redação (794-797).",
+  "Alt. 4: art. 66.º corpo nova redação, alínea a) eliminada, b) a e) passam a a) a d) (799-804).",
+  "Alt. 4: art. 75.º n.º 3 nova redação (856); art. 77.º n.º 1 nova redação (873).",
+  "Alts. 1, 2, 5-16: suspensões, medidas preventivas, alterações de planta e derrogações/revogações limitadas à área de planos de pormenor — não textuais, ver nao_aplicavel."
+ ]
+}

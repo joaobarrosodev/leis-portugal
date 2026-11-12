@@ -1,0 +1,141 @@
+{
+  "id": "pt:dre:609283:por",
+  "substituicoes": [
+    {
+      "de": 444,
+      "ate": 444,
+      "texto": "2 - As áreas de estruturação urbanística integradas na estrutura verde da cidade regulam-se pelo disposto no número seguinte, sendo os parâmetros previstos nas alíneas a) e b) aplicados à totalidade da área.\n\n3 - As restantes áreas que integram a estrutura verde da cidade ficam sujeitas às seguintes condições:",
+      "alterador": [
+        3
+      ]
+    },
+    {
+      "de": 787,
+      "ate": 789,
+      "texto": "As áreas consolidadas industriais destinam-se a ser ocupadas predominantemente com estabelecimentos industriais, podendo integrar superfícies comerciais, serviços, habitação e equipamentos colectivos.",
+      "alterador": [
+        4
+      ]
+    },
+    {
+      "de": 791,
+      "ate": 791,
+      "texto": "1 - Nas áreas consolidadas industriais admite-se a renovação do tecido e das edificações existentes com base em plano de pormenor ou operação de loteamento, em conformidade com as seguintes regras, salvo o disposto no número seguinte:",
+      "alterador": [
+        4
+      ]
+    },
+    {
+      "de": 794,
+      "ate": 797,
+      "texto": "c) Devem ser preservados elementos de património industrial constantes da carta municipal do património e, na falta desta, os identificados através de vistoria a realizar pela estrutura consultiva criada nos termos do n.º 2 do artigo 4.º;\n\nd) O disposto no capítulo III do presente título referente a rede viária, estacionamento e garagens.\n\n2 - No caso de parcelas ocupadas com edifícios onde a superfície de pavimento já corresponde a um IUL igual ou superior a 0,7 ou cujo processo de renovação urbana seja de interesse urbanístico para um melhor ordenamento da zona, nomeadamente nos aspectos ambiental, funcional e de circulação e estacionamento, o IUB fixado no número anterior pode ser aumentado até um máximo de 25% pela Câmara Municipal, podendo nestes casos a cércea máxima atingir, pontualmente, os 20 m.",
+      "alterador": [
+        4
+      ]
+    },
+    {
+      "de": 799,
+      "ate": 804,
+      "texto": "Nas áreas consolidadas industriais, na falta de planos ou dos loteamentos referidos no artigo anterior, apenas são permitidas obras de beneficiação, restauro, reabilitação, remodelação ou ampliação, bem como obras de construção, nas seguintes condições:\n\na) IUL máximo - 0,7;\n\nb) IO - 60%;\n\nc) Cércea máxima - 9 m;\n\nd) Devem ser preservados elementos de património industrial constantes da carta municipal do património e, na falta desta, os identificados através de vistoria a realizar pela estrutura consultiva criada nos termos do n.º 2 do artigo 4.º",
+      "alterador": [
+        4
+      ]
+    },
+    {
+      "de": 856,
+      "ate": 856,
+      "texto": "3 - Poderão excepcionalmente, por deliberação da Câmara Municipal, ser autorizados loteamentos e obras novas que não estejam abrangidos pelo número anterior, com ou sem mudança de uso, quando os mesmos forem considerados de interesse urbanístico, social ou económico e desde que não seja posta em causa a reestruturação urbanística da área, devendo o loteamento, a obra ou os novos usos ser compatíveis com a categoria de espaço onde se localizam.",
+      "alterador": [
+        4
+      ]
+    },
+    {
+      "de": 873,
+      "ate": 873,
+      "texto": "1 - Na falta dos planos referidos no artigo anterior, aplicam-se à remodelação, ampliação e obras novas de edifícios bem como às operações de loteamento nas áreas de reconversão urbanística de usos mistos as regras supletivas constantes do artigo 75.º",
+      "alterador": [
+        4
+      ]
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 828,
+      "texto": "d) Nas UOPG 17 - Parque periférico e 26 - Galinheiras, podem ser autorizados loteamentos de parcelas independentemente da sua área, se a Câmara Municipal considerar que não é prejudicada a adequada estruturação urbanística.",
+      "alterador": [
+        3
+      ]
+    }
+  ],
+  "nao_aplicavel": "passagem 1: Não textuais (não aplicadas): alterador 1 (DL 98/99) medidas preventivas e suspensão do PDM numa área; alteradores 2 (Decl. 257/2003) e 5 (RCM 20/2004) só alteram a planta de ordenamento (em imagem); alterador 3 também altera plantas (só em imagem); alterador 6 (RCM 69/2005, PP Artilharia Um) altera o PDM só na área do plano; alteradores 7, 8, 11, 12, 13, 14 (RCM 121/2008, 145-A/2008, 52/2009, 51/2009, 106/2009, 68/2010) suspendem artigos numa área e por prazo; alteradores 9 e 10 (RCM 153/2008, 192/2008) suspensão parcial e medidas preventivas; alterador 15 (Aviso 10052/2011, PP Amoreiras, art. 24.º) altera normas de estacionamento só na área de intervenção; alterador 16 (Aviso 1309/2012, PP Aterro da Boavista Nascente) revoga artigos 7.º, 13.º (imóvel 49.45), 76.º n.º 1 c), 106.º, 107.º, 109.º e 120.º n.os 2 e 3 só na área de intervenção do plano. | passagem 2: Nenhum dos alteradores 17 a 28 traz alteração textual aplicável ao regulamento do PDM de 1994. Alterador 17 (Aviso n.º 5611/2012, PP do Parque Mayer): o art. 26.º do regulamento do plano e o ponto 2 da proposta revogam, só na área de intervenção do plano e em matéria de estacionamento, prescrições dos arts. 105.º a 107.º, 109.º, 115.º n.º 1 (e 106.º a 117.º) do Regulamento do PDM, e as qualificações da Planta de Ordenamento nessa área: revogação limitada a uma área, não textual. Alterador 18 (Aviso n.º 11622/2012): o pedido não traz texto, mas o alterador 19 identifica-o como o Plano Diretor Municipal de Lisboa aprovado pela Assembleia Municipal em 24 de julho de 2012 e publicado no DR, 2.ª série, n.º 168, de 30 de agosto de 2012, ou seja, a REVISÃO do PDM, que aprova um regulamento novo que substitui por inteiro o da RCM 94/94; como o texto não vem no pedido, não se pôde confirmar a norma revogatória nem aplicar nada (o original deve ser tratado como substituído/revogado por inteiro a partir dessa revisão). Alteradores 19 a 28 (PP Alvalade XXI, Aviso 9948/2013 sem texto, alterações simplificadas de 2014, 2017 e 2019, PU de Alcântara, PP da Pedreira do Alvito, normas provisórias do PP do Aterro da Boavista Nascente e sua correção material, Declaração 70/2020 sem texto) são posteriores à revisão e dirigem-se ao PDM revisto de 2012 (artigos 75.º, 76.º, 42.º, 43.º, 50.º desse regulamento, Planta de Qualificação do Espaço Urbano), ou a outros planos; além disso são derrogações localizadas ou alterações só de planta: nada a aplicar ao texto de 1994.",
+  "instrucoes": [
+    "Alt. 3 (RCM 104/2003): art. 19.º, novo n.º 2 e antigo n.º 2 passa a n.º 3 — substituída a unidade 444 pelos n.os 2 e 3.",
+    "Alt. 3: art. 70.º, aditada alínea d) — inserida depois da unidade 828.",
+    "Alt. 3: alteração das plantas de ordenamento — só em imagem, não aplicada.",
+    "Alt. 4 (Decl. 51/2004): art. 64.º nova redação do corpo — unidades 787-789.",
+    "Alt. 4: art. 65.º n.º 1 corpo nova redação (791); alínea c) eliminada, d) e e) passam a c) e d), n.º 2 nova redação (794-797).",
+    "Alt. 4: art. 66.º corpo nova redação, alínea a) eliminada, b) a e) passam a a) a d) (799-804).",
+    "Alt. 4: art. 75.º n.º 3 nova redação (856); art. 77.º n.º 1 nova redação (873).",
+    "Alts. 1, 2, 5-16: suspensões, medidas preventivas, alterações de planta e derrogações/revogações limitadas à área de planos de pormenor — não textuais, ver nao_aplicavel.",
+    "Alterador 17 (Aviso n.º 5611/2012): revogação, na área do PP do Parque Mayer, das prescrições de estacionamento (arts. 105.º-107.º, 109.º, 115.º n.º 1; e 106.º a 117.º em matéria de estacionamento) e das qualificações da Planta de Ordenamento; limitada à área, não aplicada ao texto.",
+    "Alterador 18 (Aviso n.º 11622/2012): sem texto no pedido; é a revisão do PDM de Lisboa (publicada no DR, 2.ª série, n.º 168, de 30-08-2012, como refere o alterador 19), que aprova regulamento novo e substitui por inteiro o de 1994; nada aplicado por falta do texto, assinalado em nao_aplicavel.",
+    "Alterador 19 (Aviso n.º 5763/2013, PP Alvalade XXI): revoga na área do plano os arts. 75.º e 76.º do PDM aprovado em 24-07-2012 (o revisto), não o de 1994; não aplicado.",
+    "Alterador 20 (Aviso n.º 9948/2013): sem texto dirigido ao original no pedido; nada a fazer.",
+    "Alterador 21 (Aviso n.º 5804/2014): alteração simplificada do PDM revisto, só na Planta de Qualificação do Espaço Urbano (imóveis militares); não textual; não aplicado.",
+    "Alterador 22 (Aviso n.º 2026/2015, PU de Alcântara): art. 63.º revoga na área do PU disposições dos arts. 42.º e 43.º do PDM em vigor (o revisto); derrogação localizada; não aplicado.",
+    "Alterador 23 (Aviso n.º 1600/2016, PP da Pedreira do Alvito): art. 36.º deixa de aplicar na área o art. 50.º do PDM de Lisboa em vigor (o revisto); derrogação localizada; não aplicado.",
+    "Alterador 24 (Aviso n.º 9116/2017): normas provisórias do PP do Aterro da Boavista Nascente; não altera o PDM; não aplicado.",
+    "Alterador 25 (Aviso n.º 9444/2017): alteração simplificada do PDM revisto, só de planta (Manutenção Militar); não aplicado.",
+    "Alterador 26 (Declaração n.º 4/2018): correção material dos quadros das normas provisórias do PP do Aterro da Boavista Nascente; não é dirigida ao PDM; não aplicado.",
+    "Alterador 27 (Aviso n.º 15928/2019): alteração simplificada do PDM revisto, só de planta (Cerca do Convento da Estrela); não aplicado.",
+    "Alterador 28 (Declaração n.º 70/2020): sem texto dirigido ao original no pedido; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "chars": 191671,
+      "texto_em_ficheiro": true
+    },
+    {
+      "n": 2,
+      "alteradores": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "chars": 209146,
+      "texto_em_ficheiro": true
+    }
+  ],
+  "problemas": [],
+  "avisos": []
+}
