@@ -126,9 +126,13 @@ _SECTION = re.compile(r"^(?:Word)?Section\d+$")
 def judgment_markdown(page: str) -> str:
     """O texto do acórdão (as secções Word da página), em parágrafos.
 
-    As páginas recentes têm `div.WordSection1`; as anteriores a 2013, `div.Section1`."""
+    As páginas recentes têm `div.WordSection1`; as anteriores a 2013, `div.Section1`; algumas,
+    só o documento dentro de `div#acimport`."""
     soup = BeautifulSoup(page, "html.parser")
     sections = soup.find_all("div", class_=_SECTION)
+    if not sections:
+        # Algumas páginas trazem o documento Word inteiro dentro de #acimport, sem secções.
+        sections = [node for node in soup.select("#acimport") if node.find("p")]
     if not sections:
         raise NoSourceText("Página sem o texto do acórdão (sem secções WordSection nem Section).")
     paragraphs: list[str] = []

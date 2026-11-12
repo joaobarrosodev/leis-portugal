@@ -213,6 +213,9 @@ def test_tc_judgment_text_from_older_pages_with_section_divs():
         "<p>ACÓRDÃO N.º 2/86</p><p>Acordam no Tribunal Constitucional:</p></div></div></body></html>"
     )
     assert tc.judgment_markdown(page) == "ACÓRDÃO N.º 2/86\n\nAcordam no Tribunal Constitucional:"
+    # Algumas trazem o documento inteiro dentro de #acimport, sem secções.
+    page = page.replace('<div class="Section1">', "<div>")
+    assert tc.judgment_markdown(page) == "ACÓRDÃO N.º 2/86\n\nAcordam no Tribunal Constitucional:"
 
 
 def test_tc_decode_falls_back_to_windows_1252():
