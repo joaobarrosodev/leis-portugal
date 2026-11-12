@@ -79,6 +79,35 @@ class Consulta:
     pesquisa_por: str | None = None  # a consulta reescrita (rag.reescrita), quando difere da pergunta
 
 
+_TIPOS_UE = {"regulation", "directive", "decision"}
+
+
+def _numeros_ue(numero: str) -> list[str]:
+    """As formas "ano/número" com que um ato da UE pode estar no índice, a partir da citação.
+
+    O índice guarda "1994/631" e "2025/2180"; as perguntas citam "Decisão 94/631" (ano primeiro, com
+    dois algarismos), "Regulamento (CE) n.º 195/98" (número primeiro) ou "(UE) 2025/2180" (ano primeiro).
+    Devolve a forma citada e as formas ano/número possíveis, com os anos de dois algarismos por extenso."""
+    formas = [numero]
+    partes = numero.split("/")
+    if len(partes) != 2 or not all(p.isdigit() for p in partes):
+        return formas
+
+    def ano(texto: str) -> str | None:
+        if len(texto) == 4 and 1950 <= int(texto) <= 2099:
+            return texto
+        if len(texto) == 2:
+            return ("19" if int(texto) >= 50 else "20") + texto
+        return None
+
+    a, b = partes
+    for possivel_ano, num in ((a, b), (b, a)):
+        completo = ano(possivel_ano)
+        if completo:
+            formas.append(f"{completo}/{int(num)}")
+    return list(dict.fromkeys(formas))
+
+
 class Pesquisa:
     def __init__(self, caminho: Path | None = None, *, reranker=None, candidatos: int = 100, codigos_candidatos: int = CODIGOS_CANDIDATOS):
         caminho = caminho or PASTA_INDICE / "indice.sqlite"
@@ -131,7 +160,11 @@ class Pesquisa:
     # ------------------------------------------------------------------ referências exatas
 
     def diplomas(self, tipo: str, numero: str) -> list[str]:
-        return [linha[0] for linha in self.con.execute("SELECT id FROM documentos WHERE tipo = ? AND numero = ? ORDER BY data", (tipo, numero))]
+        numeros = _numeros_ue(numero) if tipo in _TIPOS_UE else [numero]
+        marcas = ",".join("?" * len(numeros))
+        return [linha[0] for linha in self.con.execute(
+            f"SELECT id FROM documentos WHERE tipo = ? AND numero IN ({marcas}) ORDER BY data", (tipo, *numeros)
+        )]
 
     def codigos(self) -> dict[str, list[tuple[str, str]]]:
         """Nome normalizado de cada anexo (ou diploma) → [(documento, parte)], para resolver "Código do IRS"."""

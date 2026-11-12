@@ -244,6 +244,17 @@ Pelo critério das palavras fica igual ao que era sem reescrita (95% contra 94%)
 
 Quando responde a uma pergunta sobre um ato da UE, acerta em pelo menos 96% (pior caso, 95% de confiança). Responde a 73% das que têm resposta. A pesquisa encontra o artigo certo em 1.º lugar em 98% das literais; os 26% de "não sei" vêm do limiar do reranker (3,0), que nas perguntas da UE deixa de fora artigos certos. As revogadas certas pelos juízes e não pelo critério de palavras (7 de 12) foram lidas à mão: dizem que o ato foi revogado e por qual, como a referência, mas com a data de adoção do revogador em vez da de publicação. Ressalvas: as perguntas citam o ato (são "bem feitas", como as sintéticas de Portugal); 76 perguntas sobre a data de entrada em vigor ou de aplicação foram retiradas por serem triviais; os juízes são o mesmo modelo e não deram nenhum erro em 103, o que é pouco escrutínio; sem jurista.
 
+**UE, depois de corrigir a procura dos atos citados** (12/11/2026, `ue-reescrito-2`): 39 dos 42 "não sei" acima vinham de uma regra e não do limiar. O índice guarda os atos da UE como "ano/número" ("1994/631", "2025/2180"), mas a citação extraída da pergunta saía "631/94" ou "2180/2025"; o sistema dava o ato como "não está no acervo" e recusava, mesmo com o artigo certo em 1.º lugar (35 dos 39). `Pesquisa.diplomas` passa a procurar as formas ano/número possíveis de um regulamento, diretiva ou decisão (`_numeros_ue`, com teste). Medidas de novo as 64 perguntas afetadas (as 39 e as 25 sem resposta, porque 12 destas citam um ato que existe e passava a ser encontrado):
+
+| Tipo | n | "Não sei" | Fiabilidade (juízes) | Limite inferior 95% |
+|---|--:|--:|--:|--:|
+| Literais | 123 | 0% | 100% (123/123) | 97% |
+| Revogadas | 19 | 0% | 100% (19/19) | 83% |
+| Sem resposta | 25 | recusa 25 de 25 | — | — |
+| Total com resposta | 142 | **0%** | **100% (142/142)** | **97%** |
+
+As 103 respostas da medição anterior não mudam (as perguntas não estão entre as 64) e somam-se às 39 novas. As 7 revogadas que o critério de palavras dá como erradas foram lidas à mão: dizem a revogação e o ato revogador, e explicam também o que a norma dizia. Das perguntas de Portugal, só 2 citam atos da UE: as medições de Portugal não mudam de forma relevante. Ressalvas iguais às de cima: perguntas que citam o ato, juízes do mesmo modelo, sem jurista.
+
 **Perguntas como as escreve um utilizador** (30/10/2026, `coloquial`): as 281 reais reescritas, com a mesma resposta certa, em três perfis (pessoa de 65 anos, jovem de 22, pessoa aflita com um caso): pouco contexto, sem termos jurídicos, sem números de artigos. Quatro juízes às cegas.
 
 | Medida | Reais bem escritas | Mesmas, coloquiais |

@@ -478,7 +478,7 @@ Todos os acórdãos recolhidos têm texto. O que falta (2021, n.º 652) não tem
 | Portugal, a citar o diploma (407 sintéticas) | 100% | 99% | 99% |
 | Portugal, escritas como fala uma pessoa comum (281) | 95% | 91% | 81% |
 | Portugal, diplomas alterados (99) | 98% | 88% | 43% |
-| União Europeia, a citar o ato (142 com resposta) | 100% | 96% | 73% |
+| União Europeia, a citar o ato (142 com resposta) | 100% | 97% | 100% |
 
 "Responde a" é a parte das perguntas com resposta a que o sistema responde; nas outras diz "não sei". Todas as medições usam a reescrita da pergunta em consulta jurídica (menos a de diplomas alterados) e foram feitas com sessões do Claude, não com a API.
 

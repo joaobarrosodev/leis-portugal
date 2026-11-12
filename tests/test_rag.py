@@ -98,3 +98,13 @@ def test_pesquisar_reescrito_guarda_a_pergunta_original():
     assert c.pesquisa_por == "Requisitos da fatura como documento de transporte"
     igual = reescrita.pesquisar(Pesquisa(), "Quantos dias de férias?", "2026-11-10", k=10, consulta="Quantos dias de férias?")
     assert igual.pesquisa_por is None
+
+
+def test_numeros_ue_aceita_as_formas_de_citar_atos_da_ue():
+    from rag.pesquisa import _numeros_ue
+
+    assert "1994/631" in _numeros_ue("631/94")  # Decisão 94/631
+    assert "1998/195" in _numeros_ue("98/195")  # Regulamento (CE) n.º 195/98
+    assert "2025/2180" in _numeros_ue("2180/2025")  # Regulamento (UE) 2025/2180
+    assert _numeros_ue("2025/2180") == ["2025/2180"]
+    assert _numeros_ue("13-A/2010") == ["13-A/2010"]
