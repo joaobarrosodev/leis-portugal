@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 7",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Marinha (M);\n\nEngenheiros navais (EN);\n\nAdministração naval (AN);",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:552328:por",
+    "alterador": "pt:dre:299471:por"
+  }
+]

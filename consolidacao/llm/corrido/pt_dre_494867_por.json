@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:494867:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "O Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), e o Sindicato dos Trabalhadores e Técnicos de Serviços, Comércio, Restauração e Turismo (SITESE), adotam o Protocolo que criou o Centro de Formação Profissional, de harmonia com as cláusulas seguintes:",
+      "alterador": 2
+    },
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "O Centro tem a sua sede em Lisboa e pode criar as delegações que se mostrarem comprovadamente necessárias.",
+      "alterador": 1
+    },
+    {
+      "de": 165,
+      "ate": 166,
+      "texto": "2 - A cobertura das despesas de funcionamento do Centro, a suportar pelo IEFP, não poderá exceder 95%, competindo ao SITESE assumir a restante comparticipação.\n\n3 - Para as acções de formação profissional a desenvolver no Centro e que o IEFP considere elegíveis para apresentação ao Fundo Social Europeu ou de interesse nacional, a comparticipação do IEFP será de molde a cobrir a totalidade das despesas de funcionamento co-financiadas por aquele Fundo Comunitário, deduzidas eventuais receitas das acções.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 26/94: nova redação da cláusula V (sede); substituída a unidade 36.",
+    "Portaria 26/94: nova redação da cláusula XXIII; só mudam os n.os 2 (85% -> 95%) e 3 (Fundo Comunitário); substituídas as unidades 165-166, n.os 1, 4 e 5 iguais.",
+    "Portaria 199/2017: nova redação do texto introdutório; substituída a unidade 15."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

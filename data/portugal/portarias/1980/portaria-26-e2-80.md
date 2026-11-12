@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-06-06'
+version_history:
+  file: portaria-26-e2-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-01-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-06-06'
+    amending: pt:dre:451782:por
+    amending_title: Portaria n.º 646/83; Portaria n.º 646/83
+    changes:
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:15:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 646/83; Portaria n.º
+    646/83. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-26-e2-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,7 +140,9 @@ Prazo máximo das operações - Quinze anos.
 
 Plano de reembolso - Prestações semestrais, iguais e sucessivas, com três anos de carência no máximo.
 
-Comissão - 1,5% ao ano.
+Comissão - 3% ao ano.
+
+> Alterado pelo/a [Portaria n.º 646/83](https://diariodarepublica.pt/dr/detalhe/portaria/646-1983-451782), publicado em 1983-06-06.
 
 Garantias - Garantia real e ou pessoal, a decidir pela Parempresa.
 

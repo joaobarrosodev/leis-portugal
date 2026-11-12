@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Comissão - 1,5% ao ano.",
+    "depois": "Comissão - 3% ao ano.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:508605:por",
+    "alterador": "pt:dre:451782:por"
+  }
+]

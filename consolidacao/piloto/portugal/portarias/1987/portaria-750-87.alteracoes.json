@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O Instituto do Emprego e Formação Profissional (IEFP), a Associação Portuguesa de Cerâmica (APC) e a Associação Industrial da Região Oeste (AIRO) adaptam o protocolo que criou o Centro de Formação Profissional de harmonia com as cláusulas seguintes:",
+    "depois": "O Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), a Associação Portuguesa das Indústrias de Cerâmica e de Cristalaria (APICER) e a Associação Empresarial da Região Oeste (AIRO) adotam o Protocolo que criou o Centro de Formação Profissional, de harmonia com as cláusulas seguintes:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:494851:por",
+    "alterador": "pt:dre:107002719:por"
+  },
+  {
+    "artigo": "unidades 27-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Aos empresários e trabalhadores das empresas associadas da APC e da AIRO;",
+    "depois": "a) Aos empresários e trabalhadores das empresas associadas da APICER e da AIRO;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:494851:por",
+    "alterador": "pt:dre:107002719:por"
+  }
+]

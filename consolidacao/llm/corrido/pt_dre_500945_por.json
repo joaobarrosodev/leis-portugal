@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:500945:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "Art. 3.º O prémio será atribuído ao aluno distinto da Faculdade de Ciências da Universidade do Porto que obtiver mais elevada classificação nas disciplinas de Análise Superior I e Análise Superior II e que revelar aptidões para a investigação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 246/80: nova redação do art. 3.º do Regulamento; corpo substituído (unidade 7); § único com '...' mantém-se."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

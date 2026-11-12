@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:521632:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1371/95 manda criar um lugar de motorista no n.º 6 sem dar nova redação; é alteração não textual e o texto novo teria de ser inventado.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 1371/95): altera o n.º 6 para criar um lugar de motorista, sem nova redação; não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

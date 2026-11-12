@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:572078:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 2 do artigo 11.º da Portaria n.º 1380/2009 revoga a Portaria n.º 745/2000 por inteiro, com efeitos a partir da entrada em vigor dos despachos dos Chefes do Estado-Maior que aprovam os novos planos de estudos; é revogação total do diploma, sem alterações textuais a aplicar.",
+  "instrucoes": [
+    "Portaria 1380/2009, art. 11.º, n.º 2: revoga a Portaria n.º 745/2000 (revogação total, diferida para a entrada em vigor dos despachos dos CEM) — não devolvidas alterações, indicado em nao_aplicavel.",
+    "Portaria 1380/2009, art. 11.º, n.º 1: revoga a Portaria n.º 162/99 e normas contrárias — outro diploma / revogação condicional, ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

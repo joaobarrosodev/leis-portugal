@@ -1,0 +1,62 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:552328:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-11-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5f428dc3ba653432"
+   ]
+  },
+  {
+   "date": "1994-07-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:299471:por",
+     "title": "Portaria n.º 656/94",
+     "published": "1994-07-19",
+     "dre_path": "/dr/detalhe/portaria/656-1994-299471"
+    },
+    {
+     "id": "pt:dre:299471:por",
+     "title": "Portaria n.º 656/94",
+     "published": "1994-07-19",
+     "dre_path": "/dr/detalhe/portaria/656-1994-299471"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 7"
+   ],
+   "fragments": [
+    "f8b36216a0872a8a"
+   ]
+  }
+ ],
+ "fragments": {
+  "5f428dc3ba653432": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Novembro\n\nEstando criadas as condições que viabilizam o ingresso na Marinha de cidadãos do sexo feminino nos quadros permanentes, na categoria de praças, torna-se necessário alterar as categorias, as formas de prestação de serviço e as classes em que podem ingressar cidadãos do sexo feminino na Marinha, fixadas pela [Portaria n.º 163/92](https://diariodarepublica.pt/dr/detalhe/portaria/163-1992-175511), de 13 de Março:\n\nManda o Governo, pelo Ministro da Defesa Nacional, nos termos do disposto no artigo 42.º da [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), de 7 de Julho, e do artigo 70.º do Regulamento da Lei do Serviço Militar, aprovado pelo [Decreto-Lei n.º 463/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1988-356354), de 15 de Dezembro, o seguinte:\n\n1.º Em condições de igualdade com os cidadãos do sexo masculino, os cidadãos do sexo feminino podem voluntariamente candidatar-se à prestação do serviço efectivo nas seguintes categorias, formas de prestação de serviço e classes:\n\na) Oficiais:\n\n1) Quadros permanentes:\n\nMédicos navais (MN);\n\nFarmacêuticos navais (FN);\n\n2) Regime de contrato e regime de voluntariado:\n\nTécnicos superiores navais (TSN);\n\nTécnicos navais (TN);\n\nb) Sargentos:\n\n1) Quadros permanentes:\n\nElectrotécnicos (ET);\n\nMaquinistas navais (MQ);\n\nEnfermeiros e técnicos de diagnóstico e terapêutica (H);\n\n2) Regime de contrato e regime de voluntariado:\n\nElectrotécnicos (ET);\n\nMaquinistas navais (MQ);\n\nEnfermeiros e técnicos de diagnóstico e terapêutica (H);\n\nTécnicos navais (TN);\n\nc) Praças:\n\n1) Quadros permanentes:\n\nCondutores de máquinas (CM);\n\nComunicações (C);\n\nRadaristas (R);\n\nElectricistas (E);\n\nAbastecimento (L);\n\nCondutores mecânicos de automóveis (V);\n\nTaifa (TF);\n\n2) Regime de contrato e regime de voluntariado:\n\nCondutores de máquinas (CM);\n\nComunicações (C);\n\nRadaristas (R);\n\nElectricistas (E);\n\nAbastecimento (L);\n\nCondutores mecânicos de automóveis (V);\n\nTaifa (TF).\n\n2.º O recrutamento e a selecção dos candidatos do sexo feminino que voluntariamente se proponham prestar serviço efectivo na Marinha realizam-se em conformidade com os princípios gerais enformadores do modelo aplicável para o efeito aos candidatos do sexo masculino.\n\n3.º O regime de prestação de serviço e o desenvolvimento das carreiras do pessoal militar feminino regulam-se pelas normas estatutárias aplicáveis ao pessoal militar masculino detentor da mesma categoria e classe, com salvaguarda dos princípios constitucionais aplicáveis à protecção da igualdade dos cidadãos e da função social da maternidade.\n\n4.º É revogada a [Portaria n.º 163/92](https://diariodarepublica.pt/dr/detalhe/portaria/163-1992-175511), de 13 de Março.\n\nMinistério da Defesa Nacional.\n\nAssinada em 10 de Novembro de 1993.\n\nO Ministro da Defesa Nacional, Joaquim Fernando Nogueira."
+  },
+  "f8b36216a0872a8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1994-07-24",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 656/94](https://diariodarepublica.pt/dr/detalhe/portaria/656-1994-299471), publicado em 1994-07-19."
+   ],
+   "markdown": "de 30 de Novembro\n\nEstando criadas as condições que viabilizam o ingresso na Marinha de cidadãos do sexo feminino nos quadros permanentes, na categoria de praças, torna-se necessário alterar as categorias, as formas de prestação de serviço e as classes em que podem ingressar cidadãos do sexo feminino na Marinha, fixadas pela [Portaria n.º 163/92](https://diariodarepublica.pt/dr/detalhe/portaria/163-1992-175511), de 13 de Março:\n\nManda o Governo, pelo Ministro da Defesa Nacional, nos termos do disposto no artigo 42.º da [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), de 7 de Julho, e do artigo 70.º do Regulamento da Lei do Serviço Militar, aprovado pelo [Decreto-Lei n.º 463/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1988-356354), de 15 de Dezembro, o seguinte:\n\n1.º Em condições de igualdade com os cidadãos do sexo masculino, os cidadãos do sexo feminino podem voluntariamente candidatar-se à prestação do serviço efectivo nas seguintes categorias, formas de prestação de serviço e classes:\n\na) Oficiais:\n\n1) Quadros permanentes:\n\nMarinha (M);\n\nEngenheiros navais (EN);\n\nAdministração naval (AN);\n\n> Aditado pelo/a [Portaria n.º 656/94](https://diariodarepublica.pt/dr/detalhe/portaria/656-1994-299471), publicado em 1994-07-19.\n\nMédicos navais (MN);\n\nFarmacêuticos navais (FN);\n\n2) Regime de contrato e regime de voluntariado:\n\nTécnicos superiores navais (TSN);\n\nTécnicos navais (TN);\n\nb) Sargentos:\n\n1) Quadros permanentes:\n\nElectrotécnicos (ET);\n\nMaquinistas navais (MQ);\n\nEnfermeiros e técnicos de diagnóstico e terapêutica (H);\n\n2) Regime de contrato e regime de voluntariado:\n\nElectrotécnicos (ET);\n\nMaquinistas navais (MQ);\n\nEnfermeiros e técnicos de diagnóstico e terapêutica (H);\n\nTécnicos navais (TN);\n\nc) Praças:\n\n1) Quadros permanentes:\n\nCondutores de máquinas (CM);\n\nComunicações (C);\n\nRadaristas (R);\n\nElectricistas (E);\n\nAbastecimento (L);\n\nCondutores mecânicos de automóveis (V);\n\nTaifa (TF);\n\n2) Regime de contrato e regime de voluntariado:\n\nCondutores de máquinas (CM);\n\nComunicações (C);\n\nRadaristas (R);\n\nElectricistas (E);\n\nAbastecimento (L);\n\nCondutores mecânicos de automóveis (V);\n\nTaifa (TF).\n\n2.º O recrutamento e a selecção dos candidatos do sexo feminino que voluntariamente se proponham prestar serviço efectivo na Marinha realizam-se em conformidade com os princípios gerais enformadores do modelo aplicável para o efeito aos candidatos do sexo masculino.\n\n3.º O regime de prestação de serviço e o desenvolvimento das carreiras do pessoal militar feminino regulam-se pelas normas estatutárias aplicáveis ao pessoal militar masculino detentor da mesma categoria e classe, com salvaguarda dos princípios constitucionais aplicáveis à protecção da igualdade dos cidadãos e da função social da maternidade.\n\n4.º É revogada a [Portaria n.º 163/92](https://diariodarepublica.pt/dr/detalhe/portaria/163-1992-175511), de 13 de Março.\n\nMinistério da Defesa Nacional.\n\nAssinada em 10 de Novembro de 1993.\n\nO Ministro da Defesa Nacional, Joaquim Fernando Nogueira."
+  }
+ }
+}

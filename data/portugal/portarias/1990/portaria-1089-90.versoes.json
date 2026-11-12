@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:565868:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1990-10-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b186ef8e13ed997b"
+   ]
+  },
+  {
+   "date": "1994-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:167821:por",
+     "title": "Portaria n.º 1306/93",
+     "published": "1993-12-27",
+     "dre_path": "/dr/detalhe/portaria/1306-1993-167821"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-5",
+    "Adita Artigo depois da unidade 5"
+   ],
+   "fragments": [
+    "67c4c3a56372c866"
+   ]
+  }
+ ],
+ "fragments": {
+  "b186ef8e13ed997b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Outubro\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 224/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1984-591313), de 6 de Julho, no n.º 2 do artigo 3.º do [Decreto-Lei n.º 145/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1985-152365), de 8 de Maio, e no artigo 4.º do [Decreto-Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1990-334648), de 13 de Fevereiro, o seguinte:\n\na) Nas conservatórias dos registos predial e comercial submetidas a tratamento informático, o livro «Diário» pode ser substituído pela listagem diária das anotações de apresentação dos pedidos de registo, obtida por meios informáticos e rubricada pelo conservador.\n\nb) Nas mesmas conservatórias, as fichas do modelo em uso podem ser substituídas pela impressão, por meios informáticos, dos actos de registo, assinados pelo conservador.\n\nMinistério da Justiça.\n\nAssinada em 10 de Outubro de 1990.\n\nPelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça."
+  },
+  "67c4c3a56372c866": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1994-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1306/93](https://diariodarepublica.pt/dr/detalhe/portaria/1306-1993-167821), publicado em 1993-12-27.",
+    "Aditado pelo/a [Portaria n.º 1306/93](https://diariodarepublica.pt/dr/detalhe/portaria/1306-1993-167821), publicado em 1993-12-27."
+   ],
+   "markdown": "de 30 de Outubro\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 224/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1984-591313), de 6 de Julho, no n.º 2 do artigo 3.º do [Decreto-Lei n.º 145/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1985-152365), de 8 de Maio, e no artigo 4.º do [Decreto-Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1990-334648), de 13 de Fevereiro, o seguinte:\n\na) Nas conservatórias dos registos predial e comercial submetidas a tratamento informático, o livro «Diário» pode ser substituído pela listagem diária das anotações de apresentação dos pedidos de registo, obtida por meios informáticos e rubricada pelo conservador.\n\nb) Nas mesmas conservatórias, a introdução em suporte magnético dos actos de registos confirmados pelo conservador substitui a utilização das fichas actualmente em uso.\n\n> Alterado pelo/a [Portaria n.º 1306/93](https://diariodarepublica.pt/dr/detalhe/portaria/1306-1993-167821), publicado em 1993-12-27.\n\nc) A confirmação prevista na alínea anterior, com indicação da qualidade e do nome do interveniente, equivale, para todos os efeitos, à assinatura do registo.\n\n> Aditado pelo/a [Portaria n.º 1306/93](https://diariodarepublica.pt/dr/detalhe/portaria/1306-1993-167821), publicado em 1993-12-27.\n\nMinistério da Justiça.\n\nAssinada em 10 de Outubro de 1990.\n\nPelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça."
+  }
+ }
+}

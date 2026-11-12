@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:565265:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 389/95 (n.º 2.º) declara que o novo regime e plano de estudos substituem os aprovados pela Portaria n.º 1187/90, ou seja, substitui o original por inteiro em vez de alterar texto concreto; não se devolve nada.",
+  "instrucoes": [
+    "Portaria 389/95 n.º 2.º: o regime e plano de estudos publicados substituem os da Portaria 1187/90 — substituição integral do original, registada em nao_aplicavel; os restantes números são regime próprio do novo diploma."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

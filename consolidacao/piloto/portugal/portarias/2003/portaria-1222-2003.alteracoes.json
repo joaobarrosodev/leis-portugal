@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Pela presente portaria é renovada, por um período de seis anos, a concessão da zona de caça turística da Herdade do Galisteu (processo n.º 627-DGF), abrangendo o prédio rústico denominado «Herdade do Galisteu», sito na freguesia de Malpica do Tejo, município de Castelo Branco, com a área de 1439,70 ha.",
+    "depois": "1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Herdade do Galisteu (processo n.º 627-DGRF), abrangendo o prédio rústico denominado Herdade do Galisteu, sito na freguesia de Malpica do Tejo, município de Castelo Branco, com a área de 1439,70 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476521:por",
+    "alterador": "pt:dre:284110:por"
+  }
+]

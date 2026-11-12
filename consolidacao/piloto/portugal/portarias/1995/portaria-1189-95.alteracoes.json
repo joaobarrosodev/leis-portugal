@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 16-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Docentes de escolas superiores de enfermagem - 10%;\n\nb) Enfermeiros provenientes de serviços prestadores de cuidados do Ministério da Saúde - 60%;\n\nc) Enfermeiros das Regiões Autónomas - 10%;\n\nd) Enfermeiros provenientes de serviços prestadores de cuidados de estabelecimentos de saúde pertencentes a outros ministérios - 15%;\n\ne) Outros enfermeiros.\n\n2 - As vagas eventualmente não utilizadas num dos contingentes revertem, se necessário, para qualquer outro contingente.",
+    "depois": "a) Docentes das escolas superiores de enfermagem - 10%;\n\nb) Enfermeiros provenientes de serviços prestadores de cuidados do Ministério da Saúde - 60%;\n\nc) Enfermeiros provenientes de serviços prestadores de cuidados de estabelecimentos de saúde pertencentes a outros ministérios - 15%;\n\nd) Enfermeiros das Regiões Autónomas - 10%;\n\ne) Outros enfermeiros - 5%.\n\n2 - As vagas eventualmente não utilizadas num dos contingentes revertem, se necessário, para qualquer outro contingente, de acordo com regras a fixar pelo órgão competente da Escola e a divulgar através do edital a que se refere o n.º 9.º da [Portaria n.º 239/94](https://diariodarepublica.pt/dr/detalhe/portaria/239-1994-266642).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:573132:por",
+    "alterador": "pt:dre:155261:por"
+  }
+]

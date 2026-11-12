@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-04-16'
+version_history:
+  file: portaria-925-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-12-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-04-16'
+    amending: pt:dre:167403:por
+    amending_title: Portaria n.º 231/98
+    changes:
+    - Altera Artigo unidades 15-15
+    - Altera Artigo unidades 36-36
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:20:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 231/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-925-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,7 +148,9 @@ Pelo Ministro do Emprego e da Segurança Social, António José de Castro Bagão
 
 Adaptação do protocolo do Centro de Formação Profissional para o Sector das Indústrias da Madeira e Mobiliário
 
-O Instituto do Emprego e Formação Profissional (IEFP) e a Associação Nacional das Indústrias da Madeira (ANIM) adaptam o protocolo que criou o Centro de Formação Profissional, de harmonia com as cláusulas seguintes:
+O Instituto do Emprego e Formação Profissional (IEFP), como primeiro outorgante, e a associação das Indústrias de Madeira e Mobiliário de Portugal (AIMMP), como segundo outorgante, adaptam o protocolo que criou o Centro de Formação Profissional, de harmonia com as cláusulas seguintes:
+
+> Alterado pelo/a [Portaria n.º 231/98](https://diariodarepublica.pt/dr/detalhe/portaria/231-1998-167403), publicado em 1998-04-11.
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -174,7 +192,9 @@ V
 
 Sede e delegações
 
-O Centro tem a sua sede no Porto e pode criar as delegações que se mostrarem comprovadamente necessárias.
+O Centro tem a sua sede em Lordelo, Paredes, e pode criar as delegações que se mostrem comprovadamente necessárias.
+
+> Alterado pelo/a [Portaria n.º 231/98](https://diariodarepublica.pt/dr/detalhe/portaria/231-1998-167403), publicado em 1998-04-11.
 
 ### CAPÍTULO II — Estrutura orgânica
 

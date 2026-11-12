@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:496529:por",
+  "substituicoes": [
+    {
+      "de": 48,
+      "ate": 48,
+      "texto": "O Centro tem a sua sede em Lisboa e pode criar as delegações que se mostrarem comprovadamente necessárias.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 258/2015, anexo: nova redação da cláusula V do protocolo (epígrafe [...] mantém-se); substituída a unidade 48 (corpo).",
+    "Artigo 1.º (identificação dos outorgantes) é declarativo, sem alteração textual ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

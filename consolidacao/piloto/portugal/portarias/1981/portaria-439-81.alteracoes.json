@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 28-29",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "I) Química Física ... 5\n\nII) Química Teórica ... 15",
+    "depois": "Química Teórica ... 10",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:574503:por",
+    "alterador": "pt:dre:325536:por"
+  },
+  {
+    "artigo": "unidades 31-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Áreas I e II ... 5",
+    "depois": "Química-Física ou Química Teórica ... 5",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:574503:por",
+    "alterador": "pt:dre:325536:por"
+  },
+  {
+    "artigo": "unidades 32-32",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Total ... 25",
+    "depois": "Total ... 15",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:574503:por",
+    "alterador": "pt:dre:325536:por"
+  }
+]

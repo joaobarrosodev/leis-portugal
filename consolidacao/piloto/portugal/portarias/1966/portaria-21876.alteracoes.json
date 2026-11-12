@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "9.º As juntas de recurso funcionarão sempre em Lisboa, no Hospital Militar Principal, no Hospital da Marinha ou na Direcção do Serviço de Saúde da Força Aérea, conforme os casos.",
+    "depois": "9.º As juntas de recurso funcionarão sempre em Lisboa, no Hospital Militar Principal, no Hospital da Marinha ou na Direcção do Serviço de Saúde da Força Aérea, conforme os casos; sempre que seja interposto recurso por militares em serviço no ultramar, será o respectivo processo sanitário enviado ao órgão competente do respectivo ramo das forças armadas, que providenciará a sua apreciação por uma junta de recurso, e só nos casos em que a junta de recurso declare ser impossível pronunciar-se nos termos atrás referidos o recorrente deverá ser mandado apresentar em Lisboa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:488353:por",
+    "alterador": "pt:dre:676054:por"
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "id": "pt:dre:556614:por",
+  "substituicoes": [
+    {
+      "de": 19,
+      "ate": 20,
+      "texto": "3 - Acção submetida a concurso anual:\n\n3.1 - Os projectos a seleccionar em 1990, no âmbito da acção 2.6.1 - Produção e divulgação de vídeos sobre a qualidade nos sectores - do capítulo II, deverão ser apresentados até 31 de Dezembro do corrente ano.",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "A comparticipação máxima a atribuir de acordo com os montantes elegíveis por acção é de 100%, a graduar de acordo com o mérito, interesse e impacte da iniciativa e seu enquadramento no plano director da campanha: nas aplicações relevantes de todas as acções só são comparticipados custos não cobertos por receitas.",
+      "alterador": 1
+    },
+    {
+      "de": 57,
+      "ate": 58,
+      "texto": "2.2 - Jornadas de qualidade sectoriais e regionais:\n\na) Estas acções, semelhantes às anteriores e com a participação de técnicos especialistas, destinam-se a empresas de um dado sector ou de determinada região, focando questões de qualidade que especificamente lhes respeitem. A metodologia a utilizar consiste, designadamente, no alerta dos empresários para os riscos e custos da não qualidade e na informação dos meios de superação dessa situação, nomeadamente de métodos, técnicas, sistemas de controlo, formação, etc.;",
+      "alterador": 1
+    },
+    {
+      "de": 60,
+      "ate": 60,
+      "texto": "c) Será considerado critério preferencial o previsto na alínea anterior e a apresentação, pela mesma entidade, de candidatura à acção para a realização de vídeos sectoriais, se o projecto for seleccionado;",
+      "alterador": 1
+    },
+    {
+      "de": 62,
+      "ate": 62,
+      "texto": "e) O projecto deverá apresentar um plano global de acção que contemple um conjunto significativo de empresas de um dado sector ou região;",
+      "alterador": 1
+    },
+    {
+      "de": 80,
+      "ate": 80,
+      "texto": "a) Esta acção visa a efectuação de meios de suporte da campanha, pelo que até 20% das brochuras deverão ser disponibilizadas ao IPQ, para apoio à realização de outras acções no âmbito da campanha, nomeadamente as jornadas da qualidade sectoriais e regionais;",
+      "alterador": 1
+    },
+    {
+      "de": 119,
+      "ate": 119,
+      "texto": "d) O projecto deverá apresentar um plano global de acção que contemple um conjunto representativo de empresas de um determinado sector ou região;",
+      "alterador": 1
+    },
+    {
+      "de": 153,
+      "ate": 154,
+      "texto": "Transporte e estadia/técnico;\n\nTransporte dos meios de suporte;\n\nAluguer e transporte de equipamentos de apoio;\n\nDivulgação de resultados da acção;\n\nProdução e edição de documentação de apoio.",
+      "alterador": 1
+    },
+    {
+      "de": 155,
+      "ate": 160,
+      "texto": "1.2.2 - Jornadas de qualidade sectoriais e regionais:\n\nDespesas com:\n\nDivulgação da acção;\n\nApoio administrativo à acção, incluindo transporte e estadia de pessoal;\n\nContratação de serviços de técnicos;\n\nTransporte e estadia/técnico;\n\nTransporte dos meios de suporte;\n\nAluguer e transporte de equipamentos de apoio;\n\nAluguer de salas e despesas conexas;\n\nProdução e edição de brochuras;\n\nProdução e edição de documentação de apoio;\n\nDivulgação de resultados da acção.",
+      "alterador": 1
+    },
+    {
+      "de": 164,
+      "ate": 165,
+      "texto": "Transporte e estadia/técnico;\n\nTransporte dos meios de suporte;\n\nAluguer e transporte de equipamentos de apoio.",
+      "alterador": 1
+    },
+    {
+      "de": 168,
+      "ate": 171,
+      "texto": "Divulgação da acção;\n\nApoio administrativo à acção, incluindo transporte e estadia de pessoal;\n\nTransporte dos meios de suporte;\n\nAluguer de espaços e montagem de stand.",
+      "alterador": 1
+    },
+    {
+      "de": 203,
+      "ate": 207,
+      "texto": "Divulgação da acção;\n\nApoio administrativo à acção, incluindo transporte e estadia de pessoal;\n\nContratação de serviços de técnicos;\n\nTransporte e estadia/técnicos;\n\nTransporte dos meios de suporte;\n\nAluguer e transporte de equipamentos de apoio.\n\nAluguer de salas e despesas conexas;\n\nProdução e edição de brochuras;\n\nProdução e edição da documentação de apoio;\n\nDivulgação de resultados da acção.",
+      "alterador": 1
+    },
+    {
+      "de": 210,
+      "ate": 213,
+      "texto": "Divulgação da acção;\n\nApoio administrativo à acção, incluindo transporte e estadia de pessoal;\n\nAluguer e transporte de equipamentos de apoio;\n\nAluguer de espaços e montagem de stand;\n\nDivulgação de resultados da acção.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DN 141/90 n.º 1: nova redação do n.º 3 (epígrafe), n.º 3.1 e n.º 7 do cap. I — substituídas as unidades 19-20 e o corpo do n.º 7 (unidade 30); 3.2 e 3.3 ficam ('...').",
+    "DN 141/90 n.º 2: nova epígrafe do n.º 2.2 e alíneas a), c) e e) do cap. II — substituídas as unidades 57-58, 60 e 62.",
+    "DN 141/90 n.º 3: alínea a) do n.º 2.5 do cap. II — substituída a unidade 80.",
+    "DN 141/90 n.º 4: alínea d) do n.º 2.1 do n.º 2 do cap. III — substituída a unidade 119.",
+    "DN 141/90 n.º 5: nova redação dos n.os 1.2.1 a 1.2.4 do cap. IV — substituídas as unidades 153-154, 155-160, 164-165 e 168-171 (a frase 'Só são comparticipados...' do 1.2.4 sai, pois a nova redação não a inclui).",
+    "DN 141/90 n.º 6: nova redação dos n.os 2.2.1 e 2.2.2 do cap. IV — substituídas as unidades 203-207 e 210-213 (a frase 'Só são comparticipados...' do 2.2.2 sai)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

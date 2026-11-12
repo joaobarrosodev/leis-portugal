@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-03-30'
+version_history:
+  file: decreto-39-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-09-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-03-30'
+    amending: pt:dre:515222:por
+    amending_title: Decreto n.º 11/95; Decreto n.º 6/2002
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:03:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 11/95; Decreto n.º 6/2002.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1990/decreto-39-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -209,6 +226,8 @@ Pré-reforma:
 
 Prestações que recebe o trabalhador com 55 anos ou mais - para os mineiros de fundo a partir dos 48 anos - como complemento das prestações por desemprego ou das prestações adquiridas por força das quotizações para o regime de pensão, destinadas a garantir-lhe um rendimento até à idade da reforma;
 
+Prestações que recebe o trabalhador com 50 anos ou mais, abrangido pela cessação definitiva da produção de aço, como complemento das prestações adquiridas por força das quotizações para o regime de pensão, destinadas a garantir-lhe um rendimento até à idade de reforma.
+
 Quotizações necessárias para que o trabalhador mantenha os seus direitos à pensão;
 
 Indemnização por cessação de contrato:
@@ -271,7 +290,7 @@ a) O auxílio da CECA contribui para o financiamento das seguintes despesas:
 
 Indemnização compensatória por perda de salário (mesmas indemnizações do que para a mutação interna - v. § 3);
 
-Indemnização por cessação de contrato: quantia única que o trabalhador recebe quando abandona definitivamente a indústria, aceitando o despedimento, quer no âmbito de um despedimento involuntário, quer no âmbito do termo de um contrato, qualificado como «cessação por mútuo acordo»;
+Indemnização por cessação de contrato: quantia única que o trabalhador recebe quando abandona definitivamente a empresa, aceitando o despedimento, quer no âmbito de um despedimento involuntário, quer no âmbito do termo de um contrato, qualificado como 'cessação por mútuo acordo'.
 
 Indemnização de mobilidade geográfica (mesmas indemnizações do que para a mutação interna - v. § 3);
 
@@ -305,6 +324,8 @@ O período durante o qual a CECA poderá contribuir para o pagamento destes aux�
 
 A prestação total paga pela CECA a título da formação profissional não pode exceder um montante médio de 4000 ECU por pessoa.
 
+> Alterado pelo/a [Decreto n.º 6/2002](https://diariodarepublica.pt/dr/detalhe/decreto/6-2002-300580), publicado em 2002-03-25.
+
 ###### Artigo 7.º — Cumulação dos auxílios
 
 As intervenções a favor de um trabalhador sucessivamente abrangido por mais de uma situação tipo poderão dar lugar à cumulação dos auxílios previstos a título de cada uma das situações vividas, limitada a um período de intervenção máximo de 18 meses.
@@ -333,9 +354,11 @@ No que se refere á Comissão, as despesas são financiadas por subvenções pro
 
 ###### Artigo 11.º — Decisão de concessão e seu prazo de validade
 
-A decisão da Comissão sobre a concessão dos auxílios relativos ao exercício orçamental em curso refere-se aos pedidos apresentados entre 1 de Outubro do ano anterior e 30 de Setembro do ano em curso.
+A decisão da Comissão sobre a concessão de auxílios, relativos ao exercício orçamental em curso, refere-se aos pedidos apresentados entre 1 de Junho do ano anterior e 31 de Maio do ano em curso.
 
 O saldo de autorização financeira será automaticamente anulado em 31 de Dezembro do 4.º ano subsequente ao ano de decisão de concessão por parte da Comissão.
+
+> Alterado pelo/a [Decreto n.º 11/95](https://diariodarepublica.pt/dr/detalhe/decreto/11-1995-515222), publicado em 1995-04-29.
 
 ###### Artigo 12.º — Pedido de auxílio
 
@@ -345,7 +368,7 @@ O Ministério do Emprego e da Segurança Social é a autoridade competente para 
 
 § 2 - Prazo e âmbito
 
-Os pedidos de auxílio deverão ser apresentados, o mais tardar, até 30 de Setembro do ano em curso.
+Os pedidos de auxílio deverão ser apresentados, o mais tardar, até 31 de Maio do ano em curso.
 
 Os pedidos de auxílio dizem respeito às medidas executadas entre 1 de Janeiro do ano precendente e 31 de Dezembro do ano em curso.
 
@@ -360,6 +383,8 @@ b) Os programas de encerramento, de redução de pessoal ou de mudança de activ
 c) O número de empregos suprimidos ou cuja supressão está prevista, bem como a sua distribuição anual e as medidas de readaptação tomadas ou previstas e também as autorizações administrativas nacionais necessárias à elegibilidade das medidas previstas na presente Convenção;
 
 d) O custo estimado do programa, por tipo de medidas e por ano de arranque, a contribuição estimada que incumbe às autoridades nacionais, bem como a contribuição pedida à CECA, até aos limites acima referidos.
+
+> Alterado pelo/a [Decreto n.º 11/95](https://diariodarepublica.pt/dr/detalhe/decreto/11-1995-515222), publicado em 1995-04-29.
 
 ###### Artigo 13.º — Pedido de pagamento
 

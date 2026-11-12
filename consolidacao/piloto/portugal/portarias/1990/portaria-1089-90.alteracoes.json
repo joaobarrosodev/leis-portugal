@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Nas mesmas conservatórias, as fichas do modelo em uso podem ser substituídas pela impressão, por meios informáticos, dos actos de registo, assinados pelo conservador.",
+    "depois": "b) Nas mesmas conservatórias, a introdução em suporte magnético dos actos de registos confirmados pelo conservador substitui a utilização das fichas actualmente em uso.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:565868:por",
+    "alterador": "pt:dre:167821:por"
+  },
+  {
+    "artigo": "depois da unidade 5",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "c) A confirmação prevista na alínea anterior, com indicação da qualidade e do nome do interveniente, equivale, para todos os efeitos, à assinatura do registo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:565868:por",
+    "alterador": "pt:dre:167821:por"
+  }
+]

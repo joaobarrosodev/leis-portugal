@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante sitos nas freguesias de Alvoco da Serra, Cabeça, Loriga, Teixeira e Vide, município de Seia, com a área de 5167 ha.",
+    "depois": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos nas freguesias de Alvoco da Serra, Cabeça, Loriga, Teixeira e Vide, município de Seia, com a área de 5148 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:481504:por",
+    "alterador": "pt:dre:642208:por"
+  }
+]

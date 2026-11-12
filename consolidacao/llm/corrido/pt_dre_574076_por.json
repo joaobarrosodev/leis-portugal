@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:574076:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1319/2006), n.º 7.º, alínea a): revoga a Portaria n.º 698/90 apenas 'nas partes que àqueles cursos respeitam' (curso de técnico de hotelaria/restauração-organização e controlo), revogação por matéria que não identifica unidades do texto (o plano de estudos está só em imagem), pelo que não se aplica ao texto com segurança.",
+  "instrucoes": [
+    "Alterador 1, n.º 5.º: extingue o curso de técnico de hotelaria/restauração-organização e controlo criado pela Portaria n.º 698/90 — efeito não textual, nada aplicado.",
+    "Alterador 1, n.º 7.º, a): revogação parcial 'nas partes que àqueles cursos respeitam' — não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

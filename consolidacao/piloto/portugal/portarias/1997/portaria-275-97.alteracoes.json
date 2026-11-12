@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "ANEXO::1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Programa, estrutura e duração\n\n1 - O programa do curso de formação a ministrar durante o estágio para ingresso na carreira de subinspector de espectáculos e direitos de autor da DGESP é o definido no quadro anexo ao presente regulamento e que dele faz parte integrante.\n\n2 - O conteúdo das disciplinas incluídas no curso de formação é aprovado por despacho do Ministro da Cultura.\n\n3 - O curso de formação pode compreender:\n\na) Sessões lectivas, teóricas e práticas;\n\nb) Trabalhos de pesquisa e de investigação;\n\nc) Conferências, seminários, colóquios, visitas de estudo e acções equiparadas;\n\nd) Estágios intercalares de curta duração.\n\n4 - As actividades pedagógicas referidas no n.º 3 são incluídas no plano de estágio a elaborar pelo júri ou em execução de directivas dos monitores, de acordo com os objectivos e conteúdo das disciplinas, devendo ser previamente aprovadas pelo júri do estágio as referidas nas alíneas c) e d).\n\n5 - O curso de formação tem a duração de seis meses, totalizando setecentas horas, conforme consta do anexo ao presente regulamento, das quais seiscentas e cinquenta serão obrigatoriamente preenchidas por sessões lectivas, teóricas e práticas.",
+    "depois": "###### Artigo 1.º — Programa, estrutura e duração\n\n1 - O programa do curso de formação a ministrar durante o estágio para ingresso na carreira de subinspector de espectáculos e direitos de autor da DGESP é o definido no quadro anexo ao presente regulamento e que dele faz parte integrante.\n\n2 - O conteúdo das disciplinas incluídas no curso de formação é aprovado por despacho do Ministro da Cultura.\n\n3 - O curso de formação pode compreender:\n\na) Sessões lectivas, teóricas e práticas;\n\nb) Trabalhos de pesquisa e de investigação;\n\nc) Conferências, seminários, colóquios, visitas de estudo e acções equiparadas;\n\nd) Estágios intercalares de curta duração.\n\n4 - As actividades pedagógicas referidas no n.º 3 são incluídas no plano de estágio a elaborar pelo júri ou em execução de directivas dos monitores, de acordo com os objectivos e conteúdo das disciplinas, devendo ser previamente aprovadas pelo júri do estágio as referidas nas alíneas c) e d).\n\n5 - O curso de formação tem a duração de seis meses totalizando setecentas horas, conforme consta do anexo ao presente regulamento.\n\n> Alterado pelo/a [Portaria n.º 385/98](https://diariodarepublica.pt/dr/detalhe/portaria/385-1998-486931), publicado em 1998-07-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476956:por",
+    "alterador": "pt:dre:486931:por"
+  },
+  {
+    "artigo": "ANEXO::12.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º — Regulamento do estágio\n\nEm tudo o que não for contrariado pelo presente regulamento, aplica-se ao estágio para ingresso na carreira de subinspector de espectáculos e direitos de autor da DGESP o regulamento do estágio de ingresso nas carreiras dos grupos de pessoal técnico superior e técnico em vigor na DGESP, por força do n.º 1 do artigo 12.º do [Decreto-Lei n.º 222/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1995-551193), de 8 de Setembro.\n\nCurso de formação do estágio para ingresso na carreira de subinspector de espectáculos e direitos de autor da DGESP\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/096b00/18551857.pdf)",
+    "depois": "###### Artigo 12.º — Regulamento do estágio\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 385/98](https://diariodarepublica.pt/dr/detalhe/portaria/385-1998-486931), publicado em 1998-07-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476956:por",
+    "alterador": "pt:dre:486931:por"
+  }
+]

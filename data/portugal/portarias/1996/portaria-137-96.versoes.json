@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:476950:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-05-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "95b375d4e3778892"
+   ]
+  },
+  {
+   "date": "1997-07-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155652:por",
+     "title": "Portaria n.º 455/97",
+     "published": "1997-07-10",
+     "dre_path": "/dr/detalhe/portaria/455-1997-155652"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "85dc21fdb689bad2"
+   ]
+  }
+ ],
+ "fragments": {
+  "95b375d4e3778892": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Maio\n\nConsiderando o Regulamento (CEE) n.º [2328/91](http://data.europa.eu/eli/reg/1991/2328/oj?locale=pt), do Conselho, de 15 de Julho, com as alterações introduzidas pelo Regulamento (CE) n.º [3669/93](http://data.europa.eu/eli/reg/1993/3669/oj?locale=pt), do Conselho, de 22 de Dezembro, e pelo Regulamento (CE) n.º [2843/94](http://data.europa.eu/eli/reg/1994/2843/oj?locale=pt), do Conselho, de 21 de Novembro, relativo à melhoria da eficácia das estruturas agrícolas;\n\nConsiderando a Portaria n.º 980/95, de 16 de Agosto, que aprova o Regulamento de Aplicação do Regime de Ajudas à Melhoria da Eficácia das Estruturas Agrícolas:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do n.º 5) do artigo 2.º do regulamento anexo à Portaria n.º 980/95, de 16 de Agosto, o seguinte:\n\n1.º Para o corrente ano, o rendimento de referência válido para o território continental é fixado em 1917000$00.\n\n2.º O presente diploma produz efeitos desde 1 de Janeiro de 1996.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 4 de Abril de 1996.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural."
+  },
+  "85dc21fdb689bad2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1997-07-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 455/97](https://diariodarepublica.pt/dr/detalhe/portaria/455-1997-155652), publicado em 1997-07-10."
+   ],
+   "markdown": "de 3 de Maio\n\nConsiderando o Regulamento (CEE) n.º [2328/91](http://data.europa.eu/eli/reg/1991/2328/oj?locale=pt), do Conselho, de 15 de Julho, com as alterações introduzidas pelo Regulamento (CE) n.º [3669/93](http://data.europa.eu/eli/reg/1993/3669/oj?locale=pt), do Conselho, de 22 de Dezembro, e pelo Regulamento (CE) n.º [2843/94](http://data.europa.eu/eli/reg/1994/2843/oj?locale=pt), do Conselho, de 21 de Novembro, relativo à melhoria da eficácia das estruturas agrícolas;\n\nConsiderando a Portaria n.º 980/95, de 16 de Agosto, que aprova o Regulamento de Aplicação do Regime de Ajudas à Melhoria da Eficácia das Estruturas Agrícolas:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do n.º 5) do artigo 2.º do regulamento anexo à Portaria n.º 980/95, de 16 de Agosto, o seguinte:\n\n1.º Para o corrente ano, o rendimento de referência válido para o território continental é fixado em 1852941$00.\n\n> Alterado pelo/a [Portaria n.º 455/97](https://diariodarepublica.pt/dr/detalhe/portaria/455-1997-155652), publicado em 1997-07-10.\n\n2.º O presente diploma produz efeitos desde 1 de Janeiro de 1996.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 4 de Abril de 1996.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural."
+  }
+ }
+}

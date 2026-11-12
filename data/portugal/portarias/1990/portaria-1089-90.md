@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-01-01'
+version_history:
+  file: portaria-1089-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-10-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-01-01'
+    amending: pt:dre:167821:por
+    amending_title: Portaria n.º 1306/93
+    changes:
+    - Altera Artigo unidades 5-5
+    - Adita Artigo depois da unidade 5
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:09:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1306/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-1089-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,7 +141,13 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no n.º 2 do a
 
 a) Nas conservatórias dos registos predial e comercial submetidas a tratamento informático, o livro «Diário» pode ser substituído pela listagem diária das anotações de apresentação dos pedidos de registo, obtida por meios informáticos e rubricada pelo conservador.
 
-b) Nas mesmas conservatórias, as fichas do modelo em uso podem ser substituídas pela impressão, por meios informáticos, dos actos de registo, assinados pelo conservador.
+b) Nas mesmas conservatórias, a introdução em suporte magnético dos actos de registos confirmados pelo conservador substitui a utilização das fichas actualmente em uso.
+
+> Alterado pelo/a [Portaria n.º 1306/93](https://diariodarepublica.pt/dr/detalhe/portaria/1306-1993-167821), publicado em 1993-12-27.
+
+c) A confirmação prevista na alínea anterior, com indicação da qualidade e do nome do interveniente, equivale, para todos os efeitos, à assinatura do registo.
+
+> Aditado pelo/a [Portaria n.º 1306/93](https://diariodarepublica.pt/dr/detalhe/portaria/1306-1993-167821), publicado em 1993-12-27.
 
 Ministério da Justiça.
 

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:509217:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 170/71) altera o quadro II anexo para que o chefe da Estação Postal Militar n.º 29 possa ser oficial subalterno ou sargento-ajudante, mas o quadro só existe em imagem (unidade 14) e a portaria não dá nova redação textual.",
+  "instrucoes": [
+    "Alterador 1: alteração do quadro II (chefe da estação postal n.º 29 por oficial subalterno ou sargento-ajudante) — não aplicada: quadro só em imagem, sem texto novo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

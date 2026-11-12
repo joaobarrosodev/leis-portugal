@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Para a determinação do escalão da taxa atender-se-á à superfície total das zonas de caça turísticas pertencentes à mesma entidade gestora.",
+    "depois": "2 - Para a determinação do escalão da taxa aplicável a zonas de caça turística contíguas e pertencentes à mesma entidade gestora, atender-se-á à superfície total das mesmas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:543704:por",
+    "alterador": "pt:dre:592754:por"
+  }
+]

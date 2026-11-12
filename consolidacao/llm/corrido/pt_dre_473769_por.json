@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:473769:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 164/75 revoga a tabela de remunerações (anexo IV) e substitui-a pelas tabelas dos seus anexos, que, tal como o anexo IV original, só existem em imagem; não há alteração textual aplicável com segurança.",
+  "instrucoes": [
+    "Portaria 164/75, art. 1.º: revoga as tabelas de remunerações da Portaria 590/74 e fixa novas em anexos só em imagem — não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-04-24'
+version_history:
+  file: portaria-1241-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-04-24'
+    amending: pt:dre:592754:por
+    amending_title: Portaria n.º 347/91
+    changes:
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:13:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 347/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-1241-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,7 +144,9 @@ b) Por cada hectare a mais de:
 
 Acima de 5000 ha - 400$00.
 
-2 - Para a determinação do escalão da taxa atender-se-á à superfície total das zonas de caça turísticas pertencentes à mesma entidade gestora.
+2 - Para a determinação do escalão da taxa aplicável a zonas de caça turística contíguas e pertencentes à mesma entidade gestora, atender-se-á à superfície total das mesmas.
+
+> Alterado pelo/a [Portaria n.º 347/91](https://diariodarepublica.pt/dr/detalhe/portaria/347-1991-592754), publicado em 1991-04-19.
 
 2.º - 1 - A Direcção-Geral das Florestas notificará as entidades gestoras das zonas de caça turísticas do montante da taxa.
 

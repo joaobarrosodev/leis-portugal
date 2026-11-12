@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Para o corrente ano, o rendimento de referência válido para o território continental é fixado em 1917000$00.",
+    "depois": "1.º Para o corrente ano, o rendimento de referência válido para o território continental é fixado em 1852941$00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476950:por",
+    "alterador": "pt:dre:155652:por"
+  }
+]

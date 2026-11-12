@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Nas Jornadas poderão participar engenheiros com as especialidades de civil, electrotecnia, mecânica, construção naval, minas, químico-industrial, engenheiros geógrafos engenheiros militares, arquitectos e diplomados com curso superior que exerçam actividade nos domínios da geologia, geofísica, hidrografia e meteorologia.",
+    "depois": "2.º Nas Jornadas poderão participar engenheiros, arquitectos e outros diplomados com cursos superiores que exerçam actividade nos domínios da engenharia, arquitectura, geologia, geofísica, hidrologia e meteorologia.\n\n§ único. Poderão também participar, mediante autorização dos respectivos reitores, os alunos finalistas de cursos superiores dos domínios mencionados no corpo do artigo, das Universidades dos territórios onde se realizem as Jornadas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:472758:por",
+    "alterador": "pt:dre:228055:por"
+  }
+]

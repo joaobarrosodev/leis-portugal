@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O Instituto do Emprego e Formação Profissional (IEFP) e o Sindicato dos Trabalhadores de Escritório, Comércio, Serviços e Novas Tecnologias (SITESE) adaptam o protocolo que criou o Centro de Formação Profissional de harmonia com as cláusulas seguintes:",
+    "depois": "O Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), e o Sindicato dos Trabalhadores e Técnicos de Serviços, Comércio, Restauração e Turismo (SITESE), adotam o Protocolo que criou o Centro de Formação Profissional, de harmonia com as cláusulas seguintes:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:494867:por",
+    "alterador": "pt:dre:107573230:por;pt:dre:532604:por"
+  },
+  {
+    "artigo": "unidades 36-36",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O Centro tem a sua sede na Rua do Alecrim, 46, 1.º, 1000 Lisboa, e pode criar as delegações que se mostrarem comprovadamente necessárias.",
+    "depois": "O Centro tem a sua sede em Lisboa e pode criar as delegações que se mostrarem comprovadamente necessárias.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:494867:por",
+    "alterador": "pt:dre:107573230:por;pt:dre:532604:por"
+  },
+  {
+    "artigo": "unidades 165-166",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - A cobertura das despesas de funcionamento do Centro, a suportar pelo IEFP, não poderá exceder 85%, competindo ao SITESE assumir a restante comparticipação.\n\n3 - Para as acções de formação profissional a desenvolver no Centro e que o IEFP considere elegíveis para apresentação ao Fundo Social Europeu ou de interesse nacional, a comparticipação do IEFP será de molde a cobrir a totalidade das despesas de funcionamento co-financiadas por aquele Fundo comunitário, deduzidas eventuais receitas das acções.",
+    "depois": "2 - A cobertura das despesas de funcionamento do Centro, a suportar pelo IEFP, não poderá exceder 95%, competindo ao SITESE assumir a restante comparticipação.\n\n3 - Para as acções de formação profissional a desenvolver no Centro e que o IEFP considere elegíveis para apresentação ao Fundo Social Europeu ou de interesse nacional, a comparticipação do IEFP será de molde a cobrir a totalidade das despesas de funcionamento co-financiadas por aquele Fundo Comunitário, deduzidas eventuais receitas das acções.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:494867:por",
+    "alterador": "pt:dre:107573230:por;pt:dre:532604:por"
+  }
+]

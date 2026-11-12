@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:573132:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 21,
+      "texto": "a) Docentes das escolas superiores de enfermagem - 10%;\n\nb) Enfermeiros provenientes de serviços prestadores de cuidados do Ministério da Saúde - 60%;\n\nc) Enfermeiros provenientes de serviços prestadores de cuidados de estabelecimentos de saúde pertencentes a outros ministérios - 15%;\n\nd) Enfermeiros das Regiões Autónomas - 10%;\n\ne) Outros enfermeiros - 5%.\n\n2 - As vagas eventualmente não utilizadas num dos contingentes revertem, se necessário, para qualquer outro contingente, de acordo com regras a fixar pelo órgão competente da Escola e a divulgar através do edital a que se refere o n.º 9.º da [Portaria n.º 239/94](https://diariodarepublica.pt/dr/detalhe/portaria/239-1994-266642).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 475/97 dá nova redação ao n.º 3.º (Contingentes): epígrafe e n.º 1 corpo iguais; substituídas as alíneas a) a e) e o n.º 2 (unidades 16-21)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:475350:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 151/97 altera a alínea b) do mapa anexo, que só vem em imagem (unidade 11) e não existe no texto atual.",
+  "instrucoes": [
+    "Portaria 151/97: nova redação da alínea b) do mapa anexo — mapa só em imagem, não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

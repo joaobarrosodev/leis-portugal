@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:500730:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Lei n.º 20/2001 redefine os limites das freguesias de Vale da Amoreira e Alhos Vedros sem dar nova redação a nenhum artigo do Decreto-Lei n.º 47513 (apenas remete para o seu artigo 2.º), pelo que não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Lei 20/2001, art. 1.º e 2.º: alteração de limites de outras freguesias por descrição autónoma e planta; não é alteração textual do original, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

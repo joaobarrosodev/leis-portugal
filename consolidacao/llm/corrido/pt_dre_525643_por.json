@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:525643:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O artigo 62.º, n.º 2, do Decreto-Lei n.º 76/72 revoga por inteiro o Decreto n.º 48967, de 15 de Abril de 1969.",
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 76/72), art. 62.º, n.º 2: revoga todo o Decreto n.º 48967; revogação total, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

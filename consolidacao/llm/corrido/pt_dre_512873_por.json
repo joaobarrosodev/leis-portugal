@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:512873:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 (Portaria n.º 18170, ponto 1.º) revoga por inteiro a Portaria n.º 18092.",
+  "instrucoes": [
+    "Alterador 1, 1.º: revogação total da Portaria n.º 18092 — registada em nao_aplicavel, nada devolvido.",
+    "Alterador 1, 2.º: novo reforço de verba, disposição própria da Portaria n.º 18170, não dirigida ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

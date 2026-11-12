@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-12-23'
+version_history:
+  file: portaria-865-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-09-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-12-23'
+    amending: pt:dre:656168:por
+    amending_title: Portaria n.º 1184/2000
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/865/2000/09/26/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:26:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1184/2000. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-865-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,7 +143,9 @@ Ao abrigo do n.º 2 do artigo 10.º do Decreto-Lei n.º 31/94, de 5 de Fevereiro
 
 Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, o seguinte:
 
-1.º As ajudas previstas no regulamento de aplicação do regime de ajudas às medidas agro-ambientais, aprovado pela Portaria n.º 85/98, de 19 de Fevereiro, podem ser transferidas para os herdeiros dos beneficiários cujo óbito tenha ocorrido em 1999.
+1.º As ajudas previstas no regulamento de aplicação do regime de ajudas às medidas agro-ambientais, aprovado pela Portaria n.º 85/98, de 19 de Fevereiro, podem ser transferidas para os herdeiros dos beneficiários cujo óbito tenha ocorrido em 1999 ou 2000.
+
+> Alterado pelo/a [Portaria n.º 1184/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1184-2000-656168), publicado em 2000-12-18.
 
 2.º A transmissão referida no número anterior verifica-se desde que:
 

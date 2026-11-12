@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:555664:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 729/96 manda alterar a alínea e) do n.º 1.º para criar um lugar de chanceler, mas não dá a nova redação (nem a forma nem a posição do novo lugar na lista), por isso a alteração não é textual e não se aplica com segurança.",
+  "instrucoes": [
+    "Portaria 729/96: altera a alínea e) do n.º 1.º para criar um lugar de chanceler, sem texto novo; não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

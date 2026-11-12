@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:560417:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º As ajudas previstas no regulamento de aplicação do regime de ajudas às medidas agro-ambientais, aprovado pela Portaria n.º 85/98, de 19 de Fevereiro, podem ser transferidas para os herdeiros dos beneficiários cujo óbito tenha ocorrido em 1999 ou 2000.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1184/2000: nova redação do n.º 1.º — substituída a unidade 8."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

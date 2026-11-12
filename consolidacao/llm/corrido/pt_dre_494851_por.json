@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:494851:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "O Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), a Associação Portuguesa das Indústrias de Cerâmica e de Cristalaria (APICER) e a Associação Empresarial da Região Oeste (AIRO) adotam o Protocolo que criou o Centro de Formação Profissional, de harmonia com as cláusulas seguintes:",
+      "alterador": 2
+    },
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "a) Aos empresários e trabalhadores das empresas associadas da APICER e da AIRO;",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 1278/97) manda retificar o texto introdutório (outorgantes IEFP, APICER e AIRO) sem dar nova redação literal; não aplicado como texto, mas fica absorvido pela nova redação do texto introdutório dada pelo alterador 2.",
+  "instrucoes": [
+    "Portaria 1278/97: retificação do texto introdutório quanto às entidades outorgantes, sem redação literal; não aplicada (ver nao_aplicavel).",
+    "Portaria 158/2017: nova redação do texto introdutório do protocolo; substituída a unidade 15.",
+    "Portaria 158/2017: nova redação da alínea a) da cláusula III ([...] nas restantes); substituída a unidade 27."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

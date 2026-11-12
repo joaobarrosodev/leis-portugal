@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:498749:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "O Instituto do Emprego e Formação Profissional (IEFP), como primeiro outorgante, e a associação das Indústrias de Madeira e Mobiliário de Portugal (AIMMP), como segundo outorgante, adaptam o protocolo que criou o Centro de Formação Profissional, de harmonia com as cláusulas seguintes:",
+      "alterador": 1
+    },
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "O Centro tem a sua sede em Lordelo, Paredes, e pode criar as delegações que se mostrem comprovadamente necessárias.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 231/98: nova redação do texto introdutório do protocolo (início trocado, resto [...] mantido); substituída a unidade 15.",
+    "Portaria 231/98: nova redação da cláusula V; substituída a unidade 36 (corpo)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

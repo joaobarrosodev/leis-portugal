@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 48-48",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O Centro tem a sua sede no Monte de Caparica, concelho de Almada, e pode criar as delegações que se mostrarem comprovadamente necessárias, prevendo-se, desde já, a criação de uma delegação na cidade de Lisboa.",
+    "depois": "O Centro tem a sua sede em Lisboa e pode criar as delegações que se mostrarem comprovadamente necessárias.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:496529:por",
+    "alterador": "pt:dre:70064735:por"
+  }
+]

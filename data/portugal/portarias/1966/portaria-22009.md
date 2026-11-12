@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-02-27'
+version_history:
+  file: portaria-22009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1966-05-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-02-27'
+    amending: pt:dre:228055:por
+    amending_title: Portaria n.º 121/70
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:16:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 121/70. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1966/portaria-22009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -109,7 +124,11 @@ c) Incentivar a permanente actualização profissional dos engenheiros e outros 
 
 d) Elaborar conclusões e recomendações visando a definição de critérios orientadores dos problemas revelados mais prementes nos domínios da engenharia e da arquitectura no ultramar.
 
-2.º Nas Jornadas poderão participar engenheiros com as especialidades de civil, electrotecnia, mecânica, construção naval, minas, químico-industrial, engenheiros geógrafos engenheiros militares, arquitectos e diplomados com curso superior que exerçam actividade nos domínios da geologia, geofísica, hidrografia e meteorologia.
+2.º Nas Jornadas poderão participar engenheiros, arquitectos e outros diplomados com cursos superiores que exerçam actividade nos domínios da engenharia, arquitectura, geologia, geofísica, hidrologia e meteorologia.
+
+§ único. Poderão também participar, mediante autorização dos respectivos reitores, os alunos finalistas de cursos superiores dos domínios mencionados no corpo do artigo, das Universidades dos territórios onde se realizem as Jornadas.
+
+> Alterado pelo/a [Portaria n.º 121/70](https://diariodarepublica.pt/dr/detalhe/portaria/121-1970-228055), publicado em 1970-02-27.
 
 3.º Para a organização das Jornadas serão constituídas, por despacho do respectivo governador-geral, comissões permanentes em Angola e Moçambique, devendo estar nelas representados os Estudos Gerais Universitários e outras entidades públicas e privadas mais directamente interessadas nos objectivos das Jornadas.
 

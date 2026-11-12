@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 3.º O prémio será atribuído ao aluno distinto da Faculdade de Ciências da Universidade do Porto que obtiver mais elevada classificação na disciplina de Análise Infinitesimal II e que revelar aptidões para a investigação.",
+    "depois": "Art. 3.º O prémio será atribuído ao aluno distinto da Faculdade de Ciências da Universidade do Porto que obtiver mais elevada classificação nas disciplinas de Análise Superior I e Análise Superior II e que revelar aptidões para a investigação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:500945:por",
+    "alterador": "pt:dre:473898:por"
+  }
+]

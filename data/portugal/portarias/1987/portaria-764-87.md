@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2017-06-28'
+version_history:
+  file: portaria-764-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-09-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-06-28'
+    amending: pt:dre:532604:por
+    amending_title: Portaria n.º 26/94; Portaria n.º 199/2017
+    changes:
+    - Altera Artigo unidades 15-15
+    - Altera Artigo unidades 36-36
+    - Altera Artigo unidades 165-166
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:16:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 26/94; Portaria n.º
+    199/2017. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-764-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,7 +151,9 @@ O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 Protocolo do Centro de Formação Profissional para o Sector dos Trabalhadores de Escritório, Comércio, Serviços e Novas Tecnologias (CITEFORMA).
 
-O Instituto do Emprego e Formação Profissional (IEFP) e o Sindicato dos Trabalhadores de Escritório, Comércio, Serviços e Novas Tecnologias (SITESE) adaptam o protocolo que criou o Centro de Formação Profissional de harmonia com as cláusulas seguintes:
+O Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), e o Sindicato dos Trabalhadores e Técnicos de Serviços, Comércio, Restauração e Turismo (SITESE), adotam o Protocolo que criou o Centro de Formação Profissional, de harmonia com as cláusulas seguintes:
+
+> Alterado pelo/a [Portaria n.º 199/2017](https://diariodarepublica.pt/dr/detalhe/portaria/199-2017-107573230), publicado em 2017-06-27.
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -176,7 +195,9 @@ V
 
 Sede e delegações
 
-O Centro tem a sua sede na Rua do Alecrim, 46, 1.º, 1000 Lisboa, e pode criar as delegações que se mostrarem comprovadamente necessárias.
+O Centro tem a sua sede em Lisboa e pode criar as delegações que se mostrarem comprovadamente necessárias.
+
+> Alterado pelo/a [Portaria n.º 26/94](https://diariodarepublica.pt/dr/detalhe/portaria/26-1994-532604), publicado em 1994-01-08.
 
 ### CAPÍTULO II — Estrutura orgânica
 
@@ -434,9 +455,11 @@ Receitas e despesas
 
 1 - As despesas com instalações e equipamento do Centro poderão ser suportadas até 100% pelo IEFP.
 
-2 - A cobertura das despesas de funcionamento do Centro, a suportar pelo IEFP, não poderá exceder 85%, competindo ao SITESE assumir a restante comparticipação.
+2 - A cobertura das despesas de funcionamento do Centro, a suportar pelo IEFP, não poderá exceder 95%, competindo ao SITESE assumir a restante comparticipação.
 
-3 - Para as acções de formação profissional a desenvolver no Centro e que o IEFP considere elegíveis para apresentação ao Fundo Social Europeu ou de interesse nacional, a comparticipação do IEFP será de molde a cobrir a totalidade das despesas de funcionamento co-financiadas por aquele Fundo comunitário, deduzidas eventuais receitas das acções.
+3 - Para as acções de formação profissional a desenvolver no Centro e que o IEFP considere elegíveis para apresentação ao Fundo Social Europeu ou de interesse nacional, a comparticipação do IEFP será de molde a cobrir a totalidade das despesas de funcionamento co-financiadas por aquele Fundo Comunitário, deduzidas eventuais receitas das acções.
+
+> Alterado pelo/a [Portaria n.º 26/94](https://diariodarepublica.pt/dr/detalhe/portaria/26-1994-532604), publicado em 1994-01-08.
 
 4 - As importâncias pagas pelas entidades referidas na cláusula III a título de inscrição nos cursos integram a comparticipação dos segundos outorgantes.
 

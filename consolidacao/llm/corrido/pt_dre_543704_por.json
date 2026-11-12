@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:543704:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "2 - Para a determinação do escalão da taxa aplicável a zonas de caça turística contíguas e pertencentes à mesma entidade gestora, atender-se-á à superfície total das mesmas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 347/91: nova redação do n.º 2 do n.º 1.º; substituída a unidade 12 mantendo o número '2 - '."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

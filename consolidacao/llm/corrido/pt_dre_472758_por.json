@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:472758:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "alterador": 1,
+      "texto": "2.º Nas Jornadas poderão participar engenheiros, arquitectos e outros diplomados com cursos superiores que exerçam actividade nos domínios da engenharia, arquitectura, geologia, geofísica, hidrologia e meteorologia.\n\n§ único. Poderão também participar, mediante autorização dos respectivos reitores, os alunos finalistas de cursos superiores dos domínios mencionados no corpo do artigo, das Universidades dos territórios onde se realizem as Jornadas."
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 121/70: nova redação do n.º 2.º (com § único novo) — substituída a unidade 10 pelo texto novo (corpo + § único)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

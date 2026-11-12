@@ -28,10 +28,63 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-04-18'
+version_history:
+  file: resolucao-conselho-ministros-15-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-01-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-04-18'
+    amending: pt:dre:2168027:por
+    amending_title: Aviso n.º 9222/2011
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 35.º
+    - Altera Artigo 39.º
+    - Altera Artigo 42.º
+    - Altera Artigo 45.º
+    - Altera Artigo 47.º
+    - Altera Artigo 49.º
+    - Altera Artigo 52.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 64.º
+    - Altera Artigo 65.º
+    - Altera Artigo 67.º
+    - Altera Artigo 76.º
+    - Altera Artigo 78.º
+    - Altera Artigo 80.º
+    - Altera Artigo 81.º
+    - Altera Artigo 82.º
+    - Altera Artigo 83.º
+    - Altera Artigo 84.º
+    - Altera Artigo 88.º
+    - Altera Artigo 89.º
+    - Altera Artigo 90.º
+    - Altera Artigo 91.º
+    - Altera Artigo 92.º
+    - Altera Artigo 93.º
+    - Altera Artigo 94.º
+    - Altera Artigo 95.º
+    - Altera Artigo 96.º
+    - Altera Artigo 97.º
+    - Altera Artigo 98.º
+    - Altera Artigo 99.º
+    - Altera Artigo 100.º
+    - Altera Artigo 101.º
+    - Altera Artigo 102.º
+    - Altera Artigo 104.º
+    - Altera Artigo 106.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/15/2006/01/27/p/dre/pt/html
@@ -57,7 +110,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-27T00:02:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso n.º 9222/2011. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2006/resolucao-conselho-ministros-15-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -250,7 +304,7 @@ b) «Área de implantação» a soma das áreas resultantes da projecção no pl
 
 4 - Índices urbanísticos:
 
-a) «Índice bruto de construção» o quociente entre a ABC e a área do Plano a que esta se reporta (todo o solo urbano, no caso do índice médio; cada uma das classes, categorias ou zonas de solo, no caso da edificabilidade);
+a) «Índice bruto de construção» o quociente entre a ABC e a área do Plano a que esta se reporta;
 
 b) «Índice bruto de implantação» o quociente entre a área de implantação e a área do piano a que esta se reporta;
 
@@ -294,25 +348,27 @@ As áreas das fachadas da cave confinantes com o espaço privado não estejam ma
 
 h) «Sótão» o espaço entre a última laje e a cobertura.
 
-8 - Tipos de obra:
+8 - Os tipos de obra são os considerados e definidos no artigo 2.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, com a redacção actual:
 
-a) «Construção» as obras de criação de novas edificações;
+a) (Revogada.)
 
-b) «Reconstrução» as obras de construção subsequentes à demolição total ou parcial de uma edificação existente, das quais resulte a manutenção ou a reconstituição da estrutura das fachadas, da cércea e do número de pisos;
+b) (Revogada.)
 
-c) «Ampliação» as obras que resultem no aumento da área de pavimento ou de implantação, da cércea ou do volume de uma edificação existente;
+c) (Revogada.)
 
-d) «Alteração» as obras que resultem na modificação das características físicas de uma edificação existente ou sua fracção, designadamente a respectiva estrutura resistente, o número de fogos ou divisões interiores, ou a natureza e cor dos materiais de revestimento exterior, sem aumento da área de pavimento ou de implantação ou da cércea;
+d) (Revogada.)
 
-e) «Conservação» as obras destinadas a manter uma edificação nas condições existentes à data da sua construção, reconstrução, ampliação ou alteração;
+e) (Revogada.)
 
-f) «Restauro» as obras de manutenção, de reparação e de valorização de elementos estruturais e decorativos de um imóvel, tendo como referência a época ou épocas em que tenha sido construído;
+f) (Revogada.)
 
-g) «Reabilitação» as obras destinadas a melhorar as condições de habitabilidade de uma edificação, podendo implicar a sua alteração e ou ampliação, mas com conservação dos elementos estruturais e decorativos de interesse;
+g) (Revogada.)
 
-h) «Recuperação» as obras de conservação, restauro ou reabilitação;
+h) (Revogada.)
 
-i) «Demolição» as obras de destruição, total ou parcial, de uma edificação existente.
+i) (Revogada.)
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ## TÍTULO II — Do património e das condicionantes ao uso do solo
 
@@ -442,15 +498,15 @@ Nas áreas identificadas como A deve assegurar-se um acompanhamento histórico/a
 
 Regem-se pela legislação aplicável as servidões administrativas e restrições de utilidade pública ao uso do solo seguidamente identificadas e que constam da planta de condicionantes:
 
-a) Domínio público hídrico;
+a) Domínio hídrico
 
 b) Margens e zonas inundáveis;
 
 c) Reserva Ecológica Nacional;
 
-d) Imóveis classificados ou em vias de classificação;
+d) Imóveis classificados;
 
-e) Edifícios públicos;
+e) (Revogada.)
 
 f) Saneamento básico;
 
@@ -464,11 +520,15 @@ j) Vias férreas;
 
 l) Aeroporto;
 
-m) Recintos escolares;
+m) (Revogada.)
 
 n) Defesa nacional;
 
 o) Área de jurisdição portuária.
+
+p) Zona vulnerável n.º 1.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 16.º — Descrição
 
@@ -498,11 +558,13 @@ h) Depósito de lixos e entulhos.
 
 ###### Artigo 18.º — Faixa contígua ao IC 1
 
-A faixa contígua ao IC 1 fica sujeita aos seguintes condicionalismos:
+A faixa contígua ao IC1 fica sujeita aos seguintes condicionalismos:
 
-a) Não é permitida a construção na faixa situada a menos de 50 m do eixo da estrada;
+a) (Revogada.)
 
-b) Deve ser elaborado, pelo IEP, um plano de monitorização e redução de ruído, considerando casos existentes e, eventualmente, alterando o valor referido na alínea anterior.
+b) Deve ser elaborado, pela EP, SA, um plano de monitorização e redução de ruído.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 19.º — Arruamentos integrantes da estrutura viária
 
@@ -514,9 +576,11 @@ b) Não é permitida a construção numa faixa de 40 m para um e outro lado do e
 
 ###### Artigo 20.º — Ferrovia
 
-1 - Não é permitida a construção na faixa de 20 m medida para um e outro lado do eixo do caminho de ferro a manter.
+1 - (Revogado.)
 
 2 - No caminho de ferro a desactivar, eventuais novos atravessamentos devem acautelar a possibilidade de futuro desnivelamento.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 21.º — Aqueduto de Vila do Conde (Santa Clara)
 
@@ -762,7 +826,7 @@ c) Deve dispor de equipamentos e infra-estruturas de apoio ao lazer, nomeadament
 
 d) O índice de impermeabilização não pode ultrapassar 0,05;
 
-e) O projecto do parque deve articular-se com o da via colectora e com o da «cidade desportiva» (E14), através de modelação do terreno que atenue o impacte da via e assegure passagens pedonais de nível.
+e) O projecto do parque deve articular-se com o da via colectora, com o da «cidade desportiva» (E14), através de modelação do terreno que atenue o impacto da via e assegure passagens pedonais de nível, bem como com o projecto do E17.
 
 2 - O verde urbano/rural de Argivai (V2) é uma zona verde urbana na qual deve ser articulada uma utilização de recreio e lazer com uma imagem rural, podendo ser dotada de pequenos equipamentos.
 
@@ -790,11 +854,13 @@ b) Quando confrontados com edificações, devem articular-se com as funções ne
 
 c) Quando não se articulem directamente com o edificado, a sua cobertura deve ser dominantemente vegetal, o solo não pode ser impermeabilizado em mais de 15% e devem dispor de equipamentos e mobiliário de apoio.
 
-6 - O verde de protecção ao IC 1, que se estende até 35 m do seu eixo, está sujeito às seguintes regras:
+6 - O verde de protecção ao IC1, correspondente à zona non aedificandi definida pela servidão administrativa do IC1, está sujeito às seguintes regras:
 
 a) Pode ser público ou privado, neste caso integrado em lotes urbanos;
 
 b) Não é permitida qualquer construção nem armazenamento ao ar livre.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ### CAPÍTULO III — Das zonas de equipamentos
 
@@ -830,7 +896,7 @@ Para cada uma das zonas de equipamento, são definidos, de forma indicativa, pod
 
 a) E1 - área afecta à Escola dos 2.º e 3.º Ciclos do Ensino Básico de Aver-o-Mar;
 
-b) E2 - área a afectar a espaço de feiras/parque de exposições; a ser edificada, o índice líquido de construção deve ser (igual ou menor que) 0,3;
+b) E2 - área a afectar a reserva de equipamentos; a ser edificada, o índice líquido de construção deve ser (igual ou menor que) 0,3;
 
 c) E3 - área a afectar a pólo desportivo, constituído por um grande campo de jogos (com pista de atletismo) e um polidesportivo descoberto;
 
@@ -854,13 +920,13 @@ m) E12 - área a afectar a escola do 2.º/3.º ciclos do ensino básico (com 30 
 
 n) E13 - área a afectar a escola do 1.º ciclo do ensino básico (com 12 salas);
 
-o) E14 - área a afectar a grande complexo desportivo («cidade desportiva»), integrando dois grandes campos de jogos (um deles com pista de atletismo), um pavilhão de desportos, um polidesportivo descoberto, duas piscinas ao ar livre, um circuito de manutenção e cinco campos de ténis; pode incluir, junto à via colectora, funções complementares (terciárias ou de alojamento);
+o) E14 - área a afectar a grande complexo desportivo («cidade desportiva»), integrando, para além do estádio desportivo municipal, outros equipamentos desportivos (públicos e privados), designadamente as novas instalações do Varzim Sport Clube e Clube Desportivo da Póvoa; pode incluir, junto à via colectora, funções complementares (terciárias ou de alojamento);
 
 p) E15 - área que deve integrar um parque de estacionamento (a norte) e um espaço de recepção do percurso verde pedonal (a sul);
 
 q) E16 - área a afectar a equipamento cultural, social e ou religioso; deve constituir remate e animação da zona verde;
 
-r) E17 - área a afectar a parque de estacionamento e equipamento de apoio (no remate da zona HC1);
+r) E17 - área a afectar a Parque de Estacionamento e equipamento de apoio (no remate da zona HC1), podendo incluir posto de recepção e atendimento, aluguer de bicicletas e estabelecimento de restauração e ou bebidas;
 
 s) E18 - área afecta às piscinas municipais, academia de ténis, equipamento lúdico e parques de estacionamento;
 
@@ -934,17 +1000,25 @@ fff) E52 - área afecta ao parque de estacionamento da Praça do Almada;
 
 ggg) E53 - área afecta à estação do metro;
 
-hhh) E54 - área afecta aos equipamentos do Varzim Sport Clube, Clube Desportivo da Póvoa e praça de touros; admite-se que os equipamentos dos dois clubes possam ser transferidos para a «cidade desportiva» (E14), hipótese em que será realizado um processo de renovação urbana, a sujeitar a plano de pormenor, abrangendo a globalidade desta área e obedecendo ao seguinte programa:
+hhh) E54 - área afecta aos equipamentos do Varzim Sport Clube, Clube Desportivo da Póvoa e Praça de Touros; em resultado do Plano de Pormenor da Zona E54, publicado no Diário da República, 2.ª série, através do [Aviso n.º 18087/2009](https://diariodarepublica.pt/dr/detalhe/aviso/18087-2009-3032408), de 14 de Outubro, os equipamentos dos dois clubes, no âmbito do processo de renovação urbana previsto, serão transferidos para a «cidade desportiva» (E14);
 
-Ocupação mista com presença de hotelaria, equipamentos, funções terciárias e habitacionais;
+iii) E55 - área afecta ao Centro Social de Aver-o-Mar, integrando Jardim de Infância, Creche, ATL e Lar de Idosos;
 
-Criação de espaço de recepção da Avenida de Vasco da Gama, valorizando a presença da praça de touros e das piscinas municipais e rematando o tecido urbano existente a norte;
+jjj) E56 - área afecta ao Centro Empresarial Agros; conjunto edificado de diversos blocos de serviços funcionalmente autónomos mas com gestão integrada, envolvido por amplos espaços verdes;
 
-Valorização da função de encontro e de estada pedonal, garantindo desafogo de espaço público e estacionamento suficiente;
+lll) E57 - área afecta a equipamento de carácter turístico, designadamente do sector hoteleiro; está sujeita às seguintes regras:
 
-Índice de construção a definir pelo plano de pormenor, tendo como referência 1,2; este valor pode ser ultrapassado, no máximo de 50%, se tal se revelar compatível com os requisitos anteriores e se mostrar indispensável à viabilidade de construção dos novos equipamentos;
+Número de pisos acima da cota de soleira: (igual ou menor que) 2
 
-iii) E55 - área a afectar a instalações do Instituto Maria da Paz Varzim, integrando jardim-de-infância, creche, ATL e centro de acolhimento temporário.
+Índice bruto de construção: (igual ou menor que) 0,25
+
+Índice de implantação: (igual ou menor que) 0,25;
+
+mmm) E58 - área a afectar a equipamentos de carácter social e de apoio à função habitacional;
+
+nnn) E59 - área afecta ao Auditório de Apoio ao Festival de Música e à Sede Social do Grupo Recreativo Estrela do Bonfim.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ### CAPÍTULO IV — Das zonas terciárias
 
@@ -964,7 +1038,7 @@ São zonas terciárias as definidas como tal na planta de zonamento e identifica
 
 a) Cumprimento das regras estabelecidas no artigo 58.º, devendo ser dada a maior importância à melhoria qualitativa e quantitativa do espaço público pedonal;
 
-b) A construção e a alteração dos edifícios deve manter uma equilibrada mistura funcional, com o nível do rés-do-chão dominantemente afecto a funções terciárias e com função habitacional em, pelo menos, 50% da ABC, excepto se destinados a equipamentos;
+b) A construção de novos edifícios deve manter uma equilibrada mistura funcional, com o nível do rés-do-chão dominantemente afecto a funções terciárias e, pelo menos 50 % dos pisos superiores destinados a habitação, excepto se o edifício, independentemente do uso, constituir uma só unidade funcional;
 
 c) O número de pisos dos edifícios não pode ultrapassar o constante do anexo II do Regulamento, devendo, em qualquer caso, ser respeitado o disposto no artigo 59.º do Regulamento Geral das Edificações Urbanas (RGEU).
 
@@ -980,7 +1054,7 @@ a) Assegurar passagem pública pedonal entre a estação do metro e a Praça do 
 
 b) Não pode ultrapassar os três pisos.
 
-4 - A zona T4, a integrar em plano de pormenor, nos termos previstos no artigo 34.º do Regulamento do Plano de Ordenamento da Orla Costeira Caminha-Espinho (aprovado pela [Resolução do Conselho de Ministros n.º 25/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-1999-549058), de 7 de Abril), está sujeita às seguintes regras:
+4 - A zona T4, a integrar em Plano Municipal de Ordenamento do Território, nos termos previstos no artigo 34.º do Regulamento do Plano de Ordenamento da Orla Costeira Caminha-Espinho, está sujeita às seguintes regras:
 
 a) Remate da edificação existente, configurando os espaços verdes contíguos propostos;
 
@@ -1022,13 +1096,19 @@ a) Funções terciárias no rés-do-chão do edificado, confrontando com praça 
 
 b) Cumprimento das regras urbanísticas estabelecidas no artigo 62.º
 
-11 - A zona T11 é uma área ocupada por uma unidade comercial e rematada por um edifício, de quatro pisos, destinando-se a funções terciárias e habitacionais.
+11 - A zona T11 é uma área ocupada por uma unidade comercial e rematada por um edifício, de 5 pisos, destinando-se a funções terciárias e habitacionais.
 
-12 - A zona T12, área actualmente ocupada pela fábrica Quintas & Quintas, S. A., pode ser afecta a funções habitacionais e terciárias, ficando sujeita às seguintes regras:
+12 - A zona T12, correspondente à urbanização da antiga fábrica Quintas & Quintas, SA, pode ser afecta a funções habitacionais e terciárias, estando sujeita às seguintes regras:
 
-a) Constituição de uma praça ao longo da EN 13, entre a Rua de Serpa Pinto e a Basílica do Sagrado Coração de Jesus, cuja presença deve ser sublinhada;
+a) Constituição de uma praça ao longo da EN 13, entre a Rua Serpa Pinto e a Basílica do Sagrado Coração de Jesus, cuja presença deve ser sublinhada;
 
-b) Cumprimento das regras urbanísticas estabelecidas no artigo 62.º, n.º 2.
+b) Construção de parque de estacionamento subterrâneo;
+
+c) Edifício de 6 a 8 pisos acima do solo, conformando a praça;
+
+d) Índice bruto de construção: (igual ou menor que) 1,73;
+
+e) Índice de implantação: 0,40.
 
 13 - A zona T13 está sujeita às seguintes regras:
 
@@ -1042,23 +1122,23 @@ a) Criação de praça, a nascente/norte, confrontante com uma banda contínua d
 
 b) Funções terciárias no rés-do-chão do edificado.
 
-15 - A zona T15 está sujeita às seguintes regras:
-
-a) Banda contínua de dois pisos confrontando com a zona verde;
-
-b) Funções terciárias no rés-do-chão do edificado.
+15 - (Revogado.)
 
 16 - A zona T16 está sujeita às seguintes regras:
 
-a) Quarteirão de quatro pisos, com funções terciárias no rés-do-chão do edificado;
+a) Quarteirão com edificação em banda com altura máxima de 5 pisos, com funções terciárias no rés-do-chão do edificado;
 
 b) Profundidade dos edifícios não superior a 15 m.
+
+c) Índice bruto de construção (igual ou menor que) 1,2.
 
 17 - A zona T17 está sujeita às seguintes regras:
 
-a) Banda dominantemente contínua, de quatro pisos, com funções terciárias no rés-do-chão do edificado;
+a) Banda dominantemente contínua, com altura máxima de 5 pisos, com funções terciárias no rés-do-chão do edificado;
 
 b) Profundidade dos edifícios não superior a 15 m.
+
+c) Índice bruto de construção (igual ou menor que) 1,2.
 
 18 - A zona T18, área edificada associada à Capela de Nossa Senhora de Belém, que mantém ainda o seu carácter rural, está sujeita às seguintes regras:
 
@@ -1094,7 +1174,7 @@ a) Banda contínua, de um piso, confrontante com a zona verde;
 
 b) Funções terciárias.
 
-23 - Na zona T23, que faz o remate da zona HE6, mantêm-se as regras urbanísticas desta zona (artigo 57.º), devendo ser garantida uma percentagem de funções terciárias nunca inferior a 30% do total da ABC e criada uma praça a norte, confrontante com o percurso verde e pedonal.
+23 - (Revogado.)
 
 24 - A zona T24 está sujeita às seguintes regras:
 
@@ -1136,6 +1216,8 @@ a) Devem ser cumpridas as regras urbanísticas da zona HE3, sendo que as bandas 
 
 b) Rés-do-chão afecto a funções terciárias e com função habitacional em, pelo menos, 50% da ABC.
 
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
+
 ### CAPÍTULO V — Das zonas de actividades
 
 ###### Artigo 43.º — Âmbito e objectivos
@@ -1150,7 +1232,7 @@ As zonas de actividades são áreas dominantemente destinadas a actividades indu
 
 ###### Artigo 45.º — Zonas AE
 
-1 - As zonas AE destinam-se a indústrias dos tipos 2, 3 e 4, a equipamentos de apoio à indústria, a armazéns e a grandes superfícies comerciais, podendo ainda albergar comércio retalhista, serviços, escritórios e habitação, mas apenas quando tal seja previsto em estudo urbanístico abrangendo a totalidade da zona e desde que a respectiva ABC não ultrapasse 20% do total.
+1 - As zonas AE destinam-se a indústrias do tipo 2 e 3, a equipamentos de apoio à indústria, a armazéns, a grandes superfícies comerciais, comércio retalhista, serviços e escritórios, podendo ainda destinar-se parcialmente a habitação se tal for previsto em estudo urbanístico abrangendo a totalidade da área de intervenção e a respectiva ABC não ultrapasse 20 % do total.
 
 2 - Nestas zonas, o perfil transversal dos arruamentos é o seguinte (cotas em metros):
 
@@ -1176,6 +1258,8 @@ b) Índice bruto de implantação (igual ou menor que) 0,4.
 
 6 - Nestas zonas não é permitido o funcionamento de actividades que provoquem níveis sonoros acima dos 65 dB (A) nas zonas envolventes.
 
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
+
 ###### Artigo 46.º — Zonas AC
 
 1 - Sempre que possível, nomeadamente em loteamentos, são aplicáveis as regras estabelecidas no artigo anterior.
@@ -1192,7 +1276,9 @@ b) Índice líquido de implantação (igual ou menor que) 0,5.
 
 1 - As zonas habitacionais são áreas dominantemente destinadas à habitação.
 
-2 - A fim de evitar uma excessiva monofuncionalidade, estas áreas podem e devem incluir outros usos (nomeadamente equipamentos, funções terciárias e indústria das classes 4 e, eventualmente, 3), desde que os mesmos se mostrem compatíveis com a habitação e se insiram nas condições de habitabilidade das respectivas zonas.
+2 - A fim de evitar uma excessiva monofuncionalidade, estas áreas podem e devem incluir outros usos (nomeadamente equipamentos, funções terciárias e indústria do tipo 3), desde que os mesmos se mostrem compatíveis com a habitação e se insiram nas condições de habitabilidade das respectivas zonas.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 48.º — Usos compatíveis
 
@@ -1214,7 +1300,9 @@ b) Zonas habitacionais a conservar e ou consolidar (HC), as quais, consoante as 
 
 c) Zonas habitacionais a qualificar (HQ);
 
-d) Zonas habitacionais não tipificadas, H11 a H17, que devem obedecer a regras singulares, estabelecidas para cada uma.
+d) Zonas habitacionais não tipificadas, H11 a H22, que devem obedecer a regras singulares, estabelecidas para cada uma.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 50.º — Zonas habitacionais de expansão - HE
 
@@ -1290,21 +1378,23 @@ i) Índice bruto de construção: 0,5 a 0,6;
 
 j) Índice líquido de implantação (igual ou menor que) 0,65;
 
-l) Número de pisos e implantação dos edifícios, conforme desenho e regras seguintes, salvo em projectos de execução assegurada que abranjam a totalidade de um troço de rua (entre cruzamentos, dos dois lados da via), caso em que será admitida qualquer solução unitária, com a limitação de que não pode ocorrer edificação com mais de dois pisos (cotas em metros):
+l) Número de pisos e implantação dos edifícios, conforme desenho e regras seguintes, salvo em projectos de execução assegurada que abranjam a totalidade de um troço de rua (entre cruzamentos e de um ou de ambos os lados), caso em que será admitida qualquer solução unitária que respeite o disposto no artigo 58.º (cotas em metros):
 
-[[[[[[[[[[[[[(ver desenho no documento original)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/076000000/1766417670.pdf)
 
-A área C não pode ser edificada.
+A área C não pode ser edificada;
 
-Os alinhamentos de A fronteiros aos arruamentos devem ser respeitados.
+Os alinhamentos de A fronteiros aos arruamentos devem ser respeitados;
 
-Na área A não pode ocorrer edificação com mais de dois pisos.
+Na área A não pode ocorrer edificação com mais de 2 pisos;
 
-Na área B não pode ocorrer edificação com mais de um piso; nesta área, a existir edificação, todos os seus vãos devem virar-se para o interior do lote e a sua cobertura não pode ultrapassar, em nenhum ponto, 4 m de altura.
+Na área B não pode ocorrer edificação com mais de 1 piso; nesta área, a existir edificação, todos os seus vãos devem virar-se para o interior do lote e a sua cobertura não pode ultrapassar, em nenhum ponto, os 4 m de altura.
 
 m) Lotes que integrem funções não habitacionais devem organizar-se em contínuo de fachada, em contacto directo com largo (pedonal);
 
 n) Muros confrontantes com o espaço público, de alvenaria, com altura entre 0,8 m e 1,2 m, podendo ser complementados com gradeamento discreto e ou sebe vegetal.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 53.º — Zonas HE2
 
@@ -1408,9 +1498,9 @@ b) Perfil transversal desejável dos arruamentos (cotas em metros):
 
 [[[[[[[[[[[[[(ver desenho no documento original)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)
 
-c) Edifícios de quatro a oito pisos localizados entre a via a criar e a Avenida de 25 de Abril, perpendiculares à primeira, rodeados por espaço público e com afastamentos entre si nunca inferiores a 27 m; do outro lado da via, banda contínua de três pisos;
+c) Edifícios isolados, com o máximo de 8 pisos, a implantar entre a via a criar e a Avenida 25 de Abril, rodeados por espaço público; do outro lado da via a criar, banda contínua, com o máximo de 3 pisos;
 
-d) O estacionamento destinado aos edifícios de quatro a oito pisos deve localizar-se em bolsas de desenho regular e muito arborizadas, que ocorrerão entre estes, de forma alternada; o destinado à banda contínua deve localizar-se ao longo da via;
+d) O estacionamento público envolvente aos edifícios isolados deve localizar-se em bolsas de desenho regular e muito arborizadas; o destinado à banda contínua deve localizar-se ao longo da via;
 
 e) Os espaços públicos entre edifícios, que alternam com os de estacionamento, devem potenciar locais de encontro e de estada pedonal, devendo a sua cobertura ser dominantemente vegetal, mas ocorrendo pavimentos duros na contiguidade de funções terciárias localizadas nos pisos térreos dos edifícios;
 
@@ -1418,7 +1508,9 @@ f) Número de fogos por hectare: 60 a 75, salvo situações de habitação socia
 
 g) Índice bruto de construção: 1,0 a 1,2;
 
-h) Cada edifício ou conjunto de edifícios deve dispor de estacionamento em cave; no caso dos edifícios de quatro a oito pisos, o limite do estacionamento pode passar o dos edifícios, mas a respectiva cota de cobertura não pode ultrapassar a do espaço público envolvente.
+h) Cada edifício ou conjunto de edifícios deve dispor de estacionamento em cave; no caso dos edifícios isolados, o limite do estacionamento pode passar o dos edifícios, mas a respectiva cota de cobertura não pode ultrapassar a do espaço público envolvente.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 58.º — Zonas habitacionais a conservar e ou consolidar - HC
 
@@ -1428,13 +1520,15 @@ h) Cada edifício ou conjunto de edifícios deve dispor de estacionamento em cav
 
 a) A morfologia urbana, nomeadamente no que respeita à estrutura do espaço público, à dimensão dos lotes e à linguagem das edificações, deve ser respeitada e valorizada;
 
-b) O espaço público (vias, estacionamento e zonas livres) deve ser melhorado e, sempre que necessário, redimensionado, devendo o licenciamento ou autorização de obras articular-se e subordinar-se à necessidade desse redimensionamento;
+b) O espaço público (vias, estacionamento e zonas livres) deve ser melhorado e, sempre que necessário, redimensionado, devendo a operação urbanística articular-se e subordinar-se à necessidade desse redimensionamento;
 
 c) Os espaços desaproveitados/expectantes devem ser preenchidos por lotes e construção ou espaços públicos tratados;
 
 d) As características tipológicas das edificações, assim como volumes e cérceas maioritários, e alinhamentos dominantes devem ser mantidos;
 
 e) As obras de recuperação, ampliação, reconstrução ou construção nova devem visar a melhoria das condições habitacionais existentes e evitar uma densificação incompatível com as infra-estruturas e os espaços públicos.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 59.º — Zonas HC0
 
@@ -1492,17 +1586,21 @@ Nas zonas HC4 são aplicáveis as regras estabelecidas no artigo 55.º (relativo
 
 a) As novas intervenções devem procurar contribuir para a estruturação da respectiva zona, através de: abertura de novas vias de ligação entre as existentes; criação de largos ou praças na confluência de vias, e clarificação dos limites entre espaço público e espaço privado;
 
-b) Nos locais menos edificados e infra-estruturados, em que sejam abertas novas vias, as soluções a adoptar devem ser de edificação em banda contínua, formatando ruas e praças;
+b) Nos locais menos edificados e infra-estruturados, que impliquem a prévia estruturação da zona, as soluções a adoptar devem ser de edificação em banda contínua, formatando ruas e praças;
 
-c) Nos locais mais edificados, as soluções devem respeitar e ou procurar articular as preexistências, colmatando eventuais carências ou indefinições relativas ao espaço público.
+c) Nos locais mais edificados, ou seja, com estrutura urbana definida, as soluções devem respeitar e ou procurar articular as preexistências e colmatar eventuais carências ou indefinições relativas ao espaço público.
 
-3 - São-lhes aplicáveis as seguintes regras:
+3 - Nos locais menos edificados e infra-estruturados, que impliquem a prévia estruturação da zona, são aplicáveis as seguintes regras:
 
 a) Índice bruto de construção: 0,7 a 1,0;
 
-b) Número de pisos: dois a três; nas situações referidas na alínea c) do número anterior pode atingir-se, pontualmente, os quatro pisos;
+b) Número de pisos: 2 a 3;
 
 c) Perfil transversal das vias conforme HE2 [alínea d) do artigo 53.º].
+
+4 - Nos locais mais edificados, ou seja, com estrutura urbana definida, são aplicáveis as regras do artigo 58.º
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 65.º — Zonas habitacionais não tipificadas - H11 a H20
 
@@ -1510,9 +1608,9 @@ c) Perfil transversal das vias conforme HE2 [alínea d) do artigo 53.º].
 
 a) Lotes divididos por muros (ou sebes vegetais) de vedação, sendo que o frontal à via deve manter o alinhamento existente e não ultrapassar 1 m de altura;
 
-b) Edifícios de três pisos, implantados paralelamente à via, mantendo o alinhamento dominante, ou, na sua ausência, afastados 12 m do muro frontal, com frentes não superiores a 20 m e com afastamentos aos muros laterais não inferiores a 5 m;
+b) Edifícios implantados paralelamente à via, com o alinhamento mais frequente da frente edificada em cada um dos lados de cada troço de arruamento em que se inserem;
 
-c) Índice líquido de construção (igual ou menor que) 0,8.
+c) Cércea não superior à altura da fachada mais frequente da frente edificada, em cada um dos lados de cada um dos troços do arruamento em que se inserem.
 
 2 - A zona H12 está sujeita às seguintes regras:
 
@@ -1532,11 +1630,13 @@ c) As frentes dos edifícios viradas para a Avenida do Mar, assim como o remate 
 
 4 - A zona H14, área marcante pela entrada na cidade através da Avenida do Mar, está sujeita às seguintes regras:
 
-a) Área a edificar com edifícios paralelos à via de acesso e rodeados por espaço público, de três pisos, com frentes entre 40 m e 50 m e 15 m de profundidade;
+a) Área a edificar com edifícios isolados, paralelos à via de acesso e rodeados por espaço público, de 3 pisos, com frentes entre 40 e 50 m e 15 m de profundidade, podendo atingir 18 m no piso em cave, desde que totalmente enterrada em relação à cota da via pública e abrangendo apenas a área do logradouro posterior (voltada para a Avenida do Mar);
 
 b) Garantia da permeabilidade de vistas, com edifícios distantes entre si, pelo menos, 15 m;
 
-c) As frentes dos edifícios viradas para a Avenida do Mar devem ser objecto de especial qualidade arquitectónica.
+c) A área do lote corresponde à área máxima passível de ocupação pelo edifício (incluindo cave);
+
+d) O muro de vedação do logradouro posterior deverá ter acabamento exterior em pedra não polida, com altura máxima de 1,20 m, não podendo ser encimado por qualquer elemento.
 
 5 - A zona H15, núcleo existente associado à Capela da Senhora de Belém, cujas características rurais, muros de pedra, calçada de granito, traçado das vias e materiais tradicionais de construção devem ser mantidos e recuperados, está sujeita às seguintes regras:
 
@@ -1554,7 +1654,29 @@ c) As demais regras urbanísticas são as previstas para as zonas HC1 (artigo 60
 
 9 - A zona H19 destina-se a habitação cooperativa, aplicando-se as regras estabelecidas para HE1.
 
-10 - A zona H20 corresponde à UOPG n.º 5 do Plano de Ordenamento da Orla Costeira de Caminha-Espinho, obedecendo às regras aí estabelecidas.
+10 - A zona H20 corresponde à UOPG n.º 6 do Plano de Ordenamento da Orla Costeira Caminha-Espinho, devendo ser alvo de um Plano Municipal de Ordenamento do Território no respeito dos parâmetros estabelecidos;
+
+11 - A zona H21 está sujeita às seguintes regras:
+
+a) Bandas contínuas de edificação com frentes voltadas para a Avenida 25 de Abril, intercaladas com amplos espaços verdes;
+
+b) Cércea máxima de 6 pisos acima do solo;
+
+c) Índice bruto de construção: (igual ou menor que) 1,14;
+
+d) Índice de implantação: (igual ou menor que) 0,25;
+
+e) Uso dominantemente habitacional com possibilidade de terciário no rés-do-chão.
+
+12 - A zona H22 corresponde a uma área de habitação de baixa densidade, respeitando as seguintes regras:
+
+a) Número de pisos acima da cota de soleira: (igual ou menor que) 2;
+
+b) Índice bruto de construção: (igual ou menor que) 0,25;
+
+c) Índice de implantação: (igual ou menor que) 0,25.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ### CAPÍTULO VII — Do dimensionamento genérico de infra-estruturas
 
@@ -1568,11 +1690,9 @@ c) As demais regras urbanísticas são as previstas para as zonas HC1 (artigo 60
 
 ###### Artigo 67.º — Estacionamento
 
-1 - O número de lugares de estacionamento a prever, em função das actividades a instalar, não deve ser inferior ao definido no quadro seguinte:
+1 - Os lugares de estacionamento a prever, em função das actividades a instalar, não deve ser inferior aos valores estabelecidos na [Portaria n.º 216-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/216-b-2008-243887), de 3 de Março.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/01/020b00/06270650.pdf)
-
-2 - Para as zonas da cidade em que são fixados parâmetros específicos devem prevalecer os mais elevados.
+2 - (Revogado.)
 
 3 - Nas zonas já urbanizadas, quando os parâmetros fixados no n.º 1 se revelarem incompatíveis com os princípios estabelecidos no n.º 2 do artigo 58.º, estes devem prevalecer, sem prejuízo de serem procuradas soluções que se aproximem daqueles parâmetros.
 
@@ -1581,6 +1701,8 @@ c) As demais regras urbanísticas são as previstas para as zonas HC1 (artigo 60
 5 - Os estudos específicos referidos no número anterior devem ainda ser realizados relativamente aos equipamentos.
 
 6 - O estacionamento privado deve, preferencialmente, localizar-se em cave, devendo evitar-se nos alçados virados para o espaço público a presença excessiva de garagens e de acessos a estacionamento.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 68.º — Espaços públicos
 
@@ -1672,13 +1794,15 @@ b) Desde que garantida a execução de solução de conjunto, pode admitir-se af
 
 ###### Artigo 76.º — Profundidade
 
-1 - Na edificação em banda contínua ou geminada, a profundidade de cada edifício, tal como definida no artigo 4.º, n.º 7, alínea f), está sujeita às seguintes regras:
+1 - Na edificação em banda contínua ou geminada é admitida a profundidade de 15 m;
 
-a) Deve ser mantida a profundidade dos edifícios preexistentes a que encosta, numa distância de 3 m a 5 m;
+a) (Revogada.)
 
-b) Nas restantes situações, a profundidade não pode exceder os 15 m.
+b) (Revogada.)
 
-2 - A regra prevista na alínea a) do número anterior pode ser excepcionada mediante acordo escrito entre vizinhos fixando uma profundidade não superior a 15 m, que ambos têm de cumprir posteriormente.
+2 - Excepcionalmente, pode ser adoptada a profundidade superior dos edifícios preexistentes a que encosta, numa distância de 3 m a 5 m, mas apenas quando esses edifícios preexistentes possuam já as volumetrias e cérceas máximas admitidas por este regulamento.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 77.º — Afastamentos posteriores
 
@@ -1700,6 +1824,10 @@ b) A sua implantação não pode prejudicar as condições de habitabilidade da 
 
 c) Nas zonas do núcleo central em que não estão definidos índices urbanísticos (gestão por número de pisos, conforme o anexo II), é admissível uma área máxima para anexos com valor correspondente a uma faixa com a largura da fachada posterior da edificação principal e a profundidade de 6 m, podendo essa área ser distribuída pelo logradouro posterior sem qualquer restrição relativa à implantação ou ser utilizada para ampliação da profundidade do piso térreo.
 
+d) Excepcionalmente, nas zonas terciárias T1 e T2, admite-se a ocupação total do piso do rés-do-chão, desde que destinado exclusivamente ao reforço da capacidade de estacionamento automóvel a que se refere o artigo 67.º
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
+
 ###### Artigo 79.º — Alturas de meação
 
 1 - A altura de qualquer vedação ou empena confrontante com logradouro (não edificado) do vizinho, ou dele afastada menos de 3 m, não pode ser superior a 4 m, medidos em relação à cota do espaço público.
@@ -1712,15 +1840,23 @@ c) Nas zonas do núcleo central em que não estão definidos índices urbanísti
 
 ###### Artigo 80.º — Índice médio de utilização
 
-1 - O índice médio de utilização relativo às áreas de expansão, conforme são delimitadas na planta de orientação executória, determinado através do quociente entre o somatório da ABC prevista para essas áreas (nas zonas habitacionais, terciárias e de actividades) e o somatório das superfícies dessas áreas, é igual a 0,5.
+1 - São fixados para a UOPG n.º 1 (Agro-Velho) e para a UOPG n.º 2 (Avenida 25 de Abril), definidas na planta de orientação executória, os seguintes índices médios de utilização:
 
-2 - O índice médio calculado em relação à totalidade da área do Plano é igualmente de 0,5.
+a) UOPG n.º 1 (Agro-Velho): 0,7 m2 de ABC por cada m2 de terreno;
+
+b) UOPG n.º 2 (Avenida 25 de Abril): 0,8 m2 de ABC por cada m2 de terreno.
+
+2 - (Revogado.)
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 81.º — Área de cedência média
 
-1 - A área de cedência média relativa à totalidade da cidade, determinada através do quociente entre as áreas destinadas à rede viária colectora, estrutura verde e zonas de equipamentos, e a ABC das zonas habitacionais, terciárias e de actividades é igual a 0,50 m2 por cada metro quadrado de ABC.
+1 - A área de cedência média relativa à totalidade da área do PUPV, determinada através do quociente entre o somatório das áreas destinadas à rede viária colectora, estrutura verde e zonas de equipamentos, e a ABC das zonas habitacionais, terciárias e de actividades é igual a 0,50 m2 por cada metro quadrado de ABC.
 
-2 - Aplicado o mesmo rácio às áreas de expansão e à globalidade da cidade, o valor é similar.
+2 - (Revogado.)
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ## TÍTULO IV — Das regras para a execução do Plano
 
@@ -1730,19 +1866,23 @@ c) Nas zonas do núcleo central em que não estão definidos índices urbanísti
 
 1 - Todas as urbanizações, edificações, infra-estruturas, equipamentos e espaços verdes a erigir na área do PUPV devem visar a melhoria formal e funcional do espaço onde se inserem.
 
-2 - Estabelecendo este Regulamento princípios e objectivos, mas também índices urbanísticos e outras regras quantitativas, devem, em caso de dúvida, considerar-se os primeiros como prevalecentes relativamente aos segundos.
+2 - (Revogado.)
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 83.º — Sequências e condições prévias
 
 1 - A edificação deve ser precedida de estudos urbanísticos e da existência dos correspondentes e necessários espaço público e de infra-estruturas.
 
-2 - Em conformidade com o referido no número anterior, as obras de construção devem ser precedidas de operações de loteamento, salvo nas situações em que, face a uma parcela que se conforme com as soluções morfotipológicas regulamentadas para a zona e face a um espaço público suficiente, seja demonstrada a desnecessidade de transformação da situação fundiária.
+2 - Sem prejuízo das disposições legais relativas a destaque de parcela, o licenciamento de obras de construção deve ser precedido de operações de loteamento ou operações com impacte semelhante, como definidas em Regulamento Municipal, e respectivas obras de urbanização, salvo nas situações em que, face a uma parcela que se conforme com as soluções morfotipológicas regulamentadas para a zona e face a um espaço público suficiente, seja demonstrada a desnecessidade de transformação da situação fundiária.
 
-3 - Considerado o disposto no n.º 1, o licenciamento ou autorização de uma dada operação urbanística pode ser condicionado à associação entre proprietários.
+3 - Considerado o disposto no n.º 1, a execução de uma dada operação urbanística pode ser condicionado à associação entre proprietários.
 
 4 - No caso previsto no número anterior, a Câmara Municipal pode dinamizar a associação entre proprietários ou assumir uma intervenção mais directa.
 
 5 - A Câmara Municipal pode fixar as características técnicas e a natureza das infra-estruturas e espaços públicos a construir.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 84.º — Estudos urbanísticos
 
@@ -1750,15 +1890,17 @@ c) Nas zonas do núcleo central em que não estão definidos índices urbanísti
 
 2 - Os estudos, que devem ter o desenvolvimento suficiente para assegurar a harmonia, o enquadramento e a complementaridade das diversas iniciativas públicas e privadas, podem traduzir-se em:
 
-a) Planos de pormenor, tal como definidos na legislação que disciplina o regime jurídico dos planos municipais de ordenamento do território, incluindo as respectivas modalidades simplificadas;
+a) Planos de Pormenor, tal como definidos na legislação que disciplina o regime jurídico dos Planos Municipais de Ordenamento do Território, incluindo as respectivas modalidades específicas;
 
 b) Operações de loteamento urbano, nos termos do respectivo regime jurídico;
 
-c) Estudos de enquadramento, de natureza não vinculativa, que possam contribuir para a viabilização das diversas iniciativas.
+c) (Revogada.)
 
 3 - Os estudos a realizar devem compatibilizar os parâmetros urbanísticos estabelecidos com o princípio da igualdade, procurando obter a justa repartição de benefícios e encargos decorrentes das intervenções urbanísticas.
 
-4 - Os estudos de enquadramento são de responsabilidade municipal, sem prejuízo de eventual iniciativa particular, com sujeição a aprovação pela Câmara Municipal.
+4 - (Revogado.)
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ### CAPÍTULO II — Das intervenções estratégicas e prioritárias
 
@@ -1804,21 +1946,23 @@ m) Fronteira com Vila do Conde.
 
 ###### Artigo 88.º — Avenida de 25 de Abril
 
-1 - Esta intervenção estratégica e prioritária obedece ao seguinte programa:
+1 - Esta intervenção estratégica e prioritária, correspondente à UOPG n.º 2 delimitada na planta de orientação executória, obedece ao seguinte programa:
 
-a) Construção de via colectora (Avenida de 25 de Abril), alternativa à actual EN 13, numa primeira fase com duas vias;
+a) Construção de via colectora (Avenida 25 de Abril), alternativa à actual EN 13, numa primeira fase apenas com duas faixas de rodagem;
 
 b) Constituição de uma estrutura verde, criando percursos pedonais, acautelando impactes negativos entre as funções viária e residencial, e abrindo-se em espaços de lazer;
 
 c) Urbanização dos espaços adjacentes, potenciando a construção de cerca de 1300 fogos (estudo urbanístico, como sugestão, em anexo); a modelação do terreno deve articular-se com a zona verde adjacente, por forma a viabilizar atravessamentos pedonais de nível.
 
-2 - A intervenção está sujeita às seguintes orientações:
+2 - A intervenção está sujeita às seguintes regras:
 
 a) Constituição de unidades de execução, abrangendo a totalidade da UOPG;
 
 b) Cedência para o domínio público municipal dos terrenos destinados à via e estrutura verde;
 
 c) Assunção pela CMPV dos encargos com a construção da Avenida de 25 de Abril e com os maiores alargamentos verdes a nascente da via, um junto à Capela de Nossa Senhora de Belém e outro junto à Escola de Penalves.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 89.º — Praça do Almada, eliminação do atravessamento automóvel
 
@@ -1828,11 +1972,13 @@ a) Eliminação do atravessamento automóvel da praça na direcção norte-sul (
 
 b) Qualificação da praça.
 
-2 - A intervenção está sujeita às seguintes orientações:
+2 - A intervenção está sujeita às seguintes regras:
 
 a) Elaboração, pela CMPV, de estudo de circulação, transportes e estacionamento, que abranja a globalidade da área T1; deve ser garantido o acesso automóvel à praça, mas sem permitir o seu atravessamento (esquema/sugestão em anexo);
 
 b) Obras correspondentes, que devem incluir uma nova ligação entre a Praça do Almada e o Largo das Dores.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 90.º — Da Avenida de Mouzinho de Albuquerque à Avenida de 25 de Abril
 
@@ -1844,11 +1990,13 @@ b) Urbanização adjacente a esta via;
 
 c) Remodelação/qualificação da Avenida de Mouzinho de Albuquerque e do Largo das Dores.
 
-2 - A intervenção está sujeita às seguintes orientações:
+2 - A intervenção está sujeita às seguintes regras:
 
 a) Construção e remodelação da via a cargo da CMPV;
 
-b) Construção adjacente a dinamizar pela CMPV, podendo ocorrer através de licenciamento ou autorização caso a caso.
+b) Construção adjacente a dinamizar pela CMPV, podendo ocorrer através de operações urbanísticas individuais.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 91.º — Remodelação da linha férrea
 
@@ -1862,13 +2010,15 @@ c) Urbanização da zona da estação (T3), criando um espaço pedonal qualifica
 
 d) Criação de um espaço intermodal de transportes junto à Avenida de 25 de Abril (espaço E29).
 
-2 - A intervenção está sujeita às seguintes orientações:
+2 - A intervenção está sujeita às seguintes regras:
 
 a) Acompanhamento do processo do metro ligeiro de superfície por parte da CMPV - projecto a cargo da Metro do Porto, S. A.;
 
 b) Urbanização do espaço T3 - proposta de dinamização pela CMPV do processo associativo entre proprietários, com eventual sujeição a unidade de execução;
 
 c) Zona E29 - aquisição do terreno pela CMPV; promoção do empreendimento (intermodal + centro comercial) de forma empresarial, buscando parcerias.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 92.º — Do Largo das Dores ao futuro intermodal de transportes
 
@@ -1882,7 +2032,9 @@ c) Formatação e qualificação do actual espaço da feira (E28);
 
 d) Aquisição de terrenos para intermodal de transportes e feira.
 
-2 - Constitui orientação para a presente intervenção a criação de unidade de execução por cooperação, abrangendo a globalidade da UOPG.
+2 - (Revogado.)
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 93.º — Estrutura viária envolvente ao parque da cidade
 
@@ -1896,11 +2048,9 @@ c) Urbanizações adjacentes;
 
 d) Construção de equipamentos escolares e de um centro local (E12 e E13).
 
-2 - A intervenção está sujeita às seguintes orientações:
+2 - (Revogado.)
 
-a) Constituição de unidade ou unidades de execução por imposição administrativa;
-
-b) Assunção pela Administração dos encargos com a construção das vias e equipamentos.
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 94.º — Parque da cidade e ligação à marginal
 
@@ -1920,15 +2070,25 @@ f) Urbanização inicial de Agro-Velho, incluindo zona verde e equipamento;
 
 g) Criação de um largo com estacionamento subterrâneo, onde se localize um edifício com funções terciárias, que constitua também remate ao parque de estacionamento existente a norte.
 
-2 - A intervenção está sujeita às seguintes orientações:
+2 - A intervenção está sujeita às seguintes regras:
 
 a) Aquisição do terreno e construção do parque pela CMPV;
 
 b) Dinamização, pela CMPV, de cada um dos proprietários da área de Penouces, substituindo-os se necessário;
 
-c) Constituição de uma unidade de execução por cooperação, abrangendo a intervenção de Agro-Velho;
+c) Constituição de uma UOPG para a zona de Agro-Velho (UOPG n.º 1)
 
 d) Articulação CMPV/Novotel, com vista à concretização do programa definido para o espaço fronteiro ao hotel.
+
+3 - Para a UOPG n.º 1 - Agro-Velho referida na alínea c) no número anterior são definidos os seguintes objectivos (constantes do estudo urbanístico, como sugestão em anexo):
+
+a) Estruturação viária assente no complemento das ligações transversais entre a Rua Gomes de Amorim (EN13) e a Avenida Repatriamento dos Poveiros;
+
+b) Criação de amplos espaços verdes e equipamentos de utilização colectiva;
+
+c) Delimitação de quarteirões formatados por bandas contínuas de edificações com soluções arquitectónicas de qualidade, em especial no que se refere à natureza dos materiais de revestimento das fachadas confinantes com o espaço público.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 95.º — Aver-o-Mar, nova centralidade e percursos afluentes
 
@@ -1942,23 +2102,23 @@ c) Criação de uma nova centralidade (praças e construção marginal) entre o 
 
 d) Qualificação da Avenida de Nossa Senhora das Neves, com reforço da função pedonal.
 
-2 - A intervenção está sujeita às seguintes orientações:
+2 - (Revogado.)
 
-a) Constituição de unidades de execução por cooperação e ou imposição administrativa, procurando que a cada conjunto corresponda um índice de construção igual a 0,5;
-
-b) Na situação de propriedades atravessadas pelas vias, sem adquirirem capacidade construtiva, aquisição pelo município do terreno necessário.
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 96.º — Aver-o-Mar, faixa a poente da marginal
 
-1 - Esta intervenção estratégica e prioritária obedece ao seguinte programa:
+1 - Esta intervenção estratégica e prioritária obedece ao programa que vier a ser estabelecido no Plano Municipal de Ordenamento do Território previsto no âmbito do Plano de Ordenamento da Orla Costeira Caminha-Espinho (UOPG n.º 7) e cuja elaboração deve acolher as regras nele estabelecidas.
 
-a) Ordenamento da área atendendo à sua articulação com a frente urbana e requalificando o espaço;
+a) (Revogada.)
 
-b) Definição das regras e parâmetros de afectação dos espaços públicos e privados, avaliando a possível reversão destes para o domínio público do Estado ou do município;
+b) (Revogada.)
 
-c) Previsão de equipamentos e áreas de apoio às praias, em função da sua carga de utilização, como, por exemplo, piscina oceânica, complexo desportivo (ténis, squash, recintos polidesportivos), ou mesmo museu ligado às actividades agro-marítimas.
+c) (Revogada.)
 
-2 - Constitui orientação para a presente intervenção a elaboração de plano de pormenor em articulação entre a CMPV e o Instituto da Água.
+2 - (Revogado.)
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 97.º — De Penalves ao Feira Nova
 
@@ -1974,7 +2134,7 @@ d) Construção de escola básica (E45);
 
 e) Qualificação do conjunto urbano correspondente ao Feira Nova, constituindo praça (com terciário), a poente, e reformulando todo o acesso automóvel (T25).
 
-2 - A intervenção está sujeita às seguintes orientações:
+2 - A intervenção está sujeita às seguintes regras:
 
 a) Remodelação e qualificação do percurso a cargo da CMPV;
 
@@ -1983,6 +2143,8 @@ b) Dinamização pela CMPV de cada um dos proprietários da área de intervenç�
 c) Promoção pela CMPV da construção dos equipamentos de apoio local, sendo o terreno cedido em sede de operações de loteamento;
 
 d) Negociação com o Feira Nova, com vista à concretização da respectiva intervenção.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 98.º — Argivai, Aqueduto de Santa Clara
 
@@ -1994,11 +2156,9 @@ b) Urbanização dos espaços adjacentes;
 
 c) Localização, ao longo do Aqueduto, de três espaços de terciário (T26, T27 e T28), estando o último associado à criação de equipamentos locais (E48).
 
-2 - A intervenção está sujeita às seguintes orientações:
+2 - (Revogado.)
 
-a) Sujeição de toda a UOPG a uma unidade de execução por imposição administrativa;
-
-b) Procura de especial apoio financeiro da administração central face à classificação do Aqueduto como monumento nacional.
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 99.º — Fronteira com Vila do Conde
 
@@ -2012,11 +2172,13 @@ c) Criação de um eixo com origem no troço de continuidade da Avenida de 25 de
 
 d) Criação de um percurso (verde, pedonal e automóvel) da Avenida de 25 de Abril ao Aqueduto e deste ao acesso sul ao IC 1.
 
-2 - A intervenção está sujeita às seguintes orientações:
+2 - A intervenção está sujeita às seguintes regras:
 
 a) Negociação com a Câmara Municipal de Vila do Conde com vista a uma iniciativa comum de construção dos referidos percursos e de estabelecimento das regras urbanísticas de ocupação marginal;
 
-b) Dinamização de uma unidade de execução com vista à construção do novo nó no acesso sul ao IC 1 e correspondente eixo hospital-Aqueduto e urbanizações adjacentes.
+b) Dinamização da construção do novo nó no acesso sul ao IC1 e correspondente eixo hospital - Aqueduto e urbanizações adjacentes.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ### CAPÍTULO III — Dos critérios perequativos
 
@@ -2024,55 +2186,61 @@ b) Dinamização de uma unidade de execução com vista à construção do novo 
 
 1 - São adoptados mecanismos perequativos para o solo já urbanizado ou susceptível de urbanização, distinguindo-se as seguintes áreas, assinaladas na planta de orientação executória:
 
-a) Áreas consolidadas ou a consolidar;
+a) Áreas a abranger por planos de pormenor ou UOPG's referidas no artigo 80.º;
 
-b) Áreas de expansão diversificada;
+b) Áreas de grandes equipamentos;
 
-c) Áreas de expansão HE0;
+c) Áreas restantes do Plano.
 
-d) Áreas de grandes equipamentos.
+d) (Revogada.)
 
-2 - Os mecanismos perequativos visam cumprir os objectivos expressos no artigo 137.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro.
+2 - Os mecanismos perequativos visam cumprir os objectivos expressos no artigo 137.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, com a redacção actual.
 
 3 - Ficam excluídos do âmbito de aplicação dos mecanismos perequativos os solos relativamente aos quais se verifique a existência de direitos de uso preexistentes e juridicamente consolidados.
 
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
+
 ###### Artigo 101.º — Perequação dos benefícios
 
-1 - Para a perequação dos benefícios distinguem-se as áreas referidas no n.º 1 do artigo anterior, uma vez que:
+1 - Nas áreas a abranger por planos de pormenor ou nas UOPG's referidas no artigo 80.º o mecanismo perequativo reconduz-se às seguintes regras:
 
-a) Nas áreas consolidadas ou a consolidar, o processo de transformação ocorre maioritariamente através de edificação reportada a cada propriedade e a ocupação existente, prévia ao Plano, induz já expectativas edificatórias;
+a) É fixado um direito abstracto de construir correspondente à edificabilidade média que é determinada pela construção admitida para o respectivo conjunto de propriedades, por aplicação dos índices e regras urbanísticas estabelecidas pelo plano, conforme previsto no artigo 80.º;
 
-b) Nas áreas de expansão diversificada, a sua viabilidade executória exige, na maioria dos casos, a associação entre proprietários, exigindo os princípios perequativos a adopção de um mesmo índice médio de utilização;
+b) O direito concreto de construir resultará dos actos de licenciamento de operações urbanísticas, os quais deverão ser conformes aos índices e parâmetros estabelecidos pelo plano;
 
-c) Nas áreas de expansão HE0, uma edificabilidade igual ao índice médio de utilização assegura, desde logo, o princípio da igualdade; a admissão de malhas diversificadas permite que a ocupação ocorra maioritariamente através de operações de loteamento;
+c) Os proprietários que, de acordo com as disposições do plano, possam construir acima da edificabilidade média, devem demonstrar ter adquirido o excesso da edificabilidade admitida àqueles que, igualmente nos termos do plano, disponham, na mesma unidade de execução, de um direito concreto de construção inferior à mesma;
 
-d) As áreas de grandes equipamentos exigem aquisição pública, compensando carências da cidade existente, sobretudo de espaços verdes, não se justificando, portanto, a sua afectação, como encargos, às áreas de expansão.
+d) As transacções efectuadas ao abrigo desta disposição são obrigatoriamente comunicadas à Câmara Municipal e estão sujeitas a inscrição no registo predial;
 
-2 - Nas áreas consolidadas ou a consolidar, o mecanismo perequativo deve traduzir-se numa diferenciação das taxas unitárias, por metro quadrado de ABC, em função do maior ou menor índice de construção, a fixar em regulamento municipal.
+e) Quando a negociação referida na alínea c) não for possível, os proprietários que, de acordo com as disposições do plano, possam construir acima da edificabilidade média, cedem para o domínio privado do município uma parcela com a possibilidade construtiva em excesso.
 
-3 - Nas áreas de expansão diversificada, o mecanismo perequativo reconduz-se às seguintes regras:
+2 - As áreas de grandes equipamentos devem ser adquiridas pelo município ou pelo Estado, sendo para tal avaliadas enquanto solo não infra-estruturado, em cuja área envolvente a admissibilidade construtiva é de cerca de 0,35 m2 de ABC por metro quadrado da propriedade.
 
-a) É reconhecida a cada associação de proprietários, e a cada propriedade, um direito abstracto de construir igual ao produto da sua área por 0,5;
+3 - Nas restantes áreas o mecanismo perequativo deve traduzir-se na diferenciação das taxas unitárias por metro quadrado de ABC, em função do maior ou menor índice de construção, conforme regulamento municipal:
 
-b) O direito concreto de construir é quantitativamente igual ao direito abstracto de construir, salvo nas situações referidas nas alíneas d) a g) do presente número;
+a) (Revogada.)
 
-c) Quando a edificabilidade da propriedade for superior ao direito concreto de construir, os proprietários cedem para o domínio privado do município uma parcela com a possibilidade construtiva em excesso;
+b) (Revogada.)
 
-d) O direito concreto pode ultrapassar o direito abstracto de construir quando se trate de propriedade(s) com edificações que, por reconhecido interesse público, devam ser demolidas, caso em que ao direito abstracto se pode adicionar a área de construção demolida, mas sem ultrapassar a edificabilidade;
+c) (Revogada.)
 
-e) O direito concreto pode ultrapassar o direito abstracto de construir quando se trate de propriedade(s) parcialmente edificada(s), caso em que se pode afectar uma parte da propriedade à construção existente, conforme edificabilidade, e se pode aplicar o direito abstracto à restante parte;
+d) (Revogada.)
 
-f) Quando a edificabilidade é inferior ao direito abstracto de construir, o direito concreto pode ultrapassar o índice de construção, num máximo de 25% e apenas quando tal se revele compatível com os demais princípios e regras urbanísticas que regulem a edificabilidade; não sendo atingido o direito abstracto, os proprietários são compensados de forma adequada, nos termos a fixar em regulamento municipal;
+e) (Revogada.)
 
-g) Quando, respeitando as regras da edificabilidade, o promotor, podendo atingir o direito abstracto de construir, não o queira fazer, não há lugar a qualquer compensação.
+f) (Revogada.)
 
-4 - Nas áreas de expansão HE0 é reconhecida a cada associação de proprietários, e a cada propriedade, um direito abstracto de construir, passível de se tornar concreto, igual ao produto da sua área por 0,5.
+g) (Revogada.)
 
-5 - As áreas de grandes equipamentos devem ser adquiridas pelo município ou pelo Estado, sendo para tal avaliadas enquanto solo não infra-estruturado, em cuja área envolvente a admissibilidade construtiva é de cerca de 0,35 m2 de ABC por metro quadrado da propriedade.
+4 - (Revogado.)
+
+5 - (Passa para o n.º 2).
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 102.º — Perequação dos encargos
 
-1 - São devidos pelos promotores encargos proporcionais à ABC que lhe for licenciada ou autorizada, nomeadamente cedência de terreno, realização de obras de urbanização e pagamento de taxas.
+1 - São devidos pelos promotores encargos proporcionais à ABC prevista nas operações urbanísticas, nomeadamente: cedência de terreno, realização de obras de urbanização e pagamento de taxas.
 
 2 - Os promotores cedem para o domínio público municipal:
 
@@ -2086,9 +2254,11 @@ a) É fixada para a cidade da Póvoa de Varzim uma cedência média para os refe
 
 b) Quando a cedência efectiva for superior ou inferior à cedência média, o proprietário é compensado pelo município ou compensa, respectivamente, de forma adequada, nos termos a definir em regulamento municipal;
 
-c) A ocorrerem cedências nos termos previstos na alínea c) do n.º 3 do artigo anterior, estas são contabilizadas como se fossem para os fins referidos na alínea a) do presente número.
+c) (Revogada.)
 
 4 - As taxas associadas aos procedimentos de controlo prévio das operações urbanísticas, a estabelecer em regulamento municipal nos termos da lei geral, devem considerar os encargos do promotor com as obras de urbanização, funcionando como mecanismo perequativo.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ### CAPÍTULO IV — Da política municipal de solos
 
@@ -2110,7 +2280,9 @@ e) A promoção de programas de habitação social e ou a custos controlados, de
 
 1 - Para as áreas de intervenção prioritária, que o município define ao longo do tempo tendo em atenção o processo de desenvolvimento do território e as orientações do PUPV, devem ser delimitadas, sempre que tal seja considerado útil, unidades de execução, a sujeitar ao sistema de cooperação ou ao sistema de imposição administrativa.
 
-2 - Para as áreas de expansão urbana consideradas não prioritárias e em que, para um desenvolvimento ordenado, se mostre conveniente a associação de proprietários, devem ser delimitadas unidades de execução a sujeitar ao sistema de compensação, sendo recusado o licenciamento ou autorização isolados.
+2 - Para as restantes áreas em que, para um desenvolvimento ordenado, se mostre conveniente a associação de proprietários, devem ser delimitadas unidades de execução a sujeitar ao sistema de compensação, sendo recusada qualquer proposta de ocupação urbanística isolada.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 105.º — Aquisição de terrenos destinados a equipamentos e infra-estruturas
 
@@ -2126,17 +2298,21 @@ e) A promoção de programas de habitação social e ou a custos controlados, de
 
 1 - As regras do PUPV não prejudicam direitos adquiridos.
 
-2 - As disposições constantes no título III deste Regulamento não se aplicam às áreas de loteamentos com alvará em vigor anterior ao PUPV.
+2 - As disposições constantes no título III deste regulamento não se aplicam às áreas de loteamentos com licença em vigor anterior ao PUPV.
 
-3 - Nas áreas referidas no número anterior só podem ser aprovadas alterações à licença ou autorização de loteamento que se traduzam em aproximação às disposições constantes do título III, contribuindo para o cumprimento dos objectivos do PUPV.
+3 - Nas áreas referidas no número anterior só podem ser aprovadas alterações que se traduzam em aproximação às disposições constantes do titulo iii, contribuindo para o cumprimento dos objectivos do PUPV.
 
 4 - Nos loteamentos cujos alvarás não apresentem especificações relativamente às regras de implantação, área, construção, número de pisos, número de fogos e tipologias, por não serem exigidos na legislação aplicável à data da sua emissão, a CMPV promoverá, quando necessário, a actualização das plantas de síntese do loteamento, tendo em conta as construções já existentes.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 107.º — Revogações
 
 1 - É revogado o Anteplano de Urbanização da Póvoa de Varzim, aprovado por despacho ministerial de 16 de Dezembro de 1948, do Conselho Superior de Obras Públicas, e publicado no Diário da República, 2.ª série, n.º 195, de 21 de Agosto de 1992.
 
-2 - Fica alterado o Plano Director Municipal da Póvoa de Varzim, ratificado pela [Resolução do Conselho de Ministros n.º 91/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/91-1995-571641), publicada no Diário da República, 1.ª série-B, de 22 de Setembro de 1995, em tudo o que contrariar o disposto neste PUPV.
+2 - Fica alterado o Plano Director Municipal da Póvoa de Varzim, ratificado pela [Resolução do Conselho de Ministros n.º 91/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/91-1995-571641), publicada no Diário da República, 1.ª série-B, de 22 de Setembro de 1995, na área de intervenção do PUPV.
+
+> Alterado pelo/a [Aviso n.º 9222/2011](https://diariodarepublica.pt/dr/detalhe/aviso/9222-2011-2168027), publicado em 2011-04-18.
 
 ###### Artigo 108.º — Entrada em vigor
 

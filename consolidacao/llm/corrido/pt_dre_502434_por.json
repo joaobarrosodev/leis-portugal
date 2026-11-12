@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:502434:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 656/96 dá nova redação ao anexo III, que no texto atual só existe como imagem (ligação 'ver documento original'), sem unidade de texto onde aplicar.",
+  "instrucoes": [
+    "Portaria 656/96: substitui o anexo III (disciplinas de opção); não aplicado porque o anexo só existe em imagem no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

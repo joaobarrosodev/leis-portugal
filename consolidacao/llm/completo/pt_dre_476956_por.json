@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:476956:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::1.º",
+      "epigrafe": "Programa, estrutura e duração",
+      "texto": "1 - O programa do curso de formação a ministrar durante o estágio para ingresso na carreira de subinspector de espectáculos e direitos de autor da DGESP é o definido no quadro anexo ao presente regulamento e que dele faz parte integrante.\n\n2 - O conteúdo das disciplinas incluídas no curso de formação é aprovado por despacho do Ministro da Cultura.\n\n3 - O curso de formação pode compreender:\n\na) Sessões lectivas, teóricas e práticas;\n\nb) Trabalhos de pesquisa e de investigação;\n\nc) Conferências, seminários, colóquios, visitas de estudo e acções equiparadas;\n\nd) Estágios intercalares de curta duração.\n\n4 - As actividades pedagógicas referidas no n.º 3 são incluídas no plano de estágio a elaborar pelo júri ou em execução de directivas dos monitores, de acordo com os objectivos e conteúdo das disciplinas, devendo ser previamente aprovadas pelo júri do estágio as referidas nas alíneas c) e d).\n\n5 - O curso de formação tem a duração de seis meses totalizando setecentas horas, conforme consta do anexo ao presente regulamento.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::12.º",
+      "epigrafe": "Regulamento do estágio",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "N.º 2) da Portaria n.º 385/98 (referências à DGESP entendidas como feitas à IGAC) e n.º 4) (o número de horas do anexo integra sessões lectivas e trabalhos práticos) são normas interpretativas, não alterações textuais; não foram aplicadas ao texto.",
+  "instrucoes": [
+    "1) Nova redação do n.º 5 do artigo 1.º: aplicada.",
+    "2) Referências à DGESP entendidas como à IGAC: remissão interpretativa, não textual; não aplicada (nao_aplicavel).",
+    "3) Revogado o artigo 12.º: corpo '(Revogado.)'. Nota: o texto atual do 12.º trazia a seguir o título e a ligação do quadro anexo ('Curso de formação do estágio...', '(ver documento original)'), que não fazem parte do artigo nem são revogados.",
+    "4) Integração das horas do anexo: norma interpretativa sobre o quadro (só em imagem); não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-08-22'
+version_history:
+  file: portaria-235-a-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-08-22'
+    amending: pt:dre:70064735:por
+    amending_title: Portaria n.º 258/2015
+    changes:
+    - Altera Artigo unidades 48-48
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/235-a/1996/06/28/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:20:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 258/2015. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-235-a-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -191,7 +206,9 @@ V
 
 Sede e delegações
 
-O Centro tem a sua sede no Monte de Caparica, concelho de Almada, e pode criar as delegações que se mostrarem comprovadamente necessárias, prevendo-se, desde já, a criação de uma delegação na cidade de Lisboa.
+O Centro tem a sua sede em Lisboa e pode criar as delegações que se mostrarem comprovadamente necessárias.
+
+> Alterado pelo/a [Portaria n.º 258/2015](https://diariodarepublica.pt/dr/detalhe/portaria/258-2015-70064735), publicado em 2015-08-21.
 
 ### CAPÍTULO II — Estrutura orgânica
 

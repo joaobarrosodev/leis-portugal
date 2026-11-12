@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1972-08-11'
+version_history:
+  file: portaria-21876.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1966-02-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1972-08-11'
+    amending: pt:dre:676054:por
+    amending_title: Portaria n.º 453/72
+    changes:
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:13:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 453/72. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1966/portaria-21876.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,7 +126,9 @@ A constituição e o funcionamento de cada uma destas juntas obedecerão aos reg
 
 8.º Quando as decisões das juntas envolvam mudança de situação dos militares - passagem às situações de reserva e reforma - carecem de homologação do titular do respectivo departamento, devendo, no caso de se tratar de militares da Armada, serem estes prèviamente presentes à Junta de Saúde Naval.
 
-9.º As juntas de recurso funcionarão sempre em Lisboa, no Hospital Militar Principal, no Hospital da Marinha ou na Direcção do Serviço de Saúde da Força Aérea, conforme os casos.
+9.º As juntas de recurso funcionarão sempre em Lisboa, no Hospital Militar Principal, no Hospital da Marinha ou na Direcção do Serviço de Saúde da Força Aérea, conforme os casos; sempre que seja interposto recurso por militares em serviço no ultramar, será o respectivo processo sanitário enviado ao órgão competente do respectivo ramo das forças armadas, que providenciará a sua apreciação por uma junta de recurso, e só nos casos em que a junta de recurso declare ser impossível pronunciar-se nos termos atrás referidos o recorrente deverá ser mandado apresentar em Lisboa.
+
+> Alterado pelo/a [Portaria n.º 453/72](https://diariodarepublica.pt/dr/detalhe/portaria/453-1972-676054), publicado em 1972-08-11.
 
 10.º A presente portaria revoga e substitui a [Portaria n.º 19245](https://diariodarepublica.pt/dr/detalhe/portaria/19245-1962-164584), de 23 de Junho de 1962.
 

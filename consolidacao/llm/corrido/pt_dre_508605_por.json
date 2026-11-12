@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:508605:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "Comissão - 3% ao ano.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 646/83): comissão de 1,5% ao ano passa a 3% — substituída a unidade 12.",
+    "Alterador 2: é o mesmo diploma (Portaria n.º 646/83) repetido, com a mesma instrução já aplicada pelo alterador 1; nada mais a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

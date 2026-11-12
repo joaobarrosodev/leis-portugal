@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:565868:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "b) Nas mesmas conservatórias, a introdução em suporte magnético dos actos de registos confirmados pelo conservador substitui a utilização das fichas actualmente em uso.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 5,
+      "texto": "c) A confirmação prevista na alínea anterior, com indicação da qualidade e do nome do interveniente, equivale, para todos os efeitos, à assinatura do registo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1306/93, nova redação: a) '...' mantém-se (unidade 4 sem mudança); b) substitui a unidade 5; c) nova alínea inserida depois da unidade 5."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

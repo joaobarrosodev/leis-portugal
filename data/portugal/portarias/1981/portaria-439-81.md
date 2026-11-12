@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-04-11'
+version_history:
+  file: portaria-439-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-05-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-04-11'
+    amending: pt:dre:325536:por
+    amending_title: Portaria n.º 189/85
+    changes:
+    - Altera Artigo unidades 28-29
+    - Altera Artigo unidades 31-31
+    - Altera Artigo unidades 32-32
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:46:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 189/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-439-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -160,15 +177,19 @@ As unidades de crédito necessárias à obtenção do curso distribuem-se da seg
 
 a) Obrigatórias:
 
-I) Química Física ... 5
+Química Teórica ... 10
 
-II) Química Teórica ... 15
+> Alterado pelo/a [Portaria n.º 189/85](https://diariodarepublica.pt/dr/detalhe/portaria/189-1985-325536), publicado em 1985-04-06.
 
 b) Opcionais:
 
-Áreas I e II ... 5
+Química-Física ou Química Teórica ... 5
 
-Total ... 25
+> Alterado pelo/a [Portaria n.º 189/85](https://diariodarepublica.pt/dr/detalhe/portaria/189-1985-325536), publicado em 1985-04-06.
+
+Total ... 15
+
+> Alterado pelo/a [Portaria n.º 189/85](https://diariodarepublica.pt/dr/detalhe/portaria/189-1985-325536), publicado em 1985-04-06.
 
 7.º
 

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:529980:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 658/96 dá nova redação ao anexo III, mas no original os anexos só existem em imagem (unidade 25, ver documento original), pelo que não há texto do anexo III onde aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 658/96): nova redação do anexo III (disciplinas de opção); anexo só em imagem no original, não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

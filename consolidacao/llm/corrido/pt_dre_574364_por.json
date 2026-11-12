@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:574364:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Santa Comba da Vilariça, Assares e Lodões, município de Vila Flor, com a área de 2230 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º (área passa de 2370 ha para 2230 ha) — substituída a unidade 7, mantendo o '2.º'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

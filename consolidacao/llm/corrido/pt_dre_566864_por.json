@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:566864:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O pedido não traz o texto do Alterador 1 (Decreto-Lei n.º 119/92): a secção está vazia, pelo que não há nenhuma instrução dirigida ao original que se possa aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 119/92): texto ausente no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

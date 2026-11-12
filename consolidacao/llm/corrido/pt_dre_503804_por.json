@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:503804:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 22671 anula por inteiro a Portaria n.º 22550 (revogação total do diploma).",
+  "instrucoes": [
+    "Portaria 22671: 'Fica anulada a Portaria n.º 22550' — revogação total; nada devolvido. O novo quadro de taxas é da própria Portaria 22671, não alteração do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

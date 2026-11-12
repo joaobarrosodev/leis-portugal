@@ -38,10 +38,36 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-11-19'
+version_history:
+  file: despacho-normativo-98-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-09-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-11-19'
+    amending: pt:dre:564441:por
+    amending_title: Despacho Normativo n.º 141/90
+    changes:
+    - Altera Artigo unidades 19-20
+    - Altera Artigo unidades 30-30
+    - Altera Artigo unidades 57-58
+    - Altera Artigo unidades 60-60
+    - Altera Artigo unidades 62-62
+    - Altera Artigo unidades 80-80
+    - Altera Artigo unidades 119-119
+    - Altera Artigo unidades 153-154
+    - Altera Artigo unidades 155-160
+    - Altera Artigo unidades 164-165
+    - Altera Artigo unidades 168-171
+    - Altera Artigo unidades 203-207
+    - Altera Artigo unidades 210-213
 identifiers:
   celex: null
   eli: null
@@ -67,7 +93,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:48:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 141/90. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1990/despacho-normativo-98-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,9 +165,11 @@ Poder-se-ão candidatar as associações empresariais, profissionais e sociais.
 
 Os projectos apresentados pelos promotores serão submetidos a apreciação, nos termos previstos no artigo 19.º do Regulamento anexo ao [Despacho Normativo n.º 31/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-1989-614639), de 31 de Março.
 
-3 - Candidaturas submetidas a concurso anual:
+3 - Acção submetida a concurso anual:
 
-3.1 - Os projectos a seleccionar em 1990 deverão ser apresentados até 31 de Outubro do corrente ano.
+3.1 - Os projectos a seleccionar em 1990, no âmbito da acção 2.6.1 - Produção e divulgação de vídeos sobre a qualidade nos sectores - do capítulo II, deverão ser apresentados até 31 de Dezembro do corrente ano.
+
+> Alterado pelo/a [Despacho Normativo n.º 141/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1990-564441), publicado em 1990-11-14.
 
 3.2 - O processo de apreciação far-se-á nos termos previstos no n.º 2 do presente capítulo, sendo os projectos hierarquizados de acordo com o seu mérito, interesse, impacte da iniciativa e enquadramento nas exigências do respectivo plano director da campanha.
 
@@ -160,7 +189,9 @@ Para a execução dos objectivos dos projectos, o promotor poderá ter acesso ao
 
 7 - Comparticipação:
 
-A comparticipação máxima a atribuir de acordo com os montantes elegíveis por acção é de 100%, a graduar de acordo com o mérito, interesse e impacte da iniciativa e seu enquadramento no plano director de campanha.
+A comparticipação máxima a atribuir de acordo com os montantes elegíveis por acção é de 100%, a graduar de acordo com o mérito, interesse e impacte da iniciativa e seu enquadramento no plano director da campanha: nas aplicações relevantes de todas as acções só são comparticipados custos não cobertos por receitas.
+
+> Alterado pelo/a [Despacho Normativo n.º 141/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1990-564441), publicado em 1990-11-14.
 
 8 - Articulação das submedidas:
 
@@ -214,17 +245,23 @@ c) Deverá ser apresentado um plano global de acção que inclua o programa a re
 
 d) O limite máximo das comparticipações é de 800 contos por jornada.
 
-2.2 - Jornadas de qualidade sectoriais:
+2.2 - Jornadas de qualidade sectoriais e regionais:
 
-a) Estas acções, semelhantes às anteriores e com a participação de técnicos especialistas, destinam-se a empresas de um determinado sector focando questões de qualidade que especificamente lhes respeitem. A metodologia a utilizar consiste no alerta dos empresários para os riscos e custos da não qualidade e na informação dos meios de superação dessa situação, nomeadamente de métodos, técnicas, sistemas de controlo, formação, etc.;
+a) Estas acções, semelhantes às anteriores e com a participação de técnicos especialistas, destinam-se a empresas de um dado sector ou de determinada região, focando questões de qualidade que especificamente lhes respeitem. A metodologia a utilizar consiste, designadamente, no alerta dos empresários para os riscos e custos da não qualidade e na informação dos meios de superação dessa situação, nomeadamente de métodos, técnicas, sistemas de controlo, formação, etc.;
+
+> Alterado pelo/a [Despacho Normativo n.º 141/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1990-564441), publicado em 1990-11-14.
 
 b) A entidade beneficiária poderá promover a realização de brochuras sectoriais para distribuir nas jornadas, ficando obrigada a disponibilizar até 20% das publicações ao IPQ, para apoio à realização de outras acções no âmbito da campanha;
 
-c) Será considerado critério preferencial o previsto na alínea anterior e a apresentação pela mesma entidade de candidatura às acções para a realização de vídeos sectoriais, se a acção for seleccionada;
+c) Será considerado critério preferencial o previsto na alínea anterior e a apresentação, pela mesma entidade, de candidatura à acção para a realização de vídeos sectoriais, se o projecto for seleccionado;
+
+> Alterado pelo/a [Despacho Normativo n.º 141/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1990-564441), publicado em 1990-11-14.
 
 d) O promotor deverá indicar fundamentadamente no projecto quais os meios de suporte que pretende utilizar e, após a aprovação da candidatura, poderá solicitar ao IPQ o acesso aos meios de suporte gerais da campanha já disponíveis;
 
-e) O projecto deverá apresentar um plano global de acção que contemple um conjunto significativo de empresas de um determinado sector;
+e) O projecto deverá apresentar um plano global de acção que contemple um conjunto significativo de empresas de um dado sector ou região;
+
+> Alterado pelo/a [Despacho Normativo n.º 141/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1990-564441), publicado em 1990-11-14.
 
 f) O limite máximo das comparticipações e de 1000 contos por jornada e de 1000 contos por edição de brochura.
 
@@ -260,7 +297,9 @@ c) O limite máximo de comparticipação por realização é de 500 contos.
 
 2.5 - Produção de brochuras sectoriais no âmbito da qualidade:
 
-a) Esta acção visa a efectuação de meios de suporte da campanha, pelo que até 20% das brochuras deverão ser disponibilizadas ao IPQ, para apoio à realização de outras acções no âmbito da campanha, nomeadamente as jornadas de qualidade sectoriais;
+a) Esta acção visa a efectuação de meios de suporte da campanha, pelo que até 20% das brochuras deverão ser disponibilizadas ao IPQ, para apoio à realização de outras acções no âmbito da campanha, nomeadamente as jornadas da qualidade sectoriais e regionais;
+
+> Alterado pelo/a [Despacho Normativo n.º 141/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1990-564441), publicado em 1990-11-14.
 
 b) Deverá ser promovida uma adequada utilização e distribuição das brochuras pelas entidades potencialmente interessadas;
 
@@ -338,7 +377,9 @@ b) O promotor deverá indicar fundamentadamente no projecto quais os meios de su
 
 c) Será considerado critério preferencial a apresentação de candidatura para a realização de brochuras sectoriais;
 
-d) O projecto deverá apresentar um plano global de acção que contemple um conjunto representativo de empresas de um determinado sector;
+d) O projecto deverá apresentar um plano global de acção que contemple um conjunto representativo de empresas de um determinado sector ou região;
+
+> Alterado pelo/a [Despacho Normativo n.º 141/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1990-564441), publicado em 1990-11-14.
 
 e) O limite máximo das comparticipações é de 1000 contos por sessão e de 1000 contos por edição de brochura.
 
@@ -406,21 +447,43 @@ Despesas com:
 
 Contratação de serviços de técnicos;
 
-Deslocações/técnico;
-
-Transporte dos meios de suporte.
-
-1.2.2 - Jornadas de qualidade sectoriais:
-
-Despesas com:
-
-Contratação de serviços de técnicos;
-
-Deslocações/técnico;
+Transporte e estadia/técnico;
 
 Transporte dos meios de suporte;
 
-Produção e edição de brochuras.
+Aluguer e transporte de equipamentos de apoio;
+
+Divulgação de resultados da acção;
+
+Produção e edição de documentação de apoio.
+
+> Alterado pelo/a [Despacho Normativo n.º 141/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1990-564441), publicado em 1990-11-14.
+
+1.2.2 - Jornadas de qualidade sectoriais e regionais:
+
+Despesas com:
+
+Divulgação da acção;
+
+Apoio administrativo à acção, incluindo transporte e estadia de pessoal;
+
+Contratação de serviços de técnicos;
+
+Transporte e estadia/técnico;
+
+Transporte dos meios de suporte;
+
+Aluguer e transporte de equipamentos de apoio;
+
+Aluguer de salas e despesas conexas;
+
+Produção e edição de brochuras;
+
+Produção e edição de documentação de apoio;
+
+Divulgação de resultados da acção.
+
+> Alterado pelo/a [Despacho Normativo n.º 141/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1990-564441), publicado em 1990-11-14.
 
 1.2.3 - Missões de informação nas indústrias:
 
@@ -428,21 +491,27 @@ Despesas com:
 
 Contratação de serviços de técnicos;
 
-Deslocações/técnico;
+Transporte e estadia/técnico;
 
-Transporte dos meios de suporte.
+Transporte dos meios de suporte;
+
+Aluguer e transporte de equipamentos de apoio.
+
+> Alterado pelo/a [Despacho Normativo n.º 141/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1990-564441), publicado em 1990-11-14.
 
 1.2.4 - Divulgação da qualidade em feiras e exposições:
 
 Despesas com:
 
-Transporte e estada de pessoal;
+Divulgação da acção;
+
+Apoio administrativo à acção, incluindo transporte e estadia de pessoal;
 
 Transporte dos meios de suporte;
 
 Aluguer de espaços e montagem de stand.
 
-Só são comparticipados os custos não cobertos por receitas.
+> Alterado pelo/a [Despacho Normativo n.º 141/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1990-564441), publicado em 1990-11-14.
 
 1.2.5 - Produção de brochuras sectoriais no âmbito da qualidade:
 
@@ -506,27 +575,43 @@ Despesas de acções relativas:
 
 Despesas com:
 
+Divulgação da acção;
+
+Apoio administrativo à acção, incluindo transporte e estadia de pessoal;
+
 Contratação de serviços de técnicos;
 
-Deslocações de técnicos;
+Transporte e estadia/técnicos;
 
-Transporte de meios de suporte;
+Transporte dos meios de suporte;
 
-Realização e edição de brochuras sectoriais;
+Aluguer e transporte de equipamentos de apoio.
 
-Aluguer de salas e despesas conexas.
+Aluguer de salas e despesas conexas;
+
+Produção e edição de brochuras;
+
+Produção e edição da documentação de apoio;
+
+Divulgação de resultados da acção.
+
+> Alterado pelo/a [Despacho Normativo n.º 141/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1990-564441), publicado em 1990-11-14.
 
 2.2.2 - Realização de exposições com debate:
 
 Despesas com:
 
-Transportes e estada de pessoal;
+Divulgação da acção;
 
-Transporte de materiais;
+Apoio administrativo à acção, incluindo transporte e estadia de pessoal;
 
-Aluguer de espaços e montagem de stands.
+Aluguer e transporte de equipamentos de apoio;
 
-Só são comparticipados os custos não cobertos por receitas.
+Aluguer de espaços e montagem de stand;
+
+Divulgação de resultados da acção.
+
+> Alterado pelo/a [Despacho Normativo n.º 141/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1990-564441), publicado em 1990-11-14.
 
 2.2.3 - Produção de brochuras sectoriais no âmbito do design:
 

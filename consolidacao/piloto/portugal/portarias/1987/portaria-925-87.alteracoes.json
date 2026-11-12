@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O Instituto do Emprego e Formação Profissional (IEFP) e a Associação Nacional das Indústrias da Madeira (ANIM) adaptam o protocolo que criou o Centro de Formação Profissional, de harmonia com as cláusulas seguintes:",
+    "depois": "O Instituto do Emprego e Formação Profissional (IEFP), como primeiro outorgante, e a associação das Indústrias de Madeira e Mobiliário de Portugal (AIMMP), como segundo outorgante, adaptam o protocolo que criou o Centro de Formação Profissional, de harmonia com as cláusulas seguintes:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:498749:por",
+    "alterador": "pt:dre:167403:por"
+  },
+  {
+    "artigo": "unidades 36-36",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O Centro tem a sua sede no Porto e pode criar as delegações que se mostrarem comprovadamente necessárias.",
+    "depois": "O Centro tem a sua sede em Lordelo, Paredes, e pode criar as delegações que se mostrem comprovadamente necessárias.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:498749:por",
+    "alterador": "pt:dre:167403:por"
+  }
+]

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-07-24'
+version_history:
+  file: portaria-1232-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-11-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-07-24'
+    amending: pt:dre:299471:por
+    amending_title: Portaria n.º 656/94; Portaria n.º 656/94
+    changes:
+    - Adita Artigo depois da unidade 7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1232/1993/11/30/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:46:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 656/94; Portaria n.º
+    656/94. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-1232-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,6 +145,14 @@ Manda o Governo, pelo Ministro da Defesa Nacional, nos termos do disposto no art
 a) Oficiais:
 
 1) Quadros permanentes:
+
+Marinha (M);
+
+Engenheiros navais (EN);
+
+Administração naval (AN);
+
+> Aditado pelo/a [Portaria n.º 656/94](https://diariodarepublica.pt/dr/detalhe/portaria/656-1994-299471), publicado em 1994-07-19.
 
 Médicos navais (MN);
 

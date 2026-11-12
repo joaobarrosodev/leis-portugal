@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:556006:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 233/2000 revoga a concessão do regime cinegético especial atribuída pela Portaria n.º 1029/90 (revogação de todo o ato, sem alteração textual de pontos concretos); nada a aplicar ao texto.",
+  "instrucoes": [
+    "Portaria 233/2000: revoga a concessão atribuída pela Portaria 1029/90 (todo o conteúdo dispositivo) — não aplicado ao texto, registado em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

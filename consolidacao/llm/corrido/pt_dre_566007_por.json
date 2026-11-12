@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:566007:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º Pela presente portaria é renovada, por um período de 12 anos, renovável automaticamente por um único e igual período, a concessão da zona de caça associativa de São Pedro da Cadeira (processo n.º 1001-DGRF), englobando vários prédios rústicos sitos na freguesia de São Pedro da Cadeira, município de Torres Vedras, com a área de 1655 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 335/2008: nova redação do n.º 1.º — substituída a unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:488353:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "9.º As juntas de recurso funcionarão sempre em Lisboa, no Hospital Militar Principal, no Hospital da Marinha ou na Direcção do Serviço de Saúde da Força Aérea, conforme os casos; sempre que seja interposto recurso por militares em serviço no ultramar, será o respectivo processo sanitário enviado ao órgão competente do respectivo ramo das forças armadas, que providenciará a sua apreciação por uma junta de recurso, e só nos casos em que a junta de recurso declare ser impossível pronunciar-se nos termos atrás referidos o recorrente deverá ser mandado apresentar em Lisboa.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 453/72: nova redação do n.º 9.º; substituída a unidade 12."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

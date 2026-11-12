@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-07-15'
+version_history:
+  file: portaria-137-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-05-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-07-15'
+    amending: pt:dre:155652:por
+    amending_title: Portaria n.º 455/97
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/137/1996/05/03/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:18:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 455/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-137-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,7 +141,9 @@ Considerando a Portaria n.º 980/95, de 16 de Agosto, que aprova o Regulamento d
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do n.º 5) do artigo 2.º do regulamento anexo à Portaria n.º 980/95, de 16 de Agosto, o seguinte:
 
-1.º Para o corrente ano, o rendimento de referência válido para o território continental é fixado em 1917000$00.
+1.º Para o corrente ano, o rendimento de referência válido para o território continental é fixado em 1852941$00.
+
+> Alterado pelo/a [Portaria n.º 455/97](https://diariodarepublica.pt/dr/detalhe/portaria/455-1997-155652), publicado em 1997-07-10.
 
 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1996.
 

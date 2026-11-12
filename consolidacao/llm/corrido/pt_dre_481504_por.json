@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:481504:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos nas freguesias de Alvoco da Serra, Cabeça, Loriga, Teixeira e Vide, município de Seia, com a área de 5148 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 1204/2007): nova redação do n.º 2.º; substituída a unidade 7, mantendo o número 2.º do texto atual (a nova redação não traz o número). A planta da Portaria n.º 1204/2007 não é objeto de instrução de substituição do anexo; a unidade 18 fica."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:552328:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 7,
+      "texto": "Marinha (M);\n\nEngenheiros navais (EN);\n\nAdministração naval (AN);",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 656/94 (alterador 1): nova redação da subalínea 1) da alínea a) do n.º 1.º; '1) ...' mantém a unidade 7, acrescentam-se Marinha (M), Engenheiros navais (EN) e Administração naval (AN) antes de Médicos navais; MN e FN ficam como estão (o ponto final de FN é só fim da citação, a lista continua na alínea b).",
+    "Alterador 2 é a mesma Portaria 656/94 repetida; a instrução já foi aplicada uma vez, nada a acrescentar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
