@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:282153:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::1.º",
+      "epigrafe": "Objecto",
+      "texto": "O concurso público tem por objecto a atribuição de uma licença de âmbito nacional para a prestação do serviço de telecomunicações complementar móvel - serviço móvel com recursos partilhados, funcionando na faixa dos 450 MHz/470 MHz.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 586/93: nova redação do artigo 1.º do Regulamento anexo (epígrafe [...] mantida: Objecto) — aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

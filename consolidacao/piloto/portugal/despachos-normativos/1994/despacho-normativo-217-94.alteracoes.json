@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - É criado no quadro de pessoal a que se refere o mapa anexo XXIV ao [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto, um lugar de assessor, a extinguir quando vagar.",
+    "depois": "1 - É criado no quadro de pessoal a que se refere o mapa anexo XXIV ao [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto, um lugar de assessor principal, a extinguir quando vagar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:259705:por",
+    "alterador": "pt:dre:618304:por"
+  }
+]

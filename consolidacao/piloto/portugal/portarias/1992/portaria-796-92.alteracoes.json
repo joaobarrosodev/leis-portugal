@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO::1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Objecto\n\nO concurso público tem por objecto a atribuição de duas licenças de âmbito nacional para a prestação do serviço de telecomunicações complementar móvel - serviço móvel com recursos partilhados, funcionando na faixa dos 450 MHz/470 MHz.",
+    "depois": "###### Artigo 1.º — Objecto\n\nO concurso público tem por objecto a atribuição de uma licença de âmbito nacional para a prestação do serviço de telecomunicações complementar móvel - serviço móvel com recursos partilhados, funcionando na faixa dos 450 MHz/470 MHz.\n\n> Alterado pelo/a [Portaria n.º 586/93](https://diariodarepublica.pt/dr/detalhe/portaria/586-1993-260905), publicado em 1993-06-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:282153:por",
+    "alterador": "pt:dre:260905:por"
+  }
+]

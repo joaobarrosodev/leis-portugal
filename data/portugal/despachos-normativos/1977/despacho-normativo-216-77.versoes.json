@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:278007:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-11-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b77004f373edd882"
+   ]
+  },
+  {
+   "date": "1978-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:299849:por",
+     "title": "Despacho Normativo n.º 183/78",
+     "published": "1978-08-14",
+     "dre_path": "/dr/detalhe/despacho-normativo/183-1978-299849"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-9"
+   ],
+   "fragments": [
+    "415d6d9fe8779fd0"
+   ]
+  }
+ ],
+ "fragments": {
+  "b77004f373edd882": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O azeite continua a representar um valor importante na economia agrícola do País, tendo como correspondência directa no mercado interno de gorduras comestíveis o facto de ser uma parcela significativa na dieta alimentar dos Portugueses.\n\nPor outro lado, o regime de austeridade que necessariamente se vem estabelecendo terá de conduzir ao aproveitamento, até aos limites do possível, de todos os recursos internos. Assim, há que mobilizar produtos e meios ainda recentemente pouco conceituados, como o óleo de bagaço de azeitona, cujo aproveitamento não era o mais adequado, nalguns casos servindo mesmo para adulterações em prejuízo económico do consumidor.\n\nVisando a defesa do consumidor, económica e qualitativamente, e a garantia das condições de trabalho e rentabilidade à produção, procedeu-se a estudos que permitiram estabelecer os parâmetros mais convenientes.\n\nNestes termos:\n\nAo abrigo do disposto na alínea l) do artigo 3.º e no artigo 32.º do [Decreto-Lei n.º 426/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1972-291610), de 31 de Outubro, determina-se o seguinte:\n\n1 - O Instituto do Azeite e Produtos Oleaginosos adquirirá o azeite virgem, com acidez até 4º, que a produção lhe proponha para venda até 30 de Junho de 1978, aos preços constantes da tabela I anexa.\n\n2 - Os industriais e comerciantes de azeite não serão contemplados pela disposição constante do parágrafo anterior.\n\n3 - O Instituto do Azeite e Produtos Oleaginosos adquirirá o óleo de bagaço de azeitona cru que os extractores lhe proponham para venda até 30 de Junho de 1978 aos preços e nas condições estabelecidas na tabela II anexa.\n\n4 - O preço estabelecido no número anterior resulta de bagaços adquiridos à produção ao preço mínimo de 1$80 por quilograma, nas condições da tabela III anexa.\n\n5 - É autorizado o Instituto do Azeite e Produtos Oleaginosos a contrair na Caixa Geral de Depósitos um empréstimo, até ao montante de 500000 contos, para a compra de azeite e de óleo de bagaço a utilizar fraccionadamente de acordo com as efectivas necessidades mensais de fundos para a execução destas operações.\n\n6 - Este despacho entra imediatamente em vigor.\n\nSecretarias de Estado do Comércio Interno e do Comércio e Indústrias Agrícolas, 24 de Outubro de 1977. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Carlos Alberto Antunes Filipe.\n\nTABELA I\n\nPreços de garantia por litro de azeite colocado em bidões do Instituto do Azeite e Produtos Oleaginosos na estação de caminho de ferro mais próxima do armazém do produtor.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/25900/26732674.pdf)\n\nEscala de diferenciais em função da acidez\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/25900/26732674.pdf)\n\nTABELA II\n\nPreço de garantia por quilograma de óleo de bagaço de azeitona cru com 15º de acidez, 2% de humidade e impurezas e 2% de oxiácidos ... (ver nota a) 41$00\n\n(nota a) Posto em local a designar pelo IAPO.\n\nBonificações e penalizações\n\n... Percentagens\n\nPor cada grau de acidez a mais ou a menos que a base, fracções em proporção ... 2\n\nPor cada 1% de diferença em relação à base na humidade e impurezas, fracções em proporção ... 1\n\nPor cada 1% de diferença em relação à base nos oxiácidos, fracções em proporção ... 1\n\nTABELA III\n\nCaracterísticas que deve apresentar o bagaço para poder ser valorizado a 1$80 por quilograma, posto na fábrica de extracção:\n\nGordura - 5% a 7%.\n\nAcidez do óleo - 15º.\n\nHumidade - até 25%.\n\nO Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Carlos Alberto Antunes Filipe."
+  },
+  "415d6d9fe8779fd0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1978-08-14",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 183/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/183-1978-299849), publicado em 1978-08-14."
+   ],
+   "markdown": "O azeite continua a representar um valor importante na economia agrícola do País, tendo como correspondência directa no mercado interno de gorduras comestíveis o facto de ser uma parcela significativa na dieta alimentar dos Portugueses.\n\nPor outro lado, o regime de austeridade que necessariamente se vem estabelecendo terá de conduzir ao aproveitamento, até aos limites do possível, de todos os recursos internos. Assim, há que mobilizar produtos e meios ainda recentemente pouco conceituados, como o óleo de bagaço de azeitona, cujo aproveitamento não era o mais adequado, nalguns casos servindo mesmo para adulterações em prejuízo económico do consumidor.\n\nVisando a defesa do consumidor, económica e qualitativamente, e a garantia das condições de trabalho e rentabilidade à produção, procedeu-se a estudos que permitiram estabelecer os parâmetros mais convenientes.\n\nNestes termos:\n\nAo abrigo do disposto na alínea l) do artigo 3.º e no artigo 32.º do [Decreto-Lei n.º 426/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1972-291610), de 31 de Outubro, determina-se o seguinte:\n\n1 - O Instituto do Azeite e Produtos Oleaginosos adquirirá o azeite virgem, com acidez até 4º, que a produção lhe proponha para venda até 30 de Junho de 1978, aos preços constantes da tabela I anexa.\n\n2 - Os industriais e comerciantes de azeite não serão contemplados pela disposição constante do parágrafo anterior.\n\n3 - O Instituto do Azeite e Produtos Oleaginosos adquirirá o óleo de bagaço de azeitona cru que os extractores lhe proponham para venda até 15 de Agosto de 1978 aos preços e nas condições estabelecidas na tabela II anexa.\n\n> Alterado pelo/a [Despacho Normativo n.º 183/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/183-1978-299849), publicado em 1978-08-14.\n\n4 - O preço estabelecido no número anterior resulta de bagaços adquiridos à produção ao preço mínimo de 1$80 por quilograma, nas condições da tabela III anexa.\n\n5 - É autorizado o Instituto do Azeite e Produtos Oleaginosos a contrair na Caixa Geral de Depósitos um empréstimo, até ao montante de 500000 contos, para a compra de azeite e de óleo de bagaço a utilizar fraccionadamente de acordo com as efectivas necessidades mensais de fundos para a execução destas operações.\n\n6 - Este despacho entra imediatamente em vigor.\n\nSecretarias de Estado do Comércio Interno e do Comércio e Indústrias Agrícolas, 24 de Outubro de 1977. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Carlos Alberto Antunes Filipe.\n\nTABELA I\n\nPreços de garantia por litro de azeite colocado em bidões do Instituto do Azeite e Produtos Oleaginosos na estação de caminho de ferro mais próxima do armazém do produtor.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/25900/26732674.pdf)\n\nEscala de diferenciais em função da acidez\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/25900/26732674.pdf)\n\nTABELA II\n\nPreço de garantia por quilograma de óleo de bagaço de azeitona cru com 15º de acidez, 2% de humidade e impurezas e 2% de oxiácidos ... (ver nota a) 41$00\n\n(nota a) Posto em local a designar pelo IAPO.\n\nBonificações e penalizações\n\n... Percentagens\n\nPor cada grau de acidez a mais ou a menos que a base, fracções em proporção ... 2\n\nPor cada 1% de diferença em relação à base na humidade e impurezas, fracções em proporção ... 1\n\nPor cada 1% de diferença em relação à base nos oxiácidos, fracções em proporção ... 1\n\nTABELA III\n\nCaracterísticas que deve apresentar o bagaço para poder ser valorizado a 1$80 por quilograma, posto na fábrica de extracção:\n\nGordura - 5% a 7%.\n\nAcidez do óleo - 15º.\n\nHumidade - até 25%.\n\nO Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Carlos Alberto Antunes Filipe."
+  }
+ }
+}

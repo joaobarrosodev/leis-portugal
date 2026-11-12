@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:330074:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 10,
+      "texto": "Projectos:\n\n... Formação bruta de capital fixo em 1978 - Milhares de Contos de 1977\n\nCentros de cura ... 48\n\nFábrica de processamento ... 1\n\nFábrica de cigarros e picados de Albarraque ... 48\n\nFábrica de cigarros e picados de Cabo Ruivo ... 8\n\nFábrica de filtros ... 2\n\nTipografia - impressão de embalagens ... 3\n\nMelhoramentos logísticos ... 44\n\nTotal ... 154",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 (Despacho Normativo 81/79): nova redação do n.º 1 — corpo igual; quadro de projetos substituído (un. 4-10) pelo novo quadro (Centros de cura, Fábrica de processamento, ..., Total 154)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

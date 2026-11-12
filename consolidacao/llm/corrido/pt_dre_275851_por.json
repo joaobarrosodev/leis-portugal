@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:275851:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "1.º Todos os lagares de azeite que se encontrem tecnicamente aptos e desejem exercer a sua actividade têm obrigatoriamente de proceder à sua inscrição no Instituto Nacional de Intervenção e Garantia Agrícola (INGA) até 31 de Agosto do ano em que tem início a campanha de comercialização na qual pretendem começar a sua actividade, com excepção dos lagares que tenham beneficiado de ajudas públicas na realização de investimentos e disponham da respectiva autorização de laboração, aos quais não se aplica aquela limitação temporal.",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "11.º Os requerimentos para obtenção do reconhecimento terão de dar entrada no INGA até 31 de Agosto de cada ano para que o reconhecimento possa produzir efeitos a partir da campanha a iniciar em 1 de Novembro desse mesmo ano, com excepção dos lagares que tenham beneficiado de ajudas públicas na realização de investimentos, devendo o reconhecimento destes, quando ocorrer, ser de imediato comunicado pelo INGA à ACACSA.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 40/98: nova redação do n.º 1.º — substituída a unidade 9",
+    "Portaria 40/98: nova redação do n.º 11.º — substituída a unidade 28"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

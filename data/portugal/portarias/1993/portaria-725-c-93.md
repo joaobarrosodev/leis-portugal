@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-05-05'
+version_history:
+  file: portaria-725-c-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-08-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-05-05'
+    amending: pt:dre:251862:por
+    amending_title: Portaria n.º 260/94
+    changes:
+    - Altera Artigo unidades 61-61
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/725-c/1993/08/10/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:08:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 260/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-725-c-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -226,7 +241,9 @@ A zona TND-8, designada por Estação Agrária do Tojal Mau, na freguesia de Mol
 
 No concelho de Vagos:
 
-A zona VGS-1, designada por Mata Nacional das Dunas de Vagos, incluindo zonas de importância local, com cerca de 227 ha;
+Na zona VGS-1, designada por Mata Nacional das Dunas de Vagos, incluindo zonas de importância local, com cerca de 2227 ha.
+
+> Alterado pelo/a [Portaria n.º 260/94](https://diariodarepublica.pt/dr/detalhe/portaria/260-1994-251862), publicado em 1994-04-30.
 
 No concelho de Vila Nova de Poiares:
 

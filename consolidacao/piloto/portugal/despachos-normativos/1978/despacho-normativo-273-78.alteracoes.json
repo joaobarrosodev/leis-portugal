@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 32-32",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - Na dependência directa do Secretário de Estado do Tesouro funcionarão os seguintes serviços:",
+    "depois": "3 - Na dependência directa da Secretaria de Estado do Tesouro funcionarão os seguintes serviços:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:328665:por",
+    "alterador": "pt:dre:326699:por"
+  },
+  {
+    "artigo": "unidades 36-36",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Caixa Geral de Aposentações e Montepio dos Servidores do Estado.",
+    "depois": "d) Inspecção de Seguros;\n\ne) Caixa Geral de Aposentações e Montepio dos Servidores do Estado.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:328665:por",
+    "alterador": "pt:dre:326699:por"
+  }
+]

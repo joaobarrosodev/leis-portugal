@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:328665:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-10-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4f5e0aef7c9b1327"
+   ]
+  },
+  {
+   "date": "1978-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:326699:por",
+     "title": "Despacho Normativo n.º 311/78",
+     "published": "1978-11-30",
+     "dre_path": "/dr/detalhe/despacho-normativo/311-1978-326699"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 32-32",
+    "Altera Artigo unidades 36-36"
+   ],
+   "fragments": [
+    "44235e36ba1d619e"
+   ]
+  }
+ ],
+ "fragments": {
+  "4f5e0aef7c9b1327": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O [Decreto-Lei n.º 181/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1978-297442), de 17 de Julho, estabeleceu a orgânica do Ministério das Finanças e do Plano, criado de novo no âmbito do II Governo Constitucional. O III Governo Constitucional pretendia manter no essencial a estrutura já existente, introduzindo-lhe, no entanto, algumas alterações, decorrentes, fundamentalmente, da existência de um Secretário de Estado das Finanças.\n\nPor outro lado, em virtude de o Governo se encontrar demissionário, não é possível preencher o lugar de Secretário de Estado do Planeamento, mas, não obstante isso, há que providenciar no sentido de continuarem a ser normalmente prosseguidas as atribuições cometidas à Secretaria de Estado do Planeamento no que respeita aos serviços que a integram, nos termos do [Decreto-Lei n.º 181/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1978-297442), de 17 de Julho.\n\nAssim, para obviar à situação anómala que consiste em haver um Secretário de Estado sem competência legalmente definida e uma Secretaria de Estado cujo titular não pode ser nomeado, e já que o Governo, embora demissionário, deve, nos termos constitucionais, assegurar a gestão dos assuntos correntes do Estado, determino, ao abrigo do artigo 7.º do [Decreto-Lei n.º 181/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1978-297442), de 17 de Julho, o seguinte:\n\n1 - Na minha dependência directa funcionarão os seguintes serviços:\n\na) Gabinete do Ministro;\n\nb) Gabinete de Estudos e Planeamento;\n\nc) Auditoria Jurídica;\n\nd) Gabinete de Informação e Relações Públicas;\n\ne) Departamento Central de Planeamento, salvo quanto aos assuntos adiante referidos na alínea e) do n.º 6;\n\nf) Centro de Estudos e Planeamento;\n\ng) Gabinete da Área de Sines;\n\nh) Gabinete de Planeamento da Região do Algarve;\n\ni) Gabinete Coordenador do Alqueva;\n\nj) Gabinete para a Cooperação Económica Externa;\n\nl) Grupo de Estudos Básicos de Economia Industrial;\n\nm) Grupo de Fomento de Substituição de Importações.\n\n2 - Na dependência do Secretário de Estado do Orçamento funcionarão os seguintes serviços:\n\na) Gabinete do Secretário de Estado;\n\nb) Intendência-Geral do Orçamento;\n\nc) Direcção-Geral da Contabilidade Pública;\n\nd) Direcção-Geral das Contribuições e Impostos;\n\ne) Inspecção-Geral de Finanças, salvo quanto às matérias constantes da alínea i) do n.º 4;\n\nf) Direcção-Geral das Alfândegas;\n\ng) Guarda Fiscal;\n\nh) Instituto Nacional de Estatística;\n\ni) Instituto de Informática;\n\nj) Instituto Geográfico e Cadastral;\n\nl) Fundo de Abastecimento;\n\nm) Gabinete de Gestão de Viaturas do Estado;\n\nn) Assistência na Doença aos Servidores do Estado (ADSE).\n\n3 - Na dependência directa do Secretário de Estado do Tesouro funcionarão os seguintes serviços:\n\na) Gabinete do Secretário de Estado;\n\nb) Direcção-Geral do Tesouro;\n\nc) Junta do Crédito Público;\n\nd) Caixa Geral de Aposentações e Montepio dos Servidores do Estado.\n\n4 - O Secretário de Estado do Tesouro despachará também os assuntos correntes relativos:\n\na) Ao funcionamento do sistema bancário;\n\nb) A matérias da competência da Inspecção de Crédito do Banco de Portugal;\n\nc) À orientação da actividade do Instituto Nacional de Seguros;\n\nd) À Comissão de Crédito e de Garantia de Créditos à Exportação e à tutela da Companhia de Seguros de Crédito;\n\ne) À tutela da Imprensa Nacional-Casa da Moeda, E. P.;\n\nf) A problemas de financiamento das empresas públicas;\n\ng) Ao Conselho Consultivo do Mercado Financeiro;\n\nh) Às Bolsas de Valores;\n\ni) Às funções da Inspecção de Finanças respeitantes à auditoria a empresas públicas ou a outras de que aquela Inspecção seja incumbida, e bem assim à análise da situação económico-financeira de empresas e à inspecção às tesourarias da Fazenda Pública.\n\n5 - Na dependência directa do Secretário de Estado das Finanças funcionarão os seguintes serviços:\n\na) Gabinete do Secretário de Estado;\n\nb) Secretarias-gerais;\n\nc) Direcção-Geral do Património;\n\nd) Direcção-Geral do Tribunal de Contas;\n\ne) Serviços Sociais do Ministério das Finanças;\n\nf) Junta Nacional de Investigação Científica e Tecnológica;\n\ng) Instituto do Investimento Estrangeiro.\n\n6 - O Secretário de Estado das Finanças despachará também os assuntos correntes relativos:\n\na) A empresas com intervenção do Estado;\n\nb) A indemnizações a accionistas de empresas ou proprietários de outros bens que tenham sido nacionalizados ou expropriados;\n\nc) À tutela do Instituto das Participações do Estado;\n\nd) A aspectos financeiros das relações com países africanos de expressão portuguesa;\n\ne) A financiamentos propostos pelo Cifre, superiores a 10000 contos.\n\nMinistério das Finanças e do Plano, 21 de Setembro de 1978. - O Ministro das Finanças e do Plano, José da Silva Lopes."
+  },
+  "44235e36ba1d619e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1978-11-30",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 311/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/311-1978-326699), publicado em 1978-11-30.",
+    "Alterado pelo/a [Despacho Normativo n.º 311/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/311-1978-326699), publicado em 1978-11-30."
+   ],
+   "markdown": "O [Decreto-Lei n.º 181/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1978-297442), de 17 de Julho, estabeleceu a orgânica do Ministério das Finanças e do Plano, criado de novo no âmbito do II Governo Constitucional. O III Governo Constitucional pretendia manter no essencial a estrutura já existente, introduzindo-lhe, no entanto, algumas alterações, decorrentes, fundamentalmente, da existência de um Secretário de Estado das Finanças.\n\nPor outro lado, em virtude de o Governo se encontrar demissionário, não é possível preencher o lugar de Secretário de Estado do Planeamento, mas, não obstante isso, há que providenciar no sentido de continuarem a ser normalmente prosseguidas as atribuições cometidas à Secretaria de Estado do Planeamento no que respeita aos serviços que a integram, nos termos do [Decreto-Lei n.º 181/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1978-297442), de 17 de Julho.\n\nAssim, para obviar à situação anómala que consiste em haver um Secretário de Estado sem competência legalmente definida e uma Secretaria de Estado cujo titular não pode ser nomeado, e já que o Governo, embora demissionário, deve, nos termos constitucionais, assegurar a gestão dos assuntos correntes do Estado, determino, ao abrigo do artigo 7.º do [Decreto-Lei n.º 181/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1978-297442), de 17 de Julho, o seguinte:\n\n1 - Na minha dependência directa funcionarão os seguintes serviços:\n\na) Gabinete do Ministro;\n\nb) Gabinete de Estudos e Planeamento;\n\nc) Auditoria Jurídica;\n\nd) Gabinete de Informação e Relações Públicas;\n\ne) Departamento Central de Planeamento, salvo quanto aos assuntos adiante referidos na alínea e) do n.º 6;\n\nf) Centro de Estudos e Planeamento;\n\ng) Gabinete da Área de Sines;\n\nh) Gabinete de Planeamento da Região do Algarve;\n\ni) Gabinete Coordenador do Alqueva;\n\nj) Gabinete para a Cooperação Económica Externa;\n\nl) Grupo de Estudos Básicos de Economia Industrial;\n\nm) Grupo de Fomento de Substituição de Importações.\n\n2 - Na dependência do Secretário de Estado do Orçamento funcionarão os seguintes serviços:\n\na) Gabinete do Secretário de Estado;\n\nb) Intendência-Geral do Orçamento;\n\nc) Direcção-Geral da Contabilidade Pública;\n\nd) Direcção-Geral das Contribuições e Impostos;\n\ne) Inspecção-Geral de Finanças, salvo quanto às matérias constantes da alínea i) do n.º 4;\n\nf) Direcção-Geral das Alfândegas;\n\ng) Guarda Fiscal;\n\nh) Instituto Nacional de Estatística;\n\ni) Instituto de Informática;\n\nj) Instituto Geográfico e Cadastral;\n\nl) Fundo de Abastecimento;\n\nm) Gabinete de Gestão de Viaturas do Estado;\n\nn) Assistência na Doença aos Servidores do Estado (ADSE).\n\n3 - Na dependência directa da Secretaria de Estado do Tesouro funcionarão os seguintes serviços:\n\n> Alterado pelo/a [Despacho Normativo n.º 311/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/311-1978-326699), publicado em 1978-11-30.\n\na) Gabinete do Secretário de Estado;\n\nb) Direcção-Geral do Tesouro;\n\nc) Junta do Crédito Público;\n\nd) Inspecção de Seguros;\n\ne) Caixa Geral de Aposentações e Montepio dos Servidores do Estado.\n\n> Alterado pelo/a [Despacho Normativo n.º 311/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/311-1978-326699), publicado em 1978-11-30.\n\n4 - O Secretário de Estado do Tesouro despachará também os assuntos correntes relativos:\n\na) Ao funcionamento do sistema bancário;\n\nb) A matérias da competência da Inspecção de Crédito do Banco de Portugal;\n\nc) À orientação da actividade do Instituto Nacional de Seguros;\n\nd) À Comissão de Crédito e de Garantia de Créditos à Exportação e à tutela da Companhia de Seguros de Crédito;\n\ne) À tutela da Imprensa Nacional-Casa da Moeda, E. P.;\n\nf) A problemas de financiamento das empresas públicas;\n\ng) Ao Conselho Consultivo do Mercado Financeiro;\n\nh) Às Bolsas de Valores;\n\ni) Às funções da Inspecção de Finanças respeitantes à auditoria a empresas públicas ou a outras de que aquela Inspecção seja incumbida, e bem assim à análise da situação económico-financeira de empresas e à inspecção às tesourarias da Fazenda Pública.\n\n5 - Na dependência directa do Secretário de Estado das Finanças funcionarão os seguintes serviços:\n\na) Gabinete do Secretário de Estado;\n\nb) Secretarias-gerais;\n\nc) Direcção-Geral do Património;\n\nd) Direcção-Geral do Tribunal de Contas;\n\ne) Serviços Sociais do Ministério das Finanças;\n\nf) Junta Nacional de Investigação Científica e Tecnológica;\n\ng) Instituto do Investimento Estrangeiro.\n\n6 - O Secretário de Estado das Finanças despachará também os assuntos correntes relativos:\n\na) A empresas com intervenção do Estado;\n\nb) A indemnizações a accionistas de empresas ou proprietários de outros bens que tenham sido nacionalizados ou expropriados;\n\nc) À tutela do Instituto das Participações do Estado;\n\nd) A aspectos financeiros das relações com países africanos de expressão portuguesa;\n\ne) A financiamentos propostos pelo Cifre, superiores a 10000 contos.\n\nMinistério das Finanças e do Plano, 21 de Setembro de 1978. - O Ministro das Finanças e do Plano, José da Silva Lopes."
+  }
+ }
+}

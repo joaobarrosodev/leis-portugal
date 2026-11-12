@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "18.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 18.º — Classificação do curso de formação\n\n1 - A classificação do curso de formação (CCF) será a resultante da média aritmética simples da classificação de cada uma das disciplinas das áreas curriculares de ciências sociais, ciências jurídicas, línguas estrangeiras e da classificação do conjunto das disciplinas da área técnica.\n\n2 - Serão reprovados no curso de formação, ficando excluídos do estágio, os estagiários que:\n\na) Obtenham em cada uma das disciplinas curriculares classificação inferior a 10 valores, com arredondamento;\n\nb) Obtenham na média do conjunto das áreas curriculares de ciências sociais, ciências jurídicas e línguas estrangeiras classificação inferior a 10 valores, sem arredondamento.",
+    "depois": "###### Artigo 18.º — Classificação do curso de formação\n\n1 - A classificação do curso de formação (CCF) será a resultante da média aritmética simples da classificação de cada uma das disciplinas das áreas curriculares de ciências sociais, ciências jurídicas, línguas estrangeiras e da classificação do conjunto das disciplinas da área técnica.\n\n2 - Serão reprovados no curso de formação, ficando excluídos do estágio, os estagiários que:\n\na) Obtenham na média do conjunto de todas as disciplinas classificação inferior a 10 valores sem arredondamento;\n\nb) Obtenham na média do conjunto das áreas curriculares de ciências sociais, ciências jurídicas e línguas estrangeiras classificação inferior a 10 valores, sem arredondamento.\n\n> Alterado pelo/a [Portaria n.º 738/94](https://diariodarepublica.pt/dr/detalhe/portaria/738-1994-225206), publicado em 1994-08-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:283742:por",
+    "alterador": "pt:dre:225206:por"
+  }
+]

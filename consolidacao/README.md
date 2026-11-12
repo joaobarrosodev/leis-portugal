@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.602 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.627 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -176,6 +176,7 @@ Destes 618, 592 ainda não foram pedidos.
 | 93 | 40 | 28 | 27 | 275 |
 | 94 | 40 | 34 | 32 | 235 |
 | 95 | 40 | 31 | 29 | 195 |
+| 96 | 40 | 27 | 25 | 155 |
 
 Na ronda 87, a Portaria 680/71 foi para `llm/exclusoes.json`, porque está revogada por inteiro pela Portaria 654/74. Dois diplomas da vista 001 ficaram sem resposta do verificador e não entram.
 
@@ -207,6 +208,12 @@ Na ronda 93 foram para as exclusões:
 Em dois pedidos o texto do alterador veio vazio, o DL 173/98 e a Portaria 1318/2005. É um problema da extração, que fica por rever.
 
 Na ronda 94 foi para as exclusões a Portaria 780/91, revogada por inteiro pela Portaria 470/2003. Na ronda 95 foram as Portarias 874/2005 e 488/97, também revogadas por inteiro.
+
+Na ronda 96 foram para as exclusões:
+- as Portarias 446/78 e 917/82, revogadas por inteiro;
+- a Portaria 238/94, porque a redação final vem de uma portaria que se dirige formalmente a outra;
+- o Despacho 14786/2012, porque as republicações divergem das instruções;
+- o PDM de Coruche, porque as alterações aditam capítulos que ainda não se exprimem.
 
 **O que isto quer dizer para o RAG.** O aviso "Texto original; alterado por…" mantém-se em todos os diplomas alterados sem versão consolidada, mesmo nos "sem alteração textual". Tirá-lo nesses casos faria o sistema responder com texto desatualizado em cerca de 14% a 28% deles (`rag/README.md`).
 

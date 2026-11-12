@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - É criado no quadro de pessoal do Centro Regional de Segurança Social de Lisboa e Vale do Tejo, aprovado pela [Portaria n.º 1056/93](https://diariodarepublica.pt/dr/detalhe/portaria/1056-1993-668945), de 21 de Outubro, um lugar de assessor principal, da carreira técnica superior, a extinguir quando vagar.",
+    "depois": "1 - É criado no quadro de pessoal do Centro Regional de Segurança Social de Lisboa e Vale do Tejo, aprovado pela [Portaria n.º 1056/93](https://diariodarepublica.pt/dr/detalhe/portaria/1056-1993-668945), de 21 de Outubro, um lugar de assessor principal da carreira técnica superior de serviço social, a extinguir quando vagar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:281658:por",
+    "alterador": "pt:dre:619769:por"
+  }
+]

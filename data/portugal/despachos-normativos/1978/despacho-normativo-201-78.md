@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-04-12'
+version_history:
+  file: despacho-normativo-201-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-08-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-04-12'
+    amending: pt:dre:382469:por
+    amending_title: Despacho Normativo n.º 81/79
+    changes:
+    - Altera Artigo unidades 4-10
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:43:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 81/79. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1978/despacho-normativo-201-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,19 +120,27 @@ Na sequência da elaboração do Plano para 1978, e nos termos do n.º 2 do arti
 
 1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1978 os projectos da Tabaqueira, E. P., a seguir discriminados:
 
-Projectos: ... Formação bruta de capital fixo em 1978 - Milhares de contos de 1977
+Projectos:
 
-Fábrica de filtros ... 2
+... Formação bruta de capital fixo em 1978 - Milhares de Contos de 1977
+
+Centros de cura ... 48
+
+Fábrica de processamento ... 1
 
 Fábrica de cigarros e picados de Albarraque ... 48
 
-Fábrica de cigarros e picado de Cabo Ruivo ... 8
+Fábrica de cigarros e picados de Cabo Ruivo ... 8
+
+Fábrica de filtros ... 2
 
 Tipografia - impressão de embalagens ... 3
 
-Melhoramentos logísticos ... 27
+Melhoramentos logísticos ... 44
 
-Total ... 88
+Total ... 154
+
+> Alterado pelo/a [Despacho Normativo n.º 81/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/81-1979-382469), publicado em 1979-04-12.
 
 2 - No corrente ano, para além das operações necessárias à respectiva actividade, fica vedado à empresa e às instituições de crédito lançar e financiar qualquer novo projecto de investimento não incluído no número anterior.
 

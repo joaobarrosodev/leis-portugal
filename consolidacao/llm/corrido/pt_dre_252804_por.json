@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:252804:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "A empresa pública Empresa de Electricidade da Madeira (EEM) fica ainda autorizada a contrair uma garantia bancária junto de uma instituição de crédito nacional até ao limite de 13656915 francos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 617/77): nova redação do parágrafo final (unidade 4, garantia bancária até 13656915 francos) - substituída.",
+    "Alterador 2: repete o mesmo texto da Portaria n.º 617/77; a mesma redação já ficou aplicada pelo alterador 1, nada mais a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

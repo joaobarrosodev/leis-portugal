@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-10-18'
+version_history:
+  file: despacho-normativo-217-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-10-18'
+    amending: pt:dre:618304:por
+    amending_title: Despacho Normativo n.º 715/94; Despacho Normativo n.º 715/94
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/217/1994/03/31/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:13:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 715/94; Despacho
+    Normativo n.º 715/94. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-217-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +139,9 @@ Considerando o disposto no artigo 3.º do [Decreto-Lei n.º 34/93](https://diari
 
 Determina-se o seguinte:
 
-1 - É criado no quadro de pessoal a que se refere o mapa anexo XXIV ao [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto, um lugar de assessor, a extinguir quando vagar.
+1 - É criado no quadro de pessoal a que se refere o mapa anexo XXIV ao [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto, um lugar de assessor principal, a extinguir quando vagar.
+
+> Alterado pelo/a [Despacho Normativo n.º 715/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/715-1994-618304), publicado em 1994-10-13.
 
 2 - A criação do lugar previsto no número anterior produz efeitos a partir de 29 de Maio de 1993.
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-08-18'
+version_history:
+  file: portaria-151-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-03-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-08-18'
+    amending: pt:dre:225206:por
+    amending_title: Portaria n.º 738/94
+    changes:
+    - Altera Artigo 18.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/151/1994/03/17/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:20:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 738/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-151-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -321,9 +336,11 @@ b) Avaliar e classificar os estagiários colocados sob a sua responsabilidade, t
 
 2 - Serão reprovados no curso de formação, ficando excluídos do estágio, os estagiários que:
 
-a) Obtenham em cada uma das disciplinas curriculares classificação inferior a 10 valores, com arredondamento;
+a) Obtenham na média do conjunto de todas as disciplinas classificação inferior a 10 valores sem arredondamento;
 
 b) Obtenham na média do conjunto das áreas curriculares de ciências sociais, ciências jurídicas e línguas estrangeiras classificação inferior a 10 valores, sem arredondamento.
+
+> Alterado pelo/a [Portaria n.º 738/94](https://diariodarepublica.pt/dr/detalhe/portaria/738-1994-225206), publicado em 1994-08-13.
 
 ###### Artigo 19.º — Avaliação da capacidade para o exercício da função de investigação e fiscalização
 

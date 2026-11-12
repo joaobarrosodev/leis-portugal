@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-07-18'
+version_history:
+  file: portaria-823-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-07-18'
+    amending: pt:dre:208777:por
+    amending_title: Portaria n.º 849/2002
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/823/2001/07/25/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:34:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 849/2002. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-823-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,7 +157,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 1.º Pelo presente diploma é declarada extinta a zona de caça nacional das Terras da Ordem (processo n.º 1469-DGF), criada pela [Portaria n.º 667-Q8/93](https://diariodarepublica.pt/dr/detalhe/portaria/667-q8-1993-402170), de 14 de Julho.
 
-2.º Com fundamento no artigo 7.º da [Lei n.º 173/99](https://diariodarepublica.pt/dr/detalhe/lei/173-1999-558207), de 21 de Setembro, e no artigo 50.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, é criada, na área da Direcção Regional de Agricultura do Algarve, a área de refúgio CMR-1, designada «Terras da Ordem», sita na freguesia de Odeleite, município de Castro Marim, com uma área de 1365,90 ha, destinada ao fomento da fauna cinegética migradora, nomeadamente a rola-comum e o pombo-torcaz.
+2.º Com fundamento no artigo 7.º da [Lei n.º 173/99](https://diariodarepublica.pt/dr/detalhe/lei/173-1999-558207), de 21 de Setembro, e no artigo 50.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, é criada na área da Direcção Regional de Agricultura do Algarve a área de refúgio CMR-1, designada 'Terras da Ordem', sita na freguesia de Odeleite, município de Castro Marim, com uma área de 824,20 ha, destinada ao fomento da fauna cinegética migradora, nomeadamente a rola-comum e o pombo-torcaz.
+
+> Alterado pelo/a [Portaria n.º 849/2002](https://diariodarepublica.pt/dr/detalhe/portaria/849-2002-208777), publicado em 2002-07-13.
 
 3.º Os limites da área de refúgio de caça vão demarcados na carta que constitui anexo ao presente diploma e do qual faz parte integrante.
 

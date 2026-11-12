@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 61-61",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A zona VGS-1, designada por Mata Nacional das Dunas de Vagos, incluindo zonas de importância local, com cerca de 227 ha;",
+    "depois": "Na zona VGS-1, designada por Mata Nacional das Dunas de Vagos, incluindo zonas de importância local, com cerca de 2227 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:370261:por",
+    "alterador": "pt:dre:251862:por"
+  }
+]

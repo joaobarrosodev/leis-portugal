@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:370261:por",
+  "substituicoes": [
+    {
+      "de": 61,
+      "ate": 61,
+      "texto": "Na zona VGS-1, designada por Mata Nacional das Dunas de Vagos, incluindo zonas de importância local, com cerca de 2227 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 260/94: nova redação da parte relativa ao município de Vagos (VGS-1, área corrigida para 2227 ha); substituída a unidade 61 com o texto do alterador; a unidade 60 ('No concelho de Vagos:') não muda."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

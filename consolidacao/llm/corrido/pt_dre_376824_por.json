@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:376824:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 11,
+      "texto": "Oito secretários de 2.ª classe (ver nota 1);\n\nCinco secretários de 3.ª classe (ver nota 2);\n\nUma telefonista;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 16,
+      "texto": "(nota 1) Três lugares a extinguir quando vagarem.\n\n(nota 2) Três lugares a preencher à medida que vagarem os três lugares de secretário de 2.ª classe.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 85/94 dá nova redação ao n.º 6 do mapa (pessoal assalariado): substituídas as unidades 9-11 (notas 1 e 2 nos secretários de 2.ª e 3.ª classe, 3.ª classe passa a cinco, 'Uma telefonista') e inseridas as notas 1 e 2 depois da unidade 16; restantes linhas iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

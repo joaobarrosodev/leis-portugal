@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:330074:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4a46458d3aefae0b"
+   ]
+  },
+  {
+   "date": "1979-04-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:382469:por",
+     "title": "Despacho Normativo n.º 81/79",
+     "published": "1979-04-12",
+     "dre_path": "/dr/detalhe/despacho-normativo/81-1979-382469"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-10"
+   ],
+   "fragments": [
+    "c1875facdf4446df"
+   ]
+  }
+ ],
+ "fragments": {
+  "4a46458d3aefae0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Na sequência da elaboração do Plano para 1978, e nos termos do n.º 2 do artigo 2.º da [Lei n.º 26/78](https://diariodarepublica.pt/dr/detalhe/lei/26-1978-295136), de 8 de Junho, tendo em conta os trabalhos de avaliação dos investimentos conduzidos no âmbito da Comissão Coordenadora do Financiamento das Empresas do Sector Empresarial do Estado, criada pela Resolução do Conselho de Ministros n.º 28/78, de 22 de Fevereiro, e dando cumprimento ao disposto na Resolução do Conselho de Ministros n.º 102/78, de 21 de Junho, os Ministros das Finanças e do Plano e da Indústria e Tecnologia determinam:\n\n1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1978 os projectos da Tabaqueira, E. P., a seguir discriminados:\n\nProjectos: ... Formação bruta de capital fixo em 1978 - Milhares de contos de 1977\n\nFábrica de filtros ... 2\n\nFábrica de cigarros e picados de Albarraque ... 48\n\nFábrica de cigarros e picado de Cabo Ruivo ... 8\n\nTipografia - impressão de embalagens ... 3\n\nMelhoramentos logísticos ... 27\n\nTotal ... 88\n\n2 - No corrente ano, para além das operações necessárias à respectiva actividade, fica vedado à empresa e às instituições de crédito lançar e financiar qualquer novo projecto de investimento não incluído no número anterior.\n\n3 - Este conjunto de projectos, repesentando um investimento total de 88 milhares de contos, será financiado pela empresa, no que toca a componente externa, recorrendo a empréstimos a médio ou longo prazo de instituições de crédito ou fundos internacionais ou estrangeiros, pelo menos, no equivalente a um montante de 34 milhares de contos.\n\n4 - Os meios libertos pela empresa e por ela afectados ao financiamento deste conjunto de projectos de investimento ascenderão a 54 milhares de contos.\n\n5 - A empresa deverá procurar ampliar o financiamento na ordem externa com base nos projectos que constam do seu programa para além do montante referido no n.º 3, como alternativa a uma menor utilizaçãõo das fontes internas de financiamento, designadamente o crédito a médio ou longo prazo.\n\nOs efeitos das alterações cambiais relacionadas com estes financiamentos externos serão, em princípio, de conta da empresa.\n\n6 - Deverá o contrôle da execução material e financeira dos projectos incluídos no PISEE ser efectivado por intermédio do Gabinete de Planeamento do Ministério da Indústria e Tecnologia e da Inspecção-Geral de Finanças, segundo normas a aprovar.\n\nMinistérios das Finanças e do Plano e da Indústria e Tecnologia, 14 de Julho de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Indústria e Tecnologia, Carlos Montês Melancia."
+  },
+  "c1875facdf4446df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1979-04-12",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 81/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/81-1979-382469), publicado em 1979-04-12."
+   ],
+   "markdown": "Na sequência da elaboração do Plano para 1978, e nos termos do n.º 2 do artigo 2.º da [Lei n.º 26/78](https://diariodarepublica.pt/dr/detalhe/lei/26-1978-295136), de 8 de Junho, tendo em conta os trabalhos de avaliação dos investimentos conduzidos no âmbito da Comissão Coordenadora do Financiamento das Empresas do Sector Empresarial do Estado, criada pela Resolução do Conselho de Ministros n.º 28/78, de 22 de Fevereiro, e dando cumprimento ao disposto na Resolução do Conselho de Ministros n.º 102/78, de 21 de Junho, os Ministros das Finanças e do Plano e da Indústria e Tecnologia determinam:\n\n1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1978 os projectos da Tabaqueira, E. P., a seguir discriminados:\n\nProjectos:\n\n... Formação bruta de capital fixo em 1978 - Milhares de Contos de 1977\n\nCentros de cura ... 48\n\nFábrica de processamento ... 1\n\nFábrica de cigarros e picados de Albarraque ... 48\n\nFábrica de cigarros e picados de Cabo Ruivo ... 8\n\nFábrica de filtros ... 2\n\nTipografia - impressão de embalagens ... 3\n\nMelhoramentos logísticos ... 44\n\nTotal ... 154\n\n> Alterado pelo/a [Despacho Normativo n.º 81/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/81-1979-382469), publicado em 1979-04-12.\n\n2 - No corrente ano, para além das operações necessárias à respectiva actividade, fica vedado à empresa e às instituições de crédito lançar e financiar qualquer novo projecto de investimento não incluído no número anterior.\n\n3 - Este conjunto de projectos, repesentando um investimento total de 88 milhares de contos, será financiado pela empresa, no que toca a componente externa, recorrendo a empréstimos a médio ou longo prazo de instituições de crédito ou fundos internacionais ou estrangeiros, pelo menos, no equivalente a um montante de 34 milhares de contos.\n\n4 - Os meios libertos pela empresa e por ela afectados ao financiamento deste conjunto de projectos de investimento ascenderão a 54 milhares de contos.\n\n5 - A empresa deverá procurar ampliar o financiamento na ordem externa com base nos projectos que constam do seu programa para além do montante referido no n.º 3, como alternativa a uma menor utilizaçãõo das fontes internas de financiamento, designadamente o crédito a médio ou longo prazo.\n\nOs efeitos das alterações cambiais relacionadas com estes financiamentos externos serão, em princípio, de conta da empresa.\n\n6 - Deverá o contrôle da execução material e financeira dos projectos incluídos no PISEE ser efectivado por intermédio do Gabinete de Planeamento do Ministério da Indústria e Tecnologia e da Inspecção-Geral de Finanças, segundo normas a aprovar.\n\nMinistérios das Finanças e do Plano e da Indústria e Tecnologia, 14 de Julho de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Indústria e Tecnologia, Carlos Montês Melancia."
+  }
+ }
+}

@@ -1,0 +1,396 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:283742:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-03-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c86b5d0dac32ef3a",
+    "23836370ae405d04",
+    "ed25cf21ed20aa38",
+    "61ec5f6d0cc3a969",
+    "6eab87e3e3893464",
+    "38eb0fe1b7b6418f",
+    "91f1d5a7b3fd4ac7",
+    "0671994d9ad4fb28",
+    "e9fe672ddde1d8b6",
+    "077269e887738bb1",
+    "8e7503d882afa45f",
+    "5b8f3851d802c4a2",
+    "0e428fe6b37484ed",
+    "0f099cc7bd1706a5",
+    "ee5fee928071a285",
+    "e2844c5c18a2c93b",
+    "1a18a8788b04525f",
+    "4f358d76eecccc0f",
+    "c8df984723c4183c",
+    "6bf8222d4bca3df7",
+    "6a40abdf31452684",
+    "8eeec7bcf744b604",
+    "af8921907857eaf5",
+    "b9650cf463538462",
+    "2963102305a23b53",
+    "90782ffdab6f571d",
+    "3ac17380282293ec",
+    "1d498a9bea35a883",
+    "b534696953c0af17",
+    "bc248f4881e8b66f",
+    "24112c6fa154f64c",
+    "1e6dc90bacb39959",
+    "2703e10cf7b30273",
+    "42f51993ba323a6e",
+    "b79f0bb1646ea4ae"
+   ]
+  },
+  {
+   "date": "1994-08-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:225206:por",
+     "title": "Portaria n.º 738/94",
+     "published": "1994-08-13",
+     "dre_path": "/dr/detalhe/portaria/738-1994-225206"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "c86b5d0dac32ef3a",
+    "23836370ae405d04",
+    "ed25cf21ed20aa38",
+    "61ec5f6d0cc3a969",
+    "6eab87e3e3893464",
+    "38eb0fe1b7b6418f",
+    "91f1d5a7b3fd4ac7",
+    "0671994d9ad4fb28",
+    "e9fe672ddde1d8b6",
+    "077269e887738bb1",
+    "8e7503d882afa45f",
+    "5b8f3851d802c4a2",
+    "0e428fe6b37484ed",
+    "0f099cc7bd1706a5",
+    "ee5fee928071a285",
+    "e2844c5c18a2c93b",
+    "1a18a8788b04525f",
+    "4f358d76eecccc0f",
+    "c8df984723c4183c",
+    "6bf8222d4bca3df7",
+    "6a40abdf31452684",
+    "8eeec7bcf744b604",
+    "af8921907857eaf5",
+    "b9650cf463538462",
+    "2963102305a23b53",
+    "2144044b007d81ff",
+    "3ac17380282293ec",
+    "1d498a9bea35a883",
+    "b534696953c0af17",
+    "bc248f4881e8b66f",
+    "24112c6fa154f64c",
+    "1e6dc90bacb39959",
+    "2703e10cf7b30273",
+    "42f51993ba323a6e",
+    "b79f0bb1646ea4ae"
+   ]
+  }
+ ],
+ "fragments": {
+  "c86b5d0dac32ef3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Março\n\nO [Decreto-Lei n.º 230/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1993-267036), de 26 de Junho, prevê, no seu artigo 17.º, a transição do pessoal militar da extinta Guarda Fiscal (GF) para o quadro de pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras (SEF), mediante concurso.\n\nPor outro lado, o artigo 18.º do mesmo decreto-lei estabelece que a regulamentação do concurso, respectivos métodos de selecção e sistema de classificação, bem como os regimes de estágio probatório prévio à transição daquele pessoal e de provimento após estágio, sejam regulados por portaria a aprovar pelo Ministro da Administração Interna.\n\nAssim, dando execução ao estabelecido no citado decreto-lei, procede-se, pelo presente diploma, à regulamentação das referidas matérias.\n\nNestes termos, ao abrigo do disposto no artigo 18.º do [Decreto-Lei n.º 230/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1993-267036), de 26 de Junho:\n\nManda o Governo, pelo Ministro da Administração Interna, o seguinte:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "ed25cf21ed20aa38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria estabelece a regulamentação do concurso, respectivos métodos de selecção e sistema de classificação aplicáveis à transição prevista no artigo 17.º do [Decreto-Lei n.º 230/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1993-267036), de 26 de Junho, do pessoal militar da extinta Guarda Fiscal (GF) para o quadro de pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras (SEF), bem como os regimes de estágio probatório prévio à referida transição e de provimento, após aquele estágio, nas categorias de inspector de 2.ª classe e inspector-adjunto de 2.ª classe."
+  },
+  "61ec5f6d0cc3a969": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Concurso"
+  },
+  "6eab87e3e3893464": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Normas aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Normas aplicáveis\n\nO concurso a que se refere o artigo 17.º do [Decreto-Lei n.º 230/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1993-267036), de 26 de Junho, rege-se, para além do estabelecido nesse artigo, pelo disposto na presente portaria e, subsidiariamente, pelo [Decreto-Lei n.º 360/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1989-549392), de 18 de Outubro, e pelo disposto na lei geral."
+  },
+  "38eb0fe1b7b6418f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Métodos de selecção\n\n1 - No concurso referido no artigo anterior serão utilizados conjuntamente os seguintes métodos de selecção:\n\na) Provas de conhecimentos gerais e de língua inglesa ou francesa;\n\nb) Avaliação curricular;\n\nc) Entrevista profissional de selecção.\n\n2 - Cada um dos métodos de selecção referidos nas alíneas a) a c) do número anterior é eliminatório de per si, determinando, relativamente aos candidatos que não obtenham aproveitamento em cada um deles, a imediata exclusão do concurso."
+  },
+  "91f1d5a7b3fd4ac7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Sistema de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sistema de classificação\n\n1 - Os resultados obtidos em qualquer dos métodos de selecção referidos no artigo 3.º serão classificados de 0 a 20 valores.\n\n2 - A classificação final resultará da média aritmética simples ou ponderada, conforme for definido no aviso de abertura do concurso, das classificações obtidas em todos os métodos de selecção.\n\n3 - Na classificação final adoptar-se-á a escala de 0 a 20 valores.\n\n4 - Consideram-se excluídos os candidatos que, em cada um dos métodos de selecção ou na classificação final, obtenham classificação inferior a 10 valores.\n\n5 - Em caso de igualdade de classificação, serão factores de preferência, pela ordem indicada, os seguintes:\n\na) Ter maiores habilitações literárias;\n\nb) Possuir maior número de qualificações profissionais ou técnicas com interesse para o SEF;\n\nc) Ter menos idade."
+  },
+  "0671994d9ad4fb28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Estágio probatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Estágio probatório"
+  },
+  "e9fe672ddde1d8b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "077269e887738bb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Admissão e frequência do estágio probatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Admissão e frequência do estágio probatório\n\n1 - Os candidatos aprovados no concurso a que se referem os artigos precedentes serão admitidos a um estágio probatório, doravante designado por estágio, o qual é regulado nos termos da presente portaria.\n\n2 - A desistência, em qualquer momento, da frequência do estágio pelos candidatos aprovados no concurso, a qual terá de ser manifestada por escrito, implica a perda dos direitos resultantes da aprovação no concurso, designadamente do direito à transição prevista no artigo 17.º do [Decreto-Lei n.º 230/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1993-267036), de 26 de Junho.\n\n3 - Para efeitos do disposto nos números anteriores, os candidatos serão individualmente avisados por meio de ofício registado com aviso de recepção.\n\n4 - A obtenção de aprovação no estágio é condição para o provimento dos estagiários nos lugares correspondentes, respectivamente, às categorias de inspector de 2.ª classe e inspector-adjunto de 2.ª classe."
+  },
+  "8e7503d882afa45f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Objectivos do estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objectivos do estágio\n\nO estágio tem como objectivos a formação teórica e a preparação prática dos estagiários para o exercício da função de investigação e fiscalização, bem como a apreciação da sua capacidade para o exercício daquela função."
+  },
+  "5b8f3851d802c4a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Plano de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Plano de estágio\n\nO estágio, com a duração máxima de quatro meses, compreenderá:\n\na) O curso de formação, no qual são ministrados os conhecimentos e as técnicas adequados ao exercício da função de investigação e fiscalização;\n\nb) O exercício tutelado de funções."
+  },
+  "0e428fe6b37484ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Curso de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Curso de formação\n\nO plano de curso de formação, bem como a sua duração, consta do mapa anexo à presente portaria."
+  },
+  "0f099cc7bd1706a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Exercício tutelado de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exercício tutelado de funções\n\nImediatamente após o termo do curso de formação, os estagiários que nele tenham obtido aproveitamento iniciarão um período de exercício tutelado de funções nos locais que lhes forem designados, sob responsabilidade de orientadores de estágio."
+  },
+  "ee5fee928071a285": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Calendarização, horário e local da realização do estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Calendarização, horário e local da realização do estágio\n\nA calendarização, horário e local da realização do curso de formação e do exercício tutelado de funções serão objecto de despacho do director do SEF, a divulgar pelos estagiários antes do início de cada uma daquelas fases do estágio."
+  },
+  "e2844c5c18a2c93b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Regime aplicável aos estagiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Regime aplicável aos estagiários"
+  },
+  "1a18a8788b04525f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Vinculação durante a frequência do estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Vinculação durante a frequência do estágio\n\n1 - Durante a frequência do estágio, os estagiários candidatos a inspectores de 2.ª classe e inspectores-adjuntos de 2.ª classe manterão a situação de requisição no SEF resultante do disposto nos artigos 14.º e 16.º do [Decreto-Lei n.º 230/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1993-267036), de 26 de Junho, sendo equiparados, respectivamente, a inspectores estagiários e a inspectores-adjuntos estagiários, podendo optar pela remuneração estabelecida para estas categorias no mapa anexo ao [Decreto-Lei n.º 160/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1992-275245), de 1 de Agosto, ou pelo estatuto remuneratório correspondente ao respectivo posto na extinta GF.\n\n2 - Cessam imediatamente a situação de requisição no SEF os candidatos que, em qualquer altura, desistam da frequência do estágio, bem como aqueles que venham a ser excluídos do estágio ou nele reprovados, nos termos das disposições constantes da presente portaria.\n\n3 - A cessação da situação de requisição no SEF nos termos previstos no número anterior determina o imediato regresso dos candidatos à Guarda Nacional Republicana (GNR)."
+  },
+  "4f358d76eecccc0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Assiduidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Assiduidade\n\n1 - Os estagiários estão obrigados à frequência, com assiduidade e pontualidade, de todas as disciplinas curriculares programadas, bem como à execução dos trabalhos que lhes forem distribuídos no cumprimento do plano de estágio.\n\n2 - O controlo de presenças far-se-á pelo sistema de assinatura de folhas, que serão recolhidas pelo monitor ou pelo orientador de estágio logo após o início de cada sessão de formação ou de exercício tutelado de funções."
+  },
+  "c8df984723c4183c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Regime de faltas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regime de faltas\n\n1 - As ausências contam-se por unidade de tempo de formação teórica ou prática, que é o período que decorre entre o início e o termo de uma sessão de trabalho sem intervalo.\n\n2 - A justificação de ausência deverá fazer-se no dia imediatamente subsequente ao termo desta, em folha própria, a ser entregue ao funcionário responsável pelo apoio administrativo, cabendo ao coordenador do estágio decidir sobre a justificação das faltas dadas, após ter obtido parecer do monitor ou do orientador do estágio, conforme o caso.\n\n3 - Determinam a exclusão do estágio:\n\na) Três faltas injustificadas, seguidas ou interpoladas;\n\nb) Um número total de ausências, incluindo faltas justificadas, superior a 25% do total de horas de qualquer das áreas de formação ou a 5% do total de horas de formação;\n\nc) O comportamento do estagiário incompatível com a dignidade da função ou revelador de falta de urbanidade ou respeito para com o coordenador, monitores, orientadores de estágio, funcionários e agentes do SEF e público em geral."
+  },
+  "6bf8222d4bca3df7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Coordenador, monitores e orientadores de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Coordenador, monitores e orientadores de estágio"
+  },
+  "6a40abdf31452684": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Coordenador de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Coordenador de estágio\n\n1 - A coordenação do estágio será efectuado por um coordenador de estágio, designado por despacho do director do SEF, de entre técnicos superiores ou inspectores do quadro do SEF, ao qual compete:\n\na) Assegurar a coordenação da monitoragem das disciplinas curriculares integradas no respectivo plano, bem como do apoio técnico-administrativo;\n\nb) Apreciar os problemas expostos pelos monitores, orientadores de estágio ou estagiários, diligenciando pela sua solução;\n\nc) Apreciar a justificação das ausências dos estagiários, bem como o seu comportamento, e decidir sobre a sua exclusão;\n\nd) Superintender, em colaboração com os orientadores de estágio, no exercício tutelado de funções;\n\ne) Atribuir a classificação da área técnica, em colaboração com os monitores das disciplinas que a integram;\n\nf) Proceder ao apuramento da classificação do curso de formação, do exercício tutelado de funções e da classificação final do estágio, nos termos dos artigos 18.º a 20.º da presente portaria.\n\n2 - O coordenador de estágio depende directa e imediatamente do diretor do SEF, podendo, se necessário, ser assessorado por especialistas em organização de formação.\n\n3 - O coordenador de estágio desenvolverá a sua acção em colaboração com a Direcção de Serviços Administrativos e de Apoio Geral, à qual incumbe prestar apoio técnico-administrativo ao estágio, designadamente:\n\na) Assegurar o apoio na preparação e elaboração dos suportes materiais para as acções de formação;\n\nb) Executar todos os trabalhos de dactilografia;\n\nc) Assegurar o serviço de reprodução de textos ou trabalhos de divulgação;\n\nd) Elaborar os mapas de registo e controlo de presenças dos estagiários;\n\ne) Efectuar o registo das presenças dos monitores."
+  },
+  "8eeec7bcf744b604": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Monitores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Monitores\n\n1 - As disciplinas curriculares integrantes do curso de formação serão ministradas por monitores, aos quais compete:\n\na) Elaborar os programas das disciplinas a ministrar em função do perfil funcional dos estagiários e dos objectivos do estágio;\n\nb) Avaliar e classificar os estagiários nos termos estabelecidos nos artigos 17.º e 18.º desta portaria.\n\n2 - Poderão ser monitores os funcionários do quadro do SEF ou especialistas de reconhecida competência nas disciplinas curriculares a monitorar."
+  },
+  "af8921907857eaf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Orientadores de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Orientadores de estágio\n\nOs orientadores de estágio serão designados, por despacho do director do SEF, de entre pessoal da carreira de investigação e fiscalização, para acompanhamento do período de exercício tutelado de funções, competindo-lhes:\n\na) Assegurar a formação prática dos estagiários colocados sob sua responsabilidade;\n\nb) Avaliar e classificar os estagiários colocados sob a sua responsabilidade, tendo em conta o seu comportamento e a capacidade revelada para o exercício da função de investigação e fiscalização."
+  },
+  "b9650cf463538462": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Avaliação e classificação do estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Avaliação e classificação do estágio"
+  },
+  "2963102305a23b53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Avaliação dos conhecimentos no curso de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Avaliação dos conhecimentos no curso de formação\n\n1 - Os estagiários serão submetidos a provas para avaliação de conhecimentos em cada disciplina, tendo em conta a respectiva especificidade, sendo obrigatória a realização de uma prova escrita final nas áreas curriculares de ciências sociais e ciências jurídicas.\n\n2 - Para efeitos de atribuição da nota final por disciplina, os monitores poderão tomar em consideração a participação individual dos estagiários ao longo das várias sessões que compõem a disciplina, tendo em conta a qualidade dessas intervenções, bem como a realização de trabalhos individuais e de grupo ou outras formas de participação oral ou escrita.\n\n3 - A classificação dos estagiários em cada uma das disciplinas das áreas curriculares de ciências sociais, ciências jurídicas e línguas estrangeiras será graduada numa escala de 0 a 20 valores.\n\n4 - A classificação das disciplinas que integram a área técnica será feita em conjunto, numa escala de 0 a 20 valores, contando para efeitos da classificação final do curso de formação como uma só disciplina."
+  },
+  "90782ffdab6f571d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Classificação do curso de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Classificação do curso de formação\n\n1 - A classificação do curso de formação (CCF) será a resultante da média aritmética simples da classificação de cada uma das disciplinas das áreas curriculares de ciências sociais, ciências jurídicas, línguas estrangeiras e da classificação do conjunto das disciplinas da área técnica.\n\n2 - Serão reprovados no curso de formação, ficando excluídos do estágio, os estagiários que:\n\na) Obtenham em cada uma das disciplinas curriculares classificação inferior a 10 valores, com arredondamento;\n\nb) Obtenham na média do conjunto das áreas curriculares de ciências sociais, ciências jurídicas e línguas estrangeiras classificação inferior a 10 valores, sem arredondamento."
+  },
+  "3ac17380282293ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Avaliação da capacidade para o exercício da função de investigação e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Avaliação da capacidade para o exercício da função de investigação e fiscalização\n\n1 - Durante o exercício tutelado de funções será feita a avaliação da capacidade dos estagiários para o exercício da função de investigação e fiscalização, mediante observação do seu comportamento, com base nos seguintes factores:\n\na) O interesse e a facilidade em integrar-se nos objectivos e atribuições do SEF e a sua capacidade para a execução das funções específicas de investigação e fiscalização;\n\nb) O conhecimento da estrutura orgânica e hierarquia do SEF;\n\nc) A capacidade para entender e aplicar normas e instruções;\n\nd) O poder de análise das situações e a capacidade de tomada pronta de decisões e ponderação das respectivas consequências;\n\ne) A correcção e rapidez na execução de tarefas;\n\nf) A compreensão clara das condições e limites do exercício da sua autoridade;\n\ng) A qualidade do relacionamento estabelecido com o público, com os superiores e, em geral, com todos aqueles que desempenham funções nos locais de estágio.\n\n2 - A avaliação da capacidade dos estagiários para o exercício da função de investigação e fiscalização traduzir-se-á na atribuição de uma nota de mérito (NM), graduada de 0 a 20 valores.\n\n3 - A classificação a atribuir em NM será obtida através da soma das classificações obtidas em cada um dos factores indicados no n.º 1, os quais serão classificados, respectivamente, com o máximo de 8 valores no que toca ao factor constante da alínea a) e com o máximo de 2 valores cada um dos factores indicados nas alíneas b) a g) do mesmo número.\n\n4 - São excluídos do estágio os estagiários que obtenham nota de mérito inferior a 10 valores, sem arredondamento."
+  },
+  "1d498a9bea35a883": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Classificação final do estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Classificação final do estágio\n\nA classificação final do estágio (CFE) será a resultante da média aritmética simples da classificação do curso de formação e da nota de mérito, de acordo com a seguinte fórmula:\n\nCFE = (CCF + NM)/2"
+  },
+  "b534696953c0af17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Listas de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Listas de classificação\n\n1 - A classificação do curso de formação, do exercício tutelado de funções traduzida na NM e a classificação final do estágio serão objecto de apuramento em relatório a elaborar pelo coordenador de estágio.\n\n2 - A classificação do curso de formação e a classificação final serão consubstanciadas em listas elaboradas pelo coordenador de estágio, que as remeterá para publicação no Diário da República, depois de homologadas pelo director do SEF.\n\n3 - Na lista de classificação final do estágio os estagiários serão ordenados separadamente em função da categoria a que se candidataram e, dentro desta, de acordo com a classificação final obtida no estágio."
+  },
+  "bc248f4881e8b66f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Recurso\n\n1 - Da homologação de cada uma das listas a que se refere o artigo anterior cabe recurso para o Ministro da Administração Interna, a interpor no prazo de 10 dias a contar da data da publicação das respectivas listas no Diário da República.\n\n2 - O recurso interposto da lista de classificação final do estágio tem efeito suspensivo.\n\n3 - A entidade recorrida deverá decidir do recurso no prazo máximo de 10 dias a contar da data da sua interposição."
+  },
+  "24112c6fa154f64c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Validade do estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Validade do estágio\n\nO estágio é válido pelo prazo de três anos a contar da data da publicação da lista de classificação final do mesmo."
+  },
+  "1e6dc90bacb39959": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Provimento após estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Provimento após estágio"
+  },
+  "2703e10cf7b30273": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Ordem de provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Ordem de provimento\n\n1 - Após aprovação no estágio, os estagiários serão providos nas categorias a que se candidataram, de inspector de 2.ª classe e inspector-adjunto de 2.ª classe, segundo a sua ordenação na lista de classificação final do estágio.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo anterior, em caso de igualdade de classificação final, serão considerados, sucessivamente, os seguintes factores de desempate:\n\na) Melhor nota de mérito;\n\nb) Maiores habilitações literárias;\n\nc) Menos idade.\n\n3 - O período de estágio, quando seguido de provimento em qualquer das categorias referidas no n.º 1, conta para todos os efeitos legais como prestado naquelas categorias."
+  },
+  "42f51993ba323a6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Disposição final\n\nOs estagiários aprovados n.os 1.º e 2.º estágios probatórios de ingresso na carreira de investigação e fiscalização do SEF, realizados ao abrigo dos Despachos Normativos n.os [133/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/133-1990-566066), de 8 de Novembro, e [203/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/203-1991-301420), de 18 de Setembro, que ainda não se encontrem providos nas categorias a que se candidataram por inexistência de vagas serão providos nessas categorias antes de ser feito o provimento, nos termos previstos na presente portaria, do pessoal militar da extinta GF.\n\nMinistério da Administração Interna.\n\nAssinada em 7 de Março de 1994.\n\nO Ministro da Administração Interna, Manuel Dias Loureiro."
+  },
+  "b79f0bb1646ea4ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/064b00/13321336.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/064b00/13321336.pdf)"
+  },
+  "2144044b007d81ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Classificação do curso de formação",
+   "in_force_from": "1994-08-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 738/94](https://diariodarepublica.pt/dr/detalhe/portaria/738-1994-225206), publicado em 1994-08-13."
+   ],
+   "markdown": "###### Artigo 18.º — Classificação do curso de formação\n\n1 - A classificação do curso de formação (CCF) será a resultante da média aritmética simples da classificação de cada uma das disciplinas das áreas curriculares de ciências sociais, ciências jurídicas, línguas estrangeiras e da classificação do conjunto das disciplinas da área técnica.\n\n2 - Serão reprovados no curso de formação, ficando excluídos do estágio, os estagiários que:\n\na) Obtenham na média do conjunto de todas as disciplinas classificação inferior a 10 valores sem arredondamento;\n\nb) Obtenham na média do conjunto das áreas curriculares de ciências sociais, ciências jurídicas e línguas estrangeiras classificação inferior a 10 valores, sem arredondamento.\n\n> Alterado pelo/a [Portaria n.º 738/94](https://diariodarepublica.pt/dr/detalhe/portaria/738-1994-225206), publicado em 1994-08-13."
+  }
+ }
+}

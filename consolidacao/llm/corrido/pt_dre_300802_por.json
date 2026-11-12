@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:300802:por",
+  "substituicoes": [
+    {
+      "de": 31,
+      "ate": 32,
+      "texto": "2 - O período venatório para as espécies cinegéticas seguidamente mencionadas é o definido para o regime cinegético geral: raposa, saca-rabos, faisão, codorniz, galinhola, narcejas, pombos, rola comum, tordos, tarambola-dourada, galinha-de-água, galeirão e patos.\n\n3 - O período venatório da lebre, coelho e perdiz coindice com o do regime cinegético geral, sem prejuízo do disposto no n.º 1 quanto ao fixado nos planos de ordenamento e exploração no que respeita ao termo do período venatório, à caça a corricão e à caça à espera ou por aproximação do javali.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 736-E/93: nova redação dos n.os 2 e 3 do n.º 14.º; substituídas as unidades 31-32."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

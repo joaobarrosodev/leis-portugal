@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "i) Um representante da Guarda Nacional Republicana;",
+    "depois": "i) Um representante da Guarda Nacional Republicana e um representante da Polícia de Segurança Pública.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:345515:por",
+    "alterador": "pt:dre:667502:por"
+  }
+]

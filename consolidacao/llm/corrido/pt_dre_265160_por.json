@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:265160:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 (Portaria n.º 232/2000) revoga a concessão do regime cinegético especial atribuída pela portaria, sem alteração textual: o diploma deixa de produzir efeitos por inteiro, nada a mudar no texto.",
+  "instrucoes": [
+    "Alterador 1 revoga a concessão atribuída pela Portaria n.º 250/94 (falência da concessionária): não é alteração textual; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-01-26'
+version_history:
+  file: portaria-571-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-06-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-01-26'
+    amending: pt:dre:512397:por
+    amending_title: Portaria n.º 55/94
+    changes:
+    - Altera Artigo unidades 27-27
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/571/1993/06/02/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:59:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 55/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-571-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,7 +172,9 @@ d) Elaborar normas de higiene e segurança, bem como de correcta utilização da
 
 e) Elaborar planos anuais e plurianuais de resposta às necessidades em matéria de equipamentos educativos e definir programas para a sua concretização;
 
-f) Proceder a estudos relativos a mobiliário e outro equipamento, tendo em vista a evolução tecnológica e os conceitos de saúde e segurança;
+f) Proceder a estudos relativos a mobiliário escolar e outro equipamento necessário ao funcionamento das escolas, tendo em vista a sua adequação ergonómica e funcional, as suas condições de segurança e a evolução tecnológica, e promover concursos de qualificação de equipamento e outras acções conducentes à racionalização global dos processos levados a efeito pelas direcções regionais de educação e por outros organismos para apetrechamento de escolas;
+
+> Alterado pelo/a [Portaria n.º 55/94](https://diariodarepublica.pt/dr/detalhe/portaria/55-1994-512397), publicado em 1994-01-21.
 
 g) Criar e manter actualizado um serviço de informação de crédito empresarial, de empreiteiros e fornecedores, em colaboração com as direcções regionais de educação;
 

@@ -1,0 +1,297 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:372390:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-03-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "36c8da736ad476fc",
+    "2be42bf0ff8e8911",
+    "3963519d34efb72b",
+    "a714c85fa3797255",
+    "7467306287a9ec95",
+    "8a01414bd1a77e95",
+    "a4d53c0566cdf5de",
+    "d07d4ea8a440fa87",
+    "99b1378491134250",
+    "b506ee3611159d5a",
+    "9b0723e282d5d805",
+    "ee66b96478bb8a9b",
+    "c8a415759d24651e",
+    "d27785c8724a652a",
+    "0b8b6d25968972f0",
+    "e75e07034c1e6e50",
+    "c338ba6b0efbc98b",
+    "26c43562d83eebe2",
+    "14eb829ad7987c1d",
+    "9077d4a2c11c03d3",
+    "146f72067ca83db2",
+    "b2dfe2de0f8def79",
+    "0aaadaccd2418934",
+    "410d8bd365647872"
+   ]
+  },
+  {
+   "date": "2001-12-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:374185:por",
+     "title": "Portaria n.º 1389-A/2001",
+     "published": "2001-12-07",
+     "dre_path": "/dr/detalhe/portaria/1389-a-2001-374185"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO::3.º",
+    "Altera Artigo ANEXO::13.º"
+   ],
+   "fragments": [
+    "36c8da736ad476fc",
+    "2be42bf0ff8e8911",
+    "3963519d34efb72b",
+    "a714c85fa3797255",
+    "f092b493b632da7b",
+    "8a01414bd1a77e95",
+    "a4d53c0566cdf5de",
+    "d07d4ea8a440fa87",
+    "99b1378491134250",
+    "b506ee3611159d5a",
+    "9b0723e282d5d805",
+    "ee66b96478bb8a9b",
+    "c8a415759d24651e",
+    "d27785c8724a652a",
+    "58f4caea55aa1955",
+    "e75e07034c1e6e50",
+    "c338ba6b0efbc98b",
+    "26c43562d83eebe2",
+    "14eb829ad7987c1d",
+    "9077d4a2c11c03d3",
+    "146f72067ca83db2",
+    "b2dfe2de0f8def79",
+    "0aaadaccd2418934",
+    "410d8bd365647872"
+   ]
+  }
+ ],
+ "fragments": {
+  "36c8da736ad476fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Março\n\nO Governo aprovou, pelo [Decreto-Lei n.º 70-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2000-510266), um enquadramento legal de referência para a criação de um conjunto de medidas de acção económica visando o desenvolvimento estratégico dos diversos sectores de actividade da economia, através de apoios directos e indirectos às empresas e demais agentes económicos, bem como à envolvente empresarial, para o período de 2000 a 2006.\n\nDe entre os eixos de actuação definidos no citado diploma inscreve-se o referente à promoção de áreas estratégicas para o desenvolvimento económico, no qual, no âmbito do fomento de novos espaços de desenvolvimento, se insere, entre outros, o apoio à consolidação e alargamento da rede de mercados abastecedores.\n\nA presente portaria vem, assim, criar e regulamentar uma medida de apoio, ao abrigo daquele enquadramento, relativa aos mercados abastecedores e aos mercados de interesse relevante, através do apoio à inserção no seu espaço de empresas que desenvolvam a sua actividade no sector do comércio de produtos alimentares e não alimentares, dos serviços e actividades de logística com eles relacionados e dos serviços e actividades complementares.\n\nAssim, ao abrigo do artigo 20.º e nos termos da alínea d) do artigo 6.º do [Decreto-Lei n.º 70-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2000-510266), de 5 de Maio:\n\nManda o Governo, pelos Ministros das Finanças, da Economia e do Planeamento, que seja criada a Medida de Apoio à Dinamização de Mercados Abastecedores e de Mercados de Interesse Relevante, regulamentada nos termos do anexo à presente portaria, que dela faz parte integrante.\n\nEm 25 de Janeiro de 2001.\n\nO Ministro das Finanças, Joaquim Augusto Nunes de Pina Moura. - Pelo Ministro da Economia, Vítor Manuel da Silva Santos, Secretário de Estado Adjunto do Ministro da Economia. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira."
+  },
+  "2be42bf0ff8e8911": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nRegulamento de Execução da Medida de Apoio à Dinamização de Mercados Abastecedores e de Mercados de Interesse Relevante."
+  },
+  "3963519d34efb72b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de aplicação da Medida de Apoio à Dinamização de Mercados Abastecedores e de Mercados de Interesse Relevante no âmbito do Programa Operacional da Economia (POE)."
+  },
+  "a714c85fa3797255": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - São susceptíveis de apoio no âmbito do presente Regulamento:\n\na) Os projectos relativos a mercados abastecedores de interesse público, na acepção do [Decreto-Lei n.º 258/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1995-575728), de 30 de Setembro, que visem o desenvolvimento da actual rede de mercados abastecedores;\n\nb) Os projectos relativos a mercados situados nas zonas de influência dos mercados abastecedores de interesse público que, face à sua localização, dimensão, importância no abastecimento, inserção na malha urbana, articulação com a rede de mercados abastecedores e com a produção local, sejam de interesse relevante para a revitalização urbana e comercial.\n\n2 - Os mercados abastecedores de interesse público e os mercados de interesse relevante, a que se refere o número anterior, são os constantes do anexo A ao presente Regulamento e que dele faz parte integrante."
+  },
+  "7467306287a9ec95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades beneficiárias\n\nAs entidades beneficiárias da presente medida de apoio são as empresas públicas, de capitais públicos ou de capital maioritariamente público que tenham como objecto a construção, instalação e gestão, directa ou indirecta, dos mercados abrangidos pelo presente Regulamento e desenvolvam projectos de investimento previstos no artigo seguinte."
+  },
+  "8a01414bd1a77e95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Tipologia de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipologia de projectos\n\nSão apoiados no âmbito do presente Regulamento os projectos de investimento relativos a:\n\na) Estudos estratégicos e estudos que potenciem a actividade dos mercados e as operações de logística que neles se desenvolvam;\n\nb) Construção de novos mercados abastecedores e expansão e diversificação das actividades e serviços instalados em mercados abastecedores já existentes;\n\nc) Recuperação, modernização, requalificação ou relocalização de mercados de interesse relevante."
+  },
+  "a4d53c0566cdf5de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de elegibilidade do promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de elegibilidade do promotor\n\n1 - O promotor do projecto de investimento deve:\n\na) Ser empresa constituída e registada nos termos da legislação em vigor, no momento da apresentação da candidatura ou, encontrando-se em fase de constituição, estar constituída e registada até à data da celebração do contrato;\n\nb) No caso dos projectos abrangidos pela alínea b) do artigo 4.º, deter o estatuto de entidade responsável, nos termos do n.º 3 do artigo 8.º do [Decreto-Lei n.º 258/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1995-575728), de 30 de Setembro;\n\nc) No caso dos projectos abrangidos pela alínea c) do artigo 4.º, terem as entidades envolvidas na constituição da empresa estabelecido entre si um protocolo de colaboração formal, homologado pelo Ministro da Economia, no qual se definam as bases de instalação, expansão e gestão do mercado de interesse relevante local;\n\nd) Possuir capacidade técnica, financeira e de gestão adequada à dimensão e complexidade do projecto ou assumir compromisso de que a empresa se dotará de tal capacidade até à completa execução do projecto de investimento;\n\ne) Possuir a situação regularizada face à administração fiscal, à segurança social e às entidades pagadoras do incentivo;\n\nf) Dispor de contabilidade organizada, de acordo com o Plano Oficial de Contabilidade.\n\n2 - No caso de a empresa não se encontrar constituída na data da apresentação da candidatura, poderá a candidatura em questão ser apresentada pela câmara municipal respectiva ou pela Sociedade Instaladora dos Mercados Abastecedores (SIMAB), as quais poderão proceder ao arranque do projecto, sendo os inerentes direitos e deveres assumidos por aquela empresa logo que se encontre legalmente constituída."
+  },
+  "d07d4ea8a440fa87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições de elegibilidade dos projectos relativos a mercados abastecedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de elegibilidade dos projectos relativos a mercados abastecedores\n\n1 - Os projectos de investimento previstos na alínea a) do artigo 4.º relativos a mercados abastecedores devem:\n\na) Contribuir para um melhor conhecimento da inserção dos mercados abastecedores nos circuitos de distribuição e da sua articulação com a produção;\n\nb) Contribuir para a organização, sistematização e actualização da informação sobre as actividades e a dinâmica dos operadores inseridos nos mercados abastecedores e sobre a evolução dos hábitos e comportamentos dos consumidores;\n\nc) Promover a actualização do conhecimento em matéria de inovação tecnológica e da logística relacionada com os operadores e as actividades que se desenvolvem nos mercados abastecedores.\n\n2 - Os projectos de investimento previstos na alínea b) do artigo 4.º devem:\n\na) Apresentar comprovativo de viabilização do empreendimento por parte da câmara municipal respectiva;\n\nb) Ter um período máximo de execução de 24 meses a contar da data de celebração do contrato, salvo situações excepcionais devidamente justificadas;\n\nc) Assegurar a instalação, no seu espaço, de um conjunto de actividades de comércio alimentar e não alimentar, de serviços e actividades de logística e de serviços de apoio complementares;\n\nd) Assegurar aos diversos operadores o exercício das suas actividades nas condições de higiene e segurança requeridas para o sector onde se inserem e a possibilidade de adopção de novas tecnologias;\n\ne) Apresentar, em conformidade com o interesse público da infra-estrutura, condições de viabilidade económica e financeira de longo prazo;\n\nf) Assegurar uma disponibilidade de capitais próprios afectos ao projecto igual ou superior a 10% das despesas elegíveis."
+  },
+  "99b1378491134250": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Condições de elegibilidade dos projectos relativos a mercados de interesse relevante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de elegibilidade dos projectos relativos a mercados de interesse relevante\n\n1 - Os projectos de investimento previstos na alínea a) do artigo 4.º relativos a mercados de interesse relevante devem:\n\na) Contribuir para o conhecimento das condições de articulação dos mercados de interesse relevante com a produção e com os mercados abastecedores de interesse público;\n\nb) Promover a organização, sistematização e actualização da informação sobre as actividades e a dinâmica dos operadores inseridos nos mercados de interesse relevante e a evolução dos hábitos e comportamentos dos consumidores;\n\nc) Promover a actualização do conhecimento em matéria de inovação tecnológica e da logística relacionada com os operadores e as actividades que se desenvolvem nos mercados de interesse relevante.\n\n2 - Os projectos de investimento previstos na alínea c) do artigo 4.º devem:\n\na) Apresentar comprovativo de viabilização do empreendimento por parte da câmara municipal respectiva;\n\nb) Apresentar características demonstradoras da transformação competitiva do mercado existente e dos seus operadores;\n\nc) Ter um período máximo de execução de 24 meses a contar da data de celebração do contrato, salvo situações excepcionais devidamente justificadas;\n\nd) Assumir formas de gestão, organização e funcionamento que assegurem uma maior flexibilidade, racionalidade e adequação aos interesses dos consumidores;\n\ne) Assegurar a instalação, no seu espaço, de actividades comerciais diversificadas que propiciem dinamismo, renovação e atracção comercial;\n\nf) Assegurar aos diversos operadores comerciais instalados as condições de logística, higiene e segurança requeridos para a actividade que desenvolvem;\n\ng) Assegurar uma dinâmica comercial colectiva que garanta a indispensável prossecução dos objectivos prosseguidos;\n\nh) Possibilitar aos operadores nele instalados a adopção de novas tecnologias;\n\ni) Apresentar, em conformidade com o interesse público da infra-estrutura, condições de viabilidade económica e financeira demonstradas de forma adequada à sua dimensão;\n\nj) Assegurar uma disponibilidade de capitais próprios afectos ao projecto igual ou superior a 10% das despesas elegíveis."
+  },
+  "b506ee3611159d5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis\n\n1 - Relativamente aos projectos previstos na alínea a) do artigo 4.º, consideram-se elegíveis as despesas relacionadas com a elaboração dos estudos previstos.\n\n2 - No que se refere aos projectos previstos na alínea b) do artigo 4.º, consideram-se elegíveis as despesas de investimento corpóreo e incorpóreo com:\n\na) Elaboração de estudos estratégicos, estudos prévios e projectos de arquitectura e engenharia necessários à construção de novos mercados abastecedores e expansão ou diversificação dos já existentes;\n\nb) Aquisição de terrenos, até ao limite de 10% do total da despesa elegível, e respectivos trabalhos de preparação e infra-estruturação, construção e fiscalização das várias edificações e instalações;\n\nc) Aquisição, transporte, seguro e instalação de equipamentos e sistemas para utilização no mercado;\n\nd) Acções de marketing, publicidade e animação comercial do mercado.\n\n3 - No que se refere aos projectos previstos na alínea c) do artigo 4.º, consideram-se elegíveis as despesas de investimento corpóreo e incorpóreo com:\n\na) Elaboração de estudos estratégicos, estudos prévios e projectos de arquitectura e engenharia necessários à recuperação, modernização, requalificação ou relocalização dos mercados de interesse relevante;\n\nb) Trabalhos de recuperação, construção, modernização e infra-estruturação dos mercados de interesse relevante e fiscalização das respectivas obras;\n\nc) Aquisição, transporte, seguro e instalação de equipamentos e sistemas para utilização no mercado;\n\nd) Acções de marketing, publicidade e animação comercial do mercado;\n\ne) Aquisição e instalação de equipamento e serviços de logística que promovam a articulação com os mercados abastecedores.\n\n4 - Constituem ainda despesas elegíveis relativamente aos projectos a que se referem as alíneas b) e c) do artigo 4.º:\n\na) Custos com garantias bancárias exigidas ao promotor, definidas no contrato de concessão de incentivos;\n\nb) Custos com a intervenção de revisores oficiais de contas, nos termos da alínea a) do n.º 1 do artigo 18.º do presente Regulamento."
+  },
+  "9b0723e282d5d805": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas não elegíveis\n\nNão são elegíveis despesas com:\n\na) Aquisição de bens em estado de uso;\n\nb) Aquisição de terrenos, edifícios e outros equipamentos destinados à instalação provisória dos mercados;\n\nc) Juros sobre empréstimos;\n\nd) Aquisição de veículos automóveis."
+  },
+  "ee66b96478bb8a9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Critérios de selecção\n\n1 - No que se refere aos projectos abrangidos pela alínea a) do artigo 4.º deste Regulamento, constitui critério de selecção a adequação dos objectivos do estudo à dimensão da situação em análise e à razoabilidade dos custos inerentes.\n\n2 - Constituem critérios de selecção das candidaturas de projectos abrangidos na alínea b) do artigo 4.º deste Regulamento:\n\na) A relevância do impacte significativo do projecto em termos da melhoria da eficiência dos circuitos de comercialização ou do funcionamento do mercado;\n\nb) A existência de diversificação e complementaridade de produtos, actividades e serviços no interior do mercado e a existência de logística adequada;\n\nc) A relevância do projecto em termos de melhoria da higiene, qualidade e segurança dos produtos alimentares transaccionados;\n\nd) A relevância do projecto em termos da modernização do tecido empresarial directamente envolvido.\n\n3 - Constituem critérios de selecção das candidaturas de projectos abrangidos na alínea c) do artigo 4.º deste Regulamento:\n\na) A relevância do projecto em termos da promoção da articulação com o mercado abastecedor da zona de influência respectiva;\n\nb) A relevância do projecto em termos da renovação e modernização do tecido empresarial directamente envolvido;\n\nc) A relevância do projecto na melhoria da higiene, qualidade e segurança dos produtos alimentares transaccionados;\n\nd) A relevância do projecto em termos de promoção da atractibilidade e da dinâmica comercial do mercado e da revitalização comercial e urbanística da zona envolvente;\n\ne) O papel e importância do projecto na promoção do escoamento e na valorização da produção local."
+  },
+  "c8a415759d24651e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Apoios a conceder",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apoios a conceder\n\n1 - O incentivo financeiro a conceder assume a forma de incentivo não reembolsável, correspondente a 50% das despesas elegíveis, com excepção das tipificadas no n.º 1 e na alínea a) dos n.os 2 e 3 do artigo 8.º, cujo montante do incentivo corresponde a 75% das despesas elegíveis.\n\n2 - Para as mesmas despesas elegíveis, os apoios a conceder ao abrigo do presente Regulamento não são acumuláveis com quaisquer outros da mesma natureza."
+  },
+  "d27785c8724a652a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Organismo gestor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Organismo gestor\n\n1 - O organismo responsável pela gestão da presente Medida de Apoio é a direcção regional da economia (DRE) territorialmente competente, que, no âmbito das suas competências de gestão, deverá proceder:\n\na) À recepção e instrução técnica das candidaturas;\n\nb) À apreciação e emissão de parecer sobre as candidaturas;\n\nc) À submissão à unidade de gestão competente de proposta relativa a cada candidatura;\n\nd) À remessa ao promotor da minuta do contrato, depois de verificar a sua adequação ao projecto aprovado, e enviar a mesma ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI), para efeitos de assinatura;\n\ne) À análise dos pedidos de pagamento do apoio concedido e emissão das respectivas ordens de pagamento;\n\nf) Ao acompanhamento e verificação da execução dos projectos e elaboração dos respectivos relatórios.\n\n2 - No exercício das competências referidas no número anterior, a DRE deverá solicitar pareceres não vinculativos à SIMAB."
+  },
+  "0b8b6d25968972f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apresentação de candidaturas\n\n1 - As candidaturas são apresentadas na direcção regional da economia (DRE) territorialmente competente, através do respectivo dossier de candidatura, elaborado nos termos do anexo B deste Regulamento, que dele faz parte integrante.\n\n2 - No caso dos projectos abrangidos pelas alíneas b) e c) do artigo 4.º, os promotores deverão apresentar as respectivas candidaturas no prazo máximo de 180 dias a contar da data de publicação deste Regulamento.\n\n3 - Após a recepção da candidatura e durante o processo de análise, a DRE pode solicitar ao promotor esclarecimentos complementares, que devem ser apresentados no prazo de 15 dias úteis, findos os quais a ausência de resposta significa a desistência da candidatura."
+  },
+  "e75e07034c1e6e50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Processo de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Processo de decisão\n\n1 - No prazo de 45 dias a contar da recepção das candidaturas, a DRE deverá proceder à análise das candidaturas apresentadas.\n\n2 - No âmbito do procedimento anterior, a DRE deverá solicitar à SIMAB parecer não vinculativo sobre as condições de elegibilidade e o cumprimento dos critérios de aprovação.\n\n3 - No prazo de 15 dias a contar do termo do prazo referido no n.º 1, a DRE deve remeter proposta de decisão quanto ao pedido de concessão de incentivos à unidade de gestão regional.\n\n4 - Cabe à unidade de gestão regional emitir proposta de decisão sobre as candidaturas, devendo a referida proposta ser submetida pelo seu presidente ao Ministro da Economia para efeitos de homologação.\n\n5 - A decisão relativa ao pedido de concessão do apoio é notificada ao promotor pela DRE."
+  },
+  "c338ba6b0efbc98b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Formalização da concessão de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Formalização da concessão de incentivos\n\n1 - A concessão de incentivos é formalizada através de contrato a celebrar entre as entidades beneficiárias e o IAPMEI mediante a minuta tipo homologada pelo Ministro da Economia.\n\n2 - A não celebração do contrato, por razões imputáveis às entidades beneficiárias, no prazo de 60 dias úteis contados a partir da data de notificação da decisão de aprovação determina a caducidade da decisão de concessão de incentivo.\n\n3 - O prazo referido no número anterior pode ser prorrogado, caso se verifiquem motivos atendíveis, até 30 dias, pela DRE e, por prazo superior, pelo Ministro da Economia."
+  },
+  "26c43562d83eebe2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Obrigações das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Obrigações das entidades beneficiárias\n\nConstituem obrigações das entidades beneficiárias:\n\na) Executar o projecto de investimento nos termos e prazos fixados no contrato de concessão de incentivos;\n\nb) Manter a situação regularizada perante a administração fiscal, a segurança social e a entidade pagadora do incentivo;\n\nc) Comunicar à DRE qualquer alteração ou ocorrência que ponha em causa os pressupostos que determinaram a concessão do incentivo;\n\nd) Cumprir as disposições regulamentares respeitantes à instalação e exploração do empreendimento comparticipado;\n\ne) Não alienar ou onerar, sem consentimento prévio da DRE, o empreendimento comparticipado e os bens de equipamento adquiridos para realização do projecto no prazo mínimo de cinco anos;\n\nf) Fornecer nos prazos estabelecidos, em qualquer fase do procedimento, todos os elementos que forem solicitados pela DRE, ou por entidades por esta mandatadas, para efeitos de fiscalização e acompanhamento do projecto;\n\ng) Publicitar os apoios recebidos nos termos regulamentados."
+  },
+  "14eb829ad7987c1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Pagamento de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pagamento de incentivos\n\n1 - O pagamento do incentivo às entidades beneficiárias é efectuado de acordo com as cláusulas contratuais, mediante a emissão de ordens de pagamento pela DRE.\n\n2 - Os pagamentos de incentivos são assegurados pelo IAPMEI, que articulará a respectiva transferência de verbas com a comissão de coordenação regional (CCR) competente."
+  },
+  "9077d4a2c11c03d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Acompanhamento, controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Acompanhamento, controlo e fiscalização\n\n1 - Sem prejuízo de outros mecanismos que venham a ser adoptados, o acompanhamento e controlo da execução do projecto são efectuados, em qualquer altura, com base nos seguintes documentos:\n\na) Sem prejuízo do disposto nos n.os 2 e 3 do presente artigo, a verificação financeira do projecto tem por base a declaração de despesa de investimento, subscrita por um revisor oficial de contas, na qual este confirma a realização e o pagamento das despesas de investimento, a existência do fluxo financeiro associado, o correcto lançamento e contabilização das mesmas na contabilidade do promotor, bem como a inexistência de qualquer nota de crédito relativa àquelas despesas ou a anteriores;\n\nb) A verificação física do projecto tem por base um relatório de execução do projecto, a elaborar pela DRE, o qual confirma o estado de realização material do projecto.\n\n2 - A declaração de despesa de investimento a que se refere a alínea a) do n.º 1 do presente artigo pode ser substituída pelo envio à DRE dos documentos justificativos do pagamento das despesas relativas ao investimento, devendo o promotor declarar, nesse momento, a existência dos fluxos financeiros associados ao pagamento daqueles documentos, bem como a inexistência de qualquer nota de crédito relativa às despesas apresentadas ou a anteriores.\n\n3 - As entidades beneficiárias dos incentivos previstos nesta Medida de Apoio ficam sujeitas a fiscalização com vista à verificação da respectiva utilização."
+  },
+  "146f72067ca83db2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Articulação com os programas operacionais regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Articulação com os programas operacionais regionais\n\nSem prejuízo do previsto no presente Regulamento, a articulação com os programas operacionais regionais será estabelecida mediante protocolo a celebrar entre o gestor do programa operacional da economia e os gestores dos programas operacionais regionais."
+  },
+  "b2dfe2de0f8def79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Disposições finais e transitórias\n\nOs projectos cujas candidaturas sejam recepcionadas até 60 dias úteis após a publicação do presente Regulamento poderão ser comparticipados nas despesas efectuadas após 19 de Novembro de 1999."
+  },
+  "0aaadaccd2418934": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO A — Mercados a que se refere o artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A — Mercados a que se refere o artigo 2.º\n\nOs mercados a que se refere o artigo 2.º deste Regulamento são:\n\na) No que respeita aos mercados abastecedores de interesse público, aqueles a localizar em Braga, Chaves, Fundão e Faro e o Mercado Abastecedor de Évora;\n\nb) No que respeita aos mercados de interesse relevante, os localizados nos perímetros urbanos de Braga, Viana do Castelo, Bragança, Aveiro, Coimbra, Castelo Branco, Portalegre, Évora, Beja, Faro, Loulé e Portimão."
+  },
+  "410d8bd365647872": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO B — Dossier de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B — Dossier de candidatura\n\nNos termos do artigo 13.º deste Regulamento, a candidatura será apresentada em duplicado, devendo conter os seguintes elementos:\n\na) Memória descritiva da evolução histórica da empresa;\n\nb) Elementos comprovativos do cumprimento das condições de elegibilidade previstas nos artigos 5.º, 6.º ou 7.º do Regulamento;\n\nc) Caracterização e calendarização do estudo, incluindo metodologia a adoptar no respectivo desenvolvimento e demonstrando adequação dos objectivos e custos previstos à dimensão e situação em análise, no caso dos projectos abrangidos pela alínea a) do artigo 4.º do Regulamento da Medida;\n\nd) Estudos da caracterização comercial de actividades de comércio alimentar e não alimentar, de serviços e actividades de logística e de serviços de apoio complementares, no caso dos projectos abrangidos pelas alíneas b) e c) do artigo 4.º do Regulamento da Medida;\n\ne) Projecto e lay out do mercado, evidenciando coerência com os estudos efectuados, no caso dos projectos abrangidos pelas alíneas b) e c) do artigo 4.º do Regulamento da Medida;\n\nf) Estudo económico-financeiro que demonstre a viabilidade do projecto, detalhando o plano de investimento e respectivo financiamento e estratégia comercial a adoptar, no caso dos projectos abrangidos pelas alíneas b) e c) do artigo 4.º do Regulamento da Medida;\n\ng) Declaração que comprove não ser a empresa devedora ao Estado ou à segurança social de quaisquer importâncias ou de ter assegurado o seu pagamento;\n\nh) Elementos que permitam avaliar a capacidade do promotor para a execução do projecto."
+  },
+  "f092b493b632da7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entidades beneficiárias",
+   "in_force_from": "2001-12-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1389-A/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1389-a-2001-374185), publicado em 2001-12-07."
+   ],
+   "markdown": "###### Artigo 3.º — Entidades beneficiárias\n\n1 - As entidades beneficiárias da presente medida de apoio são as empresas públicas, de capitais públicos ou de capital maioritariamente público que tenham como objecto a construção, instalação e gestão, directa ou indirecta, dos mercados abrangidos pelo presente Regulamento e desenvolvam projectos de investimento previstos no artigo seguinte.\n\n2 - Sem prejuízo do disposto no número anterior, são também consideradas, com as devidas adaptações, entidades beneficiárias da presente medida de apoio, mediante despacho dos ministros competentes, os municípios previstos no anexo A do presente Regulamento que tenham projectos de investimento abrangidos pela alínea c) do artigo 4.º integrados em planos de urbanismo comercial.\n\n> Alterado pelo/a [Portaria n.º 1389-A/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1389-a-2001-374185), publicado em 2001-12-07."
+  },
+  "58f4caea55aa1955": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Apresentação de candidaturas",
+   "in_force_from": "2001-12-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1389-A/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1389-a-2001-374185), publicado em 2001-12-07."
+   ],
+   "markdown": "###### Artigo 13.º — Apresentação de candidaturas\n\n1 - As candidaturas são apresentadas na direcção regional da economia (DRE) territorialmente competente, através do respectivo dossier de candidatura, elaborado nos termos do anexo B deste Regulamento, que dele faz parte integrante.\n\n2 - No caso dos projectos abrangidos pelas alíneas b) e c) do artigo 4.º, os promotores deverão apresentar as respectivas candidaturas no prazo máximo de 320 dias a contar da data de publicação deste Regulamento.\n\n3 - Após a recepção da candidatura e durante o processo de análise, a DRE pode solicitar ao promotor esclarecimentos complementares, que devem ser apresentados no prazo de 15 dias úteis, findos os quais a ausência de resposta significa a desistência da candidatura.\n\n> Alterado pelo/a [Portaria n.º 1389-A/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1389-a-2001-374185), publicado em 2001-12-07."
+  }
+ }
+}

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-10-28'
+version_history:
+  file: portaria-591-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-10-28'
+    amending: pt:dre:431602:por
+    amending_title: Portaria n.º 1383/2002
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/591/1994/07/13/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:31:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1383/2002. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-591-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,7 +147,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Cachopo, município de Tavira, com uma área de 1499 ha, e que constituem a zona de caça social de Alcaria Alta (processo n.º 1629 do Instituto Florestal).
+1.º Ficam sujeitos ao regime ordenado os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Cachopo, município de Tavira, com uma área de 850 ha, e que constituem a zona de caça social de Alcaria Alta (processo n.º 1629-DGF).
+
+> Alterado pelo/a [Portaria n.º 1383/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1383-2002-431602), publicado em 2002-10-23.
 
 2.º Esta zona de caça social é concessionada por um período de nove anos e a entidade gestora é o Instituto Florestal.
 

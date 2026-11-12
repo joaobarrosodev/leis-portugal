@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:350127:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de Vale Frechoso, município de Vila Flor, com a área de 1719 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 441/2007: nova redação do n.º 2.º (área passa a 1719 ha) — substituída a unidade 7, mantendo o '2.º'. A planta anexa nova (só em imagem) não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

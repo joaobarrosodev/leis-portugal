@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:279589:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "2 - O disposto no número anterior aplica-se apenas quando o valor do empréstimo for superior a 750 contos, ou quando da sua concessão resulte para o mutuário débito global que ultrapasse aquele limite.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DN 292/80: nova redação do n.º 2 — substituída a unidade 6"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

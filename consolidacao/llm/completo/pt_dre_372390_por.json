@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:372390:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::3.º",
+      "epigrafe": "Entidades beneficiárias",
+      "texto": "1 - As entidades beneficiárias da presente medida de apoio são as empresas públicas, de capitais públicos ou de capital maioritariamente público que tenham como objecto a construção, instalação e gestão, directa ou indirecta, dos mercados abrangidos pelo presente Regulamento e desenvolvam projectos de investimento previstos no artigo seguinte.\n\n2 - Sem prejuízo do disposto no número anterior, são também consideradas, com as devidas adaptações, entidades beneficiárias da presente medida de apoio, mediante despacho dos ministros competentes, os municípios previstos no anexo A do presente Regulamento que tenham projectos de investimento abrangidos pela alínea c) do artigo 4.º integrados em planos de urbanismo comercial.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::13.º",
+      "epigrafe": "Apresentação de candidaturas",
+      "texto": "1 - As candidaturas são apresentadas na direcção regional da economia (DRE) territorialmente competente, através do respectivo dossier de candidatura, elaborado nos termos do anexo B deste Regulamento, que dele faz parte integrante.\n\n2 - No caso dos projectos abrangidos pelas alíneas b) e c) do artigo 4.º, os promotores deverão apresentar as respectivas candidaturas no prazo máximo de 320 dias a contar da data de publicação deste Regulamento.\n\n3 - Após a recepção da candidatura e durante o processo de análise, a DRE pode solicitar ao promotor esclarecimentos complementares, que devem ser apresentados no prazo de 15 dias úteis, findos os quais a ausência de resposta significa a desistência da candidatura.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1389-A/2001, 1.º e anexo: nova redação do artigo 3.º do Regulamento (corpo passa a n.º 1 e adita-se n.º 2) — aplicado.",
+    "Portaria 1389-A/2001, 1.º e anexo: artigo 13.º, n.º 2 (180 -> 320 dias); n.os 1 e 3 mantidos ('...') — aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

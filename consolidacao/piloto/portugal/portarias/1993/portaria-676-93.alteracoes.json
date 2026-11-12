@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 31-32",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - O período venatório para as espécies seguidamente mencionadas é o definido para o regime cinegético geral: codorniz, galinhola, narcejas, pombos, rola-comum, tordos, tarambola-dourada, galinha-d'água, galeirão e patos.\n\n3 - O termo do período venatório da lebre, coelho e perdiz coincide com o do regime geral, sem prejuízo do disposto no n.º 1 no que respeita aos planos de ordenamento e exploração.",
+    "depois": "2 - O período venatório para as espécies cinegéticas seguidamente mencionadas é o definido para o regime cinegético geral: raposa, saca-rabos, faisão, codorniz, galinhola, narcejas, pombos, rola comum, tordos, tarambola-dourada, galinha-de-água, galeirão e patos.\n\n3 - O período venatório da lebre, coelho e perdiz coindice com o do regime cinegético geral, sem prejuízo do disposto no n.º 1 quanto ao fixado nos planos de ordenamento e exploração no que respeita ao termo do período venatório, à caça a corricão e à caça à espera ou por aproximação do javali.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300802:por",
+    "alterador": "pt:dre:227020:por"
+  }
+]

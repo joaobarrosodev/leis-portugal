@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Modelo 1 - para uso do pessoal dos gabinetes dos membros do Governo e dirigentes do Ministério com categoria equiparada a director-geral (anexo I);\n\nModelo 2 - para o restante pessoal dos organismos e serviços sob tutela do Ministério do Mar (anexo II).",
+    "depois": "Modelo n.º 1 - para uso do pessoal dos gabinetes dos membros do Governo e dos dirigentes dos organismos e serviços do Ministério do Mar com categoria igual ou superior à de chefe de divisão ou legalmente equiparados (anexo I);\n\nModelo n.º 2 - para o restante pessoal dos referidos organismos e serviços (anexo II).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:283952:por",
+    "alterador": "pt:dre:367810:por"
+  }
+]

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-10-25'
+version_history:
+  file: portaria-568-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-07-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-10-25'
+    amending: pt:dre:667502:por
+    amending_title: Portaria n.º 925/99
+    changes:
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/568/1999/07/28/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:16:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 925/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-568-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,7 +153,9 @@ g) Um psicólogo;
 
 h) Um médico, em representação do Centro de Saúde;
 
-i) Um representante da Guarda Nacional Republicana;
+i) Um representante da Guarda Nacional Republicana e um representante da Polícia de Segurança Pública.
+
+> Alterado pelo/a [Portaria n.º 925/99](https://diariodarepublica.pt/dr/detalhe/portaria/925-1999-667502), publicado em 1999-10-20.
 
 j) Um representante das associações de pais.
 

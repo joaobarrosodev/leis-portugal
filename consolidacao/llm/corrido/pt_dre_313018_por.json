@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:313018:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A nova redação da alínea a) das observações ao mapa anexo (Portaria 444/84) não se pode aplicar porque o quadro anexo só existe em imagem (unidade 7).",
+  "instrucoes": [
+    "Portaria 444/84: nova redação da alínea a) das observações ao mapa anexo; não aplicada, anexo só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

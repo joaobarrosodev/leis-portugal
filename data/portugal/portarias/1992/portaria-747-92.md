@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-01-31'
+version_history:
+  file: portaria-747-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-01-31'
+    amending: pt:dre:222788:por
+    amending_title: Portaria n.º 40/98
+    changes:
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 28-28
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/747/1992/07/25/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:34:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 40/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-747-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,7 +146,9 @@ Ao abrigo das mencionadas disposições legais:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Todos os lagares de azeite que se encontrem tecnicamente aptos e desejem exercer a sua actividade têm obrigatoriamente de proceder à sua inscrição no Instituto Nacional de Intervenção e Garantia Agrícola (INGA) até 31 de Agosto do ano em que tem início a campanha de comercialização na qual desejem iniciar a sua actividade.
+1.º Todos os lagares de azeite que se encontrem tecnicamente aptos e desejem exercer a sua actividade têm obrigatoriamente de proceder à sua inscrição no Instituto Nacional de Intervenção e Garantia Agrícola (INGA) até 31 de Agosto do ano em que tem início a campanha de comercialização na qual pretendem começar a sua actividade, com excepção dos lagares que tenham beneficiado de ajudas públicas na realização de investimentos e disponham da respectiva autorização de laboração, aos quais não se aplica aquela limitação temporal.
+
+> Alterado pelo/a [Portaria n.º 40/98](https://diariodarepublica.pt/dr/detalhe/portaria/40-1998-222788), publicado em 1998-01-26.
 
 2.º O INGA manterá um ficheiro actualizado de todos os lagares de azeite inscritos e atribuirá um número individualizado a cada um deles.
 
@@ -168,7 +186,9 @@ c) Nome do dono da exploração, quando se trate de pessoa diversa do proprietá
 
 d) Indicação de que pretende obter o reconhecimento do lagar para os efeitos do disposto no Regulamento (CEE) n.º [2261/84](http://data.europa.eu/eli/reg/1984/2261/oj?locale=pt).
 
-11.º Os requerimentos para obtenção do reconhecimento terão de dar entrada no INGA até 31 de Agosto de cada ano para que o reconhecimento possa produzir efeitos a partir da campanha a iniciar em 1 de Novembro desse mesmo ano.
+11.º Os requerimentos para obtenção do reconhecimento terão de dar entrada no INGA até 31 de Agosto de cada ano para que o reconhecimento possa produzir efeitos a partir da campanha a iniciar em 1 de Novembro desse mesmo ano, com excepção dos lagares que tenham beneficiado de ajudas públicas na realização de investimentos, devendo o reconhecimento destes, quando ocorrer, ser de imediato comunicado pelo INGA à ACACSA.
+
+> Alterado pelo/a [Portaria n.º 40/98](https://diariodarepublica.pt/dr/detalhe/portaria/40-1998-222788), publicado em 1998-01-26.
 
 12.º - 1 - Após a recepção do pedido de reconhecimento, o INGA procederá à instrução do respectivo processo que fundamentará a decisão final, nomeadamente através da verificação da capacidade de laboração do lagar e do cumprimento das prescrições regulamentares que assegurem a qualidade do azeite obtido.
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-01-10'
+version_history:
+  file: portaria-9-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-01-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-01-10'
+    amending: pt:dre:367810:por
+    amending_title: Portaria n.º 9/95
+    changes:
+    - Altera Artigo unidades 5-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/9/1993/01/05/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:12:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 9/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-9-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,9 +130,11 @@ Manda o Governo, pelo Ministro do Mar, ao abrigo do disposto na alínea d) do ar
 
 1.º São aprovados os seguintes modelos de cartão de identificação anexos à presente portaria:
 
-Modelo 1 - para uso do pessoal dos gabinetes dos membros do Governo e dirigentes do Ministério com categoria equiparada a director-geral (anexo I);
+Modelo n.º 1 - para uso do pessoal dos gabinetes dos membros do Governo e dos dirigentes dos organismos e serviços do Ministério do Mar com categoria igual ou superior à de chefe de divisão ou legalmente equiparados (anexo I);
 
-Modelo 2 - para o restante pessoal dos organismos e serviços sob tutela do Ministério do Mar (anexo II).
+Modelo n.º 2 - para o restante pessoal dos referidos organismos e serviços (anexo II).
+
+> Alterado pelo/a [Portaria n.º 9/95](https://diariodarepublica.pt/dr/detalhe/portaria/9-1995-367810), publicado em 1995-01-05.
 
 2.º Os cartões serão de cor branca, com uma faixa diagonal com as cores verde e vermelha no canto superior esquerdo, contendo o modelo 1 a menção «livre trânsito», em letras maiúsculas de cor vermelha.
 

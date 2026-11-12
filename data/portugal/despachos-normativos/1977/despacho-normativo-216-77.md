@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-08-14'
+version_history:
+  file: despacho-normativo-216-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-11-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-08-14'
+    amending: pt:dre:299849:por
+    amending_title: Despacho Normativo n.º 183/78
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:38:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 183/78. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1977/despacho-normativo-216-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,7 +137,9 @@ Ao abrigo do disposto na alínea l) do artigo 3.º e no artigo 32.º do [Decreto
 
 2 - Os industriais e comerciantes de azeite não serão contemplados pela disposição constante do parágrafo anterior.
 
-3 - O Instituto do Azeite e Produtos Oleaginosos adquirirá o óleo de bagaço de azeitona cru que os extractores lhe proponham para venda até 30 de Junho de 1978 aos preços e nas condições estabelecidas na tabela II anexa.
+3 - O Instituto do Azeite e Produtos Oleaginosos adquirirá o óleo de bagaço de azeitona cru que os extractores lhe proponham para venda até 15 de Agosto de 1978 aos preços e nas condições estabelecidas na tabela II anexa.
+
+> Alterado pelo/a [Despacho Normativo n.º 183/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/183-1978-299849), publicado em 1978-08-14.
 
 4 - O preço estabelecido no número anterior resulta de bagaços adquiridos à produção ao preço mínimo de 1$80 por quilograma, nas condições da tabela III anexa.
 

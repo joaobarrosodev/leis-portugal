@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-12-08'
+version_history:
+  file: portaria-141-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-03-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-12-08'
+    amending: pt:dre:374185:por
+    amending_title: Portaria n.º 1389-A/2001
+    changes:
+    - Altera Artigo ANEXO::3.º
+    - Altera Artigo ANEXO::13.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/141/2001/03/02/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:29:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1389-A/2001. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-141-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,7 +174,11 @@ b) Os projectos relativos a mercados situados nas zonas de influência dos merca
 
 ###### Artigo 3.º — Entidades beneficiárias
 
-As entidades beneficiárias da presente medida de apoio são as empresas públicas, de capitais públicos ou de capital maioritariamente público que tenham como objecto a construção, instalação e gestão, directa ou indirecta, dos mercados abrangidos pelo presente Regulamento e desenvolvam projectos de investimento previstos no artigo seguinte.
+1 - As entidades beneficiárias da presente medida de apoio são as empresas públicas, de capitais públicos ou de capital maioritariamente público que tenham como objecto a construção, instalação e gestão, directa ou indirecta, dos mercados abrangidos pelo presente Regulamento e desenvolvam projectos de investimento previstos no artigo seguinte.
+
+2 - Sem prejuízo do disposto no número anterior, são também consideradas, com as devidas adaptações, entidades beneficiárias da presente medida de apoio, mediante despacho dos ministros competentes, os municípios previstos no anexo A do presente Regulamento que tenham projectos de investimento abrangidos pela alínea c) do artigo 4.º integrados em planos de urbanismo comercial.
+
+> Alterado pelo/a [Portaria n.º 1389-A/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1389-a-2001-374185), publicado em 2001-12-07.
 
 ###### Artigo 4.º — Tipologia de projectos
 
@@ -342,9 +362,11 @@ f) Ao acompanhamento e verificação da execução dos projectos e elaboração 
 
 1 - As candidaturas são apresentadas na direcção regional da economia (DRE) territorialmente competente, através do respectivo dossier de candidatura, elaborado nos termos do anexo B deste Regulamento, que dele faz parte integrante.
 
-2 - No caso dos projectos abrangidos pelas alíneas b) e c) do artigo 4.º, os promotores deverão apresentar as respectivas candidaturas no prazo máximo de 180 dias a contar da data de publicação deste Regulamento.
+2 - No caso dos projectos abrangidos pelas alíneas b) e c) do artigo 4.º, os promotores deverão apresentar as respectivas candidaturas no prazo máximo de 320 dias a contar da data de publicação deste Regulamento.
 
 3 - Após a recepção da candidatura e durante o processo de análise, a DRE pode solicitar ao promotor esclarecimentos complementares, que devem ser apresentados no prazo de 15 dias úteis, findos os quais a ausência de resposta significa a desistência da candidatura.
+
+> Alterado pelo/a [Portaria n.º 1389-A/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1389-a-2001-374185), publicado em 2001-12-07.
 
 ###### Artigo 14.º — Processo de decisão
 

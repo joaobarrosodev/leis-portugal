@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:336288:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 27/76 amplia para quatro meses o prazo de armazenagem e declara alterado o prazo fixado na Portaria n.º 302/75, mas não dá nova redação a nenhuma parte do texto: é uma alteração material, não textual.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 27/76): amplia o prazo para quatro meses e dá por alterado o prazo da Portaria n.º 302/75, sem nova redação; não aplicado (não textual)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

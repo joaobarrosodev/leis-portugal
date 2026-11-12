@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:328665:por",
+  "substituicoes": [
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "3 - Na dependência directa da Secretaria de Estado do Tesouro funcionarão os seguintes serviços:",
+      "alterador": 1
+    },
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "d) Inspecção de Seguros;\n\ne) Caixa Geral de Aposentações e Montepio dos Servidores do Estado.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt.1 (Despacho Normativo 311/78): nova redação do n.º 3 — corpo passa a 'da Secretaria de Estado do Tesouro' (un. 32) e nova alínea d) Inspecção de Seguros, com a antiga d) a passar a e) (un. 36); alíneas a) a c) iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-11-30'
+version_history:
+  file: despacho-normativo-273-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-10-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-11-30'
+    amending: pt:dre:326699:por
+    amending_title: Despacho Normativo n.º 311/78
+    changes:
+    - Altera Artigo unidades 32-32
+    - Altera Artigo unidades 36-36
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:45:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 311/78. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1978/despacho-normativo-273-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,7 +178,9 @@ m) Gabinete de Gestão de Viaturas do Estado;
 
 n) Assistência na Doença aos Servidores do Estado (ADSE).
 
-3 - Na dependência directa do Secretário de Estado do Tesouro funcionarão os seguintes serviços:
+3 - Na dependência directa da Secretaria de Estado do Tesouro funcionarão os seguintes serviços:
+
+> Alterado pelo/a [Despacho Normativo n.º 311/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/311-1978-326699), publicado em 1978-11-30.
 
 a) Gabinete do Secretário de Estado;
 
@@ -170,7 +188,11 @@ b) Direcção-Geral do Tesouro;
 
 c) Junta do Crédito Público;
 
-d) Caixa Geral de Aposentações e Montepio dos Servidores do Estado.
+d) Inspecção de Seguros;
+
+e) Caixa Geral de Aposentações e Montepio dos Servidores do Estado.
+
+> Alterado pelo/a [Despacho Normativo n.º 311/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/311-1978-326699), publicado em 1978-11-30.
 
 4 - O Secretário de Estado do Tesouro despachará também os assuntos correntes relativos:
 

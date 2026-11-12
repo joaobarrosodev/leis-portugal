@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - O Instituto do Azeite e Produtos Oleaginosos adquirirá o óleo de bagaço de azeitona cru que os extractores lhe proponham para venda até 30 de Junho de 1978 aos preços e nas condições estabelecidas na tabela II anexa.",
+    "depois": "3 - O Instituto do Azeite e Produtos Oleaginosos adquirirá o óleo de bagaço de azeitona cru que os extractores lhe proponham para venda até 15 de Agosto de 1978 aos preços e nas condições estabelecidas na tabela II anexa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:278007:por",
+    "alterador": "pt:dre:299849:por"
+  }
+]

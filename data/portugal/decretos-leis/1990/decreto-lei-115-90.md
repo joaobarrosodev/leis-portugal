@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-07-12'
+version_history:
+  file: decreto-lei-115-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-04-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-07-12'
+    amending: pt:dre:575677:por
+    amending_title: Decreto-Lei n.º 221/90
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:58:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 221/90. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-115-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,11 +170,13 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 4.º — Prazo para apresentação das propostas e decisão
 
-1 - Os pedidos de empréstimo são apresentados às instituições de crédito até 60 dias após a entrada em vigor deste diploma.
+1 - Os pedidos de empréstimo são apresentados às instituições de crédito até 120 dias após a entrada em vigor deste diploma.
 
 2 - A decisão do crédito é tomada nos 60 dias após a apresentação de cada pedido e comunicada ao IFADAP no prazo de 30 dias.
 
 3 - A contratação dos empréstimos entre instituições de crédito e os mutuários deve efectuar-se até 180 dias após a entrada em vigor do presente diploma, devendo os contratos ser enviados para o IFADAP nos 30 dias seguintes ao da data da sua celebração.
+
+> Alterado pelo/a [Decreto-Lei n.º 221/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1990-575677), publicado em 1990-07-07.
 
 ###### Artigo 5.º — Montante dos empréstimos
 

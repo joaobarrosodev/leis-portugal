@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:332179:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Prazo para apresentação das propostas e decisão",
+      "texto": "1 - Os pedidos de empréstimo são apresentados às instituições de crédito até 120 dias após a entrada em vigor deste diploma.\n\n2 - A decisão do crédito é tomada nos 60 dias após a apresentação de cada pedido e comunicada ao IFADAP no prazo de 30 dias.\n\n3 - A contratação dos empréstimos entre instituições de crédito e os mutuários deve efectuar-se até 180 dias após a entrada em vigor do presente diploma, devendo os contratos ser enviados para o IFADAP nos 30 dias seguintes ao da data da sua celebração.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 221/90, artigo único: nova redação do n.º 1 do artigo 4.º (60 -> 120 dias); n.os 2 e 3 mantidos ('...')."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

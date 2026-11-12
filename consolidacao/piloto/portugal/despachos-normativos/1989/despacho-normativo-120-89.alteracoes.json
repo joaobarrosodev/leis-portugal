@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) A 70%, com índice igual ou superior a 140;\n\nb) A 60%, com índice igual ou superior a 120 e inferior a 140;\n\nc) A 50%, com índice igual ou superior a 100 e inferior a 120;\n\nd) A 40%, com índice igual ou superior a 85 e inferior a 100;\n\ne) A 30%, com índice igual ou superior a 65 e inferior a 85;\n\nf) A 20%, com índice igual ou superior a 50 e inferior a 65.",
+    "depois": "a) A 95%, com índice igual ou superior a 140;\n\nb) A 90%, com índice igual ou superior a 120 e inferior a 140;\n\nc) A 80%, com índice igual ou superior a 100 e inferior a 120;\n\nd) A 60%, com índice igual ou superior a 85 e inferior a 100;\n\ne) A 40%, com índice igual ou superior a 65 e inferior a 85;\n\nf) A 30%, com índice igual ou superior a 50 e inferior a 65.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:262107:por",
+    "alterador": "pt:dre:575121:por"
+  }
+]

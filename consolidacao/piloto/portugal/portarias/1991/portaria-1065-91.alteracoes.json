@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É proibido o exercício da caça na área do concelho de Ferreira do Zêzere e da freguesia de São Pedro de Tomar, concelho de Tomar.",
+    "depois": "1.º É proibido o exercício da caça na área da freguesia de São Pedro de Tomar, concelho de Tomar, e nas áreas atingidas por incêndios no corrente ano do concelho de Ferreira do Zêzere.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:344422:por",
+    "alterador": "pt:dre:144248:por"
+  }
+]

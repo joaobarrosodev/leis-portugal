@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:255669:por",
+  "substituicoes": [
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "f) Proceder a estudos relativos a mobiliário escolar e outro equipamento necessário ao funcionamento das escolas, tendo em vista a sua adequação ergonómica e funcional, as suas condições de segurança e a evolução tecnológica, e promover concursos de qualificação de equipamento e outras acções conducentes à racionalização global dos processos levados a efeito pelas direcções regionais de educação e por outros organismos para apetrechamento de escolas;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 55/94): nova redação da alínea f) do n.º 3.º (unidade 27); as restantes alíneas vêm com '...' e ficam como estão - substituída só a unidade 27."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

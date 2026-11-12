@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-02-12'
+version_history:
+  file: portaria-551-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-08-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-02-12'
+    amending: pt:dre:521632:por
+    amending_title: Portaria n.º 85/94
+    changes:
+    - Altera Artigo unidades 9-11
+    - Adita Artigo depois da unidade 16
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:33:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 85/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-551-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,11 +135,13 @@ Doze tradutores-intérpretes;
 
 Cinco secretários de 1.ª classe;
 
-Oito secretários de 2.ª classe;
+Oito secretários de 2.ª classe (ver nota 1);
 
-Dois secretários de 3.ª classe;
+Cinco secretários de 3.ª classe (ver nota 2);
 
-Um telefonista;
+Uma telefonista;
+
+> Alterado pelo/a [Portaria n.º 85/94](https://diariodarepublica.pt/dr/detalhe/portaria/85-1994-521632), publicado em 1994-02-07.
 
 Três motoristas;
 
@@ -134,6 +152,12 @@ Quatro contínuos;
 Um guarda;
 
 Quatro auxiliares de serviço.
+
+(nota 1) Três lugares a extinguir quando vagarem.
+
+(nota 2) Três lugares a preencher à medida que vagarem os três lugares de secretário de 2.ª classe.
+
+> Aditado pelo/a [Portaria n.º 85/94](https://diariodarepublica.pt/dr/detalhe/portaria/85-1994-521632), publicado em 1994-02-07.
 
 Ministérios das Finanças e dos Negócios Estrangeiros.
 

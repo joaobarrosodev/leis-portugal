@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-09-23'
+version_history:
+  file: portaria-299-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-05-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-09-23'
+    amending: pt:dre:278542:por
+    amending_title: Portaria n.º 617/77; Portaria n.º 617/77
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:19:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 617/77; Portaria n.º
+    617/77. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-299-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,6 +129,8 @@ de 25 de Maio
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Obras Públicas, nos termos do n.º 3 do artigo 27.º do [Decreto-Lei n.º 12/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1974-408298), de 17 de Janeiro, alterado pelo [Decreto-Lei n.º 583/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1974-471511), de 5 de Novembro, a pedido da empresa pública Empresa de Electricidade da Madeira (EEM), autorizar a referida Empresa a contrair no Banque Nationale de Paris um empréstimo de 12219345 francos para ser aplicado no financiamento de equipamentos e serviços de origem francesa para a nova central térmica da Madeira, acrescentado dos prémios de seguro de crédito devidos à companhia francesa de seguros para o comércio exterior (Coface), estimados em 153000 francos, ou seja um total estimado de 12372345 francos, à taxa anual de 7,25% e com uma comissão de serviço de 3%, com período prévio de utilização prevista até 31 de Agosto de 1978, amortizável, findo aquele período, em dez semestralidades iguais e consecutivas materializadas por letras à ordem a liquidar no seu vencimento, nos termos da convenção de crédito a estabelecer entre a Empresa de Electricidade da Madeira (EEM) e o Banque Nationale de Paris.
 
-A empresa pública Empresa de Electricidade da Madeira (EEM) fica ainda autorizada a contrair uma garantia bancária junto de uma instituição de crédito nacional até ao limite do montante da operação anteriormente assinalado.
+A empresa pública Empresa de Electricidade da Madeira (EEM) fica ainda autorizada a contrair uma garantia bancária junto de uma instituição de crédito nacional até ao limite de 13656915 francos.
+
+> Alterado pelo/a [Portaria n.º 617/77](https://diariodarepublica.pt/dr/detalhe/portaria/617-1977-278542), publicado em 1977-09-23.
 
 Ministérios das Finanças e das Obras Públicas, 17 de Maio de 1977. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro das Obras Públicas, João Orlindo de Almeida Pina.

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:314202:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 1459/2001 dá nova redação ao 'n.º 18.º da Portaria n.º 492/2001', mas este n.º 18.º é o da Portaria 356/2000 (que a 492/2001 apenas alterou); o original não tem n.º 18.º próprio, pelo que o alvo é ambíguo e não se alterou a unidade 9.",
+  "instrucoes": [
+    "Portaria 1459/2001: nova redação do n.º 18.º (na prática da Portaria 356/2000, na redação dada pelo original); não aplicada ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-09-01'
+version_history:
+  file: despacho-normativo-232-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-12-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-09-01'
+    amending: pt:dre:463982:por
+    amending_title: Despacho Normativo n.º 292/80
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:38:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 292/80. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1977/despacho-normativo-232-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -103,7 +118,9 @@ Assim, determina-se que:
 
 1 - Todos os pedidos de empréstimo formulados às caixas de crédito agrícola mútuo pelos seus associados são, pelas referidas cooperativas de crédito, submetidos à apreciação prévia dos serviços e organismos regionais do Ministério da Agricultura e Pescas ou dos governos das regiões autónomas, que prestarão parecer técnico-económico sobre as operações, enviando-os às respectivas caixas agrícolas.
 
-2 - O disposto no número anterior aplica-se apenas quando o valor do empréstimo for superior a 200 contos ou quando da sua concessão resulte para o mutuário débito global que ultrapasse aquele limite.
+2 - O disposto no número anterior aplica-se apenas quando o valor do empréstimo for superior a 750 contos, ou quando da sua concessão resulte para o mutuário débito global que ultrapasse aquele limite.
+
+> Alterado pelo/a [Despacho Normativo n.º 292/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/292-1980-463982), publicado em 1980-09-01.
 
 3 - As caixas de crédito agrícola mútuo comunicarão aos respectivos serviços ou organismos, emitentes dos pareceres, as operações que hajam sido autorizadas, a fim de que aqueles serviços ou organismos acompanhem, no possível, através dos seus técnicos, o crédito concedido e, bem assim, as operações que hajam sido recusadas, para que sejam igualmente do conhecimento dos mesmos serviços ou organismos que prestaram os pareceres.
 

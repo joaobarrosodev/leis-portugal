@@ -37,10 +37,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-07-10'
+version_history:
+  file: despacho-normativo-372-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-07-10'
+    amending: pt:dre:228252:por
+    amending_title: Despacho Normativo n.º 55/86
+    changes:
+    - Altera Artigo unidades 18-18
 identifiers:
   celex: null
   eli: null
@@ -66,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:56:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 55/86. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1979/despacho-normativo-372-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,7 +158,9 @@ c) Que se verifique ao serviço de entidade empregadora não submetida ao estatu
 
 10 - Os trabalhadores candidatos ao prémio de colocação farão prova dos requisitos da alínea a) do n.º 4 do presente despacho mediante declaração da entidade empregadora ou da caixa de previdência competente.
 
-11 - Deferido o requerimento pelo Ministro do Trabalho, o prémio será pago, por uma só vez, através do Gabinete de Gestão do Fundo de Desemprego (GGFD).
+11 - Deferido o requerimento pelo Ministro do Trabalho e Segurança Social, o prémio será pago, por uma só vez, pela instituição de segurança social processadora do correspondente subsídio de desemprego.
+
+> Alterado pelo/a [Despacho Normativo n.º 55/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/55-1986-228252), publicado em 1986-07-05.
 
 12 - A produção de falsas declarações ou a utilização de qualquer novo meio fraudulento com intenção de obter o prémio de colocação será punida nos termos gerais do direito.
 

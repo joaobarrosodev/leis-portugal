@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Prazo para apresentação das propostas e decisão\n\n1 - Os pedidos de empréstimo são apresentados às instituições de crédito até 60 dias após a entrada em vigor deste diploma.\n\n2 - A decisão do crédito é tomada nos 60 dias após a apresentação de cada pedido e comunicada ao IFADAP no prazo de 30 dias.\n\n3 - A contratação dos empréstimos entre instituições de crédito e os mutuários deve efectuar-se até 180 dias após a entrada em vigor do presente diploma, devendo os contratos ser enviados para o IFADAP nos 30 dias seguintes ao da data da sua celebração.",
+    "depois": "###### Artigo 4.º — Prazo para apresentação das propostas e decisão\n\n1 - Os pedidos de empréstimo são apresentados às instituições de crédito até 120 dias após a entrada em vigor deste diploma.\n\n2 - A decisão do crédito é tomada nos 60 dias após a apresentação de cada pedido e comunicada ao IFADAP no prazo de 30 dias.\n\n3 - A contratação dos empréstimos entre instituições de crédito e os mutuários deve efectuar-se até 180 dias após a entrada em vigor do presente diploma, devendo os contratos ser enviados para o IFADAP nos 30 dias seguintes ao da data da sua celebração.\n\n> Alterado pelo/a [Decreto-Lei n.º 221/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1990-575677), publicado em 1990-07-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:332179:por",
+    "alterador": "pt:dre:575677:por"
+  }
+]

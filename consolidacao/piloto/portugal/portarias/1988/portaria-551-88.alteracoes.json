@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 9-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Oito secretários de 2.ª classe;\n\nDois secretários de 3.ª classe;\n\nUm telefonista;",
+    "depois": "Oito secretários de 2.ª classe (ver nota 1);\n\nCinco secretários de 3.ª classe (ver nota 2);\n\nUma telefonista;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:376824:por",
+    "alterador": "pt:dre:521632:por"
+  },
+  {
+    "artigo": "depois da unidade 16",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "(nota 1) Três lugares a extinguir quando vagarem.\n\n(nota 2) Três lugares a preencher à medida que vagarem os três lugares de secretário de 2.ª classe.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:376824:por",
+    "alterador": "pt:dre:521632:por"
+  }
+]

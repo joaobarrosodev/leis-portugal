@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "ANEXO::3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Entidades beneficiárias\n\nAs entidades beneficiárias da presente medida de apoio são as empresas públicas, de capitais públicos ou de capital maioritariamente público que tenham como objecto a construção, instalação e gestão, directa ou indirecta, dos mercados abrangidos pelo presente Regulamento e desenvolvam projectos de investimento previstos no artigo seguinte.",
+    "depois": "###### Artigo 3.º — Entidades beneficiárias\n\n1 - As entidades beneficiárias da presente medida de apoio são as empresas públicas, de capitais públicos ou de capital maioritariamente público que tenham como objecto a construção, instalação e gestão, directa ou indirecta, dos mercados abrangidos pelo presente Regulamento e desenvolvam projectos de investimento previstos no artigo seguinte.\n\n2 - Sem prejuízo do disposto no número anterior, são também consideradas, com as devidas adaptações, entidades beneficiárias da presente medida de apoio, mediante despacho dos ministros competentes, os municípios previstos no anexo A do presente Regulamento que tenham projectos de investimento abrangidos pela alínea c) do artigo 4.º integrados em planos de urbanismo comercial.\n\n> Alterado pelo/a [Portaria n.º 1389-A/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1389-a-2001-374185), publicado em 2001-12-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:372390:por",
+    "alterador": "pt:dre:374185:por"
+  },
+  {
+    "artigo": "ANEXO::13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º — Apresentação de candidaturas\n\n1 - As candidaturas são apresentadas na direcção regional da economia (DRE) territorialmente competente, através do respectivo dossier de candidatura, elaborado nos termos do anexo B deste Regulamento, que dele faz parte integrante.\n\n2 - No caso dos projectos abrangidos pelas alíneas b) e c) do artigo 4.º, os promotores deverão apresentar as respectivas candidaturas no prazo máximo de 180 dias a contar da data de publicação deste Regulamento.\n\n3 - Após a recepção da candidatura e durante o processo de análise, a DRE pode solicitar ao promotor esclarecimentos complementares, que devem ser apresentados no prazo de 15 dias úteis, findos os quais a ausência de resposta significa a desistência da candidatura.",
+    "depois": "###### Artigo 13.º — Apresentação de candidaturas\n\n1 - As candidaturas são apresentadas na direcção regional da economia (DRE) territorialmente competente, através do respectivo dossier de candidatura, elaborado nos termos do anexo B deste Regulamento, que dele faz parte integrante.\n\n2 - No caso dos projectos abrangidos pelas alíneas b) e c) do artigo 4.º, os promotores deverão apresentar as respectivas candidaturas no prazo máximo de 320 dias a contar da data de publicação deste Regulamento.\n\n3 - Após a recepção da candidatura e durante o processo de análise, a DRE pode solicitar ao promotor esclarecimentos complementares, que devem ser apresentados no prazo de 15 dias úteis, findos os quais a ausência de resposta significa a desistência da candidatura.\n\n> Alterado pelo/a [Portaria n.º 1389-A/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1389-a-2001-374185), publicado em 2001-12-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:372390:por",
+    "alterador": "pt:dre:374185:por"
+  }
+]

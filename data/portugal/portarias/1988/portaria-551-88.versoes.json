@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:376824:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1988-08-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8f645a13dd3a383e"
+   ]
+  },
+  {
+   "date": "1994-02-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:521632:por",
+     "title": "Portaria n.º 85/94",
+     "published": "1994-02-07",
+     "dre_path": "/dr/detalhe/portaria/85-1994-521632"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-11",
+    "Adita Artigo depois da unidade 16"
+   ],
+   "fragments": [
+    "3ab8967d769edc99"
+   ]
+  }
+ ],
+ "fragments": {
+  "8f645a13dd3a383e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Agosto\n\nManda o Governo, pelos Ministros das Finanças e dos Negócios Estrangeiros, nos termos do n.º 1 do artigo 7.º do [Decreto-Lei n.º 459/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1985-171362), de 4 de Novembro, que o n.º 6 do mapa do pessoal da Representação Permanente junto das Comunidades Europeias, da [Portaria n.º 277/87](https://diariodarepublica.pt/dr/detalhe/portaria/277-1987-666680), de 6 de Abril, passe a ter a seguinte redacção, com efeitos a partir de 1 de Janeiro de 1988:\n\n6 - Pessoal assalariado:\n\nTrês chanceleres;\n\nTrês arquivistas;\n\nDoze tradutores-intérpretes;\n\nCinco secretários de 1.ª classe;\n\nOito secretários de 2.ª classe;\n\nDois secretários de 3.ª classe;\n\nUm telefonista;\n\nTrês motoristas;\n\nDois porteiros;\n\nQuatro contínuos;\n\nUm guarda;\n\nQuatro auxiliares de serviço.\n\nMinistérios das Finanças e dos Negócios Estrangeiros.\n\nAssinada em 20 de Julho de 1988.\n\nPelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação."
+  },
+  "3ab8967d769edc99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1994-02-12",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 85/94](https://diariodarepublica.pt/dr/detalhe/portaria/85-1994-521632), publicado em 1994-02-07.",
+    "Aditado pelo/a [Portaria n.º 85/94](https://diariodarepublica.pt/dr/detalhe/portaria/85-1994-521632), publicado em 1994-02-07."
+   ],
+   "markdown": "de 16 de Agosto\n\nManda o Governo, pelos Ministros das Finanças e dos Negócios Estrangeiros, nos termos do n.º 1 do artigo 7.º do [Decreto-Lei n.º 459/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1985-171362), de 4 de Novembro, que o n.º 6 do mapa do pessoal da Representação Permanente junto das Comunidades Europeias, da [Portaria n.º 277/87](https://diariodarepublica.pt/dr/detalhe/portaria/277-1987-666680), de 6 de Abril, passe a ter a seguinte redacção, com efeitos a partir de 1 de Janeiro de 1988:\n\n6 - Pessoal assalariado:\n\nTrês chanceleres;\n\nTrês arquivistas;\n\nDoze tradutores-intérpretes;\n\nCinco secretários de 1.ª classe;\n\nOito secretários de 2.ª classe (ver nota 1);\n\nCinco secretários de 3.ª classe (ver nota 2);\n\nUma telefonista;\n\n> Alterado pelo/a [Portaria n.º 85/94](https://diariodarepublica.pt/dr/detalhe/portaria/85-1994-521632), publicado em 1994-02-07.\n\nTrês motoristas;\n\nDois porteiros;\n\nQuatro contínuos;\n\nUm guarda;\n\nQuatro auxiliares de serviço.\n\n(nota 1) Três lugares a extinguir quando vagarem.\n\n(nota 2) Três lugares a preencher à medida que vagarem os três lugares de secretário de 2.ª classe.\n\n> Aditado pelo/a [Portaria n.º 85/94](https://diariodarepublica.pt/dr/detalhe/portaria/85-1994-521632), publicado em 1994-02-07.\n\nMinistérios das Finanças e dos Negócios Estrangeiros.\n\nAssinada em 20 de Julho de 1988.\n\nPelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação."
+  }
+ }
+}

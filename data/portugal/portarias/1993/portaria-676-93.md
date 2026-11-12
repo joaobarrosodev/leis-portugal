@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-08-18'
+version_history:
+  file: portaria-676-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-07-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-08-18'
+    amending: pt:dre:227020:por
+    amending_title: Portaria n.º 736-E/93
+    changes:
+    - Altera Artigo unidades 31-32
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/676/1993/07/19/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:07:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 736-E/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-676-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -161,9 +176,11 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 14.º - 1 - Nas zonas de regime cinegético especial e sem prejuízo do disposto nos números seguintes, a caça é permitida nos termos das disposições legais e regulamentares que lhe forem aplicáveis e de acordo com os respectivos planos de ordenamento e de exploração devidamente aprovados.
 
-2 - O período venatório para as espécies seguidamente mencionadas é o definido para o regime cinegético geral: codorniz, galinhola, narcejas, pombos, rola-comum, tordos, tarambola-dourada, galinha-d'água, galeirão e patos.
+2 - O período venatório para as espécies cinegéticas seguidamente mencionadas é o definido para o regime cinegético geral: raposa, saca-rabos, faisão, codorniz, galinhola, narcejas, pombos, rola comum, tordos, tarambola-dourada, galinha-de-água, galeirão e patos.
 
-3 - O termo do período venatório da lebre, coelho e perdiz coincide com o do regime geral, sem prejuízo do disposto no n.º 1 no que respeita aos planos de ordenamento e exploração.
+3 - O período venatório da lebre, coelho e perdiz coindice com o do regime cinegético geral, sem prejuízo do disposto no n.º 1 quanto ao fixado nos planos de ordenamento e exploração no que respeita ao termo do período venatório, à caça a corricão e à caça à espera ou por aproximação do javali.
+
+> Alterado pelo/a [Portaria n.º 736-E/93](https://diariodarepublica.pt/dr/detalhe/portaria/736-e-1993-227020), publicado em 1993-08-13.
 
 4 - O número de exemplares de espécies migradouras abatidas nas zonas de caça do regime cinegético especial não pode ultrapassar os contingentes fixados nos respectivos planos de ordenamento e de exploração cinegéticos.
 

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:279589:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-12-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "79eb58e97a6e8c67"
+   ]
+  },
+  {
+   "date": "1980-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:463982:por",
+     "title": "Despacho Normativo n.º 292/80",
+     "published": "1980-09-01",
+     "dre_path": "/dr/detalhe/despacho-normativo/292-1980-463982"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "90f5db74d5b2e1ef"
+   ]
+  }
+ ],
+ "fragments": {
+  "79eb58e97a6e8c67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelos despachos conjuntos dos Secretários de Estado do Tesouro e da Estruturação Agrária de 20 de Maio e de 22 de Julho de 1975, foram estabelecidos determinados condicionalismos relativos à concessão de crédito pelas caixas de crédito agrícola mútuo, os quais se torna conveniente rever, em face da actual situação e actividade destas cooperativas de crédito e da maior celeridade a imprimir na realização dos empréstimos.\n\nFixa-se, assim, novo esquema de actuação relativamente à actividade creditícia destes organismos, tendente, por um lado, a melhorar as condições de base de apreciação do crédito, por parte das suas direcções, e, por outro, a acelerar o circuito das operações e a aperfeiçoar os mecanismos do seu contrôle.\n\nAssim, determina-se que:\n\n1 - Todos os pedidos de empréstimo formulados às caixas de crédito agrícola mútuo pelos seus associados são, pelas referidas cooperativas de crédito, submetidos à apreciação prévia dos serviços e organismos regionais do Ministério da Agricultura e Pescas ou dos governos das regiões autónomas, que prestarão parecer técnico-económico sobre as operações, enviando-os às respectivas caixas agrícolas.\n\n2 - O disposto no número anterior aplica-se apenas quando o valor do empréstimo for superior a 200 contos ou quando da sua concessão resulte para o mutuário débito global que ultrapasse aquele limite.\n\n3 - As caixas de crédito agrícola mútuo comunicarão aos respectivos serviços ou organismos, emitentes dos pareceres, as operações que hajam sido autorizadas, a fim de que aqueles serviços ou organismos acompanhem, no possível, através dos seus técnicos, o crédito concedido e, bem assim, as operações que hajam sido recusadas, para que sejam igualmente do conhecimento dos mesmos serviços ou organismos que prestaram os pareceres.\n\n4 - Os pedidos de empréstimo às caixas de crédito agrícola mútuo submetidos por estas a refinanciamento junto da Caixa Geral de Depósitos, Crédito e Previdência deverão vir acompanhados dos mencionados pareceres técnico-económicos.\n\n5 - No âmbito das funções que lhe competem como entidade fiscalizadora da actividade das caixas de crédito agrícola mútuo, a Caixa Geral de Depósitos, Crédito e Previdência, sempre que o entenda conveniente, solicitará dos referidos serviços e organismos informações ou pareceres acerca de empréstimos concedidos pelas caixas.\n\n6 - Quando se trate de pedidos de empréstimo destinados à regularização de dívidas anteriores, sem que de tal facto resulte aumento do total destas dívidas, não se torna obrigatória a solicitação dos mencionados pareceres técnico-económicos, podendo, no entanto, as direcções das caixas, se o acharem conveniente, socorrer-se dos citados serviços e organismos regionais para quaisquer informações ou pareceres, que estejam no seu âmbito e considerem de interesse para melhor basearem as decisões a tomar.\n\n7 - Ficam revogados os despachos conjuntos dos Secretários de Estado do Tesouro e da Estruturação Agrária de 20 de Maio e de 22 de Julho de 1975.\n\nMinistérios das Finanças e da Agricultura e Pescas, 5 de Novembro de 1977. - Pelo Ministro das Finanças, Maria Manuela Matos Morgado Santiago Baptista, Secretário de Estado das Finanças e do Tesouro. - O Ministro da Agricultura e Pescas, António Miguel Morais Barreto."
+  },
+  "90f5db74d5b2e1ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1980-09-01",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 292/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/292-1980-463982), publicado em 1980-09-01."
+   ],
+   "markdown": "Pelos despachos conjuntos dos Secretários de Estado do Tesouro e da Estruturação Agrária de 20 de Maio e de 22 de Julho de 1975, foram estabelecidos determinados condicionalismos relativos à concessão de crédito pelas caixas de crédito agrícola mútuo, os quais se torna conveniente rever, em face da actual situação e actividade destas cooperativas de crédito e da maior celeridade a imprimir na realização dos empréstimos.\n\nFixa-se, assim, novo esquema de actuação relativamente à actividade creditícia destes organismos, tendente, por um lado, a melhorar as condições de base de apreciação do crédito, por parte das suas direcções, e, por outro, a acelerar o circuito das operações e a aperfeiçoar os mecanismos do seu contrôle.\n\nAssim, determina-se que:\n\n1 - Todos os pedidos de empréstimo formulados às caixas de crédito agrícola mútuo pelos seus associados são, pelas referidas cooperativas de crédito, submetidos à apreciação prévia dos serviços e organismos regionais do Ministério da Agricultura e Pescas ou dos governos das regiões autónomas, que prestarão parecer técnico-económico sobre as operações, enviando-os às respectivas caixas agrícolas.\n\n2 - O disposto no número anterior aplica-se apenas quando o valor do empréstimo for superior a 750 contos, ou quando da sua concessão resulte para o mutuário débito global que ultrapasse aquele limite.\n\n> Alterado pelo/a [Despacho Normativo n.º 292/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/292-1980-463982), publicado em 1980-09-01.\n\n3 - As caixas de crédito agrícola mútuo comunicarão aos respectivos serviços ou organismos, emitentes dos pareceres, as operações que hajam sido autorizadas, a fim de que aqueles serviços ou organismos acompanhem, no possível, através dos seus técnicos, o crédito concedido e, bem assim, as operações que hajam sido recusadas, para que sejam igualmente do conhecimento dos mesmos serviços ou organismos que prestaram os pareceres.\n\n4 - Os pedidos de empréstimo às caixas de crédito agrícola mútuo submetidos por estas a refinanciamento junto da Caixa Geral de Depósitos, Crédito e Previdência deverão vir acompanhados dos mencionados pareceres técnico-económicos.\n\n5 - No âmbito das funções que lhe competem como entidade fiscalizadora da actividade das caixas de crédito agrícola mútuo, a Caixa Geral de Depósitos, Crédito e Previdência, sempre que o entenda conveniente, solicitará dos referidos serviços e organismos informações ou pareceres acerca de empréstimos concedidos pelas caixas.\n\n6 - Quando se trate de pedidos de empréstimo destinados à regularização de dívidas anteriores, sem que de tal facto resulte aumento do total destas dívidas, não se torna obrigatória a solicitação dos mencionados pareceres técnico-económicos, podendo, no entanto, as direcções das caixas, se o acharem conveniente, socorrer-se dos citados serviços e organismos regionais para quaisquer informações ou pareceres, que estejam no seu âmbito e considerem de interesse para melhor basearem as decisões a tomar.\n\n7 - Ficam revogados os despachos conjuntos dos Secretários de Estado do Tesouro e da Estruturação Agrária de 20 de Maio e de 22 de Julho de 1975.\n\nMinistérios das Finanças e da Agricultura e Pescas, 5 de Novembro de 1977. - Pelo Ministro das Finanças, Maria Manuela Matos Morgado Santiago Baptista, Secretário de Estado das Finanças e do Tesouro. - O Ministro da Agricultura e Pescas, António Miguel Morais Barreto."
+  }
+ }
+}

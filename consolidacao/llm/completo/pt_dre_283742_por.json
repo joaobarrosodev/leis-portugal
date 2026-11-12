@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:283742:por",
+  "artigos": [
+    {
+      "chave": "18.º",
+      "epigrafe": "Classificação do curso de formação",
+      "texto": "1 - A classificação do curso de formação (CCF) será a resultante da média aritmética simples da classificação de cada uma das disciplinas das áreas curriculares de ciências sociais, ciências jurídicas, línguas estrangeiras e da classificação do conjunto das disciplinas da área técnica.\n\n2 - Serão reprovados no curso de formação, ficando excluídos do estágio, os estagiários que:\n\na) Obtenham na média do conjunto de todas as disciplinas classificação inferior a 10 valores sem arredondamento;\n\nb) Obtenham na média do conjunto das áreas curriculares de ciências sociais, ciências jurídicas e línguas estrangeiras classificação inferior a 10 valores, sem arredondamento.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 738/94: nova redação do artigo 18.º, que só altera a alínea a) do n.º 2 (o preâmbulo di-lo; a redação publicada traz '1 - ...' antes das alíneas, mas estas são as do n.º 2) — n.º 1, proémio do n.º 2 e alínea b) mantidos, alínea a) substituída"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

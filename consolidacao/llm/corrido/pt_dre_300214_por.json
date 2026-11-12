@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:300214:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1262/93 (alteradores 1 e 2, o mesmo diploma repetido) altera apenas o número de lugares de auxiliar de serviços gerais nos mapas I e II anexos, que só existem como imagem no documento original; não há texto onde aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1): mapa I, auxiliar de serviços gerais passa a três lugares — mapa só em imagem, não aplicado.",
+    "Alterador 1, n.º 2): mapa II, a mesma carreira/categoria passa a 19 lugares — mapa só em imagem, não aplicado.",
+    "Alterador 2: é repetição da Portaria n.º 1262/93 (mesmas instruções), não aplicado de novo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

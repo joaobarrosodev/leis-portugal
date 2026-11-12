@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:299639:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 2.º da Portaria n.º 1096/2001 revoga por inteiro a Portaria n.º 446/78, que é substituída pelo novo regulamento interno do Hospital Infante D. Pedro - Aveiro.",
+  "instrucoes": [
+    "Alterador 1, n.º 2.º: revogação total da Portaria n.º 446/78 — nao_aplicavel, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

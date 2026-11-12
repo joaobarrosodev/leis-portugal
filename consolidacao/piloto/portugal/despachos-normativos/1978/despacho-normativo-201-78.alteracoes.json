@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Projectos: ... Formação bruta de capital fixo em 1978 - Milhares de contos de 1977\n\nFábrica de filtros ... 2\n\nFábrica de cigarros e picados de Albarraque ... 48\n\nFábrica de cigarros e picado de Cabo Ruivo ... 8\n\nTipografia - impressão de embalagens ... 3\n\nMelhoramentos logísticos ... 27\n\nTotal ... 88",
+    "depois": "Projectos:\n\n... Formação bruta de capital fixo em 1978 - Milhares de Contos de 1977\n\nCentros de cura ... 48\n\nFábrica de processamento ... 1\n\nFábrica de cigarros e picados de Albarraque ... 48\n\nFábrica de cigarros e picados de Cabo Ruivo ... 8\n\nFábrica de filtros ... 2\n\nTipografia - impressão de embalagens ... 3\n\nMelhoramentos logísticos ... 44\n\nTotal ... 154",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:330074:por",
+    "alterador": "pt:dre:382469:por"
+  }
+]

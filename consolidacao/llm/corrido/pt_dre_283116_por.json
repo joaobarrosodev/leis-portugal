@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:283116:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 2.º da Portaria n.º 517/96 revoga o regulamento anexo apenas na parte respeitante às bolsas de criação literária; é uma revogação parcial de âmbito, sem alvo textual identificável, pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 2.º: revogação do regulamento anexo na parte respeitante às bolsas de criação literária; não aplicada (não textual)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

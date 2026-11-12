@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - O disposto no número anterior aplica-se apenas quando o valor do empréstimo for superior a 200 contos ou quando da sua concessão resulte para o mutuário débito global que ultrapasse aquele limite.",
+    "depois": "2 - O disposto no número anterior aplica-se apenas quando o valor do empréstimo for superior a 750 contos, ou quando da sua concessão resulte para o mutuário débito global que ultrapasse aquele limite.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279589:por",
+    "alterador": "pt:dre:463982:por"
+  }
+]

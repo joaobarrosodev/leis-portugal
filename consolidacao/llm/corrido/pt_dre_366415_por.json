@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:366415:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "11 - Deferido o requerimento pelo Ministro do Trabalho e Segurança Social, o prémio será pago, por uma só vez, pela instituição de segurança social processadora do correspondente subsídio de desemprego.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Despacho Normativo 55/86: nova redação do n.º 11 — substituída a unidade 18."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

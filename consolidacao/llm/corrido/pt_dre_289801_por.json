@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:289801:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Assafarge, Castelo Viegas e Santa Clara, município de Coimbra, com uma área de 1035,6250 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a substituição da planta anexa pela planta anexa à Portaria n.º 728/95 não é textual (planta só em imagem).",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (área 1035,6250 ha) - substituída a unidade 6.",
+    "Alterador 1: substituição da planta anexa - não aplicada (imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

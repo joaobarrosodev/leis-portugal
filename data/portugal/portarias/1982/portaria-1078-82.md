@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-12-11'
+version_history:
+  file: portaria-1078-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-11-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-12-11'
+    amending: pt:dre:379335:por
+    amending_title: Portaria n.º 1140/82
+    changes:
+    - Altera Artigo unidades 22-22
+    - Altera Artigo unidades 27-33
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:02:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1140/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-1078-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,7 +174,9 @@ Tribunal do Trabalho de Braga
 
 Secretaria judicial:
 
-Secção central e 4 secções de processos:
+Secção central e 3 secções de processos:
+
+> Alterado pelo/a [Portaria n.º 1140/82](https://diariodarepublica.pt/dr/detalhe/portaria/1140-1982-379335), publicado em 1982-12-11.
 
 Pessoal:
 
@@ -168,19 +186,21 @@ Cargos:
 
 Secretário judicial ... 1
 
-Escrivão de direito ... 4
+Escrivão de direito ... 3
 
-Escrivão-adjunto (ver nota a) ... 6
+Escrivão-adjunto (ver nota a) ... 5
 
-Oficial judicial ... 4
+Oficial judicial ... 3
 
-Escriturário judicial (ver nota a) ... 7
+Escriturário judicial (ver nota a) ... 5
 
-(nota a) Afecto ao serviço do ministério público:
+(nota a) Afecto ao serviço do Ministério Público:
 
-1 lugar de escrivão-adjunto.
+1 lugar de escrivão-adjunto;
 
 1 lugar de escriturário judicial.
+
+> Alterado pelo/a [Portaria n.º 1140/82](https://diariodarepublica.pt/dr/detalhe/portaria/1140-1982-379335), publicado em 1982-12-11.
 
 Tribunal de Cascais
 

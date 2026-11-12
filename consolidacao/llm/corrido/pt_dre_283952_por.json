@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:283952:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 6,
+      "texto": "Modelo n.º 1 - para uso do pessoal dos gabinetes dos membros do Governo e dos dirigentes dos organismos e serviços do Ministério do Mar com categoria igual ou superior à de chefe de divisão ou legalmente equiparados (anexo I);\n\nModelo n.º 2 - para o restante pessoal dos referidos organismos e serviços (anexo II).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 dá nova redação ao n.º 1.º: corpo (unidade 4) igual; substituídas as unidades 5 e 6 (modelos)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

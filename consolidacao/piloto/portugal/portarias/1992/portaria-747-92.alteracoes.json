@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Todos os lagares de azeite que se encontrem tecnicamente aptos e desejem exercer a sua actividade têm obrigatoriamente de proceder à sua inscrição no Instituto Nacional de Intervenção e Garantia Agrícola (INGA) até 31 de Agosto do ano em que tem início a campanha de comercialização na qual desejem iniciar a sua actividade.",
+    "depois": "1.º Todos os lagares de azeite que se encontrem tecnicamente aptos e desejem exercer a sua actividade têm obrigatoriamente de proceder à sua inscrição no Instituto Nacional de Intervenção e Garantia Agrícola (INGA) até 31 de Agosto do ano em que tem início a campanha de comercialização na qual pretendem começar a sua actividade, com excepção dos lagares que tenham beneficiado de ajudas públicas na realização de investimentos e disponham da respectiva autorização de laboração, aos quais não se aplica aquela limitação temporal.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:275851:por",
+    "alterador": "pt:dre:222788:por"
+  },
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "11.º Os requerimentos para obtenção do reconhecimento terão de dar entrada no INGA até 31 de Agosto de cada ano para que o reconhecimento possa produzir efeitos a partir da campanha a iniciar em 1 de Novembro desse mesmo ano.",
+    "depois": "11.º Os requerimentos para obtenção do reconhecimento terão de dar entrada no INGA até 31 de Agosto de cada ano para que o reconhecimento possa produzir efeitos a partir da campanha a iniciar em 1 de Novembro desse mesmo ano, com excepção dos lagares que tenham beneficiado de ajudas públicas na realização de investimentos, devendo o reconhecimento destes, quando ocorrer, ser de imediato comunicado pelo INGA à ACACSA.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:275851:por",
+    "alterador": "pt:dre:222788:por"
+  }
+]

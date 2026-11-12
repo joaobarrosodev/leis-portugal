@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 22-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Secção central e 4 secções de processos:",
+    "depois": "Secção central e 3 secções de processos:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:377327:por",
+    "alterador": "pt:dre:379335:por"
+  },
+  {
+    "artigo": "unidades 27-33",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Escrivão de direito ... 4\n\nEscrivão-adjunto (ver nota a) ... 6\n\nOficial judicial ... 4\n\nEscriturário judicial (ver nota a) ... 7\n\n(nota a) Afecto ao serviço do ministério público:\n\n1 lugar de escrivão-adjunto.\n\n1 lugar de escriturário judicial.",
+    "depois": "Escrivão de direito ... 3\n\nEscrivão-adjunto (ver nota a) ... 5\n\nOficial judicial ... 3\n\nEscriturário judicial (ver nota a) ... 5\n\n(nota a) Afecto ao serviço do Ministério Público:\n\n1 lugar de escrivão-adjunto;\n\n1 lugar de escriturário judicial.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:377327:por",
+    "alterador": "pt:dre:379335:por"
+  }
+]

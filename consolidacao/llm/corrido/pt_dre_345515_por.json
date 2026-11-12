@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:345515:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "i) Um representante da Guarda Nacional Republicana e um representante da Polícia de Segurança Pública.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 925/99): nova redação da alínea i) do n.º 2.º; substituída a unidade 17."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

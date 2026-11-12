@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:375244:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 120/84 (n.º 4.º) revoga por inteiro a Portaria 917/82.",
+  "instrucoes": [
+    "Portaria 120/84, n.º 4.º: revogação total da Portaria 917/82; nada a devolver. Os n.os 1.º e 2.º alteram a Portaria 478/80, não o original: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

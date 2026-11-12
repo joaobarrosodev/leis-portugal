@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:266635:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Várzea e Azoia de Baixo, município de Santarém, com a área de 788,7750 ha.",
+      "alterador": 4
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 8,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 4
+    }
+  ],
+  "nao_aplicavel": "Alterador 3 (Portaria n.º 988/97) só suspende a actividade cinegética por 180 dias e alterador 5 (Portaria n.º 489/2003) renova a concessão com nova área e planta: nenhum dos dois altera o texto; as plantas só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 353/95) dá nova redação ao n.º 1.º (área 948,3970 ha) e substitui a planta: redação aplicada à unidade 8, depois sobreposta pelo alterador 4; planta não aplicável (imagem).",
+    "Alterador 2 é repetição da mesma Portaria n.º 353/95: nada a mais.",
+    "Alterador 3 (Portaria n.º 988/97) suspende a actividade cinegética por 180 dias: não textual, não aplicado.",
+    "Alterador 4 (Portaria n.º 1139/97) dá nova redação ao n.º 1.º 'da Portaria n.º 582/91, alterado pela Portaria n.º 353/95' — a 582/91 foi revogada e o n.º 1.º alterado pela 353/95 é o desta portaria, por isso aplicado à unidade 8 (área 788,7750 ha), mantendo o número '1.º'; aditado o n.º 1.º-A a seguir à unidade 8.",
+    "Alterador 5 (Portaria n.º 489/2003) renova a concessão por 12 anos com nova área e planta: não é alteração textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

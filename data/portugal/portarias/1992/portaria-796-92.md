@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-06-14'
+version_history:
+  file: portaria-796-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-08-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-06-14'
+    amending: pt:dre:260905:por
+    amending_title: Portaria n.º 586/93
+    changes:
+    - Altera Artigo ANEXO::1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/796/1992/08/17/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:35:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 586/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-796-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,7 +154,9 @@ Regulamento do Concurso Público para Atribuição de Licenças para a Prestaç�
 
 ###### Artigo 1.º — Objecto
 
-O concurso público tem por objecto a atribuição de duas licenças de âmbito nacional para a prestação do serviço de telecomunicações complementar móvel - serviço móvel com recursos partilhados, funcionando na faixa dos 450 MHz/470 MHz.
+O concurso público tem por objecto a atribuição de uma licença de âmbito nacional para a prestação do serviço de telecomunicações complementar móvel - serviço móvel com recursos partilhados, funcionando na faixa dos 450 MHz/470 MHz.
+
+> Alterado pelo/a [Portaria n.º 586/93](https://diariodarepublica.pt/dr/detalhe/portaria/586-1993-260905), publicado em 1993-06-09.
 
 ###### Artigo 2.º — Legislação aplicável
 

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:292337:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (art. 1.º, n.º 1, do DL 375/74) repõe em vigor o imposto suspenso pelo art. 1.º do original: é efeito material sem revogação nem nova redação expressa, não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º n.º 1: repõe em vigor o imposto sobre a indústria agrícola suspenso pelo art. 1.º do original - sem alteração textual, não aplicada.",
+    "Alterador 1, art. 1.º n.os 2-4: dirigidos ao Código da Contribuição Predial, não ao original - ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

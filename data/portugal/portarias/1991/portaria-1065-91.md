@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-01-25'
+version_history:
+  file: portaria-1065-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-10-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-01-25'
+    amending: pt:dre:144248:por
+    amending_title: Portaria n.º 36/92
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1065/1991/10/22/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:37:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 36/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-1065-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,7 +138,9 @@ Assim, com fundamento no disposto no artigo 37.º do [Decreto-Lei n.º 274-A/88]
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º É proibido o exercício da caça na área do concelho de Ferreira do Zêzere e da freguesia de São Pedro de Tomar, concelho de Tomar.
+1.º É proibido o exercício da caça na área da freguesia de São Pedro de Tomar, concelho de Tomar, e nas áreas atingidas por incêndios no corrente ano do concelho de Ferreira do Zêzere.
+
+> Alterado pelo/a [Portaria n.º 36/92](https://diariodarepublica.pt/dr/detalhe/portaria/36-1992-144248), publicado em 1992-01-20.
 
 2.º É proibida a caça à lebre em todos os concelhos do distrito de Lisboa e nos concelhos de Alcobaça, Bombarral, Caldas da Rainha, Nazaré, Óbidos e Peniche, do distrito de Leiria.
 

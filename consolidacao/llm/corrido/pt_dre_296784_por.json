@@ -1,0 +1,140 @@
+{
+  "id": "pt:dre:296784:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "Serão obrigatoriamente aplicadas à área do Plano de Urbanização da Comporta, para além da legislação e normativa nacionais ou específicas em vigor, as cláusulas constantes do presente Regulamento, bem como do quadro anexo ao mesmo.",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "01 - Núcleo do «Monte»",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "Não serão autorizadas alterações exteriores nas construções a preservar nem novas construções, à excepção de anexos para a actividade agrícola e do equipamento comercial previsto no Plano, cuja volumetria não poderá exceder um piso.",
+      "alterador": 1
+    },
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "A volumetria permitida, à excepção da relativa ao edifício para a Junta de Freguesia (que poderá ter, em parte da sua área, um 3.º piso), não poderá exceder, em caso algum, dois pisos.",
+      "alterador": 1
+    },
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "As construções de um piso com a função de habitação, quando devidamente justificado e isso não conduza ao aumento do número de fogos por lote nem a funções diferentes das existentes e ou previstas, poderão aumentar de um piso a sua volumetria, mediante apresentação de um estudo do conjunto do qual façam parte, o qual deverá ser obrigatoriamente subscrito por um arquitecto.",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "A volumetria permitida não poderá exceder, em caso algum, dois pisos.",
+      "alterador": 1
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "As construções de um piso, quando devidamente justificado e isso não conduza ao aumento do número de fogos por lote nem a funções diferentes das existentes e ou previstas, poderão aumentar de um piso a sua volumetria, mediante a apresentação de um estudo do conjunto do qual façam parte.",
+      "alterador": 1
+    },
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "É necessária a elaboração de um plano de pormenor (PP3) ([Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412)) para a definição da ocupação da parcela livre do núcleo, no qual deverá ser respeitado o índice de ocupação de 0,50 e a volumetria máxima de dois pisos.",
+      "alterador": 1
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "A volumetria permitida não poderá exceder, em caso algum, dois pisos.",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "As construções de um piso, quando devidamente justificado e isso não conduza ao aumento do número de fogos por lote nem a funções diferentes das existentes e ou previstas, poderão aumentar de um piso a sua volumetria, mediante a apresentação de um estudo do conjunto do qual façam parte.",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "É necessária a elaboração de dois planos de pormenor (PP1 e PP2) ([Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412)) para a definição da ocupação da parcela livre do núcleo, no qual deverá ser respeitado o índice de ocupação de 0,50 e a volumetria máxima de dois pisos.",
+      "alterador": 1
+    },
+    {
+      "de": 34,
+      "ate": 34,
+      "texto": "A volumetria permitida não poderá exceder, em caso algum, dois pisos.",
+      "alterador": 1
+    },
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "As construções de um piso, quando devidamente justificado e isso não conduza ao aumento do número de fogos por lote nem a funções diferentes das existentes e ou previstas, poderão aumentar de um piso a sua volumetria, mediante a apresentação de um estudo do conjunto do qual façam parte.",
+      "alterador": 1
+    },
+    {
+      "de": 38,
+      "ate": 38,
+      "texto": "É necessária a elaboração de um plano de pormenor (PP4) que inclua os equipamentos previstos para esta zona em conformidade com o Plano e as normas da Direcção dos Serviços dos Equipamentos Educativos e da Direcção-Geral dos Desportos.",
+      "alterador": 1
+    },
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "Deve ser objecto de um projecto específico, que, tendo em conta o tipo de equipamento proposto, respeite as seguintes regras:",
+      "alterador": 1
+    },
+    {
+      "de": 43,
+      "ate": 43,
+      "texto": "Índice máximo de ocupação - 0,25.",
+      "alterador": 1
+    },
+    {
+      "de": 45,
+      "ate": 45,
+      "texto": "É necessária a elaboração de um plano de pormenor (PP5) devidamente interligado com o projecto de equipamento turístico, devendo os equipamentos desportivos previstos para esta zona respeitar as normas da Direcção-Geral dos Desportos.",
+      "alterador": 1
+    },
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "Índice máximo de ocupação (incluindo equipamentos) - 0,50.",
+      "alterador": 1
+    },
+    {
+      "de": 52,
+      "ate": 52,
+      "texto": "Índice máximo de ocupação - 0,50.",
+      "alterador": 1
+    },
+    {
+      "de": 56,
+      "ate": 56,
+      "texto": "Índice máximo de ocupação - 0,15.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 56,
+      "texto": "Conceitos e definições\n\n11 - Índice de ocupação\n\nEntende-se por índice de ocupação o quociente entre a área de implantação das edificações em cada lote pela área do mesmo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1: a planta de zonamento e o quadro anexo atualizados (ANEXO) só vêm em imagem, não se aplicam ao texto.",
+  "instrucoes": [
+    "Alterador 1 (RCM 205/97): republica o Regulamento atualizado - substituídas as unidades do Regulamento cuja redação mudou (20) e inserido após a unidade 56 o novo capítulo 'Conceitos e definições' / 11 - Índice de ocupação.",
+    "Alterador 1: planta de zonamento e quadro anexo atualizados - não aplicados (imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

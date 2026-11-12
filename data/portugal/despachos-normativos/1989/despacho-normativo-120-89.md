@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-06-12'
+version_history:
+  file: despacho-normativo-120-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-06-12'
+    amending: pt:dre:575121:por
+    amending_title: Despacho Normativo n.º 35/90
+    changes:
+    - Altera Artigo unidades 15-20
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:42:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 35/90. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1989/despacho-normativo-120-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,17 +160,19 @@ Terão igual tratamento as empresas a que tenham sido concedidas autorizações 
 
 2.2.1 - Sem prejuízo do disposto nos n.os 2.2.2 e 2.2.3, as autorizações a atribuir corresponderão a uma percentagem do parque de veículos de cada empresa e do respectivo índice de utilização, nos termos seguintes:
 
-a) A 70%, com índice igual ou superior a 140;
+a) A 95%, com índice igual ou superior a 140;
 
-b) A 60%, com índice igual ou superior a 120 e inferior a 140;
+b) A 90%, com índice igual ou superior a 120 e inferior a 140;
 
-c) A 50%, com índice igual ou superior a 100 e inferior a 120;
+c) A 80%, com índice igual ou superior a 100 e inferior a 120;
 
-d) A 40%, com índice igual ou superior a 85 e inferior a 100;
+d) A 60%, com índice igual ou superior a 85 e inferior a 100;
 
-e) A 30%, com índice igual ou superior a 65 e inferior a 85;
+e) A 40%, com índice igual ou superior a 65 e inferior a 85;
 
-f) A 20%, com índice igual ou superior a 50 e inferior a 65.
+f) A 30%, com índice igual ou superior a 50 e inferior a 65.
+
+> Alterado pelo/a [Despacho Normativo n.º 35/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-1990-575121), publicado em 1990-06-07.
 
 2.2.2 - As empresas com índice de utilização igual ou superior a 85 terão direito a manter o número de autorizações de que foram titulares anteriormente.
 

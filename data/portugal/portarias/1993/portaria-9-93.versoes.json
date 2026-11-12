@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:283952:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-01-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fea7068953b67c96",
+    "9d44681fba72e814",
+    "ea1f32a7cfbcc7e3"
+   ]
+  },
+  {
+   "date": "1995-01-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:367810:por",
+     "title": "Portaria n.º 9/95",
+     "published": "1995-01-05",
+     "dre_path": "/dr/detalhe/portaria/9-1995-367810"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-6"
+   ],
+   "fragments": [
+    "c5df8be4101ab2e4",
+    "9d44681fba72e814",
+    "ea1f32a7cfbcc7e3"
+   ]
+  }
+ ],
+ "fragments": {
+  "fea7068953b67c96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Janeiro\n\nManda o Governo, pelo Ministro do Mar, ao abrigo do disposto na alínea d) do artigo 202.º da Constituição, o seguinte:\n\n1.º São aprovados os seguintes modelos de cartão de identificação anexos à presente portaria:\n\nModelo 1 - para uso do pessoal dos gabinetes dos membros do Governo e dirigentes do Ministério com categoria equiparada a director-geral (anexo I);\n\nModelo 2 - para o restante pessoal dos organismos e serviços sob tutela do Ministério do Mar (anexo II).\n\n2.º Os cartões serão de cor branca, com uma faixa diagonal com as cores verde e vermelha no canto superior esquerdo, contendo o modelo 1 a menção «livre trânsito», em letras maiúsculas de cor vermelha.\n\n3.º A entidade emitente é a Secretaria-Geral, que providenciará para que os cartões emitidos sejam registados em livro próprio, com os elementos de identificação convenientes.\n\n4.º Os cartões serão autenticados com as assinaturas do membro do Governo de que depende o portador do cartão, ou do secretário-geral, consoante os modelos, e com a aposição do selo branco, de forma a marcar o canto inferior esquerdo da fotografia.\n\n5.º Os cartões dos modelos agora aprovados, bem como os livros de registo a que se refere o n.º 3.º, constituem exclusivo da Imprensa Nacional-Casa da Moeda.\n\n6.º Os cartões serão válidos pelo período correspondente ao exercício de funções que comprovam e serão devolvidos logo que se verifique alteração da sua situação funcional, para adequada substituição ou simples recolha.\n\n7.º Pode ser emitida uma 2.ª via do cartão em caso de extravio, destruição ou deterioração, mantendo-se o número e fazendo constar expressamente a indicação «2.ª via».\n\n8.º Será criado modelo de cartão de identificação para uso dos funcionários com funções de inspecção, logo que aprovadas as leis orgânicas dos serviços com tais competências, pelo que se mantêm em vigor os cartões de que ainda são titulares.\n\nMinistério do Mar.\n\nAssinada em 30 de Novembro de 1992.\n\nO Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares."
+  },
+  "9d44681fba72e814": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Modelo de cartão de identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Modelo de cartão de identidade\n\nPessoal dos gabinetes e pessoal dirigente\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/003b00/00210022.pdf)"
+  },
+  "ea1f32a7cfbcc7e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Modelo de cartão de identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Modelo de cartão de identidade\n\nRestante pessoal\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/01/003b00/00210022.pdf)"
+  },
+  "c5df8be4101ab2e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1995-01-10",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 9/95](https://diariodarepublica.pt/dr/detalhe/portaria/9-1995-367810), publicado em 1995-01-05."
+   ],
+   "markdown": "de 5 de Janeiro\n\nManda o Governo, pelo Ministro do Mar, ao abrigo do disposto na alínea d) do artigo 202.º da Constituição, o seguinte:\n\n1.º São aprovados os seguintes modelos de cartão de identificação anexos à presente portaria:\n\nModelo n.º 1 - para uso do pessoal dos gabinetes dos membros do Governo e dos dirigentes dos organismos e serviços do Ministério do Mar com categoria igual ou superior à de chefe de divisão ou legalmente equiparados (anexo I);\n\nModelo n.º 2 - para o restante pessoal dos referidos organismos e serviços (anexo II).\n\n> Alterado pelo/a [Portaria n.º 9/95](https://diariodarepublica.pt/dr/detalhe/portaria/9-1995-367810), publicado em 1995-01-05.\n\n2.º Os cartões serão de cor branca, com uma faixa diagonal com as cores verde e vermelha no canto superior esquerdo, contendo o modelo 1 a menção «livre trânsito», em letras maiúsculas de cor vermelha.\n\n3.º A entidade emitente é a Secretaria-Geral, que providenciará para que os cartões emitidos sejam registados em livro próprio, com os elementos de identificação convenientes.\n\n4.º Os cartões serão autenticados com as assinaturas do membro do Governo de que depende o portador do cartão, ou do secretário-geral, consoante os modelos, e com a aposição do selo branco, de forma a marcar o canto inferior esquerdo da fotografia.\n\n5.º Os cartões dos modelos agora aprovados, bem como os livros de registo a que se refere o n.º 3.º, constituem exclusivo da Imprensa Nacional-Casa da Moeda.\n\n6.º Os cartões serão válidos pelo período correspondente ao exercício de funções que comprovam e serão devolvidos logo que se verifique alteração da sua situação funcional, para adequada substituição ou simples recolha.\n\n7.º Pode ser emitida uma 2.ª via do cartão em caso de extravio, destruição ou deterioração, mantendo-se o número e fazendo constar expressamente a indicação «2.ª via».\n\n8.º Será criado modelo de cartão de identificação para uso dos funcionários com funções de inspecção, logo que aprovadas as leis orgânicas dos serviços com tais competências, pelo que se mantêm em vigor os cartões de que ainda são titulares.\n\nMinistério do Mar.\n\nAssinada em 30 de Novembro de 1992.\n\nO Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares."
+  }
+ }
+}

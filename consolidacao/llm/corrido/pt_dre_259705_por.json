@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:259705:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1 - É criado no quadro de pessoal a que se refere o mapa anexo XXIV ao [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto, um lugar de assessor principal, a extinguir quando vagar.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Despacho Normativo n.º 715/94): nova redação do n.º 1 (assessor principal) - substituída a unidade 5.",
+    "Alterador 2: repete o mesmo texto do Despacho Normativo n.º 715/94; a mesma redação já ficou aplicada pelo alterador 1, nada mais a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

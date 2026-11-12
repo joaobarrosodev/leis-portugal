@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:300248:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime ordenado os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Cachopo, município de Tavira, com uma área de 850 ha, e que constituem a zona de caça social de Alcaria Alta (processo n.º 1629-DGF).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º — substituída a unidade 6. A nova planta anexa à Portaria n.º 1383/2002 só existe em imagem e não é instrução textual ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

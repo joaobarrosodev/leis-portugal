@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A empresa pública Empresa de Electricidade da Madeira (EEM) fica ainda autorizada a contrair uma garantia bancária junto de uma instituição de crédito nacional até ao limite do montante da operação anteriormente assinalado.",
+    "depois": "A empresa pública Empresa de Electricidade da Madeira (EEM) fica ainda autorizada a contrair uma garantia bancária junto de uma instituição de crédito nacional até ao limite de 13656915 francos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:252804:por",
+    "alterador": "pt:dre:278542:por"
+  }
+]

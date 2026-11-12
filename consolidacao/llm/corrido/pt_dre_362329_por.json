@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:362329:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 218/2002, n.os 1.º e 2.º: atualizam montantes das tabelas referidas na Portaria 345/2001 — não é alteração textual do original; nada a fazer.",
+    "Portaria 218/2002, n.os 3.º a 6.º: alteram a Portaria 1098/99 (n.º 55.º, 34.º, 52.º, anexo II-A), outro diploma — ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

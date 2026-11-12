@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "11 - Deferido o requerimento pelo Ministro do Trabalho, o prémio será pago, por uma só vez, através do Gabinete de Gestão do Fundo de Desemprego (GGFD).",
+    "depois": "11 - Deferido o requerimento pelo Ministro do Trabalho e Segurança Social, o prémio será pago, por uma só vez, pela instituição de segurança social processadora do correspondente subsídio de desemprego.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:366415:por",
+    "alterador": "pt:dre:228252:por"
+  }
+]
