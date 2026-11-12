@@ -372,6 +372,17 @@ Tentou-se atacar o diploma errado procurando primeiro o diploma: um vetor (model
 - O código foi revertido; o diagnóstico acima continua válido. Não se mediu com o LLM (não há `ANTHROPIC_API_KEY`).
 - Uma experiência à parte, sem ficar no código, somou ao resultado do reranker uma penalização aos anexos duplicados de códigos, aos artigos de leis de alteração ("passa a ter a seguinte redação") e ao texto original de diplomas alterados: subiu as reais para 58% (fiabilidade 69%). Foi desenhada depois de ver as falhas das mesmas 136 perguntas e o ganho é de três perguntas, por isso **não** ficou: precisa de perguntas novas (frente C) e de medir as literais, temporais e revogadas antes de entrar.
 
+## Duas respostas: a lei e a jurisprudência
+
+A resposta da lei não mudou: a pesquisa, o reranker, o LLM e o "não sei" são os mesmos. O que muda:
+
+- **Aviso na resposta da lei.** Se o Tribunal Constitucional declarou o artigo inconstitucional com força obrigatória geral até à data da pergunta, o artigo leva o aviso, como os de revogação, e o LLM recebe-o com o texto. Se o texto do artigo é posterior ao acórdão, o aviso diz que a declaração foi sobre uma redação anterior. É o caso do artigo 4.º da Lei n.º 32/2008, declarado pelo Acórdão n.º 268/2022 e alterado pela Lei n.º 18/2024.
+- **Segunda resposta, separada.** São os acórdãos do TC que julgaram os artigos citados, até à data da pergunta. Primeiro vêm as decisões com força obrigatória geral (declarar ou recusar declarar), depois os casos concretos, do mais recente para o mais antigo: cinco por artigo e a contagem dos restantes. Vem dos dados (`rag/jurisprudencia.py`, a partir da decisão de cada acórdão), não do LLM, que continua instruído a não responder sobre jurisprudência; por isso não inventa acórdãos. Mostra o número, a data, o sentido e a ligação para o site do Tribunal, não o texto do acórdão.
+
+O artigo de um código republicado noutro diploma (o Código Penal na Lei n.º 59/2007) encontra os acórdãos pelo nome do anexo.
+
+Medido em 12/11/2026: com e sem os dados do TC, a avaliação BM25 dá o mesmo resumo nas 736 perguntas, porque o aviso entra depois da ordenação. Nenhuma pergunta da avaliação cai num artigo declarado inconstitucional, e 23 passam a ter a segunda resposta. A extração dos acórdãos tem 90 % de precisão e 88 % de cobertura, medidas às cegas numa amostra que o extrator não tinha visto (ver o [README](../README.md)); a segunda resposta pode por isso ter falhas, e não entra na fiabilidade da resposta da lei.
+
 ## Próximos passos
 
 Por ordem de ganho esperado:

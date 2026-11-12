@@ -62,6 +62,9 @@ class Resposta:
     avisos: list[str] = field(default_factory=list)
     motivo: str = ""  # porque não responde
     com_llm: bool = False
+    # A segunda resposta: os acórdãos do Tribunal Constitucional que julgaram os artigos citados.
+    # Vem dos dados (rag.jurisprudencia), não do LLM, e fica separada da resposta da lei.
+    jurisprudencia: list[dict] = field(default_factory=list)
 
 
 def _ano_futuro(consulta: Consulta) -> bool:
@@ -84,7 +87,35 @@ def nao_sei_antes(consulta: Consulta, limiar: float | None = None) -> str | None
     return None
 
 
-def responder(consulta: Consulta, *, limiar: float | None = None, usar_llm: bool | None = None) -> Resposta:
+JULGAMENTOS_POR_ARTIGO = 5
+
+
+def jurisprudencia(consulta: Consulta, citacoes: list[Resultado], pesquisa=None) -> list[dict]:
+    """Os acórdãos do TC sobre os artigos citados, até à data de referência, um por acórdão e artigo:
+    as decisões com força obrigatória geral primeiro, depois os mais recentes. Os primeiros
+    `JULGAMENTOS_POR_ARTIGO` de cada artigo têm `mostrar`; os outros contam só para o resumo."""
+    if pesquisa is None:
+        return []
+    lista: list[dict] = []
+    for r in citacoes:
+        vistos: set[str] = set()
+        for j in pesquisa.julgamentos(r):
+            if (j["data"] or "") > consulta.data or j["acordao"] in vistos:
+                continue
+            vistos.add(j["acordao"])
+            lista.append({**j, "artigo": r.rotulo, "mostrar": len(vistos) <= JULGAMENTOS_POR_ARTIGO})
+    return lista
+
+
+def responder(consulta: Consulta, *, limiar: float | None = None, usar_llm: bool | None = None, pesquisa=None) -> Resposta:
+    """A resposta da lei e, com `pesquisa`, a segunda resposta: a jurisprudência dos artigos citados."""
+    resposta = _responder(consulta, limiar=limiar, usar_llm=usar_llm)
+    if resposta.responde:
+        resposta.jurisprudencia = jurisprudencia(consulta, resposta.citacoes, pesquisa)
+    return resposta
+
+
+def _responder(consulta: Consulta, *, limiar: float | None = None, usar_llm: bool | None = None) -> Resposta:
     motivo = nao_sei_antes(consulta, limiar)
     if motivo:
         return Resposta(False, "Não sei.", motivo=motivo)

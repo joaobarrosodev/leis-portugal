@@ -111,6 +111,29 @@ def test_consulta_por_artigo_poe_as_declaracoes_primeiro(tmp_path):
         linha("e", "2024-01-01", "julga", principal=False),
     ]))
     consulta = j.Jurisprudencia(caminho)
-    assert [x["acordao"] for x in consulta.por_artigo("pt:dre:1:por", "4.º")] == ["c", "d", "a", "b"]
+    assert [x["acordao"] for x in consulta.por_artigo("pt:dre:1:por", "4.º")] == ["c", "d", "b", "a"]
     assert [x["acordao"] for x in consulta.declarado_inconstitucional("pt:dre:1:por", "4.º")] == ["c"]
     assert consulta.por_artigo("pt:dre:1:por", "5.º") == []
+
+
+def test_aviso_distingue_a_redacao_declarada_da_atual():
+    julgamento = {"numero": "268/2022", "data": "2022-04-19"}
+    assert j.aviso_declaracao(julgamento, "2008-07-17").startswith("Declarado inconstitucional com força obrigatória geral")
+    assert "uma redação anterior" in j.aviso_declaracao(julgamento, "2024-02-06")
+
+
+def test_segunda_resposta_um_por_acordao_e_resumo_do_resto():
+    from types import SimpleNamespace
+
+    from rag.resposta import JULGAMENTOS_POR_ARTIGO, jurisprudencia
+
+    julgados = [{"acordao": f"a{i}", "alinea": "x", "numero": f"{i}/2024", "data": "2024-01-01", "sentido": "nao_julga"} for i in range(8)]
+    julgados.insert(1, dict(julgados[0], alinea="outra alínea do mesmo acórdão"))
+    julgados.append({"acordao": "futuro", "alinea": "x", "numero": "1/2030", "data": "2030-01-01", "sentido": "julga"})
+    pesquisa = SimpleNamespace(julgamentos=lambda r: julgados)
+    consulta = SimpleNamespace(data="2026-11-12")
+    artigo = SimpleNamespace(rotulo="Código Penal › Artigo 387.º")
+    lista = jurisprudencia(consulta, [artigo], pesquisa)
+    assert [x["acordao"] for x in lista] == [f"a{i}" for i in range(8)]
+    assert sum(x["mostrar"] for x in lista) == JULGAMENTOS_POR_ARTIGO
+    assert jurisprudencia(consulta, [artigo], None) == []

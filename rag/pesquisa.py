@@ -123,6 +123,7 @@ class Pesquisa:
         self._codigos: dict[str, list[tuple[str, str]]] | None = None
         self._principais: list[str] | None = None
         self._documentos: dict[str, dict | None] = {}
+        self._jurisprudencia = None
         self._relacoes: dict[str, tuple] = {}
 
     # ------------------------------------------------------------------ pedaços e documentos
@@ -374,6 +375,32 @@ class Pesquisa:
                 return novo
         return r
 
+    @property
+    def jurisprudencia(self):
+        """As normas julgadas pelo Tribunal Constitucional (`rag.jurisprudencia`), lidas na primeira vez."""
+        if self._jurisprudencia is None:
+            from rag.jurisprudencia import Jurisprudencia
+
+            self._jurisprudencia = Jurisprudencia()
+        return self._jurisprudencia
+
+    def julgamentos(self, r: Resultado) -> list[dict]:
+        """Os acórdãos do Tribunal Constitucional que julgaram este artigo (no diploma ou no republicado)."""
+        if not r.numero:
+            return []
+        procurar: list[tuple[str, str | None]] = [(d, r.parte) for d in (r.documento, r.redirecionado_de) if d]
+        if r.parte.startswith("Anexo"):
+            # O mesmo código noutro diploma (o Código Penal republicado na Lei n.º 59/2007 e o do
+            # Decreto-Lei n.º 48/95): os acórdãos ficaram ligados ao que `codigo` escolhe pelo nome.
+            procurar += [(documento, None) for documento, _ in self.codigo(refs_mod.nome_normalizado(r.parte))]
+        vistos: list[dict] = []
+        for documento, parte in dict.fromkeys(procurar):
+            for j in self.jurisprudencia.por_artigo(documento, r.numero, parte):
+                if j not in vistos:
+                    vistos.append(j)
+        ordem = self.jurisprudencia._ORDEM
+        return sorted(vistos, key=lambda j: (ordem.get(j["sentido"], 9), "".join(chr(0x10FFFF - ord(c)) for c in (j["data"] or ""))))
+
     def _avisos(self, r: Resultado, data: str) -> None:
         doc = self.documento(r.documento) or {}
         relacoes = self.relacoes(r.documento)
@@ -401,3 +428,8 @@ class Pesquisa:
             titulos = list(dict.fromkeys(t for t, _ in alteracoes))
             mais = f" e mais {len(titulos) - 3}" if len(titulos) > 3 else ""
             r.avisos.append(f"Texto original; alterado por {', '.join(titulos[:3])}{mais}, sem versão consolidada no acervo.")
+        from rag.jurisprudencia import aviso_declaracao
+
+        for j in self.julgamentos(r):
+            if j["sentido"] == "declara_fog" and (j["data"] or "") <= data:
+                r.avisos.append(aviso_declaracao(j, r.desde))
