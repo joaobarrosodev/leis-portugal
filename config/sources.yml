@@ -72,7 +72,7 @@ sources:
     reuse:
       status: permitted_with_conditions
       reference: https://www.cnpd.pt/avisos-legais-e-outras-informacoes/
-      summary: "Reprodução permitida com distribuição gratuita, integridade dos documentos e citação expressa do site com menção de direitos reservados; uso pessoal, associativo ou profissional, sem fins comerciais ou publicitários. Só a cópia certificada tem valor legal. Pedida à CNPD, em 12/11/2026, a confirmação desta reutilização e a indicação sobre os nomes dos responsáveis nos registos e autorizações (ver REUTILIZACAO.md)."
+      summary: "Reprodução permitida com distribuição gratuita, integridade dos documentos e citação expressa do site com menção de direitos reservados; uso pessoal, associativo ou profissional, sem fins comerciais ou publicitários. Só a cópia certificada tem valor legal. CNPD notificada em 12/11/2026, à espera de resposta."
     limits:
       known: "Não há API: listagens HTML e descargas PDF. Os PDF digitalizados não têm camada de texto e ficam só com os metadados até haver OCR. O assunto da listagem vem cortado a 100 carateres; a data da decisão é lida no texto (última data por extenso) e falta quando não há texto."
       rate_limit_policy: "1 pedido por segundo, com novas tentativas exponenciais em erros 5xx/429."
@@ -92,7 +92,7 @@ sources:
     reuse:
       status: restricted
       reference: https://www.tribunalconstitucional.pt/tc/home.html
-      summary: "O site declara todos os direitos reservados e autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto. A versão oficial é a dos arquivos do Tribunal e, quando publicada, a do Diário da República. Pedida ao Tribunal, em 12/11/2026, a confirmação de que a reutilização no projeto é aceite (ver REUTILIZACAO.md); sem resposta, mantém-se restricted."
+      summary: "O site declara todos os direitos reservados e autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto. A versão oficial é a dos arquivos do Tribunal e, quando publicada, a do Diário da República. Tribunal notificado em 12/11/2026, à espera de resposta."
     limits:
       known: "Não há API: páginas HTML geradas do Word. A jurisprudência do site não tem carácter autêntico. As decisões sumárias não estão incluídas."
       rate_limit_policy: "1 pedido por segundo, com novas tentativas exponenciais em erros 5xx/429."
