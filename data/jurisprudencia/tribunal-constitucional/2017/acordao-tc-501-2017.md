@@ -1,0 +1,186 @@
+---
+schema_version: '1.0'
+id: pt:tc:acordao:2017:501
+title: Acórdão do Tribunal Constitucional n.º 501/2017
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: acordao-tribunal-constitucional
+document_type_label: Acórdão do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 501/2017
+official_date: '2017-09-07'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 809/17'
+- 'Espécie: Eleitoral'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:acordao:2017:501
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/acordaos/20170501.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/acordaos/20170501-0600.html
+  content_url: https://www.tribunalconstitucional.pt/tc/acordaos/20170501.html
+  consolidated_url: null
+  retrieved_at: '2026-11-12T05:10:37Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: 04f35982da8b93e705f5e0aa17532adb1e6f9a85c80232709da9c1661ac0dfd9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc
+  generated_at: '2026-11-12T05:10:37Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T05:10:37Z'
+  warnings: []
+  errors: []
+---
+
+# Acórdão do Tribunal Constitucional n.º 501/2017
+
+ACÓRDÃO N.º 501/2017
+
+Processo n.º 809/2017
+
+Plenário
+
+Relator: Conselheiro Gonçalo de Almeida Ribeiro
+
+Acordam, em Plenário, no Tribunal Constitucional
+
+I. Relatório
+
+1. A coligação eleitoral «Afirmar Amarante» (PPD/PSD e CDS-PP) interpôs recurso para o Tribunal Constitucional, nos termos do artigo 31.º, da Lei Eleitoral dos Órgãos das Autarquias Locais, aprovada pela Lei Orgânica n.º 1/2001, de 14 de agosto (referida adiante pela sigla «LEOAL»), da decisão do Tribunal Judicial da Comarca do Porto Este – Juízo Local Cível de Amarante, de 21 de agosto de 2017, que indeferiu a reclamação apresentada pela mesma coligação do despacho proferido pelo mesmo Tribunal em 11 de agosto de 2017.
+
+2. A coligação recorrente apresentou candidatura à eleição para a Assembleia de Freguesia de Salvador do Monte, município de Amarante, apresentado, entre o mais, a lista de candidatos efetivos e suplentes.
+
+Através do referido despacho de 11 de agosto de 2017, o Tribunal Judicial da Comarca do Porto Este – Juízo Local Cível de Amarante, verificando que o número de candidatos suplentes excedia o número de candidatos efetivos, rejeitou os suplentes discriminados sob os números 8 a 22 da mencionada lista (fls. 135 a 136).
+
+A coligação ora recorrente apresentou reclamação de tal despacho, nos termos do artigo 29.º, n.º 1, da LEOAL, defendendo, em suma, que a lei apenas impõe um número mínimo de candidatos suplentes, mas não um número máximo, pelo que os candidatos rejeitados devem ser admitidos.
+
+Através da decisão ora recorrida, o Tribunal a quo indeferiu a reclamação, mantendo a decisão de rejeição dos candidatos suplentes que excedem o número de candidatos efetivos legalmente previsto.
+
+Pode ler-se em tal decisão:
+
+«Dispõe o art.º 12.º, n.º 1 da Lei Orgânica n.º 1/2001, de 14 de agosto, que “as listas propostas à eleição devem conter a indicação dos candidatos em número igual ao dos mandatos a preencher no respetivo órgão e de suplentes nos termos do n.º 9 do artigo 23.°”
+
+Este último preceito, para o qual remete aquele primeiro normativo, estatui que “as listas, para além dos candidatos efetivos, devem indicar os candidatos suplentes em número não inferior a um terço, arredondado por excesso”.
+
+Tem-se entendido, por conseguinte, que salvo disposição expressa, o número máximo de candidatos suplentes é igual ao número de candidatos efetivos, não podendo, pois, ser superior, “regra que se impõe por óbvias considerações de razoabilidade” (nesse sentido, o Acórdão do Tribunal Constitucional n. º 435/2005, Diário da República, 2. ª Série, n. º 190, de 03/10/2005, pág. 14317).
+
+Com efeito, conforme se estabelece no aludido acórdão, “[f]ace à omissão, no n. º 8 do artigo 23.º da LEOAL, da menção expressa do limite máximo do número dos candidatos suplentes, deve considerar-se aplicável a regra de que o máximo de candidatos suplentes é igual ao número dos efetivos, salvo disposição expressa em contrário, regra que se impõe por óbvias considerações de razoabilidade, e que se manifesta, por exemplo, no artigo 15.º, n.º 1, da Lei Eleitoral para a Assembleia da República (Lei n.º 14/79, de 16 de maio), que dispõe que os candidatos suplentes devem ser em número não inferior a dois nem superior ao dos efetivos, não podendo exceder cinco.”
+
+Concordando-se com este entendimento, por se entender que o mesmo não afeta os direitos constitucionalmente garantidos de participação política e de sufrágio, por se considerar que inexiste qualquer fundamento lógico para que o número de candidatos suplentes seja superior ao número de candidatos efetivos, e ponderando ainda a falta de razoabilidade e o exponencial número de atos processuais a que daria lugar caso inexistisse um limite, designadamente no que concerne à verificação dos requisitos dos respetivos candidatos, elaboração das listas, afixação das listas, o que não se compadece com a urgência do processo eleitoral, entende-se que a decisão reclamada deve ser mantida.»
+
+3. Notificado de tal decisão, dela interpôs o presente recurso a coligação «Afirmar Amarante», representado pelo aludido mandatário. Concluiu a sua alegação nos seguintes termos:
+
+«1. O Tribunal a quo decidiu rejeitar os candidatos suplentes n.ºs 8 a 22 da lista da Coligação Afirmar Amarante, PPD/PSD-CDS/PP, candidata à Assembleia de Freguesia Salvador do Monte, por ter constatado que o número de candidatos suplentes é superior ao número de candidatos efetivos;
+
+2. A Coligação apresentou a sua reclamação, pugnando pela revogação do referido despacho, dizendo, em síntese, que não existe qualquer obstáculo legal que impeça a apresentação de candidatos suplentes em número superior ao número de candidatos efetivos;
+
+3. Decidida a reclamação da Coligação, foi a mesma indeferida pelo Tribunal a quo, justificando-se, essencialmente, no texto do Acórdão n.º 435/2005, desse Tribunal Constitucional;
+
+4. Porém, aquele Acórdão do Tribunal Constitucional, para o qual a decisão a quo remete, não decidiu especificamente uma situação semelhante àquela que aqui está em causa, antes se pronunciou acerca de situação em que, no máximo, o número de candidatos suplentes era igual ao número de candidatos efetivos;
+
+5. Aludindo apenas, numa parte do seu texto, a uma situação hipotética similar em à que aqui se discute;
+
+6. Além disso, trata-se de um Acórdão proferido há já 12 anos, sendo que a evolução dos tempos também deve acompanhar a evolução da vontade de participação das pessoas na vida pública;
+
+7. Tanto mais numa conjuntura em que cada vez mais os cidadãos se vêm afastando da participação na vida pública, pelo que deveria ser de louvar a sua vontade de participação nas lides autárquica, ao invés de os impedir apenas com o fundamento de que são demasiados (por concorrem em lugares que lhes não garantem uma imediata eleição “à primeira”);
+
+8. Ora, a aprovação da Constituição da República Portuguesa vincou claramente, dentro do elenco dos direitos e deveres fundamentais, os direitos, liberdades e garantias de participação política, nomeadamente o direito de participação na vida pública (art.º 48.º) e o direito de sufrágio (art.º 49.º), este um direito/dever cívico de qualquer cidadão;
+
+9. E, se a anterior legislação eleitoral autárquica (afastada pela LEOAL – Lei Orgânica n.º 1/2001, de 14 de agosto) definia claramente um limite mínimo e um limite máximo de candidatos suplentes, o certo é que a atual Lei deixou de o definir, definindo apenas um limite mínimo de candidatos suplentes;
+
+10. O que não foi certamente feito por mero lapso do legislador, até porque, por exemplo, noutra Lei Eleitoral (a Lei Eleitoral da Assembleia da República – Lei 14/79, de 16 de maio), o legislador manteve, até aos dias de hoje, a indicação do limite mínimo e limite máximo de candidatos suplentes (artigo 15.º n.º 1);
+
+11. Acresce que nunca decorre qualquer prejuízo (nem para o Estado nem para Entidades Privadas) do facto de uma lista candidata a certa Assembleia de Freguesia ter um número de candidatos suplentes superior ao número de candidatos efetivos;
+
+12. Uma vez que a lei é clara acerca de quais os candidatos que têm direito à dispensa das respetivas funções, públicas ou privadas - os candidatos efetivos e os suplentes no mínimo legal exigível (artigo 8.º LEOAL);
+
+13. Sendo assim, não existe, salvo o devido respeito, qualquer razão de fundo para se impedir um vasto conjunto de cidadãos, providos da totalidade dos seus direitos e deveres de participação política, de todos fazerem parte da mesma lista de candidatos, antes sendo de louvar tal demonstração de cidadania;
+
+14. E sendo ainda de valorizar a disponibilidade para o exercício de direitos e deveres fundamentais de participação política dos cidadãos, constitucionalmente consagrados, em detrimento de uma mera interpretação, “ao de leve”, daquilo que parece que o legislador queria dizer, mas não disse;
+
+15. Aliás, diz-nos, resumidamente, Gomes Canotilho (in Direito Constitucional e Teoria da Constituição – pp 447) que, na dúvida, ponderando entre o princípio da constitucionalidade e o princípio da legalidade, deverá o Tribunal optar pela defesa da norma constitucional, prevalecendo esta como norma superior, reconhecendo-se aos Tribunais o direito de acesso à Constituição – sobretudo às normas Constitucionais consagradoras de direitos, liberdades e garantias, a fim de “fiscalizarem” (“direito de exame”, “direito de fiscalização”) a conformidade da Lei com as normas e princípios da Constituição.»
+
+4. Não houve lugar a respostas.
+
+Cumpre apreciar e decidir.
+
+II. Fundamentação
+
+5. Face ao teor da alegação do recurso interposto e da decisão recorrida, a questão a resolver no âmbito do presente recurso é a de saber se a lei impõe um limite máximo ao número de candidatos suplentes e, na afirmativa, qual é esse limite.
+
+No caso vertente, e compulsada a lista de candidatos junta aos autos pela coligação recorrente, verifica-se que são elencados sete (7) candidatos efetivos e vinte e dois (22) candidatos suplentes. Factos estes que não são controvertidos.
+
+O Tribunal a quo entendeu que, de facto, existe um limite máximo de candidatos suplentes, que não podem exceder o número de candidatos efetivos legalmente previstos. Assenta tal entendimento em razões de segurança jurídica e de lógica, louvando-se expressamente na jurisprudência firmada no Acórdão n.º 435/2005 do Tribunal Constitucional.
+
+Contrapõe a coligação recorrente que, na ausência de indicação legal expressa do limite máximo de candidatos suplentes, nada justifica a exclusão dos suplentes, o que se justifica em homenagem aos direitos fundamentais de participação dos cidadãos na vida política. Radica ainda a sua posição num argumento de ordem literal, no sentido de que a LEOAL não estabelece expressamente qualquer limite máximo, e num argumento histórico, relembrando que a lei eleitoral pretérita consagrava um limite máximo, que a atual lei pretendeu omitir. Daqui concluiu no sentido de não ser aplicável qualquer limite máximo à lista de candidatos suplentes.
+
+6. No Acórdão n.º 462/2017, o Tribunal Constitucional decidiu questão análoga, com fundamentação diretamente aplicável ao caso vertente.
+
+Tal aresto manteve a orientação adotada no Acórdão n.º 435/2005, cuja fundamentação importa aqui recuperar:
+
+«O n.º 9 do artigo 23.º da Lei que regula a eleição dos titulares dos órgãos das autarquias locais, aprovada pela Lei Orgânica n.º 1/2001, de 14 de agosto (dora­vante desi­gnada por LEOAL), determina que “as listas, para além dos candidatos efetivos, devem in­dicar os candidatos suplentes em número não inferior a um terço, arredondado por excesso”.
+
+A indicação de que os candidatos suplentes devem ser em número não inferior a um terço do número dos candidatos efetivos significa que se visou estabelecer um mínimo de suplentes a integrar nas listas e não a imposição de uma percentagem fixa de suplentes relativamente aos efetivos.
+
+Este último era o regime estabelecido no n.º 7 do artigo 18.º da anterior lei eleitoral das autarquias locais – Decreto‑Lei n.º 701‑B/76, de 29 de setembro –, na sua versão originária, que dispunha: “As listas deverão indicar, além dos candidatos efetivos, suplentes, em número equivalente a um terço, arredondado por excesso, daqueles, sendo todos eles identi­ficados pelo nome completo e demais elementos de identificação”, mas na redação que lhe foi dada pela Lei n.º 14‑B/85, de 10 de julho, passou a dispor: “As listas deverão indicar, além dos candida­tos efetivos, suplentes, em número não inferior a um terço, arredondado por excesso, nem su­perior ao número daqueles, identificados pelo nome completo e demais ele­mentos de identifi­cação”. A falta de indicação expressa, no n.º 9 do artigo 23.º da atual LEOAL, de um limite máximo do número de suplentes não retira à menção de esse não poder ser inferior a um terço, arredondado por excesso, do número de efetivos a característica de estabelecimento de um limite mínimo.
+
+(…)
+
+Face à omissão, no n.º 8 do artigo 23.º da LEOAL, da menção expressa do li­mite máximo do número dos candidatos suplentes, deve considerar‑se aplicável a regra de que o máximo de candidatos suplentes é igual ao número dos efetivos, salvo disposição expressa em contrário, regra que se impõe por óbvias considerações de razoabilidade, e que se mani­festa, por exemplo, no artigo 15.º, n.º 1, da Lei Eleitoral para a Assembleia da República (Lei n.º 14/79, de 16 de maio), que dispõe que os candidatos suplentes devem ser em número não inferior a dois nem superior ao dos efetivos, não podendo exceder cinco. Nos processos eleitorais de que emergem os presentes recursos, a coligação recorrente nunca indicou número de candidatos suplentes superior ao dos efetivos, pelo que as decisões impugnadas, aten­dendo ao fundamento nelas invocado, não se poderão manter.»
+
+No Acórdão n.º 462/2017 escreve-se ainda o seguinte (ponto 8):
+
+«De acordo com a teoria da interpretação das leis, o resultado interpretativo obtido pelo recurso aos elementos literal e histórico deve ser confrontado com o elemento racional, que aponta para critérios de lógica e de razoabilidade. Ora, de acordo com estes critérios, é manifesta, conforme afirma o tribunal recorrido, a falta de razoabilidade da interpretação propugnada pela recorrente, pela desproporção entre o número de atos processuais que seria exigido aos tribunais, no controlo da legalidade das candidaturas, num prazo tão curto como o dos processos eleitorais, e a impossibilidade prática de os candidatos suplentes virem a ocupar os lugares a que se candidatam. Pelo que, presumindo que o legislador consagrou as soluções mais acertadas, conforme imposto pelo artigo 9.º, n.º 3, do Código Civil, tem que se aceitar como implícita na norma a fixação de um limite máximo de candidatos suplentes não superior ao número de candidatos efetivos.
+
+Contudo, a recorrente coloca ainda a questão de saber se o relevo social dos direitos fundamentais de participação política não exigiria a ausência de um limite máximo do número de candidatos suplentes, como forma de incentivar a democracia e a participação dos cidadãos nos assuntos públicos. Relativamente a este argumento, deve dizer-se que a composição da lista de candidatos suplentes por um número superior à lista de efetivos, representando lugares que, com toda a probabilidade, não são elegíveis (é praticamente impossível que todos os candidatos efetivos e ainda alguns suplentes desistam da candidatura ou estejam impossibilitados de desempenhar o cargo), tem apenas um valor meramente formal ou simbólico, que não justifica a tese interpretativa defendida pela recorrente, por não significar, na prática, a efetivação do direito de participação invocado.»
+
+No mesmo sentido se decidiu no âmbito dos processos n.os 806/2017 e 811/2017.
+
+Não havendo motivos para inverter a orientação adotada nos citados arestos, que aqui se reitera, resta confirmar a decisão recorrida que rejeitou os candidatos suplentes apresentados sob os números 8 a 22 na lista de candidatos pela coligação eleitoral «Afirmar Amarante» (PPD/PSD e CDS-PP) à Assembleia de Freguesia de Salvador do Monte, município de Amarante, para as eleições autárquicas de 1 de outubro de 2017.
+
+III. Decisão
+
+Em face do exposto, decide-se confirmar a decisão recorrida que rejeitou os candidatos suplentes apresentados sob os números oito (8) a vinte e dois (22) na lista de candidatos pela coligação eleitoral «Afirmar Amarante» (PPD/PSD e CDS-PP) à Assembleia de Freguesia de Salvador do Monte, município de Amarante, para as eleições autárquicas de 1 de outubro de 2017.
+
+Lisboa, 7de setembro de 2017 – Gonçalo de Almeida Ribeiro –– José António Teles Pereira - Maria de Fátima Mata-Mouros – Joana Fernandes Costa – Pedro Machete – Fernando Vaz Ventura – João Pedro Caupers

@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:cnpd:121820
+title: Diretriz da CNPD n.º 1/2019
+short_title: null
+summary: Comissão Nacional de Proteção de Dados — Relativa ao tratamento de dados pessoais no contexto de campanhas eleitorais
+  e marketing político
+jurisdiction: regulator
+territory: null
+document_type: diretriz-cnpd
+document_type_label: Diretriz da Comissão Nacional de Proteção de Dados
+issuing_authority:
+- Comissão Nacional de Proteção de Dados
+proposing_entity: null
+official_number: 1/2019
+official_date: '2019-03-25'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Entidade: Comissão Nacional de Proteção de Dados'
+language: por
+version:
+  kind: original
+  label: Texto da decisão publicada no site da CNPD
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:cnpd:121820
+source:
+  id: cnpd
+  name: Comissão Nacional de Proteção de Dados
+  official_url: https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121820
+  metadata_url: https://www.cnpd.pt/decisoes/historico-de-decisoes/?year=2019&type=5
+  content_url: https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121820
+  consolidated_url: null
+  retrieved_at: '2026-11-12T03:53:20Z'
+  retrieval_method: Histórico de decisões do site da CNPD (páginas HTML) e descarga do PDF de cada decisão; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: 2a9093128c84582f820f409c55a9fb4b550a502400d258c62b48e85e9589c354
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal CNPD
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect cnpd
+  generated_at: '2026-11-12T03:53:20Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: Comissão Nacional de Proteção de Dados (www.cnpd.pt) — todos os direitos reservados
+  reference: https://www.cnpd.pt/avisos-legais-e-outras-informacoes/
+  notes: Reprodução total ou parcial permitida com distribuição gratuita, integridade dos documentos e citação expressa do
+    site com a menção de direitos reservados; uso pessoal, associativo ou profissional, sem fins comerciais ou publicitários.
+    Só a cópia certificada tem valor legal.
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T03:53:20Z'
+  warnings: []
+  errors: []
+---
+
+# Diretriz da CNPD n.º 1/2019
+
+Processo ORI/2019/1 1
+AV. D. CARLOS I, 134 - 1º | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+DIRETRIZ/2019/1
+Relativa ao tratamento de dados pessoais no contexto de campanhas eleitorais e marketing político
+O contacto com os eleitores e o envio a cada cidadão eleitor de mensagens políticas é essencial ao funcionamento da democracia, enquanto importante contributo para a formação das convicções políticas e para a criação de condições de liberdade de escolha no âmbito de atos eleitorais.
+No contexto do marketing político e de campanhas eleitorais, não se ignora que os partidos políticos, as coligações políticas, os grupos de cidadãos eleitores e os candidatos utilizam cada vez mais dados pessoais e tecnologia sofisticada de criação de perfis para acompanhar e adaptar as mensagens a cada cidadão.
+Na verdade, o emprego de ferramentas de análise de dados, como foi demonstrado no caso da Cambridge Analytica, permite sistematizar a informação recolhida em sítios da Internet, redes sociais e aplicações informáticas (apps), relativa a opiniões, hábitos de vida, características e traços de cada um dos utilizadores, segundo perfis de personalidade ou de comportamento criados de forma automatizada, para, assim, ajustar e diferenciar as informações ou mensagens políticas e influenciar as escolhas de cada um.
+A falta de transparência destes processos potencia o risco de manipulação do acesso à informação e de condicionamento das liberdades de pensamento e de opinião, em desprezo dos princípios e regras por que se deve pautar a utilização de dados pessoais dos cidadãos.
+Por essa razão, aproximando-se vários períodos de campanha eleitoral em Portugal, a
+Comissão Nacional de Protecção de Dados (CNPD) vem definir um conjunto de orientações quanto ao tratamento de dados pessoais no contexto de campanhas eleitorais e de marketing político, com o objetivo de clarificar o regime jurídico vigente em matéria de tratamento de
+
+Processo ORI/2019/1 1v.
+AV. D. CARLOS I, 134 - 1º | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832 dados pessoais para fins de propaganda política, máxime o Regulamento Geral sobre a
+Proteção de Dados1
+.
+Estas orientações têm por principais destinatários os partidos políticos, os grupos de cidadãos eleitores, os candidatos, bem como as empresas que disponibilizam ou processam dados pessoais para propaganda política.
+O presente documento toma por base a Declaração 2/2019 adotada pelo Comité Europeu de
+Proteção de Dados no dia 13 de março2
+, tendo ainda em consideração as medidas apresentadas pela Comissão Europeia em setembro de 20183, bem como as conclusões do
+Conselho e dos Estados-Membros sobre a realização de eleições europeias livres e justas4
+.
+1. Os dados pessoais que revelem opiniões políticas correspondem a uma categoria de dados especialmente protegida5
+. Assim, o tratamento desses dados é, por princípio, proibido, e só pode realizar-se sob condições muito restritas6. De entre estas, destaca-se a hipótese de os cidadãos terem dado o seu consentimento explícito, plenamente informado, livre e específico para a finalidade de marketing político.
+ Tal supõe a transparência do tratamento dos dados pessoais: quem recolhe os dados ou quem os reutiliza tem de informar o titular dos dados sobre o tratamento; designadamente, tem de tornar claro quem é o responsável pelo tratamento dos dados, que informação sobre ele é recolhida e utilizada, para 1 Regulamento (UE) 2016/679, de 27 de abril de 2016, doravante, RGPD.
+2Acessível em https://edpb.europa.eu/our-work-tools/our-documents/other/statement-22019-use-personal-data-course-political-campaigns_pt .
+3 Em especial, as Orientações sobre a aplicação da legislação da União Europeia em matéria de proteção de dados e a Recomendação sobre as redes de cooperação eleitoral, a transparência em linha, a proteção contra os incidentes de cibersegurança e a luta contra as campanhas de desinformação:Https://ec.europa.eu/commission/sites/beta-political/files/soteu2018-cybersecurity-elections-recommendation-5949_en.pdf.
+4Https://data.consilium.europa.eu/doc/document/ST-6573-2019-REV-1/en/pdf.
+5 Cf. n.º 3 do artigo 35.º da Constituição da República Portuguesa, artigo 8.º da Carta dos Direitos Fundamentais da União Europeia e n.º 1 do artigo 9.º do RGPD.
+6 Previstas no n.º 2 do artigo 9.º do RGPD.
+
+Processo ORI/2019/1 2
+AV. D. CARLOS I, 134 - 1º | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832 que específica finalidade ou específicas finalidades são recolhidos ou utilizados os dados, onde são recolhidos (quando os dados não tenham sido recolhidos junto do titular).
+ Destaca-se que o dever de informação recai tanto sobre aqueles que recolhem diretamente os dados pessoais junto do titular (v.g., data brokers, empresas que fornecem aplicações informáticas ou que exploram redes sociais), como sobre os partidos políticos, grupos de cidadãos de eleitores ou candidatos quando utilizam bases de dados pessoais fornecidas por terceiros para efeito de propaganda política ou marketing político.
+2. Os dados pessoais que foram manifestamente tornados públicos por cada pessoa, mesmo que não sejam dados reveladores de opiniões políticas, continuam a estar sujeitos e protegidos pelo RGPD. Essa informação não pode ser utilizada por terceiros sem cumprir as obrigações legais no plano da transparência (dever de informação) e de respeito pelo princípio da finalidade e pelo princípio da proporcionalidade.
+ Importa esclarecer que aqui está em causa informação manifestamente revelada pelas pessoas sobre si próprias no contexto da comunicação social ou, porventura, em redes sociais em espaço aberto ao público indiferenciado, não se podendo legitimar por esta via a utilização de informação inferida a partir dos dados tornados públicos pelo próprio.
+3. Mesmo nos casos em que o tratamento é lícito, i.e., assenta numa das condições previstas no n.º 2 do artigo 9.º do RGPD, as empresas e os partidos políticos (e demais atores no contexto das campanhas eleitorais) têm de cumprir os seus outros deveres ao abrigo do
+RGPD, incluindo o dever de informar as pessoas sobre o facto de estarem a analisá-las e a tratar os seus dados pessoais, quer os dados tenham ou não sido obtidos diretamente dos cidadãos. Os partidos políticos e os candidatos devem estar prontos para demonstrar de que forma cumpriram os princípios e regras de proteção de dados.
+
+Processo ORI/2019/1 2v.
+AV. D. CARLOS I, 134 - 1º | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832 4. O processo de tomada de decisões exclusivamente automatizado, incluindo a criação de perfis, quando a decisão afetar os direitos das pessoas a que diz respeito ou as afetar significativamente de modo similar, está sujeito a restrições legais. A definição de perfis relacionados com a transmissão especialmente dirigida de conteúdos de informação ou de divulgação políticas específicas pode, em determinadas circunstâncias, afetar de modo significativo os cidadãos, pelo que, em princípio, só podem ter lugar com o consentimento explícito dos mesmos.
+ Por isso, quando as mensagens são especialmente dirigidas a determinado eleitor ou conjunto de eleitores pré-determinado por via de um processo automatizado, deve ser fornecida informação adequada aos eleitores explicando por que razão recebem uma determinada mensagem, quem é o responsável pela mesma e como podem exercer os seus direitos enquanto titulares dos dados.
+5. Para além disso, os partidos políticos, bem como os grupos de cidadãos, estão legitimados a tratar os dados pessoais dos seus membros ou antigos membros, ou ainda de pessoas com quem tenham contacto regular no contexto da sua atividade, como poderá suceder com simpatizantes de partidos.
+ A este propósito, recorda-se especificamente que a licitude do tratamento dos dados não depende apenas da verificação da condição para a realização do tratamento, mas também do respeito pelo princípio da minimização dos dados pessoais; o que significa que só podem ser utilizados dados pessoais que sejam adequados, necessários e não excessivos em relação à prossecução da finalidade de gestão dos partidos ou grupos de cidadãos neste contexto (não sendo admissível, por exemplo, o tratamento de dados de geolocalização para monitorização de comportamentos).
+
+Processo ORI/2019/1 3
+AV. D. CARLOS I, 134 - 1º | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832 6. Note-se ainda que, nos termos da lei nacional, os partidos políticos e grupos de cidadãos eleitores podem ainda aceder a certos dados pessoais dos cidadãos eleitores no contexto de campanhas ou atos eleitorais, a saber:
+i. Listas dos eleitores, com identificação e morada, que residem no estrangeiro7;
+ii. Cadernos de recenseamento eleitoral (onde constam apenas dados de identificação).
+7. No que diz respeito ao envio de marketing político há um regime legal especial aplicável sempre que o envio se faça, por qualquer forma (v.g., correio eletrónico, SMS, MMS, telefone), no contexto das comunicações eletrónicas8 9. E dele decorre que só pode ser enviado marketing político com o consentimento explícito, informado, livre e específico para a finalidade de marketing político do titular dos dados.
+Por outras palavras, antes do envio de marketing, o partido, o grupo de cidadãos eleitores ou o candidato tem de se certificar que:
+7 O processo eleitoral no estrangeiro obedece a regras próprias, que tomam em conta a ausência dos eleitores do território nacional. Especificamente, as moradas dos portugueses aí residentes vêm indicadas nos cadernos de recenseamento eleitoral (o que não sucede com os eleitores com residência em território nacional), tendo os partidos políticos legitimidade para obterem cópias daqueles cadernos exclusivamente para a finalidade de promoção e realização da campanha eleitoral – (e apenas nesta fase, devendo tais dados ser depois por eles eliminados) – cf. n.ºs 3 a 5 do artigo 54.º da Lei n.º 14/79, de 16 de maio, na redação dada pela Lei Orgânica n.º 3/2018, de 17 de agosto.
+8 É o regime da proteção da privacidade no setor das comunicações eletrónicas, aprovado pela Lei n.º 41/2004, de 18 de agosto, alterada pela Lei n.º 46/2012, de 29 de agosto, em transposição da diretiva europeia.
+9 De notar que as chamadas telefónicas estão também compreendidas no mesmo regime, uma vez que a lei nacional não as exclui. Aliás, as chamadas telefónicas (automatizadas ou não) podem ser até mais intrusivas e perturbadoras do direito ao descanso do que outras formas de comunicação, pela sua natureza e considerando a hora a que por regra são efetuadas.
+
+Processo ORI/2019/1 3v.
+AV. D. CARLOS I, 134 - 1º | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832 i. Obteve os dados de contacto, ou de contacto e de identificação, diretamente dos titulares e, nessa ocasião, este consentiu de forma inequívoca, e através de um ato positivo, na sua utilização para envio de marketing político; ou ii. Os referidos dados lhe foram fornecidos por terceiros (v.g., empresas) e que estes dispõem da prova de que os titulares dos dados deram o consentimento inequívoco e específico para a finalidade de marketing político, não bastando por isso um consentimento genérico para marketing.
+Reitera-se que o cumprimento dos princípios e regras de proteção de dados pessoais, nomeadamente no contexto das campanhas eleitorais e atos eleitorais, é essencial para proteger a democracia. E constitui um meio de preservar a confiança dos cidadãos no Estado de Direito e na integridade dos atos de eleição dos seus representantes.
+Aprovada na sessão plenária da Comissão Nacional de Protecção de Dados de 25 de março de 2019.

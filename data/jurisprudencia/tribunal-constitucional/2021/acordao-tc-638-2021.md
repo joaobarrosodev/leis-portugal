@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:tc:acordao:2021:638
+title: Acórdão do Tribunal Constitucional n.º 638/2021
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: acordao-tribunal-constitucional
+document_type_label: Acórdão do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 638/2021
+official_date: '2021-07-26'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 800/21'
+- 'Espécie: Eleitoral'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:acordao:2021:638
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/acordaos/20210638.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/acordaos/20210601-0700.html
+  content_url: https://www.tribunalconstitucional.pt/tc/acordaos/20210638.html
+  consolidated_url: null
+  retrieved_at: '2026-11-12T04:18:38Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: 62ff9064251259f4a32114ee9bb949033299b2a9473b40ed6639d323d5b6164c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc
+  generated_at: '2026-11-12T04:18:38Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T04:18:38Z'
+  warnings: []
+  errors: []
+---
+
+# Acórdão do Tribunal Constitucional n.º 638/2021
+
+ACÓRDÃO N.º 638/2021
+
+Processo n.º 800/2021
+
+2.ª Secção
+
+Relatora: Conselheira Mariana Canotilho
+
+Acordam na 2ª Secção do Tribunal Constitucional
+
+1. O Partido da Terra, com a sigla “MPT”, e o Partido Democrático Republicano, com a sigla “PDR”, requereram, em 23 de julho de 2021, nos termos e para os efeitos do disposto no n.º 2 do artigo 17.º da Lei Orgânica n.º 1/2001, de 14 de agosto (Lei Eleitoral dos Órgãos das Autarquias Locais ou LEOAL), a apreciação e anotação de coligação eleitoral, denominada “O NOSSO PARTIDO É ÓBIDOS”, a que corresponde a sigla e o símbolo indicados no cabeçalho do mesmo requerimento, com vista a concorrer aos órgãos das autarquias locais do concelho do Óbidos, nas eleições autárquicas marcadas para o dia 26 de setembro de 2021.
+
+2. O requerimento encontra-se subscrito por Pedro Soares Pimenta, pelo Partido da Terra, e por Bruno Alexandre Ramalho Fialho, pelo Partido Democrático Republicano, com reconhecimento das respetivas assinaturas. Mostra-se instruído com os seguintes documentos:
+
+- Acordo de constituição de coligação eleitoral autárquica entre os partidos requerentes, datado de 19 de junho de 2021, subscrito pelos representantes dos órgãos competentes dos partidos (in casu, os presidentes da respetiva Comissão Política Nacional) com menção da correspondente denominação, sigla e símbolo, abrangendo a Câmara Municipal, a Assembleia Municipal e todas as Assembleias de Freguesia do concelho de Óbidos;
+
+- Cópia de extrato da ata da reunião de 12 de julho de 2021 da Comissão Política Nacional do Partido da Terra, da qual consta a aprovação, na sequência da orientação firmada pelo Conselho Nacional, da proposta de constituição da coligação “O NOSSO PARTIDO É ÓBIDOS”, cuja anotação se requer, bem como a autorização concedida ao presidente da Comissão Política Nacional para formalizar a mesma e assinar os documentos necessários à sua celebração;
+
+- Cópia de extrato da ata da reunião de 12 de julho de 2021 do Conselho Nacional do Partido da Terra, da qual consta a aprovação da proposta de constituição da coligação “O NOSSO PARTIDO É ÓBIDOS”, cuja anotação se requer, bem como a autorização concedida ao presidente da Comissão Política Nacional para formalizar a mesma e assinar os documentos necessários à sua celebração;
+
+- Cópia de extrato da ata XVI da reunião de 16 de julho de 2021 da Comissão Política do Partido Democrático Republicano, da qual consta a aprovação da proposta de constituição da coligação “O NOSSO PARTIDO É ÓBIDOS”, cuja anotação se requer, bem como a delegação concedida ao presidente da referida Comissão Política para elaborar e subscrever o documento de constituição de tal coligação, além de assinar ou ratificar os documentos necessários à sua aprovação pelo Tribunal Constitucional;
+
+- Página das edições de 23 de julho de 2021 do Jornal de Notícias e também de 23 de julho de 2021 do Correio da Manhã, onde consta anúncio público da coligação “O NOSSO PARTIDO É ÓBIDOS”, com os elementos indicados no requerimento de anotação.
+
+3. Nos termos da alínea b) do n.º 1 do artigo 16º da LEOAL, podem ser apresentadas listas para a eleição dos órgãos das autarquias locais por “coligações de partidos para fins eleitorais”. A constituição da coligação deve constar de documento subscrito por representantes dos órgãos competentes dos partidos e, até ao 65.º dia anterior ao da realização da eleição, deve ser comunicada ao Tribunal Constitucional, mediante junção do documento referido e com menção das respetivas denominação, sigla e símbolo, de acordo com o n.º 2 do artigo 17.º da mesma Lei Orgânica. Estabelece ainda a LEOAL, no n.º 3 do artigo 17.º, que “a sigla e o símbolo devem reproduzir rigorosamente o conjunto dos símbolos e siglas de cada um dos partidos que as integram”.
+
+Nos termos dos artigos 9.º, alínea b), e 103.º, n.º 1, da LTC, e 18.º, n.º 1, da LEOAL, compete ao Tribunal Constitucional apreciar a legalidade das denominações, siglas e símbolos das coligações para fins eleitorais, bem como a sua identidade e semelhança com as de outros partidos, coligações ou frentes, e proceder à respetiva anotação.
+
+Cumpre decidir.
+
+4. Face aos registos existentes neste Tribunal, os subscritores do requerimento dispõem de poderes para o efeito. Considerando que, por meio do Decreto n.º 18-A/2021, de 7 de julho, foi fixada a data de 26 de setembro de 2021 para a realização das eleições gerais para os órgãos das autarquias locais, o requerimento encontra-se em tempo.
+
+Constata-se, ainda, que a denominação e a sigla da coligação em apreço não incorrem em ilegalidade, face ao artigo 12.º, n.ºs 1 a 3, da Lei Orgânica n.º 2/2003, de 22 de agosto (Lei dos Partidos Políticos), não se confundindo com os correspondentes elementos de outros partidos políticos ou de coligações constituídas por outros partidos.
+
+Verifica-se, igualmente, que símbolo e a sigla são compostos, respetivamente, pelo conjunto dos símbolos e siglas dos partidos que integram a coligação, reproduzindo-os integralmente, assim se observando o artigo 12.º, n.º 4, da mesma Lei Orgânica.
+
+5. Quanto às deliberações de constituição da coligação em apreço, foram tomadas pelos órgãos estatutariamente competentes dos partidos que se propõem integrá-la, de acordo com o disposto nos artigos 8.º, 26.º, n.º 1, alínea c) e 29.º, n.º 2, alínea u) dos Estatutos do MPT e nos artigos 11.º e 13.º dos Estatutos do PDR.
+
+6. Em face do exposto, decide-se:
+
+a) Nada haver que obste a que a coligação entre o Partido da Terra e o Partido Democrático Republicano, constituída com a finalidade de concorrer às eleições autárquicas de 2021 para os órgãos das autarquias locais do concelho de Óbidos, com a sigla MPT.PDR, e o símbolo constante do anexo ao presente acórdão, adote a denominação “O NOSSO PARTIDO É ÓBIDOS”;
+
+b) Determinar a anotação da referida coligação, procedendo-se à publicação, passagem de certidão e notificação previstas nos n.ºs 2 e 4 do artigo 18.º da Lei Orgânica n.º 1/2001, de 14 de agosto.
+
+Lisboa, 26 de julho de 2021 - Mariana Canotilho
+
+A Relatora atesta o voto de conformidade do Senhor Vice-Presidente, Conselheiro Pedro Machete, e dos Senhores Conselheiros Fernando Vaz Ventura e Assunção Raimundo, que intervieram por meios telemáticos.
+
+Mariana Canotilho
+
+Anexo ao Acórdão do Tribunal Constitucional n.º 638/21
+
+de 26 de julho de 2021.
+
+COLIGAÇÃO MPT.PDR
+
+Denominação:
+
+· Concelho do Óbidos, Distrito de Leiria, com a denominação O NOSSO PARTIDO É ÓBIDOS
+
+Sigla: MPT.PDR
+
+Símbolo:

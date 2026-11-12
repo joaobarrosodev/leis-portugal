@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:cnpd:121754
+title: Parecer da CNPD n.º 48/2020
+short_title: null
+summary: Instituto dos Registos e do Notariado, I.P. (IRN) — Protocolo de acesso à base de dados do registo de automóveis
+  - Loulé Concelho Global, E.M.
+jurisdiction: regulator
+territory: null
+document_type: parecer-cnpd
+document_type_label: Parecer da Comissão Nacional de Proteção de Dados
+issuing_authority:
+- Comissão Nacional de Proteção de Dados
+proposing_entity: null
+official_number: 48/2020
+official_date: '2020-04-17'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Entidade: Instituto dos Registos e do Notariado, I.P. (IRN)'
+language: por
+version:
+  kind: original
+  label: Texto da decisão publicada no site da CNPD
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:cnpd:121754
+source:
+  id: cnpd
+  name: Comissão Nacional de Proteção de Dados
+  official_url: https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121754
+  metadata_url: https://www.cnpd.pt/decisoes/historico-de-decisoes/?year=2020&type=4
+  content_url: https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121754
+  consolidated_url: null
+  retrieved_at: '2026-11-12T02:55:59Z'
+  retrieval_method: Histórico de decisões do site da CNPD (páginas HTML) e descarga do PDF de cada decisão; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: e18fabeb7183544795620bf779dc175a52dccd3b9b9572c0426a180d0936de3a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal CNPD
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect cnpd
+  generated_at: '2026-11-12T02:55:59Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: Comissão Nacional de Proteção de Dados (www.cnpd.pt) — todos os direitos reservados
+  reference: https://www.cnpd.pt/avisos-legais-e-outras-informacoes/
+  notes: Reprodução total ou parcial permitida com distribuição gratuita, integridade dos documentos e citação expressa do
+    site com a menção de direitos reservados; uso pessoal, associativo ou profissional, sem fins comerciais ou publicitários.
+    Só a cópia certificada tem valor legal.
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T02:55:59Z'
+  warnings: []
+  errors: []
+---
+
+# Parecer da CNPD n.º 48/2020
+
+Processo PAR/2020/29 1
+Av. D. Carlos I, 134 - 1º | 1200-651 LISBOA | https://www.cnpd.pt | Tel: 213 928 400 | Fax: 213 976 832
+PARECER/2020/48
+O Instituto de Registos e Notariado, I.P. (IRN), solicitou à Comissão Nacional de
+Proteção de Dados (CNPD) a emissão de parecer sobre um protocolo que visa regular o acesso da Loulé Concelho Global, E.M., Unipessoal, S.A., ao registo automóvel.
+O pedido é efetuado ao abrigo da alínea d) do n.º 2 do artigo 27.º-D e dos n.ºs 2, 3 e 7 do artigo 27.º-E do Registo Automóvel1
+.
+São partes no protocolo o IRN, o Instituto de Gestão Financeira e Equipamentos da
+Justiça, I.P. (IGFEJ), e a Loulé Concelho Global, E.M., Unipessoal, S.A (LCG).
+Nos termos da Cláusula 1.ª do protocolo, a LGG é autorizada a aceder à informação do registo de veículos mediante consulta em linha à respetiva base de dados, localizada no IGFEJ, para a finalidade exclusiva de prossecução da sua competência legal, no âmbito da fiscalização do cumprimento das disposições do Código da
+Estrada e demais legislações complementar, nas vias públicas, incluindo estacionamento, sob a jurisdição do Município de Loulé.
+Para a finalidade acima indicada são acedidos os seguintes dados pessoais: nome, residência habitual, número e data do documento de identificação e número de identificação fiscal, quando disponível, ou firma, sede e número de pessoa coletiva, do proprietário, locatário ou usufrutuário, e ainda os ónus ou encargos.
+Os acessos à base de dados, que ficam registados no sistema durante dois anos, a fim de permitir a realização de auditorias, são feitos por matrícula do veículo e devem identificar obrigatoriamente o número do processo ou do auto de notícia a que respeitam, sem os quais as pesquisas não poderão prosseguir (cf. Cláusula 2.ª).
+O acesso realiza-se por dois tipos de canais, alternativos, em ambos os casos com implementação de túneis IPSEC, para garantir a confidencialidade dos dados.
+Nos termos da Cláusula 3.º do Protocolo, a LCG vincula-se a cumprir as disposições legais em matéria de proteção de dados pessoais constantes do Regulamento (UE)
+2016/679, de 27 de abril de 2016, Regulamento Geral sobre a Proteção de Dados (RGPD), e Lei da n.º 58/2019, de 8 de agosto, designadamente quanto ao respeito pela finalidade, não utilizando a informação para outros fins, não transmitindo a informação a terceiros, nem efetuando qualquer interconexão de dados pessoais e a adotar as medidas de segurança necessárias.
+1 Decreto-Lei n.º 54/75, de 12 de fevereiro, alterado por último pelo Decreto-Lei n.º 111/2019, de 16 de agosto
+
+Processo PAR/2020/29 1v
+Av. D. Carlos I, 134 - 1º | 1200-651 LISBOA | https://www.cnpd.pt | Tel: 213 928 400 | Fax: 213 976 832
+Na mesma Cláusula (n.º 3) admite-se a possibilidade de a LCG subcontratar entidades terceiras para a execução deste protocolo, ficando vinculada a assegurar o cumprimento e o estabelecimento de todas as medidas técnicas e organizativas necessárias para manter a segurança dos dados pessoais contra qualquer acesso ilegal ou tratamento não autorizado, assegurar que as pessoas envolvidas estão sujeitas a confidencialidade e a dar conhecimento ao IRN de todas as informações necessárias para demonstrar o cumprimento das obrigações previstas no RGPD, incluindo, facilitar e contribuir para as auditorias e inspeções, conduzidas pelo IRN, ou por outro auditor por este mandatado.
+Ainda nos termos do protocolo, a LCG obriga-se a comunicar previamente ao IRN a identificação dos utilizadores do acesso à base de dados, mediante indicação do nome, da categoria/função e NIF, tendo em vista a atribuição de credenciais de ligação ao sistema, sendo que cada utilizador receberá, em carta fechada, uma palavra-chave pessoal, que o responsabilizará pelo uso que fizer do serviço. O IGFEJ atribuirá um utilizador aplicacional e respetiva palavra-chave à LCG para acesso aos webservices disponibilizados.
+I. Apreciação
+A possibilidade de os municípios acederem ao registo automóvel decorre das disposições conjugadas da alínea d) do n.º 1 e da alínea a) do n.º 3 do artigo 5.º do
+Decreto-lei n.º 44/2005, de 27 de fevereiro, alterado, por último, pelo Decreto-Lei n.º 146/2014, de 9 de outubro.
+A LCG é, nos termos do Regulamento Geral das Zonas de Estacionamento de
+Duração Limitada2 a entidade a quem compete a fiscalização do cumprimento das normas de estacionamento de veículos e de circulação rodoviária, incluindo a participação de acidentes de viação, na área territorial do Município de Loulé
+De acordo com a alínea d) do n.º 2 do artigo 27.º-D do Código da Estrada, os dados pessoais do registo automóvel devem ser comunicados, para a prossecução das respetivas atribuições, às entidades a quem incumba a fiscalização do Código da
+Estrada. Também os n.ºs 2, 3 e 7 do artigo 27.º-E do mesmo diploma permitem que a essas entidades seja autorizada a consulta em linha de transmissão de dados, 2 Aprovado em sessão ordinária da Assembleia Municipal de Loulé, em 21 de abril e publicado no Diário da República, 2.ª série, n.º 84, de 30 de abril de 2010.
+
+Processo PAR/2020/29 2
+Av. D. Carlos I, 134 - 1º | 1200-651 LISBOA | https://www.cnpd.pt | Tel: 213 928 400 | Fax: 213 976 832 desde que observadas garantias de segurança e condicionada à celebração de protocolo.
+Deste modo, há fundamento de legitimidade para este tratamento de dados pessoais, na vertente de acesso, ao abrigo da alínea e) do n.º 1 do artigo 6.º do RGPD.
+O n.º 4 do artigo 27-H do Registo Automóvel obriga que as entidades com competência para consultar esse registo mantenham uma lista atualizada das pessoas autorizadas a aceder à base de dados. Deste modo, a LCG está obrigada a manter esta lista, que deverá estar atualizada de modo a limitar a possibilidade de acessos indevidos por utilizadores que já não têm legitimidade para efetuar o acesso.
+Naturalmente que esta obrigação decorre da lei, mas a sua transposição para a
+Cláusula 5.ª terá um efeito potenciador do seu cumprimento e possibilitará que o
+IRN, a todo o momento, possa determinar ao IGFEJ que as credenciais de acesso sejam desativadas.
+A intervenção do IGFEJ neste protocolo decorre da atribuição prevista na alínea m)
+do n.º 2 do artigo 3.º do Decreto-lei n.º 164/2012, de 31 de julho.
+No que respeita às medidas de segurança, sem prejuízo da necessidade da permanente verificação da sua conformidade, as mesmas afiguram-se apropriadas.
+II. Conclusão
+Assim, com as observações supra, considera a CNPD não existir qualquer impedimento à celebração do protocolo.
+Lisboa, 17 de abril de 2020
+Filipa Calvão (Presidente, que relatou)

@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:cnpd:22461
+title: Registo da CNPD n.º 99/2010
+short_title: null
+summary: H.P.T. - HOSPITAL PRIVADO DA TROFA — processamento de remunerações
+jurisdiction: regulator
+territory: null
+document_type: registo-cnpd
+document_type_label: Registo da Comissão Nacional de Proteção de Dados
+issuing_authority:
+- Comissão Nacional de Proteção de Dados
+proposing_entity: null
+official_number: 99/2010
+official_date: null
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Entidade: H.P.T. - HOSPITAL PRIVADO DA TROFA'
+language: por
+version:
+  kind: original
+  label: Texto da decisão publicada no site da CNPD
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:cnpd:22461
+source:
+  id: cnpd
+  name: Comissão Nacional de Proteção de Dados
+  official_url: https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22461
+  metadata_url: https://www.cnpd.pt/decisoes/historico-de-decisoes/?year=2010&type=3
+  content_url: https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22461
+  consolidated_url: null
+  retrieved_at: '2026-11-12T04:21:43Z'
+  retrieval_method: Histórico de decisões do site da CNPD (páginas HTML) e descarga do PDF de cada decisão; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: a60aed8d606154072ef372125cbe26fcf1d93cc2a9fd18eb432eeee882267518
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal CNPD
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect cnpd
+  generated_at: '2026-11-12T04:21:43Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: Comissão Nacional de Proteção de Dados (www.cnpd.pt) — todos os direitos reservados
+  reference: https://www.cnpd.pt/avisos-legais-e-outras-informacoes/
+  notes: Reprodução total ou parcial permitida com distribuição gratuita, integridade dos documentos e citação expressa do
+    site com a menção de direitos reservados; uso pessoal, associativo ou profissional, sem fins comerciais ou publicitários.
+    Só a cópia certificada tem valor legal.
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T04:21:43Z'
+  warnings: []
+  errors: []
+---
+
+# Registo da CNPD n.º 99/2010
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 414/2010
+REGISTO N.º 99 /2010
+O HPT - Hospital Privado da Trofa, S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade de processamento de salários.
+A entidade encarregue do processamento dos dados é a Logibérica – Sistemas de
+Informação, Lda.
+Os dados são recolhidos directamente por telefone, Internet e pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do artº 5º da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos da alínea a)
+do artigo 6º da LPD, a execução de obrigações contratuais.
+Assim, regista-se, nos termos dos artigos 27º n.º 1 e 30º n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável HPT - Hospital Privado da Trofa, S.A.
+Finalidade Processamento de salários.
+Categoria de dados pessoais tratados
+Dados de identificação, contactos, actividade profissional e remuneração.
+Comunicação de dados Não há.
+Forma de exercício do direito de acesso e
+Junto do responsável pelo tratamento dos dados.
+rectificação
+Interconexões Não há.
+Fluxo transfronteiriço de
+Não há.
+dados
+Conservação dos dados 3 anos após a cessação do vínculo contratual, sem prejuízo da conservação offline para fins de arquivo histórico.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10º da LPD.
+Lisboa, 12/04/2010
+A Secretária da CNPD, (Isabel Cristina Cruz)
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 9201/2008
+REGISTO N.º 100 /2010
+O HPT - Hospital Privado da Trofa, S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de pedidos internos de equipamentos e serviços.
+A entidade encarregue do processamento dos dados é a Logibérica – Sistemas de
+Informação, Lda.
+Os dados são recolhidos directa e pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do artº 5º da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos da alínea a)
+do artigo 6º da LPD, a execução de obrigações contratuais.
+Assim, regista-se, nos termos dos artigos 27º n.º 1 e 30º n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável HPT - Hospital Privado da Trofa, S.A.
+Finalidade Gestão de pedidos internos de equipamentos e serviços.
+Categoria de dados
+Dados de identificação dos colaboradores.
+pessoais tratados
+Comunicação de dados Não há.
+Forma de exercício do direito de acesso e
+Junto do responsável pelo tratamento dos dados.
+rectificação
+Interconexões Não há.
+Fluxo transfronteiriço de
+Não há.
+dados
+Conservação dos dados 1 ano.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10º da LPD.
+Lisboa, 12/04/2010
+A Secretária da CNPD, (Isabel Cristina Cruz)
