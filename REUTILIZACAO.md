@@ -35,6 +35,23 @@ Inclui o catálogo do Jornal Oficial dos Açores que o DRE guarda.
 - **Atribuição:** "União Europeia, EUR-Lex / Publicações da União Europeia".
 - **Atenção:** só os textos publicados no Jornal Oficial da União Europeia fazem fé. As versões consolidadas são instrumentos de documentação sem valor jurídico. Não apresente material editorial como texto oficial.
 
+### Comissão Nacional de Proteção de Dados (CNPD)
+
+Decisões em `data/entidades/cnpd/` (pareceres, deliberações, diretrizes, regulamentos, registos e autorizações).
+
+- **Base:** os [avisos legais do site da CNPD](https://www.cnpd.pt/avisos-legais-e-outras-informacoes/). A reprodução total ou parcial é permitida se a distribuição for gratuita, os documentos se mantiverem íntegros e o site for citado com a menção de direitos reservados.
+- **Limites:** só para fins pessoais, associativos ou profissionais. **Não são permitidos fins comerciais nem publicitários.**
+- **Atribuição:** "Comissão Nacional de Proteção de Dados (www.cnpd.pt) — todos os direitos reservados".
+- **Atenção:** são decisões de uma entidade administrativa independente, não legislação. Só a cópia certificada tem valor legal. O texto é extraído do PDF; os PDF digitalizados ficam só com os metadados e a ligação ao PDF.
+
+### Tribunal Constitucional
+
+Acórdãos em `data/jurisprudencia/tribunal-constitucional/`.
+
+- **Base:** o site do Tribunal Constitucional declara todos os direitos reservados e autoriza a reprodução **para fins privados**, com citação da fonte e da natureza não autêntica do texto. Por isso, o bloco `reuse` destes registos tem `status: restricted`.
+- **Atribuição:** "Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados".
+- **Atenção:** o texto do site não tem carácter autêntico. A versão oficial é a dos arquivos do Tribunal e, para os acórdãos publicados no Diário da República, a do DR (o registo liga-lhe com `published_in`). Antes de reutilizar estes textos fora do uso privado, confirme as condições com o Tribunal.
+
 ## Boas práticas
 
 - **Mantenha a atribuição** e a ligação à fonte oficial (`source.official_url`) junto de cada texto que reutiliza — também em índices de pesquisa, embeddings e respostas geradas por IA.

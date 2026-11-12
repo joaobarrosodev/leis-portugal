@@ -1,4 +1,4 @@
-"""collect dre | eurlex | dre-consolidated"""
+"""collect dre | eurlex | dre-consolidated | cnpd | tc"""
 
 from __future__ import annotations
 
@@ -6,15 +6,19 @@ import sys
 from datetime import date
 
 from leis_portugal.cli.output import acervo, progress, write_failures
+from leis_portugal.infrastructure.repository import ENTITIES_SCOPE
 from leis_portugal.infrastructure.sitemap_cache import CachedSitemapClient
 from leis_portugal.services.coverage import TypeCoverage, sitemap_coverage, write_coverage
+from leis_portugal.services.decisions import CnpdIngestion, DecisionRunSummary, TcIngestion, ids_without_text
 from leis_portugal.services.dre import DreIngestion, imported_references
 from leis_portugal.services.eu_versions import collect_eu_versions
 from leis_portugal.services.eurlex import EurLexIngestion
 from leis_portugal.services.referenced import missing_references, referenced_refs
 from leis_portugal.services.versions import collect_versions
+from leis_portugal.sources import cnpd, tc
 from leis_portugal.sources.dre.client import split_sitemap_ref
 from leis_portugal.sources.dre.consolidated import consolidated_entry
+from leis_portugal.sources.pdftext import extractor_available
 
 
 def register(commands) -> None:
@@ -77,6 +81,28 @@ def register(commands) -> None:
     consolidated.add_argument("--limit", type=int, default=None, help="Recolher no máximo N diplomas.")
     consolidated.add_argument("--workers", type=int, default=2, help="Sessões DRE em paralelo (por omissão: 2).")
     consolidated.set_defaults(handler=collect_consolidated)
+
+    cnpd_parser = sources.add_parser("cnpd", help="Recolher decisões da CNPD (pareceres, deliberações, diretrizes, registos, autorizações...).")
+    cnpd_parser.add_argument(
+        "--types", default=",".join(cnpd.TYPES),
+        help=f"Tipos, separados por vírgulas, pela ordem de recolha (por omissão: {','.join(cnpd.TYPES)}).",
+    )
+    cnpd_parser.add_argument("--from-year", type=int, default=cnpd.FIRST_YEAR, help=f"Primeiro ano (por omissão: {cnpd.FIRST_YEAR}).")
+    cnpd_parser.add_argument("--to-year", type=int, default=date.today().year, help="Último ano (por omissão: o atual).")
+    cnpd_parser.add_argument("--limit", type=int, default=None, help="Recolher no máximo N decisões.")
+    cnpd_parser.add_argument("--refresh", action="store_true", help="Descarregar de novo as decisões já gravadas.")
+    cnpd_parser.add_argument(
+        "--without-text", action="store_true",
+        help="Só as decisões já gravadas sem texto (PDF digitalizado), para as tratar de novo com OCR.",
+    )
+    cnpd_parser.set_defaults(handler=collect_cnpd)
+
+    tc_parser = sources.add_parser("tc", help="Recolher acórdãos do Tribunal Constitucional (do ano mais recente para o mais antigo).")
+    tc_parser.add_argument("--from-year", type=int, default=tc.FIRST_YEAR, help=f"Ano mais antigo (por omissão: {tc.FIRST_YEAR}).")
+    tc_parser.add_argument("--to-year", type=int, default=date.today().year, help="Ano mais recente (por omissão: o atual).")
+    tc_parser.add_argument("--limit", type=int, default=None, help="Recolher no máximo N acórdãos.")
+    tc_parser.add_argument("--refresh", action="store_true", help="Descarregar de novo os acórdãos já gravados.")
+    tc_parser.set_defaults(handler=collect_tc)
 
 
 def collect_dre(args) -> int:
@@ -239,3 +265,38 @@ def collect_eurlex_consolidated(args) -> int:
         f"sem consolidações: {summary.skipped}; falhas: {len(summary.failures)}"
     )
     return 1 if summary.failures and not (summary.written or summary.unchanged) else 0
+
+
+def _decision_report(summary: DecisionRunSummary, label: str) -> int:
+    print(
+        f"{label}: {summary.listed} na listagem; já no acervo: {summary.skipped}; recolhidos: {len(summary.results)} "
+        f"(gravados: {summary.changed}; sem texto: {summary.without_text}); falhas: {len(summary.failures)}"
+    )
+    return 1 if summary.failures and not summary.results else 0
+
+
+def collect_cnpd(args) -> int:
+    repository = acervo(args)
+    types = [item.strip() for item in args.types.split(",") if item.strip()]
+    unknown = [item for item in types if item not in cnpd.TYPES]
+    if unknown:
+        raise ValueError(f"Tipos CNPD desconhecidos: {', '.join(unknown)} (válidos: {', '.join(cnpd.TYPES)})")
+    if not extractor_available():
+        progress("Aviso: sem extrator de PDF (pypdf ou LEIS_PORTUGAL_PDFTEXT): as decisões ficam só com os metadados.")
+    only = ids_without_text(repository.data / ENTITIES_SCOPE / "cnpd") if args.without_text else None
+    if only is not None:
+        progress(f"Decisões sem texto a tratar de novo: {len(only)}")
+    service = CnpdIngestion(
+        repository, refresh=args.refresh, only=only, failures_path=repository.root / "reports" / "cnpd_failures.jsonl"
+    )
+    years = list(range(args.to_year, args.from_year - 1, -1))
+    summary = service.ingest(types=types, years=years, limit=args.limit, progress=progress)
+    return _decision_report(summary, "CNPD")
+
+
+def collect_tc(args) -> int:
+    repository = acervo(args)
+    service = TcIngestion(repository, refresh=args.refresh, failures_path=repository.root / "reports" / "tc_failures.jsonl")
+    years = list(range(args.to_year, args.from_year - 1, -1))
+    summary = service.ingest(years=years, limit=args.limit, progress=progress)
+    return _decision_report(summary, "Tribunal Constitucional")

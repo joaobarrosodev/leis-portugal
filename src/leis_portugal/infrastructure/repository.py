@@ -32,6 +32,16 @@ HISTORY_BLOCKS_SUFFIX = ".versoes"
 PORTUGUESE_SCOPES = ("portugal", "regional")
 EU_SCOPE = "european_union"
 _EU_DIRECTORIES = {"regulation": "regulations", "directive": "directives", "decision": "decisions", "treaty": "treaties"}
+# Coleções separadas da legislação (fora de `paths()` por omissão): decisões de entidades
+# administrativas e jurisprudência recolhida dos sites dos tribunais.
+ENTITIES_SCOPE = "entidades"
+CASE_LAW_SCOPE = "jurisprudencia"
+DECISION_SCOPES = (ENTITIES_SCOPE, CASE_LAW_SCOPE)
+DECISION_SOURCES = frozenset({"cnpd", "tribunal-constitucional"})
+_CNPD_DIRECTORIES = {
+    "parecer": "pareceres", "deliberacao": "deliberacoes", "diretriz": "diretrizes",
+    "regulamento": "regulamentos", "registo": "registos", "autorizacao": "autorizacoes",
+}
 
 
 @dataclass(frozen=True)
@@ -86,6 +96,8 @@ class Acervo:
 
     def path_for(self, record: LegalRecord, *, disambiguate: bool = False) -> Path:
         """Caminho canónico de um registo."""
+        if record.source.id in DECISION_SOURCES:
+            return self._decision_path(record, disambiguate=disambiguate)
         if record.jurisdiction == EU_SCOPE:
             year = parse_celex(record.identifiers.celex).year if record.identifiers.celex else int((record.official_date or "0")[:4])
             directory = _EU_DIRECTORIES.get(record.document_type, "other")
@@ -110,6 +122,23 @@ class Acervo:
         if series not in {"", "I"}:
             base = base / f"serie-{slugify(series)}"
         return base / document_type.path / year / f"{stem}.md"
+
+    def _decision_path(self, record: LegalRecord, *, disambiguate: bool) -> Path:
+        """Decisões fora da legislação: `data/entidades/cnpd/<tipo>/<ano>/` e
+        `data/jurisprudencia/tribunal-constitucional/<ano>/`."""
+        number = record.official_number or ""
+        year = number.split("/")[-1] if "/" in number else (record.official_date or "0000")[:4]
+        local_id = record.id.rsplit(":", 1)[-1]
+        if record.source.id == "cnpd":
+            kind = record.document_type.removesuffix("-cnpd")
+            directory = self.data / ENTITIES_SCOPE / "cnpd" / _CNPD_DIRECTORIES.get(kind, "outros")
+            stem = slugify(f"{kind} {number}") if number else f"{kind}-{local_id}"
+        else:
+            directory = self.data / CASE_LAW_SCOPE / "tribunal-constitucional"
+            stem = slugify(f"acordao tc {number}")
+        if disambiguate:
+            stem = f"{stem}-{local_id}"
+        return directory / year / f"{stem}.md"
 
     def resolve_target(self, record: LegalRecord) -> Path:
         """Caminho onde gravar; desambigua com o id do DRE se outro diploma já o ocupa."""

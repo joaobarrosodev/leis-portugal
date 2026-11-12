@@ -18,7 +18,7 @@ O objetivo é tornar o ordenamento jurídico português mais acessível, pesquis
 | Versões | ~10 mil diplomas e atos com o histórico de versões (`.versoes.json`) e consulta do texto numa data (`version-at`) |
 | Texto em vigor consolidado pelo leis-portugal | ~2,3 mil diplomas que o DRE dá como alterados mas não consolida: alterações aplicadas por regras ou por um LLM e verificadas às cegas por outro modelo; marcados como **sem valor oficial** (ver [`consolidacao/`](consolidacao/README.md)) |
 | Relações | ~1,04 milhões de relações (alterações, revogações, retificações, citações, transposições); ~89% apontam para um documento do acervo |
-| Fontes operacionais | Diário da República Eletrónico (DRE) e EUR-Lex/CELLAR |
+| Fontes operacionais | Diário da República Eletrónico (DRE) e EUR-Lex/CELLAR; em recolha, a CNPD e os acórdãos do Tribunal Constitucional, em coleções separadas da legislação |
 | Atualização | Diária, por GitHub Actions |
 | Exportação | Índice de relações (JSONL), SQLite e Parquet com os metadados (`leis-portugal export`) |
 | Perguntas (protótipo) | Pesquisa por artigo com reranker e resposta só a partir dos artigos encontrados, com "não sei" quando não há base; medição com juízes às cegas em [`rag/README.md`](rag/README.md) |
@@ -90,10 +90,10 @@ O projeto privilegia fontes primárias e páginas institucionais.
 | Jornal Oficial dos Açores (catálogo guardado pelo DRE) | Legislação regional dos Açores, com a publicação no Jornal Oficial da Região. | Operacional, através do DRE |
 | [EUR-Lex / CELLAR](https://eur-lex.europa.eu/) | Regulamentos, diretivas e decisões da UE, versões consolidadas, EuroVoc e relações. | Operacional |
 | [Assembleia da República](https://www.parlamento.pt/) | Informação parlamentar e trabalhos preparatórios. | Planeada |
-| [Tribunal Constitucional](https://www.tribunalconstitucional.pt/) | Jurisprudência constitucional, numa coleção separada da legislação. | Planeada (por agora só os acórdãos publicados no DR) |
+| [Tribunal Constitucional](https://www.tribunalconstitucional.pt/) | Acórdãos de 1983 a 2026, numa coleção separada da legislação (`data/jurisprudencia/`), ligados ao DR quando lá publicados. | Operacional (recolha em curso) |
 | [Supremo Tribunal de Justiça](https://www.stj.pt/) | Jurisprudência, numa coleção separada. | Planeada (por agora só os acórdãos publicados no DR) |
 | [Supremo Tribunal Administrativo](https://www.stadministrativo.pt/) | Jurisprudência administrativa e fiscal. | Planeada (por agora só os acórdãos publicados no DR) |
-| [Comissão Nacional de Proteção de Dados](https://www.cnpd.pt/) | Orientações e informação institucional, identificadas como tal. | Planeada |
+| [Comissão Nacional de Proteção de Dados](https://www.cnpd.pt/) | Pareceres, deliberações, diretrizes, regulamentos, registos e autorizações (1994–2026), numa coleção separada (`data/entidades/`). | Operacional (recolha em curso) |
 
 O registo das fontes, com o mecanismo de acesso, o âmbito verificado, os limites e as condições de reutilização de cada uma, está em [`config/sources.yml`](config/sources.yml).
 
@@ -175,6 +175,10 @@ leis-portugal/
 │       ├── regulations/<ano>/regulamento-ue-2016-679.md
 │       ├── directives/<ano>/diretiva-ue-2022-2555.md
 │       └── decisions/<ano>/decisao-ue-2019-1234.md
+│   ├── entidades/             # decisões de entidades administrativas, separadas da legislação
+│   │   └── cnpd/pareceres/<ano>/parecer-72-2025.md   # e deliberacoes/, diretrizes/, regulamentos/, registos/, autorizacoes/
+│   └── jurisprudencia/        # acórdãos recolhidos nos sites dos tribunais, separados da legislação
+│       └── tribunal-constitucional/<ano>/acordao-tc-500-2024.md
 ├── consolidacao/              # texto em vigor dos diplomas alterados que o DRE não consolida
 ├── rag/                       # protótipo de perguntas: índice por artigo, pesquisa, resposta e medição
 ├── avaliacao/                 # perguntas de avaliação do protótipo (as privadas ficam fora do git)
@@ -198,6 +202,8 @@ services/        casos de uso: recolher (DRE, EUR-Lex, histórico consolidado, e
 sources/         uma pasta por fonte, separando transporte (client.py) e conversão para o modelo (mapper.py)
   dre/           cliente OutSystems, sitemaps, mapeamento (DR e catálogo dos Açores), HTML -> Markdown, consolidados
   eurlex/        cliente CELLAR (SPARQL), mapeamento, XHTML -> Markdown
+  cnpd.py        histórico de decisões da CNPD (listagens HTML e PDF), com o texto extraído do PDF (pdftext.py)
+  tc.py          listagens anuais e páginas HTML dos acórdãos do Tribunal Constitucional
 infrastructure/  HTTP comum (espera e novas tentativas), Markdown/YAML, esquemas, configuração e o repositório `Acervo`
 domain/          modelo tipado `LegalRecord`, formato do histórico de versões, identificadores, tipos de diploma,
                  relações e resolução de referências (ELI, numeração); sem rede nem ficheiros
