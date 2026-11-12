@@ -1,0 +1,94 @@
+{
+ "juizes": [
+  "a",
+  "b",
+  "c",
+  "s"
+ ],
+ "por_tipo": {
+  "sem_resposta": {
+   "n": 24,
+   "respondidas": 4,
+   "certas_brando": 0,
+   "certas": 0,
+   "incompletas": 0,
+   "erradas": 0,
+   "sem_fundamento": 0,
+   "discordam": 0,
+   "sem_julgamento": 0,
+   "ids_nao_certos": []
+  },
+  "texto_alterado": {
+   "n": 1,
+   "respondidas": 1,
+   "certas_brando": 1,
+   "certas": 1,
+   "incompletas": 0,
+   "erradas": 0,
+   "sem_fundamento": 0,
+   "discordam": 0,
+   "sem_julgamento": 0,
+   "ids_nao_certos": []
+  },
+  "composta": {
+   "n": 3,
+   "respondidas": 3,
+   "certas_brando": 2,
+   "certas": 3,
+   "incompletas": 0,
+   "erradas": 0,
+   "sem_fundamento": 0,
+   "discordam": 0,
+   "sem_julgamento": 0,
+   "ids_nao_certos": []
+  },
+  "premissa_errada": {
+   "n": 4,
+   "respondidas": 2,
+   "certas_brando": 1,
+   "certas": 1,
+   "incompletas": 1,
+   "erradas": 0,
+   "sem_fundamento": 0,
+   "discordam": 1,
+   "sem_julgamento": 0,
+   "ids_nao_certos": [
+    "pre-025"
+   ]
+  },
+  "real": {
+   "n": 21,
+   "respondidas": 15,
+   "certas_brando": 13,
+   "certas": 14,
+   "incompletas": 1,
+   "erradas": 0,
+   "sem_fundamento": 0,
+   "discordam": 1,
+   "sem_julgamento": 0,
+   "ids_nao_certos": [
+    "real-246"
+   ]
+  },
+  "coloquial": {
+   "n": 32,
+   "respondidas": 22,
+   "certas_brando": 16,
+   "certas": 22,
+   "incompletas": 0,
+   "erradas": 0,
+   "sem_fundamento": 0,
+   "discordam": 0,
+   "sem_julgamento": 0,
+   "ids_nao_certos": []
+  },
+  "total": {
+   "n": 61,
+   "respondidas": 43,
+   "certas_brando": 33,
+   "certas": 41,
+   "fiabilidade": 0.953,
+   "limite_inferior_95": 0.845
+  }
+ }
+}

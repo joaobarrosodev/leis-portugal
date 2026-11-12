@@ -26,7 +26,7 @@ from rag import avaliar
 from rag import reescrita as reescrita_mod
 from rag.fontes import RAIZ
 from rag.pesquisa import Pesquisa
-from rag.resposta import INSTRUCOES, LIMIAR_PADRAO, Resposta, contexto, interpretar, mensagem, nao_sei_antes
+from rag.resposta import INSTRUCOES, LIMIAR_COM_LLM, Resposta, contexto, interpretar, mensagem, nao_sei_antes
 
 
 PASTA = RAIZ / "rag" / "resultados" / "privado" / "llm"
@@ -113,7 +113,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--nome", required=True)
     parser.add_argument("--tipos", default="real,sem_resposta", help="Tipos de pergunta, separados por vírgulas.")
     parser.add_argument("--lote", type=int, default=10)
-    parser.add_argument("--limiar", type=float, default=LIMIAR_PADRAO)
+    parser.add_argument("--limiar", type=float, default=LIMIAR_COM_LLM)
     parser.add_argument("--indice", type=Path)
     parser.add_argument("--reescrita", type=Path, help="Pasta com saida-*.jsonl (id, consulta) para pesquisar com a consulta jurídica.")
     parser.add_argument("--perguntas", type=Path, help="Só as perguntas deste ficheiro (p. ex. avaliacao/perguntas-ue.jsonl).")

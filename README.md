@@ -478,9 +478,9 @@ Medição às cegas (12/11/2026): outro modelo anotou 80 alíneas ao acaso, 20 d
 
 | Perguntas | Quando responde, certas | Pelo menos (95% de confiança) | Responde a |
 |---|--:|--:|--:|
-| Portugal, bem escritas (530 de teste) | 96% | 93% | 66% |
+| Portugal, bem escritas (530 de teste) | 95% | 93% | 70% |
 | Portugal, a citar o diploma (407 sintéticas) | 100% | 99% | 99% |
-| Portugal, escritas como fala uma pessoa comum (281) | 95% | 91% | 81% |
+| Portugal, escritas como fala uma pessoa comum (281) | 95% | 92% | 89% |
 | Portugal, diplomas alterados (99) | 98% | 88% | 43% |
 | União Europeia, a citar o ato (142 com resposta) | 100% | 97% | 100% |
 

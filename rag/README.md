@@ -269,6 +269,37 @@ A qualidade da resposta, quando a há, mantém-se; o que cai é quantas pergunta
 
 **Segundo travão** (`travao.py`): um segundo modelo julga, às cegas, se cada resposta escrita se aguenta nos artigos dados e responde à pergunta. Nas 99 respostas dadas (98 reais e 1 sem resposta) aprovou todas, por isso apanhou 0 das 11 erradas e não perdeu nenhuma certa. Dos 10 erros das reais, 6 têm o artigo certo em 1.º lugar (a resposta escrita difere da de referência no critério de 80% das palavras: o erro pode estar na métrica) e 4 são de pesquisa (diploma ou artigo errado). Ou seja, o erro não é o LLM inventar, e um travão que só confere a resposta contra os artigos não o apanha. Os 6 ficam para revisão às cegas por pessoa ou outro modelo antes de se chamar erro.
 
+**Limiar do reranker com LLM: 3 → 1** (12/11/2026, `limiar1`). Com o limiar 3, o sistema recusava antes do LLM quando o melhor artigo tinha menos de 3 pontos. Nas recusas com pontuação entre 1 e 3, o artigo certo estava nos 10 primeiros em 45 de 61. Mediram-se de novo as 85 perguntas do teste e das coloquiais que caíam nessa faixa, 24 delas sem resposta, com limiar 1, a mesma reescrita, modo estrito e quatro juízes às cegas.
+
+| Tipo | n | Respondidas | Certas (juízes) |
+|---|--:|--:|--:|
+| Reais | 21 | 15 | 14 |
+| Coloquiais | 32 | 22 | 22 |
+| Compostas | 3 | 3 | 3 |
+| Premissa errada | 4 | 2 | 1 |
+| Texto alterado | 1 | 1 | 1 |
+| Com resposta (total) | 61 | 43 | **41 (95%, limite inferior 85%)** |
+| Sem resposta | 24 | 4 | — |
+
+As 4 "sem resposta" a que respondeu perguntam pela "lei portuguesa" sobre matérias que são de regulamentos da UE (voos, tempos de condução, roaming, comissões dos cartões). Foram escritas antes de a UE estar no acervo. O sistema corrigiu a premissa e citou o regulamento certo; não se contam como certas nem como erradas. As 2 erradas: o artigo 29.º do Código do IVA chegou cortado e faltava a norma pedida; numa de premissa errada, a resposta não a corrigiu.
+
+No conjunto, somando às respostas que já havia:
+
+| Conjunto | "Não sei" | Certas nas respondidas | Limite inferior 95% |
+|---|--:|--:|--:|
+| Teste (450 com resposta) | 22% → **17%** | 96% → **95% (355/372)** | 93% |
+| Coloquiais (281) | 19% → **11%** | 95% → **95% (237/249)** | 92% |
+
+Passa a ser o limiar com LLM (`LIMIAR_COM_LLM = 1.0` em `resposta.py`, também por omissão no `passo_llm` e no `perguntar` com LLM). Sem LLM, o artigo do topo é a resposta, e o limiar fica em 3. Ressalvas: 43 respostas é pouco para um intervalo apertado, os juízes são o mesmo modelo, e não há revisão de jurista.
+
+**Tirar o aviso "texto original" quando a triagem diz "sem alteração textual": não resultou** (12/11/2026). 47 das 56 recusas do texto alterado vêm do aviso "Texto original; alterado por…, sem versão consolidada"; 13 dos 35 diplomas em causa têm todos os alteradores dados pela triagem como "sem alteração textual". Antes de tirar o aviso nesses casos, um verificador às cegas leu 80 pares original–alterador ao acaso, com 10 a 27 por motivo da triagem (`consolidacao/verificacao/triagem-sem-alteracao-amostra-80.jsonl`).
+
+O resultado foi 11 alteram mesmo o texto, 11 em dúvida e 58 não alteram:
+- **Os erros:** quadros de pessoal alterados "de acordo com o quadro anexo", áreas de zonas de caça, um "n.º 1.º passa a ter a seguinte redacção", uma portaria revogada por inteiro, e os Estatutos da Universidade de Coimbra.
+- **Por motivo da triagem:** "cita o original mas não lhe dá instruções" teve 8 em 24; "só aparece numa lista" teve 2 em 25; "não menciona o original" teve 0 em 22, mas as 3 dúvidas eram mudanças reais a anexos.
+
+Com 14% a 28% de erro, tirar o aviso faria o sistema responder com texto desatualizado, por isso o aviso fica. O que se aproveita é para os dados: a triagem deixa passar alterações reais, sobretudo em portarias que mexem em quadros e zonas de caça.
+
 ## Principais tipos de erro (com reranker)
 
 Nas literais, temporais e revogadas o artigo certo falha o 1.º lugar em 15 perguntas:

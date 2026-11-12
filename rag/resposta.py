@@ -24,7 +24,10 @@ from rag.pesquisa import Consulta, Resultado
 
 
 MODELO = os.environ.get("RAG_MODELO", "claude-opus-5-5")
-LIMIAR_PADRAO = 3.0  # do reranker; medido com o conjunto de avaliação (rag/README.md)
+LIMIAR_PADRAO = 3.0  # do reranker, sem LLM: o artigo do topo é a resposta (rag/README.md)
+# Com LLM, o LLM lê os artigos e recusa quando não respondem: entre 1 e 3, nas perguntas que o limiar 3
+# recusava, respondeu a 43 de 61 e 41 estavam certas para os quatro juízes (rag/README.md, `limiar1`).
+LIMIAR_COM_LLM = 1.0
 ARTIGOS_NO_CONTEXTO = 8
 
 # Modo estrito (por omissão): a fiabilidade conta mais do que responder a tudo. Não responde quando

@@ -28,11 +28,10 @@ from pathlib import Path
 from rag import reescrita
 from rag.fontes import RAIZ
 from rag.pesquisa import Consulta, Pesquisa
-from rag.resposta import llm_disponivel, responder
+from rag.resposta import LIMIAR_COM_LLM, LIMIAR_PADRAO, llm_disponivel, responder
 
 
 REGISTO = RAIZ / "rag" / "resultados" / "privado" / "perguntas-testadas.jsonl"
-LIMIAR = 3.0  # medido com o conjunto de avaliação (rag/README.md)
 LARGURA = 100
 
 
@@ -104,7 +103,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--data", default=date.today().isoformat(), help="Data de referência (AAAA-MM-DD; por omissão: hoje).")
     parser.add_argument("--indice", type=Path)
     parser.add_argument("--reranker", choices=("cruzado", "denso", "nenhum"), help="Por omissão, cruzado se o extra `rag` estiver instalado.")
-    parser.add_argument("--limiar", type=float, help=f"'Não sei' abaixo desta pontuação do reranker (por omissão: {LIMIAR:g}).")
+    parser.add_argument("--limiar", type=float, help=f"'Não sei' abaixo desta pontuação do reranker (por omissão: {LIMIAR_COM_LLM:g} com LLM, {LIMIAR_PADRAO:g} sem).")
     parser.add_argument("-k", type=int, default=4, help="Quantos artigos mostrar.")
     parser.add_argument("--sem-llm", action="store_true")
     parser.add_argument("--sem-reescrita", action="store_true", help="Com LLM, pesquisar pela pergunta tal como está, sem a reescrever numa consulta jurídica.")
@@ -117,9 +116,9 @@ def main(argv: list[str] | None = None) -> int:
 
         print("A carregar o modelo…", file=sys.stderr, flush=True)
         reranker = Reranker(tipo)
-    limiar = args.limiar if args.limiar is not None else (LIMIAR if tipo == "cruzado" else None)
     pesquisa = Pesquisa(args.indice, reranker=reranker)
     usar_llm = llm_disponivel() and not args.sem_llm
+    limiar = args.limiar if args.limiar is not None else ((LIMIAR_COM_LLM if usar_llm else LIMIAR_PADRAO) if tipo == "cruzado" else None)
     usar_reescrita = usar_llm and not args.sem_reescrita
 
     def uma(pergunta: str, interativo: bool) -> None:
