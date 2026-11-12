@@ -531,7 +531,10 @@ class Resolvedor:
                     norma.parte = parte
                 else:
                     anexos = [p for p in partes if p.startswith("Anexo")]
-                    norma.parte = anexos[0] if anexos and norma.codigo else (partes[0] if "" not in partes or not anexos else "")
+                    # Um código citado pelo nome ou pela sigla ("CPP", "Código de Processo Penal") está no anexo,
+                    # mesmo quando o resolvemos pelo número do decreto-lei que o aprova.
+                    pelo_nome = norma.codigo or not refs_mod._DIPLOMA.match(norma.diploma_texto)
+                    norma.parte = anexos[0] if anexos and pelo_nome else (partes[0] if "" not in partes or not anexos else "")
         else:
             norma.parte = parte
         return norma
@@ -569,13 +572,17 @@ def construir(pesquisa, pasta: Path = PASTA_TC, saida: Path = SAIDA, progresso=p
 class Jurisprudencia:
     """Consulta do `normas-julgadas.jsonl`: os acórdãos que julgaram um artigo de um diploma.
 
-    As declarações com força obrigatória geral vêm primeiro (são as que mudam o que vigora; a
-    resposta da lei deve avisar delas), depois os outros julgamentos, do mais recente para o mais antigo."""
+    As decisões com força obrigatória geral vêm primeiro (as declarações mudam o que vigora; a
+    resposta da lei deve avisar delas), depois os juízos em casos concretos, do mais recente para o mais antigo.
+    A `parte` (o anexo de um código) só separa quando se sabe dos dois lados: o artigo 1.º do
+    Decreto-Lei n.º 78/87 não é o artigo 1.º do Código de Processo Penal, que está no anexo."""
 
-    _ORDEM = {"declara_fog": 0, "julga": 1, "pronuncia": 2, "nao_declara_fog": 3, "nao_julga": 4, "nao_pronuncia": 5}
+    # As decisões do Plenário em fiscalização abstrata (declarar ou recusar declarar com força obrigatória
+    # geral) e preventiva valem para todos e vêm antes dos juízos em casos concretos.
+    _ORDEM = {"declara_fog": 0, "nao_declara_fog": 1, "pronuncia": 2, "nao_pronuncia": 2, "julga": 3, "nao_julga": 3}
 
     def __init__(self, caminho: Path = SAIDA) -> None:
-        self._por_artigo: dict[tuple[str, str | None], list[dict]] = {}
+        self._por_artigo: dict[tuple[str, str | None], list[tuple[str | None, dict]]] = {}
         if not caminho.exists():
             return
         for linha in caminho.read_text(encoding="utf-8").splitlines():
@@ -584,18 +591,38 @@ class Jurisprudencia:
             julgamento = json.loads(linha)
             for norma in julgamento["normas"]:
                 if norma["principal"] and norma["documento"]:
-                    chave = (norma["documento"], norma["artigo"])
-                    lista = self._por_artigo.setdefault(chave, [])
-                    if not any(j["acordao"] == julgamento["acordao"] and j["alinea"] == julgamento["alinea"] for j in lista):
-                        lista.append(julgamento)
+                    lista = self._por_artigo.setdefault((norma["documento"], norma["artigo"]), [])
+                    if not any(j["acordao"] == julgamento["acordao"] and j["alinea"] == julgamento["alinea"] for _, j in lista):
+                        lista.append((norma.get("parte"), julgamento))
 
-    def por_artigo(self, documento: str, artigo: str | None) -> list[dict]:
-        lista = self._por_artigo.get((documento, artigo), [])
+    def __bool__(self) -> bool:
+        return bool(self._por_artigo)
+
+    def por_artigo(self, documento: str, artigo: str | None, parte: str | None = None) -> list[dict]:
+        lista = [
+            j for p, j in self._por_artigo.get((documento, artigo), [])
+            if parte is None or p is None or p == parte
+        ]
         return sorted(lista, key=lambda j: (self._ORDEM.get(j["sentido"], 9), "".join(chr(0x10FFFF - ord(c)) for c in (j["data"] or ""))))
 
-    def declarado_inconstitucional(self, documento: str, artigo: str | None) -> list[dict]:
+    def declarado_inconstitucional(self, documento: str, artigo: str | None, parte: str | None = None) -> list[dict]:
         """Os acórdãos que declararam o artigo inconstitucional (ou ilegal) com força obrigatória geral."""
-        return [j for j in self.por_artigo(documento, artigo) if j["sentido"] == "declara_fog"]
+        return [j for j in self.por_artigo(documento, artigo, parte) if j["sentido"] == "declara_fog"]
+
+
+def data_pt(data: str | None) -> str:
+    return f"{data[8:10]}/{data[5:7]}/{data[:4]}" if data and len(data) >= 10 else (data or "")
+
+
+def aviso_declaracao(julgamento: dict, desde: str | None) -> str:
+    """O aviso que acompanha um artigo declarado inconstitucional com força obrigatória geral.
+
+    A declaração recai sobre a redação em vigor na altura: se o texto do artigo é posterior ao
+    acórdão, a declaração foi sobre uma redação anterior e o aviso diz isso."""
+    acordao = f"Acórdão do Tribunal Constitucional n.º {julgamento['numero']}, de {data_pt(julgamento['data'])}"
+    if desde and julgamento["data"] and desde > julgamento["data"]:
+        return f"O {acordao} declarou inconstitucional, com força obrigatória geral, uma redação anterior deste artigo."
+    return f"Declarado inconstitucional com força obrigatória geral, pelo menos em parte, pelo {acordao}."
 
 
 def main(argv: list[str] | None = None) -> int:

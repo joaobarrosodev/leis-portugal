@@ -22,10 +22,11 @@ import importlib.util
 import json
 import sys
 import textwrap
+from collections import Counter
 from datetime import date, datetime
 from pathlib import Path
 
-from rag import reescrita
+from rag import jurisprudencia, reescrita
 from rag.fontes import RAIZ
 from rag.pesquisa import Consulta, Pesquisa
 from rag.resposta import llm_disponivel, responder
@@ -59,6 +60,23 @@ def mostrar(consulta: Consulta, resposta, k: int) -> None:
         print(f"   Pesquisa por: {consulta.pesquisa_por}")
     if consulta.diplomas_em_falta:
         print(f"   ⚠ Não está no acervo: {', '.join(consulta.diplomas_em_falta)}")
+    if resposta.jurisprudencia:
+        print("\n   Jurisprudência do Tribunal Constitucional sobre estes artigos")
+        print("   (segunda resposta, separada da lei: tirada da decisão de cada acórdão, sem LLM; texto não autêntico)")
+        artigos = list(dict.fromkeys(j["artigo"] for j in resposta.jurisprudencia))
+        for artigo in artigos:
+            do_artigo = [j for j in resposta.jurisprudencia if j["artigo"] == artigo]
+            if len(artigos) > 1:
+                print(f"   {artigo}:")
+            for j in do_artigo:
+                if j["mostrar"]:
+                    data = jurisprudencia.data_pt(j["data"])
+                    print(f"   · Acórdão n.º {j['numero']}, de {data}: {jurisprudencia.ROTULOS.get(j['sentido'], j['sentido'])}")
+                    if j.get("url"):
+                        print(f"     {j['url']}")
+            resto = Counter(jurisprudencia.ROTULOS.get(j["sentido"], j["sentido"]).lower() for j in do_artigo if not j["mostrar"])
+            if resto:
+                print(f"   · e mais {sum(resto.values())}: " + "; ".join(f"{n} {rotulo}" for rotulo, n in resto.most_common()))
     citados = {r.id for r in resposta.citacoes}
     outros = [r for r in consulta.resultados[:k] if r.id not in citados]
     if outros:
@@ -79,6 +97,7 @@ def registar(consulta: Consulta, resposta, anotacao: dict) -> None:
         "com_llm": resposta.com_llm,
         "resposta": resposta.texto,
         "motivo": resposta.motivo,
+        "jurisprudencia": [{"acordao": j["acordao"], "sentido": j["sentido"]} for j in resposta.jurisprudencia],
         "artigos": [{"documento": r.documento, "artigo": r.chave, "rotulo": r.rotulo, "reranker": r.reranker} for r in consulta.resultados[:10]],
         **anotacao,
     }
@@ -127,7 +146,7 @@ def main(argv: list[str] | None = None) -> int:
             consulta = reescrita.pesquisar(pesquisa, pergunta, args.data, k=max(args.k, 10))
         else:
             consulta = pesquisa.pesquisar(pergunta, args.data, k=max(args.k, 10))
-        resposta = responder(consulta, limiar=limiar, usar_llm=usar_llm)
+        resposta = responder(consulta, limiar=limiar, usar_llm=usar_llm, pesquisa=pesquisa)
         mostrar(consulta, resposta, args.k)
         registar(consulta, resposta, anotar() if interativo else {})
 
