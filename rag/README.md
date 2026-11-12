@@ -384,6 +384,52 @@ O artigo de um código republicado noutro diploma (o Código Penal na Lei n.º 5
 
 Medido em 12/11/2026: com e sem os dados do TC, a avaliação BM25 dá o mesmo resumo nas 736 perguntas, porque o aviso entra depois da ordenação. Nenhuma pergunta da avaliação cai num artigo declarado inconstitucional, e 23 passam a ter a segunda resposta. A extração dos acórdãos tem 90 % de precisão e 88 % de cobertura, medidas às cegas numa amostra que o extrator não tinha visto (ver o [README](../README.md)); a segunda resposta pode por isso ter falhas, e não entra na fiabilidade da resposta da lei.
 
+## Prova de conceito no browser (12/11/2026)
+
+A pergunta: o sistema pode correr todo no browser, num site do GitHub Pages, sem instalar nada? O índice (4,1 GB) não cabe no GitHub Pages (1 GB por site, 100 MB por ficheiro). Teria de ficar noutro alojamento e ser lido aos bocados, com pedidos HTTP Range, só nas páginas de que cada pesquisa precisa. Código e instruções em [`navegador/`](navegador/README.md).
+
+**Como se mediu.** 50 perguntas de `avaliacao/perguntas.jsonl`, de todos os tipos. A pesquisa correu com um reranker falso, para seguir o mesmo caminho que com o reranker, e cada consulta SQL ficou gravada. Depois, as consultas repetiram-se sobre o índice através de uma VFS do SQLite que conta cada leitura. Cada página fora da cache seria um pedido. Páginas seguidas contam como um só pedido, que é o melhor caso.
+
+| Medida | Mediana | p90 | Viável se |
+|---|--:|--:|--:|
+| Consultas SQL por pergunta | 503 | 767 | — |
+| Tempo no disco local (sem rede) | 2,7 s | 10,5 s | — |
+| Índice lido por pergunta, cache vazia | **151 MB** | 165 MB | ≤ 30 MB |
+| Pedidos por pergunta, cache vazia (melhor caso) | **36 395** | 38 059 | — |
+| Índice novo por pergunta, cache aquecida pelas anteriores | 8,3 MB | 18,3 MB | ≤ 30 MB |
+| Cache do browser ao fim de 50 perguntas | 654 MB | | |
+| Arranque (lista dos códigos), uma vez | 321 consultas, 17 s no disco | | |
+
+**Para onde vão os bytes**, em 6 perguntas:
+
+| Consulta | Parte das leituras | MB por pergunta |
+|---|--:|--:|
+| Diplomas citados (`documentos` por tipo e número, sem índice: lê a tabela toda) | 51% | 70 |
+| BM25 (`pedacos_fts MATCH`) | 13% | 18 |
+| Frequência de cada termo (`fts5vocab`) | 13% | 17 |
+| Datas, diploma e notas dos candidatos (`_info`) | 10% | 14 |
+| Artigos em vigor de cada código candidato (`count(*)`) | 9% | 12 |
+
+**O resto do caminho**
+- **Reranker:** são 571 MB a descarregar da primeira vez (bge-reranker-v2-m3 int8). Não foi corrido no browser, por isso o tempo não está medido.
+- **Chamadas às IAs:** feitas de uma página de outro site, com chaves falsas, as três respostas de erro chegaram à página. Logo, aceitam chamadas diretas do browser. O Claude só as aceita com o cabeçalho `anthropic-dangerous-direct-browser-access: true` (sem ele, o browser bloqueia); a OpenAI e a Gemini aceitam-nas sem cabeçalho especial.
+
+**Conclusão: com o índice de hoje, não é viável.**
+- Com a cache vazia, cada pergunta pede cerca de 150 MB em dezenas de milhares de pedidos. Mesmo em paralelo, seriam minutos por pergunta.
+- Com a cache aquecida, ainda são cerca de 8 MB e milhares de pedidos.
+- Não se mediu a pesquisa num browser real: com estes números, não mudaria a conclusão.
+- Três das cinco consultas mais pesadas corrigem-se no índice:
+  - um índice em `documentos(tipo, numero)`;
+  - uma tabela pequena com a frequência de cada termo;
+  - as contagens dos códigos calculadas de antemão.
+- Mesmo assim, estima-se que fiquem cerca de 35 a 40 MB por pergunta com a cache vazia, e milhares de pedidos. Esta estimativa não foi medida.
+
+Para correr no browser seria preciso um índice próprio, desenhado para ser lido pela rede, mais os 571 MB do reranker, e depois medir a qualidade de novo. É um projeto à parte.
+
+**Recomendação**
+- Para o sistema completo, com a qualidade medida: a aplicação instalável. O site no GitHub Pages serve para a descarregar.
+- A versão no browser fica para depois, se o índice próprio for desenhado e medido.
+
 ## Próximos passos
 
 Por ordem de ganho esperado:

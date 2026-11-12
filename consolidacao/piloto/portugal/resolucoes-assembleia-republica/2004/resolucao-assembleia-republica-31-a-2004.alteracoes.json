@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 14852-14852",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1. Sem prejuízo do disposto nos pontos 3 e 4, as entidades concederão um prazo mínimo de 40 dias entre a data de publicação do anúncio de previsão do contrato e a data-limite de apresentação das propostas.",
+    "depois": "1. Sem prejuízo do disposto nos pontos 2 e 3, as entidades concederão um prazo mínimo de 40 dias entre a data de publicação do anúncio de previsão do contrato e a data-limite de apresentação das propostas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:346750:por",
+    "alterador": "pt:dre:251826:por"
+  }
+]

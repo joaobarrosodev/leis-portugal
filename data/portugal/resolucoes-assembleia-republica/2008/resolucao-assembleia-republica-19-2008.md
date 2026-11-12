@@ -40,10 +40,64 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-01-17'
+version_history:
+  file: resolucao-assembleia-republica-19-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-05-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-01-17'
+    amending: pt:dre:453857:por
+    amending_title: Aviso n.º 185/2008; Aviso n.º 22/2010; Aviso n.º 70/2010; Resolução da Assembleia da República n.º 78/2011;
+      Aviso n.º 1/2012
+    changes:
+    - Altera Artigo unidades 159-159
+    - Altera Artigo unidades 163-163
+    - Altera Artigo unidades 260-260
+    - Altera Artigo unidades 336-336
+    - Altera Artigo unidades 395-396
+    - Altera Artigo unidades 469-469
+    - Altera Artigo unidades 488-488
+    - Altera Artigo unidades 523-523
+    - Altera Artigo unidades 525-526
+    - Altera Artigo unidades 528-528
+    - Altera Artigo unidades 538-538
+    - Altera Artigo unidades 547-547
+    - Altera Artigo unidades 555-555
+    - Altera Artigo unidades 593-594
+    - Altera Artigo unidades 601-601
+    - Altera Artigo unidades 732-732
+    - Altera Artigo unidades 758-758
+    - Altera Artigo unidades 1033-1033
+    - Altera Artigo unidades 1072-1072
+    - Altera Artigo unidades 1083-1083
+    - Altera Artigo unidades 1100-1100
+    - Altera Artigo unidades 1111-1111
+    - Altera Artigo unidades 1144-1144
+    - Altera Artigo unidades 1156-1156
+    - Altera Artigo unidades 1163-1163
+    - Altera Artigo unidades 1169-1169
+    - Altera Artigo unidades 1183-1183
+    - Altera Artigo unidades 1202-1202
+    - Altera Artigo unidades 1400-1400
+    - Altera Artigo unidades 1466-1467
+    - Altera Artigo unidades 1498-1498
+    - Altera Artigo unidades 1531-1531
+    - Altera Artigo unidades 1533-1533
+    - Altera Artigo unidades 1572-1572
+    - Altera Artigo unidades 1582-1582
+    - Altera Artigo unidades 1591-1591
+    - Altera Artigo unidades 1601-1601
+    - Adita Artigo depois da unidade 1606
+    - Altera Artigo unidades 1826-1826
+    - Altera Artigo unidades 1887-1887
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolassrep/19/2008/05/19/p/dre/pt/html
@@ -69,7 +123,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:20:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso n.º 185/2008; Aviso n.º 22/2010;
+    Aviso n.º 70/2010; Resolução da Assembleia da República n.º 78/2011; Aviso n.º 1/2012. Método e verificação: consolidacao/README.md
+    e consolidacao/piloto/portugal/resolucoes-assembleia-republica/2008/resolucao-assembleia-republica-19-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -466,7 +522,9 @@ d) Os n.os 5 e 6 são substituídos pelo seguinte texto:
 
 Princípios democráticos
 
-12) O Título II e o artigo 8.º são substituídos pela nova denominação e novos artigos 8.º e 8.º-C com a seguinte redacção:
+12) O Título II e o artigo 8.º são substituídos pela nova denominação e novos artigos 8.º a 8.º-C com a seguinte redacção:
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 «TÍTULO II
 
@@ -474,7 +532,9 @@ Disposições relativas aos princípios democráticos
 
 Artigo 8.º
 
-Em todas as suas actividades, a União respeita o princípio da igualdade dos seus cidadãos, que beneficiam de igual atenção por parte das suas instituições, órgãos e organismos. É cidadão da União qualquer pessoa que tenha a nacionalidade de um Estado-Membro. A cidadania da União acresce à cidadania nacional, não a substituindo.
+Em todas as suas actividades, a União respeita o princípio da igualdade dos seus cidadãos, que beneficiam de igual atenção por parte das suas instituições, órgãos e organismos. É cidadão da União qualquer pessoa que tenha a nacionalidade de um Estado membro. A cidadania da União acresce à cidadania nacional e não a substitui.
+
+> Alterado pelo/a [Aviso n.º 22/2010](https://diariodarepublica.pt/dr/detalhe/aviso/22-2010-617097), publicado em 2010-02-08.
 
 Artigo 8.º-A
 
@@ -668,7 +728,9 @@ O Presidente, o Alto Representante da União para os Negócios Estrangeiros e a 
 
 1 - O Conselho Europeu, deliberando por maioria qualificada, com o acordo do Presidente da Comissão, nomeia o Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança. O Conselho Europeu pode pôr termo ao seu mandato, de acordo com o mesmo procedimento.
 
-2 - O Alto Representante conduz a política externa e de segurança comum da União. Contribui, com as suas propostas, para a definição dessa política, executando-a na qualidade de mandatário do Conselho. Actua do mesmo modo no que se refere à política comum de segurança e defesa.
+2 - O Alto Representante conduz a política externa e de segurança comum da União. Contribui com as suas propostas para a elaboração dessa política, executando-a na qualidade de mandatário do Conselho. Actua do mesmo modo no que se refere à política comum de segurança e defesa.
+
+> Alterado pelo/a [Aviso n.º 22/2010](https://diariodarepublica.pt/dr/detalhe/aviso/22-2010-617097), publicado em 2010-02-08.
 
 3 - O Alto Representante preside ao Conselho dos Negócios Estrangeiros.
 
@@ -820,7 +882,9 @@ c) Reforçando a cooperação sistemática entre os Estados-Membros na conduçã
 
 29) O artigo 13.º é alterado do seguinte modo:
 
-a) No n.º 1, o trecho «... define os princípios e as orientações gerais...» é substituído por «... identifica os interesses estratégicos da União, estabelece os objectivos e define as orientações gerais...» e é aditado o seguinte período: «O Conselho Europeu adopta as decisões necessárias.»; é aditado o seguinte parágrafo:
+a) No n.º 1, o trecho «... definirá os princípios e as orientações gerais...» é substituído por «... identifica os interesses estratégicos da União, estabelece os objectivos e define as orientações gerais...» e é aditado o seguinte período: «O Conselho Europeu adopta as decisões necessárias.»; é aditado o seguinte parágrafo:
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 «Se um acontecimento internacional assim o exigir, o Presidente do Conselho Europeu convocará uma reunião extraordinária do Conselho Europeu, a fim de definir as linhas estratégicas da política da União relativamente a esse acontecimento.»;
 
@@ -938,9 +1002,11 @@ a) O primeiro parágrafo passa a ter a seguinte redacção:
 
 b) No segundo parágrafo, no final do primeiro período, são inseridos os termos «e ao Alto Representante»; no segundo período, o termo «anualmente» é substituído por «duas vezes por ano» e, no final, são inseridos os termos «, incluindo a política comum de segurança e defesa.».
 
-41) O texto do artigo 22.º passa a ser o artigo 15.º-A, com as alterações a seguir indicadas no ponto 33).
+41) O texto do artigo 22.º passa a ser o artigo 15.º-A, com as alterações acima indicadas no n.º 33).
 
-42) O texto do artigo 23.º passa a ser o artigo 15.º-B, com as alterações a seguir indicadas no ponto 34).
+42) O texto do artigo 23.º passa a ser o artigo 15.º-B, com as alterações acima indicadas no n.º 34).
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 43) O artigo 24.º passa a ter a seguinte redacção:
 
@@ -1086,7 +1152,9 @@ A maioria qualificada é definida nos termos da alínea a) do n.º 3 do artigo 2
 
 6 - As decisões e as recomendações do Conselho no âmbito da cooperação estruturada permanente, que não sejam as previstas nos n.os 2 a 5, são adoptadas por unanimidade. Para efeitos do presente número, a unanimidade é constituída exclusivamente pelos votos dos representantes dos Estados-Membros participantes.»
 
-51) Os artigos 29.º a 39.º do Título VI, relativos à cooperação judiciária em matéria penal e à cooperação policial, são substituídos pelas disposições dos Capítulos 1, 4 e 5 do Título IV da Parte III do Tratado sobre o Funcionamento da União Europeia. Como se indica a seguir nos pontos 64), 67) e 68) do artigo 2.º do presente Tratado, o artigo 29.º é substituído pelo artigo 61.º do Tratado sobre o Funcionamento da União Europeia, o artigo 30.º é substituído pelos artigos 69.º-F e 69.º-G do referido Tratado, o artigo 31.º é substituído pelos artigos 69.º-A, 69.º-B e 69.º-D do referido Tratado, o artigo 32.º é substituído pelo artigo 69.º-H do referido Tratado, o artigo 33.º é substituído pelo artigo 61.º-E do referido Tratado e o artigo 36.º é substituído pelo artigo 61.º-D do referido Tratado. É suprimida a denominação do título e o seu número passa a ser o do título relativo às disposições finais.
+51) Os artigos 29.º a 39.º do Título VI, relativos à cooperação judiciária em matéria penal e à cooperação policial, são substituídos pelas disposições dos Capítulos 1, 4 e 5 do Título IV da Parte III do Tratado sobre o Funcionamento da União Europeia. Como se indica a seguir nos pontos 64), 67) e 68) do artigo 2.º do presente Tratado, o artigo 29.º é substituído pelo artigo 61.º do Tratado sobre o Funcionamento da União Europeia, o artigo 30.º é substituído pelos artigos 69.º-F e 69.º-G do referido Tratado, o artigo 31.º é substituído pelos artigos 69.º-A, 69.º-B e 69.º-D do referido Tratado, o artigo 32.º é substituído pelo artigo 69.º-H do referido Tratado, o artigo 33.º é substituído pelo artigo 61.º-E do referido Tratado e o artigo 36.º é substituído pelo artigo 61.º-D do referido Tratado. São revogados os artigos 34.º, 35.º, 37.º, 38.º e 39.º É suprimida a denominação do título e o seu número passa a ser o do título relativo às disposições finais.
+
+> Alterado pelo/a [Aviso n.º 22/2010](https://diariodarepublica.pt/dr/detalhe/aviso/22-2010-617097), publicado em 2010-02-08.
 
 52) Os artigos 40.º a 40.º-B do Título VI e os artigos 43.º a 45.º do Título VII, relativos às cooperações reforçadas, são substituídos pelo artigo 10.º, em conformidade com o ponto 22) supra, e é revogado o Título VII.
 
@@ -1124,7 +1192,9 @@ As alterações entram em vigor após a sua ratificação por todos os Estados-M
 
 Processos de revisão simplificados
 
-6 - O Governo de qualquer Estado-Membro, o Parlamento Europeu ou a Comissão podem submeter ao Conselho Europeu projectos de revisão de todas ou de parte das disposições da terceira parte do Tratado sobre o Funcionamento da União Europeia, relativas às políticas e acções internas da União.
+6 - O Governo de qualquer Estado-Membro, o Parlamento Europeu ou a Comissão podem submeter ao Conselho Europeu projectos de revisão de todas ou de parte das disposições da Parte III do Tratado sobre o Funcionamento da União Europeia, relativa às políticas e acções internas da União.
+
+> Alterado pelo/a [Aviso n.º 1/2012](https://diariodarepublica.pt/dr/detalhe/aviso/1-2012-544387), publicado em 2012-01-17.
 
 O Conselho Europeu pode adoptar uma decisão que altere todas ou parte das disposições da Parte III do Tratado sobre o Funcionamento da União Europeia. O Conselho Europeu delibera por unanimidade, após consulta ao Parlamento Europeu e à Comissão, bem como ao Banco Central Europeu em caso de alterações institucionais no domínio monetário. Essa decisão só entra em vigor após a sua aprovação pelos Estados-Membros, em conformidade com as respectivas normas constitucionais.
 
@@ -1194,17 +1264,23 @@ A - Alterações horizontais
 
 2) Em todo o Tratado:
 
-a) Os termos «a Comunidade» ou «a Comunidade Europeia» são substituídos por «a União», os termos «das Comunidades Europeias» ou «da CEE» são substituídos por «da União Europeia» e os adjectivos «comunitário», «comunitária», «comunitários» e «comunitárias» são substituídos por «da União», com exclusão da alínea c) do n.º 6 do artigo 299.º, que passa a ser a alínea c) do n.º 5 do artigo 311.º-A. No que diz respeito ao primeiro parágrafo do artigo 136.º, a alteração só se aplica à menção «A Comunidade»;
+a) Os termos «a Comunidade'/'as Comunidades» ou «a Comunidade Europeia'/'as Comunidades Europeias» são substituídos por «a União», os termos «das Comunidades Europeias» ou «da CEE» são substituídos por «da União Europeia» e os adjectivos «comunitário», «comunitária», «comunitários» e «comunitárias» são substituídos por «da União», com exclusão da alínea c) do n.º 6 do artigo 299.º, que passa a ser a alínea c) do n.º 5 do artigo 311.º-A. No que diz respeito ao primeiro parágrafo do artigo 136.º, a alteração só se aplica à menção «A Comunidade»;
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 b) Os termos «o presente Tratado'/'do presente Tratado», «do Tratado'/'ao presente Tratado'/'no presente Tratado» são substituídos, respectivamente, por «os Tratados», «dos Tratados» e «aos Tratados'/'nos Tratados», e, se for caso disso, o verbo e os adjectivos que se lhes seguem passam para o plural; a presente alínea não se aplica ao terceiro parágrafo do artigo 182.º e aos artigos 312.º e 313.º;
 
-c) Os termos «o Conselho, deliberando nos termos do artigo 251.º» e «pelo Conselho, deliberando nos termos do artigo 251.º» são substituídos, respectivamente, por «o Parlamento Europeu e o Conselho, deliberando de acordo com o processo legislativo ordinário» e «pelo Parlamento Europeu e o Conselho, deliberando de acordo com o processo legislativo ordinário» e os termos «nos termos do artigo 251.º e «o processo previsto no artigo 251.º» são substituídos por «de acordo com o processo legislativo ordinário», e, se for caso disso, o verbo que se lhes segue passa para o plural;
+c) Os termos 'o Conselho, deliberando nos termos do artigo 251.º'/'o Conselho, deliberando de acordo com o procedimento previsto no artigo 251.º' e 'pelo Conselho, deliberando nos termos do artigo 251.º' são substituídos, respectivamente, por 'o Parlamento Europeu e o Conselho, deliberando de acordo com o processo legislativo ordinário' e 'pelo Parlamento Europeu e o Conselho, deliberando de acordo com o processo legislativo ordinário' e os termos 'nos termos do artigo 251.º', 'de acordo com o procedimento previsto no artigo 251.º' e 'o processo previsto no artigo 251.º' são substituídos por 'de acordo com o processo legislativo ordinário', e, se for caso disso, o verbo que se lhes segue passa para o plural;
 
-d) São suprimidos os termos», deliberando por maioria qualificada» e «por maioria qualificada»;
+d) São suprimidos os termos 'deliberando por maioria qualificada', 'que delibera por maioria qualificada,' e 'por maioria qualificada';
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 e) Os termos «Conselho, reunido a nível de Chefes de Estado ou de Governo», são substituídos por «Conselho Europeu»;
 
-f) Os termos «instituições ou órgãos», «instituições e órgãos» e «instituições ou organismos» são substituídos por «instituições, órgãos ou organismos», com excepção do primeiro parágrafo do artigo 193.º;
+f) Os termos 'instituições ou órgãos', 'instituições e órgãos', 'instituições e organismos' e 'instituições ou organismos' são substituídos por 'instituições, órgãos ou organismos', com excepção do terceiro parágrafo do artigo 21.º e do primeiro parágrafo do artigo 193.º;
+
+> Alterado pelo/a [Aviso n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/aviso/70-2010-614842), publicado em 2010-05-20.
 
 g) Os termos «mercado comum» são substituídos por «mercado interno»;
 
@@ -1224,7 +1300,9 @@ n) Os termos «Tribunal de Primeira Instância» são substituídos por «Tribun
 
 o) Os termos «câmara jurisdicional» e «câmaras jurisdicionais» são substituídos, respectivamente, por «tribunal especializado» e «tribunais especializados», sendo o trecho em que se inserem gramaticalmente adaptado em conformidade.
 
-3) Nos artigos a seguir enumerados, os termos «o Conselho, deliberando por unanimidade» e «pelo Conselho, deliberando por unanimidade» são substituídos, respectivamente, por «o Conselho, deliberando por unanimidade, de acordo com um processo legislativo especial,» e «pelo Conselho, por unanimidade, deliberando de acordo com um processo legislativo especial,» e são suprimidos os termos «sob proposta da Comissão»:
+3) Nos artigos a seguir enumerados, os termos «o Conselho, deliberando por unanimidade» e «pelo Conselho, deliberando por unanimidade» são substituídos, respectivamente, por «o Conselho, deliberando por unanimidade, de acordo com um processo legislativo especial,» e «pelo Conselho, deliberando por unanimidade, de acordo com um processo legislativo especial,» e são suprimidos os termos «sob proposta da Comissão»:
+
+> Alterado pelo/a [Aviso n.º 1/2012](https://diariodarepublica.pt/dr/detalhe/aviso/1-2012-544387), publicado em 2012-01-17.
 
 - Artigo 13.º, que passa a ser o artigo 16.º-E, n.º 1;
 
@@ -1242,7 +1320,9 @@ o) Os termos «câmara jurisdicional» e «câmaras jurisdicionais» são substi
 
 - Artigo 175.º, n.º 2, primeiro parágrafo.
 
-4) Nos artigos a seguir enumerados, após os termos «o Conselho,» ou «do Conselho», são inseridos os termos «, deliberando por maioria simples,»:
+4) Nos artigos a seguir enumerados, após os termos 'o Conselho,', 'do Conselho' ou 'pelo Conselho', são inseridos os termos 'deliberando por maioria simples':
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 - Artigo 130.º, primeiro parágrafo;
 
@@ -1258,7 +1338,9 @@ o) Os termos «câmara jurisdicional» e «câmaras jurisdicionais» são substi
 
 - Artigo 284.º
 
-5) Nos artigos a seguir enumerados, os termos «consulta ao Parlamento Europeu» são substituídos por «aprovação do Parlamento Europeu»:
+5) Nos artigos a seguir enumerados, os termos 'consulta ao Parlamento Europeu' ou 'consulta do Parlamento Europeu' são substituídos por 'aprovação do Parlamento Europeu':
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 - Artigo 13.º, que passa a ser o artigo 16.º-E, n.º 1;
 
@@ -1334,9 +1416,9 @@ Nos artigos a seguir enumerados, após «Tribunal», são suprimidos os termos �
 
 - Artigo 228.º, n.º 1, segunda menção;
 
-- Artigo 230.º, terceiro parágrafo;
+- Artigo 230.º, segundo e terceiro parágrafos;
 
-- Artigo 231.º, segundo parágrafo;
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 - Artigo 232.º, terceiro parágrafo;
 
@@ -1350,7 +1432,9 @@ Nos artigos a seguir enumerados, após «Tribunal», são suprimidos os termos �
 
 - Artigo 21.º, terceiro parágrafo, que passa a ser o quarto parágrafo - remissão para o artigo 9.º (primeira remissão) e para o artigo 53.º, n.º 1 (segunda remissão);
 
-- Artigo 97.º-B - remissão para o artigo 2.º;
+- Artigo 4.º que passa a ser o artigo 97.º-B - remissão para o artigo 2.º;
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 - Artigo 98.º - remissão para o artigo 2.º (primeira remissão);
 
@@ -1612,7 +1696,9 @@ b) O n.º 3 passa a ter a seguinte redacção:
 
 «O Parlamento Europeu e o Conselho, por meio de regulamentos adoptados de acordo com o processo legislativo ordinário, estabelecem as normas processuais e as condições para a apresentação de uma iniciativa de cidadania na acepção do artigo 8.º-B do Tratado da União Europeia, incluindo o número mínimo de Estados-Membros de que devem provir os cidadãos que a apresentam.»
 
-38) No segundo parágrafo do artigo 22.º, o trecho «... os direitos previstos na presente Parte, cuja adopção recomendará aos Estados-Membros, nos termos das respectivas normas constitucionais.» é substituído por «... os direitos enumerados no n.º 2 do artigo 17.º-B. Essas disposições entram em vigor após a sua aprovação pelos Estados-Membros, em conformidade com as respectivas normas constitucionais.»
+38) No segundo parágrafo do artigo 22.º, o trecho «... os direitos previstos na presente Parte, cuja adopção recomendará aos Estados-Membros, nos termos das respectivas normas constitucionais.» é substituído por «... os direitos enumerados no n.º 2 do artigo 17.º Essas disposições entram em vigor após a sua aprovação pelos Estados-Membros, em conformidade com as respectivas normas constitucionais.»
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 39) Na denominação da Parte III, após «as políticas», são inseridos os termos «e acções internas».
 
@@ -1664,7 +1750,11 @@ c) São inseridos os novos n.os 2 e 3 com a seguinte redacção, sendo os númer
 
 3 - O Conselho, sob proposta da Comissão, adopta as medidas relativas à fixação dos preços, dos direitos niveladores, dos auxílios e das limitações quantitativas, bem como à fixação e à repartição das possibilidades de pesca.»;
 
-d) No n.º 3, que passa a ser o n.º 4, o proémio passa a ter a seguinte redacção: «As organizações nacionais de mercado podem ser substituídas, nas condições previstas no n.º 2, pela organização comum prevista no n.º 1 do artigo 34.º:»;
+d) No n.º 3, que passa a ser o n.º 4, a remissão para o n.º 2 constitui uma remissão para o novo n.º 2 e o proémio passa a ter a seguinte redacção:
+
+'4 - As organizações nacionais de mercado podem ser substituídas, nas condições previstas no n.º 2, pela organização comum prevista no n.º 1 do artigo 34.º:';
+
+> Alterado pelo/a [Aviso n.º 22/2010](https://diariodarepublica.pt/dr/detalhe/aviso/22-2010-617097), publicado em 2010-02-08.
 
 e) (Não diz respeito à versão em língua portuguesa.)
 
@@ -2214,7 +2304,9 @@ b) No n.º 2, no primeiro período, os termos «em euros» são inseridos após 
 
 a) São suprimidos os n.os 1 e 2 e os n.os 3, 4, 5, e 6 passam a ser, respectivamente, os n.os 1, 2, 3 e 4;
 
-b) No n.º 4, que passa a ser o n.º 2, os termos «Estatutos do SEBC» são substituídos por «Estatutos do Sistema Europeu de Bancos Centrais e do Banco Central Europeu, adiante designados «Estatutos do SEBC e do BCE» ...»; no n.º 6, que passa a ser o n.º 4, os termos «quer deliberando sob recomendação do BCE,» são substituídos por «quer por recomendação do Banco Central Europeu,»;
+b) No n.º 4, que passa a ser o n.º 2, os termos «Estatutos do SEBC» são substituídos por «Estatutos do Sistema Europeu de Bancos Centrais e do Banco Central Europeu, adiante designados «Estatutos do SEBC e do BCE», ...»; no n.º 6, que passa a ser o n.º 4, os termos «quer deliberando sob recomendação do BCE,» são substituídos por «quer por recomendação do Banco Central Europeu»;
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 c) O n.º 5, que passa a ser o n.º 3, passa a ter a seguinte redacção:
 
@@ -2292,7 +2384,9 @@ Disposições transitórias relativas aos Estados-Membros que beneficiam de uma 
 
 2 - Não são aplicáveis aos Estados-Membros que beneficiam de uma derrogação as seguintes disposições dos Tratados:
 
-a) Adopção das partes das orientações gerais das políticas económicas que estão relacionadas, de modo geral, com a zona euro (n.º 2 do artigo 99.º);
+a) Adopção das partes das orientações gerais das políticas económicas que estão relacionadas, de modo geral, com a área do euro (n.º 2 do artigo 99.º);
+
+> Alterado pelo/a [Aviso n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/aviso/70-2010-614842), publicado em 2010-05-20.
 
 b) Meios obrigatórios para obviar aos défices excessivos (n.os 9 e 11 do artigo 104.º);
 
@@ -2314,7 +2408,9 @@ j) Medidas para assegurar uma representação unificada nas instituições e con
 
 Por conseguinte, nos artigos referidos nas alíneas a) a j), por «Estados-Membros» entende-se os Estados-Membros cuja moeda seja o euro.
 
-3 - Os Estados-Membros objecto de derrogação e os respectivos bancos centrais nacionais ficam excluídos dos direitos e obrigações inerentes ao SEBC, conforme estipulado no Capítulo IX dos Estatutos do SEBC e do BCE.
+3 - Os Estados-Membros que beneficiam de uma derrogação e os respectivos bancos centrais nacionais ficam excluídos dos direitos e obrigações inerentes ao SEBC, conforme estipulado no Capítulo IX dos Estatutos do SEBC e do BCE.
+
+> Alterado pelo/a [Aviso n.º 1/2012](https://diariodarepublica.pt/dr/detalhe/aviso/1-2012-544387), publicado em 2012-01-17.
 
 4 - Os direitos de voto dos membros do Conselho que representam os Estados-Membros que beneficiam de uma derrogação ficam suspensos aquando da adopção, pelo Conselho, das medidas a que se referem os artigos enumerados no n.º 2, bem como nos seguintes casos:
 
@@ -2348,7 +2444,9 @@ i) No final do texto, o trecho «fixados no n.º 1 do artigo 121.º» é substit
 
 ii) São aditados os novos segundo e o terceiro parágrafos com a seguinte redacção:
 
-«O Conselho delibera mediante recomendação de uma maioria qualificada dos seus membros que representem os Estados-Membros cuja moeda seja o euro. Estes membros deliberam no prazo de seis meses após o Conselho ter recebido a proposta da Comissão.
+«O Conselho delibera após ter recebido uma recomendação emanada de uma maioria qualificada dos seus membros que representem os Estados-Membros cuja moeda seja o euro. Estes membros deliberam no prazo de seis meses após o Conselho ter recebido a proposta da Comissão.
+
+> Alterado pelo/a [Aviso n.º 1/2012](https://diariodarepublica.pt/dr/detalhe/aviso/1-2012-544387), publicado em 2012-01-17.
 
 A maioria qualificada dos referidos membros, a que se refere o segundo parágrafo, é definida nos termos da alínea a) do n.º 3 do artigo 205.º»;
 
@@ -2370,7 +2468,9 @@ i) No terceiro travessão, os termos «Sistema Monetário Europeu» são substit
 
 ii) O quinto travessão passa a ter a seguinte redacção:
 
-«- Exercer as antigas atribuições do Fundo Europeu de Cooperação Monetária, anteriormente assumidas pelo Instituto Monetário Europeu.»
+«- Exercer as antigas atribuições do Fundo Europeu de Cooperação Monetária, posteriormente assumidas pelo Instituto Monetário Europeu.»
+
+> Alterado pelo/a [Aviso n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/aviso/70-2010-614842), publicado em 2010-05-20.
 
 104) É inserido o artigo 118.º-B com a redacção do n.º 1 do artigo 124.º; o artigo é alterado do seguinte modo:
 
@@ -2436,7 +2536,9 @@ a) No n.º 2, no proémio do primeiro parágrafo, os termos «o Conselho» são 
 
 Nos domínios referidos nas alíneas c), d), f) e g) do n.º 1, o Conselho delibera de acordo com um processo legislativo especial, por unanimidade, após consulta ao Parlamento Europeu e aos referidos Comités.»
 
-O segundo período do segundo parágrafo passa a ser o último parágrafo e são suprimidos os termos «do presente artigo»;
+O segundo período do segundo parágrafo passa a ser o último parágrafo, são suprimidos os termos 'do presente artigo' e a expressão 'o processo previsto no artigo 251.º' é substituída por 'o processo legislativo ordinário';
+
+> Alterado pelo/a [Aviso n.º 1/2012](https://diariodarepublica.pt/dr/detalhe/aviso/1-2012-544387), publicado em 2012-01-17.
 
 b) No n.º 3, no final do primeiro parágrafo, é aditado o seguinte trecho: «... ou, se for caso disso, a execução de uma decisão do Conselho adoptada nos termos do artigo 139.º»; no segundo parágrafo, o trecho «... determinada directiva deva ser transposta nos termos do artigo 249.º,» é substituído por «... determinada directiva ou decisão deva ser transposta ou executada,» e, no final, são aditados os termos «... ou decisão».
 
@@ -2460,7 +2562,9 @@ Fundo Social Europeu
 
 Educação, formação profissional, juventude e desporto
 
-123) O Capítulo 3 passa a ser o Título XI e, no final da denominação, os termos «e a juventude» são substituídos por «, a juventude e o desporto».
+123) O Capítulo 3 passa a ser o Título XI e, no final da denominação, os termos «e juventude» são substituídos por «, juventude e desporto».
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 124) O artigo 149.º é alterado do seguinte modo:
 
@@ -2474,7 +2578,9 @@ b) No final do quinto travessão do n.º 2, é aditado o seguinte trecho «... e
 
 c) No n.º 3, os termos «em matéria de educação» são substituídos por «em matéria de educação e desporto»;
 
-d) No n.º 4, é suprimido o trecho», o Conselho adopta», o primeiro travessão começa por «o Parlamento Europeu e o Conselho, deliberando ...» e o termo «adoptam» é inserido antes de «acções de incentivo»; o segundo travessão começa por «o Conselho adopta, sob proposta ...».
+d) No n.º 4, é suprimido o trecho», o Conselho adopta», o primeiro travessão começa por «o Parlamento Europeu e o Conselho, deliberando ...» e o termo «adoptam» é inserido antes de «acções de incentivo»; o segundo travessão começa por «o Conselho adopta ...».
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 125) No final do n.º 4 do artigo 150.º, é aditado o seguinte trecho: «, e o Conselho adopta, sob proposta da Comissão, recomendações.»
 
@@ -2486,7 +2592,9 @@ a) No proémio, é suprimido o trecho «, o Conselho adopta»;
 
 b) No primeiro travessão, o primeiro período começa por «o Parlamento Europeu e o Conselho, deliberando ...», o termo «adoptam» é inserido antes de «acções de incentivo» e é suprimido o segundo período;
 
-c) No segundo travessão, é suprimido o trecho «deliberando por unanimidade» e o travessão começa por «O Conselho adopta, sob proposta ...».
+c) No segundo travessão, é suprimido o trecho «deliberando por unanimidade» e o travessão começa por «O Conselho adopta, ...».
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 Saúde pública
 
@@ -2514,7 +2622,9 @@ iv) A actual alínea c) passa a ser o n.º 5 com a seguinte redacção:
 
 e) O segundo parágrafo do actual n.º 4 passa a ser o n.º 6 e o n.º 5 passa a ser o n.º 7 com a seguinte redacção:
 
-«7 - A acção da União respeita as responsabilidades dos Estados-Membros no que se refere à definição das respectivas políticas de saúde, bem como à organização e prestação de serviços de saúde e de cuidados médicos. As responsabilidades dos Estados-Membros incluem a gestão dos serviços de saúde e de cuidados médicos, bem como a repartição dos recursos que lhes são afectados. As medidas a que se refere a alínea a) do n.º 4 não afectam as disposições nacionais sobre doação de órgãos e de sangue, nem a sua utilização para fins médicos.»
+«7 - A acção da União respeita as responsabilidades dos Estados-Membros no que se refere à definição das respectivas políticas de saúde, bem como à organização e prestação de serviços de saúde e de cuidados médicos. As responsabilidades dos Estados-Membros incluem a gestão dos serviços de saúde e de cuidados médicos, bem como a repartição dos recursos que lhes são afectados. As medidas a que se refere a alínea a) do n.º 4 não prejudicam as disposições nacionais sobre doação de órgãos e de sangue ou utilização dos mesmos para fins médicos.»
+
+> Alterado pelo/a [Aviso n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/aviso/70-2010-614842), publicado em 2010-05-20.
 
 Defesa dos consumidores
 
@@ -2552,7 +2662,9 @@ b) No segundo parágrafo, o trecho «, criado pelo Conselho segundo o mesmo proc
 
 c) É suprimido o terceiro parágrafo.
 
-134) No primeiro parágrafo do artigo 162.º, os termos «As decisões de aplicação relativas» e «serão tomadas» são substituídos, respectivamente, por «Os regulamentos de aplicação relativos» e por «são adoptados».
+134) No primeiro parágrafo do artigo 162.º, os termos «As decisões de aplicação relativas» e «serão tomadas pelo Conselho,» são substituídos, respectivamente, por «Os regulamentos de aplicação relativos» e por «são adoptados pelo Parlamento Europeu e pelo Conselho, deliberando».
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 Investigação e desenvolvimento tecnológico
 
@@ -2948,7 +3060,9 @@ b) Após consulta ao Parlamento Europeu, nos restantes casos. O Parlamento Europ
 
 8 - Ao longo de todo o processo, o Conselho delibera por maioria qualificada.
 
-Todavia, o Conselho delibera por unanimidade quando o acordo incida num domínio em que seja exigida a unanimidade para a adopção de um acto da União, bem como no caso dos acordos de associação e dos acordos com os Estados candidatos à adesão previstos no artigo 188.º-H. O Conselho delibera também por unanimidade relativamente ao acordo de adesão da União à Convenção Europeia para a Protecção dos Direitos do Homem e das Liberdades Fundamentais, A decisão de celebração desse acordo entra em vigor após a sua aprovação pelos Estados-Membros, em conformidade com as respectivas normas constitucionais.
+Todavia, o Conselho delibera por unanimidade quando o acordo incida num domínio em que seja exigida a unanimidade para a adopção de um acto da União, bem como no caso dos acordos de associação e dos acordos com os Estados candidatos à adesão previstos no artigo 188.º-H. O Conselho delibera também por unanimidade relativamente ao acordo de adesão da União à Convenção Europeia para a Protecção dos Direitos do Homem e das Liberdades Fundamentais. A decisão de celebração desse acordo entra em vigor após a sua aprovação pelos Estados-Membros, em conformidade com as respectivas normas constitucionais.
+
+> Alterado pelo/a [Aviso n.º 1/2012](https://diariodarepublica.pt/dr/detalhe/aviso/1-2012-544387), publicado em 2012-01-17.
 
 9 - O Conselho, sob proposta da Comissão ou do Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança, adopta uma decisão sobre a suspensão da aplicação de um acordo e em que se definam as posições a tomar em nome da União numa instância criada por um acordo, quando essa instância for chamada a adoptar actos que produzam efeitos jurídicos, com excepção dos actos que completem ou alterem o quadro institucional do acordo.
 
@@ -3080,9 +3194,11 @@ c) O quarto parágrafo passa a ter a seguinte redacção:
 
 «O Conselho Europeu e o Conselho são ouvidos pelo Parlamento Europeu nas condições previstas no regulamento interno do Conselho Europeu e no do Conselho.»
 
-186) No primeiro parágrafo do artigo 198.º, é suprimido o termo «absoluta».
+186) No artigo 198.º, no primeiro parágrafo, é suprimido o termo 'absoluta' e, no segundo parágrafo, os termos 'regulamento interno' são substituídos por 'regimento'.
 
-187) No primeiro parágrafo do artigo 199.º, no primeiro parágrafo, os termos «regulamento interno» são substituídos por «regimento» e, no segundo parágrafo, os termos «... condições previstas no regulamento» são substituídos por «... condições previstas nos Tratados e nesse regimento.»
+187) No artigo 199.º, no primeiro parágrafo, os termos «regulamento interno» são substituídos por «regimento» e, no segundo parágrafo, os termos «... condições previstas no regulamento» são substituídos por «... condições previstas nos Tratados e nesse regimento.»
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 188) No artigo 201.º, o segundo parágrafo passa a ter a seguinte redacção:
 
@@ -3144,7 +3260,9 @@ b) É suprimido o n.º 4 e o n.º 3 passa a ser o n.º 4.
 
 «Artigo 207.º
 
-1 - Cabe a um comité, composto pelos representantes permanentes dos Governos dos Estados-Membros, a responsabilidade pela preparação dos trabalhos do Conselho e pela execução dos mandatos que este lhe confia. O Comité pode adoptar decisões de natureza processual nos casos previstos no regulamento interno do Conselho.
+1 - Cabe a um Comité, composto pelos representantes permanentes dos Governos dos Estados-Membros, a responsabilidade pela preparação dos trabalhos do Conselho e pela execução dos mandatos que este lhe confia. O Comité pode adoptar decisões de natureza processual nos casos previstos no regulamento interno do Conselho.
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 2 - O Conselho é assistido por um Secretariado-Geral, colocado na dependência de um Secretário-Geral nomeado pelo Conselho.
 
@@ -3210,11 +3328,15 @@ Tribunal de justiça
 
 205) É revogado o artigo 220.º
 
-206) No artigo 221.º, é suprimido o primeiro parágrafo.
+206) No artigo 221.º, é suprimido o primeiro parágrafo; no segundo parágrafo, que passa a ser o primeiro parágrafo, os termos 'seu Estatuto' são substituídos por 'Estatuto do Tribunal de Justiça da União Europeia'.
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 207) No final do primeiro parágrafo do artigo 223.º, é aditado o trecho «..., após consulta ao comité previsto no artigo 224.º-A.».
 
-208) No artigo 224.º, no primeiro parágrafo, é suprimido o primeiro período e, após «O número de juízes ...», são inseridos os termos «do Tribunal Geral»; no final do segundo período do segundo parágrafo, é aditado o trecho «..., após consulta ao comité previsto no artigo 224.º-A.»
+208) No artigo 224.º, no primeiro parágrafo, é suprimido o primeiro período e, após 'O número de juízes' são inseridos os termos 'do Tribunal Geral'; no terceiro período, que passa a ser o segundo período, o termo 'Tribunal' é substituído por 'Tribunal Geral'; no final do segundo período do segundo parágrafo, é aditado o trecho 'após consulta ao comité previsto no artigo 224.º-A.'
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 209) É inserido o novo artigo 224.º-A com a seguinte redacção:
 
@@ -3292,7 +3414,9 @@ O Tribunal de Justiça é competente para se pronunciar sobre a legalidade de um
 
 Esse pedido deve ser formulado no prazo de um mês a contar da data da referida constatação. O Tribunal pronuncia-se no prazo de um mês a contar da data do pedido.»
 
-221) No artigo 236.º, o trecho «... no Estatuto ou decorrentes do regime que a estes é aplicável» é substituído por «... no Estatuto dos Funcionários da União e no Regime aplicável aos Outros Agentes da União».
+221) No artigo 236.º, o trecho «... no Estatuto ou decorrentes do regime que a estes é aplicável» é substituído por «... pelo Estatuto dos Funcionários da União e o Regime aplicável aos Outros Agentes da União».
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 222) (Não diz respeito à versão em língua portuguesa.)
 
@@ -3312,7 +3436,9 @@ No exercício das suas atribuições relativamente às disposições dos Capítu
 
 «Artigo 241.º
 
-Mesmo depois de decorrido o prazo previsto no quinto parágrafo do artigo 230.º, qualquer parte pode, em caso de litígio que ponha em causa um acto de alcance geral adoptado por uma instituição, um órgão ou um organismo da União, recorrer aos meios previstos no segundo parágrafo do artigo 230.º, para arguir, no Tribunal de Justiça da União Europeia, a inaplicabilidade desse acto.»
+Mesmo depois de decorrido o prazo previsto no sexto parágrafo do artigo 230.º, qualquer parte pode, em caso de litígio que ponha em causa um acto de alcance geral adoptado por uma instituição, um órgão ou um organismo da União, recorrer aos meios previstos no segundo parágrafo do artigo 230.º, para arguir, no Tribunal de Justiça da União Europeia, a inaplicabilidade desse acto.»
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 225) No segundo período do artigo 242.º, após «Tribunal», são suprimidos os termos «de Justiça».
 
@@ -3330,7 +3456,9 @@ O Banco Central Europeu
 
 Artigo 245.º-A
 
-1 - O Banco Central Europeu e os bancos centrais nacionais constituem o Sistema Europeu de Bancos Centrais (adiante designado 'SEBC'). O Banco Central Europeu e os bancos centrais nacionais dos Estados-Membros cuja moeda seja o euro, que constituem o Eurossistema, conduzem a política monetária da União.
+1 - O Banco Central Europeu e os bancos centrais nacionais constituem o Sistema Europeu de Bancos Centrais (adiante designado 'SEBC'). O Banco Central Europeu e os bancos centrais nacionais dos Estados-Membros cuja moeda seja o euro, que constituem o Eurosistema, conduzem a política monetária da União.
+
+> Alterado pelo/a [Aviso n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/aviso/70-2010-614842), publicado em 2010-05-20.
 
 2 - O SEBC é dirigido pelos órgãos de decisão do Banco Central Europeu. O objectivo primordial do SEBC é a manutenção da estabilidade dos preços. Sem prejuízo deste objectivo, o SEBC dá apoio às políticas económicas gerais na União para contribuir para a realização dos objectivos desta.
 
@@ -3350,7 +3478,9 @@ b) No n.º 2, é suprimida a numeração a) e b), passando a actual alínea a) a
 
 Tribunal de Contas
 
-230) No artigo 246.º, os termos «da União» são inseridos no final e é inserido o novo segundo parágrafo com a seguinte redacção:
+230) No artigo 246.º, os termos 'da União' são inseridos após os termos 'das contas' e é inserido o novo segundo parágrafo com a seguinte redacção:
+
+> Alterado pelo/a [Aviso n.º 1/2012](https://diariodarepublica.pt/dr/detalhe/aviso/1-2012-544387), publicado em 2012-01-17.
 
 «O Tribunal de Contas é composto por um nacional de cada Estado-Membro. Os seus membros exercem as suas funções com total independência, no interesse geral da União.»
 
@@ -3361,6 +3491,10 @@ a) São suprimidos o n.º 1 e o primeiro parágrafo do n.º 4. Os n.os 2 a 9 pas
 b) No n.º 2, que passa a ser o n.º 1, o termo «países» é substituído por «Estados»;
 
 c) No n.º 4, que passa a ser o n.º 3, após «No cumprimento dos seus deveres,», são inseridos os termos «os membros do Tribunal de Contas».
+
+d) No n.º 8, que passa a ser o n.º 7, é suprimido o trecho 'igualmente por maioria qualificada,'.
+
+> Aditado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 232) No artigo 248.º, o termo «organismo» é substituído por «órgão ou organismo», no singular ou no plural consoante o caso.
 
@@ -3800,7 +3934,9 @@ O Parlamento Europeu, o Conselho e a Comissão velam pela disponibilidade dos me
 
 Artigo 279.º-B
 
-Por iniciativa da Comissão, são convocados encontros regulares entre os Presidentes do Parlamento Europeu, do Conselho e da Comissão, no quadro dos procedimentos orçamentais referidos no presente capítulo. Os Presidentes tomam todas as medidas necessárias para promover a concertação e a aproximação das posições das instituições a que presidem, a fim de facilitar a aplicação das disposições do presente título.»
+Por iniciativa da Comissão, são convocados encontros regulares entre os Presidentes do Parlamento Europeu, do Conselho e da Comissão, no quadro dos procedimentos orçamentais referidos no presente título. Os Presidentes tomam todas as medidas necessárias para promover a concertação e a aproximação das posições das instituições a que presidem, a fim de facilitar a aplicação das disposições do presente título.»
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 Luta contra a fraude
 
@@ -3922,7 +4058,9 @@ d) No início do terceiro parágrafo, a remissão para o segundo parágrafo é s
 
 «Artigo 308.º
 
-1 - Se uma acção da União for considerada necessária, no quadro das políticas definidas pelos Tratados, para atingir um dos objectivos estabelecidos pelos Tratados, sem que estes tenham previsto os poderes de acção necessários para o efeito, o Conselho, deliberando por unanimidade, sob proposta da Comissão e após aprovação do Parlamento Europeu, adoptará as disposições adequadas. Quando as disposições em questão sejam adoptadas pelo Conselho de acordo com um processo legislativo especial, o Conselho delibera igualmente por unanimidade, sob proposta da Comissão e após consulta ao Parlamento Europeu.
+1 - Se uma acção da União for considerada necessária, no quadro das políticas definidas pelos Tratados, para atingir um dos objectivos estabelecidos pelos Tratados, sem que estes tenham previsto os poderes de acção necessários para o efeito, o Conselho, deliberando por unanimidade, sob proposta da Comissão e após aprovação do Parlamento Europeu, adoptará as disposições adequadas. Quando as disposições em questão sejam adoptadas pelo Conselho de acordo com um processo legislativo especial, o Conselho delibera igualmente por unanimidade, sob proposta da Comissão e após aprovação do Parlamento Europeu.
+
+> Alterado pelo/a [Aviso n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/aviso/70-2010-614842), publicado em 2010-05-20.
 
 2 - No âmbito do processo de controlo do princípio da subsidiariedade referido no n.º 3 do artigo 3.º-B do Tratado da União Europeia, a Comissão alerta os Parlamentos nacionais para as propostas baseadas no presente artigo.
 
@@ -4166,7 +4304,9 @@ PROTOCOLO RELATIVO AO EUROGRUPO
 
 As Altas Partes Contratantes:
 
-Desejosas de favorecer as condições de um crescimento económico mais forte na União Europeia e, nesta perspectiva, de desenvolver uma coordenação cada vez mais estreita das políticas económicas na zona euro;
+Desejosas de favorecer as condições de um crescimento económico mais forte na União Europeia e, nesta perspectiva, de desenvolver uma coordenação cada vez mais estreita das políticas económicas na área do euro;
+
+> Alterado pelo/a [Aviso n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/aviso/70-2010-614842), publicado em 2010-05-20.
 
 Conscientes da necessidade de prever disposições específicas para um diálogo reforçado entre os Estados-Membros cuja moeda seja o euro, na expectativa de que o euro se torne a moeda de todos os Estados-Membros da União;
 
@@ -4362,9 +4502,43 @@ No presente Protocolo, os termos «os Tratados» designam o Tratado da União Eu
 
 ###### Artigo 2.º
 
-Em tempo útil antes das eleições parlamentares europeias de 2009, o Conselho Europeu adopta, nos termos do segundo parágrafo do n.º 2 do artigo 9.º-A do Tratado da União Europeia, uma decisão que determine a composição do Parlamento Europeu.
+1 - Para o período remanescente da legislatura de 2009-2014 a contar da data de entrada em vigor do presente artigo, e em derrogação do segundo parágrafo do artigo 189.º e do n.º 2 do artigo 190.º do Tratado que institui a Comunidade Europeia e do segundo parágrafo do artigo 107.º e do n.º 2 do artigo 108.º do Tratado Que Institui a Comunidade Europeia da Energia Atómica, que se encontravam em vigor aquando das eleições parlamentares europeias de Junho de 2009, e em derrogação do número de lugares previstos no primeiro parágrafo do n.º 2 do artigo 14.º do Tratado da União Europeia, os 18 lugares a seguir indicados são acrescentados aos 736 lugares existentes, elevando assim provisoriamente o número total de membros do Parlamento Europeu para 754 até ao final da legislatura de 2009-2014:
 
-Até ao fim da legislatura de 2004 a 2009, a composição e o número de membros do Parlamento Europeu continuam a ser os existentes à data da entrada em vigor do Tratado de Lisboa.
+Bulgária - um;
+
+Espanha - quatro;
+
+França - dois;
+
+Itália - um;
+
+Letónia - um;
+
+Malta - um;
+
+Países Baixos - um;
+
+Áustria - dois;
+
+Polónia - um;
+
+Eslovénia - um;
+
+Suécia - dois;
+
+Reino Unido - um.
+
+2 - Em derrogação do n.º 3 do artigo 14.º do Tratado da União Europeia, os Estados membros em causa designam as pessoas que ocuparão os lugares suplementares referidos no n.º 1, nos termos da legislação dos Estados membros em causa e desde que tenham sido eleitas por sufrágio universal directo:
+
+a) Numa eleição por sufrágio universal directo ad hoc no Estado membro em causa, nos termos das disposições aplicáveis às eleições do Parlamento Europeu;
+
+b) Em função do resultado das eleições parlamentares europeias de 4 a 7 de Junho de 2009; ou
+
+c) Através da designação pelo parlamento nacional do Estado membro em causa do número necessário de deputados, escolhidos entre os seus membros, de acordo com o procedimento estabelecido por cada um desses Estados membros.
+
+3 - Em tempo útil antes das eleições parlamentares europeias de 2014, o Conselho Europeu adopta, nos termos do segundo parágrafo do n.º 2 do artigo 14.º do Tratado da União Europeia, uma decisão que determine a composição do Parlamento Europeu.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 78/2011](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/78-2011-278058), publicado em 2011-04-05.
 
 ## TÍTULO II — Disposições relativas à maioria qualificada
 
@@ -4628,7 +4802,9 @@ O Protocolo relativo ao Estatuto do Tribunal de Justiça da União Europeia, o P
 
 b) Os termos «das Comunidades» são substituídos por «da União» e os termos «as Comunidades» por «a União», e, se for caso disso, os trechos relevantes são gramaticalmente adaptados em conformidade.
 
-4) Nos Protocolos a seguir enumerados, os termos «do Tratado» ou «do presente Tratado» e «o Tratado» ou «o presente Tratado» são substituídos, respectivamente, por «dos Tratados» e «os Tratados», e a referência ao Tratado da União Europeia e ou ao Tratado que institui a Comunidade Europeia é substituída por uma referência aos Tratados:
+4) Nos Protocolos a seguir enumerados, os termos 'pelo presente Tratado', 'do Tratado' ou 'do presente Tratado' e 'o Tratado' ou 'o presente Tratado' são substituídos, respectivamente, por 'pelos Tratados', 'dos Tratados' e 'os Tratados', e a referência ao Tratado da União Europeia e ou ao Tratado que institui a Comunidade Europeia é substituída por uma referência aos Tratados, e, se for caso disso, o trecho relevante é gramaticalmente adaptado em conformidade:
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 a) Protocolo relativo ao Estatuto do Tribunal de Justiça da União Europeia:
 
@@ -4637,6 +4813,10 @@ a) Protocolo relativo ao Estatuto do Tribunal de Justiça da União Europeia:
 b) Protocolo relativo aos Estatutos do Sistema Europeu de Bancos Centrais e do Banco Central Europeu:
 
 - Artigo 1.º-1, novo segundo parágrafo;
+
+- artigo 7.º (segunda menção do Tratado),
+
+> Aditado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 - Artigo 12.º-1, primeiro parágrafo;
 
@@ -4690,7 +4870,7 @@ a) Protocolo relativo aos Estatutos do Sistema Europeu de Bancos Centrais e do B
 
 - Artigo 7.º;
 
-- Artigo 9.º-1;
+> Alterado pelo/a [Aviso n.º 22/2010](https://diariodarepublica.pt/dr/detalhe/aviso/22-2010-617097), publicado em 2010-02-08.
 
 - Artigo 10.º-1;
 
@@ -4928,7 +5108,9 @@ h) À denominação do Título III são aditados os termos «perante o Tribunal 
 
 i) O artigo 23.º é alterado do seguinte modo:
 
-i) No primeiro parágrafo, no primeiro período, são suprimidos os termos «no n.º 1 do artigo 35.º do Tratado UE»; no segundo período, o trecho «... bem como ao Conselho ou ao Banco Central Europeu, se o acto cuja validade ou interpretação é contestada deles emanar, e ao Parlamento Europeu e ao Conselho, se o acto cuja validade ou interpretação é contestada tiver sido adoptado conjuntamente por estas duas instituições.» é substituído por «... bem como à instituição, órgão ou organismo da União que tiver adoptado o acto cuja validade ou interpretação é contestada.»;
+i) No primeiro parágrafo, no primeiro período, são suprimidos os termos «no n.º 1 do artigo 35.º do Tratado UE,»; no segundo período, o trecho «... bem como ao Conselho ou ao Banco Central Europeu, se o acto cuja validade ou interpretação é contestada deles emanar, e ao Parlamento Europeu e ao Conselho, se o acto cuja validade ou interpretação é contestada tiver sido adoptado conjuntamente por estas duas instituições.» é substituído por «... bem como à instituição, órgão ou organismo da União que tiver adoptado o acto cuja validade ou interpretação é contestada.»;
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 ii) No segundo parágrafo, o trecho «... e, se for caso disso, o Parlamento Europeu, o Conselho e o Banco Central Europeu têm o direito ...» é substituído por «... e, se for caso disso, a instituição, órgão ou organismo da União que tiver adoptado o acto cuja validade ou interpretação é contestada tem o direito ...»;
 
@@ -4968,7 +5150,9 @@ a) No primeiro considerando do preâmbulo, a remissão para o artigo 8.º do Tra
 
 b) A denominação do Capítulo I passa a ter a seguinte redacção: «O Sistema Europeu de Bancos Centrais»;
 
-c) O artigo 1.º-1 é cindido em dois parágrafos correspondentes aos dois períodos e fica sem número. O primeiro parágrafo passa a ter a seguinte redacção: «De acordo com o disposto no n.º 1 do artigo 245.º-A do Tratado sobre o Funcionamento da União Europeia, o Banco Central Europeu (adiante designado 'BCE') e os bancos centrais nacionais constituem o Sistema Europeu de Bancos Centrais (adiante designado 'SEBC'). O BCE e os bancos centrais nacionais dos Estados-Membros cuja moeda seja o euro constituem o Eurossistema.»; no início do segundo parágrafo, o termo «Exercerão ...» é substituído por «O SEBC e o BCE exercem ...»;
+c) O artigo 1.º-1 é cindido em dois parágrafos correspondentes aos dois períodos e fica sem número. O primeiro parágrafo passa a ter a seguinte redacção: «De acordo com o disposto no n.º 1 do artigo 245.º-A do Tratado sobre o Funcionamento da União Europeia, o Banco Central Europeu (adiante designado 'BCE') e os bancos centrais nacionais constituem o Sistema Europeu de Bancos Centrais (adiante designado 'SEBC'). O BCE e os bancos centrais nacionais dos Estados-Membros cuja moeda seja o euro constituem o Eurosistema.»; no início do segundo parágrafo, o termo «Exercerão ...» é substituído por «O SEBC e o BCE exercem ...»;
+
+> Alterado pelo/a [Aviso n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/aviso/70-2010-614842), publicado em 2010-05-20.
 
 d) É suprimido o artigo 1.º-2;
 
@@ -4988,7 +5172,9 @@ ii) No final do primeiro período do primeiro travessão do artigo 10.º-2, o tr
 
 iii) É suprimido o artigo 10.º-6;
 
-j) No primeiro parágrafo do artigo 11.º-2, o trecho «... são nomeados, de entre personalidades de reconhecida competência e com experiência profissional nos domínios monetário ou bancário, de comum acordo, pelos Governos dos Estados-Membros a nível de Chefes de Estado ou de Governo, sob recomendação do Conselho e após este ter consultado o Parlamento Europeu e o Conselho do BCE» é substituído por «... são nomeados pelo Conselho Europeu, deliberando por maioria qualificada, por recomendação do Conselho e após consulta ao Parlamento Europeu e ao Conselho do Banco Central Europeu, de entre personalidades de reconhecida competência e com experiência profissional nos domínios monetário ou bancário.»;
+j) No primeiro parágrafo do artigo 11.º-2, o trecho «... são nomeados, de entre personalidades de reconhecida competência e com experiência profissional nos domínios monetário ou bancário, de comum acordo, pelos Governos dos Estados-Membros a nível de Chefes de Estado ou de Governo, sob recomendação do Conselho e após este ter consultado o Parlamento Europeu e o Conselho do BCE» é substituído por «... são nomeados pelo Conselho Europeu, deliberando por maioria qualificada, por recomendação do Conselho e após consulta ao Parlamento Europeu e ao Conselho do BCE, de entre personalidades de reconhecida competência e com experiência profissional nos domínios monetário ou bancário.»;
+
+> Alterado pelo/a [Aviso n.º 1/2012](https://diariodarepublica.pt/dr/detalhe/aviso/1-2012-544387), publicado em 2012-01-17.
 
 k) No artigo 14.º-1.º, são suprimidos os termos «..., o mais tardar à data da instituição do SEBC,»;
 
@@ -5012,7 +5198,9 @@ t) É revogado o artigo 37.º e os artigos que se lhe seguem são renumerados em
 
 u) O artigo 41.º, que passa a ser o artigo 40.º, é alterado do seguinte modo:
 
-i) No n.º 41.º-1, que passa a ser o n.º 40.º-1, o trecho «... podem ser alterados pelo Conselho, deliberando quer por maioria qualificada, sob recomendação ...» é substituído por «... podem ser alterados pelo Parlamento Europeu e pelo Conselho, deliberando de acordo com o processo legislativo ordinário, quer sob recomendação...» e são suprimidos os termos «por unanimidade» e o último período;
+i) No n.º 41.º-1, que passa a ser o n.º 40.º-1, o trecho «... podem ser alterados pelo Conselho, deliberando quer por maioria qualificada, sob recomendação ...» é substituído por «... podem ser alterados pelo Parlamento Europeu e pelo Conselho, deliberando de acordo com o processo legislativo ordinário, quer sob recomendação...» e são suprimidos os termos «por unanimidade,» e o último período;
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 ii) É inserido o novo n.º 40.º-2 com a seguinte redacção, passando o actual n.º 41.º-2 a ser o n.º 40.º-3:
 
@@ -5028,7 +5216,9 @@ y) No artigo 47.º-3, que passa a ser o artigo 46.º-3, o trecho «... em relaç
 
 z) Os artigos 50.º e 51.º são revogados e os artigos que se lhe seguem são renumerados em conformidade;
 
-aa) No artigo 52.º, que passa a ser o artigo 49.º, a seguir a «Após a fixação irrevogável das taxas de câmbio ...» são inseridos os termos «nos termos do n.º 3 do artigo 116.º-A do Tratado sobre o Funcionamento da União Europeia»;
+aa) No artigo 52.º, que passa a ser o artigo 49.º, na epígrafe do artigo, os termos 'denominados em moedas da Comunidade' são substituídos por 'denominados em moedas dos Estados membros' e, no texto do artigo, a seguir a 'Após a fixação irrevogável das taxas de câmbio' são inseridos os termos 'nos termos do n.º 3 do artigo 117.º-A do Tratado sobre o Funcionamento da União Europeia';
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 ab) (Não diz respeito à versão em língua portuguesa.)
 
@@ -5036,11 +5226,15 @@ Estatutos do BEI
 
 12) O Protocolo relativo aos Estatutos do Banco Europeu de Investimento é alterado do seguinte modo:
 
-a) Em todo o Protocolo, a remissão para um artigo do «Tratado» é substituída por uma remissão para um artigo do «Tratado sobre o Funcionamento da União Europeia», salvo na segunda menção no artigo 1.º em que a remissão deve ser feita para «daquele Tratado»;
+a) Em todo o Protocolo, a remissão para um artigo do 'Tratado' é substituída por uma remissão para um artigo do 'Tratado sobre o Funcionamento da União Europeia';
+
+> Alterado pelo/a [Aviso n.º 22/2010](https://diariodarepublica.pt/dr/detalhe/aviso/22-2010-617097), publicado em 2010-02-08.
 
 b) No último parágrafo do preâmbulo, os termos «a este Tratado» são substituídos por «ao Tratado da União Europeia e ao Tratado sobre o Funcionamento da União Europeia»;
 
-c) No artigo 1.º, é suprimido o segundo parágrafo;
+c) No artigo 1.º, no primeiro parágrafo os termos 'as disposições do Tratado' são substituídos por 'as disposições dos Tratados' e o segundo parágrafo é suprimido;
+
+> Alterado pelo/a [Aviso n.º 22/2010](https://diariodarepublica.pt/dr/detalhe/aviso/22-2010-617097), publicado em 2010-02-08.
 
 d) No artigo 3.º, o proémio passa a ter a seguinte redacção: «Nos termos do artigo 266.º do Tratado sobre o Funcionamento da União Europeia, os Estados-Membros são os membros do Banco.» e é suprimida a lista de Estados;
 
@@ -5082,7 +5276,9 @@ h) O artigo 9.º, que passa a ser o artigo 7.º, é alterado do seguinte modo:
 
 i) No n.º 2, o trecho «..., designadamente no que diz respeito aos objectivos a ter em consideração, à medida que progride a realização do mercado comum.» é substituído por «... de acordo com os objectivos da União.»;
 
-ii) No n.º 3, a alínea b) passa a ter a seguinte redacção: «b) Para efeitos do n.º 1 do artigo 9.º, determina quais os princípios aplicáveis às operações de financiamento no âmbito das atribuições do Banco;», a alínea d) passa a ter a seguinte redacção: «d) Decide da concessão dos financiamentos de operações de investimento a realizar total ou parcialmente fora do território dos Estados-Membros, nos termos do n.º 1 do artigo 16.º;» e, na alínea g), o termo «demais» é inserido antes de «poderes» e o trecho «previstas nos artigos 4.º, 7.º, 14.º, 17.º, 26.º e 27.º» é substituído por «que lhe são conferidas pelos presentes Estatutos»;
+ii) No n.º 3, a alínea b) passa a ter a seguinte redacção: «b) Para efeitos do n.º 1 do artigo 9.º, determina quais os princípios aplicáveis às operações de financiamento no âmbito das atribuições do Banco;», a alínea d) passa a ter a seguinte redacção: «d) Decide da concessão dos financiamentos de operações de investimento a realizar total ou parcialmente fora do território dos Estados-Membros, nos termos do n.º 1 do artigo 16.º;» e, na alínea g), o termo «demais» é inserido antes de «poderes» e o trecho «previstas nos artigos 4.º, 7.º, 14.º, 17.º, 26.º e 27.º» é substituído por «que lhe são conferidas pelos presentes Estatutos» e no n.º 4, o trecho 'No âmbito do Tratado e destes Estatutos' é substituído por 'No âmbito do Tratado e dos presentes Estatutos;
+
+> Alterado pelo/a [Aviso n.º 1/2012](https://diariodarepublica.pt/dr/detalhe/aviso/1-2012-544387), publicado em 2012-01-17.
 
 i) O artigo 10.º, que passa a ser o artigo 8.º, é alterado do seguinte modo:
 
@@ -5100,7 +5296,9 @@ i) O primeiro parágrafo do n.º 1 passa a ter a seguinte redacção:
 
 «1 - O Conselho de Administração decide da concessão de financiamentos, designadamente sob a forma de créditos e garantias e da contracção de empréstimos, fixa as taxas de juro dos empréstimos concedidos, bem como as comissões e outros encargos. Com base numa decisão tomada por maioria qualificada, pode delegar determinadas funções no Comité Executivo, determinando as condições e regras a que obedecerá a delegação e supervisionando a sua execução.
 
-O Conselho de Administração fiscaliza a boa administração do Banco e assegura a conformidade da gestão do Banco com as disposições do Tratado e dos Estatutos e com as directivas gerais estabelecidas pelo Conselho de Governadores.»;
+O Conselho de Administração fiscaliza a boa administração do Banco e assegura a conformidade da gestão do Banco com as disposições dos Tratados e dos Estatutos e com as directivas gerais estabelecidas pelo Conselho de Governadores.»;
+
+> Alterado pelo/a [Aviso n.º 1/2012](https://diariodarepublica.pt/dr/detalhe/aviso/1-2012-544387), publicado em 2012-01-17.
 
 ii) No n.º 2, o sexto parágrafo passa a ter a seguinte redacção:
 
@@ -5114,7 +5312,9 @@ i) No segundo parágrafo do n.º 3, os termos «... concessão de créditos» s�
 
 ii) No n.º 4, os termos «... sobre os projectos de concessão de créditos e garantias e sobre os projectos de contracção de empréstimos» são substituídos por «... sobre as propostas de contracção de empréstimos e de concessão de financiamentos, designadamente sob a forma de créditos e garantias»;
 
-iii) No n.º 7, os primeiro e segundo períodos passam a ter a seguinte redacção: «O pessoal do Banco fica sujeito à autoridade do Presidente. Os membros do pessoal são por ele admitidos e despedidos»; no final é aditado o seguinte período: «O regulamento interno determina qual o órgão competente para adoptar as disposições aplicáveis ao pessoal.»;
+iii) No n.º 7, os primeiro e segundo períodos passam a ter a seguinte redacção: «O pessoal do Banco fica sujeito à autoridade do Presidente. Os membros do pessoal são por ele admitidos e despedidos.»; no final é aditado o seguinte período: «O regulamento interno determina qual o órgão competente para adoptar as disposições aplicáveis ao pessoal.»;
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 l) O artigo 14.º, que passa a ser o artigo 12.º, é alterado do seguinte modo:
 
@@ -5132,7 +5332,9 @@ m) No artigo 15.º, que passa a ser o artigo 13.º, os termos «banco emissor» 
 
 n) O artigo 18.º, que passa a ser o artigo 16.º, é alterado do seguinte modo:
 
-i) No n.º 1, no primeiro parágrafo, o trecho «... concede créditos» é substituído por «concede financiamentos, designadamente sob a forma de créditos e garantias,», os termos «projectos de investimento» são substituídos por «investimentos» e é suprimido o termo «europeus»; no segundo parágrafo, o trecho «..., por derrogação autorizada pelo Conselho de Governadores, deliberando por unanimidade,» é substituído por «..., por decisão do Conselho de Governadores, deliberando por maioria qualificada,» os termos «créditos para projectos de investimento» são substituídos por «financiamentos para investimentos» e é suprimido o termo «europeus»;
+i) No n.º 1, no primeiro parágrafo, o trecho «... concederá créditos» é substituído por «concede financiamentos, designadamente sob a forma de créditos e garantias,», os termos «projectos de investimento» são substituídos por «investimentos» e é suprimido o termo «europeus»; no segundo parágrafo, o trecho «..., por derrogação autorizada pelo Conselho de Governadores, deliberando por unanimidade,» é substituído por «..., por decisão do Conselho de Governadores, deliberando por maioria qualificada,» os termos «créditos para projectos de investimento» são substituídos por «financiamentos para investimentos» e é suprimido o termo «europeus»;
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 ii) No n.º 3, o termo «projecto» é substituído por «investimento», no final são aditados os termos «, quer da solidez financeira do devedor» e é aditado o novo segundo parágrafo com a seguinte redacção:
 
@@ -5244,7 +5446,13 @@ d) No artigo 13.º, que passa a ser o artigo 12.º, no final do primeiro períod
 
 e) No artigo 15.º, que passa a ser o artigo 14.º, o trecho inicial «O Conselho, deliberando por unanimidade, sob proposta formulada pela Comissão, fixará ...» é substituído por «O Parlamento Europeu e o Conselho, por meio de regulamentos adoptados de acordo com o processo legislativo ordinário e após consulta às instituições interessadas, estabelecem ...»;
 
-f) No artigo 16.º, que passa a ser o artigo 15.º, o trecho inicial «O Conselho, deliberando sob proposta da Comissão, e após consulta das ...» é substituído por «O Parlamento Europeu e o Conselho, por meio de regulamentos adoptados de acordo com o processo legislativo ordinário e após consulta às ...»;
+f) No artigo 16.º, que passa a ser o artigo 15.º, o trecho inicial «O Conselho, deliberando sob proposta da Comissão, e após consulta das ...» é substituído por «O Parlamento Europeu e o Conselho, por meio de regulamentos adoptados de acordo com o processo legislativo ordinário e após consulta às ...» e o período é gramaticalmente adaptado em conformidade;
+
+f-A) No artigo 20.º, que passa a ser o artigo 19.º, os termos 'aos membros da Comissão' são substituídos por 'ao Presidente do Conselho Europeu', é aditado o seguinte parágrafo:
+
+'São igualmente aplicáveis aos membros da Comissão.'
+
+> Alterado pelo/a [Aviso n.º 22/2010](https://diariodarepublica.pt/dr/detalhe/aviso/22-2010-617097) e [Aviso n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/aviso/70-2010-614842), publicado em 2010-05-20.
 
 g) No artigo 21.º, que passa a ser o artigo 20.º, após os termos «advogados-gerais,» o termo «secretário» é substituído por «secretários» e são suprimidos os termos «... bem como aos membros e ao secretário do Tribunal de Primeira Instância, ...»;
 
@@ -5258,11 +5466,15 @@ PROTOCOLO RELATIVO AOS CRITÉRIOS DE CONVERGÊNCIA
 
 a) No título do Protocolo, é suprimido o trecho «a que se refere o artigo 121.º do Tratado que institui a Comunidade Europeia»;
 
-b) No primeiro considerando, os termos «na tomada de decisão sobre a passagem para a terceira fase da União Económica e Monetária ...» são substituídos por «... para as suas decisões de revogar as derrogações dos Estados-Membros que delas beneficiem, ...»;
+b) No primeiro considerando, o trecho 'na tomada de decisão sobre a passagem para a terceira fase da União Económica e Monetária a que se refere o n.º 1 do artigo 121.º do presente Tratado,' é substituído por 'nas suas decisões referidas no artigo 117.º-A do Tratado sobre o Funcionamento da União Europeia, de revogar as derrogações dos Estados membros que delas beneficiem,'
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 c) No artigo 3.º, os termos «... em relação à moeda de qualquer outro Estado-Membro durante o mesmo período.» são substituídos por «... em relação ao euro durante o mesmo período.»;
 
-d) No artigo 6.º, são suprimidos os termos «, do IME»;
+d) No artigo 6.º, os termos 'do IME ou do BCE conforme o caso,' são substituídos por 'do BCE';
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 e) (Não diz respeito à versão em língua portuguesa.)
 
@@ -5288,15 +5500,19 @@ f) O ponto 5, que passa a ser o ponto 4, é alterado do seguinte modo:
 
 i) No primeiro período, a enumeração de artigos é substituída por «o n.º 2 do artigo 245.º-A, com excepção do primeiro e último períodos, o n.º 5 do artigo 245.º-A, o segundo parágrafo do artigo 97.º-B, os n.os 1, 9 e 11 do artigo 104.º, os n.os 1 a 5 do artigo 105.º, o artigo 106.º, os artigos 108.º, 109.º, 110.º e 111.º-A, o artigo 115.º-C, o n.º 3 do artigo 117.º-A e os artigos 188.º-O e 245.º-B do Tratado sobre o Funcionamento da União Europeia.»;
 
-ii) É inserido o novo segundo período com a seguinte redacção: «De igual modo, não é aplicável o n.º 2 do artigo 99.º do referido Tratado no que se refere à adopção das partes das orientações gerais das políticas económicas que estão relacionadas, de um modo geral, com a zona euro.»;
+ii) É inserido o novo segundo período com a seguinte redacção: «De igual modo, não é aplicável o n.º 2 do artigo 99.º do referido Tratado no que se refere à adopção das partes das orientações gerais das políticas económicas que estão relacionadas, de um modo geral, com a área do euro.»;
+
+> Alterado pelo/a [Aviso n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/aviso/70-2010-614842), publicado em 2010-05-20.
 
 g) No ponto 6, que passa a ser o ponto 5, é inserido o novo primeiro parágrafo com a seguinte redacção: «O Reino Unido envida esforços para evitar um défice orçamental excessivo.» e no início do parágrafo que se lhe segue é suprimido o trecho «O n.º 4 do artigo 116.º e»;
 
 h) No ponto 7, que passa a ser o ponto 6, o primeiro parágrafo passa a ter a seguinte redacção: «6 - O direito de voto do Reino Unido fica suspenso em relação aos actos do Conselho a que se referem os artigos enumerados no ponto 4 e nos casos referidos no primeiro parágrafo do n.º 4 do artigo 116.º-A do Tratado sobre o Funcionamento da União Europeia. Para esse efeito, é aplicável o segundo parágrafo do n.º 4 do artigo 116.º-A do referido Tratado.». No segundo parágrafo, são suprimidos os termos «e do n.º 1 do artigo 123.º»;
 
-i) No ponto 9, que passa a ser o ponto 8, na alínea a), o trecho «passar para essa fase» é substituído por «adoptar o euro»;
+i) No n.º 9, que passa a ser o n.º 8, na alínea a), o trecho 'passar para essa fase' é substituído por 'adoptar o euro' e, na alínea b), os termos 'artigo 10.º do presente Protocolo' são substituídos por 'ponto 10';
 
-j) No ponto 10, que passa a ser o ponto 9, o proémio passa a ter a seguinte redacção: «O Reino Unido pode, em qualquer momento, notificar o Conselho da sua intenção de adoptar o euro. Nesse caso: ...». Na alínea a), a remissão para o n.º 2 do artigo 122.º é substituída por uma remissão para os n.os 1 e 2 do artigo 117.º-A;
+j) No ponto 10, que passa a ser o ponto 9, o proémio passa a ter a seguinte redacção: «O Reino Unido pode, em qualquer momento, notificar o Conselho da sua intenção de adoptar o euro. Nesse caso: ...». Na alínea a), a remissão para o n.º 2 do artigo 122.º é substituída por uma remissão para os n.os 1 e 2 do artigo 117.º-A. No segundo parágrafo, os termos 'artigos 3.º a 9.º do presente Protocolo' são substituídos por 'pontos 3 a 9';
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 k) No ponto 11, que passa a ser o ponto 10, são suprimidos os termos «e no n.º 3 do artigo 116.º» e o trecho final «... não passar para a terceira fase» é substituído por «... não adoptar o euro».
 
@@ -5350,7 +5566,9 @@ e) O artigo 3.º passa a ter a seguinte redacção:
 
 A participação da Dinamarca na adopção das medidas que constituam um desenvolvimento do acervo de Schengen, bem como a execução e a aplicação dessas medidas à Dinamarca, regem-se pelas disposições pertinentes do Protocolo relativo à posição da Dinamarca.»;
 
-f) No primeiro parágrafo do artigo 4.º, é suprimido o trecho «..., que não se encontram vinculados pelo acervo de Schengen,»;
+f) No primeiro parágrafo do artigo 4.º, é suprimido o trecho '..., que não se encontram vinculados pelo acervo de Schengen,' e os termos 'desse acervo' são substituídos por 'do acervo de Schengen;'
+
+> Alterado pelo/a [Aviso n.º 22/2010](https://diariodarepublica.pt/dr/detalhe/aviso/22-2010-617097), publicado em 2010-02-08.
 
 g) O artigo 5.º passa a ter a seguinte redacção:
 
@@ -5640,7 +5858,9 @@ Outros Protocolos
 
 26) No Protocolo relativo às relações externas dos Estados-Membros no que respeita à passagem das fronteiras externas, a remissão para a alínea a) do ponto 2) do artigo 62.º do Título IV do Tratado é substituída por uma remissão para a alínea b) do n.º 2 do artigo 62.º do Tratado sobre o Funcionamento da União Europeia.
 
-27) No dispositivo do Protocolo relativo ao artigo 17.º do Tratado da União Europeia, é suprimido o trecho «No prazo de um ano a contar da data de entrada em vigor do Tratado de Amesterdão,».
+27) No Protocolo relativo ao artigo 17.º do Tratado da União Europeia, no primeiro considerando do preâmbulo, a remissão para 'as disposições do n.º 1, segundo parágrafo, e do n.º 3 do artigo 17.º' é substituída por uma remissão para 'o disposto no n.º 2 do artigo 28.º-A' e, no dispositivo, é suprimido o trecho «No prazo de um ano a contar da data de entrada em vigor do Tratado de Amesterdão,».
+
+> Alterado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 28) No último parágrafo do preâmbulo do Protocolo relativo ao serviço público de radiodifusão nos Estados-Membros, o trecho «que vêm anexas ao Tratado que institui a Comunidade Europeia» é substituído por «que vêm anexas ao Tratado da União Europeia e ao Tratado sobre o Funcionamento da União Europeia».
 
@@ -5675,6 +5895,12 @@ i) No primeiro parágrafo, o trecho «deliberando por unanimidade, sob proposta 
 ii) No segundo parágrafo, o trecho «e os processos adequados de tomada de decisão, em particular tendo em vista a adopção de directrizes ...» é substituído por «O Conselho adopta, sob proposta da Comissão e após consulta ao Parlamento Europeu, as medidas que estabelecem as directrizes ...» e os termos «e de directrizes técnicas» são substituídos por «e as directrizes técnicas»;
 
 d) O artigo 4.º é revogado.
+
+ANEXOS
+
+34) No anexo i, capítulo i, ex 22.08, ex 22.09, são suprimidos os termos 'ao presente Tratado.'
+
+> Aditado pelo/a [Aviso n.º 185/2008](https://diariodarepublica.pt/dr/detalhe/aviso/185-2008-453857), publicado em 2008-09-15.
 
 ###### Artigo 2.º
 
@@ -5752,13 +5978,19 @@ A denominação do Título IV do Tratado CEEA, «Disposições financeiras», é
 
 ###### Artigo 7.º
 
-1 - No terceiro parágrafo do artigo 38.º e no terceiro parágrafo do artigo 82.º do Tratado CEEA, as remissões para os artigos 141.º e 142.º são substituídas por remissões para os artigos 226.º e 227.º, respectivamente, do Tratado sobre o Funcionamento da União Europeia.
+1 - No terceiro parágrafo do artigo 38.º e no quarto parágrafo do artigo 82.º do Tratado CEEA, as remissões para os artigos 141.º e 142.º são substituídas por remissões para os artigos 226.º e 227.º, respectivamente, do Tratado sobre o Funcionamento da União Europeia.
+
+> Alterado pelo/a [Aviso n.º 22/2010](https://diariodarepublica.pt/dr/detalhe/aviso/22-2010-617097), publicado em 2010-02-08.
 
 2 - No n.º 2 do artigo 171.º e no n.º 3 do artigo 176.º do Tratado CEEA, a remissão para o artigo 183.º é substituída por uma remissão para o artigo 279.º do Tratado sobre o Funcionamento da União Europeia.
 
 3 - No n.º 4 do artigo 172.º do Tratado CEEA, a remissão para o n.º 5 do artigo 177.º é substituída por uma remissão para o artigo 272.º do Tratado sobre o Funcionamento da União Europeia.
 
-4 - No Tratado CEEA, a expressão «Tribunal de Justiça» é substituída por «Tribunal de Justiça da União Europeia».
+4 - Na alínea c) do quarto parágrafo do artigo 198.º do Tratado CEEA, a remissão para o anexo ii do Tratado Que Institui a Comunidade Europeia é substituída por uma remissão para o anexo ii do Tratado da União Europeia e do Tratado sobre o Funcionamento da União Europeia.
+
+5 - No Tratado CEEA, a expressão «Tribunal de Justiça» é substituída por «Tribunal de Justiça da União Europeia».
+
+> Alterado pelo/a [Aviso n.º 22/2010](https://diariodarepublica.pt/dr/detalhe/aviso/22-2010-617097), publicado em 2010-02-08.
 
 ###### Artigo 8.º
 
@@ -6086,7 +6318,9 @@ Artigo 1.º
 
 1 - A Presidência do Conselho, com excepção da formação de Negócios Estrangeiros, é assegurada por grupos pré-determinados de três Estados-Membros durante um período de 18 meses. Estes grupos são formados com base num sistema de rotação igualitária dos Estados-Membros, tendo em conta a sua diversidade e os equilíbrios geográficos na União.
 
-2 - Cada membro do grupo preside sucessivamente, durante seis meses, a todas as formações do Conselho, com excepção da formação de Negócios Estrangeiros. Os outros membros do grupo apoiam a Presidência no exercício de todas as suas responsabilidades, com base num programa comum. Os membros da equipa podem acordar entre si outras formas de organização.
+2 - Cada membro do grupo preside sucessivamente, durante seis meses, a todas as formações do Conselho, com excepção da formação de Negócios Estrangeiros. Os outros membros do grupo apoiam a Presidência no exercício de todas as suas responsabilidades, com base num programa comum. Os membros do grupo podem acordar entre si outras formas de organização.
+
+> Alterado pelo/a [Aviso n.º 1/2012](https://diariodarepublica.pt/dr/detalhe/aviso/1-2012-544387), publicado em 2012-01-17.
 
 Artigo 2.º
 
@@ -6116,7 +6350,9 @@ A Conferência considera que, por força dos Tratados, o Parlamento Europeu e o 
 
 12 - Declaração ad artigo 9.º-E do Tratado da União Europeia
 
-1 - A Conferência declara que serão estabelecidos os contactos adequados com o Parlamento Europeu durante os trabalhos preparatórios que precederão a nomeação do Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança, que deverá ocorrer na data de entrada em vigor do Tratado de Lisboa, de acordo com o artigo 9.º-E do Tratado da União Europeia e com o artigo 5.º do Protocolo relativo às disposições provisórias; o mandato do Alto Representante correrá desde aquela data até ao termo do mandato da Comissão em exercício nesse momento.
+1 - A Conferência declara que serão estabelecidos os contactos adequados com o Parlamento Europeu durante os trabalhos preparatórios que precederão a nomeação do Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança, que deverá ocorrer na data de entrada em vigor do Tratado de Lisboa, de acordo com o artigo 9.º-E do Tratado da União Europeia e com o artigo 5.º do Protocolo relativo às disposições transitórias; o mandato do Alto Representante correrá desde aquela data até ao termo do mandato da Comissão em exercício nesse momento.
+
+> Alterado pelo/a [Aviso n.º 1/2012](https://diariodarepublica.pt/dr/detalhe/aviso/1-2012-544387), publicado em 2012-01-17.
 
 2 - Além disso, a Conferência recorda que o Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança, cujo mandato se inicia em Novembro de 2009, ao mesmo tempo que o mandato da próxima Comissão, e tem a mesma duração deste, será nomeado nos termos dos artigos 9.º-D e 9.º-E do Tratado da União Europeia.
 
@@ -6386,7 +6622,9 @@ A Itália constata que, nos termos dos artigos 8.º-A (que passa a ser o artigo 
 
 A Itália constata igualmente que, nos termos do artigo 8.º (que passa a ser o artigo 9.º) do Tratado da União Europeia e do artigo 17.º (que passa a ser o artigo 20.º) do Tratado sobre o Funcionamento da União Europeia, é cidadão da União qualquer pessoa que tenha a nacionalidade de um Estado-Membro.
 
-Consequentemente, a Itália considera que, sem prejuízo da decisão relativa à legislatura de 2009-2014, as decisões adoptadas pelo Conselho Europeu, por iniciativa do Parlamento Europeu e com a aprovação deste último, que fixe a composição do Parlamento Europeu, deve respeitar os princípios a que se refere o primeiro parágrafo do n.º 2 do artigo 9.º-A (que passa a ser o artigo 14.º).
+Consequentemente, a Itália considera que, sem prejuízo da decisão relativa à legislatura de 2009-2014, as decisões adoptadas pelo Conselho Europeu, por iniciativa do Parlamento Europeu e com a aprovação deste último, que fixem a composição do Parlamento Europeu, devem respeitar os princípios a que se refere o primeiro parágrafo do n.º 2 do artigo 9.º-A (que passa a ser o artigo 14.º).
+
+> Alterado pelo/a [Aviso n.º 1/2012](https://diariodarepublica.pt/dr/detalhe/aviso/1-2012-544387), publicado em 2012-01-17.
 
 58 - Declaração da República da Letónia, da República da Hungria e da República de Malta sobre a ortografia da denominação da moeda única nos Tratados
 
