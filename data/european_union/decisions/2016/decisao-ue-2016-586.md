@@ -79,6 +79,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/797a78a6-cf66-11e3-b682-01aa75ed71a1
   date: '2014-04-29'
+- type: cited_by
+  target: pt:dre:74431082:por
+  label: null
+  source: null
 - type: corrected_by
   target: celex:32016D0586R(01)
   label: null

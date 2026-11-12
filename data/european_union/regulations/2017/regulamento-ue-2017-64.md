@@ -77,6 +77,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/c746ceb6-1330-4b77-9a2e-5a7705b22c33
   date: '2010-03-08'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 - type: cites
   target: celex:31970L0524
   label: null

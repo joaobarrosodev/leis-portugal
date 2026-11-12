@@ -88,6 +88,14 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/e53fd41d-6753-45d0-8f8d-8986fbefcb02
   date: '2012-11-23'
+- type: cited_by
+  target: pt:dre:123077669:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:125781750:por
+  label: null
+  source: null
 - type: cites
   target: celex:12012E003
   label: null

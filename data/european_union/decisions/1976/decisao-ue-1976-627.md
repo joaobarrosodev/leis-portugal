@@ -99,6 +99,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/86e63262-05ec-4633-94bd-9226dc1b094a
   date: '1975-05-19'
+- type: cited_by
+  target: pt:dre:570510:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 18
