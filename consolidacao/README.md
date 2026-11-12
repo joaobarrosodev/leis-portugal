@@ -241,6 +241,8 @@ Na ronda 100 foram para as exclusões:
 - nenhuma ronda ficou perto da regra de paragem (1 em cada 8);
 - os que ficaram por aplicar são sobretudo quadros e plantas só em imagem, alteradores sem texto no pedido, revogações por matéria e republicações que não batem com as instruções.
 
+**Ronda 101: o PDM de Lisboa (RCM 94/94), não aplicado.** Teve 28 alteradores, em 2 passagens do `llm_gigantes.py` (alteradores 1 a 16 e 17 a 28), com subagentes Opus. Só dois alteradores mudam o texto do Regulamento: a RCM 104/2003 (arts. 19.º e 70.º) e a Declaração 51/2004 (arts. 64.º, 65.º, 66.º, 75.º e 77.º). Ficaram 7 substituições e 1 inserção, que passaram a verificação letra a letra. Os outros alteradores são suspensões, medidas preventivas, plantas em imagem e planos que só valem na sua área. O Aviso 11622/2012 aprova a revisão do PDM, com um Regulamento novo, e desde então os alteradores dirigem-se ao PDM revisto. O texto de 1994 com as alterações de 2003 e 2004 não é, por isso, o texto em vigor. Ficou em `llm/exclusoes.json` e não teve verificação às cegas.
+
 **O que isto quer dizer para o RAG.** O aviso "Texto original; alterado por…" mantém-se em todos os diplomas alterados sem versão consolidada, mesmo nos "sem alteração textual". Tirá-lo nesses casos faria o sistema responder com texto desatualizado em cerca de 14% a 28% deles (`rag/README.md`).
 
 ## Resultado em resumo
