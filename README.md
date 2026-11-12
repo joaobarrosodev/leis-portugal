@@ -44,6 +44,8 @@ O que ainda não consegue (sem isto, os números enganam):
 
 Os números por tipo de pergunta estão em [Cobertura e progresso](#cobertura-e-progresso) e o pormenor em [`rag/README.md`](rag/README.md). Para divulgar o projeto, há textos prontos e a lista do que não se pode afirmar em [`COMUNICACAO.md`](COMUNICACAO.md).
 
+**Para o experimentar no teu computador**, com a tua chave da API do Claude: [`COMO-USAR.md`](COMO-USAR.md), passo a passo, sem precisar de saber programar.
+
 ## Índice
 
 - [Objetivos](#objetivos)
