@@ -432,6 +432,27 @@ Para correr no browser seria preciso um índice próprio, desenhado para ser lid
 - Para o sistema completo, com a qualidade medida: a aplicação instalável. O site no GitHub Pages serve para a descarregar.
 - A versão no browser fica para depois, se o índice próprio for desenhado e medido.
 
+## Deltas do índice: iguais a construir de raiz (13/11/2026)
+
+A aplicação atualiza o índice com deltas por diploma (`rag/dados.py`), em vez de descarregar outra vez a versão completa. Para isso ser seguro, aplicar um delta tem de dar o mesmo índice que construí-lo do zero.
+
+Mediu-se no índice inteiro (`rag/navegador/equivalencia.py`):
+1. B é o índice verdadeiro.
+2. A é B sem 2.108 diplomas: os 108 que aparecem nos resultados das 50 perguntas de `rag/navegador/` e mais 2.000 ao acaso. Tiraram-se com o próprio código dos deltas.
+3. Gerou-se o delta de A para B, aplicou-se a A e comparou-se o resultado com B.
+
+| Medida | Resultado |
+|---|--:|
+| Diplomas diferentes de B (impressão digital de cada um, em 265.805) | **0** |
+| Pesquisa sem reranker, 10 primeiros por diploma e artigo | **iguais nas 50 perguntas** |
+| BM25, 100 primeiros com a pontuação | iguais em 48 de 50 |
+| Delta de 2.108 diplomas (25.976 pedaços) | 50,8 MB; **9,9 MB comprimido** |
+| Tempo para gerar e aplicar o delta | ~5 min e ~3 min, neste computador |
+
+Nas 2 perguntas em que o BM25 difere, os 100 resultados e as pontuações são os mesmos; só muda a ordem entre artigos com exatamente a mesma pontuação. Os empates ficam pela ordem do id, e os diplomas reinseridos têm ids novos. Os 10 primeiros, que são o que segue para o reranker e para a resposta, são iguais nas 50 perguntas.
+
+A versão completa de 12/11/2026 tem 1,35 GB comprimida (4,35 GB sem comprimir). Por esta medição, um delta de 2 mil diplomas é cerca de 0,7% da versão completa. O tamanho de um delta numa semana normal ainda não foi medido: só se sabe com duas publicações seguidas.
+
 ## Próximos passos
 
 Por ordem de ganho esperado:

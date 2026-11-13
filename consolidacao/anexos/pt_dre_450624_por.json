@@ -1,0 +1,225 @@
+{
+ "id": "pt:dre:450624:por",
+ "titulo": "Portaria n.º 1480/2002, anexo: quadros n.os 1 a 5 do plano de estudos",
+ "pdf": "https://files.diariodarepublica.pt/1s/2002/11/269b00/73227324.pdf",
+ "pdf_sha256": "5a0bd84fc1b414022bedf9fdcbf9584d717b7456c23a42ea2abe8b8dfa5b1e10",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 5,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas 7323 e 7324 do DR",
+  "resultado": "certo: 5 quadros, 59 linhas, 0 erros (nomes, tipo, cada número e a sua coluna, cabeçalhos)"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "partes": [
+    {
+     "pagina": 2,
+     "de": 305,
+     "ate": 445
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     262
+    ],
+    [
+     "Aulas teóricas",
+     320
+    ],
+    [
+     "Aulas teórico-práticas",
+     365
+    ],
+    [
+     "Aulas práticas",
+     415
+    ],
+    [
+     "Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     495
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Aulas teóricas | Aulas teórico-práticas | Aulas práticas | Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Análise Matemática I | 1.º semestre | 30 | 20 |  |  |  |\n| Física I | 1.º semestre | 30 | 20 |  |  |  |\n| Química Geral | 1.º semestre | 40 | 30 |  |  |  |\n| Laboratório de Química Geral | 1.º semestre |  | 20 | 40 |  |  |\n| Introdução aos Computadores e Programação | 1.º semestre | 30 |  | 40 |  |  |\n| Epistemologia e Sistema das Ciências | 1.º semestre | 30 |  |  |  |  |\n| Língua Estrangeira | 1.º semestre | 30 |  |  |  |  |\n| Análise Matemática II | 2.º semestre | 30 | 20 |  |  |  |\n| Física II | 2.º semestre | 30 | 20 |  |  |  |\n| Álgebra Linear | 2.º semestre | 30 | 20 |  |  |  |\n| Química Orgânica | 2.º semestre | 30 | 40 |  |  |  |\n| Química-Física | 2.º semestre | 40 | 20 |  |  |  |\n| Princípios Básicos de Engenharia de Processos | 2.º semestre | 30 | 20 |  |  |  |\n| Laboratório de Química Orgânica | 2.º semestre |  | 20 | 40 |  |  |\n| Língua Estrangeira | 2.º semestre | 30 |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 2,
+   "partes": [
+    {
+     "pagina": 2,
+     "de": 535,
+     "ate": 650
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     262
+    ],
+    [
+     "Aulas teóricas",
+     320
+    ],
+    [
+     "Aulas teórico-práticas",
+     365
+    ],
+    [
+     "Aulas práticas",
+     415
+    ],
+    [
+     "Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     495
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Aulas teóricas | Aulas teórico-práticas | Aulas práticas | Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Análise Matemática III | 1.º semestre | 30 | 20 |  |  |  |\n| Probabilidades e Estatística | 1.º semestre | 30 | 20 |  |  |  |\n| Bioquímica Geral | 1.º semestre | 50 | 20 |  |  |  |\n| Laboratório de Bioquímica | 1.º semestre |  | 20 | 40 |  |  |\n| Biologia | 1.º semestre | 40 | 20 |  |  |  |\n| Termodinâmica Química | 1.º semestre | 30 | 20 |  |  |  |\n| Microbiologia | 2.º semestre | 40 |  | 30 |  |  |\n| Métodos e Instrumentos de Análise | 2.º semestre | 30 |  | 40 |  |  |\n| Fenómenos de Transferência I | 2.º semestre | 50 | 20 |  |  |  |\n| Química Alimentar | 2.º semestre | 40 |  | 30 |  |  |\n| Economia | 2.º semestre | 50 |  |  |  |  |\n| Tópicos Correntes de Segurança Alimentar | 2.º semestre | 30 | 20 |  |  |  |\n| Opção | 2.º semestre | 30 |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 3,
+   "partes": [
+    {
+     "pagina": 2,
+     "de": 740,
+     "ate": 800
+    },
+    {
+     "pagina": 3,
+     "de": 120,
+     "ate": 180
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     262
+    ],
+    [
+     "Aulas teóricas",
+     320
+    ],
+    [
+     "Aulas teórico-práticas",
+     365
+    ],
+    [
+     "Aulas práticas",
+     415
+    ],
+    [
+     "Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     495
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Aulas teóricas | Aulas teórico-práticas | Aulas práticas | Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Análise Físico-Química de Alimentos | 1.º semestre | 50 |  | 50 |  |  |\n| Microbiologia de Produção | 1.º semestre | 40 |  | 30 |  |  |\n| Fenómenos de Transferência II | 1.º semestre | 50 | 20 |  |  |  |\n| Operações Unitárias | 1.º semestre | 50 | 20 |  |  |  |\n| Bioquímica Alimentar | 1.º semestre | 50 |  | 20 |  |  |\n| Microbiologia de Controlo | 2.º semestre | 30 |  | 40 |  |  |\n| Nutrição Humana | 2.º semestre | 50 |  | 10 |  |  |\n| Métodos Numéricos e Computação | 2.º semestre | 20 |  | 30 |  |  |\n| Propriedades Físicas e Reologia dos Alimentos | 2.º semestre | 40 | 30 |  |  |  |\n| Processos de Engenharia Alimentar | 2.º semestre | 50 |  |  |  |  |\n| Opção | 2.º semestre | 50 |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 4,
+   "partes": [
+    {
+     "pagina": 3,
+     "de": 270,
+     "ate": 385
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     262
+    ],
+    [
+     "Aulas teóricas",
+     320
+    ],
+    [
+     "Aulas teórico-práticas",
+     365
+    ],
+    [
+     "Aulas práticas",
+     415
+    ],
+    [
+     "Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     495
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Aulas teóricas | Aulas teórico-práticas | Aulas práticas | Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Controlo e Instrumentação de Processo | 1.º semestre | 50 |  | 50 |  |  |\n| Controlo de Qualidade | 1.º semestre | 50 | 20 |  |  |  |\n| Análise Sensorial | 1.º semestre | 40 |  | 30 |  |  |\n| Tecnologia, Vinificação e Enologia | 1.º semestre | 40 |  | 30 |  |  |\n| Contabilidade e Gestão Industrial | 1.º semestre | 50 | 30 |  |  |  |\n| Princípios de Marketing | 1.º semestre | 50 |  |  |  |  |\n| Tecnologia de Produtos Hortofrutícolas | 2.º semestre | 40 |  | 30 |  |  |\n| Conservação e Acondicionamento de Alimentos | 2.º semestre | 50 |  |  |  |  |\n| Tecnologia dos Lacticínios | 2.º semestre | 40 |  | 30 |  |  |\n| Tecnologia dos Cereais | 2.º semestre | 40 |  | 30 |  |  |\n| Tecnologia dos Óleos e Gorduras Alimentares | 2.º semestre | 40 |  | 30 |  |  |\n| Opção | 2.º semestre | 50 |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 5,
+   "partes": [
+    {
+     "pagina": 3,
+     "de": 470,
+     "ate": 560
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     262
+    ],
+    [
+     "Aulas teóricas",
+     320
+    ],
+    [
+     "Aulas teórico-práticas",
+     365
+    ],
+    [
+     "Aulas práticas",
+     415
+    ],
+    [
+     "Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     495
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Aulas teóricas | Aulas teórico-práticas | Aulas práticas | Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Projecto de Indústrias Alimentares | 1.º semestre | 50 |  | 30 |  |  |\n| Tecnologia de Carnes e Pescado | 1.º semestre | 40 |  | 30 |  |  |\n| Instalações e Serviços Industriais | 1.º semestre | 50 | 20 |  |  |  |\n| Toxicologia e Saúde Pública | 1.º semestre | 40 |  |  |  |  |\n| Desenvolvimento de Novos Produtos Alimentares | 1.º semestre | 50 | 20 |  |  |  |\n| Novos Desenvolvimentos Biotecnológicos na Indústria Alimentar. | 1.º semestre | 30 |  | 20 |  |  |\n| Opção | 1.º semestre | 40 | 30 |  |  |  |\n| Estágio | 2.º semestre |  |  |  | 350 |  |"
+  }
+ ]
+}

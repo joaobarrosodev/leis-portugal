@@ -43,6 +43,7 @@ from llm import _alteradores as _alteradores_da_selecao
 from llm_completo import _alteradores, _aprovados
 import texto as texto_mod
 from texto import RAIZ, Corpo, front_matter, publicado
+from texto import alterador as texto_do_alterador
 from verificar import _REVOGADO, _plano
 
 
@@ -212,7 +213,7 @@ def verificar_texto(mudanca: dict, antigo: list[str], fontes: list[str], fontes_
 
 
 def verificar_resposta(resposta: dict, selecao: dict) -> list[str]:
-    fontes = [_plano(publicado(RAIZ / a["path"])) for a in _alteradores_da_selecao(selecao) if a.get("path")]
+    fontes = [_plano(texto_do_alterador(RAIZ / a["path"])) for a in _alteradores_da_selecao(selecao) if a.get("path")]
     todas = unidades(_registo_base(selecao))
     fontes.append(_plano(_registo_base(selecao)))
     tokens = [" ".join(_tokens(f)) for f in fontes]
@@ -340,7 +341,14 @@ def _junto(resposta: dict, registo: dict) -> dict:
     destino.parent.mkdir(parents=True, exist_ok=True)
     destino.with_suffix(".alteracoes.json").write_text(
         json.dumps([asdict(r) | {"diploma": registo["id"], "alterador": ";".join(citados)} for r in registos], ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    destino.write_text(_markdown(registo, aplicados, Corpo(segmentos=[consolidado.split("\n")]), False, METODO), encoding="utf-8")
+    markdown = _markdown(registo, aplicados, Corpo(segmentos=[consolidado.split("\n")]), False, METODO)
+    # A nota "> Alterado pelo/a …" no fim do texto tem de acabar em "\n", senão o `cegas.py` e o
+    # `acervo.py` não a tiram e ela entra no texto verificado (README, "Os 18 grandes demais").
+    # Um consolidado que não mudou fica como estava, para não desfazer as entradas já verificadas.
+    anterior = destino.read_text(encoding="utf-8") if destino.exists() else None
+    if not markdown.endswith("\n") and anterior != markdown:
+        markdown += "\n"
+    destino.write_text(markdown, encoding="utf-8")
     linha |= {"estado": "aplicado com LLM", "consolidado": str(destino.relative_to(RAIZ)), "artigos_llm": len(registos), "artigos_regras": 0,
               "alteradores_ids": [a["id"] for a in aplicados], "alteradores_vistos": [a["id"] for a in alteradores], "pedido": "corrido", "unidades": n}
     if resposta.get("nao_aplicavel"):

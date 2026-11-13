@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado pelo art. 75.º do Regulamento da revisão do PDM de Caminha (Aviso n.º 1712/2017), em vigor no dia seguinte
+    à publicação (2017-02-15). O DRE dá a RCM n.º 158/95 como em vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:106449670:por'
+    detail: Artigo 75.º — Revogação de PMOT É revogado o PDMC, ratificado pela Resolução do Conselho de Ministros n.º 158/95
+      de 21 de setembro
 notes: []
 language: por
 version:
@@ -175,6 +185,12 @@ relationships:
   target: pt:dre:661895:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:106449670:por
+  label: Revogado pelo art. 75.º do Regulamento da revisão do PDM de Caminha (Aviso n.º 1712/2017), em vigor no dia seguinte
+    à publicação (2017-02-15). O DRE dá a RCM n.º 158/95 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2017-02-15'
 article_structure:
   article_count: 56
   section_count: 19

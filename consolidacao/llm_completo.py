@@ -52,6 +52,7 @@ from llm import ESQUEMA
 from llm import _alteradores as _alteradores_da_selecao
 import texto as texto_mod
 from texto import RAIZ, Artigo, front_matter, publicado
+from texto import alterador as texto_do_alterador
 from verificar import _REVOGADO, _plano
 
 
@@ -128,7 +129,7 @@ def verificar_resposta(resultado: dict, selecao: dict, textos_atuais: list[str] 
     texto original. Uma renumeração (o corpo antigo passa a "1 - …") conta: tira-se a numeração
     do parágrafo antes de o procurar. `textos_atuais` são outros textos de onde um parágrafo pode
     vir (numa passagem, o texto atual que as passagens anteriores deixaram)."""
-    alteradores = [_plano(publicado(RAIZ / a["path"])) for a in _alteradores_da_selecao(selecao) if a.get("path")]
+    alteradores = [_plano(texto_do_alterador(RAIZ / a["path"])) for a in _alteradores_da_selecao(selecao) if a.get("path")]
     original = _plano(publicado(RAIZ / selecao["path"]))
     atuais = [_plano(t) for t in textos_atuais]
     problemas = []
