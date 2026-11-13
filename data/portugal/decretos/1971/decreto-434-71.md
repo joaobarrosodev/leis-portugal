@@ -25,7 +25,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/10/24301/00010081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado pelo art. 2.º do Decreto n.º 39-A/92, que aprova o Regulamento das Radiocomunicações de 1979; em vigor
+    no dia seguinte à publicação (art. 3.º). O DRE dá o Decreto n.º 434/71 como em vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:301780:por'
+    detail: 'Art. 2.º São revogados: a) O Decreto n.º 45205, de 21 de Agosto de 1963; b) O Decreto n.º 46425, de 3 de Julho
+      de 1965; c) O Decreto n.º 48404, de 28 de Maio de 1968; d) O Decreto n.º 434/71, de 15 de Outubro.'
 notes: []
 language: por
 version:
@@ -71,6 +81,12 @@ relationships:
   target: pt:dre:148782:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:301780:por
+  label: Revogado pelo art. 2.º do Decreto n.º 39-A/92, que aprova o Regulamento das Radiocomunicações de 1979; em vigor no
+    dia seguinte à publicação (art. 3.º). O DRE dá o Decreto n.º 434/71 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1992-10-02'
 article_structure:
   article_count: 0
   section_count: 10

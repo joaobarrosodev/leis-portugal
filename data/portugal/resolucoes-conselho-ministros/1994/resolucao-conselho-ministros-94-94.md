@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/226b00/59165980.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Lisboa (Aviso n.º 11622/2012), com um Regulamento novo em vigor desde 2012-08-31
+    (art. 93.º); o DRE liga as alterações posteriores ao PDM revisto.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:1787349:por'
+    detail: aprovar a Revisão do Plano Diretor Municipal de Lisboa, incluindo o Regulamento, a Planta de Ordenamento e a Planta
+      de Condicionantes, que se publicam em anexo.
 notes:
 - Por lapso, a partir da página 5943, o número do Diário não está correctamente identificado. Deveria ser DR n.º 226.
 language: por
@@ -335,6 +345,12 @@ relationships:
   target: pt:dre:675812:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:1787349:por
+  label: Substituído pela revisão do PDM de Lisboa (Aviso n.º 11622/2012), com um Regulamento novo em vigor desde 2012-08-31
+    (art. 93.º); o DRE liga as alterações posteriores ao PDM revisto.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2012-08-31'
 article_structure:
   article_count: 132
   section_count: 34
