@@ -49,6 +49,7 @@ import yaml
 from alteracoes import Leitura, ler
 from aplicar import Fonte, Resultado, aplicar
 from texto import RAIZ, Corpo, com_titulos, dividir, front_matter, normalizar, padrao_diploma, publicado, sem_ligacoes
+from texto import alterador as texto_do_alterador
 from verificar import republicacao, verificar
 
 PASTA = RAIZ / "consolidacao"
@@ -67,7 +68,7 @@ def _texto_alterador(path: str) -> str:
     if path not in _ALTERADORES:
         if len(_ALTERADORES) > 2000:
             _ALTERADORES.clear()
-        _ALTERADORES[path] = publicado(RAIZ / path)
+        _ALTERADORES[path] = texto_do_alterador(RAIZ / path)
     return _ALTERADORES[path]
 
 

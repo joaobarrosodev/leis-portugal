@@ -52,7 +52,8 @@ import llm_corrido as lc
 from cegas import VERIFICACAO, linha_de
 from llm import _alteradores as _alteradores_da_selecao
 from llm_completo import _alteradores
-from texto import RAIZ, dividir, front_matter, padrao_diploma, publicado, sem_ligacoes
+from texto import RAIZ, dividir, front_matter, padrao_diploma, sem_ligacoes
+from texto import alterador as texto_do_alterador
 from verificar import _plano
 
 
@@ -119,7 +120,7 @@ def _nomes(texto: str, registo: dict | None = None) -> list[str]:
 def texto_alterador(a: dict, registo: dict, nomes: list[str]) -> tuple[str, bool]:
     """O texto do alterador para o pedido e a vista: inteiro até `LIMITE_COMPLETO`; acima, os
     artigos que mencionam o original pelo título ou pelo nome do que ele aprova."""
-    texto = publicado(RAIZ / a["path"])
+    texto = texto_do_alterador(RAIZ / a["path"])
     if len(texto) <= LIMITE_COMPLETO:
         return texto, True
     padrao = padrao_diploma(registo["title"])
@@ -150,7 +151,7 @@ def _copiar(c: dict, alteradores: dict[int, dict]) -> tuple[str | None, str | No
     a = alteradores.get(int(c.get("alterador") or 0)) if str(c.get("alterador") or "").isdigit() else None
     if a is None:
         return None, f"copiar: alterador {c.get('alterador')} não existe"
-    ps = _paragrafos(publicado(RAIZ / a["path"]))
+    ps = _paragrafos(texto_do_alterador(RAIZ / a["path"]))
     norm = lambda s: re.sub(r"\s+", " ", s.lstrip("«").strip())
     primeiro, ultimo = norm(c.get("primeiro") or ""), norm(c.get("ultimo") or "")
     def bate(p: str, inicio: str) -> bool:
@@ -364,7 +365,7 @@ def _indice(estado: list[dict]) -> list[str]:
 
 
 def _fontes(registo: dict) -> tuple[list[str], list[str]]:
-    fontes = [_plano(publicado(RAIZ / a["path"])) for a in _alteradores_da_selecao(registo) if a.get("path")]
+    fontes = [_plano(texto_do_alterador(RAIZ / a["path"])) for a in _alteradores_da_selecao(registo) if a.get("path")]
     fontes.append(_plano(lc._registo_base(registo)))
     return fontes, [" ".join(lc._tokens(f)) for f in fontes]
 

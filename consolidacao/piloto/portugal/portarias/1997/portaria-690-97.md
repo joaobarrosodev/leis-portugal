@@ -94,10 +94,106 @@ Assinada em 21 de Julho de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
-## ANEXO — Instituto Superior de Estudos Interculturais e Transdisciplinares - Almada
+## ANEXO
 
-Curso: Engenharia Alimentar
+Instituto Superior de Estudos Interculturais e Transdisciplinares - Almada
 
-Grau: licenciado
+Curso de Engenharia Alimentar
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/187b00/42414242.pdf)
+Grau de licenciado
+
+QUADRO N.º 1
+
+1.º ano
+
+| Unidades curriculares | Tipo | Aulas teóricas | Aulas teórico-práticas | Aulas práticas | Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Análise Matemática I | 1.º semestre | 30 | 20 |  |  |  |
+| Física I | 1.º semestre | 30 | 20 |  |  |  |
+| Química Geral | 1.º semestre | 40 | 30 |  |  |  |
+| Laboratório de Química Geral | 1.º semestre |  | 20 | 40 |  |  |
+| Introdução aos Computadores e Programação | 1.º semestre | 30 |  | 40 |  |  |
+| Epistemologia e Sistema das Ciências | 1.º semestre | 30 |  |  |  |  |
+| Língua Estrangeira | 1.º semestre | 30 |  |  |  |  |
+| Análise Matemática II | 2.º semestre | 30 | 20 |  |  |  |
+| Física II | 2.º semestre | 30 | 20 |  |  |  |
+| Álgebra Linear | 2.º semestre | 30 | 20 |  |  |  |
+| Química Orgânica | 2.º semestre | 30 | 40 |  |  |  |
+| Química-Física | 2.º semestre | 40 | 20 |  |  |  |
+| Princípios Básicos de Engenharia de Processos | 2.º semestre | 30 | 20 |  |  |  |
+| Laboratório de Química Orgânica | 2.º semestre |  | 20 | 40 |  |  |
+| Língua Estrangeira | 2.º semestre | 30 |  |  |  |  |
+
+QUADRO N.º 2
+
+2.º ano
+
+| Unidades curriculares | Tipo | Aulas teóricas | Aulas teórico-práticas | Aulas práticas | Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Análise Matemática III | 1.º semestre | 30 | 20 |  |  |  |
+| Probabilidades e Estatística | 1.º semestre | 30 | 20 |  |  |  |
+| Bioquímica Geral | 1.º semestre | 50 | 20 |  |  |  |
+| Laboratório de Bioquímica | 1.º semestre |  | 20 | 40 |  |  |
+| Biologia | 1.º semestre | 40 | 20 |  |  |  |
+| Termodinâmica Química | 1.º semestre | 30 | 20 |  |  |  |
+| Microbiologia | 2.º semestre | 40 |  | 30 |  |  |
+| Métodos e Instrumentos de Análise | 2.º semestre | 30 |  | 40 |  |  |
+| Fenómenos de Transferência I | 2.º semestre | 50 | 20 |  |  |  |
+| Química Alimentar | 2.º semestre | 40 |  | 30 |  |  |
+| Economia | 2.º semestre | 50 |  |  |  |  |
+| Tópicos Correntes de Segurança Alimentar | 2.º semestre | 30 | 20 |  |  |  |
+| Opção | 2.º semestre | 30 |  |  |  |  |
+
+QUADRO N.º 3
+
+3.º ano
+
+| Unidades curriculares | Tipo | Aulas teóricas | Aulas teórico-práticas | Aulas práticas | Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Análise Físico-Química de Alimentos | 1.º semestre | 50 |  | 50 |  |  |
+| Microbiologia de Produção | 1.º semestre | 40 |  | 30 |  |  |
+| Fenómenos de Transferência II | 1.º semestre | 50 | 20 |  |  |  |
+| Operações Unitárias | 1.º semestre | 50 | 20 |  |  |  |
+| Bioquímica Alimentar | 1.º semestre | 50 |  | 20 |  |  |
+| Microbiologia de Controlo | 2.º semestre | 30 |  | 40 |  |  |
+| Nutrição Humana | 2.º semestre | 50 |  | 10 |  |  |
+| Métodos Numéricos e Computação | 2.º semestre | 20 |  | 30 |  |  |
+| Propriedades Físicas e Reologia dos Alimentos | 2.º semestre | 40 | 30 |  |  |  |
+| Processos de Engenharia Alimentar | 2.º semestre | 50 |  |  |  |  |
+| Opção | 2.º semestre | 50 |  |  |  |  |
+
+QUADRO N.º 4
+
+4.º ano
+
+| Unidades curriculares | Tipo | Aulas teóricas | Aulas teórico-práticas | Aulas práticas | Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Controlo e Instrumentação de Processo | 1.º semestre | 50 |  | 50 |  |  |
+| Controlo de Qualidade | 1.º semestre | 50 | 20 |  |  |  |
+| Análise Sensorial | 1.º semestre | 40 |  | 30 |  |  |
+| Tecnologia, Vinificação e Enologia | 1.º semestre | 40 |  | 30 |  |  |
+| Contabilidade e Gestão Industrial | 1.º semestre | 50 | 30 |  |  |  |
+| Princípios de Marketing | 1.º semestre | 50 |  |  |  |  |
+| Tecnologia de Produtos Hortofrutícolas | 2.º semestre | 40 |  | 30 |  |  |
+| Conservação e Acondicionamento de Alimentos | 2.º semestre | 50 |  |  |  |  |
+| Tecnologia dos Lacticínios | 2.º semestre | 40 |  | 30 |  |  |
+| Tecnologia dos Cereais | 2.º semestre | 40 |  | 30 |  |  |
+| Tecnologia dos Óleos e Gorduras Alimentares | 2.º semestre | 40 |  | 30 |  |  |
+| Opção | 2.º semestre | 50 |  |  |  |  |
+
+QUADRO N.º 5
+
+5.º ano
+
+| Unidades curriculares | Tipo | Aulas teóricas | Aulas teórico-práticas | Aulas práticas | Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Projecto de Indústrias Alimentares | 1.º semestre | 50 |  | 30 |  |  |
+| Tecnologia de Carnes e Pescado | 1.º semestre | 40 |  | 30 |  |  |
+| Instalações e Serviços Industriais | 1.º semestre | 50 | 20 |  |  |  |
+| Toxicologia e Saúde Pública | 1.º semestre | 40 |  |  |  |  |
+| Desenvolvimento de Novos Produtos Alimentares | 1.º semestre | 50 | 20 |  |  |  |
+| Novos Desenvolvimentos Biotecnológicos na Indústria Alimentar. | 1.º semestre | 30 |  | 20 |  |  |
+| Opção | 1.º semestre | 40 | 30 |  |  |  |
+| Estágio | 2.º semestre |  |  |  | 350 |  |
+
+> Alterado pelo/a [Portaria n.º 1480/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1480-2002-450624), publicado em 2002-11-21.

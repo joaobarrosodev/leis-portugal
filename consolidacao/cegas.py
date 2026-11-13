@@ -33,6 +33,7 @@ import json
 import re
 
 from texto import RAIZ, artigos_alteradores, com_titulos, corpo, publicado
+from texto import alterador as texto_do_alterador
 
 
 PASTA = RAIZ / "consolidacao"
@@ -64,7 +65,7 @@ _NOTA_PILOTO = re.compile(r"^> (?:Alterado|Aditado|Revogado|Retificado) pelo/a .
 
 
 def _texto_alterador(path: str, titulo_original: str) -> tuple[str, bool]:
-    texto = publicado(RAIZ / path)
+    texto = texto_do_alterador(RAIZ / path)
     if len(texto) <= LIMITE:
         return texto, True
     return "\n\n".join("\n".join(a.linhas).strip() for a in artigos_alteradores(texto, titulo_original)), False

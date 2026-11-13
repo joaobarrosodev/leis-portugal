@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.715 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.716 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -122,6 +122,15 @@ Com as coordenadas, a amostra passa de 2 para **13 em 30** com o texto do quadro
 3. Repedir a consolidação e verificá-la às cegas.
 
 Para os parciais, o passo seguinte seria ler também os traços do quadro, que o PDF tem como segmentos.
+
+**O caminho, de ponta a ponta: ronda 106, Portaria 690/97 (13/11/2026).** Como primeiro caso, a Portaria 1480/2002 substitui o anexo da Portaria 690/97 (plano de estudos de Engenharia Alimentar, 5 quadros), e o acervo só tinha os quadros em imagem.
+- **Transcrição.** `consolidacao/anexos.py quadros ID ESPEC PDF` lê as páginas e as faixas de y da especificação. Cada palavra vai para a coluna onde começa, e o resultado fica em `anexos/<id do alterador>.json`, com a especificação, o hash do PDF e o quadro em Markdown para cada imagem. Uma linha só com a 1.ª coluna continua a célula de cima ("Ali-" + "mentar." dá "Alimentar."), e "1.o semestre" passa a "1.º semestre", como no resto do acervo.
+- **Conferência.** Um verificador Sonnet que não fez a transcrição comparou-a com a imagem das páginas 7323 e 7324: 5 quadros, 59 linhas, 0 erros. O resultado fica em "conferido".
+- **Uso.** `texto.alterador` dá o texto publicado de um alterador com as imagens trocadas pela transcrição (`texto.com_anexos`). Leem-no assim todos os pedidos ao LLM, as verificações letra a letra (`llm_corrido`, `llm_completo`, `llm_gigantes`, `juntar`, `consolidar`) e as entradas às cegas (`cegas._texto_alterador`). Se o número de imagens do texto não for o que a transcrição espera, dá erro, em vez de trocar às cegas. O original nunca se transcreve, porque é a versão 1 do histórico que o `acervo.py` confere.
+- **Consolidação.** Repetiu-se o pedido corrido (subagente Opus): o anexo passou a ser o da Portaria 1480/2002, com os quadros, e entraram os n.os 3.º-A a 3.º-C. A verificação letra a letra passou. Às cegas (`verificacao/entrada-piloto-106-lote-01.jsonl`, Sonnet), os 2 trechos ficaram `certo`, com o anexo comparado linha a linha, e nenhuma instrução em falta. A única diferença é o título "## ANEXO" sem a nota "(Portaria n.º 690/97 … — alteração)" do alterador. **Aplicada** (`acervo.py`: aplicável, `Recusados: 0`).
+- **Correção no `llm_corrido.py juntar`.** Um consolidado cuja última troca cai no fim do texto acaba agora em "\n", como no `llm_gigantes.py`. Sem isso, a nota "> Alterado pelo/a …" entrava no texto verificado. Só se aplica a consolidados que mudam: os já verificados ficam como estavam.
+
+Para fazer os outros: uma especificação por alterador (páginas, faixas de y e fronteiras das colunas, tiradas do `pdf_colunas.py`), a conferência contra a imagem e o fluxo normal. Os 10 resolvidos da amostra são os candidatos seguintes.
 
 ### Triagem: alterações que as regras não leem (12/11/2026)
 

@@ -35,6 +35,7 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 from texto import RAIZ, corpo, publicado
+from texto import alterador as texto_do_alterador
 
 PASTA = RAIZ / "consolidacao"
 SAIDA = PASTA / "llm"
@@ -114,7 +115,7 @@ def verificar_resposta(resultado: dict, diploma: dict, selecao: dict) -> list[st
     """Cada parágrafo devolvido vem, letra a letra, do diploma que altera ou do original."""
     from verificar import _REVOGADO, _plano
 
-    alteradores = [_plano(publicado(RAIZ / a["path"])) for a in _alteradores(selecao) if a.get("path")]
+    alteradores = [_plano(texto_do_alterador(RAIZ / a["path"])) for a in _alteradores(selecao) if a.get("path")]
     original = _plano(publicado(RAIZ / selecao["path"]))
     problemas = []
     for artigo in resultado.get("artigos", []):
