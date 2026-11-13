@@ -1,0 +1,407 @@
+---
+schema_version: '1.0'
+id: pt:dre:124716397:por
+title: Regulamento n.º 721/2019
+short_title: null
+summary: Publicitação da aprovação do Regulamento Municipal de Apoio Financeiro a Jovens
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município da Horta
+proposing_entity: null
+official_number: 721/2019
+official_date: null
+publication_date: '2019-09-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 177/2019, Série II de 2019-09-16
+  number: '177'
+  series: II
+  supplement: null
+  pages: 513 - 520
+  pdf_url: https://files.diariodarepublica.pt/2s/2019/09/177000000/0051300520.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '124716397'
+  dre_path: /dr/detalhe/regulamento/721-2019-124716397
+  internal: pt:dre:124716397:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/721-2019-124716397
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/721-2019-124716397
+  consolidated_url: null
+  retrieved_at: '2026-11-13T06:47:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 09231ab3f7ff1f6ac6504d103377e944b3ffcf901be6821189c72e4a46a628e4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T06:47:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: celex:32016R0679
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: transposes
+  target: celex:31995L0046
+  label: null
+  source: null
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T06:47:09Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 721/2019
+
+José Leonardo Goulart da Silva, presidente da Câmara Municipal da Horta, torna público, que a Assembleia Municipal da Horta, em sua sessão ordinária realizada em 28 de junho de 2019, no uso da competência que lhe é conferida pela alínea g) do n.º 1 do artigo 25.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, e depois de terem sido cumpridas as formalidades exigidas pelo Código do Procedimento Administrativo, designadamente no que se refere à consulta pública, aprovou o Regulamento Municipal de Apoio Financeiro a Jovens, que a seguir se transcreve.
+
+8 de agosto de 2019. - O Presidente da Câmara, José Leonardo Goulart da Silva.
+
+Regulamento Municipal de Apoio Financeiro a Jovens
+
+Preâmbulo
+
+Sendo a educação e o ensino direitos fundamentais e consagrados na Constituição da República Portuguesa, na sua intervenção sócio-educativa, o Município da Horta define como objetivos promover a igualdade de oportunidades no acesso à educação e apoiar e incentivar as famílias que pretendem dar continuidade à formação superior dos/as seus/suas filhos/as, materializados através da atribuição do Apoio Financeiro a Jovens, com regulamento próprio.
+
+No uso do poder regulamentar conferido às Autarquias Locais pelo artigo 241.º da Constituição da República Portuguesa e nos termos das alíneas alínea k), hh) do n.º 1 do artigo 33.º e g) do n.º 1 do artigo 25.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, a Câmara Municipal da Horta apresentou uma proposta de alteração ao Regulamento Municipal em vigor, onde se pretendeu clarificar e tornar mais eficaz o procedimento de atribuição do apoio financeiro, nomeadamente no que respeita, ao número de apoios a atribuir, à acumulação do apoio com outros tidos para o mesmo efeito, à definição de aproveitamento escolar, à definição do número de disciplinas/créditos a inscrever por semestre, à definição dos rendimentos a contabilizar para efeitos de cálculo e salvaguardar situações clínicas que poderão afetar a frequência do/a estudante no curso e o seu aproveitamento escolar.
+
+Esta mesma proposta foi objeto de discussão pública e aprovada por unanimidade na sessão ordinária da Assembleia Municipal da Horta, realizada em 28 de junho de 2019, entrando em vigor 15 dias após a sua publicitação.
+
+###### Artigo 1.º — Objeto
+
+1 - O presente regulamento define os princípios gerais e as condições de acesso à atribuição de apoio financeiro a estudantes que ingressem ou frequentem estabelecimentos de ensino, reconhecidos pelo ministério da tutela, no território nacional e em regime presencial permanente.
+
+2 - São abrangidos pelo presente regulamento os Cursos Técnicos Superiores Profissionais e de Ensino Superior.
+
+###### Artigo 2.º — Apoio financeiro
+
+1 - O apoio financeiro é uma prestação pecuniária, suportada pelo Município da Horta e paga em 10 prestações mensais, correspondente aos meses de outubro a julho, mediante transferência bancária, com valor devidamente inserido em dotação orçamental.
+
+2 - O apoio financeiro visa contribuir para custear despesas inerentes à frequência no estabelecimento de ensino (despesas de alojamento, alimentação, transporte, material escolar, propinas, entre outras).
+
+3 - Nenhum/a estudante poderá beneficiar do Apoio Financeiro a Jovens em número que ultrapasse o de anos curriculares previstos para o curso.
+
+4 - Constitui exceção à alínea anterior os casos em que o/a estudante se tenha ausentado do estabelecimento de ensino por motivo de doença grave prolongada clinicamente comprovada.
+
+5 - O número anual de apoios a atribuir é de, no mínimo 30, podendo ser alargado de acordo com o valor disponível em Plano e Orçamento.
+
+###### Artigo 3.º — Condições de candidatura
+
+1 - Podem candidatar-se ao Apoio Financeiro a Jovens, os/as estudantes que reúnam, cumulativamente, as seguintes condições:
+
+a) Ter nacionalidade portuguesa ou autorização de residência em Portugal;
+
+b) Estar matriculado/a em estabelecimento de ensino;
+
+c) Não possuir habilitação literária superior ou equivalente àquela que pretenda adquirir;
+
+d) Ser deslocado/a. Considera-se que é deslocado/a o/a estudante que frequente estabelecimento de ensino fora da ilha do Faial e o agregado familiar tenha residência na ilha;
+
+e) Constitui exceção à alínea anterior as situações em que o/a estudante venha estudar para a ilha do Faial;
+
+f) Ter aproveitamento escolar no ano letivo anterior. Considera-se que obteve aproveitamento escolar no ano letivo anterior o/a estudante que obteve aproveitamento em pelo menos 80 % dos ECTS em que esteve inscrito;
+
+g) Constitui exceção à alínea anterior os casos em que o/a estudante tenha tido um aproveitamento escolar inferior a 80 % dos ECTS inscritos, por motivo de doença grave prolongada clinicamente comprovada;
+
+h) Estar inscrito, por semestre, em 30 ECTS ou em pelo menos 3 disciplinas, salvo situações previstas no plano de estudos do curso;
+
+i) O rendimento do agregado familiar ser igual ou inferior a 1,5 vezes do salário mínimo regional.
+
+2 - O/a candidato/a que não reúna, cumulativamente, as condições referidas no número anterior, será automaticamente excluído/a.
+
+###### Artigo 4.º — Cumulação com outros apoios
+
+1 - O/A candidato/a poderá acumular o Apoio Financeiro do Município com outros apoios tidos para o mesmo efeito, devendo os mesmos serem declarados e incluídos para o cálculo do rendimento do agregado familiar do/a candidato/a;
+
+2 - A cumulação do valor total dos apoios a receber pelo/a candidato/a, terá um valor máximo de 10 vezes 80 % do Indexante dos Apoios Sociais.
+
+###### Artigo 5.º — Processo de candidatura
+
+1 - A candidatura ao Apoio Financeiro a Jovens pode ser apresentada no Serviço de Ação Social do Município, pelo/a candidato/a ou por um/a representante legal para o efeito, de forma presencial:
+
+a) Durante o mês de setembro para os/as estudantes que ingressem, numa primeira fase, em estabelecimento de ensino ou que já tenham frequentado no ano letivo anterior;
+
+b) Durante o mês de outubro para os/as estudantes que ingressem, numa segunda fase, em estabelecimento de ensino;
+
+mediante preenchimento de ficha de candidatura própria e apresentação dos documentos indicados no número seguinte.
+
+2 - A ficha de candidatura deverá ser acompanhada pelos seguintes documentos atualizados:
+
+a) Apresentação do Cartão de Cidadão do/a candidato/a ou da fotocópia do mesmo:
+
+b) Apresentação do IBAN do/a candidato/a;
+
+c) Apresentação de Atestado, emitido pela Junta de Freguesia, comprovativo do local de residência do/a candidato/a e da composição do agregado familiar;
+
+d) Apresentação de comprovativo de matrícula e de inscrição, com indicação do número de semestres;
+
+e) Constitui exceção ao número anterior as situações em que a inscrição é feita semestralmente. Nestes casos, o certificado de inscrição é apresentado no ato de candidatura e antes do início do segundo semestre;
+
+f) Fotocópia do plano de estudos completo do curso;
+
+g) Fotocópia da declaração do estabelecimento de ensino em como o/a candidato/a obteve aproveitamento escolar no ano letivo anterior, com discriminação da percentagem de aproveitamento relativamente ao número de ECTS inscritos ou certificado de fim de curso, para os/as estudantes que tenham concluído um ciclo de estudos;
+
+h) Fotocópia da declaração do estabelecimento de ensino em como o/a candidato/a não beneficia, no ano da candidatura, de apoio social ou em como beneficia e respetivo valor;
+
+i) Se, até aos prazos regulamentados para o/a candidato/a completar o seu processo, não tiver disponível o documento solicitado na alínea anterior, e até o entregar, terá de apresentar uma declaração do estabelecimento de ensino a comprovar que apresentou candidatura ao apoio social e aguarda resposta. Este mesmo documento, poderá igualmente ser solicitado numa fase posterior à da candidatura, para sua reavaliação;
+
+j) Apresentação de declaração do estabelecimento de ensino em como o/a candidato/a não beneficiou de apoio social, no ano anterior à candidatura, ou em como beneficiou e respetivo valor, para os/as alunos/as que já tenham frequentado um estabelecimento de ensino;
+
+k) Fotocópia da declaração de outras entidades/instituições em como o/a candidato/a beneficia, no ano da candidatura, de apoio social e respetivo valor (quando aplicável);
+
+l) Se, até aos prazos regulamentados para o/a candidato/a completar o seu processo, não tiver disponível o documento solicitado na alínea anterior, e até o entregar, terá de apresentar uma declaração das entidades/instituições a que se candidatou, a comprovar que apresentou candidatura ao apoio social e aguarda resposta. Este mesmo documento, poderá igualmente ser solicitado numa fase posterior à da candidatura, para sua reavaliação;
+
+m) Fotocópia da declaração de IRS e nota de liquidação do imposto de todos os elementos do agregado familiar e/ou prova de outras fontes de rendimento, quando aplicável;
+
+n) Fotocópia dos encargos com habitação;
+
+o) Apresentação de atestado médico, a comprovar a situação clínica do/a candidato/a (quando aplicável);
+
+p) Apresentação de outra documentação solicitada, com vista à análise do processo.
+
+3 - Os documentos apresentados e que não contenham a informação solicitada, no número anterior, são considerados inválidos, à exceção dos casos em que a entidade competente não os disponibilize, mediante apresentação de documento comprovativo.
+
+4 - A candidatura ao Apoio Financeiro a Jovens tem validade, durante o ano letivo, em que a mesma é apresentada.
+
+###### Artigo 6.º — Agregado familiar do/a estudante
+
+1 - Para além do/a estudante integra o respetivo agregado familiar as pessoas que com ele/ela vivam em economia familiar de habitação e rendimento.
+
+2 - Considera-se em economia familiar as pessoas que vivam em comunhão de mesa e habitação e tenham estabelecido, entre si, uma vivência comum de entreajuda e partilha de recursos.
+
+3 - A situação pessoal e familiar dos membros do agregado familiar, relevante para efeitos do disposto no presente regulamento, é aquela que se verificar até à data prevista para finalização do processo, mediante documentos comprovativos.
+
+###### Artigo 7.º — Rendimento anual do agregado familiar
+
+1 - O rendimento anual do agregado familiar é constituído pela totalidade dos rendimentos auferidos no ano civil anterior à candidatura, a qualquer título, por todos os membros do agregado familiar.
+
+2 - Em caso de se verificar alteração de dados, nomeadamente no que concerne ao número de elementos do agregado familiar e à situação sócio-económica, deverá ser apresentada documentação comprovativa da nova situação, até à data prevista para finalização do processo, sendo esta considerada para efeitos de cálculo do rendimento.
+
+3 - Constitui exceção ao número anterior os casos em que o/a candidato/a tiver apoio financeiro cumulativo. Nestas situações, também será considerado para efeitos de cálculo do rendimento do agregado familiar, o valor do apoio cumulativo, quando o mesmo for disponibilizado, sendo a candidatura reavaliada, caso o processo de avaliação já tenha sido concluído.
+
+###### Artigo 8.º — Rendimento
+
+1 - Para efeitos de atribuição do Apoio Financeiro a Jovem, considera-se beneficiário/a aquele/a cujo rendimento seja igual ou inferior a 1,5 vezes do salário mínimo regional em vigor no letivo da candidatura.
+
+2 - O rendimento do agregado familiar do/a candidato/a é o resultado do cálculo da seguinte expressão:
+
+R = (RA-H)/(12*N)
+
+em que:
+
+R = rendimento.
+
+RA = rendimento anual do agregado familiar, comprovado através da declaração de IRS e outras declarações de rendimentos, ainda que não consideradas para efeitos fiscais (subsídio de desemprego, subsídio de doença, rendimento social de inserção, abono de família, apoio à habitação, bolsa de estudo, entre outros). Será considerado um total de 60 % sobre o valor declarado em IRS no Anexo SS.
+
+H = encargos anuais com habitação do agregado familiar até ao limite de 20 % dos rendimentos.
+
+N = número de elementos do agregado familiar.
+
+3 - Será considerado um abatimento de 10 % sobre o rendimento anual para os agregados familiares com pelo menos dois estudantes no ensino superior.
+
+4 - Será considerado um abatimento de 10 % sobre o rendimento anual do agregado familiar nos casos em que o/a estudante tenha um grau de incapacidade superior a 60 %, devidamente comprovada através de atestado de incapacidade passado por Junta Médica.
+
+###### Artigo 9.º — Valores do apoio financeiro
+
+O valor mínimo e máximo do apoio financeiro a atribuir pelo Município é definido de acordo com o rendimento do agregado familiar.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/09/177000000/0051300520.pdf)
+
+###### Artigo 10.º — Processo de seleção e tramitação processual
+
+1 - A avaliação das candidaturas apresentadas será efetuada por um júri de três membros, composto pelo membro do órgão executivo responsável pelo pelouro da Ação Social, por um elemento da Subunidade de Ação Social e por um terceiro elemento a designar pelo primeiro.
+
+2 - A instrução incompleta do processo ou a não entrega dos documentos solicitados, até ao dia 31 de outubro ou 30 de novembro do respetivo ano, correspondente à primeira e segunda fases de candidaturas, são causa de indeferimento liminar do requerimento de candidatura.
+
+3 - Constitui exceção ao disposto no número anterior as situações em que os documentos em falta no processo não tenham sido disponibilizados pelas entidades competentes atempadamente. Nestas situações o/a estudante deverá apresentar um requerimento a justificar a ausência do documento e anexar comprovativo de como foi solicitado à entidade competente, 5 dias úteis antes das datas estabelecidas pelo presente regulamento para conclusão do processo.
+
+4 - Constitui também exceção ao estabelecido no n.º 2 do presente artigo, as situações em que o/a candidato/a tenha requerido a outra candidatura, para além da do Município, mediante apresentação dos documentos referidos nas alíneas i) e l) do n.º 2 do artigo 5.º
+
+5 - Se o número de candidatos/as, em condições de beneficiar de apoio financeiro, for superior ao estabelecido pelo presente regulamento, terão prioridade os/as estudantes que apresentem o rendimento mais baixo.
+
+6 - Constitui exceção ao número anterior as situações em que o rendimento do agregado familiar for inferior a 0,5 vezes do salário mínimo regional. Nestes casos, terão prioridade os/as estudantes que em anos anteriores tenham beneficiado do Apoio Financeiro do Município, seguidos dos que estejam inscritos em Cursos Técnicos Superiores Profissionais.
+
+7 - Em caso de igualdade de rendimento, terão prioridade os/as candidatos/as que em anos anteriores tenham beneficiado do apoio financeiro.
+
+8 - A conceção do Apoio Financeiro a Jovens é da competência da Câmara Municipal da Horta, com base em informação elaborada pelo júri.
+
+9 - Dentro do prazo da audiência prévia, podem os/as candidatos/as apresentar, por escrito, reclamação para os membros do júri, que deverá ser objeto de decisão nos cinco dias úteis imediatos.
+
+10 - Será afixado em edital a deliberação de Câmara da atribuição do Apoio Financeiro a Jovens.
+
+###### Artigo 11.º — Situações especiais não previstas
+
+1 - São objeto de apreciação, e deliberação de Câmara, sob proposta do júri de concurso, as situações não enquadráveis no âmbito do processo de atribuição do apoio financeiro.
+
+2 - São objeto de apreciação, e deliberação de Câmara, sob proposta da Subunidade de Ação Social, as situações não enquadráveis no âmbito deste regulamento municipal.
+
+###### Artigo 12.º — Contrato-programa de financiamento à formação superior
+
+1 - A atribuição do apoio financeiro será materializada mediante acordo a celebrar entre os/as beneficiários/as e o Município da Horta, no qual se estabelecem os direitos e obrigações das partes.
+
+2 - Os acordos a celebrar para a atribuição do apoio financeiro têm a designação de contratos-programa de financiamento à formação, cujo modelo se publica em anexo.
+
+3 - A assinatura do contrato-programa deverá ocorrer nos 20 dias seguintes à aprovação das listas em reunião camarária, e o/a requerente, já na qualidade de titular de apoio financeiro, poderá fazer-se acompanhar e/ou fazer substituir por um representante legal.
+
+4 - Nas situações em que o apoio é cumulativo, poderá ser feita uma alteração ao contrato-programa assinado.
+
+###### Artigo 13.º — Deveres e penalizações aplicadas aos/às estudantes
+
+1 - Constituem deveres do/a estudante titular de apoio financeiro a jovens:
+
+a) Prestar todos os esclarecimentos e apresentar todos os documentos que forem solicitados, no âmbito do processo;
+
+b) Apresentar no final dos dois semestres, a pauta das notas ou documento comprovativo do aproveitamento escolar;
+
+c) Caso o/a candidato/a não tenha no final de cada semestre o documento solicitado no número anterior, deverá apresentar documento justificativo da não entrega do mesmo e apresentá-lo no prazo de 5 dias úteis, após lhe ter sido facultado;
+
+d) Caso o/a candidato/a faça a sua inscrição semestralmente, deverá apresentar o comprovativo de inscrição do segundo semestre, antes do início do mesmo;
+
+e) Caso o/a candidato, não tenha disponível, nos prazos estabelecidos, os documentos solicitados nas alíneas h) e k) do n.º 2, do artigo 5.º, deverá apresentá-los no prazo de 5 dias úteis, após lhe terem sido facultados, para efeitos de atualização do cálculo do rendimento do agregado familiar;
+
+f) Comunicar à Câmara, nos 30 dias imediatos à ocorrência, as situações de mudança de curso e de transferência de estabelecimento de ensino;
+
+2 - Constitui motivo de suspensão do apoio financeiro:
+
+a) A não apresentação dos documentos indicados no número anterior, sempre que se aplique;
+
+b) A não apresentação da ficha de inscrição do segundo semestre, para os casos previstos na alínea d) do n.º 2 do artigo 5.º
+
+3 - Constitui motivo de anulação do apoio financeiro:
+
+a) A desistência da frequência do curso ou a anulação de matrícula;
+
+b) A falta de apresentação ou prestação de falsas declarações, quer no processo de candidatura quer na documentação referida no n.º 1 do presente artigo;
+
+c) A mudança de residência para outro concelho.
+
+4 - As falsas declarações implicam, para além do procedimento criminal e da perda de direito ao apoio financeiro correspondente, a imediata reposição das quantias indevidamente recebidas.
+
+5 - Após a finalização do processo, no caso do/a estudante que tenha apoio cumulativo, poderá o/a mesmo/a ter de devolver ao Município a importância recebida indevidamente.
+
+###### Artigo 14.º — Dados Pessoais
+
+A Câmara Municipal da Horta garante a confidencialidade e proteção dos dados pessoais e privacidade dos/as candidatos/as, nos termos da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857) de 26 de outubro, a qual transpõe para a ordem jurídica interna ao Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE - Regulamento Geral sobre a Proteção de Dados.
+
+###### Artigo 15.º — Dúvidas e omissões
+
+Cabe à Câmara Municipal da Horta resolver, mediante deliberação, todas as dúvidas e omissões que eventualmente surjam na aplicação ou interpretação do presente regulamento.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente regulamento entrará em vigor 15 dias após a sua publicitação.
+
+Horta, ___
+
+## Anexo — Contrato-programa
+
+Entre o Município da Horta, com sede no Largo Duque d'Ávila e Bolama e com o NIPC ___, representado no ato pelo Sr. ___, na qualidade de Presidente da Câmara Municipal da Horta, adiante designado como primeiro outorgante, e o/a Sr./a ___, com o NIF ___, residente em ___, freguesia ___, na qualidade de estudante beneficiário/a e adiante designado/a como segundo outorgante, é celebrado, ao abrigo do artigo 11.º do Regulamento Municipal de Apoio Financeiro a Jovens, publicado em ___ na 2.ª série do Diário da República, n.º ___, um contrato-programa de financiamento à formação superior, que se regerá pelas seguintes cláusulas:
+
+Cláusula 1.ª
+
+Objeto do contrato
+
+1 - O presente contrato-programa tem como objeto regular o processo de atribuição do apoio financeiro ao/à estudante beneficiário/a acima identificado/a pela frequência do curso de ___, com o grau de ___, onde ingressou no ano letivo de ___.
+
+2 - O/a estudante beneficia do Apoio Financeiro a Jovens atribuído pelo Município da Horta pelo ___ ano (indicar os anos de atribuição do apoio e se foi consecutivo, interpolado ou pela primeira vez).
+
+Cláusula 2.ª
+
+Comparticipação do município da Horta
+
+1 - Para a prossecução dos objetivos definidos na cláusula anterior, compete ao Município da Horta o pagamento de um apoio mensal no valor de (euro) ___.
+
+2 - O Apoio Financeiro a Jovens é uma prestação pecuniária suportada integralmente pelo Município da Horta, paga em 10 prestações mensais, correspondente ao ano letivo de outubro a julho, mediante transferência bancária.
+
+3 - O/a estudante beneficiará do Apoio Financeiro do Município pelo período de ___ meses.
+
+4 - A despesa prevista tem o compromisso n.º ___, datado a ___ de ___ de ___, com registo no sistema interno dos serviços.
+
+Cláusula 3.ª
+
+Deveres do/a estudante
+
+1 - Apresentar no final dos dois semestres, a pauta das notas ou documento comprovativo do aproveitamento escolar.
+
+2 - Apresentar o comprovativo de inscrição do segundo semestre, antes do início do mesmo (quando aplicável).
+
+3 - Apresentar fotocópia da declaração do estabelecimento de ensino e/ou de outras entidades/instituições, em como, no ano da candidatura, beneficia de apoio social e respetivo valor (quando aplicável).
+
+4 - Constitui, ainda, obrigação do/a estudante comunicar ao Município da Horta, através do serviço de ação social, nos 30 dias imediatos à ocorrência, as situações de mudança de curso, de transferência de estabelecimento de ensino, de desistência do curso ou de anulação de matrícula e de mudança de residência.
+
+5 - Devolver ao Município qualquer importância que tenha sido indevidamente recebida.
+
+Cláusula 4.ª
+
+Acompanhamento e controlo da execução do contrato-programa
+
+O acompanhamento e controlo da execução deste contrato-programa serão exercidos pelo Presidente da Câmara Municipal da Horta, através do Serviço de Ação Social.
+
+Cláusula 5.ª
+
+Resolução de casos omissos
+
+Em tudo o que for omisso no presente documento serão observadas as normas do Regulamento Municipal de Apoio Financeiro a Jovens.
+
+Cláusula 6.ª
+
+Período de vigência do contrato
+
+O presente contrato-programa é válido desde a data da sua assinatura, produzindo efeitos desde 1 de outubro de ___ a 30 de julho de ___.
+
+Celebrado nos Paços do Município, a ___ de ___ de ___
+
+O Primeiro Outorgante:
+
+(O Presidente da Câmara)
+
+O Segundo Outorgante:
+
+(Estudante beneficiário/a ou representante legal)
+
+312516617

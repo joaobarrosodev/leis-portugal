@@ -1,0 +1,522 @@
+---
+schema_version: '1.0'
+id: pt:dre:1043311747:por
+title: Regulamento n.º 142/2026
+short_title: null
+summary: Aprovação do Regulamento Geral da Utilização das Instalações e Equipamentos Desportivos da Universidade de Trás-os-Montes
+  e Alto Douro.
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Universidade de Trás-os-Montes e Alto Douro
+proposing_entity: null
+official_number: 142/2026
+official_date: null
+publication_date: '2026-02-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 28/2026, Série II de 2026-02-10
+  number: '28'
+  series: II
+  supplement: null
+  pages: 240 - 251
+  pdf_url: https://files.diariodarepublica.pt/2s/2026/02/028000000/0024000251.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1043311747'
+  dre_path: /dr/detalhe/regulamento/142-2026-1043311747
+  internal: pt:dre:1043311747:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/142-2026-1043311747
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/142-2026-1043311747
+  consolidated_url: null
+  retrieved_at: '2026-11-13T08:32:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3ba85fa6421f5470220e2b4c581f23121ee7d96ff8a8bdfc86849f65d35873b7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T08:32:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:397323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522787:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T08:32:08Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 142/2026
+
+Considerando que:
+
+1 - A Universidade de Trás-os-Montes e Alto Douro (UTAD) dispõe de diversas instalações destinadas ao desenvolvimento de atividades no domínio da prática desportiva, cultural, de lazer e bem-estar;
+
+2 - O desporto, enquanto agente promotor de educação, cultura, saúde e de um estilo de vida saudável, deve estar plenamente integrado no processo de desenvolvimento económico, social e cultural da UTAD;
+
+3 - Com base nesses pressupostos, diversas entidades, internas e externas, têm vindo a manifestar interesse na utilização das referidas instalações, sendo, por isso, necessário regulamentar essa utilização;
+
+Verificando-se o caráter de urgência na emissão do presente Regulamento, o qual decorre, designadamente, da necessidade de assegurar, em tempo útil, a conformidade entre as disposições do regulamento e os protocolos de utilização dos espaços, foi dispensada a audiência dos interessados, bem como a realização de consulta pública, situação enquadrável no n.º 3 do artigo 110.º do Regime Jurídico das Instituições de Ensino Superior e nas alíneas a) e b) do n.º 3 do artigo 100.º e do artigo 101.º do Código do Procedimento Administrativo, porquanto a sua realização não estaria concluída em tempo útil. Mais se acrescenta que, as suas disposições não afetam, de modo direto e imediato, direitos ou interesses legalmente protegidos dos cidadãos, atendendo que não é provocada na ordem jurídica qualquer alteração significativa merecedora de tutela ou proteção jurídica.
+
+Determino, ao abrigo das competências que me são legalmente conferidas pela alínea o) do n.º 1 do artigo 92.º do Regime Jurídico das Instituições de Ensino Superior e pela alínea t) do n.º 1 do artigo 30.º dos Estatutos da Universidade de Trás-os-Montes e Alto Douro, a aprovação do Regulamento Geral da Utilização das Instalações e Equipamentos Desportivos da UTAD, o qual tem por objetivo disciplinar os aspetos relacionados com a respetiva gestão, cedência e funcionamento, passando a integrar o presente Despacho como parte integrante.
+
+14 de janeiro de 2026. - O Reitor Interino, Jorge Ventura Ferreira Cardoso.
+
+## ANEXO — Regulamento Geral de Utilização das Instalações e Equipamentos Desportivos da Universidade de Trás-os-Montes e Alto Douro
+
+Preâmbulo
+
+A Universidade de Trás-os-Montes e Alto Douro, adiante designada por UTAD possui várias instalações e equipamentos desportivos aptos a ser utilizados na realização de atividades diversas nos domínios do Desporto, da Cultura, do Lazer e da cooperação institucional.
+
+Assim, por um lado, pretendendo imprimir uma gestão mais eficiente, de modo que aqueles recursos possam ser potencializados, no sentido de satisfazer todas as necessidades que lhes forem possíveis, por outro, garantir um bom funcionamento, utilização e longevidade dos mesmos, é intenção que o presente diploma normativo venha a representar um dos instrumentos de salvaguarda daqueles desideratos.
+
+### CAPÍTULO I — DISPOSIÇÕES GERAIS E ENQUADRAMENTO
+
+Cláusula 1.ª
+
+Objeto
+
+1 - O presente regulamento tem por objeto a definição das regras gerais de utilização e funcionamento das Instalações e Equipamentos Desportivos da UTAD, infra indicados, bem como das condições de segurança a observar no decorrer da sua utilização.
+
+2 - O presente regulamento aplica-se a todos aqueles que intervenham em atividades na UTAD, independentemente de se tratar de entidades internas ou externas, nomeadamente na qualidade de promotores, técnicos ou público.
+
+3 - Sem prejuízo de outros que venham a ser definidos por Despacho Reitoral, as Instalações e Equipamentos Desportivos, objeto do presente regulamento, são os que constam do Anexo I.
+
+Cláusula 2.ª
+
+Propriedade e Gestão
+
+1 - Sendo propriedade da UTAD, cabe ao Reitor, ou a quem este designar, a respetiva gestão, bem como superintendência das atividades a desenvolver e do regular funcionamento das Instalações e Equipamentos Desportivos objeto do presente diploma.
+
+2 - Sem prejuízo do disposto no número anterior, para efeitos de gestão e manutenção corrente, as Instalações e Equipamentos Desportivos da UTAD são afetas a unidades orgânicas ou serviços específicos nos termos definidos pelo Reitor.
+
+3 - Cabe ao Reitor ou a quem este designar, autorizar a cedência interinstitucional, independentemente da sua natureza pública ou privada, bem como a prestação de serviços conexos com a respetiva cedência.
+
+Cláusula 3.ª
+
+Critérios preferenciais de utilização
+
+1 - As Instalações e Equipamentos Desportivos objeto do presente diploma destinam-se à promoção do bem-estar da comunidade académica e da comunidade em geral, sem prejuízo da componente pedagógica e científica que aqueles visem assegurar, no pressuposto que, primacialmente, se destinam ao desenvolvimento das atividades integradas nos cursos lecionados na UTAD.
+
+2 - Sem prejuízo do número anterior, pode ser autorizada a utilização das Instalações Desportivas para atividades recreativas, desportivas, competitivas e de formação, ou atividades promovidas por outras entidades públicas ou privadas que aí se possam realizar de acordo com as suas características físicas e técnicas.
+
+3 - Para efeitos do número anterior deve observar-se a seguinte ordem de prioridades:
+
+a) Provas universitárias internacionais, nacionais e internas;
+
+b) Atividades oficiais da UTAD;
+
+c) Atividades de treino das equipas representativas da UTAD, devidamente credenciadas;
+
+d) Atividades desportivas promovidas por unidades da UTAD, pela sua Associação Académica e outras estruturas representativas de trabalhadores e estudantes, devidamente credenciadas;
+
+e) Prática desportiva organizada, individualmente ou em grupo, por parte de estudantes, incluindo alumni, trabalhadores docentes e não docentes da UTAD;
+
+f) Atividades desportivas desenvolvidas por entidades protocoladas, devidamente autorizadas;
+
+g) Atividades desportivas desenvolvidas por outras entidades e grupos de pessoas, devidamente autorizadas.
+
+4 - Pode ainda ser autorizada a utilização das Instalações Desportivas para atividades não relacionadas diretamente com o contexto desportivo, desde que das mesmas, tendo em conta a finalidade a que se destinam, não resulte um prejuízo quanto ao bom estado de conservação e manutenção dos mesmos
+
+5 - Os Equipamentos Desportivos identificados no Anexo I, modelo B, destinam-se exclusivamente ao uso por parte da comunidade Académica, conforme definido no artigo 5.º dos Estatutos da UTAD.
+
+### CAPÍTULO II — ATRIBUIÇÃO E FUNCIONAMENTO DOS ESPAÇOS, INSTALAÇÕES E EQUIPAMENTOS DESPORTIVOS
+
+Cláusula 4.ª
+
+Cedência de Espaços, Instalações e Equipamentos Desportivos
+
+1 - A atribuição do uso e utilização das Instalações e Equipamentos Desportivos da UTAD, em regra, opera-se pela cedência, a qual pode revestir as seguintes modalidades:
+
+a) Cedência Regular, que prevê a utilização das Instalações Desportivas em dias e horas previamente fixadas ao longo do ano, ao abrigo, nomeadamente, de protocolos, acordos ou contratos-programa.
+
+b) Cedência Pontual, que implica a utilização das Instalações Desportivas ou Equipamentos Desportivos limitada a determinadas finalidades de carácter isolado e não continuado.
+
+2 - Para efeitos do presente artigo, salvo autorização prévia pelo órgão e ou serviços competentes da UTAD, não podem as entidades beneficiárias ceder a sua posição de cedência a terceiros.
+
+3 - Todos os pedidos de cedência pontual devem ser efetuados obrigatoriamente através de formulário próprio, conforme resulta do Anexo II.
+
+4 - Todos os pedidos de cedência regular devem ser enviados para o respetivo responsável até ao limite de 30 de setembro de cada ano, através da entrega de um plano anual de utilização.
+
+5 - A cedência pontual de Equipamentos Desportivos, pode ter a duração mensal, trimestral ou semestral, contando como data de início a data de entrega do equipamento ao requerente, tendo associada, no ato da reserva, uma caução, conforme resultante do Anexo III, Modelo B, reembolsável após verificação do estado do equipamento desportivo na data da respetiva entrega, a qual deve ocorrer no prazo máximo de 5 (cinco) dias úteis subsequentes àquela receção.
+
+6 - O requerente é responsável pelos Equipamentos Desportivos durante o período de cedência, assumindo a totalidade das despesas inerentes à reparação e/ou substituição dos mesmos em caso de dano.
+
+7 - Todos os pedidos de utilização das Instalações e Equipamentos Desportivos estão sujeitos à ordem das datas de entrada dos mesmos, respeitando, no caso das Instalações Desportivas, as prioridades de utilização definidas no n.º 3 da cláusula 3.ª, e a disponibilidade do calendário escolar e horários letivos.
+
+8 - O plano de utilização das Instalações Desportivas no âmbito pedagógico e científico deve estar concluído pelo Departamento de Desporto uma semana antes da data de início de cada semestre letivo.
+
+9 - Os pedidos de Cedência Pontual de Espaços ou das Instalações Desportivas devem ser efetuados com a antecedência mínima de 3 dias úteis relativamente ao primeiro horário de cedência solicitado.
+
+10 - O requerente é responsável pela segurança do recinto e dos utilizadores durante a realização de quaisquer eventos, sendo igualmente responsável pela vigilância do recinto e demais serviços durante a realização de quaisquer eventos que assim o determinem, bem como pelas eventuais licenças ou autorizações que se tornem necessárias à concreta realização das atividades desenvolvidas.
+
+11 - Se o requerente, ao abrigo de Cedência Regular, pretender deixar de utilizar as instalações antes da data estabelecida, deve informar, por escrito, com antecedência mínima de 7 dias úteis, sob pena de continuarem a ser debitados os respetivos valores de utilização.
+
+12 - A UTAD reserva-se no direito de utilizar as Instalações Desportivas para eventos por si promovidos ou apoiados, comunicando essa pretensão aos utentes regulares com pelo menos 7 dias úteis de antecedência.
+
+13 - Por motivos de força maior, podem ser revogadas quaisquer autorizações de cedência, não havendo lugar a qualquer indemnização pela UTAD aos requerentes, pelo período não utilizado.
+
+Cláusula 5.ª
+
+Acesso às Instalações e Equipamentos Desportivos
+
+1 - Têm acesso às Instalações e ao local onde se encontrem os equipamentos desportivos, objeto do presente diploma, todos os docentes com serviço docente que implique a sua utilização, dentro do calendário e do horário letivo definido para o efeito.
+
+2 - Fora do horário definido no ponto anterior, podem ter acesso as pessoas registadas na listagem respetiva, disponibilizada aos Serviços responsáveis pela Segurança do Campus/UTAD, e elaborada pelos responsáveis pela gestão das Instalações Desportivas, após emissão de documento de autorização de acesso.
+
+3 - Para cada reserva deve ser emitida uma Declaração de Autorização de Utilização, pelo responsável pela gestão das Instalações e/ou Equipamento Desportivos da UTAD (Anexo IV).
+
+4 - O acesso a qualquer Instalação Desportiva é assegurado à entrada do Campus da UTAD, com a apresentação da Declaração de Autorização de Utilização.
+
+Cláusula 6.ª
+
+Condições de Utilização dos Espaços, Instalações e Equipamentos Desportivas
+
+1 - Em locais bem visíveis das Instalações são afixados painéis onde constem, designadamente, as principais regras de utilização relativamente ao uso dos equipamentos, à limpeza e à higiene.
+
+2 - As regras de utilização dos Equipamentos Desportivos, são fornecidas no ato do respetivo levantamento.
+
+3 - A utilização das Instalações Desportivas deve obedecer a horários predefinidos, não sendo permitida a sua utilização fora daqueles horários.
+
+4 - Não é permitida a entrada nas Instalações Desportivas a grupos sem a presença do elemento responsável, designado pelo requerente, a quem compete assumir a responsabilidade pelo local de prática desportiva até ao final do período de utilização e reportar todas as situações ou acontecimentos anómalos relevantes.
+
+5 - O acesso às áreas reservadas à prática desportiva só é permitido a utilizadores devidamente equipados para a modalidade e identificados na Declaração de Autorização de Utilização.
+
+6 - Os utilizadores das Instalações Desportivas devem pautar a sua conduta de modo a não perturbar as atividades de outros utilizadores que, porventura, também se encontrem a utilizar as Instalações desportivas, bem como respeitar as indicações do responsável e os avisos e indicações existentes relativamente ao uso dos mesmos.
+
+7 - Não é permitido comer dentro dos espaços de prática desportiva.
+
+8 - O lixo produzido durante a utilização das instalações desportivas deve ser retirado pelos utilizadores e colocado em local apropriado de forma a garantir a manutenção da higiene do espaço.
+
+9 - Em caso algum a UTAD é responsável pelo eventual desaparecimento de haveres ou objetos pessoais.
+
+10 - A UTAD garante nas Instalações Desportivas o material para a prestação de primeiros socorros, podendo ser utilizado, em cada período de cedência, pelos utilizadores, sendo estes responsáveis pelo seu correto manuseamento.
+
+Cláusula 7.ª
+
+Seguro Desportivo
+
+1 - O seguro desportivo, sendo da responsabilidade do utilizador das Instalações Desportivas da UTAD, é obrigatório, sem prejuízo do seguinte:
+
+a) Para os utilizadores discentes da UTAD, o seguro escolar cobre os acidentes que decorram da prática desportiva integrada na atividade letiva, de acordo com as condições da apólice.
+
+b) Para os utilizadores docentes da UTAD, o contrato de trabalho em funções públicas prevê apenas a cobertura dos acidentes de trabalho que decorram da atividade letiva, de acordo com o regime jurídico dos acidentes em serviço e doenças profissionais no âmbito da Administração Pública.
+
+c) Para os utilizadores não discentes da UTAD em atividades programadas pela Reitoria, deve atender-se ao que resulta da respetiva autorização, a qual deve acautelar os termos de cobertura de eventual de acidente.
+
+2 - As entidades coletivas ou singulares exteriores à UTAD devem apresentar prova de seguro desportivo, bem como o respetivo termo de responsabilidade de seguro desportivo, atestando a responsabilidade legal, conforme resulta do Anexo V.
+
+3 - Sem prejuízo do disposto nos números anteriores, os utilizadores devem assegurar que não possuem quaisquer contraindicações para a prática desportiva bem como o respetivo termo de responsabilidade, atestando a responsabilidade legal, conforme Anexo V.
+
+4 - Sem prejuízo das salvaguardas resultantes do n.º 1 do presente artigo, a UTAD não se responsabiliza por quaisquer acidentes ocorridos dentro das instalações desportivas.
+
+5 - Na utilização dos Equipamentos Desportivos é da exclusiva responsabilidade do utilizador eventual acidente que daquela possa decorrer.
+
+Cláusula 8.ª
+
+Revogação da cedência
+
+1 - A autorização para a utilização das Instalações Desportivas e Equipamentos Desportivos é imediatamente revogada quando se verifique alguma das seguintes situações:
+
+a) Não satisfação das condições de utilização;
+
+b) Recusa de pagamento de prejuízo devido a danos nas Instalações ou Equipamentos Desportivos, ou quaisquer equipamentos integrados, ocorridos durante a respetiva utilização;
+
+c) Utilização para fins diversos daqueles para que foi concedida a autorização;
+
+d) Utilização por entidades ou pessoas estranhas à autorização concedida.
+
+2 - A autorização de utilização das Instalações Desportivas pode ainda ser revogada pela ocorrência de fatores externos e imponderáveis, como sejam situações de intempérie e ainda para a realização de obras de beneficiação e manutenção das próprias instalações.
+
+Cláusula 9.ª
+
+Interdição
+
+1 - A interdição de utilização das Instalações Desportivas consiste na proibição temporária da realização de visitas, jogos e treinos por parte de entidades coletivas ou singulares e, grupos desportivos universitários a quem tenham sido imputadas as faltas referidas no número seguinte.
+
+2 - A medida de interdição aplica-se, designadamente, quando se verifiquem agressões ou tentativa de agressão envolvendo visitantes, espetadores, dirigentes, médicos, treinadores, guias, auxiliares e outros trabalhadores, bem como membros das equipas de arbitragem, atletas ou elementos com responsabilidade na manutenção da ordem, assim como a todos aqueles que sejam responsáveis por danos patrimoniais voluntários.
+
+3 - Cabe ao Reitor, ou em quem este delegue, a decisão de interdição de utilização e respetiva execução.
+
+### CAPÍTULO III — TAXAS DE UTILIZAÇÃO DOS ESPAÇOS, INSTALAÇÕES E EQUIPAMENTOS DESPORTIVOS
+
+Cláusula 10.ª
+
+Taxas de utilização
+
+1 - O valor devido pela utilização das Instalações e Equipamentos Desportivos é o que resulta da tabela constante do anexo III do presente regulamento, a qual, sempre que se justifique, pode ser revista, por deliberação do Conselho de Gestão.
+
+2 - Os valores devidos pela utilização das Instalações e Equipamentos Desportivos são pagos nos seguintes prazos:
+
+a) Quando se trate de Cedências Regulares o pagamento deve ser efetuado até ao dia 8 do mês seguinte a que diz respeito a cedência de utilização;
+
+b) Quando se trate de cedências pontuais, no momento da reserva.
+
+### CAPÍTULO IV — OUTROS INSTRUMENTOS COMPLEMENTARES DE CEDÊNCIA OU EXPLORAÇÃO
+
+Cláusula 11.ª
+
+Protocolos específicos
+
+1 - A UTAD pode estabelecer protocolos específicos de cedência dos Espaços e das Instalações Desportivas com outras entidades que prevejam condições especiais, entendendo-se como tal:
+
+a) A utilização das Instalações Desportivas e respetivos espaços adjacentes para espetáculos desportivos ou outros dos quais possam advir para o utilizador resultados financeiros;
+
+b) A exploração de publicidade;
+
+c) A utilização das instalações com transmissão televisiva.
+
+### CAPÍTULO V — DISPOSIÇÕES FINAIS
+
+Cláusula 12.ª
+
+Ética Desportiva e Responsabilidade
+
+1 - O comportamento dos utilizadores e espetadores deve, em qualquer dos casos, pautar-se por princípios de respeito mútuo, sã camaradagem, desportivismo e de boa educação, sob pena de interdição.
+
+2 - A UTAD reserva o direito de impedir a entrada ou a continuidade de indivíduos nas suas instalações, com fundamento em ofensa à moral e integridade pública.
+
+3 - Os utilizadores e público em geral são civil e criminalmente responsáveis, nomeadamente, pelos danos ou extravios causados em bens do património da UTAD.
+
+Cláusula 13.ª
+
+Dúvidas e Omissões
+
+As dúvidas e omissões suscitadas pela aplicação do presente regulamento serão resolvidas por despacho do Reitor, a quem competirá também integrar as eventuais lacunas.
+
+Cláusula 14.ª
+
+Entrada em vigor
+
+O presente Regulamento entra em vigor no dia seguinte à sua publicação no Diário da República.
+
+## ANEXO I — Fichas Técnicas dos Espaços, Instalações e Equipamentos Desportivos
+
+[A] Instalações Desportivas
+
+| Designação | Área útil para prática desportiva | Piso | Modalidades | Equipamentos |
+| --- | --- | --- | --- | --- |
+| Nave dos desportos | Área: 800 m2Comprimento: 40 mLargura: 20 m | Madeira | Futsal, Voleibol, Andebol, Basquetebol, Badmington | 2 balizas, 4 tabelas de basquetebol, 1 parede de escalada, 1 corredor de atletismo, bancadas, 4 balneários |
+| Edifício de Apoio à Formação Multidisciplinar (Pav. Ginástica) | Área: 600 m2 | Pavimento desportivo modular com amortecimento caixa de ar incorporado + praticável de tumbling | Ginástica, Esgrima | Aparelhos de ginástica, TV 55’’ |
+| Campo Relvado Natural | Área: 6400 m2Comprimento: 100 mLargura 64 m | Relvado natural | Futebol | 2 balizas, gaiola de lançamentos, auditório de apoio à Pista, bancadas, 2 balneários |
+| Campo Rugby Natural | Área: 6400 mComprimento: 100 mLargura 64 m | Relvado natural | Rugby e Futebol | 2 postes de rugby |
+| Campo Relvado Sintético | Área: 6400 m2Comprimento: 100 mLargura 64 m | Relvado sintético | Futebol | 2 balizas, gabinete médico, sala de reuniões, bancadas, 2 balneários |
+| Pista de Atletismo Tartan | Área: 400 m6 corredores | Piso tartan | Atletismo | 6 corredores de corrida, caixa de areia, Auditório de apoio à Pista, bancadas, 2 balneários |
+| Campo Areia | Área: 800 m2Comprimento: 40 mLargura: 20 m | Areia | Futebol PraiaVoleibol Praia | 2 balizas |
+| Campo Ténis | Área: 1456 m2Comprimento: 52 mLargura:28 m | Betuminoso | Ténis | 2 campos de ténis, 2 redes, 2 paredes bate-bolas |
+| Campo Relvado Futebol 5 | Área: 684 m2Comprimento: 38 mLargura: 18 m | Relvado sintético | Futebol 5 | 2 balizas |
+
+[B] Equipamentos desportivos
+
+| Designação | Composição | N.º Unidades Disponíveis |
+| --- | --- | --- |
+| Kit 1 | Bicicleta de Cycling | 20 |
+| Kit 2 | Barra de pump, 2 molas, 1 par de discos de 5 Kg e 1 par de discos de 2,5 kg | 15 |
+| Kit 3 | Step e 1 par de tornozeleiras 2 kg | 15 |
+| Kit 4 | Barra olímpica, 2 molas, 1 par de discos de 5 kg e 1 par de discos de 10 kg | 15 |
+
+## ANEXO II — Ficha de Inscrição
+
+[A] Reserva de Instalações Desportivas
+
+FICHA RESERVA INSTALAÇÕES DESPORTIVAS
+
+| Nome Completo: |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Cartão Cidadão n.º: |  |  | Contribuinte n.º: |  |  |
+| Data de nascimento: ___/___/___ | Telefone/Telemóvel |  |  |  |  |
+| e-mail: |  |  |  |  |  |
+| Assinalar e preencher exclusivamente o campo correspondente à sua situação |  |  |  |  |  |
+| Aluno |  | N.º Mecanográfico |  | Curso: |  |
+| Docente |  | N.º Mecanográfico |  | Departamento: |  |
+| Funcionário |  | N.º Mecanográfico |  | Serviço/unidade: |  |
+| Externo |  | Alumni | Sim | Não | Profissão: |
+| INSTALAÇÕES DESPORTIVAS |  |  |  |  |  |
+| Nave desportos |  |  | Data pretendida: |  |  |
+| Relvado futebol 11 Natural |  | Horário pretendido: |  |  |  |
+| Relvado rugby Natural |  |  | Lista de utilizadores: |  |  |
+| Relvado futebol 11 sintético |  |  |  |  |  |
+| Pista atletismo tartan |  |  |  |  |  |
+| Pista atletismo indoor |  |  |  |  |  |
+| Campo futebol 5 sintético |  |  |  |  |  |
+| Court ténis I |  |  |  |  |  |
+| Court ténis II |  |  |  |  |  |
+| Campo futebol areia |  |  |  |  |  |
+| ESPAÇO RESERVADO AOS SERVIÇOS |  |  |  |  |  |
+| Data: ___/___/___ |  |  | O trabalhador: |  |  |
+
+[B] Reserva de Equipamentos Desportivos
+
+FICHA RESERVA EQUIPAMENTOS DESPORTIVOS
+
+| Nome Completo: |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Cartão Cidadão n.º: |  |  | Contribuinte n.º: |  |  |  |  |
+| Data de nascimento: ___/___/___ | Telefone/Telemóvel |  |  |  |  |  |  |
+| e-mail: |  |  |  |  |  |  |  |
+| Assinalar e preencher exclusivamente o campo correspondente à sua situação |  |  |  |  |  |  |  |
+| Aluno |  | N.º Mecanográfico |  | Curso: |  |  |  |
+| Docente |  | N.º Mecanográfico |  | Departamento: |  |  |  |
+| Funcionário |  | N.º Mecanográfico |  | Serviço/unidade: |  |  |  |
+| Externo |  | Alumni | Sim | Não | Profissão: |  |  |
+| EQUIPAMENTO DESPORTIVO |  |  |  |  |  |  |  |
+| KIT 1 |  |  |  | Serviço transporte | Sim | Não |  |
+| KIT 2 |  |  |  | Morada de entrega: |  |  |  |
+| KIT 3 |  |  |  |  |  |  |  |
+| KIT 4 |  |  |  |  |  |  |  |
+| OUTRO |  |  |  | QUAL? |  |  |  |
+| ESPAÇO RESERVADO AOS SERVIÇOS |  |  |  |  |  |  |  |
+| Data: ___/___/___ |  |  | O trabalhador: |  |  |  |  |
+
+## ANEXO III — TAXAS
+
+[A] Instalações Desportivas
+
+| Designação | Público-Alvo | Preço/Hora 2026-2030 |
+| --- | --- | --- |
+| Nave dos Desportos(Lot. máx: 15p.) | Alunos | 30,00 € |
+| Trabalhadores UTAD | 36,00 € |  |
+| Externos | 48,00 € |  |
+| Edifício de Apoio à FormaçãoMultidisciplinar (Pav. Ginástica)(Lot. máx: 15p.) | Alunos | 30,00 € |
+| Trabalhadores UTAD | 36,00 € |  |
+| Externos | 48,00 € |  |
+| Campo Relvado Sintético(Lot. máx: 30p.) | Alunos | 60,00 € |
+| Trabalhadores UTAD | 78,00 € |  |
+| Externos | 120,00 € |  |
+| Campo Relvado Natural(Lot. máx: 30p.) | Alunos | 72,00 € |
+| Trabalhadores UTAD | 84,00 € |  |
+| Externos | 144,00 € |  |
+| Campo Rugby Natural(Lot. máx: 30p.) | Alunos | 72,00 € |
+| Trabalhadores UTAD | 84,00 € |  |
+| Externos | 144,00 € |  |
+| Campo Relvado Futebol 5(Lot. máx:15p.) | Alunos | 7,00 € |
+| Trabalhadores UTAD | 9,50 € |  |
+| Externos | 14,50 € |  |
+| Pista Tartan(Valor unitário: 1 pista) | Alunos | 1,20 € |
+| Trabalhadores UTAD | 1,80 € |  |
+| Externos | 2,40 € |  |
+| Campo Areia(Lot. máx: 15p.) | Alunos | 7,00 € |
+| Trabalhadores UTAD | 9,50 € |  |
+| Externos | 14,50 € |  |
+| Campo Ténis(Valor unitário: 1 campo \| Lot. máx 4p.) | Alunos | 3,60 € |
+| Trabalhadores UTAD | 5,00 € |  |
+| Externos | 7,00 € |  |
+
+Acresce IVA à taxa legal em vigor.
+
+[B] Equipamentos Desportivos
+
+| Designação | Público-Alvo | Caução | AluguerMensal | AluguerTrimestral | AluguerSemestral |
+| --- | --- | --- | --- | --- | --- |
+| KIT 1 | Alunos | 150,00 € | 15,00 € | 45,00 € | 90,00 € |
+| Trabalhadores UTAD | 25,00 € | 75,00 € | 150,00 € |  |  |
+| KIT 2 | Alunos | 30,00 € | 10,00 € | 30,00 € | 60,00 € |
+| Trabalhadores UTAD | 15,00 € | 45,00 € | 90,00 € |  |  |
+| KIT 3 | Alunos | 20,00 € | 5,00 € | 15,00 € | 30,00 € |
+| Trabalhadores UTAD | 7,50 € | 22,50 € | 45,00 € |  |  |
+| KIT 4 | Alunos | 50,00 € | 15,00 € | 45,00 € | 90,00 € |
+| Trabalhadores UTAD | 25,00 € | 75,00 € | 150,00 € |  |  |
+
+Acresce IVA a taxa legal em vigor.
+
+## ANEXO IV — DECLARAÇÃO DE UTILIZAÇÃO
+
+RESERVA DE INSTALAÇÃO DESPORTIVA
+
+Declaração de utilização
+
+Declara-se que ___ está autorizado/a a utilizar a ___ nos seguintes termos:
+
+Período: de ___/___/___ a ___/___/___
+
+Horário: ___horas às ___horas.
+
+O utilizador fica responsável por cumprir as regras estipuladas no Regulamento de Espaços, Instalações e Equipamentos Desportivos da UTAD
+
+Nota: Deverá ser apresentado este documento em formato digital, ou em papel, sempre que solicitado pelo funcionário.
+
+## ANEXO V — TERMO DE RESPONSABILIDADE
+
+SEGURO DESPORTIVO
+
+A [Lei n.º 5/2007](https://diariodarepublica.pt/dr/detalhe/lei/5-2007-522787), de 16 de janeiro, que aprova a Lei de Bases da Atividade Física e do Desporto, refere no n.º 2 do seu Artigo 40.º no âmbito das atividades físicas e desportivas não federadas “constitui especial obrigação o praticante assegurar-se, previamente, de que não tem quaisquer contraindicações para a sua prática.” Assim, deixa de ser obrigatória a apresentação de exame médico, para a prática desportiva, o praticante tem de assegurar que não tem quaisquer contraindicações para a prática desportiva que pretende desenvolver.
+
+Ao abrigo do [Decreto-Lei n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323) de 12 de janeiro, as entidades prestadoras de serviços desportivos, públicas ou privadas, celebram um contrato de seguro desportivo, com as coberturas mínimas previstas no n.º 2 do artigo 5.º, a favor dos utentes ou clientes desses serviços. A adesão ao seguro realiza-se no ato da inscrição ou contratualização junto das entidades mencionadas anteriormente, exceto o previsto no n.º 3 do artigo 8.º do referido decreto-lei.
+
+De acordo com o acima exposto, eu ___, com o Cartão de Cidadão n.º ___, válido até ___/___/___, declaro que estou ciente e tomei conhecimento da legislação em vigor, pelo que:
+
+___. Asseguro que não possuo quaisquer contraindicações para a prática de exercício físico;
+
+___. Assumo total responsabilidade por quaisquer danos causados a mim próprio durante a utilização das instalações desportivas e prática desportiva.
+
+___ de___ de 20___
+
+Assinatura (1) (2): ___
+
+Notas:
+
+(1) Assinatura conforme Cartão de Cidadão.
+
+(2) Caso o Cliente seja menor de 18 anos, o presente documento é assinado pelo Encarregado de Educação, e anotado após apresentar o n.º do seu Cartão de Cidadão.
+
+TERMO DE RESPONSABILIDADE
+
+Eu, ___, portador(a) do cartão de cidadão n.º ___, declaro que, nos termos do artigo 40.º da Lei de Bases da Atividade Física e do Desporto, não tenho quaisquer contraindicações para a prática de desporto/atividade física/exercício físico.
+
+Assinatura (1)
+
+___
+
+___de___ de 20___
+
+| **Observação: Antes da prática de exercício físico aconselhamos que consulte****o****seu médico.** |
+| --- |
+
+(1) Assinatura conforme Cartão de Cidadão.
+
+319957810
+
+.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:57px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl8 { min-height:49px; } .Tbl9 { min-height:47px; } .Tbl10 { margin-left:auto; margin-right:auto; } .Tbl11 { min-height:18px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(166,201,236); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { min-height:23px; } .Tbl22 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(241,169,131); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(241,169,131); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(241,169,131); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(166,201,236); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(166,201,236); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl27 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(166,201,236); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl28 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl29 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl30 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl31 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl32 { margin-top:0px; text-align:center; } .Tbl33 { min-height:16px; } .Tbl34 { background-color:rgb(146,184,119); }

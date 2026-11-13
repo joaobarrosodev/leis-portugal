@@ -1,0 +1,715 @@
+---
+schema_version: '1.0'
+id: pt:dre:25711962:por
+title: Regulamento n.º 213/2014
+short_title: null
+summary: 2.ª alteração ao Regulamento de Liquidação e Cobrança de Taxas e Emissão de Licenças do Município de Torres Vedras
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Torres Vedras
+proposing_entity: null
+official_number: 213/2014
+official_date: null
+publication_date: '2014-05-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 104/2014, Série II de 2014-05-30
+  number: '104'
+  series: II
+  supplement: null
+  pages: 14179 - 14191
+  pdf_url: https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '25711962'
+  dre_path: /dr/detalhe/regulamento/213-2014-25711962
+  internal: pt:dre:25711962:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/213-2014-25711962
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/213-2014-25711962
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:44:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f09e0cf759649fa123bad7203067b1f051cbbf27fe580eddf0bc80526a4bdd04
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:44:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+article_structure:
+  article_count: 35
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:44:03Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 213/2014
+
+2.ª alteração ao Regulamento de Liquidação e Cobrança de Taxas e Emissão de Licenças do município de Torres Vedras
+
+Dr. Carlos Manuel Soares Miguel, Presidente da Câmara Municipal de Torres Vedras:
+
+Torna público, para cumprimento do disposto no artigo 130.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935) de 15 de novembro, conjugado com o n.º 4 do Artº. 3.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682) de 16/12, ambos na sua atual redação, que a Assembleia Municipal em reunião ordinária de 05/05/2014, realizada no âmbito da sessão ordinária de 28/04/2014, aprovou, por maioria, a 2.ª alteração ao Regulamento de Liquidação e Cobrança de Taxas e Emissão de Licenças do Município de Torres Vedras, conforme documentos que se anexam (I e II).
+
+Para constar e devidos efeitos, se publica o presente Edital e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+
+E eu, Alexandra Sofia Carlos Mota Luís, Diretora de Departamento de Administração Geral, em regime de substituição, o subscrevi.
+
+12 de maio de 2014. - O Presidente da Câmara, Dr. Carlos Manuel Soares Miguel.
+
+## ANEXO I — 2.ª alteração ao Regulamento de Liquidação e Cobrança de Taxas e Emissão de Licenças do Município de Torres Vedras
+
+Nota justificativa
+
+O Regime Geral das Taxas das Autarquias Locais (RGTAL), aprovado pela [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492) de 29.09, na sua atual redação prevê, no n.º 2 do artigo 9.º que a atualização dos valores das taxas de acordo com qualquer outro critério que não a taxa de inflação se efetua mediante alteração ao regulamento de criação da taxa respetiva e deve conter a fundamentação económico-financeira subjacente ao novo valor. Resulta do artigo 20.º n.º 2 do Regime Financeiro das Autarquias Locais e das Entidades Intermunicipais, aprovado pela [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3.09, que o valor das taxas deve ser fixado considerando os ditames dos princípios da equivalência jurídica, da justa repartição dos encargos públicos e da publicidade, incidindo sobre utilidades prestadas aos particulares ou resultantes da realização de investimentos municipais. A recente alteração a este mesmo regulamento deixou inalterados os valores das taxas que são agora alterados, tratando-se como se tratam de taxas que correspondem a utilidades dificilmente mensuráveis, como são a utilização do espaço publico para estacionamento de veículos e a redução de poluição ambiental. Assim, considerando a realidade sócio económica do país, o objetivo de promover o correto uso do espaço público, a mobilidade dos residentes e dos que afluem diariamente à cidade e estimular o uso de modos suaves de transporte, nomeadamente pedonal e bicicleta, contribuindo para a melhoria da saúde e qualidade de vida, promovendo a redução de consumos energéticos e consequente poluição ambiental, no sentido de alcançar uma mobilidade cada vez mais sustentável, reduzem-se os valores de algumas taxas e cria-se a taxa relativa à emissão do selo para o estacionamento de comerciantes, um limite máximo de permanência de quatro horas nas zonas de estacionamento de duração limitada, para efeitos de aplicação do Regulamento de Estacionamento, Cargas e Descargas e Remoção de Veículos Abandonados do Município de Torres Vedras (REMTV) e [Decreto-Lei n.º 81/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2006-649721), de 20.04. Neste sentido, e após apreciação pública nos termos do artigo 118.º CPA,,ao abrigo do preceituado nos artigos 112.º e 241.º da Constituição da República Portuguesa, 25.º, n.º 1 alínea g) e 33.º, n.º 1 alínea k) da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro que aprovou o Regime Jurídico das Autarquias Locais das Entidades Intermunicipais e do Associativismo Autárquico, a assembleia municipal na sua sessão de 05/05/2014, realizada no âmbito da sessão ordinária de 28.04.2014, aprovou a alteração aos Quadros 32 e 33 da Tabela anexa ao regulamento publicitado na 2.ª série n.º 245 de 23.12.2011, nos seguintes termos:
+
+QUADRO 32
+
+Selos de residente e de comerciante, licença para lugar de estacionamento privativo e autorização especial de circulação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 33
+
+Bolsas de estacionamento de duração limitada
+
+Mistas (BM) e de rotação (BR)
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+## ANEXO II — Regulamento de Liquidação e Cobrança de Taxas e Emissão de Licenças do Município de Torres Vedras
+
+Preâmbulo
+
+De acordo com o art 17.º do Regime Geral das Taxas das Autarquias Locais (RGTAL), aprovado pela [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492) de 29 de setembro, alterada pela lei n.º 64-A/2008 de 31 de dezembro, as taxas para as autarquias locais atualmente existentes seriam revogadas no início de 2010, a não ser que os regulamentos municipais que previssem a cobrança se mostrassem conformes ao RGTAL ou sejam alterados em conformidade.
+
+De modo a assegurar a necessária compatibilidade do Regulamento de Liquidação e Cobrança de Taxas e Emissão de Licenças do Município de Torres Vedras com as normas do RGTAL, procedeu-se ao levantamento e justificação das diversas taxas e outras receitas municipais, tendo sido elaborado o estudo da sua fundamentação económico-financeira. O resultado desse estudo reflete-se na revisão do Regulamento de Liquidação e Cobrança de Taxas e Emissão de Licenças do Município de Torres Vedras, publicado em 2011, o qual contempla a base de incidência objetiva e subjetiva, o valor das taxas a cobrar ou a fórmula de cálculo do valor das taxas a cobrar e critérios de atualização, a sua fundamentação económico-financeira, as isenções e reduções e a sua fundamentação e o modo de pagamento.
+
+Assim, todas as taxas são calculadas em conformidade com o princípio da equivalência jurídica, salvo quanto àquelas em relação às quais esse critério não é aplicável, seja porque se trata de taxas que visam desincentivar determinados comportamentos, seja porque correspondem a utilidades dificilmente mensuráveis. Em todos os casos é respeitada a regra da proporcionalidade.
+
+Por outro lado, do ponto de vista técnico-jurídico, conserva-se a técnica tradicional de previsão em anexo de uma tabela de taxas, da qual consta a ponderação das diversas variáveis tidas em consideração na concretização da fundamentação económico financeira dos quantitativos a cobrar tendo-se procurado, por essa via, dotar de maior racionalidade e transparência os tributos municipais.
+
+Com a publicação do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581) de 1 de abril, o Município de Torres Vedras viu necessidade de adaptar o seu quadro regulamentar designadamente nas áreas da publicidade e ocupação do espaço público e consequentemente a tabela de taxas.
+
+Por força do novo contexto legal instituído pelo regime do licenciamento zero, procedeu-se à alteração do presente regulamento e respetiva tabela, apenas para adequar a forma de liquidação das taxas, a publicitação das mesmas e o seu âmbito e conteúdo no que concerne, exclusivamente, aos regimes previstos no supra referido diploma e às matérias nele reguladas.
+
+Neste sentido, a Câmara Municipal de Torres Vedras, em reunião de 18/06/2013, e a Assembleia Municipal de Torres Vedras, em reunião extraordinária de 20/11/2013, realizada no âmbito da sessão extraordinária de 15/11/2013, aprovaram o presente Regulamento e Tabela de Taxas Municipais que, após publicação na 2.ª série do Diário da República, n.º 247 de 20/12/2013, entra em vigor no Município.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Lei habilitante
+
+O presente Regulamento é elaborado e nos termos do n.º 7 do artigo 112.º e artigo 241.º da Constituição da República Portuguesa, artigos 10.º, 12.º, 15.º, 16.º, 55.º e 56.º da Lei das Finanças Locais, na sua atual redação, n.º 1 do art.º 8.º do Regime Geral das Taxas das Autarquias Locais aprovado pela [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro, alíneas a), b) e g) do n.º 1 do artigo 25.º e alíneas k) e ccc) do n.º 1 do artigo 33.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023) e nos termos do disposto no n.º 1 do artigo 3.º e 116.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua atual redação.
+
+###### Artigo 2.º — Objeto
+
+1 - O presente Regulamento, incluindo a Tabela de Taxas e o estudo económico-financeiro relativo ao valor das taxas, que dele fazem parte integrante, estabelece as normas que regulam a incidência, a liquidação e a cobrança de taxas resultantes de utilidades prestadas aos particulares ou geradas pela atividade do município, nomeadamente, a prestação de serviços, a utilização de bens do património e sob jurisdição municipal, da remoção de um obstáculo jurídico ao comportamento dos particulares e a emissão de licenças, pelo Município de Torres Vedras.
+
+2 - O Regulamento não se aplica às situações e casos em que a fixação, liquidação, cobrança e pagamento de taxas obedeça a normativos legais específicos.
+
+###### Artigo 3.º — Incidência objetiva
+
+O presente Regulamento regula a relação tributária relativa às taxas do Município de Torres Vedras, devidas pela prestação concreta de serviços públicos municipais, pela utilização privada de bens do domínio público e privado do Município, pela remoção de um obstáculo jurídico ao comportamento dos particulares e pela emissão de licenças.
+
+###### Artigo 4.º — Incidência subjetiva
+
+As taxas previstas no presente regulamento e na tabela anexa ao mesmo, são devidas ao Município de Torres Vedras pelas pessoas singulares ou coletivas e outras entidades legalmente equiparadas que, nos termos da lei e dos regulamentos aprovados pelo Município, estejam vinculadas ao pagamento da prestação tributária, por requererem as prestações, utilidades e licenças previstas no artigo anterior e sem prejuízo das isenções que possam ser concedidas dentro dos limites legais.
+
+###### Artigo 5.º — Receitas municipais
+
+As receitas provenientes da cobrança das taxas constituem receitas do Município, não recaindo sobre elas qualquer adicional para o Estado, salvo nos casos legalmente previstos.
+
+### CAPÍTULO II — Liquidação
+
+###### Artigo 6.º — Liquidação
+
+A liquidação das taxas e outras receitas municipais previstas na tabela anexa ao presente Regulamento consiste na determinação do montante a pagar e resulta da aplicação dos indicadores nela definidos e dos elementos fornecidos pelos interessados.
+
+###### Artigo 7.º — Procedimento de Liquidação
+
+1 - A liquidação das taxas e outras receitas municipais previstas na tabela anexa ao presente Regulamento é efetuada no momento do pedido ou a final consoante o estabelecido na tabela de taxas, sendo sempre no momento do pedido, quando a tabela nessa parte seja omissa e se consiga determinar o montante a pagar nesse momento.
+
+2 - O cálculo das taxas e outras receitas municipais, cujo quantitativo esteja indexado ao ano, mês, semana ou dia, far-se-á em função do calendário, considerando-se semana de calendário o período de segunda-feira a domingo.
+
+3 - Em todas as liquidações previstas na tabela anexa ao presente regulamento os valores devem ser arredondados, conforme se apresentar o terceiro algarismo depois da vírgula:
+
+a) Se for inferior a 5, arredonda-se para o cêntimo mais próximo por defeito;
+
+b) Se for igual ou superior a 5, arredonda-se para o cêntimo mais próximo por excesso.
+
+c) As medidas de tempo, superfície, volume e lineares são sempre arredondadas por excesso para a unidade ou fração superior.
+
+4 - A notificação da liquidação das taxas, quando a ela haja lugar, deve conter a fundamentação da liquidação, o montante devido, o prazo para pagamento, bem como a advertência sobre as consequências do não pagamento.
+
+5 - Com a liquidação das taxas e outras receitas municipais o Município assegurará ainda a liquidação e cobrança de impostos devidos ao Estado, nomeadamente Imposto de Selo e Imposto sobre o Valor Acrescentado, resultantes de imposição legal.
+
+###### Artigo 8.º — Caducidade da liquidação
+
+O direito a liquidar as taxas caducas se a liquidação não for validamente notificada ao sujeito passivo no prazo de quatro anos a contar da data em que ocorreu o facto tributário.
+
+###### Artigo 9.º — Revisão do ato de liquidação
+
+1 - Poderá haver lugar à revisão do ato de liquidação pelo respetivo serviço liquidador, por iniciativa do sujeito passivo ou oficiosa, nos prazos estabelecidos na lei geral tributária e com fundamento em erro de facto ou de direito.
+
+2 - Quando se verifique que na liquidação das taxas se cometeram erros imputáveis aos serviços municipais e dos quais tenha resultado prejuízo para o Município, promover-se-á de imediato a liquidação adicional se, sobre o facto tributário, não tiver decorrido mais de quatro anos.
+
+3 - A notificação da liquidação adicional deverá conter as menções referidas no n.º 5 do artigo 6.º
+
+4 - Quando tenha sido liquidada quantia superior à devida, devem os serviços, de imediato e mediante despacho do órgão competente para o ato, proceder à devolução da quantia indevidamente paga, se sobre o facto tributário não tiver decorrido mais de quatro anos.
+
+###### Artigo 10.º — Taxas liquidadas e não pagas
+
+O não pagamento das taxas dentro dos prazos estabelecidos origina a extinção do procedimento, salvo disposição legal ou regulamentar em contrário.
+
+### CAPÍTULO III — Pagamento e Consequências do não pagamento
+
+###### Artigo 11.º — Pagamento
+
+1 - Salvo nos casos expressamente identificados, não pode ser praticado nenhum ato ou facto sem prévio pagamento das taxas e outras receitas municipais previstas na tabela anexa ao presente regulamento.
+
+2 - O pagamento das taxas e outras receitas municipais deve ser efetuado na Tesouraria Municipal, ou através de qualquer meio de pagamento admissível nomeadamente transferência bancária ou em equipamentos de pagamento automático e salvo disposição legal em contrário, sempre antes da prática ou verificação dos atos ou factos a que respeitem.
+
+###### Artigo 12.º — Prazos de pagamento e extinção
+
+1 - O prazo para pagamento que termine em sábado, domingo ou dia feriado transfere-se para o primeiro dia útil imediatamente seguinte.
+
+2 - As taxas previstas na tabela anexa extinguem-se através do seu pagamento ou por qualquer outra forma prevista na lei Geral Tributária.
+
+###### Artigo 13.º — Pagamento em prestações
+
+1 - A Câmara Municipal pode autorizar a requerimento fundamentado do interessado, o pagamento das taxas ou compensações em prestações, com exceção das que tenham regulamentação específica.
+
+2 - A Câmara Municipal pode exigir a prestação de caução para autorizar o pagamento em prestações das taxas ou compensações.
+
+3 - O não pagamento de uma prestação na data do seu vencimento implica o vencimento das restantes assegurando-se a execução fiscal da divida remanescente mediante extração da respetiva certidão de divida.
+
+###### Artigo 14.º — Cobrança coerciva
+
+1 - Nos casos em que o ato ou facto já tenha sido praticado ou utilizado sem o necessário licenciamento ou autorização municipal, bem como nos casos de revisão de ato de liquidação que implique uma liquidação adicional, o prazo para pagamento voluntário é de 15 dias a contar da notificação para pagamento.
+
+2 - Findo o prazo de pagamento voluntário das taxas liquidadas e que constituam dívida ao município, começam a vencer-se juros de mora à taxa legal.
+
+3 - Consideram-se em dívida as taxas, relativamente às quais o contribuinte usufruiu do facto, do serviço ou do benefício, sem o respetivo pagamento.
+
+4 - O não pagamento das taxas referidas nos números anteriores implica a extração das respetivas certidões de dívida e o seu envio aos serviços competentes, para efeito de execução fiscal.
+
+5 - As dívidas por taxas referidas na tabela anexa prescrevem no prazo de oito anos a contar da data em que o facto tributário ocorreu.
+
+###### Artigo 15.º — Meios de impugnação
+
+Os sujeitos passivos das taxas para as autarquias locais podem reclamar ou impugnar a respetiva liquidação, nos termos do disposto no artigo 16.º do Regime Geral das Taxas das Autarquias Locais.
+
+### CAPÍTULO IV — Isenções e Reduções de Taxas
+
+###### Artigo 16.º — Isenções por razões sociais e de interesse económico
+
+1 - Estão isentos de pagamento de taxas pela concessão de licenças ou outro título previsto na tabela anexa ao presente regulamento, além dos casos previstos em regulamentos específicos, as instituições e organismos que beneficiem legalmente dessa isenção.
+
+2 - A Câmara Municipal mediante deliberação, pode conceder isenção total ou parcial de taxas:
+
+a) Às instituições culturais, desportivas, recreativas, profissionais, cooperativas de ensino, politico-partidárias e de solidariedade social, religiosas e partidárias desde que se destinem à realização dos correspondentes fins estatutários;
+
+b) Às demais pessoas singulares ou coletivas nas obras a efetuar nos imóveis considerados de valor concelhio, ou no Centro Histórico, bem como nos pedidos de urbanização ou edificação para habitação, comércio, serviços, ou indústria em determinadas áreas do Concelho;
+
+c) As operações urbanísticas para indústrias em áreas industriais definidas no Plano Diretor Municipal, bem como as operações urbanísticas na área abrangida pelo Plano de Pormenor de Salvaguarda da Zona Histórica de Torres Vedras.
+
+3 - A Câmara Municipal pode ainda isentar, total ou parcialmente, pessoas singulares ou coletivas e outras entidades legalmente equiparadas do pagamento de taxas, em casos de natureza social ou de interesse económico devidamente justificados ou de relevante interesse para o Município.
+
+4 - São isentas de taxas as inumações de pobres, as inumações e exumações em talhões privativos, bem como as licenças para obras em jazigos e sepulturas perpétuas quando executadas em talhões privativos.
+
+5 - Estão ainda isentos das taxas previstas neste Regulamento o licenciamento de loteamentos e de construções destinados a habitação de custos controlados.
+
+###### Artigo 17.º — Redução de taxas
+
+1 - A licença para obras de conservação, reconstrução, alteração ou ampliação em imóveis classificados é reduzida em 50 % do seu valor.
+
+2 - A redução prevista no número anterior é aplicável à licença para obras de conservação, reconstrução, alteração ou ampliação em imóveis objetos de programas de reabilitação urbana.
+
+3 - A Câmara Municipal, mediante deliberação, pode ainda conceder as seguintes reduções:
+
+a) Redução de 80 % no pagamento das taxas referentes a obras de reconstrução desde que se mantenham as fachadas e o número de frações ou unidades;
+
+b) Redução de 60 % no pagamento das taxas referentes a obras de alteração ou ampliação, desde que resulte um aumento até 40 % do número de frações, unidades ou da área de construção existente.
+
+4 - As operações urbanísticas que contemplem iniciativas de diminuição de consumo energético, de redução ou reutilização de água, ou que apresentem medidas que garantam a construção sustentável, poderão beneficiar de uma redução das taxas até ao máximo de 30 %.
+
+5 - A redução de taxas prevista neste artigo deve ser requerida, de forma devidamente fundamentada, pelo promotor da operação urbanística ou pelo titular de qualquer direito de uso sobre o imóvel.
+
+###### Artigo 18.º — Requerimento de licenças
+
+1 - As isenções referidas nos artigos anteriores não dispensam os beneficiários, de requererem à Câmara Municipal as necessárias licenças, quando devidas, nos termos da lei e dos regulamentos municipais.
+
+2 - As isenções previstas no presente regulamento não autorizam os beneficiários a utilizar meios suscetíveis de lesar o interesse municipal e não abrangem as indemnizações por eventuais danos causados no património municipal.
+
+### CAPÍTULO V — Da emissão, renovação e cessação das licenças ou outros títulos
+
+###### Artigo 19.º — Prazo de Validade e Renovação de licenças, registos e títulos
+
+1 - Salvo o disposto em lei especial, as renovações e prorrogações das licenças, dos registos anuais e dos demais títulos emitidos no âmbito de aplicação dos artigos 3.º e 4.º devem ser solicitadas até 20 dias antes do seu termo de validade.
+
+2 - As licenças e os demais títulos terão o prazo de validade nelas constantes e caducam no último dia do prazo de validade, sem prejuízo do estabelecido no n.º 6.
+
+3 - Caso o requerente o declare no pedido inicial, a renovação é feita automaticamente, caducando de imediato se o pagamento da respetiva taxa não for efetuado no prazo concedido para o efeito e sem prejuízo do disposto no artigo 13.º
+
+4 - As licenças, registos e demais títulos renováveis consideram-se emitidos nas condições e termos em que foram concedidos inicialmente, sem prejuízo da atualização do valor da taxa a que eventualmente houver lugar.
+
+5 - Os prazos das licenças, registos e demais títulos contam-se, salvo disposição em contrário, nos termos do artigo 279.º do Código Civil.
+
+6 - As licenças, registos e demais títulos, cessam a pedido dos seus interessados, por caducidade, por incumprimento das condições impostas no licenciamento ou por decisão da Câmara Municipal nos termos do número seguinte.
+
+7 - Todas as licenças, registos e demais títulos concedidos, são considerados precários, com exceção dos que o não sejam nos termos da lei, podendo a Câmara Municipal, fundamentadamente revogá-los a todo o tempo, sem direito a qualquer indemnização, mediante a notificação ao respetivo titular ou representante, nos termos do Código do Procedimento Administrativo, sendo a taxa correspondente ao período não utilizado restituída por simples despacho do órgão competente para o ato.
+
+8 - Os pedidos de averbamento e aditamentos devem ser efetuados no prazo de 30 dias, caso não exista outro legalmente previsto, a contar da verificação dos factos que o justifiquem e mediante apresentação de documento que legitime esse ato.
+
+9 - As certidões terão a validade de 1 ano a contar da data da sua emissão salvo se outro for especialmente fixado.
+
+###### Artigo 20.º — Operações urbanísticas
+
+1 - À liquidação e emissão de licenças de obras particulares, loteamentos e urbanismo aplicam-se as normas constantes no Regulamento Municipal da Urbanização e Edificação bem como o definido na tabela anexa ao presente regulamento.
+
+2 - Os pedidos de comunicação prévia estão sujeitos ao pagamento da taxa fixada na tabela anexa ao presente regulamento.
+
+3 - Os pedidos de prorrogação do prazo de validade das licenças tituladas por alvará devem ser formulados antes do seu termo.
+
+###### Artigo 21.º — Ocupação de Espaço Público
+
+1 - As taxas devidas por ocupação de espaços públicos são cobradas antecipadamente, segundo as seguintes regras e sem prejuízo das demais normas regulamentares em vigor no Município:
+
+a) As taxas mensais, até ao último dia útil do mês anterior àquele a que se refere a ocupação, cobrando-se em relação a novas licenças a fração correspondente aos dias até final do mês em curso, excluindo o dia em que é emitida a licença;
+
+b) As taxas semanais, até ao último dia útil anterior ao período a que se refere a ocupação;
+
+c) As restantes taxas, antes de se iniciar a ocupação.
+
+2 - Entende-se por ocupação ocasional toda a ocupação que não tenha caráter de definitividade quer no tempo quer em caráter de implantação da estrutura, nomeadamente a que não ultrapasse sete dias.
+
+###### Artigo 22.º — Publicidade
+
+1 - Na liquidação das comunicações e emissão de licença aplicam-se as normas constantes do Regulamento Municipal de Publicidade e Ocupação do Espaço Público, com as seguintes especificações:
+
+a) No mesmo anúncio ou reclame pode utilizar-se mais de um processo de medição quando só assim se conseguir determinar a taxa a cobrar;
+
+b) Nos anúncios ou reclames volumétricos a medição faz-se pela superfície exterior;
+
+c) Consideram-se incluídos no anúncio ou reclame os dispositivos destinados a chamar a atenção do público, ainda que não contidos, total ou parcialmente na moldura ou polígono existente.
+
+###### Artigo 23.º — Ruído
+
+Mediante solicitação dos interessados, a medição de níveis de ruído e a elaboração do respetivo relatório técnico está sujeita ao pagamento da taxa prevista na tabela anexa, sendo o pagamento devido pelo requerente ou pelo poluidor, consoante os níveis de ruído estejam ou não em conformidade com a legislação em vigor à data.
+
+###### Artigo 24.º — Cemitérios
+
+1 - Na liquidação e emissão de licença aplicam-se as normas constantes do Regulamento dos Cemitérios Municipais, sem prejuízo do disposto no presente artigo.
+
+2 - A transmissão de direitos a concessionários de campas ou jazigos particulares, por ato entre vivos, não pode realizar-se sem prévia autorização da Câmara Municipal e sem o pagamento das taxas de concessão de terrenos que estiverem em vigor relativamente à área em causa.
+
+3 - A Câmara Municipal pode exigir das agências funerárias, depósito que garanta a cobrança das taxas pelos serviços prováveis a prestar por seu intermédio durante determinado período.
+
+4 - Nas inumações em ossários municipais e entrada de ossadas ou cinzas, cobra-se sempre a taxa correspondente à ocupação perpétua, havendo, porém, direito ao reembolso da taxa, abatida de metade das anuidades vencidas em caso de trasladação para jazigos particulares, sepulturas perpétuas ou para outros cemitérios.
+
+5 - Na trasladação de restos mortais depositados a título perpétuo em ossários municipais, não haverá lugar à devolução de qualquer importância, ficando sujeita ao pagamento da diferença entre a taxa paga à data de ocupação e a taxa em vigor no momento da trasladação, dependendo de prévia autorização camarária.
+
+6 - A colocação de tampas com dobradiças e fechaduras, lápide com epitáfio ou pintura e gravação de epitáfio em compartimentos de ossário municipal depende de prévia autorização camarária.
+
+7 - Às construções funerárias são aplicáveis as normas em vigor para as edificações e respetivas taxas.
+
+8 - A concessão de ossários municipais obriga à sua imediata ocupação.
+
+9 - Nos funerais ocorridos aos sábados, domingos e feriados dispensa-se, no momento da inumação, a apresentação das guias de pagamento, devendo a liquidação das taxas respetivas ser efetuada, obrigatoriamente, até às 12 horas do 1.º dia útil seguinte.
+
+10 - O pagamento das taxas referentes à ocupação de ossário ou jazigo deverá ser efetuado anualmente, de janeiro a março e verificando-se o seu incumprimento, as respetivas quantias serão debitadas para efeitos de cobrança coerciva.
+
+###### Artigo 25.º — Mercados e feiras
+
+1 - Para os efeitos do disposto na tabela de taxas, as frações de metro ou de metro quadrado arredondam -se sempre por excesso, para a unidade de metro e quando a medição, estando prevista na Tabela por metro, só puder ser feita em metros quadrados, ou vice-versa, as respetivas taxas aplicar-se-ão segundo a equivalência de um metro linear de frente por dois m2.
+
+2 - As taxas podem ser cobradas antecipadamente, quando isso convier à natureza da ocupação e à organização do mercado ou feira.
+
+3 - O direito à ocupação em mercados ou feiras é, por natureza, precário.
+
+###### Artigo 26.º — Comissão Arbitrária Municipal
+
+1 - São devidas taxas pela intervenção ou prática pela Comissão Arbitrária Municipal, dos seguintes atos:
+
+a) Determinação do Coeficiente de Conservação;
+
+b) Definição das obras necessárias para a obtenção de nível de conservação superior;
+
+c) Submissão de um litígio a decisão da Comissão Arbitral Municipal, no âmbito da respetiva competência decisória.
+
+2 - As taxas previstas nas alíneas a) e b) do número anterior podem ser reduzidas a um quarto de unidade de conta quando se trate de várias unidades e um mesmo edifício, para cada unidade adicional à primeira.
+
+3 - A taxa prevista na alínea c) é devida metade por cada uma das partes, sendo o pagamento efetuado pelo requerente juntamente com a apresentação do requerimento inicial e pelo requerido no momento da apresentação da defesa.
+
+###### Artigo 27.º — Vistorias
+
+As taxas relativas a vistorias incluem as despesas com remuneração dos peritos.
+
+###### Artigo 28.º — Devolução de documentos
+
+Quando os documentos autênticos devam ficar juntos ao processo e o requerente manifeste interesse na sua devolução, os serviços devolvem o original, depois de extraírem fotocópia do mesmo e de cobrarem a taxa respetiva.
+
+###### Artigo 29.º — Depósito e venda de bens
+
+1 - As despesas com o transporte para o depósito dos bens e com a guarda desses bens e outras que vierem a ser ocasionadas pelos mesmos são da conta dos respetivos proprietários.
+
+2 - Consideram-se abandonados os bens não levantados dentro de 90 dias a partir da notificação ao interessado, a qual é feita, em regra, dentro de 30 dias contados a partir do início do depósito.
+
+3 - Decorrido o prazo fixado no número anterior, procede-se à venda em hasta pública dos referidos bens, retirando-se da importância obtida a que estiver em débito à Câmara e ficando o remanescente, se o houver, à ordem do respetivo proprietário.
+
+4 - Se a importância obtida na hasta pública for insuficiente para cobrir o débito, procede-se à cobrança da diferença nos termos legais.
+
+###### Artigo 30.º — Guarda de bens por despejo
+
+À guarda de bens resultantes de despejo efetuado pela Câmara Municipal não é aplicável a taxa prevista na Tabela durante os dois primeiros meses.
+
+###### Artigo 31.º — Contraordenações
+
+1 - A prática de ato sem o prévio pagamento da taxa devida, constitui facto ilícito sujeito a tributação, sem prejuízo da responsabilidade contraordenacional a que haja lugar.
+
+2 - Constituem nomeadamente contraordenações:
+
+a) A prática ou utilização de ato ou facto sem o prévio pagamento das taxas previstas no presente regulamento, salvo nos casos expressamente previstos;
+
+b) A inexatidão ou falsidade dos elementos fornecidos pelos interessados para liquidação das taxas.
+
+3 - As contraordenações previstas no número anterior são puníveis com coima graduada entre (euro) 150,00 e (euro) 2.500,00.
+
+4 - Os factos previstos na alínea a) do n.º 1 apenas dão lugar à instauração de procedimento contraordenacional por violação do presente regulamento nos casos em que a sua prática não constitua contraordenação punível por outro regulamento municipal ou por qualquer outra norma legal.
+
+5 - A tentativa e negligência são puníveis.
+
+### CAPÍTULO VI — Disposições finais e transitórias
+
+###### Artigo 32.º — Atualização
+
+1 - O valor das taxas previstas na Tabela anexa ao presente Regulamento deve ser atualizado anualmente, com a aprovação do orçamento para o ano seguinte, tendo em conta a evolução do índice de preços do consumidor publicado pelo Instituto Nacional de Estatística, as necessárias adaptações à evolução dos custos de mercado, os encargos que incidam sobre os serviços prestados, as correspondentes despesas administrativas e outros fatores que devam ser ponderados.
+
+2 - Com vista ao estabelecimento gradual de um maior equilíbrio entre os custos dos serviços prestados e a correspondente receita, as taxas municipais serão objeto de atualizações extraordinárias, entre 2010 e 2021, de valor superior ao índice de preços ao consumidor, de acordo com o estudo económico-financeiro realizado ao abrigo da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro.
+
+###### Artigo 33.º — Integração de lacunas
+
+Aos casos não previstos neste Regulamento, aplicar-se-ão as normas do Regime Geral das Taxas das Autarquias Locais, do Código do Procedimento e Processo Tributário e da Lei das Finanças Locais, com as necessárias adaptações e, na falta destas, os princípios gerais de direito.
+
+###### Artigo 34.º — Norma revogatória
+
+Ficam automaticamente revogados os anteriores regulamentos e tabelas de taxas, licenças e outras receitas do município e demais disposições regulamentares contrárias às do presente Regulamento.
+
+###### Artigo 35.º — Entrada em vigor
+
+As disposições do presente Regulamento e Tabela de Taxas Municipais entram em vigor quinze dias após a sua publicação no Diário da República.
+
+Tabela de Taxas do Município de Torres Vedras
+
+## PARTE I — Taxas devidas pela prestação de Serviços Administrativos Gerais e Apreciação de Pedidos Diversos
+
+QUADRO 1
+
+Taxas Administrativas Gerais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 2
+
+Informação Escrita
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 3
+
+Informação Prévia
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 4
+
+Operações de Loteamento e Obras de Urbanização
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 5
+
+Edificação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 6
+
+Operações de Destaque/Separação Física/Construção Anterior a 1951
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 7
+
+Combustíveis, redes e ramais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 8
+
+Infraestruturas Diversas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 9
+
+Receção de obras de urbanização
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 10
+
+Vistorias
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 11
+
+Atos Diversos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+## PARTE II — Taxas Devidas pela Emissão de Título
+
+QUADRO 12
+
+Taxa devida pela emissão, por título da licença ou da admissão de comunicação prévia de operações de loteamento ou de obras de urbanização ou seus aditamentos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 13
+
+Taxa devida pela emissão, por título da licença e da admissão de comunicação previa de edificação ou suas alterações
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 14
+
+Taxa devida pela emissão, por título da licença, da admissão de comunicação previa de situações especiais, ou pelo seu deferimento
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 15
+
+Taxa devida pela emissão de título parcial para construção de estrutura e título especial de obras inacabadas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 16
+
+Taxa devida pela emissão por título de autorização de utilização ou alteração ao uso
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 17
+
+Prorrogações
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 18
+
+Taxa devida pela emissão de Alvará de ocupação da via pública por motivo de obras
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 19
+
+Emissão de Certidão de destaque/Separação Física /Construção Anterior a 1951
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 20
+
+Prazo de execução de Obras
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 21
+
+Ruído
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 22
+
+Taxa Municipal de Direitos de Passagem
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+## PARTE III — Atos decorrentes de Comunicações ou Licenciamentos Diversos
+
+QUADRO 23
+
+Cemitérios
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 24
+
+Abastecimento público
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 25
+
+Higiene e salubridade
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 26
+
+Inspeção Sanitária
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 27
+
+Controlo Metrológico e verificação de pesos, medidas e aparelhos de medição
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 28
+
+Condução e registo de veículos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 29
+
+Atividades Diversas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 30
+
+Elevadores, Monta-cargas, tapetes rolantes e escadas mecânicas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 31
+
+Comissão Arbitral Municipal (CAM)
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 32
+
+Selos de residente e de comerciante, licença para lugar de estacionamento privativo e autorização especial de circulação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 33
+
+Bolsas de estacionamento de duração limitada - Mistas (BM) e de rotação (BR)
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 34
+
+Bloqueamento, Remoção e Depósito de veículos
+
+[Portaria n.º 1424/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1424-2001-579169), de 13 de dezembro, na sua atual redação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 35
+
+Animais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 36
+
+Ocupação do Espaço Público com infraestruturas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 37
+
+Ocupação do Espaço Público mobiliário urbano
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 38
+
+Publicidade e suportes publicitários
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+QUADRO 39
+
+Táxis
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/05/104000000/1417914191.pdf)
+
+207833813

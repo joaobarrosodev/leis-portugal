@@ -1,0 +1,1233 @@
+---
+schema_version: '1.0'
+id: pt:dre:58585519:por
+title: Regulamento n.º 476/2014
+short_title: null
+summary: Regulamento Municipal de Taxas e Outras Receitas
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Tábua
+proposing_entity: null
+official_number: 476/2014
+official_date: null
+publication_date: '2014-10-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 206/2014, Série II de 2014-10-24
+  number: '206'
+  series: II
+  supplement: null
+  pages: 26979 - 27018
+  pdf_url: https://files.diariodarepublica.pt/2s/2014/10/206000000/2697927018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '58585519'
+  dre_path: /dr/detalhe/regulamento/476-2014-58585519
+  internal: pt:dre:58585519:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/476-2014-58585519
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/476-2014-58585519
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:46:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a27d7bdd6b810f59e6de95c75b81b5f4eaaca4d8485301570d2a1036cf3ce7cd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:46:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640919:por
+  label: null
+  source: null
+article_structure:
+  article_count: 31
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:46:26Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 476/2014
+
+Regulamento Municipal de Taxas e Outras Receitas
+
+Mário de Almeida Loureiro, Presidente da Câmara Municipal de Tábua, torna público, nos termos e para efeitos do disposto no n.º 1 do artigo 56.º do Anexo I da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, que a Assembleia Municipal de Tábua, em sua sessão ordinária de 30 de setembro de 2014, sob proposta da Câmara Municipal, aprovou o Regulamento Municipal de Taxas e Outras Receitas.
+
+10 de outubro de 2014. - O Presidente da Câmara, Mário de Almeida Loureiro.
+
+Regulamento Municipal de Taxas e Outras Receitas
+
+Preâmbulo
+
+Com a publicação do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, que simplifica o regime de acesso e de exercício de diversas atividades económicas no âmbito da iniciativa «Licenciamento Zero», impõe-se ao Município diligenciar no sentido de conformar os seus regulamentos ao consagrado naquele diploma legal, e muitas das taxas e prestações de serviços encontram-se desadequadas, sendo urgente corrigir, alterar e eliminar.
+
+Optou-se, assim, pela elaboração de um novo Regulamento Municipal de Taxas e Outras Receitas, resultante da aprovação dos seguintes projetos de regulamentos:
+
+a) Regulamento Municipal do Exercício da Atividade de Comercio a Retalho Não Sedentário Exercida por Feirantes e Vendedores Ambulantes;
+
+b) Regulamento Municipal do Horário de Funcionamento dos Estabelecimentos de Venda ao Público e de Prestação de Serviços;
+
+c) Regulamento Municipal do Licenciamento de Atividades Diversas;
+
+d) Regulamento Municipal de Publicidade Comercial, Mobiliário Urbano e Ocupação do Espaço Público;
+
+e) Regulamento Municipal do Sistema da Indústria Responsável.
+
+Este Regulamento vai ao encontro do estipulado no Regime Geral das Taxas das Autarquias Locais, aprovado pela [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro, alterada pela [Lei n.º 117/2009](https://diariodarepublica.pt/dr/detalhe/lei/117-2009-482146), de 29 de dezembro (doravante designado por RGTAL) que veio alterar profundamente o tradicional sistema e regime de taxas municipais e respetivas tabelas, ao definir, com rigor, determinados pressupostos a que devem obedecer os respetivos regulamentos municipais.
+
+O RGTAL impõe o princípio da equivalência jurídica das taxas municipais, subordinando-as à regra da proporcionalidade entre o custo da atividade pública local e o benefício auferido pelo particular.
+
+De acordo com os critérios estabelecidos no RGTAL que podem fundamentar as taxas municipais, o seu quantum, temos:
+
+O custo da atividade pública local;
+
+O benefício auferido pelo particular;
+
+O desincentivo à prática de atos ou atividades;
+
+De notar que estes critérios poderão fundamentar uma taxa de forma isolada ou cumulativa, dependendo do tipo bem ou de serviço público prestado.
+
+De realçar, ainda, o importante papel do Município no desenvolvimento do concelho o que implica que nos critérios definidores do valor das taxas esteja presente o custo social suportado pelo Município. Trata-se, afinal, de reconhecer que determinadas atividades, por serem estratégicas ao desenvolvimento do concelho, ou por terem um impacto positivo no equilíbrio socioeconómico de Tábua, merecem um tratamento diferenciado (discriminação positiva).
+
+Assim, o fator "custo social assumido pelo Município" reflete a dimensão do interesse público da atividade municipal e a crescente necessidade de interação com a sociedade civil.
+
+A necessidade de fundamentar o valor das taxas (entenda-se, das taxas cujo fundamento é o custo da atividade pública local) obrigou a um criterioso exercício contabilístico e financeiro que consta do Anexo II ao presente Regulamento.
+
+Neste anexo, foram definidos, com rigor, os custos diretos e indiretos das diversas funções dos serviços prestados pelo Município de Tábua, prevendo-se regras de imputação destes custos a cada procedimento, ao qual corresponde uma taxa, agregando, assim, os diferentes custos suportados pela autarquia em função das diferentes prestações tributárias constantes da tabela.
+
+O presente Regulamento e a tabela das taxas que dele faz parte integrante, encontram-se em total conformidade com o Regime Geral das Taxas das Autarquias Locais e com a Lei das Finanças Locais, caracterizando-se, em linhas gerais, pela consagração do princípio da equivalência jurídica das taxas municipais, com o primado do princípio da equivalência económica, expressa na fundamentação económico financeira das taxas municipais através do estudo, elaborado pelo consultor financeiro Dr. Pedro Mota e Costa
+
+Estes estudos descrevem os custos diretos e indiretos suportados pelo Município em função das diferentes prestações tributárias, o custo da atividade pública local, o benefício auferido pelo particular, o desincentivo à prática de atos ou atividades, o custo social suportado pelo Município e a simplificação da tabela das taxas.
+
+Assim, no uso dos poderes regulamentares conferidos às autarquias locais pelo artigo 241.º da Constituição da República Portuguesa e do estabelecido nas alíneas b) e g) do n.º 1 do artigo 25.º conjugado com a alínea k) do n.º 1 do artigo 33.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, retificada pela [Declaração de Retificação n.º 46-C/2013](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-c-2013-263234), de 1 de novembro, que alterou e revogou artigos da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, na redação conferida pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro, foi aprovado pela Assembleia Municipal, em sua sessão ordinária de 30 de setembro de 2014, sob proposta da Câmara Municipal, o presente Regulamento Municipal de Taxas e Outras Receitas. O projeto deste regulamento foi objeto de discussão pública, pelo período de 30 dias, por publicação efetuada na 2.ª série do Diário da República n.º 166, de 29 de agosto de 2014.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Lei Habilitante
+
+O presente Regulamento é aprovado ao abrigo do disposto nas seguintes normas:
+
+a) Artigos 112.º e 241.º da Constituição da República.
+
+b) Alíneas b) e g) do n.º 1 do artigo 25.º conjugado com a alínea k) do n.º 1 do artigo 33.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, retificada pela Declaração de Retificação n.º 46- C/2013, de 1 de novembro.
+
+c) Artigos 6.º e 8.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro.
+
+d) Artigo 20.º e 21.º da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro.
+
+###### Artigo 2.º — Objeto
+
+O presente Regulamento estabelece, nos termos da lei, as taxas, incluindo as devidas pela realização, reforço e manutenção de infraestruturas urbanísticas, e outras receitas municipais, fixando os respetivos quantitativos, bem como as regras relativas à sua liquidação, cobrança e pagamento.
+
+###### Artigo 3.º — Incidência Subjetiva das Taxas
+
+1 - O sujeito ativo da relação jurídico tributária geradora da obrigação de pagamento de taxas previstas na Tabela de Taxas e Outras Receitas municipais anexa ao presente regulamento é o Município de Tábua
+
+2 - Consideram-se sujeitos passivos da prestação tributária prevista no número anterior todas as pessoas singulares ou coletivas e as entidades legalmente equiparadas que nos termos da lei e regulamentos municipais estejam vinculados ao cumprimento da obrigação de pagamento das taxas e outras receitas ao Município de Tábua
+
+###### Artigo 4.º — Incidência Objetiva das Taxas
+
+As taxas e outras receitas municipais previstas na Tabela anexa ao presente Regulamento incidem genericamente sobre as utilidades, serviços ou bens prestados aos particulares ou geradas pela atividade do Município e ainda sobre a remoção de obstáculos jurídicos ao exercício de determinadas atividades ou operações.
+
+### CAPÍTULO II — Da liquidação
+
+###### Artigo 5.º — Liquidação
+
+1 - A liquidação das taxas e demais receitas previstas na Tabela consiste na determinação do montante a pagar e resulta da aplicação da fórmula de cálculo e dos indicadores nela definidos e dos elementos fornecidos pelos interessados, os quais poderão ser confirmados pelos serviços municipais.
+
+2 - O prazo de caducidade do direito de liquidar os tributos constantes do presente Regulamento e Tabela é o previsto na lei Geral Tributária, salvo o previsto em legislação especial.
+
+3 - As dívidas resultantes dos tributos municipais prescrevem nos termos da lei Geral Tributária, salvo o previsto em legislação especial.
+
+4 - A cobrança das taxas referentes à iniciativa Licenciamento Zero e Diretiva de Serviços é efetuada da seguinte forma, a saber:
+
+a) O pagamento da taxa no âmbito do procedimento de mera comunicação prévia é efetuado na sua totalidade (100 %) no momento de submissão do pedido.
+
+b) O pagamento da taxa no âmbito do procedimento comunicação prévia com prazo é efetuado de forma repartida, em que:
+
+i) No momento de submissão do pedido é pago 30 % do total da taxa;
+
+ii) Após a notificação de deferimento do pedido ou, em caso de deferimento tácito, no fim do tempo de resposta definido, neste último, com notificação automática pelo Balcão do Empreendedor, é pago o diferencial do total da taxa, ou seja, 70 %.
+
+c) O pagamento da taxa no âmbito do procedimento licenciamento é efetuado na sua totalidade (100 %) após a notificação do deferimento do pedido.
+
+d) Para efeitos de cálculo das taxas do artigo 9.º, considera-se a tabela em vigor à data da submissão do pedido.
+
+e) Em caso de desistência do pedido previsto na alínea b) e caso tenha existido já o pagamento previsto na subalínea i), não existirá lugar à restituição dessa parcela na medida em que se destina a compensar o Município pela apreciação do pedido.
+
+f) Nos casos em que venha a existir reformulação do pedido relativo ao artigo 9.º, alterando os fatores de dimensão ou tempo, resultando da mesma uma alteração da taxa final a pagar, o acerto respetivo será efetuado no âmbito do pagamento do diferencial do total da taxa ou seja no momento referido na subalínea ii) da alínea b) deste número.
+
+5 - Nos casos de autoliquidação, os interessados poderão proceder ao depósito dos montantes das taxas devidas à ordem do Município de Tábua, na instituição bancária Caixa Geral de Depósitos, conta n.º 0798000023630.
+
+###### Artigo 6.º — Procedimento
+
+1 - A liquidação das taxas e demais receitas previstas na Tabela constará de documento próprio, no qual se fará referência aos seguintes elementos:
+
+a) Identificação do sujeito passivo;
+
+b) Identificação do ato tributável;
+
+c) Enquadramento na Tabela de Taxas e Licenças;
+
+d) Cálculo do montante a pagar, com a conjugação dos elementos referidos nas alíneas b) e c).
+
+2 - O documento mencionado no número anterior, designado como nota de liquidação e ou guia de recebimento e ou nota de débito, fará parte do respetivo processo administrativo.
+
+3 - A liquidação de taxas e outras receitas municipais não precedida de processo administrativo far-se-á nos respetivos documentos de cobrança.
+
+###### Artigo 7.º — Notificação de Liquidação
+
+1 - A liquidação será notificada ao interessado nos termos da lei.
+
+2 - Da notificação da liquidação deverá constar:
+
+a) A nota de liquidação;
+
+b) Os meios de defesa contra o ato de liquidação;
+
+c) O prazo de pagamento voluntário.
+
+3 - A notificação considera-se efetuada na data em que for assinado o aviso de receção e tem-se por efetuada na pessoa do notificado, mesmo quando o aviso de receção haja sido assinado por terceiro presente no domicílio fiscal do requerente, presumindo se, neste caso, que a carta foi entregue ao destinatário.
+
+4 - No caso de o aviso de receção ser devolvido ou não vier assinado, por o destinatário se ter recusado a recebê-lo ou não o ter levantado no prazo previsto no regulamento dos serviços postais, e não se comprovar que, entretanto, o interessado comunicou aos serviços a alteração do seu domicílio fiscal, a notificação será efetuada nos 15 dias seguintes à devolução, por nova carta registada com aviso de receção, presumindo-se a notificação se a carta tiver sido recebida ou levantada, sem prejuízo do notificando poder provar impedimento ou impossibilidade de comunicação de mudança de residência, no prazo legal.
+
+5 - No caso de recusa do recebimento ou não levantamento da carta, previsto no número anterior, a notificação presume-se feita no 3.º dia posterior ao registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.
+
+###### Artigo 8.º — Liquidação de Impostos Devidos ao Estado
+
+Com a liquidação das taxas e outras receitas municipais, o Município assegurará, sempre que legalmente exigível, a liquidação e cobrança dos impostos devidos ao Estado.
+
+###### Artigo 9.º — Revisão do Ato de Liquidação
+
+1 - Verificando-se que na liquidação das taxas e demais receitas municipais se encontram erros ou omissões, por erro dos serviços ou por inexatidão dos elementos fornecidos pelo interessado, poderá haver lugar à revisão do ato de liquidação pelo serviço liquidador, oficiosamente ou por iniciativa do interessado, no prazo de caducidade previsto na lei geral tributária e com fundamento em erro de facto e de direito.
+
+2 - A revisão de um ato de liquidação do qual resultou prejuízo para o Município obriga o serviço liquidador a promover de imediato à liquidação adicional oficiosa.
+
+3 - O devedor será notificado, por carta registada com aviso de receção, para, no prazo de 15 dias, pagar a diferença, sob pena de, não o fazendo, se proceder à cobrança coerciva da dívida pelo processo de execução fiscal.
+
+4 - Da notificação deverão constar os elementos previstos no artigo 5.º, n.º 2, bem como a advertência de que o não pagamento no prazo implica o recurso à execução fiscal para cobrança coerciva da dívida.
+
+5 - O requerimento de revisão do ato de liquidação por iniciativa do sujeito passivo deverá ser instruído com os elementos necessários à sua procedência.
+
+6 - Sem prejuízo da responsabilidade contraordenacional a que haja lugar, sempre que o erro do ato de liquidação for da responsabilidade do próprio sujeito passivo, nomeadamente, por falta ou inexatidão da declaração a cuja apresentação estivesse obrigado, será este responsável pelas despesas que a sua conduta tenha causado.
+
+7 - Quando, por erro imputável aos serviços, tenha sido liquidada e cobrada quantia superior à dívida e não tenha decorrido o prazo de caducidade previsto na lei Geral Tributária, sobre o pagamento, deverão os serviços, independentemente de reclamação ou impugnação do interessado, promover de imediato a restituição oficiosa da quantia que foi paga indevidamente.
+
+### CAPÍTULO III — Isenções e reduções
+
+###### Artigo 10.º — Isenções e Reduções
+
+1 - Estão isentas do pagamento das taxas e preços previstas no presente regulamento todas as entidades públicas ou privadas e atividades ou atos, a que a lei atribua, de forma expressa, tal isenção.
+
+2 - Para além das isenções legais, pode a Câmara Municipal ou o presidente da Câmara Municipal, por delegação desta competência, isentar ou reduzir o pagamento de taxas:
+
+a) A pessoas coletivas de direito público ou de utilidade pública, a associações de bombeiros, a associações religiosas, culturais, desportivas ou recreativas, legalmente constituídas e sem fins lucrativos, pelas atividades que se destinem, diretamente, à realização dos seus fins, a fundações, legalmente constituídas, sem fins lucrativos, pelas atividades que se destinem, diretamente, à realização dos seus fins, a instituições particulares de solidariedade social, legalmente constituídas, sem fins lucrativos, pelas atividades que se destinem, diretamente, à realização dos seus fins estatutários e a cooperativas, suas uniões, federações e confederações desde que constituídas, registadas e funcionando nos termos da legislação cooperativa, sem fins lucrativos, relativamente às atividades que se destinem à realização dos seus fins estatutários;
+
+b) A comissões especiais previstas no Código Civil e a entidades sem fins lucrativos que desenvolvam uma atividade de interesse municipal de natureza social, cultural, desportiva ou recreativa;
+
+c) A entidades que desenvolvam uma atividade em parceria com o Município;
+
+d) A pessoas com insuficiência económica;
+
+e) A pessoas singulares portadoras de grau de deficiência igual ou superior a 50 %.
+
+3 - Podem ser reduzidos do pagamento do valor das taxas relativas aos atos e operações previstas no regime jurídico de urbanização e edificação, até 50 %:
+
+a) Os promotores que revistam ou prossigam relevante interesse público, designadamente:
+
+i) As destinadas a indústria transformadoras;
+
+ii) As destinadas a atividades empresariais relevantes, concretamente, na área de investigação e desenvolvimento;
+
+iii) As empresas ou empresários em nome individual que criem no mínimo 5 (cinco) postos de trabalho;
+
+b) As pessoas coletivas de direito público ou de utilidade pública, os partidos políticos e os sindicatos.
+
+4 - Podem ser reduzidos do pagamento do valor das taxas relativas aos atos e operações previstas no regime jurídico de urbanização, até 90 %:
+
+a) As pessoas singulares, cujo agregado familiar tenha um rendimento líquido per capita não superior a uma vez a retribuição mínimas mensal garantida, desde que, cumulativamente, se verifiquem os seguintes requisitos:
+
+i) As obras se destinem a habitação própria permanente do agregado familiar;
+
+ii) Não ser proprietário de outros prédios para habitação no Município de Tábua;
+
+iii) Não ter beneficiado anteriormente de qualquer isenção ou redução da mesma natureza.
+
+b) As pessoas singulares portadoras de deficiência, para a realização de obras que visem exclusivamente a redução ou eliminação de barreiras arquitetónicas ou a adaptação de imóveis às suas limitações funcionais;
+
+c) As associações religiosas, culturais, desportivas, profissionais ou recreativas, instituições particulares de solidariedade municipal e cooperativas, legalmente constituídas, no âmbito de atos ou atividades que se destinam, de forma direta e imediata, à prossecução dos seus fins.
+
+5 - Poderão, ainda, ser concedidas isenções ou reduções do pagamento dos tributos previstos no presente Regulamento no âmbito de contratos celebrados pelo Município com pessoas de direito público ou de direito privado, na prossecução do interesse público municipal, devendo a fundamentação da isenção ou redução constar do texto do contrato.
+
+6 - As isenções ou reduções previstas nos números anteriores serão concedidas por deliberação da Câmara Municipal, podendo esta competência ser delegada no Presidente da Câmara Municipal, mediante requerimento dos interessados e apresentação de prova da qualidade em que requerem e dos requisitos exigidos para a respetiva concessão.
+
+7 - A isenção ou redução prevista na alínea d) do n.º 2 e na alínea a) do n.º 4 deverá ser antecedida por inquérito socioeconómico ou informação do Gabinete da Ação Social do Município de Tábua.
+
+8 - As isenções ou reduções previstas no presente artigo não afastam a necessidade de serem requeridas as licenças ou autorizações necessárias, nos termos legais, nem dispensam o prévio licenciamento municipal a que houver lugar.
+
+9 - A fundamentação das isenções ou reduções previstas no presente artigo visam, desde logo, a garantia da prossecução do interesse público, na medida em que o pressuposto da isenção é não só a pessoa que o requer (a sua qualidade), mas essencialmente o ato ou atividade cujo licenciamento ou autorização se pretende, devendo este, por alguma forma, contribuir para o interesse público que compete ao Município prosseguir ou assegurar a sua prossecução por terceiros. No caso das isenções por insuficiência económica, vale aqui o princípio da discriminação positiva, pretendendo-se garantir que a falta de recursos económicos não seja um entrave ao acesso, pelos munícipes mais carenciados, à atividade administrativa.
+
+### CAPÍTULO IV — Do pagamento e do seu não cumprimento
+
+#### SECÇÃO I — Do Pagamento
+
+###### Artigo 11.º — Pagamento
+
+1 - Salvo os casos expressamente permitidos, não pode ser praticado nenhum ato ou facto sem o prévio pagamento das taxas ou outras receitas municipais, previstas na Tabela de Taxas e Outras Receitas municipais.
+
+2 - A prática ou utilização de ato ou facto sem o prévio pagamento, constitui facto ilícito sujeito a tributação, sem prejuízo da responsabilidade contraordenacional a que haja lugar.
+
+3 - As taxas e outras receitas municipais devem ser pagas no próprio dia da emissão da guia de recebimento, na Tesouraria da Câmara Municipal, exceto nos casos em que seja efetuada por transferência bancária.
+
+4 - As taxas e outras receitas municipais podem ser pagas noutros serviços municipais.
+
+###### Artigo 12.º — Prazo de Pagamento
+
+1 - Salvo disposição em contrário, o prazo para pagamento voluntário das taxas e outras receitas municipais é de 30 dias, a contar da notificação para pagamento efetuada pelos serviços competentes.
+
+2 - Nos casos em que o ato ou facto já tenha sido praticado ou utilizado sem o necessário licenciamento ou autorização municipal, bem como nos casos de revisão do ato de liquidação que implique uma liquidação adicional, o prazo para pagamento voluntário é de 15 dias, a contar da notificação para pagamento.
+
+3 - Os prazos para pagamento são contínuos, isto é, não se suspendem aos sábados, domingos e feriados.
+
+4 - O prazo que termine em sábado, domingo ou feriado, transfere-se para o primeiro dia útil imediatamente seguinte.
+
+###### Artigo 13.º — Pagamento em Prestações
+
+1 - Mediante requerimento fundamentado, poderá o Presidente da Câmara Municipal ou o Vereador com poderes delegados autorizar o pagamento em prestações mensais, desde que o valor da taxa seja superior a 200,00(euro).
+
+2 - Salvo disposição legal em contrário, o número de prestações não poderá ser superior a quatro.
+
+3 - Serão devidos juros em relação às prestações em dívida, nos termos da lei Geral Tributária, os quais serão liquidados e pagos em cada prestação.
+
+4 - Com o deferimento do pedido de pagamento em prestações e dependendo do valor em causa e da natureza do ato administrativo a que a taxa respeita, poderá ser exigida garantia, pelas formas legais admissíveis, até integral pagamento do tributo.
+
+5 - O não pagamento de uma prestação implica o vencimento das restantes.
+
+#### SECÇÃO II — Do não pagamento
+
+###### Artigo 14.º — Extinção do Procedimento
+
+Sem prejuízo do disposto no número seguinte, o não pagamento das taxas e outras receitas municipais no prazo estabelecido para o efeito, implica a extinção do procedimento.
+
+###### Artigo 15.º — Cobrança Coerciva
+
+1 - Findo o prazo de pagamento voluntário das taxas e outras receitas municipais liquidadas e que constituam débitos ao município, começam a vencer-se juros de mora à taxa legal em vigor.
+
+2 - Consideram-se em débito todas as taxas e outras receitas municipais, relativamente às quais o contribuinte usufruiu do facto, do serviço ou do benefício, sem o respetivo pagamento.
+
+3 - O não pagamento das taxas e outras receitas municipais referidas nos números anteriores implica a extração das respetivas certidões de dívida e o seu envio aos serviços competentes, para efeitos de execução fiscal.
+
+4 - Para além da cobrança coerciva em sede de execução fiscal, o não pagamento das taxas implica a não emissão e ou concessão de novas licenças ao sujeito passivo faltoso.
+
+### CAPÍTULO V
+
+#### SECÇÃO I
+
+Taxas pela realização, reforço e manutenção de infraestruturas urbanísticas
+
+###### Artigo 16.º — Âmbito de aplicação
+
+1 - A taxa pela realização, manutenção e reforço de infraestruturas urbanísticas (TMU) é devida nas operações de loteamento, nos edifícios geradores de impacte semelhante a loteamento, nas operações de impacte urbanístico relevante, nas demais obras de edificação, incluindo as suas utilizações, sempre que, pela sua natureza, impliquem um acréscimo de encargos públicos de realização, manutenção e reforço das infraestruturas.
+
+2 - Aquando da emissão do alvará, da admissão da comunicação prévia relativas a obras de edificação e suas utilizações não são devidas as taxas referidas no número anterior se as mesmas já tiverem sido pagas previamente aquando do licenciamento ou admissão de comunicação prévia da correspondente operação de loteamento e urbanização.
+
+3 - A taxa referida no n.º 1 é devida em todos os aditamentos ou alterações ao procedimento de licença, autorização ou admissão de comunicação prévia, sendo o cálculo efetuado apenas em função da alteração pretendida.
+
+4 - A taxa referida no n.º 1 varia proporcionalmente ao investimento municipal que a operação urbanística em causa implicou ou venha a implicar.
+
+5 - Nos procedimentos de controlo prévio que se traduzam na alteração de parâmetros urbanísticos, nomeadamente que envolvam ampliações e alterações, em que seja devida TMU, o valor devido resulta da diferença entre o valor calculado com a alteração pretendida e o valor que seria atualmente devido sem aquela alteração, sendo ambas as taxas calculadas de acordo com a mesma fórmula.
+
+6 - Para efeitos de aplicação de taxas previstas na presente subsecção e na seguinte, são consideradas as seguintes zonas geográficas do concelho:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/10/206000000/2697927018.pdf)
+
+###### Artigo 17.º — Determinação do valor da taxa
+
+A taxa pela realização, manutenção e reforço de infraestruturas urbanísticas é fixada para cada unidade territorial em função do custo das infraestruturas e equipamentos gerais a executar pela Câmara Municipal, dos usos e tipologias das edificações, tendo ainda em conta o plano plurianual de investimentos municipais, de acordo com as seguintes fórmulas:
+
+TMU = 0.5 x (Al + AC) x K1 x K2 x Programa Plurianual/AU
+
+em que:
+
+a) TMU - é o valor em euros, da taxa devida ao município pela realização, manutenção e reforço de infraestruturas urbanísticas;
+
+b) Al - área de implantação da construção em (em hectares) objeto da operação urbanística;
+
+c) AC - área total de construção (em hectares) a levar a efeito na operação urbanística em causa;
+
+d) K1 - coeficiente que traduz a influência da localização da operação urbanística nas diferentes áreas geográficas do concelho definidas no n.º 6 do artigo 16.º podendo tomar os seguintes valores:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/10/206000000/2697927018.pdf)
+
+e) K2 - coeficiente que traduz a influência da tipologia, uso e localização em áreas geográficas diferenciadas de acordo com o quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/10/206000000/2697927018.pdf)
+
+f) Programa plurianual - valor total do investimento previsto no plano de atividades para execução de infraestruturas gerais;
+
+g) AU - área total do concelho (em hectares), classificada como urbana e urbanizável de acordo com o PDM em vigor.
+
+###### Artigo 18.º — Taxa devida nas edificações não inseridas em loteamentos urbanos
+
+Na determinação da taxa pela realização, manutenção e reforço das infraestruturas urbanísticas nas edificações não inseridas em loteamentos urbanos, a fórmula a aplicar é a constante no artigo anterior.
+
+#### SECÇÃO II — Compensações
+
+###### Artigo 19.º
+
+1 - As operações de loteamento e as obras de edificação, quando respeitem a edifícios contíguos ou funcionalmente ligados entre si que gerem, em termos urbanísticos, impactes semelhantes a um loteamento, bem como as operações urbanísticas de impacte relevante, nos termos definidos no presente Capítulo, devem prever áreas destinadas a implantação de espaços verdes e de utilização coletiva, infraestruturas viárias e equipamentos.
+
+2 - O dimensionamento das áreas referidas no número anterior fica sujeito a aplicação dos parâmetros de dimensionamento constantes de PDM ou, em caso de omissão, os constantes na legislação em vigor aplicável.
+
+###### Artigo 20.º — Cedência
+
+1 - Os interessados na realização de operações de loteamento urbano cedem, gratuitamente, à Câmara Municipal, parcelas de terreno para espaços verdes públicos e equipamentos de utilização coletiva e as infraestruturas urbanísticas que, de acordo com a legislação em vigor e licença ou admissão de comunicação prévia de operação de loteamento, devam integrar o domínio público municipal, integração essa que se fará automaticamente com a emissão do alvará.
+
+2 - A integração no domínio público ou privado das parcelas de terreno e infraestruturas mencionadas no número anterior far-se-á automaticamente com a emissão do alvará e, no caso de operações urbanísticas sujeitas a comunicação prévia, através de instrumento a realizar pelo notário privativo da Câmara Municipal, até ao termo do prazo para a admissão ou rejeição da comunicação previa.
+
+3 - A produção de efeitos do documento notarial referido no número anterior fica sujeita a condição suspensiva de admissão da comunicação prévia.
+
+4 - O disposto no número anterior é ainda aplicável aos pedidos de licenciamento ou autorização de obras de edificação, nas situações referidas no artigo 57.º do RJUE.
+
+###### Artigo 21.º — Compensação
+
+1 - Se o prédio em causa já estiver dotado de todas as infraestruturas urbanísticas e ou não se justificar a localização de qualquer equipamento ou espaços verdes, não há lugar a cedências para esses fins, ficando, no entanto, o proprietário obrigado ao pagamento de uma compensação ao Município.
+
+2 - A compensação poderá ser paga em espécie, através da cedência de lotes, prédios urbanos, edificações ou prédios rústicos, nos termos do artigo 24.º do presente Capítulo.
+
+3 - A Câmara Municipal poderá optar pela compensação em numerário, nos termos do artigo 22.º e 23.º do presente Regulamento.
+
+###### Artigo 22.º — Cálculo do valor da compensação em numerário nos loteamentos
+
+O valor, em numerário, da compensação a pagar ao município será determinado de acordo com a seguinte fórmula:
+
+C = C1 + C2
+
+em que:
+
+C - é o valor em euros do montante total da compensação devida ao município;
+
+C1 - é o valor em euros da compensação devida ao município quando não se justifique a cedência, no todo ou em parte, de áreas destinadas a espaços verdes e de utilização coletiva ou à instalação de equipamentos públicos no local;
+
+C2 - é o valor em euros da compensação devida ao município quando o prédio já se encontre servido pelas infraestruturas referidas na alínea h) do artigo 2.º do RJUE.
+
+a) Cálculo do valor de C1 resulta da aplicação da seguinte fórmula:
+
+C1 = [K1 x K2 x A1 (m2) x V (euros/m2)] /10
+
+em que:
+
+K1 - é o fator variável em função da localização, consoante a zona geográfica do concelho definida no n.º 6 do artigo H-1/67.º do presente Capítulo, e tomará os seguintes valores:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/10/206000000/2697927018.pdf)
+
+K2 - é um fator variável em função do índice de construção (cos) previsto:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/10/206000000/2697927018.pdf)
+
+A1 - é o valor, em metros quadrados, da totalidade ou de parte das áreas que deveriam ser cedidas para espaços verdes e de utilização coletiva, bem como para instalação de equipamentos públicos, calculado de acordo com Portaria em vigor;
+
+V - é um valor em euros e aproximado, para efeitos de cálculo, ao custo corrente do metro quadrado na área do município, estabelecido pela comissão municipal de avaliação de terrenos e ou edificações.
+
+b) Cálculo do valor de C2, em euros - quando a operação de loteamento preveja a criação de lotes cujas construções a edificar criem servidões e acessibilidades diretas para arruamento(s) existente(s), devidamente pavimentado(s) e infraestruturado(s), será devida uma compensação a pagar ao município, que resulta da seguinte fórmula:
+
+C2 = [K3 x K4 x A2 (m2) x V (euros/m2)]
+
+Sendo C2 o cálculo em euros, em que:
+
+K3 = 0.10 x número de fogos e de outras unidades de ocupação previstas para o loteamento e cujas edificações criem servidões ou acessibilidades diretas para arruamento(s) existente(s) devidamente pavimentado(s) e infraestruturado(s) no todo ou em parte;
+
+K4 = 0.03 + 0.02 x número de infraestruturas existentes no(s) arruamento(s) acima referidos, de entre as seguintes:
+
+Rede pública de saneamento;
+
+Rede pública de águas pluviais;
+
+Rede pública de abastecimento de água;
+
+Rede pública de energia elétrica e de iluminação pública;
+
+Rede de telefones e ou de gás.
+
+A2 (m2) - é a superfície determinada pelo comprimento das linhas de confrontação dos arruamentos com o prédio a lotear multiplicado pelas suas distâncias ao eixo dessas vias;
+
+V - é um valor em euros, com o significado expresso alínea a) deste artigo.
+
+###### Artigo 23.º — Cálculo do valor da compensação em numerário nos edifícios contíguos e funcionalmente ligados entre si
+
+O preceituado no artigo anterior é também aplicável ao cálculo do valor da compensação em numerário nos edifícios contíguos e funcionalmente ligados entre si, com as necessárias adaptações.
+
+###### Artigo 24.º — Compensações em espécie
+
+1 - Feita a determinação do montante total da compensação a pagar, se a Câmara aceitar o pagamento em espécie, o promotor da operação urbanística deverá apresentar à Câmara Municipal toda a documentação comprovativa da posse do terreno a ceder nos seguintes termos:
+
+a) Requerimento dirigido ao Presidente da Câmara Municipal onde esclarece a sua proposta, indicando o valor do terreno;
+
+b) Plantas de localização do prédio;
+
+c) Levantamento topográfico do prédio atualizado;
+
+d) Certidão de registo predial atualizada.
+
+2 - O pedido referido no número anterior será objeto de análise e parecer técnico, que deverá incidir sobre os seguintes aspetos:
+
+a) Capacidade de utilização do terreno;
+
+b) Localização e existência de infraestruturas;
+
+c) A possível utilização do terreno pela autarquia.
+
+3 - Haverá lugar a avaliação de terrenos ou imóveis a ceder ao Município, sendo o seu valor obtido com recurso ao seguinte método:
+
+a) A avaliação será efetuada por uma comissão composta por três elementos, sendo dois nomeados pela Câmara Municipal e o terceiro pelo promotor da operação urbanística;
+
+b) As decisões da comissão serão tomadas por maioria absoluta dos votos dos seus elementos.
+
+4 - Quando se verificarem diferenças entre o valor calculado para a compensação devida em numerário e o valor dessa compensação a entregar em espécie, as mesmas serão liquidadas da seguinte forma:
+
+a) Se o diferencial for favorável ao município, será o mesmo pago em numerário pelo promotor da operação urbanística;
+
+b) Se o diferencial for favorável ao promotor ser-lhe-á o mesmo entregue pelo município.
+
+5 - Se o valor proposto no relatório final da comissão referida no n.º 1 deste artigo não for aceite pela Câmara Municipal ou pelo promotor da operação urbanística, recorrer-se-á a uma comissão arbitral, que será constituída nos termos do artigo 118.º do RJUE.
+
+6 - As despesas efetuadas com o pagamento dos honorários dos avaliadores, serão assumidas pelo requerente.
+
+7 - O preceituado nos números anteriores e também aplicável as operações urbanísticas consideradas de impacte relevante e edifícios contíguos e funcionalmente ligados entre si que geram, em termos urbanísticos, impactes semelhantes a um loteamento, nos termos do n.º 5 do artigo 57.º do RJUE.
+
+### CAPÍTULO VI — Contraordenações
+
+###### Artigo 25.º — Contraordenações
+
+1 - Constituem contraordenações:
+
+a) A prática ou utilização de ato ou facto sem o prévio pagamento das taxas e outras receitas municipais, salvo nos casos expressamente permitidos;
+
+b) A inexatidão ou falsidade dos elementos fornecidos pelos interessados para liquidação das taxas e outras receitas municipais;
+
+2 - As contraordenações previstas no número anterior são puníveis com coima a graduar entre (euro) (euro)150 (cento e cinquenta euros) e (euro) (euro)2500 (dois mil e quinhentos euros).
+
+3 - Os factos previstos na alínea a) do n.º 1, apenas dão lugar à instauração de procedimento contraordenacional por violação do presente Regulamento, nos casos em que a sua prática não constitua contraordenação punida por outro regulamento municipal ou por lei.
+
+### CAPÍTULO VII — Disposições finais
+
+###### Artigo 26.º — Formalidades dos Requerimentos
+
+1 - Os requerimentos dirigidos à Câmara Municipal deverão fazer-se, em regra, nos modelos normalizados e em uso nos serviços.
+
+2 - Os requerimentos devem ser apresentados com a antecedência de cinco dias úteis relativamente ao licenciamento pretendido, sob pena de poderem ser liminarmente indeferidos, salvo a exceções previstas nos regulamentos municipais em vigor ou na lei.
+
+3 - Poderão, no entanto, salvo deliberação da Câmara Municipal ou norma regulamentar em contrário, ser efetuados verbalmente, os pedidos de licenças com caráter periódico e regular com o pagamento das correspondentes taxas, desde que não ocorram elementos novos suscetíveis de alterar os termos e ou as condições da licença, seguindo-se na formulação do pedido os termos do artigo 75.º do CPA.
+
+###### Artigo 27.º — Restituição de Documentos
+
+1 - Sempre que possível, a comprovação de declarações ou de factos far-se-á pela simples exibição de documentos, os quais, após anotação ou confirmação dos dados deles constantes, nos termos do artigo 32.º do [Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de abril, com as alterações introduzidas pelo [Decreto-Lei n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de março, serão restituídos aos interessados ou aos seus representantes, preferencialmente no ato de apresentação ou por remessa postal, se a primeira solução não for viável.
+
+2 - Nos casos em que a análise dos processos torne indispensável a permanência temporária de documentos probatórios, poderão estes, depois de decorridos os prazos de recurso contencioso a eles inerentes, ser devolvidos, mediante solicitação, ainda que verbal e contra recibo do interessado.
+
+3 - Só serão retidos os documentos que permanentemente sejam necessários nos processos, sendo prestada esta informação por escrito sempre que solicitada.
+
+###### Artigo 28.º — Atualização
+
+1 - As taxas e outras receitas municipais previstas na Tabela poderão ser atualizadas ordinária e anualmente, no âmbito da preparação do Orçamento para o ano seguinte, tendo em conta a evolução do índice de preços do consumidor publicado pelo Instituto Nacional de Estatística, as necessárias adaptações à evolução dos custos de mercado, aos encargos que incidam sobre os serviços prestados, às correspondentes despesas administrativas e outros fatores que eventualmente sejam de ponderar.
+
+2 - Excetuam-se do disposto no número anterior, as taxas e outras receitas municipais previstas na Tabela que resultem de quantitativos fixados por disposição legal, os quais serão atualizados de acordo com os coeficientes legalmente estabelecidos para as receitas do Estado.
+
+3 - Os valores da atualização efetuada nos termos do n.º 1 serão sujeitos às regras legais de arredondamento.
+
+4 - Independentemente da atualização ordinária referida, poderá a Câmara Municipal, sempre que o achar justificável, propor à Assembleia Municipal a atualização extraordinária e ou alteração total ou parcial da Tabela em vigor.
+
+###### Artigo 29.º — Integração de Lacunas
+
+Aos casos não previstos no presente Regulamento aplicar-se-ão as normas do Código de Procedimento e de Processo Tributário, com as necessárias adaptações da lei Geral Tributária, e, na falta delas, os princípios gerais de direito.
+
+###### Artigo 30.º — Normas Revogadas
+
+1 - Ficam revogadas todas as disposições regulamentares que entrem em contradição com o presente Regulamento.
+
+2 - Fica revogada a parte H do Código Regulamentar do Município de Tábua e respetivos anexos, exceto os quadros v, vi, vii e viii do Anexo III.
+
+###### Artigo 31.º — Entrada em Vigor
+
+O presente Regulamento e Tabelas anexas entram em vigor no dia seguinte à sua publicação.
+
+## ANEXO I — Tabela de taxas pela concessão de licenças e prestação de serviços
+
+QUADRO I
+
+Prestação de serviços ao público
+
+(Ver documento original)
+
+QUADRO II
+
+Publicidade comercial
+
+(Ver documento original)
+
+QUADRO III
+
+Cemitérios
+
+(Ver documento original)
+
+QUADRO IV
+
+Mercados
+
+(Ver documento original)
+
+QUADRO V
+
+Atividades diversas
+
+(Ver documento original)
+
+QUADRO VI
+
+Ruído
+
+(Ver documento original)
+
+QUADRO VII
+
+Transporte de aluguer em veículos ligeiros de passageiros (táxis)
+
+(Ver documento original)
+
+QUADRO VIII
+
+Comércio de carnes
+
+(Ver documento original)
+
+QUADRO IX
+
+Higiene e segurança alimentar
+
+(Ver documento original)
+
+QUADRO X
+
+Diversos
+
+(Ver documento original)
+
+QUADRO XI
+
+Procedimentos de informação prévia
+
+(Ver documento original)
+
+QUADRO XII
+
+Taxa devida pela licença ou admissão de comunicação prévia de loteamento com obras de urbanização
+
+(Ver documento original)
+
+QUADRO XIII
+
+Taxa devida pela licença ou admissão de comunicação prévia de loteamento
+
+(Ver documento original)
+
+QUADRO XIV
+
+Taxa devida pela licença ou admissão de comunicação prévia de obras de urbanização
+
+(Ver documento original)
+
+QUADRO XV
+
+Taxa devida pela licença ou admissão de comunicação prévia de trabalhos de remodelação de terrenos
+
+(Ver documento original)
+
+QUADRO XVI
+
+Taxa devida pela licença ou admissão de comunicação prévia de obras de edificação
+
+(Ver documento original)
+
+QUADRO XVII
+
+Outras obras
+
+(Ver documento original)
+
+QUADRO XVIII
+
+Licença especial ou admissão de comunicação prévia relativa a obras inacabadas
+
+(Ver documento original)
+
+QUADRO XIX
+
+Licença parcial
+
+(Ver documento original)
+
+QUADRO XX
+
+Concessão de alvarás de licença ou autorização de utilização e alteração da utilização
+
+(Ver documento original)
+
+QUADRO XXI
+
+Alteração do coberto vegetal e relevo natural do solo
+
+(Ver documento original)
+
+QUADRO XXII
+
+Exploração de recursos geológicos
+
+(Ver documento original)
+
+QUADRO XXIII
+
+Infraestruturas de suporte das estações de radiocomunicações e respetivos acessórios
+
+(Ver documento original)
+
+QUADRO XXIV
+
+Inspeção de ascensores, monta-cargas, escadas mecânicas e tapetes rolantes
+
+(Ver documento original)
+
+QUADRO XXV
+
+Ocupação do domínio público municipal por motivo de obras
+
+(Ver documento original)
+
+QUADRO XXVI
+
+Vistorias
+
+(Ver documento original)
+
+QUADRO XXVII
+
+Destaque de parcela e propriedade horizontal
+
+(Ver documento original)
+
+QUADRO XXVIII
+
+Pedidos e serviços administrativos diversos prestados no âmbito de qualquer operação urbanística e outros serviços prestados ao público
+
+(Ver documento original)
+
+QUADRO XXIX
+
+Biblioteca João Brandão
+
+(Ver documento original)
+
+QUADRO XXX
+
+Espaço internet
+
+(Ver documento original)
+
+QUADRO XXXI
+
+Piscinas municipais
+
+(Ver documento original)
+
+QUADRO XXXII
+
+Serviços comuns
+
+(Ver documento original)
+
+QUADRO XXXIII
+
+Horário de funcionamento
+
+(Ver documento original)
+
+QUADRO XXXIV
+
+Exercício da atividade de exploração de máquinas de diversão
+
+(Ver documento original)
+
+QUADRO XXXV
+
+Instalação e modificação de estabelecimentos comerciais
+
+(Ver documento original)
+
+QUADRO XXXVI
+
+Exercício da atividade de comércio a retalho e por grosso não sedentária
+
+(Ver documento original)
+
+QUADRO XXXVII
+
+Prestação de serviços de restauração ou de bebidas com caráter não sedentário
+
+(Ver documento original)
+
+QUADRO XXXVIII
+
+Abertura ao público e início de funcionamento das instalações desportivas
+
+(Ver documento original)
+
+QUADRO XXXIX
+
+Comissões arbitrais municipais
+
+(Ver documento original)
+
+QUADRO XXXX
+
+Atividades diversas
+
+(Ver documento original)
+
+QUADRO XXXXI
+
+Condução e trânsito de veículos
+
+(Ver documento original)
+
+QUADRO XXXXII
+
+Bloqueamento, remoção e depósito de veículos
+
+(Ver documento original)
+
+QUADRO XXXXIII
+
+Edificação e urbanização (licenciamento zero)
+
+(Ver documento original)
+
+QUADRO XXXXIV
+
+Sistema de indústria responsável
+
+(Ver documento original)
+
+QUADRO XXXXV
+
+Licenciamento de instalações de armazenamento de produtos de petróleo, postos de abastecimento de combustíveis não localizados nas redes viárias regional e nacional e autorização para a execução e entrada em funcionamento das redes de distribuição, objeto do [Decreto-Lei n.º 125/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1997-400399), de 23 de maio, quando associadas a reservatórios de GPL com capacidade global inferior a 50 m3.
+
+(Ver documento original)
+
+QUADRO XXXXVI
+
+Taxa fixa pela apreciação e emissão de licença de pedidos de licenciamento de mensagens publicitárias de natureza comercial
+
+(Ver documento original)
+
+QUADRO XXXXVII
+
+Ocupação do espaço público - componente fixa
+
+(Ver documento original)
+
+QUADRO XXXXVIII
+
+Ocupação do espaço público - componente variável (acresce à taxa prevista no quadro anterior consoante se trate, respetivamente, de regime geral de ocupação do espaço público, comunicação prévia com prazo ou mera comunicação prévia).
+
+(Ver documento original)
+
+## ANEXO II — Relatório de Fundamentação Económica e Financeira
+
+31 de julho de 2014
+
+Regulamento Municipal de Taxas e Outras Receitas
+
+A. Nota justificativa
+
+O Regime Geral das Taxas das Autarquias Locais (RGTAL) foi aprovado pela [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro e entrou em vigor a 1 de janeiro de 2007.
+
+As taxas cobradas pelo Município inserem-se no âmbito do seu poder tributário e a sua criação, mediante regulamento aprovado pelo Órgão Deliberativo, está subordinada aos princípios da equivalência jurídica, da justa repartição dos encargos públicos e da publicidade e incide sobre utilidades prestadas aos particulares, geradas pelas atividades das Autarquias ou resultantes da realização de investimentos municipais, designadamente:
+
+Realização, manutenção e reforço de infraestruturas urbanísticas primárias e secundárias;
+
+Concessão de licenças, prática de atos administrativos e satisfação administrativa de outras pretensões de caráter particular;
+
+Utilização e aproveitamento de bens do domínio público e privado municipal;
+
+Gestão de tráfego e de áreas de estacionamento;
+
+Gestão de equipamentos públicos de utilização coletiva;
+
+Prestação de serviços no domínio da prevenção de riscos e da proteção civil;
+
+Atividades de promoção de finalidades sociais e de qualificação urbanística, territorial e ambiental;
+
+Atividades de promoção do desenvolvimento e competitividade local e regional;
+
+Atividades de promoção do desenvolvimento local.
+
+As taxas são tributos que têm um caráter bilateral, sendo a contrapartida (artigo 3.º do RGTAL) da:
+
+a) Prestação concreta de um serviço público local;
+
+b) Utilização privada de bens do domínio público e privado da Autarquia; ou
+
+c) Remoção dos limites jurídicos à atividade dos particulares.
+
+O elemento distintivo entre taxa e imposto é a existência ou não de sinalagma.
+
+O RGTAL reforça a necessidade da verificação deste sinalagma, determinando expressamente que na fixação do valor das taxas os Municípios devem respeitar o princípio da equivalência jurídica, segundo o qual "o valor das taxas das autarquias locais é fixado de acordo com o princípio da proporcionalidade e não deve ultrapassar o custo da atividade pública local (CAPL) ou o benefício auferido pelo particular" (BAP) conforme alude o artigo 4.º Mais refere que o valor das taxas, respeitando a necessária proporcionalidade, pode ser fixado com base em critérios de desincentivo à prática de certos atos ou operações. A proporcionalidade imposta, quando seja utilizado um critério de desincentivo, revela-se como um princípio da proibição de excesso, impondo um razoável controlo da relação de adequação da medida com o fim a que se destina.
+
+Esquematicamente:
+
+(Ver documento original)
+
+Entendem-se externalidades como as atividades que envolvem a imposição involuntária de efeitos positivos ou negativos sobre terceiros sem que estes tenham oportunidade de os impedir.
+
+Quando os efeitos provocados pelas atividades são positivos, estas são designadas por externalidades positivas. Quando os efeitos são negativos, designam-se por externalidades negativas.
+
+As externalidades envolvem uma imposição involuntária.
+
+Dispõe a alínea c) do n.º 2 do artigo 8.º do RGTAL que o regulamento que crie taxas municipais contém obrigatoriamente, sob pena de nulidade, a fundamentação económico-financeira relativa ao valor das taxas.
+
+O princípio da equivalência jurídica, em concreto a equivalência económica pode, pois, ser concretizado conforme se referiu pela via do custo, adequando as taxas aos custos subjacentes às prestações que as autarquias levam a cabo, fixando-as num montante igual ou inferior a esse valor, ou pela via do benefício, adequando-as ao valor de mercado que essas prestações revestem, quando essa comparação seja possível. Quando esta comparação com atividades semelhantes prosseguidas por terceiros não é possível por estarmos perante prestações exercidas no âmbito do poder de autoridade sem similitude no mercado o indexante deverá ser, em regra, o CAPL.
+
+(Ver documento original)
+
+O CAPL está presente na formulação do indexante de todas as taxas, mesmo naquelas que são fixadas, maioritariamente, em função do BAP ou numa perspetiva de desincentivo visando a modulação e regulação de comportamentos.
+
+O valor fixado de cada taxa poderá ser o resultado da seguinte função:
+
+(Ver documento original)
+
+Assim, cumpre sistematizar para todas as taxas o custo da atividade pública local (CAPL) compreendendo os custos diretos e indiretos, os encargos financeiros, amortizações e futuros investimentos a realizar pelo Município. O CAPL consubstancia, em regra, a componente fixa da contrapartida, correspondendo a componente variável à fixação adicional de coeficientes e valores concernentes à perspetiva do BAP ou desincentivo.
+
+Na delimitação do CAPL foram arrolados os custos diretos. Em conformidade com o supra aludido foi conduzido um exaustivo arrolamento dos fatores "produtivos" que concorrem direta e indiretamente para a formulação de prestações tributáveis no sentido de apurar o CAPL.
+
+Entenderam-se como fatores «produtivos» a mão de obra direta, o mobiliário e hardware e outros custos diretos necessários à execução de prestações tributáveis.
+
+Os custos de liquidação e cobrança das taxas têm uma moldura fixa e são comuns a todas elas pelo que foi estimado um procedimento padrão para estas tarefas.
+
+Atendendo à natureza e etimologia das taxas fixadas são possíveis de estabelecer, em nosso entender, duas tipologias:
+
+Tipo I - Taxas administrativas, taxas decorrentes da prestação concreta de um serviço público local, ou atinentes à remoção de um obstáculo jurídico (ex. análises de pretensões de Munícipes e emissão das respetivas licenças);
+
+Tipo II - Taxas inerentes à utilização de equipamentos e infraestruturas do domínio público e privado Municipal, em que se verifica um aproveitamento especial e individualizado destes cuja tangibilidade económica seja possível.
+
+B. Enquadramento metodológico
+
+Passamos a descrever a fórmula de cálculo utilizada para cada uma das tipologias descritas.
+
+TIPO I - Taxas administrativas, Taxas decorrentes da prestação concreta de um serviço público local, ou atinentes à remoção de um obstáculo jurídico
+
+Para cada prestação tributável, foram mapeadas as várias atividades e tarefas e identificados os equipamentos (mobiliário e hardware) e a mão de obra necessária reduzindo a intervenção/utilização/consumo a minutos.
+
+O valor do Indexante CAPL é apurado, por taxa, através da aplicação da seguinte fórmula:
+
+CAPL(índice I) = (CMH(índice gp) x Mi(índice gp)) + (CKv x Km) + Cenx + Ccet + Clce + Cps + Cind
+
+O custo da atividade pública local das taxas do tipo i (CAPLi) corresponde ao somatório do custo da mão de obra necessária para concretizar as tarefas inerentes à satisfação da pretensão, do custo das deslocações, do custo do enxoval afeto a cada colaborador, do custo da consulta a entidades terceiras (quando a elas houver lugar), dos custos de liquidação, cobrança e expediente (quando aplicável), do custo com prestadores de serviços externos (quando a eles se recorra) e ainda com custos indiretos (rateados por cada taxa em função de chaves de repartição).
+
+Em que:
+
+A. CMHgp - É o custo médio do minuto/homem por grupo de pessoal calculado recorrendo à seguinte fórmula:
+
+CMHgp = (Remunerações e encargos (1)/Trabalho Anual em horas gp (2))/60
+
+(1) Resulta da soma das remunerações e dos encargos com estas por grupo de pessoal.
+
+(2) Resulta da seguinte fórmula 52 x (n-y), em que:
+
+. 52 é o número de semanas do ano;
+
+. n - N.º de horas de trabalho semanais (assumiram-se as 35 horas semanais como sendo o valor padrão);
+
+. y - N.º de horas de trabalho perdidas em média por semana (feriados, férias, % média de faltas por atestado médico - Foi tido em conta o absentismo médio por Grupo de Pessoal constante do Balanço Social do exercício de 2007).
+
+B. MCgp - São os minutos/homem "consumidos" nas tarefas e atividades que concorrem diretamente para a concretização de uma prestação tributável. No mapeamento dos fatores produtivos foi subsidiariamente assumido o disposto no n.º 2 do artigo 16.º da Lei das Finanças Locais, [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de janeiro, que determina que para efeito do apuramento dos custos de suporte à fixação dos preços, os mesmos "são medidos em situação de eficiência produtiva ..."O que significa que os fatores produtivos deverão ser mapeados numa perspetiva de otimização, ou seja, que os mesmos estão combinados da melhor forma possível sem dispêndios desnecessários
+
+C. CKV - É custo Km/Viatura calculado por recurso à seguinte fórmula:
+
+CKV = ((somatório)Custos (1 a 6))/Km médios percorridos por ano
+
+em que:
+
+(1) Amortização correspondente;
+
+(2) Custo associado aos pneus;
+
+(3) Despesas com combustível;
+
+(4) Manutenções e reparações ocorridas;
+
+(5) Custo do seguro;
+
+(6) Outros custos.
+
+Sempre que numa prestação tributável seja necessária a utilização de viaturas para a sua concretização, designadamente em sede de vistorias e demais deslocações, foi definido um percurso médio em Km e em Minutos e, bem assim, foi tipificada a composição da equipa ajustada por prestação tributável, visando criar uma justiça relativa para todos os Munícipes independente da localização da pretensão no espaço do Concelho.
+
+A. Ccet - É o custo inerente à consulta a entidades terceiras quando a elas houver lugar (ex. CCDR, EP,...). Este valor foi incorporado nas prestações tributáveis em que esta atividade é recorrente, padronizando-se um valor que corresponde à atividade administrativa necessária e ao custo de expediente;
+
+B. Cenx - Resulta da soma das amortizações anuais dos equipamentos e hardware, à disposição de cada colaborador e que fazem parte do enxoval de equipamentos, e dos artigos de economato de que este necessita para a prossecução das tarefas que lhe estão cometidas em sede de prestações tributáveis.
+
+C. CLCE - Corresponde aos custos de liquidação, cobrança e expediente comuns a todas as taxas;
+
+D. CPs - São os custos com prestadores de serviços externos (pessoas coletivas ou singulares) cuja intervenção concorre diretamente para a concretização de prestações tributáveis (ex. Taxa de inspeção a ascensores, em que a vistoria é, em regra, concretizada por entidade terceira subcontratada para o efeito);
+
+E. CInd - Corresponde aos custos indiretos rateados por cada taxa, designadamente:
+
+Custos de elaboração e revisão dos Instrumentos Municipais de Ordenamento e Planeamento do Território - assumindo-se uma vida útil de 10 anos;
+
+Custos anuais das licenças de software específico de suporte ao licenciamento;
+
+Custos anuais do atendimento (front-office) indiferenciado por domínio ou setor;
+
+Outros custos indiretos com particular relação com a prestação tributável.
+
+Consta do anexo A o detalhe, por taxa, da fundamentação económica e financeira em conformidade com a alínea c) do n.º 2, do artigo 8.º do Regime Geral das Taxas.
+
+C. Considerandos sobre os domínios e prestações tributáveis
+
+Tecemos, de seguida, alguns considerandos sobre os domínios com prestações tributáveis agora alterados e alguns dos pressupostos que estiveram na base conceptual de suporte à fundamentação das respetivas taxas.
+
+Tecemos, de seguida, alguns considerandos sobre os domínios com prestações tributáveis agora alterados e alguns dos pressupostos que estiveram na base conceptual de suporte à fundamentação das respetivas taxas.
+
+Prestações de serviços gerais - Certidões, fotocópias e outros documentos inerentes ao acesso à informação na posse do Município
+
+O acesso dos cidadãos aos documentos administrativos está consagrado no n.º 2 do artigo 268.º da Constituição da República Portuguesa cuja regulamentação está densificada na [Lei n.º 46/2007](https://diariodarepublica.pt/dr/detalhe/lei/46-2007-640919), de 24 de agosto, em concordância com os princípios da publicidade, da transparência, da igualdade, da justiça e da imparcialidade.
+
+Em conformidade com o artigo 3.º da [Lei n.º 46/2007](https://diariodarepublica.pt/dr/detalhe/lei/46-2007-640919), de 24 de agosto, considera-se documento administrativo qualquer suporte de informação sob forma escrita, visual, sonora, eletrónica ou outra forma material, na posse do Município.
+
+O acesso aos documentos administrativos exerce-se através dos seguintes meios, conforme opção do requerente:
+
+a) Consulta gratuita, efetuada nos serviços que os detêm;
+
+b) Reprodução por fotocópia ou por qualquer meio técnico, designadamente visual, sonoro ou eletrónico;
+
+c) Certidão.
+
+A reprodução prevista na alínea b) do parágrafo anterior faz -se num exemplar, sujeito a pagamento, pelo requerente, da taxa fixada, que deve corresponder à soma dos encargos proporcionais com a utilização de máquinas e ferramentas e dos custos dos materiais usados e do serviço prestado, sem que, porém, ultrapasse o valor médio praticado no mercado por serviço correspondente.
+
+Nesta conformidade, para as taxas desta natureza foi considerado o custo da contrapartida (CAPL) entendido como o custo dos materiais consumidos e da mão de obra utilizada e, quando aplicável foram tidos como referencial os valores praticados no mercado para prestações idênticas consubstanciando estes a demonstração do Benefício Auferido pelo Particular (BAP).
+
+Mera Comunicação Prévia
+
+A taxa prevista tem por contrapartida o custo da utilização da plataforma e a apreciação dos elementos instrutórios submetidos via Portal do Empreendedor relativos a Meras Comunicações Prévias e aplica-se sempre que seja utilizada este tipo de permissão administrativa (mera comunicação prévia) independentemente da natureza da pretensão.
+
+Comunicação Prévia com Prazo
+
+Como suporte à fundamentação do valor das taxas fixadas em contrapartida das permissões administrativas "Comunicação Prévia com Prazo" foi tido em conta, sobretudo, o custo da contrapartida administrativa, designadamente os custos inerentes à atividade de apreciação e decisão.
+
+Comunicação
+
+Não consubstanciando uma permissão administrativa a fundamentação do valor das taxas fixadas em contrapartida da comunicação suportou-se no custo da plataforma.
+
+Licenciamentos Diversos
+
+Compreende-se nesta epígrafe as prestações tributáveis concernentes a Condução de Veículos, Feiras, Recintos de espetáculos e Divertimentos Públicos, Exercício da Atividade de Transporte de Aluguer em Veículos Ligeiros de Passageiros (Táxis), Exploração de Máquinas Automáticas, Elétricas e Eletromecânicas de Diversão, Exercício das Atividades Transferidas para as Câmaras Municipais da Competência dos Governos Civis, Vistorias Sanitárias e Inspeções a Ascensores.
+
+Como suporte à fundamentação do valor das taxas fixadas em contrapartida dos atos e licenciamentos referidos foi tido em conta, sobretudo, o custo da contrapartida, designadamente os custos inerentes à atividade de apreciação e licenciamento. Nalguns casos, devidamente identificados no anexo, foi ainda fixado um coeficiente de desincentivo conducente a regular, mas não inibir, atividades que gerassem externalidades negativas.
+
+Foram introduzidas taxas que versam sobre atividades geradoras de benefícios económicos exclusivos para os seus operadores e que são geradores de externalidades negativas para o território e para as populações do Concelho de Castro Daire.
+
+Cemitérios e Serviços Conexos
+
+O [Decreto-Lei n.º 411/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1998-286106), de 30 de dezembro, com as alterações introduzidas pelos Decretos-[Lei n.º 5/2000](https://diariodarepublica.pt/dr/detalhe/lei/5-2000-275672), de 29 de janeiro e 138/2000, de 13 de julho estabelece o regime jurídico da remoção, transporte, inumação, exumação, trasladação e cremação de cadáveres, de cidadãos nacionais ou estrangeiros, bem como de alguns desses atos relativos a ossadas e cinzas e, ainda, da mudança de localização de um cemitério.
+
+As taxas resultantes da ocupação de sepulturas, jazigos e de serviços diversos prestados pelo Município nos domínios elencados foram fundamentadas tendo em conta ao custo da contrapartida.
+
+No que concerne à ocupação e concessão perpétua de espaços para sepulturas e jazigos considerou-se uma ocupação padrão de 7 anos (inumação em sepultura temporária) e 50 anos (concessão perpétua).
+
+Assim, no apuramento do custo da contrapartida de uma inumação em sepultura temporária, além do custo da atividade administrativa (receção do requerimento, registo, ...) e operativa (intervenção do Coveiro, designadamente abertura e fecho da vala) assumiu-se o custo da ocupação, 2 m2, durante 7 anos. No apuramento do custo de uma concessão perpétua assumiu-se uma ocupação padrão de 50 anos.
+
+Ocupação do solo, subsolo e espaço aéreo do domínio público e privado do Município
+
+Nos termos do artigo 1344.º, n.º 1, do Código Civil, "a propriedade dos imóveis abrange o espaço aéreo correspondente à superfície, bem como o subsolo, com tudo o que neles se contém e não esteja desintegrado do domínio por lei ou negócio jurídico". Entende-se que estes limites materiais do direito de propriedade se aplicam a bens de domínio público e privado.
+
+Quando o uso privativo do domínio público e privado do Município, incluindo o subsolo, é consentido a pessoas determinadas, com base num título jurídico individual, que do mesmo retira uma especial vantagem, impõe-se que a regra da gratuitidade da utilização comum do domínio público ceda perante a regra da onerosidade.
+
+O tributo exigido a propósito da ocupação e utilização do solo, subsolo e espaço aéreo tem contrapartida na disponibilidade dessa ocupação e utilização em benefício do requerente, para satisfação das suas necessidades individuais.
+
+Nesta conformidade, entende-se que esta utilização consubstancia a contraprestação específica correspetiva do pagamento da taxa e que se consubstancia na utilização individualizada (pois que excludente da utilização para outros fins) do domínio público para fins não apenas de interesse geral.
+
+Pretende-se, pois, para as taxas fixadas neste domínio além de demonstrar o custo da contrapartida (CAPL) inerente à apreciação e licenciamento, e incorporar um elemento regulador, mas não inibidor, na utilização individualizada dos bens de domínio público atendendo ao benefício auferido.
+
+Com a entrada em vigor do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, passam a coexistir três situações:
+
+A ocupação respeita as finalidades admissíveis no artigo 10.º daquele diploma e está em conformidade com a lei e regulamentos - Taxa de Mera Comunicação Prévia à qual acresce a taxa variável indexada ao volume/espaço e tempo de ocupação;
+
+A ocupação respeita as finalidades admissíveis no artigo 10.º daquele diploma e mas não está em conformidade com a lei e regulamentos - Taxa de Comunicação Prévia com Prazo à qual acresce a taxa variável indexada ao volume/espaço e tempo de ocupação;
+
+A ocupação não respeita as finalidades admissíveis no artigo 10.º daquele diploma ainda que esteja em conformidade com a lei e regulamentos - Taxa de Regime Geral de Ocupação do Espaço Público à qual acresce a taxa variável indexada ao volume/espaço e tempo de ocupação.
+
+Publicidade
+
+Considera-se publicidade, conforme define o Código da Publicidade aprovado pelo [Decreto-Lei n.º 330/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1990-565417), de 23 de outubro, qualquer forma de comunicação feita por entidades de natureza pública ou privada, no âmbito de uma atividade comercial, industrial, artesanal ou liberal, com o objetivo direto ou indireto de:
+
+a) Promover, com vista à sua comercialização ou alienação, quaisquer bens ou serviços;
+
+b) Promover ideias, princípios, iniciativas ou instituições.
+
+Conforme dispõe a [Lei n.º 97/88](https://diariodarepublica.pt/dr/detalhe/lei/97-1988-377083), de 17 de agosto as mensagens publicitárias devem preservar o equilíbrio urbano e ambiental.
+
+O licenciamento de mensagens publicitárias tem em vista salvaguardar a realização dos seguintes objetivos:
+
+a) Não provocar obstrução de perspetivas panorâmicas ou afetar a estética, o ambiente dos lugares ou da paisagem;
+
+b) Não prejudicar a beleza ou o enquadramento de monumentos nacionais, de edifícios de interesse público ou outros suscetíveis de serem classificados pelas entidades públicas;
+
+c) Não causar prejuízos a terceiros;
+
+d) Não afetar a segurança de pessoas ou de bens, nomeadamente, na circulação rodoviária ou ferroviária;
+
+e) Não apresentar disposições, formatos ou cores, que possam confundir-se com as da sinalização do tráfego;
+
+f) Não prejudicar a circulação dos peões, designadamente dos deficientes;
+
+g) Não prejudicar a iluminação pública;
+
+h) Não prejudicar a visibilidade de placas toponímicas e demais placas sinaléticas de interesse público.
+
+Assim, a fundamentação económica e financeira das taxas de publicidade teve em conta, por um lado, o custo da contrapartida, designadamente o custo da atividade de licenciamento e por outro, introduzir mecanismos reguladores, designadamente de desincentivo a mensagens e ações publicitárias tendentes a afetar a preservação do equilíbrio urbano e ambiental, eliminando ou minimizando as que geram externalidades negativas.
+
+Desta forma, para a fundamentação das taxas de apreciação/licenciamento concorreram dois indexantes:
+
+a) O custo inerente aos intervenientes no procedimento de licenciamento incluindo, nos casos aplicáveis, uma deslocação ao local da pretensão; e
+
+b) Coeficiente de majoração/desincentivo nos casos em que as mensagens publicitárias gerassem externalidades negativas penalizando, desta forma, determinadas localizações, dimensões, formatos e cores.
+
+Na renovação foram, uma vez mais, tidos em conta aqueles indexantes.
+
+Urbanização, edificação e Serviços e Licenciamentos Conexos
+
+As taxas atinentes a operações urbanísticas dividem-se em três grandes domínios:
+
+Taxas que tributam a apreciação e licenciamento de operações urbanísticas concernentes à remoção de um obstáculo jurídico, cuja fundamentação e fixação do valor do tributo assentou, sobretudo, no custo da contrapartida;
+
+Taxa pela realização, manutenção e reforço de infraestruturas urbanísticas;
+
+Taxa de compensação ao Município pela não cedência de parcelas para implantação de espaços verdes públicos e equipamentos de utilização coletiva e as infraestruturas que, de acordo com a lei e a licença ou comunicação prévia, devam integrar o domínio municipal.
+
+A fórmula de suporte ao valor das taxas referidas nos dois parágrafos anteriores e, bem assim, a nota explicativa sobre os seus componentes constam do Regulamento Municipal da Edificação e Urbanização, constando igualmente de anexo a este regulamento o mapa respetivo com a demonstração da fundamentação económica e financeira.
+
+## ANEXO I — Demonstração da fundamentação
+
+(indexante) por taxa
+
+Interpretação da tabela anexa: Sistematizamos de seguida uma breve apresentação sobre a estrutura da tabela anexa de forma a possibilitar a sua adequada leitura:
+
+(Ver documento original)
+
+## ANEXO III — (Ver documento original)
+
+208157221

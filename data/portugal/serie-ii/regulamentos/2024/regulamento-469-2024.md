@@ -1,0 +1,715 @@
+---
+schema_version: '1.0'
+id: pt:dre:862903154:por
+title: Regulamento n.º 469/2024
+short_title: null
+summary: Abertura do período de consulta pública do projeto de regulamento da União das Freguesias de Santo António dos Cavaleiros
+  e Frielas.
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- União das Freguesias de Santo António dos Cavaleiros e Frielas
+proposing_entity: null
+official_number: 469/2024
+official_date: null
+publication_date: '2024-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 81/2024, Série II de 2024-04-24
+  number: '81'
+  series: II
+  supplement: null
+  pages: 480 - 496
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/04/081000000/0048000496.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '862903154'
+  dre_path: /dr/detalhe/regulamento/469-2024-862903154
+  internal: pt:dre:862903154:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/469-2024-862903154
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/469-2024-862903154
+  consolidated_url: null
+  retrieved_at: '2026-11-13T07:57:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d98eee72626d7a1d63401bcd02bccf111ae775a6f51b941068e43a57ef9a7a54
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T07:57:54Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+article_structure:
+  article_count: 45
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T07:57:54Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 469/2024
+
+Em conformidade com o disposto nas alíneas d) e f) do n.º 1 do artigo 9.º, conjugada com a alínea h) do n.º 1 do artigo 16.º do Regime Jurídico das Autarquias Locais, aprovado em anexo à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, e tendo em vista o estabelecido no Regime financeiro das autarquias locais e no Regime Geral das Taxas das Autarquias Locais ([Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492) de 29 dezembro), é elaborado o Regulamento e Tabela de Taxas em vigor na União das Freguesias.
+
+Foi deliberado pela Junta de Freguesia, submeter o projeto de Regulamento a consulta pública nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, tendo sido fixado o prazo de 30 (trinta) dias para recolha de sugestões.
+
+### CAPÍTULO I — DISPOSIÇÕES COMUNS
+
+###### Artigo 1.º — Lei Habilitante
+
+O presente Regulamento e a correspondente Tabela de Taxas e Preços da União das Freguesias de Santo António dos Cavaleiros e Frielas (UFSACF) são elaborados ao abrigo e de harmonia com o disposto no Artigo 241.º da Constituição da República Portuguesa, de acordo com Regime Financeiro das Autarquias Locais, aprovado pela [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro, bem como os Artigos 9.º, n.º 1, alínea f), 16.º, n.º 1, alínea h), ambos do Regime Jurídico das Autarquias Locais, aprovado em anexo pela [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro e tendo em consideração o Regime Geral das Taxas das Autarquias Locais, aprovado pela [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de Dezembro, da Lei Geral Tributária, aprovada pelo [Decreto-Lei n.º 398/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1998-191558), de 17 de Dezembro, do Novo Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468) de 7 de janeiro e o Regime Geral das Contraordenações aprovada pelo DL n.º 433/82, de 27 de Outubro, na redação conferida pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de dezembro.
+
+###### Artigo 2.º — Âmbito de Aplicação
+
+1 - O presente Regulamento estabelece o regime a que ficam sujeitos a incidência, liquidação, cobrança, e o pagamento de taxas e outras receitas na área da União das Freguesias, fazendo parte integrante do mesmo a Tabela de Taxas e Preços.
+
+2 - O presente Regulamento estabelece, igualmente, as formas de liquidação, cobrança e pagamento das taxas e preços da UFSACF, as isenções, reduções e agravamentos, bem como o regime das contraordenações.
+
+3 - O presente Regulamento estabelece, ainda, as regras gerais a que fica sujeita a fixação dos preços pela Junta de Freguesia de Santo António dos Cavaleiros e Frielas.
+
+###### Artigo 3.º — Legislação Subsidiária
+
+Em tudo quanto não estiver, expressamente, previsto neste regulamento são aplicáveis, designadamente:
+
+a) O Regime Geral das Taxas das Autarquias Locais;
+
+b) O Regime Financeiro das Autarquias Locais;
+
+c) A Lei Geral Tributária;
+
+d) O Regime Jurídico das Autarquias Locais;
+
+e) O Regime Geral das Contraordenações;
+
+f) O Código de Procedimento e de Processo Tributário;
+
+g) O Estatuto dos Tribunais Administrativos e Fiscais;
+
+h) O Código de Processo Administrativo nos Tribunais Administrativos;
+
+i) O Código do Procedimento Administrativo;
+
+j) O Código Civil e o Código de Processo Civil.
+
+### CAPÍTULO II — DISPOSIÇÕES GERAIS
+
+###### Artigo 4.º — Incidência Objetiva
+
+1 - O presente regulamento tem por objeto o regime de liquidação, de cobrança e de pagamento das taxas a cobrar pelos atos administrativos e atividades da Junta de Freguesia no que se refere à prestação concreta de um serviço público local, pela utilização privada de bens do domínio público e privado da Freguesia.
+
+2 - As taxas da Freguesia incidem sobre utilidades prestadas aos particulares ou geradas pela atividade da Freguesia, designadamente:
+
+a) Pela concessão de licenças, prática de atos administrativos e satisfação administrativa de outras pretensões de caráter particular;
+
+b) Pela utilização e aproveitamento do domínio público e privado das Freguesias;
+
+c) Pela gestão de equipamento rural e urbano;
+
+d) Pelas atividades de promoção do desenvolvimento local.
+
+###### Artigo 5.º — Incidência Subjetiva
+
+1 - O sujeito ativo da relação jurídico-tributária, geradora da obrigação do pagamento das taxas e outras receitas previstas no Regulamento, é a Junta de Freguesia.
+
+2 - O sujeito passivo da relação jurídica-tributária, geradora da obrigação do pagamento das taxas e outras receitas previstas no presente Regulamento, é a pessoa singular ou coletiva, o património ou a organização de facto ou de direito, nos termos da lei e dos regulamentos, e outras entidades legalmente equiparadas que estejam vinculadas ao cumprimento da prestação tributária.
+
+###### Artigo 6.º — Fundamentação Económica e Financeira
+
+O valor das taxas e dos preços foi fixado de acordo com o princípio da proporcionalidade, tendo em conta o custo da atividade dos serviços da Junta de Freguesia, designadamente os custos diretos e indiretos, os encargos financeiros, amortizações e futuros investimentos realizados ou a realizar, e o benefício auferido pelo particular, bem como, em casos específicos, de incentivo ou desincentivo à prática de certos atos e operações.
+
+###### Artigo 7.º — Princípios subjacentes
+
+O presente Regulamento consagra e salvaguarda na satisfação do interesse público e à descoberta da verdade material, os princípios da legalidade, da igualdade, da proporcionalidade, da justiça, da imparcialidade e da celeridade.
+
+### CAPÍTULO III — ISENÇÕES
+
+###### Artigo 8.º — Isenções e reduções gerais
+
+1 - Estão isentos do pagamento das taxas e preços previstos neste regulamento:
+
+a) As pessoas coletivas de utilidade pública administrativa;
+
+b) As instituições particulares de solidariedade social e entidades conexas, bem como as pessoas coletivas àquelas legalmente equiparadas, da Freguesia;
+
+c) As pessoas coletivas de mera utilidade pública da Freguesia que prossigam, exclusiva ou predominantemente, fins científicos ou culturais, de caridade, assistência, beneficência, solidariedade social ou defesa do meio ambiente que beneficiem de isenção do IRC nos termos do artigo 10.º do respetivo código;
+
+d) Outras entidades e pessoas públicas ou privadas a quem a lei ou outro instrumento legal confira tal isenção;
+
+e) Partidos Políticos;
+
+f) Antigos Combatentes.
+
+2 - A pedido dos interessados poderá a Junta de Freguesia isentar do pagamento das taxas e preços previstos no presente regulamento, total ou parcialmente:
+
+a) As associações e fundações sem fins lucrativos, legalmente constituídas, relativamente aos factos que visem a prossecução dos seus fins estatutários, designadamente no âmbito cultural, desportivo, recreativo, social ou profissional;
+
+b) As pessoas singulares em situação de grave carência económica, devidamente reconhecida;
+
+c) Outras pessoas singulares ou coletivas, relativamente a factos que visem o desenvolvimento de atividades de manifesto interesse coletivo, reconhecidos pela Freguesia de Santo António dos Cavaleiros e Frielas.
+
+3 - Sem prejuízo do disposto em disposição legal ou regulamentar aplicável à matéria, compete à Assembleia de Freguesia, por proposta da Junta de Freguesia, através de deliberação fundamentada, fixar outras isenções totais ou parciais relativamente às taxas e preços, e à Junta de Freguesia deliberar sobre as isenções em particular previstas no número anterior.
+
+4 - As taxas e preços previstos neste regulamento em causa podem ser objeto de redução ou isenções nos seguintes termos:
+
+a) Isenção Parcial - se o rendimento per capita do agregado familiar do requerente for igual ou inferior a um salário mínimo nacional e superior ao valor mínimo mais elevado da pensão de reforma do regime geral da segurança social, a taxa a aplicar será correspondente a 50 % do valor da taxa devida pelo atestado nos termos do artigo 5.º do presente regulamento;
+
+b) Isenção Total - se o rendimento per capita do agregado familiar do requerente for igual ou inferior ao valor mínimo mais elevado da pensão de reforma do regime geral da segurança social, será concedida isenção total do pagamento da taxa devida pelo atestado, cabendo apenas ao requerente o pagamento do impresso de requerimento.
+
+5 - Para determinar o rendimento per capita do agregado familiar do requerente será calculado um duodécimo do rendimento total anual do agregado familiar, procedendo-se à divisão deste duodécimo pelo número de elementos que compõem o agregado familiar do requerente.
+
+6 - Para a determinação do rendimento total anual a que se refere o artigo anterior, devem os serviços exigir a apresentação da última declaração do Imposto sobre o Rendimento das Pessoas Singulares ou, na falta deste, os dois últimos recibos de vencimento e/ou os comprovativos das pensões auferidas por todos os elementos do agregado familiar, devendo neste caso o rendimento total anual ser calculado na base da seguinte fórmula:
+
+Rendimento Mensal x 14 meses/12 meses
+
+7 - Caso o requerente declare não possuir qualquer dos documentos a que alude o número anterior, deverá, em sua substituição, apresentar declaração da Segurança Social em como não aufere qualquer subsídio e declaração das Finanças em como não possui bens nem rendimentos (devendo apresentar tantas declarações quantos os elementos do agregado familiar).
+
+###### Artigo 9.º — Procedimento
+
+1 - O pedido de isenção a que alude o n.º 2 do artigo anterior é formalizado por requerimento, contendo a identificação do interessado e o objeto do pedido, com referência à taxa ou preço, bem como as razões que o fundamentam.
+
+2 - A isenção referida no número anterior carece de parecer favorável dos serviços competentes da Freguesia, de onde constem todos os factos relevantes para a decisão a proferir pelo responsável do pelouro do Executivo da Freguesia, da área respetiva, por delegação de competência do Presidente.
+
+3 - O pedido de isenção mencionado na alínea c) do n.º 2 do artigo anterior deve ser instruído com os elementos necessários para avaliar o mérito do evento e o grau de relevância para o interesse da Freguesia.
+
+4 - Da decisão proferida em sede de reclamação, cabe recurso hierárquico nos termos do artigo 193.º e ss. do Código do Procedimento Administrativo.
+
+###### Artigo 10.º — Requerimento
+
+1 - Ressalvados os casos especialmente previstos em lei ou regulamento, e sem prejuízo de outros requisitos que em cada caso possam ser exigidos, a atribuição de autorizações ou licenças pela Freguesia, deverá ser precedida da apresentação de requerimento escrito, do qual devem constar os seguintes elementos:
+
+a) Identificação do requerente através da indicação dos seguintes dados:
+
+i) Nome completo ou designação;
+
+ii) Número do Bilhete de Identidade e de Identificação Fiscal ou do Cartão de Cidadão,
+
+ou Número Único de Pessoa Coletiva;
+
+iii) Morada ou sede;
+
+iv) Contacto telefónico e/ou eletrónico;
+
+v) Qualidade em que intervém.
+
+b) Indicação, em termos claros e precisos, do tipo de licenciamento/serviço pretendido, especificando a atividade que se pretende realizar ou o benefício que se pretende obter;
+
+c) Exposição dos factos em que se baseia o pedido e, quando tal seja possível ao requerente, os respetivos fundamentos de direito;
+
+d) Data e a assinatura do requerente ou de outrem a seu rogo.
+
+2 - Os requerimentos devem ser instruídos com os documentos exigidos por lei e os demais que sejam estritamente necessários à apreciação do pedido, designadamente os previstos nos números 6 e 7 do artigo 8.º
+
+3 - Para além dos documentos referidos no número anterior, pode ser ainda exigido ao requerente o fornecimento de elementos adicionais, quando sejam considerados indispensáveis à apreciação do pedido.
+
+4 - Para a instrução do procedimento é suficiente a simples fotocópia de documento autêntico ou autenticado, podendo ser exigida a exibição do original ou de documento autenticado para conferência, em prazo razoável, não inferior a cinco dias úteis, quando existam dúvidas fundadas acerca do seu conteúdo ou autenticidade.
+
+###### Artigo 11.º — Apresentação do requerimento
+
+1 - Os requerimentos devem ser dirigidos ao Presidente da Junta de Freguesia e podem ser enviados preferencialmente por correio eletrónico para o endereço geral@jf-sacf.pt, por correio registado para a morada da sede da Junta de Freguesia, sita na Alameda do Poder Local, 4, 2675-427 ou apresentados em mão na sede da Junta de Freguesia.
+
+2 - Os requerimentos devem ser apresentados em conformidade com o modelo da Junta de Freguesia de Santo António dos Cavaleiros e Frielas.
+
+### CAPÍTULO IV — TAXAS E PREÇOS
+
+###### Artigo 12.º — Taxas e preços
+
+A Junta de Freguesia cobra taxas pelos seguintes serviços prestados à população:
+
+a) Certidão de afixação de Editais relativos a pretensões que não sejam de interesse público;
+
+b) Serviços Administrativos:
+
+i) Emissão de atestados;
+
+ii) Declarações e certidões;
+
+iii) Termos de identidade e justificação administrativa;
+
+iv) Certificação de fotocópias, fotocópias simples e outros documentos;
+
+c) Licenciamento e registo de canídeos e gatídeos;
+
+d) Certificado de construção anterior a 1951;
+
+e) Licença de venda ambulante de lotarias;
+
+f) Licença de arrumador de automóveis;
+
+g) Licença de Atividade Ruidosa de caráter temporário que respeite a festas populares, romarias, feiras, arraiais e bailes;
+
+h) Cedência de instalações e outros equipamentos;
+
+i) Outros licenciamentos.
+
+###### Artigo 13.º — Serviços administrativos
+
+1 - As taxas de atestados, termos de justificação administrativa e certidões de afixação de editais constam do Anexo I e têm como base de cálculo o tempo médio de execução, o(s) recurso(s) humano(s), materiais e custos fixos e indiretos.
+
+2 - As taxas de certificação de fotocópias constam do Anexo I e têm por base o valor previsto no Regulamento Emolumentar dos Registos e Notariado.
+
+3 - Pela emissão de fotocópias simples será cobrada cada página fotocopiada, a preto e branco, tamanho A4, com o valor referido na tabela do Anexo I.
+
+###### Artigo 14.º — Licença de venda ambulante de lotarias
+
+A taxa do pedido de licença de venda ambulante de lotarias e a taxa de emissão do cartão de vendedor ambulante constam no Anexo I e têm como base de cálculo o tempo médio de execução dos mesmos (receção do pedido, cobrança da taxa inicial, análise legal e regulamentar, decisão, emissão e registo da licença, emissão de cartão e cobrança da taxa final) e o benefício auferido pelo particular.
+
+###### Artigo 15.º — Licença de arrumador de automóveis
+
+A taxa do pedido de licença de arrumador de automóveis e a taxa de emissão do cartão de arrumador de automóveis constam no Anexo I e têm como base de cálculo o tempo médio de execução dos mesmos (receção do pedido, cobrança da taxa inicial, análise legal e regulamentar, decisão, emissão e registo da licença, emissão de cartão e cobrança da taxa final) e o benefício auferido pelo particular.
+
+###### Artigo 16.º — Licença de atividade ruidosa de caráter temporário que respeite a festas populares, romarias, feiras, arraiais e bailes
+
+A taxa do pedido de licença para o exercício de atividades ruidosas temporárias e a taxa de licença para o exercício de atividades ruidosas temporárias que respeitem a festas populares, romarias, feiras, arraiais e bailes constam no Anexo I têm como base de cálculo o tempo médio de execução do mesmo (receção do pedido, cobrança da taxa inicial, análise legal e regulamentar, decisão, emissão e registo da licença e cobrança da taxa final), o benefício auferido pelo particular e a proteção do bem-estar da população relativamente à atividade ruidosa que irá ser produzida (critérios de desincentivo à produção de ruído).
+
+###### Artigo 17.º — Licenciamento e registo de canídeos e gatídeos
+
+1 - As taxas de licenças de canídeos e gatídeos constam do Anexo II e são indexadas à taxa N de profilaxia médica, não podendo exceder o triplo deste valor e variam consoante a categoria do animal.
+
+2 - A fórmula de cálculo é a seguinte:
+
+a) Licenças das Categorias A, B e I: 100 % da taxa N de profilaxia médica;
+
+b) Licenças da Categoria E: 150 % da taxa N de profilaxia médica;
+
+c) Licenças da Categoria G: 200 % da taxa N de profilaxia médica;
+
+d) Licenças da Categoria H: 300 % da taxa N de profilaxia médica.
+
+3 - Os cães classificados nas categorias C, D e F estão isentos de qualquer taxa.
+
+4 - O valor da taxa N de profilaxia médica é atualizado, anualmente, por Despacho Conjunto.
+
+###### Artigo 18.º — Cemitério
+
+1 - As taxas e emolumentos relativos a serviços prestados no cemitério encontram-se no Anexo III.
+
+2 - Todas as práticas, regras e procedimentos administrativos relativos ao Cemitério de Frielas encontram-se regulados no devido Regulamento em vigor.
+
+###### Artigo 19.º — Cedência de Instalações e de Equipamentos
+
+1 - Os valores pagos pela utilização do Pavilhão da Freguesia constam no Anexo IV e têm como base de cálculo os custos totais necessários para a manutenção do serviço e o valor hora de funcionário afeto ao mesmo.
+
+2 - Deve ser prestada caução, no montante de 1/3 do seu valor, como garantia do ressarcimento de possíveis danos à Freguesia, sendo a mesma devolvida no final.
+
+3 - Os valores pagos pela cedência de outras instalações e de equipamentos constam no Anexo VIII.
+
+4 - São da inteira responsabilidade do utilizador todos os danos que venham a ser causados, durante o seu período de utilização, sendo que o valor a cobrar será o correspondente aos custos de reposição.
+
+5 - Em todos os casos de cedência de instalações será concedida isenção do pagamento sempre que se verificar a utilização por parte de associações e de entidades privadas sem fins lucrativos sediadas na Freguesia, escolas da rede pública dos 1.º, 2.º e 3.º ciclos do ensino básico e outros estabelecimentos de ensino da rede pública.
+
+###### Artigo 20.º — Posto Médico
+
+1 - Os valores a praticar no Posto Médico constam no Anexo V.
+
+2 - Será concedida isenção do pagamento pela Junta de Freguesia conforme o artigo 8.º do presente Regulamento.
+
+###### Artigo 21.º — Lavandaria
+
+1 - Os valores a praticar na Lavandaria Social constam no Anexo VI.
+
+2 - Será concedida isenção do pagamento pela Junta de Freguesia conforme o artigo 8.º do presente Regulamento.
+
+###### Artigo 22.º — Academia do Conhecimento
+
+1 - Os valores a praticar na Lavandaria Social constam no Anexo VII.
+
+2 - Será concedida isenção do pagamento pela Junta de Freguesia conforme o artigo 8.º do presente Regulamento.
+
+###### Artigo 23.º — Outros licenciamentos
+
+As taxas para licenças de utilização de locais reservados a mercados e feiras, pelo licenciamento de utilização/ocupação da via pública, licenciamento da afixação de publicidade de natureza comercial, licenças da atividade de exploração de máquinas de diversão, licenças para colocação recintos improvisados, licenciamento de realização de acampamentos ocasionais, licenciamento de exploração de máquinas de diversão, licenciamento para a realização de espetáculos desportivos e de divertimentos nas vias públicas, jardins e outros lugares públicos ao ar livre, licenciamento de realização de fogueiras e de lançamento e queima de artigos pirotécnicos são fixadas pelo Município de Loures.
+
+###### Artigo 24.º — Iniciativas, Acordos e Protocolos
+
+1 - A Junta de Freguesia pode estabelecer a realização de iniciativas não contempladas no presente Regulamento, mediante definição do respetivo quadro normativo e de uma grelha padrão de apuramento dos respetivos custos e taxas ou preços a praticar, a aprovar pelo órgão Executivo e devidamente publicitadas.
+
+2 - Pode, ainda, a Junta de Freguesia praticar preços pela prestação de determinados serviços acordados em protocolos com entidades externas.
+
+###### Artigo 25.º — Aplicação de Outros Tributos
+
+As taxas, licenças e outras receitas sujeitas a Imposto de Selo e/ou Imposto de Valor Acrescentado (IVA) terão o valor destes impostos, à taxa legal concretamente aplicável, adicionados ao montante constante do presente regulamento e respetiva tabela de taxas.
+
+###### Artigo 26.º — Urgência
+
+Sempre que o interessado requeira urgência na emissão dos documentos, será devida uma sobretaxa de montante igual a 100 % (cem por cento) do valor da taxa aplicável no prazo de 24 horas.
+
+###### Artigo 27.º — Atualização de Valores
+
+1 - A Junta de Freguesia, sempre que entenda conveniente, poderá propor à Assembleia de Freguesia a atualização extraordinária ou alteração das taxas previstas neste regulamento, mediante fundamentação económico-financeira subjacente ao novo valor.
+
+2 - A Junta de Freguesia pode atualizar o valor das taxas e dos preços estabelecidas neste Regulamento.
+
+### CAPÍTULO V — LIQUIDAÇÃO, PAGAMENTO E COBRANÇA DE TAXAS
+
+###### Artigo 28.º — Liquidação
+
+1 - A liquidação é o ato tributário através do qual é fixado o montante a pagar por um certo freguês, sendo efetuada pelo serviço, a quem, na orgânica da Freguesia, tenha sido atribuída essa competência.
+
+2 - A liquidação das taxas e preços será efetuada com base nos indicadores das tabelas anexas, tendo em vista os elementos fornecidos pelos interessados ou pelo valor dos serviços prestados.
+
+3 - Na liquidação das taxas devidas pela emissão de licença ou autorização, se estas não corresponderem a um ano completo, levar-se-á em conta o número de meses destas.
+
+4 - Na liquidação das taxas devidas pela emissão de licença ou autorização, se estas não corresponderem a um mês, levar-se-á em conta o número de dias destas.
+
+###### Artigo 29.º — Notificação da Liquidação
+
+1 - As notificações das liquidações periódicas são efetuadas preferencialmente por endereço eletrónico ou por via postal simples.
+
+2 - As notificações são efetuadas obrigatoriamente por carta registada com aviso de receção, sempre que tenham por objeto atos ou decisões suscetíveis de alterarem a situação tributária dos fregueses ou a convocação destes para assistirem ou participarem em atos ou diligências.
+
+3 - As notificações não abrangidas pelos números anteriores são efetuadas por carta registada.
+
+4 - As notificações contêm a decisão, os seus fundamentos e meios de defesa e o prazo para reagir contra o ato notificado, a indicação da entidade que o praticou e se o fez no uso de delegação ou subdelegação de competências, bem como o prazo de pagamento voluntário se for o caso.
+
+###### Artigo 30.º — Reclamação Graciosa
+
+1 - Qualquer interessado pode reclamar da liquidação das taxas no prazo de 15 (quinze) dias a contar da notificação da liquidação, junto da Freguesia de Santo António dos Cavaleiros e Frielas.
+
+2 - A reclamação deverá ser decidida no prazo de 60 (sessenta) dias, notificando-se o interessado do teor da decisão e da respetiva fundamentação.
+
+3 - Os atos instrutórios são da competência do autor do ato reclamado da Freguesia de Santo António dos Cavaleiros e Frielas.
+
+4 - Da decisão proferida em sede de reclamação, cabe recurso hierárquico nos termos do artigo 193.º e ss. do Código do Procedimento Administrativo.
+
+###### Artigo 31.º — Revisão, Anulação e Restituição de Receitas
+
+1 - A revisão de atos tributários, a anulação de documentos de cobrança ou a restituição de importâncias pagas compete ao Executivo, mediante proposta prévia dos serviços da Freguesia, subscrita ou confirmada e devidamente fundamentada pelos responsáveis daqueles.
+
+2 - Se se verificar a existência de erros ou omissões, dos quais resultaram prejuízos para a Freguesia, na liquidação das taxas e outras receitas, os serviços promovem de imediato a liquidação adicional, notificando o sujeito passivo, por carta registada, com aviso de receção, para liquidar a importância devida no prazo de 15 (quinze) dias.
+
+3 - Da notificação devem constar os fundamentos da liquidação adicional, o montante, o prazo para pagar bem como a comunicação de que em caso de não pagamento tempestivo a Freguesia recorrerá à cobrança coerciva, por meio de processo de execução fiscal.
+
+4 - Em caso de liquidação e cobrança de quantia superior à devida em que não tenham decorrido 4 (quatro) anos sobre o pagamento, os serviços promovem a compensação, se for o caso, ou a restituição ao interessado, nos termos da lei, no prazo de 15 (quinze) dias contados da confirmação do erro, da importância indevidamente cobrada.
+
+5 - Em caso de indeferimento do pedido, não há lugar à restituição da taxa cobrada.
+
+6 - Em caso de desistência do pedido, há lugar à restituição da taxa paga, desde que a desistência ocorra até ao 3.º dia útil, inclusive, após a submissão do pedido do ato gerador da obrigação tributária, dependendo sempre de requerimento do interessado.
+
+###### Artigo 32.º — Pagamento e Cobrança
+
+1 - A relação jurídico-tributária extingue-se através do pagamento da taxa ou do preço.
+
+2 - A cobrança das taxas e dos preços pode ocorrer sob a modalidade de pagamento voluntário ou de cobrança coerciva.
+
+3 - Constitui pagamento voluntário o pagamento efetuado dentro do prazo estabelecido nas normas legais e regulamentares aplicáveis ao facto gerador da obrigação tributária.
+
+###### Artigo 33.º — Modo de Pagamento
+
+1 - O pagamento das taxas e dos preços é efetuado em numerário, por cheque emitido à ordem da Freguesia, transferência bancária ou por qualquer outro meio previsto na lei e executável pelos serviços.
+
+2 - Salvo disposição em contrário, o pagamento das taxas e dos preços será sempre efetuado antes ou no momento da prática de execução do ato ou serviços a que respeitem.
+
+3 - O pagamento das taxas e dos preços é feito contra a emissão da correspondente fatura pela Junta de Freguesia.
+
+4 - A pedido do interessado pode a Junta de Freguesia enviar os documentos mediante o pagamento dos portes de envio da correspondência.
+
+###### Artigo 34.º — Pagamento em Prestações
+
+1 - A requerimento do devedor, a Junta de Freguesia poderá autorizar o pagamento das taxas e dos preços em prestações periódicas, de preferência mensais, quando se reconheça que o requerente, pela sua situação económica, não pode solver a dívida integralmente através de um único pagamento.
+
+2 - A autorização do pagamento a prestações, quando concedida deve definir o número de prestações, a respetiva periodicidade e o valor de cada uma, sem que a mesma possa autorizar mais de 12 (doze) prestações e o valor de qualquer uma delas não possa ser inferior ao valor de ¼ da unidade de conta no momento da decisão de autorização.
+
+3 - No pedido, o requerente deve indicar a forma como se propõe efetuar o pagamento e os factos que fundamentam a proposta, fazendo-o instruir com todos os elementos suscetíveis de influenciarem a apreciação do seu mérito, para efeitos de instrução e fundamentação da decisão e fixação do escalonamento do pagamento a prestações.
+
+4 - Ao pagamento de cada uma das prestações fixadas na autorização a que alude o número anterior, poderá acrescer o valor referente ao respetivo juro de mora, que continuará a vencer-se até ao integral cumprimento de cada uma das prestações.
+
+5 - A falta de pagamento de qualquer das prestações no prazo fixado importa o vencimento imediato e automático das subsequentes prestações, extraindo-se de imediato certidão do título de cobrança relativa às prestações em falta.
+
+###### Artigo 35.º — Local de Pagamento
+
+As taxas e os preços são pagos na Sede e nas Delegações da Junta de Freguesia da União das Freguesias de Santo António dos Cavaleiros e Frielas.
+
+###### Artigo 36.º — Prescrição
+
+1 - As dívidas por taxas prescrevem no prazo de 8 (oito) anos a contar da data em que o facto tributário ocorreu.
+
+2 - A citação, a reclamação e a impugnação interrompem a prescrição.
+
+3 - Se a citação se não fizer dentro de 5 (cinco) dias depois de ter sido requerida por causa não imputável ao requerente, tem-se a prescrição por interrompida, logo que decorram os cinco dias.
+
+4 - A paragem dos processos de reclamação, impugnação e execução fiscal por prazo superior a um ano por facto não imputável ao sujeito passivo faz cessar a interrupção da prescrição, somando-se, neste caso, o tempo que decorreu após aquele período ao que tiver decorrido até à data da autuação.
+
+### CAPÍTULO VI — INCUMPRIMENTO, COBRANÇA COERCIVA E GARANTIAS
+
+###### Artigo 37.º — Pagamento Extemporâneo
+
+1 - São devidos juros de mora pelo cumprimento extemporâneo da obrigação de pagamento das taxas e preços, nos termos das leis tributárias.
+
+2 - A taxa de juros de mora a aplicar é a definida, para cada ano, pela Agência de Gestão da Tesouraria e da Dívida Pública (IGCP), através de Aviso publicado no Diário da República, até ao dia 31 de dezembro do ano anterior.
+
+3 - Estão isentas de juros de mora as dívidas abrangidas por legislação especial em que se faça expressa referência, quer à não sujeição a juros de mora, quer a outro procedimento relativo à falta de pagamento nos prazos estabelecidos.
+
+###### Artigo 38.º — Incumprimento e Cobrança Coerciva
+
+1 - Findo o prazo voluntário para pagamento das taxas e dos preços liquidados e que se encontram em mora, sem prejuízo do vencimentos dos juros de mora, será extraída pelos serviços competentes certidão de dívida com base nos elementos que tiverem ao seu dispor, promovendo-se a remissão para os serviços competentes, para efeito de instauração do correspondente processo de execução fiscal, para efeitos de cobrança coerciva do montante em dívida, nos termos do Código de Procedimento e de Processo Tributário.
+
+2 - Consideram-se em débito todas as taxas ou preços relativamente aos quais o sujeito passivo usufruiu do facto, do serviço ou do benefício, ou apenas não usufruiu por sua omissão, sem proceder ao respetivo pagamento.
+
+###### Artigo 39.º — Outras Consequências do Não Pagamento de Taxas
+
+1 - O não pagamento de taxas e preços devidos à Junta de Freguesia de Santo António dos Cavaleiros e Frielas constitui, ainda, fundamento de:
+
+a) Rejeição de quaisquer requerimentos com vista à emissão de autorizações;
+
+b) Recusa da prestação de quaisquer serviços solicitados à Junta;
+
+c) Determinação da cessação da possibilidade de qualquer tipo de utilização de bens do domínio público;
+
+2 - Salvo, em qualquer dos casos, se for deduzida reclamação ou impugnação e cumulativamente prestada, nos termos da lei, garantia idónea do respetivo pagamento.
+
+###### Artigo 40.º — Caducidade do Direito à Liquidação
+
+O direito da Junta de Freguesia da Santo António dos Cavaleiros e Frielas de liquidar as taxas caduca se a liquidação não for validamente notificada ao sujeito passivo no prazo de quatro anos a contar da data em que o facto tributário ocorreu, salvo se se tratar de omissão ou ato doloso, praticado pelo sujeito passivo.
+
+###### Artigo 41.º — Reclamação ou Impugnação da Liquidação
+
+1 - Os sujeitos passivos das taxas e dos preços previstas neste regulamento podem reclamar ou impugnar a respetiva liquidação, nos termos previstos no Regime Geral das Taxas das Autarquias Locais.
+
+2 - A reclamação é deduzida perante a Junta de Freguesia da Santo António dos Cavaleiros e Frielas no prazo de 30 (trinta) dias a contar da notificação da liquidação.
+
+3 - A reclamação presume-se indeferida para efeitos de impugnação judicial se não for decidida no prazo de 60 (sessenta) dias.
+
+4 - Do indeferimento tácito ou expresso cabe impugnação judicial para o tribunal administrativo e fiscal da área da Freguesia, no prazo de 60 (sessenta) dias a contar do indeferimento.
+
+5 - A impugnação judicial depende da prévia dedução da reclamação prevista no n.º 2 do presente artigo.
+
+### CAPÍTULO VII — CONTRAORDENAÇÕES
+
+###### Artigo 42.º — Infrações
+
+1 - Na falta de disposição legal específica, as infrações ao preceituado no presente Regulamento e tabelas anexas, constituem contraordenação sancionada com coima, nos termos do DL n.º 433/82, de 27 de outubro, na sua atual redação.
+
+2 - Se o contrário não resultar de lei, o montante mínimo da coima aplicável às pessoas singulares é de € 3,74 (três euros e setenta e quatro cêntimos) e o máximo de € 3.740,98 (três mil, setecentos e quarenta euros e noventa e oito cêntimos), sendo o montante máximo da coima aplicável às pessoas coletivas de € 44.891,81 (quarenta e quatro mil, oitocentos e noventa e um euros e oitenta e um cêntimos).
+
+###### Artigo 43.º — Competência para a instrução do processo e aplicação das coimas
+
+A competência para determinar a instrução do processo de contraordenação e para aplicação das coimas pertence ao Presidente da Junta de Freguesia, podendo a mesma ser delegada em qualquer um dos outros membros do órgão executivo.
+
+### CAPÍTULO VIII — DISPOSIÇÕES FINAIS
+
+###### Artigo 44.º — Norma Revogatória
+
+Com a entrada em vigor do presente regulamento, ficam revogadas todas as normas e tabelas de taxas e de preços da Freguesia de Santo António dos Cavaleiros e Frielas e que estejam em contradição com o presente regulamento.
+
+###### Artigo 45.º — Entrada em Vigor
+
+O presente Regulamento e Tabela de Taxas e Preços entra em vigor 15 (quinze) dias após a publicação no Diário da República.
+
+## ANEXO I — Tabela de Taxas: Atestados, Autenticação e Reprodução
+
+|  |  | Valor |
+| --- | --- | --- |
+| 1 | Atestados e documentos similares |  |
+| 1.1 | Em papel timbrado da Junta de Freguesia | 5,20 € |
+| 1.2 | Outros impressos próprios | 4,40 € |
+| 1.3 | Isenções (50 %) | 2,60 € |
+| 1.4 | Isenções (100 %) | Isento |
+| 1.5 | Emissão com taxa de urgência | 10,40 € |
+| 1.6 | Emissão de 2.ª via de documento | 7,90 € |
+| 2. | Autenticação de documentos |  |
+| 2.1 | Até 4 (quatro) páginas, inclusive | 16,81 € |
+| 2.2 | A partir da 5.ª página | 2,10 € |
+| 3. | Reprodução de documentos |  |
+| 3.1 | Formato A4 (P/B) - Frente | 0,90 € |
+| 3.2 | Formato A4 (P/B) - Frente/Verso | 1,10 € |
+| 3.3 | Formato A4 (C) - Frente | 1,00 € |
+| 3.4 | Formato A4 (C) - Frente/Verso | 1,20 € |
+| 3.5 | Formato A3 (P/B) - Frente | 1,00 € |
+| 3.6 | Formato A3 (P/B) - Frente/Verso | 1,20 € |
+| 3.7 | Formato A3 (C) - Frente | 1,10 € |
+| 3.8 | Formato A3 (C) - Frente/Verso | 1,30 € |
+| 4. | Outros |  |
+| 4.1 | Certificado de construção anterior a 1951 | 41,81 € |
+| 4.2 | Licença de venda ambulante de lotarias | 21,00 € |
+| 4.3 | Licença de arrumador de automóveis | 18,25 € |
+| 4.4 | Licença especial de ruído | 14,00 € |
+| 4.5 | Licença de uso e porte de arma | 14,74 € |
+
+## ANEXO II — Tabela de Taxas: Canídeos e Gatídeos
+
+|  |  | Valor |
+| --- | --- | --- |
+| 1 | Animais |  |
+| 1.1 | Categoria A - Cão de companhia | 5,00 € |
+| 1.2 | Categoria B - Cão com fins económicos | 6,25 € |
+| 1.3 | Categoria E - Cão de caça | 7,50 € |
+| 1.4 | Categoria F - Cão guia | Isento |
+| 1.5 | Categoria G - Cão potencialmente perigoso | 10,00 € |
+| 1.6 | Categoria H - Cão Perigoso | 15,00 € |
+| 1.7 | Categoria I - Gato | 5,00 € |
+| 1.8 | Outras isenções previstas ou a prever na Lei | Isento |
+
+## ANEXO III — Tabela de Taxas: Cemitério
+
+|  |  | Valor |
+| --- | --- | --- |
+| 1 | Inumações |  |
+| 1.1 | Em covais de madeira | 35,00 € |
+| 1.2 | Em covais de zinco | 40,00 € |
+| 1.3 | Em gavetões | 65,00 € |
+| 1.4 | Em jazigos | 65,00 € |
+| 1.5 | Abertura de cova em duas profundidades | 50,00 € |
+| 1.6 | Taxa adicional (dia de encerramento) | 50,00 € |
+| 2. | Exumações |  |
+| 2.1 | Em gavetões | 62,00 € |
+| 2.2 | Em jazigos | 62,00 € |
+| 2.3 | Incluindo limpeza e trasladação no cemitério | 25,00 € |
+| 2.4 | Sem limpeza | 18,30 € |
+| 3. | Trasladação |  |
+| 3.1 | Trasladação de ossadas | 27,00 € |
+| 3.2 | Trasladação de corpo | 37,00 € |
+| 4. | Aluguer |  |
+| 4.1 | Covais | 15,00 € |
+| 5. | Ossário |  |
+| 5.1 | Ossários - por período de 1 ano ou fração (1 ossada) | 10,00 € |
+| 5.2 | Ossários - por período de 1 ano ou fração (2 ossadas) | 12,00 € |
+| 6. | Gavetões |  |
+| 6.1 | Primeiro e segundo piso | 37,00 € |
+| 6.2 | Outros pisos | 27,00 € |
+| 7. | Emissão de Licenças |  |
+| 7.1 | Obras | 27,00 € |
+| 7.2 | Construção de jazigo | 540,00 € |
+| 7.3 | Ornamentação | 18,00 € |
+| 8. | Outros |  |
+| 8.1 | Utilização da capela mortuária | 40,00 € |
+| 8.2 | Utilização da capela - ofícios | 27,00 € |
+| 8.3 | Utilização da capela - ofícios e armação | 18,00 € |
+| 8.4 | Abaulamento anual | 15,00 € |
+| 8.5 | Abaulamento por 5 (cinco) anos | 61,00 € |
+| 8.6 | Averbamento de títulos em sepulturas perpétuas e jazigos | 18,00 € |
+| 8.7 | Assistência à soldagem em horário expediente | 34,00 € |
+| 8.8 | Assistência à soldagem fora de horário expediente | 19,00 € |
+| 8.9 | Ajardinamento | 18,00 € |
+| 8.10 | Desmontagem de campas em mármore | 122,00 € |
+| 8.11 | Averbamentos de transmissão de covais para outrem não herdeiros | 122,00 € |
+
+## ANEXO IV — Tabela de Taxas: Pavilhão
+
+|  |  | Valor |
+| --- | --- | --- |
+| 1 | Aluguer |  |
+| 1.1 | Ocupação Diurna (1 hora) - dia de semana | 14,00 € |
+| 1.2 | Ocupação Pós-Laboral (1 hora) - dia de semana | 17,00 € |
+| 1.3 | Ocupação Diurna (1 hora) - fim de semana/feriado | 17,00 € |
+| 1.4 | Ocupação Noturna (1 hora) - fim de semana/feriado | 17,00 € |
+
+## ANEXO V — Tabela de Taxas: Posto Médico
+
+|  |  | Valor |
+| --- | --- | --- |
+| 1 | Consulta |  |
+| 1.1 | Consulta médica | 2,50 € |
+| 1.2 | Consulta enfermagem | 2,00 € |
+| 2 | Injetáveis |  |
+| 2.1 | Endovenosa, intramuscular ou subcutânea | 2,50 € |
+| 3 | Pensos |  |
+| 3.1 | Pequeno | 2,50 € |
+| 3.2 | Médio | 3,25 € |
+| 3.3 | Grande | 4,50 € |
+| 4 | Extração de corpo estranho |  |
+| 4.1 | Pontos cirúrgicos | 3,00 € |
+| 5 | Outros |  |
+| 5.1 | Glicémia capilar | 2,00 € |
+| 5.2 | Tensão arterial | 1,00 € |
+| 5.3 | Pesagem | Gratuito |
+
+## ANEXO VI — Tabela de Taxas: Lavandaria
+
+|  |  | Valor |
+| --- | --- | --- |
+| 1 | Lavandaria |  |
+| 1.1 | 1 a 10 peças roupa | 2,50 € |
+| 1.2 | 11 a 20 peças roupa | 4,50 € |
+| 1.3 | 21 a 30 peças roupa | 6,00 € |
+| 1.4 | 31 a 40 peças roupa | 7,50 € |
+| 1.5 | 41 a 50 peças roupa | 10,00 € |
+| 1.6 | Édredon, manta cobertor | 7,50 € |
+| 2 | Engomação |  |
+| 2.1 | Camisa, lençol, toalha, calças, vestido e saia | 0,80 € |
+| 2.2 | T-shirts e outras peças pequenas | 0,50 € |
+
+## ANEXO VII — Tabela de Taxas: Academia do Conhecimento
+
+|  |  | Valor |
+| --- | --- | --- |
+| 1. | Inscrição | 5,00 € |
+| 2. | Trimestre | 10,00 € |
+
+## ANEXO VIII — Tabela de Taxas: Aluguer de Espaços e Outros
+
+|  |  | Valor |
+| --- | --- | --- |
+| 1. | Aluguer de Espaços |  |
+| 1.1 | Multiúsos (p/hora) | 15,00 € |
+| 1.2 | Estúdio de Som (p/ hora) | 30,00 € |
+| 1.3 | Auditório da Sede (p/hora) | 17,00 € |
+| 1.4 | Auditório Delegação de Frielas (p/hora) | 17,00 € |
+| 1.5 | Incluído de sistema de som | 15,00 € |
+| 1.6 | Incluído de mobiliário | 15,00 € |
+| 1.7 | Incluído de sistema de som e mobiliário | 30,00 € |
+| 2. | Vários |  |
+| 2.1 | Aluguer de Palco | 200,00 € |
+| 2.2 | Aluguer de Sistema de Som | 200,00 € |
+| 2.3 | Aluguer de bancas/tendas (5 unidades/dia) | 300,00 € |
+
+5 de abril de 2024. - O Presidente da Junta de Freguesia da União das Freguesias de Santo António dos Cavaleiros e Frielas, Jorge Daniel Sousa Moreira da Silva.
+
+317576364

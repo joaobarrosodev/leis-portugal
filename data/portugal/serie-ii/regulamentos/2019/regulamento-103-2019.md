@@ -1,0 +1,338 @@
+---
+schema_version: '1.0'
+id: pt:dre:118468480:por
+title: Regulamento n.º 103/2019
+short_title: null
+summary: Regulamento da Unidade Curricular Dissertação/Projeto/Estágio dos cursos de mestrado do Instituto Superior de Contabilidade
+  e Administração da Universidade de Aveiro
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Universidade de Aveiro
+proposing_entity: null
+official_number: 103/2019
+official_date: null
+publication_date: '2019-01-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 18/2019, Série II de 2019-01-25
+  number: '18'
+  series: II
+  supplement: null
+  pages: 3700 - 3703
+  pdf_url: https://files.diariodarepublica.pt/2s/2019/01/018000000/0370003703.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '118468480'
+  dre_path: /dr/detalhe/regulamento/103-2019-118468480
+  internal: pt:dre:118468480:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/103-2019-118468480
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/103-2019-118468480
+  consolidated_url: null
+  retrieved_at: '2026-11-13T06:38:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3ac0b71589f8b6e57640d567d37abb90853c2db9b188d4fb51974fc4e3b20f4b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T06:38:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:629393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75194187:por
+  label: null
+  source: null
+article_structure:
+  article_count: 22
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T06:38:30Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 103/2019
+
+Regulamento da Unidade Curricular Dissertação/Projeto/Estágio dos cursos de mestrado do Instituto Superior de Contabilidade e Administração da Universidade de Aveiro
+
+Ao abrigo da autonomia científica, pedagógica e cultural das unidades orgânicas de ensino e de investigação, nos respetivos âmbitos de intervenção, prevista no n.º 1 do artigo 35.º dos Estatutos da Universidade de Aveiro, homologados pelo Despacho normativo n.º 1-C/2017, de 19 de abril, publicado no Diário da República, 2.ª série, n.º 80, de 24 de abril, e no artigo 3.º do Regulamento de Estudos da Universidade de Aveiro, na redação que lhe foi dada pelo [Regulamento n.º 836/2016](https://diariodarepublica.pt/dr/detalhe/regulamento/836-2016-75194187), de 31 de agosto, publicado no Diário da República, n.º 173, 2.ª série, de 08 de setembro.
+
+Considerando que o desenvolvimento das competências e dos conhecimentos indispensáveis na formação e preparação dos estudantes do curso de Mestrado para a atividade profissional constitui o núcleo essencial da avaliação da unidade curricular Dissertação/Projeto/Estágio.
+
+Revela-se necessário regulamentar o regime aplicável à avaliação da unidade curricular Dissertação/Projeto/Estágio com o intuito de o tornar mais conciso e abrangente.
+
+É nesta conformidade que, promovida a consulta pública do respetivo projeto nos termos do n.º 3 do artigo 110.º do Regime Jurídico das Instituições do Ensino Superior, aprovado pela [Lei n.º 65/2007](https://diariodarepublica.pt/dr/detalhe/lei/65-2007-629393), de 10 de setembro, de harmonia com os normativos consagrados sobre esta matéria no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468) de 07 de janeiro, e, de acordo com o disposto na alínea m) do n.º 3 do artigo 23.º dos Estatutos da Universidade de Aveiro, na versão homologada pelo Despacho normativo n.º 1-C/2017, de 19 de abril, publicado no Diário da República, 2.ª série, n.º 80, de 24 de abril, é aprovado o Regulamento da unidade curricular Dissertação/Projeto/Estágio dos Cursos de Mestrado do Instituto Superior de Contabilidade e Administração da Universidade de Aveiro, nos termos que se seguem:
+
+### CAPÍTULO I — Disposições Gerais
+
+###### Artigo 1.º — Âmbito
+
+1 - O presente Regulamento regula a frequência e avaliação da unidade curricular Dissertação/Projeto/Estágio integrante do plano de estudos dos cursos de Mestrado do Instituto Superior de Contabilidade e Administração da Universidade de Aveiro, doravante denominado por ISCA-UA.
+
+2 - O disposto no número anterior abrange os seguintes ciclos de estudos:
+
+a) Mestrado em Contabilidade;
+
+b) Mestrado em Finanças;
+
+c) Mestrado em Marketing.
+
+3 - À unidade curricular Dissertação/Projeto/Estágio corresponde um total de 56 ECTS e de 54 ECTS no caso, respetivamente, dos mestrados previstos nas alíneas a) e c) e na alínea b) do número anterior.
+
+###### Artigo 2.º — Finalidade
+
+A unidade curricular Dissertação/Projeto/Estágio destina-se aos estudantes do 2.º Ciclo e visa integrar e complementar os conhecimentos adquiridos ao longo do seu percurso académico, nomeadamente, em contexto de atividade profissional e de contacto com o mercado de trabalho.
+
+###### Artigo 3.º — Inscrição
+
+A inscrição na unidade curricular Dissertação/Projeto/Estágio depende da prévia inscrição nas restantes unidades curriculares do respetivo plano de estudos.
+
+###### Artigo 4.º — Definição e Atribuição de Temas
+
+1 - Os estudantes podem, por sua própria iniciativa, apresentar temas para a dissertação, projeto ou estágio, sujeitos a apreciação e validação do Diretor do ISCA-UA, após parecer favorável do Diretor de Curso.
+
+2 - O(s) Diretor(es) de Curso pode(m), sempre que necessário, solicitar um número determinado de temas aos docentes da respetiva área de conhecimento para seleção pelos estudantes.
+
+3 - A atribuição dos temas e dos respetivos orientadores e coorientadores, caso existam, para dissertação e a respetiva distribuição pelos estudantes é efetuada pelo Diretor da Unidade Orgânica, em articulação com o(s) Diretor(es) de Curso, de acordo com calendário e normas a fixar para cada ano letivo.
+
+###### Artigo 5.º — Acompanhamento
+
+1 - Cada Diretor de Curso pode, por sua iniciativa e em articulação com os respetivos orientadores, realizar sessões para a apresentação dos trabalhos desenvolvidos pelos estudantes.
+
+2 - Os estudantes devem ser informados da data das sessões referidas no número anterior, com uma antecedência mínima de 15 dias úteis.
+
+3 - Para além do disposto no n.º 1 os estudantes podem assistir e participar em Seminários, Conferências ou outros, nomeadamente através da apresentação de um trabalho sobre o tema da sua dissertação, do seu projeto ou do seu estágio.
+
+###### Artigo 6.º — Regime de Avaliação
+
+1 - A unidade curricular Dissertação/Projeto/Estágio decorre em regime de avaliação final, em prova pública, a realizar de acordo com o artigo 49.º do Regulamento de Estudos da Universidade de Aveiro (REUA), com as especificidades do presente Regulamento.
+
+2 - Os elementos de avaliação da dissertação, do projeto e do estágio são os previstos respetivamente nos artigos 10.º, 17.º e 23.º
+
+###### Artigo 7.º — Pedido de Provas e Defesa Pública
+
+1 - O pedido de provas só pode ser efetuado depois de obtido(s) o(s) parecer(es) do(s) orientador(es).
+
+2 - A defesa pública da unidade curricular Dissertação/Projeto/Estágio depende da prévia aprovação à totalidade das restantes unidades curriculares do respetivo plano de estudos.
+
+### CAPÍTULO II — Dissertação, Projeto e Estágio
+
+#### SECÇÃO I — Dissertação
+
+###### Artigo 8.º — Objeto
+
+1 - A dissertação tem por objeto a realização, pelo estudante, de um trabalho original de natureza científica, sobre um tema da área de conhecimento do curso e que deve envolver a adoção de metodologias apropriadas, bem como incluir componentes de caráter teórico e ou experimental.
+
+2 - Pela dissertação o estudante reflete, em documento escrito, um domínio aprofundado do tema tratado bem como a originalidade do contributo.
+
+###### Artigo 9.º — Orientação
+
+A orientação da dissertação é efetuada nos termos do artigo 49.º do REUA.
+
+###### Artigo 10.º — Avaliação Final
+
+1 - Constituem elementos da avaliação da dissertação, o desempenho global do estudante ao longo do ano letivo, o documento escrito, a apresentação oral e a pertinência e adequação das respostas às questões colocadas pelo júri de mestrado constituído nos termos do artigo 50.º do REUA.
+
+2 - O estudante deve entregar a dissertação nos prazos fixados no calendário de execução escolar da Universidade de Aveiro, para cada ano letivo.
+
+3 - A prova pública tem uma duração máxima de 60 minutos, destinando-se os primeiros 20 minutos à apresentação pelo estudante do trabalho desenvolvido com base na dissertação elaborada e os seguintes 40 minutos a uma discussão sobre a mesma.
+
+###### Artigo 11.º — Classificação Final
+
+1 - A classificação final é atribuída pelo júri de mestrado.
+
+2 - A classificação final é expressa em ata de avaliação, assinada pelos elementos do júri, e determinada em função da aplicação da grelha de avaliação, que constitui o Anexo ao presente Regulamento e do qual faz parte integrante.
+
+3 - Para efeitos do disposto no n.º 1 o orientador e o coorientador, caso exista, emitem os respetivos pareceres, com alusão expressa à(s) atividade(s) desenvolvida(s) pelo estudante.
+
+4 - A classificação é expressa na escala numérica inteira de 0 a 20 valores, com arredondamento às unidades, sendo aprovado o estudante com uma classificação final igual ou superior a 10 valores.
+
+5 - A dissertação não é passível de melhoria de classificação e só há lugar a nova inscrição em caso de reprovação.
+
+#### SECÇÃO II — Projeto
+
+###### Artigo 12.º — Objeto
+
+1 - O projeto consiste num trabalho original que tem por objeto a aplicação integrada de conhecimentos a situações de interesse prático, devendo envolver a adoção de metodologias apropriadas à resolução de um problema específico, no âmbito das áreas de conhecimento do curso.
+
+2 - O trabalho de projeto pode decorrer em parte no contexto de uma empresa ou organização, nos termos dos artigos seguintes.
+
+3 - O projeto termina com a apresentação de um relatório final que deve pôr em evidência a relevância da atividade desenvolvida, o conhecimento do estado da arte na área de conhecimento envolvida e uma análise crítica dos resultados obtidos.
+
+###### Artigo 13.º — Entidades de Acolhimento
+
+1 - No caso previsto no n.º 2 do artigo anterior o projeto pode realizar-se em entidades públicas ou privadas, nacionais ou estrangeiras, de reconhecido mérito, denominadas, para efeitos do presente normativo, por Entidades de Acolhimento.
+
+2 - O disposto no número anterior concretiza-se através da celebração de um protocolo de colaboração entre a Universidade de Aveiro e a Entidade de Acolhimento, onde decorre o projeto, e de um acordo de projeto entre aquelas e o estudante, no qual se estabelece o plano de trabalhos e as atividades a realizar, o início e o termo do mesmo e os direitos e obrigações das partes.
+
+###### Artigo 14.º — Orientação
+
+1 - A orientação do projeto é efetuada por um Orientador e eventualmente por um Orientador externo, da Universidade de Aveiro e da Entidade de Acolhimento, respetivamente.
+
+2 - O Orientador é designado sob proposta do Diretor de Curso e aprovação do Diretor do ISCA-UA, de entre os docentes da Universidade de Aveiro, e cabe-lhe nomeadamente:
+
+a) Elaborar o plano de trabalhos com o estudante;
+
+b) Orientar e proporcionar ao estudante as condições necessárias à adequada execução do plano de trabalhos;
+
+c) Participar na avaliação do estudante, nos termos do n.º 2 do artigo 18.º
+
+3 - O Orientador externo é indicado pela Entidade de Acolhimento e incumbe-lhe:
+
+a) Participar na elaboração do plano de trabalhos a constar do acordo de projeto;
+
+b) Orientar e proporcionar ao estudante as condições necessárias à adequada execução do plano de trabalhos na Entidade de Acolhimento a constar do acordo de projeto;
+
+c) Participar na avaliação do estudante, nos termos do n.º 2 do artigo 18.º
+
+4 - Os direitos e as obrigações dos orientadores, no âmbito de cada projeto a realizar, são estabelecidos de acordo com o n.º 2 do artigo 13.º
+
+###### Artigo 15.º — Local
+
+1 - O projeto pode decorrer nas instalações das entidades referidas no n.º 1 do artigo 13.º
+
+2 - O estudante pode apresentar uma proposta de local para a realização do projeto.
+
+###### Artigo 16.º — Duração
+
+1 - Nos Mestrados em Contabilidade e Marketing o trabalho a realizar no âmbito do projeto tem a duração de um ano letivo, num total de 1512 horas, organizadas da seguinte forma:
+
+a) 1000 horas de atividade no local de realização do projeto, equivalente a 25 semanas;
+
+b) 50 horas de contacto direto com o orientador do projeto e monitorização do trabalho desenvolvido;
+
+c) 462 horas de trabalho autónomo do estudante.
+
+2 - No Mestrado em Finanças o trabalho a realizar no âmbito do projeto tem a duração de um ano letivo, num total de 1458 horas, organizadas da seguinte forma:
+
+a) 1000 horas de atividade no local de realização do projeto, equivalente a 25 semanas;
+
+b) 50 horas de contacto direto com o orientador do projeto e monitorização do trabalho desenvolvido;
+
+c) 408 horas de trabalho autónomo do estudante.
+
+3 - Sem prejuízo do integral cumprimento do número de horas do projeto previsto no número anterior, em situações excecionais devidamente justificadas e autorizadas, a data de termo pode ser alterada por acordo entre as partes.
+
+###### Artigo 17.º — Avaliação Final
+
+1 - Constituem elementos obrigatórios da avaliação do projeto, o desempenho global do estudante na Entidade de Acolhimento, o relatório final do projeto e a respetiva apresentação oral perante o júri constituído nos termos do artigo 50.º do REUA.
+
+2 - O estudante deve elaborar o relatório final do projeto a entregar a cada um dos elementos do júri de acordo com os prazos fixados no calendário de execução escolar da Universidade de Aveiro, para cada ano letivo.
+
+3 - A prova pública tem uma duração máxima de 60 minutos, destinando-se os primeiros 20 minutos à apresentação pelo estudante do trabalho desenvolvido com base no relatório final do projeto e os seguintes 40 minutos a uma discussão sobre o mesmo e sobre o teor dos pareceres emitidos nos termos do n.º 2 do artigo seguinte.
+
+###### Artigo 18.º — Classificação Final
+
+1 - A classificação final é atribuída pelo júri de mestrado, e determinada em função da aplicação da grelha de avaliação, que constitui o Anexo ao presente Regulamento e do qual faz parte integrante.
+
+2 - Para efeitos do disposto no número anterior, os orientadores interno e externo emitem os respetivos pareceres sobre o relatório final do projeto e o desempenho do estudante na Entidade de Acolhimento, com alusão expressa à(s) atividade(s) desenvolvida(s) pelo estudante, os quais constam como anexos e são partes integrantes da ata de avaliação.
+
+3 - A classificação final é expressa em ata de avaliação, assinada pelos elementos do júri.
+
+4 - A classificação é expressa na escala numérica inteira de 0 a 20 valores, com arredondamento às unidades, sendo aprovado o estudante com uma classificação final igual ou superior a 10 valores.
+
+5 - O projeto não é passível de melhoria de classificação e só há lugar a nova inscrição em caso de reprovação.
+
+#### SECÇÃO III — Estágio
+
+###### Artigo 19.º — Objeto
+
+1 - O estágio tem por objeto complementar a formação académica através da integração orientada em atividades em empresas ou organizações propiciadoras de ambiente de trabalho relevante para a área do curso.
+
+2 - O estágio tem por base um plano de estágio com objetivos, programa e calendário definidos, e deve decorrer em tempo integral.
+
+3 - O estágio termina com a apresentação, pelo estagiário, de um relatório final no qual demonstra um conhecimento aprofundado da atividade em que se inseriu na Entidade de Acolhimento, a capacidade de apresentar e analisar criticamente os procedimentos e ou processos analisados no âmbito do estágio, bem como os contributos e ou conhecimentos decorrentes do programa de estágio.
+
+###### Artigo 20.º — Regime supletivo
+
+Em tudo o que não se ache especialmente regulado na presente secção, são aplicáveis ao estágio, com as necessárias adaptações, as disposições relativas ao projeto.
+
+### CAPÍTULO III — Disposições Finais
+
+###### Artigo 21.º — Casos Omissos
+
+Os casos omissos são resolvidos nos termos das disposições legais, regulamentares e estatutárias aplicáveis.
+
+###### Artigo 22.º — Entrada em Vigor
+
+O presente Regulamento entra em vigor no dia seguinte ao da respetiva publicação no Diário da República.
+
+7 de janeiro de 2019. - O Reitor, Prof. Doutor Paulo Jorge dos Santos Gonçalves Ferreira.
+
+## ANEXO
+
+A aprovação em provas públicas da dissertação, trabalho de projeto ou relatório de estágio, pressupõe a demonstração de um conjunto de competências fundamentais, consubstanciadas nos seguintes objetivos:
+
+1) Saber caracterizar o tema ou o problema em estudo e conceber/utilizar as metodologias corretas para o seu tratamento e forma de resolução ou de interpretação;
+
+2) Elaborar uma revisão de literatura, crítica em trabalhos mais concetuais; recolher, analisar e interpretar dados, nos casos em que tal se aplique;
+
+3) Demonstrar a competência na utilização das estruturas concetuais e das ferramentas adquiridas durante o curso de mestrado, e/ou demonstrar capacidade para, sob orientação, procurar e adquirir conceitos e/ou ferramentas adicionais que se mostrem úteis e/ou necessárias para o estudo do tema ou problema;
+
+4) Saber apresentar os resultados de forma concisa, estruturada e evidenciando uma boa qualidade de redação.
+
+As grelhas apresentadas de seguida apresentam valores de referência para as classificações a atribuir, a partir de três fatores base:
+
+Capacidade do estudante para realizar o trabalho com autonomia (a avaliar para o orientador);
+
+Grau de dificuldade do tema (medido pela complexidade do tema, escassez de literatura e caráter inovador da proposta);
+
+Grau de concretização dos objetivos (avaliado mediante comparação do trabalho proposto e a realização do mesmo).
+
+Capacidade de Autonomia/Dificuldade
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/01/018000000/0370003703.pdf)
+
+Capacidade de referência das classificações
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/01/018000000/0370003703.pdf)
+
+O júri deve ponderar estes valores de referência com a qualidade da apresentação, da redação e da discussão.
+
+Tabela resumo:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2019/01/018000000/0370003703.pdf)
+
+311979223

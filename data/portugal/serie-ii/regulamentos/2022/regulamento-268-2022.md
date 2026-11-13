@@ -1,0 +1,367 @@
+---
+schema_version: '1.0'
+id: pt:dre:180600109:por
+title: Regulamento n.º 268/2022
+short_title: null
+summary: Regulamento do Programa de Apoio ao Arrendamento do Município de Grândola
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Grândola
+proposing_entity: null
+official_number: 268/2022
+official_date: null
+publication_date: '2022-03-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 54/2022, Série II de 2022-03-17
+  number: '54'
+  series: II
+  supplement: null
+  pages: 290 - 297
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/03/054000000/0029000297.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '180600109'
+  dre_path: /dr/detalhe/regulamento/268-2022-180600109
+  internal: pt:dre:180600109:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/268-2022-180600109
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/268-2022-180600109
+  consolidated_url: null
+  retrieved_at: '2026-11-13T07:20:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 850364dff5e70da8c9f20a06abbcb70042014578ebf9f6197b5ec2d51ffa101f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T07:20:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T07:20:17Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 268/2022
+
+Regulamento do Programa de Apoio ao Arrendamento do Município de Grândola
+
+Preâmbulo
+
+De acordo com o regime jurídico das autarquias locais (Anexo I da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro) constituem atribuições do município a promoção e salvaguarda dos interesses próprios das respetivas populações, designadamente no domínio da habitação. Nesse sentido, compete à Câmara Municipal participar na prestação de serviços e prestar apoio a pessoas em situação de vulnerabilidade, em parceria com as entidades competentes da administração central e com instituições particulares de solidariedade social, nas condições constantes de regulamento municipal.
+
+A Câmara Municipal de Grândola receciona anualmente, diretamente ou através de sinalização de entidades parceiras, um elevado número de pedidos de apoio no âmbito das respostas de habitação. Os pedidos de apoio dividem-se em dois grandes grupos: os agregados familiares interessados em integrar uma vaga em habitação social e os que apresentam dificuldades económicas para fazer face ao arrendamento no mercado privado. Consciente desta realidade, o Município de Grândola aprovou em 2017 o Regulamento do Programa de Apoio ao Arrendamento, que visa apoiar as famílias através da atribuição de um apoio pecuniário para o arrendamento habitacional.
+
+Com a operacionalização do referido regulamento, verificou-se que alguns dos artigos eram limitativos da ação e restringiam a possibilidade de apoio a muitos agregados familiares. Assim, verificou-se a necessidade de reformular o regulamento em vigor, adequando-o o mais possível à realidade concelhia e garantindo a aplicação dos princípios de promoção da igualdade de oportunidades, de capacitação, responsabilização e autonomização das famílias.
+
+O presente regulamento teve em consideração a conjugação entre os direitos constitucionais de reserva da intimidade da vida privada e familiar, bem como o da proteção de dados pessoais, e os princípios que norteiam a administração pública, também eles contemplados na Constituição da República Portuguesa.
+
+Foram cumpridas as exigências impostas pelo Regulamento Geral de Proteção de Dados, designadamente os princípios subjacentes ao tratamento de dados pessoais previstos no artigo 5.º do diploma, bem como os direitos dos titulares dos dados, salvaguardando simultaneamente os princípios que norteiam a atividade administrativa espelhados no Capítulo II do Código do Procedimento Administrativo, de que se destacam os princípios da boa administração, da proporcionalidade, justiça e razoabilidade, igualdade, boa-fé e proteção de dados pessoais.
+
+À luz da Política de Privacidade do Município é garantido que os dados recolhidos serão usados apenas para as finalidades em causa. Os processos são sigilosos, garantindo-se que só terão acesso aos dados os envolvidos nos procedimentos e que o município os arquivará pelo estrito tempo necessário para o cumprimento de obrigações legais, nomeadamente para efeitos da tutela administrativa a que os municípios estão sujeitos nos termos da Constituição da República Portuguesa.
+
+Em cumprimento do disposto no artigo 101.º, do Código de Procedimento Administrativo, o projeto do regulamento foi objeto de consulta pública, pelo prazo de 30 dias, tendo para esse efeito sido publicado no Diário da República 2.ª série, n.º 208 de 26 de outubro de 2021 e na Internet, no sítio institucional do município.
+
+O projeto do regulamento de apoio ao arrendamento habitacional do Município de Grândola foi aprovado pelo órgão executivo em reunião ordinária em 20/01/2022, nos termos da alínea k), do n.º 1, do artigo 33.º do Anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 setembro.
+
+Foi posteriormente aprovado pela Assembleia Municipal de Grândola, na sessão ordinária de 18/02/2022, fazendo uso da competência que lhe é atribuída pela alínea g) do n.º 1 do artigo 25.º do Anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro.
+
+###### Artigo 1.º — Legislação habilitante
+
+O presente regulamento é elaborado ao abrigo do disposto no n.º 1 do artigo 65.º, do n.º 7 do artigo 112.º, e do artigo 241.º da Constituição da República Portuguesa e das alíneas h) e i) do n.º 2 do artigo 23.º, da alínea g) do n.º 1 do artigo 25.º e das alíneas k) e v) do n.º 1 do artigo 33.º, do Anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na sua atual redação.
+
+###### Artigo 2.º — Objeto
+
+O presente regulamento visa dar objetividade, enquadrar e disciplinar os procedimentos necessários para o acesso ao Programa de Apoio ao Arrendamento por parte das famílias de menores recursos residentes no concelho de Grândola, com o propósito de contribuir para a valorização da sua qualidade de vida.
+
+###### Artigo 3.º — Âmbito
+
+Podem beneficiar do Programa de Apoio ao Arrendamento os agregados familiares que se encontrem nas condições previstas no presente regulamento.
+
+###### Artigo 4.º — Natureza do apoio
+
+1 - As comparticipações previstas no presente regulamento revestem a natureza de apoios económicos personalizados, intransmissíveis, periódicos e com caráter temporário, ao arrendamento de habitação ou parte de habitação.
+
+2 - Os valores a atribuir previstos no presente regulamento constarão das grandes opções do plano e as verbas serão inscritas no orçamento anual do Município, tendo como limite os valores aí fixados.
+
+3 - A renda mensal máxima por tipologia de habitação, a considerar para efeitos de candidatura, é definida anualmente pelo órgão executivo, mediante proposta do serviço competente.
+
+###### Artigo 5.º — Conceitos
+
+1 - Para efeitos do disposto no presente regulamento considera-se:
+
+a) Agregado Familiar - o conjunto de pessoas ligadas entre si por vínculo de parentesco, casamento, afinidade ou outras situações similares, desde que residam em economia comum, de acordo com os termos definidos no artigo 4.º do [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho na sua versão mais atualizada;
+
+b) Candidato - titular do processo de candidatura e outorgante do contrato de arrendamento;
+
+c) Renda - o valor devido mensalmente pelo arrendatário ao proprietário da habitação, pelo seu uso para fins habitacionais;
+
+d) Apoio Económico - o apoio à renda, de natureza pecuniária, caráter transitório e variação de valor;
+
+e) Emergência Social - uma situação de grande vulnerabilidade e desproteção, resultante de não estarem asseguradas as condições dignas de vida e que constitua um perigo real, atual ou iminente para a integridade física, psíquica e emocional do indivíduo ou da família, necessitando de intervenção imediata ou urgente;
+
+f) Rendimento Mensal Líquido do Agregado Familiar (RMLAF) - é calculado de acordo com a seguinte fórmula:
+
+RMLAF = RMIAF - D
+
+sendo que:
+
+RMLAF = Rendimento Mensal Líquido do Agregado Familiar;
+
+RMIAF = Rendimento Mensal Ilíquido do Agregado Familiar;
+
+D = Despesas Fixas;
+
+2 - Os rendimentos a considerar para efeito de cálculo do rendimento mensal ilíquido do agregado familiar (RMIAF), de acordo o [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho na sua versão mais atualizada, são os seguintes:
+
+a) Rendimentos de trabalho dependente;
+
+b) Rendimentos empresariais e profissionais;
+
+c) Rendimentos de capitais;
+
+d) Rendimentos prediais;
+
+e) Pensões;
+
+f) Prestações Sociais.
+
+3 - Os rendimentos referidos no número anterior deverão ser os mais atuais possíveis;
+
+4 - As despesas fixas mensais a considerar para efeitos do cálculo do Rendimento Mensal Líquido do agregado familiar são:
+
+a) Água: por cada um dos elementos do agregado - 5,00(euro);
+
+b) Luz: por cada um dos elementos do agregado - 15,00(euro);
+
+c) Gás: por cada um dos elementos do agregado - 10,00(euro);
+
+d) Despesas com saúde, nomeadamente com a aquisição de medicamentos e/ou outros tratamentos de uso continuado, desde que devidamente comprovado por declaração médica, sem limite máximo de atribuição;
+
+e) Despesa relativa à frequência de equipamentos: para a infância; escolares; para pessoas portadoras de deficiência; para idosos, devidamente comprovada com os últimos 3 recibos de pagamento.
+
+###### Artigo 6.º — Condições de atribuição
+
+1 - Podem candidatar-se ao Programa de Apoio ao Arrendamento os munícipes que reúnam, cumulativamente, as seguintes condições:
+
+a) Ser cidadão nacional ou estrangeiro detentor de título válido de permanência em território nacional;
+
+b) Residir ou trabalhar ininterruptamente no concelho de Grândola há pelo menos 1 ano;
+
+c) Ser titular de contrato ou contrato-promessa de arrendamento, para fins habitacionais, devidamente declarado nas finanças;
+
+d) O rendimento mensal líquido do agregado familiar não ultrapasse os limites máximos definidos em função da composição do agregado familiar e do valor do Indexante de Apoios Sociais, conforme o anexo I;
+
+e) O candidato, ou qualquer elemento do agregado familiar, não esteja a usufruir de qualquer tipo de apoio para habitação, promovido por outro organismo;
+
+f) O candidato, ou qualquer elemento do agregado familiar, não seja proprietário, usufrutuário, arrendatário ou detentor a outro título de qualquer imóvel com condições de habitabilidade;
+
+g) A tipologia da habitação arrendada seja adequada à composição do agregado familiar do candidato, conforme o disposto no anexo II;
+
+h) A renda mensal da habitação não exceda os limites aprovados, anualmente, pelo órgão executivo, mediante proposta do serviço de habitação;
+
+i) Não se encontre em incumprimento com pagamentos ao município.
+
+2 - Em casos excecionais de necessidade habitacional urgente e temporária e/ou situações de vulnerabilidade e emergência social, devidamente justificados, pode o órgão executivo, mediante parecer técnico fundamentado, dispensar o disposto na alínea b), g) e i) do número anterior.
+
+###### Artigo 7.º — Critérios preferenciais de atribuição
+
+Em caso de impossibilidade de apoiar todos os agregados familiares candidatos, a atribuição do apoio será decidida de acordo com os seguintes critérios de preferência, pela ordem descrita:
+
+a) Vítimas de violência doméstica, com queixa formalizada nas entidades competentes;
+
+b) Maior número de elementos menores a cargo;
+
+c) Maior número de elementos do agregado familiar, portadores de deficiência ou com incapacidade superior a 60 %, devidamente comprovadas através de Atestado Médico de Incapacidade Multiuso;
+
+d) Maior número de elementos do agregado familiar com 65 ou mais anos;
+
+e) Existência de elementos no agregado familiar com doenças crónicas, devidamente comprovadas mediante apresentação de relatório médico.
+
+###### Artigo 8.º — Instrução da candidatura
+
+1 - A candidatura é instruída através da entrega nos serviços administrativos da Divisão de Cultura e Desenvolvimento Social do formulário disponibilizado para o efeito, devidamente preenchido, assinado pelo candidato e acompanhado dos seguintes documentos:
+
+a) Fotocópia do documento de identificação de todos os elementos do agregado familiar (Bilhete de Identidade, Número de Identificação Fiscal, Número de Identificação da Segurança Social ou Cartão do Cidadão e no caso de cidadãos estrangeiros, título válido de autorização de residência);
+
+b) Atestado emitido pela Junta de Freguesia que comprove a composição do agregado familiar e o tempo de residência no concelho.
+
+c) No caso de não ser residente no concelho, fotocópia do contrato de trabalho na área do Município com duração mínima de um ano;
+
+d) Fotocópia do contrato ou do contrato-promessa de arrendamento;
+
+e) Fotocópia do último recibo de renda;
+
+f) Declaração emitida pela Autoridade Tributária e Aduaneira comprovativa de que nenhum elemento do agregado familiar é proprietário, usufrutuário, arrendatário ou detentor a outro título de qualquer imóvel com condições de habitabilidade;
+
+g) Declaração emitida pelo Estabelecimento de Ensino competente, comprovativa da frequência escolar dos elementos do agregado familiar, maiores de 18 anos;
+
+h) Quando aplicável, regulação do poder paternal, certidão ou cópia das medidas de promoção e proteção emitido pela Comissão de Proteção de Crianças e Jovens e/ou Tribunal, devendo numa e noutra situação constar o valor da pensão de alimentos ou outra prestação a receber em função da atribuição da guarda da criança;
+
+i) Documentos comprovativos de todos os rendimentos auferidos por todos os elementos do agregado familiar, nomeadamente:
+
+I. Última declaração de rendimentos anuais (IRS) e respetiva nota de liquidação ou no caso de isenção de entrega, declaração comprovativa da situação, emitida pelo Serviço de Finanças;
+
+II. Recibos de vencimento ou declaração da entidade patronal onde conste o valor do vencimento mensal;
+
+III. Comprovativos de pensões, subsídios e/ou prestações sociais;
+
+IV. No caso de situação de desemprego declaração comprovativa da inscrição no Instituto do Emprego e Formação Profissional e do valor do subsídio auferido.
+
+2 - Todos os documentos mencionados no número anterior dos quais se solicitam fotocópias, não estão dispensados da apresentação, para verificação e imediata devolução, dos respetivos originais.
+
+3 - A candidatura só será validada, quando instruída com todos os elementos solicitados.
+
+###### Artigo 9.º — Análise da candidatura
+
+1 - Quando, na organização dos processos de candidatura, surjam dúvidas acerca dos elementos que nele constem, podem os serviços municipais competentes solicitar aos candidatos, por escrito, os esclarecimentos que entendam necessários, devendo estes ser prestados no prazo de 5 dias úteis a contar da data da receção da referida notificação.
+
+2 - Os serviços municipais competentes podem, ainda, em caso de dúvida em relação aos constituintes do processo de candidatura, realizar as diligências necessárias para confirmação dos referidos elementos.
+
+3 - Proceder-se-á a visitas domiciliárias, que poderão realizar-se na presença de qualquer um dos elementos do agregado familiar maior de idade, ou atendimentos nos respetivos serviços.
+
+###### Artigo 10.º — Forma de cálculo do valor do apoio ao arrendamento
+
+1 - O montante a atribuir a título de apoio ao arrendamento tem por base a determinação de um Valor de Cálculo, resultante da aplicação da seguinte fórmula:
+
+VC = (RML - Rm)/NEAF
+
+em que:
+
+VC - Valor de cálculo da fórmula
+
+RML - Rendimento Mensal Líquido
+
+Rm - Renda Mensal
+
+NEAF - Número de Elementos do Agregado Familiar
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/03/054000000/0029000297.pdf)
+
+2 - Em nenhuma situação, o apoio económico a atribuir poderá ultrapassar sessenta por cento (60 %) do valor mensal da renda.
+
+###### Artigo 11.º — Aprovação de candidaturas
+
+A aprovação das candidaturas é da competência do/a Presidente da Câmara Municipal ou do/a Vereador/a com competências delegadas, mediante proposta do serviço competente.
+
+###### Artigo 12.º — Forma de concessão do apoio
+
+1 - Após a aprovação da candidatura, o apoio económico será pago com efeitos ao mês seguinte, através de transferência bancária para a conta do senhorio da habitação, devendo para o efeito anexar-se ao processo os seguintes documentos:
+
+a) Declaração do candidato a autorizar que o apoio ao arrendamento seja pago diretamente ao proprietário da habitação (a fornecer pelo serviço);
+
+b) Número Internacional de Conta Bancária (IBAN) do proprietário da habitação arrendada, para onde deverá ser realizada a transferência do valor do apoio ao arrendamento.
+
+###### Artigo 13.º — Duração e renovação dos apoios
+
+1 - O apoio ao arrendamento será concedido por um período de doze meses, com possibilidade de renovação automática por iguais períodos, bem como de cessação, aumento ou redução a qualquer momento mediante parecer técnico do serviço e aprovação do/a Presidente da Câmara Municipal ou do/a Vereador/a com competências delegadas.
+
+2 - Para a renovação ou qualquer alteração ao valor do apoio ao arrendamento terão de ser apresentados os documentos comprovativos que se considerem necessários, com base no artigo 8.º do presente regulamento.
+
+3 - Sempre que se verifique qualquer condição que suscite a alteração do apoio pecuniário atribuído, os beneficiários da medida têm o dever de comunicar aos serviços municipais competentes, nomeadamente:
+
+a) Novo emprego ou desemprego de qualquer um dos elementos do agregado familiar;
+
+b) Primeiro emprego, nascimento, reforma, falecimento ou ausência de qualquer um dos elementos do agregado familiar;
+
+c) Qualquer outro rendimento ou condição suscetível de provocar alteração no valor do apoio.
+
+###### Artigo 14.º — Exclusão da candidatura ou cessação do apoio
+
+1 - A candidatura poderá ser excluída ou o apoio poderá ser cessado, a qualquer momento, mediante parecer técnico, nas seguintes situações:
+
+a) Quando o agregado familiar, deixe de reunir as condições de atribuição do apoio económico;
+
+b) Se verifique que foram omitidas informações ou mesmo prestadas falsas declarações por parte dos beneficiários;
+
+c) Caso exista hospedagem de elementos externos ao agregado familiar ou subarrendamento da habitação por parte dos beneficiários;
+
+d) Se verifique a impossibilidade de efetuar visita domiciliária, após devida notificação, por duas vezes seguidas e não seja apresentado motivo justificativo;
+
+e) Exista recusa, falta de comparência, quando solicitada, ou falta de entrega de elementos ou informações para esclarecimentos nos termos do presente regulamento, e não seja apresentado motivo justificativo.
+
+2 - Consideram-se motivos justificativos as seguintes situações, desde que devidamente comprovadas no prazo de 5 dias úteis:
+
+a) Doença própria ou de um elemento do agregado familiar a quem preste assistência;
+
+b) Exercício de atividade laboral ou realização de diligências com vista à sua obtenção;
+
+c) Cumprimento de obrigações legais;
+
+d) A não emissão, pelas entidades competentes, dos documentos solicitados dentro do prazo estipulado.
+
+###### Artigo 15.º — Relatório anual
+
+No final de cada ano civil os serviços competentes deverão elaborar um relatório acerca da medida municipal e dele darão conhecimento ao órgão executivo do município.
+
+###### Artigo 16.º — Casos omissos
+
+Os casos omissos ou que suscitem dúvidas, serão resolvidos pelo órgão executivo do Município de Grândola.
+
+###### Artigo 17.º — Norma revogatória
+
+Com a entrada em vigor do presente regulamento é revogado o Regulamento do Programa de Apoio ao Arrendamento do Município de Grândola, aprovado em reunião ordinária de Câmara Municipal de Grândola, realizada em 11 de setembro de 2017 e aprovado por unanimidade pela Assembleia Municipal em reunião de 19 de setembro de 2017.
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente regulamento entra em vigor no 1.º dia útil após a sua publicação, nos termos legais.
+
+4 de março de 2022. - O Presidente da Câmara, António de Jesus Figueira Mendes.
+
+## ANEXO I — Limites Máximos do Rendimento Mensal Liquido
+
+(multiplicar o coeficiente, pelo número de elementos do agregado familiar e pelo valor do Indexante dos Apoios Sociais em Vigor)
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/03/054000000/0029000297.pdf)
+
+## ANEXO II — Limites definidos por tipologia
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/03/054000000/0029000297.pdf)
+
+315085265

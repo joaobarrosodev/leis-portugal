@@ -1,0 +1,235 @@
+---
+schema_version: '1.0'
+id: pt:dre:114550475:por
+title: Regulamento n.º 49/2018
+short_title: null
+summary: Projeto de Regulamento Municipal de Incentivo à Natalidade - Cheque Bebé
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Vizela
+proposing_entity: null
+official_number: 49/2018
+official_date: null
+publication_date: '2018-01-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 14/2018, Série II de 2018-01-19
+  number: '14'
+  series: II
+  supplement: null
+  pages: 2627 - 2629
+  pdf_url: https://files.diariodarepublica.pt/2s/2018/01/014000000/0262702629.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '114550475'
+  dre_path: /dr/detalhe/regulamento/49-2018-114550475
+  internal: pt:dre:114550475:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/49-2018-114550475
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/49-2018-114550475
+  consolidated_url: null
+  retrieved_at: '2026-11-13T06:25:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e7ce840e3da9ecb677e054f3e8ec43789c2f964ea152c811c720b1e4520a0eb1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T06:25:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+article_structure:
+  article_count: 16
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T06:25:59Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 49/2018
+
+Consulta pública - Projeto de Regulamento Municipal de Incentivo à Natalidade - Cheque Bebé
+
+Victor Hugo Machado da Costa Salgado de Abreu, Presidente da Câmara Municipal de Vizela, torna público que, por deliberação tomada em reunião de Câmara Municipal de Vizela, de 12 de dezembro de 2017, foi aprovado o projeto de Regulamento Municipal de Incentivo à Natalidade - Cheque Bebé, tendo em vista a sua submissão a consulta pública nos termos do disposto no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro.
+
+O projeto de Regulamento Municipal de Incentivo à Natalidade - Cheque Bebé encontra-se disponível para consulta dos interessados na página da internet do Município de Vizela e nos serviços da Câmara Municipal, sitos na Praça do Município n.º 522, durante o respetivo horário de expediente.
+
+Durante o prazo de 30 dias, contados a partir da publicação deste aviso, no Diário da República, 2.ª série, poderão os interessados apresentar por escrito, nesta Câmara, as suas sugestões sobre o projeto de Regulamento Municipal de Incentivo à Natalidade - "Cheque Bebé".
+
+28 de dezembro de 2017. - O Presidente da Câmara, Victor Hugo Machado da Costa Salgado de Abreu.
+
+Regulamento Municipal de Incentivo à Natalidade - Cheque Bebé
+
+Nota Justificativa
+
+O envelhecimento populacional e a baixa taxa de natalidade do Pais, realidade não muito diferente da situação demográfica do concelho de Vizela, constitui presentemente uma preocupação social e política da maior importância para o Município, na medida em que, nas duas últimas décadas, entre os anos de 1998 (306 nascimentos) e de 2016 (197 nascimentos), verificou-se uma redução de cerca de 35 % dos nascimentos no concelho de Vizela.
+
+Considerando que desenvolvimento sustentado de uma determinada comunidade depende da sua capacidade de rejuvenescimento, entende-se que as políticas públicas devem ser coerentes com esse princípio, adotando, para isso, programas e/ou medidas que favoreçam esse rejuvenescimento populacional.
+
+Como agente fundamental de desenvolvimento e aplicação de políticas sociais, o Município de Vizela pretende, em conjunto com medidas implementadas a nível nacional, desenvolver estratégias de estímulo à natalidade e à fixação da população de modo a criar condições que favoreçam o bem-estar e a qualidade de vida dos munícipes.
+
+Fazendo uma ponderação dos custos e dos benefícios das medidas a implementar, verifica-se que os benefícios decorrentes da atribuição de apoios à natalidade, previstos no presente Regulamento, são manifestamente superiores aos custos que lhe estão associados, na medida em que a atribuição de apoios à natalidade permitirá a progressiva inserção social e a melhoria das condições de vida das populações, o que por consequência se espera num aumento da natalidade.
+
+Assim, nos termos do disposto no artigo 241.º da Constituição da República Portuguesa, nos artigos 96.º e seguintes do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 07 de janeiro, na alínea h) do n.º 2 do artigo 23.º, nas alíneas k) e u) do n.º 1 do artigo 33.º e na alínea g) do n.º 1 do artigo 25.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, é elaborado o Regulamento Municipal de Apoio à Natalidade - "Cheque Bebé".
+
+### Capítulo I — Disposições Gerais
+
+###### Artigo 1.º — Lei Habilitante
+
+O presente Regulamento é elaborado ao abrigo do disposto no artigo 241.º da Constituição da República Portuguesa, nos artigos 96.º e seguintes do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 07 de janeiro, na alínea h) do n.º 2 do artigo 23.º, nas alíneas k) e u) do n.º 1 do artigo 33.º e na alínea g) do n.º 1 do artigo 25.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro.
+
+###### Artigo 2.º — Âmbito
+
+O presente regulamento estabelece as normas de atribuição do incentivo à natalidade - "Cheque Bebé" no Município de Vizela.
+
+###### Artigo 3.º — Beneficiários
+
+São beneficiários os indivíduos isolados ou inseridos em agregados familiares, residentes e recenseados no Município de Vizela, desde que preencham os requisitos constantes do presente Regulamento.
+
+### Capítulo II — Apoios
+
+###### Artigo 4.º — Condições Gerais de Atribuição
+
+São condições de atribuição do incentivo à natalidade que:
+
+a) O/a requerente ou requerentes do direito ao incentivo residam no Município de Vizela, no mínimo, há um ano, contado da data do nascimento da criança e que estejam recenseados/as no Município nos seis meses anteriores à data do nascimento da mesma;
+
+b) A criança se encontre registada como natural do concelho de Vizela;
+
+c) A criança resida efetivamente com o/a requerente ou requerentes no concelho de Vizela;
+
+d) Que o/a requerente ou requerentes do direito ao incentivo não possuam quaisquer dívidas para com o Município, Finanças ou Segurança Social.
+
+###### Artigo 5.º — Legitimidade
+
+Tem legitimidade para requerer o incentivo previsto no presente Regulamento:
+
+a) Em conjunto, ambos os progenitores, caso sejam casados ou vivam em união de facto, nos termos da lei;
+
+b) O/a progenitor/a que, comprovadamente, tenha a guarda da criança;
+
+c) Qualquer pessoa singular a quem, por decisão judicial ou administrativa das entidades ou organismos legalmente competentes, a criança esteja confiada.
+
+###### Artigo 6.º — Incentivo à natalidade
+
+1 - O incentivo à natalidade efetua-se através da atribuição de um subsídio sempre que ocorra o nascimento de uma criança.
+
+2 - O valor do subsídio a atribuir é de (euro) 1.000,00, sendo que:
+
+a) (euro) 500,00 serão pagos em numerário em data a definir pela Câmara Municipal após a provação da candidatura;
+
+b) (euro) 500,00 serão pagos através de vouchers do "Cheque Bebé" a serem utilizados em despesas efetuadas na área do Município de Vizela, com a aquisição de bens e/ou serviços considerados indispensáveis ao desenvolvimento saudável e harmonioso da criança.
+
+3 - As despesas realizadas com o Cheque-Bebé devem ser efetuadas durante os primeiros dezoito meses de vida da criança.
+
+4 - As entidades aderentes deverão apresentar os vouchers do "Cheque-Bebé" junto com os comprovativos das compras realizadas pelo/s beneficiário/s, nos Serviços de Ação Social do Município de Vizela, até ao dia 10 do mês seguinte ao da realização da/s despesa/s, para que as mesmas sejam satisfeitas até ao final do mês em causa.
+
+###### Artigo 7.º — Despesas Elegíveis
+
+São elegíveis as despesas realizadas na área do Município de Vizela em bens e/ou serviços considerados indispensáveis ao desenvolvimento da criança, nomeadamente consultas médicas, medicamentos, artigos de higiene, puericultura, mobiliário, equipamento, alimentação, vestuário e calçado.
+
+### Capítulo III — Candidaturas
+
+###### Artigo 8.º — Candidatura
+
+O incentivo à natalidade é requerido através de impresso próprio, entregue nos Serviços de Balcão Único do Município, instruído com os seguintes documentos:
+
+a) Cópia da certidão de nascimento da criança ou documento comprovativo do registo da criança;
+
+b) Cópia do bilhete de identidade e do documento de identificação fiscal ou cartão de cidadão do/a requerente ou requerentes;
+
+c) Cópia do cartão de cidadão e/ou documento de identificação fiscal da criança;
+
+d) Atestado emitido pela Junta de Freguesia da área de residência do/a requerente ou requerentes, comprovando o cumprimento dos requisitos das alíneas a) e c) do artigo 4.º do presente Regulamento;
+
+e) Certidão de não dívida ao Município, às Finanças e à Segurança Social.
+
+###### Artigo 9.º — Prazo de Candidatura
+
+O incentivo à natalidade deverá ser requerido até 180 dias após o nascimento da criança, salvo no caso das situações previstas na alínea c) do artigo 5.º, nas quais o prazo se conta a partir da notificação das entidades competentes.
+
+###### Artigo 10.º — Análise das Candidaturas
+
+1 - As candidaturas destinadas à obtenção do subsídio deverão ser apresentadas no Serviço de Balcão Único do Município de Vizela, o qual verificará a regularidade formal das mesmas.
+
+2 - Os processos das candidaturas serão analisados pelo Serviço de Ação Social do Município de Vizela.
+
+###### Artigo 11.º — Decisão
+
+1 - Concluído o processo de candidatura, o Serviço de Ação Social elabora proposta de atribuição do respetivo subsídio a aprovar pela Câmara Municipal de Vizela.
+
+2 - O/a requerente ou requerentes serão informados por escrito da decisão que vier a recair sobre a candidatura.
+
+3 - Caso a proposta de decisão seja de indeferimento será promovida a necessária audiência dos interessados, nos termos do disposto no Código do Procedimento Administrativo.
+
+###### Artigo 12.º — Reclamações
+
+1 - Sendo indeferida a candidatura, o/a requerente ou requerentes podem reclamar no prazo de 10 dias úteis, a contar da data de notificação.
+
+2 - As reclamações deverão ser dirigidas ao Presidente da Câmara Municipal de Vizela.
+
+3 - Na eventualidade de haver reavaliação do processo, a decisão será comunicada ao requerente no prazo de 10 dias úteis.
+
+### Capítulo IV — Disposições Finais
+
+###### Artigo 13.º — Fiscalização
+
+O Município de Vizela poderá, em qualquer altura, requerer ou diligenciar pela obtenção, por qualquer meio, de prova idónea comprovativa das declarações apresentadas pelos requerentes.
+
+###### Artigo 14.º — Falsas Declarações
+
+1 - A prestação de falsas declarações por parte do/a requerente ou requerentes, tendo por fim a obtenção do subsídio a que se refere o presente Regulamento, implica, para além do respetivo procedimento criminal, a obrigatoriedade de devolução dos montantes recebidos, assim como a inibição da atribuição de outros subsídios ou apoios por um período de até 3 anos.
+
+2 - A prestação de falsas declarações por parte das empresas ou empresário/a na transação dos bens e/ou serviços, anula, para além de outras consequências previstas na lei, a colaboração com o Município de Vizela no âmbito do presente incentivo.
+
+###### Artigo 15.º — Dúvidas e omissões
+
+As dúvidas e omissões serão resolvidas por deliberação da Câmara Municipal de Vizela.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente Regulamento entra em vigor no dia seguinte ao da sua publicação e produz efeitos desde o dia 01 de janeiro de 2018.
+
+311030022

@@ -1,0 +1,237 @@
+---
+schema_version: '1.0'
+id: pt:dre:223206445:por
+title: Regulamento n.º 1137/2023
+short_title: null
+summary: Torna pública a aprovação do Regulamento do Cartão Municipal de Família Numerosa
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Arcos de Valdevez
+proposing_entity: null
+official_number: 1137/2023
+official_date: null
+publication_date: '2023-10-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 206/2023, Série II de 2023-10-24
+  number: '206'
+  series: II
+  supplement: null
+  pages: 240 - 243
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/10/206000000/0024000243.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '223206445'
+  dre_path: /dr/detalhe/regulamento/1137-2023-223206445
+  internal: pt:dre:223206445:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1137-2023-223206445
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1137-2023-223206445
+  consolidated_url: null
+  retrieved_at: '2026-11-13T07:48:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c12a61fe28dfd66a596a68c273aa3bb36aa09dc5928f0269f854a4aa87b9fb7e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T07:48:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:212694426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T07:48:12Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 1137/2023
+
+Regulamento do Cartão Municipal de Família Numerosa
+
+Preâmbulo
+
+O concelho de Arcos de Valdevez, à semelhança de outros concelhos do País, tem vindo a assistir a um decréscimo da sua população, sobretudo da população mais jovem, devido à diminuição da taxa de natalidade.
+
+Neste contexto, é objetivo do executivo Municipal, promover incentivos que conduzam ao aumento da natalidade, à fixação de pessoas no território e à melhoria das condições de vida das famílias residentes, designadamente das famílias numerosas.
+
+O Município reconhece a importância e a necessidade de apoiar, social e economicamente, as famílias numerosas, pelo contributo demográfico que estas prestam à sociedade no aumento do número de nascimentos e na renovação geracional.
+
+Em face do exposto o Município de Arcos de Valdevez, decidiu apoiar as famílias numerosas residentes no concelho, conferindo-lhes a possibilidade de aceder a um conjunto de serviços, a custos mais reduzidos, cooperando, apoiando e estimulando, desta forma, o seu bem-estar, equilíbrio e desenvolvimento integral.
+
+O projeto de Regulamento foi submetido a um período de consulta pública, nos termos do disposto no artigo 101.º do Código do procedimento Administrativo, pelo prazo de 30 dias, tendo, para o efeito, sido publicado no Diário da República, 2.ª série, n.º 88, de 8 de maio de 2023, através do [Edital n.º 697/2023](https://diariodarepublica.pt/dr/detalhe/edital/697-2023-212694426), tendo sido acolhidas duas sugestões apresentadas sobre o mesmo.
+
+Assim, nos termos do disposto no artigo 241.º da Constituição da República Portuguesa e ao abrigo das competências previstas nas alíneas g) do n.º 1 do artigo 25.º e k) do n.º 1 do artigo 33.º, ambos do Anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na sua atual redação, e por proposta da Câmara Municipal, aprovada na sua reunião de 7 de setembro de 2023, a Assembleia Municipal de Arcos de Valdevez, na sua sessão ordinária de 29 de setembro de 2023, aprovou o seguinte Regulamento do Cartão Municipal de Família Numerosa:
+
+###### Artigo 1.º — Âmbito
+
+Pelo presente é regulamentado o Cartão Municipal de Família Numerosa do Concelho de Arcos de Valdevez, que estabelece as regras de adesão e utilização do referido cartão, bem como as diversas regalias.
+
+###### Artigo 2.º — Objetivos
+
+São objetivos do Cartão Municipal de Família Numerosa contribuir para a dignificação e melhoria das condições de vida das famílias numerosas, estimulando o rejuvenescimento geracional e promovendo a coesão social e a sua participação ativa nas atividades da comunidade.
+
+###### Artigo 3.º — Condições de atribuição
+
+1 - O Cartão Municipal de Família Numerosa destina-se às famílias residentes em Arcos de Valdevez, quer sejam famílias monoparentais, quer sejam famílias compostas por cônjuges ou pessoas que vivam em união de facto e que tenham a seu cargo três ou mais menores não emancipados.
+
+2 - Consideram-se menores não emancipados aqueles que estejam na dependência económica exclusiva da família, quer sejam filhos, enteados, tutelados menores e confiados por decisão judicial ou por medidas de promoção e proteção.
+
+###### Artigo 4.º — Organização processual
+
+1 - O Cartão Municipal de Família Numerosa é emitido pela Município de Arcos de Valdevez, a cada um dos membros do agregado familiar, sendo pessoal e intransmissível.
+
+2 - O Cartão Municipal da Família Numerosa é obtido, gratuitamente, junto do Serviço Municipal de Ação Social do Município de Arcos de Valdevez, mediante o preenchimento de formulário especialmente destinado para o efeito.
+
+###### Artigo 5.º — Documentação instrutória
+
+1 - Os pedidos serão instruídos com a seguinte documentação:
+
+a) Formulário de candidatura devidamente preenchido;
+
+b) Dados de Identificação (conforme bilhete de identidade ou cartão de cidadão) de todos os elementos do agregado familiar;
+
+c) Declaração da Junta de Freguesia atestando a residência no concelho, bem como a composição do agregado familiar;
+
+d) Fotografia de todos os membros do agregado familiar.
+
+2 - O Município reserva-se no direito de solicitar informação e documentos adicionais sempre que o respetivo Serviço Municipal de Ação Social, o considere necessário para análise do processo.
+
+###### Artigo 6.º — Análise prévia
+
+1 - Recebido o pedido de candidatura, o Serviço Municipal de Ação Social verifica se o mesmo está instruído com toda a documentação necessária.
+
+2 - Ocorrendo a falta de algum destes documentos ou sendo necessário documentos complementares, o Serviço Municipal de Ação Social comunica ao/à requerente os documentos em falta e determinam a sua apresentação num prazo de 10 dias.
+
+3 - Não sendo apresentados os documentos nos termos do número anterior, o Serviço Municipal de Ação Social fica impedido de dar seguimento ao procedimento, em obediência ao disposto no artigo 91.º, n.º 3, do Código do Procedimento Administrativo.
+
+4 - O Serviço Municipal de Ação Social elabora uma informação sobre o enquadramento do pedido, nos termos do presente regulamento para apreciação da Câmara Municipal.
+
+5 - Se a apreciação for favorável, será notificado/a o/a requerente e emitido o respetivo cartão.
+
+6 - Se a apreciação for desfavorável será notificado/a o/ requerente para se pronunciar nos termos do Código do Procedimento Administrativo no prazo de 10 dias.
+
+###### Artigo 7.º — Benefícios do Cartão Municipal de Família Numerosa
+
+1 - O Cartão Municipal de Família Numerosa atribui aos/às seus/suas titulares os seguintes benefícios, por agregado familiar:
+
+a) Redução de 50 % no valor das refeições escolares a pagar pelo aluno;
+
+b) Redução em 50 % do valor dos encargos com o prolongamento do horário das crianças que frequentam o pré-escolar da rede pública;
+
+c) Redução em 50 % nas entradas para os espetáculos culturais, desportivos, recreativos e outros organizados pelo Município de Arcos de Valdevez;
+
+d) Redução em 30 % nas entradas nas piscinas municipais e outros equipamentos desportivos municipais;
+
+e) Redução em 50 % no valor das taxas devidas para licenças e autorizações para execução de obras particulares, quando se trate de primeira habitação;
+
+f) Acesso à tarifa familiar de água e saneamento mediante a apresentação do cartão família;
+
+g) Outros benefícios que venham a ser objeto de deliberação da Câmara Municipal.
+
+2 - Os portadores do Cartão Municipal de Família Numerosa poderão também ter acesso a outros benefícios proporcionados por entidades parceiras que adiram ao projeto, as quais deverão, para o efeito, efetuar um pedido de adesão por escrito, identificando a entidade e o desconto que se propõe atribuir, competindo à Câmara Municipal de Arcos de Valdevez decidir sobre a celebração de protocolos ou acordos de parceria com as mesmas.
+
+3 - Os benefícios proporcionados pelo Cartão Municipal de Família Numerosa serão publicitados na página eletrónica da Câmara Municipal de Arcos de Valdevez.
+
+###### Artigo 8.º — Obrigações dos utilizadores
+
+Constituem obrigações dos/as beneficiários/as:
+
+a) Informar previamente o Município de Arcos de Valdevez, da mudança de residência;
+
+b) Informar, o Município de Arcos de Valdevez da mudança na composição do agregado familiar, bem como todas as circunstâncias verificadas, posteriormente, e que alterem, significativamente, a sua condição enquanto beneficiário/a;
+
+c) Devolver os cartões ao Município de Arcos de Valdevez, sempre que perca o direito aos mesmos.
+
+###### Artigo 9.º — Cessação do direito à utilização do Cartão Municipal de Família Numerosa
+
+1 - Constituem, causas de cessação imediata dos benefícios do Cartão Municipal de Família Numerosa:
+
+a) A prestação, pelos/as beneficiários/as ou seus representantes, de falsas declarações no processo de candidatura;
+
+b) A não apresentação, de documentos solicitados pelo Serviço Municipal de Ação Social, nos prazos fixados;
+
+c) A alteração ou transferência de residência, salvo por motivo de força maior devidamente comprovado, designadamente por doença prolongada;
+
+d) A não participação, por escrito, de qualquer alteração ao agregado familiar, nos 30 dias subsequentes à data em que ocorreu a referida alteração;
+
+e) A utilização do cartão por elementos que não integram o agregado.
+
+2 - Nos casos a que se refere as alíneas anteriores, o Município de Arcos de Valdevez reserva-se o direito de exigir dos/as beneficiários/as ou daqueles/as a cargo de quem se encontra, a restituição dos benefícios, já pagos, bem como de adotar os procedimentos legais julgados adequados.
+
+###### Artigo 10.º — Validade do Cartão Municipal de Família Numerosa
+
+1 - O Cartão Municipal de Família Numerosa é válido por dois anos, e renovar-se-á a pedido do interessado, até 30 dias antes do término de validade do respetivo cartão e mediante apresentação de requerimento de renovação, a fornecer pelos serviços do Município de Arcos de Valdevez.
+
+2 - Todos os elementos do agregado familiar têm direito à renovação do cartão, caso mantenham todas as condições previstas nos números anteriores.
+
+###### Artigo 11.º — Extravio
+
+1 - Em caso de roubo ou perda do cartão, este facto deve ser, de imediato, comunicado ao Município de Arcos de Valdevez.
+
+2 - A responsabilidade do/a titular cessa após a comunicação, por escrito, da ocorrência.
+
+###### Artigo 12.º — Do compromisso
+
+1 - A atribuição do Cartão Municipal de Família Numerosa implica a aceitação do presente regulamento.
+
+2 - O desconhecimento deste regulamento não poderá ser invocado para justificar o não cumprimento das suas disposições.
+
+###### Artigo 13.º — Dúvidas e omissões
+
+Cabe à Câmara Municipal de Arcos de Valdevez resolver, mediante deliberação, todas as dúvidas e omissões que possam surgir.
+
+###### Artigo 14.º — Alterações ao Regulamento
+
+Este regulamento poderá sofrer, a todo o tempo e em termos legais, as alterações consideradas indispensáveis.
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente regulamento entra em vigor no primeiro dia útil a seguir ao da sua publicação no Diário da República.
+
+9 de outubro de 2023. - O Presidente da Câmara Municipal, João Manuel do Amaral Esteves.
+
+316934211

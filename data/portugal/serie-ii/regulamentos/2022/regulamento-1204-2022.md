@@ -1,0 +1,247 @@
+---
+schema_version: '1.0'
+id: pt:dre:205378535:por
+title: Regulamento n.º 1204/2022
+short_title: null
+summary: Aprovação do Regulamento de Atribuição de Subsídios em vigor na União das Freguesias de Tavira (Santa Maria e Santiago)
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- União das Freguesias de Tavira (Santa Maria e Santiago)
+proposing_entity: null
+official_number: 1204/2022
+official_date: null
+publication_date: '2022-12-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 249/2022, Série II de 2022-12-28
+  number: '249'
+  series: II
+  supplement: null
+  pages: 433 - 436
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/12/249000000/0043300436.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '205378535'
+  dre_path: /dr/detalhe/regulamento/1204-2022-205378535
+  internal: pt:dre:205378535:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1204-2022-205378535
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1204-2022-205378535
+  consolidated_url: null
+  retrieved_at: '2026-11-13T07:32:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: dd0f1dee81c4e65711ec6426428828514ef717283c02a7a9234b67744a13da96
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T07:32:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:288977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563036:por
+  label: null
+  source: null
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T07:32:56Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 1204/2022
+
+Regulamento de Atribuição de Subsídios
+
+De acordo com a atual legislação, nomeadamente, a alínea f), do n.º1, do artigo 9.º e alínea h), do n.º 1 do artigo 16.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, que estabelece o regime jurídico das autarquias locais, deve esta matéria ser objeto de Regulamento, cuja aprovação compete à Assembleia de Freguesia sob proposta da União das Freguesias.
+
+À Junta de Freguesia compete, também, apoiar atividades de natureza social, cultural, educativa, desportiva, recreativa ou outra de interesse para a freguesia e deliberar sobre as formas de apoio a entidades e organismos legalmente existentes, nomeadamente com vista à execução de obras ou à realização de eventos de interesse para a freguesia, bem como à informação e defesa dos direitos dos cidadãos, nos temos previstos nas alíneas v) e o) do n.º 1 do artigo 16.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro.
+
+Nesta conformidade, e no uso da competência conferida pela legislação suprarreferida, vem a Junta de Freguesias de Tavira (Santa Maria e Santiago), definir as regras para implementação do programa de apoio à realização de atividades, pelas associações/coletividades sem fins lucrativos, de índole socioeconómico, cultural, ambiental, desportivo, recreativo ou de outra natureza, desde que contribua para o desenvolvimento da Freguesia, e, elaborar o presente Regulamento.
+
+Assim, propõe o Executivo da Junta de Freguesia de Tavira (Santa Maria e Santiago), ao abrigo do disposto no artigo 241.º da Constituição da República Portuguesa e de acordo com a alínea h) do n.º 1 do artigo 16.º e alínea f) do n.º 1 do artigo 9.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023) de 12 de setembro, o presente Regulamento de Atribuição de Subsídios da Junta de Freguesia de Tavira (Santa Maria e Santiago).
+
+###### Artigo 1.º — Objeto e âmbito de aplicação
+
+1 - O presente regulamento tem por objeto a determinação dos procedimentos e critérios no âmbito dos apoios a conceder pela Junta de Freguesia de Tavira (Santa Maria e Santiago) às entidades e organismos.
+
+2 - Consideram-se entidades e organismos, designadamente: Associações, Coletividades, Instituições Particulares de Solidariedade Social e outras que prossigam fins de interesse público.
+
+3 - Excecionam-se do âmbito do presente regulamento as entidades com protocolo específico.
+
+###### Artigo 2.º — Apoios
+
+Para efeitos do presente Regulamento, os apoios podem revestir a forma de apoio financeiro, bens materiais ou apoio logístico, compreendendo este último a cedência de meios, humanos, materiais e serviços, para desenvolverem as atividades por elas propostas nos planos de atividades.
+
+###### Artigo 3.º — Atribuição dos apoios
+
+1 - Podem solicitar ou ser contemplados nos apoios previstos no presente Regulamento as entidades e organismos:
+
+a) Com sede na freguesia;
+
+b) Excecionalmente, quando não sediadas na freguesia, prestem apoio efetivo a cidadãos desta freguesia ou contribuam de forma inequívoca para o desenvolvimento da freguesia;
+
+c) que apresentem o relatório de atividades e contas bem como o plano de atividades e orçamento.
+
+d) Tenham a situação dos órgãos sociais regularizada de acordo com os seus estatutos ou regulamentos internos;
+
+e) Sejam titulares de declaração de não dívida das Finanças a que se reporta o artigo 3.º do [Decreto-Lei n.º 236/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1995-563036), de 13 de setembro;
+
+f) Sejam titulares de declaração comprovativa da situação contributiva perante a Segurança Social a que se reporta o n.º 1 do artigo 14.º do [Decreto-Lei n.º 411/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1991-288977), de 17 de outubro;
+
+g) Não estejam em situação litigiosa ou de incumprimento para com a Freguesia.
+
+2 - Os apoios solicitados podem ter as seguintes finalidades:
+
+a) Apoio à realização de atividades previstas no Plano Anual;
+
+b) Apoio a investimentos;
+
+c) Apoio a atividades ou eventos específicos;
+
+d) Apoio Logístico.
+
+###### Artigo 4.º — Apoio à realização de atividades previstas no Plano Anual
+
+1 - Todos os apoios previstos serão concedidos a atividades previstas num Plano Anual de Atividades, acompanhado do respetivo orçamento, a apresentar pelos interessados, desde que devidamente enquadradas num espírito de interesse público.
+
+2 - O referido apoio deve refletir a capacidade de envolver membros da comunidade e o impacto na comunidade, reservando-se a Junta de Freguesia de Tavira (Santa Maria e Santiago) o direito de considerar os seguintes critérios:
+
+a) Número de praticantes, modalidades e pessoas envolvidas;
+
+b) Contribuição para a valorização pessoal, humana e social das pessoas envolvidas;
+
+c) Fomento de novas modalidades desportivas e apoio à formação e criação artística ou cultural;
+
+d) Impactos diretos para a economia ou desenvolvimento da freguesia, nomeadamente, afluência de visitantes, divulgação da cultura local, preservação das tradições;
+
+e) Adequação da resposta às necessidades da comunidade e número de beneficiários a atingir.
+
+###### Artigo 5.º — Apoios a investimentos
+
+A definição dos apoios financeiros às entidades que pretendam investir na construção ou na aquisição de bens terá em conta o impacto do investimento no desenvolvimento da freguesia considerando, nomeadamente, os seguintes critérios:
+
+a) Adequação da resposta às necessidades da comunidade e número de beneficiários a atingir;
+
+b) Qualidade, consistência do projeto, bem como a intervenção continuada nas áreas de atividade a que se destina;
+
+###### Artigo 6.º — Apoio a atividades ou eventos específicos
+
+A definição dos apoios financeiros a atribuir às entidades para atividades ou eventos específicos terá em conta o impacto da atividade ou evento no plano cultural, desportivo ou outro relevante, da freguesia ou concelho considerando, nomeadamente, os seguintes critérios:
+
+a) Número de praticantes, modalidades e pessoas envolvidas;
+
+b) Contribuição para a valorização pessoal, humana e social das pessoas envolvidas;
+
+c) Fomento de novas modalidades desportivas e apoio à formação e criação artística ou cultural;
+
+d) Impactos diretos para a economia ou desenvolvimento da freguesia, nomeadamente, afluência de visitantes, divulgação da cultura local, preservação das tradições;
+
+e) Adequação da resposta às necessidades da comunidade e número de beneficiários a atingir.
+
+###### Artigo 7.º — Apoio Logístico
+
+1 - O apoio logístico deve ser solicitado por escrito com uma antecedência mínima de 30 dias, relativamente à data prevista da sua efetiva disponibilização, devendo especificar a sua finalidade, localização e período de utilização.
+
+2 - Estes apoios dependem da disponibilidade dos meios solicitados, em estreita consonância com os serviços municipais.
+
+###### Artigo 8.º — Pedido e atribuição dos apoios
+
+1 - As entidades que pretendam beneficiar dos apoios previstos nos artigos 5.º e 6.º deste Regulamento devem solicitá-lo através de requerimento, em formulário próprio, dirigido à Junta de Freguesia onde constem as seguintes informações:
+
+a) Identificação da entidade requerente;
+
+b) Descrição dos objetivos e finalidade da candidatura e seus beneficiários;
+
+c) Especificação do apoio pretendido;
+
+d) Previsão dos custos totais do projeto ou ação em causa, bem como de outras comparticipações quando aplicável;
+
+2 - Só os membros da direção em plenas funções representam, perante este regulamento, as respetivas entidades.
+
+3 - Na apreciação do pedido podem ser solicitados documentos ou informações adicionais.
+
+4 - A atribuição dos subsídios será efetuada através de deliberação da Junta de Freguesia, tendo em conta os critérios definidos no presente Regulamento e em função da disponibilidade orçamental.
+
+###### Artigo 9.º — Contratualização de apoios
+
+1 - Informada a associação sobre a apreciação final da sua candidatura a mesma deverá entregar à Junta de Freguesia para além dos documentos atualizados que compuseram a candidatura, uma declaração, na qual atesta, sob compromisso de honra, o cumprimento dos objetivos justificativos do apoio concedido e a utilização da comparticipação financeira adequada a esses fins.
+
+2 - Qualquer incumprimento do compromisso referido no número anterior condicionará a atribuição de novos subsídios e obriga ao ressarcimento pela associação do montante financeiro concedido, para além da sua responsabilização nos termos gerais.
+
+3 - O subsídio deverá ser levantado até ao dia 31 de dezembro do ano civil em que foi atribuído sob pena da sua caducidade.
+
+###### Artigo 10.º — Falsas declarações
+
+1 - As associações ou grupos pontuais que, dolosamente, prestem falsas declarações com o intuito de receberem montantes indevidos terão de devolver as importâncias indevidamente já recebidas.
+
+2 - Em casos de extrema gravidade, a Assembleia de Freguesia poderá fazer acrescer à penalização prevista no número anterior, a proibição, entre um e cinco anos, de recebimento de qualquer importância por parte da Junta de Freguesia de Tavira (Santa Maria e Santiago).
+
+3 - A sanção acessória constante do número anterior, poderá ser revista pela Assembleia de Freguesia, sob proposta da Junta de Freguesia, sempre que ocorrerem circunstâncias excecionais que o justifiquem, nomeadamente a mudança dos órgãos diretivos das Entidades.
+
+###### Artigo 11.º — Casos Omissos
+
+Os casos omissos no presente Regulamento serão resolvidos pela Junta de Freguesia e Assembleia de Freguesia, respetivamente.
+
+###### Artigo 12.º — Entrada em vigor, duração e publicitação
+
+1 - O presente Regulamento poderá ser revisto pelo Executivo da freguesia e aprovado pela Assembleia de Freguesia, sempre que tal se revele necessário, sem prejuízo dos direitos adquiridos em relação ao ano a decorrer;
+
+2 - O presente regulamento entra em vigor após a sua publicação no Diário da República;
+
+3 - Todas as Associações, Coletividades e Instituições Particulares de Solidariedade Social serão informadas deste Regulamento.
+
+Aprovado pelo Executivo da Junta em 21/11/2022
+
+Aprovado pela Assembleia de Freguesia em 30/11/2022
+
+13 de dezembro de 2022. - O Presidente da Junta de Freguesia, José Mateus Domingos Costa.
+
+Tabela de subsídios
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/12/249000000/0043300436.pdf)
+
+315966449

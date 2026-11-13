@@ -1,0 +1,226 @@
+---
+schema_version: '1.0'
+id: pt:dre:923290446:por
+title: Regulamento n.º 784/2025
+short_title: null
+summary: Aprovação do Regulamento de Atribuição de Bolsas de Estudo.
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Freguesia de Alhadas
+proposing_entity: null
+official_number: 784/2025
+official_date: null
+publication_date: '2025-07-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 125/2025, Série II de 2025-07-02
+  number: '125'
+  series: II
+  supplement: null
+  pages: 492 - 498
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/07/125000000/0049200498.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '923290446'
+  dre_path: /dr/detalhe/regulamento/784-2025-923290446
+  internal: pt:dre:923290446:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/784-2025-923290446
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/784-2025-923290446
+  consolidated_url: null
+  retrieved_at: '2026-11-13T08:22:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1f3db91cd316672a7771f96b9e74f1b487c9696eb926bb89d0a352e88ef869af
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T08:22:32Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T08:22:32Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 784/2025
+
+Regulamento de Atribuição de Bolsas de Estudo
+
+Preâmbulo
+
+O presente Regulamento tem como finalidade minimizar, por parte da Junta de Freguesia de Alhadas, as dificuldades económicas sentidas pelos agregados familiares da Freguesia. Ao proporcionar este incentivo aos estudantes, a Junta de Freguesia pretende contribuir para o desenvolvimento educacional, através da atribuição de Bolsas de Estudo a estudantes do Ensino Superior.
+
+###### Artigo 1.º — Âmbito
+
+O presente Regulamento estabelece as normas de atribuição de Bolsas de Estudo, por parte da Junta de Freguesia, a estudantes residentes na Freguesia, matriculados em estabelecimentos de Ensino Superior.
+
+###### Artigo 2.º — Objetivos
+
+A atribuição de Bolsas de Estudo tem por objetivo apoiar os alunos, com aproveitamento escolar, a dar continuidade aos estudos.
+
+###### Artigo 3.º — Objeto
+
+1 - Estão contemplados, pelo presente Regulamento, os cursos ministrados em estabelecimentos de ensino superior, devidamente homologados pelo Ministério da Educação.
+
+2 - Para efeitos do número anterior são considerados:
+
+a) Licenciatura;
+
+b) Mestrado;
+
+c) Doutoramento.
+
+###### Artigo 4.º — Condições das Bolsas de Estudo
+
+1 - As Bolsas de Estudo são concedidas pela Junta de Freguesia e pagas através de transferência bancária ou dinheiro no valor anual de 150,00 € (cento e cinquenta euros).
+
+2 - O valor mencionado no número anterior será pago em duas mensalidades, uma em cada semestre.
+
+3 - O número de Bolsas de Estudo atribuídas será calculado de acordo com o valor disponível anualmente no orçamento da Junta de Freguesia.
+
+4 - A atribuição das Bolsas de Estudo será feita de forma imparcial tendo em conta as regras para atribuição das mesmas.
+
+###### Artigo 5.º — Condições de Admissão
+
+1 - São condições de admissão:
+
+a) Agregado familiar residente na Freguesia;
+
+b) Não possuir outro curso de ensino superior;
+
+c) Prova de carência de recursos económicos para início ou prosseguimento dos estudos;
+
+d) Apresentar toda a documentação solicitada.
+
+###### Artigo 6.º — Processo de Candidatura
+
+1 - Deverá ser preenchido, obrigatoriamente, o formulário de candidatura, conforme Anexo I deste Regulamento, e entregue nos serviços administrativos da Junta de Freguesia, juntamente com a seguinte documentação:
+
+a) Cartão de Cidadão;
+
+b) Comprovativo de IBAN;
+
+c) Declaração e nota de liquidação do IRS do agregado familiar;
+
+d) Certificado de matrícula ou comprovativo de admissão ao curso;
+
+e) Certificado de aproveitamento escolar no último ano letivo frequentado na universidade;
+
+f) Declaração do Rendimento Social de Inserção, se for o caso, emitido pelo Centro Distrital de Segurança Social de Coimbra, onde conste a composição do agregado familiar, o valor da prestação e os rendimentos para efeito de cálculo da mesma.
+
+2 - Os candidatos poderão ainda juntar todos os elementos adicionais que considerem relevantes à análise da sua situação económica e familiar.
+
+3 - As candidaturas deverão ser entregues até 30 de outubro salvo casos excecionais, que serão posteriormente analisados pelo Executivo da Junta de Freguesia.
+
+###### Artigo 7.º — Processo de Seleção
+
+1 - A análise e seleção da atribuição das Bolsas de Estudo é efetuada pelo Executivo da Junta de Freguesia.
+
+2 - Poderá o Executivo da Junta de Freguesia considerar fundamental para análise das candidaturas, recorrer à realização de entrevistas por forma a esclarecer qualquer questão relacionada com a situação económica apresentada por cada aluno.
+
+3 - Em caso de igualdade, será tido em conta a data de entrada da candidatura.
+
+4 - A Junta de Freguesia reserva-se no direito de não conceder, no todo ou em parte, as bolsas, quando devidamente fundamentado.
+
+5 - Após serem analisadas as candidaturas é elaborada a lista final das bolsas atribuídas que será divulgada nos locais de estilo da Freguesia e no site da mesma (www.jf-alhadas.pt).
+
+###### Artigo 8.º — Cessação do Direito às Bolsas de Estudo
+
+1 - Constituem motivos de exclusão do processo e de cessação imediata das bolsas, nomeadamente:
+
+a) O testemunho à Junta de Freguesia, pelo bolseiro ou seu representante, de falsas declarações;
+
+b) A desistência do curso ou a interrupção da atividade escolar;
+
+c) A mudança de residência do agregado familiar para outra Freguesia;
+
+d) A falta de cumprimento das demais obrigações a que fica vinculado pela aceitação da bolsa e deste Regulamento.
+
+###### Artigo 9.º — Renovação das Bolsas de Estudo
+
+1 - As bolsas poderão ser renovadas, mediante deliberação da Junta de Freguesia, sendo condição para a renovação anual:
+
+a) Aproveitamento escolar no ano anterior, a comprovar através da apresentação do documento das classificações obtidas na avaliação final de cada ano.
+
+2 - O pedido de renovação das bolsas deverá ser formalizado em impresso próprio fornecido pela Junta de Freguesia, conforme Anexo II do presente Regulamento, devendo o mesmo ser entregue até 30 de outubro de cada ano.
+
+3 - Não serão aceites os pedidos de renovação que não forem devidamente justificados, ou não derem entrada nesta Junta de Freguesia dentro do prazo estabelecido na alínea anterior ou ainda não estiverem devidamente formalizados.
+
+###### Artigo 10.º — Disposições Finais
+
+O não cumprimento das obrigações por parte do candidato não pode ser justificado com o desconhecimento deste Regulamento.
+
+###### Artigo 11.º — Dúvidas e Omissões
+
+As dúvidas de interpretação, bem como as omissões do presente Regulamento, serão resolvidas mediante deliberação do Executivo da Junta de Freguesia de Alhadas.
+
+###### Artigo 12.º — Considerações Finais
+
+O presente Regulamento será objeto de alteração sempre que tal se revele necessário para um correto e eficiente funcionamento da atribuição de bolsas de estudo pela Junta de Freguesia de Alhadas.
+
+###### Artigo 13.º — Entrada em Vigor
+
+O presente Regulamento entra em vigor, nos termos do artigo 56.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, após publicação no Diário da República, edital afixado nos locais de estilo da Freguesia e no sítio da Internet da Junta de Freguesia.
+
+Este Regulamento foi aprovado em reunião do Órgão Executivo e Deliberativo da Junta de Freguesia de Alhadas, ao abrigo do disposto na alínea h) do n.º 1 do artigo 16.º do Anexo I da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro.
+
+26 de junho de 2025. - O Presidente, Jorge Manuel Bugalho da Silva.
+
+## ANEXO I — Requerimento Candidatura Bolsa Estudo
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/923290446/923290350.png) |
+| --- |
+
+## ANEXO II — Requerimento Renovação Bolsa Estudo
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/923290446/923290351.png) |
+| --- |
+
+## ANEXO III — Declaração de Responsabilidade
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/923290446/923290352.png) |
+| --- |
+
+319227143

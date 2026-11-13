@@ -1,0 +1,447 @@
+---
+schema_version: '1.0'
+id: pt:dre:2056724:por
+title: Regulamento n.º 344/2011
+short_title: null
+summary: Regulamento Municipal de Venda de Lotes de Terreno da Zona Oficinal de Santa Marta de Penaguião
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Santa Marta de Penaguião
+proposing_entity: null
+official_number: 344/2011
+official_date: null
+publication_date: '2011-05-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/2011, Série II de 2011-05-20
+  number: '98'
+  series: II
+  supplement: null
+  pages: 21983 - 21987
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/05/098000000/2198321987.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2056724'
+  dre_path: /dr/detalhe/regulamento/344-2011-2056724
+  internal: pt:dre:2056724:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/344-2011-2056724
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/344-2011-2056724
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:01:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6927a1ab94fb754029ebe6d7e84d0b1fabbc99a9df17cb0cc33c28ea46c72b3e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:01:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:612626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+article_structure:
+  article_count: 27
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:01:35Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 344/2011
+
+Francisco José Guedes Ribeiro, Presidente da Câmara Municipal de Santa Marta de Penaguião:
+
+Faz público, a Assembleia Municipal de Santa Marta de Penaguião, na sua sessão ordinária realizada no dia 29 de Abril de 2011, sob proposta da Câmara Municipal tomada em reunião ordinária realizada em 18 de Abril de 2011 aprovou, o "Regulamento de Venda de Lotes de Terreno da Zona Oficinal de Santa Marta de Penaguião", que entrará em vigor após a publicação no Diário da República.
+
+Para constar e produzir efeitos legais se publica este e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+
+5 de Maio de 2011. - O Presidente da Câmara, Francisco José Guedes Ribeiro.
+
+Preâmbulo
+
+O Concelho de Santa Marta de Penaguião apesar de apresentar condições naturais e humanas de excelência, tem até à presente data uma grande carência estrutural ao nível empresarial. Perante esta realidade o Município na prossecução dos seus objectivos no âmbito do desenvolvimento integrado do Concelho apostou numa iniciativa sem precedentes, ou seja, na criação de uma nova área de localização oficinal, permitindo às empresas uma escolha de localização, que representa muito mais do que o espaço físico para as suas instalações, representa acima de tudo uma aposta numa lógica empreendedora em que os factores, qualidade, inovação e respeito pelo meio ambiente estão bem presentes.
+
+A ZOSMP - Zona Oficinal de Santa Marta de Penaguião, situada junto da EN2, beneficia de uma grande proximidade a Vila Real/Régua/Lamego promovida na sua essência pelo IP3/A24 que entronca com o IP4, na cidade de Vila Real, e de uma articulação com a rede de acessibilidades à Espanha, constituindo-se desta forma um projecto ajustado aos novos imperativos de ordenamento do território e de qualificação ambiental, que tem como escopo criar condições que melhorarem a competitividade das empresas, nomeadamente através da exploração de sinergias ou de economias de escala.
+
+No intuito de se promover uma adequada politica de fomento empresarial na ZOSMP, por forma a que esta possa vir a contribuir para o efectivo desenvolvimento económico do Município, procura-se através do presente regulamento, a assunção de um papel regulador no que concerne aos critérios de alienação e atribuição de lotes da Zona Oficinal.
+
+Nos termos do preceituado neste regulamento, o procedimento conducente à alienação de lotes decorrerá em uma única fase. Será aberta a todos os interessados, consistirá fundamentalmente na formalização das candidaturas mediante a apresentação de um rigoroso processo que consubstancia a entrega de um Requerimento, um Formulário de Candidatura, uma memória descritiva do projecto de investimento, "curriculum" do promotores/empresas e declarações comprovativas da regularização da sua situação contributiva perante a Segurança Social e a Administração Fiscal.
+
+Regulamento de Venda de Lotes de Terreno da Zona Oficinal de Santa Marta de Penaguião
+
+### CAPÍTULO I — Disposições Gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente regulamento estabelece as normas disciplinadoras e as condições que regem a alienação e utilização dos lotes que integram a Zona Oficinal de Santa Marta de Penaguião, propriedade do Município de Santa Marta de Penaguião.
+
+2 - A área de intervenção objecto deste regulamento é a constante da Planta de Implantação do Plano de Pormenor da Zona Oficinal de Santa Marta de Penaguião, aprovado pela Assembleia Municipal, sendo os lotes a alienar os que se encontram designados no Anexo I do presente Regulamento, por 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,16, 17, 18, 19, 20, 21, 22, 23 e 24.
+
+3 - O Lote designado por 23 e 24 destina-se à instalação dos armazéns da Câmara Municipal de Santa Marta de Penaguião.
+
+###### Artigo 2.º — Definições
+
+Para os efeitos do presente Regulamento, entende-se por:
+
+a) Zona Oficinal de Santa Marta de Penaguião - área territorialmente delimitada e multifuncional, constituída por diversos sectores como uma aglomeração planeada de actividades industriais, comerciais, de armazenagem e de serviços, cujo estabelecimento visa a prossecução de objectivos de desenvolvimento industrial e empresarial integrados.
+
+b) Entidade Promotora - O município de Santa Marta é o promotor da Zona Oficinal e proprietário inicial dos lotes.
+
+d) Contrato - negócio jurídico a outorgar com a entidade promotora, por meio da qual as empresas utentes adquirem, através de compra e venda, constituição de direitos de superfície ou arrendamento, direitos sobre os respectivos lotes que integram a Zona Oficinal, ou sobre as fracções autónomas dos edifícios neles implantados.
+
+e) Planta de Implantação - desenho ou representação numa superfície, onde se traduz graficamente as regras de ordenamento, zonamento e de implantação definidas no Plano de Pormenor, nomeadamente o parcelamento, alinhamentos, implantação e afastamento de edifícios, áreas e números de lotes e sua respectiva tipologia e usos dominantes.
+
+###### Artigo 3.º — Princípios gerais
+
+1 - Todos os contratos de compra e venda dos lotes, que vierem a ser celebrados entre a entidade promotora e as empresas que se venham a instalar na Zona Oficinal, deverão fazer menção ao escrupuloso cumprimento das disposições constantes do Regulamento do Plano de Pormenor da Zona Oficinal de Santa Marta Penaguião, aprovado pela Assembleia Municipal na sua reunião realizada em 28, de Dezembro, de 2005.
+
+2 - O regime estabelecido neste regulamento rege-se pelos seguintes princípios gerais:
+
+a) Regular a oferta do solo;
+
+b) Promover o desenvolvimento local de forma sustentada e ordenada;
+
+c) Fomentar o desenvolvimento e ordenamento empresarial;
+
+d) Estimular a reestruturação e diversificação dos sectores de actividades já implementados no Concelho;
+
+e) Apoiar novas iniciativas empresariais;
+
+f) Fomentar a criação de emprego e fixação da população;
+
+3 - O Município fará aplicar o presente regulamento de forma a proteger e a salvaguardar os seguintes aspectos:
+
+a) O investimento feito na urbanização e infra-estruturação realizado e ou a realizar;
+
+b) O apoio à promoção do investimento das empresas, através de disponibilização de lotes de terreno.
+
+c) O investimento e as expectativas das empresas instaladas ou que se vierem a instalar;
+
+d) Os interesses urbanísticos e ambientais.
+
+###### Artigo 4.º — Tipo de empresas a instalar
+
+1 - A Zona Oficinal admite a instalação de actividades industriais, de armazenagem, de comércio e serviços.
+
+2 - Poder-se-ão instalar na Zona Oficinal de Santa Marta de Penaguião todas as empresas, privadas ou públicas, nacionais ou estrangeiras, que possuam a sua situação contributiva regularizada perante a Segurança Social e a Direcção-Geral de Contribuição e Impostos, estejam devidamente licenciadas e que obedeçam a todos os requisitos exigidos pelas diversas entidades licenciadoras e autorizadoras.
+
+3 - As empresas ficam sujeitas às regras disciplinadoras do Regime de exercício da actividade industrial conforme estipula o Decreto-Lei n.º Lei n.º 209/2008, de 29, de Outubro, e demais legislação em vigor.
+
+4 - As empresas a instalarem nas Zona Oficinal deverão ser com alguma incorporação tecnológica.
+
+###### Artigo 5.º — Preço
+
+1 - O preço por m2 é fixado em 25,00(euro).
+
+2 - Por deliberação da Câmara Municipal, o preço por m2 pode ser actualizado durante o mês de Janeiro de cada ano civil.
+
+3 - Excepcionalmente, a Câmara Municipal pode fixar preço inferior ao fixado no n.º 1, desde que a Assembleia Municipal delibere o relevante interesse municipal em decisão fundamentada e sob proposta da Câmara Municipal.
+
+###### Artigo 6.º — Aquisição, Transmissão e instalação dos lotes
+
+1 - Aquisição, transmissão e instalação nos lotes de terreno na Zona Oficinal, fica condicionada ao estrito cumprimento das normas constantes do presente regulamento, em como do Regulamento do Plano de Pormenor da Zona Oficinal.
+
+2 - As empresas já instaladas no concelho, fora das áreas geográficas classificadas no Plano Director Municipal como Espaços Industriais e empresariais e que pretendam deslocalizar a sua unidade industrial para a Zona Oficinal, gozarão do direito de preferência na aquisição e utilização de lotes, a qual será decidida, caso a caso, pela Entidade Promotora e sob a condição das anteriores instalações serem completamente desactivadas. Contudo, para o efeito, não se exclui a obrigatoriedade de formalização da respectiva candidatura e processo de seriação em conformidade com o presente regulamento.
+
+### CAPÍTULO II — Procedimento de alienação
+
+###### Artigo 7.º — Concurso público
+
+1 - A alienação dos lotes da zona oficinal far-se-á mediante concurso público, o qual será publicitado por edital a afixar nos lugares de estilo e em jornais de âmbito local/nacional, a definir pela Câmara Municipal de Santa Marta de Penaguião, bem como no site do Município.
+
+###### Artigo 8.º — Instrução do processo e prazo de candidatura
+
+1 - Os interessados na aquisição de lotes devem apresentar a sua candidatura através de requerimento, dirigido ao presidente da Câmara Municipal, no prazo estabelecido no edital referido no artigo anterior.
+
+2 - A candidatura deve obedecer ao modelo constante do anexo I ao presente regulamento.
+
+###### Artigo 9.º — Critérios de selecção das candidaturas
+
+A avaliação das candidaturas basear-se-á nos seguintes critérios:
+
+1 - Valorização de recursos humanos:
+
+a) Número de postos de trabalho a criar;
+
+b) Recrutamento de residentes no concelho;
+
+c) Número de postos de trabalho para pessoal qualificado.
+
+2 - Ambiente e condições de trabalho:
+
+a) Ausência ou correcção de efeitos ambientais nefastos;
+
+b) Higiene e segurança no trabalho adequadas à actividade, dignidade e promoção dos trabalhadores;
+
+c) Relocalização de empresas com sede em outros municípios desde que transfiram a sua sede social para o Município da Santa Marta de Penaguião.
+
+3 - Competitividade da empresa:
+
+a) Inovação nos produtos e serviços a prestar;
+
+b) Inovação tecnológica;
+
+c) Qualidade de gestão.
+
+4 - Valorização da estrutura económica e empresarial do concelho:
+
+a) Volume de investimento;
+
+b) Contributo para a internacionalização.
+
+###### Artigo 10.º — Processo de apreciação prévia
+
+1 - Presume-se que as candidaturas se encontram devidamente instruídas se, no prazo de 15 dias após a data da sua recepção, o interessado não tiver sido notificado de quaisquer deficiências que porventura se verifiquem ou para a prestação de quaisquer esclarecimentos que a Câmara Municipal entenda necessários.
+
+2 - O prazo para suprimento das deficiências verificadas, bem como para prestação dos esclarecimentos solicitados, é de 15 dias, implicando o seu incumprimento a presunção de desistência da candidatura.
+
+###### Artigo 11.º — Análise e selecção de candidaturas
+
+1 - A Câmara Municipal procederá à apreciação das candidaturas apresentadas, de acordo com os critérios definidos no artigo 7.º do presente regulamento, e deliberará sobre a atribuição dos lotes, no prazo máximo de 45 dias a contar da data limite para apresentação das candidaturas.
+
+2 - A deliberação de não selecção de candidaturas deverá ser devidamente fundamentada.
+
+###### Artigo 12.º — Contrato-promessa de compra e venda
+
+1 - A deliberação prevista no n.º 1 do artigo anterior será comunicada ao interessado no prazo de 8 dias, por meio de carta registada, com aviso de recepção, notificando-se, simultaneamente, o mesmo para comparecer na Câmara Municipal, em data e hora que constará da referida notificação, a fim de celebrar o contrato-promessa de compra e venda.
+
+2 - Do contrato-promessa de compra e venda deve constar, nomeadamente:
+
+a) A identificação dos outorgantes e do lote ou lotes objecto do contrato;
+
+b) O tipo de actividade a desenvolver;
+
+c) O preço total da compra-e-venda;
+
+d) O pagamento imediato de uma quantia, a título de sinal e princípio de pagamento, de valor correspondente a 25 % do preço total;
+
+e) O prazo para celebração da escritura de compra e venda.
+
+3 - Como anexos ao contrato-promessa e dele fazendo parte integrante, devem ainda constar o presente regulamento, a planta de implantação e o Plano de Pormenor da Zona Oficinal de Santa Marta de Penaguião.
+
+###### Artigo 13.º — Associação de lotes
+
+1 - A Câmara Municipal poderá deliberar vender ao mesmo concorrente mais do que um lote, desde que tal se justifique pela grandeza e importância do empreendimento a realizar.
+
+2 - A razão justificativa da necessidade de aquisição de mais do que um lote deve constar de nota justificativa a anexar ao processo de candidatura.
+
+3 - Os lotes a alienar, nos termos previstos no n.º 1 deste artigo, terão de confrontar, pelo menos, por um dos lados.
+
+###### Artigo 14.º — Escritura de compra e venda
+
+1 - A escritura de compra e venda será celebrada no prazo máximo de 90 dias contados da data da celebração do contrato-promessa de compra e venda.
+
+2 - No acto da outorga da escritura de compra e venda será efectuado o pagamento do remanescente do preço do lote (75 %).
+
+3 - Da escritura pública de compra e venda constará obrigatoriamente e além do mais:
+
+a) A identificação do lote;
+
+b) O tipo de indústria, comércio e ou serviço a instalar;
+
+c) Plano previsional de concretização do investimento;
+
+d) A proibição da utilização do lote para fim diverso do acordado;
+
+e) A proibição de transmissão do lote e das instalações sem prévia autorização da Câmara Municipal de Santa Marta de Penaguião;
+
+4 - Como parte integrante da escritura, devem constar o presente regulamento, a planta de implantação e o Plano de Pormenor da Zona Oficinal de Santa Marta de Penaguião.
+
+5 - A não celebração da escritura por facto imputável ao promitente-comprador implica a perda do sinal e dos direitos que lhe advenham da deliberação municipal.
+
+### Capítulo III — Condições de aquisição, transmissão e Instalação
+
+###### Artigo 15.º — Cessão da posição contratual
+
+1 - Até à celebração da escritura de compra e venda, o promitente-comprador não pode ceder a sua posição contratual, excepto se a Câmara Municipal de Santa Marta de Penaguião assim o autorizar, por escrito.
+
+2 - A autorização só será concedida em casos excepcionais, devidamente fundamentados.
+
+###### Artigo 16.º — Inalienabilidade temporária
+
+1 - Os adquirentes dos lotes não os poderão alienar, arrendar ou permitir a utilização bem como das construções nele implantadas, a título oneroso ou gratuito, sem a obtenção de prévia autorização da Câmara Municipal de Santa Marta de Penaguião, enquanto não tenha sido dado pleno cumprimento ao disposto no artigo 20.º deste Regulamento.
+
+2 - A autorização da Câmara Municipal tem como único objectivo garantir a afectação do terreno ao fim específico que justificou a transmissão.
+
+3 - O incumprimento do disposto nos números anteriores, implica a imediata reversão do lote para a Câmara Municipal de Santa Marta de Penaguião, nos termos previstos no artigo 22.º deste Regulamento.
+
+###### Artigo 17.º — Obrigações de terceiros adquirentes
+
+1 - Nos casos em que a Câmara Municipal tenha autorizado a alienação ou quando a mesma tenha lugar após pleno cumprimento do disposto no artigo 20.º deste Regulamento, os terceiros adquirentes ficam sujeitos ao cumprimento das disposições do presente Regulamento, e de um modo particular, à obrigação de assegurarem a continuidade do uso autorizado.
+
+2 - O disposto no número precedente não impede a mudança do ramo de actividade, competindo, porém, à Câmara Municipal, averiguar se a eventual mudança envolve ou não uma adulteração do objectivo que presidiu à transmissão inicial.
+
+3 - O incumprimento do disposto neste artigo faz incorrer o terceiro adquirente no pagamento de um montante pecuniário à Câmara Municipal, correspondente a 20 % do valor da transmissão que lhe tenha sido efectuada.
+
+###### Artigo 18.º — Normas de instalação
+
+1 - A instalação de unidades industriais, de armazenagem, de comércio e serviços está sujeita às normas urbanísticas constantes do Plano de Pormenor da Zona Oficinal de Santa Marta de Penaguião.
+
+2 - As edificações a construir, para além de estarem sujeitas ao cumprimento dos parâmetros e condicionalismos constantes do Plano de Pormenor da Zona Oficinal de Santa Marta de Penaguião, devem ainda observar as demais normas legais e regulamentares aplicáveis, bem como as respectivas regras de execução, sem prejuízo da obtenção dos necessários pareceres, autorizações ou aprovações decorrentes dos regimes legais específicos aplicáveis.
+
+3 - A alteração do uso do lote aprovado no âmbito do programa de candidatura e projecto de instalação, fica condicionada à autorização da Câmara Municipal.
+
+###### Artigo 19.º — Obrigações de conservação e manutenção
+
+Com vista à manutenção de elevados padrões de qualidade ambiental, incumbe aos responsáveis:
+
+a) Manter os edifícios em bom estado de conservação, promovendo, para isso, as necessárias obras com a devida regularidade;
+
+b) Manter sempre tratados os espaços no interior do lote;
+
+c) Manter permanentemente a limpeza e higiene dos espaços de circulação no interior do lote;
+
+d) Manter os contentores de resíduos sólidos urbanos bem conservados e localizados;
+
+e) Seleccionar, acomodar e transportar eficazmente os resíduos industriais admitidos.
+
+###### Artigo 20.º — Prazos para o início e conclusão da obra de construção
+
+1 - No prazo máximo de quatro meses, contados da data de celebração da escritura de compra e venda do lote, o adquirente deve apresentar à Câmara Municipal comunicação prévia das obras de construção.
+
+2 - O prazo para conclusão da obra é estabelecido em conformidade com a programação proposta pelo requerente, o qual não poderá exceder os dois anos, nos termos previstos do Regulamento Municipal da Urbanização e da Edificação de Santa Marta de Penaguião, nunca podendo decorrer, entre a data da celebração da escritura de compra e venda do lote e a conclusão da obra, um prazo superior a quatro anos.
+
+3 - O prazo proposto pelo adquirente pode ser alterado pela Câmara Municipal por motivo de interesse público, devidamente fundamentado.
+
+4 - Só serão concedidas prorrogações do prazo de execução das obras de construção, ao abrigo do disposto no artigo 58.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 26/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), de 30 de Março, que não excedam o prazo de quatro anos fixado no n.º 2 deste artigo.
+
+5 - Após a admissão da comunicação prévia de obras de construção, e previamente ao início das mesmas, o adquirente deve proceder obrigatoriamente ao pagamento das taxas devidas no prazo máximo de dois meses.
+
+6 - Após o pagamento das taxas devidas, o adquirente deve iniciar as obras no prazo máximo de três meses.
+
+7 - Concluídas as obras de construção e emitida a autorização de utilização, o adquirente dispõe do prazo de seis meses para o início da actividade.
+
+###### Artigo 21.º — Cláusula penal
+
+1 - Em caso de incumprimento dos prazos fixados no artigo anterior, a Câmara Municipal notifica o adquirente em falta para, no prazo de 10 dias, justificar a razão do incumprimento.
+
+2 - Se a Câmara Municipal considerar fundamentadas as razões apresentadas, pode decidir prorrogar o prazo para a prática dos actos em causa.
+
+3 - Se as razões expostas não forem consideradas válidas para justificarem o incumprimento, serão aplicadas, por deliberação da Câmara Municipal, as seguintes multas:
+
+a) Pelo incumprimento do prazo previsto no n.º 1 do artigo anterior o adquirente fica constituído na obrigação de pagar à Câmara Municipal da Santa Marta de Penaguião uma multa correspondente a 1 % do valor de aquisição do lote por cada mês de atraso, até ao limite de três meses;
+
+b) O incumprimento do prazo de execução da obra a que se refere o n.º 2 do artigo anterior, até ao limite de seis meses, será penalizado com a aplicação de uma multa de 3 % do valor de aquisição do lote no 1.º, 2.º e 3.º mês de atraso; de 5 %, no 4.º e 5.º mês, e de 8 % no 6.º mês de atraso;
+
+c) O incumprimento dos prazos fixados nos números 5, 6 e 7 do artigo anterior, terá como consequência a obrigação de pagar uma multa correspondente a 1 % do valor de aquisição do lote, por cada mês de atraso, até ao limite de três meses.
+
+###### Artigo 22.º — Direito de reversão
+
+1 - Findos os prazos-limite fixados nas diversas alíneas do n.º 3 do artigo anterior, o lote e as construções nele implantadas reverterão para a titularidade da Câmara Municipal da Santa Marta de Penaguião, sem direito a qualquer indemnização, perdendo ainda o adquirente o valor correspondente a 30 % das quantias entregues a título de pagamento do lote, obrigando-se por seu lado a Câmara Municipal a devolver, em singelo, os restantes 70 % da importância que tiver recebido a título de pagamento do lote de terreno.
+
+2 - No caso de, quando a Câmara Municipal deliberar exercer o seu direito de reversão, já estarem implantadas no lote construções por si licenciadas, aplicar-se-ão as regras dos artigos 1269.º e seguintes do Código Civil, em relação ao possuidor de boa fé, para efeitos de cálculo da compensação a pagar ao adquirente.
+
+###### Artigo 23.º — Direito de preferência
+
+1 - A Câmara Municipal goza do direito de preferência na alienação a qualquer título do lote ou das construções nele implantadas, pelo prazo de dez anos a contar da data em que cessar a aplicabilidade do disposto no artigo 16.º deste Regulamento.
+
+2 - O proprietário que pretenda efectuar a alienação deve comunicar à Câmara Municipal o projecto de venda e as cláusulas do respectivo contrato.
+
+3 - Recebida a comunicação a Câmara Municipal, caso esteja interessada, pode exercer o direito de preferência no prazo de 15 dias.
+
+4 - O direito de preferência goza de eficácia real ao abrigo do disposto no artigo 421.º do Código Civil.
+
+### Capítulo IV — Disposições finais
+
+###### Artigo 24.º — Encargos e registo
+
+1 - Todas as despesas que resultem do contrato-promessa, da escritura de compra e venda e do registo constituem encargo do adquirente do lote.
+
+2 - Os adquirentes dos lotes obrigam-se a registar os mesmos no prazo de 30 dias após a celebração da escritura de compra e venda.
+
+3 - O registo integrará todas as inscrições relacionadas com ónus, encargos ou responsabilidades que incidem sobre os lotes ou construções, decorrentes do Plano de Pormenor da Zona Oficinal de Santa Marta de Penaguião, deste Regulamento e da escritura de compra e venda.
+
+4 - O requerimento de averbamento de quaisquer edificações ou construções no registo predial é feito no prazo de 60 dias após a emissão da autorização de utilização.
+
+###### Artigo 25.º — Contagem dos prazos
+
+1 - Para os efeitos previstos neste regulamento, quando fixados em dias, os prazos contam-se de acordo com o disposto no artigo 72.º do Código do Procedimento Administrativo.
+
+2 - Os prazos fixados em meses ou anos referem-se a dias seguidos.
+
+###### Artigo 26.º — Dúvidas e omissões
+
+Qualquer omissão ou dúvida suscitada na interpretação e aplicação do presente regulamento, que não possa ser resolvida pelo recurso aos critérios legais de interpretação e integração de lacunas, será resolvida pela Câmara Municipal de Santa Marta de Penaguião, de acordo com a legislação em vigor.
+
+###### Artigo 27.º — Entrada em vigor
+
+O presente regulamento entra em vigor após a sua publicitação, nos termos legais.
+
+Anexo I: ficha de candidatura
+
+Anexo II: Quadro sinóptico
+
+## ANEXO I — Candidatura
+
+Aquisição e utilização de lotes de terreno da zona oficinal de Santa Marta de Penaguião
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/098000000/2198321987.pdf)
+
+Ficha A - Identificação do promotor
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/098000000/2198321987.pdf)
+
+Ficha B - Identificação dos estabelecimentos existentes
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/098000000/2198321987.pdf)
+
+Ficha C - Ficha resumo do projecto de investimento
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/098000000/2198321987.pdf)
+
+Memória descritiva onde devem constar os seguintes elementos
+
+Memória descritiva onde devem constar os seguintes elementos:
+
+Caracterização da Empresa (actividade, localização, accionistas, recursos financeiros, clientes, processo produtivo, matérias-primas, certificação/acreditação, investigação e desenvolvimento, inovação tecnológica, instalações, etc.)
+
+Projecto de Investimento (tipo de actividade a instalar, localização na zona oficinal, instalações a construir (previsão de áreas afectas aos diferentes usos), relocalização de instalações ou sede social, tipo e volume de investimento, fontes de financiamento, faseamento do projecto, processo produtivo, matérias-primas, mercados potenciais, consumos energéticos previstos, investigação e desenvolvimento, inovação tecnológica, gestão dos resíduos, numero de postos de trabalho a criar(directos, indirectos, caracterização das funções, recrutamento de residentes no concelho, postos de trabalho para investigação e desenvolvimento, inovação tecnológica), sistemas de gestão de qualidade, ambiente e higiene e segurança no trabalho a implementar, outros elementos ou documentos que complementem a descrição do projecto de investimento.)
+
+Motivações para Instalação na Zona Oficinal
+
+## ANEXO II — Quadro sinóptico/índices urbanísticos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/098000000/2198321987.pdf)
+
+304666268

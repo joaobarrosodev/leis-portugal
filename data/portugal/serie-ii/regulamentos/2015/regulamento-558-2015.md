@@ -1,0 +1,785 @@
+---
+schema_version: '1.0'
+id: pt:dre:70016978:por
+title: Regulamento n.º 558/2015
+short_title: null
+summary: Regulamento de Atribuição e Ocupação das Habitações Sociais
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Arruda dos Vinhos
+proposing_entity: null
+official_number: 558/2015
+official_date: null
+publication_date: '2015-08-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 158/2015, Série II de 2015-08-14
+  number: '158'
+  series: II
+  supplement: null
+  pages: 23135 - 23143
+  pdf_url: https://files.diariodarepublica.pt/2s/2015/08/158000000/2313523143.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '70016978'
+  dre_path: /dr/detalhe/regulamento/558-2015-70016978
+  internal: pt:dre:70016978:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/558-2015-70016978
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/558-2015-70016978
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:55:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d20629733cc4b64c8380320ec0a0c0b5e6cf74a97814c44fc147831e747c4b1f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:55:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+article_structure:
+  article_count: 47
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:55:18Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 558/2015
+
+Regulamento de atribuição e ocupação das habitações sociais
+
+André Filipe dos Santos Matos Rijo, Presidente da Câmara Municipal de Arruda dos Vinhos
+
+Torna público, nos termos e para os efeitos do disposto no artigo 56.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, conjugado com o artigo 139.º do [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro que aprova o CPA, que a Assembleia Municipal em sessão ordinária realizada no dia 29 de junho de 2015, sob proposta da Câmara Municipal de 27 de abril de 2015, aprovou o Regulamento de Atribuição e Ocupação das Habitações Sociais.
+
+O referido regulamento entra em vigor no dia seguinte à publicação do regulamento no Diário da República.
+
+01 de julho de 2015. - O Presidente da Câmara, André Filipe dos Santos Matos Rijo.
+
+Regulamento de atribuição e ocupação das habitações sociais
+
+Preâmbulo
+
+Nos termos do novo regime de arrendamento apoiado para habitação, aprovado pela [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, as autarquias locais detentoras de um parque habitacional, para fins sociais, e que sejam arrendadas em função dos rendimentos dos agregados familiares, ficam abrangidas ao regime do arrendamento apoiado, sendo a estratégia de intervenção municipal, no âmbito da habitação social, assente no princípio de que a atuação da autarquia consiste numa resposta de caráter especial, transitório e temporário, em face de uma determinada situação conjuntural de um dado agregado familiar, como garantia que essa família se pode organizar com vista à sua autonomização, nomeadamente a nível habitacional.
+
+Para que a atuação pública, no domínio da habitação social seja justa, proporcional e equitativa, respeitando os princípios consagrados na Constituição da República Portuguesa, torna-se necessário que o modelo de intervenção municipal no que respeita à habitação social seja acompanhado de um corpo de regras estruturado e transparente que defina, nos termos do novo regime de arrendamento apoiado vigente, as duas vertentes deste domínio: a atribuição da habitação e a gestão e acompanhamento da utilização das habitações pelos arrendatários e respetivos agregados.
+
+Dado que o regulamento existente em vigor se encontra desajustado em algumas matérias com a legislação em vigor, torna-se imperioso que se proceda à redação de novo regulamento de acordo com o atual enquadramento legal e em face da sua aplicabilidade aos contratos a celebrar, bem como aos contratos existentes à data da entrada em vigor da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, ao abrigo dos regimes de fim social, nomeadamente de renda apoiada e de renda social.
+
+Assim, o sistema de atribuição e gestão das habitações sociais do Município de Arruda dos Vinhos assenta num regime especial de arrendamento social, de natureza administrativa, tendo por base o regime do arrendamento apoiado aprovado pela [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, e que se encontra orientado pela lógica da habitação social como prestação social pública, implicando que a intervenção do Município seja sustentada num diagnóstico e acompanhamento social pelos seus serviços com vista à capitação do agregado familiar, sendo a razão de ser da atribuição da habitação, com caráter temporário e transitório, a garantia de uma solução habitacional para aqueles agregados que se encontrem em situação de grave carência, nomeadamente por não possuírem condições económicas, ou outras, suficientes para prover outra solução habitacional, constituindo, dessa forma, a atribuição e utilização de uma habitação uma natureza e substrato de prestação social pública.
+
+Neste processo, o Município promove a articulação e intervenção de serviços e entidades estaduais e não governamentais com competência e atividade no concelho, para que o projeto de vida dessas famílias seja participado e objeto de uma intervenção múltipla, que harmonize e integre diferentes prestações e apoios de âmbito social.
+
+É portanto, com base nestes princípios e pressupostos que foi elaborado o presente regulamento e que se organizou a estratégia e o modelo de intervenção do Município de Arruda dos Vinhos na gestão do seu parque habitacional, assentando ainda, no paradigma de que a atribuição e acompanhamento da utilização das habitações sociais pressupõem sempre uma adequação do grau de expetativa e de exigência ao agregado familiar, definindose como fim último da intervenção a autonomização da família.
+
+Nestes termos e no uso das competências e atribuições previstas pelo disposto no artigo 112.º e do artigo 241.º da Constituição da República Portuguesa, e conferida pela alínea k) do n.º 1 do artigo 33.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro a Câmara Municipal de Arruda dos Vinhos elaborou e aprovou o presente Regulamento de Atribuição e Ocupação das Habitações Sociais, em reunião de 27 de abril de 2015, que nos termos do artigo 101.º do Código do Procedimento Administrativo foi submetido a consulta pública, para recolha de sugestões, pelo prazo de trinta dias úteis contados a partir da data da publicação, não tendo sido apresentada qualquer sugestão.
+
+O presente Regulamento, foi aprovado nos termos do disposto na alínea g) do n.º 1 do artigo 25.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, pela Assembleia Municipal de Arruda dos Vinhos na sessão ordinária de 29 de junho de 2015.
+
+## PARTE I
+
+### CAPÍTULO I
+
+Disposições gerais
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - O presente regulamento tem como objetivo estabelecer o regime do arrendamento apoiado para a habitação social e regula o acesso e atribuição de habitações neste regime, bem como as condições contratuais.
+
+2 - O presente regulamento aplica-se aos agregados familiares candidatos bem como aos residentes em habitação social propriedade do Município de Arruda dos Vinhos, bem como a todos os elementos do respetivo agregado familiar, que aí residam legalmente e com autorização municipal.
+
+3 - O parque de habitação social do Município de Arruda dos Vinhos destina-se a prover alternativa habitacional, com caráter temporário e transitório, a agregados que se encontrem em situação de grave carência, nomeadamente por não possuírem condições económicas, ou outras, suficientes para prover outra solução habitacional.
+
+###### Artigo 2.º — Leis habilitantes
+
+O presente regulamento rege-se pelo disposto na [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853) de 19 de dezembro e, subsidiariamente, pelo Código Civil e pelo Novo Regime do Arrendamento Urbano (NRAU).
+
+###### Artigo 3.º — Conceitos
+
+Para efeito do disposto no presente regulamento, considera-se:
+
+a) Agregado familiar: o conjunto de pessoas, também designados de "moradores", que residem em economia comum na habitação arrendada, constituído pelos seguintes elementos:
+
+i) O arrendatário e seu cônjuge ou pessoa em união de facto há mais de dois anos;
+
+ii) Parentes e afins maiores, em linha reta e em linha colateral, até ao 3.º grau;
+
+iii) Parentes e afins menores em linha reta e em linha colateral;
+
+iv) Pessoas relativamente às quais, por força da lei ou de negócio jurídico que não respeite diretamente à habitação, haja obrigação de convivência ou de alimentos - nomeadamente, derivado de adoção, tutela ou confiança determinada por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito;
+
+v) E ainda outras pessoas que se encontrem autorizadas pelo Município de Arruda dos Vinhos, a permanecer na habitação com o arrendatário.
+
+b) Alteração da composição do agregado familiar: o aumento do número de elementos do agregado, por via de casamento ou união de facto do titular, nascimento de filhos ou estabelecimento do vinculo de adoção; bem como a diminuição do agregado, por falecimento, divórcio ou existência de outra alternativa habitacional para algum elemento do agregado;
+
+c) Coabitante: pessoa, também designada por "morador", não pertencente ao agregado familiar do arrendatário que se encontre especialmente autorizada pelo município a residir na habitação, nos casos especificamente consignados no presente regulamento;
+
+d) Deficiente: a pessoa com deficiência com grau comprovado de incapacidade igual ou superior a 60 %;
+
+e) Dependente: o elemento do agregado familiar que seja menor ou, tendo idade inferior a 26 anos, frequente estabelecimento de ensino e não aufira rendimento mensal bruto superior ao indexante dos apoios sociais;
+
+f) Fator de capitação: a percentagem resultante da ponderação da composição do agregado familiar, de acordo com a seguinte tabela:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/08/158000000/2313523143.pdf)
+
+g) Habitação precária: todo e qualquer tipo de espaço utilizado para fins habitacionais, que no seu todo não reúna as condições mínimas de habitabilidade e salubridade exigidas para o ano da sua edificação;
+
+h) Indexante dos Apoios Sociais (IAS): o valor fixado nos termos da Lei n.º 35-B/2006, de 29 de dezembro, alterada pela [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril;
+
+i) Rendimento Mensal Bruto (RMB): o duodécimo do total dos rendimentos anuais ilíquidos auferidos por todos os elementos do agregado familiar, considerados nos termos do artigo 3.º do [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho, na sua redação atual, ou, caso os rendimentos se reportem a período inferior a um ano, a proporção correspondente ao número de meses a considerar;
+
+j) Rendimento Mensal Corrigido (RMC): o rendimento mensal bruto deduzido da quantia correspondente à aplicação ao indexante dos apoios sociais de cada um dos seguintes fatores:
+
+i) 0,1 pelo primeiro dependente;
+
+ii) 0,15 pelo segundo dependente;
+
+iii) 0,20 por cada um dos dependentes seguintes; iv) 0,1 por cada deficiente, que acresce ao anterior se também couber na definição de dependente; v) 0,05 por cada elemento do agregado familiar com idade igual ou superior a 65 anos; vi) Uma percentagem resultante do fator de capitação.
+
+###### Artigo 4.º — Destino das habitações
+
+1 - As habitações arrendadas em regime de arrendamento apoiado destinam-se, exclusivamente, à residência permanente dos agregados familiares aos quais são atribuídas.
+
+2 - É proibida qualquer forma de cedência, total ou parcial, temporária ou permanente onerosa ou gratuita, do gozo da habitação por parte do arrendatário ou de qualquer elemento do seu agregado familiar, nomeadamente a cessão da posição contratual, o subarrendamento, a hospedagem ou o comodato.
+
+## PARTE II — Acesso e atribuição das habitações em regime de arrendamento apoiado
+
+### CAPÍTULO I — Acesso
+
+###### Artigo 5.º — Condições de acesso
+
+1 - Podem aceder à atribuição de habitações em regime de arrendamento apoiado os cidadãos nacionais e os cidadãos estrangeiros detentores de títulos válidos de permanência no território nacional, residentes no concelho de Arruda dos Vinhos, e que não estejam em nenhuma das situações de impedimento previstas no artigo seguinte.
+
+2 - A atribuição de uma habitação em regime de arrendamento apoiado confere ao Município de Arruda dos Vinhos o direito de aceder aos dados do arrendatário e dos membros do respetivo agregado familiar para fins de informação ou de confirmação dos dados por eles declarados nos termos do presente regulamento.
+
+3 - Será ainda condição de acesso, não possuir habitação própria e cujos rendimentos do agregado familiar respetivo não ultrapassem o limite máximo indicado no anúncio de abertura do concurso.
+
+4 - O limite a que se refere o número anterior será fixado em função do rendimento mensal per capita do respetivo agregado familiar, não sendo admitidos os concorrentes relativamente aos quais esse rendimento exceda, em função do Indexante dos Apoios Sociais (IAS), os limites indicados no quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/08/158000000/2313523143.pdf)
+
+###### Artigo 6.º — Impedimentos
+
+1 - Está impedido de tomar ou manter o arrendamento de uma habitação em regime de arrendamento apoiado quem se encontre numa das seguintes situações:
+
+a) Seja proprietário, usufrutuário, arrendatário ou detentor a outro título de prédio urbano ou de fração autónoma de prédio urbano destinado a habitação;
+
+b) Esteja a usufruir de apoios financeiros públicos para fins habitacionais;
+
+c) Tenha beneficiado de indemnização em alternativa à atribuição de uma habitação no âmbito de programas de realojamento;
+
+d) Esteja abrangido por uma das situações previstas no artigo 42.º do presente regulamento.
+
+2 - As situações previstas na alínea a) e b) do n.º 1 podem não constituir impedimento se, até à data da celebração do contrato em regime de arrendamento apoiado, for feita prova da sua cessação.
+
+3 - No caso previsto na alínea a) do n.º 1, quando for invocado que o prédio ou fração não está em condições de satisfazer o fim habitacional ou que o direito relativo ao mesmo é detido ou foi adquirido apenas em parte por membros do agregado familiar, cabe ao Presidente da Câmara Municipal de Arruda dos Vinhos ou Vereador com poderes delegados, avaliar a situação e decidir fundamentadamente sobre o acesso deste agregado familiar à atribuição de habitação ou à manutenção do arrendamento.
+
+4 - O arrendatário deve comunicar ao Município de Arruda dos Vinhos a existência de uma situação de impedimento, no seu caso ou de qualquer membro do agregado familiar, no prazo máximo de 30 dias a contar da data da ocorrência.
+
+5 - O impedimento relativo a um dos membros do agregado familiar é extensível a todos os seus membros.
+
+### CAPÍTULO II — Atribuição das habitações
+
+#### SECÇÃO I — Procedimento de atribuição
+
+###### Artigo 7.º — Procedimentos
+
+1 - A atribuição de uma habitação em regime de arrendamento apoiado é efetuada mediante concurso por classificação.
+
+2 - O concurso por classificação tem por objeto a oferta de um conjunto determinado de habitações e visa a atribuição das mesmas em arrendamento apoiado aos indivíduos ou agregados familiares que, de entre os que concorram no período fixado para o efeito, obtenham a melhor classificação em função dos critérios de hierarquização e de ponderação estabelecidos para o efeito pelo Município de Arruda dos Vinhos.
+
+###### Artigo 8.º — Anúncio de abertura do concurso
+
+1 - O anúncio de abertura concurso é publicitado na página da internet do Município, www.cm-arruda.pt, bem como nos jornais de maior circulação no concelho.
+
+2 - O anúncio de abertura do concurso deve conter a seguinte informação:
+
+a) Tipo de procedimento;
+
+b) Data do procedimento;
+
+c) Identificação, tipologia e área útil da habitação;
+
+d) Regime do arrendamento;
+
+e) Critério de acesso ao concurso e de hierarquização e ponderação de candidaturas;
+
+f) Local e horário para consulta do programa do concurso e para obtenção de esclarecimentos;
+
+g) Local e forma de proceder à apresentação de candidatura;
+
+h) Local e forma de divulgação da lista definitiva dos candidatos apurados.
+
+###### Artigo 9.º — Programa de concurso
+
+As regras a que obedecerá a entrega dos documentos necessários à participação no concurso, bem como os trâmites subsequentes deste até a atribuição das habitações, constarão de um programa do concurso que será facultado aos interessados.
+
+###### Artigo 10.º — Comissão de análise
+
+1 - Será constituída, por despacho do Presidente da Câmara Municipal ou Vereador com poderes delegados, uma comissão de análise das candidaturas apresentadas.
+
+2 - A comissão ordena os concorrentes em função dos critérios estabelecidos no artigo 19.º, conjugado com o artigo 5.º, e propõe a exclusão dos candidatos que não reúnam os requisitos de acesso ao concurso, que prestem falsas declarações ou não entreguem, dentro do prazo estabelecido no anúncio do concurso a documentação referida no artigo seguinte.
+
+3 - A comissão poderá, se assim o entender, solicitar ao concorrente o envio de documentação superveniente e necessária à decisão.
+
+4 - Das decisões da comissão será elaborada informação, a remeter à Câmara Municipal, para a deliberação final.
+
+###### Artigo 11.º — Documentos
+
+1 - A participação no concurso só poderá efetuar-se mediante entrega, dentro do prazo estabelecido no anúncio de abertura, dos documentos constantes do Anexo I do presente Regulamento.
+
+2 - Sempre que a comissão de análise considerar necessário, poderá solicitar aos concorrentes que comprovem pelos meios legais e dentro do prazo que lhes for fixado, os factos constantes daqueles documentos.
+
+3 - A comissão de análise averiguará a situação habitacional e social dos concorrentes, em ordem à atribuição das habitações.
+
+###### Artigo 12.º — Lista de classificação
+
+1 - Findo o prazo de abertura do concurso, serão elaboradas as listas de classificação provisória dos concorrentes admitidos e dos concorrentes excluídos com indicação sucinta, das razões de exclusão, precedida de audiência dos interessados nos termos do Código do Procedimento Administrativo (CPA).
+
+2 - As listas serão afixadas na Câmara Municipal de Arruda dos Vinhos e no site do Município de Arruda dos Vinhos, www.cm-arruda.pt.
+
+###### Artigo 13.º — Apuramento dos concorrentes
+
+1 - Serão apurados como efetivos tantos concorrentes quantas as habitações disponíveis para atribuição no momento da abertura do concurso e como suplentes os restantes concorrentes admitidos.
+
+2 - Apurados os concorrentes, será afixada a respetiva lista de atribuição definitiva com indicação sucinta das razões da atribuição do caráter efetivo ou suplente do concorrente e, do local e horas em que se pode ser consultado, por qualquer concorrente, o processo de atribuição.
+
+3 - Da lista de atribuição definitiva cabe reclamação para a Câmara Municipal, nos termos do Código do Procedimento Administrativo (CPA).
+
+###### Artigo 14.º — Validade das declarações
+
+1 - A veracidade das declarações dos concorrentes deve ser aferida em relação ao momento em que foram entregues pelos concorrentes.
+
+2 - A situação dos concorrentes será estabelecida, para efeito de atribuições de direitos, em função dos factos constantes das suas declarações durante o prazo de validade do concurso devendo, no entanto, os interessados providenciar pela atualização dos elementos constantes das mesmas declarações.
+
+###### Artigo 15.º — Exclusão
+
+1 - A prestação de declarações, a omissão dolosa de informação ou a utilização de meio fraudulento por parte dos candidatos, no âmbito ou para o efeito de qualquer dos procedimentos de atribuição de uma habitação, determina a exclusão da candidatura, sem prejuízo de outras sanções legalmente aplicáveis.
+
+2 - Será ainda motivo de exclusão do concurso a não apresentação pelos candidatos de qualquer dos documentos referidos no artigo 11.º, no prazo estabelecido para o efeito.
+
+###### Artigo 16.º — Adequação da habitação
+
+1 - A habitação atribuída em regime de arrendamento apoiado deve ser de tipologia adequada à composição do agregado familiar, de forma a evitar situações de sobreocupação ou de subocupação.
+
+2 - A adequação da habitação é verificada pela relação entre a tipologia e a composição do agregado familiar de acordo com a tabela abaixo apresentada:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/08/158000000/2313523143.pdf)
+
+1. A tipologia da habitação é definida pelo número de quartos de dormir e pela sua capacidade de alojamento (ex: T2/3 - dois quartos, 3 pessoas).
+
+###### Artigo 17.º — Mobilidade
+
+1 - Após audição do interessado, o senhorio pode resolver o contrato e atribuir outra habitação ao arrendatário, no mesmo concelho da anterior habitação ou em concelho limítrofe, nos casos de desocupação superveniente da habitação ao agregado familiar ou de necessidade de desocupação da mesma por razões de gestão do seu parque habitacional, nomeadamente para efeitos de reabilitação do edificado.
+
+2 - A comunicação do senhorio relativa à resolução do contrato é realizada nos termos do n.º 7 do artigo 9.º ou do n.º 5 do artigo 10.º do Novo Regime de Arrendamento Urbano (NRAU), na sua atual redação, com identificação da morada da nova habitação, menção à obrigação de desocupação e entrega da habitação e ao prazo fixado para o efeito, nunca inferior a 90 dias, bem como referência à consequência do não cumprimento daquela obrigação.
+
+3 - A recusa ou falta de resposta do arrendatário à comunicação referida no número anterior no prazo fixado torna exigível a desocupação e a entrega da habitação, constituindo aquela comunicação fundamento bastante para o despejo.
+
+###### Artigo 18.º — Critérios preferenciais
+
+Sempre que a tipologia e as condições das habitações, objeto de procedimento, o permitam, definem-se como critérios preferenciais para a atribuição de habitação as famílias monoparentais ou que integrem menores, pessoas com deficiência ou com idade igual ou superior a 65 anos.
+
+###### Artigo 19.º — Critérios de classificação
+
+1 - A análise e classificação das candidaturas ao concurso serão aferidas pelos seguintes fatores:
+
+a) Critérios preferenciais;
+
+b) Condições de habitação;
+
+c) Rendimento do agregado familiar;
+
+d) Tempo de residência no concelho.
+
+2 - A classificação dos concorrentes resulta da aplicação da pontuação constante do Anexo II do presente regulamento.
+
+###### Artigo 20.º — Da classificação
+
+1 - Os concorrentes serão classificados por ordem decrescente dos pontos obtidos.
+
+2 - No caso de empate entre concorrentes atender-se-á, prioritariamente:
+
+a) Em primeiro lugar, ao maior número de crianças no agregado familiar;
+
+b) Em segundo lugar, ao maior tempo de residência no concelho de Arruda dos Vinhos;
+
+c) Em terceiro lugar, ao valor do rendimento per capita mais baixo.
+
+###### Artigo 21.º — Concorrentes suplentes
+
+1 - Os concorrentes suplentes serão considerados, pela ordem determinada através da classificação, para atribuição das habitações que, por qualquer razão, fiquem disponíveis antes da abertura de novo concurso e dentro do prazo de validade.
+
+2 - A desistência ou recusa de qualquer concorrente da habitação que vier a ser-lhe atribuído implica a sua exclusão do concurso.
+
+3 - Sempre que, de acordo com o disposto no n.º 1, haja lugar dentro do prazo de validade do concurso a nova atribuição de habitações, os concorrentes suplentes presumivelmente abrangidos serão notificados pela Câmara Municipal para, sob pena de exclusão, atualizarem as suas declarações, com vista a verificarem se se mantêm as condições de atribuição do direito e para efeitos de eventual revisão da sua posição.
+
+## PARTE III — Do arrendamento apoiado
+
+### CAPÍTULO I — Condições contratuais
+
+###### Artigo 22.º — Contrato de arrendamento, duração e renovação
+
+1 - O contrato de arrendamento apoiado é celebrado por escrito e pelo prazo de 10 anos.
+
+2 - Findo o prazo do arrendamento, o contrato renova-se automaticamente por períodos sucessivos de dois anos, salvo se for estipulado período diferente.
+
+3 - Sem prejuízo do disposto no número seguinte, qualquer das partes pode opor-se à renovação do contrato, desde que comunique à outra parte com a antecedência de 240 dias a 180 dias relativamente ao termo do contrato ou da sua renovação.
+
+4 - O Município de Arruda dos Vinhos só pode opor-se à renovação do contrato quando, nos três anos que antecedem o termo do contrato ou a sua renovação, se verifiquem as seguintes condições cumulativas:
+
+a) O arrendatário esteja a pagar uma renda igual ou superior à renda máxima a que se refere o n.º 2 do artigo 24.º;
+
+b) A renda máxima a que se refere o n.º 2 do artigo 24.º corresponda a uma taxa de esforço igual ou inferior a 15 % do rendimento mensal corrigido do agregado familiar do arrendatário.
+
+5 - Para efeitos do número anterior, o Município de Arruda dos Vinhos deve enviar uma comunicação ao arrendatário, nos termos e nos prazos previstos no Novo Regime de Arrendamento Urbano (NRAU).
+
+###### Artigo 23.º — Cálculo das Rendas
+
+O valor da renda é determinado pela aplicação da taxa de esforço ao rendimento mensal corrigido do agregado familiar, sendo a taxa de esforço (T), o valor arredondado à milésima, que resulta da aplicação da seguinte fórmula:
+
+T = 0,067 x (RMC/IAS)
+
+em que:
+
+T = Taxa de esforço;
+
+RMC = Rendimento mensal corrigido do agregado familiar;
+
+IAS = Indexante dos apoios sociais
+
+###### Artigo 24.º — Renda máxima e renda mínima
+
+1 - O valor da renda não pode ser inferior a 1 % do Indexante de Apoios Sociais (IAS) vigente em cada momento.
+
+2 - A renda máxima é a renda máxima aplicável aos contratos de arrendamento para fim habitacional em regime de renda condicionada.
+
+3 - Por razões de planeamento e sempre que as características do parque habitacional não permitam, em virtude do estado de conservação, aplicar a renda máxima nos termos do número anterior, o Município reserva a possibilidade de aplicar uma renda máxima de valor inferior ao valor da renda condicionada.
+
+###### Artigo 25.º — Vencimento e lugar do pagamento
+
+1 - A primeira renda vence-se no primeiro dia útil do mês a que respeita, vencendo-se cada uma das restantes no primeiro dia útil de cada mês subsequente.
+
+2 - O pagamento da renda pode ser feito na Tesouraria da Câmara Municipal de Arruda dos Vinhos, por transferência bancária ou por outra forma legal contratualmente estabelecida entre as partes.
+
+3 - Quando o pagamento da renda seja efetuado por transferência ou débito em conta bancária do arrendatário, o comprovativo do respetivo movimento é equiparado a recibo para todos os efeitos legais.
+
+###### Artigo 26. º — Mora do arrendatário
+
+1 - A falta de pagamento da renda no prazo estabelecido no artigo anterior pelo arrendatário implica o direito de exigir, por parte do Município, além das rendas em atraso, uma indemnização igual a 25 % do que for devido, do dia 09 ao dia 16 e de 50 % após o dia 16 do mês a que respeita.
+
+2 - Decorrido o prazo no número anterior o arrendatário encontra-se em situação de incumprimento do pagamento de renda.
+
+###### Artigo 27. º — Atualização, revisão e reavaliação da renda
+
+1 - Para além da atualização anual prevista no n.º 2 do artigo 1077.º do Código Civil, que consiste na atualização de acordo com os coeficientes fixados no Diário da República, há lugar à revisão da renda a pedido do arrendatário, nas seguintes situações:
+
+a) Alteração na composição ou nos rendimentos do agregado familiar, devendo o arrendatário comunicar ao Município de Arruda dos Vinhos, no prazo máximo de 30 dias a contar da data da ocorrência;
+
+b) Aplicação da correção prevista na alínea j) do artigo 3.º, em caso de superveniência de situações de incapacidade igual ou superior a 60 % ou de idade igual ou superior a 65 anos relativos a qualquer elemento do agregado familiar.
+
+2 - A revisão do valor da renda por iniciativa do Município de Arruda dos Vinhos com os fundamentos indicados no número anterior, pode ocorrer a todo o tempo.
+
+3 - A reavaliação pelo Município de Arruda dos Vinhos das circunstâncias que determinam o valor da renda realizasse a cada três anos.
+
+4 - Para revisão e reavaliação do valor da renda, o arrendatário deve entregar ao Município de Arruda dos Vinhos, no prazo máximo de 30 dias a contar da correspondente notificação, os documentos mencionados no anexo I
+
+5 - A renda atualizada ou revista nos termos dos números anteriores é devida no segundo mês subsequente ao da data da receção, pelo arrendatário, da comunicação do senhorio com o respetivo valor.
+
+6 - Quando da revisão da renda resulte o seu aumento e as comunicações do arrendatário tenham sido realizadas fora dos prazos previstos no n.º 1 ou no n.º 4, o Município de Arruda dos Vinhos pode exigir-lhe o pagamento do montante correspondente ao dobro da diferença entre a renda paga e a renda que seria devida desde a data da alteração.
+
+###### Artigo 28. º — Presunção de rendimentos
+
+1 - Nos casos em que os rendimentos do agregado familiar tenham caráter incerto, temporário ou variável e não haja prova documental que justifique essa natureza, presume-se que o agregado familiar aufere um rendimento superior ao declarado, sempre que se verifique uma das seguintes situações:
+
+a) Um dos membros exerça atividade que pública ou notoriamente produza rendimentos superiores aos declarados;
+
+b) Patenteie, possua ou detenha bens, ou exiba sinais exteriores de riqueza não compatíveis com a sua declaração.
+
+2 - Para efeitos do previsto no número anterior, os serviços municipais competentes elaboram relatório técnico apresentando os respetivos factos e indícios.
+
+3 - A presunção referida no n.º 1 do presente artigo é elidível mediante a apresentação de prova em contrário por parte do arrendatário, no prazo de 10 dias úteis.
+
+4 - A presunção do rendimento mensal bruto do agregado familiar tem como indicador o valor da Retribuição Mínima Mensal Garantida (RMMG), que se encontre em vigor, e será indexada à RMMG por frações com intervalos de 25 %.
+
+### CAPÍTULO II — Da transmissão
+
+###### Artigo 29. º — Transmissão do arrendamento
+
+1 - A titularidade do arrendamento só poderá ser objeto de transmissão mediante autorização expressa, e por escrito, do Município de Arruda dos Vinhos.
+
+2 - A transmissão da titularidade só é admitida nas seguintes situações:
+
+a) Divórcio, separação judicial de pessoas e bens ou cessação da situação de união de facto; b) Morte de um dos titulares;
+
+c) Ausência permanente e definitiva ou incapacidade do arrendatário.
+
+3 - A transmissão da titularidade do arrendamento implica a transmissão de todos os direitos, obrigações e competências a ela inerentes, e é formalizada através da realização de averbamento ao respetivo título.
+
+4 - O direito à transmissão do arrendamento, não se verifica se o beneficiário desse direito for possuidor de casa própria ou arrendada, adequada ao seu agregado familiar e suscetível de ser utilizada de imediato.
+
+5 - A transmissão da titularidade ficará dependente do resultado da avaliação da carência económica do agregado, à luz dos critérios em vigor, sendo autorizada apenas quando se mostrem preenchidos os requisitos constitutivos do direito à transmissão e os requisitos de atribuição e manutenção da habitação, nos termos do presente regulamento.
+
+6 - Para efeitos do previsto no presente artigo, os interessados deverão apresentar à Câmara Municipal de Arruda dos Vinhos os respetivos comprovativos da situação que alegam, no prazo máximo de trinta dias a contar da verificação do facto.
+
+7 - No caso de cotitularidades nunca haverá lugar a transmissão enquanto sobreviver um dos cotitulares, havendo, contudo, e verificando-se uma das situações previstas no n.º 2 do presente artigo, averbamento ao título de ocupação para atualização do mesmo em conformidade.
+
+###### Artigo 30. º — Divórcio, separação judicial de pessoas e bens ou cessação da união de facto
+
+1 - Em caso de divórcio ou de separação judicial de pessoas e bens, o destino da habitação, enquanto casa de morada de família, é decidido por acordo dos cônjuges, podendo estes optar pela transmissão ou pela concentração a favor de um deles.
+
+2 - O disposto no número anterior é aplicável com as devidas adaptações aos titulares da habitação que se encontrem em situação de união de facto, nos termos do previsto na lei, em caso da cessação da respetiva união de facto.
+
+3 - Na falta de acordo, e nos casos previstos nos números anteriores, cabe ao tribunal decidir, a requerimento dos interessados.
+
+4 - O Município de Arruda dos Vinhos deve aguardar a notificação oficiosa da decisão de transmissão ou de concentração acordadas e homologadas pelo juiz ou pelo conservador do registo civil, a elas relativa a fim de proceder em conformidade.
+
+###### Artigo 31. º — Transmissão por morte
+
+1 - O arrendamento da habitação não caduca por morte do respetivo arrendatário quando lhe sobreviva cônjuge com residência na habitação ou pessoa que vivesse com o titular em união de facto, constituída nos termos da lei, sendo nesse caso a titularidade da habitação objeto de transmissão para a pessoa em causa.
+
+2 - Em caso de morte do arrendatário, e na falta das pessoas indicadas no número anterior, o Município de Arruda dos Vinhos pode autorizar, excecionalmente e, por uma única vez, a transmissão do arrendamento para elemento familiar do agregado familiar maior de idade, devidamente inscrito desde o inicio da atribuição, desde que reúna as condições de atribuição e manutenção da titularidade do fogo, nos termos do previsto no presente regulamento.
+
+3 - Para efeitos do disposto no número anterior, quando o interessado for descendente do titular do arrendamento, ficam sempre salvaguardados os casos em que o vínculo de filiação tenha sido estabelecido em momento posterior à atribuição da habitação.
+
+4 - Para efeitos do previsto nos números anteriores, havendo várias pessoas com direito à transmissão em igualdade de circunstâncias, o arrendamento transmite-se para o parente ou afim mais próximo ou, de entre estes, para o mais velho.
+
+###### Artigo 32. º — Ausência permanente e definitiva ou incapacidade do arrendatário
+
+1 - A ausência permanente e definitiva do arrendatário, bem como a sua incapacidade, devidamente comprovadas, conferem o direito à transmissão, a favor do seu cônjuge ou unido de facto, ou na falta deste a favor da pessoa que fazendo parte do agregado familiar, que se encontre inscrita desde o inicio da atribuição, por ele seja indicada.
+
+2 - Para efeitos do previsto no número anterior, na falta de indicação pelo titular, o município de Arruda dos Vinhos escolhe, de entre os elementos que integrem o agregado familiar desde o inicio da atribuição, a pessoa que reúna as melhores condições para assumir o arrendamento da habitação.
+
+### CAPÍTULO III — Direitos e obrigações dos arrendatários
+
+###### Artigo 33.º
+
+Direitos São direitos do arrendatário:
+
+1 - O gozo, fruição e utilização da habitação para o fim a que se destina.
+
+2 - Solicitar a revisão da renda, nos casos de alteração da composição ou dos rendimentos do agregado familiar.
+
+3 - Realizar, mediante autorização escrita por parte do Presidente da Câmara ou Vereador com competências delegadas, pequenas obras na habitação, quando elas se tornem necessárias, para assegurar o seu conforto ou comodidade.
+
+4 - Solicitar à Câmara Municipal a realização de obras de conservação necessárias para assegurar o seu conforto e comodidade, desde que não resultem de uma utilização imprudente e descuidada da habitação e sempre de acordo com a disponibilidade dos serviços respetivos.
+
+5 - Reclamar de todos os atos ou omissões considerados prejudiciais aos seus interesses.
+
+###### Artigo 34. º — Obrigações
+
+1 - Sem prejuízo das demais obrigações previstas na lei e no contrato, cabe ao arrendatário com contrato de arrendamento apoiado:
+
+a) Efetuar no prazo máximo de trinta dias, as comunicações e prestar as informações ao senhorio, designadamente as relativas a impedimentos e à composição e rendimentos do agregado familiar;
+
+b) Utilizar a habitação em permanência, não se ausentando, nem o próprio nem o seu agregado familiar, por um período seguido superior a seis meses, salvo nas condições estipuladas no artigo 1072.º do Código Civil, comunicadas e comprovadas, por escrito, nomeadamente:
+
+i) Em caso de força maior ou de doença;
+
+ii) Se a ausência, não perdurando há mais de dois anos, for devida ao cumprimento de deveres militares ou profissionais do próprio, do cônjuge ou de quem viva com o arrendatário em união de facto;
+
+iii) Se a utilização for mantida por quem, tendo direito a usar a habitação, o fizesse há mais de um ano.
+
+iv) Se a ausência se dever à prestação de apoios continuados a pessoas com deficiência com grau de incapacidade superior a 60 %, incluindo a familiares.
+
+c) Avisar imediatamente o senhorio sempre que tenha conhecimento de qualquer facto ou ato relacionado com a habitação suscetível de causar danos à mesma e ou de pôr em perigo pessoas ou bens;
+
+d) Não realizar obras na habitação sem prévia autorização escrita do senhorio.
+
+2 - São ainda obrigações do arrendatário:
+
+a) Pagar a renda, no quantitativo, no local e no prazo devidos;
+
+b) Entregar na Câmara Municipal de Arruda dos Vinhos, a todo o tempo, quaisquer documentos e esclarecimentos da declaração de rendimentos do agregado familiar e demais documentos necessários, sempre que solicitados pelo município, no âmbito da gestão do parque habitacional;
+
+c) Promover a instalação e ligação de contadores de água, de gás e de energia elétrica, cujas despesas, bem como as dos respetivos consumos, são da sua conta, não recorrendo a ligações ilegais;
+
+d) Conservar, no estado em que atualmente se encontram, a instalação elétrica bem como todas as canalizações de gás e de esgotos, pagando, à sua conta, as reparações que se tornarem necessárias por efeito de incúria ou de utilização indevidas das mesmas;
+
+e) Facultar, sempre que lhe for solicitado, a visita/inspeção da habitação bem como colaborar em inquéritos/estudos que os serviços técnicos da Câmara Municipal de Arruda dos Vinhos possam vir a realizar;
+
+f) Manter a habitação em adequadas condições de higiene, segurança e salubridade e efetuar pequenas reparações que assegurem a manutenção da habitação nas devidas condições de habitabilidade;
+
+g) Manter as zonas de circulação e de acesso desimpedidas e em adequadas condições de higiene;
+
+h) Proceder à desinfestação da habitação, caso se torne necessário;
+
+i) Não produzir ruídos, qualquer que seja a sua proveniência, suscetíveis de incomodar os demais moradores, ou de perturbar o seu trabalho ou repouso, especialmente entre as 20,00 horas e as 7,00 horas;
+
+j) Não usar a habitação para fim diverso daquele a que esta se destina.
+
+k) Pagar o valor do condomínio em caso do arrendamento incidir em fração autónoma.
+
+3 - As obrigações previstas, no presente artigo, para o arrendatário são extensíveis aos restantes elementos do agregado familiar.
+
+### CAPÍTULO IV — Da utilização das habitações
+
+###### Artigo 35.º — Obras
+
+1 - Os arrendatários não poderão realizar na habitação quaisquer obras, nem de qualquer forma alterar as suas características, sem a autorização escrita do Presidente da Câmara ou Vereador com competências delegadas.
+
+2 - As benfeitorias, quando autorizadas e realizadas pelos arrendatários fazem parte integrante da habitação e não podem ser retiradas finda a ocupação, não assistindo ao arrendatário qualquer direito ou indemnização.
+
+3 - Os arrendatários podem, desde que previamente autorizadas, pelo Presidente da Câmara ou Vereador com competências delegadas mediante requerimento, realizar a suas expensas pequenas obras de conservação ou reparação (que sejam da sua responsabilidade), nomeadamente:
+
+a) Manutenção do revestimento dos pavimentos;
+
+b) Reparação de rodapés, portas interiores e estores;
+
+c) Substituição ou reparação de torneiras, fechos, fechaduras, interruptores, tomadas e instalação elétrica, louças sanitárias, autoclismos e armários de cozinha;
+
+d) Substituição de vidros partidos;
+
+e) Pinturas interiores.
+
+###### Artigo 36.º — Das partes comuns dos prédios
+
+1 - Consideram-se comuns as seguintes partes dos edifícios:
+
+a) As entradas, átrios, escadas e corredores de uso ou passagem comum a dois ou mais arrendatários;
+
+b) Os pátios, jardins, zonas verdes ou de lazer anexos ao edifício;
+
+c) Outras, não especificadas, equiparadas às anteriores.
+
+2 - Os arrendatários obrigam-se a utilizar as partes comuns estritamente de acordo com a finalidade a que se destinam, a fazê-lo de modo a evitar que sofram deteriorações e danos que não correspondam a consequências naturais do seu uso normal, a contribuir por todas as formas ao seu alcance para a respetiva preservação e valorização, a respeitar rigorosamente os direitos equivalentes ou especiais dos restantes moradores.
+
+3 - As despesas correntes necessárias à fruição das partes comuns dos edifícios e ao pagamento de serviços de interesse comum ficam a cargo dos arrendatários.
+
+### CAPÍTULO V — Cessação do contrato de arrendamento apoiado
+
+###### Artigo 37.º — Resolução pelo Município de Arruda dos Vinhos
+
+1 - Além de outras causas de resolução previstas no Novo Regime do Arrendamento Urbano (NRAU), na lei em geral, constituem causas de resolução do contrato de arrendamento apoiado pelo Município:
+
+a) O incumprimento de qualquer das obrigações previstas no n.º 1 do artigo 34.º do presente regulamento pelo arrendatário ou pelas pessoas do seu agregado familiar;
+
+b) O conhecimento pelo Município da existência de uma das seguintes situações de impedimento, designadamente quando o arrendatário ou qualquer membro do agregado familiar:
+
+i) Seja proprietário, usufrutuário, arrendatário ou detentor a outro título de prédio urbano ou de fração autónoma de prédio urbano destinado a habitação;
+
+ii) Esteja a usufruir de apoios financeiros públicos para fins habitacionais;
+
+iii) Tenha beneficiado de indemnização em alternativa à atribuição de uma habitação no âmbito de programas de realojamento;
+
+iv) Para efeito de atribuição ou manutenção de uma habitação em regime de arrendamento apoiado, preste declarações falsas ou omita informação relevante;
+
+v) Ceda a habitação a terceiros a qualquer título, total ou parcialmente, de forma gratuita ou onerosa;
+
+c) Prestação de falsas declarações por qualquer elemento do agregado familiar, de forma expressa ou por omissão, sobre os rendimentos ou sobre factos e requisitos determinantes para o acesso ou manutenção do arrendamento;
+
+d) A permanência na habitação, por período superior a um mês, de pessoa que não pertença ao agregado familiar, sem autorização prévia do Município;
+
+2 - É fundamento de resolução o incumprimento que, pela sua gravidade ou consequências, torne inexigível à outra parte a manutenção do arrendamento, designadamente:
+
+a) A violação de regras de higiene, de sossego, de boa vizinhança ou de normas constantes do regulamento do condomínio;
+
+b) A utilização do prédio contrária à lei, aos bons costumes ou à ordem jurídica;
+
+c) O uso do prédio para fim diverso daquele a que se destina, ainda que a alteração do uso não implique maior desgaste ou desvalorização para o prédio;
+
+3 - É inexigível ao Município a manutenção do arrendamento em caso de incumprimento igual ou superior a dois meses no pagamento da renda, encargos ou despesas que corram por conta do arrendatário, sem prejuízo do disposto nos n.os 3 a 5 do artigo 1084.º do Código Civil.
+
+4 - É ainda inexigível ao Município a manutenção do arrendamento nos demais casos previstos na lei.
+
+5 - A resolução do contrato de arrendamento pelo Município opera por comunicação escrita deste ao arrendatário, onde fundamentadamente invoque a respetiva causa, após audição do interessado.
+
+6 - Na comunicação referida no número anterior, o município deve fixar o prazo, no mínimo de 60 dias, para a desocupação e entrega voluntária da habitação, não caducando o seu direito à resolução do contrato ainda que o arrendatário ponha fim à causa que a fundamentou.
+
+###### Artigo 38.º — Cessação do contrato por renúncia
+
+1 - Considera-se haver renúncia do arrendatário ao arrendamento da habitação quando esta não esteja usada por ele ou pelo agregado familiar por período seguido superior a seis meses a contar da data da primeira comunicação do senhorio, de entre as referidas na alínea a) do número seguinte.
+
+2 - Sem prejuízo do disposto na alínea b) do artigo 34.º do presente regulamento, considera-se não uso da habitação a situação em que, dentro do período mínimo de seis meses, se verifiquem cumulativamente as seguintes condições:
+
+a) Tenham sido realizadas pelo menos três tentativas, com intervalo mínimo de duas semanas entre cada uma delas, de entrega de comunicação na pessoa do arrendatário ou de elemento do agregado familiar, consoante for o caso, por representante do senhorio devidamente identificado e a entrega tenha resultado impossível por ausência dos mesmos;
+
+b) Tenha sido afixado aviso na porta da entrada da habitação, pelo período mínimo de 30 dias seguidos, de conteúdo idêntico ao da comunicação;
+
+c) Os registos do fornecimento de serviços essenciais de água e eletricidade evidenciarem a ausência de contratos de fornecimento ou de consumos relativamente ao locado, nos termos do n.º 2 do artigo 33.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853) de 19 de dezembro.
+
+3 - A comunicação e o aviso devem referir:
+
+a) Que o senhorio tem conhecimento do não uso da habitação por parte do arrendatário ou do agregado familiar, consoante for o caso;
+
+b) Que o não uso da habitação por período superior a seis meses a contar da data da primeira tentativa de contacto pessoal, ali indicada, constitui renúncia ao arrendamento e determina a cessação do contrato;
+
+c) O prazo, no mínimo de 30 dias, de que o arrendatário e os elementos do seu agregado familiar dispõem, após o decurso dos seis meses, para procederem à desocupação e entrega voluntária da habitação, livre de pessoas e bens.
+
+4 - A cessação do contrato opera no termo do prazo de seis meses a contar da data da primeira tentativa de contacto pessoal referida na alínea a) do n.º 2 e confere ao senhorio o direito de tomar posse do locado e de considerar abandonados a seu favor os bens móveis nele existentes, após o decurso do prazo de 30 dias na alínea c) do número anterior.
+
+###### Artigo 39.º — Danos na habitação
+
+Se, aquando do acesso à habitação pelo senhorio subsequente a qualquer caso de cessação do contrato, houver evidência de danos na habitação, de realização de obras não autorizadas ou de não realização das obras exigidas ao arrendatário nos termos da lei ou do contrato, o senhorio tem o direito de exigir o pagamento das despesas por si efetuadas com a realização das obras necessárias para reposição da habitação nas condições iniciais, acrescidas de 25 %.
+
+###### Artigo 40.º — Despejo
+
+1 - Caso não seja cumprida voluntariamente a obrigação de desocupação e entrega da habitação ao Município de Arruda dos Vinhos, cabe a esta entidade ordenar e mandar executar o despejo, podendo, para o efeito, requisitar as autoridades policiais competentes.
+
+2 - As decisões relativas ao despejo são da competência do órgão executivo do Município de Arruda dos Vinhos, sem prejuízo da possibilidade de delegação no Presidente da Câmara Municipal ou Vereador do pelouro com competência delegada.
+
+3 - Quando o despejo tenha por fundamento a falta de pagamento de rendas, encargos ou despesas, a decisão de promoção da correspondente execução deve ser tomada em simultâneo com a decisão do despejo.
+
+4 - Salvo acordo em sentido diferente, quaisquer bens móveis deixados na habitação, após qualquer forma de cessação do contrato e tomada de posse pelo Município, são considerados abandonados a favor deste, que deles pode dispor de forma onerosa ou gratuita, sem direito a qualquer compensação por parte do arrendatário.
+
+###### Artigo 41.º — Ocupações sem título
+
+1 - São consideradas sem titulo as situações de ocupação, total ou parcial, de habitações sociais do Município de Arruda dos Vinhos por quem não detém contrato ou documento de atribuição ou de autorização que a fundamente.
+
+2 - No caso previsto no número anterior o ocupante está obrigado a desocupar a habitação e a entregá-la, livre de pessoas e bens, até ao termo do prazo que lhe for fixado na comunicação feita, para o efeito, pelo Município de Arruda dos Vinhos, de que deve constar ainda o fundamento da obrigação de entrega da habitação.
+
+3 - Caso não seja cumprida voluntariamente a obrigação de desocupação e entrega da habitação nos termos do número anterior há lugar a despejo nos termos do artigo 40.º do presente regulamento.
+
+4 - O município de Arruda dos Vinhos executará, com caráter de urgência, a desocupação, o despejo e a tomada de posse administrativos das habitações e espaços municipais que se apresentem abusivamente ocupados por quaisquer pessoas e bens.
+
+### CAPÍTULO VI — Disposições complementares, transitórias e finais
+
+###### Artigo 42.º — Sanções
+
+1 - Fica impedido de aceder a uma habitação no regime de arrendamento apoiado, por um período de dois anos:
+
+a) O arrendatário ou o elemento do agregado familiar do arrendatário que, para efeito de atribuição ou manutenção de uma habitação em regime de arrendamento apoiado, preste declarações falsas ou omita informação relevante;
+
+b) O arrendatário ou o elemento do agregado familiar do arrendatário que ceda a habitação a terceiros a qualquer titulo, total ou parcialmente, de forma gratuita ou onerosa;
+
+c) A pessoa que tenha ocupado ilicitamente ou tenha sido sujeita a despejo de uma habitação pertencente ao Município de Arruda dos Vinhos.
+
+2 - O disposto nos números anteriores não prejudica os direitos que, em função da situação, o senhorio detenha, nem o procedimento criminal que seja aplicável ao caso nos termos legais.
+
+###### Artigo 43.º — Aplicação no tempo
+
+O presente regulamento aplica-se a todos os títulos de ocupação das habitações vigentes e aos que sejam celebrados após a data da sua entrada em vigor, bem como às demais ocupações de habitações sociais propriedade do Município de Arruda dos Vinhos que nessa data subsistam.
+
+###### Artigo 44.º — Interpretação e preenchimento de lacunas
+
+As dúvidas que surgirem na aplicação do presente regulamento ou eventuais omissões serão resolvidas e preenchidas as suas lacunas mediante deliberação da Câmara Municipal de Arruda dos Vinhos.
+
+###### Artigo 45.º — Direito subsidiário
+
+Em tudo quanto não estiver especialmente previsto neste regulamento aplicar-se-á a legislação em vigor.
+
+###### Artigo 46.º — Norma revogatória
+
+Com a entrada em vigor do presente regulamento, fica revogado o anterior regulamento de atribuição e ocupação das habitações sociais aprovado pela Câmara Municipal em 21/07/2014 e pela Assembleia Municipal em 08/09/2014.
+
+###### Artigo 47.º — Entrada em vigor
+
+O presente regulamento entra em vigor no dia seguinte, após a sua publicação no Diário da República.
+
+## ANEXO I — Documentos a apresentar
+
+1 - Requerimento dirigido ao Presidente da Câmara Municipal de Arruda dos Vinhos, anexando o Questionário, devidamente preenchido e assinado pelo candidato (a disponibilizar pela Secção de Gestão Patrimonial e site do Município).
+
+2 - Documentos referentes ao candidato e a todos os elementos que compõem o agregado familiar:
+
+i) Fotocopia dos bilhetes de identidade, cartão de cidadão ou certidão de nascimento;
+
+ii) Fotocópia do número de identificação fiscal;
+
+iii) Atestado de residência e de composição do agregado familiar, emitido pela Junta de Freguesia;
+
+iv) Fotocópia da autorização da residência ou documento equivalente que habilite o candidato a permanecer de forma legal em território nacional, no caso de cidadãos estrangeiros;
+
+v) Certidão emitida há menos de três meses pela Autoridade Tributária e Aduaneira (finanças), onde conste a inexistência de bens imóveis.
+
+3 - O candidato deve comprovar a sua situação socioprofissional bem como dos restantes elementos do agregado familiar com mais de 16 anos que exerçam uma atividade laboral remunerada, mediante a apresentação dos seguintes documentos:
+
+a) Trabalhador por conta de outrem:
+
+i) Fotocópia da declaração de I.R.S. do ano civil anterior e respetiva nota de liquidação;
+
+b) Trabalhador independente:
+
+i) Fotocópia da declaração de I.R.S. do ano transato (incluindo os anexos) e respetiva nota de liquidação;
+
+c) Reformado e pensionista:
+
+i) Fotocópia do recibo da pensão, declaração da Segurança Social, comprovativa do valor da pensão anual (total recebido no ano transato), ou declaração de I.R.S. do ano civil anterior e respetiva nota de liquidação;
+
+d) desempregado:
+
+i) Declaração do Centro de Emprego (IEFP) comprovativa de inscrição para novo emprego, como desempregado;
+
+ii) Declaração da Segurança Social indicando o montante do subsídio atribuído, o inicio e o seu termo;
+
+iii) Fotocópia da declaração de I.R.S. do ano civil anterior e respetivo documento de liquidação.
+
+e) Beneficiário do Rendimento Social de Inserção (RSI):
+
+i) Declaração emitida pela Segurança Social a comprovar o montante atribuído.
+
+f) Portador de deficiência:
+
+i) Atestado médico de incapacidade multiúsos comprovativo do grau de incapacidade dos elementos do agregado familiar que apresentem deficiência com grau de incapacidade geral para o trabalho igual ou superior a 60 %.
+
+g) Doméstica (o):
+
+i) Quando na constituição do agregado familiar surja um elemento na situação de doméstica/o deve ser apresentada declaração da Segurança Social comprovativa dos descontos efetuados e respetivo montante, ou da sua inexistência.
+
+h) Nas situações em que se verifique a inexistência de qualquer fonte de rendimentos por parte do agregado familiar deve ser apresentado um comprovativo da candidatura a um mecanismo de proteção social.
+
+i) Se tem ordem de despejo deverá entregar fotocópia da sentença ou decisão com trânsito em julgado ou data já fixada para o despejo.
+
+j) Se é arrendatário, deverá entregar fotocópia do Contrato de Arrendamento (facultativo) e fotocópia do último recibo da renda de casa (obrigatório).
+
+## ANEXO II — Critérios de classificação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/08/158000000/2313523143.pdf)
+
+208847342

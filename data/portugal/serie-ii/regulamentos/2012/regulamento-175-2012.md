@@ -1,0 +1,946 @@
+---
+schema_version: '1.0'
+id: pt:dre:2398351:por
+title: Regulamento n.º 175/2012
+short_title: null
+summary: Publicação na 2.ª série do Diário da República do Regulamento do Serviço de Gestão de Resíduos Urbanos aprovado pela
+  Câmara Municipal e Assembleia Municipal, em 27 de abril de 2012
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Ourique
+proposing_entity: null
+official_number: 175/2012
+official_date: null
+publication_date: '2012-05-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 96/2012, Série II de 2012-05-17
+  number: '96'
+  series: II
+  supplement: null
+  pages: 17501 - 17508
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/05/096000000/1750117508.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2398351'
+  dre_path: /dr/detalhe/regulamento/175-2012-2398351
+  internal: pt:dre:2398351:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/175-2012-2398351
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/175-2012-2398351
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:09:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b3fb19a51e42355e92bf309d30be99e8ea8beca7fb4194a9283a52205d14d9e4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:09:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659564:por
+  label: null
+  source: null
+article_structure:
+  article_count: 62
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:09:44Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 175/2012
+
+Pedro Nuno Prazeres Raposo do Carmo, Presidente da Câmara Municipal de Ourique:
+
+Torna público, nos termos da alínea v), do n.º 1, do artigo 68.º e para efeitos do disposto no artigo 91.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886) de 18 de setembro, alterada e republicada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro, e n.º 5 do artigo 62.º do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de agosto, que a Câmara Municipal e Assembleia Municipal de Ourique, aprovaram, em 27 de abril de 2012, o Regulamento do Serviço de Gestão de Resíduos Urbanos, cujo texto se anexa ao presente aviso
+
+10 de maio de 2012. - O Presidente da Câmara, Dr. Pedro Nuno Raposo Prazeres do Carmo.
+
+Regulamento do Serviço de Gestão de Resíduos Urbanos
+
+Preâmbulo
+
+A atividade de gestão de resíduos urbanos constitui um serviço público de caráter estrutural, essencial ao bem-estar geral, à saúde pública, à segurança coletiva das populações, às atividades económicas e à proteção do ambiente.
+
+Tal serviço deve pautar-se por princípios de universalidade no acesso, de continuidade e qualidade de serviço e de eficiência e equidade dos tarifários aplicados.
+
+No quadro de transferência de atribuições e competências para as autarquias locais, os municípios encontram-se incumbidos de assegurar a provisão de serviços municipais de gestão de resíduos urbanos, nos termos previstos na [Lei n.º 159/99](https://diariodarepublica.pt/dr/detalhe/lei/159-1999-570562), de 14 de setembro, sem prejuízo da possibilidade de criação de sistemas multimunicipais, de titularidade estatal.
+
+O [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de agosto que aprova o regime jurídico dos serviços municipais de abastecimento público de água, de saneamento de águas residuais urbanas e de gestão de resíduos urbanos, determina no n.º 1 do seu artigo 62.º que as regras da prestação do serviço aos utilizadores constam de regulamento a elaborar com observância da Portaria n.º 34/2011, de 13 de janeiro.
+
+O presente "Regulamento do Serviço de Gestão de Resíduos Urbanos" foi publicado sob a forma de projeto na 2.ª série do Diário da República, n.º 11, em 16 de janeiro de 2012, para efeitos de apreciação pública durante 30 dias úteis.
+
+Foi dado cumprimento ao estabelecido nos artigos 117.º e 118.º do Código do Procedimento Administrativo, tendo durante o período de apreciação pública sido consultada a seguinte entidade:
+
+Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR).
+
+A referida entidade pronunciou-se sobre o teor do projeto de regulamento, tendo sido tomadas em consideração algumas recomendações do Parecer, na redação final do presente Regulamento.
+
+Assim, dando cumprimento ao disposto no n.º 1 do artigo 62.º do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de agosto, conjugado com a Portaria n.º 34/2011, de 13 de janeiro, e com observância do artigo 5.º da [Lei n.º 23/96](https://diariodarepublica.pt/dr/detalhe/lei/23-1996-408366), de 26 de julho, alterada e republicada em anexo à lei dos Serviços Públicos Essenciais, do artigo 26.º da [Lei n.º 159/99](https://diariodarepublica.pt/dr/detalhe/lei/159-1999-570562), de 14 de setembro, e das disposições conjugadas dos artigos 64.º, n.º 6, alínea a) e 53.º, n.º 2, alínea a) da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, com a redação da [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro, a Câmara Municipal e Assembleia Municipal de Ourique por deliberações de 27 de abril de 2012, aprovaram o Regulamento do Serviço de Gestão de Resíduos Urbanos do Concelho de Ourique.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Lei habilitante
+
+O presente Regulamento é aprovado ao abrigo do disposto no artigo 62.º do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de agosto, da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de janeiro, com respeito pelas exigências constantes da [Lei n.º 23/96](https://diariodarepublica.pt/dr/detalhe/lei/23-1996-408366), de 26 de julho, e do [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de setembro, todos na redação atual.
+
+###### Artigo 2.º — Objeto
+
+O presente regulamento define as regras a que deve obedecer a prestação do serviço de gestão de resíduos urbanos no Município de Ourique, bem como a gestão de resíduos de construção e demolição sob sua responsabilidade.
+
+###### Artigo 3.º — Âmbito de aplicação
+
+O presente Regulamento aplica-se em toda a área do Município de Ourique às atividades de recolha e transporte do sistema de gestão de resíduos urbanos.
+
+###### Artigo 4.º — Legislação aplicável
+
+1 - Em tudo quanto for omisso neste Regulamento, são aplicáveis as disposições legais em vigor respeitantes aos sistemas de gestão de resíduos, designadamente as constantes do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de agosto e do [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de setembro, todos na redação atual.
+
+2 - A recolha, tratamento e valorização de resíduos urbanos observam designadamente os seguintes diplomas legais, na sua atual redação:
+
+a) [Decreto-Lei n.º 366-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-a-1997-659564), de 20 de dezembro, relativo à gestão de embalagens e resíduos de embalagens;
+
+b) [Decreto-Lei n.º 230/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2004-213408), de 10 de dezembro, relativo à gestão de resíduos de equipamentos elétricos e eletrónicos (REEE);
+
+c) [Decreto-Lei n.º 46/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2008-247037), de 12 de março e Portaria n.º 417/2008, de 11 de junho, relativos à gestão de resíduos de construção e demolição (RCD);
+
+d) [Decreto-Lei n.º 6/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2009-396878), de 6 de janeiro, relativo à gestão dos resíduos de pilhas e de acumuladores;
+
+e) [Decreto-Lei n.º 266/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-2009-490706), de 29 de setembro, relativo à gestão de óleos alimentares usados (OAU);
+
+f) [Portaria n.º 335/97](https://diariodarepublica.pt/dr/detalhe/portaria/335-1997-396748), de 16 de maio, relativo ao transporte de resíduos.
+
+3 - O serviço de gestão de resíduos obedece às regras de prestação de serviços públicos essenciais destinadas à proteção dos utilizadores que estejam consignadas na legislação em vigor, designadamente as constantes da [Lei n.º 23/96](https://diariodarepublica.pt/dr/detalhe/lei/23-1996-408366), de 26 de julho, e da [Lei n.º 24/96](https://diariodarepublica.pt/dr/detalhe/lei/24-1996-406882), de 31 de julho, nas redações em vigor.
+
+4 - Em matéria de procedimento contraordenacional são aplicáveis, para além das normas especiais previstas no presente Regulamento, as constantes do Regime Geral das Contraordenações e Coimas, aprovado pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na redação em vigor, e do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de agosto.
+
+###### Artigo 5.º — Entidade Titular e Entidade Gestora do sistema
+
+1 - O Município de Ourique é a entidade titular que, nos termos da lei, tem por atribuição assegurar a provisão do serviço de gestão de resíduos urbanos no respetivo território.
+
+2 - Em toda a área do Município de Ourique, a Câmara Municipal é a Entidade Gestora responsável pela recolha indiferenciada.
+
+3 - Em toda a área do Município de Ourique, a Resialentejo é a Entidade Gestora responsável pela recolha seletiva, triagem, valorização e eliminação dos resíduos urbanos.
+
+###### Artigo 6.º — Definições
+
+1 - Para efeitos do presente regulamento, entende-se por:
+
+a) «Armazenagem» - a deposição temporária e controlada de resíduos, antes do seu tratamento e por prazo determinado, designadamente as operações R13 e D15 identificadas nos anexos I e II do [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de setembro, na sua redação atual;
+
+b) «Área predominantemente rural»-freguesia do território nacional classificada de acordo com a tipologia de áreas urbanas.
+
+c) «Contrato» - documento celebrado entre a Entidade Gestora e qualquer pessoa, singular ou coletiva, pública ou privada, pelo qual é estabelecida entre as partes uma relação de prestação, permanente ou temporária ou sazonal, do Serviço nos termos e condições do presente Regulamento;
+
+d) «Deposição»- acondicionamento dos resíduos urbanos nos locais ou equipamentos previamente determinados pela Entidade Gestora, a fim de serem recolhidos;
+
+e) «Deposição indiferenciada» - deposição de resíduos urbanos sem prévia seleção;
+
+f) «Deposição seletiva» - deposição efetuada de forma a manter o fluxo de resíduos separado por tipo e natureza (como resíduos de papel e cartão, vidro de embalagem, plástico de embalagem, resíduos urbanos biodegradáveis, REEE, RCD, resíduos volumosos, verdes, pilhas), com vista a tratamento específico;
+
+g) «Ecoponto»- conjunto de contentores, colocado na via pública, escolas, ou outros espaços públicos, e destinados à recolha seletiva de papel, vidro, embalagens de plástico e metal ou outros materiais para valorização;
+
+h) "Eliminação" - qualquer operação que não seja de valorização, mesmo que tenha como consequência secundária a recuperação de substâncias ou de energia. O anexo III da portaria n.º 209/2004, de 3 de março, contém uma lista não exaustiva de operações de eliminação;
+
+i) "Estação de transferência" - instalação onde o resíduo é descarregado com o objetivo de o preparar para ser transportado para outro local de tratamento, valorização ou eliminação;
+
+j) «Estrutura tarifária» - conjunto de regras de cálculo expressas em termos genéricos, aplicáveis a um conjunto de valores unitários e outros parâmetros;
+
+k) «Gestão de resíduos» - recolha, o transporte, a valorização e a eliminação de resíduos, incluindo a supervisão destas operações, a manutenção dos locais após encerramento e as medidas tomadas na qualidade de comerciante ou corretor;
+
+l) «Prevenção»- medidas tomadas antes de uma substância, material ou produto se ter transformado em resíduos, destinadas a reduzir:
+
+i) A quantidade de resíduos, designadamente através da reutilização de produtos ou do prolongamento do tempo de vida dos produtos;
+
+ii) Os impactos adversos no ambiente e na saúde humana resultantes dos resíduos gerados; ou
+
+iii) O teor de substâncias nocivas presentes nos materiais e nos produtos.
+
+m) «Produtor de resíduos» - qualquer pessoa, singular ou coletiva, cuja atividade produza resíduos (produtor inicial de resíduos) ou que efetue operações de pré-tratamento, de mistura ou outras que alterem a natureza ou a composição desses resíduos;
+
+n) «Reciclagem»- qualquer operação de valorização, incluindo o reprocessamento de materiais orgânicos, através da qual os materiais constituintes dos resíduos são novamente transformados em produtos, materiais ou substâncias para o seu fim original ou para outros fins, mas não inclui a valorização energética nem o reprocessamento em materiais que devam ser utilizados como combustível ou em operações de enchimento;
+
+o) «Recolha»- apanha de resíduos, incluindo a triagem e o armazenamento preliminares dos resíduos para fins de transporte para uma instalação de tratamento de resíduos;
+
+p) «Recolha indiferenciada» - recolha de resíduos urbanos sem prévia seleção;
+
+q) «Recolha seletiva»- recolha efetuada de forma a manter o fluxo de resíduos separado por tipo e natureza, com vista a facilitar o tratamento específico;
+
+r) «Remoção»- conjunto de operações que visem o afastamento dos resíduos dos locais de produção, mediante a deposição, recolha e transporte;
+
+s) «Resíduo» - qualquer substância ou objeto de que o detentor se desfaz ou tem intenção ou obrigação de se desfazer, nomeadamente os identificados na Lista Europeia de Resíduos;
+
+t) «Resíduo de construção e demolição (RCD)»- resíduo proveniente de obras de construção, reconstrução, ampliação, conservação e demolições de edifícios e da derrocada de edificações;
+
+u) «Resíduo de equipamento elétrico e eletrónico (REEE)»- equipamento elétrico e eletrónico que constitua um resíduo, incluindo todos os componentes, subconjuntos e consumíveis que fazem parte integrante do equipamento no momento em que é descartado;
+
+v) «Resíduo urbano (RU)»- resíduo proveniente de habitações bem como outro resíduo que, pela sua natureza ou composição, seja semelhante ao resíduo proveniente de habitações, incluindo-se igualmente nesta definição os resíduos a seguir enumerados:
+
+i) «Resíduo verde»- resíduo proveniente da limpeza e manutenção de jardins, espaços verdes públicos ou zonas de cultivo e das habitações, nomeadamente aparas, troncos, ramos, corte de relva e ervas.
+
+ii) «Resíduo urbano proveniente da atividade comercial» - resíduo produzido por um ou vários estabelecimentos comerciais ou do setor de serviços, com uma administração comum relativa a cada local de produção de resíduos, que, pela sua natureza ou composição, seja semelhante ao resíduo proveniente de habitações;
+
+iii) «Resíduo urbano proveniente de uma unidade industrial»- resíduo produzido por uma única entidade em resultado de atividades acessórias da atividade industrial que, pela sua natureza ou composição, seja semelhante ao resíduo proveniente de habitações;
+
+iv) «Resíduo volumoso» - objetoobjecto volumoso fora de uso, proveniente das habitações que, pelo seu volume, forma ou dimensão, não possa ser recolhido pelos meios normais de remoção. Este objeto designa-se vulgarmente por "monstro" ou "mono";
+
+v) «REEE proveniente de particulares» - REEE proveniente do setor doméstico, bem como o REEE proveniente de fontes comerciais, industrias, institucionais ou outras que, pela sua natureza e quantidade, seja semelhante ao REEE proveniente do setor doméstico;
+
+vi) «Resíduo de embalagem» - qualquer embalagem ou material de embalagem abrangido pela definição de resíduo, adotada na legislação em vigor aplicável nesta matéria, excluindo os resíduos de produção;
+
+vii) «Resíduo hospitalar não perigoso» - resíduo resultante de atividades de prestação de cuidados de saúde a seres humanos ou animais, nas áreas da prevenção, diagnóstico, tratamento, reabilitação ou investigação e ensino, bem como de outras atividades envolvendo procedimentos invasivos, tais como acupuntura, piercings e tatuagens.
+
+viii) «Resíduo urbano de grandes produtores» - resíduo urbano produzido por particulares ou unidades comerciais, industriais e hospitalares cuja produção diária exceda os 1100 litros por produtor e cuja responsabilidade pela sua gestão é do seu produtor.
+
+w) "Reutilização" - qualquer operação mediante a qual produtos ou componentes que não sejam resíduos são utilizados novamente para o mesmo fim para que foram concebidos;
+
+x) «Titular do contrato» - qualquer pessoa individual ou coletiva, pública ou privada, que celebra com a Entidade Gestora um Contrato, também designada na legislação aplicável em vigor por utilizador ou utilizadores;
+
+y) "Tratamento" - qualquer operação de valorização ou de eliminação, incluindo a preparação prévia à valorização ou eliminação;
+
+z) «Utilizador doméstico» - aquele que use o prédio urbano servido para fins habitacionais, com exceção das utilizações para as partes comuns, nomeadamente as dos condomínios;
+
+aa) «Utilizador não doméstico» - aquele que não esteja abrangido pela alínea anterior, incluindo o Estado, as autarquias locais, os fundos e serviços autónomos e as entidades dos setores empresariais do Estado e Local;
+
+bb) «Utilizador final»- pessoa singular ou coletiva, pública ou privada, a quem seja assegurado de forma continuada o serviço de gestão de resíduos e que não tenha como objeto da sua atividade a prestação desses mesmos serviços a terceiros;
+
+cc) "Valorização" - qualquer operação cujo resultado principal seja a transformação dos resíduos de modo a servirem um fim útil, substituindo outros materiais que, no caso contrário, teriam sido utilizados para um fim específico, ou a preparação dos resíduos para esse fim, na instalação ou no conjunto da economia. O anexo III da [Portaria n.º 209/2004](https://diariodarepublica.pt/dr/detalhe/portaria/209-2004-551652), de 3 de março, contém uma lista não exaustiva de operações de valorização.
+
+###### Artigo 7.º — Regulamentação técnica
+
+As normas técnicas a que devem obedecer a conceção, o projeto, a construção e exploração do sistema de gestão, bem como as respetivas normas de higiene e segurança, são as aprovadas nos termos da legislação em vigor.
+
+###### Artigo 8.º — Princípios de gestão
+
+1 - A prestação do serviço de gestão de resíduos urbanos obedece aos seguintes princípios:
+
+a) Princípio da universalidade e da igualdade de acesso;
+
+b) Princípio da qualidade e da continuidade do serviço prestado e da proteção dos interesses dos utilizadores;
+
+c) Princípio da transparência na prestação do serviço;
+
+d) Princípio da proteção da saúde pública e do ambiente;
+
+e) Princípio da garantia da eficiência e melhoria contínua na utilização dos recursos afetos, respondendo à evolução das exigências técnicas e às melhores técnicas ambientais disponíveis;
+
+f) Princípio da promoção da solidariedade económica e social, do correto ordenamento do território e do desenvolvimento regional;
+
+g) Princípio do poluidor-pagador;
+
+h) Princípio da hierarquia das operações de gestão de resíduos;
+
+i) Princípio da responsabilidade do cidadão, adotando comportamentos de carácter preventivo em matéria de produção de resíduos, bem como práticas que facilitem a respetiva reutilização e valorização.
+
+###### Artigo 9.º — Disponibilização do Regulamento
+
+O Regulamento está publicado no sítio da Internet da Entidade Gestora e disponível para consulta nos serviços de atendimento, sendo neste último caso disponibilizadas cópias mediante o pagamento da quantia definida na Tabela de Taxas e Preços - Capítulo XXI - Artigo 93.º
+
+### CAPÍTULO II — Direitos e Deveres
+
+###### Artigo 10.º — Deveres da Entidade Gestora
+
+1 - Compete à Entidade Gestora, designadamente:
+
+a) Garantir a gestão dos resíduos urbanos cuja produção diária não exceda os 1100 litros por produtor, produzidos na sua área geográfica, bem como de outros resíduos cuja gestão lhe seja atribuída por lei;
+
+b) Assegurar o encaminhamento adequado dos resíduos que recolhe, ou recebe da sua área geográfica, sem que tal responsabilidade isente os munícipes do pagamento das correspondentes tarifas pelo serviço prestado;
+
+c) Garantir a qualidade, regularidade e continuidade do serviço, salvo em casos fortuitos ou de força maior, que não incluem as greves, sem prejuízo da tomada de medidas imediatas para resolver a situação e, em qualquer caso, com a obrigação de avisar de imediato os utilizadores;
+
+d) Assumir a responsabilidade da conceção, construção e exploração do sistema de gestão de resíduos urbanos nas componentes técnicas previstas no presente regulamento;
+
+e) Promover a elaboração de planos, estudos e projetos que sejam necessários à boa gestão do sistema;
+
+f) Manter atualizado o cadastro dos equipamentos e infraestruturas afetas ao sistema de gestão de resíduos;
+
+g) Promover a instalação, a renovação, o bom estado de funcionamento e conservação dos equipamentos e infraestruturas do sistema de gestão de resíduos, sempre que seja da sua responsabilidade;
+
+h) Assegurar a limpeza dos equipamentos de deposição dos resíduos e área envolvente;
+
+i) Promover a atualização tecnológica do sistema de gestão de resíduos, nomeadamente, quando daí resulte um aumento da eficiência técnica e da qualidade ambiental;
+
+j) Dispor de serviços de atendimento aos utilizadores, direcionados para a resolução dos seus problemas relacionados com o sistema de gestão de resíduos;
+
+k) Promover a atualização anual do tarifário e assegurar a sua divulgação junto dos utilizadores, designadamente nos postos de atendimento e no sítio da internet da Entidade Gestora;
+
+l) Proceder em tempo útil, à emissão e envio das faturas correspondentes aos serviços prestados e à respetiva cobrança;
+
+m) Dispor de serviços de cobrança, por forma a que os utilizadores possam cumprir as suas obrigações com o menor incómodo possível;
+
+n) Manter um registo atualizado das reclamações e sugestões dos utilizadores e garantir a sua resposta no prazo legal;
+
+o) Prestar informação essencial sobre a sua atividade;
+
+p) Cumprir e fazer cumprir o presente regulamento.
+
+###### Artigo 11.º — Deveres dos utilizadores
+
+1 - Compete aos utilizadores, designadamente:
+
+a) Cumprir o disposto no presente regulamento;
+
+b) Não alterar a localização dos equipamentos de deposição de resíduos e garantir a sua boa utilização;
+
+c) Acondicionar corretamente os resíduos;
+
+d) Reportar à Entidade Gestora eventuais anomalias existentes no equipamento destinado à deposição de resíduos urbanos;
+
+e) Avisar a Entidade Gestora de eventual subdimensionamento ou sobredimensionamento do equipamento de deposição de resíduos urbanos;
+
+f) Cumprir as regras de deposição/separação dos resíduos urbanos;
+
+g) Cumprir o horário de deposição dos resíduos urbanos a definir pela entidade gestora;
+
+h) Pagar pontualmente as importâncias devidas, nos termos do presente Regulamento e dos contratos estabelecidos com a Entidade Gestora;
+
+i) Em situações de acumulação de resíduos, o utilizador deve adotar os procedimentos indicados pela Entidade Gestora, no sentido de evitar o desenvolvimento de situações de insalubridade pública.
+
+j) Promover o bom estado de funcionamento e conservação dos equipamentos de deposição, bem como as condições de manuseamento e salubridade desejadas à salvaguarda da saúde pública no caso do equipamento de recolha porta à porta ser da sua responsabilidade.
+
+###### Artigo 12.º — Direito à prestação do serviço
+
+1 - Qualquer utilizador cujo local de produção se insira na área de influência da Entidade Gestora tem direito à prestação do serviço sempre que o mesmo esteja disponível.
+
+2 - O serviço de recolha considera-se disponível, para efeitos do presente Regulamento, desde que o equipamento de recolha indiferenciada se encontre instalado a uma distância inferior a 100 m do limite do prédio e a Entidade Gestora efetue uma frequência mínima de recolha que salvaguarde a saúde pública, o ambiente e a qualidade de vida dos cidadãos.
+
+3 - A distância prevista no número anterior é aumentado até 200 m nas áreas predominantemente rurais.
+
+###### Artigo 13.º — Direito à informação
+
+1 - Os utilizadores têm o direito a ser informados de forma clara e conveniente pela Entidade Gestora das condições em que o serviço é prestado, em especial no que respeita aos tarifários aplicáveis.
+
+2 - A Entidade Gestora dispõe de um sítio na Internet no qual é disponibilizada a informação essencial sobre a sua atividade, designadamente:
+
+a) Identificação da Entidade Gestora, suas atribuições e âmbito de atuação;
+
+b) Relatório e contas ou documento equivalente de prestação de contas;
+
+c) Regulamentos de serviço;
+
+d) Tarifários;
+
+e) Condições contratuais relativas à prestação dos serviços aos utilizadores;
+
+f) Indicadores de qualidade do serviço prestado aos utilizadores;
+
+g) Informação sobre o destino dado aos diferentes resíduos recolhidos - indiferenciados, OAU, REEE, RCD, identificando a respetiva infraestrutura;
+
+h) Informações sobre interrupções do serviço;
+
+i) Contactos e horários de atendimento.
+
+###### Artigo 14.º — Atendimento ao público
+
+1 - A Entidade Gestora dispõe de 1 local de atendimento ao público e de um serviço de atendimento telefónico, através do qual os utilizadores a podem contactar diretamente.
+
+2 - O atendimento ao público é efetuado nos dias úteis das 09h às 12.30h e das 14h às 17.30h.
+
+### CAPÍTULO III — Sistema de gestão de resíduos
+
+#### SECÇÃO I — Disposições Gerais
+
+###### Artigo 15.º — Tipologia de resíduos a gerir
+
+1 - Os resíduos a gerir classificam-se quanto à tipologia em:
+
+a) Resíduos urbanos, cuja produção diária não exceda os 1100 litros por produtor;
+
+b) Os Resíduos de Construção e Demolição previstos na lei.
+
+c) Resíduos Urbanos de grandes produtores.
+
+###### Artigo 16.º — Origem dos resíduos a gerir
+
+Os resíduos a gerir têm a sua origem nos utilizadores domésticos e não domésticos.
+
+###### Artigo 17.º — Sistema de gestão de resíduos
+
+O sistema de gestão de resíduos engloba, no todo ou em parte, as seguintes componentes relativas à operação de remoção de resíduos:
+
+a) Acondicionamento;
+
+b) Deposição (Indiferenciada e Seletiva);
+
+c) Recolha (Indiferenciada) e transporte;
+
+#### SECÇÃO II — Acondicionamento e Deposição
+
+###### Artigo 18.º — Acondicionamento
+
+Todos os produtores de resíduos urbanos são responsáveis pelo acondicionamento adequado dos mesmos, devendo a deposição dos resíduos urbanos ocorrer em boas condições de higiene e estanquidade, nomeadamente em sacos devidamente fechados, não devendo a sua colocação ser a granel, por forma a não causar o espalhamento ou derrame dos mesmos.
+
+###### Artigo 19.º — Responsabilidade de deposição
+
+São responsáveis pela deposição no sistema disponibilizado pela Entidade Gestora, dos resíduos urbanos cuja produção diária não exceda os 1100 litros por produtor:
+
+a) Todos os produtores de resíduos urbanos proprietários, gerentes ou administradores de estabelecimentos comerciais e Industriais, escritórios e similares;
+
+b) Proprietários e residentes de edifícios de habitação;
+
+c) Representantes legais de outras instituições;
+
+d) Nos restantes casos, os residentes, indivíduos ou entidades para o efeito designados, ou na sua falta, todos os detentores de resíduos.
+
+e) Os condomínios, representados pela Administração, nos casos de edifícios em regime de propriedade horizontal, quando exista recolha porta a porta.
+
+###### Artigo 20.º — Regras de deposição
+
+1 - Só é permitido depositar resíduos urbanos em equipamento ou local aprovado para o efeito, o qual deve ser utilizado de forma a respeitar as condições de higiene e salubridade adequadas.
+
+2 - A deposição de resíduos urbanos é realizada de acordo com os equipamentos disponibilizados pela Entidade Gestora e tendo em atenção o cumprimento das regras de separação de resíduos urbanos.
+
+3 - A deposição está, ainda, sujeita às seguintes regras:
+
+a) É obrigatória a deposição dos resíduos urbanos no interior dos equipamentos para tal destinados, deixando sempre fechada a respetiva tampa;
+
+b) Não é permitido o despejo de OAU nos contentores destinados a RU, nas vias ou outros espaços públicos, bem como o despejo nos sistemas de drenagem, individuais ou coletivos, de águas residuais e pluviais, incluindo sarjetas e sumidouros;
+
+c) Os OAU provenientes do setor doméstico devem ser acondicionados em garrafa de plástico, fechada, e colocada nos equipamentos específicos;
+
+d) Não é permitida a colocação de cinzas, escórias ou qualquer material incandescente nos contentores destinados a RU;
+
+e) Não é permitido colocar resíduos volumosos e resíduos verdes nos contentores destinados a RU, nas vias e outros espaços públicos, exceto quando acordado e autorizado pela Entidade Gestora.
+
+###### Artigo 21.º — Tipos de equipamentos de deposição
+
+1 - Compete ao Município de Ourique definir o tipo de equipamento de deposição de resíduos urbanos a utilizar.
+
+2 - Para efeitos de deposição indiferenciada de resíduos urbanos são disponibilizados aos utilizadores o(s) seguinte(s) equipamento(s):
+
+a) Contentores herméticos com capacidade de 800, 240 e 110 litros;
+
+3 - Para efeitos de deposição seletiva de resíduos urbanos são disponibilizados aos utilizadores o(s) seguinte(s) equipamento(s):
+
+a) Ecopontos com capacidade de 2500 litros;
+
+b) Ecopontos enterrados com capacidade de 3000 e 5000 litros;
+
+c) Vidrões com capacidade de 1500 litros.
+
+###### Artigo 22.º — Localização e colocação de equipamento de deposição
+
+1 - Compete ao Município definir a localização de instalação de equipamento de deposição indiferenciada e ou seletiva de resíduos urbanos.
+
+2 - A localização e a colocação de equipamentos de deposição de resíduos urbanos respeitam os seguintes critérios:
+
+a) Zonas pavimentadas, de fácil acesso e em condições de segurança aos utilizadores;
+
+b) Zonas de fácil acesso às viaturas de recolha evitando-se nomeadamente becos, passagens estreitas, ruas de grande pendente, que originem manobras difíceis que coloquem em perigo a segurança dos trabalhadores e da população em geral, etc.;
+
+c) Evitar a obstrução da visibilidade de peões e condutores, nomeadamente através da colocação junto a passagens de peões, saídas de garagem, cruzamentos;
+
+d) Aproximar a localização do equipamento de deposição indiferenciada do de deposição seletiva;
+
+e) Assegurar a existência de equipamentos de deposição de resíduos urbanos indiferenciados a uma distância inferior a 100 metros do limite dos prédios em áreas urbanas, podendo essa distância ser aumentada para 200 metros em áreas predominantemente rurais;
+
+f) Sempre que possível, deve existir equipamento de deposição seletiva para os resíduos urbanos valorizáveis a uma distância inferior a 200 metros do limite do prédio;
+
+g) Assegurar uma distância média entre equipamentos adequada, designadamente à densidade populacional e à otimização dos circuitos de recolha, garantindo a salubridade pública;
+
+h) Os equipamentos de deposição devem ser colocados com a abertura direcionada para o lado contrário ao da via de circulação automóvel, sempre que possível.
+
+3 - Os projetos de loteamento devem prever os locais para a colocação de equipamentos de deposição (indiferenciada e seletiva) de resíduos urbanos por forma a satisfazer as necessidades do loteamento, as regras do número um ou indicação expressa da Entidade Gestora.
+
+4 - Os projetos previstos no número anterior são submetidos à Entidade Gestora para o respetivo parecer.
+
+5 - Para a vistoria definitiva dos loteamentos, é condição necessária a certificação pela Entidade Gestora de que o equipamento previsto esteja em conformidade com o projeto aprovado.
+
+###### Artigo 23.º — Dimensionamento do equipamento de deposição
+
+1 - O dimensionamento para o local de deposição de resíduos urbanos, é efetuado com base na:
+
+a) Produção diária de resíduos urbanos, estimada tendo em conta a população espectável, a capitação diária e o peso específico dos resíduos, conforme previsto no anexo I;
+
+b) Produção de resíduos urbanos provenientes de atividades não domésticas, estimada tendo em conta o tipo de atividade e a sua área útil, conforme previsto no anexo I;
+
+c) Frequência de recolha;
+
+d) Capacidade de deposição do equipamento previsto para o local.
+
+2 - As regras de dimensionamento previstas no número anterior devem ser observadas nos projetos de loteamento, nos termos previstos nos números 3 a 5 do artigo anterior.
+
+###### Artigo 24.º — Horário de deposição
+
+1 - O horário de deposição indiferenciada de resíduos urbanos é das 19h às 23h, todos os dias da semana.
+
+2 - O horário de deposição seletiva de resíduos urbanos é das 15h às 20h, todos os dias.
+
+#### SECÇÃO III — Recolha e Transporte
+
+###### Artigo 25.º — Recolha
+
+1 - A recolha na área abrangida pela Câmara Municipal de Ourique efetua-se por circuitos pré-definidos ou por solicitação prévia, de acordo com critérios a definir pelos respetivos serviços, tendo em consideração a frequência mínima de recolha que permita salvaguardar a saúde pública, o ambiente e a qualidade de vida dos cidadãos.
+
+2 - A Entidade Gestora efetua os seguintes tipos de recolha, nas zonas indicadas:
+
+a) Recolha indiferenciada de proximidade, em todo o território municipal;
+
+b) Recolha seletiva de vidro no comércio local em todo o território municipal;
+
+3 - A Resialentejo efetua a recolha seletiva de proximidade em todo o território municipal.
+
+###### Artigo 26.º — Transporte
+
+O transporte de resíduos urbanos é da responsabilidade da Entidade Gestora, tendo por destino final a estação de transferência das Piçarras.
+
+###### Artigo 27.º — Recolha e transporte de óleos alimentares usados
+
+1 - A recolha seletiva de OAU provenientes do setor doméstico (habitações) processa-se por contentores, localizados junto aos ecopontos e estabelecimentos comerciais, em circuitos pré-definidos em toda a área de intervenção da Entidade Gestora.
+
+2 - Os OAU são transportados por um operador legalizado, identificado pela Entidade Gestora no respetivo sítio na Internet.
+
+###### Artigo 28.º — Recolha e transporte de resíduos de equipamentos elétricos e eletrónicos
+
+1 - A recolha seletiva de REEE do setor doméstico processa-se por pontos eletrão localizados em locais específicos identificados pela Entidade Gestora no respetivo sítio da Internet.
+
+2 - Os REEE são transportados para uma infraestrutura sob responsabilidade de um operador legalizado, identificado pela Entidade Gestora no respetivo sítio na Internet.
+
+###### Artigo 29.º — Recolha e transporte de resíduos de construção e demolição
+
+1 - A recolha seletiva de RCD produzidos em obras particulares isentas de licença e não submetidas a comunicação prévia, cuja gestão cabe à câmara municipal, processa-se por solicitação à Entidade Gestora, à Unidade Orgânica de Gestão Urbanística e Ambiente (UNOGUA) por escrito, por telefone ou pessoalmente.
+
+2 - A remoção efetua-se em hora, data e local a acordar entre a Entidade Gestora e o munícipe.
+
+3 - Os RCD previstos no n.º 1 são transportados para uma infraestrutura sob responsabilidade de um operador legalizado, identificado pela Entidade Gestora no respetivo sítio na Internet.
+
+###### Artigo 30.º — Recolha e transporte de resíduos volumosos
+
+1 - A recolha de resíduos volumosos efetua-se na 1.ª e 3.ª sexta-feira de cada mês de acordo com o calendário fixado pela Câmara Municipal de Ourique no início de cada ano e divulgado no respetivo sitio da Internet.
+
+2 - A recolha de resíduos volumosos processa-se ainda por solicitação à Entidade Gestora, ao Serviço de Ambiente, por escrito, por telefone ou pessoalmente.
+
+3 - A remoção efetua-se em hora, data e local a acordar entre a Entidade Gestora e o munícipe.
+
+4 - Os resíduos volumosos são transportados para uma infraestrutura sob responsabilidade de um operador legalizado, identificado pela Entidade Gestora no respetivo sítio na Internet.
+
+###### Artigo 31.º — Recolha e transporte de resíduos verdes urbanos
+
+1 - A recolha de resíduos verdes urbanos processa-se por solicitação à Entidade Gestora, ao Serviço de Ambiente por escrito, por telefone ou pessoalmente.
+
+2 - A recolha efetua-se em hora, data e local a acordar entre a Entidade Gestora e o munícipe.
+
+3 - Os resíduos são transportados para a Estação de Compostagem de Castro Verde.
+
+#### SECÇÃO IV — Resíduos Urbanos de Grandes Produtores
+
+###### Artigo 32.º — Responsabilidade dos resíduos urbanos de grandes produtores
+
+1 - A deposição, recolha, transporte, armazenagem, valorização ou recuperação, eliminação dos resíduos urbanos de grandes produtores são da exclusiva responsabilidade dos seus produtores.
+
+2 - Não obstante a responsabilidade prevista no número anterior pode haver acordo com a Entidade Gestora (Câmara Municipal de Ourique) para a realização da sua recolha.
+
+###### Artigo 33.º — Pedido de recolha de resíduos urbanos de grandes produtores
+
+1 - Os produtores de resíduos urbanos particulares cuja produção diária exceda os 1100 litros por produtor podem efetuar o pedido de recolha através de requerimento dirigido à Entidade Gestora, onde devem constar os seguintes elementos:
+
+a) Identificação do requerente: nome ou denominação social;
+
+b) Número de Identificação Fiscal;
+
+c) Residência ou sede social;
+
+d) Local de produção dos resíduos
+
+e) Caracterização dos resíduos a remover;
+
+f) Quantidade estimada diária de resíduos produzidos;
+
+g) Descrição do equipamento de deposição;
+
+2 - A Entidade Gestora analisa o requerimento, tendo em atenção os seguintes aspetos:
+
+a) Tipo e quantidade de resíduos a remover;
+
+b) Periodicidade de recolha;
+
+c) Horário de recolha;
+
+d) Tipo de equipamento a utilizar;
+
+e) Localização do equipamento.
+
+### CAPÍTULO IV — Contratos de Gestão de Resíduos
+
+###### Artigo 34.º — Contrato de gestão de resíduos urbanos
+
+1 - A prestação do serviço de gestão de resíduos urbanos é objeto de contrato celebrado entre a Entidade Gestora e os utilizadores que disponham de título válido para a ocupação do imóvel.
+
+2 - Quando o serviço de gestão de resíduos urbanos seja disponibilizado simultaneamente com o serviço de abastecimento de água e ou de saneamento de águas residuais, o contrato é único e engloba todos os serviços.
+
+3 - O contrato é elaborado em impresso de modelo próprio da Entidade Gestora e instruído em conformidade com as disposições legais em vigor à data da sua celebração, e deve incluir as condições contratuais da prestação do serviço, designadamente os principais direitos e obrigações dos utilizadores e da Entidade Gestora, tais como a faturação, a cobrança, o tarifário, as reclamações e a resolução de conflitos.
+
+4 - No momento da celebração do contrato deve ser entregue ao utilizador a respetiva cópia.
+
+5 - Nas situações não abrangidas pelo n.º 2, o serviço de gestão de resíduos urbanos considera-se contratado desde que haja efetiva utilização do serviço e a Entidade Gestora remeta, por escrito, aos utilizadores, as condições contratuais da respetiva prestação.
+
+6 - Os proprietários dos prédios, sempre que o contrato não esteja em seu nome, devem comunicar à Entidade Gestora, por escrito e no prazo de 30 dias, a saída dos inquilinos.
+
+7 - Os proprietários, usufrutuários, arrendatários ou qualquer indivíduo ou entidade que disponha de título válido, que legitime o uso e fruição do local de prestação do serviço, ou aqueles que detêm a legal administração dos prédios, devem efetuar a mudança de titularidade dos contratos sempre que estes não estejam em seu nome.
+
+###### Artigo 35.º — Contratos especiais
+
+1 - A Entidade Gestora, por razões de salvaguarda da saúde pública e de proteção ambiental, admite a contratação temporária do serviço de recolha de resíduos urbanos nas seguintes situações:
+
+a) Obras e estaleiro de obras;
+
+b) Zonas destinadas à concentração temporária de população, tais como comunidades nómadas e atividades com caráter temporário, tais como feiras, festivais e exposições.
+
+2 - A Entidade Gestora admite a contratação do serviço de recolha de resíduos urbanos em situações especiais, como as a seguir enunciadas, e de forma temporária:
+
+a) Litígios entre os titulares de direito à celebração do contrato, desde que, por fundadas razões sociais, mereça tutela a posição do possuidor;
+
+b) Na fase prévia à obtenção de documentos administrativos necessários à celebração do contrato.
+
+3 - Na definição das condições especiais deve ser acautelado tanto o interesse da generalidade dos utilizadores como o justo equilíbrio da exploração do sistema de gestão de resíduos, a nível de qualidade e de quantidade.
+
+###### Artigo 36.º — Domicílio convencionado
+
+1 - O utilizador considera-se domiciliado na morada por si fornecida no contrato para efeito de receção de toda a correspondência relativa à prestação do serviço.
+
+2 - Qualquer alteração do domicílio convencionado tem de ser comunicada pelo utilizador à Entidade Gestora, produzindo efeitos no prazo de 30 dias após aquela comunicação.
+
+###### Artigo 37.º — Vigência dos contratos
+
+1 - O contrato de gestão de resíduos urbanos produz efeitos a partir da data do início da prestação do serviço.
+
+2 - Quando o serviço de gestão de resíduos urbanos seja objeto de contrato conjunto com o serviço de abastecimento de água e ou de saneamento de águas residuais, considera-se que a data referida no número anterior coincide com o início do fornecimento de água e ou recolha de águas residuais.
+
+3 - A cessação do contrato ocorre por denúncia ou caducidade.
+
+4 - Os contratos de gestão de resíduos urbanos celebrados com o construtor ou com o dono da obra a título precário caducam com a verificação do termo do prazo, ou suas prorrogações, fixado no respetivo alvará de licença ou autorização.
+
+###### Artigo 38.º — Suspensão do contrato
+
+1 - Os utilizadores podem solicitar, por escrito e com uma antecedência mínima de 10 dias úteis, a suspensão do contrato de gestão de resíduos, por motivo de desocupação temporária do imóvel.
+
+2 - Quando o utilizador disponha simultaneamente do serviço de gestão de resíduos e do serviço de abastecimento de água, o contrato de gestão de resíduos suspende-se quando seja solicitada a suspensão do serviço de abastecimento de água e é retomado na mesma data que este.
+
+3 - Nas situações não abrangidas pelo número anterior, o contrato pode ser suspenso mediante prova da desocupação do imóvel.
+
+4 - A suspensão do contrato implica o acerto da faturação emitida até à data da suspensão e a cessação da faturação e cobrança das tarifas mensais associadas à normal prestação do serviço, até que seja retomado o contrato.
+
+###### Artigo 39.º — Denúncia
+
+1 - Os utilizadores podem denunciar a todo o tempo os contratos de gestão de resíduos que tenham celebrado, por motivo de desocupação do local de consumo, desde que o comuniquem por escrito à Entidade Gestora, produzindo a denúncia efeitos a partir dessa data.
+
+2 - A denúncia do contrato de água pela respetiva Entidade Gestora, na sequência da interrupção do serviço de abastecimento de água por mora no pagamento e de persistência do não pagamento pelo utilizador pelo prazo de dois meses, produz efeitos também no contrato de gestão de resíduos urbanos, salvo se não tiver havido falta de pagamento do serviço de gestão de resíduos urbanos ou se for manifesto que continua a haver produção de resíduos urbanos.
+
+###### Artigo 40.º — Caducidade
+
+Nos contratos celebrados com base em títulos sujeitos a termo, a caducidade opera no termo do prazo respetivo.
+
+### CAPÍTULO V — Estrutura tarifária e faturação dos serviços
+
+#### SECÇÃO V — Estrutura Tarifária
+
+###### Artigo 41.º — Incidência
+
+1 - Estão sujeitos às tarifas relativas ao serviço de gestão de resíduos urbanos todos os utilizadores que disponham de contrato, sendo as tarifas devidas a partir da data do início da respetiva vigência.
+
+2 - Para efeitos da determinação das tarifas fixas e variáveis, os utilizadores são classificados como domésticos ou não domésticos.
+
+###### Artigo 42.º — Estrutura tarifária
+
+1 - Pela prestação do serviço de gestão de resíduos urbanos são faturadas aos utilizadores:
+
+a) A tarifa fixa de gestão de resíduos, devida em função do intervalo temporal objeto de faturação e expressa em euros por cada trinta dias;
+
+b) A tarifa variável de gestão de resíduos, devida em função da quantidade de resíduos recolhidos durante o período objeto de faturação e expressa de acordo com a medição indexada ao abastecimento público em m3 de água.
+
+2 - As tarifas previstas no número anterior englobam a prestação dos seguintes serviços:
+
+a) Instalação, manutenção e substituição de equipamentos de recolha indiferenciada de resíduos urbanos na componente não assegurada pelas entidades gestoras dos sistemas integrados de gestão desses mesmos fluxos;
+
+b) Recolha e encaminhamento de resíduos urbanos de grandes dimensões e pequenas quantidades de resíduos verdes provenientes de habitações inseridas na malha urbana.
+
+3 - Para além das tarifas do serviço de gestão de resíduos urbanos referidas no n.º 1 são cobradas pela Entidade Gestora tarifas por contrapartida da prestação de outros serviços não especificados relacionados com os resíduos e englobados na Tabela de Taxas e Preços:
+
+###### Artigo 43.º — Base de cálculo
+
+1 - No que respeita aos utilizadores domésticos, a quantidade de resíduos urbanos objeto de recolha é estimada a partir do consumo de água.
+
+2 - No que respeita aos utilizadores não domésticos a quantidade de resíduos urbanos objeto de recolha é estimada a partir do consumo de água.
+
+3 - Sempre que os utilizadores não disponham de serviço de abastecimento de água, a Entidade Gestora estima o respetivo consumo em função do consumo médio tendo por referência os utilizadores com características similares, no âmbito do território municipal, verificado no ano anterior.
+
+###### Artigo 44.º — Acesso a Tarifários especiais
+
+1 - Os utilizadores podem beneficiar da aplicação de tarifários especiais nas seguintes situações:
+
+a) Utilizadores finais domésticos - Consumo Social
+
+i) Tarifário social, aplicável, a todos os Pensionistas (idade igual ou superior a 65 anos), cujo rendimento Per Capita (base IRS), seja igual ou inferior a 60 % do valor Indexante de Apoios Sociais (IAS) em vigor.
+
+ii) Tarifário social, aplicável a todos aqueles cujo rendimento Per Capita (base IRS) do agregado familiar seja igual ou inferior a 50 % do valor do IAS em vigor, ou que comprove por outros meios carência económico - financeira.
+
+b) Utilizadores finais domésticos - Famílias Numerosas - Tarifário aplicável aos utilizadores finais domésticos, cuja composição do agregado familiar seja igual ou superior a seis (6) elementos.
+
+c) Utilizadores finais não domésticos - IPSS, ONG's e outras - tarifário social, aplicável a instituições particulares de solidariedade social, organizações não governamentais sem fins lucrativos ou outras entidades de reconhecida utilidade pública cuja ação social o justifique, legalmente constituídas.
+
+d) Utilizadores finais não domésticos - micro empresas de comércio e prestação de serviços, podem beneficiar das tarifas especiais.
+
+2 - Os tarifários especiais são aplicáveis no que se refere às alíneas a) e b), apenas para a habitação própria e permanente.
+
+###### Artigo 45.º — Condições das tarifas especiais
+
+O tarifário social para utilizadores finais domésticos e não domésticos, consiste na redução ou isenção de acordo com o preceituado no Regulamento Municipal de Taxas e Preços do Município de Ourique.
+
+###### Artigo 46.º — Documentação - tarifários especiais
+
+1 - Para beneficiar da aplicação do tarifário especial os utilizadores finais domésticos e não domésticos devem entregar à Câmara Municipal de Ourique os seguintes documentos:
+
+a) Bilhete de Identidade ou cartão de Cidadão;
+
+b) Número de Identificação Fiscal;
+
+c) Atestado de residência, com a respetiva composição do agregado familiar;
+
+d) Cópia da declaração ou nota de liquidação do IRS;
+
+e) Vale anual de Pensionista de acordo com o previsto no artigo 44.º alínea a) subalínea i);
+
+f) Cópia dos estatutos de acordo com o previsto no Artigo 44.º alínea c).
+
+###### Artigo 47.º — Duração dos tarifários especiais
+
+A aplicação dos tarifários especiais tem a duração de um ano, findo o qual deve ser renovada a prova referida no número anterior, para o que a Câmara Municipal de Ourique deve notificar o utilizador com a antecedência mínima de 30 dias.
+
+###### Artigo 48.º — Aprovação dos tarifários
+
+1 - O tarifário do serviço de gestão de resíduos é aprovado até ao termo do ano civil anterior àquele a que respeite.
+
+2 - O tarifário produz efeitos relativamente aos utilizadores finais 15 dias depois da sua publicação, sendo que a informação sobre a sua alteração acompanha a primeira fatura subsequente.
+
+3 - O tarifário é disponibilizado nos locais de estilo e ainda no sítio na internet da Entidade Gestora.
+
+#### SECÇÃO VI — Faturação
+
+###### Artigo 49.º — Periodicidade e requisitos da faturação
+
+1 - A periodicidade das faturas é mensal, podendo ser disponibilizados aos utilizadores mecanismos alternativos e opcionais de faturação, passíveis de serem por estes considerados mais favoráveis e convenientes.
+
+2 - As faturas emitidas discriminam os serviços prestados e as correspondentes tarifas, bem como as taxas legalmente exigíveis.
+
+###### Artigo 50.º — Prazo, forma e local de pagamento
+
+1 - O pagamento da fatura emitida pela Entidade Gestora é efetuada no prazo, forma e locais nela indicados.
+
+2 - O prazo para pagamento da fatura não pode ser inferior a 20 dias a contar da data da sua emissão.
+
+3 - O utilizador tem direito à quitação parcial quando pretenda efetuar o pagamento parcial da fatura e desde que estejam em causa serviços funcionalmente dissociáveis, tais como o serviço de gestão de resíduos urbanos face aos serviços de abastecimento público de água e de saneamento de águas residuais.
+
+4 - Não é admissível o pagamento parcial das tarifas fixas e variáveis associadas ao serviço de gestão de resíduos urbanos, bem como da taxa de gestão de resíduos associada.
+
+5 - A apresentação de reclamação escrita alegando erros de medição do consumo de água suspende o prazo de pagamento das tarifas do serviço de gestão de resíduos incluídas na respetiva fatura, caso o utilizador solicite a verificação extraordinária do contador após ter sido informado da tarifa aplicável.
+
+6 - O atraso no pagamento, depois de ultrapassada a data limite de pagamento da fatura, permite a cobrança de juros de mora à taxa legal em vigor.
+
+###### Artigo 51.º — Prescrição e caducidade
+
+1 - O direito ao recebimento do serviço prestado prescreve no prazo de seis meses após a sua prestação.
+
+2 - Se, por qualquer motivo, incluindo erro da Entidade Gestora, tiver sido paga importância inferior à que corresponde ao consumo efetuado, o direito do prestador ao recebimento da diferença caduca dentro de seis meses após aquele pagamento.
+
+3 - A exigência de pagamento por serviços prestados é comunicada ao utilizador, por escrito, com uma antecedência mínima de 10 dias úteis relativamente à data limite fixada para efetuar o pagamento.
+
+4 - O prazo de caducidade para a realização de acertos de faturação não começa a correr enquanto a Entidade Gestora não puder realizar a leitura do contador, por motivos imputáveis ao utilizador.
+
+###### Artigo 52.º — Arredondamento dos valores a pagar
+
+1 - As tarifas são aprovadas com quatro casas decimais.
+
+2 - Apenas o valor final da fatura, com IVA incluído deve ser objeto de arredondamento, feito aos cêntimos de euro, em respeito pelas exigências do [Decreto-Lei n.º 57/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2008-246504), de 26 de maio.
+
+###### Artigo 53.º — Acertos de faturação
+
+1 - Os acertos de faturação do serviço de gestão de resíduos são efetuados:
+
+a) Quando a Entidade Gestora proceda a uma leitura, efetuando-se o acerto relativamente ao período em que esta não se processou;
+
+b) Quando se confirme, através de controlo metrológico, uma anomalia no volume de água
+
+2 - Quando a fatura resulte em crédito a favor do utilizador final, o utilizador pode receber esse valor autonomamente no prazo de 30 dias, procedendo a Entidade Gestora à respetiva compensação nos períodos de faturação subsequentes caso essa opção não seja utilizada.
+
+### CAPÍTULO VI — Penalidades
+
+###### Artigo 54.º — Regime aplicável
+
+O regime legal e de processamento das contraordenações obedece ao disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de janeiro, e no [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de agosto, todos na redação atual, e respetiva legislação complementar.
+
+###### Artigo 55.º — Contraordenações
+
+1 - Constitui contraordenação, nos termos do artigo 72.º do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de agosto, punível com coima de (euro) 1 500 a (euro) 3 740, no caso de pessoas singulares, e de (euro) 7 500 a (euro) 44 890, no caso de pessoas coletivas, o uso indevido ou dano a qualquer infraestrutura ou equipamento do sistema de gestão de resíduos por parte dos utilizadores dos serviços.
+
+2 - Constitui contraordenação, punível com coima de (euro) 250 a (euro) 1500, no caso de pessoas singulares, e de (euro) 1 250 a (euro) 22 000, no caso de pessoas coletivas, a prática dos seguintes atos ou omissões por parte dos utilizadores dos serviços:
+
+a) A alteração da localização do equipamento de deposição de resíduos;
+
+b) O acondicionamento incorreto dos resíduos urbanos, contrariando o disposto no artigo 18.º deste Regulamento;
+
+c) A inobservância das regras de deposição indiferenciada e seletiva dos resíduos, previstas no artigo 20.º deste Regulamento.
+
+d) O incumprimento do horário de deposição dos resíduos urbanos, contrariando o disposto no artigo 24.º deste Regulamento;
+
+e) O desrespeito dos procedimentos veiculados pela Entidade Gestora, em situações de acumulação de resíduos, no sentido de evitar o desenvolvimento de situações de insalubridade pública.
+
+###### Artigo 56.º — Negligência
+
+Todas as contraordenações previstas no artigo anterior são puníveis a título de negligência, sendo nesse caso reduzidas para metade os limites mínimos e máximos das coimas previstas no artigo anterior.
+
+###### Artigo 57.º — Processamento das contraordenações e aplicação das coimas
+
+1 - A fiscalização e a instrução dos processos de contraordenação, assim como o processamento e a aplicação das respetivas coimas competem à Entidade Gestora.
+
+2 - A determinação da medida da coima faz-se em função da gravidade da contra-ordenação, o grau de culpa do agente e a sua situação económica e patrimonial, considerando essencialmente os seguintes fatores:
+
+a) O perigo que envolva para as pessoas, a saúde pública, o ambiente e o património público ou privado;
+
+b) O benefício económico obtido pelo agente com a prática da contraordenação, devendo, sempre que possível, exceder esse benefício.
+
+3 - Na graduação das coimas deve, ainda, atender-se ao tempo durante o qual se manteve a infração, se for continuada.
+
+###### Artigo 58.º — Produto das coimas
+
+O produto das coimas aplicadas reverte integralmente para a Entidade Gestora.
+
+### CAPÍTULO VII — Reclamações
+
+###### Artigo 59.º — Direito de reclamar
+
+1 - Aos utilizadores assiste o direito de reclamar, por qualquer meio, perante a Entidade Gestora, contra qualquer ato ou omissão desta ou dos respetivos serviços ou agentes, que tenham lesado os seus direitos ou interesses legítimos legalmente protegidos.
+
+2 - Os serviços de atendimento ao público dispõem de um livro de reclamações, nos termos previstos no [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de setembro, onde os utilizadores podem apresentar as suas reclamações.
+
+3 - Para além do livro de reclamações, a Entidade Gestora disponibiliza mecanismos alternativos para a apresentação de reclamações que não impliquem a deslocação do utilizador às instalações da mesma, designadamente através do seu sítio na Internet.
+
+4 - A reclamação é apreciada pela Entidade Gestora no prazo de 22 dias úteis, notificando o utilizador do teor da sua decisão e respetiva fundamentação.
+
+5 - A reclamação não tem efeito suspensivo, exceto na situação prevista no artigo 50.º do presente Regulamento.
+
+### CAPÍTULO VIII — Disposições finais
+
+###### Artigo 60.º — Integração de lacunas
+
+1 - Em tudo o que não se encontre especialmente previsto neste Regulamento é aplicável o disposto na legislação em vigor.
+
+2 - As dúvidas e as omissões suscitadas pela aplicação deste regulamento serão resolvidas por deliberação da Câmara Municipal.
+
+###### Artigo 61.º — Entrada em vigor
+
+Este Regulamento entra em vigor 15 dias após a sua publicação no Diário da República.
+
+###### Artigo 62.º — Revogação
+
+Após a entrada em vigor deste Regulamento fica automaticamente revogado o Regulamento Municipal de Resíduos Sólidos, Higiene e Limpeza Pública anteriormente aprovado.
+
+## ANEXO I — Parâmetros de Dimensionamento de Equipamentos de Deposição de Resíduos Urbanos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/05/096000000/1750117508.pdf)
+
+206078908

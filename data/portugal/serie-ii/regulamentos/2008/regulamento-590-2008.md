@@ -1,0 +1,401 @@
+---
+schema_version: '1.0'
+id: pt:dre:3066626:por
+title: Regulamento n.º 590/2008
+short_title: null
+summary: Regulamento do Funcionamento, Utilização e Conservação das Instalações Desportivas
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Câmara Municipal de Machico
+proposing_entity: null
+official_number: 590/2008
+official_date: null
+publication_date: '2008-11-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 221/2008, Série II de 2008-11-13
+  number: '221'
+  series: II
+  supplement: null
+  pages: 46699 - 46703
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/11/221000000/4669946703.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3066626'
+  dre_path: /dr/detalhe/regulamento/590-2008-3066626
+  internal: pt:dre:3066626:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/590-2008-3066626
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/590-2008-3066626
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:25:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7130b8d2cdd97330cd014bb40f9e08f3564f9c6726905557bc6d4823b8f1c2a2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:25:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667973:por
+  label: null
+  source: null
+article_structure:
+  article_count: 25
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:25:44Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 590/2008
+
+Emanuel Sabino Vieira Gomes, Presidente da Câmara Municipal de Machico:
+
+Torna público, para os devidos efeitos, que a Assembleia Municipal de Machico, em sessão ordinária realizada no dia 29 de Setembro de 2008, aprovou, sob proposta da Câmara Municipal em reunião ordinária de 14 de Agosto de 2008, o Regulamento do Funcionamento, Utilização e Conservação das Instalações Desportivas, que consta do anexo ao presente edital, entrando em vigor 15 dias após a sua publicação na 2ª. série do Diário da República.
+
+O referido Regulamento foi submetido a inquérito público pelo período de 30 dias.
+
+Para constar se lavrou este e outros de igual teor, que vão ser afixados nos locais públicos do costume.
+
+7 de Outubro de 2008. - O Presidente da Câmara, Emanuel Sabino Vieira Gomes.
+
+Regulamento do Funcionamento, Utilização e Conservação das Instalações Desportivas
+
+Nota Justificativa
+
+São atribuições dos municípios portugueses a criação e disponibilização de instalações e equipamentos para a prática desportiva e recreativa de interesse municipal, conforme se encontra estabelecido na Lei que estabelece o quadro de transferências de atribuições e competências para as autarquias locais, a [Lei n.º 159/99](https://diariodarepublica.pt/dr/detalhe/lei/159-1999-570562), de 14 de Setembro.
+
+A Câmara Municipal de Machico tem vindo, desde há vários anos a esta parte, a investir nesse domínio criando uma série de recintos destinados à prática desportiva.
+
+Com a disponibilização de novas infra-estruturas desportivas no Município de Machico, umas propriedade do Município outras sob a sua administração é mister estabelecer um conjunto de regras relativas ao seu funcionamento, utilização e conservação, que no presente momento não existem.
+
+Assim sendo, é conveniente estabelecer regras de conduta por parte dos seus utentes, um conjunto de normas e princípios a que devem obedecer aquando da utilização das infra-estruturas, de modo a se estabelecer uma utilização racional, equitativa e universal.
+
+Também o [Decreto-Lei n.º 385/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1999-667973), de 28 de Setembro, que estabeleceu o regime da responsabilidade técnica pelas instalações desportivas abertas ao público e actividades aí desenvolvidas, impôs a obrigatoriedade dos recintos desportivos disporem de um regulamento elaborado pelo seu proprietário ou cessionário, contendo as normas de cumprimento a serem observadas pelos utentes (artigo 12.º do citado diploma legal).
+
+O presente regulamento estabelece um conjunto de taxas pela utilização dos recintos desportivos propriedade da Câmara Municipal de Machico ou sob a sua administração. Nesta parte, torna-se, também, necessário cumprir com o estabelecido no recente quadro legislativo, designadamente, na [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de Dezembro, aprova o Regime Geral das Taxas das Autarquias Locais, e na [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, Lei das Finanças Locais. As taxas propostas têm como princípios norteadores, o princípio da equivalência, visando arrecadar receita destinada a cobrir os custos subjacentes ao investimento, e o princípio do benefício, já que as instalações estarão também disponíveis para a promoção de eventos privados que visam o lucro. Já no que concerne às isenções atendeu-se essencialmente à natureza do utente: os utentes que são pessoas colectivas de utilidade pública ou não mas que prossigam actividades desportivas de interesse relevante na área do Município.
+
+Assim, a Câmara Municipal de Machico elaborou o presente Regulamento Municipal de funcionamento, utilização e conservação das instalações desportivas Municipais.
+
+###### Artigo 1.º — Norma habilitante
+
+O presente regulamento é elaborado ao abrigo da [Lei n.º 159/99](https://diariodarepublica.pt/dr/detalhe/lei/159-1999-570562), de 14 de Setembro, da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, do artigo 12.º do [Decreto-Lei n.º 385/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1999-667973), de 28 de Setembro, da Lei n.º 43-E/2006, de 29 de Setembro e da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro.
+
+###### Artigo 2.º — Objecto e âmbito de aplicação
+
+1 - O presente Regulamento estabelece um conjunto de regras relativas ao funcionamento, utilização e conservação das instalações desportivas, propriedade do Município de Machico ou que a esta tenha sido confiada a administração.
+
+2 - O presente Regulamento aplica-se a todos os recintos desportivos e recreativos do Município de Machico, actuais e futuros.
+
+###### Artigo 3.º — Da competência
+
+A administração dos recintos desportivos e recreativos a que se refere o artigo anterior cabe à Câmara Municipal de Machico, podendo ser delegada no seu Presidente com possibilidade de subdelegação no Vereador com o Pelouro do Desporto.
+
+###### Artigo 4.º — Da responsabilidade
+
+A cedência, gratuita ou onerosa, da utilização dos recintos desportivos e recreativos municipais a terceiros, implica a transferência para estes dos direitos e obrigações constantes do [Decreto-Lei n.º 385/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1999-667973) de 28 de Setembro.
+
+###### Artigo 5.º — Dos utentes
+
+Os recintos desportivos e recreativos estão à disponibilidade de todas as entidades privadas e colectivas, desde que requerida a sua utilização nos termos do presente Regulamento e paguem as taxas devidas pela utilização e constantes da tabela do anexo I ao presente Regulamento.
+
+###### Artigo 6.º — Do controlo da utilização
+
+1 - O controlo da utilização dos recintos desportivos e recreativos será assegurado por um responsável técnico, designado pela Câmara Municipal de Machico, podendo ser funcionário do seu quadro ou terceiro para o efeito contratado.
+
+2 - A identificação do responsável técnico referido no número anterior deve ser afixada no recinto sob sua responsabilidade, em local visível, de modo que seja do conhecimento dos utentes.
+
+3 - O responsável técnico é coadjuvado nas suas tarefas por funcionários ou terceiros contratados para esse fim, os quais deverão permanecer nos recintos durante o seu período de funcionamento.
+
+###### Artigo 7.º — Da utilização
+
+1 - As actividades promovidas pela Câmara Municipal de Machico têm prevalência sobre todas as demais.
+
+2 - Os recintos desportivos e recreativos poderão ser utilizadas para fins de natureza desportiva e recreativa ou quaisquer outros, desde que, previamente autorizados pelo Presidente da Câmara ou, em caso de subdelegação de competências pelo Vereador com o Pelouro do Desporto.
+
+###### Artigo 8.º — Do acesso a deficientes
+
+A Câmara Municipal de Machico reservará, na assistência, local próprio para deficientes.
+
+###### Artigo 9.º — Da cedência ordinária das Instalações
+
+1 - A utilização dos recintos desportivos e recreativos é feita mediante requerimento prévia do interessado.
+
+2 - O requerimento pode ser feito por escrito ou oralmente. Neste caso, o funcionário fará registo do pedido.
+
+3 - O pedido de utilização dos espaços é decidido pelo funcionário ou agente camarário responsável, caso a caso, considerando a disponibilidade das instalações e os objectivos da actividade.
+
+4 - Da decisão do funcionário cabe reclamação para o responsável técnico designado pela Câmara Municipal que decidirá em conformidade com o presente Regulamento.
+
+###### Artigo 10.º — Da cedência extraordinária das Instalações
+
+1 - Sempre que entidades privadas ou colectivas pretendam uma utilização sistemática e regular dos recintos desportivos e recreativos, deverão requerer, por escrito, à Câmara Municipal a sua utilização.
+
+2 - O requerimento deve indicar a identificação do requerente, os fins da utilização, e a calendarização da utilização pretendida, nos termos do artigo 13.º do presente Regulamento.
+
+3 - O pedido será apreciado de acordo com a conveniência e a disponibilidade dos recintos e dos recursos humanos e materiais a eles afectos.
+
+4 - A Câmara Municipal poderá alterar eventos já programados em casos de necessidade devidamente fundamentados, devendo para o efeito dar conhecimento as entidades afectadas por essa decisão.
+
+5 - A comunicação a que se refere o número anterior deverá fazer-se com 48h de antecedência.
+
+6 - As alterações ou o cancelamento de utilizações já calendarizadas não dá lugar a qualquer indemnização mas apenas à devolução dos valores já pagos, se for o caso.
+
+###### Artigo 11.º — Da responsabilidade dos utentes
+
+1 - Os utentes autorizados a utilizar os recintos são responsáveis pelas actividades neles desenvolvidas e pelos danos nelas causados.
+
+2 - Os danos causados importarão sempre a reposição dos bens danificados no seu estado inicial ou quando tal não seja possível o pagamento do seu valor.
+
+###### Artigo 12.º — Do monitor
+
+1 - As escolas e os clubes que pretendam utilizar as instalações desportivas, reguladas pelo presente Regulamento, para a prática de actividades desportivas são obrigadas a possuir um monitor para cada modalidade, ou, caso não seja possível deverão nomear um responsável.
+
+2 - O mesmo é aplicável aos treinos, não podendo ser realizados se não estiver presente o monitor ou o responsável por cada modalidade desportiva.
+
+###### Artigo 13.º — Do requerimento
+
+1 - As entidades que pretendam utilizar as instalações desportivas de modo sistemático e regular ou para outros eventos desportivos ou não desportivos, deverão requere-lo à Câmara Municipal mediante requerimento, indicando:
+
+a) Identificação do requerente;
+
+b) Uso (s) pretendido (s);
+
+c) Data e hora (s);
+
+d) Termo de responsabilidade que assegure o cumprimento do disposto neste Regulamento.
+
+2 - Os recintos desportivos e recreativos apenas podem ser utilizados pelas entidades a quem foram cedidos sendo-lhes vedada a possibilidade de cedência a terceiros.
+
+3 - O termo de responsabilidade a que se refere a alínea d) do n.º 1 deve obedecer ao modelo constante do anexo II ao presente Regulamento.
+
+###### Artigo 14.º — Da duração
+
+1 - A duração útil de cada utilização é fixada em uma hora no mínimo e duas horas no máximo, devendo as instalações ser abandonadas cinco minutos antes do respectivo termo.
+
+2 - Os eventos poderão prolongar-se para além da sua duração desde que não se encontre prevista a cedência da utilização do recinto a terceiros e mediante autorização do funcionário ou agente responsável pelo mesmo.
+
+###### Artigo 15.º — Das proibições
+
+1 - É proibido nos recintos desportivos ou recreativos:
+
+a) Fumar nas áreas de jogo, balneários e outros espaços fechados existentes;
+
+b) a detenção de substâncias dopantes;
+
+c) Comer ou tomar bebidas excepto água ou outras bebidas recomendadas para a prática de actividades físicas, dentro da área de jogo.
+
+d) Perturbar as actividades que se encontrem em curso;
+
+2 - O funcionário responsável pelo recinto deve fazer cessar o desrespeito pelas condutas acima proibidas convidando o responsável a cessar com a conduta ilícita ou em caso de recusa convidá-lo a abandonar o recinto.
+
+3 - Em caso de desobediência o funcionário ou agente camarário alerta o infractor de que incorre em crime de desobediência nos termos do artigo 348.º do código Penal.
+
+4 - Quando se mostre necessário o funcionário ou agente camarário deve recorrer às forças policiais para fazer cumprir o presente Regulamento.
+
+###### Artigo 16.º — Do acesso
+
+1 - É vedado o acesso aos recintos:
+
+a) Às pessoas em estado notório de embriaguez ou outro susceptível de provocar desordens;
+
+b) O acesso a animais, excepto nos casos previstos na lei;
+
+2 - A Câmara Municipal de Machico reserva-se ainda o direito de impedir o acesso ou permanência a indivíduos cujo comportamento possa perturbar o normal funcionamento das actividades em curso, designadamente:
+
+a) Recusa do pagamento das taxas devidas;
+
+b) Comportamento desadequado susceptível de provocar distúrbios ou a prática de actos de violência.
+
+###### Artigo 17.º — Do equipamento
+
+O acesso aos recintos desportivos e recreativos está dependente da utilização de equipamento adequado, nomeadamente de calçado apropriado ou de outro a indicar pelo funcionário ou agente camarário designado como responsável do recinto.
+
+###### Artigo 18.º — Do horário de funcionamento
+
+1 - O horário de funcionamento dos recintos desportivos ou recreativos será afixado em local bem visível do exterior.
+
+2 - Em casos devidamente fundamentados, a Câmara Municipal de Machico poderá autorizar o seu funcionamento para além do horário fixado.
+
+###### Artigo 19.º — Das funções do responsável técnico
+
+1 - Entre outras, é da responsabilidade do responsável técnico designado pela Câmara Municipal:
+
+a) Superintender tecnicamente as actividades desportivas desenvolvidas nos recintos;
+
+b) Zelar pela adequada utilização do equipamento e dos recintos desportivas e recreativos;
+
+c) Dar conhecimento à Câmara Municipal, ou em quem estiverem delegadas ou subdelegadas as competências na matéria, nos termos do artigo 3.º do presente regulamento, tudo o que de relevante aconteça com os recintos regulados pelo presente Regulamento, e com ele colaborar na procura de soluções.
+
+2 - Na ausência do responsável técnico as responsabilidades previstas nas alíneas a) e b) do número anterior são assumidas por quem coadjuvar aquele e relativamente ao recinto ao qual se encontra afecto.
+
+###### Artigo 20.º — Das taxas
+
+1 - A utilização dos recintos desportivos e recreativos está sujeita ao pagamento da taxa respectiva cujo valor se encontra previsto na tabela ao anexo I ao presente Regulamento, e que é sua parte integrante.
+
+2 - As taxas são pagas com o deferimento do pedido de utilização dos recintos e antes da sua utilização, não sendo admissível o pagamento em prestações.
+
+3 - As taxas são pagas na Tesouraria da Câmara Municipal de Machico, emitindo-se guia para o efeito que servirá como comprovativo do pagamento e da legitimidade para a utilização do recinto.
+
+4 - As taxas relativas ao Parque Desportivo de Água de Pena serão pagas nos serviços administrativos do próprio parque e nos termos dos números anteriores.
+
+###### Artigo 21.º — Das isenções das taxas
+
+1 - As escolas do Município, os clubes ou associações desportivas estão isentas do pagamento das taxas previstas pela utilização dos recintos.
+
+2 - Está isento também do pagamento das taxas pela utilização dos recintos a representação no Município do Instituto Nacional de Aproveitamento dos Tempos Livres - INATEL.
+
+3 - Sem prejuízo do disposto no número seguinte, a isenção não se aplica à utilização do Parque Desportivo de Água de Pena, no qual, devido aos encargos decorrentes da concessão, será seguido o princípio do utilizador-pagador.
+
+4 - A Câmara Municipal Machico poderá isentar ou reduzir, mediante deliberação fundamentada, as taxas previstas no presente Regulamento, a quaisquer outras entidades atendendo ao fim que prossigam, nomeadamente, as que prossigam fins de interesse público, como os agentes da PSP, GNR, bombeiros municipais, casas do povo do Município, juntas de freguesia do Município.
+
+5 - A competência prevista no número anterior não é delegável nos termos do artigo 3.º
+
+###### Artigo 22.º — Da actualização das taxas
+
+1 - Todas as taxas previstas no presente regulamento serão actualizadas, ordinária e anualmente, em função da taxa de inflação que vier a vigorar para a Região Autónoma da Madeira.
+
+2 - A actualização anual e ordinária nos termos do número anterior deverá ser feita pela Secretaria Geral da Câmara Municipal, até ao dia 30 de Janeiro de cada ano, e os valores resultantes afixados nos lugares públicos de estilo, através de Edital.
+
+3 - Independentemente da actualização ordinária referida, poderá a Câmara Municipal, sempre que o achar justificável, propor à Assembleia Municipal a actualização extraordinária das taxas em vigor ou de algumas delas.
+
+###### Artigo 23.º — Da publicidade
+
+A publicidade nos recintos desportivos e recreativos está sujeita ao licenciamento constante do Regulamento Municipal de Publicidade, publicado pelo Edital n.º 716/2004, no Diário da República, 2.ª série, n.º 265.º, de 11 de Novembro de 2004.
+
+###### Artigo 24.º — Da interpretação e integração de lacunas
+
+1 - As dúvidas que possam surgir na aplicação do presente Regulamento serão resolvidas pela Câmara Municipal, de acordo com a legislação em vigor.
+
+2 - Os casos não previstos no presente Regulamento serão resolvidos pela Câmara Municipal, de acordo com a legislação em vigor; na falta de norma, serão regulados segundo a norma aplicável aos casos análogos; na falta de caso análogo, a situação é resolvida segundo a norma que o próprio intérprete criaria se a tivesse previsto.
+
+###### Artigo 25.º — Entrada em vigor
+
+O presente regulamento entra em vigor 15 dias após a data da sua publicação no Diário da República.
+
+## ANEXO I
+
+Observações:
+
+1.º Serão taxadas fracções de 1ª hora ou fracção;
+
+2.º Para efeito da concretização de cedências regulares das instalações, é obrigatório o pagamento mensal até ao dia dez do mês seguinte à sua utilização.
+
+3.º As reservas, para os pedidos pontuais, deverão ser pagas antecipadamente, ou no próprio dia de utilização (aquando da sua utilização). Em caso de uma segunda reserva pela mesma entidade/utente em que não tenha sido utilizada a primeira, nem efectuado posteriormente o pagamento, não será efectivada a reserva sem o prévio pagamento cinco dias antes da sua utilização.
+
+4.º O pagamento das cedências pontuais para realização de eventos deve ser efectuado nos termos das condições estabelecidas nos acordos de colaboração escritos com a Autarquia.
+
+5.º O não pagamento das taxas em dívida segundo os prazos estabelecidos, origina a caducidade de utilização.
+
+6.º Não há lugar a reembolso dos pagamentos efectuados.
+
+7.º O seguro dos utentes em regime de cedência das instalações será da responsabilidade das entidades que usufruam da cedência dos recintos, nos termos da lei em vigor.
+
+8.º As desistências da utilização pontual deverão ser comunicadas por escrito e com seis dias de antecedência à Câmara Municipal de Machico, caso contrário, esta reterá as taxas já pagas.
+
+9.º No que diz respeito às transmissões de sessões pela Rádio e pela Televisão devem ser pagas as respectivas taxas, sempre que se trate de eventos com fins lucrativos e ou receitas de transmissão.
+
+10.º Convites e bilhetes:
+
+a) A cedência dos espaços desportivos para eventos com entradas pagas, obriga à emissão de 10 convites a favor da C.M.M. Todos os Convites terão inscrito a palavra Convite em letras visíveis e ainda "Este convite não poderá ser vendido";
+
+b) Todos os bilhetes e convites devem ter impressa ordem numérica e serem controlados pelo responsável da instalação.
+
+11.º No âmbito da cedência dos recintos, o imposto e o visto da Direcção de Espectáculos e Direitos de Autor, serviços de prevenção contra riscos de incêndios, serviço de bilheteira, porteiros, arrumadores, serviço de higiene e de limpeza e outros, são da responsabilidade da entidade promotora.
+
+12.º A cedência das instalações inclui a utilização do espaço para a prática desportiva e o apetrechamento fixo (não incluí o material didáctico pedagógico móvel). As restantes instalações e material, quando solicitado, serão sujeitos à aplicação das taxas devidas.
+
+13.º As taxas de aluguer de material/equipamento não incluem transporte de material de e para os armazéns, nem montagem nem desmontagem.
+
+14.º A montagem/desmontagem e ou afixação/remoção de equipamentos ou materiais utilizados na ocupação da instalação, e o seu transporte, são da inteira responsabilidade do utilizador. No caso de incumprimento, as entidades suportarão os custos resultantes do pagamento com os serviços efectuados e a taxa de cedência correspondente (pela ocupação indevida do espaço).
+
+15.º As montagens e desmontagens inerentes à utilização da instalação serão obrigatoriamente realizadas no período em que não haja utilização ou cedência da mesma, em horário a acordar previamente com o responsável pela instalação.
+
+16.º Todo o material usado ou alugado que seja danificado, será facturado pelo custo do aluguer até reparação ou substituição, que será da responsabilidade do locatário.
+
+17.º A cedência de instalações desportivas e ou materiais poderão ser utilizadas noutras condições, em casos excepcionais, devidamente justificados e autorizados.
+
+Tabelas de taxas
+
+I - Dos recintos desportivos e recreativos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/11/221000000/4669946703.pdf)
+
+II - Cobrança de entradas e transmissões televisivas ou radiofónicas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/11/221000000/4669946703.pdf)
+
+## ANEXO II — Termo de responsabilidade
+
+Eu,... portador do B. I. n.º..., n.º de Contribuinte:... Residente..., Código postal:..., Freguesia de... no Concelho de...
+
+Declaro que assumo a responsabilidade pelo grupo, ao qual foi cedido um período de utilização do recinto desportivo, para a realização de uma actividade de carácter desportivo.
+
+É do meu conhecimento que a entidade autorizada a utilizar o recinto desportivo, é responsável pelas actividades desenvolvidas e pelos danos causados, durante o período de utilização. Os danos causados importarão sempre na reposição dos bens danificados no seu estado inicial ou quando tal não seja possível o pagamento do seu valor.
+
+Tomei ainda conhecimento que a cedência do referido recinto desportivo, implica a transferência para o cessionário dos direitos e obrigações constantes no [Decreto-Lei n.º 385/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1999-667973) de 28 de Setembro.
+
+Nota: Juntar em anexo, fotocópia de B.I.
+
+Machico,... de..., de...
+
+... (Assinatura do responsável.)
+
+300900122

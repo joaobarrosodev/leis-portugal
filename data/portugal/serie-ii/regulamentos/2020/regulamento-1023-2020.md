@@ -1,0 +1,393 @@
+---
+schema_version: '1.0'
+id: pt:dre:148747246:por
+title: Regulamento n.º 1023/2020
+short_title: null
+summary: Aprova as alterações ao Regulamento do Cartão Social do Município de Castro Verde
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Castro Verde
+proposing_entity: null
+official_number: 1023/2020
+official_date: null
+publication_date: '2020-11-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 224/2020, Série II de 2020-11-17
+  number: '224'
+  series: II
+  supplement: null
+  pages: 252 - 258
+  pdf_url: https://files.diariodarepublica.pt/2s/2020/11/224000000/0025200258.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '148747246'
+  dre_path: /dr/detalhe/regulamento/1023-2020-148747246
+  internal: pt:dre:148747246:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1023-2020-148747246
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1023-2020-148747246
+  consolidated_url: null
+  retrieved_at: '2026-11-13T07:05:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 61f4291fac49221e5a168b5f73d8712f8758e620c2339335403c0f76b0578e89
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T07:05:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:117662379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+article_structure:
+  article_count: 20
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T07:05:13Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 1023/2020
+
+Regulamento do Cartão Social
+
+António José Rosa de Brito, Presidente da Câmara Municipal de Castro Verde, torna público, para efeitos do disposto no artigo 139.º do Código do Procedimento Administrativo e uso da competência referida na alínea g) do n.º 1 do artigo 25.º, conjugado com a alínea k), n.º 1 do artigo 33.º do anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 setembro, que a Assembleia Municipal de Castro Verde, na sua sessão ordinária realizada em 30 de setembro do ano corrente, sob proposta Câmara Municipal aprovada em reunião de 24 de setembro do mesmo mês, aprovou as seguintes alterações ao regulamento do Cartão Social do Município de Castro Verde:
+
+Alterações ao Regulamento do Cartão Social do Município de Castro Verde
+
+###### Artigo 3.º — Requisitos
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - (Suprimido.)
+
+5 - ...
+
+###### Artigo 5.º — Documentação Necessária
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - (Suprimido.)
+
+9 - (Suprimido.)
+
+10 - (Suprimido.)
+
+11 - ...
+
+12 - ...
+
+###### Artigo 9.º — Exigências Processuais
+
+1 - ...
+
+2 - ...
+
+3 - Em caso de falecimento do titular do Cartão Social do Município de Castro Verde, deverá outro elemento do agregado familiar ou familiar direto, proceder a alteração da titularidade do mesmo, no prazo de 30 dias;
+
+3.1 - Em caso de falecimento de qualquer membro de qualquer membro do agregado familiar, deverá a Câmara Municipal ser informada, no prazo de 30 dias. As faturas/recibos em nome do falecido, não podem ter data posterior ao falecimento. O reembolso da comparticipação dos mesmos devem ser levantados nos 60 dias seguintes.
+
+4 - ...
+
+5 - ...
+
+###### Artigo 11.º — Validade
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - Sempre que existam alterações com relevância ao processo, deverão ser comunicadas ao Gabinete de Educação e Ação Social da Câmara Municipal de Castro Verde.
+
+###### Artigo 12.º — Exclusões
+
+1 - Serão excluídos os agregados familiares que:
+
+a) ...
+
+b) ...
+
+c) Se encontrem abrangidos pelo regime dos trabalhadores independentes e simultaneamente o rendimento per capita do seu agregado familiar ultrapasse 1.2 do Indexante dos Apoios Sociais (IAS), conforme estipulado no artigo 3.º;
+
+d) Suprimida.
+
+2 - ...
+
+3 - ...
+
+9 de outubro de 2020. - O Presidente da Câmara, António José Brito.
+
+Republicação do Regulamento do Cartão Social do Município de Castro Verde (com as alterações)
+
+Preâmbulo
+
+O Cartão Social visa apoiar indivíduos e agregados familiares que vivam em situação de carência socioeconómica, possibilitando desta forma, que usufruam de benefícios com vista à melhoria das condições de vida, impulsionando a inserção dos cidadãos na sociedade de forma a minimizar situações de exclusão social.
+
+Trata-se de continuar a apostar de forma clara e determinada numa política local mais solidária e mais eficaz.
+
+Com base na [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023) de 12 de setembro, que atribui às autarquias competências especificas, para intervir em matéria de Ação Social, junto das famílias em situação de vulnerabilidade social, surge o Regulamento do Cartão Social do Município de Castro Verde.
+
+O presente Regulamento para do Cartão Social do Município de Castro Verde, é elaborado ao abrigo do disposto no artigo 112/7, da segunda parte da Constituição da República Portuguesa, adiante (CRP).
+
+Esteve o mesmo em consulta pública, conforme [Edital n.º 53/2019](https://diariodarepublica.pt/dr/detalhe/edital/53-2019-117662379) de 12 de junho, afixado nos seguintes lugares: Edifício da Câmara Municipal de Castro Verde, Sedes de Juntas das Freguesias e ainda do site da Autarquia, no período de 30 dias, não tendo havido por parte dos interessados qualquer sugestão de alteração ou correção ao mesmo.
+
+### Capítulo I — Disposições Gerais
+
+###### Artigo 1.º — Âmbito e objetivo
+
+1 - O presente regulamento estabelece as regras de adesão, atribuição e utilização do Cartão Social do Município de Castro Verde.
+
+2 - O Cartão Social do Município tem como objetivo possibilitar aos agregados familiares ou indivíduos que vivam em situação comprovada de carência socioeconómica o acesso a bens e serviços que garantam uma melhoria na qualidade de vida e igualdade de oportunidades.
+
+### Capítulo II
+
+###### Artigo 2.º
+
+Conceitos
+
+Para efeitos deste regulamento, consideram-se os seguintes conceitos:
+
+1 - Agregado Familiar - (artigo 4.º do [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683) de 16 de junho) para além do requerente, integram o respetivo agregado familiar as seguintes pessoas que com ele vivam em economia comum, sem prejuízo do disposto nos números seguintes:
+
+a) Cônjuge ou pessoa em união de facto há mais de dois anos;
+
+b) Parentes e afins maiores, em linha reta e em linha colateral, até ao 3.º grau;
+
+c) Parentes e afins menores em linha reta e em linha colateral;
+
+d) Adotantes, tutores e pessoas a quem o requerente esteja confiado por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito;
+
+e) Adotados e tutelados pelo requerente ou qualquer dos elementos do agregado familiar e crianças e jovens confiados por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito ao requerente ou a qualquer dos elementos do agregado familiar.
+
+2 - Economia Comum - Consideram-se em economia comum as pessoas que vivam em comunhão de mesa e habitação e tenham estabelecido entre si uma vivência comum de entreajuda e partilha de recursos, sem prejuízo do disposto no número seguinte.
+
+3 - Rendimento do Agregado Familiar - É considerado rendimento do agregado familiar: todos os vencimentos, salários ou pensões do candidato e de qualquer membro do agregado, excetuando-se unicamente o abono de família.
+
+4 - Rendimento per Capita - Para efeitos de cálculo de Rendimento per Capita é considerado o rendimento anual ilíquido de todos os elementos do agregado familiar, como referido no número anterior, a dividir pelo número de pessoas do agregado familiar.
+
+5 - Indexante dos Apoios Sociais (IAS) - o valor fixado nos termos da [Lei n.º 53-B/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-b-2006-197489) de 29 de dezembro, alterada pela [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril.
+
+6 - Doença Crónica - Doença crónica, a doença de longa duração, com aspetos multidimensionais, com evolução gradual dos sintomas e potencialmente incapacitante, que implica gravidade pelas limitações nas possibilidades de tratamento médico e aceitação pelo doente cuja situação clínica tem de ser considerada no contexto da vida familiar, escolar e laboral, que se manifeste particularmente afetado. De acordo com o despacho conjunto dos Ministérios da Saúde, da Segurança Social e do Trabalho, n.º 861/99, de 10 de setembro.
+
+7 - Deficiente - a pessoa com deficiência com grau comprovado de incapacidade igual ou superior a 60 %.
+
+### Capítulo III — Condições de Acesso e instrução do processo
+
+###### Artigo 3.º — Requisitos
+
+Podem ser beneficiários do Cartão Social do Município os agregados familiares que satisfaçam cumulativamente os seguintes requisitos:
+
+1 - Ter residência comprovada de, no mínimo, dois anos no Concelho de Castro Verde;
+
+2 - O requerente ter idade igual ou superior a 18 anos;
+
+3 - Recenseamento obrigatório no Concelho de Castro Verde para os elementos com 18 ou mais anos de idade pertencentes ao agregado familiar;
+
+4 - O rendimento per capita do agregado familiar não pode ultrapassar 1.2 do Indexante dos Apoios Sociais (IAS), valor fixado anualmente por portaria governamental.
+
+###### Artigo 4.º — Adesão ao Cartão
+
+1 - A adesão ao Cartão Social do Município, é feita através de preenchimento de requerimento próprio que se encontra disponível no Gabinete de Educação e Ação Social da Câmara Municipal de Castro Verde, nas Juntas de Freguesia do Concelho, ou no Site do Município.
+
+2 - Todos os pedidos de adesão e renovação serão analisados pelos Técnicos de Ação Social, de acordo com a documentação entregue na instrução do pedido de adesão.
+
+3 - A decisão de atribuição do Cartão Social do Município compete a Câmara Municipal, mediante a apresentação do parecer técnico emitido pelos Técnicos de Serviço Social.
+
+4 - Em caso de deferimento do Cartão Social do Município, este será enviado para a morada do beneficiário.
+
+###### Artigo 5.º — Documentação Necessária
+
+O requerimento deve ser acompanhado dos seguintes documentos:
+
+1 - Fotocópia do cartão de identificação de todos os elementos do agregado familiar;
+
+2 - Declaração de IRS e respetiva nota de liquidação, ou declaração passada pelo serviço de Finanças a comprovar a não entrega de IRS;
+
+3 - Declaração do Instituto da Segurança Social I. P., com o valor anual de pensões, subsídios, Rendimento Social de Inserção, ou qualquer outra prestação social;
+
+4 - Atestado de residência no Concelho, emitido pela Junta de Freguesia da área de residência, com indicação do agregado familiar, bem como o tempo de residência;
+
+5 - No caso de não receber qualquer tipo de apoio deverá apresentar uma declaração do Instituto da Segurança Social, I. P., a comprovar;
+
+6 - Declaração do Instituto de Emprego e Formação Profissional, dos elementos do agregado familiar que se encontrem em situação de desemprego ou à procura de emprego e maiores que não se encontrem a estudar;
+
+7 - Documento comprovativo de matrícula para estudantes maiores de idade e ou fora da escolaridade obrigatória;
+
+8 - No caso dos elementos do agregado familiar cujos rendimentos/ocupação não sejam comprovados, deverão os candidatos elaborar uma declaração sob compromisso de honra, com valor auferido mensalmente;
+
+9 - No caso de cidadãos estrangeiros, é necessário anexar cópia de autorização de residência ou documento equivalente que permita que o requerente permaneça em território nacional de forma legal - Título de residência para cidadãos estrangeiros.
+
+###### Artigo 6.º — Atribuição do Cartão Social por Escalão
+
+1 - A atribuição do Cartão Social do Município confere aos titulares e respetivos agregados familiares o direito à isenção parcial do pagamento dos benefícios concedidos por este regulamento.
+
+2 - A isenção parcial referida no número anterior, será de 50 % ou de 30 %, de acordo com os seguintes critérios:
+
+a) É de 50 % para os agregados familiares cujo rendimento per capita não ultrapasse o valor, durante o ano em curso, do Indexante dos Apoios Sociais, fixada por portaria governamental - Escalão A;
+
+b) É de 30 % para os agregados familiares cujo rendimento per capita não ultrapasse o valor, durante o ano em curso, de 1.2 do Indexante dos Apoios Sociais - Escalão B.
+
+Excetua-se a seguinte situação:
+
+a) No caso da tarifa do abastecimento de água e de saneamento de águas residuais, o desconto será de 50 %, à semelhança do aplicado na Tarifa Social.
+
+###### Artigo 7.º — Apoios, Bens e Serviços abrangidos pelo Cartão Social do Município
+
+1 - Consideram-se Apoios, Bens e Serviços abrangidos pelo Cartão Social do Município os seguintes:
+
+a) O fornecimento de bens e serviços identificados no Regulamento e Tabela de Licenças, Taxas e Tarifas Municipais em vigor no Município;
+
+b) A comparticipação na aquisição de medicamentos, vacinas e outros produtos farmacêuticos de necessidade comprovada e mediante receita médica.
+
+###### Artigo 8.º — Comparticipação em Medicamentos, Vacinação e outros Produtos Farmacêuticos - Natureza do Apoio
+
+1 - De acordo com a alínea b) do artigo 7.º do presente Regulamento, a Câmara Municipal comparticipa as despesas com medicamentos, vacinas e outros produtos farmacêuticos, mediante apresentação de receita médica e sujeitos à taxa de 6 % de IVA.
+
+2 - O montante de comparticipação é de 50 % ou 30 % conforme se trate do Escalão A ou o Escalão B do Cartão Social do Município.
+
+###### Artigo 9.º — Exigências processuais
+
+1 - A comparticipação nos medicamentos prevista neste Regulamento será paga mediante a apresentação do recibo/fatura emitido pela farmácia e fotocópia de receita médica no Gabinete de Educação e Ação Social. O respetivo pagamento é realizado pelos serviços da Secção Financeira/Tesouraria da Câmara Municipal de Castro Verde.
+
+2 - A receita médica e o comprovativo de pagamento dos medicamentos, vacinas e outros produtos farmacêuticos, devem ser entregues nos serviços no prazo de 60 dias.
+
+3 - Em caso de falecimento do titular do Cartão Social do Município de Castro Verde, deverá outro elemento do agregado familiar ou familiar direto, proceder à alteração da titularidade do mesmo no prazo de 30 dias.
+
+3.1 - Em caso de falecimento de qualquer membro do agregado familiar, deverá a Câmara Municipal ser informada no prazo de 30 dias. As faturas/recibos em nome do falecido não podem ter data posterior ao falecimento. O reembolso da comparticipação dos mesmos devem ser levantados nos 60 dias seguintes.
+
+4 - Em caso de receitas em suporte digital ou por mensagem SMS, deve o beneficiário de Cartão Social do Município, solicitar ao médico a receita em suporte de papel ou declaração médica a comprovar os medicamentos prescritos.
+
+5 - Compete aos serviços notificar por escrito os beneficiários de Cartão Social do Município, que caso não procedam ao levantamento do reembolso durante o mês seguinte à entrega da fatura/recibo, dispõem ainda de mais 30 dias para o realizar.
+
+###### Artigo 10.º — Limites de comparticipação
+
+1 - A comparticipação atribuída relativamente ao montante máximo anual por agregado familiar independentemente do número de elementos do agregado é:
+
+500(euro) para o Escalão A;
+
+300(euro) para o Escalão B.
+
+2 - Sempre que um elemento do agregado familiar seja portador de doença crónica ou incapacidade física, deve apresentar comprovativo da situação, sendo que para o efeito não existe limite na comparticipação apenas para o elemento portador da doença crónica. Para os restantes elementos que compõem o agregado familiar mantêm-se os limites anteriormente indicados.
+
+3 - O limite máximo de comparticipação por utente do Cartão Social do Município será anualmente revisto pela Câmara Municipal de Castro Verde.
+
+###### Artigo 11.º — Validade
+
+1 - O Cartão Social do Município é válido por dois anos para os beneficiários aposentados e um ano para os restantes titulares, contados a partir da data da sua emissão, podendo ser renovado por igual período, através de requerimento do interessado.
+
+2 - O pedido de renovação do Cartão Social do Município poderá ser feito a partir dos 30 dias que antecedem o término da sua validade ou após o término da validade nele indicado.
+
+3 - O pedido de renovação é acompanhado dos documentos referidos no artigo 5.º deste documento.
+
+4 - O pedido de renovação do Cartão Social do Município efetuado após o término da validade do mesmo implica a perda dos benefícios contidos no presente regulamento durante o período em que o mesmo se encontrar fora de validade.
+
+5 - O Cartão Social do Município e respetivos benefícios serão cancelados se não for apresentado o requerimento conforme consta no número anterior.
+
+6 - Sempre que existam alterações com relevância ao processo, deverão ser comunicadas ao Gabinete de Educação e Ação Social da Câmara Municipal de Castro Verde.
+
+###### Artigo 12.º — Exclusões
+
+1 - Serão excluídos os agregados familiares que:
+
+a) Prestem falsas declarações para a obtenção do Cartão Social do Município;
+
+b) Não cumpram os requisitos estabelecidos no Artigo 3.º;
+
+c) Se encontrem abrangidos pelo regime dos trabalhadores independentes e simultaneamente o rendimento per capita do seu agregado familiar ultrapasse 1.2 do Indexante dos Apoios Sociais (IAS), conforme estipulado no artigo 3.º
+
+2 - As falsas declarações para obtenção do Cartão Social do Município terão como consequência imediata a sua anulação, bem como, a devolução dos benefícios recebidos indevidamente.
+
+3 - Em situação de exclusão ficam os elementos que constituem o agregado familiar interditos do direito de requerer o Cartão Social do Município durante o período de um ano, salvo avaliação técnica dos serviços competentes que justifiquem o contrário.
+
+### Capítulo IV — Disposições Finais
+
+###### Artigo 13.º — Dúvidas e Omissões
+
+É da competência da Câmara Municipal, a resolução de casos omissos e dúvidas suscitadas na interpretação e aplicação do presente Regulamento.
+
+###### Artigo 14.º — Norma Revogatória
+
+O presente Regulamento revoga o anterior Regulamento do Cartão Social do Município de Castro Verde, aplicando-se aos cartões em vigor as regras do presente Regulamento em tudo o que for aplicável. As disposições do presente regulamento aplicam-se às renovações dos Cartões Sociais do Município requeridas após a data de entrada em vigor do mesmo.
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente Regulamento entra em vigor após a sua publicação nos termos legais.
+
+O presente projeto de regulamento pode igualmente consultado na página da Autarquia na internet (www.cm-castroverde.pt), e no gabinete de Educação e Ação social, desta Câmara.
+
+313631241

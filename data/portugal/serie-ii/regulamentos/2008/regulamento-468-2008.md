@@ -1,0 +1,205 @@
+---
+schema_version: '1.0'
+id: pt:dre:2646877:por
+title: Regulamento n.º 468/2008
+short_title: null
+summary: Alteração ao Regulamento Municipal de Atribuição de Bolsas de Estudo do Concelho de Ourique
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Câmara Municipal de Ourique
+proposing_entity: null
+official_number: 468/2008
+official_date: null
+publication_date: '2008-08-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 159/2008, Série II de 2008-08-19
+  number: '159'
+  series: II
+  supplement: null
+  pages: 36649 - 36649
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/08/159000000/3664936649.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2646877'
+  dre_path: /dr/detalhe/regulamento/468-2008-2646877
+  internal: pt:dre:2646877:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/468-2008-2646877
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/468-2008-2646877
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:15:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a6c6914bb7fb65cf494562945550fc2d9e0ae0c7968eb9e930f7dce19bf754e5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:15:55Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:15:55Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 468/2008
+
+Pedro Nuno Prazeres Raposo do Carmo, Presidente da Câmara Municipal de Ourique:
+
+Torna público, que em conformidade com o disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935) de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro, se encontra em apreciação pública, durante o prazo de 30 dias a contar da data de publicação no Diário da República, a Proposta de Alteração ao Regulamento Municipal de Atribuição de Bolsas de Estudo, o qual foi aprovado em reunião de Câmara de 30 de Julho de 2008, devendo os interessados dirigir por escrito as suas sugestões à Câmara Municipal de Ourique.
+
+11 de Agosto de 2008. - O Presidente da Câmara, Pedro Nuno Raposo Prazeres do Carmo.
+
+Regulamento Municipal de Atribuição de Bolsas de Estudo do Concelho de Ourique
+
+(primeira alteração)
+
+Nota justificativa
+
+Após três anos de aplicação do Regulamento Municipal de Atribuição de Bolsas de Estudo - publicado pelo Aviso n.º 7273/2005 (2.ª Série) - AP, no Diário da República n.º 208, apêndice n.º 141, 2.ª série, de 28 de Outubro de 2005 - a experiência permitiu concluir que este carece de algumas alterações, de forma a responder melhor aos objectivos da entidade promotora e dos próprios jovens candidatos.
+
+Assim, nos termos do disposto na alínea a), do n.º 7, do artigo 64.º e na alínea a), do n.º 2, do artigo 53.º, da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, em conjugação com o artigo 241.º da Constituição da República Portuguesa, estabelece-se o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 1.º, 2.º, 4.º e 5.º do Regulamento Municipal de Atribuição de Bolsas de Estudo, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+Objecto
+
+1 - O presente Regulamento estabelece as normas de atribuição de bolsas de estudo por parte da Câmara Municipal de Ourique, a alunos que ingressem ou frequentem estabelecimentos de Ensino Superior Público, Particular ou Cooperativo ou Escolas Profissionais devidamente homologados.
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+3 - Escolas Profissionais, são instituições de Ensino Secundário, cujo principal objectivo é a formação de técnicos intermédios, com habilitação equivalente ao 12.º ano de escolaridade e com uma habilitação profissional de Nível III, que equivalem ao 12.º ano.
+
+Artigo 2.º
+
+Âmbito e objectivos
+
+...
+
+a) ...
+
+b) Colaborar na formação de quadros técnicos superiores e intermédios residentes no concelho de Ourique, contribuindo para um maior e mais equilibrado desenvolvimento social, económico e cultural.
+
+Artigo 4.º
+
+Condições de acesso
+
+1 - ...
+
+a) ...
+
+b) Frequente ou pretenda ingressar em estabelecimento do Ensino Superior ou Escola Profissional, como tal reconhecidos, no ano lectivo em que solicita a bolsa.
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+Artigo 5.º
+
+Processo de candidatura
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Certificado de matrícula no ano lectivo a que respeita a atribuição da bolsa de estudo no Estabelecimento de Ensino Superior, ou em Escola Profissional;
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) Declaração sob compromisso de honra, de como não beneficia para o mesmo ano lectivo de outra bolsa ou subsídio ou, caso contrário, declaração nos termos da alínea c) do n.º 1 do artigo 14.º;
+
+k) ...
+
+2 - ...
+
+3 - ...»
+
+###### Artigo 2.º
+
+É revogado o artigo 17.º do Regulamento Municipal de Atribuição de Bolsas de Estudo.
+
+21 de Julho de 2008. - O Presidente da Câmara, Pedro Nuno Raposo Prazeres do Carmo.

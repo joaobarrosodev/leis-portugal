@@ -1,0 +1,641 @@
+---
+schema_version: '1.0'
+id: pt:dre:853818484:por
+title: Regulamento n.º 241/2024
+short_title: null
+summary: Aprova o Regulamento e Tabela de Taxas e Preços da Freguesia de Relíquias
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Freguesia de Relíquias
+proposing_entity: null
+official_number: 241/2024
+official_date: null
+publication_date: '2024-02-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/2024, Série II de 2024-02-27
+  number: '41'
+  series: II
+  supplement: null
+  pages: 311 - 322
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/02/041000000/0031100322.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '853818484'
+  dre_path: /dr/detalhe/regulamento/241-2024-853818484
+  internal: pt:dre:853818484:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/241-2024-853818484
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/241-2024-853818484
+  consolidated_url: null
+  retrieved_at: '2026-11-13T07:54:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8d7b2f78597a60944c157abcc8810d16e15417290496e68f2921a2cacf948b96
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T07:54:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:122728684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1470733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614148:por
+  label: null
+  source: null
+article_structure:
+  article_count: 32
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T07:54:46Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 241/2024
+
+Daniel Sobral Balinhas, Presidente da Junta de Freguesia de Relíquias, torna público que, por deliberação tomada na reunião ordinária da Junta de Freguesia no dia 07 de setembro de 2023 e na reunião ordinária da Assembleia de Freguesia, no dia 28 de setembro de 2023, aprovou o Regulamento e Tabela de Taxas e Preços da Freguesia de Relíquias, o qual entra em vigor no dia seguinte à publicação do presente aviso no Diário da República.
+
+12 de janeiro de 2024. - O Presidente da Junta de Freguesia de Relíquias, Daniel Sobral Balinhas.
+
+Regulamento e Tabela de Taxas e Preços da Freguesia Relíquias
+
+As taxas das autarquias locais são tributos que assentam na prestação concreta de um serviço público local, na utilização privada de bens do domínio público e privado das autarquias locais ou na remoção de um obstáculo jurídico ao comportamento dos particulares, quando tal seja atribuição das autarquias locais, nos termos da lei (artigo 3.º do Regime Geral das Taxas das Autarquias Locais).
+
+O presente Regulamento e Tabela de Taxas e Preços é enquadrado no disposto no artigo 241.º da Constituição da República Portuguesa, nas alíneas d) e f) do n.º 1 do artigo 9.º conjugadas com a alínea h) do n.º 1 do artigo 16.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na sua redação atual, e cumprindo o estabelecido na Lei das Finanças Locais ([Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro, na sua redação atual) e no referido anteriormente Regime Geral das Taxas das Autarquias Locais.
+
+#### SECÇÃO I — Disposições legais
+
+###### Artigo 1.º — Objeto
+
+O presente regulamento e os seus anexos têm por finalidade estabelecer as taxas e preços, bem como as normas que regulam a sua incidência, liquidação, cobrança e pagamento, nos termos da lei, a aplicar nas atividades da autarquia no âmbito das suas atribuições e competências.
+
+###### Artigo 2.º — Incidência objetiva
+
+1 - As taxas das Freguesias incidem sobre utilidades prestadas aos particulares ou geradas pela atividade das Freguesias, designadamente:
+
+a) Pela concessão de licenças, prática de atos administrativos e satisfação administrativa de outras pretensões de caráter particular;
+
+b) Pela utilização e aproveitamento de bens do domínio público e privado das Freguesias;
+
+c) Pela gestão de equipamentos públicos de utilização coletiva;
+
+d) Pela gestão de equipamento rural e urbano;
+
+e) Pelas atividades de promoção do desenvolvimento local.
+
+2 - Os preços dizem respeito a um conjunto de serviços prestados pela Freguesia para satisfazer necessidades da população.
+
+###### Artigo 3.º — Incidência subjetiva
+
+1 - O sujeito ativo da relação jurídico-tributária, geradora da obrigação de pagamento das taxas e preços previstos no presente regulamento, é a junta de Freguesia, titular do direito de exigir aquela prestação.
+
+2 - O sujeito passivo é a pessoa singular ou coletiva e outras entidades legalmente equiparadas que, nos termos da lei e do presente regulamento, esteja vinculado ao cumprimento da prestação tributária, ou seja, ao pagamento de taxas e preços a esta Freguesia.
+
+3 - Estão sujeitos ao pagamento das taxas e preços previstos neste regulamento, o Estado, as Regiões Autónomas, as Autarquias Locais, os fundos e serviços autónomos e as entidades que integram o setor empresarial do Estado, das Regiões Autónomas e das Autarquias Locais.
+
+#### SECÇÃO II — Taxas e preços
+
+###### Artigo 4.º — Taxas e preços
+
+Esta autarquia cobra taxas e preços relativos a:
+
+a) Emissão de documentos (atestados, certidões, declarações, termos de identidade, justificação administrativa e confirmação de assinaturas);
+
+b) Outros serviços administrativos;
+
+c) Licenciamento de cães e gatos;
+
+d) Certificação de fotocópias;
+
+e) Acesso a documentos administrativos;
+
+f) Cemitérios;
+
+g) Licenciamento de venda ambulante de lotarias;
+
+h) Licenciamento de arrumador de automóveis;
+
+i) Licenciamento de atividades ruidosas de caráter temporário;
+
+j) Utilização de instalações.
+
+###### Artigo 5.º — Fundamentação económico-financeira e fórmulas de cálculo das taxas e preços
+
+1 - Para efeitos de cálculo dos valores das taxas e preços foram considerados custos diretos e indiretos associados a cada serviço prestado, designadamente, custos com pessoal, manutenção e limpeza, equipamentos, aquisição de materiais, investimentos, encargos financeiros, bem como os tempos médios de execução dos serviços.
+
+2 - Por vezes são utilizados critério de incentivo/desincentivo, cujo valor é fixado com vista a incentivar/desencorajar certos atos ou operações.
+
+3 - A fundamentação económico-financeira e fórmulas de cálculo das taxas e preços encontram-se demonstradas no Anexo 1 deste regulamento e que dele faz parte integrante.
+
+###### Artigo 6.º — Valor das taxas e preços
+
+Os valores das taxas e preços a cobrar por esta Freguesia são os constantes no Anexo 2 deste regulamento e que dele faz parte integrante.
+
+###### Artigo 7.º — Isenções
+
+1 - Estão isentos do pagamento das taxas e preços previstos no presente regulamento todos os particulares e entidades coletivas que beneficiem de isenção prevista em outros diplomas.
+
+2 - Em regime de isenção, há a considerar:
+
+a) O Presidente da Junta pode conceder outras isenções totais ou parciais a particulares ou entidades coletivas, nas taxas relativas a: Serviços Administrativos; Fotocópias, Impressões e Correio Eletrónico; Cedência de Espaços na Sede Administrativa; Outros Serviços;
+
+b) A Junta de Freguesia pode conceder outras isenções totais ou parciais a particulares ou entidades coletivas, em todas as taxas previstas no presente regulamento, devendo a respetiva deliberação de isenção constar em ata de reunião com a respetiva fundamentação;
+
+c) Sob proposta da Junta de Freguesia, a Assembleia de Freguesia pode aprovar isenções totais ou parciais a particulares ou entidades coletivas, em todas as taxas previstas no presente regulamento, devendo a respetiva deliberação de isenção constar em ata de reunião com a respetiva fundamentação.
+
+3 - As isenções previstas nos números anteriores não dispensam os interessados de requerer as licenças ou autorizações necessárias ou de realizar as comunicações devidas.
+
+4 - Os atestados, certidões e declarações, serão isentos quando se destinem a: Fins militares, Centro de emprego, Fins de pensão e reforma, Fins de ação social, Prova de vida (se comprovado rendimento igual e inferior ao IAS), Isenção de propinas, Subsídio escolar, e Certidão de insuficiência económica (se comprovado rendimento igual ou inferior ao IAS).
+
+###### Artigo 8.º — Licenças para canídeos e gatídeos
+
+1 - A licença dos canídeos e gatídeos têm a validade nela inscrita, caducando automaticamente se não for renovada.
+
+2 - A falta de licença ou a sua caducidade originam processo de contraordenação e consequentemente o pagamento de coimas nele definido.
+
+###### Artigo 9.º — Renovação de licenças
+
+1 - Os pedidos de renovação de licenças da competência da Junta de Freguesia, ou, nela delegada, terão de ser sempre requeridos, por escrito, salvo se disposição legal ou regulamentar dispuser noutros sentidos.
+
+2 - Quando para a renovação anual de determinados direitos, não houver lugar a novo pedido de Licenciamento, mas apenas ao simples pagamento de determinada taxa, a regra é a de que só deverá haver lugar ao pedido escrito para renovação se existir preceito legal ou regulamentar que o determine.
+
+###### Artigo 10.º — Cessação de licenças
+
+As licenças emitidas pela Junta de Freguesia para ocupação ou utilização da via pública, do seu solo ou subsolo, do espaço aéreo ou outro, de ocupação de terrado ou feiras e mercados e de publicidade comercial, serão sempre concedidas a título precário e caducam a 31 de dezembro, podendo ser caçadas a qualquer momento, por razões justificadas, ou por interesse público.
+
+#### SECÇÃO III — Liquidação
+
+###### Artigo 11.º — Liquidação e cobrança
+
+1 - A liquidação das taxas e preços consiste na determinação do montante a pagar com base na Tabela de Taxas e Preços, no tipo de serviços prestados e nos elementos fornecidos pelos utentes.
+
+2 - O documento de liquidação designa-se por guia de recebimento/fatura.
+
+3 - A liquidação de taxas e preços não precedida de procedimento é feita nos respetivos documentos de cobrança.
+
+4 - A cobrança será efetuada no momento ou após a execução do ato ou serviço a que respeitem.
+
+###### Artigo 12.º — Pagamento
+
+1 - De acordo Com o artigo 11.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro, a relação jurídico-tributária extingue-se através do pagamento da taxa e preço, ou de outras formas de extinção nos termos da lei geral tributária.
+
+2 - As taxas e preços são pagos em moeda corrente, por numerário, cheque, transferência bancária, e por outros meios previstos na lei.
+
+3 - Salvo disposição em contrário, o pagamento das taxas e preços será efetuado no momento ou após a execução do ato ou serviço a que respeitem.
+
+4 - De todas as taxas e preços cobrados pela Junta de Freguesia será emitida fatura ou documento equivalente que comprove o respetivo pagamento.
+
+###### Artigo 13.º — Erro na liquidação das taxas
+
+1 - Quando se verifique que na liquidação das taxas se cometerem erros ou omissões imputáveis aos serviços, e dos quais tenham resultado valor inferior ao devido promover-se-á de imediato a liquidação adicional.
+
+2 - O contribuinte será notificado por correio registado com aviso de receção, para, no prazo de 15 dias, pagar a diferença. Da notificação deverão constar os fundamentos da liquidação adicional, o montante, o prazo para pagar e ainda a indicação de que, caso não se efetue o pagamento, findo aquele prazo, implicará a cobrança coerciva nos termos do presente Regulamento.
+
+3 - Quando se verifique ter havido erro de cobrança por excesso, deverão os serviços, oficiosamente, promover a restituição da quantia cobrada a mais, nos termos da legislação em vigor.
+
+4 - Não produzem direito a restituição os casos em que a pedido do interessado sejam introduzidas nos processos alterações ou modificações produtoras de taxas inferiores.
+
+###### Artigo 14.º — Pagamento em prestações
+
+1 - O Presidente da Junta de Freguesia poderá autorizar o pagamento das taxas e preços em prestações mensais, mediante requerimento fundamentado, dentro do prazo para pagamento voluntário.
+
+2 - O pedido de pagamento em prestações deve conter a identificação do requerente, a natureza da dívida e o número de prestações pretendido, bem como os motivos e documentos que o fundamentam.
+
+3 - No caso do deferimento do pedido, o valor de cada prestação mensal corresponderá ao valor resultante da divisão do total da dívida pelo número de prestações autorizado.
+
+4 - O pagamento de cada prestação deve ser efetuado nos primeiros oito dias do mês a que disser respeito.
+
+5 - A falta de pagamento de qualquer prestação implica o vencimento imediato das seguintes, e a consequente cobrança da dívida remanescente em processo de execução fiscal.
+
+###### Artigo 15.º — Incumprimento
+
+1 - De acordo com o artigo 12.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro, são devidos juros de mora pelo cumprimento extemporâneo da obrigação de pagamento das taxas.
+
+2 - A taxa de juros de mora a aplicar é a definida, para cada ano, pela Agência de Gestão da Tesouraria e da Dívida Pública (IGCP), através de Aviso publicado no Diário da República.
+
+3 - De acordo com o n.º 1 da [Lei n.º 3/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-2010-614148), de 27 de abril, O Estado e demais entidades públicas, incluindo as Regiões Autónomas e as autarquias locais, estão obrigados ao pagamento de juros moratórios pelo atraso no cumprimento de qualquer obrigação pecuniária.
+
+4 - Estão isentas de juros de mora as dívidas abrangidas por legislação especial em que se faça expressa referência, quer à não sujeição a juros de mora, quer a outro procedimento relativo à falta de pagamento nos prazos estabelecidos.
+
+5 - De acordo com o artigo 12.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro, as dívidas que não forem pagas voluntariamente são objeto de cobrança coerciva através de processo de execução fiscal, nos termos do Código de Procedimento e de Processo Tributário.
+
+###### Artigo 16.º — Atualização dos valores das taxas e preços
+
+1 - De acordo com o n.º 1 do artigo 9.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro os valores das taxas e preços estabelecidos neste documento podem ser atualizados através do orçamento anual da Freguesia, de acordo com a taxa de inflação.
+
+2 - A Junta de Freguesia poderá propor à Assembleia de Freguesia a atualização extraordinária ou a alteração das taxas e preços previstos neste documento, mediante fundamentação económico-financeira subjacente ao novo valor.
+
+3 - Quando as taxas e preços resultem de valores fixados por disposição legal, estas serão atualizadas de acordo com a legislação em vigor.
+
+###### Artigo 17.º — Caducidade
+
+O direito da Junta de Freguesia de liquidar as taxas e preços caduca, se a liquidação não for validamente notificada ao sujeito passivo, no prazo de quatro anos a contar da data em que o facto tributário ocorreu.
+
+###### Artigo 18.º — Prescrição
+
+1 - As dívidas por taxas e preços à Freguesia prescrevem no prazo de oito anos a contar da data em que o facto tributário ocorreu.
+
+2 - A citação, a reclamação e a impugnação interrompem a prescrição.
+
+3 - A paragem dos processos de reclamação, impugnação e execução fiscal por prazo superior a um ano por facto não imputável ao sujeito passivo faz cessar a interrupção da prescrição, somando-se, neste caso, o tempo que decorreu após aquele período ao que tiver decorrido até à data da autuação.
+
+###### Artigo 19.º — Garantias
+
+1 - Os sujeitos passivos das taxas e preços podem reclamar ou impugnar a respetiva liquidação.
+
+2 - A reclamação deverá ser efetuada por escrito e dirigida à Junta de Freguesia, no prazo de 30 dias a contar da notificação da liquidação.
+
+3 - A reclamação presume-se indeferida para efeitos de impugnação judicial se não for decidida no prazo de 60 dias.
+
+4 - Do indeferimento tácito ou expresso cabe impugnação judicial para o tribunal administrativo e fiscal da área desta Freguesia, no prazo de 60 dias a contar do indeferimento.
+
+5 - A impugnação judicial depende da prévia dedução da reclamação prevista no n.º 2 deste artigo.
+
+#### SECÇÃO IV — Disposições finais
+
+###### Artigo 20.º — Publicidade
+
+A Junta de Freguesia disponibilizará nas instalações dos serviços administrativos, em suporte papel e na página eletrónica o Regulamento e Tabela de Taxas e Preços.
+
+###### Artigo 21.º — Legislação subsidiária
+
+Em tudo quanto não estiver, expressamente previsto, neste regulamento é aplicável, sucessivamente:
+
+a) O Regime Geral das Taxas das Autarquias Locais;
+
+b) A Lei das Finanças Locais;
+
+c) A Lei Geral Tributária;
+
+d) A Lei das Autarquias Locais;
+
+e) O Estatuto dos Tribunais Administrativos e Fiscais;
+
+f) O Código de Procedimento e de Processo Tributário;
+
+g) O Código de Processo Administrativo nos Tribunais Administrativos;
+
+h) O Código do Procedimento Administrativo.
+
+###### Artigo 22.º — Norma revogatória
+
+É revogado o Regulamento e Tabela de Taxas anteriormente vigente na Freguesia de Relíquias.
+
+###### Artigo 23.º — Entrada em vigor
+
+O Regulamento e Tabela de Taxas e Preços entra em vigor após aprovação pela Assembleia de Freguesia da Freguesia de Relíquias.
+
+## ANEXO 1 — Fundamentação económico-financeira e fórmulas de cálculo das taxas e preços
+
+###### Artigo 1.º — Emissão de documentos
+
+1 - A fórmula de cálculo a aplicar na emissão de documentos é a seguinte:
+
+Taxa de Emissão de Documentos = Tedos = tme x (vhtn + vhie) + ct
+
+a) Tme = tempo médio de execução = (tempo médio de elaboração do documento + tempo médio de realização do registo contabilístico + tempo médio despendido no arquivo)
+
+b) Vhtn = valor hora do custo do trabalho normal dos trabalhadores dos serviços administrativos = (remuneração base mensal + subsídio de natal mensal + subsídio de férias mensal + subsídio de refeição mensal + abono para falhas + desconto para o sistema de proteção social mensal + seguro de acidentes de trabalho mensal) / 22 dias / 7 horas
+
+c) Vhie = valor hora da despesa com instalações e equipamentos = ((consumo de água médio mensal + consumo de eletricidade médio mensal + consumo médio de custos com manutenção dos equipamentos e softwares informáticos e administrativos) / 22 dias / 7 horas)
+
+d) ct = custo total (custo de consumíveis)
+
+2 - Para a emissão de documentos com diversos fins (atestados, certidões, declarações, termos de identidade, justificação administrativa, confirmações e outros documentos) para os requerentes recenseados na Freguesia de Relíquias, a fórmula traduz-se nos seguintes cálculos:
+
+Tedos (emissão de documentos) = tme x (vhtn + vhie) + ct
+
+3 - Para a emissão de licenças de atividades diversas (venda ambulante de lotarias e arrumadores de automóveis) para os requerentes recenseados na Freguesia de Relíquias, a fórmula traduz-se nos seguintes cálculos:
+
+Tedos (atividades diversas) = tme x (vhtn + vhie) + ct
+
+4 - Para a concessão de Licenças Especiais de Ruído de Caráter Temporário são os previstos, no Regime Geral do Ruído, [Decreto-Lei n.º 9/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2007-522807), de 17 de janeiro, e no [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693) de 18 de dezembro republicado pelo [Decreto-Lei n.º 204/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), de 29 de agosto, para os requerentes recenseados na Freguesia de Relíquias, a fórmula traduz-se nos seguintes cálculos:
+
+Tedos (TELR)= ((tme x vhtn + vhie) + ct) x cd
+
+###### Artigo 2.º — Outros serviços administrativos
+
+1 - A fórmula de cálculo a aplicar na extração de fotocópias e impressões é a definida para a emissão de documentos, apresentada no artigo 1.º deste anexo, e em alguns casos, associada a critérios de desincentivo:
+
+Tedos (Fotocópias) = tme x (vhtn + vhie) + ct
+
+###### Artigo 3.º — Certificação de fotocópias
+
+1 - O [Decreto-Lei n.º 28/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2000-410916), de 13 de março, atribui às Freguesia a possibilidade de certificar a conformidade de fotocópias com os documentos originais que lhes sejam apresentados.
+
+2 - O artigo 2.º do referido diploma estabelece que é da competência da Freguesia fixar os preços a cobrar pelos serviços de certificação de fotocópias, não podendo exceder o preço resultante da tabela em vigor nos cartórios notariais.
+
+3 - Neste contexto, os preços fixados correspondem a 100 % das taxas definidas no n.º 9 do artigo 27.º do Regulamento Emolumentar dos Registos e dos Notariados, respetivamente para as alíneas a) e b):
+
+a) Até 4 páginas, inclusive = 20 (euro)
+
+b) A partir da 5.ª página, por cada página a mais = 3 (euro).
+
+###### Artigo 4.º — Registo e licenciamento de cães e gatos
+
+1 - De acordo com o [Decreto-Lei n.º 82/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), de 27 de junho, as taxas a aplicar no registo e no licenciamento de cães e gatos devem ter como referência o valor da Taxa N de profilaxia médica (fixada anualmente por despacho do governo), não podendo exceder o triplo daquele valor e variando de acordo com a categoria do animal. No momento da elaboração deste documento vigora o [Despacho n.º 6756/2012](https://diariodarepublica.pt/dr/detalhe/despacho/6756-2012-1470733) (2.ª série), de 18 de maio, que estabelece o valor da Taxa N em 5,00 (euro).
+
+1.1 - As fórmulas de cálculo a aplicar são as definidas nas alíneas seguintes:
+
+a) Licenças:
+
+i) Categoria A (cão de companhia) = 150 % da taxa N de profilaxia médica
+
+ii) Categoria B (cão com fins económicos) = 150 % da taxa N de profilaxia médica
+
+iii) Categoria C (cão para fins militares, policiais e de segurança pública) - isento ao abrigo de acordo com o n.º 4 do artigo 27.º do [Decreto-Lei n.º 82/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), de 27 de junho na sua versão atualizada.
+
+iv) Categoria D (cão para investigação científica) = isento ao abrigo de acordo com alínea b) do n.º 7 do artigo 27.º do [Decreto-Lei n.º 82/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), de 27 de junho na sua versão atualizada.
+
+v) Categoria E (cão de caça) = 200 % da taxa N de profilaxia médica
+
+vi) Categoria F (cão-guia) = isento, de acordo com o alínea a) n.º 7 do artigo 27.º do [Decreto-Lei n.º 82/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), de 27 de junho na sua versão atualizada.
+
+vii) Categoria G (cão potencialmente perigoso) = 300 % da taxa N de profilaxia médica
+
+viii) Categoria H (cão perigoso) = 300 % da taxa N de profilaxia médica
+
+ix) Categoria I (gato) = 100 % da taxa N de profilaxia médica
+
+x) Cães de Matilhas = 100 % da taxa N de profilaxia médica
+
+De acordo com n.º 8 do artigo 27.º [Decreto-Lei n.º 82/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), de 27 de junho na sua versão atualizada, ficam isentos do pagamento de taxa, enquanto conservarem essa qualidade, os:
+
+a) Cães-guia;
+
+b) Cães de guarda de estabelecimentos do Estado, corpos administrativos, organismos de beneficência e de utilidade pública;
+
+c) Cães que se encontrem recolhidos em instalações pertencentes a sociedades zoófilas legalmente constituídas e sem fins lucrativos e nos canis municipais;
+
+d) Cães detidos por outras entidades públicas no quadro de políticas de sensibilização ou de educação para o bem-estar animal.
+
+Ficam igualmente isentos do pagamento de taxa os titulares de canídeos em situação de insuficiência económica, bem como os detentores que tenham adotado os cães em centros de recolha oficial de animais ou em associações zoófilas legalmente constituídas.
+
+###### Artigo 5.º — Concessões no cemitério
+
+1 - A fórmula de cálculo de concessão de terrenos para sepulturas, ossários e gavetões no cemitério está indexada ao valor do preço do metro quadrado de terreno para efeitos de cálculo do IMI, que no ano de elaboração deste documento se situa nos 640,00(euro), área do terreno (m2), a área do espaço ocupado, o custo administrativo para a prestação do serviço, e a critérios de desincentivo à concessão perpétua dos terrenos e incentivo à ocupação temporária.
+
+2 - A fórmula de cálculo para o custo do serviço administrativo é a constante no artigo 1.º deste anexo:
+
+Tedos (emissão de documentos) = tme x (vhtn + vhie) + ct
+
+2.1 - Concessão de terreno para sepultura perpétua:
+
+= (valor médio de construção por metro quadrado x área x cd) + tedos
+
+2.2 - Concessão de terreno para jazigo:
+
+= (valor médio de construção por metro quadrado x área x cd) + Tedos
+
+2.3 - Concessão de sepultura perpétua com alvenaria (tijolo):
+
+= (valor médio de construção por metro quadrado x área x cd) + Tedos
+
+###### Artigo 6.º — Serviços cemiteriais
+
+1 - No que diz respeito aos serviços realizados no cemitério relativos a inumações, exumações e trasladações, a fórmula a aplicar tem em consideração o custo do trabalho normal dos trabalhadores responsáveis pelos mesmos, o tempo despendido, despesas com a manutenção dos cemitérios, e custo dos materiais/máquinas/veículos utilizados, e em alguns casos, critérios de incentivo e desincentivo, consoante a atividade e o que a mesma implica. Sendo aplicada uma taxa extraordinária (te) de 60 (euro), fora do horário de funcionamento.
+
+2 - Fórmula de cálculo:
+
+Serviços Cemiteriais (SC) = (remuneração base mensal + subsídio de natal mensal + subsídio de férias mensal + subsídio de refeição mensal + abono para falhas + desconto para o sistema de proteção social mensal+ seguro de acidentes de trabalho mensal+ outros subsídios) / 22 dias / 7 horas + [(consumo de água médio mensal + consumo de eletricidade médio mensal + consumo médio de custos com manutenção dos equipamentos) / 22 dias / 7 horas]
+
+2.1 - Inumação:
+
+Ti = Tedos + SC x tme
+
+2.2 - Trasladações:
+
+Tt = Tedos + SC x tme
+
+###### Artigo 7.º — Outros Serviços
+
+Outros serviços (OS) = (remuneração base mensal + subsídio de natal mensal + subsídio de férias mensal + subsídio de refeição mensal + abono para falhas + desconto para o sistema de proteção social mensal+ seguro de acidentes de trabalho mensal+ outros subsídios) / 22 dias / 7 horas + [(consumo de água médio mensal + consumo de eletricidade médio mensal + consumo médio de custos com manutenção dos equipamentos) / 22 dias / 7 horas] + custos com outros materiais.
+
+Tos = Tedos + OS x tme
+
+Nos casos em que a fundamentação não seja indicada deverão ser considerados preços.
+
+###### Artigo 8.º — Publicidade
+
+Nos assuntos relacionados com a publicidade nas viaturas, aplicam-se as taxas do Município de Odemira, no que se concerne ao licenciamento e renovação.
+
+###### Artigo 9.º — Ocupação da Via Pública
+
+Nos assuntos relacionados com a ocupação da via pública, aplicam-se as taxas do Município de Odemira, no que se concerne ao licenciamento e renovação.
+
+Quadro I
+
+Prestação de Serviços Administrativos
+
+|  |  |
+| --- | --- |
+| 1 - Atestados, declarações e certidões: |  |
+| 1.1 - Atestados: |  |
+| 1.1.1 - Diversos... | 3,00(euro) |
+| 1.1.2 - Com impresso próprio... | 3,00(euro) |
+| 1.1.3 - Para prova de vida: |  |
+| 1.1.3.1 - Com ou sem Impressos... | 3,00(euro) |
+| 1.1.4 - Certidões e declarações de Pobreza ou Indigência... | Isento |
+| 1.1.5 - Fundo de desemprego... | Isento |
+| 1.1.6 - Abono de família... | Isento |
+| 1.1.7 - Benefício telefónico... | Isento |
+| 1.1.8 - Passe social... | Isento |
+| 1.1.9 - Fins escolares... | 3,00(euro) |
+| 1.1.10 - Fins militares... | Isento |
+| 1.1.11 - Pessoas singulares que se encontrem em situação de Insuficiência económica (Apoio judiciário e fins hospitalares)... | Isento |
+| 1.1.12 - Cartão do idoso... | Isento |
+| 1.1.13 - Cartão-jovem... | 3,00(euro) |
+| 1.1.14 - Certidões para fins eleitorais ou quaisquer outros que sejam beneficiados por lei... | Isento |
+| 1.2 - Certidões: |  |
+| 1.2.1 - Diversas... | 3,00(euro) |
+| 1.2.2 - Comprovativa da não ocupação da via pública por motivo de obras... | 3,00(euro) |
+| 2 - Confirmações diversas... | 3,00(euro) |
+| 3 - Certificação de fotocópias: |  |
+| 3.1 - Até 4 páginas... | 20,00(euro) |
+| 3.2 - A 5.ª página e seguintes, por cada... | 3,00(euro) |
+| 4 - Certificação da conformidade de documentos eletrónicos com os documentos originais e respetiva digitalização... | 5,00(euro) |
+| 5 - Conferência de fotocópias ou fotocópia e respetiva conferência, por cada documento, independentemente do número de páginas... | 9,00(euro) |
+| 6 - Outros documentos... | 3,00(euro) |
+| 7 - Fotocópias: |  |
+| 7.1 - Formato A4: |  |
+| 7.1.1 - Frente... | 0,25(euro) |
+| 7.1.2 - Frente e verso... | 0,40(euro) |
+| 7.2 - Formato A3: |  |
+| 7.2.1 - Frente... | 0,30(euro) |
+| 7.2.2 - Frente e verso... | 0,45(euro) |
+| 8 - Fax e email: |  |
+| 8.1 - Envio nacional: |  |
+| 8.1.1 - 1.º página... | 1,50(euro) |
+| 8.1.2 - Páginas seguintes... | 0,65(euro) |
+| 8.2 - Envio internacional: |  |
+| 8.2.1 - 1.º página... | 1,75(euro) |
+| 8.2.2 - Páginas seguintes... | 1,15(euro) |
+| 8.3 - Recebimentos: |  |
+| 8.3.1 - 1.º página... | 1,00(euro) |
+| 8.3.2 - Páginas seguintes... | 0,65(euro) |
+| 9 - Impressões de documentos em papel: |  |
+| 9.1 - Formato A4: |  |
+| 9.1.1 - Frente... | 1,00(euro) |
+| 9.1.2 - Frente e Verso... | 1,50(euro) |
+
+Quadro II
+
+Canídeos e Gatídeos
+
+|  |  |
+| --- | --- |
+| 1 - Registo... | 2,50 (euro) |
+| 2 - Licenças: |  |
+| 2.1 - A - Cão de companhia ... | 7,50 (euro) |
+| 2.2 - B - Cão com fins económicos ... | 7,50 (euro) |
+| 2.3 - C - Cão para fins militares, policiais e de segurança pública ... | Isento |
+| 2.4 - D - Cão para investigação cientifica... | Isento |
+| 2.5 - E - Cão de caça ... | 10,00 (euro) |
+| 2.6 - E - Cão-guia... | Isento |
+| 2.7 - G - Cão potencialmente perigoso... | 15,00 (euro) |
+| 2.8 - H - Cão perigoso... | 15,00 (euro) |
+| 2.9 - I - Gato ... | 5,00 (euro) |
+| 2.10 - J - Outros animais potencialmente perigosos... | 15,00 (euro) |
+| 2.11 - K - Cães de Matilhas ... | 5,00 (euro) |
+| 3 - Declaração de guarda... | 3,00 (euro) |
+
+Quadro III
+
+Cemitérios
+
+|  |  |
+| --- | --- |
+| 1 - Inumações: |  |
+| 1.1 - Em sepultura temporária... | 60,00 (euro) |
+| 1.2 - Em sepultura perpétua... | 80,00 (euro) |
+| 1.3 - Em Jazigo... | 80,00 (euro) |
+| 1.4 - De cinzas... | 40,00 (euro) |
+| 1.5 - Fora do horário de funcionamento, acresce... | 60,00 (euro) |
+| 2 - Transladações: |  |
+| 2.1 - No próprio cemitério... | 80,00 (euro) |
+| 2.2 - Para outro cemitério... | 80,00 (euro) |
+| 3 - Exumação dentro ou para fora do cemitério ... | 60,00 (euro) |
+| 4 - Concessão de terrenos: |  |
+| 4.1 - Para sepultura perpétua (m2)... | 550,00(euro) |
+| 4.2 - Para Jazigo (m2)... | 375,00 (euro) |
+| 4.3 - Para sepultura perpétua com alvenaria (tijolo)... | 700,00 (euro) |
+| 5 - Licenças para tratamento de sepulturas e sinais funerários: |  |
+| 5.1 - Licença para revestimento em pedra... | 15,00 (euro) |
+| 5.2 - Cercadura para sepultura temporária... | 100,00 (euro) |
+| 6 - Sacos para ossadas... | 15,00 (euro) |
+| 7 - Alvarás: |  |
+| 7.1 - Emissão de alvará... | 15,00 (euro) |
+| 7.2 - Averbamentos aos alvarás de concessão, em nome de novo concessionário: |  |
+| 7.2.1 - Classes sucessíveis, nos termos das alíneas a) a d) do artigo 2133.º do Código Civil Português - Para jazigos, ossários ou sepulturas perpétuas... | 12,50 (euro) |
+| 7.2.2 - Para terceiras pessoas - Para jazigos, ossários ou sepulturas perpétuas... | 27,70 (euro) |
+| 7.3 - Averbamentos diversos... | 12,50 (euro) |
+| 7.4 - 2.ª Via de Alvará ... | 12,50 (euro) |
+
+Quadro IV
+
+Outros Serviços
+
+|  |  |
+| --- | --- |
+| 1 - Serviços de máquinas e outros equipamentos: |  |
+| 1.1 - Trator, por hora ou fração... | 50,00 (euro) |
+| 1.1.1 - Trator, com destroçador... | 50,00 (euro) |
+| 1.2 - Dumper, por hora ou fração... | 20,00 (euro) |
+| 1.3 - Retroescavadora, por hora ou fração... | 50,00 (euro) |
+| 2 - Máquinas comunitárias: |  |
+| 2.1 - Máquina de lavar roupa (por utilização)... | 4,00 (euro) |
+| 2.2 - Máquina de secar roupa (por utilização)... | 1,00 (euro) |
+
+Quadro V
+
+Licenciamento de Atividades Diversas
+
+|  |  |
+| --- | --- |
+| 1 - Licenças diversas: |  |
+| 1.1 - Vendedor ambulante de lotarias... |  |
+| 1.1.1 - Apreciação do pedido... | 8,20 (euro) |
+| 1.1.2 - Emissão da Licença de exercício da atividade... | 4,00 (euro) |
+| 1.1.3 - Renovação anual da licença dentro do prazo de vigência da licença anterior... | 4,00 (euro) |
+| 1.1.4 - Renovação anual da licença após o final do prazo de vigência da licença anterior... | 6,00 (euro) |
+| 1.1.5 - Cartão de vendedor ambulante de lotarias - Emissão ou substituição... | 5,00 (euro) |
+| 1.2 - Arrumador de automóveis: |  |
+| 1.2.1 - Apreciação do pedido... | 40,00 (euro) |
+| 1.2.2 - Emissão da Licença de exercício da atividade... | 20,00 (euro) |
+| 1.2.3 - Renovação anual da licença dentro do prazo de vigência da licença anterior... | 20,00 (euro) |
+| 1.2.4 - Renovação anual da licença após o final do prazo de vigência da licença anterior... | 35,00 (euro) |
+| 1.2.5 - Cartão de Arrumador de Automóveis - Emissão ou substituição... | 5,00 (euro) |
+| 1.3 - Licença para realização de atividades ruidosas de caráter temporário que respeitem a festas populares, romarias, feiras, arraiais e bailes: |  |
+| 1.3.1 - Apreciação do pedido, por cada... | 25,00 (euro) |
+| 1.3.2 - Emissão da Licença, por cada... | 5,00 (euro) |
+
+317255109

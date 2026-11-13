@@ -1,0 +1,1457 @@
+---
+schema_version: '1.0'
+id: pt:dre:214724580:por
+title: Regulamento n.º 698/2023
+short_title: null
+summary: Aprova o Regulamento Municipal de Habitação
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Palmela
+proposing_entity: null
+official_number: 698/2023
+official_date: null
+publication_date: '2023-06-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 121/2023, Série II de 2023-06-23
+  number: '121'
+  series: II
+  supplement: null
+  pages: 341 - 376
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/06/121000000/0034100376.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '214724580'
+  dre_path: /dr/detalhe/regulamento/698-2023-214724580
+  internal: pt:dre:214724580:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/698-2023-214724580
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/698-2023-214724580
+  consolidated_url: null
+  retrieved_at: '2026-11-13T07:42:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f057cbacfb70dc5df15a65d36ba547942bc4a2eee10c2d60e2b366a6f27ed268
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T07:42:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:114390924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115440317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138056617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140631237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75194221:por
+  label: null
+  source: null
+article_structure:
+  article_count: 80
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T07:42:27Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 698/2023
+
+Álvaro Manuel Balseiro Amaro, Presidente da Câmara Municipal de Palmela, torna público que, conforme deliberações tomadas em reuniões da Câmara Municipal de 04 de maio de 2023 e de Assembleia Municipal de 26 de maio de 2023 e nos termos e em cumprimento do disposto no artigo 56.º do Regime Jurídico das Autarquias Locais, aprovado pela [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, conjugado com o artigo 139.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468) de 7 de janeiro, foi aprovado o Regulamento Municipal de Habitação.
+
+30 de maio de 2023. - O Presidente da Câmara, Álvaro Manuel Balseiro Amaro.
+
+Preâmbulo
+
+A constituição da República Portuguesa consagra, no seu artigo 65.º, o direito à habitação, assumindo este, atualmente, uma dimensão estratégica na promoção e desenvolvimento da vida em comunidade, bem como na competitividade e coesão dos territórios.
+
+Sendo o direito à habitação indissociável do exercício pleno da cidadania, o investimento a realizar na dignificação das condições habitacionais das famílias, exige, simultaneamente, a implicação e o esforço da Administração e da Sociedade Civil no trabalho de minimização das desigualdades sociais, proteção das/os mais desfavorecidas/os, garantindo o acesso a uma habitação digna e adequada, sobretudo quando o mercado livre, quer para aquisição, quer para arrendamento, condicionam fortemente as famílias com menores recursos económicos.
+
+Assente nos princípios de equidade, igualdade e de justiça social, este regulamento estabelece o regime de atribuição e gestão social e patrimonial do parque habitacional de propriedade do Município de Palmela destinado ao arrendamento apoiado, considerando que de acordo com a [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na sua redação atual, constituem atribuições dos municípios, entre outras, a habitação, a ação social e a promoção do seu desenvolvimento.
+
+Decorrente da publicação da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, alterada e republicada pela [Lei n.º 32/2016](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), de 24 de agosto - Regime de Arrendamento Apoiado para Habitação, importa proceder à elaboração de um instrumento regulador, por forma a estabelecer e sistematizar num único documento, as normas, critérios e procedimentos no âmbito da atribuição e gestão de habitações municipais no regime de arrendamento apoiado, no respeito pelos direitos e interesses legalmente protegidos das/os cidadãs/os, adequando o regime jurídico vigente à realidade do Município de Palmela.
+
+São os objetivos supra elencados que fundamentam a necessidade do presente regulamento. Neste contexto, disciplinam-se, de forma mais precisa, as necessidades presentes, as abordagens mais adequadas e os instrumentos a adotar para a intervenção pública e a ação municipal orientadas para o bem-estar das populações.
+
+O presente regulamento tem como lei habilitante, o disposto na alínea c), do n.º 2, e no n.º 3, do artigo 65.º, no n.º 7, do artigo 112.º, e no artigo 241.º, todos da Constituição da República Portuguesa, nas alíneas h), i) e n), do n.º 2, do artigo 23.º, e na alínea g), do n.º 1, do artigo 25.º, conjugadas com a alínea k), do n.º 1, do artigo 33.º, todos do Anexo I, à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na sua atual redação, no n.º 4, do artigo 2.º, da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na redação em vigor, e nos artigos 97.º a 101.º e 135.º e seguintes, do Código do Procedimento Administrativo (CPA), aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua atual redação.
+
+A deliberação de início de procedimento foi publicitada nos termos do artigo 98.º do CPA. O projeto de regulamento, após aprovação da Câmara Municipal, foi objeto de consulta pública, por um período de trinta dias, contados da publicação na 2.ª série do Diário da República, n.º 45, de 3 de março de 2023.
+
+A versão final do regulamento foi aprovada pela Câmara Municipal em 04/05/2023 e pela Assembleia Municipal em 26/05/2023, de acordo com as disposições conjugadas da alínea k), do n.º 1, do artigo 33.º e alínea g), do n.º 1, do artigo 25.º, todos do Anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de
+
+setembro, na sua atual redação.
+
+### CAPÍTULO I — Enquadramento Geral
+
+###### Artigo 1.º — Lei habilitante
+
+O presente regulamento tem como Lei habilitante, o disposto na alínea c), do n.º 2, e no n.º 3, do artigo 65.º, no n.º 7, do artigo 112.º, e no artigo 241.º, todos da Constituição da República Portuguesa, nas alíneas h), i) e n), do n.º 2, do artigo 23.º, e na alínea g), do n.º 1, do artigo 25.º,
+
+conjugadas com a alínea k), do n.º 1, do artigo 33.º, todos do Anexo I, à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na sua atual redação, no n.º 4, do artigo 2.º, da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na redação em vigor, e nos artigos 97.º a 101.º e 135.º e seguintes, do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua atual redação.
+
+###### Artigo 2.º — Objeto
+
+O presente regulamento estabelece o regime de atribuição, gestão social e patrimonial do parque habitacional do Município de Palmela, destinado a arrendamento apoiado, nomeadamente:
+
+a) Os critérios de atribuição das habitações municipais em regime de arrendamento apoiado;
+
+b) As regras a que obedecem a ocupação e utilização das habitações municipais destinadas a arrendamento apoiado, e respetivos espaços de uso comum.
+
+###### Artigo 3.º — Âmbito de aplicação
+
+1 - No âmbito do arrendamento apoiado, o presente regulamento aplica-se:
+
+a) A todo o território do Município de Palmela;
+
+b) Aos indivíduos e agregados familiares residentes em habitação de arrendamento apoiado da propriedade do Município de Palmela;
+
+c) A todos os indivíduos e agregados familiares residentes no concelho de Palmela há mais de dois anos consecutivos, que se encontrem em situação habitacional precária e sem condições para proverem uma habitação condigna.
+
+2 - Para além dos titulares do direito de ocupação dos fogos de habitação de arrendamento apoiado do Município de Palmela, na qualidade de arrendatárias/os, o presente regulamento aplica-se igualmente a todos os elementos do respetivo agregado familiar que constem do registo de dados, e que aí residam legalmente.
+
+### CAPÍTULO II — Disposições Gerais
+
+###### Artigo 4.º — Condições de Acesso
+
+1 - Podem ter acesso a uma habitação em regime de arrendamento apoiado, independentemente da modalidade de atribuição, as/os cidadãs/os nacionais e as/os cidadãs/os estrangeiras/os detentoras/es de título válido de permanência em território nacional que não residam, ou que não tenham condições objetivas para continuar a residir, em habitação condigna e adequada à satisfação das necessidades do seu agregado familiar e não se encontrem em situação de impedimento legal.
+
+2 - As/os subscritoras/es de uma candidatura à atribuição de uma habitação em regime de arrendamento apoiado, independentemente do tipo de procedimento adotado, denominam-se «candidatas/os a arrendatárias/os municipais», cabendo-lhes identificar, no caso de agregados familiares, a/o respetiva/o representante.
+
+###### Artigo 5.º — Condição de recurso
+
+1 - A atribuição de uma habitação em regime de arrendamento apoiado terá como pressuposto a carência financeira e habitacional das/os candidatas/os.
+
+2 - Os atos de atribuição das habitações em regime de arrendamento apoiado estão todos sujeitos à condição de manutenção, pelas/os arrendatárias/os municipais, de um grau de carência financeira e habitacional que lhes inviabilize o recurso a uma solução própria, adequada e autónoma no mercado habitacional.
+
+3 - Cessando a condição de recurso identificada no n.º 1 do presente artigo, pode o ato de atribuição ser a todo o tempo revogado, o que determinará a caducidade do contrato de arrendamento apoiado.
+
+###### Artigo 6.º — Exclusões
+
+1 - Ficam excluídos do presente regulamento as habitações:
+
+a) Destinadas a assegurar realojamentos temporários de inquilinas/os municipais;
+
+b) Que estejam ou venham a ser ocupadas em regime de arrendamento de direito privado, na sequência de processo próprio, transacional, expropriativo ou de natureza com propósito semelhante;
+
+c) Que sejam desafetados do parque de habitação de arrendamento apoiado do Município de Palmela.
+
+2 - As habitações referidas no número anterior ficam sujeitas ao regime que vier a ser especificamente estabelecido para a sua ocupação ou utilização, nos termos da lei.
+
+###### Artigo 7.º — Definições
+
+1 - Para efeitos do presente regulamento, considera -se:
+
+a) «Agregado familiar», o conjunto de pessoas que residem em economia comum na habitação arrendada, constituído pela/o arrendatária/o e pelas pessoas referidas nas alíneas a), b), c), d) e e) do n.º 1, do artigo 4.º, do [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho, na sua atual redação, infra referidas, bem como por quem tenha sido autorizada/o pelo senhorio a permanecer na habitação, designadamente:
+
+i) Cônjuge ou pessoa em união de facto há mais de 2 anos;
+
+ii) Parentes e afins maiores, em linha reta e em linha colateral, até ao 3.º grau;
+
+iii) Parentes e afins menores em linha reta e em linha colateral;
+
+iv) Adotantes, tutoras/es e pessoas a quem a/o requerente esteja confiada/o por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito;
+
+v) Adotadas/os e tuteladas/os pela/o requerente ou qualquer dos elementos do agregado familiar e crianças e jovens confiadas/os por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito à/ao requerente ou a qualquer dos elementos do agregado familiar;
+
+b) «Agregado unititulado», o agregado constituído por um ou mais dependentes e um único adulto não dependente, incluindo o agregado monoparental composto por titulares do abono de família para crianças e jovens e por mais uma única pessoa, parente ou afim em linha reta ascendente até ao 3.º grau, ou em linha colateral, maior até ao 3.º grau, adotante, tutor/a ou pessoa a quem a/o requerente esteja confiada/o por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito (inclui o agregado monoparental composto por titulares de abono de família para crianças e jovens e por mais uma única pessoa);
+
+c) «Dependente», a/o menor de idade e a pessoa que, não tendo mais de 25 anos ou tendo mais de 65 anos, aufira rendimentos iguais ou inferiores à pensão social do regime não contributivo, e que integre um agregado com um ou mais adultos não dependentes;
+
+d) «Habitação própria e permanente», o local onde o agregado familiar tem centrada a sua vida familiar, nomeadamente o local onde habitualmente e de forma continuada pernoita, faz as suas refeições, recebe a sua correspondência e onde detém o seu domicílio fiscal;
+
+e) «Deficiência ou incapacidade», a situação de pessoa com grau de incapacidade permanente igual ou superior a 60 %, devidamente comprovado com atestado médico de incapacidade multiúsos;
+
+f) «Carência financeira», a situação da pessoa ou do agregado habitacional, cujo rendimento médio mensal é inferior a quatro vezes o indexante dos apoios sociais (IAS);
+
+g) «Pessoa em situação de sem-abrigo», aquela que se encontre:
+
+i) Sem teto, vivendo no espaço público, alojada em abrigo de emergência ou com paradeiro em local precário; ou
+
+ii) Sem casa, encontrando-se em alojamento temporário destinado para o efeito;
+
+h) «Pessoas vulneráveis», aquelas que se encontram em situação de sem abrigo ou sem teto, vítimas de violência doméstica e as/os requerentes e beneficiárias/os de proteção internacional;
+
+i) «Condições indignas», situação em que uma pessoa ou agregado familiar não dispõe de uma habitação adequada, residindo de forma permanente, nomeadamente, em situação de:
+
+i) Precariedade, considerando-se como tais as situações de pessoas sem-abrigo, tal como definidas nos termos da alínea g), do presente artigo, bem como os casos de pessoas sem solução habitacional alternativa ao local que usam como residência permanente, quando têm de o desocupar por causa relacionada com a declaração de insolvência de elementos do agregado ou da/o proprietária/o do imóvel onde o agregado reside, com situações de violência doméstica, com operações urbanísticas de promoção municipal ou com a não renovação de contrato de arrendamento;
+
+ii) Insalubridade e insegurança, nos casos em que a pessoa ou o agregado vive em local, construído ou não, destituído de condições básicas de salubridade, segurança estrutural, estanquidade e higiene ou por ser uma edificação sem condições mínimas de habitabilidade;
+
+iii) Sobrelotação, quando, da relação entre a composição do agregado e o número de divisões habitáveis da habitação, esta não dispõe de um número de divisões suficiente, considerando-se suficiente um número correspondente a uma divisão comum e a uma divisão por cada casal, por cada adulto, por cada duas pessoas do mesmo sexo com idades entre os 12 e os 17 anos, por cada pessoa de sexo diferente com idades entre os 12 e os 17 anos e por cada duas pessoas com menos de 12 anos;
+
+iv) Inadequação, por incompatibilidade das condições da habitação com características específicas de pessoas que nele habitam, como nos casos de pessoas com incapacidade ou deficiência, em especial quando a habitação:
+
+a) Tem barreiras no acesso ao piso em que se situa; e ou
+
+b) As medidas dos vãos e áreas interiores impedem uma circulação e uma utilização ajustadas às características específicas das pessoas que nelas residem;
+
+j) «Fator de capitação», a percentagem resultante da ponderação da composição do agregado familiar, de acordo com a tabela constante do Anexo I ao presente regulamento que dele faz parte integrante;
+
+k) «Indexante dos apoios sociais» (IAS), o valor fixado nos termos da legislação em vigor;
+
+l) «Rendimento mensal líquido» (RML), o duodécimo do total dos rendimentos anuais líquidos auferidos por todos os membros do agregado familiar, sendo o rendimento anual líquido de cada membro obtido:
+
+i) Subtraindo ao rendimento global o valor da coleta líquida, nos termos do n.º 2, do presente artigo; caso os rendimentos se reportem a período inferior a um ano, considera -se a proporção correspondente ao número de meses em causa;
+
+ii) Sendo zero o valor da coleta líquida ou não tendo legalmente havido lugar à entrega de declaração de rendimentos nos termos do Código do Imposto sobre o Rendimento de Pessoas Singulares, calculando o total dos rendimentos anuais auferidos, considerados nos termos do artigo 3.º,
+
+do [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho, alterado pela [Lei n.º 15/2011](https://diariodarepublica.pt/dr/detalhe/lei/15-2011-287076), de 3 de maio, e pelos Decretos-Leis n.os [113/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2011-146061), de 29 de novembro, e [133/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), de 27 de junho;
+
+iii) caso os rendimentos se reportem a período inferior a um ano, considera-se a proporção correspondente ao número de meses em causa;
+
+m) «Rendimento médio mensal (RMM)», o duodécimo do respetivo rendimento anual bruto, corrigido de acordo com uma escala de equivalência que atribui uma ponderação de:
+
+i) 1,0 ao primeiro adulto não dependente e 0,7 a cada um dos restantes;
+
+ii) 0,25 a cada dependente ou 0,5 a cada dependente integrado em agregado unititulado;
+
+iii) 0,25 a cada pessoa com grau de incapacidade igual ou superior a 60 %, a acrescer à ponderação de dependente ou de adulto não dependente;
+
+iv) 0,25 ao adulto não dependente que viva sozinho e tenha idade igual ou superior a 65 anos a acrescer à ponderação de adulto não dependente;
+
+n) «Rendimento mensal corrigido» (RMC), o rendimento mensal líquido deduzido das quantias indicadas de seguida:
+
+i) 10 % do indexante dos apoios sociais pelo primeiro dependente;
+
+ii) 15 % do indexante dos apoios sociais pelo segundo dependente;
+
+iii) 20 % do indexante dos apoios sociais por cada dependente além do segundo;
+
+iv) 10 % do indexante dos apoios sociais por cada pessoa com deficiência, que acresce aos anteriores se também couber na definição de dependente;
+
+v) 10 % do indexante dos apoios sociais por cada elemento do agregado familiar com idade igual ou superior a 65 anos;
+
+vi) 20 % do indexante dos apoios sociais em caso de família monoparental;
+
+vii) A quantia resultante da aplicação do fator de capitação, constante do Anexo I do presente regulamento ao indexante dos apoios sociais;
+
+o) «Valor da renda em regime de arrendamento apoiado», é determinado pela aplicação de uma taxa de esforço ao rendimento mensal corrigido do agregado familiar, sendo a taxa de esforço (T) o valor, arredondado à milésima, que resulta da seguinte fórmula:
+
+T = 0,067 x (RMC/IAS)
+
+em que:
+
+T = Taxa de esforço;
+
+RMC = rendimento mensal corrigido do agregado familiar;
+
+IAS = indexante dos apoios sociais.
+
+p) «Taxa de esforço de arrendamento», corresponde à percentagem do RMM utilizada para pagamento de renda mensal de imóvel ou fração habitacional.
+
+2 - Para efeitos da alínea l), do número anterior, os valores do rendimento global e da coleta líquida, correspondem aos constantes da declaração de IRS e Nota de Liquidação, validada pela Autoridade Tributária e Aduaneira (AT) e respeitante ao ano anterior.
+
+### CAPÍTULO III — Atribuição de Habitações Municipais
+
+#### SECÇÃO I — Condições de Atribuição
+
+###### Artigo 8.º — Regime
+
+1 - As habitações municipais são atribuídas em regime de arrendamento apoiado, em conformidade com regime jurídico vigente, designadamente o previsto na [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor.
+
+2 - A atribuição das habitações municipais é feita pelo prazo estabelecido no respetivo contrato e na lei.
+
+3 - A atribuição de uma habitação em regime de arrendamento apoiado confere ao Município de Palmela, nos termos legais aplicáveis, o direito de aceder aos dados da/o arrendatária/o e dos membros do respetivo agregado familiar, para fins de informação ou de confirmação dos dados declarados, nos termos regulados no artigo 31.º, da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor, sem prejuízo do disposto no artigo 73.º, do presente regulamento, relativo ao tratamento de dados pessoais.
+
+4 - Ao acesso e à atribuição das habitações é aplicável o regime constante do presente regulamento e, subsidiariamente, o Código do Procedimento Administrativo.
+
+5 - O contrato de arrendamento apoiado rege-se pelo disposto na [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de
+
+dezembro, na sua redação em vigor e, subsidiariamente, pela lei civil e pelas disposições do presente regulamento.
+
+6 - Sem prejuízo do disposto no número anterior, o contrato de arrendamento apoiado tem a natureza de contrato administrativo, estando sujeito, no que seja aplicável, ao respetivo regime jurídico.
+
+###### Artigo 9.º — Procedimento de Atribuição
+
+1 - A atribuição de uma habitação do Município de Palmela, em regime de arrendamento apoiado, efetua-se mediante procedimento de concurso por inscrição, sem prejuízo da possibilidade de o Município poder adotar outro procedimento de concurso previsto na [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor.
+
+2 - O Município de Palmela pode, em qualquer momento, promover, de forma simultânea com o concurso de inscrição regulado na presente secção, qualquer outro tipo de concurso, designadamente, concurso por classificação ou por sorteio, identificando, em cada caso, as habitações disponíveis e concretamente concursadas.
+
+3 - Os procedimentos referidos no número anterior obedecerão a programas normativos específicos e serão divulgados nos termos legais.
+
+###### Artigo 10.º — Concurso por Inscrição
+
+1 - O concurso por inscrição tem por objeto a oferta continuada das habitações que são identificadas, em cada momento, pelo Município de Palmela, para atribuição em regime de arrendamento apoiado às/aos candidatas/os que, de entre as/os que se encontram no momento da seleção inscritas/os no registo para o efeito mantido pelo Município de Palmela, obtenham melhor classificação em função dos critérios de hierarquização e de ponderação estabelecidos para o efeito.
+
+2 - A atribuição do direito à habitação de arrendamento apoiado municipal efetiva-se na sequência da apreciação e classificação dos pedidos apresentados, de acordo com os critérios previstos no presente regulamento.
+
+###### Artigo 11.º — Critérios da Atribuição de Habitação
+
+1 - A atribuição das habitações em regime de arrendamento apoiado tem por base a tipologia e a caracterização das habitações municipais que, em cada momento, se encontrem disponíveis, e respeitará a lista de ordenação das candidaturas à data.
+
+2 - A lista de ordenação das candidaturas será, para cada decisão de atribuição, determinada pela pontuação obtida por cada uma das candidaturas qualificadas em resultado da aplicação dos critérios de hierarquização, agregados na matriz de ponderação, presente no Anexo II.
+
+3 - A matriz de ponderação referida no número anterior, representará, em cada momento, a política municipal de gestão do parque habitacional destinada ao arrendamento apoiado e densificará os critérios de hierarquização seguintes:
+
+a) O tipo e a gravidade da carência habitacional dos agregados familiares classificados;
+
+b) A composição, a caracterização e o escalão de rendimentos dos agregados familiares classificados;
+
+4 - A atribuição de uma habitação municipal financiada com apoio público, concedido ao abrigo do Programa 1.º Direito e do Plano de Recuperação e Resiliência - PRR (Aviso n.º 01/C02-i01/2021 - Programa de Apoio ao Acesso à Habitação do Plano de Recuperação e Resiliência), está condicionada à verificação cumulativa dos seguintes requisitos de elegibilidade, relativamente à pessoa ou ao agregado familiar que:
+
+a) Viva em condições indignas;
+
+b) Esteja em situação de carência financeira;
+
+c) Seja cidadã/o nacional ou, sendo estrangeira/o, tenha certificado de registo de cidadã/o comunitária/o ou título de residência válido no território nacional;
+
+d) Não apresente nenhuma das situações de impedimento ou exclusão identificadas no referido programa.
+
+###### Artigo 12.º — Requisitos de Acesso ao Arrendamento Apoiado
+
+1 - A atribuição de uma habitação em regime de arrendamento apoiado terá como pressuposto a carência financeira e habitacional das/os candidatas/os.
+
+2 - Constituem requisitos cumulativos de qualificação para atribuição de uma habitação em regime de arrendamento apoiado:
+
+a) Residir, comprovadamente, no concelho de Palmela há dois ou mais anos;
+
+b) Ser maior de 18 anos;
+
+c) Ter nacionalidade portuguesa ou qualquer outra nacionalidade, desde que com título de residência válido e permanente em território português;
+
+d) Estar recenseada/o no concelho por período igual ou superior a dois anos;
+
+e) O agregado familiar não apresentar condições financeiras para prover solução habitacional.
+
+3 - Cada agregado familiar só pode apresentar uma candidatura.
+
+4 - Cada pessoa só pode pertencer a um agregado familiar, exceto dependentes com guarda partilhada.
+
+5 - Os atos de atribuição das habitações em regime de arrendamento apoiado estão todos sujeitos à condição de manutenção, pelas/os arrendatárias/os, de um grau de carência financeira e habitacional que lhes inviabilize o recurso a uma solução própria, adequada e autónoma no mercado habitacional.
+
+6 - Cessando a condição de recurso referida no n.º 1 do presente artigo, pode o ato de atribuição ser a todo o tempo revogado, o que determinará a caducidade do contrato de arrendamento apoiado.
+
+###### Artigo 13.º — Impedimentos
+
+1 - Está impedido de tomar ou manter o arrendamento de uma habitação em regime de arrendamento apoiado, o agregado familiar que se encontre numa das seguintes situações:
+
+a) Qualquer dos elementos do agregado familiar seja proprietária/o, usufrutuária/o, arrendatária/o ou detentora/or de prédio urbano ou de fração autónoma de prédio urbano destinado a habitação, desde que o imóvel seja adequado a satisfazer o fim habitacional do agregado e não constitua residência permanente de terceiros com direitos legais ou contratuais sobre o mesmo;
+
+b) Qualquer dos elementos do agregado familiar esteja a usufruir de apoios financeiros públicos para fins habitacionais;
+
+c) Qualquer dos elementos do agregado familiar seja titular de uma habitação de arrendamento apoiado;
+
+d) Qualquer dos elementos do agregado familiar tenha sido titular de ocupação de fogo municipal e a sua ocupação da habitação tenha cessado, nomeadamente, por despejo administrativo ou sentença judicial transitada em julgado;
+
+e) Qualquer dos elementos do agregado familiar ter sido identificado como ocupante ilegal de uma fração habitacional municipal;
+
+f) Qualquer dos elementos do agregado familiar esteja inscrito para efeitos fiscais, de segurança social ou outros, com outro local de residência;
+
+g) Qualquer dos elementos do agregado familiar tenha beneficiado de uma indemnização em alternativa à atribuição de uma habitação no âmbito de programas de realojamento.
+
+2 - Fica, ainda, impedido de se candidatar e de aceder a uma habitação no regime de arrendamento apoiado, por um período de 4 anos:
+
+a) A/o candidata/o, arrendatária/o ou o elemento do agregado familiar da/o arrendatária/o que, para efeito de atribuição ou manutenção de uma habitação em regime de arrendamento apoiado, utilize meios fraudulentos, proceda à prestação culposa de declarações falsas ou à omissão dolosa de informação relevante;
+
+b) A/o arrendatária/o ou o elemento do agregado familiar da/o arrendatária/o que ceda a habitação a terceiros a qualquer título, total ou parcialmente, de forma gratuita ou onerosa;
+
+c) A pessoa que tenha ocupado ilicitamente ou tenha sido sujeita a despejo de uma habitação pertencente a qualquer das entidades referidas no n.º 1, do artigo 2.º, da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na redação em vigor;
+
+d) A/o candidata/o que recuse, sem fundamento validado pelos serviços municipais e por o/a eleito/a detentor/a do pelouro da habitação, a habitação que lhe foi atribuída de acordo com as formas de atribuição previstas ou que não proceda à ocupação da mesma nos termos previstos no presente regulamento;
+
+e) Sem prejuízo de outros fundamentos validados pelos serviços municipais, a recusa da habitação atribuída pode ser excecionalmente admitida por motivos de saúde ou motivos profissionais, devidamente comprovados.
+
+3 - No caso previsto na alínea a), do n.º 1, quando for invocado e comprovado que o prédio ou fração não está em condições de satisfazer o fim habitacional ou que o direito relativo ao mesmo é detido ou foi adquirido apenas em parte por membros do agregado familiar, cabe ao Município de Palmela avaliar a situação e decidir sobre o acesso deste agregado à atribuição de habitação.
+
+4 - Reincidência nas situações previstas n.º 2 do presente artigo, inibe o agregado familiar candidato de aceder a uma habitação no regime de arrendamento apoiado, por um prazo de 8 anos a contar do conhecimento dos factos.
+
+5 - O disposto nos números anteriores não prejudica os direitos que, em função da situação, o Município de Palmela detenha, nem o procedimento criminal que seja aplicável ao caso nos termos legais.
+
+6 - A decisão de exclusão da candidatura por verificação, inicial ou superveniente, de um impedimento será notificada ao representante do agregado familiar candidato, acompanhado da respetiva fundamentação, sem prejuízo do direito de audiência prévia previsto no Código de Procedimento Administrativo.
+
+###### Artigo 14.º — Habitação Adequada
+
+1 - A habitação a atribuir deve ser de tipologia adequada à composição do agregado familiar, por forma a evitar situações de sobreocupação e subocupação.
+
+2 - Para efeitos do disposto no número anterior, considera-se habitação de tipologia adequada às necessidades do agregado familiar, aquela que, em relação à composição do agregado, se posicione entre o n.º máximo e o n.º mínimo de pessoas previsto, de modo a que não se verifique situação de sobreocupação ou subocupação, sendo esta verificada pela relação entre a tipologia e a composição do agregado familiar, de acordo com a tabela constante do Anexo III.
+
+3 - A habitação a atribuir deve ainda adequar-se a pessoas com mobilidade reduzida, garantindo a respetiva acessibilidade.
+
+4 - Poderá ainda ser atribuído fogo que não se enquadre nos critérios referidos nomeadamente nos seguintes casos:
+
+a) As atribuições referidas no artigo 25.º do presente regulamento;
+
+b) Em casos especiais de mobilidade, saúde ou características específicas do agregado, devidamente justificadas.
+
+###### Artigo 15.º — Formalização da Candidatura a Atribuição de Habitação
+
+1 - A candidatura para atribuição de habitação de arrendamento apoiado é feita através dos serviços on-line do município, e concretiza-se com o preenchimento de formulário próprio e submissão dos elementos e documentos, indicados no n.º 2.
+
+2 - Para conferência da informação necessária à avaliação e validação da candidatura, o formulário de inscrição deve ser acompanhado dos seguintes documentos:
+
+a) Documentos de identificação civil e fiscal de todos os elementos do agregado familiar (Bilhete de Identidade ou Cartão de Cidadão/Cédula de Nascimento/Assento de Nascimento/Cartão de Contribuinte, documento de autorização de residência ou documento equivalente que habilite as/os candidatas/os a permanecer de forma legal em território nacional, caso se aplique), sendo que a junção de reprodução do cartão de cidadão ou do bilhete de identidade não é obrigatória, podendo, em alternativa, a identidade das/dos respetivas/os titulares ser objeto de conferência pelos Serviços mediante exibição presencial dos respetivos documentos;
+
+b) Número de Identificação da Segurança Social de todos os elementos do agregado familiar;
+
+c) Certidão de eleitora/or a emitir pela Junta de Freguesia dos elementos do agregado familiar, quando aplicável;
+
+d) Declaração da Autoridade Tributária e Aduaneira, ou do Instituto da Segurança Social, comprovativa da composição do agregado familiar e respetiva morada;
+
+e) Comprovativo de todos os rendimentos dos elementos do agregado familiar maiores de 18 anos (nota de liquidação do IRS, recibos de vencimento e extrato de remunerações emitido pela Segurança Social, comprovativo do rendimento proveniente de pensões, prestação de rendimento social de inserção, subsídio de desemprego, ou outro aplicável);
+
+f) Documento comprovativo, quando aplicável, atestado pelo Instituto de Segurança Social, em como não aufere nenhum tipo de rendimento ou de prestação social (exceto abono de família);
+
+g) Declaração da Autoridade Tributária e Aduaneira, onde conste a (in)existência de bens imóveis em nome da/o requerente e dos demais elementos do agregado familiar;
+
+h) Quando aplicável, comprovativo do contrato de arrendamento e o último recibo de pagamento da renda;
+
+i) Quando aplicável, comprovativo da não renovação do contrato de arrendamento;
+
+j) Quando aplicável, no caso de menores, comprovativo da regulação do exercício das responsabilidades parentais;
+
+k) Em caso de elementos do agregado familiar que possuam deficiência com grau de incapacidade igual ou superior a 60 %, ou eventuais problemas de saúde crónicos que confiram incapacidade, deve ser apresentado Atestado de Incapacidade Multiúsos, ou declaração médica, que comprove essa situação;
+
+l) Comprovativo da situação escolar e/ou profissional dos elementos dependentes com idade inferior a 26 anos;
+
+m) Estatuto de vítima de violência doméstica ou relatório de entidade competente e indicação da necessidade de afastamento do/a agressor/a, caso se aplique, sendo que:
+
+i) Os estatutos com mais de dois anos devem ser acompanhados de confirmação do tribunal em como o processo ainda está ativo;
+
+ii) Caso o mesmo tenha sido arquivado, deve ser apresentado o pedido e deferimento do prolongamento do prazo do estatuto.
+
+3 - É admitida, de forma permanente, a apresentação da candidatura referida no n.º 1, sem prejuízo do disposto no artigo 21.º
+
+###### Artigo 16.º — Apreciação Liminar
+
+1 - Após receção do pedido de atribuição de habitação de arrendamento apoiado, o mesmo será objeto de uma apreciação liminar, a realizar pelos serviços municipais de habitação.
+
+2 - Sempre que os pedidos não tenham sido instruídos nos termos e com os elementos fixados pelo presente regulamento, a/o requerente será notificada/o para vir completar e/ou aperfeiçoar o pedido, apresentando os elementos em falta ou suprindo as formalidades preteridas, em dez dias úteis.
+
+3 - No caso de a/o requerente, após ter sido notificada/o nos termos do número anterior, não ter procedido ao aperfeiçoamento do pedido, este será objeto de indeferimento liminar, por decisão a proferir por o/a eleito/a detentor/a do Pelouro da Habitação.
+
+4 - A decisão de indeferimento liminar do pedido e respetivos fundamentos são notificados à/ao requerente.
+
+###### Artigo 17.º — Apreciação e Seleção das Candidaturas
+
+As candidaturas admitidas são objeto de análise técnica de acordo com os critérios de seleção resultantes da aplicação da matriz de ponderação constante no Anexo II do presente regulamento, que dele faz parte integrante, tendo em conta os critérios de prioridade estabelecidos.
+
+###### Artigo 18.º — Prova das Declarações
+
+1 - Com vista à apreciação dos pedidos devidamente instruídos, o Município de Palmela pode, a todo o tempo, requerer que sejam prestadas informações adicionais, bem como mais documentos de suporte, relatórios técnicos ou requerer diligências de prova úteis para o esclarecimento dos factos com interesse para a decisão, notificando a/o requerente para proceder à respetiva entrega no prazo máximo de 10 dias úteis, sob pena de arquivamento do processo.
+
+2 - O arquivamento referido no número anterior poderá não se aplicar, quando estejam em causa, prazos de resposta de entidades terceiras que excedam 10 dias, devendo tais situações ser devidamente comprovadas.
+
+3 - Os dados constantes do formulário de inscrição podem, a todo o tempo, ser confirmados pelos serviços municipais junto de qualquer entidade pública ou privada, designadamente as que acompanham ou tenham acompanhado a família.
+
+4 - Quando os serviços entenderem ser pertinente para a análise do pedido, será agendado atendimento para recolha de informação em falta e/ou visita domiciliária para análise da situação habitacional.
+
+###### Artigo 19.º — Critério de Desempate das Candidaturas
+
+Caso exista mais de uma candidatura com a mesma pontuação e não existam habitações em número suficiente para atribuição, a decisão de atribuição terá em conta os seguintes critérios de prioridade, a observar pela seguinte ordem:
+
+a) Agregado com rendimento per capita inferior;
+
+b) Falta de condições de segurança e salubridade da habitação;
+
+c) O agregado que inclua elemento com estatuto de vítima de violência doméstica;
+
+d) Número de elementos portadores de deficiência ou incapacidade no agregado familiar;
+
+e) Agregado constituído exclusivamente por elementos com idade igual ou superior a 65 anos;
+
+f) Famílias unitituladas com maior número de filhas/os menores de idade ou dependentes;
+
+g) Famílias com maior número de filhas/os menores de idade ou dependentes;
+
+h) Antigas/os combatentes e as/os viúvas/os das/os antigas/os combatentes, em situação de sem-abrigo, detentoras/es dos cartões referidos nos artigos 4.º e 7.º, do Estatuto do Antigo Combatente, conforme o disposto no artigo 15.º, da [Lei n.º 46/2020](https://diariodarepublica.pt/dr/detalhe/lei/46-2020-140631237), de 20 de agosto;
+
+i) Agregados que integrem membros dos Bombeiros Voluntários do Concelho de Palmela, de acordo com o disposto no artigo 4.º, do Regulamento de Concessão de Benefícios aos Bombeiros Voluntários do Concelho de Palmela, publicado pelo [Aviso n.º 10596/2020](https://diariodarepublica.pt/dr/detalhe/aviso/10596-2020-138056617), de 16 de julho.
+
+###### Artigo 20.º — Indeferimento das Candidaturas
+
+1 - As candidaturas são indeferidas nos seguintes casos:
+
+a) O não preenchimento das condições de acesso fixadas na lei e no presente regulamento;
+
+b) O pedido estar suportado em falsas ou erróneas declarações, prestadas com o intuito de, com base nas mesmas, ver concedido o direito a uma habitação de arrendamento apoiado;
+
+c) A/o arrendatária/o ou algum dos elementos do agregado familiar ter sido sancionada/o por algumas das situações de irregularidade previstas na lei e no presente regulamento.
+
+2 - A decisão de indeferimento do pedido e respetivos fundamentos serão notificados à/ao requerente, acompanhada da respetiva fundamentação, sem prejuízo do direito de audiência prévia nos termos da lei.
+
+###### Artigo 21.º — Lista de Candidaturas
+
+1 - O Município de Palmela, através dos seus serviços, organiza uma lista dinâmica de candidatas/os às habitações municipais, que será atualizada com uma periodicidade mínima semestral, em função das candidaturas que forem sendo apresentadas e validadas, contendo a respetiva posição, número de candidatura, data de validação e pontuação.
+
+2 - A lista referida no número anterior é composta pelas candidaturas, respetiva ordenação por ordem decrescente, conforme aplicação da matriz de ponderação (Anexo II), e a indicação das tipologias adequadas a cada agregado familiar (Anexo III), nos termos do presente regulamento.
+
+3 - A informação atualizada das candidaturas ordenadas para atribuição de habitação de arrendamento apoiado será publicitada no sítio institucional do Município de Palmela, através da sua página da internet e nos locais de atendimento presencial, sendo atualizada em função de novas candidaturas validadas e da respetiva pontuação, e alteração de pontuação de cada candidatura, caso ocorra.
+
+###### Artigo 22.º — Gestão da Lista
+
+1 - As/os requerentes e agregados familiares, admitidas/os e inscritas/os são notificadas/os por escrito da respetiva situação.
+
+2 - Sempre que se justifique, as candidaturas são reanalisadas pelos serviços de habitação da Câmara Municipal, podendo haver lugar a apresentação de documentação complementar para a instrução ou atualização dos respetivos processos de candidatura.
+
+3 - As candidaturas já admitidas podem, a todo o tempo, ser objeto de exclusão e cancelamento da inscrição, caso venha a verificar-se a existência de algum dos impedimentos previstos no presente regulamento, bem como a prestação de falsas declarações, a omissão dolosa de informação ou a utilização de meio fraudulento por parte das/os candidatas/os, no âmbito ou para efeito dos procedimentos de atribuição de uma habitação, sem prejuízo de outras sanções legalmente aplicáveis.
+
+4 - A decisão de não admissão ou de exclusão de candidatura ou do cancelamento da inscrição é notificada às/aos candidatas/os acompanhada da respetiva fundamentação, sem prejuízo do direito de audiência prévia, nos termos da lei.
+
+###### Artigo 23.º — Validade das Candidaturas
+
+1 - As candidaturas admitidas e respetiva classificação são válidas por um período de 2 anos, a contar da data de apresentação do pedido.
+
+2 - Verificando-se alterações à candidatura apresentada, nomeadamente por alteração de residência, composição do agregado familiar, valor dos rendimentos, entre outros, deve a/o candidata/o informar a Câmara Municipal de Palmela dos dados atualizados, através do preenchimento de formulário disponibilizado para o efeito.
+
+3 - Decorrido o prazo de dois anos da integração em lista, e caso se mantenham as circunstâncias e condições que justificaram a candidatura, o prazo de validade poderá ser renovado, por igual período.
+
+4 - Para efeitos do disposto no número anterior, a/o representante do agregado familiar deve formalizar a renovação do pedido e atualizar os dados constantes do processo, através do preenchimento de formulário disponibilizado para o efeito.
+
+###### Artigo 24.º — Desistência
+
+Considera-se que desistiram do pedido de atribuição as/os candidatas/os que:
+
+a) Não se pronunciem dentro de prazo facultado;
+
+b) Não apresentem os esclarecimentos e/ou a documentação complementar solicitada;
+
+c) Não compareçam, quando convocadas/os para atendimento nos serviços municipais, para prestar esclarecimentos, ou no ato de atribuição da habitação, salvo impedimento devidamente justificado;
+
+d) Não apresentem pedido de renovação de inscrição para atribuição de habitação, até ao final do prazo de validade indicado no n.º 3 do artigo anterior;
+
+e) Manifestem expressamente o seu desinteresse na habitação a atribuir.
+
+###### Artigo 25.º — Regime de Exceção
+
+1 - O regime de atribuição previsto no presente capítulo pode ser afastado nas situações enquadráveis no artigo 14.º, da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de setembro, na sua atual redação.
+
+2 - Nos casos previstos no número anterior, as condições de adequação e de utilização das habitações são definidas pela Câmara Municipal, em função da situação de necessidade habitacional que determina a respetiva atribuição, cabendo também a este órgão a decisão de atribuição.
+
+#### SECÇÃO II — Formalização da Atribuição e Contrato de Arrendamento Apoiado
+
+###### Artigo 26.º — Atribuição de Habitação
+
+1 - A atribuição das habitações municipais do Município de Palmela é feita com base em proposta técnica dos serviços, em conformidade com as regras definidas no presente regulamento.
+
+2 - A fase de atribuição da habitação concretiza-se na emissão e notificação do ato de atribuição de uma habitação concreta a um/a candidato/a determinado/a.
+
+3 - A atribuição das habitações em regime de arrendamento apoiado tomará por base a tipologia e a caracterização dos fogos habitacionais que, em cada momento, se encontrem disponíveis, e respeitará a lista de ordenação das candidaturas à data.
+
+###### Artigo 27.º — Notificação da Atribuição da Habitação
+
+1 - A decisão de atribuição de uma habitação em regime de arrendamento apoiado será notificada à/ao representante do agregado familiar, dela constando:
+
+a) A identificação da/o representante do agregado familiar, que assumirá a titularidade do arrendamento apoiado, bem como de todos os elementos que compõem o agregado familiar inscrito;
+
+b) A identificação do fogo habitacional, com a indicação da sua tipologia e morada;
+
+c) O estado de conservação do fogo habitacional;
+
+d) O montante da renda devida pelo agregado familiar, calculada de acordo com a documentação entregue para efeitos de candidatura;
+
+e) Informação circunstanciada e detalhada relativa aos direitos e obrigações inerentes à relação de arrendamento em regime de arrendamento apoiado a constituir;
+
+f) A formalização e entrega das chaves do fogo habitacional atribuído;
+
+g) A data para a assinatura do contrato de arrendamento apoiado.
+
+2 - A atribuição de habitação em regime de arrendamento apoiado, e a sua aceitação pelo agregado familiar, concretiza-se mediante a outorga do contrato de arrendamento entre o Município de Palmela e a/o representante desse agregado.
+
+3 - Os contratos de arrendamento das habitações municipais ficam sujeitos às normas e condições resultantes da lei e do presente regulamento.
+
+###### Artigo 28.º — Celebração do Contrato de Arrendamento Apoiado
+
+1 - O contrato de arrendamento apoiado será celebrado por escrito e assinado pela/o arrendatária/o e pelo/a eleito/a detentor/a do Pelouro da Habitação.
+
+2 - Todos os membros do agregado familiar inscrito serão cotitulares dos direitos e das obrigações decorrentes da ocupação da habitação atribuída.
+
+3 - As modificações ao contrato de arrendamento apoiado serão formalizadas por escrito, mediante averbamento ou aditamento.
+
+4 - Com a celebração do contrato de arrendamento apoiado fica prestado o necessário consentimento para que o Município de Palmela consulte os documentos administrativos junto de autoridades administrativas e outras pessoas coletivas públicas, para efeitos de revisão da renda apoiada.
+
+###### Artigo 29.º — Caducidade da Decisão de Atribuição
+
+A recusa infundada pela/o arrendatária/o em celebrar o contrato de arrendamento apoiado ou em ocupar a habitação de forma efetiva e permanente, determinará a caducidade automática da decisão de atribuição ou a resolução do contrato, se este tiver já sido outorgado, com as consequências previstas na alínea d), do n.º 2, do artigo 13.º, do presente regulamento.
+
+###### Artigo 30.º — Duração do Arrendamento
+
+1 - Os contratos de arrendamento apoiado são celebrados pelo prazo de dez anos considerando-se reduzido a este limite quando for estipulado um período superior.
+
+2 - Findo o prazo do arrendamento, o contrato renova-se automaticamente por um único período de dez anos.
+
+3 - Findos os dois períodos de arrendamento previstos na lei, o contrato renova-se por período sucessivo de um ano.
+
+4 - As situações de transferência do agregado familiar para outro fogo não implicam renovação do prazo em curso, mesmo quando haja lugar à celebração de novo contrato por alteração das circunstâncias.
+
+### CAPÍTULO IV — Titularidade das Habitações Municipais
+
+#### SECÇÃO I — Do Arrendamento
+
+###### Artigo 31.º — Titularidade
+
+1 - O direito de utilização e ocupação das habitações municipais pertence às/aos representantes de cada agregado familiar, subscritoras/es do respetivo contrato de arrendamento, a quem será entregue a titularidade da ocupação do fogo.
+
+2 - As/os titulares do arrendamento são inteiramente responsáveis pela utilização do fogo por si e pelo seu agregado, cabendo-lhes, igualmente, o dever de fazer cumprir, por todos os elementos residentes, as normas legais e regulamentares aplicáveis à utilização da habitação e espaços comuns, nomeadamente as constantes do presente regulamento.
+
+###### Artigo 32.º — Destino das Habitações
+
+1 - Os fogos de habitação em regime de arrendamento apoiado, destinam-se, exclusivamente, à habitação permanente dos membros do agregado familiar autorizados, não podendo ser-lhes dado outro fim.
+
+2 - Nas habitações é expressamente interdito o exercício de qualquer atividade ou ocupação diversa, nomeadamente, profissional, comercial ou industrial por qualquer um dos elementos do agregado familiar, sem que seja previamente autorizada por escrito pelo Município de Palmela.
+
+3 - A autorização prevista no número anterior só poderá ser concedida quando a atividade que se pretende exercer não comprometa o fim primordial da utilização do fogo, previsto no n.º 1 do presente artigo, e não represente prejuízo para a segurança e salubridade do imóvel ou para a tranquilidade e comodidade das/os vizinhas/os.
+
+4 - O Município de Palmela pode, a todo o tempo, revogar qualquer autorização que tenha sido concedida neste âmbito, caso o exercício da atividade admitida se revele passível de constituir prejuízo efetivo nos termos do disposto no número anterior.
+
+###### Artigo 33.º — Ocupação Efetiva
+
+1 - O agregado familiar deve ocupar a habitação que lhe seja atribuída no prazo máximo de trinta dias após a entrega das respetivas chaves.
+
+2 - Apenas a/o arrendatária/o e os membros do agregado familiar autorizados, poderão residir na habitação arrendada.
+
+3 - A não ocupação efetiva do fogo habitacional no prazo previsto no n.º 1 supra, sem motivo atendível, determinará a caducidade imediata da atribuição e a automática exclusão do agregado da lista de candidaturas, com as demais consequências previstas no presente regulamento, ficando o Município de Palmela investido no poder de tomar posse administrativa do mesmo, se necessário.
+
+###### Artigo 34.º — Residência Permanente
+
+1 - As/os titulares do arrendamento e o respetivo agregado familiar devem manter residência permanente na habitação que lhes estiver atribuída.
+
+2 - Entende-se por residência permanente aquela onde está instalado o agregado familiar, onde este faz a sua vida normal e onde está organizada e centralizada a sua vida e economia doméstica de forma estável e duradoura.
+
+3 - Considera-se que o agregado familiar não mantém residência permanente e efetiva no fogo, nem utiliza a habitação em permanência, quando a habitação se mostre desabitada, existindo indícios de que o agregado tem a sua vida familiar e economia doméstica, em simultâneo ou em exclusivo, organizada em qualquer outro local, designadamente quando, de forma sistemática, não pernoite na habitação, nem dela faça uso continuado.
+
+4 - Para efeitos do previsto no número anterior, constituem indícios de não residência permanente e efetiva no fogo, as condições expressas no n.º 2 do Artigo 26.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853) de 19 de dezembro, na sua redação vigente, ou em novas determinações legais que lhe sucedam.
+
+5 - Quando existirem indícios ou elementos devidamente documentados que evidenciem de forma razoável que o agregado não mantém residência permanente e efetiva no fogo, é iniciado procedimento administrativo adequado ao despejo do mesmo.
+
+###### Artigo 35.º — Condições Gerais de Manutenção do Direito à Ocupação nas Habitações
+
+1 - Sem prejuízo do disposto no artigo 13.º, do presente regulamento, a manutenção do direito à ocupação do fogo encontra-se sempre condicionada ao preenchimento das condições de acesso à habitação que determinaram a atribuição do fogo, fixadas na lei e no presente regulamento, no período de duração do contrato.
+
+2 - A alteração dos pressupostos e condições de ocupação das habitações municipais, nos termos do previsto no artigo 13.º, e no número anterior, confere ao Município de Palmela o direito de determinar a cessação do arrendamento apoiado e respetivo direito de ocupação do fogo.
+
+3 - A/o titular da ocupação do fogo deve comunicar ao Município de Palmela, no prazo máximo de trinta dias a contar da data da respetiva ocorrência, a existência de qualquer situação de impedimento de tomar ou manter uma habitação em regime de arrendamento apoiado, relativamente a si própria/o ou a qualquer membro do seu agregado familiar.
+
+###### Artigo 36.º — Permanência na Habitação
+
+1 - É proibida qualquer forma de cedência, total ou parcial, temporária ou permanente, onerosa ou gratuita, do gozo da habitação por parte da/o arrendatária/o ou de qualquer membro do agregado familiar, nomeadamente a cessão da posição contratual, o subarrendamento, a hospedagem ou o comodato.
+
+2 - É expressamente proibida a permanência na habitação, por período superior a um mês, de pessoa que não pertença ao agregado familiar autorizado e não tenha sido autorizada, pelos serviços municipais, a ali coabitar.
+
+3 - O Município de Palmela pode, mediante requerimento fundamentado apresentado pela/o arrendatária/o, autorizar a permanência na habitação, por período determinado, a título transitório e sem qualquer direito de inscrição, de pessoa não integrada no agregado familiar autorizado.
+
+4 - A autorização referida no número anterior será concedida por um período de até 6 meses, com possibilidade de renovação por mais 5 meses, num total de 11 meses consecutivos, mediante requerimento fundamentado a apresentar pela/o arrendatária/o.
+
+5 - A autorização referida nos números anteriores caduca no termo do prazo para que tiver sido concedida ou de eventual renovação, podendo ser revogada a todo o tempo caso se verifique incumprimento, pela/o autorizada/o, das obrigações impostas às/aos arrendatárias/os municipais no regime do arrendamento apoiado e no presente regulamento.
+
+#### SECÇÃO II — Das Rendas
+
+###### Artigo 37.º — Renda Apoiada
+
+1 - A renda corresponde a uma prestação pecuniária mensal, calculada em conformidade com a [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação atual, e com o disposto no presente regulamento.
+
+2 - O valor da renda em regime de arrendamento apoiado é determinado pela aplicação de uma taxa de esforço ao rendimento do agregado familiar, por consideração da fórmula legalmente prevista.
+
+3 - Para determinação da renda apoiada as/os arrendatárias/os deverão manter atualizada, junto do Município de Palmela, a informação relativa à composição do agregado familiar e dos respetivos rendimentos, sendo a revisão da renda efetuada nos termos do disposto no artigo 40.º
+
+4 - O valor da renda apoiada não pode exceder o valor da renda máxima aplicável aos contratos de arrendamento para fim habitacional em regime de renda condicionada.
+
+5 - Em caso de ausência total de rendimentos, aplica-se o valor da renda mínima, devendo a situação ser encaminhada para as entidades de assistência e ação social competentes.
+
+###### Artigo 38.º — Renda Mínima
+
+A renda mínima em Regime de Arrendamento Apoiado corresponde a 2 % do indexante dos apoios sociais (IAS) vigente.
+
+###### Artigo 39.º — Atualização Anual da Renda
+
+1 - As rendas apoiadas são objeto de atualização anual segundo o regime consagrado na lei, e de acordo com os coeficientes de atualização aplicáveis.
+
+2 - A primeira atualização pode ser exigida um ano após o início da vigência da atribuição do fogo e as seguintes, sucessivamente, um ano após a atualização anterior.
+
+###### Artigo 40.º — Revisão da Renda Apoiada
+
+1 - A renda apoiada pode, a todo o tempo e no quadro do regime do presente regulamento, ser revista por iniciativa do Município de Palmela ou a requerimento da/o arrendatária/o, sempre que se verifique, designadamente, uma alteração na composição ou nos rendimentos do agregado familiar.
+
+2 - A revisão da renda a pedido da/do arrendatária/o depende da apresentação, por esta/e, de requerimento de revisão de renda devidamente instruído com os documentos que fundamentam e justificam a pretensão, no prazo máximo de trinta dias a contar da data da ocorrência.
+
+3 - Para efeitos do disposto no n.º 1, o Município de Palmela pode, a todo o tempo, solicitar quaisquer documentos e esclarecimentos necessários para a instrução ou atualização de informação determinante para a revisão da renda ou para aferir a regularidade da ocupação da habitação, fixando, para o efeito, um prazo não inferior a trinta dias.
+
+4 - Sem prejuízo do disposto nos números anteriores, a reavaliação, pelo Município de Palmela, das circunstâncias que determinam o valor da renda, realiza-se, no mínimo, a cada 3 anos, podendo, o/a eleito/a detentor/a do Pelouro da Habitação, determinar periodicidade diferente.
+
+5 - A renda atualizada ou revista é devida no segundo mês subsequente ao da data da receção, pela/o arrendatária/o, da comunicação do Município de Palmela com indicação do respetivo valor, podendo ser atualizada no primeiro mês subsequente caso a diferença seja favorável à/ao arrendatária/o.
+
+6 - A prestação de falsas declarações implica as consequências previstas no presente regulamento, bem como as demais decorrentes da lei em geral, nomeadamente para efeitos de responsabilidade criminal da/o declarante.
+
+###### Artigo 41.º — Aplicação da Renda Máxima
+
+1 - Sem prejuízo de outras consequências legal ou contratualmente previstas, o Município de Palmela aplicará a renda máxima prevista no n.º 2, do artigo 22.º, da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 29 de dezembro, na sua redação vigente, quando a/o arrendatária/o não apresente os elementos solicitados ao abrigo do n.º 3, do artigo anterior, ou os apresente de forma insuficiente e incompleta, depois de ter sido notificada/o, por escrito, para corrigir ou completar a informação prestada.
+
+2 - A aplicação da renda máxima com fundamento nas circunstâncias previstas no número anterior, manter-se-á até à revisão da renda que resulte da apresentação completa dos elementos exigidos.
+
+3 - A aplicação da renda máxima pode resultar, ainda, como consequência do incumprimento de obrigações impostas às/aos arrendatárias/os municipais.
+
+4 - A decisão de aplicação da renda máxima, bem como a respetiva fundamentação, será notificada por escrito no termo do prazo fixado no n.º 3, do artigo anterior.
+
+###### Artigo 42.º — Vencimento e Pagamento da Renda
+
+1 - A primeira renda vence-se no primeiro dia útil do mês a que respeita, vencendo-se cada uma das restantes no primeiro dia útil de cada mês subsequente, no lugar e pela forma estabelecidos no contrato.
+
+2 - Decorrido o prazo previsto no número anterior sem que a renda tenha sido paga, e a partir do dia imediatamente seguinte, pode ser exigida a indemnização prevista no n.º 1, do artigo 1041.º,
+
+do Código Civil.
+
+###### Artigo 43.º — Incumprimento do Dever de Pagamento da Renda
+
+1 - Existindo incumprimento do dever de pagamento da renda, o Município de Palmela reserva-se o direito de fazer operar a resolução do arrendamento, nos termos previstos na lei, no presente regulamento e no respetivo contrato.
+
+2 - Sem prejuízo do direito à resolução do contrato, o/a eleito/a detentor/a do Pelouro da Habitação, pode autorizar um acordo de liquidação de dívida, mediante acordo escrito, até 24 prestações mensais, suscetível de prorrogação até ao limite de 36 prestações mensais, quando devidamente justificável.
+
+3 - Este acordo deve indicar obrigatoriamente quais as rendas que se encontram vencidas e não pagas e que serão sujeitas a pagamento faseado.
+
+4 - Pode ser admitida a negociação de um segundo acordo de liquidação de dívida, a título excecional e quando devidamente justificado e fundamentado.
+
+5 - O incumprimento de uma das prestações do acordo implica o direito à reclamação da totalidade da dívida e a passagem a um procedimento de despejo administrativo.
+
+6 - As/os titulares do arrendamento podem, ainda, nos termos legais, obstar à resolução do mesmo pelo Município de Palmela, devendo para tal realizar, de forma integral e numa única prestação, o pagamento da totalidade da divida em atraso.
+
+#### SECÇÃO III — Alteração do Agregado Familiar e Transmissão
+
+###### Artigo 44.º — Alteração do Agregado Familiar
+
+1 - Qualquer alteração na composição do agregado familiar autorizado terá de ser previamente autorizada pelo/a eleito/a detentor/a do Pelouro da Habitação, salvo as modificações a seguir indicadas que, em todo o caso, terão obrigatoriamente de ser comunicadas, por escrito, para atualização:
+
+a) Nascimento de descendentes da/o arrendatária/o ou de membro do agregado familiar autorizado;
+
+b) Falecimento ou abandono do lar de qualquer membro do agregado familiar, salvo da/o arrendatária/o;
+
+c) Integração, no agregado familiar, de pessoas relativamente às quais exista obrigação legal de convivência ou de alimentos devidamente comprovada;
+
+d) Casamento ou concretização jurídica da situação de união de facto relativa à/ao arrendatária/o.
+
+2 - A comunicação a que alude o número anterior deve ser acompanhada dos documentos justificativos da relação de parentesco ou das obrigações invocadas.
+
+3 - As pretensões de integração no agregado familiar de pessoas não autorizadas, serão apreciadas pelo Município de Palmela e autorizadas quando se mostrem justificadas em motivo relevante e atendível, designadamente no caso de:
+
+a) Carência económica e habitacional superveniente da pessoa a autorizar;
+
+b) Necessidade comprovada de suporte assistencial da/o arrendatária/o ou outro elemento do agregado familiar.
+
+4 - A verificação de alguma das situações enunciadas no n.º 1 do presente artigo poderá determinar, por iniciativa do Município de Palmela ou a requerimento das/os interessadas/os, e em caso de disponibilidade no parque habitacional, a atribuição de uma outra habitação, adequada à composição e caracterização do agregado.
+
+5 - Sempre que se constitua um novo núcleo familiar, considera-se ter existido uma autonomização desses elementos, pelo que os mesmos devem prover por uma alternativa habitacional própria e deixar de utilizar o fogo.
+
+6 - Nas situações de separação ou divórcio, não existindo acordo entre as partes, o casal deverá recorrer às instâncias legais e judiciais adequadas para definição do direito à utilização da casa de morada da família, sendo o respetivo título de ocupação aditado em conformidade, não havendo lugar a atribuição de novo fogo por esse facto.
+
+7 - Nas situações de cotitularidade, em caso de morte ou separação, a titularidade do arrendamento concentra-se num/a dos/as cotitulares que permanece na habitação, assumindo esta/e todas as responsabilidades inerentes à ocupação do fogo, bem como as respeitantes ao agregado familiar.
+
+8 - Nos casos previstos nos números anteriores, se a/o cotitular não pretender permanecer na habitação deve comunicar, por escrito, o facto à Câmara Municipal de Palmela, e proceder à entrega das chaves nos serviços municipais de gestão do parque habitacional, sem prejuízo da sua responsabilidade por qualquer dívida ao Município de Palmela vencida à data e relacionada com a utilização do fogo.
+
+9 - Todos os pedidos de integração ou indicação de saída de elementos em situação de coabitação, devem obrigatoriamente ser comunicados por escrito ao Município.
+
+###### Artigo 45.º — Comunicabilidade e Transmissão Mortis Causa
+
+1 - Em caso de morte, a posição de arrendatária/o transmite-se para elemento autorizado do agregado familiar, nos casos previstos na lei, aplicando-se com as devidas adaptações o disposto no n.º 6, do artigo 46.º
+
+2 - Constitui obrigação da/o pretendente à posição de arrendatária/o comunicar ao Município o óbito, por escrito, juntando a respetiva certidão, no prazo máximo de três meses.
+
+###### Artigo 46.º — Comunicabilidade e Transmissão Inter Vivos
+
+1 - A transmissão inter vivos da titularidade da habitação só é admitida nas seguintes situações:
+
+a) Divórcio, separação judicial de pessoas e bens e cessação de união de facto;
+
+b) Ausência definitiva ou superior a um ano da/o arrendatária/o, ou incapacidade que, fundamentada e comprovadamente o impossibilite de continuar a exercer os direitos e deveres inerentes à titularidade do arrendamento;
+
+c) Outras situações invocadas e devidamente fundamentadas, autorizadas pelos serviços competentes.
+
+2 - Nas situações de transmissão por divórcio ou de separação judicial de pessoas e bens, o destino do fogo, enquanto casa de morada de família, é decidido por acordo dos cônjuges ou por determinação judicial, podendo estes, no primeiro caso, optar pela transmissão ou pela concentração a favor de um deles.
+
+3 - O disposto no número anterior é aplicável com as devidas adaptações às/aos titulares da ocupação do fogo que se encontrem em situação de união de facto, nos termos do previsto na lei, em caso da cessação da respetiva união de facto.
+
+4 - Na falta de acordo, e em ambos os casos previstos nos números anteriores, cabe ao tribunal decidir, a requerimento das/os interessadas/os.
+
+5 - O Município de Palmela deve aguardar a notificação oficiosa da decisão de transmissão ou de concentração acordadas e homologadas pelo/a juíz/a ou pelo/a conservador/a do registo civil, ou a decisão judicial a elas relativa a fim de proceder em conformidade.
+
+6 - Nas situações previstas na alínea b), do ponto 1, do presente artigo, poderá autorizar-se a transmissão do arrendamento, desde que o pedido seja devidamente comprovado, sucessivamente para os seguintes beneficiários:
+
+a) Para o cônjuge com residência no locado, ou residente em união de facto há mais de um ano com a/o primitiva/o arrendatária/o;
+
+b) Para qualquer das/os filhas/os, preferindo sempre a/o mais velha/o;
+
+c) Para a/o parente mais próximo, que lhe suceda no encargo e sustento da família, desde que já residisse na habitação há pelo menos um ano.
+
+#### SECÇÃO IV — Transferência de Agregados Familiares
+
+###### Artigo 47.º — Transferências de Habitação
+
+1 - A transferência de um agregado familiar para fogo habitacional distinto do atribuído pelo Município de Palmela, pode ser realizada por iniciativa municipal ou mediante requerimento da arrendatária/o, em casos devidamente fundamentados, nomeadamente por necessidade de reajustamento da tipologia.
+
+2 - As transferências são decididas por despacho do/a eleito/a detentor/a do Pelouro da Habitação, mediante proposta técnica dos serviços devidamente fundamentada e com indicação da habitação de destino, respetiva tipologia e do valor da renda a aplicar, sendo posteriormente a respetiva decisão notificada às/aos interessadas/os por escrito.
+
+3 - A transferência da habitação concretiza-se mediante a cessação do contrato de arrendamento apoiado em vigor e a atribuição de uma outra habitação à arrendatária/o e respetivo agregado familiar, com a celebração de novo contrato.
+
+###### Artigo 48.º — Condições Gerais de Transferência
+
+1 - A realização de transferências por iniciativa das/os arrendatárias/os fica sempre sujeita, cumulativamente, às seguintes condições gerais:
+
+a) Existência de habitação vaga com tipologia adequada à composição do agregado familiar;
+
+b) Inexistência de rendas em atraso;
+
+c) Inexistência de dívidas no âmbito da prestação dos serviços de água, saneamento e resíduos sólidos;
+
+d) Cumprimento de eventual acordo de regularização de dívida em curso;
+
+e) A habitação ocupada pelo agregado familiar a transferir apresentar boas condições de conservação e manutenção, comprovadas mediante avaliação dos serviços municipais.
+
+2 - A realização de transferências de iniciativa do Município de Palmela fica sempre sujeita à existência de habitação vaga com tipologia adequada à composição do agregado familiar.
+
+3 - Em qualquer dos casos referidos nos números anteriores aplica-se o disposto no artigo 14.º,
+
+do presente regulamento.
+
+###### Artigo 49.º — Transferência por Iniciativa das/os Arrendatárias/os
+
+1 - Pelas/os arrendatárias/os, pode ser requerida a transferência do agregado familiar para outra habitação nos seguintes casos:
+
+a) Por doença grave ou crónica atestada por declaração médica, que, pela sua natureza, implique a necessidade de uma diferente localização para a habitação, o que será especialmente ponderado;
+
+b) Quando a mudança de tipologia se imponha como necessária para adequar a habitação à composição e caracterização do agregado familiar inscrito;
+
+c) Outros motivos excecionais a avaliar pelos serviços do Município de Palmela, em consonância com as regras e princípios constantes do presente regulamento.
+
+2 - Os pedidos de transferência previstos no número anterior devem ser sempre apresentados por escrito, com indicação, de forma clara e completa, dos motivos que sustentam o pedido, devidamente fundamentados e comprovados.
+
+3 - Caso a/o arrendatária/o recuse a habitação proposta pelo Município de Palmela, no decurso da instrução do processo de transferência, a pretensão será indeferida, não sendo apreciado qualquer requerimento que, com conteúdo idêntico, venha a ser apresentado pela/o mesma/o interessada/o nos dois anos subsequentes àquela decisão.
+
+###### Artigo 50.º — Transferência por Iniciativa do Município de Palmela
+
+1 - O Município de Palmela pode, por decisão do/a eleito/a detentor/a do Pelouro da Habitação, determinar a transferência da/o arrendatária/o e dos membros do seu agregado familiar para uma outra habitação, ponderados os interesses em presença na gestão do parque habitacional e mediante decisão devidamente fundamentada, designadamente quando:
+
+a) A transferência seja necessária para adequar a tipologia da fração à composição e caracterização do agregado familiar, mormente nos casos de subocupação ou sobreocupação;
+
+b) A transferência seja necessária em virtude da execução de operação urbanística a promover ou em virtude da afetação da fração, do bloco ou do bairro a um fim específico e determinado;
+
+c) A transferência se imponha por razões de segurança ou pela necessidade de aceder à fração para a realização de trabalhos de manutenção, recuperação ou reabilitação.
+
+2 - A transferência poderá ser determinada a título provisório ou definitivo, em função da razão que estiver na base de tal determinação.
+
+3 - A atribuição de novo fogo é notificada às/aos interessadas/os da ordem de transferência, fixando-lhes um prazo de trinta dias para celebrarem novo contrato e procederem de forma voluntária à desocupação e entrega do fogo inicial.
+
+4 - Em caso de incumprimento voluntário da ordem de transferência prevista no número anterior, será iniciado o procedimento para despejo administrativo do fogo, nos termos legais.
+
+### CAPÍTULO V — Utilização das Habitações
+
+#### SECÇÃO I — Responsabilidades das/os Arrendatárias/os
+
+###### Artigo 51.º — Obrigações das/os Arrendatárias/os
+
+1 - Sem prejuízo das demais obrigações previstas na lei e no contrato de arrendamento, as/os arrendatárias/os ficam obrigados a:
+
+a) Efetuar as comunicações e prestar as informações ao Município de Palmela obrigatórias nos termos da lei, designadamente as relativas a impedimentos e à composição e rendimentos do agregado familiar inscrito;
+
+b) Residir e utilizar a habitação a título permanente e de forma contínua, não se ausentando, nem a/o própria/o, nem o seu agregado familiar, por um período seguido superior a seis meses, exceto nas situações previstas no artigo 1072.º, do Código Civil, comunicadas e comprovadas, por escrito, junto do Município de Palmela;
+
+c) Manter a habitação arrendada nas condições em que a mesma foi entregue, respondendo pela sua conservação, sem prejuízo do desgaste resultante de uma utilização normal e prudente;
+
+d) Utilizar a habitação arrendada, as áreas comuns e todas as demais estruturas e equipamentos públicos com prudência, zelando pela sua limpeza e conservação;
+
+e) Avisar imediatamente o Município de Palmela sempre que tenha conhecimento de qualquer facto ou ato relacionado com a habitação e/ou o prédio, suscetível de causar danos aos mesmos e/ou de pôr em perigo pessoas ou bens;
+
+f) Não realizar quaisquer obras de alteração ou de benfeitorias na habitação sem prévio conhecimento e autorização escrita do Município de Palmela;
+
+g) Facultar ao Município de Palmela a vistoria do fogo sendo o exercício de direito de acesso à habitação, previamente notificado à/ao arrendatária/o, por qualquer meio legalmente admissível, salvo se este consentir na sua efetivação imediata;
+
+h) Participar na gestão das partes comuns do edifício;
+
+i) Restituir a habitação no fim do contrato no estado em que a recebeu, designadamente com todas as portas, chaves, vidros, instalações, canalizações, acessórios e dispositivos de uso sem quaisquer deteriorações, salvo as inerentes a uma prudente utilização, ficando a/o arrendatária/o obrigada/o a indemnizar o Município de Palmela de todos os prejuízos que se verifiquem.
+
+2 - São ainda deveres das/os arrendatárias/os:
+
+a) Pagar a renda nos prazos estipulados para o efeito;
+
+b) Promover a instalação e ligação de contadores de água, energia elétrica e gás e manter o pagamento dos respetivos consumos em dia, não recorrendo a ligações ilegais;
+
+c) Contratar e suportar os custos da inspeção da instalação de gás que, nos termos da Lei, seja exigida;
+
+d) Não usar o fogo para fim diverso daquele a que se destina, utilizando-o apenas para sua habitação própria e permanente e do seu agregado familiar, autorizado pelo Município de Palmela;
+
+e) Conservar a instalação elétrica bem como todas as canalizações de água e esgotos do fogo, pagando à sua conta as reparações que se tornem necessárias por efeito de incúria ou de utilização indevida das mesmas;
+
+f) Não ceder, total ou parcialmente, temporária ou permanentemente, onerosa ou gratuitamente, o gozo da habitação, designadamente através de cessão da posição contratual, subarrendamento, hospedagem ou comodato;
+
+g) Manter a habitação e os espaços comuns em bom estado de limpeza, higiene, salubridade e de conservação;
+
+h) Não utilizar, para seu uso exclusivo, os espaços comuns dos edifícios e terrenos adjacentes ao edifício ou fração, nomeadamente, não edificando qualquer tipo de construções;
+
+i) Responsabilizar-se por quaisquer danos que provoquem na habitação arrendada, outras habitações ou partes comuns do prédio.
+
+###### Artigo 52.º — Deveres de Conduta
+
+1 - Constituem, em especial, obrigações das/os arrendatárias/os e moradoras/es dos fogos arrendados:
+
+a) Utilizar a habitação de acordo com a lei e a ordem pública;
+
+b) Pautar a sua conduta pelos princípios do respeito e da urbanidade, mantendo uma convivência cordial e harmoniosa com a vizinhança e demais pessoas com quem se possam vir a relacionar no âmbito da sua utilização da habitação;
+
+c) Cumprir rigorosamente o período de silêncio, nos termos do regulamento Geral do Ruído, bem como respeitar a demais legislação aplicável em matéria de ruído e incomodidade sonora;
+
+d) Não alterar a tranquilidade do prédio com sons, vozes, cantares, música ou outros que indevidamente perturbem a vizinhança, devendo os aparelhos de rádio, televisão, reprodutores de som ou eletrodomésticos ser regulados de modo que os ruídos não perturbem os demais moradores, sem prejuízo do dever de cumprir o período de silêncio previsto na legislação em vigor;
+
+e) Não sacudir tapetes ou roupas, despejar águas, lançar lixos, pontas de cigarro ou resíduos de qualquer natureza pela janela ou em áreas para tal não destinadas;
+
+f) Não colocar cordas, estendais fixos, ou quaisquer outras estruturas fixas nas varandas e fachadas dos edifícios, que não estejam devidamente autorizadas;
+
+g) Não fazer fogueiras, nem produzir fumo, independentemente da sua origem, sendo expressamente vedada, nomeadamente, a realização de assados de carvão ou queimadas nas varandas, entradas e partes comuns do prédio;
+
+h) Não exercer na habitação e nas partes comuns do prédio qualquer atividade comercial ou industrial, nem armazenar ou guardar produtos explosivos ou materiais inflamáveis;
+
+i) Não afetar a habitação nem as partes comuns do prédio a usos, práticas e atividades ilícitas ou qualificadas pela lei como crime;
+
+j) Guardar e transportar o lixo em sacos bem fechados, os quais devem ser colocados nos contentores próprios, de modo a não pôr em perigo a higiene e a salubridade do prédio, assim como a saúde das/os moradoras/es;
+
+k) Não colocar nas varandas ou janelas objetos que não estejam devidamente resguardados e seguros quanto à sua possibilidade de queda ou que não possuam dispositivos que impeçam o eventual gotejamento, o lançamento ou arrastamento de detritos ou de lixos sobre as outras habitações, as partes comuns ou via pública;
+
+l) Não realizar ou participar em atos que perturbem a ordem pública ou lesem os direitos e interesses legítimos da vizinhança;
+
+m) Não provocar, participar ou intervir em desacatos e conflitos que interfiram com a paz e serenidade da vida quotidiana ou comprometam as boas relações de vizinhança.
+
+2 - São deveres das/os arrendatárias/os e respetivos agregados, relativamente às partes comuns dos edifícios:
+
+a) Utilizar as partes comuns do edifício apenas para os fins a que se destinam, utilizando, nomeadamente, as zonas de circulação apenas como forma de acesso ao fogo arrendado;
+
+b) Não depositar o lixo nas partes comuns;
+
+c) Não violar, não danificar e não dar uso indevido às caixas elétricas ou outras instalações semelhantes relativas à prestação pública de serviços, tais como água ou gás;
+
+d) Não aceder nem utilizar a cobertura, e/ou telhado ou os seus desvãos;
+
+e) Não adotar outros comportamentos que interfiram com a tranquilidade e bem-estar das/os restantes moradoras/es.
+
+3 - Para além das/os arrendatárias/os e dos agregados familiares das habitações municipais, também os seus familiares ou qualquer pessoa que frequente o imóvel, devem cumprir as regras e deveres decorrentes do presente regulamento, sendo as/os titulares do arrendamento sempre responsáveis, ainda que subsidiariamente, pelos comportamentos daqueles.
+
+4 - As/os arrendatárias/os ficam responsáveis, a expensas suas, pela reparação, com a maior brevidade possível, de quaisquer danos causados nas outras habitações, nas partes comuns do prédio ou na própria habitação, bem como pelos prejuízos para a segurança, estabilidade, salubridade, estética e uniformidade exterior do prédio e das habitações, resultantes de indevida e anormal utilização da habitação de que são titulares, por causa que lhes seja imputável.
+
+5 - A resolução de eventuais litígios ou problemas entre moradoras/es de habitações municipais, não relacionados com as responsabilidades do município expressamente assumidas no presente regulamento, são resolvidas entre as referidas partes, nos termos da Lei, sem intervenção dos serviços municipais.
+
+###### Artigo 53.º — Obras de Manutenção
+
+1 - A/o arrendatária/o responderá pelas obras necessárias a corrigir o deficiente estado de conservação ou salubridade da habitação arrendada e que seja resultado de uma utilização descuidada, imprudente e indevida.
+
+2 - Compete, ainda, à/ao arrendatária/o, a realização das obras destinadas a reparar todos os danos causados nas áreas comuns ou outros fogos, quando os mesmos resultem de ato ou omissão culposa a si imputável ou a algum elemento do seu agregado familiar.
+
+###### Artigo 54.º — Responsabilização das/os Arrendatárias/os
+
+1 - Nos casos previstos nos n.os 1 e 2, do artigo anterior, e no n.º 4, do artigo 53.º, o Município de Palmela notificará a/o arrendatária/o para executar, a suas expensas, as obras necessárias à reparação dos vícios que lhe sejam imputáveis e do prazo facultado para o efeito.
+
+2 - Decorrido o prazo indicado na notificação sem que tenham sido realizadas as obras, pode o Município de Palmela realizá-las a expensas daquele, comunicando-lhe, prévia e formalmente, a data em que se propõe realizá-las e o respetivo custo, devidamente orçamentado, que incluirá o custo administrativo inerente ao procedimento.
+
+3 - Após a conclusão das obras, a/o arrendatária/o será notificada/o para efetuar o pagamento do custo total da reparação no prazo máximo de trinta dias.
+
+4 - Findo o prazo indicado no número anterior sem que a/o arrendatária/o tenha procedido ao pagamento devido, o Município de Palmela extrairá certidão de dívida e promoverá o competente processo de execução fiscal, nos termos previstos na legislação em vigor, tendo em vista a cobrança da dívida.
+
+###### Artigo 55.º — Obras nas Habitações
+
+1 - São proibidas quaisquer obras que modifiquem ou alterem a estrutura das frações, tais como a abertura de janelas ou orifícios, a demolição, no todo ou em parte, de paredes interiores ou exteriores ou a realização de quaisquer construções ou instalações, salvo se previamente autorizadas, por escrito, pelo Município de Palmela, mediante requerimento das/os interessadas/os.
+
+2 - A realização de obras só será autorizada desde que cumulativamente se encontrem reunidos os seguintes requisitos:
+
+a) As obras pretendidas não contendam com a finalidade a que se destina a habitação;
+
+b) Não sejam alteradas as características físicas, número de divisões e tipologia da habitação;
+
+c) As obras sejam executadas com observância e em cumprimento das regras técnicas e das disposições legais e regulamentares aplicáveis;
+
+d) As obras não afetem as habitações ou as partes comuns, não alterem por qualquer modo os elementos que fazem parte da estrutura do imóvel, nem a estabilidade e segurança do edifício.
+
+3 - É expressamente proibida a realização de obras de ampliação, bem como qualquer tipo de obras ou trabalhos que alterem a estrutura resistente, a natureza e cor dos materiais de revestimento exterior e o seu arranjo estético, bem como aqueles de que resulte aumento da área de pavimento, de implantação ou da cércea.
+
+4 - As/os arrendatárias/os dos fogos devem realizar a suas expensas pequenas obras de conservação ou reparação de sua responsabilidade, que não alterem as características existentes, nomeadamente:
+
+a) Manutenção do revestimento dos pavimentos;
+
+b) Reparação de rodapés, portas interiores e estores, caixas de estores e fitas enroladoras;
+
+c) Substituição ou reparação de torneiras, chuveiros, fechos, fechaduras, lâmpadas, interruptores, tomadas e instalação elétrica, louças sanitárias, autoclismos e armários de cozinha, desde que não impliquem intervenção nas redes de infraestruturas internas às paredes do fogo;
+
+d) Substituição de vidros partidos;
+
+e) Pinturas interiores que não sejam causadas por eventos da responsabilidade de outras/os arrendatárias/os;
+
+f) Reparação devida por utilização deficiente do fogo, ou por atos de vandalismo da/o própria/o ou de terceiras/os.
+
+5 - A realização de obras encontra-se sujeita ao cumprimento das normas legais e regulamentares aplicáveis, devendo as/os executantes possuir os respetivos títulos habilitantes exigíveis para tal, nos termos legais.
+
+6 - Depois de obtida a respetiva autorização por parte do Município de Palmela, a/o arrendatária/o deve, previamente ao início das respetivas obras, comunicar à Câmara Municipal a data de início dos trabalhos e a duração dos mesmos.
+
+7 - As/os arrendatárias/os ficam responsáveis a expensas suas pela reparação imediata de quaisquer danos causados.
+
+8 - Quaisquer obras de conservação e benfeitorias realizadas na habitação integram-se no edificado e revertem para o Município de Palmela, não conferindo direito a qualquer tipo de compensação ou indemnização, em caso de cessação do arrendamento e da utilização da habitação.
+
+###### Artigo 56.º — Higiene, Limpeza e Salubridade das Habitações
+
+1 - Todas/os as/os moradoras/es dos fogos de habitação de arrendamento apoiado ficam obrigadas/os a manter as respetivas habitações em boas condições de higiene, limpeza e salubridade.
+
+2 - As/os moradoras/es devem, ainda, garantir uma boa ventilação e arejamento do fogo, evitando humidades de condensação nos tetos e paredes com o consequente aparecimento de fungos e bolores.
+
+3 - As/os moradoras/es devem respeitar a deposição de resíduos nos locais próprios e utilizar adequadamente os sistemas de escoamento do edifício.
+
+###### Artigo 57.º — Acesso e Vistoria à Habitação Arrendada
+
+1 - O Município de Palmela pode, a todo o tempo, aceder e vistoriar as habitações arrendadas, lavrando auto da diligência se tal formalidade se justificar pela sua natureza específica ou caso a/o arrendatária/o o pretenda.
+
+2 - Salvo outro motivo de relevante interesse público, o acesso do Município de Palmela às habitações arrendadas apenas pode ter por finalidade:
+
+a) Fiscalizar o cumprimento, pelas/os arrendatárias/os, das obrigações que lhe são impostas por lei, no respetivo contrato e no presente regulamento;
+
+b) Verificar o estado de conservação das habitações arrendadas;
+
+c) Executar trabalhos e serviços indispensáveis à realização de fins municipais, tais como implementar medidas de segurança, corrigir anomalias na habitação ou nas habitações contíguas ou adjacentes, proceder à elaboração de plantas, medições e outros estudos destinados à execução de trabalhos de manutenção ou reabilitação.
+
+3 - O exercício do direito de acesso à habitação será previamente notificado à/ao arrendatária/o por qualquer meio legalmente admissível, salvo se esta/e consentir na sua efetivação imediata.
+
+4 - O acesso às habitações arrendadas será permitido às/aos representantes do Município de Palmela, devidamente identificadas/os, quando notificadas/os nos termos previstos no número anterior.
+
+5 - A recusa injustificada no acesso à habitação arrendada para os efeitos previstos no número anterior, consubstancia incumprimento muito grave das obrigações da/o arrendatária/o, constituindo motivo para a resolução do arrendamento apoiado, sem prejuízo do disposto no número seguinte.
+
+6 - A recusa ilegítima, por parte da/o arrendatária/o ou de algum membro do agregado familiar, em cumprir a obrigação prevista no presente artigo, confere ao Município de Palmela o poder de determinar a posse administrativa do locado, pelo prazo estritamente indispensável ao cumprimento da finalidade comunicada na notificação.
+
+###### Artigo 58.º — Animais domésticos
+
+1 - É expressamente proibido o alojamento, permanente ou temporário, de animais perigosos e potencialmente perigosos, nas habitações arrendadas e nos espaços comuns, nos termos da legislação e regulamentação específica em vigor.
+
+2 - Só é admitida a permanência de animais domésticos nas habitações, nos termos permitidos por lei e quando a mesma se coadune com as características do fogo e seja compatível com as normais e desejáveis condições de habitabilidade do mesmo.
+
+3 - Sem prejuízo do previsto no ponto anterior, a manutenção de um animal doméstico na habitação deverá obedecer a condições adequadas de higiene, saúde e bem-estar, sendo interdita a manutenção de animais nas partes externas à habitação - varandas e arrumos - e nas partes comuns do edifício.
+
+4 - A permanência de animais domésticos nas habitações não pode provocar incomodidade às/aos vizinhas/os, nem qualquer tipo de danos na habitação ou qualquer prejuízo para a salubridade da mesma, ou ser incompatível com o uso habitacional.
+
+5 - O animal doméstico deverá estar devidamente registado, desparasitado e vacinado, e cumprir os demais requisitos veterinários e sanitários nos termos da legislação em vigor.
+
+6 - Não são permitidos animais de criação.
+
+7 - É absolutamente interdita a permanência de animais nas partes comuns dos edifícios, bem como a sua livre circulação, sem acompanhamento das/os suas/seus responsáveis.
+
+8 - As/os arrendatárias/os ficam inteiramente responsáveis, a todos os títulos, pela permanência do animal doméstico no fogo, devendo assegurar que o mesmo não causa quaisquer incómodos ou danos a pessoas e bens, respondendo pelos que venham a ocorrer.
+
+9 - Os animais mantidos nos fogos devem ser encerrados ou retirados aquando da visita de técnicas/os e no decurso da realização de obras, vistorias e outras intervenções ordenadas pela Câmara Municipal.
+
+#### SECÇÃO II — Responsabilidades do Município de Palmela
+
+###### Artigo 59.º — Obrigações do Município de Palmela
+
+1 - Ficam a cargo do Município de Palmela as obras de manutenção, conservação e reabilitação geral dos edifícios que integram o parque habitacional municipal, designadamente dos respetivos elementos estruturais, tais como a reparação e reabilitação das coberturas e paredes exteriores, a manutenção e preservação das redes de água, de esgotos, de gás e de eletricidade e, ainda, outras instalações técnicas e equipamentos integrados nas áreas comuns e de utilização coletiva, excluindo todas as reparações resultantes da incúria, omissão no cuidado ou atuação dolosa das/os residentes.
+
+2 - São deveres gerais do Município de Palmela no âmbito do arrendamento do parque de habitação municipal:
+
+a) Entregar o fogo à/ao arrendatária/o e assegurar-lhe o gozo do mesmo para os fins a que se destina;
+
+b) Manter as adequadas condições de habitabilidade, salubridade e segurança básica do fogo;
+
+c) Manter as adequadas condições de funcionamento do fogo, nomeadamente, no que respeita ao bom estado geral das diferentes redes, atenta a sua responsabilidade, na qualidade de senhorio;
+
+d) Executar todas as obras de conservação ordinárias ou extraordinárias, requeridas pelas leis vigentes ou pelo fim do contrato;
+
+e) Manter em boas condições de utilização e devidamente conservadas as partes comuns dos edifícios que sejam da sua propriedade;
+
+f) Comunicar por escrito à/ao arrendatária/o, com uma antecedência mínima de trinta dias, qualquer alteração aos valores da respetiva renda;
+
+g) Informar, com a devida antecedência, a/o arrendatária/o de quaisquer ações que venha a desenvolver junto dela/e, tais como obras, reuniões e recolha de documentos;
+
+h) Proceder à verificação periódica das condições de recurso dos indivíduos e agregados familiares, nos termos da lei e do presente regulamento;
+
+i) Proceder à verificação periódica das condições de habitabilidade, nos termos da lei.
+
+3 - Para efeitos da prossecução dos deveres previstos no número anterior, no âmbito do arrendamento do parque de habitação municipal, assistem ao Município de Palmela os direitos de monitorizar a utilização dos respetivos fogos e de garantir e fiscalizar o cumprimento da lei e do presente regulamento.
+
+###### Artigo 60.º — Obras de Conservação e Reparação
+
+1 - Compete ao Município de Palmela realizar as obras de conservação e reparação das habitações de sua propriedade, nomeadamente, nas estruturas, coberturas e fachadas, bem como a reparação das infraestruturas no interior das habitações, e partes comuns, quando o Município seja proprietário da totalidade das frações.
+
+2 - O Município de Palmela não é obrigado a proceder às reparações ou obras de conservação decorrentes de uma utilização e conduta indevidas ou negligentes por parte de moradoras/es das habitações, bem como de atos praticados por seus familiares ou pessoas pelos quais sejam responsáveis.
+
+3 - O Município de Palmela também não procederá a reparações ou obras de conservação em situações em que as/os arrendatárias/os se encontrem em procedimento de despejo ou tenham rendas ou dívidas em atraso de valor superior a um mês.
+
+4 - Nos casos previstos nos números anteriores, a/o titular do arrendamento é inteiramente responsável pelas reparações, que correrão sempre a expensas suas.
+
+5 - Em casos excecionais, a Câmara Municipal pode assumir as reparações, desde que a situação sociofamiliar do agregado não permita comprovadamente a responsabilização por essas reparações, ou que estejam em causa a segurança, salubridade ou higiene do edifício ou de habitações de terceiras/os.
+
+#### SECÇÃO III — Das Partes Comuns
+
+###### Artigo 61.º — Espaços de Utilização Comum
+
+São espaços de utilização comum dos imóveis integrados no parque habitacional todas as áreas que não sejam de uso exclusivo de algum/a arrendatário/a, designadamente:
+
+a) Os átrios de entrada, vestíbulos, escadas e corredores de uso ou passagem de utilização comum;
+
+b) Os elevadores;
+
+c) Os espaços destinados a caixas do correio;
+
+d) As fachadas dos edifícios;
+
+e) Os telhados ou terraços de cobertura;
+
+f) As instalações técnicas e equipamentos;
+
+g) Salas e arrecadações de uso comum;
+
+h) As instalações mecânicas existentes nos edifícios, tais como condutas de lixo, bombas de águas e outras semelhantes;
+
+i) Os elementos da estrutura dos edifícios, nomeadamente, fundações, pilares, vigas, lajes e paredes resistentes;
+
+j) Todas as estruturas e equipamentos de utilização coletiva e as demais coisas e áreas que não sejam de uso exclusivo adstrito a uma determinada fração.
+
+###### Artigo 62.º — Uso das Partes Comuns
+
+1 - As/os arrendatárias/os gozam do direito de fazer uso dos espaços de utilização comum, aplicando-os às finalidades a que os mesmos se destinam.
+
+2 - As/os arrendatárias/os devem utilizar os espaços comuns com cuidado e diligência e contribuir para a sua preservação e valorização, abstendo-se de condutas suscetíveis de causarem danos nas instalações e equipamentos existentes nesses espaços, sendo-lhes vedado, designadamente:
+
+a) Efetuar quaisquer obras e alterações nas partes e espaços comuns do interior ou do exterior do prédio;
+
+b) Colocar e manter nas partes comuns do edifício bens próprios, nomeadamente mobiliário, bicicletas ou outros veículos, carrinhos de bebé, garrafas de gás ou outros similares, salvo se previsto expressamente no regulamento de condomínio ou afim.
+
+c) Utilizar de forma diversa aos fins a que se destinam;
+
+d) Aceder à cobertura e ou telhado;
+
+e) Confecionar refeições ou cozinhar alimentos;
+
+f) Realizar ajuntamentos, festas e convívios nas entradas, patamares e espaços de circulação do prédio, com exceção das reuniões de condomínio;
+
+g) Realizar quaisquer atividades que possam perturbar o descanso dos moradores ou provocar danos nas partes comuns ou viaturas, junto aos prédios, nos passeios ou parques de estacionamento;
+
+h) Utilizar as torneiras e as tomadas de energia elétrica do prédio para quaisquer outros fins que não os de limpeza e conservação das zonas comuns, sendo absolutamente vedada a sua utilização para fins particulares e pessoais;
+
+i) Manter e/ou alimentar animais domésticos ou outros nas partes comuns e permitir nelas a sua livre circulação, desacompanhados das/os responsáveis;
+
+j) Instalar, no interior ou exterior do prédio, qualquer tipo de equipamentos ou elementos estranhos à construção, como marquises, estendais, antenas ou outros, sem a devida autorização, ficando a sua remoção a expensas das/os titulares da ocupação do fogo;
+
+k) Aceder a armários ou caixas técnicas do edifício, ou outras relativas a prestação pública de serviços, designadamente água, gás, eletricidade ou telecomunicações;
+
+l) Ocupar, mesmo temporariamente, com construções provisórias ou coisas móveis de qualquer espécie, as entradas ou patamares ou qualquer outra zona comum, ficando obrigados a assumir os custos em que a Câmara Municipal incorra com a remoção e transporte dos bens irregularmente colocados;
+
+m) Aplicar letreiros ou tabuletas identificadoras, alusivas ou não a uma atividade profissional em qualquer área das zonas comuns;
+
+n) Danificar as partes integrantes ou equipamentos do edificado, ou praticar quaisquer atos que coloquem em perigo a segurança das pessoas ou do prédio.
+
+3 - São deveres das/os arrendatárias/os relativamente ao uso das partes comuns:
+
+a) Manter os espaços comuns limpos e em condições de higiene e conservação adequados;
+
+b) Manter as zonas de circulação e de acesso aos fogos livres e desimpedidas;
+
+c) Não utilizar os espaços de arrecadação, a não ser para produtos de limpeza comuns;
+
+d) Preservar a caixa do correio que lhe é atribuída;
+
+e) Manter a porta do edifício fechada, de modo que o acesso seja restringido apenas às/aos moradoras/es do prédio, e zelar pela sua conservação e bom estado da fechadura e intercomunicadores;
+
+f) Não permitir às demais pessoas que de si dependam ou frequentem a sua habitação, comportamentos suscetíveis de danificar ou sujar as partes comuns e perturbar o bom e regular funcionamento do prédio e da respetiva entrada, ou que provoquem incomodidade para o bem-estar das/os restantes moradoras/es.
+
+###### Artigo 63.º — Limpeza e Conservação dos Espaços Comuns
+
+1 - A limpeza dos espaços de uso comum dos prédios de habitação de titularidade plena do Município, como entradas, átrio, patamares, escadas e demais áreas de circulação e fruição comum, é da responsabilidade das/os arrendatárias/os.
+
+2 - Para além do pagamento de eventuais danos nas partes comuns, as/os titulares dos contratos de arrendamento ficam obrigadas/os ao pagamento das despesas de manutenção dos espaços comuns, designadamente substituição de lâmpadas, vidros partidos, caixas de correio, interruptores, campainhas, intercomunicadores, e outras situações que não se possam considerar incluídas na conservação ordinária a cargo do Município de Palmela.
+
+###### Artigo 64.º — Logradouros
+
+1 - Quando existam, os logradouros diretamente afetos a frações de habitação municipal, deverão ser mantidos limpos e tratados, sendo expressamente proibida a deposição de lixo, sucata ou abandono de objetos e viaturas.
+
+2 - Em situações de incumprimento do disposto no número anterior, a/o responsável pelo incumprimento é notificada/o para a correção da situação identificada, a suas expensas, sendo para o efeito concedido um prazo de trinta dias.
+
+3 - Decorrido o prazo indicado na notificação sem que a arrendatária/o tenha realizado as necessárias diligências, pode o Município de Palmela realizá-las a expensas daquela/e, comunicando-lhe, prévia e formalmente, a data em que se propõe realizá-las e o respetivo custo, devidamente orçamentado, que incluirá o custo administrativo.
+
+4 - Após a conclusão das diligências necessárias, a/o arrendatária/o será notificada/o para efetuar o pagamento do custo total da mesma no prazo máximo de trinta dias.
+
+5 - Findo o prazo indicado no número anterior sem ter sido efetuado o pagamento devido, o Município de Palmela extrairá certidão de dívida e promoverá o competente processo de execução fiscal, nos termos previstos na legislação em vigor, tendo em vista a cobrança da dívida.
+
+### CAPÍTULO VI — Cessação do Arrendamento Apoiado
+
+###### Artigo 65.º — Formas de Cessação do Contrato
+
+O contrato de arrendamento apoiado poderá cessar por revogação, caducidade, renúncia, resolução ou outras causas previstas na lei.
+
+###### Artigo 66.º — Revogação
+
+1 - As/os contraentes podem, a qualquer momento e por acordo, revogar o contrato de arrendamento apoiado.
+
+2 - A revogação do contrato por acordo entre o Município de Palmela e as/os arrendatárias/os, carece de formalização por acordo escrito entre as partes, o qual deverá incluir eventual cláusula de confissão de dívida das/os arrendatárias/os, caso existam rendas vencidas e não pagas à data do acordo de revogação do contrato.
+
+3 - O acordo de revogação a outorgar entre as partes poderá, para além de cláusulas pelas quais se determine a forma de pagamento da dívida vencida, estabelecer a forma de compensação do Município de Palmela, em caso do fogo se encontrar deteriorado à data da entrega do mesmo.
+
+4 - Os efeitos da revogação são os que tiverem sido validamente fixados no acordo escrito de revogação.
+
+###### Artigo 67.º — Caducidade
+
+1 - O contrato de arrendamento apoiado caducará:
+
+a) No termo do prazo da sua vigência, ou de alguma das suas eventuais renovações, caso alguma das partes se oponha à renovação;
+
+b) A partir do momento em que se deixe de verificar a condição a que o contrato ficou subordinado, nos termos do n.º 3, do artigo 5.º, do presente regulamento;
+
+c) Por morte da/o arrendatária/o, sempre que não haja lugar a transmissão da posição de arrendatária/o, nos termos previstos no artigo 45.º, do presente regulamento.
+
+2 - A cessação do contrato por caducidade nos termos da alínea b), do número anterior, confere ao Município de Palmela o direito de tomar posse do locado após a emissão da respetiva declaração.
+
+###### Artigo 68.º — Renúncia
+
+1 - O contrato de arrendamento apoiado cessará por renúncia:
+
+a) Se a/o arrendatária/o entregar ao Município de Palmela, por sua iniciativa, a habitação arrendada, significando esse ato um comportamento concludente da intenção de nela não continuar a residir;
+
+b) Se a habitação não for usada pela/o arrendatária/o ou pelo agregado familiar por período seguido superior a seis meses, nos termos previstos no n.º 1, do artigo 26.º, da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua atual redação.
+
+2 - A cessação do contrato nos termos previstos na alínea a), do número anterior, opera imediatamente, conferindo ao Município de Palmela o direito de tomar posse do locado e de considerar abandonados os bens móveis nele existentes após o decurso do prazo de 60 dias, salvo se com a declaração forem entregues igualmente as chaves da habitação, considerando-se, nessa hipótese, transmitida a posse.
+
+3 - Para efeitos do disposto na alínea b), do n.º 1, considera-se não uso da habitação a situação em que, dentro do período mínimo de seis meses, se verifiquem cumulativamente as seguintes condições:
+
+a) Tenham sido realizadas pelo menos três tentativas, com intervalo mínimo de duas semanas, entre cada uma delas, de entrega de comunicação na pessoa da/o arrendatária/o ou de elemento do agregado familiar, consoante for o caso, por representante do senhorio devidamente identificado e a entrega tenha resultado impossível por ausência dos mesmos;
+
+b) Tenha sido afixado aviso na porta da entrada da habitação, pelo período mínimo de trinta dias, de conteúdo idêntico ao da comunicação;
+
+c) Os registos do fornecimento de serviços essenciais de água e eletricidade evidenciarem a ausência de contratos de fornecimento ou de consumos relativamente ao locado.
+
+4 - A comunicação e o aviso devem referir:
+
+a) Que o senhorio tem conhecimento do não uso da habitação por parte da/o arrendatária/o ou do agregado familiar, consoante for o caso;
+
+b) Que o não uso da habitação por período superior a seis meses a contar da data da primeira tentativa de contacto pessoal, ali indicada, constitui renúncia ao arrendamento e determina a cessação do contrato;
+
+c) O prazo, no mínimo de trinta dias, de que a/o arrendatária/o e os elementos do seu agregado familiar dispõem, após o decurso dos seis meses, para procederem à desocupação e entrega voluntária da habitação, livre de pessoas e bens.
+
+5 - A cessação do contrato opera no termo do prazo de seis meses a contar da data da primeira tentativa de contacto pessoal referida na alínea a), do n.º 3, e confere ao senhorio o direito de tomar posse do locado e de considerar abandonados a seu favor os bens móveis nele existentes, se, após o decurso do prazo de sessenta dias sobre a tomada de posse do locado, não forem reclamados.
+
+###### Artigo 69.º — Resolução pelo Município de Palmela
+
+1 - Sem prejuízo das demais obrigações previstas na lei e no contrato, constituem, fundamento de resolução do contrato de arrendamento apoiado:
+
+a) A recusa infundada da/o arrendatária/o ou da maioria absoluta do agregado familiar em ocupar a habitação arrendada, ou o seu não uso declarado ou falta de residência permanente;
+
+b) A violação reiterada e grave das regras de higiene, de sossego, de boa vizinhança ou de normas constantes do regulamento do condomínio ou de disciplina equiparada;
+
+c) A utilização da habitação arrendada em termos contrários à lei e/ou à ordem pública;
+
+d) A prestação, pelo agregado familiar, de falsas declarações ou omissão dolosa de informação sobre os rendimentos ou sobre factos e requisitos determinantes para a formação do contrato de arrendamento apoiado, ou para a manutenção, sem prejuízo de outras sanções aplicáveis nos termos legais;
+
+e) A mora no pagamento da renda por período igual ou superior a três meses, ou o incumprimento do plano de pagamentos que tenha sido celebrado;
+
+f) A oposição à realização de obras de conservação ou de obras urgentes na habitação;
+
+g) A verificação de alguma das situações de impedimento, nos termos legalmente previstos;
+
+h) A permissão de permanência na habitação de pessoa que não pertença ao agregado familiar por período superior a um mês, salvo se o Município de Palmela o tiver autorizado;
+
+i) A recusa de acesso à habitação aos representantes do Município de Palmela, nos termos previstos no presente regulamento;
+
+j) A oposição à realização na habitação arrendada, ou nas áreas comuns de acesso exclusivo, de obras, trabalhos e reparações determinadas pelo Município de Palmela;
+
+k) A não manutenção da habitação arrendada em bom estado de conservação;
+
+l) A prática, na habitação ou nas áreas comuns, de atos que contribuam para criar risco para a segurança ou salubridade do prédio, a realização de obras não autorizadas ou a colocação de equipamentos ou instalações que alterem as condições das habitações ou sejam comprovadamente perturbadoras da vizinhança e da sua segurança, designadamente, a realização de ligações ilegais à rede elétrica e/ou de água;
+
+m) A utilização da habitação arrendada para fins distintos daqueles a que a mesma se destina, designadamente quando em causa esteja a prática comprovada de atividades ilícitas ou de condutas desviantes que, pela sua gravidade, possam colocar em causa a paz ou a segurança do parque habitacional, bem como a ocupação de áreas comuns e espaços de forma indevida, ilícita ou abusiva;
+
+n) A não comunicação ou não prestação de informações relativas à composição e aos rendimentos do agregado familiar, sem prejuízo do disposto no artigo 41.º do presente regulamento;
+
+o) A utilização das áreas comuns do edifício para uso pessoal, danificar partes integrantes ou equipamento do edifício ou praticar quaisquer atos que ponham em causa a segurança das pessoas ou do edifício;
+
+p) A realização de obras na habitação sem que para tal tenha existido prévia autorização do Município;
+
+q) A declaração expressa da/o arrendatária/o da intenção de não cumprir voluntariamente alguma obrigação imposta por lei, no presente regulamento ou no contrato.
+
+2 - A decisão de resolução do contrato é da competência do/a eleito/a detentor/a do Pelouro da Habitação que decide em face do relatório dos serviços, o qual deve, entre outras informações que se mostrem necessárias, indicar o motivo e a fundamentação adequada ao caso concreto.
+
+3 - As notificações para a audiência prévia das/os arrendatárias/os e da decisão final, efetuam-se pelas formas previstas no Código do Procedimento Administrativo, preferindo a notificação pessoal, sempre que possível.
+
+4 - As/os arrendatárias/os dispõem de um prazo de noventa dias a contar da notificação da decisão final de resolução do contrato, para desocuparem o fogo e entregarem as respetivas chaves.
+
+5 - Se, resolvido o contrato, a/o arrendatária/o não proceder à entrega voluntária do locado no prazo referido no número anterior, pode o Município de Palmela ordenar e mandar executar o despejo.
+
+###### Artigo 70.º — Procedimentos para Despejo
+
+1 - O despejo administrativo é executado pelos serviços da Câmara Municipal, os quais podem proceder à requisição da autoridade policial, sempre que se mostre necessário.
+
+2 - As/os arrendatárias/os são notificadas/os da data do despejo pelas formas previstas no Código do Procedimento Administrativo, preferindo a notificação pessoal sempre que possível.
+
+3 - A decisão de execução do despejo por falta de pagamento de rendas ou de despesas imputáveis às/aos arrendatárias/os, implica a decisão de execução para pagamento de quantia certa, a qual será tramitada pelos serviços de contencioso da autarquia.
+
+4 - Salvo acordo em contrário, os bens retirados dos fogos despejados serão considerados abandonados a favor da autarquia, após o decurso do prazo de sessenta dias, sem direito a qualquer compensação à/ao arrendatária/o, nos termos do n.º 5, do artigo 28.º, da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na redação em vigor.
+
+###### Artigo 71.º — Restituição da Habitação
+
+1 - A/o arrendatária/o deverá restituir a habitação, independentemente da causa que está na origem da cessação do contrato, livre de pessoas e bens e no estado de conservação em que lhe foi entregue, sem prejuízo das deteriorações normais e correntes, fruto de uma utilização prudente.
+
+2 - A/o arrendatária/o responde perante o Município de Palmela pela perda ou deterioração do locado.
+
+###### Artigo 72.º — Ocupações Sem Título
+
+1 - São consideradas sem título as situações de ocupação, total ou parcial, de habitações do Município de Palmela por quem não detém contrato ou documento de atribuição ou de autorização que a fundamente.
+
+2 - O/a eleito/a detentor/a do Pelouro da Habitação, determinará a desocupação do fogo e a restituição de posse, nos termos legais, independentemente de quem esteja a ocupar o fogo.
+
+3 - As decisões destinadas à restituição da posse em resultado de uma ocupação abusiva assumem caráter urgente.
+
+4 - As/os ocupantes estão obrigadas/os a desocupar a habitação e a entregá-la, livre de pessoas e bens, no prazo dez dias a contar da notificação para o efeito.
+
+5 - Não se verificando a desocupação ordenada, procede-se ao despejo imediato nos termos do artigo anterior, com as necessárias adaptações.
+
+6 - As/os responsáveis pelas ocupações sem título ficam impedidos de aceder a uma habitação nos termos do artigo 13.º, do presente regulamento.
+
+7 - As/os responsáveis pelas ocupações sem título respondem perante o Município de Palmela pela perda ou deterioração do imóvel.
+
+### CAPÍTULO VII — Disposições Finais
+
+###### Artigo 73.º — Tratamento de Dados Pessoais
+
+1 - Sem prejuízo das demais normas legais em vigor, o Município procede ao tratamento dos dados pessoais de titulares e membros do agregado familiar - estritamente para os fins previstos no presente regulamento -, em concreto para as finalidades de atribuição de habitações municipais, atualização e revisão de rendas, transferência de agregados familiares, alteração de agregados familiares e transmissão e cessação de arrendamento.
+
+2 - O tratamento de dados referido no número anterior ocorre em observância dos seguintes princípios consagrados nas regras gerais de proteção de dados pessoais:
+
+a) Princípio da licitude;
+
+b) Princípio da lealdade e transparência;
+
+c) Princípio da minimização;
+
+d) Princípio da limitação da finalidade;
+
+e) Princípio da exatidão;
+
+f) Princípio da limitação da conservação, considerando neste âmbito também os termos previstos na alínea e) do n.º 3 do presente artigo;
+
+g) Princípio da integridade e confidencialidade;
+
+h) Princípio da responsabilidade.
+
+3 - No momento da recolha dos dados junto das/os respetivas/os titulares e membros do agregado familiar, ou se a recolha não ocorrer junto destes na primeira notificação ou ato processual realizado com os mesmos após a recolha dos dados, são prestadas as seguintes informações sobre o tratamento dos seus dados pessoais e sobre os seus direitos, designadamente quanto aos seguintes aspetos:
+
+a) O responsável pelo tratamento é o Município de Palmela que poderá contactar através do telefone 212 336 600 ou do email: atendimento@cm-palmela.pt;
+
+b) Município designou Encarregada/o de Proteção de Dados que poderá contactada/o através do endereço eletrónico: protecaodados@cm-palmela.pt;
+
+c) A finalidade do tratamento é o cumprimento deste regulamento municipal;
+
+d) É um tratamento necessário para cumprimento de obrigações legais e para o exercício de atribuições legais e funções de interesse público e de autoridade pública do Município;
+
+e) Os dados pessoais são conservados pelos prazos necessários a cumprir a finalidade do tratamento, sendo os dados recolhidos nas candidaturas conservados nos respetivos processos pelo período em que a candidatura esteja ativa, ou seja, 2 anos após validação, classificação e integração em lista, renovável sucessivamente por iguais períodos durante a vigência do presente Regulamento, nos termos definidos no seu artigo 23.º, sendo estes ainda conservados pelo prazo de 10 anos, nos termos do disposto na [Portaria n.º 412/2001](https://diariodarepublica.pt/dr/detalhe/portaria/412-2001-164198) de 17 de abril, na redação conferida pela Portaria n.º 1253/2009 de 14 de outubro ou em novas determinações legais que lhe sucedam;
+
+f) Os dados pessoais são partilhados com o Instituto da Habitação e da Reabilitação Urbana, IHRU, nos termos expressos no [Decreto-Lei n.º 37/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), de 4 de maio, na sua redação atual;
+
+g) Mediante contacto com a/o responsável pelo tratamento ou com a/o encarregada/o de proteção de dados, poderá, nos termos previstos na legislação, exercer os direitos de confirmação do tratamento dos dados, o acesso aos dados, a retificação dos dados, a limitação do tratamento, apresentar reclamação à autoridade de controlo (Comissão Nacional de Proteção de Dados), a eliminação dos dados, a portabilidade dos dados e a oposição ao tratamento;
+
+h) Para mais informações poderá contactar a/o responsável pelo tratamento e encarregada/o de proteção de dados e consultar a política de privacidade em https://www.cm-palmela.pt/.
+
+4 - As informações indicadas no n.º 3 são prestadas por escrito e de modo comprovado, inseridas nos autos ou notificações a entregar e enviar às/aos titulares dos dados e membros do agregado familiar.
+
+###### Artigo 74.º — Lei Aplicável
+
+Em tudo o que não estiver especificamente disposto no presente regulamento, observar-se-ão, com as necessárias adaptações, as disposições do Código do Procedimento Administrativo, Código Civil, Regime de Arrendamento Apoiado, Novo Regime do Arrendamento Urbano, e demais legislação em vigor sobre a matéria que constitui o seu objeto.
+
+###### Artigo 75.º — Remissões
+
+Sempre que se verifiquem alterações às normas legais e regulamentares citadas no presente regulamento, as remissões expressas que para elas forem feitas consideram-se automaticamente remetidas para os diplomas legais que resultam das referidas alterações.
+
+###### Artigo 76.º — Declarações
+
+1 - A prestação de falsas declarações pelas/os candidatas/os é punível nos termos da lei penal.
+
+2 - Os documentos apresentados e as declarações prestadas pelas/os candidatas/os às habitações municipais podem, a todo o tempo, ser confirmadas junto das entidades competentes para atestar os factos documentados e declarados.
+
+###### Artigo 77.º — Dúvidas e omissões
+
+As dúvidas ou omissões suscitadas no âmbito da aplicação do presente regulamento serão resolvidas por Despacho do/a eleito/a detentor/a do Pelouro da Habitação.
+
+###### Artigo 78.º — Aplicação no Tempo
+
+O disposto no presente regulamento aplica-se aos contratos a celebrar após a respetiva data de entrada em vigor e, ainda, a todos os contratos de arrendamento e demais títulos de ocupação de habitação vigentes, em tudo o que não contrarie a lei.
+
+###### Artigo 79.º — Norma Revogatória
+
+Com a entrada em vigor do presente Regulamento é revogado o Regulamento Municipal de Acesso e Atribuição de Habitações Municipais, publicado pelo [Aviso n.º 15429/2017](https://diariodarepublica.pt/dr/detalhe/aviso/15429-2017-114390924) de 21 de dezembro.
+
+###### Artigo 80.º — Entrada em Vigor
+
+O presente regulamento entra em vigor cinco dias úteis após a sua publicação no Diário da República.
+
+## ANEXO I — Fatores de Capitação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/06/121000000/0034100376.pdf)
+
+## ANEXO II — Matriz de ponderação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/06/121000000/0034100376.pdf)
+
+## ANEXO III — Adequação da Tipologia
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/06/121000000/0034100376.pdf)
+
+316525534

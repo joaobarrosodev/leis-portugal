@@ -1,0 +1,526 @@
+---
+schema_version: '1.0'
+id: pt:dre:180863718:por
+title: Regulamento n.º 289/2022
+short_title: null
+summary: Regulamento Municipal para Alienação de 6 Lotes para Autoconstrução de Habitação Própria e Permanente no Loteamento
+  Municipal Portela da Igreja - Barão de São Miguel
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Vila do Bispo
+proposing_entity: null
+official_number: 289/2022
+official_date: null
+publication_date: '2022-03-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 57/2022, Série II de 2022-03-22
+  number: '57'
+  series: II
+  supplement: null
+  pages: 415 - 430
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/03/057000000/0041500430.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '180863718'
+  dre_path: /dr/detalhe/regulamento/289-2022-180863718
+  internal: pt:dre:180863718:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/289-2022-180863718
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/289-2022-180863718
+  consolidated_url: null
+  retrieved_at: '2026-11-13T07:20:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: dccdf46096baf1dcf290fd28f74bdb198b3a29abe2e5c034a55e04af18e9ef50
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T07:20:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:171573612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+article_structure:
+  article_count: 41
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T07:20:37Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 289/2022
+
+Regulamento Municipal para Alienação de 6 Lotes para Autoconstrução de Habitação Própria e Permanente, no Loteamento Municipal Portela da Igreja - Barão de São Miguel
+
+A Presidente da Câmara Municipal de Vila do Bispo, Rute Maria Dias Maia Nunes da Silva, torna público, no cumprimento do disposto no artigo 139.º do [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, que a Assembleia Municipal aprovou a versão final do Regulamento Municipal para Alienação de 6 Lotes para Autoconstrução de Habitação Própria e Permanente, no Loteamento Municipal Portela da Igreja - Barão de São Miguel, em sessão ordinária do dia 25 de fevereiro de 2022, no âmbito da respetiva competência, conforme disposto na alínea g) do n.º 1 do artigo 25.º do anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 setembro, mediante proposta da Câmara Municipal, tomada em reunião do dia 14 de dezembro de 2021.
+
+O Regulamento foi objeto de consulta pública, nos termos do artigo 101.º do [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, materializado pelo [Edital n.º 1043/2021](https://diariodarepublica.pt/dr/detalhe/edital/1043-2021-171573612), publicado no Diário da República, 2.ª série, n.º 183, de 20 de setembro de 2021, tendo existido sugestões de que resultou a versão final aprovada do Regulamento que a seguir se transcreve, e entra em vigor no dia seguinte após a sua publicação, nos termos gerais.
+
+Para constar e devidos efeitos, se publica o presente Edital e outros de igual teor, que vão ser afixados nos locais públicos do costume, bem como publicado na 2.ª série do Diário da República e no site na página eletrónica da Câmara Municipal (www.cm-viladobispo.pt).
+
+2 de março de 2022. - A Presidente da Câmara Municipal, Rute Maria Dias Maia Nunes da Silva.
+
+Regulamento Municipal para Alienação de 6 Lotes para Autoconstrução de Habitação Própria e Permanente, no Loteamento Municipal Portela da Igreja - Barão de São Miguel
+
+Preâmbulo
+
+Pretendendo o executivo camarário promover um programa de revitalização económica e social do concelho, com o intuito de dinamizar e desenvolver o tecido rural e a economia local e promover a fixação de agregados familiares e o desenvolvimento sustentável.
+
+Dispondo o Município de Vila do Bispo de lotes de terreno, dos quais é dono e legítimo proprietário e que integram o domínio privado da autarquia, pode o mesmo proceder à sua alienação, no respeito pelo princípio da igualdade, da transparência e da prossecução do interesse público.
+
+A criação do presente regulamento pretende delinear critérios objetivos e claros, a fim de permitir que a alienação dos lotes de terreno, destinados a autoconstrução de habitação própria e permanente por parte dos adquirentes, se realize de forma justa e rigorosa para que todos os interessados acedam em igualdade de circunstâncias.
+
+Nestes termos e com as finalidades atrás enunciadas a Excelentíssima Assembleia Municipal e Câmara Municipal, ao abrigo do disposto nas alíneas h), i) e n) do n.º 2, do artigo 23.º conjugada com a alínea g) do n.º 1 do artigo 25.º e a alínea k) do n.º 1 do artigo 33.º do regime jurídico das autarquias locais, aprovado em anexo à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, aprova o presente regulamento.
+
+### CAPÍTULO I — Disposições Gerais
+
+###### Artigo 1.º — Norma habilitante
+
+O presente regulamento é elaborado nos termos e ao abrigo do n.º 7 do artigo 112.º, e artigo 241.º da Constituição da República Portuguesa e ainda de harmonia com o que dispõe as alíneas h), i) e n) do n.º 2 do artigo 23.º, conjugadas com a alínea k) do n.º 1 do artigo 33.º e com a alínea g) do n.º 1 do artigo 25.º do regime jurídico das autarquias locais, aprovado pela [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro.
+
+###### Artigo 2.º — Objeto
+
+O presente regulamento estabelece e define as regras de acesso à alienação, em propriedade plena dos lotes de terrenos localizados na freguesia de Barão de São Miguel, propriedade do Município e destinados à autoconstrução de habitação própria permanente.
+
+###### Artigo 3.º — Destinatários
+
+1 - A alienação dos lotes a que se refere o presente regulamento tem por destinatários, pessoas singulares, nacionais ou estrangeiros, maiores de 18 anos, e que sejam residentes no concelho há mais de dois anos ou que embora não residentes mantenham relação laboral no mesmo há pelo menos dois anos e que:
+
+a) Não possuam habitação própria;
+
+b) Não possuam terreno apto para a construção de habitação;
+
+2 - No caso de cônjuges, ou situação equiparada, nos termos da [Lei n.º 7/2001](https://diariodarepublica.pt/dr/detalhe/lei/7-2001-314194), de 11 de maio, na redação da [Lei n.º 23/2010](https://diariodarepublica.pt/dr/detalhe/lei/23-2010-343919), de 30 de agosto, quando o agregado familiar não seja residente no concelho, poderá ser candidato desde que um dos membros do casal mantenha relação laboral no concelho há mais de 2 anos, e desde que ambos preencham os requisitos das alíneas a) e b) do n.º 1.
+
+###### Artigo 4.º — Edificação dos Lotes
+
+A realização de qualquer operação urbanística nos lotes a alienar deve observar as normas legais e regulamentares que lhe forem aplicáveis, designadamente as constantes do Plano Diretor Municipal, no alvará de loteamento, no regime jurídico de urbanização e edificação, do regime jurídico aplicável à gestão de resíduos de construção e as normas técnicas de construção referidas no Capítulo III (Das Normas e Limites à Construção e ao Uso), estabelecidos no presente regulamento.
+
+###### Artigo 5.º — Gestão e Desenvolvimento do Procedimento
+
+1 - O desenvolvimento do procedimento de alienação previsto no presente regulamento incumbe exclusivamente à Câmara Municipal de Vila do Bispo, através da subunidade orgânica habitação, em articulação com a Divisão de Gestão Municipal, ou às unidades orgânicas a quem, no âmbito da estrutura nuclear e flexível, sejam cometidas atribuições no âmbito do presente regulamento.
+
+2 - A abertura do procedimento de alienação, prevista no capítulo seguinte do presente regulamento compete à subunidade orgânica habitação.
+
+3 - As competências decisórias previstas no presente regulamento são exercidas pela Câmara Municipal de Vila do Bispo, sem prejuízo da faculdade de delegação no seu presidente e subdelegação deste no eleito com competência na área da habitação.
+
+### CAPÍTULO II — Procedimento de Atribuição dos Lotes
+
+###### Artigo 6.º — Publicitação
+
+O procedimento inicia-se por deliberação da Câmara Municipal a publicitar através de edital e nos termos do artigo 56.º do regime jurídico das autarquias locais, aprovado em anexo à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, bem como por outros meios que se considerem convenientes, devendo constar:
+
+a) A indicação da data de abertura do procedimento e respetivo prazo de entrega de candidaturas;
+
+b) A identificação dos lotes, localização, área, quantidade e características;
+
+c) Tipo e características das habitações a construir;
+
+d) O local onde podem ser consultadas as normas, bem como as regras que regem a construção e edificação, e uso dos lotes;
+
+e) O uso a que o mesmo se destina, bem como o número de pisos de construção permitidos;
+
+f) A indicação do preço por metro quadrado (m2) e preço total de cada lote de terreno a alienar e a modalidade de pagamento;
+
+g) Referência à cláusula de inalienabilidade;
+
+h) A indicação do valor a prestar por caução, e a forma de a prestar;
+
+i) Os critérios de seleção para atribuição de lotes;
+
+j) A indicação do prazo da validade do procedimento;
+
+k) Outros elementos considerados relevantes, como seja a composição do Júri.
+
+###### Artigo 7.º — Candidatura
+
+1 - As candidaturas devem ser formalizadas através do formulário anexo ao presente regulamento - anexo I.
+
+2 - O formulário mencionado no ponto anterior deve ser obrigatoriamente acompanhado dos seguintes documentos:
+
+a) Fotocópia do cartão de cidadão ou, em alternativa, do bilhete de identidade e cartão de identificação fiscal, do candidato e de todos os elementos do agregado familiar;
+
+b) Fotocópia da cédula pessoal ou boletim de nascimento, no caso de menores que não possuam outro documento de identificação;
+
+c) Fotocópia de título válido de permanência em território nacional ou documento equivalente;
+
+d) Atestado de residência que comprove a composição do agregado familiar e sua residência há mais de 2 anos no concelho;
+
+e) Fotocopia do contrato de trabalho ou documento comprovativo emitido pela entidade patronal como exerce atividade profissional no concelho há mais de 2 anos;
+
+f) Certidão emitida há menos de 3 meses pela Autoridade Tributária e Aduaneira, com a identificação dos bens imóveis em nome do requerente e dos demais elementos do agregado familiar;
+
+g) Certidões emitidas há menos de 3 meses pelos serviços de Autoridade Contributiva e Aduaneira e Segurança Social, em como o candidato e respetivo agregado familiar tem a sua situação tributária e contributiva regularizada;
+
+h) Documento comprovativo da inexistência de dívidas ao Município de Vila do Bispo.
+
+###### Artigo 8.º — Falta de documentos
+
+1 - Caso, após análise dos documentos que instruem a candidatura, se constate a falta de documentos, ou surjam dúvidas, o titular da candidatura será notificado para, no prazo de cinco dias úteis prestar esclarecimentos ou entregar os documentos solicitados.
+
+2 - A falta de comparência, quando solicitada, ou a falta de entrega de elementos, no prazo estabelecido, implica a desistência do candidato, salvo se devidamente justificada, o que implica, nesta situação a imediata suspensão da candidatura.
+
+3 - Para efeitos do número anterior consideram-se causas justificativas, desde que documentalmente comprovadas, as seguintes:
+
+a) Doença própria ou de elemento do agregado familiar a quem preste assistência inadiável e imprescindível;
+
+b) O exercício de atividade laboral ou a realização de diligências com vista à sua obtenção;
+
+c) O cumprimento de obrigações legais;
+
+d) Qualquer outro motivo considerado atendível.
+
+4 - A subunidade orgânica gestora pode, em caso de dúvida relacionada com a candidatura, realizar todas as diligências necessárias com vista a aferir a sua veracidade, podendo, inclusive, solicitar às entidades ou serviços competentes a confirmação dos referidos elementos.
+
+5 - Durante a vigência do procedimento ou sempre que se verifiquem alterações supervenientes de residência, de composição do agregado familiar, é obrigação do candidato informar a Câmara Municipal de Vila do Bispo, dos dados atualizados, através de formulário adequado, em termos similares ao referido no n.º 1 do artigo anterior, a fim de que o processo se mantenha atualizado.
+
+###### Artigo 9.º — Validade da Candidatura
+
+1 - As candidaturas apresentadas nos termos do artigo 7.º são válidas para todos os procedimentos de alienação que se realizem no prazo de um ano a contar da data de homologação da lista definitiva de atribuição dos lotes, que será elaborada após a realização de um sorteio para atribuição individual de lotes.
+
+2 - Os concorrentes que fiquem em situação de suplência serão considerados pela ordem determinada para a atribuição dos lotes nos termos do presente regulamento, e que por qualquer razão, fiquem disponíveis antes da abertura de novo procedimento de atribuição e dentro do prazo de validade referido no número anterior.
+
+3 - Para efeitos dos números anteriores os concorrentes em situação de suplência só serão definitivamente incluídos no respetivo procedimento de alienação, após confirmarem por escrito o seu interesse, após notificação.
+
+4 - Em caso de confirmação, deverão os serviços proceder à verificação se as condições de acesso ao procedimento se mantém.
+
+###### Artigo 10.º — Lista Provisória
+
+1 - Findo o prazo de apresentação de candidaturas e realizadas todas as diligências probatórias que se julguem necessárias, a subunidade orgânica gestora do procedimento, elabora a lista provisória de ordenação dos candidatos, por ordem de entrada de candidatura nos serviços municipais, tendo sempre por referência o limite do número de lotes.
+
+2 - Existindo um número de candidaturas superiores ao número de lotes disponíveis, as mesmas ficarão em situação de suplência pelo período de validade do procedimento.
+
+###### Artigo 11.º — Atribuição Individual dos Lotes
+
+1 - A atribuição individual dos lotes por candidatura é feita através de sorteio, em sede de ato público, com data e hora a definir pelos serviços municipais.
+
+2 - Os candidatos interessados serão previamente convocados, através de carta registada com aviso de receção, para estarem presentes no ato público onde serão sorteados os lotes.
+
+3 - Será permitida a troca de lotes entre candidatos, desde que ocorra anuência de partes, devendo esse ato ser formalizado com documento escrito outorgado por ambas as partes, e constar no processo.
+
+###### Artigo 12.º — Receção de Candidaturas em Número Inferior ao Número de Lotes
+
+1 - Existindo candidaturas em número inferior ao número de lotes disponíveis, o procedimento prossegue os trâmites regulamentares mencionados nos artigos anteriores.
+
+2 - Os lotes que se mantenham por alienar poderão vir a ser atribuídos por decisão da Câmara Municipal, desde que o interessado cumpra com todos os requisitos previstos no presente regulamento.
+
+3 - O pedido de alienação de "lote disponível" deverá ser efetuado por requerimento dirigido ao Presidente da Câmara Municipal, e devidamente instruído com os documentos mencionados no n.º 2 do artigo 7.º do presente regulamento.
+
+###### Artigo 13.º — Desistência e Exclusão Preliminar
+
+1 - Considera-se que existe desistência da candidatura sempre que:
+
+a) O candidato seja notificado para prestar esclarecimentos ou para apresentação de documentos e não o faça dentro do prazo estabelecido, sem que seja apresentada justificação aceitável para o incumprimento;
+
+b) Não seja prestada caução no prazo estabelecido sem que seja apresentada justificação aceitável para a sua não prestação;
+
+c) Por manifestação de vontade do candidato.
+
+2 - Sem prejuízo da desistência prevista no ponto anterior, são excluídos do procedimento os candidatos que prestem falsas ou inexatas declarações, sem prejuízo da responsabilidade criminal ou civil que ao caso couber.
+
+3 - Em caso de desistência ou de exclusão, o candidato é substituído pelo candidato que se encontre imediatamente a seguir na lista de suplência.
+
+###### Artigo 14.º — Reclamações
+
+1 - A todos os candidatos, na sua qualidade de interessados, será reconhecido, nos termos do n.º 1 do artigo 121.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, o exercício de serem ouvidos, no prazo de dez dias úteis a contar da data de notificação.
+
+2 - A audiência do interessado deve ocorrer, obrigatoriamente, após a elaboração da Lista Provisória e da Lista de suplência.
+
+3 - No ato público do sorteio, as reclamações serão apresentadas oralmente pelo interessado e ficarão lavradas em ata, bem como todas as decisões que lhe digam respeito.
+
+4 - Dos atos praticados pelo júri do procedimento, cabe recurso hierárquico para a Câmara Municipal.
+
+###### Artigo 15.º — Lista Definitiva
+
+1 - Após a realização do sorteio, o júri do procedimento elabora a lista definitiva submetendo-a, no prazo de 20 dias úteis, à aprovação do órgão executivo camarário.
+
+2 - A lista definitiva é publicitada nos termos definidos no artigo 6.º do presente regulamento.
+
+###### Artigo 16.º — Prestação de Caução
+
+1 - Após homologação da Lista definitiva, os candidatos são notificados para a prestação de caução, correspondente a 10 % do preço total do lote, a cuja aquisição se candidatou, contra a emissão de documento comprovativo, a efetuar na Tesouraria da Câmara Municipal de Vila do Bispo.
+
+2 - A quantia a que se refere o número anterior assumirá a natureza de princípio de pagamento, vulgarmente designado por sinal, sendo deduzida no preço do lote, aquando da celebração da escritura de compra e venda.
+
+3 - Em caso de desistência apresentada pelo candidato antes da celebração do contrato de compra e venda, ou ainda em caso de preterição de concorrente, o candidato terá direito à devolução do montante da caução prestada.
+
+4 - O valor da caução reverte, na íntegra, para o Município de Vila do Bispo, quando, após a atribuição do lote, ocorra a exclusão do candidato, nos termos do n.º 2 do artigo 13.º do presente regulamento.
+
+### CAPÍTULO III — Das Normas e Limites à Construção e ao Uso
+
+O regulamento apenso à planta síntese, referente à Alteração n.º 1 ao Alvará de Loteamento urbano Portela da Igreja, em Barão de São Miguel, estabelece os princípios e as regras a que devem obedecer todas as intervenções de caráter urbanístico e arquitetónico, na sua área de intervenção, assim como a ocupação, o uso e as condições gerais de edificação e arranjos de espaços exteriores privados.
+
+###### Artigo 17.º — Conceitos e Definições
+
+1 - Para efeitos de aplicação do presente regulamento são considerados os conceitos urbanísticos e de ordenamento estabelecidos no Regulamento do Plano Diretor Municipal de Vila do Bispo, no Regulamento Municipal de Urbanização e Edificação de Vila do Bispo (RMUE) e no Regime Jurídico da Urbanização e Edificação (RJUE), aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual.
+
+2 - Os parâmetros de edificabilidade são os constantes no quadro sinóptico apenso à planta síntese anexa ao Alvará de Loteamento.
+
+###### Artigo 18.º — Planta Síntese
+
+A planta síntese estabelece, o desenho urbano, os lotes, os afastamentos, os recuos e o polígono máximo para a implantação das edificações, a localização do acesso automóvel ao interior dos lotes, a natureza e localização dos equipamentos, dos espaços verdes e de outros espaços de utilização coletiva, e o quadro sinóptico.
+
+###### Artigo 19.º — Quadro Sinóptico
+
+O quadro sinóptico, inserido na planta síntese específica para cada lote: a área do lote, a área máxima de implantação, a área máxima de construção, a área máxima de garagem, o número máximo de pisos, o número máximo de fogos e a utilização dos edifícios.
+
+###### Artigo 20.º — Implantação das Edificações
+
+A implantação das edificações está delimitada pelo polígono máximo de implantação que define: os recuos (mínimos e obrigatórios), os afastamentos mínimos aos limites dos lotes.
+
+###### Artigo 21.º — Altura da fachada - Altura da Edificação - Cota de Soleira - Pisos
+
+1 - Altura da fachada principal (Hf1) - Não pode ultrapassar os 6,50 m, devendo predominar a solução arquitetónica com o uso de cobertura plana, sendo admitida uma guarda transparente até 0,70 m (acima dos 6,50m) de altura, recuada da fachada com o mínimo de 1,50 m (acesso à zona técnica).
+
+2 - Altura da fachada Tardoz (Hf2) - Não pode ultrapassar os 6,50 m para soluções de arquitetura com uso de cobertura inclinada em telha. E para as soluções com uso de cobertura plana, sendo admitida uma guarda transparente até 0,70 m (acima dos 6,50m) de altura, recuada da fachada com o mínimo de 1,50 m (acesso à zona técnica).
+
+3 - Altura da edificação - Não pode ultrapassar os 6,50 m. Nas soluções de arquitetura com uso de cobertura plana, as guardas transparentes não são contabilizadas para efeitos de altura de edificação, quando recuadas pelo menos 1,50 m relativamente à fachada.
+
+4 - Cota de soleira - É a cota altimétrica da soleira da entrada principal do edifício.
+
+5 - Número de Pisos - todos os edifícios têm no máximo 2 pisos, sendo obrigatório na fachada principal a construção dos 2 pisos, de forma a garantir uma harmonia de conjunto.
+
+###### Artigo 22.º — Cave
+
+Não é permitida a construção de caves.
+
+###### Artigo 23.º — Vedações - Muros e Muros Técnicos
+
+1 - As vedações laterais e tardoz podem ser em alvenaria/betão ou sebe vivas, devendo a altura das mesmas dar cumprimento ao disposto no artigo 15.º do RMUE.
+
+2 - Muros Técnicos: Existentes.
+
+###### Artigo 24.º — Construções e Garagens
+
+1 - Garagens - A construção de garagens apenas se podem localizar dentro do polígono definido na planta síntese para o efeito.
+
+a) A sua localização e implantação tem de se alinhar com a localização do acesso automóvel ao interior do lote, estabelecida na planta síntese do Alvará de Loteamento;
+
+b) A altura máxima não deve ultrapassar os 2,50 m.
+
+2 - Anexos - Apenas se podem localizar dentro do polígono base de implantação.
+
+a) Não são contabilizados para efeitos da área de construção:
+
+i) Barbecue, que não configurem uma construção exterior coberta.
+
+3 - Painéis Solares - Ar Condicionado - Estendais:
+
+a) Estes equipamentos devem ser enquadrados nas características formais da construção, evitando ao máximo, a sua visualização do exterior, e devem constar no projeto de arquitetura a sujeitar a licenciatura ou comunicação prévia.
+
+###### Artigo 25.º — Logradouros dos Lotes
+
+Os logradouros dos lotes constituem um complemento dos espaços exteriores públicos e têm funções de estar, lazer e de qualificação da paisagem.
+
+###### Artigo 26.º — Revestimentos - Cor
+
+1 - Os materiais a utilizar na construção das edificações, deverão privilegiar materiais de acabamento natural ou reboco pintado.
+
+2 - Os indicadores relativos às cores a utilizar nas construções, devem estar associados aos tons tradicionais, conotados com a localização geográfica, de cariz mediterrânico, devendo-se recorrer a uma matriz cromática dominada pelo branco;
+
+a) Para a harmonização do conjunto habitacional, podem utilizar-se pequenos apontamentos de cor e utilização de materiais, como a madeira ou pedra.
+
+###### Artigo 27.º — Utilização dos Edifícios Alteração de uso
+
+Os lotes são destinados exclusivamente para habitação.
+
+###### Artigo 28.º — Áreas permeáveis nos logradouros
+
+A área permeável deve ser, no mínimo, equivalente a 25 % da área total dos lotes.
+
+###### Artigo 29.º — Coberturas
+
+1 - As coberturas podem ser planas ou inclinadas. No caso de serem:
+
+a) Planas - Devem ter em consideração a sua integração urbana e arquitetónica.
+
+i) Poderão ser em terraço, ajardinadas, acessíveis ou não.
+
+ii) O acesso, a existir, deverá ser efetuado preferencialmente pelo exterior.
+
+iii) Caso se opte por acesso pelo interior do edifício, deverá ser encontrada solução de modo a que não exista um volume na cobertura (que evita a entrada de água dentro do edifício)
+
+b) Inclinadas - Devem ter em consideração a sua integração urbana e arquitetónica.
+
+i) Serão preferencialmente em telha de cor natural.
+
+ii) Pode existir o eventual aproveitamento do sótão, cuja área não deve ter pé-direito regulamentar
+
+2 - A opção da tipologia da cobertura deverá ter especial cuidado, dado que os lotes são geminados 1/2 - 3/4 - 5/6, entre os conjuntos de 2 a interligação entre lotes é feita através da garagem, pelo que deverá conferir um conjunto harmonioso e cuidado.
+
+###### Artigo 30.º — Platibandas e Beirados
+
+O limite superior das fachadas poderá ser definido através de:
+
+a) Platibanda;
+
+b) Beirado que se poderá projetar para além do plano de fachada, no máximo 0,50 m.
+
+c) A opção da colocação de platibanda e sua tipologia, bem como a tipologia do beirado, deverá ter especial cuidado dado que os lotes são geminados 1/2 - 3/4 - 5/6, entre os conjuntos de 2 a interligação entre lotes é feita através da garagem, que deverá conferir um conjunto harmonioso e cuidado.
+
+### CAPÍTULO IV — Transmissão da Propriedade
+
+###### Artigo 31.º — Contrato de Compra e Venda
+
+1 - No contrato de compra venda do lote devem constar, obrigatoriamente, de modo expresso e inequívoco, as condições, obrigações, restrições de construção e de uso, previstas no capítulo anterior.
+
+2 - Para efeitos da celebração do contrato de compra e venda, o candidato será contactado pela Divisão de Gestão Municipal, para agendamento do dia, local e hora da realização do mesmo.
+
+3 - As despesas com a realização do contrato de compra e venda e registo predial são da responsabilidade do adquirente.
+
+###### Artigo 32.º — Prazo para a Celebração dos Contratos de Compra e Venda
+
+1 - Os candidatos constantes da Lista definitiva são notificados do ato de atribuição, que ocorre com a homologação da Lista Definitiva, sendo-lhes simultaneamente concedido o prazo de trinta dias corridos, a contar da data da aludida notificação, para proceder à data da entrega de documentação necessária, na respetiva unidade orgânica/subunidade orgânica competente.
+
+2 - O contrato de compra e venda será celebrado no prazo máximo de 120 dias a contar da notificação da atribuição dos lotes de terreno, em data a indicar pela unidade orgânica respetiva, mediante notificação, com uma antecedência mínima de 15 dias em relação à realização do ato.
+
+###### Artigo 33.º — Fixação do Preço
+
+1 - O preço de venda dos lotes será fixado, por deliberação da Câmara Municipal, tendo em conta o valor do terreno, o custo das infraestruturas e equipamentos.
+
+2 - Para efeitos do número anterior a Câmara Municipal tem em vista a compatibilização da natureza do programa lançado ao abrigo do presente regulamento, como seja a fixação de agregados familiares no concelho, de forma a atingir o equilíbrio financeiro.
+
+###### Artigo 34.º — Liquidação do Preço
+
+1 - A liquidação do preço total do lote é realizado da seguinte forma:
+
+a) 10 % do valor total do lote, após a aprovação da lista definitiva, através de prestação de caução;
+
+b) Pagamento do remanescente do valor no ato da celebração do contrato de compra e venda.
+
+2 - Em situações excecionais de caráter económico e social, devidamente fundamentadas e comprovadas, que impeçam o candidato de cumprir o pagamento indicado na alínea b) do ponto anterior, na sua totalidade, poderá este solicitar fundamentadamente, até aos 15 dias anteriores à data da celebração do contrato de compra e venda, o pagamento da parte remanescente do preço, em prestações mensais, em número a definir pela Câmara Municipal.
+
+3 - Nos casos em que haja deferimento dos pedidos de pagamento em prestações a que se refere o número anterior, a primeira prestação é sempre liquidada no ato do contrato, vencendo-se as restantes do dia um a oito do mês seguinte, até à total liquidação do preço.
+
+4 - Para efeitos do disposto nos números 2 e 3 do presente artigo a transmissão plena do direito de propriedade concretiza-se mediante a celebração do contrato de compra e venda sujeita a condição suspensiva.
+
+5 - A condição suspensiva prevista no número anterior implica que a propriedade fique reservada a favor do Município até ao cumprimento total das obrigações inerentes ao pagamento integral do preço de venda do imóvel.
+
+6 - Do respetivo contrato de compra e venda, bem como do inerente registo predial, deverá expressamente constar a cláusula de transmissão do direito de propriedade sob condição suspensiva, nos termos constantes do presente artigo.
+
+7 - A qualquer momento o adquirente pode amortizar o pagamento total do preço em falta, antecipando, sem encargos adicionais, o termo da condição suspensiva de contrato de compra e venda.
+
+8 - O incumprimento da 2.ª prestação implica a resolução do contrato, bem como a perda a favor do Município das quantias já entregues, com a consequente e imediata desocupação e entrega do imóvel.
+
+9 - A decisão sobre os pedidos de pagamento em prestações consubstancia uma competência exclusiva da Câmara Municipal.
+
+### CAPÍTULO V — Ónus de Inalienabilidade e Direito de Preferência
+
+###### Artigo 35.º — Inalienabilidade
+
+1 - A venda dos lotes e as construções neles edificados está sujeita a uma cláusula de inalienabilidade pelo período de cinco anos, contados a partir da data da celebração do contrato de compra e venda.
+
+2 - Em casos excecionais, devidamente fundamentados e aceites pela Câmara Municipal, podem ser efetuadas transmissões inter vivos dos lotes e respetivas construções neles edificados antes do decurso do prazo referido no número anterior.
+
+3 - O ónus de inalienabilidade deve constar obrigatoriamente do contrato de compra e venda, bem como do inerente registo predial.
+
+4 - O ónus de inalienabilidade indicado no número anterior cessa, salvo se outro regime decorrer da legislação aplicável:
+
+a) Ocorrendo a morte ou invalidez permanente e absoluta do adquirente;
+
+b) Venda em execução fiscal;
+
+c) Venda por execução de dividas contraídas com a aquisição do próprio lote e desde que este tenha sido dado como garantia do crédito obtido;
+
+d) Automaticamente por decurso do prazo previsto no n.º 1 do presente artigo.
+
+5 - O ónus de inalienabilidade é cancelado mediante certidão da Câmara Municipal.
+
+###### Artigo 36.º — Direito de Preferência
+
+O Município de Vila do Bispo gozará sempre do direito de preferência, em primeiro grau, na alienação por ato inter vivos, dos lotes e das construções edificadas.
+
+###### Artigo 37.º — Perda do Direito de Aquisição do Lote
+
+1 - A falta de apresentação da documentação exigida, no prazo indicado, ou a falta de comparência no ato da celebração do contrato de compra e venda, implica a exclusão do procedimento de alienação com a consequente perda do direito à aquisição do lote que lhe foi atribuído.
+
+2 - Excluem-se do número anterior as situações aos quais o candidato apresente requerimento no qual indique motivos atendíveis do incumprimento, e, estes, sejam considerados justificados pela Câmara Municipal.
+
+3 - O não pagamento de uma prestação, no caso previsto no artigo 34.º, seguida ou interpolada, implica o vencimento imediato das restantes e determina a resolução do contrato nos termos do presente regulamento, bem como a perda a favor do Município das quantias já entregues, com a consequente e imediata entrega do imóvel.
+
+###### Artigo 38.º — Resolução do Contrato e Reversão do Direito de Propriedade
+
+1 - O incumprimento do estatuído no Capítulo III do presente regulamento confere ao Município de Vila do Bispo o direito à resolução unilateral, sem direito à restituição das quantias recebidas a título de pagamento do lote ou a qualquer indemnização, do contrato de compra e venda do lote.
+
+2 - A resolução operada nos termos do número anterior concede ao Município o direito de intentar ação judicial com vista ao cancelamento da inscrição da propriedade a favor do então adquirente, mediante deliberação expressa nesse sentido.
+
+###### Artigo 39.º — Integração de Lacunas
+
+Sem prejuízo da legislação aplicável, as dúvidas e omissões surgidas no âmbito de aplicação do presente Regulamento são resolvidas mediante deliberação da Câmara Municipal.
+
+###### Artigo 40.º — Norma Revogatória
+
+São expressamente revogadas todas as disposições e procedimentos de carácter municipal que contrariem o disposto no presente regulamento.
+
+###### Artigo 41.º — Entrada em Vigor
+
+O presente regulamento entra em vigor no dia seguinte após a sua publicação, nos termos gerais.
+
+## ANEXO I — Formulário de Candidatura
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/03/057000000/0041500430.pdf)
+
+## ANEXO II — Declaração de Consentimento para a Recolha e Tratamento dos Dados Pessoais
+
+(recolhidos junto do titular dos dados)
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/03/057000000/0041500430.pdf)
+
+315090992

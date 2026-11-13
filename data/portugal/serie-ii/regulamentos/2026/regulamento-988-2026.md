@@ -1,0 +1,194 @@
+---
+schema_version: '1.0'
+id: pt:dre:1152437046:por
+title: Regulamento n.º 988/2026
+short_title: null
+summary: Alteração do Regulamento de Avaliação de Desempenho do Pessoal Docente da Universidade de Aveiro.
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Universidade de Aveiro
+proposing_entity: null
+official_number: 988/2026
+official_date: null
+publication_date: '2026-07-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/2026, Série II de 2026-07-27
+  number: '143'
+  series: II
+  supplement: null
+  pages: 148 - 151
+  pdf_url: https://files.diariodarepublica.pt/2s/2026/07/143000000/0014800151.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1152437046'
+  dre_path: /dr/detalhe/regulamento/988-2026-1152437046
+  internal: pt:dre:1152437046:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/988-2026-1152437046
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/988-2026-1152437046
+  consolidated_url: null
+  retrieved_at: '2026-11-13T08:43:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9fadbb837847924ea5133ead39b037bbb57f977659d6de5751563661f13e58a2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T08:43:43Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:905624756:por
+  label: null
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T08:43:43Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 988/2026
+
+Alteração do Regulamento de Avaliação de Desempenho do Pessoal Docente da Universidade de Aveiro
+
+No seguimento da publicação do Despacho n.º 302/2026, publicado no Diário da República n.º 5, 2.ª série, de 8 de janeiro, que aprovou a alteração ao Regulamento de Avaliação de Desempenho do Pessoal Docente da Universidade de Aveiro, constatou-se que algumas tabelas continham diversos lapsos, que carecem da devida conformação.
+
+Assim, ouvidos o Conselho Científico e o Conselho Coordenador da Avaliação de Desempenho da Universidade, e promovida a discussão pública do projeto de Regulamento, conforme estabelecido no n.º 3, do artigo 110.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, em harmonia com os normativos consagrados sobre esta matéria no Código do Procedimento Administrativo, em especial no artigo 101.º, e ouvidas as organizações sindicais, de acordo com o previsto nos Estatutos das Carreiras, é, nos termos das alíneas c), d) e m), do n.º 3, do artigo 23.º dos Estatutos da Universidade de Aveiro, na versão homologada pelo [Despacho Normativo n.º 2/2025](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2025-905624756), publicado no Diário da República n.º 22, 2.ª série, de 31 de janeiro, aprovado pelo Reitor da Universidade de Aveiro o seguinte:
+
+###### Artigo 1.º — Alterações
+
+As tabelas n.os31, 32 e 34 do Anexo III do Regulamento de Avaliação de Desempenho do Pessoal Docente da Universidade de Aveiro passam a ter a redação seguinte:
+
+Tabela 31
+
+| Cargos de órgãos da Universidade | \| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1152437046/1152436967.png) \|<br>\| --- \| |
+| --- | --- |
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1152437046/1152436967.png) |  |
+| Vice-Reitor | 10 |
+| Pró-Reitor | 8 |
+| Secretário do Conselho Geral (CG) | 2 |
+| Membro do CG | 1 |
+| Presidente do Conselho Científico (CC) | 6 |
+| Presidente Adjunto do CC | 4,5 |
+| Secretário do CC | 2 |
+| Membro de Comissão Permanente do CC | 1,5 |
+| Restantes membros do CC | 1 |
+| Presidente do Conselho Pedagógico (CP) | 6 |
+| Presidente Adjunto do CP | 4,5 |
+| Secretário do CP | 2 |
+| Membro de Comissão Permanente do CP | 1,5 |
+| Restantes membros do CP | 1 |
+| Membro do Conselho de Ética | 0,5 |
+| Presidente do Conselho de Ética | 3 |
+| Presidente da Comissão de Ética | 3 |
+| Secretário do Conselho de Ética | 1 |
+| Secretário da Comissão de Ética | 1 |
+| Membro da Comissão de Ética | 0,5 |
+| Presidente da Comissão Disciplinar | 1 |
+| Membro da Comissão Disciplinar | 0,5 |
+| Membro do CCADUA | 1 |
+| Membro do CCADIUA | 1 |
+| Secretário do Conselho de Diretores | 0,5 |
+
+Tabela 32
+
+| Cargos de órgãos de unidades transversais de ensino e ou de ensino e investigação e de unidades orgânicas de ensino e investigação | \| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1152437046/1152436968.png) \|<br>\| --- \| |
+| --- | --- |
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1152437046/1152436968.png) |  |
+| Diretor de Unidade Orgânica de Ensino e Investigação(N = n.º de docentes e investigadores membros integrados da UA e afetos à UO) | \| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1152437046/1152436969.png) \|<br>\| --- \| |
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1152437046/1152436969.png) |  |
+| Diretor da EDUA | 5 |
+| Membros da Comissão Executiva da Escola Doutoral (EDUA) | 3 |
+| Membros do Conselho da EDUA | 0,5 |
+| Vice-Diretor/Membro da Comissão Executiva de Escola Politécnica/ Departamento Universitário/Secção Autónoma | 5 |
+| Membro do Conselho de Escola Politécnica/Departamento Universitário | 1 |
+| Presidente da Comissão científica de Escola Politécnica/Departamento Universitário/Secção Autónoma | 5 |
+| Presidente da Comissão pedagógica de Escola Politécnica/Departamento Universitário/Secção Autónoma | 5 |
+| Membro da Comissão científica de Escola Politécnica/Departamento Universitário/Secção Autónoma | 1 |
+| Membro da Comissão pedagógica de Escola Politécnica/Departamento Universitário/Secção Autónoma | 1 |
+| Presidente do Instituto de Investigação | 6 |
+| Presidente do Instituto de Ensino e Aprendizagem | 6 |
+| Presidente do Instituto da Cooperação | 6 |
+| Diretor de Curso de 3.º ciclo | 4 + (alunos inscritos/40) |
+| Diretor de Mestrado Integrado | 4 + (alunos inscritos/200) |
+| Diretor de Curso de 2.º ciclo | 4 + (alunos inscritos/50) |
+| Diretor de Curso de 1.º ciclo | 4 + (alunos inscritos/100) |
+| Diretor de CTeSP/ CFE/CFA | 4 + (alunos inscritos/50) |
+| Diretor de curso de formação adicional | 0,5 |
+| Vice-Diretor de Curso de 3.º ciclo | 2 + (alunos inscritos/40) |
+| Vice-Diretor de Mestrado Integrado | 2 + (alunos inscritos/200) |
+| Vice-Diretor de Curso de 2.º ciclo | 2 + (alunos inscritos/50) |
+| Vice-Diretor de Curso de 1.º ciclo | 2 + (alunos inscritos/100) |
+| Vice-Diretor de CTeSP/ CFE/CFA | 2 + (alunos inscritos/50) |
+| Membro de Comissão Científica de cursos de 2.º e 3.º ciclos | 0,5 |
+| Outros membros das comissões de curso | 0,5 |
+| Membro de grupo ou comissão para avaliação institucional, para criação de cursos, unidades curriculares, ou outros, com apresentação de relatórios | 0,5 |
+
+Tabela 34
+
+| Outros cargos | \| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1152437046/1152436970.png) \|<br>\| --- \| |
+| --- | --- |
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1152437046/1152436970.png) |  |
+| Diretor do Centro Académico Clínico Egas Moniz Health Alliance | 5 |
+| Membro da Direção do Centro Académico Clínico Egas Moniz Health Alliance | 1 |
+| Membro do Conselho Científico e Estratégico do Centro Académico Clínico Egas Moniz Health Alliance | 1 |
+| Presidente da Comissão de Ética do Centro Académico Clínico Egas Moniz Health Alliance | 3 |
+| Membro da Comissão de Ética do Centro Académico Clínico Egas Moniz Health Alliance | 1 |
+| Cargos atribuídos pelos órgãos de gestão competentes e homologados pelo Reitor (e.g. LCA, ContinUA, LIQ, UNAVE, RMN, CITAQUA, CPRAM, CEPRAM,.) | 3 |
+| Cargos das entidades instrumentais e coadjuvantes previstas no artigo 9.º dos Estatutos da Universidade de Aveiro | 3 |
+| Coordenador do Laboratório Central de Análises | 3 |
+| Presidente da Comissão de Gestão da Fábrica Centro Ciência Viva | 3 |
+| Coordenador de Plataforma Tecnológica Multidisciplinar | 2 |
+| Cargos de gestão intermédia ao nível das unidades orgânicas de ensino e investigação (e.g.: pivots para as tecnologias, informática e comunicações; pivots para a área da transferência de tecnologia; pivot para RGPD (Regulamento geral de proteção de dados); coordenadores do programa Erasmus, responsável por laboratórios, responsável por programas de tutoria) | 1 |
+| Outros cargos de nomeação em representação da UA, designadamente membro do Conselho Geral de Escola do Ensino Básico e Secundário | 0,25 |
+
+###### Artigo 2.º — Entrada em vigor
+
+É aplicável o artigo 3.º do Despacho n.º 302/2026, de 8 de janeiro.
+
+10 de julho de 2026. - O Reitor, Artur Manuel Soares da Silva.
+
+320025425
+
+.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl7 { min-height:49px; } .Tbl8 { min-height:28px; } .Tbl9 { min-height:31px; } .Tbl10 { margin-left:28px; } .Tbl11 { margin-left:65px; } .Tbl12 { min-height:47px; }

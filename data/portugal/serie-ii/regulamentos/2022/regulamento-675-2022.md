@@ -1,0 +1,241 @@
+---
+schema_version: '1.0'
+id: pt:dre:186362029:por
+title: Regulamento n.º 675/2022
+short_title: null
+summary: Aprovação do Regulamento de Apoio à Natalidade no Município da Horta «Nascer no Faial»
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município da Horta
+proposing_entity: null
+official_number: 675/2022
+official_date: null
+publication_date: '2022-07-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 139/2022, Série II de 2022-07-20
+  number: '139'
+  series: II
+  supplement: null
+  pages: 489 - 495
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/07/139000000/0048900495.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '186362029'
+  dre_path: /dr/detalhe/regulamento/675-2022-186362029
+  internal: pt:dre:186362029:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/675-2022-186362029
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/675-2022-186362029
+  consolidated_url: null
+  retrieved_at: '2026-11-13T07:25:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5a0d218815dee4ce7c9ddcff6dfb779878e47d5453a5038cd2419b2d0dd9e8e6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T07:25:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+article_structure:
+  article_count: 16
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T07:25:49Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 675/2022
+
+Carlos Manuel da Silveira Ferreira, Presidente da Câmara Municipal da Horta, torna público, que a Assembleia Municipal da Horta, em sua sessão ordinária realizada em 22 de junho de 2022, no uso da competência que lhe é conferida pela alínea g), do n.º 1, do artigo 25.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, e depois de terem sido cumpridas as formalidades exigidas pelo Código do Procedimento Administrativo, designadamente no que se refere à consulta pública, aprovou o Regulamento de Apoio à Natalidade no Município da Horta «Nascer no Faial», que a seguir se transcreve.
+
+5 de julho de 2022. - O Presidente da Câmara, Carlos Manuel da Silveira Ferreira.
+
+Regulamento de Apoio à Natalidade no Município da Horta «Nascer no Faial»
+
+Nota Justificativa
+
+Considerando que a família constitui, no atual contexto socioeconómico, um espaço privilegiado de realização pessoal e de reforço da solidariedade intergeracional, sendo dever do Estado a cooperação, apoio e incentivo ao papel insubstituível que a mesma desempenha na comunidade;
+
+Considerando que as atuais tendências demográficas e as que se preveem para as décadas vindouras se traduzem num decréscimo significativo da taxa de natalidade, fará sentido implementar um conjunto de medidas especificamente direcionadas para as famílias, criando incentivos, no sentido de controlar e contrariar essa realidade e os problemas dela resultantes;
+
+Considerando que de acordo com os dados da PORDATA, na ilha do Faial, a taxa bruta de natalidade era de 17,7 % em 1981, passando para 7,1 % em 2020.
+
+Considerando que a baixa taxa de natalidade e o envelhecimento populacional têm provocado uma forte distorção na pirâmide geracional, com consequências negativas no desenvolvimento económico;
+
+Considerando a crescente intervenção dos Municípios no âmbito das políticas de ação social, no sentido de promover a melhoria da qualidade de vida dos Munícipes;
+
+Considerando que nos termos da lei compete às autarquias locais a promoção da resolução dos problemas que afetam as populações, principalmente aquelas que se encontram mais desprotegidas, mas também e simultaneamente fomentar políticas de incentivo à família enquanto célula fundamental de socialização e espaço privilegiado de realização pessoal, não obstante a sua condição socioeconómica;
+
+Entendeu a Câmara Municipal da Horta criar um apoio à natalidade com vista a promover, por um lado, a melhoria das condições de vida da população, em particular das crianças nos primeiros meses de vida, e por outro, a fomentar a economia do concelho, através da atribuição de «Vales Compra» para a realização de despesas relativas à criança em estabelecimentos comerciais do concelho, impulsionando, assim, os hábitos de consumo no mesmo;
+
+Considerando que no que respeita aos custos-benefícios que decorrerão da implementação do apoio à natalidade, se estima que a mesma possa abranger anualmente cerca de 100 famílias, tratando-se de uma ajuda importante para os orçamentos familiares, fomentando-se, ao mesmo tempo, o comércio local.
+
+Considerando que o presente programa se enquadra no âmbito do facto do Município ser considerado uma Cidade Educadora, na medida em que se está a mobilizar recursos, potenciando-os como forma de combater as desigualdades sociais, promovendo a igualdade de oportunidades aos munícipes, para além de se fomentar a solidariedade, a economia e natalidade no concelho;
+
+O presente Regulamento de Apoio à Natalidade no Município da Horta designado por «Nascer no Faial» foi elaborado nos termos do disposto nas normas dos artigos 241.º, da Constituição da República Portuguesa e 33.º, n.º 1, alíneas k) e u), da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023) de 12 de setembro, considerando as Grandes Opções do Plano aprovadas em Assembleia Municipal de trinta de dezembro de dois mil e vinte e um.
+
+O presente Regulamento foi aprovado em reunião da Câmara Municipal, de 2 de junho de 2022 e, posteriormente, em reunião da Assembleia Municipal da Horta de 22 de junho de 2022, sendo que o projeto de Regulamento foi submetido a apreciação pública, nos termos e para os efeitos do disposto no artigo 101.º do novo Código do Procedimento Administrativo.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O presente Regulamento estabelece as regras de atribuição do Apoio à Natalidade no concelho da Horta.
+
+###### Artigo 2.º — Lei Habilitante
+
+O presente Regulamento tem como lei habilitante o artigo 241.º da Constituição da República Portuguesa e os artigos 25.º, n.º 1, alínea g), e 33.º, n.º 1, alínea k), ambos do Regime Jurídico das Autarquias Locais, aprovado pela [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro.
+
+###### Artigo 3.º — Apoio à Natalidade
+
+1 - O apoio à natalidade reveste a forma de atribuição de um subsídio no valor de (euro) 500,00, por cada nascimento, a pagar em dez «Vales Compra» mensais de (euro) 50,00 (cinquenta euros).
+
+2 - O apoio à natalidade através dos «Vales Compra» destina-se a ser utilizado no comércio local do Município da Horta, com a aquisição de bens e/ou serviços considerados indispensáveis ao desenvolvimento saudável e harmonioso da criança.
+
+###### Artigo 4.º — Beneficiários
+
+1 - O presente Regulamento aplica-se às crianças nascidas a partir do dia 01 de janeiro de 2022.
+
+2 - São beneficiários do apoio os agregados familiares residentes no concelho da Horta, desde que preencham os requisitos constantes no presente Regulamento.
+
+3 - Podem requerer o apoio à natalidade:
+
+a) Os progenitores, em conjunto, caso sejam casados entre si ou vivam em união de facto, nos termos da lei;
+
+b) O progenitor a quem caiba, nos termos legais, o exercício das responsabilidades parentais sobre a criança e com quem esta resida;
+
+c) O progenitor junto de quem, em caso de divórcio ou separação judicial de pessoas e bens, tenha sido fixada a residência da criança e com quem esta resida;
+
+d) Qualquer pessoa singular ou agregado familiar a quem, por decisão judicial ou administrativa das entidades ou organismos legalmente competentes, a criança esteja confiada e com quem a mesma resida.
+
+###### Artigo 5.º — Condições Gerais de Atribuição
+
+São condições cumulativas de atribuição do apoio:
+
+a) Que a criança se encontre registada como natural do concelho da Horta;
+
+b) Que o requerente ou requerentes do direito ao apoio residam no concelho da Horta, no mínimo, há seis (6) meses contínuos contados da data do nascimento da criança;
+
+c) Que a criança resida, efetivamente, com o requerente ou requerentes;
+
+d) Que o requerente ou requerentes do apoio tenham a situação regularizada perante o Município, a Segurança Social e a Autoridade Tributária.
+
+### CAPÍTULO II — Das candidaturas
+
+###### Artigo 6.º — Candidatura
+
+A candidatura ao apoio à natalidade deve ser instruída com os seguintes documentos, a entregar no Serviço de Ação Social da Câmara Municipal da Horta:
+
+a) Formulário de candidatura devidamente preenchido e assinado, disponível para o efeito na Câmara Municipal e em www.cmhorta.pt;
+
+b) Fotocópia do Cartão do Cidadão do(s) requerente(s);
+
+c) Atestado que comprove a composição do agregado familiar e da sua residência permanente no Concelho, há, pelo menos, 6 meses, emitido pela Junta de Freguesia da sua área de residência;
+
+d) Fotocópia da certidão de nascimento ou documento comprovativo do registo da criança;
+
+e) Fotocópia do Cartão de Cidadão da Criança;
+
+f) Comprovativo da situação regularizada perante a Segurança Social e a Autoridade Tributária;
+
+g) Outros documentos considerados necessários à análise da candidatura.
+
+###### Artigo 7.º — Prazo de Candidatura
+
+1 - A candidatura deve ser apresentada até sessenta (60) dias contados a partir da data de nascimento da criança, salvo no caso das situações previstas na alínea d) do n.º 3 do artigo 4.º, nas quais o prazo se conta a partir da notificação das entidades competentes.
+
+2 - Constitui, ainda, exceção ao previsto no número anterior as situações clinicamente comprovadas que impossibilitem o requerente ou requerentes do cumprimento dos prazos mencionados.
+
+3 - Para as crianças nascidas desde o dia 01 de janeiro de 2022 até à data de entrada em vigor do presente Regulamento, o prazo de sessenta dias conta-se a partir da data de entrada em vigor deste Regulamento.
+
+4 - Os prazos referidos no presente artigo são contínuos.
+
+###### Artigo 8.º — Apreciação das candidaturas
+
+1 - A candidatura devidamente instruída com todos os elementos, será analisada pelo Serviço de Ação Social do Município da Horta que elabora um relatório onde define se o requerente ou requerentes cumprem os requisitos constantes do presente Regulamento para poderem beneficiar do apoio solicitado.
+
+2 - Em caso de dúvida, os técnicos do Serviço de Ação Social podem efetuar diligências complementares que se considerem adequadas ao apuramento da veracidade das informações prestadas para avaliação do processo.
+
+###### Artigo 9.º — Decisão
+
+1 - A decisão de que o requerente ou requerentes aos apoios reúnem as condições estabelecidas no presente Regulamento será submetido a despacho do Presidente da Câmara Municipal.
+
+2 - O requerente ou os requerentes serão notificados por escrito, no prazo máximo de 15 dias após a instrução completa do processo, da decisão que recair sobre o pedido de atribuição do apoio, devendo, em caso de indeferimento, ser esclarecidos os fundamentos da não atribuição.
+
+3 - Caso a proposta de decisão seja de indeferimento, o requerente ou requerentes podem reclamar no prazo de dez dias úteis, após receção do ofício da decisão, devendo as reclamações ser dirigidas ao Presidente da Câmara Municipal.
+
+4 - A reavaliação do processo e resultado da reclamação será posteriormente comunicado ao requerente ou requerentes no prazo de dez dias úteis.
+
+###### Artigo 10.º — Despesas elegíveis
+
+São elegíveis as despesas realizadas em estabelecimentos comerciais aderentes ao «Nascer no Faial», com sede ou domicílio fiscal no concelho da Horta, em bens e/ou serviços considerados indispensáveis ao desenvolvimento da criança, nomeadamente frequência de creche ou similar, consultas médicas, medicamentos, carros de passeio, cadeiras auto, artigos de higiene, puericultura, alimentação, vestuário e calçado.
+
+###### Artigo 11.º — Pagamento do Apoio
+
+1 - Após a notificação da decisão de aprovação da candidatura, o requerente ou requerentes devem dirigir-se ao Serviço de Ação Social do Município da Horta para receberem o primeiro lote de cinco (5) «Vales Compra».
+
+2 - A entrega do segundo lote de cinco (5) «Vales Compra» ao requerente ou requerentes apenas ocorrerá ao sexto mês ou seguintes após o nascimento da criança.
+
+###### Artigo 12.º — Encargos
+
+Os encargos resultantes da aplicação do presente Regulamento serão comparticipados através de verbas a inscrever, anualmente, no Orçamento da Câmara Municipal.
+
+###### Artigo 13.º — Falsas declarações
+
+A prestação de falsas declarações por parte do requerente inibe-o do acesso ao Apoio à Natalidade, de forma permanente, para além de outras consequências previstas na lei.
+
+###### Artigo 14.º — Desconhecimento ou Incorreta Interpretação do Regulamento
+
+O desconhecimento ou incorreta interpretação do presente Regulamento não poderão ser invocados para justificar o não cumprimento das suas disposições, nem isentam eventuais infratores das sanções que lhe sejam aplicáveis.
+
+###### Artigo 15.º — Dúvidas ou Omissões
+
+Sem prejuízo da lei aplicável, todas as dúvidas e omissões que eventualmente surjam na aplicação ou interpretação do presente Regulamento, serão resolvidas mediante deliberação da Câmara Municipal da Horta.
+
+###### Artigo 16.º — Entrada em Vigor
+
+O presente Regulamento entra em vigor no dia seguinte ao da sua publicação no Diário da República.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/07/139000000/0048900495.pdf)
+
+315485405

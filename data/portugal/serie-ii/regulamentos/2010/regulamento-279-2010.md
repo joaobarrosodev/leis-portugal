@@ -1,0 +1,2137 @@
+---
+schema_version: '1.0'
+id: pt:dre:3564261:por
+title: Regulamento n.º 279/2010
+short_title: null
+summary: Regulamento de taxas, compensações e tarifas do Município de Porto Moniz
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Porto Moniz
+proposing_entity: null
+official_number: 279/2010
+official_date: null
+publication_date: '2010-03-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 56/2010, Série II de 2010-03-22
+  number: '56'
+  series: II
+  supplement: null
+  pages: 14314 - 14363
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3564261'
+  dre_path: /dr/detalhe/regulamento/279-2010-3564261
+  internal: pt:dre:3564261:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/279-2010-3564261
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/279-2010-3564261
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:38:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d38ce374bc8b02b6516afd113f3f2b25bdfd3bb7182dc7bae5cdcaa73ff32cad
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:38:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:1461060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2901726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3633918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: transposes
+  target: celex:31991L0689
+  label: null
+  source: null
+- type: transposes
+  target: celex:32006L0012
+  label: null
+  source: null
+article_structure:
+  article_count: 104
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:38:40Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 279/2010
+
+Regulamento de taxas, compensações e tarifas do Município do Porto Moniz
+
+Preâmbulo
+
+O [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, que aprovou o Regime Jurídico da Urbanização e Edificação (RJUE) introduziu alterações substanciais no regime jurídico do licenciamento municipal das operações de loteamento, das obras de urbanização e das obras particulares.
+
+Nos termos do artigo 3.º do RJUE, no exercício do seu poder regulamentar próprio, os municípios aprovam regulamentos de urbanização e ou edificação, bem como regulamentos relativos ao lançamento e liquidação de taxas e prestação de caução. Para cumprir esta exigência legal foi aprovado o Regulamento Municipal de Obras Particulares do Porto Moniz, em sessão ordinária da Assembleia Municipal respectiva, de 29 de Dezembro de 2004, e publicado no apêndice n.º 16 ao Diário da República, 2.ª série, n.º 24, de 3 de Fevereiro de 2005 [Aviso n.º 622/2005 (2.ª série) - AP]. Com o desenrolar da gestão urbanística municipal, tornou-se necessário proceder a ajustamentos ao referido Regulamento, o que sucedeu através das alterações aprovadas em sessão ordinária da Assembleia Municipal em 23 de Fevereiro de 2006, publicada no apêndice n.º 29 ao Diário da República, 2.ª série, n.º 61, de 27 de Março de 2006 [Aviso n.º 857/2006 (2.ª série) - AP.], e publicada no Diário da República, 2.ª série, n.º 251, de 31 de Dezembro de 2007 [[Aviso n.º 26476/2007](https://diariodarepublica.pt/dr/detalhe/aviso/26476-2007-3633918)].
+
+Posteriormente, as alterações sofridas pelo RJUE com a publicação da [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro, que introduziu inovadoras figuras em matéria de controlo prévio das operações urbanísticas por parte do Município, como sucede com a comunicação prévia, vieram impor alteração às taxas constantes do Regulamento Municipal de Obras Particulares em vigor.
+
+Acresce que a nova Lei das Finanças Locais, aprovada pela [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, e o novo Regime Geral das Taxas das Autarquias locais, aprovado pela [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 9 de Dezembro, impõem uma nova estruturação e fundamentação das relações jurídico-tributárias geradoras da obrigação de pagamento de taxas às autarquias locais, obrigando a uma reponderação do papel do princípio da proporcionalidade no cálculo das taxas e à fundamentação concreta do mesmo.
+
+Em face da complexidade das alterações a introduzir à parte relativa às Taxas e às Compensações urbanísticas - ao que acresce a necessidade de a fazer acompanhar de uma fundamentação económico-financeira das taxas - e ao facto de também a parte referente à Urbanização e Edificação sofrer alterações de monta, optou-se pela separação destas duas temáticas, tratando-as em Regulamentos diferenciados.
+
+Adicionalmente, e de modo a concentrar num único código todos os tributos devidos ao Município, optou-se por incluir no presente Regulamento todas as taxas e tarifas vigentes e previstas de forma avulsa no Município do Porto Moniz. No entanto, esta inclusão, motivada essencialmente por razões de simplificação e transparência administrativa, não apaga as diferenças existentes entre as várias taxas e tarifas passíveis de serem cobradas pelos Municípios, seja quanto à sua caracterização substancial, seja quanto à sua tramitação procedimental, pelo que os vários capítulos relativos às taxas têm entre si relações de relativa autonomia.
+
+O presente Regulamento foi objecto de apreciação pública tendo sido publicado na 2.ª série do Diário da República, n.º 214, de 4 de Novembro de 2008, foi afixado nos lugares de estilo e na Secretaria da Câmara Municipal de Porto Moniz e foi ainda divulgado na página da Internet do Município em www.portomoniz.pt.
+
+Assim, nos termos do disposto no artigo 241.º da Constituição da República Portuguesa, no n.º 1 do artigo 13.º da [Lei n.º 159/99](https://diariodarepublica.pt/dr/detalhe/lei/159-1999-570562), de 14 de Setembro; das alíneas a) e e), do n.º 2, do artigo 53.º, da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com as alterações da [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro; da alínea c) do artigo 10.º, artigo 15.º e artigo 55.º da Lei das Finanças Locais, aprovada pela [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro; das alíneas a) e b) do n.º 1 do artigo 6.º e do artigo 8.º do Regime Geral das Taxas das Autarquias Locais, aprovado pela [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de Dezembro, da Lei Geral Tributária, aprovada pelo [Decreto-Lei n.º 398/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1998-191558), de 17 de Dezembro; do Código de Procedimento e de Processo Tributário, com as alterações que lhe foram introduzidas pela [Lei n.º 15/2001](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), de 5 de Junho; disposto no artigo do 29.º do Decreto 44 220, de 3 de Março de 1962, no Decreto n.º 49 770, de 18 de Dezembro de 1968, e no [Decreto-Lei n.º 411/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1998-286106), de 30 de Dezembro, na sua redacção actual; nos artigos 70.º, 71.º e 163.º do Código da Estrada aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), na sua redacção actual e dos artigos 1.º, 2.º e 4.º a 6.º do Anexo ao [Decreto-Lei n.º 81/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2006-649721), de 20 de Abril; do [Decreto-Lei n.º 251/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1998-438069), de 11 de Agosto de 1998; dos artigos 3.º, 44.º, n.º 4, e 116.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, na sua redacção actual; do [Decreto-Lei n.º 330/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1990-565417), de 23 de Outubro, na sua redacção actual; dos Decretos-Leis n.os [264/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), de 25 de Novembro, e [310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de Dezembro; do [Decreto-Lei n.º 267/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916), de 26 de Novembro; do [Decreto-Lei n.º 11/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2003-176339), de 18 de Janeiro; da [Lei n.º 37/2006](https://diariodarepublica.pt/dr/detalhe/lei/37-2006-538604), de 9 de Agosto; dos artigos 27.º, n.º 2, 29.º, n.º 2; do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho; do n.º 3 do artigo 20.º do [Decreto-Lei n.º 160/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2006-538613), de 8 de Agosto e respectivas alterações; do artigo 15.º do [Decreto-Lei n.º 9/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2007-522807), de 17 de Janeiro, e do [Decreto-Lei n.º 42/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2008-247227), de 10 de Março, a Assembleia Municipal, sob proposta da Câmara Municipal, aprova o seguinte Regulamento Municipal de Taxas, Compensações e Tarifas do Município do Porto Moniz e a sua Fundamentação Económico-Financeira.
+
+### Capítulo I — Âmbito e objecto
+
+#### Secção I — Disposições gerais
+
+###### Artigo 1.º — Incidência objectiva
+
+1 - O presente regulamento tem como objecto a definição das regras relativas às taxas e demais encargos devidos pelas diversas operações inerentes à urbanização e edificação, designadamente, pela apreciação de processos, pela emissão de alvarás ou pela admissão de comunicação prévia, pela realização, manutenção e reforço de infra-estruturas urbanísticas, bem como aos demais encargos urbanísticos, exigíveis nos termos da lei, ainda que sejam ordenados pela Câmara Municipal.
+
+2 - O Regulamento de Taxas e Compensações integra ainda todas as taxas e tarifas devidas ao Município do Porto Moniz pela prestação de serviços vários, designadamente pela concessão de documentos e emissão de licenças, pela utilização de serviços públicos municipais e ocupação do domínio municipal.
+
+3 - O presente Regulamento aplica-se a todo o território do município do Porto Moniz, sem prejuízo do disposto na lei e nos planos municipais ou especiais de ordenamento do território.
+
+###### Artigo 2.º — Incidência Subjectiva
+
+1 - O sujeito activo gerador da obrigação de pagamento das taxas e outras receitas previstas nas tabelas anexas ao presente regulamento é o Município de Porto Moniz
+
+2 - O sujeito passivo é a pessoa singular ou colectiva e outras entidades legalmente equiparadas que, nos termos da lei e do presente regulamento, estejam vinculadas ao cumprimento da prestação mencionada no artigo anterior.
+
+###### Artigo 3.º — Definições
+
+Para efeitos de aplicação do presente regulamento, incorporam-se as definições constantes da lei, do Regulamento Municipal da Urbanização e da Edificação e dos planos urbanísticos aplicáveis.
+
+#### Secção II — Isenções, Dispensas e Reduções
+
+###### Artigo 4.º — Âmbito
+
+1 - Estão isentas do pagamento das taxas o Estado, as freguesias, os fundos e serviços autónomos e as entidades que integram o sector empresarial do Estado e do Município do Porto Moniz.
+
+2 - Estão isentos do pagamento de taxas os promotores das operações de escassa relevância urbanística, como tal definidas nos termos da lei e do Regulamento Municipal de Urbanização e Edificação, os promotores de operações urbanísticas que se enquadrem no âmbito do Regulamento para a Conservação, Reparação ou Beneficiação de Habitações Degradadas de Pessoas Carenciadas do Concelho do Porto Moniz e os promotores de obras de edificação e utilização de edifícios que se instalem no Parque Empresarial do Porto Moniz.
+
+3 - A Câmara Municipal poderá dispensar ou reduzir parcialmente o pagamento das taxas regulamentares devidas pelo licenciamento ou comunicação prévia de obras de edificação ou de demolição, bem como da utilização de edifícios, nas situações e de acordo com os critérios previstos no Quadro I do presente Regulamento
+
+4 - A dispensa do pagamento das demais taxas previstas no presente Regulamento depende de previsão expressa no articulado dos Capítulos correspondentes, que fixa os critérios para a sua atribuição.
+
+QUADRO I
+
+Situações de redução ou dispensa de pagamento de taxas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 5.º — Procedimento
+
+1 - A concessão das reduções parciais ou das dispensas previstas no artigo anterior ou ao longo do presente Regulamento depende da apresentação de requerimento fundamentado por parte do interessado.
+
+2 - No caso da redução ou dispensa de taxas a conceder aos cidadãos em situação de insuficiência económica, os requerentes devem juntar a documentação comprovativa do estado ou situação em que se encontrem, nomeadamente:
+
+a) Declaração do IRS;
+
+b) Declarações de Juntas de Freguesia, de autoridades sanitárias e ou de outras com competências nas áreas da solidariedade social e da segurança social.
+
+c) Informação dos serviços municipais competentes.
+
+3 - A deliberação da Câmara Municipal ou, mediante delegação, do seu Presidente, que se pronuncie sobre o preenchimento dos requisitos para a isenção de taxas ou delibere a dispensa ou redução das mesmas deve ser sempre fundamentada, debruçando-se especificadamente sobre as razões para o deferimento ou indeferimento do pedido apresentado e sobre, se for caso disso, a graduação da redução a conceder.
+
+4 - Os requerimentos a que se refere o n.º 1 podem ser apresentados desde o início do procedimento de controlo prévio até ao decurso do prazo para pagamento das taxas urbanísticas ou, no caso das demais taxas, ser apresentados no momento da formulação do pedido, devendo, em qualquer caso, a deliberação da Câmara Municipal ter lugar até trinta dias após a recepção do pedido.
+
+5 - A apresentação do pedido mencionado no número anterior suspende o decurso do prazo de pagamento.
+
+### Capítulo II — Liquidação
+
+#### Secção I — Disposições gerais
+
+###### Artigo 6.º — Conceito de liquidação
+
+A liquidação das taxas e outras receitas previstas no presente regulamento traduz-se na determinação do montante a pagar e resulta da aplicação dos indicadores previstos em fórmulas do presente Regulamento ou dos valores constantes dos Quadros nele incluídos.
+
+###### Artigo 7.º — Regras relativas à liquidação
+
+1 - A liquidação reporta-se ao momento constitutivo do procedimento a que diz respeito, sendo este, no caso das taxas e encargos urbanísticos, o momento da emissão da licença ou autorização ou o da admissão da comunicação prévia.
+
+2 - Às situações de deferimento tácito previstas na lei ou no presente Regulamento são aplicáveis taxas idênticas às liquidadas nas situações de deferimento expresso.
+
+3 - Na falta de rejeição da comunicação prévia, nos termos do n.º 2 do artigo 36.º-A do Regime Jurídico da Urbanização e Edificação, é devido o pagamento da taxa aplicável à admissão expressa.
+
+4 - No caso das vistorias, incluem-se nas taxas a pagar todos os encargos municipais com a sua realização, devendo a remuneração de peritos que não sejam funcionários públicos ser paga pelo orçamento municipal em função do número vistorias realizadas.
+
+5 - O cálculo das taxas e outras receitas municipais, cujo quantitativo esteja indexado ao ano, mês, semana ou dia, far-se-á em função do calendário, considerando-se semana de calendário o período de Segunda-feira a Domingo.
+
+6 - Os valores actualizados devem ser arredondados, conforme se apresentar o terceiro algarismo depois da vírgula:
+
+a) Se for inferior a 5, arredonda-se para o cêntimo mais próximo por defeito;
+
+b) Se for igual ou superior a 5, arredonda-se para o cêntimo mais próximo por excesso.
+
+###### Artigo 8.º — Supervisão da liquidação
+
+1 - Compete ao Serviço de Taxas e Licenças da Divisão Económica e Financeira supervisionar o processo de liquidação e cobrança das taxas e outras receitas previstas no presente regulamento, em articulação com o gestor do procedimento respectivo, quando exista.
+
+2 - Para o efeito previsto no número anterior, deverá ser disponibilizado, ao Serviço de Taxas e Licenças da Divisão Económica e Financeira, sempre que solicitada, toda a documentação relacionada com a arrecadação da receita.
+
+###### Artigo 9.º — Revisão do acto de liquidação
+
+1 - Poderá haver lugar à revisão do acto de liquidação pelo respectivo serviço liquidador, por iniciativa do sujeito passivo ou oficiosa, nos prazos estabelecidos na Lei Geral Tributária e com fundamento em erro de facto ou de direito.
+
+2 - A anulação de documentos de cobrança ou a restituição de importâncias pagas, que resultem da revisão do acto de liquidação, compete ao Serviço de Taxas e Licenças da Divisão Económica e Financeira, mediante proposta prévia e devidamente fundamentada dos serviços, confirmada pelo respectivo dirigente e homologada pelo Presidente da Câmara.
+
+3 - A revisão de um acto de liquidação do qual resultou prejuízo para o Município obriga o serviço liquidador respectivo a promover, de imediato, a liquidação adicional.
+
+4 - Para efeitos do número anterior, o sujeito passivo será notificado por carta registada com aviso de recepção dos fundamentos da liquidação adicional, do montante a pagar, do prazo de pagamento, constando, ainda, a advertência de que o não pagamento no prazo implica a sua cobrança coerciva nos termos legais.
+
+5 - Quando o quantitativo resultante da liquidação adicional for igual ou inferior a 2,50(euro) não haverá lugar à cobrança.
+
+6 - Verificando-se ter havido erro de cobrança, por excesso, deverão os serviços, independentemente de reclamação do interessado, promover, de imediato, a restituição nos termos do n.º 4 do artigo 1.º do [Decreto-Lei n.º 163/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1979-383843), de 31 de Maio, desde que não tenha decorrido o prazo previsto na Lei Geral Tributária ou em legislação especial sobre o pagamento.
+
+###### Artigo 10.º — Efeitos da liquidação
+
+1 - Não pode ser praticado nenhum acto ou facto material de execução sem prévio pagamento das taxas e outras receitas previstas no presente regulamento, salvo nos casos expressamente permitidos na lei e no presente Regulamento.
+
+2 - Sem prejuízo da responsabilidade contra-ordenacional que daí resulte, quando o erro do acto de liquidação for da responsabilidade do sujeito passivo, nomeadamente por falta ou inexactidão dos elementos que estivesse obrigado a fornecer ou por injustificadamente ter procedido a uma errada autoliquidação das taxas, será este responsável pelas despesas que a sua conduta tenha causado.
+
+###### Artigo 11.º — Encargos fiscais
+
+1 - Sobre as taxas e tarifas não recai qualquer adicional para o Estado, excepto o IVA quando devido.
+
+2 - Aquando da emissão da liquidação de taxas será cobrado imposto de selo a que haja lugar por imperativo legal.
+
+#### Secção II — Liquidação pelo Município
+
+###### Artigo 12.º — Procedimento de liquidação
+
+1 - A liquidação das taxas e outras receitas municipais previstas no presente regulamento constará de documento próprio, designado nota de liquidação, no qual deverá fazer-se referência aos seguintes elementos:
+
+a) Identificação do sujeito passivo;
+
+b) Discriminação do acto, facto ou contrato sujeito a liquidação;
+
+c) Enquadramento no presente Regulamento;
+
+d) Cálculo do montante a pagar;
+
+e) Eventuais isenções, dispensas ou reduções aplicáveis.
+
+2 - O Serviço de Taxas e Licenças da Divisão Económica e Financeira deve proceder à liquidação das taxas em conjunto com a proposta de deferimento do pedido de licenciamento ou de autorização ou, o mais tardar, até 30 dias a partir da data do deferimento ou da resposta ao pedido de dispensa ou redução do pagamento de taxas, nos termos do artigo 5.º
+
+3 - Exceptuam-se do disposto no número anterior as situações de deferimento tácito, nas quais o Município deve proceder à liquidação das taxas no prazo máximo de 30 dias, a contar do requerimento do interessado.
+
+###### Artigo 13.º — Notificação da liquidação
+
+1 - Da notificação da liquidação deverá constar a decisão, os fundamentos de facto e de direito, os meios de defesa contra o acto de liquidação, o autor do acto e a menção da respectiva delegação ou subdelegação de competências, bem como o prazo de pagamento voluntário.
+
+2 - A liquidação será notificada ao interessado por carta registada com aviso de recepção, conjuntamente ou não com o acto de deferimento da licença ou autorização requerida.
+
+3 - A notificação considera-se efectuada na data em que for assinado o aviso de recepção e tem-se por efectuada na própria pessoa do notificando, mesmo quando o aviso de recepção haja sido assinado por terceiro presente no domicílio do requerente, presumindo-se, neste caso, que a carta foi oportunamente entregue ao destinatário.
+
+4 - No caso de o aviso de recepção ser devolvido pelo facto de o destinatário se ter recusado a recebê-lo ou não o ter levantado no prazo previsto no regulamento dos serviços postais e não se comprovar que entretanto o requerente comunicou a alteração do seu domicílio fiscal, a notificação será efectuada nos 15 dias seguintes à devolução, por nova carta registada com aviso de recepção, presumindo-se a notificação se a carta não tiver sido recebida ou levantada, sem prejuízo de o notificando poder provar justo impedimento ou a impossibilidade de comunicação da mudança de residência no prazo legal.
+
+5 - A notificação pode igualmente ser levantada nos serviços administrativos do Município, devendo o notificado ou seu representante assinar um comprovativo de recebimento, que terá os mesmos efeitos do aviso de recepção.
+
+6 - Após a recepção da notificação, o notificado terá 10 dias úteis para se pronunciar por escrito sobre a liquidação efectuada, devendo, caso o faça, ser emitido novo acto de liquidação até 10 dias após o termo daquele prazo.
+
+7 - Findo o prazo previsto no número anterior sem que tenha havido pronúncia do notificado, considera-se praticado o acto de liquidação, em conformidade com a notificação inicialmente efectuada.
+
+#### Secção III — Autoliquidação
+
+###### Artigo 14.º — Conceito
+
+A autoliquidação refere-se à determinação, pelo sujeito passivo, do valor da taxa a pagar, seja ele o contribuinte directo, o seu substituto legal ou o responsável legal, sendo possível quando a lei expressamente a preveja ou o presente Regulamento a admita.
+
+###### Artigo 15.º — Termos da autoliquidação
+
+1 - No caso de deferimento tácito, se a Administração não liquidar a taxa no prazo estipulado no artigo 12.º, n.º 3, pode o sujeito passivo depositar ou caucionar o valor que calcule nos termos do presente Regulamento.
+
+2 - Nas hipóteses de comunicação prévia, quando não haja lugar à emissão de alvará único, a liquidação é feita pelo sujeito passivo, de acordo com os critérios previstos no presente Regulamento.
+
+3 - O sujeito passivo pode, nas hipóteses previstas nos números anteriores, solicitar que o Serviço de Taxas e Licenças da Divisão Económica e Financeira preste informações sobre o montante previsível a liquidar de taxas.
+
+4 - Aquando da autoliquidação deve ser mencionado obrigatoriamente o número de processo a que as mesmas dizem respeito, sob pena do pagamento da contra ordenação, prevista no presente Regulamento.
+
+5 - Nos casos de operações urbanísticas promovidas pela Administração pública, a Câmara Municipal deve, no momento em que profira o parecer sobre as mesmas, indicar o valor presumível das taxas a suportar.
+
+6 - As entidades a que alude o n.º anterior liquidarão as taxas de acordo com o procedimento de autoliquidação.
+
+###### Artigo 16.º — Prazo para a autoliquidação
+
+A autoliquidação das taxas referidas no número anterior deve decorrer até um ano após a data da prática do acto ou facto de que dependem.
+
+### Capítulo III — Pagamento e cobrança
+
+###### Artigo 17.º — Momento do pagamento
+
+1 - A cobrança das taxas é efectuada, no âmbito das operações urbanísticas, antes da emissão do alvará de licença ou autorização da respectiva operação ou antes do início da execução das obras ou da utilização do edifício.
+
+2 - Será adiantado o valor da apreciação ou reapreciação do pedido, de acordo com os quadros incluídos no presente Regulamento, ou, no caso de aquele não ter sido estipulado, o valor mais baixo das taxas devidas pela emissão do alvará, dos aditamentos ou pela admissão da comunicação prévia no momento em que seja dado início ao respectivo procedimento.
+
+3 - No caso do requerimento previsto no n.º anterior ser deferido ou de a comunicação ser admitida, o valor aí referido será descontado ao montante final da taxa a pagar.
+
+4 - Na hipótese de indeferimento do requerimento previsto no n.º 2, de rejeição da comunicação, ou da sua ineficácia, o Município reterá o montante pago a título de taxa pela apreciação do procedimento administrativo, de modo a cobrir os custos com a organização do processo.
+
+5 - As taxas relativas à emissão de informação prévia, vistorias, operações de destaque e demais assuntos administrativos, bem como as demais taxas e tarifas previstas no presente Regulamento são cobradas com a respectiva liquidação ou no prazo nela prevista e antes da prática ou verificação dos actos ou factos a que respeitam.
+
+###### Artigo 18.º — Formas de pagamento
+
+1 - As taxas e demais encargos são pagos em numerário, excepto nas situações expressamente previstas na lei ou no presente regulamento, em que se admite o pagamento em espécie.
+
+2 - As taxas e demais encargos podem ser pagas directamente nos serviços de tesouraria, por transferência bancária ou em equipamento de pagamento automático, sempre que tal seja permitido.
+
+3 - Para efeitos do disposto no número anterior, encontram-se afixados nos serviços de tesouraria e nos locais de estilo e disponibilizados na Internet o presente Regulamento, bem como o número da conta bancária à ordem da Câmara Municipal e o nome da respectiva instituição bancária.
+
+4 - O pagamento de taxas e demais encargos em espécie, seja por compensação, seja por dação em cumprimento depende de uma deliberação específica da Câmara Municipal para o efeito, com possibilidade de delegação no seu Presidente, da qual conste a avaliação objectiva dos bens em causa, nos termos previstos no presente Regulamento para o pagamento de taxas e compensações em espécie.
+
+5 - Quando o pagamento for efectuado com cheque sem provisão, o alvará ou título a que respeita a taxa é considerado nulo e proceder-se-á em conformidade com a legislação em vigor, designadamente para efeitos criminais.
+
+###### Artigo 19.º — Pagamento em prestações
+
+1 - Salvo o previsto em disposições especiais, pode a Câmara Municipal, mediante requerimento fundamentado dos interessados, autorizar o pagamento das taxas e outras receitas previstas no presente regulamento e suas tabelas anexas em prestações mensais, desde que os responsáveis pelas mesmas se encontrem em situação económica difícil, devidamente comprovada e o seu montante seja superior a 250,00 Euros.
+
+2 - Salvo disposição legal ou regulamentar em contrário, o número de prestações mensais no caso de taxas urbanísticas não poderá ser superior ao prazo de execução fixado à operação urbanística ou à duração da licença e, em qualquer caso, a seis prestações
+
+3 - O valor de cada uma das prestações não poderá ser inferior a uma unidade de conta, conforme o estipulado no Código do Procedimento e Processo Tributário.
+
+4 - O pagamento de cada prestação deverá ocorrer durante o mês a que esta corresponder, sendo devidos juros em relação às prestações em dívida, liquidados e pagos em cada prestação.
+
+5 - A falta de pagamento de qualquer prestação implica o vencimento imediato das seguintes, assegurando-se a execução fiscal da dívida remanescente mediante a extracção da respectiva certidão de dívida.
+
+6 - Não é admitida a concessão de moratória.
+
+###### Artigo 20.º — Prazos de pagamento
+
+1 - Salvo disposição legal ou regulamentar em contrario, o prazo para pagamento voluntário das taxas e outras receitas previstas no presente regulamento é de 30 dias a contar da notificação da liquidação, salvo o disposto em regulamentos específicos.
+
+2 - Os prazos para pagamento contam-se de forma contínua.
+
+3 - O prazo que termine em sábado, domingo ou dia feriado transfere-se para o primeiro dia útil imediatamente seguinte.
+
+4 - Nas situações de revisão do acto de liquidação que implique uma liquidação adicional, o prazo para pagamento voluntário é de 15 dias a contar da notificação para pagamento.
+
+5 - As taxas e licenças ou autorizações liquidadas a pedido do interessado e não pagas no próprio dia da liquidação serão encaminhadas para cobrança coerciva, após ter decorrido o prazo para pagamento voluntário.
+
+###### Artigo 21.º — Licenças e autorizações renováveis
+
+1 - As licenças ou autorizações renováveis consideram-se emitidas nas condições em que foram concedidas as correspondentes licenças ou autorizações iniciais, pressupondo-se a inalterabilidade dos seus termos e condições, salvo indicação expressa em contrário.
+
+2 - O pagamento das licenças e autorizações renováveis deverá fazer-se da seguinte forma:
+
+a) Anuais de 1 de Dezembro a 31 de Dezembro ou até trinta dias antes de caducar a respectiva validade;
+
+b) Mensais, trimestrais e semestrais, nos últimos 15 dias contínuos de cada mês, anteriores ao termo do prazo;
+
+c) Semanais e outras, salvo o disposto em lei ou regulamento, com a antecedência de quarenta e oito horas relativamente ao termo do prazo.
+
+3 - O município publicará avisos relativos à cobrança das licenças anuais referidas na alínea a) do n.º 1, explicitando o prazo respectivo e das sanções em que incorrem as pessoas singulares ou colectivas, pelo não pagamento das licenças que lhes sejam exigíveis nos termos legais e regulamentares em vigor.
+
+4 - Poderão ser estabelecidos prazos de pagamentos diferentes para as autorizações de ocupação precária de bens de domínio público ou privado a fixar no respectivo contrato ou documento que as titule.
+
+###### Artigo 22.º — Extinção do procedimento
+
+1 - Sem prejuízo do disposto nos números seguintes, o não pagamento das taxas e outras receitas municipais no prazo estabelecido para o efeito implica a extinção do procedimento.
+
+2 - Poderá o interessado obstar à extinção do procedimento, desde que efectue o pagamento da quantia liquidada nos 15 dias seguintes ao termo do prazo de pagamento respectivo.
+
+3 - Sempre que o pedido de licenças ou autorizações renováveis seja efectuada fora dos prazos fixados para o efeito, sofrerão as correspondentes taxas um agravamento de cinquenta por cento.
+
+###### Artigo 23.º — Cobrança coerciva
+
+1 - Na hipótese de pagamento por prestações, o prazo de pagamento voluntário das taxas e outras receitas municipais liquidadas e que constituam débitos ao Município, começam a vencer juros de mora à taxa legal de 1 % se o pagamento se fizer dentro dos trinta dias em que se verificou a sujeição aos mesmos, aumentando depois a 1 % por cada mês de calendário ou fracção.
+
+2 - Consideram-se em débito todas as taxas e outras receitas municipais, relativamente às quais o interessado usufruiu de facto, do serviço ou do benefício, sem o respectivo pagamento.
+
+3 - O não pagamento das taxas e outras receitas municipais implica a extracção das respectivas certidões de dívida e seu envio aos serviços competentes, para efeitos de execução fiscal.
+
+###### Artigo 24.º — Garantias
+
+1 - À reclamação graciosa ou impugnação judicial da liquidação e cobrança de taxas e demais receitas de natureza fiscal aplicam-se as normas do Regime Geral das Taxas das Autarquias Locais e, com as necessárias adaptações, a Lei Geral Tributária e as do Código de Procedimento e de Processo Tributário.
+
+2 - As reclamações dos interessados contra a liquidação e cobrança de taxas e demais rendimentos gerados em relação fiscal indevida são deduzidas perante a Câmara.
+
+3 - As impugnações contra a liquidação e cobrança de tais taxas, e demais rendimentos gerados em relação fiscal indevida, são deduzidas mediante recurso para o Tribunal Tributário de 1.ª Instância.
+
+### Capítulo IV — Taxas e compensações urbanísticas
+
+#### Secção I — Taxa devida pela remoção dos obstáculos administrativos à realização de operações urbanísticas
+
+##### Subsecção I — Emissão de alvará de licença ou admissão de comunicação prévia de operações de loteamento, obras de urbanização e de remodelação de terrenos
+
+###### Artigo 25.º — Emissão de alvará de licença ou admissão de comunicação prévia de loteamento com ou sem obras de urbanização ou de licença
+
+1 - Nos casos referidos no n.º 3 do artigo 76.º do RJUE, a emissão do alvará de licença ou admissão de comunicação prévia com ou sem obras de urbanização está sujeita ao pagamento de taxa fixada na tabela anexa ao presente Regulamento, sendo esta composta, cumulativamente, de uma parte fixa, relativa ao custo de apreciação do processo e ao encargo de emissão do título, e de outra variável em função do número de lotes, fogos, unidades de ocupação, prazos de execução e tipos de infra-estruturas, previstos nessas operações urbanísticas.
+
+2 - Em caso de aditamento ao alvará de licença ou admissão de comunicação prévia de loteamento com ou sem obras de urbanização resultante da sua alteração, que titule um aumento do número de fogos ou lotes, ou de qualquer outro aditamento, é também devida taxa referida no número anterior, nos termos previstos no Quadro III do presente Regulamento.
+
+3 - Os pisos de garagem para estacionamento de viaturas bem como as caves destinadas a arrumos dependentes das fracções habitacionais não são contabilizados para efeitos das taxas previstas neste artigo.
+
+QUADRO II
+
+Taxa devida pela emissão de alvará de licença ou admissão de comunicação prévia de loteamento com ou sem obras de urbanização
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+QUADRO III
+
+Taxa devida pelo aditamento à licença ou admissão de comunicação prévia de loteamento com obras de urbanização
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 26.º — Emissão de alvará de licença ou admissão de comunicação prévia de obras de urbanização
+
+1 - A emissão do alvará de licença de obras de urbanização, ou a admissão de comunicação prévia, está sujeita ao pagamento da taxa fixada no Quadro IV da tabela anexa ao presente regulamento, sendo esta composta de uma parte fixa e de outra variável em função do prazo de execução e do tipo de infra-estruturas previstos para essa operação urbanística.
+
+2 - Qualquer aditamento ao alvará de licença ou à admissão de comunicação prévia de obras de urbanização está igualmente sujeito ao pagamento da taxa prevista no Quadro III, que incide apenas sobre o aumento autorizado.
+
+QUADRO IV
+
+Taxa devida pela emissão de alvará de licença ou admissão de comunicação obras de urbanização e respectivos aditamentos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 27.º — Emissão de alvará de licença ou admissão de comunicação prévia de trabalhos de remodelação dos terrenos
+
+1 - A emissão do alvará de licença ou admissão de comunicação prévia para trabalhos de remodelação dos terrenos, tal como se encontram definidos na alínea l) do artigo 2.º do RJUE, está sujeita ao pagamento das taxas fixadas no Quadro V da tabela anexa ao presente regulamento, sendo esta composta de uma parte fixa e de outra variável, determinada em função da superfície ou volume a que corresponda a operação urbanística.
+
+2 - A taxa pelo aditamento à licença ou comunicação prévia e correspectiva reapreciação do processo encontra-se prevista no Quadro referido no número anterior, ao que acrescerá o montante variável em função do aumento de área a remodelar.
+
+QUADRO V
+
+Taxa devida pela emissão de alvará de licença ou admissão de comunicação prévia de trabalhos de remodelação dos terrenos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+##### Subsecção II — Emissão de alvarás de licença ou admissão de comunicação prévia de obras de edificação e outras operações urbanísticas
+
+###### Artigo 28.º — Emissão de alvará de licença ou admissão de comunicação prévia de obras de edificação
+
+A emissão do alvará de licença ou a admissão de comunicação prévia para obras de construção, reconstrução, ampliação ou alteração está sujeita ao pagamento da taxa fixada no Quadro VI do Regulamento, sendo esta composta de uma parte fixa e outra variável em função do tipo de uso ou fim a que a obra se destina, a área total de cada piso e respectivo prazo de execução.
+
+QUADRO VI
+
+Emissão de alvará de licença ou admissão de comunicação prévia de obras de edificação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 29.º — Aditamento ao alvará de licença ou admissão de comunicação prévia de obras de edificação
+
+1 - Em caso de qualquer aditamento ao alvará de licença ou admissão de comunicação prévia de obras de edificação resultante da sua alteração, que titule um aumento do número de fogos ou unidades de ocupação e uso das mesmas, é devida a taxa prevista no Quadro VII do presente Regulamento, incidindo a mesma apenas sobre o aumento ou alteração autorizado.
+
+2 - Qualquer outro aditamento ao alvará de licença ou admissão de comunicação prévia de obras de edificação está igualmente sujeito ao pagamento da taxa referida no Quadro VII do presente Regulamento.
+
+QUADRO VII
+
+Aditamento ao alvará de licença ou admissão de comunicação prévia de obras de edificação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 30.º — Taxa devida pela emissão de alvará de licença ou admissão de comunicação prévia de outras obras de edificação ou aditamentos
+
+1 - As taxas previstas para a realização de outras obras de edificação que não constituam obras de escassa relevância urbanística, encontram-se previstas no Quadro VIII do presente Regulamento.
+
+2 - A taxa pelo aditamento à licença ou comunicação prévia e correspectiva reapreciação do processo encontra-se prevista no Quadro referido no número anterior, ao que acrescerá o montante variável em função do aumento de construção verificado.
+
+QUADRO VIII
+
+Aditamento ao alvará de licença ou admissão de comunicação prévia de outras obras de edificação ou aditamentos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 31.º — Taxa devida pela emissão de alvará de licença ou admissão de comunicação prévia de demolição
+
+1 - A emissão do alvará de licença ou de admissão de comunicação prévia de demolição está sujeita ao pagamento das taxas previstas no Quadro IX, variando em função da área de implantação e pisos a demolir e do prazo de execução da demolição.
+
+2 - A taxa pelo aditamento à licença ou comunicação prévia e correspectiva reapreciação do processo de demolição encontra-se prevista no Quadro referido no número anterior, ao que acrescerá o montante variável em função da demolição em concreto verificada.
+
+QUADRO IX
+
+Licença ou admissão de comunicação prévia de obras de demolição
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+##### Subsecção III — Emissão de alvarás de autorização de utilização
+
+###### Artigo 32.º — Autorização de utilização e de alteração de uso
+
+A emissão de alvará de autorização de utilização e alteração ao uso está sujeita ao pagamento da taxa fixada no Quadro X, variando em função do tipo de utilização, dimensão e número de fogos ou unidades de ocupação e seus anexos.
+
+QUADRO X
+
+Autorização de utilização e de alteração do uso
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 33.º — Autorização de utilização ou de alteração de uso previstas em legislação especial
+
+1 - A emissão de alvará de autorização de utilização ou de alteração ao uso previstas em legislação especial está sujeita ao pagamento da taxa fixada no Quadro XI do presente Regulamento.
+
+2 - Para os estabelecimentos industriais de tipo 4, os valores a cobrar encontram-se previstos na Portaria n.º 583/2007, de 9 de Maio, que fixa as taxas devidas pela entidade coordenadora.
+
+QUADRO XI
+
+Autorização de utilização ou de alteração do uso previstas em legislação especial
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+##### Subsecção IV — Situações especiais
+
+###### Artigo 34.º — Emissão de alvarás de licença parcial
+
+1 - A emissão do alvará de licença parcial na situação referida no n.º 7 do artigo 23.º do RJUE, está sujeita ao pagamento de 30 % da taxa devida pela emissão do alvará de licença definitiva.
+
+2 - O valor referido no número anterior será descontado do montante a pagar pela licença definitiva.
+
+###### Artigo 35.º — Renovação
+
+1 - Nos casos referidos no artigo 72.º do RJUE, a emissão do alvará resultante de renovação da licença ou admissão de comunicação prévia está sujeita ao pagamento da taxa prevista para a emissão do título caducado, reduzida na percentagem de 50 %.
+
+2 - O valor base para efeitos de cálculo da taxa referida no número anterior é o apurado à data da entrada da renovação do título.
+
+###### Artigo 36.º — Prorrogações
+
+Nas situações referidas nos artigos 53.º n.os 3 e 4 e 58.º n.os 5 e 6 do RJUE, a concessão de nova prorrogação está sujeita ao pagamento da taxa fixada de acordo com o seu prazo, estabelecida no Quadro XII do presente Regulamento.
+
+QUADRO XII
+
+Prorrogações
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 37.º — Execução por fases
+
+1 - Em caso de deferimento do pedido de execução por fases, nas situações referidas nos artigos 56.º e 59.º do RJUE, a cada fase corresponderá um aditamento ao alvará ou à admissão de comunicação prévia, sendo devidas as taxas previstas no presente artigo.
+
+2 - Na fixação das taxas ter-se-á em consideração a obra ou obras a que se refere a fase ou aditamento.
+
+3 - Na determinação do montante das taxas será aplicável o estatuído nas Subsecções I e II da presente Secção, consoante a natureza das operações urbanísticas.
+
+###### Artigo 38.º — Licença especial relativa a obras inacabadas
+
+Nas situações referidas no artigo 88.º do RJUE, a concessão da licença especial para conclusão das obras está sujeita ao pagamento da taxa de 0,70 Euros, por cada dia ou fracção.
+
+###### Artigo 39.º — Demolição, escavação e contenção periférica
+
+1 - A emissão de licença para a realização de trabalhos de demolição, escavação e contenção periférica, nos termos previstos no artigo 81.º do RJUE, está sujeita ao pagamento da taxa prevista no Quadro XIII.
+
+2 - O pagamento desta taxa deve ser integralmente feita no momento do requerimento da licença, sendo devolvido o montante que excede o mínimo previsto no Quadro X no caso de o pedido ser indeferido.
+
+QUADRO XIII
+
+Demolição, escavação e contenção periférica
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 40.º — Informação prévia
+
+O pedido de informação prévia ou da sua renovação encontra-se sujeito ao pagamento das taxas previstas no Quadro XIV do presente Regulamento.
+
+QUADRO XIV
+
+Informação prévia
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+##### Subsecção V — Actos diversos
+
+###### Artigo 41.º — Vistorias
+
+1 - A realização de vistorias por motivo da realização de obras ou exigidas por lei, bem como para efeitos de recepção provisória e definitiva de obras de urbanização, está sujeita ao pagamento das taxas fixadas no Quadro XV do presente regulamento.
+
+2 - Não se efectuando a vistoria por factos imputáveis ao requerente, ou se o resultado desta for desfavorável, são devidas novas taxas aquando do novo pedido de vistoria.
+
+3 - Quando a vistoria for solicitada por terceiro, designadamente nos casos previstos no artigo 90.º do RJUE, será este, no caso de o procedimento não conduzir a quaisquer das deliberações referidas nos n.os 2 e 3 do artigo 89.º do mesmo diploma, a suportar os respectivos encargos.
+
+QUADRO XV
+
+Vistorias
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 42.º — Operações de destaque
+
+O pedido de certidão de destaque ou a sua reapreciação, bem como a emissão da certidão relativa ao destaque, estão sujeitos ao pagamento das taxas fixadas no Quadro XVI do presente Regulamento.
+
+QUADRO XVI
+
+Operações de destaque
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 43.º — Inscrição de técnicos
+
+A inscrição de técnicos na Câmara Municipal, regulamentada no Regulamento Municipal de Urbanização e Edificação, está sujeita ao pagamento da taxa fixada no Quadro XVII do presente Regulamento.
+
+QUADRO XVII
+
+Inscrições de técnicos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 44.º — Propriedade horizontal
+
+A certificação de que um edifício se encontra em condições de ser constituído em propriedade horizontal encontra-se sujeita ao pagamento das taxas previstas no Quadro XVIII do presente Regulamento.
+
+QUADRO XVIII
+
+Propriedade horizontal
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 45.º
+
+##### Divisão administrativa
+
+O pedido de certidão de divisão administrativa ou a sua reapreciação, nas situações em que a execução de um arruamento dá origem a divisão de um prédio em prédios distintos e independentes, estão sujeitos ao pagamento das taxas fixadas no Quadro XIX.
+
+QUADRO XIX
+
+##### Divisão Administrativa
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 46.º — Assuntos administrativos
+
+1 - Os actos e operações de natureza administrativa e técnica, a praticar no âmbito das operações urbanísticas, estão sujeitos ao pagamento das taxas e demais encargos fixados no Quadro XX do presente Regulamento.
+
+2 - No caso de substituição do requerente, do responsável por qualquer dos projectos apresentados ou do director técnico da obra, o substituto deve disso fazer prova junto do presidente da Câmara Municipal para que este proceda ao respectivo averbamento no prazo de 15 dias a contar da data da substituição, estando sujeito ao pagamento de uma taxa fixada no Quadro referido no número anterior.
+
+3 - Os pedidos de averbamento de licenças ou autorizações em nome de outrem deverão ser instruídos com declarações, com assinaturas reconhecidas ou confirmadas pelos serviços dos respectivos interessados.
+
+4 - Presume-se que as pessoas singulares ou colectivas que trespassem os seus estabelecimentos ou instalações ou cedam a respectiva exploração autorizam o averbamento das licenças ou autorizações de que sejam titulares a favor das pessoas a quem transmitam os seus direitos, devendo os pedidos de averbamento ser instruídos com certidão ou fotocópia autêntica ou confirmada pelos serviços do respectivo contrato de trespasse, cessão ou cedência.
+
+QUADRO XX
+
+Assuntos administrativos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+#### Secção II — Taxas pela realização, reforço e manutenção de infra-estruturas urbanísticas
+
+###### Artigo 47.º — Âmbito de aplicação
+
+1 - A taxa pela realização, reforço e manutenção de infra-estruturas urbanísticas (TMU) é devida nas operações de loteamento e nas obras de edificação, sempre que estas, pela sua natureza ou localização, impliquem um acréscimo de encargos públicos na realização, manutenção e reforço de infra-estruturas e equipamentos públicos na zona abrangida pela intervenção.
+
+2 - A taxa referida no número anterior não é devida nos seguintes casos:
+
+a) Em construções que se enquadram em loteamentos urbanos, desde que a mesma já tenha sido paga aquando do licenciamento ou da admissão da comunicação prévia da correspondente operação de loteamento ou obras de urbanização.
+
+b) Em obras de escassa relevância urbanística, desde que não impliquem custos directos para o município na execução de infra-estruturas.
+
+c) Nas operações urbanísticas em terrenos alienados pelo município, quando tal conste de edital.
+
+###### Artigo 48.º — Cálculo da TMU
+
+1 - A taxa devida pela realização, manutenção e reforço de infra-estruturas nas operações urbanísticas é fixada, para cada unidade territorial, em função do custo das infra-estruturas e equipamentos gerais a executar pela Câmara Municipal, dos usos e tipologias das edificações, tendo ainda em conta o plano plurianual de investimentos municipais, sendo o seu valor calculado mediante a aplicação da fórmula:
+
+Ac x (Tu x Vu)
+
+em que:
+
+a) Ac - Área de construção a edificar ou ampliar;
+
+b) Tu - tipo de utilização a instalar, correspondendo a:
+
+i) 80 % para habitação unifamiliar
+
+ii) 85 % para habitação colectiva
+
+iii) 90 % para comercio e serviços
+
+iv) 100 % para indústria, hotelaria, restauração e outros
+
+c) Vu - Valor unitário por unidade territorial, de acordo com o quadro previsto no Quadro XXI do presente Regulamento.
+
+QUADRO XXI
+
+Valor unitário por unidade territorial
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 49.º — Deduções à TMU
+
+1 - Para efeitos do cumprimento do disposto no n.º 3 do artigo 25.º do RJUE, podem ser autorizadas deduções à taxa pela realização de infra-estruturas urbanísticas, na sequência de celebração de contrato entre a Câmara Municipal e o interessado, que verta os compromissos assumidos entre as partes.
+
+2 - Só será admitida a dedução à taxa calculada nos termos dos artigos anteriores, até ao limite desta, sempre que o loteador ou promotor executar, por sua conta, infra-estruturas que venha a entregar ao município, designadamente infra-estruturas viárias, redes públicas de saneamento, redes de águas pluviais, redes de abastecimento de água, que, ainda que se situem para além dos limites exteriores da área objecto do loteamento ou operação urbanística, se liguem directamente ao empreendimento, ao configurarem-se como um elemento essencial para a viabilização deste.
+
+3 - A determinação dos montantes a deduzir e correspondentes a estas situações de excepção, serão quantificadas para cada situação de acordo com os parâmetros constantes das fórmulas de cálculo respectivas.
+
+###### Artigo 50.º — Substituição da TMU por lotes ou parcelas
+
+1 - A Câmara Municipal poderá acordar, com o interessado, a substituição da totalidade ou de parte do quantitativo da taxa devida por parcelas de terrenos e ou lotes de construção, dentro ou fora da operação urbanística a concretizar.
+
+2 - No caso do quantitativo da taxa ser totalmente substituído por parcelas de terrenos e ou lotes, deverão estes possuir um valor equivalente à taxa a pagar, definido nos termos previstos para as compensações urbanísticas.
+
+3 - Para efeitos do disposto no número anterior, a substituição do quantitativo em numerário da taxa por parcelas ou taxas será objecto de acordo entre as partes, sendo as parcelas transferidas para o município integradas no domínio privado deste.
+
+#### Secção III — Compensações
+
+###### Artigo 51.º — Áreas para espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos
+
+Os projectos de loteamento e os pedidos de licenciamento ou autorização de obras de edificação quando respeitem a edifícios com impacte urbanístico relevante, incluindo os edifícios contíguos e funcionalmente ligados entre si que determinem, em termos urbanísticos, impactes semelhantes a uma operação de loteamento, devem prever áreas destinadas à implantação de espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos, de acordo com o previsto nos planos municipais e, supletivamente, na portaria aplicável.
+
+###### Artigo 52.º — Cedências
+
+Os interessados na realização de operações previstas no número anterior cedem gratuitamente à Câmara Municipal, parcelas de terreno para espaços verdes públicos e equipamentos de utilização colectiva e as infra-estruturas urbanísticas que de acordo com a lei e licença ou autorização de loteamento, devam integrar o domínio público municipal, integração essa que se fará automaticamente com a emissão do alvará ou nos termos previstos no Regime Jurídico da Urbanização e Edificação.
+
+###### Artigo 53.º — Compensações
+
+1 - Se o prédio em causa já estiver dotado de todas as infra-estruturas urbanísticas e/ ou não se justificar a localização de qualquer equipamento ou espaços verdes e de utilização colectiva, não há lugar a cedências para esses fins, ficando, no entanto, o proprietário obrigado ao pagamento de uma compensação ao município.
+
+2 - Também haverá lugar a compensação quando os espaços referidos no artigo 51.º permaneçam privados, desde que essas áreas não sejam destinadas a uso público, de acordo com o previsto no alvará em causa ou na admissão de comunicação prévia.
+
+3 - A cedência de estacionamentos à Câmara Municipal poderá ser substituída pelo pagamento de cinco mil euros por cada estacionamento, valor este que será descontado do cálculo das compensações devidas.
+
+###### Artigo 54.º — Cálculo do valor da compensação em numerário
+
+1 - O valor, em numerário, da compensação a pagar ao município será determinado de acordo com a fórmula:
+
+C1 + C2
+
+em que:
+
+a) C1 - é o valor em euros da compensação devida ao município quando não se justifique a cedência, no todo ou em parte, de áreas destinadas a espaços verdes e de utilização colectiva ou à instalação de equipamentos públicos no local;
+
+b) C2 - É o valor em euros da compensação devida ao município quando o prédio já se encontrar servido pelas infra-estruturas referidas na alínea h) do artigo 2.º do RJUE.
+
+2 - O Cálculo do valor C1 resulta da aplicação da fórmula:
+
+[K2 x A1 (m2) x V (Euro/m2)]/3.4
+
+em que:
+
+a) K2 - é um factor variável em função da localização, consoante a zona em que se insere, sendo estas:
+
+i) Vila Porto Moniz - zona I - 1,00;
+
+ii) Seixal - zona II - 0.65;
+
+iii) Ribeira da Janela/Santa/Lamaceiros - zona III - 0.45;
+
+iv) Achadas da Cruz - zona IV - 0.25.
+
+b) A1 (m2) é o valor, em metros quadrados, da totalidade ou parte das áreas que deveriam ser cedidas para espaços verdes e de utilização colectiva, bem como para a instalação de equipamentos públicos, calculado de acordo com os parâmetros aplicáveis.
+
+c) V - é o valor em euros, correspondente ao custo do metro quadrado de construção na área do município, decorrente da portaria anualmente publicada para o efeito.
+
+3 - O cálculo do valor de C2, exigível quando a operação de loteamento preveja a criação de lotes cujas construções a edificar criem servidões e acessibilidades directas para arruamento(s) existente(s), devidamente pavimentado(s) e infra-estruturado(s), resulta da seguinte fórmula:
+
+(0.1 x N) x (0.03 + K1) x A2 (m2) x V (euro/m2)
+
+em que:
+
+a) N - corresponde ao número de fogos e de outras unidades de ocupação previstas para o loteamento e cujas edificações criem servidões ou acessibilidades directas para arruamento(s) existente(s) devidamente pavimentado(s) e infra-estruturado(s) no todo ou em parte;
+
+b) K1 - é um factor dependente do nível de infra-estruturação do local, nomeadamente das infra-estruturas existentes e em funcionamento e que resulta da cumulação dos seguintes parâmetros:
+
+i) Arruamentos viários - 0.25;
+
+ii) Arruamentos pedonais - 0.15;
+
+iii) Estacionamentos - 0.08;
+
+iv) Rede de abastecimento de água - 0.12;
+
+v) Rede de abastecimento de gás - 0.03;
+
+vi) Rede de abastecimento de energia eléctrica - 0.18;
+
+vii) Rede de drenagem de águas residuais e pluviais - 0.14;
+
+viii) Rede de telecomunicações - 0.05.
+
+c) A2 (m2) corresponde à superfície determinada pelo comprimento das linhas de confrontação dos arruamentos com o prédio a lotear multiplicado pelas suas distâncias ao eixo dessas vias.
+
+d) V corresponde ao valor em euros, correspondente ao custo do metro quadrado de construção na área do município, decorrente da portaria anualmente publicada para o efeito.
+
+###### Artigo 55.º — Compensação em espécie
+
+1 - A compensação deverá, sempre que possível, ser paga em espécie, através da cedência de lotes, prédios urbanos, edificações ou prédios rústicos, a integrar o domínio privado da Câmara Municipal.
+
+2 - Feita a determinação do montante total da compensação a pagar em numerário, o promotor do loteamento deverá apresentar à Câmara Municipal toda a documentação comprovativa da posse do terreno a ceder, nos seguintes termos:
+
+a) Requerimento dirigido ao presidente da Câmara Municipal onde esclarece a sua proposta, indicando o valor do terreno;
+
+b) Planta de localização do prédio;
+
+c) Levantamento topográfico do prédio actualizado e, existindo, em suporte digital;
+
+d) Certidão de registo predial actualizada.
+
+3 - O pedido referido no número anterior será objecto de análise e parecer técnico, que deverá incidir sobre os seguintes pontos:
+
+a) Capacidade de utilização do terreno;
+
+b) Localização e existência de infra-estruturas;
+
+c) A possível utilização do terreno pela autarquia.
+
+4 - A Câmara Municipal pode recusar o pagamento da compensação em espécie sempre que entenda que os bens a entregar não são adequados, atendendo aos critérios definidos no n.º 2 do presente artigo, caso em que a compensação será feita em numerário.
+
+5 - Haverá lugar à avaliação dos terrenos ou imóveis a ceder ao município, e o seu valor será obtido por recurso ao seguinte mecanismo:
+
+a) A avaliação será efectuada por uma comissão composta por três elementos, sendo dois nomeados pela Câmara Municipal e o terceiro pelo promotor da operação urbanística;
+
+b) As decisões da comissão serão tomadas por maioria dos votos dos seus elementos.
+
+6 - Quando se verificarem diferenças entre o valor calculado para a compensação devida em numerário e o valor dessa compensação a entregar em espécie, as mesmas serão liquidadas da seguinte forma:
+
+a) Se o diferencial for favorável ao município, será o mesmo pago em numerário pelo promotor da operação urbanística;
+
+b) Se o diferencial for favorável ao promotor, ser-lhe-á o mesmo entregue pelo município.
+
+7 - Se o valor proposto no relatório final da comissão não for aceite pela Câmara Municipal ou pelo promotor da operação urbanística, recorrer-se-á a uma comissão arbitral, que será constituída nos termos do artigo 118.º do Regime Jurídico da Urbanização e Edificação.
+
+8 - As despesas efectuadas com o pagamento dos honorários dos avaliadores, serão assumidas pelo requerente.
+
+### Capítulo V — Taxas devidas pela emissão de Licenças específicas
+
+###### Artigo 56.º — Licenças especiais de ruído
+
+1 - A emissão de licenças especiais de ruído para o exercício de actividades ruidosas de carácter temporário previstas no artigo 15.º do [Decreto-Lei n.º 9/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2007-522807), de 17 de Janeiro, encontram-se sujeitas ao pagamento das taxas previstas no Quadro XXII do presente Regulamento.
+
+2 - A realização de festas populares e arraiais está isenta do pagamento de taxas, devendo, para o efeito, a sua realização ser comunicada ao Município pela respectiva comissão organizadora.
+
+QUADRO XXII
+
+Emissão de licença especial para o exercício de actividades ruidosas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 57.º — Licenças relativas a produtos e serviços petrolíferos e a áreas de serviço
+
+1 - A emissão de licenças de instalações de armazenagem de produtos de petróleo e instalações de postos de abastecimento de combustíveis não localizados nas redes viária regional e nacional, previstas no [Decreto-Lei n.º 267/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916), de 26 de Novembro, e respectivas vistorias, encontram sujeitas ao pagamento das taxas previstas no Quadro XXIII do presente Regulamento.
+
+2 - O quadro referido no número anterior inclui ainda as taxas a pagar pelo licenciamento precário de funcionamento de áreas de serviço na rede viária municipal, nos termos previstos nos artigos 4.º e 5.º do [Decreto-Lei n.º 260/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2002-448319) de 23 de Novembro de 2002.
+
+QUADRO XXIII
+
+Licenças relativas a produtos e serviços petrolíferos e a áreas de serviço
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 58.º — Licenças de instalação e funcionamento das infra-estruturas de radiocomunicações
+
+A autorização municipal para a instalação de infra-estruturas de suporte de estações de radiocomunicações e respectivos acessórios, prevista no [Decreto-Lei n.º 11/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2003-176339), de 18 de Janeiro, encontra-se sujeita, por cada unidade, ao pagamento da taxa de 110,00 (euro).
+
+###### Artigo 59.º — Licença de exploração de inertes
+
+O licenciamento de exploração de pedreiras e de outros materiais inertes, bem como a respectiva exploração, encontram-se sujeitos ao pagamento das taxas previstas no Quadro XXIV do presente Regulamento.
+
+QUADRO XXIV
+
+Licenciamento de actividades de exploração de inertes
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 60.º — Automóveis de aluguer
+
+À atribuição de licenças de veículos de passageiros de transporte público de aluguer aplicam-se as taxas constantes do Quadro XXV do presente Regulamento.
+
+QUADRO XXV
+
+Licença de veículos automóveis de passageiros de transporte público de aluguer
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 61.º — Veículos de condução
+
+1 - À atribuição de licenças de veículos de condução e factos dela resultantes aplicam-se as taxas constantes do Quadro XXVI do presente Regulamento.
+
+2 - Estão isentos de taxas os ciclomotores, motociclos e veículos agrícolas pertencentes aos Serviços do Estado, aos Corpos Administrativos e às pessoas colectivas de utilidade pública administrativa, bem como às pessoas fisicamente deficientes desde que se destinem ao transporte dos seus proprietários.
+
+3 - Nos casos de isenção referida no número anterior é devida a importância correspondente ao custo do livrete e da chapa, de acordo com o ponto 3 do Quadro XXVI do presente Regulamento
+
+QUADRO XXVI
+
+Licença de veículos de condução
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 62.º — Venda de bilhetes
+
+Pela emissão e renovação das licenças do exercício da actividade de agências de venda de bilhetes para espectáculos públicos é devida taxa no valor de 51 euros.
+
+###### Artigo 63.º — Realização de queimadas
+
+1 - A emissão de licenças para a realização de queimadas só é permitida após licenciamento na respectiva câmara municipal ou pela junta de freguesia se a esta for concedida delegação de competências, na presença de técnico credenciado em fogo controlado ou, na sua ausência, de equipa de bombeiros ou de equipa de sapadores florestais.
+
+2 - Pela emissão da licença referida no número anterior o valor da taxa será de 1 Euro por dia, sendo metade deste valor devida à entidade exterior ao Município que presencie a queimada.
+
+###### Artigo 64.º — Lançamento de foguetes
+
+1 - Em todos os espaços rurais, durante o período crítico, a utilização de fogo-de-artifício ou outros artefactos pirotécnicos que não sejam proibidos por determinação legal, está sujeita a autorização prévia da respectiva câmara municipal, que deve ser solicitada com pelo menos 15 dias de antecedência relativamente ao evento a realizar.
+
+2 - A taxa devida pela emissão da autorização referida no número anterior é de 20 Euros por dia.
+
+###### Artigo 65.º — Acampamentos ocasionais
+
+1 - A licença para a realização de acampamentos ocasionais em espaço privado ou público encontra-se sujeita à prestação de caução prevista em Regulamento próprio e às taxas previstas no Quadro XXVII do presente Regulamento.
+
+2 - Estão isentos do pagamento de taxas os requerimentos apresentados ao presidente da Câmara pelas instituições militares e militarizadas, de escutismo, instituições de solidariedade pública social e de âmbito exclusivamente social.
+
+QUADRO XXVII
+
+Licença para realização de acampamentos ocasionais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 66.º — Espectáculos desportivos e divertimentos públicos
+
+A realização de espectáculos desportivos e de divertimentos públicos e a concessão de recintos itinerantes, improvisados, acidentais e fixos para diversão pública a que se refere o [Decreto-Lei n.º 309/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2002-405759), de 16 de Dezembro, encontra-se sujeita às taxas previstas no Quadro XXVIII do presente Regulamento.
+
+QUADRO XXVIII
+
+Taxas devidas pela realização de espectáculos desportivos e divertimentos públicos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 67.º — Exercício de actividades específicas
+
+A emissão e renovação da licença anual para o exercício de actividade de arrumador de automóvel, para o exercício da actividade de vendedor de lotarias, ou para a realização de leilões emitidas nos termos de Regulamentos próprios, encontram-se sujeitas às taxas previstas no Quadro XXIX do presente Regulamento.
+
+QUADRO XXIX
+
+Licenças para o exercício de actividades específicas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+### Capítulo VI — Taxas devidas pela ocupação de espaços públicos
+
+###### Artigo 68.º — Ocupação de espaços públicos por motivo de obras
+
+1 - A ocupação de espaços públicos por motivos de obras está sujeito ao pagamento das taxas fixadas no Quadro XXX.
+
+2 - O prazo de ocupação do espaço público por motivo de obras não pode exceder o prazo fixado nas licenças ou comunicações prévias relativas às obras a que se reportam, acrescido do prazo máximo de três meses para reposição dos materiais na via pública.
+
+3 - No caso de obras não sujeitas a licenciamento ou comunicação prévia, a licença de ocupação de espaço público será emitida pelo prazo solicitado pelo interessado.
+
+QUADRO XXX
+
+Ocupação da via pública por motivo de obras
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 69.º — Ocupação do espaço aéreo na via pública
+
+A ocupação do espaço aéreo na via pública está sujeito ao pagamento das taxas fixadas no Quadro XXXI do presente Regulamento.
+
+QUADRO XXXI
+
+Ocupação do espaço aéreo na via pública
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 70.º — Ocupações no solo e no subsolo
+
+1 - A edificação de construções ou instalações especiais no solo, subsolo ou espaço aéreo está sujeita ao pagamento das taxas fixadas no Quadro XXXII do presente Regulamento.
+
+2 - Quando as condições o permitam e seja de presumir a existência de mais de um interessado, deve a Câmara Municipal promover a arrematação em hasta pública do direito à ocupação do solo, subsolo ou espaço aéreo público, tendo por base de licitação o valor equivalente ao previsto no Quadro referido no número anterior.
+
+3 - O produto da arrematação será liquidado no prazo determinado pela Câmara Municipal salvo se o arrematante declarar que deseja efectuar o pagamento em prestações, devendo, neste caso, pagar a importância correspondente a metade do valor global, sendo o restante será dividido em prestações mensais seguidas, não superiores a seis.
+
+4 - Em caso de nova arrematação terá direito de preferência, em igualdade de licitação, o anterior concessionário, nas situações em que a ocupação seja contínua.
+
+5 - Sem prejuízo da natureza precária da concessão, as taxas previstas no Quadro referido no n.º 1 do presente artigo, podem ser liquidadas e pagas por períodos superiores a um ano.
+
+6 - A ocupação do espaço público com esplanadas poderá ser objecto de contrato de concessão em que sejam fixados os encargos do ocupante, relativos ao arranjo do espaço ocupado, à prestação pecuniária e outras obrigações decorrentes da ocupação.
+
+7 - A Câmara Municipal poderá, no caso do n.º anterior, conceder a isenção temporária de taxa de ocupação, sempre que o benefício social do equipamento ou o valor da obra efectuada o justifiquem.
+
+QUADRO XXXII
+
+Ocupações no solo e no subsolo
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 71.º — Taxa municipal de direitos de passagem
+
+Nos termos da alínea b) do n.º 7 do artigo 64.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro com a redacção conferida pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro e ao abrigo do artigo 106.º da [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), de 10 de Fevereiro é aplicado sobre cada factura, emitida pelas empresas que oferecem redes e serviços de comunicações electrónicas, acessíveis ao público, uma taxa municipal de direitos de passagem de 0,25 %.
+
+### Capítulo VII — Taxas devidas pela utilização de equipamentos públicos
+
+###### Artigo 72.º — Parque de campismo
+
+Para além da prestação das cauções previstas em Regulamento específico, utilização do parque de campismo do Porto Moniz fica sujeita ao pagamento das tarifas previstas no Quadro XXXIII do presente Regulamento.
+
+QUADRO XXXIII
+
+Utilização de parque de campismo
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 73.º — Piscinas municipais
+
+1 - As taxas de utilização das piscinas municipais constam do Quadro XXXIV ao presente Regulamento.
+
+2 - Poderá ser fornecido um cartão de acesso exclusivamente ao calhau.
+
+3 - Os portadores do cartão de munícipe com as séries SX, RJ, PM e AC terão direito aos descontos descritos no Quadro referido no n.º 1, mediante apresentação obrigatória do cartão de munícipe.
+
+4 - Aos comerciantes poderão ser vendidos pacotes de 1000 bilhetes com desconto de 30 % relativamente ao valor de adulto, para entrega exclusiva aos clientes.
+
+QUADRO XXXIV
+
+Utilização das piscinas municipais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 74.º — Teleférico
+
+As taxas de utilização dos teleféricos das Achadas da Cruz encontram-se previstas no Quadro XXXV do presente Regulamento.
+
+QUADRO XXXV
+
+Utilização dos teleféricos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 75.º — Centro Ciência Viva do Porto Moniz
+
+As taxas de utilização do Centro Ciência Viva do Porto Moniz encontram-se previstas no Quadro XXXVI do presente Regulamento.
+
+QUADRO XXXVI
+
+Utilização do Centro Ciência Viva do Porto Moniz
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+### Capítulo VIII — Taxas relativas a publicidade
+
+###### Artigo 76.º — Licença de publicidade
+
+As taxas devidas pela emissão de licenças de publicidade encontram-se previstas no Quadro XXXVII do presente Regulamento.
+
+QUADRO XXXVII
+
+Taxas devidas por publicidade
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 77.º — Remoção de publicidade
+
+Pela remoção de anúncios e reclamos colocados ilegalmente na via pública ou nas fachadas dos prédios ou nos locais visíveis da via pública é feita a expensas do titular da licença ou infractor, acrescido da percentagem de 20 % para gestão.
+
+### Capítulo IX — Taxas devidas pela utilização de estacionamento tarifado
+
+###### Artigo 78.º — Incidência e isenções
+
+1 - As taxas devidas pelo estacionamento incidem objectivamente sobre as utilidades geradas pela actividade do Município de Porto Moniz, designadamente pela gestão de tráfego e de áreas de estacionamento e têm como sujeito activo a Câmara Municipal de Porto Moniz e como sujeito passivo qualquer pessoa singular ou colectiva e ou outras entidades legalmente equiparadas que utilizem as vias e espaços públicos para os quais é aprovado o regime de estacionamento tarifado.
+
+2 - Estão isentas do pagamento de título de estacionamento nos termos previstos no presente Regulamento as áreas reservadas a:
+
+a) Estacionamento de motociclos, ciclomotores e velocípedes;
+
+b) Operações de cargas e descargas.
+
+3 - Estão ainda isentas do pagamento de título de estacionamento:
+
+a) Os veículos em actividade de socorro ou de forças de segurança;
+
+b) Os veículos do Estado e do Município de Porto Moniz, quando devidamente identificados.
+
+###### Artigo 79.º — Taxas
+
+1 - O estacionamento nas zonas de estacionamento de duração limitada, definidas em regulamento próprio, cujo período mínimo de cobrança será de quinze minutos, está sujeito ao pagamento da taxa e às regras previstas no Quadro XXXVIII do presente Regulamento.
+
+2 - O pagamento da taxa por ocupação de lugares de estacionamento não constitui o Município de Porto Moniz em qualquer tipo de responsabilidade perante o utilizador, designadamente por eventuais furtos, perdas ou deteriorações dos veículos estacionados, ou de bens que se encontrem no seu interior.
+
+QUADRO XXXVIII
+
+Estacionamento tarifado
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 80.º — Modo de pagamento
+
+O pagamento dos títulos de estacionamento é feito em dinheiro, não sendo admitido o pagamento em prestações.
+
+### Capítulo X — Taxas relativas a Cemitérios
+
+###### Artigo 81.º — Inumação, exumação e trasladação
+
+1 - As taxas aplicáveis à inumação, exumação e trasladação de cadáveres encontram-se previstas no Quadro XXXIX do presente Regulamento.
+
+2 - As taxas de ocupação de ossários e gavetões podem ser requeridas por períodos superiores a um ano.
+
+2 - As inumações de indigentes são gratuitas, podendo ser também dispensadas do pagamento de taxas as inumações e exumações em talhões privativos, desde que tal seja requerido pelos interessados mediante prova de insuficiência económica.
+
+3 - A taxa de trasladação só é devida quando se trata de transferência de caixões ou urnas, não sendo acumulável com as taxas de exumação ou de inumação.
+
+QUADRO XXXIX
+
+Taxas aplicáveis à inumação, exumação e trasladação de cadáveres
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 82.º — Concessões de terrenos
+
+A concessão de terrenos em cemitérios encontra-se sujeita às taxas previstas no Quadro XXXX do presente Regulamento.
+
+QUADRO XXXX
+
+Taxas aplicáveis à concessão de terrenos em cemitérios
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 83.º — Obras em jazigos e sepulturas
+
+1 - A realização de obras em jazigos ou sepulturas determinadas pela Câmara ou a pedido do requerente encontra-se sujeita ao pagamento das taxas previstas no Quadro XXXXI do presente Regulamento.
+
+2 - A Câmara Municipal pode dispensar taxas relativamente a talhões privativos ou a trabalhos de simples limpeza e beneficiação requeridas e executadas por instituições de beneficência.
+
+3 - Só serão exigidos projectos com os requisitos gerais das obras se se tratar de construção nova de jazigos ou de obras de alteração de impacte significativo em jazigos.
+
+QUADRO XXXXI
+
+Taxas aplicáveis à realização de obras em jazigos e sepulturas perpétuas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 84.º — Outros serviços
+
+1 - A utilização da Capela fica sujeita ao pagamento da taxa por cada período de 24 horas ou fracção, de 20,00 (euro).
+
+3 - Os averbamentos em alvarás de concessão de terrenos em nome do novo proprietário ficam sujeitos às taxas previstas no Quadro XXXXII.
+
+QUADRO XXXXII:
+
+Taxas devidas por averbamentos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+### Capítulo XI — Tarifas devidas no âmbito do abastecimento público de água, saneamento e resíduos sólidos
+
+###### Artigo 85.º — Fornecimento de água e serviços conexos
+
+1 - O valor a pagar pelo serviço de fornecimento de água resulta encontra-se previsto no Quadro XXXXIII do presente Regulamento.
+
+2 - A tarifa mensal a cobrar pela disponibilidade dos serviços de água potável encontra-se prevista no Quadro XXXXIV do presente Regulamento.
+
+3 - Pelos demais serviços relacionados com o fornecimento de água são cobradas as taxas previstas no Quadro XXXXV do presente Regulamento.
+
+4 - Não é admissível o pagamento em prestações.
+
+QUADRO XXXXIII
+
+Fornecimento de água
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+QUADRO XXXXIV
+
+Disponibilidade dos serviços de água potável
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+QUADRO XXXXV
+
+Outros serviços relacionados com o fornecimento de água
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 86.º — Recolha, transporte e depósito de resíduos sólidos
+
+1 - As tarifas relativas a recolha, transporte e transferência de resíduos sólidos, a cobrar mensalmente no recibo de água e de acordo com o consumo desta, são calculadas nos termos do Quadro XXXXV do presente Regulamento.
+
+2 - Não é admissível o pagamento em prestações.
+
+QUADRO XXXXVI
+
+Tarifas de recolha, transporte e depósito de resíduos sólidos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 87.º — Saneamento
+
+1 - As tarifas pela utilização e conservação da rede de saneamento, ou a respectiva forma de cálculo, constam do Quadro XXXXVII do presente Regulamento.
+
+2 - Com excepção da taxa de ligação, as tarifas são pagas mensalmente na factura da água e variam em função do consumo da mesma.
+
+3 - Não é admitido o pagamento por prestações.
+
+QUADRO XXXXVII
+
+Tarifas de utilização e conservação da rede de saneamento
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+### Capítulo XII — Taxas devidas pela prestação de outros serviços municipais
+
+###### Artigo 88.º — Inspecção de ascensores e afins
+
+A inspecção e fiscalização de ascensores, monta-cargas, escadas mecânicas e tapetes rolantes encontram-se sujeitas ao pagamento das taxas previstas no Quadro XXXXVIII do presente Regulamento.
+
+QUADRO XXXXVIII
+
+Inspecção de Ascensores, monta-cargas, escadas mecânicas e tapetes rolantes
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 89.º — Exploração de máquinas
+
+1 - As taxas devidas pela exploração de máquinas automáticas, mecânicas, eléctricas e electrónicas de diversão encontram-se previstas no Quadro XXXXIX do presente Regulamento.
+
+2 - As taxas devidas pela transferência do local de exploração da máquina dentro do mesmo Município são idênticas às devidas pelo licenciamento.
+
+QUADRO XXXXIX
+
+Taxas devidas pela exploração de máquinas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 90.º — Atribuição de horários de funcionamento
+
+1 - A atribuição do horário de funcionamento dos estabelecimentos comerciais, de restauração e bebidas e de prestação de serviços encontra-se sujeito ao pagamento da taxa fixa de 20,00 Euros.
+
+2 - O alargamento excepcional do horário de funcionamento dos estabelecimentos comerciais, de restauração e bebidas e de prestação de serviços encontra-se sujeito ao pagamento da taxa fixa de 20,00 Euros.
+
+###### Artigo 91.º — Verificação de instrumentos de medição
+
+As taxas devidas pela aferição e conferição periódica de pesos e medidas dos aparelhos de medição encontram-se fixadas no [Despacho n.º 7784/2007](https://diariodarepublica.pt/dr/detalhe/despacho/7784-2007-2901726), publicado no Diário da República, 2.ª série, n.º 82, de 27 de Abril de 2007.
+
+###### Artigo 92.º — Registo de Cidadãos da União Europeia
+
+1 - As taxas devidas pelo registo de cidadãos da União Europeia, em aplicação dos artigos 14.º e 29.º da [Lei n.º 37/2006](https://diariodarepublica.pt/dr/detalhe/lei/37-2006-538604), de 9 de Agosto e da [Portaria n.º 1637/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1637-2006-1461060), de 17 de Outubro, encontram-se previstas no Quadro L do presente Regulamento
+
+2 - Para efeitos de aplicação da lei referida no número anterior, 50 % da taxa relativa à emissão de certificados de registo e de documento e cartão de residência reverte a favor dos Serviços de Estrangeiros e Fronteiras, devendo a este montante ser deduzido o valor de 2,5 % para cobertura de despesas administrativas municipais.
+
+3 - A primeira emissão do certificado, do documento de residência permanente ou do cartão de residente a menores de 18 anos, ao abrigo das disposições legais referidas nos artigos anteriores, é gratuita.
+
+QUADRO L
+
+Registo de cidadãos da União Europeia
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 93.º — Arrendamento urbano
+
+1 - As taxas devidas no âmbito da lei do Arrendamento Urbano, para determinação do coeficiente de conservação, nos termos previstos no n.º 3 do artigo 20 do [Decreto-Lei n.º 160/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2006-538613), de 8 de Agosto, encontram-se previstas no Quadro LI do presente Regulamento.
+
+2 - As taxas previstas nas alíneas nos pontos 1 e 2 do Quadro referido no número anterior são reduzidas a um quarto quando se trate de várias unidades de um mesmo edifício, para cada unidade adicional à primeira.
+
+3 - No caso de submissão de um litígio a decisão da Comissão Arbitral Municipal, cada parte é responsável pelo pagamento de metade da taxa fixada, devendo o pagamento ser efectuado pelo requerente junto com a apresentação do requerimento inicial e pelo requerido aquando da apresentação da defesa.
+
+4 - As restantes taxas devem ser pagas simultaneamente com a apresentação do requerimento a que respeitem.
+
+QUADRO LI
+
+Arrendamento urbano
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 94.º — Remoção, armazenamento e depósito de veículos
+
+As taxas devidas pela remoção de veículos, e pelo seu armazenamento e depósito pela Câmara Municipal do Porto Moniz encontram-se previstas no Quadro LII do presente Regulamento.
+
+QUADRO LII
+
+Remoção, armazenamento e depósito de veículos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 95.º — Avaliação acústica
+
+1 - Pela realização de ensaios e medições acústicas, no âmbito de acções de fiscalização do cumprimento do Regulamento Geral do Ruído, para avaliação do grau de incomodidade, serão devidas taxas, a cobrar de acordo com o Quadro LIII.
+
+2 - Quando a vistoria for solicitada por terceiro, será este, no caso da avaliação acústica se conformar com os limites legais, a suportar os respectivos encargos.
+
+QUADRO LIII
+
+Avaliação acústica
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+###### Artigo 96.º — Prestação de serviços e concessão de documentos
+
+1 - A prestação de serviços e a concessão de documentos estão sujeitos ao pagamento de taxas previstas no Quadro LIV do presente Regulamento.
+
+2 - As taxas a pagar pela reprodução de fotocópias/impressões são idênticas às previstas no âmbito das operações urbanísticas, de acordo com o disposto no Quadro XX do presente Regulamento.
+
+3 - Na remoção de lixos especiais, como entulhos e demolições, escavações, resíduos de unidades industriais e outros, o valor a cobrar depende de orçamento a fornecer caso a caso pelo Município, consoante a maquinaria e mão-de-obra a utilizar.
+
+QUADRO LIV
+
+Prestação de serviços e concessão de documentos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+### Capítulo XIII — Execução, fiscalização e sanções
+
+###### Artigo 97.º — Serviços ou operações urbanísticas executadas pela Câmara em substituição dos proprietários
+
+1 - Quando os proprietários se recusem a executar, no prazo fixado, quaisquer serviços ou operações urbanísticas impostas pela Câmara no uso das suas competências e seja esta a executá-los por conta daqueles, o custo efectivo dos trabalhos será acrescido de 20 % para encargos de administração.
+
+2 - O custo dos trabalhos, executado nos termos do número anterior, quando não pago voluntariamente no prazo de 20 dias a contar da notificação para o efeito, será cobrado judicialmente, servindo de título executivo a certidão passada pelos serviços competentes, comprovativa das despesas efectuadas.
+
+3 - Ao custo total acresce o imposto sobre o valor acrescentado à taxa legal, quando devido.
+
+###### Artigo 98.º — Fiscalização
+
+A fiscalização do cumprimento do presente Regulamento compete ao Serviço de Taxas e Licenças da Divisão Económica e Financeira e ao Serviço de Fiscalização Municipal da Divisão de Ordenamento do Território, no âmbito das respectivas funções.
+
+###### Artigo 99.º — Contra-ordenações
+
+1 - Constituem contra-ordenações:
+
+a) A prática de acto ou facto sem o prévio pagamento das taxas e outras receitas municipais, salvo nos casos expressamente permitidos;
+
+b) A inexactidão ou falsidade dos elementos fornecidos pelos interessados para liquidação das taxas e outras receitas municipais;
+
+c) A não prestação da informação tributária solicitada e necessária à cobrança e liquidação das taxas municipais.
+
+d) A não menção, nos casos previstos no artigo 16.º, n.º 4, do número de processo no momento da auto-liquidação das taxas.
+
+e) A ocupação de espaços em feiras, certames ou nos mercados, nos termos previstos no Regulamento Municipal sobre o Licenciamento do Exercício da Actividade de realização de Espectáculos e de Divertimentos Públicos, sem título para o efeito, a ocupação de espaços pertencentes a terceiros, sem que tal tenha sido admitido, ou a ocupação de espaço superior ao atribuído.
+
+f) A não ocupação de espaços em feiras, certames ou no mercado municipal nos termos autorizados.
+
+2 - Nos casos previstos na alínea a) do número anterior aplicam-se as coimas previstas para a falta de licenciamento ou sem que haja sido efectuada e admitida comunicação prévia, nos termos da lei, e, nos demais casos, a infracção será punida com coima graduada de 200 (euro) a 2.500 (euro), tratando-se de pessoa singular, e de 300(euro) a 5.000(euro), tratando-se de pessoa colectiva.
+
+3 - As infracções previstas na alínea b) e d) do n.º 1 é punida com coima graduada de 150 (euro) a 2.500 (euro), tratando-se de pessoa singular, e de 300(euro) a 5.000(euro), tratando-se de pessoa colectiva.
+
+4 - A infracção prevista na alínea c) do n.º 1 é punida com coima graduada de 250(euro) a 3.000(euro), tratando-se de pessoa singular, e de 500 (euro) a 7.000 (euro), tratando-se de pessoa colectiva.
+
+5 - A infracção prevista na alínea e) é punida com coima graduada de 61,56 (euro) a 183,61 (euro) para pessoas singulares e de 250 (euro) a 2000 (euro), para pessoas colectivas, elevando-se, para as pessoas singulares, em caso de primeira reincidência de 89,57 (euro) a 179,13 (euro) e nas seguintes de 123,12 (euro) a 183,61 (euro).
+
+6 - A infracção prevista na alínea f) é punida com coima graduada de 150 (euro) a 300 (euro), tratando-se de pessoa singular e de 350 (euro) a 1500 (euro) no caso de pessoas colectivas.
+
+###### Artigo 100.º — Competência
+
+A competência para determinar a instauração de processos de contra-ordenação, para designar o instrutor e para a aplicação das coimas pertence ao Presidente da Câmara, podendo ser delegada em qualquer membro do Executivo.
+
+### Capítulo XIV — Disposições finais
+
+###### Artigo 101.º — Actualização
+
+As taxas e demais receitas municipais previstas nas tabelas anexas ao presente regulamento serão actualizadas anualmente em Janeiro, aplicando um aumento igual ao valor da taxa de inflação do ano transacto.
+
+###### Artigo 102.º — Alterações regulamentares
+
+A alteração das várias taxas previstas no presente Regulamento ficam dependentes do preenchimento dos requisitos procedimentais que lhes sejam individualmente aplicáveis ao abrigo do Código do Procedimento Administrativo ou de legislação específica.
+
+###### Artigo 103.º — Norma revogatória
+
+Com a entrada em vigor do presente Regulamento são revogados todos os Regulamentos, Posturas ou parte deles ou normas internas aprovadas pelo município do Porto Moniz em data anterior à aprovação do presente Regulamento que disponham sobre as mesmas matérias ou que com o mesmo entrem em contradição.
+
+###### Artigo 104.º — Entrada em vigor
+
+O presente regulamento entra em vigor no décimo quinto dia posterior à sua publicação no Diário da República.
+
+Paços do Município de Porto Moniz, 26 de Fevereiro de 2010. - O Presidente da Câmara, Edegar Valter Castro Correia.
+
+Fundamentação económico-financeira das taxas, compensações e tarifas do Município do Porto Moniz
+
+1 - Introdução
+
+A noção de taxa encontra-se prevista no artigo 3.º do Regime Geral das Taxas das Autarquias Locais, aprovado pela [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de Dezembro, que as define como os "tributos que assentam na prestação concreta de um serviço público local, na utilização privada de bens do domínio público e privado das autarquias locais ou na remoção de um obstáculo jurídico ao comportamento dos particulares, quando tal seja atribuição das autarquias locais, nos termos da lei".
+
+Esta noção abrange uma amplitude considerável de situações às quais corresponde a previsão, nos Regulamentos Municipais pertinentes, da cobrança de taxas, situações essas que se encontram exemplificativamente previstas nos n.os 1 e 2 do artigo 6.º do mesmo diploma legal, nos seguintes termos:
+
+"1 - As taxas municipais incidem sobre utilidades prestadas aos particulares ou geradas pela actividade dos municípios, designadamente:
+
+a) Pela realização, manutenção e reforço de infra-estruturas urbanísticas primárias e secundárias;
+
+b) Pela concessão de licenças, prática de actos administrativos e satisfação administrativa de outras pretensões de carácter particular;
+
+c) Pela utilização e aproveitamento de bens do domínio público e privado municipal;
+
+d) Pela gestão de tráfego e de áreas de estacionamento;
+
+e) Pela gestão de equipamentos públicos de utilização colectiva;
+
+f) Pela prestação de serviços no domínio da prevenção de riscos e da protecção civil;
+
+g) Pelas actividades de promoção de finalidades sociais e de qualificação urbanística, territorial e ambiental;
+
+h) Pelas actividades de promoção do desenvolvimento e competitividade local e regional.
+
+2 - As taxas municipais podem também incidir sobre a realização de actividades dos particulares geradoras de impacto ambiental negativo."
+
+A noção de taxa assim apresentada confirma os traços essenciais que lhe são assinalados: o facto de se tratar de um tributo autoritariamente imposto mas, ao mesmo tempo, de assentar numa relação de sinalagma ou bilateralidade entre os respectivos sujeitos activos e passivos. Para além de indiciar o conjunto amplo de utilidades que são prestadas ou de actividades que são controladas pelos Municípios e que podem ser custeadas pela cobrança das taxas correspondentes.
+
+Havendo este enquadramento legal genérico para as taxas das autarquias locais, no qual se estipulam exigências similares para todas elas - designadamente exigindo uma fundamentação económico-financeira das taxas, sob pena de nulidade das previsões que as estabeleçam -, entendeu o Município do Porto Moniz integrá-las num único Regulamento Municipal, tornando-o, assim, mais legível e controlável pelos seus destinatários.
+
+Não olvidando, no entanto, as distinções existentes entre taxas e tarifas, sobretudo na medida em que a Lei das Finanças Locais qualifica estas últimas como preços (cf. artigo 16.º), entendeu ainda o Município do Porto Moniz unificá-las num único Regulamento - de taxas, compensações e tarifas -, pelo que este abrange as tarifas relativas ao abastecimento público de água, ao saneamento de águas residuais e à gestão de resíduos sólidos.
+
+Por último, e em função da íntima ligação entre taxas e demais encargos na legislação urbanística, procedeu o presente Regulamento à definição dos valores das compensações a prestar por não cedência, tendo em consideração a sua estrita vinculação ao princípio da proporcionalidade e, por isso, ao mesmo quadro metodológico que se encontra subjacente à definição do valor das taxas.
+
+2 - Objectivos
+
+Para além de uma caracterização geral das taxas, o Regime Geral das Taxas das Autarquias Locais estipula critérios operativos que permitem definir o modo de cálculo das taxas e, bem assim, a forma da sua inscrição no respectivo Regulamento Municipal.
+
+A este propósito, a fixação do valor das taxas deve fundar-se em dois critérios fundamentais: o critério da cobertura dos custos assumidos pelo Município e do ganho auferido pelos privados, sempre mediados pelo princípio da proporcionalidade (artigo 4.º, n.º 1).
+
+Admite complementarmente aquele artigo que o valor das taxas possa variar consoante critérios de desincentivo à prática de certos actos ou operações. O que se compreende se se tiver em consideração que os objectivos do estabelecimento de taxas não passa apenas pela satisfação das necessidades financeiras das autarquias locais, mas também pela promoção de finalidades sociais e de qualificação urbanística, territorial e ambiental.
+
+É também esta intenção de promoção de finalidades públicas associadas à fixação do valor das taxas que justifica a previsão de reduções ou dispensas do pagamento de algumas delas e uma diferenciação em função da heterogeneidade do Concelho do Porto Moniz, de modo a promover a desejável equidade territorial e social.
+
+Para concretizar estes critérios, dispõe o artigo 8.º, n.º 2, que o regulamento que crie taxas municipais contém obrigatoriamente, sob pena de nulidade:
+
+a) A indicação da base de incidência objectiva e subjectiva;
+
+b) O valor ou a fórmula de cálculo do valor das taxas a cobrar;
+
+c) A fundamentação económico-financeira relativa ao valor das taxas, designadamente os custos directos e indirectos, os encargos financeiros, amortizações e futuros investimentos realizados ou a realizar pela autarquia local;
+
+d) As isenções e sua fundamentação;
+
+e) O modo de pagamento e outras formas de extinção da prestação tributária admitidas;
+
+f) A admissibilidade do pagamento em prestações.
+
+Prevê ainda que as taxas actualmente em vigor devem ser revistas em conformidade com estas disposições até ao início do exercício de 2009 (artigo 17.º).
+
+É precisamente este desiderato que se pretende cumprir com a aprovação do Regulamento de Taxas, Compensações e Tarifas do Município do Porto Moniz, e respectivo Anexo "Fundamentação económico-financeira das Taxas e Tarifas do Município do Porto Moniz", ao qual está reservada a tarefa de justificação dos valores ou fórmulas de cálculo das taxas e tarifas a cobrar bem como das dispensas ou reduções estabelecidas.
+
+3 - Metodologia
+
+Em face da heterogeneidade das taxas, compensações e tarifas previstas no presente Regulamento, entendeu-se, seguindo as indicações legislativas, proceder a uma análise diferenciada das mesmas, tendo em consideração a sua diferente natureza - designadamente, se as mesmas se referem ao fenómeno urbanístico ou a outras actividades de controlo prévio da administração, se se reportam ao uso de bens do domínio público ou do domínio privado municipal, sobretudo de equipamentos municipais, ou se se analisam na prestação de um serviço pelo município - e, consequentemente, as diferentes metodologias adoptadas para o seu cálculo, tendo em consideração os variados custos envolvidos e as finalidades sociais e de equidade territorial assumidas pelo Município do Porto Moniz.
+
+Atendendo, porém, a que o Município do Porto Moniz não se encontra ainda dotado de um sistema suficientemente desenvolvido em matéria de contabilidade de custos, muitos dos valores corresponderão a estimativas realizadas pelos serviços municipais, tendo por base os elementos, a mais das vezes não orientados para esta tarefa específica de fundamentação económico-financeira, de que dispõem.
+
+Esta tarefa de cálculo de custos encontra-se ilustrada no ponto 15 da presente fundamentação, pela inclusão dos quadros para o efeito elaborados no âmbito do Município do Porto Moniz.
+
+4 - Taxas devidas pela remoção de obstáculos administrativos à realização de operações urbanísticas
+
+Dentro das taxas devidas pela remoção de obstáculos administrativos à realização de operações urbanísticas, que se caracterizam pela actividade administrativa de controle das operações urbanísticas, incluem-se os serviços subjacentes ao licenciamento, autorização e também, após a alteração ao Regime Jurídico da Urbanização e Edificação, promovida pela [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro, comunicação prévia de operações urbanísticas. Estas taxas constituem uma contrapartida pela actividade de controlo e de polícia da actuação urbanística promovida pelos diversos interessados, sendo, por isso, o "preço" pelos benefícios prestados pela Administração no controlo dessa actividade.
+
+Tratam-se de taxas que têm como contrapartida quer a remoção de um obstáculo legal ao exercício de um direito, quer ainda pela prestação de um serviço associado, por exemplo, a análise de projectos, consubstanciando-se ambas as situações na concessão de uma vantagem e numa contrapartida por um serviço prestado.
+
+Assim, para avaliar o equilíbrio entre os custos subjacentes ao serviço prestado e os benefícios do requerente, procedeu-se à estimativa do custo associado a cada serviço, com base no custo de mão-de-obra, no qual se teve em consideração o número de pessoas envolvidas na apreciação dos processos e respectivas qualificações, tanto na fase administrativa como na fase de apreciação técnica, o tempo médio de apreciação do processo e o volume de processos de cada natureza que têm vindo a ser apreciados pelo Município. Do mesmo modo se procedeu quando em causa estava o cálculo da taxa devida pela emissão do título respectivo.
+
+Juntou-se a este um valor calculado indirectamente como custo base, por serviço, associado a bens consumíveis imputados aos serviços municipais responsáveis pela gestão urbanística (custo do papel em média utilizado e das impressões realizadas, do sistema informático, das amortizações de equipamentos e investimentos realizados).
+
+No entanto, precisamente em virtude da alteração da legislação urbanística, é difícil obter dados fiáveis sobre os custos associados à figura da comunicação prévia. De qualquer das formas, apesar de pretender ser esta uma figura de surgimento "instantâneo", não deixou de se tomar em devida conta a tarefa de apreciação que envolve - que, apesar de mais simples, terá de, em face dos tempos previstos no Regime Jurídico de Urbanização e Edificação, ser prioritária - e os custos com material, em especial com o funcionamento sistema informático e com as tarefas que são incontornáveis, como a notificação da rejeição ou da admissão ao interessado. Por esses motivos - ainda que anotadas as diferenças existentes entre a licença e comunicação prévia - os valores a que se chegou foram similares, por as tarefas administrativas e técnicas, em termos de custos directos e indirectos se contrabalançarem, tendo sido opção do Município do Porto Moniz uniformizar as parcas diferenças existentes por uma questão de simplicidade regulamentar e para desincentivar a apresentação de comunicações prévias em casos que, procedimentalmente, devem ser tramitados como de licenciamento - situações estas que corresponderão à esmagadora maioria no Município do Porto Moniz.
+
+Note-se, ainda, que nestas taxas pela remoção de obstáculos administrativos à realização de operações urbanísticas não se inclui apenas o custo do serviço administrativo prestado, mas também o benefício gerado ao requerente, de acordo com o critério da equivalência. Pelo que, mesmo dentro do mesmo tipo de procedimento administrativo, os valores podem variar em função, naturalmente de forma razoável e proporcional, da natureza objectiva da operação urbanística a concretizar. Por motivos de equidade, então, procedeu-se à introdução de variações decorrentes do número de lotes, do número de fogos e ou unidades de ocupação ou bem ainda da diferenciação por tipo de usos, ao que acresce, adicionalmente, que estas diferenciações representam a maior complexidade da tarefa de apreciação dos técnicos neste âmbito. No entanto, como o valor do benefício auferido (e sentido) pelo interessado é dificilmente mensurável, não constituindo, por isso, um elemento suficientemente fiável do cálculo das taxas entendeu-se por adequado incluir esse elemento na coluna dos custos directos imputáveis à actividade municipal de apreciação dos processos. O que significa que, em muitos casos, o benefício auferido pelo interessado dificilmente é compensado pelo valor das taxas que paga, assumindo, assim, o Município o custo social e urbanístico a ele associado.
+
+Custo social que outras vezes foi assumido pelo Município, de modo a manter as taxas numa relação razoável com as taxas anteriormente previstas no Regulamento Municipal de Obras Particulares do Porto Moniz e em regulamentos avulsos. É o caso, por exemplo, da maioria das situações de reapreciação de actos administrativos anteriormente praticados em matéria urbanística, já que aquele Regulamento previa limiares inferiores aos estipulados para a emissão do acto de licenciamento ou autorização inicial, o que se justificava - e justifica - pelo facto de se pretenderem evitar posteriores alterações ilegais às operações autorizadas, por ser excessivamente oneroso lançar mão dos mecanismos adequados para o efeito.
+
+Por fim, apenas num número reduzido de casos se entendeu dever aplicar critérios de incentivo/desincentivo à realização das operações urbanísticas, já que, em regra, aqueles critérios assumem relevo no momento da apreciação da possibilidade de realização da operação urbanística e na própria determinação do valor da taxa pela realização, reforço e manutenção das infra-estruturas urbanísticas.
+
+Normalmente, este critério de desincentivo é utilizado nas hipóteses aliadas ao tempo da execução da operação urbanística, pois, apesar de não ter subjacente nenhum acréscimo de trabalho ou de material associado, o acréscimo da taxa justifica-se por introduzir um benefício ao promotor, em detrimento de um encargo para a comunidade em geral, que tem de suportar o decurso das obras e o incómodo delas adveniente por um período de tempo superior.
+
+Assim, seguindo a estrutura do Regulamento de Taxas e Tarifas, passar-se-á à apresentação dos quadros que permitem uma elucidação da tarefa de análise de custos efectuada, apenas procedendo a uma explicitação escrita dos valores neles previstos quando a mesma não resulte já do expendido anteriormente.
+
+4.1 - Taxas devidas pela emissão de alvará de licença ou de admissão de comunicação prévia de loteamento com ou sem obras de urbanização
+
+QUADRO II
+
+Taxa devida pela emissão de alvará de licença ou admissão de comunicação prévia de loteamento com ou sem obras de urbanização
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+QUADRO III
+
+Taxa devida pelo aditamento à licença ou admissão de comunicação prévia de loteamento com obras de urbanização
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+Os custos directos de 225,00 Euros imputáveis à emissão do aditamento prendem-se pelo facto de este ser de comunicação oficiosa à Conservatória do Registo Predial e de, por isso, ter o Município do Porto Moniz procedido à integração dos custos que individualizadamente tem com cada procedimento de alteração à licença.
+
+4.2 - Taxas devidas pela emissão de alvará de licença ou de admissão de comunicação prévia de obras de urbanização
+
+QUADRO IV
+
+Taxa devida pela emissão de alvará de licença ou admissão de comunicação obras de urbanização e respectivos aditamentos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+4.3 - Taxas devidas pela emissão de alvará ou de admissão de comunicação prévia de trabalhos de remodelação de terrenos
+
+QUADRO V
+
+Taxa devida pela emissão de alvará de licença ou admissão de comunicação prévia de trabalhos de remodelação dos terrenos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+4.4. - Taxas devidas pela emissão de alvará de licença ou admissão de comunicação prévia para obras de edificação ou seus aditamentos
+
+QUADRO VI
+
+Emissão de alvará de licença ou admissão de comunicação prévia de obras de edificação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+No ponto 1.7., sob a designação "Outras" incluiu-se um valor mediano entre as situações em que as exigências de apreciação do requerimento são mais ténues (1.6.) e as demais situações tipificadas que representam, quase exaustivamente, as ocupações em que tal apreciação ocupa mais meios humanos e técnicos do Município.
+
+QUADRO VII
+
+Aditamento ao alvará de licença ou admissão de comunicação prévia de obras de edificação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+4.5 - Emissão do alvará de licença ou admissão de comunicação prévia de outras obras de edificação
+
+QUADRO VIII
+
+Taxas devidas pela licença ou admissão de comunicação prévia de outras obras de edificação ou aditamentos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+No caso do valor cobrado por m3 para piscinas e outros recipientes destinados a líquidos, incluiu-se um factor de desincentivo associado à dimensão dos mesmos.
+
+4.6 - Emissão de licença ou comunicação prévia de obras de demolição
+
+QUADRO IX
+
+Licença ou admissão de comunicação prévia de obras de demolição
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+No caso das obras de demolição, tomou-se em consideração, no âmbito dos critérios previstos no ponto 2.1., o facto de ser agora necessária a entrega de um plano de gestão de resíduos da demolição, que o Município terá de analisar e controlar, o que torna mais complexa a tarefa administrativa de apreciação destas operações.
+
+4.7 - Taxas devidas pela autorização de utilização ou alteração de uso previstas ou não em legislação especial
+
+QUADRO X
+
+Autorização de utilização e de alteração do uso
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+QUADRO XI
+
+Autorização de utilização ou de alteração do uso previstas em legislação especial
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+4.8 - Taxa devida pela emissão de alvará de licença parcial
+
+No que concerne à presente taxa a mesma está associada a cada um dos valores correspondentes à taxa base, tendo-se fixado em 30 % o valor a solver no caso de o promotor optar por solicitar licença parcial para avançar com as obras antes de decorrido todo o procedimento de licenciamento. Como valor em causa será descontado do montante a pagar pela licença definitiva, não haverá qualquer oneração suplementar do requerente.
+
+4.9 - Taxa devida pela renovação de licença ou comunicação prévia
+
+A emissão do alvará resultante de renovação da licença ou admissão de comunicação prévia está sujeita ao pagamento da taxa prevista para a emissão do título caducado, reduzida na percentagem de 50 %, o que se justifica pelo facto de a tarefa de apreciação municipal ser mais limitada, já que corresponde aos parâmetros legais previstos no artigo 72.º do Regime Jurídico da Urbanização e Edificação. Do mesmo modo, apesar de estar em causa a emissão de um novo título para a realização das operações urbanísticas, entendeu-se não dever o promotor ser onerado com o pagamento na integralidade das taxas pelo benefício construtivo auferido, apesar de a caducidade do título anterior lhe ser imputável.
+
+4.10 - Taxa devidas por prorrogações
+
+QUADRO XII
+
+Prorrogações
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+Em matéria de prorrogações tentou o Município do Porto Moniz proceder à melhor ponderação entre o interesse na efectiva conclusão da obra - não especificando, assim, valores relativos à apreciação do processo - e o interesse na sua na sua mais curta finalização, de modo a evitar os inconvenientes para com terceiros e o interesse público.
+
+4.11 - Taxas devidas na execução por fases
+
+Não há nenhuma fundamentação especial a aduzir neste caso, já que o valor das taxas corresponderá, no final, ao valor a cobrar pela emissão da licença ou admissão de comunicação prévia sem que tal execução por fases fosse requerida. Há apenas um fraccionamento do pagamento tendo em consideração as operações a realizar em cada fase, naturalmente acrescido do valor imputável a cada aditamento que for sendo solicitado e emitido.
+
+4.12 - Taxa devida pela emissão de licença especial relativa a obras inacabadas
+
+A concessão da licença especial para conclusão de obras está sujeita ao pagamento da taxa de 0,70 Euros, por cada dia ou fracção, valor atinente ao custo inerente à tramitação do pedido, incluindo também um factor de desincentivo de 0,20 Euros, por cada dia ou fracção, associado ao tempo pelo qual é solicitada a licença.
+
+4.13 - Taxa pela realização de trabalhos de demolição, escavação e contenção periférica
+
+QUADRO XIII
+
+Demolição, escavação e contenção periférica
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+4.14 - Taxas devidas por informação prévia
+
+QUADRO XIV
+
+Informação prévia
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+4.15 - Taxas devidas por vistorias
+
+QUADRO XV
+
+Vistorias
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+Quanto às taxas devidas pelas vistorias, tal como nos demais casos, os valores correspondem aos custos subjacentes ao serviço prestado, sendo que os custos indirectos, no presente caso, por implicarem deslocações, possuem um valor superior ao valor de referência encontrado para a globalidade dos pedidos. Como também é possível verificar, existem custos diferenciados, consoante a finalidade da vistoria, facto que decorre sobretudo da complexidade das operações que exigem, quer a presença de técnicos especializados em áreas diferenciadas e ou um maior tempo para a realização da vistoria.
+
+4.16 - Taxas devidas por operações de destaque
+
+QUADRO XVI
+
+Operações de destaque
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+4.17 - Taxas devidas por inscrição de técnicos
+
+QUADRO XVII
+
+Inscrições de técnicos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+O valor das taxas pela inscrição de técnicos é devido, sobretudo, ao benefício auferido pelo promotor que fica assim dispensado, durante o tempo de validade da certidão apresentada, de juntar documentos similares aos processos em que intervenha. Note-se que não se trata de uma inscrição obrigatória, pelo que ficará na disponibilidade do técnico aferir se este mecanismo de simplificação administrativa lhe é interessante.
+
+4.18 - Taxas devidas pela emissão da certidão relativa à propriedade horizontal
+
+QUADRO XVIII
+
+Propriedade horizontal
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+4.19 - Taxas devidas pela certidão de divisão administrativa
+
+QUADRO XIX
+
+##### Divisão Administrativa
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+4.20 - Taxas devidas por assuntos administrativos
+
+QUADRO XX
+
+Assuntos administrativos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+5 - Taxa pela realização, manutenção de infra-estruturas urbanísticas (TMU) e Compensações
+
+5.1 - TMU
+
+No que concerne à metodologia seguida para a determinação dos valores da TMU, foi preocupação do Município do Porto Moniz tentar colmatar falhas assinaladas ao Regulamento Municipal anteriormente vigente, que não inscrevia a taxa pela realização, reforço e manutenção das infra-estruturas urbanísticas. Esta omissão, ainda que não onerando directamente os particulares, tornava mais difícil uma gestão urbanística municipal assente nos princípios da redistribuição de benefícios e encargos e uma política mais ambiciosa em termos de investimentos municipais, não assente quase exclusivamente nas transferências do orçamento regional e de auxílios comunitários.
+
+Para tanto, procedeu-se a um elenco dos investimentos em obras públicas realizados (Quadro 1.), bem como à definição dos investimentos projectados para 2009 e anos subsequentes (Quadro 2.), na medida em que estes são elementos essenciais para a dilucidação da forma de cálculo, ao representarem os custos que são suportados pelo Município para a prestação de serviços à população. Também por esse motivo, no Quadro 3. será definido o âmbito territorial dos investimentos projectados, reportados à unidade das freguesias que compõem o concelho do Porto Moniz e respectiva população, de molde a demonstrar a abrangência daqueles e justificar, deste modo, a diferenciação realizada no cálculo da TMU.
+
+QUADRO 1
+
+Investimentos realizados em 2008
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+QUADRO 2
+
+Investimentos projectados para 2008/2009, por freguesia
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+Com estes dados consegue-se proceder a uma ligação entre a TMU e o programa plurianual de investimentos municipais na execução, manutenção e reforço das infra-estruturas gerais, que será definido por áreas geográficas diferenciadas correspondentes a cada freguesia, nos termos exigidos pelo artigo 116.º do Regime Jurídico da Urbanização e Edificação.
+
+Acresce, a sustentar esta abordagem diferenciada, o facto de a cada freguesia estar genericamente associada, no Plano Director Municipal do Porto Moniz, uma diferente aptidão edificativa e distintas vocações em matéria de ordenamento do território, o que é evidenciado pelo nível de infra-estruturação que apresentam e o investimento para elas projectado, bem como pela variação no mercado imobiliário do custo médio do m2 de terreno onde se insere a operação urbanística.
+
+Deste modo, o valor unitário associado a operações urbanísticas que tenham lugar na área territorial de cada freguesia ou em sítios diferenciados incluídos nesta - o que sucede dentro da freguesia do Porto Moniz - varia em função do nível de infra-estruturação existente e projectado, de tal sorte que as freguesias com uma maior cobertura em termos de infra-estruturas gerais, quais sejam as de abastecimento domiciliário de água, drenagem e tratamento de efluentes domésticos, vias de comunicação rodoviárias; recolha e tratamento de resíduos sólidos urbanos, espaços verdes de recreio e lazer e equipamentos de desporto, culturais, de acção social e de educação escolar, apresentam valores unitários tendencialmente mais elevados do que as demais na medida em que os investimentos na qualificação e manutenção de tais infra-estruturas são sempre de integrar na TMU a cobrar.
+
+A TMU tem, precisamente, como finalidade precípua dotar a Câmara de receitas que lhe permitam financiar os respectivos investimentos em infra-estruturas gerais, fazendo participar os privados, responsáveis por produzir ou promover novos tecidos urbanos, no financiamento dos respectivos encargos de urbanização. Do que se depreende que aquele valor unitário, referido no Quadro XXI do Regulamento de Taxas, Compensações e Tarifas do Município do Porto Moniz, há-de igualmente ser proporcional ao valor do investimento em novas infra-estruturas e no reforço das existentes, de modo a exigir a contribuição dos privados no desenvolvimento e expansão urbanística municipal. Logo, as zonas com maior nível de investimento na sua execução, reforço, qualificação e manutenção, apresentam valores unitários tendencialmente mais elevados do que as demais.
+
+QUADRO XXI
+
+Valor unitário por unidade territorial
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+No entanto, ao contrário do que resultaria automaticamente do disposto anteriormente, as variações de valor unitário não espelham, directa e automaticamente, os critérios apresentados, já que é estratégia municipal desencorajar determinados usos em localizações consideradas menos convenientes, por se pretender salvaguardar objectivos ambientais ou manter zonas de maior ruralidade. Assim, esta dimensão estratégica das taxas, pela qual se pretende promover a nucleação dos centros urbanos e o evitar da dispersão das ocupações urbanísticas menos vocacionadas para o efeito - e também, por esse motivo, menos infra-estruturadas -, impõe a que a diferenciação entre zonas seja atenuada, de modo a agravar a construção nestas zonas.
+
+Por último, da forma de cálculo prevista no artigo 48.º do Regulamento, falta justificar o recurso à área de construção e a edificar ou ampliar em virtude da operação urbanística e a variável atinente ao tipo de utilização a instalar, correspondendo a:
+
+i) 80 % para habitação unifamiliar;
+
+ii) 85 % para habitação colectiva;
+
+iii) 90 % para comércio e serviços;
+
+iv) 100 % para indústria, hotelaria, restauração e outros.
+
+Estes factores que relevam no cálculo das TMU visam servir como elementos diferenciadores das taxas em função dos usos e tipologias das edificações, como o exige, igualmente, o artigo 116.º do Regime Jurídico da Urbanização e Edificação. Assim se assegura que as taxas funcionam como mecanismo indirecto de perequação, onerando quem mais direito a construir obtém da Administração e quem o concretiza para finalidades que comportam uma carga urbanística, social e ambiental mais marcadamente nociva.
+
+5.2 - Compensações
+
+O Regime Jurídico da Urbanização e Edificação, prevê nos n.os 4 e 5 do seu artigo 44.º que o proprietário fica obrigado ao pagamento de uma compensação ao Município, em numerário ou em espécie pela não cedência das áreas para espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos de determinadas operações urbanísticas, nos termos definidos no seu regulamento municipal.
+
+Também a este propósito, e tendo em consideração a similitude entre a figura das taxas e a das compensações, é devida uma justificação da forma de cálculo das compensações a que se refere o artigo 54.º do Regulamento de Taxas, Compensações e Cedências do Porto Moniz.
+
+Esta forma de cálculo resultou inalterada relativamente ao disposto na formulação do Regulamento Municipal de Obras Particulares, sendo que cumpre as exigências legais na definição da configuração e montante das compensações devidas.
+
+Por esse motivo, entendeu-se dever diferenciar o valor das compensações consoante a localização da operação urbanística, à semelhança do que ora sucede com a TMU, correspondendo a cada zona um factor variável, bem como da infra-estruturação já existente no local e respectiva caracterização.
+
+Ainda referente a estas compensações, fixou-se o valor de compensação devida por lugar de estacionamento em (euro) 5.000,00 que correspondem ao custo médio por m2 da superfície descoberta para efeitos de estacionamento, isto é, o custo por m2 é de cerca de (euro) 400,00, tendo um lugar de estacionamento em média 12,5 m2.
+
+6 - Taxas devidas pela emissão de licenças específicas
+
+As taxas incluídas no Capítulo V do Regulamento de Taxas, Compensações e Tarifas do Município do Porto Moniz referem-se a situações heterogéneas, em que a emissão da licença ou autorização resulta do disposto em legislação avulsa.
+
+Também nestes casos, porém, na medida em que em causa está a emissão de um título administrativo que permite o exercício de uma determinada actividade, a determinação do valor da taxa a pagar foi feita tendo por base a definição dos custos directos associados à tarefa de apreciação administrativa e técnica do requerimento (incluindo custos de deslocações técnicas), e custos indirectos referentes à imputação de custos de material e de investimentos cuja imediata ligação a cada processo não é passível de ser apurada. Da mesma forma que no âmbito da taxa pela remoção de obstáculos administrativos à realização de operações urbanísticas (cf. ponto 4 da presente Fundamentação), o valor associado aos custos directos é também indiciador, nos casos em que haja diferenciação do valor da taxa a pagar consoante a capacidade ou número de actuações permitidas, do benefício prestado e passível de aproveitamento por parte do requerente da licença.
+
+No entanto, introduzem-se nesta sede maiores considerações atinentes à natureza da actividade a desenvolver, seja pelo facto de assumirem maior relevância os factores de desincentivo ao desenvolvimento de determinadas actividades potencialmente nocivas, seja pelo facto de assumirem relevo factores de índole social, sobretudo quando se trata do exercício de actividades específicas como as de arrumador.
+
+6.1 - Licenças especiais de ruído
+
+QUADRO XXII
+
+Emissão de licença especial para o exercício de actividades ruidosas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+As actividades que concorrem para o valor da taxa de ruído são a verificação da situação proposta e o enquadramento face à legislação vigente (articulação com regime jurídico da urbanização e mapa de ruído, avaliação acústica - cumprimento dos limites fixados, avaliação do impacto ambiental e deslocação) e o relatório técnico. Assumiu-se, no entanto, que estas exigências têm particular relevo no caso de realização de obras de construção civil, pela sua maior duração, o que fez elevar os custos directos que lhe andam associados.
+
+Entendeu-se, ainda, que a licença de fim-de-semana ou de horário pós-laboral deve ter um agravamento de um terço relativamente ao valor fixado para as licenças de dias úteis.
+
+Relativamente ao ponto 2. Decidiu não se agravar as taxas consoante ocorressem em recintos abertos ou fechados, já que nem sempre este é um factor indiciador da maior ou menor incomodidade acústica. Entendeu-se, porém, agravar os eventos esporádicos que se prolongassem ou ocorressem após as 24h00.
+
+6.2 - Licenças relativas a produtos e serviços petrolíferos e áreas de serviço
+
+QUADRO XXIII
+
+Licenças relativas a produtos e serviços petrolíferos e a áreas de serviço
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+Neste âmbito particular, há a destacar o peso dos custos directos relacionados com a necessidade de, em função do princípio da prevenção e da legislação vigente, serem realizadas várias vistorias, o que se reflecte no pagamento dos técnicos qualificados intervenientes e no custeio das respectivas deslocações.
+
+6.3 - Licenças de instalação e funcionamento das infra-estruturas de radiocomunicações
+
+Optou-se neste caso pela indicação de um valor fixo de 110,00 Euros. Embora o custo pela apreciação do processo seja de aproximadamente 55,00 euros, optou-se pela cobrança do valor em dobro, como factor de desincentivo, associado a impactes ambientais negativos associados à paisagem urbana e a questões sociais, nomeadamente associadas ao tratamento de reclamações sobre este tipo de instalações.
+
+6.4 - Licença de exploração de inertes
+
+QUADRO XXIV
+
+Licenciamento de actividades de exploração de inertes
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+6.5. Licença de automóveis de aluguer
+
+QUADRO XXV
+
+Licença de veículos automóveis de passageiros de transporte público de aluguer
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+6.6 - Licença de veículos de condução
+
+QUADRO XXVI
+
+Licença de veículos de condução
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+6.7 - Licença para venda de bilhetes
+
+Pela emissão e renovação das licenças do exercício da actividade de agências de venda de bilhetes para espectáculos públicos é devida taxa fixa no valor de 51 euros, que corresponde ao custo de apreciação do processo e ao da emissão do respectivo título.
+
+6.8 - Licença para realização de queimadas e lançamento de foguetes
+
+As taxas devidas pela licença para a realização de queimadas ficam muito aquém do valor da apreciação do processo e da participação de entidades exigidas pela legislação de defesa da floresta contra incêndios. Estes custos cifram-se em cerca de 50 Euros. No entanto, optou o Município por estipular uma taxa mínima de 1 Euro, suportando os demais custos, para que tal constitua um forte incentivo contra a realização de queimadas sem as cautelas legais para o efeito.
+
+No caso de lançamento de foguetes, a taxa é de 20 Euros por dia, também abaixo da tarefa de apreciação do Município (cujos encargos rondam os 30 Euros, sem considerar eventuais acções inspectivas que se revelem necessárias ou convenientes) pelos mesmos motivos supra expendidos.
+
+6.9 - Licença para realização de acampamentos ocasionais
+
+QUADRO XXVII
+
+Licença para realização de acampamentos ocasionais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+6.10 - Licença para realização de espectáculos desportivos e divertimentos públicos
+
+QUADRO XXVIII
+
+Taxas devidas pela realização de espectáculos desportivos e divertimentos públicos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+6.11 - Licença para o desempenho de actividades específicas
+
+QUADRO XXIX
+
+Licenças para o exercício de actividades específicas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+Neste quadro é visível a assunção directa pelo Município da maioria dos custos envolvidos na emissão de licenças para o exercício de actividades específicas, com excepção das que tenham iminentemente efeitos lucrativos, o que se justifica em função das finalidades sociais prosseguidas.
+
+7 - Taxas devidas pela ocupação de espaços públicos
+
+As taxas devidas pela ocupação de espaços públicos, previstas no Capítulo VI do Regulamento de Taxas, Compensações e Tarifas do Município do Porto Moniz, assentam, como as demais taxas que supõem a emissão de um título autorizativo, nos custos directos e indirectos relacionados com a emissão da licença e com a tramitação dos procedimentos eventualmente necessários para o efeito (cf. o artigo 69.º), bem como o custo de eventuais deslocações e inspecções a realizar às obras e ocupações, de modo a aferir o respeito pelas condições impostas na licença (custo esse de (euro) 0,38/Km calculado conforme portaria que estabelece o valor de transporte para funcionários públicos). Foi ainda individualizado um parâmetro mínimo pela ocupação do espaço público, que se cifra, em regra, no valor de (euro) 0,10 por m2 e mês de ocupação, mas que, não obstante, assumiu um valor superior consoante estivessem em causa ocupações a desincentivar ou com um maior impacte urbano, ou inferior caso se tratasse de ocupações a incentivar pelo Município.
+
+Estes parâmetros conduziram às propostas discriminadas de taxas indicadas nos Quadros XXX, XXXI e XXXII.
+
+A previsão, no artigo 71.º, de uma taxa municipal de direitos de passagem de 0,25 % encontra-se, a ver do Município, plenamente justificada no diploma legal que a admite.
+
+QUADRO XXX
+
+Ocupação da via pública por motivo de obras
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+QUADRO XXXI
+
+Ocupação do espaço aéreo na via pública
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+QUADRO XXXII
+
+Ocupações no solo e no subsolo
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+8 - Taxas devidas pela utilização de equipamentos públicos
+
+As taxas devidas pela utilização de equipamentos públicos previstas nos quadros XXXIII, XXXIV, XXXV e XXXVI do Regulamento de Taxas, Compensações e Tarifas do Município do Porto Moniz, ainda que diferenciadas em função do tipo de utilização (mais intensiva ou menos intensiva, esporádica ou normal) e do tipo de utilizador (por idade, por local de residência), ficam aquém dos custos directos (com pessoal, equipamentos, energia e água) e dos custos indirectos de funcionamento dos mesmos, bem como com os investimentos realizados pelo Município para a sua qualificação. Entendeu-se, no entanto, ser uma obrigação do Município a promoção da utilização e fruição quer do parque de campismo, quer das piscinas municipais, teleférico e centro ciência viva do Porto Moniz, como forma de promover este como destino turístico e local de residência de qualidade. Pelo que assume o Município os custos sociais decorrentes do funcionamento destes equipamentos.
+
+9 - Taxas relativas a publicidade
+
+A determinação de uma taxa para a publicidade assenta na identificação dos custos directos associados à realização da actividade de licenciamento, designadamente os custos relativos à emissão de licença e de eventuais deslocações ao local para vistoria, bem como dos custos indirectos associados à emissão de licença. Não se olvidou, no entanto, que o exercício da actividade publicitária comporta incomodidades, pelo que se agravou a taxa dos tipos de publicidade que mais poluição visual e sonora produzem, tais como os reclamos luminosos ou iluminados e a publicidade feita a partir de ou por veículos automóveis.
+
+Com base nestes parâmetros chegou o Município do Porto Moniz à seguinte tabela de taxas:
+
+QUADRO XXXVII
+
+Taxas devidas por publicidade
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+10 - Taxas devidas pela utilização de estacionamento tarifado
+
+Relativamente às taxas devidas pela utilização de estacionamento tarifado, foram calculados os custos directos e indirectos globais de (euro) 20.994,39 (com a aquisição e manutenção dos parquímetros e afectação de pessoal), e o valor de (euro) 7.044 de amortizações (acumuladas). Não houve quaisquer encargos financeiros com a criação e manutenção de tais espaços, nem se prevêem futuros investimentos realizados ou a realizar pela Câmara.
+
+De modo a dar cumprimento à indicação de que as taxas a fixar pelos Municípios, não devem em princípio ser inferiores aos custos directa e indirectamente suportados com a actividade do Município, decorrente da gestão de tráfego e de áreas de estacionamento, mas também que não deve o Município concorrer com agentes privados que pretendam explorar áreas de estacionamento, considerou-se que o valor razoável das taxas a cobrar pelo estacionamento é o fixado nos termos do Quadro seguinte.
+
+QUADRO XXXVIII
+
+Estacionamento tarifado
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+11 - Taxas relativas a cemitérios
+
+A determinação de uma taxa para as inumações suporta-se na identificação dos custos directos associados à realização da intervenção de inumação e que supõe duas intervenções de 15 minutos cada (total de 30 minutos), em que estão afectos recursos humanos, em princípio dois coveiros (custo de 5,42 (euro) à hora), e de materiais (28,00 (euro) por hora).
+
+Tendo como referência a taxa assim determinada, pode proceder-se ao cálculo das taxas para exumações e taxas para trasladações considerando-se as especificidades destas relativamente à afectação de recursos no caso das inumações normais, como é feito no quadro XXXIX.
+
+No caso dos ossários e gavetões municipais, a sua ocupação temporária reflecte o investimento municipal realizado na sua realização e as necessidades de manutenção que ficam a cargo do Município.
+
+QUADRO XXXIX
+
+Taxas aplicáveis à inumação, exumação e trasladação de cadáveres
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+No caso das taxas aplicáveis à concessão de terrenos em cemitérios, considerou-se o valor base de (euro) 400/m2. Da mesma forma, propõe-se que os primeiros 3 m2 ou fracção sejam taxados no total de (euro) 1.250 para jazigos, com um factor de desincentivo de (euro) 50 relativamente às sepulturas perpétuas com a mesma área.
+
+QUADRO XXXX
+
+Taxas aplicáveis à concessão de terrenos em cemitérios
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+As taxas aplicáveis à realização de obras em jazigos e sepulturas perpétuas são puramente simbólicas, visando o Município com as mesmas controlar o aspecto exterior e as intervenções no cemitério municipal, sem que tal se possa equiparar, estritamente, a intervenções de ordem urbanística.
+
+QUADRO XXXXI
+
+Taxas aplicáveis à realização de obras em jazigos e sepulturas perpétuas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+Por último, a utilização da capela implica o apoio de 2 coveiros cerca de 30 minutos ((euro) 5,08) e trabalho do assistente administrativo de 30 minutos ((euro) 3,21) mais o consumo de energia durante o período de 24 horas ((euro) 11,71) totalizando (euro) 20,00.
+
+Os averbamentos em alvarás de concessão de terrenos estão sujeitos ao pagamento das taxas previstas no Quadro XXXXII e que se diferenciam consoante a natureza do transmissário, o que se justifica de modo a evitar questões relacionadas com a titularidade do jazigo ou sepultura, sobretudo quando já haja inumações aí realizadas.
+
+QUADRO XXXXII
+
+Taxas devidas por averbamentos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+12 - Tarifas devidas no âmbito do abastecimento público de água, saneamento e resíduos sólidos
+
+As tarifas a que se refere o presente Capítulo do Regulamento de Taxas, Compensações e Tarifas do Município do Porto Moniz encontravam-se já devidamente fundamentadas em face das alterações promovidas, já em 2008, aos Regulamentos pertinentes (cf. Avisos 718/2008, 951/2008 e 950/2008). Pelo que se transcreve agora os termos em que tal fundamentação foi feita e os Quadros de valores respectivos.
+
+12.1 - Fornecimento de água
+
+QUADRO XXXXIII
+
+Fornecimento de água
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+Considerando que a criação de taxas está subordinada aos princípios da equivalência jurídica, da justa repartição dos encargos públicos e da publicidade, incidindo sobre utilidades prestadas aos particulares, geradas pelas actividades dos municípios ou resultantes da realização de investimentos municipais e que os preços a cobrar pelos Municípios respeitantes ao abastecimento de água não devem ser inferiores aos custos directa e indirectamente suportados com a prestação desse serviço e com o fornecimento desse bem essencial que é a água nos termos do n.º 1 do artigo 16.º da Lei das Finanças Locais, bem como que o Instituto da Água, I. P. (INAG), Autoridade Nacional da Água, elaborou um estudo concluindo que os custos com o abastecimento, tratamento e distribuição de água são de 0,90 (euro) por m3, forçoso se tornou subir o preço do consumo de água para este valor. Valor este que vai ao encontro da análise técnico-financeira efectuada sobre os custos directos e indirectos, nomeadamente os custos dos vencimentos dos funcionários envolvidos nos processos desta área, os custos de investimentos em infra-estruturas e equipamentos municipais, os custos de manutenção de todas as infra-estruturas e equipamentos municipais. Para além desses custos, foram ainda considerados os encargos financeiros assumidos pela Autarquia, que se reflectem ao longo de vários anos com os juros devidos e, finalmente, os investimentos previstos para os próximos anos, alguns desde já comprometidos com obras adjudicadas.
+
+No entanto, por uma questão de justiça e igualdade social o aumento da água será gradual, tendo todavia que se aproximar do custo médio da água dos outros Municípios; sendo todavia mais onerados os consumidores com um nível mais elevado de consumo de água, de modo a efectivar o princípio da responsabilidade no consumo da água e desincentivar o seu desperdício.
+
+QUADRO XXXXIV
+
+Disponibilidade dos serviços de água potável
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+QUADRO XXXXV
+
+Outros serviços relacionados com o fornecimento de água
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+Nos Quadros XXXXIV e XXXXV as taxas reflectem, respectivamente, o valor dos serviços prestados (custos directos e indirectos com a celebração do contrato - respectivamente (euro) 9,00 e 3,00 - deslocação do pessoal, no valor de (euro) 18,00, ao que acresce, no caso do ponto 4., um valor de desincentivo de (euro) 40,00).
+
+12.2 - Recolha, transporte de depósito de resíduos sólidos
+
+QUADRO XXXXVI
+
+Tarifas de recolha, transporte e depósito de resíduos sólidos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+A lei que define as Competências das Autarquias Locais define as responsabilidades do Município na área das infra-estruturas, dos serviços prestados e de toda a estrutura de apoio que faz funcionar um Concelho ambientalmente mais limpo, obrigação que advém também do [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de Setembro que estabelece o regime geral da gestão dos resíduos, transpondo para a ordem jurídica interna a Directiva n.º 2006/12/CE, do Parlamento Europeu e do Conselho, de 5 de Abril, e a Directiva n.º 91/689/CE, do Conselho, de 12 de Dezembro.
+
+Os investimentos necessários à garantia da qualidade de vida dos munícipes implicam uma política de controlo de custos e da sua relação com o produto resultante, de forma a que os preços a cobrar pelos Municípios respeitantes à recolha dos resíduos sólidos (recolha, transporte e transferência dos resíduos sólidos) não sejam inferiores aos custos directa e indirectamente suportados com a prestação desse serviço nos termos do n.º 1 do artigo 16.º da Lei das Finanças Locais.
+
+A este propósito, o Município de Porto Moniz tem elevados custos com a prestação deste serviço, apesar de o ter apenas cobrado durante anos aos estabelecimentos comerciais do Concelho, o que agravou ainda mais as condições de prestação do mesmo.
+
+Por este motivo, as fórmulas de cálculo encontradas, que constam do Quadro XXXXVI, e que variam consoante o consumo de água efectuado - indício mais relevante e fiável do volume dos resíduos sólidos produzidos - e do tipo de utilização levado a cabo, foram calculadas tendo como base a análise técnico-financeira efectuada sobre os custos directos e indirectos, nomeadamente os custos dos vencimentos dos funcionários envolvidos nos processos desta área, os custos de investimentos em infra-estruturas e equipamentos municipais, os custos de manutenção de todas as infra-estruturas e equipamentos municipais bem como os custos com a Estação de Tratamento da Meia Serra - Valor Ambiente.
+
+Para além desses custos, foram ainda tomados em consideração os encargos financeiros assumidos pela Autarquia, que se reflectem ao longo de vários anos com os juros devidos e, finalmente, os investimentos previstos para os próximos anos, com a manutenção e substituição de equipamentos afectos a este serviço.
+
+12.3 - Saneamento
+
+QUADRO XXXXVII
+
+Tarifas de utilização e conservação da rede de saneamento
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+Considerando ainda que devido aos investimentos financeiros que a Câmara Municipal de Porto Moniz tem efectuado, uma grande parte da nossa população tem hoje saneamento básico.
+
+13 - Taxas devidas pela prestação de outros serviços municipais
+
+Neste Capítulo (XII) do Regulamento de Taxas, Compensações e Tarifas do Município do Porto Moniz, são englobadas uma panóplia de situações que resultam de previsões em legislação especial que, vastas vezes, define ela própria o montante imperativo ou supletivo das taxas a cobrar pelos Municípios, pelo que tentaremos agrupá-las, quando possível, pelas afinidades que têm entre si.
+
+13.1 - Taxas devidas por inspecções de ascensores e afins
+
+QUADRO XXXXVIII
+
+Inspecção de Ascensores, monta-cargas, escadas mecânicas e tapetes rolantes
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+O valor imputável às reinspecções periódicas é sensivelmente menor do que o aplicável às inspecções e inspecções extraordinárias pelo facto de o tempo envolvido na inspecção ser normalmente menor, assim como o é o desgaste do material.
+
+13.2 - Taxas devidas pela exploração de máquinas de diversão
+
+QUADRO XXXXIX
+
+Taxas devidas pela exploração de máquinas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+O Município, quanto a estas taxas e tendo em consideração os efeitos perniciosos que delas podem advir em termos sociais, associou-lhes um factor de desincentivo, como representado no Quadro supra.
+
+13.3 - Taxas devidas pela atribuição dos horários normais e extraordinários de funcionamento
+
+Optou o Município do Porto Moniz por estipular uma taxa fixa de (euro) 20,00, que cobre os custos directos ((euro) 15,00) e indirectos ((euro) 5,00) com a organização do processo, sem que, contudo, se tenha tomado em consideração a possibilidade de ocorrência de reclamações de terceiros e dos custos administrativos eventualmente envolvidos.
+
+13.4 - Taxas devidas pela verificação de instrumentos de medição, de registo de cidadãos da União Europeia e de actos praticados pela Comissão Arbitral Municipal, no âmbito da legislação do arrendamento urbano.
+
+Nestas situações, o Regulamento de Taxas, Compensações e Tarifas do Município do Porto Moniz apenas aderiu à opção legal, seja ela imperativa, seja ela supletiva, como sucede no caso do funcionamento da Comissão Arbitral Municipal (que prevê a aplicação do valor relativo a uma ou meia unidade de conta consoante o tipo de actuação, caso o Município não opte em sentido diverso). Por esse motivo, a indicação feita no Regulamento dos valores das taxas a cobrar é apenas declarativa, não pretendendo constituir uma verdadeira opção do Município, pelo que se aplicarão as sucessivas opções legais que venham a ser estabelecidas.
+
+Apenas duas notas suplementares: no caso da verificação dos instrumentos de medição optou-se por não inscrever no Regulamento os critérios legais, na medida em que os mesmos são extremamente técnicos, mas, por questões de transparência da actuação administrativa, entendeu-se referir o local de publicação do Despacho pertinente; no caso do funcionamento da Comissão Arbitral Municipal foi introduzida a hipótese de reclamação do coeficiente de conservação fixado, já que a lei a prevê - artigo 15.º da [Portaria n.º 1192-B/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1192-b-2006-152704), de 03 de Novembro - o que impõe a realização de nova vistoria e despesas para o Município. Por esse motivo, entendeu-se fixar o valor a pagar em uma unidade de conta, por se tratar de uma situação análoga à da determinação do coeficiente de conservação.
+
+13.5 - Taxas devidas pela remoção, armazenamento e depósito de veículos
+
+QUADRO LII
+
+Remoção, armazenamento e depósito de veículos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+13.6 - Taxas devidas pela realização de avaliação acústica
+
+QUADRO LIII
+
+Avaliação acústica
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+13.7 - Taxas devidas pela prestação de serviços e concessão de documentos
+
+QUADRO LIV
+
+Prestação de serviços e concessão de documentos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+14 - Isenções, Dispensas e Reduções de Taxas
+
+Como último exercício de fundamentação exigido pelo Regulamento Geral das Taxas das Autarquias Locais encontra-se a necessidade de justificação das isenções, dispensas e reduções de taxas concedidas ou passíveis de serem concedidas pelo Município do Porto Moniz.
+
+Referimo-nos a este respeito, ainda que não exclusivamente, às taxas urbanísticas, na medida em que são elas que maior relevo assumem no conjunto das compreendidas no Regulamento de Taxas, Tarifas e Compensações do Município do Porto Moniz.
+
+Sobre todas elas, há a referir que o Estado, as freguesias, os fundos e serviços autónomos e as entidades que integram o sector empresarial do Estado e do Município do Porto Moniz se encontram isentos do seu pagamento, apesar de a opção legal hodiernamente permitir que estas entidades sejam sujeitas ao pagamento de taxas (artigo 4.º, n.º 1). Trata-se, no entanto, na perspectiva do Município, de uma forma de promover investimentos públicos e de honrar o princípio da cooperação entre entidades públicas.
+
+Estão igualmente isentas do pagamento de taxas os promotores das operações de escassa relevância urbanística, como tal definidas nos termos da lei e do Regulamento Municipal de Urbanização e Edificação, os promotores de operações urbanísticas que se enquadrem no âmbito do Regulamento para a Conservação, Reparação ou Beneficiação de Habitações Degradadas de Pessoas Carenciadas do Concelho do Porto Moniz e os promotores de obras de edificação e utilização de edifícios que se instalem no Parque Empresarial do Porto Moniz (cf. artigo 4.º, n.º 2). Trata-se ou de situações de isenção decorrentes da lei ou, então, de hipóteses em que as finalidades de interesse social ou económico e urbanístico preponderam relativamente à obtenção de recursos financeiros por parte do Município. Em especial, a instalação no Parque Empresarial do Porto Moniz visa promover novos investimentos e, sobretudo, fomentar a relocalização de empresas existentes para aquela área, vocacionada para o efeito.
+
+A Câmara Municipal poderá também dispensar ou reduzir parcialmente o pagamento das taxas regulamentares devidas pelo licenciamento ou comunicação prévia de obras de edificação ou de demolição, bem como da utilização de edifícios, nas situações e de acordo com os critérios previstos no Quadro I do Regulamento de Taxas, Compensações e Tarifas do Município do Porto Moniz (artigo 4.º, n.º 3). Nestas situações, sujeitas a um juízo de ponderação municipal, devidamente balizado, seja quanto ao facto de se encontrarem preenchidos os critérios para atribuição da redução, seja quanto ao montante de redução a atribuir, evidencia-se a satisfação por parte de parceiros privados de necessidades do Município ou da promoção de operações urbanísticas de relevo municipal - seja em termos de empregabilidade, seja em termos de estratégia de intervenção municipal -, a prossecução de finalidades sociais e o patrocínio activo da igualdade de oportunidades no acesso à habitação, bem como o estímulo à revitalização do tecido residencial no Município do Porto Moniz.
+
+Mas não é apenas o artigo 4.º que fixa as situações de isenção, dispensa ou redução de taxas, havendo artigos avulsos que o fazem nos seus domínios de abrangência.
+
+Há a referir, a este propósito, as isenções do pagamento de taxas no acesso a equipamentos municipais por parte de crianças, de modo a fomentar o uso dos mesmos desde tenra idade e não onerar os pais com famílias numerosas.
+
+Também no âmbito do estacionamento tarifado, o artigo 77.º, n.º 2 do Regulamento prevê várias isenções, seja em função do tipo de veículo (motociclos, ciclomotores e velocípedes, em função da reduzida área que ocupam) ou de operação (seja técnica, de cargas e descargas, seja administrativa, de auxílio ou segurança), seja em função da natureza do titular do veículo (do Estado ou do Município).
+
+Outra área em que se manifesta a perspectiva social assumida pelo Município, prende-se ainda com as inumações, de acordo com o previsto no artigo 80.º, n.º 2 e no artigo 82.º, n.º 2 do Regulamento de Taxas, Compensações e Tarifas do Município do Porto Moniz.
+
+15 - Quadros de cálculo de custos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/056000000/1431414363.pdf)
+
+202993772

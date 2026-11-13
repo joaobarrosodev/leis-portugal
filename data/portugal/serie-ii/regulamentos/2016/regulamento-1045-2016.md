@@ -1,0 +1,269 @@
+---
+schema_version: '1.0'
+id: pt:dre:75745857:por
+title: Regulamento n.º 1045/2016
+short_title: null
+summary: Regulamento do Fundo de Apoio de Emergência 2016/2017 e seguintes
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Serviços de Ação Social da Universidade da Madeira
+proposing_entity: null
+official_number: 1045/2016
+official_date: null
+publication_date: '2016-11-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 220/2016, Série II de 2016-11-16
+  number: '220'
+  series: II
+  supplement: null
+  pages: 34200 - 34202
+  pdf_url: https://files.diariodarepublica.pt/2s/2016/11/220000000/3420034202.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '75745857'
+  dre_path: /dr/detalhe/regulamento/1045-2016-75745857
+  internal: pt:dre:75745857:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1045-2016-75745857
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1045-2016-75745857
+  consolidated_url: null
+  retrieved_at: '2026-11-13T06:15:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 76321ec319df868a6ac30f9ab9a8ee4b5ac68deda68cb3822dce0849c476b6a7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T06:15:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:3058633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
+article_structure:
+  article_count: 16
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T06:15:17Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 1045/2016
+
+Fundo de Apoio de Emergência: 2016/2017 e seguintes
+
+Nota Justificativa
+
+1 - A Universidade da Madeira (UMa) é uma pessoa coletiva de direito público com a natureza de instituto público (cf. arts. 3.º a 4.º da LQIP), de regime especial (cf. artigo 48.º/1 e 2 da LQIP). Este estatuto, aplicável às universidades, confere -lhes a possibilidade de ser reguladas por lei específica, que adote as "derrogações do regime comum na estrita medida necessária à sua especificidade..." (cf. artigo 48.º/1 e 2 e 6.º/2 LQIP).
+
+2 - O "regime comum" aplicável aos institutos públicos, para além dos princípios fundamentais do Título II da LQIP, é o expressamente constante do Título III da LQIP, no qual dispõe, em matéria de serviços, que os institutos públicos devem ter organização interna com estrutura hierarquizada e flexível, privilegiando as estruturas matriciais (cf. artigo 33.º/2.º).
+
+3 - O diploma legal específico a que alude o artigo 48.º/1 da LQIP é, no que respeita às universidades públicas, a [Lei n.º 62](https://diariodarepublica.pt/dr/detalhe/lei/62-1913-590913).º/2007, de 10.9, que aprovou o regime jurídico das instituições do ensino superior, que veio determinar, de modo algo paradoxal, que a LQIP constituí seu direito subsidiário no que não for incompatível com o por si disposto (cf. artigo 9.º/2 do RJIES).
+
+4 - O referido RJIES reconhece às Universidades autonomia estatutária e administrativa e também autogoverno. E confere à instituição o exercício do poder regulamentar, mormente, em termos principais e no essencial, ao seu órgão singular Reitor, ainda que o limite aos casos previstos na lei ou nos seus nos estatutos.
+
+5 - No âmbito das bases do financiamento do ensino superior ([Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), de 22.8), o princípio geral da não exclusão, entendido no sentido de que assiste ao estudante o direito de não ser excluído, por carências económicas, do acesso e frequência do ensino superior.
+
+6 - Já em sede de bases do sistema de ação social escolar, aprovadas pelo [Decreto-Lei n.º 129/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1993-692654), de 22.4), o legislador explicitou que a ação social, visando proporcionar melhores condições de estudo, consiste na prestação de serviços e concessão de apoios, compreende designadamente as atividades elencadas no n.º 2 do artigo 4.º do [Decreto-Lei n.º 129/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1993-692654), de 22.4.
+
+7 - Tal enumeração legal é meramente exemplificativa, não excluindo do âmbito da ação social outras atividades para além das enumeradas, como expressamente decorre, aliás, do n.º 3 do mesmo preceito, sendo certo é que, parece -nos, que deve finalisticamente visar o objetivo de proporcionar melhores condições de estudo. Também a tipologia de apoios é exemplificativa, como se alcança do disposto nos arts. 18.º a 22.º do mesmo diploma, porquanto admite -se, para além das bolsa de estudo e empréstimos, expressamente "outros subsídios". Do mesmo modo, incumbe ao conselho de ação social pode "promover outros esquemas de apoio social considerados adequados para as respetivas instituições".
+
+8 - Ainda que o legislador não remeta expressamente o legislado para ulterior normação regulamentar, a circunstância de ter adotado as referidas enumerações exemplificativas e ter conferido ampla amplitude na escolha e prossecução dos "esquemas de apoio social" (cf. artigo 11.º/2 do [Decreto-Lei n.º 129/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1993-692654)), só pode querer significar que a previsão dessas outras formas de ação, apoios ou esquemas possam ser instituídos pela própria instituição no âmbito do seu poder regulamentar. Constituindo, assim, a lei de habilitação objetiva do presente. Regulamento autónomo.
+
+9 - Por outro lado, o atual contexto económico-social, caracterizado por perda de rendimentos e elevado grau de esforço das famílias, reflete-se em equivalentes dificuldades para face aos encargos com a frequência do ensino superior, potenciando grandemente o abandono e o insucesso escolares. O que não é de todo estranho no seio da Universidade.
+
+10 - Tais circunstâncias justificam, também, a adoção do regulamento que institui o fundo de emergência da Universidade, constituindo um instrumento excecional de ação social apto a responder às situações que se vem apresentando e que urge dar resposta no âmbito da instituição, em especial dos seus Serviços Sociais.
+
+11 - A adoção do presente regulamento autónomo reveste caráter de especial urgência, dado se estar a iniciar o ano letivo, o que se mostra incompatível com a sua prévia divulgação e discussão por 30 dias, pelo que, nos termos do disposto no art. 110.º/3 do RJIES, dispensa -se tais formalidades. Assim, em regulamentação do [Decreto-Lei n.º 129/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1993-692654), de 22.4, e ao abrigo do disposto no artigo 92.º/1 - al. o) do RJIES, o Reitor da Universidade da Madeira aprova o seguinte:
+
+### CAPÍTULO I — Disposições Gerais
+
+###### Artigo 1.º — Natureza
+
+O Fundo de Apoio de Emergência (FAE) é um programa de apoio aos estudantes da UMa, em situação de comprovado estado de necessidade económica, que visa contribuir para o combate ao abandono e insucesso escolares.
+
+###### Artigo 2.º — Objeto e âmbito
+
+1.º O FAE comparticipa nas despesas de frequência de um ciclo de estudos dos estudantes em situação de emergência social, de entre os ciclos de estudos previstos no Regulamento de Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior (RABEEES) em vigor, que não possam ser solucionadas no âmbito do RABEEES, nem ser beneficiários de outros programas sociais em vigor na UMa/SASUMa.
+
+2.º O FAE assume a forma de subsídio de emergência, especialmente para despesas com propinas, alojamento na residência universitária e auxílios de emergência.
+
+###### Artigo 3.º — Financiamento
+
+O FAE, é constituído por dotações provenientes de:
+
+a) Entidades públicas ou privadas, sob a forma de donativos financeiros ou materiais;
+
+b) Dotação inicial atribuída pela UMa, a ser definida anualmente em Conselho de Gestão.
+
+###### Artigo 4.º — Subsídio de emergência
+
+1.º O subsídio de emergência é uma prestação pecuniária ou material atribuída a fundo perdido, isenta de quaisquer taxas.
+
+2.º O subsídio de emergência destina -se a colmatar situações pontuais decorrentes de contingências ou dificuldades económicas inesperadas com impacto negativo no normal aproveitamento escolar do estudante.
+
+### CAPÍTULO II — Atribuição de benefícios
+
+###### Artigo 5.º — Critérios de elegibilidade
+
+1 - Considera-se elegível, para efeitos de atribuição do FAE, o estudante da UMa que, cumulativamente:
+
+a) Esteja inscrito num mínimo a 30 ECTS, excetuando os casos em que o estudante se encontre inscrito a um número de ECTS inferior em virtude de se encontrar a finalizar o respetivo ciclo de estudos;
+
+b) Tenha obtido aproveitamento escolar, no último ano letivo em que esteve matriculado no Ensino Superior, a pelo menos 50 % dos ECTS em que se inscreveu, excetuando-se as situações que estejam socialmente protegidas e enquadradas no RABEEES em vigor, e ainda, alunos finalistas a frequentar o 2.º ciclo, que tenham necessidade de prolongar os seus estudos até o prazo máximo de um ano, para efeitos de apresentação da sua dissertação, projeto ou realização de estágio;
+
+c) Tenha, no momento do requerimento, um rendimento per capita do agregado familiar igual ou inferior a 18,50 vezes o indexante de apoios sociais (IAS) em vigor no início do ano letivo, acrescido do valor da propina máxima anualmente fixada para o 1.º ciclo de estudos do Ensino Superior público nos termos legais em vigor;
+
+d) Tenha um património mobiliário do agregado familiar em que está integrado, em 31 de dezembro do ano anterior ao do início do ano letivo, não superior a 240 vezes o valor do IAS;
+
+e) Não tenha, diretamente, dívidas tributárias ou contributivas para com o Estado.
+
+2 - O estudante que esteja simultaneamente inscrito em vários ciclos de estudo pode recorrer apenas a um fundo de apoio social, considerando-se apenas o primeiro requerimento apresentado.
+
+3 - Estão ainda elegíveis para a atribuição do FAE, estudantes oriundos de Países Africanos de Língua Oficial Portuguesa (PALOP), nos termos do n.º 1 do presente artigo, com base nos laços históricos que unem Portugal a Angola, Guiné-Bissau, Cabo Verde, São Tomé e Príncipe e Moçambique.
+
+###### Artigo 6.º — Candidaturas
+
+1 - A atribuição do subsídio é feita a pedido do estudante em requerimento na página eletrónica dos SASUMa, dirigido ao Administrador dos SASUMa, ao longo do ano letivo, tendo como limite de prazo o último dia útil do mês de abril.
+
+2 - Do requerimento devem constar obrigatoriamente os seguintes elementos:
+
+a) Identificação;
+
+b) Cartão de beneficiário da Segurança Social;
+
+c) Cartão de Contribuinte Fiscal;
+
+d) Atestado de composição detalhada do agregado familiar e atestado de residência do mesmo;
+
+e) Situação escolar;
+
+f) Recibos comprovativos dos rendimentos referentes ao mês anterior à entrega do requerimento;
+
+g) Outros rendimentos percebidos, a qualquer título, pelos elementos constituintes do agregado familiar;
+
+h) Fotocópia de Declaração de IRS/ IRC ou Declaração de Liquidação do ano anterior a que a candidatura diz respeito;
+
+i) Declaração emitida pelas Finanças e Segurança Social em como o estudante tem a sua situação regularizada perante aquelas entidades ou chegou a acordo para pagamento prestacional;
+
+j) Razão ou razões que motivam o pedido de apoio.
+
+3 - Os SASUMa, na análise dos elementos referidos no número anterior, reservam -se o direito de solicitar os meios de prova que entendam necessários, nos termos [Despacho n.º 8442-A/2012](https://diariodarepublica.pt/dr/detalhe/despacho/8442-a-2012-3058633), de 22 de junho.
+
+###### Artigo 7.º — Critério de seriação
+
+Com exceção dos auxílios de emergência, os apoios serão atribuídos por ordem de entrada dos respetivos pedidos, até ao limite da disponibilidade do FAE para o ano letivo em causa.
+
+###### Artigo 8.º — Competência
+
+É da competência do Reitor da Universidade da Madeira a atribuição dos apoios previstos neste regulamento, com faculdade de delegação no administrador dos serviços sociais da Universidade da Madeira.
+
+###### Artigo 9.º — Tipos de subsídios de emergência
+
+1 - O subsídio de emergência pode assumir as seguintes formas:
+
+a) Bolsa de propina - no montante anual não superior à propina máxima fixada para o 1.º ciclo de estudos do presente ano letivo;
+
+b) Bolsa de alojamento - no montante anual equivalente à renda devida pela estadia na residência universitária;
+
+c) Auxílios de emergência - Podem ser atribuídos aos estudantes auxílios de emergência, de natureza excecional, face a situações económicas especialmente graves que ocorram durante o ano letivo.
+
+2 - O valor máximo que pode ser atribuído a um estudante, a título de auxílio de emergência, num ano letivo, é o valor da propina fixado.
+
+a) A consideração das situações a que se refere a alínea c) do n. 1 do presente artigo, não está dependente de prazos e pode ocorrer em qualquer momento do ano letivo ou do período de formação, desde que dentro dos limites das disponibilidades do FAE para o ano letivo em causa;
+
+b) O pedido de auxílio de emergência é feito mediante uma exposição ao Administrador dos SASUMa, a quem caberá a decisão. Os pedidos de auxílio deverão ser acompanhados de toda a documentação de suporte e indispensável para a apreciação do pedido.
+
+###### Artigo 10.º — Indeferimento dos requerimentos
+
+Os pedidos são indeferidos nos seguintes casos:
+
+a) A não entrega dos documentos listados no artigo 6.º, assim como a não prestação de informação complementar solicitada pelos SASUMa;
+
+b) O não preenchimento das condições de elegibilidade;
+
+c) A entrega fora do prazo.
+
+###### Artigo 11.º — Pagamento do subsídio de emergência e publicitação dos resultados
+
+1 - O pagamento do subsídio de emergência é efetuado diretamente ao estudante.
+
+2 - A publicitação dos resultados da atribuição do FAE é efetuada no sítio de internet dos SASUMa: www.sasuma.pt.
+
+###### Artigo 12.º — Cessação do subsídio de emergência
+
+Constituem motivos para a cessação da atribuição do subsídio de emergência:
+
+a) A perda, a qualquer título, da qualidade de aluno da UMa;
+
+b) A não informação da alteração dos rendimentos e condições do agregado familiar que impliquem a perda ou a alteração do valor do subsídio de emergência.
+
+###### Artigo 13.º — Aceitação
+
+Os estudantes, após notificação de beneficiários do FAE, assinam um termo de aceitação.
+
+### CAPÍTULO III — Disposições finais
+
+###### Artigo 14.º — Legislação supletiva
+
+No que não estiver explicitamente estipulado neste regulamento, aplica -se supletivamente o constante do RABEEES em vigor, e legislação complementar.
+
+###### Artigo 15.º — Casos Omissos
+
+Todos os casos omissos são decididos por despacho do Reitor da UMa, ouvidos os SASUMa.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente regulamento entra em vigor no dia útil seguinte ao da sua publicação no Diário da República.
+
+27 de outubro de 2016. - O Reitor, Professor Doutor José Carmo.
+
+209997738

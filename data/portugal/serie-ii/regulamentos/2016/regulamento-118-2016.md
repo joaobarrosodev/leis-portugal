@@ -1,0 +1,2311 @@
+---
+schema_version: '1.0'
+id: pt:dre:73399244:por
+title: Regulamento n.º 118/2016
+short_title: null
+summary: 3.ª Alteração ao Regulamento Municipal de Taxas e Compensações Urbanísticas
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município da Lousã
+proposing_entity: null
+official_number: 118/2016
+official_date: null
+publication_date: '2016-02-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 22/2016, Série II de 2016-02-02
+  number: '22'
+  series: II
+  supplement: null
+  pages: 3930 - 4047
+  pdf_url: https://files.diariodarepublica.pt/2s/2016/02/022000000/0393004047.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '73399244'
+  dre_path: /dr/detalhe/regulamento/118-2016-73399244
+  internal: pt:dre:73399244:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/118-2016-73399244
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/118-2016-73399244
+  consolidated_url: null
+  retrieved_at: '2026-11-13T06:02:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6675c692d486f469aa48408aeb2a33d5c76e2c88d234973a6ee915b8333afb91
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T06:02:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:175787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56501680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67059141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67185041:por
+  label: null
+  source: null
+article_structure:
+  article_count: 81
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T06:02:16Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 118/2016
+
+Luís Miguel Correia Antunes, Presidente da Câmara Municipal da Lousã, para os efeitos do disposto no n.º 4 do artigo 3.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 136/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), de 9 de setembro e no artigo 56.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, torna público que a Câmara Municipal, na reunião de 7 de dezembro de 2015, e a Assembleia Municipal, na sessão de 17 de dezembro de 2015, após cumprimento do período de apreciação pública de 30 dias, conforme edital publicado em 22 de setembro de 2015 no Diário da República, 2.ª série, n.º 185, aprovaram a «3.ª Alteração ao Regulamento Municipal de Taxas e Compensações Urbanísticas», que se publica no Diário da República e na página da Internet da Câmara Municipal da Lousã - www.cm-lousa.pt.
+
+Para constar se lavrou este edital e outros de igual teor, que vão ser afixados nos locais públicos do costume.
+
+30 de dezembro de 2015. - O Presidente da Câmara, Luís Miguel Correia Antunes.
+
+3.ª Alteração ao Regulamento Municipal de Taxas e Compensações Urbanísticas
+
+Nota justificativa
+
+Em 5 de fevereiro de 2010, foi publicado na 2.ª série do Diário da República, n.º 25, o Regulamento Municipal de Taxas e Compensações Urbanísticas.
+
+Este Regulamento visa estabelecer as regras gerais e os critérios referentes à liquidação, cobrança e pagamento das taxas devidas pela realização de operações urbanísticas, pela emissão de alvarás, apresentação de comunicações prévias e pela realização, manutenção e reforço de infraestruturas urbanísticas, bem como às compensações e cedências a efetuar ao Município da Lousã.
+
+A 1.ª alteração ao Regulamento Municipal de Taxas e Compensações Urbanísticas foi publicada na 2.ª série do Diário da República, n.º 135, de 15 de julho de 2011, por força de diversos fatores, mormente das alterações introduzidas ao Regime Jurídico da Urbanização e Edificação.
+
+A 2.ª alteração ao Regulamento Municipal de Taxas e Compensações Urbanísticas foi motivada pelas alterações legislativas que incidiram sobre a atividade industrial, o alojamento local e o «Licenciamento zero», tendo a mesma sido publicada na 2.ª série do Diário da República, n.º 5, de 8 de janeiro de 2014.
+
+Com a publicação das alterações ao Regime Jurídico da Urbanização e Edificação, operadas pelo [Decreto-Lei n.º 136/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), de 9 de setembro e ao Sistema da Indústria Responsável, aprovado em anexo ao [Decreto-Lei n.º 169/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2012-179275), de 1 de agosto, operadas pelo [Decreto-Lei n.º 73/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2015-67185041), de 11 de maio, bem como do Regime Jurídico da Exploração dos Estabelecimentos de Alojamento Local, aprovado pelo [Decreto-Lei n.º 128/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2014-56384880), de 29 de agosto, alterado pelo [Decreto-Lei n.º 63/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2015-67059141), de 23 de abril, e do Regime Jurídico de Acesso e Exercício de Atividades de Comércio, Serviços e Restauração, aprovado pelo [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, mostra-se necessário conformar o Regulamento Municipal de Taxas e Compensações Urbanísticas ao consagrado naqueles diplomas legais, aproveitando-se ainda a oportunidade para rever algumas das suas normas e taxas.
+
+Outro fator preponderante que justifica a presente alteração é a operacionalização dos incentivos financeiros previstos no âmbito da aprovação de delimitação de Áreas de Reabilitação Urbana no Concelho da Lousã, designadamente, a redução do valor das taxas referentes à entrada e apreciação de processo de obras e à emissão de alvará de licença de obras ou à apresentação de comunicação prévia de obras, relativos a ações de reabilitação realizadas em imóveis localizados nestas áreas.
+
+Neste contexto, foram introduzidas, nomeadamente, as seguintes modificações ao Regulamento Municipal de Taxas e Compensações Urbanísticas, que se traduzem na:
+
+1) Alteração dos artigos 2.º, 3.º, 6.º, 13.º, 14.º, 15.º, 23.º, 24.º, 25.º, 26.º, 28.º, 29.º, 32.º, 45.º, 46.º e 54.º do Regulamento Municipal de Taxas e Compensações Urbanísticas, dos artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 9.º, 10.º e 24.º da Tabela de Taxas Urbanísticas, que constitui o Anexo I do referido Regulamento, e dos pontos II, III.3, III.4, III.5, III.6, III.8, III.12 e III.26 do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do referido Regulamento, de forma a adequa-los ao [Decreto-Lei n.º 136/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), de 9 de setembro;
+
+2) Alteração do artigo 5.º do Regulamento Municipal de Taxas e Compensações Urbanísticas, de forma a compatibiliza-lo com o Regulamento das Taxas e Preços Municipais e com os incentivos financeiros previstos no âmbito da aprovação de delimitação de Áreas de Reabilitação Urbana no Concelho da Lousã, bem como a promover o investimento nas áreas industriais e empresariais;
+
+3) Alteração do artigo 25.º-A do Regulamento Municipal de Taxas e Compensações Urbanísticas, dos artigos 3.º-A e 4.º da Tabela de Taxas Urbanísticas, que constitui o Anexo I do referido Regulamento, e do ponto III.5A do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do referido Regulamento, de forma a adequa-los à terminologia constante na 1.ª Revisão do Plano Diretor Municipal da Lousã;
+
+4) Alteração do artigo 27.º do Regulamento Municipal de Taxas e Compensações Urbanísticas e do artigo 5.º da Tabela de Taxas Urbanísticas, que constitui o Anexo I do referido Regulamento, de forma a adequa-los ao [Decreto-Lei n.º 136/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), de 9 de setembro e ao [Decreto-Lei n.º 267/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916), de 26 de novembro, na redação dada pelo [Decreto-Lei n.º 217/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787), de 9 de outubro, que estabelece os procedimentos e define as competências de licenciamento e fiscalização de instalações de armazenagem de produtos de petróleo e de instalações de postos de abastecimento de combustíveis;
+
+5) Alteração do artigo 44.º-D do Regulamento Municipal de Taxas e Compensações Urbanísticas, do artigo 27.º da Tabela de Taxas Urbanísticas, que constitui o Anexo I do referido Regulamento, e do ponto III.30 do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do referido Regulamento, de forma a adequa-los ao [Decreto-Lei n.º 136/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), de 9 de setembro e ao [Decreto-Lei n.º 128/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2014-56384880), de 29 de agosto, alterado pelo [Decreto-Lei n.º 63/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2015-67059141), de 23 de abril;
+
+6) Alteração do artigo 41.º do Regulamento Municipal de Taxas e Compensações Urbanísticas, do artigo 20.º da Tabela de Taxas Urbanísticas, que constitui o Anexo I do referido Regulamento e do ponto III.22 do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do referido Regulamento, de forma a adequa-lo ao [Decreto-Lei n.º 169/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2012-179275), de 1 de agosto, alterado pelo [Decreto-Lei n.º 73/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2015-67185041), de 11 de maio;
+
+7) Revisão das taxas relativas:
+
+7.1) Às ações de mobilização de solo, de forma a adequa-las ao [Decreto-Lei n.º 96/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2013-498122), de 19 de julho;
+
+7.2) Aos edifícios destinados a atividades sujeitas a regime especial;
+
+7.3) A outras obras e a vistorias;
+
+7.4) À receção de obras de urbanização;
+
+7.5) Às infraestruturas de suporte das estações de radiocomunicações e respetivos acessórios.
+
+8) Clarificação das taxas aplicáveis às alterações aos alvarás de licença e às alterações às comunicações prévias;
+
+9) Clarificação e revisão das taxas relativas à autorização de utilização e alteração do uso;
+
+10) Clarificação das definições adotadas no âmbito da aplicação do Regulamento Municipal de Taxas e Compensações Urbanísticas.
+
+11) Clarificação da definição de operações urbanísticas de impacte relevante;
+
+12) Clarificação das taxas aplicáveis aos procedimentos de legalização de operações urbanísticas, previstos pelo [Decreto-Lei n.º 136/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), de 9 de setembro;
+
+13) Atualização das taxas relativas aos pedidos de inspeção de ascensores, monta-cargas, escadas mecânicas e tapetes rolantes;
+
+14) Introdução de taxas referentes:
+
+14.1) À entrada e apreciação de aditamentos e/ou alterações aos projetos referentes a instalações de armazenamento de combustíveis líquidos e gasosos derivados do petróleo e de postos de abastecimento de combustíveis, decorrentes da apreciação da entidade inspetora de instalações de combustíveis derivados do petróleo, que colabora com os serviços municipais ao nível da apreciação de projetos, vistorias e inspeções;
+
+14.2) À entrada e apreciação de aditamentos e/ou alterações aos pedidos de autorização para a execução e entrada em funcionamento das redes e ramais de distribuição de gases de petróleo liquefeitos, decorrentes da apreciação da entidade inspetora das redes e ramais de distribuição de gases de petróleo liquefeitos, que colabora com os serviços municipais ao nível da apreciação de projetos, vistorias e inspeções;
+
+14.3) À entrada, apreciação e emissão de certidões relativas a prédios distintos e autónomos entre si;
+
+14.4) À entrada, apreciação e emissão de certidões e ou declarações relativas a assuntos urbanísticos;
+
+14.5) Ao fornecimento de cartografia em formato digital;
+
+14.6) Ao atendimento digital assistido à utilização do «Balcão do empreendedor»;
+
+14.7) Aos procedimentos enquadrados no Regime Jurídico de Acesso e Exercício de Atividades de Comércio, Serviços e Restauração;
+
+15) Atualização do cálculo da taxa pela realização, manutenção e reforço de infraestruturas urbanísticas (TMIU) e sua adequação à 1.ª Revisão do Plano Diretor Municipal da Lousã;
+
+16) Adequação à 1.ª Revisão do Plano Diretor Municipal da Lousã do cálculo das compensações em numerário.
+
+O «Projeto de 3.ª Alteração ao Regulamento Municipal de Taxas e Compensações Urbanísticas» foi submetido a apreciação pública entre 23 de setembro de 2015 e 3 de novembro de 2015, de acordo com o disposto no n.º 3 do artigo 3.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na redação conferida pelo [Decreto-Lei n.º 136/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), de 9 de setembro, e no artigo 118.º do Código de Procedimento Administrativo, não tendo sido apresentadas quaisquer reclamações, observações ou sugestões relativamente ao referido Projeto.
+
+Assim, ao abrigo do artigo 241.º da Constituição da República Portuguesa, dos artigos 114.º a 119.º do Código do Procedimento Administrativo, do artigo 3.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na redação conferida pelo [Decreto-Lei n.º 136/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), de 9 de setembro, dos artigos 14.º e 20.º da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro, na sua atual redação, do artigo 8.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro, na sua atual redação, das alíneas b) e g) do n.º 1 do artigo 25.º e da alínea k) do n.º 1 do artigo 33.º ambas da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na sua atual redação, a Câmara Municipal e Assembleia Municipal da Lousã aprovam a presente «3.ª Alteração ao Regulamento Municipal de Taxas e Compensações Urbanísticas».
+
+###### Artigo 1.º — Alteração ao articulado do Regulamento Municipal de Taxas e Compensações Urbanísticas
+
+São alterados os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 8.º, 13.º, 14.º, 15.º, 18.º, 22.º, 23.º, 24.º, 25.º, 25.º-A, 26.º, 27.º, 28.º, 29.º, 32.º, 34.º, 35.º, 36.º, 37.º, 40.º, 41.º, 44.º, 44.º-B, 44.º-D, 45.º, 46.º, 47.º, 50.º, 52.º, 54.º e 56.º do Regulamento Municipal de Taxas e Compensações Urbanísticas, que passam a ter a seguinte redação:
+
+«Artigo 1.º
+
+Lei habilitante
+
+O presente Regulamento e Tabela de Taxas têm como leis habilitantes o artigo 241.º da Constituição da República Portuguesa, os artigos 114.º a 119.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de novembro e alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de janeiro, os artigos 3.º e 116.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na redação conferida pelo [Decreto-Lei n.º 136/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), de 9 de setembro, os artigos 14.º e 20.º da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro, na sua atual redação, o artigo 8.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro, na sua atual redação e ainda as alíneas b) e g) do n.º 1 do artigo 25.º e da alínea k) do n.º 1 do artigo 33.º ambas da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na sua atual redação.
+
+Artigo 2.º
+
+[...]
+
+1 - ...
+
+2 - O presente Regulamento estabelece as regras gerais e os critérios referentes à liquidação, cobrança e pagamento das taxas devidas pela realização de operações urbanísticas, pela realização, manutenção e reforço de infraestruturas urbanísticas e pela prestação de serviços técnico-administrativos e de serviços decorrentes das competências da Divisão de Urbanismo, previstos em legislação especial, bem como às compensações e cedências a efetuar ao Município da Lousã.
+
+Artigo 3.º
+
+[...]
+
+1 - ...:
+
+a) Pela realização, manutenção e reforço de infraestruturas urbanísticas (TMIU);
+
+b) Pela concessão de licenças, apresentação de comunicações prévias e emissão de autorizações de utilização;
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+2 - A taxa pela realização, manutenção e reforço de infraestruturas urbanísticas (TMIU) constitui a contrapartida devida ao Município pelos encargos suportados pela autarquia com a realização, manutenção ou reforço de infraestruturas urbanísticas primárias e secundárias da sua competência, decorrentes das seguintes operações:
+
+a) ...
+
+b) ...
+
+c) ...
+
+Artigo 5.º
+
+Isenções e reduções
+
+1 - Estão isentas do pagamento de taxas previstas no presente Regulamento:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) As entidades, em casos excecionais devidamente justificados pela Câmara Municipal, da globalidade ou parcialmente dos valores das taxas, quando estejam em causa situações de calamidade;
+
+f) [Anterior alínea e).]
+
+2 - Estão isentas do pagamento da taxa pela realização, manutenção e reforço das infraestruturas urbanísticas as obras de construção e ampliação de edifícios inseridos em área industrial e empresarial, em que o respetivo lote ou parcela de terreno tenha sido inicialmente transmitido pelo Município da Lousã.
+
+3 - A requerimento dos interessados, e quando seja considerado de interesse para o Concelho a Câmara Municipal poderá isentar do pagamento das taxas.
+
+4 - As ações de reabilitação realizadas em imóveis localizados em Áreas de Reabilitação Urbana (ARU) estão sujeitas a uma redução de 50 % do valor das taxas de entrada e apreciação de processos de obras.
+
+5 - As ações de reabilitação realizadas em imóveis localizados em ARU estão sujeitas a uma redução de 25 % do valor das taxas inerentes à emissão de alvará de licença de obras ou à apresentação de comunicação prévia de obras.
+
+6 - A entrada, apreciação e emissão de certidões referentes a cedências para o domínio público municipal a título gracioso estão dispensadas do pagamento das taxas previstas na Tabela anexa ao presente Regulamento.
+
+7 - Beneficiam de isenção sobre as taxas previstas no presente Regulamento para o fornecimento de plantas topográficas, em formato digital e/ou papel, as entidades ou pessoas que solicitem estes serviços administrativos no âmbito de trabalhos de formação ou pesquisa de cariz académico, devendo para o efeito apresentar declaração da entidade de ensino respetiva que indique a utilização a dar à informação a fornecer.
+
+8 - Podem ser reduzidos do pagamento do valor das taxas as operações relativas à ocupação da via pública, à execução de obras ou à utilização ou alteração de utilização dos edifícios, bem como à instalação de atividades económicas, no âmbito de intervenções prioritárias que obedeçam a objetivos estratégicos, nas seguintes áreas e situações:
+
+a) Centros históricos;
+
+b) Definidas como áreas de reabilitação urbana;
+
+c) Abrangidas por projetos de iniciativa municipal;
+
+d) Quando os imóveis se situem em zonas de proteção arqueológica ou sejam de interesse municipal.
+
+9 - Para efeitos do número anterior, a delimitação das áreas é da competência da Câmara Municipal e a definição do âmbito da redução das taxas, da Assembleia Municipal.
+
+10 - Poderá ainda haver lugar à redução do valor das taxas previstas no presente Regulamento, quando a lei expressamente confira tal redução.
+
+Artigo 6.º
+
+[...]
+
+1 - ...
+
+2 - As taxas a cobrar são as que vigorarem no dia da prática do ato relativo ao licenciamento, à apresentação de comunicação prévia e à autorização.
+
+3 - ...
+
+4 - A liquidação das taxas devidas no âmbito dos regimes previstos no [Decreto-Lei n.º 128/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2014-56384880), de 29 de agosto, alterado pelo [Decreto-Lei n.º 63/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2015-67059141), de 23 de abril, no [Decreto-Lei n.º 169/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2012-179275), de 1 de agosto, alterado pelo [Decreto-Lei n.º 73/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2015-67185041), de 11 de maio, e no [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro é efetuada automaticamente no "Balcão do empreendedor".
+
+Artigo 8.º
+
+[...]
+
+1 - A notificação ou disponibilização no sistema informático da liquidação das taxas deve conter a fundamentação da liquidação, o montante devido, o prazo para pagamento, os meios de defesa contra o ato de liquidação, bem como a advertência para as consequências do não pagamento.
+
+2 - ...
+
+3 - ...
+
+Artigo 13.º
+
+[...]
+
+1 - Enquanto não estiver em funcionamento o sistema informático a que se refere o artigo 8.º-A do Regime Jurídico da Urbanização e Edificação, devem os serviços comunicar ao requerente, aquando da apresentação da comunicação prévia, o valor resultante da liquidação das taxas devidas pela respetiva operação urbanística, efetuada ao abrigo da Tabela anexa ao presente Regulamento.
+
+2 - Para efeitos de pagamento das taxas por autoliquidação, os serviços disponibilizarão os regulamentos e demais elementos que se tornem necessários à efetivação do referido pagamento.
+
+3 - ...
+
+4 - Caso os serviços venham a verificar que a autoliquidação realizada pelo requerente não se mostra correta, será o mesmo notificado do valor correto da liquidação e respetivos fundamentos, assim como do prazo para pagamento do valor que se vier a apurar em dívida, não podendo a obra iniciar-se sem que seja realizado o respetivo pagamento, ou do prazo de reembolso do valor que se vier a apurar em excesso.
+
+5 - Se o pagamento do valor em dívida não for efetuado no prazo referido no número anterior, será o procedimento considerado extinto, nos termos do previsto no Código de Procedimento Administrativo, e caso venha a verificar-se que a obra foi iniciada, será lavrado auto de embargo dos trabalhos, ficando o requerente impedido de prosseguir a execução da obra até que se mostre efetuado o pagamento.
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+Artigo 14.º
+
+[...]
+
+1 - ...
+
+2 - No caso de comunicação prévia, as taxas deverão ser pagas, no máximo, até 365 dias contados do termo do prazo para a notificação a que se refere o n.º 2 do artigo 11.º do Regime Jurídico da Urbanização e Edificação.
+
+3 - ...
+
+Artigo 15.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - Para efeitos do disposto no número anterior, o pagamento das taxas devidas pode ser efetuado na Caixa Geral de Depósitos, na conta bancária n.º 0408004946932 (NIB 003504080000494693230) à ordem do Município da Lousã.
+
+4 - ...
+
+5 - No âmbito dos regimes previstos no [Decreto-Lei n.º 128/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2014-56384880), de 29 de agosto, alterado pelo [Decreto-Lei n.º 63/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2015-67059141), de 23 de abril, no [Decreto-Lei n.º 169/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2012-179275), de 1 de agosto, alterado pelo [Decreto-Lei n.º 73/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2015-67185041), de 11 de maio, e no [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, o pagamento das taxas é efetuado automaticamente pelas formas de pagamento previstas no "Balcão do empreendedor".
+
+Artigo 18.º
+
+Garantias
+
+1 - Os sujeitos passivos das taxas municipais podem reclamar graciosamente ou impugnar judicialmente a respetiva liquidação.
+
+2 - (Anterior n.º 1.)
+
+3 - (Anterior n.º 2.)
+
+Artigo 22.º
+
+Taxa pela junção de elementos
+
+1 - A correção de requerimento deficientemente instruído está sujeita ao pagamento da taxa prevista na Tabela anexa ao presente Regulamento, paga aquando da apresentação do requerimento em que são apresentados os elementos em falta e desde que o requerimento a corrigir e/ou completar esteja sujeito ao pagamento de taxas previstas no presente Regulamento.
+
+2 - ...
+
+Artigo 23.º
+
+Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de loteamento com obras de urbanização
+
+1 - A emissão do alvará de licença ou a apresentação de comunicação prévia de loteamento com obras de urbanização está sujeita ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento, sendo esta composta de uma parte fixa e de outra variável em função do número de lotes, fogos, unidades de ocupação e prazos de execução, previstos nessas operações urbanísticas.
+
+2 - ...
+
+3 - Qualquer outro aditamento ao alvará de licença ou à comunicação prévia de loteamento com obras de urbanização está igualmente sujeito ao pagamento da taxa referida no número um deste artigo.
+
+Artigo 24.º
+
+Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de loteamento sem obras de urbanização
+
+1 - A emissão do alvará de licença ou a apresentação de comunicação prévia de loteamento sem obras de urbanização está sujeita ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento, sendo esta composta de uma parte fixa e de outra variável em função do número de lotes, fogos e unidades de ocupação, previstos nessas operações urbanísticas.
+
+2 - Em caso de qualquer aditamento ao alvará de licença ou à comunicação prévia de loteamento resultante da sua alteração, de que resulte um aumento do número de lotes, fogos ou unidades de ocupação, é também devida a taxa referida no número anterior, incidindo a mesma, contudo, apenas sobre o aumento aprovado.
+
+3 - Qualquer outro aditamento ao alvará de licença ou à comunicação prévia de loteamento está igualmente sujeito ao pagamento das taxas fixadas na aludida Tabela.
+
+Artigo 25.º
+
+Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de obras de urbanização
+
+1 - A emissão do alvará de licença ou a apresentação de comunicação prévia de obras de urbanização está sujeita ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento, sendo esta composta de uma parte fixa e de outra variável em função do prazo de execução, previstos para essa operação urbanística.
+
+2 - Qualquer aditamento ao alvará de licença ou à comunicação prévia de obras de urbanização está igualmente sujeito ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento.
+
+Artigo 25.º-A
+
+Taxa pela alteração de operação de loteamento municipal inserida em área industrial e empresarial
+
+A alteração a uma operação de loteamento municipal inserida em área industrial e empresarial, que tenha por efeito a criação de um ou mais lotes, destinados à construção de novas edificações, resultantes da divisão de lote(s) de terreno legalmente constituído(s), que seja apresentada por promotor(es) que tenha(m) sido beneficiário(s) de condições especiais de venda de lotes por parte da Câmara Municipal da Lousã, tendo em vista facilitar a fixação de investimentos e o aparecimento de novos postos de trabalho, está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+Artigo 26.º
+
+Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de obras de edificação
+
+1 - A emissão do alvará de licença ou apresentação de comunicação prévia para obras de construção, reconstrução, ampliação ou alteração, está sujeita ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento, variando esta consoante o uso ou fim a que a obra se destina, a localização, a área de construção e o respetivo prazo de execução.
+
+2 - O aditamento ao alvará de licença das obras descritas no número anterior, está sujeito ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento, incidindo a mesma, contudo, apenas sobre as alterações aprovadas.
+
+Artigo 27.º
+
+[...]
+
+1 - A apreciação dos pedidos de licenciamento de instalações de armazenamento de produtos de petróleo e de instalações de postos de abastecimento de combustíveis, está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+2 - A apreciação de aditamentos e/ou alterações aos projetos referentes a instalações de armazenamento de combustíveis líquidos e gasosos derivados do petróleo e de postos de abastecimento de combustíveis, decorrentes da apreciação da entidade inspetora de instalações de combustíveis derivados do petróleo, que colabora com os serviços municipais ao nível da apreciação de projetos, vistorias e inspeções, está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+3 - A emissão do alvará de licença ou apresentação de comunicação prévia de construção, ampliação ou alteração de instalações de armazenamento de produtos de petróleo e de postos de abastecimento de combustíveis está sujeita ao pagamento das taxas previstas na Tabela anexa ao presente Regulamento.
+
+4 - (Anterior n.º 3.)
+
+5 - (Anterior n.º 4.)
+
+6 - (Anterior n.º 5.)
+
+7 - A entrada, apreciação e a emissão do alvará de autorização de utilização de instalações de armazenamento de produtos de petróleo e de instalações de postos de abastecimento de combustíveis, estão sujeitos ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+Artigo 28.º
+
+Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de trabalhos de remodelação de terrenos
+
+A emissão do alvará de licença ou a apresentação de comunicação prévia para trabalhos de remodelação dos terrenos, nomeadamente, operações urbanísticas que impliquem a destruição do revestimento vegetal, a alteração do relevo natural e das camadas de solo arável ou o derrube de árvores de alto porte ou em maciço, para fins não exclusivamente agrícolas, pecuários, florestais ou mineiros, está sujeita ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento.
+
+Artigo 29.º
+
+[...]
+
+1 - (Revogado.)
+
+2 - A emissão do alvará de licença ou apresentação de comunicação prévia para construções, reconstruções, ampliações, alterações de muros, piscinas, tanques, depósitos ou outros recipientes destinados a líquidos ou sólidos, está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+3 - A demolição de edificações, quando não integrada em procedimento de licença ou de comunicação prévia de obras de construção ou de reconstrução, está sujeita ao pagamento da taxa para o efeito fixada na Tabela anexa ao presente Regulamento.
+
+4 - A alteração de fachada de edificações está também sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+Artigo 32.º
+
+Taxa pela emissão de licença especial relativa a obras inacabadas
+
+Nas situações previstas no artigo 88.º do Regime Jurídico da Urbanização e Edificação, a concessão de licença especial para conclusão das obras está sujeita ao pagamento de uma taxa fixada de acordo com o seu prazo, estabelecida na Tabela anexa ao presente Regulamento.
+
+Artigo 34.º
+
+Taxas pela emissão de certidão de destaque de parcela, de certidão de ano de construção e de certidão de prédios distintos e autónomos entre si
+
+A emissão da certidão de destaque de parcela, da certidão de ano de construção e da certidão de prédios distintos e autónomos entre si está sujeita ao pagamento das taxas previstas na Tabela anexa ao presente Regulamento.
+
+Artigo 35.º
+
+[...]
+
+A realização de vistorias para obtenção de autorização de utilização de edifícios, suas frações ou unidades independentes funcionais, alteração de utilização e outras vistorias para fins diversos, está sujeita ao pagamento das taxas previstas na Tabela anexa ao presente Regulamento.
+
+Artigo 36.º
+
+[...]
+
+A realização de vistoria e a emissão de alvará de autorização de utilização de recintos de espetáculos e de divertimentos públicos ficam sujeitas ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+Artigo 37.º
+
+[...]
+
+A entrada, apreciação e vistorias referentes à receção provisória ou definitiva de obras de urbanização estão sujeitas ao pagamento das taxas previstas na Tabela anexa ao presente Regulamento.
+
+Artigo 40.º
+
+[...]
+
+1 - A entrada e apreciação de autorização de utilização está sujeita ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento.
+
+2 - A emissão do alvará de autorização de utilização ou de alteração de uso está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento, variando estas em função do uso ou fim, da área bruta a edificar, do n.º de fogos e seus anexos, do n.º de unidades de funcionais independentes.
+
+3 - (Revogado.)
+
+4 - A emissão de alvará de autorização de utilização ou suas alterações relativa a edifícios destinados a atividades sujeitas a regime especial está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+Artigo 41.º
+
+[...]
+
+1 - Pela prática dos atos referentes à alteração e exploração de estabelecimentos industriais do tipo 3, são devidas as taxas previstas na Tabela anexa ao presente Regulamento.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - O atendimento digital assistido à utilização do "Balcão do empreendedor" relativo aos procedimentos para instalação, alteração e exploração de estabelecimentos industriais 1 e 2, previstos no Sistema da Indústria Responsável, anexo ao [Decreto-Lei n.º 169/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2012-179275), de 1 de agosto, alterado pelo [Decreto-Lei n.º 73/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2015-67185041), de 11 de maio, está sujeito ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+Artigo 44.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - A entrada, apreciação e emissão de certidões e ou declarações relativas a assuntos urbanísticos estão sujeitas ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+4 - O fornecimento de plantas topográficas e de cartografia digital é efetuado mediante o pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+5 - (Anterior n.º 3.)
+
+Artigo 44.º-B
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - A apreciação de aditamentos e/ou alterações aos pedidos de autorização para a execução e entrada em funcionamento das redes e ramais de distribuição de gases de petróleo liquefeitos, decorrentes da apreciação da entidade inspetora das redes e ramais de distribuição de gases de petróleo liquefeitos, que colabora com os serviços municipais ao nível da apreciação de projetos, vistorias e inspeções, está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+Artigo 44.º-D
+
+[...]
+
+A inserção da mera comunicação prévia para registo de estabelecimentos de alojamento local no "Balcão do empreendedor", através de atendimento digital assistido e o fornecimento da placa identificativa do respetivo estabelecimento, encontram-se sujeitos ao pagamento das taxas previstas na Tabela anexa ao presente Regulamento.
+
+Artigo 45.º
+
+[...]
+
+Nos casos referidos no artigo 72.º do Regime Jurídico da Edificação e Urbanização, a apreciação do pedido de renovação, a emissão do alvará resultante da renovação da licença ou a apresentação de nova comunicação prévia estão sujeitas ao pagamento das taxas previstas para os respetivos atos ou pedidos a renovar, nos termos da Tabela anexa ao presente Regulamento.
+
+Artigo 46.º
+
+[...]
+
+1 - Em caso de deferimento do pedido de execução por fases, nas situações referidas nos artigos 56.º e 59.º do Regime Jurídico da Urbanização e Edificação, o alvará abrange apenas a primeira fase das obras, implicando cada fase subsequente a um aditamento ao alvará, sendo devidas as taxas correspondentes.
+
+2 - Na fixação das taxas referidas no número anterior ter-se-á em consideração a obra ou obras a que se refere a fase ou aditamento.
+
+3 - Quando se trate de operação efetuada ao abrigo de comunicação prévia, o interessado identifica na comunicação as fases em que pretende proceder à execução das obras, efetuando previamente o pagamento das taxas correspondentes a cada uma das fases, antes do início das obras respetivas.
+
+4 - Na determinação do montante das taxas será aplicável o estatuído no presente Regulamento, consoante se trate, respetivamente, de alvará de licença ou apresentação de comunicação prévia de loteamento com obras de urbanização, alvará de licença ou apresentação de comunicação prévia de obras de urbanização e alvará de licença ou apresentação de comunicação prévia para obras de edificação.
+
+Artigo 50.º
+
+[...]
+
+...
+
+1) tmu(índice m)(euro) é a taxa municipal de urbanização média - 5,60 (euro);
+
+2) A (m2) - é a área de construção da(s) edificação(ões);
+
+3)...
+
+Habitação unifamiliar - 0,22;
+
+Habitação plurifamiliar - 0,24;
+
+Comércio, serviços, restauração e bebidas - 0,44;
+
+Hotelaria e similares - 0,44;
+
+Indústria e armazém, inseridas em área industrial e empresarial - 0,20;
+
+Indústria e armazém, não inseridas em área industrial e empresarial - 0,44;
+
+Grandes superfícies comerciais - 1,2;
+
+Anexos e garagens - 0,22;
+
+Construções agrícolas e pecuárias - 0,12;
+
+4)...
+
+Áreas urbanas e aglomerados rurais - 1;
+
+Áreas industriais e empresariais - 0,5;
+
+Outras áreas ou espaços - 2;
+
+5)...
+
+Alteração a uma operação de loteamento municipal inserida em área industrial e empresarial, que tenha por efeito a criação de um ou mais lotes, destinados à construção de novas edificações, resultantes da divisão de lote(s) de terreno legalmente constituído(s), que seja apresentada por promotor(es) que tenha(m) sido beneficiário(s) de condições especiais de venda de lotes por parte da Câmara Municipal da Lousã, tendo em vista facilitar a fixação de investimentos e o aparecimento de novos postos de trabalho - 40;
+
+...
+
+Artigo 52.º
+
+[...]
+
+...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) As grandes superfícies comerciais e conjuntos comerciais;
+
+e) ...
+
+e1) Estabelecimentos hoteleiros com o mínimo de 30 unidades de alojamento;
+
+e2) ...
+
+e3) Apartamentos turísticos, com o mínimo de 20 unidades de alojamento;
+
+e4) Conjuntos turísticos (resorts).
+
+Artigo 54.º
+
+Cedências
+
+1 - Os interessados na realização de operações de loteamento cedem, gratuitamente, à Câmara Municipal, parcelas de terreno para espaços verdes públicos e equipamentos de utilização coletiva e as infraestruturas urbanísticas que, de acordo com a legislação em vigor e a licença ou comunicação prévia de operação de loteamento, devam integrar o domínio municipal, com especificação das áreas a integrar no domínio público e no domínio privado do Município.
+
+2 - A integração no domínio público ou privado das parcelas de terreno e infraestruturas mencionadas no número anterior far-se-á automaticamente com a emissão do alvará e, no caso de operações urbanísticas sujeitas a comunicação prévia, através de instrumento notarial próprio a realizar no prazo de 20 dias após a receção da comunicação prévia.
+
+3 - (Revogado.)
+
+4 - ...
+
+Artigo 56.º
+
+Cálculo do valor da compensação em numerário
+
+1 - ...
+
+a) ...
+
+b) K1 - é um fator variável em função da localização, consoante a zona em que se insere, de acordo com o definido no Regulamento da 1.ª Revisão do Plano Diretor Municipal da Lousã e tomará os seguintes valores:
+
+K1 = 0,020 em áreas urbanas;
+
+K1 = 0,015 em aglomerados rurais;
+
+K1 = 0,008 em áreas industriais e empresariais;
+
+K1 = 0,030 nas restantes áreas ou espaços;
+
+c) K2 - corresponde ao índice de utilização previsto pela operação urbanística, calculado de acordo com o Regulamento da 1.ª Revisão do Plano Diretor Municipal da Lousã;
+
+d) ...
+
+e) ...
+
+2 - ...»
+
+###### Artigo 2.º — Aditamento ao articulado do Regulamento Municipal de Taxas e Compensações Urbanísticas
+
+São aditados ao Regulamento Municipal de Taxas e Compensações Urbanísticas, os artigos 5.º-A, 44.º-G e 46.º-A do Regulamento Municipal de Taxas e Compensações Urbanísticas, com a seguinte redação:
+
+«Artigo 5.º-A
+
+Definições
+
+1 - Para efeitos de aplicação do presente regulamento, são adotadas as definições constantes no [Decreto Regulamentar n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-2009-494182), de 29 de maio, no [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na redação dada pelo [Decreto-Lei n.º 136/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), de 9 de setembro, no Regulamento Geral das Edificações Urbanas, no Regulamento Municipal da Urbanização e da Edificação, na 1.ª Revisão do Plano Diretor Municipal e na demais legislação aplicável.
+
+2 - No âmbito do presente Regulamento, sem prejuízo do disposto no número anterior, são consideradas:
+
+a) Áreas urbanas: Áreas qualificadas e delimitadas na Planta de Ordenamento da 1.ª Revisão do Plano Diretor Municipal da Lousã como núcleo histórico da Lousã, áreas urbanas centrais, áreas residenciais envolventes, áreas residenciais dispersas, aldeias de xisto da serra da Lousã, áreas para equipamentos estruturantes, área urbana central urbanizável, área residencial envolvente urbanizável;
+
+b) Áreas industriais e empresariais: Áreas qualificadas e delimitadas na Planta de Ordenamento da 1.ª Revisão do Plano Diretor Municipal da Lousã como espaços afetos a atividades industriais, inseridos em solo rural e espaços de atividades económicas, inseridos em solo urbano;
+
+c) Aglomerados rurais: Pequenos núcleos de edificação inseridos em solo rural, que se encontram delimitados na Planta de Ordenamento da 1.ª Revisão do Plano Diretor Municipal da Lousã.
+
+Artigo 44.º-G
+
+Taxas referentes a procedimentos enquadrados no Regime Jurídico de Acesso e Exercício de Atividades de Comércio, Serviços e Restauração
+
+1 - A inserção da mera comunicação prévia para acesso às atividades descritas nas alíneas a) a c) e h) a m) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, no «Balcão do empreendedor», através de atendimento digital assistido, está sujeita ao pagamento da taxa prevista na Tabela anexa ao presente Regulamento.
+
+2 - Os pedidos de autorização municipal para acesso às atividades descritas no n.º 1 do artigo 5.º do [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, bem como os averbamentos à referida autorização estão sujeitos ao pagamento das taxas previstas na Tabela anexa ao presente Regulamento.
+
+Artigo 46.º-A
+
+Legalizações
+
+1 - No âmbito de procedimento de legalização de operação urbanística, as taxas referentes ao prazo de execução são sempre liquidadas sobre o eventual ou efetivo período de execução da obra presumindo-se no mínimo:
+
+a) Habitação unifamiliares - 12 meses;
+
+b) Habitação multifamiliar - 24 meses;
+
+c) Comércio e/ou serviços - 12 meses;
+
+d) Indústria e/ou armazém - 12 meses;
+
+e) Anexos, garagens, alpendres - 3 meses;
+
+f) Muros de vedação e de suporte de terras - 2 meses;
+
+g) Alteração de fachadas - 2 meses;
+
+h) Piscinas, tanques e outros recipientes destinados a líquidos ou sólidos - 3 meses;
+
+i) Outras edificações:
+
+i) Até 100 m2 de área de construção - 6 meses;
+
+ii) superior a 100 m2 de área de construção - 12 meses.
+
+2 - Caso a operação urbanística a legalizar diga respeito a mais do que um uso será considerado, para efeitos do número anterior, o prazo mais elevado dos usos em causa.»
+
+###### Artigo 3.º — Alteração ao Anexo I do Regulamento Municipal de Taxas e Compensações Urbanísticas
+
+São alterados os artigos 1.º, 2.º, 3.º, 3.º-A, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º e 27.º da Tabela de Taxas Urbanísticas, que constitui o Anexo I do Regulamento Municipal de Taxas e Compensações Urbanísticas, que passam a ter a seguinte redação:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/02/022000000/0393004047.pdf)
+
+...»
+
+###### Artigo 4.º — Aditamento ao Anexo I do Regulamento Municipal de Taxas e Compensações Urbanísticas
+
+É aditado à Tabela de Taxas Urbanísticas, que constitui o Anexo I do Regulamento Municipal de Taxas e Compensações Urbanísticas, o artigo 20.º-A e a Secção XIX - Procedimentos enquadrados no Regime Jurídico de Acesso e Exercício de Atividades de Comércio, Serviços e Restauração, constituída pelo artigo 30.º, os quais têm a seguinte redação:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/02/022000000/0393004047.pdf)
+
+...»
+
+###### Artigo 5.º — Alteração ao Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas
+
+1 - O ponto «I - Introdução» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«I - ...
+
+...
+
+Por outro lado, o Regime Jurídico da Urbanização e Edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual, estabelece no seu artigo 116.º, n.º 5, que os projetos de regulamento municipal da taxa pela realização, manutenção e reforço de infraestruturas urbanísticas devem ser acompanhados da fundamentação do cálculo das taxas previstas, tendo em conta, designadamente, os seguintes elementos:
+
+...»
+
+2 - O ponto «II - Determinação do valor das taxas» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«II - ...
+
+As taxas previstas no Regulamento Municipal de Taxas e Compensações Urbanísticas dividem-se em dois grandes grupos, sendo o primeiro enquadrável na alínea b) do artigo 6.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro e o segundo na alínea a) do mesmo artigo:
+
+1 - Taxas pela concessão de licenças, prática de atos administrativos e satisfação administrativa de outras pretensões de caráter particular, nas quais se incluem:
+
+1.1 - Taxas pela apreciação de processos urbanísticos e pela prestação de outros serviços conexos;
+
+1.2 - Taxas pela emissão de alvará e pela apresentação de comunicação prévia das várias operações urbanísticas;
+
+2 - Taxa pela realização, manutenção e reforço de infraestruturas urbanísticas.
+
+Tendo em consideração que o Município da Lousã só implementou recentemente um sistema de contabilidade de custos, que permitirá apenas no final do ano 2015 efetuar o cálculo dos custos das funções, dos bens ou serviços municipais, a determinação do valor das taxas acima identificadas teve em linha de conta os seguintes fatores:
+
+...»
+
+3 - O ponto «III.3 - Taxa pela emissão de alvará de licença ou admissão de comunicação prévia de loteamento com obras de urbanização» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«III.3 - Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de loteamento com obras de urbanização
+
+A taxa devida pela emissão de alvará ou apresentação de comunicação prévia de loteamento com obras de urbanização atende ao custo da contrapartida.
+
+...»
+
+4 - O ponto «III.4 - Taxa pela emissão de alvará de licença ou admissão de comunicação prévia de loteamento sem obras de urbanização» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«III.4 - Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de loteamento sem obras de urbanização
+
+A taxa devida pela emissão de alvará de licença ou apresentação de comunicação prévia de loteamento sem obras de urbanização mantém os mesmos critérios de sustentação descritos no número anterior.»
+
+5 - O ponto «III.5 - Taxa pela emissão de alvará de licença ou admissão de comunicação prévia de obras de urbanização» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«III.5 - Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de obras de urbanização
+
+A fundamentação da taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de obras de urbanização é efetuada com base no custo da contrapartida, sendo introduzido um fator de desincentivo ao nível do prazo de execução das obras, no sentido de minimizar os inconvenientes para a comunidade, resultantes da execução das referidas obras.»
+
+6 - O ponto «III.5A - Taxa pela emissão de alteração à operação de loteamento municipal inserida em espaço industrial» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«III.5A - Taxa pela emissão de alteração à operação de loteamento municipal inserida em área industrial e empresarial
+
+A taxa devida pela emissão de alteração à operação de loteamento municipal inserida em área industrial e empresarial atende ao custo da contrapartida.
+
+...»
+
+7 - O ponto «III.6 - Taxa pela emissão de alvará de licença ou admissão de comunicação prévia de obras de edificação» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«III.6 - Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de obras de edificação
+
+A taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de obras de edificação atende:
+
+...
+
+A um benefício por metro quadrado de área de construção;
+
+...»
+
+8 - O ponto «III.8 - Taxa pela emissão de alvará de licença ou admissão de comunicação prévia de trabalhos de remodelação de terrenos» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«III.8 - Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de trabalhos de remodelação de terrenos
+
+A taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de trabalhos de remodelação de terrenos foi calculada com base no custo da contrapartida.
+
+...»
+
+9 - O ponto «III.9 - Taxas relativas a outras obras» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«III.9 - ...
+
+A sustentação destas taxas é efetuada com base no custo da contrapartida e num fator de correção, em termos de tempo, de forma a tornar as obras mais céleres, minimizando-se os impactos na comunidade envolvente, e de fazer face ao benefício do requerente.»
+
+10 - O ponto «III.12 - Taxa pela emissão de licença especial ou admissão de comunicação prévia relativa a obras inacabadas» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«III.12 - Taxa pela emissão de licença especial relativa a obras inacabadas
+
+No cálculo do valor da taxa pela emissão de licença especial relativa a obras inacabadas foram tidos em consideração os custos administrativos diretamente associados à prestação do serviço (CAD), a remuneração base horária para as diferentes categorias com intervenção necessária na análise e apreciação do pedido (RBH), tendo em conta o tempo médio de execução (TME), bem como um fator de desincentivo a estes atos relacionado com o tempo de duração da licença, de forma a desincentivar o prolongamento das obras.»
+
+11 - O ponto «III.14 - Taxa pela emissão de certidão de destaque e de certidão de ano de construção» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«III.14 - Taxas pela emissão de certidões de destaque, de ano de construção de edifício e de prédios distintos e autónomos entre si
+
+O cálculo do valor das taxas pela emissão de certidões de destaque, de ano de construção de edifício e de prédios distintos e autónomos entre si teve em linha de conta os custos de contrapartida, bem como o benefício auferido pelo requerente.»
+
+12 - O ponto «III.17 - Taxa pela receção das obras de urbanização» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«III.17 - ...
+
+Relativamente às taxas pela emissão de auto de receção provisória ou definitiva das obras de urbanização, os valores encontrados derivam do cálculo dos custos administrativos diretamente associados à prestação do serviço (CAD), da remuneração base horária para as diferentes categorias com intervenção necessária nos processos (RBH), tendo em conta o tempo médio de execução (TME) e do custo que resulta da contratação de uma entidade inspetora de redes e ramais de distribuição de gás, no sentido de colaborar com os serviços municipais ao nível de vistorias e inspeções.»
+
+13 - O ponto «III.21 - Taxa pela autorização de utilização ou suas alterações previstas em legislação aplicável» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«III.21 - Taxa pela autorização de utilização ou suas alterações relativa a edifícios destinados a atividades sujeitas a regime especial
+
+Relativamente à taxa devida pela autorização de utilização ou suas alterações relativa a edifícios destinados a atividades sujeitas a regime especial tem como referencial o custo da contrapartida.»
+
+14 - O ponto «III.22 - Taxas relativas à atividade industrial» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«III.22 - ...
+
+As taxas relativas à alteração e exploração de estabelecimentos industriais do tipo 3 e ao atendimento digital assistido à utilização do "Balcão do empreendedor" relativo aos procedimentos para instalação, alteração e exploração de estabelecimentos industriais 1 e 2, previstos no Sistema da Indústria Responsável, anexo ao [Decreto-Lei n.º 169/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2012-179275), de 1 de agosto, alterado pelo [Decreto-Lei n.º 73/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2015-67185041), de 11 de maio foram fixadas tendo como referencial o custo da contrapartida.»
+
+15 - O ponto «III.26 - Taxa pela renovação" do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«III.26 - ...
+
+Os valores cobrados pelo pedido de renovação de licença, pela emissão do alvará resultante da renovação da licença e pela apresentação de nova comunicação prévia tiveram em consideração que os mesmos oneram os serviços de forma idêntica aos respetivos pedidos e comunicações prévias iniciais.»
+
+16 - O ponto «III.30 - Taxas relativas aos estabelecimentos de alojamento local» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«III.30 - ...
+
+A taxa devida pela inserção da mera comunicação prévia para registo de estabelecimentos de alojamento local no «Balcão do empreendedor», através de atendimento digital assistido foi calculada com base no custo da contrapartida.
+
+...»
+
+17 - O ponto «IV - Taxas pela realização, manutenção e reforço das infraestruturas urbanísticas» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«IV - ...
+
+...
+
+Assim sendo, e considerando a execução orçamental de 2013 e de 2014 e o orçamento de 2015, o valor médio do investimento municipal anual em infraestruturas urbanísticas foi de 2.435.382,71 (euro).
+
+Não sendo determinável que parte do investimento anual em infraestruturas se deve ou destina ao acréscimo de construção, a taxa municipal de urbanização de referência foi estimada como a razão entre o valor médio do investimento municipal anual em infraestruturas urbanísticas e o seu período de vida útil.
+
+Tendo em consideração o período de amortização das infraestruturas urbanísticas definido pela [Portaria n.º 671/2000](https://diariodarepublica.pt/dr/detalhe/portaria/671-2000-328400), de 17 de abril - 20 anos para infraestruturas viárias e outras redes de infraestruturas e 80 anos para edifícios escolares e outros, foi obtido um período de vida útil médio de 15 anos para a amortização do valor médio do investimento anual municipal em infraestruturas urbanísticas acima mencionado.
+
+Obtemos então um valor que se pode entender como a parte do investimento total afeto às novas solicitações geradas pelo acréscimo urbanístico de um ano.
+
+Neste sentido, e tendo como base a área de construção licenciada, autorizada e admitida entre 2012 e 2014, chegou-se a uma estimativa para a taxa municipal de urbanização média (tmu(índice m)) por m2, que se indica no quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/02/022000000/0393004047.pdf)
+
+Este valor será o ponto de partida para a obtenção da TMIU, por tipologia e localização.
+
+Relativamente à localização, se por um lado a construção em zonas menos urbanas e mais distantes dos centros, implica mais investimento municipal, por outro lado, a construção em zonas centrais e urbanas, dotadas de várias infraestruturas gera um benefício considerável aos particulares.
+
+Entende-se então que o desincentivo pretendido para a construção nos aglomerados menos urbanos é compensado pelo benefício dos particulares que constroem nos aglomerados mais urbanos, já dotados de infraestruturas, pelo que se opta por não variar a TMIU face à localização em áreas urbanas ou em aglomerados rurais.
+
+Quanto à localização das indústrias, entende-se que a TMIU deverá promover a sua gradual deslocação para as áreas industriais e empresariais previstas pela 1.ª Revisão do Plano Diretor Municipal da Lousã, pelo que o cálculo da referida taxa deverá diferenciar a localização das indústrias dentro ou fora destas áreas.
+
+Considera-se ainda que a TMIU deverá desincentivar a realização de obras de construção fora das áreas urbanas e dos aglomerados rurais.
+
+Assim sendo, considera-se que o cálculo da TMIU deverá ter em linha de conta:
+
+a) ...
+
+b) ...
+
+c) A promoção gradual da deslocação da indústria para as áreas industriais e empresariais;
+
+d) O desincentivo de edificar fora das áreas urbanas e dos aglomerados rurais;
+
+e)
+
+f) O investimento municipal na realização de operações de loteamento em áreas industriais e empresariais e na promoção da ocupação dos lotes resultantes das referidas operações.
+
+...
+
+T - é um coeficiente que, conforme a tipologia das construções, toma os seguintes valores:
+
+Habitação unifamiliar - 0,22;
+
+Habitação plurifamiliar - 0,24;
+
+Comércio, serviços, restauração e bebidas - 0,44;
+
+Hotelaria e similares - 0,44;
+
+Indústria e armazém, inseridas em área industrial e empresarial - 0,20;
+
+Indústria e armazém, não inseridas em área industrial e empresarial - 0,44;
+
+Grandes superfícies comerciais - 1,2;
+
+Anexos e garagens - 0,22;
+
+Construções agrícolas e pecuárias - 0,12.
+
+L - é um coeficiente ao qual se atribui um dos seguintes valores, consoante a localização:
+
+Áreas urbanas e aglomerados rurais - 1;
+
+Áreas industriais e empresariais - 0,5;
+
+Outras áreas ou espaços - 2.
+
+K - é um coeficiente ao qual se atribui um dos seguintes valores, consoante o tipo de operação urbanística:
+
+Alteração a uma operação de loteamento municipal inserida em área industrial e empresarial, que tenha por efeito a criação de um ou mais lotes, destinados à construção de novas edificações, resultantes da divisão de lote(s) de terreno legalmente constituído(s), que seja apresentada por promotor(es) que tenha(m) sido beneficiário(s) de condições especiais de venda de lotes por parte da Câmara Municipal da Lousã, tendo em vista facilitar a fixação de investimentos e o aparecimento de novos postos de trabalho - 40;
+
+...
+
+a) tmu(índice m) (euro) é a taxa municipal de urbanização média - 5,60 (euro);
+
+b) A (m2) é a área de construção da(s) edificação(ões);
+
+c) ...
+
+d) ...
+
+e) ...
+
+...»
+
+18 - O ponto «V - Compensações» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«V - ...
+
+Os interessados na realização de operações de loteamento cedem, gratuitamente, à Câmara Municipal, parcelas de terreno para espaços verdes públicos e equipamentos de utilização coletiva e as infraestruturas urbanísticas que, de acordo com a legislação em vigor e licença ou comunicação prévia de operação de loteamento, devam integrar o domínio municipal, com especificação das áreas a integrar no domínio público e no domínio privado do Município.
+
+A integração no domínio público ou privado das parcelas de terreno e infraestruturas far-se-á automaticamente com a emissão do alvará e, no caso de operações urbanísticas sujeitas a comunicação prévia, através de instrumento de instrumento notarial a realizar no prazo de 20 dias após a receção da comunicação prévia.
+
+...
+
+a) ...
+
+b) K1 - é um fator variável em função da localização, consoante a zona em que se insere, de acordo com o definido no Regulamento da 1.ª Revisão do Plano Diretor Municipal da Lousã e tomará os seguintes valores:
+
+K1 = 0,020 em áreas urbanas;
+
+K1 = 0,015 em aglomerados rurais;
+
+K1 = 0,008 em áreas industriais e empresariais;
+
+K1 = 0,030 nas restantes áreas ou espaços;
+
+c) K2 - corresponde ao índice de utilização previsto pela operação urbanística, calculado de acordo com o Regulamento da 1.ª do Plano Diretor Municipal da Lousã;
+
+d) ...
+
+e) ...»
+
+19 - O ponto «VI - Conclusão» do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas passa a ter a seguinte redação:
+
+«VI - ...
+
+...
+
+Atendendo a que o Município da Lousã só implementou recentemente um sistema de contabilidade de custos, que permitirá apenas no final do ano 2015 efetuar o cálculo dos custos das funções, dos bens ou serviços municipais, os valores das taxas patentes na referida Tabela não tiveram em consideração os custos indiretos de outras divisões e secções da Câmara, que concorrem necessariamente para o bom funcionamento dos serviços, como seja a Divisão Administrativa e Financeira, a Divisão das Obras Municipais, Abastecimento Público e Ambiente, entre outros.
+
+...»
+
+Artigo 6.º
+
+Aditamento ao Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas
+
+É aditado ao Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas, o ponto III.33, o qual tem a seguinte redação:
+
+«III.33 - Taxas referentes a procedimentos enquadrados no Regime Jurídico de Acesso e Exercício de Atividades de Comércio, Serviços e Restauração
+
+As taxas devidas pela inserção da mera comunicação prévia para acesso às atividades descritas nas alíneas a) a c) e h) a m) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, no "Balcão do empreendedor", através de atendimento digital assistido, pela autorização municipal para acesso às atividades descritas no n.º 1 do artigo 5.º do [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro e pelos averbamentos à referida autorização foram calculadas com base no custo da contrapartida.»
+
+Artigo 7.º
+
+Alteração ao Anexo II.1 do Regulamento Municipal de Taxas e Compensações Urbanísticas
+
+Os artigos 1.º, 2.º, 3.º, 3.º-A, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º e 27.º da Tabela da Fundamentação Económico-Financeira do Valor das Taxas Urbanísticas, que constitui o Anexo II.1 do Regulamento Municipal de Taxas e Compensações Urbanística, passam a ter a seguinte redação:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/02/022000000/0393004047.pdf)
+
+...»
+
+###### Artigo 8.º — Aditamento ao Anexo II.1 do Regulamento Municipal de Taxas e Compensações Urbanísticas
+
+É aditado à Tabela da Fundamentação Económico-Financeira do Valor das Taxas Urbanísticas, que constitui o Anexo II.1 do Regulamento Municipal de Taxas e Compensações Urbanística, o artigo 20.º-A e a Secção XIX - Procedimentos enquadrados no Regime Jurídico de Acesso e Exercício de Atividades de Comércio, Serviços e Restauração, constituída pelo artigo 30.º, os quais têm a seguinte redação:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/02/022000000/0393004047.pdf)
+
+...»
+
+###### Artigo 9.º — Norma revogatória
+
+1 - São revogados o n.º 1 do artigo 29.º, o n.º 3 do artigo 40.º, os n.os 2 e 3 do artigo 41.º, o artigo 44.º-F, o artigo 47.º, o n.º 3 do artigo 54.º e o artigo 60.º do Regulamento Municipal de Taxas e Compensações Urbanísticas.
+
+2 - São revogados as alíneas 2.1), 2.5), 2.6), 2.7) e 2.8) do artigo 4.º, o n.º 1, as subalíneas 6.1.1, 6.1.2, 6.1.3 e o n.º 7 do artigo 7.º, o n.º 2 do artigo 12.º, os n.os 4, 5, 6, 7, 8 e 9 do artigo 13.º, o n.º 3 do artigo 16.º, as alíneas 1.1, 1.2, 1.3, 1.5, 1.6 e 2.2 do artigo 19.º, os n.os 2, 3 e 4 do artigo 20.º, o n.º 8 do artigo 23.º, as alíneas 1.1) e 1.2) do artigo 27.º e o artigo 29.º da Tabela de Taxas Urbanísticas, que constitui o Anexo I do Regulamento Municipal de Taxas e Compensações Urbanísticas.
+
+3 - É revogado o ponto III.32 do Relatório de Fundamentação Económico-Financeira das Taxas Urbanísticas, que constitui o Anexo II do Regulamento Municipal de Taxas e Compensações Urbanísticas.
+
+4 - São revogados as alíneas 2.1), 2.5), 2.6), 2.7) e 2.8) do artigo 4.º, o n.º 1, as subalíneas 6.1.1, 6.1.2, 6.1.3 e o n.º 7 do artigo 7.º, o n.º 2 do artigo 12.º, os n.os 4, 5, 6, 7, 8 e 9 do artigo 13.º, o n.º 3 do artigo 16.º, as alíneas 1.1, 1.2, 1.3, 1.5, 1.6 e 2.2 do artigo 19.º, os n.os 2, 3 e 4 do artigo 20.º, o n.º 8 do artigo 23.º, as alíneas 1.1) e 1.2) do artigo 27.º e o artigo 29.º da Tabela da Fundamentação Económico-Financeira do Valor das Taxas Urbanísticas, que constitui o Anexo II.1 do Regulamento Municipal de Taxas e Compensações Urbanística.
+
+###### Artigo 10.º — Republicação
+
+É republicado em anexo, que faz parte integrante da presente alteração, o Regulamento Municipal de Taxas e Compensações Urbanísticas, com a redação atual.
+
+###### Artigo 11.º — Entrada em vigor
+
+A presente alteração entra em vigor no dia seguinte à sua publicação no Diário da República.
+
+## ANEXO — Republicação do Regulamento Municipal de Taxas e Compensações Urbanísticas
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Lei habilitante
+
+O presente Regulamento e Tabela de Taxas têm como leis habilitantes o artigo 241.º da Constituição da República Portuguesa, os artigos 114.º a 119.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de novembro e alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de janeiro, os artigos 3.º e 116.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na redação conferida pelo [Decreto-Lei n.º 136/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), de 9 de setembro, os artigos 14.º e 20.º da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro, na sua atual redação, o artigo 8.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro, na sua atual redação e ainda as alíneas b) e g) do n.º 1 do artigo 25.º e da alínea k) do n.º 1 do artigo 33.º ambas da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na sua atual redação.
+
+###### Artigo 2.º — Âmbito e objeto
+
+1 - O presente Regulamento aplica-se a todo o território do Município da Lousã.
+
+2 - O presente Regulamento estabelece as regras gerais e os critérios referentes à liquidação, cobrança e pagamento das taxas devidas pela realização de operações urbanísticas, pela realização, manutenção e reforço de infraestruturas urbanísticas e pela prestação de serviços técnico-administrativos e de serviços decorrentes das competências da Divisão de Urbanismo, previstos em legislação especial, bem como às compensações e cedências a efetuar ao Município da Lousã.
+
+###### Artigo 3.º — Incidência objetiva
+
+1 - As taxas previstas no presente Regulamento, fixadas na Tabela anexa, incidem sobre as utilidades prestadas aos particulares ou geradas pela atividade do Município e que são as seguintes:
+
+a) Pela realização, manutenção e reforço de infraestruturas urbanísticas (TMIU);
+
+b) Pela concessão de licenças, apresentação de comunicações prévias e emissão de autorizações de utilização;
+
+c) Pela prática de atos administrativos;
+
+d) Pela satisfação administrativa de outras pretensões dos particulares;
+
+e) Pela utilização e aproveitamento de bens do domínio municipal;
+
+f) Pela realização de atividades geradoras de impacte ambiental negativo;
+
+g) Outras, previstas em legislação especial.
+
+2 - A taxa pela realização, manutenção e reforço de infraestruturas urbanísticas (TMIU) constitui a contrapartida devida ao Município pelos encargos suportados pela autarquia com a realização, manutenção ou reforço de infraestruturas urbanísticas primárias e secundárias da sua competência, decorrentes das seguintes operações:
+
+a) Operações de loteamentos urbanos e suas alterações;
+
+b) Obras de construção;
+
+c) Obras de ampliação, considerando-se, neste caso, para efeitos de determinação de taxa, somente a área ampliada.
+
+###### Artigo 4.º — Incidência subjetiva
+
+1 - O sujeito ativo da relação jurídico-tributária geradora da obrigação do pagamento das taxas previstas na Tabela anexa ao presente Regulamento é o Município da Lousã.
+
+2 - O sujeito passivo é a pessoa singular e coletiva e outras entidades legalmente equiparadas que, nos termos da lei e do presente Regulamento, esteja vinculado ao cumprimento da prestação tributária mencionada no artigo anterior.
+
+3 - Estão sujeitos ao pagamento das presentes taxas, o Estado, as Regiões Autónomas, as Autarquias Locais, os fundos e serviços autónomos e as entidades que integram o setor empresarial do Estado e das Autarquias Locais.
+
+###### Artigo 5.º — Isenções e reduções
+
+1 - Estão isentas do pagamento de taxas previstas no presente Regulamento:
+
+a) As entidades a quem a lei expressamente confira tal isenção;
+
+b) As pessoas coletivas de utilidade pública administrativa ou de mera utilidade pública, as instituições particulares de solidariedade social, relativamente aos atos e factos que sejam de interesse municipal e que se destinem à direta e imediata realização dos seus fins estatutários;
+
+c) (Revogada.)
+
+d) As pessoas singulares, em casos de insuficiência económica confirmada pelos Serviços Municipais de Ação Social ou quando estejam em causa situações de calamidade;
+
+e) As entidades, em casos excecionais devidamente justificados pela Câmara Municipal, da globalidade ou parcialmente dos valores das taxas, quando estejam em causa situações de calamidade;
+
+f) As obras de conservação em imóveis classificados.
+
+2 - Estão isentas do pagamento da taxa pela realização, manutenção e reforço das infraestruturas urbanísticas as obras de construção e ampliação de edifícios inseridos em área industrial e empresarial, em que o respetivo lote ou parcela de terreno tenha sido inicialmente transmitido pelo Município da Lousã.
+
+3 - A requerimento dos interessados, e quando seja considerado de interesse para o Concelho a Câmara Municipal poderá isentar do pagamento das taxas.
+
+4 - As ações de reabilitação realizadas em imóveis localizados em Áreas de Reabilitação Urbana (ARU) estão sujeitas a uma redução de 50 % do valor das taxas de entrada e apreciação de processos de obras.
+
+5 - As ações de reabilitação realizadas em imóveis localizados em ARU estão sujeitas a uma redução de 25 % do valor das taxas inerentes à emissão de alvará de licença de obras ou à apresentação de comunicação prévia de obras.
+
+6 - A entrada, apreciação e emissão de certidões referentes a cedências para o domínio público municipal a título gracioso estão dispensadas do pagamento das taxas previstas na Tabela anexa ao presente Regulamento.
+
+7 - Beneficiam de isenção sobre as taxas previstas no presente Regulamento para o fornecimento de plantas topográficas, em formato digital e/ou papel, as entidades ou pessoas que solicitem estes serviços administrativos no âmbito de trabalhos de formação ou pesquisa de cariz académico, devendo para o efeito apresentar declaração da entidade de ensino respetiva que indique a utilização a dar à informação a fornecer.
+
+8 - Podem ser reduzidos do pagamento do valor das taxas as operações relativas à ocupação da via pública, à execução de obras ou à utilização ou alteração de utilização dos edifícios, bem como à instalação de atividades económicas, no âmbito de intervenções prioritárias que obedeçam a objetivos estratégicos, nas seguintes áreas e situações:
+
+a) Centros históricos;
+
+b) Definidas como áreas de reabilitação urbana;
+
+c) Abrangidas por projetos de iniciativa municipal;
+
+d) Quando os imóveis se situem em zonas de proteção arqueológica ou sejam de interesse municipal.
+
+9 - Para efeitos do número anterior, a delimitação das áreas é da competência da Câmara Municipal e a definição do âmbito da redução das taxas, da Assembleia Municipal.
+
+10 - Poderá ainda haver lugar à redução do valor das taxas previstas no presente Regulamento, quando a lei expressamente confira tal redução.
+
+###### Artigo 5.º-A — Definições
+
+1 - Para efeitos de aplicação do presente regulamento, são adotadas as definições constantes no [Decreto Regulamentar n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-2009-494182), de 29 de maio, no [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na redação dada pelo [Decreto-Lei n.º 136/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2014-56501680), de 9 de setembro, no Regulamento Geral das Edificações Urbanas, no Regulamento Municipal da Urbanização e da Edificação, na 1.ª Revisão do Plano Diretor Municipal e na demais legislação aplicável.
+
+2 - No âmbito do presente Regulamento, sem prejuízo do disposto no número anterior, são consideradas:
+
+a) Áreas urbanas: Áreas qualificadas e delimitadas na Planta de Ordenamento da 1.ª Revisão do Plano Diretor Municipal da Lousã como núcleo histórico da Lousã, áreas urbanas centrais, áreas residenciais envolventes, áreas residenciais dispersas, aldeias de xisto da serra da Lousã, áreas para equipamentos estruturantes, área urbana central urbanizável, área residencial envolvente urbanizável;
+
+b) Áreas industriais e empresariais: Áreas qualificadas e delimitadas na Planta de Ordenamento da 1.ª Revisão do Plano Diretor Municipal da Lousã como espaços afetos a atividades industriais, inseridos em solo rural e espaços de atividades económicas, inseridos em solo urbano;
+
+c) Aglomerados rurais: Pequenos núcleos de edificação inseridos em solo rural, que se encontram delimitados na Planta de Ordenamento da 1.ª Revisão do Plano Diretor Municipal da Lousã.
+
+### CAPÍTULO II — Liquidação
+
+#### SECÇÃO I — Liquidação pelo Município
+
+###### Artigo 6.º — Liquidação das taxas
+
+1 - A liquidação das taxas municipais previstas no presente Regulamento traduz-se na determinação do montante a pagar e resulta da aplicação dos indicadores constantes da Tabela anexa ao presente Regulamento.
+
+2 - As taxas a cobrar são as que vigorarem no dia da prática do ato relativo ao licenciamento, à apresentação de comunicação prévia e à autorização.
+
+3 - Os atos administrativos, alvarás e outros documentos não são emitidos ou fornecidos sem que se mostrem pagas as taxas devidas.
+
+4 - A liquidação das taxas devidas no âmbito dos regimes previstos no [Decreto-Lei n.º 128/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2014-56384880), de 29 de agosto, alterado pelo [Decreto-Lei n.º 63/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2015-67059141), de 23 de abril, no [Decreto-Lei n.º 169/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2012-179275), de 1 de agosto, alterado pelo [Decreto-Lei n.º 73/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2015-67185041), de 11 de maio, e no [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro é efetuada automaticamente no «Balcão do empreendedor».
+
+###### Artigo 7.º — Regras relativas à liquidação
+
+1 - O cálculo da taxa, cujo quantitativo esteja indexado ao ano, mês, semana ou dia, far-se-á em função do calendário.
+
+2 - Nos termos do disposto no número anterior, considera-se ano o período de 365 dias seguidos, mês o período de 30 dias seguidos e semana o período de 7 dias seguidos.
+
+3 - O valor das taxas a liquidar, quando expresso em cêntimos, deverá ser arredondado conforme se apresentar o terceiro algarismo depois da vírgula:
+
+a) Se for inferior a 5, arredonda-se para o cêntimo mais próximo por defeito;
+
+b) Se for igual ou superior a 5, arredonda-se para o cêntimo mais próximo por excesso.
+
+###### Artigo 8.º — Procedimentos de liquidação
+
+1 - A notificação ou disponibilização no sistema informático da liquidação das taxas deve conter a fundamentação da liquidação, o montante devido, o prazo para pagamento, os meios de defesa contra o ato de liquidação, bem como a advertência para as consequências do não pagamento.
+
+2 - O funcionário responsável pela tramitação dos processos em que é feita a liquidação deve anexar ao mesmo cópia ou efetuar a identificação do documento de cobrança.
+
+3 - A liquidação das taxas não precedidas de processo far-se-á nos respetivos documentos de cobrança.
+
+###### Artigo 9.º — Erro de liquidação
+
+1 - Quando na liquidação das taxas se verificar que ocorreram erros ou omissões das quais tenham resultado prejuízos para o Município, proceder-se-á de imediato à liquidação adicional.
+
+2 - O devedor será notificado, por carta registada com aviso de receção ou por meios legalmente admissíveis, nomeadamente, através do «Balcão do empreendedor», dos fundamentos da liquidação adicional e montante a pagar, no prazo de 15 dias, sob pena de, não o fazendo, se proceder a cobrança coerciva.
+
+3 - Quando se tiver liquidado quantia superior à devida, e não tenham decorridos 5 anos sobre o pagamento, deverão os serviços promover oficiosamente a sua restituição imediata ao interessado.
+
+###### Artigo 10.º — Efeitos da liquidação
+
+1 - Não pode ser praticado nenhum ato ou facto material de execução sem prévio pagamento das taxas previstas no presente Regulamento e sua Tabela anexa, salvo nos casos expressamente permitidos na lei.
+
+2 - Quando o erro do ato de liquidação for da responsabilidade do sujeito passivo, nomeadamente por falta ou inexatidão dos elementos que estivesse obrigado a fornecer, nos termos das normais legais e regulamentares aplicáveis, este será responsável pelas despesas que a sua conduta tenha causado.
+
+###### Artigo 11.º — Liquidação no caso de deferimento tácito
+
+São aplicáveis, no caso de deferimento tácito, as taxas previstas para o deferimento expresso.
+
+#### SECÇÃO II — Autoliquidação
+
+###### Artigo 12.º — Conceito
+
+A autoliquidação refere-se à determinação do valor da taxa a pagar pelo sujeito passivo, seja ele o contribuinte direto, o seu substituto legal ou o responsável legal.
+
+###### Artigo 13.º — Termos da autoliquidação
+
+1 - Enquanto não estiver em funcionamento o sistema informático a que se refere o artigo 8.º-A do Regime Jurídico da Urbanização e Edificação, devem os serviços comunicar ao requerente, aquando da apresentação da comunicação prévia, o valor resultante da liquidação das taxas devidas pela respetiva operação urbanística, efetuada ao abrigo da Tabela anexa ao presente Regulamento.
+
+2 - Para efeitos de pagamento das taxas por autoliquidação, os serviços disponibilizarão os regulamentos e demais elementos que se tornem necessários à efetivação do referido pagamento.
+
+3 - O requerente pode solicitar que os serviços prestem informações sobre o montante previsível a liquidar de taxas.
+
+4 - Caso os serviços venham a verificar que a autoliquidação realizada pelo requerente não se mostra correta, será o mesmo notificado do valor correto da liquidação e respetivos fundamentos, assim como do prazo para pagamento do valor que se vier a apurar em dívida, não podendo a obra iniciar-se sem que seja realizado o respetivo pagamento, ou do prazo de reembolso do valor que se vier a apurar em excesso.
+
+5 - Se o pagamento do valor em dívida não for efetuado no prazo referido no número anterior, será o procedimento considerado extinto, nos termos do previsto no Código de Procedimento Administrativo, e caso venha a verificar-se que a obra foi iniciada, será lavrado auto de embargo dos trabalhos, ficando o requerente impedido de prosseguir a execução da obra até que se mostre efetuado o pagamento.
+
+6 - A cobrança coerciva da quantia em dívida efetua-se através de processo de execução fiscal, nos termos da lei.
+
+7 - Nos casos de operações urbanísticas promovidas pela Administração Pública, a Câmara Municipal deve, no momento em que profira o parecer sobre as mesmas, indicar o valor presumível das taxas a suportar.
+
+8 - As entidades a que alude o número anterior liquidarão as taxas de acordo com o procedimento de autoliquidação.
+
+### CAPÍTULO III — Pagamento e cobrança
+
+###### Artigo 14.º — Momento de pagamento
+
+1 - A cobrança das taxas devidas pela realização das operações urbanísticas é efetuada antes da emissão do alvará de licença ou autorização da respetiva operação ou do início da execução das obras ou da utilização da obra.
+
+2 - No caso de comunicação prévia, as taxas deverão ser pagas, no máximo, até 365 dias contados do termo do prazo para a notificação a que se refere o n.º 2 do artigo 11.º do Regime Jurídico da Urbanização e Edificação.
+
+3 - As taxas relativas à apreciação dos procedimentos de controlo prévio das operações urbanísticas, emissão de informação prévia, vistorias, operação de destaque e demais assuntos administrativos são cobradas com a apresentação do correspondente pedido.
+
+###### Artigo 15.º — Formas de Pagamento
+
+1 - As taxas e demais encargos são pagos em numerário, podendo ainda ser pagas em espécie, quando tal seja legal e compatível com o interesse público.
+
+2 - As taxas e demais encargos podem ser pagas diretamente nos serviços de tesouraria, ou por transferência bancária.
+
+3 - Para efeitos do disposto no número anterior, o pagamento das taxas devidas pode ser efetuado na Caixa Geral de Depósitos, na conta bancária n.º 0408004946932 (NIB 003504080000494693230) à ordem do Município da Lousã.
+
+4 - O pagamento de taxas e demais encargos em espécie, seja por compensação, seja por dação em cumprimento depende de uma deliberação específica da Câmara Municipal para o efeito, com possibilidade de delegação no seu presidente, da qual conste a avaliação objetiva dos bens em causa.
+
+5 - No âmbito dos regimes previstos no [Decreto-Lei n.º 128/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2014-56384880), de 29 de agosto, alterado pelo [Decreto-Lei n.º 63/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2015-67059141), de 23 de abril, no [Decreto-Lei n.º 169/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2012-179275), de 1 de agosto, alterado pelo [Decreto-Lei n.º 73/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2015-67185041), de 11 de maio, e no [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, o pagamento das taxas é efetuado automaticamente pelas formas de pagamento previstas no «Balcão do empreendedor».
+
+###### Artigo 16.º — Pagamento em prestações
+
+1 - Mediante requerimento fundamentado, poderá a Câmara Municipal autorizar o pagamento das taxas previstas no presente Regulamento e sua Tabela anexa em prestações mensais.
+
+2 - Salvo disposição legal ou regulamentar em contrário, o número de prestações mensais não poderá ser superior ao prazo de execução fixado à operação urbanística.
+
+3 - O valor de cada uma das prestações não poderá ser inferior a uma unidade de conta, conforme estipulado no Código do Procedimento e Processo Tributário.
+
+4 - O pagamento de cada prestação deverá ocorrer durante o mês a que esta corresponder, sendo devidos juros em relação às prestações em dívida liquidados e pagos em cada prestação.
+
+5 - O pagamento em prestações está condicionado à prestação de caução nos termos previstos no n.º 2 do artigo 117.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua atual redação, que pode ser reduzida, a requerimento do interessado, na medida das prestações pagas.
+
+###### Artigo 17.º — Cobrança coerciva
+
+1 - Consideram-se em débito todas as taxas municipais, relativamente às quais o interessado usufruiu de facto, do serviço ou do benefício, sem o respetivo pagamento.
+
+2 - Ao não pagamento das taxas municipais aplica-se, com as devidas adaptações, o Código do Processo Tributário e legislação subsidiária.
+
+3 - A extração das respetivas certidões de dívida será enviada aos serviços de execução fiscal da Autarquia.
+
+###### Artigo 18.º — Garantias
+
+1 - Os sujeitos passivos das taxas municipais podem reclamar graciosamente ou impugnar judicialmente a respetiva liquidação.
+
+2 - À reclamação graciosa ou impugnação judicial da liquidação e cobrança de taxas e demais receitas de natureza fiscal aplicam-se as normas do Regime Geral das Taxas das Autarquias Locais e, com as necessárias adaptações, a lei geral tributária e as do Código de Procedimento e de Processo Tributário.
+
+3 - A dedução de reclamação ou impugnação contra o ato de liquidação das taxas não constitui obstáculo à execução dos atos materiais de urbanização, caso seja prestada garantia idónea nos termos da lei.
+
+### CAPÍTULO IV — Taxas
+
+#### SECÇÃO I — Cálculo e fundamentação do valor das taxas
+
+###### Artigo 19.º — Fórmula de cálculo
+
+1 - O valor das taxas referidas no presente capítulo foi determinado pelo custo da contrapartida prestada, dando-se igualmente relevância ao benefício auferido pelo particular e a critérios de desincentivo à prática de certos atos ou operações.
+
+2 - O cálculo das taxas referidas no número anterior obedece à seguinte fórmula:
+
+Taxa = (CAD1 + CAD2 + CAD3 + CAD4) + [(RBH(índice At) x TME) + (RBH(índice Ts) x TME) + (RBH(índice Ct) x TME) + (RBH(índice Cd) x TME)] + CCSE + F(índice C/D)
+
+em que,
+
+CAD corresponde aos custos administrativos diretamente associados à prestação do serviço;
+
+CAD1 corresponde ao custo de impressão de documento acrescido do valor da amortização do equipamento (hardware e software);
+
+CAD2 corresponde ao custo de portes do correio (correio registado com aviso de receção, registado ou normal);
+
+CAD3 corresponde ao custo das comunicações telefónicas;
+
+CAD4 corresponde ao custo de emissão de fotocópia;
+
+RBH corresponde à remuneração base horária do pessoal afeto ao serviço prestador do respetivo serviço;
+
+RBH At corresponde à remuneração base horária de Assistente Técnico;
+
+RBH Ts corresponde à remuneração base horária de Técnico Superior;
+
+RBH Ct corresponde à remuneração base horária de Coordenador Técnico;
+
+RBH Cd corresponde à remuneração base horária de Chefe de Divisão;
+
+TME corresponde ao tempo médio de execução;
+
+CCSE corresponde ao custo que resulta da contratação de serviços externos;
+
+F(índice C/D) corresponde ao fator de correção e ou desincentivo aplicável em cada caso.
+
+###### Artigo 20.º — Fundamentação económico-financeira do valor das taxas
+
+A fundamentação económico-financeira do valor das taxas previstas neste capítulo consta do Anexo II ao presente Regulamento.
+
+#### SECÇÃO II — Taxas das operações urbanísticas e outros atos em geral
+
+###### Artigo 21.º — Taxas pela apreciação de pedido
+
+Todos os atos e operações de natureza administrativa a praticar no âmbito das operações urbanísticas e do licenciamento de ações de destruição do revestimento vegetal que não tenha fins agrícolas e de aterro ou de escavação, que conduzam a alteração do relevo natural e das camadas do solo arável, ao abrigo do [Decreto-Lei n.º 139/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1989-625604), de 28 de abril, estão sujeitos ao pagamento de uma taxa inicial fixada na Tabela anexa ao presente Regulamento, para análise e apreciação dos elementos entregues, paga aquando da apresentação do respetivo requerimento nos serviços municipais. Poderá acrescer ainda à referida taxa o montante devido pela emissão de parecer de entidade externa ao município, nos termos da lei.
+
+###### Artigo 22.º — Taxa pela junção de elementos
+
+1 - A correção de requerimento deficientemente instruído está sujeita ao pagamento da taxa prevista na Tabela anexa ao presente Regulamento, paga aquando da apresentação do requerimento em que são apresentados os elementos em falta e desde que o requerimento a corrigir e/ou completar esteja sujeito ao pagamento de taxas previstas no presente Regulamento.
+
+2 - Estão igualmente sujeitos ao pagamento da taxa referida no número anterior a apresentação de aditamento para correção de deficiências de projeto por causas imputadas ao requerente ou ao técnico.
+
+###### Artigo 23.º — Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de loteamento com obras de urbanização
+
+1 - A emissão do alvará de licença ou a apresentação de comunicação prévia de loteamento com obras de urbanização está sujeita ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento, sendo esta composta de uma parte fixa e de outra variável em função do número de lotes, fogos, unidades de ocupação e prazos de execução, previstos nessas operações urbanísticas.
+
+2 - Em caso de qualquer aditamento ao alvará de licença de loteamento e de obras de urbanização resultante da sua alteração, ou em caso de alteração à operação de loteamento objeto de comunicação prévia, de que resulte um aumento do número de fogos ou de lotes, é também devida a taxa referida no número anterior, incidindo a mesma, contudo, apenas sobre o aumento aprovado.
+
+3 - Qualquer outro aditamento ao alvará de licença ou à comunicação prévia de loteamento com obras de urbanização está igualmente sujeito ao pagamento da taxa referida no número um deste artigo.
+
+###### Artigo 24.º — Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de loteamento sem obras de urbanização
+
+1 - A emissão do alvará de licença ou a apresentação de comunicação prévia de loteamento sem obras de urbanização está sujeita ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento, sendo esta composta de uma parte fixa e de outra variável em função do número de lotes, fogos e unidades de ocupação, previstos nessas operações urbanísticas.
+
+2 - Em caso de qualquer aditamento ao alvará de licença ou à comunicação prévia de loteamento resultante da sua alteração, de que resulte um aumento do número de lotes, fogos ou unidades de ocupação, é também devida a taxa referida no número anterior, incidindo a mesma, contudo, apenas sobre o aumento aprovado.
+
+3 - Qualquer outro aditamento ao alvará de licença ou à comunicação prévia de loteamento está igualmente sujeito ao pagamento das taxas fixadas na aludida Tabela.
+
+###### Artigo 25.º — Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de obras de urbanização
+
+1 - A emissão do alvará de licença ou a apresentação de comunicação prévia de obras de urbanização está sujeita ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento, sendo esta composta de uma parte fixa e de outra variável em função do prazo de execução, previstos para essa operação urbanística.
+
+2 - Qualquer aditamento ao alvará de licença ou à comunicação prévia de obras de urbanização está igualmente sujeito ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento.
+
+###### Artigo 25.º-A — Taxa pela alteração de operação de loteamento municipal inserida em área industrial e empresarial
+
+A alteração a uma operação de loteamento municipal inserida em área industrial e empresarial, que tenha por efeito a criação de um ou mais lotes, destinados à construção de novas edificações, resultantes da divisão de lote(s) de terreno legalmente constituído(s), que seja apresentada por promotor(es) que tenha(m) sido beneficiário(s) de condições especiais de venda de lotes por parte da Câmara Municipal da Lousã, tendo em vista facilitar a fixação de investimentos e o aparecimento de novos postos de trabalho, está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 26.º — Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de obras de edificação
+
+1 - A emissão do alvará de licença ou apresentação de comunicação prévia para obras de construção, reconstrução, ampliação ou alteração, está sujeita ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento, variando esta consoante o uso ou fim a que a obra se destina, a localização, a área de construção e o respetivo prazo de execução.
+
+2 - O aditamento ao alvará de licença das obras descritas no número anterior, está sujeito ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento, incidindo a mesma, contudo, apenas sobre as alterações aprovadas.
+
+###### Artigo 27.º — Taxas relativas a instalações de armazenamento de produtos derivados do petróleo e de postos de abastecimento de combustíveis
+
+1 - A apreciação dos pedidos de licenciamento de instalações de armazenamento de produtos de petróleo e de instalações de postos de abastecimento de combustíveis, está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+2 - A apreciação de aditamentos e/ou alterações aos projetos referentes a instalações de armazenamento de combustíveis líquidos e gasosos derivados do petróleo e de postos de abastecimento de combustíveis, decorrentes da apreciação da entidade inspetora de instalações de combustíveis derivados do petróleo, que colabora com os serviços municipais ao nível da apreciação de projetos, vistorias e inspeções, está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+3 - A emissão do alvará de licença ou apresentação de comunicação prévia de construção, ampliação ou alteração de instalações de armazenamento de produtos de petróleo e de postos de abastecimento de combustíveis está sujeita ao pagamento das taxas previstas na Tabela anexa ao presente Regulamento.
+
+4 - As vistorias relativas ao processo de licenciamento ou de comunicação prévia, vistorias a realizar para verificação do cumprimento das medidas impostas nas decisões proferidas sobre reclamações, vistorias periódicas e repetição da vistoria para verificação das condições impostas estão sujeitas ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento, sem prejuízo da aplicação de outras taxas legalmente fixadas devidas pela participação de entidades externas ao município e das previstas neste Regulamento para as ações definidas no âmbito do Regime Jurídico da Urbanização e Edificação.
+
+5 - A emissão da licença de exploração de instalações de armazenamento de produtos de petróleo e de postos de abastecimento de combustíveis está sujeita ao pagamento da taxa prevista na Tabela anexa ao presente Regulamento.
+
+6 - Os averbamentos no processo correspondentes a transmissão, a qualquer título, da propriedade, a mudança de produto afeto aos equipamentos e a suspensão da atividade por prazo superior a um ano, estão sujeitos ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento.
+
+7 - A entrada, apreciação e a emissão do alvará de autorização de utilização de instalações de armazenamento de produtos de petróleo e de instalações de postos de abastecimento de combustíveis, estão sujeitos ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 28.º — Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de trabalhos de remodelação de terrenos
+
+A emissão do alvará de licença ou a apresentação de comunicação prévia para trabalhos de remodelação dos terrenos, nomeadamente, operações urbanísticas que impliquem a destruição do revestimento vegetal, a alteração do relevo natural e das camadas de solo arável ou o derrube de árvores de alto porte ou em maciço, para fins não exclusivamente agrícolas, pecuários, florestais ou mineiros, está sujeita ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento.
+
+###### Artigo 29.º — Taxas relativas a outras obras
+
+1 - (Revogado.)
+
+2 - A emissão do alvará de licença ou apresentação de comunicação prévia para construções, reconstruções, ampliações, alterações de muros, piscinas, tanques, depósitos ou outros recipientes destinados a líquidos ou sólidos, está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+3 - A demolição de edificações, quando não integrada em procedimento de licença ou de comunicação prévia de obras de construção ou de reconstrução, está sujeita ao pagamento da taxa para o efeito fixada na Tabela anexa ao presente Regulamento.
+
+4 - A alteração de fachada de edificações está também sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 30.º — Taxa pela emissão de alvará de licença parcial
+
+A emissão do alvará de licença parcial, na situação referida no n.º 7 do artigo 23.º do Regime Jurídico da Urbanização e Edificação, está sujeita ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento.
+
+###### Artigo 31.º — Taxas pelas prorrogações
+
+Nas situações referidas no artigo 53.º, n.os 3 e 4, e no artigo 58.º, n.os 5 e 6, ambos do Regime Jurídico da Urbanização e Edificação, a concessão de nova prorrogação está sujeita ao pagamento da taxa fixada de acordo com o seu prazo, nos termos da Tabela anexa ao presente Regulamento.
+
+###### Artigo 32.º — Taxa pela emissão de licença especial relativa a obras inacabadas
+
+Nas situações previstas no artigo 88.º do Regime Jurídico da Urbanização e Edificação, a concessão de licença especial para conclusão das obras está sujeita ao pagamento de uma taxa fixada de acordo com o seu prazo, estabelecida na Tabela anexa ao presente Regulamento.
+
+###### Artigo 33.º — Taxas por pedidos de informação prévia
+
+Os pedidos de informação prévia respeitantes a operações urbanísticas estão sujeitos ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 34.º — Taxas pela emissão de certidão de destaque de parcela, de certidão de ano de construção e de certidão de prédios distintos e autónomos entre si
+
+A emissão da certidão de destaque de parcela, da certidão de ano de construção e da certidão de prédios distintos e autónomos entre si está sujeita ao pagamento das taxas previstas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 35.º — Taxas por vistorias diversas
+
+A realização de vistorias para obtenção de autorização de utilização de edifícios, suas frações ou unidades independentes funcionais, alteração de utilização e outras vistorias para fins diversos, está sujeita ao pagamento das taxas previstas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 36.º — Taxa pela instalação e funcionamento de recintos de espetáculos e de divertimentos públicos
+
+A realização de vistoria e a emissão de alvará de autorização de utilização de recintos de espetáculos e de divertimentos públicos ficam sujeitas ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 37.º — Taxa pela receção de obras de urbanização
+
+A entrada, apreciação e vistorias referentes à receção provisória ou definitiva de obras de urbanização estão sujeitas ao pagamento das taxas previstas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 38.º — Taxa pela ocupação da via pública por motivo de obras
+
+Sempre que por motivo de obras seja necessário proceder à ocupação da via pública com tapumes ou outros resguardos, ou andaimes, fica essa ocupação sujeita ao pagamento das taxas referidas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 39.º — Taxa devida pela emissão de alvará de licença de ações de mobilização de solo ([Decreto-Lei n.º 139/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1989-625604), de 28 de abril)
+
+A emissão do alvará de licença de ações de destruição do revestimento vegetal que não tenha fins agrícolas e de aterro ou de escavação, que conduzam a alteração do relevo natural e das camadas do solo arável, ao abrigo do [Decreto-Lei n.º 139/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1989-625604), de 28 de abril, está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 40.º — Taxa pela autorização de utilização e de alteração do uso
+
+1 - A entrada e apreciação de autorização de utilização está sujeita ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento.
+
+2 - A emissão do alvará de autorização de utilização ou de alteração de uso está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento, variando estas em função do uso ou fim, da área bruta a edificar, do n.º de fogos e seus anexos, do n.º de unidades de funcionais independentes.
+
+3 - (Revogado.)
+
+4 - A emissão de alvará de autorização de utilização ou suas alterações relativa a edifícios destinados a atividades sujeitas a regime especial está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 41.º — Taxas relativas à atividade industrial
+
+1 - Pela prática dos atos referentes à alteração e exploração de estabelecimentos industriais do tipo 3, são devidas as taxas previstas na Tabela anexa ao presente Regulamento.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - O atendimento digital assistido à utilização do "Balcão do empreendedor" relativo aos procedimentos para instalação e exploração de estabelecimentos industriais previstos no Sistema da Indústria Responsável, anexo ao [Decreto-Lei n.º 169/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2012-179275), de 1 de agosto, alterado pelo [Decreto-Lei n.º 73/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2015-67185041), de 11 de maio, está sujeito ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 42.º — Taxas relativas à instalação de infraestruturas de suporte das estações de radiocomunicações e respetivos acessórios
+
+1 - A emissão de autorização municipal para instalação e funcionamento de infraestruturas de suporte das estações de radiocomunicações e respetivos acessórios, está sujeita ao pagamento da taxa constante na Tabela anexa ao presente Regulamento.
+
+2 - O pagamento da taxa de apreciação do pedido de autorização deverá ser efetuado aquando da entrega do respetivo processo nos serviços municipais.
+
+###### Artigo 43.º — Taxas dos pedidos de inspeção de ascensores, monta-cargas, escadas mecânicas e tapetes rolantes
+
+1 - Nos pedidos de inspeção de ascensores, monta-cargas, escadas mecânicas e tapetes rolantes serão cobradas as taxas previstas na Tabela anexa ao presente Regulamento.
+
+2 - O pagamento das taxas aplicáveis deverá ser efetuado aquando da entrega do respetivo pedido de inspeção nos serviços municipais.
+
+###### Artigo 44.º — Taxa pela prática de atos administrativos
+
+1 - Os atos e operações de natureza administrativa a praticar no âmbito das operações urbanísticas estão sujeitos ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+2 - As taxas referidas no número anterior deverão ser liquidadas e pagas no ato de apresentação do pedido.
+
+3 - A entrada, apreciação e emissão de certidões e ou declarações relativas a assuntos urbanísticos estão sujeitas ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+4 - O fornecimento de plantas topográficas e de cartografia digital é efetuado mediante o pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+5 - A emissão dos alvarás de licença de operação de loteamento fica condicionada ao pagamento prévio das taxas devidas e ainda das despesas com a publicação e fixação dos respetivos editais, nos termos do Regime Jurídico da Urbanização e Edificação.
+
+###### Artigo 44.º-A — Taxas relativas a parques eólicos
+
+Pelos atos relativos ao licenciamento ou comunicação prévia de operações urbanísticas referentes a parques eólicos são devidas as taxas estabelecidas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 44.º-B — Taxas relativas a redes e ramais de distribuição de gases de petróleo liquefeitos
+
+1 - A apreciação dos pedidos de autorização para a execução e entrada em funcionamento das redes e ramais de distribuição de gases de petróleo liquefeitos, objeto do [Decreto-Lei n.º 125/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1997-400399), de 23 de maio, está sujeita ao pagamento das taxas fixadas no Tabela anexa ao presente Regulamento.
+
+2 - As vistorias relativas aos processos de autorização para a execução e entrada em funcionamento das redes e ramais de distribuição de gases de petróleo liquefeitos estão sujeitas ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+3 - Os averbamentos no processo correspondentes a transmissão, a qualquer título, da propriedade e a substituição da entidade exploradora, estão sujeitos ao pagamento da taxa fixada na Tabela anexa ao presente Regulamento.
+
+4 - A apreciação de aditamentos e/ou alterações aos pedidos de autorização para a execução e entrada em funcionamento das redes e ramais de distribuição de gases de petróleo liquefeitos, decorrentes da apreciação da entidade inspetora das redes e ramais de distribuição de gases de petróleo liquefeitos, que colabora com os serviços municipais ao nível da apreciação de projetos, vistorias e inspeções, está sujeita ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 44.º-C — Taxas devidas pela pesquisa e exploração de massas minerais
+
+1 - Pela prática dos atos referentes à pesquisa e exploração de massas minerais é devido o pagamento das taxas constantes na Tabela anexa ao presente Regulamento.
+
+2 - Ao abrigo do disposto nos artigos 1.º e 2.º da [Portaria n.º 1083/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1083-2008-452218), de 24 de setembro, as importâncias cobradas pelas taxas referidas no número anterior são imputadas à entidade ou entidades envolvidas nos atos mencionados no número anterior da seguinte forma:
+
+a) 100 % à entidade licenciadora, nos casos previstos nos números 3, 4, 13 e 15 do artigo 26.º da Tabela anexa ao presente Regulamento;
+
+b) 25 % à entidade licenciadora, 25 % à Direção Regional de Economia do Centro, 25 % à Comissão de Coordenação e Desenvolvimento Regional do Centro ou Instituto de Conservação da Natureza e Biodiversidade e os restantes 25 % rateados, em partes iguais, pelas entidades intervenientes, nos restantes casos.
+
+3 - Quando o pagamento devido pela prática dos atos previstos no n.º 1 não tiver sido cobrado no momento inicial da apresentação do pedido ou da realização do ato correspondente poderá sê-lo ainda em momento posterior, até à fase final do procedimento administrativo aplicável globalmente considerado.
+
+###### Artigo 44.º-D — Taxas relativas aos estabelecimentos de alojamento local
+
+A inserção da mera comunicação prévia para registo de estabelecimentos de alojamento local no «Balcão do empreendedor», através de atendimento digital assistido e o fornecimento da placa identificativa do respetivo estabelecimento, encontram-se sujeitos ao pagamento das taxas previstas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 44.º-E — Taxas por auditorias de classificação de empreendimentos turísticos
+
+A realização de auditorias de classificação destinada à atribuição, reconversão, confirmação ou alteração da tipologia e categoria dos empreendimentos de turismo de habitação, dos empreendimentos de turismo no espaço rural e dos parques de campismo e de caravanismo e o fornecimento da placa identificativa da respetiva classificação, estão sujeitos ao pagamento das taxas fixadas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 44.º-F — (Revogado.)
+
+###### Artigo 44.º-G — Taxas referentes a procedimentos enquadrados no Regime Jurídico de Acesso e Exercício de Atividades de Comércio, Serviços e Restauração
+
+1 - A inserção da mera comunicação prévia para acesso às atividades descritas nas alíneas a) a c) e h) a m) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, no «Balcão do empreendedor», através de atendimento digital assistido, está sujeita ao pagamento da taxa prevista na Tabela anexa ao presente Regulamento.
+
+2 - Os pedidos de autorização municipal para acesso às atividades descritas no n.º 1 do artigo 5.º do [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, bem como os averbamentos à referida autorização estão sujeitos ao pagamento das taxas previstas na Tabela anexa ao presente Regulamento.
+
+###### Artigo 45.º — Taxa pela renovação
+
+Nos casos referidos no artigo 72.º do Regime Jurídico da Edificação e Urbanização, a apreciação do pedido de renovação, a emissão do alvará resultante da renovação da licença ou a apresentação de nova comunicação prévia estão sujeitas ao pagamento das taxas previstas para os respetivos atos ou pedidos a renovar, nos termos da Tabela anexa ao presente Regulamento.
+
+###### Artigo 46.º — Execução por fases
+
+1 - Em caso de deferimento do pedido de execução por fases, nas situações referidas nos artigos 56.º e 59.º do Regime Jurídico da Urbanização e Edificação, o alvará abrange apenas a primeira fase das obras, implicando cada fase subsequente a um aditamento ao alvará, sendo devidas as taxas correspondentes.
+
+2 - Na fixação das taxas referidas no número anterior ter-se-á em consideração a obra ou obras a que se refere a fase ou aditamento.
+
+3 - Quando se trate de operação efetuada ao abrigo de comunicação prévia, o interessado identifica na comunicação as fases em que pretende proceder à execução das obras, efetuando previamente o pagamento das taxas correspondentes a cada uma das fases, antes do início das obras respetivas.
+
+4 - Na determinação do montante das taxas será aplicável o estatuído no presente Regulamento, consoante se trate, respetivamente, de alvará de licença ou apresentação de comunicação prévia de loteamento com obras de urbanização, alvará de licença ou apresentação de comunicação prévia de obras de urbanização e alvará de licença ou apresentação de comunicação prévia para obras de edificação.
+
+###### Artigo 46.º-A — Legalizações
+
+1 - No âmbito de procedimento de legalização de operação urbanística, as taxas referentes ao prazo de execução são sempre liquidadas sobre o eventual ou efetivo período de execução da obra presumindo-se no mínimo:
+
+a) Habitação unifamiliares - 12 meses;
+
+b) Habitação multifamiliar - 24 meses;
+
+c) Comércio e/ou serviços - 12 meses;
+
+d) Indústria e/ou armazém - 12 meses;
+
+e) Anexos, garagens, alpendres - 3 meses;
+
+f) Muros de vedação e de suporte de terras - 2 meses;
+
+g) Alteração de fachadas - 2 meses;
+
+h) Piscinas, tanques e outros recipientes destinados a líquidos ou sólidos - 3 meses;
+
+i) Outras edificações:
+
+i) Até 100 m2 de área de construção - 6 meses;
+
+ii) superior a 100 m2 de área de construção - 12 meses.
+
+2 - Caso a operação urbanística a legalizar diga respeito a mais do que um uso será considerado, para efeitos do número anterior, o prazo mais elevado dos usos em causa.
+
+###### Artigo 47.º — (Revogado.)
+
+#### SECÇÃO III — Taxas pela realização, reforço e manutenção de infraestruturas urbanísticas
+
+###### Artigo 48.º — Objeto
+
+1 - A taxa pela realização, manutenção e reforço de infraestruturas urbanísticas, aqui designada por TMIU, constitui a contrapartida, devida ao Município, pelos encargos com a realização, manutenção e/ou reforço de infraestruturas urbanísticas da sua competência, resultantes direta ou indiretamente de operações de loteamento ou de outras operações urbanísticas.
+
+2 - Para efeitos do presente Regulamento, consideram-se infraestruturas urbanísticas aquelas destinadas a servir diretamente os espaços urbanos ou as edificações, designadamente:
+
+a) Arruamentos viários e pedonais;
+
+b) Sinalização e sistemas de regularização do trânsito;
+
+c) Redes de abastecimento de água e suas ligações aos prédios utilizadores, eletricidade, gás e telecomunicações;
+
+d) Iluminação pública;
+
+e) Redes de esgotos e coletores pluviais e suas ligações aos prédios utilizadores;
+
+f) Pontos de recolha de resíduos sólidos, designadamente urbanos e industriais;
+
+g) Estações de tratamento de resíduos sólidos e líquidos;
+
+h) Parqueamentos e parques de estacionamento;
+
+i) Espaços verdes e instalações de apoio à manutenção de espaços exteriores;
+
+j) Equipamentos de saúde, escolares, culturais, desportivos, lúdicos e de participação cívica, mercados e cemitérios.
+
+3 - As infraestruturas gerais e equipamentos urbanos da competência do Município referidas no número anterior não se confundem com as infraestruturas próprias das operações de loteamento ou das obras de edificação, ou seja com as obras de urbanização que constituem um encargo dos particulares e cuja realização, regra geral, se confina às parcelas de terreno de sua propriedade destinadas a integrar o domínio público municipal.
+
+###### Artigo 49.º — Incidência
+
+1 - A taxa pela realização, manutenção e reforço de infraestruturas urbanísticas é devida nas seguintes operações urbanísticas:
+
+a) Operações de loteamentos urbanos e suas alterações;
+
+b) Obras de construção;
+
+c) Obras de ampliação, considerando-se, neste caso, para efeitos de determinação de taxa, somente a área ampliada.
+
+2 - Não há lugar ao pagamento da taxa referida no número anterior nos casos de obras de construção de edifícios inseridos em loteamentos urbanos, em que a mesma já tenha sido liquidada.
+
+###### Artigo 50.º — Cálculo
+
+O cálculo da TMIU resulta da aplicação da seguinte fórmula:
+
+TMIU = tmu(índice m) x A x T x L x K
+
+em que:
+
+1) tmu(índice m) (euro) é a taxa municipal de urbanização média - 5,60 (euro);
+
+2) A (m2) - é a área de construção da(s) edificação(ões);
+
+3) T - é um coeficiente que, conforme a tipologia das construções, toma os seguintes valores:
+
+Habitação unifamiliar - 0,22;
+
+Habitação plurifamiliar - 0,24;
+
+Comércio, serviços, restauração e bebidas - 0,44;
+
+Hotelaria e similares - 0,44;
+
+Indústria e armazém, inseridas em área industrial e empresarial - 0,20;
+
+Indústria e armazém, não inseridas em área industrial e empresarial - 0,44;
+
+Grandes superfícies comerciais - 1,2;
+
+Anexos e garagens - 0,22;
+
+Construções agrícolas e pecuárias - 0,12;
+
+4) L - é um coeficiente ao qual se atribui um dos seguintes valores, consoante a localização:
+
+Áreas urbanas e aglomerados rurais - 1;
+
+Áreas industriais e empresariais - 0,5;
+
+Outras áreas ou espaços - 2;
+
+5) K - é um coeficiente ao qual se atribui um dos seguintes valores, consoante o tipo de operação urbanística:
+
+Alteração a uma operação de loteamento municipal inserida em área industrial e empresarial, que tenha por efeito a criação de um ou mais lotes, destinados à construção de novas edificações, resultantes da divisão de lote(s) de terreno legalmente constituído(s), que seja apresentada por promotor(es) que tenha(m) sido beneficiário(s) de condições especiais de venda de lotes por parte da Câmara Municipal da Lousã, tendo em vista facilitar a fixação de investimentos e o aparecimento de novos postos de trabalho - 40;
+
+Outras operações urbanísticas - 1.
+
+#### SECÇÃO IV — Compensações
+
+###### Artigo 51.º — Parâmetros e dimensionamento de áreas para espaços verdes e de utilização coletiva, infraestruturas viárias e equipamentos
+
+1 - As operações de loteamento e as obras de edificação, quando respeitem a edifícios contíguos ou funcionalmente ligados entre si que gerem, em termos urbanísticos, impactes semelhantes a um loteamento, bem como as operações urbanísticas de impacte relevante, nos termos definidos no presente Regulamento Municipal, devem prever áreas destinadas à implantação de espaços verdes e de utilização coletiva, infraestruturas viárias e equipamentos.
+
+2 - O dimensionamento das áreas referidas no número anterior fica sujeito à aplicação dos parâmetros de dimensionamento constantes de Plano Municipal de Ordenamento do Território ou, em caso de omissão, os constantes na legislação em vigor aplicável.
+
+###### Artigo 52.º — Operações urbanísticas de impacte relevante
+
+Para efeitos do disposto no artigo 44.º, n.º 5 do Regime Jurídico da Urbanização e Edificação, consideram-se de impacte relevante as seguintes operações urbanísticas:
+
+a) Toda e qualquer construção que contenha mais do que vinte frações ou unidades independentes;
+
+b) As edificações destinadas a comércio ou serviços, com área de construção igual ou superior a 500 m2;
+
+c) Os postos de abastecimento de combustíveis;
+
+d) As grandes superfícies comerciais e conjuntos comerciais;
+
+e) Os empreendimentos turísticos que se integrem num dos seguintes tipos:
+
+e1) Estabelecimentos hoteleiros com o mínimo de 30 unidades de alojamento;
+
+e2) Aldeamentos turísticos;
+
+e3) Apartamentos turísticos, com o mínimo de 20 unidades de alojamento;
+
+e4) Conjuntos turísticos (resorts).
+
+###### Artigo 53.º — Edifícios geradores de impactes semelhantes a um loteamento
+
+Para efeitos do disposto no n.º 5 do artigo 57.º do Regime Jurídico da Urbanização e Edificação, consideram-se geradores, em termos urbanísticos, de impactes semelhantes a uma operação de loteamento, toda e qualquer construção que:
+
+a) Disponha de mais do que duas caixas de escadas de acesso comum a frações ou unidades de utilização independentes;
+
+b) Disponha de três ou mais frações ou unidades de utilização independentes com acesso direto a partir do espaço exterior público ou privado;
+
+c) Se apresente como edificações autónomas acima do nível do terreno e se encontre funcionalmente ligada ao nível do subsolo ou por elementos estruturais ou de acesso.
+
+###### Artigo 54.º — Cedências
+
+1 - Os interessados na realização de operações de loteamento cedem, gratuitamente, à Câmara Municipal, parcelas de terreno para espaços verdes públicos e equipamentos de utilização coletiva e as infraestruturas urbanísticas que, de acordo com a legislação em vigor e a licença ou comunicação prévia de operação de loteamento, devam integrar o domínio municipal, com especificação das áreas a integrar no domínio público e no domínio privado do Município.
+
+2 - A integração no domínio público ou privado das parcelas de terreno e infraestruturas mencionadas no número anterior far-se-á automaticamente com a emissão do alvará e, no caso de operações urbanísticas sujeitas a comunicação prévia, através de instrumento notarial próprio a realizar no prazo de 20 dias após a receção da comunicação prévia.
+
+3 - (Revogado.)
+
+4 - O disposto nos números anteriores é também aplicável às operações urbanísticas consideradas de impacte relevante e edifícios contíguos e funcionalmente ligados entre si que geram, em termos urbanísticos, impactes semelhantes a um loteamento, nos termos do presente Regulamento.
+
+###### Artigo 55.º — Compensação
+
+1 - Se o prédio em causa já estiver dotado de todas as infraestruturas urbanísticas e ou não se justificar a localização de qualquer equipamento ou espaços verdes, não há lugar a cedências nos termos do artigo anterior, ficando, no entanto, o proprietário obrigado ao pagamento de uma compensação ao Município.
+
+2 - A compensação poderá ser paga em espécie através da cedência de lotes, prédios urbanos, edificações ou prédios rústicos, nos termos do artigo 57.º do presente Regulamento.
+
+3 - A Câmara poderá optar pela compensação em numerário, nos termos do artigo seguinte.
+
+###### Artigo 56.º — Cálculo do valor da compensação em numerário
+
+1 - O valor, em numerário, da compensação a pagar ao Município será determinado de acordo com a seguinte fórmula:
+
+C = K1 x K2 x A x V
+
+em que:
+
+a) C (euro) - é o valor em euros da compensação a pagar ao Município;
+
+b) K1 - é um fator variável em função da localização, consoante a zona em que se insere, de acordo com o definido no Regulamento da 1.ª Revisão do Plano Diretor Municipal da Lousã e tomará os seguintes valores:
+
+K1 = 0,020 em áreas urbanas;
+
+K1 = 0,015 em aglomerados rurais;
+
+K1 = 0,008 em áreas industriais e empresariais;
+
+K1 = 0,030 nas restantes áreas ou espaços;
+
+c) K2 - corresponde ao índice de utilização previsto pela operação urbanística, calculado de acordo com o Regulamento da 1.ª do Plano Diretor Municipal da Lousã;
+
+d) A (m2) - corresponde ao valor, em metros quadrados, da totalidade ou de parte das áreas que deveriam ser cedidas, respetivamente, para espaços verdes e de utilização coletiva, bem como para a instalação de equipamentos públicos, calculado de acordo com os parâmetros definidos pela legislação em vigor aplicável;
+
+e) V (euro/m2) - é o custo unitário por metro quadrado do preço de construção, equivalente ao valor médio de construção, fixado anualmente por Portaria do Ministério das Finanças e da Administração Pública, para o cálculo do sistema de avaliação dos prédios urbanos. Este preço de construção será no caso de edifícios industriais e armazéns de apoio à atividade industrial, igual a 40 % do valor de construção fixado na referida Portaria.
+
+2 - O preceituado no número anterior é também aplicável, com as devidas adaptações, ao cálculo do valor da compensação em numerário às operações urbanísticas consideradas de impacte relevante e edifícios contíguos e funcionalmente ligados entre si que geram, em termos urbanísticos, impactes semelhantes a um loteamento, nos termos do presente Regulamento Municipal.
+
+###### Artigo 57.º — Compensação em espécie
+
+1 - Feita a determinação do montante total da compensação a pagar, se a Câmara aceitar o pagamento em espécie, o promotor do loteamento deverá apresentar à Câmara Municipal toda a documentação comprovativa da posse do terreno a ceder nos seguintes termos:
+
+a) Requerimento dirigido ao Presidente da Câmara Municipal onde esclarece a sua proposta, indicando o valor do terreno;
+
+b) Plantas de localização do prédio;
+
+c) Levantamento topográfico do prédio atualizado;
+
+d) Certidão de registo predial atualizada.
+
+2 - O pedido referido no número anterior será objeto de análise e parecer técnico, que deverá incidir sobre os seguintes aspetos:
+
+a) Capacidade de utilização do terreno;
+
+b) Localização e existência de infraestruturas;
+
+c) A possível utilização do terreno pela autarquia.
+
+3 - Haverá lugar à avaliação de terrenos ou imóveis a ceder ao Município, sendo o seu valor obtido com recurso ao seguinte método:
+
+a) A avaliação será efetuada por uma comissão composta por três elementos, sendo dois nomeados pela Câmara Municipal e o terceiro pelo promotor da operação urbanística;
+
+b) As decisões da comissão serão tomadas por maioria absoluta dos votos dos seus elementos.
+
+4 - As despesas efetuadas com o pagamento dos honorários dos avaliadores, serão assumidas pelo requerente.
+
+5 - Quando se verificarem diferenças entre o valor calculado para a compensação devida em numerário e o valor dessa compensação a entregar em espécie, as mesmas serão liquidadas da seguinte forma:
+
+a) Se o diferencial for favorável ao Município, será o mesmo pago em numerário pelo promotor da operação urbanística;
+
+b) Se o diferencial for favorável ao promotor, ser-lhe-á o mesmo entregue pelo Município.
+
+6 - Se o valor proposto no relatório final da comissão referida no n.º 3 não for aceite pela Câmara Municipal ou pelo promotor da operação urbanística, recorrer-se-á a uma comissão arbitral, que será constituída nos termos do artigo 118.º do Regime Jurídico da Urbanização e Edificação.
+
+7 - As despesas efetuadas com o pagamento dos honorários dos avaliadores, serão assumidas pelo requerente.
+
+8 - O preceituado nos números anteriores é também aplicável às operações urbanísticas consideradas de impacte relevante e edifícios contíguos e funcionalmente ligados entre si que geram, em termos urbanísticos, impactes semelhantes a um loteamento, nos termos do presente Regulamento.
+
+### CAPÍTULO V — Disposições finais e complementares
+
+###### Artigo 58.º — Estimativa de custos
+
+O cálculo da estimativa de custo total de obra deverá ser efetuado com base no valor médio de construção por metro quadrado fixado anualmente por Portaria do Ministério das Finanças e da Administração Pública, para o cálculo do sistema de avaliação dos prédios urbanos.
+
+###### Artigo 59.º — Atualização
+
+1 - Os valores das taxas previstas no presente Regulamento e respetiva tabela serão atualizados ordinária e anualmente de acordo com a taxa de inflação.
+
+2 - Excetuam-se do disposto no número anterior as taxas que resultem de quantitativos fixados por disposição legal.
+
+###### Artigo 60.º — (Revogado.)
+
+###### Artigo 61.º — Revogações
+
+Com a entrada em vigor do presente Regulamento, considera-se revogado o «Regulamento de Taxas de Urbanização e Edificação do Município da Lousã» e a respetiva Tabela de taxas, em vigor até à data, bem como todas as disposições de natureza regulamentar relativas à matéria de urbanização e edificação, aprovadas pelo Município da Lousã, em data anterior à aprovação do presente Regulamento e que com o mesmo estejam em contradição.
+
+###### Artigo 62.º — Entrada em vigor
+
+O presente Regulamento entra em vigor no dia seguinte à sua publicação na 2.ª série do Diário da República.
+
+## ANEXO I — Tabela das taxas urbanísticas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/02/022000000/0393004047.pdf)
+
+## ANEXO II — Relatório da Fundamentação Económico-Financeira das Taxas Urbanísticas
+
+I - Introdução
+
+A regulação das relações jurídico-tributárias geradoras da obrigação de pagamento de taxas às autarquias locais, encontra-se prevista na [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro, que aprova o Regime Geral das Taxas das Autarquias Locais.
+
+O referido regime estabelece que «as taxas das autarquias locais são tributos que assentam na prestação concreta de um serviço público local, na utilização privada de bens do domínio público e privado das autarquias locais ou na remoção de um obstáculo jurídico ao comportamento dos particulares, quando tal seja atribuição das autarquias locais, nos termos da lei.» (artigo 3.º).
+
+Estabelece ainda o referido diploma legal que o valor das taxas, que deverá ser fixado de acordo com o princípio da proporcionalidade, não deve ultrapassar o custo da atividade pública local ou benefício auferido pelo particular, podendo, respeitando-se a necessária proporcionalidade, fixar-se valores de taxas com base em critérios de desincentivo à prática de certos atos ou operações.
+
+As taxas municipais incidem sobre utilidades prestadas aos particulares ou geradas pela atividade dos municípios, designadamente:
+
+a) Pela realização, manutenção e reforço de infraestruturas urbanísticas primárias e secundárias;
+
+b) Pela concessão de licenças, prática de atos administrativos e satisfação administrativa de outras pretensões de caráter particular;
+
+c) Pela utilização e aproveitamento de bens do domínio municipal;
+
+d) Pela realização de atividades geradoras de impacto ambiental negativo.
+
+De acordo com o artigo 8.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro, as taxas municipais deverão ser criadas por regulamento aprovado pelo órgão deliberativo, que deverá conter obrigatoriamente, sob pena de nulidade:
+
+a) A indicação da base de incidência objetiva e subjetiva;
+
+b) O valor ou a fórmula de cálculo do valor das taxas a cobrar;
+
+c) A fundamentação económico-financeira relativa ao valor das taxas, designadamente os custos diretos e indiretos, os encargos financeiros, amortizações e futuros investimentos realizados ou a realizar pela autarquia local;
+
+d) As isenções e sua fundamentação;
+
+e) O modo de pagamento e outras formas de extinção das prestações tributárias admitidas;
+
+f) A admissibilidade do pagamento em prestações.
+
+Por outro lado, o Regime Jurídico da Urbanização e Edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual, estabelece no seu artigo 116.º, n.º 5, que os projetos de regulamento municipal da taxa pela realização, manutenção e reforço de infraestruturas urbanísticas devem ser acompanhados da fundamentação do cálculo das taxas previstas, tendo em conta, designadamente, os seguintes elementos:
+
+a) Programa plurianual de investimentos municipais na execução, manutenção e reforço das infraestruturas gerais, que pode ser definido por áreas geográficas diferenciadas;
+
+b) Diferenciação das taxas aplicáveis em função dos usos e tipologias das edificações e, eventualmente, da respetiva localização e correspondentes infraestruturas locais.
+
+Assim sendo, pretende o presente relatório proceder à fundamentação das taxas previstas no Regulamento Municipal de Taxas e Compensações Urbanísticas, nos termos artigo 8.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro e do n.º 5 do artigo 116.º do Regime Jurídico da Urbanização e Edificação.
+
+II - Determinação do valor das taxas
+
+As taxas previstas no Regulamento Municipal de Taxas e Compensações Urbanísticas dividem-se em dois grandes grupos, sendo o primeiro enquadrável na alínea b) do artigo 6.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro e o segundo na alínea a) do mesmo artigo:
+
+1 - Taxas pela concessão de licenças, prática de atos administrativos e satisfação administrativa de outras pretensões de caráter particular, nas quais se incluem:
+
+1.1 - Taxas pela apreciação de processos urbanísticos e pela prestação de outros serviços conexos;
+
+1.2 - Taxas pela emissão de alvará e pela apresentação de comunicação prévia das várias operações urbanísticas;
+
+2 - Taxa pela realização, manutenção e reforço de infraestruturas urbanísticas.
+
+Tendo em consideração que o Município da Lousã só implementou recentemente um sistema de contabilidade de custos, que permitirá apenas no final do ano 2015 efetuar o cálculo dos custos das funções, dos bens ou serviços municipais, a determinação do valor das taxas acima identificadas teve em linha de conta os seguintes fatores:
+
+a) Os custos administrativos diretamente associados à prestação do serviço (CAD), sendo que:
+
+a1) CAD1 - Custo de impressão de documento acrescido do valor da amortização do equipamento (hardware e software);
+
+a2) CAD2 - Custo de portes do correio (correio registado com aviso de receção, registado ou normal);
+
+a3) CAD3 - Custo das comunicações telefónicas;
+
+a4) CAD4 - Custo de emissão de fotocópia.
+
+b) A remuneração base horária do pessoal afeto ao serviço prestador do respetivo serviço (RBH), considerando a média da RBH sempre que o serviço seja prestado de uma forma indistinta por qualquer funcionário desse setor, tendo em conta o tempo médio de execução (TME), sendo que:
+
+b1) RBH At - Remuneração base horária de Assistente Técnico;
+
+b2) RBH Ts - Remuneração base horária de Técnico Superior;
+
+b3) RBH Ct - Remuneração base horária de Coordenador Técnico;
+
+b4) RBH Cd - Remuneração base horária de Chefe de Divisão;
+
+c) Os custos que resultam da contratação de serviços externos (CCSE).
+
+Na determinação dos valores das taxas acima mencionadas entendeu-se, em alguns casos, fixar um montante sensivelmente superior ao valor resultante da aplicação dos fatores referidos anteriormente, que corresponde à aplicação de critérios de desincentivo à prática de atos, ou critérios de correção, tendo em consideração o montante das taxas vigentes, bem como os custos sociais e para o ambiente urbano relacionados com a natureza e utilidades derivadas de determinadas instalações.
+
+Salienta-se ainda que, para os casos em que os atos ou operações já se encontravam estabelecidos no «Regulamento de Taxas de Urbanização e Edificação» e «Tabela de Taxas pela Concessão de Licenças e Prestação de Serviços» ainda em vigor, entendeu-se que, no atual contexto económico, não se deverá onerar mais os promotores das operações urbanísticas, procedendo-se, na maioria das situações a meros ajustamentos do valor das taxas, como forma de incentivo ao desenvolvimento da atividade urbanística no Concelho da Lousã.
+
+Neste sentido, o cálculo das taxas urbanísticas obedecerá à seguinte fórmula:
+
+Taxa = (CAD1 + CAD2 + CAD3 + CAD4) + [(RBH(índice At) x TME) + (RBH(índice Ts) x TME) + (RBH(índice Ct) x TME) + (RBH(índice Cd) x TME)] + CCSE + F(índice C/D)
+
+em que,
+
+CAD corresponde aos custos administrativos diretamente associados à prestação do serviço;
+
+CAD1 corresponde ao custo de impressão de documento acrescido do valor da amortização do equipamento (hardware e software);
+
+CAD2 corresponde ao custo de portes do correio (correio registado com aviso de receção, registado ou normal);
+
+CAD3 corresponde ao custo das comunicações telefónicas;
+
+CAD4 corresponde ao custo de emissão de fotocópia;
+
+RBH corresponde à remuneração base horária do pessoal afeto ao serviço prestador do respetivo serviço;
+
+RBH At corresponde à remuneração base horária de Assistente Técnico;
+
+RBH Ts corresponde à remuneração base horária de Técnico Superior;
+
+RBH Ct corresponde à remuneração base horária de Coordenador Técnico;
+
+RBH Cd corresponde à remuneração base horária de Chefe de Divisão;
+
+TME corresponde ao tempo médio de execução;
+
+CCSE corresponde ao custo que resulta da contratação de serviços externos;
+
+F(índice C/D) corresponde ao fator de correção e ou desincentivo aplicáveis em cada caso.
+
+III - Taxas devidas pelos atos relativos a operações urbanísticas e atos conexos
+
+III.1 - Taxa pela apreciação de processos
+
+As taxas de apreciação de processos têm como referencial o custo da contrapartida, calculado com base nos custos administrativos diretamente associados à prestação do serviço (CAD), neste caso concreto à apreciação de processos, e na remuneração base horária para as diferentes categorias com intervenção necessária na análise e apreciação dos processos (RBH), tendo em conta o tempo médio de execução (TME).
+
+Estas taxas serão pagas independentemente dos pedidos virem ou não ser deferidos, pois o serviço de apreciação dos mesmos é sempre prestado.
+
+III.2 - Taxa pela junção de elementos
+
+A sustentação da taxa pela correção de requerimentos deficientemente instruídos e pela apresentação de aditamento para correção de deficiências de projeto por causa imputadas ao requerente ou ao técnico é efetuada com base no custo da contrapartida.
+
+III.3 - Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de loteamento com obras de urbanização
+
+A taxa devida pela emissão de alvará ou apresentação de comunicação prévia de loteamento com obras de urbanização atende ao custo da contrapartida.
+
+Foram ainda introduzidos fatores de correção associados:
+
+Ao prazo da execução das obras de urbanização com o objetivo de minimizar os inconvenientes para a comunidade, resultantes da execução das referidas obras.
+
+Ao n.º de lotes, n.º de fogos, unidades de ocupação e outras utilizações previstas pela operação de loteamento, de forma a que o valor da presente taxa tenha em consideração o benefício auferido pelo promotor.
+
+A diferença entre a taxa e o custo da contrapartida corresponde assim ao benefício ou desincentivo associado à operação e urbanização, respetivamente.
+
+III.4 - Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de loteamento sem obras de urbanização
+
+A taxa devida pela emissão de alvará de licença ou apresentação de comunicação prévia de loteamento sem obras de urbanização mantém os mesmos critérios de sustentação descritos no número anterior.
+
+III.5 - Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de obras de urbanização
+
+A fundamentação da taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de obras de urbanização é efetuada com base no custo da contrapartida, sendo introduzido um fator de desincentivo ao nível do prazo de execução das obras, no sentido de minimizar os inconvenientes para a comunidade, resultantes da execução das referidas obras.
+
+«III.5A - Taxa pela emissão de alteração à operação de loteamento municipal inserida em área industrial e empresarial
+
+A taxa devida pela emissão de alteração à operação de loteamento municipal inserida em área industrial e empresarial atende ao custo da contrapartida.
+
+Foram ainda introduzidos fatores de correção associados:
+
+Ao prazo da execução das obras de urbanização com o objetivo de minimizar os inconvenientes para a comunidade, resultantes da execução das referidas obras;
+
+Ao n.º de lotes, unidades de ocupação e outras utilizações previstas pela alteração à operação de loteamento, de forma a que o valor da presente taxa tenha em consideração o benefício auferido pelo promotor.
+
+A diferença entre a taxa e o custo da contrapartida corresponde assim ao benefício ou desincentivo associado à operação e urbanização, respetivamente.
+
+III.6 - Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de obras de edificação
+
+A taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de obras de edificação atende:
+
+Ao custo da contrapartida, variando consoante a complexidade, a área e os fins a que se destina;
+
+A um benefício por metro quadrado de área de construção;
+
+A um desincentivo ao prolongamento da execução das obras no tempo.
+
+III.7 - Taxas relativas a instalações de armazenamento de produtos derivados do petróleo e de postos de abastecimento de combustíveis
+
+Os valores fixados para as taxas relativas a instalações de armazenamento de produtos derivados do petróleo e de postos de abastecimento de combustíveis refletem o custo de contrapartida, mas também o custo que resulta da contratação de uma entidade inspetora de instalações de combustíveis derivados do petróleo, no sentido de colaborar com os serviços municipais ao nível da apreciação de projetos, vistorias e inspeções.
+
+III.8 - Taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de trabalhos de remodelação de terrenos
+
+A taxa pela emissão de alvará de licença ou apresentação de comunicação prévia de trabalhos de remodelação de terrenos foi calculada com base no custo da contrapartida.
+
+A taxa a cobrar incluiu ainda dois fatores de desincentivo relativos ao prolongamento da execução destes trabalhos e à área a remodelar, dado os trabalhos de remodelação de terrenos originarem externalidades negativas na comunidade, designadamente a emissão de poeiras e ruído, que têm um impacto negativo na vida quotidiana das populações afetadas, na paisagem e no ambiente.
+
+III.9 - Taxas relativas a outras obras
+
+A sustentação destas taxas é efetuada com base no custo da contrapartida e num fator de correção, em termos de tempo, de forma a tornar as obras mais céleres, minimizando-se os impactos na comunidade envolvente, e de fazer face ao benefício do requerente.
+
+III.10 - Taxas pelo alvará de licença parcial
+
+Esta taxa está associada a cada um dos valores correspondentes à taxa base devida pela emissão de alvará de licença definitivo, tendo-se fixado em 30 % o valor a liquidar pelo requerente, no caso de o mesmo requerer a licença parcial para iniciar as obras antes de concluído todo o procedimento de licenciamento. Esta taxa tem assim em consideração os custos associados com a instrução e análise inicial do processo, bem como com os materiais consumidos.
+
+Foram ainda considerados os custos administrativos diretamente associados à prestação do serviço (CAD), e a remuneração base horária para as diferentes categorias com intervenção necessária na análise e apreciação do respetivo pedido (RBH), tendo em conta o tempo médio de execução (TME).
+
+III.11 - Taxa por prorrogações
+
+Em virtude das fortes externalidades negativas geradas pelo prolongamento no tempo das operações urbanísticas, designadamente com a ocupação da via pública e com a emissão de poeiras e ruídos, pretende-se desincentivar fortemente a concessão de prorrogações. Assim sendo, o valor cobrado pela prorrogação do prazo de execução de obras não se baseou unicamente no custo da contrapartida associado, e teve assim em consideração um fator de desincentivo - prazo de execução das obras.
+
+III.12 - Taxa pela emissão de licença especial relativa a obras inacabadas
+
+No cálculo do valor da taxa pela emissão de licença especial relativa a obras inacabadas foram tidos em consideração os custos administrativos diretamente associados à prestação do serviço (CAD), a remuneração base horária para as diferentes categorias com intervenção necessária na análise e apreciação do pedido (RBH), tendo em conta o tempo médio de execução (TME), bem como um fator de desincentivo a estes atos relacionado com o tempo de duração da licença, de forma a desincentivar o prolongamento das obras.
+
+III.13 - Taxa pelos pedidos de informação prévia
+
+No que se refere à taxa por pedidos de informação prévia, o valor apurado tem por base o custo subjacente ao serviço prestado variando conforme a complexidade e a área do respetivo processo.
+
+III.14 - Taxas pela emissão de certidões de destaque, de ano de construção de edifício e de prédios distintos e autónomos entre si
+
+O cálculo do valor das taxas pela emissão de certidões de destaque, de ano de construção de edifício e de prédios distintos e autónomos entre si teve em linha de conta os custos de contrapartida, bem como o benefício auferido pelo requerente.
+
+III. 15 - Taxas por vistorias diversas
+
+No cálculo da taxa devida por vistorias foi utilizado o custo da contrapartida, variando o mesmo de acordo com a complexidade, a exigência e a dimensão do processo. Foi tido ainda em consideração um fator de correção associado ao número de fogos e frações objeto de vistoria, bem como ao tipo de utilização dada aos espaços e respetivo benefício do requerente.
+
+III.16 - Taxa pela instalação e funcionamento de recintos de espetáculos e divertimentos públicos
+
+Relativamente às taxas pela instalação e funcionamento de recintos de espetáculos e divertimentos públicos, o valor calculado tem por base o custo associado ao serviço prestado, variando de acordo com a complexidade e exigência de cada processo, bem como tem em consideração a natureza das atividades desenvolvidas, as utilidades que delas derivam e o impacto no ambiente urbano delas resultantes.
+
+III.17 - Taxa pela receção das obras de urbanização
+
+Relativamente às taxas pela emissão de auto de receção provisória ou definitiva das obras de urbanização, os valores encontrados derivam do cálculo dos custos administrativos diretamente associados à prestação do serviço (CAD), da remuneração base horária para as diferentes categorias com intervenção necessária nos processos (RBH), tendo em conta o tempo médio de execução (TME) e do custo que resulta da contratação de uma entidade inspetora de redes e ramais de distribuição de gás, no sentido de colaborar com os serviços municipais ao nível de vistorias e inspeções."
+
+III.18 - Taxa pela ocupação da via pública por motivo de obras
+
+Os valores calculados têm associado o custo da contrapartida, bem como um fator de correção, em termos de tempo e metros quadrados de superfície pública ocupada, como forma de minimizar os impactos na comunidade envolvente e de tornar as obras mais céleres.
+
+III.19 - Taxa devida pela emissão de alvará de licença de ações de mobilização de solo ([Decreto-Lei n.º 139/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1989-625604), de 28 de abril)
+
+O cálculo do valor desta taxa teve em linha de conta os custos de contrapartida, bem como o benefício do requerente e a vontade de desincentivar a plantação de árvores de crescimento rápido, dado as questões de ordem ambiental que colocam.
+
+III.20 - Taxa pela autorização de utilização e de alteração ao uso
+
+A taxa pela autorização de utilização e de alteração do uso tem por base o custo da contrapartida. Assim os valores apurados visam fazer face, em termos de análise à:
+
+Complexidade de cada processo;
+
+Participação de um maior número de técnicos;
+
+Dimensão da operação urbanística.
+
+«III.21 - Taxa pela autorização de utilização ou suas alterações relativa a edifícios destinados a atividades sujeitas a regime especial
+
+Relativamente à taxa devida pela autorização de utilização ou suas alterações relativa a edifícios destinados a atividades sujeitas a regime especial tem como referencial o custo da contrapartida.
+
+III.22 - Taxas relativas à atividade industrial
+
+As taxas relativas à alteração e exploração de estabelecimentos industriais do tipo 3 e ao atendimento digital assistido à utilização do «Balcão do empreendedor» relativo aos procedimentos para instalação, alteração e exploração de estabelecimentos industriais 1 e 2, previstos no Sistema da Indústria Responsável, anexo ao [Decreto-Lei n.º 169/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2012-179275), de 1 de agosto, alterado pelo [Decreto-Lei n.º 73/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2015-67185041), de 11 de maio foram fixadas tendo como referencial o custo da contrapartida.»
+
+III.23 - Taxas relativas à instalação de infraestruturas de suporte das estações de radiocomunicações e respetivos acessórios
+
+O cálculo do valor destas taxas não teve em linha de conta os custos de contrapartida, mas sim o benefício do requerente, a vontade de desincentivar a instalação destas infraestruturas, dado o impacto urbanístico que provocam, bem como as questões de ordem social que colocam.
+
+III.24 - Taxas dos pedidos de inspeção de ascensores, monta-cargas, escadas mecânicas e tapetes rolantes
+
+Os serviços técnicos associados à emissão destas taxas são prestados por uma empresa externa especializada, sendo a componente administrativa assegurada pelos serviços municipais.
+
+Assim sendo, os montantes das taxas apresentados resultam, por um lado, do contrato de prestação de serviços estabelecido entre o Município e a empresa especializada, e por outro lado, do custo relativo à instrução e encaminhamento dos processos, assegurados pelos serviços municipais.
+
+III.25 - Taxas por assuntos administrativos
+
+As taxas devidas a cobrar pelos demais serviços prestados, de natureza administrativa foram determinadas com base no custo da contrapartida.
+
+III.26 - Taxa pela renovação
+
+Os valores cobrados pelo pedido de renovação de licença, pela emissão do alvará resultante da renovação da licença e pela apresentação de nova comunicação prévia tiveram em consideração que os mesmos oneram os serviços de forma idêntica aos respetivos pedidos e comunicações prévias iniciais.
+
+III.27 - Taxas relativas a parques eólicos
+
+Na fixação do valor das taxas relativas a parques eólicos foi determinante o seu impacto visual negativo na paisagem.
+
+III.28 - Taxas relativas a redes e ramais de distribuição de gases de petróleo liquefeitos
+
+Os valores fixados para as taxas relativas a redes e ramais de distribuição de gases de petróleo liquefeitos traduzem o custo de contrapartida, mas também o custo que resulta da contratação de uma entidade inspetora de redes e ramais de distribuição de gás, no sentido de colaborar com os serviços municipais ao nível da apreciação de projetos, vistorias e inspeções.
+
+III.29 - Taxas devidas pela pesquisa e exploração de massas minerais
+
+As taxas devidas pela pesquisa e exploração de massas minerais foram definidas tendo por base os valores das taxas estabelecidos na tabela anexa à [Portaria n.º 1083/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1083-2008-452218), de 24 de setembro, referentes à prática de atos previstos no [Decreto-Lei n.º 270/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2001-621169), 6 de outubro, alterado pelo [Decreto-Lei n.º 340/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-2007-641403), de 12 de outubro, que estabelece o regime jurídico de pesquisa e exploração de massas minerais.
+
+III.30 - Taxas relativas aos estabelecimentos de alojamento local
+
+A taxa devida pela inserção da mera comunicação prévia para registo de estabelecimentos de alojamento local no "Balcão do empreendedor", através de atendimento digital assistido foi calculada com base no custo da contrapartida.
+
+As placas identificativas dos estabelecimentos de alojamento local serão fornecidas à Câmara Municipal por uma entidade externa, através de um procedimento de contratação pública, pelo que a taxa devida pelo fornecimento das referidas placas corresponde ao custo que a Câmara Municipal incorre na aquisição do respetivo bem.
+
+III.31 - Taxas por auditorias de classificação de empreendimentos turísticos
+
+A taxa devida pela realização de auditorias de classificação dos empreendimentos de turismo de habitação, dos empreendimentos de turismo no espaço rural e dos parques de campismo e de caravanismo atende ao custo da contrapartida.
+
+A taxa devida pelo fornecimento de placas identificativas dos referidos empreendimentos foi estabelecida tendo por base o valor da respetiva taxa previsto na Portaria n.º 1173/2010, de 15 de novembro.
+
+III.32 - (Revogado.)
+
+III.33 - Taxas referentes a procedimentos enquadrados no Regime Jurídico de Acesso e Exercício de Atividades de Comércio, Serviços e Restauração
+
+As taxas devidas pela inserção da mera comunicação prévia para acesso às atividades descritas nas alíneas a) a c) e h a m) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, no «Balcão do empreendedor», através de atendimento digital assistido, pela autorização municipal para acesso às atividades descritas no n.º 1 do artigo 5.º do [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro e pelos averbamentos à referida autorização foram calculadas com base no custo da contrapartida.
+
+IV - Taxas pela realização, manutenção e reforço das infraestruturas urbanísticas
+
+Nos termos do n.º 5 do artigo 116.º do Regime Jurídico da Urbanização e Edificação, a taxa pela realização, manutenção e reforço das infraestruturas urbanísticas, aqui designada por TMIU, deverá ter em conta:
+
+1) O programa plurianual de investimentos municipais na execução, manutenção e reforço das infraestruturas gerais, que pode ser definido por áreas geográficas diferenciadas;
+
+2) A diferenciação das taxas aplicáveis em função dos usos e tipologias das edificações e, eventualmente da respetiva localização e correspondentes infraestruturas locais.
+
+Os n.os 2 e 3 do mesmo artigo, determinam que estão sujeitas a esta taxa as operações de loteamento, as obras de construção ou ampliação em área não abrangida por operação de loteamento, e as obras de urbanização.
+
+Para os devidos efeitos, considera-se investimento municipal em infraestruturas urbanísticas o investimento na execução, manutenção e reforço das infraestruturas que são criadas para colmatar as necessidades básicas da população, designadamente:
+
+a) Arruamentos viários e pedonais;
+
+b) Sinalização e sistemas de regularização do trânsito;
+
+c) Redes de abastecimento de água e suas ligações aos prédios utilizadores, eletricidade, gás e telecomunicações;
+
+d) Iluminação pública;
+
+e) Redes de esgotos e coletores pluviais e suas ligações aos prédios utilizadores;
+
+f) Pontos de recolha de resíduos sólidos, designadamente urbanos e industriais;
+
+g) Estações de tratamento de resíduos sólidos e líquidos;
+
+h) Parqueamentos e parques de estacionamento;
+
+i) Espaços verdes e instalações de apoio à manutenção de espaços exteriores;
+
+j) Equipamentos de saúde, escolares, culturais, desportivos, lúdicos e de participação cívica, mercados e cemitérios.
+
+Para além do valor orçamentado para o investimento em infraestruturas urbanísticas, para o corrente ano e no âmbito do plano plurianual de investimentos, foi também tido em consideração o valor da execução orçamental do investimento nos últimos dois anos para as referidas infraestruturas.
+
+Assim sendo, e considerando a execução orçamental de 2013 e de 2014 e o orçamento de 2015, o valor médio do investimento municipal anual em infraestruturas urbanísticas foi de 2.435.382,71 (euro).
+
+Não sendo determinável que parte do investimento anual em infraestruturas se deve ou destina ao acréscimo de construção, a taxa municipal de urbanização de referência foi estimada como a razão entre o valor médio do investimento municipal anual em infraestruturas urbanísticas e o seu período de vida útil.
+
+Tendo em consideração o período de amortização das infraestruturas urbanísticas definido pela [Portaria n.º 671/2000](https://diariodarepublica.pt/dr/detalhe/portaria/671-2000-328400), de 17 de abril - 20 anos para infraestruturas viárias e outras redes de infraestruturas e 80 anos para edifícios escolares e outros, foi obtido um período de vida útil médio de 15 anos para a amortização do valor médio do investimento anual municipal em infraestruturas urbanísticas acima mencionado.
+
+Obtemos então um valor que se pode entender como a parte do investimento total afeto às novas solicitações geradas pelo acréscimo urbanístico de um ano.
+
+Neste sentido, e tendo como base a área de construção licenciada, autorizada e admitida entre 2012 e 2014, chegou-se a uma estimativa para a taxa municipal de urbanização média (tmu(índice m)) por m2, que se indica no quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/02/022000000/0393004047.pdf)
+
+Este valor será o ponto de partida para a obtenção da TMIU, por tipologia e localização.
+
+Relativamente à localização, se por um lado a construção em zonas menos urbanas e mais distantes dos centros, implica mais investimento municipal, por outro lado, a construção em zonas centrais e urbanas, dotadas de várias infraestruturas gera um benefício considerável aos particulares.
+
+Entende-se então que o desincentivo pretendido para a construção nos aglomerados menos urbanos é compensado pelo benefício dos particulares que constroem nos aglomerados mais urbanos, já dotados de infraestruturas, pelo que se opta por não variar a TMIU face à localização em áreas urbanas ou em aglomerados rurais.
+
+Quanto à localização das indústrias, entende-se que a TMIU deverá promover a sua gradual deslocação para as áreas industriais e empresariais previstas pela 1.ª Revisão do Plano Diretor Municipal da Lousã, pelo que o cálculo da referida taxa deverá diferenciar a localização das indústrias dentro ou fora destas áreas.
+
+Considera-se ainda que a TMIU deverá desincentivar a realização de obras de construção fora das áreas urbanas e dos aglomerados rurais.
+
+Assim sendo, considera-se que o cálculo da TMIU deverá ter em linha de conta:
+
+a) A tipologia das construções;
+
+b) O benefício do particular com o uso da construção;
+
+c) A promoção gradual da deslocação da indústria para as áreas industriais e empresariais;
+
+d) O desincentivo de edificar fora das áreas urbanas e dos aglomerados rurais;
+
+e) A aproximação aos valores atuais das taxas de urbanização;
+
+f) O investimento municipal na realização de operações de loteamento em áreas industriais e empresariais e na promoção da ocupação dos lotes resultantes das referidas operações.
+
+Neste sentido, dados os critérios acima referidos foram definidos os coeficientes de benefício, incentivo ou desincentivo referentes à tipologia, à localização das construções e ao tipo de operação urbanística, a aplicar no cálculo da TMIU, que são os seguintes:
+
+T - é um coeficiente que, conforme a tipologia das construções, toma os seguintes valores:
+
+Habitação unifamiliar - 0,22;
+
+Habitação plurifamiliar - 0,24;
+
+Comércio, serviços, restauração e bebidas - 0,44;
+
+Hotelaria e similares - 0,44;
+
+Indústria e armazém, inseridas em área industrial e empresarial - 0,20;
+
+Indústria e armazém, não inseridas em área industrial e empresarial - 0,44;
+
+Grandes superfícies comerciais - 1,2;
+
+Anexos e garagens - 0,22;
+
+Construções agrícolas e pecuárias - 0,12.
+
+L - é um coeficiente ao qual se atribui um dos seguintes valores, consoante a localização:
+
+Áreas urbanas e aglomerados rurais - 1;
+
+Áreas industriais e empresariais - 0,5;
+
+Outras áreas ou espaços - 2;
+
+K - é um coeficiente ao qual se atribui um dos seguintes valores, consoante o tipo de operação urbanística:
+
+Alteração a uma operação de loteamento municipal inserida em área industrial e empresarial, que tenha por efeito a criação de um ou mais lotes, destinados à construção de novas edificações, resultantes da divisão de lote(s) de terreno legalmente constituído(s), que seja apresentada por promotor(es) que tenha(m) sido beneficiário(s) de condições especiais de venda de lotes por parte da Câmara Municipal da Lousã, tendo em vista facilitar a fixação de investimentos e o aparecimento de novos postos de trabalho - 40;
+
+Outras operações urbanísticas - 1.
+
+Assim, o cálculo da TMIU será efetuado com base na seguinte fórmula:
+
+TMIU = tmu(índice m) x A x T x L x K
+
+em que:
+
+a) tmu(índice m) (euro) é a taxa municipal de urbanização média - 5,60 (euro);
+
+b) A (m2) é a área de construção da(s) edificação(ões);
+
+c) T é o coeficiente referente à tipologia da construção;
+
+d) L é o coeficiente de localização;
+
+e) K é o coeficiente referente ao tipo de operação urbanística.
+
+Como a fórmula apresentada é dependente das áreas e das tipologias previstas para as construções, constata-se que as obras de urbanização não estão sujeitas a TMIU.
+
+V - Compensações
+
+Os interessados na realização de operações de loteamento cedem, gratuitamente, à Câmara Municipal, parcelas de terreno para espaços verdes públicos e equipamentos de utilização coletiva e as infraestruturas urbanísticas que, de acordo com a legislação em vigor e licença ou comunicação prévia de operação de loteamento, devam integrar o domínio municipal, com especificação das áreas a integrar no domínio público e no domínio privado do Município.
+
+A integração no domínio público ou privado das parcelas de terreno e infraestruturas far-se-ão automaticamente com a emissão do alvará e, no caso de operações urbanísticas sujeitas a comunicação prévia, através de instrumento de instrumento notarial a realizar no prazo de 20 dias após a receção da comunicação prévia.
+
+O referido nos parágrafos anteriores é também aplicável às operações urbanísticas consideradas de impacte relevante e edifícios contíguos e funcionalmente ligados entre si que geram, em termos urbanísticos, impactes semelhantes a um loteamento, nos termos do Regulamento Municipal de Taxas e Compensações Urbanísticas.
+
+Se o prédio em causa já estiver dotado de todas as infraestruturas urbanísticas e ou não se justificar a localização de qualquer equipamento ou espaços verdes, não há lugar a cedências, ficando, no entanto, o proprietário obrigado ao pagamento de uma compensação ao Município.
+
+O valor, em numerário, da compensação a pagar ao Município será determinado de acordo com a seguinte fórmula:
+
+C = K1 x K2 x A x V
+
+em que:
+
+a) C (euro) - é o valor em euros da compensação a pagar ao Município;
+
+b) K1 - é um fator variável em função da localização, consoante a zona em que se insere, de acordo com o definido no Regulamento da 1.ª Revisão do Plano Diretor Municipal da Lousã e tomará os seguintes valores:
+
+K1 = 0,020 em áreas urbanas;
+
+K1 = 0,015 em aglomerados rurais;
+
+K1 = 0,008 em áreas industriais e empresariais;
+
+K1 = 0,030 nas restantes áreas ou espaços;
+
+c) K2 - corresponde ao índice de utilização previsto pela operação urbanística, calculado de acordo com o Regulamento da 1.ª do Plano Diretor Municipal da Lousã;
+
+d) A (m2) - corresponde ao valor, em metros quadrados, da totalidade ou de parte das áreas que deveriam ser cedidas, respetivamente, para espaços verdes e de utilização coletiva, bem como para a instalação de equipamentos públicos, calculado de acordo com os parâmetros definidos pela legislação aplicável em vigor;
+
+e) V (euro/m2) - é o custo unitário por metro quadrado do preço de construção, equivalente ao valor médio de construção, fixado anualmente por Portaria do Ministério das Finanças e da Administração Pública, para o cálculo do sistema de avaliação dos prédios urbanos. Este preço de construção será no caso de edifícios industriais e armazéns de apoio à atividade industrial, igual a 40 % do valor de construção fixado na referida Portaria.
+
+VI - Conclusão
+
+As taxas previstas na Tabela anexa ao Regulamento Municipal das Taxas e Compensações Urbanísticas foram determinadas com base nos custos diretos da Divisão de Urbanismo, bem como no caso da TMIU, com base no plano plurianual de investimentos em infraestruturas urbanísticas.
+
+Atendendo a que o Município da Lousã só implementou recentemente um sistema de contabilidade de custos, que permitirá apenas no final do ano 2015 efetuar o cálculo dos custos das funções, dos bens ou serviços municipais, os valores das taxas patentes na referida Tabela não tiveram em consideração os custos indiretos de outras divisões e secções da Câmara, que concorrem necessariamente para o bom funcionamento dos serviços, como seja a Divisão Administrativa e Financeira, a Divisão das Obras Municipais, Abastecimento Público e Ambiente, entre outros.
+
+Neste sentido, não foram apurados todos os custos inerentes aos processos urbanísticos e como as taxas foram essencialmente fixadas como o valor obtido do custo que se conseguiu apurar, entende-se que foi cumprido o princípio da equivalência jurídica preconizado no artigo 4.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro, que estabelece que o valor das taxas das autarquias locais não deve ultrapassar o custo da atividade pública local ou o benefício dos particulares.
+
+ANEXO II.1
+
+Tabela da Fundamentação Económico-Financeira do Valor das Taxas Urbanísticas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/02/022000000/0393004047.pdf)
+
+209241739

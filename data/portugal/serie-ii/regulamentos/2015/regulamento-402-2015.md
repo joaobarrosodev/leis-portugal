@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:69800920:por
+title: Regulamento n.º 402/2015
+short_title: null
+summary: Aprovada a Alteração do Regulamento Municipal da Atividade de Transporte de Aluguer em Veículos Ligeiros de Passageiros
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Vila Franca do Campo
+proposing_entity: null
+official_number: 402/2015
+official_date: null
+publication_date: '2015-07-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 135/2015, Série II de 2015-07-14
+  number: '135'
+  series: II
+  supplement: null
+  pages: 18915 - 18916
+  pdf_url: https://files.diariodarepublica.pt/2s/2015/07/135000000/1891518916.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '69800920'
+  dre_path: /dr/detalhe/regulamento/402-2015-69800920
+  internal: pt:dre:69800920:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/402-2015-69800920
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/402-2015-69800920
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:53:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 74265e525c52ff9eec8f534e1660c0d6f0327c186273a00ff72394504c5ac45b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:53:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:438069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:53:02Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 402/2015
+
+Uma vez observado o disposto no artigo 118.º do Código do Procedimento Administrativo, torna - se público que, por deliberação tomada pela Assembleia Municipal de Vila Franca do Campo, na sua sessão de 28 de abril do corrente ano, e por proposta da Câmara tomada na sua reunião de 22 de abril de 2015, foi aprovada a Alteração do Regulamento Municipal da Atividade de Transporte de Aluguer em Veículos Ligeiros de Passageiros.
+
+6 de julho de 2015. - O Presidente da Câmara Municipal, Ricardo Manuel de Amaral Rodrigues.
+
+Regulamento Municipal da Atividade de Transporte de Aluguer em Veículos Ligeiros de Passageiros
+
+Preâmbulo
+
+Nos termos do disposto na alínea x) do n.º 1 do artigo 33.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, em conjugação com o regime estatuído pelo [Decreto-Lei n.º 251/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1998-438069), de 11 de agosto, na sua atual redação, é da competência da Câmara Municipal fixar e gerir os contingentes de veículos afetos ao transporte em táxi, definindo as respetivas "praças" e regime de estacionamento, tudo em conformidade com a lei e o regulamento municipal em vigor.
+
+O Regulamento Municipal em vigor fixa as diversas praças do concelho e respetivos contingentes, entre as quais a denominada "Terminal de Camionagem", junto ao Convento de Santo André, na freguesia de S. Miguel, bem como a prática do regime de estacionamento livre, em todas as praças, à exceção da praça de Táxis da Matriz, no período de 1 de junho a 31 de agosto.
+
+Ao referido lugar de estacionamento não se encontra atribuída de forma específica, qualquer praça, a qual apenas tem ocupação no período de estacionamento livre, atrás mencionado.
+
+Sem prejuízo de se admitir que na altura e nas circunstâncias de então, se possa ter justificado a existência da zona de estacionamento em apreço, aliada ao enunciado regime de estacionamento livre, presentemente, constata-se estarmos perante uma realidade que tem tido efeitos perversos que alteram a lógica de um serviço que responde a necessidades essencialmente locais e que distorce um mercado que foi criado com áreas próprias de estacionamento.
+
+Face ao exposto justifica - se que seja extinto o lugar de estacionamento de táxis junto ao Convento de Santo André e eliminado o regime de estacionamento livre previsto na alínea b)do artigo 9.º do Regulamento Municipal da Atividade de Transporte de Aluguer em Veículos Ligeiros de Passageiros.
+
+Nos termos do consagrado nos artigos 112.º, n.º 8 e 241.º da Constituição da República Portuguesa, em conjugação com o disposto nas alíneas k), u) e v) do n.º 1 do artigo 33.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, e sob proposta da Câmara Municipal de Vila Franca do Campo, a Assembleia Municipal aprova a alteração ao Regulamento Municipal da Atividade de Transporte de Aluguer em Veículos Ligeiros de Passageiros do Concelho de Vila Franca do Campo, que a seguir se indica:
+
+«Artigo 9.º
+
+Regime e locais de estacionamento
+
+1 - Na área do Município de Vila Franca do Campo vigora o regime de estacionamento fixo.
+
+2 - Pode a Câmara Municipal, no uso das suas competências, alterar, dentro da área para que os contingentes são fixados, os locais onde os veículos podem estacionar.
+
+3 - [...]
+
+4 - [...]»
+
+308774029

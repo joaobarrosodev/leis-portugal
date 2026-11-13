@@ -1,0 +1,821 @@
+---
+schema_version: '1.0'
+id: pt:dre:1073444:por
+title: Regulamento n.º 487/2008
+short_title: null
+summary: Regulamento Municipal de Urbanização, Edificação e Taxas
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Câmara Municipal de Oliveira de Azeméis
+proposing_entity: null
+official_number: 487/2008
+official_date: null
+publication_date: '2008-08-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 167/2008, Série II de 2008-08-29
+  number: '167'
+  series: II
+  supplement: null
+  pages: 38248 - 38257
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1073444'
+  dre_path: /dr/detalhe/regulamento/487-2008-1073444
+  internal: pt:dre:1073444:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/487-2008-1073444
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/487-2008-1073444
+  consolidated_url: null
+  retrieved_at: '2026-11-13T04:38:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6781a6039389fe8909bbb9ce994242a048129d4a79b7c0d833c534983c043408
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T04:38:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:192247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+article_structure:
+  article_count: 52
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T04:38:21Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 487/2008
+
+Nos termos do artigo 3.º deste novo regime jurídico e no exercício do seu poder regulamentar próprio, os municípios devem aprovar regulamentos municipais de urbanização e ou edificação, bem como regulamentos relativos a lançamento e liquidação das taxas que sejam devidas pela realização de operações urbanísticas.
+
+Com o presente Regulamento visa-se estabelecer e definir as matérias que o referido [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), remete para regulamentação municipal, estabelecendo-se ainda os princípios aplicáveis à urbanização e edificação, as regras gerais e critérios referentes às taxas devidas pela emissão de alvarás, pela realização de infra-estruturas urbanísticas, bem assim como às compensações.
+
+Considerando que:
+
+A [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro veio introduzir profundas alterações ao Regime Jurídico da Urbanização e Edificação (RJUE), designadamente através da:
+
+a) Consagração da comunicação prévia como um novo procedimento de controlo prévio municipal;
+
+b) Limitação do âmbito de aplicação do procedimento de autorização às operações urbanísticas de utilização ou de alteração de utilização dos edifícios.
+
+Neste sentido, torna-se necessário alterar o actual RMUET para concretização do novo RJUE que se traduz em síntese em:
+
+a) Na substituição da referência aos procedimentos de autorização pela referência ao novo procedimento de comunicação prévia;
+
+b) Na densificação dos novos conceitos introduzidos pela [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), tais como os conceitos de operações de escassa relevância urbanística ou operações com impacto relevante;
+
+c) Na regulação de procedimentos cuja tramitação foi remetida para regulamentação municipal, designadamente do procedimento de consulta pública, de alguma tramitação relacionada com a alteração às operações de loteamento ou com o próprio procedimento de comunicação prévia;
+
+d) Na concretização das condições de execução das operações sujeitas a comunicação prévia.
+
+A aplicação do actual RMUET ao longo de praticamente 6 anos permitiu concluir que é necessário proceder a ajustamentos.
+
+Isto posto, elabora-se o presente regulamento tendo como objectivos:
+
+a) Manter as actuais taxas de urbanização e edificação procedendo aos ajustamentos necessários face à entrada em vigor da [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138);
+
+b) Corrigir a fórmula de cálculo das taxas de compensação de espaços verdes e de equipamento em área classificada pelo PDM como área de transição;
+
+c) Criar uma taxa, ao abrigo do disposto na [Lei n.º 13/2001](https://diariodarepublica.pt/dr/detalhe/lei/13-2001-331258), para as instalações de telecomunicações, vulgo, antenas de telemóveis;
+
+d) Criar taxas destinadas a suportar os custos inerentes com a realização de vistorias a operações de loteamento ou ao abrigo do disposto no art. 90.º do DL 555/99;
+
+e) Proceder a ajustamentos no cálculo de taxas que possam implicar custos adicionais para a Câmara Municipal com a publicitação destas, custos estes que no actual regulamento, não se encontram reflectidos;
+
+Assim, nos termos do disposto nos artigos 112.º, n.º 8, e 241.º da Constituição da República Portuguesa, do preceituado no artigo 3.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), na redacção dada pela [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro, do consignado na [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de Dezembro, e do estabelecido no artigo 53.º, n.º 2, alínea a), da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, na redacção dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, a Câmara Municipal elabora o seguinte projecto de Regulamento que vai ser submetido a aprovação pelos órgãos competentes.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Âmbito e objecto
+
+O presente Regulamento estabelece os princípios aplicáveis à urbanização e edificação, as regras gerais e critérios referentes às taxas devidas pela emissão de alvarás, pela realização, manutenção e reforço de infra-estruturas urbanísticas, bem como às compensações e outras receitas a cobrar no município de Oliveira de Azeméis.
+
+###### Artigo 2.º — Definições
+
+Para efeitos deste Regulamento entende-se por:
+
+a) Obra - todo o trabalho de construção, reconstrução, ampliação, alteração, reparação, conservação, limpeza, restauro e demolição de bens imóveis,
+
+b) Infra-estruturas locais - as que se inserem dentro da área objecto da operação urbanística, com eventual salvaguarda e decorrem directamente desta;
+
+c) Infra-estruturas de ligação - as que estabelecem a ligação entre as infra-estruturas locais e as gerais, decorrendo as mesmas de um adequado funcionamento da operação urbanística, com eventual salvaguarda de níveis superiores de serviço, em função de novas operações urbanísticas, nelas directamente apoiadas;
+
+d) Infra-estruturas gerais - as que, tendo um carácter estruturante ou previstas em PMOT, servem ou visam servir uma ou diversas unidades de execução;
+
+e) Infra-estruturas especiais - as que, não se inserindo nas categorias anteriores, eventualmente previstas em PMOT, devam, pela sua especificidade, implicar a prévia determinação de custos imputáveis à operação urbanística em si, sendo o respectivo montante considerado como decorrente da execução de infra-estruturas locais;
+
+f) Anexo - construções destinadas a arrumos, garagens, lavandarias e outros usos complementares da construção principal quando afastadas no mínimo 1,5 m da construção principal;
+
+g) Área de construção (para efeitos de aplicação de taxas) - nas edificações destinadas predominantemente a habitação é a soma das superfícies de todos os pisos situados acima e abaixo da cota da soleira, medidas pelo extradorso das paredes exteriores, incluindo anexos e excluindo sótãos sem pé-direito regulamentar, estacionamento em cave, compartimentos de serviços comuns afectos à edificação (recolha de lixos, sala de condomínio) situados em cave e instalações técnicas situadas em cave.
+
+Nas edificações com uso diferente do referido no parágrafo anterior a área de construção é o somatório das superfícies de todos os pisos, situados acima e abaixo da cota da soleira medidos pelo extradorso das paredes, e de todas as áreas exteriores cobertas.
+
+Nas edificações cujas áreas de construção não sejam contabilizadas pelos critérios definidos nos parágrafos anteriores, a medição da área de construção é realizada pela projecção ortogonal da construção sobre o terreno.
+
+h) Elementos dissonantes - todos os elementos que se traduzam numa intrusão arquitectónica desqualificadora do imóvel ou da harmonia do conjunto urbano, designadamente:
+
+Vãos descaracterizadores na forma e materiais, tais como janelas, portas, portões, caixilhos e revestimentos;
+
+Acrescentos no alçado, tais como pisos que alterem a harmonia de proporções; envidraçados em balcões e varandas;
+
+Alteração de elementos característicos da construção, tais como beirados, guarnições e cornijas;
+
+Elementos de revestimento azular não característicos; cores que provoquem um impacto visual desarmonioso no conjunto
+
+i) Formato digital - ficheiro em formato de dados DWF, contendo informação georeferenciada e a informação devidamente distribuída por camadas ("layers" ou "levels").
+
+j) Edificação Principal - Edificação cujo uso a localizar no prédio seja habitacional, comercial, serviços, industrial e ou armazém.
+
+k) Levantamento topográfico - é a operação de recolha de informação, numa combinação de trabalhos de campo e gabinete, com vista à elaboração de um desenho ou carta que represente de uma forma precisa e minuciosa, as características do terreno, numa determinada área. No levantamento topográfico deverão estar representados, sempre que existam, os seguintes elementos: construções (definitivas ou provisórias), vias de comunicação, muros e vedações, taludes, infra-estruturas e dados altimétricos. Por informação altimétrica entende-se os pontos de cota suficientes, de modo a permitir obter uma correcta percepção da geografia do terreno, podendo esta informação ser complementada com curvas de nível, sempre que as características do terreno assim o justifiquem. O levantamento topográfico deverá estender-se sempre para além do limite do terreno, representando as construções vizinhas, vias de comunicação de acesso e restantes elementos circundantes, de modo a permitir um melhor enquadramento do local. O levantamento topográfico deverá ser georeferenciado, ou seja, executado com base em coordenadas Hayford-Gauss, no Datum 73 e Datum Altimétrico de Cascais, podendo para o efeito ser utilizada a Rede de Apoio Topográfico existente no Município.
+
+l) Marquise - o espaço envidraçado normalmente em varandas das fachadas dos edifícios, fechado, na totalidade ou em parte, por estruturas fixas ou amovíveis, cumprindo as condições impostas pelo artigo 71.º, n.º 2 do RGEU. Excluí-se a cobertura de terraços.
+
+### CAPÍTULO II
+
+###### Artigo 3.º
+
+Instrução de pedido
+
+1 - O pedido de informação prévia, de autorização e de licença relativo a operações urbanísticas obedece ao disposto no artigo 9.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, alterado pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Junho com a redacção dada pela [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro.
+
+2 - Deverão, ainda, ser juntos ao pedido, os elementos complementares que se mostrem necessários à sua correcta compreensão, em função, nomeadamente, da natureza e localização da operação urbanística pretendida, aplicando-se, com as necessárias adaptações, o disposto no n.º 4 do artigo 11.º do Decreto-Lei n.º 555/ 99, de 16 de Dezembro.
+
+3 - O pedido e respectivos elementos instrutórios serão apresentados em duplicado, acrescidos de tantas cópias quantas as entidades exteriores a consultar.
+
+4 - É obrigatório a entrega de uma cópia em formato digital - ficheiros com a extensão DWF.
+
+5 - Para além dos elementos referidos nos números anteriores, a planta de implantação do projecto de arquitectura deverá apresentar, nomeadamente:
+
+a) O polígono base da construção a cheio e a projecção horizontal a tracejado de todos os elementos da construção, devidamente cotados;
+
+b) Os afastamentos da edificação a extremas, estradas, caminhos, edificações adjacentes e edificações existentes no prédio, devendo indicar-se a utilização destas últimas;
+
+c) Sempre que houver lugar a cedência de áreas, devem as mesmas vir assinaladas, dimensionadas e descrito o seu destino.
+
+6 - Os projectos relativos a obras de alterações e de ampliação deverão conter, para além dos referidos na portaria mencionada no número anterior, peças desenhadas de sobreposição (vermelhos e amarelos).
+
+7 - É obrigatório a menção de todos os processos administrativos que sobre o prédio já hajam incidido.
+
+8 - O Requerimento para emissão do alvará de construção e para emissão de alvará de loteamento com ou sem obras de urbanização deverá incluir uma cópia das peças desenhadas e escritas do projecto de arquitectura licenciado/autorizado para junção ao respectivo processo.
+
+### CAPÍTULO III — Procedimentos e situações especiais
+
+###### Artigo 4.º — Dispensa de licença ou de comunicação prévia
+
+1 - São consideradas obras de escassa relevância urbanística aquelas que, pela sua natureza, forma, localização, impacte e dimensão, não obedeçam ao procedimento de licença ou de comunicação prévia nos termos do disposto no art. 6.º-A da [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro.
+
+2 - Para efeitos do disposto na alínea g) do n.º 1 da [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro, consideram-se obras de escassa relevância urbanística as que, a título exemplificativo, constam no número seguinte.
+
+3 - Integram este conceito, a título exemplificativo, as seguintes obras:
+
+a) Tanques de rega ou de uso doméstico;
+
+b) Construção de muros divisórios com altura máxima de 2 m;
+
+c) Abrigos para animais domésticos, estimação, de caça ou de guarda, com área até 4 m2 e 2,50 m de altura máxima;
+
+d) Eliminação de barreiras arquitectónicas quando localizadas no interior dos edifícios e das propriedades;
+
+e) Realizadas no âmbito de concessão de terreno cemiterial.
+
+f) Arranjos de logradouros, tais como ajardinamentos e pavimentações, desde que sejam cumpridos os índices de impermeabilização previstas para o local e não impliquem abate de árvores ou espécies vegetais notáveis;
+
+g) Construção de marquises, desde que os materiais e cores utilizados sejam idênticos aos dos vãos exteriores do edifício e localizadas nas fachadas não confinantes com a via pública.
+
+h) Alterações de caixilharias, desde que não comprometam, pela localização, aparência ou proporções, o aspecto de conjuntos arquitectónicos.
+
+i) Instalação de aparelhos de ar condicionado, desde que não comprometam, pela localização, aparência ou proporções, o aspecto de conjuntos arquitectónicos.
+
+j) Edificações de equipamentos lúdicos ou de lazer, isto é o conjunto de materiais e estruturas descobertas destinadas a recriação privativa, bem como edificações de quaisquer outras estruturas descobertas, destinadas a utilização privativas e associadas à edificação principal.
+
+k) As edificações, estruturas ou aparelhos para a prática de culinária ao ar livre, até 3 m2.
+
+l) As obras de alteração exterior pouco significativas, designadamente as que envolvam a alteração de materiais e cores e alterações de vãos nas fachadas das edificações
+
+m) Construção de estruturas tipo toldos para a promoção de actividades comerciais quando localizadas em terrenos privados, bem como as estruturas amovíveis destinadas a apoiar as referidas actividades comerciais.
+
+###### Artigo 5.º — Destaque
+
+O pedido de certidão para efeitos de destaque de parcela deve ser acompanhado dos seguintes elementos:
+
+a) Requerimento, que deve conter:
+
+Identificação do requerente;
+
+Identificação do prédio objecto de destaque;
+
+Identificação da parcela a destacar;
+
+Identificação da parcela sobrante;
+
+b) Certidão da conservatória do registo predial;
+
+c) Extracto da planta de ordenamento do PDM;
+
+d) Planta de localização com a delimitação da área total do prédio e da parcela a destacar.
+
+###### Artigo 6.º — Dispensa de discussão pública
+
+1 - São dispensadas de discussão pública as operações de loteamento que não excedam nenhum dos seguintes limites:
+
+a) 4 ha;
+
+b) 60 fogos.
+
+2 - O período de discussão pública decorrerá por um período de 15 dias úteis.
+
+###### Artigo 7.º — Impacte semelhante a um loteamento
+
+1 - Para efeitos de aplicação do n.º 5 do artigo 57.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, considera-se gerador de um impacte semelhante a um loteamento:
+
+a) Toda e qualquer construção que disponha de mais de uma caixa de escadas de acesso comum a fracções ou unidades independentes;
+
+b) Todos aqueles edifícios que, apesar de funcionalmente ligados ao nível do subsolo ou por elementos estruturais de acesso, se apresentem acima do nível do terreno como edificações autónomas, à excepção das edificações destinadas a armazém ou industrias.
+
+2 - Para efeitos de aplicação do n.º 5 do artigo 44.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, considera-se operação urbanística de impacte relevante, e como tal sujeitas às cedências e compensações previstas paras as operações de loteamento:
+
+a) As unidades comerciais de dimensão relevante - UCDR;
+
+b) Todas as edificações como área de construção contabilizável para efeitos de PDM superior a 1000 m2, à excepção das edificações destinadas a armazém ou industrias.
+
+c) Todas as edificações constituídas por mais de 10 fracções habitacionais, comerciais ou de serviços.
+
+###### Artigo 8.º — Projecto de execução
+
+Para efeitos do preceituado no n.º 4 do artigo 80.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, apenas estão sujeitos à apresentação do projecto de execução as obras em edifícios classificados ou em vias de classificação de interesse nacional, público ou municipal.
+
+###### Artigo 9.º — Telas finais dos projectos
+
+1 - No âmbito do preceituado no n.º 1 do artigo 87.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, o requerimento do pedido de recepção de urbanização deve ser instruído com as telas finais dos projectos de especialidades de infra-estruturas viárias, redes de abastecimento de água, águas residuais e pluviais e de arranjos exteriores.
+
+2 - As telas finais deverão ser entregues em suporte em poliéster e também, se o requerente o desejar, em suporte digital - CD ou ZIP - contendo no seu exterior, claramente visível, a indicação do nome do requerente, local e tipo de obra, e o número do respectivo processo.
+
+###### Artigo 10.º — Isenção e reduções
+
+1 - Estão isentas do pagamento de taxas previstas no presente Regulamento as entidades referidas no art. 12.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro (Lei das Finanças Locais).
+
+2 - Estão ainda isentas do pagamento de taxas outras pessoas colectivas de direito público ou de direito privado, às quais a lei confira tal isenção.
+
+3 - A Câmara Municipal pode dispensar do pagamento de taxas as entidades religiosas, culturais, desportivas, sociais, recreativas e outras que, na área do município, prossigam fins de relevante interesse público, e ainda as pessoas singulares a quem seja reconhecida insuficiência económica;
+
+4 - As pessoas referidas no número anterior, quando não beneficiem da dispensa de pagamento de taxas, pode a Câmara Municipal reduzir as taxas aplicáveis na percentagem que entender por adequada;
+
+5 - A Câmara Municipal poderá reduzir, a requerimento do interessado, até 50% as taxas aplicáveis às obras em edifícios classificados de interesse nacional, público ou municipal;
+
+6 - Para beneficiar da dispensa ou redução prevista nos n.os 3 e 4 do presente artigo, deve o requerente fundamentar devidamente o seu pedido, juntando documentação comprovativa do estado ou situação que se encontre.
+
+7 - A Câmara Municipal apreciará o pedido e a documentação entregue, decidindo em conformidade.
+
+8 - Caso o alvará a emitir tutele a construção de várias edificações, o prazo de execução, apenas incidirá sobre a edificação principal não incidindo para cálculo das taxas nas restantes.
+
+### CAPÍTULO V — Taxas pela emissão de alvará
+
+#### SECÇÃO I — Loteamentos e obras de urbanização
+
+###### Artigo 11.º — Emissão de alvará de licença de loteamento com obras de urbanização
+
+1 - Nos casos referidos no n.º 3 do artigo 76.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, a emissão do alvará de licença de loteamento com obras de urbanização está sujeita ao pagamento da taxa fixada no quadro I da tabela anexa ao presente Regulamento, sendo esta composta de uma parte fixa e de outra variável em função do número de lotes, fogos, unidades de ocupação e prazos de execução, previstos nessas operações urbanísticas.
+
+2 - Em casos de qualquer aditamento ao alvará de licença de loteamento com obras de urbanização resultante da sua alteração, que titule um aumento do número de fogos ou de lotes, é também devida a taxa referida no número anterior, incidindo a mesma, contudo, apenas sobre o aumento autorizado.
+
+3 - Qualquer outro aditamento ao alvará de licença de loteamento com obras de urbanização está igualmente sujeito ao pagamento de taxa referida no n.º 1 deste artigo.
+
+###### Artigo 12.º — Emissão de alvará de licença de loteamento
+
+1 - A emissão do alvará de licença de loteamento está sujeita ao pagamento da taxa fixada no quadro II da tabela anexa ao presente Regulamento, sendo esta composta de uma parte fixa e de outra variável em função do número de lotes, fogos e unidades de ocupação, previstos nessas operações urbanísticas.
+
+2 - Em caso de qualquer aditamento ao alvará de licença de loteamento resultante da sua alteração que titule um aumento do número de lotes, fogos ou unidades de ocupação, é também devida a taxa referida no número anterior, incidindo a mesma, contudo, apenas sobre o aumento autorizado.
+
+3 - Qualquer outro aditamento ao alvará de licença de loteamento está igualmente sujeita ao pagamento das taxas referidas no n.º 1 deste artigo.
+
+###### Artigo 13.º — Emissão de alvará de licença ou admissão de comunicação prévia de obras de urbanização
+
+1 - A emissão de licença ou admissão de comunicação prévia de obras de urbanização está sujeita ao pagamento da taxa fixada no quadro III da tabela anexa ao presente Regulamento, sendo composta de uma parte fixa e de outra variável em função do prazo de execução e do tipo de infra-estruturas para essa operação urbanística.
+
+2 - Qualquer aditamento ao alvará de licença ou admissão de comunicação prévia de obras de urbanização está igualmente sujeito ao pagamento da taxa referida no número anterior, apenas sobre o aumento autorizado.
+
+#### SECÇÃO II — Remodelação de terrenos
+
+###### Artigo 14.º — Emissão de alvará ou admissão de comunicação prévia de trabalhos de remodelação de terrenos
+
+A emissão do alvará ou admissão de comunicação prévia para trabalhos de remodelação de terrenos, tal como se encontram definidos na alínea b) do artigo 2.º do art. 4.º e alínea d) n.º 1 do art. 6.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, está sujeita ao pagamento de taxa fixada no quadro Iv da tabela anexa ao presente Regulamento.
+
+#### SECÇÃO III — Obras de construção
+
+###### Artigo 15.º — Emissão de alvará de licença ou admissão de comunicação prévia para obras de construção
+
+A emissão do alvará de licença ou admissão de comunicação prévia para obras de construção, reconstrução com ou sem preservação de fachadas, ampliação ou alteração, está sujeita ao pagamento da taxa fixada no quadro V da tabela anexa ao presente Regulamento, variando consoante o uso ou fim que se destina, a área ou construção a edificar e respectivo prazo de execução.
+
+#### SECÇÃO IV — Casos especiais
+
+###### Artigo 16.º — Casos especiais
+
+1 - A emissão de alvará de licença ou admissão de comunicação prévia para construção, reconstrução com ou sem preservação de fachadas, ampliação, alteração de edificações ligeiras tais como muros, anexos, garagens, tanques, piscinas, depósitos ou outros, não consideradas de escassa relevância urbanística, estão sujeitas ao pagamento da taxa fixada no quadro VI da tabela anexa ao presente Regulamento, variando em função da área de construção e do respectivo prazo de execução.
+
+2 - A demolição de edifícios e outras construções, quando não integradas em procedimento de licença ou admissão de comunicação prévia, está também sujeita ao pagamento da taxa para o efeito, fixada no quadro VI da tabela anexa ao presente Regulamento.
+
+#### SECÇÃO V — Utilização das edificações
+
+###### Artigo 17.º — Autorização de utilização e de alteração de uso
+
+1 - Nos casos referidos n.º 4 do artigo 4.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, a emissão do alvará está sujeita ao pagamento de um montante fixado em função do número de fogos ou unidades de ocupação.
+
+2 - Ao montante referido no número anterior acrescerá o valor determinado em função do número de metros quadrados dos fogos, unidades de ocupação e seus anexos, cuja utilização seja requerida.
+
+3 - Os valores referidos nos números anteriores são fixados no quadro VII da tabela anexa ao presente Regulamento.
+
+###### Artigo 18.º — Licença ou Autorização de utilização ou suas alterações previstas em legislação específica
+
+A emissão de licença de utilização ou suas alterações relativas, nomeadamente, a estabelecimentos de restauração e bebidas, estabelecimentos alimentares e não alimentares e serviços, bem como os estabelecimentos hoteleiros e meios complementares de alojamento turístico, está sujeita ao pagamento de taxa fixada no quadro VIII da tabela anexa ao presente Regulamento, variando em função do número de estabelecimentos e da sua área.
+
+### CAPÍTULO VI — Situações especiais
+
+###### Artigo 19.º — Emissão de alvarás de licença parcial
+
+A emissão do alvará de licença parcial na situação referida no n.º 7 do artigo 23.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, está sujeita ao pagamento da taxa fixada no quadro IX da tabela anexa ao presente Regulamento.
+
+###### Artigo 20.º — Deferimento tácito
+
+A emissão do alvará de licença ou admissão de comunicação prévia nos casos de deferimento tácito do pedido de operações urbanísticas está sujeita ao pagamento da taxa que seria devida pela prática do respectivo acto expresso.
+
+###### Artigo 21.º — Renovação
+
+Nos casos referidos no artigo 72.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, a renovação de licença ou Comunicação prévia está sujeita ao pagamento da taxa prevista para a emissão do alvará caducado.
+
+###### Artigo 22.º — Prorrogações
+
+Nas situações referidas no artigo 53.º, n.º 3, e artigo 58.º, n.º 6, do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, a concessão de nova prorrogação está sujeita ao pagamento da taxa fixada de acordo com o seu prazo, estabelecida no quadro X da tabela anexa ao presente Regulamento.
+
+###### Artigo 23.º — Execução por fases
+
+1 - Em casos de deferimento ou admissão de comunicação prévia do pedido de execução por fases nas situações referidas nos artigos 56.º e 59.º do Decreto-Lei n.º 555/ 99, de 16 de Dezembro, a cada fase corresponderá um aditamento ao alvará, sendo devidas as taxas previstas no presente artigo.
+
+2 - Na fixação das taxas ter-se-á em consideração a obra ou obras a que se refere a fase ou aditamento.
+
+3 - Na determinação do montante das taxas será aplicável o estatuído nos artigos 11.º, 13.º e 15.º deste Regulamento, consoante se trate, respectivamente, de alvarás ou admissão de comunicação prévia de loteamento e de obras de urbanização, alvará de licença ou admissão de comunicação prévia em obras de urbanização e alvará de licença ou admissão de comunicação prévia de obras.
+
+###### Artigo 24.º — Licença especial ou admissão de comunicação prévia relativa a obras inacabadas
+
+Nas situações referidas no artigo 88.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, a concessão de licença especial ou admissão de comunicação prévia para conclusão da obra está sujeita ao pagamento de uma taxa fixada de acordo com o seu prazo, estabelecida no quadro XI da tabela anexa
+
+### CAPÍTULO VII — Taxa pela realização, reforço e manutenção de infra-estruturas urbanísticas
+
+###### Artigo 25.º — Âmbito de aplicação
+
+1 - A taxa pela realização, manutenção e reforço de infra-estruturas urbanísticas é devida quer nas operações de loteamento, quer em obras de construção, sempre que pela sua natureza impliquem um acréscimo de encargos públicos de realização, manutenção e reforço das infra-estruturas.
+
+2 - Aquando da emissão do alvará ou admissão de comunicação prévia relativo a obras de construção não são devidas as taxas referidas no número anterior, se as mesmas já tiverem sido pagas previamente, aquando do licenciamento ou admissão de comunicação prévia da correspondente operação de loteamento e urbanização.
+
+3 - A taxa referida no n.º 1 deste artigo varia proporcionalmente ao investimento municipal que a operação urbanística em causa implicou ou venha a implicar.
+
+###### Artigo 26.º — Zonamento
+
+Para efeitos da fixação das taxas previstas nos artigos seguintes definem-se as seguintes zonas:
+
+Zona A - área de cidade e área a consolidar, definidas em carta de ordenamento do Plano Municipal de Ordenamento de Território;
+
+Zona B - área de transição definida em Plano Municipal de Ordenamento de Território;
+
+Zona C - área de indústria definida em Plano Municipal de Ordenamento de Território;
+
+Zona D - a restante área definida em Plano Municipal de Ordenamento de Território.
+
+###### Artigo 27.º — Taxa pela realização, manutenção e reforço de infra-estruturas
+
+1 - A taxa pela realização, manutenção e reforço de infra-estruturas urbanísticas previstas no artigo 116.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, será o resultado da aplicação:
+
+T = (y + I/W).(x.A.c + K.n)
+
+sendo:
+
+T - taxa pela realização, manutenção e reforço de infra-estruturas urbanísticas;
+
+x - variável em função da localização e toma os valores constantes no quadro I;
+
+A - área de construção;
+
+c - custo da construção (ver nota 1);
+
+K - constante com o valor de 150 euros;
+
+n - número de unidades de utilização;
+
+y - variável em função das infra-estruturas do local onde se localiza a operação urbanística e toma os valores do quadro II;
+
+I - investimento plurianual municipal em execução, manutenção e reforço de infra-estruturas;
+
+W - área do concelho (163 km2).
+
+Nota 1. - Valor fixado anualmente por portaria a que se refere o n.º 1 do artigo 7.º do [Decreto-Lei n.º 13/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1986-192247), de 23 de Janeiro.
+
+QUADRO I
+
+Valores de X
+
+Zona A - 0.006.
+
+Zona B - 0.004.
+
+Zona C - 0.005.
+
+Zona D - 0.003.
+
+QUADRO II
+
+Valores de Y
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+a) As infra-estruturas consideradas são arruamentos, rede de abastecimento de água, saneamento e águas pluviais.
+
+### CAPÍTULO VIII — Cedências e compensações
+
+###### Artigo 28.º — Áreas para espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos
+
+Os projectos de loteamento e os pedidos de licenciamento ou admissão de comunicação prévia de obras de edificação quando respeitem a edifícios contíguos e funcionalmente ligados entre si que determinem, em termos urbanísticos, impactes semelhantes a uma operação de loteamento, bem como as operações urbanísticas de impacte relevante devem prever áreas destinadas à implantação de espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos.
+
+###### Artigo 29.º — Cedências
+
+1 - Os interessados na realização de operações de loteamento urbano cedem, gratuitamente, à Câmara Municipal, parcelas de terreno para espaços verdes públicos e equipamentos de utilização colectiva e as infra-estruturas urbanísticas que, de acordo com a lei e licença ou admissão de comunicação prévia de loteamento, devam integrar o domínio municipal, integração essa que se fará automaticamente com a emissão do alvará.
+
+2 - O disposto no número anterior é, ainda, aplicável aos pedidos de licenciamento ou admissão de comunicação prévia de obras de edificação, nas situações referidas no artigo 57.º e n.º 5 do art. 44.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
+
+3 - No caso de operações urbanísticas submetidas ao procedimento de comunicação prévia, o Requerente deverá apresentar no prazo de 15 dias após a admissão de comunicação prévia, os elementos/documentos necessários à realização de escritura pública.
+
+###### Artigo 30.º — Compensação
+
+1 - Se o prédio em causa já estiver dotado de todas as infra-estruturas urbanísticas e ou não se justificar a localização de qualquer equipamento ou espaços verdes, não há lugar a cedências para esses fins ficando, no entanto, o proprietário obrigado ao pagamento de uma compensação ao município.
+
+2 - A compensação poderá ser paga em espécie, através da cedência de lotes, prédios urbanos, edificações ou prédios rústicos.
+
+3 - A Câmara Municipal poderá optar pela compensação em numerário.
+
+###### Artigo 31.º — Cálculo do valor da compensação em numerário nos loteamentos
+
+1 - O valor, em numerário, da compensação a pagar ao município será determinado de acordo com a seguinte fórmula:
+
+C = Au. Pm2 (K + Cof. Inf.)
+
+em que:
+
+C - é o valor em euros do montante total da compensação devida ao município;
+
+Au - área útil, sendo esta o resultado do produto da área bruta pela variável IM. A área bruta corresponde à área de construção permitida pelo Plano Municipal de Ordenamento de Território para a zona em que se situa o prédio, calculada para área a ceder. Para as zonas em que o Plano Municipal de Ordenamento de Território, não defina índice de construção ou classificadas pelo PDM como área de transição tomar-se-á o valor de índice de construção de 1 m2/m2.
+
+A variável IM toma os seguintes valores em função da localização:
+
+Área de cidade e espaços industriais - 0.4;
+
+Área a consolidar - 0.5;
+
+Área de transição - 0.8.
+
+Pm2 - custo de construção por metro quadrado - ver nota 1;
+
+K - constante com o valor de 0.15;
+
+Cof. Inf. - coeficiente de infra-estruturas que servem o imóvel após a realização da operação de loteamento, nos termos do disposto no n.º 7 do artigo 26.º do Código de Expropriações, tendo os seguintes valores:
+
+a) Acesso rodoviário, com pavimentação em calçada, betuminosos ou equivalente junto ao imóvel-1,5 %;
+
+b) Passeios em toda a extensão do arruamento ou do quarteirão, do lado do imóvel - 0,5 %;
+
+c) Rede de abastecimento domiciliário de água, com serviço junto do imóvel - 1 %;
+
+d) Rede de saneamento, com colector em serviço junto do imóvel - 1,5 %;
+
+e) Rede de distribuição de energia eléctrica em baixa tensão junto do imóvel - 1 %;
+
+f) Rede de drenagem de águas pluviais com colector de serviço junto do imóvel - 0,5 %;
+
+g) Estação depuradora, em ligação com a rede de colectores de saneamento com serviço junto do imóvel -2 %;
+
+h) rede de distribuição de gás junto do imóvel - 1 %.
+
+Nota 1. - Valor fixado anualmente por portaria a que se refere o n.º 1 do artigo 7.º do [Decreto-Lei n.º 13/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1986-192247), de 23 de Janeiro.
+
+###### Artigo 32.º — Cálculo do valor da compensação em numerário nos edifícios contíguos e funcionalmente ligados entre si e operações urbanísticas de impacte relevante
+
+O preceituado no número anterior é também aplicável ao cálculo do valor da compensação em numerário nos edifícios contíguos e funcionalmente ligados entre si bem como operações urbanísticas de impacte relevante, com as necessárias adaptações.
+
+###### Artigo 33.º — Compensação em espécie
+
+1 - Feita a determinação do montante total da compensação a pagar, se se optar por realizar esse pagamento em espécie, haverá lugar à avaliação dos terrenos ou imóveis a ceder ao município, e o seu valor será obtido com recurso ao seguinte mecanismo:
+
+a) A avaliação será efectuada por uma comissão composta por três elementos, sendo dois nomeados pela Câmara Municipal e o terceiro pelo promotor da operação urbanística;
+
+b) As decisões da comissão serão tomadas por maioria absoluta dos votos dos seus elementos.
+
+2 - Quando se verificarem diferenças entre o valor calculado para compensação devida em numerário e o valor dessa compensação a entregar em espécie, as mesmas serão liquidadas da seguinte forma:
+
+a) Se o diferencial for favorável ao município, será o mesmo pago em numerário pelo promotor da operação urbanística;
+
+b) Se o diferencial for favorável ao promotor, ser-lhe-á o mesmo entregue pelo município.
+
+3 - Se o valor proposto no relatório final da comissão referida no n.º 1 deste artigo não for aceite pela Câmara Municipal ou pelo promotor da operação urbanística, recorrer-se-á a uma comissão arbitral, que será constituída nos termos do artigo 118.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
+
+4 - Os custos decorrentes da avaliação prevista no n.º 1 e n.º 3 serão suportadas pelo promotor da operação urbanística.
+
+### CAPÍTULO IX — Disposições especiais
+
+###### Artigo 34.º — Informação prévia
+
+O pedido de informação prévia no âmbito de operações de loteamento ou obras de construção estão sujeitos ao pagamento das taxas fixadas no quadro XII da tabela anexa ao presente Regulamento.
+
+###### Artigo 35.º — Ocupação da via pública por motivo de obras
+
+1 - A ocupação de espaço público por motivo de obras está sujeita ao pagamento das taxas fixadas no quadro XIII da tabela anexa ao presente Regulamento.
+
+2 - O prazo de ocupação de espaço público por motivo de obras não pode exceder o prazo fixado nas licenças ou autorizações relativas às obras a que se reportam.
+
+3 - No caso de obras não sujeitas a licenciamento ou autorização, ou que delas estejam isentas, a licença de ocupação de espaço público será emitida pelo prazo solicitado pelo interessado, podendo ser fixado diferente prazo por motivo de interesse público devidamente fundamentado.
+
+###### Artigo 36.º — Vistorias
+
+1 - A realização de vistorias por motivo da realização de obras está sujeita ao pagamento das taxas fixadas no quadro XIV da tabela anexa ao presente Regulamento.
+
+2 - A realização de vistorias para efeitos de recepção de operações de loteamento com/e obras de urbanização está sujeita ao pagamento das taxas fixadas no quadro XIV da tabela anexa ao presente Regulamento.
+
+3 - A realização de vistorias ao abrigo do disposto no art. 90.º do DL 555/99 está sujeita ao pagamento das taxas fixadas no quadro XIV da tabela anexa ao presente Regulamento.
+
+###### Artigo 37.º — Assuntos administrativos
+
+Os actos e operações de natureza administrativa estão sujeitos ao pagamento das taxas fixadas no quadro XV da tabela anexa ao presente Regulamento.
+
+###### Artigo 38.º — Pagamento de taxas nos procedimentos de licenciamento para realização de operações urbanísticas
+
+O alvará e seus aditamentos destinados a titular o licenciamento de operações urbanísticas não serão emitidos sem que se mostrem pagas as taxas devidas.
+
+###### Artigo 39.º — Pagamento de outras taxas
+
+O pagamento das taxas previstas nos quadros XII, XIV e XV deverá ser efectuado no momento da entrega do pedido, sob pena do seu arquivamento.
+
+###### Artigo 40.º — Autorização para instalação de estações de telecomunicações
+
+1 - A autorização para instalação de estações de rádio-telecomunicações ao abrigo do disposto no DL 11/2003 está sujeita ao pagamento de um montante fixo em função da área em que se localiza.
+
+2 - Os valores referidos no número anterior são fixados no quadro XVI da tabela anexa ao presente Regulamento.
+
+###### Artigo 41.º — Licenciamentos e ou autorizações para postos de combustíveis, reservatórios de GPL, parques de garrafas
+
+1 - Quando a Câmara Municipal recorrer a entidades/empresas para análise dos respectivos processos de licenciamento, realização de vistorias e ou inspecções obrigatórias nos termos da legislação em vigor terão que ser liquidados com a formulação da pretensão na Câmara Municipal os valores estabelecidos no quadro XVII da tabela anexa.
+
+2 - Os valores cobrados nos termos do disposto no número anterior serão deduzidos no valor da taxa pela emissão do alvará de construção.
+
+3 - Caso não venha a ser emitido qualquer alvará, não haverá lugar à devolução das importâncias recebidas nos termos do referido no n.º 1 deste artigo.
+
+### CAPÍTULO X — Disposições finais e complementares
+
+###### Artigo 42.º — Prazo para realização de operações urbanísticas de edificações sujeitas a comunicação prévia
+
+1 - O prazo máximo para execução de operações urbanísticas de edificações sujeitas a comunicação prévia com área de construção contabilizável para efeitos de PDM igual ou inferior a 400 m2 é de 24 meses;
+
+2 - O prazo máximo para execução de operações urbanísticas de edificações sujeitas a comunicação prévia com área de construção contabilizável para efeitos de PDM superior a 400 m2 é de 36 meses;
+
+3 - Poderão ser admitidos prazos superiores ao previsto no número anterior a pedido expresso do titular e desde que tecnicamente justificáveis.
+
+4 - No caso de execução por fases, os prazos máximos definidos aplicam-se a cada fase.
+
+###### Artigo 43.º — Prazo para realização de operações urbanísticas de urbanização sujeitas a comunicação prévia
+
+1 - O prazo máximo para execução de operações urbanísticas de urbanização sujeitas a comunicação prévia é de 18 meses;
+
+2 - Poderão ser admitidos prazos superiores ao previsto no número anterior a pedido expresso do titular e desde que tecnicamente justificáveis.
+
+3 - No caso de execução por fases, os prazos máximos definidos aplicam-se a cada fase.
+
+###### Artigo 44.º — Edificações que não alterem significativamente a topografia dos terrenos existentes
+
+Para efeitos do disposto no art. 6.º-A, n.º 1, alínea b) do Decreto-Lei n.º 5555/99 entende-se que são edificações que não alteram significativamente a topografia dos terrenos existentes a construção de muros no interior das propriedades desde que não sejam criados desníveis superiores a 2 m.
+
+###### Artigo 45.º — Comunicação prévia
+
+1 - O prazo estabelecido no art. 36.º, n.º 2, suspende-se, nos termos e prazos previstos no art. 31.º, n.º 1, do CPA, ou até ao termo do prazo para a recepção dos pareceres, autorizações ou aprovações, sempre que alguma das entidades consultadas não se pronuncie até essa data.
+
+2 - No caso de substituição do titular da admissão de comunicação prévia, o substituto deve disso fazer prova junto do Presidente da Câmara Municipal para que este proceda ao respectivo averbamento no prazo de 15 dias a contar da data da substituição.
+
+3 - o Disposto no art. 113.º do RJUE aplica-se, com as devidas adaptações, no âmbito do procedimento de comunicação prévia.
+
+4 - A admissão de comunicação prévia das operações urbanísticas não referidas no art. 71.º do RJUE caduca:
+
+a) se as obras não forem iniciadas no prazo de um ano a contar da data da prática do acto administrativo previsto no art. 36.º-A do RJUE;
+
+b) o prazo referido na alínea anterior pode ser prorrogado por um ano a requerimento fundamentado do interessado;
+
+c) se as obras estiverem suspensas por período superior a 6 meses, salvo se a suspensão decorrer de facto não imputável ao titular da admissão de comunicação prévia;
+
+d) se as obras estiverem abandonadas por período superior a 6 meses;
+
+e) se as obras não forem concluídas no prazo fixado na comunicação prévia ou as suas prorrogações, contado a partir do acto administratico previsto no art. 36.º-A do RJUE.
+
+5 - A caducidade prevista no número anterior aplica-se o regime estabelecido no artigo 71.º do RJUE.
+
+###### Artigo 46.º — Comunicação de início dos trabalhos
+
+1 - Para efeitos do disposto no art. 6.º, n.º 8, as operações urbanísticas isentas de licenciamento e comunicação prévia terão que ser comunicadas, previamente ao seu início, à Câmara Municipal.
+
+2 - A comunicação referida no número anterior terá que ser realizada em conformidade com o disposto no n.º 1 do art. 80.º-A do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682).
+
+###### Artigo 47.º — Dedução no valor das taxas
+
+1 - O valor das obras de urbanização que o titular da licença ou comunicação prévia haja acordado com a CMOAZ ao abrigo do disposto no art. 25.º, n.º 1 e n.º 2, serão dedutíveis no montante das taxas pela realização, reforço e manutenção de infra-estruturas urbanísticas contempladas no capítulo VII do presente regulamento e, nos termos nos números seguintes.
+
+2 - O valor das obras de urbanização, para efeitos do referido no número anterior, terá que ser aceite pelo município.
+
+3 - Caso o valor das obras de urbanização seja superior ou igual ao montante das taxas a liquidar relativas à realização, reforço e manutenção de infra-estruturas urbanísticas calculadas nos termos do disposto no capítulo VII, o valor das taxas a liquidar relativas à realização, reforço e manutenção de infra-estruturas urbanísticas será nulo não havendo lugar também à devolução pelo Município de qualquer valor.
+
+###### Artigo 48.º — Actualizações
+
+As taxas previstas na tabela anexa ao presente Regulamento e respectiva tabela serão actualizadas anualmente no dia 1 de Janeiro, de acordo com a taxa de inflação nos termos do disposto no n.º 1 do art. 9.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de Dezembro.
+
+###### Artigo 49.º — Dúvidas e omissões
+
+Casos omissos e as dúvidas suscitadas na interpretação e aplicação do presente Regulamento, que não possam ser resolvidas pelo recurso aos critérios legais de interpretação de lacunas, serão submetidas para decisão dos órgãos competentes, nos termos do disposto na [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, na redacção dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro.
+
+###### Artigo 50.º — Entrada em vigor
+
+O presente Regulamento entra em vigor 5 dias após a sua publicação na 2.ª série do Diário da República.
+
+###### Artigo 51.º — Norma transitória
+
+1 - O presente Regulamento só será aplicável aos procedimentos iniciados ao abrigo do disposto da nova redacção do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682) conferida pela [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138).
+
+2 - A requerimento fundamentado do interessado, e quando se verifique que pelo presente regulamento o valor das taxas a liquidar é menor, poderá a Câmara Municipal autorizar que as taxas sejam calculadas nos termos do presente regulamento.
+
+###### Artigo 52.º — Norma revogatória
+
+Com a entrada em vigor do presente Regulamento consideram-se revogados o Regulamento e Tabela de Taxas e Licenças Municipais aprovados pela Assembleia Municipal 16 de Dezembro, que a Assembleia Municipal, em sessão extraordinária, realizada no dia 19 de Julho do ano em curso, na Vila de Pinheiro da Bemposta.
+
+Tabela anexa
+
+QUADRO I
+
+Taxa devida pela emissão de alvará de licença de loteamentos e de obras de urbanização
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+QUADRO II
+
+Taxa devida pela emissão de alvará de licença de loteamento
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+QUADRO III
+
+Taxa devida pela emissão de alvará de licença ou admissão de comunicação prévia de obras de urbanização
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+QUADRO IV
+
+Taxa devida pela emissão de alvará de trabalhos de remodelação dos terrenos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+QUADRO V
+
+Emissão de alvará de licença ou admissão de comunicação prévia para obras de construção
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+QUADRO VI
+
+Casos especiais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+Nota: Quando o poço ou furo se situe em zona servida por rede de abastecimento de água e não se destine exclusivamente à captação de água para rega, o valor da taxa a pagar quintuplicará.
+
+QUADRO VII
+
+Taxa devida pela emissão de autorização de utilização e de alteração do uso
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+QUADRO VIII
+
+Licenças ou autorização de utilização ou suas alterações previstas em legislação específica
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+QUADRO IX
+
+Emissão de alvarás de licença parcial
+
+No caso de obras de construção, reconstrução, ampliação ou alteração, a emissão do alvará de licença parcial para construção da estrutura está sujeita ao pagamento de 30 % do valor das taxas devidas pela emissão do alvará de licença definitivo.
+
+QUADRO X
+
+Prorrogações
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+QUADRO XI
+
+Licença ou admissão de comunicação prévia especial relativa a obras inacabadas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+QUADRO XII
+
+Procedimento de informação prévia
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+QUADRO XIII
+
+Ocupação de domínio público municipal por motivo de obras
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+QUADRO XIV
+
+Vistorias
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+QUADRO XV
+
+Assuntos administrativos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+QUADRO XVI
+
+Estações de rádio-telecomunicações
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/08/167000000/3824838257.pdf)
+
+21 de Agosto de 2008. - O Presidente da Câmara, Ápio Cláudio do Carmo Assunção.

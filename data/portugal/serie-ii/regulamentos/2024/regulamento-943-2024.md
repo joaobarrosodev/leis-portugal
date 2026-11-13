@@ -1,0 +1,161 @@
+---
+schema_version: '1.0'
+id: pt:dre:885028397:por
+title: Regulamento n.º 943/2024
+short_title: null
+summary: Alteração ao Regulamento do Estudante em Regime de Tempo Parcial na ESSEM.
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Egas Moniz - Cooperativa de Ensino Superior, C. R. L.
+proposing_entity: null
+official_number: 943/2024
+official_date: null
+publication_date: '2024-08-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 161/2024, Série II de 2024-08-21
+  number: '161'
+  series: II
+  supplement: null
+  pages: 639 - 640
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/08/161000000/0063900640.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '885028397'
+  dre_path: /dr/detalhe/regulamento/943-2024-885028397
+  internal: pt:dre:885028397:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/943-2024-885028397
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/943-2024-885028397
+  consolidated_url: null
+  retrieved_at: '2026-11-13T08:04:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 782280121cc275150b327a68786f8d97e3cec9b3e426c50aefe3cf74bfcf8b99
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T08:04:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:116068879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121000481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T08:04:27Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 943/2024
+
+Nos termos do disposto no artigo 46.º-C do [Decreto-Lei n.º 65/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), de 16 de agosto, que altera e republica o [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, a Escola Superior de Saúde Egas Moniz (ESSEM) estabelece, as normas referentes ao regime de estudos a tempo parcial nos cursos de 1.º e 2.º ciclo de estudos nela ministrados, procedendo assim à revogação do [Regulamento n.º 224/2019](https://diariodarepublica.pt/dr/detalhe/regulamento/224-2019-121000481) publicado no Diário da República, 2.ª série, n.º 52, de 14 de março.
+
+Após aprovação pelo Diretor da ESSEM, a Egas Moniz - Cooperativa de Ensino Superior C. R. L., sua entidade instituidora, manda publicar o respetivo Regulamento.
+
+5 de agosto de 2024. - O Presidente da Direção, José João Baltazar Mendes.
+
+Regulamento do Estudante em Regime de Tempo Parcial
+
+Preâmbulo
+
+Nos termos do disposto no artigo 46.º-C do [Decreto-Lei n.º 65/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2018-116068879), de 16 de agosto, que altera e republica o [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, a Escola Superior de Saúde Egas Moniz (ESSEM) estabelece, no presente regulamento, as normas referentes ao regime de estudos a tempo parcial nos cursos de 1.º e 2.º ciclo de estudos nela ministrados.
+
+###### Artigo 1.º — Objeto e âmbito de aplicação
+
+1 - O presente regulamento destina-se a definir as regras relativas ao estudante em regime de estudos a tempo parcial (doravante designado por regime de tempo parcial) na ESSEM.
+
+2 - O regime de tempo parcial é facultado a todos os estudantes matriculados no 1.º e 2.º ciclo de estudos de qualquer um dos cursos ministrados na ESSEM.
+
+3 - Considera-se estudante em regime de tempo parcial aquele que, tendo ingressado e estando matriculado num curso do 1.º ou 2.º ciclo de estudos, se inscreve em cada ano letivo num número de unidades curriculares correspondentes a um máximo de 30 ECTS.
+
+4 - Um mestrando pode estar inscrito em regime de tempo parcial no máximo dois anos, correspondendo cada ano em tempo parcial a meio ano em tempo integral.
+
+5 - Os pedidos de prorrogação da entrega do trabalho final do curso de mestrado não são considerados para a inscrição em regime de tempo parcial.
+
+###### Artigo 2.º — Condições para inscrição em regime de tempo parcial
+
+1 - Pode inscrever-se em regime de tempo parcial qualquer estudante que expressamente o requeira no início do ano letivo, no ato de matrícula/inscrição.
+
+2 - Os estudantes do 2.º ciclo de estudos inscritos nas componentes de dissertação, relatório de estágio, Trabalho de Projeto ou trabalhos equivalentes, podem candidatar-se à inscrição em regime de tempo parcial, devendo, para o efeito, apresentar um parecer favorável do orientador.
+
+3 - No requerimento, o estudante terá de indicar em que unidades curriculares pretende inscrever-se.
+
+4 - O regime de inscrição e frequência de um curso a tempo parcial é concedido por ano letivo.
+
+###### Artigo 3.º — Mudança de regime
+
+1 - A mudança do regime de tempo integral para regime de tempo parcial, ou vice-versa, apenas pode ocorrer no ato de matrícula/inscrição no ano letivo.
+
+2 - Excetuam-se do ponto anterior os trabalhadores-estudantes, que poderão requerer a mudança do regime de tempo integral para tempo parcial no início do segundo semestre, desde que seja respeitado o estipulado no ponto 3 do artigo 1.º deste regulamento.
+
+3 - Pelo requerimento de mudança de regime é devida uma taxa estipulada anualmente pela Entidade Instituidora da ESSEM.
+
+4 - Os estudantes a quem falte a aprovação em unidades curriculares correspondentes a um número de créditos igual ou inferior a 30 ECTS para conclusão do curso, e que tenham vindo a frequentar os seus estudos em regime de tempo integral, não poderão requerer a passagem ao regime de tempo parcial.
+
+5 - São liminarmente indeferidos os requerimentos efetuados fora dos prazos estabelecidos.
+
+###### Artigo 4.º — Propinas e emolumentos
+
+1 - As propinas e emolumentos referentes ao regime de tempo parcial são estipulados anualmente pela Entidade Instituidora da ESSEM.
+
+2 - O montante total das propinas pagas por um estudante que completa um ciclo de estudos em regime de tempo parcial não poderá ser inferior ao montante pago por outro estudante que tenha completado o mesmo ciclo de estudos em regime de tempo integral.
+
+3 - Os montantes e prazos de pagamentos de matrícula e de inscrição, bem como os prémios devidos pelo respetivo seguro escolar e outras taxas e emolumentos são os fixados para os estudantes em regime de estudos a tempo integral.
+
+4 - O presente regime não é acumulável com quaisquer benefícios que sejam conferidos pela Entidade Instituidora da ESSEM, com o objetivo da redução da propina a pagar pelo estudante.
+
+###### Artigo 5.º — Casos omissos e dúvidas
+
+Todas as situações omissas e dúvidas que não possam ser resolvidas pelo presente regulamento serão analisadas, caso a caso, pelo Diretor da ESSEM.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente regulamento entra em vigor imediatamente após a sua aprovação.
+
+317992089

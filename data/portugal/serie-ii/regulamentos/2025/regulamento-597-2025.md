@@ -1,0 +1,230 @@
+---
+schema_version: '1.0'
+id: pt:dre:918014340:por
+title: Regulamento n.º 597/2025
+short_title: null
+summary: Aprova o Regulamento de Utilização do Correio Eletrónico da Universidade de Trás-os-Montes e Alto Douro.
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Universidade de Trás-os-Montes e Alto Douro
+proposing_entity: null
+official_number: 597/2025
+official_date: null
+publication_date: '2025-05-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 92/2025, Série II de 2025-05-14
+  number: '92'
+  series: II
+  supplement: null
+  pages: 213 - 217
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/05/092000000/0021300217.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '918014340'
+  dre_path: /dr/detalhe/regulamento/597-2025-918014340
+  internal: pt:dre:918014340:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/597-2025-918014340
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/597-2025-918014340
+  consolidated_url: null
+  retrieved_at: '2026-11-13T08:20:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bfd198aca11770fec1b3c18cbcae1b35b07475fb55cef13fbbf6a004b49588b3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T08:20:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+article_structure:
+  article_count: 11
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T08:20:05Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 597/2025
+
+A Universidade de Trás-os-Montes e Alto Douro (UTAD) disponibiliza à sua comunidade académica um conjunto abrangente de serviços digitais à sua comunidade académica, cujo acesso é efetuado mediante a utilização de uma Identidade Digital.
+
+Considerando o enquadramento legal em vigor, nomeadamente o Regulamento Geral sobre a Proteção de Dados (RGPD) e a Diretiva sobre a Segurança das Redes e Sistemas de Informação (NIS2), torna-se imperativo garantir, quer o cumprimento da Lei, quer o bom funcionamento dos diversos sistemas digitais institucionais.
+
+Neste contexto, o regulamento, em anexo, estabelece as regras relativas à utilização adequada do serviço de correio eletrónico da UTAD, aplicando-se a todos os detentores de correio eletrónico nos domínios e subdomínios da UTAD. Este serviço visa facilitar a comunicação institucional nas atividades do grupo UTAD, sendo regulado pelo Regulamento de acesso e utilização dos serviços informáticos da UTAD.
+
+Promovida a consulta pública conforme estabelecido no n.º 3 do artigo 110.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, em harmonia com os normativos consagrados sobre esta matéria no Código do Procedimento Administrativo, em especial no artigo 101.º, ao abrigo das competências que me são conferidas pela alínea o) do n.º 1 do artigo 92.º do Regime Jurídico das Instituições de Ensino Superior e pela alínea t) do n.º 1 do artigo 30.º dos Estatutos da Universidade de Trás-os-Montes e Alto Douro, aprovo o Regulamento de Utilização do Correio Eletrónico da Universidade de Trás-os-Montes e Alto Douro.
+
+11 de abril de 2025. - O Reitor, Emídio Ferreira dos Santos Gomes.
+
+## ANEXO — Regulamento de Utilização do Correio Eletrónico da Universidade de Trás-os-Montes e Alto Douro
+
+Este regulamento estabelece as condições e as regras de utilização do serviço de correio eletrónico da Universidade de Trás-os-Montes e Alto Douro (UTAD), enquanto suporte às atividades institucionais do grupo UTAD.
+
+### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Âmbito e objeto
+
+1 - O presente regulamento estabelece as regras para o uso adequado do serviço de correio eletrónico da UTAD e aplica-se a todos os detentores de correio eletrónico nos domínios e subdomínios da UTAD. Este serviço visa facilitar a comunicação institucional nas atividades do grupo UTAD, sendo regido pelo Regulamento de acesso e utilização dos serviços informáticos da UTAD.
+
+2 - Para efeitos do número anterior, os doravante designados “utilizadores” encontram-se definidos nos números 2, 3 e 4 do Artigo 1.º do Capítulo I do Regulamento de acesso e utilização dos serviços informáticos da UTAD.
+
+###### Artigo 2.º — Política de utilização
+
+1 - O correio eletrónico deve ser utilizado de forma responsável, ética e em conformidade com a lei, proibindo-se o envio de conteúdos ofensivos, discriminatórios ou ilegais. É vedado o uso do email para finalidades que possam prejudicar a reputação e bom nome da UTAD.
+
+2 - O uso privado do correio eletrónico institucional é expressamente proibido. Não pode ser usado para fins contrários à missão e atividade desenvolvidas pela UTAD.
+
+3 - Toda a comunicação institucional deve ser realizada através das contas de correio eletrónico da UTAD, o que se aplica a todos os utilizadores, obrigatoriamente e sem exceções.
+
+4 - O redirecionamento de correio eletrónico para endereços externos não é permitido.
+
+5 - A UTAD pode monitorizar e auditar periodicamente os fluxos do serviço para garantir segurança e conformidade com as políticas internas, regulamentos e a Lei, podendo filtrar ou bloquear mensagens suspeitas de vírus ou spam.
+
+###### Artigo 3.º — Segurança, privacidade e conservação de dados pessoais
+
+1 - A UTAD compromete-se a proteger a privacidade e a confidencialidade dos utilizadores. O acesso não autorizado ao conteúdo da caixa de correio só poderá ocorrer por ordem judicial.
+
+2 - Podem ser implementadas medidas técnicas e organizativas adequadas para proteger os dados pessoais, incluindo encriptação de dados.
+
+3 - No âmbito da Diretiva sobre a Segurança das Redes e Sistemas de Informação (NIS2), a autenticação multifator (MFA), para o acesso às contas de correio eletrónico, é obrigatória.
+
+4 - É recomendada a utilização de encriptação e de assinaturas digitais para comunicações consideradas sensíveis.
+
+5 - A política de proteção de dados está definida em https://protecaodedados.utad.pt.
+
+###### Artigo 4.º — Procedimento disciplinar e medidas preventivas
+
+1 - O incumprimento ou a não observância dos deveres e obrigações previstos no presente regulamento poderá resultar no bloqueio da conta de correio eletrónico, bem como na instauração de um procedimento de averiguação/disciplinar. A reativação da conta ficará condicionada à regularização da situação.
+
+2 - As medidas de bloqueio de conta de correio eletrónico e a instauração de um procedimento de averiguação/disciplinar podem ser aplicadas pelo Reitor ou por quem tenha competência delegada para o efeito, ouvindo a Comissão de Ética da UTAD.
+
+### CAPÍTULO II — CONTAS E CICLO DE VIDA
+
+###### Artigo 5.º — Atribuição e desativação de conta de correio eletrónico
+
+1 - As contas de correio eletrónico são atribuídas aquando do estabelecimento do vínculo formal com a UTAD.
+
+2 - As contas de correio eletrónico institucionais destinadas a unidades orgânicas, eventos, projetos, sítios web, ou outra finalidade, devem ser solicitadas através da plataforma de suporte dos Serviços de Sistemas de Informação e Comunicações (SSIC).
+
+3 - As contas de correio eletrónico serão suspensas e removidas de acordo com os prazos definidos na Tabela 1 do Anexo A, podendo o titular solicitar ao Reitor a prorrogação do prazo, mediante justificação adequada.
+
+###### Artigo 6.º — Formato do endereço da conta de correio eletrónico
+
+1 - O formato do endereço das contas de correio eletrónico para todos os utilizadores, com exceção dos estudantes, é “.@utad.pt”.
+
+2 - Quando o formato indicado no número anterior impossibilita a criação de um endereço único de correio eletrónico na instituição, será incluída a inicial de outro sobrenome, de acordo com o formato “..@utad.pt”.
+
+3 - Num caso limite da não aplicação do número anterior, ou seja, a criação de um endereço de correio eletrónico único na instituição, a formação do endereço deverá ser realizada sob acordo entre o utilizador e os SSIC da UTAD, através do HelpDesk.
+
+4 - As regras definidas nos pontos 1, 2 e 3 deste artigo aplicam-se a contas criadas após a publicação deste regulamento.
+
+5 - O formato do endereço das contas de correio eletrónico dos estudantes é:
+
+al@alunos.utad.pt.
+
+###### Artigo 7.º — Listas de correio eletrónico institucionais
+
+1 - A Instituição mantém 3 listas gerais para comunicação institucional:
+
+a) as listas universidade@utad.pt e universidade@alunos.utad.pt são atualizadas diariamente com os endereços de correio eletrónico de todos os trabalhadores com vínculo à UTAD e alunos com matrículas ativas. Os trabalhadores podem optar pela remoção do seu endereço da lista universidade@utad.pt.
+
+b) a lista allusers@utad.pt é atualizada diariamente com todos os endereços de correio eletrónico da UTAD com domínio @utad.pt. Esta lista é utilizada para comunicação urgente e de caráter excecional.
+
+2 - Podem ser criadas listas institucionais setoriais, com atualização diária. Exemplos são por unidade orgânica, grau académico, curso, categoria profissional.
+
+###### Artigo 8.º — Outras listas de correio eletrónico
+
+1 - A instituição mantém listas de distribuição de correio eletrónico para facilitar a comunicação em massa.
+
+2 - A criação e a desativação de listas de correio eletrónico devem ser solicitadas através da plataforma de suporte dos SSIC, estando sujeitas à autorização do Reitor ou de quem tenha competência delegada para o efeito.
+
+3 - Listas consideradas não-estruturais ou limitadas no tempo (e.g. projetos de investigação, eventos) devem, aquando do pedido para a sua criação, incluir uma limitação temporal a partir da qual serão desativadas.
+
+4 - A gestão dos utilizadores presentes em cada lista de correio eletrónico são da responsabilidade de quem solicitou a sua criação ou de um utilizador indicado para este efeito.
+
+5 - Estas listas devem ser usadas exclusivamente para fins institucionais.
+
+6 - A UTAD realizará revisões anuais para garantir a relevância e o uso adequado das listas ativas.
+
+###### Artigo 9.º — Envio massivo de mensagens de correio eletrónico
+
+1 - O envio massivo de mensagens de correio eletrónico é desaconselhado.
+
+2 - Quando necessário, deve ser realizado com responsabilidade, utilizando listas de distribuição adequadas, garantindo a possibilidade de cancelamento aos destinatários.
+
+### CAPÍTULO III — DISPOSIÇÕES FINAIS
+
+###### Artigo 10.º — Dúvidas e Omissões
+
+Os casos omissos, os casos excecionais, as lacunas e as dúvidas de interpretação decorrentes da aplicação do presente regulamento que não possam ser resolvidas pelo recurso aos critérios legais de interpretação e de integração, serão decididos mediante despacho do Reitor, sob parecer dos SSIC ou do Gabinete Jurídico, se necessário.
+
+###### Artigo 11.º — Publicidade, Entrada em vigor e Revisão
+
+1 - O presente regulamento será publicitado aos utilizadores através da página institucional da Internet da UTAD, entrando em vigor no dia seguinte à sua publicação no Diário da República.
+
+2 - Este regulamento deverá ser revisto e atualizado periodicamente, em conformidade com as políticas internas da UTAD e as mudanças na legislação aplicável.
+
+## ANEXO A — Prazos para a desativação ou suspensão de contas de correio eletrónico
+
+Os utilizadores encontram-se definidos nos números 2, 3 e 4 do Artigo 1.º do Capítulo I do presente regulamento e a tipologia de estudantes no n.º 2 do artigo 7.º do Capítulo II do Regulamento de Acesso e Utilização dos Serviços Informáticos da UTAD.
+
+Os prazos considerados para a desativação ou suspensão de contas de correio eletrónico constam da Tabela 1.
+
+Tabela 1. prazos para a desativação ou suspensão de contas de correio eletrónico, com base no tipo de utilizador e na situação do vínculo perante a UTAD.
+
+| Tipo de utilizador | Situação | Prazo/Ação |
+| --- | --- | --- |
+| Docente/Investigador/Trabalhador não-docente | Jubilação, aposentação ou reforma | A conta é suspensa após 365 dias sem acessos ao serviço de correio eletrónico e removida definitivamente após mais 365 dias. |
+| Docente/Investigador/Trabalhador não-docente | Suspensão temporária do vínculo | A conta é suspensa após 30 dias da efetivação da alteração do vínculo. |
+| Docente/Investigador/Trabalhador não-docente | Término do vínculo | A conta é suspensa após 30 dias da efetivação do término do vínculo e removida após 1 ano adicional. |
+| Colaboradores Externos | Término do vínculo | A conta é suspensa após 30 dias da efetivação do término do vínculo e removida após 1 ano adicional. |
+| Estudantes (Tipo A) | Suspensão temporária do vínculo | A conta é suspensa após 1 ano e removida após 1 ano. |
+| Estudantes (Tipo A) | Término do vínculo | A conta é suspensa após 180 dias da efetivação do término do vínculo, sendo convertida numa conta Alumni e ficando sujeita aos prazos estabelecidos para esse tipo de conta. |
+| Estudantes (Tipo B) | Término do vínculo | A conta é suspensa após 30 dias da efetivação do término do vínculo e removida após 1 ano adicional. |
+| Alumni | - | A conta é suspensa 2 anos após o último acesso e removida após 1 ano adicional. |
+| Contas Externas | Término do vínculo | A conta é suspensa após 30 dias da efetivação do término do vínculo e removida após 30 dias adicional. |
+| Contas Institucionais | Inatividade | A conta é suspensa após 1 ano de inatividade e removida após 2 anos. |
+
+318961107
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:37px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:28px; } .Tbl13 { min-height:47px; } .Tbl14 { text-indent:0px; text-align:center; }

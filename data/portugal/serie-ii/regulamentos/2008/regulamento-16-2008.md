@@ -1,0 +1,2129 @@
+---
+schema_version: '1.0'
+id: pt:dre:789111:por
+title: Regulamento n.º 16/2008
+short_title: null
+summary: Regulamento Municipal de Abastecimento de Água, Drenagem de Águas Residuais e Recolha de Resíduos Sólidos Urbanos
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Câmara Municipal de Vinhais
+proposing_entity: null
+official_number: 16/2008
+official_date: null
+publication_date: '2008-01-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 7/2008, Série II de 2008-01-10
+  number: '7'
+  series: II
+  supplement: null
+  pages: 1325 - 1346
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/01/007000000/0132501346.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '789111'
+  dre_path: /dr/detalhe/regulamento/16-2008-789111
+  internal: pt:dre:789111:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/16-2008-789111
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/16-2008-789111
+  consolidated_url: null
+  retrieved_at: '2026-11-12T14:50:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c6cd0b703222368a0bb3ed750bba96c1ba570ade480df38a9896f582a94e9737
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T14:50:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:1301985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644295:por
+  label: null
+  source: null
+article_structure:
+  article_count: 184
+  section_count: 61
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T14:50:59Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 16/2008
+
+Após discussão pública, em cumprimento do artigo 118.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, e no seguimento da proposta da Câmara Municipal nos termos da alínea a), do n.º 6, do artigo 64.º, da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, foi aprovado em sessão ordinária da Assembleia Municipal datada de 20 de Dezembro de 2007, o Regulamento de Municipal de Abastecimento de Água, Drenagem de Águas Residuais e Recolha de Resíduos Sólidos Urbanos, o qual entra em vigor no trigésimo dia, após a sua publicação.
+
+Para constar se publica este edital e outros de igual teor, que vão ser afixados nos lugares de estilo.
+
+28 de Dezembro de 2007. - O Presidente da Câmara Municipal, Américo Jaime Afonso Pereira.
+
+Regulamento Municipal de Abastecimento de Água, Drenagem de Águas Residuais e Recolha de Resíduos Sólidos Urbanos do Concelho de Vinhais
+
+Nota justificativa
+
+No âmbito das atribuições das autarquias locais assume particular relevância a prestação de serviços de abastecimento de água, drenagem de águas residuais e recolha de RSU's, sendo por isso importante manter actualizada a disciplina da relação jurídica com os seus utentes, de modo a garantir uma correcta aplicação dos normativos que regulam o procedimento administrativo e as condições técnicas do licenciamento dos respectivos sistemas.
+
+Atendendo a que o "Regulamento do Serviço de Abastecimento de Água do Concelho de Vinhais", que data de 1997 se encontra algo desajustado da realidade actual, não se compatibilizando, em muitos dos seus aspectos com as preocupações que a autarquia tem com a constante e crescente escassez de água, bem como com a forma de controlar alguns excessos injustificados no consumo, que têm como consequência a falta de água nos meses quentes de verão, procede-se à sua reformulação mediante a elaboração de um novo documento.
+
+Neste novo documento dá-se o devido realce às medidas que tornam possível a prossecução dos objectivos essenciais que presidem este regulamento e espelham a preocupação do município no domínio do abastecimento de água: a possibilidade de proporcionar o fornecimento ininterrupto de água, durante todo o ano, em quantidade e com qualidade, combatendo o desperdício.
+
+Assim, seguindo esta filosofia, a Câmara Municipal tem vindo a prosseguir uma política de colocação de contadores de água em todos os edifícios ou instalações que usufruam do abastecimento público de água potável.
+
+Por outro lado também o "Regulamento de Drenagem de Águas Residuais do Município de Vinhais", datado igualmente do ano de 1997, tem deparado com algumas dificuldades na sua aplicação prática e denota algumas lacunas, que interessa preencher.
+
+Para além disso optou-se com este regulamento por disciplinar em conjunto as matérias que dizem respeito ao abastecimento de água, à drenagem de águas residuais e à recolha dos resíduos sólidos urbanos, por ter a Câmara Municipal entendido ser conveniente agrupar as regras que dispõem sobre a prestação destes três tipos de serviços, evitando a dispersão de regimes que, a maior parte das vezes, se torna num obstáculo à sua aplicação prática. Espera-se que com esta solução a sua aplicação se revele mais eficaz.
+
+Uma última palavra para a questão da recolha de resíduos sólidos urbanos: os padrões de desenvolvimento e qualidade de vida da sociedade actual exigem uma reflexão profunda e a tomada de medidas preventivas e correctivas que garantam a continuidade dos recursos naturais e a preservação do meio ambiente.
+
+Torna-se portanto urgente criar os mecanismos que assegurem o tão desejado desenvolvimento sustentado, assumindo de forma colectiva a necessária co-responsabilização e participação num processo que se evidencia complexo, o qual não podemos ignorar que começa em nossas casas e nos pequenos gastos quotidianos.
+
+Nesse sentido, é importante dotar o Município de Vinhais de um instrumento que lhe permita aplicar o disposto na lei n.º 11/87, de 7 de Abril (Lei de Bases do Ambiente), a qual consagra o princípio da responsabilidade do produtor pelos resíduos que produza e determine que os diversos tipos de resíduos devem ser recolhidos, armazenados, transportados, eliminados ou neutralizados de tal forma que não constituam perigo imediato ou potencial para a saúde humana nem causem prejuízo para o ambiente.
+
+Por outro lado, é também necessário assegurar uma correcta articulação entre o Município e a empresa intermunicipal Resíduos do Nordeste EIM, responsável pela gestão e tratamento dos resíduos sólidos urbanos.
+
+A todas as razões acabadas de referir e que tentam justificar a criação deste novo instrumento, acrescem as que têm a ver com os montantes astronómicos que o Município está a pagar, por força de contratos anteriormente celebrados e assumidos e que, caso as taxas e tarifas não sejam actualizadas, podem colocar a autarquia em situação económica difícil.
+
+Para ilustrar o que acaba de dizer-se, podemos referir que o Município está a pagar anualmente quantias que atingem os 736.506,89 (euro), aos quais acresce o IVA, para pagamento à empresa intermunicipal Resíduos do Nordeste (Rsu's, limpeza urbana e tarefas afins), à empresa AGS (controlo analítico de água, manutenção e exploração dos sistemas de abastecimento e saneamento de água) e ao laboratório LRTM para restantes análises de água.
+
+Estes montantes sofrerão alterações, com tendência para aumentar, após a integração de alguns dos sistemas de abastecimento e saneamento de água (Sistemas de Vinhais, Sistema de Rebordelo, Sistema de Lomba e Sistema das Agueiras), momento a partir do qual terá de ser pago à empresa Águas de Trás-os-Montes e Alto Douro (AMTAD) o montante de (euro) 0,5411 (acrescido de IVA), por cada m3 de água de abastecimento e saneamento.
+
+Estes montantes tendem a aumentar de ano para ano, motivo pelo qual se revela imprescindível a criação deste novo Regulamento, com a correspondente actualização de taxas, tarifas e preços, de molde a precaver que a autarquia, em face de obrigações contratuais anteriormente assumidas, possa correr riscos em termos económico-financeiros.
+
+O presente projecto de regulamento é elaborado com fundamento no n.º 7 do artigo 115.º e no artigo 242.º ambos da Constituição da República Portuguesa e no uso das competências conferidas pelos artigos 64º n.º 1 alíneas j) e s) e n.º 6 alínea a) e no artigo 53º n.º 2 a) da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro e ainda nos artigos 114º e seguintes do Código do Procedimento Administrativo, propõe-se a sua aprovação e publicação para discussão pública e recolha de sugestões para posteriormente ser submetido à Assembleia Municipal, para aprovação.
+
+## TÍTULO I — Disposições introdutórias
+
+### CAPÍTULO ÚNICO
+
+#### Secção única
+
+###### Artigo 1º — (Objecto)
+
+O presente Regulamento tem por objecto a definição de regras sobre o sistema municipal de abastecimento e distribuição de água potável, o sistema municipal de drenagem de águas residuais e o sistema municipal de gestão de resíduos sólidos urbanos (RSU's) e equiparados, bem como à limpeza pública.
+
+###### Artigo 2º — (Lei habilitante)
+
+O presente Regulamento Municipal é aprovado nos termos do disposto no artigo 241º da Constituição da República Portuguesa e nos termos e para os efeitos previstos na alínea a) do n.º 6 do artigo 64º e na alínea a) do n.º 2 do artigo 53º da lei n.º 169/99, de 18 de Setembro, na redacção dada pela lei n.º 5-A/2002, de 11 de Janeiro, nas alíneas a), b) e c) do n.º 3 do artigo 16º da lei n.º 2/2007, de 15 de Janeiro e ainda no [Decreto-Lei n.º 239/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1997-644295), de 9 de Setembro.
+
+###### Artigo 3º — (Legislação aplicável)
+
+1 - A distribuição pública e predial de água potável, a recolha e drenagem pública e predial de águas residuais e a recolha de resíduos sólidos urbanos, no Concelho de Vinhais, obedecerão ao disposto no [Decreto-Lei n.º 207/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1994-223064), de 6 de Agosto e ao Decreto-Regulamentar n.º 23/95, de 23 de Agosto.
+
+2 - Em tudo o omisso, tanto nos diplomas citados no n.º 1 como no presente Regulamento, respeitar-se-ão as disposições legais e regulamentares em vigor, em particular em matéria de defesa dos direitos dos consumidores, protecção dos recursos naturais e saúde pública.
+
+3 - As dúvidas na interpretação ou aplicação de qualquer preceito deste Regulamento serão resolvidas por deliberação da Câmara Municipal, no âmbito das respectivas competências.
+
+###### Artigo 4º — (Entidade gestora)
+
+1 - Na área do Concelho de Vinhais, a entidade gestora responsável pela concepção, construção e exploração dos sistemas públicos de distribuição de água potável, de recolha, drenagem, tratamento e rejeição de águas residuais domésticas ou industriais e de recolha de resíduos sólidos urbanos, bem como da limpeza pública, é o Município, através da Câmara Municipal, podendo algumas das atribuições e actividades vir a ser exercidas por uma empresa pública municipal ou intermunicipal, ou ainda por concessionária de serviços.
+
+2 - Poderá o Município estabelecer protocolos de cooperação com outras entidades ou associações de utentes, nos termos da lei.
+
+3 - Além de outras obrigações previstas na lei, designadamente no artigo 4º, n.º 3 do [Decreto-Lei n.º 207/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1994-223064), de 6 de Agosto, é da responsabilidade da entidade gestora garantir a articulação entre as disposições do presente título e o Plano Director Municipal e com outros planos regionais ou nacionais.
+
+4 - A concepção e construção de novos sistemas públicos obedecerá a um projecto a aprovar pela Câmara Municipal, tendo como objectivo a resolução de problemas numa perspectiva global, tendo em conta a articulação no planeamento urbanístico.
+
+## TÍTULO II — Abastecimento de água
+
+### CAPÍTULO I — Disposições gerais
+
+#### Secção I — Disposições gerais
+
+###### Artigo 5º — (Enquadramento)
+
+1 - O presente título estabelece as normas complementares ao disposto no [Decreto-Lei n.º 207/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1994-223064), de 6 de Agosto, e no [Decreto Regulamentar n.º 23/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1995-431873), de 23 de Agosto, e define ainda outras regras e condições necessárias ao correcto desempenho das atribuições municipais em matéria de distribuição de água potável no Concelho de Vinhais, designadamente quanto às condições administrativas de fornecimento de água, estrutura tarifária, penalidades, reclamações e recursos.
+
+2 - O presente Regulamento aplica-se a todos os sistemas de distribuição público e predial de água potável em baixa e alta.
+
+### CAPÍTULO II — Condições administrativas
+
+#### Secção I — Da distribuição de água
+
+###### Artigo 6º — (Distribuição de Água Potável)
+
+Nas condições do presente Regulamento, a entidade gestora é obrigada a fornecer água ininterruptamente, excepto em casos fortuitos ou de força maior, não dando nestes casos a interrupção direito a qualquer indemnização.
+
+###### Artigo 7º — (Obrigatoriedade de Ligação)
+
+1 - Dentro da área abrangida pela actual ou futura rede pública de distribuição de água, os proprietários ou usufrutuários são obrigados a instalar as canalizações domiciliárias e a requerer o ramal de ligação à rede da Câmara Municipal de Vinhais.
+
+2 - Os inquilinos ou comodatários dos prédios, poderão requerer a ligação de água a fogos ou estabelecimentos por eles habitados ou utilizados à rede de distribuição, pagando o seu custo nos prazos legalmente estabelecidos.
+
+###### Artigo 8º — (Ligações fora da zona de distribuição)
+
+1 - Para os prédios situados fora das áreas abrangidas pelas redes de distribuição, a Câmara Municipal de Vinhais fixará as condições em que poderá ser estabelecida a ligação, tendo em consideração as limitações técnicas, os encargos financeiros decorrentes da ligação e todos os demais aspectos que tenham e devam ser tidos em conta.
+
+2 - As canalizações exteriores estabelecidas nos termos deste artigo serão propriedade exclusiva do Município de Vinhais, mesmo quando a sua instalação tenha sido efectuada a expensas dos interessados, no todo ou em parte.
+
+###### Artigo 9º — (Responsabilidade por danos nos sistemas prediais)
+
+A entidade gestora não assume qualquer responsabilidade por danos que possam sofrer os utilizadores em consequência de perturbações ocorridas nos sistemas públicos que ocasionem interrupções no serviço, desde que resultem de casos fortuitos ou de força maior ou de execução de obras previamente programadas, sempre que os utilizadores forem avisados com a antecedência devida.
+
+#### Secção II — Dos contratos
+
+###### Artigo 10º — (Contratos de fornecimento de água)
+
+A prestação de serviços de fornecimento de água é objecto de contrato celebrado entre a entidade gestora e os utilizadores.
+
+###### Artigo 11º — (Elaboração e celebração dos contratos)
+
+1 - Os contratos são elaborados em impressos de modelo próprio da entidade gestora e instruídos em conformidade com as disposições legais em vigor.
+
+2 - A entidade gestora deve entregar ao utilizador cópia do contrato, tendo em anexo o clausulado aplicável.
+
+3 - A celebração do contrato implica a adesão dos utilizadores às prescrições regulamentares.
+
+4 - Em caso de sucessão, poderá ser efectuado o averbamento dos novos titulares do contrato de fornecimento de água, mediante apresentação de documento comprovativo da sucessão.
+
+5 - Os actos de averbamento por herança estão isentos de pagamento.
+
+6 - Os actos de averbamento por falecimento de familiares, transmitidos a ascendente ou descendente estão isentos de pagamento.
+
+###### Artigo 12º — (Contratos especiais)
+
+1 - São objecto de contratos especiais os serviços de fornecimento de água que devem ter tratamento específico, designadamente os constantes das alíneas a) e b) do número 3 do artigo 20º do [Decreto-Lei n.º 207/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1994-223064), de 6 de Agosto, devendo ser acautelado, tanto quanto possível, o interesse dos consumidores finais.
+
+2 - Serão objecto de contratos especiais os fornecimentos de água que, devido ao seu impacto devam ter um tratamento específico, nomeadamente os seguintes:
+
+a) Complexos industriais;
+
+b) Outros que a entidade gestora entenda como necessários.
+
+###### Artigo 13º — (Vistoria das instalações)
+
+Os contratos só podem ser celebrados após vistoria ou acto equivalente, que comprovem estarem os sistemas prediais em condições de utilização para poderem ser ligados na rede pública, nomeadamente não existirem sistemas alternativos de abastecimento de água.
+
+###### Artigo 14º — (Vigência dos contratos)
+
+Os contratos consideram-se em vigor, nos termos estabelecidos no Regulamento Municipal de Abastecimento de Água, a partir da data em que tenha sido instalado o contador e ligado o sistema predial à rede pública em carga.
+
+###### Artigo 15º — (Comunicação da saída de inquilinos)
+
+Os proprietários ou usufrutuários dos prédios ligados à rede geral de distribuição, sempre que o contrato de fornecimento não esteja celebrado em seu nome, são obrigados a comunicar à Câmara Municipal de Vinhais, por escrito e no prazo de 30 dias, tanto a saída definitiva dos inquilinos dos seus prédios como a entrada de novos locatários.
+
+###### Artigo 16º — (Denúncia)
+
+1 - Os utilizadores podem denunciar, a todo o tempo, os contratos que tenham subscrito, desde que o comuniquem, por escrito, à entidade gestora.
+
+2 - Num prazo de 15 dias os utilizadores devem facultar a leitura dos instrumentos de medição instalados.
+
+3 - Caso esta última condição não seja satisfeita, continuam os utilizadores responsáveis pelos encargos entretanto decorrentes.
+
+4 - A denúncia só se torna efectiva após o pagamento das importâncias devidas.
+
+#### Secção III — Direitos e obrigações
+
+###### Artigo 17º — (Direitos dos utentes)
+
+1 - Os utentes gozam dos seguintes direitos:
+
+a) A garantia da existência e bom funcionamento global dos sistemas de distribuição de água, preservando-se a segurança, a saúde pública e o conforto;
+
+b) O direito à informação sobre todos os aspectos pertinentes da distribuição de água e ainda da qualidade da mesma;
+
+c) O direito de solicitarem vistorias;
+
+d) O direito de reclamação dos actos ou omissões da entidade gestora que possam prejudicar os seus direitos ou interesses legalmente protegidos;
+
+e) Quaisquer outros que lhes sejam conferidos por lei.
+
+###### Artigo 18º — (Deveres dos utentes)
+
+1 - São deveres dos utentes:
+
+a) Cumprir as disposições do presente Regulamento e as disposições pertinentes dos diplomas referidos no artigo 2º, na parte em que lhes são aplicáveis, e respeitar as intimações que lhes sejam dirigidas pelos órgãos competentes, fundadas neste Regulamento;
+
+b) Não fazer uso indevido ou danificar qualquer obra ou equipamento dos sistemas públicos;
+
+c) Não proceder à execução de ligações ao sistema público sem autorização da Câmara Municipal de Vinhais;
+
+d) Não alterar o ramal de ligação de abastecimento de água estabelecido entre a rede geral e a rede predial;
+
+e) Avisar a Câmara Municipal de Vinhais de eventuais anomalias nos contadores ou em outros equipamentos;
+
+f) Não proceder a alterações nos sistemas ou instalações exteriores sem prévia autorização da Câmara Municipal de Vinhais;
+
+g) Proceder por forma a que o fornecimento de água se destine, única e exclusivamente, ao seu prédio.
+
+###### Artigo 19º — (Deveres dos proprietários ou usufrutuários)
+
+1 - São deveres dos proprietários ou usufrutuários dos edifícios servidos por sistemas de distribuição de água:
+
+a) Cumprir as disposições do presente Regulamento bem como as dos diplomas referidos no artigo 2º, na parte em que lhes são aplicáveis, e respeitar e executar as intimações que lhes sejam dirigidas pelos órgãos competentes, fundadas neste Regulamento;
+
+b) Não proceder a alterações nos sistemas sem prévia autorização da entidade gestora;
+
+c) Manter em boas condições de conservação as instalações prediais;
+
+d) Pedir a ligação, logo que reunidas as condições que a viabilizem nos termos deste Regulamento;
+
+e) Cooperar com a entidade gestora para o bom funcionamento dos sistemas.
+
+###### Artigo 20º — (Deveres da entidade gestora)
+
+Além das obrigações gerais e específicas a que alude o artigo 3º, deve a entidade gestora:
+
+a) Providenciar a elaboração dos estudos e projectos dos sistemas públicos de abastecimento;
+
+b) Promover o estabelecimento e manutenção em bom estado de funcionamento e conservação dos sistemas públicos de distribuição de água;
+
+c) Submeter os componentes dos sistemas de distribuição de água, antes de estes entrarem em serviço, a ensaios que assegurem a perfeição do trabalho executado;
+
+d) Garantir que a água distribuída para consumo doméstico, em qualquer momento, possua as características que a definem como água potável, tal como são fixadas na legislação em vigor;
+
+e) Garantir a continuidade do serviço, excepto por razões de obras programadas ou em casos fortuitos, em que devam ser tomadas medidas imediatas para resolver a situação;
+
+f) Tomar as medidas necessárias para evitar danos nos sistemas prediais resultantes de pressão excessiva ou variação brusca da pressão na rede pública de distribuição de água;
+
+g) Promover a instalação, substituição ou renovação das redes de distribuição e dos ramais de ligação dos sistemas;
+
+h) Proceder à realização de análises periódicas da água de abastecimento público e sua divulgação, de acordo com a legislação vigente, nomeadamente o [Decreto-Lei n.º 243/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2001-631198), de 5 de Setembro.
+
+###### Artigo 21º — (Exclusão da responsabilidade da Entidade Gestora)
+
+1 - A Câmara Municipal de Vinhais não assume qualquer responsabilidade:
+
+a) Pelos prejuízos que possam sofrer os consumidores, em consequência de avarias, perturbações nas canalizações das redes de distribuição e de interrupção do fornecimento de água, sempre que resulte de causa natural;
+
+b) Por motivo de obras que exijam a suspensão do abastecimento;
+
+c) Por outros casos fortuitos ou de força maior, nomeadamente alterações nas origens de água, por causas não imputáveis à Câmara Municipal de Vinhais;
+
+d) Por descuidos, defeitos ou avarias nas instalações particulares.
+
+2 - Compete aos consumidores tomar providências necessárias para evitar os acidentes que possam resultar das perturbações no abastecimento.
+
+###### Artigo 22º — (Responsabilidade dos consumidores)
+
+Os consumidores são responsáveis por todos os gastos de água, fugas ou perdas nas canalizações de distribuição interior e dispositivos de utilização.
+
+### CAPÍTULO III — Condições técnicas de distribuição
+
+#### Secção I — Sistema de distribuição
+
+###### Artigo 23º — (Conceitos)
+
+1 - Rede geral de distribuição é o sistema de canalizações instalado, cujo funcionamento seja de interesse para o serviço público de distribuição de água.
+
+2 - Ramal de ligação é o troço de canalização privativa do serviço de abastecimento de um prédio, compreendido entre os limites do prédio e a canalização geral em que estiver inserido, ou entre a canalização geral e qualquer dispositivo terminal de utilização instalado na via pública, nomeadamente bocas de incêndio ou torneiras de suspensão.
+
+3 - São exteriores as canalizações da rede geral de distribuição, quer fiquem situadas na via pública, quer atravessem propriedades particulares em regime de servidão, bem como os ramais de ligação aos prédios.
+
+4 - São interiores as canalizações estabelecidas para abastecimento privativo dos prédios, desde o seu limite até aos locais de utilização de água dos vários andares, incluindo todos os dispositivos, equipamentos e aparelhos de utilização de água, necessários ao seu correcto funcionamento, com exclusão dos contadores.
+
+###### Artigo 24º — (Ramais)
+
+1 - Pelo estabelecimento dos ramais de ligação será cobrada aos requerentes a importância do respectivo custo, previamente orçamentado pela Câmara Municipal de Vinhais.
+
+2 - Se o valor orçamentado for considerado elevado, os requerentes, desde que estejam em situação económica comprovadamente débil, poderão requerer à Câmara Municipal de Vinhais o pagamento do custo dos ramais, em prestações mensais, desde que prestem garantia idónea, ou até a sua isenção total ou parcial.
+
+3 - A reparação dos ramais existentes dentro dos limites do prédio até ao contador de água é da exclusiva responsabilidade dos seus proprietários ou usufrutuários.
+
+###### Artigo 25º — (Canalizações exteriores)
+
+Compete exclusivamente à Câmara Municipal de Vinhais estabelecer ou autorizar a execução das canalizações exteriores, que ficam a fazer parte integrante da sua rede de distribuição.
+
+###### Artigo 26º — (Canalizações interiores)
+
+1 - As canalizações interiores, no caso de novas construções, são executadas de harmonia com o projecto previamente aprovado nos termos regulamentares em vigor.
+
+2 - Compete ao proprietário ou usufrutuário do prédio a conservação, reparação e renovação destas canalizações, seus sistemas elevatórios e demais dispositivos e equipamentos.
+
+3 - A execução das instalações de distribuição interior fica sempre sujeita à Fiscalização da Câmara Municipal de Vinhais, a qual verificará a conformidade da obra com o projecto previamente aprovado e a legislação e os regulamentos aplicáveis.
+
+4 - O instalador, o técnico responsável e o consumidor responderão solidariamente pelo bom funcionamento das instalações interiores, dentro do prazo de garantia.
+
+#### Secção II — Projectos
+
+###### Artigo 27º — (Projecto)
+
+Sem prejuízo de outras disposições legais em vigor, o projecto a que se refere o artigo 26º compreenderá:
+
+a) Memória descritiva contendo a indicação dos dispositivos de utilização de água, seus sistemas de comando, calibres, condições de assentamento das canalizações, sua identificação, natureza de todos os materiais, acessórios e equipamentos, bem como os cálculos justificativos dos procedimentos adoptados;
+
+b) Peças desenhadas necessárias à representação do traçado das canalizações, com indicação dos calibres dos diferentes troços e dos dispositivos e equipamentos de utilização de água.
+
+###### Artigo 28º — (Elaboração do projecto)
+
+1 - A elaboração do projecto deverá ser feita por técnicos legalmente habilitados.
+
+2 - Para a elaboração do projecto, desde que solicitado pelo interessado, a Câmara Municipal de Vinhais indicará o calibre do ramal de ligação e a pressão disponível na canalização da rede geral no ponto de ligação do prédio a abastecer.
+
+###### Artigo 29º — (Incumprimento das condições do projecto)
+
+1 - Durante a construção, sempre que se verifique o não cumprimento das condições do projecto, a Câmara Municipal de Vinhais poderá notificar, por escrito e no prazo de cindo dias úteis o proprietário ou o técnico responsável pela obra indicando as correcções a fazer.
+
+2 - Após a comunicação do proprietário ou do técnico responsável, na qual conste que as correcções ordenadas pela Câmara Municipal de Vinhais foram efectuadas, proceder-se-á dentro dos prazos anteriormente fixados.
+
+3 - Equivale à notificação indicada no n.º 1, a inscrição no livro da obra, pelos técnicos camarários que efectuem a vistoria, das deficiências encontradas.
+
+###### Artigo 30º — (Ligação à rede geral de distribuição)
+
+1 - Nenhuma canalização de distribuição interior ou exterior poderá ser ligada à rede geral de distribuição sem que estejam satisfeitas todas as condições regulamentares.
+
+2 - A licença de utilização de novos prédios só poderá ser concedida pela Câmara Municipal de Vinhais, após constatação de que a ligação à rede pública será concluída e apta a funcionar.
+
+3 - A existência de jardim não confere direito à instalação de um ramal e contador, devendo somente ser instalado o ramal e o contador adstrito à habitação.
+
+4 - No entanto, sempre que o consumidor pretenda efectuar rega de jardim deve declará-lo no momento da celebração do contrato, ou fazer-lhe um aditamento, no caso de contratos previamente existentes a essa intenção.
+
+###### Artigo 31º — (Responsabilidade da Entidade Gestora)
+
+A aprovação das canalizações de distribuição interior não responsabiliza a Entidade Gestora por danos motivados por roturas nas canalizações, por mau funcionamento dos dispositivos de utilização ou por motivos imputáveis aos consumidores.
+
+###### Artigo 32º — (Fiscalização das canalizações)
+
+1 - Todas as canalizações de distribuição interior ou exterior consideram-se sujeitas à fiscalização da Câmara Municipal de Vinhais, que poderá proceder à sua inspecção sempre que o julgue conveniente.
+
+2 - Tais fiscalizações deverão ser precedidas de aviso aos utentes.
+
+3 - Caso sejam encontradas anomalias a corrigir pelos proprietários ou usufrutuários dos prédios inspeccionados, deverá a Câmara Municipal de Vinhais notificá-los para o efeito, por escrito; esta notificação deverá conter a descrição das anomalias detectadas, as obras necessárias à sua correcção e o prazo dentro do qual deverão ser efectuadas.
+
+###### Artigo 33º — (Ligações ao sistema de distribuição de água potável)
+
+1 - É proibida a ligação entre um sistema de distribuição de água potável e qualquer sistema de drenagem que possa permitir o retrocesso de efluentes nas canalizações daquele sistema.
+
+2 - Nenhum dispositivo ou recipiente insalubre poderá ser ligado directamente a um sistema de canalização de água potável, devendo ser sempre interposto um dispositivo isolador, em nível superior àquelas utilizações, de forma a não haver possibilidade de contaminação da água potável.
+
+3 - Todos os dispositivos de utilização de água potável, quer em prédios, quer na via pública, deverão ser protegidos pela natureza da sua construção e pelas condições da sua instalação contra a contaminação da água.
+
+###### Artigo 34º — (Rede de distribuição interior)
+
+A rede de distribuição interior de um prédio utilizando água potável da rede geral de distribuição deve ser completamente independente de qualquer sistema de distribuição de águas particulares, de poços, minas ou outros, sob pena de interrupção do fornecimento de água potável.
+
+###### Artigo 35º — (Reservatórios prediais)
+
+1 - Não é permitida a ligação directa de água fornecida a reservatórios que existam nos prédios e donde derive, posteriormente, depois a rede de distribuição interior, salvo em casos especiais em que tal solução se imponha por razões técnicas ou de segurança que a Câmara Municipal de Vinhais aceite ou quando se trate de alimentação de instalação de água quente.
+
+2 - Nos casos referidos na parte final do número anterior, deverão ser tomadas todas as medidas necessárias para que a água não seja contaminada nos referidos depósitos de recepção, de acordo com o projecto aprovado.
+
+3 - O proprietário ou usufrutuário deverá proceder à limpeza dos reservatórios prediais, quando estes existam, pelo menos uma vez por ano, e sempre que a Câmara Municipal de Vinhais o exija.
+
+###### Artigo 36º — (Ligações)
+
+É da exclusiva responsabilidade da Câmara Municipal de Vinhais a ligação das canalizações à rede geral de abastecimento de água.
+
+###### Artigo 37º — (Obras coercivas)
+
+1 - Por razões de defesa da saúde pública ou para defesa das instalações, a Câmara Municipal de Vinhais, pode executar, independentemente de solicitação ou autorização do proprietário, usufrutuário ou comodatário, as obras que se tornem necessárias, correndo as despesas daí resultantes por conta destes.
+
+2 - As intervenções referenciadas no número anterior só poderão ser efectuadas pela Câmara Municipal de Vinhais nos casos em que o proprietário, usufrutuário ou comodatário tenha sido notificado para executar obras de sua responsabilidade, sem que o tenha feito no prazo concedido.
+
+#### Secção III — Fornecimento
+
+###### Artigo 38º — (Fornecimento)
+
+A água será fornecida através de contadores devidamente selados, instalados pela Câmara Municipal de Vinhais, sendo o custo dos mesmos fixado em tabela própria pela Câmara Municipal.
+
+###### Artigo 39º — (Depósito de Garantia)
+
+Sem prejuízo do estabelecido no n.º 2 do artigo 24º, não será exigida qualquer caução para garantia de cumprimento de obrigações decorrentes do fornecimento de água.
+
+###### Artigo 40º — (Interrupção do fornecimento de água)
+
+1 - A Câmara Municipal de Vinhais pode interromper o fornecimento de água a qualquer consumidor nas seguintes condições:
+
+a) Alteração da qualidade da água distribuída ou previsão da sua deterioração a curto prazo;
+
+b) Avarias ou obras no sistema público de distribuição ou no sistema predial, sempre que os trabalhos justifiquem essa suspensão;
+
+c) Ausência de condições de salubridade no sistema predial;
+
+d) Casos fortuitos ou de força maior, nomeadamente seca, incêndios, inundações, redução imprevista do caudal ou poluição temporariamente incontrolável das captações;
+
+e) Trabalhos de reparação ou substituição de ramais de ligação;
+
+f) Modificação programada das condições de exploração do sistema público ou alteração justificada das pressões de serviço;
+
+g) Falta de pagamento de débitos ou outras dívidas à Câmara Municipal de Vinhais relacionadas com o abastecimento ou com o contrato;
+
+h) Quando o contador for encontrado viciado ou for utilizado meio fraudulento para consumir água;
+
+i) Quando seja impedida a entrada de pessoal credenciado para o efeito, para inspecção das canalizações, leitura, verificação, substituição ou levantamento do contador;
+
+j) Quando o interesse público assim o exija;
+
+k) Quando o contrato não se encontrar em nome do proprietário, usufrutuário, usuário, inquilino ou comodatário;
+
+l) Por motivos justificados não imputáveis à Câmara Municipal de Vinhais;
+
+m) Quando seja dada utilização diferente daquela para que foi autorizada e ainda, no caso de consumo de obras, quando estas venham a ser embargadas ou suspensas;
+
+n) As interrupções de abastecimento efectuadas nos termos das alíneas c) g) h) j) l) e m), são obrigatoriamente precedidas por aviso ao titular do contrato efectuado por ofício enviado sob registo com a antecedência mínima de 8 dias, relativamente à data em que a suspensão do serviço venha a ter lugar;
+
+o) O ofício referido no número anterior deverá conter a justificação do motivo da suspensão, os meios para evitar a suspensão do serviço e o prazo em que tais meios devem ser utilizados, bem como os meios necessários à sua retoma, caso esteja já efectuada a interrupção.
+
+2 - A prestação do Serviço Público de Abastecimento de Água não pode ser suspensa com fundamento em consequência de falta de pagamento de qualquer outro serviço, ainda que incluído na mesma factura, salvo se for funcionalmente indissociável.
+
+3 - As interrupções do fornecimento não isentam os consumidores dos pagamentos devidos, nomeadamente do pagamento dos prejuízos, danos e coimas a que hajam dado causa, bem como da tarifa devida pelo restabelecimento da ligação.
+
+###### Artigo 41º — (Interrupção definitiva)
+
+Quando a interrupção se tornar definitiva, deverá o consumidor liquidar todas as importâncias em dívida, sob pena de cobrança coerciva.
+
+###### Artigo 42º — (Bocas de incêndio)
+
+1 - A Câmara Municipal de Vinhais poderá fornecer água para bocas-de-incêndio particulares nas seguintes condições:
+
+a) As bocas-de-incêndio terão ramal e canalização interior próprias, com o diâmetro fixado pela Câmara Municipal de Vinhais e serão fechadas com selo especial;
+
+b) As bocas-de-incêndio só poderão ser abertas em casos de incêndio, devendo a Câmara Municipal de Vinhais ser avisada dentro das vinte e quatro horas seguintes ao sinistro.
+
+2 - A Câmara Municipal de Vinhais fornece água tal como ela se encontra na canalização geral, onde é feita a tomada no momento da utilização, e não assume qualquer responsabilidade por deficiências na quantidade e na pressão, nem mesmo por interrupção do fornecimento motivado por avarias ou por defeito de obras que hajam sido iniciadas anteriormente ao sinistro.
+
+#### Secção IV — Contadores
+
+###### Artigo 43º — (Contadores)
+
+1 - Os contadores serão colocados em pleno funcionamento em todos os edifícios, construções, fracções ou instalações que usufruam ou pretendam usufruir do serviço de abastecimento de água.
+
+2 - Os contadores a empregar serão dos tipos e calibres autorizados para serem utilizados na medição de água, nos termos da legislação vigente.
+
+3 - O calibre dos contadores a instalar será fixado pela Câmara Municipal de Vinhais de harmonia com o caudal previsto e com as condições normais de funcionamento.
+
+###### Artigo 44º — (Condições técnicas)
+
+Os contadores a instalar obedecerão às qualidades, características metrológicas e condições de instalação estabelecidas nas normas portuguesas aplicáveis, emitidas pela entidade competente para o efeito.
+
+###### Artigo 45º — (Colocação de contadores)
+
+1 - Os contadores e os respectivos suportes serão colocados em locais definidos pela Câmara Municipal de Vinhais acessíveis a uma leitura regular e com protecção adequada, que garanta a sua eficiente conservação e normal funcionamento.
+
+2 - As dimensões das caixas ou nichos destinados à instalação dos contadores, quando necessárias, serão tais que permitam um trabalho regular de substituição ou reparação no local, e que a sua visita e leitura se possam fazer em boas condições com as dimensões mínimas de 50x35x20 centímetros.
+
+3 - A responsabilidade de colocação da caixa onde o contador ficará instalado e o seu custo é do consumidor, mediante a aprovação dos serviços.
+
+4 - Caso o consumidor não providencie pela realização da caixa para colocação do contador a Câmara Municipal poderá realizá-la directamente, imputando os custos ao consumidor.
+
+###### Artigo 46º — (Conservação dos contadores)
+
+1 - Todo o consumidor fica obrigado a comunicar à Câmara Municipal de Vinhais, logo que o saiba, as situações em que o contador impede o fornecimento de água, efectua contagens deficientes, tem os selos danificados ou apresenta qualquer outro defeito.
+
+2 - O consumidor responderá por todo o dano, deterioração ou perda do contador, sendo a responsabilidade do consumidor excluída no caso de o dano resultar do seu uso normal.
+
+3 - O consumidor responderá, também, pelos inconvenientes ou fraudes que forem verificados em consequência do emprego de qualquer meio capaz de influir no funcionamento ou na marcação do contador.
+
+4 - A Câmara Municipal de Vinhais deverá proceder à verificação periódica do contador, à sua reparação ou substituição, ou, ainda, à colocação provisória de um outro contador quando o julgar conveniente, sem qualquer encargo para o consumidor.
+
+5 - A substituição não terá qualquer encargo para o consumidor, quando não resulte e causa que lhe seja imputável.
+
+###### Artigo 47º — (Verificação dos contadores)
+
+1 - Independentemente das verificações periódicas regularmente estabelecidas, tanto o consumidor como a Câmara Municipal de Vinhais têm o direito de proceder à verificação do contador em instalações de ensaio próprias, ou em outras devidamente credenciadas, quando julguem conveniente, não podendo nenhuma das partes opor-se a esta operação, à qual o consumidor ou um técnico da sua confiança podem sempre assistir.
+
+2 - A verificação extraordinária, a pedido do consumidor, só se realizará depois de o interessado pagar a importância prevista na Tabela, a qual será restituída no caso de se verificar o mau funcionamento do contador.
+
+3 - Nas verificações dos contadores, os erros admissíveis serão os previstos na legislação em vigor sobre controlo metrológico dos contadores de água potável fria.
+
+###### Artigo 48º — (Inspecção dos contadores)
+
+Os consumidores são obrigados a permitir e facilitar a inspecção dos contadores aos funcionários da Câmara Municipal de Vinhais devidamente identificados, ou outros, desde que credenciados para o efeito.
+
+### CAPÍTULO IV — Tarifas, taxas e cobranças
+
+#### Secção I — Tarifas, taxas e cobranças
+
+###### Artigo 49º — (Tarifas e Taxas)
+
+Os valores correspondentes aos serviços prestados pela Câmara Municipal de Vinhais, aprovados nos termos legais, são os indicados em tabelas próprias, que constituem anexo ao presente Regulamento e que dele fazem parte integrante.
+
+###### Artigo 50º — (Tipos de Consumo)
+
+1 - As tarifas relativas aos consumos de água serão agrupadas segundo as seguintes modalidades de consumo, tendo em conta a caracterização do seu utilizador:
+
+a) Consumo doméstico;
+
+b) Consumo agrícola;
+
+c) Consumo comercial;
+
+d) Consumo industrial,
+
+2 - Os valores devidos pelo abastecimento de água relativos a cada um dos tipos de consumo referidos no número anterior constarão de tabela anexa, que constitui parte integrante do presente regulamento.
+
+3 - No período temporal compreendido entre o dia 1 de Novembro e o dia 30 de Abril de cada ano, poderá a Câmara Municipal, se assim o entender, proceder à redução dos montantes constantes do tarifário da água, redução que vigorará unicamente nesse período temporal e nesse ano.
+
+###### Artigo 51º — (Consumos provisórios)
+
+Nos contratos de abastecimento provisórios para obras, o fornecimento só será efectuado mediante a apresentação da respectiva licença camarária ou autorização, por escrito, da Câmara Municipal. A duração deste contrato será igual à vigência da referida licença ou autorização e suas prorrogações.
+
+###### Artigo 52º — (Leituras dos contadores)
+
+1 - As leituras dos contadores serão efectuadas, periodicamente, por funcionários da Câmara Municipal de Vinhais ou outros, devidamente credenciados para o efeito, bem como pelos consumidores, nos termos da legislação aplicável.
+
+2 - Poderá a Câmara Municipal atribuir, mediante a celebração de protocolo, a realização das leituras dos contadores às Juntas de Freguesia, concedendo-lhe pela realização dessa tarefa um montante percentual calculado sobre o valor total das cobranças realizadas em cada freguesia.
+
+3 - No caso de celebração de protocolo com as Juntas de Freguesia, nos termos do número anterior, o montante percentual a conceder às mesmas pela leitura dos contadores será igual em todos os casos.
+
+4 - Sempre que o consumidor se ausente do domicílio, na época habitual de leituras, deverá fornecer a leitura do seu contador à Câmara Municipal de Vinhais; se não o fizer a Câmara Municipal poderá efectuar a leitura por estimativa ou aplicar contagem igual à da última leitura efectuada.
+
+5 - O disposto nos números anteriores não dispensa a obrigatoriedade do consumidor facilitar o acesso ao contador, para, pelos menos, uma leitura de quatro em quatro meses.
+
+6 - Em qualquer caso, se não for possível aos serviços da autarquia efectuar a leitura nos termos dos números anteriores, poderá optar por aplicar o valor da última leitura realizada, procedendo ao seu acerto no final do ano, através de leitura que comprove o consumo efectivamente realizado.
+
+###### Artigo 53º — (Irregularidade de funcionamento dos contadores)
+
+1 - Quando, por motivo de irregularidade de funcionamento do contador, devidamente comprovada, a leitura deste não deva ser aceite, o consumo será avaliado:
+
+a) Pelo consumo médio apurado entre duas leituras consideradas válidas;
+
+b) Pelo consumo de equivalente período ao ano anterior, quando não existir a média referida na alínea a);
+
+c) Pela média aritmética do consumo apurado nas leituras subsequentes à instalação dos contadores, na falta dos elementos referidos nas alíneas a) e b).
+
+2 - O disposto no número anterior aplicar-se-á, também, quando se verificar que o mecanismo de contagem do contador não funciona ou quando, por motivo imputável ao consumidor ou à Câmara Municipal de Vinhais, não tenha sido efectuada a leitura.
+
+###### Artigo 54º — (Pagamentos)
+
+1 - Os avisos de pagamento dos consumos e outras importâncias devidas à Câmara Municipal de Vinhais, serão apresentados periodicamente aos consumidores.
+
+2 - Os pagamentos referidos no número anterior deverão ser satisfeitos no prazo estabelecido nos respectivos avisos.
+
+3 - Findo o prazo indicado no número anterior, sem que tenha sido efectuado o pagamento em dívida, a Câmara Municipal de Vinhais, respeitadas que estejam as formalidades previstas na alínea n) do artigo 40º deste Regulamento, poderá proceder à interrupção do fornecimento de água, sem prejuízo do recurso aos meios legais para cobrança da respectiva dívida, nomeadamente a sua cobrança coerciva.
+
+4 - Compete aos consumidores o pagamento das dívidas da instalação, caso não tenham procedido de acordo com o estipulado no artigo 16º do presente Regulamento.
+
+###### Artigo 55º — (Restabelecimento da ligação)
+
+Pelo restabelecimento da ligação do fornecimento de água, será cobrado o valor indicado em tabela própria, que consta em anexo ao presente regulamento e dele constitui parte integrante
+
+###### Artigo 56º — (Reclamações)
+
+As reclamações do consumidor contra as contas apresentadas não o eximem da obrigação de pagamento, de harmonia com o disposto nos artigos anteriores, sem prejuízo da restituição das diferenças a que, posteriormente, se verifique que tenha direito.
+
+### CAPÍTULO V — Penalidades, reclamações e recursos
+
+#### Secção I — Penalidades
+
+###### Artigo 57º — (Regime aplicável)
+
+1 - A violação do disposto no presente Regulamento Municipal constitui contra-ordenação punível com as coimas indicadas nos artigos seguintes.
+
+2 - O regime legal e de processamento das contra-ordenações obedecerá ao disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro e respectiva legislação complementar.
+
+3 - Em todos os casos, a tentativa será punível.
+
+###### Artigo 58º — (Contra-Ordenações)
+
+1 - Constitui contra-ordenação, punível com coima, a violação do presente Regulamento, nos seguintes casos:
+
+a) Utilização das bocas-de-incêndio sem o consentimento da Câmara Municipal de Vinhais ou fora das condições previstas no artigo 42º
+
+b) Danificação ou utilização indevida de qualquer instalação, acessório ou aparelho de manobra das canalizações das redes gerais de distribuição;
+
+c) Modificação da posição do contador ou violação dos respectivos selos ou, ainda, consentimento para que outrem o faça;
+
+d) Quando os técnicos responsáveis pela obra de instalação ou reparação de canalizações interiores transgredirem as normas deste Regulamento ou outras em vigor sobre fornecimento de água;
+
+e) Consentimento ou execução de qualquer modificação na canalização entre o contador e a rede geral de distribuição ou emprego de qualquer meio fraudulento para utilizar água da rede sem pagar;
+
+f) Oposição a que a Câmara Municipal de Vinhais exerça, por intermédio de pessoal devidamente identificado ou credenciado, a fiscalização do cumprimento deste Regulamento e de outras normas vigentes que regulem o fornecimento de água;
+
+g) Furto de água ou de acessórios da rede;
+
+h) Utilização de água para fins distintos dos previstos no contrato.
+
+2 - As coimas serão, ainda, aplicadas em caso de violação do disposto:
+
+a) No artigo 15º;
+
+b) Nas alíneas b) a g) do artigo 18º;
+
+c) No artigo 34º;
+
+d) No artigo 36º;
+
+e) No número 3 do artigo 46º.
+
+###### Artigo 59º — (Montante das Coimas)
+
+1 - As coimas às infracções referidas no número 1 do artigo 58º são aplicáveis em função do salário mínimo nacional (SMN) do regime geral, garantido aos trabalhadores por conta de outrem, vigente à data da infracção, e têm os seguintes limites mínimo e máximo:
+
+1.1 - 0,2 a 9 vezes o SMN, no caso das alíneas a) e b);
+
+1.2 - 0,2 a 5 vezes o SMN, no caso das alíneas c) e d);
+
+1.3 - 1 a 9 vezes o SMN, no caso das alíneas e) a h).
+
+2 - Pela violação do disposto das alíneas a) a c) e e) do número 2 do artigo 58º, a coima a aplicar tem como limites mínimo e máximo 0,2 a 9 vezes o SMN e, no caso da alínea d) - 1 a 10 vezes o SMN.
+
+3 - Os limites mínimos e máximo referidos nos números anteriores são elevados para o dobro, sempre que a infracção seja da responsabilidade das pessoas colectivas.
+
+###### Artigo 60º — (Limites da coima em caso de tentativa e negligência)
+
+1 - A tentativa e a negligência são sempre puníveis.
+
+2 - Em caso de punição da tentativa, os limites máximo e mínimo das coimas são reduzidos para um terço.
+
+3 - Se a infracção for praticada por negligência, os limites máximo e mínimo das coimas são reduzidos para metade.
+
+###### Artigo 61º — (Reincidência)
+
+No caso de reincidência, todas as coimas indicadas nos artigos anteriores serão elevadas para o dobro, não podendo, no entanto, ultrapassar os limites legalmente fixados.
+
+###### Artigo 62º — (Sanções acessórias)
+
+1 - Independentemente das coimas aplicadas nos casos previstos no número 2 alínea a) do artigo 58º, o transgressor poderá ser obrigado a efectuar o levantamento das canalizações no prazo máximo de oito dias.
+
+2 - Não sendo dado cumprimento ao disposto no número anterior dentro do prazo indicado, a Câmara Municipal de Vinhais poderá efectuar o levantamento das canalizações que se encontram em más condições e procederá à cobrança das despesas resultantes da execução destes trabalhos.
+
+3 - Para além das coimas previstas no artigo 59º, o responsável pela violação do disposto no artigo 35º poderá, ainda, incorrer numa pena de suspensão do exercício da sua actividade conexa com a Câmara Municipal de Vinhais, durante um período compreendido entre um mês e um ano.
+
+###### Artigo 63º — (Responsabilidade Civil e Criminal)
+
+O pagamento de coima não isenta o transgressor da responsabilidade civil por perdas e danos, nem de qualquer procedimento criminal a que der causa.
+
+###### Artigo 64º — (Extensão da responsabilidade)
+
+1 - A aplicação do disposto nos artigos anteriores não inibe da responsabilidade civil ou criminal que ao caso couber.
+
+2 - O infractor será obrigado a executar os trabalhos que lhe forem indicados dentro do prazo que para o efeito lhe for fixado e a ele serão imputadas as despesas feitas e os danos que da infracção resultarem para a entidade gestora.
+
+###### Artigo 65º — (Punição de pessoas colectivas)
+
+Quando aplicadas a pessoas colectivas as coimas previstas nos artigos antecedentes serão elevadas ao dobro, podendo a coima máxima atingir os (euro) 29.927,87, nos termos previstos no artigo 29º do [Decreto-Lei n.º 207/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1994-223064), de 6 de Agosto.
+
+###### Artigo 66º — (Produto das coimas)
+
+Salvo estipulação expressa da lei em contrário, o produto das coimas constitui receita municipal.
+
+###### Artigo 67º — (Competência)
+
+A competência para a instrução dos processos de contra-ordenação e aplicação das coimas competirá ao Presidente da Câmara, com a faculdade de delegar em vereador.
+
+###### Artigo 68º — (Actualização)
+
+1 - Os valores das coimas fixados neste Regulamento poderão ser actualizados pela Assembleia Municipal, mediante proposta dos órgãos executivos.
+
+2 - As actualizações que vierem a ser aprovadas serão identificadas por um número sequencial e publicadas como anexo ao presente Regulamento.
+
+#### Secção II — Reclamações e recursos
+
+###### Artigo 69º — (Reclamações e recursos)
+
+1 - A qualquer interessado assiste o direito de reclamar junto dos Serviços Competentes contra qualquer acto ou omissão destes, que tenha lesado os seus direitos ou interesses legítimos protegidos por este Regulamento.
+
+2 - O requerimento deverá ser despachado pelo autor do acto, no prazo de 20 dias, se outro mais curto não estiver estabelecido, notificando-se o interessado do teor do despacho e respectiva fundamentação.
+
+3 - As reclamações não têm efeito suspensivo.
+
+###### Artigo 70º — (Recurso da decisão de aplicação da coima)
+
+A decisão do órgão competente que aplicar uma coima pode ser impugnada judicialmente, nos termos fixados no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
+
+## TÍTULO III — Drenagem de águas residuais
+
+### CAPÍTULO I — Disposições gerais
+
+#### Secção única — Disposições gerais
+
+###### Artigo 71º — (Enquadramento)
+
+1 - O presente título estabelece as normas complementares ao disposto no [Decreto-Lei n.º 207/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1994-223064), de 6 de Agosto, e no [Decreto Regulamentar n.º 23/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1995-431873), de 23 de Agosto, e define ainda outras regras e condições necessárias ao correcto desempenho das atribuições municipais em matéria de recolha, drenagem, tratamento e rejeição de águas residuais no Concelho de Vinhais, designadamente quanto às condições administrativas de recolha de águas residuais, estrutura tarifária, penalidades, reclamações e recursos.
+
+2 - O presente Regulamento aplica-se a todos os sistemas de drenagem pública (em baixa e em alta) e predial de águas residuais.
+
+### CAPÍTULO II — Condições administrativas
+
+#### Secção I — Da recolha de águas residuais
+
+###### Artigo 72º — (Recolha de águas residuais e obrigatoriedade de ligação)
+
+1 - Nas condições do presente Regulamento, a entidade gestora é obrigada a recolher águas residuais, de acordo com o plano geral de recolha e drenagem de águas residuais aprovado.
+
+2 - Nas zonas servidas por sistemas de drenagem pública de águas residuais é obrigatório estabelecer, em todas as edificações, construídas ou a construir, quer marginando vias públicas, quer afastadas delas, pela forma estabelecida no presente Regulamento, a ligação das instalações e equipamentos de evacuação das águas residuais, qualquer que seja o seu tipo, àqueles sistemas.
+
+3 - A instalação dos sistemas de drenagem prediais é promovida pelos respectivos proprietários ou usufrutuários, a cargo de quem ficarão as respectivas despesas.
+
+4 - Logo que a ligação ao sistema entre em funcionamento, os proprietários ou usufrutuários das edificações onde existam fossas, depósitos ou poços absorventes para despejo de águas residuais ou de excreta serão obrigados a entulhá-los dentro de 30 dias, depois de esvaziados e desinfectados, devendo as matérias retiradas ser enterradas em aterro sanitário ou em condições aprovadas pela entidade gestora.
+
+5 - É proibido construir quaisquer instalações de tratamento e de destino final, nomeadamente fossas ou poços absorventes, nas zonas servidas por sistema de drenagem pública de águas residuais.
+
+6 - Exceptuam-se do disposto no número anterior as instalações de pré-tratamento de águas residuais industriais, a montante da ligação ao sistema, e as instalações individuais de tratamento e destino final de águas residuais industriais, devidamente aprovadas e controladas pela entidade gestora.
+
+7 - As edificações desabitadas ou em vias de expropriação ficam isentas da obrigação prevista no número 1 deste artigo, desde que, no seu interior, se não produzam quaisquer águas residuais ou excreta.
+
+###### Artigo 73º — (Responsabilidade por danos nos sistemas prediais)
+
+A entidade gestora não assume qualquer responsabilidade por danos que possam sofrer os utilizadores em consequência de perturbações ocorridas nos sistemas públicos que ocasionem interrupções no serviço, desde que resultem de casos fortuitos ou de força maior ou de execução de obras previamente programadas, sempre que os utilizadores forem avisados com, pelo menos, dois dias de antecedência.
+
+#### Secção II — Dos contratos
+
+###### Artigo 74º — (Contratos de recolha de águas residuais)
+
+A prestação de serviços de recolha de águas residuais é dispensada da celebração de contrato escrito, considerando-se o serviço inerente e indissociável da celebração do contrato de abastecimento de água referido nos artigos 10º e seguintes.
+
+###### Artigo 75º — (Contratos especiais)
+
+1 - Serão objecto de contratos especiais, celebrados por escrito, as recolhas de águas residuais que, devido ao seu impacto nas redes de drenagem, devam ter um tratamento específico, nomeadamente os seguintes:
+
+a) Grandes conjuntos imobiliários;
+
+b) Urbanizações;
+
+c) Complexos industriais e comerciais;
+
+d) Outros que a entidade gestora entenda como necessários.
+
+2 - Na celebração de contratos especiais a que se refere o artigo 20º do [Decreto-Lei n.º 207/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1994-223064), de 6 de Agosto, deve ser acautelado tanto o interesse da generalidade dos utilizadores como o justo equilíbrio da exploração dos sistemas públicos.
+
+3 - Na recolha de águas residuais devem ser claramente definidos os parâmetros de poluição que não devem exceder os limites aceitáveis pelo sistema.
+
+4 - Deve ficar expresso no contrato que a entidade gestora se reserva o direito de proceder às medições de caudal e à colheita de amostras para controlo, que considere necessárias.
+
+###### Artigo 76º — (Pedido de prestação de serviços)
+
+O Pedido de recolha de águas residuais é de iniciativa do utilizador, podendo, eventualmente, decorrer de uma intimação por parte da entidade gestora para que o mesmo seja apresentado.
+
+#### Secção III — Direitos e obrigações
+
+###### Artigo 77º — (Direitos dos utentes)
+
+Os utentes gozam dos seguintes direitos:
+
+a) A garantia da existência e bom funcionamento global dos sistemas de drenagem pública de águas residuais, preservando-se a segurança, a saúde pública e o conforto;
+
+b) O direito à informação sobre todos os aspectos pertinentes da drenagem de águas residuais e ainda do controlo da poluição daí resultantes;
+
+c) O direito de solicitarem vistorias;
+
+d) O direito de reclamação dos actos ou omissões da entidade gestora que possam prejudicar os seus direitos ou interesses legalmente protegidos;
+
+e) Quaisquer outros que lhes sejam conferidos por lei.
+
+###### Artigo 78º — (Deveres dos utentes)
+
+São deveres dos utentes:
+
+a) Cumprir as disposições do presente Regulamento e as disposições pertinentes dos diplomas referidos no artigo 70º, na parte em que lhes são aplicáveis, e respeitar as intimações que lhes sejam dirigidas pelos órgãos competentes, fundadas neste Regulamento;
+
+b) Pagar pontualmente as importâncias devidas, nos termos do Regulamento;
+
+c) Não fazer uso indevido ou danificar as instalações prediais;
+
+d) Manter em bom estado de conservação e funcionamento os aparelhos sanitários e os dispositivos de utilização;
+
+e) Avisar a entidade gestora de eventuais anomalias nos medidores de caudal;
+
+f) Cooperar com a entidade gestora para o bom funcionamento dos sistemas.
+
+###### Artigo 79º — (Deveres dos proprietários ou usufrutuários)
+
+São deveres dos proprietários ou usufrutuários dos edifícios servidos por sistemas de drenagem de águas residuais:
+
+a) Cumprir as disposições do presente Regulamento bem como as dos diplomas referidos no artigo 70º, na parte em que lhes são aplicáveis, e respeitar e executar as intimações que lhes sejam dirigidas pelos órgãos competentes, fundadas neste Regulamento;
+
+b) Não proceder a alterações nos sistemas sem prévia autorização da entidade gestora;
+
+c) Manter em boas condições de conservação as instalações prediais;
+
+d) Pedir a ligação à rede, logo que reunidas as condições que a viabilizem, ou logo que intimados para o efeito, nos termos deste Regulamento;
+
+e) Cooperar com a entidade gestora para o bom funcionamento dos sistemas.
+
+###### Artigo 80º — (Deveres da entidade gestora)
+
+Constituem deveres da entidade gestora:
+
+a) Garantir a continuidade e o bom funcionamento dos sistemas públicos de drenagem de águas residuais;
+
+b) Assegurar, antes da entrada em serviço dos sistemas, a realização dos ensaios que assegurem a perfeição do trabalho executado;
+
+c) Definir, para a recolha de águas industriais, os parâmetros de poluição suportáveis pelo sistema;
+
+d) Assegurar um serviço de informação eficaz, destinado a esclarecer os utentes sobre questões relacionadas com a drenagem de águas residuais;
+
+e) Designar um técnico responsável pela exploração do sistema público de drenagem de águas residuais;
+
+f) Velar, em geral, pela satisfação dos direitos dos consumidores.
+
+###### Artigo 81º — (Exclusão da responsabilidade da Entidade Gestora)
+
+1 - A Câmara Municipal de Vinhais não assume qualquer responsabilidade:
+
+a) Pelos prejuízos que possam sofrer os utentes, em consequência de avarias ou perturbações nas canalizações das redes de drenagem;
+
+b) Por motivo de obras que exijam a suspensão do serviço;
+
+c) Por outros casos fortuitos ou de força maior, não imputáveis à Câmara Municipal de Vinhais;
+
+d) Por descuidos, defeitos ou avarias nas instalações particulares.
+
+2 - Compete aos utentes tomar providências necessárias para evitar os acidentes que possam resultar das perturbações na rede de drenagem.
+
+### CAPÍTULO III — Condições técnicas da drenagem de águas residuais
+
+#### Secção I — Sistemas de drenagem pública de águas residuais
+
+###### Artigo 82º — (Sistemas de drenagem pública. Definição, Propriedade)
+
+1 - Consideram-se sistemas de recolha e drenagem públicas de águas residuais ou simplesmente sistemas de drenagem o conjunto de obras, instalações e equipamentos inter-relacionados capazes de proporcionar a recolha e a evacuação das águas residuais domésticas, industriais e pluviais, em condições que permitam conservar, proteger ou restabelecer a qualidade do meio receptor e do ambiente em geral.
+
+2 - Os sistemas de drenagem são fundamentalmente constituídos por redes de drenagem ou redes de colectores e estações elevatórias, nas quais se incluem, além destes, os ramais de ligação, as câmaras e poços de visita, sarjetas e valetas, assim como outras obras e instalações, como sejam as bacias de retenção, câmaras de corrente de varrer, descarregadores de tempestade e de transferência.
+
+3 - Os sistemas de drenagem são propriedade do Município, competindo à entidade gestora zelar pela sua planificação, manutenção, conservação e funcionamento.
+
+###### Artigo 83º — (Redes de drenagem executadas por outras entidades)
+
+Sempre que qualquer entidade se proponha executar redes de drenagem em substituição da entidade gestora, nomeadamente no caso de novas urbanizações ou de zonas não servidas pelos sistemas existentes e não abrangidas pelo plano geral de drenagem, deverá o projecto relativo a essas redes conformar-se com o disposto no presente regulamento e demais legislação em vigor e ser aprovado pela entidade gestora.
+
+###### Artigo 84º — (Ampliação da rede de drenagem)
+
+1 - A extensão das redes de drenagem de águas residuais a zonas não abrangidas pelo sistema público de drenagem, por a recolha não ser viável devido a razões económicas, poderá ser requerida pelos interessados desde que se comprometam a custear os encargos envolvidos.
+
+2 - A entidade gestora só promoverá a execução das obras mencionadas no número anterior depois de os interessados terem depositado a quantia por ela estimada.
+
+3 - Sempre que as obras não sejam promovidas pela entidade gestora, é obrigatório o acompanhamento da empreitada por parte dos serviços técnicos da entidade gestora.
+
+4 - A repartição dos encargos far-se-á em função do valor patrimonial dos prédios ou fogos a servir, se outro critério mais equitativo não for estabelecido pelos interessados e aceite pela entidade gestora.
+
+5 - As redes ou troços da rede previstos no presente artigo e no artigo anterior passam a integrar o património do Município, após a sua regular entrada em funcionamento.
+
+#### Secção II — Projectos e obras
+
+###### Artigo 85º — (Responsabilidade pela elaboração)
+
+1 - Os projectos de sistemas de drenagem predial com todas as instalações e equipamentos que o integram e, quando for caso, dos projectos de redes de drenagem a integrar no sistema público, serão elaborados por técnicos legalmente habilitados.
+
+2 - Os técnicos a que se refere este artigo serão engenheiros, arquitectos e engenheiros técnicos ou outros que para tal sejam habilitados.
+
+###### Artigo 86º — (Elementos de base)
+
+É da responsabilidade do autor do projecto a recolha de elementos de base para a respectiva elaboração, devendo no entanto a entidade gestora fornecer a informação de interesse, como sejam os factores e condicionamentos gerais a considerar, a localização, profundidade e diâmetro do colector público e outras características consideradas necessárias.
+
+###### Artigo 87º — (Projecto. Obrigatoriedade. Peças)
+
+1 - Nos casos de construção, reconstrução, ampliação ou modificação de edificações, é obrigatória a apresentação de um projecto que conterá as peças indicadas nos números seguintes.
+
+2 - As peças escritas que instruem o projecto são: Memória descritiva e justificativa, onde constem a indicação dos aparelhos sanitários a instalar e as suas características, a natureza de todos os materiais e acessórios, os tipos de juntas e as condições de assentamento das canalizações; dimensionamento dos sistemas, incluindo cálculos hidráulicos, indicação dos diâmetros e inclinações a utilizar e características geométricas do ramal de ligação a executar ou a verificar, caso já exista; caderno de encargos, contendo especificamente as condições teóricas de execução da obra e outros julgados necessários.
+
+3 - São as seguintes as peças desenhadas: Planta e corte do esquema geral dos sistemas, incluindo ramal de ligação, na escala mínima de 1:100; planta e corte das compartimentações sanitárias e de cozinhas na escala mínima de 1:20, incluindo, só no que respeita às águas residuais domésticas, a caracterização dos ramais de descarga e ventilação e dos sifões; planta de implantação, na escala mínima de 1:200, dos órgãos de tratamento, no caso da não existência de rede de drenagem colectiva; outros pormenores julgados necessários à boa interpretação do projecto na fase das obras.
+
+4 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, a quaisquer obras tendentes à modificação da utilização do solo.
+
+###### Artigo 88º — (Apresentação, apreciação e aprovação)
+
+1 - O projecto será aprovado pelo Município após apreciação e parecer favorável dos seus Serviços Competentes de Água e Saneamento.
+
+2 - Nos casos em que as obras a realizar estejam dispensadas de licenciamento municipal, o técnico responsável pelos trabalhos a realizar deve comunicá-los, com uma antecedência mínima de 15 dias, à entidade gestora, a qual poderá exigir a apresentação de projecto simplificado, a elaborar nos termos a estabelecer por deliberação da Câmara Municipal e que conterá pelo menos as peças desenhadas.
+
+3 - Em todos os casos em que seja de prever um significativo impacto qualitativo ou quantitativo no sistema de drenagem pública, devem os sistemas prediais ser aprovados pela entidade gestora, mesmo que as edificações em causam não careçam de licenciamento municipal.
+
+4 - Na falta de aprovação, proceder-se-á à notificação do requerente para que promova as alterações julgadas indispensáveis, a fim de serem consideradas no projecto inicial, se tal for viável.
+
+###### Artigo 89º — (Alterações)
+
+1 - Todas as alterações ao projecto aprovado, que impliquem modificações dos sistemas prediais, devem ser aprovadas pela entidade gestora ou merecer a concordância desta.
+
+2 - Esta decidirá, em cada caso e em função da envergadura das modificações, se estas podem ser simplesmente autorizadas ou se devem ser objecto de apreciação e aprovação, por se traduzirem em projecto substancialmente diferente do anterior.
+
+###### Artigo 90º — (Exemplar da obra)
+
+1 - Uma vez aprovado o projecto, será devolvido ao requerente um exemplar do mesmo, o qual deverá permanecer no local dos trabalhos, em bom estado de conservação e ao dispor da fiscalização.
+
+2 - Tratando-se de simples autorização da entidade gestora, deve a mesma estar igualmente no local dos trabalhos, acompanhada das modificações requeridas.
+
+#### Secção III — Sistemas prediais de drenagem de águas residuais
+
+###### Artigo 91º — (Sistemas de drenagem predial. Definição)
+
+1 - Sistema de drenagem predial é o conjunto constituído por instalações e equipamentos privativos de determinado prédio e destinados à evacuação das águas residuais até à rede pública, assim como ao controlo da poluição e à salvaguarda da salubridade.
+
+2 - Integram o sistema predial:
+
+a) As instalações e equipamentos existentes no prédio e até à caixa de ramal, abrangendo designadamente os aparelhos sanitários, ramais de descarga, tubos de queda e rede de ventilação;
+
+b) As instalações e equipamentos situados entre a caixa de ramal e o colector da rede pública de drenagem, abrangendo as câmaras de visita e de inspecção necessárias e o ramal de ligação.
+
+3 - O ramal de ligação é constituído pelo troço de canalização compreendido entre a rede pública e o limite da propriedade a servir. Cada ramal de ligação terá na via pública, junto ao limite da propriedade a servir, uma câmara de ligação com dimensões a definir pela entidade gestora e com tampa ao nível do pavimento.
+
+###### Artigo 92º — (Responsabilidade pela execução)
+
+1 - Cabe aos proprietários e usufrutuários executar todas as obras necessárias ao estabelecimento, remodelação ou renovação dos sistemas de drenagem privativos das respectivas edificações, após aprovação do respectivo projecto pelo Município.
+
+2 - Cabe-lhes também suportar o custo dos ramais de ligação, os quais serão, em princípio, implantados pela entidade gestora ou por quem esta entidade definir.
+
+###### Artigo 93º — (Custo e pagamento dos ramais de ligação)
+
+1 - A entidade gestora calculará os custos dos ramais de ligação, tendo em conta os materiais, mão-de-obra e máquinas a utilizar, e ainda outras despesas designadamente administrativas.
+
+2 - O pagamento deverá ser efectuado nos 30 dias seguintes à apresentação aos interessados, do cálculo referido no número anterior, após o que acrescerão juros de mora à quantia calculada.
+
+###### Artigo 94º — (Materiais a aplicar)
+
+Os materiais a aplicar nos sistemas prediais de drenagem serão sempre adequados ao fim em vista e devem ser previamente aprovados pela entidade gestora, tendo em conta as normas e especificações técnicas em vigor, mesmo que as edificações em causa não estejam sujeitas a licenciamento municipal.
+
+###### Artigo 95º — (Obras coercivas)
+
+1 - Por razões de defesa da saúde pública ou para defesa das instalações, a Câmara Municipal de Vinhais, pode executar, independentemente de solicitação ou autorização do proprietário, usufrutuário ou comodatário, as obras que se tornem necessárias, correndo as despesas daí resultantes por conta destes.
+
+2 - As intervenções referenciadas no número anterior só poderão ser efectuadas pela Câmara Municipal de Vinhais nos casos em que o proprietário, usufrutuário ou comodatário tenha sido notificado para executar obras de sua responsabilidade, sem que o tenha feito no prazo concedido.
+
+###### Artigo 96º — (Entrada em funcionamento)
+
+Nenhum sistema predial novo, reconstruído ou ampliado pode entrar em funcionamento sem que tenha sido verificado e considerado apto pela entidade gestora.
+
+#### Secção IV — Da admissão de águas residuais nos sistemas de drenagem pública
+
+###### Artigo 97º — (Admissão de águas residuais)
+
+1 - Só podem ser recolhidas, tratadas e conduzidas a destino final, através dos sistemas de drenagem, as águas residuais com as características qualitativas e quantitativas admissíveis.
+
+2 - A admissibilidade referida no número anterior será decidida pela entidade gestora, tendo em conta as determinações da lei e as características do sistema de drenagem pública.
+
+3 - Em caso algum podem ser lançadas nos sistemas de drenagem as matérias e substâncias que a lei qualifica como interditas.
+
+###### Artigo 98º — (Classificação geral de águas residuais)
+
+1- Para efeitos do disposto no número anterior, as águas residuais são classificadas nas seguintes categorias gerais:
+
+a) Águas residuais domésticas;
+
+b) Águas residuais industriais;
+
+c) Águas residuais pluviais;
+
+d) Águas residuais urbanas
+
+###### Artigo 99º — (Águas residuais domésticas)
+
+As águas residuais domésticas são provenientes das edificações ou de parte das edificações de tipo residencial e de serviços, essencialmente provenientes do metabolismo humano e de actividades domésticas.
+
+###### Artigo 100º — (Águas residuais industriais)
+
+As águas residuais industriais são todas as águas residuais provenientes de qualquer tipo de actividades que não possam ser classificadas como águas residuais domésticas nem sejam águas pluviais.
+
+###### Artigo 101º — (Águas residuais pluviais)
+
+1 - As águas residuais pluviais são constituídas, em geral, pelas seguintes fracções:
+
+a) Águas de precipitação atmosférica;
+
+b) Águas com origem diferente das anteriormente referidas que se misturam com elas.
+
+2 - As águas de precipitação atmosférica têm origem nesta mesma precipitação e são provenientes de drenagem de arruamentos e de outras superfícies, não sendo a sua constituição de molde a causar prejuízos aos meios receptores e à estrutura dos sistemas de drenagem, a não ser em casos especiais que saem fora do âmbito do presente Regulamento e terão de ser objecto de estudo.
+
+3 - As águas que têm origem diversa das águas de precipitação atmosférica mas possuem características semelhantes de inocuidade para os meios receptores e estruturas dos sistemas de drenagem, podem ter as seguintes proveniências:
+
+a) Águas de drenagem sub-superficial;
+
+b) Águas de lavagem de superfícies não especialmente poluídas ou contaminadas, nomeadamente as provenientes de actividades municipais de higiene e limpezas;
+
+c) Águas de arrefecimento, cuja temperatura, à entrada nos sistemas de drenagem, não ultrapasse os 30ºC;
+
+d) Águas provenientes de processos industriais, cuja qualidade as torne inócuas para os meios receptores e para as estruturas dos sistemas de drenagem.
+
+###### Artigo 102º — (Águas residuais urbanas)
+
+1 - Consideram-se águas residuais urbanas todas as águas residuais, de qualquer proveniência, que foram submetidas às imposições estabelecidas no presente Regulamento para poderem ser lançadas em sistemas de drenagem pública.
+
+2 - As águas residuais urbanas são constituídas, em geral, pelas seguintes fracções:
+
+a) Águas residuais domésticas;
+
+b) Águas residuais industriais;
+
+c) Mistura das referidas nas alíneas anteriores com águas pluviais.
+
+###### Artigo 103º — (Águas de infiltração)
+
+1 - Em todos os sistemas de drenagem encontram-se águas de infiltração provenientes da penetração de águas superficiais ou subterrâneas que, por falta de estanquicidade ou outro defeito, permanente ou acidental, se vão juntar às restantes águas residuais.
+
+2 - Estas águas possuem características que as assemelham às águas pluviais.
+
+###### Artigo 104º — (Equiparação de características)
+
+1 - Aplicar-se-ão à admissão em sistemas de drenagem, no que respeita à equiparação de características, as regras constantes deste artigo.
+
+2 - Às águas residuais provenientes de actividades comerciais e industriais com características idênticas às águas residuais domésticas, aplicar-se-ão as disposições relativas às águas residuais domésticas.
+
+3 - Às águas residuais provenientes de actividades comerciais com características idênticas a águas residuais industriais, aplicar-se-ão as disposições relativas às águas residuais industriais.
+
+4 - Às águas de infiltração aplicar-se-á o que está disposto relativamente a águas pluviais, ou, no caso de se misturarem com quaisquer outras águas residuais, o que é regulamentado para estas.
+
+###### Artigo 105º — (Admissão em sistemas unitários)
+
+1 - São admissíveis, em sistemas de drenagem do tipo unitário, as seguintes categorias de águas residuais:
+
+a) Águas residuais domésticas;
+
+b) Águas residuais industriais com características apropriadas;
+
+c) Águas residuais pluviais.
+
+2 - As características apropriadas para admissão de águas residuais industriais são as que se determinam nos artigos 100º, 107º e 110º.
+
+###### Artigo 106º — (Lançamentos interditos)
+
+Sem prejuízo do disposto em legislação especifica, é interdito o lançamento no sistema público de drenagem, qualquer que seja o seu tipo, directamente ou por intermédio de canalizações dos sistemas prediais, de:
+
+a) Matérias explosivas ou inflamáveis;
+
+b) Matérias radioactivas;
+
+c) Águas residuais industriais de laboratórios ou instalações hospitalares que, pela sua natureza química ou microbiológica, constituam um elevado risco para a saúde pública ou para a conservação das tubagens;
+
+d) Entulhos, areias ou cinza;
+
+e) Águas residuais industriais a temperaturas superiores a 30ºC;
+
+f) Lamas extraídas de fossas sépticas e gorduras ou óleos de câmaras retentoras ou dispositivos similares, que resultem de operações de manutenção;
+
+g) Quaisquer outras substâncias, nomeadamente, restos de comida ou outros resíduos, triturados ou não, que possam obstruir ou danificar os colectores ou os acessórios ou inviabilizar o processo de tratamento;
+
+h) Águas residuais industriais de unidades que contenham:
+
+- Compostos cíclicos hidroxilados e seus derivados halogenados;
+
+- Matérias sedimentáveis, precipitáveis e flutuantes que, por si ou após mistura com outras substâncias existentes nos colectores, possam pôr em risco a saúde do pessoal afecto à operação e manutenção dos sistemas públicos de drenagem ou as estruturas dos sistemas;
+
+- Substâncias que impliquem a destruição dos processos de tratamento biológico;
+
+- Substâncias que possam causar destruição dos ecossistemas aquáticos ou terrestres nos meios receptores;
+
+- Quaisquer substâncias que estimulem o desenvolvimento de agentes patogénicos;
+
+i) Águas pluviais nos sistemas separativos domésticos;
+
+j) Águas dos circuitos de refrigeração;
+
+k) Águas residuais que contenham gases nocivos e outras substâncias que, por si só, ou por interacção com outras sejam capazes de criarem inconvenientes para o público ou interferir com o pessoal afecto à operação e manutenção dos sistemas de drenagem.
+
+l) Lamas e resíduos sólidos em geral;
+
+m) Águas corrosivas ou incrustantes capazes de danificarem as estruturas e os equipamentos dos sistemas públicos de drenagem, designadamente, com pH inferior a 5,5 ou superior a 9,5;
+
+n) Águas residuais contendo produtos em qualquer estado que seja tóxico e em tal quantidade que, quer isoladamente quer por interacção com outras substâncias, possam constituir perigo para o pessoal afecto à exploração.
+
+###### Artigo 107º — (Condições de admissão de águas residuais industriais em sistemas de drenagem)
+
+1 - Para que as águas residuais industriais e similares sejam admitidas nos sistemas públicos de drenagem, devem satisfazer as condições seguintes:
+
+a) Não comportarem pesticidas ou compostos organoclorados, para além dos limites definidos no Decreto-Lei nº 236/98, de 1 de Agosto ou outra legislação em vigor;
+
+b) Não provenham do exercício de actividade que, pela sua natureza, se encontrem sujeitos a normas sectoriais de descarga;
+
+c) Não comportem substâncias persistentes tóxicas e bio-acumuláveis, ou seja, substâncias perigosas, com excepção daquelas que são biologicamente inofensivas ou que rapidamente se transformam como tais;
+
+2 - Para além das limitações impostas no número anterior, devem ainda as águas residuais industriais cumprir os valores máximos admissíveis definidos no [Decreto-Lei n.º 236/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1998-430457), de 1 de Agosto ou outra legislação em vigor, assim como os valores máximos admissíveis definidos no quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/01/007000000/0132501346.pdf)
+
+3 - O valor máximo admissível por cada parâmetro não pode ser excedido pelo valor de concentração média diária bimensal.
+
+4 - O valor médio diário determinado com base na amostra composta representativa do efluente no período de 24 horas, não pode exceder o valor máximo admissível.
+
+5 - Os valores pontuais analíticos não podem exceder duas vezes o valor máximo admissível, para cada parâmetro.
+
+6 - Em qualquer caso a ligação ao sistema público de drenagem águas residuais industriais, só é admissível após apresentação ao Município do respectivo pedido, acompanhado de estudo técnico que, nomeadamente, defina:
+
+- Caracterização do processo produtivo;
+
+- Caracterização do efluente a descarregar;
+
+- Definição dos parâmetros, com a indicação do:
+
+a) Caudal médio diário;
+
+b) Caudal de ponta instantâneo;
+
+- Concentrações máximas previsíveis para os parâmetros descritos no presente artigo;
+
+7 - Uma vez analisado o pedido formulado, o Município pode impor a instalação de um pré-tratamento destinado à obtenção dos limites de descarga exigidos, podendo comportar, para além de outros órgãos, um tanque de regularização e equalização, um medidor de caudal com registo de dados em contínuo e um colector de amostras ou local para a sua instalação.
+
+8 - A mistura das águas residuais industriais só pode ser concretizada após contrato estabelecido entre a entidade gestora e a unidade industrial, na qual fiquem definidas as condições de ligação à rede pública, nomeadamente, os caudais previstos e parâmetros admissíveis, sendo considerados os valores antes
+
+9 - O Município, pode ainda impor o valor do caudal máximo horário a lançar no sistema público de drenagem, bem como os parâmetros de controlo da descarga no colector público.
+
+10 - A entidade gestora poderá, a seu critério, exigir o controlo dos parâmetros objecto de contrato e seu posterior envio à entidade gestora, com periodicidade definida.
+
+11 - As flutuações das características das águas residuais industriais, diárias ou sazonais, não podem, em caso algum, provocar perturbações nas estações de tratamento.
+
+12 - Em situação de incumprimento consecutivo do referido anteriormente, à entidade gestora reserva-se o direito de avaliar a possibilidade de quebra de contrato de recolha, com consequente selagem da ligação ao sistema público de drenagem.
+
+###### Artigo 108º — (Descargas acidentais)
+
+1 - Os responsáveis pelas águas residuais industriais devem tomar todas as medidas preventivas necessárias, para que não ocorram descargas acidentais que possam infringir os condicionamentos previstos no artigo 113º do presente Regulamento.
+
+2 - Se ocorrer alguma descarga acidental, não obstante as medidas tomadas, o responsável pela instalação industrial deve informar, de imediato a Câmara Municipal que por sua vez deverá informar a entidade responsável pela Estação de Tratamento.
+
+3 - Os prejuízos resultantes de descargas acidentais são objecto de indemnizações nos termos da lei e, nos casos aplicáveis, de procedimento criminal.
+
+###### Artigo 109º — (Medição dos parâmetros de qualidade)
+
+1 - Os parâmetros de qualidade referidos no artigo anterior devem ser medidos à entrada do efluente no sistema de drenagem.
+
+2 - A entidade gestora poderá determinar quaisquer outros pontos de medição, caso o julgue indispensável para avaliação correcta da carga de poluição.
+
+3 - Os parâmetros de qualidade definidos no artigo anterior entendem-se como obrigatórios na autorização de ligação aos sistemas de drenagem.
+
+###### Artigo 110º — (Parâmetros quantitativos para admissão de águas residuais industriais em sistemas de drenagem)
+
+1 - Antes da sua descarga em sistemas de drenagem, as águas residuais industriais cujas características se não conformem com os parâmetros quantitativos constantes do artigo 107º devem ser submetidas a controlo prévio apropriado.
+
+2 - Os caudais de ponta das águas residuais industriais, deverão ser drenados pelos sistemas sem quaisquer problemas de natureza hidráulica ou sanitária.
+
+3 - A flutuação dos caudais, diária ou sazonal, não deve ser de molde a causar perturbações nos sistemas de drenagem e nas estações de tratamento.
+
+4 - A entidade gestora decidirá, em cada caso, sobre a admissibilidade de natureza quantitativa materializada nos números 2 e 3 anteriores.
+
+###### Artigo 111º — (Casos de explorações agrícolas, piscícolas e pecuárias)
+
+Desde que exista a possibilidade de ligação a sistemas de drenagem municipais, as águas residuais, provenientes de explorações agrícolas, piscícolas e pecuárias serão consideradas, para todos os efeitos, como águas residuais industriais e submetidas às limitações qualitativas e quantitativas constantes das disposições da presente secção.
+
+###### Artigo 112º — (Sistemas individuais)
+
+Aos sistemas individuais de drenagem aplicar-se-ão, com as modificações e as adaptações julgadas convenientes pela entidade gestora, as disposições constantes da presente secção.
+
+###### Artigo 113º — (Pré-tratamento para admissão de águas residuais em sistemas municipais de drenagem)
+
+1 - Se, pelas suas características, as águas residuais não forem admissíveis, deverão ser submetidas a um pré-tratamento apropriado, o qual será objecto de projecto a aprovar pela entidade gestora.
+
+2 - As despesas inerentes aos projectos e obra relativas a instalação de pré-tratamento e controlo de qualidade serão da conta dos proprietários ou usufrutuários das edificações ou de outros prédios produtores das águas residuais.
+
+###### Artigo 114º — (Operação, manutenção e vigilância das instalações de pré-tratamento)
+
+1 - A operação e manutenção das instalações de pré-tratamento e controlo referidas no artigo anterior, ficará a cargo dos proprietários ou usufrutuários das edificações ou outros prédios produtores das águas residuais.
+
+2 - A entidade gestora poderá encarregar-se da operação e manutenção das instalações a que se refere o número anterior, mediante celebração de acordo com os proprietários ou usufrutuários.
+
+3 - Em qualquer caso, a entidade gestora controlará, mediante vigilância apropriada, o funcionamento das instalações de pré-tratamento e dos sistemas prediais em que se integram, sob os pontos de vista técnico e sanitário, podendo determinar as medidas que considere necessárias.
+
+###### Artigo 115º — (Verificação da qualidade das águas residuais industriais em redes de drenagem públicas)
+
+1 - A entidade gestora pode exigir aos empresários responsáveis por actividades industriais cujas águas residuais estejam ligadas aos sistemas municipais a prova das características dos seus efluentes, mediante leitura por instrumentos apropriados ou análises, a realizar em laboratório(s) aceite(s) por aquela.
+
+2 - O intervalo entre as análises será estabelecido pela entidade gestora, tendo em conta o tipo de actividade industrial exercida.
+
+3 - Além das previstas nos números anteriores, pode a entidade gestora promover a realização das análises que entenda convenientes, sendo o respectivo custo suportado pelos titulares dos estabelecimentos apenas quando os parâmetros de poluição se afastarem relevantemente dos admitidos.
+
+4 - O disposto no presente artigo é extensível a quaisquer águas residuais que, pelas suas características, se assemelhem a águas residuais industriais.
+
+###### Artigo 116º — (Medidores e registadores de caudais)
+
+1 - Em todas as edificações, independentemente da sua utilização, que estejam ligadas aos sistemas municipais de águas residuais, a entidade gestora pode exigir a instalação de medidores de caudal, a intercalar no ramal de ligação à rede, sendo a instalação e manutenção daqueles equipamentos feita pela entidade gestora ou por quem esta autorizar, a expensas dos proprietários ou usufrutuários dos prédios ou dos utentes, consoante quem for directamente interessado.
+
+2 - Sempre que a entidade pública o julgue necessário, deve exigir a instalação de medidores e registadores de caudais de águas residuais industriais antes da sua entrada na rede pública de drenagem.
+
+3 - Os aparelhos referidos no número anterior serão verificados pelo pessoal da entidade gestora sempre que esta entenda fazê-lo.
+
+###### Artigo 117º — (Limpeza de fossas sépticas)
+
+1 - Em zonas não servidas por redes públicas de drenagem, os utentes são responsáveis pelo estado de conservação e limpeza das fossas sépticas.
+
+2 - A limpeza das fossas sépticas pode ser efectuada a pedido dos interessados, por empresas particulares ou pela Câmara Municipal de Vinhais, utilizando para tal os meios mecânicos hidráulicos de sucção, transporte e destino final adequados.
+
+3 - No caso da limpeza das fossas ser efectuada por empresas particulares, estas devem solicitar, por escrito, a autorização de descarga na Estação de Tratamento de Águas Residuais, com uma antecedência mínima de 15 dias úteis.
+
+4 - A Câmara Municipal recusará efectuar a limpeza de fossas sépticas em zonas que se encontrem servidas pela rede pública de drenagem, no caso de a ligação ao sistema público não se realizar por vontade do utente.
+
+5 - O referido no número anterior não obsta a que a Câmara Municipal efectue a limpeza de fossas sépticas em zonas servidas pela rede pública de drenagem, mas nas quais a ligação ao sistema público de drenagem não se efectue por razões de inviabilidade técnica e ou económica, nomeadamente por razões de distância física à rede ou outras similares.
+
+### CAPÍTULO IV — Tarifas e serviços
+
+#### Secção I — Regime tarifário e serviços prestados
+
+###### Artigo 118º — (Regime tarifário)
+
+1 - Com vista à satisfação dos encargos relativos à drenagem de águas residuais e para pagamento dos serviços prestados pela entidade gestora, são devidas as tarifas e os preços enumerados constantes em tabela anexa ao presente Regulamento, que dele faz parte integrante.
+
+2 - O valor das tarifas e dos preços a cobrar pela entidade gestora será fixado anualmente por deliberação da Câmara Municipal, mantendo-se no entanto em vigor os do ano anterior enquanto essa fixação não ocorrer.
+
+3 - As deliberações a que se refere o número anterior deverão ser tomadas sempre e em princípio, no mesmo período do ano, e dar-se-lhes-á publicidade edital, não podendo entrar em vigor antes de decorridos 20 dias a contar da publicação.
+
+4 - Compete à Câmara Municipal definir os valores das tarifas médias a pagar pelos diferentes utilizadores dos sistemas públicos de drenagem de águas residuais.
+
+5 - Tanto na fixação das tarifas médias, como na definição da estrutura tarifária deverá atender-se aos princípios do equilíbrio económico e financeiro do serviço, com um nível de atendimento adequado
+
+6 - De modo a permitir uma correcta liquidação das tarifas e preços e uma adequada apreciação das reclamações, deverão ser definidas, e publicitadas, pela entidade gestora, as directivas a aplicar em execução deste Regulamento e das deliberações referidas nos números antecedentes.
+
+###### Artigo 119º — (Tarifas e preços)
+
+1 - Na área do Município de Vinhais, para a satisfação dos encargos relativos à drenagem de águas residuais, serão devidas as seguintes tarifas:
+
+a) Tarifa de ligação;
+
+b) Tarifa de conservação;
+
+c) Tarifa de utilização.
+
+2 - Poderá a Câmara Municipal optar pela junção das tarifas referidas no número anterior numa só.
+
+3 - Poderá ainda a entidade gestora, no âmbito das actividades relativas à construção, exploração e administração dos sistemas de drenagem pública de águas residuais, cobrar os seguintes preços por serviços prestados:
+
+a) Vistorias;
+
+b) Ensaios;
+
+c) Colocação, transferência e reaferição de medidores de caudal;
+
+d) Ampliação e extensão da rede pública, quando esses encargos possam caber aos proprietários ou usufrutuários;
+
+e) Execução de ramais de ligação;
+
+f) Limpeza de fossas;
+
+g) Serviços avulsos, tais como, pequenas reparações, etc.
+
+###### Artigo 120º — (Incidência e pagamento da Tarifa de ligação)
+
+1 - A tarifa de ligação respeita aos encargos relativos ao estabelecimento dos sistemas de drenagem pública de águas residuais e incide sobre a valia da permissão de ligação de um prédio ou fracção autónoma, quando for caso disso, àqueles sistemas, já estabelecidos.
+
+2 - A tarifa de ligação será paga conjuntamente com o valor do ramal de ligação e antecipadamente à realização dos trabalhos.
+
+3 - A obrigação do pagamento da tarifa de ligação caberá aos proprietários, usufrutuários ou àqueles que estejam na legal administração dos prédios à data da sua ligação à rede ou aos requerentes da licença de construção.
+
+4 - Nenhum proprietário, usufrutuário ou requerente da licença de construção do prédio está isento da tarifa de ligação.
+
+###### Artigo 121º — (Incidência e pagamento da Tarifa de conservação)
+
+1 - A tarifa de conservação respeita aos encargos com a manutenção dos sistemas de drenagem pública de águas residuais e incide sobre a valia da disponibilidade daqueles sistemas, devidamente conservados, relativamente aos prédios ou fracções autónomas, quando for caso disso, que a eles devam estar ligados.
+
+2 - O valor da tarifa de conservação e as respectivas condições de liquidação e pagamento serão fixadas pela Câmara Municipal, em obediência às regras e princípios indicados neste preceito.
+
+3 - A tarifa de conservação é devida pelos proprietários ou usufrutuários dos prédios ou fracções.
+
+4 - A tarifa de conservação será paga anualmente, em uma ou mais prestações, conforme for definido pela Câmara Municipal.
+
+5 - Havendo nisso vantagem para os utentes e para a entidade gestora e quando o devedor da tarifa de conservação for também o utilizador do sistema público de distribuição de água, poderá a tarifa de conservação ser cobrada juntamente com as facturas de água.
+
+###### Artigo 122º — (Tarifa de utilização)
+
+1 - A tarifa de utilização respeita aos encargos relativos à condução, tratamento e destino final das águas residuais produzidas e incide sobre a valia dos serviços, nessa medida, prestados aos utilizadores que gozem de ligação dos respectivos sistemas prediais à rede pública de drenagem ou que, em qualquer caso, subscrevam contrato com a entidade gestora.
+
+2 - A tarifa de utilização será determinada com base nos consumos de água, havidos ou estimados, dos utilizadores, podendo ter em conta o número de pessoas de cada agregado familiar.
+
+3 - Havendo furos ou poços de que os utilizadores se sirvam poderá a entidade gestora estimar os respectivos consumos ou mandar instalar aparelhos de medida adequados, com vista a uma justa determinação da tarifa.
+
+4 - O valor da tarifa de utilização e as respectivas condições de liquidação e pagamento serão fixados pela Câmara Municipal, em obediência às regras e princípios indicados no artigo 133º e neste preceito.
+
+5 - A tarifa de utilização é devida pelo titular do contrato de fornecimento de água ou pelo titular do contrato autónomo de recolha de águas residuais.
+
+6 - A tarifa de utilização será cobrada juntamente com as facturas de água, com a devida menção.
+
+7 - Na definição da estrutura tarifária, poderá a Câmara Municipal vir a fixar factores de correcção, designadamente para utilizadores comerciais e industriais específicos, como a restauração ou lavandarias, de forma a garantir-se maior adequação e equidade dos custos suportados por tais utilizadores.
+
+###### Artigo 123º — (Cobrança)
+
+1 - A cobrança das importâncias referidas no n.º4 do artigo 121º far-se-á simultaneamente com a cobrança do serviço de fornecimento de água.
+
+2 - Para efeitos do número anterior, será utilizada a factura - recibo do serviço de fornecimento de água emitida pela entidade gestora.
+
+3 - Manter-se-á valido e aplicável ao serviço de recolha de águas residuais todo o preceituado previsto no Regulamento de Abastecimento de Água para as situações de não pagamento atempado da facturação.
+
+###### Artigo 124º — (Ramal de ligação)
+
+O pagamento do custo do ramal de ligação deverá ser efectuado no menor prazo possível.
+
+### CAPÍTULO V — Penalidades, reclamações e recursos
+
+#### Secção I — Penalidades
+
+###### Artigo 125º — (Regime aplicável)
+
+1 - A violação do disposto no presente Regulamento Municipal constitui contra-ordenação punível com as coimas indicadas nos artigos seguintes.
+
+2 - O regime legal e de processamento das contra-ordenações obedecerá ao disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro e respectiva legislação complementar.
+
+3 - Em todos os casos, a tentativa será punível.
+
+###### Artigo 126º — (Regra geral)
+
+1 - A violação de qualquer norma deste Regulamento para a qual não esteja, no artigo seguinte, especialmente prevista a penalidade correspondente, será punida com uma coima fixada entre o mínimo de (euro) 249,40 e o máximo de (euro) 2493,99.
+
+2 - Será, designadamente, punido com as coimas previstas no n.º 1 todo aquele que:
+
+a) Incorrer em violação dos deveres fixados no artigo 78º, alíneas a) e f) e no artigo 79º alíneas a), d) e e);
+
+b) Proceder a despejos ou drenagem de águas residuais, provenientes de fossas, para a via pública ou terrenos contíguos;
+
+c) Consinta na execução ou execute obras nos sistemas prediais de drenagem, mesmo que já estabelecidos e aprovados, sem prévia autorização da entidade gestora;
+
+d) Impeça ou se oponha a que os funcionários, devidamente identificados, da entidade gestora exerçam a fiscalização do cumprimento deste Regulamento.
+
+3 - Nos casos de pequena gravidade e em que seja diminuta a culpa do infractor, poderá ser decidida a aplicação de uma mera admoestação.
+
+4 - No caso de a contra-ordenação ter provocado consequências ou danos sanitários, será a mesma punida nos termos do artigo seguinte.
+
+###### Artigo 127º — (Violação de regras do serviço público)
+
+1 - Será punido com uma coima variando entre o mínimo de (euro) 249,40 e um máximo de (euro) 2493,99 todo aquele que:
+
+a) Proceder à instalação de sistemas públicos ou prediais de drenagem de águas residuais sem obediência das regras e condicionantes técnicas aplicáveis;
+
+b) Sendo utente, não cumpra qualquer dos deveres impostos no artigo 6º do [Decreto-Lei n.º 207/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1994-223064), de 6 de Agosto;
+
+c) Proceder a lançamentos interditos, como tal previstos no artigo 121º deste Regulamento e artigo 117º do Decreto-Regulamentar n.º 23/95, de 23 de Agosto.
+
+###### Artigo 128º — (Punição de pessoas colectivas)
+
+Quando aplicadas a pessoas colectivas as coimas previstas nos artigos antecedentes serão elevadas ao dobro, podendo a coima máxima atingir os (euro) 29 927,87, nos termos previstos no artigo 29º do [Decreto-Lei n.º 207/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1994-223064), de 6 de Agosto.
+
+###### Artigo 129º — (Reincidência)
+
+Em caso de reincidência, a contra-ordenação será punida pelo pagamento da coima aplicada pelo dobro, reduzido ao limite máximo imposto por lei, quando for caso disso.
+
+###### Artigo 130º — (Extensão da responsabilidade)
+
+1 - A aplicação do disposto nos artigos anteriores não inibe da responsabilidade civil ou criminal que ao caso couber.
+
+2 - O infractor será obrigado a executar os trabalhos que lhe forem indicados dentro do prazo que para o efeito lhe for fixado e a ele serão imputadas as despesas feitas e os danos que da infracção resultarem para a entidade gestora.
+
+###### Artigo 131º — (Produto das coimas)
+
+Salvo estipulação expressa da lei em contrário, o produto das coimas constitui receita municipal.
+
+###### Artigo 132º — (Competência)
+
+A competência para a instrução dos processos de contra-ordenação e para a aplicação de coimas competirá ao Presidente da Câmara, com a faculdade de delegação em vereador.
+
+###### Artigo 133º — (Actualização)
+
+1 - Os valores das coimas fixados neste Regulamento poderão ser actualizados pela Assembleia Municipal, mediante proposta dos órgãos executivos.
+
+2 - As actualizações que vierem a ser aprovadas serão identificadas por um número sequencial e publicadas como anexo ao presente Regulamento.
+
+#### Secção II — Reclamações e recursos
+
+###### Artigo 134º — (Reclamações e recursos)
+
+1 - A qualquer interessado assiste o direito de reclamar junto dos Serviços Competentes contra qualquer acto ou omissão destes, que tenha lesado os seis direitos ou interesses legítimos protegidos por este Regulamento.
+
+2 - O requerimento deverá ser despachado pelo autor do acto, no prazo de 20 dias, se outro mais curto não estiver estabelecido, notificando-se o interessado do teor do despacho e respectiva fundamentação.
+
+3 - As reclamações não têm efeito suspensivo.
+
+###### Artigo 135º — (Recurso da decisão de aplicação da coima)
+
+A decisão do órgão competente que aplicar uma coima pode ser impugnada judicialmente, nos termos fixados no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
+
+## TÍTULO III — Recolha de resíduos sólidos urbanos
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 136º — (Dos objectivos)
+
+O objectivo do presente título é definir e estabelecer as regras e condições relativas ao sistema de gestão de resíduos sólidos urbanos (RSU) e equiparados, produzidos e recolhidos no concelho de Vinhais, bem como à limpeza pública.
+
+###### Artigo 137º — (Da competência)
+
+1 - A gestão dos resíduos sólidos urbanos produzidos na área do concelho de Vinhais é da responsabilidade e competência da Câmara Municipal de Vinhais, nos termos da alínea a) do n.º 2 do artigo 6º do Decreto-Lei n.º 239 /97, de 9 de Setembro, que os assegurará por intermédio da Divisão de Obras e Equipamentos.
+
+2 - A Câmara Municipal pode delegar a gestão dos resíduos sólidos urbanos nos termos do Decreto-Lei n.º 370 / 93, de 5 de Novembro, e pode exercer actividades de gestão através de contratos específicos de prestação de serviços. Para efeitos de algumas componentes do sistema de gestão, nomeadamente para o tratamento e destino final dos resíduos sólidos, a responsabilidade da Câmara Municipal é exercida através da Resíduos do Nordeste, EIM, nos termos dos seus estatutos e do artigo 6º do Decreto-Lei n.º 239 7 97, de 9 de Setembro.
+
+3 - Nos termos do n.º 6 do Decreto-Lei n.º 239 / 97, de 9 de Setembro, a responsabilidade atribuída ao município não isenta os respectivos munícipes do pagamento das correspondentes taxas e tarifas pelo serviço prestado.
+
+###### Artigo 138º — (Das definições - Tipo de resíduos e operação de gestão)
+
+1 - De acordo com o disposto no artigo 3º do [Decreto-Lei n.º 239/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1997-644295), de 9 de Setembro, entende-se por resíduos:
+
+a) Resíduos - quaisquer substâncias ou objectos de que o detentor se desfaz ou tem intenção ou obrigação de se desfazer, nomeadamente os previstos em portaria dos Ministros da Economia, da Agricultura, Desenvolvimento Rural e Pescas, da Saúde e das cidades, Ordenamento do Território e Ambiente, em conformidade com a lista Europeia de Resíduos (LER), aprovada pela Decisão n.º 2000 / 532 / CE, da Comissão, de 3 de Maio, alterada pelas Decisões n.os 2001/118/Ce, da Comissão, de 16 de Janeiro, 2001 / 119 / CE, da comissão de 22 de Janeiro, e 2001 / 573 / CE, do Concelho, de 23 de Julho, e que consta do Anexo I da [Portaria n.º 209](https://diariodarepublica.pt/dr/detalhe/portaria/209-1914-487725) / 2004, de 3 de Março.
+
+b) Resíduos perigosos - os resíduos que apresentam características de perigosidade para a saúde ou para o ambiente, nomeadamente os definidos em portaria dos Ministérios da Economia, da Agricultura, desenvolvimento Rural e Pescas, da Saúde e das Cidades, Ordenamento do Território e Ambiente, em conformidade com a Lista dos Resíduos Perigosos e que consta do Anexo I da [Portaria n.º 209](https://diariodarepublica.pt/dr/detalhe/portaria/209-1914-487725) / 2004, de 3 de Março;
+
+c) Resíduos industriais - os resíduos em actividades industriais, bem como os que resultem das actividades de produção e distribuição de electricidade, gás e água;
+
+d) Resíduos Urbanos (RSU) - os resíduos domésticos e outros resíduos semelhantes, em razão da sua natureza ou composição, nomeadamente os provenientes do sector de serviços ou de estabelecimentos comerciais ou industriais e de unidades prestadoras de cuidados de saúde, desde que, em qualquer dos casos, a produção diária não exceda 1100 litros por produtor;
+
+e) Resíduos hospitalares - Os resíduos produzidos em unidades de prestação de cuidados de saúde incluindo as actividades médicas de diagnóstico, prevenção e tratamento da doença, em seres humanos ou em animais, e ainda as actividades de investigação relacionadas;
+
+f) Outros tipos de resíduos - os resíduos não considerados como industriais, urbanos ou hospitalares.
+
+2 - Para efeitos do presente Regulamento define-se ainda:
+
+a) Resíduos de limpeza pública - os que são provenientes da limpeza pública, entendendo-se esta como o conjunto de actividades que se destina a recolher os resíduos sólidos existentes nas vias e outros espaços públicos;
+
+b) Resíduos sólidos resultantes de cortes efectuados nos jardins públicos ou particulares, englobando aparas, ramos e troncos de pequenas dimensões, cuja produção mensal por produtor não exceda 2 m3;
+
+c) Objectos domésticos volumosos fora de uso (monstros) - os provenientes das habitações que, pelo seu volume, forma, dimensão ou peso, não possam ser recolhidos pelos meios normais de remoção;
+
+d) Resíduos sólidos valorizáveis - são aqueles que possam ser objecto de reaproveitamento segundo as operações identificadas na [Portaria n.º 209](https://diariodarepublica.pt/dr/detalhe/portaria/209-1914-487725) / 2004, de 3 de Março, dos Ministérios da Economia, da Agricultura, Desenvolvimento Rural e Pescas, da Saúde e das Cidades, Ordenamento do território e Ambiente.
+
+I - São desde já considerados resíduos sólidos valorizáveis, no concelho de Vinhais e, portanto, passíveis de remoção distinta de acordo com a tecnologia existente no mercado e a garantia do seu escoamento, os seguintes resíduos:
+
+Vidro - vidro de embalagem, de preferência limpo;
+
+Papel - de qualquer tipo, excluindo-se o plastificado ou com químico, não podendo conter clipes ou agrafos ou qualquer outro material que ponha em causa a sua reciclagem;
+
+Cartão - excluindo-se o cartão contaminado com resíduos, nomeadamente alimentares;
+
+Plástico - embalagens de plástico não contaminadas com alimentos ou produtos perigosos;
+
+Metal - embalagens metálicas ferrosas e não ferrosas;
+
+Pilhas e Acumuladores - excluindo as baterias e automóvel e equiparadas.
+
+II - A Câmara Municipal de Vinhais ou a Resíduos do Nordeste, EIM, poderá em qualquer altura, de acordo com as condições específicas que vierem a verificar-se para a remoção e tratamento dos resíduos sólidos, classificá-los como valorizáveis ou retirar-lhes tal classificação;
+
+e) Resíduos industriais e hospitalares de grandes produtores equiparados e resíduos sólidos urbanos definidos nas alíneas c) e e), que sejam compatíveis com a definição da alínea d) e com produções superiores a 1100 litros / dia;
+
+f) Resíduos sólidos de grandes produtores comerciais - os produzidos em unidades de comércio ou serviços, mas com produções superiores a 1100 litros/dia;
+
+g) Entulhos - os restos de construções, caliças, pedras, escombros, terras e similares resultantes de obras;
+
+h) Sucatas e pneus usados - veículos abandonados, carcaças de veículos e máquinas e pneus fora de uso;
+
+i) Resíduos sólidos provenientes da limpeza de espaços do domínio público afectos a uso privativo: Os resíduos que apesar de apresentarem características idênticas aos da limpeza pública, são produzidos em áreas afectas a uso privativo, nomeadamente, esplanadas e outras actividades comerciais;
+
+j) Resíduos domésticos perigosos - os resíduos com características de perigosidade para o ambiente, provenientes de habitações, tais como pilhas e acumuladores usados.
+
+3 - As operações de gestão de resíduos incluem as operações de recolha, transporte, armazenagem, tratamento, valorização e eliminação de resíduos, incluindo a monitorização dos locais de descarga após o encerramento das respectivas instalações, bem como o planeamento dessas operações.
+
+###### Artigo 139º — (Do âmbito)
+
+1 - São excluídos do âmbito deste Regulamento os seguintes resíduos:
+
+a) Os resíduos radioactivos;
+
+b) Os resíduos resultantes da prospecção, extracção, tratamento e armazenagem de recursos minerais, bem como da exploração de pedreiras;
+
+c) Os cadáveres de animais e os resíduos agrícolas que sejam matérias fecais ou outras substâncias naturais não perigosas aproveitadas nas explorações agrícolas;
+
+d) As águas residuais, com excepção dos resíduos em estado liquido;
+
+e) Os explosivos abatidos à carga ou em fim de vida, bem como os equipamentos, aparelhos ou outros que apresentem risco de explosão;
+
+f) Os efluentes gasosos emitidos para a atmosfera;
+
+g) Todos os resíduos não considerados como urbanos, industriais ou hospitalares não mencionados no n.º 2º do artigo 3º do presente Regulamento;
+
+h) Todos os resíduos industriais ou hospitalares não mencionados no n.º 2º do artigo 3º;
+
+### CAPÍTULO II — Sistema de resíduos sólidos urbanos
+
+###### Artigo 140º — (Da noção de sistemas de resíduos sólidos e de resíduos sólidos urbanos)
+
+1 - Define-se como sistema de resíduos sólidos, o conjunto de obras de construção civil, equipamentos mecânicos e ou eléctricos, viaturas, recipientes e acessórios, de recursos humanos, institucionais e financeiros e de estrutura de gestão, destinado a assegurar, em condições de eficiência, conforto, segurança e inocuidade, a eliminação dos resíduos;
+
+2 - Define-se como sistema de resíduos sólidos urbanos, o sistema de resíduos que opera com resíduos sólidos urbanos.
+
+###### Artigo 141º — (Dos componentes do sistema de resíduos sólidos urbanos)
+
+O sistema de resíduos sólidos urbanos engloba no todo ou em parte as seguintes componentes;
+
+a) Produção;
+
+b) Remoção;
+
+c) Valorização;
+
+d) Tratamento;
+
+e) Destino final;
+
+f) Exploração;
+
+###### Artigo 142º — (Da noção de produção de resíduos sólidos urbanos)
+
+1 - Considera-se produção a geração de resíduos sólidos urbanos na origem.
+
+2 - Considera-se produtor de resíduos qualquer pessoa, singular ou colectiva, cuja actividade produza resíduos ou que efectue operações de tratamento, de mistura ou outras que alterem a natureza ou a composição de resíduos.
+
+3 - Considera-se detentor de resíduos qualquer pessoa, singular ou colectiva, incluindo o produtor, que tenha resíduos na sua posse.
+
+###### Artigo 143º — (Da noção de remoção de resíduos sólidos urbanos)
+
+1 - A remoção consiste no afastamento dos resíduos sólidos urbanos dos locais de produção, mediante as operações de deposição, recolha e transporte, com ou sem transferência, que a seguir se definem:
+
+a) Deposição - acondicionamento dos RSU na origem, a fim de os preparar para a recolha;
+
+b) Recolha - passagem dos RSU dos recipientes de deposição para as viaturas de transporte;
+
+c) Transporte - condução dos RSU em viaturas próprias, desde os locais de deposição até aos de tratamento e ou destino final;
+
+d) Transferência - consiste no transbordo dos RSU, recolhidos pelas viaturas de pequena e média capacidade, para viaturas ou equipamento especial de grande capacidade com ou sem compactação, efectuado em estações de transferência, situadas entre a produção e o tratamento.
+
+2 - A limpeza pública considera-se uma componente da remoção e caracteriza-se por um conjunto de actividades com o objectivo de retirar os resíduos existentes nas vias e outros espaços públicos através da varredura e lavagem dos pavimentos e os contidos em papeleiras e outros recipientes com idênticas finalidades, colocados em espaços públicos.
+
+###### Artigo 144º — (Da noção da valorização)
+
+Valorização é o conjunto de operações e processos que visam o reaproveitamento dos resíduos, e que se encontram identificadas na [Portaria n.º 209/2004](https://diariodarepublica.pt/dr/detalhe/portaria/209-2004-551652), de 3 de Março, dos Ministérios da Economia, da Agricultura, Desenvolvimento Rural e Pescas, da Saúde e das Cidades, Ordenamento do Território e Ambiente.
+
+###### Artigo 145º — (Da noção de tratamento)
+
+Define-se tratamento como quaisquer processos manuais, mecânicos, físicos, químicos ou biológicos que alterem as características de resíduos de forma a reduzir o seu volume ou perigosidade, bem como a facilitar a sua movimentação, valorização ou eliminação.
+
+###### Artigo 146º — (Da noção do destino final)
+
+Considera-se destino final a fase última do processo de eliminação dos RSU, materializada em quaisquer meios ou estruturas receptoras onde se termine a sequência produção remoção, tratamento, destino final e na qual os RSU sujeitos a tratamento atinjam um grau de nocividade o mais reduzido possível ou mesmo nulo.
+
+###### Artigo 147º — (Da noção de exploração)
+
+Exploração é o conjunto de actividades de gestão do sistema, as quais podem ser de carácter técnico, administrativo e financeiro.
+
+### CAPÍTULO III — Remoção dos resíduos sólidos urbanos
+
+#### SECÇÃO I — Deposição dos resíduos sólidos urbanos
+
+###### Artigo 148º — (Do Acondicionamento e deposição dos resíduos sólidos urbanos)
+
+1 - Os resíduos sólidos urbanos devem ser convenientemente acondicionados, para que a deposição nos recipientes aprovados pela Câmara Municipal de Vinhais se faça garantindo higiene e estanquicidade, de forma a não ocorrer espalhamento ou derrame dos resíduos no seu interior ou na via pública.
+
+2 - No concelho de Vinhais existe um sistema de recolha de RSU's baseado em contentores normalizados;
+
+3 - Nas zonas em que a recolha for efectuada em contentores é obrigatória a deposição dos resíduos no interior dos mesmos, acondicionados em sacos de material plástico hermético devidamente fechados. Deve ser respeitado integralmente o fim a que se destina cada contentor.
+
+###### Artigo 149º — (Da responsabilidade pela deposição)
+
+1 - No concelho de Vinhais são responsáveis pela deposição dos RSU todos os residentes ou presentes no concelho, desde que sejam produtores ou detentores de resíduos
+
+2 - Nas áreas abrangidas pelo sistema de remoção são responsáveis pela deposição dos resíduos sólidos urbanos:
+
+a) Os proprietários ou gerentes de estabelecimentos comerciais, industriais ou de serviços.
+
+b) Nos edifícios habitacionais, respectivos residentes;
+
+c) Nos restantes casos, os indivíduos ou entidades para o efeito designados, ou na sua falta, todos os residentes.
+
+3 - Os responsáveis pela deposição dos RSU devem retê-los nos locais de produção sempre que os recipientes se encontrem com a capacidade esgotada.
+
+###### Artigo 150º — (Dos recipientes adoptados)
+
+1 - Para deposição dos RSU, exceptuando-se os referidos na alínea i) do n.º 2 do artigo 3º, a Câmara Municipal de Vinhais coloca à disposição dos utentes os seguintes tipos de recipientes:
+
+a) Contentores normalizados de capacidade variável, colocados na via pública;
+
+b) Papeleiras normalizadas destinadas à deposição de desperdícios produzidos pelos transeuntes na via pública;
+
+c) Vidrões, papelões, embalões, pilhómetros e ecopontos, destinados a recolha selectiva;
+
+d) Outros recipientes que a Câmara Municipal de Vinhais vier a adoptar.
+
+2 - Qualquer outro recipiente utilizado pelos munícipes para além dos normalizados aprovados pela Câmara Municipal, é considerado tara perdida e pode ser removido conjuntamente com os RSU.
+
+3 - Os recipientes referidos no nº1 do presente artigo são propriedade da Câmara Municipal de Vinhais ou da entidade a quem por esta tenha delegado o serviço público.
+
+###### Artigo 151º — (Da capacidade e localização dos recipientes)
+
+1 - É da exclusiva competência da Câmara Municipal de Vinhais decidir sobre a capacidade e localização dos recipientes para resíduos sólidos urbanos a que se refere o artigo anterior.
+
+2 - A capacidade e localização dos contentores é da responsabilidade da Câmara Municipal.
+
+3 - No caso da gestão delegada, a Câmara Municipal deve informar a entidade gestora da capacidade e localização dos contentores a instalar.
+
+4 - Os recipientes existentes na via pública, não podem ser removidos ou deslocados dos locais designados ou aprovados pela Câmara Municipal.
+
+###### Artigo 152º — (Dos horários de deposição os resíduos sólidos)
+
+Os horários de deposição dos resíduos sólidos são definidos pela Câmara Municipal e divulgados pelas formas normais de divulgação utilizadas pelo município.
+
+###### Artigo 153º — (Dos sistemas de deposição em novas urbanizações)
+
+1 - Os projectos de novas urbanizações devem prever o sistema de deposição dos RSU que vier a ser definido pela Câmara Municipal de Vinhais.
+
+2 - O dimensionamento e localização do sistema deverão ser efectuados em função da ocupação prevista na urbanização e os respectivos parâmetros obtidos junto da Câmara Municipal.
+
+3 - A implantação dos contentores deverá ser objecto de um estudo de integração urbana e será um dos componentes do projecto de arranjo dos espaços exteriores da urbanização.
+
+4 - Constitui obrigação dos promotores das urbanizações dotar as mesmas com os sistemas de deposição previstos, e de acordo com a aprovação dos mesmos pela Câmara Municipal.
+
+#### SECÇÃO II — Recolha e transporte dos resíduos sólidos urbanos
+
+###### Artigo 154º — (De remoção dos resíduos sólidos urbanos)
+
+1 - Os munícipes são obrigados a aceitar o serviço de remoção e a cumprir as instalações de operação e manutenção deste, emanadas da Câmara Municipal.
+
+2 - É proibida a execução de quaisquer actividades de remoção não levadas a cabo pela Câmara Municipal ou outra entidade autorizada para o efeito.
+
+#### SECÇÃO III — Remoção de resíduos de jardins e de objectos domésticos volumosos fora de uso
+
+###### Artigo 155º — (Da remoção)
+
+1 - A remoção dos objectos domésticos volumosos fora de uso e dos cortes de jardins de particulares com produção mensal até 2 m3 é feita mediante solicitação prévia à entidade que no momento para tal for competente.
+
+2 - Os munícipes devem colocar os monstros ou os resíduos de jardins no local e condições que lhe forem indicadas por aquela entidade e respeitando os horários e dias estabelecidos pela mesma.
+
+3 - A deposição em qualquer local do município dos objectos domésticos fora de uso ou de resíduos de jardins, não poderá efectuar-se, em qualquer caso, sem prévia autorização da entidade competente.
+
+4 - As obrigações decorrentes dos números anteriores não obstam a que impenda sobre os proprietários a obrigação de manter os seus jardins e quintais em condições normais de limpeza e asseio, sob pena de a Câmara Municipal, após notificação ao proprietário, proceder à limpeza, imputando-lhe os respectivos custos.
+
+### CAPÍTULO IV — Resíduos sólidos valorizáveis
+
+###### Artigo 156º — (Dos recipientes adoptados)
+
+Para deposição dos resíduos sólidos valorizáveis (RSV), a Câmara Municipal de Vinhais coloca à disposição dos utentes os seguintes tipos de recipientes:
+
+a) Vidrões, papelões, embalões, pilhómetros e ecopontos, destinados à recolha selectiva;
+
+b) Outros recipientes que a Câmara Municipal adoptar.
+
+###### Artigo 157º — (Da deposição, recolha, transporte e tratamento)
+
+1 - Os resíduos sólidos valorizáveis tem deposição, recolha, transporte e tratamento diferenciados dos restantes resíduos sólidos urbanos.
+
+2 - Para efeito do número anterior, a deposição dos materiais valorizáveis deve ser efectuada nos recipientes próprios colocados na via pública.
+
+3 - As embalagens de cartão devem ser depositadas apenas depois de previamente espalmadas de forma a reduzir o seu volume.
+
+4 - Em situações em que os recipientes próprios estejam cheios, o cartão deve ser colocado junto aos mesmos, empilhados e atado depois de previamente espalmado.
+
+### CAPÍTULO V — Resíduos sólidos comerciais, industriais e hospitalares equiparados a rsu, provenientes de grandes produtores
+
+###### Artigo 158º — (Da deposição, remoção e transporte)
+
+Aplicam-se aos resíduos sólidos de grandes produtores comerciais e industriais e hospitalares, correspondentes às alíneas e) e f) dos n.os 1 e 2 do artigo 138º as disposições definidas no capítulo III, com as necessárias adaptações, exceptuando-se o disposto nos restantes artigos deste capítulo.
+
+###### Artigo 159º — (Das obrigações dos responsáveis pela deposição)
+
+1 - Os resíduos sólidos de grandes produtores comerciais, industriais e hospitalares devem ser colocados exclusivamente em contentores próprios, individualizados, cuja aquisição é da responsabilidade da entidade produtora ou detentora desses resíduos e de modelo aprovado pela Câmara Municipal.
+
+2 - Os produtores de resíduos sólidos hospitalares ou equiparados são responsáveis pelo acondicionamento destes resíduos, devendo proceder à triagem na fonte, deforma a garantir que os resíduos do Grupo III e IV - Resíduos contaminados, não sejam integrados no sistema de gestão dos RSU de acordo com o [Despacho n.º 242/96](https://diariodarepublica.pt/dr/detalhe/despacho/242-1996-1301985), de 15 de Julho, do Ministério da Saúde.
+
+3 - É obrigatório do responsável pela deposição proceder à diminuição do volume dos resíduo sólidos a depositar, através do esmagamento manual de embalagens, ou outros susceptíveis desta operação.
+
+4 - Os contentores devem ser colocados no local aprovado pela Câmara Municipal com vista à remoção dos resíduos, respeitando o horário de remoção referido ao artigo 17º.
+
+5 - Os contentores devem conservar-se vazios, fechados e limpos, fora dos períodos estabelecidos para a deposição. A limpeza, manutenção e substituição destes recipientes é da responsabilidade do seu proprietário.
+
+6 - Os resíduos sólidos actualmente valorizáveis provenientes de estabelecimentos comerciais ou de serviços em que a respectiva produção semanal exceda os 1100 litros por material valorizável, devem ser depositados nos ecocentros.
+
+### CAPÍTULO VI — Entulhos
+
+###### Artigo 160º — (Da responsabilidade das entidades produtoras)
+
+Os empreiteiros ou promotores de obras ou trabalhos que produzam ou causem entulhos são responsáveis pela sua remoção e destino final, devendo promover a sua recolha, transporte, armazenagem, valorização e destino final, de tal forma que não ponham em perigo a saúde pública nem causem prejuízos ao ambiente ou à limpeza e higiene dos dois locais públicos.
+
+###### Artigo 161º — (Da deposição e transporte)
+
+1 - A deposição e o transporte dos entulhos, incluindo terras, devem efectuar-se de molde a evitar o seu espalhamento pelo ar ou no solo.
+
+2 - Os empreiteiros de quaisquer obras devem proceder à limpeza de quaisquer trabalhos, de molde a evitar o espalhamento e a acumulação de terras nas ruas, estradas e caminhos municipais.
+
+3 - Os empreiteiros e donos de obras devem zelar por não depositar ou deixar cair nos passeios e via pública qualquer entulho de obra, excepto nos locais vedados adstritos à própria obra.
+
+###### Artigo 162º — (Das condutas proibidas)
+
+Na área geográfica do município de Vinhais não é permitido despejar entulhos em quaisquer locais públicos ou terrenos privados, sem prévio licenciamento da entidade competente.
+
+### CAPÍTULO VII — Pneus usados e sucatas
+
+###### Artigo 163º — (Da responsabilidade)
+
+1 - Os possuidores de pneus usados que deles não se desfaçam nos termos da lei aplicável, devem colocá-los nos pontos acreditados pela VALORPNEU para o efeito, ou onde a Câmara Municipal, se requerido, indicar.
+
+A VALORPNEU - Sistema de Gestão de Pneus Usados (SGPU) tem por objectivo a organização e a gestão do sistema de recolha e destino final de pneus usados, no quadro do sistema integrado previsto no [Decreto-Lei n.º 111/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2001-362316), de 6 de Abril, o qual estabelece os princípios e as normas aplicáveis à gestão de pneus e pneus usados.
+
+2 - A deposição de sucata deve ser feita nos termos da Legislação em vigor.
+
+### CAPÍTULO VIII — Resíduos sólidos provenientes de espaços do domínio público de uso privativo
+
+###### Artigo 164º — (Da responsabilidade das entidades produtoras)
+
+1 - É da exclusiva responsabilidade dos titulares das respectivas licenças, a limpeza dos espaços do domínio público afectos a uso privativo.
+
+2 - A obrigação de limpeza dos referidos espaços compreende a totalidade da área usada, acrescida de uma zona com 2m de largura em toda a sua zona envolvente.
+
+3 - A deposição dos resíduos resultante da limpeza referida neste artigo deve ser nos termos definidos para os RSU.
+
+### CAPÍTULO IX — Das contra-ordenações
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 165º — (Da contra-ordenação)
+
+1 - Além da responsabilidade civil ou criminal que ao caso couber, constitui contra-ordenação, punível com coima, qualquer violação ao disposto no presente regulamento.
+
+2 - A negligência e a tentativa são sempre puníveis.
+
+###### Artigo 166º — (Da fiscalização)
+
+1 - Compete à fiscalização municipal e às autoridades policiais investigação e participação de quaisquer factos susceptíveis de constituírem contra-ordenação.
+
+2 - Nas situações em que exista delegação de serviços de gestão de resíduos sólidos, as entidades responsáveis pela sua execução podem efectuar a participação à Câmara Municipal de quaisquer factos susceptíveis de constituírem contra-ordenação.
+
+###### Artigo 167º — (Pessoas colectivas)
+
+Sempre que a contra-ordenação tenha sido praticada por uma pessoa colectiva, as coimas previstas neste Regulamento poderão elevar-se até aos montantes máximos previstos no artigo 17º, n.º 3, do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 17 de Outubro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de Setembro.
+
+###### Artigo 168º — (Da competência)
+
+1 - É competente para o processamento das contra-ordenações e aplicação das coimas constantes do presente Regulamento a Câmara Municipal de Vinhais
+
+2 - A competência a que se refere o artigo anterior é delegável, em qualquer dos membros daquele órgão, nos termos gerais.
+
+#### SECÇÃO II — Das contra-ordenações contra a higiene e limpeza dos lugares públicos
+
+###### Artigo 169º — (Higiene e limpeza dos lugares públicos)
+
+Constituem contra-ordenações puníveis com as coimas previstas neste artigo, as seguintes infracções:
+
+1 - Colocar na via pública e demais lugares públicos quaisquer resíduos fora dos recipientes destinados à sua deposição é punível com uma coima de (euro) 50 até ao valor do ordenado mínimo nacional fixado para os trabalhadores por conta de outrem, salvo se, em função do tipo de resíduo, outra disposição assinalar pena diversa, caso em que será esta a aplicável.
+
+2 - Deixar de fazer a limpeza dos resíduos provenientes da carga ou descarga de veículos, na via pública, é punível com coima de (euro) 50 até ao valor de um ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+3 - Deixar derramar na via pública quaisquer materiais que sejam transportados em viaturas, é punível com coima de um terço a uma vez o ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+4 - Despejar cargas de veículos, total ou parcialmente, na via pública com prejuízo para a limpeza urbana, é punível com coima de terço a uma vez o ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+5 - Deixar, pelos respectivos donos ou acompanhantes, que canídeos ou outros animais defequem nas zonas pedonais, a menos que os eu dono ou acompanhante promova de imediato a remoção dos dejectos, é punível com coima de (euro) 50 até a um ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+6 - Lançar alimentos ou detritos alimentares para alimentação de animais na via pública, excepto nos casos expressamente permitidos pela Câmara Municipal, é punível com coima de (euro) 50 a um ordenado mínimo nacional fixado para os trabalhadores por contra de outrem;
+
+7 - Lançar águas na via pública é punível com coima de (euro) 50 a um ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+8 - Lançar nas sarjetas ou sumidouros detritos ou dejectos, é punível com coima de (euro) 50 a um ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+9 - Lançar ou abandonar animais mortos ou parte deles na via pública é punível com coima de um terço a uma vez o ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+10 - Lançar ou abandonar objectos cortantes ou contundentes como frascos, vidros, latas, etc.., que possam constituir perigo para o trânsito de pessoas e veículos, na via pública, é punível com coima de (euro) 50 a um ordenado mínimo nacional, fixado para os trabalhadores por conta de outrem;
+
+11 - Lavar viaturas na via pública é punível com coima de (euro) 50 a um ordenado mínimo nacional, fixado para os trabalhadores por conta de outrem;
+
+12 - Regar flores em varandas ou quaisquer outros locais, de modo a derramar água na via pública desde as 8 às 22 horas, é punível com coima de (euro) 50 a um ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+13 - Sacudir ou bater cobertores, capachos, esteirões, tapetes ou alcatifas, fatos, roupas ou outros objectos das janelas e das portas para a rua, ou nesta, bem como colocar roupa a secar de modo a deixar cair água para a via pública, entre as 8 às 22 horas, é punível com coima de (euro) 50 a um ordenado mínimo nacional, fixado para os trabalhadores por conta de outrem;
+
+14 - Cuspir, urinar, defecar na via pública ou lançar pontas de cigarro ou quaisquer outros lixos para a via pública, é punível com coima de (euro) 50 a um ordenado mínimo nacional, fixado para os trabalhadores por conta de outrem;
+
+15 - Vazar ou deixar correr águas poluídas, imundícies, tintas e óleos para avia pública, é punível com coima de (euro) 50 a um ordenado mínimo nacional, fixado para os trabalhadores por conta de outrem;
+
+16 - Lavar passeios e montras com água corrente, das 8 às 20 horas, é punível com coima de (euro) 50 a um ordenado mínimo nacional, fixado para os trabalhadores por conta de outrem.
+
+#### SECÇÃO III — Das contra-ordenações pela utilização indevida de recipientes
+
+###### Artigo 170º — (Da má utilização de recipientes)
+
+Constituem contra-ordenações puníveis com as coimas previstas neste artigo, as seguintes infracções:
+
+1 - Lançar nos recipientes que a Câmara Municipal de Vinhais coloca à disposição dos utentes, resíduos distintos daqueles a que os mesmos se destinam, é punível com coima de um terço a duas vezes o ordenado mínimo nacional fixado para os trabalhadores por conta de outrem, salvo se, em função da natureza dos resíduos, outra disposição assinalar pena diversa, caso em que será esta a aplicável.
+
+2 - Não fechar devidamente a tampa dos recipientes que a possuam, é punível com coima de (euro) 25 a metade do ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+3 - A fixar publicidade nos recipientes, é punível com coima de (euro) 50 a metade do ordenado mínimo nacional fixado para os trabalhadores por conta de outrem.
+
+#### SECÇÃO IV — Das contra-ordenações pela má disposição dos resíduos sólidos urbanos
+
+###### Artigo 171º — (Da deposição de resíduos sólidos urbanos)
+
+Constituem contra-ordenações puníveis com as coimas previstas neste artigo, as seguintes infracções:
+
+1 - Acondicionar os resíduos sólidos urbanos em contravenção ao disposto no artigo 154º do presente Regulamento é punível com coima de (euro) 25 a metade do ordenado mínimo nacional fixado para os trabalhadores por conta de outrem.
+
+2 - Deposição dos resíduos em violação do disposto no artigo 149º é punível com coima de um ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+3 - A deposição de resíduos sólidos nos recipientes colocados na via pública para uso geral da população, fora dos horários estabelecidos, é punível com coima de (euro) 50 a um ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+4 - A deposição em qualquer local do concelho de Vinhais de objectos domésticos fora de uso ou de apara de jardins, em violação do disposto no artigo 156º, é punível com coima de uma a duas vezes o ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+5 - Depositar pela sua própria iniciativa ou não prevenir a Câmara Municipal, sendo conhecedor de que a sua propriedade está a ser utilizada para deposição de resíduos sólidos, em vazadouro a céu aberto, ou sob qualquer forma prejudicial ao meio ambiente, é punível com coima de uma a quatro vezes o ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+6 - Remover, remexer ou escolher resíduos nos contentores, é punível com coima de (euro) 50 a um ordenado mínimo nacional fixado para os trabalhadores por conta de outrem.
+
+#### SECÇÃO V — Das contra-ordenações pela má deposição dos resíduos valorizáveis
+
+###### Artigo 172º — (Dos resíduos sólidos valorizáveis)
+
+A deposição dos resíduos sólidos valorizáveis a que se refere o capítulo IV, em violação do disposto no artigo 158º, é punível com coima de uma a duas vezes o ordenado mínimo nacional fixado para os trabalhadores por conta de outrem.
+
+#### SECÇÃO VI — Das contra-ordenações pela má disposição dos resíduos sólidos comerciais, industriais e hospitalares equiparados a RSU, provenientes de grandes produtores
+
+###### Artigo 173º — (Da deposição dos resíduos)
+
+1 - Constituem contra-ordenações puníveis com coima de 2 a 20 vezes o ordenado mínimo nacional para os trabalhadores por conta de outrem, as infracções ao disposto no artigo 160º.
+
+2 - Despejar, lançar, depositar ou abandonar este tipo de resíduos sólidos em qualquer terreno situado na área do concelho de Vinhais, constitui contra-ordenação punível com coima de 4 a 20 vezes o ordenado mínimo nacional fixado para os trabalhadores por conta de outrem.
+
+###### Artigo 174º — (Da deposição de entulhos, pneus usados e sucata)
+
+Constitui contra-ordenação punível com coima de 4 a 12 vezes o ordenado mínimo nacional fixado para os trabalhadores por conta de outrem a violação do disposto nos artigos 161º, 162º, 163º e 164º, independentemente da obrigatoriedade de os infractores procederem à remoção dos entulhos e outros materiais no prazo que lhe foi fixado pela Câmara Municipal.
+
+###### Artigo 175º — (Dos outros resíduos especiais)
+
+A recolha, transporte, armazenagem, eliminação ou utilização dos resíduos sólidos a que se refere o artigo 164º, em violação dos n.os 2 e 3 do mesmo artigo, é punível com coima de um a quatro vezes o ordenado mínimo nacional fixado para os trabalhadores por conta de outrem.
+
+###### Artigo 176º — (Queima a céu aberto)
+
+A queima a céu aberto de resíduos de qualquer natureza é punível nos termos do n.º 1 do artigo 13º do Decreto-Lei n.º 78 / 2004, de 3 de Abril.
+
+#### SECÇÃO VII — Das contra-ordenações contra o sistema de resíduos sólidos
+
+###### Artigo 177º — (Sistema de resíduos sólidos)
+
+Constituem contra-ordenações puníveis com as coimas previstas neste artigo, as seguintes infracções:
+
+1 - A destruição e danificação de qualquer recipiente destinado à deposição de resíduos, é punível com coima de um terço a cinco vezes o ordenado mínimo nacional fixado para os trabalhadores por conta de outrem, independentemente do pagamento integral do valor da sua substituição pelo infractor;
+
+2 - Desviar dos seus lugares os contentores que se encontrem na via pública, quer sirvam a população em geral, quer se destinem a apoio de serviços de limpeza, é punível com coima de um terço a metade do ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+3- Impedir, por qualquer meio, os munícipes ou aos serviços municipais de limpeza, o acesso aos recipientes colocados na via pública para deposição dos resíduos sólidos, é punível com coima de um terço a metade do ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+4 - Instalar sistemas de deposição e compactação dos resíduos sólidos, em desacordo com o disposto neste Regulamento e nas normas técnicas sobre os sistemas de deposição de resíduos sólidos, é punível com coima de 10 a 20 vezes o ordenado mínimo nacional fixado para os trabalhadores por conta de outrem, além da obrigação de executar a transformações de sistema necessárias, que forem determinadas no prazo que lhe for assinalado pela Câmara Municipal.
+
+5 - A remoção de resíduos por entidade que para tal não esteja devidamente autorizada é punível com coima de uma a quatro vezes o ordenado mínimo nacional fixado para os trabalhadores por conta de outrem;
+
+6 - A utilização de outros recipientes destinados à deposição de resíduos sólidos urbanos, para além do previsto neste Regulamento ou aprovados pela Câmara Municipal é punível com coima de um a dois ordenados mínimo nacional, fixado para os trabalhadores por conta de outrem.
+
+###### Artigo 178º — (Das obras na via pública)
+
+Sempre que quaisquer obras, construções ou outros trabalhos sejam iniciados por particulares ou pessoas colectivas, que obstem ao normal funcionamento do sistema de remoção, pode a Câmara Municipal embargá-los, e proceder, ou mandar proceder à sua demolição.
+
+## TÍTULO IV — Disposições finais e transitórias
+
+### CAPÍTULO ÚNICO
+
+#### SECÇÃO ÚNICA
+
+###### Artigo 179º — (Âmbito de Aplicação)
+
+A partir da entrada em vigor deste Regulamento, serão por ele regidos todos os fornecimentos de água, incluindo aqueles que se encontrarem em curso, bem como todas as matérias relativas à drenagem de águas residuais e à recolha de resíduos sólidos urbanos (RSU's).
+
+###### Artigo 180º — (Desburocratização e desconcentração de poderes
+
+Na exigência do cumprimento das normas deste Regulamento, deve a Câmara Municipal e as entidades que com ela colaborem ter a preocupação da eficiência, qualidade do serviço e atenção aos utilizadores, adoptando, para o efeito as medidas que sendo razoáveis e permitidas, se afigurem mais favoráveis e facilitadoras.
+
+###### Artigo 181º — (Intimações)
+
+O vereador com responsabilidades no Pelouro respectivo exercerá os poderes para proceder às intimações que se afigurem necessárias para o cumprimento do disposto neste Regulamento, tendo estas a mesma executoriedade e definitividade de idênticos actos praticados pela Câmara Municipal.
+
+###### Artigo 182º — (Revogação)
+
+São revogados os anteriores Regulamento do Serviço de Abastecimento de Água do Concelho de Vinhais e Regulamento de Drenagem de Águas Residuais do Município de Vinhais.
+
+###### Artigo 183º — (Entrada em vigor)
+
+Este Regulamento entra em vigor no trigésimo dia após a sua publicação.
+
+###### Artigo 184.º — (Revisão)
+
+O presente Regulamento será revisto sempre que necessário, e tendo em conta a Legislação em vigor e outras disposições legais e regulamentares aplicáveis.
+
+ANEXOS
+
+Tarifário para fornecimento de água (Vila de Vinhais)
+
+Consumo doméstico
+
+0 a 5 m3 - (euro) 0,35;
+
+6 a 15 m3 - (euro) 0,65;
+
+A partir de 16 m3 - (euro)1,55.
+
+Consumo comercial, industrial, agrícola e obras
+
+Escalão único - (euro) 1,07.
+
+Estado e entidades públicas
+
+Escalão único - (euro) 1,00.
+
+Instituições de utilidade pública, solidariedade social, igrejas, empresas municipais ou com capital municipal
+
+Escalão único - (euro) 0,59.
+
+Quota de disponibilidade do serviço
+
+Ligações Definitivas
+
+15 mm - (euro) 2,17;
+
+20 mm - (euro) 4,05;
+
+25 mm - (euro) 7,03;
+
+32 mm - (euro) 8,12;
+
+40 mm - (euro) 10,82;
+
+A partir 50 mm - (euro) 16,24.
+
+Ligações Provisórias/Restabelecimento da ligação
+
+15 mm - (euro) 8,12;
+
+20 mm - (euro) 16,24;
+
+A partir de 25 mm - (euro) 32,46.
+
+Locais sem contador (Valor único)
+
+Água (euro) 2;
+
+RSU's (euro) 2;
+
+TSan (euro) 1,50.
+
+Tarifa de saneamento - (euro) 0,28/ m3
+
+RSU's
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/01/007000000/0132501346.pdf)
+
+Tarifário para fornecimento de água (meio rural)
+
+1.º Escalão (até 5 m3):
+
+(euro) 5,00.
+
+2.º Escalão (6 a 15 m3):
+
+Água (euro) 0,35/m3;
+
+RSU's (euro) 0,20/m3;
+
+TSan 0,25/m3.
+
+3.º Escalão (A partir de 16 m3):
+
+Água (euro) 1,55/m3;
+
+RSU's (euro) 0,20/m3;
+
+TSan (euro) 0,25/m3.
+
+Quota de disponibilidade do serviço
+
+Ligações Definitivas
+
+15 mm - (euro) 2,17;
+
+20 mm - (euro) 4,05;
+
+25 mm - (euro) 7,03;
+
+32 mm - (euro) 8,12;
+
+40 mm - (euro) 10,82;
+
+A partir 50 mm - (euro) 16,24.
+
+Ligações Provisórias / Restabelecimento da ligação
+
+15 mm - (euro) 8,12;
+
+20 mm - (euro) 16,24;
+
+A partir de 25 mm - (euro) 32,46.
+
+Locais sem contador (Valor único)
+
+Água (euro) 2;
+
+RSU's (euro) 2;
+
+TSan (euro) 1,50.
+
+0bs: A tarifa relativa ao 1.º escalão consumo de água até 5 m3, restantes serviços e quota de disponibilidade, com excepção das instalações provisórias para obras que estão sujeitas a quota de disponibilidade em função do calibre do contador instalado.
+
+As tarifas individualizadas referentes ao consumo de água, RSU's e saneamento, aplicam-se aos consumos superiores a 5 m3.
+
+A tarifa de saneamento só é aplicada se a respectiva ligação ao colector municipal estiver efectuada.
+
+Outros:
+
+Fornecimento de contadores
+
+Preços fixos:
+
+1/2'' - (euro) 25;
+
+3/4'' - (euro) 35;
+
+3/4'' a 1'' - (euro) 40;
+
++ 1'' - (euro) 45.
+
+Verificação extraordinária de contadores
+
+Preço fixo - (euro) 10.
+
+TITULO III DO REGULAMENTO
+
+Higiene e salubridade
+
+#### SECÇÃO I — Taxas
+
+Limpeza e saneamento urbano
+
+1 - Limpeza de fossas ou colectores particulares:
+
+a) Por cisterna - (euro) 6,67;
+
+b) Por cada quilómetro percorrido - (euro) 0,42.
+
+2 - Esgotos:
+
+- Desobstrução de canalizações de esgotos interiores - por deslocação - (euro) 22,21.

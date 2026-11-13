@@ -1,0 +1,313 @@
+---
+schema_version: '1.0'
+id: pt:dre:130210215:por
+title: Regulamento n.º 233/2020
+short_title: null
+summary: Regulamento Relativo às Despesas Elegíveis e à Prestação de Contas
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Cultura - Instituto do Cinema e do Audiovisual, I. P.
+proposing_entity: null
+official_number: 233/2020
+official_date: null
+publication_date: '2020-03-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 52/2020, Série II de 2020-03-13
+  number: '52'
+  series: II
+  supplement: null
+  pages: 63 - 68
+  pdf_url: https://files.diariodarepublica.pt/2s/2020/03/052000000/0006300068.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '130210215'
+  dre_path: /dr/detalhe/regulamento/233-2020-130210215
+  internal: pt:dre:130210215:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/233-2020-130210215
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/233-2020-130210215
+  consolidated_url: null
+  retrieved_at: '2026-11-13T06:54:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 271f3a9b80bd120be268dd8a2aa6403dc38e4a654cb0875f5494454e5f967621
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T06:54:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Auditoria Financeira
+- Concurso
+- Financiamento
+- Instituto do Cinema e do Audiovisual
+- Prestação de Contas
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:115172414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119847774:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:158637241:por
+  label: Revogado, a partir de 23.02.2021, pelo(a) Regulamento n.º 179/2021 - Diário da República n.º 42/2021, Série II de
+    2021-03-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/regulamento/179-2021-158637241
+  date: '2021-03-02'
+- type: repealed_by
+  target: pt:dre:859921910:por
+  label: Revogado, a partir de 20 de fevereiro de 2024, pelo(a) Regulamento n.º 406/2024 - Diário da República n.º 71/2024,
+    Série II de 2024-04-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/regulamento/406-2024-859921910
+  date: '2024-04-09'
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T06:54:05Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 233/2020
+
+Ao abrigo do disposto no n.º 5 do artigo 5.º e do artigo 19.º do [Decreto-Lei n.º 25/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2018-115172414), de 24 de abril, o Conselho Diretivo do Instituto do Cinema e do Audiovisual, ICA, I. P., aprovou, por deliberação, o Regulamento Relativo às Despesas Elegíveis, referente aos Concursos de apoio financeiro a promover por este Instituto.
+
+Para os devidos efeitos, publica-se em anexo o referido Regulamento, que entra em vigor no dia 18 de fevereiro de 2020.
+
+Regulamento Relativo às Despesas Elegíveis e à Prestação de Contas
+
+###### Artigo 1.º — Objeto
+
+O presente Regulamento estabelece os procedimentos e documentos necessários à verificação das despesas elegíveis para a concretização do projeto, em cumprimento do disposto no artigo 19.º do [Decreto-Lei n.º 25/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2018-115172414), de 24 de abril.
+
+###### Artigo 2.º — Objetivo do financiamento
+
+1 - As verbas atribuídas destinam-se a financiar as despesas do projeto aprovado, com observância dos termos, condições e orçamento previstos no contrato celebrado com o ICA.
+
+2 - A gestão do apoio atribuído é da responsabilidade da entidade beneficiária.
+
+###### Artigo 3.º — Despesas elegíveis e prazos
+
+1 - A elegibilidade das despesas é determinada pela sua natureza, razoabilidade, relação com o projeto e enquadramento com a legislação aplicável.
+
+2 - Consideram-se elegíveis as despesas efetivamente pagas, que direta e justificadamente contribuam para a execução do projeto, nomeadamente, as que constam nas rubricas do modelo do orçamento aprovado pelo ICA, sem prejuízo do estipulado nos anexos ao Regulamento Geral.
+
+3 - São consideradas despesas elegíveis do projeto as que correspondam a despesas realizadas após a data de entrega da candidatura ao apoio atribuído.
+
+4 - A título excecional, podem ser consideradas elegíveis as despesas realizadas nos 180 dias que antecedem a entrega da candidatura, desde que, de forma fundamentada e evidenciada, se possa relacionar a execução dessas despesas com o desenvolvimento do projeto, que constará no clausulado do contrato.
+
+5 - São ainda consideradas despesas elegíveis, as despesas relacionadas com a aquisição de direitos de autor, direitos de distribuição e de exibição, às quais não se aplica qualquer prazo para a sua realização, desde que, comprovadamente, sejam imputáveis ao projeto apoiado.
+
+6 - São consideradas despesas não elegíveis:
+
+a) Depreciações e amortizações de equipamento cuja compra tenha sido financiada por fundos públicos (comunitários e/ou nacionais);
+
+b) Regularização de passivo, exceto no que respeita a financiamentos bancários incorridos para o desenvolvimento do projeto apoiado pelo ICA;
+
+c) Pagamento de juros de dívida, exceto no que respeita a financiamento bancário incorrido para financiamento do projeto apoiado pelo ICA;
+
+d) Custos já integralmente cobertos por outros apoios públicos.
+
+7 - Os encargos gerais de estrutura da entidade beneficiária são considerados como despesas elegíveis quando forem imputáveis ao projeto e apenas até ao limite máximo de 15 % do valor do apoio financeiro do ICA.
+
+8 - Os encargos gerais da estrutura são os encargos necessários à prossecução da atividade do beneficiário e que são comuns a vários projetos.
+
+9 - Podem ser enquadrados na categoria de encargos gerais de estrutura, nomeadamente os seguintes tipos de despesa:
+
+a) Consumos de energia;
+
+b) Água;
+
+c) Comunicações;
+
+d) Apoio informático;
+
+e) Manutenção de equipamento;
+
+f) Limpeza, segurança e vigilância;
+
+g) Seguros associados à estrutura;
+
+h) Combustíveis;
+
+i) Documentação técnica;
+
+j) Rendas das instalações;
+
+k) Aquisição de serviços externos de contabilidade, jurídicos e outros;
+
+l) Pessoal administrativo;
+
+m) Depreciações de equipamento desde que suportadas pela fatura de aquisição do mesmo e o mapa fiscal de amortizações e na proporção da utilização do equipamento para a concretização do projeto;
+
+n) Outras despesas administrativas e consumíveis.
+
+10 - Para determinação do valor das despesas elegíveis comparticipáveis, é deduzido o IVA sempre que a entidade beneficiária seja sujeito passivo desse imposto e possa exercer o direito à respetiva dedução.
+
+11 - Apenas podem ser financiadas despesas suportadas por faturas originais e recibos fiscalmente válidos, ou documentos de quitação equivalentes, emitidos em nome da entidade beneficiária, relativos ao período de execução do projeto.
+
+12 - Para efeitos de limite de despesa contratada, a uma entidade diferente da beneficiária, considera-se como elegível o limite máximo correspondente a 40 % do apoio concedido.
+
+13 - As eventuais alterações ao projeto apoiado são objeto de adenda contratual.
+
+###### Artigo 4.º — Contabilidade específica
+
+1 - As despesas efetuadas no âmbito do projeto financiado devem ser contabilizadas de acordo com as normas contabilísticas que lhe sejam aplicáveis, devendo a entidade beneficiária manter o processo atualizado e os originais dos documentos devidamente arquivados, de acordo com a organização da contabilidade a que a entidade se encontra obrigada.
+
+2 - Os beneficiários ficam ainda obrigados a:
+
+a) Elaborar a contabilidade específica do projeto obrigatoriamente sob a responsabilidade de um contabilista certificado e, nos casos de apoio igual ou superior a (euro) 400.000,00 devem ser ainda certificadas por um revisor oficial de contas, conforme modelos aprovados pelo ICA, anexos ao presente Regulamento;
+
+b) Dispor de um centro de custo por projeto, que permita a individualização contabilística das despesas imputadas a cada um dos projetos, de acordo com as rubricas do orçamento aprovado, devendo ser organizados tantos centros de custos quantos os apoios atribuídos ao mesmo projeto;
+
+c) No caso de custos comuns, identificar a chave de imputação ao centro de custos;
+
+d) Organizar um centro de custo por edição ou ano letivo, no caso de apoios plurianuais;
+
+e) Identificar e registar nos originais de todos os documentos relativos às despesas imputadas a cada um dos projetos, a informação correspondente à designação do apoio, número do contrato, nome do projeto, valor ou % imputado e o número de ordem/lançamento na contabilidade, preferencialmente, através da aposição de um carimbo.
+
+3 - No caso de o beneficiário não ser obrigado a dispor de contabilidade organizada, fica dispensado da apresentação dos elementos referidos nas alíneas b) e d) do número anterior.
+
+4 - Quando um mesmo documento for imputável a diversos projetos, pode ser anexada ao original uma folha que discrimine as percentagens a suportar por cada projeto.
+
+5 - O modelo do carimbo referido na alínea e) do n.º 2 é o seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/03/052000000/0006300068.pdf)
+
+###### Artigo 5.º — Justificação de despesas
+
+Os beneficiários estão obrigados a:
+
+a) Organizar e elaborar uma listagem justificativa dos documentos de despesa e pagamentos efetuados e imputados a cada um dos projetos apoiados, conforme o modelo justificativo de despesas aprovado pelo ICA (anexo I ao presente Regulamento);
+
+b) Submeter, quando solicitado, cópias dos documentos comprovativos de despesa constantes da listagem, selecionados de forma aleatória, e que correspondem a um mínimo de 10 % das despesas imputadas, para verificação financeira, num prazo máximo de 10 dias úteis;
+
+c) Preencher devidamente as listagens de despesas, datadas e assinadas de acordo com as notas que constam do próprio mapa.
+
+###### Artigo 6.º — Prestação de contas
+
+1 - Para efeitos de prestação de contas intercalares, a entidade beneficiária remete ao ICA a listagem justificativa dos documentos de despesa imputada ao projeto e respetivo pagamento, conforme modelo aprovado pelo ICA (anexo I ao presente Regulamento) bem como uma declaração, sob compromisso de honra, que ateste o cumprimento das obrigações remuneratórias para com o pessoal criativo, artístico, técnico ou qualquer outro trabalhador envolvido na execução do projeto (anexo V ao presente Regulamento).
+
+2 - Para efeitos de pagamento de prestações intercalares, pode o ICA autorizar nova prestação mediante a apresentação da listagem justificativa dos documentos de despesas e respetivo pagamento, demonstrando a execução de pagamentos de, pelo menos, 30 % do valor dos montantes já entregues pelo ICA.
+
+3 - Na prestação de contas finais a entidade beneficiária deve ainda entregar:
+
+a) Relatório de execução orçamental organizado de acordo com o orçamento aprovado, que reflita eventuais desvios encontrados relativamente ao orçamentado (anexo II ao presente Regulamento);
+
+b) Declaração do contabilista certificado e/ou revisor oficial de contas, consoante o valor do apoio, conforme os modelos sugeridos pelo ICA (anexo III ao presente Regulamento);
+
+c) Montagem financeira final que evidencie as informações relativas às fontes de financiamento do projeto, com indicação e apresentação dos documentos de suporte ao financiamento, conforme modelo aprovado pelo ICA (anexo IV ao presente Regulamento);
+
+d) Declaração, sob compromisso de honra, que ateste o cumprimento das obrigações remuneratórias com pessoal criativo, artístico, técnico e outro na execução do projeto (anexo V ao presente Regulamento).
+
+4 - O envio da documentação relativa à prestação de contas é feito por via eletrónica, assegurando que a mesma se encontra legível e identificada.
+
+5 - A verificação do limite do apoio a atribuir pelo ICA recai sobre o custo total do projeto refletido na montagem financeira final, devendo o beneficiário apresentar na listagem justificativa todas as despesas relativas ao custo total do projeto, comprovadas por documentos contabilísticos e aceites para efeitos fiscais e elegíveis ao projeto.
+
+6 - Excecionalmente, e sem prejuízo do número anterior, para verificação dos montantes não financiados pelo ICA, são considerados para efeitos do custo total dos projetos e podem ser incluídos na montagem financeira final:
+
+a) Documentos de despesa, emitidos pela própria entidade beneficiária ou por outras empresas da mesma entidade beneficiária, quando evidenciada a contrapartida e que essa foi indispensável à concretização do projeto, por valores normais dentro do mercado;
+
+b) Despesas incluídas no orçamento do projeto que foram suportadas por entidades terceiras, desde que validadas por contratos ou declarações dessas entidades que comprovem os valores incluídos, discriminando os serviços prestados.
+
+7 - Em sede de apresentação de contas finais, e no que respeita a apoios à produção, o ICA procede à verificação do cumprimento do limite de apoios públicos, estabelecido nos artigos 7.º e 8.º do [Decreto-Lei n.º 25/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2018-115172414), de 24 de abril.
+
+8 - Consideram-se, para efeitos do cálculo do limite de acumulação de apoios públicos, os apoios financeiros bem como não financeiros, nomeadamente logísticos, desde que quantificados, atribuídos por entidades públicas.
+
+9 - Às despesas que forem feitas durante a execução do projeto em moeda estrangeira, para efeito de prestação de contas intercalares e de contas finais, é aplicada a taxa de câmbio à data de pagamento.
+
+10 - Para além dos documentos acima mencionados, fica a entidade beneficiária com a obrigação de prestar todos os esclarecimentos referentes à execução do projeto e/ou envio de demais documentação, sempre que o ICA ou entidade externa indicada por este o solicitar.
+
+11 - O custo suportado por coprodutores estrangeiros é contabilizado, para efeitos da definição do custo total do projeto, desde que validado por documento que certifique a contribuição do produtor estrangeiro para o projeto, designadamente o orçamento executado validado por entidade certificada local.
+
+###### Artigo 7.º — Obrigações do beneficiário para efeitos de pagamento
+
+1 - É obrigação do beneficiário garantir o cumprimento das datas estabelecidas nos cronogramas financeiros, entregues aquando da assinatura do contrato.
+
+2 - Caso as entidades beneficiárias pretendam alterar o cronograma financeiro, devem submeter um pedido de reprogramação devidamente fundamentado, sendo objeto de validação pelo ICA.
+
+3 - O beneficiário recebe email do ICA trinta dias antes da data prevista para o pagamento de cada prestação, para confirmar a data prevista no cronograma financeiro, tendo de responder até cinco dias úteis após a receção.
+
+4 - Caso o beneficiário confirme a data prevista, tem de submeter a documentação associada à prestação, até quinze dias antes da data do pagamento.
+
+5 - Caso o beneficiário não confirme a data prevista, deve realizar uma reprogramação do cronograma financeiro, aguardando a validação do ICA, e recebendo, oportunamente, novo email para a confirmação desta data.
+
+6 - Caso o beneficiário não responda ao email enviado ICA, ou caso responda, mas não cumpra o procedimento previsto nos n.os 2 a 4, não há lugar a pagamento, devendo o procedimento ser reiniciado, com a inserção de nova proposta de reprogramação das prestações pendentes.
+
+7 - Durante o prazo de análise, o ICA pode solicitar esclarecimentos, os quais devem ser enviados e validados para que o pagamento possa ser efetuado na data prevista.
+
+8 - As regras estabelecidas nos números anteriores não se aplicam nos casos de prestações relativas à assinatura do contrato.
+
+###### Artigo 8.º — Pagamentos
+
+1 - Os pagamentos são realizados após a confirmação, submissão e validação da documentação solicitada nos termos do artigo anterior.
+
+2 - Os pagamentos são efetuados para o IBAN que consta no contrato ou no termo de aceitação e na aplicação informática.
+
+3 - Os pagamentos são, regra geral, efetuados duas vezes por mês, no dia 15 e no último dia do mês.
+
+4 - Sempre que o dia de pagamento coincidir com um fim de semana ou feriado, o mesmo é efetuado no dia útil anterior.
+
+###### Artigo 9.º — Realização de auditorias
+
+O ICA reserva-se o direito à realização de auditorias financeiras e contabilísticas ficando as entidades obrigadas a disponibilizar todos os elementos relacionados com o apoio concedido.
+
+###### Artigo 10.º — Documentação do apoio financeiro
+
+As entidades devem manter organizada e disponível toda a documentação relacionada com o apoio financeiro, guardando-a durante o período legalmente estabelecido.
+
+###### Artigo 11.º — Revogação
+
+É revogado o [Regulamento n.º 169/2019](https://diariodarepublica.pt/dr/detalhe/regulamento/169-2019-119847774), de 20 de fevereiro.
+
+18 de fevereiro de 2020. - O Presidente do Conselho Diretivo, Luís Chaby Vaz. - A Vice-Presidente do Conselho Diretivo, Maria Mineiro.
+
+## ANEXO I — (Disponível na página de Internet do ICA)
+
+## ANEXO II — (Disponível na página de Internet do ICA)
+
+## ANEXO III — (Disponível na página de Internet do ICA)
+
+## ANEXO IV — (Disponível na página de Internet do ICA)
+
+## ANEXO V — (Disponível na página de Internet do ICA)
+
+313033307

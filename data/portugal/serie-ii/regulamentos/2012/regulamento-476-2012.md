@@ -1,0 +1,449 @@
+---
+schema_version: '1.0'
+id: pt:dre:2847327:por
+title: Regulamento n.º 476/2012
+short_title: null
+summary: Regulamento Hortas Comunitárias LagoaSocial
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Lagoa (Algarve)
+proposing_entity: null
+official_number: 476/2012
+official_date: null
+publication_date: '2012-11-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 225/2012, Série II de 2012-11-21
+  number: '225'
+  series: II
+  supplement: null
+  pages: 37724 - 37728
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/11/225000000/3772437728.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2847327'
+  dre_path: /dr/detalhe/regulamento/476-2012-2847327
+  internal: pt:dre:2847327:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/476-2012-2847327
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/476-2012-2847327
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:20:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c6f7c874483edde45c7fd45e2e5de6ff1134059db2780d58304baba86f2d7f44
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:20:52Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+article_structure:
+  article_count: 21
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:20:52Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 476/2012
+
+Dr. José Inácio Marques Eduardo, Presidente da Câmara Municipal de Lagoa (Algarve), torna público que, a Assembleia Municipal de Lagoa aprovou em sua sessão extraordinária realizada no dia 1 de outubro de 2012, sob proposta da Câmara Municipal, aprovada na reunião ordinária realizada no dia 17 de julho de 2012 o «Regulamento Hortas Comunitárias LagoaSocial», cujo projeto foi publicitado no Diário da República, 2.ª série n.º 159, de 17 de agosto de 2012 e submetido a apreciação pública nos termos do disposto nos artigos 117.º e 118.º do Código do Procedimento Administrativo.
+
+Estando assim cumpridos todos os requisitos necessários, a seguir se publica o mencionado Regulamento que entrará em vigor no dia seguinte à sua publicação no Diário da República.
+
+6 de novembro de 2012. - O Presidente da Câmara, Dr. José Inácio Marques Eduardo.
+
+Regulamento Hortas Comunitárias LagoaSocial
+
+Preâmbulo
+
+O Município de Lagoa, consciente da importância de reequacionar os recursos disponíveis a favor das necessidades da população, pretende implementar um conjunto de Hortas Comunitárias pelas diferentes freguesias do concelho, tendo em vista a valorização de terrenos agrícolas e um melhor ordenamento do território.
+
+As Hortas Comunitárias constituem, assim, espaços de promoção da agricultura tradicional e biológica, a par de um processo educativo ambiental e de cidadania ativa, tendo em conta que serão os próprios munícipes/horticultores que as dinamizarão. Para além destes aspetos, constituirão ainda uma estratégia alternativa de apoio à economia familiar, fornecendo elementos essenciais à subsistência do agregado familiar em torno de uma alimentação saudável e um garante da sustentabilidade ambiental.
+
+Assim, no uso das competências previstas nos artigos 112.º n.º 8 e artigo 241.º da Constituição da Republica Portuguesa, no disposto no artigo 13.º, n.º 1, alíneas e), g) e h), e artigo 20.º, n.º 1, alínea g), e 22.º, alínea h), ambos, da [Lei n.º 159/99](https://diariodarepublica.pt/dr/detalhe/lei/159-1999-570562) de 14 de setembro, e ainda nos termos do disposto na alínea a) do n.º 7, do artigo 64.º e alínea a), do n.º 2, do artigo 53.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, alterada e republicada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro, é elaborado o presente regulamento.
+
+### CAPÍTULO I — Disposições comuns
+
+###### Artigo 1.º — Objeto
+
+O presente regulamento estabelece as regras de participação no Projeto Hortas Comunitárias LagoaSocial, no âmbito do procedimento de atribuição de talhões aos agregados familiares residentes no concelho de Lagoa, Algarve.
+
+###### Artigo 2.º — Objetivos das Hortas Comunitárias LagoaSocial
+
+Os principais objetivos do Projeto Hortas Comunitárias LagoaSocial são:
+
+Fomentar a prática da agricultura tradicional e biológica, aliada a momentos de lazer e convívio entre a comunidade;
+
+Incentivar hábitos de alimentação saudável, promovendo um espírito de sustentabilidade e de preocupação ambiental;
+
+Valorizar o espírito comunitário na utilização e manutenção do espaço público, promovendo a entreajuda na comunidade;
+
+Promover atividades para as famílias na área da educação ambiental, bem como a promoção de atividades para a ocupação dos seniores;
+
+Desenvolver estratégias de promoção do cultivo de bens alimentares para autoconsumo.
+
+###### Artigo 3.º — Definições
+
+No âmbito das Hortas Comunitárias LagoaSocial, entende-se por:
+
+Horta de Subsistência - espaço cultivado, sem recorrer a produtos químicos de síntese, onde o munícipe retira produtos hortícolas destinados ao autoconsumo e ou troca com os outros utilizadores do espaço;
+
+Horta Social - espaço cultivado, sem recorrer a produtos químicos de síntese, onde o morador em habitação social retira produtos hortícolas destinados ao autoconsumo e ou troca com os outros utilizadores do espaço;
+
+Horta Pedagógica - espaço cultivado, sem recorrer a produtos químicos de síntese, com infraestruturas de apoio para a formação dos utilizadores, onde se realizam ações de formação, educação e sensibilização da comunidade;
+
+Hortelão - pessoa que, após a formação adequada fornecida pela Autarquia, cultiva o talhão atribuído de acordo com os princípios da agricultura tradicional e biológica, e trata da horta, segundo as regras definidas no presente regulamento;
+
+Formador - pessoa disponibilizada pela Autarquia, com formação ou experiência em Ambiente, Agricultura ou áreas similares, responsável pelo plano e administração da formação a prestar aos horticultores;
+
+Serviço Gestor - Serviços da Câmara Municipal de Lagoa responsável pela gestão e dinamização de atividades no espaço, bem como pelo processo de recolha e seleção dos candidatos e monitorização da utilização apropriada do espaço;
+
+Guardião da Horta - cargo voluntário rotativo, responsável pela vigilância da horta, e pela comunicação de situações diversas ao Serviço Gestor, por entre os hortelãos
+
+Talhão - Unidade de terreno destinado a cada horticultor, para o desenvolvimento de cultivo hortícola, com a área que venha a ser definida no respetivo Aviso de Abertura de candidaturas;
+
+Equipamentos de Utilização Partilhada - Equipamentos disponibilizados pela Câmara Municipal de Lagoa, cuja utilização será partilhada por grupos de horticultores, tais como compostores, abrigo de ferramentas, fonte de água (mangueiras e torneiras), entre outros a designar no Aviso de Abertura.
+
+###### Artigo 4.º — Destinatários das Hortas Comunitárias LagoaSocial
+
+Podem candidatar-se ao Concurso Público de Classificação para a Atribuição de Talhões no âmbito do Projeto Hortas Comunitárias LagoaSocial, qualquer pessoa singular que represente o respetivo agregado familiar, maior, residente no concelho de Lagoa, que apresente a respetiva candidatura devidamente instruída e através da qual manifesta a aceitação do conteúdo do presente regulamento, de acordo com os seguintes critérios:
+
+Horta Subsistência - Qualquer munícipe residente no concelho de Lagoa, com idade superior a 18 anos;
+
+Horta Social - qualquer munícipe do concelho de Lagoa, maior de idade, que habite no parque habitacional propriedade do Município de Lagoa;
+
+Horta Pedagógica - qualquer entidade pública, ou privada de cariz social ou educativo sem fins lucrativos, que intervenha socio educativamente no concelho de Lagoa;
+
+### CAPÍTULO II — Concurso público de classificação para atribuição de talhões no âmbito do projeto Hortas Comunitárias LagoaSocial
+
+###### Artigo 5.º — Modalidade e prazo de validade dos concursos
+
+1 - A atribuição do direito ao talhão é realizada por Concurso Público de Classificação nos termos do presente Regulamento.
+
+2 - Os Concursos terão a validade de um ano.
+
+###### Artigo 6.º — Abertura de candidaturas
+
+1 - A abertura das candidaturas ao Concurso Púbico de Classificação para Atribuição de Talhões é decidida pelo eleito com competência própria ou delegada/ subdelegada na área da Ação Social, atendendo às concretas disponibilidades de terreno e aos meios financeiros previamente considerados nas Grandes Opções do Plano para o respetivo ano civil.
+
+2 - No aviso de abertura das candidaturas a publicitar através de edital, aviso em jornal local e publicitado no site oficial da Câmara Municipal www.cm-lagoa.pt, deve constar:
+
+Data de abertura e respetivos prazos e locais de entrega de candidaturas;
+
+Planta de localização da horta comunitária;
+
+Indicação dos documentos necessários a apresentar no âmbito da candidatura;
+
+Outros aspetos considerados pertinentes.
+
+###### Artigo 7.º — Apresentação de candidaturas
+
+1 - Os interessados podem realizar a candidatura na Unidade Orgânica de Ação Social e Saúde, Edifício Paços do Concelho - Lagoa ou noutro local a designar, em formulário próprio para o efeito, que será facultado pelos serviços e que também se encontra disponível para download no site da Câmara Municipal: www.cm-lagoa.pt.
+
+###### Artigo 8.º — Critérios de classificação das candidaturas
+
+1 - O Serviço Gestor fará a seleção dos candidatos por cada Horta Comunitária, tendo em conta os seguintes critérios de classificação, cujos indicadores são descriminados no anexo I:
+
+Rendimento mensal per capita do agregado familiar;
+
+Constituição do agregado familiar;
+
+Proximidade da residência ao local;
+
+Outras situações especiais.
+
+###### Artigo 9.º — Classificação das candidaturas
+
+1 - Os candidatos serão classificados por ordem decrescente de pontos obtidos.
+
+2 - No caso de empate entre os candidatos que obtenham a mesma pontuação, atender-se-á:
+
+Em primeiro lugar, ao valor do rendimento per capita mais baixo;
+
+Em segundo lugar, ao maior número de descendentes/ascendentes a cargo do agregado familiar;
+
+Em terceiro lugar, à proximidade entre o local de residência do agregado familiar e a horta.
+
+3 - A classificação dos candidatos resulta da aplicação da pontuação constante no Mapa-Anexo I ao presente Regulamento.
+
+###### Artigo 10.º — Concorrentes suplentes
+
+1 - Os concorrentes suplentes serão considerados, pela ordem determinada através da classificação, para atribuição dos talhões da mesma horta que, por qualquer razão, fiquem disponíveis antes da abertura de novo concurso e dentro do prazo de validade do mesmo.
+
+2 - A desistência ou recusa de qualquer concorrente do talhão que vier a ser-lhe atribuído implica a exclusão do concurso.
+
+3 - Sempre que, de acordo com o disposto no n.º 1, haja lugar dentro do prazo de validade do concurso a nova atribuição de talhões, os concorrentes suplentes presumivelmente abrangidos serão notificados pelos Serviços da Autarquia para, sob pena de exclusão, atualizarem as suas declarações, com vista a verificarem se se mantêm as condições de atribuição do direito e para efeitos de eventual revisão da sua posição.
+
+###### Artigo 11.º — Agregado familiar
+
+Considera-se agregado familiar do candidato, o conjunto de pessoas que com ele vivem em comunhão de mesa e habitação, ligadas por laços de parentesco, casamento, afinidade, adoção ou outras situações semelhantes.
+
+###### Artigo 12.º — Rendimentos do agregado familiar
+
+1 - Consideram-se rendimentos do agregado familiar, todos os vencimentos ilíquidos, salários, ou outras remunerações do trabalho, incluindo diuturnidades, horas extraordinárias e subsídios e ainda o valor de pensões, nomeadamente, de reforma, de aposentação, velhice, invalidez, sobrevivência, bem como os provenientes de outras fontes de rendimento do candidato e das pessoas nas situações referidas no artigo anterior, com exceção do abono de família e das prestações complementares.
+
+2 - Para efeitos do cálculo do rendimento mensal per capita, é considerado o quantitativo que resulto da divisão por 12 dos rendimentos anuais ilíquidos apurados nos termos do número anterior, dividido pelo número de pessoas que compõem o respetivo agregado familiar.
+
+### CAPÍTULO III — Horta Comunitária LagoaSocial
+
+###### Artigo 13.º — Direitos dos hortelãos
+
+Os hortelãos têm direito:
+
+1 - Beneficiar de um talhão de terreno cultivável, para a prática de agricultura biológica;
+
+2 - Ao uso dos equipamentos de utilização comum (compostor, sistemas de águas, abrigo de ferramentas, áreas de estar e lazer entre outros);
+
+3 - A frequência de formação em Agricultura Biológica e Compostagem.
+
+###### Artigo 14.º — Deveres dos hortelãos
+
+Os hortelãos têm o dever e a responsabilidade:
+
+Preparar o talhão e iniciar atividades agrícolas um mês após a atribuição do talhão e a assinatura do acordo de utilização;
+
+Manter a horta em produção durante a vigência do respetivo acordo de utilização;
+
+Frequentar as ações de formação obrigatórias para Hortelãos;
+
+Cumprir os horários de utilização do local previamente definidos;
+
+Utilizar e zelar pelas boas condições de segurança e salubridade do espaço e do equipamento de utilização comum disponibilizado nas Hortas;
+
+Não edificar estufas, estruturas ou colocar pavimentos sem a prévia autorização da Câmara Municipal, exceto estacarias, utilizando preferencialmente canas ou madeira sem tintas ou vernizes;
+
+Respeitar caminhos e talhões vizinhos, certificando-se que as culturas não invadem o espaço dos outros;
+
+Não edificar quaisquer construções no talhão atribuído e no espaço envolvente;
+
+Utilizar racional e cuidadosamente a água, não utilizando sistemas de rega automática, ou a utilização indevida para fins que não sejam exclusivamente os da produção hortícola;
+
+Não plantar árvores, plantas invasoras e espécies vegetais legalmente proibidas;
+
+Assumir total responsabilidade sobre acidentes pessoais ou provocados a terceiros, no âmbito das hortas comunitárias;
+
+Não realizar queimadas ou fogueiras;
+
+Não levar animais para a Horta, exceto cães guia;
+
+Não jogar à bola, utilizar bicicletas ou praticar outras atividades que possam danificar o espaço e ou o cultivo do próprio e de terceiros;
+
+Respeitar as regras de uma convivência saudável;
+
+Praticar as regras de compostagem, sendo a mesma limitada aos materiais gerados no local;
+
+Não abandonar o talhão, considerando-se para este efeito, a ausência não justificada por um período superior a dois meses;
+
+Não desenvolver atividades de pecuária ou criação de aves na horta;
+
+É estritamente proibido, causa de expulsão do projeto e motivo para a participação às autoridades policiais, o cultivo de espécies vegetais legalmente proibidas, dadas as suas características estupefacientes.
+
+###### Artigo 15.º — Produtos cultivados
+
+O utilizador pode cultivar qualquer conjunto de produtos, tais como vegetais, ervas aromáticas ou medicinais, potenciando as co associações dos produtos de acordo com os princípios da agricultura biológica.
+
+Os produtos e sementes são para autoconsumo, troca com outros utilizadores ou em eventos de promoção promovidos pela Câmara Municipal de Lagoa.
+
+###### Artigo 16.º — Formação
+
+A formação é obrigatória para todos os futuros hortelãos, como forma de garantir que adquirem competências para a prática de agricultura biológica, compostagem e as regras de convivência e partilha do espaço.
+
+###### Artigo 17.º — Organização das Hortas de Lagoa
+
+1 - Cada Horta Comunitária tem as seguintes áreas de atividades demarcadas:
+
+Área de Convívio e Lazer;
+
+Áreas de Grupo: Postos de água, zonas de compostores e abrigo de alfaias;
+
+Talhões individuais de atividade hortícola;
+
+Zonas de passagem: permitem a circulação na horta, devendo estar desimpedidas e em bom estado de conservação.
+
+###### Artigo 18.º — Acordo de utilização das Hortas Comunitárias LagoaSocial
+
+1 - O acordo de utilização, celebrado ao abrigo do presente regulamento, é válido pelo período de um ano, podendo ser renovado por igual período a pedido do utilizador, desde que a situação inicial de atribuição se mantenha.
+
+2 - A renovação do referido acordo deve ser solicitada junto do Serviço Gestor - Unidade de Ação Social e Saúde, mediante requerimento a disponibilizar para o efeito, ao qual deve ser anexada documentação comprovativa da situação socio económica do agregado familiar.
+
+3 - O Município de Lagoa, pode em qualquer altura, fundamentadamente, rescindir o acordo de utilização, sem que haja direito a qualquer indemnização, sempre que se verifique o incumprimento do estatuído no presente regulamento.
+
+4 - O acordo de utilização pode ainda ser rescindido por parte do hortelão, devendo o mesmo deixar de utilizar o talhão e informar o serviço gestor com a antecedência de dez dias.
+
+###### Artigo 19.º — Custos
+
+As Hortas Comunitárias LagoaSocial têm associado um custo anual para comparticipação nas despesas de água, eletricidade e formação, a determinar anualmente mediante deliberação camarária.
+
+###### Artigo 20.º — Fiscalização
+
+1 - A fiscalização das Hortas Comunitárias LagoSocial serão efetuadas por um eventual circuito de vídeo-vigilância com acesso a partir da internet, bem como por um Hortelão voluntário - Guardião da Horta, bem como pelos serviços da Câmara Municipal, nomeadamente a Unidade de Ação Social e Saúde, a Subunidade Logística e Manutenção e a Fiscalização Municipal.
+
+2 - O incumprimento do disposto neste regulamento, nomeadamente no disposto artigo 14.º, pode levar à rescisão unilateral do acordo de utilização, por parte do Município de Lagoa, sem que o incumpridor tenha direito a qualquer indeminização.
+
+### CAPÍTULO III — Disposições finais
+
+###### Artigo 21.º — Dúvidas e omissões
+
+1 - As dúvidas resultantes da interpretação e aplicação do presente regulamento serão dirimidas pela Câmara Municipal de Lagoa mediante deliberação.
+
+2 - O incumprimento das condições expressas no presente regulamento, constituirá qualquer das partes na faculdade de utilizar os mecanismos legais competentes para a resolução do caso que se suscite.
+
+## ANEXO I — Mapa anexo ao Regulamento do Projeto de Regulamento das Hortas Comunitárias LagoaSocial, nos termos do artigos 8.º e 9.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/11/225000000/3772437728.pdf)
+
+## ANEXO II
+
+Minuta de acordo de utilização, nos termos do artigo 8.º do Regulamento do Projeto de Regulamento das Hortas Comunitárias LagoaSocial.
+
+Primeiro outorgante:
+
+Município de Lagoa, pessoa coletiva de direito público n.º 506804240, com sede em Rua Ernesto Cabrita, freguesia e concelho de Lagoa, representado neste ato pelo Presidente da Câmara Municipal, (nome, estado civil, naturalidade e residência), conforme deliberação de Câmara de XX/XX/XX.
+
+Segundo outorgante:
+
+..., residente na ..., n.º ..., na freguesia de ..., concelho de Lagoa, portador do documento de identificação n.º ..., válido até XX /XX/XX, como Segundo outorgante, celebra-se o presente Acordo que está sujeito às cláusulas seguintes:
+
+Cláusula Primeira
+
+Objeto
+
+O primeiro outorgante disponibiliza ao segundo outorgante, um talhão de terreno equipado para a compostagem caseira e o cultivo de uma horta em meio de produção biológica, bem como proporciona, ainda, uma ação de formação ao segundo outorgante, para permitir o bom desempenho como utilizador.
+
+Cláusula Segunda
+
+Direitos do Segundo outorgante
+
+1 - O hortelão terá direito:
+
+a) A utilizar um talhão de aproximadamente ... m2 de terreno cultivável, inserido num espaço vedado, com ponto de água de utilização comum;
+
+b) A um local coletivo de armazenamento de pequenas alfaias agrícolas;
+
+c) Um compostor individual, do qual devem utilizar para fazer compostagem caseira e utilizar o produto final como fertilizante agrícola;
+
+d) A frequentar, uma ação de formação em Agricultura Biológica e Regras de Convivência da Horta.
+
+Cláusula Terceira
+
+Deveres do Segundo outorgante
+
+2 - O hortelão deve, sob risco de rescisão do Acordo:
+
+Preparar o talhão e iniciar atividades agrícolas um mês após a atribuição do talhão e a assinatura do acordo de utilização;
+
+Manter a horta em produção durante a vigência do respetivo acordo de utilização;
+
+Frequentar as ações de formação obrigatórias para Hortelãos;
+
+Cumprir os horários de utilização do local previamente definidos;
+
+Utilizar e zelar pelas boas condições de segurança e salubridade do espaço e do equipamento de utilização comum disponibilizado nas Hortas;
+
+Não edificar estufas, estruturas ou colocar pavimentos sem a prévia autorização da Câmara Municipal, exceto estacarias, utilizando preferencialmente canas ou madeira sem tintas ou vernizes;
+
+Respeitar caminhos e talhões vizinhos, certificando-se que as culturas não invadem o espaço dos outros;
+
+Não edificar quaisquer construções no talhão atribuído e no espaço envolvente;
+
+Utilizar racional e cuidadosamente a água, não utilizando sistemas de rega automática, ou a utilização indevida para fins que não sejam exclusivamente os da produção hortícola;
+
+Não plantar árvores, plantas invasoras e espécies vegetais legalmente proibidas;
+
+Assumir total responsabilidade sobre acidentes pessoais ou provocados a terceiros, no âmbito das hortas comunitárias;
+
+Não realizar queimadas ou fogueiras;
+
+Não levar animais para a Horta, exceto cães guia;
+
+Não jogar à bola, utilizar bicicletas ou praticar outras atividades que possam danificar o espaço e ou o cultivo do próprio e de terceiros;
+
+Respeitar as regras de uma convivência saudável;
+
+Praticar as regras de compostagem, sendo a mesma limitada aos materiais gerados no local;
+
+Não abandonar o talhão, considerando-se para este efeito, a ausência não justificada por um período superior a dois meses;
+
+Não desenvolver atividades de pecuária ou criação de aves na horta;
+
+É estritamente proibido, causa de expulsão do projeto e motivo para a participação às autoridades policiais, o cultivo de espécies vegetais legalmente proibidas, dadas as suas características estupefacientes;
+
+Pagar um custo para comparticipação nas despesas de água, eletricidade e formação, a determinar anualmente mediante deliberação camarária.
+
+Cláusula Quarta
+
+Duração, renovação e rescisão
+
+1 - Este acordo é válido por um período de um ano a contar da data de assinatura e é passível de renovação por iguais períodos, a pedido do Segundo outorgante.
+
+2 - O Primeiro outorgante pode, em qualquer altura, anular a inscrição do segundo outorgante caso considere que o mesmo não está a cumprir os deveres a que se vinculou.
+
+3 - O Segundo outorgante pode, a qualquer altura, rescindir o acordo, devendo do facto informar o Primeiro outorgante com uma antecedência de dez dias úteis, não podendo reclamar qualquer indemnização por eventuais benfeitorias realizadas no local.
+
+4 - A participação do Segundo outorgante no Projeto Hortas Comunitárias LagoaSocial implica a aceitação das normas do Regulamento Geral e a assinatura do presente Acordo.
+
+Cláusula Quinta
+
+Pelas partes foi declarado que aceitam o presente protocolo e estão perfeitamente cientes das suas cláusulas, conteúdo, efeitos e obrigações.
+
+O presente documento é constituído por XX páginas, preenchidas apenas no seu anverso e vai ser elaborado em dois exemplares, valendo qualquer um deles como original.
+
+Lagoa, ... de ... de 20...
+
+O primeiro outorgante
+
+___
+
+O segundo outorgante
+
+___
+
+306525306

@@ -1,0 +1,297 @@
+---
+schema_version: '1.0'
+id: pt:dre:3597936:por
+title: Regulamento n.º 79/2012
+short_title: null
+summary: Regulamento de Organização Provisório da Ordem dos Nutricionistas
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Ordem dos Nutricionistas
+proposing_entity: null
+official_number: 79/2012
+official_date: null
+publication_date: '2012-02-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/2012, Série II de 2012-02-27
+  number: '41'
+  series: II
+  supplement: null
+  pages: 7035 - 7037
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/02/041000000/0703507037.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3597936'
+  dre_path: /dr/detalhe/regulamento/79-2012-3597936
+  internal: pt:dre:3597936:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/79-2012-3597936
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/79-2012-3597936
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:39:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b156e8be675840a9f00d4bdf93670462b765bbc869cb2b7112de14d893b6c3a0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:39:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:248041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307202:por
+  label: null
+  source: null
+article_structure:
+  article_count: 20
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:39:41Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 79/2012
+
+O presente regulamento respeita à organização interna da Ordem dos Nutricionistas, designadamente no que respeita ao número de membros dos órgãos estatutários da Ordem e às regras gerais do seu funcionamento.
+
+São ainda estabelecidas as regras relativas à designação dos membros dos órgãos da Ordem que não são diretamente eleitos pelos nutricionistas e dietistas, como é o caso da Direção (à exceção do Bastonário e do Vice-Bastonário), do Conselho Jurisdicional e do Conselho Fiscal, bem como à suspensão e perda de mandato dos respetivos membros.
+
+De fora do âmbito deste regulamento ficam as regras relativas ao funcionamento específico de cada órgão, que deverão constar do regulamento interno a aprovar por cada um deles.
+
+Atenta a natureza provisória do presente regulamento e a urgência da sua entrada em vigor, de forma a organizar atempadamente o primeiro ato eleitoral da Ordem dos Nutricionistas, que deve ter lugar até 28 de abril de 2012, bem como o facto de o mesmo ser sujeito a aprovação ministerial, nos termos da alínea c) do n.º 1 do artigo 83.º do Estatuto da Ordem dos Nutricionistas, entendeu-se dever dispensar o recurso à consulta pública prévia, nos termos do n.º 2 do artigo 16.º da [Lei n.º 6/2008](https://diariodarepublica.pt/dr/detalhe/lei/6-2008-248041), de 13 de fevereiro, e do artigo 118.º do Código do Procedimento Administrativo.
+
+Assim, nos termos da alínea e) do n.º 1 do artigo 83.º do Estatuto da Ordem dos Nutricionistas, aprovado pela [Lei n.º 51/2010](https://diariodarepublica.pt/dr/detalhe/lei/51-2010-307202), de 14 de dezembro, a Comissão Instaladora aprova o seguinte Regulamento de Organização:
+
+### Capítulo I — Organização da Ordem
+
+###### Artigo 1.º — Objeto
+
+1 - O presente Regulamento tem por objeto a organização da Ordem dos Nutricionistas, adiante designada por Ordem, incluindo as regras gerais do seu funcionamento, bem como a matéria relativa à designação dos vogais da Direção e dos membros do Conselho Jurisdicional e do Conselho Fiscal.
+
+2 - Excluem-se do âmbito do presente Regulamento as regras específicas de funcionamento de cada órgão estatutário da Ordem, que devem constar do respetivo regulamento interno.
+
+###### Artigo 2.º — Órgãos
+
+1 - São órgãos da Ordem nos termos do respetivo Estatuto, aprovado pela [Lei n.º 51/2010](https://diariodarepublica.pt/dr/detalhe/lei/51-2010-307202), de 14 de dezembro:
+
+a) O Conselho Geral;
+
+b) O Bastonário e o Vice-Bastonário;
+
+c) A Direção;
+
+d) O Conselho Jurisdicional;
+
+e) O Conselho Fiscal.
+
+2 - Caso seja deliberada a criação de delegações regionais da Ordem, são órgãos das mesmas a Assembleia Regional e a Direção Regional.
+
+###### Artigo 3.º — Conselho Geral
+
+1 - O Conselho Geral é a assembleia representativa da Ordem, com poderes deliberativos gerais, nos termos do Estatuto.
+
+2 - O Conselho Geral é composto por 40 membros.
+
+3 - Os trabalhos do Conselho Geral são dirigidos e conduzidos por uma mesa, composta por um presidente e dois secretários, eleitos individualmente, na primeira reunião do mandato deste órgão, por maioria absoluta dos membros presentes.
+
+4 - A primeira reunião do Conselho Geral, até à eleição da mesa, é dirigida pelo membro mais idoso e secretariada pelo membro mais jovem escolhidos de entre os presentes.
+
+###### Artigo 4.º — Bastonário e Vice-Bastonário
+
+1 - O Bastonário é o órgão da Ordem com competência para a sua representação externa, exercendo ainda as demais competências previstas no Estatuto.
+
+2 - O Vice-Bastonário exerce as competências que lhe forem delegadas pelo Bastonário.
+
+3 - O Bastonário e o Vice-Bastonário são ainda, respetivamente, presidente e vice-presidente da Direção.
+
+###### Artigo 5.º — Direção
+
+1 - A Direção é o órgão executivo colegial da Ordem, detendo poderes gerais de direção e de gestão em matéria administrativa e financeira, bem como outros previstos no Estatuto.
+
+2 - A Direção é composta pelo Bastonário e o Vice-Bastonário e por 5 vogais.
+
+###### Artigo 6.º — Conselho Jurisdicional
+
+1 - O Conselho Jurisdicional é o órgão de supervisão da Ordem, cuja missão é velar pela legalidade da atividade exercida pelos órgãos da Ordem e exercer poderes de controlo, nomeadamente em matéria disciplinar.
+
+2 - O Conselho Jurisdicional é composto por 5 membros, sendo um deles o seu presidente e os restantes vogais.
+
+3 - O Conselho Jurisdicional pode ser assessorado por um consultor jurídico contratado pela Direção, sob proposta do presidente daquele órgão.
+
+4 - O Conselho Jurisdicional é um órgão independente, não podendo os seus membros ser destituídos nem censurados pelas suas decisões, sem prejuízo do respetivo controlo jurisdicional.
+
+###### Artigo 7.º — Conselho Fiscal
+
+1 - O Conselho Fiscal é o órgão de fiscalização da gestão patrimonial e financeira da Ordem.
+
+2 - O Conselho Fiscal é composto por 3 membros, aí se incluindo o seu presidente e dois vogais, um dos quais obrigatoriamente revisor oficial de contas.
+
+### Capítulo II — Designação dos vogais da Direção e dos membros do Conselho Jurisdicional e do Conselho Fiscal
+
+#### Secção I — Disposições gerais
+
+###### Artigo 8.º — Capacidade passiva geral
+
+1 - Podem ser designados para órgãos da Ordem os membros da Ordem que tenham as quotas em dia e não tenham sido sancionados disciplinarmente nos últimos três anos com uma pena superior a censura, sem prejuízo do disposto para o presidente e os restantes membros do Conselho Jurisdicional.
+
+2 - Não podem ser designados para órgãos da Ordem os membros da Ordem que estejam em situação de incompatibilidade, nos termos definidos no Estatuto da Ordem e no artigo seguinte.
+
+###### Artigo 9.º — Incompatibilidade
+
+1 - O exercício de cargos nos órgãos da Ordem é incompatível com:
+
+a) Cargos de direção em quaisquer associações de nutricionistas e associações de dietistas;
+
+b) Membros de órgãos de soberania ou de órgãos de governo próprio de região autónoma, bem como de órgãos executivos do poder local;
+
+c) Cargos dirigentes na Administração Pública;
+
+d) Quaisquer cargos em associações sindicais ou patronais;
+
+e) Outros cargos ou atividades com os quais se verifique um manifesto conflito de interesses, como tal declarado pelo Conselho Jurisdicional, a pedido da Direção.
+
+2 - Nenhum membro efetivo pode candidatar-se ou exercer em simultâneo funções em mais do que um órgão estatutário da Ordem.
+
+###### Artigo 10.º — Mandato
+
+1 - Os mandatos dos titulares dos órgãos da Ordem iniciam-se no dia 1 de novembro e têm a duração de três anos.
+
+2 - A constituição ou tomada de posse dos órgãos eletivos, conforme os casos, ocorre no dia de início do mandato, salvo se os respetivos titulares não tiverem sido designados atempadamente, caso em que o início de funções ocorre no 8.º dia posterior à designação.
+
+3 - Caso não seja possível o início de funções dos novos titulares no 1.º dia do mandato, os titulares cessantes mantêm-se em funções pelo tempo necessário.
+
+4 - Não é admitida a reeleição ou designação dos titulares dos órgãos da Ordem para um terceiro mandato consecutivo no mesmo órgão nem para um quarto mandato consecutivo em órgãos diferentes.
+
+#### Secção II — Designação dos vogais da Direção
+
+###### Artigo 11.º — Nomeação
+
+Os membros da Direção, excetuados o Bastonário e o Vice-Bastonário, são nomeados pelo Bastonário e são submetidos coletivamente à apreciação do Conselho Geral antes do início de funções.
+
+###### Artigo 12.º — Apreciação pelo Conselho Geral
+
+1 - O Conselho Geral procede à apreciação dos vogais da Direção nomeados pelo Bastonário na primeira reunião que vier a realizar-se após a eleição deste órgão.
+
+2 - Sob proposta de um quarto dos membros do Conselho Geral, este órgão pode votar a rejeição dos vogais da Direção; a aprovação da rejeição depende da maioria absoluta dos membros presentes na reunião.
+
+3 - Não havendo proposta de rejeição, ou não sendo ela aprovada, a designação dos vogais da Direção considera-se ratificada.
+
+4 - Em caso de rejeição da Direção pelo Conselho Geral ou da posterior aprovação de uma moção de censura, por maioria absoluta dos membros presentes na reunião, o Bastonário apresenta novos vogais da Direção à apreciação do Conselho Geral, no prazo de duas semanas.
+
+5 - As moções de censura não podem ser discutidas nem votadas senão uma semana depois da sua apresentação ao presidente da mesa do Conselho Geral.
+
+#### Secção III — Eleição dos membros do Conselho Jurisdicional
+
+###### Artigo 13.º — Eleição
+
+1 - Os membros do Conselho Jurisdicional são eleitos pelo Conselho Geral nos primeiros 60 dias do seu mandato iniciado na sequência de eleições ordinárias, de preferência na primeira reunião realizada, nos seguintes termos:
+
+a) O presidente do Conselho Jurisdicional é eleito, sob proposta do Bastonário, de entre membros da Ordem com pelo menos 10 anos de exercício profissional ou de entre personalidades de reconhecido mérito alheias à profissão, por uma maioria de dois terços dos membros presentes;
+
+b) Os vogais do Conselho Jurisdicional são eleitos de entre membros da Ordem com pelo menos 5 anos de exercício profissional, por maioria de três quintos dos membros presentes.
+
+2 - O Conselho Geral elege ainda, simultaneamente, dois vogais suplentes do Conselho Jurisdicional.
+
+3 - No final de cada mandato do Conselho Jurisdicional, metade dos seus vogais, correspondente àqueles que se encontrem há mais tempo no cargo, é renovada mediante eleição do Conselho Geral, sendo a outra metade automaticamente reconduzida para um segundo mandato.
+
+4 - Na primeira composição do Conselho Jurisdicional, são escolhidos por sorteio, logo após a eleição, os vogais que vão exercer dois mandatos e os que terminam funções no fim do primeiro mandato.
+
+5 - Em caso de vacatura, os suplentes terminarão os mandatos em questão, incluindo a recondução para um segundo mandato, nos termos do número anterior.
+
+#### Secção IV — Eleição dos membros do Conselho Fiscal
+
+###### Artigo 14.º — Eleição
+
+1 - Os membros do Conselho Fiscal são eleitos pelo Conselho Geral na primeira reunião realizada após a sua eleição, por maioria de três quintos dos membros presentes, sob proposta da Direção.
+
+2 - O Conselho Geral elege ainda dois suplentes, devendo um deles ser revisor oficial de contas.
+
+### Capítulo III — Vacaturas, substituições e eleições intercalares
+
+###### Artigo 15.º — Renúncia e suspensão
+
+1 - Os membros dos órgãos da Ordem podem renunciar ao cargo para o qual tenham sido eleitos ou designados.
+
+2 - Qualquer membro dos órgãos da Ordem, salvo o Bastonário e o Vice-Bastonário, pode solicitar a suspensão temporária do exercício das suas funções, por motivos devidamente fundamentados, não podendo o tempo total de suspensão exceder seis meses no mesmo mandato.
+
+3 - A renúncia ou suspensão do mandato devem ser comunicadas aos presidentes dos respetivos órgãos, bem como ao presidente da mesa do Conselho Geral, salvo no caso da renúncia do Bastonário e do Vice-Bastonário, que só deve ser apresentada ao presidente da mesa do Conselho Geral.
+
+4 - Caso se trate de renúncia ou suspensão do mandato do presidente de um órgão que não a Direção, a comunicação desse facto é apenas apresentada ao Bastonário.
+
+###### Artigo 16.º — Vacatura e substituição
+
+1 - As vagas verificadas em órgãos colegiais que resultem da suspensão, renúncia, morte ou incapacidade ou outras causas, nomeadamente impedimentos, são preenchidas pelos respetivos substitutos.
+
+2 - No caso de vacatura do cargo de Bastonário, é o mesmo substituído pelo Vice-Bastonário e, na falta deste, pelo presidente do Conselho Geral, havendo lugar a nova eleição para o cargo deste.
+
+3 - Os membros dos órgãos da Ordem perdem o mandato, mediante decisão do presidente do órgão a que pertençam ou da respetiva mesa, conforme os casos, nas seguintes situações:
+
+a) Caso sejam condenados em pena disciplinar que os torne inelegíveis para o cargo que exercem;
+
+b) Caso incorram numa situação de incompatibilidade com o exercício da profissão.
+
+4 - O membro faltoso justifica o motivo da falta nos 5 dias subsequentes à reunião, sob pena de a falta ser considerada injustificada.
+
+###### Artigo 17.º — Recurso
+
+1 - Pode ser interposto recurso para o Conselho Jurisdicional das decisões relativas a perda ou suspensão do mandato dos membros de órgãos da Ordem.
+
+2 - O recurso referido no número anterior é um recurso hierárquico impróprio, sendo-lhe aplicável, com as necessárias adaptações, o disposto nos artigos 166.º e seguintes do Código do Procedimento Administrativo.
+
+###### Artigo 18.º — Eleições intercalares
+
+1 - A vacatura de mais de metade dos membros de órgão colegial diretamente eleito, depois de esgotadas todas as substituições, obriga à realização de eleições intercalares, salvo se restar menos de um ano para terminar o mandato, caso em que o órgão funcionará com os membros subsistentes, desde que no mínimo de um terço do número total.
+
+2 - Em caso de vacatura dos membros de órgão não diretamente eleito, esgotados os respetivos suplentes, deve proceder-se à designação dos titulares necessários para repor a totalidade dos membros efetivos do órgão em causa.
+
+### Capítulo IV — Disposições finais
+
+###### Artigo 19.º — Prazos
+
+Os prazos previstos no presente diploma contam-se de forma contínua, não se suspendendo aos sábados, domingos e feriados, salvo se o inverso resultar inequivocamente da sua estipulação.
+
+###### Artigo 20.º — Entrada em vigor
+
+O presente Regulamento entra em vigor no dia imediatamente posterior ao da sua publicação.
+
+17 de fevereiro de 2012. - A Presidente da Comissão Instaladora da Ordem dos Nutricionistas, Alexandra Gabriela de Almeida Bento Pinto.
+
+205762319

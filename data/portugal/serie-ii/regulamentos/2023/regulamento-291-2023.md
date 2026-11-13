@@ -1,0 +1,549 @@
+---
+schema_version: '1.0'
+id: pt:dre:208379159:por
+title: Regulamento n.º 291/2023
+short_title: null
+summary: Aprova o Regulamento do Serviço de Atendimento e Acompanhamento Social do Município de Grândola
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Grândola
+proposing_entity: null
+official_number: 291/2023
+official_date: null
+publication_date: '2023-03-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 49/2023, Série II de 2023-03-09
+  number: '49'
+  series: II
+  supplement: null
+  pages: 273 - 283
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/03/049000000/0027300283.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '208379159'
+  dre_path: /dr/detalhe/regulamento/291-2023-208379159
+  internal: pt:dre:208379159:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/291-2023-208379159
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/291-2023-208379159
+  consolidated_url: null
+  retrieved_at: '2026-11-13T07:37:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2189c0c1ef758abf75c3bc5043532cc0d60a1724518552e88f302a357e81d39b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T07:37:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140087205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141259621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70086390:por
+  label: null
+  source: null
+article_structure:
+  article_count: 28
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T07:37:00Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 291/2023
+
+Regulamento do Serviço de Atendimento e Acompanhamento Social do Município de Grândola
+
+Preâmbulo
+
+A descentralização administrativa do Poder Central para o Poder Local está prevista constitucionalmente (artigos 235.º, 237.º e 267.º), tendo em vista a desburocratização, a proximidade dos serviços às populações e a participação ativa das populações nos interesses comuns.
+
+De acordo com o regime jurídico das autarquias locais (Anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro) constituem atribuições do município a promoção e salvaguarda dos interesses próprios das respetivas populações, designadamente no domínio da ação social. Nesse sentido, compete à câmara municipal participar na prestação de serviços e prestar apoio a pessoas em situação de vulnerabilidade social em parceria com as entidades competentes da administração central e com instituições particulares de solidariedade social, nas condições constantes de regulamento municipal.
+
+«O exercício de competências pelas autarquias locais no domínio da ação social é, há bastantes anos uma realidade e um dos fatores decisivos de intervenção em situações de vulnerabilidade e exclusão social em que se encontram pessoas e famílias [...] permitindo a conjugação de uma resposta de proximidade mais adequada e mais célere com o desenvolvimento de uma ação social integrada» cit. Portaria n.º 63/2021, de 17 de março.
+
+A Lei-quadro de transferência de competências para as autarquias locais prevê a transição das competências da ação social do Poder Central para o Poder Local e consequentemente a criação e operacionalização do Serviço de Atendimento e Acompanhamento Social, segundo os artigos 1.º e 12.º da [Lei n.º 50/2018](https://diariodarepublica.pt/dr/detalhe/lei/50-2018-116068877), de 16 de agosto.
+
+O Serviço de Atendimento e Acompanhamento Social é uma resposta de primeira linha no que respeita à intervenção social em situações de vulnerabilidade, carência económica, dependência e exclusão social, bem como na promoção da integração dos grupos sociais mais vulneráveis.
+
+Este serviço engloba ainda a disponibilização de informação e mobilização dos recursos adequados a cada situação especifica, tendo como objetivo primordial a promoção da melhoria das condições de vida e bem-estar das populações, conforme o disposto na Portaria n.º 188/2014, de 18 de setembro, na sua atual redação.
+
+O presente regulamento teve em consideração a conjugação entre os direitos constitucionais de reserva da intimidade da vida privada e familiar, bem como o da proteção de dados pessoais, e os princípios que norteiam a administração pública, também eles contemplados na Constituição da República Portuguesa.
+
+Foram cumpridas as exigências impostas pelo Regulamento Geral de Proteção de Dados, designadamente os princípios subjacentes ao tratamento de dados pessoais previstos no artigo 5.º do diploma, bem como os direitos dos titulares dos dados, salvaguardando simultaneamente os princípios que norteiam a atividade administrativa espelhados no Capítulo II do Código do Procedimento Administrativo, de que se destacam os princípios da boa administração, da proporcionalidade, justiça e razoabilidade, igualdade, boa-fé e proteção de dados pessoais.
+
+À luz da Política de Privacidade do Município é garantido que os dados recolhidos serão usados apenas para as finalidades em causa. Os processos são sigilosos, garantindo-se que só terão acesso aos dados os envolvidos nos procedimentos e que o município os arquivará pelo estrito tempo necessário para o cumprimento de obrigações legais, nomeadamente para efeitos da tutela administrativa a que os municípios estão sujeitos nos termos da Constituição da República Portuguesa.
+
+Em cumprimento do disposto no artigo 101.º, do Código de Procedimento Administrativo, o projeto do regulamento foi objeto de consulta pública, pelo prazo de 30 dias, tendo para esse efeito sido publicado no Diário da República, 2.ª série, n.º 217, de 10 de novembro de 2022 e na Internet, no sítio institucional do município.
+
+O projeto do regulamento do Serviço de Atendimento e Acompanhamento Social do Município de Grândola foi aprovado pelo órgão executivo em reunião realizada em 19/01/2023, nos termos da alínea k), do n.º 1, do artigo 33.º do Anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 setembro.
+
+Foi posteriormente aprovado pela Assembleia Municipal de Grândola, na sessão ordinária de 17/02/2023, fazendo uso da competência que lhe é atribuída pela alínea g) do n.º 1 do artigo 25.º do Anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O presente regulamento tem por objeto organizar o funcionamento do Serviço de Atendimento e Acompanhamento Social, adiante designado por SAAS.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O presente regulamento aplica-se aos/às profissionais da equipa técnica, coordenador(a)s técnico(a)s ou outro pessoal que exerça funções no âmbito do SAAS, bem como às pessoas utilizadoras do citado serviço.
+
+###### Artigo 3.º — Legislação aplicável
+
+O presente regulamento é elaborado ao abrigo do disposto no artigo 8.º da Portaria n.º 188/2014, de 18 de setembro, que regulamenta as condições de organização e funcionamento dos SAAS; da [Lei n.º 50/2018](https://diariodarepublica.pt/dr/detalhe/lei/50-2018-116068877), de 16 de agosto, que estabelece o quadro da transferência de competências para as autarquias locais e entidades intermunicipais; da [Lei n.º 55/2020](https://diariodarepublica.pt/dr/detalhe/lei/55-2020-141259621), de 12 de agosto que concretiza a transferência de competências para os órgãos municipais e para as entidades intermunicipais no domínio da ação social; da Portaria n.º 63/2021, de 17 de março, que operacionaliza a transferência de competências em matéria do SAAS e o n.º 1 do artigo 63.º, do n.º 7 do artigo 112.º e do artigo 241.º da Constituição da República Portuguesa e da alínea h) do n.º 2 do artigo 23.º, da alínea g) do n.º 1 do artigo 25.º e das alíneas k) e v) do n.º 1 do artigo 33.º, do Anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro do Regime Jurídico das Autarquias Locais, na sua atual redação.
+
+###### Artigo 4.º — Objetivos do Regulamento
+
+O presente regulamento visa:
+
+1) Garantir o bom funcionamento do SAAS e assegurar o bem-estar e a segurança dos indivíduos e das famílias e demais interessados, no respeito pela sua individualidade e privacidade;
+
+2) Assegurar a divulgação e o cumprimento das regras de funcionamento do SAAS.
+
+###### Artigo 5.º — Conceitos
+
+Para efeitos no disposto no presente regulamento considera-se:
+
+1) Carência económica - situação de risco de exclusão social em que o indivíduo/família se encontra, por razões conjunturais ou estruturais, auferindo um rendimento per capita inferior ao valor da pensão social, atualizado anualmente, por referência ao Indexante dos Apoios Sociais (IAS);
+
+2) Emergência Social - situações de vulnerabilidade e desproteção que constituam um perigo real, atual ou iminente, resultantes de não estarem asseguradas as condições mínimas de proteção e que exijam uma intervenção social imediata;
+
+3) Pobreza - privação das condições necessárias para o acesso a uma vida digna;
+
+4) Vulnerabilidade social - precariedade no acesso a serviços e recursos que garantam os direitos, a proteção social e a vida com qualidade;
+
+5) Prestação de caráter eventual - prestação pecuniária de caráter eventual, com vista a colmatar situações de vulnerabilidade e carência económica em que o indivíduo/família se encontra, desde que devidamente comprovadas;
+
+6) Agregado familiar - considera-se agregado familiar as pessoas que, além do requerente, com ele vivam em economia comum, conforme o disposto no artigo 4.º do [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho.
+
+###### Artigo 6.º — Entidade promotora do SAAS
+
+A entidade promotora do SAAS é o Município de Grândola, no âmbito das suas competências.
+
+###### Artigo 7.º — Natureza do serviço
+
+1 - O SAAS assegura o atendimento e o acompanhamento social de pessoas e famílias em situação de vulnerabilidade e exclusão social.
+
+2 - O SAAS assegura também o atendimento em situação de emergência social.
+
+### CAPÍTULO II — Organização e regras de funcionamento
+
+###### Artigo 8.º — Objetivos do SAAS
+
+São objetivos do Serviço de Atendimento e Acompanhamento Social:
+
+a) Informar, aconselhar e encaminhar para respostas, serviços ou prestações sociais adequadas a cada situação, em articulação com os competentes serviços e organismos da administração pública;
+
+b) Prestar apoio em situações de vulnerabilidade social;
+
+c) Prevenir situações de pobreza e de exclusão social;
+
+d) Contribuir para a aquisição e ou fortalecimento das competências das pessoas e famílias, promovendo a sua autonomia e potenciando as redes de suporte familiar e social;
+
+e) Assegurar o acompanhamento do percurso de inserção social;
+
+f) Mobilizar os recursos da comunidade adequados à progressiva autonomia pessoal, social e profissional.
+
+###### Artigo 9.º — Princípios orientadores
+
+O SAAS obedece, designadamente, aos seguintes princípios:
+
+1) Promoção da inserção social e comunitária;
+
+2) Contratualização para a inserção, como instrumento mobilizador da corresponsabilização dos diferentes intervenientes;
+
+3) Personalização, seletividade e flexibilidade de apoios sociais;
+
+4) Intervenção prioritária das entidades mais próximas dos cidadãos;
+
+5) Valorização das parcerias para uma atuação integrada;
+
+6) Intervenção mínima, imediata e oportuna.
+
+###### Artigo 10.º — Atividades do SAAS
+
+1 - No SAAS são desenvolvidas as seguintes atividades:
+
+a) Atendimento, informação e orientação de cada pessoa e família, tendo em conta os seus direitos, deveres e responsabilidades, bem como o encaminhamento para os serviços, caso se justifique;
+
+b) Informação detalhada sobre a forma de acesso a recursos, equipamentos e serviços sociais que permitam às pessoas e famílias o exercício dos direitos de cidadania e de participação social;
+
+c) Avaliação e diagnóstico social com a participação dos próprios;
+
+d) Atribuição de prestações de caráter eventual com a finalidade de colmatar situações de emergência social e de comprovada carência económica;
+
+e) Planeamento e organização da intervenção social;
+
+f) Contratualização no âmbito da intervenção social;
+
+g) Coordenação e avaliação da execução das ações contratualizadas.
+
+2 - Sempre que se justifique uma intervenção complementar, devem ser acionadas, em parceria, outras entidades ou setores da comunidade vocacionadas para a prestação dos apoios mais adequados.
+
+###### Artigo 11.º — Prestações de caráter eventual
+
+1 - Relativamente ao disposto na alínea d) do artigo 10.º do presente regulamento, as prestações pecuniárias revestem-se de caráter eventual e, em condições de excecionalidade, destinam-se a compensar encargos urgentes e inadiáveis para adquirir bens e serviços de primeira necessidade, tendo como objetivo último a capacitação dos indivíduos/famílias com vista à sua autonomização.
+
+2 - Estas prestações têm por base o diagnóstico específico e são atribuídas tendo em consideração a condição de recursos do agregado familiar.
+
+3 - Estas prestações destinam-se a indivíduos ou famílias, desde que comprovada a situação de carência económica.
+
+4 - A aprovação da prestação de caráter eventual é da competência do/a Vereador/a da área de Ação Social do Município, por proposta do serviço e implica a verificação das seguintes condições:
+
+a) Residência no Município;
+
+b) Prova de identidade do indivíduo e dos familiares;
+
+c) Agregados familiares com capitação inferior ao valor da pensão social, atualizada e publicada anualmente em Portaria do Governo;
+
+d) Existência de diagnóstico social/avaliação que fundamente a situação de carência e/ou vulnerabilidade do indivíduo e da família;
+
+e) Inexistência ou insuficiência de outros meios e/ou recursos do sistema de segurança social adequados à situação diagnosticada;
+
+f) Contratualização do plano de inserção.
+
+5 - Excecionalmente, em situação de emergência pela ocorrência de um facto inesperado, pode haver lugar à dispensa das condições referidas nas alíneas a), c) e f) desde que devidamente fundamentadas e mediante avaliação e proposta do serviço e aprovação pelo órgão executivo.
+
+6 - O montante a atribuir será definido caso a caso, adequando-o à especificidade de cada situação e aos recursos disponíveis.
+
+7 - A atribuição dos montantes poderá ser realizada através de:
+
+a) Um único montante;
+
+b) Montantes mensais, por um período máximo de 3 meses, quando a situação de carência económica ou percurso de inserção do indivíduo ou família assim o justifique;
+
+c) Excecionalmente, a atribuição destas prestações poderá ser prorrogada por igual período, sempre que justificável na sequência da avaliação da situação.
+
+8 - Apuramento da Capitação - A capitação do rendimento do agregado familiar é apurada de acordo com a seguinte fórmula:
+
+Cap = (RAF-DAF)/N
+
+Cap - Capitação;
+
+RAF - Rendimento mensal do agregado familiar;
+
+DAF - Despesas fixas mensais do agregado familiar;
+
+N - Número de elementos do agregado familiar à data da instrução do processo.
+
+9 - Os rendimentos a considerar são:
+
+a) Rendimentos de trabalho dependente;
+
+b) Rendimentos empresariais e profissionais;
+
+c) Rendimentos de capitais;
+
+d) Rendimentos prediais;
+
+e) Pensões;
+
+f) Prestações sociais;
+
+g) Apoios à habitação com caráter de regularidade;
+
+h) Bolsas de estudo e de formação.
+
+10 - Os rendimentos a considerar reportam ao mês anterior à data de apresentação do pedido ou da situação de carência. Apenas, excecionalmente, e em caso de alterações significativas da situação socioeconómica deverá ser considerado o próprio mês da apresentação do pedido.
+
+11 - As despesas a considerar são:
+
+a) Rendas de casa ou prestação mensal relativa a empréstimo bancário para compra de habitação, até ao valor limite de 500,00 (euro). Além da renda de casa ou prestação mensal poderão ser também considerados os seguros de vida e multirriscos, associados ao mencionado empréstimo, até ao limite de 500,00 (euro);
+
+b) Despesas com água, luz, gás e telefone, até aos valores máximos indicados na tabela seguinte:
+
+Despesas mensais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/03/049000000/0027300283.pdf)
+
+c) Despesas de saúde (no valor não comparticipado pelo SNS) nomeadamente na aquisição de medicamentos, para tratamentos continuados ou deslocações a tratamentos (comprovados por prescrição médica);
+
+d) Despesas com transporte, nomeadamente o valor do passe social ou valor do título de transporte para deslocações a efetuar;
+
+e) Despesas com educação;
+
+f) Despesas com a frequência de equipamentos sociais.
+
+12 - O agregado familiar deverá fazer prova da sua condição de recursos através da apresentação dos documentos comprovativos originais mencionados nos números anteriores, para verificação e imediata devolução.
+
+13 - Os valores previstos nas alíneas a) e b) do n.º 11 do presente artigo podem ser sujeitos a alteração, sempre que se justifique, por deliberação do órgão executivo mediante proposta do serviço.
+
+14 - Excecionalmente, e mediante justificação técnica, poderão ser atribuídos apoios pecuniários imediatos e diretos a agregados familiares em situação de emergência social, para despesas urgentes e inadiáveis, nomeadamente, serviços de primeira necessidade (luz, gás e água), transporte e medicamentos, que não se enquadrem noutras formas de apoio e que cumpram os critérios estabelecidos no n.º 2 e 3 do presente artigo.
+
+14.1 - A prestação dos apoios mencionados no n.º 14 terá de ser comprovada através da apresentação de toda a documentação probatória da situação, de uma informação social realizada pela técnica responsável do serviço e por uma declaração comprovativa do beneficiário em como recebeu o apoio.
+
+15 - Sempre que haja dúvidas sobre a veracidade dos elementos apresentados deverão ser efetuadas as diligências necessárias ao apuramento das situações.
+
+16 - As verbas a disponibilizar anualmente para prestações de caráter eventual serão definidas mediante proposta ao órgão executivo, no início de cada ano civil, de acordo com a dotação inscrita em orçamento municipal.
+
+###### Artigo 12.º — Âmbito territorial de intervenção
+
+O âmbito territorial de intervenção do Serviço de Atendimento e Acompanhamento Social é o concelho de Grândola.
+
+###### Artigo 13.º — Localização do SAAS
+
+O Serviço de Atendimento e Acompanhamento Social está sediado nas instalações do Município de Grândola.
+
+###### Artigo 14.º — Instalações do SAAS
+
+O SAAS dispõe de instalações e espaços adequados à prossecução dos seus objetivos, reunindo as condições de segurança, funcionalidade e conforto, nomeadamente em matéria de edificado, segurança e higiene no trabalho e acessibilidades, de acordo com a legislação em vigor.
+
+###### Artigo 15.º — Horário de funcionamento e Locais de atendimento
+
+1 - O horário de funcionamento, o período e locais de atendimento do SAAS serão definidos mediante proposta ao órgão executivo de modo que se ajuste às necessidades dos munícipes.
+
+2 - O horário de funcionamento e de atendimento do SAAS, bem como a constituição da equipa técnica, deverão ser divulgados e afixados nos locais habituais.
+
+###### Artigo 16.º — Constituição da Equipa Técnica
+
+1 - A intervenção técnica do SAAS é assegurada por uma equipa multidisciplinar, composta por técnico(a)s com formação superior na área das ciências sociais ou humanidades e pelo/a coordenador/a.
+
+2 - A constituição da equipa técnica do SAAS integra, preferencialmente, pelo menos um técnico com formação superior na área de Serviço Social.
+
+###### Artigo 17.º — Competências da Equipa Técnica
+
+É da competência da equipa técnica do SAAS:
+
+a) Atendimento, informação e orientação das pessoas e famílias;
+
+b) Avaliação e diagnóstico social, com a participação dos próprios;
+
+c) Instrução e organização do processo familiar;
+
+d) Definição, com a participação dos próprios, do plano de inserção e respetiva contratualização;
+
+e) Cooperação e articulação com outras entidades e serviços da comunidade, que se revelem estratégicos para a prossecução dos objetivos de inserção;
+
+f) Encaminhamento das pessoas e famílias para outra entidade ou serviço, sempre que resultar da avaliação e do diagnóstico social a necessidade de uma intervenção especifica em outra área de atuação;
+
+g) Elaboração de propostas técnicas, devidamente fundamentadas, de atribuição de prestação de caráter eventual com a finalidade de colmatar situações de emergência social e de comprovada carência económica;
+
+h) Comunicação às entidades parceiras envolvidas no processo de intervenção social das alterações que se verifiquem durante o processo de acompanhamento social;
+
+i) Comunicação aos serviços competentes da segurança social de alterações que se verifiquem durante o processo de acompanhamento social das pessoas ou famílias;
+
+j) Identificação de estratégias e metodologias inovadoras de trabalho para a intervenção social com as pessoas e famílias;
+
+k) Avaliação contínua do SAAS, possibilitando adaptações e modificações necessárias a uma intervenção eficaz.
+
+###### Artigo 18.º — Coordenação Técnica
+
+1 - A equipa técnica é dirigida por coordenador(a) técnico(a) com formação superior.
+
+2 - O/A coordenador(a) técnico(a) do SAAS faz-se substituir, nas suas ausências e impedimentos, pelo superior hierárquico imediatamente a seguir.
+
+###### Artigo 19.º — Atribuições da(o) Coordenador(a) Técnica(o)
+
+Ao/À/ coordenador(a) técnica(o) da equipa compete a:
+
+a) Gestão adequada ao bom funcionamento do serviço, através da programação, supervisão e avaliação das atividades desenvolvidas pela equipa técnica;
+
+b) Coordenação e apoio da equipa técnica nas diferentes ações e atividades desenvolvidas no âmbito do desenvolvimento da sua atividade, de forma que seja garantida a qualidade técnica do serviço;
+
+c) Interlocução, articulação e relações interinstitucionais da equipa com as várias entidades multissetoriais representadas nas estruturas locais;
+
+d) Avaliação contínua da ação da equipa, promovendo a identificação de estratégias e metodologias de trabalho eficazes e inovadoras;
+
+e) Validação das propostas de atribuição de prestações de caráter eventual, quanto à sua natureza e finalidade, de acordo com as condições e regras de atribuição definidas superiormente;
+
+f) Elaboração de relatórios e recolha de dados de natureza estatística de acordo com os modelos e instrumentos em vigor.
+
+###### Artigo 20.º — Indicadores de atividade
+
+1 - O SAAS definirá e manterá atualizados os indicadores de atividade adequados.
+
+2 - Os indicadores de atividade e os relatórios produzidos são objeto de comunicação aos superiores hierárquicos com a regularidade que se considere adequada.
+
+### CAPÍTULO IV — Direitos e deveres
+
+###### Artigo 21.º — Direitos da Equipa Técnica
+
+São direitos dos(as) profissionais da equipa técnica e do(a) coordenador(a):
+
+a) O acesso a condições de trabalho adequadas ao exercício das suas funções;
+
+b) O tratamento com respeito e dignidade;
+
+c) A frequência de ações de formação para atualização de conhecimentos e aquisição de novas competências necessárias ao desenvolvimento profissional e pessoal;
+
+d) O usufruto, regular, de supervisão técnica.
+
+###### Artigo 22.º — Deveres da Equipa Técnica
+
+São deveres dos(as) profissionais da equipa técnica e do(a) coordenador(a):
+
+a) Desenvolver as atividades necessárias à concretização do SAAS;
+
+b) Recolher o consentimento informado para a intervenção a desenvolver e registo da informação;
+
+c) Cumprir deveres de privacidade e de confidencialidade no uso responsável da informação sobre as pessoas e famílias;
+
+d) Aceder às aplicações do sistema de informação específico da segurança social, no uso estritamente necessário e restringido aos dados e informação relevantes para a prossecução das finalidades legalmente previstas;
+
+e) Guardar sigilo da informação cujo conhecimento lhes advenha da execução das suas atribuições profissionais;
+
+f) Organizar, registar e assegurar a coerência dos dados no processo familiar, bem como zelar pela qualidade da informação inserida no sistema de informação específico;
+
+g) Garantir a organização de um arquivo, em condições de segurança e de conservação, relativamente ao qual deverá ser assegurado o acesso restrito e a confidencialidade das informações nele contido;
+
+h) Promover a intervenção personalizada, mínima, imediata e oportuna, ajustada às necessidades e às capacidades das pessoas e famílias, promovendo a corresponsabilização de todos os intervenientes incluindo entidades parceiras e ou de proximidade;
+
+i) Zelar pela progressiva melhoria e sustentabilidade dos serviços prestados pelo SAAS, tendo em conta os fins a que ele se destina;
+
+j) Disponibilizar ao indivíduo ou ao agregado familiar cópia do instrumento de contratualização para a inserção celebrado, devidamente datado e subscrito pelas partes outorgantes do mesmo;
+
+k) Disponibilizar, sempre que for solicitado, o regulamento do serviço e o Livro de Reclamações.
+
+###### Artigo 23.º — Direitos das pessoas utilizadoras de SAAS
+
+São direitos da pessoa, enquanto sujeito de direitos e consequentemente de cada um e de todos os elementos de uma família, atendida e ou acompanhada, no âmbito do SAAS:
+
+a) Ser respeitada pela sua identidade pessoal e reserva da sua vida privada e familiar;
+
+b) Ver garantida a confidencialidade da informação prestada no âmbito do Atendimento e Acompanhamento Social;
+
+c) Contratualizar o seu percurso de inserção social e ser apoiada na articulação e no acesso aos recursos mobilizados para a sua progressiva autonomia pessoal, social e profissional;
+
+d) Participar no seu processo de inserção social, designadamente na negociação, celebração, avaliação do plano de inserção devidamente contratualizado;
+
+e) Ser informada sobre os direitos e deveres que lhe advêm da contratualização para a inserção, bem como das diligências realizadas no âmbito do atendimento e acompanhamento social;
+
+f) Ter acesso a uma cópia do instrumento de contratualização para a inserção celebrado, devidamente datado e subscrito pelas partes outorgantes do mesmo;
+
+g) Ter a prorrogativa de solicitar aos serviços a cessação do compromisso /acordo materializado na contratualização para a inserção, e da intervenção da equipa do SAAS, tomando esta decisão de forma livre e informada;
+
+h) Ter acesso ao regulamento do SAAS e ao Livro de Reclamações, nos termos da legislação em vigor.
+
+###### Artigo 24.º — Deveres das pessoas utilizadoras de SAAS
+
+São deveres da pessoa, enquanto sujeito de direitos e consequentemente de cada um e de todos os elementos de uma família, atendida e ou acompanhada, no âmbito do SAAS:
+
+a) Tratar com respeito e dignidade qualquer profissional do SAAS e os restantes utilizadores do serviço;
+
+b) Contratualizar o seu percurso de inserção social e ser apoiada na articulação e no acesso aos recursos mobilizados para a sua progressiva autonomia pessoal, social e profissional;
+
+c) Comunicar as alterações que se verifiquem durante o processo de acompanhamento social e que sejam relevantes para a alteração ou manutenção das ações inscritas no instrumento de contratualização em vigor;
+
+d) Cumprir as regras de funcionamento do serviço previstas no presente regulamento.
+
+### CAPÍTULO V — Processo familiar
+
+###### Artigo 25.º — Organização do processo familiar
+
+1 - É obrigatória a organização de um processo familiar, do qual deve constar:
+
+a) Caracterização individual e familiar;
+
+b) Diagnóstico social e familiar;
+
+c) Contratualização para a inserção;
+
+d) Relatórios sobre o processo de evolução da situação familiar;
+
+e) Data do início e do termo da intervenção;
+
+f) Avaliação da intervenção;
+
+g) Registo das diligências efetuadas.
+
+2 - O processo familiar organizado, em formato informático, não dispensa a coexistência de um processo em suporte físico, com o mesmo número mecanográfico atribuído automaticamente pelo sistema informático, para efeitos de arquivo de documentação probatória que se considere relevante para o processo.
+
+3 - Cada processo familiar é de acesso restrito e natureza confidencial, e deverá ser arquivado em condições de segurança, nos termos da legislação em vigor.
+
+### CAPÍTULO VI — Sistema de informação
+
+###### Artigo 26.º — Sistema de informação específico
+
+1 - O acesso ao sistema de informação específico referido no n.º 5 do artigo 10.º e no n.º 4 do artigo 11.º do [Decreto-Lei n.º 55/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2020-140087205), de 12 de agosto, é efetuado de acordo com os perfis definidos para as respetivas funções, envolvendo apenas utilizadores devidamente credenciados para o efeito, e encontrando-se restringido aos dados relevantes para prossecução das competências a que se refere a alínea a) e a alínea f) do n.º 1 do artigo 3.º e os artigos 10.º e 11.º do mesmo decreto-lei.
+
+2 - O acesso é garantido pelo Instituto de Informática, I. P., mediante identificação dos utilizadores autorizados pelo Município, com vista à atribuição de um código de utilizador e de uma palavra-passe, pessoal e intransmissível, nos termos das normas em vigor para a atribuição de acessos.
+
+3 - Os utilizadores com acesso autorizado comprometem-se a assegurar a coerência dos dados registados, bem como a zelar pela qualidade da informação inserida no Sistema de Informação da Segurança Social (SISS).
+
+4 - De acordo com o previsto nos artigos 14.º e 15.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de outubro, alterada pela [Lei n.º 103/2015](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), de 24 de agosto, são ainda adotadas e periodicamente atualizadas as seguintes medidas de segurança de tratamentos de dados pessoais em causa:
+
+a) Os perfis são atribuídos a cada utilizador, em função do seu perfil de acesso a cada módulo aplicacional do sistema de informação específico;
+
+b) O acesso à informação por parte dos utilizadores carece de autenticação por código de utilizador e palavra-passe, assegurando que apenas utilizadores credenciados possam aceder a cada um dos módulos aplicacionais do sistema de informação específico, e dentro de cada um destes, apenas às operações a que estão autorizados a realizar.
+
+5 - O acesso ao sistema de informação específico salvaguarda a segurança e a confidencialidade dos dados pessoais ou de matérias sujeitas a sigilo, encontrando-se os utilizadores vinculados ao dever de sigilo e confidencialidade da informação cujo conhecimento lhes advenha pelas atividades inerentes às suas funções, mesmo após o termo das mesmas.
+
+6 - O acesso à informação e o perfil atribuído a cada utilizador é efetivado mediante a assinatura de termo de responsabilidade e de acordo com a política de acessos definida pelo Instituto da Segurança Social, I. P.
+
+7 - São adotadas e periodicamente atualizadas medidas de segurança ao tratamento dos dados pessoais em causa, pelo que, todos os acessos são registados em base de dados para efeitos de auditoria, identificado o utilizador, operação realizada e data e hora da alteração.
+
+###### Artigo 27.º — Obrigatoriedade de sigilo
+
+1 - Os(As) técnicos(as) afetos(as) ao SAAS estão sujeitos(as) a guardar sigilo da informação cujo conhecimento lhes advenha das atividades exercidas estabelecidas no seu âmbito, mesmo após o termo das suas funções.
+
+2 - A violação do disposto no número anterior faz incorrer o(a) faltoso(a) em responsabilidade penal, sem prejuízo de outras sanções legais aplicáveis.
+
+### CAPÍTULO VII — Disposições finais
+
+###### Artigo 28.º — Entrada em vigor
+
+O presente regulamento entra em vigor após a sua publicação em Diário da República e quando se efetivarem as transferências de competências para o Município de Grândola.
+
+27 de fevereiro de 2023. - O Presidente da Câmara, António de Jesus Figueira Mendes.
+
+316211083

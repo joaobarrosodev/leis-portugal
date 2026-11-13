@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:121370206:por
+title: Regulamento n.º 263/2019
+short_title: null
+summary: Alteração ao Regulamento do Cemitério Municipal de Vila Real de Santo António
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Vila Real de Santo António
+proposing_entity: null
+official_number: 263/2019
+official_date: null
+publication_date: '2019-03-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 57/2019, Série II de 2019-03-21
+  number: '57'
+  series: II
+  supplement: null
+  pages: 8921 - 8921
+  pdf_url: https://files.diariodarepublica.pt/2s/2019/03/057000000/0892108921.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '121370206'
+  dre_path: /dr/detalhe/regulamento/263-2019-121370206
+  internal: pt:dre:121370206:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/263-2019-121370206
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/263-2019-121370206
+  consolidated_url: null
+  retrieved_at: '2026-11-13T06:40:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c031e6b964fa21a4196e23404b9b82767ca7bf5f40548b090f3e94db1ac76d86
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T06:40:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T06:40:38Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 263/2019
+
+Maria da Conceição Cipriano Cabrita, Presidente da Câmara Municipal de Vila Real de Santo António, nos termos e para os efeitos do disposto no artigo 139.º do Código de Procedimento Administrativo, torna público que, por deliberação tomada na reunião ordinária da Câmara Municipal realizada em 4 de dezembro de 2018, foi determinado o início do procedimento de elaboração da Alteração ao Regulamento do Cemitério Municipal de Vila Real de Santo António. Após período de audiência dos interessados, foi aprovado o referido regulamento, em conformidade com a versão definitiva aprovada na reunião ordinária da Câmara Municipal de 5 de fevereiro de 2019, e na reunião ordinária da Assembleia Municipal de 25 de fevereiro de 2019, que a seguir se reproduz na íntegra.
+
+28 de fevereiro de 2019. - A Presidente da Câmara, Maria da Conceição Cipriano Cabrita.
+
+Alteração ao Regulamento do Cemitério Municipal de Vila Real de Santo António
+
+Ao artigo 13.º é aditado o n.º 5, pelo que o referido preceito passará a ter a seguinte redação:
+
+«Artigo 13.º
+
+Modos de inumação
+
+1 - Os cadáveres a inumar serão encerrados em caixões de madeira ou de zinco.
+
+2 - Os caixões de zinco devem ser hermeticamente fechados, para o que serão soldados, no cemitério perante o funcionário responsável.
+
+3 - Sem prejuízo do número anterior, a pedido dos interessados, e quando a disponibilidade dos serviços o permitir, pode a soldagem do caixão efetuar-se com a presença de um representante da Câmara Municipal, no local donde partirá o féretro.
+
+4 - Antes do definitivo encerramento, devem ser depositadas nas urnas materiais que acelerem a decomposição do cadáver ou colocados filtros depuradores e dispositivos adequados a impedir a pressão dos gases no seu interior, consoante se trate de inumação em sepultura ou em jazigo.
+
+5 - A responsabilidade pela colocação do potenciador ecológico de matéria orgânica em decomposição para exumações não consumadas, vulgarmente designados por químicos e/ou filtros, corre por conta dos agentes funerários.»
+
+O artigo 41.º passará a ter a seguinte redação:
+
+«CAPÍTULO VII
+
+Da exumação
+
+Artigo 41.º
+
+Aviso aos interessados
+
+1 - Decorrido o prazo estabelecido no n.º 1 do artigo anterior, proceder-se-á à exumação.
+
+2 - Um mês antes de terminar o período legal de inumação, os Serviços da Câmara Municipal notificarão os interessados, se conhecidos, através de carta registada com aviso de receção, promovendo também a publicação de avisos nos locais de estilo e na página eletrónica do município, convidando os interessados a requerer no prazo de trinta dias a exumação ou conservação de ossadas e, uma vez recebido o requerimento, a comparecer no cemitério no dia e hora que vier a ser fixado para esse fim.
+
+3 - Verificada a oportunidade de exumação, pelo decurso do prazo fixado no número anterior, sem que o ou os interessados alguma diligência tenham promovido no sentido da sua exumação, esta, se praticável, será levada a efeito pelos serviços, considerando-se abandonada a ossada existente.
+
+4 - Às ossadas abandonadas nos termos do número anterior, ou não reclamadas, ficarão em depósito por um período de três meses a contar da data da exumação, findo o qual será dado o destino adequado, incluindo a cremação, ou quando não houver inconveniente, inumá-las nas próprias sepulturas, mas a profundidades superiores às indicadas no artigo 21.º, conforme decisão do Presidente da Câmara Municipal ou do Vereador com competência delegadas.»
+
+Ao Regulamento será aditado o artigo 44.º-A, que terá a seguinte redação:
+
+«CAPÍTULO VIII
+
+Das trasladações
+
+[...]
+
+Artigo 44.º-A
+
+Exclusão da Responsabilidade
+
+O Município não se responsabiliza por eventuais danos provocados nas pedras de adorno de propriedade dos requerentes, decorrentes dos atos necessários à inumação de cadáveres e/ou trasladação de restos mortais de sepulturas temporárias e de jazigos municipais de consumpção aeróbia, em ou para as sepulturas perpétuas.»
+
+312110117

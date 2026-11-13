@@ -1,0 +1,273 @@
+---
+schema_version: '1.0'
+id: pt:dre:73847774:por
+title: Regulamento n.º 254/2016
+short_title: null
+summary: Regulamento Municipal do Concurso de Empreendedorismo "Guarda Forte"
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município da Guarda
+proposing_entity: null
+official_number: 254/2016
+official_date: null
+publication_date: '2016-03-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 50/2016, Série II de 2016-03-11
+  number: '50'
+  series: II
+  supplement: null
+  pages: 8796 - 8798
+  pdf_url: https://files.diariodarepublica.pt/2s/2016/03/050000000/0879608798.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '73847774'
+  dre_path: /dr/detalhe/regulamento/254-2016-73847774
+  internal: pt:dre:73847774:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/254-2016-73847774
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/254-2016-73847774
+  consolidated_url: null
+  retrieved_at: '2026-11-13T06:04:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8ac3baa3bcf7d4741aabf2a8f838d50d09ef70dcddad8a1f31d511f1f368a9d6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T06:04:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+article_structure:
+  article_count: 15
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T06:04:14Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 254/2016
+
+Regulamento Municipal do Concurso de Empreendedorismo "Guarda Forte"
+
+O Presidente da Câmara Municipal da Guarda, ao abrigo da competência constante na alínea t) do n.º 1 do artigo 35.º e para os efeitos do estatuído no artigo 56.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, torna público o Regulamento Municipal do Concurso de Empreendedorismo "Guarda Forte".
+
+Preâmbulo
+
+A definição e implementação de uma política local promotora da dinamização da atividade económica do concelho passa, incontornavelmente, pelo desenvolvimento de medidas impulsionadoras do empreendedorismo, fomentando-se o investimento e a criação de emprego local.
+
+O Concurso de Empreendedorismo "Guarda Forte" tem como finalidade estimular e reconhecer iniciativas empreendedoras e criativas no âmbito do desenvolvimento económico do concelho, reconhecendo-se que a capacidade empreendedora desempenha um papel primacial no desenvolvimento das regiões.
+
+O estímulo destas iniciativas capacita a realização de atividades, o aproveitamento de recursos endógenos, promovendo o valor acrescentado que estes adicionam, a criação de postos de trabalho, o aumento de rendimento gerado e consequentemente disponível para as famílias, a possibilidade de fixação da população e a capacidade de, nos riscos se encontrarem oportunidades.
+
+O espírito empreendedor contribui para reforçar a coesão económica e social, estimular a atividade económica e a criação de emprego ou para integrar os desempregados ou os mais desfavorecidos no meio laboral.
+
+Ao instituir esta iniciativa, o Município da Guarda pretende potenciar o reconhecimento público, a dignificação, a valorização e o prestígio da atividade empresarial, e ao mesmo tempo criar um prémio importante no reforço da autoconfiança, da autoestima e na motivação para novos projetos e novos desafios.
+
+O Município da Guarda, consciente do seu papel, decidiu lançar a iniciativa "Guarda Forte" para distinguir e dar visibilidade pública a quem independentemente da sua atividade ou ideia, mais contribuiu ou pode vir a contribuir para estimular o espírito empreendedor e o desenvolvimento económico do concelho.
+
+Assim, ao abrigo do disposto no n.º 7 do artigo 112.º e 241.º da Constituição da Republica Portuguesa, nas alíneas k) e ccc) do n.º 1 do artigo 33.º e na alínea g) do n.º 1 do artigo 25.º, ambas da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, e findo o período de consulta pública, a Assembleia Municipal da Guarda deliberou na sua sessão de 26-02-2016, sob proposta da Câmara Municipal, de 08-02-2016, aprovar o presente regulamento:
+
+### Capítulo I — Disposições Gerais
+
+###### Artigo 1.º — Objeto
+
+1 - A finalidade deste concurso de Empreendedorismo é conduzir à criação de novas empresas, atrair iniciativas empreendedoras que possam ser desenvolvidas no concelho da Guarda, permitir a identificação de negócios inovadores possíveis de se transformarem em negócios viáveis e fomentar o espírito empreendedor na região.
+
+2 - A entidade promotora é o Município da Guarda que poderá associar-se a outras entidades, públicas ou privadas, constituindo parceria no concurso.
+
+###### Artigo 2.º — Áreas Prioritárias e Valorizadas
+
+1 - No âmbito do presente concurso serão valorizadas ideias de negócio desenvolvidas nas seguintes áreas:
+
+a) Produtos Endógenos;
+
+b) Turismo;
+
+c) Bio tecnologia;
+
+d) Saúde e bem-estar;
+
+e) Cultura, Património e Indústrias Criativas;
+
+f) Logística
+
+g) Energias Renováveis
+
+2 - As ideias de negócio que incorporem inovação, valorização de produtos endógenos, com potencial exportador, criem postos de trabalho e permitam a diversificação do tecido empresarial existente serão igualmente valorizadas.
+
+###### Artigo 3.º — Participantes
+
+1 - Podem candidatar-se a esta iniciativa todos os empreendedores que pretendam desenvolver um projeto e que tenham idade superior a 18 anos.
+
+2 - Este concurso de Empreendedorismo tem âmbito nacional, pelo que não existirão quaisquer restrições à proveniência das candidaturas, desde que se proponham concretizar a iniciativa empresarial no concelho da Guarda.
+
+3 - Para efeitos do número anterior e independentemente da proveniência dos candidatos, a empresa a criar, deverá ficar sedeada no Concelho da Guarda, por um período mínimo de 5 anos, criando pelo menos um posto de trabalho.
+
+### Capítulo II — Funcionamento
+
+###### Artigo 4.º — Candidaturas
+
+1 - O prazo para apresentação de candidaturas, será oportunamente divulgado decorrendo nos prazos e termos expressos no site da autarquia: http://www.mun-guarda.pt/concurso_empreendedorismo, sendo este um procedimento totalmente gratuito.
+
+2 - As candidaturas consideram-se formalizadas através de:
+
+a) Preenchimento de formulário eletrónico no site http://www.mun-guarda.pt/concurso_empreendedorismo;
+
+b) Apresentação do Curriculum Vitae do (s) candidato(s);
+
+c) Junção de declaração dos candidatos, sob compromisso de honra que:
+
+c.1) Aceitam sem reservas e regras e condições do concurso previstas no presente regulamento;
+
+c.2) A Candidatura, suas ideias e conceitos são originais da sua autoria e responsabilidade, inexistindo qualquer impedimento, legal ou contratual, de serem usadas divulgadas ou aplicadas no projeto a concurso.
+
+c.3) O projeto é licito, não ofensivo de lei, ordem pública ou costumes.
+
+d) Envio da candidatura por correio eletrónico para: empreendedorismo@mun-guarda.pt ou para a morada da Câmara Municipal da Guarda, sediada na Praça do Município 6300-854 Guarda;
+
+3 - As candidaturas poderão ser subscritas por qualquer um dos candidatos (no caso de candidaturas com mais do que um candidato), que assumirá integral responsabilidade decorrente da participação.
+
+4 - No caso de candidaturas apresentadas por pessoas coletivas as mesmas deverão ser subscritas pelos seus representantes legais.
+
+5 - Após a receção das candidaturas, a entidade promotora poderá solicitar aos candidatos esclarecimentos suplementares.
+
+6 - Cada candidato (individual ou coletivo) não poderá apresentar mais do que uma candidatura.
+
+7 - As candidaturas são obrigatoriamente redigidas em português.
+
+###### Artigo 5.º — Candidaturas não elegíveis
+
+1 - O júri poderá tomar a decisão de considerar inválida uma candidatura verificando-se uma das seguintes circunstâncias:
+
+a) Candidatura entregue numa data posterior ao prazo definido;
+
+b) Candidaturas que não apresentem a documentação solicitada nas alíneas a), b) e c) do n.º 2 do Artigo 4.º do presente regulamento;
+
+c) Falsas declarações prestadas aquando da apresentação da candidatura;
+
+d) Irregularidade grave na candidatura apresentada.
+
+###### Artigo 6.º — Fases do procedimento
+
+Fase 1 - Entrega do projeto;
+
+Fase 2 - O Júri definido pela entidade promotora fará uma análise prévia das candidaturas para verificação do cumprimento do regulamentarmente previsto;
+
+Fase 3 - O Júri fará uma ordenação das candidaturas validadas, de acordo com os critérios definidos no Artigo 8.º, passando as 5 primeiras candidaturas a finalistas;
+
+Fase 4 - Apresentação dos projetos finalistas em evento público, onde cada candidato apresentará o seu projeto durante 5 minutos "Elevator Pitch", perante o Júri do Concurso que lhe atribuirá a Classificação Final.
+
+###### Artigo 7.º — Júri
+
+1 - A constituição do júri será da responsabilidade da entidade promotora e poderá ser composto por representantes de entidades públicas e privadas, ou ainda, personalidades do meio empresarial, académico ou da sociedade civil em geral.
+
+2 - Caberá ao júri escolher os 3 melhores projetos do concurso, um primeiro prémio e duas menções honrosas.
+
+###### Artigo 8.º — Critérios de seleção
+
+1 - As candidaturas serão valoradas numa escala de 0 (zero) a 20 (vinte), de acordo com os seguintes critérios e respetivas ponderações:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/03/050000000/0879608798.pdf)
+
+Fórmula de Mérito = A*.25 + B*.20 + C*.25 + D*.20 + E*.10
+
+###### Artigo 9.º — Prémios
+
+1 - Integram o Primeiro Prémio:
+
+a) Premio Monetário no valor de (euro) 2500.00, atribuídos pela Câmara Municipal da Guarda;
+
+b) Serviço de incubação gratuita durante 12 meses, no IPG;
+
+c) Consultadoria e apoio técnico com vista à criação/formalização do plano de negócios necessário à obtenção de financiamento para concretização do projeto empresarial, 25 horas, assegurada pelo NERGA;
+
+d) Frequência de 75 horas de formação em ações promovidas pelo IEFP da Guarda, na área das competências de empreendedorismo.
+
+2 - O Prémio Monetário previsto na alínea a) do n.º 1 poderá ser financiado por outras entidades, pessoas singulares ou coletivas que pretendam patrocinar e associar-se ao concurso.
+
+3 - A entrega do prémio monetário, efetuar-se-á de forma faseada:
+
+a) 40 % - Entrega imediata;
+
+b) 60 % - Aquando da constituição da empresa.
+
+4 - Menções Honrosas:
+
+a) A menção honrosa indicará o nome do candidato e o seu lugar classificativo.
+
+###### Artigo 10.º — Confidencialidade e Propriedade Intelectual
+
+1 - Em relação às candidaturas premiadas, a entidade promotora reserva-se ao direito de difundir, usar imagens, textos, vozes, nomes e marcas, em qualquer meio de divulgação e promoção, sem que haja ónus ou termo de retribuição, existindo autorização tácita dos candidatos premiados.
+
+2 - Relativamente às candidaturas não premiadas, a entidade promotora compromete-se a guardar confidencialidade sobre as mesmas.
+
+3 - Todas as soluções desenvolvidas e apresentadas no âmbito deste Concurso são propriedade dos respetivos autores, no cumprimento do legalmente estabelecido quanto aos direitos de autor.
+
+###### Artigo 11.º — Desistências
+
+1 - No caso de desistência, por parte dos candidatos, estes ficam obrigados a comunicar tal facto por escrito, através do endereço eletrónico empreendedorismo@mun-guarda.pt.
+
+2 - As desistências permitem ao júri integrar outras candidaturas, caso o entenda.
+
+###### Artigo 12.º — Certificado de Participação
+
+Todos os participantes receberão um Certificado de Participação.
+
+### Capítulo III — Disposições Finais
+
+###### Artigo 13.º
+
+Salvo disposição expressa em contrário os prazos serão contados nos termos do Código do Procedimento administrativo.
+
+###### Artigo 14.º — Dúvidas e Omissões
+
+1 - A resolução de questões supervenientes não previstas neste regulamento é da exclusiva responsabilidade da Câmara Municipal.
+
+2 - As decisões do Júri são soberanas e delas não cabe recurso.
+
+###### Artigo 15.º — Entrada em Vigor
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação.
+
+4 de março de 2016. - O Presidente da Câmara Municipal da Guarda, Álvaro dos Santos Amaro.
+
+209409336

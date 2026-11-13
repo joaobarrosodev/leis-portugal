@@ -1,0 +1,6395 @@
+---
+schema_version: '1.0'
+id: pt:dre:3097308:por
+title: Regulamento n.º 278/2012
+short_title: null
+summary: Código regulamentar de atividades particulares, espaço público e urbanização do município
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Vila Nova de Famalicão
+proposing_entity: null
+official_number: 278/2012
+official_date: null
+publication_date: '2012-07-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/2012, Série II de 2012-07-18
+  number: '138'
+  series: II
+  supplement: null
+  pages: 25370 - 25430
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/07/138000000/2537025430.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3097308'
+  dre_path: /dr/detalhe/regulamento/278-2012-3097308
+  internal: pt:dre:3097308:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/278-2012-3097308
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/278-2012-3097308
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:26:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d73a1386f2198c1e9f3404bd2da7fc546808e89609f99ef295c5e32f88325621
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:26:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:171359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668566:por
+  label: null
+  source: null
+article_structure:
+  article_count: 476
+  section_count: 154
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:26:37Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 278/2012
+
+Arq. Armindo Borges Alves da Costa Presidente da Câmara Municipal de Vila Nova de Famalicão, torna público, em cumprimento do disposto no n.º 4 do artigo 3.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, republicado pelo [Decreto-Lei n.º 26/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), de 30 de março, articulado com o disposto no artigo 91.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, alterada e republicada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro, que a Assembleia Municipal de Vila Nova de Famalicão, em reunião ordinária realizada em 29 de junho de 2012, deliberou, por maioria, aprovar o Código Regulamentar de Atividades Particulares, Espaço Público e Urbanização do Município, após deliberação da Câmara Municipal em reuniões realizadas em 27 de março e de maio de 2012, decorrido o prazo de inquérito público do qual foi feita publicação no Diário da República, 2.ª série, de 17 de abril.
+
+Cumpridos todos os requisitos necessários, a seguir se publica o acima identificado Código Regulamentar que entra em vigor 30 dias após a sua publicação.
+
+4 de julho de 2012. - O Presidente da Câmara Municipal, Armindo B. A. Costa, Arq.
+
+Código regulamentar de atividades particulares, espaço público e urbanização do município
+
+Diplomas Habilitantes
+
+O presente Código tem como legislação habilitante os diplomas a seguir enunciados e que se encontram ordenados por referência aos respetivos Títulos:
+
+## LIVRO I — Disposições comuns
+
+Artigo 242.º da Constituição da República Portuguesa; Artigos 117.º e 118.º do Código de Procedimento Administrativo.
+
+## LIVRO II — Urbanismo
+
+## TÍTULO I — Edificação e urbanização
+
+[Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, com as alterações da [Lei n.º 13/2000](https://diariodarepublica.pt/dr/detalhe/lei/13-2000-321281), de 20 de julho, [Lei n.º 30-A/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-a-2000-315499), de 20 de junho, [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de junho, Lei números 15/2002, de 22 de fevereiro, e [Lei n.º 4-A/2003](https://diariodarepublica.pt/dr/detalhe/lei/4-a-2003-476347), de 19 de fevereiro, [Decreto-Lei n.º 157/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2006-538614), de 8 de agosto, [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de setembro, decreto-lei número18/2008, de 29 de janeiro, [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), de 4 de julho, [Decreto-Lei n.º 26/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), de 30 de março, e [Lei n.º 28/2010](https://diariodarepublica.pt/dr/detalhe/lei/28-2010-344261), de 2 de setembro; Regulamento Geral das Edificações Urbanas, aprovado pelo [Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de agosto de 1951, e alterado pelo [Decreto n.º 38888](https://diariodarepublica.pt/dr/detalhe/decreto/38888-1952-668566), de 29 de agosto de 1952, pelo [Decreto-Lei n.º 44258](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44258-1962-516675), de 31 de março de 1962, pelo [Decreto-Lei n.º 45027](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45027-1963-627866), de 13 de maio de 1963, pelo [Decreto-Lei n.º 650/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/650-1975-310259), de 18 de novembro, pelo [Decreto-Lei n.º 43/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1982-600506), de 8 de fevereiro, pelo [Decreto-Lei n.º 463/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1985-171359), de 4 de novembro, pelo [Decreto-Lei n.º 172-H/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-h-1986-518817), de 30 de junho, pelo [Decreto-Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1990-332948), de 21 de fevereiro, pelo [Decreto-Lei n.º 61/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1993-626468), de 3 de março, pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, pelo [Decreto-Lei n.º 290/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-2007-636964), de 17 de agosto e pelo [Decreto-Lei n.º 50/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2008-246551), de 19 de março; Artigo 53.º, n.º 2, alínea a), e artigo 64.º, n.º 5, alíneas a) a c) e n.º 6, alínea a) da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, alterada e republicada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro.
+
+## TÍTULO II — Toponímia e numeração de edifícios
+
+Artigo 64.º, n.º 1, alínea v) e artigo 53.º, n.º 2, alínea a), ambos da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, alterada e republicada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro; [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de setembro e pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de dezembro.
+
+## LIVRO III — Gestão do espaço público
+
+## TÍTULO I — Trânsito e estacionamento
+
+Artigo 64.º, n.º 1, alínea a), e n.º 7, e artigo 53.º, n.º 2, alínea a), ambos da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro, e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro; Artigo 6.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro;
+
+Artigo 70.º, n.º 2, do Código da Estrada, aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de maio, alterado pelos Decretos-[Lei n.º 2/98](https://diariodarepublica.pt/dr/detalhe/lei/2-1998-224853), de 3 de janeiro e n.º 265-A/2001, de 28 de setembro, pela [Lei n.º 20/2002](https://diariodarepublica.pt/dr/detalhe/lei/20-2002-172174), de 21 de agosto, pelo [Decreto-Lei n.º 44/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2005-608743), de 23 de fevereiro, pelo [Decreto-Lei n.º 113/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2008-456273), de 1 de julho e n.º 2 do artigo 2.º do [Decreto-Lei n.º 81/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2006-649721), de 20 de abril e pela [Lei n.º 78/2009](https://diariodarepublica.pt/dr/detalhe/lei/78-2009-493497), de 13 de agosto; [Decreto-Lei n.º 381-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-a-1997-581376), de 30 de dezembro.
+
+## TÍTULO II — Utilizações do domínio público
+
+Artigo 64.º, n.º 6, alínea a) e n.º 7, alínea b), e artigo 53.º, n.º 2, alínea a) da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, na redação que lhe foi dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro; Artigo 15.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de janeiro; Artigo 6.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro; Artigo 3.º, n.º 1 e 3 do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, com as alterações da [Lei n.º 13/2000](https://diariodarepublica.pt/dr/detalhe/lei/13-2000-321281), de 20 de julho, [Lei n.º 30-A/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-a-2000-315499), de 20 de junho, [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de junho, [Lei n.º 15/2002](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), de 22 de fevereiro e [Lei n.º 4-A/2003](https://diariodarepublica.pt/dr/detalhe/lei/4-a-2003-476347), de 19 de fevereiro, [Decreto-Lei n.º 157/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2006-538614), de 8 de agosto, [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de setembro, [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), de 4 de julho, [Decreto-Lei n.º 26/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), de 30 de março, e [Lei n.º 28/2010](https://diariodarepublica.pt/dr/detalhe/lei/28-2010-344261), de 2 de setembro; Artigo 106.º, n.º 3, da [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), de 10 de fevereiro; [Decreto-Lei n.º 123/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2009-608758), de 21 de maio; Artigo 64.º, n.º 6, alínea a) e artigo 53.º, n.º 2, alíneas a) e e), ambos da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro; Lei n.º 2110/61, de 19 de agosto, alterada pelo [Decreto-Lei n.º 360/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1977-286523), de 1 de setembro; Artigo 15.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de janeiro; Artigo 6.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro;
+
+Artigos 1.º e 11.º da [Lei n.º 97/88](https://diariodarepublica.pt/dr/detalhe/lei/97-1988-377083), de 17 de agosto; [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581); de 1 de abril.
+
+## TÍTULO III — Ocupação e afetação de espaço público com atividades comerciais e de publicidade comercial
+
+Artigo 64.º, n.º 6, alínea a) e n.º 7, alínea b), e artigo 53.º, n.º 2, alínea a) da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, na redação que lhe foi dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro; Artigo 15.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de janeiro; Artigo 6.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro; Artigo 3.º, n.º 1 e 3 do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, com as alterações da [Lei n.º 13/2000](https://diariodarepublica.pt/dr/detalhe/lei/13-2000-321281), de 20 de julho, [Lei n.º 30-A/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-a-2000-315499), de 20 de junho, [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de junho, [Lei n.º 15/2002](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), de 22 de fevereiro e [Lei n.º 4-A/2003](https://diariodarepublica.pt/dr/detalhe/lei/4-a-2003-476347), de 19 de fevereiro, [Decreto-Lei n.º 157/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2006-538614), de 8 de agosto, [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de setembro, [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), de 4 de julho, [Decreto-Lei n.º 26/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), de 30 de março, e [Lei n.º 28/2010](https://diariodarepublica.pt/dr/detalhe/lei/28-2010-344261), de 2 de setembro; Artigo 106.º, n.º 3, da [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), de 10 de fevereiro; [Decreto-Lei n.º 123/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2009-608758), de 21 de maio; Artigo 64.º, n.º 6, alínea a) e artigo 53.º, n.º 2, alíneas a) e e), ambos da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro; Lei n.º 2110/61, de 19 de agosto, alterada pelo [Decreto-Lei n.º 360/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1977-286523), de 1 de setembro; Artigo 15.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de janeiro; Artigo 6.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro;
+
+Artigos 1.º e 11.º da [Lei n.º 97/88](https://diariodarepublica.pt/dr/detalhe/lei/97-1988-377083), de 17 de agosto; [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581); de 1 de abril.
+
+## LIVRO IV — Intervenção sobre o exercício de atividades privadas
+
+## TÍTULO I — Horários de funcionamento dos estabelecimentos de venda ao público e de prestação de serviços
+
+Artigo 53.º, n.º 2, alínea a) e artigo 64.º, n.º 6, alínea a), da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, com redação dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro; [Decreto-Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1996-469018), de 15 de maio, com as alterações introduzidas pelo [Decreto-Lei n.º 111/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), de 15 de outubro; [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581); de 1 de abril.
+
+## TÍTULO II — Recintos de espetáculos e divertimentos públicos
+
+Artigo 53.º, n.º 2, alínea a) e artigo 64.º, n.º 6, alínea a), da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, com a redação dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro; [Decreto-Lei n.º 315/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1995-626594), de 28 de novembro, alterado pelo [Decreto-Lei n.º 309/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2002-405759), de 16 de dezembro; [Decreto-Lei n.º 309/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2002-405759), de 16 de dezembro, alterado pelo [Decreto-Lei n.º 268/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-2009-490708), de 29 de setembro, e pelo [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, e artigo 19.º do [Decreto-Lei n.º 234/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2007-639279), de 19 de junho;
+
+## TÍTULO III — Alojamentos locais
+
+Artigo 53.º, n.º 2, alínea a) e artigo 64.º, n.º 6, alínea a), da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, na redação que lhe foi dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro; Artigo 3.º do [Decreto-Lei n.º 39/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), de 7 de março; Portaria n.º 517/2008, de 25 de junho.
+
+## TÍTULO IV — Transporte público de aluguer em veículos automóveis ligeiros de passageiros
+
+Artigo 64.º, n.º 7, alínea a), da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, com a redação dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro; Artigos 10.º a 20.º,22.º, 25.º e 27.º do [Decreto-Lei n.º 251/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1998-438069), de 11 de agosto, alterado pela [Lei n.º 156/99](https://diariodarepublica.pt/dr/detalhe/lei/156-1999-570556), de 14 de setembro, pela [Lei n.º 167/99](https://diariodarepublica.pt/dr/detalhe/lei/167-1999-569879), de 18 de setembro, pela [Lei n.º 106/2001](https://diariodarepublica.pt/dr/detalhe/lei/106-2001-632067), de 31 de agosto e pelo [Decreto-Lei n.º 41/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), de 11 de março; [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, alterado pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de setembro e pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de dezembro.
+
+## TÍTULO V — Venda ambulante
+
+Artigo 53.º, n.º 2, alínea a) e artigo 64.º, n.º 6, alínea a), da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, na redação da [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro; [Decreto-Lei n.º 122/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1979-383043), de 8 de maio, com as alterações introduzidas pelos Decretos-Lei números 282/85, de 22 de julho, 283/86, de 5 de setembro, 399/91, de 16 de outubro, 252/93, de 14 de julho, 9/2002, de 24 de janeiro, [Lei n.º 159/99](https://diariodarepublica.pt/dr/detalhe/lei/159-1999-570562), de 14 de setembro.
+
+## TÍTULO VI — Higiene e segurança alimentar
+
+Artigo 53.º, n.º 2, alínea a) e artigo 64.º, n.º 6, alínea a) da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, na redação da [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro; [Decreto-Lei n.º 116/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1998-516877), de 5 de maio; Regulamento CE 852/2004, de 29 de abril; Regulamento CE 853/2004, de 29 de abril;
+
+[Portaria n.º 329/75](https://diariodarepublica.pt/dr/detalhe/portaria/329-1975-335935), de 28 de maio; [Decreto-Lei n.º 286/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1986-219961), de 6 de setembro, alterado pelo [Decreto-Lei n.º 285/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1987-420614), de 4 de junho; [Decreto-Lei n.º 147/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2006-539394), de 31 de julho, alterado pelo [Decreto-Lei n.º 207/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), de 23 de outubro; [Lei n.º 159/99](https://diariodarepublica.pt/dr/detalhe/lei/159-1999-570562), de 14 de setembro.
+
+## TÍTULO VII — Guardas-noturnos e outras atividades sujeitas a licenciamento
+
+Artigo 64.º, n.º 6, alínea a) e artigo 53.º, n.º 2, alínea a), ambos da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, na redação da [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro; Artigo 53.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, alterado pelo [Decreto-Lei n.º 114/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), de 1 de julho, [Decreto-Lei n.º 9/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2007-522807), de 17 de janeiro, e [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril; [Lei n.º 92/95](https://diariodarepublica.pt/dr/detalhe/lei/92-1995-562269), de 12 de setembro, alterada pela [Lei n.º 19/2002](https://diariodarepublica.pt/dr/detalhe/lei/19-2002-196970), de 31 de julho; Decreto-Regulamentar n.º 2-A/2005, de 24 de março; [Decreto-Lei n.º 255/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2009-490439), de 29 de setembro.
+
+## TÍTULO VIII — Controlo metrológico
+
+Artigo 64.º, n.º 6, alínea a) e artigo 53.º, n.º 2, alínea a), ambos da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, na redação da [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro e pela [Lei n.º 67/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-2007-628004), de 31 de dezembro; [Decreto-Lei n.º 291/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1990-557469), de 20 de setembro; [Portaria n.º 962/90](https://diariodarepublica.pt/dr/detalhe/portaria/962-1990-555638) de 9 de outubro de 1990.
+
+## LIVRO V — Fiscalização e sanção de infrações
+
+Para além da legislação específica supra referida em cada Título e Livro, artigo 55.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de janeiro, na redação que lhe foi conferida pela [Lei n.º 67-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), de 31 de dezembro.
+
+## LIVRO I
+
+## Parte geral
+
+###### Artigo 1.º — Objeto do Código
+
+1 - O presente Código consagra as disposições regulamentares com eficácia externa em vigor na área do Município de Vila Nova de Famalicão nos seguintes domínios:
+
+a) Urbanismo;
+
+b) Gestão do espaço público;
+
+c) Intervenção municipal sobre o exercício de atividades privadas;
+
+d) Gestão e disposição de recursos;
+
+e) Fiscalização e sanção de infrações.
+
+2 - Esta codificação não prejudica a existência, nos domínios referidos, de disposições regulamentares complementares.
+
+## TÍTULO I — Princípios Gerais
+
+###### Artigo 2.º — Prossecução do interesse público
+
+1 - Toda a atividade municipal dirige-se à prossecução do interesse público, visando assegurar a adequada harmonização dos interesses particulares com o interesse geral.
+
+2 - Incumbe ao Município fazer prevalecer as exigências impostas pelo interesse público sobre os interesses particulares, nas condições previstas na lei, no presente Código e demais regulamentação aplicável.
+
+###### Artigo 3.º — Objetividade e justiça
+
+O relacionamento do Município com os particulares rege-se por critérios de objetividade e justiça, designadamente nos domínios da atribuição de prestações municipais, da determinação dos ilícitos e atualização do montante das correspondentes sanções.
+
+###### Artigo 4.º — Racionalidade e eficiência na gestão dos recursos
+
+1 - A atividade municipal rege-se por critérios destinados a promover a gestão racional e eficiente dos recursos disponíveis.
+
+2 - De harmonia com o disposto no número anterior, a prestação de serviços a particulares, por parte do Município, obedece à regra da onerosidade, regendo-se a atribuição de benefícios a título gratuito por rigorosos critérios de aferição da existência de interesse municipal e de verificação do modo de utilização dos recursos disponibilizados e do cumprimento das obrigações correspondentemente assumidas.
+
+###### Artigo 5.º — Desburocratização e celeridade
+
+1 - A atividade municipal rege-se por critérios dirigidos a promover a desburocratização e a celeridade no exercício das competências, evitando a prática de atos inúteis ou a imposição aos particulares de exigências injustificadas.
+
+2 - Para efeitos do disposto no número anterior, o Município disponibilizará um serviço de atendimento presencial, eletrónico e telefónico, através dos quais os munícipes podem obter informações gerais, submeter os seus pedidos, saber do andamento dos seus processos e apresentar reclamações e sugestões.
+
+###### Artigo 6.º — Gestor do Procedimento
+
+1 - A fim de garantir o cumprimento dos princípios previstos no artigo anterior, existirá em cada unidade nuclear dos serviços da Câmara Municipal um gestor dos procedimentos, a quem compete assegurar o normal desenvolvimento da tramitação dos procedimentos e prestar todas as informações e esclarecimentos solicitados pelos interessados.
+
+2 - A identidade do gestor é divulgada no sítio eletrónico do Município, nos locais de estilo, no Boletim Municipal e, sempre que possível, comunicada ao requerente no momento da apresentação do requerimento.
+
+###### Artigo 7.º — Regulamentação dinâmica
+
+1 - A atividade municipal procura assegurar a resposta adequada às exigências que decorrem da evolução do interesse público, designadamente através da permanente atualização do disposto neste Código, que pode passar pelo alargamento do seu âmbito de regulação a matérias nele não contempladas.
+
+2 - Para os efeitos do disposto no número anterior, o Presidente da Câmara designa entre os técnicos superiores com formação adequada um gestor do Código Regulamentar, ao qual incumbe assegurar a permanente atualização do Código, em conformidade com a evolução do quadro legal aplicável e das necessidades a que o Município deva autonomamente dar resposta.
+
+3 - O gestor do Código atua em permanente articulação com os diferentes serviços municipais, cumprindo-lhe assegurar a adequada integração no Código das propostas setoriais que deles provenham, tanto de alteração como de introdução da regulação de novas matérias, assim como recolher contributos de âmbito geral para o aperfeiçoamento do regime nele consagrado.
+
+4 - Em caso de substituição ou revogação dos diplomas que o presente instrumento normativo regulamenta, entende-se a remissão efetuada para os novos diplomas, com as necessárias adaptações.
+
+## TÍTULO II — Disposições Comuns
+
+###### Artigo 8.º — Âmbito
+
+1 - O presente Título consagra as disposições comuns aplicáveis aos procedimentos de licenciamento.
+
+2 - Para os efeitos do disposto no número anterior, entende-se por licenciamento o exercício de todo o tipo de prerrogativas municipais de poder público do qual, nos termos da lei ou deste Código, dependa o exercício de atividades por entidades públicas ou privadas.
+
+3 - Dependem de prévio licenciamento municipal todas as atividades que não se encontrem isentas de licenciamento por diploma legal ou pelo presente Código Regulamentar.
+
+4 - Salvo disposição em contrário, os licenciamentos são temporários, apenas produzindo efeitos durante o período de tempo previsto no correspondente título.
+
+###### Artigo 9.º — Apresentação do requerimento
+
+1 - O licenciamento depende da apresentação de requerimento dirigido ao Presidente da Câmara Municipal, a quem, salvo disposição legal em contrário, corresponde a competência, com possibilidade de subdelegação nos demais eleitos locais, para decidir todas as pretensões a que se refere o presente Código.
+
+2 - Os requerimentos podem ser apresentados por escrito ou verbalmente através dos canais de atendimento disponibilizados pelo Município e divulgados no respetivo sítio eletrónico institucional.
+
+3 - Sempre que exista modelo aprovado para o efeito, os requerimentos devem ser apresentados em conformidade com esse modelo e instruídos com todos os documentos legalmente exigidos.
+
+###### Artigo 10.º — Requerimento eletrónico
+
+1 - Os requerimentos apresentados eletronicamente devem conter o formato definido, para cada caso, no sítio eletrónico institucional do Município.
+
+2 - Da apresentação voluntária dos requerimentos através dos formulários por esta via resulta uma redução do valor das taxas devidas pela emissão do respetivo alvará, nos termos adiante definidos.
+
+###### Artigo 11.º — Requisitos comuns do requerimento
+
+1 - Para além dos demais requisitos, em cada caso previstos na lei, todos os requerimentos devem conter os seguintes elementos:
+
+a) Identificação do requerente pela indicação do nome ou designação;
+
+b) Domicílio ou residência;
+
+c) Número de Bilhete de Identidade, do Cartão de Cidadão ou número de matrícula da conservatória do registo comercial, conforme o caso;
+
+d) Número de identificação fiscal;
+
+e) Contacto telefónico e eletrónico;
+
+f) Identificação do tipo de licenciamento pretendido, especificando a atividade que se pretende realizar;
+
+g) Data e assinatura do requerente, quando aplicável.
+
+2 - Os requerimentos devem ser instruídos com os documentos exigidos por lei e os demais que sejam estritamente necessários à apreciação do pedido.
+
+3 - Pode ser ainda exigido ao requerente o fornecimento de elementos adicionais, quando sejam considerados indispensáveis à apreciação do pedido.
+
+4 - Para a instrução do procedimento é suficiente a simples fotocópia de documento autêntico ou autenticado, podendo ser exigida a exibição do original ou de documento autenticado para conferência, em prazo razoável, não inferior a cinco dias úteis, quando existam dúvidas fundadas acerca do seu conteúdo ou autenticidade.
+
+###### Artigo 12.º — Suprimento de deficiências do requerimento
+
+1 - Quando se verifique que o requerimento não cumpre os requisitos exigidos ou não se encontra devidamente instruído, o requerente é notificado para no prazo de 10 dias, contados da data da notificação, suprir as deficiências que não possam ser sanadas oficiosamente.
+
+2 - Quando existam diferenças de valores entre as peças escritas e desenhadas do requerimento, o pedido é analisado por referência aos valores indicados nas peças escritas, sendo a licença emitida exclusivamente para esses valores.
+
+3 - Todas as utilizações promovidas em desconformidade com os valores indicados nas peças escritas que fundamentaram a emissão da licença, ainda que em conformidade com as peças desenhadas apresentadas, são consideradas ilegais.
+
+###### Artigo 13.º — Fundamentos comuns de rejeição liminar
+
+Para além dos casos previstos na lei ou neste Código, constituem fundamento de rejeição liminar do requerimento:
+
+a) A apresentação de requerimento extemporâneo;
+
+b) A apresentação de requerimento que não cumpra os requisitos exigidos ou não se encontre instruído com os elementos exigidos, quando, tendo sido notificado nos termos do artigo anterior, o requerente não tenha vindo suprir as deficiências dentro do prazo fixado para o efeito.
+
+###### Artigo 14.º — Indeferimento de pedidos de licenciamentos cumulativos
+
+Nos casos em que devam ser obtidos licenciamentos cumulativos obrigatórios, o indeferimento de um dos pedidos constitui fundamento de indeferimento dos demais.
+
+###### Artigo 15.º — Prazo comum de decisão
+
+Salvo expressa disposição em contrário, os requerimentos são objeto de decisão no prazo máximo de 60 dias, contados desde a data da respetiva receção ou, quando haja lugar ao suprimento de deficiências, desde a data da entrega do último documento que regularize o requerimento ou complete a respetiva instrução.
+
+###### Artigo 16.º — Regime geral de notificações
+
+1 - Salvo disposição legal em contrário e mediante o seu consentimento, as notificações ao requerente ao longo do procedimento são efetuadas para o endereço de correio eletrónico indicado no requerimento.
+
+2 - As comunicações são efetuadas através de meio eletrónico, independentemente do consentimento do requerente, sempre que tal procedimento seja previsto por lei.
+
+3 - Sempre que não possa processar-se por via eletrónica, a notificação é efetuada por via postal simples.
+
+4 - O requerente presume-se notificado, consoante os casos, no 2.º dia posterior ao envio da notificação por via eletrónica ou no 5.º dia posterior à data da expedição postal.
+
+###### Artigo 17.º — Notificação do licenciamento e elementos comuns do alvará
+
+1 - O licenciamento é obrigatoriamente notificado ao requerente com indicação do prazo para o levantamento do respetivo título comprovativo e o pagamento da taxa correspondente.
+
+2 - Salvo disposição em contrário, o licenciamento é titulado por alvará, do qual devem constar, para além dos demais que se encontrem previstos na lei ou neste Código, os seguintes elementos:
+
+a) Identificação completa do titular;
+
+b) Objeto do licenciamento e suas características;
+
+c) Indicação da localização a que diz respeito, quando aplicável;
+
+d) Condições e deveres específicos impostos, quando existam;
+
+e) Prazo de validade, reportado ao dia, semana, mês ou ano civil, de acordo com o calendário;
+
+f) Indicação da antecedência com que deve ser requerida a não renovação, quando a licença esteja submetida ao regime de renovação automática;
+
+g) Número de ordem;
+
+h) Data de emissão;
+
+i) Identificação do serviço emissor, com assinatura.
+
+###### Artigo 18.º — Deveres comuns do titular do licenciamento
+
+Para além dos demais deveres, em cada caso previsto na lei ou neste Código, são deveres comuns do titular do licenciamento:
+
+a) A comunicação ao Município de todos os dados relevantes, designadamente a alteração da sua residência ou sede e, quando se trate de uma sociedade comercial, de todos os factos dos quais resulte modificação da estrutura societária;
+
+b) A reposição da situação existente no local, quando o titular provoque a deterioração da via pública ou de outros espaços públicos, podendo o Município proceder a essa reposição a expensas do titular responsável, se este não a realizar dentro do prazo que para o efeito lhe for fixado;
+
+c) A não permissão a terceiros, a título temporário ou definitivo, do exercício da atividade licenciada, sem prejuízo da possibilidade, nos casos em que ela se encontra prevista, da transmissão da titularidade do licenciamento.
+
+###### Artigo 19.º — Extinção do licenciamento
+
+Sem prejuízo dos demais casos previstos em lei ou regulamento, o licenciamento extingue-se nas seguintes situações:
+
+a) Renúncia voluntária do titular;
+
+b) Morte do titular ou dissolução, quando se trate de pessoa coletiva, sem prejuízo da eventual transmissão do licenciamento, nos casos em que essa possibilidade se encontrar prevista;
+
+c) Decurso do prazo fixado, salvo eventual renovação, nos casos em que haja sujeição a prazo;
+
+d) Por motivo de interesse público, designadamente quando deixarem de estar reunidas as condições que determinaram a concessão de licença ou quando deixar de estar garantida a segurança, a mobilidade, a tranquilidade, o ambiente e o equilíbrio do espaço urbano;
+
+e) Pela violação de deveres a cargo do titular para o qual esteja expressamente prevista essa sanção e, em qualquer caso, quando não seja feito o pagamento anual da taxa devida, ou, nos casos em que o titular esteja obrigado à realização de pagamentos com periodicidade mensal, quando falte a esse pagamento por período superior a três meses, seguidos ou interpolados.
+
+###### Artigo 20.º — Renovação do licenciamento
+
+1 - Salvo previsão legal em contrário, e sem prejuízo do disposto no número seguinte, os licenciamentos anuais renovam-se automaticamente no termo do prazo.
+
+2 - Caso o requerente não pretenda a renovação do licenciamento deve comunicá-lo ao Município até 30 dias antes do termo do respetivo prazo de validade, salvo se outro prazo resultar da lei ou da licença.
+
+3 - Os licenciamentos renovam-se nas mesmas condições e termos em que foram emitidos, sem prejuízo da atualização do valor da taxa a que haja lugar.
+
+###### Artigo 21.º — Transmissão da titularidade do licenciamento
+
+1 - Salvo disposição expressa em contrário, a titularidade das licenças que sejam emitidas tendo por pressuposto a titularidade de um direito real transmite-se automaticamente com a cessão desse direito.
+
+2 - O cessionário do direito referido no número anterior deve comunicar ao Município a alteração da titularidade da licença no prazo de 15 dias úteis contados da data da transmissão, sob pena de contraordenação e de responsabilidade solidária relativamente ao pagamento das taxas devidas pela licença.
+
+3 - Sem prejuízo do disposto nos números anteriores e salvo disposição expressa em contrário, a titularidade do licenciamento pode ser transmitida, desde que seja solicitado o respetivo averbamento junto do Município.
+
+4 - O pedido de averbamento deve ser acompanhado de prova documental dos factos que o justificam.
+
+5 - Presume-se que as pessoas singulares ou coletivas que transfiram a propriedade de prédios urbanos ou rústicos, trespassem os seus estabelecimentos ou instalações, ou cedam a respetiva exploração, autorizam o averbamento dos licenciamentos associados a esses prédios de que são titulares a favor das pessoas a quem transmitiram os seus direitos.
+
+###### Artigo 22.º — Taxas
+
+A emissão dos títulos dos licenciamentos previstos no presente Código, a sua substituição, renovação ou averbamento, bem como a realização de vistorias e demais prestações municipais, dependem do pagamento das taxas devidas e previstas no Código Regulamentar de Taxas, Licenças e Outros Serviços do Município, e da inexistência de quaisquer débitos para com o Município, resultantes do não pagamento de taxas ou preços, salvo se, em relação a esses débitos, tiver sido deduzida reclamação ou impugnação e prestada garantia idónea, nos termos da lei.
+
+###### Artigo 23.º — Contagem de prazos
+
+Salvo disposição legal em contrário é aplicável aos prazos estabelecidos neste Código o regime geral do Código do Procedimento Administrativo, suspendendo-se a respetiva contagem nos sábados, domingos e feriados.
+
+## LIVRO II — Urbanismo
+
+## TÍTULO I — Urbanização e edificação
+
+### CAPÍTULO I — Objeto e definições
+
+###### Artigo 24.º — Âmbito e objeto
+
+O presente Título estabelece os princípios aplicáveis à urbanização e edificação.
+
+###### Artigo 25.º — Definições
+
+Sem prejuízo das definições constantes do artigo 2.º do Regime Jurídico da Urbanização e Edificação, de ora em diante designado por RJUE, e do [Decreto Regulamentar n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-2009-494182), de 29 de maio, as quais prevalecem sempre, para efeitos deste Título, entende-se por:
+
+a) Equipamento lúdico ou de lazer: edificação, não coberta, de qualquer construção que se incorpore no solo com carácter de permanência, para finalidade lúdica ou de lazer;
+
+b) Infraestruturas gerais: as que, tendo um caráter estruturante, ou estando previstas em Plano Municipal de Ordenamento do Território (PMOT) servem ou visam servir diversas unidades de execução;
+
+c) Infraestruturas especiais: as que não se inserindo em nenhuma das categorias definidas no presente artigo, eventualmente previstas em PMOT, devam pela sua especificidade implicar a prévia determinação de custos imputáveis à operação urbanística em si, sendo o respetivo montante considerado como decorrente da execução de infraestruturas locais;
+
+d) Infraestruturas de ligação: as que estabelecem a ligação entre as infraestruturas locais e as gerais, decorrendo as mesmas de um adequado funcionamento da operação urbanística, com eventual salvaguarda de níveis superiores de serviço, em função de novas operações urbanísticas, nelas diretamente apoiadas;
+
+e) Infraestruturas locais: as que se inserem dentro da área objeto da operação urbanística, ou em área adjacente a esta e que com esta se relacionam;
+
+f) Obra: todo o trabalho de construção, reconstrução, ampliação, alteração, reparação, conservação, limpeza, restauro e demolição de bens imóveis;
+
+g) Peças desenhadas de transição: representação em projeto que reflete as alterações introduzidas em obra ou a introduzir no projeto licenciado ou com comunicação prévia admitida, nas seguintes cores convencionais:
+
+i) A vermelha, para os elementos a construir;
+
+ii) A amarela, para os elementos a eliminar;
+
+iii) A preta, para os elementos a conservar;
+
+iiii) A azul, para os elementos a legalizar.
+
+h) Planta testemunho: planta topográfica que, sendo fornecida e carimbada pelos serviços municipais, se apresenta intacta.
+
+i) Telas: peças escritas e desenhadas monocromáticas do projeto de arquitetura compatibilizado com os projetos das especialidades ou com a obra tal como foi executada, consoante os casos;
+
+j) Unidade de ocupação: parte de uma edificação suscetível de constituir uma fração autónoma.
+
+### CAPÍTULO II — Das operações urbanísticas
+
+#### Secção I — Das situações especiais
+
+###### Artigo 26.º — Obras de escassa relevância urbanística
+
+1 - Sem prejuízo de outras que o legislador venha a prever, são consideradas obras de escassa relevância urbanística, para efeitos do disposto no artigo 6.º-A do RJUE, as seguintes:
+
+a) Edificações, contíguas ou não, ao edifício principal com altura não superior a 2,5 metros ou, em alternativa, à cércea do rés do chão do edifício principal com área igual ou inferior a 20m2 e que não confinem com a via pública;
+
+b) Edificação de muros de vedação até 2,00 metros de altura que não confinem com a via pública e de muros de suporte de terras até uma altura de 2,00 metros ou que não alterem significativamente a topografia dos terrenos existentes, e desde que não contrariem os planos municipais e especiais de ordenamento do território;
+
+c) Edificação de pérgulas, ramadas ou outras estruturas descobertas para fins de ajardinamento, pavimentos e similares, e fontes decorativas com área inferior a 10m2;
+
+d) Instalação de painéis solares fotovoltaicos ou geradores eólicos associada a edificação principal, para produção de energias renováveis, incluindo a microprodução, que não excedam, no primeiro caso, a área de cobertura da edificação e a cércea desta em 1 metro de altura e, no segundo, a cércea da mesma em 4 metros e que o equipamento gerador não tenha raio superior a 1,5 metros, bem como de coletores solares térmicos para aquecimento de águas sanitárias que não excedam os limites previstos para os painéis solares fotovoltaicos;
+
+e) Alteração de revestimento, pintura e similares de muros, vedações, fachadas, coberturas, vãos e caixilharias;
+
+f) Edificações, estruturas ou aparelhos até 4m2 de área e destinados à prática de culinária ao ar livre e que se localizem no logradouro, alçado posterior ou lateral e que não encostem a edificações de terceiros;
+
+g) Estruturas amovíveis temporárias, tais como stands de vendas, relacionadas com a execução ou promoção de operações urbanísticas em curso e durante o prazo do alvará ou da comunicação prévia admitida;
+
+h) Instalação de equipamentos e respetivas condutas de ventilação, exaustão, climatização, energia alternativa e outros similares no exterior das edificações, incluindo chaminés conquanto cumpram com o disposto no artigo 40.º;
+
+i) Marquises, na condição que os materiais e cores utilizadas sejam idênticos aos dos vãos exteriores do edifício e localizadas nas fachadas não confinantes com a via pública;
+
+j) Construção de rampas para pessoas com mobilidade condicionada e eliminação de barreiras arquitetónicas em espaço privado;
+
+k) Instalação, substituição ou desmontagem de dispositivos para-raios;
+
+l) A demolição das edificações referidas nas alíneas anteriores.
+
+2 - A instalação de geradores eólicos é precedida de notificação à Câmara Municipal e deve ser instruída com memória descritiva e justificativa, onde se faça menção ao número do processo administrativo de construção da edificação principal e onde conste:
+
+a) A localização do equipamento, juntando, para o efeito, duas fotografias a cores da construção, obtidas de ângulos opostos ou complementares;
+
+b) As dimensões, nomeadamente a cércea e o raio do equipamento;
+
+c) O nível de ruído produzido pelo equipamento;
+
+d) Termo de responsabilidade onde o apresentante da notificação declare conhecer e cumprir as normas legais e regulamentares aplicáveis à instalação de geradores eólicos.
+
+3 - São ainda isentas de licenciamento as instalações qualificadas com a Classe B1 do Anexo III do [Decreto-Lei n.º 267/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916), de 26 de novembro, alterado pelo [Decreto-Lei n.º 389/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), de 30 de novembro, e artigos 17.º e 21.º da [Portaria n.º 1515/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1515-2007-628827), de 30 de novembro:
+
+a) Parques de garrafas e postos de garrafas de gases de petróleo liquefeitos com capacidade inferior a 0,520m3;
+
+b) Postos de reservatórios de GPL com capacidade inferior a 1.500m3;
+
+c) Instalação de armazenamento de combustíveis líquidos e outros produtos de petróleo com capacidade inferior a 5m3, com exceção da gasolina e outros produtos com ponto de inflamação inferior a 38.º Celsius.
+
+4 - O disposto neste artigo não isenta a realização das operações urbanísticas previstas da observância das normas legais e regulamentares aplicáveis, nomeadamente as relativas aos índices máximos de construção e afastamentos nem aquelas devem comprometer as condições de integração urbanística, paisagística e estética.
+
+###### Artigo 27.º — Operações urbanísticas com impacte relevante ou semelhante a loteamento
+
+1 - Para efeitos do disposto no n.º 5 do artigo 44.º e do n.º 5 do artigo 57.º, ambos do RJUE, consideram-se operações urbanísticas com impacte relevante ou geradoras de impacte semelhante a uma operação de loteamento, as obras de construção nova e de ampliação sempre que se verifique uma das seguintes condições:
+
+a) Disponham de mais do que uma caixa de escadas de acesso comum a mais do que uma fração ou unidades independentes;
+
+b) Contenham três ou mais frações autónomas ou unidades independentes;
+
+c) Tenham uma área de construção igual ou superior a 500m2, quando destinadas a comércio ou serviços.
+
+2 - As operações de edificação abrangidas pelo disposto no número anterior devem prever áreas destinadas à implantação de espaços verdes e de utilização coletiva, infraestruturas viárias e equipamentos, aplicando-se para o efeito o disposto nos artigos 43.º e 44.º do RJUE.
+
+###### Artigo 28.º — Condicionamentos patrimoniais arqueológicos, arquitetónicos e ambientais
+
+1 - Podem ser impostos condicionamentos ao alinhamento, à implantação, à volumetria ou ao aspeto exterior das edificações, assim como à percentagem de impermeabilização do solo ou à alteração do coberto vegetal, sempre que se mostre fundamentadamente necessária a proteção dos valores arqueológicos, arquitetónicos ou ambientais existentes.
+
+2 - Pode ser impedido, com fundamento em condicionantes patrimoniais e ambientais devidamente justificadas e com enquadramento legal:
+
+a) A demolição total ou parcial de qualquer edificação;
+
+b) A abertura ou alargamento de vias;
+
+c) O corte ou derrube de espécies arbóreas ou arbustivas que, pelo seu porte, idade ou raridade, tenham inegável interesse botânico ou paisagístico.
+
+3 - Em casos justificados por condicionalismos de ordem patrimonial, de morfologia local, de ocupação funcional ou de alinhamentos que devam ser mantidos, pode ser exigida a preservação ou reconstrução de edificações e muros com características tradicionais, técnicas e materiais com valor histórico, paisagístico ou arquitetónico.
+
+#### Secção II — Da urbanização
+
+###### Artigo 29.º — Áreas para espaços verdes, de utilização coletiva, infraestruturas e equipamentos
+
+1 - As áreas destinadas a implantação de espaços verdes de utilização coletiva, infraestruturas e equipamentos, previstas no âmbito da realização de operações de loteamento e de operações urbanísticas a que se refere o artigo 27.º devem ter uma localização, dimensão, configuração e conceção de modo a:
+
+a) Integrar-se na estrutura urbana de forma a promover o reforço, a valorização e a qualificação da rede de espaços públicos;
+
+b) Garantir adequadas condições de mobilidade e acessibilidade, nomeadamente para efeito do cumprimento das normas técnicas e da lei das acessibilidades;
+
+c) Proporcionar uma efetiva fruição por parte da população residente ou do público em geral.
+
+2 - Os parâmetros para o dimensionamento das áreas a que se refere este artigo são os constantes da [Portaria n.º 216-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/216-b-2008-243887), de 3 de março.
+
+3 - Salvo situações específicas devidamente justificadas e aceites pela entidade licenciadora, as áreas destinadas a espaços verdes são concretizadas pelo dono da obra ou promotor, mediante projeto de arranjos exteriores a apresentar conjuntamente com o projeto de especialidades da operação urbanística a que respeita devendo as mesmas atender ao consagrado no Código Regulamentar de Ambiente
+
+###### Artigo 30.º — Critérios exigidos às áreas de cedência ao domínio municipal
+
+1 - Compete à Câmara Municipal decidir, nos termos e para os efeitos do disposto no n.º 4 do artigo 44.º do RJUE, nas operações de loteamento e nas operações urbanísticas a que se refere o artigo 27.º deste Título, se deve haver lugar, ou não, a cedência de terrenos para implantação de espaços verdes e equipamentos de utilização coletiva e de infraestruturas.
+
+2 - As áreas a ceder ao domínio municipal para espaços verdes e equipamentos devem, no que respeita à sua localização, topografia e dimensão, obedecer aos seguintes critérios:
+
+a) Respeitar o disposto no n.º 1 do artigo anterior;
+
+b) Ter frente para a via ou espaço público;
+
+c) Constituir, preferencialmente, uma parcela única e com a área mínima de 500m2, admitindo-se áreas inferiores quando estas se localizem na contiguidade de espaços verdes ou equipamentos públicos já existentes ou previstos;
+
+d) Ter características topográficas e declives compatíveis com as funções a que se destinam, designadamente ao nível das acessibilidades;
+
+e) Não se encontrar abrangidas por servidão administrativa ou restrição de utilidade pública ou de ordem urbanística, que condicionem ou limitem a sua utilização para o fim que são cedidas.
+
+3 - Compete à Câmara Municipal decidir se as parcelas de terreno a ceder ao domínio municipal integram o domínio público ou privado.
+
+4 - Podem ser rejeitadas as áreas de cedência propostas nos casos em que estas não sirvam os fins de interesse público, nomeadamente quando não se verifiquem as condições estabelecidas no artigo e números anteriores ou não proporcionem uma efetiva fruição por parte da população, nas funções de repouso e convivência ao ar livre, ou a prática de atividades desportivas, de lazer e de contacto direto com a natureza.
+
+###### Artigo 31.º — Compensação
+
+1 - A compensação ao Município a que se referem os números 4 do artigo 44.º e n.º 5 do artigo 57.º do RJUE, pode ser paga em numerário ou em espécie, competindo à Câmara Municipal decidir a modalidade que entenda ser a mais adequada para a prossecução do interesse público.
+
+2 - A compensação em espécie pode revestir, entre outras, as situações seguintes:
+
+a) Parcelas ou lotes de terreno;
+
+b) Edifícios ou suas frações;
+
+c) Beneficiação e encargos de construção ou manutenção de infraestruturas ou outros espaços públicos.
+
+3 - A compensação em espécie através da cedência de parcelas de terreno, além de respeitar o disposto no artigo anterior, por regra, só é permitida quando aquelas possuam uma área igual ou superior a 500 m2 e se localizem em espaço com capacidade construtiva ou compatível com o fim a que se destinam.
+
+4 - As parcelas de terreno alvo de proposta de cedência ao Município devem ser assinaladas em planta a entregar com o pedido de licenciamento ou comunicação prévia.
+
+5 - Para efeitos do cálculo da compensação e no que concerne aos espaços verdes de utilização coletiva, deve ser considerada a totalidade das áreas verdes de natureza privada que sejam de uso comum.
+
+6 - A compensação em espécie efetuada através de ações descritas na alínea c) do n.º 2 do presente artigo está sujeita a projeto e estimativa orçamental, validada pelos serviços municipais competentes.
+
+###### Artigo 32.º — Cálculo do valor da compensação em numerário
+
+1 - O montante da compensação em numerário é a quantia equivalente ao valor do terreno que competiria ceder na operação urbanística, num aproveitamento económico normal, de acordo com as leis e regulamentos em vigor, e é determinado de acordo com a seguinte fórmula:
+
+V = K1 (K2 + K3) P x A
+
+em que:
+
+V - é o valor da compensação a pagar;
+
+K1 - é o índice de utilização aplicado aos diferentes espaços de aglomerado e categorias de espaço, calculado com base nos parâmetros urbanísticos previstos no Regulamento do Plano Diretor Municipal.
+
+K2 - é o índice que traduz no sistema urbano os diferentes tipos de zonas, variando em função da localização, da qualidade ambiental, acessibilidade e equipamentos.
+
+K3 - é o coeficiente por infraestrutura pré-existente.
+
+P - é o custo de construção, por metro quadrado, na área do Município, por tipo de utilização ou funcionalidade da construção.
+
+A - é a área total objeto de compensação, que deveria ser cedida para espaços verdes públicos e equipamentos de utilização coletiva, conforme definido em Plano Municipal de Ordenamento do Território ou, na sua falta, em legislação em vigor aplicável.
+
+§ Os valores de referência para K1, K2, K3 e P encontram-se no Anexo I e Anexo II ao presente Código.
+
+2 - Caso o requerente apresente reclamação sobre o montante da compensação em numerário resultante da aplicação da fórmula prevista no número anterior, aplica-se o regime previsto no artigo 118.º do RJUE.
+
+###### Artigo 33.º — Avaliação da compensação em espécie
+
+1 - O montante do valor da compensação em espécie é igual ao da compensação em numerário.
+
+2 - Se o interessado propuser compensação em espécie de valor superior ao da compensação em numerário, tal não lhe confere o direito à diferença.
+
+3 - Esse valor é determinado por uma Comissão de Avaliação constituída por três elementos, dois deles nomeados pela Câmara Municipal, e o terceiro pelo promotor da operação urbanística.
+
+4 - O valor deve ser obtido por unanimidade dos seus membros.
+
+5 - Na eventualidade dessa unanimidade não ser alcançada, a avaliação será efetuada por uma Comissão Arbitral constituída nos termos do artigo 118.º do RJUE.
+
+###### Artigo 34.º — Caução destinada às obras de urbanização
+
+1 - Quando a caução destinada a garantir a boa e regular execução das obras de urbanização seja prestada mediante hipoteca sobre prédios resultantes da operação de loteamento, as obras de urbanização só podem iniciar-se depois de a mesma estar registada na competente Conservatória do Registo Predial, sob pena de ser ordenado o embargo das obras nos termos da legislação em vigor.
+
+2 - No caso previsto no número anterior, os prédios resultantes da operação de loteamento, nomeadamente os lotes constituídos ou eventuais áreas sobrantes, só podem ser alienados ou onerados depois de efetuado o registo de hipoteca, o que expressamente se especificará no alvará de loteamento ou na admissão de comunicação prévia.
+
+#### Secção III — Da edificação
+
+###### Artigo 35.º — Recuo dos edifícios
+
+1 - Nos edifícios a construir e a ampliar em terrenos que não estejam abrangidos por condicionalismos legais ou regulamentares específicos, o recuo deve garantir, no caso das vias não classificadas, uma distância mínima de 6,00 m medida entre o eixo da via pública e o alinhamento do edifício e, no caso das vias classificadas, a distância deve respeitar o disposto na legislação aplicável.
+
+2 - A Câmara Municipal pode exigir ou aceitar uma distância diferente da mencionada nos números anteriores do presente artigo, em casos justificados por condicionalismos de ordem patrimonial, de morfologia local, de níveis de serviço, de ocupação funcional ou de alinhamentos preexistentes que devam ser mantidos.
+
+###### Artigo 36.º — Afastamentos dos edifícios
+
+1 - Nos edifícios a construir ou ampliar em terrenos que não estejam abrangidos por condicionalismos legais ou regulamentares específicos, os afastamentos medidos entre os limites do terreno e o alinhamento da fachada, relativamente ao seu plano mais avançado, com a exceção das varandas balançadas, devem garantir o cumprimento das seguintes regras:
+
+a) A igualdade de direito de construção de acordo com o verificado ou previsto nas parcelas adjacentes;
+
+b) Ter uma distância igual ou superior a metade da altura da respetiva fachada, com um mínimo de 3,00 m;
+
+2 - Excetuam-se do estabelecido na alínea b) do número anterior as seguintes situações:
+
+a) A colmatação de empenas ou de espaços em frentes urbanas estabilizadas ou que se pretenda estabilizar;
+
+b) Quando o edifício não dê origem a empena visível para o confrontante ou a empena com altura superior à permitida para muro de vedação conforme o estabelecido no artigo 44.º do presente Título;
+
+c) Sem prejuízo do disposto na alínea anterior, em edificação de conjunto, incluindo a construção em banda, o afastamento de tardoz deve garantir uma distância igual ou superior a metade da altura da respetiva fachada em condições que garantam a existência de uma área verde no logradouro.
+
+###### Artigo 37.º — Profundidade dos edifícios
+
+1 - Sem prejuízo de alinhamentos de tardoz dominantes e do estabelecido no número seguinte, a profundidade dos edifícios de habitação coletiva e utilização mista, quando apenas tenham duas fachadas livres opostas não deve, em regra, exceder 17,00 metros.
+
+2 - Nos pisos de rés do chão e inferiores a profundidade pode ser superior, desde que não prejudique o índice máximo de impermeabilização permitido.
+
+3 - Em casos de colmatação, o novo alinhamento de fachada deve garantir uma adequada articulação com os edifícios adjacentes a manter.
+
+###### Artigo 38.º — Empenas laterais
+
+As empenas laterais dos edifícios e dos anexos devem ter acabamentos adequados e com preocupações de ordem estética, de modo a proporcionar uma aceitável integração na envolvente.
+
+###### Artigo 39.º — Corpos balançados
+
+Não é permitida a construção de corpos balançados sobre passeios ou espaço público relativamente ao plano de fachada, com exceção de palas, ornamentos e varandas, e desde que cumpram as seguintes condições:
+
+a) A distância mínima de 1,00 m ao limite exterior do passeio e não interferirem com as infraestruturas, designadamente as de iluminação;
+
+b) A altura livre não inferior a 3,00 m sobre os passeios ou espaço público adjacente à fachada, na situação mais desfavorável;
+
+c) O afastamento aos edifícios contíguos ou às empenas laterais deve ser igual ou superior ao respetivo balanço, salvo quando se trate de soluções de conjunto devidamente justificadas em projeto.
+
+###### Artigo 40.º — Instalações técnicas
+
+1 - O projeto de arquitetura dos edifícios deve prever, em função das atividades propostas ou eventuais adaptações, os espaços necessários às instalações técnicas e infraestruturas, designadamente para climatização, ventilação, exaustão, energia, telecomunicações e espaço para deposição de resíduos sólidos urbanos.
+
+2 - A instalação de condutas, de mecanismos de ventilação forçada e de aparelhos eletromecânicos no exterior dos edifícios só é permitida, desde que devidamente fundamentada e justificada a sua integração na composição das fachadas.
+
+3 - As instalações referidas no número anterior não podem comprometer a identidade e imagem arquitetónica e urbanística dos edifícios e da sua envolvente, nem as condições de habitabilidade dos edifícios, de salubridade e conforto acústico dos mesmos, dos logradouros ou do espaço público.
+
+###### Artigo 41.º — Garagens e aparcamentos
+
+Sem prejuízo do estabelecido em regulamentação específica, para o cálculo do dimensionamento dos espaços destinados a estacionamento, individual ou coletivo, de veículos ligeiros em estruturas edificadas, deve considerar-se uma área de construção de 30,00 m2 por lugar, bem como as seguintes dimensões livres mínimas:
+
+a) Profundidade - 5,00 metros
+
+b) Largura - 2,30 metros, acrescida de 0,70 metros quando se trate de um lugar isolado e encerrado por paredes.
+
+###### Artigo 42.º — Acessos privados
+
+Os acessos privados, incluindo as rampas, quer se destinem a peões ou a veículos, devem respeitar os seguintes critérios:
+
+a) Não prejudicar as condições de acessibilidade e mobilidade do espaço público existente ou previsto;
+
+b) Estabelecer relações de concordância com o espaço público, de modo a garantir condições de acessibilidade seguras e confortáveis;
+
+c) Todo o desenvolvimento da rampa deve ser executado no interior do lote ou parcela de terreno, não podendo, em caso algum, afetar área do domínio público.
+
+###### Artigo 43.º — Anexos e alpendres
+
+1 - Os anexos, quer estes se apresentem encostados ou não ao edifício principal, sob a forma de construção fechada ou de alpendres, devem respeitar os seguintes princípios gerais:
+
+a) A implantação no terreno deve proporcionar uma favorável integração urbanística e paisagística na envolvente;
+
+b) Ter apenas um piso e a altura máxima exterior de 3,00 metros, exceto no caso de existirem desníveis no terreno que permitam integrar a edificação sem qualquer impacte negativo na envolvente, ou outros motivos devidamente justificados e regularmente aceitáveis.
+
+2 - O encosto aos limites do terreno só é permitido quando se verifique uma das seguintes situações:
+
+a) Em colmatação de empenas existentes ou previstas;
+
+b) Havendo desnível com o terreno confrontante, a altura da empena acrescida daquele desnível não exceda 3,50 metros e o somatório dos alçados não exceda 20,00 metros de extensão, medidos a partir do terreno confrontante.
+
+###### Artigo 44.º — Muros e vedações
+
+1 - Sem prejuízo do previsto em legislação específica e em instrumentos de gestão territorial, assim como o estabelecido nos números seguintes, os muros e vedações a construir nos limites dos prédios, confrontantes ou não com a via pública, devem observar as seguintes regras:
+
+a) Proporcionar perfeita articulação visual e estética com os muros e vedações confinantes;
+
+b) Não exceder a altura de 2,00 metros, exceto no caso de desníveis existentes;
+
+c) Sempre que o desnível existente for superior a 1,00 metro, o muro a construir sobre o terreno situado a cota superior não pode ter uma altura superior a 1 metro.
+
+d) Em casos excecionais e tecnicamente justificados a altura estabelecida nas alíneas anteriores pode ser acrescida por uma malha em rede ou gradeamento;
+
+e) O recuo mínimo dos muros e vedações ao eixo da via pública é, em regra, de 5,00 metros.
+
+2 - A Câmara Municipal pode exigir ou aceitar distâncias diferentes das mencionadas nos números anteriores, em casos justificados por condicionalismos de ordem patrimonial, de morfologia local, de níveis de serviço, de ocupação funcional ou de alinhamentos preexistentes que devam ser mantidos.
+
+3 - Na presença de valores paisagísticos, patrimoniais ou urbanísticos pode ser exigida a adoção de soluções especiais, incluindo a preservação ou reconstrução de muros com características tradicionais, técnicas e materiais com valor arquitetónico.
+
+#### Secção IV — Dos resíduos, prazos e proteção de obra
+
+###### Artigo 45.º — Sistema de deposição de resíduos sólidos urbanos em edifícios de utilização coletiva e loteamentos
+
+1 - A localização, o dimensionamento e restantes características técnicas dos espaços destinados à deposição de resíduos sólidos urbanos em edifícios de utilização coletiva, operações de loteamento e ou de obras de urbanização deve obedecer às condições definidas no Código Regulamentar de Ambiente.
+
+2 - Para concretização do disposto no número anterior, os pedidos para a realização de operações urbanísticas de loteamento e ou de obras de urbanização e de edificação em edifícios de utilização coletiva dependem de parecer favorável do serviço competente, o qual deve ser emitido no prazo de 20 dias a contar da data da disponibilização do processo a promover pelo gestor do procedimento, no âmbito da apreciação do projeto de arquitetura.
+
+3 - Os espaços referidos neste artigo devem garantir uma adequada integração arquitetónica, urbanística e paisagística.
+
+###### Artigo 46.º — Resíduos de construção e demolição
+
+A gestão dos resíduos de construção e demolição deve obedecer às condições definidas na lei geral aplicável e no Código Regulamentar de Ambiente.
+
+###### Artigo 47.º — Ocupação do domínio público por motivo de obras
+
+1 - A ocupação do domínio público por motivo da realização de obras está sujeita a prévio licenciamento municipal e obedece às disposições fixadas no presente Código e que lhe sejam aplicáveis com as necessárias adaptações.
+
+2 - O prazo de ocupação de espaço público por motivo de obras não pode exceder o fixado nas licenças ou comunicações prévias relativas às obras a que se reportam.
+
+3 - No caso de obras não sujeitas a controlo prévio municipal, o prazo da licença de ocupação de espaço público é fixado pela Câmara Municipal, a qual ponderará o prazo proposto pelo interessado.
+
+4 - A Câmara Municipal pode negar ou condicionar a ocupação do domínio público por motivo da realização de obras, sempre que tal for suscetível de causar incómodo ou embaraço ao trânsito de veículos ou peões.
+
+###### Artigo 48.º — Amassadouros e depósitos
+
+1 - Os amassadouros e depósitos de entulhos e demais materiais devem ficar no interior dos tapumes, sendo proibido utilizar para tal efeito o espaço exterior aos mesmos.
+
+2 - Em casos especiais, devidamente justificados, os amassadouros e os depósitos, podem situar-se no espaço público, devendo neste caso ser resguardados com taipais devidamente sinalizados e nunca de modo a prejudicar o trânsito.
+
+3 - Os amassadouros não podem assentar diretamente sobre os pavimentos construídos das faixas de rodagem e dos passeios, nem causar danos no domínio público, sob pena de obrigação de indemnizar nos termos gerais de direito.
+
+4 - No caso de entulhos que tenham de ser vazados do alto, deve utilizar-se condutas fechadas direcionadas para um depósito igualmente fechado.
+
+###### Artigo 49.º — Remoção de tapumes, andaimes e materiais
+
+1 - Concluída a obra, ainda que não tenha caducado o prazo de validade da licença de ocupação do domínio público, devem ser imediatamente removidos da via pública os entulhos e materiais sobrantes e os tapumes, andaimes e equipamentos.
+
+2 - O dono da obra é responsável pela reposição dos pavimentos que tiverem sido danificados no decurso da obra, devendo para o efeito ser prestada caução para garantir a reposição das condições iniciais do espaço público ocupado, de valor a definir pela Câmara Municipal, em função da área a ocupar e do tipo de acabamento existente.
+
+3 - A emissão de autorização de utilização ou de alteração de utilização, ou a receção provisória das obras de urbanização, depende do cumprimento do estabelecido neste artigo.
+
+4 - Para cumprimento do disposto no número anterior é realizada uma vistoria que, no caso de verificar irregularidades, notifica o dono da obra e fixa prazo para reparação das mesmas. Findo o prazo estabelecido sem que o dono da obra dê cumprimento, é acionada a caução existente para o efeito.
+
+5 - No caso de não existirem irregularidades a caução é libertada no prazo de 30 dias após a realização de vistoria.
+
+### CAPÍTULO III — Dos procedimentos
+
+###### Artigo 50.º — Instrução dos pedidos
+
+1 - Os pedidos de informação prévia ou a realização de operações urbanísticas sujeitas a procedimento de comunicação prévia, licença ou autorização, obedecem ao disposto no RJUE e devem ser instruídos com os elementos referidos na Portaria n.º 232/2008, de 11 de março, e de acordo com as normas de instrução dos procedimentos aprovadas pelo Município.
+
+2 - Em função da complexidade das situações, nomeadamente devido à natureza ou à localização da operação urbanística pretendida, podem ainda ser exigidos pelos serviços da Câmara Municipal outros elementos, a título de informação complementar, quando se considere necessário para a correta compreensão do pedido, aplicando-se com as necessárias adaptações o disposto no n.º 3 do artigo 11.º do RJUE.
+
+3 - Sempre que, por razão fundamentada, nos pedidos de autorização de utilização não for possível ao requerente apresentar termo de responsabilidade subscrito por quem de direito ou livro de obra, a autorização de utilização fica dependente da realização de vistoria, a realizar nos termos do artigo 65.º do RJUE.
+
+4 - Os pedidos devidamente instruídos devem ser apresentados com o seguinte número de exemplares:
+
+a) Um exemplar do pedido em formato digital e outro em formato papel para os serviços do Departamento Municipal de Planeamento e Gestão Urbanística.
+
+b) Os exemplares necessários em função das entidades exteriores ou demais serviços a consultar.
+
+###### Artigo 51.º — Instrução dos pedidos de operações urbanísticas em loteamentos antigos
+
+Os pedidos para realização de operações urbanísticas em área abrangida por operação de loteamento cujo alvará não tenha as especificações referidas na alínea e) do n.º 1 do artigo 77.º do RJUE seguem o procedimento de licenciamento.
+
+###### Artigo 52.º — Instrução dos pedidos de prorrogação
+
+Os pedidos de prorrogação do prazo de execução da obra no âmbito de licença ou comunicação prévia devem ser instruídos junto da Câmara Municipal com pelo menos oito dias úteis de antecedência sobre o seu termo e devem ser instruídos com os seguintes elementos:
+
+a) Requerimento com a fundamentação do pedido de prorrogação;
+
+b) Calendarização da obra, com indicação dos trabalhos que falta realizar;
+
+c) Declaração de titularidade de certificado de classificação de industrial de construção civil ou título de registo na atividade, a verificar mediante exibição de original;
+
+d) Apólice de seguro de acidentes de trabalho válida;
+
+e) Original do título/certidão/documento de admissão de operação urbanística.
+
+###### Artigo 53.º — Prazo de execução das operações urbanísticas sujeitas a comunicação prévia
+
+1 - O prazo de execução das operações urbanísticas a realizar no âmbito do procedimento de comunicação prévia não deve ultrapassar os cinco anos.
+
+2 - Nos termos e para os efeitos do artigo 53.º do RJUE, o prazo de execução das obras de urbanização sujeitas ao procedimento de comunicação prévia é proposto pelo interessado, não podendo ultrapassar os dois anos.
+
+3 - Os prazos fixados nos números anteriores do presente artigo podem ser prorrogados nos termos do regime geral estabelecido no RJUE.
+
+###### Artigo 54.º — Alteração à licença ou admissão de comunicação prévia de loteamento
+
+1 - A alteração à licença de loteamento fica sujeita a consulta pública sempre que sejam ultrapassados os limites aplicáveis à sujeição do licenciamento previstos no n.º 2 do artigo 22.º do RJUE, ou a própria alteração seja superior aos referidos limites.
+
+2 - Para cumprimento do disposto no n.º 3 do artigo 27.º do RJUE, deve o requerente identificar os proprietários dos lotes da operação de loteamento objeto de pedido de alteração e respetivas moradas, através da apresentação das certidões da conservatória do registo predial ou de fotocópia não certificada.
+
+3 - Nas situações em que os edifícios integrados no loteamento estejam sujeitos ao regime da propriedade horizontal, a notificação prevista no número anterior recai sobre o legal representante da administração do condomínio, o qual deve apresentar ata da assembleia de condóminos que contenha decisão sobre o objeto da notificação.
+
+4 - Nos casos em que se revele impossível a identificação dos interessados ou se frustre a notificação nos termos do n.º 2 do presente artigo e nos casos de o número de interessados ser superior a 15, a notificação é realizada através de edital a afixar nos locais de estilo e anúncio a publicar em dois jornais mais lidos da localidade da residência ou sede dos notificados.
+
+5 - As alterações à comunicação prévia de loteamento ficam sujeitas ao procedimento previsto para a alteração às licenças de loteamento.
+
+###### Artigo 55.º — Procedimento de consulta pública
+
+1 - Consideram-se sujeitas também ao procedimento de consulta pública as operações urbanísticas com impacte relevante e ou semelhante a um loteamento, nos termos definidos no artigo 27.º do presente Título, desde que excedam algum dos limites previstos no n.º 2, do artigo 22.º do RJUE.
+
+2 - A consulta pública deve ser promovida depois de analisados os aspetos técnicos e urbanísticos e é realizada através de edital a afixar nos locais de estilo e anúncio a publicar em dois jornais mais lidos da localidade da residência ou sede dos notificados.
+
+3 - A consulta pública é anunciada com antecedência de 5 dias e tem 15 dias de duração, podendo durante esse período os interessados consultar o processo da operação urbanística e apresentar, por escrito, as suas reclamações, observações ou sugestões.
+
+###### Artigo 56.º — Cores de representação
+
+Nos projetos para ampliação, modificação ou alteração dos edifícios têm de ser utilizadas na representação dos elementos gráficos as cores previstas no presente Título.
+
+###### Artigo 57.º — Telas finais dos projetos
+
+O requerimento de autorização de utilização deve ser instruído com os elementos do projeto de arquitetura e de especialidades devidamente atualizados e em conformidade com a obra executada, sempre que durante a execução da obra tenham sido efetuadas alterações no interior da edificação, conforme o previsto nos números 2 e 4, do artigo 83.º do RJUE.
+
+## TÍTULO II — Toponímia e numeração de edifícios
+
+### CAPÍTULO I — Dos conceitos
+
+###### Artigo 58.º — Definições
+
+Para efeitos das presentes disposições regulamentares, considera-se:
+
+a) Alameda - rua larga ou avenida, ladeada de árvores, parque ou lugar de passeio com ruas arborizadas;
+
+b) Arruamento - ato de dispor ou distribuir em ruas espaços urbanos, que podem servir para circulação automóvel, pedonal ou mista;
+
+c) Avenida - grande via urbana, com dimensão (extensão e perfil) superior à de rua, em geral ladeada de árvores ou com separador central;
+
+d) Beco - rua estreita e curta que às vezes não tem saída;
+
+e) Designação toponímica - indicação completa de um topónimo urbano, contendo o nome próprio do espaço público, o tipo de topónimo e outros elementos que compõem a placa ou marco toponímico;
+
+f) Estrada - espaço público, configurando uma via principal de comunicação terrestre, com percurso predominantemente não urbano, que estabelece a ligação com vias urbanas;
+
+g) Largo - espaço urbano que assume a função de nó de distribuição de tráfego onde confinam estruturas viárias secundárias da malha urbana, tendo como características a presença de árvores, fontes, cruzeiros, pelourinhos ou outro qualquer elemento escultórico;
+
+h) Número de polícia - algarismo de porta atribuído pelos serviços da Câmara Municipal;
+
+i) Praça - espaço urbano, local público, amplo, cercado de edifícios, no qual habitualmente desembocam diversas ruas, podendo assumir as mais diversas formas geométricas, reunindo valores simbólicos e artísticos, com predomínio de áreas pavimentadas ou arborizadas, possuindo por vezes elementos escultóricos ou fontes de embelezamento e enquadramento de edifícios;
+
+j) Rua - via de comunicação terrestre, menos larga do que a avenida, normalmente ladeada de casas ou árvores, dentro ou nas proximidades de uma povoação, poderá eventualmente ser constituída por faixas centrais de atravessamento, passeios, corredores laterais de paragem e estacionamento, com acesso a edifícios da malha urbana;
+
+k) Rotunda - praça ou largo de forma circular na qual confinam duas ou mais vias de circulação automóvel;
+
+l) Travessa - espaço urbano que estabelece um elo de ligação entre duas ou mais vias urbanas.
+
+m) Viela e ou Quelha - via de comunicação terrestre, menos larga do que rua, geralmente servindo de ligação entre duas estradas e de características predominantemente rurais.
+
+### CAPÍTULO II — Da toponímia
+
+###### Artigo 59.º — Competência para a denominação de arruamentos
+
+1 - É da competência da Câmara Municipal por iniciativa própria ou sob proposta da Assembleia Municipal, dos órgãos da Freguesia, da Comissão Municipal de Toponímia ou de outras entidades, deliberar sobre a denominação de arruamento ou sua alteração, nos termos legais.
+
+2 - A Câmara Municipal pode, sob autorização da Assembleia Municipal, delegar nas freguesias, a competência para a colocação e manutenção da sinalização toponímica, nos termos legais.
+
+###### Artigo 60.º — Consulta às freguesias
+
+1 - Para a atribuição ou alteração de uma denominação deve ser aberto um processo, por freguesia, cujo processamento compete à Câmara Municipal.
+
+2 - No decorrer do processo a que alude o número anterior os serviços competentes da Câmara Municipal devem efetuar uma consulta prévia, sendo a mesma obrigatória, quando se trate de alteração, à Junta de Freguesia da respetiva área geográfica, para efeitos de emissão de parecer não vinculativo.
+
+3 - Sempre que as propostas sejam da iniciativa das juntas de Freguesia, é dispensada a consulta às mesmas.
+
+4 - As juntas de Freguesia devem pronunciar-se no prazo de 20 dias, findo o qual, sem que haja resposta, será a proposta considerada como aceite.
+
+###### Artigo 61.º — Comissão Municipal de Toponímia
+
+A Comissão Municipal de Toponímia, adiante designada por Comissão, é o órgão consultivo da Câmara Municipal para as questões de toponímia e numeração de polícia.
+
+###### Artigo 62.º — Competências da comissão
+
+1 - À Comissão compete:
+
+a) Propor à Câmara Municipal a denominação de novos arruamentos ou a alteração dos atuais;
+
+b) Elaborar pareceres sobre a atribuição de novos topónimos, bem como sobre a alteração dos já existentes, tendo subjacente a localização e importância dos mesmos;
+
+c) Definir a localização dos topónimos;
+
+d) Proceder ao levantamento, por freguesia, dos topónimos existentes, qual a sua origem e justificação, garantindo desta forma a existência de acervo toponímico de todo o Município;
+
+e) Colaborar com os estabelecimentos de ensino do concelho, universidades, institutos, fundações, associações e sociedades científicas no estudo e divulgação da toponímia.
+
+2 - Os pareceres referidos na alínea b) do número anterior não são vinculativos, mas são de consulta obrigatória em caso de alteração de denominação.
+
+###### Artigo 63.º — Composição da Comissão
+
+1 - Integram a Comissão:
+
+a) O Presidente da Câmara Municipal, com faculdade de delegação num dos vereadores;
+
+b) O Presidente da Mesa da Assembleia Municipal, com faculdade de delegação num membro da Mesa;
+
+c) Quatro cidadãos de reconhecido mérito nomeados pela Câmara Municipal, mediante proposta do seu Presidente;
+
+d) Três funcionários da edilidade ligados às áreas da Cultura, Arquivo Histórico e Vias, nomeados pelo Presidente da Câmara Municipal atenta a sua competência legal neste domínio.
+
+2 - A Comissão reúne obrigatoriamente com periodicidade bimensal ou sempre que convocada pelo seu Presidente.
+
+###### Artigo 64.º — Iniciativa obrigatória
+
+1 - Sempre que seja emitido um alvará de loteamento ou de obras de urbanização inicia-se, obrigatoriamente, um processo de atribuição de denominação aos novos arruamentos, praças e largos previstos no respetivo projeto.
+
+2 - O serviço responsável pela emissão do alvará de loteamento ou das obras de urbanização deve remeter, para efeitos do número anterior, à Comissão, a localização, em planta, dos arruamentos e outros espaços públicos, no prazo de 15 dias a contar da data da aprovação do projeto de urbanização ou de loteamento.
+
+3 - A Comissão deve, para o efeito, pronunciar-se num prazo máximo de 40 dias, a contar da data de solicitação do pedido.
+
+###### Artigo 65.º — Topónimos
+
+O topónimo como nome próprio de um lugar deverá, em regra:
+
+a) Ter carácter popular e tradicional;
+
+b) Citar referências históricas dos locais;
+
+c) Reportar-se a datas com significado histórico-cultural para a vida do concelho ou do país;
+
+d) Ter origem em nomes de países, cidades, vilas ou aldeias nacionais ou estrangeiras que, por algum facto relevante, estejam ligados ao concelho de Vila Nova de Famalicão;
+
+e) Ser antropónimo de figuras de relevo concelhio, nacional ou mundial.
+
+###### Artigo 66.º — Justificação do topónimo
+
+Da deliberação que aprove o topónimo, deve constar uma curta biografia ou descrição que justifique a atribuição do topónimo.
+
+###### Artigo 67.º — Designações antroponímicas
+
+A atribuição de antropónimos é feita pela seguinte ordem de preferência:
+
+a) Individualidades de relevo concelhio;
+
+b) Individualidades de relevo nacional;
+
+c) Individualidades de relevo internacional.
+
+###### Artigo 68.º — Singularidade dos topónimos
+
+1 - As designações toponímicas do Município não podem ser repetidas dentro da mesma freguesia.
+
+2 - Não são consideradas denominações iguais as que forem atribuídas a vias de diferente classificação em que uma dependa funcionalmente de um arruamento maior (rua e travessa).
+
+###### Artigo 69.º — Alteração de topónimos
+
+1 - As designações toponímicas existentes à data da entrada em vigor do presente diploma regulamentar mantêm-se, só sendo alteradas em casos excecionais devidamente fundamentados.
+
+2 - Consideram-se razões suficientes para alteração dos topónimos:
+
+a) Existência de topónimos iguais ou cuja semelhança possa causar problemas aos serviços públicos;
+
+b) Mudanças nos arruamentos provocadas por obras de renovação urbanística;
+
+c) Violação dos preceitos do presente Livro, limitando-se neste caso a alteração à classificação do arruamento.
+
+###### Artigo 70.º — Registos camarários
+
+As dúvidas que surgirem acerca da atribuição de alguma designação toponímica devem ser solucionadas pela deliberação camarária que aprovou a toponímia, com recurso aos registos existentes na Câmara Municipal, através da Divisão de Arquivos, nos quais deve constar, sempre que possível, os seguintes elementos:
+
+a) Localização, antiga designação, data de aprovação, início e fim da via;
+
+b) Pequena descrição dos antecedentes históricos, biografia ou outros elementos relevantes em termos de topónimos;
+
+c) Registo em plantas, em escala adequada de todos os topónimos, realizadas pelo Departamento de Urbanismo.
+
+###### Artigo 71.º — Publicidade
+
+1 - Após aprovação das propostas de atribuição ou alteração dos topónimos, a Câmara Municipal deve diligenciar pela afixação de editais nos lugares de estilo e publicação em dois jornais locais.
+
+2 - Na sequência do previsto no número anterior devem ser informados dos novos topónimos as conservatórias, as repartições de finanças e as estações de correios situadas no Município.
+
+###### Artigo 72.º — Localização das placas
+
+1 - Todas as vias públicas devem ser identificadas com o respetivo topónimo, que para o efeito é afixado nos seus extremos, do lado esquerdo da via atento o sentido que se entra, bem como em todos os cruzamentos ou entroncamentos que o justifique.
+
+2 - A colocação de placas toponímicas deve ser efetuada em suportes colocados na via pública ou colocadas na fachada do edifício situado no início da rua, distante do solo, pelo menos, a 3 metros de altura e a 1,5 metros da esquina, desde que a tal o proprietário do edifício não se oponha.
+
+###### Artigo 73.º — Dimensão, conteúdo e composição das placas
+
+1 - As placas toponímicas não devem ter dimensões inferiores a 35 centímetros por 25 centímetros.
+
+2 - As placas toponímicas, sempre que possível, devem conter outras indicações complementares informativas e relevantes para a compreensão do topónimo, designadamente, apresentar o brasão do Município ou da Freguesia respetiva.
+
+3 - A composição das inscrições a apor nas placas toponímicas deve respeitar a seguinte configuração:
+
+a) A 1.ª linha deve conter a denominação do tipo de via pública;
+
+b) A 2.ª linha, o topónimo; sem título honorífico, académico ou militar no caso de se tratar de nome próprio;
+
+c) Na 3.ª linha, o ano de nascimento e de óbito, no caso de se tratar de um nome próprio, a data do evento, ou no caso de se tratar de um facto temporalmente definido as respetivas datas de enquadramento;
+
+d) Na 4.ª linha, o título honorífico, académico ou militar ou facto biográfico, pelo qual foi conseguida a notoriedade pública.
+
+###### Artigo 74.º — Responsabilidade pela colocação das placas
+
+1 - A colocação e manutenção das placas toponímicas é da exclusiva competência da Câmara Municipal, sem prejuízo da delegação de competência prevista, não sendo permitido aos particulares a sua afixação, deslocação, alteração ou substituição.
+
+2 - Nas novas urbanizações o local da colocação das placas deve ser definido pela Comissão, ou em quem esta delega, e deve constar do projeto de obras, constituindo uma peça desenhada, autónoma, tendo por base a planta de síntese do respetivo loteamento.
+
+3 - Na situação prevista no número anterior a responsabilidade pela construção e colocação dos referidos suportes é do titular da licença de urbanização.
+
+4 - A caução destinada a garantir a execução das obras de urbanização inclui, obrigatoriamente, um valor correspondente ao encargo previsto no número anterior.
+
+5 - Compete ao titular da licença de urbanização zelar pela boa manutenção dos suportes e das placas toponímicas, até à data da receção definitiva das obras de urbanização, data em que, esta responsabilidade é transferida para a Câmara Municipal.
+
+6 - A não colocação ou a colocação dos suportes em local diferente do aprovado pela Câmara Municipal, implica a não receção das obras de urbanização enquanto a situação de ilegalidade se mantiver.
+
+###### Artigo 75.º — Identificação provisória
+
+Em todos os casos de novas denominações toponímicas, as mesmas devem ser imediatamente identificadas e colocadas, ainda que com estruturas provisórias, pelo tempo necessário à conclusão do processo de identificação definitiva.
+
+###### Artigo 76.º — Responsabilidade por danos
+
+1 - Os danos verificados nas placas toponímicas são reparados pelos serviços camarários competentes, a expensas de quem os tiver causado, sempre que seja possível identificar o infrator, devendo o custo ser liquidado no prazo de oito dias úteis, a contar da data da notificação para o efeito.
+
+2 - Sempre que haja demolição de prédios ou alterações de fachadas que impliquem retirada das placas toponímicas afixadas, devem os titulares das respetivas licenças depositá-las nos armazéns do Município, sob pena de serem responsáveis pelo seu desaparecimento ou deterioração, devendo o requerente da licença de construção responsabilizar-se pela manutenção da identificação das toponímicas ainda que a título provisório.
+
+### CAPÍTULO III — Numeração de polícia
+
+###### Artigo 77.º — Obrigatoriedade de identificação
+
+Após a aprovação da toponímia e colocação na via pública, e cumpridas as formalidades de divulgação, os proprietários ou usufrutuários de prédios urbanos ou rústicos, com portas ou portões a abrir para a via pública, são obrigados a identificá-los com o número de polícia atribuído pelos serviços municipais competentes, devendo para tal solicitar à Câmara Municipal a indicação da respetiva numeração policial.
+
+###### Artigo 78.º — Numeração e autenticação
+
+1 - A definição das regras de numeração dos edifícios é da competência da Câmara Municipal, podendo na atribuição ser coadjuvada pelas juntas de Freguesia.
+
+2 - A numeração de polícia abrange apenas os vãos de portas pertencentes a construções devidamente licenciadas, confinantes com a via pública, que deem acesso a prédios e respetivos logradouros.
+
+3 - A autenticidade da numeração de polícia é comprovada pelos registos da Câmara Municipal.
+
+###### Artigo 79.º — Regras para numeração
+
+A numeração dos vãos de porta dos prédios em novos arruamentos ou nos atuais, em que não exista ou exista irregularidades de numeração, obedece às seguintes regras:
+
+a) A numeração deve ser crescente de acordo com a orientação das vias, de nascente para poente e de sul para norte;
+
+b) As portas ou portões dos edifícios devem ser numerados a partir do início de cada rua, sendo atribuídos números pares à direita de quem segue para norte ou poente e números ímpares à esquerda;
+
+c) Nos largos e praças a numeração deve ser designada pela série de números inteiros, contados no sentido do movimento dos ponteiros do relógio, a partir do prédio gaveto poente, do arruamento situado a sul, preferindo no caso de dois ou mais arruamentos nas mesmas circunstâncias, o que se encontrar mais a poente;
+
+d) Nos becos e recantos mantem-se o critério da alínea a);
+
+e) Nas portas ou portões de gaveto a numeração deve ser a que lhe competir no arruamento em que se situar a porta ou portão principal ou, quando forem de igual importância, a que for designada pelos serviços competentes;
+
+f) Nos arruamentos sem saída (impasses), a numeração deve ser designada por números pares à direita e ímpares à esquerda, a partir da faixa de rodagem de entrada;
+
+g) O número de polícia a atribuir ao prédio deve ser o correspondente ao somatório do número de metros, contados a partir do início do arruamento até à porta principal do edifício ou fração autónoma.
+
+###### Artigo 80.º — Aposição de numeração
+
+1 - Aquando da construção de um prédio, no momento em que se encontrem definidas as portas confinantes com a via pública, ou na reconstrução se verifique abertura de novas portas ou portões ou supressão, a Câmara Municipal deve designar os respetivos números de polícia e notificar o titular da licença de construção, a fim de que coloque no prédio o número atribuído, devendo tal notificação ficar registada na folha de fiscalização da obra.
+
+2 - No caso de não ser possível a atribuição imediata da numeração de polícia, deva esta ser atribuída posteriormente, a requerimento dos interessados ou oficiosamente por intimação dos serviços competentes da câmara municipal.
+
+3 - A numeração atribuída e a efetiva aposição constituem condição indispensável à concessão da licença de utilização do prédio ou parte, salvo o excecionado no número anterior.
+
+4 - A numeração de polícia dos prédios construídos por entidades não sujeitas a licenciamento municipal deve ser atribuída a solicitação destas ou oficiosamente pelos serviços competentes da câmara municipal.
+
+5 - Os proprietários ou usufrutuários dos prédios a que tenha sido alterada ou atribuída nova numeração de polícia, devem colocar os respetivos números no prazo de 20 dias úteis a contar da data da notificação para o efeito, sob pena de incorrer em responsabilidade.
+
+6 - É obrigatória a conservação da tabuleta com o número de obra até à colocação dos números de polícia atribuídos.
+
+###### Artigo 81.º — Colocação e características dos números de polícia
+
+1 - Os números de polícia são colocados no centro das vergas ou das bandeiras das portas ou, quando estas não existam, na primeira ombreira segundo a ordem de numeração.
+
+2 - Os caracteres não podem ter altura inferior a 8 centímetros, nem superior a 12 centímetros e devem ser pintados a fundo preto com a numeração a branco ou em metal recortado, sobre a verga das portas ou nas ombreiras, ou colados ou pintados sobre o vidro das bandeiras.
+
+3 - Sem prejuízo do disposto nos números anteriores, a numeração de polícia das portas dos estabelecimentos comerciais ou industriais deve harmonizar-se com os projetos arquitetónicos das referidas fachadas, aprovadas pela Câmara Municipal.
+
+###### Artigo 82.º — Conservação e limpeza
+
+1 - Os proprietários ou usufrutuários dos prédios são responsáveis por manter em bom estado de conservação e limpeza, beneficiando ou substituindo os números de polícia respetivos, não podendo alterar a sua numeração sem prévia autorização da Câmara Municipal.
+
+2 - Os proprietários ou usufrutuários dos prédios que apresentem números de polícia que violem o preceituado no presente Título, ou se encontrem ilegíveis, devem ser notificados pelos serviços camarários competentes para no prazo de 20 dias, a contar da data da notificação, procederem à regularização da numeração policial, sob pena de incorrerem em responsabilidade.
+
+###### Artigo 83.º — Números de polícia e anúncios
+
+Os números que excedam 15 centímetros de altura são considerados anúncios, ficando a sua afixação sujeita ao pagamento da taxa da respetiva licença.
+
+## LIVRO III — Gestão do espaço público
+
+## TÍTULO I — Trânsito e estacionamento
+
+### CAPÍTULO I — Trânsito
+
+#### SECÇÃO I — Disposições Gerais
+
+###### Artigo 84.º — Objeto
+
+1 - O presente Título estabelece as regras relativas ao ordenamento do trânsito nas vias integradas no domínio público municipal, bem como as regras aplicáveis às vias do domínio privado, quando abertas ao trânsito público, em tudo o que não estiver especialmente regulado por acordo celebrado entre o Município e os respetivos proprietários.
+
+2 - Os condutores de qualquer tipo de veículo ficam obrigados ao cumprimento do disposto no presente Capítulo, sem prejuízo do cumprimento das disposições do Código da Estrada e da respetiva legislação complementar.
+
+3 - Em tudo o que for omisso no presente Título, aplicar-se-á o Código da Estrada e demais legislação em vigor.
+
+###### Artigo 85.º — Sinalização
+
+1 - Compete ao Município a sinalização permanente das vias municipais, assim como a aprovação da sinalização permanente nas vias do domínio privado, quando abertas ao trânsito público.
+
+2 - A sinalização temporária compete ao promotor, adjudicatário ou responsável pelo evento ou obra, mediante aprovação prévia do Município.
+
+3 - A sinalização é efetuada de acordo com o disposto no Regulamento de Sinalização de Trânsito, aprovado pelo [Decreto Regulamentar n.º 22-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), de 1 de outubro, com as alterações introduzidas pelos Decretos Regulamentares n.º 41/2002, de 20 de agosto, e n.º 13/2003, de 26 de junho.
+
+4 - Em situações devidamente fundamentadas, a sinalização pode ser alterada e complementada, de forma a permitir maior segurança.
+
+5 - A sinalização que implicar alterações do regime normal de ordenamento do trânsito previsto no Código da Estrada é permitida mediante deliberação prévia do órgão municipal competente.
+
+6 - Toda a sinalização permanente colocada nos termos do disposto no número anterior é incluída na Postura Municipal de Trânsito, publicada no sítio institucional do Município e via Edital.
+
+###### Artigo 86.º — Acessos a propriedades
+
+1 - Os veículos podem atravessar, utilizando o percurso mais curto possível, bermas ou passeios, para acesso ao interior de propriedades confinantes com o arruamento.
+
+2 - A identificação de um local de acesso ao interior de propriedades faz-se, nos casos em cuja zona frontal esteja construído passeio sobrelevado, através de rampa fixa ou móvel e, nos casos de não existir tal sobre-elevação ou a rampa ser móvel, através da afixação no portal de dístico de estacionamento proibido com o diâmetro de 0,40 metros e com os dizeres previstos no Código da Estrada.
+
+###### Artigo 87.º — Proibições
+
+Nas vias públicas, é proibido:
+
+a) Danificar ou inutilizar, designadamente por derrube, afixação ou pintura, os sinais e equipamentos de trânsito e as placas de toponímia;
+
+b) Anunciar ou proceder à venda, aluguer, lavagem ou reparação de veículos;
+
+c) Causar sujidade e ou obstruções;
+
+d) Circular com veículos que, pelas suas características, risquem ou danifiquem por qualquer modo o pavimento;
+
+e) Ocupar passeios com volumes ou exposições de mercadorias que impeçam a circulação pedonal de forma segura.
+
+###### Artigo 88.º — Suspensão ou condicionamento do trânsito
+
+1 - O Município pode, por sua iniciativa ou com base em solicitações de entidades externas, alterar qualquer disposição respeitante à circulação e ao estacionamento quando se verifiquem eventos políticos, sociais, manifestações, festejos, procissões, provas desportivas ou outras ocorrências, que justifiquem as alterações e as medidas de segurança especiais a adotar.
+
+2 - Sempre que se verifiquem causas anormais que impliquem medidas excecionais no ordenamento do trânsito, tais como acidentes graves, catástrofes ou calamidades, pode o Município, mediante colocação de sinalização adequada, alterar pontualmente o ordenamento da circulação e estacionamento previamente definido.
+
+3 - Quando, por motivo de obras e durante o período de tempo indispensável à sua realização, a circulação e o estacionamento não possam processar-se regularmente, pode o Município alterar o ordenamento da circulação e estacionamento, nos termos previstos no número anterior.
+
+4 - O condicionamento de trânsito deve ser comunicado às autoridades previstas na lei, e publicitado pelos meios adequados, pelo Município, enquanto entidade gestora da via ou por solicitação de entidades externas, a expensas das mesmas, com a antecedência de 3 dias úteis, salvo quando existam justificados motivos de segurança, de emergência ou de obras urgentes.
+
+5 - É proibida a paragem de veículos de transporte coletivo de passageiros para receber ou largar passageiros fora dos locais assinalados para esse fim, competindo ao concessionário, no caso específico dos veículos pesados de transporte de passageiros afetos ao serviço da concessão urbana de transportes coletivos a operar dentro do Município, a sinalização dos locais de paragem, segundo localização e modelo previamente aprovados pelo Município.
+
+6 - Podem ser impostas restrições à circulação de determinadas classes de veículos em zonas específicas, mediante a colocação de sinalização adequada.
+
+###### Artigo 89.º — Licenças especiais de circulação
+
+O pedido de licenciamento de acesso a zonas vedadas ao trânsito deve ser apresentado com uma antecedência mínima de 5 dias em relação à data prevista.
+
+###### Artigo 90.º — Restrições à circulação
+
+1 - É proibido o estacionamento de veículos pesados, entre as 14.00 e as 19.00 horas, nas vias municipais da área urbana de Vila Nova de Famalicão, Ribeirão, Riba de Ave e Joane.
+
+2 - O disposto no número anterior não se aplica aos veículos de:
+
+a) Transporte público coletivo de passageiros;
+
+b) Transporte de aluguer de passageiros;
+
+c) Transporte particular de passageiros;
+
+d) Emergência;
+
+e) Forças militares, militarizadas e da polícia de segurança pública;
+
+f) Propriedade do Estado ou do Município;
+
+g) Transportes postais;
+
+h) Transporte de betão, materiais provenientes de escavações ou produtos de demolições ou de outro tipo, quando devidamente autorizados pelo Município.
+
+3 - Salvo situações excecionais devidamente fundamentadas, por cada alvará de licença emitido ou comunicação prévia admitida de obras é autorizada a circulação até 4 veículos pesados.
+
+4 - O trânsito de veículos de tração animal é proibido na cidade, salvo para fins turísticos.
+
+#### SECÇÃO II — Cargas e Descargas de Mercadorias
+
+###### Artigo 91.º — Objeto e âmbito de aplicação
+
+O disposto na presente Secção é aplicável à operação de cargas e descargas de mercadorias.
+
+###### Artigo 92.º — Categorias de Veículos
+
+Para efeitos do disposto na presente Secção, são consideradas as seguintes categorias de veículos:
+
+a) Tipo 1: Ligeiro de passageiros e mistos;
+
+b) Tipo 2: Ligeiros de mercadorias ou pesados de mercadorias sem reboque;
+
+c) Tipo 3: Veículos de pesados de mercadorias e ligeiros com reboque e semirreboques.
+
+###### Artigo 93.º — Zonas
+
+1 - Para efeitos do disposto na presente Secção, são consideradas as seguintes zonas:
+
+a) Zonas de acesso condicionado;
+
+b) Outras zonas identificadas como Zonas I, II, III cuja divulgação é efetuada através do sítio institucional do Município e, sempre que possível, por informação vertical a colocar nos principais pontos de transição entre zonas.
+
+2 - A inexistência da informação vertical referida no número anterior não prejudica o dever de cumprimento das regras sobre cargas e descargas consagradas na presente Secção.
+
+###### Artigo 94.º — Horário para operações de carga e descarga
+
+1 - As operações de carga e descarga de mercadorias dentro das zonas referidas na alínea a) do artigo anterior são efetuadas dentro do horário autorizado e indicado na sinalização existente no local.
+
+2 - As operações de carga e descarga de mercadorias dentro das restantes zonas são efetuadas de acordo com o disposto nas alíneas seguintes:
+
+a) Na Zona I, não são permitidas operações de carga e descarga de mercadorias no período compreendido entre as 08.30 e as 19.00 horas, para os veículos do tipo 2 e 3 e entre as 12.00 e as 19.00 horas, para os veículos do tipo 1.
+
+b) Na Zona II, não são permitidas operações de carga e descarga de mercadorias no período compreendido entre as 08.30 às 10.00 horas e das 14.00 às19.00 horas, para os veículos do tipo 2 e 3.
+
+c) Na Zona III, não são permitidas operações de carga e descarga de mercadorias no período compreendido entre as 08.30 às 10.00 horas e das 14.00 às 20.00 horas, para os veículos do tipo 3.
+
+3 - Dentro dos horários referidos no número anterior, e para os veículos não autorizados, só são permitidas operações de carga e descarga de mercadorias mediante autorização especial do Município, desde que requerida com 5 dias de antecedência.
+
+4 - Do pedido de autorização referido no número anterior deve constar a categoria do veículo, a data, o horário e a zona onde se pretende efetuar a carga e descarga de mercadorias.
+
+###### Artigo 95.º — Licenças de distribuição expresso
+
+Podem ser emitidas licenças de operação de distribuição do tipo expresso dentro dos horários de proibição previstos no artigo anterior, renováveis anualmente, a empresas devidamente licenciadas que, para tal, o requeiram nos termos do n.º 3 do artigo anterior.
+
+###### Artigo 96.º — Veículos do tipo 3
+
+1 - A carga e descarga dos veículos do tipo 3 deve efetuar-se no interior das instalações de origem ou destino das mercadorias, não sendo permitida efetuar essa operação na via pública.
+
+2 - Deve ser requerida autorização municipal quando não seja possível realizar a operação de carga e descarga de mercadorias fora da via pública.
+
+#### SECÇÃO III — Abandono, bloqueamento, remoção e depósito de veículos
+
+###### Artigo 97.º — Âmbito de aplicação
+
+A presente Secção estabelece as regras aplicáveis à remoção e recolha de veículos abandonados ou em estacionamento indevido ou abusivo na área de jurisdição do Município, em complemento das regras consagradas sobre esta matéria no Código da Estrada.
+
+###### Artigo 98.º — Estacionamento indevido ou abusivo
+
+1 - Para além das situações assim definidas no Código da Estrada, considera-se indevido ou abusivo o estacionamento:
+
+a) Durante 30 dias seguidos, em local da via pública, em parque ou zona de estacionamento não sujeitos ao pagamento de qualquer taxa, salvo se existir ordem de autoridade judicial, policial ou administrativa que impeça a mobilização do veículo;
+
+b) De veículos estacionados em lugares de estacionamento temporariamente proibido por motivo de obras, cortejos, desfiles, festividades, manifestações públicas, provas desportivas ou outras.
+
+2 - A ordem judicial, policial ou administrativa deve encontrar-se exposta no interior do veículo, visível do exterior.
+
+###### Artigo 99.º — Bloqueamento e remoção
+
+1 - Verificada qualquer das situações de estacionamento indevido ou abusivo, assim classificado nos termos do Código da Estrada, bem como qualquer das demais situações previstas no n.º 1 do artigo 164.º do mesmo diploma, o Município procede ao bloqueamento do veículo através do dispositivo adequado, impedindo a sua deslocação até que se possa proceder à sua remoção.
+
+2 - Salvo nas situações em que o interesse público justifique a remoção imediata, simultaneamente com o bloqueamento promovido nos termos do número anterior, é afixado no veículo um edital através do qual os interessados são notificados da intenção do Município proceder à remoção do veículo 10 dias úteis após o bloqueamento.
+
+3 - Nas situações em que o interesse público o justifique, quando não for possível proceder à remoção imediata do veículo para local de depósito, o Município pode determinar a deslocação provisória do veículo para outro local, a fim de aí ser bloqueado até à remoção definitiva.
+
+###### Artigo 100.º — Presunção de abandono
+
+Para além das situações previstas no Código da Estrada, consideram-se abandonados os veículos relativamente aos quais se revele impraticável notificar o proprietário, por ser impossível identificá-lo ou à sua morada, e que, pelo seu estado de deterioração, apresentem inequívocos sinais de abandono.
+
+###### Artigo 101.º — Taxas devidas pelo bloqueamento, remoção e depósito
+
+O pagamento das taxas devidas pelo bloqueamento, remoção e depósito é obrigatoriamente feito no momento da entrega do veículo, dele dependendo a entrega do veículo ao reclamante.
+
+### CAPÍTULO II — Estacionamento
+
+#### SECÇÃO I — Disposições Gerais
+
+###### Artigo 102.º — Objeto
+
+O presente Capítulo tem por objeto a regulação do estacionamento nas vias públicas, de forma a garantir uma correta e ordenada utilização do domínio municipal.
+
+###### Artigo 103.º — Condições gerais
+
+A tipologia dos estacionamentos é aferida de acordo com as características viárias dos arruamentos que os servem e com o seu posicionamento relativamente ao eixo da via, podendo ser longitudinais, em espinha ou de topo.
+
+###### Artigo 104.º — Estacionamento reservado
+
+Em todos os locais de estacionamento público, bem como nos estacionamentos tarifados ou de duração limitada, devem ser sempre reservados lugares destinados a operações de carga e descarga, a veículos pertencentes a cidadãos com deficiência e, quando manifestamente não houver alternativa na zona de circulação pedonal, a equipamentos de recolha e separação de lixos domésticos.
+
+###### Artigo 105.º — Estacionamento e paragem permitida
+
+1 - O estacionamento ou a paragem devem fazer-se nos locais especialmente destinados a esse fim e da forma indicada na respetiva sinalização ou na faixa de rodagem, devendo processar-se o mais próximo possível do limite direito da faixa de rodagem, paralelamente a esta e no sentido da marcha, salvo se, por meio de sinalização especial, a disposição ou a geometria indicarem outra forma.
+
+2 - O condutor, ao deixar o veículo estacionado, deve guardar os intervalos indispensáveis para manobra de saída de outros veículos ou de ocupação de espaços vagos.
+
+3 - O estacionamento deve processar-se de forma a permitir a normal fluidez do trânsito, não impedindo nem dificultando o acesso às habitações, estabelecimentos ou garagens, nem prejudicando a circulação de peões.
+
+###### Artigo 106.º — Estacionamento proibido
+
+1 - Sem prejuízo da demais legislação aplicável, é proibido o estacionamento:
+
+a) Em frente das bocas e marcos de incêndio e da entrada dos quartéis de bombeiros, das entradas e das instalações de quaisquer forças de segurança;
+
+b) Junto dos passeios onde, por motivo de obras, tenham sido colocados tapumes, salvo se o estacionamento for promovido por veículos em serviço de carga e descarga de materiais procedentes dessas obras ou a elas destinadas e desde que não provoquem obstrução ou congestionamento de trânsito ou de circulação pedonal;
+
+c) De veículos pesados de mercadorias e de pesados de passageiros, na via pública fora dos locais designados para o efeito;
+
+d) Nos locais e horários destinados às operações de carga e descarga;
+
+e) Na via pública, de automóveis para venda;
+
+f) Nos passeios e outros lugares públicos reservados a peões;
+
+g) De veículos destinados à venda de quaisquer artigos ou a publicidade de qualquer natureza, nos parques e zonas de estacionamento.
+
+2 - É proibida a ocupação da via e outros lugares públicos com quaisquer objetos destinados a reservar lugar para estacionamento de veículos ou a impedir o seu estacionamento, devendo imediatamente ser removidos pelos serviços municipais quaisquer objetos encontrados nesses locais.
+
+#### SECÇÃO II — Lugares de estacionamento privativo
+
+##### SUBSECÇÃO I — Disposições Gerais
+
+###### Artigo 107.º — Lugares de estacionamento privativo
+
+Entende-se por lugares de estacionamento privativo os locais da via pública reservados ao estacionamento de determinados veículos ligeiros pertencentes a pessoas singulares ou coletivas.
+
+###### Artigo 108.º — Condições do licenciamento
+
+1 - Sem prejuízo do disposto no artigo seguinte, o licenciamento da ocupação do espaço público com lugares de estacionamento privativo está sujeito aos seguintes limites máximos:
+
+a) Estabelecimentos comerciais ou de prestação de serviços - 2 lugares;
+
+b) Empreendimentos turísticos que não disponham de estacionamento próprio - 5 lugares.
+
+2 - A dimensão do lugar de estacionamento privativo não pode ultrapassar os seguintes valores:
+
+a) Estacionamento longitudinal: 5,5 metros de comprimento e 2 metros de largura;
+
+b) Estacionamento de topo ou inclinado em relação ao passeio: a dimensão de um paralelogramo onde seja possível inscrever um retângulo com 4,60 metros de comprimento e 2,30 metros de largura;
+
+c) Para veículos utilizados por pessoa com mobilidade condicionada: até 5,5 metros de comprimento, sendo a largura determinada em função da localização e da inclinação do lugar e em cumprimento da legislação em vigor.
+
+###### Artigo 109.º — Indeferimento
+
+O pedido de licenciamento de ocupação do espaço público com lugares de estacionamento privativo é indeferido quando:
+
+a) Pelas suas características impeça a normal circulação automóvel e pedonal ou cause prejuízos para terceiros;
+
+b) Tenha por objeto arruamentos em que 50 % da oferta de estacionamento disponível de lugares já esteja ocupada com lugares de estacionamento privativo.
+
+###### Artigo 110.º — Prazo de validade da licença
+
+1 - As licenças são concedidas pelo período de um ano civil e renovadas nos termos definidos no Livro I do presente Código.
+
+2 - Em situações excecionais podem ser concedidas licenças por período inferior a um ano, sem possibilidade de renovação.
+
+###### Artigo 111.º — Identificação dos veículos
+
+Os veículos autorizados a estacionar nos lugares de estacionamento privativo são obrigatoriamente identificados por meio de um cartão a colocar junto ao para-brisas do veículo, em sítio visível e legível do exterior.
+
+###### Artigo 112.º — Responsabilidade
+
+A atribuição de lugares de estacionamento privativo não constitui o Município em qualquer tipo de responsabilidade perante o respetivo titular, designadamente por eventual furto ou deterioração dos veículos parqueados, assim como dos bens que se encontrem no seu interior.
+
+###### Artigo 113.º — Remoção e desativação
+
+1 - As licenças são concedidas a título precário, podendo o lugar de estacionamento privativo ser removido definitivamente ou desativado por um determinado período de tempo, por razões de segurança, por motivo de obras ou outros devidamente justificados, sem que daí advenha o direito a qualquer indemnização.
+
+2 - Quando se torne necessária a remoção do lugar de estacionamento ou a sua desativação por um período de tempo superior a 8 dias seguidos, deve ser dado conhecimento prévio ao titular da licença, com indicação, sempre que possível de alternativa para a sua localização.
+
+3 - Se, nos termos do número anterior, o titular da licença não aceitar a alternativa proposta ou não apresentar outra que seja considerada aceitável pelo Município, deve observar-se o seguinte:
+
+a) Se a desativação for temporária, o valor das taxas já pagas correspondentes ao período de tempo em que o parque estiver desativado é deduzido no valor devido pela renovação da licença no ano civil seguinte;
+
+b) Se a remoção for definitiva, a licença caduca, sendo restituídas ao seu titular as taxas já pagas relativas aos meses que restavam até ao termo do prazo de validade da licença.
+
+##### SUBSECÇÃO II — Estacionamento privativo para pessoas com deficiência
+
+###### Artigo 114.º — Pessoas com deficiência
+
+Qualquer particular que seja portador do Dístico de Identificação de Deficiente Motor, emitido nos termos legais, pode solicitar ao Município uma licença de utilização de parque privativo, quer junto da sua residência, quer junto do seu local de trabalho.
+
+###### Artigo 115.º — Duração
+
+O licenciamento de estacionamento privativo para pessoa com deficiência tem a duração de 36 meses, findos os quais devem os interessados renovar o pedido.
+
+###### Artigo 116.º — Alteração dos pressupostos
+
+1 - Caso o particular proceda à mudança de viatura, de residência ou de local de trabalho, deve solicitar de imediato a substituição do painel adicional do qual conste a matrícula, ou a retirada de toda a sinalética.
+
+2 - Qualquer pedido de recolocação do painel adicional do qual consta a matrícula, bem como do sinal respetivo e dos painéis noutro local, na sequência da mudança de viatura, de local de trabalho ou de residência, segue a tramitação do pedido inicial.
+
+###### Artigo 117.º — Indeferimento
+
+O pedido de licenciamento de ocupação do espaço público com lugar de estacionamento privativo para pessoa com deficiência é indeferido quando, pelas suas características técnicas ou físicas, tal licenciamento seja passível de impedir ou dificultar a normal circulação viária ou de comprometer a segurança automóvel ou pedonal.
+
+#### SECÇÃO III — Estacionamento de duração limitada
+
+##### SUBSECÇÃO I — Disposições gerais
+
+###### Artigo 118.º — Objeto
+
+A presente Secção define o regime a que ficam sujeitas as zonas de estacionamento de duração limitada.
+
+###### Artigo 119.º — Composição das zonas de estacionamento de duração limitada
+
+Das zonas de estacionamento de duração limitada estabelecidas pelo Município fazem parte integrante:
+
+a) Os lugares de estacionamento com duração limitada sujeitos às taxas regulamentares fixadas;
+
+b) Os lugares reservados a operações de carga e descarga de utilização gratuita;
+
+c) Os lugares destinados a motociclos, ciclomotores e velocípedes.
+
+###### Artigo 120.º — Classes de veículos
+
+Podem estacionar nas zonas de estacionamento de duração limitada, nos lugares a eles destinados:
+
+a) Os veículos automóveis ligeiros, com exceção de caravanas e autocaravanas;
+
+b) Os veículos automóveis de mercadorias e mistos de peso bruto até 3.500 quilogramas, para operações de carga e descarga;
+
+c) Os motociclos, ciclomotores e velocípedes, nas áreas que lhes sejam reservadas.
+
+###### Artigo 121.º
+
+## Título de estacionamento
+
+1 - O direito ao estacionamento em zonas de estacionamento de duração limitada é conferido pela aquisição do título de estacionamento.
+
+2 - O disposto no número anterior não se aplica às situações em que o título de estacionamento esteja a ser utilizado em veículo de categoria cujo estacionamento é proibido na zona de estacionamento de duração limitada em questão, casos em que prevalece a proibição de estacionamento.
+
+3 - O título de estacionamento deve ser adquirido no equipamento automático instalado para o efeito, mais próximo do lugar onde se pretende estacionar, através do pagamento das taxas aplicáveis.
+
+4 - Quando o equipamento automático de fornecimento de títulos mais próximo se encontre avariado, o utente é obrigado à aquisição do título noutra máquina, desde que instalada na mesma zona.
+
+5 - Em caso de avaria de todos os equipamentos numa determinada zona, o utente fica desonerado do pagamento do estacionamento, enquanto a situação de avaria se mantiver.
+
+6 - O título de estacionamento deve ser colocado no interior do veículo junto ao para-brisas dianteiro, com o rosto voltado para o exterior de modo a ser integralmente legível, exceto quando se trate de motociclos, caso em que o título pode ficar na posse do respetivo proprietário, que o deve exibir quando solicitado pelas entidades fiscalizadoras.
+
+7 - O incumprimento do disposto no número anterior constitui presunção de não pagamento do estacionamento.
+
+###### Artigo 122.º — Validade do título de estacionamento
+
+1 - O título de estacionamento considera-se válido pelo período nele fixado e é válido na zona onde foi adquirido e nas zonas de taxa similar.
+
+2 - Findo o período de validade constante do título de estacionamento, o utente deve abandonar o lugar ocupado.
+
+###### Artigo 123.º — Horário
+
+1 - A utilização do estacionamento de duração limitada fica sujeita ao pagamento de uma taxa, nos dias úteis, entre as 08.00 e as 20.00 horas e ao Sábado das 08.00 às 13.00 horas.
+
+2 - A Câmara Municipal pode determinar o alargamento ou a diminuição do horário previsto no número anterior.
+
+3 - O período máximo que qualquer veículo pode permanecer no estacionamento de duração limitada é de 3 horas.
+
+4 - Findo o período fixado no número anterior, o veículo deve ser retirado da zona onde se encontra estacionado, sob pena de se considerar indevidamente estacionado, ainda que o condutor tenha adquirido um novo título de estacionamento.
+
+###### Artigo 124.º — Utilização fora do horário de funcionamento
+
+Fora dos limites horários estabelecidos no artigo anterior, o parqueamento nas zonas de estacionamento de duração limitada é gratuito e não está condicionado ao período máximo estabelecido no mesmo artigo.
+
+###### Artigo 125.º — Estacionamento proibido
+
+Em zonas de estacionamento de duração limitada é proibido o estacionamento:
+
+a) De veículos de classe ou tipo diferente daquele para o qual o lugar tenha sido reservado;
+
+b) Por tempo superior ao permitido ou sem o pagamento da taxa fixada;
+
+c) Sem que seja exibido, de forma visível, o título comprovativo do pagamento da taxa, que deve ser colocado junto ao para-brisas dianteiro, ou da sua isenção;
+
+d) De veículos utilizados para transportes públicos, quando não autorizados pelo Município;
+
+e) De veículos que não fiquem completamente contidos dentro do espaço que lhes é destinado, quando devidamente assinalado;
+
+f) De veículos destinados à venda de quaisquer artigos ou a publicidade de qualquer natureza, exceto nos períodos, locais e condições expressamente autorizados pelo Município.
+
+###### Artigo 126.º — Condicionamento à utilização
+
+As zonas de estacionamento de duração limitada podem ser afetadas, mediante sinalização, a determinadas classes ou tipos de veículos, sendo proibido o estacionamento de veículos de classe ou tipo diferente daquele para o qual o espaço tenha sido exclusivamente afetado e de veículos destinados à venda de quaisquer artigos.
+
+###### Artigo 127.º — Situações especiais
+
+É livre o estacionamento de duração limitada pelos veículos que se encontrem nas seguintes situações:
+
+a) Os veículos cujos condutores se apresentem em missão urgente de socorro ou de polícia;
+
+b) Os veículos envolvidos em operações de carga e descarga, dentro do horário fixado e lugares destinados a esse fim;
+
+c) Os motociclos, ciclomotores e velocípedes estacionados em lugares destinados a esse fim;
+
+d) Os veículos de deficientes motores, quando devidamente identificados nos termos legais;
+
+e) Os veículos utilizados pelo Município.
+
+##### SUBSECÇÃO II — Regime especial para residentes
+
+###### Artigo 128.º — Cartão de residente
+
+1 - Podem ser atribuídos dísticos especiais designados por cartões de residente a pessoas singulares que se encontrem recenseadas na área de influência definida para a zona de estacionamento de duração limitada.
+
+2 - O requerimento de emissão de cartão de residente deve ser apresentado nos termos do disposto no Livro I do presente Código.
+
+3 - Do cartão de residente devem constar as seguintes indicações:
+
+a) A zona a que se refere;
+
+b) O respetivo prazo de validade;
+
+c) A matrícula do veículo.
+
+###### Artigo 129.º — Prazo de validade
+
+O prazo de validade do cartão de residente é de um ano, renovável automaticamente por iguais períodos.
+
+###### Artigo 130.º — Direitos do titular do cartão
+
+1 - O titular do cartão de residente pode estacionar gratuitamente na zona nele definida.
+
+2 - Para efeitos do número anterior, apenas se considera bem identificado o veículo que possua no seu interior o cartão de residente, colocado junto ao para-brisas de forma bem visível e legível do exterior.
+
+3 - Em caso de incumprimento do disposto no número anterior, presume-se que o proprietário ou utilizador do veículo não é residente.
+
+###### Artigo 131.º — Mudança de domicílio ou de veículo
+
+1 - O titular do cartão de residente deve devolvê-lo ao Município logo que deixe de ter residência na respetiva zona de estacionamento ou em caso de alienação do veículo.
+
+2 - O titular do cartão deve comunicar ao Município a substituição de veículo, o que determina a emissão de um novo cartão.
+
+3 - A inobservância do referido neste artigo determina a anulação do cartão de residente ou a perda do direito à emissão de novo cartão.
+
+###### Artigo 132.º — Furto ou extravio do cartão de residente
+
+Em caso de furto ou extravio do cartão de residente, deve o seu titular comunicar de imediato o facto ao Município, sob pena de responder pelos prejuízos resultantes da sua má utilização.
+
+#### SECÇÃO IV — Parques de estacionamento
+
+##### SUBSECÇÃO I — Disposições gerais
+
+###### Artigo 133.º — Objeto
+
+1 - A presente Secção define o regime a que fica sujeita a instalação e o funcionamento dos parques de estacionamento municipais e privados no Município.
+
+2 - Os parques de estacionamento municipais que tenham sido objeto de contratos de concessão e ou de exploração também estão sujeitos às condições previstas no presente Código.
+
+###### Artigo 134.º — Indeferimento
+
+Sem prejuízo do dever de cumprimento das demais regras a observar em cada caso concreto, designadamente as constantes do RJUE, os pedidos de instalação e funcionamento de parques de estacionamento são indeferidos quando:
+
+a) A sua instalação possa prejudicar a circulação ou segurança do trânsito na via pública ou colocar em risco a segurança dos utentes ou dos veículos e a integridade física dos peões;
+
+b) No local objeto do pedido o pavimento não permita o perfeito reconhecimento das marcações a efetuar, exceto se se tratar de parques provisórios para apoio a iniciativas ou eventos.
+
+###### Artigo 135.º — Regulamento dos parques privados
+
+Todos os parques de estacionamento devem ter um regulamento devidamente aprovado pelo Município, devendo as suas normas conformar-se com as regras constantes do presente Código.
+
+###### Artigo 136.º — Condições de instalação e funcionamento dos parques de estacionamento
+
+1 - O pavimento dos parques de estacionamento deve ser mantido em bom estado de conservação, oferecendo boas condições de estacionamento e de circulação para os veículos.
+
+2 - O controlo do acesso aos parques de estacionamento pode ser efetuado através de meios informáticos, mecânicos ou manuais.
+
+3 - Devem ser instalados dispositivos de combate a incêndios, de acordo com projeto específico, a aprovar previamente, nos termos da legislação aplicável.
+
+4 - O ordenamento do trânsito de veículos e de peões e a sinalização vertical, horizontal e luminosa devem observar as condições previstas no presente Código, no Código da Estrada, no Regulamento de Sinalização de Trânsito e demais legislação aplicável.
+
+5 - As dimensões mínimas a respeitar na marcação de cada lugar de estacionamento são as seguintes:
+
+a) Estacionamento longitudinal - 5,50 metros de comprimento e 2,30 metros de largura;
+
+b) Estacionamento de topo ou em espinha - 5,00 metros de comprimento e 2,30 metros de largura;
+
+c) Para pessoa com deficiência ou grávidas - 5,50 metros de comprimento, sendo a largura determinada em função da localização e da inclinação do lugar, em conformidade com a legislação aplicável.
+
+6 - Por cada 100 lugares de estacionamento no parque existem no mínimo 5 lugares destinados a pessoas com mobilidade condicionada.
+
+7 - Os lugares a que se refere o número anterior devem ser sinalizados de acordo com a legislação existente.
+
+###### Artigo 137.º — Estacionamento abusivo e irregular
+
+1 - É proibido o estacionamento em parques de estacionamento:
+
+a) Por um período igual ou superior a 2 dias sem que o respetivo utente proceda ao pagamento do montante das taxas correspondentes a esse período;
+
+b) Fora dos espaços destinados a estacionamento;
+
+c) Nos lugares destinados a pessoa com mobilidade condicionada sem que estejam preenchidas as condições legalmente exigidas para o efeito;
+
+d) De veículos de tipo, classe ou categoria cujo acesso esteja vedado.
+
+2 - No caso de estacionamento abusivo ou irregular, para além da aplicação de coima, pode proceder-se ao bloqueamento e reboque do veículo, caso o estacionamento abusivo ocorra em parques de exploração municipal direta ou indireta.
+
+###### Artigo 138.º — Segurança Geral
+
+Por razões de segurança, é proibido:
+
+a) Introduzir nos parques de estacionamento substâncias explosivas ou materiais combustíveis ou inflamáveis;
+
+b) Fazer fogo;
+
+c) O acesso de veículos de classe, tipo ou categoria diferente daquelas para que o parque esteja reservado.
+
+##### SUBSECÇÃO II — Parques de estacionamento municipais
+
+###### Artigo 139.º — Objeto
+
+As disposições constantes da presente Secção aplicam-se a todos os parques de estacionamento administrados direta ou indiretamente pelo Município, designadamente àqueles que tenham sido objeto de concessão ou cessão de exploração.
+
+###### Artigo 140.º — Classificação e afetação dos parques de estacionamento municipais
+
+1 - Os parques de estacionamento municipais são classificados como cobertos ou descobertos.
+
+2 - Os parques de estacionamento municipais podem ser afetos à utilização exclusiva de residentes ou a outros fins específicos que o Município venha a definir.
+
+###### Artigo 141.º — Horários de funcionamento
+
+O horário de funcionamento do parque consta de sinalização colocada à entrada do parque.
+
+###### Artigo 142.º — Pessoas e atividades admitidos
+
+1 - Os parques destinam-se exclusivamente à recolha de veículos automóveis e a operações com ela diretamente relacionadas, sendo proibido:
+
+a) A lavagem de veículos, bem como qualquer operação de manutenção destes, salvo se promovida por pessoa singular ou coletiva expressamente autorizada para o efeito;
+
+b) A reparação de veículos, salvo se for indispensável à respetiva remoção ou, tratando-se de avarias de fácil reparação, para o prosseguimento da marcha;
+
+c) Quaisquer transações, negociações, desempacotamento ou venda de objetos, afixação e distribuição de folhetos ou outra forma de publicidade, salvo mediante autorização expressa do Município;
+
+d) O uso das rampas de acesso ou de comunicação automóvel entre os níveis, pelos peões;
+
+e) O depósito, no perímetro do parque, de lixo ou objetos, qualquer que seja a sua natureza;
+
+f) O acesso de animais fora do respeito pelas regras habituais de segurança e salubridade.
+
+2 - Os veículos avariados no interior do parque são rebocados a expensas do utente.
+
+###### Artigo 143.º — Entrada e saída do parque de estacionamento
+
+1 - No momento da entrada do veículo no parque, o condutor deve munir-se de título de estacionamento válido.
+
+2 - No momento em que pretenda sair do parque de estacionamento, o utente deve proceder ao pagamento do estacionamento, nos termos publicitados em cada parque.
+
+3 - Após o pagamento, efetuado conforme o disposto no número anterior, o utente dispõe de 10 minutos para sair do parque sem lugar a qualquer pagamento adicional.
+
+4 - Após o decurso do período de tempo referido no número anterior sem que o utente tenha saído do parque de estacionamento, são cobradas as taxas em vigor.
+
+###### Artigo 144.º — Circulação no parque
+
+A velocidade máxima permitida para a circulação de veículos no interior do parque é de 10 quilómetros/hora.
+
+###### Artigo 145.º — Responsabilidade dos utentes e da entidade gestora
+
+1 - O estacionamento e a circulação no parque são da responsabilidade dos condutores dos veículos, nas condições constantes da legislação vigente, sendo os condutores responsáveis pelos acidentes e prejuízos que provoquem por inabilidade, negligência ou qualquer outra causa, incluindo na sequência da violação do disposto no presente Código.
+
+2 - Os utentes que provoquem danos noutras viaturas ou nas instalações do parque, devem imediatamente dar conhecimento à entidade gestora.
+
+3 - Em caso de imobilização acidental de um veículo numa via de circulação do parque, o seu condutor é obrigado a tomar todas as medidas para evitar os riscos de acidente.
+
+4 - O parque de estacionamento funciona para efeitos de responsabilidade civil, como uma extensão da via pública, destinando-se o sistema de controlo de acessos apenas à medição, cobrança e faturação do tempo de permanência de cada veículo.
+
+5 - A entidade gestora não se responsabiliza por roubos ou furtos de veículos, nem por outros danos de qualquer natureza, que possam ser cometidos por terceiros durante os períodos de estacionamento.
+
+6 - Nenhuma responsabilidade pode ser imputada à entidade gestora por prejuízos causados a pessoas, animais ou coisas, que se encontrem sem motivo, no parque ou nas vias de acesso, quaisquer que sejam as causas dos ditos prejuízos, em caso de utilização não conforme ou da inobservância do disposto no presente Código.
+
+###### Artigo 146.º — Condicionamento ao estacionamento
+
+1 - Nos parques de estacionamento municipais o estacionamento pode ser ocasionalmente condicionado, parcial ou totalmente, com salvaguarda dos direitos adquiridos pelos titulares de avenças mensais.
+
+2 - Pode ser ainda determinado o encerramento do parque, a título excecional, fundamentada e temporariamente.
+
+3 - Sempre que necessário, pode ser vedado o acesso a zonas delimitadas do parque, para efeitos de conservação, manutenção ou restauro.
+
+###### Artigo 147.º — Informações e Reclamações
+
+1 - Junto das caixas de pagamento manual e automático é afixada informação contendo as taxas em vigor e o modo de determinação da taxa a pagar, bem como o horário de funcionamento do parque e, quando aplicável, a indicação do procedimento a adotar para o pagamento das taxas após o encerramento.
+
+2 - As reclamações podem ser efetuadas em livro próprio existente nos parques.
+
+###### Artigo 148.º — Taxas
+
+1 - No caso da não apresentação de título válido à saída do parque por extravio ou qualquer outra razão, são cobradas taxas correspondentes ao estacionamento mínimo de um dia, salvo se for comprovado que o parque foi utilizado por período superior a um dia.
+
+2 - Nos parques informatizados, se no prazo de 10 dias úteis a contar da data do facto, o utente apresentar o original do título válido bem como o talão de pagamento efetuado, é reembolsado do excesso de quantitativo de taxa cobrado nos termos do número anterior, desde que o estado de conservação dos documentos permita comprovar o tempo efetivo de permanência no parque.
+
+## TÍTULO II — Utilizações do domínio público
+
+### CAPÍTULO I — Obras na via pública
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 149.º — Objeto e âmbito de aplicação
+
+1 - O presente Título define as regras aplicáveis às obras nos pavimentos e subsolos das vias públicas municipais, de modo a garantir a sua boa execução, fornecendo as bases indispensáveis à sua fiscalização.
+
+2 - O disposto no presente Título aplica-se a todos os trabalhos a realizar no domínio público municipal por qualquer serviço ou entidade pública ou privada, sem prejuízo da observância das demais disposições legais aplicáveis.
+
+###### Artigo 150.º — Competência para coordenar e proceder à apreciação prévia dos planos de atividades
+
+1 - Compete ao Município promover ações de coordenação entre as diversas entidades e serviços, prevendo-se para tanto a criação de um sistema de informação e gestão da via pública e a sua constante atualização.
+
+2 - Para os efeitos do número anterior, devem as entidades e serviços intervenientes na via pública submeter à apreciação do Município, até 30 de novembro de cada ano, o plano de obras de investimento que preveem vir a realizar no ano subsequente.
+
+3 - O Município informa as diversas entidades e serviços de todas as obras de beneficiação de arruamentos de iniciativa municipal, ou de outras entidades, 60 dias antes do seu início, para que estas possam pronunciar-se sobre o interesse de realizarem intervenções na zona em causa.
+
+###### Artigo 151.º — Isenção de licenciamento
+
+1 - Está isenta de licenciamento a execução de obras no domínio público municipal:
+
+a) Que revistam carácter de urgência, nos termos previstos no artigo seguinte;
+
+b) Que não afetem os pavimentos;
+
+c) Promovidas pelo Município e executadas por administração direta ou executadas por uma terceira entidade.
+
+2 - A isenção de licenciamento não prejudica o dever de cumprimento das demais regras legais e regulamentares aplicáveis.
+
+3 - As intervenções previstas na alínea b) do n.º 1, bem como a data do respetivo início e conclusão, devem ser comunicadas por escrito ao Município com 5 dias de antecedência.
+
+4 - As normas constantes do presente Título são subsidiariamente aplicáveis a tudo quanto não esteja estipulado nos contratos celebrados entre o Município e quaisquer outras entidades públicas ou privadas, relativamente às obras referidas na alínea c) do n.º 1.
+
+###### Artigo 152.º — Obras de carácter urgente
+
+1 - Entende-se por obras de carácter urgente aquelas que exijam a sua execução imediata, designadamente a reparação de fugas de água e de gás, de cabos elétricos ou telecomunicações, a desobstrução de coletores e a reparação ou substituição de postes ou de quaisquer instalações cujo estado possa constituir perigo ou originar perturbações na prestação do serviço a que se destinam.
+
+2 - A realização de qualquer obra nestas condições, deve ser comunicada imediatamente pela entidade ou serviço interveniente à Polícia Municipal, a qual depois assegurará as devidas comunicações internas.
+
+3 - Na sequência da comunicação referida no número anterior, nos casos em que a obra tenha duração superior a 1 dia, podem os serviços solicitar a entrega dos elementos que tiverem por convenientes.
+
+###### Artigo 153.º — Alvará de licença
+
+1 - Para além dos demais elementos previstos no Livro I do presente Código, o alvará de licença de obras no domínio público municipal contém:
+
+a) A identificação do local onde se realizam as obras e o tipo das mesmas;
+
+b) A indicação do montante de caução prestada e a identificação do respetivo título, se aplicável.
+
+2 - O licenciamento é válido a partir da data da emissão do alvará, salvo se outro prazo for estabelecido, podendo o respetivo prazo de validade ser prorrogado, mediante requerimento a apresentar pelo titular do alvará até 5 dias antes da data da caducidade.
+
+3 - A licença pode ser suspensa se a entidade responsável pelos trabalhos não estiver a cumprir o disposto no presente Código.
+
+###### Artigo 154.º — Deveres do titular da licença
+
+Para além dos deveres previstos no Livro I deste Código e no presente Título, assim como dos fixados em cada deferimento do licenciamento, o titular da licença de obras na via pública está obrigado ao cumprimento dos deveres a que estão sujeitos os titulares das licenças de ocupação do domínio público.
+
+###### Artigo 155.º — Caducidade do alvará
+
+Para além das demais causas de extinção previstas no Livro I do presente Código, o alvará de licença de trabalhos no domínio público municipal caduca:
+
+a) Se a execução dos trabalhos não se iniciar no prazo máximo de 90 dias, a contar da notificação da emissão de alvará;
+
+b) Se os trabalhos estiverem suspensos ou abandonados por período superior a 60 dias, salvo se a referida suspensão ocorrer por facto não imputável ao titular;
+
+c) Se os trabalhos não forem concluídos no prazo fixado no alvará de licenciamento ou no prazo estipulado pelo Município;
+
+d) Se, no período entre a concessão da licença e a data de realização dos trabalhos, o tipo de pavimento for alterado ou a via repavimentada.
+
+###### Artigo 156.º — Caução
+
+1 - O Município reserva-se o direito de exigir ao titular da licença ou ao responsável pela execução da obra, nos casos de obras isentas de licenciamento, a prestação de caução para garantir a boa e regular execução dos trabalhos a efetuar na via pública, designadamente tendo em vista a conveniente reposição dos pavimentos ou para ressarcir o Município pelas despesas efetuadas, em caso de substituição na execução dos trabalhos, assim como pelos danos resultantes dos trabalhos executados.
+
+2 - A caução é prestada através de garantia bancária, depósito bancário ou seguro-caução, a favor do Município.
+
+3 - O montante da caução é igual ao valor da estimativa orçamental apresentada, podendo ser revisto pelo Município.
+
+4 - A caução é acionada sempre que a entidade responsável pela intervenção não proceda à reparação previamente exigida pelo Município no prazo imposto.
+
+5 - Quando se verifique que a caução prestada inicialmente não é suficiente para suportar todas as despesas estimadas que o Município possa vir a suportar com a reposição das condições do pavimento, a entidade responsável pela obra deve efetuar um reforço da caução no montante indicado pelo Município.
+
+6 - A falta de prestação da caução ou do seu reforço determina a suspensão de todas as licenças concedidas, bem como o indeferimento das demais que venham a ser solicitadas até à regularização da situação.
+
+7 - Decorrido o prazo de garantia da obra, são restituídas as quantias retidas e promover-se-á a extinção da caução prestada.
+
+8 - Decorridos 2 anos após a conclusão dos trabalhos pode ser reduzido o montante da caução, o qual não pode exceder 90 % do montante inicial.
+
+9 - A caução pode ser exigida de forma única, de modo a garantir a boa e regular execução dos trabalhos a promover na via pública durante o ano civil em causa, por referência ao valor estimado das intervenções anuais da entidade responsável pela intervenção.
+
+10 - No caso referido no número anterior, o valor da caução é revisto trimestralmente, de forma a garantir a sua redução ou reforço, em face das obras entretanto promovidas.
+
+###### Artigo 157.º — Indeferimento
+
+Para além dos casos previstos na lei, o Município indefere os pedidos de licenciamento de obras na via pública sempre que:
+
+a) Pela sua natureza, localização, extensão, duração ou época programada de realização, se prevejam situações lesivas para o ambiente urbano, para o património cultural, para a segurança dos utentes ou para a circulação na via pública;
+
+b) O pedido tenha por objeto pavimentos com idade inferior a 5 anos ou em bom estado de conservação, salvo em situações excecionais, e em conformidade com as condições impostas.
+
+###### Artigo 158.º — Responsabilidade
+
+1 - O Estado, as entidades concessionárias de serviços públicos, as empresas públicas e os particulares são responsáveis pela reparação e indemnização de quaisquer danos que, por motivos imputáveis a si ou ao adjudicatário, sejam sofridos pelo Município ou por terceiros.
+
+2 - Sem prejuízo do disposto no número anterior, sempre que o Município detete qualquer situação que ponha em risco a segurança dos utentes da via pública, pode atuar de imediato de forma a eliminar ou minimizar o perigo, debitando os custos à entidade concessionária da infraestrutura que tenha motivado a situação.
+
+3 - As situações previstas no número anterior são comunicadas à entidade em causa até ao final do primeiro dia útil seguinte à intervenção, momento a partir do qual é essa entidade responsável pela manutenção das condições de segurança bem como pela execução dos trabalhos necessários para a reposição das condições normais de funcionamento, no prazo definido pelos serviços.
+
+###### Artigo 159.º — Embargo de obras na via pública
+
+1 - O Município pode determinar o embargo total ou parcial de obras na via pública, em caso de inobservância do disposto no presente Código e demais disposições legais e regulamentares aplicáveis, assim como do estipulado nas condições da licença.
+
+2 - O embargo da obra deve ser notificado por escrito à entidade, serviço ou particular interveniente e registado em instrumento adequado.
+
+3 - Sem prejuízo do disposto no número anterior, a fiscalização municipal pode ordenar o embargo imediato da obra quando a demora resultante da suspensão dos trabalhos envolver perigo iminente ou danos graves para o interesse público.
+
+4 - Em caso de embargo, o titular do alvará de licenciamento é obrigado a tomar as providências necessárias para que a obra não constitua perigo para o trânsito de veículos ou peões.
+
+5 - Quando a gravidade da situação assim o impuser ou aconselhar, o Município pode, a expensas do titular do alvará de licenciamento, repor de imediato as condições existentes no início das obras, ainda que, para tanto, haja que proceder ao tapamento de valas.
+
+6 - As despesas a que se refere o número anterior, no caso de não serem satisfeitas voluntariamente, são pagas através da caução prestada, seguindo-se o procedimento de execução fiscal nos demais casos.
+
+7 - O embargo é levantado logo que o titular do alvará de licenciamento demonstre ter dado cumprimento às disposições legais e regulamentares aplicáveis.
+
+#### SECÇÃO II — Condicionantes da Licença
+
+###### Artigo 160.º — Proteção do património arqueológico
+
+1 - As intervenções na via pública que afetem o subsolo, mesmo que superficialmente, podem ser sujeitas a parecer prévio dos serviços municipais que asseguram a gestão do património arqueológico e das entidades competentes da Administração Central, no que se refere às zonas classificadas ou em vias de classificação, podendo impor-se os condicionamentos necessários para a salvaguarda do património arqueológico.
+
+2 - Os custos decorrentes das medidas de avaliação, preventivas ou de minimização determinadas por essas entidades são suportados, nos termos das disposições legais, pelos promotores dos referidos trabalhos.
+
+###### Artigo 161.º — Proteção de espaços verdes
+
+1 - Qualquer intervenção na via pública que colida com a normal utilização ou preservação dos espaços verdes, só é autorizada mediante o parecer favorável dos serviços competentes.
+
+2 - As intervenções referidas no número anterior ficam sujeitas ao disposto no Código Regulamentar de Ambiente.
+
+###### Artigo 162.º — Projeto de sinalização temporária
+
+Quando haja lugar a elaboração de projeto de sinalização temporária, em cumprimento do estabelecido no [Decreto Regulamentar n.º 22-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), de 1 de outubro, e demais legislação em vigor, o mesmo deve ser submetido a aprovação dos serviços de Higiene e Segurança no Trabalho.
+
+#### SECÇÃO III — Identificação, sinalização e medidas de segurança
+
+###### Artigo 163.º — Identificação da obra
+
+1 - Antes do início dos trabalhos, o titular de alvará fica obrigado a colocar, de forma visível, placas identificadoras da obra, das quais constem os seguintes elementos:
+
+a) Identificação do titular de alvará de licenciamento;
+
+b) Identificação do tipo de obra;
+
+c) Data de início e de conclusão da obra.
+
+2 - No caso de obras urgentes ou de pequena dimensão em passeios, pode ser colocada uma placa com a identificação da entidade, serviço ou particular titular do alvará de licenciamento.
+
+3 - As placas devem ser retiradas da obra após a conclusão dos trabalhos e em prazo nunca superior a 5 dias.
+
+###### Artigo 164.º — Sinalização da obra
+
+1 - O titular do alvará de licenciamento é responsável pela colocação e manutenção da sinalização temporária da obra, em cumprimento da legislação em vigor.
+
+2 - A sinalização temporária tem de ser imediatamente retirada após a conclusão dos trabalhos.
+
+3 - A sinalização existente antes do início dos trabalhos só pode ser alterada ou retirada mediante autorização expressa do serviço municipal competente.
+
+4 - Independentemente da obrigatoriedade ou não de apresentação de projeto de sinalização temporária, e quando a ocupação da via pública afete a circulação pedonal ou vias de trânsito, devem ser apresentadas plantas ao serviço municipal competente, para aprovação, com as áreas de circulação alternativas.
+
+5 - Deve ainda ser comunicado ao serviço municipal competente, em tempo oportuno, o dia efetivo da conclusão dos trabalhos para verificação e reposição da sinalização que existia antes do início da obra.
+
+###### Artigo 165.º — Medidas preventivas e de segurança
+
+1 - Os trabalhos na via pública devem ser executados de modo a garantir convenientemente o trânsito pedonal e automóvel, sendo obrigatória a utilização de todos os meios indispensáveis à segurança e comodidade da circulação, designadamente passadiços, guardas e outros dispositivos adequados para acesso às propriedades e ligação entre vias.
+
+2 - Sempre que a ocupação dos passeios o imponha, deve ser criada uma passagem para peões convenientemente vedada com elementos apropriados e que confiram segurança aos utentes ou têm de ser construídos passadiços de madeira ou de outro material, devidamente protegidos com guarda corpos.
+
+3 - As valas que venham a ser abertas para a execução das obras, bem como os materiais retirados da escavação, devem ser protegidos com dispositivos apropriados, designadamente guardas, rodapés e grades.
+
+4 - Sempre que se mostre essencial para permitir o trânsito automóvel e pedonal, devem as valas ser cobertas provisoriamente com chapas metálicas e, quando necessário, ser aplicados rodapés, guardas e outros dispositivos de segurança.
+
+5 - Durante o período noturno ou de paragem da obra, as valas devem ser repostas.
+
+6 - O equipamento utilizado deve ser o adequado, de forma a garantir a segurança dos transeuntes.
+
+###### Artigo 166.º — Medidas especiais de segurança
+
+Nas obras a executar em trajetos específicos de circulação de pessoas com mobilidade condicionada, a reposição dos pavimentos deve ser processada imediatamente, exceto quando tal não for possível por motivos técnicos justificados, devendo neste caso ser colocadas chapas de aço de modo a permitir a circulação, ou adotadas outras soluções de efeito equivalente.
+
+#### SECÇÃO IV — Execução dos trabalhos
+
+###### Artigo 167.º — Inicio dos trabalhos
+
+1 - O início de qualquer obra no domínio público municipal deve ser comunicado ao Município com uma antecedência mínima de 5 dias.
+
+2 - Excetuam-se do disposto no número anterior as obras de caráter urgente.
+
+###### Artigo 168.º — Exibição do alvará
+
+A entidade, serviço ou particular interveniente deve conservar no local da obra o alvará de licenciamento emitido pelo Município, de modo a que o mesmo possa ser apresentado sempre que solicitado.
+
+###### Artigo 169.º — Controlo do ruído
+
+1 - A utilização de máquinas e equipamentos na execução de obras na via pública deve respeitar os limites legais e regulamentares em matéria de ruído, designadamente o disposto nos Decretos-Lei números 9/2007, de 17 de janeiro, e 221/2006, de 8 de novembro.
+
+2 - Em caso de dúvida fundamentada, o Município pode exigir, por conta do responsável da obra, os ensaios considerados necessários para a determinação dos níveis sonoros de ruído e outros parâmetros.
+
+3 - A emissão da licença de obras na via pública não prejudica o dever de obter a licença especial de ruído para a execução dos trabalhos, sempre que tal licença se revele necessária.
+
+###### Artigo 170.º — Fiscalização de trabalho extraordinário
+
+1 - Sempre que seja indispensável efetuar a fiscalização dos trabalhos fora das horas normais de serviço, a entidade, serviço ou particular deve solicitar por escrito o acompanhamento dos mesmos, com a antecedência mínima de 5 dias.
+
+2 - As despesas decorrentes do serviço extraordinário prestado pelos funcionários municipais são debitadas à entidade, serviço ou particular interveniente.
+
+###### Artigo 171.º — Normas de execução das obras
+
+1 - O local da obra tem de ser mantido em boas condições de limpeza.
+
+2 - Não é permitida a manufatura de betões e argamassas, de qualquer tipo, executada diretamente sobre o pavimento.
+
+3 - Na execução da obra devem ser cumpridos todos os requisitos de segurança, designadamente a entivação das valas.
+
+4 - A ocupação total ou parcial da faixa de rodagem ou o condicionamento do trânsito em qualquer artéria depende de autorização prévia do Município.
+
+5 - Salvo situações excecionais devidamente fundamentadas, a autorização referida no número anterior deve ser requerida com uma antecedência mínima de 15 dias, sob pena de rejeição do pedido com fundamento na sua extemporaneidade.
+
+###### Artigo 172.º — Abertura de valas
+
+1 - O levantamento do pavimento e a abertura de valas para a construção, remodelação ou reparação de instalações no subsolo deve ser executado por troços de comprimento limitado, dependendo do local e das determinações do Município, as quais devem ter em consideração as características técnicas da obra.
+
+2 - Os trabalhos referidos no número anterior devem ser executados de forma a minimizar, tanto quanto possível, a área necessária às obras, com vista a reduzir os prejuízos resultantes para a circulação de pessoas e veículos.
+
+3 - A extensão das valas deve ser inferior a 60 metros, salvo em casos excecionais expressamente autorizados pelo Município.
+
+4 - Em casos especiais, designadamente arruamentos estreitos, de tráfego intenso ou trajetos de circulação de pessoas com mobilidade condicionada, nos quais os trabalhos provoquem perturbações de trânsito, quer diurno, quer noturno, pode o Município determinar um limite inferior ao mencionado no número anterior para a extensão da vala.
+
+###### Artigo 173.º — Utilização do processo de perfuração horizontal
+
+1 - A abertura de valas pelo processo de perfuração horizontal ou equiparado só é permitida em casos devidamente justificados, sendo previamente requerida pelo interessado e autorizada de forma expressa pelo Município.
+
+2 - Para apreciação do pedido referido no número anterior, a entidade ou serviço interveniente deve apresentar parecer, emitido por todas as entidades que tenham estruturas ou infraestruturas instaladas no local em que se pretende executar os trabalhos.
+
+###### Artigo 174.º — Utilização de explosivos
+
+1 - Na abertura de valas não é permitida a utilização de explosivos, a não ser em casos excecionais e comprovadamente sem outra alternativa técnica.
+
+2 - Nos casos mencionados no número anterior, deve ser requerida ao Comando Geral da Policia de Segurança Pública autorização para o uso de explosivos.
+
+3 - O dono da obra é responsável perante o Município pelos danos causados direta ou indiretamente.
+
+###### Artigo 175.º — Acondicionamento dos materiais
+
+1 - Em todos os trabalhos realizados no domínio público municipal, os inertes indispensáveis à sua execução, os materiais recuperáveis provenientes do levantamento do pavimento e os materiais necessários à realização dos trabalhos são obrigatoriamente acondicionados de maneira adequada.
+
+2 - Os materiais não recuperáveis devem ser prontamente removidos do local da obra.
+
+3 - Os materiais escavados devem ser removidos do local da obra, de acordo com as determinações dos serviços municipais de fiscalização, sempre que as condições de trânsito de veículos ou peões não permitam a sua permanência no local.
+
+4 - O Município pode autorizar o depósito temporário das terras retiradas da escavação em local próximo, indicado pela empresa interessada, que cause menor perturbação ao trânsito de pessoas e veículos.
+
+5 - O depósito temporário das terras retiradas da escavação, quando autorizado nos termos do número anterior, tem a duração que estiver fixada para os trabalhos correspondentes e deve ser igualmente identificado e sinalizado.
+
+###### Artigo 176.º — Interferências com outras instalações
+
+1 - Os trabalhos no domínio público municipal devem ser efetuados de forma a não provocar a interceção ou rotura das infraestruturas previamente existentes no local dos mesmos.
+
+2 - Compete ao titular do alvará de licenciamento informar ou consultar o Município e outras entidades ou serviços exteriores ao Município, sempre que da realização dos trabalhos possam resultar interferências, alterações ou prejuízos para o normal funcionamento das infraestruturas ali existentes.
+
+3 - Sempre que tal se mostre necessário, o titular do alvará de licenciamento solicita a presença de técnicos responsáveis pelas demais infraestruturas existentes no local da obra, para acompanhamento e assistência na execução dos trabalhos.
+
+###### Artigo 177.º — Obrigação de comunicação de anomalias
+
+1 - Deve ser dado conhecimento imediato ao Município de qualquer anomalia que surja na decorrência da obra, designadamente:
+
+a) Da interceção ou rotura de infraestruturas;
+
+b) Da interrupção dos trabalhos;
+
+c) Do reinício dos trabalhos.
+
+2 - Na situação prevista na alínea a) do número anterior, deve igualmente ser dado conhecimento do facto à entidade responsável pela infraestrutura afetada.
+
+###### Artigo 178.º — Aterro e compactação das valas
+
+1 - Os materiais a empregar nos aterros não devem conter detritos orgânicos, terras vegetais, entulhos heterogéneos, lodos, terras de elevada compressibilidade, argilas de elevado teor de humidade ou materiais sensíveis às intempéries, sendo a dimensão máxima dos elementos dos materiais a aplicar, em regra, inferior a dois terços da espessura da camada depois de compactada.
+
+2 - Sempre que não se verifiquem as condições definidas no número anterior, o Município pode exigir a substituição das terras, devendo, neste caso, os solos de empréstimo ser sujeitos, antes da aplicação, à aprovação dos serviços municipais competentes para a fiscalização.
+
+3 - A reposição de pavimentos sobre aterros carece de prévia vistoria e aprovação dos serviços municipais competentes para a fiscalização.
+
+###### Artigo 179.º — Materiais sobrantes
+
+Todos os materiais sobrantes recuperáveis devem ser entregues no estaleiro do serviço municipal competente, acompanhado de guia de remessa em duplicado.
+
+###### Artigo 180.º — Tapumes
+
+1 - É obrigatória a construção de tapumes ou a colocação de resguardos que tornem inacessível aos transeuntes a área destinada aos trabalhos, resíduos, materiais e amassadouros.
+
+2 - No licenciamento e na construção dos tapumes ou de outros meios de proteção, deve ser cumprida a legislação existente, nomeadamente quanto às normas de segurança.
+
+3 - Os tapumes para obras devem obedecer às seguintes condições:
+
+a) Ser construídos em madeira ou material metálico, bem acabados e devidamente pintados;
+
+b) Ter altura mínima de 2 metros;
+
+c) A restante fachada do edifício objeto de obra, deve ser resguardada com uma lona, pano, tela ou rede de ensombramento de forma a evitar a projeção de quaisquer resíduos ou poeiras para fora da área dos trabalhos;
+
+d) Esses materiais devem ser bem amarrados a uma estrutura rígida de suporte, por forma a impedir que se soltem.
+
+4 - Podem ser instalados andaimes metálicos de modelo homologado devidamente resguardados de acordo com o estabelecido na alínea c) do número anterior.
+
+5 - Sempre que a instalação de tapumes, ou outros meios de proteção, provoque uma redução dos níveis de iluminação pública para valores inferiores a 16lux, o dono da obra deve instalar iluminação provisória.
+
+6 - Os tapumes ou outros meios de vedação devem cumprir as condições definidas no Código Regulamentar de Ambiente ou outras condicionantes fixadas relativas à proteção de exemplares arbóreos existentes.
+
+7 - A publicidade colocada nos tapumes ou outros meios de vedação é licenciada nos termos do correspondente título deste Código.
+
+#### SECÇÃO V — Reposição de pavimentos e sinalização
+
+###### Artigo 181.º — Condições de reposição dos pavimentos
+
+1 - Sempre que haja lugar à reposição provisória do pavimento, a reposição definitiva deve ocorrer no prazo máximo de 30 dias, salvo se outro for o prazo fixado pelo Município.
+
+2 - A reposição do pavimento deve ser executada de acordo com as normas técnicas de boa execução habitualmente seguidas, designadamente no que se refere à concordância com os pavimentos adjacentes e à qualidade dos materiais aplicados, dando cumprimento às condições impostas.
+
+3 - Os pavimentos devem ser repostos com as mesmas características, estrutura e dimensões existentes antes da execução dos trabalhos.
+
+4 - Excetua-se do disposto no número anterior a reposição dos pavimentos para cumprimento de planos de pormenor que devem obedecer às condições impostas pelo Município.
+
+###### Artigo 182.º — Passeios
+
+A reposição do acabamento final do passeio deve ser feita em toda a largura da vala, acrescida de uma sobrelargura mínima de 0,30 metros para cada um dos lados da vala.
+
+###### Artigo 183.º — Faixa de rodagem
+
+A reposição deve ser efetuada em toda a largura da vala acrescida de uma sobrelargura mínima de 0,50 metros para cada um dos lados da vala.
+
+###### Artigo 184.º — Reposição provisória
+
+1 - Nos pavimentos betuminosos, quando não for possível executar de imediato a reposição definitiva do pavimento, deve ser realizada uma reposição provisória em cubos de granito ou betão betuminoso a frio.
+
+2 - A entidade, serviço ou particular responsável pela intervenção deve manter o pavimento em condições que garantam a continuidade e segurança do trânsito, enquanto não for concluída a pavimentação definitiva, designadamente assegurando a manutenção contínua da sinalização no local.
+
+###### Artigo 185.º — Reposição de sinalização
+
+1 - Após a execução dos trabalhos devem ser refeitas todas as marcas rodoviárias deterioradas no mesmo tipo e qualidade de materiais, sujeitas à aprovação do serviço municipal competente, bem como repostas as sinalizações verticais, luminosas ou outros equipamentos afetados pelas obras.
+
+2 - O Município pode executar ou ordenar a execução dos trabalhos necessários para repor as condições existentes no início das obras, sendo os custos debitados posteriormente ao responsável pela obra.
+
+###### Artigo 186.º — Limpeza do local da obra
+
+Concluídos os trabalhos, todos os materiais que ainda subsistam devem ser retirados do local e efetuada a limpeza da área envolvente à obra.
+
+#### SECÇÃO VI — Verificação dos trabalhos, garantia e conservação
+
+###### Artigo 187.º — Verificação dos trabalhos
+
+1 - Imediatamente após a conclusão da obra, o titular da licença ou o responsável pela sua execução, nos casos de isenção de licenciamento, deve requerer a verificação da correta execução dos trabalhos pelo Município.
+
+2 - Decorrido o prazo de garantia, deve ser efetuada nova verificação e aprovação dos trabalhos.
+
+###### Artigo 188.º — Prazo de garantia
+
+O prazo de garantia é de 5 anos, contados a partir da data da comunicação da conclusão dos trabalhos instruída com os elementos constantes do modelo de requerimento referido no Livro I.
+
+###### Artigo 189.º — Correção de deficiências
+
+1 - Sempre que, dentro do prazo de garantia, ocorra deterioração da via pública ou sejam detetadas deficiências decorrentes dos trabalhos executados, é o titular do alvará de licenciamento notificado para proceder à sua regularização no prazo que lhe for fixado.
+
+2 - Os titulares da licença ou os responsáveis pela execução das obras, no caso de obras isentas de licenciamento, são responsáveis pela conservação dos elementos superficiais instalados na via pública e dos pavimentos circundantes, numa área adjacente ao seu perímetro com a largura de 1 metro, devendo proceder à sua reparação no prazo fixado sempre que se verifiquem anomalias.
+
+3 - Em caso de incumprimento do disposto nos números anteriores, o Município pode substituir-se ao dono da obra na execução das correções necessárias, sendo os encargos daí resultantes imputados ao titular do alvará de licenciamento ou ao responsável pela execução da obra, no caso de obras isentas de licenciamento.
+
+###### Artigo 190.º — Galerias técnicas
+
+1 - As entidades ou serviços utilizadores de galerias técnicas são obrigados a efetuar operações de manutenção nas suas infraestruturas, de forma a garantir a utilização da galeria em condições de segurança.
+
+2 - Os custos de conservação das galerias técnicas são repartidos, caso a caso, pelas entidades ou serviços utilizadores, após análise pelo Município.
+
+###### Artigo 191.º — Reajuste de infraestruturas
+
+Sempre que o Município promova reparações ou recargas de pavimento, é da responsabilidade das entidades com infraestruturas na via pública o seu ajuste em altimetria e planimetria.
+
+### CAPÍTULO II — Outras ocupações do domínio público
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 192.º — Isenção de licenciamento
+
+1 - Sem prejuízo do dever de cumprimento das demais normas previstas neste Código, estão isentas de licenciamento de ocupação do espaço público as ocupações com uma área inferior a 1 metro quadrado, independentemente da altura em que estejam colocadas e que cumulativamente:
+
+a) Não provoquem obstrução de perspetivas panorâmicas, nem afetem a estética, o ambiente do local e a paisagem;
+
+b) Não prejudiquem a beleza ou o enquadramento de monumentos nacionais, edifícios de interesse público ou outros suscetíveis de serem classificados por entidade pública;
+
+c) Não causem prejuízos a terceiros;
+
+d) Não afetem a segurança de pessoas ou coisas, nomeadamente na circulação rodoviária ou ferroviária;
+
+e) Não apresentem disposições, formatos ou cores que possam confundir-se com os da sinalização de tráfego;
+
+f) Não prejudiquem a circulação dos peões, designadamente os cidadãos portadores de deficiência.
+
+###### Artigo 193.º — Requerimento
+
+O pedido de licenciamento das ocupações do domínio público deve ser apresentado com um prazo mínimo de 30 dias e máximo de 60 dias de antecedência em relação à data pretendida para a ocupação do espaço público.
+
+###### Artigo 194.º — Indeferimento
+
+Sem prejuízo dos fundamentos previstos para cada caso específico, os pedidos de licenciamento de ocupação do espaço público são indeferidos sempre que, designadamente:
+
+a) A ocupação pretendida possa ser promovida em propriedade privada;
+
+b) Pela sua natureza, localização, extensão, duração ou época programada de realização se prevejam situações lesivas para o ambiente urbano, para o património cultural, para a segurança dos utentes ou para a circulação na via pública.
+
+###### Artigo 195.º — Deveres do titular do licenciamento
+
+1 - Para além dos deveres gerais e das demais condições em cada caso previstas, o titular da licença de ocupação do espaço público deve:
+
+a) Fazer os resguardos necessários para impedir quaisquer danos para pessoas ou objetos, designadamente danos nos candeeiros de iluminação pública ou outro tipo de mobiliário urbano afetado com a ocupação;
+
+b) Proteger as árvores e outros revestimentos vegetais que possam ser afetados com a ocupação, de acordo com o previsto no Código Regulamentar de Ambiente;
+
+c) Respeitar as disposições do mesmo diploma relativamente à manutenção de indicações toponímicas existentes.
+
+2 - Sempre que seja necessária a remoção de árvores ou equipamentos, as respetivas despesas e posterior colocação correm por conta do titular da licença.
+
+#### SECÇÃO II — Ocupações do domínio público por motivo de obras
+
+###### Artigo 196.º — Equipamento de elevação mecânica
+
+1 - A implantação de gruas em espaço privado não dispensa a necessidade de licenciamento de utilização do espaço público sempre que dessa implantação possa resultar que o perímetro da lança alcance o domínio público.
+
+2 - No caso de guindastes e bailéus, quando haja ocupação de domínio público, estão sujeitos a licenciamento.
+
+###### Artigo 197.º — Bombagens de betão
+
+1 - A ocupação da via pública com veículo para fornecimento de betão pronto só é permitida nas zonas de estacionamento autorizado, em horas de menor intensidade de tráfego e no mais curto espaço de tempo, ficando o dono da obra responsável pela adoção de todas as medidas de segurança de terceiros, incluindo o recurso às autoridades policiais.
+
+2 - Em casos excecionais devidamente fundamentados, pode ser autorizada a ocupação com recurso a condicionamento de trânsito.
+
+3 - O dono da obra fica obrigado a tomar todas as providências adequadas para garantir a manutenção e limpeza do local.
+
+#### SECÇÃO III — Colocação de contentores
+
+###### Artigo 198.º — Condicionalismos
+
+1 - Nas ocupações licenciadas para a faixa de rodagem, os contentores devem ser colocados conforme a disposição e ou marcação do estacionamento no local, não podendo a área ser superior a 4,60 metros x 2,10 metros.
+
+2 - Nos contentores colocados de acordo com o número anterior devem ser fixadas verticalmente placas refletoras de sinalização de modelo a aprovar pelo Município, as quais devem estar sempre limpas e colocadas perpendicularmente ao sentido do trânsito existente no local da ocupação.
+
+###### Artigo 199.º — Indeferimento
+
+Para além dos demais fundamentos de indeferimento genericamente previstos no presente Código, o pedido de licenciamento de ocupação do espaço público com contentores é indeferido:
+
+a) Se tiver por objeto a ocupação das faixas de rodagem onde seja proibida a paragem ou o estacionamento;
+
+b) Se, pelas características dos contentores, se revelar inconveniente a ocupação pretendida.
+
+###### Artigo 200.º — Higiene e limpeza
+
+1 - Quando os contentores se encontrem cheios devem imediatamente ser substituídos.
+
+2 - Da ocupação não pode resultar qualquer perigo para a higiene e limpeza pública, nomeadamente a conspurcação da via pública.
+
+3 - Os contentores devem estar sempre em bom estado de conservação, nomeadamente no que respeita a pintura, higiene e limpeza.
+
+4 - Sempre que os serviços municipais verifiquem que não está a ser cumprido o disposto nos números anteriores, deve o contentor ser retirado no prazo máximo de doze horas, após notificação por escrito..
+
+###### Artigo 201.º — Locais de descarga de entulhos e outros materiais
+
+Só são autorizadas descargas nos locais previamente definidos pelo Município.
+
+#### SECÇÃO IV — Rampas
+
+###### Artigo 202.º — Das rampas
+
+1 - Apenas é permitida a ocupação da via pública com rampas fixas para o acesso a garagens, estações de serviço, oficinas de reparação de automóveis, instalações fabris ou pátios interiores e stands de automóveis ou armazéns.
+
+2 - As rampas fixas devem ser constituídas por lancis triangulares de granito, de encosto ao lancil existente, construídas sobre uma fundação de betão, salvo casos excecionais devidamente fundamentados.
+
+3 - O reforço do passeio e a manutenção do bom estado do passeio em frente às rampas, servidões em depressão dos respetivos passeios ou qualquer outro processo é da responsabilidade do titular da licença de rampa.
+
+4 - Podem ser licenciadas a título provisório rampas em betão para acesso à obra, durante o prazo necessário para a realização da mesma.
+
+5 - Sempre que seja impraticável garantir o acesso à habitação de pessoas com deficiência através do espaço privado, pode ser licenciada a construção de rampas fixas no domínio público, desde que salvaguardadas as demais normas legais e regulamentares aplicáveis.
+
+###### Artigo 203.º — Interdições
+
+1 - Não são permitidas rampas fixas em zonas de visibilidade reduzida ou que possam interferir com a segurança da circulação.
+
+2 - A extensão das rampas nunca pode exceder em mais de 0,60 metros, para cada lado, a largura do portal a que respeitam, salvo em situações de comprovado interesse público ou quando a geometria do arruamento exija uma largura superior, sendo a sua inclinação determinada pelos serviços municipais.
+
+###### Artigo 204.º — Rampas móveis
+
+A utilização de rampas móveis só pode ter lugar no momento da entrada ou saída de veículos ou no momento do acesso de pessoas com mobilidade condicionada à propriedade privada.
+
+## TÍTULO III — Ocupação e afetação de espaço público com atividades comerciais e de publicidade comercial
+
+### CAPÍTULO I — Conceitos gerais
+
+###### Artigo 205.º — Âmbito de aplicação
+
+1 - O presente Título aplica-se à ocupação do espaço público, à instalação de meios e suportes de afixação, inscrição e difusão de mensagens publicitárias de natureza comercial, qualquer que seja o meio de instalação utilizado, no solo, subsolo ou espaço aéreo, e ainda à propaganda política e eleitoral, em toda a área do território do Município.
+
+2 - Excluem-se do âmbito de aplicação do presente Título:
+
+a) A venda ambulante exceto a que envolva prestação de serviços de restauração e bebidas de caráter não sedentário realizada em unidades móveis ou amovíveis localizadas em feiras, espaços públicos autorizados para o exercício da venda ambulante, em espaços públicos ou privados de acesso público e em instalações fixas nas quais ocorram menos de dez eventos anuais;
+
+b) Os direitos de passagem relativamente a bens integrados no domínio público;
+
+c) A ocupação do espaço público com suportes para sinalização de tráfego horizontal, vertical e luminoso;
+
+d) Os editais, avisos, notificações e demais formas de informação relacionados com o cumprimento de prescrições legais;
+
+e) A difusão de comunicados, notas oficiosas ou outros esclarecimentos sobre a atividade de órgãos de soberania e da administração central ou local.
+
+3 - O presente Título não se aplica à exploração de mobiliário urbano ou de publicidade concessionada pelo Município na sequência de procedimento concursal, salvo se o contrário resultar do respetivo contrato de concessão, prevalecendo este sobre quaisquer disposições regulamentares que com ele se mostrem desconformes ou contraditórias.
+
+###### Artigo 206.º — Definições
+
+Para efeitos do presente Título entende-se por:
+
+a) Aglomerado urbano, o núcleo de edificações autorizadas e respetiva área envolvente, possuindo vias públicas pavimentadas e que seja servido por rede de abastecimento domiciliário de água e de drenagem de esgoto, sendo o seu perímetro definido pelos pontos distanciados 50 metros das vias públicas onde terminam aquelas infraestruturas urbanísticas;
+
+b) Anúncio eletrónico, sistema computorizado de emissão de mensagens e imagens, com possibilidade de ligação a circuitos de TV, vídeo e similares;
+
+c) Anúncio iluminado, suporte publicitário sobre o qual se faça incidir intencionalmente uma fonte de luz;
+
+d) Anúncio luminoso, suporte publicitário que emita luz própria;
+
+e) Bandeirola, suporte rígido que permaneça oscilante, afixado em poste ou estrutura idêntica;
+
+f) Campanha publicitária de rua, meios ou formas de publicidade, de caráter ocasional e efémera, que impliquem ações de rua e de contacto direto com o público, designadamente as que consistem na distribuição de panfletos ou produtos, provas de degustação, ocupação do espaço público com objetos, equipamentos de natureza publicitária ou de apoio;
+
+g) Cavalete, suporte não luminoso, localizado junto à entrada de estabelecimento de restauração ou de bebidas, destinado à afixação do respetivo menu;
+
+h) Chapa, suporte não luminoso aplicado ou pintado em paramento visível e liso;
+
+i) Coluna publicitária, suporte de forma predominantemente cilíndrica, dotada de iluminação interior, apresentando por vezes uma estrutura dinâmica que permite a rotação das mensagens publicitárias;
+
+j) Espaço público, área de acesso livre e de uso coletivo afeta ao domínio público das autarquias locais;
+
+k) Esplanada aberta, instalação no espaço público de mesas, cadeiras, guarda-ventos, guarda-sóis, estrados, floreiras, tapetes, aquecedores verticais e outro mobiliário urbano, sem qualquer tipo de proteção fixa ao solo, destinada a apoiar estabelecimentos de restauração ou de bebidas e similares ou empreendimentos turísticos;
+
+l) Esplanada fechada, instalação no espaço público de mesas, cadeiras, guarda-ventos, guarda-sóis, estrados, floreiras, tapetes, aquecedores verticais e outro mobiliário urbano, destinados a apoiar estabelecimentos de restauração ou de bebidas e similares ou empreendimentos turísticos, com uma estrutura envolvente de proteção contra agentes climatéricos, mesmo que qualquer dos elementos da sua estrutura seja rebatível, extensível ou amovível;
+
+m) Expositor, estrutura própria para apresentação de produtos comercializados no interior do estabelecimento comercial, instalada no espaço público;
+
+n) Floreira, vaso ou recetáculo para plantas destinado ao embelezamento, marcação ou proteção do espaço público;
+
+o) Guarda-vento, armação que protege do vento o espaço ocupado por uma esplanada;
+
+p) Insufláveis e meios aéreos, todos os suportes publicitários aéreos dirigidos ou controlados por meios próprios ou por ligação ao solo;
+
+q) Letras soltas ou símbolos, mensagem publicitária não luminosa, diretamente aplicada nas fachadas dos edifícios, montras, portas ou janelas;
+
+r) Mastro-bandeira suporte integrado num mastro, que tem como principal função elevar a área de afixação publicitária acima dos 3 metros de altura, e como função complementar ostentar uma bandeira;
+
+s) Mobiliário urbano, coisas instaladas, projetadas ou apoiadas no espaço público, destinadas ao uso público, que prestam um serviço coletivo ou que complementam uma atividade de cariz comercial, ainda que de modo sazonal ou precário;
+
+t) Múpi, suporte constituído por estrutura de dupla face, dotado de iluminação interior, que permite a rotação de mensagens publicitárias, podendo uma das faces ser destinada a informação do Município;
+
+u) Painel, também denominado "outdoor", suporte gráfico constituído por moldura e respetiva estrutura fixada diretamente no solo ou fixado em tapumes, vedações ou elementos congéneres;
+
+v) Pala, elemento rígido de proteção contra agentes climatéricos com, pelo menos, uma água, fixo aos paramentos das fachadas e aplicável a vãos de portas, janelas ou montras;
+
+w) Pendão, suporte não rígido que permaneça oscilante, afixado em poste ou estrutura idêntica;
+
+x) Placa, suporte não luminoso aplicado em paramento visível, com ou sem emolduramento;
+
+y) Propaganda eleitoral, toda a atividade que visa, direta ou indiretamente promover candidaturas, seja dos candidatos, dos partidos políticos, dos titulares dos seus órgãos ou seus agentes, das coligações, dos grupos de cidadãos proponentes ou de quaisquer outras pessoas;
+
+z) Propaganda política, toda a atividade de natureza ideológica ou partidária de cariz não eleitoral que visa diretamente promover os objetivos desenvolvidos pelos seus subscritores;
+
+aa) Publicidade, qualquer forma de comunicação feita no âmbito de uma atividade comercial, industrial, artesanal ou liberal, com o objetivo direto ou indireto de promover, com vista à sua comercialização ou alienação, quaisquer bens ou serviços, ou promover ideias, princípios, iniciativas ou instituições;
+
+bb) Publicidade aérea, a que se refere aos suportes e mensagens publicitárias instalados, inscritos ou afixados em veículos ou dispositivos aéreos, designadamente em aviões, helicópteros, zepelins, balões e outros, bem como dispositivos publicitários aéreos cativos (insufláveis sem contacto com o solo, mas a ele espiados);
+
+cc) Publicidade em veículos, a que se refere aos suportes e mensagens publicitárias instalados, inscritos ou afixados em veículos e a inscrita em transportes públicos;
+
+dd) Publicidade sonora, atividade publicitária que utiliza o som como elemento de divulgação da mensagem publicitária;
+
+ee) Quiosque, elemento de mobiliário urbano de construção aligeirada, composto de um modo geral por uma base, balcão, corpo e proteção;
+
+ff) Sanefa, elemento vertical de proteção contra agentes climatéricos, feito de lona ou material similar, colocado transversalmente na parte inferior dos toldos, no qual pode estar inserida uma mensagem publicitária;
+
+gg) Suporte publicitário, meio utilizado para a transmissão de uma mensagem publicitária;
+
+hh) Tabuleta, suporte não luminoso, afixado perpendicularmente às fachadas dos edifícios, que permite a afixação de mensagens publicitárias em ambas as faces;
+
+ii) Tela, suporte publicitário de grandes dimensões, composto por material flexível, afixado nas empenas dos edifícios ou outros elementos de afixação;
+
+jj) Toldo, elemento de proteção contra agentes climatéricos, feito de lona ou material similar, rebatível, aplicável em qualquer tipo de vãos, como montras, janelas ou portas de estabelecimentos comerciais, no qual pode estar inserida uma mensagem publicitária;
+
+kk) Totem, suporte publicitário, de informação ou de identificação, singular ou coletivo, normalmente constituído por estrutura de dupla face em suporte monolítico, podendo ser luminoso, iluminado ou não iluminado e conter motor que permite a rotação;
+
+ll) Unidades móveis publicitárias, veículos ou atrelados utilizados exclusivamente para o exercício da atividade publicitária;
+
+mm) Via pública, via de comunicação terrestre afeta ao trânsito público;
+
+nn) Vitrina, mostrador envidraçado ou transparente, embutido ou saliente, colocado na fachada dos estabelecimentos comerciais, onde se expõem objetos e produtos ou se afixam informações.
+
+###### Artigo 207.º — Exclusivos
+
+A Câmara Municipal pode conceder exclusivos de exploração de mobiliário urbano, bem como do espaço público para a afixação, inscrição ou difusão de mensagens publicitárias, nos termos do Código dos Contratos Públicos, salvo se se tratar de contratação excluída do seu âmbito de aplicação.
+
+### CAPÍTULO II — Controlo prévio
+
+#### Secção I — Disposições preliminares
+
+###### Artigo 208.º — Princípio geral
+
+1 - Sem prejuízo do disposto em legislação específica aplicável, a ocupação do espaço público depende de controlo prévio, que pode revestir as modalidades de mera comunicação prévia, de comunicação prévia com prazo ou de licença, nos termos e com as exceções constantes do presente Título.
+
+2 - Sem prejuízo do disposto em legislação específica aplicável, a afixação, inscrição e difusão de mensagens publicitárias de natureza comercial, depende de licença, salvo nas situações previstas no número seguinte.
+
+3 - Sem prejuízo das regras sobre a utilização do espaço público e do regime jurídico da conservação da natureza e biodiversidade, a afixação e a inscrição de mensagens publicitárias de natureza comercial não estão sujeitas a licenciamento, a autorização, a autenticação, a validação, a certificação, a atos emitidos na sequência de comunicações prévias com prazo, a registo ou a qualquer outro ato permissivo, nem a mera comunicação prévia nos seguintes casos:
+
+a) Quando as mensagens publicitárias de natureza comercial são afixadas ou inscritas em bens de que são proprietárias ou legítimas possuidoras ou detentoras entidades privadas e não são visíveis ou audíveis a partir do espaço público;
+
+b) Quando as mensagens publicitárias de natureza comercial são afixadas ou inscritas em bens de que são proprietárias, legítimas possuidoras ou detentoras entidades privadas, e a mensagem publicita os sinais distintivos do comércio do estabelecimento ou do respetivo titular da exploração, ainda que sejam visíveis ou audíveis a partir do espaço público;
+
+c) Quando as mensagens publicitárias de natureza comercial são afixadas ou inscritas em bens de que são proprietárias, legítimas possuidoras ou detentoras entidades privadas, e a mensagem está relacionada com bens ou serviços comercializados no prédio em que se situam, ainda que sejam visíveis ou audíveis a partir do espaço público;
+
+d) Quando as mensagens publicitárias de natureza comercial ocupam o espaço público contíguo à fachada do estabelecimento e publicitam os sinais distintivos do comércio do estabelecimento ou do respetivo titular da exploração ou estão relacionadas com bens ou serviços comercializados no estabelecimento;
+
+e) Quando as mensagens publicitárias de natureza comercial são afixadas ou inscritas no próprio bem imóvel objeto da transação publicitada, ainda que sejam visíveis ou audíveis a partir do espaço público.
+
+4 - A instalação em espaço público de suporte publicitário destinado exclusivamente a esse fim não carece de qualquer procedimento de controlo prévio em matéria de ocupação do espaço público, ficando apenas sujeita a licença de publicidade nos termos do presente Título, salvo o disposto no número seguinte.
+
+5 - A instalação em espaço público de suporte publicitário quando dispensada do respetivo licenciamento nos termos do n.º 3, está sujeita a procedimento de controlo prévio em matéria de ocupação do espaço público, nos termos previstos na Secção seguinte.
+
+6 - A ocupação do espaço público, bem como a afixação, inscrição e difusão de mensagens publicitárias de natureza comercial deve obedecer aos critérios previstos nos Capítulo IV, V e VI do presente Título, em função do procedimento aplicável.
+
+7 - A afixação ou inscrição de mensagens de propaganda política e eleitoral obedece ao regime constante do Capítulo VI do presente Título, não se encontrando sujeita ao previsto no presente Capítulo.
+
+#### SECÇÃO II — Mera comunicação prévia e comunicação prévia com prazo
+
+###### Artigo 209.º — Mera comunicação prévia
+
+1 - Sem prejuízo dos critérios constantes dos Capítulos IV e VI do presente Título, aplica-se o regime da mera comunicação prévia à ocupação do espaço público, para algum ou alguns dos seguintes fins e limites quanto às características e localização:
+
+a) Instalação de toldo e respetiva sanefa, quando for efetuada junto à fachada do estabelecimento;
+
+b) Instalação de esplanada aberta, quando for efetuada em área contígua à fachada do estabelecimento e a ocupação transversal da esplanada não exceder a largura da fachada do respetivo estabelecimento;
+
+c) Instalação de estrado, quando for efetuada como apoio a uma esplanada e não exceder a sua dimensão;
+
+d) Instalação de guarda-ventos, quando for efetuada junto das esplanadas, perpendicularmente ao plano marginal da fachada, e o seu avanço não ultrapassar o da esplanada;
+
+e) Instalação de vitrina e expositor, quando for efetuada junto à fachada do estabelecimento;
+
+f) Instalação de suporte publicitário, nos casos em que é dispensado o licenciamento da afixação ou da inscrição de mensagens publicitárias de natureza comercial, desde que:
+
+i) Seja efetuada na área contígua à fachada do estabelecimento e não exceder a largura da mesma; ou
+
+ii) A mensagem publicitária seja afixada ou inscrita na fachada ou em mobiliário urbano referido nas alíneas anteriores.
+
+g) Instalação de arcas e máquinas de gelados, quando for efetuada junto à fachada do estabelecimento;
+
+h) Instalação de brinquedos mecânicos e equipamentos similares, quando for efetuada junto à fachada do estabelecimento;
+
+i) Instalação de floreira, quando for efetuada junto à fachada do estabelecimento;
+
+j) Instalação de contentor para resíduos, quando for efetuada junto à fachada do estabelecimento.
+
+2 - A mera comunicação prévia consiste numa declaração efetuada no Balcão do Empreendedor, que permite ao interessado na exploração do estabelecimento proceder imediatamente à ocupação do espaço público, após o pagamento das taxas devidas.
+
+3 - Os elementos que a mera comunicação prévia deve conter são os previstos no artigo 12.º, n.º 3 do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril e na Portaria n.º 239/2011, de 21 de junho.
+
+4 - O título comprovativo da mera comunicação prévia corresponde ao comprovativo eletrónico de entrega no Balcão do Empreendedor e do pagamento das taxas devidas.
+
+5 - Sem prejuízo da observância dos critérios constantes dos Capítulos IV e VI, a mera comunicação prévia, efetuada nos termos dos números anteriores, dispensa a prática de quaisquer outros atos permissivos relativamente à ocupação do espaço público, designadamente a necessidade de proceder a licenciamento ou à celebração de contrato de concessão.
+
+6 - O disposto no número anterior não impede o Município de ordenar a remoção do mobiliário urbano que ocupar o espaço público quando, por razões de interesse público devidamente fundamentadas, tal se afigure necessário.
+
+###### Artigo 210.º — Comunicação prévia com prazo
+
+1 - Aplica-se o regime da comunicação prévia com prazo no caso de as características e a localização do mobiliário urbano não respeitarem os limites referidos no n.º 1, do artigo anterior.
+
+2 - A comunicação prévia com prazo consiste numa declaração que permite ao interessado proceder à ocupação do espaço público, quando o Presidente da Câmara Municipal emita despacho de deferimento ou quando este não se pronuncie após o decurso do prazo de 20 dias, contado a partir do momento do pagamento das taxas devidas.
+
+3 - Os elementos que a comunicação prévia com prazo deve conter são os previstos no artigo 12.º, n.º 3 do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril e na Portaria n.º 239/2011, de 21 de junho.
+
+4 - A comunicação prévia com prazo é efetuada no Balcão do Empreendedor, sendo a sua apreciação da competência do Presidente da Câmara Municipal, podendo ser delegada nos vereadores
+
+5 - Sem prejuízo da observância dos critérios constantes dos Capítulos IV e VI, o deferimento da comunicação prévia com prazo, efetuada nos termos dos números anteriores, dispensa a prática de quaisquer outros atos permissivos relativamente à ocupação do espaço público, designadamente a necessidade de proceder a licenciamento ou à celebração de contrato de concessão.
+
+6 - O disposto no número anterior não impede o Município de ordenar a remoção do mobiliário urbano que ocupar o espaço público quando, por razões de interesse público devidamente fundamentadas, tal se afigure necessário.
+
+###### Artigo 211.º — Atualização de dados
+
+O titular da exploração do estabelecimento é obrigado a manter atualizados todos os dados comunicados, devendo proceder a essa atualização no prazo máximo de 60 dias após a ocorrência de qualquer modificação, salvo se esses dados já tiverem sido comunicados por força do disposto no n.º 4, do artigo 4.º do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril.
+
+###### Artigo 212.º — Cessação de ocupação do espaço público
+
+1 - O interessado na exploração de um estabelecimento deve igualmente usar o Balcão do Empreendedor para comunicar a cessação de ocupação do espaço público para os fins anteriormente declarados.
+
+2 - No caso da cessação da ocupação do espaço público resultar do encerramento do estabelecimento, dispensa -se a comunicação referida no número anterior, bastando para esse efeito a mencionada no n.º 6, do artigo 4.º do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril.
+
+#### SECÇÃO III — Licenciamento municipal
+
+##### Subsecção I — Disposições gerais
+
+###### Artigo 213.º — Licença
+
+1 - A ocupação do espaço público para fins distintos dos mencionados no capítulo anterior está sujeita a licença municipal.
+
+2 - Sem prejuízo do disposto no n.º 2, do artigo 57.º do Regime Jurídico da Urbanização e da Edificação, a ocupação da via ou espaço públicos, com andaimes, materiais ou equipamentos, que decorra direta ou indiretamente da realização de obras de edificação, está sujeita a licença municipal.
+
+3 - Tratando-se de operação urbanística sujeita a procedimento de comunicação prévia, as condições relativas à ocupação da via ou espaço públicos, devem acompanhar a comunicação prévia nos termos do n.º 2, do artigo 57.º do Regime Jurídico da Urbanização e da Edificação.
+
+4 - A afixação, inscrição ou difusão de mensagens publicitárias de natureza comercial está sujeita a licença municipal, nos termos e com as exceções constantes do presente Título, e obedece às regras gerais sobre publicidade.
+
+###### Artigo 214.º — Licenciamento cumulativo
+
+1 - O licenciamento de ocupação do espaço público não dispensa os procedimentos previstos no Regime Jurídico da Urbanização e da Edificação sempre que se realizem intervenções abrangidas por aquele regime, bem como a necessidade de obtenção de outras licenças, autorizações ou aprovações, legalmente previstas e exigidas, atenta a atividade desenvolvida.
+
+2 - A concessão de licença de ocupação do espaço público é precedida do procedimento de controlo prévio a que está sujeita a operação urbanística nos termos do Regime Jurídico da Urbanização e da Edificação.
+
+###### Artigo 215.º — Natureza precária da licença
+
+A licença é por natureza precária, podendo ser revogada a todo o tempo, sempre que o interesse público assim o exigir, sem prejuízo das situações de ocupação de espaço público resultantes de concessão, em que se aplica o respetivo regime.
+
+###### Artigo 216.º — Reserva do Município
+
+A licença pode estabelecer condição de reserva de determinado espaço ou espaços para difusão de mensagens relativas a atividades municipais ou outras apoiadas pelo Município.
+
+###### Artigo 217.º — Garantia
+
+1 - Quando a ocupação do espaço público dependa da realização de intervenções que interfiram com calçadas, infraestruturas, revestimento vegetal, outros elementos naturais ou construídos, deve ser exigida a prestação de uma caução para reposição do espaço nas condições em que se encontrava antes da ocupação.
+
+2 - A caução referida no número anterior é prestada a favor do Município, mediante garantia bancária autónoma à primeira solicitação, depósito em dinheiro ou seguro-caução, devendo constar do próprio título que a mesma se mantém válida pelo prazo da licença.
+
+3 - O montante da caução será equivalente ao dobro da taxa correspondente ao período da licença concedida, salvo se resultar valor inferior a metade do salário mínimo nacional, caso em que a prestação de caução é dispensada.
+
+4 - As cauções prestadas podem ser executadas pelo Município, sem necessidade de prévia decisão judicial ou arbitral, para satisfação das importâncias que se mostrem devidas pela execução dos trabalhos de reposição.
+
+5 - Sempre que seja dispensada a prestação de caução ou esta se mostre insuficiente para a execução dos trabalhos de reposição, deve o titular da licença proceder ao pagamento do valor das despesas incorridas pelo Município, no prazo de 20 dias a contar da notificação para o efeito.
+
+6 - Quando o valor das despesas a que se refere o número anterior não for pago voluntariamente no prazo fixado, o Município procede à sua cobrança nos termos da legislação aplicável.
+
+###### Artigo 218.º — Projetos de ocupação do espaço público
+
+1 - A Câmara Municipal quando as características urbanísticas, paisagísticas ou culturais o justifiquem, pode aprovar projetos de ocupação do espaço público, estabelecendo os locais passíveis de instalação de elementos de mobiliário urbano, suportes publicitários ou outras ocupações, bem como as características formais e funcionais a que estes devem obedecer, cuja eficácia depende de publicação por edital.
+
+2 - As ocupações do espaço público que se pretendam efetuar em áreas de intervenção que venham a ser definidas pela Câmara Municipal devem obedecer às características formais e funcionais aprovadas e ainda ao disposto no presente Título.
+
+##### Subsecção II — Procedimento de licença
+
+###### Artigo 219.º — Início do procedimento
+
+1 - O procedimento de licença inicia-se através da apresentação do requerimento devido, com a antecedência mínima de 30 dias em relação à data pretendida para o início da ocupação, afixação, inscrição ou difusão pretendidas.
+
+2 - Do requerimento consta a indicação do pedido ou objeto em termos claros e precisos, e ainda as seguintes menções:
+
+a) Tratando-se de pessoa singular:
+
+i) Identificação do requerente, com o nome, número de documento de identificação, morada, endereço de correio eletrónico, número de identificação fiscal, estado civil e profissão;
+
+ii) Consentimento de consulta da declaração de início ou de alteração de atividade, caso se trate de pessoa singular.
+
+b) Tratando-se de pessoa coletiva:
+
+i) Identificação do representante legal, com o nome, número de documento de identificação, identificação da firma, número de identificação fiscal, sede e endereço de correio eletrónico;
+
+ii) Código de acesso à certidão permanente do registo comercial, caso se trate de pessoa coletiva sujeita a registo comercial.
+
+c) O endereço do edifício ou estabelecimento objeto da pretensão, e o respetivo nome ou insígnia;
+
+d) A CAE das atividades que são desenvolvidas no estabelecimento, bem como outra informação relevante para a caracterização dessas atividades;
+
+e) A indicação, em termos claros e precisos, do objeto do pedido;
+
+f) A identificação da localização, área e características do mobiliário ou suporte objeto do pedido;
+
+g) A indicação do período de tempo pretendido.
+
+3 - O requerimento menciona ainda, quando for caso disso:
+
+a) As ligações às redes públicas de água, esgotos, eletricidade ou outras, de acordo com as normas aplicáveis à atividade a desenvolver;
+
+b) Os dispositivos de armazenamento adequados;
+
+c) Os dispositivos necessários à recolha de lixo.
+
+4 - As ligações referidas na alínea a), do número anterior, implicam as autorizações necessárias, da responsabilidade do requerente.
+
+5 - Quando o pedido de licença respeite a ocupação de espaço público e ainda a afixação, inscrição ou difusão de mensagens publicitárias de natureza comercial, aplicam-se as disposições previstas no presente Título em matéria de ocupação de espaço público e de publicidade, sem prejuízo da tramitação e apreciação conjunta.
+
+6 - O requerimento é acompanhado dos respetivos elementos instrutórios, nos termos do disposto no artigo seguinte e legislação específica aplicável.
+
+7 - Na apresentação de requerimento com recurso a qualquer meio de transmissão eletrónica de dados a instrução considera-se válida quando efetuada com assinatura digital qualificada.
+
+###### Artigo 220.º — Elementos instrutórios
+
+1 - O requerimento é acompanhado dos seguintes elementos instrutórios:
+
+a) Documento comprovativo da qualidade de titular de qualquer direito que confira legitimidade para a pretensão;
+
+b) Ata da assembleia de condóminos da qual conste deliberação de autorização para a pretensão, sempre que tal se mostre exigível nos termos do Código Civil;
+
+c) Memória descritiva indicativa dos materiais, configuração, cores, legendas a utilizar, e demais informações necessárias à apreciação do pedido;
+
+d) Cópia do alvará de autorização de utilização, quando a pretensão respeite a edifício ou estabelecimento existente;
+
+e) Planta de localização à escala de 1:2000, com a indicação do local objeto da pretensão;
+
+f) Fotografia a cores do local objeto da pretensão incluindo, caso se justifique, fotomontagem de integração;
+
+g) Declaração do requerente, responsabilizando-se por eventuais danos causados no espaço público.
+
+2 - Quando se trate de ocupação do espaço público, o pedido é instruído com os elementos mencionados no número anterior, e ainda com:
+
+a) Planta de implantação cotada assinalando as dimensões (comprimento e largura) do espaço público, as distâncias do mobiliário ou suporte objeto do pedido a lancis, candeeiros, árvores ou outros elementos existentes;
+
+b) Fotografias ou desenhos das peças a instalar, contendo designadamente, plantas, cortes, alçados, perspetivas, com indicação das suas dimensões incluindo balanço e distância vertical ao pavimento, quando for o caso;
+
+c) Projeto de arquitetura constituído por plantas, alçados e cortes devidamente cotados, a apresentar com o pedido de instalação de esplanadas fechadas, quiosques, palas e similares, quando for o caso.
+
+3 - Quando se trate de instalação de suporte publicitário, o pedido deve ser instruído com os elementos mencionados no n.º 1, e ainda com:
+
+a) Desenho que pormenorize a instalação, incluindo meio ou suporte, com a indicação da forma, cor, dimensão, materiais, legendas a utilizar, balanço de afixação e distância ao extremo do passeio respeitante e largura deste;
+
+b) Fotomontagem a cores dos alçados de conjunto numa extensão de 10 metros para cada um dos lados, com a integração do suporte publicitário na sua forma final, tratando-se de instalação em fachada, incluindo empena;
+
+c) Quando o pedido respeite a publicidade em unidades móveis e o suporte publicitário utilizado exceda as dimensões do veículo, ou seja um atrelado, o pedido deve ser acompanhado de autorização emitida pela entidade competente, de acordo com o Código da Estrada e demais legislação aplicável.
+
+###### Artigo 221.º — Consulta a entidades externas
+
+1 - No âmbito do procedimento de licença são consultadas as entidades que, nos termos da lei, devam emitir parecer, autorização ou aprovação sobre o pedido.
+
+2 - Pode ainda ser solicitado parecer não vinculativo às entidades que operem ou possuam infraestruturas no subsolo, se estas forem suscetíveis de ser, de algum modo, afetadas pela instalação a licenciar, bem como às entidades cuja consulta se mostre conveniente em função da especificidade do pedido.
+
+###### Artigo 222.º — Apreciação do pedido
+
+1 - Os pedidos de licença são apreciados pelos serviços competentes, atendendo aos critérios a que está sujeita a ocupação do espaço público, bem como a afixação, inscrição e difusão de mensagens publicitárias, constantes dos Capítulos V e VI do presente Título.
+
+2 - Os pedidos de licença respeitantes a ocupação de espaço público não especialmente tipificada no presente Regulamento são apreciados caso a caso, segundo os princípios e critérios gerais aplicáveis.
+
+###### Artigo 223.º — Deliberação
+
+A Câmara Municipal, ou quem esta delegar, delibera sobre o pedido de licença no prazo de 30 dias, contado a partir:
+
+a) Da data da receção do pedido ou dos elementos solicitados;
+
+b) Da data da receção do último dos pareceres, autorizações ou aprovações emitidos pelas entidades externas ao Município, quando tenha havido lugar a consultas;
+
+c) Do termo do prazo para a receção dos pareceres, autorizações ou aprovações, sempre que alguma das entidades consultadas não se pronuncie até essa data.
+
+###### Artigo 224.º — Indeferimento do pedido
+
+O pedido de licença é indeferido quando:
+
+a) Não obedeça aos princípios gerais e proibições constantes do presente Título;
+
+b) Não cumpra os critérios previstos nos Capítulos V e VI do presente Título;
+
+c) Não cumpra as normas técnicas gerais e específicas aplicáveis;
+
+d) Imperativos ou razões de interesse público assim o imponham.
+
+###### Artigo 225.º — Notificação
+
+1 - A deliberação final de indeferimento do pedido de licença ou sua renovação, deve ser precedida de audiência dos interessados, nos termos do Código do Procedimento Administrativo.
+
+2 - Em caso de deferimento do pedido de licença, o requerente deve, no prazo de 8 dias, ser notificado:
+
+a) Do ato que consubstancia a licença;
+
+b) Do ato de liquidação da taxa devida nos termos do Código Regulamentar de Taxas, Licenças e Outros Serviços do Município;
+
+c) Do prazo de 30 dias para o pagamento e levantamento do alvará, podendo ser fixado prazo inferior quando tal se justifique;
+
+d) De que deve exibir, aquando do levantamento do alvará de licença, o correspondente contrato de seguro de responsabilidade civil, quando exigido no âmbito do respetivo licenciamento.
+
+3 - Tratando-se de deferimento do pedido de renovação de licença concedida por prazo inferior a um ano, o requerente deve, no prazo de 8 dias, ser notificado:
+
+a) Do ato que consubstancia a renovação da licença;
+
+b) Do ato de liquidação da taxa devida nos termos do Código Regulamentar de Taxas, Licenças e Outros Serviços do Município;
+
+c) Do prazo de 15 dias para o pagamento e levantamento do aditamento ao respetivo alvará, em caso de renovação de licença, podendo ser fixado prazo inferior quando tal se justifique;
+
+d) De que deve exibir, aquando do levantamento do aditamento ao alvará de licença, o correspondente contrato de seguro de responsabilidade civil, quando exigido no âmbito do respetivo licenciamento.
+
+##### Subsecção III — Licença
+
+###### Artigo 226.º — Alvará de licença
+
+1 - As licenças de ocupação de espaço público, bem como de afixação, inscrição ou difusão de mensagens publicitárias de natureza comercial são tituladas por alvará, cuja emissão é condição de eficácia das mesmas.
+
+2 - No caso da licença respeitar a ocupação de espaço público e ainda a afixação, inscrição ou difusão de mensagens publicitárias de natureza comercial é emitido um único alvará, para os efeitos previstos no número anterior.
+
+3 - O alvará deve conter, nos termos da licença, a especificação dos seguintes elementos, consoante forem aplicáveis:
+
+a) A identificação do titular do alvará, pelo nome ou denominação social, número de identificação fiscal, domicílio ou sede;
+
+b) O ramo de atividade exercido;
+
+c) O número de ordem atribuído à licença;
+
+d) O objeto do licenciamento, referindo expressamente o local e área licenciados;
+
+e) O prazo de validade da licença;
+
+f) Valor da taxa paga ou menção à sua isenção.
+
+###### Artigo 227.º — Validade e renovação
+
+1 - As licenças têm como prazo de validade aquele que delas constar, não podendo ser concedidas por período superior a um ano.
+
+2 - A licença relativa a evento ou atividade a ocorrer em data determinada ou concedida por período inferior a um ano, caduca no termo dessa data ou prazo.
+
+3 - As licenças concedidas por prazo inferior a um ano são suscetíveis de renovação, por igual período, a requerimento do interessado, obedecendo ao procedimento estabelecido para a licença, com as especificidades constantes dos números seguintes.
+
+4 - O pedido de renovação a que se refere o número anterior deve ser efetuado até ao termo do prazo fixado no alvará de licença, e conter a indicação expressa de que se mantêm as condições aprovadas no período anterior, o que dispensa o pedido de nova apreciação técnica.
+
+5 - As licenças concedidas pelo prazo de um ano renovam -se automática e sucessivamente, nos seguintes termos:
+
+a) A primeira licença deve ser concedida até ao termo do ano civil a que se reporta o licenciamento, findo o que se renova automática e sucessivamente, por períodos de um ano, desde que o titular proceda ao pagamento da taxa devida;
+
+b) As renovações a que se refere a alínea anterior não ocorrem sempre que:
+
+i) O Município notifique por escrito o titular, com a antecedência mínima de 30 dias, da decisão de não renovação;
+
+ii) O titular comunique por escrito à Câmara Municipal, com a antecedência mínima de 30 dias, da intenção de não renovação.
+
+6 - A renovação a que se refere o número anterior ocorre desde que se mostrem pagas as taxas devidas até ao termo do prazo fixado no respetivo alvará de licença, devendo o interessado solicitar o correspondente aditamento ao alvará, no mesmo prazo.
+
+7 - A licença renovada considera-se concedida nos termos e condições em que foi concedida a licença inicial, sem prejuízo da atualização do valor da taxa devida.
+
+###### Artigo 228.º — Transmissão da licença
+
+1 - A licença é pessoal e intransmissível, não podendo ser cedida a qualquer título, definitiva ou temporariamente, total ou parcialmente, salvo em caso de morte, insolvência ou outra forma de extinção do titular da licença.
+
+2 - A substituição do titular da licença está sujeita a autorização da Câmara Municipal, e a averbamento no respetivo alvará.
+
+3 - O pedido de autorização e averbamento da substituição do titular da licença deve ser apresentado no prazo de 15 dias, a contar da verificação dos factos que o justificam.
+
+4 - O pedido de averbamento pode ser deferido quando se verifiquem cumulativamente as seguintes condições:
+
+a) O requerente apresente prova da legitimidade do seu interesse;
+
+b) Encontrem -se pagas as taxas devidas;
+
+c) Não sejam pretendidas quaisquer alterações à licença.
+
+5 - O deferimento do pedido implica a manutenção de todas as condições da licença.
+
+###### Artigo 229.º — Caducidade
+
+A licença caduca quando se verifique qualquer das seguintes situações:
+
+a) Falta de pagamento da taxa devida pela concessão da licença ou sua renovação no prazo fixado para o efeito;
+
+b) Termo do prazo fixado no alvará de licença, bem como das respetivas renovações;
+
+c) Perda pelo titular do direito ao exercício da atividade a que se reporta a licença;
+
+d) Morte, declaração de insolvência, falência ou outra forma de extinção do seu titular, salvo quando autorizada a substituição do titular da licença.
+
+###### Artigo 230.º — Revogação
+
+1 - A licença pode ser revogada sempre que se verifique alguma das seguintes situações:
+
+a) O titular não cumpra os critérios, normas legais e regulamentares a que está sujeito, ou quaisquer obrigações a que se tenha vinculado pelo licenciamento;
+
+b) O titular não proceda à ocupação nas condições aprovadas;
+
+c) O titular tiver permitido a utilização por outrem, salvo quando autorizada;
+
+d) Imperativos de interesse público assim o imponham.
+
+2 - A revogação da licença deve ser precedida de audiência dos interessados, e não confere direito a qualquer indemnização ou compensação.
+
+###### Artigo 231.º — Remoção ou transferência por manifesto interesse público
+
+1 - Quando imperativos de reordenamento do espaço público de manifesto interesse público assim o justifiquem, designadamente para execução de planos municipais de ordenamento do território ou para execução de obras municipais, pode ser ordenada pela Câmara Municipal a remoção temporária ou definitiva de mobiliário urbano ou suportes publicitários, ou a sua transferência para outro local do concelho.
+
+2 - A ordem prevista no número anterior implica:
+
+a) A suspensão da licença, no caso de remoção temporária;
+
+b) A revogação da licença, no caso de remoção definitiva;
+
+c) A não renovação da licença, no caso de transferência para outro local;
+
+d) O indeferimento dos pedidos cujo procedimento esteja em curso com vista à concessão de novas licenças para o local, enquanto se mantiverem os fundamentos que o justifiquem.
+
+### CAPÍTULO III — Princípios, deveres e proibições
+
+###### Artigo 232.º — Princípios gerais de ocupação do espaço público
+
+Os critérios a que está sujeita a ocupação do espaço público devem respeitar as seguintes regras:
+
+a) Não provocar obstrução de perspetivas panorâmicas ou afetar a estética ou o ambiente dos lugares ou da paisagem;
+
+b) Não prejudicar a beleza ou o enquadramento de monumentos nacionais, de edifícios de interesse público ou outros suscetíveis de ser classificados pelas entidades públicas;
+
+c) Não prejudicar o acesso ou a visibilidade de imóveis classificados ou em vias de classificação ou onde funcionem hospitais, estabelecimentos de saúde, de ensino ou outros serviços públicos, locais de culto, cemitérios, elementos de estatuária e arte pública, fontes, fontanários e chafarizes;
+
+d) Não prejudicar o acesso a edifícios, jardins e praças;
+
+e) Não apresentar disposições, formatos ou cores que possam confundir-se com os da sinalização de tráfego;
+
+f) Não prejudicar a eficácia da sinalização de trânsito, placas toponímicas e números de polícia;
+
+g) Não prejudicar a eficácia da iluminação pública;
+
+h) Não prejudicar a utilização de outro mobiliário urbano;
+
+i) Não afetar a segurança das pessoas ou das coisas, nomeadamente na circulação rodoviária ou ferroviária;
+
+j) Não prejudicar a circulação dos peões, designadamente dos cidadãos portadores de deficiência;
+
+k) Não prejudicar a qualidade das áreas verdes, designadamente por contribuir para a sua degradação ou por dificultar a sua conservação;
+
+l) Não prejudicar a saúde e o bem-estar de pessoas, designadamente por ultrapassar níveis de ruído acima dos admissíveis por lei;
+
+m) Não prejudicar a ação dos concessionários que operam à superfície ou no subsolo;
+
+n) Não causar prejuízos a terceiros.
+
+###### Artigo 233.º — Princípios gerais de afixação e inscrição de publicidade
+
+1 - Salvo se a mensagem publicitária se circunscrever à identificação da atividade exercida no imóvel ou daquele que a exerce, não é permitida afixação ou inscrição de mensagens publicitárias em edifícios ou monumentos de interesse histórico, cultural, arquitetónico ou paisagístico, designadamente:
+
+a) Os imóveis classificados ou em vias de classificação, nomeadamente os de interesse público, nacional ou municipal;
+
+b) Os imóveis contemplados com prémios de arquitetura.
+
+2 - A afixação ou inscrição de mensagens publicitárias não é permitida sempre que possa causar danos irreparáveis nos materiais de revestimento exterior dos edifícios e que os suportes utilizados prejudiquem o ambiente, afetem a estética ou a salubridade dos lugares ou causem danos a terceiros, nomeadamente quando se trate de:
+
+a) Faixas de pano, plástico, papel ou outro material semelhante;
+
+b) Pintura e colagem ou afixação de cartazes nas fachadas dos edifícios ou em qualquer outro mobiliário urbano;
+
+c) Suportes que excedam a frente do estabelecimento.
+
+3 - A afixação ou a inscrição de mensagens publicitárias não pode prejudicar a segurança de pessoas e bens, designadamente:
+
+a) Afetar a iluminação pública;
+
+b) Prejudicar a visibilidade de placas toponímicas, semáforos e sinais de trânsito;
+
+c) Afetar a circulação de peões, especialmente dos cidadãos com mobilidade reduzida.
+
+4 - A publicidade sonora deve respeitar os limites impostos pela legislação aplicável a atividades ruidosas.
+
+5 - Ao conteúdo da mensagem publicitária aplica-se o disposto no Código da Publicidade.
+
+###### Artigo 234.º — Deveres dos titulares
+
+1 - Constituem deveres dos titulares do mobiliário urbano ou outras ocupações:
+
+a) Não proceder à adulteração dos elementos tal como foram aprovados, ou a alterações da demarcação efetuada;
+
+b) Não proceder à transmissão da licença a outrem, salvo quando devidamente autorizada;
+
+c) Exibir, em local visível, o original ou fotocópia do alvará da licença emitido pela Câmara Municipal;
+
+d) Repor a situação existente no local tal como se encontrava antes da ocupação, sempre que ocorra a caducidade ou revogação da licença, ou o termo do período de tempo da respetiva mera comunicação prévia ou comunicação prévia com prazo.
+
+2 - Constituem deveres dos titulares do suporte publicitário:
+
+a) Cumprir as condições gerais e específicas a que a afixação e a inscrição de mensagens publicitárias estão sujeitas;
+
+b) Respeitar integralmente as condições de licenciamento municipal, em conformidade com os elementos constantes do respetivo alvará;
+
+c) Fixar no suporte publicitário destinado exclusivamente a esse fim, designadamente, painel, múpi, totem, coluna publicitária ou mastro-bandeira, em local visível, uma chapa de material imperecível, com dimensão não inferior a 0,10 metros por 0,05 metros, contendo o número do respetivo alvará de licença e a identificação do seu titular, podendo em alternativa tal informação ser gravada, em local visível e obedecendo às mesmas dimensões, no próprio suporte;
+
+d) Conservar o suporte, bem como a respetiva mensagem, em boas condições de conservação e segurança;
+
+e) Eliminar quaisquer danos em bens públicos resultantes da afixação ou inscrição da mensagem publicitária;
+
+f) Repor a situação existente no local tal como se encontrava antes da instalação do suporte, da afixação ou inscrição da mensagem publicitária ou da utilização com o evento publicitário, sempre que ocorra a caducidade ou revogação da licença, ou o termo do período de tempo da respetiva mera comunicação prévia ou comunicação prévia com prazo.
+
+###### Artigo 235.º — Segurança e vigilância
+
+A segurança, vigilância e manutenção do mobiliário urbano ou suporte publicitário incumbe ao seu titular.
+
+###### Artigo 236.º — Higiene e apresentação
+
+1 - De modo a assegurar a higiene e apresentação do mobiliário urbano, suporte publicitário e espaço envolvente, os titulares de licença têm de:
+
+a) Conservar o mobiliário urbano ou suporte publicitário nas melhores condições de apresentação, higiene e funcionamento;
+
+b) Garantir que a ocupação licenciada não gera escoamento de líquidos, gorduras, sujidade, lixo, mau cheiro, ar viciado, ruído, ou qualquer outro tipo de poluição e incómodo;
+
+c) Remover do espaço público o mobiliário amovível, fora do horário de funcionamento do respetivo estabelecimento, e assegurar a limpeza do espaço circundante;
+
+d) Proceder à manutenção e conservação do mobiliário e suportes.
+
+2 - Aplica-se aos bens classificados como de interesse nacional, de interesse público ou de interesse municipal, o disposto na legislação específica aplicável, no respeitante às intervenções sobre os bens culturais.
+
+###### Artigo 237.º — Proibições
+
+1 - Na totalidade da área do território do Município é expressamente proibida:
+
+a) A ocupação do espaço público com a instalação de placas ou setas de sinalização direcional de âmbito comercial, com menção de marcas, distintivos, logótipos, e nome de estabelecimentos comerciais;
+
+b) A ocupação do espaço público com a instalação de grelhadores, exceto se inseridos em ocupações de caráter festivo, promocional ou comemorativo;
+
+c) A afixação ou inscrição de mensagens publicitárias em:
+
+i) Imóveis classificados como património cultural;
+
+ii) Imóveis contemplados com prémios de arquitetura ou outros análogos;
+
+iii) Imóveis onde funcionem exclusivamente serviços públicos;
+
+iv) Sedes de órgãos de soberania;
+
+v) Edifícios escolares;
+
+vi) Monumentos e estátuas;
+
+vii) Templos e cemitérios;
+
+viii) Terrenos onde tenham sido encontrados, ou existam indícios de vestígios arqueológicos de interesse e relevância local ou nacional;
+
+ix) Placas toponímicas e números de polícia;
+
+x) Sinais de trânsito, placas de sinalização rodoviária e semafórica;
+
+xi) Rotundas, ilhas para peões e separadores de trânsito automóvel;
+
+xii) Túneis e viadutos;
+
+xiii) Parques, jardins, árvores e plantas;
+
+xiv) Abrigos para utentes de transportes públicos, salvo nos casos em que o contrário resulte de contratos de concessão de exploração ou deliberação camarária.
+
+d) A afixação ou inscrição de mensagens publicitárias que, por si só ou através dos respetivos meios ou suportes, prejudiquem o ambiente, obstruam perspetivas panorâmicas, afetem a estética ou a salubridade dos lugares ou causem danos a terceiros, designadamente as que constem de:
+
+i) Materiais não biodegradáveis;
+
+ii) Cartazes ou afins, afixados sem suporte autorizado, através de colagem ou outros meios semelhantes;
+
+iii) Panfletos publicitários ou semelhantes, projetados ou lançados por meios terrestres ou aéreos;
+
+iv) Publicidade sonora, quando a mesma desrespeite os limites impostos pela legislação aplicável a atividades ruidosas.
+
+e) A afixação ou inscrição de mensagens publicitárias que prejudiquem a segurança de pessoas ou coisas, designadamente:
+
+i) Nas vias rodoviárias, ferroviárias e pedonais;
+
+ii) Nos suportes ou equipamentos de iluminação pública.
+
+### CAPÍTULO IV — Critérios a observar na ocupação do espaço público, afixação, inscrição e difusão de mensagens publicitárias não sujeitas a licenciamento
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 238.º — Objeto
+
+1 - O presente Capítulo estabelece os critérios a que está sujeita a ocupação do espaço público sujeita ao regime da mera comunicação prévia e comunicação prévia com prazo, nos termos previstos no artigo 11.º do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, e no presente Título.
+
+2 - O presente Capítulo estabelece os critérios a que está sujeita a afixação, inscrição e difusão de mensagens publicitárias de natureza comercial não sujeitas a licenciamento, nos termos previstos no artigo 1.º, n.º 3 da [Lei n.º 97/88](https://diariodarepublica.pt/dr/detalhe/lei/97-1988-377083), de 17 de agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril.
+
+###### Artigo 239.º — Princípios, deveres e proibições
+
+Sem prejuízo das condições previstas nos Capítulos seguintes, a ocupação do espaço público e a afixação, inscrição e difusão de mensagens publicitárias de natureza comercial a que se refere o número anterior, obedece aos princípios, deveres e proibições previstos no Capítulo III do presente Título, aplicável com as devidas adaptações.
+
+#### SECÇÃO II — Condições de instalação do mobiliário urbano
+
+###### Artigo 240.º — Condições de instalação e manutenção de um toldo e da respetiva sanefa
+
+1 - A instalação de toldo e da respetiva sanefa tem de respeitar as seguintes condições:
+
+a) Deixar livre um espaço igual ou superior a 0,50 metros em relação ao limite externo do passeio;
+
+b) Não exceder um avanço superior a 2 metros;
+
+c) Não exceder os limites laterais das instalações pertencentes ao respetivo estabelecimento;
+
+d) O limite inferior de uma sanefa deve observar uma distância do solo igual ou superior a 2,20 metros, mas nunca acima do piso térreo do estabelecimento a que pertença;
+
+e) Não se sobrepor a cunhais, pilastras, cornijas, emolduramentos de vãos de portas e janelas e outros elementos com interesse arquitetónico ou decorativo;
+
+f) O toldo e a respetiva sanefa não podem ser utilizados para pendurar ou afixar qualquer tipo de objetos;
+
+g) O titular do estabelecimento é responsável pelo bom estado de conservação e limpeza do toldo e da respetiva sanefa;
+
+h) Tratando-se de toldos acima do piso térreo, devem:
+
+i) Localizar-se no interior do vão;
+
+ii) Ser de uma única cor para todo o edifício.
+
+3 - Tratando-se de procedimento de mera comunicação prévia, e sem prejuízo do disposto nos números anteriores, a instalação de toldo e da respetiva sanefa deve ser efetuada junto à fachada do respetivo estabelecimento.
+
+###### Artigo 241.º — Condições de instalação e manutenção de uma esplanada aberta
+
+1 - Na instalação de uma esplanada aberta devem respeitar-se as seguintes condições:
+
+a) Não alterar a superfície do passeio onde é instalada, sem prejuízo do disposto em sede de colocação de estrados;
+
+b) Deixar um espaço igual ou superior a 0,90 metros em toda a largura do vão de porta, para garantir o acesso livre e direto à entrada do estabelecimento;
+
+c) Garantir um corredor para peões de largura igual ou superior a 1,50 metros contados:
+
+i) A partir do limite externo do passeio, em passeio sem caldeiras;
+
+ii) A partir do limite interior das caldeiras ou outros elementos ou tipos de mobiliário urbano, em passeios ocupados no seu limite exterior.
+
+2 - Os proprietários, os concessionários ou os exploradores de estabelecimentos são responsáveis pelo estado de limpeza dos passeios e das esplanadas abertas na parte ocupada e na faixa contígua de 3 metros.
+
+3 - Tratando-se de procedimento de mera comunicação prévia, e sem prejuízo do disposto nos números anteriores, a instalação de uma esplanada aberta deve ser efetuada em área contígua à fachada do estabelecimento e a ocupação transversal da esplanada não exceder a largura da fachada do respetivo estabelecimento.
+
+###### Artigo 242.º — Restrições de instalação de uma esplanada aberta
+
+1 - O mobiliário urbano utilizado como componente de uma esplanada aberta deve cumprir os seguintes requisitos:
+
+a) Ser instalado exclusivamente na área comunicada de ocupação da esplanada;
+
+b) Ser próprio para uso no exterior e de uma cor adequada ao ambiente urbano em que a esplanada está inserida;
+
+c) Ser adotado apenas um modelo e uma cor, podendo conter publicidade;
+
+d) Os guarda-sóis serem instalados exclusivamente durante o período de funcionamento da esplanada e suportados por uma base que garanta a segurança dos utentes, devendo:
+
+i) Quando abertos, ter um pé-direito livre não inferior a 2,20 metros;
+
+ii) A estrutura ser metálica, em madeira tratada ou bambus na cor natural;
+
+iii) A superfície de ensombramento, ser em lona ou similar, de cor única e sem brilho.
+
+e) Os aquecedores verticais serem próprios para uso no exterior e respeitarem as condições de segurança.
+
+2 - Nos passeios com paragens de veículos de transportes coletivos de passageiros não é permitida a instalação de esplanada aberta numa zona de 5 metros para cada lado da paragem.
+
+3 - As condições de afixação ou inscrição de mensagens publicitárias de natureza comercial em esplanadas abertas são as previstas no artigo 259.º do presente Código.
+
+###### Artigo 243.º — Condições de instalação de estrados
+
+1 - É permitida a instalação de estrados como apoio a uma esplanada, quando o desnível do pavimento ocupado pela esplanada for superior a 5 % de inclinação.
+
+2 - Os estrados devem ser desmontáveis e construídos, preferencialmente, em módulos de madeira tratada, de estrutura aligeirada.
+
+3 - Os estrados devem garantir a acessibilidade de pessoas com mobilidade reduzida, nos termos do [Decreto-Lei n.º 163/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2006-538624), de 8 de agosto.
+
+4 - Os estrados não podem exceder 0,25 metros de altura face ao pavimento.
+
+5 - Na instalação de estrados são salvaguardadas as condições de segurança da circulação pedonal, sobretudo a acessibilidade dos cidadãos com mobilidade reduzida, nos termos da legislação em vigor.
+
+6 - Tratando-se de procedimento de mera comunicação prévia, e sem prejuízo do disposto nos números anteriores, a instalação de estrados deve ser efetuada como apoio a uma esplanada e não exceder a sua dimensão.
+
+###### Artigo 244.º — Condições de instalação de um guarda-vento
+
+1 - O guarda-vento deve ser amovível e instalado exclusivamente durante o horário de funcionamento do respetivo estabelecimento.
+
+2 - A instalação de um guarda-vento deve ser feita nas seguintes condições:
+
+a) Deve ser amovível, sem fixação ao solo e transparente;
+
+b) Quando exista uma parte opaca, esta não pode ultrapassar a altura de 0,60 metros, contada a partir do solo;
+
+c) A distância do seu plano inferior ao pavimento deve ser no mínimo de 0,20 metros;
+
+d) A altura do guarda-vento não pode exceder 1,80 metros, contados a partir do solo;
+
+e) Quando contígua ao estabelecimento a que pertence, não pode ultrapassar o limite do respetivo estabelecimento;
+
+f) Utilizar vidros inquebráveis, lisos e transparentes, que não exceda 1,20 metros de altura e 1 metro de largura:
+
+3 - Quando respeita a espaço não fronteiro ao respetivo estabelecimento, o pedido de instalação de guarda -ventos deve ser instruído com as necessárias autorizações de todos os proprietários afetados pela sua instalação.
+
+4 - Tratando-se de procedimento de mera comunicação prévia, e sem prejuízo do disposto nos números anteriores, a instalação de guarda-ventos, deve ser efetuada junto das esplanadas, perpendicularmente ao plano marginal da fachada e o seu avanço não deve ultrapassar o da esplanada.
+
+###### Artigo 245.º — Condições de instalação de uma vitrina
+
+1 - Na instalação de uma vitrina devem respeitar-se as seguintes condições:
+
+a) Não se sobrepor a cunhais, pilastras, cornijas, emolduramentos de vãos de portas e janelas ou a outros elementos com interesse arquitetónico e decorativo;
+
+b) Integrar-se de forma harmoniosa e equilibrada na fachada do edifício;
+
+c) A altura da vitrina em relação ao solo deve ser igual ou inferior a 2 metros;
+
+d) Pode conter iluminação interior.
+
+e) Localizar -se na fachada do piso térreo correspondente ao respetivo estabelecimento;
+
+f) A sua dimensão deve ter em conta a métrica dos elementos compositivos da fachada;
+
+g) O material a utilizar na sua estrutura, bem como a cor a aplicar na mesma, deve corresponder ao existente no edifício, nomeadamente ao nível do revestimento da fachada, das caixilharias ou dos gradeamentos.
+
+3 - Tratando-se de procedimento de mera comunicação prévia, e sem prejuízo do disposto nos números anteriores, a instalação de uma vitrina deve ser efetuada junto à fachada do respetivo estabelecimento, não podendo exceder 0,25 metros de balanço em relação ao plano da fachada do edifício.
+
+###### Artigo 246.º — Condições de instalação de um expositor
+
+1 - Por cada estabelecimento é permitido apenas um expositor, instalado exclusivamente durante o seu horário de funcionamento.
+
+2 - O expositor apenas pode ser instalado em passeios com largura igual ou superior a 2 metros, tendo de respeitar as seguintes condições de instalação:
+
+a) Reservar um corredor de circulação de peões igual ou superior a 1,50 metros entre o limite exterior do passeio e o prédio;
+
+b) Não prejudicar o acesso aos edifícios contíguos;
+
+c) Não exceder 1,50 metros de altura a partir do solo;
+
+d) Reservar uma altura mínima de 0,20 metros contados a partir do plano inferior do expositor ao solo ou 0,40 metros quando se trate de um expositor de produtos alimentares.
+
+3 - Tratando-se de procedimento de mera comunicação prévia, e sem prejuízo do disposto nos números anteriores, a instalação de um expositor deve ser efetuada junto à fachada do respetivo estabelecimento.
+
+###### Artigo 247.º — Condições de instalação de uma arca ou máquina de gelados
+
+1 - Na instalação de uma arca ou máquina de gelados tem de se deixar livre um corredor no passeio com uma largura não inferior a 1,50 metros.
+
+2 - Tratando-se de procedimento de mera comunicação prévia, e sem prejuízo do disposto no número anterior, a instalação de uma arca ou máquina de gelados deve ser efetuada junto à fachada do respetivo estabelecimento, não podendo exceder 1 metro de avanço, contado a partir do plano da fachada do edifício.
+
+###### Artigo 248.º — Condições de instalação de um brinquedo mecânico e equipamento similar
+
+1 - Por cada estabelecimento é permitido apenas um brinquedo mecânico e equipamento similar, servindo exclusivamente como apoio ao estabelecimento.
+
+2 - A instalação de um brinquedo mecânico ou de um equipamento similar deve deixar livre um corredor no passeio com uma largura não inferior a 1,50 metros.
+
+3 - Tratando-se de procedimento de mera comunicação prévia, e sem prejuízo do disposto nos números anteriores, a instalação de um brinquedo mecânico e equipamento similar, deve ainda respeitar as seguintes condições:
+
+a) Ser contígua à fachada do estabelecimento, preferencialmente junto à sua entrada;
+
+b) Não exceder 1 metro de avanço, contado a partir do plano da fachada do edifício.
+
+###### Artigo 249.º — Condições de instalação e manutenção de uma floreira
+
+1 - A instalação de floreiras deve respeitar as seguintes condições:
+
+a) Deixar livre um espaço igual ou superior a 1,50 metros em relação ao limite exterior do passeio;
+
+b) As plantas utilizadas nas floreiras não podem ter espinhos ou bagas venenosas.
+
+2 - O proprietário da floreira deve proceder à sua limpeza, rega e substituição das plantas, sempre que necessário, não podendo a mesma manter -se no local sem plantas.
+
+3 - Tratando-se de procedimento de mera comunicação prévia, e sem prejuízo do disposto nos números anteriores, a instalação de floreiras deve ser efetuada junto à fachada do respetivo estabelecimento.
+
+###### Artigo 250.º — Condições de instalação e manutenção de um contentor para resíduos
+
+1 - A instalação e manutenção de um contentor para resíduos têm de respeitar as seguintes condições:
+
+a) Não pode causar qualquer perigo para a higiene e limpeza do espaço;
+
+b) Sempre que o contentor para resíduos se encontre cheio deve ser imediatamente limpo ou substituído.
+
+c) O contentor para resíduos deve estar sempre em bom estado de conservação, nomeadamente no que respeita a pintura, higiene e limpeza;
+
+d) Capacidade máxima de 120 litros e do modelo igual ao em uso pelos serviços de Ambiente do Município.
+
+2 - Tratando-se de procedimento de mera comunicação prévia, e sem prejuízo do disposto no número anterior a instalação do contentor é efetuada contiguamente à fachada do respetivo estabelecimento, servindo exclusivamente para seu apoio.
+
+#### SECÇÃO III — Condições de instalação de suportes publicitários e de afixação, inscrição e difusão de mensagens publicitárias
+
+##### SUBSECÇÃO I — Regras gerais
+
+###### Artigo 251.º — Condições de instalação de um suporte publicitário
+
+A instalação de um suporte publicitário ao nível do solo, deve respeitar as seguintes condições:
+
+a) Em passeio de largura superior a 1,20 metros, deixar livre um espaço igual ou superior a 0,80 metros em relação ao limite externo do passeio;
+
+b) Em passeios com largura igual ou inferior a 1,20 metros não é permitida a instalação de suporte publicitário ao nível do solo.
+
+###### Artigo 252.º — Condições de afixação ou inscrição de mensagens publicitárias de natureza comercial em mobiliário urbano
+
+1 - É permitida a afixação ou inscrição de mensagens publicitárias de natureza comercial em mobiliário urbano.
+
+2 - A afixação ou inscrição de mensagens publicitárias de natureza comercial numa esplanada deve limitar -se ao nome comercial do estabelecimento, a mensagem comercial relacionada com bens ou serviços comercializados no estabelecimento ou ao logótipo da marca comercial, desde que afixados ou inscritos nas costas das cadeiras e nas sanefas guarda-sóis, com as dimensões máximas de 0,20 metros por 0,10 metros, por cada nome ou logótipo.
+
+###### Artigo 253.º — Condições e restrições de difusão de mensagens publicitárias sonoras
+
+1 - É permitida a difusão de mensagens publicitárias sonoras de natureza comercial que possam ser ouvidas dentro dos respetivos estabelecimentos ou no espaço público, cujo objetivo imediato seja atrair ou reter a atenção do público.
+
+2 - A difusão sonora de mensagens publicitárias de natureza comercial apenas pode ocorrer:
+
+a) No período compreendido entre as 9 e as 20 horas;
+
+b) A uma distância mínima de 500 metros de edifícios escolares, durante o seu horário de funcionamento, de hospitais, cemitérios e locais de culto.
+
+3 - A publicidade sonora deve respeitar os limites impostos pelo Regulamento Geral do Ruído, aprovado pelo Decreto -[Lei n.º 9/2007](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), de 17 de janeiro.
+
+##### SUBSECÇÃO II — Regras especiais
+
+###### Artigo 254.º — Condições e restrições de aplicação de chapas
+
+1 - A instalação de chapas deve respeitar as seguintes condições:
+
+a) Não ultrapassar a frente do respetivo estabelecimento, nem localizar-se fora dos limites da fachada do mesmo;
+
+b) Apresentar dimensão, cores, materiais e alinhamentos adequados à estética do respetivo edifício;
+
+c) Não se sobrepor a gradeamentos ou zonas vazadas em varandas;
+
+d) Não ocultar elementos decorativos ou outros com interesse na composição arquitetónica das fachadas.
+
+e) Em material transparente ou da cor da fachada, com inscrições em cor escura;
+
+f) Não exceder as seguintes dimensões: 0,60 metros x 0,60 metros x 0,05 metros;
+
+2 - Apenas se admite a instalação de dois suportes publicitários por estabelecimento, devendo preferencialmente um deles ser do tipo tabuleta.
+
+3 - As chapas destinadas a publicitar a venda ou o arrendamento de edifícios ou frações autónomas, apenas podem conter informação relativa à identificação do vendedor ou agência imobiliária, ao objeto do anúncio e ao telefone.
+
+4 - As chapas de proibição de afixação de publicidade devem respeitar as seguintes condições:
+
+a) Ser instaladas, preferencialmente, nos cunhais dos prédios, mas nunca próximo dos que designam os arruamentos;
+
+b) Não exceder as seguintes dimensões: 0,30 metros x 0,30 metros x 0,03 metros.
+
+###### Artigo 255.º — Condições e restrições de aplicação de placas
+
+1 - A instalação de placas deve respeitar as seguintes condições:
+
+a) Não ultrapassar a frente do respetivo estabelecimento, nem localizar-se fora dos limites da mesma;
+
+b) Apresentar dimensão, cores, materiais e alinhamentos adequados à estética do respetivo edifício;
+
+c) Não se sobrepor a gradeamentos ou zonas vazadas em varandas;
+
+d) Não ocultar elementos decorativos ou outros com interesse na composição arquitetónica das fachadas;
+
+e) Ser instaladas apenas ao nível do rés do chão.
+
+f) Não exceder as seguintes dimensões: 1,50 metros x 0,60 metros x 0,10 metros;
+
+g) A distância entre a parte inferior das placas e o solo deve ser igual ou superior a 2,20 metros, não podendo exceder a altura do piso térreo, exceto quando:
+
+i) O suporte esteja devidamente enquadrado pelos vãos ou por elementos salientes da arquitetura; ou
+
+ii) O suporte seja colocado junto à porta de acesso ao estabelecimento.
+
+3 - Apenas se admite a instalação de dois suportes publicitários por estabelecimento, devendo preferencialmente um deles ser do tipo tabuleta.
+
+4 - As placas destinadas a publicitar a venda ou o arrendamento de edifícios ou frações autónomas, apenas podem conter informação relativa à identificação do vendedor ou agência imobiliária, ao objeto do anúncio e ao telefone, não se aplicando a estes suportes o disposto na alínea e), do n.º 1.
+
+###### Artigo 256.º — Condições e restrições de aplicação de tabuletas
+
+A instalação de uma tabuleta deve respeitar as seguintes condições:
+
+a) Ser instalada apenas ao nível do rés do chão;
+
+b) Apresentar dimensão, cores, materiais e alinhamentos adequados à estética do respetivo edifício;
+
+c) Não se sobrepor a gradeamentos ou zonas vazadas em varandas;
+
+d) Não ocultar elementos decorativos ou outros com interesse na composição arquitetónica das fachadas;
+
+e) O limite inferior da tabuleta deve ficar a uma distância do solo igual ou superior a 2,20 metros;
+
+f) Não exceder o balanço de 0,80 metros em relação ao plano marginal do edifício.
+
+###### Artigo 257.º — Condições de instalação de bandeirolas
+
+1 - As bandeirolas devem permanecer oscilantes, só podendo ser colocadas em posição perpendicular à via mais próxima e afixadas do lado interior do poste.
+
+2 - A dimensão máxima das bandeirolas deve ser de 0,60 metros de largura e 1 metro de altura.
+
+3 - A distância entre a fachada do edifício mais próximo e a parte mais saliente da bandeirola deve ser igual ou superior a 2 metros.
+
+4 - A distância entre a parte inferior da bandeirola e o solo deve ser igual ou superior a 3 metros.
+
+5 - A distância entre bandeirolas afixadas ao longo das vias deve ser igual ou superior a 50 metros.
+
+###### Artigo 258.º — Condições de aplicação de letras soltas ou símbolos
+
+A aplicação de letras soltas ou símbolos deve respeitar as seguintes condições:
+
+a) Não exceder 0,50 metros de altura e 0,15 metros de saliência;
+
+b) Não ocultar elementos decorativos ou outros com interesse na composição arquitetónica das fachadas;
+
+c) Ter em atenção a forma e a escala, de modo a respeitar a integridade estética dos próprios edifícios.
+
+###### Artigo 259.º — Condições de instalação de anúncios luminosos, iluminados, eletrónicos e semelhantes
+
+1 - Os anúncios luminosos, iluminados, eletrónicos e semelhantes devem ser colocados sobre as saliências das fachadas e respeitar as seguintes condições:
+
+a) O balanço total não pode exceder 1 metro;
+
+b) A distância entre o solo e a parte inferior do anúncio não pode ser menor do que 2,60 metros nem superior a 4 metros;
+
+c) Caso o balanço não exceda 0,15 metros, a distância entre a parte inferior do anúncio e o solo não pode ser menor do que 2 metros nem superior a 4 metros.
+
+2 - As estruturas dos anúncios luminosos, iluminados, sistemas eletrónicos ou semelhantes instalados nas fachadas de edifícios e em espaço público devem ficar, tanto quanto possível, encobertas, e ser pintadas com a cor que lhes dê o menor destaque.
+
+### CAPÍTULO V — Critérios a observar na ocupação do espaço público, afixação, inscrição e difusão de mensagens publicitárias sujeitas a licenciamento
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 260.º — Objeto
+
+O presente Capítulo estabelece os critérios a que está sujeita a ocupação do espaço público e a afixação, inscrição e difusão de mensagens publicitárias de natureza comercial sujeitas a licença municipal nos termos do presente Código.
+
+###### Artigo 261.º — Princípios, deveres e proibições
+
+Sem prejuízo das condições previstas nos capítulos seguintes, a ocupação do espaço público e a afixação, inscrição e difusão de mensagens publicitárias de natureza comercial sujeita a licença municipal obedece aos princípios, deveres e proibições gerais previstos no Capítulo III do presente Título, aplicável com as devidas adaptações.
+
+#### SECÇÃO II — Condições de instalação do mobiliário urbano
+
+###### Artigo 262.º — Condições de instalação de uma esplanada fechada
+
+1 - A instalação de uma esplanada fechada deve respeitar as seguintes condições:
+
+a) Não ocupar mais de metade da largura do passeio;
+
+b) Deixar um espaço igual ou superior a 2 metros, contados a partir do lancil, para a livre circulação de peões;
+
+c) No fecho de esplanadas devem utilizar-se preferencialmente estruturas metálicas, admitindo -se porém, a introdução de elementos valorizadores do projeto noutros materiais, sem prejuízo do caráter precário dessas construções;
+
+d) A proteção da esplanada deve ser compatível com o contexto cénico do local e a sua transparência nos planos laterais não deve ser inferior a 80 % do total da proteção;
+
+e) Os materiais a aplicar devem ser de boa qualidade, principalmente, no que se refere a perfis, vão de abertura e de correr, pintura e termolacagem;
+
+f) O pavimento da esplanada fechada deve manter o pavimento existente, podendo prever-se a aplicação de um sistema de fácil remoção, designadamente, módulos amovíveis, de modo a permitir o acesso às infraestruturas existentes no subsolo;
+
+g) A estrutura principal de suporte deve ser desmontável;
+
+h) As esplanadas fechadas devem garantir a acessibilidade de pessoas com mobilidade reduzida, nos termos do [Decreto-Lei n.º 163/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2006-538624), de 8 de agosto;
+
+i) É proibida a instalação de toldos ou sanefas nas esplanadas fechadas.
+
+###### Artigo 263.º — Condições de instalação de um cavalete
+
+1 - Por cada estabelecimento é permitido apenas um cavalete, instalado exclusivamente durante o seu horário de funcionamento.
+
+2 - A instalação de um cavalete deve respeitar as seguintes condições:
+
+a) Possuir uma dimensão igual ou inferior a 1 metro de altura por 0,80 metros de largura;
+
+b) Ser colocado a uma distância máxima de 5 metros do estabelecimento a que respeita, preferencialmente junto à sua entrada;
+
+c) Ser colocado em zona de esplanada, passeio ou zona pedonal, de forma a não prejudicar a segurança do trânsito e dos peões;
+
+d) Deixar uma largura mínima de passagem pedonal livre de obstáculos de 1,50 metros;
+
+e) Não prejudicar o acesso aos edifícios contíguos.
+
+###### Artigo 264.º — Condições de instalação de uma pala
+
+1 - A instalação de uma pala deve respeitar as seguintes condições:
+
+a) Restringir-se a vãos de estabelecimentos comerciais, restauração e bebidas, prestação de serviços ou empreendimentos turísticos;
+
+b) Integrar -se de forma harmoniosa e equilibrada na fachada do edifício;
+
+c) Não se sobrepor a cunhais, pilastras, frisos, socos, emolduramentos de vãos e elementos arquitetónicos, decorativo ou estruturais;
+
+d) Observar as seguintes dimensões:
+
+i) Não exceder os limites laterais das instalações pertencentes ao respetivo estabelecimento;
+
+ii) Uma distância do solo igual ou superior a 2,20 metros, mas nunca acima do piso térreo do estabelecimento a que pertença;
+
+iii) O balanço máximo deve ser de 2 metros, desde que salvaguardada a distância mínima ao limite do passeio de 0,40 metros.
+
+e) A cor deve integrar-se nas características cromáticas do edifício, designadamente revestimentos da fachada, caixilharias ou gradeamentos;
+
+f) Não obstruir elementos de segurança rodoviária ou conduzir à sua ocultação à distância;
+
+g) A pala não pode ser utilizada para pendurar ou afixar qualquer tipo de objetos.
+
+###### Artigo 265.º — Condições de instalação de elementos complementares
+
+1 - É proibida a instalação de aparelhos de ar condicionado, sistemas AVAC, extratores e similares, nas fachadas dos edifícios em situação de ocupação do espaço público, salvo em caso de comprovada impossibilidade técnica, como tal aceite pela Câmara Municipal, e desde que referente a edifícios existentes.
+
+2 - A instalação de aparelhos de ar condicionado, sistemas AVAC, extratores e similares, quando excecionalmente admitida nos termos do número anterior, deve respeitar as seguintes condições:
+
+a) Integrar -se de forma harmoniosa e equilibrada na fachada do edifício;
+
+b) Manter o alinhamento e enquadramento com os elementos de composição da fachada, designadamente, vãos, sacadas ou varandins;
+
+c) Na ausência dos elementos arquitetónicos mencionados na alínea anterior, deve respeitar o alinhamento com outros elementos salientes da fachada, designadamente, toldos, palas e suportes devidamente licenciados;
+
+d) Cumprir as demais condições previstas no Livro II do presente Código.
+
+#### SECÇÃO III — Condições de instalação de suportes publicitários e de afixação, inscrição e difusão de mensagens publicitárias
+
+###### Artigo 266.º — Publicidade instalada em telhados, coberturas ou terraços
+
+1 - A instalação de publicidade em telhados, coberturas ou terraços, deve respeitar as seguintes condições:
+
+a) Não obstruir o campo visual envolvente, tanto no que se refere a elementos naturais, como construídos;
+
+b) As estruturas de suporte dos dispositivos publicitários a instalar, não assumam uma presença visual destacada e esteja assegurada a sua sinalização para efeitos de segurança.
+
+2 - A altura máxima dos dispositivos publicitários a instalar em telhados, coberturas ou terraços dos edifícios, deve obedecer aos seguintes limites:
+
+a) Não exceder 1/4 da altura maior da fachada do edifício;
+
+b) Não exceder a altura de 5 metros;
+
+c) A sua cota máxima não deve ultrapassar, em altura, a largura do respetivo arruamento.
+
+3 - Em casos devidamente justificados, a Câmara Municipal pode restringir o horário de funcionamento dos dispositivos ou determinar a supressão dos seus efeitos luminosos.
+
+###### Artigo 267.º — Condições de instalação de publicidade em empenas
+
+1 - A instalação de publicidade em empenas de edifícios, tem de respeitar as seguintes condições:
+
+a) As mensagens publicitárias e os suportes respetivos não devem exceder os limites físicos das paredes exteriores que lhes servem de suporte;
+
+b) Não prejudicar o arejamento, iluminação natural e exposição solar dos compartimentos do respetivo edifício;
+
+c) O motivo publicitário a instalar deve ser constituído por um único dispositivo, não sendo por isso emitida mais do que uma licença por local ou empena;
+
+d) As mensagens publicitárias e os suportes respetivos não podem ser visíveis de estradas nacionais, vias rápidas ou equiparadas.
+
+2 - Nos edifícios de comércio ou serviços, equipamentos e postos de abastecimento de combustível, ou quando se trate de promoções imobiliárias e de eventos culturais, é permitida a instalação de telas nas empenas desde que:
+
+a) Respeitem a campanhas de promoção da atividade desenvolvida no respetivo edifício;
+
+b) A duração da instalação não exceda o período de 3 meses.
+
+3 - A Câmara Municipal pode condicionar a utilização de cores ou tonalidades, dimensionamento de suportes, imagens e outras inscrições ou alterar a percentagem de área a utilizar como conjunto da mensagem publicitária, nos casos em que o suporte interfira no equilíbrio da composição arquitetónica do edifício onde se pretende a sua instalação ou produza um impacto negativo na envolvente.
+
+4 - A pintura de mensagens publicitárias em empenas apenas se admite se a inscrição publicitária, pela sua criatividade e originalidade, for considerada um benefício para o edifício.
+
+###### Artigo 268.º — Condições de instalação de painéis
+
+1 - A instalação de painéis tem de respeitar as seguintes condições:
+
+a) A estrutura de suporte do painel deve ser metálica e na cor que melhor se integre no espaço envolvente;
+
+b) Ser nivelada, salvo quando se localize em arruamento inclinado caso em que é admitida a sua disposição em socalcos desde que acompanhe de forma harmoniosa a pendente do terreno;
+
+c) A superfície de afixação da publicidade não pode ser subdividida;
+
+d) Obedecer às seguintes dimensões:
+
+i) 2,40 metros de largura por 1,70 metros de altura;
+
+ii) 4 metros de largura por 3 metros de altura; ou
+
+iii) 8 metros de largura por 3 metros de altura.
+
+e) O painel não pode ser visível de estradas nacionais, vias rápidas ou equiparadas;
+
+f) O painel não pode localizar -se em rotundas, ilhas para peões ou separadores de trânsito automóvel;
+
+g) O painel não pode manter -se no local sem mensagem;
+
+h) Quando instalado em empenas de edifícios, o painel deve ser fixado diretamente na empena.
+
+###### Artigo 269.º — Condições de instalação de múpis
+
+1 - A instalação de múpis tem de respeitar as seguintes condições:
+
+a) A composição deve salvaguardar a qualidade, funcionalidade e segurança do espaço onde se insere;
+
+b) Área máxima de superfície publicitária de 1,75 metros por 1,20 metros;
+
+c) Largura do pé ou suporte no mínimo com 40 % da largura máxima do equipamento;
+
+d) A superfície de afixação da publicidade não pode ser subdividida;
+
+e) Não pode manter -se no local sem mensagem;
+
+f) Quando excecionalmente for permitida a sua instalação de forma contígua, nunca excedendo o número de três, a estrutura dos suportes deve ser idêntica e com a mesma dimensão.
+
+2 - Excetuam -se do disposto na alínea b), do número anterior, os casos em que contratualmente tenham sido cedidas a empresa concessionária as duas faces do suporte, em que a área máxima de superfície publicitária será duas vezes 1,75 metros por 1,20 metros.
+
+###### Artigo 270.º — Condições de instalação de totens
+
+1 - A instalação de totem tem de respeitar as seguintes condições:
+
+a) Respeitar a estabelecimento cuja visibilidade a partir do espaço público seja reduzida;
+
+b) Tratando-se de um módulo monolítico de dupla face, ter a altura máxima de 3,50 metros;
+
+c) Tratando-se de uma estrutura de suporte de mensagem publicitária ou de identificação, com duas ou mais faces, sustentada por um poste:
+
+i) Altura máxima de 12 metros;
+
+ii) Dimensão máxima de qualquer lado do polígono que define a face do suporte da mensagem de 3,50 metros.
+
+2 - Os limites previstos nas alíneas b) e c) do número anterior podem ser alterados em função das características morfológicas e topográficas do local e da envolvente livre adstrita ao estabelecimento.
+
+3 - Em casos devidamente justificados a Câmara Municipal pode impor a eliminação ou restrição dos efeitos luminosos dos totens.
+
+4 - A colocação de totens junto a vias de comunicação tem de respeitar os afastamentos e demais condições legalmente fixadas.
+
+###### Artigo 271.º — Condições de instalação de colunas publicitárias
+
+A instalação de colunas publicitárias deve respeitar as seguintes condições:
+
+a) Localizar -se em espaços amplos, preferencialmente em praças, largos e passeios de largura igual ou superior a 6 metros.
+
+b) A composição deve salvaguardar a qualidade, funcionalidade e segurança do espaço onde se insere;
+
+c) Não podem manter-se no local sem mensagem.
+
+###### Artigo 272.º — Condições de instalação de mastros-bandeira
+
+A instalação de mastros-bandeira tem de respeitar as seguintes condições:
+
+a) Localizar-se preferencialmente em placas separadoras de sentidos de tráfego;
+
+b) A distância entre o solo e a parte inferior da bandeira não pode ser inferior a 2,20 metros.
+
+###### Artigo 273.º — Condições e restrições de difusão de mensagens publicitárias móveis
+
+1 - As unidades móveis publicitárias não podem permanecer estacionadas no mesmo local público por período superior a oito horas.
+
+2 - A unidade móvel publicitária que seja também emissora de som não pode estacionar dentro dos aglomerados urbanos, salvo se tiver o equipamento de som desligado.
+
+3 - Nos transportes públicos, a inscrição ou afixação de mensagens publicitárias não pode, por questões de segurança, sobrepor -se ou cobrir as superfícies transparentes dos veículos, designadamente, portas e janelas, com exceção do vidro da retaguarda.
+
+###### Artigo 274.º — Condições e restrições de difusão de mensagens publicitárias aéreas
+
+Os suportes de mensagens publicitárias aéreas não podem invadir zonas sujeitas a servidões militares ou aeronáuticas, exceto se a pretensão for prévia e expressamente autorizada pela entidade com jurisdição sobre esses espaços e por um período não superior a 3 meses.
+
+###### Artigo 275.º — Condições e restrições de realização de campanhas de rua
+
+1 - As campanhas publicitárias de rua apenas podem ocorrer:
+
+a) No período compreendido entre as 09.00 e as 20.00 horas;
+
+b) A uma distância mínima de 500 metros de edifícios escolares, durante o seu horário de funcionamento, de hospitais, cemitérios e locais de culto.
+
+2 - As diferentes formas de campanhas publicitárias de rua não devem ocasionar conflitos com outras funções urbanas a salvaguardar, designadamente quanto às condições de circulação pedonal e automóvel, e à salubridade dos espaços públicos.
+
+3 - No final de cada dia e de cada campanha, é obrigatória a remoção de todos os panfletos, invólucros de produtos, ou quaisquer outros resíduos resultantes da ação publicitária desenvolvida, que se encontrem abandonados no espaço público, num raio de 100 metros em redor dos locais de distribuição.
+
+###### Artigo 276.º — Condições e restrições de afixação ou inscrição de mensagens publicitárias em vias municipais fora dos aglomerados urbanos
+
+1 - Sem prejuízo da aplicabilidade das regras previstas para o licenciamento em geral, a publicidade a afixar nas imediações das vias municipais, fora dos aglomerados urbanos, deve respeitar as seguintes condições:
+
+a) Nas estradas municipais os suportes publicitários devem ser instalados a uma distância mínima de 25 metros do limite exterior da faixa de rodagem;
+
+b) Nos caminhos municipais os suportes publicitários devem ser instalados a uma distância mínima de 20 metros do limite exterior da faixa de rodagem;
+
+c) Em caso de proximidade de cruzamento ou entroncamento com outras vias de comunicação, ou com vias férreas, os suportes publicitários devem ser instalados a uma distância mínima de 50 metros do limite da zona da via municipal, numa extensão, medida segundo o eixo desta, de 100 metros para um e outro lado do entroncamento ou cruzamento do eixo das vias.
+
+2 - A afixação ou inscrição de publicidade na proximidade das estradas nacionais constantes do plano rodoviário nacional fora dos aglomerados urbanos, está sujeita ao regime constante do [Decreto-Lei n.º 105/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1998-176330), de 24 de abril, com as alterações introduzidas pelo [Decreto-Lei n.º 166/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1999-321715), de 13 de maio.
+
+#### SECÇÃO IV — Ocupações especiais
+
+###### Artigo 277.º — Ocupação de caráter festivo, promocional ou comemorativo
+
+1 - A ocupação do espaço público de caráter periódico ou casuístico, com estruturas destinadas à instalação de recintos itinerantes, recintos improvisados, espetáculos e similares, exposição e promoção de marcas, campanhas de sensibilização ou similares, deve respeitar as seguintes condições:
+
+a) Não exceder o prazo de 30 dias, acrescido do período necessário à montagem e desmontagem, a ser fixado caso a caso;
+
+b) As estruturas de apoio ou qualquer dos elementos expostos não devem exceder a altura de 5 metros;
+
+c) A zona marginal do espaço ocupado deve ser protegida em relação à área do evento ou exposição, sempre que as estruturas ou o equipamento exposto, pelas suas características, possam afetar direta ou indiretamente a envolvente ambiental;
+
+d) As estruturas e todo o equipamento devem respeitar a área demarcada, e apresentar -se em bom estado de conservação e limpeza.
+
+2 - Durante o período de ocupação, o titular da respetiva licença fica ainda sujeito ao cumprimento das disposições legais e regulamentares aplicáveis, designadamente em matéria de mobilidade, higiene, segurança, salubridade, ruído e gestão de resíduos.
+
+###### Artigo 278.º — Ocupação de caráter turístico
+
+A ocupação do espaço público com caráter turístico, designadamente para venda de serviços como passeios, visitas guiadas, aluguer de bicicletas ou veículos elétricos, e serviços similares, deve respeitar as seguintes condições:
+
+a) Não exceder o prazo de um ano, renovável;
+
+b) Não exceder a área de 9 m2;
+
+c) Não decorram em simultâneo ou prejudiquem outras exposições, atividades ou eventos de iniciativa municipal;
+
+d) As estruturas e todo o equipamento devem respeitar a área demarcada, e apresentar -se em bom estado de conservação e limpeza.
+
+###### Artigo 279.º — Ocupação de caráter cultural
+
+1 - A ocupação do espaço público para exercício de atividades artísticas, designadamente pintura, caricatura, artesanato, música, representação e afins, deve respeitar as seguintes condições:
+
+a) Não exceder o prazo de 7 dias, renovável;
+
+b) Não exceder a área de 3 m2, por indivíduo;
+
+c) Não decorram em simultâneo ou prejudiquem outras atividades ou eventos de iniciativa municipal;
+
+d) As estruturas e todo o equipamento devem respeitar a área demarcada, e apresentar -se em bom estado de conservação e limpeza.
+
+2 - Exceciona-se das condições fixadas no número anterior eventos organizados ou patrocinados pelo Município, designadamente as mostras dedicadas ao Associativismo, Juventude, das feiras Medieval, Francas e Antoninas.
+
+### CAPÍTULO VI — Critérios adicionais
+
+###### Artigo 280.º — Objeto
+
+O presente Capítulo consagra os critérios adicionais definidos pelas entidades com jurisdição sobre a área do espaço público a ocupar, bem como sobre os locais onde a publicidade é afixada ou inscrita, nos termos do artigo 11.º, n.º 6 do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, e do artigo 3.º-A da [Lei n.º 97/88](https://diariodarepublica.pt/dr/detalhe/lei/97-1988-377083), de 17 de agosto.
+
+###### Artigo 281.º — Critérios adicionais
+
+1 - A afixação ou inscrição de mensagens publicitárias na proximidade da rede de estradas nacionais e regionais abrangidas pelo n.º 3, do artigo 1.º da [Lei n.º 97/88](https://diariodarepublica.pt/dr/detalhe/lei/97-1988-377083), de 17 de agosto, deve obedecer aos seguintes critérios adicionais:
+
+a) A mensagem ou seus suportes não podem ocupar a zona da estrada que constitui domínio público rodoviário do Estado;
+
+b) A ocupação temporária da zona da estrada para instalação ou manutenção das mensagens ou seus suportes está sujeita a prévio licenciamento da empresa Estradas de Portugal, S. A.;
+
+c) A mensagem ou seus suportes não deve interferir com as normais condições de visibilidade da estrada, bem como com os equipamentos de sinalização e segurança;
+
+d) A mensagem ou seus suportes não deve constituir obstáculo rígido em locais que se encontrem na direção expectável de despiste de veículos;
+
+e) A mensagem ou seus suportes não deve possuir qualquer fonte de iluminação direcionada para a estrada capaz de provocar encadeamento;
+
+f) A luminosidade das mensagens publicitárias não deve ultrapassar as 4 candelas por m2;
+
+g) A afixação ou inscrição de mensagens publicitárias não pode obstruir os órgãos de drenagem ou condicionar de qualquer forma o livre escoamento das águas pluviais;
+
+h) A zona de circulação pedonal livre de qualquer mensagem ou suporte não poderá ser inferior a 1,50 metros;
+
+i) É proibida a afixação ou inscrição de mensagens nos equipamentos de sinalização e segurança da estrada.
+
+### CAPÍTULO VII — Propaganda política e eleitoral
+
+###### Artigo 282.º — Princípios gerais
+
+1 - O presente Capítulo define o regime de localização dos espaços e lugares públicos destinados à afixação ou inscrição de mensagens de propaganda política e eleitoral, bem como os prazos e condições da sua remoção, numa perspetiva de qualificação do espaço público, de respeito pelas normas em vigor sobre a proteção do património arquitetónico, meio urbanístico, ambiental e paisagístico.
+
+2 - A atividade de propaganda deve prosseguir os seguintes objetivos:
+
+a) Não provocar obstrução de perspetivas panorâmicas ou afete a estética ou o ambiente dos lugares ou paisagem;
+
+b) Não prejudicar a beleza ou o enquadramento de monumentos nacionais, de edifícios de interesse público ou outros suscetíveis de ser classificados pelas entidades públicas;
+
+c) Não causar prejuízos a terceiros;
+
+d) Não afetar a segurança das pessoas ou das coisas, nomeadamente na circulação rodoviária;
+
+e) Não apresentar disposições, formatos ou cores que possam confundir-se com os de sinalização de tráfego;
+
+f) Não prejudicar a circulação dos peões, designadamente dos deficientes.
+
+3 - É proibida a utilização, em qualquer caso, de materiais não biodegradáveis na afixação e inscrição de mensagens de propaganda.
+
+###### Artigo 283.º — Locais disponibilizados
+
+1 - É garantida a afixação ou inscrição de propaganda política e eleitoral em todo o território do Município, com exceção dos seguintes espaços e lugares públicos:
+
+a) Parques urbanos da Devesa e de Sinçães, e a sua envolvente num raio de 100 metros contados do limite exterior daqueles equipamentos;
+
+b) Monumentos nacionais, edifícios religiosos, sedes de órgão de soberania, de autarquias locais, bem como no interior de quaisquer repartições ou edifícios públicos.
+
+2 - Nos períodos de campanha eleitoral a Câmara Municipal poderá colocar à disposição dos partidos ou forças concorrentes espaços especialmente destinados à afixação da propaganda, devendo a sua enumeração e localização constar de edital, a publicar até 30 dias antes do início de cada campanha eleitoral.
+
+3 - Para efeitos do disposto no número anterior, a Câmara Municipal procede a uma distribuição equitativa dos espaços por todo o seu território, de modo a que em cada local destinado à afixação de propaganda, cada partido ou força concorrente disponha de uma área disponível não inferior a 2 m2.
+
+4 - A distribuição das áreas pelos partidos ou forças concorrentes em campanha eleitoral é feita por sorteio e deve também constar do edital referido no n.º 2.
+
+###### Artigo 284.º — Regras de utilização do espaço público
+
+1 - A afixação ou inscrição de propaganda política deve, de modo a garantir uma equitativa utilização do espaço público, respeitar as seguintes regras:
+
+a) O período de duração da afixação ou inscrição das mensagens não pode ultrapassar 30 dias, devendo as mesmas ser removidas no termo desse prazo;
+
+b) A mensagem que anuncie determinado evento deve ser removida nos 5 dias seguintes à sua realização.
+
+2 - Até 5 dias antes da afixação ou inscrição da propaganda política, os seus responsáveis devem comunicar à Câmara Municipal essa intenção, indicando a localização exata, bem como, a data de início e termo da respetiva afixação ou inscrição, de modo a garantir o cumprimento dos princípios definidos no presente Livro.
+
+###### Artigo 285.º — Remoção da propaganda
+
+1 - Os partidos ou forças concorrentes devem remover a propaganda eleitoral afixada ou inscrita no território do Município até ao quinto dia subsequente ao respetivo ato eleitoral.
+
+2 - A propaganda política não contemplada no número anterior, deve ser removida:
+
+a) No prazo de 15 dias após a respetiva afixação ou inscrição;
+
+b) Até ao terceiro dia após a realização do evento a que se refere.
+
+3 - Decorrido o prazo de 5 dias após o incumprimento dos prazos previstos nos números anteriores, a Câmara Municipal pode proceder à remoção coerciva, cabendo os custos da remoção dos meios de propaganda à entidade responsável pela afixação ou inscrição que lhe tiver dado causa.
+
+4 - Quando, na situação prevista no número anterior esteja em causa a segurança de pessoas e bens ou outro interesse público cuja salvaguarda imponha uma atuação urgente, a Câmara Municipal procede à remoção imediata dos instrumentos de propaganda política ou eleitoral, sem necessidade do decurso do prazo previsto no número anterior.
+
+5 - A Câmara Municipal não se responsabiliza por eventuais danos que possam advir da remoção dos meios de propaganda para a entidade responsável pela afixação ou inscrição.
+
+## LIVRO IV — Intervenção sobre o exercício de atividades privadas
+
+## TÍTULO I — Horário de funcionamento dos estabelecimentos de venda ao público e de prestação de serviços
+
+###### Artigo 286.º — Horário de funcionamento
+
+1 - As entidades exploradoras dos estabelecimentos de venda ao público e de prestação de serviços devem definir para os mesmos os respetivos horários de funcionamento, dentro dos limites fixados no presente Título.
+
+2 - Os estabelecimentos mistos ficam sujeitos a um único horário de funcionamento em função da atividade principal.
+
+3 - Os estabelecimentos têm de encerrar as portas à hora fixada no respetivo mapa de horário de funcionamento, sem prejuízo de poderem proceder ao atendimento dos clientes que se encontram no interior do estabelecimento e que ainda não foram atendidos.
+
+4 - Para efeitos do número anterior, considera-se que o estabelecimento está encerrado quando tenha a porta fechada, não se permita a entrada a mais clientes e cesse o fornecimento de bens ou a prestação de qualquer serviço no interior ou para o exterior do estabelecimento.
+
+5 - A duração semanal e diária do trabalho estabelecida na lei, em instrumento de regulamentação coletiva de trabalho ou no contrato individual de trabalho tem de ser observada, sem prejuízo do horário do estabelecimento.
+
+###### Artigo 287.º — Limites de funcionamento
+
+1 - Podem estar abertos entre as 06.00 e as 24.00 horas de todos os dias da semana os seguintes estabelecimentos:
+
+a) Hipermercados, supermercados e minimercados;
+
+b) Mercearias, frutarias, talhos, charcutarias, peixarias e outras lojas especializadas em produtos alimentares;
+
+c) Sapatarias, marroquinarias, retrosarias e bazares;
+
+d) Ourivesarias, relojoarias, estabelecimentos de compra de ouro, prata e joias;
+
+e) Estabelecimentos de venda de têxteis, vestuário, malas e acessórios;
+
+f) Estabelecimentos de venda de material ótico e oftalmológico;
+
+g) Estabelecimentos de venda de material fotográfico, cinematográfico, musical e informático;
+
+h) Estabelecimentos de venda de materiais de decoração, mobiliário, construção e outras utilidades domésticas;
+
+i) Estabelecimentos de venda de veículos e acessórios de e para veículos;
+
+j) Estabelecimentos de venda de artesanato, produtos biológicos, gourmet;
+
+k) Estabelecimentos de comércio de animais e de venda de produtos para animais;
+
+l) Estabelecimentos de mediação imobiliária;
+
+m) Agências de viagens e aluguer automóvel;
+
+n) Oficinas de reparação de veículos e acessórios para veículos;
+
+o) Oficinas de reparação de calçado, eletrodomésticos e móveis;
+
+p) Drogarias e perfumarias;
+
+q) Lavandarias e Tinturarias;
+
+r) Floristas e hortos;
+
+s) Clubes de vídeo;
+
+t) Livrarias, papelarias e estabelecimentos de venda de jornais e revistas;
+
+u) Galerias de arte e exposições;
+
+v) Cabeleireiros, barbeiros, esteticistas, institutos de beleza e salões de tatuagem e similares;
+
+w) Parafarmácias;
+
+x) Ginásios, academias, clubes de saúde e similares;
+
+y) Outros estabelecimentos de venda ao público e de prestação de serviços não enquadráveis nos restantes tipos de estabelecimentos.
+
+2 - Podem estar abertos entre as 06.00 e as 02.00 horas todos os dias da semana os seguintes estabelecimentos:
+
+a) Estabelecimentos de restauração, nomeadamente restaurantes, churrasqueiras, pizzarias, casas de pasto, estabelecimentos de confeção e venda de refeições para o exterior,
+
+b) Bares, cervejarias, "snack-bares" e similares;
+
+c) Cafés, Pastelarias, Geladarias e casas de chá;
+
+d) Cibercafés, salas de jogos e similares;
+
+e) Creches, jardins de infância, estabelecimentos de ensino e salas de estudo;
+
+f) Cinemas, teatros e outras salas de espetáculos;
+
+g) Lojas de conveniência.
+
+3 - Podem estar abertos entre as 06.00 e as 04.00 horas de todos os dias da semana, os seguintes estabelecimentos:
+
+a) Cabarés, pubs, boîtes, dancings e similares;
+
+b) Discotecas e casas de fado;
+
+c) Estabelecimentos análogos aos referidos nas alíneas anteriores.
+
+4 - Podem estar abertos com caráter de permanência os seguintes estabelecimentos:
+
+a) Farmácias;
+
+b) Unidades hospitalares, centros médicos, de enfermagem e clínicos, com internamento
+
+c) Clínicas veterinárias com e sem internamento;
+
+d) Empreendimentos turísticos;
+
+e) Estabelecimentos de alojamento local;
+
+f) Instituições de apoio a grupos sociais de risco, nomeadamente terceira idade, crianças em risco, vítimas de violência doméstica e similares;
+
+g) Agências funerárias;
+
+h) Parques de estacionamento;
+
+i) Postos de abastecimento de combustíveis;
+
+j) Estabelecimentos situados em estações e terminais rodoviários e ferroviários.
+
+5 - Sem prejuízo do disposto na alínea f), n.º 2, do presente artigo, as lojas de conveniência, como tal definidas em diploma específico, devem praticar um horário de funcionamento de pelo menos 18 horas por dia.
+
+6 - As esplanadas anexas aos estabelecimentos identificados no n.º 2, atenta a defesa do direito ao sossego e tranquilidade dos cidadãos residentes, só podem ser instaladas e funcionar no período compreendido entre o dia 1 de abril e 1 de outubro, até às 24.00 horas, podendo alargar até à 01.00 horas o seu funcionamento entre 15 de junho e 15 de setembro.
+
+7 - O disposto no presente artigo não prejudica o previsto em legislação específica aplicável para o exercício da respetiva atividade.
+
+###### Artigo 288.º — Mera comunicação prévia
+
+1 - O titular da exploração do estabelecimento, ou quem o representar, tem de proceder à mera comunicação do respetivo horário de funcionamento no assim denominado "Balcão do Empreendedor", dentro dos limites previstos no artigo anterior.
+
+2 - O balcão é acessível nos termos do artigo 3.º do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril conjugado com o disposto na Portaria n.º 131/2011, de 4 de abril.
+
+3 - Os titulares da exploração de estabelecimentos de restauração ou de bebidas, comércio de produtos alimentares, de prestação de serviços com riscos para a saúde e a segurança das pessoas, devem proceder à comunicação a que se refere o número anterior em simultâneo com a mera comunicação prévia de abertura do estabelecimento, no aludido balcão.
+
+4 - A alteração do horário de funcionamento, dentro dos limites fixados no artigo anterior, está sujeita a mera comunicação prévia.
+
+5 - O título comprovativo da mera comunicação prévia do horário de funcionamento, bem como das suas alterações, corresponde ao comprovativo eletrónico de entrega no "Balcão do Empreendedor".
+
+###### Artigo 289.º — Mapa de horário de funcionamento
+
+Cada estabelecimento deve afixar o respetivo mapa de horário de funcionamento em local bem visível do exterior, o qual deve indicar as horas de abertura e de encerramento diário, bem como as horas de encerramento temporário do estabelecimento por motivos de descanso semanal ou interrupção temporária, se aplicável.
+
+###### Artigo 290.º — Restrição do horário de funcionamento
+
+1 - A Câmara Municipal, ouvidos os sindicatos, as associações patronais, de consumidores e o órgão executivo da Freguesia da área onde se situa o estabelecimento, pode restringir os limites fixados, a vigorar em todas as épocas do ano ou apenas em épocas determinadas, em casos devidamente justificados e que se prendam com razões de segurança ou de proteção da qualidade de vida dos cidadãos, designadamente no que respeita ao cumprimento do Regulamento Geral do Ruído, aprovado pelo [Decreto-Lei n.º 9/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2007-522807), de 17 de janeiro.
+
+2 - As entidades consultadas ao abrigo do número anterior, devem pronunciar-se no prazo de 10 dias, a contar da respetiva notificação.
+
+3 - Considera-se haver concordância daquelas entidades com a proposta de restrição de horário, se a respetiva pronúncia não for recebida dentro do prazo fixado no número anterior.
+
+4 - Apreciado o pedido e consultadas as entidades competentes nos termos dos números anteriores, será elaborado, pelos serviços, um relatório com proposta de decisão, considerados os princípios da proporcionalidade e prossecução do interesse público, a submeter à Câmara Municipal ou em quem esta delegar.
+
+5 - A decisão de restrição do horário de funcionamento é precedida de audiência dos interessados, nos termos legalmente previstos.
+
+6 - A decisão de restrição determina a substituição, pelo titular da exploração do estabelecimento, do mapa de horário de funcionamento por novo mapa contendo o novo horário.
+
+###### Artigo 291.º — Alargamento do horário de funcionamento
+
+1 - A Câmara Municipal, ouvidos os sindicatos, as associações patronais, de consumidores e o órgão executivo da Freguesia da área onde se situa o estabelecimento, e a requerimento do interessado, pode alargar os limites fixados, a vigorar em todas as épocas do ano, designadamente:
+
+a) Quando aquele alargamento, face aos interesses dos consumidores, contribua para suprir carências no abastecimento de bens ou de prestação de serviços, bem como para a promoção da animação e revitalização do espaço urbano;
+
+b) Quando os estabelecimentos em causa se localizem em zonas onde os interesses de determinadas atividades profissionais o justifiquem, designadamente, zonas com forte atração turística ou zona de espetáculos e animação cultural.
+
+2 - O requerimento de alargamento do horário é formulado pelo titular da exploração do estabelecimento, ou quem o represente, e conter os seguintes elementos:
+
+a) Identificação do requerente, incluindo o domicílio ou sede e o endereço de correio eletrónico;
+
+b) Localização do estabelecimento;
+
+c) Indicação do horário pretendido;
+
+d) Fundamentação para o alargamento.
+
+3 - O requerimento é, além dos elementos mencionados, acompanhado dos seguintes elementos instrutórios:
+
+a) Fotocópia do cartão de pessoa coletiva ou, no caso de empresário em nome individual, do cartão de cidadão ou bilhete de identidade;
+
+b) Relatório de avaliação acústica, comprovativo do cumprimento do Regulamento Geral do Ruído, sempre que o pedido respeite a estabelecimento localizado em zona predominantemente habitacional.
+
+4 - Caso o requerimento inicial não seja acompanhado de documento instrutório indispensável e cuja falta não possa ser oficialmente suprida, os serviços devem notificar o interessado para, no prazo de 10 dias, corrigir ou completar o pedido sob pena de rejeição liminar.
+
+5 - As entidades consultadas ao abrigo do n.º 1, devem pronunciar-se no prazo de 10 dias, a contar da respetiva notificação.
+
+6 - Considera-se haver concordância daquelas entidades com a proposta de alargamento de horário, se a respetiva pronúncia não for recebida dentro do prazo fixado no número anterior.
+
+7 - Apreciado o pedido e consultadas as entidades competentes nos termos dos números anteriores, será elaborado, pelos serviços, um relatório com proposta de decisão, considerados os princípios da proporcionalidade e prossecução do interesse público, a submeter à Câmara Municipal ou em quem esta delegar.
+
+8 - A decisão de alargamento determina a substituição, pelo titular da exploração do estabelecimento, do mapa de horário de funcionamento por novo mapa contendo o novo horário.
+
+9 - A decisão de alargamento pode ser revogada pela Câmara Municipal, a todo o tempo, quando se verifique a alteração de qualquer dos requisitos que a determinaram.
+
+10 - A Câmara Municipal pode, sem necessidade de audição de qualquer das entidades mencionadas no n.º 1, alargar os horários de funcionamento dos estabelecimentos no período do Carnaval, Queima das Fitas, Festas Antoninas e outras festividades tradicionais.
+
+###### Artigo 292.º — Vendedores ambulantes, feirantes e similares
+
+1 - Aos vendedores ambulantes e todos aqueles que não possuam estabelecimento fixo, só é permitido exercer as respetivas atividades no horário compreendido entre as 06.00 e as 20.00 horas, salvo os que praticarem tal comércio nas festas e romarias, desde que munidos das respetivas licenças.
+
+2 - Aos feirantes é permitido exercer a respetiva atividade dentro do horário estabelecido para o funcionamento das feiras em que se encontram.
+
+3 - Os estabelecimentos comerciais que funcionem dentro dos mercados municipais ficam subordinados ao horário de funcionamento do mercado em que se insiram, o qual é fixado por deliberação da Câmara Municipal.
+
+## TÍTULO II — Recintos de espetáculos e de divertimentos públicos
+
+### CAPÍTULO I — Objeto
+
+###### Artigo 293.º — Objeto
+
+O presente Título tem por objeto a definição dos procedimentos de licenciamento de recintos de espetáculos e divertimentos públicos em toda a área do Município, assim como a definição dos procedimentos a seguir para assegurar a manutenção das condições técnicas e de segurança constantes no [Decreto Regulamentar n.º 34/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1995-634904), de 16 de dezembro, em todos os recintos destinados a espetáculos e divertimentos públicos, tal como se encontram definidos no [Decreto-Lei n.º 309/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2002-405759), de 16 de dezembro, na redação que lhe foi conferida pelo [Decreto-Lei n.º 268/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-2009-490708), de 29 de setembro.
+
+###### Artigo 294.º — Aplicabilidade às freguesias
+
+As Freguesias proprietárias de recintos ou promotoras de espetáculos ou divertimentos públicos, devem observar o regime estabelecido no presente Título, designadamente no que se refere às normas técnicas e de segurança aplicáveis e aos seguros obrigatórios de responsabilidade civil e de acidentes pessoais.
+
+###### Artigo 295.º — Delimitação negativa
+
+Para efeitos do disposto no presente Título, não são considerados espetáculos de divertimentos públicos os que, sendo de natureza familiar, se realizem sem fins lucrativos, para recreio dos membros da família e convidados, quer tenham lugar no próprio lar familiar, quer em recinto obtido para o efeito.
+
+###### Artigo 296.º — Requerimento
+
+Os pedidos de licenciamento regulados no presente Título devem ser apresentados através de requerimento e nos termos do disposto no Livro I do presente Código.
+
+### CAPÍTULO II — Instalação e funcionamento dos recintos de espetáculos e divertimentos públicos
+
+###### Artigo 297.º — Vistoria
+
+1 - A vistoria necessária à emissão da autorização de utilização deve ser realizada no prazo máximo de 30 dias a contar da data da apresentação do requerimento previsto no artigo anterior e, sempre que possível, em data a acordar com o interessado.
+
+2 - A comissão de vistoria deve emitir as suas conclusões no prazo de 5 dias contados da data da realização da vistoria.
+
+###### Artigo 298.º — Conteúdo do auto de vistoria
+
+1 - Para além dos requisitos de carácter geral, o auto de vistoria deve conter as seguintes indicações:
+
+a) A designação do recinto;
+
+b) O nome da entidade exploradora;
+
+c) A lotação do recinto para cada uma das atividades abrangidas.
+
+2 - No caso de o auto de vistoria ser desfavorável ou quando seja fundamentado o voto desfavorável de um dos elementos da Comissão, a autorização de utilização só pode ser emitida quando foram removidas as causas que fundamentaram a decisão negativa ou o voto desfavorável.
+
+###### Artigo 299.º — Recintos fixos de diversão
+
+1 - Os recintos fixos de diversão pública, nomeadamente discotecas, bares com música ao vivo, salas de baile, salões de jogos, salões polivalentes e outros similares, carecem para o seu funcionamento de autorização de utilização.
+
+2 - Cumulativamente, tendo em vista garantir a manutenção das condições técnicas e de segurança específicas dos recintos de espetáculos e de divertimentos públicos, são realizadas vistorias com periodicidade de 3 anos e com carácter de obrigatoriedade para a renovação de autorização de utilização e consequente exploração destes recintos.
+
+3 - Nos recintos de 5.ª categoria, as vistorias apenas são realizadas com a periodicidade definida se, após a análise das condições técnicas e de segurança pelos serviços respetivos, tal for julgado conveniente.
+
+4 - As entidades exploradoras destes recintos devem requerer nova vistoria aos serviços municipais competentes 60 dias antes de expirar o prazo indicado no certificado de vistoria.
+
+5 - Os recintos com certificado de vistoria devem afixá-lo em local bem visível, situado à entrada do recinto, não necessitando de licença acidental de recinto para a realização de espetáculos de natureza artística, desde que a atividade se encontre prevista no mesmo.
+
+###### Artigo 300.º — Conteúdo do alvará de autorização de utilização
+
+1 - Para além das referências previstas neste Código com carácter geral e dos elementos indicados no do RJUE, do alvará de autorização de utilização devem constar as seguintes indicações:
+
+a) Denominação do recinto;
+
+b) Nome do promotor do evento e do administrador do equipamento;
+
+c) Nome do proprietário;
+
+d) Nome do responsável pelas condições gerais e de segurança do recinto;
+
+e) Lotação do recinto para cada uma das atividades abrangidas;
+
+f) No caso de salas ou recintos de jogos, a capacidade máxima do número de equipamentos de diversão e de jogos a instalar.
+
+2 - O modelo de alvará a ser utilizado é aprovado por Portaria, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 309/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2002-405759), de 16 de dezembro, na redação que lhe foi conferida pelo [Decreto-Lei n.º 268/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-2009-490708), de 29 de setembro.
+
+###### Artigo 301.º — Averbamentos
+
+As alterações de qualquer dos elementos constantes do alvará devem ser comunicadas no prazo de 30 dias, a contar da data da sua verificação, ao Município pela entidade titular da autorização de utilização ou a entidade exploradora do recinto deve, para efeitos de averbamento.
+
+###### Artigo 302.º — Validade e renovação da licença
+
+1 - A autorização de utilização para recintos fixos é válida por três anos, renovável por iguais períodos, dependendo a renovação de nova vistoria.
+
+2 - O pedido de renovação da autorização de utilização deve ser efetuado até 30 dias antes do termo da sua validade e deve ser acompanhado de certificado de inspeção do recinto, nos termos do [Decreto-Lei n.º 268/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-2009-490708), de 29 de setembro e do artigo 14.º do [Decreto-Lei n.º 309/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2002-405759), de 16 de dezembro.
+
+## TÍTULO III — Alojamentos locais
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 303.º — Âmbito de aplicação
+
+O presente Título estabelece o regime da instalação e funcionamento dos estabelecimentos de alojamento local tal como legalmente definidos.
+
+###### Artigo 304.º — Definições
+
+1 - Para efeitos do presente Código, consideram-se estabelecimentos de alojamento local as moradias, apartamentos e estabelecimentos de hospedagem que prestem serviços de alojamento temporário, mediante remuneração, mas não reúnam os requisitos para serem considerados empreendimentos turísticos.
+
+2 - Considera-se moradia o estabelecimento de alojamento local cuja unidade de alojamento é constituída por um edifício autónomo, de carácter unifamiliar.
+
+3 - Considera-se apartamento o estabelecimento de alojamento local cuja unidade de alojamento é constituída por uma fração autónoma de edifício.
+
+4 - Considera-se estabelecimento de hospedagem o estabelecimento de alojamento local cujas unidades de alojamento são constituídas por quartos.
+
+### CAPÍTULO II — Instalação e funcionamento dos estabelecimentos de alojamento local
+
+###### Artigo 305.º — Regime aplicável à instalação
+
+Os processos relativos à construção e adaptação de edifícios destinados à instalação dos estabelecimentos previstos no artigo anterior obedecem ao regime jurídico da urbanização e edificação, com as especificidades constantes do regime jurídico dos empreendimentos turísticos e respetiva regulamentação e do presente Código.
+
+###### Artigo 306.º — Autorização de utilização
+
+Todos os procedimentos relativos a edifícios destinados à instalação e funcionamento de estabelecimentos de alojamento local obedecem ao Regime Jurídico da Urbanização e Edificação, legislação específica aplicável e às normas constantes do presente Código.
+
+###### Artigo 307.º — Registo
+
+1 - O funcionamento dos estabelecimentos de alojamento local depende de alvará de autorização de utilização especificamente emitido para esse fim, que é documento bastante e único para efeitos de registo.
+
+2 - O registo de estabelecimento de alojamento local é efetuado através de requerimento, conforme modelo próprio disponibilizado pela Câmara Municipal, Gabinete de Licenciamentos Especiais e Industriais, instruído com os seguintes documentos:
+
+a) Documento comprovativo da legitimidade do requerente (certidão do registo predial do imóvel e, no caso do interessado não figurar como proprietário daquele, outro documento que lhe confira tal direito);
+
+b) Caderneta predial urbana;
+
+c) Termo de responsabilidade, subscrito por técnico habilitado, em como as instalações elétricas, de gás e termoacumuladores cumprem as normas legais em vigor;
+
+d) Planta do imóvel a indicar quais as unidades de alojamento a afetar à atividade pretendida;
+
+e) Indicação do número do alvará de autorização de utilização e respetivo processo administrativo ou, caso este não exista, prova de que o imóvel foi construído em data anterior à entrada em vigor do [Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de agosto de 1951.
+
+3 - A cópia do registo dos estabelecimentos de alojamento local deve encontrar-se visível no estabelecimento.
+
+###### Artigo 308.º — Alteração da entidade exploradora ou encerramento da exploração
+
+1 - A alteração da entidade exploradora deve ser comunicada à Câmara Municipal no prazo de 15 dias úteis a contar da data em que ocorrer o negócio jurídico, tendo em vista a atualização do respetivo registo.
+
+2 - Para efeitos do número anterior, deve a nova entidade exploradora entregar o requerimento acompanhado dos documentos identificados nas alíneas a) e b) do n.º 2 do artigo anterior.
+
+3 - De modo a que a Câmara Municipal, possa manter atualizado o cadastro dos estabelecimentos de alojamento local, também o seu encerramento deve comunicado à Câmara Municipal no prazo estabelecido no n.º 1 do presente artigo.
+
+### CAPÍTULO III — Características das instalações
+
+###### Artigo 309.º — Equipamento mínimo dos quartos
+
+1 - O equipamento mínimo dos quartos dos estabelecimentos deve permitir a fácil circulação no seu interior, e o acesso ao mesmo, e consta do seguinte:
+
+a) Cama com as seguintes dimensões mínimas:
+
+b) Cama individual - 2 metros x 90 centímetros;
+
+c) Cama de casal - 2 metros x 1,40 metros;
+
+d) Mesa de cabeceira ou solução de apoio equivalente;
+
+e) Cadeira ou sofá;
+
+f) Roupeiro ou espaço fechado organizado para esse fim, com cabides em número suficiente;
+
+g) Luzes de cabeceira, com comutador de luz ao alcance da mão, podendo a sua comutação efetuar-se com o sistema de iluminação geral do quarto;
+
+h) Sistema de fecho de portas que impeça o acesso ao quarto contra a vontade do utente.
+
+2 - A capacidade dos quartos não deve exceder o número de três pessoas por quarto.
+
+###### Artigo 310.º — Características das instalações sanitárias
+
+1 - Os quartos dos estabelecimentos de alojamento local devem estar dotados de instalações sanitárias privativas, com os seguintes requisitos mínimos:
+
+a) Água corrente, quente e fria;
+
+b) Ligação a uma saída de esgoto através de um ramal de ligação;
+
+c) Lavatório;
+
+d) Sanita;
+
+e) Banheira ou poliban com braço de chuveiro;
+
+f) Revestimentos de pavimentos e de paredes impermeáveis e de fácil lavagem;
+
+g) Sistema de ventilação que permita a renovação de ar;
+
+h) Sistema de segurança nas portas, que possa impedir a entrada pelo exterior;
+
+i) Área mínima de 4,5 metros quadrados.
+
+2 - Excecionalmente, quando os quartos não disponham de instalações sanitárias privativas, deve o fogo onde se inserem dispor de instalações sanitárias num mínimo de uma instalação sanitária por cada nove pessoas.
+
+###### Artigo 311.º — Uso de cozinha
+
+1 - Os quartos particulares podem ser complementados com o uso de cozinha, desde que esta obedeça aos requisitos legalmente exigidos.
+
+2 - Para além dos demais legalmente estabelecidos, as cozinhas devem dispor obrigatoriamente dos seguintes requisitos mínimos:
+
+a) Água corrente, quente e fria;
+
+b) Revestimentos de pavimentos e de paredes impermeáveis e de fácil lavagem;
+
+c) Lava- louça com saída de esgoto através de um ramal de ligação;
+
+d) Fogão elétrico, ou a gás, devendo neste caso existir um certificado de queima de gás;
+
+e) Sistema de evacuação de fumos, gases e maus cheiros;
+
+f) Frigorífico;
+
+###### Artigo 312.º — Zonas de estar
+
+1 - Os estabelecimentos de alojamento local devem dispor obrigatoriamente de zonas de estar.
+
+2 - Estas zonas devem, sempre que possível, dispor de instalações sanitárias para cada um dos sexos.
+
+### CAPÍTULO IV — Da exploração e funcionamento dos estabelecimentos de alojamento local
+
+###### Artigo 313.º — Exploração dos estabelecimentos
+
+A exploração de cada estabelecimento de alojamento local deve ser da responsabilidade de uma única entidade.
+
+###### Artigo 314.º — Período de funcionamento
+
+1 - Os estabelecimentos devem estar abertos ao público durante todo o ano, salvo se a entidade exploradora comunicar à Câmara Municipal, até ao dia 1 de novembro de cada ano o período de encerramento do estabelecimento no ano seguinte.
+
+2 - Para efeitos do disposto no número anterior, a entidade exploradora afixa o correspondente aviso na área afeta à exploração.
+
+###### Artigo 315.º — Outras condições de funcionamento
+
+1 - A informação afixada em todos os locais de uso individual ou comum deve estar, pelo menos, em língua portuguesa e inglesa.
+
+2 - O disposto no número anterior aplica-se a toda a documentação entregue aos utentes do estabelecimento.
+
+###### Artigo 316.º — Inspeção
+
+1 - Os responsáveis pela exploração devem facultar às entidades fiscalizadoras o acesso a todas as instalações do estabelecimento de alojamento local, bem como facultar os documentos justificadamente solicitados.
+
+2 - No caso de unidade de alojamento ocupada, a inspeção referida no número anterior não pode efetuar-se sem que o respetivo utente esteja presente e autorize o acesso.
+
+## TÍTULO IV — Transporte público de aluguer em veículos automóveis ligeiros de passageiros
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 317.º — Definições
+
+Para efeitos do presente Título considera-se:
+
+a) Táxi: o veículo automóvel ligeiro de passageiros afeto ao transporte público, equipado com aparelho de medição de tempo e distância (taxímetro) e com distintivos próprios, titular de licença emitida pela Câmara Municipal;
+
+b) Transporte em táxi: o transporte efetuado por meio do veículo a que se refere a alínea anterior, ao serviço de uma só entidade, segundo itinerário da sua escolha e mediante retribuição;
+
+c) Transportador em táxi: a empresa habilitada com alvará para o exercício da atividade de transportes em táxi;
+
+d) Estacionamento livre: aquele em que os táxis podem circular livremente à disposição do público, não existindo locais obrigatórios para estacionamento;
+
+e) Estacionamento condicionado: aquele em que os táxis podem estacionar em qualquer dos locais reservados para o efeito, até ao limite dos locais fixados;
+
+f) Estacionamento fixo: aquele em que os táxis são obrigados a estacionar em locais determinados e constantes da respetiva licença.
+
+g) Estacionamento escala: aquele em que os táxis são obrigados a cumprir um regime sequencial de prestação de serviço.
+
+### CAPÍTULO II — Acesso à atividade
+
+###### Artigo 318.º — Licenciamento da atividade
+
+1 - Sem prejuízo do número seguinte, a atividade de transportes em táxi só pode ser exercida por sociedades comerciais ou cooperativas licenciadas pela entidade legalmente competente, ou por empresários em nome individual no caso de pretenderem explorar uma única licença.
+
+2 - A atividade de transporte em táxis poderá ainda ser exercida pelas pessoas singulares que, à data da publicação do [Decreto-Lei n.º 251/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1998-438069), de 11 de agosto, exploravam a indústria de transportes de aluguer em veículos ligeiros de passageiros, titulares de uma única licença emitida ao abrigo do Regulamento de Transporte em Automóveis, desde que tenham obtido o alvará para o exercício da atividade de transportador em táxi, nos termos do n.º 2 do artigo 37.º daquele diploma.
+
+3 - Em caso de morte de empresário em nome individual, a atividade pode ser exercida por herdeiro legitimário ou cabeça de casal, provisoriamente, pelo período de um ano, durante o qual o herdeiro ou cabeça de casal deve habilitar-se como transportador em táxi ou transmitir a licença a uma sociedade ou cooperativa titular para o exercício da atividade em táxi.
+
+### CAPÍTULO III — Acesso e organização do mercado
+
+#### SECÇÃO I — Licenciamento de veículos
+
+###### Artigo 319.º — Veículos
+
+1 - No transporte em táxi só podem ser utilizados veículos automóveis ligeiros de passageiros de matrícula nacional, com lotação não superior a nove lugares, incluindo o do condutor, equipado com taxímetro e conduzidos por motoristas habilitados com certificado de aptidão profissional.
+
+2 - As normas de identificação, o tipo de veículo, as condições de afixação de publicidade e outras características a que devem obedecer os táxis, são as estabelecidas na [Portaria n.º 277-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/277-a-1999-622849), de 15 de abril, na sua redação atual.
+
+###### Artigo 320.º — Taxímetros
+
+1 - Os táxis devem estar equipados com taxímetros homologados e aferidos por entidade reconhecida para efeitos de controlo metrológico dos aparelhos de medição de tempo e de distância.
+
+2 - Os taxímetros devem estar colocados na metade superior do tablier ou em cima deste, em local bem visível pelos passageiros, não podendo ser aferidos os que não respeitem esta condição.
+
+###### Artigo 321.º — Licenciamento dos veículos
+
+1 - Os veículos afetos ao transporte em táxi estão sujeitos a uma licença a emitir pela Câmara Municipal.
+
+2 - A emissão da licença de transporte público de aluguer em veículos automóveis ligeiros de passageiros é comunicada pelo interessado ao Instituto da Mobilidade e dos Transportes Terrestres, para efeitos de averbamento no alvará.
+
+3 - A licença de táxi e o alvará ou a sua cópia devem estar a bordo do veículo.
+
+4 - A transmissão ou transferência das licenças dos táxis entre empresas devidamente habilitadas com alvará, bem como entre pessoas singulares, quando possível, deve ser previamente comunicada ao Município.
+
+#### SECÇÃO II — Tipos de serviço e locais de estacionamento
+
+###### Artigo 322.º — Tipos de serviço
+
+Os serviços de transporte em táxi são prestados em função da distância percorrida e dos tempos de espera, ou:
+
+a) À hora, em função da duração do serviço;
+
+b) Ao percurso, em função dos preços estabelecidos para determinados itinerários;
+
+c) A contrato, em função de acordo reduzido a escrito por prazo não inferior a trinta dias, onde constam obrigatoriamente o respetivo prazo, a identificação das partes e o preço acordado.
+
+###### Artigo 323.º — Locais de estacionamento
+
+1 - Na área do Município são permitidos os seguintes regimes de estacionamento:
+
+a) Estacionamento condicionado no núcleo urbano de Vila Nova de Famalicão e nas vilas de Joane, Riba de Ave e Ribeirão, nos locais definidos ou a definir;
+
+b) Estacionamento fixo nas freguesias e locais que forem indicados na fixação do contingente previsto no artigo referente à fixação de contingentes.
+
+2 - Pode a Câmara Municipal, no uso das competências próprias em matéria de ordenamento do trânsito, alterar, dentro da área na qual os contingentes são fixados, os locais onde os veículos podem estacionar, quer no regime de estacionamento condicionado, quer no regime de estacionamento fixo.
+
+3 - Por ocasião de eventos que determinam um acréscimo excecional de procura, a Câmara Municipal pode criar locais de estacionamento temporário dos táxis, em local diferente do fixado e definir as condições em que o estacionamento é autorizado nesses locais.
+
+4 - Pode ainda a Câmara Municipal determinar por edital a alteração dos regimes de estacionamento previstos.
+
+5 - Os locais destinados ao estacionamento de táxis devem ser devidamente assinalados através de sinalização horizontal e vertical.
+
+###### Artigo 324.º — Disponibilização do serviço
+
+Os automóveis de aluguer devem encontrar-se à disposição do público nos locais de estacionamento que lhes forem fixados de acordo com o regime de estacionamento definido na licença atribuída.
+
+###### Artigo 325.º — Fixação de contingentes
+
+1 - O número de táxis em atividade no Município deve ser estabelecido por um contingente fixado pela Câmara Municipal, abrangendo todas as freguesias do município.
+
+2 - A fixação do contingente deve ser feita com uma periodicidade de dois anos, precedida da audição das entidades representativas do setor.
+
+3 - Na fixação do contingente devem ser tomadas em consideração as necessidades globais de transporte em táxi na área municipal.
+
+###### Artigo 326.º — Táxis para pessoas com mobilidade reduzida
+
+1 - A Câmara Municipal pode atribuir licenças de táxis para o transporte de pessoas com mobilidade reduzida, desde que os veículos estejam adaptados de acordo com as regras legalmente em vigor.
+
+2 - As licenças a que se refere o número anterior devem ser atribuídas pela Câmara Municipal fora do contingente e sempre que a necessidade deste tipo de veículos não possa ser assegurada pela adaptação dos táxis existentes no Município.
+
+3 - A atribuição de licenças de táxis para transporte de pessoas com mobilidade reduzida fora do contingente, deve ser feita por concurso, nos termos estabelecidos neste Título.
+
+### CAPÍTULO IV — Atribuição de licenças
+
+###### Artigo 327.º — Atribuição de licenças
+
+1 - A atribuição de licenças para o exercício da atividade de transporte de aluguer em veículos ligeiros de passageiros deve ser feita por concurso público limitado aberto a sociedades comerciais, empresários em nome individual ou cooperativas titulares de alvará emitido pela entidade competente.
+
+2 - Podem igualmente concorrer os trabalhadores por conta de outrem, bem como os membros de cooperativas licenciadas pela entidade com competência legal para tal, desde que preencham as condições legais de acesso e exercício da profissão definidas nos termos da lei.
+
+3 - O concurso público deve ser aberto por deliberação da Câmara Municipal, podendo esta competência ser delegada no Presidente da Câmara, com poderes de subdelegação, de onde constará também a aprovação do programa de concurso.
+
+###### Artigo 328.º — Abertura de concursos
+
+1 - Deve ser aberto um concurso público por cada freguesia ou grupos de freguesias, tendo em vista a atribuição da totalidade das licenças do contingente dessa freguesia ou grupos de freguesias, ou apenas parte delas.
+
+2 - Quando se verifique o aumento do contingente ou a libertação de alguma licença, pode ser aberto concurso para a atribuição das licenças correspondentes.
+
+###### Artigo 329.º — Publicitação do concurso
+
+1 - O concurso público inicia-se com a publicação de um anúncio no sítio eletrónico do Município, edital afixado nos locais de estilo e nas sedes das juntas de Freguesia, bem como num jornal de âmbito local e outro de âmbito regional.
+
+2 - O período para apresentação de candidaturas deve ser, no mínimo, de 15 dias úteis contados do dia imediato ao do último ato de divulgação.
+
+3 - O anúncio do concurso público deve ser comunicado às entidades representativas do setor.
+
+###### Artigo 330.º — Programa de concurso
+
+1 - O programa de concurso define os termos a que obedece o concurso especificando, nomeadamente, o seguinte:
+
+a) Identificação do concurso;
+
+b) Identificação da entidade que preside ao concurso;
+
+c) O endereço do Município, com menção do horário de funcionamento;
+
+d) A data limite para a apresentação das candidaturas;
+
+e) Os requisitos mínimos de admissão ao concurso;
+
+f) A forma que deve revestir a apresentação das candidaturas, nomeadamente modelos de requerimentos e declarações;
+
+g) Os documentos que acompanham obrigatoriamente as candidaturas;
+
+h) Os critérios que presidem à ordenação dos candidatos e consequente atribuição de licenças.
+
+2 - Da identificação do concurso deve constar expressamente o local para que é aberto e o regime de estacionamento.
+
+###### Artigo 331.º — Requisitos de admissão a concurso
+
+1 - O candidato deve fazer prova de que tem a sua situação regularizada relativamente a dívidas por impostos ao Estado e por contribuições para a segurança social.
+
+2 - Para efeitos do número anterior, considera-se que têm a situação regularizada os contribuintes que preencham os seguintes requisitos:
+
+a) Não sejam devedores perante a Fazenda Nacional de quaisquer impostos ou prestações tributárias e respetivos juros;
+
+b) Estejam a proceder ao pagamento da dívida em prestações nas condições e termos autorizados;
+
+c) Tenham reclamado, recorrido ou impugnado judicialmente aquelas dívidas, salvo se, pelo facto de não ter sido prestada garantia nos termos do Código de Processo Tributário, não tiver sido suspensa a respetiva execução.
+
+###### Artigo 332.º — Apresentação da candidatura
+
+1 - As candidaturas devem ser apresentadas até ao termo do prazo fixado no anúncio do concurso e pelo meio ou meios previstos no programa do concurso.
+
+2 - As candidaturas entregues fora do prazo fixado são excluídas.
+
+3 - A não apresentação de quaisquer documentos a entregar no ato de candidatura, que devam ser obtidos perante qualquer entidade pública, não origina a imediata exclusão do concurso, desde que seja apresentado recibo passado pela entidade que demonstre que os mesmos documentos foram requeridos em tempo útil.
+
+4 - No caso previsto no número anterior, a candidatura é admitida condicionalmente, devendo aqueles ser apresentados nos dois dias úteis seguintes ao limite do prazo para apresentação das candidaturas, findos os quais aquela é excluída.
+
+###### Artigo 333.º — Da candidatura
+
+A candidatura é feita mediante requerimento dirigido ao Presidente da Câmara, de acordo com modelo a fornecer pela Câmara Municipal e deve ser acompanhada dos seguintes documentos, conforme os casos:
+
+a) Documento comprovativo de que é titular do alvará emitido pela entidade legalmente competente;
+
+b) Documento comprovativo de regularização das contribuições para a segurança social;
+
+c) Documento comprovativo de regularização relativamente a impostos ao Estado;
+
+d) Documento comprovativo da localização da sede social da empresa comprovado por certidão emitida pela entidade competente;
+
+e) Documento relativo ao número de postos de trabalho com carácter de permanência, afetos à atividade e com a categoria de motoristas;
+
+f) Certificado de capacidade técnica ou profissional, nos termos do artigo 6.º do [Decreto-Lei n.º 251/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1998-438069), de 11 de agosto;
+
+g) Certificado do registo criminal;
+
+h) Capacidade financeira, demonstrada através de garantia bancária no valor mínimo exigido para a constituição de uma sociedade.
+
+###### Artigo 334.º — Critérios de atribuição de licenças
+
+1 - Na classificação dos concorrentes e na atribuição de licenças devem ser tidos em consideração os seguintes critérios de preferência, por ordem decrescente:
+
+a) Localização da sede social na Freguesia na qual é aberto o concurso;
+
+b) Maior antiguidade da localização da sede social na Freguesia na qual é aberto o concurso;
+
+c) Localização da sede social em freguesia da área do Município;
+
+d) Número de postos de trabalho com carácter de permanência, afetos a cada viatura, referente aos dois anos anteriores ao do concurso;
+
+e) Localização da sede social em Município contíguo;
+
+f) Número de anos de atividade no setor.
+
+2 - A cada candidato é apenas concedida apenas uma licença em cada concurso, devendo os candidatos, na apresentação da candidatura, indicar as preferências das freguesias a que concorrem.
+
+###### Artigo 335.º — Atribuição de licença
+
+1 - A Câmara Municipal, tendo presente o relatório apresentado pela comissão, notifica os candidatos concedendo-lhes um prazo de quinze dias para se pronunciarem sobre o mesmo, nos termos legalmente previstos no Código do Procedimento Administrativo.
+
+2 - Havendo reclamações dos candidatos, devem as mesmas ser analisadas pelo serviço que elaborou o relatório de classificação inicial, o qual apresentará à Câmara Municipal um relatório, devidamente fundamentado, para decisão definitiva sobre a atribuição de licença.
+
+###### Artigo 336.º — Emissão da licença
+
+1 - No prazo de 30 dias, o futuro titular da licença deve apresentar o veículo para verificação das condições constantes da [Portaria n.º 277-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/277-a-1999-622849), de 15 de abril.
+
+2 - Após vistoria ao veículo nos termos do número anterior, e nada havendo a assinalar, a licença é emitida a pedido do interessado, devendo esse, no prazo de 30 dias, apresentar o requerimento em impresso próprio fornecido pela Câmara Municipal, acompanhado dos seguintes documentos, os quais devem ser devolvidos ao requerente após conferência:
+
+a) Alvará de acesso à atividade emitido pela entidade competente;
+
+b) Certidão emitida pela Conservatória do Registo Comercial ou bilhete de identidade, no caso de pessoas singulares;
+
+c) Livrete do veículo e título de registo de propriedade;
+
+3 - A Câmara Municipal deve entregar ao requerente um duplicado do requerimento devidamente autenticado, o qual substitui a licença por um período máximo de trinta dias.
+
+4 - A licença obedece ao modelo e condicionalismo legalmente previsto e em vigor.
+
+###### Artigo 337.º — Caducidade da licença
+
+A licença do táxi caduca nos seguintes casos:
+
+a) Quando não for iniciada a exploração no prazo de 90 dias posteriores à emissão da licença;
+
+b) Quando o alvará emitido pela entidade competente não for renovado;
+
+c) Quando houver substituição do veículo e não seja feito o novo licenciamento;
+
+d) Quando haja abandono do exercício da atividade;
+
+e) Por incumprimento do disposto n.º 3 do artigo 38.º do [Decreto-Lei n.º 251/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1998-438069) de 11 de agosto, com a redação dada pelas leis n.º 156/99, de 14 de setembro, e n.º 106/2001, de 31 de agosto, e pelo [Decreto-Lei n.º 41/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), de 11 de março.
+
+###### Artigo 338.º — Prova da renovação do alvará
+
+1 - Os titulares de licenças emitidas pelo Município devem apresentar prova da renovação do alvará no prazo máximo de 30 dias, contados da data do termo de validade do anterior alvará.
+
+2 - A não renovação do alvará deverá ser comunicada ao Município nos termos previstos no número anterior.
+
+###### Artigo 339.º — Publicidade e divulgação da concessão da licença
+
+1 - A Câmara Municipal publicita de imediato a concessão da licença através de:
+
+a) Publicação de aviso em Boletim Municipal, quando exista, e através de edital a afixar nos Paços do Município e nas sedes das juntas de Freguesia abrangidas;
+
+b) Publicação de aviso num dos jornais mais lidos na área do Município.
+
+2 - A Câmara Municipal deve comunicar a concessão da licença e o teor desta às seguintes entidades:
+
+a) Junta de Freguesia respetiva;
+
+b) Comandantes das forças policiais existentes no concelho;
+
+c) Entidades do Estado com poder de intervenção, regulação e fiscalização no setor;
+
+d) Organizações socioprofissionais do setor.
+
+###### Artigo 340.º — Obrigações fiscais
+
+No âmbito do dever de cooperação com a administração fiscal que impende sobre as autarquias locais, a Câmara Municipal deve comunicar à Direção de Finanças respetiva a emissão de licenças para exploração da atividade de transporte em táxi.
+
+### CAPÍTULO V — Condições de exploração do serviço
+
+###### Artigo 341.º — Prestação obrigatória de serviços
+
+1 - Os táxis devem estar à disposição do público de acordo com o regime de estacionamento que lhes for fixado, não podendo ser recusados os serviços solicitados em conformidade com a tipologia prevista no presente regulamento, salvo o disposto no número seguinte.
+
+2 - Podem ser recusados os seguintes serviços:
+
+a) Os que impliquem a circulação em vias manifestamente intransitáveis pelo difícil acesso ou em locais que ofereçam notório perigo para a segurança do veículo, dos passageiros ou do motorista;
+
+b) Os que sejam solicitados por pessoas com comportamento suspeito de perigosidade.
+
+###### Artigo 342.º — Abandono do exercício da atividade
+
+Salvo em caso fortuito ou de força maior, bem como de exercício de cargos sociais ou políticos, considera-se que há abandono do exercício da atividade sempre que os táxis não estejam à disposição do público durante 30 dias consecutivos ou 60 dias interpolados dentro do período de um ano.
+
+###### Artigo 343.º — Transporte de bagagens e de animais
+
+1 - O transporte de bagagens só pode ser recusado nos casos em que as suas características prejudiquem a conservação do veículo.
+
+2 - É obrigatório o transporte de cães guia de passageiros invisuais e de cadeiras de rodas ou outros meios de marcha de pessoas com mobilidade reduzida, bem como de carrinhos e acessórios para o transporte de crianças.
+
+3 - Não pode ser recusado o transporte de animais de companhia, desde que devidamente acompanhados e acondicionados, salvo motivo atendível, designadamente a perigosidade, o estado de saúde ou de higiene.
+
+###### Artigo 344.º — Regime de preços
+
+Os transportes em táxi estão sujeitos ao regime de preços fixado em legislação especial.
+
+###### Artigo 345.º — Motoristas de táxi
+
+1 - No exercício da sua atividade os táxis apenas só podem ser conduzidos por motoristas titulares de certificado de aptidão profissional.
+
+2 - O certificado de aptidão profissional para o exercício da profissão de motorista de táxi deve ser colocado no lado direito do tablier, de forma visível para os passageiros.
+
+###### Artigo 346.º — Deveres do motorista de táxi
+
+1 - Os deveres do motorista de táxi são os estabelecidos no artigo 5.º do [Decreto-Lei n.º 263/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1998-444693), de 19 de agosto.
+
+2 - A violação dos deveres do motorista de táxi constitui contraordenação punível com coima, podendo ainda ser determinada a aplicação de sanções acessórias, nos termos do estabelecido nos artigos 11.º e 12.º do [Decreto-Lei n.º 263/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1998-444693), de 19 de agosto.
+
+###### Artigo 347.º — Cumprimento do Código da Estrada
+
+O condutor pode recusar-se a prestar um serviço ou a continuá-lo se a prestação implicar o desrespeito por normas do Código da Estrada ou quaisquer outras que regulem a circulação rodoviária.
+
+## TÍTULO V — Venda ambulante
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 348.º — Objeto e âmbito de aplicação
+
+1 - O presente Título fixa as normas reguladoras da atividade de comércio a retalho, exercida de forma não sedentária por vendedores ambulantes, na área do Município.
+
+2 - Excetuam-se do âmbito de aplicação do presente Título a distribuição domiciliária efetuada por conta de comerciantes com estabelecimento fixo, a venda de lotarias, jornais e outras publicações periódicas e o exercício do comércio nos mercados municipais e feiras.
+
+3 - Excetua-se ainda a prestação de serviços de restauração e bebidas de caráter não sedentário realizada em unidades móveis ou amovíveis localizadas em feiras, espaços públicos autorizados para o exercício da venda ambulante, em espaços públicos ou privados de acesso público e em instalações fixas nas quais ocorram menos de dez eventos anuais, ficando obrigados ao cumprimento das disposições referentes à comunicação prévia com prazo prevista no Título III do Livro III do presente Código.
+
+###### Artigo 349.º — Definição de venda ambulante
+
+1 - São considerados vendedores ambulantes:
+
+a) Todos aqueles que, transportando os produtos e ou mercadorias do seu comércio, por si ou por qualquer meio adequado, os (as) vendam ao público consumidor pelos lugares do seu trânsito;
+
+b) Todos aqueles que, fora dos mercados municipais e em locais fixos demarcados pela Câmara Municipal, vendam as mercadorias e ou produtos que transportem, utilizando na venda meios próprios ou outros que, à sua disposição, sejam postos pela Câmara Municipal;
+
+c) Todos aqueles que, transportando os seus produtos e ou mercadorias em veículos, neles efetuem a respetiva venda, quer pelos lugares do seu trânsito, quer em locais fixos demarcados pela Câmara Municipal, fora dos mercados municipais;
+
+2 - Entende-se que exerce a atividade de comércio a retalho toda a pessoa física ou coletiva que, a título habitual e profissional, compra mercadorias em seu próprio nome e por sua própria conta, e as revende diretamente ao consumidor.
+
+###### Artigo 350.º — Regime
+
+1 - O exercício de venda ambulante é vedado às sociedades, aos mandatários e a todos aqueles que exerçam outra atividade profissional, não podendo ser praticado por interposta pessoa.
+
+2 - É proibida no exercício da venda ambulante a atividade de comércio por grosso.
+
+###### Artigo 351.º — Legitimidade para o exercício de atividade de vendedor ambulante
+
+1 - O exercício da atividade de vendedor ambulante depende de autorização da Câmara Municipal, válida para a área do Município e pelo período de um ano a contar da data da emissão ou renovação do cartão de vendedor ambulante.
+
+2 - Compete à Câmara Municipal emitir e renovar o cartão para o exercício de venda ambulante, mediante o pagamento da taxa devida.
+
+###### Artigo 352.º — Pedido
+
+1 - Os interessados na concessão ou renovação do cartão referido no artigo anterior devem formular o pedido por escrito, através de requerimento dirigido ao Presidente da Câmara Municipal, apresentando os seguintes documentos:
+
+a) Requerimento elaborado em impresso aprovado pelo [Despacho Normativo n.º 238/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/238-1979-370630), de 8 de setembro, a fornecer pelos serviços;
+
+b) Cartão de contribuinte de pessoa singular/número de identificação fiscal (NIF);
+
+c) Declaração de início de atividade;
+
+d) No caso de venda de produtos alimentares em viatura, o certificado atualizado das condições higio-sanitárias da mesma;
+
+e) Duas fotografias do tipo passe;
+
+f) Impresso destinado ao registo na entidade legalmente competente, para efeito de cadastro.
+
+2 - Do requerimento referido na alínea a) do número anterior, deve constar:
+
+a) Identificação completa do interessado;
+
+b) Indicação da situação pessoal no que respeita à profissão atual ou anterior, habilitações, emprego ou desemprego, invalidez ou assistência, composição dos rendimentos e encargos do respetivo agregado familiar.
+
+3 - A indicação da situação pessoal dos interessados, referida na alínea b) do número anterior, pode ser dispensada em relação aos que tenham exercido de modo continuado, durante os últimos três anos, a atividade de vendedor ambulante, devidamente comprovada.
+
+4 - O cartão de identificação de vendedor ambulante é pessoal e intransmissível e deve ser apresentado às autoridades policiais e à fiscalização municipal sempre que seja solicitado.
+
+5 - A renovação anual do cartão de vendedor ambulante deve ser requerida 30 dias antes de caducar a respetiva validade.
+
+6 - No requerimento de renovação deve ser aposta a indicação de "Renovação".
+
+7 - O Presidente da Câmara Municipal decide sobre o pedido de concessão de cartão de vendedor ambulante no prazo de 30 dias, contados a partir da entrega do requerimento, devendo ser emitido o respetivo recibo, após parecer dos serviços.
+
+8 - O prazo fixado no número anterior interrompe-se com a notificação do requerente para suprir eventuais deficiências do requerimento ou da documentação junta, começando a correr novo prazo a partir da data da receção, na Câmara Municipal, dos elementos pedidos.
+
+9 - O não cumprimento da notificação referida no número anterior determina o arquivamento do pedido.
+
+10 - A falta de decisão favorável referida no n.º 5 corresponde ao indeferimento do pedido.
+
+###### Artigo 353.º — Inscrição e registo de vendedores ambulantes
+
+1 - A Câmara Municipal deve criar um registo dos vendedores ambulantes que se encontram autorizados a exercer a sua atividade na área do Município.
+
+2 - Os interessados devem preencher o impresso destinado ao registo na entidade legalmente competente, conforme determina o artigo 18.º n.º 10 do [Decreto-Lei n.º 252/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1993-390064), de 14 de julho.
+
+3 - A Câmara Municipal fica obrigada a enviar à entidade legalmente competente o duplicado do impresso a que se refere o número anterior, no caso da primeira inscrição, devendo, nos casos de renovação sem alterações, remeter uma relação onde constem tais renovações, que pode ser substituída por suporte informático, no prazo de 30 dias a partir da data da primeira inscrição ou da primeira renovação.
+
+4 - A Câmara Municipal deve arquivar fotocópia do impresso, quando se tratar de inscrição.
+
+### CAPÍTULO II — Das obrigações e proibições
+
+#### SECÇÃO I — Das obrigações
+
+###### Artigo 354.º — Deveres dos vendedores ambulantes
+
+Os vendedores ambulantes ficam obrigados a:
+
+a) Manter utensílios, veículos e objetos utilizados nas vendas em rigoroso estado de asseio e higiene;
+
+b) A conservar os produtos do seu comércio em condições de perfeita higiene, impostas por leis e regulamentos aplicáveis;
+
+c) A deixar o local de venda completamente limpo;
+
+d) A comportar-se com civismo nas suas relações com o público.
+
+#### SECÇÃO II — Das proibições
+
+###### Artigo 355.º — Interdição aos vendedores ambulantes
+
+É interdito aos vendedores ambulantes:
+
+a) Impedir ou dificultar, por qualquer forma, o trânsito nos locais destinados à circulação de veículos e peões;
+
+b) Impedir ou dificultar o acesso a meios de transporte público e às paragens dos respetivos veículos;
+
+c) Impedir ou dificultar o acesso a monumentos e a edifícios públicos ou privados, bem como o acesso ou exposição dos estabelecimentos comerciais ou lojas de venda ao público;
+
+d) Lançar no solo quaisquer desperdícios, restos, lixos ou outros materiais suscetíveis de ocupar ou sujar a via pública;
+
+e) Proceder à venda de artigos nocivos à saúde pública e dos que sejam contrários à moral;
+
+f) Estacionar na via pública, fora dos locais em que a venda fixa seja permitida, para expor os artigos à venda;
+
+g) Fazer publicidade sonora em condições que possam perturbar a vida normal das populações;
+
+h) Exercer a sua atividade a menos de 500 metros de estabelecimentos escolares, sempre que a respetiva atividade se relacione com a venda de bebidas alcoólicas.
+
+###### Artigo 356.º — Produtos vedados ao comércio ambulante
+
+1 - É proibido o comércio ambulante dos produtos enumerados no artigo 7.º do [Decreto-Lei n.º 122/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1979-383043), de 8 de maio, com a alteração introduzida pela [Portaria n.º 1059/81](https://diariodarepublica.pt/dr/detalhe/portaria/1059-1981-567260), de 15 de dezembro, designadamente:
+
+a) Carnes verdes, salgadas e em salmoura, ensacadas, fumadas e enlatadas e miudezas comestíveis, conquanto não seja proibida a venda de carne e seus produtos, quando exercida em unidades móveis como veículo automóvel, reboque ou semirreboque;
+
+b) Bebidas alcoólicas, exceto quando comercializadas juntamente com refeições ligeiras ou outros produtos comestíveis preparados de forma tradicional, em veículos automóveis ou reboques;
+
+c) Medicamentos e especialidades farmacêuticas;
+
+d) Desinfetantes, inseticidas, fungicidas, herbicidas, parasiticidas, raticidas e semelhantes;
+
+e) Sementes, plantas e ervas medicinais e respetivos preparados;
+
+f) Móveis, artigos de mobiliário, colchoaria e antiguidades;
+
+g) Tapeçarias, alcatifas, carpetes, passadeiras, tapetes, oleados e artigos de estofador;
+
+h) Aparelhagem radioelétrica, máquinas e utensílios elétricos ou a gás, candeeiros, lustres, seus acessórios ou partes separadas e material para instalações elétricas;
+
+i) Instrumentos musicais, discos e afins, outros artigos musicais, seus acessórios e partes separadas;
+
+j) Materiais de construção, metais e ferragens;
+
+k) Veículos automóveis, reboques, velocípedes com ou sem motor e acessórios;
+
+l) Combustíveis líquidos, sólidos e gasosos, com exceção de petróleo, álcool desnaturado, carvão e lenha;
+
+m) Instrumentos profissionais e científicos e aparelhos de medida e verificação, com exceção das ferramentas e utensílios semelhantes de uso doméstico ou artesanal;
+
+n) Material para fotografia e cinema e artigos de ótica, oculista, relojoaria e respetivas peças separadas ou acessórios;
+
+o) Borracha e plásticos em folhas ou tubo ou acessórios;
+
+p) Armas e munições, pólvora e quaisquer outros materiais explosivos ou detonantes;
+
+q) Moedas e notas de banco.
+
+2 - As alterações à legislação referida no n.º 1 devem ser divulgadas pela Câmara Municipal por meio edital.
+
+#### SECÇÃO III — Das condições da atividade
+
+###### Artigo 357.º — Horário de venda
+
+1 - Só é permitida a venda ambulante entre as 09.00 e as 20.00 horas.
+
+2 - Nas vésperas de feriados nacionais ou locais, sábados e domingos a mesma é autorizada até às 23.00 horas.
+
+###### Artigo 358.º — Condicionamentos
+
+1 - Os vendedores ambulantes devem, na exposição e venda de produtos do seu comércio, utilizar, individualmente, tabuleiros de dimensões não superiores a 1 metro vezes 1,20 metros, colocados a uma altura mínima de 0,40 metros do solo, salvo nos casos em que os meios postos à disposição pela Câmara Municipal, ou o transporte utilizado justifiquem a dispensa do seu uso.
+
+2 - Compete à Câmara Municipal dispensar o cumprimento do estabelecido no n.º 1 relativamente à venda ambulante que se revista de características especiais.
+
+3 - A Câmara Municipal pode estabelecer a utilização de um modelo único de tabuleiros, definindo, para o efeito, as suas dimensões e características.
+
+4 - Os tabuleiros, bancadas, pavilhões, veículos e reboques utilizados na venda devem conter afixado em local bem visível do público, a indicação no nome, morada e número de cartão do respetivo vendedor.
+
+5 - Os tabuleiros, balcões ou bancadas utilizados para exposição, venda ou arrumação de produtos alimentares devem ser construídos de matérias resistentes a traços ou sulcos facilmente laváveis.
+
+6 - Todo o material de exposição, venda, arrumação ou depósitos deve ser mantido em rigoroso estado de asseio, higiene e conservação.
+
+###### Artigo 359.º — Requisitos para produtos alimentares
+
+1 - No transporte, arrumação, exposição e arrecadação dos produtos alimentares é obrigatório separar os produtos alimentares dos de natureza diferente, bem como, de entre cada um deles, os que de algum modo possam ser afetados pela proximidade dos outros.
+
+2 - Quando não estejam expostos para venda, os produtos alimentares devem ser guardados em lugares adequados à preservação do seu estado e em condições higio-sanitárias que os protejam das poeiras, contaminação ou contactos que, de qualquer modo, possam afetar a saúde dos consumidores.
+
+3 - Na embalagem ou acondicionamento de produtos alimentares deve ser utilizado papel ou outro material que ainda não tenha sido utilizado e que não contenha desenhos, pinturas ou dizeres impressos ou escritos na parte interior.
+
+4 - A venda ambulante de doces, pastéis, frituras e, em geral, comestíveis preparados na altura, só é permitida quando se produtos forem confecionados, apresentados e embalados em condições higiénicas adequadas, nomeadamente o uso de vitrinas, matérias plásticas e de quaisquer outras que se mostrem apropriadas.
+
+###### Artigo 360.º — Manipuladores de produtos
+
+Todos aqueles que, pela sua atividade profissional, intervenham na preparação, acondicionamento, transporte ou venda de produtos alimentares devem manter apurado o estado de asseio, cumprindo cuidadosamente preceitos mínimos e elementares de higiene.
+
+###### Artigo 361.º — Publicidade dos produtos
+
+Não são permitidas, como meio de sugestionar aquisições pelo público, falsas descrições ou informações sobre a identidade, origem, natureza, composição, qualidade, propriedades ou utilidades dos produtos expostos à venda
+
+###### Artigo 362.º — Publicidade dos preços
+
+1 - Os preços devem ser praticados em conformidade com a legislação em vigor.
+
+2 - É obrigatória a afixação de forma bem visível para o público, da tabela, letreiros ou etiquetas, incluindo o preço dos produtos, géneros e artigos expostos.
+
+###### Artigo 363.º — Lugar de armazenamento dos produtos
+
+Sempre que lhe seja exigido, o vendedor deve indicar às entidades competentes para a fiscalização, o lugar onde guarda a sua mercadoria, facultando o acesso ao mesmo.
+
+###### Artigo 364.º — Características dos veículos automóveis ou reboques
+
+1 - Na venda em veículos automóveis ou reboques, que tenha por objeto a confeção ou fornecimento de refeições ligeiras, tais como, sandes, pregos, cachorros, bifanas, pastéis, croquetes, rissóis, bolos secos e comércio de bebidas engarrafadas, não é permitida, em caso algum, a venda exclusiva de bebidas.
+
+2 - A venda dos produtos atrás referidos só é permitida em recipientes não recuperáveis.
+
+3 - A venda nos veículos referidos nos números anteriores, só é permitida quando os requisitos de higiene, salubridade, dimensões e estética sejam adequados ao objeto do comércio e ao local onde os seus proprietários pretendem exercer a respetiva atividade.
+
+4 - É proibida a venda de bebidas alcoólicas nos veículos previstos neste artigo:
+
+a) A menores de 16 anos;
+
+b) A quem se apresente notoriamente embriagado ou aparente possuir anomalia psíquica.
+
+5 - Os proprietários destes veículos ou atrelados são obrigados a disponibilizar recipientes de depósito de lixo para uso dos clientes.
+
+### CAPÍTULO III — Locais de venda ambulante
+
+###### Artigo 365.º — Locais de venda
+
+1 - A venda ambulante pode efetuar-se em áreas fixadas pela Câmara Municipal, ouvido o órgão executivo da Freguesia, sendo interdita nas chamadas zonas de proteção.
+
+2 - Em dias de feira, festas, ou quaisquer acontecimentos em que se preveja aglomerado do público, pode a Câmara Municipal, por edital publicado com o mínimo de oito dias de antecedência, alterar os locais e horários de venda ambulante, bem como os seus condicionamentos.
+
+3 - Os locais referidos no n.º 1 não podem ser ocupados com quaisquer artigos, produtos, embalagens, meios de transporte, de exposição ou acondicionamento de mercadoria, para além do período em que a venda é autorizada.
+
+4 - A venda ambulante de artigos de artesanato, frutas, produtos hortícolas ou quaisquer outros de fabrico ou produção própria fica sujeita às disposições do presente Título.
+
+5 - A venda ambulante com unidades automóveis não é permitida em arruamentos, quando perturbe a normal circulação de veículos e pessoas.
+
+###### Artigo 366.º — Locais de venda fixos
+
+1 - Para o exercício da atividade de vendedor ambulante com carácter de permanência, a Câmara Municipal pode demarcar áreas determinadas, após audição do órgão executivo da Freguesia e definir em que condições pode a mesma ser exercida.
+
+2 - Nos locais definidos para venda fixa, o número de vendedores ambulantes, por artigo ou produto, poderá ser condicionado, precedido de informação da respetiva Junta de Freguesia.
+
+3 - Nos locais onde existam bancas colocadas pela Câmara Municipal ou pelas juntas de freguesia é expressamente proibida a venda fora das mesmas.
+
+4 - Os vendedores ambulantes devem deixar o local ou banca em perfeito estado de limpeza, sob pena de perderem o direito à sua utilização.
+
+###### Artigo 367.º — Zona de proteção
+
+Não é permitida a venda ambulante:
+
+a) A menos de 200 metros dos edifícios públicos, monumentos, templos, centros de saúde, imóveis de interesse público, estações e paragens de transportes coletivos, e estabelecimentos fixos para o mesmo ramo de comércio;
+
+b) A menos de 500 metros dos estabelecimentos de ensino e dos mercados municipais, durante o seu horário de funcionamento.
+
+### CAPÍTULO IV — Da venda ambulante de produtos específicos
+
+#### SECÇÃO I — Venda de pescado
+
+###### Artigo 368.º — Proibição da venda ambulante de peixe em locais fixos
+
+A venda de peixe e outras espécies análogas não é permitida em bancas, terrado, ou locais semelhantes.
+
+###### Artigo 369.º — Regras específicas para a venda ambulante de pescado
+
+1 - A venda de pescado pode efetuar-se em regime de venda ambulante pelos lugares do seu trânsito, de acordo com as regras estabelecidas no presente Título e com utilização de veículo automóvel adaptado para o efeito.
+
+2 - A venda de pescado em unidades móveis depende de autorização emitida pela Câmara Municipal e fica sujeita ao disposto neste Título.
+
+3 - Os veículos utilizados no transporte em terra do pescado fresco, salgado ou por qualquer forma preparado ou conservado, com exclusão das conservas, bem como os veículos que se prestem ocasionalmente a tal fim, devem ser providos de meios que assegurem a conservação e a qualidade dos produtos, devendo o acondicionamento destes fazer-se de modo a que não sofram esmagamento, não sejam conspurcados, nem estejam sujeitos a poluição.
+
+4 - Estes veículos e as caixas ou recipientes utilizados no transporte de pescado devem conter dispositivos que permitam o seu arejamento adequado e garantam a drenagem permanente, e fácil limpeza e desinfeção.
+
+5 - Sempre que as unidades móveis de venda de pescado estejam prontas a funcionar, deve o interessado requerer a respetiva vistoria à Câmara Municipal, para a verificação do cumprimento dos requisitos técnicos de higiene e salubridade fixados neste Título e demais legislação aplicável.
+
+6 - O Presidente da Câmara Municipal deve, no prazo de trinta dias a contar da data da entrada do requerimento referido no número anterior, ordenar a realização da vistoria e, quando for caso disso, emitir a respetiva autorização para venda de pescado.
+
+7 - Compete ao veterinário municipal a realização da inspeção higio-sanitária do pescado e seus subprodutos, sem prejuízo das competências atribuídas a outras entidades.
+
+#### SECÇÃO II — Venda de carnes
+
+###### Artigo 370.º — Venda ambulante de carne e seus produtos
+
+1 - A venda de carne e seus produtos pode ser efetuada com recurso a unidades móveis, nas condições previstas no [Decreto-Lei n.º 368/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1988-354954), de 15 de outubro e no presente Regulamento, nas localidades em que o abastecimento pelos estabelecimentos de comercialização de carnes seja manifestamente insuficiente.
+
+2 - A Câmara Municipal deve indicar quais as localidades do concelho onde se verifica o condicionalismo previsto no número anterior.
+
+#### SECÇÃO III — Venda de pão
+
+###### Artigo 371.º — Venda ambulante de pão e afins
+
+Ao regime de venda ambulante de pão e afins em viaturas móveis adaptadas aplica-se o disposto no [Decreto-Lei n.º 286/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1986-219961), de 6 de setembro, nomeadamente os seus artigos 1.º, 5.º, 10.º, 15.º, 17.º, 20.º e 21.º:
+
+a) Os veículos devem apresentar nos painéis laterais as inscrições "Transporte e venda de pão" ou "Transporte de pão", consoante o caso;
+
+b) Os veículos devem manter-se em perfeito estado de limpeza e devem ser submetidos a adequada desinfeção periódica;
+
+c) Os veículos não podem ser utilizados para outros fins, salvo no transporte de matérias-primas para o fabrico de pão e de produtos afins;
+
+d) A venda em unidades móveis depende de autorização emitida pela Câmara Municipal, ouvida a autoridade sanitária concelhia;
+
+e) Nos requerimentos relativos às unidades móveis, o interessado deve indicar as localidades onde pretende efetuar a venda;
+
+f) O Presidente da Câmara Municipal deve, no prazo de trinta dias a contar da data de entrada do requerimento, mandar proceder à vistoria da viatura com intervenção da autoridade sanitária do concelho e, quando for caso disso, emitir a respetiva autorização;
+
+g) As definições de pão e afins são as constantes do [Decreto-Lei n.º 289/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1984-380931), de 24 de agosto;
+
+h) O não cumprimento das disposições deste artigo fica sujeito à aplicação de coimas, definidas no artigo 58.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de janeiro;
+
+i) O manuseamento do pão deve efetuar-se com instrumentos adequados ou envoltórios das mãos do manipulador, de forma a impedir um contacto direto.
+
+###### Artigo 372.º — Pessoal de distribuição e venda de pão
+
+1 - É proibido ao pessoal afeto à distribuição e venda de pão:
+
+a) Dedicar-se a qualquer outra atividade que possa constituir fonte de contaminação;
+
+b) Tomar refeições e fumar em locais de distribuição e venda;
+
+c) Utilizar vestuário que não esteja em perfeito estado de limpeza e que não seja adequado;
+
+2 - Para efeitos do disposto na alínea c), considera-se vestuário adequado a bata de cor clara e que seja usada exclusivamente para esse fim.
+
+#### SECÇÃO IV — Venda ambulante em equipamentos rolantes
+
+##### SUBSECÇÃO I — Das condições
+
+###### Artigo 373.º — Exercício da atividade em equipamentos rolantes
+
+1 - A venda em roulottes só pode ser exercida pelo titular da correspondente licença, que pode ser auxiliado no exercício da sua atividade por outras pessoas, desde que devidamente inscritas no Município, através do modelo fornecido pelos serviços municipais.
+
+2 - No âmbito da venda ambulante, pode ser exercida a atividade de confeção de serviços de cafetaria ou de produtos comestíveis preparados de forma tradicional, devendo nesse caso cumprir-se os requisitos higio-sanitários constantes na legislação do setor alimentar.
+
+###### Artigo 374.º — Limitações ao estacionamento dos equipamentos rolantes
+
+É proibido estacionar, permanecer, ou efetuar vendas em zonas de insalubridade, tais como aquelas onde existam poeiras, cheiros, fumos, ou onde possam ser libertados efluentes gasosos ou outras situações suscetíveis de sujar ou alterar os produtos.
+
+##### SUBSECÇÃO II — Requisitos técnicos e higio-sanitários
+
+###### Artigo 375.º — Requisitos construtivos dos equipamentos rolantes
+
+1 - O pavimento dos equipamentos rolantes deve ser de superfície compacta, antiderrapante, constituído por matéria resistente, impermeável, de fácil limpeza, com estrados desmontáveis em material não alterável e dotado de declive para um orifício que permita a evacuação das águas residuais e proveniente de lavagens, que devem ser canalizadas para um recipiente construído em material imputrescível e de oclusão perfeita, não permitindo escorrências para o exterior.
+
+2 - Todas as paredes e teto devem ser construídos com recurso a material liso, resistente ao fogo, corrosão, impermeável, imputrescível e de fácil lavagem e desinfeção.
+
+3 - A ligação entre as paredes e o pavimento, ou com outras paredes, deve ter a forma arredondada.
+
+4 - Quando em veículos monobloco, a zona destinada à venda deve ser isolada da cabine de condução e construída por material macromolecular duro.
+
+###### Artigo 376.º — Requisitos higio-sanitários dos equipamentos rolantes
+
+1 - Os equipamentos rolantes devem dispor de água potável corrente, quente e fria, acondicionada em depósito apropriado, de um lavatório em aço inoxidável dotado de torneiras de comando não manual e dispositivo com saboneteira líquida, saboneteira com desinfetante e toalhas descartáveis, bem como estruturas adequadas que permitam a desinfeção de equipamentos e utensílios, bem como dos géneros alimentícios e um recipiente com capacidade adequada para armazenar a água das lavagens.
+
+2 - Devem também dispor de recipientes com tampa de comando não manual forrados, com saco de plástico próprio, para recolha de lixos resultantes da atividade.
+
+3 - Na zona de utentes devem existir recipientes destinados à recolha de detritos.
+
+4 - Devem possuir dispositivo de ventilação permanente e indireta, que assegure a perfeita higiene no interior.
+
+5 - Os equipamentos e utensílios devem ser constituídos por material imputrescível, anti oxidável, resistente, de superfície lisa, não tóxico e de fácil lavagem.
+
+6 - As bancadas e prateleiras destinadas à exposição dos produtos para venda ao público são constituídas por matéria dura, lisa, não absorvente e de fácil lavagem, devendo o manipulador evitar o contacto direto das mãos com o produto final.
+
+7 - Os expositores devem ainda:
+
+a) Ter composição adequada de acordo com o fim a que se destinam;
+
+b) Possuir resguardo contra insetos, poeiras, ou outros poluentes;
+
+c) Ser constituídos por matéria que não altere os caracteres organoléticos dos produtos expostos.
+
+###### Artigo 377.º — Outros requisitos
+
+1 - As unidades devem possuir equipamento frigorífico para conservação e refrigeração de bebidas e alimentos, de harmonia com a capacidade e características do serviço a prestar.
+
+2 - Os motores devem estar munidos de dispositivos de redução sonora.
+
+3 - Os equipamentos devem ser alimentados por energia elétrica.
+
+4 - Caso exista fogão alimentado a gás de petróleo liquefeito, o proprietário da unidade móvel deve fazer-se acompanhar de Termo de Responsabilidade, emitido por técnico habilitado para o efeito e reconhecido pelas entidades competentes.
+
+5 - No caso previsto no número anterior, deve existir no mínimo um extintor com inspeção válida, como meio portátil de combate a incêndios, com capacidade de resolução adequada às características da instalação.
+
+6 - Sempre que a confeção se verifique na unidade móvel (fogão a gás, placas elétricas ou churrasco), esta deve estar dotada de cúpula de exaustão de fumos e cheiros e respetiva chaminé, construídas em material incombustível (classe Mo) e devidamente equipada com extintor com capacidade adequada, devendo a extração ser compensada com o auxílio motorizado.
+
+7 - No caso previsto no número anterior, os alimentos, uma vez confecionados e excedentes, devem ser inutilizados, ficando proibido o seu reaquecimento e reaproveitamento.
+
+8 - Os equipamentos rolantes devem ainda dispor de área adequada para que todas as operações de preparação e manuseamento dos alimentos se processem dentro das instalações de forma higiénica e sem risco de contaminação.
+
+9 - O veículo deve estar equipado com local próprio de acondicionamento de material de embalagem, livre do contacto direto com o produto final, de modo a protegê-lo de eventuais conspurcações.
+
+##### SUBSECÇÃO III — Licenciamento e vistoria
+
+###### Artigo 378.º — Emissão do cartão de vendedor ambulante e da licença
+
+O cartão de vendedor ambulante e a licença apenas devem ser emitidos após a supressão de eventuais deficiências, com base num parecer favorável das entidades referidas no artigo seguinte.
+
+###### Artigo 379.º — Competência para a vistoria dos equipamentos rolantes
+
+A vistoria é efetuada pelos serviços competentes e deve ser requerida anualmente.
+
+### CAPÍTULO V — Documentação
+
+###### Artigo 380.º — Documentos de apresentação obrigatória
+
+1 - No exercício da sua atividade, o vendedor ambulante deve fazer-se acompanhar, para apresentação imediata às autoridades e entidades competentes para a fiscalização, dos seguintes documentos:
+
+a) Cartão de vendedor ambulante, atualizado;
+
+b) Faturas ou documentos equivalentes comprovativos da aquisição dos produtos para venda ao público.
+
+2 - A documentação a que se refere a alínea b) do número anterior deve conter os seguintes elementos:
+
+a) Nome e domicílio do comprador;
+
+b) Nome ou denominação social, sede ou domicílio do fornecedor e a data em que a aquisição foi efetuada;
+
+c) A especificação das mercadorias adquiridas, com indicação das respetivas quantidades, preços e valores líquidos, descontos, abatimentos ou bónus concedidos, e, quando for caso disso, das correspondentes marcas, referências e números de série.
+
+###### Artigo 381.º — Competência
+
+A Câmara Municipal, de acordo com o artigo 16.º do [Decreto-Lei n.º 122/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1979-383043), de 8 de maio, pode:
+
+a) Restringir, condicionar ou proibir a venda ambulante, tendo em atenção os aspetos higio-sanitários, estéticos e de comodidade para o público;
+
+b) Interditar zonas ao exercício do comércio ambulante, atendendo às necessidades de segurança e de trânsito de peões e veículos;
+
+c) Estabelecer zonas e locais fixos para neles ser exercida, com meios próprios ou fornecidos pela autarquia, a atividade de vendedor ambulante;
+
+d) Delimitar locais ou zonas de acesso de veículos ou reboques utilizados na venda ambulante;
+
+e) Estabelecer zonas e locais especialmente destinados ao comércio ambulante de certas categorias de produtos.
+
+## TÍTULO VI — Higiene e segurança alimentar
+
+###### Artigo 382.º — Objeto da inspeção e fiscalização higio-sanitária
+
+1 - Na área do Município, estão sujeitos a inspeção e fiscalização higio-sanitária todos os géneros alimentícios, sejam frescos, refrigerados, congelados ou por qualquer outra forma conservados ou transformados, que circulem ou sejam destinados a venda, quer em feiras e mercados, quer em regime de venda ambulante.
+
+2 - São ainda objeto de inspeção e controlo higio-sanitário:
+
+a) O acondicionamento, embalagem, rotulagem e marcas de salubridade de géneros alimentícios;
+
+b) Os locais de preparação e venda e os veículos ou outros meios de transporte de géneros alimentícios, que devem cumprir os requisitos técnicos legalmente exigidos;
+
+c) As condições de higiene e asseio dos manipuladores de géneros alimentícios, bem como a sua formação profissional.
+
+###### Artigo 383.º — Exposição em instalações amovíveis ou temporárias
+
+1 - A exposição e venda de géneros alimentícios em instalações amovíveis e ou temporárias, tais como expositores, bancas de mercados, quiosques, veículos para venda ambulante e máquina de venda automática, devem estar localizadas e ser concebidas e construídas de forma a evitar o risco de contaminação, nomeadamente através de animais e parasitas, ou outros fatores poluentes.
+
+2 - Na atividade comercial efetuada nas condições previstas no número anterior, deve ser assegurada pelo responsável do local de venda a armazenagem e eliminação higiénica das substâncias perigosas e ou não comestíveis, bem como de resíduos líquidos ou sólidos produzidos.
+
+3 - A venda efetuada nas condições previstas no n.º 1 deve ainda dispor de equipamentos e ou instalações que permitam a manutenção dos géneros alimentícios à temperatura legalmente determinada, bem como de mecanismos de controlo dessa temperatura.
+
+###### Artigo 384.º — Exposição no exterior dos estabelecimentos
+
+Os produtos alimentares expostos no exterior dos estabelecimentos devem estar colocados em recipientes próprios, conformes à legislação em vigor, a não menos de 70 centímetros de altura do solo e ao abrigo do sol, das intempéries e de outros fatores poluentes.
+
+###### Artigo 385.º — Condições de higiene na venda
+
+A venda nas condições acima referida deve ser feita em locais em que seja assegurada a higiene pessoal dos manipuladores dos géneros alimentícios, assim como a lavagem de utensílios e equipamentos de trabalho.
+
+###### Artigo 386.º — Vistoria anual dos meios de transporte
+
+1 - Os veículos ou outros meios de transporte de géneros alimentícios devem ser objeto de vistoria anual a realizar pela autoridade sanitária veterinária concelhia.
+
+2 - A vistoria a que se refere o número anterior é feita a requerimento do interessado e a sua renovação deve ser solicitada 30 dias antes da data em que expira a validade da anterior.
+
+## TÍTULO VII — Guardas-noturnos e outras atividades sujeitas a licenciamento
+
+### CAPÍTULO I — Objeto
+
+###### Artigo 387.º — Objeto
+
+O presente Título estabelece o regime jurídico do licenciamento e do exercício das seguintes atividades:
+
+a) Guarda-noturno;
+
+b) Venda ambulante de lotarias;
+
+c) Realização de acampamentos ocasionais;
+
+d) Exploração de máquinas automáticas, elétricas e eletrónicas de diversão;
+
+e) Realização de espetáculos desportivos e de divertimentos públicos nas vias, jardins e demais lugares públicos ao ar livre;
+
+### CAPÍTULO II — Atividade de guarda-noturno
+
+#### SECÇÃO I — Criação, modificação e extinção da atividade
+
+###### Artigo 388.º — Criação, modificação e extinção
+
+1 - É da competência da Câmara Municipal a criação e extinção do serviço de guarda-noturno e a fixação e modificação das áreas de atuação de cada guarda, mediante parecer prévio da corporação policial com jurisdição sobre a área abrangida e da Junta de Freguesia respetiva.
+
+2 - As juntas de Freguesia e as associações de moradores podem tomar a iniciativa de requerer a criação deste serviço em determinada localidade ou áreas da mesma, bem como a fixação ou modificação das áreas de atuação de cada guarda-noturno.
+
+###### Artigo 389.º — Conteúdo da deliberação
+
+1 - Da deliberação da Câmara Municipal que cria a atividade de guarda-noturno numa determinada localidade deve constar a identificação desse lugar pelo nome da freguesia ou freguesias, a definição das áreas de atuação de cada guarda-noturno e a referência à audição prévia das entidades referidas no n.º 1 do artigo anterior.
+
+2 - A deliberação de criação, modificação ou extinção do serviço de guarda-noturno é sempre publicitada por meio de edital e aviso em, pelo menos, dois órgãos de imprensa local.
+
+#### SECÇÃO II — Emissão de licença e cartão de identificação
+
+###### Artigo 390.º — Licenciamento
+
+1 - É da competência do Presidente da Câmara a emissão da licença e do respetivo cartão para o exercício da atividade de guarda-noturno.
+
+2 - A licença é pessoal e intransmissível e tem validade trienal.
+
+3 - O pedido de renovação, por igual período de tempo, deve ser dirigido ao Presidente da Câmara Municipal com a antecedência mínima de 30 dias em relação ao termo do respetivo prazo de validade.
+
+###### Artigo 391.º — Indeferimento
+
+O pedido de licenciamento deve ser indeferido quando o interessado não for considerado pessoa idónea para o exercício da atividade de guarda-noturno.
+
+###### Artigo 392.º — Seleção
+
+1 - Compete à Câmara Municipal promover, a pedido de qualquer interessado ou grupo de interessados, a seleção dos candidatos à atribuição da respetiva licença.
+
+2 - A seleção é feita pelos serviços da Câmara Municipal, de acordo com os critérios fixados no presente Código Regulamentar.
+
+###### Artigo 393.º — Aviso de abertura e ordem de preferência
+
+1 - O processo de seleção inicia-se com a publicitação, através de afixação na Câmara Municipal e nas juntas de Freguesia do respetivo aviso de abertura.
+
+2 - Do aviso de abertura devem constar obrigatoriamente os seguintes elementos:
+
+a) Identificação da localidade ou da área da localidade onde a atividade será exercida, pelo nome da freguesia ou freguesias;
+
+b) Requisitos de admissão;
+
+c) Prazo para apresentação de candidaturas.
+
+3 - Têm preferência no exercício da atividade os candidatos que já a exerçam na localidade da área posta a concurso ou fora dela, com as habilitações académicas mais elevadas e os que tiverem pertencido aos quadros de uma força de segurança e não tenham dela sido afastados por motivos disciplinares.
+
+4 - Findo o prazo para apresentação de candidaturas, os serviços da Câmara Municipal devem elaborar, no prazo de dez dias, a lista dos candidatos admitidos e excluídos do processo de seleção, a qual será divulgada por afixação nos lugares de estilo.
+
+5 - Feita a ordenação respetiva, o Presidente da Câmara Municipal deve atribuir, no prazo de quinze dias, as licenças.
+
+###### Artigo 394.º — Pedido de licenciamento
+
+1 - O pedido de licenciamento é dirigido, sob a forma de requerimento, ao Presidente da Câmara, devendo dele constar o nome e o domicílio do requerente.
+
+2 - O requerimento é instruído com cópia do documento de identificação civil e do cartão de contribuinte, certificado de registo criminal, documento comprovativo das habilitações literárias e relatório médico a atestar da boa robustez física e psíquica do requerente.
+
+3 - O requerente fica ainda obrigado a observar os seguintes requisitos:
+
+a) Ser cidadão português, de um Estado membro da União Europeia ou do espaço económico europeu ou, em condições de reciprocidade, de país de língua oficial portuguesa;
+
+b) Ter mais de vinte e um anos e menos de sessenta e cinco anos de idade;
+
+c) Possuir a escolaridade mínima obrigatória;
+
+d) Não ter sido condenado, por sentença transitada em julgado, pela prática de crime doloso;
+
+e) Não se encontrar na situação de efetividade de serviço, pré-aposentação ou reserva de qualquer força militar ou força ou serviço de segurança.
+
+#### Secção III — Exercício da atividade
+
+###### Artigo 395.º — Deveres
+
+O guarda-noturno, no exercício da sua atividade, fica obrigado a:
+
+a) Apresentar-se pontualmente no posto ou esquadra policial no início e termo do serviço;
+
+b) Permanecer na área em que exerce a sua atividade durante o período de prestação de serviço e informar os seus clientes do modo mais expedito para ser contactado ou localizado;
+
+c) Prestar o auxílio que lhe for solicitado pelas forças e serviços de segurança e proteção civil;
+
+d) Frequentar anualmente um curso ou instrução de adestramento e reciclagem que for organizado pelas forças de segurança com competência na respetiva área;
+
+e) Usar, em serviço, o cartão de identificação e ou distintivo emitido pela Câmara Municipal bem como vestuário ou uniforme nos termos definidos pela Câmara Municipal;
+
+f) Usar de urbanidade e aprumo no exercício das suas funções;
+
+g) Tratar com respeito e prestar auxílio a todas as pessoas que se lhe dirijam ou careçam de auxílio;
+
+h) Fazer anualmente ante a Câmara Municipal, durante o mês de fevereiro, prova de que tem em devida ordem a sua situação contributiva para com a Segurança Social;
+
+i) Comparecer ao serviço, salvo motivo sério e ponderoso, para o que, e sempre que possível, solicitará a sua substituição com cinco dias úteis de antecedência ou, não sendo tal possível, proceder a aviso aos seus clientes e à respetiva força de segurança.
+
+j) Efetuar e manter em vigor um seguro de responsabilidade civil que garanta o pagamento de uma indemnização por danos causados a terceiros no exercício e por causa da sua atividade.
+
+k) Comunicar às forças e serviços de segurança e proteção civil os factos ilícitos ou situações de perigo ou emergência que presencie ou de que tenha conhecimento no exercício das suas funções.
+
+#### SECÇÃO IV — Remuneração
+
+###### Artigo 396.º — Remuneração
+
+A atividade de guarda-noturno é remunerada pelas contribuições contratualizadas com as pessoas, singulares ou coletivas, em benefício de quem é exercida.
+
+### CAPÍTULO III — Atividade de vendedor ambulante de lotarias
+
+###### Artigo 397.º — Procedimentos
+
+1 - Cada vendedor ambulante de lotarias deve ser portador de um cartão de identificação, com fotografia tipo passe atualizada do seu titular, válido por cinco anos.
+
+2 - As licenças devem ser registadas em livro especial, com termos de abertura e encerramento, por ordem cronológica e sob o número de ordem em que são transcritos os elementos de identificação constantes do requerimento, tendo anexada uma fotografia do vendedor.
+
+3 - O pedido de licenciamento é dirigido, sob a forma de requerimento, ao Presidente da Câmara e nele devem constar o nome e o domicílio do requerente.
+
+4 - O requerimento é instruído com cópia do documento de identificação civil e do cartão de contribuinte, certificado do registo criminal, fotocópia de declaração do início de atividade ou da declaração do IRS e duas fotografias tipo passe atualizadas.
+
+5 - A Câmara Municipal deve deliberar sobre o pedido de licença no prazo máximo de trinta dias, contados a partir da receção do pedido.
+
+6 - As licenças são válidas até 31 de dezembro de cada ano e a sua renovação é feita durante o mês de dezembro, por simples averbamento requerido pelo interessado, a efetuar no livro de registo e no cartão de identidade.
+
+### CAPÍTULO IV — Atividade de acampamentos ocasionais
+
+###### Artigo 398.º — Licença
+
+1 - A licença para a realização de acampamentos ocasionais fora dos locais adequados à prática de campismo ou caravanismo deve ser requerida à Câmara Municipal pelo responsável do acampamento e a sua concessão depende da autorização expressa do proprietário do local.
+
+2 - A realização de qualquer acampamento ocasional fica sujeita à emissão de parecer favorável das seguintes entidades:
+
+a) Delegado de Saúde;
+
+b) Comandante da força de segurança com jurisdição na área abrangida.
+
+c) Responsável pela Proteção Civil, sem cariz vinculativo.
+
+3 - A licença é concedida por um período de tempo determinado, nunca superior ao período de tempo autorizado expressamente pelo proprietário do prédio, podendo ser revogada a qualquer momento sempre que estejam em causa a ordem e tranquilidade públicas, razões de proteção da saúde ou bens, ou em casos de manifesto interesse público.
+
+4 - A autorização do proprietário é concedida por escrito.
+
+###### Artigo 399.º — Pedido de licenciamento
+
+O pedido de licenciamento deve ser apresentado com a antecedência mínima de quinze dias, através de requerimento próprio, do qual conste a identificação completa do interessado, devendo ser acompanhado dos seguintes documentos:
+
+a) Fotocópia do documento de identificação civil;
+
+b) Fotocópia do cartão de Identificação Fiscal;
+
+c) Autorização, no modelo próprio, do proprietário do prédio;
+
+d) Indicação do local do Município para o qual é solicitada a licença.
+
+### CAPÍTULO V — Atividade de máquinas de diversão
+
+###### Artigo 400.º — Âmbito
+
+São consideradas máquinas de diversão:
+
+a) Aquelas que, não pagando prémios em dinheiro, fichas ou coisas com valor económico, desenvolvem jogos cujo resultado depende exclusiva ou fundamentalmente da perícia do utilizador, sendo permitido que ao utilizador seja concedido o prolongamento da utilização gratuita da máquina face à pontuação obtida.
+
+b) Aquelas que, tendo as características definidas na alínea anterior, permitem a apreensão de objetos cujo valor económico não exceda três vezes a importância despendida pelo utilizador.
+
+###### Artigo 401.º — Locais de exploração
+
+As máquinas de diversão apenas podem ser instaladas e colocadas em funcionamento nos locais definidos no artigo 24.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, e nas condições previstas no presente capítulo.
+
+###### Artigo 402.º — Registo
+
+1 - Nenhuma máquina submetida ao regime deste capítulo pode ser posta em exploração sem que se encontre registada e licenciada.
+
+2 - O registo deve ser submetido pelo proprietário da máquina ao Presidente da Câmara Municipal, devendo o respetivo requerimento ser formulado, em relação a cada máquina, através de impresso próprio e conforme modelo aprovado por Portaria do Ministério das Cidades, Ordenamento do Território e Ambiente.
+
+###### Artigo 403.º — Instrução dos pedidos de registo
+
+1 - O requerimento para o registo de cada máquina importada deve ser instruído com os documentos exigidos pela legislação aplicável:
+
+a) Documento comprovativo da apresentação da declaração de rendimentos do requerente, respeitante ao ano anterior, ou de que não está sujeito ao cumprimento dessa obrigação, em conformidade com a legislação fiscal aplicável;
+
+b) Documento comprovativo de que o adquirente é sujeito passivo do Imposto sobre o Valor Acrescentado;
+
+c) No caso de importação de países exteriores à União Europeia, cópia autenticada dos documentos que fazem parte integrante do despacho de importação, contendo dados identificativos da máquina que se pretende registar, com indicações relativas ao mesmo despacho e BRI respetivo;
+
+d) Fatura ou documento equivalente, emitida de acordo com os requisitos previstos na legislação fiscal aplicável;
+
+e) Documento emitido pela Inspeção-Geral de Jogos comprovativo de que o jogo que a máquina possa desenvolver está abrangido pela disciplina do presente capítulo.
+
+2 - O requerimento para o registo de máquina produzida ou montada em território nacional é instruído com os documentos exigidos pela legislação aplicável:
+
+a) Os documentos referidos nas alíneas a), b) e e) do número anterior;
+
+b) Fatura ou documento equivalente, que contenha os elementos identificativos da máquina, nomeadamente número de fábrica, modelo e fabricante.
+
+3 - O registo é titulado por documento próprio definido legalmente e que acompanha obrigatoriamente a máquina a que respeitar.
+
+4 - Em caso de alteração da propriedade da máquina, o adquirente solicita ao presidente da Câmara Municipal o averbamento respetivo, juntando para o efeito o título de registo e documento de venda ou cedência, assinado pelo transmitente e com menção do número do respetivo bilhete de identidade, data de emissão e serviço emissor, se se tratar de pessoa singular, ou no caso de pessoas coletivas, assinado pelos seus representantes, com reconhecimento da qualidade em que estes intervêm e verificação dos poderes que legitimam a intervenção naquele ato.
+
+###### Artigo 404.º — Elementos do processo
+
+1 - A Câmara Municipal deve organizar um processo individual por cada máquina registada, do qual devem constar, além dos documentos referidos no artigo 21.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, os seguintes elementos:
+
+a) Número de registo, que será sequencialmente atribuído;
+
+b) Tipo de máquina, fabricante, marca, número de fabrico, modelo e ano de fabrico;
+
+c) Classificação do tema ou temas de jogo de diversão;
+
+d) Proprietário e respetivo endereço;
+
+e) Município em que a máquina está em exploração.
+
+2 - O proprietário de qualquer máquina pode substituir o tema ou temas de jogo autorizados por qualquer outro, desde que previamente classificado pela Inspeção-Geral de Jogos.
+
+3 - O documento que classifica o novo tema do jogo autorizado e a respetiva memória descritiva deve acompanhar a máquina de diversão.
+
+4 - A substituição deve ser precedida de comunicação ao Presidente da Câmara Municipal que efetuou o registo, em triplicado, remetendo esta os respetivos impressos à Inspeção-Geral de Jogos.
+
+###### Artigo 405.º — Licença de exploração
+
+1 - Apenas podem ser postas em exploração máquinas de diversão que disponham da correspondente licença de exploração atribuída pela Câmara Municipal e sejam acompanhadas desse documento.
+
+2 - A licença de exploração deve ser requerida por períodos anuais ou semestrais pelo proprietário da máquina e o pedido instruído com os seguintes documentos:
+
+a) Título de registo da máquina, que será devolvido;
+
+b) Documento comprovativo do pagamento do imposto sobre o rendimento respeitante ao ano anterior;
+
+c) Documento comprovativo do pagamento dos encargos devidos a instituições de segurança social;
+
+d) Licença de utilização, nos termos do Decreto-Lei n.º 309/202, de 16 de dezembro, quando devida.
+
+3 - O Presidente da Câmara Municipal deve comunicar o licenciamento da exploração à Câmara Municipal que efetuou o registo da máquina, para efeitos de anotação no processo respetivo.
+
+4 - As licenças de exploração podem ser requeridas para um período mínimo de 30 dias, nas situações em que a máquina seja instalada em recinto itinerante e improvisado, devidamente licenciado nos termos da legislação aplicável.
+
+###### Artigo 406.º — Transferência de local de exploração da máquina no mesmo Município
+
+1 - A transferência da máquina de diversão para local diferente do constante da licença de exploração, na área territorial do Município, deve ser precedida de comunicação escrita, em impresso próprio, ao presidente da Câmara Municipal.
+
+2 - O Presidente da Câmara Municipal, face à localização proposta, deve avaliar da sua conformidade com os condicionalismos existentes, designadamente com as distâncias fixadas relativamente aos estabelecimentos de ensino, bem como com quaisquer outros motivos que sejam causa de indeferimento da concessão ou renovação da licença de exploração.
+
+3 - Se a instalação no local proposto for suscetível de afetar quaisquer dos interesses a proteger, a Câmara Municipal deve indeferir a comunicação de mudança de local de exploração.
+
+###### Artigo 407.º — Transferência de local de exploração da máquina para outro Município
+
+1 - A transferência para instalação da máquina de diversão com licença de exploração emitida por outro Município carece de nova licença de exploração.
+
+2 - O presidente da Câmara Municipal que concede a licença de exploração para a máquina de diversão, deve comunicar esse facto à Câmara Municipal em cujo território a máquina se encontrava em exploração, devolvendo a respetiva licença de exploração anterior.
+
+3 - O titular da licença deve também comunicar à Câmara Municipal que concede a licença para a máquina de diversão, a transferência desta para outro Município.
+
+###### Artigo 408.º — Consulta às forças da ordem
+
+1 - Nos casos de concessão de licença de exploração ou de alteração do local de exploração da máquina, o Presidente da Câmara deve solicitar um parecer às forças policiais da área para que é requerida a pretensão em causa.
+
+2 - O parecer referido no número anterior apenas é devido nas situações em que ocorra a primeira instalação da máquina de diversão no recinto ou estabelecimento para onde é requerido.
+
+3 - Deve ainda ser solicitado o parecer às autoridades policiais, sempre que o Presidente da Câmara Municipal considerar necessário.
+
+###### Artigo 409.º — Condições de exploração e condicionamentos
+
+1 - Salvo tratando-se de estabelecimentos licenciados para a exploração exclusiva de jogos, não podem ser colocadas em exploração simultânea mais de três máquinas, quer as mesmas sejam exploradas na sala principal do estabelecimento, quer nas suas dependências ou anexos, com intercomunicação interna, vertical ou horizontal.
+
+2 - As máquinas só podem ser exploradas no interior do recinto ou estabelecimento previamente licenciado para a prática de jogos lícitos com máquinas de diversão, o qual não pode situar-se a menos de 50 metros de qualquer estabelecimento do Ensino Básico e Secundário.
+
+3 - Nos estabelecimentos licenciados para a exploração exclusiva de máquinas de diversão é permitida a instalação de aparelhos destinados à venda de produtos ou bebidas não alcoólicas.
+
+4 - A prática de jogos em máquinas reguladas pelo presente capítulo é interdita a menores de 16 anos, salvo quando, tendo mais de 12 anos, sejam acompanhados por quem exerce o poder paternal.
+
+5 - É obrigatória a afixação, na própria máquina, em local bem visível, de inscrição ou dístico contendo o número de registo, o nome do proprietário, o prazo limite da validade da licença de exploração concedida, a idade exigida para a sua utilização, o nome do fabricante, o tema do jogo, o tipo de máquina, o número de fábrica e o local onde a mesma está colocada.
+
+###### Artigo 410.º — Causas de indeferimento
+
+1 - Para além do previsto no presente Título, constituem ainda motivos de indeferimento da pretensão de concessão, renovação da licença e mudança de local de exploração:
+
+a) Razões de proteção à infância e juventude, prevenção de criminalidade e manutenção ou reposição da segurança, da ordem ou da tranquilidade públicas;
+
+b) A violação das restrições estabelecidas no artigo anterior.
+
+2 - Nos casos de máquinas colocadas pela primeira vez em exploração, constitui motivo de indeferimento da pretensão a solicitação da licença de exploração em Município diferente daquele em que ocorreu o registo, salvo quando se verifique a não obrigatoriedade deste procedimento no Município onde foi registada a máquina ou na situação de indeferimento do primeiro período de licença de exploração noutro Município.
+
+###### Artigo 411.º — Renovação da licença
+
+A renovação da licença de exploração é sempre requerida antes do termo do seu prazo de validade.
+
+###### Artigo 412.º — Caducidade da licença de exploração
+
+A licença de exploração caduca findo o prazo de validade ou no caso de se verificar a transferência da máquina para local de exploração noutro Município.
+
+###### Artigo 413.º — Responsabilidade contraordenacional
+
+1 - Para efeitos do presente capítulo, consideram-se responsáveis, relativamente às contraordenações verificadas:
+
+a) O proprietário da máquina, nos casos de exploração de máquinas sem registo ou quando em desconformidade com os elementos constantes do título e registo por falta de averbamento do novo proprietário;
+
+b) O proprietário ou explorador do estabelecimento, nas demais situações.
+
+2 - Quando, por qualquer circunstância, se mostre impossível a identificação do proprietário de máquinas em exploração, considera-se responsável pelas contraordenações o proprietário ou explorador do estabelecimento onde as mesmas se encontrem.
+
+###### Artigo 414.º — Regime transitório
+
+1 - Quando for solicitado o primeiro licenciamento de exploração de máquinas, cujo processo de licenciamento tenha decorrido pelos governos civis, à data da entrada em vigor do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, e que se encontrem pendentes de obtenção de registo, o Presidente da Câmara Municipal solicitará ao Governador Civil toda a informação existente e disponível sobre a máquina em causa.
+
+2 - O presidente da Câmara Municipal deve atribuir, no caso referido no número anterior, um novo título de registo que obedece ao Modelo 3 anexo à [Portaria n.º 144/2003](https://diariodarepublica.pt/dr/detalhe/portaria/144-2003-198954), de 14 de fevereiro.
+
+### CAPÍTULO V — Atividade e realização de espetáculos de cariz desportivo e de divertimentos públicos
+
+#### SECÇÃO I — Divertimentos públicos
+
+###### Artigo 415.º — Licenciamento
+
+1 - Os arraiais, romarias, bailes, provas desportivas e outros eventos de divertimento público organizados nas vias, jardins e demais lugares ao ar livre de natureza pública estão sujeitos a licenciamento da Câmara Municipal, salvo quando decorram em recintos já licenciados pela Direção Geral de Espetáculos.
+
+2 - Não carecem de licenciamento, embora estejam sujeitas a comunicação prévia endereçada ao Presidente da Câmara Municipal, as atividades e festas promovidas por entidades oficiais, civis ou militares.
+
+3 - Sempre que a realização das atividades referidas envolver a instalação e funcionamento de recintos itinerantes ou improvisados, aplicam-se também as regras estabelecidas nos artigos 18.º e 19.º do [Decreto-Lei n.º 309/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2002-405759), de 16 de dezembro.
+
+###### Artigo 416.º — Pedido de licenciamento
+
+1 - O pedido de licenciamento para realização de qualquer dos eventos referidos no artigo anterior deve ser dirigido ao presidente da Câmara Municipal, com 15 dias de antecedência através de requerimento do qual deverá constar:
+
+a) A identificação completa do requerente;
+
+b) Atividade que pretende realizar;
+
+c) Local do exercício da atividade;
+
+d) Dias e horas em que a atividade ocorrerá.
+
+2 - O requerimento é ainda instruído com os seguintes documentos:
+
+a) No caso de pessoa singular, fotocópia do documento de identificação civil; no caso de pessoa coletiva, documento comprovativo da composição dos órgãos sociais e fotocópia dos documentos de identificação dos titulares do órgão social que outorgam o requerimento;
+
+b) Fotocópia do cartão de identificação fiscal;
+
+c) Quaisquer outros necessários ao cabal esclarecimento da pretensão.
+
+###### Artigo 417.º — Emissão da licença
+
+A licença deve ser concedida, verificados que sejam os condicionalismos legais, pelo prazo solicitado, dela devendo constar, designadamente, o local de realização, o tipo de evento, os limites horários bem como quaisquer condições que tenham sido definidas ou impostas no licenciamento.
+
+###### Artigo 418.º — Condicionamentos
+
+1 - A realização das atividades previstas no presente capítulo não é permitida nas proximidades de edifícios de habitação, escolas, hospitais e similares, assim como estabelecimentos hoteleiros e meios complementares de alojamento, exceto se forem respeitados os limites fixados no regime aplicável ao ruído.
+
+2 - Excecionalmente, o Presidente da Câmara pode autorizar o funcionamento ou o exercício contínuo de espetáculos ou atividades ruidosas proibidos, salvo nas imediações de unidade hospitalar ou similares, mediante a atribuição de uma licença especial de ruído.
+
+###### Artigo 419.º — Festas tradicionais
+
+1 - Nas épocas de celebração das festividades tradicionais das localidades pode, excecionalmente, ser permitido pelo Presidente da Câmara o funcionamento ou o exercício contínuo dos espetáculos ou atividades ruidosos, atentas as limitações legalmente estabelecidas.
+
+2 - Os espetáculos ou atividades que não estejam licenciados, ou não se contenham nos limites da respetiva licença, são imediatamente suspensos, oficiosamente ou a pedido de qualquer interessado.
+
+###### Artigo 420.º — Regime especial das diversões carnavalescas
+
+1 - São aplicáveis às festividades carnavalescas as restrições previstas no presente capítulo e na demais legislação aplicável.
+
+2 - São ainda especialmente proibidas as seguintes manifestações:
+
+a) A utilização de quaisquer objetos de arremesso suscetíveis de colocar em perigo a integridade física de terceiros;
+
+b) A utilização de gases, líquidos ou outros produtos inebriantes, anestesiantes, esternutatórios ou que possam inflamar-se, seja qual for o seu acondicionamento.
+
+c) A apresentação da Bandeira Nacional ou imitação.
+
+3 - A venda, ou a exposição para venda, de produtos de uso proibido pelo número anterior é punida como tentativa de comparticipação na infração.
+
+#### SECÇÃO II — Provas desportivas
+
+##### SUBSECÇÃO I — Âmbito municipal
+
+###### Artigo 421.º — Pedido de licenciamento
+
+1 - O pedido de licenciamento para realização de espetáculos desportivos na via pública ou no domínio público deve ser dirigido ao presidente da Câmara Municipal, com a antecedência mínima de 30 dias, através de requerimento do qual deverá constar:
+
+a) A identificação completa do requerente;
+
+b) Morada ou sede social;
+
+c) Atividade que se pretende realizar;
+
+d) Percurso a realizar;
+
+e) Dias e horas em que a atividade ocorrerá.
+
+2 - O requerimento deve ser acompanhado dos seguintes elementos:
+
+a) Traçado do percurso da prova, sobre o mapa da rede viária, em escala adequada, ou memória descritiva que permita uma correta análise do percurso, indicando de forma clara as vias abrangidas, as localidades e os horários prováveis de passagem nas mesmas, bem como o sentido de marcha;
+
+b) Regulamento da prova que estabeleça as normas a que a mesma deve obedecer;
+
+c) Parecer das forças policiais que superintendam no território a percorrer;
+
+d) Parecer do Instituto de Estradas de Portugal no caso de utilização de vias regionais ou nacionais;
+
+e) Parecer da Federação ou Associação Desportiva respetiva, que poderá ser sobre a forma de visto no regulamento da prova.
+
+###### Artigo 422.º — Emissão da licença
+
+1 - A licença deve ser concedida pelo prazo solicitado, dela devendo constar, designadamente, o tipo de evento, o local ou percurso, a hora de realização da prova, bem como quaisquer condições que tenham sido definidas ou impostas no licenciamento.
+
+2 - A licença deve ser emitida mediante apresentação de comprovativo de estar segura a responsabilidade civil e os acidentes pessoais.
+
+###### Artigo 423.º — Comunicações
+
+Do conteúdo da licença deve ser dado conhecimento às forças policiais que superintendam no território a percorrer.
+
+##### SUBSECÇÃO II — Âmbito intermunicipal
+
+###### Artigo 424.º — Pedido de licenciamento
+
+1 - O pedido de licenciamento da realização de espetáculos desportivos na via pública deve ser dirigido ao presidente da Câmara Municipal da área em que a prova se inicie, com a antecedência mínima de 60 dias, através de requerimento próprio, do qual conste:
+
+a) A identificação completa do requerente;
+
+b) Morada ou sede social;
+
+c) Atividade que se pretende realizar;
+
+d) Percurso a realizar;
+
+e) Dias e horas em que a atividade ocorrerá.
+
+2 - O requerimento é acompanhado dos seguintes elementos:
+
+a) Traçado do percurso da prova, sobre o mapa da rede viária, em escala adequada, ou memória descritiva que permita uma correta análise do percurso, indicando de forma clara as vias abrangidas, as localidades e os horários prováveis de passagem nas mesmas, bem como o sentido de marcha;
+
+b) Regulamento da prova que estabeleça as normas a que a mesma deve obedecer;
+
+c) Parecer das forças policiais que superintendam no território a percorrer;
+
+d) Parecer do Instituto de Estradas de Portugal no caso de utilização de vias regionais ou nacionais;
+
+e) Parecer da Federação ou Associação Desportiva respetiva, que pode ser sob a forma de visto no regulamento da prova.
+
+3 - No caso de a prova se iniciar no Município de Vila Nova de Famalicão e se desenvolver no território de outro ou outros municípios, o Presidente da Câmara deve solicitar também às restantes autarquias em cujo território a mesma se desenvolva, a aprovação do respetivo percurso.
+
+4 - As câmaras municipais consultadas dispõem de quinze dias para se pronunciar por escrito sobre o percurso pretendido, presumindo-se como indeferimento a ausência de resposta.
+
+5 - Caso a prova desenvolva o seu percurso em apenas um distrito, o parecer referido na alínea c) do n.º 2 é solicitado ao Comando de Polícia da PSP e ao Comando da Brigada Territorial da GNR.
+
+6 - Caso a prova desenvolva o seu percurso em mais do que um distrito, o parecer referido na alínea c) do n.º 2 é solicitado à Direção Nacional da PSP e ao Comando Geral da GNR.
+
+###### Artigo 425.º — Emissão da licença
+
+1 - A licença deve ser concedida pelo prazo solicitado, dela devendo constar, designadamente, o tipo de evento, o local ou percurso, a hora de realização da prova, bem como quaisquer condições que tenham sido definidas ou impostas no licenciamento.
+
+2 - A licença deve ser emitida mediante apresentação de comprovativo de estar segura a responsabilidade civil e os acidentes pessoais.
+
+###### Artigo 426.º — Comunicações
+
+Do conteúdo da licença deve ser dado conhecimento às forças policiais competentes.
+
+### CAPÍTULO VI — Proteção de pessoas e bens
+
+###### Artigo 427.º — Princípio geral
+
+Nos termos da legislação aplicável, para garantia de pessoas e bens, é obrigatório promover a proteção e a cobertura ou resguardo das seguintes atividades e situações:
+
+a) Poço, fendas e outras irregularidades existentes em qualquer terreno e suscetíveis de originar queda desastrosa a pessoas ou animais;
+
+b) Mecanismos e engrenagens quando colocados à borda de poços, fendas e outras irregularidades no solo ou de fácil acesso.
+
+###### Artigo 428.º — Notificação para execução de cobertura ou resguardo
+
+Detetada qualquer infração pela qual se considere responsável aquele que explora ou utiliza seja a que título for, o prédio onde se encontra o poço, fosso, fenda ou irregularidade no solo, a Câmara Municipal deve notificar o responsável para cumprir com o legalmente previsto, fixando prazo para a conclusão dos trabalhos de cobertura e resguardo que atenda ao princípio da proporcionalidade.
+
+###### Artigo 429.º — Propriedades muradas ou vedadas
+
+O disposto no presente capítulo não se aplica às propriedades muradas ou eficazmente vedadas.
+
+## TÍTULO VIII — Controlo Metrológico
+
+### CAPÍTULO I — Disposições Gerais
+
+###### Artigo 430.º — Âmbito de aplicação
+
+1 - O presente Título visa disciplinar a atuação do Município no âmbito do controlo metrológico.
+
+2 - Encontram-se sujeitos ao controlo metrológico todos os instrumentos de medição cujo uso seja obrigatório e se encontrem autorizados por portaria ou despacho do Instituto Português da Qualidade ou declaração CE, verificação CE ou verificação CE por unidade.
+
+###### Artigo 431.º — Situações abrangidas
+
+O controlo metrológico dos instrumentos de medição, objeto deste Código, é obrigatório nas situações seguintes:
+
+a) Início de atividade do utilizador ou proprietário dos instrumentos de medição;
+
+b) Aquisição de instrumentos novos ou usados;
+
+c) Instrumentos que tenham sido objeto de reparação;
+
+d) Instrumentos cujas marcações tenham, por qualquer motivo, sido ou ficado inutilizadas;
+
+e) Instrumentos cuja verificação periódica, no ano em causa, não tenha sido executada até ao dia trinta de novembro;
+
+f) Instrumentos cuja verificação caducou;
+
+g) Quando os regulamentos específicos da categoria do instrumento de medição assim o determinem.
+
+###### Artigo 432.º — Primeira verificação
+
+1 - O adquirente de qualquer instrumento de medição novo deve, no ato de compra, assegurar-se que aquele já possui a primeira verificação ou verificação CE, mediante solicitação da exibição do documento comprovativo da respetiva operação de controlo metrológico.
+
+2 - O utilizador ou proprietário dos instrumentos de medição deve requerer, após cada reparação, nova verificação dos mesmos, a qual é considerada primeira verificação e sujeita a cobrança da taxa respetiva.
+
+###### Artigo 433.º — Verificação periódica
+
+A verificação periódica destina-se a comprovar se os instrumentos de medição mantêm a qualidade metrológica dentro das tolerâncias admissíveis permitidas por lei relativamente ao modelo respetivo, devendo ser requerida pelo utilizador do instrumento de medição e executada todos os anos civis até ao dia 30 de novembro do ano a que respeita.
+
+###### Artigo 434.º — Verificação extraordinária
+
+A requerimento de qualquer interessado ou ainda por iniciativa dos diversos serviços de fiscalização, quando assim o entendam necessário, pode ser efetuada a verificação de qualquer instrumento de medição a fim de se constatar se aquele permanece nas condições legais e regulamentares, sendo devida a respetiva taxa, ainda que o instrumento de medição seja rejeitado.
+
+###### Artigo 435.º — Manutenção das condições de verificação
+
+Todas as entidades abrangidas pelo presente Título são obrigadas a manter em bom estado de funcionamento os respetivos instrumentos de medição nas condições em que foram verificados, admitindo-se apenas os desgastes provenientes do uso, mantendo os documentos comprovativos do controlo metrológico junto dos mesmos e colocar à disposição dos técnicos do Serviço de Metrologia os meios materiais e humanos indispensáveis à operação de controlo metrológico.
+
+### CAPÍTULO II — Alteração de condição
+
+###### Artigo 436.º — Alteração de titular
+
+1 - Os instrumentos de medição devem apenas ser usados pelos respetivos proprietários e utilizadores.
+
+2 - Em caso de transmissão do direito de propriedade, do direito de posse ou cedência de uso do instrumento de medição, a qualquer título, o novo proprietário ou utilizador deve solicitar ao Município o respetivo averbamento em seu nome, não sendo necessária nova verificação se, nesse ano, a mesma já tiver ocorrido.
+
+###### Artigo 437.º — Cancelamento de instrumento
+
+Em caso da suspensão de utilização de qualquer instrumento de medição, o respetivo utilizador ou proprietário deve comunicar este facto ao Município, para efeitos de atualização do respetivo registo, mediante o preenchimento de modelo de requerimento disponível no serviço municipal que assegura o atendimento ao público ou no sítio institucional da Câmara Municipal.
+
+### CAPÍTULO III — Disposições especiais
+
+###### Artigo 438.º — Inutilização das marcas de verificação
+
+Sempre que, por qualquer motivo, as marcas de verificação apostas nos instrumentos de medição fiquem inutilizadas, tem de ser requerida, pelo respetivo utilizador ou proprietário, nova verificação, mediante pagamento da respetiva taxa.
+
+###### Artigo 439.º — Requerimento
+
+A verificação metrológica deve ser requerida pelos respetivos interessados com pelo menos quinze dias de antecedência, através do requerimento de modelo próprio e nos termos do Livro I.
+
+###### Artigo 440.º — Local da verificação metrológica
+
+1 - A operação de controlo metrológico pode ser efetuada nos locais seguintes:
+
+a) No próprio local de funcionamento do Serviço Municipal de Metrologia do Município ou em qualquer entidade devidamente qualificada e habilitada por lei para o efeito, transportando o utilizador ou proprietário os instrumentos respetivos para verificação até ao local da verificação, sendo apenas cobrada a respetiva taxa de serviço;
+
+b) No próprio local onde se encontrem os instrumentos de medição a verificar, deslocando-se o técnico aferidor àquele, sendo, nesse caso, cobrada a taxa de serviço e a taxa da deslocação respetiva.
+
+2 - Todas as massas (pesos) têm obrigatoriamente de ser verificadas no próprio laboratório do Município ou das entidades referidas na alínea a) do número anterior, devendo o seu utilizador ou proprietário transporta-los a esse local.
+
+###### Artigo 441.º — Documentos
+
+1 - Todos os utilizadores ou proprietários abrangidos por este Título são obrigados a apresentar, sempre que lhes forem exigidos, os documentos de primeira verificação, verificação periódica, verificação extraordinária ou verificação CE, os quais devem encontrar-se no local onde estão a ser utilizados, os instrumentos de medição.
+
+2 - Devem ser ainda exibidos aos técnicos aferidores, quando estes os solicitarem, os documentos seguintes:
+
+a) Cartão de Identificação Fiscal;
+
+b) Declaração de início de atividade autenticada pela Repartição de Finanças;
+
+c) Licença do estabelecimento comercial, industrial ou de serviços;
+
+d) Licença ou cartão de vendedor ambulante/feirante;
+
+e) Documento comprovativo de aquisição do instrumento de medição.
+
+###### Artigo 442.º — Resultado da verificação
+
+1 - A operação de controlo metrológico pode ter os resultados seguintes:
+
+a) O instrumento verificado encontra-se nas condições regulamentares estabelecidas por lei e nele é aposto o respetivo símbolo de verificação metrológica efetuada;
+
+b) O instrumento verificado que não seja do tipo autorizado, que ultrapasse as tolerâncias admissíveis previstas nos diplomas respetivos ou que esteja em mau estado de conservação é marcado com o símbolo X, correspondente a rejeitado.
+
+2 - Quando o instrumento verificado ultrapasse os erros máximos admissíveis ou se encontre em mau estado de conservação, o respetivo utilizador ou proprietário deve proceder à respetiva reparação ou substituição caso seja necessário e requerer o controlo metrológico, nos seguintes termos:
+
+a) Na situação de reparação, deve ser requerida uma primeira verificação;
+
+b) Na situação de substituição, deve ser requerida uma verificação periódica.
+
+3 - Entende-se que está em mau estado de conservação o instrumento de medição que não se encontre nas condições estabelecidas por lei, cujas marcas de verificação se encontrem inutilizadas, que lhe falte qualquer parte constituinte ou se encontre defeituoso ou ainda aquele cuja utilização possa ter como resultado uma medição ou pesagem incorretas, pondo em risco o direito do consumidor ou tornando-o impróprio para os fins específicos a que se destinam.
+
+4 - Após a reparação o técnico aferidor pode rejeitar de novo o instrumento, sucessivamente, até o mesmo se encontrar nas condições legais e regulamentares.
+
+5 - Devem ser levantados autos de notícia, a remeter à entidade competente para aplicação da coima, a todos os utilizadores ou proprietários cujos instrumentos de medição sejam encontrados em uso com o símbolo X ou sem verificação metrológica desse ano após a data limite de 30 de novembro, assim como a quem tenha em utilização, instrumentos de medição de modelo não aprovado.
+
+###### Artigo 443.º — Deveres gerais dos técnicos municipais responsáveis pelo controlo metrológico
+
+1 - No desempenho das suas funções os técnicos municipais responsáveis pela realização do controlo metrológico devem, agir com todo o zelo e diligência necessários à função, tratando com urbanidade as pessoas a quem se dirigem.
+
+2 - Na operação de controlo metrológico, os técnicos municipais estão obrigados a proceder de acordo com todas as normas técnicas especiais definidas pelo Instituto Português da Qualidade que ao caso se aplicam, bem como pugnar pela estrita observância do presente Título e demais disposições legais.
+
+3 - Os técnicos municipais sempre que se dirijam a um estabelecimento para proceder ao controlo metrológico e, por qualquer motivo, não possa ser efetuada essa operação, devem deixar naquele um aviso informando da necessidade de requerer a verificação em causa.
+
+4 - Os técnicos municipais, após a operação de controlo metrológico, devem emitir documento comprovativo e respetiva selagem, referente ao tipo de verificação.
+
+## LIVRO V — Fiscalização e sanção de infrações
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 444.º — Objeto e âmbito de aplicação
+
+1 - O presente Livro reúne as disposições aplicáveis em matéria de fiscalização e sancionamento dos ilícitos decorrentes do incumprimento do presente Código Regulamentar.
+
+2 - O disposto no presente Livro não prejudica a possibilidade da existência de outras disposições sobre a matéria, de fonte legal ou regulamentar.
+
+###### Artigo 445.º — Fiscalização
+
+1 - Salvo expressa disposição em contrário, a fiscalização do cumprimento do disposto no presente Código Regulamentar incumbe ao Município, sem prejuízo das competências legalmente atribuídas às autoridades policiais e administrativas.
+
+2 - Para efeitos do cumprimento das funções de fiscalização que resultam do disposto no presente Código Regulamentar, as entidades sujeitas a fiscalização devem prestar ao Município toda a colaboração que lhes for solicitada.
+
+3 - Sempre que os funcionários municipais, no exercício das suas funções, detetem a existência de infrações ao disposto no presente Código Regulamentar devem dar imediato conhecimento das mesmas às autoridades competentes.
+
+###### Artigo 446.º — Contraordenações
+
+1 - Sem prejuízo de responsabilidade civil, criminal ou disciplinar, o incumprimento das disposições do Código Regulamentar constitui contraordenação punível com coimas e sanções acessórias, nos termos definidos no presente Livro.
+
+2 - As molduras previstas no presente Código Regulamentar são aplicadas em dobro às pessoas coletivas, salvo disposição expressa em contrário.
+
+3 - Dentro da moldura prevista, a concreta medida das coimas a aplicar é determinada em função da gravidade da infração, da culpa, da situação económica do infrator, bem como do benefício económico, da conduta anterior e posterior do agente e das exigências de prevenção.
+
+4 - A tentativa e a negligência são puníveis.
+
+5 - O pagamento das coimas previstas no presente Código Regulamentar não dispensa os infratores do dever de reposição da legalidade.
+
+6 - Os casos de violação ao disposto no presente Código Regulamentar não identificados no Capítulo III constituem contraordenação punível com a coima prevista no artigo 17.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, e respetivas alterações, se outra não se encontrar especialmente prevista.
+
+###### Artigo 447.º — Unidade de conta municipal
+
+1 - Salvo nos casos em que tais montantes sejam diretamente fixados por lei, os montantes das sanções pecuniárias são previstos por referência a uma unidade de conta municipal, anualmente atualizada com respeito pelo limite previsto no n.º 2 do artigo 55.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de janeiro.
+
+2 - O valor da unidade de conta municipal é de 5,00(euro) (cinco euros).
+
+### CAPÍTULO II — Medidas de Tutela da Legalidade
+
+###### Artigo 448.º — Embargo
+
+1 - Sem prejuízo das competências atribuídas por lei a outras entidades, o presidente da Câmara Municipal é competente para embargar quaisquer atividades promovidas:
+
+a) Sem a necessária licença;
+
+b) Em desconformidade com as condições do licenciamento;
+
+c) Em violação das normas legais e regulamentares aplicáveis.
+
+2 - A notificação do embargo é feita a quem esteja a promover a atividade ilegal, sendo suficiente para obrigar à sua suspensão.
+
+3 - Após o embargo, é de imediato lavrado o respetivo auto, que contém, obrigatória e expressamente, a identificação do funcionário municipal, das testemunhas e do notificado, a data, a hora e o local da diligência e as razões de facto e de direito que a justificam, bem como as cominações legais do seu incumprimento.
+
+4 - O auto é redigido em duplicado e assinado pelo funcionário e pelo notificado, ficando o duplicado na posse deste.
+
+5 - No caso de a ordem de embargo ser parcial, o auto faz expressa menção desse facto identificando claramente o seu objeto.
+
+6 - No caso de a atividade ilegal estar a ser promovida por pessoa coletiva, o embargo e o respetivo auto são ainda remetidos para a respetiva sede social ou representação em território nacional.
+
+###### Artigo 449.º — Efeitos do embargo
+
+1 - O embargo obriga à suspensão imediata, no todo ou em parte, da atividade ilegal.
+
+2 - Tratando-se de atividade licenciada o embargo determina também a suspensão da eficácia da respetiva licença.
+
+###### Artigo 450.º — Caducidade do embargo
+
+1 - A ordem de embargo caduca logo que for proferida uma decisão que defina a situação jurídica da atividade com carácter definitivo ou no termo do prazo que tiver sido fixado para o efeito.
+
+2 - Na falta de fixação de prazo para o efeito, a ordem de embargo caduca se não for proferida uma decisão definitiva no prazo de seis meses, prorrogável uma única vez por igual período.
+
+###### Artigo 451.º — Remoção
+
+1 - Sem prejuízo das normas específicas consagradas neste Código Regulamentar, verificando-se a ocupação do espaço público, para qualquer fim, sem licença, em desconformidade com as condições da licença, em caso de caducidade ou revogação de qualquer ato de autorização, ou do termo do período de tempo a que respeita a merca comunicação prévia ou comunicação prévia com prazo, o promotor da utilização ou o proprietário dos equipamentos é notificado para remover todos os bens utilizados no prazo de cinco dias, contados da data da notificação.
+
+2 - No caso de incumprimento do disposto no número anterior, ou quando a utilização indevida ponha em causa a segurança de pessoas e bens ou outro interesse público cuja salvaguarda imponha uma atuação urgente, a Câmara Municipal deve remover e apreender imediatamente o equipamento que se encontre a ocupar o espaço público.
+
+3 - A responsabilidade pelas despesas com a remoção prevista no número anterior incumbe solidariamente a quem promove a utilização ilegal do espaço público, ao proprietário do equipamento removido ou a quem vier junto do Município reclamar quaisquer direitos sobre ele.
+
+4 - A remoção prevista no n.º 2 não atribui ao proprietário do equipamento qualquer direito a indemnização, por parte do Município, por perda, danos ou deterioração do material removido.
+
+5 - Uma vez apreendido o equipamento, nos termos do disposto no n.º 2, o Município notifica o seu proprietário para no prazo de cinco dias levantar os bens removidos e pagar as despesas de remoção e as taxas de armazenamento.
+
+6 - Sempre que o promotor da utilização ou o proprietário dos equipamentos, identificado nos termos do número anterior, não proceda ao levantamento dos bens ou ao pagamento das quantias aí referidas, ou quando não seja possível identificar o proprietário do equipamento, o material apreendido considera-se abandonado a favor do Município, podendo proceder-se à sua alienação.
+
+###### Artigo 452.º — Trabalhos de correção
+
+1 - O presidente da Câmara Municipal pode ordenar a realização de trabalhos de correção ou alteração, fixando um prazo para o efeito, tendo em conta a sua natureza e grau de complexidade.
+
+2 - O prazo referido no número anterior interrompe-se com a apresentação de pedido de alteração à licença.
+
+###### Artigo 453.º — Cessação da utilização
+
+1 - O presidente da Câmara Municipal pode ordenar a cessação da utilização ilegal quando esteja a ser promovida:
+
+a) Sem licenciamento;
+
+b) Em desconformidade com as condições da licença;
+
+c) Em violação das disposições do presente Código.
+
+2 - Quando os infratores não cessem a atividade no prazo fixado para o efeito, pode a Câmara Municipal executar coercivamente a cessação da utilização.
+
+###### Artigo 454.º — Demolição ou reposição da situação
+
+1 - O presidente da Câmara Municipal pode ordenar a demolição total ou parcial da obra ou a reposição da situação no estado anterior, fixando um prazo para o efeito.
+
+2 - A demolição pode ser evitada se a obra for suscetível de ser licenciada ou se for possível assegurar a sua conformidade com as disposições legais e regulamentares que lhe são aplicáveis mediante a realização de trabalhos de correção ou de alteração.
+
+3 - A ordem de demolição ou de reposição a que se refere o n.º 1 é antecedida de audição do interessado, que dispõe de 15 dias a contar da data da sua notificação para se pronunciar sobre o conteúdo da mesma.
+
+###### Artigo 455.º — Execução coerciva e posse administrativa
+
+1 - Decorrido o prazo fixado para a execução voluntária da medida de tutela ordenada sem que esta se mostre cumprida, o presidente da Câmara Municipal determina a sua execução coerciva por conta do infrator.
+
+2 - O presidente da Câmara pode determinar a posse administrativa por forma a permitir a execução coerciva.
+
+3 - O ato administrativo que tiver determinado a posse administrativa é notificado ao infrator e, quando aplicável, aos demais titulares de direitos reais sobre o imóvel por carta registada com aviso de receção.
+
+4 - A posse administrativa é realizada pelos funcionários municipais responsáveis pela fiscalização de obras, mediante a elaboração de auto.
+
+5 - A execução coerciva de uma ordem de embargo é efetuada através da selagem do local.
+
+6 - Em casos devidamente justificados, o presidente da Câmara pode autorizar a transferência ou a retirada dos equipamentos do local, notificando o infrator do local onde estes sejam depositados.
+
+7 - A posse administrativa ou a selagem mantêm-se pelo período necessário à execução coerciva da respetiva medida de tutela da legalidade, caducando no termo do prazo fixado para a mesma.
+
+###### Artigo 456.º — Despesas realizadas com a execução coerciva
+
+1 - As quantias relativas às despesas realizadas nos termos do artigo anterior, incluindo quaisquer indemnizações ou sanções pecuniárias que o Município tenha de suportar para o efeito, devem ser imputáveis ao infrator.
+
+2 - Quando aquelas quantias não sejam pagas voluntariamente no prazo de 20 dias a contar da notificação são cobradas em processo de execução fiscal.
+
+### CAPÍTULO III — Contraordenações
+
+#### SECÇÃO I — Disposições Gerais
+
+###### Artigo 457.º — Disposições comuns
+
+1 - É punível como contraordenação a prática dos seguintes atos:
+
+a) A não comunicação ao Município de todos os dados relevantes, designadamente a alteração da sua residência ou sede ou, quando se trate de uma sociedade comercial, de todos os factos dos quais resulte modificação da estrutura societária;
+
+b) A não reposição da situação existente no local, quando o titular provoque a deterioração da via pública ou de outros espaços públicos;
+
+c) A permissão a terceiros, a título temporário ou definitivo, do exercício da atividade licenciada, sem prévia autorização do Município;
+
+d) A ausência de comunicação da alteração do titular da licença dentro do prazo referido no n.º 2 do artigo 21.º do Código Regulamentar.
+
+e) A prática de qualquer facto previsto e regulado no presente Código Regulamentar e para o qual não esteja especialmente prevista coima nas secções seguintes
+
+2 - As contraordenações previstas nas alíneas a), c), d) e e) do número anterior são puníveis com coima de 90,00(euro) a 1.600,00(euro)
+
+3 - A contraordenação prevista na alínea b) do n.º 1 é punível com coima de 800,00(euro) a 1.600,00(euro).
+
+#### SECÇÃO II — Urbanismo
+
+###### Artigo 458.º — Edificação, toponímia e numeração de prédios
+
+1 - São puníveis como contraordenações a prática dos seguintes atos:
+
+a) As infrações ao Título I do Livro II;
+
+b) A não apresentação na Câmara Municipal da cópia do projeto de execução de arquitetura e das várias especialidades, nos termos do n.º 4 do artigo 80.º do RJUE, no prazo de 60 dias a contar do início dos trabalhos relativos às operações urbanísticas, salvo justificação relevante, apresentada pelo promotor ou técnico.
+
+c) A não deposição das placas nos serviços próprios da Câmara Municipal, nos casos em que se verifique necessidade de proceder à sua retirada por motivo de demolição dos prédios ou das fachadas;
+
+d) A não colocação dos números de polícia atribuídos ou alterados, no prazo de 30 dias contados da data em que o Município intimou a sua aposição ao proprietário ou promotor da obra;
+
+e) A não conservação da tabuleta com o número de obra até à colocação dos números de polícia atribuídos;
+
+f) A não colocação dos números de polícia no centro das padieiras ou das bandeiras das portas ou, quando estas não existam, na primeira ombreira segundo a ordem da numeração;
+
+g) A afixação de números ou caracteres em desconformidade com o previsto no presente Código Regulamentar;
+
+h) A violação do dever de conservação e limpeza;
+
+i) A alteração da numeração sem prévia autorização.
+
+2 - A contraordenação prevista nas alíneas a), b) e c) do número anterior é punível com coima de 100,00(euro) a 3.750,00(euro) no caso de pessoas singulares e até 25.000,00(euro) no caso de pessoas coletivas.
+
+3 - As contraordenações previstas nas alíneas d) a i) do n.º 1 do presente artigo são puníveis com coima de 400,00(euro) a 1.200,00(euro).
+
+#### SECÇÃO III — Gestão do espaço público
+
+###### Artigo 459.º — Trânsito e estacionamento
+
+1 - Constituem contraordenações, puníveis com coima, as seguintes infrações:
+
+a) O atravessamento de bermas ou passeios fora de zonas de acesso ao interior de propriedades identificadas;
+
+b) A promoção de atividades que danifiquem ou inutilizem os sinais e equipamentos de trânsito e as placas de toponímia;
+
+c) O anúncio, venda, aluguer ou reparação de veículos na via pública;
+
+d) A promoção de atividades que causem sujidade ou obstrução da via pública;
+
+e) A ocupação de passeios com volumes ou mercadorias que impeçam a circulação pedonal de forma segura;
+
+f) A falta de exibição da ordem judicial, policial ou administrativa que impeça a mobilização de veículo indevidamente estacionado;
+
+g) O estacionamento, em zonas de estacionamento de duração limitada, sem exibição de forma visível do título comprovativo do pagamento da taxa ou da sua isenção, nos termos definidos no Código Regulamentar;
+
+h) O estacionamento, em zonas de estacionamento de duração limitada, por tempo superior ao permitido ou sem o pagamento da taxa fixada nos termos do presente Código Regulamentar;
+
+i) O estacionamento de veículo que não fique completamente contido dentro do espaço que lhe é destinado, quando devidamente assinalado;
+
+j) O estacionamento de veículos de classe ou tipo diferente daquele para o qual o lugar tenha sido reservado;
+
+k) O estacionamento de veículos, nos lugares de estacionamento privativo e nas zonas de estacionamento de duração limitada, de categorias diferentes daquelas a que os mesmos estão afetos;
+
+l) O estacionamento de automóveis pesados, nos parques e zonas de estacionamento de duração limitada, utilizados em transporte público, quando não estejam em serviço;
+
+m) O estacionamento de veículos pesados de mercadorias e de pesados de passageiros, fora dos locais designados para esse efeito;
+
+n) O estacionamento de veículos que não estejam em serviço de carga e descarga de materiais procedentes de obras ou a elas destinadas, junto dos passeios onde por motivo de obras tenham sido colocados tapumes;
+
+o) A ocupação da via e outros lugares públicos com quaisquer objetos destinados a reservar lugar para estacionamento de veículos ou a impedir o seu estacionamento;
+
+p) O estacionamento de veículos em parques de estacionamento municipais, fora dos espaços a esse fim destinados ou no lugar de outro utente;
+
+q) A colocação na via pública de lugares privativos sem licença municipal;
+
+r) O estacionamento de veículos nos parques e zonas de duração limitada, destinados à venda de quaisquer artigos ou a publicidade de qualquer natureza;
+
+s) A circulação de veículos que, pelas suas características, risquem ou danifiquem por qualquer modo o pavimento;
+
+t) Violação às restrições à circulação previstas no presente Código Regulamentar;
+
+u) O desbloqueamento de veículo, em violação do disposto no Código Regulamentar.
+
+2 - As contraordenações previstas nas alíneas a) a f), h), l) a o) do n.º 1 são puníveis com coima de 30,00(euro) a 150,00(euro).
+
+3 - A contraordenação prevista na alínea g) do número anterior é punível com coima de 15,00(euro) a 75,00(euro).
+
+4 - As contraordenações previstas nas alíneas i) e j) do n.º 1 são puníveis com coima de 60,00(euro) a 300,00(euro).
+
+5 - A contraordenação prevista na alínea p) do n.º 1 é punida com coima de 180,00(euro) a 300,00(euro).
+
+6 - A contraordenação prevista na alínea q) do n.º 1 é punida com coima de 100,00(euro) a 300,00(euro).
+
+7 - As contraordenações previstas na alínea r) do n.º 1 são punidas com coima de 500,00(euro) a 4.000,00(euro).
+
+8 - A contraordenação prevista na alínea s) do n.º 1 é punida com:
+
+a) Coima mínima igual ao dobro da taxa da licença em falta, sendo o valor máximo igual ao quádruplo do valor desta, sem prejuízo dos limites máximos legalmente impostos;
+
+b) Sanção acessória de remoção do lugar privativo, correndo as respetivas despesas por conta dos responsáveis
+
+9 - A contraordenação prevista nas alíneas t) a v) do n.º 1 é punida com coima de 500,00(euro) a 1.500,00(euro).
+
+###### Artigo 460.º — Ocupação do domínio público com cargas e descargas
+
+1 - Constitui contraordenação a realização de operações de cargas e descargas de mercadorias:
+
+a) Em segunda fila ou de outra forma que prejudique ou impeça a normal utilização do espaço público;
+
+b) Dentro das zonas de acesso condicionado, conforme indicação no respetivo título do presente Código Regulamentar, fora dos horários autorizados e indicados na sinalização existente no local;
+
+2 - Às contraordenações previstas no número anterior são aplicáveis as seguintes coimas:
+
+a) 150,00(euro) a 500,00(euro) no caso da alíneas a);
+
+b) 60,00(euro) a 300,00(euro) no caso da alínea b).
+
+3 - Sem prejuízo da coima aplicada nos termos do disposto nas alíneas anteriores, é ainda obrigatório o pagamento da taxa de bloqueamento, remoção e depósito do veículo, sempre que tenha ocorrido o respetivo facto.
+
+###### Artigo 461.º — Obras na via pública
+
+1 - Constituem contraordenações, puníveis com coima, as seguintes infrações:
+
+a) A execução de obras na via pública por qualquer entidade, serviço ou particular sem o necessário alvará de autorização ou licenciamento salvo no caso de obras urgentes;
+
+b) A execução de obras na via pública por qualquer entidade, serviço ou particular, em desacordo com as condições impostas no licenciamento;
+
+c) A falta de comunicação por escrito dentro do prazo estabelecido das intervenções isentas de licenciamento;
+
+d) A falta de comunicação do início da obra com carácter urgente;
+
+e) A não colocação da placa identificadora da obra com a identificação do titular de alvará de autorização ou licença, identificação do tipo de obra, bem como a data de início e da conclusão da obra;
+
+f) A não colocação da placa com a identificação da entidade, serviço ou particular titular do alvará de autorização ou licenciamento, no caso de obras urgentes ou de pequena dimensão em passeios;
+
+g) A falta de sinalização das obras de acordo com os preceitos referentes às obras na via pública deste Código Regulamentar;
+
+h) A inobservância das medidas de segurança previstas no Código Regulamentar;
+
+i) O início de trabalhos no domínio público municipal, sem o respetivo aviso prévio, nunca inferior a 5 dias e do qual conste o plano de trabalhos, o nome do adjudicatário e o técnico responsável pela obra;
+
+j) A execução de trabalhos fora das horas normais de serviço sem pedido escrito de acompanhamento dos mesmos pela entidade, serviço ou particular, com a antecedência de cinco dias úteis;
+
+k) A falta de limpeza do local da obra e a manufatura de betões e argamassas, de qualquer tipo, executada diretamente sobre o pavimento;
+
+l) A falta de comunicação ao Município da ocorrência de anomalias na realização da obra, designadamente, a interceção ou rotura de infraestruturas, a interrupção dos trabalhos ou o reinício dos mesmos;
+
+m) O incumprimento do prazo fixado pela Câmara Municipal, para reposição do pavimento levantado;
+
+n) A falta de comunicação ao Município da conclusão dos trabalhos;
+
+o) O prosseguimento das obras em violação da ordem de embargo;
+
+p) A não apresentação do pedido de fiscalização das obras fora do horário normal de trabalho com uma antecedência mínima de cinco dias.
+
+2 - As contraordenações previstas nas alíneas a), c), e), f), h) e k) do número anterior são puníveis com coima de 800,00(euro) a 1.600,00(euro).
+
+3 - As contraordenações previstas nas restantes alíneas do n.º 1 são puníveis com coima de 400,00(euro) a 1.200,00(euro).
+
+###### Artigo 462.º — Ocupação da via pública
+
+As demais violações às regras previstas neste Código para a utilização do domínio público e não expressamente especificadas em qualquer norma do presente Livro são punidas com a coima mínima igual ao triplo do valor das taxas da licença respetiva e de valor máximo igual ao quíntuplo desta, sem prejuízo dos limites máximos legalmente impostos.
+
+###### Artigo 463.º — Ocupação espaço público e publicidade comercial
+
+Sem prejuízo da punição pela prática de crime de falsas declarações e do disposto noutras disposições legais, constituem contraordenação:
+
+a) A emissão de uma declaração a atestar o cumprimento das obrigações legais e regulamentares, ao abrigo do disposto na alínea d), do n.º 3, do artigo 12.º do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, que não corresponda à verdade, punível com coima de 500,00(euro) a 3.500,00(euro), tratando-se de uma pessoa singular, ou de 1.500,00(euro) a 25.000,00(euro), no caso de se tratar de uma pessoa coletiva;
+
+b) A não realização das comunicações prévias previstas nos artigos 216.º e 217.ºpunível com coima de 350.00(euro) a 2500,00(euro) tratando-se de uma pessoa singular, ou de 1.000,00(euro) a 7.500,00(euro) no caso de se tratar de uma pessoa coletiva;
+
+c) A falta, não suprida em 10 dias após notificação eletrónica, de algum elemento essencial da mera comunicação prévia prevista nos artigos 216.º e 217.º, punível com coima de 200,00(euro) a 1.000,00(euro) tratando -se de uma pessoa singular, ou de 500,00(euro) a 2.500,00(euro), no caso de se tratar de uma pessoa coletiva;
+
+d) A não atualização dos dados e a falta da comunicação de encerramento do estabelecimento previstas nos artigos 218.º e 219.º, punível com coima de 150,00(euro) a 750,00(euro), tratando-se de uma pessoa singular, ou de 400,00(euro) a 2.000,00(euro), no caso de se tratar de uma pessoa coletiva;
+
+e) O cumprimento fora do prazo do disposto no artigo 218.º, punível com coima de 50,00(euro) a 250,00(euro) tratando -se de uma pessoa singular, ou de 200,00(euro) a 1.000,00(euro) no caso de se tratar de uma pessoa coletiva;
+
+f) A ocupação do espaço público, bem como a afixação, inscrição ou difusão de mensagens publicitárias sem licença municipal, punível com coima de 350,00(euro) a 4.500,00(euro) tratando -se de uma pessoa singular, ou de 350,00(euro) a 2.5000,00(euro) no caso de se tratar de uma pessoa coletiva;
+
+g) A ocupação do espaço público sem exibição, em local visível, do original ou fotocópia do respetivo alvará de licença, punível com coima de 50,00(euro) a 250,00(euro) tratando -se de uma pessoa singular, ou de 200,00(euro) a 1.000,00(euro) no caso de se tratar de uma pessoa coletiva;
+
+h) A instalação de suporte publicitário destinado exclusivamente a esse fim sem que no mesmo seja fixada ou gravada, em local visível, informação referente ao alvará de licença e seu titular conforme previsto no artigo 241.º, n.º 2, alínea c), punível com coima de 50,00(euro) a 300,00(euro) tratando -se de uma pessoa singular, ou de 200,00(euro) a 1.500,00(euro) no caso de se tratar de uma pessoa coletiva;
+
+i) A alteração de elemento ou demarcação do mobiliário urbano ou suporte publicitário aprovados, punível com coima de 250,00(euro) a 4.500,00(euro) tratando -se de uma pessoa singular, ou de 350,00(euro) a 25.000,00(euro) no caso de se tratar de uma pessoa coletiva;
+
+j) A transmissão da licença a outrem não autorizada, bem como a cedência de utilização do espaço licenciado, ainda que temporariamente, punível com coima de 350,00(euro) a 2500,00(euro) tratando-se de uma pessoa singular, ou de 500,00(euro) a 25.000,00(euro) no caso de se tratar de uma pessoa coletiva;
+
+k) O incumprimento dos deveres previstos nos artigos 472.º e 475.º, punível com coima de 250,00(euro) a 2.500,00(euro) tratando-se de uma pessoa singular, ou de 350,00(euro) a 10.000,00(euro) no caso de se tratar de uma pessoa coletiva;
+
+l) A falta de conservação e manutenção do mobiliário urbano, suportes publicitários e demais equipamentos, punível com coima de 100,00(euro) a 1.500,00(euro) tratando-se de uma pessoa singular, ou de 250,00(euro) a 2.500,00(euro) no caso de se tratar de uma pessoa coletiva;
+
+m) A afixação ou inscrição de propaganda que provoque obstrução de perspetivas panorâmicas ou afete a estética ou o ambiente dos lugares ou paisagem, punível com coima de 250,00(euro) a 2.500,00(euro) tratando-se de uma pessoa singular, ou de 250,00(euro) a 5.000,00(euro) no caso de se tratar de uma pessoa coletiva;
+
+n) A afixação ou inscrição de propaganda que prejudique a beleza ou o enquadramento de monumentos nacionais, de edifícios de interesse público ou municipal, punível com coima de 250,00(euro) a 2.500,00(euro) tratando-se de uma pessoa singular, ou de 250,00(euro) a 5.000,00(euro) no caso de se tratar de uma pessoa coletiva;
+
+o) A afixação ou inscrição de propaganda que afete a segurança das pessoas ou das coisas, nomeadamente na circulação rodoviária ou ferroviária, punível com coima de 250,00(euro) a 500,00(euro) tratando -se de uma pessoa singular, ou de 500,00(euro) a 1.5000,00(euro) no caso de se tratar de uma pessoa coletiva;
+
+p) A afixação ou inscrição de propaganda que prejudique a circulação dos peões, designadamente dos deficientes, punível com coima de 250,00(euro) a 500,00(euro) tratando-se de uma pessoa singular, ou de 500,00(euro) a 15.000,00(euro), no caso de se tratar de uma pessoa coletiva.
+
+#### SECÇÃO IV — Intervenção sobre o exercício de atividades privadas
+
+###### Artigo 464.º — Horários de funcionamento de estabelecimentos
+
+1 - Constituem contraordenações, puníveis com coima, as seguintes infrações:
+
+a) A falta de mera comunicação prévia do horário de funcionamento;
+
+b) A falta de mera comunicação prévia da alteração do horário de funcionamento;
+
+c) A falta de afixação, em local visível do exterior, do respetivo mapa de horário de funcionamento;
+
+d) O funcionamento do estabelecimento fora do horário estabelecido
+
+2 - A contraordenação prevista nas alíneas a), b) e c) do número anterior é punível com coima graduada entre 150,00(euro) a 450,00(euro), para as pessoas singulares, e de 450,00(euro) a 1.500,00(euro), para pessoas coletivas.
+
+3 - A contraordenação prevista na alínea d) do número anterior é punível com coima graduada de 250,00(euro) a 3.740,00(euro), para pessoas singulares e de 2.500,00(euro) a 25.000,00(euro) para pessoas coletivas.
+
+###### Artigo 465.º — Alojamento local
+
+1 - Sem prejuízo das demais legalmente previstas, constituem contraordenações puníveis com coima as seguintes infrações:
+
+a) A não exibição no estabelecimento, de forma visível, da cópia do registo;
+
+b) A não apresentação do pedido de averbamento da alteração de um dos elementos constantes do alvará, dentro do prazo de 30 dias;
+
+c) A oferta de alojamento ou a permissão de acesso a um número de utentes superior à respetiva capacidade;
+
+d) O deficiente funcionamento das estruturas, instalações e equipamento dos estabelecimentos;
+
+e) A utilização de designações iguais ou por qualquer forma semelhantes a outros estabelecimentos já existentes ou em relação aos quais já tenha sido requerido o licenciamento, que possam induzir em erro ou ser suscetíveis de confusão;
+
+f) A indicação na publicidade, correspondência ou documentação do estabelecimento de características que o estabelecimento não possui ou ausência de referência à tipologia aprovada;
+
+g) O encerramento temporário dos estabelecimentos sem prévia comunicação ao Município;
+
+h) A ausência de informação em língua inglesa.
+
+2 - A contra ordenação prevista na alínea c) do número anterior é punível com coima de 75,00(euro) a 1.200,00(euro)
+
+3 - As contraordenações previstas nas alíneas a), b), e) e g) do n.º 1 são puníveis com coima de 200,00(euro) a 1.600,00(euro).
+
+4 - As contra ordenações previstas nas alíneas d), f) e h), do n.º 1 são puníveis com coima de 400,00(euro) a 4.000,00(euro).
+
+5 - Quando praticadas por pessoas coletivas, as coimas previstas para as presentes infrações são elevadas para os montantes máximos previstos no Regime Geral das Contra Ordenações.
+
+###### Artigo 466.º — Sanções acessórias em matéria de alojamento local
+
+1 - Quando a gravidade da infração e culpa do agente o justifiquem, podem ser aplicadas as seguintes sanções acessórias:
+
+a) Apreensão do material através do qual se praticou a infração;
+
+b) Suspensão, por um período até dois anos, do exercício de atividade;
+
+c) Encerramento do estabelecimento.
+
+2 - A aplicação das sanções acessórias de interdição e de encerramento do estabelecimento implicam a cassação do respetivo alvará.
+
+###### Artigo 467.º — Venda ambulante
+
+1 - Constituem contraordenações, puníveis com coima, as seguintes infrações:
+
+a) A transmissão da licença de vendedor ambulante;
+
+b) A subconcessão da licença de vendedor ambulante ou o exercício da atividade por intermédio de terceiros, fora dos casos excecionalmente previstos;
+
+c) A não ocupação do lugar concessionado nos 10 dias subsequentes à data da sua atribuição;
+
+d) O exercício da venda ambulante sem licença e cartão de vendedor ambulante, ou com o mesmo caducado;
+
+e) Não se fazer acompanhar do cartão de vendedor ambulante, ou a não exibição imediata ao agente fiscalizador quando devidamente solicitado;
+
+f) A renovação do cartão de vendedor ambulante fora do prazo previsto para esse efeito;
+
+g) O exercício da venda ambulante em desconformidade com o horário estipulado;
+
+h) A não remoção de roulotes, atrelados, triciclos ou unidades similares após o termo da sua utilização;
+
+i) O exercício da venda ambulante por intermédio de sociedades ou seus mandatários;
+
+j) A venda por grosso;
+
+k) O exercício da venda ambulante em local fixo, sem licença;
+
+l) O exercício da venda ambulante em desconformidade com os deveres ou proibições estatuídas no Código Regulamentar;
+
+m) A venda de produtos proibidos;
+
+n) A utilização de tabuleiros em desconformidade com as disposições contidas no Código Regulamentar;
+
+o) A falta de manutenção, exposição ou arrumação dos locais de venda, em rigoroso estado de asseio e higiene, facilmente laváveis, e a falta de afixação em lugar bem visível ao público da indicação do nome e número de cartão do respetivo vendedor;
+
+p) A ocupação dos locais de venda, para além do período autorizado;
+
+q) A ocupação, com qualquer tipo de objetos, do espaço público para além do autorizado;
+
+r) A violação dos deveres de vendedor ambulante;
+
+s) O transporte, exposição e arrumação, em unidades amovíveis, de artigos, em desconformidade com os preceitos legalmente aplicáveis;
+
+t) A embalagem e rotulagem de produtos alimentares em material que não tenha sido autorizado ou em violação da legislação aplicável;
+
+u) A venda de produtos alimentares em viaturas automóveis ou atrelados, fora dos locais autorizados;
+
+v) O exercício ou auxílio de venda ambulante em roulotes, por pessoa não inscrita nos serviços municipais;
+
+w) A venda de castanhas, gelados, pipocas ou algodão doce fora dos locais permitidos;
+
+x) A utilização de unidades não aprovadas para a venda de castanhas ou gelados;
+
+y) A venda de flores, velas e produtos afins, fora dos locais autorizados;
+
+2 - As contraordenações previstas nas alíneas c), e), f), g), k), n), q), r), v) x) e y) do número anterior são puníveis com coimas de 50,00(euro) a 120,00(euro).
+
+3 - As contraordenações previstas nas alíneas a), d), l), m), o), p), s), t) e u) do n.º 1 são puníveis com coimas de 100,00(euro) a 400,00(euro).
+
+4 - As contraordenações previstas nas restantes alíneas n.º 1 são puníveis com coimas de 800,00(euro) a 1.800,00(euro).
+
+###### Artigo 468.º — Sanções acessórias em matéria de venda ambulante
+
+1 - Quando a gravidade da infração e a culpa do agente o justifiquem, podem ser aplicadas as seguintes sanções acessórias:
+
+a) Apreensão e perda dos artigos para venda a favor do Município, nomeadamente dos equipamentos onde se incluem os veículos automóveis, unidades móveis, mercadorias e outros produtos com os quais se praticou ou tentou praticar a infração;
+
+b) Suspensão até 30 dias da atividade de vendedor ambulante;
+
+c) Interdição, por um período até dois anos, do exercício da atividade de vendedor ambulante na área do Município;
+
+d) Cancelamento definitivo da licença de venda.
+
+2 - Nos termos da alínea a) do número anterior, é efetuada a apreensão dos bens a favor do Município nas seguintes situações:
+
+a) Exercício da atividade da venda ambulante sem a necessária autorização ou fora dos locais autorizados para esses efeitos;
+
+b) Venda, exposição ou simples detenção para venda de artigos ou mercadorias proibidas na atividade de venda ambulante;
+
+c) Exercício da atividade junto de estabelecimentos escolares do ensino básico e secundário, sempre que a mesma se relacione com a venda de bebidas alcoólicas;
+
+d) Sempre que os instrumentos, veículos e mercadorias representem perigo para a comunidade ou possam contribuir para a prática de um crime ou contraordenação.
+
+3 - Sem prejuízo do referido nos números anteriores, devem ser apreendidos os bens que tenham sido utilizados na infração a este Código, cujo utilizador seja desconhecido, revertendo a favor do município decorridos que sejam 30 dias após a sua apreensão, se o detentor ou proprietário não reclamar, entretanto, a sua posse.
+
+###### Artigo 469.º — Regime de apreensão
+
+1 - A apreensão de bens deve ser acompanhada do correspondente auto de apreensão.
+
+2 - Quando o infrator proceda ao pagamento voluntário das quantias da sua responsabilidade até à fase da decisão do processo de contraordenação, pode, querendo, no prazo de dez dias levantar os bens apreendidos;
+
+3 - Decorrido o prazo referido no número anterior, os bens apenas podem ser levantados após a fase de decisão do processo de contraordenação;
+
+4 - Quando os bens apreendidos sejam perecíveis, deve observar-se o seguinte:
+
+a) Encontrando-se em boas condições higio-sanitárias, deve ser-lhes dado o destino mais conveniente, por decisão da entidade apreensora, nomeadamente a doação a instituições de solidariedade social ou cantinas escolares;
+
+b) Encontrando-se em estado de deterioração, são destruídos.
+
+5 - Após a fase de decisão do processo de contraordenação e respetiva notificação, os infratores dispõem de dois dias para proceder ao levantamento dos bens apreendidos.
+
+6 - Decorrido o prazo a que se refere o número anterior sem que os bens apreendidos tenham sido levantados, aplica-se o disposto na alínea a) do n.º 4.
+
+7 - Se a decisão final determinar que os bens apreendidos revertem a favor do Município, deve proceder-se de acordo com o disposto no número anterior.
+
+###### Artigo 470.º — Máquinas de diversão
+
+1 - Constituem contraordenação as seguintes infrações:
+
+a) Exploração de máquinas sem registo;
+
+b) Falsificação do título de registo ou do título de licenciamento;
+
+c) Exploração de máquinas sem que sejam acompanhadas do original ou fotocópia autenticada do título de registo, do titulo de licenciamento ou dos documentos previsto nos números 4 e 6 do artigo 22.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro;
+
+d) Desconformidade com os elementos constantes do título de registo por falta de averbamento de novo proprietário;
+
+e) Exploração de máquinas sem que o respetivo tema ou circuito de jogo tenha sido classificado pela Inspeção-Geral de Jogos;
+
+f) Exploração de máquinas sem licença ou com licença de exploração caducada;
+
+g) Exploração de máquinas de diversão em recinto ou estabelecimento diferente daquele para que foram licenciadas ou fora dos locais autorizados;
+
+h) Exploração de máquinas em número superior ao permitido;
+
+i) Falta da comunicação legalmente prevista;
+
+j) Utilização de máquinas de diversão por pessoas com idade inferior à estabelecida;
+
+k) Falta ou afixação indevida da inscrição ou dístico referido no n.º 2 do artigo 25.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, bem como a omissão de qualquer dos seus elementos.
+
+2 - A contraordenação prevista na alínea a) do número anterior é punida com coima de 1.500,00(euro) a 2.500,00(euro) por cada máquina;
+
+3 - A contraordenação prevista na alínea b) do n.º 1 é punida com coima de 1.500,00(euro) a 2.500,00(euro);
+
+4 - A contraordenação prevista na alínea c) do n.º 1 é punida com coima de 120,00(euro) a 200,00(euro) por cada máquina;
+
+5 - A contraordenação prevista na alínea d) do n.º 1 é punida com coima de 120,00(euro) a 500,00(euro) por cada máquina;
+
+6 - A contraordenação prevista na alínea e) do n.º 1 é punida com coima de 500,00(euro) a 750,00(euro) por cada máquina;
+
+7 - A contraordenação prevista na alínea f) do n.º 1 é punida com coima de 1.000,00(euro) a 2.500,00(euro) por cada máquina;
+
+8 - A contraordenação prevista na alínea g) do n.º 1 é punida com coima de 270,00(euro) a 1.000(euro) por cada máquina;
+
+9 - A contraordenação prevista na alínea h) do n.º 1 é punida com coima de 270,00(euro) a 1.200,00(euro) por cada máquina, e, acessoriamente, atenta a gravidade e frequência da infração, com apreensão e perda das mesmas a favor do Estado;
+
+10 - A contraordenação prevista na alínea i) do n.º 1 é punida com coima de 250,00(euro) a 1.200,00(euro) por cada máquina;
+
+11 - A contraordenação prevista na alínea j) do n.º 1 é punida com coima de 500,00(euro) a 2.500,00(euro);
+
+12 - A contraordenação prevista na alínea k) do n.º 1 é punida com coima de 270,00(euro) a 1.200,00(euro) por cada máquina.
+
+###### Artigo 471.º — Arrumadores de automóveis
+
+1 - Constitui contraordenação o exercício da atividade de arrumador de automóveis.
+
+2 - A contraordenação prevista no número anterior é punida com coima de 60,00(euro) a 300,00(euro).
+
+3 - A coima aplicada nos termos do n.º 2 pode ser substituída, a requerimento do condenado, pela prestação de trabalho a favor da comunidade, nos termos previstos no regime geral sobre ilícito de mera ordenação social.
+
+#### SECÇÃO V — Taxas e outras receitas municipais
+
+###### Artigo 472.º — Taxas e outras receitas municipais
+
+1 - Constituem contraordenações:
+
+a) A prática de ato ou facto sem o prévio pagamento das taxas e outras receitas municipais, salvo nos casos expressamente permitidos;
+
+b) A inexatidão ou falsidade dos elementos fornecidos pelos interessados para liquidação das taxas e outras receitas municipais.
+
+c) A não prestação da informação tributária solicitada e necessária à cobrança e liquidação das taxas municipais.
+
+2 - Nos casos previstos na alínea a) do número anterior, aplicam-se as coimas previstas para a falta de licenciamento, podendo haver ainda lugar à remoção da situação ilícita.
+
+3 - No caso previsto na alínea b) do n.º 1, os montantes mínimo e máximo da coima são, respetivamente, de 60,00(euro) a 500,00(euro).
+
+4 - A infração prevista na alínea c) do n.º 1 é punida com coima de 500,00(euro) a 4.000,00(euro) para as pessoas singulares e de 5.000,00(euro) a 40.000,00(euro) para as pessoas coletivas.
+
+## LIVRO VI — Disposições finais
+
+###### Artigo 473.º — Legislação subsidiária
+
+1 - Nos domínios não contemplados no presente Código são aplicáveis as normas do Código de Procedimento Administrativo e os princípios gerais de Direito Administrativo.
+
+2 - O disposto no presente Código é aplicável sem prejuízo das disposições legais que especificamente regulem as mesmas matérias e sem prejuízo do que, para aspetos particulares, se disponha em regulamentos especiais do Município.
+
+3 - As referências efetuadas no presente Código a leis específicas são automaticamente atualizadas sempre que tais leis sejam objeto de alteração ou revogação.
+
+###### Artigo 474.º — Norma revogatória
+
+1 - São revogadas todas as disposições regulamentares anteriormente emanadas pelo Município sobre as matérias a que se reporta o presente Código, nomeadamente em sede de urbanização e edificação, toponímia, trânsito, publicidade, horários de funcionamento, espetáculos e divertimentos públicos, transporte público de aluguer em veículos automóveis ligeiros de passageiros, venda ambulante, e atividades várias.
+
+2 - Consideram-se ainda revogadas todas as disposições regulamentares que contrariem as disposições do presente Código.
+
+###### Artigo 475.º — Revisão
+
+Sem prejuízo do princípio da regulamentação dinâmica o presente Código é objeto de um procedimento formal de revisão global com periocidade trianual
+
+###### Artigo 476.º — Entrada em vigor
+
+O presente Código entra em vigor 30 dias após a sua publicação.
+
+## ANEXO I — (conforme referido no artigo 32.º)
+
+Os valores de K1 traduzem-se na seguinte tabela:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/07/138000000/2537025430.pdf)
+
+Os valores de K2 traduzem-se na planta anexa e na seguinte tabela:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/07/138000000/2537025430.pdf)
+
+Os valores de K3 traduzem-se na seguinte tabela:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/07/138000000/2537025430.pdf)
+
+Os valores de P traduzem-se na seguinte tabela (resultam da deliberação de 09.05.2007):
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/07/138000000/2537025430.pdf)
+
+## ANEXO II — (conforme referido no artigo 32.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/07/138000000/2537025430.pdf)
+
+206235294

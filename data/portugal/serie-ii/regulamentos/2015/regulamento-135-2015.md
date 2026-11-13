@@ -1,0 +1,1917 @@
+---
+schema_version: '1.0'
+id: pt:dre:66810434:por
+title: Regulamento n.º 135/2015
+short_title: null
+summary: Regulamento Municipal de Abastecimento de Água e Drenagem de Águas Residuais do Município de Ponta Delgada
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Ponta Delgada
+proposing_entity: null
+official_number: 135/2015
+official_date: null
+publication_date: '2015-03-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 56/2015, Série II de 2015-03-20
+  number: '56'
+  series: II
+  supplement: null
+  pages: 7025 - 7043
+  pdf_url: https://files.diariodarepublica.pt/2s/2015/03/056000000/0702507043.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '66810434'
+  dre_path: /dr/detalhe/regulamento/135-2015-66810434
+  internal: pt:dre:66810434:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/135-2015-66810434
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/135-2015-66810434
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:49:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 257c17b53e9826c6584f90fe962642f6d30fd86f8f3a57853f6337b6d81be886
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:49:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:174825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+article_structure:
+  article_count: 115
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:49:20Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 135/2015
+
+Regulamento Municipal de Abastecimento de Água e Drenagem de Águas Residuais do Município de Ponta Delgada
+
+José Manuel Dias Bolieiro, Presidente da Câmara Municipal de Ponta Delgada, torna público que, por deliberação tomada pela Assembleia Municipal de Ponta Delgada, na sua sessão de 27 de fevereiro de 2015, foi aprovado o Regulamento Municipal de Abastecimento de Água e Drenagem de Águas Residuais do Município de Ponta Delgada.
+
+16 de março de 2015. - O Presidente da Câmara, José Manuel Dias Bolieiro.
+
+Nota justificativa
+
+O [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de agosto, o [Decreto Legislativo Regional n.º 18/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2009-482859), de 19 de outubro, a Portaria da Secretaria Regional do Ambiente e do Mar n.º 93/2011 de 28 de novembro vieram impor a adequação do Regulamento Municipal de Abastecimento de Água e de Águas Residuais, atendendo especialmente às exigências de funcionamento dos Serviços Municipalizados do Município de Ponta Delgada (SMASPDL), às condicionantes técnicas no exercício da sua atividade e às necessidades dos utilizadores.
+
+Este Regulamento Municipal tem como legislação habilitante, o artigo 241.º da Constituição da República Portuguesa, a [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023) - Lei que estabelece o regime jurídico das autarquias locais, de 12 de setembro, Lei da Água, n.º 58/2005, de 19 de dezembro e demais legislação complementar, o [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de maio, o Decreto Legislativo Regional 18/2009-A, de 19 de outubro, o [Decreto-Lei n.º 152/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1997-365343), de 19 de junho, [Decreto Regulamentar n.º 23/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1995-431873), de 23 de agosto, [Decreto-Lei n.º 306/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2007-640931), de 27 de agosto, a [Lei n.º 23/96](https://diariodarepublica.pt/dr/detalhe/lei/23-1996-408366), de 26 de julho e respetivas alterações, o artigo 21.º da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528) - Regime Financeiro das Autarquias Locais, de 03 de setembro, com respeito pela exigência constante da [Lei n.º 50/2012](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), de 31 de agosto, e do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682) de 16 de dezembro, na sua versão atual.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Legislação habilitante
+
+O presente Regulamento tem suporte legal no [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de agosto, na Portaria n.º 93/2011, de 28 de novembro, e no [Decreto Regulamentar n.º 23/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1995-431873), de 23 agosto, conjugado com a alínea d) do artigo 14.º, e alíneas a) do n.º 3, do artigo 21.º, ambas da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 23 setembro, com respeito pelas exigências constantes da [Lei n.º 23/96](https://diariodarepublica.pt/dr/detalhe/lei/23-1996-408366), de 26 de julho e da [Lei n.º 50/2012](https://diariodarepublica.pt/dr/detalhe/lei/50-2012-174825), de 31 de agosto.
+
+###### Artigo 2.º — Objeto
+
+O presente Regulamento tem por objeto estabelecer:
+
+1 - As regras do serviço público de abastecimento de água aos diferentes tipos de utilizadores no município de Ponta Delgada, onde os sistemas públicos e prediais de distribuição de água, construídos ou a construir e sua interligação e utilização, devem garantir o seu bom funcionamento global, preservando-se a segurança, a saúde pública e o conforto dos utentes.
+
+2 - As regras e as condições a que devem obedecer os sistemas públicos e prediais de drenagem de águas residuais, na área do município de Ponta Delgada e a sua interligação e sua utilização, nomeadamente quanto às condições administrativas e técnicas da recolha, drenagem e tratamento das águas residuais e à manutenção e utilização das redes públicas e prediais, de forma que seja assegurado o seu bom funcionamento global, preservando-se a segurança, a saúde pública e o conforto dos utentes.
+
+###### Artigo 3.º — Âmbito de aplicação
+
+O presente Regulamento aplica-se a toda a área de atuação dos SMASPDL e às atividades de conceção, projeto, construção e exploração dos sistemas públicos e prediais de abastecimento de água e de saneamento de águas residuais urbanas.
+
+###### Artigo 4.º — Legislação aplicável
+
+1 - Em tudo quanto for omisso neste Regulamento, são aplicáveis as disposições legais em vigor respeitantes aos sistemas públicos e prediais de distribuição de água e de águas residuais, designadamente, as constantes do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de agosto, do [Decreto Regulamentar n.º 23/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1995-431873), de 23 de agosto, e do [Decreto-Lei n.º 306/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2007-640931), de 27 de agosto.
+
+2 - A conceção e o dimensionamento das redes de distribuição pública de água e das redes de distribuição interior, dimensionamento dos sistemas públicos e prediais de drenagem de águas residuais e residuais pluviais, bem como a apresentação dos projetos, execução das respetivas obras e sua fiscalização, devem cumprir integralmente o estipulado nas disposições legais em vigor, designadamente as do [Decreto Regulamentar n.º 23/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1995-431873), de 23 de agosto.
+
+3 - Os projetos, a instalação, a localização, o diâmetro nominal e outros aspetos relativos à instalação dos dispositivos destinados à utilização de água para combate aos incêndios em edifícios de habitação e estabelecimentos hoteleiros e similares estão sujeitos às disposições legais em vigor, designadamente, no [Decreto-Lei n.º 39/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), de 7 de março, alterado pelo [Decreto-Lei n.º 228/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771), de 14 de setembro, e no [Decreto-Lei n.º 220/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2008-439866), de 12 de novembro.
+
+4 - O fornecimento de água e a drenagem de águas residuais assegurados no concelho de Ponta Delgada obedecem às regras de prestação de serviços públicos essenciais destinadas à proteção dos utilizadores que estejam consignadas na legislação em vigor, designadamente, as constantes da [Lei n.º 23/96](https://diariodarepublica.pt/dr/detalhe/lei/23-1996-408366), de 26 de julho, da [Lei n.º 24/96](https://diariodarepublica.pt/dr/detalhe/lei/24-1996-406882), de 31 de julho, do [Decreto-Lei n.º 195/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1999-311254), de 8 de julho, e do Despacho n.º 4186/2000 (2.ª série), de 22 de fevereiro, com todas as alterações que lhes sejam introduzidas.
+
+5 - A qualidade da água destinada ao consumo humano fornecida pelas redes de distribuição pública de água aos utilizadores obedece às disposições legais em vigor, designadamente as do [Decreto-Lei n.º 306/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2007-640931), de 27 de agosto.
+
+6 - [Decreto Legislativo Regional n.º 18/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2009-482859), de 19 de outubro, no que respeita aos sistemas de drenagem pública de águas residuais que descarreguem nos meios aquáticos e à descarga de águas residuais industriais em sistemas de drenagem.
+
+7 - Em matéria de procedimento contraordenacional, são aplicáveis, para além das normas especiais, estatuídas no Capítulo IX do presente Regulamento e no [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de agosto, as constantes do Regime Geral das Contraordenações e Coimas ([Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na redação em vigor.
+
+###### Artigo 5.º — Definições
+
+1 - Para efeitos do presente Regulamento em matéria de abastecimento de água, consideram-se as seguintes definições:
+
+a) Entidade Gestora - Entidade a quem compete a gestão dos sistemas de distribuição pública de água e de drenagem de águas residuais, nos termos estabelecidos na legislação aplicável, adiante designada por EG;
+
+b) SMASPDL - Serviços Municipalizados de Água e Saneamento do Município de Ponta Delgada;
+
+c) ERSARA - Entidade Reguladora dos Serviços de Águas e Resíduos dos Açores;
+
+d) Contrato - Documento celebrado entre a EG e qualquer pessoa, singular ou coletiva, pública ou privada, pelo qual é estabelecida entre as partes uma relação de prestação, por tempo indeterminado ou temporário, do serviço nos termos e condições do presente Regulamento;
+
+e) Estrutura tarifária - Conjunto de valores unitários e outros parâmetros e regras de cálculo que permitam determinar o montante exato a pagar pelo utilizador à EG em contrapartida do serviço prestado;
+
+f) Tarifa - Valor ou conjunto de valores unitários aplicáveis em função do nível de utilização, em cada intervalo temporal, visando remunerar a EG pelos custos incorridos com a prestação do serviço. Será determinada através da soma das parcelas do produto do volume consumido por cada escalão, com parâmetros definidos, pelo preço unitário respetivo;
+
+g) Serviços auxiliares - Os serviços prestados que pela sua natureza, nomeadamente pelo facto de serem prestados pontualmente por solicitação do utilizador ou de terceiro, ou de resultarem de incumprimento contratual por parte do utilizador, devem ser objeto de faturação específica;
+
+h) Obras de alteração - Obras de que resulte a modificação das características físicas de uma edificação existente ou sua fração, designadamente a respetiva estrutura resistente, o número de fogos ou divisões interiores, ou a natureza e cor dos materiais de revestimento exterior, sem aumento da área de pavimento ou de implantação ou da cércea;
+
+i) Obras de ampliação - Obras de que resulte o aumento da área de pavimento ou de implantação, da cércea ou do volume de uma edificação existente;
+
+j) Obras de conservação - Obras destinadas a manter uma edificação nas condições existentes à data da sua construção, reconstrução, ampliação ou alteração, designadamente as obras de restauro, reparação ou limpeza;
+
+k) Obras de construção - Obras de criação de novas edificações;
+
+l) Obras de reconstrução: Obras de construção subsequentes à demolição total ou parcial de uma edificação existente, das quais resulte a reconstituição da cércea e do número de pisos;
+
+m) Inspeção - Atividade conduzida por trabalhadores da EG, ou por esta acreditados, que visa verificar se estão a ser cumpridas todas as obrigações decorrentes do presente Regulamento, sendo em regra, elaborado um relatório escrito da mesma, ficando os resultados registados de forma a permitir aos SMASPDL avaliar a operacionalidade das infraestruturas e tomar medidas corretivas apropriadas;
+
+n) Titular do contrato - Qualquer pessoa individual ou coletiva, pública ou privada, que celebra com a EG um contrato, também designada na legislação aplicável em vigor por utilizador ou utilizadores;
+
+o) Utilizadores - Pessoas singulares ou coletivas, públicas ou privadas, a quem sejam assegurados de forma continuada serviços de águas e saneamento e que não tenham como objeto da sua atividade a prestação desses mesmos serviços a terceiros;
+
+p) Utilizadores domésticos - Aqueles que utilizem o fornecimento de água para fins habitacionais e os condomínios maioritariamente constituídos por utilizadores domésticos;
+
+q) Utilizadores não-domésticos - Aqueles que utilizem o fornecimento de água para fins não habitacionais e os condomínios maioritariamente constituídos por utilizadores não-domésticos. Os consumos não-domésticos dividem-se nas seguintes categorias:
+
+i) Comércio e serviços - Abrange as unidades comerciais, restauração e hotelaria e similares;
+
+ii) Indústria;
+
+iii) Navegação - Abrange as atividades portuárias;
+
+iv) Agrícola - Abrange os prédios rústicos ou mistos cuja atividade é a agricultura e ou a pecuária;
+
+v) Obras - Abrange todas as intervenções de construção civil legalmente autorizadas e para as quais seja necessário o fornecimento de água durante o período da intervenção;
+
+vi) Associações e Instituições sociais sem fins lucrativos - Abrange todas as instituições legalmente constituídas, com sede na área do município, cujos estatutos as integrem nesta categoria;
+
+vii) Estado - Administração Central e Regional;
+
+viii) Administração Local;
+
+r) Água destinada ao consumo humano - Toda a água no seu estado original, ou após tratamento, destinada a ser bebida, a cozinhar, a preparação de alimentos, a higiene pessoal ou a outros fins domésticos, independentemente da sua origem e de ser fornecida a partir de uma rede de distribuição.
+
+Toda a água utilizada numa empresa da indústria alimentar para fabrico, transformação, conservação ou comercialização de produtos ou substâncias destinadas ao consumo humano, assim como a utilizada na limpeza de superfícies, objetos e materiais que podem estar em contacto com os alimentos, exceto quando a utilização dessa água não afeta a salubridade do género alimentício na sua forma acabada;
+
+s) Contador - Instrumento concebido para medir, totalizar e indicar o volume, nas condições da medição, da água que passa através do transdutor de medição;
+
+t) Ramal de ligação de água - Troço de canalização destinado ao serviço de abastecimento de um prédio compreendido entre a rede pública em que estiver inserido e o limite da propriedade a alimentar;
+
+u) Reservatórios públicos - Unidades de reserva que fazem parte dos sistemas de abastecimento de água para consumo humano e têm como finalidade armazenar água, servir de volante de regularização, constituir reserva para assegurar a distribuição e equilibrar as pressões na rede, cuja exploração é da exclusiva responsabilidade da EG;
+
+v) Inspeção - Atividade conduzida por trabalhadores da EG, ou por esta acreditados, que visa verificar se estão a ser cumpridas todas as obrigações decorrentes do presente Regulamento, sendo em regra, elaborado um relatório escrito da mesma, ficando os resultados registados de forma a permitir aos SMASPDL avaliar a operacionalidade das infraestruturas e tomar medidas corretivas apropriadas;
+
+w) Rede ou sistema predial de distribuição de água - Conjunto de dispositivos sanitários e canalizações existentes no interior do prédio, até ao ramal de ligação, também designado por instalação interior ou rede predial de distribuição;
+
+x) Sistema público de abastecimento de água ou rede pública - sistema de canalizações, órgãos e equipamentos, destinados à captação, tratamento e distribuição de água para consumo humano, instalado, em regra, na via pública, em terrenos da EG ou em outros, cuja ocupação seja do interesse público, incluindo os ramais de ligação às redes prediais;
+
+y) Águas residuais pluviais - Águas que resultam da precipitação, originadas quer em áreas urbanas quer em áreas industriais e apresentam geralmente menores quantidades de matéria poluente, particularmente de origem orgânica. Consideram-se equiparadas a águas residuais pluviais as provenientes de regas de jardim e espaços verdes, de lavagem de arruamentos, passeios, pátios e parques de estacionamento, normalmente recolhidas por sarjetas, sumidouros e ralos;
+
+z) Águas residuais domésticas - Águas de instalações residenciais provenientes de instalações sanitárias, cozinhas e zonas de lavagem de roupas e caracterizam-se por conterem quantidades apreciáveis de matéria orgânica, serem facilmente biodegradáveis e manterem relativa constância das suas características no tempo;
+
+aa) Águas residuais industriais - Águas que sejam suscetíveis de descarga em coletores municipais e que resultem especificamente das atividades que não sejam de origem doméstica;
+
+ab) Águas residuais urbanas - Águas residuais domésticas ou águas resultantes da mistura destas com águas residuais industriais e ou com águas residuais pluviais;
+
+ac) Câmara de ramal de ligação - Dispositivo através do qual se estabelece a ligação entre o sistema predial e o respetivo ramal, devendo localizar-se junto ao limite da propriedade e em zonas de fácil acesso e cabendo a responsabilidade pela respetiva manutenção à EG quando localizada na via pública ou aos utilizadores nas situações em que a câmara de ramal ainda se situa no interior da propriedade privada;
+
+ad) Pré-tratamento das águas residuais - Processo, a cargo do utilizador, destinado à redução da carga poluente, à redução ou eliminação de certos poluentes específicos, ou à regularização de caudais, de forma a tornar essas águas residuais aptas a serem rejeitadas nos sistemas públicos de drenagem;
+
+ae) Ramal de ligação de águas residuais pluviais - Ligação entre a rede de águas residuais pluviais do prédio até à a valeta ou linha de água do arruamento sob o passeio;
+
+af) Ramal de ligação de águas residuais domésticas - Ligação entre o sistema predial de drenagem e a rede pública de drenagem de águas residuais domésticas, constituído pela câmara de ramal de ligação, situada na via pública junto ao prédio, e pelo tubo de ligação à rede pública;
+
+ag) Sistemas públicos de drenagem de águas residuais ou rede pública - Sistemas de canalizações, órgãos e equipamentos destinados à recolha, transporte e destino final adequado das águas residuais, em condições que permitam garantir a qualidade do meio recetor, instalado, em regra, na via pública, em terrenos da EG, ou em outros, cuja ocupação seja do interesse público, incluindo ramais de ligação às redes prediais, classificados em:
+
+i) Mistos - Sistemas constituídos pela conjugação dos dois tipos anteriores em que parte da rede de coletores funciona como sistema unitário e a restante como sistema separativo;
+
+ii) Separativos - Sistemas constituídos por duas redes de coletores distintas, uma destinada às águas residuais domésticas e industriais e outra à drenagem das águas residuais pluviais ou similares;
+
+iii) Unitários - Sistemas constituídos por uma única rede de coletores onde são admitidas conjuntamente as águas residuais domésticas, industriais e residuais pluviais;
+
+ah) Sistema predial de drenagem de águas residuais - Conjunto de instalações e equipamentos privativos de determinado prédio, destinados à evacuação das águas residuais. Integram o sistema predial as instalações e equipamentos existentes no prédio, até ao limite da propriedade, abrangendo designadamente os aparelhos sanitários, sifões, ramais de descarga, tubos de queda e rede de ventilação. Também designado por rede predial de drenagem de águas residuais.
+
+###### Artigo 6.º — Simbologia e unidades
+
+1 - A simbologia dos sistemas públicos e prediais a utilizar, enquanto não for aprovada a respetiva normalização portuguesa, é a indicada nos anexos I, II, III, e XIII do [Decreto Regulamentar n.º 23/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1995-431873), de 23 de agosto.
+
+2 - As unidades em que são expressas as diversas grandezas devem observar a legislação portuguesa.
+
+###### Artigo 7.º — Normas técnicas
+
+A conceção, o projeto, a construção e a exploração do sistema público e dos sistemas prediais referidos no presente Regulamento, em tudo o que não contrarie o disposto no [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de agosto, obedecem às normas técnicas constantes do [Decreto Regulamentar n.º 23/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1995-431873), de 23 de agosto, até à aprovação do Decreto Regulamentar previsto no artigo 74.º daquele decreto-lei.
+
+###### Artigo 8.º — Entidade titular e entidade gestora - Suas competências
+
+1 - O município de Ponta Delgada é a entidade titular do sistema municipal de fornecimento de água e do serviço de águas residuais no território do município.
+
+2 - Na área do município de Ponta Delgada a EG do fornecimento de água e do serviço de águas residuais são os SMASPDL.
+
+3 - À EG compete a conceção, projeto, construção e exploração dos sistemas públicos de distribuição de água e de águas residuais domésticas, bem como a verificação e a fiscalização dos sistemas prediais, designadamente:
+
+a) Promover a elaboração de um plano geral de distribuição de água e de recolha de águas residuais;
+
+b) Providenciar a elaboração dos estudos e projetos dos sistemas públicos;
+
+c) Promover o estabelecimento e manter em bom estado de funcionamento e conservação os sistemas públicos de distribuição de água e de drenagem de águas residuais domésticas;
+
+d) Submeter os componentes dos sistemas de distribuição de água e de drenagem de águas residuais, antes de entrarem em serviço, a ensaios que assegurem a perfeição do trabalho executado;
+
+e) Garantir que a água distribuída para consumo doméstico, em qualquer momento, possua as características que a definam como água potável, tal como são fixadas na legislação em vigor;
+
+f) Garantir a continuidade do serviço, exceto por razões de obras programadas, ou em casos fortuitos em que devem ser tomadas medidas imediatas para resolver a situação;
+
+g) Tomar as medidas necessárias para evitar danos nos sistemas prediais resultantes de pressão excessiva ou variação brusca de pressão na rede pública de distribuição de água;
+
+h) Promover a instalação, substituição ou renovação dos ramais de ligação aos sistemas;
+
+i) Definir, para a recolha de águas residuais industriais, os parâmetros de poluição aceitáveis pelo sistema.
+
+###### Artigo 9.º — Princípios gerais
+
+Serviços municipais de abastecimento público de água e de drenagem de águas residuais domésticas são prestados de acordo com os seguintes princípios:
+
+a) Da universalidade e da igualdade no acesso;
+
+b) Da garantia da qualidade do serviço e da proteção dos interesses dos utilizadores;
+
+c) Da transparência na prestação dos serviços;
+
+d) Da proteção da saúde pública e do ambiente;
+
+e) Da garantia da eficiência e melhoria contínua na utilização dos recursos afetos, respondendo à evolução das exigências técnicas e às melhores técnicas ambientais disponíveis;
+
+f) Da promoção da qualidade de vida das populações, do correto ordenamento do território e do desenvolvimento regional;
+
+g) Os sistemas públicos de abastecimento de água e de drenagem de águas residuais domésticas terão a sua sustentabilidade económico-financeira garantida pela conjugação de um sistema tarifário progressivo, compatível com a capacidade económica e financeira dos utilizadores, que tendencialmente garanta um crescente grau de cobertura dos custos, apoiado na cobertura do eventual défice pelo orçamento municipal, tendo em consideração as suas atribuições no princípio da autonomia da entidade titular.
+
+###### Artigo 10.º — Notificações
+
+1 - As comunicações aos interessados, previstas neste regulamento, são notificadas pessoalmente ou por via postal de correio registado simples, ou via eletrónica, que atesta a deposição das notificações ao utilizador.
+
+2 - A notificação considera-se efetuada na data em que for assinado o protocolo no caso de notificação presencial ou aviso de registo se a notificação for efetuada por via postal.
+
+3 - No caso do registo ser devolvido e não se comprovar que o utilizador comunicou à EG a alteração do seu domicílio fiscal, a notificação é efetuada nos 15 dias seguintes à devolução, por nova carta registada, presumindo-se feita a notificação se a carta não tiver sido recebida, sem prejuízo de o notificando poder provar justo impedimento ou a impossibilidade de comunicação da mudança de residência no prazo legal.
+
+4 - No caso de recusa de recebimento a notificação presume-se feita nessa data.
+
+### CAPÍTULO II — Deveres e direitos
+
+###### Artigo 11.º — Deveres da entidade gestora
+
+1 - Promover a elaboração de um plano geral de distribuição de água e do sistema público de drenagem de águas residuais domésticas.
+
+2 - Providenciar a elaboração dos estudos e projetos dos sistemas públicos.
+
+3 - Promover o estabelecimento e manter em bom estado de funcionamento e de conservação os sistemas públicos de distribuição de água e os sistemas de drenagem, tratamento e destino final de águas residuais domésticas, bem como o tratamento e destino final das lamas provenientes das estações de tratamento de águas residuais (ETAR) à sua responsabilidade.
+
+4 - Submeter os componentes dos sistemas de distribuição de água e de drenagem de águas residuais domésticas, antes de entrarem em serviço, a ensaios e vistorias que assegurem a perfeição do trabalho executado.
+
+5 - Garantir que a água distribuída para consumo doméstico, em qualquer momento, possua as características que a definam como água potável, tal como são fixadas na legislação em vigor.
+
+6 - Fornecer, de forma contínua e eficiente, e prioritariamente para utilização doméstica, água nas condições constantes da legislação em vigor, estabelecendo os devidos contratos de fornecimento de água, salvo casos excecionais expressamente previstos neste Regulamento e na legislação em vigor.
+
+7 - Recolher e transportar a destino adequado as águas residuais domésticas produzidas pelos utilizadores, assim como as lamas das fossas séticas existentes na sua área de intervenção.
+
+8 - Fornecer, instalar e manter em condições de utilização os contadores, a válvula a montante e os filtros de proteção aos mesmos.
+
+9 - Assumir a responsabilidade da elaboração dos estudos e projetos necessários à implantação do sistema público de distribuição de água e de drenagem de águas residuais de acordo com a legislação em vigor.
+
+10 - Promover o estabelecimento e manter em bom estado de funcionamento e conservação os sistemas públicos de distribuição de água e de drenagem de águas residuais à sua responsabilidade.
+
+11 - Tomar as medidas necessárias para evitar danos nos sistemas prediais resultantes de pressão excessiva ou variação brusca de pressão na rede pública de distribuição de água.
+
+12 - Submeter os componentes dos sistemas públicos de distribuição de água, antes de entrarem em serviço, a ensaios que assegurem a perfeição do trabalho executado no cumprimento da legislação em vigor.
+
+13 - Promover a instalação, substituição ou renovação dos ramais de ligação aos sistemas, sempre que necessário.
+
+14 - Proceder a ensaios e vistorias nos termos previstos no presente regulamento e de acordo com a legislação em vigor.
+
+15 - Garantir a continuidade do serviço, exceto por:
+
+a) Deterioração na qualidade da água distribuída ou previsibilidade da sua ocorrência;
+
+b) Ausência de condições de salubridade no sistema predial;
+
+c) Trabalho de reparação ou substituição de ramais de ligação, quando não seja possível recorrer a ligações temporárias;
+
+d) Trabalhos de reparação ou substituição no sistema público ou predial, sempre que exijam essa suspensão;
+
+e) Anomalias ou irregularidades no sistema predial detetadas pela EG no âmbito de inspeções ao mesmo;
+
+f) Determinação da autoridade de saúde e/ou da autoridade competente;
+
+g) Casos fortuitos ou de força maior;
+
+h) Outras razões imputáveis ao utilizador;
+
+i) Deteção de ligações clandestinas ao sistema público, uma vez decorrido prazo razoável definido pela EG para a regularização da situação;
+
+j) Verificação de descargas com características de qualidade em violação dos parâmetros legais e regulamentares aplicáveis, uma vez decorrido prazo definido pela EG para a regularização da situação;
+
+k) Mora do utilizador no pagamento da utilização do serviço mediante aviso prévio, nos termos previstos da legislação aplicável.
+
+16 - Garantir a qualidade do serviço.
+
+17 - Definir os parâmetros de qualidade das águas residuais industriais para efeito da admissão nos sistemas de drenagem de águas residuais domésticas.
+
+18 - Proceder, de forma sistemática, e nos termos da legislação em vigor, à colheita de amostras para controlo da qualidade das águas residuais.
+
+19 - Promover a atualização anual do tarifário.
+
+20 - Proceder em tempo útil à emissão e ao envio das faturas correspondentes aos serviços prestados e à respetiva cobrança.
+
+21 - Comunicar aos utilizadores com uma antecedência mínima de 48 horas qualquer interrupção programada no abastecimento de água.
+
+22 - Disponibilizar pelos meios ao seu dispor informação essencial sobre a prestação de serviço e a sua atividade, nomeadamente:
+
+a) Identificação, atribuições e âmbito de atuação;
+
+b) Regulamento Municipal de Abastecimento de Água e de Drenagem de Águas Residuais de Ponta Delgada;
+
+c) Tarifários;
+
+d) Informações sobre interrupções do serviço;
+
+e) Contactos e horários de atendimento;
+
+f) Qualidade de água fornecida.
+
+23 - Dispor de serviços de atendimento aos utilizadores direcionados para a resolução dos seus problemas relacionados com o serviço público de abastecimento de água, e de drenagem de águas residuais nomeadamente:
+
+a) Modalidades e facilidades de pagamento e procedimentos a adotar;
+
+b) Esclarecimentos relativos a faturação;
+
+c) Outras informações úteis.
+
+24 - Manter um registo atualizado dos processos das reclamações dos utilizadores e garantir a sua resposta no prazo legal.
+
+25 - Dispor de cadastro do sistema, mantendo o mesmo atualizado.
+
+26 - Fazer cumprir o presente Regulamento.
+
+27 - Outros deveres decorrentes da legislação que lhe é aplicável e cumprir e fazer cumprir o presente Regulamento.
+
+28 - Emitir declaração de autorização de descarga de águas residuais na rede pública desde que cumpridas as normas de descarga patenteadas em anexo ao presente Regulamento.
+
+###### Artigo 12.º — Direitos dos utilizadores
+
+Sem prejuízo dos que resultam das disposições legais em vigor aplicáveis e deste Regulamento, os utilizadores dispõem dos seguintes direitos:
+
+a) Direito à qualidade da água para consumo humano;
+
+b) Direito à regularidade e continuidade do fornecimento de água nas condições previstas neste Regulamento e no contrato;
+
+c) Direito à prestação do serviço, sempre que a rede geral de drenagem de águas residuais esteja localizada a uma distância igual ou inferior a 20 metros do limite da propriedade;
+
+d) Nas situações não abrangidas pela alínea anterior o utilizador tem o direito de solicitar à EG a recolha e transporte das lamas da respetiva fossa sética individual mediante pagamento da devida contrapartida;
+
+e) Qualquer utilizador cujo local de consumo se insira na área de influência da EG tem direito à prestação do serviço de abastecimento público de água, sempre que o mesmo esteja disponível, prioritariamente para utilização doméstica;
+
+f) Para efeitos do presente Regulamento, considera-se área de influência da EG sempre que a rede geral de distribuição de água esteja localizada a uma distância igual ou inferior a 20 metros do limite da propriedade;
+
+g) Direito à informação de forma clara pela EG das condições em que o serviço é prestado, em especial no que respeita aos tarifários aplicáveis, através de editais, do atendimento presencial, sítio da Internet e informações na fatura, entre outros;
+
+h) Direito a ser informado, com o mínimo de 48 horas de antecedência, sobre qualquer interrupção programada no abastecimento de água;
+
+i) Direito a solicitar inspeções, vistorias e ações de fiscalização;
+
+j) Direito à Reclamação;
+
+k) Quaisquer outros direitos que lhe sejam conferidos pela lei e não previstos no presente Regulamento.
+
+###### Artigo 13.º — Deveres dos utilizadores
+
+Compete aos utilizadores:
+
+a) Cumprir as disposições do presente Regulamento e normas complementares, na parte que lhes é aplicável e respeitar as instruções e recomendações da EG;
+
+b) Pagar no tempo devido os montantes a que estão obrigados, nos termos do presente Regulamento e do contrato e até ao termo deste;
+
+c) Denunciar o contrato com a EG no caso de existir transmissão da posição de utilizador;
+
+d) Não fazer uso indevido dos sistemas públicos de abastecimento de água, nem dos sistemas de drenagem públicos e não danificar qualquer das suas partes componentes;
+
+e) Não fazer uso indevido ou danificar as redes prediais e assegurar a sua conservação e manutenção;
+
+f) Abster-se de praticar atos que possam prejudicar o normal funcionamento dos sistemas públicos de abastecimento de água e de drenagem de águas residuais;
+
+g) Não alterar o ramal de ligação;
+
+h) Não proceder à execução de ligações ao sistema público sem autorização da EG.
+
+i) Manter em bom estado de conservação e funcionamento os aparelhos sanitários e os dispositivos de utilização;
+
+j) Cooperar com a EG para garantir o bom funcionamento dos sistemas de abastecimento de água.
+
+k) Avisar a EG de eventuais anomalias nos sistemas e nos aparelhos de medição.
+
+l) Permitir o acesso ao sistema predial por pessoal credenciado da EG, tendo em vista a realização de ações de verificação e fiscalização.
+
+###### Artigo 14.º — Deveres dos proprietários
+
+Compete aos proprietários dos prédios ou de outros titulares de direitos reais de edifícios servidos por sistemas públicos de abastecimento de água e ou de drenagem de águas residuais:
+
+a) Cumprir as disposições do presente Regulamento e demais disposições legais, bem como respeitar as instruções e recomendações emanadas pela EG com base neste Regulamento;
+
+b) Quando o contrato não esteja em nome do proprietário comunicar à EG no prazo de 30 dias a saída e a entrada dos arrendatários, caso existam, sob pena de lhes ser imputáveis os valores que entretanto forem devidos à EG;
+
+c) Requerer a ligação do prédio aos sistemas públicos de abastecimento de água e drenagem de águas residuais, logo que reunidas as condições que a viabilizem ou logo que intimados para o efeito, nos termos deste Regulamento;
+
+d) Proceder à realização do contrato em seu nome no prazo de 30 dias após a obtenção da titularidade do prédio;
+
+e) Não proceder a alterações nas redes prediais sem prévia concordância da EG, quando tal seja exigível nos termos da legislação em vigor, ou cause impacto nas condições de descarga existentes;
+
+f) Abster-se de praticar atos que possam prejudicar a regularidade do funcionamento dos sistemas públicos de abastecimento de água e de drenagem de águas residuais;
+
+g) Não alterar o ramal de ligação;
+
+h) Não fazer uso indevido ou danificar as redes prediais e assegurar a sua conservação e manutenção;
+
+i) Não proceder à execução de ligações ao sistema público sem autorização da EG;
+
+j) Manter em boas condições de conservação e funcionamento os respetivos sistemas prediais de abastecimento de água e de drenagem de águas residuais;
+
+k) Cooperar com a EG para o bom funcionamento dos sistemas.
+
+### CAPÍTULO III — Sistema público de distribuição de água e drenagem de águas residuais
+
+#### SECÇÃO I — Condições de fornecimento de água
+
+###### Artigo 15.º — Prioridades de fornecimento
+
+A EG, face às disponibilidades de cada momento, procede ao fornecimento de água atendendo preferencialmente às exigências do consumo humano e das instalações médico/hospitalares na área da sua intervenção.
+
+###### Artigo 16.º — Exclusão de responsabilidade
+
+A EG não é responsável pelos danos que os utilizadores possam sofrer, decorrentes de avarias e perturbações nas canalizações das redes de distribuição pública de água, bem como de interrupções ou restrições ao fornecimento de água, desde que resultem de:
+
+a) Casos fortuitos ou de força maior;
+
+b) Execução, pela EG ou pelo Município de Ponta Delgada, de obras devidamente programadas, desde que os utilizadores tenham sido expressamente avisados com uma antecedência mínima de 48 horas;
+
+c) Atos dolosos ou negligentes praticados pelos utilizadores, assim como por defeitos ou avarias nas instalações prediais;
+
+###### Artigo 17.º — Interrupção ou restrição no abastecimento de água
+
+1 - Para além das interrupções de abastecimento definidas no presente Regulamento, a EG reserva-se o direito de suspender o fornecimento de água para o abastecimento de piscinas, indústrias não alimentares e a instalações com finalidade agrícola em período de dificuldade de abastecimento.
+
+2 - Nas situações descritas no número anterior o fornecimento de água pode ser restringido em termos quantitativos.
+
+3 - Quando ocorrer qualquer interrupção não programada no abastecimento de água aos utilizadores, a EG deve informar os utilizadores que o solicitem, da duração estimada da interrupção, sem prejuízo da disponibilização desta informação no respetivo sítio da Internet e da utilização de meios de comunicação social, e, no caso de utilizadores especiais, tais como hospitais, tomar diligências específicas no sentido de mitigar o impacte dessa interrupção.
+
+4 - Em qualquer caso, a EG deve mobilizar todos os meios adequados à reposição do serviço no menor período de tempo possível e tomar todas as medidas que estiverem ao seu alcance para minimizar os inconvenientes e os incómodos causados aos utilizadores dos serviços.
+
+5 - Nas situações em que estiver em risco a saúde humana e que for determinada a interrupção do abastecimento pela autoridade de saúde, a EG providencia uma alternativa de água para consumo humano, desde que a interrupção se mantenha por mais de 24 horas.
+
+###### Artigo 18.º — Interrupção do abastecimento de água por facto imputável ao utilizador
+
+1 - A EG pode suspender o abastecimento de água, por motivos imputáveis ao utilizador, nas seguintes situações:
+
+a) Quando o utilizador não seja o titular do contrato de fornecimento de água e não apresente evidencias de estar autorizado pelo mesmo a utilizar o serviço;
+
+b) Quando não seja possível o acesso ao sistema predial para inspeção ou, tendo sido realizada inspeção e determinada a necessidade de realização de reparações, em auto de vistoria, aquelas não sejam efetuadas dentro do prazo fixado, em ambos os casos desde que haja perigo de contaminação, poluição ou suspeita de fraude que justifiquem a suspensão;
+
+c) Mora do utilizador no pagamento dos serviços prestados;
+
+d) Quando seja recusada a entrada no local de consumo para inspeção das redes e para leitura, verificação, substituição ou levantamento do contador;
+
+e) Quando o contador for encontrado viciado, o selo danificado ou for empregue qualquer meio fraudulento para consumir água;
+
+f) Quando o sistema predial tiver sido modificado e altere as condições de fornecimento;
+
+g) Em outros casos previstos na lei.
+
+2 - A interrupção do abastecimento, com fundamento em causas imputáveis ao utilizador, não priva a EG de recorrer às entidades judiciais ou administrativas, para garantir o exercício dos seus direitos ou para assegurar o recebimento das importâncias devidas e à instauração dos devidos processos de contraordenação.
+
+3 - A interrupção do abastecimento de água com base nas alíneas a), b), c), d), f) e g) do n.º 1 só pode ocorrer após a notificação ao utilizador, por escrito, com a antecedência mínima de dez dias relativamente à data que venha a ter lugar.
+
+4 - Na situação prevista na alínea e) do n.º 1, a interrupção pode ser feita imediatamente, devendo, no entanto, ser depositado no local da instalação documento justificativo da razão daquela interrupção de fornecimento.
+
+5 - Não devem ser realizadas interrupções do serviço em datas que impossibilitem a regularização da situação pelo utilizador no dia imediatamente seguinte, quando o restabelecimento dependa dessa regularização.
+
+6 - A interrupção do serviço nos termos do presente artigo não impede a cobrança da tarifa fixa.
+
+###### Artigo 19.º — Restabelecimento do fornecimento
+
+1 - O restabelecimento do fornecimento na sequência da interrupção por motivo imputável ao utilizador depende da correção da situação que lhe deu origem.
+
+2 - No caso da mora no pagamento dos consumos, o restabelecimento depende da prévia liquidação de todos os montantes em dívida, incluindo o pagamento da tarifa de restabelecimento.
+
+3 - Satisfeitas as respetivas condições, a EG deve proceder ao reinício do fornecimento no primeiro dia útil subsequente.
+
+4 - O restabelecimento do fornecimento urgente, antes de decorrido o prazo definido no número anterior, implica o pagamento da tarifa de restabelecimento de urgência.
+
+#### SECÇÃO II — Condições de recolha de águas residuais urbanas
+
+###### Artigo 20.º — Condições de ligação à rede geral de saneamento
+
+1 - São admissíveis, nos sistemas de drenagem de águas residuais, as seguintes categorias de águas residuais:
+
+a) Águas residuais domésticas;
+
+b) Águas residuais industriais com características apropriadas.
+
+2 - Só podem ser recolhidas, tratadas e conduzidas a destino final, através dos sistemas de drenagem, as águas residuais com características qualitativas e quantitativas admissíveis.
+
+3 - A admissibilidade referida no número anterior será definida pela EG, tendo em conta as características do sistema de drenagem pública.
+
+4 - As características apropriadas para a admissão de águas residuais industriais são as definidas no Anexo I.
+
+###### Artigo 21.º — Obrigação de ligação à rede geral de saneamento
+
+1 - Sempre que o serviço público de saneamento se considere disponível, os proprietários dos prédios existentes ou a construir são obrigados a:
+
+a) Instalar, por sua conta, a rede de drenagem predial;
+
+b) Solicitar a ligação à rede pública de saneamento.
+
+2 - A obrigatoriedade de ligação à rede pública abrange todas as edificações, qualquer que seja a sua utilização, sem prejuízo do disposto no artigo 22.º
+
+3 - Os usufrutuários, comodatários e arrendatários, mediante autorização dos proprietários, podem requerer a ligação dos prédios por eles habitados à rede pública.
+
+4 - As notificações aos proprietários dos prédios para cumprimento das disposições dos números anteriores são efetuadas pela EG nos termos da lei, sendo-lhes fixado, para o efeito, um prazo nunca inferior a 30 dias.
+
+5 - Após a entrada em funcionamento da ligação da rede predial à rede pública, os proprietários dos prédios que disponham de sistemas próprios de tratamento de águas residuais devem proceder à sua desativação no prazo máximo de 30 dias, sem prejuízo de prazo diferente fixado em legislação ou licença específica.
+
+6 - Para efeitos do disposto no número anterior, as fossas devem ser desconectadas, totalmente esvaziadas, desinfetadas e aterradas.
+
+7 - A EG comunica à autoridade ambiental competente as áreas servidas pela respetiva rede pública na sequência da sua entrada em funcionamento.
+
+###### Artigo 22.º — Dispensa de ligação
+
+1 - Estão isentos da obrigatoriedade de ligação ao sistema público de saneamento:
+
+a) Os edifícios que disponham de sistemas próprios de tratamento de águas residuais devidamente licenciados, nos termos da legislação aplicável, designadamente unidades industriais;
+
+b) Os edifícios cuja ligação se revele demasiado onerosa do ponto de vista técnico ou económico para o utilizador e que disponham de soluções individuais que assegurem adequadas condições de salvaguarda da saúde pública e proteção ambiental;
+
+c) Os edifícios ou fogos cujo mau estado de conservação ou ruína os torne inabitáveis e estejam de facto permanentemente desabitados;
+
+d) Os edifícios em vias de expropriação ou demolição.
+
+2 - A isenção é requerida pelo interessado, podendo a EG solicitar documentos comprovativos da situação dos prédios a isentar.
+
+###### Artigo 23.º — Exclusão da responsabilidade
+
+A EG não é responsável por danos que possam sofrer os utilizadores, decorrentes de avarias e perturbações ocorridas na rede pública de saneamento, desde que resultantes de:
+
+a) Casos fortuitos ou de força maior;
+
+b) Execução, pela EG, de obras previamente programadas, desde que os utilizadores tenham sido expressamente avisados com uma antecedência mínima de 48 horas;
+
+c) Atos, dolosos ou negligentes praticados pelos utilizadores, assim como por defeitos ou avarias nas instalações prediais.
+
+#### SECÇÃO III — Sistemas públicos de distribuição de água e drenagem de águas residuais
+
+###### Artigo 24.º — Propriedade
+
+Os sistemas públicos de distribuição de água e de drenagem de águas residuais, são propriedade do Município de Ponta Delgada, mesmo quando a sua instalação seja feita por e ou a expensas de outrem.
+
+###### Artigo 25.º — Sistemas de drenagem de águas residuais
+
+1 - Os sistemas de drenagem são fundamentalmente constituídos pelos emissários, estações de tratamento de águas residuais (ETAR), estações elevatórias (E.E.), exutores e redes de drenagem ou redes de coletores, nas quais se incluem, além destes, os ramais de ligação, as câmaras e caixas de visita, sarjetas, assim como obras e instalações, como sejam as bacias de retenção, câmaras de correntes de varrer, descarregadores de tempestade.
+
+2 - Os sistemas de drenagem públicos de águas residuais, devem evoluir para o tipo separativo, isto é, constituído por duas redes de coletores distintas, uma destinada às águas residuais domésticas e industriais e outra à drenagem de águas residuais pluviais ou similares.
+
+3 - Todas as redes de drenagem pública a construir deverão ser separativas.
+
+4 - As redes unitárias e mistas existentes devem evoluir para redes separativas.
+
+###### Artigo 26.º — Construção, ampliação ou remodelação das redes de distribuição de água e de drenagem de águas residuais domésticas
+
+1 - A construção, remodelação, ampliação, conservação e reparação das redes cabe à EG.
+
+2 - Sempre que, no âmbito de processos de construção de novas edificações, de reconstrução de edifícios existentes, de loteamentos e obras de urbanização, haja a necessidade de promover a construção de novas redes ou a remodelação da rede existente para dotá-la de capacidade de abastecimento e de recolha de águas residuais, os custos são suportados pelos interessados.
+
+3 - Todos os edifícios novos, remodelados ou ampliados têm obrigatoriamente de prever redes prediais de abastecimento de água e de drenagem de águas residuais, independentemente da existência de redes públicas no local.
+
+4 - Dentro da área abrangida pela rede pública de distribuição de água e de drenagem de águas residuais os utilizadores são obrigados a requerer os ramais de ligação às redes públicas.
+
+5 - A instalação da rede pública de drenagem de águas residuais no âmbito de novos loteamentos, pode ficar a cargo do promotor, nos termos previstos nas normas legais relativas ao licenciamento urbanístico, devendo a respetiva conceção e dimensionamento, assim como a apresentação dos projetos e a execução das respetivas obras cumprir integralmente o estipulado na legislação em vigor, designadamente o disposto no [Decreto Regulamentar n.º 23/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1995-431873), de 23 de agosto, e no [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, bem como as normas municipais aplicáveis e outras orientações da EG.
+
+6 - A execução de infraestruturas em obras de urbanização, loteamentos e arranjos exteriores a edifícios é da responsabilidade das entidades promotoras, sob fiscalização do Município de Ponta Delgada.
+
+7 - As obras referidas no número anterior são, após receção provisória, integradas no sistema público municipal.
+
+8 - Durante o período de garantia os encargos por reparações decorrentes de anomalias detetadas são da responsabilidade das entidades promotoras.
+
+9 - Os proprietários dos prédios, que depois de notificados não derem cumprimento às obrigações impostas no presente artigo, ficam sujeitos ao pagamento da correspondente coima, sendo realizadas as respetivas ligações pelos serviços da EG, com a obrigação daqueles suportarem o pagamento das despesas realizadas no prazo de 40 dias após a notificação da conta, findo o qual se procederá à cobrança coerciva da importância em divida.
+
+###### Artigo 27.º — Fiscalização dos sistemas públicos de distribuição de água e recolha de águas residuais
+
+A execução de obras por terceiros, estão sujeitas a ações de fiscalização, nomeadamente à realização de ensaios de estanquidade, a cargo do construtor, antes do fecho das valas.
+
+###### Artigo 28.º — Acessos interditos
+
+Apenas a EG pode aceder aos sistemas públicos de abastecimento de água e de drenagem de águas residuais, sendo proibido o acesso ou intervenção por parte de pessoas estranhas àquela entidade.
+
+###### Artigo 29.º — Conceção e projeto
+
+1 - A conceção e o dimensionamento dos sistemas, a apresentação dos projetos e a execução das respetivas obras devem cumprir integralmente o disposto na legislação em vigor, sendo instruídos, nomeadamente, com os seguintes elementos mínimos:
+
+a) Memória descritiva e justificativa, incluindo cálculo hidráulico e dimensionamento de todos os órgãos necessários;
+
+b) Orçamento discriminado do custo pela realização da obra, com a descrição dos trabalhos a realizar, indicação das quantidades, preços unitários e totais;
+
+c) Caderno de encargos, com as condições técnicas especiais de execução da obra;
+
+d) Peças desenhadas:
+
+d.1) Planta geral à escala 1:500 ou 1:1000, com implantação do traçado das redes, diâmetros nominais, dispositivos de utilização de acessórios;
+
+d.2) Mapa ou esquema com a caracterização dos vários nós das redes, com indicação de todos os órgãos que os compõem;
+
+d.3) Pormenores construtivos.
+
+2 - No que concerne à elaboração dos projetos respeitantes a infraestruturas em obras de urbanização, loteamentos, ou arranjos exteriores a edifícios, a responsabilidade é das entidades promotoras, devendo os projetos cumprir as exigências definidas no número anterior e ser entregues no Município de Ponta Delgada, para apreciação técnica, de acordo com o regime jurídico da urbanização e da edificação e regulamentos municipais em vigor.
+
+3 - Não são permitidas, sem prévia autorização da EG, quaisquer modificações dos traçados anteriormente aprovados, com exceção daquelas que apenas constituam meros ajustamentos em obra, de acordo com o regime jurídico da urbanização e da edificação em vigor.
+
+4 - Terminada a execução das obras referidas nos números anteriores, devem ser entregues no Município de Ponta Delgada as telas finais em formato digital, georreferenciadas.
+
+5 - Os materiais a empregar nas redes de distribuição são, no caso das tubagens, preferencialmente em PVC, PEAD, Ferro Fundido dúctil ou outro material devidamente homologado e no caso dos acessórios em Ferro Fundido ou em PEAD ou outro material devidamente homologado, sem prejuízo da aprovação dos mesmos por parte do Município de Ponta Delgada.
+
+6 - Sempre que os materiais referidos no número anterior sejam suscetíveis de ataque interno ou externo, deve prever-se a sua conveniente proteção de acordo com a natureza do agente agressivo, através da utilização de produtos que não afetem a potabilidade da água.
+
+7 - Sempre que a EG o exija é obrigatória a colocação de fita sinalizadora sobre a rede de distribuição, na cor azul, 30 cm acima do extradorso da tubagem.
+
+###### Artigo 30.º — Válvulas de seccionamento e seu manuseamento
+
+1 - Cada ramal de ligação de abastecimento deve ter, pelo menos, uma válvula de seccionamento, que permita a suspensão do respetivo abastecimento, preferencialmente colocado no passeio ou na via pública.
+
+2 - As válvulas de seccionamento só podem ser manuseadas pelo pessoal afeto à EG.
+
+###### Artigo 31.º
+
+Diâmetro mínimo dos ramais de ligação à rede de abastecimento de água e de drenagem de águas residuais.
+
+1 - O diâmetro mínimo admitido para ramais de ligação à rede de abastecimento é de 20 mm.
+
+2 - Quando se tenha de assegurar simultaneamente o serviço de combate a incêndios sem reservatório de regularização, tal diâmetro não deve ser inferior a 50 mm.
+
+3 - O diâmetro mínimo admitido para ramais de ligação à rede de drenagem de águas residuais domésticas é de 125 mm.
+
+###### Artigo 32.º — Profundidade mínima dos ramais de ligação
+
+A profundidade mínima de assentamento dos ramais de ligação é de 0,80 metros, que pode ser reduzida para 0,50 metros nas zonas não sujeitas a circulação viária.
+
+###### Artigo 33.º — Implantação de coletores
+
+1 - A profundidade de assentamento dos coletores não deve ser inferior a 1 m, medida entre o seu extradorso e a superfície do terreno ou via.
+
+2 - Os coletores devem ser implantados, sempre que possível, num plano inferior ao da rede de distribuição de água a uma distância não inferior a 1 m, de forma a garantir proteção eficaz contra possível contaminação, devendo ser adotadas proteções especiais em caso de impossibilidade no cumprimento daquela disposição.
+
+3 - Não é permitida, em regra, a construção de quaisquer edificações sobre coletores, quer públicos quer privados. Em caso de impossibilidade, devem adotar-se disposições adequadas, de forma a garantir o seu bom funcionamento e a torná-los acessíveis em toda a extensão do atravessamento.
+
+4 - Sempre que a EG o exija é obrigatória a colocação de fita sinalizadora sobre a rede de coletores, na cor castanha, 30 cm acima do extradorso da tubagem.
+
+###### Artigo 34.º — Estações elevatórias
+
+A localização e implantação das estações elevatórias devem obedecer às normas constantes da legislação em vigor, sem prejuízo de acolhimento de outras orientações da EG.
+
+###### Artigo 35.º — Combate a incêndios
+
+1 - Os projetos, instalação, localização, calibres e outros aspetos construtivos dos dispositivos destinados à utilização da água para combate a incêndios devem, além do disposto no presente Regulamento, obedecer à legislação nacional em vigor.
+
+2 - A conceção dos hidrantes deve garantir a sua utilização exclusiva pelas corporações de bombeiros e pessoal do Município de Ponta Delgada ou da EG.
+
+3 - O abastecimento de água destinada ao combate direto a incêndios deve ser objeto de medição ou estimativa para efeitos de avaliação do balanço hídrico dos sistemas.
+
+4 - É expressamente proibida a utilização dos hidrantes por outras entidades que não a EG, para outros fins que não o combate a incêndios.
+
+5 - A utilização dos hidrantes deve ser comunicada à EG num prazo máximo de 48 horas após a sua ocorrência.
+
+6 - O abastecimento a marcos e às bocas de incêndio é feito por ramal independente.
+
+7 - Em qualquer dos casos referidos no número anterior, pode ser instalado contador se assim a EG entender.
+
+#### SECÇÃO IV — Uso eficiente da água
+
+###### Artigo 36.º — Objetivos e medidas gerais
+
+A EG promove o uso eficiente da água de modo a minimizar os riscos de escassez hídrica e a melhorar as condições ambientais nos meios hídricos, com especial cuidado nos períodos de seca, designadamente através de:
+
+a) Ações de sensibilização e informação;
+
+b) Iniciativas de formação, apoio técnico e divulgação de documentação técnica.
+
+###### Artigo 37.º — Rede pública de distribuição de água
+
+Ao nível da rede pública de distribuição de água, a EG promove medidas do uso eficiente da água, designadamente:
+
+a) Otimização de procedimentos e oportunidades para o uso eficiente da água;
+
+b) Redução de perdas nas redes públicas de distribuição de água;
+
+c) Otimização das pressões nas redes públicas de distribuição de água;
+
+d) Utilização de um sistema tarifário adequado que, sem prejuízo de garantir o direito à água compatível com a capacidade económica e financeira dos utilizadores, contribua para o uso eficiente da água.
+
+###### Artigo 38.º — Rede de distribuição predial
+
+Ao nível da rede de distribuição predial de água, os proprietários e os utilizadores promovem medidas do uso eficiente da água, designadamente:
+
+a) Eliminação das perdas nas redes de distribuição predial de água;
+
+b) Redução dos consumos através da adoção de dispositivos eficientes;
+
+c) Isolamento térmico das redes de distribuição de água quente;
+
+###### Artigo 39.º — Usos em instalações residenciais e coletivas
+
+Ao nível dos usos em instalações residenciais e coletivas, os proprietários e os utilizadores promovem medidas do uso eficiente da água, designadamente:
+
+a) Generalização do uso de dispositivos e equipamentos eficientes;
+
+b) Atuação na redução de perdas e desperdícios.
+
+### CAPÍTULO IV — Sistemas prediais de distribuição água e de drenagem de águas residuais
+
+###### Artigo 40.º — Responsabilidade
+
+1 - Em todos os prédios, construídos ou a construir servidos pelo sistema público de distribuição de água e ou de drenagem de águas residuais, é obrigatório executar os sistemas prediais de distribuição e de drenagem e ligar essas instalações à rede pública, nos termos do presente Regulamento.
+
+2 - Compete aos proprietários ou titulares de qualquer outro direito legítimo, executar todas as obras necessárias ao estabelecimento, remodelação ou reconstrução dos sistemas prediais de distribuição e de drenagem de águas residuais, podendo, nos prédios já existentes à data da instalação dos sistemas públicos de distribuição sem instalações interiores, serem aceites soluções técnicas simplificadas, sem prejuízo das condições mínimas de salubridade.
+
+3 - Compete ainda aos proprietários ou outros titulares de direitos reais executar sistemas adequados ao abastecimento de água e de drenagem de águas residuais do prédio, sempre que este se situe em local não servido por rede pública.
+
+###### Artigo 41.º — Instalações interiores mínimas
+
+A rede predial de distribuição interior deve compreender, no mínimo, dispositivos de utilização que permitam assegurar o abastecimento das cozinhas e instalações sanitárias do prédio, nos termos do Regulamento Geral das Edificações Urbanas e tendo em conta as regras de dimensionamento legalmente previstas.
+
+###### Artigo 42.º — Constituição
+
+As redes prediais de distribuição de água são constituídas pelas seguintes partes:
+
+a) Ramal de introdução coletivo: canalização compreendida entre o limite da propriedade e os ramais de introdução individuais dos utilizadores;
+
+b) Ramal de introdução individual: canalização compreendida entre o ramal de introdução coletivo e os contadores individuais dos utilizadores, ou entre o limite predial e o contador, no caso de se destinar à alimentação de uma só instalação;
+
+c) Ramal de distribuição: canalização compreendida entre os contadores individuais e os ramais de alimentação;
+
+d) Ramal de alimentação: canalização destinada a alimentar os diferentes dispositivos de utilização instalados;
+
+e) Coluna: canalização de prumada de um ramal de introdução ou de um ramal de distribuição.
+
+###### Artigo 43.º — Independência das redes prediais de distribuição interior
+
+1 - A rede predial de distribuição deve ser completamente independente de qualquer sistema de distribuição de águas particulares, nomeadamente furos, poços ou minas e, também, de qualquer sistema de drenagem de águas residuais que possa permitir o retrocesso das águas residuais nas canalizações daquele sistema, nos termos da legislação aplicável.
+
+2 - A rede de distribuição não deve estar em ligação com depósitos de água eventualmente existentes em qualquer prédio, salvo nos casos especiais em que tal solução se imponha por razões técnicas e que sejam prévia e expressamente autorizados pela ERSARA.
+
+3 - A autorização prevista no número anterior só é dada quando estiver assegurada a potabilidade da água.
+
+4 - A rede predial de distribuição para alimentação de piscinas pode ser completamente independente da rede predial de distribuição para alimentação da edificação.
+
+###### Artigo 44.º — Projeto da rede predial
+
+1 - É da responsabilidade do autor do projeto das redes prediais a recolha de elementos de base para a elaboração dos projetos, devendo a EG fornecer toda a informação de interesse, designadamente a existência ou não de redes públicas, a localização e a profundidade da soleira da câmara de ramal de ligação, nos termos da legislação em vigor.
+
+2 - O projeto da rede de drenagem predial está sujeito a consulta da EG, para efeitos de parecer ou aprovação nos termos do artigo 13.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na redação que lhe foi conferida pelo [Decreto-Lei n.º 26/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), de 30 de março, apenas nas situações em que o mesmo não se faça acompanhar por um termo de responsabilidade subscrito por um técnico autor do projeto legalmente habilitado que ateste o cumprimento das normas legais e regulamentares aplicáveis.
+
+3 - O projeto deve ser elaborado com observância dos requisitos previstos, nos termos da lei em vigor.
+
+4 - Sem prejuízo do cumprimento das disposições legais em vigor, o projeto da rede predial compreende peças escritas e desenhadas, conforme disposto no presente artigo.
+
+5 - O projeto da rede de águas deve ser elaborado com observância dos requisitos previstos nos termos da lei em vigor, sendo exigido:
+
+a) Memória descritiva e justificativa, incluindo cálculo hidráulico e dimensionamento de todos os órgãos necessários;
+
+b) Peças desenhadas:
+
+i) Planta de localização à escala 1:2000, com implantação do projeto, fornecida e informada pela CMPD, a pedido do interessado;
+
+ii) Planta de implantação à escala 1:500 (nos casos em que as edificações não ocupem a totalidade dos prédios e a área sobrante seja constituída como logradouro) com traçado da rede, diâmetros nominais, dispositivos de utilização e válvulas de segurança, na parte exterior à edificação;
+
+iii) Planta dos pisos à escala 1:100 (no mínimo), com implantação do traçado de rede, diâmetros nominais, dispositivos de utilização e válvulas de segurança;
+
+iv) Corte esquemático ou outro que permita uma completa visualização da rede;
+
+6 - O projeto da rede de águas residuais deve ser elaborado com observância dos requisitos previstos nos termos da lei em vigor, sendo exigido:
+
+a) As peças escritas que instruem o projeto da rede de águas residuais são:
+
+i) Memória descritiva e justificativa, onde constem a indicação dos aparelhos sanitários a instalar e as suas características, a natureza de todos os materiais e acessórios, os tipos de juntas e as condições de assentamento das canalizações;
+
+ii) Dimensionamento dos sistemas, incluindo cálculos hidráulicos, indicação dos diâmetros e inclinações a utilizar e características geométricas do ramal de ligação a executar ou a verificar, caso já exista;
+
+iii) Caderno de encargos, contendo especificamente as condições teóricas de execução da obra;
+
+iv) Termo de responsabilidade do projeto da obra, assinado pelo respetivo autor;
+
+v) Outros julgados necessários;
+
+b) São as seguintes as peças desenhadas:
+
+i) Planta de localização à escala apropriada;
+
+ii) Planta de cadastro;
+
+iii) Planta e corte do esquema geral dos sistemas, incluindo ramal de ligação, na escala mínima de 1:100;
+
+iv) Planta e corte das compartimentações sanitárias e de cozinhas na escala mínima de 1:20, no que respeita ao abastecimento de água e à caracterização dos respetivos ramais;
+
+v) Planta de implantação, na escala mínima de 1:200;
+
+vi) Outros pormenores julgados necessários à boa interpretação do projeto na fase da obra.
+
+###### Artigo 45.º — Materiais a aplicar
+
+Os materiais a aplicar nos sistemas prediais de drenagem de águas residuais são sempre adequados ao fim a que se destinam, de forma a garantir a sua resistência aos efeitos de corrosão interna e externa e desgaste decorrente da sua utilização, tendo em conta as normas e especificações técnicas em vigor.
+
+###### Artigo 46.º — Fiscalização dos sistemas prediais de distribuição de água e de águas residuais
+
+1 - A execução da rede predial de distribuição e de drenagem de águas residuais deve ficar sujeita à fiscalização da EG.
+
+2 - O técnico responsável da obra deve notificar por escrito a EG do início da mesma, com uma antecedência de três dias e a sua conclusão logo que verificada.
+
+3 - Após concluída a obra, a EG pode proceder à vistoria e eventual ensaio das canalizações, podendo exigir a presença do técnico responsável pela obra.
+
+4 - A EG notifica ao requerente as desconformidades que verificar nas obras executadas e o prazo para serem corrigidas.
+
+5 - Nos casos previstos no número anterior, deve ser requerida nova vistoria, sob pena de o processo de ligação ser considerado extinto.
+
+###### Artigo 47.º — Ensaio e vistoria
+
+1 - Os sistemas prediais ficam sujeitos a ações de vistoria da EG sempre que haja reclamações de utilizadores, perigos de contaminação ou poluição ou suspeita de fraude.
+
+2 - Para efeitos do previsto no número anterior, o utilizador deve permitir o livre acesso da EG desde que avisado, por carta registada ou outro meio equivalente, com uma antecedência mínima de dez dias, da data da inspeção e com a determinação do horário previsto não podendo o mesmo exceder duas horas.
+
+3 - O respetivo auto de vistoria deve ser comunicado aos responsáveis pelas anomalias ou irregularidades, fixando prazo para a sua correção.
+
+4 - O incumprimento do prazo atrás referido, pode obrigar a EG a providenciar a eliminação de tais anomalias ou irregularidades à custa do interessado, podendo determinar a suspensão do serviço, nos termos da legislação em vigor.
+
+5 - Em função da natureza das circunstâncias referidas no n.º 1, a EG pode determinar a suspensão do fornecimento de água.
+
+###### Artigo 48.º — Obras de conservação, reparação e remodelação
+
+1 - É da responsabilidade dos proprietários ou outros detentores de direitos reais sobre os prédios, a boa conservação, reparação e remodelação da rede de distribuição interior e rede de drenagem interior.
+
+2 - Qualquer que seja a intervenção no ramal de introdução coletivo ou individual, a mesma deve ser sempre acompanhada da fiscalização da EG.
+
+3 - Qualquer intervenção após o contador, desde que a mesma altere o traçado existente ou os diâmetros, implica a entrega, no Município de Ponta Delgada, do respetivo projeto de alteração ou tela final.
+
+4 - Por razões de salubridade a EG poderá executar, independentemente da solicitação ou autorização do proprietário ou usufrutuário, as obras que se tornem necessárias para restabelecer o normal funcionamento dos sistemas, correndo as despesas que daí vierem a resultar por conta destes.
+
+###### Artigo 49.º — Avaria no ramal de introdução coletivo, ou individual, ou coluna
+
+Em caso de rotura ou avaria no ramal de introdução coletivo, ou individual ou coluna de um prédio destinado a mais de um fogo ou domicílio, os ocupantes do prédio devem avisar imediatamente a EG para que esta interrompa o fornecimento de água, fechando a torneira de passagem do ramal de ligação, até à reparação da avaria.
+
+###### Artigo 50.º — Responsabilidade por danos nos sistemas prediais
+
+A EG não assume qualquer responsabilidade por danos que os utilizadores possam sofrer em consequência de perturbações ocorridas nos sistemas públicos que ocasionem interrupções no serviço, desde que resultem de casos fortuitos ou de força maior ou de execução de obras previamente programadas, quando avisados com a antecedência de 48 horas.
+
+### CAPÍTULO V — Ligação da rede predial à rede pública de distribuição de água e de drenagem de águas residuais domésticas
+
+###### Artigo 51.º — Ramais de Ligação
+
+1 - Os ramais de ligação são partes integrantes do sistema público de distribuição e de drenagem, competindo à EG a sua construção, conservação e substituição ou renovação, sem prejuízo do disposto no artigo 26.º
+
+2 - Dentro das zonas servidas por sistemas públicos de distribuição de água e ou de drenagem, os proprietários ou outros titulares de direitos reais de prédios construídos ou a construir, são obrigados a instalar, às suas expensas, as redes de distribuição predial e a requerer à EG, a execução dos ramais de ligação à rede geral de distribuição e de drenagem.
+
+3 - A execução de ramais de ligação aos sistemas públicos ou alteração dos existentes compete à EG no raio de 20 m entre a rede geral de distribuição ou a rede de drenagem e o limite da propriedade, podendo, a título excecional, ser executada por terceiros, sob fiscalização da EG, desde que o requerente apresente autorização da Câmara Municipal para intervenção no domínio público, assumindo todas as responsabilidades e custos inerentes.
+
+4 - Quando a construção, substituição ou renovação de ramais ocorrer em zonas consolidadas, deve assegurar-se, sempre que possível a repavimentação a toda a largura da faixa de rodagem numa extensão de 1,0 m para cada lado, medida a partir do limite superior da vala.
+
+###### Artigo 52.º — Ligação à rede pública
+
+1 - É obrigatório proceder à ligação ao sistema público de distribuição de água e de drenagem, de acordo com o exposto na legislação em vigor.
+
+2 - Nenhum sistema de distribuição predial pode ser ligado ao sistema público de distribuição de água ou de drenagem sem que satisfaça todas as condições regulamentares.
+
+3 - A ligação só pode ser concedida, depois de executados os ramais de ligação, nos termos do presente Regulamento e desde que previamente liquidados e pagos os respetivos encargos.
+
+4 - A EG deve, com uma antecedência mínima de 30 dias, notificar os proprietários ou titulares de qualquer outro direito legítimo sobre os edifícios abrangidos pelo sistema público de distribuição de água ou de drenagem das datas previstas para início e conclusão das obras dos ramais de ligação para a disponibilização do respetivo serviço.
+
+5 - Quando não tenha sido requerida a ligação à rede geral de distribuição ou de drenagem e depois de notificados os proprietários ou outros titulares de direitos reais para o fazer, se mantenha o incumprimento e ou estejam em causa razões de salubridade pública, a EG deverá desencadear o processo sancionatório de coima previsto na lei.
+
+6 - Dentro das zonas servidas por sistemas públicos de abastecimento de água ou de drenagem, apenas estão isentos da obrigatoriedade de ligação ao sistema público de distribuição e de drenagem, os prédios, cujo mau estado de conservação ou manifesta ruína os torne inabitáveis e estejam, de facto, permanente e totalmente desabitados.
+
+7 - No caso dos edifícios cuja ligação se revele demasiado onerosa do ponto de vista técnico ou económico para o utilizador e que disponham de soluções individuais que assegurem adequadas condições de salvaguarda da saúde pública e proteção ambiental e ainda no caso dos edifícios em vias de expropriação ou demolição, pode ser dispensada de ligação, mediante a apresentação de requerimento fundamentado.
+
+8 - Os arrendatários dos prédios que requeiram a ligação dos prédios por eles habitados ao sistema público de distribuição ou drenagem assumem todos os encargos da instalação, nos termos em que seriam suportados pelos proprietários, pagando o seu custo nos prazos e condições que forem definidas.
+
+9 - Os proprietários ou outros titulares de direitos reais sobre os edifícios, devidamente autorizados para o efeito, podem requerer modificações, devidamente justificadas, à EG, nomeadamente do traçado ou diâmetro dos ramais, podendo a EG dar deferimento, se assim o entender, desde que aqueles tomem a seu cargo o suplemento das respetivas despesas, quando as houver.
+
+10 - O pagamento dos encargos atrás referidos deve ser efetuado no prazo de 30 dias, após execução dos trabalhos e notificação do mesmo, sob pena de cobrança coerciva da importância devida.
+
+11 - Logo que a ligação ao sistema público de drenagem de águas residuais entre em funcionamento, os proprietários ou quaisquer outros utilizadores dos prédios onde existam fossas, depósitos ou poços absorventes para despejo de águas residuais são obrigados a entulhá-los dentro de noventa dias, depois de esvaziados e desinfetados, devendo ser-lhes dado um destino adequado sem colocar em causa as condições mínimas de salubridade prevista na lei em vigor.
+
+12 - É proibido construir quaisquer instalações de tratamento e de destino final, nomeadamente fossas e poços absorventes, nas zonas servidas por sistema público de drenagem de águas residuais.
+
+###### Artigo 53.º — Condições de ligação à rede pública de ramais de drenagem
+
+1 - A montante das câmaras de ramal de ligação, é obrigatória a separação dos sistemas de drenagem de águas residuais domésticas dos sistemas de águas residuais pluviais.
+
+2 - Todas as águas residuais recolhidas acima ou ao mesmo nível do arruamento, onde estão instalados os sistemas de drenagem em que vão descarregar, devem ser conduzidas à câmara de ramal de ligação, por meio da ação da gravidade.
+
+3 - As águas residuais domésticas e industriais, coletadas abaixo do nível do arruamento, como é o caso de caves, devem obrigatoriamente ser elevadas para um nível igual ou superior ao do arruamento, que permita a ligação por gravidade ao coletor público.
+
+4 - A ligação à rede pública de drenagem é executada pela EG.
+
+###### Artigo 54.º — Prédios não abrangidos pelo sistema público de distribuição
+
+1 - Para os prédios situados fora dos perímetros urbanos, definidos no Plano Diretor Municipal (PDM) de Ponta Delgada, onde o sistema público de distribuição ou de drenagem não se encontre disponível, a EG analisa a viabilidade da ligação, tendo em consideração os aspetos técnicos, urbanísticos e financeiros inerentes e o interesse das partes envolvidas, não sendo autorizadas ligações cujo comprimento entre a rede geral de distribuição e o limite da propriedade seja superior a 20 m, podendo contudo os interessados propor a antecipação do prolongamento das redes, a expensas suas, em condições a acordar com a EG.
+
+2 - Dentro dos perímetros urbanos definidos no PDM e sempre que no âmbito de uma operação urbanística se verifique que a execução desta implique, comprovadamente, uma sobrecarga incomportável para as infraestruturas existentes, é o pedido objeto de indeferimento, podendo o mesmo ser revisto, desde que o interessado assuma a execução de tais trabalhos ou encargos inerentes à sua execução.
+
+3 - Se forem vários os interessados que, nas condições do artigo anterior, requeiram determinada extensão ou reforço do sistema público de drenagem, o respetivo custo é distribuído por todos os requerentes proporcionalmente ao número de ramais a instalar e à extensão da referida rede.
+
+4 - As redes estabelecidas nos termos deste artigo são propriedade exclusiva da EG, mesmo no caso da sua instalação ter sido feita a expensas dos interessados, sendo exclusivamente colocadas e reparadas pelos serviços da EG.
+
+5 - No caso do prolongamento das redes vir a ser utilizado por outros prédios dentro do prazo de três anos da data de entrada em serviço da extensão, a EG fixará a indemnização a conceder ao interessado ou interessados que custearam a sua instalação, caso seja requerido, calculada em função da distância e do n.º de prédios a servir.
+
+6 - Após a receção dos trabalhos pela EG, a extensão da rede pode ser usada por novos utilizadores, desde que assumam os custos de ligação.
+
+###### Artigo 55.º — Ramais coletivos de água em domínio particular
+
+1 - No prédio em regime de condomínio fechado, detentores de acesso comum por arruamento ou caminho próprio, o fornecimento de água aos diferentes prédios ou frações pode ser efetuado por um único ramal de ligação, de calibre calculado para o efeito, do qual derivam as ramificações.
+
+2 - Nos casos previstos no número anterior, é opção prioritária a instalação de um instrumento de medição totalizador no limite do domínio público, de um instrumento de medição por cada prédio ou fração e, ainda, de um instrumento por dispositivo ou conjunto de dispositivos de utilização comum, nomeadamente dos destinados a regas, lavagens e piscinas.
+
+3 - Sem prejuízo do definido no número anterior a EG pode optar por exigir ligações autónomas.
+
+###### Artigo 56.º — Admissão de águas residuais
+
+1 - São admissíveis, nos sistemas de drenagem de águas residuais, as seguintes categorias de águas residuais:
+
+a) Águas residuais domésticas;
+
+b) Águas residuais industriais com características apropriadas.
+
+2 - Só podem ser recolhidas, tratadas e conduzidas a destino final, através dos sistemas de drenagem, as águas residuais com as características qualitativas e quantitativas admissíveis.
+
+3 - A admissibilidade referida no número anterior será decidida pela EG, tendo em conta as características do sistema de drenagem pública.
+
+4 - As características apropriadas para admissão de águas industriais são as que se determinam nos artigos 57.º e 58.º
+
+###### Artigo 57.º — Parâmetros de qualidade para admissão de águas residuais industriais em sistemas de drenagem
+
+1 - Os parâmetros de qualidade para admissão de águas residuais industriais em sistemas de drenagem estão definidos no Anexo I.
+
+2 - Os parâmetros de qualidade definidos no artigo anterior entendem-se como obrigatórios na autorização de ligação aos sistemas de drenagem.
+
+3 - Em caso de omissão, os parâmetros devem obedecer aos limites de descarga constantes do anexo XVIII do [Decreto-Lei n.º 236/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1998-430457), de 1 de agosto.
+
+###### Artigo 58.º — Parâmetros quantitativos para admissão de águas residuais industriais em sistemas de drenagem
+
+1 - Os caudais de ponta das águas residuais industriais deverão ser drenados pelos sistemas sem quaisquer problemas de natureza hidráulica ou sanitária.
+
+2 - A flutuação dos caudais, diária ou sazonal, não deve causar perturbações nos sistemas de drenagem nem nas estações de tratamento.
+
+3 - A EG decidirá, em cada caso, sobre a admissibilidade de natureza quantitativa materializada nos n.os 1 e 2 anteriores.
+
+###### Artigo 59.º — Lançamentos interditos
+
+Nas redes públicas de drenagem de águas residuais domésticas não podem ser descarregadas:
+
+a) Matérias radioativas em concentrações consideradas inaceitáveis pelas entidades competentes e efluentes que pela sua natureza química ou microbiológica constituam um elevado riscam para a saúde pública ou para a conservação de tubagens;
+
+b) Águas residuais pluviais;
+
+c) Águas de circuitos de refrigeração;
+
+d) Gasolina, benzeno, nafta, gasóleo, ou outros líquidos, sólidos ou gases venosos, tóxicos ou radioativos;
+
+e) Lamas e resíduos sólidos;
+
+f) Águas com propriedades corrosivas capazes de danificarem ou porem em perigo os sistemas públicos de drenagem;
+
+g) Substâncias sólidas ou viscosas em quantidades ou de dimensões tais que possam causar obstruções ou qualquer outra interferência com o funcionamento das redes tais como, entulho, cimento, cinzas, escórias, areias, lamas, palha, resíduos triturados ou não, sangue, estrume, cabelos, peles, vísceras de animais e, ainda, pratos, copos e embalagens de papel, entre outras;
+
+h) Águas residuais que contenham substâncias que, por si ou mesmo por interação com outras, solidifiquem ou se tornem apreciavelmente viscosas entre 0º e 65ºC;
+
+i) Águas residuais que contenham óleos e gorduras de origem vegetal e animal cujos teores excedam 250 mg/L de matéria solúvel em éter;
+
+j) Águas residuais que contenham concentrações superiores a 2.000 mg/L de sulfatos, em SO4;
+
+k) Matérias explosivas ou inflamáveis;
+
+l) Quaisquer outras substâncias que, de uma maneira geral, possam obstruir e ou danificar as canalizações e seus acessórios, ou causar danos, retardando ou paralisando os processos transformativos nas instalações complementares.
+
+###### Artigo 60.º — Autorização de descarga de águas residuais no coletor público para efeitos de licenciamento ambiental
+
+1 - Poderão ser emitidas declarações de descarga aos consumidores domésticos ou equiparados a domésticos e aos consumidores industriais mediante pedido de emissão por parte do consumidor.
+
+a) Os consumidores domésticos são aqueles cujos contratos de utilização de água e saneamento são classificados como domésticos;
+
+b) Os consumidores equiparados a domésticos são aqueles cujos contratos de utilização de água e saneamento não são classificados como domésticos mas cuja produção de águas residuais é estritamente doméstica, ou seja, os efluentes provêm, exclusivamente, de instalações sanitárias e de pequenos refeitórios para um número de funcionários inferior ou igual a 10;
+
+c) Nos termos do articulado no n.º 3 do artigo 56.º, excluem-se das alíneas anteriores as atividades relacionadas com restauração e hotelaria, sendo estas consideradas, para os devidos efeitos, como consumidores industriais;
+
+d) Os consumidores industriais são todos os consumidores cujos contratos são diferentes dos referidos nas alíneas a) e b);
+
+e) Os consumidores serão classificados como equiparados a domésticos mediante vistoria ao local.
+
+2 - Após apreciação do pedido, pode a EG:
+
+a) Emitir declaração de autorização de descarga de águas residuais no coletor público, nos casos previstos nas alíneas a) e b) do n.º 1;
+
+b) Emitir declaração de autorização de descarga de águas residuais no coletor público nos restantes casos, fazendo-a depender de condições específicas de pré-tratamento e das demais condições, a serem cumpridas no decurso de um determinado período de tempo, para que as águas residuais industriais possam ser descarregadas no coletor público com as características mínimas exigidas no Anexo I;
+
+c) Condicionar a sua decisão à verificação das características e eficiências do pré-tratamento existente e à apresentação de análises de controlo;
+
+d) Não autorizar a ligação ao sistema público de drenagem de águas residuais, se considerar que existe risco para a proteção da saúde do pessoal que os opera e ou se considerar que põe em causa o tratamento coletivo das águas residuais nas suas ETAR.
+
+e) Não autorizar a ligação de efluentes de consumidores industriais ao sistema público de drenagem de águas residuais caso os caudais ou características dos efluentes ponham em causa a capacidade ou características do sistema público de drenagem.
+
+3 - Os termos da autorização serão elaborados em conformidade com o modelo existente na EG e serão devidamente fundamentados, especificando entre outras, as seguintes condições:
+
+a) Local de ligação;
+
+b) Processo de autocontrolo;
+
+c) Realização de ações de fiscalização;
+
+d) Instalação de medidores de caudal e caixas para efeitos de medições e colheitas;
+
+e) Valores máximos admissíveis de parâmetros.
+
+4 - As declarações terão a validade de um ano a contar da data de emissão.
+
+5 - Os pedidos de renovação seguem os mesmos trâmites do pedido inicial.
+
+6 - Tanto os consumidores domésticos como os equiparados a domésticos estão isentos da monitorização dos parâmetros definidos no Anexo I.
+
+7 - No decorrer da vigência da declaração emitida, os consumidores industriais comprometem-se a apresentar o resultado das análises aos parâmetros definidos no Anexo I, a efetuar a uma amostra de água residual, colhida na caixa de saída a montante do coletor municipal, em dois períodos distintos: no primeiro e no segundo semestre do período definido.
+
+a) Poderá ser exigido um procedimento de autocontrolo específico;
+
+b) As análises deverão ser colhidas e realizadas por um laboratório acreditado;
+
+c) O não cumprimento do valor máximo admissível para qualquer um dos parâmetros definidos no Anexo I, poderá conduzir ou à suspensão temporária da validade da declaração ou à suspensão definitiva da mesma;
+
+d) Cabe à EG, mediante a gravidade do incumprimento, decidir pelo tipo de suspensão definida na alínea anterior;
+
+e) A suspensão temporária tem a duração de três meses, sendo que após este período o consumidor poderá reaver a validade da declaração desde que demonstre voltar a cumprir com as normas de descarga;
+
+f) Mantendo-se o incumprimento após o prazo estipulado para a suspensão temporária, ou no caso de suspensão definitiva, o consumidor deverá devolver a declaração original em vigor à EG e esta última deverá comunicar a situação à entidade competente na área do ambiente;
+
+8 - A EG reserva-se o direito de realizar análises ao efluente bruto dos consumidores ligados à rede pública de coletores de drenagem.
+
+a) Em caso de não cumprimento do valor máximo admissível para qualquer um dos parâmetros definidos no Anexo I, a EG suspenderá imediatamente a validade da declaração, aplicando-se o disposto na alínea f) do n.º 7.
+
+###### Artigo 61.º — Utilização de fossas séticas
+
+1 - Em zonas não servidas por rede pública de drenagem, é obrigatória a construção de fossas séticas bem como a manutenção das mesmas, sendo os utilizadores responsáveis pela sua construção, estado de conservação, manutenção e limpeza.
+
+2 - É proibido construir fossas séticas, poços absorventes ou de infiltração, trincheiras filtrantes, drenos ou outros órgãos similares, caso exista rede pública de drenagem de águas residuais disponível a menos de 20 m do limite da propriedade.
+
+3 - As fossas séticas existentes em locais servidos pela rede pública de drenagem devem ser desativadas no prazo de 90 dias a contar da data de conclusão do ramal de ligação, sendo o proprietário obrigado a aterrá-las depois de desconectadas, esvaziadas e desinfetadas e a assegurar um destino adequado às matérias retiradas da fossa.
+
+###### Artigo 62.º — Conceção e construção de fossas séticas
+
+1 - A conceção e o dimensionamento de fossas séticas, a apresentação dos projetos e a execução da respetiva obra devem cumprir integralmente o disposto na legislação em vigor e demais disposições regulamentares.
+
+2 - As fossas séticas devem ser reservatórios estanques, concebidos, dimensionados e construídos de acordo com critérios adequados, tendo em conta o número de habitantes a servir e respeitando, além da legislação em vigor, os seguintes aspetos:
+
+a) Podem ser construídas in situ ou prefabricadas, com elevada integridade estrutural e completa estanquidade de modo a garantir a proteção da saúde pública e ambiental;
+
+b) Devem ser compartimentadas, de forma a minimizar perturbações no compartimento de saída resultante da libertação de gases e de turbulência provocada pelos caudais afluentes;
+
+c) Devem permitir o acesso seguro a todos os compartimentos para inspeção e limpeza;
+
+d) Devem ser equipadas com defletores à entrada, para limitar a turbulência causada pelo caudal de entrada e não perturbar a sedimentação das lamas, bem como à saída, para reduzir a possibilidade de resuspensão de sólidos e evitar a saída de materiais flutuantes.
+
+3 - A implantação de órgãos complementares a jusante da fossa sética, nomeadamente do tipo poço absorvente, drenos ou trincheiras filtrantes, será, obrigatoriamente, precedida de um estudo de ensaio no terreno para avaliação da sua permeabilidade ou capacidade de infiltração.
+
+4 - No caso do terreno não possuir capacidade de infiltração, deve o proprietário proceder periodicamente ao seu despejo de acordo com estipulado no artigo 56.º
+
+5 - O utilizador deve requerer licença para descarga de águas residuais à entidade competente, nos termos da legislação aplicável para a utilização do domínio hídrico.
+
+###### Artigo 63.º — Limpeza e despejo de fossas séticas
+
+1 - A responsabilidade pela manutenção das fossas séticas é dos seus utilizadores, de acordo com procedimentos adequados, tendo nomeadamente em conta a necessidade de recolha periódica e de destino final das lamas produzidas.
+
+2 - A limpeza das fossas séticas poderá ser efetuada pela EG, mediante requerimento e respetivo pagamento, ou por empresas que desenvolvam a atividade de limpeza e despejo de fossas, a pedido dos interessados, utilizando para tal os meios mecânicos de sucção, transporte e destino final adequados.
+
+3 - Terminado o serviço deve o utilizador obter junto do prestador, o original do modelo A - Guia de Acompanhamento de Resíduos, em vigor, devidamente preenchido.
+
+4 - Os pedidos de limpeza de fossa dirigidos aos SMASPDL devem ser feitos com duas semanas de antecedência relativamente ao momento em que o nível das lamas diste menos de 30cm da saída da fossa.
+
+5 - Os despejos são realizados na presença dos serviços municipais, devendo ser-lhes entregues as restantes cópias do modelo A - Guia de Acompanhamento de Resíduos, em vigor, devidamente preenchidas.
+
+6 - É expressamente proibido o lançamento das lamas de fossas séticas diretamente na via pública ou em terrenos públicos ou particulares em situações que possam por em causa as adequadas condições de salubridade e de saúde pública.
+
+### CAPÍTULO VI — Instrumentos de medição
+
+###### Artigo 64.º — Contadores de água
+
+1 - Os contadores a empregar são dos tipos e calibres autorizados para serem utilizados na medição de água, nos termos da legislação vigente sobre metrologia.
+
+2 - Os contadores destinados à medição do consumo de água são propriedade da EG, que é responsável pela respetiva instalação, manutenção e substituição.
+
+3 - Deve existir um contador para medição do consumo de água em cada local de consumo, incluindo as partes comuns dos condomínios quando nelas existam dispositivos de utilização.
+
+4 - O diâmetro nominal e o intervalo de medição, nos termos do MID, dos contadores são fixados pela EG tendo em conta:
+
+a) O caudal de cálculo previsto na rede de distribuição predial;
+
+b) A pressão de serviço máxima admissível;
+
+c) A perda de carga.
+
+5 - Os utilizadores domésticos podem requerer a instalação de um segundo contador para usos que não deem origem a águas residuais recolhidas pelo sistema público de drenagem de águas residuais, devendo ser aplicadas ao consumo desse contador as tarifas de abastecimento previstas para os utilizadores não-domésticos, e não devendo servir o correspondente consumo para o cômputo das tarifas de saneamento e resíduos, quando exista tal indexação.
+
+6 - As instalações interiores de abastecimento de piscinas, caso sejam independentes da restante rede interior de abastecimento devem ser providas de contador próprio.
+
+7 - A água fornecida através de fontanários ligados à rede pública de abastecimento de água deve igualmente ser objeto de medição.
+
+###### Artigo 65.º — Medidores de caudal de águas residuais
+
+1 - A pedido do utilizador não-doméstico, ou por iniciativa da EG pode ser instalado um medidor de caudal, desde que isso se revele técnica e economicamente viável.
+
+2 - Os medidores de caudal são fornecidos e instalados pela EG, a expensas do utilizador não-doméstico.
+
+3 - A instalação dos medidores pode ser efetuada pelo utilizador não-doméstico desde que devidamente autorizada pela EG.
+
+4 - Os medidores de caudal são instalados em recintos vedados e de fácil acesso, ficando os proprietários responsáveis pela sua proteção e respetiva segurança.
+
+5 - Quando não exista medidor o volume de águas residuais recolhidas é estimado e faturado nos termos previstos no presente Regulamento.
+
+###### Artigo 66.º — Instalação e Localização dos contadores
+
+1 - Nenhum contador pode ser instalado, nem deve ser mantido em serviço, sem o controlo metrológico previsto na legislação em vigor.
+
+2 - Os contadores são colocados em caixas executadas ou montadas pelos proprietários dos prédios, em local confinante com a via pública e nos edifícios com logradouros privados, as caixas devem localizar-se no logradouro junto à zona contígua com a via pública que permita uma fácil leitura do consumo pelo exterior.
+
+3 - No caso de empreendimentos turísticos, edificações de impacte semelhante a loteamento, ou outros contratos especiais, correspondendo a mais do que um utilizador, deve ser instalado no ramal de ligação à rede pública um contador totalizador e, quando tecnicamente viável, uma bateria de contadores no limite da propriedade, ou ser adotado outro modelo de leitura, de acordo com instruções da EG.
+
+4 - Em casos especiais pode a EG definir outra localização.
+
+5 - Os contadores devem ser instalados obrigatoriamente em caixa de proteção apropriada, com visor para permitir a leitura a partir do exterior, e que deve ter as seguintes dimensões mínimas para o caso comum de contadores de 15 mm e de 20 mm: largura 48 cm; altura 32 cm e profundidade 18 cm.
+
+6 - Para contadores de maior calibre, as medidas da caixa são definidas caso a caso pela EG.
+
+7 - Os contadores são selados e instalados com os suportes e proteção adequados, de forma a garantir a sua conservação e normal funcionamento.
+
+8 - Imediatamente a montante e a jusante dos contadores são instaladas torneiras de segurança.
+
+###### Artigo 67.º — Localização e tipo de medidores de caudal
+
+1 - A EG define a localização e o tipo de medidores de caudal, tendo em conta:
+
+a) O caudal de cálculo previsto na rede de drenagem predial;
+
+b) As características físicas e químicas das águas residuais.
+
+2 - Os medidores podem ter associados equipamentos e ou sistemas tecnológicos que permitam à EG a medição dos níveis de utilização por telecontagem.
+
+###### Artigo 68.º — Responsabilidade pelos contadores
+
+1 - Todo o contador fica sob o controlo e responsabilidade imediata do utilizador respetivo, o qual avisa a EG, logo que reconheça que este apresente qualquer tipo de anomalia.
+
+2 - Os utilizadores devem avisar a EG de eventuais anomalias de medição que detetem no contador de água tendo direito à sua verificação extraordinária em instalações de ensaio devidamente credenciadas.
+
+3 - O utilizador responde por todos os danos, deterioração ou perda ou furto do contador.
+
+4 - A responsabilidade do utilizador não abrange os danos resultantes do seu uso normal e desde que dê conhecimento imediato à EG.
+
+5 - O utilizador responde também pelos danos causados pelo emprego de qualquer meio ou artifício capaz de influir no funcionamento ou marcação do contador, sem prejuízo da responsabilidade criminal que ao caso couber.
+
+6 - Os consumidores são obrigados a permitir e facilitar a inspeção dos contadores de consumo de água aos trabalhadores devidamente identificados, para tal designados pela EG.
+
+7 - Os custos relativos à reparação ou substituição de contadores por danos causados pelos utilizadores são da responsabilidade destes.
+
+###### Artigo 69.º — Verificação do contador
+
+1 - O utilizador pode solicitar a aferição extraordinária do contador em instalações de ensaio devidamente credenciadas, sendo que a mesma só se realiza depois de o interessado efetuar o pagamento da tarifa de aferição a qual é restituída no caso de se verificar o mau funcionamento do contador.
+
+2 - A EG, sempre que julgue conveniente, pode mandar proceder à aferição do contador, à sua reparação ou substituição, ou ainda, à colocação provisória de um contador testemunha, sem qualquer encargo para o consumidor.
+
+3 - Nas verificações dos contadores, os erros admissíveis serão os previstos na legislação em vigor sobre controlo metrológico dos contadores para água potável fria.
+
+4 - O utilizador receberá cópia do respetivo boletim/relatório de verificação do contador.
+
+5 - Quando a aferição do contador implicar a correção do consumo, a EG notifica o utilizador, por escrito, tendo em vista o acerto de contas.
+
+###### Artigo 70.º — Substituição de contadores
+
+1 - A EG poderá proceder à substituição ou ainda a colocação provisória de um outro contador sempre que o entenda conveniente, sem qualquer encargo para o utilizador.
+
+2 - A EG deve ainda proceder à substituição do contador se:
+
+a) Este atingir o termo de vida útil;
+
+b) Tiver conhecimento de qualquer anomalia, por razões de exploração e controlo metrológico.
+
+3 - A EG deve avisar o utilizador da data e da hora prevista, a qual não deverá iniciar-se com atraso superior a duas horas.
+
+4 - Na data da substituição deve ser entregue ao utilizador um documento onde constem as leituras registadas pelo contador substituído e pelo contador que a partir desse momento passa a registar o consumo de água.
+
+5 - A EG é responsável pelo pagamento dos custos com a substituição ou reparação dos equipamentos de medição por anomalia não imputável ao utilizador.
+
+###### Artigo 71.º — Leitura dos contadores
+
+1 - Os valores lidos devem ser arredondados para o número inteiro e anterior ao volume efetivamente medido.
+
+2 - As perdas e fugas de água registadas nas redes de distribuição interiores e seus dispositivos de utilização são havidas como consumos e como tal faturadas.
+
+3 - Em caso de derrame oculto na rede de distribuição predial, devidamente comprovado pelos serviços técnicos, a requerimento do interessado será aplicado, na fatura do mês em que ocorreu o derrame e na do mês imediatamente a seguir, a tarifa do 1.º escalão de consumo doméstico a todo o consumo que exceder a média da instalação.
+
+4 - O deferimento do pedido a que se refere o número anterior, inibe o consumidor de, no período de 2 anos contados a partir do mês em que foi detetado o derrame, requerer nova retificação de fatura devido a derrame oculto.
+
+5 - Para efeitos de liquidação, a EG deve proceder à leitura real dos instrumentos de medição por intermédio de trabalhadores devidamente credenciados, com uma frequência mínima de duas vezes por ano e com um distanciamento máximo entre duas leituras consecutivas de oito meses.
+
+6 - O utilizador deve facultar o acesso dos trabalhadores da EG, ao instrumento de medição, com periodicidade a que se refere o número anterior, quando este se encontre localizado no interior do prédio servido, ou sempre que se julgue conveniente.
+
+7 - Sempre que por indisponibilidade do utilizador se revele por duas vezes impossível o acesso ao contador de água, o utilizador é avisado por carta registada ou meio equivalente, da data e intervalo horário, com amplitude máxima de duas horas, da terceira deslocação a fazer para o efeito, assim como da cominação da suspensão do fornecimento no caso de não ser possível a leitura.
+
+8 - Sem prejuízo da suspensão do serviço, o prazo de caducidade das dívidas relativas aos consumos reais não começa a correr enquanto não puder ser realizada a leitura por parte da EG por motivos imputáveis ao utilizador.
+
+9 - O utilizador pode fornecer aos serviços, a leitura efetiva do contador por mensagem eletrónica, serviços postais, por telefone, ou por quaisquer outros meios que a EG possa disponibilizar aos utilizadores para facilitar a sua comunicação.
+
+###### Artigo 72.º — Correção e avaliação dos valores de consumo
+
+Nos períodos em que não haja leitura, o consumo é estimado nos termos da legislação em vigor, nomeadamente:
+
+1 - Quando, por motivo de irregularidade de funcionamento do contador devidamente comprovada, a leitura deste não deva ser considerada, o consumo será avaliado:
+
+a) Pelo consumo médio de um intervalo de 30 dias apurado dos últimos 12 meses;
+
+b) Pelo consumo de equivalente período do ano anterior quando não existir a média referida na alínea a);
+
+c) Pela média do consumo apurado nas duas leituras subsequentes aos elementos referidos nas alíneas a) e b).
+
+2 - O disposto no número anterior aplicar-se-á também quando se verifique que o contador não funciona, ou por motivo imputável ao consumidor não tenha sido efetuada a leitura e, bem assim, nos casos em que essa mesma leitura não se realize, nos termos do n.º 7 do artigo anterior.
+
+3 - As diferenças de consumo, por defeito ou por excesso, verificadas nos casos previstos na parte final do número anterior, serão regularizadas no período imediato, logo que sejam do conhecimento da EG.
+
+### CAPÍTULO VII — Contratos de fornecimento de água e de drenagem de águas residuais
+
+###### Artigo 73.º — Contrato de fornecimento
+
+1 - Salvo os contratos que forem objeto de cláusulas especiais, os serviços de abastecimento de água e drenagem de águas residuais são objeto de um único contrato, celebrado entre a EG e os utilizadores que disponham de título válido para a ocupação do imóvel.
+
+2 - Para efeitos do número anterior, deve considerar-se indissociável da contratação do serviço de abastecimento, a contratação do serviço de saneamento desde que este esteja disponível através das redes fixas, podendo a sua contratação igualmente ocorrer por solicitação do utilizador em casos em que o serviço de abastecimento não se encontre disponível ou o serviço de saneamento só venha a ser disponibilizado em data posterior à da celebração do contrato de abastecimento.
+
+3 - A celebração do contrato implica a adesão dos futuros utilizadores às prescrições do presente Regulamento.
+
+4 - Os contratos são elaborados em impressos de modelo próprio da EG e instruídos em conformidade com as disposições legais em vigor à data da sua celebração.
+
+5 - O requerente instrui o seu pedido com documentos que provem a qualidade em que pretende contratar e a sua legitimidade de ocupação do local.
+
+6 - O contrato é posto gratuitamente à disposição dos utilizadores pela EG, dele devendo constar necessariamente:
+
+a) A identificação do utilizador e a qualidade em que contrata;
+
+b) A identificação do local de consumo, incluindo a indicação do artigo matricial do prédio ou fração ou, quando omisso, cópia da declaração para inscrição na matriz predial e do alvará de utilização ou documento equivalente;
+
+c) A modalidade de pagamento.
+
+7 - A EG, no momento da celebração do contrato, entrega ao utilizador o duplicado do contrato, bem como as condições contratuais da prestação do serviço, incluindo informação clara e precisa acerca dos principais direitos e obrigações dos utilizadores e da EG.
+
+8 - A EG inicia o fornecimento de água e a recolha de efluentes no prazo de cinco dias a contar da data da receção do pedido de contrato de fornecimento com ressalva das situações de força maior.
+
+9 - Todos os utilizadores que disponham de título válido para ocupação do edifício devem efetuar a mudança de titularidade dos contratos de fornecimento sempre que estes não estejam em seu nome e sempre que os contadores registem a primeira contagem de consumo, no prazo de 15 dias, contados da data de verificação do facto, sob pena da interrupção de fornecimento de água.
+
+10 - Caso não seja dado cumprimento ao número anterior ou sempre que ocorra a rescisão de contrato, por parte do anterior utilizador, o restabelecimento do fornecimento fica dependente da celebração de um novo contrato com a EG, nos termos do presente Regulamento.
+
+11 - Sempre que o último titular ativo do contrato e o requerente do novo contrato coincidirem na mesma pessoa, deve aplicar-se o regime de "Suspensão e Reinicio do Contrato".
+
+12 - O titular do contrato considera-se domiciliado na morada por si fornecida, podendo indicar endereço eletrónico para efeito da receção de toda a correspondência relativa à prestação do serviço, comunicando à EG, no prazo de 15 dias, qualquer alteração ao domicílio convencionado.
+
+13 - A cessação do contrato de fornecimento de água ocorre por denúncia, nos termos do artigo 80.º, e por caducidade nos termos do artigo 81.º
+
+14 - A alteração do utilizador pode ser feita por transmissão da posição contratual ou através da substituição do contrato de fornecimento de água e de drenagem de águas residuais.
+
+15 - O contrato, por morte do contratante, poderá ser averbado em nome do cônjuge ou de legítimo herdeiro, mediante a apresentação de documentação comprovativa legal.
+
+###### Artigo 74.º — Componentes do contrato
+
+1 - Os contratos de fornecimento de água e de recolha de águas residuais devem mencionar o nome e o endereço do titular do contrato, o tipo de consumo, o calibre do contador, os procedimentos de leitura desse instrumento, a periodicidade da faturação e a forma de pagamento.
+
+2 - Os contratos referidos no número anterior identificam o endereço postal e eletrónico, e os números de telefone da EG responsável pelo serviço, tendo em vista a comunicação de avarias, ruturas e deficiências de fornecimento, o pagamento de faturas e a requisição de serviços.
+
+3 - A EG, disponibilizará aos utilizadores, por escrito, e no momento da celebração do contrato, as condições contratuais da prestação do serviço, incluindo informação clara, e precisa, acerca dos principais direitos e obrigações dos utilizadores e da EG, nomeadamente, quanto à medição, faturação, cobrança, condições de suspensão do serviço, tarifário, reclamações e resolução de conflitos.
+
+4 - De acordo com o estipulado no presente artigo é expressamente proibida a manutenção do contrato de abastecimento de água em nome do utilizador que não possua título válido e suficiente para ocupação do imóvel a que o contrato se refere.
+
+###### Artigo 75.º — Aplicação no tempo
+
+1 - Nos contratos de fornecimento de água celebrados antes da entrada em vigor do presente regulamento, considerar-se-á que o respetivo objeto abrange igualmente os serviços de drenagem de águas residuais, salvo oposição expressa dos consumidores, a apresentar dentro do prazo de 6 meses, contados a partir da sua entrada em vigor.
+
+2 - Verificando-se a oposição a que alude o número anterior, será celebrado com o utilizador em causa contrato(s) autónomo(s) de drenagem de águas residuais.
+
+###### Artigo 76.º — Requisitos da celebração do contrato
+
+1 - Os utilizadores que disponham de título válido e suficiente (ser proprietário, comodatário, usufrutuário, ou arrendatário e existir alvará de utilização de imóvel ou documento que o substitua) podem solicitar a contratualização dos serviços de abastecimento de água e de drenagem de águas residuais.
+
+2 - A celebração do contrato depende do pagamento pelos requerentes do custo do ensaio e vistoria da rede de distribuição interior, quando a esta haja lugar nos termos do presente Regulamento.
+
+3 - Com a celebração do contrato, deve o utilizador efetuar o pagamento de todas as suas dívidas, caso existam, referentes ao serviço de fornecimento de água e de drenagem de águas residuais.
+
+4 - Não pode ser recusada celebração de contratos de fornecimento com novo utilizador com base na existência de dívidas emergentes de contrato distinto com outro utilizador que tenha anteriormente ocupado o mesmo imóvel, salvo quando seja manifesto que a alteração do titular do contrato visa o não pagamento do débito.
+
+###### Artigo 77.º — Contratos especiais
+
+1 - São objeto de contratos especiais, com o clausulado adequado, os serviços de fornecimento de água ou de drenagem de águas residuais que, devido ao seu elevado impacto na rede de distribuição, devam ter um tratamento específico, ou quando as águas residuais devam ter um tratamento específico, reservando-se a EG o direito de proceder às medições de caudal e à recolha das amostras que considerar necessárias para controlo.
+
+2 - Podem ainda ser inseridas condições especiais para os contratos relativos a fornecimentos temporários ou sazonais de água, zonas de concentração de população ou atividades com caráter temporário, tais como obras, feiras, circos, vendedores ambulantes, exposições e equipamentos de diversão.
+
+3 - Quando as águas residuais a recolher possuam características agressivas ou perturbadoras dos sistemas públicos de drenagem, os contratos devem incluir a exigência de pré-tratamento das águas residuais industriais, antes da sua ligação ao sistema público de drenagem.
+
+4 - Na recolha de águas residuais devem ser claramente definidos os parâmetros de poluição que não devem exceder os limites aceitáveis pelo sistema público de drenagem.
+
+5 - Os limites superiores dos parâmetros referidos no ponto anterior são publicados em anexo.
+
+6 - Mesmo que o estabelecimento em causa não utilize água distribuída pela EG este prestará serviços de drenagem por contrato especial sendo o caudal quantificado através de equipamento de medição a instalar pelo utilizador, mediante instruções da EG.
+
+7 - Podem ser ainda celebrados contratos especiais no caso de litígio entre os titulares do direito à celebração do contrato, desde que, por fundadas razões sociais, mereça tutela a posição do possuidor.
+
+8 - Os contratos especiais são elaborados tendo em conta as características do fornecimento de água e a drenagem de águas residuais, acautelando-se o interesse da generalidade dos utilizadores e o justo equilíbrio da exploração dos sistemas públicos, a nível da qualidade e quantidade.
+
+###### Artigo 78.º — Vigência do contrato
+
+1 - O contrato entra em vigor a partir da data do início do fornecimento de água.
+
+2 - O contrato terá a duração de um mês, sucessivamente renovável, a contar da data do início do fornecimento de água, ou da data em que o ramal de ligação à rede geral de drenagem de águas residuais se encontra pronto para entrar em funcionamento.
+
+###### Artigo 79.º — Suspensão e reinício do contrato
+
+1 - Os utilizadores podem solicitar, por escrito, e com uma antecedência mínima de 10 dias, a interrupção do serviço de abastecimento de água, por motivo de desocupação temporária do imóvel, pelo prazo máximo de 12 meses consecutivos.
+
+2 - A interrupção do fornecimento prevista no número anterior depende do pagamento da respetiva tarifa e implica o acerto da faturação emitida até à data da interrupção, tendo ainda por efeito a suspensão do contrato e da faturação e cobrança das tarifas mensais associadas à normal prestação do serviço a partir da data da interrupção.
+
+3 - Quando o utilizador disponha simultaneamente do serviço de drenagem de águas residuais e do serviço de abastecimento de água, o contrato de drenagem de águas residuais suspende-se quando seja solicitada a suspensão do serviço de fornecimento de água e é retomado na mesma data que este.
+
+4 - Nas situações não abrangidas pelo número anterior o contrato pode ser suspenso mediante prova da desocupação do imóvel, solicitando, por escrito, e com uma antecedência mínima de 10 dias, a suspensão do contrato de drenagem de águas residuais.
+
+5 - O serviço é retomado no prazo máximo de 5 dias contados da apresentação do pedido pelo utilizador nesse sentido, havendo lugar ao pagamento da tarifa de reinício do fornecimento de água.
+
+6 - Se durante o período de suspensão forem registadas leituras no contador, o consumidor incorre no pagamento de coimas, sem prejuízo da cobrança da componente fixa mensal relativa ao período de suspensão, bem como dos consumos registados.
+
+###### Artigo 80.º — Denúncia do contrato
+
+1 - Os utilizadores podem denunciar a todo o tempo os contratos de fornecimento que tenham celebrado por motivo de desocupação do local de consumo, desde que o comuniquem por escrito à EG por carta registada com aviso de receção, nos próprios serviços ou correio eletrónico, com antecedência mínima de 30 dias.
+
+2 - Quando o utilizador disponha simultaneamente do serviço de drenagem de águas residuais e do serviço de abastecimento de água, o contrato de drenagem de águas residuais é denunciado quando ocorrer a denúncia do contrato de abastecimento de água.
+
+3 - Nos 15 dias subsequentes à comunicação referenciada no número anterior os utilizadores devem facultar a leitura dos instrumentos de medição instalados, produzindo a denúncia efeitos a partir dessa data e da boa cobrança dos valores em dívida.
+
+4 - Não sendo possível a leitura no prazo referido no número anterior por motivo imputável ao utilizador, este mantém-se responsável pelos encargos entretanto decorrentes.
+
+5 - A EG denuncia o contrato caso, na sequência da interrupção do serviço por mora no pagamento, o utilizador não proceda ao pagamento em dívida com vista ao restabelecimento do serviço no prazo de 30 dias.
+
+###### Artigo 81.º — Caducidade
+
+1 - Nos contratos celebrados com base em títulos sujeitos a termo, a caducidade ocorre no termo do prazo respetivo.
+
+2 - Os contratos referidos no número anterior podem não caducar no termo do respetivo prazo, desde que o utilizador prove que se mantêm os pressupostos que levaram à sua celebração.
+
+3 - No caso de obras e estaleiro de obras estabelecer-se-á a data do termo do contrato em conformidade com a data da caducidade da respetiva licença de obras.
+
+4 - Concluída a obra a que se reporta o ponto anterior, o contrato converte-se automaticamente a definitivo mediante a apresentação de cópia do alvará de utilização e da declaração para apresentação do prédio na matriz predial.
+
+5 - A caducidade tem como consequência a retirada imediata dos respetivos contadores e a interrupção do fornecimento de água.
+
+###### Artigo 82.º — Liquidação dos contratos denunciados e caducados
+
+1 - Cessado o contrato por efeito da sua denúncia nos termos do artigo 80.º e caducidade nos termos do artigo 81.º, a EG faz o apuramento do montante total em dívida.
+
+2 - Na sequência da notificação do montante dos valores referidos no número anterior, deve o utilizador proceder ao respetivo pagamento no prazo de 10 dias.
+
+###### Artigo 83.º — Saída de inquilinos
+
+1 - Os proprietários ou usufrutuários dos prédios ligados à rede geral de distribuição e de drenagem de águas residuais, cujo contrato de fornecimento de água e de drenagem de águas residuais não se encontre celebrado em seu nome, são obrigados a comunicar à EG, por escrito, no prazo de 30 dias, a saída ou entrada de novos inquilinos
+
+2 - O não cumprimento do estipulado no número anterior implica a responsabilidade solidária do proprietário ou usufrutuário pelos débitos contratuais ou regulamentares relativos ao prédio em questão.
+
+###### Artigo 84.º — Caução
+
+1 - Poderá ser exigida caução aos utilizadores domésticos nas situações de restabelecimento do serviço, na sequência de interrupção decorrente de incumprimento imputável ao utilizador.
+
+2 - Será exigida caução para contratos não-domésticos e contratos temporários ou sazonais, na vigência do contrato a qual será reembolsada desde que estejam liquidadas todas as faturas emitidas até ao termo do mesmo.
+
+3 - O montante da caução a prestar, nos casos previstos no n.º 1, bem como o seu reembolso, serão apurados e realizados de acordo com as disposições legais em vigor.
+
+4 - O montante da caução a prestar, nos casos previstos no n.º 2, será fixado pela EG.
+
+### CAPÍTULO VIII — Estrutura tarifária e faturação dos serviços
+
+#### SECÇÃO I — Estrutura tarifária
+
+###### Artigo 85.º — Incidência
+
+Estão sujeitos a tarifas relativas ao serviço de abastecimento de água e de drenagem de águas residuais todos os utilizadores finais que disponham de contrato, sendo as tarifas devidas a partir da data do início da respetiva vigência.
+
+###### Artigo 86.º — Tipos de Consumo
+
+1 - A distribuição pública de água e a drenagem de águas residuais abrange os consumos domésticos e não-domésticos.
+
+2 - A categoria consumos domésticos refere-se ao consumo de água em edifícios com fins habitacionais, desde que legalmente consideradas como tal e que e o contratante seja pessoa singular.
+
+3 - Os consumos não-domésticos referem-se ao consumo de água em todos os que não se inserem no disposto no número anterior, dividindo-se nas seguintes categorias:
+
+a) Comércio, indústria e serviços - todas as instalações destinadas ao exercício de atividades comerciais, industriais ou de serviços, incluindo as das empresas públicas e das profissões liberais, bem como as que tenham consumos registados por contadores em nome de quaisquer sociedades;
+
+b) Agrícolas - todas as instalações de prédios rústicos utilizados para fins essencialmente agrícolas;
+
+c) Navegação - todas as instalações destinadas ao abastecimento de navios;
+
+d) Administração central e regional - as instalações de todos os órgãos e serviços da administração central e regional e de todas as pessoas coletivas de direito público, com exceção das empresas públicas e autarquias;
+
+e) Instituições e agremiações particulares de fins não lucrativos - todas as instalações exclusivamente afetas ao exercício de atividades de beneficência, culturais, recreativas, desportivas ou outras consideradas de interesse público;
+
+f) Administração local - todas as instalações de órgãos e serviços das autarquias;
+
+g) Bebedouros - todas as instalações destinadas ao abastecimento de bebedouros para animais;
+
+h) Provisórios - todas as instalações destinadas a utilização temporária.
+
+4 - Os consumos em frações de prédios ou em prédios destinados a garagens, arrecadações ou outras instalações subsidiárias serão sempre considerados como consumos próprios da natureza da ocupação desses prédios ou frações de prédios.
+
+###### Artigo 87.º — Estrutura tarifária
+
+1 - As tarifas a praticar pela EG deverão assegurar o equilíbrio económico-financeiro do serviço, com um nível de atendimento adequado.
+
+2 - O valor das tarifas será fixado anualmente por deliberação da Câmara Municipal de Ponta Delgada, sob proposta do Conselho de Administração.
+
+3 - Possibilidade de existência de eventual défice tarifário, de natureza transitória, cujo valor se deve manter em patamares sustentáveis para o orçamento municipal, a quem caberá a compensação em caso da sua verificação.
+
+4 - Pela prestação do serviço de fornecimento de água e serviço de drenagem de águas residuais são faturadas aos utilizadores:
+
+a) A tarifa fixa:
+
+i) De abastecimento de água, devida em função do intervalo temporal objeto de faturação e do diâmetro do caudal e da tipologia dos consumidores, sendo expressa em euros por cada trinta dias;
+
+ii) De drenagem e tratamento de águas residuais, devida em função do intervalo temporal objeto de faturação e da existência ou não ligação ao sistema de abastecimento de água dos consumidores, sendo expressa em euros por cada trinta dias;
+
+b) A tarifa variável:
+
+i) De abastecimento de água, devida em função do volume de água fornecido durante o período objeto de faturação, sendo diferenciada de forma progressiva de acordo com escalões de consumo para os utilizadores domésticos, expressos em m3 de água por cada trinta dias;
+
+ii) De drenagem e tratamento de águas residuais, devida em função do volume de água fornecido durante o período objeto de faturação, sendo diferenciada de forma progressiva de acordo com escalões de consumo para os utilizadores domésticos, expressos em m3 de água por cada trinta dias.
+
+5 - As tarifas, previstas no número anterior, englobam a prestação dos seguintes serviços:
+
+a) De fornecimento de água:
+
+i) Fornecimento de água;
+
+ii) Celebração ou alteração de contrato de fornecimento de água;
+
+iii) Disponibilização e instalação de contador individual;
+
+iv) Disponibilização e instalação de contador totalizador por iniciativa da EG;
+
+v) Leituras periódicas programadas e verificação periódica do contador;
+
+vi) Reparação ou substituição de contador, torneira de segurança ou de válvula de corte, salvo se por motivo imputável ao utilizador;
+
+b) De drenagem de águas residuais:
+
+i) Recolha e encaminhamento de águas residuais;
+
+ii) Celebração ou alteração de contrato de drenagem de águas residuais;
+
+iii) Conservação de ramal de ligação e sua reparação, salvo se por motivo imputável ao utilizador;
+
+iv) Instalação de medidor de caudal individual, quando a EG a tenha reconhecido técnica e economicamente justificável, e sua substituição e manutenção, salvo por motivo imputável ao utilizador.
+
+6 - Para além das tarifas referidas no número anterior são cobradas pela EG tarifas em contrapartida de serviços auxiliares:
+
+a) Ligação do sistema predial ao sistema público;
+
+b) Execução de ramais de ligação nas situações previstas no presente regulamento;
+
+c) Realização de vistorias aos sistemas prediais a pedido dos utilizadores;
+
+d) Restabelecimento da ligação do serviço por incumprimento do utilizador;
+
+e) Restabelecimento urgente da ligação do serviço por incumprimento do utilizador;
+
+f) Interrupção e restabelecimento da ligação do serviço a pedido do utilizador;
+
+g) Ligação do serviço de caráter urgente;
+
+h) Leitura extraordinária de consumos de água e ou de caudais rejeitados;
+
+i) Verificação extraordinária de contador a pedido do utilizador, salvo quando se comprove a respetiva avaria por motivo não imputável ao utilizador;
+
+j) Ligação temporária ao sistema público, designadamente para abastecimento de zonas de concentração populacional temporária, ou para obras e estaleiros;
+
+k) Informação sobre o sistema público de abastecimento em plantas de localização;
+
+l) Fornecimento de água em autotanques, salvo quando justificado por interrupções de fornecimento, designadamente em situações em que esteja em risco a saúde pública;
+
+m) Recolha, transporte e destino final de lamas provenientes de fossas séticas, recolhidas através de meios móveis, exceto nas situações em que o consumidor paga as tarifas de saneamento e para as quais o serviço de limpeza de fossa é gratuito;
+
+n) Reparação ou substituição de contador, válvula de corte ou torneira de segurança a montante do contador por motivo imputável ao utilizador;
+
+o) Mudança de local do contador a pedido do utilizador.
+
+p) Outros serviços a pedido do utilizador.
+
+###### Artigo 88.º — Escalões domésticos
+
+1 - Os escalões para os consumidores domésticos são definidos nos seguintes intervalos:
+
+1.º Escalão - 0-5 m3;
+
+2.º Escalão - 6-15 m3;
+
+3.º Escalão - 16-25 m3;
+
+4.º Escalão - (maior que) 25 m3
+
+2 - Para os consumidores não-domésticos é definido um único escalão.
+
+###### Artigo 89.º — Tarifa fixa
+
+1 - A tarifa fixa de fornecimento de água é diferenciada de forma progressiva em função do diâmetro nominal do contador instalado e em função da tipologia do consumidor.
+
+2 - Para os consumidores domésticos o diâmetro nominal dos contadores é classificado de acordo com os seguintes escalões, a que corresponde a variação da tarifa fixa:
+
+a) (menor ou igual que)25 mm;
+
+b) (maior que) 25 mm; (menor ou igual que) 30 mm;
+
+c) (maior que) 30 mm; (menor ou igual que) 50 mm;
+
+d) (maior que) 50 mm; (menor ou igual que) 100 mm;
+
+e) (maior que) 100 mm.
+
+3 - Para os consumidores não-domésticos o diâmetro nominal dos contadores é classificado de acordo com os seguintes escalões, a que corresponde a variação da tarifa fixa:
+
+a) (menor ou igual que)20 mm;
+
+b) (maior que) 20mm; (menor ou igual que) 30 mm;
+
+c) (maior que) 30mm; (menor ou igual que) 50 mm;
+
+d) (maior que) 50 mm; (menor ou igual que) 100 mm;
+
+e) (maior que) 100mm; (menor ou igual que) 300 mm.
+
+###### Artigo 90.º — Tarifa Variável
+
+1 - A tarifa variável pelo abastecimento de água aplicável aos utilizadores domésticos é diferenciada de forma progressiva de acordo com os escalões de consumo definidos no artigo 89.º, expressos em m3 de água por cada trinta dias:
+
+2 - O valor final da componente variável do serviço devida pelos utilizadores domésticos é calculado pela soma das parcelas correspondentes a cada escalão.
+
+3 - A tarifa variável pelo serviço de drenagem e tratamento de águas residuais aplicável aos utilizadores domésticos corresponde a uma percentagem do valor da componente variável do abastecimento de água com um limite máximo de 90 %.
+
+4 - A tarifa variável para os consumidores não-domésticos é calculada por escalão único.
+
+###### Artigo 91.º — Tarifas Especiais
+
+1 - Os consumidores domésticos podem beneficiar das seguintes tarifas especiais:
+
+a) Tarifa social no caso do rendimento médio mensal do agregado familiar ser igual ou inferior a 1,5 vezes o valor do indexante de apoios sociais (IAS), vigente à data do requerimento, e nos termos do regulamento próprio.
+
+i) A tarifa social, definida no ponto anterior, consiste na aplicação da tarifa variável apenas a partir do 2.º escalão.
+
+b) Tarifa familiar para famílias numerosas em que o limite superior de cada escalão é incrementado em 4 m3 por cada membro do agregado familiar a partir do 5.º membro, e nos termos do regulamento próprio.
+
+2 - Os consumidores não-domésticos podem beneficiar das seguintes tarifas especiais:
+
+a) Instituições de natureza social ou organizações não-governamentais sem fins lucrativos, ou outras entidades de reconhecida utilidade pública beneficiam do tarifário social na componente variável que corresponde a 80 % da tarifa variável definida para o 3.º escalão dos consumidores domésticos;
+
+b) Os consumidores não-domésticos da administração local beneficiam do tarifário na componente variável que corresponde a 70 % da tarifa variável definida para o 3.º escalão dos consumidores domésticos;
+
+c) Os consumidores não-domésticos cuja atividade consista na transformação de produtos do ramo alimentar para consumos anuais superiores a 50.000 m3 beneficiam do tarifário na componente variável que corresponde a 90 % da tarifa variável definida para o 3.º escalão dos consumidores domésticos;
+
+d) Os consumidores não-domésticos classificados na agricultura e bebedouros beneficiam do tarifário na componente variável que corresponde a um máximo de 60 % da tarifa variável definida para o 3.º escalão dos consumidores domésticos.
+
+###### Artigo 92.º — Tarifas de serviços auxiliares
+
+As tarifas dos serviços auxiliares definidos no n.º 6 do artigo 88.º são objeto de definição em tarifário próprio, devendo o seu cálculo corresponder ao custo do serviço prestado.
+
+###### Artigo 93.º — Taxas para entidades terceiras
+
+Por imposição da ERSARA serão repercutidas pelos consumidores as taxas cobradas à EG por entidades terceiras, nomeadamente a Taxa de Controlo da Qualidade de Água e a Taxa de Recursos Hídricos.
+
+###### Artigo 94.º — Água para combate a incêndios
+
+1 - Não são aplicadas tarifas fixas no que respeita ao serviço de fornecimento de água destinada ao combate direto a incêndios.
+
+2 - O abastecimento de água destinada ao combate direto a incêndios deve ser objeto de medição, ou, não sendo possível, de estimativa, para efeitos de avaliação do balanço hídrico dos sistemas de abastecimento.
+
+3 - A água medida nos contadores associados ao combate a incêndios é objeto de aplicação da tarifa variável aplicável aos utilizadores não-domésticos, de tipo social
+
+###### Artigo 95.º — Aprovação dos tarifários
+
+1 - O tarifário do serviço de abastecimento de água e de drenagem de águas residuais é aprovado pela câmara municipal até ao final do ano civil anterior àquele que respeite.
+
+2 - O tarifário produz efeitos relativamente aos utilizadores finais 15 dias depois da sua publicação, sendo que a sua alteração acompanha a primeira fatura subsequente.
+
+#### SECÇÃO II — Faturação
+
+###### Artigo 96.º — Periodicidade e requisitos da faturação
+
+1 - A periodicidade de emissão das faturas pela EG é mensal e engloba os serviços de abastecimento de água, drenagem e gestão de resíduos urbanos.
+
+2 - As faturas emitidas discriminam detalhadamente os serviços prestados, as correspondentes tarifas e os volumes que dão origem aos valores faturados, podendo ser baseadas em leituras reais ou em estimativas de consumo, nos termos do artigo 64.º bem como das taxas legalmente exigíveis.
+
+3 - As faturas deverão ainda informar qual a data limite do seu pagamento.
+
+4 - A reclamação do consumidor contra a faturação apresentada não o exime da obrigação do seu pagamento, sem prejuízo da restituição das diferenças que posteriormente se verifique que venha a ter direito.
+
+5 - A apresentação de reclamação escrita alegando erros de medição do consumo de água suspende o prazo de pagamento da respetiva fatura caso o utilizador solicite a verificação extraordinária do contador após ter sido informado da tarifa aplicável.
+
+###### Artigo 97.º — Prazo, forma e local de pagamento
+
+1 - Os pagamentos das faturas de fornecimentos emitidas pela EG devem ser efetuados até à data limite fixada na fatura/recibo, pela forma e ou nos locais de cobrança postos à disposição dos utilizadores pela EG.
+
+2 - Expirado o prazo a que alude o número anterior, o pagamento pode ser efetuado pelos mesmos meios que no prazo de pagamento normal, vencendo-se contudo juros de mora que serão debitados e somados aos valores em dívida na fatura seguinte.
+
+3 - O prazo, a forma e o local de pagamento das tarifas avulsas, são os fixados no respetivo aviso ou fatura.
+
+4 - O atraso no pagamento, implica a cobrança de juros de mora à taxa legal em vigor.
+
+5 - No caso da falta de pagamento da fatura nos termos dos números anteriores, a EG pode proceder a cobrança coerciva e à suspensão do serviço de fornecimento de água desde que o utilizador seja notificado com uma antecedência mínima de 10 dias relativamente à data em que venha a ocorrer, nos termos do artigo 10.º do presente Regulamento.
+
+6 - O aviso prévio de suspensão do serviço, referido no número anterior, é enviado por correio registado, por via eletrónica, ou outro meio equivalente, podendo o respetivo custo ser imputado ao utilizador em mora, cujo conteúdo deve conter:
+
+a) Justificação da suspensão;
+
+b) Os meios de que dispõe para evitar a suspensão do fornecimento;
+
+c) Os meios de que dispõe para que seja restabelecido o fornecimento.
+
+7 - Decorrido o prazo atrás referido a EG suspenderá imediatamente o fornecimento de água, dispondo o consumidor de 60 dias para solicitar o restabelecimento da ligação e pagar as quantias em dívida, findo o qual a EG acionará a execução da dívida nos termos legais.
+
+###### Artigo 98.º — Pagamento em Prestações
+
+1 - Pode ser facultado aos utilizadores o pagamento dos débitos em prestações mensais, iguais e sucessivas, mediante requerimento fundamentado.
+
+2 - O número de prestações mensais referidas em 1 não pode, em regra, ser superior a 12.
+
+3 - Nos casos referidos nos números anteriores, a primeira prestação vencer-se-á no prazo de 30 dias a contar da notificação do deferimento, vencendo-se as seguintes em intervalos iguais e sucessivos de 30 dias.
+
+4 - A falta de pagamento de uma prestação implica o vencimento de todas as outras, sendo aplicado o disposto nos números 5 e 6 do artigo anterior.
+
+5 - O pagamento em prestações permite a cobrança de juros à taxa legal em vigor.
+
+6 - A deliberação quanto ao pedido de pagamento em prestações é compete ao Conselho de Administração da EG.
+
+###### Artigo 99.º — Prescrição e caducidade
+
+1 - O direito ao recebimento do serviço prestado prescreve no prazo de seis meses após a sua prestação.
+
+2 - Se, por qualquer motivo, incluindo o erro da EG tiver sido paga importância inferior à que corresponde ao consumo efetuado, o direito do prestador ao recebimento da diferença caduca no prazo de seis meses, após aquele pagamento.
+
+3 - O prazo de caducidade para a realização de acertos de faturação, relativas aos consumos reais, não começa a correr enquanto a EG não puder realizar a leitura do contador por motivos imputáveis ao utilizador.
+
+###### Artigo 100.º — Arredondamento dos valores a pagar
+
+1 - As tarifas são aprovadas com quatro casas decimais.
+
+2 - Apenas o valor final da fatura, com IVA incluído, é objeto de arredondamento, feito aos cêntimos de euro em respeito pelas exigências do [Decreto-Lei n.º 57/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2008-246504), de 26 de março.
+
+###### Artigo 101.º — Acertos de faturação
+
+1 - Os acertos de faturação do serviço de água são efetuados:
+
+a) Quando a EG proceda a uma leitura, efetuando-se o acerto relativamente ao período em que esta não se processou;
+
+b) Quando se confirme, através de controlo metrológico, uma anomalia no volume de águas medido.
+
+2 - Quando a fatura resulte em crédito a favor do utilizador final a EG procede à respetiva compensação no período de faturação subsequente. Caso não se verifique essa possibilidade, o utilizador pode receber esse valor autonomamente.
+
+### CAPÍTULO IX — Sanções
+
+###### Artigo 102.º — Regime aplicável
+
+1 - As infrações às disposições do presente Regulamento constituem contraordenações puníveis com as coimas indicadas nos artigos seguintes.
+
+2 - O regime legal das contraordenações obedece ao disposto no [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de agosto e ao [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na sua atual redação e respetiva legislação complementar.
+
+###### Artigo 103.º — Contraordenações em especial
+
+1 - Constitui contraordenação, punível com coima de (euro) 1 500 a (euro) 3.740, no caso de pessoas singulares, e de (euro) 7 500 a (euro) 44 890, no caso de pessoas coletivas, a prática dos seguintes atos ou omissões por parte dos proprietários de edifícios abrangidos por sistemas públicos ou dos utilizadores dos serviços:
+
+a) O incumprimento da obrigação de ligação dos sistemas prediais aos sistemas públicos, quando tal resulte do disposto no artigo 48.º;
+
+b) Execução de ligações aos sistemas públicos ou alteração das existentes;
+
+c) Uso indevido ou dano a qualquer obra ou equipamento dos sistemas públicos;
+
+d) Modificar a posição do contador ou violar os respetivos selos do contador ou ramais, ou consentir que outrem o faça, sem prejuízo de lhe ser interrompido o fornecimento de água.
+
+2 - Constitui contraordenação punível com coima de (euro) 150 a (euro) 2.500, no caso de pessoas singulares e do dobro no caso de pessoas coletivas as seguintes infrações:
+
+a) Contaminação da água existente em qualquer elemento da rede geral;
+
+b) Interligação de redes ou depósitos com origem em captações próprias a redes abastecidas pela rede geral;
+
+c) Execução de redes de distribuição interiores sem que o seu projeto tenha sido aprovado nos termos regulamentares;
+
+d) Inobservância das regras sobre natureza e qualidade dos materiais aplicados nas redes de distribuição e drenagem, com violação do artigo 25.º;
+
+e) Ligação e abastecimento de água a terceiros, quando não autorizados pela EG;
+
+f) Ligação de interditos no sistema de drenagem;
+
+g) Descargas de águas residuais industriais em sistemas públicos de drenagem com violação do disposto no presente Regulamento;
+
+h) A existência de prédios localizados em zonas servidas por sistemas públicos de águas residuais sem ligação da rede de drenagem predial à rede pública;
+
+i) Prédios localizados em zonas não servidas por rede pública que não disponham de sistema de tratamento de águas residuais adequado;
+
+j) Prédios localizados em zonas servidas por rede pública de drenagem que não tenham desativado as fossas existentes;
+
+k) A falta de operação de manutenção e vigilância das instalações de pré-tratamento;
+
+l) Falta de conservação e limpeza de fossas séticas;
+
+m) A titularidade de contrato sem legitimidade de ocupação do imóvel a que respeita o contrato;
+
+n) Impedimento ilícito de trabalhadores da EG, na fiscalização do cumprimento deste Regulamento e de outras normas em vigor;
+
+o) A não apresentação de telas finais;
+
+p) Se durante o período de suspensão forem registadas leituras.
+
+###### Artigo 104.º — Violação de normas não previstas no presente regulamento
+
+A violação de qualquer norma deste Regulamento que não esteja especialmente prevista no artigo anterior, é punida com uma coima a fixar entre o mínimo de (euro) 150,00 (cento e cinquenta euros) e o máximo de (euro) 3.740,00 (três mil, setecentos e quarenta euros), sendo aqueles montantes elevados para o dobro, quando o infrator for uma pessoa coletiva.
+
+###### Artigo 105.º — Responsabilidade civil e criminal
+
+1 - A aplicação de sanções acima referidas não isenta o infrator da responsabilidade civil e criminal emergente dos atos praticados.
+
+2 - O infrator é obrigado a executar os trabalhos que lhe forem indicados, dentro do prazo que para o efeito lhe for fixado, e a ele são imputadas todas as despesas feitas e os danos que da infração resultarem para a EG.
+
+###### Artigo 106.º — Negligência
+
+Todas as contraordenações previstas nos artigos anteriores são puníveis a título de negligência.
+
+###### Artigo 107.º — Reincidência
+
+Em caso de reincidência todas as coimas, previstas para as situações tipificadas nos artigos anteriores são elevadas para o dobro no seu montante mínimo permanecendo inalterado o seu montante máximo.
+
+###### Artigo 108.º — Competência para aplicação e graduação das coimas
+
+1 - A competência para a instrução dos processos de contraordenação, em resultado de auto de notícia emitido pela EG, e para a graduação e aplicação das coimas previstas neste Regulamento é do Presidente da Câmara Municipal ou a quem este delegar.
+
+2 - A graduação das coimas tem em conta a gravidade da contraordenação, o grau de culpa do agente e a sua situação económica, e considerando os seguintes fatores:
+
+a) O perigo que envolva para as pessoas, a saúde pública, o ambiente e o património público ou privado;
+
+b) O benefício económico obtido pelo agente com a prática da contraordenação.
+
+3 - Na graduação das coimas deve ainda atender-se ao tempo durante o qual se manteve a situação infracional, se for continuada.
+
+###### Artigo 109.º — Produto das coimas
+
+O produto das coimas constitui receita e é repartido em partes iguais entre a CMPD e a EG.
+
+###### Artigo 110.º — Aplicação das coimas
+
+Nos termos da lei a aplicação das coimas cabe à Câmara Municipal de Ponta Delgada
+
+###### Artigo 111.º — Recurso da decisão de aplicação de coima
+
+A decisão que aplique uma coima é suscetível de impugnação judicial, nos termos da legislação em vigor.
+
+### CAPÍTULO X — Reclamações e recursos
+
+###### Artigo 112.º — Reclamações e recursos
+
+1 - A qualquer interessado assiste o direito de reclamar, por qualquer meio, para os SMASPDL contra qualquer ato ou omissão deste ou dos respetivos serviços ou agentes, que tenha lesado os seus direitos ou interesses legalmente protegidos.
+
+2 - Os serviços de atendimento ao público dispõem de um livro de reclamações onde os utilizadores podem apresentar as suas reclamações.
+
+3 - Para além do livro de reclamações a EG disponibiliza mecanismos alternativos para a apresentação de reclamações que não impliquem a deslocação do utilizador às instalações da mesma, designadamente através de meios eletrónicos.
+
+4 - A reclamação é apreciada pela EG no prazo de 22 dias, notificando o utilizador do teor da sua decisão e respetiva fundamentação, sem prejuízo de dar conhecimento do seu conteúdo à ERSARA
+
+5 - Discordando da deliberação tomada, pode o interessado dela recorrer, nos termos da lei geral.
+
+### CAPÍTULO XI — Disposições finais e transitórias
+
+###### Artigo 113.º — Casos omissos
+
+Em tudo o omisso neste Regulamento é aplicável o disposto na legislação em vigor.
+
+###### Artigo 114.º — Norma revogatória
+
+São revogadas todas as normas regulamentares que contrariem o disposto no presente Regulamento.
+
+###### Artigo 115.º — Entrada em vigor
+
+O presente Regulamento entra em vigor no dia 20 do mês seguinte ao da sua publicação no Diário da República.
+
+## ANEXO 1 — Parâmetros de qualidade para admissão de águas residuais industriais em sistemas de drenagem
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/03/056000000/0702507043.pdf)
+
+208512196

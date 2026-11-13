@@ -1,0 +1,865 @@
+---
+schema_version: '1.0'
+id: pt:dre:1071585513:por
+title: Regulamento n.º 245/2026
+short_title: null
+summary: Aprovação da alteração ao Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas
+  «Faial Reabilita».
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município da Horta
+proposing_entity: null
+official_number: 245/2026
+official_date: null
+publication_date: '2026-03-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 51/2026, Série II de 2026-03-13
+  number: '51'
+  series: II
+  supplement: null
+  pages: 385 - 405
+  pdf_url: https://files.diariodarepublica.pt/2s/2026/03/051000000/0038500405.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1071585513'
+  dre_path: /dr/detalhe/regulamento/245-2026-1071585513
+  internal: pt:dre:1071585513:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/245-2026-1071585513
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/245-2026-1071585513
+  consolidated_url: null
+  retrieved_at: '2026-11-13T08:33:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6aa0fed8981599b0c565b608c5034d8e20b1e4ebea84cac4da78a1b4539ebcc9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T08:33:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: celex:32016R0679
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66786819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69986567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:891142965:por
+  label: null
+  source: null
+article_structure:
+  article_count: 46
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T08:33:34Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 245/2026
+
+Carlos Manuel da Silveira Ferreira, presidente da Câmara Municipal da Horta, torna público, que a Assembleia Municipal da Horta, em sua sessão ordinária realizada em 23 de fevereiro de 2026, no uso da competência que lhe é conferida pela alínea g), do n.º 1, do artigo 25.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, e depois de terem sido cumpridas as formalidades exigidas pelo Código do Procedimento Administrativo, designadamente no que se refere à consulta pública, aprovou a Alteração ao Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas “Faial Reabilita”, que a seguir se transcreve.
+
+25 de fevereiro de 2026. - O Presidente da Câmara, Carlos Manuel da Silveira Ferreira.
+
+Regulamento Municipal
+
+Alteração ao Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas “Faial Reabilita”
+
+Nota justificativa
+
+Considerando o quadro legal das atribuições e competências das autarquias locais, consolidado na [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de novembro, que incumbe aos Municípios, em geral, prosseguir os interesses próprios, comuns e específicos das populações respetivas e, especialmente, no que respeita à habitação e desenvolvimento social, previstos nas alíneas i) e m) do artigo 23.º da referida Lei.
+
+Considerando que o direito a uma habitação condigna integra, pois, o elenco dos diversos direitos constitucionalmente consagrados e representa um dos vetores essenciais à dignificação da vida humana.
+
+Considerando que o Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas “Faial Reabilita”, foi publicado no Diário da República, n.º 201, 2.ª série, [Regulamento n.º 1165/2024](https://diariodarepublica.pt/dr/detalhe/regulamento/1165-2024-891142965), no dia 16 de outubro de 2024.
+
+Considerando que um ano após a sua vigência se verifica a necessidade de dotar o presente programa de mais agilidade e menor burocracia nos trâmites e metodologia processuais.
+
+Considerando que a presente alteração ao Regulamento do Município da Horta foi elaborada nos termos do disposto no artigo 241.º da Constituição da República Portuguesa (CRP).
+
+A presente alteração ao Regulamento foi aprovada em reunião da Câmara Municipal de 14 de janeiro de 2026 e, posteriormente, em reunião da Assembleia Municipal da Horta de 23 de fevereiro de 2026, sendo que o projeto de Regulamento foi submetido a apreciação pública, nos termos e para os efeitos do disposto no artigo 101.º do novo Código do Procedimento Administrativo.
+
+###### Artigo 1.º — Alteração ao Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas “Faial Reabilita”
+
+Os artigos 8.º, 11.º, 12.º, 14.º, 18.º, 20.º, 23.º, 24.º e 33.º do Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas “Faial Reabilita”, aprovado pela Assembleia Municipal da Horta em 26 de setembro de 2024, conforme publicação no Diário da República, 2.ª série, n.º 201, de 16 de outubro de 2024, passam a ter a seguinte redação:
+
+«Artigo 8.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) Orçamento elaborado por empreiteiro com a descrição dos trabalhos a realizar e, no caso de obras superiores a € 1.000,00, deverão ser apresentados dois orçamentos;
+
+j) [...]
+
+k) [...]
+
+l) [...]
+
+m) [...]
+
+3 - [...]
+
+a) [...]
+
+b) [...]
+
+Artigo 11.º
+
+[...]
+
+1 - [...]
+
+a) [...]
+
+b) [...]
+
+2 - Caso as situações referidas no número anterior sejam posteriormente verificadas e comprovadas, haverá lugar ao cancelamento do apoio financeiro atribuído, nos termos do artigo 24.º
+
+CAPÍTULO III
+
+ANÁLISE
+
+Artigo 12.º
+
+Análise das candidaturas
+
+1 - Os serviços municipais competentes procedem à análise das candidaturas aos incentivos à reabilitação de habitação degradada ou devoluta mediante a verificação do cumprimento dos critérios de elegibilidade previstos no artigo 10.º
+
+2 - O critério de elegibilidade referente ao rendimento mensal ilíquido per capita do agregado familiar é verificado através da fórmula seguinte:
+
+Rpc = (Rm/N)
+
+em que:
+
+Rpc - Rendimento mensal per capita;
+
+Rm - Rendimento mensal do agregado;
+
+N - Número de elementos do agregado familiar.
+
+3 - Após a verificação do cumprimento dos critérios de elegibilidade, é averiguado se é aplicável à candidatura o regime de majorações previsto no artigo 16.º
+
+Artigo 14.º
+
+Apreciação liminar das candidaturas
+
+1 - Nos casos em que o pedido apresentado não se encontre regularmente instruído, será o requerente notificado, por meio de correio eletrónico, para, no prazo máximo de 10 (dez) dias úteis, proceder ao suprimento das irregularidades, nos termos do disposto no Código do Procedimento Administrativo.
+
+2 - Na ausência de pronúncia ou de suprimento das irregularidades no prazo estipulado no número anterior, será elaborada proposta de indeferimento da candidatura, com os fundamentos que lhe estão subjacentes.
+
+3 - A referida proposta de indeferimento é notificada ao requerente, por correio eletrónico, para, em sede de audiência de interessados e querendo, se pronunciar por escrito, no prazo máximo de 10 (dez) dias úteis, sob pena de nada dizendo, a mesma se tornar definitiva.
+
+4 - Caso o interessado se pronuncie, dentro do prazo que lhe for concedido, os serviços deverão elaborar informação que consubstancie, de forma fundamentada, a manutenção ou a alteração do sentido da proposta de decisão.
+
+5 - (Revogado.)
+
+Artigo 18.º
+
+Comparticipação
+
+1 - O apoio financeiro a atribuir pela Câmara Municipal da Horta para a execução das obras definidas no artigo 7.º poderá ir até ao montante de 5.000 € (cinco mil euros) por cada candidatura, a que acresce o regime de majorações previsto no artigo 16.º
+
+2 - [...]
+
+3 - O apoio financeiro é atribuído por tranches, a liquidar nos termos do artigo 17.º do presente regulamento, tendo como percentagem máxima 50 % do valor do investimento a realizar pelo munícipe.
+
+4 - [...].
+
+Artigo 20.º
+
+Processamento das comparticipações
+
+1 - Após a outorga do contrato a que se refere o n.º 3 do artigo 14.º, é atribuído ao beneficiário, a título de adiantamento, 25 % do valor do apoio financeiro.
+
+2 - O apoio financeiro é atribuído, no máximo, em quatro (4) tranches, liquidadas após vistoria ao estado da obra.
+
+3 - De cada vistoria é lavrado o respetivo auto, ao qual serão apensas as faturas respeitantes às despesas efetuadas, emitidas por empresário em nome individual ou pessoa coletiva com atividade declarada de construção civil.
+
+4 - Após a conclusão da obra é realizada a vistoria final para efeitos de verificação da sua conformidade com o orçamento apresentado e para liquidação da última tranche do apoio financeiro.
+
+5 - Os requerentes deverão apresentar os recibos referentes ao pagamento da totalidade das obras no prazo máximo de um mês após o pagamento integral da comparticipação concedida.
+
+6 - Em caso de incumprimento não justificado da execução da obra, haverá lugar ao cancelamento do apoio financeiro atribuído, nos termos do artigo 24.º, sem prejuízo das sanções legalmente aplicáveis.
+
+Artigo 23.º
+
+Famílias numerosas
+
+1 - [...].
+
+2 - (Revogado.)
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+3 - (Revogado.)
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+Artigo 24.º
+
+Regime especial
+
+1 - As famílias numerosas podem apresentar candidaturas ao programa “Faial Reabilita” a todo o tempo.
+
+2 - A comparticipação a atribuir ao abrigo do presente programa processa-se sob a forma de incentivo não reembolsável, com o limite estabelecido no artigo 15.º, incrementado de 20 % para o montante global de comparticipação.
+
+Artigo 33.º
+
+Disposição final
+
+A candidatura aos apoios financeiros implica a aceitação integral das disposições do presente regulamento e o cumprimento da legislação urbanística em vigor, quando tal se revele necessário.»
+
+###### Artigo 2.º — Aditamento ao Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas “Faial Reabilita”
+
+É aditado o artigo 13.º-A ao Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas “Faial Reabilita”, com a seguinte redação:
+
+«Artigo 13.º-A
+
+Critérios de concessão da comparticipação
+
+1 - A seleção dos candidatos será efetuada tendo em conta os seguintes critérios:
+
+a) O rendimento per capita do agregado familiar;
+
+b) Grau de degradação da habitação e condições de habitabilidade;
+
+c) Existência de menores em risco;
+
+d) Existência de idosos, doentes ou portadores de deficiência no agregado familiar ou outras pessoas com especial fragilidade;
+
+e) Outros fatores devidamente justificados que confluam para a concretização dos objetivos do presente regulamento.
+
+2 - Em caso de igualdade, prefere, em primeiro lugar, a candidatura que nunca - ou há mais tempo - tenha beneficiado de ajuda financeira a que se reporta este regulamento e, depois, a candidatura cujas obras a que se destina apresente maior necessidade de intervenção.
+
+3 - Caso não seja possível o escalonamento de acordo com as regras dos números anteriores proceder-se-á a sorteio.»
+
+###### Artigo 3.º — Aplicação no tempo
+
+As alterações promovidas pelo presente regulamento aplicam-se aos procedimentos iniciados antes da entrada em vigor e que se encontrem pendentes.
+
+###### Artigo 4.º — Norma revogatória
+
+São revogados os artigos 13.º, 15.º e 16.º do Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas “Faial Reabilita”.
+
+###### Artigo 5.º — Renumeração
+
+São renumerados os artigos 14.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 27.º, 28.º, 29.º, 30.º, 31.º, 32.º, 33.º, 34.º, 35.º, 36.º, 37.º, 38.º, 39.º, 40.º e 41.º
+
+###### Artigo 6.º — Republicação
+
+É republicada em anexo a versão consolidada do Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas “Faial Reabilita”.
+
+###### Artigo 7.º — Entrada em vigor
+
+A presente alteração ao Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas “Faial Reabilita” entra em vigor no dia seguinte ao da sua publicação no Diário da República.
+
+## ANEXO — (republicação a que se refere o artigo 6.º)
+
+Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas “Faial Reabilita”
+
+Nota justificativa
+
+Considerando o quadro legal das atribuições e competências das autarquias locais, consolidado na [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de novembro, que incumbe aos Municípios, em geral, prosseguir os interesses próprios, comuns e específicos das populações respetivas e, especialmente, no que respeita à habitação e desenvolvimento social, previstos nas alíneas i) e m) do artigo 23.º da referida Lei.
+
+Considerando que o direito a uma habitação condigna integra, pois, o elenco dos diversos direitos constitucionalmente consagrados e representa um dos vetores essenciais à dignificação da vida humana.
+
+Considerando que o Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas “Faial Reabilita”, foi publicado no Diário da República, n.º 201, 2.ª série, [Regulamento n.º 1165/2024](https://diariodarepublica.pt/dr/detalhe/regulamento/1165-2024-891142965), no dia 16 de outubro de 2024.
+
+Considerando que um ano após a sua vigência se verifica a necessidade de dotar o presente programa de mais agilidade e menor burocracia nos trâmites e metodologia processuais.
+
+Considerando que a presente alteração ao Regulamento do Município da Horta foi elaborada nos termos do disposto no artigo 241.º da Constituição da República Portuguesa (CRP).
+
+A presente alteração ao Regulamento foi aprovada em reunião da Câmara Municipal de 14 de janeiro de 2026 e, posteriormente, em reunião da Assembleia Municipal da Horta de 23 de fevereiro de 2026, sendo que o projeto de Regulamento foi submetido a apreciação pública, nos termos e para os efeitos do disposto no artigo 101.º do novo Código do Procedimento Administrativo.
+
+### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Lei Habilitante
+
+O presente Regulamento é elaborado ao abrigo do disposto no artigo 241.º da Constituição da República Portuguesa, nas alíneas h), i), m) e n) do n.º 2 do artigo 23.º, na alínea g) do n.º 1 do artigo 25.º e nas alíneas k) e v) do n.º 1 do artigo 33.º do Regime Jurídico das Autarquias Locais, aprovado pela [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro.
+
+###### Artigo 2.º — Objeto
+
+O presente Regulamento estabelece as normas gerais e o regime a que obedece a implementação e concessão de apoios financeiros e respetivas condições de atribuição a proprietários de habitações no âmbito do Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas do Município da Horta designado por “Faial Reabilita”.
+
+###### Artigo 3.º — Âmbito
+
+O presente Regulamento aplica-se a todos os prédios urbanos afetos a habitação, localizados no território do concelho da Horta.
+
+###### Artigo 4.º — Destinatários
+
+Os incentivos à reabilitação de habitações degradadas ou devolutas têm como destinatários os proprietários de habitações do concelho da Horta.
+
+###### Artigo 5.º — Definições
+
+Para efeitos do disposto no presente diploma consideram-se:
+
+a) Agregado familiar - conjunto de pessoas que residem em economia comum na habitação, constituído pelo requerente e seu cônjuge ou pessoa em união de facto há pelo menos dois anos, pelos seus parentes ou afins na linha reta ou até ao 3.º grau da linha colateral, bem como pelas pessoas relativamente às quais, por força de lei ou negócio jurídico, haja obrigação de convivência ou de alimentos;
+
+b) Agregado familiar unipessoal - O agregado familiar constituído por um indivíduo que vive sozinho, independentemente de relação conjugal sem coabitação;
+
+c) Habitação degradada - aquela que, independentemente da época de construção, não reúna as condições mínimas de habitabilidade, segurança e salubridade, nomeadamente, por deficiência ou falta de solidez ou inexistência de:
+
+i) Redes de distribuição de água, esgotos e eletricidade;
+
+ii) Instalações sanitárias;
+
+iii) Fundações, estruturas e alvenarias adequadas, vãos e escadas;
+
+iv) Revestimentos, pavimentos, coberturas e caixilharias adequadas a prevenirem a entrada de humidade ou de outros agentes atmosféricos, ou simplesmente que apresentem mau estado de conservação.
+
+d) Edificação - a atividade ou o resultado da construção, reconstrução, ampliação, alteração ou conservação de um imóvel destinado a utilização humana, bem como de qualquer outra construção que se incorpore no solo com caráter de permanência;
+
+e) Obras de reabilitação - todas as obras necessárias para restituir ao imóvel as condições de habitabilidade exigidas à data da sua realização;
+
+f) Obras de beneficiação - Obras que têm por fim a melhoria de desempenho de uma construção, sem alterarem a estrutura e o desenho existente.
+
+g) Obras de conservação - são obras destinadas a manter uma edificação nas condições existentes à data da sua construção, designadamente, as obras de restauro, reparação ou limpeza;
+
+h) Obras de reparação - os trabalhos necessários à eliminação de deficiências e/ou patologias, que causem más condições de habitabilidade;
+
+i) Operações urbanísticas - as operações materiais de urbanização, de edificação, utilização dos edifícios ou do solo desde que, neste último caso, para fins não exclusivamente agrícolas, pecuários, florestais, mineiros ou de abastecimento público de água;
+
+j) Obras de escassa relevância - as obras de edificação ou demolição que, pela sua natureza, dimensão ou localização tenham escasso impacte urbanístico.
+
+k) Rendimento anual bruto - o valor correspondente à soma dos rendimentos anuais ilíquidos auferidos por todos os elementos do agregado familiar;
+
+l) Rendimento mensal per capita - montante mensal disponível por elemento do agregado familiar que resulta da aplicação da fórmula prevista no artigo 13.º;
+
+m) Residência permanente - a habitação onde o agregado familiar reside, de forma estável e duradoura, e que constitui o respetivo domicílio para todos os efeitos, incluindo os fiscais;
+
+n) Retribuição Mínima Mensal Garantida - remuneração mínima mensal legalmente definida na Região Autónoma dos Açores (SMR).
+
+###### Artigo 6.º — Objetivos
+
+O Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas “Faial Reabilita” visa os seguintes objetivos.
+
+a) Conservar e revitalizar os edifícios, preservando a imagem e garantindo condições de segurança, habitabilidade e salubridade;
+
+b) Melhorar a imagem do tecido construído, com vista a criar condições de atração e fixação de população e de investimento privado;
+
+c) Reabilitar os principais elementos identitários na estrutura urbana, integradores da memória coletiva dos aglomerados, preservando os valores patrimoniais do concelho;
+
+d) Valorização da área de intervenção no sentido da preservação e melhoria da sua qualidade ambiental e do reforço da sua coesão e sentido urbano;
+
+e) Definição das condicionantes formais e funcionais a considerar em todos os projetos que visem intervenções urbanísticas e correção de dissonâncias e anomalias arquitetónicas;
+
+f) Apoio e incentivo ao desenvolvimento integrado, designadamente através do fomento da participação equilibrada dos agentes económicos e sociais.
+
+###### Artigo 7.º — Tipo de intervenção elegível
+
+1 - As intervenções elegíveis para efeitos do “Faial Reabilita” respeitam à execução de obras de reabilitação, conservação, reparação ou beneficiação de habitações degradadas ou devolutas, incluindo ligação às redes de abastecimento de água e saneamento, em duas vertentes:
+
+a) Reabilitação de fachadas e coberturas;
+
+b) Reabilitação do interior de habitações.
+
+2 - A reabilitação de fachadas e coberturas consiste na realização de obras de manutenção, reparação, restauro, pequenas remodelações, consolidação e reparação de paredes, refechamento de juntas, limpeza de cantarias, aplicação de rebocos e pinturas, reabilitação ou substituição de portas e janelas; recuperação e limpeza de cobertura e beirados, recuperação de gradeamentos, colocação de caleiras e tubos de queda.
+
+3 - A reabilitação do interior das habitações consiste na manutenção, restauro ou remodelação de tetos, de revestimento de paredes ou pavimentos, construção ou beneficiação de instalações sanitárias com equipamentos mínimos, como sejam o lavatório, a sanita, o poliban ou a banheira, instalação e beneficiação de redes de abastecimento de água e redes de drenagem de águas residuais domésticas, construção e beneficiação de cozinhas, instalação e beneficiação de instalações elétricas, reparação ou substituição de pavimento em ruína; ventilação e iluminação do interior da habitação, construção ou beneficiação de quartos de dormir.
+
+4 - Estão excluídas do âmbito de aplicação do presente Regulamento as seguintes operações:
+
+a) Intervenções nas partes comuns dos edifícios, à exceção das fachadas e coberturas;
+
+b) Obras já executadas no momento de apresentação da candidatura;
+
+c) Intervenções em edifícios não destinados a habitação;
+
+d) Montantes devidos pelos projetos de arquitetura e especialidades;
+
+e) Montantes correspondentes à mão-de-obra, quando os trabalhos sejam executados pelo próprio.
+
+5 - Numa mesma candidatura podem ser requeridos, cumulativamente, os dois tipos de apoio para a mesma habitação.
+
+### CAPÍTULO II — CANDIDATURAS
+
+###### Artigo 8.º — Requerimento de candidatura
+
+1 - As candidaturas são formalizadas através da apresentação de requerimento próprio, disponível no sítio institucional do Município em www.cmhorta.pt e no Gabinete de Atendimento ao Munícipe, devidamente preenchido e assinado pelo requerente e dirigido ao Presidente da Câmara Municipal da Horta, acompanhado dos documentos instrutórios previstos no número seguinte.
+
+2 - O requerimento de candidatura ao programa “Faial Reabilita” deverá ser apresentado através dos serviços online municipais, ou, em alternativa, ser remetido, em formato digital, para o endereço eletrónico geral@cmhorta.pt, presencialmente nos serviços municipais competentes ou por carta registada com aviso de receção, e devidamente instruído com os seguintes documentos, de apresentação obrigatória:
+
+a) Cópia dos cartões de cidadão de todos os elementos do agregado familiar;
+
+b) Atestado de residência, emitido pela Junta de Freguesia da área do domicílio do candidato, que comprove a composição do agregado familiar;
+
+c) Cópia da última declaração de rendimentos anual, apresentada para efeitos de IRS e referente ao ano anterior e respetiva nota de liquidação; caso candidato ou o agregado familiar não tenha auferido quaisquer rendimentos deverá ser apresentada declaração, emitida pela Autoridade Tributária, que assim o ateste;
+
+d) Cópia da caderneta predial urbana do imóvel objeto da candidatura, emitida pela Autoridade Tributária e Aduaneira;
+
+e) Cópia da certidão permanente do imóvel objeto da candidatura, emitida pela Conservatória do Registo Predial;
+
+f) Certidão de situação tributária regularizada perante a Autoridade Tributária e Aduaneira ou declaração de autorização de consulta tributária nos termos da lei, referente ao candidato;
+
+g) Certidão de situação contributiva regularizada perante a Segurança Social ou declaração de autorização de consulta contributiva nos termos da lei, referente ao candidato;
+
+h) Documento emitido por entidade bancária, onde conste a identificação do candidato e o número do IBAN;
+
+i) Orçamento elaborado por empreiteiro com a descrição dos trabalhos a realizar e, no caso de obras superiores a € 1.000,00, deverão ser apresentados dois orçamentos;
+
+j) Declaração de autorização expressa sobre a operação urbanística a executar no imóvel objeto da candidatura, devidamente datada, assinada e acompanhada de cópia dos documentos de identificação de todos os declarantes, nos termos do disposto no n.º 3 do artigo 10.º, quando aplicável;
+
+k) Cópia da escritura de habilitação de herdeiros e relação de bens, quando aplicável;
+
+l) Atestado médico de incapacidade multiúsos, quando aplicável;
+
+m) Outros elementos considerados essenciais à análise do caso concreto.
+
+3 - As candidaturas devem ser entregues, ainda, com uma declaração sob compromisso de honra, conforme o modelo apenso ao formulário a que se refere o número anterior, que ateste as seguintes situações:
+
+a) O candidato não tem dívidas ao Município da Horta;
+
+b) O candidato assume a veracidade de todos os dados constantes do formulário de candidatura.
+
+###### Artigo 9.º — Período de candidatura
+
+1 - O período normal de candidaturas ao “Faial Reabilita” decorre de 15 de janeiro a 15 de março de cada ano, podendo ser definidos pelo Presidente da Câmara Municipal, em cada ano civil, outros períodos de candidatura, no máximo de dois.
+
+2 - Para efeitos de abertura das candidaturas, o Presidente da Câmara Municipal, anualmente, proferirá despacho e elaborará editais, através dos quais serão publicitadas a data, o prazo e as condições de candidatura a este programa e promoverá a sua afixação no edifício dos Paços do Concelho, sedes das Juntas de Freguesia do concelho, página da internet do Município (http://www.cmhorta.pt) e nos locais de estilo.
+
+###### Artigo 10.º — Condições de elegibilidade
+
+1 - Para efeitos de aplicação do presente regulamento, são elegíveis as candidaturas que satisfaçam, cumulativamente, os seguintes requisitos:
+
+a) Idade igual ou superior a 18 anos;
+
+b) O imóvel objeto da candidatura localizar-se no concelho da Horta;
+
+c) Titularidade do direito de propriedade ou compropriedade do imóvel objeto da candidatura;
+
+d) Valor de rendimento mensal ilíquido per capita do agregado familiar ser igual ou inferior a uma vez virgula setenta e cinco (1,75) vezes o Salário Mínimo Regional (SMR), valor que é alargado para duas vezes (2) o SMR quando se trate de agregado familiar unipessoal;
+
+e) Situação tributária regularizada perante a Autoridade Tributária e Aduaneira;
+
+f) Situação contributiva regularizada perante a Segurança Social;
+
+g) Inexistência de dívidas ao Município da Horta;
+
+h) Inexistência de qualquer impedimento previsto no artigo seguinte.
+
+2 - As condições de elegibilidade referidas no número anterior são aplicáveis ao candidato interessado, que corresponderá necessariamente ao proprietário ou comproprietário do imóvel objeto da candidatura.
+
+3 - Quando o candidato não detenha a propriedade plena do imóvel objeto da candidatura deve ser assegurada a autorização expressa sobre a execução da operação urbanística pretendida dos demais proprietários em caso de herança indivisa ou comproprietários do imóvel.
+
+4 - Cada candidatura realizada deve referir-se apenas e exclusivamente a um imóvel ou fração.
+
+5 - O rendimento mensal ilíquido do agregado não poderá exceder três vezes e meia (3,5) o Salário Mínimo Regional.
+
+###### Artigo 11.º — Impedimentos
+
+1 - Constituem impedimentos ao acesso ao incentivo à reabilitação de habitação degradada ou devoluta as seguintes situações:
+
+a) O imóvel objeto da candidatura tenha beneficiado de apoio à habitação degradada ou devoluta, atribuído pelo Município da Horta, nos últimos dois anos;
+
+b) O imóvel objeto da candidatura seja beneficiário de apoios financeiros públicos de igual natureza ao previsto no presente regulamento, nos últimos dois anos.
+
+2 - Caso as situações referidas no número anterior sejam posteriormente verificadas e comprovadas, haverá lugar ao cancelamento do apoio financeiro atribuído, nos termos do artigo 24.º
+
+### CAPÍTULO III — ANÁLISE TÉCNICA
+
+###### Artigo 12.º — Análise das candidaturas
+
+1 - Os serviços municipais competentes procedem à análise das candidaturas aos incentivos à reabilitação de habitação degradada ou devoluta mediante a verificação do cumprimento dos critérios de elegibilidade previstos no artigo 10.º
+
+2 - O critério de elegibilidade referente ao rendimento mensal ilíquido per capita do agregado familiar é verificado através da fórmula seguinte:
+
+Rpc = (Rm/N)
+
+em que:
+
+Rpc - Rendimento mensal per capita;
+
+Rm - Rendimento mensal do agregado;
+
+N - Número de elementos do agregado familiar.
+
+3 - Após a verificação do cumprimento dos critérios de elegibilidade, é averiguado se é aplicável à candidatura o regime de majorações previsto no artigo 16.º
+
+###### Artigo 13.º — Apreciação liminar das candidaturas
+
+1 - Nos casos em que o pedido apresentado não se encontre regularmente instruído, será o requerente notificado, por meio de correio eletrónico, para, no prazo máximo de 10 (dez) dias úteis, proceder ao suprimento das irregularidades, nos termos do disposto no Código do Procedimento Administrativo.
+
+2 - Na ausência de pronúncia ou de suprimento das irregularidades no prazo estipulado no número anterior, será elaborada proposta de indeferimento da candidatura, com os fundamentos que lhe estão subjacentes.
+
+3 - A referida proposta de indeferimento é notificada ao requerente, por correio eletrónico, para, em sede de audiência de interessados e querendo, se pronunciar por escrito, no prazo máximo de 10 (dez) dias úteis, sob pena de nada dizendo, a mesma se tornar definitiva.
+
+4 - Caso o interessado se pronuncie, dentro do prazo que lhe for concedido, os serviços deverão elaborar informação que consubstancie, de forma fundamentada, a manutenção ou a alteração do sentido da proposta de decisão.
+
+5 - (Revogado.)
+
+###### Artigo 13.º-A — Critérios de concessão da comparticipação
+
+1 - A seleção dos candidatos será efetuada tendo em conta os seguintes critérios:
+
+a) O rendimento per capita do agregado familiar;
+
+b) Grau de degradação da habitação e condições de habitabilidade;
+
+c) Existência de menores em risco;
+
+d) Existência de idosos, doentes ou portadores de deficiência no agregado familiar ou outras pessoas com especial fragilidade;
+
+e) Outros fatores devidamente justificados que confluam para a concretização dos objetivos do presente regulamento.
+
+2 - Em caso de igualdade, prefere, em primeiro lugar, a candidatura que nunca - ou há mais tempo - tenha beneficiado de ajuda financeira a que se reporta este regulamento e, depois, a candidatura cujas obras a que se destina apresente maior necessidade de intervenção.»
+
+###### Artigo 14.º — Decisão de atribuição dos apoios
+
+1 - A decisão sobre a atribuição dos apoios à reabilitação de habitação degradada ou devoluta é da competência do Presidente da Câmara Municipal da Horta.
+
+2 - A decisão de aprovação ou de rejeição dos apoios à habitação degradada ou devoluta é notificada ao candidato por meio de correio eletrónico.
+
+3 - A atribuição dos apoios à habitação degradada é formalizada mediante a celebração de contrato.
+
+### CAPÍTULO IV — APOIO FINANCEIRO
+
+###### Artigo 15.º — Comparticipação
+
+1 - O apoio financeiro a atribuir pela Câmara Municipal da Horta para a execução das obras definidas no artigo 7.º poderá ir até ao montante de 5.000€ (cinco mil euros) por cada candidatura, a que acresce o regime de majorações previsto no artigo 16.º
+
+2 - O apoio financeiro a atribuir assume a forma de incentivo não reembolsável.
+
+3 - O apoio financeiro é atribuído por tranches, a liquidar nos termos do artigo 17.º do presente regulamento, tendo como percentagem máxima 50 % do valor do investimento a realizar pelo munícipe.
+
+4 - Os agregados familiares cujo rendimento per capita seja igual ou inferior ao SMR poderão usufruir de um apoio máximo correspondente a 80 % do valor do investimento, até ao valor absoluto previsto no n.º 1 do presente artigo.
+
+###### Artigo 16.º — Majorações do valor do apoio financeiro
+
+Ao valor do apoio financeiro apurado acresce 10 % por cada uma das seguintes situações que possam ser verificadas quanto ao agregado familiar:
+
+a) O agregado familiar inclui um ou mais elementos com 60 % ou mais de incapacidade;
+
+b) O agregado familiar inclui um ou mais elementos vítimas de violência doméstica;
+
+c) O agregado familiar é monoparental;
+
+d) O agregado familiar é constituído exclusivamente por elementos com 65 ou mais anos de idade à data da apresentação da candidatura;
+
+e) Outras situações de especial vulnerabilidade que, devidamente fundamentadas, devam ser consideradas análogas às alíneas anteriores.
+
+###### Artigo 17.º — Processamento das comparticipações
+
+1 - Após a outorga do contrato a que se refere o n.º 3 do artigo 14.º, é atribuído ao beneficiário, a título de adiantamento, 25 % do valor do apoio financeiro.
+
+2 - O apoio financeiro é atribuído, no máximo, em quatro (4) tranches, liquidadas após vistoria ao estado da obra.
+
+3 - De cada vistoria é lavrado o respetivo auto, ao qual serão apensas as faturas respeitantes às despesas efetuadas, emitidas por empresário em nome individual ou pessoa coletiva com atividade declarada de construção civil.
+
+4 - Após a conclusão da obra é realizada a vistoria final para efeitos de verificação da sua conformidade com o orçamento apresentado e para liquidação da última tranche do apoio financeiro.
+
+5 - Os requerentes deverão apresentar os recibos referentes ao pagamento da totalidade das obras no prazo máximo de um mês após o pagamento integral da comparticipação concedida.
+
+6 - Em caso de incumprimento não justificado da execução da obra, haverá lugar ao cancelamento do apoio financeiro atribuído, nos termos do artigo 24.º, sem prejuízo das sanções legalmente aplicáveis.
+
+###### Artigo 18.º — Pagamento do incentivo financeiro
+
+Os incentivos financeiros previstos no presente regulamento são liquidados mediante transferência bancária.
+
+###### Artigo 19.º — Prazo para execução das obras
+
+Os beneficiários ficam obrigados a iniciar as obras conforme a candidatura aprovada no prazo máximo de 3 meses a contar da data da comunicação da decisão da atribuição do incentivo e a concluí-las no prazo máximo de 1 ano a contar da mesma data, excetuando-se o caso de obras decorrentes de projeto cujo prazo de execução deve corresponder ao da respetiva licença.
+
+###### Artigo 20.º — Famílias numerosas
+
+Podem beneficiar do regime especial previsto no artigo seguinte as famílias numerosas, entendendo-se como tal os agregados familiares que comprovadamente tenham três ou mais dependentes a cargo.
+
+###### Artigo 21.º — Regime especial
+
+1 - As famílias numerosas podem apresentar as candidaturas ao programa “Faial Reabilita” a todo o tempo.
+
+2 - A comparticipação a atribuir ao abrigo do presente programa processa-se sob a forma de incentivo não reembolsável, com o limite estabelecido no artigo 15.º, incrementado de 20 % para o montante global de comparticipação.
+
+###### Artigo 22.º — Contratualização
+
+1 - Após deliberação do Presidente da Câmara Municipal a autorizar a concessão do apoio, será formalizada a intervenção através de contrato.
+
+2 - Do contrato deverá constar:
+
+a) Identificação das partes;
+
+b) Identificação do imóvel e respetiva qualidade do candidato (proprietário, comproprietário, herdeiro);
+
+c) As obras a executar e o respetivo valor;
+
+d) A tipologia e/ou o valor do apoio ou comparticipação do candidato (caso exista);
+
+e) As demais obrigações e direitos acordados entre as partes.
+
+3 - No caso de existirem comproprietários ou de o candidato ter apenas um direito a uma herança indivisa, na qual se inclui o imóvel, os restantes contitulares devem assumir expressamente, no contrato, ou em ato avulso, que concordam com as obras de intervenção e autorizam a permanência do candidato no imóvel durante o prazo mínimo de dez anos após a execução dos trabalhos.
+
+### CAPÍTULO V — FISCALIZAÇÃO
+
+###### Artigo 23.º — Obrigações dos beneficiários
+
+1 - Os beneficiários dos apoios financeiros previstos no presente regulamento ficam obrigados a proceder à atualização dos elementos processuais, nomeadamente em caso de circunstância suscetível de alterar positivamente a situação económica do agregado familiar, sob pena de cancelamento do apoio nos termos do artigo seguinte.
+
+2 - Os beneficiários ficam, ainda, obrigados a proceder à afetação dos apoios financeiros atribuídos aos fins a que se destinam, sob pena de cancelamento do apoio, nos termos do artigo seguinte.
+
+3 - A realização da despesa em valor inferior aos valores dos apoios financeiros atribuídos implica a devolução dos valores não justificados pelos beneficiários.
+
+4 - Caso os valores não justificados não sejam devolvidos nos termos do número anterior, os beneficiários ficam impedidos de concorrer aos apoios financeiros definidos no presente regulamento pelo prazo de dois anos, sem prejuízo de outras sanções legalmente aplicáveis.
+
+###### Artigo 24.º — Incumprimentos e penalidades
+
+1 - Ao abrigo do presente regulamento, determina-se o incumprimento dos apoios financeiros atribuídos caso sejam verificadas as seguintes situações:
+
+a) A não realização de despesa;
+
+b) A não execução integral das operações urbanísticas apoiadas;
+
+c) A não execução integral dos trabalhos de reabilitação, reparação e conservação apoiadas;
+
+d) A afetação dos apoios financeiros atribuídos a fins diferentes daqueles a que se destinam;
+
+e) A alienação ou a afetação do imóvel objeto do apoio financeiro a outra tipologia de utilização durante o prazo de execução do apoio;
+
+f) O apoio financeiro foi concedido indevidamente com base em falsas declarações;
+
+g) Verificação superveniente dos impedimentos a que se refere o artigo 10.º;
+
+h) O incumprimento das demais disposições previstas no presente regulamento.
+
+2 - O cancelamento dos apoios financeiros atribuídos implica a devolução total ou parcial do valor do apoio, conforme a fase em que o processo se encontre.
+
+3 - Nos casos previstos no n.º 1, os beneficiários ficam, ainda, impedidos de concorrer aos apoios financeiros definidos no presente regulamento pelo prazo de dois anos, sem prejuízo de outras sanções legalmente aplicáveis.
+
+###### Artigo 25.º — Responsabilidade
+
+A Câmara Municipal da Horta não assume qualquer responsabilidade perante terceiros, decorrente da execução das operações urbanísticas ou dos trabalhos de reabilitação, reparação e conservação apoiados ou a apoiar no âmbito do presente regulamento.
+
+###### Artigo 26.º — Afetação do apoio e destino do imóvel
+
+1 - As habitações cuja reabilitação, conservação e ampliação tenham sido financiadas ao abrigo do presente Regulamento, destinam-se obrigatoriamente à habitação própria permanente dos proprietários e do respetivo agregado familiar ou à sua colocação imediata no mercado de arrendamento habitacional, por um prazo mínimo de 5 anos.
+
+2 - A utilização da habitação para fins diferentes dos previstos no número anterior ou a sua alienação antes de decorrido o prazo de 8 anos sobre a data da concessão do apoio financeiro, implica a restituição imediata, ao Município, do valor do incentivo recebido.
+
+3 - Excetuam-se do disposto no número anterior, situações decorrentes de transmissão mortis causa.
+
+###### Artigo 27.º — Fiscalização
+
+1 - A Câmara Municipal da Horta reserva-se ao direito de, a qualquer momento, efetuar ações de fiscalização, bem como solicitar documentos, para efeitos de verificação do cumprimento das condições de atribuição dos apoios definidos no presente regulamento.
+
+2 - A Câmara Municipal da Horta reserva-se, ainda, ao direito de, a qualquer momento e sem dependência de comunicação prévia aos beneficiários, proceder a quaisquer ações de vistoria aos imóveis objeto dos apoios que repute por convenientes.
+
+### CAPÍTULO VI — DISPOSIÇÕES FINAIS
+
+###### Artigo 28.º — Dotação Orçamental Anual
+
+O incentivo a atribuir pela Câmara Municipal está condicionado à dotação orçamental inscrita em documentos previsionais para cada ano económico, podendo ser revisto, sempre que se considere imprescindível e inadiável a abrangência de novas situações.
+
+###### Artigo 29.º — Publicidade
+
+Constitui responsabilidade do candidato, no prazo de 30 (trinta) dias após a respetiva decisão, promover a publicitação do apoio concedido, com a afixação bem visível de um painel publicitário, a fornecer pela Câmara Municipal, no local de cada intervenção, que deverá permanecer até à conclusão da obra e em boas condições de manutenção.
+
+###### Artigo 30.º — Disposição final
+
+A candidatura aos apoios financeiros implica a aceitação integral das disposições do presente regulamento e o cumprimento da legislação urbanística em vigor, quando tal se revele necessário.
+
+###### Artigo 31.º — Legislação subsidiária
+
+A aplicação do presente Regulamento não exclui a aplicação de toda a legislação aplicável, nos termos gerais, nomeadamente no que concerne ao Regime Jurídico da Urbanização e da Edificação.
+
+###### Artigo 32.º — Tratamento e confidencialidade dos dados pessoais e nominativos
+
+O tratamento de dados pessoais e nominativos resultante da aplicação deste Regulamento obedecerá ao previsto no RGPD - Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, quer no cumprimento de quaisquer regras relacionadas com o tratamento de dados pessoais, quer na manutenção dos dados pessoais objeto de tratamento como estritamente confidenciais, garantindo que as pessoas autorizadas a tratar dados pessoais assumirão um compromisso de confidencialidade e se vincularão às respetivas obrigações legais de confidencialidade.
+
+###### Artigo 33.º — Regime transitório
+
+Os processos relativos a apoios municipais para a melhoria das condições de habitação de munícipes carenciados ou ao “Horta ConVida” que se encontrem pendentes à data da entrada em vigor do presente regulamento, deverão ser apreciados à luz do novo regulamento, desde que tal se mostre mais favorável ao candidato.
+
+###### Artigo 34.º — Dúvidas e omissões
+
+Os casos omissos e as dúvidas suscitadas na interpretação e aplicação do presente Regulamento, que não possam ser resolvidas pelo recurso aos critérios legais de interpretação e integração de lacunas, serão submetidos a apreciação e deliberação da Câmara Municipal da Horta.
+
+###### Artigo 35.º — Revisão do regulamento
+
+O presente Regulamento poderá ser objeto de revisão por iniciativa da Câmara Municipal ou quando se verifiquem alterações que assim o determinem.
+
+###### Artigo 36.º — Norma excecional
+
+O prazo de candidaturas previsto no n.º 1 do artigo 9.º não terá aplicação no ano de 2024, sendo o mesmo definido por despacho do Presidente da Câmara.
+
+###### Artigo 37.º — Norma revogatória
+
+Com o início da produção de efeitos do presente regulamento são revogados o Regulamento Municipal de Apoio à Melhoria das Condições de Habitação de Munícipes Carenciados, publicado através do [Regulamento n.º 127/2015](https://diariodarepublica.pt/dr/detalhe/regulamento/127-2015-66786819), no Diário da República, 2.ª série, n.º 54, de 18 de março de 2015 e o Regulamento de Apoio à Reabilitação de Fachadas - Programa “Horta ConVida”, publicado através do [Regulamento n.º 538/2015](https://diariodarepublica.pt/dr/detalhe/regulamento/538-2015-69986567), no Diário da República, 2.ª série, n.º 155, de 11 de agosto de 2015.
+
+###### Artigo 38.º — Entrada em vigor e produção de efeitos
+
+O presente regulamento entra em vigor no primeiro dia útil seguinte ao da sua publicação no Diário da República.
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071585513/1071586497.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071585513/1071586498.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1071585513/1071586499.png) |
+| --- |
+
+Declaração sob compromisso de honra
+
+Eu, (identificação do candidato), portador do bi/cc. n.º (…), válido até …, residente em …, declaro, sob compromisso de honra, a veracidade dos elementos abaixo indicados:
+
+b) Não ter dívidas ao Município da Horta;
+
+c) Assumo a veracidade de todos os dados constantes do formulário de candidatura.
+
+(… local), … de … de …
+
+(assinatura do candidato)
+
+Contrato
+
+Atribuição de Apoio Financeiro ao abrigo do Programa “Faial Reabilita”
+
+Considerando que o Município da Horta aprovou a candidatura apresentada pelo Beneficiário no âmbito do Programa Municipal de Apoio e Incentivo à Reabilitação de Habitações Degradadas ou Devolutas - “Faial Reabilita.
+
+Considerando que nos termos do n.º 1 do artigo 22.º do “Faial Reabilita” a concessão do apoio é concretizada através da celebração de um contrato.
+
+Entre:
+
+Município da Horta, com o NIPC 512 073 821, com sede no Largo Duque D’Ávila e Bolama, freguesia da Matriz, concelho da Horta, representado neste ato pelo seu Presidente, Carlos Manuel da Silveira Ferreira, nos termos da alínea u) do n.º 1 do artigo 33.º, alínea a) do n.º 1 e alínea f) do n.º 2 do artigo 35.º, ambos do Anexo I da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, adiante designado por CMH, ou Primeiro Outorgante;
+
+E
+
+[Nome do Beneficiário], titular do Cartão de Cidadão n.º [número], válido até [data], residente em [morada completa], doravante designado por “Beneficiário”;
+
+É celebrado e reciprocamente aceite o presente Contrato, que se rege pelas seguintes cláusulas:
+
+Cláusula 1.ª
+
+Objeto
+
+O presente contrato tem por objeto a concessão de um apoio financeiro, no âmbito do programa “Faial Reabilita”, destinado à execução das obras de reabilitação da habitação localizada em [morada do imóvel], descrita na Conservatória do Registo Predial da Horta sob o n.º [número].
+
+Cláusula 2.ª
+
+Obras a Executar
+
+As obras a executar são as descritas no orçamento apresentado, nomeadamente: [identificar resumidamente os tipos de obras - exemplo: substituição de cobertura, reparação de fachadas, instalação elétrica, etc.].
+
+Cláusula 3.ª
+
+Apoio Financeiro
+
+1 - O apoio financeiro a atribuir é no montante de € [valor], correspondente a [percentagem]% do investimento aprovado.
+
+2 - O apoio será liquidado em tranches, nos termos definidos no artigo 17.º do Regulamento “Faial Reabilita”.
+
+3 - A despesa prevista tem o compromisso n.º ___, datado de ___ de ___ de 20___, com registo no sistema interno dos serviços.
+
+Cláusula 4.ª
+
+Obrigações do Beneficiário
+
+O Beneficiário compromete-se a:
+
+a) Iniciar as obras no prazo máximo de 3 meses e concluí-las no prazo máximo de 1 ano a contar da comunicação da decisão do incentivo;
+
+b) Aplicar integralmente o apoio financeiro na execução das obras;
+
+c) Não alienar ou afetar a utilização do imóvel a fins diferentes de habitação própria permanente ou arrendamento habitacional, em conformidade com o estabelecido no artigo 26.º do regulamento “Faial Reabilita”;
+
+d) Restituir o apoio em caso de incumprimento ou cessação dos pressupostos legais.
+
+Cláusula 5.ª
+
+Autorizações
+
+No caso de compropriedade ou de herança indivisa, os demais titulares [anexar declaração anexa ou integrar declaração no presente contrato] autorizam expressamente as obras e a ocupação do imóvel pelo Beneficiário pelo prazo mínimo de 10 (dez) anos após a execução dos trabalhos.
+
+Cláusula 6.ª
+
+Disposições Finais
+
+Em tudo o que não esteja expressamente previsto no presente contrato, aplica-se o disposto no referido Regulamento e demais legislação aplicável.
+
+Feito em duplicado, ficando um exemplar na posse de cada uma das partes.
+
+Paços do Concelho da Horta, [data]
+
+Pelo Município da Horta
+
+Carlos Manuel da Silveira Ferreira
+
+Pelo Beneficiário
+
+([Nome do Beneficiário])
+
+319969617

@@ -1,0 +1,632 @@
+---
+schema_version: '1.0'
+id: pt:dre:1127525295:por
+title: Regulamento n.º 663/2026
+short_title: null
+summary: Regulamento do Fundo de Compensação da Unidade de Execução do Plano de Urbanização de Quarteira Norte Nordeste e
+  respetiva Comissão de Gestão.
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Loulé
+proposing_entity: null
+official_number: 663/2026
+official_date: null
+publication_date: '2026-05-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 103/2026, Série II de 2026-05-28
+  number: '103'
+  series: II
+  supplement: null
+  pages: 642 - 665
+  pdf_url: https://files.diariodarepublica.pt/2s/2026/05/103000000/0064200665.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1127525295'
+  dre_path: /dr/detalhe/regulamento/663-2026-1127525295
+  internal: pt:dre:1127525295:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/663-2026-1127525295
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/663-2026-1127525295
+  consolidated_url: null
+  retrieved_at: '2026-11-13T08:39:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 63e4696ec5a0e79ab16693dd693c291bb870f697e2240c22f58a055f40f1db59
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T08:39:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:1029263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3543736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+article_structure:
+  article_count: 34
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T08:39:12Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 663/2026
+
+Regulamento do Fundo de Compensação da Unidade de Execução do PUQNNE e Respetiva Comissão de Gestão
+
+O Plano de Urbanização de Quarteira Norte-Nordeste (PUQNNE) entrou em vigor em 11 de maio de 2010 por força da publicação no Diário da República do [Aviso n.º 9368/2010](https://diariodarepublica.pt/dr/detalhe/aviso/9368-2010-3543736) de 10 de maio.
+
+Na medida que este Instrumento de Gestão Territorial (IGT) contempla a delimitação de uma Unidade de Execução (UE), nos termos do definido no Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) - DL n.º 80/2015, de 14 de maio, designadamente, no n.º 1 do artigo 125.º (na redação então em vigor (2010), atual artigo n.º 152.º na redação atualmente em vigor), que admite a possibilidade de associar a cada UE um Fundo de Compensação (FC) e no n.º 2 desse mesmo artigo que “impõe que o fundo de compensação deve ser gerido nos termos a definir em regulamento municipal”, a Câmara Municipal de Loulé (CML) elaborou e aprovou por maioria, em 26 de Novembro de 2010, o Regulamento Municipal de Perequação Compensatória e dos Fundos de Compensação (RMPCFC), tendo o mesmo sido publicado em 13 de dezembro de 2010 sob o [Regulamento n.º 875/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/875-2010-1029263).
+
+A conjugação do disposto no RJIGT com o regulado pelo RMPCFC, define o quadro legal e regulamentar global aplicável ao universo de IGT’s do Município de Loulé que contenham delimitação de UE’s, resultando assim garantida a conformidade com a Lei e a uniformidade regulamentar no âmbito do Município de Loulé.
+
+No entanto e, naturalmente, sem embargo pelo respeito desse enquadramento legal e regulamentar geral aplicável, no respeito pela cadeia regulamentar Municipal, torna-se necessário plasmar em regulamento próprio, aspetos cruciais e específicos do Fundo de Compensação da Unidade de Execução do PUQNNE (FC_PUQNNE), bem assim como da Comissão de Gestão do mesmo (CGFC_PUQNNE), necessários à sua operacionalização plena, rigorosa, eficaz, eficiente, transparente e escrutinável.
+
+Assim:
+
+No uso da competência regulamentar conferida pelo artigo 241.º da Constituição da República Portuguesa e do poder conferido pela alínea m) e n) do n.º 2 do artigo 23.º, alínea g) do n.º 1 do artigo 25.º e alínea k) do n.º 1 do artigo 33.º, todos do Anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro na sua atual redação;
+
+Ao abrigo do disposto do n.º 2 do artigo 152.ºdo RJIGT - DL n.º 80/2015, de 14 de maio, na sua redação atual, e;
+
+No respeito pelo RMPCFC publicado em 13 de dezembro de 2010 sob o [Regulamento n.º 875/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/875-2010-1029263);
+
+A Câmara Municipal de Loulé propôs:
+
+i) A aprovação do projeto de Regulamento do Fundo de Compensação e da Comissão de Gestão da Unidade de Execução do PUQNNE;
+
+ii) A sua subsequente discussão pública a realizar nos termos da lei e;
+
+iii) A sua posterior aprovação pela Assembleia Municipal de Loulé, divulgação, publicidade e publicação, nos moldes, locais e canais exigíveis pela lei.
+
+Uma vez aprovada a proposta de Regulamento acima referida [Proposta n.º 2094/2025 DP] tomada, por maioria, pela Câmara Municipal de Loulé, na reunião de 26 de novembro de 2025 e, por unanimidade, pela Assembleia Municipal de Loulé, na reunião ordinária de 22 de dezembro de 2025, a mesma foi objeto de consulta pública, nos termos do disposto no n.º 1 e n.º 3, alínea c) do artigo 100.º, artigo 101.º e artigo 135.º, todos do Código do Procedimento Administrativo (CPA), na redação conferida pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 11 de julho, na sua redação atual, concretizada através da figura de “Consulta Pública” nos termos definidos no já mencionado artigo 101.º do CPA, na sua redação atual.
+
+Regulamento do Fundo de Compensação da Unidade de Execução do PUQNNE e respetiva Comissão de Gestão
+
+### CAPÍTULO 1 — DISPOSIÇÕES INICIAIS
+
+###### Artigo 1.º — Designação e abreviatura
+
+O presente regulamento designa-se: “Regulamento do Fundo de Compensação e da Comissão de Gestão da Unidade de Execução do PUQNNE”.
+
+###### Artigo 2.º — Lei habilitante
+
+O presente regulamento é elaborado ao abrigo do disposto do n.º 2 do artigo 152.ºdo Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) - publicado pelo [Decreto-Lei n.º 80/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2015-67212743), de 14 de maio, na sua redação atual, bem como no uso da competência regulamentar conferida aos Municípios, pelo artigo 241.ºda Constituição da República Portuguesa e do poder conferido pela alínea m) e n) do n.º 2 do artigo 23.º, alínea g) do n.º 1 do artigo 25.º e alínea k) do n.º 1 do artigo 33.º, todos do Anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro na sua atual redação.
+
+###### Artigo 3.º — Objeto
+
+Este Regulamento tem como objeto a fixação de disposições complementares às que são definidas na legislação nacional e na regulamentação municipal aplicáveis, e que são especificamente vinculativas da constituição, da gestão e da operacionalização do Fundo de Compensação da Unidade de Execução do PUQNNE, daqui em diante abreviado por (FC_PUQNNE) e da Comissão de Gestão do mesmo, daqui em diante abreviadamente referida como (CGFC_PUQNNE).
+
+###### Artigo 4.º — Objetivos
+
+1 - O presente Regulamento tem como objetivo fixar as especificações pelas quais se rege o FC_PUQNNE, bem como a sua comissão de gestão (CGFC_PUQNNE), de modo a atingir os seguintes objetivos:
+
+a) atingir a operacionalização plena, eficaz e eficiente do FC_PUQNNE e da CGFC_PUQNNE;
+
+b) garantir a legalidade e a transparência de todos os processos e procedimentos inerentes ao funcionamento do FC_PUQNNE e da CGFC_PUQNNE;
+
+c) oferecer as melhores condições para o exercício do escrutínio ao FC_PUQNNE e à CGFC_PUQNNE por parte de qualquer entidade ou interessado.
+
+###### Artigo 5.º — Âmbito espacial de aplicação
+
+1 - O presente Regulamento aplica-se à área territorial integrante da Unidade de Execução (UE) como prevista no PUQNNE e delimitada na Planta de Zonamento do mesmo.
+
+###### Artigo 6.º — Âmbito material de aplicação
+
+1 - Todas as operações urbanísticas cuja área de intervenção (AI) integre, no todo ou em parte, a UE delimitada no PUQNNE, ficam sujeitas à aplicação do disposto neste Regulamento.
+
+2 - No caso de operação urbanística em que apenas parte da sua AI se insira na UE delimitada no PUQNNE, a aplicação deste regulamento cinge-se apenas a essa mesma parte.
+
+3 - Excluem-se da aplicação do disposto neste Regulamento todas as operações urbanísticas que, por força da legislação aplicável, estejam dispensadas da aplicação dos mecanismos de perequação, bem como da concretização dos direitos e/ou deveres de compensação decorrentes da primeira.
+
+4 - Sem prejuízo do disposto na legislação aplicável, e nos termos do definido no número anterior, ficam dispensadas da aplicação dos mecanismos de perequação, bem como da concretização dos direitos e/ou deveres de compensação decorrentes da primeira, todas as operações urbanísticas cuja AI, apesar de inserida, total ou parcialmente na UE delimitada no PUQNNE, envolvam, cumulativamente:
+
+a) operações urbanísticas isentas de controlo prévio, na aceção que lhes é dada pelo Regime Jurídico da Urbanização e Edificação, [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual (RJUE) e ainda as que se verifiquem concretizadas em Regulamento Municipal;
+
+b) operações urbanísticas que, mantendo o uso e a intensidade do mesmo das edificações preexistentes, se destinem a manter, conservar, restaurar, reparar, limpar as referidas edificações, não aumentando nem diminuindo a sua área de implantação, de impermeabilização e de construção, bem como o número de pisos destas.
+
+5 - Ficam também excluídas do disposto neste Regulamento todas as operações urbanísticas que, apesar de inseridas total ou parcialmente na área da UE, como delimitada no PUQNNE, e ainda que estando sujeitas a controlo prévio nos termos do RJUE, evidenciem e comprovem que o objetivo e solução a alcançar por estas não é a concretização da solução urbanística prevista pelo PUQNNE para o local, mas, tão somente, a melhoria e/ou manutenção das condições de habitabilidade das edificações preexistentes.
+
+6 - Ficam ainda excluídas do disposto no presente Regulamento, todas as operações urbanísticas que, apesar de inseridas total ou parcialmente na área da UE, tal como delimitada no PUQNNE, verifiquem, cumulativamente, que:
+
+a) Não é alterado o uso da edificação;
+
+b) Não é aumentada a intensidade do uso em causa;
+
+c) Uma eventual pretensão de aumento de área de construção se destine, exclusivamente, a melhorar as condições habitacionais atuais e não excede 5 % da área bruta de construção afeta ao uso em causa, com um máximo de 25 m2;
+
+d) A edificação não tenha sido objeto de operação similar nos últimos 10 anos;
+
+e) Os Serviços da CML, reconheçam a observância destas condições cumulativas.
+
+### CAPÍTULO 2 — FUNDO DE COMPENSAÇÃO DA UNIDADE DE EXECUÇÃO DO PUQNNE (FC_PUQNNE)
+
+###### Artigo 7.º — Identificação, fim e natureza legal
+
+1 - O FC_PUQNNE é um acervo diversificado e dinâmico de ativos, gerados e geridos no interior do território da UE, como delimitada no PUQNNE, visando o equilíbrio financeiro neutro, mediante uma criteriosa gestão de ativos que o integram a cada momento, e que se destina a concretizar um bem comum que se afigura como a solução territorial e urbana preconizada no PUQNNE para essa mesma área abrangida pela UE.
+
+2 - De acordo com o definido no artigo 152.º do RJIGT e concretizado no RMPCFC publicado em 13 de dezembro de 2010 sob o [Regulamento n.º 875/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/875-2010-1029263), o FC_PUQNNE é o instrumento formal associado à UE delimitada nesse mesmo IGT, tendo como objetivo a operacionalidade dos mecanismos de perequação compensatória previstos no mesmo.
+
+3 - O FC_PUQNNE é um fundo autónomo, sem personalidade jurídica, constituído e inserido no âmbito das atribuições e competências da CML, sendo gerido administrativamente pela Comissão de Gestão do mesmo, abreviadamente denominada CGFC_PUQNNE.
+
+4 - O quadro geral de objetivos e competências atribuídas à CML, ao FC_PUQNNE e à CGFC_PUQNNE, encontram-se fixados no RMPCFC.
+
+###### Artigo 8.º — Objetivos
+
+1 - Nos termos do disposto no artigo anterior, e de acordo com o quadro legal e regulamentar aplicável, o FC_PUQNNE tem o seguinte objetivo estratégico:
+
+a) Concretizar com a máxima eficácia e eficiência as soluções territoriais e urbanas definidas no PUQNNE para a UE, incentivando a rápida concretização das mesmas e o aproveitamento ótimo global, equilibrado e sem desvios qualitativos ou quantitativos das capacidades, oportunidades e soluções subjacentes ao definido para a UE.
+
+2 - Para a satisfação do objetivo estratégico identificado no número anterior, concorrem os objetivos operacionais mencionados no artigo 11.º do RMPCFC.
+
+###### Artigo 9.º — Constituição e extinção
+
+1 - A constituição do FC_PUQNNE ocorre com o ato de abertura, pela CML, de conta bancária específica e autónoma para gerir os fundos no âmbito da UE delimitada no PUQNNE, com as condições de movimentação constantes no n.º 4 do artigo 11.º do Regulamento RMPCFC do Município de Loulé.
+
+2 - A abertura da conta bancária referida no número anterior deve ser realizada pela CML pelo valor mínimo, como exigido pela instituição de crédito escolhida para o efeito, o qual deve ser restituído quando o saldo da conta ultrapasse o dobro do valor de abertura ou no momento da extinção do FC_PUQNNE.
+
+3 - O FC_PUQNNE extingue-se nos termos do definido no n.º 5 do artigo 11.º do RMPCFC, ou seja, após a aprovação do relatório final de gestão.
+
+4 - Para a concretização do n.º anterior no cumprimento do objetivo de equilíbrio financeiro neutro mencionado no n.º 1 do artigo 7.º, eventuais valorizações ou depreciações monetárias de ativos que decorram, exclusivamente, por efeito do conceito de “valor do dinheiro no tempo”, são da responsabilidade da Câmara Municipal de Loulé.
+
+###### Artigo 10.º — Origem dos ativos
+
+1 - Salvo a provisão financeira inicial, realizada nos termos e para os efeitos indicados no artigo anterior, as demais provisões que, eventualmente, venham a ser necessárias por efeitos do definido no n.º 2 do presente artigo e os eventuais suprimentos que, eventualmente, venham a ser necessários por efeitos do definido no n.º 4 do presente artigo, todos os ativos constituintes do FC_PUQNNE têm origem:
+
+a) Na concretização da aplicação da perequação compensatória e dos respetivos direitos e deveres de compensação decorrentes da primeira, relativos às operações urbanísticas que, cumulativamente, tenham como AI, no todo ou em parte, solo que se inclua no âmbito espacial de aplicação definido no artigo 5.º e possuam características que as incluam no âmbito material de aplicação deste Regulamento, tal como definido no artigo 6.º ou;
+
+b) Na concretização de operações de permuta, alienação e aquisição, ou equivalentes, realizadas pela CGFC_PUQNNE, no cumprimento das disposições legais e regulamentares que a obriguem.
+
+2 - Em caso de necessidade, e a requerimento fundamentado da CGFC_PUQNNE, o FC_PUQNNE pode ser objeto de provisões de reforço, a efetuar pela CML, após análise e decisão sobre o pedido.
+
+3 - Às provisões de reforço previstas no número anterior aplica-se, com as devidas adaptações, o disposto na parte final do n.º 2 do artigo 9.º
+
+4 - No quadro de definido no n.º 4 do artigo 9.º, eventuais valorizações ou depreciações monetárias que decorram, exclusivamente, por efeito do conceito de “valor do dinheiro no tempo” são absorvidas pela Câmara Municipal de Loulé, às quais se aplica, com as devidas adaptações, o previsto no n.º 3 do presente artigo e concretizando-se nos seguintes moldes:
+
+a) Em caso de eventual valorização monetária, transitando a mesma para a Câmara Municipal de Loulé;
+
+b) Em caso de eventual depreciação monetária, coberta a mesma através de suprimento a aportar pela Câmara Municipal de Loulé.
+
+###### Artigo 11.º — Tipologia de ativos
+
+1 - Os ativos que compõem o FC_PUQNNE são das tipologias constantes no Quadro 1.
+
+QUADRO 1
+
+Tipologia dos ativos por âmbito de que decorrem
+
+| Tipo de ativo | Unidade de materialização | Âmbito de on6de decorrem |  |  |
+| --- | --- | --- | --- | --- |
+| Da aplicação do RMPCFC | De processos com tramitação anterior a este Regulamento |  |  |  |
+| Que constituem ativo do FC_PUQNNE | Que são ativos pertença de terceiros, apenas sob gestão do FC_PUQNNE |  |  |  |
+| Grupo 1 | Grupo 2 | Grupo 3 |  |  |
+| Ativos em numerário | Euros | Provisões e eventuais suprimentos depositados/devolvidos pela/à Câmara Municipal de Loulé |  |  |
+|  |  | Compensações pagas/recebidas por requerentes de operações urbanísticas | Compensações pagas por requerentes de operações urbanísticas |  |
+| Ativos em espécie | M2de solo com possibilidade construtiva equivalente ao excesso de edificabilidade | Compensações entregues por/a requerentes de operações urbanísticas | Compensações entregues por requerentes de operações urbanísticas | Parte do ativo entregue ao FC_PUQNNE por requerentes de operações urbanísticas, para liquidação de compensações devidas de valor inferior ao valor do ativo entregue, sem que se tivesse procedido, à data, à determinação da parte que líquida essa compensação nem ao seu fracionamento e registo legal e que assim se mantêm na parcela e por isso na posse dos respetivos proprietários a cada momento. |
+|  | M2 de área de construção |  | Compensações quantificadas em área de construção e entregues por requerentes de operações urbanísticas | Parte de ativo quantificado em área de construção, entregue ao FC_PUNNE por requerentes de operações urbanísticas para liquidação de compensações devidas de valor inferior ao valor do ativo entregue e que assim se mantêm na parcela e por isso na posse dos respetivos proprietários a cada momento. |
+
+2 - Os ativos que decorrem do âmbito do Grupo 1 do Quadro 1, são os que resultam da aplicação direta dos modos e formas de liquidação de compensações previstas no RMPCFC, integrando estes, a parte do Domínio Privado Municipal gerido, administrativamente, e em exclusivo, pelo FC_PUQNNE atento o disposto no n.º 2 do artigo 11.º do RMPCFC.
+
+3 - As formas e meios de liquidação de compensações devidas por particulares, admitidas em processos tramitados anteriormente a este Regulamento, porque não passíveis de redução às tipologias do Grupo 1:
+
+a) Geram as tipologias do Grupo 2 do Quadro 1 que, como as anteriores, são do Domínio Privado Municipal gerido, administrativamente e em exclusivo, pelo FC_PUQNNE e;
+
+b) Geram as tipologias do Grupo 3 do Quadro 1 quando resultam da aceitação de liquidação de compensações devidas por terceiros, efetuada através de meios de liquidação em espécie com valor superior ao valor de compensação devida e sem que se tivesse procedido, à data, à determinação da parte que liquida essa compensação nem ao seu fracionamento e registo legal.
+
+4 - Os ativos a que se refere a alínea b) do número anterior:
+
+a) Não integram o Domínio Público nem Privado Municipal, até à data em que seja efetivada legal e registalmente a liquidação das compensações em causa pelo valor exato das mesmas, sendo, até essa data, registados no FC_PUQNNE meramente para efeitos de gestão e controlo;
+
+b) A efetivação, legal e registal, da liquidação pelo valor exato das compensações referidas na alínea a) do presente número, ocorre:
+
+i) Através da separação e registo legal, da parte do ativo referido na alínea b) do número anterior que corresponda ao valor das compensações efetivamente devidas,
+
+ii) Ou, através de qualquer outro processo enquadrado no presente Regulamento, que concretize o acerto de contas da liquidação das compensações.
+
+c) Uma vez concretizado o referido na alínea b) deste número, o ativo registado no Grupo 3 do Quadro 1 constante no n.º 1 do presente artigo é retirado do registo no FC_PUQNNE.
+
+d) Nos casos em que a efetivação da liquidação pelo valor exato das compensações se concretizar através do processo referido no número i) da alínea b) do presente número, a parte do ativo que liquida o valor exato das compensações devidas, passa a ser registada no FC_PUQNNE, de acordo com as regras definidas neste Regulamento, mantendo-se a parte restante na posse dos titulares da parcela onde se realizou a operação urbanística que originou a compensação;
+
+e) Nos casos em que a efetivação da liquidação pelo valor exato das compensações se concretizar através do processo referido no número ii) da alínea b) do presente número, as compensações devidas são registadas no FC_PUQNNE de acordo com as regras definidas neste Regulamento.
+
+5 - A utilização das tipologias de ativos decorrentes de tramitação anterior a este Regulamento, só será considerada quando se verifique impraticável a sua conversão em ativos das tipologias previstas no RMPCFC.
+
+###### Artigo 12.º — Sistema de registo de ativos
+
+1 - O FC_PUQNNE e a CGFC_PUQNNE são servidos por um sistema de registo de ativos.
+
+2 - Qualquer alteração ao sistema de registo de ativos mencionado no número anterior, deve garantir a continuidade e a integridade contabilística com a versão em uso.
+
+3 - Para efeitos de registo de ativos são usadas as seguintes tipologias de contas:
+
+a) Tipologia de ativos que decorrem da aplicação do RMPCFC (Grupo 1 do Quadro 1) - contas começadas por 1;
+
+b) Tipologias de ativos decorrentes do processo de gestão anterior a este Regulamento (Grupo 2 do Quadro 1) - contas começadas por 2;
+
+c) Tipologias de ativos que são pertença de terceiros e apenas estão sob gestão e controlo do FC_PUQNNE (Grupo 3 do Quadro 1) - contas começadas por 3.
+
+###### Artigo 13.º — Dinâmica de ativos
+
+1 - Os ativos que integram o FC_PUQNNE variam ao longo do tempo em função da concretização das operações referidas no artigo 10.º
+
+2 - A execução plena do PUQNNE, na área da UE nele delimitada, deve corresponder à situação final de saldo nulo, aferida após a restituição de quaisquer valores provenientes da provisão financeira inicial realizada para a abertura de conta, de quaisquer outras provisões de reforço e da consideração de eventuais suprimentos, que tenham sido realizados pela CML, nos termos de disposto nos números 2 a 4 do artigo 10.º
+
+3 - O disposto no número anterior apenas dita a extinção do FC_PUQNNE atento ao disposto no n.º 5 do artigo 11.º do RMPCFC.
+
+4 - A dinâmica de ativos do FC_PUQNNE é função das operações de “Entrada” e de “Saída” do FC_PUQNNE, sendo as mesmas reguladas pelo quadro legal e regulamentar aplicável já mencionado, ao qual, para estes efeitos específicos acresce:
+
+a) O Regime Jurídico das Autarquias Locais (RJAL) publicado pela [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na sua atual redação;
+
+b) O Regime Jurídico do Património Imobiliário Público (RJPIP), publicado pelo [Decreto-Lei n.º 280/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), de 7 de agosto, na sua atual redação.
+
+###### Artigo 14.º — Entrada de ativos no FC_PUQNNE
+
+A entrada de ativos no FC_PUQNNE é registada como crédito, processando-se esta de acordo com as especificações constantes no Anexo 1 ao presente Regulamento.
+
+###### Artigo 15.º — Saída de ativos do FC_PUQNNE
+
+A saída de ativos do FC_PUQNNE é registada como débito, processando-se esta de acordo com as especificações constantes no Anexo 2 ao presente Regulamento.
+
+###### Artigo 16.º
+
+Especificidades inerentes aos ativos que, não integrando a contabilidade do FC_PUQNNE, para efeitos de gestão e controlo, tem de figurar na mesma.
+
+Os ativos que não integram a contabilidade do FC_PUQNNE, porque decorrentes de processos de gestão anterior ao presente Regulamento, mas que dela têm de constar para efeitos de gestão e controlo, são os constantes no Anexo 3 ao presente Regulamento.
+
+###### Artigo 17.º — Entrada de ativos no FC_PUQNNE para efeito de liquidação de compensações
+
+1 - A entrada de ativo em numerário a favor do FC_PUQNNE, que concretize a liquidação de compensação devida pelo requerente:
+
+a) É calculada com base no disposto no artigo 7.º e 9.º do RMPCFC;
+
+b) É fixada na Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada aos valores em vigor à data do pedido de emissão do alvará de licença ou equivalente e anexa a este último/a;
+
+c) Está sujeita à emissão de guia de pagamento pelos Serviços da CML;
+
+d) Deve ser comprovada pelo requerente, previamente à emissão do alvará de licença, ou equivalente, através de guia de pagamento ou de comprovativo da realização de transferência bancária do requerente para a conta bancária do FC_PUQNNE;
+
+e) Conclui-se com a inscrição, a positivo, do valor monetário no sistema de registo do FC_PUQNNE.
+
+2 - A entrada de ativo em espécie, a favor do FC_PUQNNE, que concretize a liquidação de compensação devida pelo requerente;
+
+a) É regulada pelo disposto nos artigos 7.º e 8.º do RMPCFC;
+
+b) É precedida de avaliação, promovida pela CML nos termos definidos no artigo 10.º do RMPCFC, que permita concluir pela satisfação exata do dever de compensação;
+
+c) É fixada na Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada aos valores em vigor à data do pedido de emissão do alvará de licença ou equivalente e anexa a este último/a;
+
+d) Está sujeita à emissão de certidão pelos Serviços da CML;
+
+e) Deve ser comprovada pelo requerente, previamente à emissão do alvará de licença ou equivalente, através da entrega de cópia de registo da titularidade da propriedade a favor da CML - Domínio Privado Municipal - efetuado na CRPL e tendo por base Certidão emitida pela CML;
+
+f) Conclui-se com a inscrição, a positivo, da superfície de solo e respetiva possibilidade construtiva, no sistema de registo de ativos do FC_PUQNNE.
+
+###### Artigo 18.º — Saída de ativos do FC_PUQNNE para liquidação de compensações
+
+1 - A saída de ativo em numerário a favor do requerente que, decorrente da operação urbanística de que é titular, tenha direito a ser compensado:
+
+a) É precedida do cálculo do montante em numerário da compensação efetuada nos termos do disposto no artigo 9.º do RMPCFC;
+
+b) É registada na ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada aos valores em vigor à data do pedido de emissão do alvará de licença ou equivalente e anexa a este último/a;
+
+c) Está sujeita à emissão de guia correspondente ao movimento efetuado pelos Serviços da CML;
+
+d) É operada pela realização da transferência bancária, pelo valor apurado nos termos da alínea a), a favor do requerente, e respetiva entrega do comprovativo da sua realização;
+
+e) Conclui-se com a apresentação o comprovativo referido na alínea anterior e a inscrição, a negativo, do valor monetário no sistema de registo do FC_PUQNNE.
+
+2 - A saída de ativo em espécie a favor do requerente que, decorrente da operação urbanística de que é titular, tenha direito a ser compensado:
+
+a) Está sujeita à observância do disposto nos artigos 7.º e 8.º do RMPCFC;
+
+b) Está sujeita a processo de avaliação da dimensão e correspondente valor financeiro do ativo, iniciado e promovido pela CML nos termos definidos no artigo 10.º do RMPCFC;
+
+c) É fixada na ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada aos valores em vigor à data do pedido de emissão do alvará de licença ou equivalente e anexa a este último/a;
+
+d) Está sujeita a prova do registo da titularidade da propriedade a favor do requerente, efetuado na CRPL, tendo por base Certidão emitida pela CML, a efetuar pelo FC_PUQNNE no momento da emissão do alvará de licença ou equivalente;
+
+e) Conclui-se com a inscrição no sistema de registo do FC_PUQNNE, a negativo, do registo de saída do ativo em espécie relativamente à superfície de solo e respetiva possibilidade construtiva e o correspondente registo, a positivo do valor pecuniário recebido pelo FC_PUQNNE pela saída do ativo em espécie em causa.
+
+###### Artigo 19.º — Entrada de ativos no FC_PUQNNE que não sejam decorrentes de compensações
+
+1 - O FC_PUQNNE comporta a entrada dos seguintes ativos com as seguintes especificidades:
+
+a) Ativos em numerário de provisão inicial ou de eventual reforço, bem como eventual suprimento para absorção de eventuais valorizações ou depreciação financeiras de ativos, que a CML entenda como necessários e que, por esta, sejam aportados;
+
+b) Ativos em numerário a favor do FC_PUQNNE que resultem de alienação de ativo em espécie integrante no conjunto de ativos deste;
+
+c) Ativos em espécie a favor do FC_PUQNNE que resultem da aquisição ou permuta por parte deste.
+
+2 - No caso das provisões referidas na alínea a) do número anterior, o registo e a devolução observam o disposto no artigo 9.º quanto ao aprovisionamento para abertura da conta bancária do FC_PUQNNE com as devidas adaptações.
+
+3 - No caso dos ativos referidos na alínea b) do n.º 1:
+
+a) Deve observar-se o disposto no n.º 2 do artigo anterior, com as devidas adaptações, estando este processo obrigado a respeitar o disposto na alínea g) e h) do n.º 1 do artigo 33.º e alínea i) do n.º 1 do artigo 25.º do Regime Jurídico das Autarquias Locais (RJAL), quanto à decisão de alienação do ativo em causa pela CML;
+
+b) No sistema de registo de ativos do FC_PUQNNE, a entrada em numerário do ativo deve ser acompanhada do registo da saída do ativo em espécie, alienado;
+
+c) A alienação de ativos em espécie integrantes do FC_PUQNNE, a que se refere este artigo, deve ter como valor base de alienação, o resultante da aplicação da seguinte fórmula:
+
+Vba = (Vmeae x i) + K
+
+onde:
+
+Vba - Valor base de alienação - expresso em Euros
+
+Vmeae -Valor monetário equivalente ao ativo em espécie no ano da alienação - expresso em Euros e calculado de acordo com os parâmetros de conversão de compensações liquidadas em espécie versus compensações liquidadas em numerário constantes no RMPCFC e em vigor no ano civil em que se processa a alienação i - Valor da inflação média acumulada para o período compreendido entre a data de entrada do ativo em espécie no Domínio Privado Municipal e a do processo de sua alienação.
+
+K - Constante - expressa em Euros - igual a 7 % de (Vmeae x i) destinada e estimada para garantir o suporte de todos os custos que são inerentes à posse, manutenção e gestão procedimental e processual do ativo em causa.
+
+4 - No caso dos ativos referidos na alínea c) do n.º 1:
+
+a) Deve observar-se o disposto no n.º 2 do artigo 17.º conjugado com o disposto no n.º 2 do artigo 18.º, com as devidas adaptações, estando este processo obrigado a respeitar o disposto na alínea g) e h) do n.º 1 do artigo 33.º e alínea i) do n.º 1 do artigo 25.º do Regime Jurídico das Autarquias Locais (RJAL), quanto à decisão de alienação do ativo em causa pela CML;
+
+b) No sistema de registo de ativos do FC_PUQNNE, a entrada do ativo em espécie adquirido, deve ser acompanhada do registo da saída do ativo monetário necessário para a aquisição daquele;
+
+c) O valor de aquisição pelo FC_PUQNNE de ativo em espécie não deve ultrapassar o valor apurado para o mesmo conforme os parâmetros de conversão de compensações liquidadas em espécie versus compensações liquidadas em numerário constantes no RMPCFC e em vigor no ano civil em ocorre a aquisição.
+
+###### Artigo 20.º — Saída de ativos do FC_PUQNNE que não sejam decorrentes de compensações
+
+1 - O FC_PUQNNE comporta a saída, por iniciativa própria ou suscitada por terceiros interessados, dos seguintes ativos com as seguintes especificidades:
+
+a) Ativos em numerário, referentes a devolução de provisão ou de reforço, como previamente avançados pela CML;
+
+b) Ativos em numerário devidos pela aquisição, por parte do FC_PUQNNE, de ativos em espécie;
+
+c) Ativos em espécie, com registo a favor do FC_PUQNNE, que saiam deste, em resultado de alienação a entidades terceiras.
+
+2 - Aos processos de saída de ativos do FC_PUQNNE referidos no número anterior, aplica-se, com as necessárias adaptações, o disposto no artigo 19.º
+
+### CAPÍTULO 3 — COMISSÃO DE GESTÃO DO FUNDO DE COMPENSAÇÃO DA UNIDADE DE EXECUÇÃO DO PUQNNE (CGFC_PUQNNE)
+
+###### Artigo 21.º — Identificação e enquadramento geral
+
+1 - A Comissão de Gestão do Fundo de Compensação da Unidade de Execução do PUQNNE, (CGFC_PUQNNE) também designada, por Comissão de Gestão é o órgão coletivo de administração do Fundo de Compensação da Unidade de Execução delimitada no PUQNNE (FC_PUQNNE) que garante a operacionalização das decisões e atos próprios de administração do Fundo de Compensação e a participação dos interessados nesse desiderato, visando a concretização plena da proposta urbanística e territorial definida no PUQNNE para o território delimitado por essa mesma Unidade de Execução.
+
+2 - O quadro geral aplicável à CGFC_PUQNNE, quanto à composição, participação de interessados, mandatos, competências e responsabilidades é o que se encontra fixado, a cada momento, no Regulamento Municipal de Perequação Compensatória e dos Fundos de Compensação do Município de Loulé (RMPCFC).
+
+###### Artigo 22.º — Natureza legal e funcionamento
+
+1 - A Comissão de Gestão do FC_PUQNNE possui natureza igual às demais comissões Municipais.
+
+2 - Para a prossecução dos seus objetivos e para o exercício das suas competências, a CGFC_PUQNNE deve observar o disposto no presente regulamento, no RMPCFC e demais legislação aplicável.
+
+###### Artigo 23.º — Objetivo
+
+1 - A CGFC_PUQNNE tem como objetivo a organização e realização das tarefas e dos trabalhos tendentes à boa administração dos ativos inerentes ao funcionamento do FC_PUQNNE.
+
+2 - O objetivo identificado no número anterior concretiza-se com a realização, pela CGFC_PUQNNE, dos atos próprios e necessários de administração do FC_PUQNNE, por iniciativa da própria ou quando suscitados por terceiros.
+
+3 - Salvo disposição em contrário, para a concretização do objetivo identificado no n.º 1 compete à CGFC_PUQNNE, a realização de ações nos domínios do planeamento, coordenação, articulação entre intervenientes, promoção de iniciativas ou intervenções, geração de contributos, prestação de contas e informações.
+
+###### Artigo 24.º — Princípios
+
+1 - A CGFC_PUQNNE rege-se pelos mesmos princípios aplicáveis às entidades que tem a seu cargo a administração da coisa pública.
+
+2 - Sem prejuízo de outros previstos na lei, a CGFC_PUQNNE, na sua atuação, encontra-se especialmente sujeita à observação dos seguintes princípios:
+
+a) Defesa do Interesse público e coletivo;
+
+b) Promoção da participação pública;
+
+c) Democraticidade;
+
+d) Rigor;
+
+e) Transparência;
+
+f) Sustentabilidade;
+
+g) Ponderação na ótica do ótimo global;
+
+h) Economia e eficiência na ótica de custo/benefício ambiental e socioeconómico.
+
+###### Artigo 25.º — Normas gerais
+
+1 - As normas gerais aplicáveis à CGFC_PUQNNE são as previstas no RMPCFC.
+
+###### Artigo 26.º — Composição da CGFC_PUQNNE
+
+1 - A composição, abstrata e nominal, da CGFC_PUQNNE é a prevista no disposto no artigo 13.º do RMPCFC.
+
+2 - Qualquer um dos membros da CGFC_PUQNNE, pode, a todo o tempo e por mera comunicação da sua vontade, solicitar a sua substituição à CGFC_PUQNNE ou à CML, as quais diligenciam pela sua substituição nos termos que se seguem.
+
+3 - A substituição de qualquer um dos membros da CGFC_PUQNNE designados pela CML é efetuada por mera deliberação camarária com esse teor, independentemente da sua motivação ou causa.
+
+4 - O pedido de revogação da designação de qualquer um dos membros da CGFC_PUQNNE designados pelos proprietários/interessados, está sujeita à mera apresentação de requerimento fundamentado dirigido a esta por qualquer interessado, devendo o Presidente da CGFC_PUQNNE incluí-la na ordem de trabalhos da reunião da CGFC_PUQNNE subsequente ao pedido de revogação da designação.
+
+5 - A substituição de qualquer dos membros da CGFC_PUQNNE designados pelos proprietários/interessados é efetuada por recurso a procedimento idêntico ao adotado para a sua designação originária.
+
+6 - A substituição de qualquer um dos membros da CGFC_PUQNNE só tem efeito com a substituição nos termos dos números anteriores.
+
+###### Artigo 27.º — Instrumentos de gestão e de administração da CGFC_PUQNNE
+
+1 - À CGFC_PUQNNE assistem os seguintes instrumentos de referência para a sua boa gestão e administração:
+
+a) O Plano de Urbanização de Quarteira Norte-Nordeste (PUQNNE) publicado no Diário da República através do [Aviso n.º 9368/2010](https://diariodarepublica.pt/dr/detalhe/aviso/9368-2010-3543736) de 10 de maio;
+
+b) O Regulamento Municipal de Perequação Compensatória e dos Fundos de Compensação do Município de Loulé (RMPCFC) publicado sob o [Regulamento n.º 875/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/875-2010-1029263), de 13 de dezembro de 2010;
+
+c) O presente Regulamento;
+
+d) O Fundo de Compensação da Unidade de Execução do PUQNNE (FC_PUQNNE);
+
+e) O Sistema de Registo de Ativos do Fundo de Compensação da Unidade de Execução do PUQNNE.
+
+2 - Constituem também instrumentos de gestão e de administração, o acervo de documentação de suporte já existente e que será, ao longo do tempo produzida, bem assim como os relatórios semestrais, prestação de contas, atas de reuniões e informações diversas que o exercício de funções da Comissão de Gestão irá gerar.
+
+###### Artigo 28.º — Competências específicas adicionais da CGFC_PUQNNE
+
+1 - Para além das competências atribuídas que se encontram definidas no RMPCFC, designadamente no seu artigo 14.º, constituem competências específicas e adicionais atribuídas à CGFC_PUQNNE as seguintes:
+
+a) A elaboração de um plano anual de atividades, correspondente a cada ano civil;
+
+b) A elaboração de um Relatório semestral de monitorização da execução do plano referido na alínea anterior, com reporte à globalidade da concretização da proposta urbanística constante no PUQNNE para a UE e com apresentação de saldos do FC_PUQNNE, que, pode ou não, ser compilado no relatório a que se faz referência na alínea b) do n.º 1 do artigo 14.º do RMPCFC.
+
+2 - O plano e o relatório previstos nas alíneas a) e b) do número anterior devem obter aprovação por maioria dos membros da CGFC_PUQNNE e do seu conteúdo deve ser dado conhecimento ao Presidente da Câmara Municipal e ao Executivo.
+
+3 - A eficácia do plano anual de atividades a que se refere a alínea a) do n.º 1 depende de deliberação nesse sentido a tomar pela CML em reunião ordinária.
+
+###### Artigo 29.º — Criação e manutenção de arquivo documental
+
+Compete à CGFC_PUQNNE, a organização, manutenção e atualização permanente de arquivo documental produzido, em formatos digital e em papel, relativo à execução do PUQNNE, do Fundo de Compensação e de todas as ações e decisões por si tomadas.
+
+###### Artigo 30.º — Reuniões da CGFC_PUQNNE
+
+1 - Sem prejuízo na alínea d) do n.º 2 do artigo 14.º do RMPCFC, a CGFC_PUQNNE deve ainda realizar uma reunião ordinária geral, por semestre, com a presença da totalidade dos seus elementos, devendo a mesma ser convocada pelo Presidente da CGFC_PUQNNE com a antecedência mínima de 5 dias úteis.
+
+2 - Em caso de não comparência da totalidade dos membros da CGFC_PUQNNE a qualquer das reuniões previstas no presente regulamento e no RMPCFC, o Presidente da Comissão de Gestão deve agendar nova reunião, a realizar num prazo não inferior a cinco dias úteis, e que será iniciada quando estejam presentes a maioria dos elementos da CGFC_PUQNNE, devendo tal comunicação constar da notificação de agendamento a enviar aos seus membros.
+
+3 - Sem prejuízo do disposto nos números anteriores, podem ainda ser realizadas sessões de trabalho da CGFC_PUQNNE, nas quais não podem ocorrer deliberações ou votações.
+
+4 - As sessões de trabalho referidas no número anterior são convocadas por mera comunicação, acompanhada da agenda de trabalhos e assuntos a discutir e a menção obrigatória de que se trata de uma sessão de trabalho sem presença obrigatória, não vinculativa e sem força de deliberação.
+
+5 - De todas as reuniões e sessões de trabalho realizadas pela CGFC_PUQNNE serão celebradas atas para integrar o acervo documental do procedimento.
+
+###### Artigo 31.º — Responsabilidade excecionada dos membros da CGFC_PUQNNE
+
+Aos membros da CGFC_PUQNNE, não poderão ser imputadas quaisquer responsabilidades por eventual depreciação ou valorização monetárias dos ativos que decorram, exclusivamente, por efeito do conceito de “valor do dinheiro no tempo”.
+
+###### Artigo 32.º — Assessoria técnica da CGFC_PUQNNE
+
+À CGFC_PUQNNE, após deliberação nesse sentido, assiste a faculdade de poder apresentar aos órgãos municipais competentes para decisão de contratar no âmbito do Código de Contratos Públicos (CCP) proposta fundamentada para pedido de contratação de assessoria técnica especializada, pontual ou continuada, de que esta careça para o bom cumprimento das suas atribuições e competências.
+
+###### Artigo 33.º — Alterações de funcionamento
+
+As alterações de funcionamento da CGFC_PUQNNE regem-se pelo disposto nas alíneas d), e) e l) do n.º 2 do artigo 14.º do RMPCFC.
+
+### CAPÍTULO 4 — DISPOSIÇÕES FINAIS
+
+###### Artigo 34.º — Entrada em vigor
+
+O presente Regulamento entra em vigor no dia seguinte ao da sua publicação no Diário da República.
+
+15 de maio de 2026. - O Vice-Presidente da Câmara Municipal, David Jorge Costa Pimentel.
+
+## ANEXO 1 — Especificações aplicáveis à entrada de ativos no FC_PUQNNE a que se refere o artigo 14.º
+
+Especificações inerentes à entrada de ativos no FC_PUQNNE a UE se refere o Artigo 14.º deste Regulamento
+
+| Entrada de ativos decorrentes da aplicação direta do RMPCFC - Grupo 1 do Quadro 1 do artigo 11.º |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tipologia de ativo a entrar no FC | Unidade | Razão da entrada | Domínio que integra | Sede de cálculo e fixação do valor | Materialização | Comprovativo | Código de Conta no sistema de registo de ativos do FC |  |
+| Numerário | Euros | - | Provisão financeira inicial para abertura de conta bancária | Não aplicável | Aquando da abertura de conta bancária e nos moldes definidos no regulamento do PC_PUQNNE e deliberação camarária exigível. | Transferência bancária de conta bancária da CML para a conta bancária do FC | Guia de depósito comprovativo da realização da transferência bancária e comprovativo de abertura de conta do FC | Conta 100 |
+| Numerário | Euros | - | Eventuais provisões financeiras de reforço | Não aplicável | No âmbito de pedido expresso formulado pela CGFC_PUQNNE e aprovado pela CML, de acordo com o disposto no regulamento do FC_PUQNNE. | Transferência bancária de conta bancária da CML para a conta bancária do FC | Guia de depósito comprovativo da realização da transferência bancária | Conta 101 |
+| Numerário | Euros | - | Eventuais suprimentos | Não aplicável | No âmbito do processo de fecho/extinção do FC_PUQNNE e de acordo com o regulamento do FC_PUQNNE. | Transferência bancária de conta bancária da CML para a conta bancária do FC | Guia de depósito comprovativo da realização da transferência bancária | Conta 102 |
+| Espécie | M2 de solo | Que permita a capacidade construtiva do excesso com todos os direitos e deveres | Compensação que decorre da situação em que Edificabilidade Concreta (EdConc) é superior à Edificabilidade Abstrata (EdAb).Trata-se de compensação primária (cedência para o domínio privado municipal de uma área com a possibilidade construtiva em excesso)(Alínea a) do n.º 1 do artigo 5.º do RMPCFC) | Domínio Privado Municipal | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Inscrição da superfície de solo e respetiva possibilidade construtiva, no sistema de registo de ativos do FC | Cópia de registo da titularidade da propriedade a favor da CML - Domínio Privado Municipal - efetuado na CRPL e tendo por base Certidão emitida pela CML | Conta 103 |
+| Numerário | Euros | - | Compensação que decorre da situação em que Edificabilidade Concreta (EdConc) é superior à Edificabilidade Abstrata (EdAb) e cuja compensação primária (cedência para o domínio privado municipal de uma área com a possibilidade construtiva em excesso) é convertida em numerário.(Alínea a) do n.º 1 do artigo 5.º conjugada com Alínea a) do n.º 1 do artigo 9.º do RMPCFC) | Não aplicável | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Transferência bancária do Requerente para a conta bancária do FC | Guia de depósito comprovativo da realização da transferência bancária | Conta 104 |
+| Espécie | M2 de solo | Lotes ou parcelas com valor equivalente, livres de ónus ou encargos | Compensação que decorre da situação em que Área de Cedência Efetiva (AcedEf) é inferior à Área de Cedência Abstrata (AcedAb).Trata-se de compensação primária.(Subalínea) da alínea b) do n.º 1 do artigo 5.º do RMPCFC) | Domínio Privado Municipal | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Inscrição da superfície de solo no sistema de registo de ativos do FC | Cópia de registo da titularidade da propriedade a favor da CML - Domínio Privado Municipal - efetuado na CRPL e tendo por base Certidão emitida pela CML | Conta 105 |
+| Numerário | Euros | - | Compensação que decorre da situação em que Área de Cedência Efetiva (AcedEf) é inferior à Área de cedência Abstrata (AcedAb) e cuja compensação primária é convertida em numerário.(Subalínea ii) da alínea b) do n.º 1 do artigo 5.º conjugado com a alínea b) do n.º 1 do artigo 9.º RMPCFC) | Não aplicável | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Transferência bancária do Requerente para a conta bancária do FC | Guia de depósitoComprovativo da Realização da transferência bancária | Conta 106 |
+| Numerário | Euros | - | Acerto de contas de processo de liquidação de compensação | Não aplicável | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Transferência bancária do Requerente para a conta bancária do FC | Guia de depósitoComprovativo da Realização da transferência bancária | Conta 117 |
+| Espécie | M2 de solo | Que permita a capacidade construtiva do excesso com todos os direitos e deveres | Acerto de contas de processo de liquidação de compensação | Domínio Privado Municipal | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Inscrição da entrada da superfície de solo e respetiva possibilidade construtiva, no sistema de registo de ativos do FC | Cópia de registo da titularidade da propriedade a favor do FC efetuado na CRPL e tendo por base Certidão emitida pela CML na sequência da concretização dos procedimentos aplicáveis à alienação de património do Domínio Privado Municipal | Conta 118 |
+
+| Entrada de ativos decorrentes de processos com tramitação anterior a este Regulamento - Grupo 2 do Quadro 1 do artigo 11.º |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tipologia de ativo a entrar no FC | Unidade | Razão da entrada | Domínio que integra | Sede de cálculo e fixação do valor | Materialização | Comprovativo | Código de conta no sistema de registo de ativos do FC |  |
+| Espécie | M2 de | Area de construção | Ativo que decorre de uma opção de liquidação admitida e concretizada, em trade off, através da qual o requerente entregou capacidade construtiva que não realiza para liquidação de dever de compensação por áreas de cedência que também não realiza e para a qual equipa de gestão urbanística precedente usou a técnica de conversão em euros (tanto dos créditos como dos débitos) e a posterior quantificação em ac a entregar ao FC.Situação que não deverá voltar a repetir-se. | Domínio Privado Municipal | Informação no processo respetivo | De acordo com o exposto, a parte que constitua liquidação de compensação devida deve ser inscrita a favor do FC.A parte remanescente, deve ser inscrita nas contas de índice 30. | Na descrição do artigo na CRPL, terá de ser averbado que parte da capacidade construtiva do artigo abrangido é pertença do FC, permanecendo do direito da parcela a capacidade remanescente. | Conta 200 |
+| Numerário | Euros | - | Ativo que decorre de uma opção de liquidação admitida e concretizada, em trade off, na qual a equipa de gestão urbanística precedente usou a técnica de conversão em euros (tanto dos créditos - capacidade construtiva não usada pelo requerente como dos débitos - cedências mínimas não realizadas) e admitiu a entrega ao FC do valor monetário da diferença.Não se recomenda esta opção. Em caso limite, para redução do risco para o FC, recomenda-se o uso não da conversão em euros das cedências, mas sim a utilização da razão m2: deve ser usada a razão de conversão: cedência em falta quantificada em m2 de a.c. = a.c x 1.0526 | Não aplicável | Informação no processo respetivo | Transferência bancária do Requerente para a conta bancária do FC | Guia de depósitoComprovativo da Realização da transferência bancária | Conta 201 |
+| Espécie | M2 de solo | Que permita a capacidade construtiva do excesso com todos os direitos e deveres | Ativo que decorre da situação em que Edificabilidade Concreta (EdConc) era superior à Edificabilidade Abstrata (EdAb) e o requerente entrega ao FC um outro terreno fora da AI da sua intervenção, com a capacidade construtiva necessária para liquidar o dever de compensação por edificação a mais do que a Ed abstrata. | Domínio Privado Municipal | Informação no processo respetivo | Na situação em que o terreno entregue constitua artigo/fração autónomos, proceder à Inscrição da superfície de solo e respetiva possibilidade construtiva, no sistema de registo de ativos do FC.No caso de não ter sido entregue artigo autónomo, proceder à inscrição da área de construção entregue. | Na situação do terreno entregue ser um artigo/fração autónomos - Cópia de registo da titularidade da propriedade a favor da CML - Domínio Privado Municipal - efetuado na CRPL e tendo por base Certidão emitida pela CMLNo caso de não o ser, o requerente tem de fazer prova de ter averbado, na CRPL, o ónus na propriedade em causa respeitante à capacidade construtiva entregue ao FC | Conta 202 |
+| Espécie | M2 de solo | Que permita a capacidade construtiva do excesso com todos os direitos e deveres | Ativo que decorre da situação em que Área de Cedência Efetiva (AcedEf) é inferior à Área de cedência Abstrata (AcedAb) e o requerente entrega ao FC um outro terreno com a capacidade construtiva sem que no momento da liquidação se proceda a quantificação, resultando assim uma situação de risco acrescido para o FC.Para separar a capacidade construtiva que é devida para liquidação da compensação da demais, por conseguinte para poder inscrever no sistema de registo de ativos do FC o ativo efetivo e o restante ser registado nas contas de índice 30, usou-se a seguinte formulação: capacidade construtiva entregue ao FC para liquidação de compensações a que o proprietário está obrigado no domínio da cedência (razão de conversão: ac = cedência em falta x 1.0526) | Domínio Privado Municipal | Informação no processo respetivo | De acordo com o exposto, a parte que constitua liquidação de compensação devida deve ser inscrita a favor do FC.A parte remanescente, deve ser inscrita nas contas de índice 30. | Na descrição do artigo na CRPL, terá de ser averbado que parte da capacidade construtiva do artigo abrangido é pertença do FC, permanecendo do direito da parcela a capacidade remanescente. | Conta 204 |
+
+## ANEXO 2 — Especificações aplicáveis à saída de ativos no FC_PUQNNE a que se refere o artigo 15.º
+
+Especificações inerentes à saída de ativos no FC_PUQNNE a que se refere o artigo 15.º deste Regulamento
+
+| Saída de ativos decorrentes da aplicação direta do Rmpcfc - Grupo 1 do Quadro 1 do artigo 11.º |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tipologia de ativo a sair do FC | Unidade | Razão da saída | Domínio de origem que integra | Sede de cálculo e fixação do valor | Materialização | Comprovativo | Código de Conta no sistema de registo de ativos do FC |  |
+| Numerário | Euros | - | Devolução de provisão financeira inicial para abertura de conta bancária | Não aplicável | De acordo com o disposto no regulamento do PC_PUQNNE. | Transferência bancária da conta bancária do FC para a conta bancária da CML | Guia de depósito comprovativo da realização da transferência bancária | Conta 100 |
+| Numerário | Euros | - | Devolução de Eventuais provisões financeiras de reforço | Não aplicável | De acordo com o disposto no regulamento do PC_PUQNNE. | Transferência bancária da conta bancária do FC para a conta bancária da CML | Guia de depósito comprovativo da realização da transferência bancária | Conta 101 |
+| Numerário | Euros | - | Devolução de eventuais suprimentos | Não aplicável | No âmbito do processo de fecho/extinção do FC_PUQNNE e de acordo com o regulamento do FC_PUQNNE. | Transferência bancária da conta bancária do FC para a conta bancária da CML | Transferência bancária da conta bancária do FC para a conta bancária da CML | Conta 102 |
+| Numerário | Euros |  | Compensação que decorre da situação em que Edificabilidade Concreta (EdConc) é inferior à Edificabilidade Abstrata (EdAb) e a compensação é realizada através do FC (Alínea a) do artigo 6.º do RMPCFC) | Não aplicável | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Transferência bancária da conta bancária do FC para a do Requerente | Guia de depósito comprovativo da realização da transferência bancária | Conta 107 |
+| Espécie | M2 de solo | Que permita a capacidade construtiva do excesso com todos os direitos e deveres | Compensação que decorre da situação em que Edificabilidade Concreta (EdConc) é inferior à Edificabilidade Abstrata (EdAb) e a compensação é realizada através do FC (Alínea a) do artigo 6.º do RMPCFC) | Domínio Privado Municipal | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Inscrição da saída da superfície de solo e respetiva possibilidade construtiva, no sistema de registo de ativos do FC | Cópia de registo da titularidade da propriedade a favor do Requerente, efetuado na CRPL e tendo por base Certidão emitida pela CML na sequência da concretização dos procedimentos aplicáveis à alienação de património do Domínio Privado Municipal | Conta 108 |
+| Numerário | Euros |  | Compensação que decorre da situação em que Edificabilidade Concreta (EdConc) for inferior à Edificabilidade Abstrata (EdAb) e em que a compensação não é realizada diretamente a partir do FC, recorrendo-se a desconto nas taxas que o proprietário tenha de suportar.(Subalínea) da alínea a) do artigo 6.º do RMPCFC) | Não aplicável | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Transferência bancária da conta bancária do FC para a conta bancária da CML em uso para efeitos de liquidação de taxas urbanísticas, com menção explícita de “Compensação paga pelo FC_PUQNNE, na figura de desconto de taxas, decorrente da aplicação da perequação compensatória à operação urbanística n.º xxx” | Comprovativo da Realização da transferência bancária | Conta 109 |
+| Espécie | M2 de solo | Que permita a capacidade construtiva do excesso com todos os direitos e deveres | Compensação que decorre da situação em que Edificabilidade Concreta (EdConc) é inferior à Edificabilidade Abstrata (EdAb) e em que a compensação não é realizada diretamente a partir do FC, optando-se pela aquisição, pelo Município de Loulé e por permuta, da parte do terreno menos edificável.(Subalínea ii) da alínea a) do artigo 6.º do RMPCFC) | Domínio Privado Municipal | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Contrato de permutaInscrição da saída da superfície de solo e respetiva possibilidade construtiva, no sistema de registo de ativos do FCInscrição da entrada e na Conta 1, da superfície de solo que passa a ser ativo do FC por efeito da permuta presente | Cópia de registo da titularidade da propriedade a favor do Requerente, efetuado na CRPL e tendo por base Certidão emitida pela CML na sequência da concretização dos procedimentos aplicáveis à alienação de património do Domínio Privado MunicipalCópia de registo da titularidade da propriedade a favor da CML - Domínio Privado Municipal - efetuado na CRPL e tendo por a mesma Certidão emitida pela CML | Conta 110 |
+| Numerário | Euros |  | Compensação que decorre da situação em que Edificabilidade Concreta (EdConc) é inferior à Edificabilidade Abstrata (EdAb) e em que a compensação não é realizada diretamente a partir do FC, optando-se pela aquisição, pelo Município de Loulé e por compra, da parte do terreno menos edificável.Subalínea ii) da alínea a) do artigo 6.º do RMPCFC) | Não aplicável | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Contrato de compra e vendaInscrição da saída de numerário no sistema de registo de ativos do FCInscrição da entrada e na Conta 1, da superfície de solo que passa a ser ativo do FC por efeito da compra presente | Cópia de registo da titularidade da propriedade a favor da CML - Domínio Privado Municipal - efetuado na CRPL e tendo por base Certidão emitida pela CML | Conta 111 |
+| Numerário | Euros |  | Compensação que decorre da situação em que Área de cedência Efetiva (AcedEf) é superior à Área de cedência Abstrata (AcedAb), e a compensação é realizada através do FC, em numerário.Valor em numerário de acordo com V2(Alínea b) do artigo 6.º do RMPCFP) | Não aplicável | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Transferência bancária da conta bancária do FC para a do Requerente | Guia de depósito comprovativo da realização da transferência bancária | Conta 112 |
+| Espécie | M2 de solo | Com capacidade construtiva do excesso e todos os direitos e deveres | Compensação que decorre da situação em que Área de cedência Efetiva (AcedEf) é superior à Área de cedência Abstrata (AcedAb), e a compensação é realizada através do FC, em espécie.Saída do domínio privado municipal de uma área com possibilidade construtiva com valor equivalente à compensação(Alínea b) do artigo 6.º do RMPCFC) | Domínio Privado Municipal | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Inscrição da saída da superfície de solo e respetiva possibilidade construtiva, no sistema de registo de ativos do FC | Cópia de registo da titularidade da propriedade a favor do Requerente, efetuado na CRPL e tendo por base Certidão emitida pela CML na sequência da concretização dos procedimentos aplicáveis à alienação de património do Domínio Privado Municipal | Conta 113 |
+| Numerário | Euros |  | Compensação que decorre da situação em que Área de cedência Efetiva (AcedEf) é superior à Área de cedência Abstrata (AcedAb), optando-se por não realizar a compensação diretamente a partir do FC, recorrendo-se a desconto nas taxas que o proprietário tenha de suportar.Valor em numerário de acordo com V2(Subalínea) da alínea b) do artigo 6.º do RMPCFC) | Não aplicável | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Transferência bancária da conta bancária do FC para a conta bancária da CML em uso para efeitos de liquidação de taxas urbanísticas, com menção explícita de “Compensação paga pelo FC_PUQNNE, na figura de desconto de taxas, decorrente da aplicação da perequação compensatória à operação urbanística n.º xxx” | Comprovativo da realização da transferência bancária | Conta 114 |
+| Espécie | M2 de solo | Com capacidade construtiva do excesso e todos os direitos e deveres | Compensação que decorre da situação em que a Área de cedência Efetiva (AcedEf) é superior à Área de cedência Abstrata (AcedAb), e em que a compensação não é realizada diretamente a partir do FC, optando-se pela aquisição, pelo Município de Loulé e por permuta, da área em excesso(Subalínea ii) da alínea b) do artigo 6.º do RMPCFC) | Domínio Privado Municipal | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Contrato de permutaInscrição da saída da superfície de solo e respetiva possibilidade construtiva, no sistema de registo de ativos do FCInscrição da entrada e na Conta 1, da superfície de solo que passa a ser ativo do FC por efeito da permuta presente | Cópia de registo da titularidade da propriedade a favor do Requerente, efetuado na CRPL e tendo por base Certidão emitida pela CML na sequência da concretização dos procedimentos aplicáveis à alienação de património do Domínio Privado MunicipalCópia de registo da titularidade da propriedade a favor da CML - Domínio Privado Municipal - efetuado na CRPL e tendo por a mesma Certidão emitida pela CML | Conta 115 |
+| Numerário | Euros |  | Compensação que decorre da situação em que a Área de cedência Efetiva (AcedEf) é superior à Área de cedência Abstrata (AcedAb), e em que a compensação não é realizada a partir do FC, mas sim pela aquisição, pelo Município de Loulé e por compra, da área em excesso(Subalínea ii) da alínea b) do artigo 6.º do RMPCFC) | Não aplicável | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Contrato de compra e vendaInscrição da saída de numerário no sistema de registo de ativos do FCInscrição da entrada e na Conta 1, da superfície de solo que passa a ser ativo do FC por efeito da compra presente | Cópia de registo da titularidade da propriedade a favor da CML - Domínio Privado Municipal - efetuado na CRPL e tendo por base Certidão emitida pela CML | Conta 116 |
+| Numerário | Euros | - | Acerto de contas de processo de liquidação de compensação | Não aplicável | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Transferência bancária do FC para a conta bancária do Requerente | Guia de depósito comprovativo da realização da transferência bancária | Conta 117 |
+| Espécie | M2 de solo | Que permita a capacidade construtiva do excesso com todos os direitos e deveres | Acerto de contas de processo de liquidação de compensação | Domínio Privado Municipal | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio, atualizada à data do pedido de emissão de alvará de licença e anexa a este/a. | Inscrição da saída da superfície de solo e respetiva possibilidade construtiva, no sistema de registo de ativos do FC | Cópia de registo da titularidade da propriedade a favor do Requerente efetuado na CRPL e tendo por base Certidão emitida pela CML na sequência da concretização dos procedimentos aplicáveis à alienação de património do Domínio Privado Municipal | Conta 118 |
+
+| Saída de ativos decorrentes de processos com tramitação anterior a este Regulamento - Grupo 2 do Quadro 1 do artigo 11.º |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tipologia de ativo a sair do FC | Unidade | Razão da saída | Domínio de origem que integra | Sede de cálculo e fixação do valor | Materialização | Comprovativo | Código de Conta no sistema de registo de ativos do FC |  |
+| Espécie | M2de solo | Com capacidade construtiva do excesso e todos os direitos e deveres | Ativo que decorre da situação em que Edificabilidade Concreta (EdConc) é inferior à Edificabilidade Abstrata (EdAb) e, para liquidar o direito do requerente a ser compensado, o FC entrega ao primeiro um outro terreno fora da AI da sua intervenção, com a capacidade construtiva necessária. | Domínio Privado Municipal | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio e inclusa ao alvará de licença | Na situação em que o terreno entregue constitua artigo/fração autónomos, proceder à Inscrição da superfície de solo e respetiva possibilidade construtiva, no sistema de registo de ativos do FC.No caso de não ter sido entregue artigo autónomo, proceder à inscrição da área de construção entregue. | Na situação do terreno entregue ser um artigo/fração autónomos - Cópia de registo da titularidade da propriedade a favor da CML - Domínio Privado Municipal - efetuado na CRPL e tendo por base Certidão emitida pela CMLNo caso de não o ser, o requerente tem de fazer prova de ter averbado, na CRPL, o ónus na propriedade em causa respeitante à capacidade construtiva entregue ao FC | Conta 203 |
+| Espécie | M2 de área de construção |  | Ativo que decorre da situação em que Edificabilidade Concreta (EdConc) é inferior à Edificabilidade Abstrata (EdAb) e, para liquidar o direito do requerente a ser compensado, o FC entrega ao primeiro o direito inerente a capacidade construtiva que constitua ativo do FC (que tenha entrado neste por efeitos de compensações registadas na Conta 20) na dimensão construtiva necessária. | Domínio Privado Municipal | Ficha de cálculo de aplicação da perequação e de liquidação de compensações, preparada no âmbito do processo de controlo prévio e inclusa ao alvará de licença | No caso de não ter sido entregue artigo autónomo, proceder à inscrição da área de construção entregue. | Na situação do terreno entregue ser um artigo/fração autónomos - Cópia de registo da titularidade da propriedade a favor da CML - Domínio Privado Municipal - efetuado na CRPL e tendo por base Certidão emitida pela CMLNo caso de não o ser, o requerente tem de fazer prova de ter averbado, na CRPL, o ónus na propriedade em causa respeitante à capacidade construtiva entregue ao FC | Conta 205 |
+
+## ANEXO 3
+
+Especificações aplicáveis a ativos que, por força do processo de gestão anterior, não integram o FC_PUQNNE mas, para efeitos de gestão e controlo tem de figurar no mesmo, a que se refere o artigo 16.º deste Regulamento
+
+Especificações inerentes aos ativos que, não integrando a contabilidade do FC_PUQNNE, por efeitos de gestão e controlo, tem de figurar no mesmo
+
+| Ativos decorrentes de processos com tramitação anterior a este regulamento que são de terceiros e por isso não contam para a situação contabilística do PF_PUQNNE - Grupo 3 do Quadro 1 do artigo 11.º |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Tipologia de ativo | Unidade | Descrição | Domínio de que integra | Sede de cálculo e fixação do valor | Materialização | Comprovativo | Código de Conta no sistema de registo de ativos do FC |
+| Espécie | M2 de área de construção | Conta de gestão que não releva para a situação líquida contabilística do FC mas que neste tem de estar registada em virtude de tal ativo ter sido admitido, no passado, como meio de liquidação de compensações. Esta conta contém os valores de a.c. abaixo da Edmáxima permitida pelo PUQNNE para a parcela em causa, sobre os quais se entende como plausível que possam ser utilizados no futuro na parcela em causa e que por isso são objeto de perequação neste momento e não o voltarão a ser no futuro. | Pertence à parcela | Consta do Processo respetivo | Inscrição no sistema de registo de ativos do FC, a favor da parcela objeto da operação urbanística | É necessário registar este ativo na medida em que o modo e meio de liquidação de compensações que foi outrora realizado, afeta os direitos e deveres inerentes à parcela em causa.A realização futura da obra de construção desta a.c.tem de cumprir toda a legislação aplicável à realização de operações urbanística, salvo as obrigações respeitantes à perequação compensatória, cumpridas à anteriori. | Conta 300 |
+| Espécie | M2 de área de construção | Conta de gestão que não releva para a situação líquida contabilística do FC mas que neste tem de estar registada em virtude de tal ativo ter sido admitido, no passado, como meio de liquidação de compensações. Esta conta contém os valores de a.c. que sejam remanescentes de operações de liquidação de compensações (e que, assim se mantêm na posse da parcela e dos respetivos proprietários a cada momento) mas que não foram perequacionados em virtude de serem excedentários face à compensação a liquidar. | Pertence à parcela | Consta do Processo respetivo | Inscrição no sistema de registo de ativos do FC, a favor da parcela objeto da operação urbanística | É necessário registar este ativo na medida em que o modo e meio de liquidação de compensações que foi outrora realizado, afeta os direitos e deveres inerentes à parcela em causa. A construção futura na parcela em causa desta a.c. obriga ao cumprimento de toda a legislação e regulamentação aplicáveis a operações urbanísticas, incluindo o disposto no PUQNNE e incluindo a sujeição a perequação compensatória. Este quantitativo terá de ser inscrito no registo da conservatória. | Conta 301 |
+
+320000540
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:17px; } .Tbl4 { text-align:center; } .Tbl5 { background-color:rgb(226,239,217); } .Tbl6 { height:26px; } .Tbl7 { background-color:rgb(180,198,231); } .Tbl8 { background-color:rgb(255,229,153); } .Tbl9 { height:14px; } .Tbl10 { min-height:47px; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(226,239,217); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(180,198,231); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,229,153); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl16 { min-height:37px; } .Tbl17 { min-height:124px; } .Tbl18 { min-height:95px; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,229,153); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl21 { height:34px; } .Tbl22 { min-height:54px; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl26 { min-height:45px; } .Tbl27 { min-height:84px; } .Tbl28 { min-height:96px; } .Tbl29 { min-height:85px; } .Tbl30 { min-height:91px; } .Tbl31 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl32 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl33 { min-height:115px; } .Tbl34 { min-height:143px; } .Tbl35 { min-height:185px; } .Tbl36 { min-height:51px; } .Tbl37 { min-height:93px; } .Tbl38 { min-height:103px; } .Tbl39 { min-height:156px; } .Tbl40 { min-height:175px; } .Tbl41 { min-height:127px; } .Tbl42 { min-height:101px; } .Tbl43 { min-height:135px; } .Tbl44 { min-height:164px; } .Tbl45 { min-height:131px; } .Tbl46 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl47 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl48 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl49 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl50 { min-height:149px; } .Tbl51 { min-height:114px; }

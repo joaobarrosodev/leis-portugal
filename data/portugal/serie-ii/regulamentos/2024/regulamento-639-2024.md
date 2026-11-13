@@ -1,0 +1,667 @@
+---
+schema_version: '1.0'
+id: pt:dre:868418043:por
+title: Regulamento n.º 639/2024
+short_title: null
+summary: Aprova o Regulamento Municipal do Centro de Recolha Oficial de Animais de Companhia e de Bem-Estar Animal do Município
+  de Albergaria-a-Velha
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Albergaria-a-Velha
+proposing_entity: null
+official_number: 639/2024
+official_date: null
+publication_date: '2024-06-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/2024, Série II de 2024-06-11
+  number: '111'
+  series: II
+  supplement: null
+  pages: 336 - 359
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/06/111000000/0033600359.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '868418043'
+  dre_path: /dr/detalhe/regulamento/639-2024-868418043
+  internal: pt:dre:868418043:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/639-2024-868418043
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/639-2024-868418043
+  consolidated_url: null
+  retrieved_at: '2026-11-13T08:00:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: eadfffc8a5e2e654456dc78c997735fb5d5725eb22aafe46b8c3a6cf804150ad
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T08:00:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:106549655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122728684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140431165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170435:por
+  label: null
+  source: null
+article_structure:
+  article_count: 27
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T08:00:19Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 639/2024
+
+Sandra Isabel Silva Melo de Almeida, Vereadora em regime de tempo inteiro da Câmara Municipal de Albergaria-a-Velha, faz público que, nos termos e para efeitos do disposto no artigo 56.º do Anexo I da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na sua atual redação, conjugado com o artigo 139.º do Código de Procedimento Administrativo, a Assembleia Municipal, em sessão ordinária de 30 de abril de 2024, sob proposta da Câmara Municipal, aprovada em reunião ordinária de 18 de abril de 2024, deliberou aprovar o Regulamento Municipal do Centro de Recolha Oficial de Animais de Companhia e de Bem-Estar Animal do Município de Albergaria-a-Velha, o qual entra em vigor após aprovação pela Assembleia Municipal, no 1.º dia útil do mês seguinte ao da publicação no Diário da República.
+
+Para constar se publica o presente e editais de igual teor, que vão ser afixados nos locais de estilo, nas Juntas de Freguesia e no sítio institucional do Município, em www.cm-albergaria.pt
+
+16 de maio de 2024. - A Vereadora, Sandra Isabel Silva Melo de Almeida.
+
+Regulamento Municipal do Centro de Recolha Oficial de Animais de Companhia e de Bem-Estar Animal do Município de Albergaria-a-Velha
+
+Nota Justificativa
+
+Com a publicação da [Lei n.º 27/2016](https://diariodarepublica.pt/dr/detalhe/lei/27-2016-75170435), de 23 de agosto, que aprovou um conjunto de medidas para a criação de uma Rede de Centros de Recolha Oficial de Animais e estabeleceu a proibição do abate de animais errantes, como forma de controlo da população, privilegiando a esterilização, e da Portaria n.º 146/2017, de 26 de abril, que fixa as condições e as normas técnicas a que devem obedecer os programas de controlo das populações errantes de animais de companhia, nomeadamente os programas de captura, esterilização e devolução de gatos, as Autarquias Locais passaram a incorrer no dever de colaboração com o Estado tendo em vista a criação de uma rede de centros de recolha oficial de animais.
+
+Na sequência da entrada em funcionamento do Centro de Recolha Oficial de Animais do Município de Albergaria-a-Velha, em maio de 2023, e após um período de adaptação às exigências de operacionalização do Centro de Recolha, que permitiu desenvolver uma organização de serviço adaptada à realidade concreta do Município, urge proceder à regulamentação das condições gerais de funcionamento e utilização do Centro de Recolha Oficial Municipal e assegurar as condições de bem-estar e estado hígio-sanitário e clínico dos animais.
+
+O Município de Albergaria-a-Velha reconhece a importância da Declaração Universal dos Direitos dos Animais, proclamada em 27 de janeiro de 1978, pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) e da Convenção Europeia para a Proteção dos Animais de Companhia, pretendendo que o funcionamento do Centro de Recolha Oficial de Animais do Município de Albergaria-a-Velha observe todos os princípios e normativos que garantam a adequada proteção e salvaguarda do bem-estar animal.
+
+Na elaboração do presente regulamento foram observados os preceitos instituídos em vários diplomas legais, nomeadamente: [Lei n.º 92/95](https://diariodarepublica.pt/dr/detalhe/lei/92-1995-562269), de 12 de setembro, que aprova as Medidas de Proteção Animal; [Decreto-Lei n.º 276/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2001-626241), de 17 de outubro, que estabelece as normas legais tendentes a pôr em aplicação em Portugal a Convenção Europeia para a Proteção dos Animais de Companhia e um regime especial para a detenção de animais potencialmente perigosos; [Lei n.º 8/2017](https://diariodarepublica.pt/dr/detalhe/lei/8-2017-106549655), de 3 março, que estabelece um Estatuto Jurídico dos Animais; [Decreto-Lei n.º 314/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2003-432863), de 17 de dezembro, que aprova o Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses (PNLVERAZ) e estabelece as regras relativas à posse e detenção, comércio, exposições e entrada em território nacional de animais suscetíveis à raiva; Portaria n.º 264/2013, de 16 de agosto, que aprova as normas técnicas de execução regulamentar do Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses; [Decreto-Lei n.º 315/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), de 29 de outubro, aprova o Regime Jurídico da detenção de animais perigosos e potencialmente perigosos enquanto animais de companhia; [Lei n.º 27/2016](https://diariodarepublica.pt/dr/detalhe/lei/27-2016-75170435), de 23 de agosto, que aprova medidas para a criação de uma rede de centros de recolha oficial de animais e estabelece a proibição do abate de animais errantes como forma de controlo da população; Portaria n.º 146/2017, de 26 de abril, que fixa as condições e as normas técnicas a que devem obedecer os programas de controlo das populações errantes de animais de companhia, nomeadamente os programas de captura, esterilização e devolução de gatos, e o funcionamento dos centros de recolha oficial; [Decreto-Lei n.º 82/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684) de 27 de junho, que estabelece as regras de identificação dos animais de companhia, criando o Sistema de Informação de Animais de Companhia; [Lei n.º 39/2020](https://diariodarepublica.pt/dr/detalhe/lei/39-2020-140431165), de 18 de agosto, que altera o regime sancionatório aplicável aos crimes contra animais de companhia e o [Decreto-Lei n.º 116/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1998-516877), de 5 de maio, que estabelece os princípios gerais da carreira de médico veterinário municipal.
+
+Nos termos do Regulamento da Estrutura e Organização dos Serviços Municipais de Albergaria-a-Velha, a direção e coordenação técnica do Centro de Recolha Oficial de Animais do Município de Albergaria-a-Velha é da competência do Gabinete Médico Veterinário do Município, na dependência direta do Presidente da Câmara Municipal, sem prejuízo de delegação de competências.
+
+O presente regulamento é elaborado ao abrigo da competência regulamentar das Autarquias Locais, consagrada constitucionalmente no artigo 241.º da Constituição da República Portuguesa e no uso das atribuições e competências conferidas pela alínea g), do n.º 1, do artigo 25.º, em conjugação com a alínea k), do n.º 1, do artigo 33.º, ambos do Anexo I da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, que aprovou o Regime Jurídico das Autarquias Locais, na sua atual redação.
+
+No uso das atribuições e competências conferidas pela alínea g), do n.º 1, do artigo 25.º, em conjugação com a alínea k), do n.º 1, do artigo 33.º, ambos do Anexo I da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, que aprovou o Regime Jurídico das Autarquias Locais, em conformidade com as disposições conjugadas dos artigos 112.º, n.º 7 e 241.º da Constituição da República Portuguesa (CRP), da alínea g) do n.º 1 do artigo 25.º do RJAL, e nos termos do disposto no artigo 101.º do Código do Procedimento Administrativo, foi elaborado o Regulamento Municipal do Centro de Recolha Oficial de Animais de Companhia e de Bem-Estar Animal do Município de Albergaria-a-Velha.
+
+### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Lei Habilitante
+
+1 - O presente Regulamento é elaborado ao abrigo do disposto no artigo 241.º da Constituição da República Portuguesa, artigos 97.º a 101.º e 135.º a 142.º do Código do Procedimento Administrativo, alínea g), do n.º 1, do artigo 25.º, em conjugação com a alínea k), do n.º 1, do artigo 33.º, ambos do Anexo I da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro.
+
+2 - Na elaboração do presente Regulamento foram observadas as disposições constantes da [Lei n.º 92/95](https://diariodarepublica.pt/dr/detalhe/lei/92-1995-562269), de 12 de setembro; [Decreto-Lei n.º 276/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2001-626241), de 17 de outubro; [Lei n.º 8/2017](https://diariodarepublica.pt/dr/detalhe/lei/8-2017-106549655), de 3 março, que estabelece um Estatuto Jurídico dos Animais; [Decreto-Lei n.º 314/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2003-432863), de 17 de dezembro; Portaria n.º 264/2013, de 16 de agosto; [Decreto-Lei n.º 315/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), de 29 de outubro; [Lei n.º 27/2016](https://diariodarepublica.pt/dr/detalhe/lei/27-2016-75170435), de 23 de agosto; Portaria n.º 146/2017, de 26 de abril; [Decreto-Lei n.º 82/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684) de 27 de junho; [Lei n.º 39/2020](https://diariodarepublica.pt/dr/detalhe/lei/39-2020-140431165), de 18 de agosto e o [Decreto-Lei n.º 116/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1998-516877), de 5 de maio.
+
+###### Artigo 2.º — Objeto e Finalidades
+
+1 - O presente Regulamento estabelece as condições gerais de funcionamento e utilização do Centro de Recolha Oficial de Animais de Albergaria-a-Velha, também designado por CROAA.
+
+2 - São ainda definidos os termos gerais de prestação do serviço público de recolha, alojamento, adoção, occisão e eliminação de cadáveres (incineração) da população canina e felina, bem como do controlo de zoonoses e execução das medidas de profilaxia médica e sanitárias determinadas pela Autoridade Competente, sendo aplicável na área territorial do concelho de Albergaria-a-Velha.
+
+###### Artigo 3.º — Definições
+
+Nos termos do presente Regulamento, considera-se:
+
+a) Adoção: processo ativo com vista ao acolhimento de um animal por um novo detentor;
+
+b) Alojamento: qualquer instalação, edifício, grupo de edifícios ou outro local, podendo incluir zona não completamente fechada, onde os animais de companhia se encontram mantidos;
+
+c) Animal abandonado: qualquer animal de companhia que se encontre na via pública ou em quaisquer lugares públicos, relativamente ao qual existam fortes indícios de que foi removido, pelos respetivos donos ou detentores, para fora do seu domicílio ou dos locais onde costumava estar confinado, com vista a pôr termo à propriedade, posse ou detenção que sobre aquele se exercia, sem transmissão do mesmo para a guarda e responsabilidade de outras pessoas, das autarquias locais ou das sociedades zoófilas legalmente constituídas;
+
+d) Animal de companhia: qualquer animal detido ou destinado a ser detido pelo homem, designadamente no seu lar, para seu entretenimento ou companhia;
+
+e) Animal errante ou vadio: qualquer animal que seja encontrado na via pública ou quaisquer lugares públicos fora do controlo ou vigilância direta do respetivo dono ou detentor, que não tenha lar ou que se encontre fora dos limites do lar do seu detentor ou relativamente ao qual existem fortes indícios de que foi abandonado ou não tem detentor e não esteja identificado;
+
+f) Animal perigoso: qualquer animal que se encontre uma das seguintes condições:
+
+i) tenha mordido, atacado ou ofendido o corpo ou a saúde de uma pessoa;
+
+ii) tenha ferido gravemente ou morto um outro animal fora da esfera de bens imóveis que constituem a propriedade do seu detentor;
+
+iii) tenha sido declarado como tal, voluntariamente, pelo seu detentor à junta de freguesia da sua área de residência;
+
+iv) tenha sido considerado pela autoridade competente como um risco para a segurança de pessoas ou animais, devido ao seu comportamento agressivo ou especificidade fisiológica;
+
+g) Animal potencialmente perigoso: qualquer animal que, devido às suas características da espécie, ao comportamento agressivo, ao tamanho ou à potência da mandíbula, possa causar lesão ou morte a pessoas ou outros animais, nomeadamente os cães pertencentes às raças previamente definidas como potencialmente perigosas na legislação vigente, bem como os cruzamentos de primeira geração destas, os cruzamentos destas entre si ou cruzamentos destas com outras raças, obtendo assim uma tipologia semelhante a alguma das raças referidas naquela portaria;
+
+h) Autoridade competente: Direção Geral de Alimentação e Veterinária (DGAV), enquanto autoridade sanitária veterinária nacional, as Direções Regionais de Agricultura (DRA), enquanto entidade licenciadora no âmbito da agricultura e produção pecuária, o Instituto da Conservação da Natureza e das Florestas (ICNF), como entidade supervisora dos temas relacionados com os animais de companhia, os Médicos Veterinários Municipais (MVM), enquanto autoridade sanitária veterinária concelhia, a Guarda Nacional Republicana (GNR) e a Polícia de Segurança Pública (PSP) enquanto Autoridades Policiais, ficando salvaguardada a hipótese de alteração das denominações, a criação de novos organismos ou a atribuição de novas competências a outras entidades;
+
+i) Bem-estar animal: estado de equilíbrio fisiológico e etológico de um animal;
+
+j) Centro de Recolha Oficial de Animais de Albergaria-a-Velha (CROAA): alojamento oficial, também designado por Canil e Gatil Municipal, onde o animal é hospedado por um período de tempo determinado pela autoridade competente, não sendo utilizado como local de reprodução, criação, venda ou hospitalização de animais, mas tendo como principal função a execução de ações de profilaxia da raiva e vigilância zoonoses, promoção da adoção e o controlo da população canina e felina do Município;
+
+k) DIAC: Documento de Identificação do Animal de Companhia;
+
+l) Dono ou detentor: qualquer pessoa, singular ou coletiva responsável por um animal de companhia ou que dele se ocupe, mesmo que a título provisório, garantindo-lhe os cuidados necessários com fim à sua sanidade e bem-estar, bem como a aplicação de medidas de profilaxia emanadas pelas Autoridades Competentes;
+
+m) Esterilização: remoção cirúrgica dos órgãos com funções exclusivamente reprodutoras;
+
+n) Identificação eletrónica: aplicação subcutânea num animal de um implante eletrónico (microchip) com um código numérico individual, único e permanente, que garanta a identificação individual do animal e que permita a sua visualização através de um aparelho leitor, seguido do preenchimento da ficha de registo;
+
+o) Médico Veterinário Municipal (MVM): é o responsável oficial pela direção técnica do Centro de Recolha Oficial, bem como pela execução das medidas de profilaxia médica e sanitária, determinadas pelas autoridades competentes, nacionais e regionais promovendo a preservação da saúde pública e a proteção do bem-estar animal;
+
+p) Occisão: qualquer morte provocada, sem dor e sofrimento desnecessários, de um animal de companhia e/ou errante, de acordo com a legislação em vigor;
+
+q) Programa Cheque Veterinário: emitido ao abrigo do Programa Nacional de Apoio à Saúde Veterinária para Animais de Companhia em Risco - Cheque Veterinário - mediante protocolo celebrado entre o Município e a Ordem dos Médicos Veterinários, que permite acesso a esterilizações, referenciadas pelo Médico Veterinário Municipal, em Centros de Atendimento Médico-Veterinários aderentes ao programa. O Cheque Veterinário destina-se a animais errantes capturados pelo Centros de Recolha Oficial, colónias de gatos sob a responsabilidade da autarquia e animais de famílias carenciadas (devidamente identificadas pelo Município, segundo a legislação em vigor);
+
+r) Programa CED: programa de Captura, Esterilização e Devolução de felídeos errantes e implementação de colónias controladas, com parecer do Médico Veterinário Municipal, devendo ser respeitadas as medidas de profilaxia aplicáveis assim como a identificação eletrónica dos animais;
+
+s) SIAC: Sistema de Informação de Animais de Companhia, como base de dados nacional.
+
+### CAPÍTULO II — GESTÃO E FUNCIONAMENTO DO CROAA
+
+###### Artigo 4.º — Gestão do Centro de Recolha Oficial
+
+1 - O CROAA integra-se no Gabinete Médico Veterinário do Município de Albergaria-a-Velha, nos termos do respetivo Regulamento da Estrutura e Organização dos Serviços Municipais de Albergaria-a-Velha, devendo todos os funcionários, agentes, utentes e visitantes cumprir o presente Regulamento e as demais ordens e indicações.
+
+2 - A coordenação e direção técnica do CROAA é da responsabilidade do Médico Veterinário Municipal, conforme a legislação em vigor.
+
+3 - O CROAA possui o número de identificação de alojamento de animais de companhia C019, atribuído pela Direção Regional da Conservação da Natureza e Florestas do Centro.
+
+###### Artigo 5.º — Acesso e Atendimento
+
+1 - O CROAA situa-se na rua do Areeiro, em São Marcos, e funcionará nos dias úteis, das 09:00H às 12:30H e das 13:30H às 17:00H, salvo situações excecionais previamente anunciadas.
+
+2 - O horário de funcionamento do CROAA pode ser alterado por despacho do Presidente da Câmara.
+
+3 - Apenas podem aceder ao CROAA as pessoas autorizadas para o efeito e sempre acompanhadas por um funcionário municipal devidamente autorizado.
+
+4 - Quando, por motivo de serviço externo ou qualquer outro impedimento, não seja possível o acompanhamento dos visitantes por um funcionário municipal, é reservado o direito de não serem permitidas visitas às instalações.
+
+5 - Não é permitida a entradas nas zonas de serviço do CROAA enquanto ocorrem serviços de limpeza e desinfeção das instalações, alimentação dos animais, bem como procedimentos clínicos e cirúrgicos.
+
+6 - O atendimento presencial tem prevalência em relação ao atendimento telefónico, salvo em condições de exceção superiormente avaliadas.
+
+### CAPÍTULO III — PROCEDIMENTOS INTERNOS
+
+###### Artigo 6.º — Identificação dos Animais
+
+1 - De acordo com a legislação em vigor, o CROAA deve manter um registo atualizado durante um período mínimo de um ano, em que seja referenciado:
+
+a) A identificação de cada animal, nomeadamente ficha individual com o número de ordem de entrada, com indicação da espécie, sexo, raça, idade aproximada, quaisquer sinais particulares, proveniência do animal, nomeadamente com indicação do local e circunstâncias da recolha ou captura;
+
+b) O movimento mensal, nomeadamente registos relativos à origem e às datas de entrada, nascimentos, mortes, datas de saída e destino dos animais.
+
+2 - O CROAA atualiza o movimento mensal dos animais, registando:
+
+a) Número total de animais capturados, por espécie;
+
+b) Número total de animais acidentados, por espécie;
+
+c) Número total de eutanásias e motivo, por espécie;
+
+d) Número total de animais microchipados e vacinados, por espécie;
+
+e) Número total de animais adotados, por espécie;
+
+f) Número total de animais devolvidos aos detentores (incluindo animais acidentados), por espécie;
+
+g) Número total de animais suspeitos em sequestro (incluindo sequestro antirrábico domiciliário), por espécie;
+
+h) Número de animais recolhidos e entregues como cadáveres, por espécie;
+
+i) Número de animais esterilizados, por espécie;
+
+j) Número de mortes por espécie (indicar motivo);
+
+k) Número de animais e locais intervencionados ao abrigo do Programa CED - Captura, esterilização e Devolução;
+
+l) Número de animais referenciados por suspeita de doenças infetocontagiosas e/ou de declaração obrigatória, como a leishmaniose, a sarna ou a dermatofitose.
+
+###### Artigo 7.º — Recolha/Captura dos Animais
+
+1 - Incumbe à Câmara Municipal de Albergaria-a-Velha, atuando dentro das suas atribuições nos domínios da defesa da saúde pública e do meio ambiente, sob a responsabilidade do Médico Veterinário Municipal, promover a recolha ou captura de cães e gatos vadios, abandonados ou errantes, encontrados na via pública ou em quaisquer locais públicos.
+
+2 - Durante a captura é utilizado o método de captura mais adequado de modo a não causar sofrimento ao animal, seguindo as normas de boas práticas sobre a captura de cães e gatos divulgadas pela DGAV, nos termos previstos na Portaria n.º 146/2017, de 26 de abril.
+
+3 - Cada ação de recolha/captura deverá ser planeada e autorizada pelo Médico Veterinário Municipal, de modo que, o número de animais existentes no CROAA não exceda o número de boxes destinadas a este efeito, salvo situações com caráter urgente e/ou exceções devidamente fundamentadas, por escrito pelo Médico Veterinário Municipal.
+
+4 - Quando seja observado um animal errante, este deve ser comunicado aos serviços municipais ou às autoridades policiais, para captura e posterior acolhimento no CROAA.
+
+5 - São consideradas recolhas prioritárias os seguintes casos:
+
+a) Animais acidentados, lesionados ou com traumatismos graves;
+
+b) Animais com sinais compatíveis de doenças transmissíveis a pessoas ou a outros animais, que possam colocar em risco a saúde pública e a saúde animal;
+
+c) Animais agressores, agredidos e animais agressivos;
+
+d) Animais em estado avançado de gestação;
+
+e) Fêmeas com ninhadas;
+
+f) Ninhadas;
+
+g) Animais provenientes de ações de recolha compulsiva, determinadas pelas autoridades competentes.
+
+###### Artigo 8.º — Receção de Animais no Centro de Recolha Oficial
+
+1 - Os munícipes podem comunicar a existência de animais errantes ao Gabinete Médico Veterinário, mediante utilização dos formulários municipais disponibilizados para o efeito na página institucional do Município.
+
+2 - Todos os animais que deem entrada no CROAA provenientes de entregas voluntárias devem ser devidamente acompanhados do Termo de Entrega do Animal, nos termos do modelo que constitui o Anexo I do presente regulamento, com a identificação do animal, a razão de entrega e as circunstâncias onde o animal foi encontrado.
+
+3 - Nos casos previstos no número anterior, e quando aplicável, os animais devem ainda ser acompanhados de Declaração de Transmissão de Titularidade do Animal, devidamente preenchida e assinada pelo detentor, onde declare que, para efeitos legais, põe termo à propriedade, posse ou detenção desse animal, transmitindo-a ao Município de Albergaria-a-Velha.
+
+4 - A entrega de animais errantes ou vadios por parte de munícipes é assegurada após a ponderação dos fatores de risco que determinaram a recolha do animal, designadamente no caso de serem consideradas recolhas prioritárias constantes no artigo anterior e salvaguardando o disposto no número seguinte.
+
+5 - O CROAA pode recusar receber animais em casos de sobrelotação e falta de alojamentos disponíveis e sempre que existam risco para o bem-estar e saúde animal.
+
+6 - O CROAA não aceita ninhadas que não tenham capacidade autónoma de sobrevivência, salvo se acompanhadas da respetiva mãe em fase de aleitamento ou em condições especiais de morte da progenitora ou outras circunstâncias avaliadas pelo Médico Veterinário Municipal.
+
+###### Artigo 9.º — Transporte de animais
+
+1 - Os animais recolhidos devem ser transferidos num veículo destinado para o efeito, com segurança e tranquilidade, diminuindo a ansiedade e o stress que o animal possa ter durante o transporte.
+
+2 - Os animais devem ser transportados em transportadoras ou jaulas de contenção.
+
+###### Artigo 10.º — Alojamento
+
+1 - Para efeitos do alojamento, os animais que estão à guarda do CROAA são divididos em grupos distintos, nomeadamente:
+
+a) Animais em sequestro sanitário;
+
+b) Animais que apresentem um comportamento sujeito a pôr em causa a segurança das pessoas ou de outros animais;
+
+c) Animais errantes capturados e que se encontrem a cumprir o prazo legal de reclamação (período mínimo de 15 dias);
+
+d) Animais para adoção, designadamente aqueles que cumprem os requisitos para poderem ser adotados e não foram reclamados pelos seus detentores no prazo disposto na lei;
+
+e) Animais em observação/isolamento por motivos médico veterinários.
+
+2 - Todos os animais recolhidos são submetidos a exame clínico pelo Médico Veterinário Municipal que elabora uma ficha de identificação animal.
+
+3 - Todos os animais alojados no CROAA deverão estar alojados em boxes.
+
+4 - Os animais em sequestro sanitário e observação por suspeita de raiva são alojados, obrigatoriamente, em boxes destinadas especificamente para esse fim.
+
+5 - Os animais acolhidos que não sejam reclamados pelos seus detentores no prazo de 15 dias, a contar da data da sua recolha, são obrigatoriamente esterilizados.
+
+6 - As fêmeas e machos da mesma espécie podem coabitar, desde que estejam esterilizados.
+
+7 - Quando o CROAA se encontre com 80 % da lotação total ocupada, poderá ser recusada a entrada de animais, sendo a situação avaliada casuisticamente.
+
+###### Artigo 11.º — Maneio dos animais, alimentação e abeberamento
+
+1 - Os funcionários municipais afetos ao CROAA procedem à observação diária de todos os animais alojados e informam o Médico Veterinário Municipal sempre que haja quaisquer indícios de alterações no estado de saúde dos animais.
+
+2 - O maneio dos animais deve respeitar os princípios básicos de higiene, segurança, bem-estar e saúde animal.
+
+3 - Deve ser observado o comportamento dos animais de modo a ser devidamente utilizado o método de contenção mais adequado.
+
+4 - Os gatos devem ser transportados em transportadoras ou jaulas de contenção.
+
+5 - A alimentação deve ser de valor nutritivo adequado e distribuída em quantidade suficiente para satisfazer as necessidades alimentares das espécies e de cada animal de acordo com a fase da evolução fisiológica em que se encontram, nomeadamente idade, sexo fêmeas prenhes ou em fase de lactação.
+
+6 - A alimentação é fornecida de a partir de rações de qualidade comprovada através da ficha técnica aprovada pelo Médico Veterinário Municipal.
+
+7 - Os animais devem dispor de água potável, sem qualquer restrição, salvo por razões e ordens médico-veterinárias.
+
+8 - Não é permitida a introdução ou fornecimento de qualquer tipo de alimento dos animais alojados no canil ou gatil por visitantes ou voluntários, exceto em casos devidamente avaliados pelo Médico Veterinário Municipal.
+
+###### Artigo 12.º — Divulgação de Animais
+
+1 - O CROAA publicitará suas redes sociais e, sempre que possível, na página institucional do Município, a fotografia do cão ou gato recolhido na via ou espaço público com o objetivo da sua identificação ou devolução ao respetivo detentor.
+
+2 - Decorridos 15 dias após a data da sua captura, o animal pode ser cedido para adoção, nos termos do disposto no artigo 14.º do presente Regulamento.
+
+###### Artigo 13.º — Restituição
+
+1 - Os animais podem ser entregues aos seus detentores, logo que reclamados por estes, desde que comprovada a sua propriedade através da apresentação de:
+
+a) Boletim sanitário do animal e DIAC;
+
+b) Outros meios comprovativos da titularidade do animal, que deverão ser validados pelo Médico Veterinário Municipal.
+
+2 - Para os efeitos previstos no número anterior, o detentor deve assinar um Termo de Restituição de Animal, nos termos do Anexo II ao presente Regulamento.
+
+3 - Os detentores devem proceder ao pagamento das despesas realizadas com o animal, nomeadamente a recolha e captura do animal, o alojamento e a alimentação durante o período de permanência no CROAA.
+
+###### Artigo 14.º — Adoção
+
+1 - Os animais alojados no CROAA que não sejam reclamados durante o período legal podem ser cedidos para adoção, pela entidade gestora do CROAA, após parecer favorável do Médico Veterinário Municipal.
+
+2 - Todos os animais adotados são obrigatoriamente identificados eletronicamente e possuem a vacinação antirrábica.
+
+3 - No caso da adoção dos animais com idade inferior a 3 meses, apenas serão identificados eletronicamente com comunicação posterior para a realização da vacinação antirrábica.
+
+4 - Todos os animais adotados são esterilizados.
+
+5 - Os animais adotados com idade inferior a 6 meses serão posteriormente encaminhados para um Centro de Atendimento Médico Veterinário quando atingirem a idade para a realização da esterilização.
+
+6 - O animal a adotar é entregue ao futuro dono mediante a assinatura de um Termo de Adoção, nos termos do Anexo III ao presente Regulamento, que implica a declaração de compromisso e responsabilidade do adotante em assegurar todas as condições de bem-estar do animal.
+
+7 - A adoção de um animal apenas pode ser realizada na presença de um médico veterinário ao serviço do Município ou trabalhador especializado do CROAA designado pelo mesmo.
+
+8 - No momento da adoção é entregue o Boletim Sanitário do animal e efetuada a transmissão de titularidade no Sistema de Informação de Animais de Companhia. O novo titular pode solicitar o DIAC ao CROAA ou diretamente aos serviços do SIAC.
+
+9 - O Gabinete Veterinário Municipal reserva-se ao direito de acompanhar o processo de adaptação do animal ao novo dono e de verificar o cumprimento da legislação relativa ao bem-estar animal e saúde pública em vigor.
+
+10 - Não se efetuam reservas de adoções de animais. A adoção deve ser feita presencialmente pelo novo detentor no Centro de Recolha Oficial, tendo o atendimento presencial prevalência em relação ao atendimento telefónico ou outro meio.
+
+###### Artigo 15.º — Sequestro de Animal Agressor
+
+1 - Em caso de agressão, se o detentor do animal agressor for notificado pela autoridade policial competente, deve apresentar-se no CROAA, fazendo-se acompanhar dos respetivos documentos.
+
+2 - Caso a agressão seja entre dois canídeos, a obrigação prevista no número anterior aplica-se igualmente ao detentor do animal agredido.
+
+3 - No caso de o animal agressor ser errante ou vadio, a recolha deve ser efetuada de imediato após a agressão.
+
+4 - A decisão do local onde se efetua o sequestro do animal, nos termos e para os efeitos previstos nos Anexos IV, V e VI ao presente regulamento, é da responsabilidade do Médico Veterinário Municipal, tendo em consideração os seguintes pressupostos e condicionantes:
+
+a) O animal possuir ou não vacinação antirrábica em dia;
+
+b) Análise do temperamento do animal;
+
+c) Antecedentes de agressão;
+
+d) Condições de segurança do alojamento.
+
+5 - O início e termo do sequestro constam de relatórios elaborados pelo Médico Veterinário Municipal.
+
+6 - No caso do animal agressor se encontrar vacinado contra a raiva, a vigilância clínica pode realizar-se no domicílio do detentor ou noutras instalações, desde que previamente avaliadas pelo Médico Veterinário Municipal, verificando se o local apresenta as condições necessárias para o sequestro sanitário.
+
+7 - O detentor do animal agressor, durante o período de sequestro, é responsável por todos os danos causados e por todas as despesas relacionadas com a captura, alimentação e manutenção do mesmo.
+
+###### Artigo 16.º — Occisão e Eutanásia
+
+1 - Nos termos da legislação em vigor, o abate ou occisão de animais pode ser praticado no CROAA única e exclusivamente nas seguintes situações:
+
+a) Sempre que esteja em causa a segurança e o bem-estar animal o justifique, nomeadamente em casos de doença incurável ou para pôr fim à dor e sofrimento desnecessários;
+
+b) Nos casos em que o animal tenha causado ofensas graves à integridade física de uma pessoa, devidamente comprovada por relatório médico;
+
+c) Nos casos em que o animal apresente um comportamento agressivo ou assilvestrado que comprometa a sua socialização com pessoas ou outros animais e torne inviável o seu encaminhamento para adoção;
+
+d) Nos casos em que o animal seja portador de zoonoses ou de doenças infetocontagiosas, representando uma ameaça à saúde animal ou constitua um perigo para a saúde pública, no âmbito ou na sequência de um surto de doença infetocontagiosa.
+
+2 - Nos casos de animais sujeitos a sequestro obrigatório para diagnóstico diferencial de raiva animal, é obrigatório respeitar o prazo estabelecido legalmente.
+
+3 - Para efeitos da alínea anterior, o detentor deve assinar o Termo de Responsabilidade para Eutanásia de Animal, nos termos do Anexo VII ao presente Regulamento, e proceder ao pagamento da taxa de cremação do cadáver.
+
+4 - A eutanásia é um recurso de última instância e de caráter supletivo, em que a indução da morte do animal deve ser efetuada através de métodos que garantam a ausência de dor e sofrimento, devendo a morte ser imediata, indolor e respeitando a dignidade do animal.
+
+5 - Sempre que o bem-estar animal o justifique, nomeadamente para pôr fim ao sofrimento ou dor desnecessária, pode proceder-se à eutanásia do animal antes do prazo estabelecido legalmente, devendo ser emitido o respetivo relatório médico-veterinário justificativo, com os exames complementares efetuados.
+
+6 - À eutanásia de um animal não podem assistir pessoas estranhas ao serviço do CROAA.
+
+###### Artigo 17.º — Recolha de Cadáveres de Animais na Via Pública
+
+1 - Sempre que sejam encontrados ou seja reportada a existência de cadáveres na via pública, estes são recolhidos pela equipa do CROAA, em viatura equipada para o efeito.
+
+2 - Os cadáveres são colocados em sacos de plásticos e transportados para o CROAA, armazenados em arcas de congelação existentes para o feito até à recolha por uma empresa certificada para a gestão de subprodutos de origem animal.
+
+3 - No caso de cadáveres recolhidos na via pública possuírem detentor, este deve pagar a taxa de cremação de acordo com a tabela de taxas em vigor, sendo que os cadáveres não são objeto de restituição a eventuais reclamantes detentores.
+
+###### Artigo 18.º — Receção de Cadáveres
+
+1 - Os serviços do CROAA recebem cadáveres de animais de companhia de particulares residentes no Município de Albergaria-a-Velha, para cremação, mediante cobrança de taxa de cremação de acordo com a tabela de preços em vigor.
+
+2 - Em casos excecionais e sempre que se verifique a impossibilidade de particulares transportarem os cadáveres até ao CROAA, os serviços podem efetuar a recolha junto da residência do munícipe, mediante o pagamento da respetiva taxa.
+
+### CAPÍTULO IV — PROGRAMAS DE CONTROLO E BEM-ESTAR ANIMAL
+
+###### Artigo 19.º — Controlo da População Canina e Felina
+
+A Câmara Municipal de Albergaria-a-Velha incentiva e promove o controlo da reprodução dos animais de companhia através de protocolos como o Programa CED, Programa Cheque Veterinário e através de campanhas de esterilização abertas ao público.
+
+###### Artigo 20.º — Programa CED
+
+1 - A Câmara Municipal, sob parecer do Médico Veterinário Municipal, como forma de controlo de gatos errantes, e nos casos em que tal se justifique, pode autorizar a manutenção, em locais especialmente designados para o efeito, de colónias de gatos no âmbito do programa CED.
+
+2 - Apenas se encontram abrangidas pelo presente Regulamento colónias de gatos devidamente registadas pelo respetivo cuidador juntos dos serviços municipais através do preenchimento e aprovação do Anexo VIII.
+
+3 - Os programas CED podem realizar-se por iniciativa da Câmara Municipal, de organizações de proteção animal ou de munícipes, que sinalizem a existência de gatos assilvestrados.
+
+4 - Deve ser evitada a implementação dos programas CED nos parques públicos, nos refúgios de vida selvagem ou outros locais públicos que sirvam de habitat à vida selvagem.
+
+5 - A entidade responsável pelo programa CED deve assegurar:
+
+a) A existência de um plano de gestão de colónias, do qual conste a identificação do médico veterinário assistente e das pessoas que na entidade são responsáveis pela execução do programa;
+
+b) Que os gatos que compõem a colónia são avaliados periodicamente do ponto de vista clínico;
+
+c) Que os gatos portadores de doenças transmissíveis a outros animais ou a seres humanos são retirados da colónia;
+
+d) Que os gatos capturados, antes de integrarem a colónia, são entregues no Centro de Recolha Oficial de Animais, para verificação da sua aptidão;
+
+e) Que os gatos capturados são esterilizados e marcados com um pequeno corte na orelha esquerda, identificados eletronicamente, registados, desparasitados e vacinados contra a raiva ou outras medidas profiláticas obrigatórias ou consideradas no plano de gestão de colónia.
+
+6 - A colónia intervencionada é supervisionada pelo CROAA e a entidade responsável pelo programa deve assegurar a prestação de cuidados de saúde adequados aos animais, com o controlo de saídas ou entradas de novos animais e de quaisquer outros fatores que perturbem a estabilidade da colónia, a segurança e tranquilidade pública e da vizinhança.
+
+7 - A dimensão da colónia de gatos não pode pôr em causa a salubridade, a saúde pública e a segurança das pessoas e bens.
+
+8 - Os alojamentos e espaços utilizados pela colónia são mantidos livres de resíduos ou restos de comida, de forma a evitar a proliferação de pragas.
+
+9 - As despesas relacionadas com a manutenção de colónias de gatos são da responsabilidade da entidade promotora requerente, incluindo a sua alimentação.
+
+10 - Sempre que a Câmara Municipal verifique que não estão a ser cumpridos os requisitos previstos no n.º 4, pode determinar medidas corretivas ou suspensão do Programa CED e proceder à recolha dos animais para o CROAA.
+
+11 - A entidade requerente, enquanto responsável por uma colónia junto à sua residência, deve apresentar comprovativo de esterilização dos seus próprios gatos, enquanto animais de companhia, de modo a salvaguardar que estes não contribuam para o aumento da colónia, estando a intervenção municipal e a aprovação do Programa CED condicionada ao cumprimento deste ponto.
+
+12 - Após a entrada do pedido de aprovação do Programa CED é realizada uma avaliação prévia do local de manutenção dos gatos, para a decisão sobre a elegibilidade do local e dos animais neste âmbito.
+
+13 - Os gatos incluídos nos Programas CED, com potencial de adoção, devem ser encaminhados para esse efeito, mediante indicação do Médico Veterinário Municipal.
+
+###### Artigo 21.º — Parques Caninos
+
+1 - O Município de Albergaria-a-Velha dispõe de parques caninos, devidamente identificados, que visam permitir exercitar e socializar os cães, sem trela, numa área controlada, sob vigilância dos detentores.
+
+2 - Os parques caninos destinam-se ao bem-estar, recreio e atividades caninas, sob supervisão dos detentores.
+
+3 - Os espaços têm à disposição zonas de bem-estar, bebedouros, dispensadores de sacos e papeleira.
+
+4 - Na utilização dos parques caninos, os detentores devem observar e zelar pela observância das seguintes normas:
+
+a) Manter a porta do recinto fechada;
+
+b) Os cães devem ser soltos apenas quando estiverem no interior da vedação;
+
+c) É obrigatório que o cão use coleira dentro do espaço e o detentor mantenha a trela à mão;
+
+d) Os detentores são responsáveis pela vigilância do seu animal durante a permanência no parque;
+
+e) Os detentores devem manter o espaço limpo e recolher, de imediato, todos os dejetos, depositando-os na papeleira;
+
+f) Dentro do parque é proibido alimentar os animais;
+
+g) Não são permitidas cadelas com o cio, nem cães que apresentem comportamentos que os detentores não sabem e não conseguem controlar;
+
+h) Os canídeos de raças potencialmente perigosas ou com comportamentos agressivos devem usar açaime funcional e evitar estar com animais que apresentem o mesmo tipo de comportamentos;
+
+i) Deve ser evitado que os animais escavem buracos e danifiquem os equipamentos presentes no espaço;
+
+j) Os detentores dos animais devem assegurar-se que os mesmos são alvo de desparasitações regulares (internas e externas) e não são suscetíveis de causar doenças a outros animais utilizadores do parque;
+
+k) Todos os animais devem estar identificados eletronicamente e com a vacinação antirrábica válida e a vacina das doenças infetocontagiosas.
+
+###### Artigo 22.º — Controlo da População de Pombos
+
+1 - É proibida a alimentação de pombos na via, espaços públicos e municipais.
+
+2 - O Município de Albergaria-a-Velha de modo a preservar o património histórico e monumental, bem como zelar pelos potenciais riscos de saúde pública pode promover o controlo populacional dos pombos selvagens, mediante recurso aos métodos mais adequados.
+
+###### Artigo 23.º — Promoção do Bem-Estar Animal
+
+1 - A Câmara Municipal de Albergaria-a-Velha promove e coopera em ações de preservação e promoção do bem-estar animal.
+
+2 - As iniciativas de promoção e desenvolvimento de programas de informação relativos a animais de companhia, são desenvolvidos sob orientação técnica do Médico Veterinário Municipal.
+
+3 - Os serviços do CROAA promovem o esclarecimento dos munícipes relativamente ao seu funcionamento e ações desenvolvidas.
+
+###### Artigo 24.º — Colaboração com outras entidades
+
+Podem ser desenvolvidas formas de cooperação entre as associações zoófilas, legalmente constituídas e o CROAA, por forma a defender e promover o bem-estar animal e a saúde pública, sob a supervisão do Médico Veterinário Municipal.
+
+###### Artigo 25.º — Colaboração e Voluntariado
+
+1 - O CROAA encontra-se disponível, mediante pré-marcação, para a realização de atividades de sensibilização sobre o abandono e adoção dos animais em cooperação com entidades de ocupações de tempos livres de crianças, jovens e idosos, nomeadamente escolas.
+
+2 - A Câmara Municipal de Albergaria-a-Velha permite o exercício de ação de voluntariado para promoção do bem-estar e saúde animal no CROAA, mediante inscrição prévia junto do Banco Local de Voluntariado.
+
+3 - O exercício de voluntariado no CROAA será acompanhado de formação presencial aos voluntários e destina-se à realização das tarefas constantes do Anexo IX ao presente Regulamento.
+
+4 - O CROAA poderá ceder animais devidamente esterilizados e chipados, ou a necessitar de cuidados permanentes (fase de amamentação) a Voluntários de Acolhimento Temporário, mediante preenchimento do Anexo X, que se responsabilizam pelos animais nas mesmas circunstâncias da adoção, exceto no que concerne as despesas relacionadas com doenças e debilidades, uma vez que estes animais continuarão sob vigilância e acompanhamento técnico do Médico Veterinário Municipal.
+
+### CAPÍTULO V — DISPOSIÇÕES FINAIS
+
+###### Artigo 26.º — Casos Omissos e Revisão
+
+1 - Os casos omissos e as dúvidas relativos ao presente regulamento serão solucionados, caso a caso, pelo Presidente da Câmara Municipal de Albergaria-a-Velha ou pelo Vereador(a) ao abrigo de competência delegada.
+
+2 - O presente Regulamento poderá ser objeto de revisão ou alteração sempre que as condições assim o exijam ou sempre que a Câmara Municipal entender como necessário e adequado.
+
+###### Artigo 27.º — Publicitação e Entrada em Vigor
+
+O presente Regulamento entra em vigor após a aprovação pela Assembleia Municipal, no 1.º dia útil do mês seguinte ao da publicação no Diário da República, sem prejuízo de igual divulgação no sítio institucional da Câmara Municipal de Albergaria-a-Velha, devendo também ser afixado no CROAA, e revoga as Normas de Funcionamento do Centro de Recolha Oficial de Animais de Albergaria-a-Velha atualmente em vigor.
+
+## ANEXO I — Termo de Entrega de Animal no CROAA
+
+(a que se refere o n.º 2 do artigo 8.º)
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/868418043/868418110.png) |
+| --- |
+
+## ANEXO II — Termo de Restituição de Animal por Detentor
+
+(a que se refere o n.º 2 do artigo 13.º)
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/868418043/868418111.png) |
+| --- |
+
+## ANEXO III — Termo de Adoção
+
+(a que se refere o n.º 6 do artigo 14.º)
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/868418043/868418112.png) |
+| --- |
+
+## ANEXO IV — Termo de Responsabilidade do Detentor do Animal relativo ao Cumprimento da Quarentena para efeitos de Sequestro Domiciliário
+
+(a que se refere o n.º 4 do artigo 15.º)
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/868418043/868418113.png) |
+| --- |
+
+## ANEXO V — Condições a cumprir para realização de Quarentena Domiciliária
+
+(a que se refere o n.º 4 do artigo 15.º)
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/868418043/868418114.png) |
+| --- |
+
+## ANEXO VI — Termo de responsabilidade relativo à Entrega de animal para efeitos de Sequestro Antirrábico
+
+(a que se refere o n.º 4 do artigo 15.º)
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/868418043/868418115.png) |
+| --- |
+
+## ANEXO VII — Termo de Responsabilidade para Eutanásia de Animal
+
+(a que se refere o n.º 3 do artigo 16.º)
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/868418043/868418116.png) |
+| --- |
+
+## ANEXO VIII — Identificação de Colónias de Felídeos
+
+(a que se refere o n.º 2 do artigo 20.º)
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/868418043/868418117.png) |
+| --- |
+
+## ANEXO IX — Voluntariado Centro de Recolha Oficial de Animais de Albergaria-a-Velha
+
+(a que se refere o n.º 3 do artigo 25.º)
+
+Nos termos e para os efeitos do disposto no n.º 3 do artigo 25.º do Regulamento Municipal do Centro de Recolha Oficial de Animais de Companhia e de Bem-Estar Animal do Município de Albergaria-a-Velha, poderão ser solicitadas as seguintes tarefas aos Voluntários previamente inscritos no Banco Local de Voluntariado do Município de Albergaria-a-Velha para ações de voluntariado no CROAA:
+
+Passear os cães à trela;
+
+Escovar os cães;
+
+Dar banho aos cães;
+
+Socialização dos cães (contacto, brincadeiras, preparação para adoção);
+
+Socialização dos gatos (contacto, brincadeiras, preparação para adoção);
+
+Tirar fotografias aos cães e gatos para as adoções;
+
+Participar nas ações de adoção e sensibilização realizadas no exterior;
+
+Auxiliar o funcionário municipal do CROAA em tarefas como: mudar animais de boxe, preparação de jaulas para receção de novos animais (colocação de cama, água e comida), tosquia de cães;
+
+Auxiliar o/a Médico/a Veterinário/a nas desparasitações, vacinas e colocação de microchip.
+
+## ANEXO X — Voluntários de Acolhimento Temporário
+
+(a que se refere o n.º 4 do artigo 25.º)
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/868418043/868418118.png) |
+| --- |
+
+317706936

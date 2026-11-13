@@ -1,0 +1,1145 @@
+---
+schema_version: '1.0'
+id: pt:dre:146606533:por
+title: Regulamento n.º 942/2020
+short_title: null
+summary: Regulamento Municipal de Apoio à Habitação
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Soure
+proposing_entity: null
+official_number: 942/2020
+official_date: null
+publication_date: '2020-10-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 209/2020, Série II de 2020-10-27
+  number: '209'
+  series: II
+  supplement: null
+  pages: 428 - 458
+  pdf_url: https://files.diariodarepublica.pt/2s/2020/10/209000000/0042800458.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '146606533'
+  dre_path: /dr/detalhe/regulamento/942-2020-146606533
+  internal: pt:dre:146606533:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/942-2020-146606533
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/942-2020-146606533
+  consolidated_url: null
+  retrieved_at: '2026-11-13T07:04:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 044ec062bd47a5b0bd526f2db79a75b9e5b621d1893b95f2e3b55acdfc1d4b88
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T07:04:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:146061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72997147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75194221:por
+  label: null
+  source: null
+article_structure:
+  article_count: 64
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T07:04:03Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 942/2020
+
+Regulamento Municipal de Apoio à Habitação
+
+Nota Justificativa
+
+A habitação, sendo um direito consagrado constitucionalmente, é, cada vez mais, reconhecido como área estratégica e fundamental ao desenvolvimento humano e da vida em comunidade e à promoção da competitividade e coesão dos territórios. Esta Nova Geração de Políticas de Habitação reconhece, portanto, o papel imprescindível que os municípios têm na sua implementação e reforça a sua intervenção neste âmbito, na esteira da lógica de descentralização.
+
+A sua relação de proximidade com os cidadãos e o território permite aos municípios ter uma noção mais precisa das necessidades presentes, das abordagens mais adequadas e dos recursos passíveis de mobilização.
+
+Conforme previsto na [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na sua redação atual, constituem atribuições nucleares dos municípios, o ordenamento do território, o urbanismo, a habitação e, em geral, a ação social e a promoção do desenvolvimento.
+
+O Município de Soure tem vindo a promover a oferta de habitação essencialmente para famílias de rendimentos baixos, no âmbito do arrendamento apoiado.
+
+A promoção de habitação acessível assume-se como um dos eixos estruturais e transversais de uma política pública municipal de habitação, através da requalificação e revitalização do "parque habitacional" do Concelho, possibilitando às pessoas o acesso a uma habitação condigna, financeiramente sustentável.
+
+Nos termos do regime de arrendamento apoiado para habitação, aprovado pela [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, alterado pela [Lei n.º 32/2016](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), de 24 de agosto, as autarquias locais detentoras de um parque habitacional, para fins sociais, e que sejam arrendadas em função dos rendimentos dos agregados familiares, ficam abrangidas ao regime do arrendamento apoiado, sendo a estratégia de intervenção municipal, no âmbito da habitação social, assente no princípio de que a atuação da autarquia consiste numa resposta de caráter especial, transitório e temporário, em face de uma determinada situação conjuntural de um dado agregado familiar, como garantia que essa família se pode organizar com vista à sua autonomização, nomeadamente a nível habitacional.
+
+Para que a atuação pública, no domínio da habitação social seja justa, proporcional e equitativa, respeitando os princípios consagrados na Constituição da República Portuguesa, torna-se necessário que o modelo de intervenção municipal no que respeita à habitação social seja acompanhado de um corpo de regras estruturado e transparente que defina, nos termos do novo regime de arrendamento apoiado vigente, as duas vertentes deste domínio: a atribuição da habitação e a gestão e acompanhamento da utilização das habitações pelos arrendatários e respetivos agregados.
+
+Torna-se imperioso que se proceda à redação de um regulamento de acordo com o atual enquadramento legal e em face da sua aplicabilidade aos contratos a celebrar, bem como aos contratos existentes à data da entrada em vigor da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, ao abrigo dos regimes de fim social, nomeadamente de renda apoiada e de renda social.
+
+Assim, o sistema de atribuição e gestão das habitações sociais do Município de Soure, assenta num regime especial de arrendamento social, de natureza administrativa, tendo por base o regime do arrendamento apoiado aprovado pela [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, e que se encontra orientado pela lógica da habitação social como prestação social pública, implicando que a intervenção do Município seja sustentada num diagnóstico e acompanhamento social pelos seus serviços com vista à capitação do agregado familiar, sendo a razão de ser da atribuição da habitação, com caráter temporário e transitório, a garantia de uma solução habitacional para aqueles agregados que se encontrem em situação de grave carência, nomeadamente por não possuírem condições económicas, ou outras, suficientes para prover outra solução habitacional, para melhoria das condições de alojamento.
+
+Por outro lado ainda nos termos das supramencionadas atribuições nucleares dos municípios, em matéria de habitação, ação social e promoção do desenvolvimento, no âmbito da sua política de Ação Social, o Município tem apostado fortemente na descentralização e no estabelecimento de parcerias, estratégia considerada imperativa e fundamental para a prossecução efetiva de um investimento público intenso, espacial e funcionalmente equilibrado, gerador da melhoria da qualidade de vida da comunidade em geral e, de forma especial, dos estratos mais vulneráveis da população.
+
+Naturalmente, a valorização da qualidade de vida da população passa também pela melhoria das condições de alojamento.
+
+Através de um diálogo eficaz entre a Autarquia e os diferentes parceiros da Rede Social do Concelho, designadamente Juntas de Freguesia e IPSS, tem sido desenvolvido um trabalho fundamental de Diagnóstico Concelhio, no sentido de, gradualmente, garantir o acesso a uma habitação condigna a todas as Famílias, designadamente, às que apresentam menores recursos económicos.
+
+Assim, face às desigualdades individuais, subjacentes à problemática da pobreza, a intervenção do Poder Local, no âmbito do Apoio Social, é muitas vezes decisiva, no sentido de potenciar a melhoria das condições de vida das famílias carenciadas, designadamente no que se refere à Habitação.
+
+O Apoio Social pode passar pelo Apoio ao Arrendamento, que designaremos de Renda Apoiada, como forma de minimizar a escassez de recursos de determinados Agregados Familiares.
+
+Para a prossecução dos seus objetivos e para o exercício das suas competências, a Autarquia deve dispor de um quadro regulamentar com vista a disciplinar os procedimentos necessários a uma criteriosa atribuição de Apoio ao Arrendamento.
+
+Este instrumento deve ter uma natureza flexível que permita a sua atualização e reajustamento às necessidades e à realidade local, sempre que se justificar.
+
+É, portanto, com base nestes princípios e pressupostos que foi elaborado o presente Regulamento e que se organizou a estratégia e o modelo de intervenção do Município de Soure, na gestão do seu parque habitacional, assentando, ainda, no paradigma de que a atribuição e acompanhamento da utilização das habitações sociais pressupõem sempre uma adequação do grau de expectativa e de exigência ao agregado familiar, definidos e como fim último da intervenção a autonomização da família.
+
+Nestes termos e no uso das competências e atribuições previstas pelo disposto no artigo 112.º e do artigo 241.º da Constituição da República Portuguesa, e conferida pela alínea k) do n.º 1 do artigo 33.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro a Câmara Municipal de Soure aprovou o presente Regulamento Municipal de Apoio à Habitação no Município de Soure, em reunião de 16/09/2020, que nos termos do artigo 101.º do Código do Procedimento Administrativo foi submetido a submetido a consulta pública, para recolha de sugestões, pelo prazo de trinta dias úteis contados a partir da data da publicação.
+
+O presente Regulamento, foi aprovado nos termos do disposto na alínea g) do n.º 1 do artigo 25.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, pela Assembleia Municipal de Soure, na sessão de 28/09/2020.
+
+## PARTE I — Disposições Gerais
+
+### CAPÍTULO I — Disposições Comuns
+
+###### Artigo 1.º — Objeto e Âmbito
+
+1 - O presente Regulamento tem como objeto disciplinar os critérios de acesso e atribuição das habitações que integram o património municipal em arrendamento apoiado, disciplinar o contrato de arrendamento apoiado e disciplinar o regime da renda apoiada, aplicando-se a toda a circunscrição territorial do Município de Soure.
+
+2 - O presente Regulamento visa, ainda, definir as regras e condições aplicáveis à gestão do parque habitacional de arrendamento social propriedade do Município de Soure.
+
+3 - No âmbito do referido no número anterior inclui-se, também, a boa gestão dos espaços de uso comum dos prédios de habitação social do Município de Soure.
+
+4 - São destinatários do presente Regulamento, nos termos do n.º 1 do presente artigo, além dos serviços municipais a quem compete a sua aplicação, e dos arrendatários de cada fogo camarário, bem como os elementos do seu agregado familiar, todos os moradores no Município de Soure, há mais de três anos, nacionais ou estrangeiros, com idade igual ou superior a 18 anos que aqui residem legalmente, em habitação inadequada à satisfação das necessidades do seu agregado familiar.
+
+###### Artigo 2.º — Leis habilitantes
+
+O presente Regulamento rege-se pelo disposto na [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853) de 19 de dezembro e a [Lei n.º 32/2016](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), de 24 de agosto e, subsidiariamente, pelo Decreto-Lei n.º 47344/66, de 25 de novembro, que aprovou o Código Civil, na sua redação em vigor, e pela [Lei n.º 6/2006](https://diariodarepublica.pt/dr/detalhe/lei/6-2006-693853), de 27 de fevereiro, que aprovou o Novo Regime do Arrendamento Urbano, na sua redação em vigor e pelas alíneas h) e i) do n. º1 do artigo 23.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro.
+
+###### Artigo 3.º — Conceitos
+
+1 - Para efeito do disposto no presente regulamento, considera-se:
+
+a) Agregado familiar: o conjunto de pessoas, também designados de "moradores", que residem em economia comum, constituídos pelos seguintes elementos:
+
+i) O arrendatário e seu cônjuge ou pessoa em união de facto há mais de dois anos;
+
+ii) Parentes e afins maiores, em linha reta e colateral, até ao 3.º grau;
+
+iii) Parentes e afins menores em linha reta e em linha colateral;
+
+iv) Pessoas relativamente às quais, por força da Lei ou de negócio jurídico que não respeite diretamente à habitação, haja obrigação de convivência ou de alimentos - nomeadamente, derivado de adoção, tutela ou confiança determinada por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito;
+
+v) Pessoas que se encontrem autorizadas pelo Município de Soure, a permanecer na habitação com o arrendatário.
+
+b) Alteração da composição do agregado familiar: o aumento do número de elementos do agregado, por via de casamento ou união de facto do titular, nascimento de filhos ou estabelecimento do vínculo de adoção; bem como, a diminuição do agregado, por falecimento, divórcio ou inexistência de outra alternativa habitacional para algum elemento do agregado;
+
+c) Coabitante: pessoa, também designada por "morador", não pertencente ao agregado familiar do arrendatário que se encontre especialmente autorizada pelo Município a residir na habitação, nos casos especificamente consignados no presente regulamento;
+
+d) Deficiente: a pessoa com deficiência com grau comprovado de incapacidade igual ou superior a 60 %;
+
+e) Dependente: o elemento do agregado familiar que seja menor ou, que, tendo idade inferior a 26 anos, não aufira rendimento mensal líquido superior ao indexante dos apoios sociais;
+
+f) Fator de capitação: a percentagem resultante da ponderação da composição do agregado familiar, de acordo com a tabela infra:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/10/209000000/0042800458.pdf)
+
+g) Habitação precária: todo e qualquer tipo de espaço utilizado para fins habitacionais, que no seu todo não reúna condições mínimas de habitabilidade e salubridade exigidas para o ano da sua edificação;
+
+h) Indexante dos Apoios Sociais (IAS): o valor fixado nos termos da Lei n.º 35- B/2006, de 29 de dezembro, alterada pela [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril e pelo [Decreto-Lei n.º 254-B/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-b-2015-72997147), de 31 de dezembro, alterado o valor pela Portaria 21/2018, de 18 de janeiro;
+
+i) Rendimento Mensal Líquido (RML): o duodécimo da soma dos rendimentos anuais ilíquidos de todos os membros do agregado familiar, sendo o rendimento anual líquido de cada membro obtido:
+
+i) Subtraindo ao rendimento global o valor da coleta líquida, nos termos do n.º 2 do presente artigo; caso os rendimentos se reportem a período inferior a um ano, considera-se a proporção correspondente ao número de meses em causa;
+
+ii) Sendo zero o valor da coleta liquida ou não tendo havido lugar à entrega da declaração de rendimentos nos termos do Código do Imposto sobre Rendimento de Pessoas Singulares, calculando o total dos rendimentos anuais auferidos, considerados nos termos do artigo 3.º do [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho, alterado pela [Lei n.º 15/2011](https://diariodarepublica.pt/dr/detalhe/lei/15-2011-287076), de 3 maio, e pelos Decretos-Leis n.os [113/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2011-146061), de 29 de novembro, e [133/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), de 27 de junho; caso os rendimentos se reportem a período inferior a um ano, considera-se a proporção correspondente ao número de meses em causa.
+
+j) Rendimento Mensal Corrigido (RMC): o rendimento mensal líquido deduzido das quantias indicadas de seguida:
+
+i) 10 % do indexante dos apoios sociais pelo primeiro dependente;
+
+ii) 15 % do indexante dos apoios sociais pelo segundo dependente;
+
+iii) 20 % do indexante dos apoios sociais por cada dependente além do segundo;
+
+iv) 10 % do indexante dos apoios sociais por cada deficiente, que acresce aos anteriores se também couber na definição de dependente;
+
+v) 10 % do indexante dos apoios sociais por cada elemento do agregado familiar com idade igual ou superior a 65 anos;
+
+vi) 20 % do indexante dos apoios sociais em caso de família monoparental;
+
+vii) A quantia resultante da aplicação do fator de capitação, constante do Anexo IV, ao indexante dos apoios sociais.
+
+e) Renda - quantitativo devido mensalmente ao senhorio, pelo uso do fogo para fins habitacionais, referente ao ano civil a que a renda apoiada respeite.
+
+2 - Para efeitos da alínea i) do número anterior, os valores do rendimento global e da coleta líquida correspondem às constantes da declaração de rendimentos das pessoas singulares, validada pela Autoridade Tributária e Aduaneira (AT) e respeitante ao ano anterior, que podem igualmente ser enviadas por esta para as entidades detentoras de habitação em regime de arrendamento apoiado através de comunicação eletrónica.
+
+3 - Sem prejuízo do previsto no número anterior, nos casos em que se verifique alteração de rendimento devidamente comprovada, podem os arrendatários requerer revisão do valor da renda.
+
+###### Artigo 4.º — Destino das Habitações
+
+1 - As habitações arrendadas em regime de arrendamento apoiado e em regime de renda apoiada, só podem destinar-se à residência permanente dos agregados familiares aos quais são atribuídas.
+
+2 - É proibido qualquer forma de cedência, total ou parcial, temporária ou permanente e onerosa ou gratuita, do gozo da habitação por parte do arrendatário ou de qualquer elemento do seu agregado familiar, nomeadamente a cessão da posição contratual, o subarrendamento, a hospedagem ou o comodato.
+
+3 - Após a atribuição da habitação e celebração do respetivo contrato de arrendamento, o arrendatário deverá ocupar a casa no prazo de 2 meses, sob pena de a Câmara Municipal de Soure considerar que a não ocupação imediata do fogo comprova que a necessidade de habitação não é efetiva.
+
+4 - Não se aplica o disposto no número anterior se o arrendatário provar, fundamentadamente, que a não ocupação imediata do fogo não ocorreu por motivo que não lhe é imputável.
+
+## PARTE II — Acesso e Atribuição das Habitações em Regime de Arrendamento Apoiado
+
+### CAPÍTULO I — Acesso
+
+###### Artigo 5.º — Condições de acesso
+
+1 - Podem aceder à atribuição de habitações em regime de arrendamento apoiado os cidadãos nacionais e os cidadãos estrangeiros detentores de títulos válidos de permanência no território nacional, residentes no concelho de Soure, há mais de 3 anos, e que não estejam em nenhuma das situações de impedimento previstas no artigo seguinte.
+
+2 - A prova de residência no concelho de Soure deverá ser feita através de atestado de residência da Junta territorialmente competente e através da declaração de IRS.
+
+3 - A atribuição de uma habitação em regime de arrendamento apoiado confere ao Município de Soure o direito de aceder aos dados do arrendatário e dos membros do respetivo agregado familiar para fins de informação ou de confirmação dos dados por eles declarados nos termos do presente regulamento.
+
+4 - Será ainda condição de acesso, que nenhum elemento que compõe o agregado familiar seja proprietário, coproprietário, usufrutuário, promitente- comprador ou arrendatário de fração de imóvel ou fração habitacional em território nacional que possa satisfazer as respetivas necessidades habitacionais.
+
+5 - Os rendimentos do agregado familiar respetivo não ultrapassem o limite máximo fixado no anúncio de abertura do concurso.
+
+6 - O limite a que se refere o número anterior será fixado em função do rendimento mensal per capita do respetivo agregado familiar, não sendo admitidos os concorrentes relativamente aos quais esse rendimento exceda, em função do Indexante dos Apoios Sociais (IAS), os limites indicados no quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/10/209000000/0042800458.pdf)
+
+###### Artigo 6.º — Impedimentos
+
+1 - Está impedido de tomar ou manter o arrendamento de uma habitação em regime de arrendamento apoiado quem se encontre numa das seguintes situações:
+
+a) Seja proprietário, usufrutuário, arrendatário ou detentor a outro título de prédio urbano ou de fração autónoma de prédio urbano destinado a habitação, localizado no concelho ou em concelho limítrofe, desde que o imóvel seja adequado a satisfazer o fim habitacional do agregado e não constitua residência permanente de terceiros com direitos legais ou contratuais sobre o mesmo;
+
+b) Esteja a usufruir de apoios financeiros públicos para fins habitacionais, ou seja, titular, cônjuge ou unido de facto com o titular de uma habitação pública já atribuída.
+
+c) Tenha beneficiado de indemnização em alternativa à atribuição de uma habitação no âmbito de programas de realojamento;
+
+d) Esteja abrangido por uma das situações previstas no artigo 42.º do presente regulamento;
+
+e) Os rendimentos do agregado familiar respetivo não ultrapassem o limite máximo fixado no anúncio de abertura do concurso.
+
+2 - As situações previstas na alínea a) e b) do n.º 1 podem não constituir impedimento se, até à data da celebração do contrato em regime de arrendamento apoiado, for feita prova da sua cessação.
+
+3 - No caso previsto na alínea a) do n.º 1, quando for invocado e comprovado que o prédio ou fração não está em condições de satisfazer o fim habitacional ou que o direito relativo ao mesmo é detido ou foi adquirido apenas em parte por membros do agregado familiar, cabe à Câmara Municipal de Soure, avaliar a situação e deliberar, fundamentadamente, sobre o acesso deste agregado familiar à atribuição de habitação ou à manutenção do arrendamento.
+
+4 - O arrendatário deve comunicar à Câmara Municipal de Soure a existência de uma situação de impedimento, no seu caso ou de qualquer membro do agregado familiar, no prazo máximo de 30 dias a contar da data da ocorrência.
+
+### CAPÍTULO II — Atribuição das Habitações
+
+#### SECÇÃO I — Procedimento de Atribuição
+
+###### Artigo 7.º — Procedimentos
+
+1 - A atribuição de uma habitação em regime de arrendamento apoiado é efetuada mediante concurso por classificação.
+
+2 - O concurso por classificação tem por objeto a oferta de um conjunto determinado de habitações e visa a atribuição das mesmas em arrendamento apoiado aos indivíduos ou agregados familiares que, de entre os que concorram no período fixado para o efeito, obtenham a melhor classificação em função dos critérios de hierarquização e de ponderação estabelecidos para o efeito pela Câmara Municipal de Soure.
+
+###### Artigo 8.º — Anúncio de Abertura do Concurso
+
+1 - O anúncio de abertura concurso é publicitado na página da internet do Município, http://www.cm-soure.pt/, bem como, no edifício dos Paços do Concelho e nas sedes das Juntas de Freguesia do Município.
+
+2 - O anúncio de abertura do concurso deve conter a seguinte informação:
+
+a) Tipo de procedimento;
+
+b) Data do procedimento;
+
+c) Identificação, tipologia e área útil da habitação;
+
+d) Regime do arrendamento;
+
+e) Critério de acesso ao concurso e de hierarquização e ponderação de candidaturas;
+
+f) Local e horário para consulta do programa do concurso e para obtenção de esclarecimentos;
+
+g) Local e forma de proceder à apresentação de candidatura;
+
+h) Local e forma de divulgação da lista definitiva dos candidatos apurados.
+
+###### Artigo 9.º — Programa de Concurso
+
+As regras a que obedecerá a entrega dos documentos necessários à participação no concurso, bem como os trâmites subsequentes deste até a atribuição das habitações, constarão de um programa do concurso que será facultado aos interessados.
+
+###### Artigo 10.º — Comissão de Análise
+
+1 - Será constituída, por despacho do Presidente da Câmara Municipal ou Vereador com poderes delegados, uma Comissão de Análise das candidaturas apresentadas.
+
+2 - A Comissão ordena os concorrentes em função dos critérios estabelecidos no artigo 17.º, conjugado com o artigo 5.º, e propõe a exclusão dos candidatos que não reúnam os requisitos de acesso ao concurso, que prestem falsas declarações ou não entreguem, dentro do prazo estabelecido no anúncio do concurso a documentação referida no artigo seguinte.
+
+3 - A Comissão poderá, se assim o entender, solicitar ao concorrente o envio de documentação superveniente e necessária à decisão.
+
+4 - Das decisões da Comissão será elaborada informação, a remeter à Câmara Municipal, para a deliberação final.
+
+###### Artigo 11.º — Documentos
+
+1 - A participação no concurso só poderá efetuar-se mediante entrega, dentro do prazo estabelecido no anúncio de abertura, dos documentos constantes do Anexo I do presente Regulamento.
+
+2 - Sempre que a Comissão de análise considerar necessário, poderá solicitar aos concorrentes que comprovem pelos meios legais e dentro do prazo que lhes for fixado, os factos constantes daqueles documentos.
+
+3 - A Comissão de Análise averiguará a situação habitacional e social dos concorrentes, em ordem à atribuição das habitações.
+
+###### Artigo 12.º — Lista de Classificação
+
+1 - Findo o prazo de abertura do concurso, serão elaboradas as listas de classificação provisória dos concorrentes admitidos e dos concorrentes excluídos com indicação sucinta, das razões de exclusão, precedida de audiência dos interessados nos termos do [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 07 de janeiro, que aprovou o novo Código do Procedimento Administrativo.
+
+2 - As listas serão afixadas na Câmara Municipal de Soure e no site do Município de Soure, em http://www.cm-soure.pt/.
+
+###### Artigo 13.º — Apuramento dos Concorrentes
+
+1 - Serão apurados como efetivos tantos concorrentes quantas as habitações disponíveis para atribuição no momento da abertura do concurso e como suplentes os restantes concorrentes admitidos.
+
+2 - Apurados os concorrentes, será afixada a respetiva lista de atribuição definitiva com indicação sucinta das razões da atribuição do caráter efetivo ou suplente do concorrente e, do local e horas em que se pode ser consultado, por qualquer concorrente, o processo de atribuição.
+
+3 - Da lista de atribuição definitiva cabe reclamação para a Câmara Municipal, nos termos do novo Código do Procedimento Administrativo.
+
+###### Artigo 14.º — Validade das Declarações
+
+1 - A veracidade das declarações dos concorrentes deve ser aferida em relação ao momento em que foram entregues pelos concorrentes.
+
+2 - A situação dos concorrentes será estabelecida, para efeito de atribuições de direitos, em função dos factos constantes das suas declarações durante o prazo de validade do concurso devendo, no entanto, os interessados providenciar pela atualização dos elementos constantes das mesmas declarações.
+
+###### Artigo 15.º — Exclusão
+
+1 - A prestação de falsas declarações, a omissão dolosa de informação ou a utilização de meio fraudulento por parte dos candidatos, no âmbito ou para o efeito de qualquer dos procedimentos de atribuição de uma habitação, determina a exclusão da candidatura, sem prejuízo de outras sanções legalmente aplicáveis.
+
+2 - Será ainda motivo de exclusão do concurso a não apresentação pelos candidatos de qualquer dos documentos referidos no artigo 11.º, no prazo estabelecido para o efeito.
+
+###### Artigo 16.º — Critérios Preferenciais
+
+Sempre que a tipologia e as condições das habitações, objeto de procedimento, o permitam, definem-se como critérios preferenciais para a atribuição de habitação as famílias monoparentais ou que integrem menores, pessoas com deficiência ou com idade igual ou superior a 65 anos, ou vítimas de violência doméstica.
+
+###### Artigo 17.º — Critérios de Classificação
+
+1 - A análise e classificação das candidaturas ao concurso serão aferidas pelos seguintes fatores:
+
+a) Critérios preferenciais;
+
+b) Condições de Habitação;
+
+c) Rendimento do Agregado Familiar;
+
+d) Tempo de residência no Concelho.
+
+2 - A classificação dos concorrentes resulta da aplicação da pontuação constante do Anexo II do presente regulamento.
+
+###### Artigo 18.º — Da Classificação
+
+1 - Os concorrentes serão classificados por ordem decrescente dos pontos obtidos.
+
+2 - No caso de empate entre concorrentes atender-se-á, prioritariamente:
+
+a) Em primeiro lugar, ao maior número de crianças no Agregado Familiar;
+
+b) Em segundo lugar, ao maior tempo de residência no Concelho de Soure;
+
+c) Em terceiro lugar, ao valor do rendimento per capita mais baixo.
+
+###### Artigo 19.º — Concorrentes Suplentes
+
+1 - Os concorrentes suplentes serão considerados, pela ordem determinada através da classificação, para atribuição das habitações que, por qualquer razão, fiquem disponíveis antes da abertura de novo concurso e dentro do prazo de validade.
+
+2 - A desistência ou recusa de qualquer concorrente da habitação que vier a ser-lhe atribuído implica a sua exclusão do concurso.
+
+3 - Sempre que, de acordo com o disposto no n.º 1, haja lugar dentro do prazo de validade do concurso a nova atribuição de habitações, os concorrentes suplentes presumivelmente abrangidos serão notificados pela Câmara Municipal para, sob pena de exclusão, atualizarem as suas declarações, com vista a verificar se mantêm as condições de atribuição do direito e para efeitos de eventual revisão da sua posição.
+
+SEÇÃO II
+
+Disposições Especiais
+
+###### Artigo 20.º — Adequação da Habitação
+
+1 - A habitação atribuída em regime de arrendamento apoiado deve ser de tipologia adequada à composição do agregado familiar, de forma a evitar situações de sobreocupação ou de subocupação.
+
+2 - A adequação da habitação é verificada pela relação entre a tipologia e a composição do agregado familiar de acordo com a tabela abaixo apresentada:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/10/209000000/0042800458.pdf)
+
+3 - A habitação a atribuir deve ainda adequar-se a pessoas com mobilidade reduzida, garantindo a acessibilidade.
+
+###### Artigo 21.º — Regime Excecional
+
+1 - Têm acesso à atribuição de habitações em regime de arrendamento apoiado, os indivíduos e os agregados familiares que se encontrem em situação de necessidade habitacional urgente e ou temporária, designadamente decorrente de desastres naturais e calamidades ou de outras situações de vulnerabilidade e emergência social e perigo físico ou moral para as pessoas, incluindo as relativas a violência doméstica, não sendo aplicáveis as disposições do presente regime que sejam incompatíveis com a natureza da situação, incluindo as disposições da Secção I;
+
+2 - Nos casos previstos no número anterior, as condições de adequação e de utilização das habitações são definidas pela Câmara Municipal de Soure em função da situação de necessidade habitacional que determina a respetiva atribuição.
+
+###### Artigo 22.º — Transferência de Habitação
+
+1 - Na prossecução do interesse público, a Câmara Municipal de Soure pode promover a transferência do agregado familiar para outra em caso de emergência, nomeadamente inundações, incêndios ou catástrofes naturais, ocorridas ou iminentes, por razões de saúde pública ou existência de risco de ruína.
+
+2 - Nas situações em que existam operações de requalificação urbanística devidamente aprovadas, que incluam habitação, pode a Câmara Municipal promover a transferência do agregado familiar, provisoriamente, enquanto decorrem as obras de requalificação, estando garantido o retorno do agregado familiar, salvo nas situações em que este se opuser.
+
+3 - Nas situações de requalificação urbanística que não incluam habitação, deve ser acordado com o agregado familiar o local de realojamento, tendo em conta a situação familiar, nomeadamente o local de trabalho e estudo dos seus membros ou a necessidade de acesso a instituições de saúde, por razões de tratamentos específicos.
+
+4 - A Câmara Municipal pode ainda promover a transferência do agregado por razões de desadequação da tipologia ou mau estado de conservação do locado.
+
+5 - A transferência do agregado para outra habitação pode ser concedida, com base em:
+
+a) Motivos de saúde ou mobilidade reduzida, incompatíveis com as condições de habitação, comprovadas pelo médico assistente;
+
+b) Situação sócio familiar de extrema gravidade, caso em que o pedido de transferência pode ser efetuado por qualquer interessado, desde que exclusivamente para proteção e salvaguarda da vítima;
+
+c) Desadequação da tipologia atribuída face à evolução do agregado ou degradação da habitação por responsabilidade não imputável ao arrendatário.
+
+6 - A transferência fica condicionada:
+
+a) Existência de fogos disponíveis para atribuir;
+
+b) À inexistência de outras famílias mais carenciadas que urja alojar prioritariamente nos fogos eventualmente existentes;
+
+c) Não existirem rendas em atraso por parte do requerente.
+
+7 - A análise ao pedido de transferência de habitação resultará da pontuação constante do Anexo III do presente Regulamento.
+
+8 - Os procedimentos desenvolvidos para a transferência de habitação obedecem ao Código do Procedimento Administrativo.
+
+9 - Se a transferência for feita com carácter provisório e implicar regresso à habitação de origem, não há lugar a novo contrato de arrendamento.
+
+###### Artigo 23.º — Limitações ao Uso e Fruição das Habitações
+
+1 - Para além do disposto no n.º 1 e 2, do artigo 4.º, do presente regulamento, é, ainda, expressamente proibido:
+
+a) A coabitação de pessoas estranhas ao agregado familiar por período superior a dois meses;
+
+b) O exercício de qualquer tipo de atividade comercial, industrial ou outra que seja estranha ao fim habitacional inerente ao imóvel;
+
+c) A existência de cães perigosos, ou de raça potencialmente perigosa, sendo esta definida nos termos da Lei;
+
+d) A existência de outros animais perigosos, como tal qualificados, nos termos da Lei;
+
+e) A existência de animais não referidos nas alíneas anteriores, mas que prejudiquem as condições higienossanitárias do locado ou que incomodem a vizinhança;
+
+f) Fazer lareiras, lume no chão ou fogueiras, quer no interior das Habitações, quer nas varandas, espaços comuns e espaços envolventes;
+
+g) Prosseguir atividades ilegais, imorais ou outras suscetíveis de perturbar a ordem pública, a tranquilidade, os bons costumes e a convivência com os vizinhos;
+
+h) Lançar lixos (sólidos ou líquidos) pelas janelas, ou depositá-los nos espaços comuns ou nas zonas envolventes à habitação;
+
+i) Não ocupar a área envolvente aos fogos e lotes camarários onde residem, com mobiliário ou outros bens móveis.
+
+2 - A coabitação referida na alínea a), do número anterior deve ser expressamente comunicada à Câmara Municipal, nos cinco dias úteis imediatos ao seu início.
+
+###### Artigo 24.º — Obras
+
+1 - Os arrendatários não poderão realizar na habitação quaisquer obras, nem de qualquer forma alterar as suas características, sem a autorização escrita do Presidente da Câmara ou Vereador com competências delegadas.
+
+2 - As benfeitorias, quando autorizadas e realizadas pelos arrendatários fazem parte integrante da habitação e não podem ser retiradas finda a ocupação, não assistindo ao arrendatário qualquer direito ou indemnização.
+
+3 - Os arrendatários podem, desde que previamente autorizadas, pelo Presidente da Câmara ou Vereador com competências delegadas mediante requerimento, realizar a suas expensas pequenas obras de conservação ou reparação (que sejam da sua responsabilidade), nomeadamente:
+
+a) Manutenção do revestimento dos pavimentos;
+
+b) Reparação de rodapés, portas interiores e estores;
+
+c) Substituição ou reparação de torneiras, fechos, fechaduras, interruptores, tomadas e instalação elétrica, louças sanitárias, autoclismos e armários de cozinha;
+
+d) Substituição de vidros partidos;
+
+e) Pinturas interiores.
+
+4 - A Câmara Municipal de Soure só suportará as despesas às recuperações/beneficiações que se realizem para colmatar estragos/deficiências decorrentes do desgaste natural dos materiais ao longo do tempo e ainda as dos espaços comuns do edifício ou as que sejam alheias à responsabilidade dos arrendatários.
+
+5 - Ficam a cargo da Câmara Municipal as obras de manutenção e conservação geral dos edifícios, designadamente, obras de conservação e reabilitação das fachadas e paredes exteriores, de manutenção e preservação da rede de água e esgotos, da rede de gás, dos circuitos elétricos e outras instalações ou equipamentos que façam parte integrante dos edifícios, excluindo-se todas as reparações ou intervenções resultantes da incúria, falta de cuidados ou atuação danosa dos arrendatários.
+
+6 - O arrendatário não se pode opor à realização das obras de conservação ou reparação por parte da Câmara Municipal que se encontrem previstas no número anterior.
+
+7 - A Câmara Municipal não executará qualquer intervenção que incida sobre vidros, portas, fechaduras, torneiras, persianas ou quaisquer outros mecanismos ou equipamentos pertencentes às habitações ou zonas comuns, desde que os danos tenham sido causados por ato ou omissão culposa dos arrendatários ou de quaisquer utilizadores.
+
+8 - Caso as obras a realizar pela Câmara Municipal sejam devidas ao uso incorreto do locado pelo arrendatário, incumbe-lhe indemnizar o Município, nos termos da Lei.
+
+###### Artigo 25.º — Das Partes Comuns dos Prédios
+
+1 - Consideram-se comuns as seguintes partes dos edifícios:
+
+a) As entradas, átrios, escadas e corredores de uso ou passagem comum a dois ou mais arrendatários;
+
+b) Os pátios, jardins, zonas verdes ou de lazer anexos ao edifício;
+
+c) Outras, não especificadas, equiparadas às anteriores.
+
+2 - Os arrendatários obrigam-se a utilizar as partes comuns estritamente de acordo com a finalidade a que se destinam, a fazê-lo de modo a evitar que sofram deteriorações e danos que não correspondam a consequências naturais do seu uso normal, a contribuir por todas as formas ao seu alcance para a respetiva preservação e valorização, a respeitar rigorosamente os direitos equivalentes ou especiais dos restantes moradores, nomeadamente:
+
+a) Realizar quaisquer obras;
+
+b) Destiná-las a usos ofensivos dos bons costumes, ou inversos aos fins a que se destinam;
+
+c) Manter as escadas, patamares e os pátios limpos e em condições de higiene e conservação adequadas;
+
+d) Não depositar lixo nas escadas, corredores, patamares, pátios e outras zonas de uso comum, ainda que exteriores, mas apenas nos locais destinados para o efeito;
+
+e) Não fazer ruídos que incomodem os vizinhos;
+
+f) Manter a porta de entrada do prédio fechada, sempre que possível, e zelar pela sua conservação e bom estado do sistema de fecho;
+
+g) Não violar ou abrir as caixas elétricas, ou outras relativas a prestação pública de serviços, designadamente água, gás, telefone e cabo;
+
+h) Não ocupar os espaços de uso comum - escadas, átrio, corredores e outros similares - dos edifícios, com objetos pessoais, como bicicletas, motorizadas, bilhas de gás, pequenos móveis ou outros similares, embora o embelezamento com vasos de plantas seja permitido, desde que não interfira com a circulação de pessoas;
+
+i) Deixar deambular animais domésticos pelas escadas, átrios ou zonas comuns, incluindo zonas exteriores, sendo que estes, quando saiam da habitação, devem ser acompanhados de pessoa responsável.
+
+j) Avisar a Câmara Municipal sempre que se verifiquem danos nos espaços de uso comum.
+
+## PARTE III — Contrato de Arrendamento Apoiado
+
+### CAPÍTULO I — Condições Contratuais
+
+###### Artigo 26.º — Contrato de Arrendamento, Duração e Renovação
+
+1 - O contrato de arrendamento apoiado é celebrado por escrito Anexo V e pelo prazo de 10 anos.
+
+2 - Findo o prazo do arrendamento, o contrato renova-se, automaticamente, por igual período.
+
+###### Artigo 27.º — Valor da Renda
+
+O valor da renda em regime de arrendamento apoiado é determinado pela aplicação da taxa de esforço ao rendimento mensal corrigido do agregado familiar, sendo a taxa de esforço (T), o valor arredondado à milésima, que resulta da aplicação da seguinte fórmula Anexo IV:
+
+T = 0,067 x (RMC/IAS)
+
+em que:
+
+T = Taxa de esforço;
+
+RMC = Rendimento mensal corrigido do agregado familiar;
+
+IAS = Indexante dos Apoios Sociais.
+
+###### Artigo 28.º — Taxa de esforço máxima
+
+A taxa de esforço máxima não pode ser superior a 23 % do rendimento mensal corrigido do agregado familiar do arrendatário.
+
+###### Artigo 29.º — Renda máxima e renda mínima
+
+1 - O valor da renda mínima a aplicar pelo Município de Soure é de 5 % do Indexante de Apoios Sociais (IAS) vigente em cada momento;
+
+2 - A renda máxima em regime de arrendamento apoiado é a renda máxima aplicável aos contratos de arrendamento para fim habitacional em regime de renda condicionada.
+
+###### Artigo 30.º — Vencimento e Lugar do Pagamento
+
+O pagamento da renda deve ser realizado na Tesouraria da Câmara Municipal de Soure ou mediante outros meios a definir no contrato de arrendamento apoiado, nos primeiros 8 dias de cada mês.
+
+###### Artigo 31. º — Mora do Arrendatário
+
+1 - A falta de pagamento da renda no prazo estabelecido no artigo anterior pelo arrendatário implica o direito de aplicar uma multa/penalização, por parte do Município, de acordo com as seguintes percentagens:
+
+a) 10 % do valor da renda do dia 9 ao dia 26 de cada mês;
+
+b) 25 % do valor da renda nos dias subsequentes.
+
+2 - A falta de pagamento das rendas acrescidas da percentagem que for devida nos prazos referidos no número anterior, confere à Câmara Municipal o direito a considerar resolvido o contrato de arrendamento, salvo nos casos em que, o Presidente ou o Vereador do Pelouro com competências delegadas, autorizem um acordo de regularização da dívida nos casos em que, comprovadamente, o arrendatário esteja temporariamente impedido de cumprir atempadamente a obrigação de pagamento da renda.
+
+3 - Decorrido o prazo referido no n.º 1 do presente artigo, sem que o pagamento tenha ocorrido, o processo pode ser remetido para cobrança coerciva da renda e dos juros devidos.
+
+4 - Sem prejuízo do que precede, a mora no pagamento de renda por período superior a dois meses é causa bastante de resolução do contrato de arrendamento com a cessação da utilização do fogo.
+
+5 - O previsto no número anterior não se efetiva quando o não pagamento das rendas resulte da alteração do rendimento dos elementos do agregado familiar em consequência de desemprego ou de alteração da composição do agregado familiar, desde que as alterações referidas sejam comunicadas à Câmara Municipal antes de decorrido o prazo de três meses de falta do pagamento das rendas.
+
+6 - As situações previstas no n.º 2 do presente artigo conferem ao arrendatário o direito à renegociação do valor da renda e de um plano de pagamento faseado do montante da dívida.
+
+###### Artigo 32. º — Atualização, Revisão e Reavaliação da Renda
+
+1 - Para além da atualização anual prevista no n.º 2 do artigo 1077.º do Código Civil, que consiste na atualização de acordo com os coeficientes fixados no Diário da República, há lugar à revisão da renda a pedido do arrendatário, nas seguintes situações:
+
+a) Alteração na composição ou nos rendimentos do agregado familiar, devendo o arrendatário comunicar à Câmara Municipal, no prazo máximo de 30 dias a contar da data da ocorrência;
+
+b) Aplicação da correção prevista na alínea j) do artigo 3.º, em caso de superveniência de situações de incapacidade igual ou superior a 60 % ou de idade igual ou superior a 65 anos relativos a qualquer elemento do agregado familiar.
+
+2 - A revisão do valor da renda por iniciativa da Câmara Municipal com os fundamentos indicados no número anterior, pode ocorrer a todo o tempo.
+
+3 - A reavaliação pela Câmara Municipal das circunstâncias que determinam o valor da renda realiza-se a cada três anos.
+
+4 - Para revisão e reavaliação do valor da renda, o arrendatário deve entregar na Câmara Municipal, no Gabinete de Ação Social, os elementos que este solicite e se mostrem adequados e necessários à verificação das circunstâncias que determinam a revisão da renda, no prazo máximo de 30 dias a contar da correspondente notificação;
+
+5 - Caso o arrendatário não cumpra com o prazo estabelecido no número anterior, a Câmara Municipal deverá proceder a nova notificação, para que no prazo de 5 dias úteis o arrendatário proceda à entrega dos documentos solicitados, caso continue a verificar-se o incumprimento, deverá a Câmara Municipal iniciar processo de contraordenação, de acordo com o previsto no artigo 49.º e seguintes do presente Regulamento;
+
+6 - A renda atualizada ou revista nos termos dos números anteriores é devida no segundo mês subsequente ao da data da receção, pelo arrendatário, da comunicação do senhorio com o respetivo valor.
+
+7 - Quando da revisão da renda resulte o seu aumento e as comunicações do arrendatário tenham sido realizadas fora dos prazos previstos no n.º 1 ou no n.º 4, a Câmara Municipal pode exigir-lhe o pagamento do montante correspondente a 1,25 vezes a diferença entre a renda paga e a renda que seria devida desde a data da alteração.
+
+8 - A não atualização ou a não revisão da renda por motivo imputável à Câmara Municipal, impossibilita-o de recuperar os montantes que lhe seriam devidos a esse título.
+
+9 - Não há lugar a aumento de renda por efeito de atualização quando, em resultado de vistoria técnica à habitação por parte da entidade locadora, se constate um estado de conservação mau ou péssimo, nos termos do disposto no [Decreto-Lei n.º 266-B/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-b-2012-632428), de 31 de Dezembro, que não resulte de razões imputáveis ao arrendatário e enquanto tal situação persistir.
+
+###### Artigo 33. º — Presunção de Rendimentos
+
+1 - Nos casos em que os rendimentos do agregado familiar tenham caráter incerto, temporário ou variável e não haja prova documental que justifique essa natureza, presume-se que o agregado familiar aufere um rendimento superior ao declarado, sempre que se verifique uma das seguintes situações:
+
+a) Um dos membros exerça atividade que pública ou notoriamente produza rendimentos superiores aos declarados;
+
+b) Patenteie, possua ou detenha bens, ou exiba sinais exteriores de riqueza não compatíveis com a sua declaração.
+
+2 - Para efeitos do previsto no número anterior, os serviços municipais competentes elaboram relatório técnico apresentando os respetivos factos e indícios.
+
+3 - A presunção referida no n.º 1 do presente artigo é ilidível mediante a apresentação de prova em contrário por parte do arrendatário, no prazo de 10 dias úteis.
+
+4 - A presunção do rendimento mensal líquido do agregado familiar tem como indicador o valor do Indexante dos Apoios Sociais, que se encontre em vigor.
+
+### CAPÍTULO II — Da Transmissão
+
+###### Artigo 34. º — Transmissão do Arrendamento
+
+1 - A titularidade do arrendamento só poderá ser objeto de transmissão mediante autorização expressa e por escrito, da Câmara Municipal.
+
+2 - A transmissão da titularidade só é admitida nas seguintes situações:
+
+a) Divórcio, separação judicial de pessoas e bens ou cessação da situação de união de facto;
+
+b) Morte de um dos titulares;
+
+c) Ausência permanente e definitiva ou incapacidade do arrendatário.
+
+3 - A transmissão da titularidade do arrendamento implica a transmissão de todos os direitos, obrigações e competências a ela inerentes, e é formalizada através da realização de averbamento ao respetivo título.
+
+4 - O direito à transmissão do arrendamento, não se verifica se o beneficiário desse direito for possuidor de casa própria ou arrendada, adequada ao seu agregado familiar e suscetível de ser utilizada de imediato.
+
+5 - A transmissão da titularidade ficará dependente do resultado da avaliação da carência económica do agregado, à luz dos critérios em vigor, sendo autorizada apenas quando se mostrem preenchidos os requisitos constitutivos do direito à transmissão e os requisitos de atribuição e manutenção da habitação, nos termos do presente regulamento.
+
+6 - Para efeitos do previsto no presente artigo, os interessados deverão apresentar à Câmara Municipal de Soure os respetivos comprovativos da situação que alegam, no prazo máximo de trinta dias a contar da verificação do facto.
+
+7 - No caso de contitularidades nunca haverá lugar a transmissão enquanto sobreviver um dos contitulares, havendo, contudo, e verificando-se uma das situações previstas no n.º 2 do presente artigo, averbamento ao título de ocupação para atualização do mesmo em conformidade.
+
+###### Artigo 35. º — Divórcio, Separação Judicial de Pessoas e Bens ou Cessação da União de Facto
+
+1 - Em caso de divórcio ou de separação judicial de pessoas e bens, o destino da habitação, enquanto casa de morada de família, é decidido por acordo dos cônjuges, podendo estes optar pela transmissão ou pela concentração a favor de um deles.
+
+2 - O disposto no número anterior é aplicável com as devidas adaptações aos titulares da habitação que se encontrem em situação de união de facto, nos termos do previsto na Lei, em caso da cessação da respetiva união de facto.
+
+3 - Na falta de acordo, e nos casos previstos nos números anteriores, cabe ao tribunal ou conservador do registo civil, decidir, a requerimento dos interessados.
+
+4 - A Câmara Municipal de Soure deve aguardar a notificação oficiosa da decisão de transmissão ou de concentração acordadas e homologadas pelo juiz ou pelo conservador do registo civil, a elas relativa a fim de proceder em conformidade.
+
+###### Artigo 36. º — Transmissão por Morte
+
+1 - O arrendamento da habitação não caduca por morte do respetivo arrendatário quando lhe sobreviva cônjuge com residência na habitação ou pessoa que vivesse com o titular em união de facto, constituída nos termos da Lei, sendo nesse caso a titularidade da habitação objeto de transmissão para a pessoa em causa.
+
+2 - Em caso de morte do arrendatário, e na falta das pessoas indicadas no número anterior, a Câmara Municipal pode autorizar, excecionalmente e, por uma única vez, a transmissão do arrendamento para elemento familiar do agregado familiar maior de idade, devidamente inscrito desde o inicio da atribuição, desde que reúna as condições de atribuição e manutenção da titularidade do fogo, nos termos do previsto no presente regulamento.
+
+3 - Para efeitos do disposto no número anterior, quando o interessado for descendente do titular do arrendamento, ficam sempre salvaguardados os casos em que o vínculo de filiação tenha sido estabelecido em momento posterior à atribuição da habitação.
+
+4 - Para efeitos do previsto nos números anteriores, havendo várias pessoas com direito à transmissão em igualdade de circunstâncias, o arrendamento transmite-se para o parente ou afim mais próximo ou, de entre estes, para o mais velho.
+
+###### Artigo 37. º — Ausência Permanente e Definitiva ou Incapacidade do Arrendatário
+
+1 - A ausência permanente e definitiva do arrendatário, bem como a sua incapacidade, devidamente comprovadas, conferem o direito à transmissão, a favor do seu cônjuge ou unido de facto, ou na falta deste a favor da pessoa que fazendo parte do agregado familiar, que se encontre inscrita desde o início da atribuição, por ele seja indicada.
+
+2 - Para efeitos do previsto no número anterior, na falta de indicação pelo titular, o município de Soure escolhe, de entre os elementos que integrem o agregado familiar desde o início da atribuição, a pessoa que reúna as melhores condições para assumir o arrendamento da habitação.
+
+### CAPÍTULO III — Direitos e Obrigações dos Arrendatários
+
+###### Artigo 38.º — Direitos do Arrendatário
+
+São Direitos do Arrendatário:
+
+a) O gozo, fruição e utilização da habitação para o fim a que se destina;
+
+b) Solicitar a revisão da renda, nos casos de alteração da composição ou dos rendimentos do agregado familiar;
+
+c) Realizar, mediante autorização escrita por parte do Presidente da Câmara ou Vereador com competências delegadas, pequenas obras na habitação, quando elas se tornem necessárias, para assegurar o seu conforto ou comodidade;
+
+d) Solicitar à Câmara Municipal a realização de obras de conservação necessárias para assegurar o seu conforto e comodidade, desde que não resultem de uma utilização imprudente e descuidada da habitação e sempre de acordo com a disponibilidade dos serviços respetivos;
+
+e) Reclamar de todos os atos ou omissões consideradas prejudiciais aos seus interesses.
+
+###### Artigo 39. º — Obrigações do Arrendatário
+
+1 - Sem prejuízo das demais obrigações previstas na Lei e no contrato, cabe ao arrendatário com contrato de arrendamento apoiado:
+
+a) Efetuar no prazo máximo de trinta dias, as comunicações e prestar as informações ao senhorio, designadamente as relativas a impedimentos e à composição e rendimentos do agregado familiar;
+
+b) Utilizar a habitação em permanência, não se ausentando, nem o próprio nem o seu agregado familiar, por um período seguido superior a seis meses podendo verificar-se exceções, devendo estas ser devidamente comunicadas e comprovados por escrito junto da Câmara Municipal, nomeadamente quando se verificarem as seguintes situações:
+
+i) Doença regressiva e incapacitante de permanência na habitação;
+
+ii) Prestação de trabalho por conta de outrem no estrangeiro ou cumprimento de comissão de serviço público, civil ou militar, em ambos os casos por tempo determinado;
+
+iii) Detenção em estabelecimento prisional;
+
+iv) Se a ausência se dever à prestação de apoios continuados a pessoas com deficiência com grau de incapacidade superior a 60 %, incluindo a familiares.
+
+c) Avisar imediatamente o senhorio sempre que tenha conhecimento de qualquer facto ou ato relacionado com a habitação suscetível de causar danos à mesma e ou de pôr em perigo pessoas ou bens;
+
+d) Não realizar obras na habitação sem prévia autorização escrita do senhorio.
+
+2 - São ainda obrigações do arrendatário:
+
+a) Pagar a renda, no quantitativo, no local e no prazo devido;
+
+b) Conservar o fogo em bom estado, dando-lhe uma utilização prudente, zelando pela sua limpeza e conservação;
+
+c) Conservar as instalações de luz elétrica, água, gás, esgotos e todas as canalizações;
+
+d) Proceder à instalação e ligação da água, gás e eletricidade, através dos operadores competentes, assumindo a responsabilidade do pagamento destas despesas, bem como, dos consumos;
+
+e) Não realizar, sem prévia autorização da Câmara Municipal, quaisquer obras ou instalações que excedendo a mera reparação ou conservação, modifiquem as condições de utilização do locado ou do respetivo logradouro (ex.: aplicação de assadores, churrasqueiras e similares);
+
+f) Comunicar à Câmara Municipal, por escrito, quaisquer deficiências detetadas no edificado, ou arranjos que devam ser executados pela mesma;
+
+g) Indemnizar a Câmara Municipal, nos montantes por ela despendidos para repor os fogos em estado de habitabilidade, sempre que aplicável;
+
+h) Deverá o arrendatário comunicar à Câmara Municipal a existência de animais domésticos e promover a sua vacinação.
+
+i) Cumprir com os demais deveres legalmente consagrados, na qualidade de arrendatário ou morador, nomeadamente os inscritos no Código Civil e no [Decreto-Lei n.º 9/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2007-522807), de 17 de janeiro, que estabelece o regime de prevenção e controlo da poluição sonora.
+
+###### Artigo 40.º — Obrigações da Câmara Municipal
+
+A Câmara Municipal de Soure, na qualidade de senhoria, está vinculada ao cumprimento das seguintes obrigações:
+
+a) Reger-se pelo princípio da igualdade, não podendo privilegiar, beneficiar, prejudicar, privar de qualquer direito ou isentar de qualquer dever de nenhum arrendatário ou candidato ao arrendamento público em razão de ascendência, sexo, etnia, língua, território de origem, religião, orientação sexual, deficiência ou doença, convicções políticas ou ideológicas, instrução ou condição social;
+
+b) Prestar aos arrendatários e candidatos ao arrendamento público as informações e os esclarecimentos de que careçam e apoiar e estimular as suas iniciativas e receber as suas sugestões e informações;
+
+c) Assegurar a realização de obras de conservação, reabilitação e beneficiação dos edifícios e frações, no que diz respeito às partes de uso privativo e de uso comum, pelo menos uma vez em cada período de oito anos e sempre que se verifique a sua necessidade, assumindo os encargos correspondentes;
+
+d) Garantir a manutenção das condições de segurança, salubridade, conforto e arranjo estético dos edifícios e das habitações, no âmbito da sua competência e responsabilidade;
+
+e) Assumir os encargos e despesas referentes à administração, conservação e fruição das partes comuns do edifício, bem como o pagamento de serviços de interesse comum, sem prejuízo da partilha de responsabilidades e encargos, nos termos da Lei, quando haja condomínios constituídos;
+
+f) Assegurar a realização de vistorias para deteção de situações de degradação e insegurança dos edifícios e frações, nomeadamente em relação às redes de gás, água e eletricidade, bem como realizar vistorias a pedido dos arrendatários ou sempre que estejam em causa as condições de segurança, salubridade e conforto das habitações;
+
+g) Promover a qualidade dos conjuntos habitacionais do ponto de vista ambiental, social e cultural;
+
+h) Promover a participação organizada dos arrendatários na administração, conservação e fruição e gestão das partes comuns do edifício, através, entre outras figuras, de comissões de lote, administrador ou curador.
+
+### CAPÍTULO IV — Cessação do Contrato de Arrendamento Apoiado
+
+###### Artigo 41.º — Resolução pelo Município de Soure
+
+1 - Além de outras causas de resolução previstas no presente Regulamento e nas disposições legais aplicáveis, nomeadamente nos artigos 1083.º e 1084.º do Código Civil, na sua redação atual, constituem causas de resolução do contrato pela Câmara Municipal:
+
+a) O incumprimento de qualquer das obrigações previstas no artigo 39.º pelo arrendatário ou pelas pessoas do seu agregado familiar;
+
+b) O conhecimento pela Câmara Municipal da existência de uma das seguintes situações de impedimento, designadamente quando o arrendatário ou qualquer membro do agregado familiar:
+
+i) Seja proprietário, usufrutuário, arrendatário ou detentor a outro título de prédio urbano ou de fração autónoma de prédio urbano destinado a habitação, localizado no concelho ou em concelho limítrofe, desde que o imóvel seja adequado a satisfazer o fim habitacional do agregado e não constitua residência permanente de terceiros com direitos legais ou contratuais sobre o mesmo;
+
+ii) Esteja a usufruir de apoios financeiros públicos para fins habitacionais, ou seja, titular, cônjuge ou unido de facto com o titular de uma habitação pública já atribuída, sem prejuízo do disposto no artigo 17.º;
+
+iii) Tenha beneficiado de indemnização em alternativa à atribuição de uma habitação no âmbito de programas de realojamento;
+
+iv) Para efeito de atribuição ou manutenção de uma habitação em regime de arrendamento apoiado, preste declarações falsas ou omita informação relevante;
+
+v) Ceda a habitação a terceiros a qualquer título, total ou parcialmente, de forma gratuita ou onerosa.
+
+c) Prestação de falsas declarações por qualquer elemento do agregado familiar, de forma expressa ou por omissão, sobre os rendimentos ou sobre factos e requisitos determinantes para o acesso ou manutenção do arrendamento;
+
+d) A permanência na habitação, por período superior a um mês, de pessoa que não pertença ao agregado familiar, sem autorização prévia da Câmara Municipal;
+
+2 - É fundamento de resolução o incumprimento que, pela sua gravidade ou consequências, torne inexigível à outra parte a manutenção do arrendamento, designadamente:
+
+a) A violação de regras de higiene, de sossego, de boa vizinhança ou de normas constantes do regulamento do condomínio;
+
+b) A utilização do prédio contrária à lei, aos bons costumes ou à ordem jurídica;
+
+c) O uso do prédio para fim diverso daquele a que se destina, ainda que a alteração do uso não implique maior desgaste ou desvalorização para o prédio;
+
+3 - É inexigível ao Município a manutenção do arrendamento em caso de incumprimento igual ou superior a dois meses no pagamento da renda, encargos ou despesas que corram por conta do arrendatário, sem prejuízo do disposto nos números 3 a 5 do artigo 1084.º do Código Civil.
+
+4 - É ainda inexigível ao Município a manutenção do arrendamento nos demais casos previstos na lei.
+
+5 - A resolução do contrato de arrendamento pelo Município opera por comunicação escrita deste ao arrendatário, onde fundamentadamente invoque a respetiva causa, após audição do interessado.
+
+###### Artigo 42.º — Cessação do Contrato por Renúncia
+
+1 - Considera-se haver renúncia do arrendatário ao arrendamento da habitação quando esta não esteja usada por ele ou pelo agregado familiar por período seguido superior a seis meses a contar da data da primeira comunicação do senhorio, de entre as referidas na alínea a) do número seguinte.
+
+2 - Sem prejuízo do disposto na alínea b) do artigo 39.º do presente regulamento, considera-se não uso da habitação a situação em que, dentro do período mínimo de seis meses, se verifiquem cumulativamente as seguintes condições:
+
+a) Tenham sido realizadas pelo menos três tentativas, com intervalo mínimo de duas semanas entre cada uma delas, de entrega de comunicação na pessoa do arrendatário ou de elemento do agregado familiar, consoante for o caso, por representante do senhorio devidamente identificado e a entrega tenha resultado impossível por ausência dos mesmos;
+
+b) Tenha sido afixado aviso na porta da entrada da habitação, pelo período mínimo de 30 dias seguidos, de conteúdo idêntico ao da comunicação;
+
+c) Os registos do fornecimento de serviços essenciais de água e eletricidade evidenciarem a ausência de contratos de fornecimento ou de consumos relativamente ao locado, nos termos do n.º 2 do artigo 33.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853) de 19 de dezembro.
+
+3 - A comunicação e o aviso devem referir:
+
+a) Que o senhorio tem conhecimento do não uso da habitação por parte do arrendatário ou do agregado familiar, consoante for o caso;
+
+b) Que o não uso da habitação por período superior a seis meses a contar da data da primeira tentativa de contacto pessoal, ali indicada, constitui renúncia ao arrendamento e determina a cessação do contrato;
+
+c) O prazo, no mínimo de 30 dias, de que o arrendatário e os elementos do seu agregado familiar dispõem, após o decurso dos seis meses, para procederem à desocupação e entrega voluntária da habitação, livre de pessoas e bens.
+
+4 - A cessação do contrato opera no termo do prazo de seis meses a contar da data da primeira tentativa de contacto pessoal referida na alínea a) do n.º 2 e confere à Câmara Municipal o direito de tomar posse do locado e de considerar abandonados a seu favor os bens móveis nele existentes, após o decurso do prazo de 60 dias, sobre a tomada de posse do locado não forem reclamados.
+
+###### Artigo 43.º — Danos na Habitação
+
+Se, aquando do acesso à habitação pela Câmara Municipal subsequente a qualquer caso de cessação do contrato, houver evidência de danos na habitação, de realização de obras não autorizadas ou de não realização das obras exigidas ao arrendatário nos termos da lei ou do contrato, a Câmara Municipal tem o direito de exigir o pagamento das despesas por si efetuadas com a realização das obras necessárias para reposição da habitação nas condições iniciais.
+
+###### Artigo 44.º — Despejo
+
+1 - Caso não seja cumprida voluntariamente a obrigação de desocupação e entrega da habitação à Câmara Municipal, cabe a esta entidade levar a cabo os procedimentos subsequentes nos termos da lei, podendo, para o efeito, requisitar o auxílio das autoridades de segurança competentes.
+
+2 - As decisões relativas ao despejo deverão ser tomadas por deliberação em reunião de Câmara.
+
+3 - Quando o despejo tenha por fundamento a falta de pagamento de rendas, encargos ou despesas, a decisão de promoção da correspondente execução deve ser tomada em simultâneo com a decisão do despejo.
+
+4 - Salvo acordo em sentido diferente, quaisquer bens móveis deixados na habitação, após qualquer forma de cessação do contrato e tomada de posse pelo Município, são considerados abandonados a favor deste, caso não sejam reclamados num prazo de 60 dias, podendo a Câmara Municipal dispor de forma onerosa ou gratuita, sem direito a qualquer compensação por parte do arrendatário.
+
+5 - Os agregados alvo de despejo com efetiva carência habitacional, são previamente encaminhados para soluções legais de acesso à habitação ou para prestação de apoios habitacionais.
+
+###### Artigo 45.º — Ocupações Sem Título
+
+1 - São consideradas sem título as situações de ocupação, total ou parcial, de habitações sociais do Município de Soure por quem não detém contrato ou documento de atribuição ou de autorização que a fundamente.
+
+2 - No caso previsto no número anterior o ocupante está obrigado a desocupar a habitação e a entregá-la, livre de pessoas e bens, até ao termo do prazo que lhe for fixado, não inferior a 3 dias úteis, na comunicação feita, para o efeito, pelo Município de Soure, de que deve constar ainda o fundamento da obrigação de entrega da habitação.
+
+3 - Caso não seja cumprida voluntariamente a obrigação de desocupação e entrega da habitação nos termos do número anterior há lugar a despejo nos termos do artigo anterior.
+
+4 - É aplicável às desocupações previstas no presente artigo, o disposto no n.º 5 do artigo anterior.
+
+## PARTE IV — Fiscalização e Sanções
+
+### CAPÍTULO I — Fiscalização
+
+###### Artigo 46.º — Exercício da Atividade de Fiscalização
+
+1 - A Câmara Municipal de Soure exerce a sua atividade de fiscalização nos termos legalmente estatuídos, sendo a mesma desenvolvida pela Fiscalização Municipal, bem como pelas demais autoridades policiais no âmbito das respetivas atribuições
+
+2 - Os Fiscais Municipais podem recorrer às autoridades policiais, sempre que necessitem, para o desempenho célere e eficaz das suas funções.
+
+###### Artigo 47.º — Objeto da Fiscalização
+
+1 - A fiscalização incide, em termos gerais, na verificação da existência de atos lesivos do interesse público, na violação das normas da lei e do presente regulamento e, bem assim, de todos os atos que forem passíveis de consubstanciar contraordenação.
+
+2 - A fiscalização incide, especialmente, na verificação da utilização do fogo em conformidade com as normas legais e regularmente vigentes inseridas nas atribuições municipais, não descurando uma ação pedagógica que conduza a uma diminuição dos casos de infrações.
+
+###### Artigo 48.º — Regras de Conduta e Responsabilidade
+
+É dever geral dos colaboradores que exerçam atividade fiscalizadora a criação de confiança no público perante a ação da administração pública, atuando com urbanidade em todas as intervenções de natureza funcional, assegurando o conhecimento das normas legais e regulamentares que enquadram a matéria que esteja em causa.
+
+###### Artigo 49.º — Sanções
+
+1 - Fica impedido de aceder a uma habitação no regime de arrendamento apoiado, por um período de dois anos:
+
+a) O candidato ou arrendatário que, para efeito, respetivamente, de atribuição ou manutenção de uma habitação em regime de arrendamento apoiado, utilize meios fraudulentos, proceda à prestação culposa de prestações falsas, ou à omissão dolosa de informação relevante;
+
+b) O arrendatário ou elemento do agregado familiar do arrendatário que ceda a habitação a terceiros a qualquer título, total ou parcialmente, de forma gratuita ou onerosa.
+
+2 - O disposto nos números anteriores não prejudica os direitos que, em função da situação, a Câmara Municipal detenha, nem o procedimento criminal que seja aplicável ao caso nos termos legais.
+
+## PARTE V — Da Renda Apoiada
+
+### CAPÍTULO I — Acesso
+
+###### Artigo 50.º — Objeto
+
+A atribuição de apoio ao arrendamento, a agregados familiares carenciados, quando não seja possível garantir resposta de alojamento em habitação que integra o património municipal no regime do arrendamento apoiado, por parte do Município de Soure, é efetuado mediante a atribuição de um apoio monetário atribuído pela Câmara Municipal, designado de Renda Apoiada.
+
+###### Artigo 51.º — Atribuição e Renovação
+
+1 - O Apoio ao Arrendamento:
+
+a) É financiado através de verba inscrita nas Grandes Opções do Plano - Plano Plurianual de Investimentos (PPI) e Atividades Mais Relevantes (AMR) e Orçamento de cada ano, tendo como limite os montantes aí fixados;
+
+b) Será concedido por períodos máximos de 12 meses, podendo ser ajustado sempre que se verifiquem alterações na situação económica do Agregado Familiar e outras condições que se apresentem;
+
+c) Após o prazo fixado na alínea anterior, o Apoio poderá ser renovado desde que reúna as condições de atribuição, devendo para o efeito ser apresentada nova candidatura.
+
+###### Artigo 52.º — Condições de Atribuição
+
+1 - São condições de atribuição do Apoio ao Arrendamento as previstas no artigo 5.º e 6.º do presente regulamento, com as devidas adaptações.
+
+2 - São ainda condições especificas para a atribuição do apoio ao Arrendamento
+
+a) Não ser beneficiário de qualquer outro programa de apoio ao arrendamento, designadamente o previsto na Parte II e III do presente Regulamento;
+
+b) Ser titular de contrato de arrendamento de acordo com o regime jurídico do arrendamento urbano;
+
+c) A tipologia da habitação arrendada deve ser adequada ao agregado Familiar, conforme a tabela constante no n. º2 do artigo 2.º;
+
+d) O senhorio não deve ser parente ou afim na linha reta ou até ao 4.º grau da linha colateral de qualquer membro do Agregado Familiar;
+
+e) O Rendimento Mensal Corrigido ou Rendimento Mensal Líquido não pode ultrapassar 60 % da Remuneração Mínima Mensal Garantida;
+
+f) Estar disponível para integrar ações que visem, em última instância, a inserção profissional e propiciem a melhoria das condições económicas, relativamente a qualquer elemento do Agregado Familiar.
+
+###### Artigo 53.º — Apresentação de Candidaturas
+
+As Candidaturas serão apresentadas diretamente no Serviço de Ação Social da Câmara Municipal de Soure.
+
+###### Artigo 54.º — Instrução do Pedido
+
+1 - O pedido de Candidatura deve ser instruído mediante entrega, dos documentos constantes do Anexo I do presente Regulamento e ainda do último recibo de renda (no caso de já existir contrato de arrendamento) e da Licença/autorização de utilização do locado.
+
+###### Artigo 55.º — Cálculo do Apoio a Comparticipar
+
+1 - O valor do apoio a conceder tem por base a relação entre o valor da Renda a pagar ao senhorio e o valor do Rendimento Mensal Corrigido.
+
+2 - Este valor é calculado através da seguinte fórmula: Rm/Rmc x 100
+
+3 - A Renda mensal a considerar não poderá ultrapassar os seguintes limites:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/10/209000000/0042800458.pdf)
+
+4 - Com base na fórmula referida no número dois, foram definidos 4 (quadro) escalões. A cada escalão corresponde o valor percentual da comparticipação a atribuir, relativamente ao montante da renda mensal paga:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/10/209000000/0042800458.pdf)
+
+###### Artigo 56.º — Limite Máximo do Apoio ao Arrendamento
+
+1 - O valor mensal do apoio ao arrendamento a atribuir terá como limite máximo 200(euro).
+
+###### Artigo 57.º — Forma de Pagamento
+
+1 - O Apoio ao Arrendamento é pago mensalmente pela Câmara Municipal ao Beneficiário, até ao final de cada mês.
+
+2 - O Beneficiário entregará, até ao dia 15 de cada mês, cópia do recibo comprovativo do pagamento da renda;
+
+3 - A não entrega do recibo comprovativo, referido no número anterior, será considerado, para efeitos do presente Regulamento, como não pagamento da renda.
+
+###### Artigo 58.º — Decisão
+
+A apreciação e aprovação sobre o Apoio ao Arrendamento a conceder será da competência da Câmara Municipal, mediante proposta do Presidente da Câmara ou Vereador com competências delegadas para o efeito e, com base na informação prestada pelo Serviços de Acão Social Municipal.
+
+###### Artigo 59.º — Incumprimento das Condições
+
+1 - Apoio será suspenso, antes do fim do período da concessão ou da renovação, quando se verifique qualquer uma das seguintes circunstâncias:
+
+a) Incumprimento do que estiver regulamentado;
+
+b) Melhoria da situação económica do Agregado Familiar, de acordo com a alínea i) do n.º 2. do Artigo 5.º;
+
+c) Prestação de falsas declarações ou omissão de informação essencial à avaliação do agregado Familiar;
+
+d) Subarrendamento ou hospedagem do prédio arrendado;
+
+e) O não pagamento da renda ao senhorio;
+
+f) Outro motivo que a Câmara Municipal considere justificável.
+
+2 - Em qualquer momento, durante a vigência da concessão do apoio, a Câmara Municipal poderá solicitar ao beneficiário a prestação de informações ou a apresentação de documentação que entenda necessária para apreciação.
+
+###### Artigo 60.º — Limite Temporal do Apoio
+
+O Apoio ao Arrendamento tem a duração máxima de 12 meses, a contar da atribuição, findo do qual é reavaliado nos termos da sua concessão inicial.
+
+###### Artigo 61.º — Falsas Declarações
+
+Verificando-se falsas declarações, o Beneficiário fica obrigado a repor o montante equivalente ao Apoio concedido, sem prejuízo da efetivação das responsabilidades civis ou criminais a que houver lugar.
+
+## PARTE VI — Disposições Complementares, Transitórias e Finais
+
+### CAPÍTULO I — Disposições Complementares, Transitórias e Finais
+
+###### Artigo 62.º — Aplicação no Tempo
+
+O presente Regulamento aplica-se a todos os títulos de ocupação das habitações vigentes e aos que sejam celebrados após a data da sua entrada em vigor, bem como às demais ocupações de habitações sociais propriedade do Município de Soure que nessa data subsistam.
+
+###### Artigo 63.º — Interpretação, e Preenchimento de Lacunas Direito Subsidiário
+
+1 - As dúvidas que surgirem na aplicação do presente regulamento ou eventuais omissões serão resolvidas e preenchidas as suas lacunas mediante deliberação da Câmara Municipal de Soure.
+
+2 - Em tudo quanto não estiver especialmente previsto neste regulamento aplicar-se-á a legislação em vigor.
+
+###### Artigo 64.º — Entrada em Vigor
+
+O presente Regulamento entra em vigor no dia seguinte, após a sua publicação no Diário da República.
+
+12 de outubro de 2020. - O Presidente, Mário Jorge Nunes.
+
+## ANEXO I — (a que se refere o artigo 11.º)
+
+Documentos a Apresentar:
+
+1 - Requerimento dirigido ao Presidente da Câmara Municipal, anexando questionário, devidamente preenchido e assinado pelo candidato (a disponibilizar pelo Serviço de Ação Social).
+
+2 - Documentos referentes ao candidato e a todos os elementos que compõem o agregado familiar:
+
+i) Apresentação dos documentos de identificação civil (bilhetes de identidade, cartão de cidadão ou certidão de nascimento);
+
+ii) Fotocópia do número de identificação fiscal;
+
+iii) Atestado de residência e de composição do agregado familiar, emitido pela Junta de Freguesia respetiva;
+
+iv) Fotocópia da autorização da residência ou documento equivalente que habilite o candidato a permanecer de forma legal em território nacional, no caso de cidadãos estrangeiros;
+
+v) Certidão emitida há menos de três meses pela Autoridade Tributária e Aduaneira (finanças), onde conste a inexistência de bens imóveis.
+
+3 - O candidato deve comprovar a sua situação socioprofissional bem como dos restantes elementos do agregado familiar com mais de 16 anos que exerçam uma atividade laboral remunerada, mediante a apresentação dos seguintes documentos:
+
+a) Trabalhador por conta de outrem:
+
+i) Fotocópia da declaração de IRS do ano civil anterior e respetiva nota de liquidação.
+
+b) Trabalhador independente:
+
+i) Fotocópia da declaração de IRS do ano transato (incluindo anexos) e respetiva nota de liquidação.
+
+c) Reformado e pensionista:
+
+i) Fotocópia do recibo da pensão, declaração da Segurança Social, comprovativa do valor da pensão anual (total recebido no ano transato), ou declaração de IRS do ano civil anterior e respetiva nota de liquidação.
+
+d) Desempregado:
+
+i) Declaração do Centro de Emprego (IEFP) comprovativa de inscrição para novo emprego;
+
+ii) Declaração da Segurança Social indicando o montante do subsídio atribuído, o início e o se termo, ou declaração da Segurança Social comprovativa de não atribuição de subsídio;
+
+iii) Fotocópia da declaração de IRS do ano civil anterior e respetivo documento de liquidação.
+
+e) Beneficiário do Rendimento Social de Inserção:
+
+i) Declaração da Segurança Social a comprovar o montante atribuído.
+
+f) Portador de deficiência:
+
+i) Atestado médico de incapacidade multiusos comprovativo do grau de incapacidade dos elementos do agregado familiar que apresentem deficiência com grau de incapacidade geral para o trabalho, igual ou superior a 60 %.
+
+g) Doméstica(o):
+
+i) Quando na constituição do agregado familiar surja um elemento na situação de doméstica/o deve ser apresentada declaração da Segurança Social comprovativa dos descontos efetuados e respetivo montante ou a sua inexistência.
+
+h) Nas situações em que se verifique a inexistência de qualquer fonte de rendimentos por parte do agregado familiar deve ser, sempre que possível, apresentado um comprovativo de candidatura a um mecanismo de proteção social.
+
+i) Se tem ordem de despejo deverá entregar fotocópia da sentença ou decisão com trânsito em julgado ou data já fixada para o despejo.
+
+j) Se é arrendatário, deverá entregar fotocópia do contrato de arrendamento (facultativo) e fotocópia do último recibo da renda de casa, ou outro documento comprovativo.
+
+## ANEXO II — (a que se refere o artigo 17.º)
+
+Matriz de classificação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/10/209000000/0042800458.pdf)
+
+## ANEXO III — (a que se refere o artigo 22.º)
+
+Grelha de Avaliação de Pedido de Transferência
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/10/209000000/0042800458.pdf)
+
+## ANEXO IV — (a que se refere o artigo 27.º)
+
+Cálculo da Renda
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/10/209000000/0042800458.pdf)
+
+## ANEXO V — (a que se refere o artigo 26.º)
+
+Minuta de Contrato de Arrendamento
+
+Minuta de Contrato de arrendamento para Habitação em Regime de Arrendamento Apoiado por tempo limitado (10 anos).
+
+Contrato de arrendamento para Habitação em Regime de Arrendamento Apoiado por Tempo Limitado
+
+Aos ...dias do mês de ...do ano de dois mil e ..., nesta vila de Soure, Edifício dos Paços do Concelho, perante mim, ..., exercendo funções de Oficial Pública do Município da Soure, conforme designação operada por Despacho do Presidente da Câmara de, compareceram como outorgantes:
+
+PRIMEIRO OUTROGANTE (SENHORIA): MUNICÍPIO DE SOURE, pessoa coletiva n.º ..., com sede em ..., representada neste ato pelo Presidente da Câmara Municipal e Senhoria, e;
+
+...(nome), (estado civil),...data de nascimento .../.../..., naturalidade ..., documento de identificação civil n.º ..., validade .../.../..., com o contribuinte fiscal n.º ..., e ...(nome), ...(estado civil), data de nascimento .../.../..., naturalidade ..., com o documento de identificação civil n.º ..., validade .../.../..., com o contribuinte fiscal n.º ..., residente(s) ..., como Segundo(s) Outorgante (Inquilino(s);
+
+Celebram entre si um contrato de arrendamento referente à Fração ...,..., freguesia e concelho da Soure, inscrita na respetiva matriz sob o artigo n.º ..., da freguesia de Soure, descrita na Conservatória do Registo Predial de Soure sob o n.º ..., a que corresponde a Certidão emitida pela Câmara Municipal da Soure em .../.../..., que titula a autorização de utilização do edifício em causa, cujo processo de certificação energética se encontra em fase de conclusão;
+
+Sob os termos e cláusulas seguintes:
+
+Cláusula Primeira
+
+O arrendado destina-se exclusivamente à habitação do(s) Segundo(s) Outorgante(s), não lhe podendo ser dado outro fim ou uso, não sendo permitida a sua sublocação ou cedência, onerosa ou gratuita, total ou parcial, sem autorização prévia e expressa da Primeira Outorgante.
+
+Cláusula Segunda
+
+O prazo de duração do presente contrato é de dez anos, com início a ...(dia, mês, ano) e seu termo a ...(dia, mês, anos), sendo as suas prorrogações de iguais períodos, no caso de não ser denunciado o seu termo.
+
+Cláusula Terceira
+
+1 - Para o presente Contrato vigorará o regime de arrendamento apoiado, previsto na [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853) de 19 de dezembro, alterada pela [Lei n.º 32/2016](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), de 24 de Agosto, sendo a renda calculada anualmente, de acordo com a fórmula fixada no artigo 21.º da supramencionada Lei.
+
+2 - A renda mensal para o ano de 2017, é estipulada em ...(euro) (extenso), paga na Câmara Municipal da Soure, do dia um ao dia oito do mês a que respeitar.
+
+3 - O valor da renda sem apoio corresponderia a ...(euro) (extenso).
+
+4 - A revisão do valor da renda por iniciativa da Câmara Municipal da Soure pode ocorrer a todo o tempo, nomeadamente, nas situações em que se verifique a alteração na composição ou nos rendimentos do agregado familiar, e em que ocorra a aplicação da devida correção, em caso de superveniência de situações de incapacidade igual ou superior a 60 % ou de idade igual ou superior a 65 anos relativos a qualquer elemento do agregado familiar.
+
+Cláusula Quarta
+
+Em caso de mora no pagamento da renda, os Segundos Outorgantes incorrem no agravamento de 10 % no valor em dívida o 9.º ao 26.º dia da data limite para pagamento da renda em dívida e, um agravamento de 25 %, se decorrerem mais de 15 dias da data do pagamento da renda em dívida.
+
+Os inquilinos devem fazer uso prudente do arrendado, sendo do eu cargo todas as obras de beneficiação e as de manutenção do bom estado e funcionamento das instalações da rede de distribuição de água, eletricidade, gás e de esgotos ou saneamento, que sirvam o arrendado.
+
+Cláusula Quinta
+
+Cessando o contrato, o(s) Segundo(s) Outorgante(s) deve(rão) restituir à Primeira Outorgante o arrendado no mesmo estado de conservação em que, pelo presente título o recebe, indemnizando a Primeira Outorgante de eventuais danos causados.
+
+Cláusula Sexta
+
+Em tudo quanto não estiver especialmente previsto neste contrato aplicar-se-ão os regulamentos e legislação em vigor.
+
+Soure, aos .../.../...
+
+313632051

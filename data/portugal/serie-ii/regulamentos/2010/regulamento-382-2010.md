@@ -1,0 +1,941 @@
+---
+schema_version: '1.0'
+id: pt:dre:3675435:por
+title: Regulamento n.º 382/2010
+short_title: null
+summary: Regulamento de Liquidação e Cobrança de Taxas e Outras Receitas Municipais
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Valongo
+proposing_entity: null
+official_number: 382/2010
+official_date: null
+publication_date: '2010-04-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 81/2010, Série II de 2010-04-27
+  number: '81'
+  series: II
+  supplement: null
+  pages: 22268 - 22280
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3675435'
+  dre_path: /dr/detalhe/regulamento/382-2010-3675435
+  internal: pt:dre:3675435:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/382-2010-3675435
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/382-2010-3675435
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:41:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0b5c14ae6082f201665f5074ab9f1e9acea40eb559acbeb34585907d4cae9463
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:41:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+article_structure:
+  article_count: 48
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:41:08Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 382/2010
+
+Para os devidos efeitos faz-se público que a Assembleia Municipal de Valongo deliberou, em sessão ordinária realizada no dia 19 de Abril de 2010, aprovar o Regulamento de Liquidação e Cobrança de Taxas e Outras Receitas Municipais.
+
+Regulamento de Liquidação e Cobrança de Taxas e Outras Receitas Municipais
+
+Nota Justificativa
+
+Com a entrada em vigor da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de Dezembro, foi aprovado o Regime Geral das Taxas das Autarquias Locais, cujo artigo 17.º, impõe a adequação dos Regulamentos Municipais a este novo regime jurídico, pelo que, em cumprimento desse normativo, é elaborado o presente Regulamento e Tabela de taxas e outras receitas municipais.
+
+Assim, procede-se à estipulação da incidência objectiva e subjectiva, do valor das taxas e fórmulas de cálculo aplicáveis, da fundamentação económica-financeira dos tributos, das isenções e respectiva fundamentação, dos meios de pagamento e demais formas de extinção da prestação tributária, do pagamento em prestações, bem como, da liquidação e cobrança.
+
+No que concerne à fundamentação económico-financeira, os valores consagrados na Tabela, resultam dos custos imprescindíveis ao funcionamento do serviço, e dos inerentes à prestação de serviços, utilização privada de bens do domínio público e privado da autarquia, licenciamentos, autorizações e demais remoções de obstáculos jurídicos.
+
+Também se prevêem taxas de desincentivo, cujo valor é fixado com vista a desencorajar certos actos ou operações.
+
+No que respeita às isenções a que alude o presente Regulamento, a sua fundamentação tem que ver com a natureza jurídica das entidades e com prossecução dos seus fins, que visem actividades ou investimentos de interesse municipal.
+
+O Regulamento e a Tabela de Taxas e Outras Receitas em anexo, têm como diplomas e normas habilitantes o artigo 241.º da Constituição da República Portuguesa, o n.º 1 do artigo 8.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de Dezembro (Lei das Taxas das Autarquias Locais), as alíneas a), e) e h) do n.º 2 do artigo 53.º e da alínea j) do n.º 1 do artigo 64.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, na redacção dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, os artigos 10.º, 11.º, 12.º, 15.º, 16.º, 55.º e 56.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro (Lei das Finanças Locais), o [Decreto-Lei n.º 398/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1998-191558), de 17 de Dezembro, revisto e republicado pela [Lei n.º 15/2001](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), de 5 de Junho, pelo [Decreto-Lei n.º 320-A/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-a-2002-306915), de 7 de Janeiro, pela [Lei n.º 16-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), de 31 de Maio, pelo [Decreto-Lei n.º 229/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2002-425931), de 31 de Outubro, pela [Lei n.º 32-B/2002](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), de 30 de Dezembro, pelo [Decreto-Lei n.º 160/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2003-670764), de 7 de Julho, pela [Lei n.º 107-B/2003](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), de 31 de Dezembro, [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), de 29 de Dezembro, [Lei n.º 67-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), de 31 de Dezembro [Lei n.º 19/2008](https://diariodarepublica.pt/dr/detalhe/lei/19-2008-249976), de 21 de Abril (Lei Geral Tributária) e o [Decreto-Lei n.º 433/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), de 26 de Outubro, revisto e republicado pela [Lei n.º 15/2001](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), de 5 de Junho, [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), de 29 de Dezembro e [Lei n.º 67-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), de 31/12 e [Decreto-Lei n.º 34/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448) de 26 de Fevereiro (Código de Procedimento e de Processo Tributário).
+
+Em cumprimento do artigo 117.º, n.º 1 do Código de Procedimento Administrativo, o projecto inicial foi publicado no Diário da República, 2.ª série, em 27/04/2009, com o n.º 81, tendo sido posto à discussão pública, pelo período de 30 dias, para recolha de sugestões dos interessados.
+
+Findo o prazo de consulta supra mencionado, não foram apresentadas quaisquer sugestões ou reclamações.
+
+A Assembleia Municipal em sessão ordinária, realizada no dia 19/04/2010, ao abrigo da competência conferida pelo artigo 53.º n.º 2, alínea a) da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886) de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, sob proposta da Câmara, aprovou o seguinte Regulamento:
+
+### CAPÍTULO I — Disposições Gerais
+
+###### Artigo 1.º — Objecto e Âmbito de Aplicação
+
+1 - O presente Regulamento consagra as disposições regulamentares com eficácia externa aplicáveis na área do Município de Valongo em matéria de taxas e outras receitas municipais, prevendo o seu âmbito de incidência, liquidação, cobrança e pagamento, bem como o respectivo procedimento, fiscalização e o sancionamento supletivo de infracções conexas, quando não especialmente previstas noutros Regulamentos Municipais.
+
+2 - A concreta previsão das taxas devidas ao Município e demais receitas municipais, com fixação dos respectivos quantitativos, consta da Tabela de Taxas e Outras Receitas Municipais, em anexo.
+
+###### Artigo 2.º — Actualização e arredondamentos
+
+1 - Os valores constantes da Tabela de Taxas e Outras Receitas Municipais, são actualizados anualmente em conformidade com o disposto no artigo 9.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de Dezembro.
+
+2 - A actualização vigorará a partir do dia 1 de Janeiro do ano seguinte.
+
+3 - As taxas e outras receitas municipais previstas na Tabela que resultem de quantitativos fixados em diploma próprio entram em vigor e serão actualizados nos termos previstos na lei.
+
+4 - Os valores resultantes da actualização, nos termos dos números anteriores, serão expressos em euros contendo duas casas decimais e arredondados, por defeito ou por excesso, para múltiplos de 5 (cinco) cêntimos, do modo seguinte:
+
+a) Se a segunda casa decimal for igual ou inferior a 2 (dois) ou 7 (sete), o valor será arredondado por defeito, respectivamente para 0 (zero) ou 5 (cinco);
+
+b) Se a segunda casa decimal for igual ou superior a 3 (três) ou 8 (oito), o valor será arredondado por excesso, respectivamente, para 5 (cinco) ou 0 (zero).
+
+### CAPÍTULO II — Incidência e Isenções
+
+###### Artigo 3.º — Incidência objectiva
+
+As taxas constantes da Tabela anexa são tributos fixados no âmbito das atribuições do Município de Valongo, de acordo com os princípios previstos na lei das Taxas das Autarquias Locais e na Lei das Finanças Locais, que, traduzindo o custo da actividade pública municipal, incidem sobre as utilidades prestadas aos particulares ou geradas pela actividade do Município:
+
+a) Na prestação concreta de um serviço público local;
+
+b) Na utilização privada de bens do domínio público e do domínio privado do Município;
+
+c) Na remoção de um obstáculo jurídico ao comportamento dos particulares.
+
+###### Artigo 4.º — Incidência subjectiva
+
+1 - O sujeito activo da relação jurídico-tributária geradora da obrigação de pagamento das taxas e outras receitas municipais previstas na Tabela anexa ao presente Regulamento é o Município de Valongo.
+
+2 - O sujeito passivo é a pessoa singular ou colectiva e outras entidades legalmente equiparadas que nos termos da lei e do presente Regulamento esteja vinculada ao cumprimento da prestação tributária mencionada no artigo antecedente.
+
+###### Artigo 5.º — Isenções e reduções
+
+1 - Estão isentos de taxas as entidades a quem a lei confira tal isenção.
+
+2 - Estão ainda isentos de taxas:
+
+a) As pessoas colectivas de direito público ou de utilidade pública administrativa;
+
+b) As instituições particulares de solidariedade social, bem como, as de mera utilidade pública, relativamente aos actos e factos que se destinem à directa e imediata realização dos seus fins estatutários;
+
+c) As associações ou fundações culturais, sociais, religiosas, desportivas ou recreativas legalmente constituídas, relativamente aos actos e factos que se destinem à prossecução de actividades de interesse público municipal, desde que beneficiem de isenção ou redução de IRC, o que deverá ser comprovado mediante a apresentação do competente documento;
+
+d) As cooperativas, suas uniões, federações e confederações, desde que constituídas, registadas, e funcionando nos termos da legislação cooperativa, relativamente às actividades que se destinem à realização dos seus fins estatutários;
+
+e) As empresas municipais e as fundações de iniciativa municipal.
+
+3 - As isenções constantes dos números anteriores aplicam-se quando não exista regulamento municipal específico que regule a matéria ou não as preveja e não são cumuláveis com quaisquer outras que resultem de diploma legal, Regulamento ou preceito próprio.
+
+4 - As isenções não dispensam os interessados de requererem à Câmara Municipal as necessárias licenças, autorizações ou concessões, quando exigidas nos termos da lei ou dos regulamentos municipais, nem permitem aos beneficiários a utilização de meios susceptíveis de lesar o interesse municipal.
+
+###### Artigo 6.º — Procedimento de isenção
+
+1 - As isenções de taxas e outras receitas previstas no n.º 2 do artigo anterior são precedidas de requerimento fundamentado a apresentar pelo interessado, acompanhado dos documentos comprovativos da situação em que se enquadre, e ainda, quando aplicável:
+
+a) Tratando-se de pessoa colectiva:
+
+a1) Cópia do cartão de pessoa colectiva;
+
+a2) Cópia dos estatutos ou comprovativo da natureza jurídica das entidades e da sua finalidade estatutária;
+
+a3) Última declaração de IRC e respectivos anexos ou comprovativo de isenção de IRC.
+
+2 - O requerimento de isenção, antes de submetido a decisão, é objecto de análise pelos serviços municipais competentes para o respectivo processo que procedem a verificação do cumprimento dos requisitos previstos, análise dos respectivos fundamentos e proceder ao devido enquadramento formal no regulamento.
+
+### CAPÍTULO III — Da Liquidação
+
+###### Artigo 7.º — Liquidação
+
+1 - A liquidação das taxas e outras receitas municipais previstas na Tabela anexa consiste na determinação do montante a pagar e resulta da aplicação dos indicadores nela definidos e dos elementos fornecidos pelos interessados.
+
+2 - Às taxas e outras receitas municipais constantes da Tabela acrescem, quando assim for determinado por preceito legal, os impostos devidos ao Estado, designadamente Imposto sobre o Valor Acrescentado (IVA) e Imposto de Selo, bem como as taxas e remunerações devidas a outras entidades, com excepção dos valores relativos a estacionamento de duração limitada, os quais já têm o IVA incluído.
+
+3 - Os valores assim obtidos serão arredondados, por defeito ou excesso, para múltiplos de 5 (cinco) cêntimos nos termos do n.º 4 do artigo 2.º
+
+###### Artigo 8.º — Prazos para a liquidação
+
+A liquidação de taxas e outras receitas municipais será efectuada pelos serviços dentro dos seguintes prazos:
+
+a) Aquando da solicitação verbal ou no acto de entrada do requerimento, nos casos em que seja possível;
+
+b) No prazo de 10 dias a contar da data da notificação da aprovação da pretensão do requerente ou da formação do respectivo deferimento tácito;
+
+c) Aquando do requerimento para a emissão do alvará de licença ou autorização respectivo, para os actos relativamente aos quais a lei exija a respectiva emissão.
+
+###### Artigo 9.º — Documento de liquidação
+
+1 - A liquidação das taxas e outras receitas municipais consta de documento próprio, na qual se fará referência aos seguintes elementos:
+
+a) Identificação do sujeito passivo com indicação da identificação, morada ou sede e número fiscal de contribuinte/número de pessoa colectiva;
+
+b) Discriminação do acto, facto ou contrato sujeito a liquidação;
+
+c) Enquadramento na Tabela de Taxas e Outras Receitas Municipais;
+
+d) Cálculo do montante a pagar, resultante da conjugação dos elementos referidos nas alíneas b) e c).
+
+2 - O documento mencionado no número anterior designar-se-á Guia de Débito e fará parte integrante do respectivo processo administrativo.
+
+3 - A liquidação de taxas e outras receitas municipais não precedida de processo far-se-á nos respectivos documentos de cobrança.
+
+4 - A liquidação das taxas poderá ter como suporte documental a factura electrónica, nos termos previstos na lei.
+
+###### Artigo 10.º — Notificação da liquidação
+
+1 - Notificação da liquidação é o acto pelo qual se leva a Guia de Débito ou documento semelhante ao conhecimento do requerente.
+
+2 - Os actos praticados em matéria de taxas e outras receitas municipais só produzem efeitos em relação aos respectivos sujeitos passivos quando estes sejam validamente notificados.
+
+###### Artigo 11.º — Conteúdo da notificação
+
+1 - Da notificação da liquidação devem constar os seguintes elementos:
+
+a) Conteúdo da deliberação ou sentido da decisão;
+
+b) Fundamentos de facto e de direito;
+
+c) Prazo de pagamento voluntário;
+
+d) Meios de defesa contra o acto de liquidação;
+
+e) Menção expressa ao autor do acto e se o mesmo foi praticado no uso de competência própria, delegada ou subdelegada;
+
+f) A advertência de que a falta de pagamento no prazo estabelecido, quando a este haja lugar, implica a cobrança coerciva da dívida.
+
+2 - A notificação será acompanhada da respectiva Guia de Débito ou documento equivalente.
+
+###### Artigo 12.º — Forma de notificação
+
+1 - A liquidação será notificada ao interessado por carta registada com aviso de recepção, salvo nos casos em que, nos termos da lei, esta não seja obrigatória e ainda nos casos de renovação de licenças ou autorizações previstos no presente Regulamento.
+
+2 - A notificação considera-se efectuada na data em que for assinado o aviso de recepção e tem -se por efectuada na própria pessoa do notificando, mesmo quando o aviso de recepção haja sido assinado por terceiro presente no domicílio do requerente, presumindo -se, neste caso, que a carta foi oportunamente entregue ao destinatário.
+
+3 - No caso de o aviso de recepção ser devolvido pelo facto de o destinatário se ter recusado a recebê-lo, ou não o ter levantado no prazo previsto no regulamento dos serviços postais, e não se comprovar que, entretanto, o requerente comunicou a alteração do seu domicílio fiscal, a notificação será efectuada nos 15 dias seguintes à devolução, por nova carta registada com aviso de recepção, presumindo-se efectuada a notificação, sem prejuízo de o notificando poder provar justo impedimento ou a impossibilidade de comunicação da mudança de residência no prazo legal.
+
+4 - No caso da recusa de recebimento ou não levantamento da carta, previstos no número anterior, a notificação presume-se feita no 3.º dia posterior ao do registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.
+
+5 - A notificação por carta registada simples aplica-se aos casos não previstos no n.º 1, e presumem-se feitas no 3.º dia posterior ao do registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.
+
+6 - As notificações referidas no número anterior poderão ser efectuadas, por telefax ou via Internet (electrónica), desde que seja possível confirmar posteriormente o conteúdo da mensagem e o momento em que foi enviada.
+
+7 - Quando a notificação for efectuada nos termos do número anterior, presume-se que foi feita na data de emissão, servindo de prova, respectivamente, a cópia do aviso donde conste a menção de que a mensagem foi enviada com sucesso, bem como a data, hora e número de telefax do receptor ou o extracto da mensagem efectuado pelo funcionário, o qual será incluído no processo.
+
+8 - A notificação poderá ocorrer mediante deslocação do interessado aos serviços municipais competentes, tomando conhecimento da liquidação, lavrando-se no processo o auto de notificação e mediante assinatura do mesmo ou registo da sua recusa em assinar.
+
+###### Artigo 13.º — Autoliquidação
+
+1 - Sempre que a lei ou regulamento o preveja a autoliquidação das taxas e outras receitas, deverá o requerente promover a mesma e o respectivo pagamento.
+
+2 - O requerente deverá remeter cópia do pagamento efectuado nos termos do número anterior ao Município, conforme for a situação, aquando do seu requerimento ou do início da actividade sujeita a pagamento da taxa ou receita.
+
+3 - A prova do pagamento das taxas efectuado nos termos do número anterior deve ser pelo requerente arquivada por um período de 8 anos, sob pena de presunção de que não efectuou aquele pagamento.
+
+4 - Caso o Município venha a apurar que o montante pago pelo requerente na sequência da autoliquidação é inferior ao valor efectivamente devido, o requerente será notificado do valor correcto a pagar assim como do prazo para efectuar o respectivo pagamento.
+
+5 - A falta de pagamento do valor referido no número anterior dentro do prazo fixado pelo Município tem por efeito a extinção do procedimento.
+
+6 - Caso o Município venha a apurar que o montante pago pelo requerente na sequência da autoliquidação é superior ao valor efectivamente devido, o requerente será notificado do valor correcto a pagar, sendo-lhe restituído o montante pago em excesso.
+
+###### Artigo 14.º — Erros na liquidação das taxas
+
+1 - Quando se verifique a ocorrência de liquidação por valor inferior ao devido, os serviços promoverão de imediato a liquidação adicional, notificando o devedor, por correio registado com aviso de recepção, para liquidar a importância devida no prazo de 15 dias.
+
+2 - Da notificação deverão constar os fundamentos da liquidação adicional, o montante, o prazo para pagar e ainda que o não pagamento, findo aquele prazo, implica a cobrança coerciva nos termos do artigo 19.º deste Regulamento.
+
+3 - Quando se verifique ter havido erro de cobrança por excesso, deverão os serviços, independentemente da reclamação do interessado, promover, de imediato, a restituição da quantia cobrada a mais, nos termos da legislação em vigor.
+
+4 - Não produzem direito a restituição os casos em que a pedido do interessado, sejam introduzidas nos processos alterações ou modificações produtoras de taxação menor.
+
+###### Artigo 15.º — Caducidade
+
+O direito de liquidar as taxas e outras receitas, caduca se a liquidação não for validamente notificada ao sujeito passivo no prazo de quatro anos da data em que o facto tributário ocorreu.
+
+### CAPÍTULO IV — Pagamento
+
+###### Artigo 16.º — Pagamento
+
+1 - Salvo disposição em contrário, o pagamento das taxas e outras receitas municipais será efectuado antes ou no momento da prática ou execução do acto ou serviço a que respeitem.
+
+2 - Salvo regime especial, as taxas e outras receitas municipais previstas na Tabela devem ser pagas na Tesouraria, mediante a apresentação da respectiva guia, ficando na posse do tesoureiro o duplicado do documento e entregue o original ao sujeito passivo.
+
+3 - Em casos devidamente autorizados, as taxas e outras receitas municipais podem ser pagas noutro serviço, no próprio dia da liquidação ou até ao termo do prazo fixado, conforme o caso.
+
+4 - As taxas podem ainda ser pagas por dação em cumprimento ou por compensação, quando tal seja compatível com o interesse público.
+
+5 - São devidos juros de mora pelo cumprimento extemporâneo da obrigação de pagamento de taxas e outras receitas municipais.
+
+6 - O Alvará ou título a que respeite a taxa não paga, ou paga através de cheque sem provisão, considera-se nulo.
+
+###### Artigo 17.º — Pagamento em prestações
+
+1 - O devedor que não possa cumprir integralmente e de uma só vez a dívida pode requerer ao Presidente da Câmara, o pagamento em prestações.
+
+2 - O pagamento deverá ser efectuado em prestações mensais e iguais, não devendo o número das prestações em caso algum exceder 36 e o valor de qualquer delas ser inferior a 1 (uma) da unidade de conta no momento da autorização, nos termos da lei de processo tributário.
+
+3 - A primeira prestação vence-se a partir da data da notificação do despacho de autorização e deve ser paga no próprio mês.
+
+4 - A falta de pagamento de qualquer uma das prestações implica o vencimento imediato das seguintes.
+
+5 - Compete ao presidente da Câmara Municipal, com faculdade de delegação, autorizar o pagamento em prestações.
+
+###### Artigo 18.º — Extinção do procedimento
+
+1 - O não pagamento das taxas e outras receitas municipais no próprio dia quando outro prazo não seja estabelecido, implica a extinção do procedimento.
+
+2 - O sujeito passivo poderá obstar à extinção do procedimento, desde que efectue o pagamento da quantia liquidada, em dobro, nos 10 dias seguintes ao termo do prazo pagamento respectivo.
+
+###### Artigo 19.º — Cobrança coerciva
+
+1 - Consideram-se em dívida todas as taxas e outras receitas municipais, relativamente às quais o particular usufruiu do facto, do serviço ou do benefício, sem o prévio pagamento.
+
+2 - Consideram-se em débito, as taxas que tenham por base actos automaticamente renováveis e enquanto se verificarem os pressupostos desses actos, logo que notificada a liquidação nos termos legais.
+
+3 - O não pagamento das taxas implica a extracção das respectivas certidões de dívida e seu envio aos serviços competentes, para efeitos de execução fiscal, nos termos do Código de Procedimento e de Processo Tributário.
+
+4 - Para além da execução fiscal, a falta de pagamento das licenças renováveis previstas no presente Regulamento e Tabela anexa determina a sua não renovação para o período imediatamente seguinte.
+
+###### Artigo 20.º — Prescrição
+
+1 - As dívidas por taxas e outras receitas às autarquias locais prescrevem no prazo de oito anos a contar da data em que o facto tributário ocorreu.
+
+2 - A citação, a reclamação e a impugnação interrompem a prescrição.
+
+3 - A paragem dos processos de reclamação, impugnação e execução fiscal por prazo superior a um ano, por facto não imputável ao sujeito passivo faz cessar a interrupção da prescrição, somando-se, neste caso, o tempo que decorreu após aquele período ao que tiver decorrido até à data da autuação.
+
+### CAPÍTULO V — Procedimento Administrativo
+
+###### Artigo 21.º — Forma do pedido
+
+Os interessados deverão apresentar o seu pedido por escrito, salvo nos casos e condições em que a lei admita a sua formulação verbal, telefónica ou por via electrónica.
+
+###### Artigo 22.º — Conferição da assinatura nos requerimentos ou petições
+
+Salvo quando a lei expressamente imponha o reconhecimento notarial da assinatura nos requerimentos ou petições, aquela, sempre que exigível será conferida pelos serviços recebedores, através da exibição do bilhete de identidade do signatário do documento.
+
+###### Artigo 23.º — Dispensa dos originais dos documentos
+
+1 - Para a instrução de processos administrativos graciosos é suficiente a fotocópia de documento autêntico ou autenticado.
+
+2 - Sem prejuízo da obrigatória recepção da fotocópia a que alude o número anterior, quando haja dúvidas fundadas acerca do seu conteúdo ou autenticidade, pode ser exigida a exibição de original ou documento autêntico para conferência, devendo para o efeito ser fixado o prazo de cinco dias.
+
+3 - Se o documento autêntico ou autenticado constar em arquivo, o funcionário competente aporá a sua assinatura na respectiva fotocópia, declarando a sua conformidade com o original.
+
+4 - As fotocópias de documentos reconhecidos nos termos dos números anteriores não produzem fé pública.
+
+###### Artigo 24.º — Devolução de documentos
+
+1 - Os documentos autênticos ou autenticados apresentados pelos requerentes para comprovar afirmações ou factos de interesse particular poderão ser devolvidos quando dispensáveis.
+
+2 - Sempre que os documentos autênticos ou autenticados sejam dispensáveis, mas o respectivo conteúdo deva ficar apenso ao processo e o apresentante manifeste interesse na posse dos mesmos, os serviços extrairão as fotocópias necessárias e devolverão o original, cobrando o valor correspondente à Tabela anexa.
+
+3 - O funcionário que proceder à devolução dos documentos aporá a sua assinatura e data na fotocópia declarando a sua conformidade com o original.
+
+###### Artigo 25.º — Suprimento de deficiência de instrução
+
+Sempre que no processo se verifique qualquer deficiência que possa ser suprida por diligência directa dos serviços municipais, estes providenciarão aquela diligência, nos termos do Código do Procedimento Administrativo.
+
+###### Artigo 26.º — Pedidos urgentes
+
+Aos documentos de interesse particular, nomeadamente, certidões, fotocópias e segundas vias, cuja emissão seja requerida com carácter de urgência, cobrar-se-á o dobro das taxas fixadas na Tabela, desde que o pedido seja satisfeito no prazo máximo de 3 dias úteis após a apresentação do requerimento, se outro prazo não se encontrar fixado em lei ou Regulamento.
+
+### CAPÍTULO VI — Licenças e Autorizações
+
+###### Artigo 27.º — Emissão de licença e de autorização
+
+Na sequência do deferimento do pedido de licenciamento ou de autorização e mediante o pagamento das taxas, os serviços municipais assegurarão a emissão da Licença ou da Autorização, no qual deverá constar:
+
+a) A identificação do titular (nome, morada ou sede e número de identificação fiscal);
+
+b) O objecto do licenciamento ou autorização, localização e principais características;
+
+c) As condições impostas no licenciamento ou autorização;
+
+d) A validade e ou prazo e número de ordem;
+
+e) A identificação do serviço municipal emissor.
+
+###### Artigo 28.º — Validade das licenças e das autorizações
+
+1 - As licenças e as autorizações terão o prazo de validade delas constantes.
+
+2 - As licenças e as autorizações caducam decorrido o prazo por que foram concedidas e caso não seja solicitada a sua renovação nos termos deste Regulamento.
+
+3 - Se, por lei ou regulamento, for estabelecido prazo certo para a respectiva revalidação, as licenças e as autorizações consideram-se válidas até às 24 horas do último dia desse prazo.
+
+###### Artigo 29.º — Precariedade dos licenciamentos e autorizações
+
+1 - Todos os licenciamentos e autorizações concedidas para ocupação de espaços públicos são considerados precários, podendo a Câmara Municipal, por motivo de interesse público, devidamente fundamentado, fazê-las cessar sem que daí decorra a obrigação de pagamento de qualquer indemnização, restituindo, neste caso, a taxa correspondente ao período não utilizado.
+
+2 - Exceptuam-se do disposto no número anterior as licenças e as autorizações que, nos termos da lei ou regulamento, não sejam consideradas precárias.
+
+###### Artigo 30.º — Renovação das licenças e das autorizações
+
+1 - São renováveis as licenças de carácter periódico e regular.
+
+2 - As licenças e as autorizações renováveis considerar-se-ão emitidas nas mesmas condições em que foram concedidas as licenças e as autorizações iniciais, pressupondo-se a inalterabilidade dos seus termos e condições, sem prejuízo da actualização do valor da taxa a que houver lugar.
+
+3 - Salvo norma legal expressa, Regulamento ou deliberação da Câmara Municipal em contrário, os pedidos de renovação de licenças e de autorizações de carácter periódico e regular poderão fazer-se verbalmente.
+
+4 - Para efeitos deste artigo, considera-se pedido verbal, a remessa, até ao antepenúltimo dia útil do prazo de renovação, por cheque ou vale postal, com indicação explícita da sua finalidade, da importância correspondente à licença.
+
+###### Artigo 31.º — Publicidade dos períodos para renovação das licenças
+
+Durante o mês de Dezembro de cada ano será afixado, nos lugares público de estilo, edital estabelecendo os períodos durante os quais deverão ser renovadas as licenças anuais, salvo se, por lei ou Regulamento, for fixado prazo ou período certo para a respectiva revalidação.
+
+###### Artigo 32.º — Pedido de renovação de licenças e de autorizações fora dos prazos
+
+1 - Sempre que o pedido de renovação de licenças, autorizações, registos ou outros actos seja efectuado fora dos prazos fixados para o efeito, e salvo indicação diferente resultante de lei especial ou regulamento, sofrerão as correspondentes taxas um agravamento de 50 %, independentemente de ser exigido valor da taxa pelo período em que a mesma era devida e não renovada.
+
+2 - Exceptua-se do previsto no número anterior, o pedido de renovação apresentado dentro do prazo previsto por lei ou regulamento e cuja apreciação, pelos competentes serviços municipais, se não venha a efectuar dentro do prazo de validade das licenças, autorizações, registos ou outros actos, considera-se estas prorrogados até à respectiva decisão, sem prejuízo do pagamento da taxa devida relativa ao período de prorrogação.
+
+###### Artigo 33.º — Averbamento de licença ou autorização
+
+1 - Os pedidos de averbamento de titular da licença ou autorização devem ser apresentados no prazo de 30 dias a contar da verificação dos factos que o justifiquem, instruídos com os documentos que o titulem, sob pena de procedimento por falta de licença.
+
+2 - Os pedidos de averbamento de licenças ou autorizações em nome de outrem deverão ser instruídos com a autorização dos respectivos titulares ou documentos comprovativos da transacção, quando se trate de bens ou direitos sujeitos a registo.
+
+4 - Presume-se que as pessoas singulares ou colectivas que trespassem os seus estabelecimentos ou instalações ou cedam a respectiva exploração autorizem o averbamento das licenças ou das autorizações de que sejam titulares a favor das pessoas a quem transmitiram os seus direitos.
+
+5 - Nos casos previstos no número anterior, os pedidos de averbamento deverão ser instruídos com certidão ou fotocópia simples do contrato de trespasse ou cedência da exploração.
+
+6 - Serão aceites pedidos de averbamento fora do prazo fixado no n.º 1, mediante o pagamento de um adicional de 50 % sobre a taxa respectiva.
+
+###### Artigo 34.º — Cessação, cassação e apreensão das licenças e das autorizações
+
+1 - As licenças e as autorizações emitidas cessam nas seguintes situações:
+
+a) A pedido expresso dos titulares;
+
+b) Por decisão do município, quando exista motivo de interesse público, nos termos do disposto no artigo 29.º;
+
+c) Por caducidade, uma vez expirado o prazo de validade das mesmas, sem prejuízo do disposto no artigo 32.º;
+
+d) Quando o titular não cumpriu as condições impostas no licenciamento ou na autorização.
+
+2 - Na situação prevista na alínea d) do número anterior, a Câmara Municipal determina a cassação da licença ou da autorização.
+
+3 - Determinada a cassação da licença ou da autorização nos termos do número anterior, na sequência da notificação ao respectivo titular, a Câmara procede à apreensão da licença.
+
+###### Artigo 35.º — Exibição dos títulos
+
+Os titulares das licenças ou autorizações deverão manter no local de exercício da actividade licenciada ou autorizada ou, sendo disso caso, fazer-se sempre acompanhar do documento comprovativo do respectivo título ou do comprovativo do pagamento da taxa devida, que exibirão aos agentes municipais e entidades fiscalizadoras sempre que solicitado.
+
+### CAPÍTULO VII — Contra-ordenações
+
+###### Artigo 36.º — Contra-ordenações
+
+1 - Constituem contra -ordenações:
+
+a) A prática de acto ou facto sem o prévio licenciamento ou autorização ou sem o prévio pagamento das taxas ou outras receitas municipais, salvo se existir previsão de contra -ordenação para a falta de licença ou autorização em lei ou regulamento especifico e nos casos expressamente permitidos;
+
+b) A inexactidão ou falsidade dos elementos fornecidos pelos interessados para liquidação das taxas e outras receitas municipais ou para instrução de pedidos de isenção;
+
+c) A falta de exibição dos documentos comprovativos do pagamento das taxas devidas, sempre que solicitados pelas entidades fiscalizadoras, quando não especialmente previsto em diploma legal ou noutro regulamento municipal,
+
+d) A violação e ou infracção ao disposto no presente regulamento e tabela anexa.
+
+2 - Nos casos previstos nas alíneas a) e b) do número anterior, o montante mínimo da coima no caso de pessoas singulares é de metade da retribuição mínima mensal garantida e o máximo de dez, sendo, no caso de pessoas colectivas, o montante da coima de uma retribuição mínima mensal garantida e o máximo cem vezes aquele valor.
+
+3 - No caso previsto na alínea c) e d), o montante mínimo da coima é de (euro) 50,00 e o máximo de (euro) 500,00, sendo, no caso de pessoas colectivas, o montante o máximo da coima de (euro) 5 000,00.
+
+4 - A tentativa e negligência são sempre puníveis sendo, o montante máximo das coimas previstas no número anterior reduzido a metade.
+
+5 - As situações previstas nas alíneas a) e b) do n.º 1 podem ainda dar lugar à remoção da situação ilícita.
+
+6 - Não obstante o disposto nos números anteriores, prevalece em matéria de contra-ordenação, o previsto em legislação especial e em regulamentos municipais específicos.
+
+###### Artigo 37.º — Meios de Prova
+
+Os objectos que sirvam ou estejam destinados a servir para a prática de qualquer das contra-ordenações previstas no artigo anterior, ou os que foram por esta produzidos e, ainda, quaisquer outros que forem susceptíveis de servir de prova, podem ser apreendidos provisoriamente, sendo restituídos logo que se torne desnecessária a sua apreensão ou após a decisão condenatória definitiva, salvo se o Município pretender declará-los perdidos.
+
+###### Artigo 38.º — Competência
+
+A competência para determinar a instrução dos processos de contra-ordenação e para a aplicação das coimas pertence ao presidente da Câmara Municipal, com a faculdade de delegação nos termos legais.
+
+###### Artigo 39.º — Sanções acessórias
+
+1 - Sem prejuízo da aplicação das coimas a que se refere o artigo anterior, são ainda aplicáveis as seguintes sanções acessórias, a determinar em função da gravidade da infracção e da culpa do agente:
+
+a) Perda de objectos pertencentes ao agente da infracção;
+
+b) Cassação e apreensão de licenças e autorizações;
+
+c) Interdição do exercício de profissões ou actividades na área do Município de Valongo, cujo exercício dependa de licença ou autorização dos órgãos competentes do Município;
+
+d) Privação do direito a benefício outorgado pelos órgãos competentes do Município;
+
+e) Privação do direito de participar em feiras ou mercados no Município;
+
+f) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou a concessão de obras públicas municipais, o fornecimento de bens e serviços, a concessão de serviços públicos que seja da competência da Autarquia e a atribuição de licenças ou autorizações;
+
+g) Encerramento de estabelecimento cujo funcionamento esteja sujeito a licença ou autorização da Autarquia, quando a ele esteja directamente relacionado o cometimento da infracção;
+
+h) Suspensão de licenças ou autorizações concedidos pela Autarquia para ocupação de espaço do domínio público ou para o exercício de actividade conexa.
+
+2 - As sanções referidas nas alíneas c) a h) do número anterior têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva.
+
+### CAPÍTULO VIII — Garantias fiscais
+
+###### Artigo 40.º — Garantias
+
+1 - Os sujeitos passivos das taxas para as autarquias locais podem reclamar ou impugnar a respectiva liquidação.
+
+2 - A reclamação é deduzida perante o órgão que efectuou a liquidação da taxa no prazo de 30 dias a contar da notificação da liquidação.
+
+3 - A reclamação presume-se indeferida para efeitos de impugnação judicial se não for decidida no prazo de 60 dias.
+
+4 - Do indeferimento tácito ou expresso cabe impugnação judicial para o Tribunal Administrativo e Fiscal da área do Município, no prazo de 60 dias a contar do indeferimento.
+
+5 - A impugnação judicial depende da prévia dedução da reclamação prevista no n.º 2 do presente artigo.
+
+6 - À reclamação graciosa ou impugnação judicial aplicam-se ainda as normas do Código de Procedimento e de Processo Tributário, com as necessárias adaptações.
+
+7 - Às infracções às normas reguladoras das taxas que constituam contra-ordenações, aplicam-se as normas do Regime Geral das Infracções Tributárias, com as necessárias adaptações.
+
+8 - Compete ao órgão executivo a cobrança coerciva das dívidas ao Município provenientes de taxas, encargos de mais valias e outras receitas de natureza tributária que devam cobrar, aplicando-se o Código de Procedimento e de Processo Tributário, com as necessárias adaptações.
+
+9 - Sempre que o sujeito passivo deduzir reclamação ou impugnação e for prestada nos termos da lei garantia idónea, não será negada a prestação do serviço, a emissão da autorização ou a continuação da utilização de bens do domínio público e privado autárquico.
+
+### CAPÍTULO IX — Disposições Finais
+
+###### Artigo 41.º — Serviços ou obras executadas pela Câmara em substituição dos responsáveis
+
+1 - Quando os responsáveis se recusem a executar no prazo fixado, serviços ou obras impostos pela Câmara no uso das suas competências e seja esta a executá-los por conta daqueles, o custo efectivo dos trabalhos, será acrescido de 20 % para encargos de administração.
+
+2 - O custo dos trabalhos, executados nos termos do item anterior, quando não pago voluntariamente no prazo de 20 dias a contar da notificação, para o efeito, será cobrado judicialmente, servindo de título executivo, certidão passada pelos Serviços competentes, comprovativa das despesas efectuadas.
+
+3 - Ao custo total acresce o IVA à taxa legal, quando devido.
+
+###### Artigo 42.º — Outras taxas municipais
+
+Mediante proposta da Câmara Municipal, devidamente fundamentada pelos serviços municipais e respectiva aprovação pela Assembleia Municipal, podem ser criadas novas taxas não previstas no presente Regulamento, do qual passam a fazer parte integrante.
+
+###### Artigo 43.º — Direito subsidiário
+
+Em tudo o que não estiver especialmente previsto no presente Regulamento, aplica-se subsidiariamente o disposto na Lei das Finanças Locais, na lei Geral Tributária, no Regime Geral das Taxas das Autarquias Locais, no Código do Procedimento Administrativo, no Código do Procedimento e Processo Tributário e no Regime Geral das Infracções Tributárias.
+
+###### Artigo 44.º — Interpretação e Integração de Lacunas
+
+1 - Em tudo o que não estiver especialmente previsto no presente Regulamento, aplica-se subsidiariamente o disposto no Regime Geral das Taxas das Autarquias Locais e de forma sucessiva nos termos do artigo 2.º do mesmo:
+
+a) A Lei das Finanças Locais,
+
+b) A lei Geral Tributária;
+
+c) A lei que estabelece o quadro de competências e o regime jurídico de funcionamento dos órgãos dos municípios e das freguesias;
+
+d) O Estatuto dos Tribunais Administrativos e Fiscais;
+
+e) O Código de Procedimento e Processo Tributário;
+
+f) O Código de Processo nos Tribunais Administrativos;
+
+g) O Código de Procedimento Administrativo;
+
+2 - Quaisquer notas exaradas na Tabela de Taxas anexa obrigam quer os serviços, quer os interessados.
+
+3 - Os casos omissos e as dúvidas suscitadas na interpretação e aplicação do presente regulamento, que não possam ser resolvidos pelo recurso aos critérios legais de interpretação e integração de lacunas, serão submetidos para decisão dos órgãos competentes, nos termos do disposto na [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com a redacção dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro.
+
+###### Artigo 45.º — Documentos técnicos, minutas e formulários
+
+A Câmara Municipal poderá estabelecer os documentos técnicos, minutas e formulários que se mostrem necessários a aplicação do presente Regulamento.
+
+###### Artigo 46.º — Regime transitório
+
+1 - As taxas a que se refere a Tabela anexa a este Regulamento, bem como os agravamentos nela previstos, aplicam-se a todos os casos em que as mesmas taxas venham a ser liquidadas e pagas após a sua entrada em vigor.
+
+###### Artigo 47.º — Disposição revogatória
+
+É revogado o anterior Regulamento e Tabela de Taxas e Licenças.
+
+###### Artigo 48.º — Entrada em vigor
+
+O presente Regulamento e Tabela de Taxas e Outras Receitas Municipais anexa, entra em vigor no dia seguinte ao da sua publicação, exceptuando o Capítulo VII, que entra em vigor 15 dias após a publicação do presente Regulamento.
+
+Município de Valongo, 19 de Abril de 2010. - O Presidente da Câmara Municipal, Dr. Fernando Horácio Moreira Pereira de Melo.
+
+Observações:
+
+Disposições transitórias:
+
+Na reunião da Câmara Municipal de 13 de Abril 2010 foi aprovada a seguinte disposição transitória no que respeita à aplicação da tabela de taxas:
+
+a) Que, no corrente ano civil, da aplicação das taxas ora aprovadas, não resultem para os sujeitos passivos valores a pagar superiores em 50 % do que pagariam em resultado da aplicação das taxas revogadas.
+
+b) Assim, nos casos em que, da aplicação das taxas ora aprovadas, resultar uma liquidação superior àquele limite de 50 %, deve ser efectuado um desconto no valor liquidado de modo a que aquele limite seja respeitado.
+
+c) A partir de 1 de Janeiro de 2011, o limite de agravamento na liquidação passará para os 75 % e, a partir de 1 de Janeiro de 2012, serão abolidos os limites de agravamento agora estabelecidos.
+
+d) Porque não têm qualquer referencial com o passado, não se aplicam às taxas novas os limites supra referidos.
+
+Tabela de Taxas
+
+Quadro I
+
+Prestação de Serviços ao Público
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro II
+
+Ocupação do Domínio Público e Aproveitamento dos Bens de Utilização Pública
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+1 - Sempre que se presuma a existência de mais de um interessado, poderá a Câmara Municipal promover a arrematação em hasta ou por concurso público do direito de ocupação, fixando livremente a respectiva base de licitação.
+
+2 - Os ocupantes da via pública com quaisquer instalações são obrigados a manter e a deixar os locais limpos e asseados e são responsáveis pelos estragos ou prejuízos que causarem com as instalações.
+
+3 - Para garantia do disposto no ponto anterior poderá a Câmara Municipal exigir uma caução de montante a fixar, caso a caso, por despacho do Presidente da Câmara, mediante informação dos competentes serviços Municipais.
+
+Quadro III
+
+Taxas pela utilização de outros bens de utilização pública
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro IV
+
+Condução e Trânsito de Veículos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Ficam isentos das taxas estabelecidas neste capítulo os deficientes motores, incapacitados de se deslocarem pelos seus próprios meios, desde que os seus veículos se destinem exclusivamente ao seu transporte.
+
+Quadro V
+
+Exercício da Actividade de Transportes de Aluguer em Veículos Ligeiros de Passageiros
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro VI
+
+Publicidade e Propaganda Comercial
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+1 - As taxas são devidas sempre que a Publicidade e ou a Propaganda Comercial sejam visíveis ou perceptíveis do espaço público, mesmo quando instalada ou emitida em espaços privados, entendendo-se para esse efeito como espaço público as ruas, estradas, caminhos, praças, avenidas e todos os demais lugares por onde transitem livremente peões e veículos.
+
+2 - Sendo a Publicidade e ou a Propaganda Comercial total ou parcialmente escritos em língua estrangeira, salvo no que respeita a firmas ou marcas, as taxas de licença serão do dobro das normais.
+
+3 - As licenças da Publicidade e ou da Propaganda Comercial fixos são concedidas apenas para o local ou locais especificados na correspondente licença.
+
+4 - No mesmo suporte de Publicidade e ou de Propaganda Comercial será utilizado mais de um processo de medição quando, só assim, se puder determinar a taxa a cobrar.
+
+5 - Nos suporte de Publicidade e ou de Propaganda Comercial volumétricos a medição faz-se pela superfície exterior.
+
+6 - Consideram-se incluídos no suporte de Publicidade e ou de Propaganda Comercial os dispositivos destinados a chamarem a atenção do público.
+
+7 - Os trabalhos de instalação de suporte de Publicidade e ou de Propaganda Comercial devem obedecer aos condicionamentos de segurança indispensáveis, não são passíveis de taxa de licença de obras, mas deverá ser comunicado o início da sua instalação para verificação do cumprimento das condições da licença e da segurança de pessoas e bens.
+
+8 - A publicidade fixa em veículos que transitem por vários concelhos apenas é licenciada pelo Município de Valongo aquela em que os interessados tenham neste sede social ou a sua residência permanente.
+
+9 - Não estão sujeitos a licença:
+
+a) Os dizeres que resultem de disposição legal.
+
+b) A indicação da marca, do preço ou da qualidade colocados nos artigos em exposição para venda.
+
+c) Os distintivos de qualquer natureza, destinados a indicar que nos estabelecimentos onde estejam apostos, se concedam regalias inerentes à utilização de sistemas de crédito, ou outros análogos, criados com o fim de facilitar viagens turísticas.
+
+d) As montras apenas com acesso pelo interior dos estabelecimentos ou que não tenham saliência superior a 10 cm sobre a via pública.
+
+e) Os anúncios respeitantes a serviços de transportes colectivos públicos concessionados.
+
+f) Os anúncios destinados à indicação da localização de farmácias e de postos clínicos de funcionamento permanente.
+
+10 - Quando a Publicidade e ou a Propaganda Comercial, sejam suportados por dispositivos instalados ou projectados sobre a via pública, além da taxa devida pela publicidade, será também devida a taxa prevista pela ocupação da via pública, exceptuando-se os anúncios referidos no ponto 1, quando os dispositivos publicitários sejam fixados nas paredes dos edifícios, e a exposição referida no ponto 2.
+
+Quadro VII
+
+Mercados e Feiras
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+O funcionamento dos mercados e cobrança das respectivas taxas veja-se o respectivo Regulamento.
+
+Quadro VIII
+
+Ocupação do domínio público
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro IX
+
+Pavilhões Desportivos Municipais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+1 - Ficam isentas do pagamento das taxas fixadas no presente artigo as escolas oficiais e as associações desportivas legalmente constituídas, com sede social na área do Município.
+
+2 - A isenção prevista no número anterior, cessa nos casos em que as associações desportivas pretendam utilizar os pavilhões para a prática de actividades sujeitas a pagamento de mensalidades ou quaisquer outras prestações, com excepção dos jogos oficiais.
+
+3 - Os pavilhões gimnodesportivos não poderão ser utilizados para fins diferentes daqueles a que se destinam, salvo para a realização de actividades culturais, recreativas ou outras promovidas ou apoiadas pela Câmara Municipal.
+
+Quadro X
+
+Campos de Ténis
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+1 - Não é permitida a utilização dos campos de ténis por mais de 2 pares em simultâneo.
+
+2 - Se dos elementos dos pares uns forem menores e outros maiores de 13 anos cada um deles pagará 50 % da taxa correspondente ao seu grupo etário.
+
+3 - A Câmara Municipal poderá celebrar protocolos de colaboração com outras entidades para a utilização dos Campos de Ténis, estabelecendo, caso a caso, as respectivas condições de utilização e de isenção ou redução das taxas
+
+Quadro XI
+
+Piscinas Municipais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+1 - A Câmara Municipal poderá celebrar protocolos de colaboração com outras entidades para a utilização das piscinas estabelecendo, caso a caso, as respectivas condições de utilização e de isenção ou redução das taxas.
+
+2 - Na utilização das piscinas municipais observar-se-ão as normas previstas no respectivo Regulamento.
+
+3 - O pagamento das taxas mensais devidas pela utilização das piscinas deverá ser efectuado até ao 5.º dia útil do correspondente mês de utilização.
+
+4 - O pagamento da taxa efectuado entre o 8.º e o 10.º dia útil do mês a que se refere está sujeita ao agravamento de 50 % previsto no artigo 31.º, n.º 1 do Regulamento.
+
+5 - Após o 10.º dia útil não haverá lugar a renovação da utilização, sendo obrigatório a reinscrição do utilizador e o pagamento das correspondentes taxas, sem prejuízo de serem exigíveis as taxas agravadas nos termos do ponto anterior se entretanto ocorreu utilização.
+
+Quadro XII
+
+Campos Municipais de Minigolfe
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro XIII
+
+Garagem Vallis Longus
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+1 - A taxa mensal será paga até ao primeiro dia do mês a que respeita.
+
+2 - A falta de pagamento no prazo estabelecido, será vedado o acesso à garagem, salvo se o interessado pretender pagar a taxa com o agravamento de 50 % estabelecido no artigo 31.º, n.º 1 do Regulamento.
+
+Quadro XIV
+
+Museu, Bibliotecas Municipais e Arquivo Municipal
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+O funcionamento do Museu Municipal, as Bibliotecas Municipais e o Arquivo Municipal obedecerá às disposições estabelecidas em regulamentos específicos
+
+Quadro XV
+
+Espaços Culturais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+O funcionamento dos Espaços Culturais obedecerá às disposições estabelecidas em regulamento específico
+
+Quadro XVI
+
+Afixação de Publicidade nos Recintos Desportivos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro XVII
+
+Serviços de Metrologia
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro XVIII
+
+Taxas devidas pela medição do ruído de incomodidade
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+1 - A taxa prevista será cobrada a título de caução, sendo o montante da mesma integralmente devolvido se vier a concluir-se, após medição, que ao reclamante assistia razão, caso em que a mesma será exigida ao responsável pelos ruído reclamado
+
+2 - Acrescem, à taxa prevista, os custos a efectuar pelo Município com a medição - deslocações e remuneração de peritos e outras despesas com materiais, equipamentos e administrativas.
+
+Quadro XIX
+
+Taxa pela licença especial de ruído
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro XX
+
+Taxas pela Recolha, Depósito e Tratamento de Lixos e Resíduos Sólidos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro XXI
+
+Utilização dos Serviços do Centro Veterinário Municipal
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro XXII
+
+Parque Paleozóico e Centro de Monitorização e Interpretação Ambiental
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro XXIII
+
+Taxas por actividades de espectáculos e divertimentos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro XXIV
+
+Exploração de máquinas de diversão
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro XXV
+
+Taxas pelo emprego de substâncias explosivas e utilização de fogo-de-artifício, outros artefactos e segurança
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro XXVI
+
+Danos em espaços ajardinados, mobiliário e equipamento urbano ou outros bens do domínio público ou privado municipal
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+1 - Acresce ao valor anterior o custo pela reposição ou reparação do bem, calculados tendo em consideração as remunerações/prestações de serviços, materiais, equipamentos e despesas administrativas necessários
+
+2 - Quando reposição ou reparação do bem não for possível ou os serviços municipais competentes entender não ser conveniente o valor dos custos a considerar serão os que se seriam suportados se aquela reposição ou reparação fosse efectivamente efectuada
+
+Quadro XXVII
+
+Taxas pela emissão e autenticação de horários de funcionamento
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro XXVIII
+
+Direitos de passagem
+
+Alínea b) do n.º 7 do artigo64.º da lei n.º 169/99 de 18 de Setembro com a redacção introduzida pela lei n.º 5-A/2002 Taxa Municipal de Direitos de Passagem - Artigo 106.º da lei n.º 5/2004 de 10 de Fevereiro
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+Quadro XXIX
+
+Taxas por Actividades Diversas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/081000000/2226822280.pdf)
+
+As taxas previstas no ponto 11 são as constantes da Portaria Governamental, sendo que as mesmas reverte em 50 % para o município e em 50 % para o Serviço de Estrangeiros e Fronteiras, nos termos do disposto no artigo 29.º da [Lei n.º 37/2006](https://diariodarepublica.pt/dr/detalhe/lei/37-2006-538604), de 9 Agosto.
+
+203170034

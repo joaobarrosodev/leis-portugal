@@ -1,0 +1,409 @@
+---
+schema_version: '1.0'
+id: pt:dre:108317808:por
+title: Regulamento n.º 560/2017
+short_title: null
+summary: Regulamento de Mobilidade Internacional do IPG
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Instituto Politécnico da Guarda
+proposing_entity: null
+official_number: 560/2017
+official_date: null
+publication_date: '2017-10-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 200/2017, Série II de 2017-10-17
+  number: '200'
+  series: II
+  supplement: null
+  pages: 23703 - 23706
+  pdf_url: https://files.diariodarepublica.pt/2s/2017/10/200000000/2370323706.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '108317808'
+  dre_path: /dr/detalhe/regulamento/560-2017-108317808
+  internal: pt:dre:108317808:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/560-2017-108317808
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/560-2017-108317808
+  consolidated_url: null
+  retrieved_at: '2026-11-13T06:24:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ba1e3350b6b3ba695e10e57daf361b05e773083fc43b903650193d8916005e89
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T06:24:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:3142499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3382424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:991696:por
+  label: null
+  source: null
+article_structure:
+  article_count: 18
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T06:24:15Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 560/2017
+
+No uso da competência prevista na alínea n), do n.º 1, do artigo 40.º dos Estatutos do Instituto Politécnico da Guarda, publicados através do [Despacho Normativo n.º 48/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/48-2008-3142499), no Diário da República, 2.ª série, n.º 171, de 4 de setembro, torna-se público que por despacho datado de 3 de outubro de 2017, do Presidente do Instituto Politécnico da Guarda, foi aprovada a alteração do Regulamento de Mobilidade Internacional do IPG, que se publica em anexo.
+
+6 de outubro de 2017. - O Presidente do IPG, Prof. Doutor Constantino Mendes Rei.
+
+## ANEXO — Regulamento de Mobilidade Internacional do Instituto Politécnico da Guarda
+
+Este regulamento visa operacionalizar as Boas Práticas na Organização da Mobilidade, pretendendo implementar medidas incentivadoras da internacionalização e da mobilidade, quer de Estudantes, Docentes ou Não Docentes.
+
+Procura-se deste modo reconhecer a mobilidade como fator essencial do processo de aquisição de competências e de preparação para a vida ativa e contribuir para a melhoria da qualidade do ensino e serviços ministrados no Instituto Politécnico da Guarda, uma vez que se promove uma melhor inserção da instituição no espaço europeu de ensino superior e no espírito decorrente do Processo de Bolonha.
+
+### CAPÍTULO I — Princípios gerais
+
+###### Artigo 1.º — Objeto
+
+O presente regulamento estabelece as condições gerais de funcionamento dos Programas de Mobilidade Internacional e os critérios de seleção de Estudantes, Docentes e Não Docentes do Instituto Politécnico da Guarda, adiante designado por IPG.
+
+###### Artigo 2.º — Âmbito
+
+1 - O presente regulamento aplica-se a todas as deslocações fora do território nacional ao abrigo de programas internacionais de mobilidade e estão abrangidos todos os Estudantes, pessoal Docente e não Docente do IPG.
+
+2 - O presente regulamento aplica-se, ainda, a todas as formações de nível superior ministradas no IPG, a saber Cursos Técnicos Superiores Profissionais (TeSP), Licenciaturas e Mestrados.
+
+###### Artigo 3.º — Gestão dos Programas
+
+1 - A coordenação e a gestão destes Programas de mobilidade é efetuada por um "Coordenador Institucional", designado para o efeito pelo Presidente de entre os Vice-Presidentes do IPG.
+
+2 - O Gabinete de Mobilidade e Cooperação, adiante designado por GMC, assegura a execução dos atos que, no âmbito daquela gestão, vierem a ser praticados, nomeadamente:
+
+a) Providenciar a atualização do link do GMC no sítio da instituição;
+
+b) Estabelecer e gerir os acordos bilaterais no âmbito da mobilidade;
+
+c) Manter atualizados e organizados os processos de mobilidade de todos os intervenientes em mobilidade;
+
+d) Preparar os contratos de mobilidade de Estudantes, Docentes e não Docentes, assim como fazer a gestão das bolsas de mobilidade que venham a ser atribuídas, de acordo com os critérios recomendados por cada programa de mobilidade;
+
+e) Implementar e alargar o relacionamento com outras instituições, de cariz internacional;
+
+f) Manter atualizadas bases de dados com o número de Estudantes, pessoal Docente e pessoal não Docente em mobilidade;
+
+g) Promover a divulgação dos programas de mobilidade junto da comunidade académica;
+
+h) Assegurar a informação conveniente aos interessados acerca das parcerias internacionais;
+
+i) Promover, com a colaboração dos Coordenadores Académicos das Escolas, a plena integração dos visitantes, quer sejam Estudantes, Docentes ou pessoal não Docente;
+
+j) Colaboração na promoção e coordenação de ações de cooperação com instituições internacionais;
+
+k) Apoiar a divulgação e realização de eventos e publicações a nível internacional;
+
+l) Coordenar e organizar eventos que auxiliem a integração de Docentes, não Docentes e Estudantes estrangeiros no IPG.
+
+3 - Em cada Escola, a gestão dos Programas de mobilidade é assegurada por um ou mais Docentes, designados "Coordenadores Académicos para a Internacionalização", cabendo a sua nomeação à Direção de cada uma das Escolas.
+
+4 - A nomeação deste Coordenador, bem como a sua eventual substituição, deve ser sempre comunicada ao GMC.
+
+5 - Compete a estes Coordenadores Académicos para a Internacionalização:
+
+a) Orientar os Estudantes previstos para mobilidade Outgoing na elaboração final do seu Plano de Estudos e aprovar, caso tudo esteja conforme, o Acordo de Estudos final que será enviado para aprovação da instituição de acolhimento;
+
+b) Analisar os processos de Estudantes Incoming verificando da exequibilidade do Plano de Estudos que apresentam e orientá-los sempre que devam existir alterações ao plano inicialmente proposto pela instituição de envio;
+
+c) Definir um horário de atendimento durante o qual seja possível aos Estudantes em mobilidade reunirem-se com o Coordenador e esclarecerem quaisquer dúvidas que possam surgir relativamente ao plano de estudos a cumprir durante o seu período de mobilidade. Para tal, deverá estar prevista a dispensa de duas horas por semana para atendimento e coordenação de todos os processos de mobilidade em curso;
+
+d) Intermediar e acompanhar, sempre que possível e em colaboração com o GMC e com a coordenação da Unidade Técnico-Científica respetiva, as visitas Docentes e não Docentes à sua Escola de origem.
+
+6 - Ao assinar e aprovar os Acordos de Estudos os Coordenadores Académicos estão a assumir plena responsabilidade pelo futuro reconhecimento do plano de estudos dos Estudantes Outgoing, ou a assumir que será possível a frequência das unidades curriculares constantes nos Acordos de Estudos enviados para análise e aprovação, no caso dos Estudantes Incoming.
+
+### CAPÍTULO II — Mobilidade de Estudantes
+
+###### Artigo 4.º — Candidatura aos Programas de Mobilidade
+
+1 - Os Programas de mobilidade internacional oferecem aos Estudantes a possibilidade de efetuar um período de Estudos/Estágio, com pleno reconhecimento académico, com uma duração mínima de três meses (Estudos) ou 2 meses (Estágio) e máxima de um ano letivo completo, numa instituição de outro país elegível para estes Programas.
+
+2 - Podem usufruir destes programas de mobilidade os Estudantes que:
+
+a) Estejam regularmente inscritos num curso ministrado na sua Instituição de ensino;
+
+b) Tenham frequentado pelo menos um ano no ensino superior;
+
+c) Já tenham beneficiado de bolsas de mobilidade internacional, desde que não tenham efetuado um período máximo de 12 meses de mobilidade (estudos e estágio), por ciclo de estudos;
+
+d) Recém-diplomados até um ano após a conclusão do respetivo curso, desde que não tenham efetuado um período máximo de 12 meses de mobilidade (estudos e estágio), por ciclo de estudos.
+
+3 - Os Estudantes interessados em participar em qualquer dos Programas de Mobilidade Internacional deverão candidatar-se de acordo com as datas definidas para tal, as quais são oportunamente divulgadas no link de apresentação do GMC, no sítio da instituição.
+
+4 - Na seleção dos Estudantes, os fluxos de mobilidade serão distribuídos equitativamente pelas Escolas do IPG, sendo que:
+
+a) 50 % dos fluxos de mobilidade aprovados anualmente serão atribuídos a Estudantes bolseiros dos Serviços de Ação Social;
+
+b) 50 % dos fluxos de mobilidade aprovados anualmente serão atribuídos aos restantes Estudantes.
+
+5 - Em cada contingente os Estudantes serão seriados de acordo com o seguinte critério:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2017/10/200000000/2370323706.pdf)
+
+em que:
+
+C - Classificação ponderada;
+
+(somatório) ECTS ap - Somatório dos ECTS das UC em que o Estudante obteve aprovação até ao fim do semestre anterior à candidatura;
+
+(somatório) ECTS ce - - Somatório dos ECTS do ciclo de estudos;
+
+CMed - Classificação média das UC aprovadas até ao fim do semestre anterior à candidatura, arredondada até às centésimas.
+
+6 - Em caso de empate, aplicar-se-ão os seguintes critérios, sucessivamente:
+
+a) Média da classificação das UC's obtidas até ao semestre anterior ao da candidatura, arredondada às centésimas;
+
+b) Ano de matrícula, preferindo os Estudantes do último ano curricular do respetivo ciclo de estudos.
+
+7 - Serão ainda tidos em conta, quando necessário, os seguintes fatores:
+
+a) Competência linguística na língua estrangeira que servirá como língua de trabalho, que será aferida pela realização de um teste de nível;
+
+b) Grau de motivação e capacidade de adaptação.
+
+8 - No caso de persistirem fluxos de mobilidade por preencher numa Escola e/ou contingente, aplicam-se os seguintes critérios de reversão de fluxos:
+
+a) Os fluxos não ocupados numa Escola/contingente reverterão para outro contingente na mesma Escola;
+
+b) Os fluxos não ocupados numa escola revertem para uma outra Escola, aplicando-se neste caso os critérios de seriação previstos no n.º 5.
+
+###### Artigo 5.º — Acordo de Estudos/Acordo de Estágio
+
+1 - Todos os Estudantes que são selecionados para um programa de mobilidade devem elaborar um Acordo de Estudos/Estágio com o apoio e orientação do seu Coordenador Académico para a Internacionalização.
+
+2 - No Acordo de Estudos, o Estudante outgoing poderá propor a frequência de unidades curriculares em atraso, desde que esteja devidamente inscrito nas mesmas. No caso de estas unidades curriculares pertencerem a diferentes semestres do ano letivo em curso, poderá o Estudante inscrever-se para a sua frequência na mobilidade que vai realizar, desde que:
+
+a) Para unidades curriculares do 1.º semestre: o Estudante tenha esgotado todos os meios de avaliação e aprovação das mesmas no IPG;
+
+b) Para disciplinas do 2.º semestre: ainda que o Estudante faça a sua mobilidade no 1.º semestre poderá inscrever-se em disciplinas que viria a frequentar apenas no 2.º semestre, ficando a nota que obtiver no seguimento da sua mobilidade "suspensa" até ao lançamento final das notas correspondente ao ano letivo em curso.
+
+3 - Não será permitido ao Estudante propor disciplinas no seu Acordo de Estudos que integrem o plano curricular do seu curso em ano em que o Estudante não esteja ainda inscrito.
+
+4 - Na elaboração do Acordo de Estudos deverá ser tido em conta não apenas o conteúdo programático de cada unidade curricular mas também o n.º de ECTS que lhe está atribuído na IES de acolhimento.
+
+5 - Poderão os Coordenadores Académicos das Escolas decidir que uma unidade curricular no IPG deverá equivaler a mais do que uma na Instituição de Ensino Superior de Acolhimento, não sendo aconselhável, porém, que estas ultrapassem no seu total o valor de ECTS que estão atribuídos na unidade curricular lecionada no IPG.
+
+6 - Em conformidade com o disposto no regulamento escolar do Instituto Politécnico da Guarda o acordo do plano de estudos de Estudantes em mobilidade não pode ultrapassar por semestre o valor máximo de 40 ECTS.
+
+7 - Este Acordo de Estudos/Estágio torna-se efetivo depois de aprovado e assinado pelo Coordenador Académico da Escola e será remetido para a Instituição de Acolhimento que definirá a sua aprovação final ou a necessidade de eventuais alterações a realizar.
+
+8 - Este procedimento deverá estar concluído antes do início da mobilidade do Estudante e a Instituição de Acolhimento deverá manifestar a aceitação por escrito relativamente a cada um dos Estudantes que prevê receber.
+
+9 - Poderá ser feita qualquer alteração ao Acordo de Estudos/Estágio, após a chegada do Estudante ao país de acolhimento, no prazo máximo de 30 dias a contar da data de chegada do Estudante, confirmada pelo envio por parte da IES de acolhimento da sua Confirmação de Chegada.
+
+###### Artigo 6.º — Estágios para Recém-diplomados
+
+1 - Poderão ser elegíveis para mobilidade de Estágio os recém-diplomados que tenham concluído o seu ciclo de estudos no ano imediatamente anterior ao da candidatura.
+
+2 - Os candidatos serão seriados, de forma equitativa, pelas Escolas do IPG que frequentaram.
+
+3 - No processo de candidatura, o candidato deverá apresentar os seguintes documentos:
+
+a) Curriculum Vitae (preferencialmente em modelo EUROPASS);
+
+b) Carta de motivação na língua do país onde pretende realizar o estágio ou, em alternativa, em língua inglesa;
+
+c) Indicação da empresa/instituição onde pretende realizar o estágio;
+
+d) Planos de estágio.
+
+4 - O período de estágio poderá ser de 2 a 12 meses e deverá estar terminado um ano após a conclusão do curso.
+
+5 - Os candidatos serão seriados, sequencialmente, de acordo com os seguintes critérios e prioridades:
+
+a) Diplomado que nunca tenha realizado mobilidade durante o ciclo de estudos;
+
+b) Diplomado que tenha realizado mobilidade de estudos, mas não mobilidade de estágio durante o ciclo de estudos;
+
+c) Diplomado que tenha realizado mobilidade de estágio, mas não mobilidade de estudos durante o ciclo de estudos;
+
+d) Diplomado que tenha realizado mobilidade de estudos e estágio durante o ciclo de estudos.
+
+6 - Em caso de empate na seriação, serão utilizados os seguintes critérios de desempate:
+
+a) Duração do plano de estágio, sendo dada preferência aos candidatos que realizem um período de estágio igual e superior a 4 meses;
+
+b) Classificação final do ciclo de estudos mais elevada;
+
+c) Menor número de inscrições no ciclo de estudos que finalizou.
+
+7 - Para poder beneficiar destes estágios, o candidato deverá inscrever-se na modalidade de "disciplina isolada - Estágio", preenchendo o respetivo boletim de inscrição para poder usufruir do seguro escolar e respetivos procedimentos administrativos e financeiros.
+
+8 - No final do seu período de estágio, o recém-licenciado terá direito a uma declaração comprovativa da realização do seu estágio internacional mediante entrega prévia no GMC de um comprovativo da mobilidade realizada na entidade de acolhimento.
+
+###### Artigo 7.º — Reconhecimento Académico
+
+1 - Após o seu regresso, o Estudante deverá ver reconhecido o seu período de mobilidade, através da Transcrição de Notas enviada pela IES de Acolhimento, assim como da sua Confirmação do Período de Mobilidade.
+
+2 - O IPG deve dar reconhecimento académico do aproveitamento obtido pelo Estudante durante o seu período de mobilidade.
+
+3 - Nos casos em que o estágio e/ou unidades curriculares não fazem parte do plano de estudos que o Estudante tem de cumprir, deverá ser garantido o seu reconhecimento através do seu registo no Suplemento ao Diploma.
+
+###### Artigo 8.º — Desistência da Mobilidade
+
+1 - Em caso de desistência da mobilidade, os Estudantes deverão preencher uma declaração de desistência a ser disponibilizada pelo GMC. A Instituição de Acolhimento para onde havia sido selecionado o Estudante será informada posteriormente sobre a desistência do Estudante.
+
+2 - Caso a desistência venha a ocorrer já em pleno período de mobilidade, o Estudante:
+
+a) Poderá retomar a frequência na instituição de envio (IPG) desde que a sua situação académica esteja devidamente regularizada (inscrição e pagamento de propinas);
+
+b) Caso lhe tenha sido atribuída uma bolsa de mobilidade, deverá devolver na íntegra o valor correspondente a essa subvenção.
+
+3 - A situação prevista na alínea b) do número anterior, poderá ser analisada e decidida de forma diferente, a nível superior, caso a desistência não tenha sido por motivos imputáveis ao Estudante, mas sim considerados de força maior.
+
+### Capítulo III — Mobilidade de Docentes para Missões de Ensino
+
+###### Artigo 9.º — Candidatura
+
+1 - Os Programas de mobilidade internacional oferecem aos Docentes a possibilidade de efetuar uma missão de ensino, com uma duração mínima de 8 horas, preferencialmente distribuídas ao longo de uma semana, e com uma duração máxima de 2 meses, dependendo do Programa de Mobilidade Internacional.
+
+2 - Podem candidatar-se a estes programas de mobilidade os Docentes que:
+
+a) Sejam Funcionários do IPG (independentemente do tipo de contrato e da sua duração);
+
+b) Apresentem um programa de ensino que seja previsível obter a aprovação da Instituição de Ensino Superior de Acolhimento.
+
+3 - Os Docentes interessados em participar em qualquer dos Programas de mobilidade internacional deverão candidatar-se, de acordo com as datas definidas para tal, as quais são divulgadas no link de apresentação do GMC e no sítio da instituição.
+
+4 - Os candidatos são selecionados de acordo com a seguinte ordem de preferência:
+
+a) Os Docentes que nunca realizaram uma mobilidade internacional;
+
+b) Os Docentes que realizaram, em anos anteriores, mobilidade com bolsa zero, sendo ordenadas preferencialmente as mobilidades mais antigas;
+
+c) Caso o Docente já tenha concretizado uma mobilidade internacional, terá prioridade quem a realizou há mais tempo;
+
+d) Ser Docente da instituição a tempo integral ou em exclusividade, sendo dada prioridade à antiguidade em funções.
+
+e) Poderão ser analisadas, casuisticamente, candidaturas de Docentes que lecionam cursos que possam ter sido considerados críticos em termos de Internacionalização nos processos de acreditação por parte da A3ES.
+
+5 - Caso a candidatura do Docente venha a ser aceite pela Instituição de Acolhimento, o Docente deverá providenciar no sentido de garantir que, durante a sua ausência, o seu serviço ficará assegurado.
+
+6 - No caso de existirem apoios financeiros inerentes aos Programas de Mobilidade Internacional, se o limite tiver sido ultrapassado e o Docente manifestar interesse em realizar a sua mobilidade, poderá fazê-lo com "bolsa zero".
+
+###### Artigo 10.º — Missão de Ensino
+
+1 - Depois de selecionado para a mobilidade, deverá o Docente preparar o seu Programa de Ensino, em modelo a disponibilizar pelo GMC, o qual será enviado posteriormente à instituição de acolhimento para aprovação final da visita Docente assim como a definição das datas para a sua realização.
+
+2 - No regresso da sua Mobilidade, o Docente deverá entregar a sua Confirmação de Missão Docente, em modelo a disponibilizar pelo GMC, onde deverão constar os dias e o n.º de horas total lecionado na Instituição de Acolhimento.
+
+###### Artigo 11.º — Reconhecimento Académico
+
+1 - A missão de ensino dos Docentes pode ser reconhecida em termos académicos para efeitos de avaliação de desempenho.
+
+###### Artigo 12.º — Desistência da Mobilidade
+
+1 - A eventual desistência deverá ser comunicada por escrito ao GMC.
+
+2 - A desistência não dispensa o Docente em causa do cumprimento das obrigações acessórias que haja previamente assumido perante o estabelecimento de destino, como por exemplo o pagamento de reserva de alojamento.
+
+### CAPÍTULO IV — Mobilidade de Pessoal Para Formação
+
+###### Artigo 13.º — Candidatura
+
+1 - Os Programas de mobilidade internacional oferecem ao pessoal Docente e não Docente a possibilidade de efetuar um programa de trabalho, com uma duração mínima de 2 dias de trabalho e máxima de 2 meses.
+
+2 - Podem candidatar-se a estes programas de mobilidade o Pessoal Docente e Não Docente que:
+
+a) Seja Funcionário do IPG (independentemente do tipo de contrato e da sua duração);
+
+b) Apresente um programa de trabalho que seja previsível obter a aprovação da IES de acolhimento.
+
+3 - Os interessados em participar neste tipo de mobilidade internacional deverão candidatar-se, de acordo com as datas definidas para tal, as quais são divulgadas no link de apresentação do GMC e no sítio da instituição.
+
+4 - Os candidatos são selecionados de acordo com a seguinte ordem de preferência:
+
+a) Os Funcionários que nunca realizaram uma mobilidade internacional;
+
+b) Os Funcionários que realizaram, em anos anteriores, mobilidade com bolsa zero, sendo ordenadas preferencialmente as mobilidades mais antigas;
+
+c) Caso o Funcionário já tenha concretizado uma mobilidade internacional, terá prioridade quem a realizou há mais tempo;
+
+d) A antiguidade em funções na instituição.
+
+5 - Depois de a sua candidatura ser aceite pela Instituição de Acolhimento, o Funcionário deverá providenciar no sentido de garantir que, durante a sua ausência, o seu serviço ficará assegurado.
+
+6 - No caso de existirem apoios financeiros inerentes aos Programas de Mobilidade Internacional, se o limite tiver sido ultrapassado e o funcionário manifestar interesse em realizar a sua mobilidade, poderá fazê-lo com "bolsa zero".
+
+###### Artigo 14.º — Programa de Trabalho/Formação
+
+1 - Depois de selecionado para a mobilidade, deverá o Funcionário preparar o seu Programa de Trabalho, em modelo a disponibilizar pelo GMC, o qual será enviado posteriormente à instituição de acolhimento para aprovação final da visita de formação assim como a definição das datas para a sua realização.
+
+2 - No regresso da sua Mobilidade, o Funcionário deverá entregar a sua Confirmação de Missão de Formação, em modelos a disponibilizar pelo GMC, onde deverá constar o n.º de dias que trabalhou na Instituição de Acolhimento, e um breve Relatório Narrativo das atividades desenvolvidas e os contactos estabelecidos durante a sua mobilidade.
+
+###### Artigo 15.º — Reconhecimento Profissional
+
+1 - Os períodos utilizados na missão de formação internacional deverão ser reconhecidos como trabalho efetivo realizado na instituição, não devendo ser exigida ao Funcionário a reposição das respetivas horas de trabalho.
+
+2 - A mobilidade internacional dos Funcionários pode ser reconhecida, em termos profissionais, para efeitos de avaliação de desempenho.
+
+###### Artigo 16.º — Desistência da Mobilidade
+
+1 - A eventual desistência deverá ser comunicada por escrito ao GMC.
+
+2 - A desistência não dispensa o Funcionário em causa do cumprimento das obrigações acessórias que haja previamente assumido perante o estabelecimento de destino, como por exemplo o pagamento de reserva de alojamento.
+
+### Capítulo V — Disposições Finais
+
+###### Artigo 17.º — Norma revogatória e entrada em vigor
+
+1 - O presente regulamento revoga o [Regulamento n.º 85/2014](https://diariodarepublica.pt/dr/detalhe/regulamento/85-2014-3382424), publicado no Diário da República n.º 42, 2.ª série, de 28 de fevereiro, retificado através da [Declaração de Retificação n.º 284/2014](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/284-2014-991696), publicada no Diário da República n.º 51, 2.ª série, de 13 de março.
+
+2 - O presente regulamento entra em vigor no dia seguinte à sua aprovação pelo Presidente do IPG.
+
+###### Artigo 18.º — Omissões, dúvidas e situações de litígio
+
+As omissões e dúvidas relacionadas com o presente regulamento serão resolvidas por decisão do Presidente do IPG.
+
+310832643

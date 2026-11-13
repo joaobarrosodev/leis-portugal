@@ -1,0 +1,911 @@
+---
+schema_version: '1.0'
+id: pt:dre:1742885:por
+title: Regulamento n.º 462/2011
+short_title: null
+summary: Alterações ao Regulamento do Serviço Público Municipal de Abastecimento de Água nos Concelhos de Santo Tirso e Trofa
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município da Trofa
+proposing_entity: null
+official_number: 462/2011
+official_date: null
+publication_date: '2011-07-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 145/2011, Série II de 2011-07-29
+  number: '145'
+  series: II
+  supplement: null
+  pages: 31559 - 31568
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/07/145000000/3155931568.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1742885'
+  dre_path: /dr/detalhe/regulamento/462-2011-1742885
+  internal: pt:dre:1742885:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/462-2011-1742885
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/462-2011-1742885
+  consolidated_url: null
+  retrieved_at: '2026-11-13T04:54:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 94ef87553f2fbfc8ed2f918cd37fa8c5d8b2ea3b7b912172f6a882bfcd8607b0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T04:54:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:247453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+article_structure:
+  article_count: 57
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T04:54:05Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 462/2011
+
+Joana Fernanda Ferreira de Lima, Presidente da Câmara Municipal da Trofa:
+
+Torna público, para efeitos do disposto no n.º 5 do artigo 62.º do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de Agosto que, a Assembleia Municipal da Trofa, em sessão ordinária de 30 de Junho de 2011, aprovou, sob proposta do executivo camarário de 17 de Junho do corrente ano, as alterações ao Regulamento do Serviço Público Municipal de Abastecimento de Água nos Concelhos de Santo Tirso e Trofa, as quais entrarão em vigor dez dias após a sua publicação na 2.ª série do Diário da República.
+
+Mais torna público que, em cumprimento do disposto no n.º 3 do artigo 62.º do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de Agosto foi o referido projecto de alterações submetido a consulta pública, pelo período de 30 dias úteis
+
+Procede-se, a seguir, à publicitação do Regulamento do Serviço Público Municipal de Abastecimento de Água nos Concelhos de Santo Tirso e Trofa, coma as alterações introduzidas.
+
+E, para constar e para os devidos efeitos legais, vai o presente edital e outros com igual teor, ser afixados no átrio dos Paços do Concelho e demais lugares de estilo, na página de Internet do Município - www.mun-trofa.pt, bem como publicado na 2.ª série do Diário da República e ainda na página de Internet da concessionária INDÁQUA - Indústria de Gestão de águas www.indaqua.pt/santo-tirso-trofa.
+
+19 de Julho de 2011. - A Presidente da Câmara, Joana Lima.
+
+Regulamento do Serviço Público Municipal de Abastecimento de Água dos Concelhos de Santo Tirso e Trofa
+
+Introdução
+
+1 - No exercício das competências previstas na alínea a) do n.º 2 do artigo 53.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, é elaborado, nos termos do artigo 2.º, n.º 2 do [Decreto Regulamentar n.º 23/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1995-431873) de 23 de Agosto, nos termos do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de Agosto, o artigo 15.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, o artigo 3.º da Lei n.º 555/99, de 16 de Dezembro (com a redacção resultante das alterações introduzidas pela [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro e pela [Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/lei/18-2008-249977), de 29 de Janeiro, o Regulamento do Serviço Público Municipal de Abastecimento de Água dos concelhos de Santo Tirso e da Trofa.
+
+2 - A Câmara Municipal de Santo Tirso (ou Câmara Municipal) atribuiu a gestão e exploração do Serviço Público de Abastecimento de Água à Entidade Gestora ao abrigo do Contrato de Concessão do Serviço Público Municipal de Abastecimento de Água na área de intervenção da concessão, celebrado em 28 (vinte e oito) de Dezembro de 1998, e aditado em 25 (vinte e cinco) de Novembro de 2003 e em 1 (um) de Julho de 2011.
+
+3 - A Entidade Gestora é a INDAQUA SANTO TIRSO/TROFA - Gestão de Águas de Santo Tirso e Trofa, S. A., com sede na cidade de Santo Tirso, Rua Luís de Camões, n.º 49, com capital social de 3.500.000 euros, pessoa colectiva n.º 504.745.727, matriculada na Conservatória do Registo Comercial de Santo Tirso sob o n. 504.745.727, com poderes outorgados para desempenhar as acções deste Regulamento.
+
+### CAPÍTULO I — Generalidades
+
+###### Artigo 1.º — Objecto do Regulamento
+
+O Objectivo do presente Regulamento é definir e estabelecer as regras e condições da prestação do Serviço Público de Abastecimento de Água na área de intervenção da concessão.
+
+###### Artigo 2.º — Definições
+
+Câmara Municipal significa a Câmara Municipal de Santo Tirso ou a Câmara Municipal da Trofa.
+
+Comissão de Acompanhamento da Concessão é a comissão constituída nos termos e para os efeitos do artigo 44.º do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de Agosto.
+
+Contador ou Medidor de Caudal é o dispositivo que tem por finalidade a determinação do volume de água utilizada, podendo, conforme os modelos, fazer a leitura do caudal instantâneo e do volume utilizado ou apenas deste e ainda registar esses volumes.
+
+Contrato de Fornecimento de Água é o contrato celebrado entre a Entidade Gestora e qualquer pessoa, singular ou colectiva, pública ou privada, pelo qual é estabelecida entre as partes uma relação de prestação, permanente ou eventual, do Serviço, nos termos e condições constantes do presente Regulamento.
+
+Entidade Titular é a Câmara Municipal de Santo Tirso ou a Câmara Municipal da Trofa
+
+Entidade Gestora é a INDAQUA Santo Tirso/Trofa, tendo-lhe sido atribuída a gestão e exploração do Serviço Público Municipal de Abastecimento de Água por Contrato de Concessão do Serviço Público Municipal de Abastecimento de Água nos concelhos de Santo Tirso e Trofa, celebrado em 28 (vinte e oito) de Dezembro de 1998, e aditado em 25 (vinte e cinco) de Novembro de 2003 e em 1 (um) de Julho de 2011.
+
+ERSAR é a Entidade Reguladora dos Serviços de Águas e Resíduos que é a entidade reguladora desses serviços em Portugal.
+
+Factura é o documento comercial emitido pela Entidade Gestora onde são discriminados todos os serviços por ela prestados, bem como outras taxas ou tarifas cobradas por conta e ordem da entidade titular ou do Estado, e impostos que sejam aplicáveis.
+
+Factura-recibo é o documento comercial emitido pela Entidade Gestora onde são discriminados todos os serviços por ela prestados, bem como outras taxas ou tarifas cobradas por conta e ordem da entidade titular ou do Estado, e impostos que sejam aplicáveis, sendo considerada recibo após boa cobrança.
+
+Grande Utilizador é a pessoa individual ou colectiva ainda que irregularmente constituída, que em virtude da celebração do contrato de fornecimento, consome água do Sistema Público de Abastecimento de Água e cujo consumo mensal expectável seja superior a 1500 m3.
+
+Ligação ao Sistema Público é a ligação física entre o Sistema de Distribuição Predial e o Sistema Público através do ramal de ligação e da instalação do contador.
+
+Ramal de Ligação é o troço de canalização, e respectivos acessórios, que assegura o abastecimento ao Sistema de Distribuição Predial de Água, compreendido entre os limites da propriedade a servir e o Sistema Público de Abastecimento de Água.
+
+Recibo é o documento de quitação da factura.
+
+Serviço Público de Abastecimento de Água ou Serviço, significa a exploração e gestão do Sistema Público Municipal de Abastecimento de Água dos Concelhos de Santo Tirso e da Trofa.
+
+Sistema de Distribuição Predial de Água é constituído pelos dispositivos de utilização, pelas canalizações e respectivos acessórios e pelos equipamentos complementares instalados a jusante do Ramal de Ligação.
+
+Sistema Público de Abastecimento de Água ou Sistema Público é o conjunto de infra-estruturas e instalações que permitem a distribuição de água destinada a consumo público na área de intervenção da concessão, com excepção das que se encontram a montante dos pontos de entrega de água da entidade fornecedora responsável pelo fornecimento de água em alta.
+
+Tarifa Fixa é o valor aplicado em função do intervalo temporal durante o qual o serviço se encontra disponibilizado ao Utilizador visando remunerar a Entidade Gestora pelos custos fixos incorridos na construção, conservação e manutenção dos sistemas necessários à prestação do serviço.
+
+Tarifa Variável é o valor ou conjunto de valores unitário aplicável em função do nível de utilização do serviço, em cada intervalo temporal visando remunerar a Entidade Gestora pelos custos incorridos com a prestação do serviço.
+
+Tarifas de serviços auxiliares de abastecimento de água são as tarifas devidas por outros serviços prestados e que englobam as seguintes: taxa de incumprimento de prazo de pagamento, suspensão e reinício da ligação por incumprimento do utilizador, suspensão da ligação a pedido do utilizador, verificação do contador a pedido do utilizador, ligação para fornecimentos provisórios, abertura e fecho de água a pedido do utilizador, leitura extraordinária a pedido do utilizador, encargos com aviso de corte, suspensão e ligação a pedido do utilizador, análise de projectos de obras particulares, informação sobre o sistema público de abastecimento, vistoria a sistema predial a pedido do utilizador, água avulso e mudança de local do contador.
+
+Utilizador é a pessoa singular ou colectiva, pública ou privada, a que sejam assegurados, de forma continuada, os Serviços, na sequência da celebração de contrato de fornecimento de água com a Entidade Gestora, e que não tenham como objecto da sua actividade a prestação dos mesmos serviços a terceiros.
+
+Utilizador Doméstico é todo aquele que celebre contrato de fornecimento com a Entidade Gestora relativo a prédio urbano para fins habitacionais, com excepção das utilizações para as partes comuns, nomeadamente as dos condomínios.
+
+Utilizador não Doméstico é todo aquele que celebre contrato de fornecimento com a Entidade Gestora relativo a prédio urbano para fins não habitacionais, incluindo consumos de condomínio.
+
+### CAPÍTULO II — Serviço Público de Abastecimento de Água
+
+###### Artigo 3.º — Âmbito do Serviço
+
+1 - A Entidade Gestora fornecerá, em regime de exclusividade, água destinada ao consumo humano para consumo doméstico, não doméstico, ou outros, nas condições previstas por este Regulamento.
+
+2 - O abastecimento de água às indústrias e a instalações com finalidade de rega agrícola ou de jardins, fica condicionado à existência de reservas que não ponham em causa o consumo da população.
+
+3 - A água será distribuída pela Entidade Gestora e medida através de Contadores por ela instalados, devidamente selados.
+
+###### Artigo 4.º — Carácter ininterrupto do Serviço
+
+1 - O abastecimento de água será ininterrupto, excepto por motivos de execução de obras previamente programadas, ou em casos fortuitos ou de força maior, não tendo os Utilizadores nestes casos direito a qualquer indemnização.
+
+2 - Aquando da execução de obras previamente programadas, a Entidade Gestora informará com a devida antecedência a Câmara Municipal e os Utilizadores que eventualmente possam sofrer perturbações no abastecimento de água, ou qualquer transtorno pela modificação dessa prestação, sem prejuízo da tomada de medidas que estiverem ao seu alcance para minimizar os incómodos aos Utilizadores.
+
+###### Artigo 5.º — Obrigatoriedade de instalação e ligação
+
+1 - Qualquer pessoa cujo local de consumo se insira na área de intervenção da Entidade Gestora, tem direito à prestação do serviço sempre que o sistema infra-estrutural esteja localizado a uma distância igual ou inferior a 20 metros do limite da propriedade.
+
+2 - Todos os edifícios existentes ou a construir com acesso ao serviço de abastecimento público de água devem dispor de sistemas prediais de distribuição de água devidamente licenciados, de acordo com a legislação em vigor e estar ligados ao Sistema Público de abastecimento de Água.
+
+3 - Os proprietários ou usufrutuários são obrigados a instalar Sistemas de Distribuição Predial de Água, a requerer o ramal de ligação dos referidos sistemas ao Sistema Público de Abastecimento de Água e a solicitar a instalação do respectivo contador.
+
+4 - Os arrendatários dos prédios poderão requerer a ligação dos prédios por eles habitados ao Sistema Público de Abastecimento de Água, pagando o seu custo nos prazos estabelecidos no presente Regulamento, mediante apresentação de autorização do respectivo proprietário ou usufrutuário.
+
+5 - Para o efeito do disposto nos números anteriores, a Entidade comunicará por escrito aos proprietários, usufrutuários ou arrendatários a data de disponibilidade do Serviço.
+
+6 - Recebida a comunicação referida no n.º 4 anterior, os proprietários ou usufrutuários disporão de um prazo de 40 (quarenta) dias para requerer a respectiva ligação.
+
+7 - Para os prédios cujos limites de propriedade se encontrem a mais de 20 metros do Sistema Público, a Entidade Gestora fixará as condições em que poderá ser estabelecida a ligação, tendo em consideração os aspectos técnicos e financeiros.
+
+###### Artigo 6.º — Incumprimento da obrigatoriedade de instalação e ligação
+
+1 - Caso os proprietários ou usufrutuários, depois de devidamente notificados, não cumpram as obrigações impostas no artigo 5.º, a Entidade Gestora procederá, a expensas dos interessados, às respectivas ligações, executando o Ramal de Ligação e instalando o Contador.
+
+2 - O pagamento correspondente às despesas do número anterior será feito dentro do prazo de 30 (trinta) dias após a sua conclusão, findo o qual a Entidade Gestora à cobrança coerciva da importância devida.
+
+###### Artigo 7.º — Prédios não abrangidos pelo Sistema Público
+
+1 - Para os prédios situados fora das zonas abrangidos pelo Sistema Público de Abastecimento de Água, a Entidade Gestora fixará, com prévia aprovação da Câmara Municipal, as condições em que poderá ser estabelecida a ligação, tendo em consideração os aspectos técnicos e financeiros.
+
+2 - Se forem vários os proprietários, usufrutuários ou arrendatários a requererem determinada extensão do Sistema Público para o abastecimento de água dos seus prédios, o custo desta extensão, na parte que não é suportada pela Entidade Gestora, será distribuída por todos os proprietários, usufrutuários ou arrendatários proporcionalmente ao número e diâmetro nominal de Contadores a instalar, se outra modalidade não for julgada mais conveniente pelos interessados.
+
+3 - As extensões construídas nos termos deste artigo serão integradas no Sistema Público, mesmo no caso de a sua instalação ter sido feita a expensas dos interessados.
+
+4 - As extensões construídas nos termos deste artigo poderão ser executadas pelos interessados, desde que sejam seguidas as condições técnicas de execução fornecidas pela Entidade Gestora e desde que a obra seja vistoriada pela Entidade Gestora, contra pedido dos interessados.
+
+5 - Nos loteamentos situados em zonas onde a Entidade Gestora não tem prevista a execução de redes de abastecimento de água, a execução das infra-estruturas necessárias para efeitos de ligação dos respectivos sistemas prediais ao Sistema será da exclusiva responsabilidade e a expensas do respectivo loteador.
+
+###### Artigo 8.º — Responsabilidade da instalação e conservação
+
+1 - Compete à Entidade Gestora promover a instalação do Sistema Público de Abastecimento de Água, bem como a instalação dos Ramais de Ligação e dos Contadores.
+
+2 - Pela ligação ao Sistema Público de ramais com extensão superior a 20 metros serão cobradas aos requerentes as Tarifas de execução de Ramal de Ligação nos termos do tarifário em vigor.
+
+3 - A manutenção e a reparação do Sistema Público e dos Ramais de Ligação competem à Entidade Gestora, nos termos definidos no Contrato de Concessão, sem prejuízo da legislação em vigor.
+
+4 - Caso os proprietários, os usufrutuários ou os Utilizadores requeiram para o Ramal de Ligação modificações, devidamente justificadas, às especificidades estabelecidas pela Entidade Gestora, nomeadamente do traçado ou do diâmetro, compatíveis com as condições de exploração e manutenção do Sistema Público, pode esta dar-lhe satisfação, desde que aquele tome a seu cargo o acréscimo das respectivas despesas nos termos do tarifário em vigor.
+
+5 - O custo inerente à construção do ramal dedicado ao abastecimento de água é imputado ao Utilizador quando possui extensão superior a 20 metros, nos termos do tarifário em vigor.
+
+###### Artigo 9.º — Direitos dos Utilizadores
+
+1 - Os Utilizadores gozam de todos os direitos que derivam do presente Regulamento e das disposições legais em vigor aplicáveis, em particular dos seguintes:
+
+a) A pessoa cujo local de consumo se insira na área de influência da Entidade Gestora tem direito à prestação do serviço, sempre que o mesmo esteja disponível.
+
+b) Ao bom funcionamento global do Sistema de Abastecimento de Água, traduzido, na qualidade da água fornecida, mediante o cumprimento das exigências da legislação em vigor;
+
+c) À regularidade e continuidade do Serviço;
+
+d) À informação sobre todos os aspectos ligados aos Serviços e aos dados essenciais à boa execução dos projectos e obras nos Sistemas de Distribuição e Drenagem Predial;
+
+e) À reclamação dos actos e omissões da Entidade Gestora que possam prejudicar os seus direitos ou interesses legalmente protegidos.
+
+###### Artigo 10.º — Dever dos proprietários ou usufrutuários e dos Utilizadores
+
+1 - São deveres dos proprietários ou usufrutuários e dos Utilizadores:
+
+a) Cumprir as disposições do presente Regulamento, bem como de toda a legislação em vigor, na parte que lhes é aplicável;
+
+b) Não fazer uso indevido ou danificar qualquer componente do Sistema Público;
+
+c) Não proceder à execução de ligações ao Sistema Púbico sem autorização da Entidade Gestora;
+
+d) Não alterar o Ramal de Ligação;
+
+e) Não fazer uso indevido ou danificar os Sistemas de Distribuição Predial de Água;
+
+f) Manter em bom estado de funcionamento os aparelhos sanitários e os dispositivos de utilização;
+
+g) Avisar a Entidade Gestora eventuais anomalias nos Contadores;
+
+h) Não proceder a alterações nos Sistemas de Distribuição Predial de Água sem prévia autorização da Entidade Gestora;
+
+i) Manter em boas condições de conservação os Sistemas de Distribuição Predial de Água;
+
+j) Pagar pontualmente as importâncias devidas, nos termos do presente Regulamento e do Contrato de Fornecimento de Água e até ao termo deste;
+
+k) Cooperar com a Entidade Gestora para o bom funcionamento dos sistemas.
+
+2 - Além dos deveres constantes do número anterior, são os proprietários ou usufrutuários obrigados a dar cumprimento ao disposto no n.º 2 do artigo 5.º
+
+3 - Os proprietários ou usufrutuários dos prédios ligados ao Sistema Público, sempre que o Contrato de Fornecimento de Água não esteja em seu nome, se não comunicarem à Entidade Gestora, por escrito e no prazo de 30 (trinta) dias, tanto a saída definitiva dos arrendatários dos seus prédios como a entrada de novos arrendatários, assumem a responsabilidade dos valores que entretanto forem devidos à Entidade Gestora.
+
+4 - A colocação da(s) caixa(s)/nicho(s) do(s) contadores no limite confinante com a via pública, de acordo com o pormenor de caixa tipo da Entidade Gestora, antes da formalização do contrato de fornecimento de água.
+
+###### Artigo 11.º — Dever da Entidade Gestora
+
+Cabe à Entidade Gestora:
+
+a) Promover o estabelecimento e manter em bom estado de funcionamento e conservação o Sistema Público de Abastecimento de Água;
+
+b) Submeter os componentes do Sistema Público, antes de entrarem em serviço, a ensaios que assegurem a perfeição do trabalho executado;
+
+c) Garantir que a água distribuída para consumo, em qualquer momento, possua as características que a definam como água destinada ao consumo humano, tal como são fixadas na legislação em vigor;
+
+d) Garantir a continuidade do serviço, excepto por razões de obras programadas, ou em casos fortuitos ou de força maior sem prejuízo da tomada de medidas imediatas para resolver a situação e, em qualquer caso, com a obrigação de avisar os Utilizadores;
+
+e) Tomar as medidas necessárias para evitar danos nos Sistemas de Distribuição Predial de Água resultantes de pressão excessiva ou variação brusca de pressão no Sistema Público de Abastecimento de Água;
+
+f) Promover a instalação, substituição ou renovação dos Ramais de Ligação.
+
+###### Artigo 12.º — Interrupção do fornecimento de água
+
+1 - A Entidade Gestora poderá interromper o abastecimento de água ou fazer variar os níveis de pressão de serviço nos casos seguintes:
+
+a) Alteração da qualidade da água distribuída ou previsão da sua deterioração a curto prazo;
+
+b) Avarias ou obras no Sistema Público ou no Sistema de Distribuição Predial de Água, sempre que os trabalhos justifiquem essa suspensão;
+
+c) Ausência de condições de salubridade nos Sistemas de Distribuição Predial de Água;
+
+d) Casos fortuitos ou de força maior;
+
+e) Trabalhos de instalação, reparação ou substituição de Ramais de Ligação quando não seja possível recorrer a ligações temporárias;
+
+f) Obras ou modificações programadas das condições de exploração do Sistema Público;
+
+g) Falta, insuficiente abastecimento ou alteração da qualidade da água distribuída pela entidade fornecedora responsável pelo fornecimento de água em alta;
+
+h) Detecção de ligações clandestinas ao Sistema Público de Abastecimento de Água;
+
+i) Anomalias ou irregularidades no sistema predial detectadas pela Entidade Gestora no âmbito de inspecções ao mesmo;
+
+j) Mora do utilizador no pagamento dos consumos realizados, sem prejuízo da necessidade de aviso prévio, nos termos previstos na legislação aplicável;
+
+k) Quaisquer outras razões invocadas pela Entidade Gestora e julgadas atendíveis pela Câmara Municipal.
+
+2 - A Entidade Gestora deve, dentro do possível, informar antecipadamente a interrupção do fornecimento aos Utilizadores, salvo em casos fortuitos ou de força maior.
+
+3 - São considerados casos fortuitos ou de força maior, os acontecimentos imprevisíveis ou inevitáveis que impeçam a continuidade do serviço, apesar de tomadas pela Entidade Gestora a precauções normalmente exigíveis, não se considerando as greves como casos de força maior.
+
+4 - A Entidade Gestora deve comunicar aos Utilizadores com uma antecedência mínima de 48 horas qualquer interrupção programada no abastecimento de água.
+
+5 - Quando ocorrer qualquer interrupção não programada no abastecimento de água aos utilizadores, a Entidade Gestora deve informar os Utilizadores que o solicitem da duração estimada da interrupção, sem prejuízo da disponibilização desta informação no respectivo sítio da Internet e da utilização de meios de comunicação social, no caso de Utilizadores, tais como hospitais, tomar diligências específicas no sentido de mitigar o impacte dessa interrupção
+
+### CAPÍTULO III — Contratos de Fornecimento de Água
+
+###### Artigo 13.º — Contratos de Fornecimento de Água
+
+1 - O abastecimento de água será feito mediante Contrato de Fornecimento de Água com a Entidade Gestora, lavrado em modelo a ser fornecido pela Entidade Gestora.
+
+2 - Os Contratos de Fornecimento de Água poderão ser celebrados com proprietários, usufrutuários, arrendatários ou qualquer indivíduo ou entidade que disponha de título válido para a ocupação do imóvel e que legitime o uso e fruição do local de ligação.
+
+3 - A Entidade Gestora poderá recusar a celebração de contratos de fornecimento de água com novo Utilizador com base na existência de dívidas emergentes de contrato distinto com outro Utilizador que tenha anteriormente ocupado o mesmo imóvel quando seja manifesto que a alteração do titular do contrato visa o não pagamento do débito à Entidade Gestora.
+
+4 - No acto de celebração do Contrato de Fornecimento de Água serão comunicadas à Entidade Gestora a identificação fiscal do proprietário ou usufrutuário e respectivo domicílio, bem como a do artigo matricial do prédio, fracção ou parte, ou, tratando-se de prédio omisso, a indicação da data da entrega da declaração para a sua inscrição na matriz para cumprimento da legislação aplicável.
+
+5 - Do Contrato de Fornecimento de Água celebrado será entregue uma cópia ao Utilizador.
+
+6 - A Entidade Gestora inicia o fornecimento no prazo máximo de cinco dias úteis a contar da data da recepção do pedido de contrato de fornecimento com ressalva das situações de força maior.
+
+7 - A Entidade Gestora disponibiliza aos utilizadores, por escrito e no momento da celebração do contrato de fornecimento, as condições contratuais da prestação do serviço, incluindo informação clara e precisa acerca dos principais direitos e obrigações dos utilizadores e da Entidade Gestora, nomeadamente, quanto à medição, facturação, cobrança, condições de suspensão dos serviços, tarifário, reclamações e resolução de conflitos.
+
+###### Artigo 14.º — Contratos extraordinários
+
+1 - É admissível a celebração de contratos extraordinários que tenham por objecto o fornecimento de grande volume ou fornecimento provisório de água, os quais ficarão sujeitos às condições e ao regime de tarifação especiais a aprovar prévia e genericamente pela Câmara Municipal sob proposta da Entidade Gestora.
+
+2 - A Entidade Gestora poderá celebrar contratos de grande consumo, que tenham por objectivo o fornecimento de água para grandes Utilizadores, designadamente, nas áreas de indústria, comércio e assistência social.
+
+3 - A Entidade Gestora poderá celebrar contratos de fornecimento provisório de água na medida em que não resulte qualquer inconveniente para o Sistema Público de Abastecimento de Água nem para a distribuição e desde que as circunstâncias especiais do Utilizador o aconselhe, pressupondo a realização de ramais de ligação provisórios.
+
+4 - A Entidade Gestora poderá celebrar Contratos de Fornecimento de Água para luta contra incêndios pressupondo este a prévia celebração de um contrato ordinário ou de um contrato de grande consumo.
+
+###### Artigo 15.º — Caução
+
+1 - A Entidade Gestora poderá exigir a prestação de caução nas situações de restabelecimento do abastecimento de água, na sequência de suspensão decorrente de incumprimento contratual imputável ao Utilizador.
+
+2 - A caução poderá ser prestada em numerário, cheque ou transferência electrónica ou através de garantia bancária ou seguro-caução.
+
+3 - Não será prestada caução se, regularizada a dívida objecto do incumprimento, o Utilizador optar pela transferência bancária como forma de pagamento do Serviço.
+
+4 - Caso o Utilizador que opte por transferência bancária como forma de pagamento incorra num processo de devolução por conta sem saldo ou saldo insuficiente em duas, ou mais, facturas consecutivas, a Entidade Gestora poderá recusar esta forma de pagamento e exigir a prestação de caução caso se proceda ao restabelecimento do fornecimento na sequência de interrupção do abastecimento de água;
+
+5 - Sempre que o Utilizador, que haja prestado caução nos termos do n.º 1, opte posteriormente pela transferência bancária como forma de pagamento, a caução prestada será devolvida nos termos do artigo seguinte.
+
+6 - A Entidade Gestora poderá utilizar o valor da caução para satisfação dos valores em dívida, podendo exigir, por escrito, a sua reconstituição ou o seu reforço em prazo não inferior a 10 (dez) dias.
+
+7 - A utilização da caução impede a Entidade Gestora exercer o direito de suspensão, ainda que o montante da caução não seja suficiente para a liquidação integral do débito.
+
+8 - A suspensão poderá ter lugar nos termos do disposto no artigo 41.º se o Utilizador, na sequência da interpelação a que se refere o n.º 5, não vier a reconstituir ou reforçar a caução.
+
+9 - A Entidade Gestora passará recibo das cauções prestadas.
+
+###### Artigo 16.º — Restituição da caução
+
+1 - Findo o Contrato de Fornecimento de Água, por qualquer das formas legal e contratualmente estabelecidas, a caução prestada é restituída ao Utilizador, deduzida dos montantes eventualmente em dívida.
+
+2 - A quantia a restituir será actualizada em relação à data da sua última alteração, com base no índice anual de preços ao consumidor, publicado pelo Instituto Nacional de Estatística.
+
+3 - Para o levantamento da caução será suficiente a apresentação por qualquer portador do recibo referido no n.º 9 do artigo 15.º, exigindo-se igualmente para prova a exibição de um documento de identificação.
+
+4 - O reembolso da caução presume-se feito por conta e no interesse do titular, sendo da responsabilidade deste o seu eventual extravio.
+
+5 - Quando a caução não for levantada dentro do prazo de 2 (dois) anos, contados a partir da data de cessação do Contrato de Fornecimento de Água, será a mesma considerada abandonada pelo Utilizador, revertendo para a Entidade Gestora.
+
+###### Artigo 17.º — Suspensão da prestação do Serviço
+
+1 - A Entidade Gestora tem o direito de suspender a prestação do Serviço Público de Abastecimento de Água em qualquer das seguintes situações:
+
+a) Falta de pagamento por parte do Utilizador, nos casos, termos e condições referidos no artigo 41.º;
+
+b) Impossibilidade de acesso ao Contador, nos termos da legislação aplicável;
+
+c) Em caso de incumprimento por parte dos Utilizadores do disposto na última parte do n.º 1 do artigo 28.º;
+
+d) A impossibilidade da realização de vistorias às instalações interiores da edificação servida com vista à prevenção e repressão de acções que afectem a distribuição pública de água e a verificação da sua conformidade com as normas regulamentares em vigor e do respectivo estado de conservação e funcionamento;
+
+e) Por picagem ou realização de orifício de escoamento no Ramal de Ligação desde a sua tomada na conduta pública até ao Contador;
+
+f) Por modificação das condições de funcionamento do Contador ou violação dos selos chumbados;
+
+g) Em caso de venda ou cessão de água a terceiro, salvo em situações de reconhecida necessidade;
+
+h) Por ligação às tubagens interiores, a jusante do Contador, de qualquer máquina ou utensílio susceptível de afectar a distribuição pública ou de danificar o ramal de ligação.
+
+i) Quando o Utilizador usufruir de água proveniente de outra origem, com ligação ao Sistema Predial.
+
+2 - A Entidade Gestora poderá não restabelecer a prestação do Serviço quando existam débitos por regularizar da responsabilidade do Utilizador interessado.
+
+3 - A suspensão da prestação do Serviço não inibe a Entidade Gestora de recorrer às entidades administrativas ou judiciais competentes a fim de estas lhe assegurarem o exercício dos seus direitos, ou de obter o pagamento coercivo das importâncias que lhe sejam devidas e eventuais indemnizações por perdas e danos.
+
+4 - A suspensão da prestação do Serviço com fundamento em causas imputáveis ao Utilizador não o isenta do pagamento da facturação já vencida ou vincenda, e dos respectivos juros de mora.
+
+###### Artigo 18.º — Cessação do Contrato de Fornecimento de Água
+
+1 - O Utilizador pode denunciar, a todo o tempo, o Contrato de Fornecimento de Água que tenha celebrado, por motivo de desocupação do local de consumo, desde que o comunique à Entidade Gestora por escrito.
+
+2 - Num prazo de 15 dias após a recepção da comunicação de denúncia, o Utilizador deve facultar a leitura e a retirada do Contador instalado, produzindo a denúncia efeitos a partir desta data.
+
+3 - Caso esta última condição não seja satisfeita, continua o Utilizador responsável pelos encargos entretanto decorrentes.
+
+4 - A Entidade Gestora tem o direito de denunciar unilateralmente o Contrato de Fornecimento de Água, se após suspensão do abastecimento de água nos termos do n.º 1 do artigo 17.º, ele não vier a ser restabelecido no prazo de três meses, por motivo imputável ao Utilizador.
+
+5 - A suspensão da ligação a pedido do utilizador importa o pagamento da Tarifa de Suspensão da ligação a pedido do Utilizador.
+
+###### Artigo 19.º — Cláusulas especiais
+
+1 - Serão objecto de cláusulas especiais os serviços de abastecimento de água que, devido ao seu elevado impacte no Sistema Público de Abastecimento de Água, devam ter tratamento específico.
+
+2 - Estabelecem-se ainda cláusulas especiais para fornecimentos temporários ou sazonais de água a estaleiros e obras ou a zonas de concentração populacional temporária, tais como feiras e exposições.
+
+### CAPÍTULO IV — Sistemas de Distribuição Predial de Água
+
+###### Artigo 20.º — Sistemas de Distribuição Predial de Água
+
+1 - Os Sistemas de Distribuição Predial de Água são executados de harmonia com o projecto previamente aprovado pela Câmara Municipal, no cumprimento da legislação em vigor e nos termos do presente Regulamento.
+
+2 - Compete ao proprietário ou usufrutuário dos prédios a conservação, reparação e renovação das componentes que constituem os Sistemas de Distribuição Predial de Água.
+
+3 - Nos Sistemas de Distribuição Predial de Água de grande capacidade, e quando se justifique, deve a Entidade Gestora exigir um programa de operações que refira os tipos de tarefas a realizar, a sua periodicidade e metodologia, sendo o cumprimento deste programa da responsabilidade dos Utilizadores destes sistemas.
+
+###### Artigo 21.º — Ligação ao Sistema Público
+
+1 - Nenhum Sistema de Distribuição Predial de Água poderá ser ligado ao respectivo Sistema Público sem que satisfaça todas as condições regulamentares em vigor.
+
+2 - A licença de utilização de novos prédios só poderá ser concedida pela Câmara Municipal depois de a ligação ao Sistema Público estar concluída e pronta a funcionar.
+
+###### Artigo 22.º — Reservatórios prediais
+
+1 - A instalação de reservatórios prediais será admissível em caso de necessidade de utilização de sobrepressores.
+
+2 - Não é permitida a ligação por contacto directo da água fornecida com a de reservatórios de recepção que existam nos prédios e de onde derivem depois os Sistemas de Distribuição Predial de Água.
+
+3 - Os reservatórios, a existirem, terão o volume máximo correspondente a um dia médio do mês de maior consumo, e localizar-se-ão, no caso de edifícios em regime de propriedade horizontal, em zonas comuns.
+
+4 - Deverão situar-se em espaço convenientemente arejado e em todas as condições de salubridade, que deverão ser mantidas pelos respectivos Utilizadores.
+
+5 - Preferencialmente, as paredes exteriores não deverão contactar lateralmente com outras paredes ou terreno, mantendo distância conveniente à sua inspecção.
+
+###### Artigo 23.º — Utilização de sobrepressores
+
+1 - A instalação de sobrepressores implica a existência de reservatórios prediais, devendo a conduta de aspiração ser ligada ao reservatório em causa, e nunca em tomada directa do Sistema Público.
+
+2 - A aprovação dos projectos tomará em conta as condições locais de pressão, exigindo-se que no dispositivo de utilização colocado à cota mais desfavorável seja assegurada a pressão mínima de acordo com a legislação em vigor.
+
+3 - Quando não for possível satisfazer a condição de pressão mínima especificada no número anterior, o projecto deverá prever a utilização de sobrepressores cuja aquisição, instalação e manutenção será sempre da responsabilidade do proprietário ou usufrutuário do edifício em causa.
+
+###### Artigo 24.º — Prevenção da contaminação
+
+1 - Os Sistemas de Distribuição Predial de Água deverão ser protegidos, pela natureza da sua construção e pelas condições da sua instalação, contra a contaminação da água.
+
+2 - Não é permitida a ligação e contacto da água do Sistema Público de Abastecimento de Água com qualquer sistema, nomeadamente de Sistemas de Distribuição Predial de Água com outra origem, como sejam poços ou furos privados.
+
+3 - O abastecimento de água destinada ao consumo humano aos aparelhos sanitários deve ser efectuado sem pôr em risco a sua potabilidade, impedindo a sua contaminação, quer por contacto, quer por aspiração de água em casos de depressão.
+
+###### Artigo 25.º — Gastos de água nos Sistemas de Distribuição Predial de Água
+
+1 - Os Utilizadores são responsáveis por todo o gasto de água, incluindo o resultante de fugas ou perdas nos Sistemas de Distribuição Predial de Água e nos dispositivos de utilização.
+
+2 - Se as fugas se verificarem na rede predial, em local que não permita a quantificação do volume de água perdido, os Utilizadores deverão solicitar à Entidade Gestora a alteração da localização do contador, a instalar junto à zona de entrada contígua com a via pública, assumindo os respectivos encargos.
+
+###### Artigo 26.º — Responsabilidade por danos nos Sistemas de Distribuição Predial de Água
+
+1 - A Entidade Gestora não assume qualquer responsabilidade por danos que possam sofrer os Utilizadores em consequência de perturbações ocorridas no Sistema Público que ocasionem interrupções no abastecimento, desde que resultem de casos fortuitos ou de força maior ou de execução de obras previamente programadas, devendo neste último caso a Câmara Municipal e os Utilizadores serem avisados com, pelo menos, 48 horas de antecedência.
+
+2 - O aviso indicado no número anterior poderá processar-se através da imprensa, da rádio de aviso postal, ou outro meio adequado.
+
+3 - Para evitar danos nos Sistemas de Distribuição Predial de Água resultantes de pressão excessiva ou de variações bruscas de pressão no Sistema Público de Abastecimento de Água, a Entidade Gestora tomará as necessárias providências, responsabilizando-se pelas consequências que daí advenham.
+
+###### Artigo 27.º — Hidrantes
+
+1 - No Sistema Público de Abastecimento de Água serão previstos hidrantes, que poderão ser bocas-de-incêndio ou marcos de incêndio, de modo a garantir-se uma cobertura efectiva e de acordo com as necessidades do serviço de incêndios.
+
+2 - O abastecimento dos hidrantes referidos no número anterior será feito a partir de um ramal próprio.
+
+3 - A Entidade Gestora poderá fornecer a água para os hidrantes particulares instalados em condições técnicas adequadas e de acordo com a legislação.
+
+4 - O fornecimento de água para hidrantes particulares, será efectuado mediante contrato especial, tendo como cláusulas obrigatórias as seguintes:
+
+a) Os hidrantes terão canalizações interiores próprias constituídas e localizadas conforme o serviço de incêndios determinar;
+
+b) O diâmetro nominal do contador será definido pela Entidade Gestora, de acordo com o caudal a disponibilizar.
+
+c) A Entidade Gestora não assume qualquer responsabilidade por insuficiências em quantidade ou pressão, bem como por interrupção do abastecimento por motivos fortuitos ou de força maior ou de execução de obras previamente programadas.
+
+###### Artigo 28.º — Inspecção predial
+
+1 - A Entidade Gestora poderá proceder à vistoria dos Sistemas de Distribuição Predial de Água sempre que haja reclamações, suspeita de fugas de água, perigos de contaminação ou de poluição, bem como em todos os casos que julgue necessário, devendo o respectivo auto de vistoria ser comunicado aos responsáveis pelas anomalias ou irregularidades com fixação de prazo para a sua correcção.
+
+2 - Se o prazo previsto no número anterior não for cumprido, a Entidade Gestora poderá determinar a suspensão do abastecimento de água, sem prejuízo de poder vir a tomar as providências necessárias para eliminar aquelas anomalias ou irregularidades.
+
+3 - Para efeitos do previsto no n.º 1, o Proprietário ou Usufrutuário deve permitir o livre acesso à Entidade Gestora sendo para o efeito avisado por carta registada ou outro meio equivalente, com uma antecedência mínima de oito dias, da data e intervalo horário, com amplitude máxima de duas horas.
+
+4 - Em função da natureza das circunstâncias referidas no n.º 1 a Entidade Gestora pode determinar a suspensão do fornecimento de água.
+
+5 - Por razões de salubridade, a Entidade Gestora poderá promover as acções necessárias para restabelecer o normal funcionamento dos Sistemas de Distribuição Predial de Água, independentemente da solicitação ou autorização do proprietário ou usufrutuário, sendo as despesas resultantes das obras coercivas suportadas por estes.
+
+6 - O utilizador pode solicitar pedido de vistoria a sistema predial de águas, pagando para o efeito tarifa conforme tarifário aprovado.
+
+### CAPÍTULO V — Contadores
+
+###### Artigo 29.º — Tipo e diâmetro nominal
+
+1 - Os Contadores obedecerão às qualidades, características metrológicas, condições de instalação estabelecidas nas normas em vigor e ao perfil de consumo do utilizador
+
+2 - Compete à Entidade Gestora a colocação, manutenção e substituição dos Contadores bem como a definição do tipo, diâmetro nominal e classe metrológica dos Contadores a instalar de harmonia com o consumo previsto e com as condições normais de funcionamento.
+
+3 - Se o consumo de água não corresponder às necessidades indicadas previamente à ligação, a Entidade Gestora substituirá, a expensas do Utilizador, o Contador por outro de diâmetro nominal apropriado.
+
+###### Artigo 30.º — Instalação de Contadores
+
+1 - Os Contadores serão instalados de acordo com o artigo 31.º em lugares definidos pela Entidade Gestora, em local acessível a uma leitura regular, com protecção adequada que garanta a sua eficiente conservação e normal funcionamento.
+
+2 - Será instalado um Contador por cada Utilizador e instalação de consumo, isoladamente ou em bateria de Contadores.
+
+3 - O tipo e dimensões das caixas ou nichos destinados à instalação dos Contadores, serão definidos pela Entidade Gestora, de forma a permitirem um trabalho regular de substituição ou reparação local e que a sua visita e leitura se possam fazer em perfeitas condições.
+
+4 - Em prédios em propriedade horizontal devem ser instalados instrumentos de medição em número e com o diâmetro estritamente necessários aos consumos nas zonas comuns ou, em alternativa e por opção da Entidade Gestora, nomeadamente quando existir reservatório predial, podem ser instalados contadores totalizadores, sem que neste caso o acréscimo de custos possa ser imputado ao utilizador.
+
+5 - O disposto no n.º 4 do presente artigo será aplicável a instalações prediais em regime de propriedade horizontal, novas ou existentes.
+
+6 - O diferencial entre o consumo registado por um Contador totalizador e o somatório dos consumos registados pelos Contadores das fracções por ele abastecidas é da responsabilidade do condomínio ou do titular do respectivo contrato.
+
+7 - Nas instalações prediais em regime de propriedade horizontal em que, existindo um Contador específico para os consumos do condomínio, o Contador totalizador tenha como única função o controlo do diferencial entre o consumo total do edifício e o das fracções, não será cobrada pela Entidade Gestora a Tarifa Fixa daquele totalizador.
+
+###### Artigo 31.º — Localização do Contador
+
+1 - Nos edifícios sem logradouro, os Contadores devem localizar-se na zona de entrada ou em zonas comuns consoante se trate de um ou vários Utilizadores.
+
+2 - Nos edifícios com logradouros, os Contadores devem localizar-se:
+
+a) No caso de um só Utilizador, no logradouro junto à zona de entrada, contígua com a via pública;
+
+b) No caso de vários Utilizadores, no interior do edifício em zonas comuns ou no logradouro junto à zona de entrada contígua com a via pública, sendo esta última obrigatória para contadores totalizadores.
+
+3 - Os Contadores deverão localizar-se em locais que permitam a sua leitura do exterior.
+
+###### Artigo 32.º — Responsabilidade pelo Contador
+
+1 - Os Contadores de água das ligações prediais são colocados, fornecidos e instalados pela Entidade Gestora, que fica com a responsabilidade da sua manutenção.
+
+2 - Deve o Utilizador informar a Entidade Gestora logo que reconheça que o Contador impede o abastecimento de água, conta deficientemente, tem os selos danificados ou apresenta qualquer outro defeito.
+
+3 - A Entidade Gestora poderá proceder à verificação do Contador, à sua reparação ou substituição, sempre que o ache conveniente sem qualquer encargo para o Utilizador.
+
+4 - O Utilizador responderá pelas fraudes, deficiências, avarias e inconvenientes que forem verificados em consequência do emprego comprovado de qualquer meio capaz de influir no funcionamento ou marcação do Contador.
+
+5 - Os custos relativos à reparação e ou substituição dos Contadores que se mostre necessária em virtude de danos causados pelos Utilizadores serão por estes suportados.
+
+###### Artigo 33.º — Verificações do Contador
+
+1 - Independentemente da aplicação do Regulamento de Controlo Metrológico em vigor, tanto o Utilizador como a Entidade Gestora têm o direito de mandar verificar o Contador, nas instalações de ensaio da própria ou de outrem, reconhecidas oficialmente, quando o julguem conveniente, não podendo nenhuma das partes opor-se a esta operação, à qual o Utilizador ou um seu representante podem sempre assistir.
+
+2 - A verificação a que se refere o número anterior, quando a pedido do Utilizador, fica condicionada ao depósito prévio, na tesouraria da Entidade Gestora, da importância estabelecida para o efeito, a qual será restituída no caso de se verificar o mau funcionamento do Contador, por causa não imputável ao Utilizador.
+
+3 - Nas verificações dos Contadores, os erros admissíveis serão os previstos na legislação em vigor sobre controlo metrológico dos contadores para água destinada ao consumo humano fria.
+
+###### Artigo 34.º — Acesso ao Contador
+
+Os Utilizadores deverão permitir e facilitar a inspecção dos Contadores aos funcionários da Entidade Gestora devidamente identificados, ou outros desde que devidamente credenciados por esta.
+
+### CAPÍTULO VI — Tarifas
+
+###### Artigo 35.º — Tarifas
+
+1 - Compete à Entidade Gestora estabelecer, nos termos legais e nos termos do Contrato de Concessão, as tarifas correspondentes ao Serviço Público de Abastecimento de Água, a pagar pelos Utilizadores.
+
+2 - Nos termos do Contrato de Concessão a Entidade Gestora tem o direito de fixar, liquidar e cobrar aos Utilizadores as seguintes tarifas, constantes do Tarifário:
+
+a) Tarifa Fixa é o valor aplicado em função do intervalo temporal durante o qual o serviço se encontra disponibilizado ao Utilizador visando remunerar a Entidade Gestora pelos custos fixos incorridos na construção, conservação e manutenção dos sistemas necessários à prestação do serviço;
+
+b) Tarifa Variável é o valor ou conjunto de valores unitários aplicável em função do nível de utilização do serviço, em cada intervalo temporal visando remunerar a Entidade Gestora pelos custos incorridos com a prestação do serviço.
+
+c) Outras Tarifas são as tarifas devidas por outros serviços prestados e que englobam as seguintes:
+
+i) Encargo com aviso de corte - custo a imputar ao utilizador em mora, relativo aos encargos decorrentes do envio por correio registado do aviso prévio de suspensão do fornecimento.
+
+ii) Ligação para fornecimentos provisórios - ligação temporária ao Sistema Público, designadamente para abastecimento a estaleiros e obras e zonas de concentração populacional temporária, tais como feiras, festivais e exposições.
+
+iii) Vistoria a Sistema Predial de Águas a pedido do utilizador - tarifa pontual e antecipadamente cobrada ao Utilizador referente às vistorias efectuadas pela Entidade Gestora, a pedido do utilizador, de modo a comprovar que os Sistemas de Distribuição Predial estão aptos a serem ligados aos Sistemas de Abastecimento de Água;
+
+iv) Abertura e fecho de água a pedido do utilizador - tarifa pontual a suportar pelo utilizador quando requer a abertura ou o fecho da água com vista a execução de trabalhos na sua rede predial.
+
+v) Tarifa de Análise de Projectos de Obras Particulares - tarifa que a Entidade Gestora cobrará aos Utilizadores pela análise dos projectos dos Sistemas de Distribuição Predial, que serão submetidos à sua apreciação, a pedido dos utilizadores.
+
+vi) Leitura extraordinária a pedido do Utilizador - tarifa pontual paga pelo utilizador para realização de leitura do contador a seu pedido.
+
+vii) Informação sobre o Sistema Público em plantas de localização - tarifa pontual e antecipadamente paga pelo fornecimento de plantas de localização a pedido do Requerente.
+
+viii) Água avulso - valor unitário aplicável em função do volume de água fornecido ao requerente, pela Entidade Gestora quando não têm disponibilidade do Serviço nos termos do n.º 1 do artigo 5.º, sendo da responsabilidade do requerente o transporte da água vendida.
+
+ix) Mudança de local de contador - tarifa pontual e antecipadamente cobrada aos Utilizadores, nos casos de prestação, pela Entidade Gestora, do serviço de alteração de local de contador ou de transferência física do mesmo, quando este se encontra já no limite de propriedade.
+
+x) Mudança de local de contador de dentro da habitação para o limite da propriedade - tarifa pontual e antecipadamente cobrada aos Utilizadores, nos casos de prestação, pela Entidade Gestora, do serviço de alteração de local de contador ou de transferência física do mesmo do interior da habitação para o limite da propriedade. A colocação da caixa do contador é da responsabilidade do utilizador.
+
+xi) Verificação do Contador a pedido do utilizador - tarifa pontual e antecipadamente cobrada aos Utilizadores, nos casos de prestação, pela Entidade Gestora, e a pedido do utilizador, do serviço de verificação do Contador.
+
+xii) Suspensão da ligação a pedido do Utilizador - tarifa pontual cobrada ao Utilizadores referente à desligação ao Sistema, efectuada pela Entidade Gestora, e a pedido daqueles.
+
+xiii) Suspensão e reinício da ligação por incumprimento do Utilizador - tarifa pontual a cobrar antecipadamente aos Utilizadores, nos casos de interrupção ou de suspensão da prestação do Serviço por facto imputável aos mesmos.
+
+xiv) Incumprimento de Prazo de Pagamento: findo o prazo de pagamento fixado na factura sem ter sido efectuado o pagamento, o Utilizador incorre desde logo no encargo adicional constante do tarifário em vigor.
+
+xv) Ramais Domiciliários - A Entidade Gestora cobrará os custos inerentes à construção do ramal dedicado ao abastecimento é imputado ao utilizador quando possui extensão superior a 20 metros, nos termos do tarifário em vigor, correspondente à extensão superior àquela distância.
+
+###### Artigo 36.º — Custos ao Utilizador
+
+1 - Pelo Serviço Público de Abastecimento de Água serão devidas as tarifas indicadas no artigo anterior, e constantes do tarifário em vigor, anexo a este Regulamento.
+
+2 - No caso de entrada em vigor de legislação que preveja novos encargos imputados aos Utilizadores, estes serão objecto de facturação discriminada, de forma a serem claramente identificados por aqueles.
+
+###### Artigo 37.º — Periodicidade das leituras
+
+1 - As leituras dos Contadores serão efectuadas periodicamente por funcionários da Entidade Gestora ou outros, devidamente identificados para o efeito, com um distanciamento máximo entre duas leituras consecutivas de oito meses.
+
+2 - Nos meses em que não haja leitura ou naqueles em que não seja possível a sua realização por impedimento do Utilizador, este deve comunicar à Entidade Gestora o valor registado.
+
+3 - Pelo menos duas vezes por ano, é obrigatório o Utilizador facilitar o acesso ao Contador, sob pena de suspensão do Serviço.
+
+4 - Não se conformando com o resultado da leitura, o Utilizador poderá apresentar a devida reclamação, dentro do prazo indicado na factura como limite de pagamento.
+
+5 - A apresentação de reclamação escrita alegando erros de medição do consumo de água suspende o prazo de pagamento da respectiva factura caso o utilizador solicite a Verificação extraordinária do contador após ter sido informado da tarifa aplicável.
+
+6 - No caso de a reclamação ser julgada procedente e já tiver ocorrido o pagamento, haverá lugar ao reembolso da importância indevidamente cobrada.
+
+###### Artigo 38.º — Avaliação de consumos
+
+1 - Em caso de paragem ou funcionamento irregular do Contador ou nos períodos em que não houve leitura, o consumo de água é avaliado:
+
+a) Pelo consumo médio apurado entre duas leituras reais consideradas válidas efectuadas pela Entidade Gestora;
+
+b) Em função do consumo médio de utilizadores com características similares no âmbito do território municipal verificado no ano anterior, na ausência de qualquer leitura subsequente à leitura do contador.
+
+2 - A Entidade Gestora disponibiliza aos utilizadores meios alternativos para comunicação de leituras.
+
+###### Artigo 39.º — Correcção dos valores
+
+1 - Quando forem detectadas anomalias nos volumes medidos, a Entidade Gestora corrigirá as contagens efectuadas, tomando como base de correcção a percentagem de erro verificado no controlo metrológico.
+
+2 - Esta correcção adoptada para consumo de água, para mais ou para menos, afecta apenas os meses em que os consumos se afastam mais de 25 % do valor médio relativo:
+
+a) Ao período de seis meses anteriores à substituição do Contador;
+
+b) Ao período de funcionamento, se este for inferior a seis meses.
+
+###### Artigo 40.º — Facturação
+
+1 - A periodicidade de emissão das facturas será definida pela Entidade Gestora nos termos da legislação em vigor.
+
+2 - As facturas emitidas deverão discriminar os serviços prestados e as correspondentes tarifas, bem como os volumes de água que dão origem às verbas debitadas.
+
+###### Artigo 41.º — Prazo, forma e local de pagamento
+
+1 - Os pagamentos da facturação a que se refere o artigo anterior deverão ser efectuados na forma e no prazo estabelecidos na factura, não podendo este ser inferior a 10 (dez) dias úteis.
+
+2 - Findo o prazo fixado na factura sem ter sido efectuado o pagamento, o Utilizador incorre desde logo no encargo adicional constante do tarifário em vigor.
+
+3 - A Entidade Gestora tem o direito de cobrar os juros de mora sobre as quantias em dívida à taxa supletiva legal e, no caso da falta de pagamento, de utilizar a caução prestada nos termos do artigo 15.º
+
+4 - A falta de pagamento confere à Entidade Gestora o direito de suspender a prestação do Serviço, devendo esta advertir o Utilizador, por escrito, com a antecedência mínima de 10 (dez) dias de calendário relativamente à data em que a suspensão venha a ter lugar.
+
+5 - A notificação informará o Utilizador dos meios de que dispõe para evitar a suspensão do Serviço e para retomar o mesmo.
+
+6 - O direito de exigir o pagamento do preço do Serviço prestado prescreve no prazo de seis meses após a sua prestação.
+
+7 - Se por erro da Entidade Gestora for paga importância inferior à que corresponde o consumo, o direito ao recebimento da diferença caduca seis meses após o referido pagamento.
+
+8 - Sempre que, em virtude do método de facturação utilizado, seja cobrado ao Utilizador um valor que exceda o correspondente ao consumo efectuado, o valor em excesso é abatido da factura em que tenha sido efectuado o acerto, salvo caso de declaração em contrário, manifestada expressamente pelo Utilizador.
+
+### CAPÍTULO VII — Projectos e Obras Particulares
+
+###### Artigo 42.º — Projectos
+
+1 - Os projectos dos Sistemas de Distribuição Predial de Água e os projectos dos sistemas de abastecimento de água em obras de urbanização, serão aprovados pela Câmara Municipal após apreciação e parecer favorável da Entidade Gestora, competindo à Câmara Municipal promover a consulta à entidade gestora.
+
+2 - A emissão do parecer referido no número anterior reger-se-á pelo disposto nos regimes jurídicos de licenciamento de obras particulares e loteamentos urbanos, bem como pelo Regulamento Geral dos Sistemas Públicos e Prediais de Distribuição de Água e de Drenagem de Águas Residuais.
+
+3 - Para efeitos de elaboração dos projectos dos Sistemas de Distribuição Predial de Água e dos projectos dos sistemas de abastecimento de água em obras de urbanização, a Entidade Gestora indicará aos técnicos responsáveis pela sua execução, o diâmetro nominal do ramal de ligação, a conduta mais próxima do edifício a construir e a pressão disponível no Sistema Público de Abastecimento de Água.
+
+4 - Para efeito de licenciamento poderão ser entregues na sede da Entidade Gestora, ou noutros locais por esta designados, três exemplares dos projectos. Após a respectiva apreciação, se favorável, remeterá a Entidade Gestora à Câmara Municipal dois daqueles exemplares com carimbo de aprovados, sendo um destinado ao requerente e outro à Câmara Municipal.
+
+5 - Após conclusão da obra, e caso tenham ocorrido alterações ao projecto aprovado, que pela sua natureza não tenham sido objecto de aditamento àquele projecto, serão entregues à Entidade Gestora cópias das peças desenhadas definitivas, habitualmente designadas por telas finais.
+
+###### Artigo 43.º — Fiscalização
+
+1 - A Entidade Gestora terá a responsabilidade de acompanhar e fiscalizar a boa execução das obras constantes dos projectos particulares, cujo início de execução lhe haja sido comunicado, nomeadamente dos Sistemas de Distribuição Predial de Água e dos sistemas de abastecimento de água em obras de urbanização e loteamentos.
+
+2 - O técnico responsável pela execução da obra deverá comunicar, por escrito, o seu início e conclusão à Entidade Gestora, para efeitos de fiscalização, vistoria e ensaio.
+
+3 - A comunicação do início da obra será feita com a antecedência mínima de 5 (cinco) dias.
+
+4 - Os actos de fiscalização serão registados nos livros de obra, funcionando o respectivo registo como forma de notificação ao técnico responsável.
+
+5 - Sempre que detecte nas referidas obras qualquer anomalia de construção ou qualquer omissão que possa influenciar negativamente a prestação do Serviço, a Entidade Gestora notificará de imediato o técnico responsável pela respectiva construção, solicitando a correcção da anomalia ou a execução da medida omitida, dando conhecimento de tal facto à Câmara Municipal no prazo de 8 (oito) dias a contar da notificação.
+
+6 - Caso o técnico responsável pela construção depois de notificado pela Entidade Gestora nos termos do número anterior não corrija as anomalias ou não execute as medidas omitidas, a Entidade Gestora dará disso conhecimento à Câmara Municipal que desencadeará os procedimentos considerados adequados.
+
+###### Artigo 44.º — Ensaios e vistorias
+
+1 - A Entidade Gestora deverá acompanhar a realização dos ensaios que considere necessários das obras constantes dos projectos particulares, cuja execução lhe haja sido comunicada, nomeadamente dos Sistemas de Distribuição Predial de Água e dos sistemas de abastecimento de água em obras de urbanização. Aos ensaios efectuados será aplicada a taxa respectiva.
+
+2 - Os ensaios são da responsabilidade dos proprietários ou usufrutuários e deverão ser feitos com as canalizações e acessórios à vista na presença do técnico responsável.
+
+3 - O técnico responsável informará a Entidade Gestora com a antecedência mínima de 10 (dez) dias da data em que as instalações se encontrarão em condições de serem ensaiadas, devendo a Entidade Gestora notificar com antecedência mínima de 3 (três) dias do dia e hora em que irá efectuar a vistoria.
+
+4 - Nenhuma canalização dos Sistemas de Distribuição Predial de Água poderá ser coberta sem que tenha sido previamente fiscalizada, ensaiada e aprovada nos termos deste Regulamento.
+
+5 - Não poderão os acessórios de nenhum troço dos sistemas de abastecimento de água em obras de urbanização ser cobertos sem que esse troço tenha sido previamente fiscalizado, ensaiado e aprovado nos termos deste Regulamento.
+
+6 - No caso de qualquer sistema ter sido coberto, no todo ou em parte, antes de fiscalizado, ensaiado e aprovado, o técnico responsável pela obra será intimado a descobrir as canalizações, após o que deverá fazer comunicação para efeito de vistoria e ensaio.
+
+7 - A Entidade Gestora efectuará uma vistoria após a conclusão da obra, designadamente para efeitos da recepção provisória e definitiva das obras constantes dos projectos particulares, bem como para efeito da emissão de licença de utilização.
+
+###### Artigo 45.º — Responsabilidade pela aprovação
+
+A aprovação das canalizações dos Sistemas Distribuição Predial de Água não envolve qualquer responsabilidade para a Câmara Municipal nem para a Entidade Gestora por danos motivados por roturas das referidas canalizações ou por mau funcionamento dos dispositivos de utilização, que ocorrerem posteriormente à aprovação, em resultado de erros de concepção, execução ou operação.
+
+### CAPÍTULO VIII — Sanções
+
+###### Artigo 46.º — Regime Aplicável
+
+1 - A violação do disposto no presente Regulamento constitui contra-ordenação punível com as coimas previstas nos artigos seguintes.
+
+2 - O regime legal e de processamento das contra-ordenações obedecerá ao disposto no Regime Geral das Contra-Ordenações e Coimas, aprovado pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, Decreto Lei n.º 194/2009, de 20 de Agosto e ao disposto na Lei - Quadro das Contra-Ordenações Ambientais, aprovada pela [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de Agosto.
+
+###### Artigo 47.º — Contra-Ordenações
+
+1 - Constitui contra -ordenação punível com coima de (euro) 1.500 a (euro) 3.740, no caso de pessoas singulares, e de (euro) 7.500 a (euro) 44.890 no caso de pessoas colectivas, a prática dos seguintes actos ou omissões por parte dos proprietários de edifícios abrangidos por sistemas públicos ou dos utilizadores dos serviços:
+
+a) O incumprimento da obrigação de ligação dos sistemas prediais aos sistemas públicos, quando tal resulte do disposto no artigo 5.º;
+
+b) Execução de ligações aos sistemas públicos ou alteração das existentes sem a respectiva autorização da Entidade Gestora;
+
+c) Uso indevido ou dano a qualquer obra ou equipamento dos sistemas públicos.
+
+2 - Constituem contra-ordenações, puníveis com coima, as seguintes infracções cometidas quer por pessoas singulares quer por pessoas colectivas:
+
+a) Instalação de Sistemas de Distribuição Predial de Água sem observância das regras e condicionantes técnicas aplicáveis;
+
+b) Incumprimento das disposições do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144) de 20 de Agosto e normas complementares;
+
+e) Proceder à execução de ligações ao Sistema Público de Abastecimento de Água sem autorização da Entidade Gestora;
+
+f) Alterar os Ramais de Ligação;
+
+g) As demais violações do disposto no presente Regulamento constituem contra-ordenação punível.
+
+3 - As coimas a aplicar no âmbito do número anterior serão graduadas entre (euro) 349,16 (trezentos e quarenta e nove euros e dezasseis cêntimos) e (euro) 2.493,99 (dois mil quatrocentos e noventa e três euros e noventa e nove cêntimos) e entre (euro) 349,16 (trezentos e quarenta e nove euros e dezasseis cêntimos) e (euro) 29.927,87 (vinte e nove mil novecentos e vinte e sete euros e oitenta e sete cêntimos), conforme o infractor seja, respectivamente, pessoa singular ou pessoa colectiva ou equiparada, sendo os valores limite actualizáveis em conformidade com legislação específica aplicável.
+
+4 - Nos casos em que a infracção constitua contra-ordenação ambiental, os valores das coimas aplicáveis serão os previstos na [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de Agosto.
+
+5 - A negligência é punível.
+
+6 - O aqui exposto não preclude a aplicação de outras contra-ordenações que procedam de outros diplomas aplicáveis.
+
+###### Artigo 48.º — Processamento das contra-ordenações
+
+1 - Sem prejuízo do disposto no número seguinte, o processamento e a aplicação das coimas compete à Câmara Municipal quando o infractor seja um utilizador.
+
+2 - A fiscalização e instrução dos processos de contra-ordenação previstos no n.º 1 do artigo anterior pertencem à Entidade Gestora, cabendo a decisão à Câmara Municipal.
+
+3 - Nos casos em que a instrução é da competência da Entidade Gestora, esta deve remeter os processos com proposta de decisão à Câmara Municipal.
+
+4 - Nos casos em que a infracção praticada constitua contra-ordenação ambiental, a que se aplique a [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de Agosto, na redacção que lhe foi dada pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de Agosto, o Câmara Municipal ou a Entidade Gestora, conforme os casos, comunicarão o facto à autoridade administrativa competente, a qual dará o devido seguimento ao processo de contra-ordenação, de acordo com a tramitação prevista no mencionado diploma legal.
+
+5 - A decisão que aplique uma coima é susceptível de impugnação judicial junto do Tribunal da Comarca de Santo Tirso, nos termos fixados no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro e, quando aplicável, a [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de Dezembro.
+
+###### Artigo 49.º — Produto das Coimas
+
+O produto da aplicação das coimas no âmbito dos processos de contra-ordenação previstos no n.º 1 do artigo 47.º, é repartido em partes iguais entre a Câmara Municipal e a Entidade Gestora.
+
+###### Artigo 50.º — Extensão da Responsabilidade
+
+1 - A aplicação do disposto nos artigos anteriores não inibe o infractor da responsabilidade civil ou criminal que ao caso couber.
+
+2 - O infractor será obrigado a executar os trabalhos que lhe forem indicados dentro do prazo que, para o efeito, lhe for fixado. Em caso de incumprimento, a Entidade Gestora poderá, nos termos legais, substituir-se ao infractor na realização desses trabalhos, sendo imputadas a este todas as despesas daí decorrentes e as resultantes dos danos causados à Entidade Gestora.
+
+###### Artigo 51.º — Responsabilidade civil e criminal
+
+O pagamento da coima não isenta o infractor da responsabilidade civil por perdas e danos, nem de qualquer procedimento criminal a que der motivo.
+
+###### Artigo 52.º — Responsabilidade de menor ou incapaz
+
+Quando o infractor das disposições deste Regulamento for menor ou incapaz, responde pela coima aplicada o responsável legal.
+
+###### Artigo 53.º — Sanções
+
+1 - A determinação do montante da coima em cada caso concreto de infracção far-se-á, designadamente, em função:
+
+a) Da gravidade da infracção;
+
+b) Da culpa;
+
+c) Da situação económica do agente;
+
+d) Do benefício económico retirado da prática da contra-ordenação.
+
+2 - Ficam sujeitos ao fecho imediato do Ramal de Ligação os Utilizadores que pratiquem os seguintes actos:
+
+a) Venda ou cessão de água a terceiro;
+
+b) Picagem ou realização de orifício de escoamento no Ramal de Ligação, desde a sua tomada na conduta pública até ao Contador;
+
+c) Modificação das condições de funcionamento do Contador e violação dos selos de chumbo;
+
+d) Realização, sobre o Ramal de Ligação, de qualquer operação que não seja a de fecho e a de abertura das válvulas de passagem e, ou da válvula de purga.
+
+3 - Independentemente da aplicação das coimas previstas, poderá o infractor ser obrigado a efectuar o levantamento ou correcção das canalizações e ou outros equipamentos ou acessórios respectivos.
+
+4 - Nos casos em que a infracção praticada constitua contra-ordenação ambiental, o Presidente da Câmara Municipal comunicará o facto à autoridade administrativa competente, nos termos da [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de Agosto, a qual dará o devido seguimento ao processo de contra-ordenação, de acordo com a tramitação prevista no mencionado diploma legal.
+
+### CAPÍTULO IX — Disposições Diversas
+
+###### Artigo 54.º — Qualidade da Água
+
+1 - A água distribuída é submetida a um Programa de Controlo da Qualidade da Água (PCQA), o qual cumpre os critérios definidos na legislação em vigor, sendo este aprovado anualmente pela Autoridade Competente.
+
+2 - As determinações analíticas dos parâmetros conducentes ao cumprimento da legislação em vigor, em termos de qualidade da água, são realizadas por laboratórios de análises acreditados para o efeito.
+
+3 - A Entidade Gestora divulga, trimestralmente, os resultados analíticos obtidos na implementação do PCQA, de acordo com os requisitos legais em vigor.
+
+4 - Para o controlo da qualidade da água a Entidade Gestora pode solicitar a recolha de amostras de água para análise, na torneira do utilizador, nos termos da legislação em vigor.
+
+###### Artigo 55.º — Legislação e normas aplicáveis
+
+Em tudo o que este Regulamento for omisso será aplicável o [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144) de 20 Agosto o [Decreto Regulamentar n.º 23/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1995-431873), de 23 de Agosto - Regulamento Geral dos Sistemas Públicos e Prediais de Distribuição de Água e de Drenagem de Águas Residuais, o [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, o [Decreto-Lei n.º 23/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1996-534795), de 26 de Julho, com a redacção resultante da [Lei n.º 12/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-2008-247453), de 26 de Fevereiro, o [Decreto-Lei n.º 195/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1999-311254), de 8 de Junho, e demais legislação em vigor, com as condicionantes técnicas e contratuais existentes na área de actuação da Entidade Gestora, nomeadamente o Contrato de Concessão.
+
+###### Artigo 56.º — Entrada em vigor
+
+1 - Este Regulamento entra em vigor 10 (dez) dias após a sua publicitação, considerando-se revogado o anterior Regulamento do Serviço de Abastecimento de Água do Concelho de Santo Tirso.
+
+2 - A partir da entrada em vigor deste Regulamento, por ele serão regidos todos os fornecimentos e prestações de Serviço, incluindo aqueles que se encontrarem em curso.
+
+###### Artigo 57.º — Anexos
+
+Faz parte integrante do presente Regulamento, o seguinte Anexo:
+
+## ANEXO — Tarifário
+
+Tarifário para 2011 (a vigorar a partir de 1 de Julho de 2011)
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/145000000/3155931568.pdf)
+
+204954985

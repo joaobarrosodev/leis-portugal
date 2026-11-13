@@ -1,0 +1,451 @@
+---
+schema_version: '1.0'
+id: pt:dre:75239675:por
+title: Regulamento n.º 855/2016
+short_title: null
+summary: Apreciação pública do Projeto de Regulamento de Funcionamento e Utilização do Edifício Multifuncional de Empresas
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Castro Marim
+proposing_entity: null
+official_number: 855/2016
+official_date: null
+publication_date: '2016-09-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 168/2016, Série II de 2016-09-01
+  number: '168'
+  series: II
+  supplement: null
+  pages: 27357 - 27361
+  pdf_url: https://files.diariodarepublica.pt/2s/2016/09/168000000/2735727361.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '75239675'
+  dre_path: /dr/detalhe/regulamento/855-2016-75239675
+  internal: pt:dre:75239675:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/855-2016-75239675
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/855-2016-75239675
+  consolidated_url: null
+  retrieved_at: '2026-11-13T06:12:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b64f23690ae3d3701ae68ac2f32223eb0e4926466d26107dee084fd4b2790089
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T06:12:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+article_structure:
+  article_count: 27
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T06:12:37Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 855/2016
+
+Projeto de Regulamento de Funcionamento e Utilização do Edifício Multifuncional de Empresas
+
+Francisco Augusto Caimoto Amaral, Presidente da Câmara Municipal de Castro Marim, torna público que, em reunião ordinária realizada em 11 de maio de 2016, a Câmara Municipal de Castro Marim deliberou aprovar o Projeto de Regulamento de Funcionamento e Utilização do Edifício Multifuncional de Empresas e submetê-lo a consulta pública, pelo prazo de 30 dias, nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro. Mais torna público que eventuais sugestões ao projeto, cujo texto se publica abaixo, deverão ser apresentadas a esta Câmara Municipal de Castro Marim, por escrito e no referido prazo, contado a partir da publicação do presente.
+
+18 de agosto de 2016. - O Presidente da Câmara, Dr. Francisco Augusto Caimoto Amaral.
+
+Projeto de Regulamento de Funcionamento e Utilização do Edifício Multifuncional de Empresas
+
+Preâmbulo
+
+A Câmara Municipal de Castro Marim decidiu lançar um projeto que tem como missão o apoio ao empreendedorismo e às iniciativas de investimentos empresariais, que contribuam para dinamizar a economia, revigorar o tecido empresarial e criar postos de trabalho.
+
+Neste sentido, propõe-se desenvolver dinâmicas que promovam e fixem investimentos, empresas e empreendedores para o concelho de Castro Marim, e estimulem a inovação e as sinergias entre agentes económicos locais.
+
+A Câmara Municipal de Castro Marim, conforme atribuição conferida pela alínea m) do n.º 2, do artigo 23.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, entende ser missão, promover políticas que criem as condições e fomentem o desenvolvimento económico do Concelho.
+
+O Edifício Multifuncional de Empresas constitui-se como um equipamento de apoio a empresas e ideias de negócio proporcionando-lhes condições técnicas facilitadoras da sua instalação no concelho, com o objetivo de diversificar e ampliar o tecido empresarial e proporcionar a criação de postos de trabalho estáveis e qualificados.
+
+Assim, em conformidade com o disposto no artigo 112.º e no assim da competência prevista pelo artigo 241.º da Constituição da República Portuguesa e conferida pelo alínea k) do artigo 33.º, da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023) de 12 de setembro, a Câmara Municipal de Castro Marim elaborou a seguinte proposta de «Regulamento de Funcionamento e Utilização do Edifício Multifuncional de Empresas», onde se estabelecem as condições de acesso e de utilização das instalações e, ainda, as normas gerais de funcionamento, processo de candidatura, de seleção e incubação.
+
+O Edifício Multifuncional de Empresas de Castro Marim foi pensado e construído pela Câmara Municipal de Castro Marim, como um equipamento que pode desempenhar um papel fundamental, se pensado e gerido no âmbito de uma estratégia alargada de política de incentivo ao desenvolvimento económico.
+
+### CAPÍTULO I — Disposições Gerais
+
+###### Artigo 1.º — Objeto
+
+O presente regulamento define o funcionamento e as condições de utilização e de acesso ao Edifício Multifuncional de Empresas de Castro Marim, doravante denominada como EME.
+
+###### Artigo 2.º — Âmbito de Aplicação
+
+O presente regulamento aplica-se:
+
+a) Às pessoas singulares ou coletivas, promotoras de um projeto empresarial que contribuam para o desenvolvimento económico local e que pretendam fixar a sua sede social no concelho de Castro Marim;
+
+b) Às empresas, legalmente constituídas, ou cujo processo de constituição se encontre a decorrer à data da candidatura, com projetos inovadores;
+
+c) Aos empreendedores em processo de desenvolvimento de ideias de negócio inovadoras, com potencial de crescimento e implementação no mercado.
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente regulamento entende-se por:
+
+a) «Utilizador(es)/Empreendedor(es)»: pessoa singular ou coletiva titular da ideia de negócio, projeto inovador ou empresa que pretenda instalar-se no EME, mediante celebração de contrato de incubação;
+
+b) «Núcleos»: espaços individualizados e delimitados no Edifício Multifuncional de Empresas para a instalação de ideias de negócio ou empresas;
+
+c) «Comissão de Avaliação e Acompanhamento»: comissão constituída por dois representantes do Município e três representantes de parceiros protocolados, responsável pela análise, avaliação e seleção de candidaturas;
+
+d) «Ideias de Negócio»: potencial e inovador projeto empresarial (produto ou serviço), com viabilidade económica com forte possibilidade de criação líquida de postos de trabalho;
+
+e) «Incubação»: programa de apoio a empreendedores ou futuros empreendedores, nomeadamente através da disponibilização de espaços físicos, serviços básicos, acompanhamento técnico, administrativo e de serviço de capacitação/crescimento das ideias de negócio empresa.
+
+###### Artigo 4.º — Entidade gestora
+
+1 - A entidade gestora do Edifício Multifuncional de Empresas de Castro Marim compete à Câmara Municipal de Castro Marim.
+
+2 - A implementação do projeto será assegurada por uma Comissão de Avaliação e Acompanhamento, adiante designada por CAA, constituída por 2 (dois) representantes do Município, designados por despacho do Presidente da Câmara, e pelo menos 3 (três) representantes pertencentes a entidades de apoio empresarial, associações empresariais, universidades ou associações de desenvolvimento local, parceiros indigitados por protocolo estabelecido e, sempre que se justifique, por peritos, convocados pela CAA.
+
+3 - À CAA compete, no âmbito da incubadora de empresas:
+
+a) Analisar e avaliar as candidaturas apresentadas;
+
+b) Elaborar relatório referente à seleção de candidaturas;
+
+c) Acompanhar o desenvolvimento e analisar os resultados dos projetos/empresas incubadas;
+
+d) Elaborar propostas/sugestões para a melhoria de funcionamento do EME.
+
+###### Artigo 5.º — Parcerias
+
+Para prossecução dos objetivos previstos neste regulamento, o Município poderá estabelecer parcerias com terceiros (instituições, entidades, entre outros), locais ou não, que se venham a revelar importantes no desenvolvimento do projeto, mediante a celebração de protocolos/acordos de parceria.
+
+### CAPÍTULO II — EME - Incubadora de Empresas
+
+#### SECÇÃO I — Instalações e serviços de apoio
+
+###### Artigo 6.º — Localização
+
+A Incubadora do EME funcionará em edifício do Município de Castro Marim, o qual dispõe de uma área total de 479,76 m2, situado na Rua D. Maria Emília do Carmo Batista da Silva, na vila de Castro Marim.
+
+###### Artigo 7.º — Instalações
+
+1 - Aos candidatos selecionados, adiante designados por empresas incubadas, será atribuído o uso de um núcleo privado dotado de: uma secretária; três cadeiras; um armário de apoio; eletricidade, ar condicionado e acesso à internet.
+
+2 - À empresa incubada é, ainda, facultado o uso de outros espaços: instalações sanitárias; copa; zonas de circulação comuns e receção da incubadora.
+
+###### Artigo 8.º — Utilização de Instalações
+
+1 - O direito ao uso das instalações por cada empresa incubada é intransmissível e exclusivo para o desenvolvimento das atividades que fazem parte do objeto social da empresa ou projeto candidatado.
+
+2 - Os utilizadores ficam expressamente proibidos, a qualquer título, arrendar, sublocar ou ceder no todo ou em parte, o Núcleo cedido, sob pena de resolução imediata e automática do contrato a outorgar com os utilizadores com todas as consequências daí resultantes.
+
+3 - O regime de utilização do espaço é permanente e efetivo.
+
+4 - Caso se verifique cessação temporária da atividade da empresa, esta deverá comunicar, por escrito, mencionando os fundamentos, duração de interrupção e a intenção de manutenção de efeitos do contrato e o direito de utilização do espaço e serviços, que ficará dependente de autorização do Presidente da Câmara Municipal.
+
+5 - Os utilizadores estão impossibilitados de efetuar qualquer obra ou realizar alterações nas estruturas dos núcleos.
+
+6 - O acesso às instalações do EME no horário pós-expediente será condicionado e apenas permitido aos colaboradores das empresas nelas instaladas, devidamente credenciados.
+
+7 - Os utilizadores devem zelar pelo bom uso das instalações, desligando as luzes e o ar condicionado dos núcleos quando não for necessária a sua utilização.
+
+8 - O não cumprimento do estabelecido no presente artigo é motivo de resolução imediata e automática do contrato e consequente perda de direito de instalação na Incubadora.
+
+###### Artigo 9.º — Utilização das instalações comuns
+
+1 - A utilização dos espaços comuns verifica-se, somente, para fins inerentes ao exercício das atividades das empresas e que façam parte do seu objeto social.
+
+2 - A colocação de publicidade no interior do edifício é da exclusiva responsabilidade da entidade gestora. Será afixada em local próprio sinalética de identificação de cada empresa incubada.
+
+3 - É proibido fumar em todas as instalações do EME, exceto nos espaços indicados para o efeito.
+
+4 - A entidade gestora do espaço reserva-se o direito de proibir a entrada de indivíduos que ofendam ou provoquem qualquer distúrbio nas instalações.
+
+###### Artigo 10.º — Apoio e serviços
+
+1 - O EME disponibiliza um conjunto de apoios e serviços aos empreendedores/empresas incubadas, nomeadamente os seguintes:
+
+a) Receção e encaminhamento de clientes/visitantes;
+
+b) Receção e entrega de correspondência;
+
+c) Serviço de reprografia (fotocópias e impressões);
+
+d) Limpeza do espaço.
+
+2 - Nas áreas de especialidade dos parceiros, com recurso a protocolos/acordos previamente estabelecidos para o efeito, disponibiliza ainda:
+
+a) Orientação técnica na fase de implementação e desenvolvimento da ideia de negócio, projeto de investimento ou constituição da empresa;
+
+b) Ações de formação/informação;
+
+c) Promoção de contactos com entidades de investigação e/ou apoio empresarial.
+
+3 - Os serviços referidos nas alíneas a), b), c) e d) do n.º 1 são prestados apenas no horário de expediente.
+
+4 - As empresas incubadas podem ainda usufruir de salas de reuniões e/ou de formação existentes nos equipamentos municipais, nomeadamente na Biblioteca, na Casa do Sal e no Mercado Municipal, nos termos dos respetivos regulamentos em vigor.
+
+#### SECÇÃO II — Procedimento de acesso ao EME
+
+###### Artigo 11.º — Candidatos
+
+Podem candidatar-se a incubadora pessoas singulares, promotores de um projeto empresarial, bem como empresas que pretendam fixar a sua sede social no concelho de Castro Marim, nos termos previstos no artigo 2.º deste regulamento.
+
+###### Artigo 12.º — Condições Gerais de Acesso
+
+1 - Condições gerais de acesso:
+
+a) Todo e qualquer promotor, enquanto pessoa singular, que apresente candidatura à incubadora de empresas do EME terá de ser maior de idade;
+
+b) Os promotores deverão possuir competência adequada para o exercício da atividade a que se propõem, respeitando os normativos legais que se apliquem à atividade;
+
+c) Quando a candidatura é formalizada por uma pessoa coletiva já legalmente constituída, esta deverá ter a sua situação regularizada perante a Segurança Social e as Finanças à data de admissão efetiva no EME.
+
+2 - Podem candidatar-se projetos de qualquer setor de atividade, sendo que são privilegiados projetos do 1.º e 2.º setor.
+
+3 - Os espaços do EME não podem ser utilizados para a realização de atividades que não se revelem adequadas ao caráter das instalações, nunca podendo ser utilizados, por exemplo, como armazém de mercadorias ou ponto de venda direta ao público.
+
+4 - Poderão ser apresentadas candidaturas à «incubação virtual», e portanto sem a instalação física da empresa, mas beneficiando de todos os restantes serviços existentes no EME.
+
+###### Artigo 13.º — Candidaturas
+
+1 - A Câmara Municipal publicitará o convite à apresentação de candidaturas para a ocupação das instalações do Edifício Multifuncional de Empresas, sempre que se encontrem disponíveis núcleos para utilização das empresas.
+
+2 - As candidaturas devem ser apresentadas junto dos Serviços da Câmara Municipal de Castro Marim, mediante o preenchimento de ficha de candidatura (anexo I), também disponível no site www.cm-castromarim.pt.
+
+3 - As candidaturas devem ser entregues no Serviço de Expediente da Câmara Municipal ou remetidas via correio eletrónico para o endereço expediente@cm-castromarim.pt.
+
+4 - As candidaturas decorrem em contínuo, enquanto a estrutura instalada não esgote a capacidade de incubação. Atingido o seu limite máximo de utilização, o processo de candidatura fica suspenso até que se verifique disponibilidade de espaços para incubação.
+
+5 - A candidatura será avaliada pela CAA, constituída nos termos do artigo 4.º, de acordo com os critérios indicados no artigo seguinte.
+
+6 - Após verificação dos requisitos mencionados no número anterior, a Comissão de Avaliação e Acompanhamento, poderá exigir a apresentação de outros documentos considerados relevantes para a fase de seleção das candidaturas, sendo salvaguardada a confidencialidade dos documentos submetidos.
+
+###### Artigo 14.º — Critérios de seleção
+
+1 - Os projetos serão analisados tendo por base os seguintes critérios de seleção
+
+a) Projeto com produto/serviço inovador no respetivo setor e/ou região;
+
+b) Produto/serviço com caráter global;
+
+c) Razoabilidade e exequibilidade do projeto apresentado;
+
+d) Competências dos promotores para implementarem o projeto;
+
+e) Demonstrar potencial de crescimento;
+
+f) Contributo para a competitividade e inovação.
+
+2 - Serão ainda valorizados os projetos que cumpram os seguintes requisitos:
+
+a) A criação de postos de trabalho;
+
+b) Projetos inovadores nos setores primário e secundário;
+
+c) Valorização económica dos recursos endógenos do concelho de Castro Marim.
+
+###### Artigo 15.º — Processo de análise e de seleção
+
+1 - O processo de análise decorre das seguintes fases:
+
+a) Apreciação da candidatura e verificação dos respetivos documentos;
+
+b) Análise dos projetos tendo em conta os critérios de seleção. No decorrer do processo de análise poderão ser solicitados esclarecimentos ou elementos complementares ao candidato, inclusive poderá solicitar-se a apresentação presencial perante um júri;
+
+c) Seleção dos projetos a serem incorporados no EME.
+
+2 - Os membros da CAA avaliam as candidaturas segundos os critérios estabelecidos.
+
+3 - A CAA elaborará um relatório que deverá ordenar a classificação dos candidatos para efeitos de atribuição do direito do espaço para incubação. O relatório será apresentado ao Presidente da Câmara.
+
+4 - Compete ao Presidente da Câmara Municipal aprovar o relatório, elaborado nos termos do disposto nos números anteriores e, caso existam candidaturas excluídas, proceder à audiência dos interessados, conforme o estabelecido no Código do Procedimento Administrativo.
+
+5 - Decorrido o prazo de audiência, a CAA elabora um relatório final, devidamente fundamentado, e submete-o ao Presidente da Câmara Municipal para decisão definitiva sobre a atribuição do direito.
+
+6 - A decisão será comunicada, por correio eletrónico ou ofício e publicada no site www.cm-castromarim.pt.
+
+7 - O candidato com decisão favorável tem 15 dias úteis, após a receção da comunicação, para comunicar a aceitação da decisão e remeter documentação necessária para formalização de contrato.
+
+8 - Os projetos empresariais e ideias de negócio que tenham sido selecionadas terão que comprovar o início da atividade para que se possam instalar no EME.
+
+#### SECÇÃO III — Regime Contratual
+
+###### Artigo 16.º — Contrato
+
+1 - As empresas/empreendedores selecionados celebram um Contrato de Instalação do Edifício Multifuncional de Empresas de Castro Marim, com o Município de Castro Marim, no qual constam os seguintes elementos:
+
+a) A identificação das partes contratantes e respetivos representantes;
+
+b) A descrição do objeto do contrato;
+
+c) Identificação das obrigações das partes;
+
+d) O prazo de vigência, com data de início e termo.
+
+2 - O contrato referido no n.º 1 produz efeitos pelo prazo de um ano, renovável por iguais e sucessivos períodos, até ao limite máximo de cinco anos.
+
+3 - Os contratos de Utilização Edifício Multifuncional de Empresas celebrados com o Município de Castro Marim, conforme o presente artigo, podem ser denunciados livremente por qualquer uma das partes, mediante comunicação escrita com um pré-aviso de 60 dias, sem direito a indemnização.
+
+4 - A utilização dos espaços e equipamentos só é autorizada após a celebração do contrato referido neste artigo.
+
+###### Artigo 17.º — Duração
+
+O prazo de permanência máxima das entidades incubadas na incubadora é de 5 anos, sendo a sua permanência renovada anualmente (prazo de um ano a contar da data de assinatura do contrato).
+
+###### Artigo 18.º — Encargos
+
+1 - A empresa incubada não está sujeita a nenhum custo referente ao usufruto do espaço privativo (núcleo) e instalações comuns.
+
+2 - A empresa terá que suportar os custos de serviços partilhados inerentes ao funcionamento do seu núcleo e espaços comuns, de acordo com os valores apresentados na tabela anexa (anexo II).
+
+3 - Os encargos são atualizados anualmente de acordo com o valor do índice de preços no consumidor.
+
+4 - Os encargos podem, ainda, ser alterados por deliberação do órgão competente.
+
+5 - O pagamento será efetuado mensalmente com vencimento no dia um do mês seguinte a que respeita os serviços, sob pena de, em caso de mora, serem devidos juros à taxa legal em vigor.
+
+6 - Tendo em vista incentivar a fixação de empresas no EME, nomeadamente projetos de grande valia para o Município, o Presidente da Câmara Municipal de Castro Marim pode, mediante despacho, reduzir os valores previstos no presente regulamento.
+
+###### Artigo 19.º — Seguros
+
+1 - A empresa incubada deverá contratar um seguro de responsabilidade civil para cobertura de danos a terceiros, pessoais e materiais decorrentes do exercício da sua atividade ou provocados pelos equipamentos instalados.
+
+2 - É obrigatória a apresentação anual do comprovativo do pagamento e apólice do seguro referido no n.º 1.
+
+### CAPÍTULO III — Deveres dos Utilizadores
+
+###### Artigo 20.º — Deveres e obrigações das empresas
+
+1 - Os promotores das empresas incubadas ficam obrigados ao cumprimento de todas as disposições indicadas no presente regulamento.
+
+2 - Os promotores das empresas incubadas disponibilizam-se em participar ativamente nos eventos e iniciativas organizadas pelo EME.
+
+3 - O direito de utilização do espaço é intransmissível. Caso a entidade incubada pretenda alterar o objetivo para o qual o mesmo lhe foi cedido, deve solicitar autorização prévia, através de requerimento fundamentado, dirigido à entidade gestora.
+
+4 - Caso venha a existir a cessação de capital social por parte das entidades incubadas fora da estrutura inicial de sócios e/ou acionistas existente à data de incubação, será obrigatoriamente dado conhecimento prévio desse facto à entidade gestora.
+
+5 - Os empreendedores ficam responsáveis por manter em bom estado de utilização o espaço disponibilizado, equipamentos e mobiliário e ainda todas as áreas comuns da incubadora.
+
+6 - É dever da empresa incubada licenciar e ser portadora de todas as autorizações necessárias ao desenvolvimento da sua atividade e providenciar o pagamento de todos os encargos inerentes à mesma;
+
+7 - A entidade incubada deve apresentar, sempre que lhe seja solicitada, a documentação comprovativa da sua situação regularizada perante a Segurança Social e as Finanças.
+
+###### Artigo 21.º — Saída das empresas da Incubadora
+
+A empresa deverá sair da incubadora quando:
+
+a) Terminar o prazo máximo de incubação de 5 anos;
+
+b) No final do período de incubação que se encontre a decorrer, a entidade gestora entenda que não se encontram reunidas as condições para a sua a renovação, sendo tal facto comunicando à entidade incubada com uma antecedência mínima de dois meses;
+
+c) Houver infração a qualquer cláusula do presente regulamento ou do contrato de prestação de serviços a estabelecer entre as partes;
+
+d) Se verificar incumprimento no pagamento à incubadora de algum serviço requisitado ou de qualquer prestação obrigatória ao Estado;
+
+e) Se verificar alterações significativas aos objetivos iniciais que deram origem a candidatura à incubadora;
+
+f) Existir subarrendamento, sublocação, cedência no todo, ou em parte, do espaço atribuído, sobre pena de resolução imediata do contrato entre as partes e a saída do espaço sem direito a qualquer indemnização ou compensação por parte do EME;
+
+g) Se verificar a insolvência da empresa incubada;
+
+h) Se verificar cessão temporária de atividade da empresa;
+
+i) Por iniciativa da empresa devidamente justificada;
+
+j) Se a incubadora já não conseguir responder às necessidades de crescimento de espaço por parte da entidade incubada.
+
+### CAPÍTULO IV — Disposições Finais
+
+###### Artigo 22.º — Responsabilidade civil e criminal
+
+A utilização das instalações do Edifício Multifuncional de Empresas para fins contrários à lei e aos bons costumes, incluindo a utilização dos meios informáticos, confere o direito de decretar a resolução dos efeitos do contrato celebrado, sem prejuízo da responsabilidade direta e exclusiva da empresa, a qualquer título.
+
+###### Artigo 23.º — Exclusão de Responsabilidades
+
+A entidade gestora do EME não será responsável, em hipótese alguma, pelo cumprimento das obrigações fiscais, laborais, previdenciais e sociais, comerciais, financeiras, que constituem encargos das empresas incubadas perante fornecedores, colaboradores ou qualquer terceiro.
+
+###### Artigo 24.º — Prazo
+
+Os prazos estabelecidos no presente regulamento contam-se de acordo com as regras previstas no Código de Procedimento Administrativo.
+
+###### Artigo 25.º — Ações fiscalizadoras
+
+Compete ao Município zelar pelo cumprimento do presente regulamento, bem como pela manutenção, conservação e segurança das instalações.
+
+###### Artigo 26.º — Casos omissos
+
+Caberá à Câmara Municipal proceder ao esclarecimento de dúvidas suscitadas na interpretação e aplicação do presente regulamento, que não possam ser resolvidas pelo recurso aos critérios legais de interpretação e integração de lacunas.
+
+###### Artigo 27.º — Entrada em Vigor
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação.
+
+## ANEXO I — Formulário de Candidatura
+
+Edifício Multifuncional de Empresas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/09/168000000/2735727361.pdf)
+
+## ANEXO II — Tabela de custos partilhados
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/09/168000000/2735727361.pdf)
+
+1 - Área total de imputação 257,29 m2
+
+2 - O cálculo de custo é; euro/m2 pela dimensão do núcleo em m2.
+
+3 - Dimensões dos Núcleos:
+
+a) Piso Térreo: A1 19,49 m2; A2 28,67 m2; A3 22,66 m2; A4 18,48 m2; A5 18,31 m2; A6 11,54 m2;
+
+b) Piso Superior: B1 27,56 m2; B2 32,79 m2; B3 27,10 m2; B4 18,48 m2; B5 18,31 m2; B6 13,91m2.
+
+4 - Despesas gerais entendem custos de serviços partilhados inerentes ao funcionamento do seu núcleo e espaços comuns, nomeadamente, eletricidade, água, alarme, Internet, telefone, fax, servidor e limpeza de espaços comuns.
+
+5 - Os valores em tabela acrescem IVA à taxa aplicável.
+
+309816791

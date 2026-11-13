@@ -1,0 +1,303 @@
+---
+schema_version: '1.0'
+id: pt:dre:879972:por
+title: Regulamento n.º 408/2011
+short_title: null
+summary: Regulamento Municipal do Funcionamento do Banco de Ajudas Técnicas do Município de Vila Real de Santo António
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Vila Real de Santo António
+proposing_entity: null
+official_number: 408/2011
+official_date: null
+publication_date: '2011-07-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 129/2011, Série II de 2011-07-07
+  number: '129'
+  series: II
+  supplement: null
+  pages: 28754 - 28756
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/07/129000000/2875428756.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '879972'
+  dre_path: /dr/detalhe/regulamento/408-2011-879972
+  internal: pt:dre:879972:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/408-2011-879972
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/408-2011-879972
+  consolidated_url: null
+  retrieved_at: '2026-11-13T04:34:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3760606a1041fecb1763c6082d43d52c8ebe4e0d191bf79bb27db6a26b82397b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T04:34:58Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+article_structure:
+  article_count: 18
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T04:34:58Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 408/2011
+
+Luís Filipe Soromenho Gomes, Presidente da Câmara Municipal de Vila Real de Santo António, torna público que, por deliberação tomada em reunião ordinária da Câmara Municipal realizada em 11 de Maio de 2011, e aprovação da Assembleia Municipal, em sua sessão de 19 de Maio de 2011, depois de ter sido submetido a inquérito público através de publicação efectuada no Diário da República, 2.ª série, n.º 54, de 17 de Março de 2011, foi aprovado o Regulamento Municipal do Funcionamento do Banco de Ajudas Técnicas do Município de Vila Real de Santo António, em conformidade com a versão definitiva que a seguir se reproduz na íntegra.
+
+20 de Junho de 2011. - O Presidente da Câmara, Luís Filipe Soromenho Gomes.
+
+Regulamento Municipal do Funcionamento do Banco de Ajudas Técnicas do Município de Vila Real de Santo António
+
+Preâmbulo
+
+Procurando implementar uma política de proximidade às pessoas que mais precisam, através de medidas concretas que lhe permitam caminhar em direcção a uma vida mais digna, a Câmara Municipal de Vila Real de Santo António pretende criar um Banco de Ajudas Técnicas.
+
+O presente documento concretiza e sistematiza o projecto de «Banco de Ajudas Técnicas do Concelho de Vila Real de Santo António», o qual pretende dar resposta às pessoas cuja situação de saúde imponha a utilização de serviços, produtos, dispositivos, equipamentos ou sistemas de produção especializado, atenuando as dificuldades de mobilidade e facultando uma melhoria de cuidados e qualidade de vida.
+
+Desta forma e considerando que, nos termos da [Lei n.º 159/99](https://diariodarepublica.pt/dr/detalhe/lei/159-1999-570562), de 14 de Setembro, compete às Autarquias Locais promoverem a resolução dos problemas que afectam as populações e que, de acordo com o disposto no artigo 64.º, n.º 4, alínea c), da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, compete à Câmara Municipal "Participar na prestação de serviços a estratos sociais desfavorecidos ou dependentes, em parceria com as entidades competentes da administração central, e prestar apoio aos referidos estratos sociais, pelos meios adequados e nas condições constantes de regulamento municipal", elabora-se o presente instrumento com vista a disciplinar e simplificar um conjunto de normas e regras que possibilitarão uma actuação com transparência e critérios claros junto daqueles que o necessitem, assim como também permitirá uma maior acessibilidade por parte dos interessados.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Âmbito e objecto
+
+O presente regulamento visa definir as condições de funcionamento do Banco de Ajudas Técnicas do Concelho de Vila Real de Santo António.
+
+###### Artigo 2.º — Entidade promotora
+
+A entidade promotora do Banco de Ajudas Técnicas é a Câmara Municipal de Vila Real de Santo António.
+
+###### Artigo 3.º — Destinatários
+
+O Banco de Ajudas Técnicas do Concelho de Vila Real de Santo António destina -se a todas as pessoas em situação de dependência, de uma ajuda técnica para o aumento da sua qualidade de vida e com dificuldades de mobilidade, residentes no concelho de Vila Real de Santo António e que pertençam a agregados familiares com dificuldades financeiras.
+
+###### Artigo 4.º — Objectivos do apoio
+
+Os objectivos deste apoio são:
+
+1) Proporcionar apoio a pessoas em situação de dependência permanente ou temporária, cuja situação de saúde requeira a utilização de ajudas técnicas;
+
+2) Minorar as dificuldades de mobilidade;
+
+3) Melhorar os cuidados na dependência de terceiros;
+
+4) Envolver a família e a comunidade através da doação de material relativo aos cuidados de dependência e ou mobilidade, cuja utilização deixou de ser uma necessidade.
+
+###### Artigo 5.º — Constituição
+
+1 - O Banco de Ajudas Técnicas é composto por equipamentos que, a título de donativo, sejam cedidos por pessoas individuais e colectivas e que se encontrem em adequado estado de conservação.
+
+2 - A Câmara Municipal poderá adquirir material que seja necessário para o Banco de Ajudas Técnicas.
+
+3 - O inventário das ajudas técnicas existentes será actualizado mensalmente com a comunicação interna entre a Divisão de Acção Social e a Secção de Património.
+
+###### Artigo 6.º — Conceitos
+
+1 - Para efeitos do disposto no presente Regulamento, considera-se:
+
+a) Agregado Familiar - O conjunto dos indivíduos que vivam em economia comum;
+
+b) Economia comum - Situação de pessoas que vivam em comunhão de mesa e habitação há pelo menos dois anos e tenham estabelecido uma vivência em comum de entreajuda ou partilha de recursos;
+
+c) Rendimentos - Valor mensal ilíquido, composto por todos os salários, pensões e outras quantias recebidas a qualquer título, com excepção das prestações familiares;
+
+d) Rendimento Mensal Disponível "Per Capita" - O Rendimento mensal disponível "per capita" é um indicador económico que permite conhecer o poder de compra de um agregado familiar, sendo calculado através da seguinte fórmula:
+
+R = ((RBA/12) - H (renda ou empréstimo bancário, água, luz, gás, telefone da rede fixa) - S - E)/N
+
+Neste sentido, o rendimento bruto anual será dividido por 12 meses, deduzido o valor da renda da casa ou da prestação para amortização de habitação própria, despesas de saúde e educação, a dividir pelo número de elementos do agregado familiar.
+
+R = Rendimento mensal disponível per capita;
+
+RBA = Rendimento Bruto Anual;
+
+H = Despesas de habitação (renda ou empréstimo bancário, água, luz, gás, telefone da rede fixa);
+
+S = Despesas de saúde (medicação);
+
+E = Despesas de Educação com crianças até aos 6 anos e ou despesas com ensino superior;
+
+N = Número de elementos do agregado familiar.
+
+e) Estratos Sociais Desfavorecidos - Todos aqueles que possuam economia precária e que se enquadrem no seguinte quadro:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2875428756.pdf)
+
+f) Ajudas Técnicas - São consideradas ajudas técnicas as que constam da lista homologada pelo Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência e que dizem respeito aos serviços, produtos, dispositivos, equipamentos ou sistemas de produção especializados ou disponíveis no mercado destinados a prevenir, compensar, atenuar ou neutralizar as limitações na actividade quotidiana.
+
+2 - Nos casos de agregados familiares onde exista algum elemento portador de incapacidade (devidamente comprovada pelo médico de família), aplica-se uma majoração de 10 % ao rendimento mensal da família.
+
+###### Artigo 7.º — Disponibilidade
+
+1 - O Banco de Ajudas Técnicas disponibilizará, a título de empréstimo, os serviços, produtos, dispositivos, equipamentos ou sistemas de produção especializados, de acordo com a disponibilidade existente, sendo que quando não houver disponibilidade de material, o pedido ficará em lista de espera por ordem de entrada.
+
+2 - A Câmara Municipal de Vila Real de Santo António poderá por deliberação deste órgão doar material do Banco de Ajudas Técnicas a IPSS's, Associações ou Santa Casa da Misericórdia de Vila Real de Santo António, que comprovem a necessidade do equipamento para o melhor funcionamento das valências que possuem.
+
+### CAPÍTULO II — Pedido de apoio
+
+###### Artigo 8.º — Condições de acesso
+
+1 - Podem candidatar-se os munícipes que reúnam cumulativamente as seguintes condições:
+
+a) Sejam residentes e eleitores no concelho de Vila Real de Santo António;
+
+b) Não beneficiem de apoios de idêntica natureza (Segurança Social, ARS, IPSS's, ONG's,);
+
+c) Estarem em situação de comprovada carência económica e enquadrados no exposto no artigo 6.º, alínea e).
+
+2 - As IPSS's, Associações, Santa Casa da Misericórdia do concelho, podem apresentar candidaturas respeitantes a utentes dos seus serviços, por via escrita justificando a necessidade de apoio e encontrando-se a mesma sujeita a despacho do Presidente da Câmara Municipal de Vila Real de Santo António..
+
+3 - As candidaturas a que se refere o número anterior, são instruídas em nome do respectivo utente, o qual deverá reunir as condições expressas no n.º 1 do presente artigo.
+
+###### Artigo 9.º — Instrução do pedido
+
+1 - O processo de candidatura será formalizado junto da Divisão de Acção Social da Câmara Municipal de Vila Real de Santo António, devendo o requerente, para o efeito, apresentar os seguintes documentos:
+
+a) Requerimento, em Modelo Próprio, a fornecer pelos Serviços Administrativos da Divisão de Acção Social da Câmara Municipal de Vila Real de Santo António, dirigido ao Presidente da Câmara;
+
+b) Fotocópia dos Bilhetes de Identidade ou outro documento de identificação, na falta do anterior, de todos os elementos do agregado familiar;
+
+c) Fotocópia do Número de Identificação Fiscal (NIF) de todos os elementos do agregado familiar;
+
+d) Fotocópia do Cartão de Eleitor do candidato e respectivo agregado familiar;
+
+e) Fotocópia do Cartão da Segurança Social, ou declaração que o substitua, ou de outros serviços de saúde;
+
+f) Atestado emitido pela Junta de Freguesia Local a comprovar tempo de Residência, e composição do agregado familiar;
+
+g) Certidão da Repartição de Finanças que ateste o número de imóveis registados em nome de todos do agregado familiar ou inexistência dos mesmos;
+
+h) Fotocópia do recibo de vencimento ou outra declaração, emitida pela entidade patronal ou por conta da entidade de onde são provenientes os rendimentos ou prestações auferidas (RSI, Subsídio de Desemprego, etc.), ou na ausência destes, declaração emitida pelo Instituto de Emprego e Formação Profissional, comprovativa da situação profissional de todos os elementos do Agregado familiar;
+
+i) Fotocópia da última Declaração de Rendimentos (IRS) e respectiva Nota de Liquidação ou na ausência destes, Declaração da Repartição das Finanças em como tem isenção na apresentação da mesma;
+
+j) Fotocópia das despesas de habitação (recibo de renda da casa ou da prestação do empréstimo à aquisição de habitação própria, água, luz, gás e telefone da rede fixa), de saúde (medicação) e educação (referentes a crianças com menos de 6 anos de idade);
+
+k) Declaração médica a comprovar a necessidade e duração da utilização do equipamento;
+
+l) Comprovativo da não obtenção da ajuda técnica pela via dos serviços de saúde e do Instituto de Segurança Social, podendo os Serviços da Divisão de Acção Social, substituir este comprovativo com contacto directo com os organismos mencionados.
+
+2 - O requerente fica constituído na obrigação de comunicar à Divisão de Acção Social da Câmara Municipal de Vila Real de Santo António qualquer alteração dos seus rendimentos e restantes membros do agregado familiar, ou de qualquer outro requisito do qual tenha dependido a sua atribuição num prazo máximo de 30 dias, a contar da data do facto que determinou tal alteração.
+
+3 - A entrega do requerimento de candidatura não confere ao candidato o direito à atribuição do apoio.
+
+###### Artigo 10.º — Análise da candidatura e decisão
+
+1 - Para qualquer apoio concedido no Município de Vila Real de Santo António, o processo de candidatura será instruído pela Divisão de Acção Social da Câmara Municipal de Vila Real de Santo António, que elaborará correspondente informação social, cabendo a decisão ao Presidente da Câmara Municipal ou Vereador do Pelouro, mediante despacho.
+
+2 - A Divisão de Acção Social da Câmara Municipal de Vila Real de Santo António solicitará todas as informações complementares que entenda indispensáveis para proceder a uma avaliação adequada da candidatura, sejam estes elementos adicionais solicitados ao próprio candidato, sejam aos demais serviços, por forma a acautelar situações de repetição indevida de apoios sociais.
+
+3 - O requerente constitui-se na obrigação de fornecer as informações complementares que lhe sejam solicitadas pelos serviços camarários, sob pena de rejeição liminar da sua candidatura, mediante despacho com tal fundamento do Presidente da Câmara Municipal.
+
+4 - Da decisão final do processo de candidatura dará a Divisão de Acção Social da Câmara Municipal oportuna informação, por escrito, a todos os requerentes.
+
+5 - Caso a intenção de decisão seja de indeferimento, os interessados poderão recorrer à audiência prévia, nos termos previstos do Código do Procedimento Administrativo.
+
+6 - "Em casos excepcionais mediante relatório técnico fundamentado poderá o órgão Câmara Municipal deliberar a concessão do apoio, desde que se justifique a incapacidade do requerente de adquirir o material solicitado no mercado, e desde que o mesmo material esteja disponível no Banco de Ajudas Técnicas."
+
+### CAPÍTULO III — Disposições finais
+
+###### Artigo 11.º — Doação de equipamento ao Banco de Ajudas Técnicas
+
+1 - Qualquer entidade individual ou colectiva poderá efectuar doações de equipamento para o Banco de Ajudas Técnicas do Concelho de Vila Real de Santo António.
+
+2 - Os donativos deverão ser entregues na Divisão de Acção Social da Câmara Municipal de Vila Real de Santo António, mediante preenchimento de formulário próprio, de modo a que, seja elaborada proposta ao órgão Câmara Municipal para deliberação.
+
+###### Artigo 12.º — Entrega do equipamento
+
+1 - O requerente compromete-se a entregar o equipamento logo que dele não necessite, até ao prazo máximo de 6 meses.
+
+2 - Nas situações em que haja a necessidade de prolongar o empréstimo das ajudas técnicas, o pedido poderá ser renovado.
+
+###### Artigo 13.º — Termos de responsabilidade e de devolução
+
+O beneficiário do apoio ou o seu representante, assinam o termo de responsabilidade aquando da entrega da ajuda técnica, bem como o termo de devolução quando cessar a necessidade de apoio.
+
+###### Artigo 14.º — Obrigações dos utilizadores
+
+Constituem obrigações dos Beneficiários deste apoio:
+
+a) Informar, atempadamente os serviços competentes da Câmara Municipal de Vila Real de Santo António, acerca da mudança de residência e de qualquer alteração verificada relativamente aos requisitos propostos para atribuição do benefício e que venham a comprometer a sua utilização;
+
+b) Devolver, assim que deixe de ser necessária e em bom estado de conservação, as ajudas técnicas que lhes foram cedidas;
+
+c) Providenciar o transporte do material, salvo excepções devidamente fundamentadas.
+
+###### Artigo 15.º — Cessação do direito ao apoio
+
+1 - Constituem causas de cessação imediata do direito ao Apoio:
+
+a) A prestação por parte do beneficiário, de falsas declarações quer no período de instrução do processo de candidatura quer ao longo do período de validade do apoio;
+
+b) A não apresentação, no prazo de 30 dias úteis, da documentação solicitada pela Divisão de Acção Social da Câmara Municipal de Vila Real de Santo António;
+
+c) O recebimento de outro benefício ou subsídio, de idêntica natureza, concedido por outra entidade, salvo se for dado conhecimento aos serviços competentes da Câmara Municipal e esta, ponderadas as circunstâncias, considerar justificada a acumulação;
+
+d) A alteração de residência para fora do concelho, salvo por motivo de força maior devidamente comprovada, designadamente por doença prolongada;
+
+e) A não comunicação por escrito, no prazo de 30 dias, acerca das alterações verificadas relativamente aos requisitos de atribuição do beneficio, que sejam susceptíveis de influenciar a aprovação do processo e de que resulte prejuízo para a Câmara Municipal e para os restantes beneficiários.
+
+f) A utilização indevida da ajuda técnica.
+
+2 - Nas situações indicadas nas alíneas a), b), c), d) e f) do número anterior do presente artigo, a Câmara Municipal reserva-se o direito de exigir ao beneficiário a reparação dos danos provocados ou o pagamento do respectivo preço integral, bem como adoptar os procedimentos legais julgados adequados.
+
+###### Artigo 16.º — Revisão
+
+O presente Regulamento poderá sofrer as alterações tidas como necessárias e indispensáveis, em qualquer momento e nos termos legais.
+
+###### Artigo 17.º — Omissões
+
+As situações omissas no presente regulamento serão analisadas e resolvidas, mediante deliberação da Câmara Municipal de Vila Real de Santo António.
+
+###### Artigo 18.º — Entrada em vigor
+
+O Presente Regulamento entra em vigor logo que aprovado e no dia imediato ao da sua publicação, vigorando enquanto não for expressa ou tacitamente revogado.
+
+304827709

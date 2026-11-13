@@ -1,0 +1,326 @@
+---
+schema_version: '1.0'
+id: pt:dre:75612112:por
+title: Regulamento n.º 981/2016
+short_title: null
+summary: Regulamento Municipal dos Horários de Funcionamento dos Estabelecimentos Comerciais e de Prestação de Serviços no
+  Município de Ponte da Barca
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Ponte da Barca
+proposing_entity: null
+official_number: 981/2016
+official_date: null
+publication_date: '2016-10-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 207/2016, Série II de 2016-10-27
+  number: '207'
+  series: II
+  supplement: null
+  pages: 32229 - 32232
+  pdf_url: https://files.diariodarepublica.pt/2s/2016/10/207000000/3222932232.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '75612112'
+  dre_path: /dr/detalhe/regulamento/981-2016-75612112
+  internal: pt:dre:75612112:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/981-2016-75612112
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/981-2016-75612112
+  consolidated_url: null
+  retrieved_at: '2026-11-13T06:14:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 31fd85d0d16d096706dc567bcfb1c1a762315498e36336c8c4713a9a5ea1b818
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T06:14:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:168060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+article_structure:
+  article_count: 19
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T06:14:21Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 981/2016
+
+António Vassalo Abreu, Presidente da Câmara Municipal de Ponte da Barca:
+
+Faz público que, decorrido o período de consulta pública, por deliberação do executivo camarário tomada em reunião ordinária, realizada no pretérito dia 01 de julho de 2016, sancionada pelo órgão deliberativo, em sua sessão ordinária de 29 de setembro de 2016, foi aprovado o Regulamento Municipal dos Horários de Funcionamento dos Estabelecimentos Comerciais e de Prestação de Serviços no Município de Ponte da Barca, o qual se publica, nos termos previstos no artigo 139.º do Código do Procedimento Administrativo, na 2.ª série do Diário da República.
+
+14 de outubro de 2016. - O Presidente da Câmara Municipal, António Vassalo Abreu.
+
+Regulamento Municipal dos Horários de Funcionamento dos Estabelecimentos Comerciais e de Prestação de Serviços no Município de Ponte da Barca
+
+Preâmbulo
+
+O regime dos horários de funcionamento dos estabelecimentos de venda ao público e de prestação de serviços foi estabelecido pelo [Decreto-Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1996-469018), de 15 de maio, alterado pelos Decretos-Lei n.º 126/96, de 10 de agosto, 111/2010, de 15 de outubro, 48/2011, de 1 de abril e 10/2015, de 16 de janeiro.
+
+No âmbito da última alteração, o regime dos horários de funcionamento veio sofrer alterações significativas, mormente, prevendo o princípio da liberdade de horário de funcionamento da generalidade dos estabelecimentos. A par da liberalização de horários de funcionamento dos estabelecimentos procede-se a uma descentralização da decisão de limitação dos horários. Prevê-se, com efeito, que as Câmaras Municipais, por via regulamentar, possam restringir os períodos de funcionamento a vigorar em todas as épocas do ano ou apenas em épocas determinadas, em casos devidamente fundamentados e que se prendem com razões de segurança e proteção da qualidade de vida dos cidadãos, sempre sem prejuízo da legislação laboral e do ruído. Ora, obedecendo a uma lógica de descentralização administrativa, ou seja, pela experiência recolhida pela Câmara Municipal, justifica-se que se estabeleçam determinados limites ao funcionamento dos estabelecimentos, imperando a fixação dos horários de funcionamento dos estabelecimentos, sem descurar os princípios do interesse público e da livre iniciativa privada, o equilíbrio e harmonização dos interesses dos agentes económicos do concelho, bem como, a proteção da segurança e qualidade de vida dos munícipes. Por conseguinte, o presente Regulamento procura assegurar uma harmonização entre a vocação residencial, localizada no Centro Histórico, e não só, com a vocação comercial, evitando a falta de ajuste dos seus horários de funcionamento. Prevê, assim, uma limitação dos horários de forma a não inviabilizar totalmente o desenvolvimento da atividade comercial, mas reduzindo de forma proporcional os limites máximos de funcionamento. Tudo de forma a não implicar ou agravar situações de incomodidade e de perturbação do descanso dos moradores e da segurança pública nas imediações dos estabelecimentos, cujo funcionamento é permitido em horas habitualmente dedicadas ao descanso.
+
+Assim, ao abrigo do disposto no n.º 7 do artigo 112.º e 241.º da Constituição da República Portuguesa, do Anexo I, da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, dos artigos 99.º e ss do Código do Procedimento Administrativo, é aprovado o presente Regulamento Municipal dos Horários de Funcionamento dos Estabelecimentos Comerciais e de Prestação de Serviços no Município de Ponte da Barca, nos termos da deliberação tomada pela Assembleia Municipal em 29 de setembro de 2016, sob proposta da Câmara Municipal, sendo certo que o projeto de regulamento foi submetido a apreciação pública, pelo prazo de 30 dias úteis, mediante publicação por meio de Edital, nos jornal local, no portal do Município, nos termos, e para os efeitos previstos, no artigo 101.º do Código do Procedimento Administrativo.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Lei habilitante
+
+O presente regulamento foi elaborado no uso do poder regulamentar conferido às autarquias pelo artigo 241.º da Constituição da República Portuguesa, nos termos do disposto na alínea k) do n.º 1 do artigo 33.º, conjugado com a alínea g), do n.º 1, do artigo 25.º, do Anexo I, da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, e ainda do [Decreto-Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1996-469018), de 15 de maio, alterado pelos Decretos-Leis n.os [126/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), de 10 de agosto, [216/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1996-168060), de 20 de novembro, [111/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), de 15 de outubro, [48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 01 de abril, e [10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+Este regulamento define o regime dos horários de funcionamento dos estabelecimentos comerciais de venda ao público e de prestação de serviços, situados na área do Município de Ponte da Barca.
+
+### CAPÍTULO II — Regime geral de abertura e funcionamento
+
+###### Artigo 3.º — Horário de funcionamento
+
+1 - As entidades exploradoras dos estabelecimentos de venda ao público e de prestação de serviços devem definir os respetivos horários de funcionamento, dentro dos limites fixados no presente Regulamento.
+
+2 - Os estabelecimentos situados em centros comerciais são abrangidos pelas restrições fixadas no presente Regulamento, consoante o ramo de atividade.
+
+3 - Os estabelecimentos mistos ficam sujeitos a um único horário de funcionamento, em função da atividade dominante, estabelecido de acordo com as restrições fixadas no presente Regulamento.
+
+###### Artigo 4.º — Mapa de horário de funcionamento
+
+1 - Em cada estabelecimento deve estar afixado o mapa de horário de funcionamento em local bem visível do exterior.
+
+2 - Para o conjunto de estabelecimentos, instalados num único edifício que pratiquem o mesmo horário de funcionamento, deve ser afixado um mapa de horário de funcionamento em local bem visível do exterior.
+
+###### Artigo 5.º — Intervalos de funcionamento
+
+1 - Durante o período de funcionamento, os estabelecimentos podem fazer intervalos, encerrando por períodos a fixar.
+
+2 - As disposições constantes deste Regulamento não prejudicam as presunções, referentes à duração semanal e diária de trabalho estabelecidas na lei, em instrumento de regulamentação coletiva de trabalho ou no contrato individual de trabalho, sem prejuízo do período de abertura dos estabelecimentos.
+
+###### Artigo 6.º — Permanência e abastecimento dos estabelecimentos
+
+É permitida a abertura antes ou depois do horário de funcionamento para fins exclusivos e comprovados de abastecimento e limpeza do estabelecimento.
+
+###### Artigo 7.º — Período de encerramento
+
+1 - Para efeitos do presente regulamento considera-se que o estabelecimento está encerrado quando a porta do estabelecimento se encontre fechada, não se permita a entrada de clientes, cesse o fornecimento e consumo de qualquer bem ou prestação de serviço dentro ou fora do estabelecimento e não haja música ligada, ruído ou qualquer outro sinal de funcionamento no interior do estabelecimento.
+
+2 - Decorridos 30 minutos após o encerramento, é expressamente proibida a permanência de clientes ou pessoas estranhas ao serviço no interior do estabelecimento.
+
+3 - Caso não se verifiquem as condições enunciadas nos números anteriores, considera-se que, para os devidos efeitos, o estabelecimento se encontra em funcionamento.
+
+###### Artigo 8.º — Regime geral do período de funcionamento
+
+Sem prejuízo do disposto em regime especial para atividades não especificadas no presente diploma, e, ainda, do disposto nos artigos seguintes, os estabelecimentos abaixo descritos têm horário de funcionamento livre:
+
+1 - Estabelecimentos de venda ao público;
+
+2 - Estabelecimentos de prestação de serviços;
+
+3 - Estabelecimentos de restauração ou de bebidas;
+
+4 - Estabelecimentos de restauração ou de bebidas:
+
+4.1 - Com espaço para dança;
+
+4.2 - Com salas destinadas a dança;
+
+4.3 - Com salas onde habitualmente se dance;
+
+4.4 - Com salas onde se realizem, de forma acessória, espetáculos de natureza artística;
+
+5 - Recintos fixos de espetáculos;
+
+6 - Recintos de divertimentos públicos não artísticos;
+
+7 - Estabelecimentos situados em postos de abastecimento de combustíveis.
+
+###### Artigo 9.º — Zonamento
+
+1 - Os estabelecimentos de restauração e ou de bebidas, lojas de conveniência, bem como outros estabelecimentos que desenvolvam atividades análogas, localizados na Zona 2 delimitada na planta anexa ao presente regulamento, devem adotar horário de funcionamento entre as 7 horas e as 2 horas.
+
+2 - Os estabelecimentos de restauração e ou de bebidas, lojas de conveniência, bem como outros estabelecimentos que desenvolvam atividades análogas, localizados na Zona 1 delimitada na planta anexa ao presente regulamento, devem adotar horário de funcionamento entre as 7 horas e as 4 horas, somente sextas-feiras, sábados e vésperas de feriados.
+
+3 - O horário de funcionamento definido no número um e dois deste artigo aplica-se aos seguintes estabelecimentos:
+
+a) Cafés, pastelarias, gelatarias, casas de chá, cervejarias, tabernas, bares e outros análogos;
+
+b) Restaurante, snack-bares, casas de pasto, adegas típicas, pizzarias, self-services e similares;
+
+c) Cinemas, teatros e outras casas de espetáculos;
+
+d) Lojas de conveniência;
+
+e) Salas de bingo;
+
+f) Outros estabelecimentos não previstos nas alíneas anteriores que desenvolvam atividades análogas.
+
+### CAPÍTULO III — Regime excecional de funcionamento
+
+###### Artigo 10.º — Alargamento dos horários de funcionamento em zonas com limitação de horário
+
+1 - O Presidente da Câmara Municipal, ou o Vereador com competências delegadas para o efeito, ouvidos os sindicatos, as associações patronais, as associações de consumidores, a força de segurança e a Junta de Freguesia onde o estabelecimento se situa, pode, casuisticamente, alargar os limites fixados no artigo 9.º do presente regulamento, a vigorar em todas as épocas do ano ou apenas em épocas determinadas.
+
+2 - As entidades consultadas ao abrigo do número anterior devem pronunciar-se no prazo de 10 dias, a contar da respetiva notificação.
+
+3 - Considera-se haver concordância daquelas entidades com a proposta de alargamento do horário, se a respetiva pronúncia não for recebida dentro do prazo referido no número anterior.
+
+4 - O alargamento do horário fixado só poderá ser autorizado se cumulativamente se verificarem os seguintes requisitos:
+
+a) Sejam respeitados os níveis de ruído impostos pela legislação em vigor, tendo em vista a salvaguarda do direito à tranquilidade, repouso e segurança dos cidadãos residentes;
+
+b) Sejam respeitadas as condições de circulação e estacionamento do local;
+
+c) Não existam reclamações fundamentadas sobre o funcionamento do estabelecimento;
+
+d) Não sejam desrespeitadas as características socioculturais e ambientais da zona.
+
+5 - Não obstante o disposto nos números anteriores, o Presidente da Câmara, ou o Vereador com competências delegadas para o efeito, poderá não autorizar o alargamento do horário, em salvaguarda do interesse público.
+
+6 - O alargamento do horário concedido poderá ser revogado, a todo o tempo, quando se verifique alteração de qualquer um dos requisitos que o determinam.
+
+7 - Em circunstâncias específicas, nomeadamente em ocasiões festivas, pode o Presidente da Câmara Municipal, ou o Vereador com competências delegadas para o efeito, autorizar o alargamento do horário de funcionamento dos estabelecimentos sem horário de funcionamento livre sem prévia audição das entidades referidas no número um, mediante requerimento escrito apresentado pelos interessados com pelo menos cinco dias de antecedência, do qual deve constar o período de funcionamento pretendido e os fundamentos dessa pretensão.
+
+8 - Sem prejuízo do disposto nos números anteriores, os estabelecimentos sem horário livre localizados na Zona 2 usufruem, desde logo, do alargamento de horário até às 4 horas nos termos que se elencam em seguida:
+
+8.1 - Na época do Natal e Fim do Ano (de 20.12 a 02.01 do ano seguinte) em todas as sextas-feiras, sábados, vésperas de Natal e véspera de Ano Novo;
+
+8.2 - Na terça-feira - dia de Carnaval;
+
+8.3 - Na Páscoa: na quinta-feira santa, na sexta-feira santa e no sábado que antecedem o domingo de Páscoa;
+
+8.4 - Nas festas do concelho - Romaria do S. Bartolomeu.
+
+###### Artigo 11.º — Restrição excecional do horário de funcionamento
+
+1 - O Presidente da Câmara Municipal, ou o Vereador com competências delegadas para o efeito, ouvidos os sindicatos, as associações patronais, as associações de consumidores, a força de segurança e a Junta de Freguesia onde o estabelecimento se situa, pode restringir os horários de funcionamento fixados no artigo 9.º do presente regulamento.
+
+2 - As entidades consultadas ao abrigo do número anterior devem pronunciar-se no prazo de 10 dias, a contar da respetiva notificação.
+
+3 - Considera-se haver concordância daquelas entidades com a proposta de restrição do horário, se a respetiva pronúncia não for recebida dentro do prazo referido no número anterior.
+
+4 - A restrição dos limites de funcionamento poderá vigorar em todas as épocas do ano ou apenas em épocas determinadas, tendo sempre em conta os interesses das atividades económicas e dos consumidores e desde que se verifique alguma das seguintes situações:
+
+a) Estejam em causa razões de segurança dos cidadãos;
+
+b) Estejam em causa razões de proteção da qualidade de vida dos cidadãos, nomeadamente o direito ao repouso;
+
+c) Existam reclamações fundamentadas, com apresentação de relatório de avaliação acústica de ruído de vizinhança, sobre o funcionamento dos estabelecimentos.
+
+5 - A decisão de restrição do horário de funcionamento é antecedida de audiência dos interessados, num prazo de 10 dias.
+
+6 - A medida de restrição do horário de funcionamento determina a substituição, pelo titular da exploração do estabelecimento, do mapa de horário de funcionamento e poderá ser revogada a requerimento do interessado, desde que o mesmo comprove que cessou a situação de facto que a motivou.
+
+### CAPÍTULO IV — Fiscalização e regime contraordenacional
+
+###### Artigo 12.º — Competência para fiscalização
+
+1 - A fiscalização do cumprimento do disposto no presente Regulamento compete à Guarda Nacional Republicana, à Autoridade de Segurança Alimentar e Económica e ao Município de Ponte da Barca.
+
+2 - As autoridades de fiscalização mencionadas no número anterior podem determinar o encerramento imediato do estabelecimento que se encontre a laborar fora do horário de funcionamento estabelecido.
+
+###### Artigo 13.º — Contraordenações e coima
+
+1 - Constitui contraordenação punível com coima:
+
+a) A falta da afixação, em local bem visível do exterior, do respetivo mapa de horário de funcionamento;
+
+b) O funcionamento do estabelecimento fora do horário estabelecido.
+
+2 - A contraordenação prevista na alínea a) do número anterior é punível com coima de 150 (euro) a 450 (euro), para pessoas singulares, e de 450 (euro) a 1.500 (euro), para pessoas coletivas.
+
+3 - A contraordenação prevista na alínea b) do número anterior é punível com coima de 250 (euro) a 3.740 (euro), para pessoas singulares, e de 2.500 (euro) a 25.000 (euro), para pessoas coletivas.
+
+###### Artigo 14.º — Sanção Acessória
+
+Em caso de reincidência e quando a culpa do agente e a gravidade da infração o justifique, para além das coimas previstas no artigo 13.º, pode ser aplicada a sanção acessória de encerramento do estabelecimento durante um período não inferior a três meses e não superior a dois anos.
+
+###### Artigo 15.º — Instrução e decisão das contraordenações
+
+A instrução dos processos de contraordenação e a aplicação das coimas e de sanções acessórias competem ao Presidente da Câmara Municipal, ou o Vereador com competências delegadas para o efeito, revertendo as receitas provenientes da sua aplicação para a Câmara Municipal.
+
+### CAPÍTULO V — Disposições finais e transitórias
+
+###### Artigo 16.º — Disposição transitória
+
+Relativamente aos estabelecimentos não compreendidos no regime geral previsto no artigo 3.º, o presente regulamento não prejudica os alargamentos já concedidos antes da entrada em vigor do presente Regulamento, sem prejuízo da possibilidade de os mesmos poderem vir a ser alterados nos termos do presente Regulamento.
+
+###### Artigo 17.º — Legislação subsidiária e interpretação
+
+1 - Em tudo o que não estiver expressamente previsto neste Regulamento regem as disposições legais aplicáveis.
+
+2 - As dúvidas e as omissões suscitadas pela aplicação deste Regulamento serão resolvidas por despacho do Presidente da Câmara Municipal.
+
+###### Artigo 18.º — Norma revogatória
+
+Com a entrada em vigor do presente Regulamento, fica revogado o Regulamento Municipal dos Horários de Funcionamento dos Estabelecimentos Comerciais e de Prestação de Serviços no Município de Ponte da Barca, aprovado pela Assembleia Municipal em 29 de abril de 2013.
+
+###### Artigo 19.º — Entrada em vigor
+
+O presente Regulamento entra em vigor 15 dias após a sua publicação.
+
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/2s/2016/10/207000000/3222932232.pdf)
+
+209943086

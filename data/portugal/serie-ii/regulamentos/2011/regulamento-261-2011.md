@@ -1,0 +1,528 @@
+---
+schema_version: '1.0'
+id: pt:dre:3593232:por
+title: Regulamento n.º 261/2011
+short_title: null
+summary: Regulamento Tarifário da Prestação de Serviços Públicos de Abastecimento de Água, de Saneamento e de Gestão de Resíduos
+  Urbanos
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Figueiró dos Vinhos
+proposing_entity: null
+official_number: 261/2011
+official_date: null
+publication_date: '2011-04-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 79/2011, Série II de 2011-04-21
+  number: '79'
+  series: II
+  supplement: null
+  pages: 18074 - 18080
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/04/079000000/1807418080.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3593232'
+  dre_path: /dr/detalhe/regulamento/261-2011-3593232
+  internal: pt:dre:3593232:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/261-2011-3593232
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/261-2011-3593232
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:39:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 69055277834959f9ac76d61849a8bf6ef473a62363b7bd0a3562bc67e4b225fe
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:39:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:246504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2542762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+article_structure:
+  article_count: 24
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:39:33Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 261/2011
+
+Rui Manuel de Almeida e Silva, Presidente da Câmara Municipal de Figueiró dos Vinhos
+
+Torna público que, para os devidos efeitos, a Câmara Municipal de Figueiró dos Vinhos aprovou em definitivo, em reunião de 30 de Março de 2011, o Regulamento Tarifário da Prestação de Serviços Públicos de Abastecimento de Água, de Saneamento e de Gestão de Resíduos Urbanos.
+
+Mais torna público que o Regulamento Tarifário da Prestação de Serviços Públicos de Abastecimento de Água, de Saneamento e de Gestão de Resíduos Urbanos entra em vigor a 01 de Maio de 2011.
+
+Para constar se publica o presente Edital e outros de igual teor, que vai ser publicado na 2.ª série do Diário da República, no endereço electrónico do Município e afixado nos lugares públicos de estilo.
+
+12 de Abril de 2011. - O Presidente da Câmara Municipal, Rui Manuel de Almeida e Silva.
+
+Regulamento Tarifário da Prestação de Serviços Públicos de Abastecimento de Água, de Saneamento e de Gestão de Resíduos Urbanos
+
+Nota Justificativa
+
+De todos os recursos naturais necessários para se garantir a subsistência das populações e o desenvolvimento económico, os recursos hídricos têm uma relevância inequívoca, condicionada ao facto de nem sempre se encontrarem disponíveis na quantidade e qualidade procurada.
+
+As entidades públicas têm-se limitado, praticamente em exclusivo, a satisfazer as necessidades crescentes de consumo sem fazer reflectir nos preços praticados os custos totais que a sociedade suporta para satisfazer a procura.
+
+Por razões diversas, de natureza hidrológica, ambiental e financeira, a disponibilização dos recursos em quantidades necessárias para a população em desenvolvimento, assume uma problemática crescente. Não só os custos associados à gestão têm experimentado ao longo dos últimos anos um aumento progressivo, mas, adicionalmente a estes, também têm tido grandes aumentos os custos relacionados com o incremento da capacidade da oferta (custos de capital) e custos ambientais (esgotamento de aquíferos, captações excessivas etc.).
+
+À luz da teoria económica, o preço assume um papel essencial na valorização e conservação dos recursos. Se o preço não reflectir o custo real, os consumidores recebem um sinal incorrecto do mercado e, em consequência, utilizam o recurso de forma ineficiente. No caso dos recursos hídricos, as perspectivas sobre o crescimento económico, o aumento da população e as alterações climáticas contribuem para a sua crescente escassez e para a inevitável subida dos custos. Nestes termos, a correcta definição do preço desempenhará um papel importante na gestão da procura.
+
+Uma política tarifária baseada em custos totais, contribui para o uso mais eficiente dos recursos e proporciona a necessária base financeira para sustentar o funcionamento, manutenção e substituição futura dos sistemas.
+
+Neste contexto aprovou o Governo em princípios de 2007, através do Despacho 2339/2007 do Ministro do Ambiente, Ordenamento do Território e Desenvolvimento Regional, publicado no Diário da República 2.ª série a 14 de Fevereiro de 2007, o Plano Estratégico de Abastecimento de Água e Saneamento de Águas Residuais para o período de 2007 - 20013 (PEAASAR II) onde definem objectivos e se propõem medidas de optimização de gestão nas vertentes em alta e em baixa e de optimização do desempenho ambiental do sector.
+
+Neste documento são definidos três grandes objectivos estratégicos e as respectivas orientações para enquadramento dos objectivos operacionais e das medidas a desenvolver no período em causa, designadamente:
+
+1 - A universalidade, a continuidade e a qualidade de serviço;
+
+2 - A sustentabilidade do sector; e
+
+3 - A protecção dos valores ambientais.
+
+No contexto da sustentabilidade do sector este documento aponta como objectivos operacionais
+
+Garantir a recuperação integral dos custos incorridos dos serviços;
+
+Optimizar a gestão operacional e eliminar custos de ineficiência; e
+
+Contribuir para a dinamização do tecido empresarial privado nacional e local; Também a [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, que aprovou a Lei das Finanças Locais, estabeleceu no seu artigo 16.º que:
+
+"1 - Os preços e demais instrumentos de remuneração a fixar pelos municípios relativos aos serviços prestados e aos bens fornecidos em gestão directa pelas unidades orgânicas municipais ou pelos serviços municipalizados não devem ser inferiores aos custos directa e indirectamente suportados com a prestação desses serviços e com o fornecimento desses bens.
+
+2 - Para efeitos do número anterior, os custos suportados são medidos em situação de eficiência produtiva e, quando aplicável, de acordo com as normas do regulamento tarifário em vigor.
+
+3 - O preços e demais instrumentos de remuneração a cobrar pelos municípios respeitam, designadamente, às actividades de exploração de sistemas municipais ou intermunicipais de:
+
+a) Abastecimento público de água;
+
+b) Saneamento de águas residuais;
+
+c) Gestão de resíduos sólidos;
+
+d) Transportes colectivos de pessoas e mercadorias;
+
+e) Distribuição de energia eléctrica em baixa tensão.
+
+4 - Relativamente às actividades mencionadas no número anterior, os municípios devem cobrar preços nos termos de regulamento tarifário a aprovar."
+
+Foi criada através do [Decreto-Lei n.º 207/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2006-545642), de 27 de Outubro, a ERSAR - Entidade Reguladora dos Serviços de Águas e Resíduos e o [Decreto-Lei n.º 277/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-2009-491175), de 2 de Outubro, aprovou a sua orgânica. Cabe a esta entidade reguladora a verificação do cumprimento da legislação por parte de todas as entidades gestoras de sistemas de abastecimento de água, saneamento de águas residuais ou recolha de resíduos sólidos.
+
+Foi publicado pela ERSAR a [Recomendação n.º 1/2009](https://diariodarepublica.pt/dr/detalhe/recomendacao/1-2009-2542762) sobre os critérios a adoptar nos Tarifário dos Serviços Públicos de Abastecimento de Água, de Saneamento de Águas Residuais e de Gestão de Resíduos Urbanos e, recentemente, foi publicado o [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de Agosto, diploma que estabelece o Regime Jurídico dos Serviços Públicos de Abastecimento de Água, de Saneamento de Águas Residuais e de Gestão de Resíduos Urbanos que vincula todas as entidades, públicas e privadas, gestoras de serviços públicos de águas e resíduos prestados a utilizadores finais, independentemente do seu modelo de gestão, bem como as entidades públicas responsáveis pela aprovação de tarifários aplicáveis na relação com os utilizadores finais. E mais recentemente, foi publicada a Portaria n.º 34/2011, de 13 de Janeiro, diploma que estabelece o conteúdo mínimo do regulamento de serviço relativo à prestação dos serviços de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos urbanos aos utilizadores, abrangidos pelo Decreto -Lei n.º 194/2009, de 20 de Agosto.
+
+Assim, os tarifários de serviços de águas e resíduos devem obedecer aos princípios genericamente estabelecidos pela lei de Bases do Ambiente, pela Lei da Água, pelo Regime Económico e Financeiro dos Recursos Hídricos, pelo Regime Geral da Gestão de Resíduos e pela Lei das Finanças Locais, e respeitar especificamente os princípios seguintes:
+
+a) Princípio da recuperação dos custos: os tarifários devem permitir a recuperação dos custos económicos e financeiros decorrentes da provisão dos serviços na medida do necessário para garantir a qualidade do serviço prestado e a sustentabilidade económica e financeira das entidades gestoras;
+
+b) Princípio da utilização eficiente dos recursos hídricos: os tarifários dos serviços de águas devem incentivar, em articulação com outros instrumentos de gestão de recursos hídricos, a utilização eficiente da água e a garantia do bom estado de qualidade dos recursos hídricos, penalizando os desperdícios e os consumos mais elevados;
+
+c) Princípio da prevenção e redução da produção de resíduos: os tarifários dos serviços de resíduos devem contribuir para evitar e reduzir a produção e resíduos, incentivando a adesão dos utilizadores finais aos sistemas de deposição e recolha selectiva de materiais e a valorização dos resíduos;
+
+d) Princípio da capacidade de pagamento: os tarifários devem atender à capacidade de pagamento dos utilizadores finais, de forma a garantir o acesso universal aos serviços de águas e resíduos;
+
+e) Princípio da transparência: os tarifários devem apresentar uma estrutura tão simples e transparente quanto possível, facilitando a respectiva compreensão por parte dos utilizadores finais;
+
+f) Princípio da uniformização das estruturas tarifárias: as estruturas tarifárias previstas no presente Regulamento devem ser aplicadas de forma uniforme no território continental português.
+
+Os tarifários devem ser concebidos de modo a assegurar a defesa dos interesses dos utilizadores finais quanto à continuidade e qualidade dos serviços e a prevenir as práticas anti-concorrenciais bem como a subsidiação cruzada entre os diferentes serviços e actividades levados a cabo pelas entidades gestoras.
+
+Assim os tarifários, tanto para a água como para o saneamento de águas residuais e resíduos sólidos, deverão subordinar-se aos imperativos de sustentabilidade social permitindo o acesso a estes serviços a toda a população e empresas, independentemente do nível de rendimentos e capacidade para os pagar. Com este objectivo os tarifários devem ter:
+
+Um preço fixo de disponibilidade do serviço;
+
+Um preço variável em função do consumo; e
+
+Um escalão de preço variável baixo e acessível à população mais carenciada.
+
+O presente regulamento teve ainda em atenção o disposto no [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de Agosto, diploma que estabeleceu o regime jurídico dos serviços municipais de abastecimento público de água, de saneamento de águas residuais urbanas e de gestão de resíduos urbanos.
+
+Considerando:
+
+1.º Que o Município de Figueiró dos Vinhos tem a seu cargo a prestação de serviços relativos a:
+
+a) Adução e distribuição de água doméstica, industrial, comercial e para rega;
+
+b) Colecta e transporte de águas residuais domésticas e pluviais;
+
+c) Recolha de resíduos sólidos urbanos;
+
+d) Manutenção de infra-estruturas, designadamente a manutenção de redes de adução e distribuição de água, sistemas de drenagem de águas residuais e pluviais e recolha de resíduos sólidos.
+
+2.º Que as tarifas actualmente em vigor de fornecimento de água e saneamento de águas residuais não são actualizadas desde 1996, excepto as actualizações anuais em função da inflação;
+
+3.º Que as tarifas actualmente em vigor de recolha de resíduos sólidos não são actualizadas desde 2002;
+
+4.º Que se deverá garantir a sustentabilidade económica destes sistemas através da recuperação integral dos custos totais incorridos na prestação dos serviços;
+
+5.º Que a estrutura tarifária deverá adoptar em primeiro plano a utilização de "tarifários bi-partidos" para os serviços de águas e resíduos prestados a utilizadores finais, isto é com uma componente fixa (aplicada em função do intervalo de tempo de prestação de serviço) e uma componente variável (aplicada em função do nível de utilização do serviço durante esse serviço);
+
+6.º Que se teve em atenção objectivos de equidade e justiça dos mais desfavorecidos social e economicamente. Esta norma cria a tarifa social de abastecimento de água, saneamento e águas residuais e recolha de resíduos sólidos urbanos destinada a utilizadores finais que se encontrem numa situação de carência socioeconómica. Trata-se de previsão de uma norma de protecção aos consumidores economicamente vulneráveis, garantindo o acesso ao serviço essencial de abastecimento de água, saneamento e águas residuais e recolha de resíduos sólidos urbanos, nomeadamente, assegurando preços compatíveis com a sua situação socioeconómica. O acesso à tarifa social, por se tratar de uma medida de cariz social, é efectuado através de um critério de elegibilidade que tem subjacente as prestações atribuídas pelo sistema de segurança social. Assim, têm acesso à tarifa social de abastecimento de água, saneamento e águas residuais e recolha de resíduos sólidos urbanos os beneficiários do rendimento social de inserção.
+
+No uso da competência que está cometida às câmaras municipais, nos termos do artigo 241.º da Constituição da República Portuguesa e do preceituado na alínea j), do n.º 1 e na alínea a) do n.º 7, ambos do artigo 64.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com a redacção dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, e após período de discussão pública, e de ter ouvido a ERSAR, nos termos dispostos no n.º 4 do artigo 62.º do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de Agosto, a Câmara Municipal de Figueiró dos Vinhos aprova o seguinte Regulamento Tarifário da Prestação dos Serviços de Abastecimento de Água, Colecta de Águas Residuais e Recolha de Resíduos Sólidos do Município de Figueiró dos Vinhos.
+
+Regulamento Tarifário da Prestação de Serviços Públicos de Abastecimento de Água,
+
+de Saneamento e de Gestão de Resíduos Urbanos
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Lei Habilitante e Objecto
+
+1 - Nos termos do n.º 4 do artigo 16.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, e alíneas j), do n.º 1 e alíena a), do n.º 7, do artigo 64.º, da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com a redacção dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, são fixadas as tarifas bem como os respectivos quantitativos que constam da Tabela anexa a este regulamento.
+
+2 - O presente regulamento tem por objecto regulamentar as tarifas e fixar o respectivo quantitativo pela prestação aos utilizadores finais dos serviços públicos de abastecimento de água para consumo humano, de saneamento de águas residuais urbanas e de gestão de resíduos urbanos.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - As disposições do presente regulamento são aplicáveis à cobrança das tarifas previstas e estabelecidas nas Tabelas I a III anexas ao presente regulamento.
+
+2 - As disposições do presente regulamento são aplicáveis aos serviços municipais e vinculam, directa e imediatamente, as entidades públicas e privadas.
+
+###### Artigo 3.º — Princípios
+
+Os montantes estabelecidos neste regulamento respeitam os princípios da legalidade, da proporcionalidade e da igualdade e têm em consideração:
+
+a) O estabelecido no [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de Agosto, que estabelece o regime jurídico dos serviços municipais de abastecimento público de água, de saneamento de águas residuais urbanas e de gestão de resíduos urbanos;
+
+b) O estabelecido na [Lei n.º 23/96](https://diariodarepublica.pt/dr/detalhe/lei/23-1996-408366), de 26 de Julho, que estabelece no ordenamento jurídico alguns mecanismos destinados a proteger o utente de serviços públicos essenciais;
+
+c) O estabelecido na [Lei n.º 24/96](https://diariodarepublica.pt/dr/detalhe/lei/24-1996-406882), de 31 de Julho, que estabelece a lei de Defesa do Consumidor;
+
+d) O Plano Estratégico de Abastecimento de Água e Saneamento de Águas Residuais para o período de 2007 - 20013 (PEAASAR II) onde definem objectivos e se propõem medidas de optimização de gestão nas vertentes em alta e em baixa e de optimização do desempenho ambiental do sector;
+
+e) As Recomendações ERSAR - Entidade Reguladora dos Serviços de Águas e Resíduos; e
+
+f) Os Regulamentos Municipais de Abastecimento de Água e de Saneamento aprovados pelos órgãos municipais competentes.
+
+###### Artigo 4.º — Direito subsidiário
+
+São de aplicação supletiva ao presente regulamento, de acordo com a natureza dos casos omissos:
+
+a) O Regime Jurídico dos Serviços Municipais de Abastecimento Público de Água, de Saneamento de Águas Residuais Urbanas e de Gestão de Resíduos Urbanos;
+
+b) A lei dos Serviços Públicos Essenciais;
+
+c) A lei de Defesa do Consumidor;
+
+d) A Lei das Finanças Locais;
+
+e) A lei Geral Tributária;
+
+f) A lei que estabelece o quadro de competências e o regime jurídico de funcionamento dos órgãos dos Municípios e freguesias;
+
+###### Artigo 5.º — Definições
+
+Para efeitos do presente regulamento entende-se por:
+
+a) "Entidade gestora", o Município de Figueiró dos Vinhos enquanto entidade a quem compete a gestão directa dos sistemas de abastecimento, de saneamento ou de gestão de resíduos em relação directa com os utilizadores finais;
+
+b) "Entidades Públicas", o Estado, as autarquias locais, os fundos e serviços autónomos e as entidades que integram o sector empresarial do Estado e o sector empresarial local;
+
+c) "Instituições de beneficência e interesse público", as instituições particulares de solidariedade social, organizações e entidades não governamentais sem fim lucrativo ou outras entidades de reconhecida utilidade pública cuja acção social o justifique;
+
+d) "Serviços de águas", os serviços públicos de abastecimento de água para consumo humano e de saneamento de águas residuais urbanas;
+
+e) "Serviços de resíduos", os serviços públicos de gestão de resíduos urbanos, compreendendo, designadamente, a sua recolha indiferenciada e selectiva;
+
+f) "Serviços auxiliares", os serviços tipicamente prestados pela entidade gestora, de carácter conexo com os serviços de águas ou resíduos, mas que pela sua natureza, nomeadamente pelo facto de serem prestados pontualmente por solicitação do utilizador ou de terceiro, ou de resultarem de incumprimento contratual por parte do utilizador, devem ser objecto de facturação específica;
+
+g) "Sistemas de águas", os conjuntos funcionalmente interligados de infra-estruturas, equipamentos, meios logísticos e humanos e relações jurídicas destinados à prestação dos serviços de águas;
+
+h) "Sistemas de resíduos", os conjuntos funcionalmente interligados de infra-estruturas, equipamentos, meios logísticos e humanos e relações jurídicas destinados à prestação dos serviços de gestão de resíduos;
+
+i) "Tarifário", conjunto de valores unitários e outros parâmetros e regras de cálculo que permitem determinar o montante exacto a pagar pelo utilizador final à entidade gestora em contrapartida do serviço;
+
+j) "Tarifário Especial", o tarifário social e familiar, dois tipos de tarifários que prosseguem objectivos de equidade e justiça dos mais desfavorecidos social e economicamente bem como o auxílio às famílias numerosas;
+
+k) "Tarifa fixa", valor aplicado em função de cada intervalo temporal durante o qual o serviço se encontra disponibilizado ao utilizador final, visando remunerar a entidade gestora por custos fixos incorridos na construção, conservação e manutenção dos sistemas necessários à prestação do serviço;
+
+l) "Tarifa variável", valor ou conjunto de valores unitários aplicável em função do nível de utilização do serviço, em cada intervalo temporal, visando remunerar a entidade gestora pelo remanescente dos custos incorridos com a prestação do serviço;
+
+m) "Utilizadores finais", as pessoas singulares ou colectivas, públicas ou privadas, a quem sejam assegurados de forma continuada serviços de águas ou resíduos e que não tenham como objecto da sua actividade a prestação desses mesmos serviços a terceiros;
+
+n) "Utilizadores finais do tipo doméstico", aqueles que usem os prédios urbanos para fins habitacionais, com excepção das utilizações para as partes comuns, nomeadamente as dos condomínios;
+
+o) "Utilizadores finais não domésticos", todos aqueles que não se incluam na alínea anterior, inclusive o Estado, as autarquias locais, os fundos e serviços autónomos e as entidades que integram o sector empresarial do Estado e o sector empresarial local.
+
+###### Artigo 6.º — Interpretação
+
+1 - Na determinação do sentido das normas constantes do presente regulamento são observadas as regras e os princípios gerais de interpretação e aplicação das leis.
+
+2 - Sempre que nas normas constantes do presente regulamento se empreguem termos próprios de outros ramos de direito ou de outros regulamentos municipais, devem os mesmos ser interpretados no mesmo sentido que aí têm, salvo se outro decorrer expressamente do texto da norma.
+
+3 - Na interpretação de conceitos e expressões adoptados no presente regulamento deverá atender-se às definições legais e regulamentares aplicáveis.
+
+###### Artigo 7.º — Interpretação autêntica
+
+1 - Os casos omissos e as dúvidas suscitadas na interpretação e aplicação das disposições do presente regulamento podem ser objecto de interpretação autêntica por parte dos órgãos competentes, desde que sejam observados os procedimentos e formalidades legais previstos para a elaboração e aprovação do presente regulamento.
+
+2 - As orientações sobre casos omissos e as dúvidas suscitadas na interpretação e aplicação das disposições constantes do presente regulamento que não obedeçam ao disposto no número anterior apenas podem ser dotadas de eficácia interna.
+
+### CAPÍTULO II — Elementos essenciais
+
+###### Artigo 8.º — Incidência
+
+1 - Estão sujeitos à tarifa fixa e à tarifa variável do serviço de abastecimento de água para consumo humano os utilizadores finais que mantenham contrato de fornecimento com a entidade gestora, sendo as tarifas devidas a partir do momento do início da efectiva prestação do serviço.
+
+2 - Estão sujeitos à tarifa fixa e à tarifa variável do serviço de saneamento de águas residuais urbanas todos os utilizadores finais que mantenham contrato de recolha com as entidades gestoras, sendo as tarifas devidas a partir do momento do início da efectiva prestação do serviço.
+
+3 - Para efeitos do número anterior, considera-se indissociável da contratação do serviço de abastecimento a contratação do serviço de saneamento, desde que este esteja disponível através de redes fixas, podendo a sua contratação igualmente ocorrer por solicitação do utilizador em casos em que o serviço de abastecimento não se encontre disponível ou o serviço de saneamento só venha a ser disponibilizado em data posterior à da celebração do contrato de abastecimento.
+
+4 - Estão sujeitos à tarifa fixa e à tarifa variável do serviço de gestão de resíduos todos os utilizadores finais relativamente aos quais estes serviços se encontrem disponíveis nos termos dos números 4 e 5 do artigo 59.º do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de Agosto, e que tenham sido informados pela entidade gestora das condições em que o serviço é prestado, nos termos do n.º 1 do artigo 61.º do mesmo diploma.
+
+###### Artigo 9.º — Fixação
+
+1 - Sem prejuízo do disposto nos números seguintes, as tarifas devidas são as que constam das Tabelas de Tarifas que constituem as Tabelas I a III ao presente regulamento e que dele fazem parte integrante.
+
+2 - A Câmara Municipal pode fixar tarifas diferentes das constantes das tabelas que constituem as Tabelas I a III ao presente regulamento por motivos de natureza social, de mercado ou por qualquer outra razão de interesse público.
+
+3 - A criação de tarifas diferentes das constantes das tabelas que constituem as Tabelas I a III ao presente regulamento, prevista no número anterior, exige uma modificação do presente regulamento por aditamento, dando-se a devida publicidade nos termos do n.º 5 do artigo 64.º do [Decreto-Lei n.º 194/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2009-488144), de 20 de Agosto.
+
+4 - A Câmara Municipal pode ainda fixar tarifas diferentes das constantes das tabelas que constituem as Tabelas I a III ao presente regulamento quando os serviços solicitados não estejam tipificados e ou envolvam meios e recursos superiores ao previsível, sendo sujeitos a orçamentação prévia e casuística a realizar pelos serviços camarários.
+
+5 - Às quantias fixadas de acordo com o disposto nos números anteriores acresce IVA à taxa legal em vigor, excepto nas situações de isenção legal documentalmente comprovada.
+
+###### Artigo 10.º — Regras Gerais de Pagamento
+
+1 - O pagamento das tarifas pelo abastecimento de água, saneamento de águas residuais urbanas e gestão dos resíduos sólidos, anexas a este Regulamento, é devido mensalmente.
+
+2 - O pagamento das tarifas constantes do ponto I das Tabelas I a III torna-se exigível após a emissão pela Câmara Municipal da respectiva factura.
+
+3 - Após a emissão da factura o consumidor deverá proceder ao pagamento da mesma até à data limite estabelecida na respectiva factura.
+
+4 - O pagamento das tarifas constantes do ponto II das Tabelas I a III torna-se exigível após a notificação da respectiva liquidação e deverá ser paga até à data limite estabelecida na respectiva factura.
+
+5 - O pagamento das tarifas pode ser feito através dos meios indicados na respectiva factura, nomeadamente, moeda corrente ou cheque, débito em conta e vale postal ou por quaisquer outros meios utilizados pelos correios ou instituições de crédito expressamente autorizados por lei na satisfação de dívidas tributárias, admitindo-se o pagamento por terceiro.
+
+###### Artigo 11.º — Falta de Pagamento
+
+1 - Quando o pagamento não seja efectuado no prazo referido no n.º 3 do artigo anterior, o consumidor dispõe de mais 15 dias, para efectuar o pagamento das importâncias em débito acrescidas de juros de mora.
+
+2 - Os juros de mora referidos no número anterior são, no caso de estarem em causa utilizadores domésticos, os juros civis, e, no caso de utilizadores não domésticos, os juros comerciais.
+
+3 - Expirado o prazo referido no n.º 3 do artigo anterior e no n.º 1 do presente artigo, sem que o utente tenha ressarcido o Município das quantias devidas ou feito uso dos direitos e garantias que lhe são conferidos, a entidade gestora suspenderá o funcionamento do serviço, mediante aviso prévio de 10 dias, de suspensão do serviço por correio registado ou outro meio equivalente, e cujo respectivo custo é imputado ao utilizador em mora, e seguir-se-ão os termos conducentes à cobrança coerciva.
+
+4 - O restabelecimento do funcionamento do serviço só poderá ser efectuado após o pagamento de todas as dívidas não prescritas do titular ao Município, incluindo a tarifa de suspensão e reinício da ligação ao serviço.
+
+###### Artigo 12.º — Acertos na liquidação
+
+1 - Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou existir quaisquer omissões imputáveis aos serviços e das quais tenham resultado prejuízo para o Município, o serviço respectivo promoverá de imediato o acerto na liquidação, sem prejuízo dos prazos de prescrição e de caducidade do direito à liquidação dispostos na [Lei n.º 23/96](https://diariodarepublica.pt/dr/detalhe/lei/23-1996-408366), de 26 de Julho.
+
+2 - A liquidação adicional não será efectuada quando o quantitativo das mesmas for inferior a 0,50 (euro).
+
+3 - Para os efeitos da liquidação adicional, será notificado o contribuinte respectivo através da emissão de nova factura, por mandato ou por correio registado para no prazo de 20 dias para satisfazer a diferença, constando obrigatoriamente da notificação os fundamentos da cobrança adicional, montante e o prazo, bem como advertência de que o não pagamento implica a cobrança coerciva.
+
+###### Artigo 13.º — Arredondamentos
+
+Nas cobranças dos valores estabelecidos nas tabelas anexas a este regulamento, e independentemente do número de casas decimais com que quaisquer cálculos parcelares sejam apresentados, apenas o valor final da factura, com IVA incluído, é objecto de arredondamento, feito aos cêntimos de euro, para a segunda casa decimal por excesso, caso o valor da casa decimal seguinte seja igual ou superior a cinco, e por defeito no caso contrário, atento o disposto no [Decreto-Lei n.º 57/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2008-246504), de 26 de Março.
+
+###### Artigo 14.º — Actualizações
+
+1 - Os valores constantes nos pontos I das Tabelas I e II, anexas a este regulamento, são actualizados anualmente e na proporção que vierem a ser aprovados pelas Águas do Centro, S. A. no que respeita aos serviços que essas entidades disponibilizam ao Município.
+
+2 - No que diz respeito aos preços decorrentes dos demais serviços prestados directamente pelo Município, os valores são actualizados anualmente tendo como referente a taxa de inflação apurada pelo INE.
+
+3 - A actualização referida no número anterior deverá ser efectuada até ao dia 15 de Dezembro de cada ano e publicada, antes da sua entrada em vigor por um prazo de 15 dias, nos locais públicos de costume e no endereço electrónico do Município.
+
+4 - Por motivos devidamente fundamentados e sempre aprovadas pela Câmara Municipal, poderão existir actualizações extraordinárias, que serão, caso aprovadas, publicadas nos termos do n.º 3, do presente artigo.
+
+### CAPÍTULO III — Tarifários
+
+###### Artigo 15.º — Estrutura do tarifário
+
+1 - A tarifa fixa de abastecimento de água a utilizadores finais é devida em função do intervalo temporal objecto de facturação e é expressa em euros por cada trinta dias.
+
+2 - A tarifa variável do serviço de abastecimento de água a utilizadores finais é devida em função do volume de água fornecido durante o período objecto de facturação.
+
+3 - A tarifa fixa do serviço de abastecimento de água aplicável a utilizadores finais não domésticos é diferenciada de forma progressiva em função do diâmetro nominal do contador instalado.
+
+4 - A tarifa fixa de saneamento para utilizadores finais é devida em função do intervalo temporal objecto de facturação e ser expressa em euros por cada trinta dias.
+
+5 - A tarifa variável de saneamento para utilizadores finais é devida em função da aplicação do coeficiente de recolha de referência de âmbito nacional, isto é, 90 % do volume de água consumido.
+
+6 - A quantidade de resíduos objecto de recolha é estimada a partir de indicador de base específica, no caso, o consumo da água, por apresentar uma correlação estatística significativa com a efectiva produção de resíduos pelos utilizadores finais.
+
+###### Artigo 16.º — Regime tarifário
+
+1 - O valor dos consumos de água é fixado por escalões, tendo em atenção os tipos, natureza, origem e volume daqueles e terão em consideração as seguintes particularidades:
+
+1.1.1 - O consumo doméstico mensal tem quatro escalões, respectivamente o 1.º escalão para consumos superiores a 0 e até 5 m3, inclusive; o 2.º escalão para consumos superiores a 5 e até 15 m3, inclusive; o 3.º escalão para consumos superiores a 15 e até 25 m3, inclusive; e o 4.º escalão para consumos superiores a 25 m3.
+
+1.1.2 - O consumo de entidades públicas, de instituições de beneficência e interesse público, estabelecimentos de comércio/serviços e de indústria e similares tem um escalão único.
+
+1.1.3 - O consumo especial de água, referente ao tarifário social, tem quatro escalões, respectivamente o 1.º escalão para consumos superiores a 0 e até 5 m3, inclusive; o 2.º escalão para consumos superiores a 5 e até 15 m3, inclusive; o 3.º escalão para consumos superiores a 15 e até 25 m3, inclusive; e o 4.º escalão para consumos superiores a 25 m3.
+
+### CAPÍTULO IV — Regime especial de consumo doméstico de água
+
+###### Artigo 17.º — Tarifários especiais
+
+É estabelecido um tarifário especial do tipo Social.
+
+###### Artigo 18.º — Tarifário Social
+
+1 - O tarifário social destina-se a beneficiar utilizadores finais do tipo doméstico que, através de requerimento, comprovem que são beneficiários da prestação de Rendimento Social de Inserção (RSI).
+
+2 - O tarifário social traduz-se:
+
+a) Na isenção das tarifas fixas devidas pela prestação dos serviços públicos de abastecimento, de saneamento e de gestão de resíduos;
+
+b) Na redução de 50 % do valor da tarifa doméstica de consumo devida pela prestação dos serviços públicos de abastecimento de água, de saneamento e resíduos urbanos, até ao limite mensal máximo de 15 m3; e
+
+c) Na redução de 50 % do valor da tarifa devida pela prestação do serviço de limpeza de fossas referente ao imóvel do utilizador final beneficiário, até o limite máximo de 4 limpezas por ano;
+
+3 - A redução prevista na alínea b) do número anterior incide sobre o valor do tarifário correspondente ao escalão do consumo efectivo.
+
+4 - Sobre os consumos superiores a 15m3, a que se refere a alínea b) do n.º 2 do presente artigo, o valor da tarifa doméstica de consumo devida será liquidado pelo escalão do consumo global em que se enquadrar.
+
+5 - O requerimento mencionado no n.º 1, do presente artigo, deve ser instruído com os seguintes documentos:
+
+a) Declaração dos Serviços de Segurança Social comprovativo de que o consumidor é beneficiário da prestação de Rendimento Social de Inserção (RSI);
+
+b) Fotocópia do bilhete de identidade, cartão de contribuinte de todos os elementos maiores do agregado familiar; e
+
+c) Fotocópia do último recibo da água.
+
+6 - O tarifário social é aplicado no período de facturação imediato ao deferimento do pedido.
+
+7 - A atribuição prevista no presente artigo cessa quando cessar a prestação de Rendimento Social de Inserção (RSI), sendo renovável, pelo período de um ano, nos termos do artigo seguinte.
+
+###### Artigo 19.º — Renovação
+
+1 - A renovação da atribuição do tarifário social deve ser requerida com uma antecedência mínima de 30 dias úteis em relação ao termo do seu prazo de validade.
+
+2 - O pedido referido no número anterior deve ser instruído com os seguintes documentos:
+
+a) Declaração dos Serviços de Segurança Social comprovativo de que o consumidor é beneficiário do Rendimento Social de Inserção (RSI); e
+
+b) Fotocópia do último recibo da água.
+
+###### Artigo 20.º — Caducidade
+
+A atribuição do tarifário social caduca:
+
+1 - Na data da sua validade, se não for requerida dentro do prazo, a sua renovação.
+
+2 - Quando o titular tiver deixado de auferir a prestação de Rendimento Social de Inserção (RSI).
+
+### CAPÍTULO V — Isenção
+
+###### Artigo 21.º — Ligação ao Sistema Público de Saneamento
+
+Nos casos em que se verifique condições técnicas para assegurar a ligação de um imóvel ao sistema público municipal de abastecimento de água, mas que não seja possível a sua ligação ao sistema público municipal de saneamento, o utilizador final fica isento do pagamento da tarifa pelos serviços de saneamento até à data em que esse serviço possa ser assegurado.
+
+###### Artigo 22.º — Isenções Gerais
+
+1 - Os bombeiros voluntários do corpo de Bombeiros Voluntário de Figueiró dos Vinhos com mais de um ano no Corpo Auxiliar Activo que constem da listagem anualmente enviada ao Município de Figueiró dos Vinhos pelo comando e direcção da Associação Humanitária dos Bombeiros Voluntários de Figueiró dos Vinhos beneficiam de uma redução de 50 % do valor da tarifa doméstica de consumo devida pela prestação dos serviços públicos de abastecimento de água, de saneamento e de resíduos urbanos, até ao limite mensal máximo de 15 m3.
+
+2 - A isenção prevista no número anterior apenas é concedida aos bombeiros titulares de contrato de abastecimento e no máximo de um contrato por agregado familiar.
+
+3 - Os titulares do cartão figueiroense sénior e do cartão jovem municipal, emitido nos termos do Regulamento Municipal do Cartão do Figueiroense Sénior e do Regulamento Municipal do Cartão do Jovem Municipal, respectivamente, pagam o valor das tarifas constantes nas Tabelas I a III.
+
+### CAPÍTULO VI — Disposições finais
+
+###### Artigo 23.º — Revogação
+
+Com a entrada em vigor do presente regulamento, consideram-se revogadas todas as disposições de regulamentos e posturas municipais, bem como os despachos internos de orientação, que com ele estejam em contradição.
+
+###### Artigo 24.º — Entrada em Vigor
+
+O presente regulamento entra em vigor no dia 01 de Maio de 2011.
+
+Tarifário
+
+Tabela I
+
+Serviço Público de Abastecimento de Água para Consumo Humano
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/079000000/1807418080.pdf)
+
+Tabela II
+
+Serviço Público de Saneamento de Águas Residuais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/079000000/1807418080.pdf)
+
+Tabela III
+
+Serviço Público de Gestão de Resíduos Urbanos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/079000000/1807418080.pdf)
+
+204586718

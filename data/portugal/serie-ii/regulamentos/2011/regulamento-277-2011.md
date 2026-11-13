@@ -1,0 +1,1059 @@
+---
+schema_version: '1.0'
+id: pt:dre:2338400:por
+title: Regulamento n.º 277/2011
+short_title: null
+summary: Regulamento e Tabela de Taxas
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Almeirim
+proposing_entity: null
+official_number: 277/2011
+official_date: null
+publication_date: '2011-05-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 86/2011, Série II de 2011-05-04
+  number: '86'
+  series: II
+  supplement: null
+  pages: 19382 - 19398
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2338400'
+  dre_path: /dr/detalhe/regulamento/277-2011-2338400
+  internal: pt:dre:2338400:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/277-2011-2338400
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/277-2011-2338400
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:08:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 752e780df1ad0237a924b6c5778b8f14abb4f2e410ae471785ed38b9256c136e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:08:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+article_structure:
+  article_count: 96
+  section_count: 33
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:08:21Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 277/2011
+
+José Joaquim Gameiro de Sousa Gomes, Presidente da Câmara Municipal de Almeirim, torna público que, sob proposta da Câmara Municipal, a Assembleia Municipal de Almeirim, aprovou em 28 de Fevereiro de 2011 a proposta de alteração ao Regulamento de Taxas e Licenças, transformado em versão final que aqui se dá por transcrito, nos termos do artigo 53.º, n.º 2, alínea a) da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, no uso das competências que lhe são atribuídas pelo artigo 68.º, n.º 1, alínea v) da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com a redacção dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, e na execução do que dispõe o n.º 1, do artigo 91.º deste Diploma, depois de serem cumpridas as formalidades do Código do Procedimento Administrativo, designadamente quanto à discussão pública, prevista no artigo 118.º daquele Código.
+
+Mais torna público que, de acordo com o disposto no artigo 37.º do Regulamento em apreço, o mesmo entrará em vigor no dia seguinte à sua publicação na 2.ª série do Diário da República.
+
+11 de Abril de 2011. - O Presidente da Câmara Municipal, José Joaquim Gameiro de Sousa Gomes.
+
+Regulamento de Taxas do Município de Almeirim
+
+Preâmbulo
+
+O desenvolvimento crescente das áreas de intervenção dos municípios, em geral, e do Município de Almeirim, em particular, exige uma atenção especial à capacidade de gerar receitas próprias, entre as quais têm grande importância as provenientes de cobrança das taxas previstas na Lei das Finanças Locais.
+
+Nos termos da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492) de 29 de Dezembro, deve existir uma relação de correspondência tendencial entre o custo dos serviços e utilidades facultados aos cidadãos e às empresas e as receitas cobradas pela sua prestação. O estudo económico-financeiro elaborado sobre esta matéria ao abrigo daquela lei forneceu indicações relativas ao processo de actualização dos valores das taxas que serviram de orientação à revisão da Tabela de Taxas anexa a este Regulamento.
+
+Neste sentido, sob proposta da Câmara Municipal, a Assembleia Municipal de Almeirim, aprovou em 28 de Fevereiro de 2011 a proposta de alteração ao Regulamento e Tabela de Taxas e Licenças, transformado em versão final que aqui se dá por transcrito.
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Lei habilitante
+
+O presente Regulamento é elaborado ao abrigo e nos termos dos artigos 241.º da Constituição da República, alínea a) do n.º 2 do artigo 53.º e n.º 6 do artigo 64.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, do n.º 1 do artigo 8.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de Dezembro, dos artigos 15.º e 16.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, e do disposto no n.º 1 do artigo 3.º e 116.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, com as alterações introduzidas pela [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro.
+
+###### Artigo 2.º — Objecto
+
+O Regulamento de taxas, incluindo a Tabela que dele faz parte integrante, estabelece as normas que regulam a incidência, a liquidação e a cobrança de taxas resultantes da prestação serviços, da utilização de bens do património e sob jurisdição municipal, e da emissão de licenças pelo Município de Almeirim.
+
+###### Artigo 3.º — Incidência objectiva
+
+O presente Regulamento regula a relação tributária relativa às taxas municipais devidas pela prestação concreta de serviços públicos municipais, pela utilização privada de bens do domínio público e privado do Município, e pela remoção de um obstáculo jurídico ao comportamento dos particulares.
+
+###### Artigo 4.º — Incidência subjectiva
+
+As taxas estabelecidas por este Regulamento são devidas ao Município de Almeirim pelas pessoas singulares ou colectivas e outras entidades legalmente equiparadas, que, nos termos da lei, estejam vinculadas ao pagamento da prestação tributária, por requererem as prestações, utilidades e licenças previstas no artigo anterior, sem prejuízo das isenções neles estabelecidas.
+
+###### Artigo 5.º — Receitas municipais
+
+As receitas provenientes da cobrança das taxas constituem receitas do Município, não recaindo sobre elas qualquer adicional para o Estado, salvo nos casos legalmente previstos.
+
+###### Artigo 6.º — Renovação de licenças e registos
+
+1 - As renovações e prorrogações das licenças e dos registos anuais são obrigatoriamente solicitadas nos 30 dias anteriores ao termo da sua validade, salvo o disposto em lei especial.
+
+2 - As licenças caducam no último dia do prazo de validade, tendo termo em 31 de Dezembro as que tenham validade anual.
+
+3 - Caso o requerente o declare no pedido inicial, a renovação é feita automaticamente.
+
+###### Artigo 7.º — Liquidação
+
+1 - A liquidação das taxas previstas na Tabela consiste na determinação do montante a pagar e resulta da aplicação dos indicadores nela definidos e dos elementos fornecidos pelos interessados.
+
+2 - Com o deferimento do pedido de licenciamento, admissão da comunicação prévia e autorização da utilização das operações urbanísticas, são liquidadas as taxas previstas no presente Regulamento.
+
+3 - A notificação da liquidação das taxas deve conter a fundamentação da liquidação, o montante devido, o prazo para pagamento, bem como a advertência sobre as consequências do não pagamento.
+
+###### Artigo 8.º — Prazo da liquidação
+
+A liquidação processa-se nos seguintes prazos:
+
+a) No acto de entrega do pedido, quando assim estiver previsto em lei ou no presente regulamento;
+
+b) Em momento anterior à apreciação do pedido pela Câmara Municipal, nos casos de processos de urbanização e edificação;
+
+c) No prazo de cinco dias a contar da data do deferimento expresso ou tácito da pretensão.
+
+###### Artigo 9.º — Erro na liquidação
+
+1 - Quando se verifique que na liquidação das taxas se cometeram erros imputáveis aos serviços municipais e dos quais tenha resultado prejuízo para o município, promover-se-á de imediato a liquidação adicional se, sobre o facto tributário, não tiver decorrido mais de quatro anos.
+
+2 - A notificação da liquidação adicional deverá conter as menções referidas no n.º 3 do artigo 7.º
+
+3 - Quando tenha sido liquidada quantia superior à devida, devem os serviços, no prazo de 30 dias, mediante despacho do órgão competente para o acto, proceder à devolução da quantia indevidamente paga.
+
+###### Artigo 10.º — Arredondamentos
+
+1 - Em todas as liquidações previstas na Tabela anexa deve proceder-se, no total, ao arredondamento para a segunda casa decimal do valor em euros.
+
+2 - As medidas de tempo, superfície, volume e lineares são sempre arredondadas por excesso para a unidade ou fracção superior.
+
+###### Artigo 11.º — Taxas liquidadas e não pagas
+
+1 - O não pagamento das taxas dentro dos prazos estabelecidos origina a comunicação de débito ao tesoureiro, seguindo o procedimento da cobrança virtual, com as necessárias adaptações.
+
+2 - As taxas liquidadas a pedido do interessado e não pagas no próprio dia da liquidação são debitadas ao tesoureiro, para efeitos de cobrança coerciva.
+
+###### Artigo 12.º — Cobrança
+
+A cobrança das taxas e outras receitas municipais deve ser efectuada na Tesouraria municipal, no próprio dia da liquidação, antes da prática ou verificação dos actos ou factos a que respeitem, salvo disposição legal m contrário.
+
+###### Artigo 13.º — Cobrança coerciva
+
+1 - Quando não se verificar o pagamento das taxas constantes da Tabela anexa, nos prazos estipulados, devem as mesmas ser objecto de instauração de processo para efeitos de cobrança coerciva.
+
+2 - A cobrança das taxas para além do prazo fixado determina a cobrança de juros de mora.
+
+###### Artigo 14.º — Formas de pagamento
+
+As formas de pagamento e repartição de taxas são as previstas nos artigos 25.º, 26.º e 27.º do [Decreto-Lei n.º 69/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2003-226807), de 10 de Abril, com as alterações introduzidas pelo [Decreto-Lei n.º 183/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2007-520846), de 9 de Maio.
+
+###### Artigo 15.º — Meios de impugnação
+
+1 - As reclamações contra a liquidação e cobrança de taxas, mais-valias e demais rendimentos de natureza tributária são deduzidos perante a Câmara Municipal nos termos previstos no Código de Procedimento e de Processo Tributário, com as necessárias adaptações.
+
+2 - As impugnações judiciais contra a liquidação e cobrança de taxas, mais-valias e demais rendimentos de natureza tributária são deduzidas nos termos previstos no Código de Procedimento e de Processo Tributário.
+
+###### Artigo 16.º — Pagamento em prestações
+
+1 - A pedido fundamentado do interessado, pode ser autorizado pela Câmara Municipal, mediante proposta dos serviços, o pagamento das taxas em prestações, desde que o seu valor anual não seja inferior a 20 unidades de conta ou duzentas unidades de conta para taxas de operações urbanísticas.
+
+2 - A autorização do pagamento fraccionado das taxas devidas pela emissão de alvarás de licença de loteamento, de obras de urbanização e de edificação, bem como a taxa devida pela realização, reforço e manutenção das infra-estruturas urbanísticas está ainda condicionada à prestação de caução, nos termos previstos no n.º 2 do artigo 117.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
+
+###### Artigo 17.º — Deferimento tácito
+
+Em caso de deferimento tácito do pedido, a operação urbanística está sujeita ao pagamento da taxa que seria devida pela prática do respectivo acto expresso.
+
+###### Artigo 18.º — Buscas
+
+1 - Sempre que o interessado não indique o ano de emissão do documento requerido, é devida taxa por cada ano de pesquisa do mesmo, excluindo o ano da apresentação do pedido.
+
+2 - O limite máximo de buscas é de 15 anos, salvo se os serviços disponham de meios informáticos que lhes permitam uma busca para além desse limite.
+
+###### Artigo 19.º — Devolução de documentos
+
+Quando os documentos autênticos devam ficar juntos ao processo e o requerente manifeste interesse na sua devolução, os serviços devolvem o original, depois de extraírem fotocópia do mesmo e de cobrarem a taxa respectiva.
+
+###### Artigo 20.º — Sanções
+
+1 - A inexactidão ou falsidade dos elementos fornecidos pelos interessados para emissão de licenças ou liquidação de taxas, que ocasione a liquidação e cobrança de importâncias inferiores às efectivamente devidas é punida nos termos previstos no Regime Geral das Infracções Tributárias aprovado pelo artigo 1.º, n.º 1, da [Lei n.º 15/2001](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), de 5 de Junho.
+
+2 - As infracções ao presente Regulamento, que não se enquadrem no disposto no número anterior, constituem contra-ordenações puníveis nos termos previstos no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
+
+3 - O montante das coimas é no mínimo o valor da retribuição mínima mensal garantida e no máximo cinco vezes esse valor, tratando-se de pessoa singular, e no mínimo cinco vezes o valor daquela retribuição e no máximo de 20 vezes o mesmo valor.
+
+4 - Sem prejuízo de eventual responsabilidade civil, disciplinar ou criminal, o incumprimento das condições estabelecidas para utilização de cartografia digital fornecida pelo Município é punível nos termos do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273).
+
+5 - A tentativa e negligência são puníveis nos termos previstos no diploma referido no número anterior.
+
+#### Secção I — Isenções de taxas
+
+###### Artigo 21.º — Isenções
+
+1 - Estão isentos do pagamento das taxas previstas neste Regulamento as seguintes pessoas colectivas:
+
+a) As associações humanitárias, culturais, de desenvolvimento local e desportivas, quando legalmente constituídas, e com estatuto de utilidade pública, pelas actividades que se destinem directa e imediatamente à realização dos seus fins estatutários;
+
+b) As instituições particulares de solidariedade social, legalmente constituídas, pelas actividades que se destinem directa e imediatamente à realização dos seus fins estatutários;
+
+2 - Estão ainda isentos das taxas previstas neste Regulamento os seguintes actos e serviços:
+
+a) A entrada em museus municipais para crianças e jovens de idade não superior a 18 anos, professores e estudantes de todos os graus de ensino e pessoas com idade superior a 60 anos;
+
+b) A utilização de imóveis do Município e a ocupação de espaços públicos para fins desportivos ou outros, artísticos e culturais, nomeadamente para exposições de arte sem fim lucrativo e realização de filmagens de índole cultural ou de divulgação do Município.
+
+###### Artigo 22.º — Isenções por razões sociais e de interesse económico
+
+Sob proposta da Câmara Municipal e por deliberação devidamente fundamentada, a Assembleia Municipal pode isentar, total ou parcialmente, pessoas singulares ou colectivas do pagamento de taxas, em casos de natureza social devidamente justificados ou de relevante interesse para o Município.
+
+###### Artigo 23.º — Requerimento de licenças
+
+1 - As isenções referidas no artigo 21.º não dispensam os beneficiários, salvo quanto à alínea b) do seu n.º 2, de requererem à Câmara Municipal as necessárias licenças, quando devidas, nos termos da lei e dos regulamentos municipais.
+
+2 - As isenções previstas não autorizam os beneficiários a utilizar meios susceptíveis de lesar o interesse municipal e não abrangem as indemnizações por eventuais danos causados no património municipal.
+
+###### Artigo 24.º — Guarda de bens por despejo
+
+À guarda de bens resultantes de um despejo efectuado pela Câmara Municipal não é aplicável a taxa do artigo 58.º da Tabela durante os dois primeiros meses.
+
+#### Secção II — Reduções de taxas
+
+###### Artigo 25.º — Redução de taxa
+
+1 - As taxas devidas pela realização de obras de conservação, reconstrução, alteração ou ampliação em imóveis classificados de interesse municipal serão reduzidas em 50 % do seu valor.
+
+2 - A redução prevista no número anterior é aplicável a obras de conservação, reconstrução, alteração ou ampliação em imóveis objecto de programas de reabilitação urbana.
+
+### Capítulo II — Procedimentos de liquidação
+
+#### Secção I — Urbanização e edificação
+
+###### Artigo 26.º — Prorrogação do prazo
+
+1 - Os pedidos de prorrogação do prazo de validade das operações urbanísticas devem ser formulados 30 dias antes do seu termo, devendo o pagamento da taxa respectiva ser efectuado igualmente no prazo máximo de 30 dias a contar da data da notificação do deferimento do respectivo pedido de prorrogação considerando-se como tal a data de registo do ofício acrescida da dilação de três dias úteis.
+
+2 - Na falta de pagamento da taxa respeitante ao averbamento do prazo de validade no prazo indicado, procede-se à sua cobrança coerciva aquando da liquidação respeitante ao alvará de autorização de utilização do edifício ou fracção.
+
+###### Artigo 27.º — Medições
+
+1 - As medidas em superfície abrangem a totalidade da área a construir, reconstruir ou modificar, incluindo a espessura das paredes, varandas, sacadas, marquises e balcões e a parte que em cada piso corresponde a caixas, vestíbulos das escadas, ascensores e monta-cargas.
+
+2 - Quando, para a liquidação das taxas respeitantes ao alvará de licença houver que efectuar medições, faz-se um arredondamento por excesso no total de cada espécie.
+
+3 - Quando uma mesma licença diga respeito a obras de diferentes finalidades, são aplicadas a cada parte as respectivas taxas, rateando-se proporcionalmente as áreas de utilização comum.
+
+4 - No caso de, na aprovação definitiva do projecto de arquitectura, haver aumento de área de construção em relação ao projecto apresentado inicialmente, por apresentação de novos elementos, cobra-se a diferença do valor da taxa no acto de emissão do respectivo alvará de licença.
+
+5 - Quando se trate de projectos de alterações a obras em curso ou já executadas, a determinação do tempo de licenciamento, para efeitos de cobrança de taxas, corresponde à constante da calendarização anexa ao projecto de arquitectura. Caso a mesma não seja referida no processo, cobra-se a taxa correspondente ao prazo de execução por um período mínimo de 30 dias.
+
+###### Artigo 28.º — Vistorias
+
+1 - As taxas relativas a vistorias incluem as despesas com remuneração dos peritos.
+
+2 - Quando as vistorias impliquem a deslocação de peritos ou de fiscais municipais em veículo municipal, são devidas as taxas previstas na Tabela anexa.
+
+#### Secção II — Ocupação de espaços públicos
+
+###### Artigo 29.º — Cobrança antecipada
+
+As taxas devidas por ocupação de espaços públicos são cobradas antecipadamente, segundo as seguintes regras:
+
+1 - As taxas anuais, até 31 de Dezembro do ano anterior àquele a que se refere a ocupação, cobrando-se em relação a novas licenças o número de duodécimos correspondentes aos meses até ao final do período em curso, incluindo-se o mês respeitante ao dia seguinte àquele em que a licença é emitida.
+
+2 - As taxas mensais, até ao último dia útil do mês anterior àquele a que se refere a ocupação, cobrando-se em relação a novas licenças a fracção correspondente aos dias até final do mês em curso, excluindo o dia em que é emitida a licença.
+
+3 - As taxas semanais, até ao último dia útil anterior ao período a que se refere a ocupação.
+
+4 - As restantes taxas, antes de se iniciar a ocupação.
+
+#### Secção III — Publicidade
+
+###### Artigo 30.º — Taxas anuais
+
+1 - As taxas anuais por publicidade são correspondentes à fracção do respectivo ano civil e pagas até ao último dia útil anterior ao início do período da licença. A sua renovação é automática, sendo a cobrança efectuada pelo valor do ano em curso com pagamento em Março do mesmo ano.
+
+2 - As taxas não anuais são cobradas antecipadamente e pagas até ao último dia útil anterior ao início do período da licença.
+
+3 - Os clubes desportivos e os grupos recreativos com sede no concelho e com estatuto de utilidade pública, beneficiam de uma redução até 100 % nas taxas de publicidade relativas a suportes publicitários colocados nas suas instalações, desde que comprovem que se trata de publicidade alusiva a patrocinadores e o solicitem por escrito à autarquia.
+
+4 - É proibido, por razoes ambientais, a distribuição de publicidade volante.
+
+#### Secção IV — Instalações de abastecimento de gás e de combustíveis líquidos
+
+###### Artigo 31.º — Âmbito da licença
+
+1 - A licença dos aparelhos de abastecimento inclui a utilização da via pública com os tubos condutores que forem necessários ao seu funcionamento.
+
+2 - A substituição de aparelhos de abastecimento por outros da mesma espécie não dá lugar à cobrança de novas taxas.
+
+3 - As taxas previstas na Tabela são cobradas antecipadamente, sendo que em relação às novas licenças se cobra o número de duodécimos correspondentes aos meses até final do período em curso, incluindo-se o mês respeitante ao dia seguinte àquele em que a licença é emitida.
+
+#### Secção V — Mercados e feiras
+
+###### Artigo 32.º — Normas gerais
+
+1 - As taxas podem ser cobradas antecipadamente, quando isso convier à natureza da ocupação e à organização do mercado ou feira.
+
+2 - O direito à ocupação em mercados ou feiras é, por natureza, precário.
+
+#### Secção VI — Outras prestações de serviços
+
+###### Artigo 33.º — Depósito e venda de bens
+
+1 - As despesas com o transporte para o depósito dos bens a que se referem os artigos 58.º e 59.º da Tabela e com a guarda desses bens e outras que vierem a ser ocasionadas pelos mesmos são da conta dos respectivos proprietários.
+
+2 - Consideram-se abandonados os bens não levantados dentro de 90 dias a partir da notificação ao interessado, a qual é feita, em regra, dentro de 30 dias a contar a partir do início do depósito.
+
+3 - Decorrido o prazo fixado no número anterior, procede-se à venda em hasta pública dos referidos bens, retirando-se da importância obtida a que estiver em débito à Câmara e ficando o remanescente, se o houver, à ordem do respectivo proprietário.
+
+4 - Se a importância obtida na hasta pública for insuficiente para cobrir o débito, procede-se à cobrança da diferença nos termos legais.
+
+### Capítulo III — Disposições finais e transitórias
+
+###### Artigo 34.º — Actualização
+
+1 - O valor das taxas previstas na Tabela anexa ao presente Regulamento deve ser actualizado anualmente, com a aprovação do orçamento para o ano seguinte, tendo em conta a evolução do índice de preços do consumidor publicado pelo Instituto Nacional de Estatística, as necessárias adaptações à evolução dos custos de mercado, os encargos que incidam sobre os serviços prestados, as correspondentes despesas administrativas e outros factores que devam ser ponderados.
+
+2 - Com vista ao estabelecimento gradual de um maior equilíbrio entre os custos dos serviços prestados e a correspondente receita, as taxas municipais serão objecto de actualizações extraordinárias, entre 2010 e 2018, de valor superior ao índice de preços ao consumidor, de acordo com o estudo económico-financeiro realizado ao abrigo da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de Dezembro.
+
+###### Artigo 35.º — Integração de lacunas
+
+Aos casos não previstos neste Regulamento, aplicar-se-ão as normas do Código do Procedimento e Processo Tributário, com as necessárias adaptações e, na falta destas, os princípios gerais de direito.
+
+###### Artigo 36.º — Norma revogatória
+
+Ficam automaticamente revogados os anteriores regulamentos e tabelas de taxas, licenças e outras receitas do município e demais disposições regulamentares contrárias às do presente Regulamento.
+
+###### Artigo 37.º — Entrada em vigor
+
+As disposições do presente Regulamento e Tabela de taxas municipais entram em vigor no dia seguinte à sua publicação no Diário da República.
+
+Tabela de taxas
+
+### CAPÍTULO I — Serviços Administrativos Comuns
+
+([Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, artigo 10.º, alínea d), e [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de Dezembro - Artigo 6.º, n.º 1, alínea b)
+
+###### Artigo 1.º — Prestação de serviços administrativos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+### CAPÍTULO II — Urbanização e Edificação
+
+#### SECÇÃO I — Procedimentos
+
+###### Artigo 2.º — Direito à informação
+
+Pedidos apresentados no âmbito do art.º110.º do RJUE - 20,00(euro)
+
+###### Artigo 3.º — Informações Prévias
+
+Os pedidos apresentados no âmbito do artigo 14.º do RJUE, estão sujeitos ao pagamento das seguintes taxas:
+
+Quadro I
+
+Início do procedimento e apreciação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 4.º — Comunicações Prévias e Licenciamentos
+
+Os pedidos apresentados no âmbito dos artigos 18.º e 34.º do RJUE, estão sujeitos ao pagamento das seguintes taxas:
+
+Quadro II
+
+Início do procedimento e apreciação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 5.º — Títulos referentes a Comunicações Prévias e Licenciamentos
+
+Os pedidos de emissão de alvará relativos a obras sujeitas a licenciamento e o início de obras objecto de admissão de comunicação, nos termos previstos no RJUE, estão sujeitos ao pagamento das seguintes taxas:
+
+Quadro III
+
+Pedido de emissão do alvará de licença ou de admissão de comunicação prévia de loteamento com obras de urbanização
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+Quadro IV
+
+Pedido de emissão do alvará de licença ou de admissão de comunicação prévia de loteamento
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+Quadro V
+
+Pedido de emissão do alvará de licença ou de admissão de comunicação prévia de obras de urbanização
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+Quadro VI
+
+Pedido de emissão do alvará de trabalhos de remodelação dos terrenos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+Quadro VII
+
+Pedido de emissão de alvará de licença ou admissão de comunicação prévia para obras de edificação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+Quadro VIII
+
+Pedido de emissão do alvará ou admissão de comunicação prévia de obras de demolição
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 6.º — Autorização de utilização e alteração de autorização de utilização
+
+Os pedidos de autorização de utilização e alteração de autorização de utilização, nos termos do n.º 4 do artigo 4.º do RJUE, estão sujeitos ao pagamento das seguintes taxas:
+
+Quadro IX
+
+Autorizações de utilização e de alteração do uso
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 7.º — Autorização de utilização e alteração de autorização de utilização relativas a usos sujeitos a legislação específica
+
+Aos pedidos de autorização de utilização relativos a usos previstos em legislação específica, acrescem os valores referidos no quadro seguinte:
+
+Quadro X
+
+Autorizações de utilização ou suas alterações previstas em legislação específica
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+#### SECÇÃO II — Procedimentos especiais
+
+###### Artigo 8.º — Licença parcial
+
+A emissão de licença parcial destinada à construção da estrutura, prevista no n.º 6 do artigo 33.º do RJUE, está sujeita ao pagamento da seguinte taxa:
+
+Quadro XI
+
+Pedido de emissão de alvará de licença parcial
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 9.º — Licença ou comunicação prévia relativas a obras inacabadas
+
+A emissão de alvará de licença especial ou admissão de comunicação prévia relativa a obras inacabadas, abrangidas pelo artigo 88.º do RJUE, está sujeita ao pagamento da seguinte taxa:
+
+Quadro XII
+
+Licença especial ou admissão de comunicação prévia relativa a obras inacabadas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+#### SECÇÃO III — Outros procedimentos
+
+###### Artigo 10.º — Prorrogação do prazo
+
+A prorrogação dos prazos previstos nos artigos 53.º e 58.º do RJUE, está sujeita ao pagamento das seguintes taxas:
+
+Quadro XIII
+
+Prorrogações
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 11.º — Ocupação de via pública por motivo de obras
+
+A ocupação de espaços públicos por motivos de obras, está sujeita ao pagamento das seguintes taxas:
+
+Quadro XIV
+
+Ocupação da via pública por motivo de obras
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 12.º — Vistorias
+
+A realização de vistorias, está sujeita ao pagamento das seguintes taxas:
+
+Quadro XV
+
+Vistorias
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 13.º — Operações de destaque
+
+O pedido e a emissão de certidão de destaque, estão sujeitos ao pagamento das seguintes taxas:
+
+Quadro XVI
+
+Operações de destaque
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 14.º — Recepção de obras de urbanização
+
+Os actos de recepção provisória ou definitiva de obras de urbanização estão sujeitos ao pagamento das seguintes taxas:
+
+Quadro XVII
+
+Recepção de obras de urbanização
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 15.º — Outros licenciamentos e serviços
+
+Quadro XVIII
+
+Outros licenciamentos e serviços
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+#### SECÇÃO IV — Taxas pela realização, reforço e manutenção de infra-estruturas urbanísticas (TRIU)
+
+###### Artigo 16.º — Âmbito de aplicação
+
+1 - A TRIU é devida no licenciamento, autorização e alteração de utilização, ou admissão de comunicação prévia das seguintes operações urbanísticas ou, outros que igualmente, pela sua natureza impliquem um acréscimo de encargos públicos de realização, manutenção e reforço das infra-estruturas gerais:
+
+a) Operações de loteamento e obras de urbanização;
+
+b) Obras de construção e de ampliação não inseridas em loteamentos.
+
+c) Obras de construção e de ampliação inseridas em loteamentos cuja liquidação das taxas devidas pela emissão do respectivo alvará tenha sido efectuada antes da entrada em vigor do presente regulamento;
+
+2 - Com a emissão do alvará relativo a obras de construção ou ampliação ou com a admissão de comunicação prévia não são devidas as taxas referidas no número anterior se as mesmas já tiverem sido pagas previamente aquando do licenciamento ou autorização da correspondente operação de loteamento e urbanização.
+
+3 - A taxa referida no n.º 1 varia proporcionalmente ao investimento municipal que a operação em causa implicou ou venha a implicar.
+
+4 - Quando se verifique alteração de utilização, de acordo com a tipologia de uso definida no Quadro K1i, é devida a TRIU, aplicando-se nestes casos o diferencial do coeficiente previsto em K1.
+
+###### Artigo 17.º — Cálculo da TRIU
+
+A TRIU é fixada para cada unidade territorial em função do custo das infra-estruturas e equipamentos gerais a executar pela Câmara Municipal, dos usos e tipologias das edificações, tendo ainda em conta o programa plurianual de investimentos municipais, de acordo com a seguinte fórmula:
+
+TRIU = (somatório) (K1i x K2 x K3 x 0,85 V x Si + 5 x PPI x Si/(Ómega))
+
+em que:
+
+TRIU - valor, em euros, da taxa devida ao município pela realização, manutenção e reforço de infra-estruturas urbanísticas;
+
+K1i - coeficiente que traduz a influência do uso e tipologia, de tal forma que i pode assumir as tipologias abaixo discriminadas, e toma os seguintes valores;
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+K2 - coeficiente que traduz o nível de infra-estruturação do local, nomeadamente da existência e do funcionamento das seguintes infra-estruturas públicas, e toma os seguintes valores:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+K3 - coeficiente que traduz a influência da localização em áreas geográficas diferenciadas, de acordo com os valores constantes do quadro seguinte;
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+V - valor, em euros, correspondente ao custo do m2 de construção na área do município, decorrente do preço de habitação por m2, a que se refere a alínea c) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril, fixado anualmente por Portaria publicada para o efeito;
+
+Si - área bruta, em m2, das diferentes superfícies de pavimentos discriminadas, assumindo as tipologias de construção aplicáveis a K1i, com exclusão da área das caves se destinadas a estacionamento;
+
+PPI - valor médio anual, em euros, do investimento previsto no programa plurianual de investimentos municipais para execução de infra-estruturas urbanísticas e equipamentos públicos destinados a educação, saúde, cultura, desporto e lazer;
+
+(Ómega) - área total do concelho em m2 (227.898.340 m2).
+
+#### SECÇÃO V — Compensações
+
+###### Artigo 18.º — Áreas para espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos
+
+1 - As operações urbanísticas que, nos termos do número seguinte, devam prever áreas destinadas à implantação de espaços verdes e de utilização colectiva, infra-estruturas e equipamentos de utilização colectiva, ficam sujeitas à aplicação dos parâmetros de dimensionamento definidos no PMOT ou, em caso de omissão, pela [Portaria n.º 216-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/216-b-2008-243887), de 3 de Março.
+
+2 - Estão sujeitas ao disposto no número anterior as seguintes operações urbanísticas;
+
+a) Operações de loteamento ou suas alterações;
+
+b) As obras que, nos termos do n.º 5 do artigo 57.º do RJUE, determinem impactes relevantes.
+
+3 - É da competência da Câmara Municipal, com possibilidade de delegação no Presidente ou no Vereador responsável pela administração urbanística, decidir, em cada caso, ponderadas as condicionantes e nos termos da lei, se no prédio a lotear há lugar a cedência de terreno para instalação de equipamento público, espaços verdes e outros espaços de utilização colectiva.
+
+###### Artigo 19.º — Cedências
+
+1 - O proprietário e demais titulares de direitos reais sobre o prédio a lotear cedem, gratuitamente, à Câmara Municipal parcelas de terreno para instalação de espaços verdes e de utilização colectiva, infra-estruturas e equipamentos de utilização colectiva que, de acordo com a lei e licença ou admissão de comunicação prévia de loteamento, devam integrar o domínio público municipal, integração essa que se efectuará nos termos do disposto no n.º 3 do artigo 44.º do RJUE.
+
+2 - As áreas destinadas a espaços verdes e de utilização colectiva e a equipamentos de utilização colectiva a integrar no domínio municipal deverão sempre possuir acesso directo a espaço ou via públicos e a sua localização será tal que contribua para a qualificação do espaço urbano onde se integram e para o usufruto da população instalada ou a instalar no local. Para além disso, as áreas destinadas exclusivamente a espaços verdes e de utilização colectiva deverão comportar pelo menos uma parcela com mais de 200 m2 e onde seja possível inscrever uma circunferência com o mínimo de 10 m de diâmetro.
+
+###### Artigo 20.º — Cálculo da compensação
+
+1 - O valor, em numerário, da compensação a pagar ao município será determinado de acordo com a seguinte fórmula:
+
+C = C1 + C2
+
+em que:
+
+C - valor, em euros, do montante total da compensação devida ao município;
+
+C1 - valor, em euros, do montante total da compensação devida ao município pela não cedência, no todo ou em parte, das áreas destinadas a espaços verdes e de utilização colectiva e a de equipamentos de utilização colectiva;
+
+C2 - valor, em euros, da compensação devida ao município quando o prédio já se encontre servido pelas seguintes infra-estruturas locais: arruamentos viários e pedonais; redes de drenagem de águas residuais domésticas, de abastecimento de água e de águas pluviais.
+
+a) O cálculo do valor de C1 resulta da aplicação da seguinte fórmula:
+
+C1 = K x A x 0,17 x V
+
+em que:
+
+K - coeficiente que traduz a influência da localização em áreas geográficas diferenciadas, de acordo com os valores do quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+V - valor em euros para efeitos de cálculo correspondente ao custo do metro quadrado de construção fixado na Portaria anualmente publicada para o efeito, para a zona do Concelho de Almeirim;
+
+A - valor, em metros quadrados, da totalidade ou de parte das áreas que deveriam ser cedidas para espaços verdes e de utilização colectiva bem como para instalação de equipamentos públicos, calculado de acordo com os parâmetros previstos no RPDM ou, em caso de omissão, na [Portaria n.º 216-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/216-b-2008-243887), de 3de Março.
+
+b) O cálculo do valor C2 resulta da seguinte fórmula:
+
+C2 = 0,25 x (Q1 + Q2)
+
+em que:
+
+Q1 - valor, em euros, correspondente ao custo das redes existentes de abastecimento de água, de drenagem de águas residuais domésticas e de águas pluviais nos arruamentos confrontantes com o prédio em causa, calculado pelo produto do comprimento da confrontação do prédio com o arruamento onde existem essas infra-estruturas pelo custo por mililitro dessas redes, constante do artigo 82.º;
+
+Q2 - valor, em euros, correspondente ao custo dos arruamentos já existentes, incluindo passeio e estacionamento, calculado pelo produto da área desse arruamento na extensão de confrontação com o prédio pelos valores unitários de tipos de pavimentação constantes do artigo 81.º deste Regulamento. Para efeitos de determinação desta área, a dimensão máxima correspondente à faixa de rodagem e estacionamento é de 7,50 m e a dimensão máxima do passeio é de 2,25 m.
+
+2 - Quando forem previstas no âmbito da operação urbanística, obras de melhoramento e remodelação das infra-estruturas públicas existentes indicadas no número anterior, o seu valor, a determinar com base da tabela do artigo 78.º, será deduzido do valor da compensação a pagar.
+
+###### Artigo 21.º — Custos unitários de infra-estruturas
+
+Na determinação dos valores de Q1 e Q2 consideram-se os seguintes custos unitários por tipo de infra-estrutura:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 22.º — Compensação em espécie
+
+1 - Feita a determinação do montante total da compensação a pagar, se se optar por realizar esse pagamento em espécie, haverá lugar à avaliação dos terrenos ou imóveis a ceder ao município e o seu valor será obtido com recurso ao seguinte mecanismo:
+
+a) A avaliação será efectuada por uma comissão composta por três elementos, sendo dois nomeados pela Câmara Municipal e o terceiro pelo proprietário do prédio;
+
+b) As decisões da comissão serão tomadas por maioria absoluta dos votos dos seus elementos.
+
+2 - Quando se verifiquem diferenças entre o valor calculado para a compensação devida em numerário e o valor dessa compensação a entregar em espécie, as mesmas serão liquidadas da seguinte forma:
+
+a) Se o diferencial for favorável ao município, será o mesmo pago em numerário pelo promotor da operação urbanística;
+
+b) Se o diferencial for favorável ao promotor, ser-lhe-á o mesmo entregue pelo município.
+
+c) Se o valor proposto no relatório final da comissão referida no n.º 1 não for aceite pela Câmara Municipal ou pelo promotor da operação urbanística, recorrer-se-á a uma comissão arbitral, que será constituída nos termos do artigo 118.º do RJUE.
+
+d) A Câmara Municipal reserva-se o direito de não aceitar a proposta de compensação em espécie, sempre que tal não se mostre conveniente para a prossecução do interesse público.
+
+### CAPÍTULO III — Ocupação de Espaços Públicos
+
+([Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492) - Artigo 6.º n.º 1, alínea c) e Dec. Lei n.º 555/99 - Artigo 57.º)
+
+#### Secção I — Mobiliário e Equipamento Urbano
+
+###### Artigo 23.º — Mobiliário urbano
+
+Quadro XIX
+
+Mobiliário urbano
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 24.º — Equipamentos das concessionárias dos serviços públicos
+
+Quadro XX
+
+Equipamentos das concessionárias dos serviços públicos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 25.º — Ocupações diversas
+
+Quadro XXI
+
+Ocupações diversas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 26.º — Instalações de armazenamento de gás e combustível, e de postos de abastecimento em espaço público
+
+Quadro XXII
+
+Instalações de armazenamento de gás e combustível, e de postos de abastecimento em espaço público
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+#### Secção II — Publicidade
+
+###### Artigo 27.º — Publicidade em edifícios e mobiliário urbano
+
+Quadro XXIII
+
+Publicidade em edifícios e mobiliário urbano
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 28.º — Publicidade em veículos
+
+Quadro XXIV
+
+Publicidade em veículos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 29.º — Publicidade sonora
+
+Quadro XXV
+
+Publicidade sonora
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 30.º — Publicidade em recintos municipais
+
+Quadro XXVI
+
+Publicidade em recintos municipais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 31.º — Publicidade diversa
+
+Quadro XXVII
+
+Publicidade diversa
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+### CAPÍTULO IV — Veículos
+
+([Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492) - Artigo 6.º n.º 1, al. d)
+
+#### Secção I — Condução e Trânsito
+
+###### Artigo 32.º — Licenças de condução e trânsito
+
+Quadro XXVIII
+
+Licenças de condução e trânsito
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+#### Secção II — Transporte de aluguer em veículos ligeiros de passageiros
+
+###### Artigo 33.º — Exercício da actividade de transportes de aluguer em veículos ligeiros de passageiros
+
+Quadro XXIX
+
+Exercício da actividade de transportes de aluguer em veículos ligeiros de passageiros
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+#### Secção III — Estacionamento
+
+###### Artigo 34.º — Estacionamento
+
+Quadro XXX
+
+Estacionamento
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 35.º — Remoção de veículos
+
+Quadro XXXI
+
+Remoção de veículos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+### CAPÍTULO V — Higiene e Salubridade
+
+([Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492) - art.6.º n.º 1, als. c) e d)
+
+###### Artigo 36.º — Veículos de transporte de produtos alimentares
+
+Quadro XXXII
+
+Veículos de transporte de produtos alimentares
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 37.º — Veículos de transporte de animais
+
+Quadro XXXIII
+
+Veículos de transporte de animais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 38.º — Limpeza de fossas e colectores
+
+Quadro XXXIV
+
+Limpeza de fossas e colectores
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 39.º — Recolha, depósito e tratamento de resíduos sólidos
+
+1 - Os m3 referidos nos números seguintes têm por base os consumos de água, facturados pela entidade que fornece esse serviço à população do concelho.
+
+Quadro XXXV
+
+Recolha, depósito e tratamento de resíduos sólidos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 40.º — Recolha de animais em canil
+
+Quadro XXXVI
+
+Recolha de animais em canil
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+### CAPÍTULO VI — Espectáculos e Diversões
+
+###### Artigo 41.º — Licenciamento
+
+Quadro XXXVII
+
+Licenciamento
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 42.º — Área de terrado com equipamentos de diversão
+
+Quadro XXXVIII
+
+Área de terrado com equipamentos de diversão
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+### CAPÍTULO VII — Poluição Sonora
+
+###### Artigo 42.º — Licenças de ruído e medições acústicas
+
+Quadro XXXIX
+
+Licenças de ruído e medições acústicas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+### CAPÍTULO VIII — Actividades Económicas
+
+#### Secção I — Mercados e Feiras
+
+###### Artigo 44.º — Licença
+
+Quadro XL
+
+Licença
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 45.º — Mercado municipal
+
+Quadro XLI
+
+Mercado municipal
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 46.º — Mercado mensal
+
+Quadro XLII
+
+Mercado mensal
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 47.º — Feiras anuais
+
+Quadro XLIII
+
+Feiras anuais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 48.º — Utilização de utensílios
+
+Quadro XLIV
+
+Utilização de utensílios
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+#### Secção II — Outras Actividades Económicas
+
+###### Artigo 49.º — Exploração de máquinas de diversão
+
+Quadro XLV
+
+Exploração de máquinas de diversão
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 50.º — Agências de venda de bilhetes
+
+Quadro XLVI
+
+Agências de venda de bilhetes
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 51.º — Horário de estabelecimentos
+
+Quadro XLVII
+
+Horário de estabelecimentos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 52.º — Exploração de inertes
+
+Quadro XLVIII
+
+Exploração de inertes
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 53.º — Realização de leilões
+
+Quadro XLIX
+
+Realização de leilões
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 54.º — Venda ambulante
+
+Quadro L
+
+Venda ambulante
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+#### Secção III — Metrologia
+
+###### Artigo 55.º — Aferição de pesos e medidas
+
+O montante destas taxas é fixado anualmente por despacho do Ministério da Economia, da Inovação e do Desenvolvimento e enviado pelo IPQ - Instituto Português da Qualidade para os diversos SMM - Serviços Municipais de Metrologia, conforme [Decreto-Lei n.º 291/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1990-557469), de 20 de Setembro.
+
+Às taxas fixadas na legislação vigente, adicionam-se, em cada recibo de verificação, as seguintes importâncias:
+
+a) Serviço efectuado na oficina de metrologia 0,50
+
+b) Serviços efectuado no estabelecimento do interessado 1,00
+
+### CAPÍTULO IX — Licenças e Serviços Diversos
+
+###### Artigo 56.º — Licenças diversas
+
+Quadro LI
+
+Licenças diversas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 57.º — Inspecção de ascensores, monta-cargas, escadas mecânicas e tapetes rolantes
+
+Quadro LII
+
+Inspecção de ascensores, monta-cargas, escadas mecânicas e tapetes rolantes
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 58.º — Armazenamento de bens em instalações municipais
+
+Quadro LIII
+
+Armazenamento de bens em instalações municipais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/086000000/1938219398.pdf)
+
+###### Artigo 59.º — Remoção e recolha de veículos abandonados
+
+Pela remoção e recolha de veículos abandonados, a taxa devida é o dobro das fixadas no artigo anterior.
+
+204609316

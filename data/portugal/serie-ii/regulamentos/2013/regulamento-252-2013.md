@@ -1,0 +1,711 @@
+---
+schema_version: '1.0'
+id: pt:dre:2505746:por
+title: Regulamento n.º 252/2013
+short_title: null
+summary: Regulamento Municipal de Apoio ao Desporto e à Atividade Física e Recreativa, anexo I e anexo II
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Ponta Delgada
+proposing_entity: null
+official_number: 252/2013
+official_date: null
+publication_date: '2013-07-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 132/2013, Série II de 2013-07-11
+  number: '132'
+  series: II
+  supplement: null
+  pages: 21855 - 21861
+  pdf_url: https://files.diariodarepublica.pt/2s/2013/07/132000000/2185521861.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2505746'
+  dre_path: /dr/detalhe/regulamento/252-2013-2505746
+  internal: pt:dre:2505746:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/252-2013-2505746
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/252-2013-2505746
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:12:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 86ded74f5442d22f7db6b0433d60e8fb776667fbb77cc153875ce3167c47bb27
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:12:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:332192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+article_structure:
+  article_count: 41
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:12:33Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 252/2013
+
+José Manuel Bolieiro, Presidente da Câmara da Câmara Municipal de Ponta Delgada, torna público que, por deliberação tomada pela Assembleia Municipal de Ponta Delgada, na sua sessão de 30 de abril do ano em curso, foi aprovado o Regulamento Municipal de Apoio ao Desporto e à Atividade Física e Recreativa.
+
+11 de junho de 2013. - O Presidente da Câmara, José Manuel Bolieiro.
+
+Regulamento Municipal de Apoio ao Desporto e à Atividade Física e Recreativa
+
+Nota justificativa
+
+É função dos Municípios definir, desenvolver e conduzir políticas que promovam a generalização da atividade física, recreativa e a prática desportiva regular promovida por entidades de reconhecida qualidade e interesse para o concelho.
+
+De forma a assegurar uma maior eficácia e transparência na atribuição de apoios por parte da Câmara Municipal de Ponta Delgada às entidades sedeadas no concelho, a autarquia entende, por bem, definir todo um conjunto de regras e prioridades indispensáveis para a obtenção dos referidos apoios.
+
+Deste modo, toda a dinâmica de apoios e incentivos à atividade das referidas entidades e mesmo a outras de relevante interesse para o concelho, deverá obedecer às regras constantes num conjunto de normas, traduzidas num único regulamento.
+
+O presente regulamento pretende introduzir regras transparentes e universais na relação entre a autarquia e as entidades, dando-se primazia à previsibilidade da gestão, à racionalidade dos recursos disponíveis e a parâmetros quantitativos e qualitativos reconhecidos.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Enquadramento legal
+
+1 - O presente regulamento é elaborado no uso da competência prevista nas alíneas a) e b) do n.º 4 e alínea a) do n.º 6 do artigo 64.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886) de 18 de setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504) de 11 de janeiro, alínea f ) do n.º 1 do artigo 13.º e alíneas b) e c) do n.º 2 do artigo 21.º da [Lei n.º 159/99](https://diariodarepublica.pt/dr/detalhe/lei/159-1999-570562) de 14 de setembro, assim como no uso da competência prevista no artigo 241.º da Constituição da República Portuguesa, e regula a matéria constante da [Lei n.º 5/2007](https://diariodarepublica.pt/dr/detalhe/lei/5-2007-522787), de 16 de janeiro (Lei de Bases da Atividade Física e do Desporto), [Decreto-Lei n.º 273/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2009-490964) de 1 de outubro (Regime jurídico dos contratos-programa de desenvolvimento desportivo) e [Decreto Legislativo Regional n.º 21/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2009-482634) de 2 de dezembro (regime jurídico de apoio ao movimento associativo desportivo).
+
+2 - O presente regulamento foi aprovado pela Assembleia Municipal de Ponta Delgada na sua sessão de 30 de abril de 2013, nos termos da alínea a) do n.º 2 do artigo 53.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886) de 18 de setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504) de 11 de janeiro.
+
+###### Artigo 2.º — Objeto e âmbito de aplicação
+
+1 - No sentido de tornar mais explícito o papel cofinanciador, regulador e fiscalizador da Autarquia no sentido de uma maior transparência nas relações com as entidades que promovem o desporto é obrigatório que a concessão de apoios financeiros se realize mediante a celebração de contratos-programa, ao abrigo do disposto no artigo 46.º da lei de Bases da Atividade Física e do Desporto n.º 5/2007.
+
+2 - Podem candidatar-se anualmente aos apoios previstos neste regulamento entidades com estatuto de pessoa coletiva, sem fins lucrativos ou de utilidade pública que tenham a sua sede social e que sejam diretamente responsáveis pelo desenvolvimento do seu Plano de Atividades no concelho de Ponta Delgada.
+
+###### Artigo 3.º — Objetivos
+
+São objetivos do presente regulamento:
+
+a) A promoção e o desenvolvimento da prática desportiva regular, o aumento dos índices de atividade física e recreativa e a participação cívica dos cidadãos do Concelho de Ponta Delgada desde a idade pré-escolar até à terceira idade;
+
+b) O reconhecimento do papel essencial das associações, clubes e demais entidades na prossecução dos objetivos gerais, proporcionando deste modo a sua participação na definição das políticas do município nestas áreas;
+
+c) A consolidação, promoção e manutenção da rede de infraestruturas desportivas e de lazer existentes no Concelho de Ponta Delgada, colocando a mesma ao serviço da comunidade de uma forma equilibrada e geograficamente de acordo com as necessidades e densidade da população definidas na Carta do Desporto do Concelho de Ponta Delgada;
+
+d) A promoção dos valores éticos desportivos, a recusa da violência a valorização das boas práticas, condutas e gestão desportiva por parte dos agentes e demais intervenientes;
+
+e) O incentivo à organização e participação de competições de âmbito local, regional, nacional e internacional no concelho;
+
+f ) A integração da atividade física, recreativa e desportivas nos objetivos comuns de educação e de solidariedade coletiva do Concelho de Ponta Delgada.
+
+###### Artigo 4.º — Princípios orientadores
+
+Constituem valores essenciais do presente regulamento:
+
+a) Equidade - o processo de atribuição das comparticipações previstas assenta em pressupostos transparentes, justos e imparciais decorrentes das disponibilidades financeiras do Município atribuídas à rubrica do Orçamento Municipal;
+
+b) Subsidiariedade - a atribuição de apoios às entidades pressupõe que estas se constituam como organizações com relevância para desenvolvimento do Concelho de Ponta Delgada;
+
+c) Legalidade - os apoios são atribuídas às entidades que comprovem o funcionamento legal das suas atividades, bem como dos seus órgãos sociais, em respeito com as respetivas disposições estatutárias;
+
+d) Responsabilização - as entidades comparticipadas são responsáveis, através dos seus órgãos competentes, pela aplicação e gestão dos apoios concedidos aos fins que presidiram à sua atribuição;
+
+e) Complementaridade - os apoios a conceder pela Câmara Municipal de Ponta Delgada representam uma parte dos custos das entidades com as respetivas atividades;
+
+f ) Planeamento - a atribuição de apoios depende da apresentação de planos de atividade claros e concisos no que diz respeito ao conteúdo e objetivos propostos;
+
+g) Promoção - são especialmente valorizadas as atividades e projetos que promovam a imagem e o nome do Município de Ponta Delgada;
+
+h) Repercussão Social - a dimensão social das atividades desenvolvidas pelas entidades, nomeadamente no que diz respeito ao número de participantes envolvidos, é relevada para efeitos de apoio;
+
+i) Combate à Exclusão Social - será valorizada para efeitos de apoio, as entidades que desenvolvam atividades com pessoas portadores de deficiência e pertencentes a estratos sociais carenciados;
+
+j) Racionalização dos Recursos do Município - são adotadas normas claras, imparciais e transparentes, que possibilitem a acessibilidade de todos os interessados, desde que preenchem os requisitos legais e as demais exigências dispostos neste regulamento;
+
+k) Avaliação - a manutenção, reforço, redução ou supressão das comparticipações atribuídas dependerá de uma avaliação regular, de acordo com os critérios estabelecidos em cada uma das medidas que integram este Regulamento Municipal de Apoio ao Desporto e à Atividade Física e Recreativas.
+
+###### Artigo 5.º — Tipologia de apoio municipal
+
+O apoio municipal previsto no presente regulamento assume as seguintes tipologias:
+
+a) Concessão de comparticipação financeira;
+
+b) Apoio logístico, material ou espacial (apoio não financeiro);
+
+c) Isenção ou redução de taxas e tarifas em casos devidamente analisados e justificados.
+
+###### Artigo 6.º — Montante global do apoio financeiro
+
+1 - No âmbito do presente regulamento, o montante total de apoio a atribuir anualmente, corresponderá ao valor indicado na rubrica "Apoio às Atividades Desportivas" constante no Orçamento e Plano aprovado em Assembleia Municipal;
+
+2 - A atribuição e aprovação dos apoios financeiros a cada uma das entidades é da competência da Câmara Municipal de Ponta Delgada, sob proposta do membro do executivo responsável pelo Pelouro;
+
+3 - Os apoios financeiros aprovados, serão tornados públicos no sítio da Câmara Municipal de Ponta Delgada;
+
+4 - A data de pagamento dos montantes aprovados é da responsabilidade da Câmara Municipal, tendo em conta a disponibilidade de tesouraria e o respeito pelas disposições legais previstas na lei dos Compromissos.
+
+###### Artigo 7.º — Programas de apoio
+
+As candidaturas aos apoios a conceder pela Câmara Municipal de Ponta Delgada no âmbito do presente regulamento, terão de ser enquadradas nas seguintes áreas:
+
+1 - Programas de Apoio Financeiro
+
+Programa de apoio à atividade regular
+
+Medida 1 - Formação desportiva
+
+Medida 2 - Desporto não profissional e profissional
+
+Medida 3 - Promoção da atividade física e recreativa
+
+Programa de apoio às atividades pontuais
+
+Medida 4 - Evento desportivo/recreativo
+
+Medida 5 - Espetáculo desportivo
+
+2 - Programas de apoio não financeiro
+
+Programa de apoio à construção, cedência e utilização de equipamento desportivo
+
+Medida 6 - Construção e beneficiação de equipamentos desportivos
+
+Medida 7 - Cedência e utilização de equipamentos desportivos
+
+Programa de apoio à utilização de equipamento lúdico
+
+Medida 8 - Transportes municipais
+
+Medida 9 - Edifícios municipais
+
+###### Artigo 8.º — Documentação obrigatória de candidatura
+
+1 - As entidades deverão formalizar as suas candidaturas às diversas medidas previstas nos programas de apoio deste regulamento, através do preenchimento de modelos próprios disponibilizados pela Autarquia, acompanhados obrigatoriamente dos seguintes documentos:
+
+a) Estatutos e respetiva publicação no Diário da República ou Jornal Oficial;
+
+b) Cópia do cartão de identificação de pessoa coletiva;
+
+c) Documento comprovativo de possuidor do estatuto de utilidade pública, nos casos em que tal se aplica;
+
+d) Declarações válidas ou autorização de consulta da situação contributiva da Segurança Social e da Administração Fiscal;
+
+e) Identificação e comprovativo do NIB para o qual deva ser efetuado qualquer movimento financeiro resultante do contrato-programa/apoio.
+
+2 - Uma entidade pode concorrer simultaneamente a qualquer medida prevista no artigo 7, desde que cumpra integralmente os requisitos exigidos neste regulamento.
+
+3 - Sempre que, fora do período de candidatura, se verifique alguma alteração substancial aos elementos constantes nos documentos previstos no n.º 1 do artigo 8, o mesmo deverá ser obrigatoriamente comunicado à Câmara Municipal de Ponta Delgada.
+
+4 - Os documentos previstos no n.º 1 do presente artigo, são específicos de cada candidatura, sendo por este motivo necessário a apresentação de nova documentação todos os anos.
+
+###### Artigo 9.º — Período de candidatura
+
+1 - O período de candidatura aos Programas de Apoio Financeiro previstos no artigo 7 deste regulamento, decorre anualmente de 1 de setembro a 31 de setembro.
+
+2 - Os programas de apoio não financeiro, nomeadamente para a construção e beneficiação de equipamentos desportivos, não possuem período de candidatura específico.
+
+###### Artigo 10.º — Análise e apreciação das candidaturas
+
+1 - As candidaturas serão analisadas nos 30 dias seguintes ao termo do prazo de candidatura previsto no artigo anterior.
+
+2 - As candidaturas objeto de parecer favorável e após a concordância do Vereador com o Pelouro do Desporto serão submetidas à Câmara Municipal de Ponta Delgada, que deliberará nos termos da alínea b) do n.º 4 do artigo 64.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, na redação que lhe foi dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro.
+
+###### Artigo 11.º — Comissão de análise de candidaturas
+
+1 - Será criada uma comissão de fiscalização, composta por funcionários da Câmara Municipal com funções ligadas à área respetiva, que terão como missão o acompanhamento do processo de candidatura, nomeadamente a análise de toda documentação entregue pelas entidades.
+
+2 - A referida comissão de análise pode, a qualquer momento, solicitar às entidades documentação ou informações adicionais no sentido do esclarecimento de dúvidas sobre a atribuição e aplicação dos apoios previstos neste regulamento.
+
+###### Artigo 12.º — Cálculo dos apoios
+
+1 - Para facilitar os cálculos e eventuais alterações do Regulamento será utilizado um sistema de pontos. Cada ponto irá corresponder a um valor determinado em Euros.
+
+2 - A definição do montante total do apoio financeiro a atribuir a cada entidade/candidatura aprovada, terá em conta as seguintes fórmulas:
+
+a) Valor/ponto = Orçamento/(somatório) Pontos entidades
+
+b) Apoio por entidade = (somatório) Pontos entidade x valor/ponto
+
+3 - O valor ponto a atribuir em cada ano, será objeto de aprovação camarária aquando do procedimento previsto nos números 2 dos artigos 6.º e 10.º do presente regulamento
+
+### CAPÍTULO II — Programas de apoio financeiro
+
+#### SECÇÃO I — Programa de apoio à atividade regular
+
+###### Artigo 13.º — Definição
+
+No que respeita ao programa de apoio à atividade regular e para efeitos do presente regulamento, são definidos os seguintes conceitos:
+
+a) Atividade regular - prática desportiva ou recreativa que seja diretamente desenvolvida pela entidade, de acordo com o seu próprio Plano de Atividade, com uma frequência mínima bi-semanal, durante um período mínimo de 7 meses por época desportiva.
+
+b) Competição regular - aquela que é desenvolvida, no mínimo, ao longo de 6 meses por época.
+
+###### Artigo 14.º — Formulário de candidatura
+
+A candidatura às Medidas previstas no Programa de Apoio à Atividade Regular é feita através do Anexo I, constante neste regulamento.
+
+###### Artigo 15.º — Medida 1 - Formação desportiva
+
+1 - Para efeitos do presente regulamento, considera-se formação desportiva, as atividades realizadas pelos agentes desportivos, designadamente, no âmbito de iniciação à prática desportiva dos escalões jovens, que compreendam praticantes com idade igual ou inferior a 18 anos.
+
+2 - As atividades previstas no n.º 1, podem ser desenvolvidas no âmbito de competições organizadas por uma associação ou clube.
+
+###### Artigo 16.º — Atribuição de pontos
+
+1 - Os pontos a atribuir às entidades no âmbito da formação desportiva terá em conta o seguinte:
+
+Quadro n.º 1 - Tabela de índices de pontos dos desportos coletivos
+
+Escolas (até aos 9 anos) *15 pontos
+
+Infantis (dos 10 aos 12 anos) *25 pontos
+
+Iniciados (dos 13 aos 14 anos) *35 pontos
+
+Juvenis (dos 15 aos 16 anos) *40 pontos
+
+Juniores (dos 17 aos 18 anos) *45 pontos
+
+*Número mínimo de 10 atletas.
+
+Quadro n.º 2 - Tabela de índices de pontos dos desportos individuais *
+
+Até 10 Atletas - 20 pontos
+
+Entre 10 e 20 Atletas - 40 pontos
+
+Entre 21 e 40 Atletas - 65 pontos
+
+Mais de 40 - 90 pontos
+
+* Somatório de todos os atletas dos vários escalões
+
+2 - A pontuação prevista no número anterior poderá ser majorada, nos termos seguintes:
+
+a) Participantes - (32 pontos) por ter em atividade pelo menos 4 equipas da mesma modalidade em escalões diferentes;
+
+b) Historial - (16 pontos) quando a entidade tiver mantido, de forma ininterrupta, durante cinco anos, atividade formativa na mesma modalidade;
+
+c) Mérito - (16 pontos) se a entidade possuir nos respetivos escalões atletas com participação, na época desportiva anterior, em seleções regionais; (24 pontos) se o atleta participou na época desportiva anterior em seleções nacionais; (16 pontos) se a entidade tiver classificações de equipa ou atleta (desporto individual) nos três primeiros lugares nas competições oficiais na época desportiva anterior;
+
+d) Iniciativa - (16 pontos) se a entidade incluir no Plano de Atividades entregue aquando da candidatura, uma iniciativa desportiva própria a realizar no Concelho de Ponta Delgada, destinada aos escalões de formação e à promoção do município;
+
+e) Desporto para Todos - (24 pontos) se a entidade promover a prática de desporto para portadores de deficiência; (16 pontos) se forem promovidas pela entidade politicas ativas de inclusão de jovens praticantes provenientes de famílias carenciadas e de idosos.
+
+3 - Não serão considerados atletas que tenham sido contabilizados, para idênticos efeitos, noutra modalidade ou nível competitivo pela mesma entidade.
+
+4 - São alvo de uma redução de 5 % do total de pontos, as entidades que utilizem instalações de treino/competição municipais e que se encontrem sob gestão direta do próprio município.
+
+5 - Só serão consideradas candidaturas validas à presente Medida, aquelas que apresentem treinador qualificado pela estrutura federativa ou Associativa da modalidade em acompanhamento regular às atividades de formação desportiva.
+
+###### Artigo 17.º — Medida 2 - Desporto não profissional e profissional
+
+1 - Para efeitos da presente Medida, considera-se competição desportiva não profissional, o segmento de prática desportiva onde os atletas inscritos não aufiram da entidade desportiva remuneração pecuniária.
+
+2 - Para efeitos do presente Regulamento, considera-se competição desportiva profissional, o segmento de prática onde a grande totalidade dos atletas aufira compensações pecuniárias.
+
+3 - Para a presente Medida concorre igualmente as seguintes designações e características:
+
+a) Atividade federada - a atividade desenvolvida no âmbito de um Campeonato organizado por uma Associação;
+
+b) Atividade não federada - a atividade organizada fora do âmbito das Associações, promovida diretamente por estas e por clubes desportivos ou recreativos;
+
+c) Desporto formal - conjunto de atividades desportivas federadas e não federadas que seguem as normas e regras definidas pelas federações nacionais e internacionais. Integram este segmento do desporto os setores federado, escolar, militar, do trabalho etc.
+
+4 - O presente apoio tem por alvo, praticantes com idade superior a 18 anos (escalão sénior ou superior).
+
+###### Artigo 18.º — Atribuição de pontos
+
+1 - Os pontos a atribuir às entidades no âmbito do Desporto Não Profissional e Profissional tem em conta o seguinte:
+
+Tabela de Índice de Pontos do Desporto Não Profissional e Profissional
+
+Quadro n.º 3 - Desportos coletivos
+
+Competição âmbito local - 20 pontos
+
+Competição de âmbito regional - 30 pontos
+
+Competição de âmbito nacional
+
+Nível 3 ou similar - 40 pontos
+
+Nível 2 ou similar - 50 pontos
+
+Nível 1 ou similar - 60 pontos
+
+Quadro n.º 4 - Desportos individuais
+
+Competição âmbito local - 15 pontos
+
+Competição de âmbito regional - 20 pontos
+
+Competição de âmbito nacional
+
+Nível 3 ou similar - 25 pontos
+
+Nível 2 ou similar - 30 pontos
+
+Nível 1 ou similar - 35 pontos
+
+2 - A pontuação prevista no número anterior poderá ser majorada, nos termos seguintes:
+
+a) Participantes - (16 pontos) no caso de a entidade ter pelo menos 50 % dos seus atletas federados formados ou com residência fiscal no Concelho de Ponta Delgada;
+
+b) Historial - (16 pontos) quando a entidade tiver mantido, de forma ininterrupta, durante cinco anos, atividade na mesma modalidade;
+
+c) Mérito - (32 pontos) se a entidade possuir algum atleta com participação em seleções nacionais da modalidade na época desportiva anterior; (16 pontos) se a entidade possuir alguma equipa (desportos coletivos) ou atleta (desportos individuais) classificado entre os três primeiros lugares em competições nacionais ou internacionais oficiais na época anterior; (8 pontos) se possuir alguma equipa (desportos coletivos) ou atleta (desportos individuais) classificados entre os três primeiros lugares em competições regionais oficiais na época anterior; (16 pontos) se a entidade possuir alguma equipa que subiu para o quadro competitivo superior relativamente à época transata;
+
+d) Iniciativa - (16 pontos) se a entidade incluir no Plano de Atividades entregue aquando da candidatura, uma iniciativa desportiva da modalidade, a nível local, destinada a uma população alvo situada na faixa etária acima dos 18 anos e à promoção do município;
+
+e) Desporto para Todos - (16 pontos) se a entidade promover a prática de desporto para portadores de deficiência; (16 pontos) se forem promovidas pela entidade politicas ativas de inclusão de jovens praticantes provenientes de famílias carenciadas e de idosos.
+
+3 - Para efeitos de apoio, será considerado um número mínimo de 10 atletas por escalão nos desportos individuais.
+
+4 - Podem candidatar-se à obtenção dos apoios municipais na área constante na alínea b) do n.º 1 artigo 18.º, atletas individuais, sem qualquer vínculo a um grupo/equipa devido às características intrínsecas à modalidade desportiva praticada, mas com inscrição formalizada num clube desportivo sediado no Concelho Ponta Delgada
+
+5 - Não serão considerados atletas que tenham sido contabilizados, para idênticos efeitos, noutra modalidade ou nível competitivo pela mesma entidade.
+
+6 - São alvo de uma redução de 5 % do total de pontos, as entidades que utilizem instalações de treino/competição municipais e que se encontrem sob gestão direta do próprio município.
+
+7 - Só serão consideradas candidaturas validas à presente medida, aquelas que apresentem treinador qualificado pela estrutura federativa da modalidade em acompanhamento regular às atividades de formação desportiva
+
+Medida 3 - Promoção da atividade física e recreativa
+
+Tendo em conta que o presente regulamento contempla o apoio às entidades que impulsionem e ofereçam atividades que vão ao encontro das necessidades dos seus associados e dos restantes munícipes, considera-se indispensável também, fazer incluir neste regulamento o apoio à atividade física e recreativa regular, que distintas da componente desportiva, não deixam de ser uma forma de participação cívica dos cidadãos no âmbito das respetivas organizações.
+
+###### Artigo 19.º — Atribuição de pontos
+
+1 - Os pontos a atribuir às entidades no âmbito do desenvolvimento de Atividades Físicas e Recreativas, terá em conta os seguintes critérios de ponderação:
+
+Quadro n.º 5 - Tabela de pontos das entidades com atividades físicas e recreativas
+
+Atividade com muita relevância -100 pontos
+
+Atividade com relevância - 75 pontos
+
+Atividade com alguma relevância - 50 pontos
+
+2 - Com base na tabela anterior, os pontos a atribuir às entidades serão em resultado da análise dos seguintes itens:
+
+a) Número de associados;
+
+b) Número de participantes nas diferentes atividades;
+
+c) Benefícios promocionais para o Município resultantes das atividades;
+
+d) Caráter continuado de realização das atividades;
+
+e) Inovação e criatividade das atividades;
+
+f) Participação nas atividades de portadores de deficiência, jovens carenciados e idosos.
+
+3 - O valor/ponto da tabela anterior, será o previsto no n.º 1 do artigo 12.
+
+#### SECÇÃO II — Programa de apoio às atividades pontuais
+
+###### Artigo 20.º — Definição
+
+1 - O Programa de apoio às atividades pontuais visa o apoio financeiro ou logístico à organização de atividades de caráter limitado e de duração temporal inferior à prevista no artigo 13.º do presente regulamento.
+
+2 - A candidatura a este programa deve ser devidamente fundamentada e deverá descriminar os objetivos a atingir, as ações a desenvolver, o número de participantes, os meios humanos, materiais e financeiros necessários, assim como a respetiva calendarização e orçamento.
+
+###### Artigo 21.º — Formulário de candidatura
+
+A candidatura às medidas previstas no Programa de Apoio às Atividades Pontuais é feita através do Anexo II, constante neste regulamento.
+
+###### Artigo 22.º — Medida 4 - Evento desportivo
+
+1 - Os eventos desportivos ou recreativos a apoiar pela Câmara Municipal deverão inserir-se preferencialmente, na prática de uma modalidade desportiva tutelada por uma Federação Desportiva devidamente reconhecida.
+
+2 - A Câmara Municipal de Ponta Delgada apoiará a organização de eventos desportivos organizados pelas entidades, desde que atempadamente programados, nomeadamente ao nível dos Planos de Atividade Anuais respetivos e considerados de interesse local, regional, nacional ou internacional.
+
+###### Artigo 23.º — Atribuição de pontos
+
+1 - Os pontos a atribuir às entidades no âmbito da realização do Evento Desportivo ou Recreativo, terá em conta os seguintes critérios de ponderação:
+
+Quadro n.º 6 - Tabela de índice de pontos por evento desportivo
+
+Evento com muita relevância - 75 pontos
+
+Evento com Relevância - 50 pontos
+
+Evento com alguma relevância - 25 pontos
+
+2 - Com base na tabela anterior, os pontos a atribuir ao evento serão em resultado da análise dos seguintes itens:
+
+a) Número de participantes/espetadores na atividade;
+
+b) Com interesse promocional para o Município;
+
+c) Interesse para o desenvolvimento do Concelho;
+
+d) Caráter continuado de realização desses eventos;
+
+e) Participação de entidades ou munícipes do Concelho de Ponta Delgada;
+
+f ) Inovação e criatividade do evento;
+
+g) Desporto para todos, participação de portadores de deficiência, jovens carenciados e idosos.
+
+3 - O valor/ponto da tabela anterior, será o previsto no n.º 1 do artigo 12.
+
+4 - Para os devidos efeitos, haverá uma limitação de 3 eventos que poderão ser objeto de apoio por cada entidade.
+
+###### Artigo 24.º — Medida 5 - Espetáculo desportivo
+
+1 - As comparticipações, apoios e subsídios a espetáculos desportivos que impliquem transmissões televisivas, de âmbito nacional ou internacional, poderão ser objeto de protocolo ou contrato-programa específico a celebrar entre a Câmara Municipal e a entidade promotora do evento.
+
+2 - Os espetáculos desportivos não se regem pelas disposições do presente Regulamento e serão aprovados e apreciados de acordo com as disponibilidades financeiras do município e de acordo com os critérios embora o interesse na sua comparticipação seja apreciado de acordo com os critérios a seguir mencionados:
+
+a) Número de espetadores na assistência às competições;
+
+b) Cobertura comprovada nos meios de comunicação social
+
+### CAPÍTULO III — Programas de apoio não financeiro
+
+###### Artigo 25.º — Definição
+
+1 - Pelo disposto no artigo 5.º do presente regulamento, é objeto de integração, no âmbito dos apoios prestados às entidades, os apoios de natureza não financeira que de uma forma indireta representam um custo para o orçamento municipal.
+
+2 - Os apoios não financeiros, quando justificadamente, serão objeto de referência e de quantificação nos respetivos contratos-programa a estabelecerem com as entidades objeto de comparticipação anual.
+
+#### SECÇÃO I — Programa de apoio à construção, cedência e utilização de equipamento desportivo
+
+###### Artigo 26.º — Medida 6 - Construção e beneficiação de equipamentos desportivos
+
+1 - A criação de novas instalações desportivas e beneficiação das existentes, constitui uma mais-valia no âmbito da oferta desportiva em proveito do desenvolvimento desportivo do Concelho. Neste sentido a Câmara Municipal de Ponta Delgada em função das disponibilidades orçamentais e das candidaturas aos Quadros Comunitários, apoiará novos projetos ao nível da infra estruturação e cedência de terrenos, desde que sejam considerados de interesse municipal e garantam um elevado grau de autonomia aos interessados.
+
+2 - As comparticipações financeiras e os apoios a atribuir pela Câmara Municipal de Ponta Delgada para efeitos de construção de infraestruturas e equipamentos desportivos, deve atender a um plano coerente e integrado, enquadrado na estratégia global de desenvolvimento desportivo do Concelho previsto na Carta do Desporto do Concelho de Ponta Delgada.
+
+###### Artigo 27.º — Critérios de apoio
+
+1 - Os critérios de atribuição dos apoios financeiros às entidades no âmbito da Medida 6, são da responsabilidade da Câmara Municipal de Ponta Delgada e deverão ter em conta os seguintes fatores:
+
+a) Impacte dos equipamentos e infraestruturas no melhoramento dos objetivos estatutários da entidade candidata;
+
+b) Impacte dos equipamentos e infraestruturas no programa de desenvolvimento do Concelho;
+
+c) Número de beneficiários diretos da infraestrutura e dos equipamentos;
+
+d) Montante orçamentado para o investimento;
+
+e) Enquadramento das associações e das suas atividades nas orientações definidas nos documentos estratégicos do município nomeadamente, na Carta do Desporto do Concelho de Ponta Delgada.
+
+###### Artigo 28.º — Medida 7 - Cedência e utilização de equipamentos desportivos
+
+1 - A cedência de espaços desportivos pela Câmara Municipal de Ponta Delgada visa a sua rentabilização dos espaços desportivos, privilegiando a iniciação e treino da prática desportiva, a competição e a realização de eventos, otimizando a iniciativa dos agentes desportivos do Concelho.
+
+2 - As instalações desportivas podem ser cedidas em duas modalidades:
+
+a) Cedência permanente, para gestão da utilização contínua e programada dos espaços por parte dos clubes do concelho com atividade desportiva regular e ou competitiva e a entidades que promovam ou realizem estágios;
+
+b) Cedência, para utilização pontual das instalações, facultada para atividades federadas/não federadas dos clubes, torneios, treinos e outras atividades desportivas organizadas pelos clubes, escolas, associações e outras entidades ou grupos de indivíduos.
+
+3 - A Câmara Municipal de Ponta Delgada reserva-se o direito de ceder as instalações de gestão municipal para a realização de eventos ou espetáculos, que fora do âmbito das competições oficiais, se revelem de manifesto interesse municipal.
+
+4 - O apoio será contabilizado para efeitos dos apoios concedidos ao nível do presente regulamento de acordo com os custos de manutenção, gestão e beneficiação dos equipamentos por parte da Câmara Municipal de Ponta Delgada
+
+#### SECÇÃO II — Programa de apoio à utilização de equipamento lúdico
+
+###### Artigo 29.º — Medida 8 - Transportes municipais
+
+1 - A Câmara Municipal de Ponta Delgada poderá ceder, sempre que possível, os transportes às entidades para a realização de atividades de caráter lúdico e social.
+
+2 - No processo de requisição de viaturas à Câmara Municipal de Ponta Delgada, as entidades que possuem viaturas comparticipadas pela mesma, deverão explicitar a utilização da sua viatura para esse mesmo período.
+
+###### Artigo 30.º — Condições de cedência
+
+1 - O pedido de cedência das viaturas é dirigido sob a forma de requerimento ao Presidente da Câmara Municipal de Ponta Delgada com pelo menos 30 dias de antecedência em relação à data pretendida para a sua utilização, sem prejuízo da ocorrência de casos excecionais.
+
+2 - Em cada requerimento de pedido de cedência deve ser indicado:
+
+a) Identificação completa da Entidade requerente;
+
+b) Identificação completa do responsável;
+
+c) Finalidade da deslocação;
+
+d) Itinerário e local da deslocação;
+
+e) Hora e local de partida;
+
+f ) Hora provável de chegada;
+
+g) Número previsto de passageiros e respetivo escalão etário;
+
+3 - Não serão considerados os pedidos que excedam a lotação ou capacidade das viaturas.
+
+4 - Serão fatores de desempate os seguintes:
+
+a) Data de entrada do pedido;
+
+b) Relevância da atividade;
+
+c) Número de deslocações anuais;
+
+###### Artigo 31.º — Medida 9 - Edifícios municipais
+
+1 - A Câmara Municipal de Ponta Delgada disponibiliza para efeitos de realização de atividades pontuais de caráter social e lúdico, os edifícios municipais às entidades do concelho.
+
+2 - Esta utilização será feita de acordo com as orientações previstas nos regulamentos internos dos referidos edifícios.
+
+3 - No âmbito deste regulamento, a Câmara Municipal de Ponta Delgada poderá estabelecer protocolos com entidades, que prevejam condições especiais de utilização das instalações, nomeadamente para instalação de sedes sociais, que obedecerão a critérios de racionalidade, disponibilidade e relevância a analisar individualmente.
+
+### CAPÍTULO IV — Contratos-programa
+
+###### Artigo 32.º — Definição
+
+1 - As comparticipações financeiras a atribuir são objeto de contrato-programa, os quais explicitam as contrapartidas cujo cumprimento é obrigatório pelos beneficiários.
+
+2 - A obrigação da celebração do contrato-programa aplica-se a todas as comparticipações financeiras.
+
+###### Artigo 33.º — Contrato-programa e relatório final
+
+1 - Os contratos-programa regulam expressamente os seguintes pontos:
+
+a) Objeto do contrato;
+
+b) Obrigações assumidas pela entidade responsável pela execução do programa de desenvolvimento desportivo;
+
+c) Prazo de execução do programa;
+
+d) Custo previsto do programa e definição das responsabilidades de financiamento;
+
+e) Regime de comparticipação financeira;
+
+f ) Destino do apoio atribuído ao abrigo do contrato programa, bem como a referência da sua afetação ao fim apoiado.
+
+2 - Concluída a realização das ações previstas no plano de atividades, a entidade beneficiária do apoio envia à entidade concedente um Relatório Final sobre a execução do contrato.
+
+3 - A entrega do Relatório Final de Atividades e de Aplicação Financeira dos apoios deverá conter os seguintes elementos informativos:
+
+a) Enumeração das classificações obtidas pelas equipas ou atletas na época desportiva transata, através de declarações devidamente autenticadas pelas respetivas associações ou federações;
+
+b) Quantificação do número de participantes nas atividades desenvolvidas;
+
+c) Documentos descritivos da aplicação dos apoios financeiros concedidos.
+
+4 - Para efeitos de despesa, consideram-se todos os gastos inerentes à manutenção e realização dos planos anuais de atividades apoiadas pelo Município por parte das entidades beneficiadas.
+
+5 - Quando solicitado pela Câmara Municipal de Ponta Delgada, deverá ser obrigatória a entrega de relatórios anuais de contas e respetivos pareceres do Conselho Fiscal.
+
+###### Artigo 34.º — Controlo da execução dos contratos
+
+1 - Compete à Autarquia fiscalizar a execução do contrato-programa, podendo realizar, para o efeito, inspeções e inquéritos.
+
+2 - A entidade ou entidades responsáveis pela realização do programa de desenvolvimento desportivo, devem prestar à Autarquia todas as informações por ela solicitadas acerca da execução do contrato, sob pena de resolução do mesmo nos termos do presente regulamento.
+
+###### Artigo 35.º — Incumprimento
+
+1 - Os contratos-programa celebrados com vista à atribuição de comparticipações financeiras, no que diz respeito à sua modificação, suspensão, revisão, cessação e contencioso, regem-se pelos artigos 15.º, 16.º e 17.º do [Decreto-Lei n.º 432/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/432-1991-332192), de 6 de novembro.
+
+2 - Os casos previstos no artigo 16.º do decreto-lei referido no número anterior, poderão resultar na impossibilidade de celebração de novos contratos-programa no mesmo ano e seguintes, bem como, a devolução integral das quantias já recebidas.
+
+3 - O incumprimento do disposto no n.º 2 do artigo 33.º, por parte da entidade beneficiária, resultará no mesmo tipo de penalizações previstas no presente artigo.
+
+### CAPÍTULO V — Disposições finais
+
+###### Artigo 36.º — Seriação
+
+1 - A aplicação dos diversos critérios permite estabelecer a hierarquia dos apoios a conceder, sendo o principal instrumento metodológico na definição das comparticipações a atribuir a cada entidade.
+
+2 - Após a análise de todas as candidaturas por parte da Comissão de Análise das Candidaturas, o Vereador do Pelouro do Desporto elaborará uma proposta global de atribuição de subsídios, com base em critérios previsto no presente regulamento, a ser submetida à Câmara Municipal.
+
+###### Artigo 37.º — Contrapartidas das entidades apoiadas
+
+1 - As entidades que beneficiem de apoio municipal poderão colaborar, de acordo com as suas disponibilidades, com a Câmara Municipal de Ponta Delgada e/ ou outras empresas e serviços municipais, na organização de eventos desportivos, de divulgação, de formação e sessões públicas de debate etc.
+
+2 - A concessão de comparticipações municipais obriga as entidades beneficiárias a referenciá-los em todos os materiais gráficos editados e ou outras formas de divulgação e promoção dos projetos e eventos a realizar e ou realizados.
+
+3 - A tipologia, dimensões e quantidades dos espaços referidos no número anterior serão definidas em função das características específicas de cada evento e restantes atividades a apoiar e em colaboração com as entidades promotoras dos mesmos.
+
+4 - As entidades que beneficiem de apoio municipal comprometem-se a ceder ao Município de Ponta Delgada os direitos de imagem associados aos eventos e restantes atividades apoiados, com vista à respetiva utilização como veículos promocionais do próprio Município.
+
+###### Artigo 38.º — Falsas declarações
+
+Os agentes que, dolosamente prestarem falsas declarações com o intuito de receberem apoios indevidos, terão que devolver as importâncias indevidamente recebidas e serão penalizados durante um período que poderá ir até três anos, durante o qual não poderão receber qualquer apoio, direta ou indiretamente, por parte da Câmara Municipal de Ponta Delgada.
+
+###### Artigo 39.º — Condicionantes
+
+O montante dos apoios financeiros a conceder anualmente a cada uma das entidades beneficiárias, será em função das disponibilidades financeiras decorrentes do Orçamento Municipal, do número de candidaturas aprovadas e da aplicação dos critérios deste regulamento.
+
+###### Artigo 40.º — Casos omissos
+
+1 - Os casos omissos no presente regulamento serão resolvidos pela Câmara Municipal de Ponta Delgada.
+
+###### Artigo 41.º — Entrada em vigor
+
+O presente regulamento entra em vigor após aprovação da Assembleia Municipal de Ponta Delgada e da sua publicitação no termos legais.
+
+Programa de apoio à atividade regular 2013
+
+## ANEXO I — Ficha de candidatura
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/07/132000000/2185521861.pdf)
+
+Programa de apoio às atividades pontuais 2013
+
+## ANEXO II — Ficha de candidatura
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/07/132000000/2185521861.pdf)
+
+307044387

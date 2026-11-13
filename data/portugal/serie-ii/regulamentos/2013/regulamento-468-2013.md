@@ -1,0 +1,227 @@
+---
+schema_version: '1.0'
+id: pt:dre:2345277:por
+title: Regulamento n.º 468/2013
+short_title: null
+summary: Regulamento dos Horários de Funcionamento dos Estabelecimentos Comerciais
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Montemor-o-Novo
+proposing_entity: null
+official_number: 468/2013
+official_date: null
+publication_date: '2013-12-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 244/2013, Série II de 2013-12-17
+  number: '244'
+  series: II
+  supplement: null
+  pages: 35953 - 35955
+  pdf_url: https://files.diariodarepublica.pt/2s/2013/12/244000000/3595335955.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2345277'
+  dre_path: /dr/detalhe/regulamento/468-2013-2345277
+  internal: pt:dre:2345277:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/468-2013-2345277
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/468-2013-2345277
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:08:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8aa96b7c3dc4de59ad223ce676faa6acc1c8b78dd7c6d085a4e36da02ce62ad2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:08:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:168060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:08:34Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 468/2013
+
+Regulamento dos Horários de Funcionamento dos Estabelecimentos Comerciais
+
+Hortênsia dos Anjos Chegado Menino, Presidente da Câmara Municipal de Montemor-o-Novo, faz público que a Câmara Municipal, na sua reunião de 12 de junho de 2013 aprovou o Regulamento dos Horários de Funcionamento dos Estabelecimentos Comerciais, de acordo com os critérios estabelecidos no [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581) de 01 de abril, na atual redação, bem como, enviou para a Assembleia Municipal em sessão de 21 de junho de 2013, pelo que, devidamente deliberado, se envia agora para publicação nos termos do n.º 1 do artigo 56.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023) de 12 de setembro.
+
+Para que conste, mandei publicar este aviso e outros de igual teor, no Diário da República - 2.ª série e nos lugares de estilo bem como em jornais locais e no sítio da internet.
+
+2 de dezembro de 2013. - A Presidente da Câmara Municipal de Montemor-o-Novo, Hortênsia dos Anjos Chegado Menino.
+
+Regulamento dos Horários de Funcionamento dos Estabelecimentos Comerciais de Montemor-o-Novo
+
+###### Artigo 1.º — Lei habilitante
+
+O presente Regulamento é elaborado e aprovado ao abrigo do disposto no artigo 241.º da Constituição da República Portuguesa, da alínea a) do n.º 6 do artigo 64.º, conjugado com a alínea a) do n.º 2 do artigo 53.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro (Lei das Autarquias Locais) com a alteração que lhe foi dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro, artigo 55.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de janeiro (Lei das Finanças Locais), pelo [Decreto-Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1996-469018), de 15 de maio, com as alterações introduzidas pelos Decretos-Leis n.os [126/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682) de 10 de agosto, [216/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1996-168060) de 20 de novembro, [111/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), de 15 de outubro e [48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril.
+
+###### Artigo 2.º — Objeto e âmbito
+
+1 - O presente Regulamento fixa o período de funcionamento máximo de abertura e encerramento dos estabelecimentos de venda ao público e de prestação de serviços situados na área do Município de Montemor-o-Novo.
+
+2 - O período de abertura dos estabelecimentos, a que se refere o número anterior, não poderá prejudicar a duração semanal e diária do trabalho estabelecida na lei, em instrumento de regulamentação coletiva de trabalho ou no contrato individual de trabalho
+
+###### Artigo 3.º — Regime geral
+
+Os estabelecimentos de venda ao público e de prestação de serviços, inclusive os localizados em centros comerciais, e as grandes superfícies comerciais, podem estar abertos entre as 06 e as 24 horas de todos os dias da semana
+
+###### Artigo 4.º — Regimes especiais
+
+Excetuam-se do disposto no artigo anterior os seguintes estabelecimentos, os quais obedecerão ao regime especial de funcionamento abaixo indicados:
+
+a) Cafés, cervejarias, casas de chá, restaurantes, snack-bares e self-services podem estar abertos entre as 06 e as 24,00 horas de todos os dias da semana.
+
+b) Lojas de conveniência - podem estar abertas entre as 06 e as 02 horas de todos os dias da semana.
+
+c) Clubes, cabarets, boates, dancings, casas de fado e estabelecimentos análogos - podem estar abertos entre as 6 e as 4 horas de todos os dias da semana;
+
+d) Estabelecimentos hoteleiros, farmácias e casas funerárias de turno ou em regime de exclusividade, casas de saúde, estabelecimentos situados em estações e terminais rodoviários e ferroviários, bem como em postos abastecedores de combustíveis e lubrificantes, podem funcionar ininterruptamente.
+
+###### Artigo 5.º — Restrições e alargamentos dos limites horários
+
+1 - A Câmara Municipal, ouvidos os sindicatos, as associações patronais, as associações de consumidores e a junta de freguesia, onde o estabelecimento se situe, poderá restringir ou alargar os limites horários fixados no presente regulamento, nos termos estabelecidos pelo artigo 3.º do [Decreto-Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1996-469018), de 15 de maio.
+
+2 - Os estabelecimentos comerciais e de prestação de serviços, com exceção dos estabelecimentos de restauração e bebidas e dos abrangidos pelo regime de funcionamento permanente, não podem abrir no dia 1 de maio.
+
+3 - A Câmara Municipal pode restringir, por sua iniciativa ou a requerimento de qualquer interessado, os limites fixados no presente Regulamento para um ou para um conjunto de estabelecimentos sempre que se verifique, fundamentadamente, grave perturbação da tranquilidade, do repouso e da qualidade de vida dos cidadãos, nomeadamente dos residentes e ou condóminos da área onde se situam os estabelecimentos, ou por razões de segurança.
+
+4 - A redução do horário de funcionamento é precedida da audição do interessado, que dispõe de 10 dias úteis para se pronunciar.
+
+5 - A medida de redução do horário de funcionamento poderá ser revogada desde que se comprove que cessou a situação de facto que fundamentou a redução de horário.
+
+6 - Os pedidos de novos mapas de horários que resultem da redução de horário dos estabelecimentos, decorrendo exclusivamente da aplicação do presente regulamento, estão isentos do pagamento da respetiva taxa.
+
+###### Artigo 6.º — Lojas de conveniência
+
+Nos termos da [Portaria n.º 154/96](https://diariodarepublica.pt/dr/detalhe/portaria/154-1996-469022), de 15 de maio, entende-se por "loja de conveniência" o estabelecimento comercial de venda ao público que reúna, conjuntamente, os seguintes requisitos:
+
+a) Possua uma área útil igual ou inferior a 250m2;
+
+b) Tenha um horário de funcionamento de pelo menos 18 horas por dia;
+
+c) Distribua, de forma equilibrada, a sua oferta entre produtos alimentares domésticos, livros, revistas, jornais, discos, vídeos, brinquedos, presentes e artigos vários.
+
+###### Artigo 7.º — Requisitos dos horários de funcionamento
+
+1 - O titular da exploração do estabelecimento, ou quem o represente, deve proceder à mera comunicação prévia do horário de funcionamento bem como das suas alterações.
+
+2 - Cada estabelecimento deve afixar o mapa de horário de funcionamento em local bem visível do exterior.
+
+3 - O horário de funcionamento de cada estabelecimento, as suas alterações e o mapa referido no número anterior não estão sujeitos a licenciamento, a autorização, a autenticação, a validação, a certificação, a atos emitidos na sequência de comunicações prévias com prazo, a registo ou a qualquer outro ato permissivo.
+
+###### Artigo 8.º — Período de encerramento
+
+1 - Durante o período de encerramento dos estabelecimentos abrangidos pelo presente Regulamento, é expressamente proibida a permanência de clientes e quaisquer pessoas estranhas ao serviço, com exceção dos funcionários que se encontrem a proceder a trabalhos de limpeza ou manutenção.
+
+2 - Nos estabelecimentos de venda de produtos alimentares é autorizada a abertura fora do período normal de funcionamento, pelo tempo estritamente necessário, para recebimento e acondicionamento dos mesmos.
+
+3 - Excecionalmente, por ocasião da realização de eventos especiais, poderá a Câmara autorizar o funcionamento dos estabelecimentos comerciais em horário livre, sem prejuízo do disposto no artigo 2.º deste regulamento.
+
+###### Artigo 9.º — Sanções
+
+1 - Constitui contraordenação punível com coima:
+
+a) De (euro) 150 a (euro) 450, para pessoas singulares, e de (euro) 450 a (euro) 1500, para pessoas coletivas, a falta de mera comunicação prévia do horário de funcionamento, bem como das suas alterações e a falta da afixação do mapa de horário de funcionamento, em violação do disposto nos n.os 1 e 2 do artigo 7.º;
+
+b) De (euro) 250 a (euro) 3740, para pessoas singulares, e de (euro) 2.500 a (euro) 25.000, para pessoas coletivas, o funcionamento fora do horário estabelecido.
+
+2 - A fiscalização do cumprimento do disposto no presente decreto-lei, a instrução dos processos de contraordenação, bem como a aplicação das coimas e de sanções acessórias, competem ao presidente da câmara municipal.
+
+3 - O produto das coimas reverte para o Município respetivo.
+
+4 - Em caso de reincidência e quando a culpa do agente e a gravidade da infração o justifique, para além das coimas previstas no n.º 1, pode ser aplicada a sanção acessória de encerramento do estabelecimento durante um período não inferior a três meses e não superior a dois anos.
+
+###### Artigo 10.º — Interpretação
+
+As dúvidas e omissões suscitadas pela aplicação do presente Regulamento serão dirigidas e integradas mediante deliberação da Câmara Municipal.
+
+###### Artigo 11.º — Norma revogatória
+
+O Presente Regulamento revoga o anterior Regulamento dos Horários de Abertura e Encerramento dos Estabelecimentos Comerciais e de Prestação de Serviços da Área do Município de Montemor-o-Novo.
+
+###### Artigo 12.º — Início de vigência
+
+O presente Regulamento entra em vigor 15 dias após a sua publicação.
+
+307440022

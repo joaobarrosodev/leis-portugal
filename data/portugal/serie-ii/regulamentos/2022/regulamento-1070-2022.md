@@ -1,0 +1,425 @@
+---
+schema_version: '1.0'
+id: pt:dre:202912314:por
+title: Regulamento n.º 1070/2022
+short_title: null
+summary: Projeto do Regulamento da Taxa Municipal Turística de Viana do Castelo
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Viana do Castelo
+proposing_entity: null
+official_number: 1070/2022
+official_date: null
+publication_date: '2022-11-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 211/2022, Série II de 2022-11-02
+  number: '211'
+  series: II
+  supplement: null
+  pages: 435 - 443
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/11/211000000/0043500443.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '202912314'
+  dre_path: /dr/detalhe/regulamento/1070-2022-202912314
+  internal: pt:dre:202912314:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1070-2022-202912314
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1070-2022-202912314
+  consolidated_url: null
+  retrieved_at: '2026-11-13T07:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a50464c7ee8fdd230fe3a1959b3c88b10f1b410a8d8e3677ee96b9268fbac4e5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T07:31:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+article_structure:
+  article_count: 15
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T07:31:06Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 1070/2022
+
+Joaquim Luís Nobre Pereira, Presidente da Câmara Municipal de Viana do Castelo, torna público que a Câmara Municipal, em sua reunião de 17 de outubro de 2022, aprovou o Projeto de Regulamento adiante transcrito e nos termos do artigo 101.º do Código do Procedimento Administrativo, o submete a discussão pública, pelo prazo de 30 dias, a contar da publicação do mesmo no Diário da República, para recolha de sugestões.
+
+Mais se informa que o presente Projeto de Regulamento está disponível para consulta no Serviço de Atendimento ao Município (SAM) desta Câmara Municipal, sito no Passeio das Mordomas da Romaria, durante o horário de expediente, bem como na página eletrónica do município, www.cm-viana-castelo.pt.
+
+As sugestões deverão ser formuladas por escrito, dirigidas ao Presidente da Câmara Municipal de Viana do Castelo, podendo ser apresentadas no SAM da Câmara Municipal, enviadas por correio para a Câmara Municipal de Viana do Castelo, Passeio das Mordomas da Romaria, 4904-877 Viana do Castelo, ou por correio eletrónico, para consultapublica@cm-viana-castelo.pt, dentro do prazo suprarreferido:
+
+Projeto do Regulamento da Taxa Municipal Turística de Viana do Castelo
+
+Nota Justificativa
+
+A atividade turística no Município de Viana do Castelo tem vindo a denotar um desenvolvimento muito significativo ao longo da última década, afirmando Viana do Castelo como um dos destinos de preferência do País.
+
+Total de Hóspedes e Dormidas em Viana do Castelo, 2014 a 2019
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/11/211000000/0043500443.pdf)
+
+As estatísticas demonstram um crescimento significativo nos últimos anos, nomeadamente, no que se refere ao número de hóspedes e dormidas, no período de 2014 a 2019, registou um aumento de 84 % e 92 %, respetivamente.
+
+De referir, também, o aumento significativo no número de estabelecimentos de alojamento local, que no ano de 2014 era de 8 unidades passando para 408 unidades no ano de 2021.
+
+Este crescimento é reflexo, enquadra-se numa tendência de crescimento nacional e, sobretudo, na estratégia municipal de empreendedorismo turístico, dinamização de estruturas culturais e valorização património histórico tornando o município mais apelativo e capaz de absorver e atrair cada vez mais visitantes.
+
+O investimento na área do turismo revela-se estratégico para o desenvolvimento económico-social da região e tem demonstrado ser um forte impulsionador do tecido empresarial e consequentemente da criação de emprego, com um impacto inegável na atividade económica de modo geral e, mais concretamente, na oferta turística.
+
+Assim, importa fortalecer o investimento na área, de modo a corresponder às necessidades e exigências do mercado, possibilitando o alargamento, desenvolvimento e melhoramento de infraestruturas, assim como, a criação e desenvolvimento de serviços e apoios dedicados ao turismo, para garantir uma marca de qualidade do concelho, enquanto destino turístico.
+
+Tendo em conta a necessidade e vontade de prosseguir com este desenvolvimento de forma sustentável, e uma vez que os recursos das autarquias preveem colmatar necessidades locais, direcionadas aos seus munícipes, importa perceber a que fonte de recursos se pode recorrer e de que modo se pode fazer a alocação desses recursos de forma equilibrada.
+
+Por outro lado, este crescimento necessita de uma forte aposta na promoção turística como princípio de consolidação do destino Viana do Castelo e o custo inerente a este esforço pode ser cofinanciado pelos próprios turistas, uma vez que são os grandes beneficiários destes serviços.
+
+Pelo exposto, a aplicação da taxa turística permitirá ao Município prosseguir com a estratégia de promoção e afirmação turística do concelho, fortalecendo os agentes económicos da cidade e mantendo o crescimento do Turismo nos próximos anos, garantindo, simultaneamente, a sustentabilidade e a equidade do setor.
+
+A [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro, aprovou o novo regime financeiro das autarquias locais, conferindo aos Municípios o poder de criar taxas que incidam sobre as "utilidades prestadas aos particulares, geradas pelo Município ou atividades dos particulares".
+
+No exercício desse poder o Município de Viana do Castelo promoveu uma análise dos encargos em que incorre com as utilidades que presta aos turistas, que se encontra melhor descrita na fundamentação económico-financeira que constitui parte deste Regulamento.
+
+Com base nestes pressupostos e fundamentos, o Município de Viana do Castelo cria, através do presente regulamento, a taxa municipal turística.
+
+###### Artigo 1.º — Norma Habilitante
+
+O presente Regulamento tem como normas habilitantes os artigos 238.º e 241.º da Constituição da República Portuguesa, o artigo 20.º da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro, que aprova o Regime Financeiro das Autarquias Locais e Entidades Intermunicipais, as alíneas b) e g) do n.º 1 do artigo 25.º e a alínea k) do n.º 1 do artigo 33.º do Anexo I da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, que estabelece o regime jurídico das autarquias locais, o artigo 8.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro, que consagra o Regime Geral das Taxas das Autarquias Locais, o [Decreto-Lei n.º 398/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1999-662122), de 17 de dezembro, que consagra a Lei Geral Tributária, o [Decreto-Lei n.º 433/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), de 26 de outubro, que consagra o Código de Procedimento e Processo Tributário e o [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), que regula o ilícito de mera ordenação social e respetivo processo, todos, na sua redação atual.
+
+###### Artigo 2.º — Taxa municipal turística
+
+A taxa municipal turística é devida em contrapartida do aproveitamento turístico proporcionado pelo conjunto de atividades e investimentos promovidos pelo Município de Viana do Castelo, relacionados com a atividade turística, designadamente através da melhoria e preservação ambiental da cidade, da salvaguarda do comércio tradicional, histórico e de proximidade, das obras de melhoramento no domínio público e privado municipal, nas zonas turísticas de excelência e, nas que se vierem a tornar a curto prazo, do beneficio gerado pela prestação de informação e apoio a turistas e pela criação de polos de dinamização cultural e recreativa, disseminados por toda a cidade.
+
+###### Artigo 3.º — Modalidade
+
+A taxa municipal turística institui-se na modalidade de taxa de dormida.
+
+###### Artigo 4.º — Incidência objetiva
+
+A taxa de dormida é devida pelos hóspedes, pelas dormidas remuneradas em todos os empreendimentos turísticos e estabelecimentos de alojamento local definidos na respetiva legislação, localizados no Município de Viana do Castelo, designadamente os seguintes:
+
+a) Estabelecimentos hoteleiros (hotéis, pousadas, hotéis-apartamentos);
+
+b) Aldeamentos turísticos;
+
+c) Apartamentos turísticos;
+
+d) Empreendimentos de turismo de habitação;
+
+e) Empreendimentos de turismo no espaço rural;
+
+f) Alojamento local (moradia, apartamento, estabelecimentos de hospedagem, incluindo hostels e bed and breakfast).
+
+###### Artigo 5.º — Valor da Taxa Municipal Turística
+
+1 - A taxa municipal turística tem o valor unitário de (euro)1,50 na época alta e de (euro)1,00 na época baixa, fixados nos termos da fundamentação económico-financeira constante do Anexo a este Regulamento e que dele faz parte integrante.
+
+2 - Para efeitos do artigo anterior, compreende -se por época alta e época baixa o seguinte:
+
+a) Época alta - 1 de maio a 31 de outubro;
+
+b) Época baixa - 1 de novembro a 30 de abril.
+
+###### Artigo 6.º — Incidência Subjetiva
+
+1 - A taxa de dormida é devida por hóspede, com idade superior a 16 anos, e por noite, até a um máximo de 5 noites seguidas por pessoa e por estadia, em qualquer tipologia de alojamento nos empreendimentos turísticos e nos estabelecimentos de alojamento local, como tal considerados nos respetivos regimes jurídicos, situados no Concelho de Viana do Castelo.
+
+2 - Não estão sujeitos à taxa municipal turística:
+
+a) Hóspedes e um seu acompanhante, que se desloquem ao Município de Viana do Castelo por motivos de saúde, designadamente, consultas, exames e tratamentos médicos, desde que o comprovem por documento de marcação/prestação de serviços médicos ou documento equivalente;
+
+b) Hóspedes portadores de deficiência, com incapacidade igual ou superior a 60 %, desde que apresentem documento comprovativo dessa condição;
+
+c) Hóspedes que se encontrem alojados nos estabelecimentos supramencionados, por expressa determinação de entidades públicas, decorrente de declaração de emergência social ou da proteção civil.
+
+###### Artigo 7.º — Liquidação e cobrança da taxa municipal turística
+
+1 - A liquidação e a cobrança da Taxa Municipal Turística competem às pessoas singulares ou coletivas que explorem qualquer tipologia de empreendimento turístico ou de alojamento local, nos termos do artigo 4.º
+
+2 - O pagamento da Taxa Municipal Turística é devido no final da estadia, numa única prestação, mediante a obrigatoriedade de emissão de fatura-recibo, em nome da pessoa, singular ou coletiva, que efetuou a reserva, com referência expressa à sua não sujeição a IVA.
+
+3 - O valor da taxa é inscrito de forma autónoma na fatura dos serviços de alojamento ou objeto de faturação autónoma, conforme o procedimento que cada entidade responsável entender mais adequado.
+
+4 - A entidade que liquida a taxa não é solidariamente responsável pelo pagamento da mesma, pelo que, se não for possível obter do hóspede ou operador turístico o pagamento dos serviços de alojamento, nomeadamente, nos casos em que o hóspede deixa o empreendimento ou estabelecimento sem pagar a conta, ou em caso de insolvência, a entidade não está obrigada a entregar o valor da taxa ao Município, devendo apresentar comprovativo da situação de insolvência e/ou da queixa apresentada às autoridades competentes.
+
+5 - A Taxa Municipal Turística não está sujeita ao Imposto sobre o Valor Acrescentado (IVA) nos termos do n.º 2, do artigo 2.º do Código do Imposto sobre o Valor Acrescentado.
+
+###### Artigo 8.º — Processo de entrega da taxa
+
+1 - O Município disponibiliza uma plataforma eletrónica para interação com as entidades responsáveis para efeitos da entrega da taxa turística de dormida ao Município.
+
+2 - As entidades responsáveis devem proceder ao seu registo inicial na plataforma eletrónica até trinta dias após a atribuição do número do registo nacional de Alojamento Local ou da licença de Empreendimento Turístico.
+
+3 - As entidades responsáveis obtêm, a partir da plataforma eletrónica, um formulário de declaração do valor cobrado da taxa de dormida, por cada um dos estabelecimentos que explorem, cujo modelo se encontra disponível na mesma.
+
+4 - O preenchimento da declaração, de caráter mensal, é feito com base nas dormidas ocorridas no respetivo período.
+
+5 - A declaração, após preenchimento, é enviada ao Município por via eletrónica, até ao dia quinze do mês seguinte àquele a que respeitam os dados enviados, independentemente de haver taxa a liquidar.
+
+6 - Através da plataforma eletrónica, no prazo máximo de três dias úteis, será facultada a referência multibanco que permitirá transferir a verba apurada para o Município.
+
+7 - As entidades responsáveis transferem para o Município as verbas apuradas, no prazo de cinco dias úteis a partir da data da obtenção da referência multibanco.
+
+8 - Caso as entidades responsáveis não possam efetuar a transferência dos valores da taxa arrecadada via multibanco poderão efetuar a respetiva entrega junto da Tesouraria do Município, ou por outros meios que venham a ser disponibilizados.
+
+9 - Caso a entidade responsável seja isenta de IVA ou faça a entrega trimestral deste imposto, pode optar pela apresentação trimestral da declaração, devendo fazê-lo até ao dia quinze do mês subsequente ao final de cada trimestre e nos demais prazos dos números anteriores.
+
+10 - A opção pelo número anterior vigora por períodos correspondentes a um ano civil e a alteração do regime deverá ser comunicada ao Município, no início de cada ano, através da plataforma eletrónica.
+
+11 - Caso a entidade responsável pretenda corrigir os dados de um formulário já enviado ao Município deverá preencher uma declaração de substituição, que poderá ser remetida dentro do período de pagamento voluntário, ou, já depois do pagamento feito, com indicação do período que se visa corrigir e sempre dentro do ano económico a que respeita.
+
+12 - A cessação de atividade é comunicada via plataforma eletrónica para efeitos de registo, no prazo máximo de dez dias após ocorrência.
+
+###### Artigo 9.º — Encargos de cobrança
+
+1 - É devida às entidades responsáveis pela liquidação e cobrança da taxa uma comissão de cobrança, de valor igual a 2,5 % das taxas cobradas, sujeita a IVA à taxa legal em vigor.
+
+2 - As entidades responsáveis emitem a fatura, de acordo com as normas legais vigentes, em função dos valores da taxa a entregar em cada período.
+
+###### Artigo 10.º — Incumprimento
+
+1 - Caso o responsável do estabelecimento não proceda ao pagamento da taxa turística de dormida no prazo indicado no n.º 7 do artigo 8.º, começam a vencer-se juros de mora à taxa legal.
+
+2 - O não pagamento da Taxa Municipal Turística implica a extração das respetivas certidões de dívida, para efeitos de execução fiscal.
+
+###### Artigo 11.º — Fiscalização
+
+1 - Compete ao Município de Viana do Castelo a fiscalização do cumprimento do disposto no presente Regulamento, através de quaisquer meios legalmente admissíveis para o efeito.
+
+2 - O Município de Viana do Castelo reserva-se o direito de solicitar informações às entidades exploradoras dos empreendimentos turísticos e dos estabelecimentos de alojamento local.
+
+3 - Para efeitos do disposto no número anterior, as entidades exploradoras dos empreendimentos turísticos e dos estabelecimentos de alojamento local devem manter arquivados, pelo período de 1 ano, os documentos comprovativos referidos no artigo 6.º, podendo, durante este período, ser exigidos ou consultados pelo Município de Viana do Castelo, sem aviso prévio.
+
+###### Artigo 12.º — Contraordenações
+
+1 - Sem prejuízo do eventual procedimento criminal e das regras insertas em lei especial, quando aplicável, as infrações às normas do presente Regulamento constituem contraordenações sancionadas com coima nos termos da Lei:
+
+a) A falta de registo e de cadastro da entidade na plataforma informática, em violação do disposto no n.º 2 do artigo 8.º;
+
+b) A inexatidão ou falsidade dos elementos fornecidos pelos operadores para a liquidação da taxa;
+
+c) A falta de comunicação ou comunicação inexata de dados, determinada no n.º 4 do artigo 8.º
+
+2 - A contraordenação prevista na alínea a) do número anterior é punível com coima de 500(euro) a 10.000(euro) para pessoas singulares, e de 1.000(euro) a 40.000(euro) para pessoas coletivas.
+
+3 - As contraordenações previstas nas alíneas b) e c) do n.º 1 são puníveis com coima de 250(euro) a 5.000(euro) para pessoas singulares, e de 500 (euro) a 25.000 (euro) para pessoas coletivas.
+
+4 - Dentro da moldura prevista, a concreta medida da coima a aplicar é determinada em função da gravidade da infração, da culpa, da situação económica do infrator, do benefício económico retirado da prática da infração, da conduta anterior e posterior do agente e das exigências de prevenção.
+
+5 - A negligência é sempre punível nos termos gerais.
+
+6 - O pagamento das coimas previstas no presente Regulamento não dispensa os infratores do dever de reposição da legalidade.
+
+7 - A competência para determinar a instauração dos processos de contraordenação, bem como a aplicação das coimas e de sanções acessórias, compete ao Presidente da Câmara Municipal, com a faculdade de delegação.
+
+8 - O produto da aplicação das coimas previstas no presente artigo reverte para o Município de Viana do Castelo.
+
+###### Artigo 13.º — Interpretação e integração de lacunas
+
+1 - Aos casos não previstos neste Regulamento aplicar-se-á o Regime Geral das Taxas das Autarquias Locais, e ainda, de forma sucessiva:
+
+a) O Regime Financeiro das Autarquias Locais e das Entidades Intermunicipais;
+
+b) A Lei Geral Tributária;
+
+c) O Regime Jurídico das Autarquias Locais, das Entidades Intermunicipais e do Associativismo Autárquico;
+
+d} O Estatuto dos Tribunais Administrativos e Fiscais:
+
+e) O Código de Procedimento e Processo Tributário;
+
+f) O Código de Procedimento Administrativo.
+
+2 - Às contraordenações previstas no presente Regulamento aplica -se subsidiariamente o regime geral do ilícito de mera ordenação social, constante do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro na sua redação atual.
+
+###### Artigo 14.º — Disposições transitórias
+
+1 - As entidades responsáveis devem proceder ao seu registo inicial na plataforma eletrónica referida no artigo 8.º até trinta dias após a entrada em vigor do presente Regulamento.
+
+2 - Excecionalmente, no primeiro ano de vigência do Regulamento, os empreendimentos turísticos e estabelecimentos de alojamento local previstos no artigo 4.º, que comprovem ter reservas efetuadas até 31/12/2022, encontram-se isentos do pagamento da taxa turística.
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente Regulamento entra em vigor 180 dias após a sua publicação no Diário da República.
+
+## ANEXO — Relatório de Apoio à Fundamentação Económica e Financeira da Taxa Turística
+
+##### Divisão Financeira — I. Introdução
+
+II. Objetivos dos Estudos
+
+III. Pressupostos e Condicionantes
+
+IV Metodologia
+
+V. Apuramento do Valor da Taxa
+
+I. Introdução
+
+O enquadramento normativo dos poderes de criação, lançamento e cobrança de taxas por parte das autarquias locais consta do Regime Geral das Taxas das Autarquias Locais (RGTAL), aprovado pela [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro e no Regime Financeiro das Autarquias Locais, aprovado pela [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528) de 3 de setembro. Estes diplomas sustentam o conceito de taxa num conjunto de princípios e regras fundamentais, dos quais derivam que a cobrança de taxas pelas Autarquias Locais advém da prestação concreta de um serviço público local, da utilização privada de bens do domínio público e privado das Autarquias Locais ou da remoção de um obstáculo jurídico ao comportamento dos particulares.
+
+Assim, de acordo com o artigo 6.º do RGTAL, as taxas municipais incidem sobre utilidades prestadas aos particulares ou geradas pela atividade dos municípios, designadamente:
+
+a) Pela realização, manutenção e reforço de infraestruturas urbanísticas primárias e secundárias;
+
+b) Pela concessão de licenças, prática de atos administrativos e satisfação administrativa de outras pretensões de caráter particular;
+
+c) Pela utilização e aproveitamento de bens do domínio público e privado municipal;
+
+d) Pela gestão de tráfego e de áreas de estacionamento;
+
+e) Pela gestão de equipamentos públicos de utilização coletiva;
+
+f) Pela prestação de serviços no domínio da prevenção de riscos e da proteção civil;
+
+g) pelas atividades de promoção de finalidades sociais e de qualificação urbanística, territorial e ambiental;
+
+h) Pelas atividades de promoção do desenvolvimento e competitividade local e regional;
+
+i) Pela realização das atividades dos particulares, muitas vezes, geradoras de impacto ambiental negativo.
+
+Por outro lado, está estabelecido que o valor das taxas, que deverá ser fixado de acordo com o princípio da proporcionalidade, não deve ultrapassar o custo da atividade pública local ou o benefício auferido pelo particular, podendo, no respeito por aquele princípio, fixar-se valores de taxas com base em critérios de desincentivo à prática de certos atos ou operações.
+
+II. Objetivos dos Estudos
+
+O presente relatório tem como principal objetivo determinar a matriz de custos, que irão suportar a fundamentação económico financeira relativa ao cálculo do valor da taxa turística, designadamente os custos diretos (mão-de-obra e custos de funcionamento) e os custos indiretos, tendo como principio orientador que esta, não deverá ultrapassar o seu custo efetivo ou o beneficio auferido pelo particular.
+
+III. Pressupostos e Condicionantes
+
+A metodologia adotada para a fundamentação económico-financeira consistiu no apuramento do custo por turista. Para efetuar esta imputação foi necessário conhecer os custos de funcionamento das unidades orgânicas cuja atividade desenvolvida compreende áreas de apoio ao Turismo, designadamente:
+
+a) Câmara Municipal
+
+b) Unidade de Turismo
+
+c) Departamento de Administração Geral
+
+d) Divisão de Desporto
+
+e) Divisão de Cultura, Património e Museus
+
+f) Departamento de Gestão Territorial, Coesão e Sustentabilidade
+
+g) Departamento de Obras e Serviços Municipais
+
+Relativamente aos custos da mão-de-obra e despesa com a aquisição de bens e serviços utilizou-se os valores da Gerência de do ano de 2019.
+
+Na abordagem metodológica de cálculo do custo real, da atividade municipal, foram atendidos princípios de eficiência organizativa. Desta forma, com exceção dos gastos relacionados com a Unidade de Turismo, que foram imputados a 100 %, os restantes gastos com as demais atividades ocorridas pelas unidades orgânicas anteriormente identificadas foram imputados na percentagem de 0,84 % (número médio de dormidas dia (Turistas)/população residente).
+
+A lei prevê que a fundamentação seja realizada na medida do benefício auferido pelo particular. Assim e atendendo ao princípio da equivalência jurídica, determinou-se que o benefício auferido pelo particular é tanto maior, quantos mais obstáculos jurídicos removidos, ou seja, com o mesmo ato consegue usufruir de maior proporção relativamente à unidade de medida aplicável.
+
+O valor das taxas, respeitando a necessária proporcionalidade, pode ser fixado com base em critérios de incentivo e desincentivo à prática de certos atos ou operações.
+
+Porém, a fórmula para a determinação do valor da taxa não se restringiu exclusivamente à perspetiva económica do custo da atividade pública, foram também consideradas razões de ordem social na aplicação de critérios de correção no valor da taxa.
+
+Em face do exposto, procedeu-se à estimativa do custo associado ao serviço prestado, tendo por base o custo da mão-de-obra dos vários intervenientes e acrescentando-se o valor associado à atividade das unidades orgânicas envolvidas, no âmbito do processo administrativo e/ou operacional. Por outro lado, foi calculado o custo indireto dos bens e serviços, tendo por base os custos de manutenção, amortizações e gastos gerais (percentagem fixa de 20 % sobre os custos diretos).
+
+IV. Metodologia
+
+O valor final da taxa foi calculado tendo em conta todos os custos objetivamente quantificáveis, diretos e indiretos, suportados pelo Município no âmbito da atividade de apoio ao desenvolvimento do Turismo.
+
+De referir que os custos diretos são todos os custos suportados pela ação direta do funcionário (mão-de-obra direta) e dos gastos de materiais (ou serviços) diretamente imputáveis à execução da tarefa-processo administrativo, técnico e operacional.
+
+Os custos com a mão-de-obra direta foram calculados com base nos custos suportados, em 2019, ao nível dos gastos com o pessoal (execução orçamental), com os seguintes serviços municipais e de acordo com as percentagens de imputação descritas:
+
+a) Câmara Municipal: 0,84 %
+
+b) Unidade de Turismo: 100 %
+
+c) Departamento de Administração Geral: 0,84 %
+
+d) Divisão de Desporto: 0,84 %
+
+e) Divisão de Cultura, Património e Museus: 0,84 %
+
+f) Departamento de Gestão Territorial, Coesão e Sustentabilidade: 0,84 %
+
+g) Departamento de Obras e Serviços Municipais: 0,84 %
+
+Com exceção dos gastos da mão-de-obra relacionados com a Unidade de Turismo, cuja imputação foi de 100 %, os restantes gastos com o pessoal dos demais serviços municipais envolvidos no desenvolvimento e promoção turística foram imputados na percentagem de 0,84 %. Esta percentagem foi calculada tendo por base o peso diário dos turistas (número de dormidas em 2019) sobre a população residente.
+
+Nos gastos de materiais diretos foram considerados os bens consumíveis utilizados e materiais específicos para a execução da tarefa, tendo por base a execução orçamental de 2019. Por outro lado, foram considerados os custos com serviços adquiridos a empresas externas diretamente imputáveis às unidades orgânicas envolvidas no processo. Mais uma vez, com exceção dos gastos relacionados com a Unidade de Turismo, cuja imputação foi de 100 %, os restantes gastos envolvidos no desenvolvimento e promoção turística foram imputados na percentagem de 0,84 %. Todos os outros custos foram considerados indiretos.
+
+No que concerne aos custos indiretos, foram calculados com base numa percentagem dos custos diretos (20 %). Estes custos incluem as despesas relacionadas com o funcionamento geral dos serviços, designadamente, depreciações dos equipamentos e despesas de funcionamento (comunicações, eletricidade, etc.).
+
+Assim, a fórmula de cálculo utilizada compreende duas vertentes essenciais. Numa primeira fase, apurámos os custos da atividade pública local (Custos Diretos e Indiretos), e, posteriormente, foram introduzidos os critérios de ajustamento.
+
+Por fim, da análise efetuada, entendeu-se, neste estudo em concreto, fixar um valor inferior ao custo subjacente ao serviço, usando com fator de correção critérios sociais de incentivo à promoção turística e manter alguma equidade com as taxas cobradas por outras entidades com competências idênticas.
+
+V. Apuramento do Valor do Tarifário
+
+O valor da taxa foi calculado com base nos custos de funcionamento da Unidade de Turismo, ambiente e espaços verdes, iluminação pública, gestão de equipamentos, vias e infraestruturas, limpeza urbana e custos indiretos.
+
+Assim, foram apurados os custos anuais associados às atividades e imputados em função do número de dormidas em 2019.
+
+Por outro lado, foi calculada uma percentagem de custo social suportado pelo Município no sentido de incentivar o turismo no Concelho.
+
+Quadro Resumo Cálculo Taxa Turística
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/11/211000000/0043500443.pdf)
+
+20 de outubro de 2022. - O Presidente da Câmara, Luís Nobre.
+
+315804042

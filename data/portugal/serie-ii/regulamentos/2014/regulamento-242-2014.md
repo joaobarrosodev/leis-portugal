@@ -1,0 +1,632 @@
+---
+schema_version: '1.0'
+id: pt:dre:25691418:por
+title: Regulamento n.º 242/2014
+short_title: null
+summary: 1.ª Alteração ao Regulamento de estacionamento, cargas, descargas e remoção de veículos abandonados do Município
+  de Torres Vedras
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Torres Vedras
+proposing_entity: null
+official_number: 242/2014
+official_date: null
+publication_date: '2014-06-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 114/2014, Série II de 2014-06-17
+  number: '114'
+  series: II
+  supplement: null
+  pages: 15746 - 15751
+  pdf_url: https://files.diariodarepublica.pt/2s/2014/06/114000000/1574615751.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '25691418'
+  dre_path: /dr/detalhe/regulamento/242-2014-25691418
+  internal: pt:dre:25691418:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/242-2014-25691418
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/242-2014-25691418
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:42:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ca99911fbe48630863183d299b3cb50889ad9f99831a700844ede89c012c0236
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:42:29Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649721:por
+  label: null
+  source: null
+article_structure:
+  article_count: 42
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:42:29Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 242/2014
+
+1.ª Alteração ao Regulamento de estacionamento de cargas, descargas e remoção de veículos abandonados do Município de Torres Vedras
+
+Dr. Carlos Manuel Antunes Bernardes, Vice-Presidente da Câmara Municipal de Torres Vedras:
+
+Torna público, para cumprimento do disposto no artigo 130.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15/11, na sua atual redação, que a Assembleia Municipal, em sua sessão ordinária de 28/04/2014, aprovou, por maioria, a alteração ao regulamento de Estacionamento de Cargas, Descargas e Remoção de Veículos Abandonados do Município de Torres Vedras, o qual entrará em vigor no dia seguinte ao da sua publicação.
+
+Para constar e devidos efeitos, se publica o presente Edital e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+
+E eu, Alexandra Sofia Carlos Mota Luís, Diretora do Departamento de Administração Geral, em regime de substituição, o subscrevi.
+
+7 de maio de 2014. - O Vice-Presidente da Câmara, Dr. Carlos Manuel Antunes Bernardes.
+
+1.ª Alteração ao Regulamento de estacionamento cargas e descargas e remoção de veículos abandonados do Município de Torres Vedras (REMTV)
+
+Preâmbulo
+
+No âmbito da estratégia de mobilidade a adotar na cidade de Torres Vedras, em particular no que à circulação rodoviária concerne, impõe-se como prioritária a adoção de medidas especiais que visem disciplinar e ordenar o trânsito, reduzir o estacionamento desordenado e abusivo e criar soluções de estacionamento em zonas periféricas que retirem automóveis das zonas centrais da cidade. Para tanto, promoveu-se a delimitação de espaços públicos destinados ao estacionamento e as condições do respetivo funcionamento, a previsão de zonas adaptadas à realização de operações de cargas e descargas, bem como o condicionamento de acesso automóvel a determinadas zonas da cidade. Neste contexto, em 2007 procedeu-se à regulamentação do estacionamento, operações de cargas e descargas, circulação de pesados e remoção de veículos abandonados na via pública, tendo sido aprovado o regulamento de estacionamento, cargas e descargas e remoção de veículos abandonados do município de Torres Vedras, publicado no Diário da República, 2.ª série, n.º 7 de 12.01.2009. Decorridos quatro anos tornou-se necessário proceder a alterações de normas, uma vez que se encontravam desatualizadas face às alterações legislativas introduzidas no Código da Estrada e ao dinamismo associado à evolução urbanística e à reorganização entretanto ocorrida das vias municipais. Acresce que em 4.07.2013 por contrato-programa o município de Torres Vedras delegou na PROMOTORRES, E. M. os poderes e competências de fiscalização do cumprimento das normas do Código da Estrada e legislação complementar nas vias municipais em matéria de estacionamento e trânsito, do presente regulamento, de gestão do estacionamento, bem como os necessários para cobrar, liquidar e arrecadar as taxas, preços e coimas respetivos, o que determinou a adaptação de várias normas do regulamento a esta nova realidade. O projeto de alteração ao regulamento foi publicado para apreciação pública na 2.ª série do Diário da República n.º 252 de 30.12.2013, para os efeitos previstos no artigo 118.º do CPA. Assim, ao abrigo do preceituado nos artigos 112.º e 241.º da Constituição da República Portuguesa, 25.º, n.º 1 alínea g) e 33.º, n.º 1 alínea k) da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro que aprovou o Regime Jurídico das Autarquias Locais das Entidades Intermunicipais e do Associativismo Autárquico, a Assembleia Municipal de Torres Vedras na sua sessão ordinária de 28 de abril de 2014 a alteração que segue:
+
+###### Artigo 1.º — Objeto
+
+As presentes normas procedem à primeira alteração ao Regulamento de Estacionamento, Cargas e Descargas e Remoção de Veículos Abandonados do Veículos de Torres Vedras (REMTV) publicado na 2.ª série do Diário da República n.º 7 de 12.01.2009 e Declaração de Retificação n.º 513/2009 publicada na 2.ª Serie do Diário da República n.º 34 de 18.02.2009.
+
+###### Artigo 2.º — Norma revogatória
+
+São revogados:
+
+a) Os artigos 4.º n.º 8, 5.º n.º 3, 23.º, 24.º, 35.º a 38.º, 41, 42.º;
+
+b) Os Anexos 1, 7 e 8.
+
+###### Artigo 3.º — Renumerações
+
+São renumerados:
+
+a) Os artigos 25.º, 26.º, 27.º, 28.º, 29.º, 30.º, 31, 32, 33.º, 34.º, 39.º e 40.º da versão inicial do REMTV que passam a ser respetivamente os artigos 23.º, 24.º, 25.º,26.º, 27.º, 28.º, 29.º, 30.º, 31.º, 32.º, 40.ºe 41.º;
+
+b) Os Anexos 2, 3, 4, 5 e 6 passam a ser os Anexos II, III, IV, V e VI.
+
+###### Artigo 4.º — Alterações ao REMTV
+
+São alterados os artigos 1.º, 4.º, 5.º, 8.º, 13.º, 14.º, 15.º, 16.º, 17.º, 20.º, 22.º, 23.º ao 26.º, 32.º, 40.º,41.º, 43.º, 45.º, 46.º, 48.º, 50.º, 54.º e 55.º, 57.º e 60.º e os Anexos IV, V e VI, que passam a ter a seguinte redação:
+
+###### Artigo 1.º — Legislação Habilitante
+
+Constitui legislação habilitante do presente regulamento, o artigo 241.º da Constituição da República Portuguesa; os artigos 25.º, n.º 1 alínea g), 33.º, n.º 1 alíneas e), ee) e rr), todos da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro que aprovou o Regime Jurídico das Autarquias Locais, das Entidades Intermunicipais e do Associativismo Autárquico; o artigo 20.º, n.º 1 da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 03 de setembro que aprovou o regime financeiro das autarquias locais e entidades intermunicipais e a [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro que aprovou o Regime geral das taxas das Autarquias Locais; os artigos 5.º n.º 1 alínea d) e n.º 3 do [Decreto-Lei n.º 44/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2005-608743), de 23 de fevereiro, com a redação introduzida pela [Lei n.º 72/2013](https://diariodarepublica.pt/dr/detalhe/lei/72-2013-499526), de 3 de setembro; 71.º e 169.º, n.º 7 do Código da Estrada; artigo 5.º da [Lei n.º 72/2013](https://diariodarepublica.pt/dr/detalhe/lei/72-2013-499526), de 3 de setembro; o artigo 2.º do Anexo ao [Decreto-Lei n.º 81/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2006-649721), de 20 de abril e a [Portaria n.º 1424/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1424-2001-579169), de 13 de dezembro, com a redação da [Portaria n.º 1334-F/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1334-f-2010-344941) de 31 de dezembro.
+
+###### Artigo 4.º — Definições
+
+Para efeitos do presente regulamento, considera-se:
+
+1 - [...]
+
+2 - Parque de Estacionamento (PE) - espaço vedado, coberto ou descoberto, à superfície ou subterrâneo, destinado ao estacionamento de veículos mediante o pagamento de um preço.
+
+3 - Lugar de Estacionamento Privativo (LEP): local destinado exclusivamente ao estacionamento de veículos perfeitamente identificados, ao serviço das entidades mencionadas no n.º 1 do artigo 17.º, no exercício das funções que lhe são inerentes.
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - Residente - pessoa singular com domicílio principal e permanente, onde habitualmente reside e mantêm estabilizado o seu centro de vida familiar sito no interior de uma ZE.
+
+9 - Comerciante - pessoa singular ou coletiva para cuja atividade económica, de entre as constantes do Anexo I, é essencial a entrega e distribuição frequente de volumes de mercadorias aos clientes e é proprietária ou explora um estabelecimento comercial no interior de uma ZE.
+
+10 - [...]
+
+###### Artigo 5.º — Taxas, Preços, Condições de Funcionamento e Horários
+
+1 - O acesso e estacionamento nos LEP, BM, BR, ou BCD e PE estão sujeitos ao pagamento das taxas e preços e às condições de funcionamento e horários a fixar pelo Município
+
+2 - As taxas e preços devidas nos termos do numero anterior encontram-se previstos respetivamente no Regulamento de Liquidação e Cobrança de Taxas e Emissão de Licenças do Município de Torres Vedras e em deliberação da Câmara Municipal, publicitada nos termos da lei.
+
+###### Artigo 6.º — Responsabilidade
+
+[...] das taxas e preços por ocupação[...].
+
+###### Artigo 7.º — Equipamento
+
+1 - Os equipamentos afetos à execução do presente regulamento são propriedade do Município ou das entidades que exerçam poderes, competências ou prerrogativas de autoridade delegados em matéria de gestão e manutenção dos mesmos.
+
+2 - [...]
+
+###### Artigo 8.º — Zonas Pedonais
+
+1 - [...]
+
+2 - Os residentes em ZP podem circular para acesso ao respetivo estacionamento privativo.
+
+###### Artigo 13.º — Utilização e Duração do Estacionamento nas BER, BM e BR
+
+1 - O direito ao estacionamento nas BER, BM e BR é conferido pela colocação, no interior do veículo, junto do para-brisas, de forma visível e legível do exterior, do título de estacionamento, selo de residente, selo de comerciante, ou qualquer outro documento ou dístico que possibilite o estacionamento a utilizadores específicos.
+
+2 - O estacionamento nas BM e BR fica sempre sujeito a um período de tempo máximo de permanência, de acordo com escalões de tempo definidos no Regulamento de Liquidação e Cobrança de Taxas e Emissão de Licenças do Município de Torres Vedras.
+
+###### Artigo 14.º — Horário de Funcionamento
+
+1 - Em regra, os parquímetros instalados nas BM e BR funcionam de segunda a sexta-feira, das 09.00 às 19.00 horas e aos sábados das 09.00 às 13.00 horas.
+
+2 - O horário de funcionamento referido no número anterior poderá ser alterado pela Câmara Municipal, mediante deliberação fundamentada.
+
+3 - Fora do horário de funcionamento definido nos números anteriores o estacionamento é gratuito e não está condicionado a qualquer limitação de permanência
+
+###### Artigo 15.º — Isenções
+
+Estão isentos do pagamento da taxa correspondente ao título de estacionamento:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d ) [...]
+
+e) [...]
+
+f ) Outros veículos autorizados pela Câmara Municipal, em casos excecionais e devidamente fundamentados mediante requerimento dos interessados.
+
+###### Artigo 16.º — Estacionamento Proibido
+
+1 - [...]
+
+2 - [...]
+
+a) [...]
+
+b) [...]
+
+c) De veículo que não exiba o título de estacionamento, ou cujo título seja inválido ou esteja caducado, bem como não exiba o selo de residente, selo de comerciante ou qualquer outro documento ou dístico que possibilite o estacionamento a utilizadores específicos da respetiva ZE;
+
+d ) [...]
+
+e) [...]
+
+3 - Nas BR é proibido o estacionamento:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f ) De veículos possuidores do selo de residente, selo comerciante ou qualquer outro documento ou dístico que possibilite o estacionamento a utilizadores específicos da respetiva ZE.
+
+###### Artigo 17.º — Objeto e Âmbito
+
+1 - Por razões de interesse público devidamente fundamentadas, desde que não ocorra prejuízo grave para o estacionamento disponível no arruamento em causa e para a circulação normal de veículos e de peões, a Câmara Municipal poderá autorizar a criação de LEP, a requerimento de entidades públicas ou entidades privadas de reconhecido interesse e ou utilidade pública, que não possuam nas suas instalações espaços destinados ao estacionamento e que reúnam cumulativamente os requisitos constantes do n.º 3 do artigo 4.º
+
+2 - [...]
+
+###### Artigo 20.º — Operações de Carga e Descarga
+
+1 - [...] as 08.00 e as 20.00 horas.
+
+2 - [...]
+
+3 - [...] entre as 08.00 e as 10.00 horas e entre as 17.00 e as 19.00 horas.
+
+4 - Entre as 20.00 e as 08.00 horas [...].
+
+###### Artigo 22.º — Autorizações Especiais de Circulação
+
+1 - [...]
+
+2 - [...]:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d ) [...]
+
+e) [...]
+
+f ) Transporte de fornecimento de materiais para construção/reparação de edifícios.
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+### CAPÍTULO V
+
+###### Artigo 23.º
+
+Aquisição do Direito
+
+O direito ao acesso e estacionamento nas BER, BM e BR constitui-se mediante a aquisição de um título válido.
+
+###### Artigo 24.º — Modalidades de Título
+
+Para efeitos do presente regulamento, serão emitidos os seguintes títulos:
+
+a) Talão de estacionamento;
+
+b) Selo de residente;
+
+c) Selo de comerciante;
+
+d ) Autorização especial de circulação;
+
+e) Dístico ou qualquer outro documento que titule uma das isenções a que se refere o artigo 15.º
+
+###### Artigo 25.º — Aquisição e Validade
+
+1 - Só poderão estacionar nas BM e BR os utilizadores detentores de talão de estacionamento válido, salvo se forem detentores do selo de residente ou de comerciante no caso das BM, ou estiverem isentos nos termos do artigo 15.º
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+###### Artigo 26.º — Da Qualidade de Residente
+
+1 - O direito à aquisição do selo de residente só se constitui se o seu titular, para além do disposto no n.º 9 do artigo 4.º, for proprietário, adquirente com reserva de propriedade, locatário em regime de locação financeira ou aluguer ou usufrutuário de um veículo automóvel associado ao exercício de uma atividade profissional com vínculo laboral.
+
+2 - A prova da qualidade de residente faz-se através da apresentação cumulativa de cópia dos seguintes documentos:
+
+a) Cartão de cidadão ou bilhete de identidade;
+
+b) Cartão de identificação fiscal (se não entregou cartão de cidadão);
+
+c) Certidão da conservatória do registo predial, contrato de arrendamento, comodato, hospedagem, ou qualquer outro documento que comprove o direito de uso ou ocupação do prédio e ou a residência habitual, no interior de uma ZE;
+
+d ) Recibo de água, eletricidade, gás comunicações eletrónicas ou qualquer outro documento que comprove o fornecimento de serviços essenciais na residência;
+
+e) Título de registo de propriedade, certificado de matrícula do veículo, contrato que titula a aquisição com reserva de propriedade, contrato de locação financeira ou de aluguer de longa duração, declaração da respetiva entidade empregadora donde conste o nome e morada do usufrutuário, matrícula do veículo automóvel e respetivo vínculo laboral ou declaração sob compromisso de honra do proprietário do veículo confirmando que o veículo está comodato ou é utilizado pelo residente."
+
+3 - Para a atribuição do segundo selo de residente, é ainda exigida declaração sob compromisso de honra de que não possui lugar de estacionamento privativo ou garagem na ZE de residência habitual ou se reside em edifícios constituídos em propriedade horizontal, declaração do condomínio no mesmo sentido
+
+4 - As falsas declarações ou informações e a falsificação de documentos determinam a responsabilidade criminal do infrator.
+
+###### Artigo 30.º — Devoluções
+
+1 - [...]
+
+2 - [...] artigo 32.º
+
+###### Artigo 32.º — Validade
+
+1 - O selo tem validade bienal e a sua atribuição implica o pagamento de uma taxa de emissão, nos termos do Regulamento de liquidação e cobrança de taxas e emissão licenças do Município de Torres Vedras.
+
+2 - [...] Anexo VI.
+
+3 - [...] no n.º 2 do artigo 26.º[...] no n.º 2 do artigo 29.º
+
+4 - [...] alínea e) do n.º 2 do artigo 26.º
+
+###### Artigo 40.º — Competência de Fiscalização
+
+1 - A fiscalização do cumprimento das disposições do presente regulamento é da competência da Câmara Municipal, das autoridades policiais e de empresas municipais ou concessionárias no exercício de competências, poderes e prerrogativas de autoridade delegados para o efeito e será exercida através de pessoal da fiscalização da Câmara Municipal, das empresas públicas municipais ou concessionárias designado para o efeito e que, como tal, seja considerado equiparado a autoridade ou seu agente, com as limitações decorrentes dos respetivos estatutos ou contratos programa, sempre após credenciação pela Autoridade Nacional de Segurança Rodoviária.
+
+2 - O pessoal de fiscalização deterá as competências e prerrogativas de autoridade pública destinadas à fiscalização, nos termos da lei e normas regulamentares aplicáveis, da aplicação e do cumprimento de todas as disposições legais e do presente regulamento municipal, para o que disporá dos mais amplos poderes administrativos e de autoridade cuja delegação seja, em direito, permitida.
+
+###### Artigo 41.º — Competências dos Agentes de Fiscalização
+
+Compete especialmente aos agentes de fiscalização referidos no artigo anterior:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d ) [...]
+
+e) [...]
+
+f ) Levantar Auto de Notícia, nos termos do disposto no artigo 48.º, 49.º, 50.º e 71.º do Código da Estrada;
+
+g) [...]
+
+h) Participar às autoridades policiais e ou outras competentes as infrações ao Código da Estrada e à legislação complementar aplicável de que tenha conhecimento no exercício das suas funções e colaborar com as autoridades policiais no cumprimento do Código da Estrada e demais legislação complementar.
+
+i) Proceder à recolha de todos os elementos necessários ao preenchimento dos documentos estatísticos relativos aos acidentes de viação, bem como proceder ao respetivo envio, preferencialmente através de meios eletrónicos, para a Autoridade Nacional de Segurança Rodoviária
+
+###### Artigo 43.º — Contraordenações
+
+Sem prejuízo da responsabilidade civil e penal que ao caso couber, constituem contraordenações, puníveis com coima, as seguintes condutas:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d ) [...]
+
+e) (revogada)
+
+f ) (anterior f ) ...)
+
+g) A falta de entrega dos selos de residente ou de comerciante sempre que se alterem os pressupostos sobre os quais assentou a decisão da sua emissão, punível com coima de (euro) 30,00 a (euro) 150,00.
+
+h) A utilização dos selos de residente ou de comerciante fora do respetivo prazo de validade, punível com coima de (euro) 30,00 a (euro) 150,00;
+
+i) (anterior alínea i))
+
+###### Artigo 45.º — Regras do Processo
+
+1 - Compete à Câmara Municipal o processamento das contraordenações previstas no artigo 71.º do Código da Estrada, a aplicação das respetivas coimas e sanções acessórias, desde que estejam reunidas as condições definidas em Portaria do membro do Governo responsável pela área da administração interna, mediante parecer favorável da ANSR e seja por este designada.
+
+2 - As competências referidas no número anterior podem ser exercidas por empresas municipais ou concessionárias, no exercício de competências, poderes ou prerrogativas de autoridade para o efeito delegados.
+
+3 - Às contraordenações previstas neste regulamento são aplicáveis as normas gerais que regulam o regime geral das contraordenações com as adaptações constantes do Código da Estrada.
+
+###### Artigo 46.º — Abandono, Remoção e Bloqueamento de Veículos
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - As taxas são devolvidas quando se verificar que houve errada aplicação das disposições legais e regulamentares.
+
+###### Artigo 48.º — Bloqueamento e Remoção
+
+1 - Podem ser removidos os veículos que se encontrem:
+
+a) [...];
+
+b) [...];
+
+c) Estacionados ou imobilizados em locais que, por razões de segurança, ordem pública, de emergência ou de socorro, justifiquem a remoção.
+
+2 - Para os efeitos do disposto na aliena b) do n.º anterior, considera-se que constituem evidente perigo ou grave perturbação para o trânsito os seguintes casos de estacionamento ou imobilização:
+
+a) [...]
+
+b) [...]
+
+c) Em passagem de peões ou de velocípedes sinalizada;
+
+d ) Em cima dos passeios ou em zona reservada exclusivamente ao trânsito de utilizadores vulneráveis;
+
+e) [...]
+
+f ) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+k) (anterior k))
+
+3 - Verificada qualquer das situações previstas nas alíneas a) e b) do n.º 1 [...]
+
+4 - [...]
+
+5 - O desbloqueamento do veículo só pode ser feito pelas autoridades competentes, sendo sancionada, nos termos da alínea h) do artigo 43.º, qualquer outra pessoa que o fizer.
+
+###### Artigo 50.º — Reclamação de Veículos
+
+1 - [...]
+
+2 - [...] alínea f) do n.º 1 do artigo 42.º, [...].
+
+3 - [...]
+
+4 - [...]
+
+###### Artigo 54.º — Informação às Forças Policiais de Abandono dos Veículos
+
+Os serviços de fiscalização informarão [...].
+
+###### Artigo 55.º — Arrematação da Sucata em Hasta Pública
+
+Decorrido o prazo previsto no artigo anterior [...], os serviços de fiscalização apresentam [...].
+
+###### Artigo 57.º — Criação de ZE
+
+As zonas de estacionamento, bolsas de estacionamento e bolsas de cargas e descargas, são criadas e alteradas por deliberação da Câmara Municipal.
+
+###### Artigo 60.º — Vigência
+
+O presente Regulamento entra em vigor no dia seguinte ao da sua publicação.
+
+Artigos 5.º
+
+Aditamentos
+
+São aditados os artigos 33.º a 39.º, 42.º e os Anexos I e VII, com a seguinte redação:
+
+#### SECÇÃO III — Do Selo de Comerciante
+
+###### Artigo 33.º — Da Qualidade de Comerciante
+
+1 - O direito à aquisição do selo de comerciante só se constitui se o seu titular, para além do disposto na alínea i) do artigo 4.º, preencher cumulativamente os seguintes requisitos:
+
+a) Ser proprietário, adquirente com reserva de propriedade, locatário em regime de locação financeira ou aluguer ou usufrutuário de um veículo automóvel ligeiro de mercadorias associado ao exercício de uma atividade profissional com vínculo laboral;
+
+b) Ser titular de um direito de propriedade, uso ou ocupação do imóvel onde se localiza o estabelecimento comercial;
+
+c) Não ter estacionamento privativo ou garagem afeto ao imóvel referido na alínea anterior;
+
+2 - A prova da qualidade de comerciante faz-se através da apresentação cumulativa de cópia dos seguintes documentos:
+
+a) Certidão da conservatória do registo comercial válida da qual conste a atividade comercial exercida ou comprovativo do exercício de atividade da categoria B do CIRS;
+
+b) Documento comprovativo da titularidade do direito de propriedade uso ou ocupação do imóvel onde se situa o estabelecimento comercial;
+
+c) Título de registo de propriedade, certificado de matrícula do veículo automóvel ligeiro de mercadorias, contrato que titula a aquisição com reserva de propriedade, contrato de locação financeira ou de aluguer de longa duração;
+
+d ) Cartão de identificação fiscal do requerente;
+
+e) Cartão de cidadão ou bilhete de identidade do legal representante do requerente;
+
+f ) Declaração justificativa de que a entrega e distribuição frequente de volumes de mercadorias são essenciais para atividade económica;
+
+g) Declaração sob compromisso de honra da inexistência de garagem ou estacionamento privativo afeta ao imóvel onde se situa o estabelecimento comercial ou, se se situa em edifício constituído em propriedade horizontal, declaração do condomínio no mesmo sentido.
+
+3 - As falsas declarações ou informações e a falsificação de documentos determinam a responsabilidade criminal do infrator.
+
+###### Artigo 34.º — Selo de Comerciante
+
+1 - A Câmara Municipal deliberará individualmente sobre cada requerimento de atribuição do selo de comerciante, podendo solicitar a prestação de esclarecimentos adicionais ou apresentação de outros documentos que considere relevantes.
+
+2 - Cada comerciante que reúna as condições referidas no artigo anterior só poderá possuir um selo de comerciante.
+
+3 - A atribuição do selo de comerciante para a respetiva ZE, confere a possibilidade de estacionar gratuitamente nos locais devidamente identificados como BM, ou de estacionamento livre.
+
+4 - Os titulares de selo de comerciante cujo estabelecimento se situe em arruamento coincidente com limite de ZE poderão estacionar em qualquer dos lados do respetivo arruamento.
+
+5 - O estacionamento referido no n.º anterior não tem limite de tempo, salvo se previsto em normas específicas de zona.
+
+6 - O selo de comerciante deve ser colocado no interior do veículo com o rosto para o exterior, junto do para-brisas, de modo a serem visíveis e legíveis as menções dele constante.
+
+7 - Quando o selo de comerciante não estiver colocado da forma prevista no n.º anterior, presume-se o não pagamento do estacionamento ou a não qualidade de comerciante.
+
+###### Artigo 35.º — Características
+
+O selo de comerciante é emitido pela Câmara Municipal, associado a um veículo concretamente identificado e dele constam:
+
+a) A ZE para que é válido;
+
+b) O arruamento de residência;
+
+c) A matrícula do veículo;
+
+d ) O prazo de validade.
+
+###### Artigo 36.º — Requerimento
+
+1 - Os comerciantes poderão requerer, através do preenchimento do modelo constante do Anexo VII, a atribuição de um selo de comerciante.
+
+2 - Os serviços competentes decidem a atribuição do selo de comerciante no prazo máximo de 2 dias úteis, a contar da data da receção do requerimento.
+
+###### Artigo 37.º — Devoluções
+
+1 - O selo de comerciante deve ser imediatamente devolvido sempre que se alterem os pressupostos sobre os quais assentou decisão da sua emissão, designadamente, quando o titular deixe de ser proprietário ou de explorar o estabelecimento comercial ou aliene o seu veículo.
+
+2 - O titular do selo de comerciante deverá ainda comunicar a substituição do veículo para os efeitos previstos no n.º 4 do artigo 39.º
+
+###### Artigo 38.º — Roubo, Furto, Extravio ou Falsificação
+
+1 - Em caso de roubo, furto ou extravio do selo de comerciante, deverá o seu titular comunicar de imediato o facto à Câmara Municipal, sob pena de responder pelos prejuízos resultantes da sua utilização indevida por outrem.
+
+2 - Nos casos referidos no n.º anterior o procedimento seguido na substituição do selo será o mesmo que o utilizado para a sua renovação.
+
+3 - Em caso de falsificação do selo de comerciante, sem prejuízo da responsabilidade penal do infrator, serão revogados os selos emitidos relativamente à mesma residência e não haverá direito à emissão de novos selos para os titulares pelo período de cinco anos.
+
+###### Artigo 39.º — Validade
+
+1 - O selo tem validade anual e a sua atribuição implica o pagamento de uma taxa de emissão, nos termos do Regulamento de liquidação e cobrança de taxas e emissão licenças do Município de Torres Vedras.
+
+2 - A renovação do selo de comerciante será efetuada a requerimento do seu titular, através do preenchimento do modelo constante do Anexo VII.
+
+3 - Para a renovação do selo de comerciante devem ser exibidos os documentos referidos no n.º 2 do artigo 33.º, ficando a decisão e a emissão sujeitas aos prazos previstos no artigo 36.º
+
+4 - Para a substituição do selo de residente, por mudança de veículo, apenas é necessário o documento previsto na alínea c) do n.º 2 do artigo 33.º
+
+###### Artigo 42.º — Estacionamento Proibido, indevido ou abusivo
+
+Para além dos casos especialmente previstos nos artigos 8.º, 9.º, 16.º e 20.º do presente regulamento, é proibido parar ou estacionar nos casos previstos no n.º 1 do artigo 49.º, no n.º 1 do artigo 50.º e no artigo 71.º do Código da Estrada e considera-se indevido ou abusivo o estacionamento previsto no artigo 163.º do Código da Estrada.
+
+## ANEXO I — Classificação de Atividades Económicas - CAE's
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/06/114000000/1574615751.pdf)
+
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/2s/2014/06/114000000/1574615751.pdf)
+
+## ANEXO V — [(ver documento original)](https://files.diariodarepublica.pt/2s/2014/06/114000000/1574615751.pdf)
+
+## ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/2s/2014/06/114000000/1574615751.pdf)
+
+## ANEXO VII — [(ver documento original)](https://files.diariodarepublica.pt/2s/2014/06/114000000/1574615751.pdf)
+
+307871876

@@ -1,0 +1,713 @@
+---
+schema_version: '1.0'
+id: pt:dre:56391698:por
+title: Regulamento n.º 392/2014
+short_title: null
+summary: Regulamento do Pavilhão Multiusos de Tábua
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Tábua
+proposing_entity: null
+official_number: 392/2014
+official_date: null
+publication_date: '2014-09-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 169/2014, Série II de 2014-09-03
+  number: '169'
+  series: II
+  supplement: null
+  pages: 22934 - 22939
+  pdf_url: https://files.diariodarepublica.pt/2s/2014/09/169000000/2293422939.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '56391698'
+  dre_path: /dr/detalhe/regulamento/392-2014-56391698
+  internal: pt:dre:56391698:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/392-2014-56391698
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/392-2014-56391698
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:45:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c2c37cf56699da8a874ddf773d32dcfd497d8f3aae2b593d6e4444534760f6f5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:45:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:175794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520261:por
+  label: null
+  source: null
+article_structure:
+  article_count: 46
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:45:18Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 392/2014
+
+Mário de Almeida Loureiro, Presidente da Câmara Municipal de Tábua:
+
+Torna público, nos termos e para efeitos do disposto no artigo 35.º, n.º 1, alínea t), Anexo I, da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, e cumpridas as formalidades legais constantes do artigo 118.º do Código de Procedimento Administrativo, que a Assembleia Municipal em sua Sessão Ordinária de 25 de junho de 2014, sob proposta da Câmara Municipal, tomada em Reunião Extraordinária de 15 de maio de 2014, deliberou por unanimidade aprovar o Regulamento do Pavilhão Multiusos de Tábua.
+
+O referido regulamento e respetivos anexos entrarão em vigor quinze dias após a sua publicação no Diário da República, 2.ª série.
+
+Para constar se lavrou o presente Edital, que vai ser publicado no Diário da República, 2.ª série, na página eletrónica www.cm-tabua.pt., e afixado nos lugares públicos do costume.
+
+Regulamento do Pavilhão Multiusos de Tábua
+
+Preâmbulo
+
+A Câmara Municipal de Tábua, tendo em conta a carência de instalações adequadas e funcionais para a realização de eventos municipais de promoção do Concelho, procedeu à construção de um Pavilhão Multiusos, que pela sua polivalência permite que nele possam decorrer os mais variados eventos.
+
+O Pavilhão Multiusos de Tábua é um equipamento municipal, multifacetado, vocacionado para a prestação não só de atividades desportivas e bem-estar, como também, para a realização de eventos de âmbito lúdico, cultural e empresarial.
+
+Embora o objetivo principal desse instrumento tenha sido a realização de eventos públicos, dinamizados ou promovidos pelo Município de Tábua, as suas características e a necessidade de procurar rentabilizar o investimento efetuado, aconselham que a utilização desta infraestrutura seja aberta também às diversas entidades públicas ou privadas, visto que nem sempre estas dispõem no Concelho de locais apropriados, para a realização de eventos que, embora de caráter privado, exigem condições e espaços adequados para o efeito.
+
+Neste sentido, é importante proceder a uma regulamentação da utilização do referido Pavilhão, tendo sobretudo em vista o uso pelas diversas entidades.
+
+Perante o exposto, foi realizado este Regulamento que introduz um conjunto de normas visando assegurar a sua utilização para fins públicos e privados, definindo regras que salvaguardem o seu funcionamento e promovam a segurança das respetivas instalações e equipamentos.
+
+Assim, e para efeitos do poder regulamentar próprio, que é atribuído às autarquias, pelo artigo 241.º da Constituição da República Portuguesa, do artigo 33.º, n.º 1, alínea k) e do artigo 25.º, do n.º 1, alínea g) da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, do artigo 20.º do [Decreto-Lei n.º 141/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2009-494551), de 16 de junho, e do artigo 116.º do Código do Procedimento Administrativo, foi elaborado o presente regulamento.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Âmbito da aplicação
+
+O Pavilhão Multiusos de Tábua, adiante designado por "Multiusos", propriedade do Município de Tábua, está sujeito às normas de funcionamento, utilização e conservação do presente Regulamento, cujas instalações destinam-se preferencialmente à realização de atividades desenvolvidas pela Câmara Municipal e, complementarmente, de eventos realizados por entidades públicas e privadas, compatíveis com as características do pavilhão.
+
+###### Artigo 2.º — Objeto
+
+1 - O Multiusos é uma infraestrutura multifacetada, vocacionada para a prestação não só de atividades desportivas e bem-estar, como também, para a realização de eventos de âmbito lúdico e cultural, empresarial, entre outros, sempre compatíveis com as características do pavilhão.
+
+2 - São consideradas partes integrantes do Multiusos, todas as construções interiores e exteriores destinadas à realização dos diversos eventos e ao seu apoio, sendo composto por:
+
+a) Espaço Multifuncional;
+
+b) Balneários;
+
+c) Sanitários;
+
+d) Bancadas;
+
+e) Salas de Apoio;
+
+f) Salas Polivalentes;
+
+g) Receção;
+
+h) Arrecadações;
+
+i) Enfermaria;
+
+j) Sala Antidoping;
+
+k) Piso Amovível para a prática desportiva;
+
+l) Parque de Estacionamento e zona envolvente.
+
+###### Artigo 3.º — Gestão e Administração das Instalações
+
+1 - A gestão e administração das instalações do Multiusos são exercidas pela Câmara Municipal de Tábua.
+
+2 - As competências conferidas à Câmara são delegadas no Presidente da Câmara, que as poderá subdelegar no Vereador com o Pelouro do Desporto.
+
+3 - A Coordenação Técnica do Multiusos será efetuada por um ou mais técnicos de Desporto e Educação Física a serem designados por despacho do Senhor Presidente da Câmara Municipal ou Vereador do Pelouro.
+
+4 - Em situações especiais a Câmara Municipal poderá acordar com outras entidades ou clubes, a participação destes na gestão de determinadas instalações, mediante a assinatura de protocolos para esse efeito.
+
+5 - A gestão e exploração do Pavilhão poderá também ser efetuada por uma empresa municipal ou privada nas condições que vierem a ser definidas.
+
+### CAPÍTULO II — Entidade responsável e atribuições
+
+###### Artigo 4.º — Gestão e administração
+
+A gestão e administração do Multiusos são da exclusiva competência do Município de Tábua, sendo, designadamente, suas atribuições:
+
+a) Administrar e gerir as instalações;
+
+b) Fazer cumprir as normas relativas à utilização das instalações;
+
+c) Receber, analisar e articular os diversos pedidos de utilização;
+
+d) Organizar e coordenar as atividades desenvolvidas;
+
+e) Inventariar e divulgar pelas formas e locais de estilo os horários da utilização pontual;
+
+f) Garantir o pessoal indispensável ao seu regular funcionamento.
+
+###### Artigo 5.º — Pessoal
+
+O pessoal encarregado da manutenção e higiene das instalações e do piso desportivo do Multiusos é da responsabilidade da Câmara Municipal de Tábua.
+
+###### Artigo 6.º — Atribuições e competências
+
+1 - Do rececionista/vigilante da infraestrutura:
+
+a) Abrir e fechar as instalações dentro dos horários estabelecidos;
+
+b) Fazer o registo diário das utilizações em mapa apropriado;
+
+c) Zelar pelo bom funcionamento de todo o sistema e infraestruturas de suporte às instalações;
+
+d) Montar, desmontar e recolher o material e equipamento necessário à realização dos diversos eventos;
+
+e) Fazer cumprir e zelar pelo cumprimento, por parte dos utilizadores, de todas as normas de utilização;
+
+f) Participar à entidade gestora das instalações todas as ocorrências transgressoras da alínea anterior;
+
+g) Fazer cumprir os horários de utilização definidos, a fim de que não haja sobreposição à normal sequência dos utilizadores, evitando desperdícios de bens de consumo, nomeadamente, água, gás e eletricidade.
+
+2 - Do pessoal de limpeza e higiene:
+
+a) Manter as instalações limpas e em perfeito estado de asseio;
+
+b) Zelar pelo cumprimento das normas de higiene no decorrer da utilização das instalações.
+
+### CAPÍTULO III — Utilização das instalações
+
+###### Artigo 7.º — Período e horário de funcionamento
+
+1 - O horário de funcionamento e atendimento são fixados por despacho do Senhor Presidente da Câmara Municipal ou Vereador do Pelouro, e publicitados nos locais de costume.
+
+2 - Nos dias em que se realizem eventos especiais poder-se-á fixar, também, um horário especial.
+
+3 - O Pavilhão encerrará nos feriados nacionais e feriado municipal, nos dias 24 e 31 de dezembro e, ainda, em todas as datas que vierem a ser determinadas, bem como, em outras datas assinaladas e/ ou deliberadas pelo Presidente do Município ou Vereador do Pelouro.
+
+4 - Ao Município de Tábua reserva-se o direito de interromper o funcionamento do Multiusos sempre que julgue conveniente ou a tal seja forçado por motivo de avarias, execução de trabalhos de limpeza, manutenção corrente ou extraordinária.
+
+###### Artigo 8.º — Utilização
+
+1 - A utilização das instalações realiza-se por períodos de tempo com a duração de 1 hora e 30 minutos.
+
+2 - As solicitações que visem a utilização fora dos horários normais de funcionamento serão objeto de apreciação por parte do Senhor Presidente da Câmara ou Vereador do Pelouro.
+
+3 - A utilização do pavilhão encontra-se sujeita ao pagamento de um montante previsto na tabela de taxas (Anexo I).
+
+###### Artigo 9.º — Tipos de utilização
+
+Consideram-se dois tipos de cedência:
+
+a) Regular: a que prevê a utilização das instalações em dias e horas fixos, ao longo do ano ou época desportiva;
+
+b) Pontual: a que prevê a utilização esporádica das instalações, desde que as mesmas não se encontrem já com utilização marcada ou, se tal se verificar, haja acordo entre ambos.
+
+###### Artigo 10.º — Tipos de utilizadores
+
+Consideram-se três tipos de utilizadores:
+
+a) Promotores de eventos: pessoa singular ou coletiva, entidades públicas ou privadas, que pretendam desenvolver atividades de planeamento, captação, promoção, realização, administração dos recursos e prestação de serviços relacionados com eventos;
+
+b) Utilizador: pessoa a título individual ou grupo de pessoas que pretendam utilizar as instalações para praticar os vários géneros de modalidades desportivas presentes no Multiusos;
+
+c) Público: conjunto de pessoas que assiste a um evento ou atividade.
+
+###### Artigo 11.º — Pedidos de cedência regular e pontual
+
+Os interessados nas cedências regulares e pontuais deverão formalizar o pedido da seguinte forma:
+
+1 - No caso de utilização regular o pedido deve ser formalizado por escrito e dirigido ao Presidente do Município de Tábua ou Vereador do Pelouro, com uma antecedência mínima de quinze dias do início do período pretendido e dele constarão obrigatoriamente, sob pena de indeferimento:
+
+a) Identificação do Interessado;
+
+b) Atividade que pretende praticar, escalão etário e número de praticantes;
+
+c) Duração de utilização com indicação dos dias da semana e hora pretendida;
+
+d) Período de utilização anual;
+
+e) Identificação do responsável pela orientação técnica e disciplinar dos atletas.
+
+2 - A utilização pontual desportiva poderá ser solicitada com uma antecedência mínima de dois dias úteis, instruída com a modalidade que desejam praticar, referindo o número aproximado de praticantes, calendário, horário de utilização e material pretendido, devendo para o efeito preencher a ficha de inscrição (Anexo II) e pagar a respetiva taxa.
+
+3 - A utilização pontual para a realização de eventos, deverá ser solicitada com uma antecedência mínima de dez dias úteis, referindo o género de evento que pretendam organizar, o número aproximado de espetadores, calendário, horário de utilização e material pretendido, devendo para o efeito solicitar por escrito ao Senhor Presidente da Câmara ou Vereador do Pelouro, sendo que em caso de deferimento, a entidade é obrigada a pagar a respetiva taxa, até ao dia anterior ao evento para efetivação do pedido, sob pena do mesmo não ser válido.
+
+###### Artigo 12.º — Declaração/Protocolo de cedência
+
+1 - As instalações constantes deste documento só poderão ser utilizadas pelas entidades para tal autorizadas por despacho do Senhor Presidente da Câmara ou do Vereador do Pelouro, mediante parecer favorável do responsável técnico pelo Multiusos.
+
+2 - Os protocolos a celebrar com as associações e clubes que pratiquem provas federadas, devem atender aos seguintes parâmetros:
+
+a) Calendário de provas e ou período pretendido para os treinos;
+
+b) Objetivos;
+
+c) Organização de eventos desportivos em colaboração com da Câmara Municipal de Tábua.
+
+###### Artigo 13.º — Denúncia das declarações/Protocolos de cedência
+
+1 - Haverá lugar à denúncia do protocolo quando motivos ponderosos, imputáveis à entidade utilizadora ou à Câmara Municipal assim o justifiquem.
+
+2 - As declarações de utilização das instalações serão denunciadas quando se verifiquem as seguintes situações:
+
+a) Não pagamento das taxas de utilização devidas;
+
+b) Danos produzidos nas instalações ou em quaisquer materiais nele integrados, provocados por deficiente ou negligente utilização, enquanto não forem financeiramente cobertos pela entidade responsável;
+
+c) Utilização para fins diversos daqueles para que foi concedida autorização;
+
+d) Utilização por entidades ou utilizadores estranhos aos que foram autorizados.
+
+###### Artigo 14.º — Suspensão de utilização
+
+Qualquer utilização será suspensa quando a Câmara Municipal de Tábua necessitar das instalações para a sua utilização, competindo-lhe comunicar o facto aos utilizadores, com a antecedência mínima de dois dias para utilizações de caráter não oficial regulares ou pontuais e de seis dias para anulação (antecipação ou adiamento) de competições com caráter oficial.
+
+###### Artigo 15.º — Desistência
+
+No caso das atividades regulares, a desistência de utilização do Multiusos deverá ser comunicada, por escrito, ao Senhor Presidente da Câmara ou Vereador do Pelouro, nos seis dias úteis anteriores, sob pena do utilizador ficar impossibilitado de usufruir de utilizações posteriores e de proceder ao pagamento das taxas aplicáveis.
+
+###### Artigo 16.º — Autorização de utilização das instalações
+
+Qualquer tipo de utilização carece de autorização da entidade gestora das instalações devendo ser comunicada, aos interessados, com indicação das condições estabelecidas.
+
+###### Artigo 17.º — Intransmissibilidade da autorização de utilização
+
+As instalações são cedidas à entidade requerente, não podendo estas ser transmitidas, sob qualquer forma, a outrem.
+
+###### Artigo 18.º — Cancelamento da autorização de utilização das instalações
+
+1 - A autorização de utilização do Multiusos será cancelada quando se verifiquem as seguintes situações:
+
+a) Danos produzidos no Multiusos ou em qualquer equipamento ou material nele integrado, provocados por deficiente utilização, enquanto não forem financeiramente cobertos pela entidade/grupo de utilizadores responsável;
+
+b) Utilização para fins diversos daquele para que foi concedida a autorização;
+
+c) Não estejam reunidas as condições essenciais à prática desportiva e ou de segurança, inerentes às partes integrantes do Multiusos, indicadas no n.º 2 do artigo 2.º do presente regulamento;
+
+d) Não cumprimento do regulamento.
+
+2 - A entidade competente para decidir o cancelamento é o Município de Tábua, após audição de todos os interessados.
+
+###### Artigo 19.º — Danos e prejuízos
+
+Os danos e prejuízos eventualmente causados no decurso de atividades implicarão, sempre, a reposição dos bens danificados no estado inicial, por parte da entidade/requerente responsável por tais ocorrências.
+
+###### Artigo 20.º — Utilizadores
+
+1 - O Multiusos destina-se, prioritariamente, à prática das atividades promovidas e ou apoiadas pelo Município de Tábua.
+
+2 - Sem prejuízo do número anterior, o Multiusos destina-se também a ser utilizado por qualquer pessoa singular ou coletiva, entidades públicas ou privadas para a prática de diversas atividades compatíveis com as características da infraestrutura.
+
+###### Artigo 21.º — Ordem de prioridades
+
+Na gestão do Multiusos procurar-se-á atender às solicitações de todos os interessados, no sentido de rentabilizar a sua utilização, obedecendo à seguinte prioridade:
+
+a) Escolas do concelho;
+
+b) Entidades do concelho;
+
+c) Grupos de particulares residentes no concelho;
+
+d) Entidades não pertencentes ao concelho;
+
+e) Grupos de particulares não pertencentes ao concelho.
+
+###### Artigo 22.º — Provas oficiais
+
+1 - As provas oficiais têm prioridade sobre as utilizações marcadas pela seguinte ordem:
+
+a) Federativas;
+
+b) Associativas;
+
+c) Desporto Escolar;
+
+d) INATEL;
+
+e) Particulares oficializadas;
+
+f) Amigáveis.
+
+2 - As utilizações marcadas, em caso de existência de provas oficiais, podem ser canceladas por comunicação do Presidente da Câmara ou Vereador do Pelouro.
+
+###### Artigo 23.º — Pessoa responsável
+
+1 - É obrigatória a presença da pessoa responsável e indicada pela entidade/interessado requerente, durante os respetivos períodos de utilização.
+
+2 - Cabe à pessoa responsável:
+
+a) Zelar, junto dos praticantes, pelo cumprimento das normas do presente regulamento;
+
+b) Assumir a responsabilidade por qualquer infração ao regulamento cometida pelos respetivos praticantes.
+
+###### Artigo 24.º — Utilização das diferentes valências do Multiusos
+
+1 - Materiais e equipamentos:
+
+a) O material e equipamento fixo e móvel é propriedade da entidade gestora, podendo ser utilizado pelos utilizadores, sob solicitação e autorização do funcionário do serviço.
+
+b) O material e equipamento utilizado durante as atividades e afeto às instalações deverá, no fim, ser confiado ao funcionário responsável em serviço.
+
+c) O material e equipamento pertencente às entidades utilizadoras apenas poderá ser usado pelos próprios e encontra-se à sua total e exclusiva responsabilidade.
+
+d) As balizas só podem ser utilizadas se estiverem devidamente fixas, devendo os utilizadores alertar o funcionário presente caso detete alguma irregularidade na segurança das mesmas.
+
+2 - Balneários:
+
+a) Os balneários são utilizados, exclusivamente, para troca do vestuário e higiene pessoal, em períodos anteriores e posteriores à prática desportiva e outras atividades.
+
+b) A Câmara Municipal de Tábua não se responsabiliza por quaisquer objetos ou valores pessoais que se encontrem nos balneários durante os períodos de utilização.
+
+3 - Espaço Multifuncional:
+
+a) Este espaço irá acolher os diversos tipos de eventos existentes, compatíveis com as características do Pavilhão.
+
+b) O piso amovível será sempre colocado neste espaço.
+
+4 - Piso Amovível:
+
+a) O piso amovível está afeto, preferencialmente, à prática de treinos e competições nas diversas modalidades desportivas, nomeadamente, futsal, basquetebol, andebol e voleibol.
+
+b) O piso amovível terá que ter definido até ao início do mês de março de cada ano, um plano de utilização, montagem e desmontagem.
+
+c) Serão definidos pelo responsável técnico, dias reservados à manutenção e conservação do piso amovível.
+
+d) O piso amovível só pode ser retirado e colocado, no máximo duas vezes por ano, com o intuito de garantir a sua conservação e durabilidade.
+
+e) É expressamente proibido o arremesso de projéteis ou outros objetos, para o piso amovível.
+
+### CAPÍTULO IV — Deveres e responsabilidades de utilização
+
+###### Artigo 25.º — Direitos dos utilizadores
+
+O utilizador tem direito a:
+
+a) Ser tratado de forma correta e cordial pelos funcionários afetos ao Multiusos;
+
+b) Beneficiar dos serviços prestados pelo Multiusos, de forma equitativa e imparcial, desde que respeite os procedimentos ou normas que as regem;
+
+c) Apresentar críticas, sugestões, propostas e reclamações.
+
+###### Artigo 26.º — Deveres dos utilizadores
+
+O utilizador tem como deveres:
+
+Cumprir as normas estabelecidas no presente documento e na legislação em vigor aplicável no Multiusos;
+
+Aceder de imediato às solicitações de identificação que lhe sejam dirigidas pelos funcionários em serviço;
+
+Guardar os objetos de valor e responsabilizar-se pela sua segurança e por danos causados nos mesmos;
+
+Comportar-se de modo adequado, não provocando distúrbios nem atos de violência;
+
+Manter as instalações limpas, colocando o lixo nos locais adequados;
+
+Responsabilizar-se pelos danos causados e pela má utilização dos equipamentos.
+
+###### Artigo 27.º — Interdições
+
+1 - No interior das instalações é expressamente proibido:
+
+a) A entrada de animais, com exceção do consignado no artigo 1.º do [Decreto-Lei n.º 74/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2007-520261), de 27 de março, e em eventos ou feiras que consagrem a participação dos mesmos;
+
+b) A entrada de veículos motorizados, exceto veículos da Câmara Municipal de Tábua em serviço ou devidamente autorizados;
+
+c) Fazer fogueiras;
+
+d) Fumar;
+
+e) Lançar no chão pontas de cigarro, papéis, plásticos, latas, garrafas e quaisquer objetos suscetíveis de poluir a infraestrutura;
+
+f) Transportar para o seu interior objetos que possam danificar o espaço;
+
+g) Não é permitido o uso de gás, velas ou de outros produtos inflamáveis nos espaços do Multiusos, salvo se expressamente autorizado pela Câmara Municipal.
+
+2 - São ainda proibidos comportamentos ou a utilização de materiais que coloquem manifestamente em perigo a integridade física das pessoas que se encontrem no Multiusos, bem como a infraestrutura física do mesmo.
+
+###### Artigo 28.º — Preparação dos eventos no Espaço Multifuncional
+
+1 - As montagens e desmontagens dos eventos serão efetuadas pelo promotor do mesmo, sempre com a supervisão dos técnicos municipais.
+
+2 - Cabe à Câmara Municipal ou à empresa por esta autorizada, realizar todas as tarefas referentes à instalação elétrica, gás, ar comprimido, montagem de redes de comunicação e montagem de palcos, sendo o respetivo valor suportado pelo promotor do evento.
+
+3 - O promotor do evento deverá restituir os espaços cedidos, na data e hora acordadas e nas condições em que estas se encontravam aquando da cedência da respetiva utilização, com a salvaguarda do desgaste resultante do seu normal uso.
+
+###### Artigo 29.º — Serviços
+
+1 - As entidades promotoras das atividades desportivas são responsáveis pelo policiamento do recinto desportivo, de acordo com o estatuído no [Decreto-Lei n.º 216/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), de 9 de outubro.
+
+2 - As entidades promotoras dos eventos são responsáveis pelos serviços necessários para o normal funcionamento das atividades, tais como, corpo de bombeiros ou serviço de vigilância privada.
+
+###### Artigo 30.º — Publicidade e divulgação
+
+1 - A ocupação de espaços com publicidade obedecerá às seguintes condições:
+
+a) A publicidade será sempre condicionada à aprovação da Câmara Municipal de Tábua;
+
+b) Quando da utilização das instalações advier, ao promotor de eventos, benefícios económicos, nomeadamente por ações de publicidade, transmissão televisiva do evento ou emissão de bilhetes, a cedência poderá ser objeto de protocolo que contemple contrapartidas adicionais a definir caso a caso.
+
+2 - Cabe ao promotor de eventos, durante o período de desmontagem do evento, proceder à remoção de todo o material de publicidade, informativo e placas de sinalização por si afixadas.
+
+###### Artigo 31.º — Venda de bilhetes
+
+1 - É da responsabilidade do promotor do evento a elaboração e impressão dos bilhetes do evento.
+
+2 - Cabe ao promotor do evento fornecer à Câmara Municipal, a informação relativa aos bilhetes do evento, nomeadamente, preços, horários, descontos e número de bilhetes que pretende colocar à venda, estando este último limitado à lotação do espaço e ao tipo de utilização em causa.
+
+3 - A venda de bilhetes a que se refere o número anterior será efetuada nos termos acordar entre as partes, devidamente publicitados.
+
+###### Artigo 32.º — Venda de produtos
+
+A venda de produtos alusivos ao evento a realizar pelo promotor do mesmo, no Multiusos, bem como a entrega de programas ao público, será feito nos termos da legislação em vigor.
+
+###### Artigo 33.º — Serviços de bar e restauração
+
+Os serviços de bar e restauração que ocorram no Multiusos são assegurados pelo promotor do evento, nas salas ou espaços concedidos para o efeito, bem como em pontos itinerantes a colocar no espaço, tendo em conta as necessidades do evento nas condições a estabelecer previamente com os técnicos municipais.
+
+###### Artigo 34.º — Acesso
+
+1 - É impedido o acesso a quem se recuse a pagar as taxas aplicáveis, não se comporte de modo adequado, provoque distúrbios, pratique atos de violência e viole as demais regras e normas do presente regulamento.
+
+2 - O acesso à área reservada à prática desportiva do Multiusos só é permitido aos utilizadores que se encontrem devidamente equipados, sendo obrigatória a utilização roupa desportiva e de calçado apropriado à prática desportiva, devidamente limpos.
+
+3 - Em caso de organização de eventos, os trabalhadores, colaboradores ou voluntários que o promotor de eventos mantenha ao serviço no Multiusos deverão estar identificados através de documento facultado pelo mesmo, tendo somente acesso aos espaços cedidos, reservando-se à Câmara Municipal, o direito de não permitir a entrada de pessoal que não se faça acompanhar pela referida identificação.
+
+4 - É exigido, ainda, às equipas de produção ou promoção do evento, os respetivos livre-trânsitos, devidamente autenticados pelo promotor do evento.
+
+###### Artigo 35.º — Conduta e ética desportiva
+
+1 - São deveres especiais dos utilizadores o respeito mútuo, a sã camaradagem, o desportivismo e a boa educação.
+
+2 - A Câmara Municipal de Tábua pode não autorizar a entrada ou a permanência no espaço multifuncional, aquando da realização de evento, de qualquer utilizador que desrespeite as normas inerentes à utilização ou que, de qualquer outro modo, perturbe o normal funcionamento do mesmo ou dos respetivos serviços.
+
+3 - Em caso de desrespeito grave das normas de conduta previstas no presente regulamento, qualquer pessoa que se encontre, a qualquer título no interior das instalações, poderá ser convidada a abandonar as mesmas.
+
+4 - No caso previsto no número anterior poderá a Câmara Municipal de Tábua fixar um período de interdição dentro do qual será proibido ao autor da infração o acesso a esta instalação desportiva, sem prejuízo das sanções previstas na demais legislação em vigor.
+
+### CAPÍTULO V — Taxas
+
+###### Artigo 36.º — Prazos de pagamento
+
+A cedência das instalações implica, com exceção dos casos isentos, o pagamento da respetiva taxa, segundo a tabela que consta no Anexo I ao presente documento.
+
+As entidades com utilização regular devem efetuar mensalmente até ao 8.º dia do mês seguinte os pagamentos das respetivas taxas de utilização.
+
+As utilizações com caráter individual serão pagas no momento da sua utilização.
+
+Caso não seja cumprido o disposto nos números anteriores, será cancelada a autorização de utilização das instalações.
+
+###### Artigo 37.º — Isenções
+
+1 - A Câmara Municipal de Tábua poderá isentar total ou parcialmente do pagamento de taxas as entidades cujas iniciativas sejam alvo de apoios municipais, constituindo essa isenção uma forma de apoio possível. 2. A Câmara Municipal de Tábua poderá isentar total ou parcialmente do pagamento de taxas, as seguintes entidades:
+
+a) Entidades desportivas do concelho;
+
+b) Escolas do concelho;
+
+c) Associações do concelho;
+
+d) Organismos do Estado, Juntas de Freguesia, Conselhos Municipais, comissões ou organismos que funcionem em parceria com o município;
+
+e) Pessoas portadoras de deficiência motora a quem outra modalidade praticada nas instalações municipais desportivas, seja recomendada pelo médico e cujo rendimento mensal per capita do seu agregado familiar seja inferior ao salário mínimo nacional, depois de analisado pelo Vereador do Pelouro.
+
+### CAPÍTULO VI — Contraordenações
+
+###### Artigo 38.º — Contraordenações
+
+1 - Constitui contraordenação, punida com coima, para efeitos do disposto no presente regulamento:
+
+a) A introdução, venda e consumo de bebidas alcoólicas no recinto, não autorizadas pelos técnicos da Câmara Municipal;
+
+b) A introdução, transporte e venda na infraestrutura de produtos não autorizados;
+
+c) O incitamento à violência, ao racismo e à xenofobia e outras formas de discriminação, sem prejuízo de outras sanções aplicáveis;
+
+d) A utilização na infraestrutura de buzinas alimentadas por baterias, corrente elétrica ou outras formas de energia, bem como quaisquer instrumentos produtores de ruídos instalados de forma fixa, com exceção da instalação sonora do promotor do evento;
+
+e) A introdução e utilização de buzinas de ar ou de outros utensílios estridentes no evento;
+
+f) A introdução ou utilização de substâncias ou engenhos explosivos ou pirotécnicos ou objetos que produzam efeitos similares, sem prejuízo de outras sanções aplicáveis.
+
+2 - Constituem ainda contraordenação, punida com coima, a violação das demais normas do presente regulamento.
+
+###### Artigo 39.º — Coimas
+
+1 - Constitui contraordenação muito grave, punida com coima entre 1000,00 (euro) e 1750,00 (euro) a prática dos atos previstos nas alíneas a), c) e f) do artigo anterior.
+
+2 - Constitui contraordenação grave, punida com coima entre 500,00 (euro) e 1000,00 (euro), a prática dos atos previstos nas alíneas b) e e) do artigo anterior.
+
+3 - Constitui contraordenação leve, punida com coima entre 250,00 (euro) e 500,00 (euro), a prática dos atos previstos na alínea d) do artigo anterior.
+
+4 - A prática de condutas que violem as demais disposições do presente regulamento será punida com coima entre 100,00 (euro) e 500,00 (euro).
+
+5 - A coima é agravada para o dobro em caso da infração ser cometida por pessoa coletiva.
+
+###### Artigo 40.º — Direito subsidiário
+
+O processamento das contraordenações previstas neste regulamento e a aplicação das correspondentes sanções estão sujeitos à legislação aplicável e ao regime geral das contraordenações.
+
+### CAPÍTULO VII — Disposições finais
+
+###### Artigo 41.º — Seguro e responsabilidade civil
+
+1 - A segurança das instalações e equipamentos é da responsabilidade da entidade gestora, obrigando-se esta a estabelecer os devidos contratos de seguro de responsabilidade civil.
+
+2 - A segurança dos utilizadores é da responsabilidade dos mesmos ou do promotor de eventos.
+
+3 - Respeitar os direitos de terceiros, nomeadamente, direitos de autor e propriedade industrial, bem como, obter todas as licenças necessárias à realização do evento.
+
+4 - Os utilizadores do Multiusos são civilmente responsáveis pelos danos causados a pessoas, materiais e equipamentos, quando estes resultem da incorreta utilização dos mesmos ou conduta imprópria.
+
+5 - Quando se verificar um acidente que decorra da falta de condições de segurança dos equipamentos, a responsabilidade é da entidade gestora da instalação.
+
+6 - Nos casos de acidentes resultantes da utilização indevida da instalação e ou dos equipamentos, ou fora da supervisão técnica da Câmara Municipal, a responsabilidade será atribuída ao utilizador.
+
+7 - No caso das iniciativas realizadas pelo promotor de eventos, os seguros de acidentes pessoais para os participantes serão da responsabilidade do mesmo.
+
+###### Artigo 42.º — Normas de segurança
+
+1 - O Multiusos dispõe de medidas de autoproteção para as várias áreas, as quais se encontram disponíveis no local.
+
+2 - As saídas de emergência terão de permanecer sempre livres e totalmente desimpedidas.
+
+3 - O utilizador obriga-se a respeitar as regras de segurança do Multiusos, assim como o seu pessoal, cabendo-lhes zelar pelo bom funcionamento do evento, bem como dar apoio sempre que surja alguma situação excecional.
+
+4 - Aos técnicos do Município reserva-se o direito de expulsar das instalações qualquer pessoa que desrespeite a ordem e tranquilidade pública no interior das instalações e ou não acate as instruções dadas pelos mesmos.
+
+###### Artigo 43.º — Aplicação
+
+Compete aos trabalhadores, professores, treinadores, diretores desportivos, promotor de eventos e restantes utilizadores, zelarem pela observância das normas deste regulamento e demais aplicáveis.
+
+###### Artigo 44.º — Revisão
+
+As presentes normas de funcionamento e utilização poderão ser revistas anualmente após a sua entrada em vigor por deliberação do executivo municipal.
+
+###### Artigo 45.º — Dúvidas e omissões
+
+Compete à Câmara Municipal de Tábua analisar e decidir sobre todos os casos omissos ou em dúvida constantes do presente regulamento.
+
+###### Artigo 46.º — Entrada em vigor
+
+O presente regulamento entra em vigor quinze dias após a sua publicitação no Diário da República.
+
+## ANEXO I — Taxas
+
+1 - Taxa de utilização do Multiusos: Espaço Multifuncional (sem piso amovível), hall de entrada, balneários e sanitários, por dia: 400,00 (euro).
+
+1.1 - Taxas a acumular com as do número anterior:
+
+a) Utilização do piso superior do Multiusos, por cada dia: 75,00 (euro);
+
+b) Utilização de bancadas, por cada fração e por cada dia: 50,00 (euro);
+
+c) Utilização de salas polivalentes, salas de apoio ou análogas, por cada dia: 25,00 (euro).
+
+1.2 - Prolongamento do horário solicitado:
+
+a) Por cada hora adicional até às 24 horas: 50,00 (euro);
+
+b) Por cada hora adicional entre as 0 horas e as 8 horas: 75,00 (euro).
+
+1.3 - Uso de climatização, por hora: 50,00 (euro).
+
+1.4 - Limpeza do espaço disponibilizado, por cada hora: 12,50 (euro).
+
+1.5 - Instalação de serviços por parte de técnicos do Município, por serviço: 50,00 (euro).
+
+2 - Taxa de utilização do Multiusos (evento desportivo): Espaço Multifuncional com piso amovível desportivo, hall de entrada, balneários e sanitários, por dia: 400,00 (euro).
+
+2.1 - Taxas a acumular com as do número anterior:
+
+a) Utilização do piso superior do Multiusos, por cada dia: 75,00 (euro);
+
+b) Utilização de bancadas, por cada fração e por cada dia: 50,00 (euro);
+
+c) Utilização de salas polivalentes, salas de apoio ou análogas, por cada dia: 25,00 (euro).
+
+2.2 - Prolongamento do horário solicitado:
+
+a). Por cada hora adicional até às 24 horas: 50,00 (euro);
+
+b) Por cada hora adicional entre as 0 horas e as 8 horas: 75,00 (euro).
+
+2.3 - Uso de climatização, por hora: 50,00 (euro).
+
+2.4 - Limpeza do espaço disponibilizado, por cada hora: 12,50 (euro).
+
+2.5 - Instalação de serviços por parte de técnicos do Município, por serviço: 50,00 (euro).
+
+3 - Taxa de utilização do Multiusos: Espaço Multifuncional com piso amovível desportivo, hall de entrada, balneários e sanitários, por hora:
+
+a) Competições Desportivas Regulares - 30,00 (euro);
+
+b) Competições Desportivas Ocasionais - 40,00 (euro);
+
+c) Prática/Treinos Desportivos Regulares - 15,00 (euro);
+
+d) Prática/Treinos Desportivos Ocasionais - 20,00 (euro).
+
+3.1 - Taxas a acumular com as do número anterior:
+
+a) Utilização do piso superior do Multiusos, por cada hora: 10,00 (euro);
+
+b) Utilização de bancadas, por cada fração e por cada hora: 10,00 (euro);
+
+c) Utilização de salas polivalentes, salas de apoio ou análogas, por cada hora: 10,00 (euro).
+
+3.2 - Uso de climatização, por hora: 50,00 (euro).
+
+3.3 - Limpeza do espaço disponibilizado, por cada hora: 12,50 (euro).
+
+3.4 - Instalação de serviços por parte de técnicos do Município, por serviço: 50,00 (euro).
+
+4 - Nas taxas previstas nos pontos anteriores, acresce ao valor definido uma taxa de 100 %, nos casos em que esteja prevista a venda de ingressos.
+
+## ANEXO II — Ficha de inscrição
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/09/169000000/2293422939.pdf)
+
+9 de julho de 2014. - O Presidente da Câmara Municipal, Mário de Almeida Loureiro.
+
+307997515

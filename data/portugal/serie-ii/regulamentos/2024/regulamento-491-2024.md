@@ -1,0 +1,5024 @@
+---
+schema_version: '1.0'
+id: pt:dre:863399935:por
+title: Regulamento n.º 491/2024
+short_title: null
+summary: Alteração ao Regulamento de Organização dos Serviços Municipais, Estrutura e Competências.
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Mafra
+proposing_entity: null
+official_number: 491/2024
+official_date: null
+publication_date: '2024-05-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 85/2024, Série II de 2024-05-02
+  number: '85'
+  series: II
+  supplement: null
+  pages: 328 - 433
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/05/085000000/0032800433.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '863399935'
+  dre_path: /dr/detalhe/regulamento/491-2024-863399935
+  internal: pt:dre:863399935:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/491-2024-863399935
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/491-2024-863399935
+  consolidated_url: null
+  retrieved_at: '2026-11-13T07:58:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0da153330a4c46a8ed4886222216a8b6d46b3d959ceebba8c352de9798c3cd5b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T07:58:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: celex:32006L0007
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117128623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117128624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121579661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122195230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483152:por
+  label: null
+  source: null
+article_structure:
+  article_count: 129
+  section_count: 42
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T07:58:18Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 491/2024
+
+Alteração ao Regulamento de Organização dos Serviços Municipais, Estrutura e Competências - ROSMEC
+
+Nos termos e para os efeitos do disposto no n.º 6 do artigo 10.º do [Decreto-Lei n.º 305/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-2009-483152), de 23 de outubro, faz-se público que a Câmara Municipal de Mafra, na reunião realizada a 12 de abril de 2024, aprovou a alteração ao Regulamento de Organização dos Serviços Municipais que a seguir se publica. Procede-se também à republicação do texto integral do referido regulamento.
+
+Nota Justificativa
+
+Considerando que o [Decreto-Lei n.º 305/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-2009-483152), de 23 de outubro, estabelece o regime jurídico da organização dos serviços das autarquias locais, nomeadamente no que concerne à determinação da estrutura interna dos serviços, a criação das unidades orgânicas nucleares e flexíveis e a definição das respetivas atribuições e competências;
+
+Considerando os princípios pelos quais o funcionamento dos serviços deve orientar-se, nomeadamente os “princípios da unidade e eficácia da ação, da aproximação dos serviços aos cidadãos, da desburocratização, da racionalização de meios e da eficiência na afetação de recursos públicos, da melhoria quantitativa e qualitativa do serviço prestado e da garantia de participação dos cidadãos, bem como pelos demais princípios constitucionais aplicáveis à atividade”;
+
+Considerando a necessidade de adequar os serviços, às constantes alterações legislativas com impacto nos cidadãos, que nos visitam e que residem no concelho, garantido a prestação de serviços com qualidade, eficácia e eficiência, quer seja no domínio da segurança, da mobilidade, da cultura e das demais competências, na esfera atual, do poder local.
+
+Assim, atentos os considerandos supra explanados e visando uma maior operacionalidade dos serviços, racionalização de meios, eficiência na afetação de recursos públicos e uma melhoria quantitativa e qualitativa do serviço prestado, nos termos das disposições conjugadas previstas na alínea a) do artigo 7.º e no artigo 10.º do [Decreto-Lei n.º 305/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-2009-483152), de 23 de outubro, foi aprovado, em 12 de abril de 2024, pela Câmara Municipal, sob proposta do Presidente da Câmara, criar e alterar unidades orgânicas flexíveis e subunidades orgânicas, assim como definir as respetivas atribuições e competências, dentro dos limites fixados pela Assembleia Municipal.
+
+Nos termos estatuídos nas alíneas a), b) e c) do artigo 6.º do referido diploma, foi aprovado pela Assembleia Municipal o modelo de estrutura orgânica, a estrutura nuclear, definindo as correspondentes unidades orgânicas nucleares e fixado o número máximo de unidades orgânicas flexíveis.
+
+###### Artigo 1.º — Alteração
+
+São alterados os artigos 2.º, 13.º, 22.º, 24.º, 29.º, 32.º, 33.º, 34.º, 45.º, 47.º, 49.º, 49.º-A, 49.º-B, 49.º-C, 51.º, 60.º, 60.º-A e 73.º
+
+###### Artigo 2.º — Da Estrutura Organizacional
+
+Os serviços do Município organizam-se internamente de acordo com o modelo de estrutura hierarquizada, previsto na alínea a) do n.º 1 do artigo 9.º e 10.º, ambos do [Decreto-Lei n.º 305/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-2009-483152), de 23 de outubro, sendo constituída por:
+
+1 - Unidades orgânicas nucleares - direções municipais e departamentos municipais, cuja designação e respetivas atribuições são definidas no presente regulamento;
+
+2 - […]:
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […].
+
+###### Artigo 13.º — Unidades Orgânicas Nucleares
+
+O Município de Mafra, para prossecução das atribuições que legalmente lhe cabem, define que a estrutura nuclear dos serviços é composta pelas seguintes unidades orgânicas nucleares:
+
+1 - Direção Municipal de Apoio à Gestão (DMAG);
+
+1.1 - Departamento de Administração Geral (DAG);
+
+1.2 - Departamento Financeiro (DF);
+
+2 - Departamento de Urbanismo e de Planeamento e Gestão Territorial (DUPGT);
+
+3 - Departamento de Desenvolvimento Socioeconómico (DDS);
+
+4 - Departamento de Obras Municipais e Ambiente (DOMA);
+
+5 - Departamento de Educação, Desporto e Juventude (DEDJ);
+
+6 - Serviços Municipalizados de Água e Saneamento (SMAS).
+
+###### Artigo 22.º — Unidades Orgânicas Flexíveis
+
+1 - É fixado em 30 (trinta) o número total de unidades orgânicas flexíveis - Divisões Municipais, constituídas nos termos da alínea a) do artigo 7.º e dos n.os3 e 4 do artigo 10.º do [Decreto-Lei n.º 305/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-2009-483152), de 23 de outubro.
+
+2 - […]
+
+3 - É fixado em 40 (quarenta) o número total de unidades orgânicas flexíveis de 3.º grau, constituídas nos termos do n.º 2 do artigo 4.º da [Lei n.º 49/2012](https://diariodarepublica.pt/dr/detalhe/lei/49-2012-174801), de 29 de agosto.
+
+###### Artigo 24.º — Unidades Flexíveis
+
+São constituídas as seguintes unidades orgânicas na estrutura flexível dos serviços municipais:
+
+1 - Sob a direção direta do Presidente da Câmara Municipal, estão dependentes as seguintes unidades orgânicas:
+
+a) […]
+
+b) […]
+
+c) […]:
+
+i) […]
+
+d) […]
+
+e) Divisão de Segurança e Mobilidade (DSM);
+
+i) Unidade de Segurança (US);
+
+ii) Unidade de Mobilidade (UM).
+
+f) Divisão de Proteção Civil (DPC);
+
+i) Unidade de Planeamento, Sensibilização e Informação (DPSI).
+
+g) Divisão de Comunicação, Relações Internacionais e Protocolo (DCRIP);
+
+i) Unidade de Relações Internacionais e Protocolo (URIP).
+
+2 - […]
+
+a) […]
+
+i) […]
+
+ii) […]
+
+b) […]
+
+i) […]
+
+c) […]
+
+3 - Sob a direção do Departamento de Urbanismo e de Planeamento e Gestão Territorial (DUPGT), estão dependentes as seguintes unidades orgânicas:
+
+a) […]
+
+i) (Revogado.)
+
+ii) […]
+
+b) […]
+
+c) […]
+
+d) Divisão de Informação e Inteligência Territorial (DIIT);
+
+i) Unidade de Informação Geográfica e Cidades Inteligentes (UIGCI).
+
+e) […]
+
+f) Divisão Administrativa e Procedimentos Urbanísticos (DAPU);
+
+4 - Sob a direção do Departamento de Desenvolvimento Socioeconómico (DDS), estão dependentes as seguintes unidades orgânicas:
+
+a) Divisão de Turismo e Desenvolvimento Económico (DTDE);
+
+i) Unidade de Turismo (UT);
+
+ii) (Revogado.)
+
+iii) Unidade de Desenvolvimento Económico e Associativo (UDEA);
+
+iv) (Revogado.)
+
+v) (Revogado.)
+
+vi) (Revogado.)
+
+vii) (Revogado.)
+
+b) […]
+
+i) […]
+
+ii) […]
+
+c) Divisão de Promoção e Património Cultural (DPPC);
+
+i) Unidade de Cultura (UC);
+
+ii) Unidade de Arquivo Municipal e Património Mundial da UNESCO (UAMPMU).
+
+iii) Unidade de Museus e Centros de Interpretação (UMCI);
+
+iv) Unidade de Arqueologia (UA);
+
+v) Unidade Rede Concelhia de Bibliotecas Municipais (URCBM);
+
+vi) Unidade de Edições Municipais (UEM).
+
+5 - […]
+
+a) […]
+
+i) […]
+
+ii) […]
+
+b) […]
+
+c) […]
+
+6 - […]
+
+a) […]
+
+i) […]
+
+ii) […]
+
+b) […]
+
+i) […]
+
+ii) […]
+
+c) […]
+
+i) […]
+
+d) (Revogado.)
+
+e) Divisão de Projetos (DP);
+
+f) […]
+
+7 - […]
+
+a) […]
+
+i) […]
+
+ii) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+i) […]
+
+ii) […]
+
+iii) […]
+
+iv) […]
+
+e) […]
+
+###### Artigo 29.º — Gabinete de Apoio à Presidência
+
+1 - […]
+
+2 - Ao GAP, compete:
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) […]
+
+g) (Revogado.)
+
+###### Artigo 32.º
+
+##### Divisão de Segurança e Mobilidade
+
+À Divisão de Segurança e Mobilidade, adiante designada abreviadamente por DSM, a cargo de um chefe de divisão municipal, compete:
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) (Revogado.)
+
+e) Elaborar e acompanhar a implementação do Plano Municipal de Segurança Rodoviária;
+
+f) (Revogado.)
+
+g) (Revogado.)
+
+1 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) […]
+
+g) […]
+
+h) […]
+
+i) […]
+
+j) […]
+
+k) […]
+
+l) […]
+
+m) […]
+
+n) […]
+
+o) […]
+
+p) […]
+
+q) […]
+
+r) […]
+
+s) […]
+
+t) […]
+
+u) […]
+
+v) […]
+
+w) […]
+
+x) […]
+
+y) […]
+
+z) […]
+
+aa) […]
+
+bb) […]
+
+2 - (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) (Revogado.)
+
+g) (Revogado.)
+
+h) (Revogado.)
+
+i) (Revogado.)
+
+j) (Revogado.)
+
+k) (Revogado.)
+
+l) (Revogado.)
+
+m) (Revogado.)
+
+n) (Revogado.)
+
+o) (Revogado.)
+
+p) (Revogado.)
+
+q) (Revogado.)
+
+###### Artigo 33.º
+
+##### Divisão de Proteção Civil
+
+À Divisão de Proteção Civil e adiante designada abreviadamente por DPC, a cargo de um Coordenador Municipal de Proteção Civil, equiparado a Chefe de Divisão, compete:
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) […]
+
+g) […]
+
+h) […]
+
+i) […]
+
+j) […]
+
+k) […]
+
+l) […]
+
+1 - […]
+
+a) […]
+
+1.1 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+1.2 - (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+1.3 - (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+2 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) […]
+
+g) […]
+
+3 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) […]
+
+g) […]
+
+h) […]
+
+i) […]
+
+j) […]
+
+k) […]
+
+l) […]
+
+i) […]
+
+ii) […]
+
+iii) […]
+
+iv) […]
+
+v) […]
+
+vi) […]
+
+vii) […]
+
+viii) […]
+
+ix) […]
+
+4 - Integra o Heliporto municipal de Mafra;
+
+4.1 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+###### Artigo 34.º
+
+##### Divisão de Comunicação, Relações Internacionais e Protocolo
+
+A Divisão de Comunicação, Relações Internacionais e Protocolo, designada abreviadamente por DCRIP, a cargo de um chefe de divisão municipal, é a estrutura de âmbito transversal que tem por missão promover a imagem do Município de Mafra e dos órgãos municipais, às escalas local, nacional e internacional.
+
+1 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) […]
+
+g) […]
+
+h) […]
+
+i) […]
+
+j) […]
+
+k) […]
+
+l) […]
+
+m) […]
+
+n) […]
+
+o) […]
+
+p) […]
+
+q) […]
+
+r) Coordenar as funções de protocolo nas cerimónias e atos oficiais;
+
+s) Assegurar o envio de convites para participação em eventos da responsabilidade municipal;
+
+t) […]
+
+2 - […]
+
+a) Arquivar, organizar e encaminhar o despacho da correspondência expedida e recebida na DCRIP e na URIP, bem como de informações ou outros documentos que impliquem resposta a terceiros ou encaminhamento interno na Câmara Municipal;
+
+b) Sistematizar toda a informação relativa aos recursos humanos afetos à DCRIP e à URIP, de forma a efetuar o controlo do cumprimento dos diversos deveres e funções atribuídas aos mesmos;
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) […]
+
+g) […]
+
+h) […]
+
+i) […]
+
+j) […]
+
+k) Prestar apoio administrativo a outras atividades de comunicação, relações internacionais e protocolo.
+
+###### Artigo 45.º
+
+##### Divisão de Informação e Inteligência Territorial
+
+À Divisão de Informação e Inteligência Territorial, adiante designada abreviadamente por DIIT, a cargo de um chefe de divisão municipal, compete:
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) Elaborar, junto das unidades orgânicas, o levantamento das necessidades de informação geográfica e de requisitos de aplicações SIG, apoiando o desenvolvimento de projetos que permitam a criação, manutenção e atualização da informação geográfica de forma autónoma, garantindo sempre a coesão da base de dados geográfica central do município;
+
+g) Definir em articulação com as restantes unidades orgânicas, as áreas temáticas prioritárias de desenvolvimento do SIG.
+
+1 - (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) (Revogado.)
+
+g) (Revogado.)
+
+h) (Revogado.)
+
+2 - (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) (Revogado.)
+
+g) (Revogado.)
+
+h) (Revogado.)
+
+i) (Revogado.)
+
+3 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+4 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) […]
+
+g) […]
+
+###### Artigo 47.º
+
+##### Divisão de Turismo e Desenvolvimento Económico
+
+À Divisão de Turismo e Desenvolvimento Económico, adiante designada abreviadamente por DTDE, a cargo de um chefe de divisão municipal, compete:
+
+a) (Revogado.)
+
+b) Promover iniciativas tendentes à promoção e desenvolvimento do Turismo, bem como à atração de investimento e à promoção da economia local;
+
+c) […]
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) […]
+
+g) (Revogado.)
+
+h) (Revogado.)
+
+i) Gerir, dinamizar e promover a certificação de Mafra como Destino Turístico Sustentável;
+
+j) Gerir os postos de turismo municipais de forma integrada com os restantes canais de interação com o turista;
+
+k) Desenvolver eventos de animação dirigidos ao mercado turístico;
+
+l) Dinamizar ações de gestão e salvaguarda da Reserva Mundial de Surf da Ericeira, promovendo parcerias e protocolos com as associações locais, nacionais e internacionais;
+
+m) Fomentar e apoiar o desenvolvimento do movimento associativo, nas suas diversas formas, desportivo, cultural e recreativo, promovendo também atividades que garantam a qualificação e a promoção das atividades dos grupos dessas mesmas entidades;
+
+n) Colaborar e dar apoio próximo às associações e às estruturas da comunidade municipal ligadas aos processos associativos, com vista à concretização de projetos e programas adequados de âmbito local e à melhor utilização e racionalização das infraestruturas e equipamentos locais;
+
+o) Fomentar parcerias com mercados potenciais para promoção do destino Mafra;
+
+p) Promover a organização de eventos tradicionais de interesse para o turismo e, no mesmo âmbito, estimular e apoiar a organização de acontecimentos promovidos por outras entidades que se mostrem adequadas para a valorização ou dignidade da imagem turística do município;
+
+q) Assegurar a articulação e cooperação com os organismos oficiais com intervenção na área do turismo e com as organizações representativas dos agentes económicas do setor;
+
+r) Apoiar a realização de eventos culturais, desportivos, socioprofissionais entre outros no Município, que contribuam para a animação turística local e de forma a consolidar o destino de Mafra nos circuitos turísticos internacionais.
+
+###### Artigo 49.º — Unidade de Cultura
+
+À Unidade de Cultura, adiante designada abreviadamente por UC, a cargo de um dirigente de 3.º grau, compete:
+
+a) […]
+
+b) Promover e organizar ações de investigação, salvaguarda, sensibilização, classificação, divulgação e valorização do património cultural concelhio, nas suas vertentes materiais (património edificado) e imateriais junto de diferentes públicos, podendo assumir diversas formas, como exposições, publicações de artigos, participação em conferências, entre outros;
+
+c) […]
+
+d) Propor e desenvolver estudos com vista ao desenvolvimento de publicações científicas e de divulgação, onde se apresentem os trabalhos desenvolvidos à comunidade científica e local, nas áreas do Património Histórico, Arquitetónico e Artístico;
+
+e) […]
+
+f) Garantir a divulgação do património concelhio, através da promoção de publicações relacionadas com as temáticas locais.
+
+1 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) […]
+
+i) […]
+
+ii) […]
+
+iii) […]
+
+2 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+3 - Na área de Património Histórico, Arquitetónico e Artístico:
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) Estudar, conservar e divulgar o espólio do Mestre Escultor Domingos Soares Branco, do qual a Câmara Municipal é depositária, com o estudo das suas coleções, organização e informatização do inventário, conservação e acondicionamento do seu acervo, realização de exposições, levando a cabo a conservação das suas coleções, mediante o restauro.
+
+4 - (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+5 - Na área de Artes Plásticas:
+
+a) […]
+
+b) Colaborar na realização de atividades desenvolvidas por outros serviços da Câmara Municipal;
+
+c) […]
+
+6 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+7 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) […]
+
+g) […]
+
+###### Artigo 49.º-A — Unidade de Museus e Centros Interpretação
+
+À Unidade de Museus e Centros Interpretação, designada abreviadamente por UMCI, a cargo de um dirigente de 3.º grau, compete:
+
+a) Gerir os acervos museológicos à guarda do Município de Mafra, afetos aos seus museus e centros de interpretação, adotando medidas indicadas para a sua conservação e acondicionamento, organização e informatização do inventário, estudo das coleções, bem como levar a cabo a sua valorização e enriquecimento, mediante o restauro e a aquisição de bens culturais, de forma seletiva e gradual;
+
+b) Gerir os espólios sob tutela do Município de Mafra, designadamente afetos ao Museu Municipal Prof. Raúl de Almeida, Museu Popular Beatriz Costa, Centro de Interpretação da Vila de Mafra (CIVIMafra) e Centro de Interpretação do Barro de Mafra ou outras futuras instalações desse âmbito, levando a cabo as ações enunciadas na alínea anterior;
+
+c) (Revogado.)
+
+d) Apoiar iniciativas culturais que partam do seio da comunidade através da prática científica para que serviço museológico do Município de Mafra vá, ao encontro das comunidades locais (caso de outros núcleos museológicos, entidades associativas e escolares);
+
+e) Levar a cabo iniciativas ligadas ao estudo da cultura local, de modo a promover e organizar ações de investigação, salvaguarda, sensibilização, divulgação e valorização do património cultural imaterial concelhio, numa perspetiva museológica e antropológica, junto de diferentes públicos, nomeadamente, iniciativas diversas, tais como atividades de âmbito etnográfico, exposições, publicações de artigos, participação em conferências, visitas guiadas, entre outros;
+
+f) […]
+
+g) (Revogado.)
+
+i) (Revogado.)
+
+ii) (Revogado.)
+
+iii) (Revogado.)
+
+h) Apoiar a representação do Município de Mafra nas ações relacionadas com a APTCVC ou outras entidades congéneres, bem como participar e colaborar em iniciativas que possam contribuir para promoção e a valorização da cerâmica mafrense:
+
+###### Artigo 49.º-B — Unidade de Arqueologia
+
+À Unidade de Arqueologia, designada abreviadamente por UA, a cargo de um dirigente de 3.º grau, compete:
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) Efetuar acompanhamentos, sondagens e escavações, para investigação, para minimizar os impactos negativos de projetos municipais ou salvar arqueossítios em risco de destruição iminente;
+
+f) […]
+
+g) […]
+
+h) […]
+
+i) Desenvolver estudos com vista à preparação de publicações académicas e de divulgação, promovendo a divulgação dos resultados científicos obtidos através dos trabalhos arqueológicos (quer para pares quer, em linguagem clara e acessível, para o público em geral);
+
+j) […]
+
+k) Implementar projetos educativos (para escolas, família ou público em geral) nas áreas da Arqueologia e História.
+
+l) Gerir e divulgar os Centros de Interpretação das Linhas de Torres (Mafra e Serra do Socorro), assim como todas as obras militares do município (monumentos nacionais ao abrigo do [Decreto n.º 10/2019](https://diariodarepublica.pt/dr/detalhe/decreto/10-2019-121579661)), no âmbito da Rota Histórica das Linhas de Torres - Associação para o Desenvolvimento Turístico e Patrimonial das Linhas de Torres Vedras (RHLT);
+
+m) Gerir e divulgar as ações desenvolvidas no âmbito do projeto intermunicipal “Felicitas Iulia Olisipo - Lisboa Romana”;
+
+n) Colaborar na preparação de propostas de instrumentos de gestão territorial com o estabelecimento de normativo de salvaguarda do património arqueológico em termos municipais.
+
+###### Artigo 49.º-C — Unidade Rede Concelhia de Bibliotecas Municipais
+
+À Unidade Rede Concelhia de Bibliotecas Municipais, designada abreviadamente por URCBM, a cargo de um dirigente de 3.º grau, compete:
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) […]
+
+g) Participar no Serviço de Apoio às Bibliotecas Escolares do Concelho e cooperar com o Gabinete da Rede de Bibliotecas Escolares, promovendo a partilha e colaboração, quer nos procedimentos técnicos, quer nos domínios da animação da leitura;
+
+h) […]
+
+i) […]
+
+j) Coordenar, apoiar e divulgar projetos de promoção do livro e da leitura e de desenvolvimento de competências de literacia, destinadas a diferentes públicos;
+
+k) Gerir as coleções existentes na RBMM, com vista a garantir uma abordagem consistente à manutenção e ao seu desenvolvimento, promovendo a existência de um fundo documental atualizado.
+
+###### Artigo 51.º — Unidade de Arquivo Municipal e Património Mundial UNESCO
+
+À Unidade de Arquivo Municipal e Património Mundial UNESCO, adiante designada abreviadamente por UAMPMU, a cargo de um dirigente de 3.º grau, compete:
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+1 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) […]
+
+g) […]
+
+h) […]
+
+i) […]
+
+j) […]
+
+k) […]
+
+l) […]
+
+m) […]
+
+n) […]
+
+2 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) […]
+
+3 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+###### Artigo 60.º
+
+##### Divisão de Obras Municipais
+
+À Divisão de Obras Municipais, adiante designada abreviadamente por DOM, a cargo de um chefe de divisão municipal, compete:
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) Articular com as diversas Entidades Externas (públicas e privadas) que interagem com obras em curso ou planeadas;
+
+e) […]
+
+f) (Revogado.)
+
+g) […]
+
+h) […]
+
+i) Informar sobre trabalhos solicitados ou a solicitar à empresa municipal Giatul, e acompanhar os respetivos trabalhos;
+
+j) Articular com os SMAS todos os assuntos relacionados com as obras, que interagem com aqueles Serviços;
+
+k) Articular com as Divisões e Unidades Orgânicas de 3.º grau, desta Câmara Municipal, que interagem com os serviços desta Divisão, ao nível de trabalhos em curso ou planeados;
+
+l) […]
+
+m) […]
+
+n) […]
+
+o) […]
+
+p) […]
+
+q) […]
+
+r) […]
+
+1 - Na área de Edifícios e outras Infraestruturas:
+
+a) […]
+
+b) Efetuar o levantamento das necessidades de manutenção dos edifícios e outras infraestruturas municipais, incluindo a elaboração dos elementos necessários a enviar para despacho, a fim de serem efetuadas as respetivas obras, nomeadamente preparação da época balnear, manutenções anuais a efetuar, em especial nos edifícios escolares e desportivos e ainda nas habitações municipais e outras infraestruturas, e a consequente gestão dos recursos financeiros necessários;
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) (Revogado.)
+
+g) (Revogado.)
+
+h) […]
+
+i) (Revogado.)
+
+j) (Revogado.)
+
+k) (Revogado.)
+
+l) (Revogado.)
+
+m) (Revogado.)
+
+n) (Revogado.)
+
+o) (Revogado.)
+
+2 - (Revogado.)
+
+a) (Revogado.)
+
+###### Artigo 60.º-A — Unidade de Procedimentos Concursais
+
+À Unidade de Procedimentos Concursais, adiante designada abreviadamente por UPC, a cargo de um dirigente de 3.º grau, na dependência direta do Chefe de Divisão da DOM, compete:
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) […]
+
+g) […]
+
+h) Colaborar na elaboração nos relatórios preliminares e finais dos procedimentos concursais.
+
+i) […]
+
+###### Artigo 73.º
+
+##### Divisão de Desporto e Juventude
+
+À Divisão de Desporto e Juventude, adiante designada abreviadamente por DDJ, a cargo de um chefe de divisão municipal, compete:
+
+a) […]
+
+b) […]
+
+c) […]
+
+1 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+f) […]
+
+g) […]
+
+h) […]
+
+2 - […]
+
+a) […]
+
+b) […]
+
+c) […]
+
+d) […]
+
+e) […]
+
+3 - Secção de Apoio Administrativo da Divisão de Desporto e Juventude, compete:
+
+a) Desenvolver o processo administrativo, nos termos das orientações explanadas no Regulamento das Instalações Desportivas Municipais e através da aplicação informática utilizada para a gestão de recursos e instalações desportivas;
+
+b) Desenvolver o processo administrativo dos programas desenvolvidos pela Unidade de Juventude;
+
+c) Proceder ao controlo mensal de pagamentos em atraso, procedendo à notificação dos utentes com dívida ativa, quer nas Unidades afetas ao Desporto, quer na Unidade de Juventude;
+
+d) Preparar a emissão de certidões de dívida;
+
+e) Zelar pelo pleno funcionamento administrativo dos postos de atendimento do desporto;
+
+f) Prestar o apoio administrativo necessário a toda a DDJ;
+
+g) Providenciar que todos os postos de cobrança do desporto procedam à entrega atempada da receita cobrada.
+
+###### Artigo 2.º — Aditamento
+
+São aditados os artigos 13.º-A, 32.º-A, 32.º B, 33.º-A, 34.º-A, 45.º-A, 46.º-A, 54.º-A, 54.º-B, 66.º-A.
+
+###### Artigo 13.º-A — Atribuições e Competências da Direção Municipal de Apoio à Gestão
+
+A Direção Municipal de Apoio à Gestão compreende as unidades orgânicas nucleares referidas no artigo anterior, competindo-lhe a supervisão e coordenação das mesmas e das subunidades flexíveis que estas abarcam, nos termos definidos pelo Presidente da Câmara ou Vereador com competência delegada ou subdelegada para o efeito.
+
+###### Artigo 32.º-A — Unidade de Segurança
+
+À Unidade de Segurança, adiante abreviadamente por US, a cargo de um dirigente de 3.º grau, compete:
+
+a) Assegurar a elaboração de Planos de Segurança das Instalações dos Edifícios Municipais e eventos promovidos pelos serviços da Autarquia (Medidas de Autoproteção);
+
+b) Apoiar os delegados de segurança, responsáveis de cada edifício, na implementação dos planos de segurança das respetivas instalações Municipais;
+
+c) Apoiar a implementação dos planos de segurança nos eventos promovidos pelos serviços da Autarquia;
+
+d) Assegurar as condições de segurança das instalações municipais, através da operacionalização e manutenção dos alarmes de incêndio, de intrusão e dos sistemas de vídeo vigilância;
+
+e) Assegurar a operacionalização e manutenção dos meios de combate a incêndio e da sinalética de segurança, nas instalações municipais;
+
+f) Coordenar os serviços de segurança privada afetos aos edifícios municipais e aos eventos promovidos pelos serviços da Autarquia;
+
+g) Preparar e acompanhar os procedimentos de Contratação Pública, para a prestação de serviços ou aquisição de equipamentos/materiais;
+
+h) Apoiar tecnicamente os projetos e as obras da Autarquia no que respeita às matérias relacionadas com a segurança.
+
+###### Artigo 32.º-B — Unidade de Mobilidade
+
+À Unidade de Mobilidade, adiante abreviadamente por UM, a cargo de um dirigente de 3.º grau, compete
+
+a) Promover a elaboração de estudos e projetos de tráfego, sinalização rodoviária e estacionamentos;
+
+b) Promover a submissão de candidaturas aos diversos programas existentes no domínio da Mobilidade, Tráfego e Segurança Rodoviária;
+
+c) Elaborar e manter o cadastro de toda a sinalização viária do Município;
+
+d) Promover e controlar a implementação de sinalização da via pública, incluindo a sua reparação ou substituição;
+
+e) Implementar as normas decorrentes das posturas de trânsito e deliberações e decisões em matéria de ordenamento de trânsito;
+
+f) Emitir pareceres no âmbito da elaboração dos diversos projetos;
+
+g) Emitir os necessários pareceres sobre o ordenamento de trânsito e sinalização no âmbito dos processos de licenciamento de operações de loteamento bem como de outras operações urbanísticas, sempre que tal se justifique;
+
+h) Preparar e acompanhar os procedimentos de Contratação Pública, para a prestação de serviços ou aquisição de equipamentos/materiais
+
+i) Assegurar a gestão e funcionamento dos parques de estacionamento de duração limitada e dos respetivos equipamentos;
+
+j) Promover e acompanhar a colocação de equipamento semafórico, assegurando a sua gestão e funcionamento;
+
+k) Informar sobre a colocação de abrigos de passageiros em paragens de transportes públicos;
+
+l) Emitir pareceres sobre a realização de eventos de natureza cultural, desportiva ou outra, que envolvam cortes ou condicionamentos de trânsito;
+
+m) Colaborar com outras Unidades Orgânicas na alteração ou realização de Regulamentos Municipais, que envolvam matérias relacionadas com a mobilidade;
+
+n) Colaborar nas ações necessárias no âmbito do desenvolvimento da rede de transportes públicos, em articulação com a empresa de Transportes Metropolitanos de Lisboa - TML.
+
+###### Artigo 33.º-A — Unidade de Planeamento, Sensibilização e Informação
+
+À Unidade de Planeamento, Sensibilização e Informação, adiante abreviadamente por UPSI, a cargo de um dirigente de 3.º grau, compete:
+
+1 - Nos domínios do planeamento e apoio às operações:
+
+a) Elaborar planos prévios de intervenção de âmbito municipal;
+
+b) Preparar e executar exercícios e simulacros que contribuam para uma atuação eficaz de todas as entidades intervenientes nas ações de proteção civil;
+
+c) Manter informação atualizada sobre acidentes graves e catástrofes ocorridos no Município, bem como sobre elementos relativos às condições de ocorrência e à respetiva resposta;
+
+d) Realizar ações de sensibilização para questões de segurança, preparando e organizando as populações face aos riscos e cenários previsíveis;
+
+e) Fomentar o voluntariado em proteção civil.
+
+2 - Nos domínios da sensibilização e informação pública:
+
+a) Realizar ações de sensibilização e divulgação sobre a atividade de proteção civil;
+
+b) Promover campanhas de informação junto dos munícipes sobre medidas preventivas e condutas de autoproteção face aos riscos existentes e cenários previsíveis;
+
+c) Difundir, na iminência ou ocorrência de acidentes graves ou catástrofes, as orientações e procedimentos a ter pela população para fazer face à situação.
+
+###### Artigo 34.º-A — Unidade de Relações Internacionais e Protocolo
+
+À Unidade de Relações Internacionais e Protocolo, adiante abreviadamente por URIP, a cargo de um dirigente de 3.º grau, compete:
+
+a) Prestar apoio técnico em matéria de relações internacionais e de promoção externa do Município;
+
+b) Assegurar a concretização das ações decorrentes dos compromissos assumidos no quadro de acordos de cooperação e de geminação;
+
+c) Contribuir para a projeção do Município através da elaboração e implementação de estratégias que estimulem a participação no processo de construção europeia;
+
+d) Organizar as deslocações oficiais dos eleitos municipais, em articulação com o Gabinete de Apoio à Presidência, bem como a receção e estadia de convidados oficiais do Município;
+
+e) Assegurar as funções de protocolo nas cerimónias e atos oficiais, em articulação com os respetivos serviços municipais;
+
+f) Gerir a base de dados de contactos institucionais para efeitos de envio de convites para participação em eventos da responsabilidade municipal;
+
+g) Monitorizar, em eventos que careçam de procedimento protocolar, o envio de correspondência oficial, particularmente convites, incluindo a gestão de confirmações de presença;
+
+h) Garantir a adequada representação institucional e da imagem do Município em eventos por este organizados ou em que este participe.
+
+###### Artigo 45.º-A — Unidade de Informação Geográfica e Cidades Inteligentes
+
+À Unidade de Informação Geográfica e Cidades Inteligentes, adiante designada abreviadamente por UIGCI, a cargo de um dirigente de 3.º grau, na dependência direta do chefe divisão da DIIT, compete:
+
+1 - Na Área de Inteligência Territorial e Cidades Inteligentes:
+
+a) Colaborar na elaboração de estudos de planeamento e ordenamento de território, estudos cadastrais e de sistemas de informação geográfica;
+
+b) Colaborar em estudos na área da dinâmica do território, no âmbito das várias áreas do município, sempre que se verifique a necessidade por parte dos diversos serviços;
+
+c) Colaborar em estudos ou planos específicos de desenvolvimento e de impacto estratégico ou estruturante, com vista ao desenvolvimento sustentável do município;
+
+d) Promover a partilha de boas práticas, informações, metodologias, formação, processos e tecnologias na área de um território inteligente e sustentável;
+
+e) Recolher e disponibilizar indicadores de gestão que sejam relevantes ao desenvolvimento de um território inteligente, desenvolvendo plataformas específicas de disponibilização da informação;
+
+f) Proceder à pesquisa, recolha e disponibilização de dados abertos com vista à promoção do desenvolvimento económico e social de um território inteligente;
+
+g) Promover, em colaboração com outras unidades orgânicas, a elaboração de um plano estratégico de cidades inteligentes, incluindo a definição de missão, visão e eixos estratégicos de atuação que o município deva adotar como território gerido de forma inteligente;
+
+h) Procurar, em colaboração com as diversas unidades orgânicas, soluções inovadoras de cidades inteligentes, analisando a sua aplicabilidade no município.
+
+2 - Na Área de Gestão do Sistema de Informação Geográfica:
+
+a) Assegurar a gestão dos portais geográficos do município, promovendo a sua evolução com o intuito de facilitar a interação de todos os utilizadores com o sistema;
+
+b) Garantir a organização, gestão, manutenção e atualização Infraestrutura de Dados Espaciais (IDE) do Município, em colaboração com os restantes serviços;
+
+c) Promover ações de formação ou sessões de esclarecimento aos utilizadores dos serviços, na sua área de competências;
+
+d) Assegurar o apoio a todos os serviços na utilização da informação geográfica, seja através da utilização do portal geográfico ou na criação de projetos específicos, promovendo a atualização da informação geográfica, considerando a base de dados geográfica central disponível a todos os utilizadores internos;
+
+e) Colaborar com as demais unidades orgânicas na definição dos aplicativos e tecnologias a implementar, no âmbito das suas competências com vista à desburocratização administrativa;
+
+f) Responder a todas as solicitações externas ou de serviços internos, relativas a informação geográfica, quer sejam mapas específicos, análise de informação, execução de bases de dados, ou criação de plataformas específicas (sites ou dashboards) com o intuito de resolução de problemas vários e com variados objetivos;
+
+g) Promover a integração de serviços de dados geográficos externos, através de WebServices, que permitam a consulta de informação externa, em tempo real.
+
+###### Artigo 46.º-A
+
+##### Divisão Administrativa e Procedimentos Urbanísticos
+
+À Divisão Administrativa de Procedimentos Urbanísticos, adiante designada abreviadamente por DAPU, a cargo de um dirigente de 2.º grau, compete a gestão e tramitação dos procedimentos de controlo prévio e sucessivo da realização de operações urbanísticas de loteamento, de urbanização, de edificação, utilização dos edifícios e/ou do solo, bem como de outros pedidos conexos, designadamente:
+
+1 - Na área Administrativa de Gestão de Procedimentos:
+
+a) Assegurar o apoio administrativo e logístico necessário ao normal desenvolvimento da tramitação dos procedimentos urbanísticos, ao nível da instrução, desenvolvimento de todo o procedimento e notificações, zelando pelo cumprimento dos prazos legalmente definidos;
+
+b) Organizar e gerir a receção dos requerimentos, comunicações e outros pedidos, nomeadamente os que são submetidos através da plataforma eletrónica;
+
+c) Conduzir o processo de saneamento e apreciação liminar e, quando se justifique, de rejeição do pedido, nos termos da lei, em articulação com a Divisão de Gestão Urbanística e Divisão de Informação e Inteligência Territorial;
+
+d) Promover a consulta às entidades que, nos termos da lei, devam emitir parecer, autorização ou aprovação sobre os pedidos;
+
+e) Analisar e prestar informação sobre a tramitação do procedimento, remeter o processo para decisão superior e dar andamento aos despachos que incidam sobre os mesmos;
+
+f) Elaborar, a pedido dos interessados, informações sobre o estado e andamento dos processos que lhes digam diretamente respeito;
+
+g) Promover a racionalização e agilização de procedimentos definindo um modelo de atendimento, tratamento de sugestões e reclamações relativos aos processos de urbanização e edificação;
+
+h) Assegurar todas as funções de natureza administrativa da área da gestão urbanística, designadamente as relativas à organização e encaminhamento dos pedidos de licenciamento, comunicações prévias, utilização, à elaboração e expedição de ofícios e ao agendamento de vistorias;
+
+i) Proceder à aplicação e liquidação das taxas que forem devidas pelos serviços prestados;
+
+j) Proceder à emissão dos títulos e certidões inerentes às operações urbanísticas;
+
+k) Proceder ao depósito das fichas técnicas da habitação;
+
+l) Emitir e fornecer certidões e cópias autenticadas dos projetos e outros documentos que integram os processos de urbanismo e certificar factos e atos do âmbito de procedimentos urbanísticos;
+
+m) Promover a melhoria dos serviços de atendimento ao público, através da implementação de processos, de técnicas e de aplicações informáticas adequadas;
+
+n) Garantir a gestão da plataforma tecnológica na área do urbanismo, de modo a implementar a total desmaterialização da circulação de todos os procedimentos associados à gestão urbanística do concelho, bem como à melhoria do acesso dos interessados aos respetivos processos em curso;
+
+o) Promover a simplificação dos procedimentos urbanísticos, em observância das normas legais e regulamentares vigentes, propondo práticas que permitam obter ganhos de eficiência na análise dos procedimentos e rapidez na decisão.
+
+###### Artigo 54.º-A
+
+##### Divisão de Promoção e Património Cultural
+
+À Divisão de Promoção e Património Cultural, adiante designada abreviadamente por DPPC, a cargo de um chefe de divisão municipal, compete:
+
+a) A preparação, execução e avaliação dos meios, programas e medidas municipais referentes às áreas de promoção cultural, bibliotecas, museus, centros de interpretação, arquivos e património cultural;
+
+b) Assegurar o desenvolvimento sociocultural do concelho, garantindo uma oferta cultural diversificada, numa perspetiva de qualificação das pessoas e desenvolvimento sustentável do concelho;
+
+c) Promover a gestão, o estudo, a salvaguarda e a conservação do património cultural local;
+
+d) Promover atividades, no âmbito da valorização e divulgação do património histórico-cultural e do património arqueológico local e regional;
+
+e) Apoiar a recuperação e valorização das atividades artesanais e das manifestações etnográficas de interesse local;
+
+f) Assegurar a salvaguarda do património cultural arquitetónico e arqueológico;
+
+g) Assegurar o acompanhamento da realização de obras no Município suscetíveis de colocar em causa vestígios arqueológicos;
+
+h) Promover o restauro e conservação preventiva do acervo museológico;
+
+i) Garantir a gestão dos arquivos municipais promovendo a sua preservação como instrumento de cidadania e de valorização do património e identidade municipal;
+
+j) Desenvolver e gerir a rede de bibliotecas municipais, promovendo o acesso à informação e conhecimento, bem como o livro e a leitura;
+
+k) Gerir as Galerias Municipais e outros espaços culturais através da programação, organização e realização de exposições, apoiando os artistas e divulgando as artes plásticas em geral;
+
+l) Promover o desenvolvimento de uma política editorial que assegure a preservação e difusão da memória e identidade municipais;
+
+m) Assegurar a edição regular de edições de caráter científico ou genérico;
+
+n) Estabelecer parcerias com instituições académicas favorecendo a interligação entre o ensino superior e a criação artística;
+
+o) Promover e apoiar medidas e ações tendentes à preservação dos valores culturais do Concelho;
+
+p) Promover e incentivar a difusão e criação da Cultura nas suas variadas manifestações.
+
+###### Artigo 54.º-B — Unidade de Edições Municipais
+
+À Unidade de Edições Municipais, adiante designada abreviadamente por UEM, a cargo de um dirigente de 3.º grau, compete:
+
+a) Coordenar e assegurar a edição de publicações relacionadas com as temáticas locais, com o intuito de divulgar o património cultural imóvel e imaterial do Concelho;
+
+b) Assegurar a edição regular de edições de caráter científico ou genérico;
+
+c) Propor e desenvolver estudos com vista ao desenvolvimento de publicações científicas e de divulgação, onde se apresentem os trabalhos desenvolvidos à comunidade científica e local;
+
+d) Colaborar na cooperação internacional com as autarquias geminadas, assegurando a divulgação do património cultural móvel, imóvel e imaterial no estrangeiro, designadamente através da realização de exposições, da difusão de publicações municipais e da realização de encontros ou conferências;
+
+e) Promover a publicação e o apoio à publicação de obras ou outros suportes de difusão dos valores culturais do município;
+
+f) Assegurar a gestão e controlo de stocks de edições produzidas ou patrocinadas pelo Município, bem como a respetiva reserva;
+
+g) Promover projetos e/ ou protocolos editoriais, com vista à dinamização das edições municipais ao nível regional, nacional e internacional.
+
+###### Artigo 66.º-A
+
+##### Divisão de Projetos
+
+À Divisão de Projetos, adiante designada abreviadamente por DP, a cargo de um chefe de divisão municipal, compete:
+
+a) Executar os projetos de que seja incumbida pela Câmara Municipal;
+
+b) Dar apoio técnico às obras em curso, quando solicitado;
+
+c) Efetuar o levantamento arquitetónico e das especialidades nos edifícios existentes ou noutras infraestruturas municipais;
+
+d) Articular com as várias entidades públicas ou privadas que interajam com os projetos em curso;
+
+e) Coordenar a execução dos projetos a serem executados interna e externamente;
+
+f) Compatibilizar os projetos de execução de arquitetura com os projetos das especialidades;
+
+g) Coordenar o trabalho do medidor orçamentista, integrando a arquitetura e todas especialidades;
+
+h) Fornecer ao SIG todos os elementos necessários, de forma a manter o SIG atualizado;
+
+i) Implementar em todos os novos projetos a acessibilidade para pessoas com mobilidade reduzida.
+
+###### Artigo 3.º — Revogação
+
+São revogados os artigos 41.º (Unidade Administrativa de Operações Urbanísticas) e 61.º (Unidade de Projetos).
+
+Regulamento de Organização dos Serviços Municipais, Estrutura e Competências - ROSMEC
+
+### CAPÍTULO I — ÂMBITO, OBJETIVOS, PRINCÍPIOS E NORMAS DE ATUAÇÃO DOS SERVIÇOS MUNICIPAIS
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente Regulamento define os objetivos, a organização e os níveis de atuação dos serviços da Câmara Municipal de Mafra, bem como os princípios que os regem, e estabelece os níveis de hierarquia que articulam aqueles serviços municipais e o respetivo funcionamento.
+
+O presente Regulamento aplica-se a todos os serviços da Câmara Municipal.
+
+###### Artigo 2.º — Da Estrutura Organizacional
+
+Os serviços do Município organizam-se internamente de acordo com o modelo de estrutura hierarquizada, previsto na alínea a) do n.º 1 do artigo 9.º e 10.º, ambos do [Decreto-Lei n.º 305/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-2009-483152), de 23 de outubro, sendo constituída por:
+
+1 - Unidades orgânicas nucleares - direções municipais e departamentos municipais, cuja designação e respetivas atribuições são definidas no presente regulamento;
+
+2 - Unidades orgânicas flexíveis, cuja designação e respetivas atribuições são definidas no presente regulamento:
+
+a) Divisões Municipais;
+
+b) Unidades de 3.º Grau;
+
+c) Gabinetes, sem equiparação a cargo dirigente, cuja designação e respetivas atribuições são definidas no presente regulamento;
+
+d) Quando estejam predominantemente em causa funções de natureza executiva, podem ser criadas, no âmbito das unidades orgânicas flexíveis, subunidades orgânicas (Secções, Serviços, Áreas e Núcleos), coordenadas por um coordenador técnico, por despacho do Presidente da Câmara, tendo em conta os limites fixados no presente regulamento.
+
+###### Artigo 3.º — Objetivos fundamentais
+
+No desempenho das funções em que ficam investidos por força deste Regulamento e daquelas que, posteriormente, lhes forem atribuídas, os serviços municipais devem subordinar-se, designadamente, aos seguintes objetivos:
+
+a) Prossecução eficiente das diretrizes definidas pelos órgãos municipais, designadamente as constantes nos planos de atividades ou instrumentos previsionais em vigor;
+
+b) Otimização dos índices, quantitativos e qualificativos, da prestação de serviços às populações, por forma a assegurar a defesa dos seus legítimos direitos e a satisfação das suas necessidades e aspirações daquelas;
+
+c) Prossecução do interesse público, no respeito pelos direitos dos cidadãos, observando-se os princípios da eficiência, desburocratização e da administração aberta, permitindo e incentivando a participação dos cidadãos;
+
+d) Utilização racional, eficiente e eficaz dos recursos disponíveis;
+
+e) A dignificação pessoal e valorização profissional, bem como a responsabilização dos seus trabalhadores;
+
+f) A dinamização e procura da participação organizada do cidadão e dos agentes socioeconómicos do Município nos processos de tomada de decisão e nas atividades municipais;
+
+g) Aumento do prestígio e dignificação da administração local.
+
+###### Artigo 4.º — Princípios gerais de gestão dos serviços
+
+No desempenho das suas atribuições e competências, os serviços municipais funcionarão subordinados aos seguintes princípios:
+
+1 - Eficácia;
+
+2 - Planeamento;
+
+3 - Coordenação e cooperação;
+
+4 - Controlo e responsabilização;
+
+5 - Qualidade, inovação e modernização;
+
+6 - Gestão por objetivos.
+
+###### Artigo 5.º — Princípio da Eficácia
+
+A administração municipal organizar-se-á para que a aplicação dos meios disponíveis à prossecução do interesse público municipal seja efetuada de acordo com modelos de racionalidade de gestão.
+
+###### Artigo 6.º — Princípio do Planeamento
+
+1 - A ação dos serviços municipais será referenciada ao planeamento geral e este, por sua vez, à planificação estratégica, todos definidos pelos órgãos autárquicos em conformidade com a legislação em vigor.
+
+2 - Na elaboração dos instrumentos de planeamento e programação devem colaborar todos os serviços municipais, promovendo a recolha e registo de toda a informação que permita não só uma melhor definição de prioridades das ações, bem como uma adequada realização física e financeira.
+
+3 - Para além do controlo exercido pela direção política do Município, os serviços deverão criar os seus próprios mecanismos de acompanhamento da execução do plano, elaborando relatórios anuais sobre os níveis de execução atingidos, os resultados das ações concluídas e os bloqueamentos constatados.
+
+4 - São considerados instrumentos de planeamento, programação e controlo, sem prejuízo de outros que venham a ser definidos, os seguintes:
+
+a) Plano Diretor Municipal;
+
+b) Outros Planos Municipais de Ordenamento do Território;
+
+c) Planos anuais ou plurianuais de investimento;
+
+d) Orçamentos anuais ou plurianuais;
+
+e) Relatórios de atividades.
+
+###### Artigo 7.º — Princípio da Coordenação e Cooperação
+
+1 - As atividades dos serviços municipais, especialmente aquelas que se referem à execução dos planos e programas de atividades, serão objeto de coordenação aos diferentes níveis.
+
+2 - A coordenação interdepartamental deverá ser assegurada de modo regular e sistemático, em reuniões de coordenação geral de serviços, a realizar periodicamente, podendo, também, ser decidida a criação de grupos de trabalho, com objetivos definidos e que envolvam a ação conjugada de diferentes departamentos.
+
+3 - A coordenação intersetorial no âmbito de cada departamento deve ser preocupação permanente, cabendo à direção técnico-administrativa dos departamentos, em colaboração com as chefias da divisão, realizar reuniões de trabalho para estudo e discussão de propostas de ações concertadas.
+
+4 - Os responsáveis pelos serviços municipais deverão dar conhecimento das propostas de trabalho à direção política com vista à sua alteração, caso a caso.
+
+###### Artigo 8.º — Princípio do Controlo e da Responsabilização
+
+1 - O controlo deverá assumir-se como uma atividade permanente, consistindo na comparação dos resultados obtidos com os objetivos previamente fixados, no relacionamento dos meios e dos métodos usados com os resultados e na análise dos meios e dos métodos em função dos referidos objetivos.
+
+2 - O controlo, implicando o estabelecimento de uma relação social entre controlador e controlado, deverá constituir uma via de esclarecimento dos serviços municipais e deverá ser levado a cabo por todos os funcionários, servindo a respetiva cadeia hierárquica.
+
+3 - Os dirigentes dos serviços municipais deverão assumir um papel relevante em todo o processo de gestão autárquica, cabendo-lhes responsabilidades técnicas, de gestão e de liderança.
+
+###### Artigo 9.º — Princípio da Qualidade, da Inovação e da Modernização
+
+Os responsáveis pelos serviços deverão promover a qualidade, a inovação e a modernização, através da contínua introdução de soluções que permitam a racionalização, a desburocratização e o aumento da produtividade e que conduzam à elevação da qualidade dos serviços prestados à população.
+
+###### Artigo 10.º — Princípio da Gestão por Objetivos
+
+A gestão por objetivos deverá pautar-se pelo enfoque na definição estratégica de índices de desempenho, bem como nos resultados a atingir, e no uso racional e eficaz dos recursos disponíveis, com base nas orientações definidas nos instrumentos fundamentais do planeamento municipal.
+
+###### Artigo 11.º — Dever de Informação
+
+1 - Os trabalhadores têm o dever de conhecer as decisões e deliberações tomadas pelos órgãos do Município nos assuntos referentes às competências das unidades orgânicas em que se integram.
+
+2 - Aos titulares dos cargos de direção compete instituir as formas mais adequadas de divulgar as deliberações e decisões dos órgãos do Município.
+
+###### Artigo 12.º — Missão
+
+1 - A Câmara Municipal de Mafra tem por missão a prestação do serviço público com excelência, qualidade, eficiência e eficácia, numa ótica de responsabilidade e compromisso com esse mesmo serviço.
+
+2 - No cumprimento desta missão, utiliza critérios de rigor, transparência e integridade, tendo em vista o desenvolvimento do concelho de Mafra e a satisfação dos munícipes, colaboradores e funcionários da Câmara Municipal de Mafra.
+
+3 - Suportada nos valores:
+
+a) O sentido público de serviço à população e aos cidadãos;
+
+b) O respeito absoluto pela legalidade, pela igualdade de tratamento de todos os cidadãos e pelos direitos e interesses destes, protegidos por lei;
+
+c) A transparência, diálogo e participação, expressos numa atitude permanente de interação com as populações;
+
+d) A qualidade, inovação e procura da contínua introdução de soluções inovadoras, capazes de permitir a racionalização e desburocratização, assim como o aumento da produtividade na prestação dos serviços à população;
+
+e) A qualidade de gestão assente em critérios técnicos, humanos, económicos e financeiros eficazes.
+
+### CAPÍTULO II — ENQUADRAMENTO, ESTRUTURA E COMPETÊNCIAS DOS SERVIÇOS
+
+ESTRUTURA NUCLEAR DOS SERVIÇOS DO MUNICÍPIO DE MAFRA
+
+###### Artigo 13.º — Unidades Orgânicas Nucleares
+
+O Município de Mafra, para prossecução das atribuições que legalmente lhe cabem, define que a estrutura nuclear dos serviços é composta pelas seguintes unidades orgânicas nucleares:
+
+1 - Direção Municipal de Apoio à Gestão (DMAG);
+
+1.1 - Departamento de Administração Geral (DAG);
+
+1.2 - Departamento Financeiro (DF);
+
+2 - Departamento de Urbanismo e de Planeamento e Gestão Territorial (DUPGT);
+
+3 - Departamento de Desenvolvimento Socioeconómico (DDS);
+
+4 - Departamento de Obras Municipais e Ambiente (DOMA);
+
+5 - Departamento de Educação, Desporto e Juventude (DEDJ);
+
+6 - Serviços Municipalizados de Água e Saneamento (SMAS).
+
+###### Artigo 14.º — Atribuições e Competências da Direção Municipal de Apoio à Gestão
+
+A Direção Municipal de Apoio à Gestão compreende as unidades orgânicas nucleares referidas no artigo anterior, competindo-lhe a supervisão e coordenação das mesmas e das subunidades flexíveis que estas abarcam, nos termos definidos pelo Presidente da Câmara ou Vereador com competência delegada ou subdelegada para o efeito.
+
+###### Artigo 15.º — Competências comuns das Unidades Orgânicas Nucleares
+
+Constituem competências comuns a todas as Unidades Orgânicas Nucleares:
+
+a) Elaborar e submeter à aprovação da Câmara Municipal os regulamentos, normas e instruções necessários ao exercício da sua atividade;
+
+b) Preparar as propostas a submeter a deliberação da Câmara Municipal e assegurar a sua execução;
+
+c) Garantir a execução dos despachos do Presidente e/ ou Vereadores com competências delegadas;
+
+d) Elaborar o plano de atividades e orçamento do Departamento e respetivas unidades orgânicas, bem como controlar a sua execução com relatórios de acompanhamento periódicos;
+
+e) Produzir os indicadores de gestão necessários à atividade do Departamento e contribuir para a definição dos indicadores operacionais de desempenho que permitam suportar a tomada de decisões e realizar o seu acompanhamento e atualização periódicos;
+
+f) Elaborar estatísticas e informações, nomeadamente as que forem solicitadas pelo executivo ou resultem de imperativo legal;
+
+g) Gerir eficazmente os recursos humanos afetos ao Departamento, controlando a sua produtividade, promovendo a sua formação contínua e verificando o cumprimento das tarefas atribuídas aos mesmos, bem como dos demais deveres definidos por lei;
+
+h) Garantir a aplicação do SIADAP, desenvolvendo objetivos para avaliar, responsabilizar e reconhecer o desempenho dos serviços, dos dirigentes e demais colaboradores, potenciando o trabalho em equipa e a identificação das necessidades de formação e de desenvolvimento;
+
+i) Praticar os atos necessários à cobrança de receitas da Autarquia, designadamente as taxas municipais;
+
+j) Consolidar a implementação do Sistema de Gestão da Qualidade, no âmbito de uma cultura organizacional suportada na melhoria contínua.
+
+k)
+
+###### Artigo 16.º — Departamento de Administração Geral
+
+No exercício da sua atividade compete ao Departamento de Administração Geral:
+
+a) Apoiar o executivo na conceção e implementação de políticas e estratégias;
+
+b) Assegurar a coordenação do expediente e do atendimento ao público pelos serviços municipais e a otimização do registo e circuito interno dos documentos;
+
+c) Promover o bom funcionamento e a eficaz gestão dos serviços do departamento, em prol da administração municipal;
+
+d) Divulgar periodicamente, pelos serviços municipais, a publicação de normas legais e regulamentares, bem como pareceres jurídicos a adotar com caráter vinculativo;
+
+e) Dirigir, de modo integrado, as atividades de natureza jurídica e contenciosa;
+
+f) Apoiar juridicamente os órgãos e serviços municipais;
+
+g) Assegurar a preparação dos atos notariais em que o Município seja parte e apoiar a formalização de contratos, protocolos e outros instrumentos jurídico-administrativos;
+
+h) Assegurar o exercício do patrocínio judiciário do Município e respetivos órgãos;
+
+i) Assegurar o cumprimento das atribuições municipais no âmbito dos processos de execução fiscal;
+
+j) Promover a homogeneização da aplicação das normas legais e regulamentares pelos serviços municipais;
+
+k) Promover a realização de tarefas de controlo metrológico da competência do Município;
+
+l) Assegurar todas as atividades relacionadas com a gestão dos recursos humanos;
+
+m) Garantir a aplicação do sistema integrado de gestão e avaliação de desempenho, contribuindo para a criação de uma cultura de melhoria contínua, baseada na monitorização sistemática do desempenho e orientada para a obtenção de resultados;
+
+n) Assegurar a promoção das atividades relativas à saúde ocupacional e à higiene e segurança dos colaboradores.
+
+###### Artigo 17.º — Departamento de Urbanismo e de Planeamento e Gestão Territorial
+
+No exercício da sua atividade compete ao Departamento de Urbanismo e de Planeamento e Gestão Territorial:
+
+a) Orientar, coordenar e promover os estudos e trabalhos no âmbito do ordenamento do território municipal através da elaboração e da monitorização de instrumentos de gestão territorial;
+
+b) Coordenar as propostas de desenvolvimento urbanístico da iniciativa pública;
+
+c) Proceder à análise das pretensões no domínio dos processos de edificação de obras particulares, no âmbito da realização de operações urbanísticas de loteamento, de urbanização, de edificação, utilização dos edifícios e/ou do solo;
+
+d) Garantir o cumprimento dos regulamentos gerais e municipais, no tocante a operações urbanísticas;
+
+e) Coordenar a elaboração e monitorização do Programa Estratégico Municipal para a Reabilitação Urbana;
+
+f) Articular com os diferentes organismos da Administração Central ou com quaisquer outras entidades que detenham jurisdição no território municipal, no âmbito do ordenamento do território, do planeamento urbano ou da gestão urbanística;
+
+g) Proceder ao acompanhamento do Sistema de Gestão Territorial, com incidência no concelho, através do programa nacional ou dos programas regionais da política do ordenamento do território;
+
+h) Assegurar, através do controlo regular e preventivo, a proteção e defesa do património, do ordenamento territorial e do meio ambiente, no território municipal.
+
+###### Artigo 18.º — Departamento de Desenvolvimento Socioeconómico
+
+No exercício da sua atividade compete ao Departamento de Desenvolvimento Socioeconómico:
+
+a) Promover o desenvolvimento socioeconómico de forma multissetorial e integrada, através do planeamento, coordenação e execução de planos, programas e projetos, nas áreas da ação social, turismo, cultura, economia e associativo, primariamente no concelho de Mafra e, também, com as populações de outras áreas geográficas;
+
+b) Desenvolver e colaborar na elaboração de diagnósticos nas áreas do departamento, que permitam a definição de políticas e a implementação de programas e medidas nas referidas áreas;
+
+c) Cooperar, com outras instituições públicas ou privadas implantadas no concelho, no âmbito da área social, cultura, turismo, bibliotecas e arquivo municipal;
+
+d) Garantir o cumprimento das orientações estratégicas para as áreas de abrangência do departamento, assegurando a concretização da política social do Município, com vista à promoção da qualidade de vida e do bem-estar dos munícipes;
+
+e) Acompanhar a implementação de programas e medidas de apoio ao acesso à habitação condigna, para munícipes em situação vulnerabilidade socioeconómica;
+
+f) Apoiar entidades concelhias com intervenção social local, contribuindo em particular para a otimização de programas e investimentos públicos de interesse para o Concelho;
+
+g) Promover, elaborar e acompanhar estudos, planos e projetos no domínio do planeamento e desenvolvimento de turismo sustentável;
+
+h) Dinamizar ações de gestão e salvaguarda da Reserva Mundial de Surf da Ericeira;
+
+i) Apoiar e acompanhar iniciativas que contribuam para o desenvolvimento e a sustentabilidade de atividades e produtos enraizados na tradição e culturas locais;
+
+j) Elaborar programas funcionais de equipamentos culturais e turísticos;
+
+k) Promover a articulação com as estruturas nacionais da UNESCO, no âmbito da gestão e monitorização Real Edifício de Mafra, Bem inscrito na Lista de Património Mundial de UNESCO.
+
+###### Artigo 19.º — Departamento Financeiro
+
+No exercício da sua atividade compete ao Departamento Financeiro:
+
+a) Coordenar, planificar e desenvolver, de forma integrada, as atividades que se enquadrem nos domínios da gestão económica, financeira e patrimonial;
+
+b) Coordenar a elaboração dos projetos dos documentos de gestão previsionais e controlar a respetiva execução;
+
+c) Proceder à avaliação das ações planeadas, coordenando a elaboração do projeto de relatório anual de atividades;
+
+d) Coordenar a elaboração e a apresentação dos documentos previsionais e de prestação de contas e do relatório de gestão do Município;
+
+e) Acionar os mecanismos de financiamento público nacionais e comunitários, com vista ao desenvolvimento de projetos de interesse municipal;
+
+f) Adotar procedimentos de controlo que contribuam para assegurar o desenvolvimento das atividades de forma ordenada e eficiente, incluindo a salvaguarda dos ativos, a exatidão e a integridade dos registos contabilísticos e a preparação oportuna de informação financeira fiável;
+
+g) Apurar as despesas e proveitos de todos os centros de custo afetos a todos os Departamentos;
+
+h) Assegurar o funcionamento do sistema de contabilidade, respeitando as considerações técnicas, os princípios e regras contabilísticos;
+
+i) Contribuir para a prevenção e deteção de situações de não conformidade, quer do ponto de vista da legalidade, quer dos métodos e procedimentos definidos pela Câmara, elaborando relatórios sobre a validade e regularidade dos registos contabilísticos;
+
+###### Artigo 20.º — Departamento de Obras Municipais e Ambiente
+
+No exercício da sua atividade compete ao Departamento de Obras Municipais e Ambiente:
+
+a) Promover a execução de projetos de obras municipais, ao nível do edificado, do espaço público, das diversas infraestruturas ou equipamentos;
+
+b) Preparar os processos de contratação pública das empreitadas referentes as diversas obras municipais a executar, quer ao nível do edificado, do espaço público, das diversas infraestruturas ou equipamentos;
+
+c) Proceder a fiscalização de todas as obras desenvolvidas pelo Município;
+
+d) Assegurar a manutenção de infraestruturas, bem como de edifícios da propriedade do Município;
+
+e) Assegurar, a existência de material necessário à execução das obras a cargo da Câmara Municipal, por administração direta;
+
+f) Promover a criação, proteção e gestão de espaços verdes da responsabilidade do Município, bem como a proteção do ambiente.
+
+1 - Área de Topografia:
+
+a) Efetua os trabalhos de topografia necessários ao desenvolvimento da atividade municipal;
+
+b) Coordenar os levantamentos topográficos solicitados externamente;
+
+c) Analisar e informar sobre cedências ao domínio público;
+
+d) Dar apoio às solicitações da Unidade de Gestão do Património;
+
+e) Dar apoio às solicitações do Departamento de Urbanismo Planeamento e Gestão Territorial.
+
+###### Artigo 21.º — Departamento de Educação, Desporto e Juventude
+
+No exercício da sua atividade compete ao Departamento de Educação, Desporto e Juventude:
+
+a) Promover o planeamento, coordenação e execução de planos, programas e projetos, nas áreas da educação, desporto e juventude, primariamente no concelho de Mafra e, também, com as populações de outras áreas geográficas;
+
+b) Desenvolver e colaborar na elaboração de diagnósticos nas áreas do departamento, que permitam a definição de políticas e a implementação de programas e medidas nas referidas áreas;
+
+c) Propor a criação de infraestruturas de apoio à educação, desporto e juventude, sustentando as diversas propostas nos estudos da situação referidos na alínea anterior, bem como em indicadores nacionais e locais de referência;
+
+d) Gerir, eficiente e eficazmente, a utilização e funcionamento das infraestruturas de apoio à educação, desporto e juventude;
+
+e) Cooperar, com outras instituições públicas ou privadas implantadas no concelho, no âmbito da educação, desporto e juventude;
+
+f) Garantir o cumprimento das orientações estratégicas para as áreas de abrangência do departamento, assegurando a concretização da política social do Município, com vista à promoção da qualidade de vida e do bem-estar dos munícipes.
+
+###### Artigo 22.º — Competências comuns aos diretores de departamento
+
+1 - Nos termos do estatuto do pessoal dirigente compete, genericamente, ao diretor de departamento municipal:
+
+a) Definir os objetivos de atuação da unidade orgânica que dirige, tendo em conta as orientações e os objetivos gerais estabelecidos;
+
+b) Orientar, controlar, avaliar o desempenho e a eficiência dos serviços dependentes, com vista à execução dos planos de atividades e à prossecução dos resultados obtidos e a alcançar;
+
+c) Dirigir, garantindo a coordenação das atividades e a qualidade técnica da prestação dos serviços na sua dependência;
+
+d) Propor ao presidente da câmara municipal tudo o que seja do interesse da sua unidade orgânica;
+
+e) Estudar os problemas de que sejam encarregados pelo presidente do órgão executivo e propor as soluções adequadas;
+
+f) Coordenar a elaboração da proposta dos documentos de gestão previsionais do departamento;
+
+g) Gerir com rigor e eficiência os recursos, humanos, tecnológicos e físicos, afetos à sua unidade orgânica, otimizando os meios e adotando medidas que permitam eliminar rotinas, simplificar e acelerar processos e promover a aproximação à sociedade e a outros serviços públicos;
+
+h) Participar na definição e implementação das políticas e programas no âmbito da Gestão da Qualidade e da modernização dos serviços, tendo em vista a melhoria contínua do desempenho dos mesmos, nomeadamente prestando apoio na divulgação e dinamização das ações de melhoria identificadas para as suas unidades orgânicas.
+
+2 - Além das competências genéricas previstas no número anterior e das competências específicas, compete-lhes ainda exercer as demais funções, procedimentos, tarefas ou atribuições que lhes forem cometidos por lei, norma, regulamento, deliberação, despacho ou determinação superiores.
+
+### CAPÍTULO III — ESTRUTURA FLEXÍVEL
+
+###### Artigo 23.º — Unidades Orgânicas Flexíveis
+
+1 - É fixado em 30 (trinta) o número total de unidades orgânicas flexíveis - Divisões Municipais, constituídas nos termos da alínea a) do artigo 7.º e dos n.os3 e 4 do artigo 10.º do [Decreto-Lei n.º 305/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-2009-483152), de 23 de outubro.
+
+2 - Dentro dos limites previstos no número anterior, é autorizada a criação de cinco unidades orgânicas flexíveis não integradas em Departamento.
+
+3 - É fixado em 40 (quarenta) o número total de unidades orgânicas flexíveis de 3.º grau, constituídas nos termos do n.º 2 do artigo 4.º da [Lei n.º 49/2012](https://diariodarepublica.pt/dr/detalhe/lei/49-2012-174801), de 29 de agosto.
+
+###### Artigo 24.º — Subunidades orgânicas
+
+É fixado em 27 (vinte e sete) o número total de subunidades orgânicas, a constituir nos termos do n.º 5 do artigo 10.º do [Decreto-Lei n.º 305/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-2009-483152), de 23 de outubro.
+
+###### Artigo 25.º — Unidades Flexíveis
+
+São constituídas as seguintes unidades orgânicas na estrutura flexível dos serviços municipais:
+
+1 - Sob a direção direta do Presidente da Câmara Municipal, estão dependentes as seguintes unidades orgânicas:
+
+a) Gabinete de Apoio à Presidência (GAP);
+
+b) Unidade de Auditoria Interna e Modernização Administrativa (UAIMA);
+
+c) Divisão de Planeamento Estratégico e Desenvolvimento (DPED);
+
+i) Unidade de Controlo de Fundos Nacionais e Europeus (UCFNE).
+
+d) Divisão de Sistemas de Informação (DSI);
+
+e) Divisão de Segurança e Mobilidade (DSM);
+
+i) Unidade de Segurança (US);
+
+ii) Unidade de Mobilidade (UM).
+
+f) Divisão de Proteção Civil (DPC);
+
+i) Unidade de Planeamento, Sensibilização e Informação (DPSI).
+
+g) Divisão de Comunicação, Relações Internacionais e Protocolo (DCRIP);
+
+i) Unidade de Relações Internacionais e Protocolo (URIP);
+
+2 - Sob a direção do Departamento de Administração Geral (DAG), estão dependentes as seguintes unidades orgânicas:
+
+a) Divisão de Assuntos Jurídicos (DAJ);
+
+i) Unidade de Atendimento ao Cidadão (UAC);
+
+ii) Unidade de Apoio Jurídico (UAJ).
+
+b) Divisão de Recursos Humanos (DRH);
+
+i) Unidade de Formação e Higiene, Segurança e Saúde no Trabalho (UFHSST).
+
+c) Divisão de Atividades Económicas e Licenciamentos Diversos (DAELD).
+
+3 - Sob a direção do Departamento de Urbanismo e de Planeamento e Gestão Territorial (DUPGT), estão dependentes as seguintes unidades orgânicas:
+
+a) Divisão de Gestão Urbanística (DGU);
+
+i) (Revogado.)
+
+ii) Unidade de Gestão Urbanística (UGU)
+
+b) Divisão de Planeamento e Ordenamento do Território (DPOT)
+
+c) Divisão de Reabilitação Urbana (DRU);
+
+d) Divisão de Informação e Inteligência Territorial (DIIT);
+
+i) Unidade de Informação Geográfica e Cidades Inteligentes (UIGCI).
+
+e) Unidade de Fiscalização Técnica e Ordenamento do Território (UFTOT);
+
+f) Divisão Administrativa e Procedimentos Urbanísticos (DAPU);
+
+4 - Sob a direção do Departamento de Desenvolvimento Socioeconómico (DDS), estão dependentes as seguintes unidades orgânicas:
+
+a) Divisão de Turismo e Desenvolvimento Económico (DTDE);
+
+i) Unidade de Turismo (UT);
+
+ii) (Revogado.)
+
+iii) Unidade de Desenvolvimento Económico e Associativo (UDEA);
+
+iv) (Revogado.)
+
+v) (Revogado.)
+
+vi) (Revogado.)
+
+vii) (Revogado.)
+
+b) Divisão de Intervenção Social, Saúde, Emprego e Habitação (DISSEH);
+
+i) Unidade de Desenvolvimento Social (UDS);
+
+ii) Unidade de Intervenção Social (UIS).
+
+c) Divisão de Promoção e Património Cultural (DPPC);
+
+i) Unidade de Cultura (UC);
+
+ii) Unidade de Arquivo Municipal e Património Mundial da UNESCO (UAMPMU).
+
+iii) Unidade de Museus e Centros de Interpretação (UMCI);
+
+iv) Unidade de Arqueologia (UA);
+
+v) Unidade Rede Concelhia de Bibliotecas Municipais (URCBM);
+
+vi) Unidade de Edições Municipais (UEM).
+
+5 - Sob a direção do Departamento Financeiro (DF), estão dependentes as seguintes unidades orgânicas:
+
+a) Divisão de Gestão Financeira (DGF);
+
+i) Unidade de Controlo de Gestão (UCG);
+
+ii) Unidade de Estudos e Planeamento (UEP);
+
+b) Divisão de Contratação Pública e Aprovisionamento (DCPA);
+
+c) Unidade de Gestão do Património (UGP).
+
+6 - Sob a direção do Departamento de Obras Municipais e Ambiente (DOMA) estão dependentes as seguintes unidades orgânicas:
+
+a) Divisão de Obras Municipais (DOM);
+
+i) Unidade de Procedimentos Concursais;
+
+ii) Unidade de Fiscalização de Obras Municipais.
+
+b) Divisão de Ambiente (DA);
+
+i) Unidade de Sustentabilidade Ambiental, Alterações Climáticas, Agricultura e Mar (USAACAM);
+
+ii) Unidade de Espaços Verdes (UEV);
+
+c) Divisão de Energia e Parque e Oficinas (DEPO);
+
+i) Unidade de Gestão de Frota (UGF);
+
+d) (Revogado.)
+
+e) Divisão de Projetos (DP);
+
+f) Núcleo de Apoio Técnico (NAT);
+
+7 - Sob a direção do Departamento de Educação, Desporto e Juventude (DEDJ), estão dependentes as seguintes unidades orgânicas:
+
+a) Divisão de Planeamento, Coordenação e Gestão Educativa (DPCGE);
+
+i) Unidade de Inovação e Administração Educativa (UIAE);
+
+ii) Unidade de Gestão de Refeições Escolares (UGRE);
+
+b) Divisão de Gestão de Recursos da Rede Educativa Mafra Este (DGRREME);
+
+c) Divisão de Gestão de Recursos da Rede Educativa Mafra Oeste (DGRREMO);
+
+d) Divisão de Desporto e Juventude (DDJ)
+
+i) Unidade de Gestão de Instalações Desportivas Municipais de Mafra Centro (UGIDMMC);
+
+ii) Unidade de Gestão de Instalações Desportivas Municipais de Mafra Oeste (UGIDMMO);
+
+iii) Unidade de Gestão de Instalações Desportivas Municipais de Mafra Este (UGIDMME);
+
+iv) Unidade de Juventude.
+
+e) Núcleo de Apoio Técnico (NAT).
+
+###### Artigo 26.º — Competências comuns aos Chefes de Divisão
+
+1 - Nos termos do estatuto do pessoal dirigente compete, genericamente, ao chefe de divisão municipal:
+
+a) Submeter a despacho superior, devidamente instruídos e informados, os assuntos que dependam da sua resolução;
+
+b) Estudar os problemas de que sejam encarregados pelo presidente do órgão executivo ou pelo superior hierárquico e propor as soluções adequadas;
+
+c) Receber e fazer distribuir pelos serviços da unidade orgânica a correspondência a eles referente;
+
+d) Colaborar na elaboração dos instrumentos de gestão previsional e dos relatórios e contas;
+
+e) Promover a execução das decisões do presidente e das deliberações dos órgãos executivos nas matérias que interessam à respetiva unidade orgânica que dirige.
+
+2 - Compete ainda ao chefe de divisão municipal:
+
+a) Definir os objetivos de atuação da unidade orgânica que dirigem, tendo em conta os objetivos gerais estabelecidos;
+
+b) Orientar, controlar e avaliar o desempenho e a eficiência dos serviços dependentes, com vista à execução dos planos de atividades e à prossecução dos resultados obtidos e a alcançar;
+
+c) Garantir a coordenação das atividades e a qualidade técnica da prestação dos serviços na sua dependência;
+
+d) Gerir com rigor e eficiência os recursos humanos, patrimoniais e tecnológicos, afetos à sua unidade orgânica, otimizando os meios e adotando medidas que permitam simplificar e acelerar procedimentos e promover a aproximação à sociedade e a outros serviços públicos;
+
+e) Assegurar a qualidade técnica do trabalho produzido na sua unidade orgânica e garantir o cumprimento dos prazos adequados à eficaz prestação do serviço, tendo em conta a satisfação do interesse dos destinatários;
+
+f) Efetuar o acompanhamento profissional no local de trabalho, apoiando e motivando os trabalhadores e proporcionando-lhes os adequados conhecimentos e aptidões profissionais necessários ao exercício do respetivo posto de trabalho, bem como os procedimentos mais adequados ao incremento da qualidade do serviço a prestar;
+
+g) Divulgar, junto dos trabalhadores, os documentos internos e as normas de procedimento a adotar pelo serviço, bem como debater e esclarecer as ações a desenvolver para o cumprimento dos objetivos do serviço, de forma a garantir o empenho e a assunção de responsabilidades por parte dos trabalhadores;
+
+h) Proceder, de forma objetiva, à avaliação do mérito dos trabalhadores, em função dos resultados individuais e de grupo e à forma como cada um se empenha na prossecução dos objetivos e no espírito de equipa;
+
+i) Identificar as necessidades de formação específica dos trabalhadores da sua unidade orgânica e propor a frequência das ações de formação consideradas adequadas ao suprimento das referidas necessidades, sem prejuízo do direito à autoformação;
+
+j) Proceder ao controlo efetivo da assiduidade, pontualidade e cumprimento do período normal de trabalho por parte dos trabalhadores da sua unidade orgânica;
+
+k) Autorizar a passagem de certidões de documentos arquivados na respetiva unidade orgânica, exceto quando contenham matéria confidencial ou reservada, bem como a restituição de documentos aos interessados.
+
+###### Artigo 27.º — Competências comuns aos Dirigentes de 3.º Grau
+
+1 - Aos Dirigentes Intermédios de 3.º grau, compete, genericamente:
+
+a) Assegurar a qualidade técnica do trabalho produzido na sua unidade orgânica e dos tempos de resposta relativos ao mesmo;
+
+b) Efetuar o acompanhamento profissional no local de trabalho, transmitindo aos funcionários e outros trabalhadores os conhecimentos e aptidões profissionais necessários ao exercício do respetivo posto de trabalho, bem como os procedimentos mais adequados ao incremento da qualidade do serviço a prestar;
+
+c) Divulgar, junto dos funcionários e demais trabalhadores, os documentos internos e as normas de procedimentos a adotar pelo serviço, bem como debater e esclarecer as ações a desenvolver para cumprimento dos objetivos do serviço, de forma a assegurar a assunção de responsabilidades por parte dos funcionários;
+
+d) Proceder, de forma objetiva, à avaliação do mérito dos funcionários, em função dos resultados individuais e de grupo e à forma como cada um se empenha na prossecução dos objetivos e no espírito de equipa;
+
+e) Identificar as necessidades de formação específica dos funcionários e outros trabalhadores da sua unidade orgânica e propor a frequência das ações de formação consideradas adequadas ao suprimento das referidas necessidades;
+
+f) Proceder ao controle efetivo da assiduidade, pontualidade e cumprimento do período normal de trabalho por parte dos funcionários e outros trabalhadores da sua unidade orgânica;
+
+g) Participar na definição e implementação das políticas e dos programas da qualidade e da modernização, tendo em vista a melhoria contínua do desempenho e da qualidade do serviço prestado;
+
+h) Providenciar o controlo efetivo dos bens afetos, nomeadamente, móveis e tecnológicos, bem como assegurar a comunicação de alterações que neles ocorram, nomeadamente, transferências entre serviços, depreciações, furtos entre outros;
+
+i) Manter afixada, em local bem visível, após conferência física, relação de bens municipais afetos (Folha de Carga) devidamente assinada e datada.
+
+2 - Além das competências genéricas previstas no número anterior e das competências específicas, compete-lhes ainda exercer as demais funções, procedimentos, tarefas ou atribuições que lhes forem cometidos por lei, norma, regulamento, deliberação, despacho ou determinações superiores.
+
+###### Artigo 28.º — Competências e funções comuns dos serviços
+
+1 - São competências e funções de todos os serviços municipais, genericamente:
+
+a) Elaborar e submeter a aprovação superior projetos de normas e circulares que julgarem necessárias ao correto exercício das suas funções;
+
+b) Assegurar a correta execução das tarefas dentro dos prazos determinados;
+
+c) Remeter ao arquivo geral, nos prazos regulamentares, os documentos e processos e manter organizados e atualizados os arquivos setoriais;
+
+d) Assegurar a execução das deliberações da Assembleia Municipal e da Câmara Municipal, dos despachos do presidente da Câmara, bem como dos vereadores ou dos dirigentes com poderes para tanto, em matéria dos respetivos serviços;
+
+e) Assegurar a interligação necessária entre os diferentes serviços, bem como a circulação de informação, com vista ao bom funcionamento dos serviços;
+
+f) Observar escrupulosamente a disciplina legal ou regulamentar dos procedimentos administrativos, comuns ou especiais, em que intervenham;
+
+g) Zelar pelo cumprimento dos documentos do Sistema de Gestão da Qualidade, nomeadamente procedimentos e instruções de trabalho;
+
+h) Identificar riscos imanentes às atividades desenvolvidas, propondo medidas a integrar o Plano de Prevenção de Riscos de Gestão, incluindo os de Corrupção e Infrações Conexas, implementar e monitorizar as ações propostas, reportando trimestralmente o estado de execução à equipa multidisciplinar designada para o efeito;
+
+i) Zelar pela salvaguarda, conservação e manutenção dos bens móveis afetos, providenciando a concomitante responsabilização pela sua utilização e respetivo controlo;
+
+j) Zelar pela atualização da informação municipal, a disponibilizar no sítio do Município.
+
+2 - Além das competências genéricas previstas no número anterior e das competências específicas estabelecidas para cada unidade orgânica, compete-lhes ainda exercer as demais funções, procedimentos, tarefas ou atribuições que lhes forem cometidos por lei, norma, regulamento, deliberação, despacho ou determinação superiores.
+
+### CAPÍTULO IV — GABINETE E UNIDADES DE APOIO AO EXECUTIVO
+
+###### Artigo 29.º — Gabinete de Apoio à Presidência
+
+1 - O Gabinete de Apoio à Presidência, designado abreviadamente por GAP, é a estrutura de apoio direto ao Presidente da Câmara no desempenho das suas funções.
+
+2 - Ao GAP, compete:
+
+a) Assegurar a assessoria política, técnica e administrativa ao Presidente da Câmara;
+
+b) Praticar os atos ou formalidades de caráter instrumental necessários ao exercício da competência decisória do Presidente;
+
+c) Promover os contactos com os gabinetes dos Vereadores e com a Assembleia Municipal;
+
+d) Assegurar a representação do Presidente nos atos que este determinar;
+
+e) Assegurar o desenvolvimento das relações institucionais com os órgãos e estruturas do poder central, regional e local e outras entidades públicas e privadas;
+
+f) Preparar contactos exteriores, organizar agenda, marcando as reuniões com entidades externas e com os diversos responsáveis dos serviços municipais, e assegurar a correspondência protocolar;
+
+g) (Revogado.)
+
+###### Artigo 30.º — Unidade de Auditoria Interna e Modernização Administrativa
+
+1 - A Unidade de Auditoria Interna e Modernização Administrativa, designado abreviadamente por UAIMA, é o serviço de assessoria que tem por missão identificar e avaliar as atuais ou potenciais situações de risco e verificar a adequação e a eficácia do sistema de controlo interno instituído pelos órgãos competentes, com vista a assegurar o cumprimento das disposições legais e regulamentares e a prossecução dos objetivos fixados.
+
+2 - À Unidade de Auditoria Interna e Modernização Administrativa compete:
+
+2.1 - Na área de Auditoria:
+
+a) Elaborar a proposta de programa anual de auditorias;
+
+b) Realizar auditorias financeiras e de gestão, auditorias operacionais e de conformidade legal e regulamentar, no âmbito da atividade desenvolvida pelos serviços do Município;
+
+c) Acompanhar ações inspetivas promovidas por entidades da tutela, bem como auditorias financeiras e de gestão externas, nomeadamente, a auditoria às contas da Câmara Municipal, prevista na Lei das Finanças Locais, analisar os respetivos relatórios e propor a aplicação das eventuais medidas preconizadas;
+
+d) Zelar e verificar o cumprimento da aplicação de leis, regulamentos e outras normas vigentes, verificar a suficiência, exatidão e regularidade dos processos de arrecadação de receitas e de realização de despesas e respetivos registos contabilísticos, produzindo recomendações sobre medidas e ações corretivas que se justifiquem;
+
+e) Monitorizar a aplicação da norma de controlo interno e informar sobre o funcionamento dos respetivos procedimentos e das deficiências constatadas;
+
+f) Acompanhar a aplicação do Plano Municipal de Prevenção de Riscos de Gestão, incluindo os Riscos de Corrupção e Infrações Conexas, verificar o seu cumprimento e propor as medidas corretivas que se afigurem adequadas;
+
+g) Elaborar o Manual de Auditoria Interna.
+
+2.2 - Na área da Qualidade:
+
+a) Dinamizar e evidenciar a melhoria contínua e a qualidade dos serviços, bem como a satisfação, fomentando e promovendo a política da qualidade e a proximidade com os clientes (munícipes/ utentes);
+
+b) Promover a atualização e divulgação de toda a documentação inerente ao Sistema de Gestão da Qualidade (SGQ) da autarquia;
+
+c) Salvaguardar a adequabilidade e a eficácia do SGQ, assegurando a conformidade dos procedimentos e instruções de trabalho consistentes com a gestão da mudança;
+
+d) Promover a concretização da política da qualidade assente na racionalização e modernização do funcionamento dos serviços e otimização dos métodos de trabalho, fomentando e melhorando os desempenhos e a desburocratização administrativa;
+
+e) Acompanhar os objetivos do programa de gestão, controlando a sua implementação e reportando os resultados trimestralmente;
+
+f) Acompanhar o tratamento das sugestões de melhoria e das não-conformidades;
+
+g) Apurar o nível global de satisfação do cliente em relatório anual;
+
+h) Identificar temáticas e implementar ações para o envolvimento dos colaboradores no SGQ e o fomento de uma cultura de melhoria contínua;
+
+i) Elaborar anualmente o programa de auditorias da qualidade e garantir a sua execução;
+
+j) Gerir a bolsa de auditores e restantes recursos necessários à execução do programa referido na alínea anterior;
+
+k) Aplicar as ferramentas de medição e melhoria em uso;
+
+l) Representar a Câmara Municipal, junto da entidade certificadora, designadamente nas auditorias de certificação e acompanhamento;
+
+m) Com o objetivo de determinar o grau de cumprimento, promover e dirigir as auditorias internas ao sistema de gestão da qualidade;
+
+n) Reportar os níveis de concretização das atividades do SGQ;
+
+o) Dinamizar as ações de tratamento de não-conformidades e de reclamações de munícipes, apoiando cada serviço em termos de ferramentas e métodos de análise, tratamento e divulgação dos dados recolhidos;
+
+p) Promover iniciativas de divulgação dos conceitos e práticas da qualidade, bem como ações de sensibilização, quer junto do munícipe, quer junto dos colaboradores da Câmara;
+
+q) Preparar e agendar as auditorias externas, com o objetivo de obter a certificação ou o registo de conformidade de acordo com os requisitos da ISO 9001;
+
+r) Monitorizar regularmente o SGQ, garantindo a sua eficácia e adequabilidade aos objetivos e à política da qualidade.
+
+2.3 - Na área da Modernização Administrativa, compete:
+
+a) Prosseguir a simplificação e desburocratização de processos e procedimentos inerentes aos serviços prestados na autarquia;
+
+b) Contribuir para a definição de políticas municipais de modernização administrativa, de apoio aos munícipes, e dar-lhes execução.
+
+###### Artigo 31.º
+
+##### Divisão de Planeamento Estratégico e Desenvolvimento
+
+1 - A Divisão de Planeamento Estratégico e Desenvolvimento, designada abreviadamente por DPED, a cargo de um chefe de divisão municipal, tem por missão contribuir para a definição fundamentada dos objetivos de desenvolvimento e decisões de planeamento estratégico do concelho de Mafra e formulação das respetivas propostas, a diferentes escalas.
+
+2 - À Divisão de Planeamento Estratégico e Desenvolvimento compete:
+
+a) Apoiar o Executivo Municipal na conceção e implementação de estratégias de desenvolvimento da atratividade do concelho, nomeadamente através da identificação e integração de recursos disponíveis, numa lógica de produção de valor económico e social;
+
+b) Pesquisar ativa e continuamente boas-práticas, desde as locais às internacionais, promovendo a sua disseminação tendo em vista uma potencial implementação;
+
+c) Promover a aplicação de metodologias de envolvimento do cidadão, empresas e trabalhadores do Município no desenvolvimento de políticas, programas e ações municipais;
+
+d) Promover e desenvolver o relacionamento e cooperação internacionais com entidades públicas ou privadas, de acordo com as orientações estratégicas definidas pelo executivo;
+
+e) Acompanhar, em articulação com outras unidades orgânicas, o início de implementação de planos e projetos, desenvolvidos pela DPED e aprovados pelos órgãos autárquicos competentes;
+
+f) Desenvolver iniciativas, incluindo parcerias com outras entidades, no sentido de mobilização de agentes para a promoção do território, potenciação dos ativos locais e captação de investimento;
+
+g) Desenvolver iniciativas de promoção do empreendedorismo e criação de emprego;
+
+h) (Revogado.)
+
+i) (Revogado.)
+
+j) (Revogado.)
+
+k) (Revogado.)
+
+l) (Revogado.)
+
+###### Artigo 32.º — Unidade de Controlo de Fundos Nacionais e Europeus
+
+À Unidade de Controlo de Fundos Nacionais e Europeus, designada abreviadamente por UCFNE, a cargo de um dirigente de 3.º grau, compete:
+
+a) Promover a informação detalhada sobre todos os programas e mecanismos de financiamento público, nacionais e comunitários, suscetíveis de serem acionados com vista ao financiamento de projetos de interesse municipal;
+
+b) Enquadrar o Município de Mafra, nomeadamente os seus objetivos e investimentos estratégicos, nos instrumentos de planeamento e financiamento locais, regionais e nacionais;
+
+c) Submeter e canalizar para as entidades competentes todos os processos de candidatura a programas ou medidas comunitárias, depois de aprovados pela Câmara Municipal ou pelo Presidente da Câmara;
+
+d) Efetuar os procedimentos administrativos e de prestação de contas relacionados com os projetos com candidaturas aprovadas;
+
+e) Assegurar, em articulação com os serviços responsáveis pela execução dos projetos, o controlo de execução e a gestão financeira dos projetos com candidaturas aprovadas
+
+###### Artigo 33.º
+
+##### Divisão de Sistemas de Informação (DSI)
+
+À Divisão de Sistemas de Informação, adiante designada abreviadamente por DSI, a cargo de um chefe de divisão municipal, compete:
+
+a) Proceder ao estudo e coordenação de projetos com vista à implementação e gestão de sistemas automatizados de gestão da informação a utilizar ou fornecer pelos serviços do Município;
+
+b) Conceber, propor a aquisição, atualizar e manter os suportes lógicos que permitam a melhoria da eficiência e da produtividade dos serviços;
+
+c) Apoiar tecnicamente a UAIMA no âmbito da modernização administrativa;
+
+d) Executar as tarefas que, no âmbito das suas competências, lhe sejam superiormente solicitadas;
+
+e) Chefiar o pessoal que executa as tarefas correspondentes às áreas de atuação da DSI, de acordo com os objetivos definidos pela autarquia.
+
+1 - Na área de Informática:
+
+1.1 - No âmbito da Gestão de Infraestrutura Técnica e de Sistemas:
+
+a) Conceber e manter a infraestrutura tecnológica, gerir e administrar os sistemas informáticos e assegurar o funcionamento eficiente dos sistemas de comunicações do Município;
+
+b) Assegurar a conceção, administração, manutenção e adequada exploração dos sistemas informáticos centrais, redes de comunicações, sites e bases de dados instalados, incluindo os respetivos sistemas de proteção, segurança e controlo de acesso da sua responsabilidade direta ou atribuídos à exploração de outras entidades;
+
+c) Assegurar a instalação e atualização da arquitetura tecnológica e da infraestrutura de comunicações necessárias para suportar o normal funcionamento dos serviços;
+
+d) Definir e propor os standards tecnológicos a serem adotados pelo Município, zelando pelo seu cumprimento;
+
+e) Salvaguardar toda a informação centralizada no Data Center;
+
+f) Conceber e aplicar uma política de segurança através, designadamente, da atualização do plano de recuperação na lógica do Disaster Recovery;
+
+g) Assegurar a integração e gestão dos sistemas municipais de comunicações, compreendendo as redes de voz e dados, rede fixa, rede móvel, via rádio e sistemas de vigilância;
+
+h) Propor e supervisionar tecnicamente todos os processos de contratação de equipamento, mantendo um registo atualizado dos equipamentos e sistemas centrais instalados;
+
+i) Realizar projetos de investigação e desenvolvimento que visem a avaliação das tecnologias de comunicações adequadas para o Município;
+
+j) Garantir a conservação e a segurança ativa e passiva dos equipamentos informáticos, de acordo com as normas e os procedimentos estabelecidos;
+
+k) Assegurar os serviços de helpdesk tecnológico e apoiar os utilizadores, garantindo a correta utilização dos equipamentos;
+
+l) Gerir o parque informático e avaliar as necessidades de utilização e capacidades de funcionamento dos equipamentos;
+
+m) Assegurar, quando se revelar possível, a compatibilização das aplicações internas com as utilizadas pelas pessoas coletivas em cujo capital ou gestão o Município participa;
+
+n) Elaborar, em articulação com os serviços, a programação plurianual das necessidades de recursos, equipamentos e suportes lógicos;
+
+o) Participar na contratação de obras e serviços municipais que integrem infraestruturas de comunicações e equipamento informático.
+
+1.2 - No âmbito do Desenvolvimento, Inovação e Sistemas Informáticos:
+
+a) Estudar, planear, desenvolver e instalar os sistemas de informação e gestão de conhecimento utilizados pelos serviços, posicionando-se como alavanca da modernização administrativa e tecnológica;
+
+b) Conceber e implementar o plano de informatização da Câmara;
+
+c) Gerir o sistema informático;
+
+d) Identificar projetos inovadores no âmbito dos sistemas e tecnologias de informação e gestão de conhecimento, cuja adoção possa representar um inequívoco valor acrescentado para a atividade dos serviços;
+
+e) Definir uma estratégia de desenvolvimento dos sistemas de informação que assegure a integração de fluxos vitais de informação e dê resposta às necessidades dos órgãos e serviços municipais;
+
+f) Gerir e assegurar a instalação do software aplicacional integrado nos sistemas de informação aprovados, promovendo a sua interligação funcional;
+
+g) Definir e propor os standards aplicacionais a serem adotados nos serviços, ao nível da sua instalação, utilização, evolução, fiabilidade e segurança;
+
+h) Assegurar a gestão dos projetos de desenvolvimento;
+
+i) Promover e disponibilizar as ferramentas adequadas para a exploração do sistema de informação geográfica, desenvolvendo-as em articulação com os serviços;
+
+j) Colaborar na gestão de conteúdos e fluxos de informação;
+
+k) Elaborar, em articulação com os serviços, a programação plurianual das necessidades no domínio da informatização;
+
+l) Colaborar com os serviços camarários na elaboração dos planos de formação, de acordo com os objetivos e metas do processo de informatização e de modernização administrativa;
+
+m) Colaborar no estabelecimento de parcerias e outras formas de cooperação com entidades externas no domínio dos sistemas de informação;
+
+n) Elaborar instruções e normas de procedimento, quer relativas à utilização de aplicações, quer à utilização de equipamentos e aplicações, quer aos limites legais sobre o registo de dados pessoais, confidencialidade, reserva e segurança da informação;
+
+o) Garantir a segurança e a supervisão dos sistemas de informação.
+
+###### Artigo 34.º
+
+##### Divisão de Segurança e Mobilidade
+
+À Divisão de Segurança e Mobilidade, adiante designada abreviadamente por DSM, a cargo de um chefe de divisão municipal, compete:
+
+a) Coordenar o exercício das atividades da polícia municipal, zelando pelo cumprimento das leis, regulamentos, deliberações ou decisões dos órgãos do Município, no âmbito da sua competência;
+
+b) Promover a articulação entre o Município, autoridades policiais com intervenção no concelho e outros representantes da comunidade local, através do Serviço Municipal de Polícia Municipal;
+
+c) Coordenar globalmente todas as iniciativas decorrentes dos Conselhos Municipais e Comissões Municipais com intervenção direta na segurança pública, na área do concelho de Mafra;
+
+d) (Revogado.)
+
+e) Elaborar e acompanhar a implementação do Plano Municipal de Segurança Rodoviária;
+
+f) (Revogado.)
+
+g) (Revogado.)
+
+3 - Serviço de Polícia Municipal:
+
+a) Exercer funções de polícia administrativa e zelar pelo cumprimento das leis, regulamentos, deliberações ou decisões dos órgãos do Município no âmbito da sua competência;
+
+b) Garantir o cumprimento dos regulamentos e posturas municipais e a aplicação das normas legais cuja competência de aplicação ou fiscalização caiba ao Município, designadamente nos domínios da edificação e urbanização, parque habitacional, comércio, ruído, saúde pública, circulação rodoviária e estacionamento de veículos, defesa e proteção da natureza, do ambiente, do património cultural e dos recursos cinegéticos;
+
+c) Executar coercivamente, nos termos da lei, os atos administrativos emanados dos órgãos do Município;
+
+d) Garantir a vigilância de espaços públicos ou abertos ao público, designadamente nas áreas circundantes de escolas;
+
+e) Garantir a guarda de edifícios e equipamentos públicos municipais;
+
+f) Regular e fiscalizar o trânsito rodoviário e pedonal na área de jurisdição municipal;
+
+g) Garantir o cumprimento das normas e estacionamento de veículos e de circulação rodoviária;
+
+h) Promover e colaborar com outras entidades em ações de sensibilização e divulgação de matérias de relevante interesse social no concelho, designadamente de prevenção rodoviária e ambiental;
+
+i) Elaborar autos de notícia por acidente de viação quando o facto não constituir crime;
+
+j) Adotar as providências organizativas apropriadas aquando da realização de eventos na via pública que impliquem restrições à circulação, em coordenação com as forças de segurança competentes, quando necessário;
+
+k) Deter e entregar imediatamente à autoridade judiciária ou entidade policial suspeitos de crime punível com pena de prisão, em caso de flagrante delito, nos termos da lei processual penal;
+
+l) Denunciar os crimes de que tiver conhecimento no exercício das suas funções, e por causa delas, e praticar os atos cautelares necessários e urgentes para assegurar os meios de prova, nos termos da lei processual penal, até à chegada do órgão de polícia criminal competente;
+
+m) Elaborar autos de notícia e autos de contraordenação por infrações aos regulamentos e posturas municipais e às normas de âmbito nacional ou regional cuja competência de aplicação ou fiscalização pertença ao Município, bem como colaborar na instrução dos respetivos processos;
+
+n) Elaborar autos de notícia, com remessa à autoridade competente, por infrações cuja fiscalização não seja da competência do Município, nos casos em que a lei o imponha ou o permita;
+
+o) Executar mandados de notificação;
+
+p) Executar ordens de tomada de posse administrativa de imóveis e remoção de bens para local adequado;
+
+q) Colaborar com o Serviço Municipal de Proteção Civil, em situação de crise ou de calamidade pública;
+
+r) Exercer funções de polícia ambiental;
+
+s) Exercer funções de polícia mortuária;
+
+t) Promover a desocupação dos fogos municipais ocupados abusivamente;
+
+u) Criar as condições de segurança necessárias para a execução dos despejos deliberados pela Câmara;
+
+v) Apoiar as ações de realojamento, em articulação com os serviços competentes;
+
+w) Detetar e promover a remoção das viaturas abandonadas na via pública, desencadeando o respetivo processo administrativo;
+
+x) Fiscalizar o cumprimento das disposições constantes na legislação em vigor, em matéria de ruído;
+
+y) Apoiar e auxiliar os munícipes que, em situação de urgência, necessitem de auxílio;
+
+z) Cooperar, no âmbito dos seus poderes, com os demais serviços do Município e com quaisquer outras entidades públicas que o solicitem, designadamente as forças de segurança, nos termos da Lei;
+
+aa) Detetar e participar às outras unidades orgânicas a existência de anomalias e deficiências no espaço público;
+
+bb) Coordenar setorialmente, por parte da Câmara Municipal de Mafra, todas as iniciativas decorrentes do Conselho Municipal de Segurança do Município de Mafra ou de outros organismos que sejam criados com intervenção direta na segurança pública na área do concelho de Mafra.
+
+4 - (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) (Revogado.)
+
+g) (Revogado.)
+
+h) (Revogado.)
+
+i) (Revogado.)
+
+j) (Revogado.)
+
+k) (Revogado.)
+
+l) (Revogado.)
+
+m) (Revogado.)
+
+n) (Revogado.)
+
+o) (Revogado.)
+
+p) (Revogado.)
+
+q) (Revogado.)
+
+###### Artigo 35.º — Unidade de Segurança
+
+À Unidade de Segurança, adiante abreviadamente por US, a cargo de um dirigente de 3.º grau, compete
+
+a) Assegurar a elaboração de Planos de Segurança das Instalações dos Edifícios Municipais e eventos promovidos pelos serviços da Autarquia (Medidas de Autoproteção);
+
+b) Apoiar os delegados de segurança, responsáveis de cada edifício, na implementação dos planos de segurança das respetivas instalações Municipais;
+
+c) Apoiar a implementação dos planos de segurança nos eventos promovidos pelos serviços da Autarquia;
+
+d) Assegurar as condições de segurança das instalações municipais, através da operacionalização e manutenção dos alarmes de incêndio, de intrusão e dos sistemas de vídeo vigilância;
+
+e) Assegurar a operacionalização e manutenção dos meios de combate a incêndio e da sinalética de segurança, nas instalações municipais;
+
+f) Coordenar os serviços de segurança privada afetos aos edifícios municipais e aos eventos promovidos pelos serviços da Autarquia;
+
+g) Preparar e acompanhar os procedimentos de Contratação Pública, para a prestação de serviços ou aquisição de equipamentos/materiais;
+
+h) Apoiar tecnicamente os projetos e as obras da Autarquia no que respeita às matérias relacionadas com a segurança.
+
+###### Artigo 36.º — Unidade de Mobilidade
+
+À Unidade de Mobilidade, adiante abreviadamente por UM, a cargo de um dirigente de 3.º grau, compete:
+
+a) Promover a elaboração de estudos e projetos de tráfego, sinalização rodoviária e estacionamentos;
+
+b) Promover a submissão de candidaturas aos diversos programas existentes no domínio da Mobilidade, Tráfego e Segurança Rodoviária;
+
+c) Elaborar e manter o cadastro de toda a sinalização viária do Município;
+
+d) Promover e controlar a implementação de sinalização da via pública, incluindo a sua reparação ou substituição;
+
+e) Implementar as normas decorrentes das posturas de trânsito e deliberações e decisões em matéria de ordenamento de trânsito;
+
+f) Emitir pareceres no âmbito da elaboração dos diversos projetos;
+
+g) Emitir os necessários pareceres sobre o ordenamento de trânsito e sinalização no âmbito dos processos de licenciamento de operações de loteamento bem como de outras operações urbanísticas, sempre que tal se justifique;
+
+h) Preparar e acompanhar os procedimentos de Contratação Pública, para a prestação de serviços ou aquisição de equipamentos/materiais
+
+i) Assegurar a gestão e funcionamento dos parques de estacionamento de duração limitada e dos respetivos equipamentos;
+
+j) Promover e acompanhar a colocação de equipamento semafórico, assegurando a sua gestão e funcionamento;
+
+k) Informar sobre a colocação de abrigos de passageiros em paragens de transportes públicos;
+
+l) Emitir pareceres sobre a realização de eventos de natureza cultural, desportiva ou outra, que envolvam cortes ou condicionamentos de trânsito;
+
+m) Colaborar com outras Unidades Orgânicas na alteração ou realização de Regulamentos Municipais, que envolvam matérias relacionadas com a mobilidade;
+
+n) Colaborar nas ações necessárias no âmbito do desenvolvimento da rede de transportes públicos, em articulação com a empresa de Transportes Metropolitanos de Lisboa - TML.
+
+###### Artigo 37.º
+
+##### Divisão de Proteção Civil
+
+À Divisão de Proteção Civil adiante designada abreviadamente por DPC, a cargo de um Coordenador Municipal de Proteção Civil, equiparado a Chefe de Divisão, compete:
+
+a) Dirigir o Serviço Municipal de Proteção Civil (SMPC);
+
+b) Dinamizar a Comissão Municipal de Proteção Civil;
+
+c) Acompanhar permanentemente e apoiar as operações de proteção e socorro que ocorram na área do Concelho;
+
+d) Promover a elaboração dos planos prévios de intervenção com vista à articulação de meios face a cenários previsíveis;
+
+e) Promover reuniões periódicas de trabalho sobre matérias de proteção e socorro;
+
+f) Dar parecer sobre os materiais e equipamentos mais adequados à intervenção operacional no respetivo Município;
+
+g) Comparecer no local das ocorrências sempre que as circunstâncias o aconselhem;
+
+h) Convocar e coordenar o Centro de Coordenação Operacional Municipal (CCOM), nos termos previstos no Sistema Integrado de Operações de Proteção e Socorro (SIOPS);
+
+i) Promover a segurança nos espaços das arribas e praias dentro das competências definidas por legislação, em colaboração com as entidades respetivas;
+
+j) Organizar planos de atuação em colaboração com as freguesias e outros municípios, com a finalidade de intervir, em casos de emergência ou sinistro, em áreas bem determinadas expostas a níveis elevados de risco;
+
+k) Executar e promover as ações concernentes aos serviços de bombeiros e emergência médica, nomeadamente no acompanhamento e apoio financeiro ou outro, às associações humanitárias e de socorro do concelho;
+
+l) Instalar e coordenar a Central Municipal de Operações de Socorro (CMOS).
+
+1 - Serviço Municipal de Proteção Civil:
+
+a) Executar as atividades de proteção civil de âmbito municipal, bem como centralizar, tratar e divulgar toda a informação recebida nesta matéria.
+
+1.1 - Nos domínios da prevenção e avaliação de riscos e vulnerabilidades, compete ao SMPC:
+
+a) Realizar estudos técnicos com vista à identificação e avaliação dos riscos que possam afetar o Município, em função da magnitude estimada e do local previsível da sua ocorrência, promovendo a sua cartografia, de modo a prevenir, a avaliar e minimizar os efeitos das suas consequências previsíveis;
+
+b) Propor medidas de segurança face aos riscos inventariados;
+
+c) Operacionalizar e acionar sistemas de alerta e aviso de âmbito municipal;
+
+d) Assegurar a pesquisa, análise, seleção e difusão da documentação com importância para a proteção civil.
+
+1.2 - (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+1.3 - (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+2 - Integra a central de comunicações e operações municipal que, nos domínios da logística e comunicações, lhe compete:
+
+a) Inventariar e atualizar permanentemente os registos dos meios e dos recursos existentes no concelho, com interesse para as operações de proteção e socorro;
+
+b) Planear o apoio logístico a prestar às vítimas e às forças de socorro e apoiar logisticamente a sustentação das operações de proteção e socorro;
+
+c) Levantar, organizar e gerir os centros de alojamento a acionar em caso de acidente grave ou catástrofe;
+
+d) Planear e gerir os equipamentos de telecomunicações e outros recursos tecnológicos do SMPC;
+
+e) Manter operativa, em permanência, a ligação rádio à rede estratégica de proteção civil (REPC);
+
+f) Assegurar o funcionamento da sala municipal de operações e gestão de emergências;
+
+g) Acompanhar e gerir as comunicações do serviço de teleassistência.
+
+3 - Integra o Gabinete Técnico Florestal, ao qual compete:
+
+a) Dinamizar a Comissão Municipal de Defesa da Floresta;
+
+b) Centralizar as atribuições da Comissão Municipal de Defesa da Floresta (CMDF), traduzidas em ações de Defesa da Floresta Contra Incêndios (DFCI);
+
+c) Articular a atuação dos organismos municipais com os órgãos regionais e nacionais com competências em matérias de incêndios florestais;
+
+d) Propor projetos de investimento florestal na área da DFCI;
+
+e) Promover a sensibilização dos munícipes para a problemática, seguindo as indicações que emanam do Plano Nacional de Defesa da Floresta Contra Incêndios Florestais;
+
+f) Promover ações de silvicultura preventiva para quebrar a continuidade de combustíveis florestais;
+
+g) Promover a criação de infraestruturas de defesa dos aglomerados populacionais adjacentes a áreas florestais;
+
+h) Elaborar cartografia de infraestruturas florestais e de zonas de risco de incêndio;
+
+i) Colaborar na identificação, gestão e mitigação do risco estrutural de incêndio;
+
+j) Elaborar e executar o plano de fogo controlado;
+
+k) Apoiar tecnicamente, em situações de incêndios florestais, todas as entidades (locais, distritais e nacionais) com intervenção na ocorrência;
+
+l) Enquadrar as equipas de sapadores florestais da Autarquia, que exercem atividades, designadamente de:
+
+i) Ações de silvicultura e gestão de combustíveis nos espaços rurais e florestais;
+
+ii) Acompanhamento na realização de fogo controlado, apoio à realização de queimas e de queimadas;
+
+iii) Manutenção e beneficiação da rede divisional e de faixas e mosaicos de gestão de combustíveis;
+
+iv) Manutenção e beneficiação de outras infraestruturas;
+
+v) Ações de controlo e eliminação de agentes bióticos;
+
+vi) Sensibilização do público a prevenção de incêndios, do uso do fogo e da limpeza das florestas;
+
+vii) Vigilância das áreas a que se encontra adstrito, ou estabelecido em Plano Operacional Municipal (POM);
+
+viii) Primeira intervenção em incêndios florestais, apoio ao ataque ampliado e outras operações de apoio;
+
+ix) Proteção a pessoas e bens em outras situações de emergência e socorro.
+
+4 - Integra o Heliporto municipal de Mafra;
+
+4.1 - Sob a direção de um Diretor do Heliporto Municipal de Mafra que sem prejuízo do disposto na legislação em vigor, deve assegurar:
+
+a) O normal funcionamento e garantir a segurança das operações no heliporto;
+
+b) Comunicar à ANAC todas as ocorrências suscetíveis de afetarem a prevenção de ações de interferência ilícita e a segurança operacional do heliporto;
+
+c) Exigir a todos os utilizadores do heliporto o cumprimento das regras de prevenção de ações de interferência ilícita e de segurança operacional aplicáveis;
+
+d) Em caso de acidente ou incidente com aeronaves civis, notificar a ANAC nos termos da legislação e outros normativos aplicáveis;
+
+e) Gestão do tráfego aéreo no mesmo.
+
+###### Artigo 38.º — Unidade de Planeamento, Sensibilização e Informação
+
+À Unidade de Planeamento, Sensibilização e Informação, adiante abreviadamente por UPSI, a cargo de um dirigente de 3.º grau, compete
+
+1 - Nos domínios do planeamento e apoio às operações:
+
+a) Elaborar planos prévios de intervenção de âmbito municipal;
+
+b) Preparar e executar exercícios e simulacros que contribuam para uma atuação eficaz de todas as entidades intervenientes nas ações de proteção civil;
+
+c) Manter informação atualizada sobre acidentes graves e catástrofes ocorridos no Município, bem como sobre elementos relativos às condições de ocorrência e à respetiva resposta;
+
+d) Realizar ações de sensibilização para questões de segurança, preparando e organizando as populações face aos riscos e cenários previsíveis;
+
+e) Fomentar o voluntariado em proteção civil.
+
+2 - Nos domínios da sensibilização e informação pública:
+
+a) Realizar ações de sensibilização e divulgação sobre a atividade de proteção civil;
+
+b) Promover campanhas de informação junto dos munícipes sobre medidas preventivas e condutas de autoproteção face aos riscos existentes e cenários previsíveis;
+
+c) Difundir, na iminência ou ocorrência de acidentes graves ou catástrofes, as orientações e procedimentos a ter pela população para fazer face à situação.
+
+###### Artigo 39.º
+
+##### Divisão de Comunicação, Relações Internacionais e Protocolo
+
+A Divisão de Comunicação, Relações Internacionais e Protocolo, designada abreviadamente por DCRIP, a cargo de um chefe de divisão municipal, é a estrutura de âmbito transversal que tem por missão promover a imagem do Município de Mafra e dos órgãos municipais, às escalas local, nacional e internacional.
+
+1 - À DCRIP compete:
+
+a) Implementar a estratégia de comunicação do Município de Mafra, de acordo com as linhas orientadoras definidas pelo Executivo;
+
+b) Conceber, desenvolver e acompanhar a execução de campanhas de comunicação e imagem multicanal, de suporte às iniciativas desenvolvidas ou apoiadas pelo Município;
+
+c) Contribuir para a uniformização da identidade corporativa da Câmara Municipal, tanto ao nível gráfico como da linguagem, incluindo a definição do estilo utilizado nos textos escritos produzidos pelos serviços municipais;
+
+d) Promover a elaboração, publicação e distribuição de publicações periódicas municipais e de outros suportes de comunicação offline de variada tipologia;
+
+e) Gerir a presença online do Município de Mafra, nomeadamente do sítio eletrónico e das páginas nas redes sociais, garantindo a atualização permanente das notícias e demais conteúdos, a coerência da arquitetura de informação e a introdução de novas funcionalidades que beneficiem a acessibilidade dos utilizadores aos serviços municipais prestados;
+
+f) Coordenar, realizar e acompanhar as produções audiovisuais do Município, incluindo em live streaming;
+
+g) Efetuar o registo fotográfico e vídeo dos eventos organizados ou apoiados pela Câmara Municipal;
+
+h) Criar conceitos fotográficos e videográficos de suporte à atividade comunicacional multicanal;
+
+i) Assegurar a manutenção do arquivo digital de fotografia e vídeo, fazendo ainda o levantamento das necessidades de imagem;
+
+j) Gerir a comunicação urbana, designadamente a rede de estruturas publicitárias colocadas em vários locais de visibilidade do Concelho de Mafra;
+
+k) Prestar assessoria de imprensa, assegurando o relacionamento público dos órgãos municipais com os órgãos de comunicação social;
+
+l) Organizar a recolha e difusão de notícias publicadas nos órgãos de comunicação social de âmbito local e nacional que tenham interesse para conhecimento dos órgãos e dos serviços municipais;
+
+m) Promover a publicação, nos órgãos de comunicação social de âmbito local, regional e nacional, dos atos municipais dotados de eficácia externa, em respeito pela obrigatoriedade legal;
+
+n) Gerir a inserção de publicidade na imprensa escrita, digital, radiofónica e televisiva, contribuindo para incrementar a visibilidade e notoriedade públicas do Município;
+
+o) Desenvolver ações de comunicação interna, numa perspetiva de informação, integração e motivação dos trabalhadores e de captação de ideias inovadoras para melhoria contínua dos serviços municipais, em coordenação com Divisão de Recursos Humanos e em articulação com as restantes unidades orgânicas;
+
+p) Prestar assessoria na área das relações internacionais;
+
+q) Coordenar as relações institucionais do Município com entidades e organizações internacionais, públicas e privadas;
+
+r) Coordenar as funções de protocolo nas cerimónias e atos oficiais;
+
+s) Assegurar o envio de convites para participação em eventos da responsabilidade municipal;
+
+t) Participar da conceção, desenvolvimento e realização de projetos em áreas-chave da estratégia de marketing territorial do Município, em estreita articulação com as diferentes unidades orgânicas e as entidades do universo empresarial, institucional e associativo.
+
+2 - À Área Administrativa compete:
+
+a) Arquivar, organizar e encaminhar o despacho da correspondência expedida e recebida na DCRIP e na URIP, bem como de informações ou outros documentos que impliquem resposta a terceiros ou encaminhamento interno na Câmara Municipal;
+
+b) Sistematizar toda a informação relativa aos recursos humanos afetos à DCRIP e à URIP, de forma a efetuar o controlo do cumprimento dos diversos deveres e funções atribuídas aos mesmos;
+
+c) Proceder à receção, conferência e registo de cedência dos materiais de comunicação afetos à divisão;
+
+d) Planificar, solicitar e controlar as ações de distribuição de suportes de comunicação offline em espaços municipais e outros locais de interesse, rentabilizando os recursos existentes e formulando sugestões para melhoria da eficácia do trabalho realizado;
+
+e) Prestar apoio na elaboração anual do levantamento das necessidades de impressão de suportes de comunicação;
+
+f) Assegurar a atualização permanente da base de dados de contactos institucionais;
+
+g) Realizar todas as tarefas administrativas inerentes ao envio de convites para participação em eventos da responsabilidade municipal;
+
+h) Dar apoio à inserção de conteúdos na agenda do sítio eletrónico municipal;
+
+i) Organizar o arquivo digital de trabalhos produzidos pela divisão;
+
+j) Colaborar em funções de protocolo nas cerimónias e atos oficiais;
+
+k) Prestar apoio administrativo a outras atividades de comunicação, relações internacionais e protocolo.
+
+l)
+
+###### Artigo 40.º — Unidade de Relações Internacionais e Protocolo
+
+À Unidade de Relações Internacionais e Protocolo, adiante abreviadamente por URIP, a cargo de um dirigente de 3.º grau, compete:
+
+a) Prestar apoio técnico em matéria de relações internacionais e de promoção externa do Município;
+
+b) Assegurar a concretização das ações decorrentes dos compromissos assumidos no quadro de acordos de cooperação e de geminação;
+
+c) Contribuir para a projeção do Município através da elaboração e implementação de estratégias que estimulem a participação no processo de construção europeia;
+
+d) Organizar as deslocações oficiais dos eleitos municipais, em articulação com o Gabinete de Apoio à Presidência, bem como a receção e estadia de convidados oficiais do Município;
+
+e) Assegurar as funções de protocolo nas cerimónias e atos oficiais, em articulação com os respetivos serviços municipais;
+
+f) Gerir a base de dados de contactos institucionais para efeitos de envio de convites para participação em eventos da responsabilidade municipal;
+
+g) Monitorizar, em eventos que careçam de procedimento protocolar, o envio de correspondência oficial, particularmente convites, incluindo a gestão de confirmações de presença;
+
+h) Garantir a adequada representação institucional e da imagem do Município em eventos por este organizados ou em que este participe.
+
+### CAPÍTULO V — UNIDADES FLEXÍVEIS
+
+###### Artigo 41.º
+
+##### Divisão de Assuntos Jurídicos
+
+À Divisão de Assuntos Jurídicos, adiante designada abreviadamente por DAJ, a cargo de um chefe de divisão municipal, compete:
+
+a) Dirigir, de modo integrado, as atividades de apoio Jurídico, de atendimento público e administrativo, assegurando a atividade administrativa da Câmara, quando nos termos do presente regulamento esta função não estiver cometida a outros serviços;
+
+b) Garantir o apoio administrativo que se mostre necessário ao Executivo e seus membros e aos serviços em geral;
+
+c) Organizar e dar sequência a todos os processos administrativos que não sejam da competência de outros serviços ou não disponham de apoio administrativo próprio;
+
+d) Instruir processos de licenciamento no âmbito das competências da divisão;
+
+e) Realizar o controlo metrológico da competência do Município.
+
+1 - À Secção de Apoio aos Órgãos Autárquicos, compete:
+
+a) Assegurar as tarefas administrativas referentes à instalação dos órgãos do Município;
+
+b) Organizar todo o expediente despachado com destino às reuniões da Câmara Municipal e da Assembleia Municipal;
+
+c) Elaborar a ordem de trabalhos, contendo os assuntos a serem tratados na reunião respetiva, e distribuir a mesma pelos membros do Executivo, Assembleia Municipal e outros;
+
+d) Elaborar e difundir as convocatórias da Câmara e da Assembleia Municipal;
+
+e) Providenciar pela assistência às reuniões e pela redação e elaboração das respetivas atas, o secretariado, e ainda pela elaboração de todo o expediente conexo;
+
+f) Divulgar as atas da Assembleia e da Câmara Municipal, bem como os correspondentes atos, incluindo os do Presidente, destinados a terem eficácia externa;
+
+g) Promover a colaboração com os demais serviços da Administração Pública na prossecução dos censos, do recenseamento eleitoral, bem como de todo o expediente relativo aos atos eleitorais;
+
+h) Promover a divulgação pelos serviços das normas internas e demais diretivas de caráter genérico;
+
+i) Registar, afixar, publicitar, endereçar e arquivar avisos, editais, anúncios, posturas, regulamentos, ordens de serviço, circulares e despachos genéricos, devidamente numerados sequencialmente;
+
+j) Assegurar a elaboração, organização e atualização dos dossiês administrativos de todas as empresas municipais, participadas e outras;
+
+k) Proceder ao registo de cidadãos comunitários, de acordo com a lei;
+
+l) Superintender e assegurar o serviço de reprografia, nomeadamente, na execução, reprodução e encadernação de documentos e outras tarefas relacionadas, conforme determinações superiores, bem como zelar pela boa manutenção de todo o seu equipamento.
+
+2 - Na área de Apoio ao Oficial Público:
+
+a) A organização e acompanhamento dos processos que se destinem a ser visados pelo Tribunal de Contas e que não sejam da competência de outro serviço camarário;
+
+b) Assegurar o apoio técnico-administrativo ao responsável que for designado como oficial público para lavrar contratos, nomeadamente nos procedimentos administrativos preparatórios dos atos e contratos em que seja parte o Município, de acordo com deliberações da Câmara ou decisões do seu Presidente;
+
+c) Proceder ao planeamento e preparação dos atos públicos de outorga de contratos ou atos bilaterais;
+
+d) Preparar os documentos e os elementos necessários à elaboração de contratos escritos, incluindo os de avença;
+
+e) Proceder à passagem de certidões e fotocópias devidamente autenticadas dos contratos.
+
+###### Artigo 42.º — Unidade de Atendimento ao Cidadão
+
+À Unidade de Atendimento ao Cidadão, adiante designada abreviadamente por UAC, a cargo de um dirigente de 3.º grau, compete:
+
+a) Implementar e assegurar a manutenção de um atendimento multicanal integrado, de todo o universo municipal, através da operacionalização do atendimento presencial e da criação de múltiplos canais complementares de atendimento não presencial, nomeadamente, telefone, correio, correio eletrónico, internet, meios móveis e outros que se considerem adequados;
+
+b) Assegurar a resposta aos munícipes em tempo útil, presencialmente ou por qualquer outro meio, com a adequada informação, despacho ou resultado da respetiva reclamação;
+
+c) Promover a contínua desconcentração territorial dos dispositivos de atendimento e receção de requerimentos, sugestões e reclamações, assim como a utilização de tecnologias de informação e comunicação que facilitem a ligação entre os munícipes e o Município;
+
+d) Garantir a coesão e articulação com e entre os diversos serviços, promovendo a normalização, a simplificação e a agilização dos procedimentos e processos relativos aos requerimentos e petições apresentadas;
+
+e) Propor e dinamizar, em articulação com os restantes serviços, medidas de correção e de melhoria do serviço de atendimento prestado que se revelem necessárias à satisfação dos munícipes, decorrentes nomeadamente, da análise e tratamento dos resultados da audição regular das necessidades dos munícipes;
+
+f) Promover a recolha, registo informático, encaminhamento e instrução dos processos de reclamação e sugestão para os serviços competentes;
+
+g) Garantir a gestão da Loja do Cidadão;
+
+h) Assegurar, em articulação com o Gabinete de Apoio à Presidência e Comunicação e com a Unidade de Auditoria Interna e Modernização Administrativa, a implementação das políticas de comunicação e modernização administrativa prosseguidas pelo Município.
+
+1 - À secção de Atendimento, compete:
+
+a) Assegurar o atendimento dos munícipes, presencialmente ou por qualquer outro meio;
+
+b) Promover a recolha, registo informático e encaminhamento dos processos de pedidos apresentados para os serviços competentes;
+
+c) Efetuar a faturação e recebimento de receitas das diversas áreas do Município;
+
+d) Assegurar a receção, registo e encaminhamento e arquivo do expediente e correspondência geral da Câmara Municipal, em conformidade com a política estabelecida para o funcionamento do sistema de gestão documental do Município;
+
+e) Dinamizar, em coordenação com os diversos serviços e empresas municipais, a audição regular das necessidades e satisfação dos munícipes e analisar, tratar e divulgar os respetivos resultados;
+
+f) Elaborar modelos de documentos relativos aos assuntos tratados pelo Atendimento;
+
+2 - À área Centro de Contacto ao Munícipe, compete:
+
+a) Assegurar o atendimento dos munícipes, telefonicamente pelo meio eletrónico facultado ao Serviço para o atendimento de primeira linha;
+
+b) Assegurar a resposta aos munícipes em tempo útil, telefonicamente, com a adequada informação;
+
+c) Consultar, sempre que no decurso do atendimento tal se revele necessário para melhor prestar o serviço de atendimento, a informação disponível na página eletrónica do Município e nas diversas aplicações informáticas, nomeadamente nas áreas de Urbanismo, Educação e outras disponibilizadas ou a disponibilizar ao Serviço;
+
+d) Encaminhar as chamadas telefónicas para os diversos Serviços, sempre que a informação pretendida pelos munícipes não seja passível de ser prestada no atendimento de primeira linha;
+
+e) Propor o desenvolvimento de meios eletrónicos para garantir a gestão do tráfego do atendimento telefónico, bem como o desenvolvimento do meio eletrónico facultado ao Serviço para o atendimento de primeira linha, designadamente no que concerne ao registo e envio, aos Serviços, das pretensões apresentadas;
+
+f) Propor e dinamizar a audição regular das necessidades e satisfação dos munícipes e analisar e tratar os respetivos resultados.
+
+###### Artigo 43.º — Unidade de Apoio Jurídico
+
+À Unidade de Apoio Jurídico, adiante designada abreviadamente por UAJ, a cargo de um dirigente de 3.º grau, compete:
+
+a) Prestar assessoria e consultadoria jurídica aos órgãos autárquicos e serviços municipais;
+
+b) Elaborar informações, emitir pareceres técnico-jurídicos e efetuar estudos jurídicos;
+
+c) Dar parecer e acompanhar processos graciosos e contenciosos, nomeadamente os que incidam sobre petições diversas, reclamações, recursos, sindicâncias, inquéritos e estatuto disciplinar;
+
+d) Propor a adequada metodologia e acompanhar os processos de expropriação, requisição, constituição de encargo, ónus, responsabilidade ou restrição que sejam pela lei consentidos para o desempenho regular das atribuições do Município, até à sua conclusão, em articulação com a Unidade de Gestão do Património;
+
+e) Assegurar, em estreita colaboração com a Unidade de Gestão do Património, a instrução e acompanhamento dos processos que se refiram à clarificação dos bens do domínio público, a cargo do Município, e ainda do património que integre o seu domínio privado;
+
+f) Elaborar regulamentos, posturas, contratos e outros instrumentos jurídicos, no âmbito das competências de todos os serviços camarários e com vista à prossecução das atribuições do Município de Mafra, bem como dar todo o apoio jurídico nessas matérias e em processos de parcerias;
+
+g) Acompanhar, em todas as fases, os processos de ilícito de mera ordenação social e os processos de execução fiscal;
+
+h) Assegurar e concorrer para o aperfeiçoamento técnico -jurídico dos atos administrativos municipais;
+
+i) Após solicitação dos órgãos e/ ou pessoas competentes, fazer o adequado tratamento dos pareceres jurídicos externos considerados necessários, bem como elaborar os que forem pedidos por entidades exteriores, desde que haja permissão legal;
+
+j) Elaborar respostas e/ ou fornecer elementos solicitados pelos Tribunais, ou por entidades ou autoridades administrativas, que requeiram esclarecimentos jurídicos relativos à atividade da autarquia;
+
+k) Dinamizar o conhecimento oportuno de normas e regulamentos essenciais à gestão municipal, bem como as suas alterações ou revogações;
+
+l) Assegurar, em articulação com os advogados, o patrocínio nas ações propostas pela Câmara Municipal, ou contra ela, bem como a defesa dos titulares dos órgãos ou funcionários quando sejam demandados em juízo por causa do exercício das suas funções;
+
+m) Providenciar a divulgação, pelos membros do executivo municipal e dirigentes municipais, da legislação e jurisprudência de interesse para as autarquias;
+
+n) A instrução dos processos de constituição, modificação e extinção de empresas municipais;
+
+1 - À Secção do Contencioso e Contraordenações, compete:
+
+a) Registar, formar e instruir os processos graciosos e os contenciosos;
+
+b) Organizar e atualizar os ficheiros relativos aos processos e seus movimentos;
+
+c) Proceder à instrução, análise e conclusão dos processos de expropriação;
+
+d) Assegurar a elaboração de respostas ou fornecimento de elementos solicitados pelos Tribunais, ou entidades públicas, ou autoridades administrativas, tutelares ou não, que requeiram esclarecimentos jurídicos relativos à atividade da autarquia;
+
+e) Promover o apoio e o tratamento de todo o expediente que diga respeito ao patrocínio judiciário nas ações propostas pela Câmara ou contra ela, bem como aos mandatários ao serviço Município;
+
+f) Tramitação dos processos que, pela sua natureza, se devam incluir na área de Contencioso, designadamente em matéria de reclamações e queixas;
+
+g) Organizar, instruir e tramitar os processos de contraordenação e assegurar os atos processuais correspondentes, bem como assegurar o apoio ao Ministério Público;
+
+h) Organizar, instruir e tramitar os processos de execução fiscal, bem como assegurar o apoio ao Ministério Público.
+
+###### Artigo 44.º
+
+##### Divisão de Recursos Humanos
+
+À Divisão de Recursos Humanos, abreviadamente designada por DRH, a cargo de um chefe de divisão municipal compete:
+
+a) Planear, programar, coordenar e controlar as atividades referentes à gestão dos recursos humanos do Município, nomeadamente: recrutamento e seleção, acolhimento, integração, formação e avaliação de desempenho, de acordo com a legislação laboral aplicável, normas regulamentares e procedimentais aplicáveis e orientações estratégicas do executivo;
+
+b) Proceder à gestão do Mapa de Pessoal e, anualmente, elaborar as propostas de alterações que se mostrem adequadas;
+
+c) Promover e colaborar na análise e descrição de funções;
+
+d) Efetivar a programação e execução das necessidades de contratação de trabalhadores;
+
+e) Elaborar a proposta de orçamento anual dos Recursos Humanos, acompanhar a respetiva execução e propor eventuais alterações, em coordenação com a Divisão de Gestão Financeira;
+
+f) (Revogado.)
+
+g) (Revogado.)
+
+h) Proceder ao atendimento interno e externo, no âmbito das competências atribuídas à unidade orgânica;
+
+i) Efetuar a difusão de informação com interesse para os colaboradores;
+
+j) Assegurar a elaboração periódica de indicadores de gestão de recursos humanos, designadamente, em matéria de absentismo;
+
+k) Elaboração, anual, do balanço social;
+
+l) Superintender o setor da limpeza e o arranjo diário das instalações, mobiliário e equipamentos municipais, zelando pela sua manutenção e conservação.
+
+1 - À Secção da Gestão dos Recursos Humanos, compete:
+
+a) Efetuar o processamento e conferência de vencimentos e abonos, de acordo com a legislação em vigor;
+
+b) Elaborar os mapas relativos aos descontos obrigatórios e facultativos dos trabalhadores, incluindo os relativos a entidades de proteção social;
+
+c) Organizar e atualizar os processos individuais dos colaboradores, bem como o respetivo ficheiro;
+
+d) Gerir, administrativamente, o percurso profissional dos colaboradores no Município, incluindo a elaboração de notas cadastrais, declarações ou certidões relativas à situação jurídico-profissional;
+
+e) Gerir o processo de controlo da assiduidade dos colaboradores;
+
+f) Gerir o processo de elaboração do mapa anual de férias, bem como a respetiva execução;
+
+g) Elaborar informações relativas a encargos salariais, trabalho extraordinário, deslocações em serviço, comparticipações por doença, acidentes em serviço e de trabalho e outros abonos e subsídios, tendo em vista suportar a tomada de decisão para a sua racionalização.
+
+2 - À Secção do Recrutamento, valorização dos recursos humanos, compete:
+
+2.1 - Na área do Recrutamento:
+
+a) Gerir os processos de seleção, recrutamento e contratação de pessoal, em função das necessidades identificadas e de acordo com os perfis funcionais estabelecidos;
+
+b) Instruir os processos relativos à mobilidade interna e externa, dando cumprimento às decisões tomadas;
+
+c) Estruturar e implementar o processo de acolhimento de colaboradores que minimize os custos de aprendizagem e agilize as dinâmicas de integração;
+
+d) Efetuar a atualização permanente do registo de colaboradores com acumulação de funções.
+
+2.2 - Na área da valorização dos recursos humanos:
+
+a) Assegurar a valorização dos recursos humanos do Município, promovendo o desenvolvimento das suas competências e incrementando o seu potencial de desempenho, de acordo com a legislação aplicável e as políticas municipais;
+
+b) Assegurar os procedimentos relativos à avaliação do desempenho dos colaboradores do Município, em conformidade com o previsto no sistema integrado de gestão e avaliação do desempenho na Administração Pública;
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) (Revogado.)
+
+g) (Revogado.)
+
+h) Realizar exercícios sistemáticos de avaliação das necessidades de reforço das equipas ou da possibilidade de libertação de recursos para atividades de outras unidades orgânicas;
+
+i) (Revogado.)
+
+2.3 - Na área da Segurança e Saúde dos Trabalhadores:
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+###### Artigo 45.º — Unidade de Formação e Higiene, Segurança e Saúde no Trabalho
+
+À Unidade de Formação e Higiene, Segurança e Saúde no Trabalho, designada abreviadamente por UCFNE, a cargo de um dirigente de 3.º grau, compete:
+
+1 - Na área da Formação:
+
+a) Elaborar o plano de formação, incluindo a respetiva valorização financeira, tendo em conta as necessidades identificadas;
+
+b) Planear e promover a formação interna e externa dos colaboradores;
+
+c) Gerir o plano de formação, avaliando o grau de execução, a eficácia das ações de formação realizadas e o grau de satisfação dos formandos;
+
+d) Propor e elaborar projetos de candidaturas a programas de financiamento público, no âmbito da formação, e coordenar a sua execução física;
+
+e) Realizar a análise do conteúdo dos postos de trabalho e perfis funcionais;
+
+f) Identificar as reais necessidades de formação através do feedback recolhido no quotidiano dos serviços, em sede de avaliação de desempenho e através da aplicação de instrumentos específicos (p.e. questionários, dinâmicas de grupo, etc.);
+
+g) Dinamizar uma eficiente gestão do conhecimento, nomeadamente através da constituição de uma bolsa de formadores internos, da criação de fóruns, físicos ou virtuais, de partilha de conhecimento;
+
+h) Assegurar os procedimentos relativos a estágios curriculares e profissionais, garantindo os contactos com as entidades externas e o cumprimento de eventuais protocolos existentes.
+
+2 - Na área da Higiene, Segurança e Saúde dos Trabalhadores:
+
+a) Promover, em colaboração com os demais serviços municipais, a recolocação de trabalhadores com limitação de capacidade;
+
+b) Promover ações no âmbito da higiene, saúde e segurança no trabalho, de acordo com a legislação, zelando pelo seu cumprimento;
+
+c) Organizar e acompanhar os processos relativos a acidentes em serviço e de trabalho, bem como de doenças profissionais, analisando as causas e as medidas corretivas adequadas, elaborando os respetivos relatórios;
+
+d) Organizar e manter atualizados os processos clínicos individuais e as fichas de aptidão de cada trabalhador;
+
+e) Inventariar as necessidades de meios de proteção coletiva e individual, designadamente vestuário de trabalho, calçado de segurança e equipamento de proteção individual e garantir o respetivo suprimento.
+
+###### Artigo 46.º
+
+##### Divisão de Atividades Económicas e Licenciamentos Diversos
+
+À Divisão de Atividades Económicas e Licenciamentos Diversos, adiante designada abreviadamente por DAELD, a cargo de um chefe de divisão municipal, compete:
+
+1 - Na secção de Licenciamentos Diversos:
+
+a) Instruir processos de licenciamento no âmbito das competências da divisão;
+
+b) Propor e colaborar na elaboração dos regulamentos municipais relativos ao exercício das atividades económicas, designadamente no que concerne à ocupação de via pública para fins comerciais ou à afixação de publicidade, aos horários de funcionamento dos estabelecimentos comerciais, ao comércio a retalho não sedentário exercido por feirantes e vendedores ambulantes, aos mercados municipais, às atividades diversas previstas no [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, e à atividade de transporte em táxi;
+
+c) Organizar e gerir os processos respeitantes à atribuição de licenças de aluguer para transportes ligeiros de passageiros;
+
+d) Tramitar, de acordo com a legislação e regulamentos municipais em vigor, os pedidos de licenças especiais de ruído;
+
+e) Analisar e apresentar proposta de decisão, sobre o alargamento de horário de funcionamento dos estabelecimentos comerciais;
+
+f) Analisar e apresentar proposta de decisão sobre o licenciamento da atividade de guarda-noturno, de arrumador de automóveis, de acampamentos ocasionais, de exploração de máquinas de diversão, de realização de espetáculos de natureza desportiva e divertimentos públicos e de fogueiras populares e queimadas, mantendo atualizados os respetivos ficheiros;
+
+g) Tramitar, de acordo com a legislação e regulamentos municipais em vigor, os pedidos relativos a publicidade e ocupação do espaço público, exceto no âmbito da execução das obras;
+
+h) Elaborar o expediente relacionado com a inspeção periódica de elevadores, monta-cargas, escadas mecânicas e tapetes rolantes e assegurar a liquidação das taxas aplicáveis;
+
+i) Emitir certidões ou fotocópias aos interessados relativas a processos ou documentos constantes dos processos arquivados, designadamente das características de ciclomotores, ou velocípedes com motor, de licenças de condução de ciclomotores e de licenças de condução de veículos agrícolas;
+
+j) Promover os registos relativos à inumação, exumação, trasladação e perpetuidade de sepulturas;
+
+k) Organizar os processos de alienação de terrenos para sepulturas privadas, jazigos, gavetões e ossários e columbários, mantendo atualizados os respetivos registos;
+
+l) Tramitar os procedimentos relativos ao registo, alteração de dados ou cancelamento dos registos de alojamento local, em articulação com os serviços municipais competentes;
+
+m) Fornecer informação, mapas estatísticos e relatórios periódicos à Unidade de Auditoria Interna e Modernização Administrativa, sobre a monitorização do Sistema de Gestão da Qualidade, no âmbito do processo de certificação;
+
+n) Assegurar os procedimentos legais e regulamentares relativos a organização de feiras e mercados sob jurisdição municipal;
+
+o) Tramitar os processos relativos a vendedores ambulantes e feirantes;
+
+p) Assegurar o tratamento das meras comunicações prévias abrangidas pelo regime jurídico de acesso e exercício de atividades de comércio, serviços e restauração, submetidas através de plataformas eletrónicas;
+
+q) Promover a liquidação de taxas e outras receitas municipais e elaborar os respetivos editais, no âmbito das atribuições específicas da Unidade, de acordo com a lei e regulamentos municipais em vigor;
+
+r) Tramitar os procedimentos de autorização de instalação de unidades móveis, de restauração ou de bebidas na área do Município;
+
+s) Emitir as faturas devidas pelo arrendamento de prédios e outros bens do Município;
+
+t) Emitir as faturas e arrecadar a receita proveniente das Meras Comunicações Prévias de Espetáculos de Natureza Artística submetidas através de plataformas eletrónicas;
+
+u) Tramitar os processos relativos a concessões de apoios de praia e outros bens do Município e assegurar a liquidação da sua receita;
+
+v) Assegurar, nos termos conjugados da [Lei n.º 50/2018](https://diariodarepublica.pt/dr/detalhe/lei/50-2018-116068877), de 16 de agosto, e do [Decreto-Lei n.º 97/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2018-117128623), de 27 de novembro, o exercício da competência transferida pelo Estado para autorizar a realização de determinadas atividades e eventos em praias identificadas, anualmente, como águas balneares, por Portaria dos membros do governo com a tutela da Defesa e do Ambiente e Ação Climática, atento o regime, conjugadamente, da Diretiva 2006/7/CE, do Parlamento Europeu e do Conselho, de 15 de fevereiro de 2006, e da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, na sua redação atual;
+
+w) Tramitar o procedimento de exploração das modalidades afins de jogos de fortuna ou azar e outras formas de jogo, nos termos do [Decreto-Lei n.º 98/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2018-117128624), de 27 de novembro;
+
+x) Tramitar o procedimento relativo ao exercício das competências previstas no [Decreto-Lei n.º 57/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2019-122195230), de 30 de abril, que se revelem indispensáveis para a gestão direta pelo município e tenham natureza estruturante para o mesmo ou para a execução de missões de interesse geral e comum a toda ou a uma parte significativa do município.
+
+2 - Na área da Metrologia:
+
+a) Efetuar as operações de controlo metrológico da competência do Município, nos calendários previstos ou a solicitação dos interessados;
+
+b) Emitir as guias de receita e cobrar as taxas devidas pelo controlo metrológico;
+
+c) Proceder à entrega das receitas arrecadadas;
+
+d) Elaborar toda a documentação administrativa aplicável e manter atualizados todos os registos dos instrumentos verificados;
+
+e) Remeter ao arquivo geral, no fim de cada ano, os documentos e processos desnecessários ao seu funcionamento;
+
+f) Assegurar que as condições do laboratório de metrologia sejam mantidas segundo os níveis técnicos exigidos;
+
+g) Executar as tarefas que no âmbito das suas atribuições lhe sejam superiormente solicitadas.
+
+###### Artigo 47.º
+
+##### Divisão de Gestão Urbanística
+
+À Divisão de Gestão Urbanística, adiante designada abreviadamente por DGU, a cargo de um chefe de divisão municipal, compete a análise dos pareceres e informações, emitidos pelos serviços das respetivas Unidades, produzir despachos de decisão e de propostas de decisão, no âmbito do controlo prévio e sucessivo da realização de operações urbanísticas de loteamento, de urbanização, de edificação, utilização dos edifícios e/ou do solo, bem como de outros pedidos conexos, designadamente:
+
+1 - Na área de Gestão Urbanística:
+
+a) Analisar a conformidade com os requisitos legais e regulamentares das participações de realização de obras isentas de controlo prévio, em especial de obras de escassa relevância urbanística;
+
+b) Propor a adoção de medidas de tutela e de reposição da legalidade urbanística;
+
+c) Analisar os pareceres técnicos emitidos nos procedimentos de informação prévia e licenciamento relativos à construção, reconstrução, ampliação, alteração, conservação ou demolição de edificações;
+
+d) Analisar os pareceres técnicos emitidos no âmbito do controlo sucessivo nos procedimentos de comunicação prévia, relativos à construção, reconstrução, ampliação, alteração, conservação ou demolição de edificações;
+
+e) Analisar os pareceres técnicos emitidos nos procedimentos de informação prévia e licenciamento relativos a operações de loteamento, obras de urbanização e trabalhos de remodelação de terrenos;
+
+f) Analisar os pareceres técnicos emitidos no âmbito do controlo sucessivo nos procedimentos de comunicação prévia, relativos a operações de loteamento, obras de urbanização e trabalhos de remodelação de terrenos;
+
+g) Analisar os pareceres técnicos emitidos nos procedimentos de informação prévia, autorização de utilização e autorização de alteração de utilização dos edifícios e suas frações;
+
+h) Analisar os pareceres técnicos emitidos, nos termos da lei, no âmbito de procedimentos relativos à edificação, instalação e classificação de empreendimentos turísticos;
+
+i) Analisar os pareceres técnicos emitidos, nos termos da lei, no âmbito de procedimentos relativos à edificação de estabelecimentos industriais;
+
+j) Analisar os pareceres técnicos emitidos, nos termos da lei, no âmbito de procedimentos relativos à edificação e instalação de estabelecimentos de restauração ou de bebidas, de comércio ou armazenagem de produtos alimentares, de prestação de serviços, dos recintos de espetáculos e de divertimentos públicos, que requeiram a apreciação técnica dos serviços de gestão urbanística;
+
+k) Verificar da obrigatoriedade de promoção de consultas externas e internas, nos termos previstos na lei, e identificar as entidades a consultar;
+
+l) Propor que se determine a realização de vistorias para efeito de concessão de autorização de utilização de edifícios e/ou suas frações ou autorização de alteração de utilização, em articulação com o Serviço de Fiscalização Técnica e Ordenamento do Território, e outros serviços quando se revele necessário, designadamente em procedimentos relativos à legalização de operações urbanísticas ilegais;
+
+m) Propor o estabelecimento, o reforço, a redução ou a libertação de garantias bancárias ou outras prestadas como cauções destinadas a assegurar a boa e regular execução das obras de urbanização;
+
+n) Propor que se determine a realização de vistorias para efeito da receção provisória e definitiva das operações de loteamento e obras de urbanização, em articulação com as outras unidades orgânicas intervenientes;
+
+o) Mandar notificar os interessados, do teor das informações sobre os instrumentos de gestão territorial em vigor para determinada área do município bem como sobre as demais condições gerais a que devem obedecer as operações urbanísticas;
+
+p) Analisar os pareceres técnicos relativos aos pedidos de emissão de certidão comprovativa da verificação dos requisitos legais do destaque de parcela, de compropriedade, de constituição do prédio em regime de propriedade horizontal, de edificação anterior ao RGEU ou em estado de ruína, e outras informações ou certificações relativas à área da gestão urbanística;
+
+q) Propor que se determine a realização de vistorias para averiguação da necessidade de realização de obras de manutenção da segurança, salubridade e arranjo estético das edificações ou de demolição total ou parcial das construções que ameacem ruína ou ofereçam perigo para a saúde pública e para a segurança das pessoas;
+
+r) Analisar os pareceres técnicos sobre pedidos de ocupação da via pública por motivos de obras;
+
+s) Realizar o saneamento liminar no âmbito dos procedimentos de controlo prévio e sucessivo das operações urbanísticas referidas nas alíneas anteriores;
+
+t) Propor as decisões no âmbito dos procedimentos de controlo prévio e sucessivo de operações urbanísticas referidas nas alíneas anteriores;
+
+u) Coordenar os Dirigentes de 3.º Grau, da Unidade de Gestão Urbanística e da Unidade Administrativa de Operações Urbanísticas.
+
+###### Artigo 48.º — Unidade de Gestão Urbanística
+
+À Unidade de Gestão Urbanística, adiante designada abreviadamente por UGU, a cargo de um dirigente de 3.º grau, compete a análise, a emissão de pareceres e a realização de vistorias no âmbito do controlo prévio e sucessivo da realização de operações urbanísticas de loteamento, de urbanização, de edificação, utilização dos edifícios e/ou do solo, bem como de outros pedidos conexos, designadamente:
+
+a) Analisar os pedidos e prestar pareceres técnicos nos procedimentos de informação prévia e licenciamento relativos à construção, reconstrução, ampliação, alteração, conservação ou demolição de edificações;
+
+b) Analisar e prestar pareceres técnicos no âmbito do controlo sucessivo nos procedimentos de comunicação prévia, relativos à construção, reconstrução, ampliação, alteração, conservação ou demolição de edificações;
+
+c) Analisar os pedidos e prestar pareceres técnicos nos procedimentos de informação prévia e licenciamento relativos a operações de loteamento, obras de urbanização e trabalhos de remodelação de terrenos;
+
+d) Analisar e prestar pareceres técnicos no âmbito do controlo sucessivo nos procedimentos de comunicação prévia, relativos a operações de loteamento, obras de urbanização e trabalhos de remodelação de terrenos;
+
+e) Analisar os pedidos e prestar pareceres técnicos nos procedimentos de informação prévia, autorização de utilização e autorização de alteração de utilização dos edifícios e suas frações;
+
+f) Analisar pedidos e prestar pareceres técnicos, nos termos da lei, no âmbito de procedimentos relativos à edificação, instalação e classificação de empreendimentos turísticos;
+
+g) Analisar pedidos e prestar pareceres técnicos, nos termos da lei, no âmbito de procedimentos relativos à edificação de estabelecimentos industriais;
+
+h) Analisar pedidos e prestar pareceres técnicos, nos termos da lei, no âmbito de procedimentos relativos à edificação e instalação de estabelecimentos de restauração ou de bebidas, de comércio ou armazenagem de produtos alimentares, de prestação de serviços, dos recintos de espetáculos e de divertimentos públicos, que requeiram a apreciação técnica dos serviços de gestão urbanística;
+
+i) Verificar da obrigatoriedade de promoção de consultas externas e internas, nos termos previstos na lei, e identificar as entidades a consultar;
+
+j) Realizar vistorias para efeito de concessão de autorização de utilização de edifícios e/ou suas frações ou autorização de alteração de utilização, em articulação com o Serviço de Fiscalização Técnica e Ordenamento do Território, e outros serviços quando se revele necessário, designadamente em procedimentos relativos à legalização de operações urbanísticas ilegais;
+
+k) Propor o estabelecimento, o reforço, a redução ou a libertação de garantias bancárias ou outras prestadas como cauções destinadas a assegurar a boa e regular execução das obras de urbanização;
+
+l) Realizar vistorias para efeito da receção provisória e definitiva das operações de loteamento e obras de urbanização, em articulação com as outras unidades orgânicas intervenientes;
+
+m) Prestar, a requerimento dos interessados, informação sobre os instrumentos de gestão territorial em vigor para determinada área do município bem como sobre as demais condições gerais a que devem obedecer as operações urbanísticas;
+
+n) Analisar e prestar parecer relativo aos pedidos de emissão de certidão comprovativa da verificação dos requisitos legais do destaque de parcela, de compropriedade, de constituição do prédio em regime de propriedade horizontal, de edificação anterior ao RGEU ou em estado de ruína, e outras informações ou certificações relativas à área da gestão urbanística;
+
+o) Realizar vistorias com vista à determinação da necessidade de realização de obras de manutenção da segurança, salubridade e arranjo estético das edificações ou de demolição total ou parcial das construções que ameacem ruína ou ofereçam perigo para a saúde pública e para a segurança das pessoas;
+
+p) Prestar informação sobre a suscetibilidade de se assegurar a conformidade de operação urbanística ilegal com as disposições legais e regulamentares em vigor;
+
+q) Prestar parecer sobre pedidos de ocupação da via pública por motivos de obras.
+
+###### Artigo 49.º
+
+##### Divisão do Planeamento e Ordenamento do Território
+
+À Divisão do Planeamento e Ordenamento do Território, adiante designada abreviadamente por DPOT, a cargo de um chefe de divisão municipal, compete:
+
+a) Promover e acompanhar a elaboração, alteração e revisão dos Planos Municipais de Ordenamento do Território (PMOT), designadamente o Plano Diretor Municipal, Planos de Urbanização e Planos de Pormenor;
+
+b) Coordenar e promover o levantamento, tratamento, sistematização e divulgação de informações e dados estatísticos relevantes para a caracterização do Município, através da criação do Sistema de Monitorização do Ordenamento do Território (SMOT);
+
+c) Coordenar e assegurar a realização dos relatórios de monitorização durante a vigência dos PMOT;
+
+d) Colaborar com a DIIT no desenvolvimento e atualização da informação geográfica, designadamente na atualização do SMOT;
+
+e) Proceder ao acompanhamento dos planos supramunicipais, com incidência no concelho;
+
+f) Colaborar na elaboração de pareceres, referentes a operações de loteamento ou outras operações urbanísticas, quando solicitados;
+
+g) Promover a elaboração de pareceres sobre estudos e programas da iniciativa da administração central, que tenham incidência na área do Município, quando solicitado;
+
+h) Elaborar e/ou coordenar a execução de estudos, projetos e/ ou programas estratégicos para o desenvolvimento sustentável do Município;
+
+i) Elaborar e/ou coordenar a execução de estudos urbanísticos, ou outros projetos de iniciativa municipal, quando solicitado;
+
+j) Colaborar com outras unidades orgânicas no desenvolvimento de ações de impacto territorial, paisagístico e/ ou cultural, de interesse relevante para a estratégia e o desenvolvimento sustentável do Município;
+
+k) Apoiar as respetivas unidades orgânicas afetas à gestão e monitorização do Real Edifício de Mafra, inscrito na Lista de Património Mundial de UNESCO.
+
+###### Artigo 50.º
+
+##### Divisão de Reabilitação Urbana
+
+À Divisão de Reabilitação Urbana, adiante designada abreviadamente por DRU, a cargo de um chefe de divisão municipal, compete:
+
+a) Coordenar a elaboração e a monitorização do Programa Estratégico Municipal para a Reabilitação Urbana;
+
+b) Promover a criação de Áreas de Reabilitação Urbana e respetivas Operações de Reabilitação Urbana, bem como proceder à sua monitorização;
+
+c) Promover a elaboração de estudos técnicos de apoio à preservação, recuperação ou reabilitação do património construído;
+
+d) Apoiar o Executivo Municipal na conceção, implementação e desenvolvimento de estratégias nas áreas da requalificação, valorização do património paisagístico, histórico-cultural e tratamento do espaço público, designadamente o Programa Mafra Requalifica;
+
+e) Proceder ao levantamento do estado de conservação do edificado do concelho, no âmbito da majoração do IMI (Imposto Municipal sobre Imóveis) para os imóveis degradados;
+
+f) Colaborar na elaboração, alteração e revisão dos instrumentos de gestão territorial e/ou processos de planeamento, no âmbito da regeneração, requalificação e reabilitação urbana em articulação com a DPOT;
+
+g) Coordenar os processos de planeamento e programação no âmbito da reabilitação urbana;
+
+h) Desenvolver projetos de intervenção nas Áreas de Reabilitação Urbana, bem como nas Áreas Urbanas Consolidadas de Valor Patrimonial, classificadas como tal, no âmbito do Plano Diretor Municipal ou noutras que se julgue importante intervir no âmbito da salvaguarda do património;
+
+i) Colaborar na apreciação e emitir pareceres em propostas de operações urbanísticas apresentadas a esta Câmara Municipal, em áreas sobre as quais se reconheça a existência de valores históricos e culturais que devam ser alvo de medidas de preservação, bem como sobre os pedidos de execução de obras a efetuar por operadores de infraestruturas em domínio público;
+
+j) Coordenar o processo de monitorização do programa Mafra Requalifica, promovendo o seu contínuo desenvolvimento e interação com a população, bem como propor novas medidas de incentivo e serviços de apoio que se apresentem como mais valias para a melhoria da qualidade do território municipal e a valorização do meio ambiente;
+
+k) Colaborar na execução de projetos, ações e candidaturas a programas de financiamento no âmbito da regeneração urbana, em estreita articulação com outras unidades orgânicas envolvidas;
+
+l) Colaborar com a DIIT na atualização de informação de suporte a disponibilizar no âmbito do SIG Municipal, nas diversas áreas da sua competência, designadamente, localização das intervenções executadas no âmbito das Operações de Reabilitação Urbana, localização de imóveis degradados ou em ruínas, os que acederam ao programa Mafra Requalifica, transações com possível interesse para o município, entre outros.
+
+###### Artigo 51.º
+
+##### Divisão de Informação e Inteligência Territorial
+
+À Divisão de Informação e Inteligência Territorial, adiante designada abreviadamente por DIIT, a cargo de um chefe de divisão municipal, compete:
+
+a) Promover e coordenar a constituição, manutenção e atualização da Infraestrutura de Dados Espaciais (IDE) do Município;
+
+b) Garantir a existência, manutenção e atualização do Sistema de Informação Geográfica Municipal;
+
+c) Definir as especificações técnicas para a aquisição e a normalização de informação geográfica;
+
+d) Propor formação profissional adequada às necessidades específicas identificadas na unidade orgânica;
+
+e) Cooperar e articular com os vários serviços municipais, participando em programas e iniciativas de modernização, otimização e simplificação de processos de trabalho e procedimentos, tendo por objetivo o alinhamento transversal de metodologias, com vista a melhoria da eficácia e eficiência dos serviços e a melhoria do serviço prestado ao munícipe;
+
+f) Elaborar, junto das unidades orgânicas, o levantamento das necessidades de informação geográfica e de requisitos de aplicações SIG, apoiando o desenvolvimento de projetos que permitam a criação, manutenção e atualização da informação geográfica de forma autónoma, garantindo sempre a coesão da base de dados geográfica central do município;
+
+g) Definir em articulação com as restantes unidades orgânicas, as áreas temáticas prioritárias de desenvolvimento do SIG.
+
+1 - (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) (Revogado.)
+
+g) (Revogado.)
+
+h) (Revogado.)
+
+2 - (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) (Revogado.)
+
+g) (Revogado.)
+
+h) (Revogado.)
+
+i) (Revogado.)
+
+3 - Na Área de Cartografia e Cadastro:
+
+a) Assegurar todo o procedimento de aquisição, normalização, validação e distribuição de informação cartográfica e geográfica;
+
+b) Desencadear e acompanhar, sempre que seja necessário, o procedimento inerente ao processo de homologação da informação cartográfica junto da entidade competente;
+
+c) Promover a implementação e a atualização do cadastro predial do município, avaliando as plataformas legais para o efeito e verificando da disponibilidade das várias entidades centrais para a colaboração no processo;
+
+d) Assegurar a integração na IDE do cadastro de infraestruturas disponibilizado pelas entidades exploradoras das respetivas redes, designadamente abastecimento de água, saneamento básico, eletricidade, gás e telecomunicações;
+
+e) Garantir a gestão, atualização e manutenção da base de dados de Processos de Obras Particulares e de Operações de Loteamento.
+
+4 - Na Área da Toponímia:
+
+a) Coordenar e organizar o processo técnico e administrativo de atribuição de designações toponímicas, incluindo a gestão, atualização e manutenção das bases de dados geográfica de arruamentos;
+
+b) Proceder ao levantamento dos números de polícia existentes e a atribuir, nos arruamentos do Município, procedendo à atualização e manutenção das bases de dados geográfica de numeração de polícia;
+
+c) Informar quanto à localização específica, topónimo e numeração de polícia, todos os processos de obras particulares, pedidos de certidão de localização, pedidos de atribuição de numeração e demais processos onde a localização seja requerida;
+
+d) Analisar e informar todas as solicitações, externas ou dos serviços internos, quanto a localização de prédios e demais assuntos do âmbito da Toponímia e da Numeração de Polícia;
+
+e) Elaborar listagens dos alvarás de licença de utilização emitidos e comunicar à Conservatória do Registo Predial;
+
+f) Verificar e coordenar a colocação e manutenção das placas toponímicas dos arruamentos, da competência da Juntas de Freguesia;
+
+g) Proceder à organização e informatização de toda a documentação existente âmbito da Toponímia e da Numeração de Polícia, em suportes vários analógicos e digitais, procedendo ao carregamento, manutenção e atualização das bases de dados geográficas.
+
+###### Artigo 52.º — Unidade de Informação Geográfica e Cidades Inteligentes
+
+À Unidade de Informação Geográfica e Cidades Inteligentes, adiante designada abreviadamente por UIGCI, a cargo de um dirigente de 3.º grau, na dependência direta do chefe divisão da DIIT, compete:
+
+1 - Na Área de Inteligência Territorial e Cidades Inteligentes:
+
+a) Colaborar na elaboração de estudos de planeamento e ordenamento de território, estudos cadastrais e de sistemas de informação geográfica;
+
+b) Colaborar em estudos na área da dinâmica do território, no âmbito das várias áreas do município, sempre que se verifique a necessidade por parte dos diversos serviços;
+
+c) Colaborar em estudos ou planos específicos de desenvolvimento e de impacto estratégico ou estruturante, com vista ao desenvolvimento sustentável do município;
+
+d) Promover a partilha de boas práticas, informações, metodologias, formação, processos e tecnologias na área de um território inteligente e sustentável;
+
+e) Recolher e disponibilizar indicadores de gestão que sejam relevantes ao desenvolvimento de um território inteligente, desenvolvendo plataformas específicas de disponibilização da informação;
+
+f) Proceder à pesquisa, recolha e disponibilização de dados abertos com vista à promoção do desenvolvimento económico e social de um território inteligente;
+
+g) Promover, em colaboração com outras unidades orgânicas, a elaboração de um plano estratégico de cidades inteligentes, incluindo a definição de missão, visão e eixos estratégicos de atuação que o município deva adotar como território gerido de forma inteligente;
+
+h) Procurar, em colaboração com as diversas unidades orgânicas, soluções inovadoras de cidades inteligentes, analisando a sua aplicabilidade no município.
+
+2 - Na Área de Gestão do Sistema de Informação Geográfica:
+
+a) Assegurar a gestão dos portais geográficos do município, promovendo a sua evolução com o intuito de facilitar a interação de todos os utilizadores com o sistema;
+
+b) Garantir a organização, gestão, manutenção e atualização Infraestrutura de Dados Espaciais (IDE) do Município, em colaboração com os restantes serviços;
+
+c) Promover ações de formação ou sessões de esclarecimento aos utilizadores dos serviços, na sua área de competências;
+
+d) Assegurar o apoio a todos os serviços na utilização da informação geográfica, seja através da utilização do portal geográfico ou na criação de projetos específicos, promovendo a atualização da informação geográfica, considerando a base de dados geográfica central disponível a todos os utilizadores internos;
+
+e) Colaborar com as demais unidades orgânicas na definição dos aplicativos e tecnologias a implementar, no âmbito das suas competências com vista à desburocratização administrativa;
+
+f) Responder a todas as solicitações externas ou de serviços internos, relativas a informação geográfica, quer sejam mapas específicos, análise de informação, execução de bases de dados, ou criação de plataformas específicas (sites ou dashboards) com o intuito de resolução de problemas vários e com variados objetivos;
+
+g) Promover a integração de serviços de dados geográficos externos, através de WebServices, que permitam a consulta de informação externa, em tempo real.
+
+###### Artigo 53.º — Unidade de Fiscalização Técnica e Ordenamento do Território
+
+À Unidade de Fiscalização Técnica e Ordenamento do Território, adiante designada abreviadamente por UFTOT, na dependência direta do DUPGT, compete assegurar, através do controlo regular e preventivo, a proteção e defesa do património, do ordenamento territorial e do meio ambiente, no território municipal, designadamente:
+
+a) Garantir a fiscalização das ações indevidas de ocupação, transformação e utilização do solo, bem como das obras de edificação e de urbanização e trabalhos de remodelação de terrenos;
+
+b) Garantir a fiscalização e o acompanhamento das obras resultantes de operações urbanísticas de loteamento, de urbanização e de edificação, bem como proceder à verificação dos respetivos livros de obra;
+
+c) Garantir a fiscalização, em diversas fases das obras, de modo a verificar a conformidade das mesmas com os respetivos projetos aprovados ou resultantes da comunicação prévia, bem como, com os termos e condições dos respetivos títulos e prazos de validade;
+
+d) Elaborar participações e informações, no âmbito das suas competências, para efeitos de procedimentos de contraordenação e de adoção de medidas de tutela e reposição da legalidade urbanística, relacionadas com operações urbanísticas realizadas sem os necessários atos administrativos de controlo prévio ou em desconformidade com os respetivos atos administrativos de controlo prévio ou com as condições da comunicação prévia, ou, ainda, em desconformidade com as normas legais ou regulamentares aplicáveis;
+
+e) Elaborar autos de embargo de operações urbanísticas, quando se verifique a realização de operações urbanísticas realizadas sem os necessários atos administrativos de controlo prévio ou em desconformidade com os respetivos atos administrativos de controlo prévio ou com as condições da comunicação prévia, ou, ainda, em desconformidade com as normas legais ou regulamentares aplicáveis;
+
+f) Participar em vistorias, em colaboração com os serviços da Divisão de Gestão Urbanística, para efeito de concessão de autorização de utilização de edifícios e/ou suas frações ou autorização de alteração de utilização, designadamente, em procedimentos relativos à legalização de operações urbanísticas ilegais;
+
+g) Participar em vistorias, em colaboração com os serviços da Divisão de Gestão Urbanística, ou com as outras unidades orgânicas intervenientes, para efeito da receção provisória e definitiva das operações de loteamento e obras de urbanização;
+
+h) Participar noutras vistorias, para as quais seja necessário a sua participação e quando sejam designados para tal;
+
+i) Analisar a conformidade com os requisitos legais e regulamentares das participações de realização de obras isentas de controlo prévio, em especial de obras de escassa relevância urbanística;
+
+j) Zelar pelo cumprimento dos regulamentos gerais e municipais, no tocante a operações urbanísticas.
+
+k)
+
+###### Artigo 54.º
+
+##### Divisão Administrativa e Procedimentos Urbanísticos
+
+À Divisão Administrativa e Procedimentos Urbanísticos, adiante designada abreviadamente por DAPU, a cargo de um dirigente de 2.º grau, compete a gestão e tramitação dos procedimentos de controlo prévio e sucessivo da realização de operações urbanísticas de loteamento, de urbanização, de edificação, utilização dos edifícios e/ou do solo, bem como de outros pedidos conexos, designadamente:
+
+1 - Na área Administrativa de Gestão de Procedimentos:
+
+a) Assegurar o apoio administrativo e logístico necessário ao normal desenvolvimento da tramitação dos procedimentos urbanísticos, ao nível da instrução, desenvolvimento de todo o procedimento e notificações, zelando pelo cumprimento dos prazos legalmente definidos;
+
+b) Organizar e gerir a receção dos requerimentos, comunicações e outros pedidos, nomeadamente os que são submetidos através da plataforma eletrónica;
+
+c) Conduzir o processo de saneamento e apreciação liminar e, quando se justifique, de rejeição do pedido, nos termos da lei, em articulação com a Divisão de Gestão Urbanística e Divisão de Informação e Inteligência Territorial;
+
+d) Promover a consulta às entidades que, nos termos da lei, devam emitir parecer, autorização ou aprovação sobre os pedidos;
+
+e) Analisar e prestar informação sobre a tramitação do procedimento, remeter o processo para decisão superior e dar andamento aos despachos que incidam sobre os mesmos;
+
+f) Elaborar, a pedido dos interessados, informações sobre o estado e andamento dos processos que lhes digam diretamente respeito;
+
+g) Promover a racionalização e agilização de procedimentos definindo um modelo de atendimento, tratamento de sugestões e reclamações relativos aos processos de urbanização e edificação;
+
+h) Assegurar todas as funções de natureza administrativa da área da gestão urbanística, designadamente as relativas à organização e encaminhamento dos pedidos de licenciamento, comunicações prévias, utilização, à elaboração e expedição de ofícios e ao agendamento de vistorias;
+
+i) Proceder à aplicação e liquidação das taxas que forem devidas pelos serviços prestados;
+
+j) Proceder à emissão dos títulos e certidões inerentes às operações urbanísticas;
+
+k) Proceder ao depósito das fichas técnicas da habitação;
+
+l) Emitir e fornecer certidões e cópias autenticadas dos projetos e outros documentos que integram os processos de urbanismo e certificar factos e atos do âmbito de procedimentos urbanísticos;
+
+m) Promover a melhoria dos serviços de atendimento ao público, através da implementação de processos, de técnicas e de aplicações informáticas adequadas;
+
+n) Garantir a gestão da plataforma tecnológica na área do urbanismo, de modo a implementar a total desmaterialização da circulação de todos os procedimentos associados à gestão urbanística do concelho, bem como à melhoria do acesso dos interessados aos respetivos processos em curso;
+
+o) Promover a simplificação dos procedimentos urbanísticos, em observância das normas legais e regulamentares vigentes, propondo práticas que permitam obter ganhos de eficiência na análise dos procedimentos e rapidez na decisão.
+
+###### Artigo 55.º
+
+##### Divisão de Turismo e Desenvolvimento Económico
+
+À Divisão de Turismo e Desenvolvimento Económico, adiante designada abreviadamente por DTDE, a cargo de um chefe de divisão municipal, compete:
+
+a) (Revogado.)
+
+b) Promover iniciativas tendentes à promoção e desenvolvimento do Turismo, bem como à atração de investimento e à promoção da economia local;
+
+c) Estabelecer parcerias com instituições académicas favorecendo a interligação entre o ensino superior e a economia;
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) Estruturar intervenções de dinamização e promoção no âmbito dos diferentes produtos turísticos;
+
+g) (Revogado.)
+
+h) (Revogado.)
+
+i) Gerir, dinamizar e promover a certificação de Mafra como Destino Turístico Sustentável;
+
+j) Gerir os postos de turismo municipais de forma integrada com os restantes canais de interação com o turista;
+
+k) Desenvolver eventos de animação dirigidos ao mercado turístico;
+
+l) Dinamizar ações de gestão e salvaguarda da Reserva Mundial de Surf da Ericeira, promovendo parcerias e protocolos com as associações locais, nacionais e internacionais;
+
+m) Fomentar e apoiar o desenvolvimento do movimento associativo, nas suas diversas formas, desportivo, cultural e recreativo, promovendo também atividades que garantam a qualificação e a promoção das atividades dos grupos dessas mesmas entidades;
+
+n) Colaborar e dar apoio próximo às associações e às estruturas da comunidade municipal ligadas aos processos associativos, com vista à concretização de projetos e programas adequados de âmbito local e à melhor utilização e racionalização das infraestruturas e equipamentos locais;
+
+o) Fomentar parcerias com mercados potenciais para promoção do destino Mafra;
+
+p) Promover a organização de eventos tradicionais de interesse para o turismo e, no mesmo âmbito, estimular e apoiar a organização de acontecimentos promovidos por outras entidades que se mostrem adequadas para a valorização ou dignidade da imagem turística do município;
+
+q) Assegurar a articulação e cooperação com os organismos oficiais com intervenção na área do turismo e com as organizações representativas dos agentes económicas do setor;
+
+r) Apoiar a realização de eventos culturais, desportivos, socioprofissionais entre outros no Município, que contribuam para a animação turística local e de forma a consolidar o destino de Mafra nos circuitos turísticos internacionais.
+
+###### Artigo 56.º — Unidade de Turismo
+
+À Unidade de Turismo, adiante designada abreviadamente por UT, a cargo de um dirigente de 3.º grau, compete:
+
+a) Gerir as atividades de promoção, animação e gestão do destino, assegurando os meios e ferramentas de informação turística;
+
+b) Organizar e dirigir um serviço de apoio ao investidor turístico, promovendo a criação de produtos e serviços turísticos que utilizem de forma consciente os recursos e ativos turísticos do concelho;
+
+c) Gerir, dinamizar e promover a certificação de Mafra como Destino Turístico Sustentável;
+
+d) Apoiar a criação e implementação de estratégicas participativas, envolvendo os diversos agentes que contribuem para o desenvolvimento do território enquanto destino turístico;
+
+1 - Na área dos Postos de Turismo (Informação Turística):
+
+a) Gerir e dinamizar os Postos de Turismo de Mafra e da Ericeira;
+
+b) Assegurar o atendimento e informação aos turistas, monitorizando os dados referendes ao número de visitantes às instalações turísticas;
+
+c) Promover a correta gestão e inventariação do material de promoção turística;
+
+d) Propor a edição de materiais gráficos e audiovisuais informativos e promocionais do concelho e dos seus recursos turísticos.
+
+2 - Na área do Centro de Interpretação da Reserva Mundial de Surf da Ericeira (CIRMSE):
+
+a) Gerir o CIRMSE e os seus equipamentos, promovendo a atualização dos conteúdos da exposição permanente;
+
+b) Promover ações de dinamização do CIRMSE, assumindo como primária a vocação de educação e sensibilização ambiental;
+
+c) Dinamizar ações de gestão e salvaguarda da Reserva Mundial de Surf da Ericeira, promovendo parcerias e protocolos com as associações locais, nacionais e internacionais.
+
+3 - Na área da Gestão do Destino Turístico:
+
+a) Elaborar e acompanhar mecanismos e ferramentas de gestão do destino turístico, tendo por base o desenvolvimento local sustentável, através da realização e monitorização de diagnósticos estratégicos e planos de ação;
+
+b) Gerir o posicionamento turístico da marca Mafra/Ericeira e acompanhar o processo de certificação de Mafra como Destino Turístico Sustentável;
+
+c) Promover a criação, implementação e monitorização do Plano Estratégico do Turismo para o Concelho de Mafra;
+
+d) Assegurar a articulação e cooperação com os organismos oficiais com intervenção na área do turismo e com as organizações representativas dos agentes económicos do setor;
+
+e) Estabelecer, com entidades relevantes, uma rede de partilha de conhecimento e boas práticas, que suporte a definição, alinhamento e evolução da estratégia do turismo de Mafra, com enfoque para parceiros da área do turismo de negócios, científico e de lazer, bem como aos principais agentes económicos envolvidos;
+
+f) Assegurar o secretariado dos Conselhos Municipais de Turismo e de Gestão da Reserva Mundial de Surf da Ericeira.
+
+4 - Na área de Apoio ao Empresário Turístico e Alojamento Local:
+
+a) Gerir a difusão da informação de interesse para os agentes e operadores turísticos do Concelho;
+
+b) Promover a formação e capacitação dos agentes e operadores turísticos que operam no território;
+
+c) Fomentar a cooperação entre as diversas entidades relacionadas com a área do turismo, no sentido da união de esforços para criar uma dinâmica de turismo no concelho, aproximando o serviço público local aos agentes económicos;
+
+d) Estudar e promover medidas de estímulo aos operadores dos setores hoteleiro, de restauração e de serviços turísticos;
+
+e) Colaborar com os diferentes setores do Município, na classificação dos estabelecimentos similares de hotelaria;
+
+f) Emitir parecer sobre a abertura e classificação de estabelecimentos hoteleiros e similares e assegurar as respetivas vistorias;
+
+g) Acompanhar os processos que permitam fixar no território concelhio estruturas de formação para a qualificação do setor do turismo, recreio e lazer;
+
+h) Manter o Observatório do Turismo, recolhendo e tratando informação estatística que auxilie no processo de tomada de decisão para as políticas e estratégias municipais, acompanhando a implementação dos Objetivos de Desenvolvimento Sustentável no setor do turismo, no Concelho.
+
+5 - Na área de Promoção e Animação Turística:
+
+a) Apoiar a realização de eventos turísticos, culturais, desportivos e institucionais que contribuam para a animação turística do concelho e a sua projeção no panorama nacional e internacional;
+
+b) Promover e dinamizar iniciativas turístico-culturais de base local e comunitária, em especial o artesanato e a gastronomia local, através da realização e apoio a eventos e da gestão da Mostra de Artesanato de Mafra;
+
+c) Promover a organização de eventos tradicionais de interesse para o turismo e, no mesmo âmbito, estimular e apoiar a organização de acontecimentos promovidos por outras entidades que se mostrem adequadas para a valorização ou dignificação da imagem turística do concelho;
+
+d) Acompanhar a realização de eventos de surfing, em cooperação com agentes nacional e internacionais, colaborando na projeção internacional da Reserva Mundial de Surf da Ericeira como local de excelência para a prática de desportos de deslize;
+
+e) Promover o reforço da internacionalização dos recursos naturais e culturais do concelho de Mafra, aumentando a visibilidade do mesmo como espaço de cultura e destino turístico de referência neste domínio;
+
+f) Dinamizar a participação ativa do Município nas parcerias existentes, nacionais e internacionais, que visem a dinamização do turismo local, incluindo as iniciativas nascidas no âmbito dos protocolos de geminação;
+
+g) Desenvolver e promover o concelho como um destino turístico apoiado na sustentabilidade.
+
+###### Artigo 57.º — Unidade de Desenvolvimento Económico e Associativo
+
+À Unidade de Desenvolvimento Económico e Associativo, adiante designada abreviadamente por UDEA, a cargo de um dirigente de 3.º grau, compete:
+
+1 - Na área de Apoio às Associações:
+
+a) Fomentar o associativismo no concelho, nas suas diferentes vertentes, designadamente cultural, desportiva ou recreativa;
+
+b) Apoiar e estimular a criação, manutenção, desenvolvimento e capacitação de associações, públicas ou privadas, implantadas no concelho, ou que neste desenvolvam a sua atividade, de modo a potenciar e consolidar o desenvolvimento socioeconómico e cultural local;
+
+c) Promover, gerir e avaliar programas de apoio ao movimento associativo concelhio;
+
+d) Proceder ao diagnóstico e apuramento estatístico das diversas formas de associativismo existentes no Município;
+
+e) Definir, propor e implementar o Programa de Apoio ao Associativismo, de acordo com o respetivo regulamento;
+
+f) Apoiar o movimento associativo para que este aumente os seus padrões de qualidade e promova uma oferta onde coexista tradição, inovação e desenvolvimento.
+
+2 - Na área de Desenvolvimento Económico:
+
+a) Promover e dinamizar o comércio local do concelho, nomeadamente através da realização de ações de capacitação digital;
+
+b) Colaborar com as associações do setor no fomento do associativismo no comércio e na restauração;
+
+c) Assegurar a cooperação com entidades ligadas ao setor empresarial;
+
+d) Colaborar com as associações, cuja ação concorra para a conceção de medidas, desígnios e programas fundamentais para o desenvolvimento transversal e coerente do território, e lhe confira mais coesão, competitividade, sustentabilidade, conetividade e ação colaborativa.
+
+3 - Na área de eventos (projetos):
+
+a) Sistematizar o plano anual de eventos organizados e apoiados pelo Município de Mafra, em articulação com as outras unidades orgânicas, de forma a evitar sobreposições de datas, locais e públicos-alvo;
+
+b) Gerir o calendário de utilização de espaços municipais destinados à realização de eventos;
+
+c) Efetuar o levantamento das necessidades de apoio logístico à realização de eventos organizados e apoiados pelo Município de Mafra, para envio a outras unidades orgânicas com intervenção útil e necessária;
+
+d) Planear e gerir a utilização, cedência ou empréstimo de material necessário à produção dos eventos organizados e apoiados pelo Município de Mafra;
+
+e) Planear e preparar os processos de aquisição de bens e de contratação de serviços externos (sempre que necessários) para a produção dos eventos organizados e apoiados pelo Município de Mafra, numa ótica de economia de escala.
+
+###### Artigo 58.º
+
+##### Divisão de Intervenção Social, Saúde, Emprego e Habitação
+
+À Divisão de Intervenção Social, Saúde, Emprego e Habitação, adiante designada por DISSEH, a cargo de um chefe de divisão municipal, compete:
+
+a) Assegurar a intervenção nas áreas de apoio social e proteção dos cidadãos em situação de vulnerabilidade socioeconómica, através da conceção, execução e avaliação de medidas adequadas;
+
+b) Operacionalizar os projetos promovidos pela autarquia na área da ação social e garantir a sua avaliação sistemática, de modo que sejam ajustados às necessidades dos munícipes;
+
+c) Garantir o atendimento e a análise das situações de natureza social, rececionadas nos serviços municipais;
+
+d) Acompanhar a integração, nos diversos serviços, dos cidadãos propostos pelas diversas entidades oficiais para o cabal cumprimento de obrigações para com a comunidade;
+
+e) Participar em grupos de trabalho multidisciplinares e pluri-institucionais, com o objetivo de assegurar o acompanhamento social de munícipes em situação de vulnerabilidade social.
+
+f) Garantir a conceção, implementação e avaliação de documentos estratégicos, de diagnóstico e de ação, no âmbito da intervenção social, saúde, emprego e habitação;
+
+g) Prestar apoio e colaborar com instituições do setor social, designadamente Instituições ­Particulares de Solidariedade Social, Organizações Não Governamentais e outras Entidades de natureza social, através da realização de projetos, bem como do atendimento e encaminhamento de situações entre si;
+
+h) Participar na Comissão de Proteção de Crianças e Jovens em perigo, assegurando o apoio logístico e de recursos humanos, conforme disposições regulamentares aplicáveis;
+
+i) Participar na promoção de ações e projetos de promoção de emprego e formação profissional, direcionada para as necessidades da população, bem como para o tecido empresarial e institucional;
+
+j) Efetuar o acompanhamento dos inquilinos de fogos municipais arrendados, nomeadamente no que respeita às condições habitacionais e socioeconómicas destes;
+
+k) Proceder ao acompanhamento regular da ocupação dos fogos municipais, propondo, de acordo com as avaliações das situações sociais realizadas, a celebração de contratos adequados e ajustados;
+
+l) Realizar o atendimento e avaliação de Munícipes a viver em condições habitacionais precárias, promovendo o encaminhamento para as respostas adequadas e disponíveis/ despoletáveis;
+
+m) Participar na conceção e acompanhamento dos instrumentos municipais de planeamento urbano, numa perspetiva concertada e adequada às necessidades de natureza social habitacional;
+
+n) Dar cumprimento ao estabelecido em protocolos de parceria, visando a melhor e mais ampla oferta de serviços aos munícipes, nomeadamente com Entidades da Administração Central;
+
+o) Garantir o desenvolvimento das respostas e serviços rececionados no âmbito das competências transferidas da administração central para a autarquia, assegurando a adequada alocação de recursos humanos, a disseminação da informação regulamentar aplicável e o ajuste dos procedimentos operacionais dos serviços;
+
+p) Dinamizar a Rede Social de Mafra;
+
+q) Assegurar a conceção e permanente adequação dos instrumentos de trabalho, quer de eficácia externa, quer interna.
+
+###### Artigo 59.º — Unidade de Desenvolvimento Social
+
+À Unidade de Desenvolvimento Social, adiante designada abreviadamente por UDS, a cargo de um dirigente de 3.º grau, compete:
+
+1 - Na área do apoio às IPSS e outras Entidades:
+
+a) Conceber, propor e desenvolver formas de apoio às IPSS e Entidades;
+
+b) Assegurar a articulação e cooperação entre o Município e as IPSS e Entidades no âmbito do trabalho em rede, promovendo uma intervenção integrada;
+
+c) Planear, propor e promover formas de circulação de informação entre as IPSS e Entidades e o Município, fazendo uso das tecnologias de informação;
+
+d) Coordenar a operacionalização do consórcio do Programa Operacional de Apoio às Pessoas Mais Carenciadas, em articulação com a entidade gestora e com as entidades mediadoras;
+
+e) Promover a divulgação de programas de apoio e financiamento, nacionais e internacionais, dirigidos às IPSS e Entidades;
+
+f) Apoiar o desenvolvimento e capacitação das entidades do setor social de modo a potenciar e consolidar o desenvolvimento social local.
+
+2 - Na área do apoio às Parcerias e Protocolos:
+
+a) Efetuar o acompanhamento das parcerias e protocolos integrados nas áreas de intervenção social, saúde e emprego;
+
+b) Organizar e manter atualizada a informação que reflita a articulação com os diversos parceiros;
+
+c) Propor o estabelecimento de parcerias nas áreas de intervenção social, saúde e emprego que sejam promotoras do bem-estar e qualidade de vida dos munícipes;
+
+d) Garantir a dinamização do Banco Local de Voluntariado do Município e a articulação deste com as demais unidades orgânicas municipais e outras entidades públicas e privadas aderentes, ao abrigo da lei do voluntariado e correspondente Protocolo com a CASES;
+
+3 - Na área do Desenvolvimento Social/Estratégico:
+
+a) Acompanhar o desenvolvimento da Estratégia Municipal para o Envelhecimento Ativo e Saudável do Concelho de Mafra, coordenando os respetivos planos anuais, a sua execução, monitorização e avaliação;
+
+b) Acompanhar a elaboração e implementação da Estratégia Municipal de Saúde, promovendo e apoiando projetos e iniciativas, bem como a sua monitorização e execução;
+
+c) Prestar apoio logístico e administrativo no Conselho Municipal de Saúde;
+
+d) Propor e operacionalizar medidas e projetos/programas que visem a promoção da saúde e do bem-estar dos munícipes;
+
+e) Prestar apoio no âmbito da Rede Social, designadamente no acompanhamento das reuniões de Núcleo Executivo, do Conselho Local de Ação Social e da Plataforma Supraconcelhia da Grande Lisboa;
+
+f) Acompanhar a elaboração e implementação do Diagnóstico Social enquanto documento estratégico relevante para conhecer a realidade social do Município e a implementação do correspondente Plano de Desenvolvimento Social;
+
+g) Coordenar o plano de atividades da Rede Social, através do desenvolvimento de projetos e monitorização da sua execução;
+
+h) Acompanhar os grupos de trabalho temáticos da Rede Social;
+
+###### Artigo 60.º — Unidade de Intervenção Social
+
+À Unidade de Intervenção Social, adiante designada abreviadamente por UIS, a cargo de um dirigente de 3.º grau, compete:
+
+1 - Assegurar o atendimento e acompanhamento social aos cidadãos, nomeadamente através de:
+
+a) Operacionalizar, dinamizar e supervisionar as equipas e estruturas operacionais de atendimento social, presencial e/ou domiciliários;
+
+b) Coordenação dos Serviços de Atendimento e Acompanhamento Social (SAAS), no âmbito das competências transferidas do Estado para o Município, no domínio da Ação Social e correspondentes atribuições;
+
+c) Coordenação do NLI - Núcleo de Inserção, no âmbito das competências transferidas do Estado para o Município, no domínio da Ação Social e correspondentes atribuições;
+
+d) Acompanhamento e avaliação da execução dos protocolos de colaboração estabelecidos entre os Município e as instituições particulares de solidariedade social, no âmbito das competências transferidas do Estado para o Município, no domínio da Ação Social;
+
+e) Acompanhamento e avaliação regular da utilização das plataformas de registo de dados, de suporte ao serviço de atendimento social;
+
+f) Assegurar a sistematização da informação a reportar à DGAL e/ou outras, no âmbito do acompanhamento da execução física e financeira das competências transferidas do Estado para o Município, no domínio da Ação Social.
+
+2 - Acompanhar a elaboração, implementação e atualização sistemática da informação da Carta Social Municipal, competência transferida do Estado para o Município, no domínio da Ação Social.
+
+3 - Participar em grupos de trabalho multidisciplinares e pluri-institucionais, com o objetivo de assegurar o acompanhamento e apoio social de munícipes em situação de vulnerabilidade social.
+
+4 - Assegurar a articulação e cooperação entre os serviços de ação social do Município e as Instituições Particulares de Solidariedade Social (IPSS) e outras Entidades, visando uma intervenção integrada no apoio aos cidadãos.
+
+5 - Planear, propor e promover formas de circulação de informação entre os serviços de ação social do Município e as Instituições Particulares de Solidariedade Social (IPSS) e Entidades.
+
+6 - Assegurar a intervenção com equipas de apoio social em situações de crise e/ou catástrofe, nomeadamente no âmbito da ativação do Plano Municipal de Emergência.
+
+7 - Elaborar e implementar projetos e programas que promovam a sistemática capacitação, autonomia e inclusão social dos cidadãos.
+
+###### Artigo 61.º
+
+##### Divisão de Promoção e Património Cultural
+
+À Divisão de Promoção e Património Cultural, adiante designada abreviadamente por DPPC, a cargo de um chefe de divisão municipal, compete:
+
+a) A preparação, execução e avaliação dos meios, programas e medidas municipais referentes às áreas de promoção cultural, bibliotecas, museus, centros de interpretação, arquivos e património cultural;
+
+b) Assegurar o desenvolvimento sociocultural do concelho, garantindo uma oferta cultural diversificada, numa perspetiva de qualificação das pessoas e desenvolvimento sustentável do concelho;
+
+c) Promover a gestão, o estudo, a salvaguarda e a conservação do património cultural local;
+
+d) Promover atividades, no âmbito da valorização e divulgação do património histórico-cultural e do património arqueológico local e regional;
+
+e) Apoiar a recuperação e valorização das atividades artesanais e das manifestações etnográficas de interesse local;
+
+f) Assegurar a salvaguarda do património cultural arquitetónico e arqueológico;
+
+g) Assegurar o acompanhamento da realização de obras no Município suscetíveis de colocar em causa vestígios arqueológicos;
+
+h) Promover o restauro e conservação preventiva do acervo museológico;
+
+i) Garantir a gestão dos arquivos municipais promovendo a sua preservação como instrumento de cidadania e de valorização do património e identidade municipal;
+
+j) Desenvolver e gerir a rede de bibliotecas municipais, promovendo o acesso à informação e conhecimento, bem como o livro e a leitura;
+
+k) Gerir as Galerias Municipais e outros espaços culturais através da programação, organização e realização de exposições, apoiando os artistas e divulgando as artes plásticas em geral;
+
+l) Promover o desenvolvimento de uma política editorial que assegure a preservação e difusão da memória e identidade municipais;
+
+m) Assegurar a edição regular de edições de caráter científico ou genérico;
+
+n) Estabelecer parcerias com instituições académicas favorecendo a interligação entre o ensino superior e a criação artística;
+
+o) Promover e apoiar medidas e ações tendentes à preservação dos valores culturais do Concelho;
+
+p) Promover e incentivar a difusão e criação da Cultura nas suas variadas manifestações.
+
+###### Artigo 62.º — Unidade de Cultura
+
+À Unidade de Cultura, adiante designada abreviadamente por UC, a cargo de um dirigente de 3.º grau, compete:
+
+a) (Revogado.)
+
+b) Promover e organizar ações de investigação, salvaguarda, sensibilização, classificação, divulgação e valorização do património cultural concelhio, nas suas vertentes materiais (património edificado) e imateriais junto de diferentes públicos, podendo assumir diversas formas, como exposições, publicações de artigos, participação em conferências, entre outros;
+
+c) Dinamizar os espaços culturais municipais;
+
+d) Propor e desenvolver estudos com vista ao desenvolvimento de publicações científicas e de divulgação, onde se apresentem os trabalhos desenvolvidos à comunidade científica e local, nas áreas do Património Histórico, Arquitetónico e Artístico;
+
+e) Assegurar a articulação e cooperação com os organismos oficiais com intervenção na área da cultura e com as organizações representativas dos agentes económicos do setor.
+
+f) Garantir a divulgação do património concelhio, através da promoção de publicações relacionadas com as temáticas locais.
+
+1 - (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) (Revogado.)
+
+i) (Revogado.)
+
+ii) (Revogado.)
+
+iii) (Revogado.)
+
+2 - (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+3 - Na área de Património Histórico, Arquitetónico e Artístico:
+
+a) Salvaguardar e promover o património cultural imóvel, móvel e imaterial do Município de Mafra, promovendo a pesquisa, cadastro, inventariação, classificação, proteção e divulgação do mesmo;
+
+i) Promover e coordenar a salvaguarda do património arquitetónico e artístico do Município de Mafra, cooperando ativamente com outras entidades nacionais e internacionais, potenciando uma visão integrada e transversal deste património municipal;
+
+ii) Emitir pareceres, quando solicitado, sobre questões relacionadas com o património histórico, arquitetónico e artístico do Concelho, atuando em interdisciplinaridade com outros serviços da Câmara Municipal, na preservação e elaboração de propostas de conservação para espaços patrimoniais;
+
+iii) Gerir a Coleção de Arte Municipal (inventariação e acondicionamento), que resulta sobretudo da doação de peças originárias das exposições realizadas nas galerias municipais.
+
+iv) Estudar, conservar e divulgar o espólio do Mestre Escultor Domingos Soares Branco, do qual a Câmara Municipal é depositária, com o estudo das suas coleções, organização e informatização do inventário, conservação e acondicionamento do seu acervo, realização de exposições, levando a cabo a conservação das suas coleções, mediante o restauro.
+
+4 - (Revogado.)
+
+a) (Revogado.)
+
+i) (Revogado.)
+
+ii) (Revogado.)
+
+5 - Na área de Artes Plásticas:
+
+a) Promover atividades que visem a ocupação dos tempos livres e de lazer através do ensino das artes plásticas;
+
+i) Colaborar na realização de atividades desenvolvidas por outros serviços da Câmara Municipal;
+
+ii) Gerir as Galerias Municipais e outros espaços culturais através da programação, organização e realização das exposições, apoiando os artistas e divulgando as artes plásticas em geral, contribuindo assim para a dinamização cultural do concelho.
+
+6 - Na área de Animação Cultural:
+
+a) Promover, direta ou indiretamente, diferentes atividades culturais, em toda a área do Município;
+
+b) Propor e operacionalizar atividades de intercâmbio cultural com outros municípios;
+
+c) Apoiar associações, comissões, unidades de produção e grupos artísticos e culturais, bem como projetos de animação cultural;
+
+d) Gerir os Auditórios Municipais;
+
+e) Colaborar, com outros serviços municipais, nas atividades de animação cultural incluídas em projetos desses serviços.
+
+7 - (Revogado.)
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) (Revogado.)
+
+g) (Revogado.)
+
+h) (Revogado.)
+
+i) (Revogado.)
+
+###### Artigo 63.º — Unidade de Arquivo Municipal e Património Mundial UNESCO
+
+À Unidade de Arquivo Municipal e Património Mundial UNESCO, adiante designada abreviadamente por UAMPMU, a cargo de um dirigente de 3.º grau, compete:
+
+a) Gerir os fundos documentais à guarda do Município de Mafra, promovendo a sua conservação e acondicionamento, organização e informatização;
+
+b) Promover e organizar ações de investigação, salvaguarda, sensibilização, junto de diferentes públicos, podendo assumir diversas formas, como exposições, publicações de artigos, participação em conferências, entre outros;
+
+c) Propor e desenvolver estudos com vista ao desenvolvimento de publicações científicas e de divulgação, onde se apresentem os trabalhos desenvolvidos à comunidade científica e local;
+
+d) Assegurar a articulação e cooperação entre os serviços no âmbito gestão e monitorização Real Edifício de Mafra, Bem inscrito na Lista de Património Mundial de UNESCO em 2019.
+
+1 - Na área do Arquivo:
+
+a) Promover, definir e implementar os procedimentos com vista à organização, conservação, avaliação, seleção e disponibilização da documentação produzida e recebida pela Câmara Municipal de Mafra e/ ou à sua custódia;
+
+b) Promover o desenvolvimento de investigação e estudo relativo ao concelho de Mafra e sua divulgação em edições municipais;
+
+c) Assegurar e estabelecer ligações com departamentos do Estado com competência na área dos arquivos;
+
+d) Assegurar a articulação entre o sistema integrado de gestão documental e o sistema de gestão de qualidade;
+
+e) Proceder ao tratamento arquivístico da documentação (registo, descrição, cotagem, digitalização, intervenções técnicas e preservação);
+
+f) Assegurar a gestão e transferência da documentação dos diferentes serviços;
+
+g) Proceder à avaliação e seleção de documentação (a eliminar e/ ou conservar), decorridos os prazos estipulados, e propor a sua inutilização, de acordo com a lei em vigor;
+
+h) Assegurar a receção dos pedidos de informação e proceder à respetiva pesquisa;
+
+i) Apoiar os utilizadores, orientando-os na pesquisa de documentos;
+
+j) Assegurar o controlo das requisições internas e externas;
+
+k) Proceder à definição de procedimentos relativos à desmaterialização de suportes;
+
+l) Proceder à definição de procedimentos e critérios relativos ao empréstimo, consulta e reprodução de documentação, de acordo com o seu estado de conservação;
+
+m) Assegurar medidas de proteção e preservação dos fundos em depósito;
+
+n) Promover e apoiar ações que visem a aquisição, depósito e doação de documentação de interesse municipal.
+
+2 - Na área de Estudos de História Local:
+
+a) Pesquisar e recolher a documentação, relativa ao concelho de Mafra;
+
+b) Apoiar, em colaboração com os serviços de Antropologia, Arqueologia e Património Histórico e Arquitetónico, a investigação histórica sobre o concelho de Mafra;
+
+c) Disponibilizar ao público os recursos de informação referentes ao concelho de Mafra;
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) Promover projetos que visem a disponibilização ao público dos recursos de informação referentes ao concelho de Mafra.
+
+3 - Na área do Património Mundial da UNESCO:
+
+a) Articular com os serviços a recolha de informação relativa ao índice de desempenho e cumprimento das ações, em linha com as recomendações e relatórios da WHC, de acordo os prazos indicados;
+
+b) Informar e sensibilizar juntos dos serviços, no âmbito do acompanhamento do estado de conservação do Bem e plano de gestão, boas praticas, normas e diretrizes para a salvaguarda do Valor Universal Excecional do Bem, bem como programas e apoios institucionais;
+
+c) Propor e implementar modelos de partilha e circulação de informação internos, que facilitem e agilizem a resposta a todas as solicitações no âmbito da gestão e monitorização do Bem
+
+###### Artigo 64.º — Unidade de Museus e Centros Interpretação
+
+À Unidade de Museus e Centros Interpretação, designada abreviadamente por UMCI, a cargo de um dirigente de 3.º grau, compete:
+
+a) Gerir os acervos museológicos à guarda do Município de Mafra, afetos aos seus museus e centros de interpretação, adotando medidas indicadas para a sua conservação e acondicionamento, organização e informatização do inventário, estudo das coleções, bem como levar a cabo a sua valorização e enriquecimento, mediante o restauro e a aquisição de bens culturais, de forma seletiva e gradual;
+
+b) Gerir os espólios sob tutela do Município de Mafra, designadamente afetos ao Museu Municipal Prof. Raúl de Almeida, Museu Popular Beatriz Costa,, Centro de Interpretação da Vila de Mafra (CIVIMafra) e Centro de Interpretação do Barro de Mafra ou outras futuras instalações desse âmbito, levando a cabo as ações enunciadas na alínea anterior;
+
+c) (Revogado.)
+
+d) Apoiar iniciativas culturais que partam do seio da comunidade através da prática científica para que serviço museológico do Município de Mafra vá, ao encontro das comunidades locais (caso de outros núcleos museológicos, entidades associativas e escolares);
+
+e) Levar a cabo iniciativas ligadas ao estudo da cultura local, de modo a promover e organizar ações de investigação, salvaguarda, sensibilização, divulgação e valorização do património cultural imaterial concelhio, numa perspetiva museológica e antropológica, junto de diferentes públicos, nomeadamente, iniciativas diversas, tais como atividades de âmbito etnográfico, exposições, publicações de artigos, participação em conferências, visitas guiadas, entre outros;
+
+f) Propor e desenvolver estudos com vista à preparação de publicações científicas e de divulgação, onde se apresentem à comunidade científica e local os trabalhos desenvolvidos nas áreas museológica e antropológica;
+
+g) (Revogado.)
+
+i) (Revogado.)
+
+ii) (Revogado.)
+
+iii) (Revogado.)
+
+h) Apoiar a representação do Município de Mafra nas ações relacionadas com a APTCVC ou outras entidades congéneres, bem como participar e colaborar em iniciativas que possam contribuir para promoção e a valorização da cerâmica mafrense:
+
+###### Artigo 65.º — Unidade de Arqueologia
+
+À Unidade de Arqueologia, designada abreviadamente por UA, a cargo de um dirigente de 3.º grau, compete:
+
+a) Estudar o património arqueológico concelhio, com uma estratégia concertada de recolha e estudo da informação arqueológica para o conhecimento da história do concelho, implementando programas de valorização patrimonial nos sítios arqueológicos;
+
+b) Propor e executar projetos de escavação e monitorização nos sítios arqueológicos e monumentos concelhios;
+
+c) Elaborar pareceres técnicos sobre a gestão do subsolo concelhio;
+
+d) Elaborar relatórios no âmbito da preparação de quaisquer trabalhos arqueológicos de campo, assim como os relatórios finais;
+
+e) Efetuar acompanhamentos, sondagens e escavações, para investigação, para minimizar os impactos negativos de projetos municipais ou salvar arqueossítios em risco de destruição iminente;
+
+f) Promover e manter atualizado o inventário do património arqueológico concelhio e propor a classificação dos sítios com maior valor cultural;
+
+g) Promover a limpeza, conservação e sinalização de sítios arqueológicos;
+
+h) Elaborar e manter atualizada a Carta Arqueológica de Mafra;
+
+i) Desenvolver estudos com vista à preparação de publicações académicas e de divulgação, promovendo a divulgação dos resultados científicos obtidos através dos trabalhos arqueológicos (quer para pares quer, em linguagem clara e acessível, para o público em geral);
+
+j) Gerir o Depósito Oficial de Bens Arqueológicos de Mafra, articulando com entidades externas a integração de todo o espólio referente ao território concelhio.
+
+k) Implementar projetos educativos (para escolas, família ou público em geral) nas áreas da Arqueologia e História.
+
+l) Gerir e divulgar os Centros de Interpretação das Linhas de Torres (Mafra e Serra do Socorro), assim como todas as obras militares do município (monumentos nacionais ao abrigo do [Decreto n.º 10/2019](https://diariodarepublica.pt/dr/detalhe/decreto/10-2019-121579661)), no âmbito da Rota Histórica das Linhas de Torres - Associação para o Desenvolvimento Turístico e Patrimonial das Linhas de Torres Vedras (RHLT);
+
+m) Gerir e divulgar as ações desenvolvidas no âmbito do projeto intermunicipal “Felicitas Iulia Olisipo - Lisboa Romana”;
+
+n) Colaborar na preparação de propostas de instrumentos de gestão territorial com o estabelecimento de normativo de salvaguarda do património arqueológico em termos municipais.
+
+###### Artigo 66.º — Unidade Rede Concelhia de Bibliotecas Municipais
+
+À Unidade Rede Concelhia de Bibliotecas Municipais, designada abreviadamente por URCBM, a cargo de um dirigente de 3.º grau, compete:
+
+a) Gerir e coordenar a Rede Concelhia de Bibliotecas Municipais;
+
+b) Promover a proteção e conservação da documentação e atualizar de forma permanente os recursos informativos, diversificando os suportes e as temáticas;
+
+c) Tratar a nível biblioteconómico os documentos entrados nas bibliotecas, bem como carregar e administrar as bases de dados, para além de definir e aplicar procedimentos de recuperação e exploração de informação;
+
+d) Promover o tratamento de documentação e de informação técnica e científica nas matérias de interesse para a autarquia;
+
+e) Apoiar e orientar os utilizadores dos serviços;
+
+f) Levar a cabo ações de difusão de diversas fontes de informação, bem como ações de animação, no sentido de difundir o gosto pela leitura e contribuir para o desenvolvimento cultural do concelho;
+
+g) Participar no Serviço de Apoio às Bibliotecas Escolares do Concelho e cooperar com o Gabinete da Rede de Bibliotecas Escolares, promovendo a partilha e colaboração, quer nos procedimentos técnicos, quer nos domínios da animação da leitura;
+
+h) Promover atividades de cooperação com outras bibliotecas e com entidades e organismos culturais, em especial a nível local e regional;
+
+i) Estabelecer ligações com departamentos do Estado e outros organismos responsáveis pelas bibliotecas públicas;
+
+j) Coordenar, apoiar e divulgar projetos de promoção do livro e da leitura e de desenvolvimento de competências de literacia, destinadas a diferentes públicos;
+
+k) Gerir as coleções existentes na RBMM, com vista a garantir uma abordagem consistente à manutenção e ao seu desenvolvimento, promovendo a existência de um fundo documental atualizado.
+
+###### Artigo 67.º — Unidade de Edições Municipais
+
+À Unidade de Edições Municipais, adiante designada abreviadamente por UEM, a cargo de um dirigente de 3.º grau, compete:
+
+a) Coordenar e assegurar a edição de publicações relacionadas com as temáticas locais, com o intuito de divulgar o património cultural imóvel e imaterial do Concelho;
+
+b) Assegurar a edição regular de edições de caráter científico ou genérico;
+
+c) Propor e desenvolver estudos com vista ao desenvolvimento de publicações científicas e de divulgação, onde se apresentem os trabalhos desenvolvidos à comunidade científica e local;
+
+d) Colaborar na cooperação internacional com as autarquias geminadas, assegurando a divulgação do património cultural móvel, imóvel e imaterial no estrangeiro, designadamente através da realização de exposições, da difusão de publicações municipais e da realização de encontros ou conferências;
+
+e) Promover a publicação e o apoio à publicação de obras ou outros suportes de difusão dos valores culturais do município;
+
+f) Assegurar a gestão e controlo de stocks de edições produzidas ou patrocinadas pelo Município, bem como a respetiva reserva;
+
+g) Promover projetos e/ ou protocolos editoriais, com vista à dinamização das edições municipais ao nível regional, nacional e internacional.
+
+###### Artigo 68.º
+
+##### Divisão de Gestão Financeira
+
+À Divisão Financeira, adiante designada por DGF, a cargo de um chefe de divisão municipal, compete:
+
+a) Cumprir e fazer cumprir as disposições legais e regulamentares sobre a contabilidade autárquica, procedendo a todas as tarefas definidas na lei ou em regulamento, relativas aos registos de receitas e despesas que traduzam a execução orçamental das opções do plano e da contabilidade patrimonial;
+
+b) Colaborar na elaboração do projeto do orçamento, do plano de atividades e do plano plurianual de investimentos, suas alterações e controlar a sua execução;
+
+c) Preparar a prestação de contas da atividade financeira;
+
+d) Supervisionar e controlar a verificação, tratamento contabilístico e processamento das receitas, das despesas, dos movimentos patrimoniais, das operações não orçamentais;
+
+e) Cooperar na elaboração de estudos de caráter económico e financeiro;
+
+f) Arrecadar receitas e efetuar pagamentos de despesas legalmente autorizadas;
+
+###### Artigo 69.º — Unidade de Controlo de Gestão
+
+À Unidade de Controlo de Gestão, adiante designada abreviadamente por UCG, a cargo de um dirigente de 3.º grau, compete:
+
+a) Difundir pelos serviços, atempadamente, a informação contabilística e fiscal relevante;
+
+b) Garantir que os registos contabilísticos se façam atempadamente e de acordo com as normas, quer fiscais, quer do sistema de normalização contabilística para administrações públicas (SNC-AP);
+
+c) Gerir e otimizar os recursos financeiros do Município, designadamente através do planeamento mensal dos compromissos e dos pagamentos;
+
+d) Verificar o cumprimento, pelos serviços emissores de receita, das normas e disposições legais aplicáveis à arrecadação de receitas municipais, assegurando a articulação entre a Secção de Faturação e Controlo de Cobranças (SFCC) e a Secção de Tesouraria (ST);
+
+e) Verificar o cumprimento das obrigações de natureza contributiva e fiscal decorrentes da atividade desenvolvida pelo Município;
+
+f) Garantir a validação e a otimização dos registos da contabilidade de gestão e financeira;
+
+g) Assegurar as atualizações e o cumprimento da Norma de Controlo Interno;
+
+h) Garantir a constituição, controlo e processamento dos fundos de maneio, de acordo com a norma de controlo interno;
+
+i) Acompanhar e validar os resultados das reconciliações bancárias;
+
+j) Prestar apoio e os esclarecimentos que se revelarem necessários no âmbito da execução de auditorias por parte do Revisor Oficial de Contas, com vista à certificação legal de contas;
+
+k) Propor procedimentos de forma a garantir o controlo e otimização dos registos contabilísticos;
+
+l) Promover a elaboração dos balanços à Tesouraria.
+
+1 - À Secção da Contabilidade, compete:
+
+a) Executar ou participar na organização dos processos inerentes à eficiente execução orçamental;
+
+b) Garantir que os registos contabilísticos se façam atempadamente;
+
+c) Emitir os documentos de despesa, bem como os demais documentos que suportem os registos contabilísticos;
+
+d) Registar e controlar o processamento de despesa a nível de cabimentação, compromisso, obrigação e pagamento;
+
+e) Organizar o processo administrativo de despesa;
+
+f) Receber e conferir as propostas de despesas, procedendo à respetiva cabimentação;
+
+g) Validar e registar as faturas de fornecedores;
+
+h) Contabilizar os vencimentos e senhas de presença e boletins itinerários;
+
+i) Emitir ordens de pagamento após a observância das normas legais em vigor;
+
+j) Submeter a autorização superior os pagamentos;
+
+k) Efetuar os procedimentos necessários para as transferências bancárias, bem como a emissão de cheques;
+
+l) Proceder à conferência do mapa diário da tesouraria com os respetivos documentos de despesa entregues pela secção de tesouraria;
+
+m) Conferir e promover a regularização dos fundos de maneio, nos prazos legais;
+
+n) Efetuar os apuramentos referentes aos valores arrecadados e que deverão ser entregues a outras entidades, bem como proceder às demais formalidades e comunicações obrigatórias;
+
+o) Desenvolver as ações necessárias ao cumprimento das obrigações de natureza contributiva e fiscal, decorrentes da atividade desenvolvida pelo Município;
+
+p) Garantir que o processo de garantias e cauções esteja sempre atualizado;
+
+q) Elaborar as relações de transferências correntes e de capital para efeitos de publicitação;
+
+r) Coligir todos os elementos necessários à elaboração das modificações aos documentos previsionais;
+
+s) Desencadear as operações necessárias ao encerramento do ano económico;
+
+t) Colaborar na elaboração dos documentos de prestação de contas;
+
+u) Efetuar periodicamente reconciliações de contas correntes;
+
+v) Proceder às reconciliações bancárias mensalmente;
+
+w) Emitir certidões das importâncias entregues e recebidas pela Câmara Municipal de outras entidades;
+
+x) Remeter aos organismos centrais ou regionais os elementos determinados por lei;
+
+y) Organizar, controlar e arquivar todos os documentos de despesa;
+
+z) Assegurar o expediente e arquivo respetivo.
+
+2 - À Secção de Faturação e Controlo de Cobranças (SFCC), compete:
+
+a) Assegurar que a liquidação e cobrança de taxas e outras receitas municipais é efetuada em conformidade com o disposto nas tabelas e regulamentos municipais em vigor;
+
+b) Emitir faturação e documentos de receita não resultantes da emissão automática das aplicações informáticas;
+
+c) Providenciar para que todos os postos de cobrança procedam à entrega atempada na tesouraria (Caixa Principal) das receitas cobradas;
+
+d) Assegurar que a entrega da receita na tesouraria é sempre acompanhada da documentação comprovativa dos depósitos correspondentes, assim como dos talões MB e respetivos fechos diários dos TPAS, acompanhados dos respetivos extratos de conta;
+
+e) Verificar assiduamente os extratos de conta e ficheiros SIBS, de modo a detetar e providenciar a correção de eventuais divergências ou anomalias;
+
+f) Proceder ao tratamento contabilístico dos tickets utilizados para pagamento das despesas de educação, quer digitais, quer físicos, assegurando que todos são encaminhados para a SFCC que, mensalmente, os remeterá às empresas emissoras, para que estas creditem o valor respeitante aos mesmos;
+
+g) Elaborar os procedimentos necessários à restituição e anulação de receitas, após a devida autorização superior;
+
+h) Colaborar ativamente com os diversos serviços municipais e postos de cobrança, de modo a ser processada uma célere e correta monitorização e arrecadação da receita, bem como de todos os serviços desenvolvidos pela tesouraria;
+
+i) Proceder diariamente à conferência do mapa diário da tesouraria, com os respetivos documentos de receita entregues pela secção de tesouraria;
+
+j) Monitorizar as situações de incumprimento em articulação com os serviços emissores de receita;
+
+k) Elaborar instruções de trabalho, de forma a garantir a correta arrecadação de receita;
+
+l) Proceder ao arquivo dos documentos de receita, de acordo com as normas estabelecidas.
+
+3 - À Secção da Tesouraria, compete:
+
+a) Efetuar o pagamento de despesas, devidamente autorizadas, após verificação das normas legais e regulamentares em vigor;
+
+b) Proceder aos registos contabilísticos na caixa principal do Município, dos recebimentos provenientes dos diversos postos de cobrança/ atendimento em articulação com a Secção de Faturação e Controlo de Cobranças;
+
+c) Assegurar a monitorização dos valores cobrados nos diversos postos de cobrança/ atendimento;
+
+d) Movimentar, em conjunto com o Presidente da Câmara, ou com o Vereador com competências delegadas para o efeito, os valores depositados em instituições bancárias;
+
+e) Efetuar, nas instituições bancárias, levantamentos, depósitos e transferências de fundos;
+
+f) Proceder ao depósito das disponibilidades, em instituição bancária, de forma a que o montante em cofre não ultrapasse as necessidades diárias de tesouraria;
+
+g) Liquidar juros que forem devidos referentes à arrecadação de receitas;
+
+h) Proceder à guarda, conferência e controlo sistemático do numerário e valores em caixa e instituições bancárias;
+
+i) Zelar pela segurança de todos os valores e documentos em cofre;
+
+j) Proceder ao controlo do movimento das contas bancárias do Município em instituições bancárias, de modo a que seja possível efetuar as correspondentes liquidações;
+
+k) Proceder à elaboração dos documentos diários da tesouraria;
+
+l) Disponibilizar diariamente um mapa diário de tesouraria, acompanhado com os respetivos documentos de receita e despesa;
+
+m) Comunicar diariamente às entidades os pagamentos efetuados, acompanhados do documento de suporte correspondente;
+
+n) Reportar ao superior hierárquico todas as situações de cheques devolvidos por falta de provisão, transferências bancárias ou outras irregularidades identificadas pela Tesouraria;
+
+o) Remeter ao arquivo geral, no fim do ano, os documentos e processos desnecessários ao funcionamento do serviço.
+
+###### Artigo 70.º — Unidade de Estudos e Planeamento
+
+À Unidade de Estudos e Planeamento, adiante designada abreviadamente por UEP, a cargo de um dirigente de 3.º grau, compete:
+
+a) Proceder à elaboração das Grandes Opções do Plano e do Orçamento Municipal, promovendo o planeamento anual e plurianual das ações;
+
+b) Acompanhar e controlar a execução das Grandes Opções do Plano e do Orçamento Municipal;
+
+c) Elaborar relatórios de avaliação da execução e promover medidas de reajustamento, sempre que se verifiquem desvios entre o programado e o executado;
+
+d) Proceder à elaboração do Relatório Anual de Atividades a partir dos relatórios apresentados pelas diversas unidades orgânicas;
+
+e) Elaborar os documentos de prestação de contas, nomeadamente o Balanço, a Demonstração de Resultados, os Mapas de Execução Orçamental, os anexos às Demonstrações Financeiras e o Relatório de Gestão, coligindo todos os elementos para esse fim;
+
+f) Elaborar, periodicamente, documentos financeiros que permitam efetuar a análise da gestão financeira do Município;
+
+g) Proceder à classificação dos processos de aquisição;
+
+h) Validar, mensalmente, os registos das contas do Ativo Tangível e Intangível do Município;
+
+i) Prestar informação no período de relato dos gastos respeitantes a depreciações e amortizações e por perdas por imparidade, bem como dos rendimentos e ganhos em investimentos não financeiros;
+
+j) Acompanhar e controlar a capacidade financeira do Município, promovendo a elaboração de mapas analíticos periódicos;
+
+k) Elaborar relatórios sobre a situação económica e financeira da Câmara Municipal;
+
+l) Elaborar as alterações aos documentos previsionais, que se afigurem necessárias, em conformidade com os objetivos definidos pelo executivo municipal;
+
+m) Proceder ao envio de informação obrigatória e periódica da execução orçamental e patrimonial às entidades externas da Administração Pública Central;
+
+n) Acompanhar e controlar processos de empréstimos a curto, médio e longo prazo;
+
+o) Elaborar a informação relativa à repartição do Fundo de Equilíbrio Financeiro e respetivo reporte à Direção Geral das Autarquias Locais, até à data legal para o efeito, após aprovação do Órgão Executivo;
+
+p) Elaborar a informação referente às taxas municipais: Imposto Municipal sobre Imóveis, IRS, Derrama e TMDP, após aprovação do órgão executivo e deliberativo;
+
+q) Prestar informação anual à Entidade Reguladora dos Serviços de Águas e Resíduos;
+
+r) Assegurar o reporte anual, à Inspeção Geral de Finanças, da participação da Câmara Municipal em entidades societárias e não societárias, através de plataforma informática para o efeito;
+
+s) Enviar à Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo (CCDRLVT) a informação remetida à Direção Geral das Autarquias Locais (DGAL), sobre o Fundo Social Municipal, através de meios informáticos disponibilizados pela entidade;
+
+t) Organizar os processos de empréstimos a curto, médio e longo prazo.
+
+###### Artigo 71.º
+
+##### Divisão da Contratação Pública e Aprovisionamento
+
+À Divisão da Contratação Publica e Aprovisionamento, adiante designada abreviadamente por DCPA, a cargo de um chefe de divisão municipal, compete:
+
+a) Emitir, após as necessidades identificadas pelos diversos serviços requisitantes e na sequência da anuência ou autorização do órgão ou dirigente competente, os documentos da despesa concernentes ao cabimento e compromisso da despesa subjacente, incluindo o controlo, via documento de estorno, de verbas cabimentadas e não adjudicadas;
+
+b) Organização, controlo e prestação de informação financeira, referente às adjudicações por tipo de procedimento e situações dos contratos, solicitada pela Divisão Financeira no âmbito da Prestação de Contas do Município;
+
+c) Assegurar a realização dos procedimentos de contratação pública e aprovisionamento, em consonância com os preceitos legais aplicáveis, pautando-se por pressupostos de economia, eficácia e qualidade no sentido de garantir as aquisições necessárias para todos os serviços do Município, sob proposta e apreciação técnica das demais unidades orgânicas, salvaguardando as articulações necessárias;
+
+d) Garantir a gestão e monitorização da tramitação dos procedimentos que decorram pela plataforma eletrónica de contratação pública do Município, bem como a publicitação eletrónica dos anúncios de procedimentos e outorga ou modificação dos contratos, que decorram dos ditos, nos termos legais exigíveis;
+
+e) Controlo, monitorização e divulgação pelos serviços requisitantes da informação concernente aos limites de valores de adjudicação, nos termos do Código dos Contratos Públicos;
+
+f) Garantir o encaminhamento para a área de Apoio ao Oficial Público da documentação necessária para outorga de contratos referentes à aquisição de bens e/ou serviços e execução de empreitadas;
+
+g) Fornecer informação às unidades orgânicas competentes para o efeito, no que concerne a candidaturas à obtenção de fundos comunitários e prestação de informação a entidades inspetivas externas;
+
+h) Procurar que o aprovisionamento se efetue ao menor custo, dentro dos requisitos de quantidade e qualidade nos prazos previstos, devendo, para o efeito, efetuar consultas prévias ao mercado, mantendo informação atualizada sobre os preços dos bens e serviços mais significativos;
+
+i) Manter atualizada a informação sobre o mercado fornecedor, nomeadamente através da criação e atualização de um ficheiro de fornecedores;
+
+j) Proceder à avaliação contínua dos fornecedores ao nível da eficiência e eficácia dos seus serviços, garantindo parâmetros de qualidade que assegurem um desempenho adequado por parte dos serviços municipais;
+
+k) Garantir, através de articulação com os serviços requisitantes, a formalização das reclamações, resultantes de não-conformidades, junto do fornecedor, promovendo à elaboração de procedimento para o efeito;
+
+l) Promover, em articulação com os setores de armazenamento e serviços requisitantes que procedem à receção de bens, à elaboração, atualização e evolução de procedimento que regule as regras do controlo e receção de bens;
+
+m) Proceder ao registo de todos os processos de aquisição nos suportes em vigor e mantê-los atualizados;
+
+n) Coordenar o sistema de gestão de stocks e a realização de inventários em colaboração com os respetivos serviços de armazenamento, nos termos e preceitos dos normativos internos;
+
+o) Elaborar e manter atualizados, mapas e informações estatísticas respeitantes à atividade do serviço e que sirvam de apoio, nomeadamente à gestão de stocks, à gestão económico-financeira e à gestão de qualidade e de produtividade;
+
+p) Colaborar com todas as unidades orgânicas na elaboração de estatísticas periódicas dos gastos dos diversos serviços;
+
+q) Proceder à manutenção e arquivo dos processos e demais documentos que decorreram por esta área, nomeadamente, e cumprindo os prazos legais, remeter os mesmos para o Arquivo;
+
+1 - À área do Economato, compete:
+
+a) Proceder à receção e conferência dos bens entregues no economato ao nível da quantidade e qualidade;
+
+b) Proceder à entrega de bens, após apresentação da respetiva requisição interna, devidamente autorizada;
+
+c) Emitir os documentos internos de entrada ou saída de bens, necessários à correta gestão de stocks e remetê-los, assim como outros documentos externos, aos competentes serviços municipais;
+
+d) Proceder ao registo de entradas e saídas de bens, no sistema de inventário permanente e com o recurso aos meios informáticos;
+
+e) Manter sempre atualizado o registo dos bens existentes no economato;
+
+f) Proceder aos lançamentos, nos suportes em vigor, dos bens requisitados para o economato, em função de requisições externas;
+
+g) Manter à sua guarda os bens armazenados, diligenciando a sua conservação e operacionalidade, assim como uma correta identificação, localização e arrumação.
+
+###### Artigo 72.º — Unidade de Gestão do Património
+
+À Unidade de Gestão do Património, adiante designada abreviadamente por UGP, a cargo de um dirigente de 3.º grau, compete:
+
+a) Colaborar na elaboração de normas no âmbito da gestão ativa e dinâmica no controlo patrimonial e zelar pela sua posterior atualização e cumprimento;
+
+b) Assegurar o conhecimento permanente dos bens do Município, do ativo fixo intangível e tangível, quanto à sua natureza, identificação, consistência, valor e afetação, de modo a fornecer informação que sustente decisões de manutenção, valorização, aquisição, alienação, cedência, ou outras formas de oneração do património municipal;
+
+c) Proceder e assegurar a atualização sistemática do inventário e cadastro de todos os bens do património móvel e imóvel dos domínios público e privado municipal, de que o Município é titular e/ou responsável pela sua utilização e controlo, bem como os registos referentes à oneração e à constituição de direitos a favor de terceiros sobre os mesmos;
+
+d) Organizar e manter atualizado o inventário e cadastro dos bens sujeitos a controlo, que não são reconhecidos como ativo no Balanço, mas como gasto na Demonstração de Resultados;
+
+e) Proceder à etiquetagem dos bens com o número sequencial de inventário, sempre que a estrutura física o permita, para além do preenchimento de ficha inicial de identificação em suporte informático;
+
+f) Compilar informação para preencher ficha informática dos bens, nomeadamente, identificação, localização, afetação, número sequencial, classificação, valor inicial, critérios de depreciação, valores de valorização posteriores, perdas por imparidade por ano e valor atual;
+
+g) Desenvolver processos de atualização de afetação de bens, por transferências entre serviços, mediante registo de impresso para o efeito devidamente assinado pelos dirigentes intervenientes;
+
+h) Desenvolver processos de abate (por destruição, furto/ roubo, doação), mediante proposta em impresso para o efeito, assinado pelo dirigente, atendendo às regras contabilísticas e competências de decisão;
+
+i) Organizar e executar todo o expediente e formalidades relacionadas com alienações de hasta pública ou por ajuste direto de bens móveis, imóveis, veículos municipais e em fins de vida, sucatas, desperdícios, entre outros;
+
+j) Gerir o armazém dos bens móveis inventariados em boas condições operacionais e não afetos a qualquer unidade orgânica;
+
+k) Comunicar, aos responsáveis/ dirigentes dos serviços, o número de inventário do(s) bem(ns) adquirido(s), no ano em curso, na sequência da confirmação de fatura/ documento de aquisição e alertar que, caso não estejam previstas alterações por motivos de transferências entre serviços, abates, doações, entre outros, deverá ser solicitada à UGP “folha de carga” atualizada, para validação, assinatura e afixação;
+
+l) Proceder ao envio, aos responsáveis/ dirigentes dos serviços, de “folhas de carga”, atualizadas, onde constam os bens afetos ao serviço, de forma a assegurarem a verificação física e a conformidade das mesmas, sempre que for solicitado à UGP;
+
+m) Garantir o preenchimento da data do envio da folha de carga, atualizada, aos diversos serviços municipais no ficheiro do “Controlo de Folhas de Carga, atualizadas e afixadas _UGP”, disponibilizado em partilha informática do SGQ;
+
+n) Proceder ao inventário de bens, por regularização de ativos em curso para ativo tangível, após conhecimento da receção provisória/ definitiva e conta final da obra;
+
+o) Promover a contratação dos seguros municipais necessários e assegurar a sua gestão permanente numa ótica de racionalidade financeira;
+
+p) Assegurar a efetivação de seguro para edifícios novos e respetivo recheio e/ou atualização de capitais em vigor, quando se trate de requalificações ou grandes reparações;
+
+q) Proceder à gestão financeira de toda a carteira de seguros do Município (inclusões ou propostas para contratação de novas apólices, exclusões e anulações, confirmação de avisos de débito, estornos, franquias, entre outros);
+
+r) Elaborar informação, por unidade orgânica, de previsão de gastos anuais com seguros, para efeitos de inscrição em orçamento municipal;
+
+s) Proceder à participação de sinistros (acidente pessoal, acidente automóvel, danos em edifícios e equipamentos, furto ou roubo, atos de vandalismo, entre outros), junto da entidade seguradora, na sequência de informações internas dos diversos serviços municipais, e diligenciar os procedimentos necessários, com vista ao ressarcimento das despesas reclamadas;
+
+t) Desenvolver processos de indemnização a terceiros, no âmbito da responsabilidade civil;
+
+u) Desenvolver processos de ressarcimento, ao Município, por danos em bens patrimoniais, originados por terceiros, junto das seguradoras dos mesmos, ou do fundo de garantia automóvel, quando for o caso;
+
+v) Assegurar os registos obrigatórios inerentes às transferências de propriedade de veículos municipais;
+
+w) Garantir as diligências necessárias para promover o registo predial e a inscrição matricial dos bens imóveis a eles sujeitos;
+
+x) Promover e atualizar a georreferência no Sistema de Informação Geográfica de imóveis municipais, de domínios privado e público, devidamente registados a favor do Município;
+
+y) Desenvolver processos de aquisição de imóveis a terceiros, garantindo a compilação de todos os elementos necessários a apresentar em Cartório Notarial, para efeitos de celebração de escrituras públicas;
+
+z) Prestar informação predial para efeitos de celebração de contratos, designadamente de arrendamento e de outras cedências de utilização imóveis municipais;
+
+aa) Proceder ao controlo e gestão de contratos a que os bens patrimoniais sejam sujeitos, nomeadamente, arrendamento, comodato, direitos de superfície, direitos de exploração, locação, entre outros;
+
+bb) Proceder ao arquivo dos processos físicos e remeter ao arquivo geral, no fim do ano, os documentos e processos desnecessários ao funcionamento do serviço.
+
+###### Artigo 73.º
+
+##### Divisão de Obras Municipais
+
+À Divisão de Obras Municipais, adiante designada abreviadamente por DOM, a cargo de um chefe de divisão municipal, compete:
+
+a) Efetuar a Gestão e Planeamento Financeiro da Divisão, em termos de curto, médio e longo prazo, a fim de participar na elaboração dos orçamentos plurianuais do Município, em articulação com o Diretor de Departamento de Obras Municipais e Ambiente;
+
+b) Efetuar a Gestão Financeiro da Divisão, de forma dinâmica e permanentemente atualizada, de forma a garantir eficácia na execução dos investimentos e permitir a elaboração das necessárias alterações orçamentais, ao longo do ano e, consequente, as alterações necessárias nos orçamentos plurianuais, em articulação com o Diretor de Departamento de Obras Municipais e Ambiente;
+
+c) Articular com Serviços Internos e com as Diversas Entidades Externas, as oportunidades de financiamentos e as comparticipações em investimentos inerentes às empreitadas, a levar a cabo pela Divisão, tendo em consideração os respetivos prazos;
+
+d) Articular com as diversas Entidades Externas (públicas e privadas) que interagem com obras em curso ou planeadas;
+
+e) Elaborar relatórios das atividades para apresentar nas várias Assembleias Municipais;
+
+f) (Revogado.)
+
+g) Coordenar a execução de todas as empreitadas em curso;
+
+h) Colaborar nos procedimentos inerentes aos trabalhos solicitados à empresa municipal Giatul;
+
+i) Informar sobre trabalhos solicitados ou a solicitar à empresa municipal Giatul, e acompanhar os respetivos trabalhos;
+
+j) Articular com os SMAS todos os assuntos relacionados com as obras, que interagem com aqueles Serviços;
+
+k) Articular com as Divisões e Unidades Orgânicas de 3.º grau, desta Câmara Municipal, que interagem com os serviços desta Divisão, ao nível de trabalhos em curso ou planeados;
+
+l) Efetuar a gestão dos recursos humanos da Divisão, incluindo o SIADAP;
+
+m) Analisar e informar diariamente sobre os diversos assuntos inerentes à Divisão, enviados pelos Serviços Internos da CMM, ou vindo do exterior, através do Sistema de Gestão Documental e do outlook (e-mails);
+
+n) Articular com as Juntas e Uniões de Freguesia todas as questões relacionadas com obras e que são da competência da Divisão;
+
+o) Dar apoio Técnico e de logística à Proteção Civil, a fim dar resposta às diversas solicitações que possam ocorrer;
+
+p) Acompanhar junto dos Serviços o cumprimento do Sistema de Controlo de Qualidade;
+
+q) Assegurar a eficiência energética nos novos projetos e nas novas construções;
+
+r) Promover a utilização de materiais reciclados, sempre possível.
+
+1 - Na área de Edifícios e outras Infraestruturas:
+
+a) Informar sobre as eventuais propostas de lançamento de concursos de empreitadas de edifícios e de outras infraestruturas municipais;
+
+b) Efetuar o levantamento das necessidades de manutenção dos edifícios e outras infraestruturas municipais, incluindo a elaboração dos elementos necessários a enviar para despacho, a fim de serem efetuadas as respetivas obras, nomeadamente preparação da época balnear, manutenções anuais a efetuar, em especial nos edifícios escolares e desportivos e ainda nas habitações municipais e outras infraestruturas, e a consequente gestão dos recursos financeiros necessários;
+
+c) (Revogado.)
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) (Revogado.)
+
+g) (Revogado.)
+
+h) Colaborar com a Unidade de Gestão do Património no sentido de manter atualizado o levantamento do Cadastro Imobiliário Municipal.
+
+i) (Revogado.)
+
+j) (Revogado.)
+
+k) (Revogado.)
+
+l) (Revogado.)
+
+m) (Revogado.)
+
+n) (Revogado.)
+
+o) (Revogado.)
+
+2 - (Revogado.)
+
+a) (Revogado.)
+
+###### Artigo 74.º — Unidade de Procedimentos Concursais
+
+À Unidade de Procedimentos Concursais, adiante designada abreviadamente por UPC, a cargo de um dirigente de 3.º grau, na dependência direta do Chefe de Divisão da DOM, compete:
+
+a) Preparar e rever todos documentos necessários para os processos para contratação pública correspondente às empreitadas, aquisições e prestações de serviços, inerentes à DOM e a enviar para o DF - DCPA (Departamento Financeiro - Divisão de Contratação Pública e Aprovisionamento);
+
+b) Coordenar a fase dos procedimentos concursais, em articulação com o júri e com o DF - DCPA, nomeadamente preparar todos os documentos inerentes aos pedidos de esclarecimentos e de erros e omissões;
+
+c) Analisar os documentos de habilitação dos procedimentos concursais (apenas os documentos inerentes à parte Técnica);
+
+d) Exercer as competências a funções de Gestor de Contrato;
+
+e) Coordenar com o NATA a elaboração dos relatórios finais de obra de todos os procedimentos concursais, em articulação com o fiscal do respetivo procedimento, a enviar para DF - DCPA;
+
+f) Coordenar o Processo de Qualidade Inerentes à DOM, com o apoio do NATA, em articulação com o Chefe de Divisão da DOM;
+
+g) Coordenar os assuntos relacionados com o tema “Plano de Prevenção de Riscos de Corrupção e Infrações Conexas”, em articulação com o Chefe de Divisão da DOM;
+
+h) Colaborar na elaboração nos relatórios preliminares e finais dos procedimentos concursais.
+
+###### Artigo 75.º — Unidade de Fiscalização de Obras Municipais
+
+À Unidade de Fiscalização de Obras Municipais, adiante designada abreviadamente por UFOM, a cargo de um dirigente de 3.º grau, na dependência direta do Chefe de Divisão da DOM, compete:
+
+a) Fiscalizar a execução das empreitadas, bem como de procedimentos aquisitivos e de prestações de serviços inerentes à DOM;
+
+b) Analisar os trabalhos complementares e a menos e efetuar as devidas informações para enviar para despacho;
+
+c) Analisar os pedidos de prorrogação de prazo e efetuar as devidas informações para enviar para despacho
+
+d) Analisar e efetuar o cálculo das revisões de preços das empreitadas;
+
+e) Coordenar ou elaborar autos de medição, contas correntes e contas finais das empreitadas, recorrendo ao apoio administrativo do NATA;
+
+f) Efetuar vistorias para efeitos de receções provisórias e definitivas e efetuar as respetivas receções, recorrendo ao apoio administrativo do NATA;
+
+g) Coordenar o Plano de Segurança em obra;
+
+h) Efetuar vistorias para efeitos de liberação de caução, recorrendo ao apoio administrativo do NATA;
+
+i) Analisar e informar sobre patologia de construções diversas que necessitam de obras e definir a metodologia de intervenção a implementar, nomeadamente em edifícios de habitação de pessoas carenciadas, em articulação com a Ação Social;
+
+j) Implementar em todas as novas obras acessibilidades para pessoas com mobilidade reduzida.
+
+###### Artigo 76.º
+
+##### Divisão de Ambiente
+
+À Divisão de Ambiente, adiante designada abreviadamente por DA, a cargo de um chefe de divisão municipal, compete:
+
+a) Coordenar as Unidades de Espaço Verdes, de Sustentabilidade Ambiental, Alterações Climáticas, Agricultura e Mar, de Infraestruturas bem como as áreas de Higiene Pública e Sanidade Veterinária, Resíduos Urbanos, Mercados e Feiras e Cemitérios;
+
+b) Proceder ao acompanhamento das temáticas de índole ambiental em articulação com as restantes unidades orgânicas;
+
+c) Promover a gestão, análise e tramitação de temáticas relacionadas com ruído, designadamente em matéria de Ruído Ambiente;
+
+d) Proceder, em articulação com a UCP, à elaboração de peças procedimentais relativas a empreitadas ou aquisição de bens ou serviços na área do ambiente;
+
+1 - Na área de Higiene Pública e Sanidade Veterinária:
+
+a) Colaborar na execução das tarefas de inspeção higiossanitária e controlo higiossanitário das instalações para alojamento de animais, dos produtos de origem animal e dos estabelecimentos comerciais ou industriais onde se abatem, preparem, produzem, transformem, fabriquem, conservem, armazenem ou comercializem animais ou produtos de origem animal e seus derivados;
+
+b) Emitir parecer, nos termos da legislação vigente, sobre as instalações e estabelecimentos referidos na alínea anterior;
+
+c) Elaborar e remeter, nos prazos fixados, a informação relativa ao movimento nosonecrológico dos animais;
+
+d) Emitir guias sanitárias de trânsito;
+
+e) Sempre que sejam detetados casos de doenças de caráter epizoótico, notificar de imediato as doenças de declaração obrigatória à autoridade sanitária veterinária nacional;
+
+f) Participar nas campanhas de saneamento ou de profilaxia determinadas pela autoridade sanitária veterinária nacional, na área do Município;
+
+g) Colaborar na realização do recenseamento de animais, inquéritos de interesse pecuário e/ou económico e prestar informação técnica sobre abertura de novos estabelecimentos de comercialização, de preparação e de transformação de produtos de origem animal;
+
+h) Inspecionar as embalagens e os meios de transporte dos produtos alimentares de origem animal;
+
+i) Providenciar a eliminação de focos de insalubridade, nomeadamente controlo de pragas;
+
+j) Apoiar o controlo e higiene dos refeitórios e cozinhas dos centros escolares;
+
+k) Dirigir, coordenar e assegurar o funcionamento do Centro de Recolha Oficial de Animais do Município de Mafra (CROAMM);
+
+l) Providenciar, em articulação com a Autoridade de Saúde concelhia, a adoção de medidas para a defesa da saúde pública.
+
+1 - Na área de Resíduos Sólidos:
+
+a) Assegurar, direta ou indiretamente, a recolha e tratamento de todos os resíduos urbanos produzidos na área do Município;
+
+b) Garantir o cumprimento do Regulamento de Resíduos Sólidos Urbanos e Higiene Pública do Município de Mafra;
+
+c) Fiscalizar a aplicação do Regulamento de Resíduos Sólidos Urbanos e Higiene Pública do Município de Mafra;
+
+d) Prestar informações sobre todos os assuntos que estejam inseridos no âmbito de competências da área de resíduos urbanos;
+
+e) Assegurar, direta ou indiretamente, o serviço de limpeza urbana do Concelho, designadamente, varredura, lavagem e limpeza geral dos espaços públicos ou de uso público e do mobiliário e equipamento urbano neles instalados;
+
+3 - Na área de Mercados e Feiras:
+
+a) Assegurar o funcionamento, a limpeza e a manutenção da salubridade pública nos mercados municipais;
+
+b) Estudar e propor as medidas de alteração ou racionalização dos espaços dentro dos recintos dos mercados e feiras, em colaboração com a Unidades de Gestão do Património e a Divisão de Atividades Económicas e Licenciamentos Diversos;
+
+c) Propor, sob o ponto de vista técnico, medidas de descongestionamento ou de criação de novos espaços destinados a mercados e feiras;
+
+d) Propor e colaborar no estudo de medidas tendentes à criação de novos espaços e equipamentos para a realização de mercados e feiras;
+
+e) Promover a manutenção e remodelação dos espaços e equipamentos destinados a feiras e mercados;
+
+f) Colaborar com a Fiscalização Municipal, com a Divisão de Atividades Económicas e Licenciamentos Diversos e com a área de Higiene Pública e Sanidade Veterinária, no âmbito das respetivas atribuições;
+
+4 - Na área de Cemitérios:
+
+a) Administrar sob o ponto de vista operacional, em articulação com a Divisão de Atividades Económicas e Licenciamentos Diversos, os cemitérios sob jurisdição municipal;
+
+b) Assegurar o funcionamento e manutenção dos cemitérios municipais;
+
+c) Cumprir e fazer cumprir as disposições legais e respetivo regulamento referentes aos cemitérios;
+
+d) Promover a atribuição de numeração das sepulturas em articulação com a Divisão de Atividades Económicas e Licenciamentos Diversos;
+
+e) Manter atualizado o mapa de pormenor dos cemitérios, em articulação com a Divisão de Atividades Económicas e Licenciamentos Diversos;
+
+f) Colaborar com a Unidades de Gestão do Património e a Divisão de Atividades Económicas e Licenciamentos Diversos, nos processos de inumação e exumação e organização dos processos de aquisição de terrenos para sepulturas perpétuas e jazigos;
+
+g) Colaborar em medidas de apoio às freguesias em matéria de cemitérios paroquiais.
+
+###### Artigo 77.º — Unidade de Sustentabilidade Ambiental, Alterações Climáticas, Agricultura e Mar
+
+À Unidade de Sustentabilidade Ambiental, Alterações Climáticas, Agricultura e Mar, adiante designada abreviadamente por USAACAM, a cargo de um dirigente de 3.º grau, compete:
+
+a) Proceder à elaboração de projetos na área do ambiente e da sustentabilidade, da responsabilidade do Município;
+
+b) Elaborar candidaturas a projetos ou financiamentos na área do ambiente e da sustentabilidade, com interesse para o Município;
+
+c) Coordenar, em articulação com outras unidades orgânicas, a conceção e promoção de ações e medidas de educação, informação e sensibilização ambiental;
+
+d) Acompanhar e coordenar o controlo e a fiscalização da orla costeira em parceria com as diversas entidades com jurisdição na área;
+
+e) Colaborar nas atividades relacionadas com o controlo da poluição hídrica, costeira, atmosférica e do solo;
+
+f) Colaborar na realização de estudos, projetos e estratégias que visem a valorização da qualidade ambiental, do património natural e do desenvolvimento sustentável do concelho;
+
+g) Promover a valorização das linhas de água;
+
+h) Garantir a qualidade das praias, em especial das areias e das águas de uso balnear;
+
+i) Dinamizar e valorizar a prática agrícola no Município;
+
+j) Promover o acompanhamento da EMAAC (Estratégia Municipal de Adaptação às Alterações Climáticas), em articulação com outras unidades orgânicas ou entidades externas envolvidas;
+
+k) Promover a adoção de soluções sustentáveis, quer ao nível do coberto vegetal quer ao nível da adoção da sua manutenção, tendo como grande objetivo uma utilização cada vez mais eficiente da água;
+
+l) Análise e emissão de pareceres no âmbito do enquadramento paisagístico, espaços verdes e/ou de lazer, de processos particulares e/ou municipais.
+
+###### Artigo 78.º — Unidade de Espaços Verdes
+
+À Unidade de Espaços Verdes, adiante designada abreviadamente por UEV, a cargo de um dirigente de 3.º grau, compete:
+
+a) Promover a criação e manutenção de parques, jardins e outros espaços verdes, da responsabilidade da autarquia;
+
+b) Zelar pela correta utilização dos espaços verdes por parte do público;
+
+c) Organizar e manter hortos e viveiros sob gestão municipal;
+
+d) Promover o combate às pragas e doenças vegetais nos espaços verdes sobre jurisdição da Câmara Municipal da Mafra ou protocoladas com o Município;
+
+e) Colaborar na proteção de monumentos e zonas de recreio existentes em jardins e parques;
+
+f) Zelar pela fitossanidade do concelho, dentro do quadro legal.
+
+###### Artigo 79.º
+
+##### Divisão de energia e Parque e Oficinas
+
+À Divisão de Energia e Parque e Oficinas, adiante designada abreviadamente por DEPO, a cargo de um chefe de divisão municipal, compete:
+
+1 - Na área de Obras por Administração Direta:
+
+a) Realizar a programação e execução dos trabalhos de manutenção dos edifícios e outras infraestruturas municipais;
+
+b) Efetuar o planeamento e a gestão dos recursos humanos alocados à DEPO;
+
+c) Proceder à montagem, execução e desmontagem de atividades e eventos de âmbito ou promoção municipal, englobando toda a logística necessária;
+
+d) Assegurar a gestão e funcionamento dos parques de estacionamento;
+
+e) Manter em boa ordem e asseio das instalações de trabalho, bem como das ferramentas e máquinas;
+
+f) Organizar e manter atualizado o inventário da existência em armazém;
+
+g) Proceder à armazenagem, conservação e distribuição dos materiais a seu cargo;
+
+h) Promover a gestão dos stocks necessários ao bom funcionamento dos serviços;
+
+i) Conservar os bens patrimoniais, da Câmara Municipal, que não estejam em utilização e sejam suscetíveis de serem conservados.
+
+2 - Na área de Infraestruturas Externas:
+
+a) Proceder, à elaboração de peças procedimentais relativas a empreitadas ou aquisição de bens ou serviços, na área das Infraestruturas;
+
+b) Articular com todas as entidades externas, todas as intervenções que interfiram com o espaço público;
+
+c) Apreciar e emitir parecer sobre projetos de especialidades de instalações elétricas e telecomunicações de obras particulares, quando lhe for solicitado por outros serviços da Câmara Municipal;
+
+d) Estabelecer os contactos necessários com as diversas entidades responsáveis pelas infraestruturas externas ao Município (ALTICE, NOS, VODAFONE, IP. SA, etc.);
+
+e) Gestão do Contrato de Concessão das Redes Elétricas do Concelho de Mafra, com a E-Redes (EDP - Distribuição);
+
+f) Elaborar e desenvolver projetos e obras de eficiência energética, para as instalações e edifícios municipais.
+
+3 - Na área de Projeto:
+
+a) Executar os projetos de infraestruturas elétricas e telecomunicações;
+
+b) Dar apoio técnico e fiscalização técnica, às obras em execução pela Câmara Municipal.
+
+###### Artigo 80.º — Unidade de Gestão de Frota
+
+À Unidade de Gestão de Frota, adiante designada abreviadamente por UGF, a cargo de um dirigente de 3.º grau, compete:
+
+a) Assegurar a conservação e manutenção do parque de máquinas e viaturas municipais;
+
+b) Providenciar pela manutenção preventiva, efetuando revisões e controlos periódicos;
+
+c) Efetuar a gestão de stocks dos consumíveis, incluindo o combustível;
+
+d) Efetuar o planeamento e a gestão dos recursos humanos e da utilização do parque de máquinas e viaturas;
+
+e) Estudar e propor as orientações a seguir em ações de aquisição, renovação ou substituição da frota existente;
+
+f) Elaborar e manter atualizado o cadastro de máquinas e viaturas;
+
+g) Providenciar pelo seguro e inspeção das máquinas e viaturas e respetivas participações à seguradora, em caso de sinistro;
+
+h) Manter em boa ordem e asseio as instalações, viaturas e ferramentas;
+
+i) Proceder ao levantamento e reencaminhamento dos produtos recicláveis, de acordo com a legislação em vigor.
+
+###### Artigo 81.º
+
+##### Divisão de Projetos
+
+À Divisão de Projetos, adiante designada abreviadamente por DP, a cargo de um chefe de divisão municipal, compete:
+
+a) Executar os projetos de que seja incumbida pela Câmara Municipal;
+
+b) Dar apoio técnico às obras em curso, quando solicitado;
+
+c) Efetuar o levantamento arquitetónico e das especialidades nos edifícios existentes ou noutras infraestruturas municipais;
+
+d) Articular com as várias entidades públicas ou privadas que interajam com os projetos em curso;
+
+e) Coordenar a execução dos projetos a serem executados interna e externamente;
+
+f) Compatibilizar os projetos de execução de arquitetura com os projetos das especialidades;
+
+g) Coordenar o trabalho do medidor orçamentista, integrando a arquitetura e todas especialidades;
+
+h) Fornecer ao SIG todos os elementos necessários, de forma a manter o SIG atualizado;
+
+i) Implementar em todos os novos projetos a acessibilidade para pessoas com mobilidade reduzida.
+
+###### Artigo 82.º — Núcleo de Apoio Técnico Administrativo
+
+Ao Núcleo de Apoio Técnico Administrativo, adiante designado abreviadamente por NATA, que funciona na dependência direta da DOMA, compete:
+
+1 - Na secção de Apoio Administrativo:
+
+a) Arquivar, organizar e encaminhar o despacho da correspondência expedida e recebida no departamento, bem como de informações ou outros documentos que impliquem resposta a terceiros ou encaminhamento interno na Câmara Municipal;
+
+b) Sistematizar toda a informação relativa aos recursos humanos afetos ao departamento, de forma a efetuar o controlo do cumprimento dos diversos deveres e funções atribuídas aos mesmos;
+
+c) Estabelecer relação com os serviços municipais responsáveis pela aquisição, empréstimo ou produção dos recursos materiais necessários à realização dos diversos projetos e à gestão das infraestruturas da responsabilidade do departamento, nomeadamente através da elaboração de informações para aquisição dos recursos materiais, acompanhamento da situação das aquisições bem como das entregas atempadas;
+
+d) Assegurar a interligação e coordenação entre a Câmara Municipal e a empresa municipal que tenha a seu cargo a execução de infraestruturas viárias.
+
+###### Artigo 83.º
+
+##### Divisão de Planeamento, Coordenação e Gestão Educativa
+
+À Divisão de Planeamento, Coordenação e Gestão Educativa, adiante designada por DPCGE, a cargo de um chefe de divisão municipal, compete:
+
+a) Operacionalizar a transferência de competências no domínio da educação, nos termos da legislação em vigor;
+
+b) Zelar pela correta atribuição de auxílios económicos a alunos carenciados, de modo a garantir a igualdade de oportunidades no acesso à educação;
+
+c) Garantir a representação do Município nos Conselhos Gerais, conforme previsto na legislação em vigor;
+
+d) Zelar pelo pleno funcionamento do serviço de refeições, efetuando a articulação com a entidade externa responsável pelo seu fornecimento;
+
+e) Zelar pelo pleno funcionamento dos transportes escolares, efetuando a articulação com as entidades externa responsáveis pelo serviço;
+
+f) Promover a realização de atividades de enriquecimento curricular nas escolas básicas do 1.º ciclo;
+
+g) Produzir estudos e implementar metodologias de trabalho que permitam uma permanente avaliação da realidade educativa do Concelho, em confronto com o contexto nacional e internacional;
+
+h) Preparar, executar e avaliar os meios, programas e medidas municipais referentes à área educativa;
+
+i) Propor, com base em estudos da situação e na Carta Educativa, a construção de edifícios escolares, bem como a organização e gestão da rede educativa;
+
+j) Apoiar a integração plena das crianças portadoras de limitações físicas ou psíquicas que levem à existência de necessidades especiais, em cooperação com as entidades legalmente previstas para o efeito;
+
+k) Programar iniciativas que respondam aos problemas sociofamiliares ao nível da ocupação dos tempos livres das crianças do concelho;
+
+l) Garantir a avaliação sistemática dos projetos integrados no Plano Anual de Atividades, por forma a adequar a ação educativa à realidade municipal;
+
+m) Colaborar com as entidades responsáveis do Ministério da Educação ou em regime de contrato de associação, no âmbito da educação pré-escolar, ensino básico, profissional, secundário e superior;
+
+n) Prestar apoio ao Conselho Municipal de Educação.
+
+###### Artigo 84.º — Unidade de Inovação e Administração Educativa
+
+À Unidade de Inovação e Administração Educativa, adiante designada abreviadamente por UIAE, a cargo de um dirigente de 3.º grau, compete:
+
+a) Coordenar e operacionalizar a atribuição de auxílios económicos a alunos carenciados, nos termos da legislação em vigor;
+
+b) Coordenar, operacionalizar e analisar os processos de candidatura às atividades de animação e de apoio à família (AAAF) e à componente de apoio à família (CAF), bem como os pagamentos dos referidos serviços por parte dos encarregados de educação, nos termos do Regulamento Municipal;
+
+c) Coordenar, operacionalizar e analisar os processos de inscrição dos alunos nos transportes escolares, nos termos do Regulamento e Plano Municipais;
+
+d) Propor e operacionalizar atividades de complemento curricular, inovando o processo de ensino e aprendizagem;
+
+e) Colaborar na introdução e operacionalização de soluções inovadoras, capazes de permitir a racionalização e desburocratização, assim como o aumento da produtividade na prestação dos serviços de educação;
+
+f) Programar iniciativas que respondam aos problemas sociofamiliares ao nível da ocupação dos tempos livres das crianças do concelho;
+
+g) Garantir a avaliação sistemática dos projetos integrados no Plano Anual de Atividades, por forma a adequar a ação educativa à realidade municipal;
+
+h) Prestar apoio logístico e administrativo no Conselho Municipal de Educação.
+
+1 - Secção de Apoio Administrativo da Educação:
+
+a) Desenvolver o processo administrativo de candidatura às atividades de animação e de apoio à família (AAAF), à componente de apoio à família (CAF), aos transportes escolares e à Creche de Mafra, nos termos das orientações plasmadas nos respetivos Regulamentos Municipais e através de aplicação informática específica para o efeito;
+
+b) Proceder à emissão de faturas para o pagamento das atividades de animação e de apoio à família (AAAF), da componente de apoio à família (CAF) e da Creche de Mafra, por parte dos encarregados de educação;
+
+c) Proceder ao controlo mensal de pagamentos em atraso, procedendo à notificação dos encarregados de educação;
+
+d) Preparar a emissão de certidões de dívida;
+
+e) Zelar pelo pleno funcionamento administrativo das atividades de animação e de apoio à família (AAAF), da componente de apoio à família (CAF), dos transportes escolares e da Creche de Mafra;
+
+f) Prestar todo o apoio administrativo necessário à área da educação.
+
+###### Artigo 85.º — Unidade de Gestão de Refeições Escolares
+
+À Unidade de Gestão de Refeições Escolares, adiante designada abreviadamente por UGRE, a cargo de um dirigente de 3.º grau, compete:
+
+a) Garantir a gestão da qualidade das refeições escolares;
+
+b) Supervisionar todos os procedimentos de higiene e segurança alimentar, inerentes ao serviço, estabelecendo e implementando normas e procedimentos com base nos princípios do HACCP;
+
+c) Estabelecer orientações técnicas e garantir o seu cumprimento junto dos intervenientes;
+
+d) Promover a realização regular de visitas de supervisão à área alimentar dos estabelecimentos de educação e ensino e elaborar os respetivos relatórios técnicos;
+
+e) Planear, organizar, implementar e avaliar programas de formação em nutrição e segurança alimentar, destinados à comunidade educativa;
+
+f) Colaborar na elaboração das especificações técnicas necessárias à elaboração dos processos de concurso de fornecimento de refeições;
+
+g) Produzir ementas equilibradas e variadas, adequadas ao público-alvo de cada refeitório, e adaptá-las em situações de regimes alimentares específicos;
+
+h) Implementar programas de educação alimentar nas escolas e produzir materiais de educação para a saúde no âmbito da promoção de estilos de vida saudáveis.
+
+###### Artigo 86.º
+
+##### Divisão de Gestão de Recursos da Rede Educativa Mafra Este
+
+À Divisão de Gestão de Recursos da Rede Educativa Mafra Este (Agrupamentos de Escolas Prof. Armando de Lucena, Malveira, Venda do Pinheiro, Escola Secundária José Saramago - Mafra e Creche de Mafra), adiante designada abreviadamente por DGRREME, a cargo de um chefe de divisão municipal, compete:
+
+a) Efetuar o levantamento de necessidades em apetrechamento escolar;
+
+b) Propor a aquisição ou a substituição de equipamentos degradados, acompanhando a sua aquisição e entrega nos estabelecimentos de ensino;
+
+c) Coordenar e acompanhar o serviço de refeições, ao nível do refeitório, bem como as atividades desenvolvidas nos prolongamentos de horário e nas interrupções letivas;
+
+d) Assegurar a gestão dos recursos humanos da responsabilidade do Município afetos aos estabelecimentos de educação e ensino, em articulação com os diretores das Unidades Educativas;
+
+e) Zelar pelo património afeto às instalações educativas municipais;
+
+f) Garantir as condições higio-sanitárias adequadas à utilização pela comunidade educativa;
+
+g) Propor e operacionalizar atividades de complemento curricular, inovando o processo de ensino e aprendizagem;
+
+h) Prestar apoio à comunidade educativa, nomeadamente através dos órgãos de gestão dos estabelecimentos de ensino, conselhos gerais, associações de pais e encarregados de educação, em projetos e iniciativas de caráter educativo-pedagógico;
+
+i) Gerir o funcionamento global da Creche de Mafra, ao nível dos seus recursos humanos, físicos, pedagógicos e materiais;
+
+j) Garantir a representação do Município nos Conselhos Gerais, conforme previsto na legislação em vigor.
+
+###### Artigo 87.º
+
+##### Divisão de Gestão de Recursos da Rede Educativa Mafra Oeste
+
+À Divisão de Gestão de Recursos da Rede Educativa Mafra Oeste (Agrupamentos de Escolas de Mafra e Ericeira), adiante designada abreviadamente por DGRREMO, a cargo de chefe de divisão municipal, compete:
+
+a) Efetuar o levantamento de necessidades em apetrechamento escolar;
+
+b) Propor a aquisição ou a substituição de equipamentos degradados, acompanhando a sua aquisição e entrega nos estabelecimentos de ensino;
+
+c) Coordenar e acompanhar o serviço de refeições, ao nível do refeitório, bem como as atividades desenvolvidas nos prolongamentos de horário e nas interrupções letivas;
+
+d) Assegurar a gestão dos recursos humanos da responsabilidade do Município afetos aos estabelecimentos de educação e ensino, em articulação com os diretores das Unidades Educativas;
+
+e) Zelar pelo património afeto às instalações educativas municipais;
+
+f) Garantir as condições higio-sanitárias adequadas à utilização pela comunidade educativa;
+
+g) Propor e operacionalizar atividades de complemento curricular, inovando o processo de ensino e aprendizagem;
+
+h) Prestar apoio à comunidade educativa, nomeadamente através dos órgãos de gestão dos estabelecimentos de ensino, conselhos gerais, associações de pais e encarregados de educação, em projetos e iniciativas de caráter educativo-pedagógico;
+
+i) Garantir a representação do Município nos Conselhos Gerais, conforme previsto na legislação em vigor.
+
+###### Artigo 88.º
+
+##### Divisão de Desporto e Juventude
+
+À Divisão de Desporto e Juventude, adiante designada abreviadamente por DDJ, a cargo de um chefe de divisão municipal, compete:
+
+a) A preparação, execução e avaliação dos meios, programas e medidas municipais referentes às áreas de desporto e juventude;
+
+b) Garantir a promoção e desenvolvimento da prática desportiva;
+
+c) Estudar e implementar instrumentos e ações de apoio à juventude nas áreas da cultura, educação, formação, saúde e consumo.
+
+1 - Na Área de Desporto:
+
+a) Elaborar e atualizar o diagnóstico da situação desportiva do Concelho, bem como a respetiva Carta das Instalações Desportivas;
+
+b) Garantir o bom funcionamento dos serviços e eficaz gestão técnico-administrativa, bem como dos equipamentos das áreas que lhe estão afetas;
+
+c) Propor a construção e/ ou reconversão de instalações desportivas, bem como a implementação de projetos de desenvolvimento desportivo que englobem os diversos agentes;
+
+d) Propor o modelo de gestão das instalações desportivas municipais, organizando e coordenando as atividades e a utilização das mesmas;
+
+e) Propor e operacionalizar projetos que promovam e potenciem o desenvolvimento da prática desportiva;
+
+f) Garantir a promoção e realização de provas desportivas e/ou eventos no âmbito do desporto e turismo outdoor, de âmbito nacional e internacional, que incrementem a prática desportiva e promovam turística e economicamente o concelho;
+
+g) Garantir uma avaliação sistemática dos projetos integrados no Plano Anual de Atividades, por forma a adequar a prática desportiva à realidade municipal;
+
+h) Apoiar e operacionalizar projetos de promoção da disciplina de Educação Física e de atividades de Expressão e Educação Físico-motora nos estabelecimentos escolares concelhios.
+
+2 - Na Área de Juventude:
+
+a) Assegurar a colaboração nas ações, aos vários níveis da autarquia, destinadas à juventude;
+
+b) Promover, criar e desenvolver programas para jovens, designadamente nas áreas de ocupação dos tempos livres, principalmente durante os períodos de férias escolares, apostando na oferta de atividades culturais, desportivas e recreativas, assim como em projetos de voluntariado, cooperação, associativismo, formação, entre outros, que permitam a opção por uma vida útil e saudável;
+
+c) Promover espaços de vocação criativa geradores de atividade cultural regular especialmente dirigida a jovens;
+
+d) Apoiar o encaminhamento escolar e profissional, através das sessões desenvolvidas com as escolas e com os jovens individualmente;
+
+e) Propor e criar mecanismos de apoio ao primeiro emprego, concedendo informações nas áreas da formação e qualificação profissional.
+
+3 - Secção de Apoio Administrativo da Divisão de Desporto e Juventude, compete:
+
+a) Desenvolver o processo administrativo, nos termos das orientações explanadas no Regulamento das Instalações Desportivas Municipais e através da aplicação informática utilizada para a gestão de recursos e instalações desportivas;
+
+b) Desenvolver o processo administrativo dos programas desenvolvidos pela Unidade de Juventude;
+
+c) Proceder ao controlo mensal de pagamentos em atraso, procedendo à notificação dos utentes com dívida ativa, quer nas Unidades afetas ao Desporto, quer na Unidade de Juventude;
+
+d) Preparar a emissão de certidões de dívida;
+
+e) Zelar pelo pleno funcionamento administrativo dos postos de atendimento do desporto;
+
+f) Prestar o apoio administrativo necessário a toda a DDJ;
+
+g) Providenciar que todos os postos de cobrança do desporto procedam à entrega atempada da receita cobrada.
+
+###### Artigo 89.º — Unidade de Gestão de Instalações Desportivas Municipais de Mafra Centro
+
+À Unidade de Gestão de Instalações Desportivas Municipais de Mafra Centro, adiante designada abreviadamente por UGIDMMC, a cargo de um dirigente de 3.º grau, compete:
+
+a) Propor o modelo de gestão das instalações desportivas municipais, organizando e coordenando as atividades e a utilização das mesmas;
+
+b) Zelar pelo património afeto às instalações desportivas municipais;
+
+c) Garantir as condições higio-sanitárias adequadas à utilização das instalações desportivas municipais pelo público;
+
+d) Propor e operacionalizar projetos que promovam e potenciem o desenvolvimento da prática desportiva;
+
+e) Coordenar e acompanhar o serviço prestado no âmbito dos Núcleos Desportivos Municipais;
+
+f) Assegurar a gestão dos recursos humanos da responsabilidade do Município afetos às Instalações Desportivas Municipais.
+
+g) Propor e operacionalizar a realização de provas desportivas e eventos no âmbito do desporto e turismo outdoor, de âmbito nacional e internacional, que incrementem a prática desportiva e promovam turística e economicamente o concelho;
+
+h) Efetuar o levantamento de necessidades em apetrechamento desportivo;
+
+i) Propor a aquisição ou a substituição de equipamentos desportivos para as diferentes áreas e projetos do Município.
+
+###### Artigo 90.º — Unidade de Gestão de Instalações Desportivas Municipais de Mafra Oeste
+
+À Unidade de Gestão de Instalações Desportivas Municipais de Mafra Este, adiante designada abreviadamente por UGIDMME, a cargo de um dirigente de 3.º grau, compete:
+
+a) Propor o modelo de gestão das instalações desportivas municipais, organizando e coordenando as atividades e a utilização das mesmas;
+
+b) Zelar pelo património afeto às instalações desportivas municipais;
+
+c) Garantir as condições higio-sanitárias adequadas à utilização das instalações desportivas municipais pelo público;
+
+d) Propor e operacionalizar projetos que promovam e potenciem o desenvolvimento da prática desportiva;
+
+e) Coordenar e acompanhar o serviço prestado no âmbito dos Núcleos Desportivos Municipais;
+
+f) Assegurar a gestão dos recursos humanos da responsabilidade do Município afetos às Instalações Desportivas Municipais.
+
+g) Propor e operacionalizar a realização de provas desportivas e eventos no âmbito do desporto e turismo outdoor, de âmbito nacional e internacional, que incrementem a prática desportiva e promovam turística e economicamente o concelho;
+
+h) Efetuar o levantamento de necessidades em apetrechamento desportivo;
+
+i) Propor a aquisição ou a substituição de equipamentos desportivos para as diferentes áreas e projetos do Município.
+
+###### Artigo 91.º — Unidade de Gestão de Instalações Desportivas Municipais de Mafra Este
+
+À Unidade de Gestão de Instalações Desportivas Municipais de Mafra Centro, adiante designada abreviadamente por UGIDMMO, a cargo de um dirigente de 3.º grau, compete:
+
+a) Propor o modelo de gestão das instalações desportivas municipais, organizando e coordenando as atividades e a utilização das mesmas;
+
+b) Zelar pelo património afeto às instalações desportivas municipais;
+
+c) Garantir as condições higio-sanitárias adequadas à utilização das instalações desportivas municipais pelo público;
+
+d) Propor e operacionalizar projetos que promovam e potenciem o desenvolvimento da prática desportiva;
+
+e) Coordenar e acompanhar o serviço prestado no âmbito dos Núcleos Desportivos Municipais;
+
+f) Assegurar a gestão dos recursos humanos da responsabilidade do Município afetos às Instalações Desportivas Municipais.
+
+g) Propor e operacionalizar a realização de provas desportivas e eventos no âmbito do desporto e turismo outdoor, de âmbito nacional e internacional, que incrementem a prática desportiva e promovam turística e economicamente o concelho;
+
+h) Efetuar o levantamento de necessidades em apetrechamento desportivo;
+
+i) Propor a aquisição ou a substituição de equipamentos desportivos para as diferentes áreas e projetos do Município.
+
+###### Artigo 92.º — Unidade de Juventude
+
+À Unidade de Juventude, adiante designada abreviadamente por UJ, a cargo de um dirigente de 3.º grau, compete:
+
+a) Desenvolver programas para jovens sustentados na oferta de atividades culturais, desportivas e recreativas, assim como em projetos de voluntariado, cooperação, associativismo, formação, entre outros, que permitam a opção por uma vida útil e saudável;
+
+b) Dinamizar atividades que estimulem a participação juvenil e a livre criação, incentivem a criação de uma consciência ecológica dos jovens e dinamizem as tradições e costumes da população local;
+
+c) Dinamizar projetos e atividades que visem a formação complementar dos jovens, nomeadamente através de novas competências que se considerem essenciais ao ingresso no mundo do trabalho;
+
+d) Propor e operacionalizar atividades de apoio, informação e encaminhamento escolar e profissional dos jovens;
+
+e) Interagir de modo eficaz com outras instituições, no sentido de criar os mecanismos necessários que facilitem o acesso dos jovens à formação profissional, ao ensino, à informação, às novas tecnologias, à ocupação de tempos livres, ao desporto e à cultura;
+
+f) Propor e implementar medidas de prevenção do aparecimento de condutas desviantes ou de risco, através de ações de prevenção primária e de informação sobre os problemas e consequências da toxicodependência;
+
+g) Promover o intercâmbio entre jovens, procurando alargar o seu campo cultural e intelectual;
+
+h) Garantir a avaliação sistemática dos projetos, de modo a verificar a sua adequação às necessidades dos jovens;
+
+i) Assegurar as funções de apoio à juventude e ocupação de tempos livres, em função dos planos aprovados;
+
+j) Prestar apoio logístico e administrativo no Conselho Municipal de Juventude;
+
+k) Efetuar o levantamento e estudo das principais necessidades que afetam as camadas mais jovens;
+
+l) Participar nos processos de apoio às atividades das associações e agentes de cariz juvenil do Concelho, de acordo com regulamentos municipais.
+
+###### Artigo 93.º — Núcleo de Apoio Técnico
+
+O Núcleo de Apoio Técnico, adiante designada abreviadamente por NAT, funciona na dependência direta do diretor do DEDJ e integra a área de Apoio Administrativo, competindo-lhe:
+
+a) Arquivar, organizar e encaminhar o despacho da correspondência expedida e recebida no departamento, bem como de informações ou outros documentos que impliquem resposta a terceiros ou encaminhamento interno na Câmara Municipal;
+
+b) Compilar a informação de todas as áreas do Departamento e elaborar o Relatório Anual de Gestão do Plano de Atividades do Departamento;
+
+c) Preparar os processos administrativos para a Reunião de Câmara;
+
+d) Elaborar as requisições internas referente aos pedidos de material de escritório;
+
+e) Efetuar atendimento telefónico.
+
+### CAPÍTULO VI — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+###### Artigo 94.º — Organograma
+
+O organograma consta do Anexo, que faz parte integrante do presente Regulamento.
+
+###### Artigo 95.º — Alteração e ajustamento de atribuições e competências
+
+As atribuições, competências e responsabilidades dos diversos serviços da presente estrutura orgânica, e consequentemente dos seus dirigentes e chefias, poderão ser alteradas ou ajustadas pelo órgão competente, sempre que razões de eficácia assim o justifiquem, designadamente, para cumprimento dos planos, prévia e anual ou plurianualmente aprovados.
+
+###### Artigo 96.º — Dúvidas e omissões
+
+Compete ao Presidente da Câmara decidir sobre eventuais dúvidas de interpretação ou omissões do presente regulamento.
+
+###### Artigo 97.º — Entrada em vigor
+
+O Regulamento de Organização dos Serviços Municipais, Estrutura e Competências - Estrutura Nuclear e a Estrutura Flexível - (ROSMEC) entra em vigor no primeiro dia útil imediatamente seguinte à data da sua publicação no Diário da República, ou no dia 1 de maio de 2024, se aquela data for anterior a esta última.
+
+###### Artigo 98.º — Norma revogatória
+
+Com a entrada em vigor do presente regulamento orgânico e estrutura dos serviços municipais ficam revogadas todas as disposições anteriores sobre estas matérias.
+
+## ANEXO — Organograma
+
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/863400101) |
+| --- |
+
+317615195

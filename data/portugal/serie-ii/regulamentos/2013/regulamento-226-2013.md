@@ -1,0 +1,333 @@
+---
+schema_version: '1.0'
+id: pt:dre:1246995:por
+title: Regulamento n.º 226/2013
+short_title: null
+summary: Aviso e Regulamento do Fundo Municipal de Solidariedade Social
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Ponta Delgada
+proposing_entity: null
+official_number: 226/2013
+official_date: null
+publication_date: '2013-06-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 115/2013, Série II de 2013-06-18
+  number: '115'
+  series: II
+  supplement: null
+  pages: 19446 - 19448
+  pdf_url: https://files.diariodarepublica.pt/2s/2013/06/115000000/1944619448.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1246995'
+  dre_path: /dr/detalhe/regulamento/226-2013-1246995
+  internal: pt:dre:1246995:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/226-2013-1246995
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/226-2013-1246995
+  consolidated_url: null
+  retrieved_at: '2026-11-13T04:43:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ffff0d4000c954a174ec467eb24e08f52c92e12c39b84f7a81ca1f8f381e3db1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T04:43:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T04:43:06Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 226/2013
+
+José Manuel Bolieiro, Presidente da Câmara Municipal de Ponta Delgada, torna público que, por deliberação tomada pela Assembleia Municipal de Ponta Delgada, na sua sessão de 30 de abril do ano em curso, foi aprovado o Regulamento do Fundo Municipal de Solidariedade Social.
+
+7 de junho de 2013. - O Presidente da Câmara, José Manuel Bolieiro.
+
+Regulamento do Fundo Municipal de Solidariedade Social
+
+Nota Justificativa
+
+Face ao atual contexto socioeconómico que o país atravessa, o número de pedidos de apoio social de indivíduos e famílias tem vindo a aumentar nos serviços camarários, em particular na Divisão Social da Câmara Municipal de Ponta Delgada.
+
+Perante esta realidade de carência real da população do concelho de Ponta Delgada, impõe-se que o órgão representativo do município tome medidas de caráter urgente no sentido de atenuar o conjunto de situações que afetam as mesmas.
+
+Não obstante a grande atenção e prioridade dada às funções sociais no Orçamento Municipal para 2013, torna-se fundamental a criação de um instrumento legal que, perante um conjunto de situações de emergência social, permita aos serviços do município uma resposta rápida e eficaz.
+
+Por outro lado, torna-se hoje particularmente evidente que um número apreciável de indivíduos e famílias, embora em situação de extrema carência económica, permanecem fora do sistema de apoio prestado pela Segurança Social devido ao valor da sua capitação.
+
+No sentido de uma intervenção que se pretende cada vez mais integrada e integradora e de uma efetiva melhoria das condições de vida das pessoas e famílias carenciadas, tornam-se necessárias medidas de caráter inovador que não se sobreponham às já existentes no Município de Ponta Delgada e que sejam complementares às promovidas pelos diversos organismos e entidades responsáveis.
+
+A criação de um Fundo Municipal de Solidariedade Social operacionaliza os objetivos anunciados.
+
+Pelo presente regulamento, define-se quais as áreas de intervenção, as condições de elegibilidade de acesso aos apoios económicos, as obrigações e deveres das partes envolvidas, numa perspetiva de clarificação de procedimentos e decisões.
+
+Em resumo, a Câmara Municipal de Ponta Delgada pretende que o Fundo Municipal de Solidariedade Social seja mais um contributo para a melhoria das condições de vida dos cidadãos do concelho, face à atual conjuntura de grave dificuldade económica e social.
+
+###### Artigo 1.º — Enquadramento Legal
+
+O presente regulamento tem como fundamento o artigo 241.º da Constituição da República Portuguesa, o artigo 13.º, n.º 1, alíneas g) e h) da [Lei n.º 159/99](https://diariodarepublica.pt/dr/detalhe/lei/159-1999-570562), de 14 de Setembro e o artigo 64.º, n.º 4, alínea c) da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de setembro, na redação dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de janeiro.
+
+###### Artigo 2.º — Natureza do Apoio
+
+1 - A [Lei n.º 4/2007](https://diariodarepublica.pt/dr/detalhe/lei/4-2007-522781) de 16 de Janeiro, que aprova as Bases Gerais do Sistema de Segurança Social, estabelece na alínea c) do Artigo 30.º "Prestações pecuniárias, de caráter eventual e em condições de excecionalidade" traduzindo-se no apoio pecuniário pontual e temporário com vista a remover, reduzir ou compensar os fatores que originaram a situação de emergência social e que não são totalmente cobertos pelas diferentes prestações do sistema de Segurança Social.
+
+2 - Os montantes a atribuir serão sob a forma de subsídio e serão determinados no âmbito dos procedimentos previstos neste regulamento.
+
+3 - Os apoios podem ser complementares a outros que o indivíduo ou agregado familiar possam usufruir quando os mesmos se revelem comprovadamente insuficientes.
+
+###### Artigo 3.º — Âmbito e Objeto
+
+1 - O presente regulamento visa definir as condições de acesso aos apoios financeiros a conceder pela Câmara Municipal de Ponta Delgada no âmbito do Fundo Municipal de Solidariedade Social.
+
+2 - O Fundo Municipal de Solidariedade Social destina-se a indivíduos e agregados familiares que, ao abrigo da análise dos serviços técnicos do município, a efetuar nos termos do artigo 12.º do presente regulamento, estejam comprovadamente numa situação de carência sócio económica precária.
+
+###### Artigo 4.º — Definição de Conceitos
+
+Para um melhor entendimento das disposições previstas no presente regulamento importa definir um conjunto de conceitos base essenciais:
+
+1 - Agregado familiar: conjunto de pessoas que vivem em comunhão de mesa e habitação, ligadas entre si por laço de parentesco, casamento, união de facto, afinidade familiar, adoção e outras situações similares, que se encontram na exclusiva dependência do requerente.
+
+2 - Família Monoparental: conjunto de pessoas que vive em comunhão de mesa e habitação, onde há um pai ou mãe só, com um ou vários filhos todos na exclusiva dependência do elemento maior.
+
+3 - Situação de emergência social: situação de caráter agudo e pontual, de gravidade excecional que ponha em causa a satisfação dos mais elementares direitos de saúde e subsistência.
+
+4 - Cálculo do Rendimento
+
+a) Rendimento mensal: Todos os recursos do agregado familiar provenientes de trabalho, pensões, prestações complementares, subsídio de desemprego, subsídio de doença, bolsas de estudo e formação, indemnizações ou prestações mensais de seguradoras, pensão de alimentos ou quaisquer outros traduzíveis em numerário.
+
+b) Despesa mensal fixa: Valor resultante das despesas mensais de consumo, de caráter permanente, como eletricidade, água, gás, educação, passes de transportes, telefone, habitação e saúde, devendo neste último caso o caráter regular da despesa ser devidamente comprovado.
+
+c) Rendimento mensal "per capita": É o indicador económico que permite conhecer o poder de compra do agregado familiar, calculado através da seguinte fórmula:
+
+Rpc = (Rm - Dm) /N
+
+Rpc = Rendimento mensal per capita;
+
+Rm = Rendimentos mensais do agregado
+
+Dm = Despesa mensal fixa do agregado familiar
+
+N - Número de elementos do agregado familiar
+
+5 - Subsídio: Valor de natureza pecuniária, de caráter pontual e transitório.
+
+###### Artigo 5.º — Requisitos Gerais de Acesso
+
+No âmbito da candidatura aos apoios previstos neste regulamento, são necessários os seguintes requisitos gerais de acesso:
+
+a) Residir no concelho de Ponta Delgada;
+
+b) Ser cidadão nacional ou equiparado em termos legais;
+
+c) Ter mais de 18 anos de idade;
+
+d ) Disponibilizar toda a documentação e comprovativos necessários à instrução do processo previsto no artigo 7.º
+
+###### Artigo 6.º — Requisito Específico de Acesso
+
+1 - Consideram-se em situação de carência social precária, os indivíduos e agregados familiares cujo rendimento mensal per capita seja igual ou inferior ao valor estipulado para a Pensão Social do Regime Geral, fixado anualmente
+
+2 - Para efeitos do previsto no número anterior, considera-se para 2013 o valor de 197,55 (euro), sendo o mesmo atualizado anualmente em função do valor da Pensão Social do Regime Geral
+
+###### Artigo 7.º — Instrução do Pedido de Apoio
+
+1 - O pedido de apoio deve ser formulado em requerimento próprio, a fornecer pelos serviços camarários, dirigido ao Presidente da Câmara Municipal de Ponta Delgada e entregue pessoalmente nos serviços da Divisão de Ação Social da Câmara Municipal de Ponta Delgada, sito na Rua Luís Soares de Sousa n.º 21 em Ponta Delgada.
+
+2 - Devem acompanhar obrigatoriamente o referido requerimento, os seguintes documentos:
+
+a) Fotocópia dos documentos de identificação obrigatórios dos membros do agregado familiar;
+
+b) Atestado de residência, atualizado, emitido pela junta de freguesia, com confirmação do agregado familiar;
+
+c) Fotocópia dos documentos comprovativos referentes aos rendimentos mensais de todos os elementos do agregado familiar, designadamente:
+
+i) Ordenados, salários ou outras remunerações;
+
+ii) Rendas temporárias e vitalícias;
+
+iii) Pensões de reforma, de aposentação, velhice, invalidez ou outras;
+
+iv) Quaisquer outros subsídios (abono, desemprego, pensão de alimentos e outros de direito)
+
+d ) Fotocópia comprovativas das despesas, designadamente:
+
+i) Seguros obrigatórios;
+
+ii) Despesas mensais com água, energia e gás;
+
+iii) Despesas com saúde incluindo medicamentos e ou tratamentos de uso continuado, desde que com prescrição médica;
+
+iv) Despesas com educação;
+
+v) Frequência de equipamento para apoio na área da infância, idosos e deficiência,
+
+e) Declaração emitida pelo Centro de Emprego, caso o indivíduo, ou outros membros da família se encontrar em situação de desemprego;
+
+f ) Declaração, sob compromisso de honra do requerente, em como não beneficia de apoios análogos para o mesmo fim ou, a existirem tais apoios declarar, exatamente, em que consistem;
+
+g) Declaração, sob compromisso de honra do requerente, da veracidade de todas as declarações prestadas na instrução do processo;
+
+h) Documento comprovativo do número de identificação bancária (NIB)
+
+3 - Nos casos em que os elementos do agregado familiar, sendo maiores, não apresentem rendimentos e não façam prova de se encontrarem a frequentar o ensino secundário ou superior, de estarem desempregados, incapacitados para o trabalho ou reformados por velhice ou invalidez, considerar-se-á que auferem rendimento equivalente ao salário mínimo regional.
+
+4 - O disposto no número anterior, não é aplicável no caso da pessoa ser doméstica, sendo que apenas um dos elementos do agregado familiar poderá exercer esta ocupação.
+
+5 - A Câmara Municipal de Ponta Delgada poderá, em caso de dúvida sobre a situação de carência, desenvolver as diligências complementares que se considerem mais adequadas ao apuramento da situação sócio económica do agregado familiar
+
+6 - O requerente fica obrigado a comunicar à Câmara Municipal de Ponta Delgada quaisquer alterações da informação constante nos documentos referidos no n.º 2 e que ocorram no decorrer do processo de atribuição dos apoios
+
+7 - A prestação de falsas declarações ou omissão de informações relevantes para o processo por parte do requerente, resultará no indeferimento ou anulação dos apoios previstos neste regulamento.
+
+###### Artigo 8.º — Confidencialidade
+
+Todas as pessoas envolvidas nos diferentes procedimentos técnicos referidos no presente regulamento, devem garantir a confidencialidade dos dados pessoais dos requerentes e beneficiários, bem como, qualquer informação que tenham acesso e que diga respeito à esfera das suas vidas privadas.
+
+###### Artigo 9.º — Despesas Comparticipadas
+
+1 - As despesas comparticipadas pelos apoios financeiros, atribuídos ao abrigo deste regulamento, são:
+
+a) Pagamento da mensalidade da água, da luz e do gás e de quaisquer despesas relativas a tarifas de suspensão e reinício de ligação de serviços por incumprimento que não tenha origem em atos de sabotagem;
+
+b) Aquisição e pagamento de géneros alimentícios;
+
+c) Despesas escolares com encargos com as refeições, livros e outro material escolar;
+
+d ) Despesas de saúde, nomeadamente com medicamentos para doentes crónicos, prescritos através de receita médica.
+
+e) Despesas resultantes de situações excecionais e extemporâneas que sejam prementes para o bem-estar do indivíduo e da família, que deverão ser devidamente fundamentadas e analisadas pelos serviços de ação social.
+
+2 - No âmbito dos apoios descritos no número anterior, não se incluem os da habitação por já se encontrem previstos no Regulamento Municipal de Apoio ao Pagamento de Rendas Habitacionais, no Regulamento Municipal de Obras em Casa na 3.ª Idade e no Regulamento Municipal de Apoio à Habitação Degradada.
+
+###### Artigo 10.º — Duração do apoio
+
+Os apoios concedidos ao abrigo do presente regulamento têm caráter pontual, e encontram-se sujeitos ao disposto no artigo seguinte cessando a 31 de dezembro de cada ano civil.
+
+###### Artigo 11.º — Valor Máximo de Apoio
+
+1 - O valor anual a conceder a cada indivíduo, salvo exceções devidamente fundamentadas, pode ir até ao máximo de 2 vezes 197,55 (euro) (valor da pensão social), conforme percentagem definida para o 1.º elemento no quadro n.º 1.
+
+2 - O valor anual a conceder a cada agregado familiar, salvo exceções devidamente fundamentadas, pode ir até ao máximo da percentagem definida para cada elemento, consoante os casos previstos no quadro, n.º 1.
+
+QUADRO N.º 1
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2013/06/115000000/1944619448.pdf)
+
+###### Artigo 12.º — Apreciação de Candidaturas
+
+1 - A receção, análise e acompanhamento dos processos de atribuição de apoio no âmbito do presente regulamento será da responsabilidade dos serviços técnicos da Divisão de Ação Social da Câmara Municipal de Ponta Delgada.
+
+2 - A análise das candidaturas terá em conta os procedimentos a seguir elencados:
+
+a) Verificação da legalidade e veracidade dos documentos entregues pelo requerente
+
+b) Elaboração do estudo socioeconómico com base na:
+
+i) Entrevista individual
+
+ii) Informação Social
+
+iii) Visita Domiciliária
+
+c) Verificação se o candidato cumpre os requisitos constantes no presente regulamento, nomeadamente o previsto nos artigos 6.º e 7.º, que determinará o deferimento ou indeferimento do apoio a conceder.
+
+d ) Elaboração de Relatório Social contendo todas as informações relevantes sobre a necessidade do apoio e o valor estimado do mesmo.
+
+###### Artigo 13.º — Decisão
+
+1 - Com base no Relatório Social referido no artigo anterior, o Presidente da Câmara Municipal de Ponta Delgada ou o Vereador com competências delegadas na área da Ação Social decide sobre a atribuição dos apoios nos termos deste regulamento.
+
+2 - Terão prioridade as famílias em situação de desemprego recente, com menores e ou idosos a cargo.
+
+3 - A decisão sobre o processo deve ser tomada no prazo de 15 dias, contados da data da receção da candidatura nos serviços competentes.
+
+4 - A decisão fica condicionada à disponibilidade de verba existente no Fundo Municipal de Solidariedade Social.
+
+###### Artigo 14.º — Forma de Pagamento
+
+1 - O valor do subsídio é pago mediante transferência bancária a realizar pela Câmara Municipal de Ponta Delgada.
+
+2 - O pagamento do montante atribuído estará sempre condicionado à apresentação de um comprovativo prévio de despesa.
+
+3 - O beneficiário fica obrigado, no prazo limite de 8 dias, à apresentação do documento de recibo ou de outra prova adequada de que o montante atribuído foi aplicado para o fim que foi aprovado.
+
+###### Artigo 15.º — Natureza do Apoio
+
+No âmbito do Regulamento do Fundo Municipal de Solidariedade Social será inscrita uma verba no Orçamento Anual da Câmara Municipal de Ponta Delgada, não podendo ser ultrapassado o limite aí fixado.
+
+###### Artigo 16.º — Fiscalização
+
+O beneficiário será acompanhado, durante a vigência do apoio, pelos serviços técnicos da ação social da Câmara Municipal de Ponta Delgada que ficarão responsáveis pela verificação de qualquer incumprimento ou anomalia.
+
+###### Artigo 17.º — Incumprimento
+
+O incumprimento por parte do beneficiário de qualquer das disposições previstas neste regulamento relativas ao próprio, implicam a automática cessação e devolução do subsídio concedido, assim como a impossibilidade de qualquer candidatura num período de 2 anos.
+
+###### Artigo 18.º — Omissões
+
+As omissões do presente regulamento serão suprimidas por deliberação da Câmara Municipal.
+
+###### Artigo 19.º — Entrada em vigor
+
+O presente regulamento entra em vigor após aprovação da Assembleia Municipal de Ponta Delgada e da sua publicitação no termos legais.
+
+307034659

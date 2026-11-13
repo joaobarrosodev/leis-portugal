@@ -1,0 +1,348 @@
+---
+schema_version: '1.0'
+id: pt:dre:916205892:por
+title: Regulamento n.º 534/2025
+short_title: null
+summary: Aprova o Regulamento do Concurso Especial de Acesso e Ingresso para Estudantes Internacionais do Instituto Universitário
+  de Ciências da Saúde ― CESPU.
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Instituto Universitário de Ciências da Saúde - CESPU
+proposing_entity: null
+official_number: 534/2025
+official_date: null
+publication_date: '2025-04-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 82/2025, Série II de 2025-04-29
+  number: '82'
+  series: II
+  supplement: null
+  pages: 406 - 412
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/04/082000000/0040600412.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '916205892'
+  dre_path: /dr/detalhe/regulamento/534-2025-916205892
+  internal: pt:dre:916205892:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/534-2025-916205892
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/534-2025-916205892
+  consolidated_url: null
+  retrieved_at: '2026-11-13T08:19:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fa63db38642c92fe75e1a5686f7ea86f87357febd10470adda25580b55e20152
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T08:19:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:115924012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207484188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216512899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911303062:por
+  label: null
+  source: null
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T08:19:04Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 534/2025
+
+Em cumprimento do estatuído artigo 14.º do [Decreto-Lei n.º 36/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2014-572431), de 10 de março, na sua atual redação, publica-se o regulamento do concurso especial de acesso e ingresso para estudantes internacionais do Instituto Universitário de Ciências da Saúde - CESPU aprovado pelos órgãos competentes deste estabelecimento de ensino, para vigorar a partir do ano letivo de 2025-2026 inclusive, substituindo o [Regulamento n.º 215/2023](https://diariodarepublica.pt/dr/detalhe/regulamento/215-2023-207484188), publicado na 2.ª série do Diário da República n.º 33, de 15-02-2023.
+
+16 de abril de 2025. - O Reitor do Instituto Universitário de Ciências da Saúde - CESPU, Prof. Doutor José Alberto Duarte.
+
+Regulamento do Concurso Especial de Acesso e Ingresso para Estudantes Internacionais do Instituto Universitário de Ciências da Saúde - CESPU
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - O presente regulamento disciplina o concurso especial de acesso e ingresso de estudantes internacionais nos ciclos de estudo de licenciatura e mestrado integrado do Instituto Universitário de Ciências da Saúde - CESPU (adiante IUCS-CESPU), ao abrigo do disposto no artigo 14.º do [Decreto-Lei n.º 36/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2014-572431), de 10-03, alterado e republicado pelo [Decreto-Lei n.º 62/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2018-115924012), de 06-08 (adiante [Decreto-Lei n.º 36/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2014-572431)).
+
+2 - Este regulamento não abrange o ingresso de estudantes internacionais em ciclos de estudos de mestrado e doutoramento, que se realiza de acordo com os respetivos regulamentos.
+
+3 - O [Decreto-Lei n.º 36/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2014-572431) aplica-se às questões que não estejam expressamente regulamentadas no presente regulamento.
+
+###### Artigo 2.º — Estudante Internacional
+
+1 - Para os efeitos do disposto no presente diploma, estudante internacional é o estudante que não tem a nacionalidade portuguesa, sem prejuízo do previsto nos números seguintes:
+
+2 - Não se considera estudante internacional, para os efeitos do disposto no presente regulamento, quem se encontrar em qualquer uma das seguintes situações:
+
+a) For nacional de um Estado-Membro da União Europeia ou nacional de um Estado Parte no Acordo sobre o Espaço Económico Europeu;
+
+b) For familiar de nacional português, de nacional de outro Estado-Membro da União Europeia ou de nacional de um Estado Parte no Acordo sobre o Espaço Económico Europeu, independentemente da sua nacionalidade;
+
+c) Não sendo nacional de um Estado-Membro da União Europeia, nem de um Estado Parte no Acordo sobre o Espaço Económico Europeu, e não estando abrangido pela alínea anterior, residir legalmente em Portugal há mais de dois anos, de forma ininterrupta, em 1 de janeiro do ano em que pretende ingressar no ensino superior, bem como os seus filhos que com ele residam legalmente, sem prejuízo do disposto no n.º 4;
+
+d) For beneficiário, em 1 de janeiro do ano em que pretenda ingressar no ensino superior, de estatuto de igualdade de direitos e deveres concedido ao abrigo de tratado ou de acordo internacional celebrado entre o Estado Português e o Estado de que é nacional;
+
+e) Requerer o ingresso no ensino superior através dos regimes especiais de acesso e ingresso no ensino superior regulados no capítulo ii do [Decreto-Lei n.º 64-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), de 31 de julho.
+
+3 - Também não se considera estudante internacional, para os efeitos do disposto no presente diploma, o estudante estrangeiro que se encontre a frequentar uma instituição de ensino superior portuguesa no âmbito de um programa de mobilidade internacional para a realização de parte de um ciclo de estudos de uma instituição de ensino superior estrangeira com a qual a instituição portuguesa tenha estabelecido acordo de intercâmbio com esse objetivo.
+
+4 - No caso previsto na alínea c) do n.º 2, o tempo de residência com autorização de residência para estudo apenas releva durante o período em que o estudante se encontre a frequentar o ensino secundário em Portugal.
+
+5 - Sem prejuízo do disposto no número seguinte, todos os estudantes que ingressem no ensino superior ao abrigo do disposto no presente diploma mantêm a qualidade de estudante internacional até ao final do ciclo de estudos em que se inscreveram inicialmente ou para que transitem, mesmo que, durante a frequência de qualquer desses ciclos de estudos, lhes venha a ser concedido o estatuto de igualdade de direitos e deveres ao abrigo de tratado ou de acordo internacional celebrado entre o Estado Português e o Estado de que são nacionais.
+
+6 - Excetuam-se do disposto no número anterior os estudantes internacionais que adquiram a nacionalidade portuguesa, a de outro Estado-Membro da União Europeia ou a de um Estado Parte no Acordo sobre o Espaço Económico Europeu.
+
+7 - Para efeitos do disposto na alínea b) do n.º 2, são familiares os que assim forem considerados nos termos da [Lei n.º 37/2006](https://diariodarepublica.pt/dr/detalhe/lei/37-2006-538604), de 9 de agosto:
+
+a) O cônjuge de um cidadão da União Europeia;
+
+b) O parceiro com quem um cidadão da União Europeia vive em união de facto, constituída nos termos da lei, ou com quem o cidadão da União europeia mantém uma relação permanente devidamente certificada pela entidade competente do Estado membro onde reside;
+
+c) O descendente direto com menos de 21 anos de idade ou que esteja a cargo de um cidadão da União Europeia, assim como o do cônjuge ou do parceiro na aceção da subalínea anterior;
+
+d) O ascendente direto que esteja a cargo de um cidadão da União Europeia, assim como o do cônjuge ou do parceiro na aceção da alínea b).
+
+8 - A qualidade de familiar referida no ponto anterior é comprovada mediante declaração sob compromisso de honra do estudante em impresso do IUCS-CESPU; falsas declarações determinam a anulação da candidatura e/ou matrícula, independentemente de quando vierem a ser detetadas e sem prejuízo da responsabilidade civil e criminal que possam importar.
+
+9 - Entende-se por «Residente legal» o cidadão estrangeiro habilitado com título de residência em Portugal, de validade igual ou superior a um ano, nos termos do disposto na alínea v) do artigo 3.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, que aprova o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional.
+
+###### Artigo 3.º — Condições de acesso
+
+Podem candidatar-se aos cursos de licenciatura e mestrado integrado os estudantes internacionais que satisfaçam uma das seguintes condições:
+
+a) Titulares de uma qualificação que dê acesso ao ensino superior, entendida como qualquer diploma ou certificado emitido por uma autoridade competente que ateste a aprovação num programa de ensino e lhes confira o direito de se candidatar e poder ingressar no ensino superior no país em que foi conferido;
+
+b) Os titulares de um diploma do ensino secundário português ou de habilitação legalmente equivalente.
+
+###### Artigo 4.º — Condições de ingresso
+
+1 - São condições de ingresso nos cursos ministrados no IUCS-CESPU:
+
+a) A verificação da qualificação académica específica para ingresso no curso que incidirá sobre as matérias das provas de ingresso fixadas no âmbito do regime geral de acesso e ingresso;
+
+b) A verificação do conhecimento da língua em que o ensino vai ser ministrado;
+
+c) A verificação da satisfação dos pré-requisitos fixados pelo IUCS-CESPU para o curso.
+
+2 - A verificação da qualificação académica específica dos candidatos:
+
+a) Incide sobre as matérias das provas de ingresso fixadas para o ciclo de estudos em causa no âmbito do concurso institucional de acesso;
+
+b) Assegura que só são admitidos estudantes que demonstrem conhecimentos nas matérias das provas de ingresso, de nível e conteúdo equivalentes aos dos estudantes admitidos através do concurso institucional de acesso;
+
+c) Pode ser feita através de prova documental ou de exames escritos a realizar no IUCS-CESPU, eventualmente complementados com exames orais. A realização dos exames pode ser opção do estudante ou ser determinada pelo júri do concurso por considerar não bastante a prova documental.
+
+3 - Os referenciais dos exames a realizar no IUCS-CESPU atrás referidos são aprovados pelo Conselho Científico.
+
+4 - A verificação do conhecimento da língua em que o ensino vai ser ministrado realiza-se através de exame escrito (eventualmente complementado por prova oral), com efeito de seriação dos candidatos, traduzindo-se no resultado de apto/não apto. Serão dispensados desta prova os candidatos cuja língua materna seja o português ou tenham formação em português de nível que seja considerado adequado.
+
+5 - Disposições sobre os resultados dos exames realizados no IUCS-CESPU para verificação da qualificação académica específica e do conhecimento da língua:
+
+a) No exame específico para verificação da qualificação académica, os estudantes que obtenham resultados superiores a 16 valores, realizarão obrigatoriamente prova oral para confirmação de conhecimentos, prevalecendo a classificação da prova oral, que não é passível de reclamação e/ou revisão; os estudantes podem requerer a dispensa de prova oral, considerando-se para a seriação a classificação de 16 valores.
+
+b) Podem ser objeto de reclamação para o júri do concurso, no prazo definido para o efeito no calendário do concurso, mediante pagamento de emolumento;
+
+c) São válidos no ano letivo da candidatura e, havendo recandidatura, nos quatro anos seguintes, a pedido expresso do estudante.
+
+6 - Aos estudantes em situação de emergência por razões humanitárias que não consigam comprovar documentalmente as respetivas qualificações, serão aplicados procedimentos alternativos de verificação das condições de acesso e ingresso (como a realização de provas escritas e/ou orais).
+
+###### Artigo 5.º — Vagas, restrições de inscrição e prazos
+
+1 - O número de vagas é fixado anualmente pela entidade instituidora, mediante proposta do Conselho de Gestão do IUCS-CESPU.
+
+2 - Anualmente, e por inexistência de condições de integração de novos estudantes, poderão ser definidos:
+
+a) Anos curriculares que não admitem estudantes internacionais, com inerente restrição de eventuais pedidos de creditação;
+
+b) Unidades curriculares em que não é possível a inscrição no ano de admissão.
+
+3 - Anualmente poderá ser criado um contingente específico de vagas para estudantes abrangidos por protocolo celebrado entre o IUCS-CESPU e Instituição de Ensino Superior estrangeira e instituição internacional de solidariedade, contemplando designadamente a dupla titulação, a divulgar no edital de abertura do concurso.
+
+###### Artigo 6.º — Do júri do concurso
+
+1 - A seleção e seriação dos candidatos são efetuadas por um júri nomeado pelo Conselho de Gestão integrando o Diretor do Departamento de Ciências ou outro docente do departamento, que preside, e docentes com formação nas principais áreas das provas específicas previstas para acesso aos cursos do IUCS-CESPU.
+
+2 - O júri pode, se necessário, solicitar intervenção no processo de docentes com formação específica nas áreas das provas específicas previstas para acesso aos cursos do IUCS-CESPU e/ou de domínio da língua portuguesa.
+
+###### Artigo 7.º — Da seleção dos candidatos
+
+1 - O júri aprecia, em primeiro lugar, através da documentação apresentada, as qualificações e conhecimentos abrangidos nas condições de ingresso.
+
+2 - Após a análise da prova documental, o júri elabora, para cada curso, lista de candidatos, ordenada alfabeticamente, com uma das seguintes menções:
+
+a) Admitido;
+
+b) Admitido condicionalmente;
+
+c) Excluído.
+
+3 - São considerados “Admitidos”, os candidatos para os quais, através da documentação apresentada, o júri considere verificadas as condições de ingresso.
+
+4 - São considerados “Admitidos condicionalmente” os candidatos que, para efeitos da verificação das qualificações e conhecimentos referidos nas alíneas a) e b) do n.º 1 do art. 4.º - condições de ingresso, necessitem de realizar exames escritos e ou orais complementares. Neste caso, o júri deve indicar quais os exames que o candidato deve realizar.
+
+5 - São considerados “excluídos” os candidatos que prestem declarações falsas, apresentem documentos fraudulentos ou que não tenham entregado a documentação exigida ou não satisfaçam o disposto no [Decreto-Lei n.º 36/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2014-572431) e no presente regulamento. A decisão de exclusão é sempre fundamentada, podendo dela ser apresentada reclamação nos prazos previstos no edital.
+
+6 - O júri pode, na fase de apreciação das candidaturas, e quando considere adequado, solicitar aos candidatos documentação complementar ou em falta.
+
+###### Artigo 8.º — Da seriação dos candidatos
+
+1 - Após a realização dos exames previstos no n.º 4 do artigo anterior, o júri elabora lista final de todos os candidatos, ordenada por ordem decrescente da classificação final.
+
+2 - A classificação final dos candidatos corresponde aos resultados obtidos (média aritmética se aplicável):
+
+a) Na(s) prova(s) de ingresso portuguesa(s) ou equivalente(s), designadamente ao abrigo do art. 20.º-A;
+
+b) Na(s) prova(s) de acesso ao ensino superior realizada(s) no país de origem (exemplo ENEM), com conversão proporcional para a escala de classificações de 0 a 200 pontos;
+
+c) No(s) exame(s) realizado(s) no IUCS-CESPU, com escala de classificações de 0 a 200 valores e aprovação com 95 pontos;
+
+d) Disciplinas de ensino secundário e/ou universitário na área das provas de ingresso que o júri do concurso considere como bastantes para demonstrar a qualificação académica específica para ingresso no curso.
+
+3 - A colocação dos candidatos é feita sequencialmente, por ordem decrescente da classificação final.
+
+4 - Os resultados finais do concurso são tornados públicos através de edital, contendo uma das seguintes menções:
+
+a) “Colocado no 1.º ano”,
+
+b) “Não colocado”, que tem por fundamento não ter sido abrangido por vaga,
+
+c) “Não admitido” que tem por fundamento a não demonstração das condições de ingresso, constando do edital a referência à não aprovação ou falta às provas do IUCS-CESPU) ou
+
+d) “Excluído” com os fundamentos previsto no artigo anterior.
+
+5 - Os candidatos podem reclamar do resultado final para o júri do concurso, no prazo definido para o efeito no calendário do concurso e mediante pagamento de emolumento, se previsto, competindo a decisão ao Reitor.
+
+6 - Sempre que dois ou mais candidatos em situação de empate disputem o último lugar terá prioridade o candidato que primeiro haja formalizado a candidatura.
+
+###### Artigo 9.º — Edital do concurso
+
+Em cada ano letivo, o processo de candidatura iniciar-se-á com a publicação no sítio da Internet da CESPU de Edital onde constam:
+
+a) O calendário das ações a desenvolver;
+
+b) Os cursos para os quais são admitidas candidaturas;
+
+c) As vagas por curso;
+
+d) As áreas científicas da qualificação académica específica exigida para cada curso;
+
+e) As classificações mínimas exigidas na qualificação académica específica;
+
+f) Emolumentos de candidatura e matrícula.
+
+###### Artigo 10.º — Processo de candidatura
+
+1 - O procedimento de candidatura e matrícula é realizado online na plataforma informática inforestudante.cespu.pt sendo instruído com os seguintes documentos:
+
+a) Declaração sobre enquadramento de nacionalidade, em modelo aprovado
+
+b) Fotocópia do passaporte;
+
+c) Documento emitido pela AIMA que comprove requisito de residência em Portugal ou atestado de residência no estrangeiro, conforme aplicável.
+
+d) Diploma ou certificado das habilitações académicas de acesso ao ensino superior, com as respetivas classificações, obrigatoriamente autenticado pelos serviços oficiais de educação do respetivo país (MEC no Brasil, por ex.) e reconhecido pela autoridade diplomática ou consular portuguesa nesse país (ou trazer apostilha da Convenção de Haia);
+
+e) Documento emitido por autoridade competente que ateste que as habilitações que o candidato possui, lhe permitem o acesso ao ensino superior no país em que foram conferidas, exceto se essa documentação já existir na CESPU (lista a divulgar no sítio da Internet);
+
+f) Diploma do ensino secundário português ou de habilitação legalmente equivalente originais, quando aplicável;
+
+g) Documento comprovativo da qualificação académica específica (classificação obtida, conteúdos programáticos e escala de classificação aplicada; sempre que não seja possível fazer a conversão da classificação, o candidato terá o resultado de dez valores);
+
+h) Certificado de formação em língua portuguesa, quando aplicável;
+
+2 - Os documentos que não sejam emitidos em língua portuguesa, inglesa, francesa, italiana ou espanhola, devem ser traduzidos e visados pelo serviço consular ou apresentados com a aposição da Apostilha de Haia pela autoridade competente do Estado de onde são originários os documentos.
+
+Pode o candidato solicitar também a tradução em território português, sendo que de acordo com a legislação portuguesa em vigor (Código do Notariado e [Decreto-Lei n.º 237/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2001-631838), de 30 de agosto) poderão realizar e certificar traduções as seguintes entidades: notários, advogados e solicitadores, conservatórias, câmaras de comércio e indústria reconhecidas nos termos do [Decreto-Lei n.º 244/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1992-217704), de 29 de outubro e por tradutor idóneo desde que certificada por qualquer um dos serviços ou entidades anteriormente referidas.
+
+###### Artigo 11.º — Matrícula e inscrição
+
+1 - Os candidatos colocados deverão proceder à matrícula e inscrição nos prazos fixados no Edital, devendo nesse ato entregar o comprovativo dos pré-requisitos definidos.
+
+2 - A matrícula e inscrição no curso é sujeita ao pagamento do emolumento de matrícula e de seguro escolar, cujos valores constam da tabela de emolumentos do IUCS-CESPU e ao pagamento da propina fixada anualmente.
+
+3 - No caso de algum candidato colocado desistir expressamente da matrícula e inscrição, ou não realizar a mesma no prazo definido, poderão ser chamados à matrícula e inscrição o(s) candidato(s) não colocado(s) na lista ordenada, por ordem decrescente de classificação, até esgotar as vagas ou aqueles candidatos (incluindo os candidatos referidos no anterior art. 8.º n.º 6) ou ser aberta nova fase.
+
+4 - Havendo vagas, os estudantes não colocados por não aptidão na prova de português, poderão ser chamados à matrícula se houver condições para integrar turma com aulas ministradas em inglês ou francês durante período a definir, que lhes permita um período de adaptação e aprendizagem da língua portuguesa. Findo este período, os estudantes realizarão nova prova de domínio da língua portuguesa e, se não obtiverem aproveitamento, podem prosseguir estudos no IUCS-CESPU com a condição de aceitarem a lecionação das aulas em português.
+
+5 - Ao matricular-se em cursos com atividade clínica com intervenção em pacientes ou atendimento especializado, os estudantes de língua materna não portuguesa aceitam que a inscrição nas unidades curriculares clínicas e estágios está condicionada à aprovação em prova específica de língua portuguesa a realizar no IUCS-CESPU.
+
+###### Artigo 12.º — Erro dos serviços
+
+1 - No caso de algum candidato não ficar colocado por erro exclusivamente imputável aos serviços será transferida vaga de outro concurso/regime até ao limite máximo de admissões previsto. Ultrapassado o referido limite, será pedida vaga adicional à DGES.
+
+2 - A retificação poderá ser desencadeada por iniciativa do candidato, no âmbito do processo de reclamação ou por iniciativa da instituição, abrangendo apenas o candidato a respeito do qual o erro se verificou.
+
+###### Artigo 13.º — Dúvidas e Omissões
+
+As dúvidas e omissões resultantes da aplicação do presente regulamento serão resolvidas por despacho do Reitor.
+
+###### Artigo 14.º — Aplicação
+
+O presente regulamento aprovado pelo Conselho Científico a 12-03-2025, ouvido o Conselho Pedagógico, e depois de adaptado para integrar as alterações decorrentes do [Decreto-Lei n.º 20/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2025-911303062), de 18 de março, entra em vigor a partir do ano letivo 2025-2026, inclusive.
+
+318959878

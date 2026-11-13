@@ -1,0 +1,285 @@
+---
+schema_version: '1.0'
+id: pt:dre:944873904:por
+title: Regulamento n.º 1219/2025
+short_title: null
+summary: Regulamento do Prémio de Jornalismo em Saúde Oral da Ordem dos Médicos Dentistas.
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Ordem dos Médicos Dentistas
+proposing_entity: null
+official_number: 1219/2025
+official_date: null
+publication_date: '2025-11-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 216/2025, Série II de 2025-11-07
+  number: '216'
+  series: II
+  supplement: null
+  pages: 397 - 401
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/11/216000000/0039700401.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '944873904'
+  dre_path: /dr/detalhe/regulamento/1219-2025-944873904
+  internal: pt:dre:944873904:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1219-2025-944873904
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1219-2025-944873904
+  consolidated_url: null
+  retrieved_at: '2026-11-13T08:28:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 99b061a78887d031dbb087610e718dc049edab37140ad339582e045d210ddd58
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T08:28:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:229915929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588802:por
+  label: null
+  source: null
+article_structure:
+  article_count: 15
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T08:28:51Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 1219/2025
+
+Regulamento do Prémio de Jornalismo em Saúde Oral da Ordem dos Médicos Dentistas
+
+Preâmbulo
+
+A Ordem dos Médicos Dentistas (OMD) é uma associação pública profissional representativa dos que exercem a profissão de médico dentista. Nos termos do artigo 9.º, n.º 2, alínea f), da [Lei n.º 110/91](https://diariodarepublica.pt/dr/detalhe/lei/110-1991-404108), de 29 de agosto (na versão dada pela [Lei n.º 73/2023](https://diariodarepublica.pt/dr/detalhe/lei/73-2023-229915929), de 12 de dezembro) doravante “EOMD”, é atribuição da OMD fomentar e defender os interesses da saúde oral, definindo parâmetros da qualidade no exercício da medicina dentária, zelando pela função social, dignidade e prestígio da medicina dentária.
+
+Através do incentivo à realização de trabalhos nos meios de comunicação sobre a saúde oral, promove-se a literacia em saúde oral junto do público geral, estimula-se a prevenção no acesso aos cuidados e nas políticas de saúde oral em Portugal e ainda se contribui para a afirmação e promoção da saúde oral e da valorização da medicina dentária junto da sociedade.
+
+Esta perspetiva orienta a OMD para a canalização de novos recursos para o investimento na Medicina Dentária através do reconhecimento de trabalhos jornalísticos sobre o tema.
+
+Nos termos das alíneas a), b), d), t) do n.º 1 do artigo 59.º do EOMD, tendo sido apresentada pelo Bastonário a proposta de implementação de prémio tendo em vista as finalidades acima indicadas, o Conselho Diretivo deliberou aprovar a criação de um fundo para a atribuição do prémio em causa constituído pela despesa inscrita no orçamento anual da OMD, bem como o projeto de regulamento que estabelece os objetivos e as regras de acesso ao referido prémio, com a aprovação da designação de Prémio OMD de Jornalismo em Saúde Oral.
+
+O projeto de regulamento foi colocado, nos termos e para os efeitos do previsto no n.º 1 do artigo 4.º do EOMD, artigo 17.º da [Lei n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/lei/2-2013-588802) de 10 de janeiro e artigo 101.º do Código de Procedimento Administrativo, em consulta pública, pelo prazo de 30 dias úteis, tendo o Conselho Diretivo, após a análise dos contributos recebidos durante esse período, aprovado na reunião de 19 de setembro de 2025 a versão final do regulamento.
+
+### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Objeto
+
+O presente regulamento cria o Prémio OMD de Jornalismo em Saúde Oral, define os seus objetivos e estabelece as respetivas regras de acesso e atribuição.
+
+###### Artigo 2.º — Objetivos
+
+A atribuição do Prémio OMD de Jornalismo em Saúde Oral tem os seguintes objetivos:
+
+a) Incentivar e reconhecer a excelência do jornalismo sobre saúde oral em Portugal;
+
+b) Promover a literacia em saúde oral junto do público geral;
+
+c) Estimular a cobertura jornalística focada na prevenção, no acesso aos cuidados e nas políticas de saúde oral em Portugal;
+
+d) Estimular trabalhos jornalísticos que, pela sua qualidade e impacto, contribuam para a afirmação e promoção da saúde oral e da valorização da Medicina Dentária junto da sociedade;
+
+e) Valorizar o papel do jornalismo na disseminação de informação rigorosa, credível e eticamente responsável sobre saúde.
+
+###### Artigo 3.º — Constituição e afetação das verbas
+
+1 - O valor que integra o prémio corresponde ao valor da despesa aprovada pelo Conselho Diretivo e inscrita no orçamento anual da OMD, de dois em dois anos.
+
+2 - Caso o montante disponível para o ano da atribuição do prémio não seja totalmente despendido, poderá o Conselho Diretivo deliberar que o saldo transite para o ano seguinte.
+
+###### Artigo 4.º — Natureza
+
+O prémio atribuído é de natureza pecuniária, pessoal e intransmissível.
+
+###### Artigo 5.º — Trabalhos Elegíveis
+
+1 - Serão considerados elegíveis para a atribuição do prémio peças jornalísticas publicadas/difundidas em Portugal, nos seguintes canais:
+
+a) Imprensa escrita (jornais, revistas - formato físico ou digital);
+
+b) Online (portais de notícias, plataformas digitais de órgãos de comunicação social estabelecidos);
+
+c) Rádio;
+
+d) Televisão; e
+
+e) Multimédia (trabalhos que combinam diferentes formatos digitais de forma integrada).
+
+2 - Os trabalhos terão de ser realizados em língua portuguesa.
+
+3 - Não são considerados elegíveis trabalhos de cariz meramente promocional, publicitário, de assessoria de imprensa, artigos de opinião não fundamentados jornalisticamente ou teses académicas.
+
+### CAPÍTULO II — CONDIÇÕES DE ACESSO E ATRIBUIÇÃO DE PRÉMIO
+
+###### Artigo 6.º — Candidatos
+
+1 - Podem candidatar-se ao prémio pessoas singulares titulares de carteira profissional de jornalista válida (ou documento equiparado aceite) no momento da publicação/difusão do trabalho e da candidatura.
+
+2 - As candidaturas podem ser apresentadas em equipa, ou seja, por mais do que um candidato, devendo, porém, todos os membros da equipa cumprir os requisitos definidos no número anterior.
+
+###### Artigo 7.º — Prazo das candidaturas
+
+A fase de candidaturas ao prémio decorre, bienalmente, entre o dia 1 de janeiro e o dia 15 de fevereiro.
+
+###### Artigo 8.º — Instrução da candidatura
+
+1 - As candidaturas deverão ser submetidas eletronicamente em plataforma a disponibilizar pela OMD.
+
+2 - As candidaturas devem ser instruídas com os seguintes elementos:
+
+a) Dados de identificação do(s) candidato(s): nome(s) completo(s), email, contacto telefónico, órgão de comunicação social onde desempenha funções (se aplicável);
+
+b) Dados do trabalho: título, data de publicação/difusão, meio de publicação/difusão;
+
+c) Sinopse: breve resumo (máximo 300 palavras) do trabalho e sua pertinência;
+
+d) Acesso ao trabalho: disponibilização de link ou upload do trabalho, no formato e com os limites especificados na plataforma;
+
+e) Carteira profissional: cópia digitalizada legível do documento do(s) candidato(s);
+
+f) Declaração de compromisso de honra confirmando a autoria, originalidade do trabalho e a genuinidade dos documentos submetidos, bem como a aceitação dos termos do regulamento e autorização de divulgação e uso do trabalho pela OMD (sem fins comerciais) em caso de atribuição de prémio.
+
+3 - As candidaturas que não sejam devidamente instruídas ou submetidas fora de prazo serão objeto de rejeição liminar pelos serviços administrativos da OMD.
+
+###### Artigo 9.º — Júri
+
+1 - A avaliação das candidaturas será realizada por um júri composto por 5 (cinco) membros, designados pelo conselho diretivo da OMD, com os seguintes perfis:
+
+a) Jornalistas com experiência superior a 10 anos em diferentes áreas da comunicação social;
+
+b) Académicos e/ou médicos dentistas;
+
+c) Personalidade da área da comunicação ou da sociedade civil com ligação à saúde.
+
+2 - De entre os membros do júri, um deverá ser designado presidente.
+
+3 - Ao júri compete:
+
+a) Analisar as candidaturas apresentadas;
+
+b) Verificar o cumprimento dos critérios de elegibilidade dos candidatos e trabalhos;
+
+c) Avalia as candidaturas que cumpram com os critérios de elegibilidade previstos no presente regulamento;
+
+d) Classificar as candidaturas de acordo com os critérios definidos no artigo 10.º;
+
+e) Atribuir o prémio a uma ou mais candidaturas.
+
+4 - O júri poderá solicitar ao(s) candidato(s) informações e documentos complementares que se afigurem relevantes para avaliar o trabalho objeto da candidatura, os quais deverão ser apresentados no prazo de 5 (cinco) dias úteis, sob pena de, não o sendo obstarem à avaliação da candidatura respetiva.
+
+5 - O presidente do júri convoca as reuniões para a avaliação dos trabalhos.
+
+6 - As reuniões poderão decorrer presencialmente ou por meios telemáticos.
+
+7 - Os membros do júri não podem estar envolvidos direta ou indiretamente na avaliação dos trabalhos a concurso, devendo informar o conselho diretivo de qualquer envolvimento, incompatibilidade ou conflito de interesses, tendo em vista a sua substituição.
+
+8 - As decisões do júri são finais e definitivas, não existindo possibilidade de recurso sobre as mesmas.
+
+###### Artigo 10.º — Critérios de Avaliação
+
+1 - Os trabalhos deverão ser avaliados de acordo com os seguintes critérios:
+
+a) Rigor informativo, correção científica e apuro na pesquisa de dados;
+
+b) Relevância do tema abordado e interesse público;
+
+c) Originalidade da abordagem, profundidade e investigação própria;
+
+d) Qualidade da escrita (imprensa/online) ou da produção e narrativa audiovisual (rádio/TV/multimédia);
+
+e) Impacto potencial ou demonstrado na sensibilização pública, no debate informado ou na promoção de boas práticas em saúde oral;
+
+f) Cumprimento dos princípios éticos e deontológicos do jornalismo.
+
+2 - A avaliação de candidaturas rege-se pelo somatório dos pontos atribuídos aos critérios abaixo elencados e valorizados da seguinte forma:
+
+| Critério de Avaliação | Pontuação Máxima |
+| --- | --- |
+| 1. Rigor informativo, correção científica e apuro na pesquisa de dados | 25 |
+| 2. Impacto potencial ou demonstrado na sensibilização pública, no debate informado ou na promoção de boas práticas em saúde oral | 23 |
+| 3. Originalidade da abordagem, profundidade e investigação própria | 14 |
+| 4. Relevância do tema abordado e interesse público | 14 |
+| 5. Qualidade da escrita (imprensa/online) ou da produção e narrativa audiovisual (rádio/TV/multimédia) | 14 |
+| 6. Cumprimento dos princípios éticos e deontológicos do jornalismo | 10 |
+| Total | 100 |
+
+###### Artigo 11.º — Prémio
+
+1 - O prémio a atribuir poderá ser único ou atribuído a mais do que uma candidatura.
+
+2 - Haverá, ainda, a possibilidade de atribuição de menções honrosas (não pecuniárias) por deliberação do júri.
+
+3 - No caso de o trabalho galardoado ser apresentado em equipa, o valor do prémio atribuído será entregue em partes iguais a cada um dos membros.
+
+4 - O prémio será disponibilizado ao(s) beneficiário(s) mediante solicitação deste(s), por transferência bancária, para a conta bancária titulada pelo próprio a ser indicada para o efeito, e após a emissão do documento contabilístico aplicável, ficando o valor sujeito às retenções legais (se aplicável).
+
+###### Artigo 12.º — Divulgação
+
+A atribuição do prémio será divulgada em cerimónia, podendo ser publicado no sítio eletrónico da OMD a informação quanto aos prémios atribuídos.
+
+### CAPÍTULO III — DISPOSIÇÕES FINAIS
+
+###### Artigo 13.º — Disposições Transitórias
+
+A primeira atribuição do prémio deverá ocorrer no ano de 2026, sendo considerados para essa edição, os trabalhos publicados ou transmitidos entre 1 de janeiro de 2023 e 31 de dezembro de 2025.
+
+###### Artigo 14.º — Interpretação e lacunas
+
+As dúvidas de interpretação e os casos omissos do presente regulamento são resolvidos pelo conselho diretivo da OMD.
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação.
+
+19 de setembro de 2025. - O Bastonário e Presidente do Conselho Diretivo da Ordem dos Médicos Dentistas, Miguel Pavão.
+
+319705213
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(53,104,84); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(53,104,84); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:17px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl10 { min-height:27px; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(246,248,249); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(246,248,249); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

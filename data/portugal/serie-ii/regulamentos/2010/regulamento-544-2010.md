@@ -1,0 +1,1869 @@
+---
+schema_version: '1.0'
+id: pt:dre:3620825:por
+title: Regulamento n.º 544/2010
+short_title: null
+summary: Alteração ao Regulamento de Operações Urbanísticas do Município de Leiria
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Leiria
+proposing_entity: null
+official_number: 544/2010
+official_date: null
+publication_date: '2010-06-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 117/2010, Série II de 2010-06-18
+  number: '117'
+  series: II
+  supplement: null
+  pages: 33497 - 33518
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/06/117000000/3349733518.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3620825'
+  dre_path: /dr/detalhe/regulamento/544-2010-3620825
+  internal: pt:dre:3620825:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/544-2010-3620825
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/544-2010-3620825
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:40:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 553fd996170ec2b3bf603c3f2a60cb18912d4a9ea294cf72dd92a4dc774227a0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:40:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:241183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689635:por
+  label: null
+  source: null
+article_structure:
+  article_count: 118
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:40:06Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 544/2010
+
+Proposta de alteração ao Regulamento de Operações Urbanísticas do Município de Leiria
+
+Preâmbulo
+
+Considerando o Regulamento de Operações Urbanísticas do Município de Leiria, publicado na 2.ª série do Diário da República, n.º 173, de 07 de Setembro de 2009;
+
+Considerando o Regime Jurídico da Urbanização e da Edificação estabelecido pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, e alterado pela [Lei n.º 13/2000](https://diariodarepublica.pt/dr/detalhe/lei/13-2000-321281), de 20 de Julho, pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Junho, pelas Leis n.os [15/2002](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), de 22 de Fevereiro, e [4-A/2003](https://diariodarepublica.pt/dr/detalhe/lei/4-a-2003-476347), de 19 de Fevereiro, pelo [Decreto-Lei n.º 157/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2006-538614), de 08 de Agosto, e pela [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 04 de Setembro, designado, para efeitos da presente alteração ao Regulamento, como RJUE;
+
+Considerando que a [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro, veio, por um lado, introduzir alterações ao RJUE que importam, no essencial, a simplificação e desburocratização dos procedimentos de controlo prévio, por contrapartida de um acréscimo da responsabilidade dos particulares, em especial dos técnicos subscritores dos projectos e responsáveis técnicos pela direcção da obra; e, por outro lado, atribuir aos municípios um papel fundamental na regulamentação de matérias;
+
+Foram introduzidas alterações aos artigos 2.º, 5.º, 8.º-A, 16.º, 22.º, 23.º, 31.º, 33.º e 103.º, e a adição do artigo 40.º-A, as quais, contemplam, normas anteriormente constantes do Regulamento de Operações Urbanísticas do Município de Leiria, publicado na 2.ª série do Diário da República, n.º 173, de 07 de Setembro de 2009, actualmente em vigor.
+
+Considerando que a elaboração de regulamentos municipais de execução do regime consagrado no RJUE se encontra prevista no preceituado no seu artigo 3.º, a Câmara Municipal de Leiria nos termos do disposto no n.º 7 do artigo 112.º e no artigo 241.º ambos da Constituição da República Portuguesa, e da alínea a) do n.º 7 do artigo 64.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, elabora este projecto de alteração ao regulamento, o qual irá ser objecto de audiência e apreciação públicas, ao abrigo do disposto no artigo 118.º do Código do Procedimento Administrativo, por um período de 30 dias, a contar da data da sua publicação no Diário da República;
+
+O presente projecto de alteração ao regulamento, será presente à Assembleia Municipal de Leiria, para efeitos de aprovação, no âmbito das suas competências em matéria regulamentar, ao abrigo do disposto na alínea a) do n.º 2 do artigo 53.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Âmbito de aplicação
+
+A presente alteração ao Regulamento estabelece as disposições normativas aplicáveis, na área do Concelho de Leiria, às operações de urbanização e de edificação previstas no RJUE, e a outros procedimentos, aos quais seja aplicável também, nos termos da respectiva legislação, o RJUE.
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos de aplicação do disposto no RJUE e no presente Regulamento, entende-se por:
+
+a) Acabamentos - todos os trabalhos posteriores à execução das obras de estrutura resistente e de alvenaria das edificações e no caso de obras de urbanização quando falte executar as pavimentações dos passeios;
+
+b) Alterações ao projecto durante a execução da obra - as alterações realizadas antes de estarem reunidos os requisitos legais e regulamentares para a apresentação do pedido de autorização de utilização ou de recepção provisória das obras de urbanização;
+
+c) Anexo - edificação autónoma a uma edificação principal, implantada no mesmo lote ou na mesma parcela da edificação principal, destinada a complementar o uso dado a esta edificação, não podendo constituir uma unidade ocupacional fraccionável ainda que tenha uma entrada autónoma e saída directa para a via pública;
+
+d) Área predominante da parcela a destacar, para efeitos do disposto no n.º 4 do artigo 20.º do presente Regulamento - área da parcela a destacar que tenha mais de 50 % da área total da parcela;
+
+e) Empreiteiro - pessoa singular ou colectiva a quem o titular da operação urbanística tenha adjudicado a execução das obras ou dos trabalhos, quer seja "empreiteiro", "construtor", "empreiteiro geral" ou "construtor geral" nos termos do disposto nas alíneas b) e f) do artigo 3.º do [Decreto-Lei n.º 12/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2004-241183), de 9 de Janeiro;
+
+f) Espaço público - locais integrados no domínio público do Município de Leiria, afectos ao uso comum e à satisfação de necessidades colectivas e nos quais o uso privativo é permitido apenas mediante licença ou concessão, designadamente praças, jardins, ruas e outras vias de circulação sob jurisdição municipal, bem como locais sobre os quais incidam servidões administrativas ou restrições de utilidade pública de que o Município seja titular;
+
+g) Infra-estruturas locais - as que se inserem dentro da área de intervenção da operação urbanística e decorrem directamente desta;
+
+h) Infra-estruturas gerais - as que, tendo um carácter estruturante ou estando previstas num plano municipal de ordenamento do território, fiquem fora da área de intervenção da operação urbanística;
+
+i) Intervenientes na operação urbanística - o titular da operação urbanística, os técnicos responsáveis pela autoria dos projectos, o director técnico da obra e o empreiteiro;
+
+j) Logradouro - área do prédio correspondente à diferença entre a sua área total e a área de implantação da construção principal e dos respectivos anexos;
+
+k) Lote - parcela de terreno destinada à edificação resultante de uma operação de loteamento;
+
+l) Parcela - descrição genérica de prédio com descrição cadastral própria a que correspondam inscrições predial e matricial, respectivamente, na conservatória do registo predial e na repartição de finanças; sempre que uma parcela tenha resultado de uma operação de loteamento será designada apenas por lote;
+
+m) Pedido devidamente instruído - o pedido formulado em requerimento apresentado com todos os elementos e acompanhado de todos os documentos exigidos nos termos das normas legais e regulamentares aplicáveis, ainda que após solicitação de tais elementos e documentos ao requerente ao abrigo do disposto no n.º 3 do artigo 11.º do RJUE e no n.º 2 do artigo 13.º do presente Regulamento;
+
+n) Perímetro urbano (para efeitos do disposto no artigo 20.º do presente Regulamento) - linha de delimitação das áreas abrangidas pelos espaços urbanos, urbanizáveis e industriais como tal definidos pelo Plano Director Municipal quanto às classes de uso do solo;
+
+o) Permissão de execução de trabalhos de demolição ou de escavação e contenção periférica - acto administrativo pelo qual se concede o direito de executar trabalhos de demolição ou de escavação e contenção periférica ao abrigo do regime previsto no artigo 81.º do RJUE;
+
+p) Sala de condomínio - espaço dos edifícios sujeitos ao regime da propriedade horizontal destinado à realização das reuniões da assembleia de condóminos, bem como à gestão corrente e à manutenção das partes comuns;
+
+q) Titular da operação urbanística - a pessoa singular ou a pessoa colectiva de direito público ou privado que promove, com a legitimidade legalmente exigida, a operação urbanística e o procedimento de controlo prévio a que a mesma está sujeita e em nome da qual é organizado o processo administrativo relativo àquele procedimento e emitidos os alvarás a que haja lugar, sendo também designado por requerente naquele processo;
+
+r) Unidade de utilização - edifício ou parte deste funcionalmente autónoma e com saída para parte comum, logradouro ou via pública, que não constitua um anexo;
+
+s) Área de construção para efeitos de aplicação das taxas previstas no Regulamento e Tabela de Taxas do Município de Leiria - soma das superfícies de todos os pisos situados acima ou abaixo da cota de soleira, medida pelo extradorso das paredes exteriores, incluindo anexos, telheiros, alpendres, varandas e sótãos com aproveitamento. Excluem-se deste âmbito, apenas para efeito do cálculo da taxa por realização, reforço e manutenção de infra-estruturas urbanísticas, as áreas em cave destinadas a estacionamentos ou arrumos, terraços, alpendres, varandas e sótãos sem pé direito regulamentar;
+
+t) Estado avançado de execução - considera-se, para os efeitos do previsto no artigo 88.º do RJUE, aquelas que, no caso de edificações, tenham a estrutura de betão armado concluída e alvenarias, e no caso das obras de urbanização, só faltarem as pavimentações.
+
+2 - Para efeitos da interpretação e aplicação do presente Regulamento são igualmente válidas as definições constantes dos instrumentos de gestão urbanística, nomeadamente dos planos municipais de ordenamento do território (PMOT), em vigor na área do Concelho de Leiria, mas têm prevalência as definições constantes do presente Regulamento, quando as mesmas não sejam inteiramente coincidentes as definições constantes de um PMOT.
+
+###### Artigo 3.º — Princípio da decisão
+
+1 - Nos termos do disposto no artigo 9.º do Código do Procedimento Administrativo, a Câmara Municipal de Leiria ou o seu Presidente devem pronunciar-se sobre todos os assuntos da sua competência que lhes sejam apresentados pelos interessados no âmbito de aplicação do presente Regulamento, salvo nas situações previstas no número seguinte.
+
+2 - Sempre que a Câmara Municipal de Leiria ou o seu Presidente estejam legalmente dispensados do dever de decisão ao abrigo do disposto no n.º 2 do artigo 9.º do Código do Procedimento Administrativo, os requerimentos apresentados serão objecto de rejeição liminar.
+
+###### Artigo 4.º — Delegação de competências
+
+1 - A Câmara Municipal de Leiria pode delegar no seu Presidente, com faculdade de subdelegação nos vereadores ou nos dirigentes dos serviços municipais, as competências que lhe estão atribuídas pelo disposto no n.º 1 do artigo 69.º, no artigo 70.º e no n.º 7 do artigo 83.º todos do presente Regulamento.
+
+2 - Sempre que a competência para concessão da licença de ocupação do espaço público a que se refere o n.º 1 do artigo 69.º do presente Regulamento tenha sido objecto de delegação ao abrigo do disposto no número anterior, a Câmara Municipal de Leiria pode igualmente delegar no seu Presidente, com faculdade de subdelegação nos vereadores, as competências que lhe estão atribuídas pelo disposto nos n.os 3, 4, 5 e 7 do artigo 69.º, nos n.os 1 e 2 do artigo 81.º, nos n.os 2 e 3 do artigo 74.º, no n.º 2 do artigo 83.º e no n.º 4 do artigo 84.º todos do mesmo Regulamento.
+
+3 - Sempre que a competência para concessão da licença a que se refere o n.º 2 do artigo 4.º RJUE tenha sido objecto de delegação ao abrigo do disposto no n.º 1 do artigo 5.º do mesmo diploma legal, a Câmara Municipal de Leiria pode igualmente delegar no seu Presidente, com faculdade de subdelegação nos vereadores, as competências que lhe estão atribuídas pelo disposto nos n.os 1 e 2 do artigo 45.º, no artigo 52.º, no n.º 2 do artigo 54.º, no n.º 2 do artigo 55.º, no n.º 2 do artigo 58.º, no n.º 2 do artigo 59.º, nos n.os 2 e 5 do artigo 87.º, no n.º 3 do artigo 88.º e no n.º 1 do artigo 89.º todos do presente Regulamento.
+
+4 - O Presidente da Câmara Municipal de Leiria pode delegar nos vereadores, com faculdade de subdelegação nos dirigentes dos serviços municipais, as competências que lhe estão atribuídas pelo disposto no n.º 5 do artigo 13.º, no n.º 2 do artigo 69.º, no artigo 70.º e no n.º 7 do artigo 83.º todos do presente Regulamento.
+
+5 - Sempre que a competência para concessão da licença de ocupação do espaço público tenha sido objecto de delegação ao abrigo do disposto no n.º 2 do artigo 69.º do presente Regulamento, o Presidente da Câmara Municipal de Leiria pode igualmente delegar nos vereadores, com faculdade de subdelegação nos dirigentes dos serviços municipais, as competências que lhe estão atribuídas pelo disposto no n.º 2 do artigo 66.º, nos n.os 3 a 7 do artigo 69.º, n.os 2 e 3 do artigo 74.º, no n.º 1 do artigo 76.º, no n.º 1 do artigo 78.º, nos n.os 1 e 2 do artigo 81.º, no n.º 2 do artigo 83.º, no n.º 4 do artigo 84.º e no n.º 1 do artigo 86.º todos do mesmo Regulamento.
+
+6 - Sempre que a competência para a direcção da instrução do procedimento tenha sido objecto de delegação ao abrigo do disposto no n.º 2 do artigo 8.º RJUE, o Presidente da Câmara Municipal de Leiria pode igualmente delegar nos vereadores, com faculdade de subdelegação nos dirigentes dos serviços municipais, as competências que lhe estão atribuídas pelo disposto nos n.os 4 e 5 do artigo 13.º, no n.º 6 do artigo 29.º, no n.º 2 do artigo 33.º e no n.º 5 do artigo 35.º todos do presente Regulamento.
+
+### CAPÍTULO II — Procedimentos de controlo prévio e situações especiais
+
+#### SECÇÃO I — Dos procedimentos de controlo prévio
+
+###### Artigo 5.º — Procedimento de licenciamento
+
+1 - O procedimento de licenciamento rege-se pelo disposto no RJUE e pelos diplomas legais que o regulamentam, bem como pelas disposições aplicáveis do presente Regulamento, com as especificidades constantes deste artigo.
+
+2 - Para efeitos do disposto no n.º 5 do artigo 20.º do RJUE, o período da prorrogação do prazo para apresentar os projectos de engenharia das especialidades é fixado em um, dois ou três meses.
+
+3 - O procedimento de licenciamento iniciado ao abrigo do disposto no artigo 72.º do RJUE dá lugar à organização de um processo administrativo próprio e distinto daquele no âmbito do qual foi concedida a licença caducada, sem prejuízo do disposto no n.º 2 do mesmo artigo 72.º
+
+4 - Para efeitos do disposto no n.º 2 do artigo 76.º do RJUE, o prazo para requerer a emissão do alvará de licença pode ser prorrogado por período não superior a dois anos.
+
+###### Artigo 6.º — Procedimento de comunicação prévia
+
+1 - O procedimento de comunicação prévia rege-se pelo disposto no RJUE e pelos diplomas legais que o regulamentam, bem como pelas disposições aplicáveis do presente Regulamento, com as especificidades constantes deste artigo.
+
+2 - Sem prejuízo do disposto no artigo 37.º do RJUE e nos procedimentos especiais que exijam consulta externa, ficam sujeitos ao procedimento de comunicação prévia as obras previstas na alíneas c) a h) do n.º 1 do artigo 6.º do mesmo diploma legal.
+
+3 - Ficam igualmente sujeitas ao procedimento de comunicação prévia as operações urbanísticas que tenham sido antecedidas de informação prévia favorável emitida na sequência de pedido apresentado nos termos do n.º 2 do artigo 14.º do RJUE.
+
+4 - O procedimento de comunicação prévia iniciado ao abrigo do disposto no artigo 72.º do RJUE dá lugar à organização de um processo administrativo próprio e distinto daquele no âmbito do qual foi admitida a comunicação prévia caducada, sem prejuízo do disposto no n.º 2 do mesmo artigo 72.º
+
+5 - Para efeitos do disposto no artigo 36.º-A do RJUE, decorrido o prazo previsto no artigo 36.º do mesmo diploma legal e não havendo lugar à rejeição da comunicação prévia, o acto administrativo de admissão da comunicação prévia é exarado em documento escrito a emitir após o pagamento da taxa devida pela realização da operação urbanística e do qual constam os seguintes elementos:
+
+a) A identificação da operação urbanística com referência ao tipo, à localização e aos seus elementos constitutivos;
+
+b) Os condicionalismos legais e regulamentares a respeitar pelo titular da operação urbanística;
+
+c) O montante da taxa paga pela realização da operação urbanística;
+
+d) O prazo de validade da comunicação prévia e os motivos da respectiva caducidade.
+
+6 - A comunicação prévia é titulada pelos documentos indicados no n.º 2 do artigo 74.º do RJUE, bem como pelo documento referido no número anterior, os quais devem ser guardados no local de realização da operação urbanística durante a execução da mesma.
+
+###### Artigo 7.º — Procedimento de autorização de utilização
+
+1 - O procedimento de autorização rege-se pelo disposto no RJUE e pelos diplomas legais que o regulamentam, bem como pelas disposições aplicáveis do presente Regulamento.
+
+2 - Para efeitos do disposto no n.º 2 do artigo 76.º do RJUE, o prazo para requerer a emissão do alvará de autorização de utilização pode ser prorrogado por período não superior a dois anos.
+
+###### Artigo 8.º — Consulta às Juntas de Freguesia
+
+1 - Para efeitos do disposto nos artigos 13.º e 15.º do RJUE e na alínea e) do n.º 3 do artigo 34.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, e sempre que tal se mostre necessário para a apreciação e decisão do pedido de informação prévia ou de licenciamento, deve ser consultada a Junta de Freguesia da área de localização da operação urbanística para que se pronuncie quanto a tal pedido.
+
+2 - A Junta de Freguesia é responsável pelo teor do parecer que proferir na sequência da consulta que lhe for dirigida ao abrigo do disposto no número anterior.
+
+###### Artigo 8.º-A — Consultas internas
+
+1 - As operações urbanísticas referentes a loteamentos e obras de urbanização, e sempre, que se justifique, as com impacte semelhante a operação de loteamento ou com impacte urbanístico relevante, devem ser precedidas de informações do Departamento de Obras Municipais e das Divisões de Ambiente e Serviços Urbanos e de Parques e Espaços Verdes.
+
+2 - A informação a pelos Serviços mencionados no número anterior deve ser proferida no âmbito das respectivas competências e designadamente para efeitos do disposto nos n.os 2, 4 e 5 do artigo 24.º do RJUE.
+
+###### Artigo 8.º-B — Licença parcial para construção da estrutura
+
+1 - Para efeitos do disposto no n.º 6 do artigo 23.º do RJUE, a Câmara Municipal de Leiria fixa, com o deferimento do pedido de licença parcial para construção da estrutura, os condicionamentos ao licenciamento, o prazo para a conclusão das obras e o montante da caução a prestar pelo titular da operação urbanística.
+
+2 - O prazo fixado para a conclusão das obras corresponde ao prazo de validade da licença parcial para construção da estrutura.
+
+3 - Nos casos de impossibilidade de conclusão das obras dentro do prazo referido no número anterior pode o mesmo ser prorrogado, mediante despacho do Presidente da Câmara Municipal de Leiria, por uma única vez e por período não superior a metade do prazo inicial, na sequência de requerimento fundamentado a apresentar pelo titular da operação urbanística nos termos do disposto nos artigos 9.º e 13.º do presente Regulamento.
+
+4 - A prorrogação do prazo da licença parcial para construção da estrutura é averbada oficiosamente no alvará em vigor.
+
+5 - O acto de deferimento do pedido de licença parcial para construção da estrutura é titulado por alvará e caduca se a emissão do mesmo não for requerida no prazo de 90 dias a contar da respectiva notificação.
+
+6 - A emissão do alvará é condição de eficácia da licença parcial para construção da estrutura e depende da prestação da caução prevista no n.º 6 do artigo 23.º do RJUE, bem como do pagamento das taxas devidas nos termos do Regulamento para a Cobrança de Taxas em vigor no Concelho de Leiria.
+
+7 - Para efeitos do disposto no n.º 7 do artigo 23.º do RJUE, o alvará de licença parcial para construção da estrutura é emitido pelo Presidente da Câmara Municipal de Leiria e deve conter a especificação dos seguintes elementos:
+
+a) A identificação do titular da licença;
+
+b) A identificação do lote ou da parcela onde se realizam as obras;
+
+c) A identificação do acto administrativo de concessão da licença das obras de construção da estrutura, com referência aos respectivos autor e data;
+
+d) O enquadramento das obras em operação de loteamento e no plano municipal e ou especial de ordenamento do território em vigor;
+
+e) A área total de construção, a volumetria do edifício, o número de pisos acima e abaixo da cota de soleira, a cércea, o número de fogos e o uso a que se destina a edificação;
+
+f) Os condicionamentos ao licenciamento;
+
+g) O prazo para a conclusão das obras;
+
+h) O montante da caução prestada e a identificação do respectivo título.
+
+###### Artigo 8.º-C — Permissão de execução de trabalhos de demolição ou de escavação e contenção periférica
+
+1 - Para efeitos do disposto no artigo 81.º do RJUE, do acto de permissão de execução dos trabalhos de demolição ou de escavação e contenção periférica deve constar:
+
+a) O regime legal ao abrigo do qual foi proferido, em concreto o regime previsto no n.º 1 ou o regime previsto no n.º 2 do artigo 81.º do RJUE;
+
+b) A identificação do acto administrativo de aprovação da informação prévia favorável ou do projecto de arquitectura, conforme se trate de situações previstas, respectivamente, no n.º 1 ou no n.º 2 do artigo 81.º do RJUE, com referência aos respectivos autor e data;
+
+c) O prazo fixado para a conclusão dos trabalhos de demolição ou de escavação e contenção periférica;
+
+d) O montante da caução a prestar pelo titular da operação urbanística.
+
+2 - O acto de permissão de execução de trabalhos de demolição ou de escavação e contenção periférica é titulado por alvará e caduca se a emissão do mesmo não for requerida no prazo de 90 dias a contar da respectiva notificação.
+
+3 - A emissão do alvará é condição de eficácia da permissão de execução de trabalhos de demolição ou de escavação e contenção periférica e depende da prestação da caução prevista no n.º 1 do artigo 81.º do RJUE, bem como do pagamento das taxas devidas nos termos do Regulamento para a Cobrança de Taxas em vigor no Concelho de Leiria.
+
+4 - O alvará de permissão de execução de trabalhos de demolição ou de escavação e contenção periférica é emitido oficiosamente pelo Presidente da Câmara Municipal de Leiria, no prazo de 30 dias a contar da data do despacho que deferir o pedido daquela permissão, e deve conter a especificação dos seguintes elementos:
+
+a) A identificação do titular da permissão;
+
+b) A identificação do lote ou da parcela onde se realizam os trabalhos de demolição ou de escavação e contenção periférica;
+
+c) A identificação do processo administrativo relativo à operação urbanística, com referência aos respectivos número e titular;
+
+d) A identificação do acto administrativo de concessão da permissão de execução dos trabalhos de demolição ou de escavação e contenção periférica, com referência aos respectivos autor e data;
+
+e) O prazo para a conclusão dos trabalhos;
+
+f) O montante da caução prestada e a identificação do respectivo título.
+
+5 - O prazo fixado para a conclusão dos trabalhos de demolição ou de escavação e contenção periférica corresponde ao prazo de validade da permissão de execução de trabalhos de demolição ou de escavação e contenção periférica.
+
+6 - Nos casos de impossibilidade de conclusão dos trabalhos dentro do prazo referido no número anterior pode o mesmo ser prorrogado, mediante despacho do Presidente da Câmara Municipal de Leiria, por uma única vez e por período não superior a metade do prazo inicial, na sequência de requerimento fundamentado a apresentar pelo titular da operação urbanística nos termos do disposto nos artigo 9.º e 13.º do presente Regulamento.
+
+7 - A prorrogação do prazo da permissão de execução de trabalhos de demolição ou de escavação e contenção periférica é averbada oficiosamente no alvará em vigor.
+
+8 - Para efeitos do disposto no n.º 5 do artigo 81.º do RJUE, a notificação aí referida deve conter o teor integral do acto de permissão de execução de trabalhos de demolição ou de escavação e contenção periférica e ser acompanhada do alvará que o titula.
+
+###### Artigo 8.º-D — Licença especial ou comunicação prévia para conclusão de obras inacabadas
+
+1 - Para efeitos do disposto no artigo 88.º do RJUE, a Câmara Municipal de Leiria, ou o seu Presidente, fixa, com o deferimento do pedido de licença especial para conclusão de obras inacabadas ou com a admissão da comunicação prévia para o mesmo efeito, os condicionamentos ao licenciamento ou àquela admissão, o prazo para a conclusão das obras e, se tal for exigido nos termos daquele diploma legal, o montante da caução a prestar pelo titular da operação urbanística.
+
+2 - O deferimento do pedido de licença especial para conclusão de obras inacabadas dá lugar à emissão de novo alvará de licença, o qual deve conter a especificação dos elementos previstos no n.º 1 ou no n.º 4 do artigo 77.º do RJUE, em conformidade com o tipo de operação urbanística.
+
+3 - A admissão da comunicação prévia para a conclusão de obras inacabadas dá lugar à emissão de nova documentação para titular o respectivo acto administrativo, nos termos e com o conteúdo do disposto nos n.os 5 e 6 do artigo 6.º do presente Regulamento.
+
+###### Artigo 8.º-E — Títulos das operações urbanísticas
+
+1 - Sem prejuízo do disposto no RJUE e nos artigos anteriores do presente Regulamento, são igualmente aplicáveis aos títulos das operações urbanísticas as disposições constantes dos números seguintes.
+
+2 - Para efeitos do disposto no artigo 79.º do RJUE, a cassação dos títulos das operações urbanísticas rege-se pelo disposto nessa disposição legal com as especificidades constantes das alíneas seguintes:
+
+a) As situações que, nos termos do disposto no n.º 1 do mesmo artigo 79.º, fundamentam a cassação são de conhecimento oficioso;
+
+b) O titular da operação urbanística cujo título tenha sido cassado deve entregá-lo nos serviços do Departamento de Operações Urbanísticas no prazo de 5 dias a contar da notificação para o efeito, sob pena de a Câmara Municipal de Leiria determinar a entrega do título com a cominação da prática do crime de desobediência previsto e punido no artigo 348.º do Código Penal, sem prejuízo do disposto no artigo 100.º do presente Regulamento;
+
+c) Sem prejuízo do disposto na alínea seguinte, aquando da entrega do título cassado é lavrado, em duplicado, um auto de apreensão, devendo um dos exemplares ser junto ao processo de licenciamento, de autorização ou de comunicação prévia e outro remetido ao titular da operação urbanística;
+
+d) No caso de cassação de alvará de licença de operação de loteamento, o auto de apreensão é lavrado em triplicado, devendo um dos exemplares ser junto ao processo de licenciamento, outro remetido ao titular da operação urbanística e outro à conservatória do registo predial juntamente com a comunicação a que se refere o n.º 2 daquele artigo 79.º
+
+3 - No acto de entrega dos títulos das operações urbanísticas, os serviços do Departamento de Operações Urbanísticas devem reproduzir por fotocópia, para junção ao respectivo processo administrativo, o original do certificado de classificação de empreiteiro de obras públicas, do título de registo na actividade ou do certificado de classificação de industrial de construção civil que, conforme os casos, lhes seja exibido nos termos do disposto na [Portaria n.º 216-E/2008](https://diariodarepublica.pt/dr/detalhe/portaria/216-e-2008-243890).
+
+4 - Nos casos em que esteja prevista no RJUE e no presente Regulamento, a emissão de aditamento ao título da operação urbanística depende de requerimento a apresentar pelo respectivo titular nos termos do disposto nos artigos 9.º e 13.º do mesmo Regulamento.
+
+5 - A emissão do aditamento ao título da operação urbanística está dependente do pagamento das taxas devidas nos termos do Regulamento para a Cobrança de Taxas em vigor no Concelho de Leiria e, se for esse o caso, da prestação das cauções a que haja lugar nos termos do RJUE e do presente Regulamento.
+
+6 - Os aditamentos aos títulos das operações urbanísticas são emitidos pelo Presidente da Câmara Municipal de Leiria, no prazo de 30 dias a contar da data da apresentação do pedido devidamente instruído.
+
+7 - O pedido de emissão de aditamento ao título da operação urbanística só pode ser indeferido com fundamento numa das seguintes situações:
+
+a) Caducidade, suspensão, revogação, anulação ou declaração de nulidade do acto de licenciamento, autorização ou admissão da comunicação prévia;
+
+b) Falta de pagamento das taxas referidas no n.º 5 do presente artigo;
+
+c) Falta de prestação das cauções referidas no n.º 5 do presente artigo.
+
+8 - Os aditamentos aos títulos das operações urbanísticas devem conter a especificação dos elementos previstos, consoante os casos, nos n.os 1, 4 ou 5 e 6 do artigo 77.º do RJUE ou no n.º 5 do artigo 6.º do presente Regulamento, feita por referência à fase de execução da obra ou, se for esse o caso, em conformidade com a alteração aos termos e condições da licença, da autorização ou da comunicação prévia.
+
+#### SECÇÃO II — Da formalização e instrução do pedido ou da comunicação prévia
+
+###### Artigo 9.º — Formalização do pedido ou da comunicação prévia
+
+1 - Os procedimentos relativos à realização de operações urbanísticas formulados no âmbito do presente Regulamento iniciam-se através de requerimento ou comunicação escritos dirigidos ao Presidente da Câmara Municipal de Leiria, com recurso a meios electrónicos e através de sistema informático previsto no artigo 8.º-A do RJUE.
+
+2 - Sem prejuízo do disposto na lei geral, no artigo 9.º RJUE e nas disposições aplicáveis nos termos do presente Regulamento, do requerimento ou da comunicação deve constar:
+
+a) A identificação completa do requerente ou apresentante da comunicação prévia;
+
+b) A indicação da titularidade da posição jurídica que confere legitimidade procedimental ao requerente ou apresentante da comunicação prévia;
+
+c) A indicação do pedido em termos claros e precisos, com referência expressa às disposições legais e ou regulamentares ao abrigo do qual é formulado;
+
+d) Os restantes elementos exigíveis em função das normas legais e regulamentares aplicáveis.
+
+3 - Os pedidos ou comunicações apresentados ao abrigo do disposto no número anterior devem ser acompanhados dos respectivos elementos instrutórios, de acordo com as normas legais e regulamentares aplicáveis.
+
+4 - Nas situações de inexistência ou indisponibilidade do sistema informático a que se refere o artigo 8.º-A do RJUE, os pedidos, comunicações e seus elementos instrutórios devem, sem prejuízo da tramitação em papel, ser entregues também em suporte informático a apresentar de acordo com as indicações constantes de avisos devidamente publicitados pelos serviços do Departamento de Operações Urbanísticas.
+
+###### Artigo 10.º — Elementos instrutórios do pedido ou da comunicação prévia
+
+1 - No caso de tramitação informática do procedimento, os elementos instrutórios do pedido ou da comunicação prévia devem ser apresentados em formato a definir aquando da implementação do sistema informático a que se refere o artigo 8.º-A do RJUE.
+
+2 - O requerente ou apresentante da comunicação prévia deve ordenar e numerar sequencialmente o requerimento ou comunicação e respectivos elementos instrutórios, bem como incluir um índice que refira o número de páginas e de documentos apresentados.
+
+3 - Na apresentação da documentação instrutória, o requerente ou apresentante da comunicação prévia deve dar cumprimento às determinações constantes dos formulários de execução do presente Regulamento aprovados por deliberação da Câmara Municipal de Leiria e constantes dos modelos-tipo e respectivos anexos disponíveis para consulta e utilização, designadamente quanto ao número de conjuntos de elementos instrutórios a entregar com vista à consulta a entidades externas, salvo se, juntamente com aqueles elementos, forem entregues os pareceres emitidos por tais entidades.
+
+###### Artigo 11.º — Normas de apresentação do projecto
+
+1 - As peças escritas, incluindo quadros, devem ser apresentadas em papel de formato A4, com margem esquerda de 2,5 cm.
+
+2 - As peças desenhadas devem ser elaboradas segundo as normas portuguesas e dobradas em formato A4, bem como ser apresentadas com legendas no canto inferior direito e conter todos os elementos necessários à sua identificação, a saber: o nome do requerente ou apresentante da comunicação prévia, a localização, o número do desenho, a escala, a especificação da peça desenhada e o nome do autor do projecto.
+
+3 - Todas as peças escritas e desenhadas dos projectos devem ser datadas e assinadas pelo autor ou autores do projecto.
+
+4 - Sempre que a operação urbanística a apreciar inclua alterações, ampliações, demolições parciais ou susceptíveis de afectar a livre circulação na via pública devem ser utilizadas para a sua representação as seguintes cores convencionais: a cor preta para os elementos a manter; a cor vermelha para os elementos a construir; a cor amarela para os elementos a demolir; e a cor azul para os elementos a legalizar.
+
+5 - As peças desenhadas a apresentar em formato digital, com excepção da planta síntese da implantação a que se refere o n.º 3 do artigo 12.º do presente Regulamento, devem ser entregues em formatos vectorial pdf ou dwf não editáveis, de acordo com as indicações constantes de avisos devidamente publicitados pelos serviços do Departamento de Operações Urbanísticas.
+
+6 - As peças desenhadas apresentadas em formato digital devem ser entendidas como uma impressão digital feita a partir do mesmo ficheiro e devem corresponder na íntegra aos elementos apresentados em suporte de papel, o que será atestado pelo técnico autor do projecto em declaração escrita.
+
+7 - O conteúdo do ficheiro digital referido nos números anteriores deve corresponder ao formato dos documentos em papel e, para além da indicação da escala de impressão em papel, deve incluir uma escala gráfica com a indicação das unidades, por forma a permitir a respectiva consulta, análise e medições.
+
+###### Artigo 12.º — Normas de levantamento topográfico e de cartografia e sua apresentação e formatação em ficheiros de Desenho Assistido por Computador (CAD)
+
+1 - Para efeitos do disposto na Portaria n.º 232/2008, de 11 de Março, os levantamentos topográficos e a cartografia a utilizar nos projectos de obras de edificação, de loteamento e ou de obras de urbanização e nas respectivas plantas de síntese devem ser apresentados de acordo com as normas que se seguem:
+
+a) Obedecer às normas do Instituto Geográfico Português (IGP);
+
+b) Só é admitida cartografia elaborada por entidades certificadas pelo IGP;
+
+c) A cartografia deve respeitar as tolerâncias mínimas de erro posicional estabelecidas pelo IGP para as diferentes escalas;
+
+d) Todos os dados constantes dos levantamentos topográficos e da cartografia devem estar geo-referenciados e ligados à rede geodésica, com a orientação a norte e com indicação da escala;
+
+e) deve ser utilizado um dos seguintes sistemas de referência:
+
+PT-TM06/ETRS89, com o elipsóide de referência GRS80 e a projecção transversa de Mercator;
+
+Datum 73 ou Datum Lisboa, com o elipsóide de referência O INTERNACIONAL 1924 e a projecção de Gauss-Kruger;
+
+f) Indicação de um ponto de apoio do levantamento topográfico com identificação das coordenadas do mesmo (M, P e cota altimétrica) a apresentar com indicação do sistema de referência utilizado (ETRS89, Datum 73 ou Datum Lisboa);
+
+g) O ponto de apoio referido na alínea anterior deve ser colocado de forma permanente no exterior da propriedade num local público e acessível, designadamente e sempre que possível, num lancil, com utilização de um material durável que garanta a sua permanência durante a execução da obra e pelo período mínimo de um ano após esta estar concluída.
+
+2 - Sem prejuízo do disposto no número anterior, os levantamentos topográficos e a cartografia devem ainda incluir:
+
+a) A indicação expressa das coordenadas nos quatro cantos do desenho;
+
+b) A planimetria num raio mínimo de 50 metros, incluindo as edificações existentes há pelo menos cinco anos;
+
+c) As coordenadas M (X), P (Y) e cota altimétrica (Z) dos pontos;
+
+d) A indicação expressa da entidade responsável pelo levantamento topográfico e ou pela elaboração da cartografia;
+
+e) A indicação do nome e do contacto do técnico responsável pelo levantamento topográfico;
+
+f) A indicação do nome do programa informático utilizado e da respectiva versão.
+
+3 - Aquando da entrega das telas finais dos projectos de obras de edificação, de loteamento e ou de obras de urbanização e para efeitos de registo em cadastro, deve ser apresentado um ficheiro CAD editável em formato dwg ou dxf cujo conteúdo obedeça aos seguintes termos:
+
+a) No ficheiro deve constar a planta síntese de implantação e apenas os dados necessários à actualização da cartografia e os elementos gráficos indicados no Quadro do Anexo I do presente Regulamento;
+
+b) A estrutura da informação constante do ficheiro pode ser apresentada segundo as normas ISO-13567 ou de um modo simplificado por referência aos elementos mencionados no Quadro do Anexo I ao presente Regulamento;
+
+c) Os dados constantes do ficheiro editável devem ser separados em níveis (layers) por tipo com designação conforme ao Quadro do Anexo I ao presente Regulamento: dados do tipo "área", dados do tipo "linha", dados do tipo "ponto" e dados do tipo "texto";
+
+d) Os dados constantes do ficheiro devem respeitar as seguintes propriedades geométricas:
+
+Os dados do tipo "área" devem ser polígonos fechados, sem utilização de tramas ou preenchimentos;
+
+Os dados do tipo "linha" devem utilizar geometria simples, com Os elementos curvos definidos por segmentos de recta e nunca por elementos complexos;
+
+Os dados do tipo "ponto" devem ser representados como blocos com símbolos normalizados e nunca como elementos desenhados;
+
+Os dados do tipo "texto" devem utilizar fontes True Type Font do sistema informático;
+
+e) O nível onde se representam as construções em planta deve conter os polígonos de implantação das construções, garagens, muros, rampas e ou escadarias exteriores, bem como a localização dos contadores.
+
+###### Artigo 13.º — Instrução do pedido e da comunicação prévia
+
+1 - Os pedidos de informação prévia, de licenciamento e de autorização e a comunicação prévia relativos a operações urbanísticas obedecem ao disposto no artigo 9.º do RJUE e, salvo em situações especiais previstas noutros diplomas legais, serão instruídos com os elementos exigidos pelas Portarias n.º 216-E/2008, de 3 de Março, e n.º 232/2008, de 11 de Março, e pelos formulários de execução do presente Regulamento aprovados por deliberação da Câmara Municipal de Leiria.
+
+2 - Sem prejuízo do disposto no artigo anterior, o Presidente da Câmara Municipal de Leiria pode solicitar a entrega de elementos complementares que se mostrem necessários à verificação da legitimidade procedimental e ou à correcta compreensão da pretensão, em função, nomeadamente, da natureza e da localização da operação urbanística pretendida, aplicando-se com as necessárias adaptações o disposto no n.º 3 do artigo 11.º do RJUE.
+
+3 - Consideram-se documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação urbanística, consoante os casos previstos nas alíneas seguintes:
+
+a) Certidão da descrição e de todas as inscrições em vigor emitida pela conservatória do registo predial referente ao prédio ou prédios abrangidos pela operação urbanística, no caso de titularidade dos direitos de propriedade, de usufruto, de uso e habitação, ou de superfície;
+
+b) Certidão referida na alínea a) e autorização escrita do ou dos restantes comproprietários prestada de forma expressa quanto à operação urbanística pretendida em documento assinado e com indicação feita pelo signatário do número, data e serviço emitente do respectivo bilhete de identidade ou do documento equivalente emitido pela autoridade competente de um dos países membros da União Europeia ou do passaporte, no caso de titularidade do direito de propriedade em compropriedade; no caso de a operação urbanística abranger a realização de obras em partes comuns de edifício em regime de propriedade horizontal, aquela autorização escrita deve constar de acta da assembleia de condóminos;
+
+c) Certidão referida na alínea a) e, sempre que for caso disso, a autorização referida na alínea b), bem como fotocópia do contrato de arrendamento e autorização escrita do senhorio prestada, nos termos da lei, de forma expressa quanto à operação urbanística pretendida, no caso de titularidade do direito de arrendamento;
+
+d) Procuração com poderes expressos para a realização da operação urbanística pretendida e para a prática de todos os actos necessários para o efeito, sem prejuízo do disposto nas alíneas anteriores, no caso de o requerente se fazer representar por mandatário.
+
+4 - Sempre que os documentos referidos no número anterior sejam necessários à instrução de quaisquer pedidos formulados no âmbito do presente Regulamento e já constem do processo administrativo relativo à operação urbanística, poderá ser dispensada a respectiva apresentação a solicitação dos interessados e mediante despacho do Presidente da Câmara Municipal de Leiria, desde que os mesmos permaneçam válidos.
+
+5 - Sem prejuízo do disposto na lei geral, os prazos para a apresentação de quaisquer documentos instrutórios previstos nas normas do RJUE e do presente Regulamento ou fixados ao abrigo das mesmas podem ser prorrogados em casos devidamente fundamentados, a solicitação dos interessados e mediante despacho do Presidente da Câmara Municipal de Leiria.
+
+###### Artigo 14.º — Pedido manifestamente contrário às normas legais e regulamentares
+
+Para efeitos de fundamentação do despacho de rejeição liminar do pedido proferido ao abrigo do disposto no n.º 4 do artigo 11.º RJUE, considera-se que o pedido é manifestamente contrário às normas legais e regulamentares sempre que a violação de tais normas resulte evidente do mero conhecimento dos documentos instrutórios do pedido, sem necessidade de análise técnica posterior, nomeadamente nos seguintes casos:
+
+a) Quando haja uma discrepância notória entre a operação urbanística pretendida e a capacidade edificatória do espaço a que a mesma se destina no que respeita à classe de uso desse espaço definida em plano municipal de ordenamento do território em vigor;
+
+b) Quando a operação urbanística pretendida compreenda um número de unidades de utilização superior ao previsto para os núcleos urbanos no Regulamento do Plano Director Municipal de Leiria;
+
+c) Quando a operação urbanística pretendida não respeite a finalidade, o número de pisos ou o número de fogos previstos para o lote ou lotes no alvará de loteamento, ou apresente uma área de implantação ou de construção claramente superior à prevista nesse alvará.
+
+#### SECÇÃO III — Das Situações Especiais
+
+###### Artigo 15.º — Consulta pública
+
+1 - Estão sujeitas a consulta pública as operações de loteamento que excedam algum dos seguintes limites:
+
+a) 4 ha;
+
+b) 100 fogos;
+
+c) 10 % da população do aglomerado urbano em que se insere a pretensão.
+
+2 - O valor estabelecido na alínea c) do número anterior é aferido em função da dimensão média da família do aglomerado urbano em que se insere a pretensão, de acordo com os dados do último censo realizado pelo Instituto Nacional de Estatística.
+
+###### Artigo 16.º — Procedimento de consulta pública
+
+1 - A aprovação do pedido de licenciamento das operações de loteamento que se encontrem nas situações previstas no artigo anterior é precedida de um período de consulta pública, que será anunciado no prazo de 10 dias a contar da data da recepção do último dos pareceres, autorizações ou aprovações emitidos pelas entidades exteriores ao Município ou do termo do prazo para a sua emissão, através de edital a afixar nos edifícios-sede do Município e da respectiva Freguesia e nas instalações do Departamento de Operações Urbanísticas, bem como de anúncio a publicar em dois jornais locais e no sítio do Município de Leiria na Internet.
+
+2 - A consulta pública decorre durante o prazo de 15 dias a contar da data da última publicitação do edital, podendo os interessados, dentro do mesmo prazo, consultar o processo e apresentar, por escrito, as suas sugestões e ou reclamações.
+
+###### Artigo 17.º — Alterações da licença de operação de loteamento
+
+1 - A alteração da licença de operação de loteamento fica sujeita a consulta pública a efectuar nos termos do artigo anterior, quando seja ultrapassado algum dos limites previstos no artigo 15.º do presente Regulamento.
+
+2 - Para efeitos do disposto no n.º 3 do artigo 27.º do RJUE, os proprietários dos lotes constantes do alvará de loteamento serão notificados pelo gestor do procedimento, por via postal ou electrónica, do pedido de alteração da licença de operação de loteamento, devendo, para o efeito, o requerente fazer acompanhar o seu pedido com a identificação dos proprietários dos lotes e respectivas moradas e endereços electrónicos.
+
+3 - Os interessados deverão pronunciar-se por escrito sobre a alteração da licença de loteamento, no prazo de 10 dias a contar da data da sua notificação, podendo, dentro do mesmo prazo, consultar o respectivo processo.
+
+4 - A notificação referida no n.º 2 será efectuada através de edital a afixar nos edifícios-sede do Município e da respectiva Freguesia e nas instalações do Departamento de Operações Urbanísticas, bem como de anúncio a publicar em dois jornais locais e no sítio do Município de Leiria na Internet, quando se revele impossível a identificação dos interessados e, ainda, no caso de o número destes ser superior a cinco.
+
+5 - Nos casos em que as alterações à licença de operação de loteamento ocorram ao abrigo do regime contido no artigo 48.º do RJUE, o novo alvará é emitido oficiosamente pelo Presidente da Câmara Municipal, no prazo de 30 dias a contar da data da deliberação camarária que determine as alterações à licença, devendo conter a especificação de todos os elementos referidos no n.º 1 do artigo 77.º daquele diploma legal.
+
+###### Artigo 18.º — Contratos de urbanização
+
+1 - Sem prejuízo do disposto na lei, quando a execução das obras de urbanização assuma uma especial complexidade no que respeita à determinação da responsabilidade de todos os intervenientes, a Câmara Municipal de Leiria pode condicionar a realização das operações urbanísticas à celebração de contratos de urbanização, os quais fixarão as obrigações das partes contratantes, designadamente quanto à execução das obras de urbanização, às responsabilidades a que ficam sujeitas e aos prazos que devem cumprir.
+
+2 - O requerente, querendo, pode apresentar proposta de contrato de urbanização, juntamente com o requerimento inicial ou comunicação prévia, ou em qualquer momento do procedimento até à aprovação das obras de urbanização.
+
+3 - O contrato de urbanização deve conter, designadamente, as seguintes menções:
+
+a) Identificação das partes;
+
+b) Designação e descrição da operação urbanística;
+
+c) Discriminação das obras de urbanização a executar;
+
+d) Condições a que fica sujeito o início da execução das obras de urbanização;
+
+e) Prazo de conclusão e de garantia das obras de urbanização;
+
+f) Fixação das obrigações das partes;
+
+g) Montante da caução e condições da sua eventual redução, caso se verifique;
+
+h) Consequências, para as partes, do incumprimento do contrato;
+
+i) Condições a que fica sujeito o licenciamento ou a admissão da comunicação prévia das obras de urbanização;
+
+j) Regulamentação da cedência de posição contratual das partes no contrato.
+
+###### Artigo 18.º-A — Certificação dos requisitos de constituição da propriedade horizontal
+
+1 - A certificação de que se encontram preenchidos os requisitos legalmente estabelecidos para que um edifício seja constituído em propriedade horizontal depende de requerimento do interessado a apresentar e instruir nos termos do disposto nos artigos 9.º e 13.º do presente Regulamento.
+
+2 - A verificação de que o edifício reúne as condições para ficar sujeito ao regime da propriedade horizontal é feita, consoante os casos, mediante a análise do projecto de arquitectura aprovado ou em vistoria ao local a realizar nos termos do disposto nos n.os 1 e 2 do artigo 65.º do RJUE, a qual pode coincidir com a vistoria para efeitos de concessão da autorização de utilização, se à mesma houver lugar.
+
+3 - A certificação referida no n.º 1 do presente artigo compete ao Presidente da Câmara Municipal de Leiria e é concedida, consoante os casos:
+
+a) no prazo de 20 dias a contar da apresentação do pedido devidamente instruído;
+
+b) em simultâneo com a decisão sobre o pedido de autorização de utilização, nos casos previstos no n.º 3 do artigo 66.º do RJUE.
+
+### CAPÍTULO III — Operações urbanísticas
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 19.º — Obras de escassa relevância urbanística
+
+1 - São consideradas obras de escassa relevância urbanística, as constantes das alíneas a) a f) do n.º 1 do artigo 6.º-A do RJUE.
+
+2 - Para efeitos do disposto na alínea e) do n.º 1 do artigo 6.º-A do RJUE, consideram-se equipamentos lúdicos ou de lazer, designadamente, os campos de prática desportiva ou de jogos de índole recreativa não cobertos.
+
+3 - Para efeitos do disposto na alínea g) do n.º 1 e do n.º 3 do artigo 6.º-A do RJUE, consideram-se, ainda, de escassa relevância urbanística, as obras de construção:
+
+a) De instalações de armazenamento de produtos derivados de petróleo, com excepção de parques de garrafas e postos de garrafas de GPL, com capacidade inferior a 4,50 m3;
+
+b) De instalações de abastecimento de combustíveis líquidos e gasosos derivados de petróleo para consumo próprio, com capacidade inferior a 10 m3 e desde que a parcela onde se implantem não confine com as redes viárias regional e nacional e não se preveja, na área afecta ao posto de abastecimento, a implantação de uma ou mais unidades de abastecimento de gasóleo de aquecimento;
+
+c) De instalações de parque de garrafas e postos de garrafas de GPL, com capacidade inferior a 0,520 m3
+
+d) Realizadas no interior de cemitérios, salvo as que legalmente estejam sujeitas a prévia apreciação ou autorização por entidades da Administração Pública Central e sem prejuízo de quaisquer normas legais e regulamentares aplicáveis.
+
+4 - Sem prejuízo do disposto na alínea d) do n.º 2 do artigo 4.º do RJUE, as obras previstas no presente artigo encontram-se isentas de procedimento de controlo prévio.
+
+5 - As obras de escassa relevância urbanística estão sujeitas ao cumprimento de todas as normas legais e regulamentares aplicáveis, bem como a fiscalização administrativa, com punição como contra-ordenação e aplicação de medidas de tutela da legalidade urbanística.
+
+###### Artigo 19-A.º — Operações urbanísticas promovidas pela Administração Pública
+
+Para efeitos do disposto no artigo 7.º do RJUE, à realização das operações urbanísticas promovidas pela Administração Pública aplica-se, com as devidas adaptações, o disposto nos artigos 9.º a 13.º do presente Regulamento.
+
+###### Artigo 20.º — Destaque
+
+1 - O destaque de uma parcela rege-se pelo disposto no artigo 6.º do RJUE, com as especificidades constantes dos números seguintes do presente artigo.
+
+2 - Sempre que o prédio objecto de destaque abranja duas ou mais classes de uso do solo, é aplicável o regime previsto no artigo 6.º do RJUE para o destaque de parcela de prédio situado dentro ou fora do perímetro urbano consoante a parcela a destacar se situe em toda a sua área, respectivamente, dentro ou fora desse perímetro.
+
+3 - Nos casos em que a parcela a destacar abranja duas ou mais classes de uso do solo, é aplicável o regime previsto no artigo 6.º do RJUE para o destaque de parcela de prédio situado dentro ou fora do perímetro urbano consoante a área predominante da parcela a destacar esteja situada, respectivamente, dentro ou fora desse perímetro.
+
+4 - Nas situações a que se refere o número anterior, a implantação da construção erigida ou a erigir não pode ficar para além da área predominante da parcela a destacar.
+
+5 - O destaque está sujeito ao cumprimento de todas as normas legais e regulamentares em vigor, designadamente dos planos de ordenamento do território, das servidões administrativas e das restrições de utilidade pública, e dos alvarás de loteamento.
+
+6 - O pedido de certidão para efeitos de destaque de parcela pode ser apresentado no âmbito do procedimento de licenciamento ou de comunicação prévia, sem prejuízo do disposto na alínea j) do n.º 1 do artigo 6.º do RJUE.
+
+7 - A certidão emitida pela Câmara Municipal de Leiria comprovativa da verificação dos requisitos do destaque constitui documento bastante para efeitos de registo predial da parcela destacada.
+
+###### Artigo 21.º — Projectos de operações de loteamento
+
+Para efeitos do disposto na alínea a) do n.º 3 do artigo 4.º do [Decreto-Lei n.º 292/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1995-689635), de 14 de Novembro, exceptuam-se da obrigação de elaboração por uma equipa multidisciplinar prevista no n.º 1 daquele artigo os projectos de operações de loteamento que não ultrapassem os vinte e cinco fogos e dois hectares de área.
+
+###### Artigo 22.º — Operações urbanísticas com impacte urbanístico relevante
+
+1 - Para efeitos do disposto no n.º 5 do artigo 44.º do RJUE, consideram-se de impacte urbanístico relevante as operações urbanísticas onde seja previsível qualquer uma das seguintes situações:
+
+a) Área de construção maior ou igual a 2000 m2;
+
+b) Disponham de mais de seis fracções autónomas ou unidades de utilização/ocupação;
+
+c) Provoquem ou envolvam uma sobrecarga dos níveis de serviço nas infra-estruturas ou ambiente, nomadamente nas vias de acesso, tráfego, parqueamento, ruído ou outra;
+
+d) Unidades hoteleiras com mais de 80 quartos;
+
+2 - Não ficam abrangidas pelo n.º 1 do presente artigo as edificações situadas na zona do Centro Histórico da Cidade de Leiria, enquanto área crítica de recuperação e reconversão urbanística declarada pelo [Decreto n.º 15/2001](https://diariodarepublica.pt/dr/detalhe/decreto/15-2001-352712), de 22 de Março.
+
+###### Artigo 23.º — Operações urbanísticas com impacte semelhante a uma operação de loteamento
+
+1 - Para efeitos do disposto no n.º 5 do artigo 57.º do RJUE, considera-se que determinam, em termos urbanísticos, um impacte semelhante a uma operação de loteamento, quando respeitem a edifícios contíguos e funcionalmente ligados entre si, todas as operações urbanísticas que disponham de seis fracções autónomas ou unidades de utilização/ocupação.
+
+2 - Não ficam abrangidas pelo n.º 1 do presente artigo as edificações situadas na zona do Centro Histórico da Cidade de Leiria, enquanto área crítica de recuperação e reconversão urbanística declarada pelo [Decreto n.º 15/2001](https://diariodarepublica.pt/dr/detalhe/decreto/15-2001-352712), de 22 de Março.
+
+###### Artigo 24.º — Cedências
+
+1 - O proprietário e os demais titulares de direitos reais sobre o prédio a lotear cedem, gratuitamente, ao Município de Leiria as parcelas de terreno para espaços verdes e equipamentos de utilização colectiva e as infra-estruturas urbanísticas que, de acordo com a lei, regulamento, licença ou admissão de comunicação prévia devam integrar o domínio municipal, integração que se fará automaticamente com a emissão do alvará ou, nas situações previstas no artigo 34.º do RJUE, através de escritura pública.
+
+2 - O disposto no número anterior é aplicável às operações urbanísticas consideradas de impacte urbanístico relevante referidas no artigo 22.º do presente Regulamento.
+
+###### Artigo 25.º — Estimativa do custo total da obra
+
+1 - Para efeitos da estimativa do custo total da obra, considera-se um custo mínimo por metro quadrado de:
+
+a) (euro) 450, no caso de edifícios destinados à habitação, com excepção dos anexos e muros e das áreas que nos mesmos são destinadas a garagens e arrumos que serão contabilizadas nos termos do disposto nas alíneas seguintes;
+
+b) (euro) 280, no caso de edifícios destinados a comércio e serviços, com excepção dos anexos e das áreas que nos mesmos são destinadas a garagens e arrumos que serão contabilizadas nos termos do disposto nas alíneas seguintes;
+
+c) (euro) 200, no caso de garagens e pavilhões industriais;
+
+d) (euro) 150, no caso de anexos, áreas para arrumos e armazéns agrícolas.
+
+2 - Os valores constantes do número anterior serão objecto de actualização anual de acordo com o Índice de Preços no Consumidor do ano anterior, sem habitação, publicado pelo Instituto Nacional de Estatística, salvo deliberação em contrário da Assembleia Municipal de Leiria, sob proposta da Câmara Municipal de Leiria, que deverá ser publicitada nos termos da lei.
+
+#### SECÇÃO II — Intervenientes na operação urbanística
+
+###### Artigo 26.º — Obrigações do titular da operação urbanística
+
+Sem prejuízo de todas as obrigações para si decorrentes do disposto no RJUE, o titular da operação urbanística deve:
+
+a) Dar cumprimento às normas legais e regulamentares relativas à realização da operação urbanística;
+
+b) Dar cumprimento a todas as obrigações para si directamente decorrentes da aplicação das normas do presente Regulamento;
+
+c) Realizar a operação urbanística em cumprimento dos termos e condicionamentos da licença, da admissão da comunicação prévia ou da autorização;
+
+d) Dar cumprimento às determinações que lhe sejam dirigidas por qualquer acto administrativo e respeitar os prazos que para o efeito lhe tenham sido fixados;
+
+e) Facultar o acesso ao local da obra aos funcionários municipais em acção de fiscalização, bem como prestar-lhes todas as informações e exibir-lhes os documentos que por eles lhe tenham sido solicitados, contribuindo para o desempenho célere e eficaz das respectivas funções;
+
+f) Dar cumprimento às indicações dadas, nos termos da lei e do presente Regulamento, pelos funcionários municipais em acção de fiscalização;
+
+g) Intervir no procedimento em colaboração com a Câmara Municipal de Leiria e com os respectivos serviços e trabalhadores.
+
+###### Artigo 27.º — Obrigações do director técnico da obra
+
+Sem prejuízo de todas as obrigações para si decorrentes do disposto no RJUE, o director técnico da obra deve:
+
+a) Cumprir e fazer cumprir as normas legais e regulamentares relativas à execução da obra;
+
+b) Dar cumprimento a todas as obrigações para si directamente decorrentes da aplicação das normas do presente Regulamento;
+
+c) Assumir a direcção efectiva da obras nos termos do disposto no artigo 49.º do presente Regulamento;
+
+d) Dar cumprimento às determinações que lhe sejam dirigidas por qualquer acto administrativo e respeitar os prazos que para o efeito lhe tenham sido fixados;
+
+e) Prestar todas as informações e exibir os documentos que lhe tenham sido solicitados pelos funcionários municipais em acção de fiscalização, contribuindo para o desempenho célere e eficaz das respectivas funções.
+
+###### Artigo 28.º — Alterações nos intervenientes na operação urbanística
+
+Qualquer alteração verificada nos intervenientes da operação urbanística só tem relevância procedimental e só pode ser invocada perante a Câmara Municipal de Leiria após a substituição dos mesmos em conformidade com o disposto no RJUE e no presente Regulamento.
+
+###### Artigo 29.º — Substituição dos intervenientes na operação urbanística
+
+1 - A substituição do requerente ou apresentante da comunicação prévia, dos responsáveis pela autoria dos projectos apresentados ou do director técnico da obra no processo administrativo, para efeitos do disposto no n.º 9 do artigo 9.º do RJUE, opera-se mediante averbamento no respectivo processo administrativo, na sequência de requerimento escrito a apresentar pelo substituto, no prazo de 15 dias a contar da data em que ocorra a substituição.
+
+2 - O gestor do procedimento procede ao averbamento da substituição do requerente ou apresentante da comunicação prévia, dos responsáveis por quaisquer dos projectos apresentados ou do director técnico da obra, no prazo de 15 dias a contar da apresentação do requerimento.
+
+3 - Com o averbamento da substituição do requerente ou apresentante da comunicação prévia são canceladas ou restituídas as cauções que tenham sido prestadas pelo requerente ou apresentante da comunicação prévia substituído.
+
+4 - A substituição do requerente ou apresentante da comunicação prévia no processo administrativo implica a substituição do titular do alvará de licença ou de autorização de utilização ou do apresentante da comunicação prévia, nos termos do disposto no artigo 33.º do presente Regulamento.
+
+5 - Sempre que os responsáveis pela autoria dos projectos apresentados ou o director técnico da obra pretendam declinar a sua responsabilidade pela obrigações inerentes à autoria dos projectos e posteriores à elaboração dos mesmos ou pela direcção técnica obra, respectivamente, devem fazê-lo em declaração escrita a apresentar nos serviços do Departamento de Operações Urbanísticas com indicação feita por si, a seguir à assinatura, do número, data e serviço emitente do respectivo documento de identificação pessoal.
+
+6 - Na situação prevista no número anterior, o titular da operação urbanística é notificado, mediante despacho do Presidente da Câmara Municipal de Leiria, para, no prazo de 5 dias a contar da data da notificação, apresentar o pedido de averbamento previsto no n.º 1 do artigo 31.º do presente Regulamento, com vista à substituição dos responsáveis pela autoria dos projectos apresentados ou do director técnico da obra, sob pena de a obra ser embargada ao abrigo do disposto na alínea c) do n.º 1 do artigo 102.º do RJUE e sem prejuízo da contra-ordenação prevista na alínea o) do n.º 1 do artigo 98.º do mesmo diploma legal.
+
+7 - A responsabilidade dos autores dos projectos apresentados e do director técnico da obra mantém-se na titularidade dos substituídos até à data da notificação feita ao titular da operação urbanística nos termos do número anterior.
+
+###### Artigo 30.º — Pedido de averbamento de substituição do requerente ou do apresentante da comunicação prévia
+
+1 - Para efeitos do disposto no n.º 9 do artigo 9.º RJUE e nos n.os 1 a 4 artigo anterior, o pedido de averbamento da substituição do requerente ou do apresentante da comunicação prévia deve ser formulado em requerimento a apresentar pelo substituto, de acordo com o disposto no artigo 9.º do presente Regulamento.
+
+2 - Para além dos elementos exigidos nos termos do artigo 9.º do presente Regulamento, do requerimento deve também constar:
+
+a) A identificação completa do lote ou da parcela onde se localiza a operação urbanística, com referência aos seguintes elementos:
+
+Freguesia e concelho de localização;
+
+Área;
+
+Confrontações;
+
+Artigo e freguesia da inscrição na matriz predial;
+
+Número e freguesia do registo predial;
+
+Titular ou titulares do direito de propriedade sobre o prédio, no caso de o requerente não ser o proprietário ou não ser o único titular do direito de propriedade;
+
+b) A identificação do processo administrativo relativo à operação urbanística, com referência aos respectivos número e titular;
+
+c) A descrição sumária da operação urbanística.
+
+3 - O requerimento deve ser acompanhado de:
+
+a) Fotocópia dos documentos de identificação pessoal (bilhete de identidade, passaporte, autorização de residência ou documento equivalente nos termos da lei, no caso de pessoa singular; ou certidão do registo comercial ou cartão de identificação de pessoa colectiva, no caso de pessoa colectiva) e fiscal do requerente ou apresentante da comunicação prévia;
+
+b) Documentos comprovativos da qualidade de titular de qualquer direito que confira ao interessado a faculdade de realizar a operação urbanística pretendida, em conformidade com o disposto no n.º 3 do artigo 13.º do presente Regulamento;
+
+c) Documento comprovativo da prestação da ou das cauções exigidas para a realização da operação urbanística.
+
+###### Artigo 31.º — Pedido de averbamento de substituição do técnico responsável pela autoria dos projectos
+
+1 - Para efeitos do disposto no n.º 9 do artigo 9.º do RJUE e nos n.os 5 a 7 do artigo 29.º do presente Regulamento, o pedido de averbamento da substituição do técnico responsável pela autoria de qualquer dos projectos deve ser formulado em requerimento a apresentar pelo titular da operação urbanística, de acordo com o disposto no artigo 9.º do presente Regulamento.
+
+2 - Para além dos elementos exigidos nos termos do artigo 9.º do presente Regulamento, do requerimento deve também constar:
+
+a) A identificação do processo administrativo relativo à operação urbanística, com referência aos respectivos número e titular;
+
+b) A identificação do ou dos projectos pelos quais o requerente ficará responsável;
+
+c) A descrição sumária da operação urbanística.
+
+3 - O requerimento deve ser acompanhado de:
+
+a) Fotocópia do documento de identificação pessoal do requerente (bilhete de identidade, passaporte, autorização de residência ou documento equivalente nos termos da lei);
+
+b) Novo termo de responsabilidade assinado pelo substituto e com indicação feita pelo mesmo, a seguir à assinatura, do número, data e serviço emitente do respectivo documento de identificação pessoal;
+
+c) Declaração comprovativa da validade da inscrição do requerente em associação pública de natureza profissional, nos casos aplicáveis;
+
+d) Quaisquer outros documentos exigíveis por lei aos responsáveis pela autoria dos projectos.
+
+###### Artigo 32.º — Pedido de averbamento de substituição do director técnico da obra
+
+1 - Para efeitos do disposto no n.º 9 do artigo 9.º do RJUE e nos n.os 5 a 7 do artigo 29.º do presente Regulamento, o pedido de averbamento da substituição do director técnico da obra deve ser formulado em requerimento a apresentar pelo substituto, de acordo com o disposto no artigo 9.º do presente Regulamento.
+
+2 - Para além dos elementos exigidos nos termos do artigo 9.º do presente Regulamento, do requerimento deve também constar:
+
+a) A identificação do processo administrativo relativo à operação urbanística, com referência aos respectivos número e titular;
+
+b) A descrição sumária da operação urbanística.
+
+3 - O requerimento deve ser acompanhado de:
+
+c) Fotocópia do documento de identificação pessoal do requerente (bilhete de identidade, passaporte, autorização de residência ou documento equivalente nos termos da lei);
+
+d) Novo termo de responsabilidade assinado pelo substituto e com indicação feita pelo mesmo, a seguir à assinatura, do número, data e serviço emitente do respectivo documento de identificação pessoal;
+
+e) Declaração comprovativa da validade da inscrição do requerente em associação pública de natureza profissional;
+
+f) Quaisquer outros documentos exigíveis por lei aos responsáveis pela direcção técnica da obra.
+
+###### Artigo 33.º — Substituição do titular do alvará de licença ou de autorização de utilização ou da comunicação prévia
+
+1 - Para efeitos do disposto no n.º 7 do artigo 77.º do RJUE, a substituição do titular do alvará de licença opera-se mediante averbamento no respectivo alvará, na sequência de requerimento a apresentar pelo substituto.
+
+2 - A substituição do titular do alvará de autorização de utilização ou da comunicação prévia é feita nos termos do disposto no número anterior.
+
+3 - O gestor do procedimento procede ao averbamento da substituição do titular do alvará de licença, de autorização de utilização ou do apresentante da comunicação prévia mediante despacho do Presidente da Câmara Municipal de Leiria e no prazo de 15 dias a contar da apresentação do pedido.
+
+4 - Com o averbamento da substituição do titular do alvará de licença, de autorização de utilização ou da comunicação prévia são canceladas ou restituídas as cauções que tenham sido prestadas pelo titular substituído.
+
+5 - Quando a substituição do titular do alvará de licença ou da comunicação prévia se verificar no decorrer da execução da obra, poderá o anterior titular apresentar uma declaração comprovativa em como mantém a caução até à emissão do alvará de autorização de utilização.
+
+###### Artigo 34.º — Pedido de averbamento de substituição do titular do alvará de licença ou de autorização de utilização ou do titular da comunicação prévia
+
+1 - O pedido de averbamento da substituição do titular do alvará de licença ou de autorização de utilização ou do titular da comunicação prévia deve ser formulado em requerimento a apresentar pelo substituto de acordo com o disposto no artigo 9.º do presente Regulamento e, se for esse o caso, juntamente com o pedido de averbamento da substituição do requerente ou apresentante da comunicação prévia a que se refere o artigo 30.º do presente Regulamento.
+
+2 - Para além dos elementos exigidos nos termos do artigo 9.º do presente Regulamento, do requerimento deve também constar:
+
+a) A identificação completa do lote ou da parcela onde se localiza a operação urbanística, com referência aos seguintes elementos:
+
+Freguesia e concelho de localização;
+
+Área;
+
+Confrontações;
+
+Artigo e freguesia da inscrição na matriz predial;
+
+Número e freguesia do registo predial;
+
+Titular ou titulares do direito de propriedade sobre o prédio, no caso de o requerente não ser o proprietário ou não ser o único titular do direito de propriedade;
+
+b) A identificação do processo administrativo relativo à operação urbanística, com referência aos respectivos número e titular;
+
+c) A descrição sumária da operação urbanística.
+
+3 - O requerimento deve ser acompanhado dos documentos instrutórios indicados nas alíneas seguintes, conforme sejam aplicáveis as situações aí previstas, com excepção daqueles que tenham sido apresentados no âmbito do processo administrativo relativo à obra de edificação:
+
+a) Fotocópia dos documentos de identificação pessoal (bilhete de identidade, passaporte, autorização de residência ou documento equivalente nos termos da lei, no caso de pessoa singular; ou certidão do registo comercial ou cartão de identificação de pessoa colectiva, no caso de pessoa colectiva) e fiscal do requerente ou apresentante da comunicação prévia, excepto se o pedido for apresentado juntamente com o pedido de averbamento da substituição do requerente ou apresentante da comunicação prévia a que se refere o artigo 30.º do presente Regulamento;
+
+b) Documentos comprovativos da legitimidade procedimental do requerente ou apresentante da comunicação prévia, nos termos da lei e em conformidade com o disposto no n.º 3 do artigo 13.º do presente Regulamento;
+
+c) Documento comprovativo da prestação da ou das cauções a que haja lugar para a realização da operação urbanística.
+
+###### Artigo 35.º — Substituição do titular do alvará de licença de ocupação do espaço público
+
+1 - A substituição do titular do alvará de licença de ocupação do espaço público emitido nos termos do artigo 76.º do presente Regulamento opera-se mediante averbamento no respectivo alvará, na sequência de requerimento a apresentar pelo substituto.
+
+2 - Para efeitos do disposto no número anterior, o pedido de averbamento da substituição do titular do alvará de licença de ocupação do espaço público deve ser formulado em requerimento a apresentar pelo substituto no prazo de 15 dias a contar da data em que ocorra a substituição e de acordo com o disposto no artigo 9.º do presente Regulamento.
+
+3 - No caso de as obras a executar estarem sujeitas a licença ou a comunicação prévia, o pedido de averbamento da substituição do titular do alvará de licença de ocupação do espaço público deve ser apresentado juntamente com o pedido de averbamento da substituição do requerente ou apresentante da comunicação prévia a que se refere o artigo 30.º do presente Regulamento, sendo dispensada a apresentação dos documentos instrutórios referidos nas alíneas a) e b) do n.º 4 do presente artigo.
+
+4 - Para além dos elementos exigidos nos termos do artigo 9.º do presente Regulamento, do requerimento deve também constar:
+
+a) A identificação completa do lote ou da parcela onde se localiza a operação urbanística, com referência aos seguintes elementos:
+
+Freguesia e concelho de localização;
+
+Área;
+
+Confrontações;
+
+Artigo e freguesia da inscrição na matriz predial;
+
+Número e freguesia do registo predial;
+
+Titular ou titulares do direito de propriedade sobre o prédio, no caso de o requerente não ser o proprietário ou não ser o único titular do direito de propriedade;
+
+b) A identificação do processo administrativo relativo à operação urbanística, com referência aos respectivos número e titular.
+
+c) A descrição sumária da operação urbanística.
+
+5 - O requerimento deve ser acompanhado de:
+
+a) Fotocópia dos documentos de identificação pessoal (bilhete de identidade, passaporte, autorização de residência ou documento equivalente nos termos da lei, no caso de pessoa singular; ou certidão do registo comercial e cartão de identificação de pessoa colectiva, no caso de pessoa colectiva) e fiscal do requerente ou apresentante da comunicação prévia;
+
+b) Documentos comprovativos da legitimidade procedimental do requerente ou apresentante da comunicação prévia, nos termos da lei e em conformidade com o disposto no n.º 3 do artigo 13.º do presente Regulamento;
+
+c) Documento comprovativo da prestação da caução a que haja lugar nos termos do disposto nos artigos 45.º e 67.º do presente Regulamento.
+
+6 - O gestor do procedimento procede ao averbamento da substituição do titular do alvará de licença de ocupação do espaço público mediante despacho do Presidente da Câmara Municipal de Leiria e no prazo de 15 dias a contar da apresentação do pedido, ou, se for esse o caso, em simultâneo com o averbamento da substituição do titular do alvará de licença ou do apresentante de comunicação prévia.
+
+7 - Com o averbamento da substituição do titular do alvará de licença de ocupação do espaço público, é restituída ao titular substituído a caução que tenha sido prestada ao abrigo do disposto no artigo 67.º do presente Regulamento.
+
+###### Artigo 36.º — Substituição do empreiteiro
+
+1 - A substituição do empreiteiro opera-se mediante averbamento na declaração quanto à adjudicação da obra, na sequência de requerimento a apresentar pelo titular da operação urbanística.
+
+2 - Sempre que o empreiteiro pretenda declinar a sua responsabilidade pela execução da obra, deve fazê-lo em declaração escrita a apresentar nos serviços do Departamento de Operações Urbanísticas e, no caso de pessoa singular, com indicação feita por si, a seguir à assinatura, do número, data e serviço emitente do respectivo documento de identificação pessoal, ou, no caso de pessoa colectiva, com assinatura reconhecida notarialmente.
+
+3 - Na situação prevista no número anterior, o titular da operação urbanística é notificado, mediante despacho do Presidente da Câmara Municipal de Leiria, para, no prazo de 5 dias a contar da data da notificação, apresentar requerimento com vista à substituição do empreiteiro, sob pena de a obra ser embargada ao abrigo do disposto na alínea c) do n.º 1 do artigo 102.º do RJUE e sem prejuízo da contra-ordenação prevista na alínea i) do n.º 1 do artigo 100.º do presente Regulamento.
+
+4 - O gestor do procedimento procede ao averbamento da substituição do empreiteiro mediante despacho do Presidente da Câmara Municipal de Leiria e no prazo de 15 dias a contar da apresentação do pedido.
+
+5 - A responsabilidade pela execução da obra mantém-se na titularidade do empreiteiro substituído até à data da notificação feita ao titular da operação urbanística nos termos do n.º 3 do presente artigo.
+
+###### Artigo 37.º — Pedido de averbamento de substituição do empreiteiro
+
+1 - Para efeitos do disposto no artigo anterior, o pedido de averbamento da substituição do empreiteiro deve ser formulado em requerimento a apresentar pelo titular da operação urbanística no prazo de 15 dias a contar da data em que ocorra a substituição ou no prazo previsto no n.º 3 do artigo anterior e de acordo com o disposto artigo 9.º do presente Regulamento.
+
+2 - Para além dos elementos exigidos nos termos do artigo 9.º do presente Regulamento, do requerimento deve também constar:
+
+a) A identificação do processo administrativo relativo à operação urbanística, com referência aos respectivos número e titular;
+
+b) A descrição sumária da operação urbanística.
+
+3 - O requerimento deve ser acompanhado de:
+
+a) Nova declaração do empreiteiro quanto à adjudicação da obra por parte do titular da operação urbanística;
+
+b) Fotocópia do documento de identificação pessoal do empreiteiro (bilhete de identidade, passaporte, autorização de residência ou documento equivalente nos termos da lei, no caso de pessoa singular; ou certidão do registo comercial e cartão de identificação de pessoa colectiva, no caso de pessoa colectiva);
+
+c) Nova declaração de titularidade do alvará de classificação em empreiteiro, construtor, empreiteiro geral ou construtor geral, ou do título de registo na actividade da construção, conforme os casos, a verificar no acto de entrega do requerimento com a exibição do original do mesmo;
+
+d) Quaisquer outros documentos exigíveis por lei aos empreiteiros.
+
+4 - Aos serviços do Departamento de Operações Urbanísticas perante os quais for apresentado o requerimento de averbamento da substituição do empreiteiro incumbe reproduzir por fotocópia o original do alvará de classificação em empreiteiro, construtor, empreiteiro geral ou construtor geral, ou do título de registo na actividade da construção e juntá-lo ao processo administrativo respectivo.
+
+#### SECÇÃO III — Normas de edificação
+
+###### Artigo 38.º — Número de edificações por cada lote ou parcela
+
+Sem prejuízo do disposto no Regulamento do Plano Director Municipal de Leiria, não é permitida a construção de mais do que uma edificação por cada lote ou parcela, salvo os casos de edifícios contíguos susceptíveis de constituição em regime de propriedade horizontal ou de edifícios funcionalmente ligados entre si.
+
+###### Artigo 39.º — Salas de condomínio
+
+1 - É obrigatória a existência de uma sala de condomínio em todos os edifícios de habitação colectiva com sete ou mais fogos e sujeitos ao regime da propriedade horizontal.
+
+2 - A sala de condomínio deve ter pé-direito regulamentar, a área equivalente a um metro quadrado por fogo com o mínimo de nove metros quadrados, bem como ser dotada de arejamento e iluminação sempre que possível naturais.
+
+### CAPÍTULO IV — Execução das obras de edificação e de urbanização
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 40.º — Regra geral de execução das obras
+
+1 - Durante a execução das obras de edificação e de urbanização, devem ser cumpridas as condições gerais previstas neste Regulamento e na demais legislação aplicável, designadamente no que diz respeito à segurança e higiene no local das obras, à ocupação do espaço público e à conclusão da execução das obras.
+
+2 - O disposto no número anterior é aplicável à execução de todas as obras de edificação e de urbanização, encontrem-se ou não sujeitas a qualquer forma de procedimento de controlo prévio.
+
+###### Artigo 40.º-A — Projectos de execução
+
+Os projectos de execução de arquitectura e de engenharia de especialidades, nos termos do previsto no n.º 4 do artigo 80.º do RJUE, deverão ser apresentados em suporte digital apenas para obras de construção definidas na alínea b) do artigo 2.º do Regime Jurídico da Urbanização e Edificação, nos formatos vectorial, pdf ou dwf não editáveis.
+
+###### Artigo 41.º — Condições e prazo de execução das obras de urbanização sujeitas a comunicação prévia
+
+1 - Para efeitos do disposto no n.º 1 do artigo 53.º do RJUE, a execução das obras de urbanização sujeitas a comunicação prévia deve obedecer ao disposto no artigo 57.º do presente Regulamento, quanto à gestão dos resíduos de construção e demolição nelas produzidos, bem como ao disposto na Secção III deste Capítulo, relativamente à ocupação do espaço pública.
+
+2 - Para efeitos do disposto no n.º 2 do artigo 53.º do RJUE e sem prejuízo das prorrogações de prazo previstas no mesmo artigo, o prazo para a conclusão das obras de urbanização é o indicado pelo requerente, de acordo com o mapa de calendarização dos trabalhos, não podendo exceder o prazo máximo de três anos.
+
+###### Artigo 42.º — Condições e prazo de execução das obras de edificação sujeitas a comunicação prévia
+
+1 - Para efeitos do disposto no n.º 1 do artigo 57.º do RJUE, a execução de obras de edificação sujeitas comunicação prévia deve obedecer ao disposto no artigo 57.º do presente Regulamento, quanto à gestão dos resíduos de construção e demolição nelas produzidos, bem como ao disposto na Secção III deste Capítulo, relativamente à ocupação da via pública.
+
+2 - Para efeitos do disposto no n.º 2 do artigo 58.º do RJUE e sem prejuízo das prorrogações previstas no mesmo, o prazo para a conclusão das obras é o indicado pelo requerente, de acordo com o mapa de calendarização dos trabalhos, não podendo exceder o prazo máximo de três anos.
+
+###### Artigo 43.º — Incumprimento
+
+Em caso de desrespeito pelas normas legais e regulamentares e pelas medidas impostas ao abrigo do disposto no presente Capítulo, pode a Câmara Municipal de Leiria determinar o respectivo cumprimento com a cominação, em simultâneo, da execução do acto administrativo, ao abrigo do disposto nos artigos 149.º e seguintes do Código do Procedimento Administrativo, bem como da prática do crime de desobediência previsto e punido pelo disposto no artigo 348.º do Código Penal.
+
+###### Artigo 44.º — Responsabilidade civil
+
+Sem prejuízo do disposto no artigo seguinte, os titulares de direitos que confiram a faculdade de realizar operações urbanísticas, os requerentes ou apresentantes da comunicação prévia de qualquer operação urbanística e os titulares de alvarás de licença ou de autorização de utilização ou os apresentantes de comunicação prévia, bem como os técnicos responsáveis pela autoria dos projectos ou pela direcção técnica da obra e os empreiteiros são responsáveis, nos termos da lei, por danos causados ao Município de Leiria e a quaisquer terceiros que sejam provocados pela sua intervenção, quer por acção quer por omissão, na realização da operação urbanística.
+
+###### Artigo 45.º — Cauções pela execução das obras
+
+1 - Para efeitos do disposto no n.º 2 do artigo 86.º do RJUE, a Câmara Municipal de Leiria, ou o seu Presidente, pode exigir a prestação de caução destinada a garantir a reparação de quaisquer estragos ou deteriorações causadas em infra-estruturas públicas ou noutros bens do domínio público ou privado do Município de Leiria.
+
+2 - Para além das situações previstas no número anterior e igualmente para efeitos da disposição legal aí referida, a Câmara Municipal de Leiria, ou o seu Presidente, pode exigir a prestação de caução destinada a garantir o cumprimento de quaisquer das obrigações impostas ao titular da operação urbanística pelas disposições legais e regulamentares aplicáveis, designadamente as contidas na Secção IV deste Capítulo do presente Regulamento.
+
+3 - As cauções a que se refere o presente artigo são prestadas mediante garantia bancária autónoma à primeira solicitação, depósito bancário ou seguro-caução a favor da Câmara Municipal de Leiria e mantêm-se válidas até à verificação do cumprimento das obrigações por elas garantido.
+
+4 - O montante das cauções a que refere o presente artigo é determinado em função da localização, da dimensão, da natureza e da estimativa do custo total da obra a executar, podendo ser aceite o montante proposto pelo titular da operação urbanística.
+
+5 - Em caso de substituição do requerente ou apresentante da comunicação prévia, ou do titular do alvará de licença ou do apresentante da comunicação prévia, devem ser prestadas novamente as cauções referidas nos números anteriores e a que haja lugar pela realização da operação urbanística, mantendo-se válidas as cauções anteriormente prestadas até ao respectivo cancelamento ou restituição na sequência do averbamento daquela substituição.
+
+6 - Nas situações previstas no número anterior e sem prejuízo do devido cumprimento das normas legais e regulamentares aplicáveis, a nova caução pode ser prestada por meio diverso daquele por que fora prestada a caução anterior.
+
+###### Artigo 46.º — Cauções para demolição da estrutura, para reposição do terreno e para pagamento de taxas
+
+1 - As cauções para demolição da estrutura até ao piso de menor cota e para reposição do terreno das condições em que se encontrava antes do início dos trabalhos, a que se referem, respectivamente, o n.º 6 do artigo 23.º e o n.º 1 do artigo 81.º do RJUE, podem ser prestadas mediante garantia bancária autónoma à primeira solicitação, depósito bancário ou seguro-caução a favor do Município de Leiria, e mantêm-se válidas até à emissão do alvará de licença ou da documentação que titula a comunicação prévia.
+
+2 - O montante das cauções referidas no número anterior é determinado em função da localização, da dimensão, da natureza e, sempre que aplicável, da estimativa do custo total da obra, podendo ser aceite o montante proposto pelo titular da operação urbanística.
+
+3 - A caução para pagamento das taxas devidas por actos tácitos positivos, a que se refere o n.º 3 do artigo 113.º RJUE, pode ser prestada mediante garantia bancária autónoma à primeira solicitação, depósito bancário ou seguro-caução a favor do Município de Leiria e mantém-se válida até que aquele pagamento seja efectuado.
+
+4 - O montante da caução referida no número anterior é igual ao valor das taxas devidas pelos actos tácitos positivos nos termos do disposto no RJUE e no Regulamento para a Cobrança de Taxas em vigor no Concelho de Leiria.
+
+5 - Em caso de substituição do requerente ou apresentante da comunicação prévia, ou do titular do alvará de licença ou do apresentante da comunicação prévia, devem ser prestadas novamente as cauções referidas nos números anteriores e a que haja lugar pela realização da operação urbanística, mantendo-se válidas as cauções anteriormente prestadas até ao respectivo cancelamento ou restituição na sequência do averbamento daquela substituição.
+
+6 - Nas situações previstas no número anterior e sem prejuízo do devido cumprimento das normas legais e regulamentares aplicáveis, a nova caução pode ser prestada por meio diverso daquele por que fora prestada a caução anterior.
+
+###### Artigo 47.º — Alteração das condições propostas pelo requerente
+
+As normas constantes do presente Capítulo são consideradas normas regulamentares aplicáveis para efeitos de alteração das condições propostas pelo requerente quanto à ocupação do espaço público e à colocação de tapumes e vedações, nos termos do disposto no n.º 2 do artigo 57.º do RJUE.
+
+###### Artigo 48.º — Comunicação do início dos trabalhos
+
+Para efeitos do disposto no n.º 5 do artigo 113.º do RJUE, o titular da operação urbanística deve comunicar por escrito ao Presidente da Câmara Municipal de Leiria o início dos trabalhos no prazo máximo de cinco dias a contar da produção do acto tácito.
+
+###### Artigo 49.º — Direcção efectiva da obra
+
+A direcção efectiva da obra por parte do técnico responsável implica:
+
+a) A execução das obras de acordo com o projecto aprovado e com os condicionamentos a que ficou sujeita a licença ou a comunicação prévia, salvo no que respeita às alterações em obra previstas no n.º 2 do artigo 83.º do RJUE;
+
+b) O cumprimento das regras técnicas e das normas legais e regulamentares aplicáveis à execução das obras;
+
+c) O registo no livro de obra de todos os factos relevantes relativos à execução das obras, nos termos do disposto no artigo 97.º do RJUE;
+
+d) O cumprimento das indicações dadas ao director técnico da obra pelos funcionários municipais em acção de fiscalização e registadas no livro de obra.
+
+###### Artigo 50.º — Achados arqueológicos
+
+1 - Sempre que, durante a execução das obras, sejam descobertos elementos arquitectónicos ou quaisquer outros testemunhos arqueológicos, o titular da operação urbanística está obrigado, no prazo de 48 horas, a dar conhecimento do achado à administração do património cultural competente ou às autoridades policiais, nos termos do disposto no artigo 78.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de Setembro.
+
+2 - Tendo tomado conhecimento do achado arqueológico na sequência de uma acção de fiscalização, a Câmara Municipal de Leiria deve proceder à notificação do achado nos termos referidos no número anterior, caso verifique que o titular da operação urbanística não deu cumprimento a essa obrigação.
+
+#### SECÇÃO II — Segurança e higiene no local das obras
+
+###### Artigo 51.º — Regra geral
+
+Durante a execução das obras de edificação e de urbanização, devem ser cumpridas todas as normas legais e regulamentares aplicáveis quanto à segurança dos trabalhadores da obra e do público em geral, bem como quanto à higiene do local da obra, por forma a evitar quaisquer danos para pessoas e para bens do domínio público ou privado do Município de Leiria.
+
+###### Artigo 52.º — Situações especiais
+
+1 - Sem prejuízo do disposto nos artigos seguintes quanto à limpeza e arrumação do local da obra, à colocação de tapumes e redes de protecção, à instalação de contentores e amassadouros, ao acondicionamento de materiais de construção, à gestão dos resíduos de obras sujeitas a licenciamento ou a comunicação prévia, à instalação e utilização de aparelhos de elevação de materiais, à colocação de andaimes e às terraplanagens, movimentação e transporte de terras, a Câmara Municipal de Leiria, ou o seu Presidente, pode impor, para efeitos do disposto no n.º 1 do artigo 53.º e no n.º 1 do artigo 57.º ambos do RJUE, o cumprimento de outras medidas de segurança e higiene do local das obras, sempre que tal se revele necessário para garantir a salvaguarda das condições de segurança, trânsito e ambiente nas vias municipais ou na zona de localização da operação urbanística.
+
+2 - A Câmara Municipal de Leiria, ou o seu Presidente, pode determinar a vedação de lotes ou parcelas não ocupados com obras de construção e confinantes com a via pública, mediante a colocação de tapumes com a altura de 2 metros e de cor e material adequados ao local.
+
+3 - Os lotes ou as parcelas não ocupados com obras de construção devem ser mantidos em perfeito estado de limpeza e salubridade, por forma a não permitir a acumulação de vegetação, resíduos e animais nocivos à saúde e ou à segurança de pessoas e bens, sob pena de a Câmara Municipal de Leiria, ou o seu Presidente, determinar as medidas que, em concreto, se mostrem adequadas àqueles fins, sem prejuízo do disposto no artigo 100.º do presente Regulamento.
+
+###### Artigo 53.º — Limpeza e arrumação do local da obra
+
+1 - O local de execução das obras deve ser mantido limpo e arrumado, em especial no que se refere a materiais de construção e a resíduos de construção ou demolição e outros.
+
+2 - É proibido colocar fora dos tapumes quaisquer materiais de construção, equipamentos ou máquinas, resíduos de construção ou demolição e outros, ainda que seja para carga e descarga dos mesmos.
+
+###### Artigo 54.º — Tapumes e redes de protecção
+
+1 - Durante a execução das obras, é obrigatória a colocação de tapumes a vedar a área abrangida pelas mesmas de forma a evitar a projecção de quaisquer materiais para fora daquela área e a limitar o livre acesso à mesma, ainda que tal implique a ocupação de espaço público, sem prejuízo do disposto nas normas da Secção III deste Capítulo do presente Regulamento.
+
+2 - Sempre que o local das obras confine com a via pública, os tapumes devem ser colocados de acordo com o que for fixado pela Câmara Municipal de Leiria ou pelo seu Presidente, tendo em conta a largura da via e as condições da mesma quanto à circulação de veículos e peões.
+
+3 - Os tapumes devem ser de material rígido, resistente e de textura lisa, ter a altura mínima de 2 metros, ser compostos na sua estrutura base em madeira ou material metálico que assegure a sua solidez e ter cor uniforme e adequada ao local em que se encontra a obra.
+
+4 - Na colocação dos tapumes deve ser salvaguardado o acesso às bocas de incêndio.
+
+5 - É obrigatória, em função das características das obras e da sua distância à via pública, a colocação de redes de protecção montadas em estrutura própria ou presas aos andaimes, abrangendo a totalidade da fachada acima do limite superior dos tapumes, de modo a evitar a projecção de materiais, elementos construtivos, detritos ou outros resíduos.
+
+###### Artigo 55.º — Contentores e amassadouros
+
+1 - É obrigatória a existência de contentores adequados ao depósito de resíduos de construção ou demolição e outros provenientes das obras.
+
+2 - Os contentores e os amassadouros devem ser colocados no interior dos tapumes, salvo casos excepcionais e devidamente fundamentados em que a Câmara Municipal de Leiria, ou o seu Presidente, o autorize, sempre com a obrigação de colocação dos mesmos em localização e com protecção adequadas a não causar prejuízos para a circulação de veículos e peões.
+
+3 - Os amassadouros não podem ficar assentes directamente no pavimento do espaço público ocupado no interior ou no exterior dos tapumes.
+
+###### Artigo 56.º — Acondicionamento de materiais de construção
+
+1 - É obrigatório o acondicionamento dos materiais de construção utilizados na execução das obras, por forma a evitar que se espalhem pela área abrangida por aquelas ou para a via pública.
+
+2 - Deve ser tido especial cuidado no acondicionamento e protecção de areias e outros materiais de grão fino, com vista a evitar que, por acção do vento, da chuva ou da escorrência de outras águas, os mesmos possam poluir a via pública ou causar quaisquer prejuízos para pessoas e bens.
+
+###### Artigo 57.º — Gestão de resíduos de obras sujeitas a licenciamento ou comunicação prévia
+
+1 - À gestão dos resíduos de construção ou de demolições sujeitas a licenciamento ou comunicação prévia é aplicável a legislação em vigor sobre a mesma, em especial o [Decreto-Lei n.º 46/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2008-247037), de 12 de Março.
+
+2 - É obrigatório o depósito de resíduos das obras de construção e de demolição em contentores destinados a esse fim.
+
+3 - Sempre que da execução das obras de construção e demolição resultem resíduos que tenham de ser lançados do alto, deverão sê-lo por meio de condutas fechadas dirigidas directamente para contentores também fechados.
+
+###### Artigo 58.º — Aparelhos de elevação de materiais de construção
+
+1 - A elevação de materiais de construção deve ser feita por meio de guindastes, guinchos, cábreas ou outros aparelhos apropriados ao efeito, os quais devem ser sujeitos pelos respectivos proprietários às inspecções periódicas legalmente previstas para garantir a segurança das manobras com eles executadas.
+
+2 - Os aparelhos de elevação de materiais de construção devem ser colocados no interior dos tapumes, salvo casos excepcionais e devidamente fundamentados em que a Câmara Municipal de Leiria, ou o seu Presidente, o autorize, e sempre com a obrigação de colocação dos mesmos em localização adequada a não causar prejuízos a pessoas e bens.
+
+3 - Sem prejuízo do disposto no número anterior, os aparelhos de elevação de materiais de construção devem, sempre que possível, ser colocados de forma a que, na manobra dos mesmos, a trajectória de elevação não alcance o espaço público e assim se diminua o risco de acidente.
+
+4 - Sem prejuízo do disposto no artigo 88.º do presente Regulamento, sempre que os aparelhos de elevação de materiais de construção não estejam a ser utilizados, as lanças das gruas e os seus contrapesos, quando os houver, devem ficar dentro da área abrangida pelas obras e os baldes ou plataformas de carga convenientemente pousados, salvo em casos de manifesta impossibilidade.
+
+###### Artigo 59.º — Andaimes
+
+1 - Os andaimes devem, sempre que possível, ser fixos ao solo e ou às paredes dos edifícios, só sendo permitida a utilização de outro tipo de andaimes desde que fiquem garantidas as necessárias e adequadas condições de segurança na utilização dos mesmos.
+
+2 - Sem prejuízo do disposto nas normas da Secção III deste Capítulo do presente Regulamento, quando sejam fixos ao solo, os andaimes devem ficar colocados no interior dos tapumes, salvo casos excepcionais e devidamente fundamentados em que a Câmara Municipal de Leiria, ou o seu Presidente, o autorize, sempre com a obrigação de colocação dos mesmos em localização adequada a não causar prejuízos para a circulação de veículos e peões.
+
+###### Artigo 60.º — Terraplenagens, movimentação e transporte de terras
+
+1 - Sem prejuízo do disposto no Regulamento de Resíduos Sólidos Urbanos, Higiene e Salubridade, os trabalhos de terraplenagens e de movimentação e transporte de terras devem ser executados de forma adequada a não pôr em risco a segurança de pessoas e bens, a salubridade e saúde públicas, a limpeza dos espaços públicos e o ambiente em geral.
+
+2 - Para os efeitos do disposto no número anterior, o transporte de terras para fora do local das obras deve ser feito com as devidas protecções, incumbindo igualmente ao empreiteiro promover a limpeza dos espaços públicos afectados.
+
+#### SECÇÃO III — Ocupação do espaço público
+
+###### Artigo 61.º — Licenciamento da ocupação do espaço público
+
+1 - A ocupação do espaço público para execução de obras de edificação e de urbanização sujeitas a qualquer das formas de procedimento de controlo prévio ou dele isentas depende de prévio licenciamento municipal, mediante requerimento a apresentar pelo interessado.
+
+2 - Ao procedimento de licenciamento de ocupação do espaço público são aplicáveis as disposições constantes dos artigos 11.º, 12.º-A e 110.º do RJUE e, subsidiariamente, o Código do Procedimento Administrativo.
+
+###### Artigo 62.º — Pedido de licença de ocupação do espaço público
+
+1 - Para efeitos do disposto no artigo anterior, o pedido de licença de ocupação do espaço público deve ser formulado em requerimento a apresentar pelo interessado de acordo com o disposto no artigo 9.º do presente Regulamento e, sempre que seja possível ao interessado, com a antecedência mínima de 30 dias relativamente ao início das obras.
+
+2 - Para além dos elementos exigidos nos termos do artigo 9.º do presente Regulamento e, se for esse o caso, do n.º 2 do artigo 72.º do presente Regulamento, do requerimento deve também constar:
+
+a) A identificação do tipo da operação urbanística;
+
+b) A identificação da forma de procedimento de controlo prévio a que a obra a executar está sujeita no âmbito do RJUE e do presente Regulamento, ou a indicação expressa de que a obra está isenta de licença ou comunicação prévia;
+
+c) A identificação completa do lote ou da parcela onde se localiza a operação urbanística, com referência aos seguintes elementos:
+
+Freguesia e concelho de localização;
+
+Área;
+
+Confrontações;
+
+Artigo e freguesia da inscrição na matriz predial;
+
+Número e freguesia do registo predial;
+
+Titular ou titulares do direito de propriedade sobre o prédio, no caso de o requerente não ser o proprietário ou não ser o único titular do direito de propriedade;
+
+d) A descrição sumária das obras a executar;
+
+e) A localização e a área total do espaço público cuja ocupação se pretende;
+
+f) O período de tempo, expresso em dias seguidos, pelo qual se pretende proceder à ocupação do espaço público, com a indicação, se for esse o caso, de que aquele período é coincidente com o prazo de execução da obra;
+
+g) Os elementos com que se pretende ocupar o espaço público, com indicação clara do seu tipo (tapumes, redes de protecção, contentores, amassadouros, materiais de construção, depósitos, aparelhos de elevação de materiais de construção, andaimes, veículos ou outros) e, sempre que possível, da sua composição, da sua dimensão, do seu número e da sua finalidade;
+
+h) A identificação do processo administrativo no âmbito do qual foi emitido o alvará de licença ou a documentação que titula a comunicação prévia, com referência aos respectivos número e titular, no caso de o pedido de licença de ocupação do espaço público ser apresentado em momento posterior à emissão daqueles títulos;
+
+i) A fase de execução da operação urbanística a que respeita a ocupação do espaço público, se for esse o caso.
+
+3 - No caso de ocupação do espaço público para a execução de obras sujeitas a licenciamento ou a comunicação prévia, para a execução das obras objecto da licença parcial para construção da estrutura, para a execução dos trabalhos de demolição ou de escavação e contenção periférica, ou para a execução das obras objecto da licença especial para conclusão de obras inacabadas, o requerimento deve ser acompanhado dos documentos instrutórios indicados nas alíneas seguintes, com excepção daqueles que tenham sido apresentados no âmbito do processo administrativo relativo à operação urbanística:
+
+a) Fotocópia dos documentos de identificação pessoal (bilhete de identidade, passaporte, autorização de residência ou documento equivalente nos termos da lei, no caso de pessoa singular; ou certidão do registo comercial e cartão de identificação de pessoa colectiva, no caso de pessoa colectiva) e fiscal do requerente ou apresentante da comunicação prévia;
+
+b) Documentos comprovativos da legitimidade procedimental do requerente ou apresentante da comunicação prévia, nos termos da lei e em conformidade com o disposto no n.º 3 do artigo 13.º do presente Regulamento;
+
+c) Planta de implantação à escala 1:200 ou 1:500 com a área a ocupar devidamente demarcada e cotada;
+
+d) Quando se pretenda ocupar a via pública e tal implique alterações ou interrupções no trânsito, planta de implantação à escala 1:500 com indicação dos sentidos do trânsito existentes na área envolvente da obra e marcação da solução de tráfego proposta;
+
+e) Sempre que a localização e o volume da obra o justifiquem, tendo em conta a segurança de pessoas e bens e a protecção do ambiente, poderá ser exigida a apresentação de projecto do estaleiro a instalar, contendo: memória descritiva e justificativa; planta de localização à escala 1:5 000; planta de implantação à escala 1:200, com indicação da área de influência das gruas, se as houver, dos locais de entrada e saída de viaturas e das zonas de carga e descarga; e planta do estaleiro à escala 1:100 ou 1:200.
+
+4 - Sempre que o pedido de licença de ocupação do espaço público seja apresentado para efeitos do disposto nos n.os 4 e 6 do artigo 83.º do presente Regulamento, poderá ser dispensada, a requerimento do interessado, a apresentação dos documentos instrutórios referidos nas alíneas do número anterior que tenham acompanhado o pedido inicial e se mantenham válidos.
+
+###### Artigo 63.º — Isenção de licenciamento da ocupação do espaço público
+
+Está isenta de licenciamento a ocupação do espaço público que seja necessária à execução de obras promovidas pelo Município de Leiria ou pelas freguesias do concelho de Leiria, salvo se actuarem no âmbito das associações a que pertençam.
+
+###### Artigo 64.º — Condições de ocupação do espaço público
+
+1 - A ocupação do espaço público deve ser feita em cumprimento das normas legais e regulamentares aplicáveis, designadamente as constantes deste Capítulo do presente Regulamento, bem como das condições estabelecidas no acto de licenciamento.
+
+2 - A ocupação do espaço público só é permitida se for imprescindível à execução das obras.
+
+3 - A ocupação do espaço público deve sempre cingir-se à área e ao período de tempo que sejam em absoluto necessários à execução das obras.
+
+4 - Sem prejuízo do disposto no número anterior, a ocupação do espaço público deve sempre ser feita de forma a:
+
+a) Salvaguardar a segurança de pessoas e bens do domínio público ou privado do Município de Leiria;
+
+b) Reduzir ao mínimo os impedimentos à circulação de veículos e peões e à utilização comum dos espaços ocupados;
+
+c) Afectar o ambiente urbano e paisagístico do local apenas no que for indispensável à execução das obras; e
+
+d) Minimizar o risco de danificação do espaço ocupado.
+
+5 - A ocupação do espaço público deve ser sempre sinalizada através dos meios adequados a dar cumprimento ao disposto no número anterior, em especial quando possa perturbar a regularidade e a segurança do trânsito.
+
+6 - Sem prejuízo do disposto nas normas da Secção II deste Capítulo do presente Regulamento, a ocupação integral do passeio da via pública só é permitida, salvo casos excepcionais e devidamente fundamentados, desde que seja construído, em madeira ou noutro material adequado, um passadiço provisório com a largura mínima de 0,70 metros, resguardado por um corrimão colocado à altura de 0,90 metros acima do pavimento e, sempre que se justifique, com protecção aérea, por forma a garantir que a circulação pedonal se faça nas devidas condições de segurança.
+
+7 - As interrupções ao trânsito devem limitar-se ao estritamente necessário à execução das obras, no que respeita quer à sua duração, quer à área da via pública a ocupar, não podendo, senão excepcionalmente, ser ocupadas ambas as faixas de rodagem e devendo o início dos trabalhos ser comunicado por escrito à Câmara Municipal de Leiria com a antecedência mínima de 5 dias.
+
+###### Artigo 65.º — Ocupação da via pública
+
+Sem prejuízo do disposto no artigo anterior, nos casos em que a execução das obras implique a ocupação da via pública e em que tal se justifique por força da localização e da duração dessa ocupação e da dimensão ou da natureza das obras a executar, a Câmara Municipal de Leiria deve:
+
+a) Comunicar à Polícia de Segurança Pública ou à Guarda Nacional Republicana o licenciamento daquela ocupação, informando, designadamente, a respectiva localização e o período de tempo por que se estenderá, bem como, se as houver, as alterações ao trânsito que nela estão implicadas;
+
+b) Publicitar a informação a que se refere a alínea anterior através de edital a afixar nos edifícios-sede do Município de Leiria e da Freguesia de localização das obras e nas instalações do Departamento de Operações Urbanísticas, bem como de anúncio a publicar em dois jornais locais e no sítio do Município de Leiria na Internet.
+
+###### Artigo 66.º — Ocupação abusiva do espaço público
+
+1 - A ocupação do espaço público sem prévio licenciamento municipal ou em desrespeito pelos respectivos condicionalismos constantes das normas legais e regulamentares aplicáveis ou fixados no acto de licenciamento é considerada ocupação abusiva.
+
+2 - Sem prejuízo do disposto nos artigos 87.º e 100.º do presente Regulamento, nos casos previstos no número anterior o Presidente da Câmara Municipal de Leiria determina, mediante despacho, a notificação do infractor para, no prazo de 5 dias, proceder à desocupação do espaço público abusivamente ocupado ou vir requerer o licenciamento da ocupação nos termos do disposto no presente Regulamento, sob pena de execução do acto administrativo ao abrigo do disposto nos artigo 149.º e seguintes do Código do Procedimento Administrativo.
+
+###### Artigo 67.º — Caução pela ocupação do espaço público
+
+1 - Sem prejuízo do disposto no artigo 52.º do presente Regulamento, a ocupação do espaço público fica dependente, sempre que se justifique, da prestação da caução a que se refere o n.º 1 do artigo 45.º do mesmo Regulamento e nos termos previstos nesse artigo.
+
+2 - O montante da caução é fixado com o deferimento do pedido de licença de ocupação do espaço público e determinado em função da localização, da dimensão e da natureza da obra, bem como da área do espaço público a ocupar na execução da mesma, podendo ser aceite o montante proposto pelo titular da operação urbanística.
+
+3 - Nas situações previstas no artigo 72.º do presente Regulamento, é fixada, nos termos dos números anteriores, uma caução por cada fase de execução das obras que implique a ocupação do espaço público, podendo manter-se válida a caução prestada para a ocupação do espaço público durante a primeira fase daquela execução, no caso de a mesma não ter sido accionada e de o respectivo montante permanecer adequado.
+
+4 - A caução é restituída após a confirmação pelos serviços do Departamento de Operações Urbanísticas de que não se verifica qualquer das situações que a mesma se destinava a acautelar, bem como, mediante aquela confirmação, nos casos de caducidade ou de revogação da licença de ocupação do espaço público.
+
+5 - Sem prejuízo do disposto no número anterior, a caução é ainda restituída no caso de substituição do titular do alvará da licença de ocupação do espaço público, nos termos do disposto no artigo 35.º do presente Regulamento.
+
+###### Artigo 68.º — Processo administrativo
+
+O procedimento relativo ao licenciamento de ocupação do espaço público dá lugar à organização de um processo administrativo próprio e distinto do processo relativo ao procedimento de controlo prévio a que esteja sujeita a operação urbanística, devendo, no entanto, ser apensado a este processo, salvo no caso de as obras a executar estarem isentas de licença ou de comunicação prévia.
+
+###### Artigo 69.º — Competências decisórias
+
+1 - Compete à Câmara Municipal de Leiria deliberar quanto aos pedidos de licença de ocupação do espaço público relativos à execução de obras sujeitas a qualquer das formas de procedimento de controlo prévio ou isentas destas.
+
+2 - A Câmara Municipal de Leiria pode delegar no seu Presidente, com faculdade de subdelegação nos vereadores ou nos dirigentes dos serviços municipais, a competência que lhe é atribuída pelo disposto no número anterior.
+
+3 - Compete à Câmara Municipal de Leiria, ou ao seu Presidente, decidir quanto à prorrogação do prazo de ocupação do espaço público a que se refere o artigo 81.º do presente Regulamento, consoante tenha sido aquele órgão ou este seu titular a conceder a licença de ocupação do espaço público.
+
+4 - Compete à Câmara Municipal de Leiria, ou ao seu Presidente, decidir quanto aos pedidos de licença de ocupação do espaço público apresentados ao abrigo do disposto nos n.os 4 e 6 do artigo 83.º do presente Regulamento, consoante tenha sido aquele órgão ou este seu titular a conceder a licença de ocupação do espaço público cuja caducidade se tenha verificado na vigência da ordem de embargo das obras.
+
+5 - Compete à Câmara Municipal de Leiria, ou ao seu Presidente, declarar a caducidade da licença de ocupação do espaço público, em conformidade com o disposto no n.º 4 do artigo 84.º do presente Regulamento, consoante tenha sido aquele órgão ou este seu titular a concedê-la.
+
+6 - Compete ao Presidente da Câmara Municipal de Leiria emitir o alvará de licença de ocupação do espaço público e os respectivos aditamentos, nos termos do disposto nos artigos 76.º e 78.º ambos do presente Regulamento.
+
+7 - Compete à Câmara Municipal de Leiria, ou ao seu Presidente, revogar o acto de licenciamento da ocupação do espaço público, ao abrigo do disposto no artigo 85.º do presente Regulamento, consoante o autor do acto tenha sido aquele órgão ou este seu titular.
+
+###### Artigo 70.º — Decisão quanto ao pedido de licença de ocupação do espaço público
+
+A Câmara Municipal de Leiria ou o seu Presidente, conforme os casos, decide quanto ao pedido de licença de ocupação do espaço público no prazo de 30 dias a contar da apresentação do mesmo, podendo estabelecer condicionalismos ao licenciamento, com vista a garantir o cumprimento das normas legais e regulamentares aplicáveis, designadamente as constantes deste Capítulo do presente Regulamento.
+
+###### Artigo 71.º — Indeferimento do pedido de licença de ocupação do espaço público
+
+Constituem motivos de indeferimento do pedido de licença de ocupação do espaço público:
+
+a) O indeferimento do pedido de licenciamento ou a rejeição da comunicação prévia das obras para cuja execução se pretendia a ocupação do espaço público;
+
+b) A determinação, ao abrigo do disposto no n.º 11 do artigo 11.º do RJUE, de sujeição a licenciamento ou comunicação prévia da operação urbanística tida como isenta de procedimento de controlo prévio aquando do pedido de ocupação do espaço público;
+
+c) A informação desfavorável do serviço municipal responsável pela gestão do trânsito, nos termos do artigo 73.º do presente Regulamento;
+
+d) A violação de disposições legais e regulamentares ou de normas técnicas gerais e especiais aplicáveis, constantes ou não do presente Regulamento;
+
+e) O desrespeito por alguma das condições de ocupação do espaço público previstas no artigo 64.º do presente Regulamento;
+
+f) A existência de outra ocupação, devidamente licenciada para a execução de obras de edificação ou de urbanização e por um período de tempo total ou parcialmente coincidente, de uma área do espaço público situada nas proximidades do local que é objecto do pedido em apreciação, de modo tal que a ocupação pretendida venha a impossibilitar ou reduzir de forma insustentável qualquer utilização mínima cabal do espaço público nesse local;
+
+g) Razões de interesse público devidamente fundamentadas.
+
+###### Artigo 72.º — Execução das obras por fases
+
+1 - Quando o interessado tenha requerido a execução das obras por fases ao abrigo do disposto nos artigos 56.º e 59.º do RJUE, o licenciamento da ocupação do espaço público é coordenado com o procedimento de licenciamento ou de comunicação prévia da operação urbanística.
+
+2 - Para efeitos do disposto no número anterior, o pedido de licença para ocupação do espaço público deve ser apresentado nos termos do artigo 9.º do presente Regulamento e de acordo com as alíneas seguintes consoante sejam aplicáveis as situações nelas previstas:
+
+a) O pedido de licença de ocupação do espaço público deve conter a identificação da fase de execução das obras a que respeita e fazer, por referência à mesma, a indicação dos elementos constantes das alíneas d) a g) do n.º 2 do artigo 62.º do presente Regulamento;
+
+b) Para efeitos do disposto no artigo 56.º do RJUE, o pedido de licença de ocupação do espaço público deve acompanhar o pedido de licença ou a comunicação prévia relativo a cada uma das fases de execução das obras de urbanização;
+
+c) Para efeitos do disposto nos n.os 1 e 3 do artigo 59.º do RJUE, o pedido de licença de ocupação do espaço público deve acompanhar o pedido de aprovação dos projectos das especialidades relativos a cada uma das fases de execução das obras de edificação sujeitas a licenciamento ou a comunicação prévia em que aquela ocupação seja necessária.
+
+3 - Nas situações previstas no presente artigo, o alvará de licença de ocupação do espaço público abrange apenas a primeira das fases de execução das obras que implique a ocupação do espaço público, sendo emitido um aditamento ao alvará para cada uma das fases subsequentes em que seja necessária aquela ocupação.
+
+###### Artigo 73.º — Informação do serviço municipal responsável pela gestão do trânsito
+
+1 - Sempre que a ocupação do espaço público pretendida abranja a ocupação da via pública, nomeadamente quando implique alterações ou interrupções relevantes no trânsito, a respectiva licença deve ser precedida de informação favorável do serviço municipal responsável pela gestão do trânsito.
+
+2 - Sempre que o serviço municipal responsável pela gestão do trânsito preste uma informação desfavorável ao licenciamento da ocupação do espaço público deve a mesma ser devidamente fundamentada e indicar os termos em que pode ser revista, designadamente quais as condições a que o requerente deve dar cumprimento.
+
+###### Artigo 74.º — Deferimento tácito do pedido de licença de ocupação do espaço público
+
+1 - Para efeitos do disposto no n.º 3 do artigo 57.º do RJUE, nas situações em que o requerente se possa prevalecer do disposto no artigo 113.º do mesmo diploma legal no âmbito do procedimento de licenciamento ou de autorização de utilização, considera-se tacitamente deferido, nos termos da lei, o pedido de licença de ocupação do espaço público relativo à execução de tais obras.
+
+2 - A produção do acto tácito de licenciamento da ocupação do espaço público deve ser reconhecida mediante deliberação da Câmara Municipal de Leiria ou despacho do seu Presidente, consoante estivesse conferida àquele órgão ou a este seu titular a competência para conceder a licença ao abrigo do disposto no artigo 69.º do presente Regulamento.
+
+3 - Sem prejuízo do disposto no n.º 1 do presente artigo e no n.º 3 do artigo 57.º do RJUE, a Câmara Municipal de Leiria ou o seu Presidente, conforme os casos, podem, aquando do reconhecimento da produção do acto tácito de licenciamento da ocupação do espaço público e sem prejuízo do regime legal da invalidade dos actos administrativos, alterar as condições propostas pelo requerente quanto à execução das obras, ao abrigo do disposto no n.º 2 do mesmo artigo 57.º e mesmo que tal execução já se tenha iniciado, sempre que se verifique uma das situações que, nos termos do disposto no artigo 71.º do presente Regulamento, poderia fundamentar o indeferimento do pedido de licença de ocupação do espaço público, designadamente por aquelas condições não serem aptas a dar cumprimento às normas legais e regulamentares aplicáveis e desse modo estarem a pôr em causa a segurança de pessoas e bens, a prejudicar a circulação de veículos e peões ou a afectar a salubridade e saúde públicas, a limpeza dos espaços públicos ou o ambiente em geral.
+
+###### Artigo 75.º — Caducidade do acto de licenciamento da ocupação do espaço público
+
+A deliberação camarária ou o despacho de deferimento do pedido de licença de ocupação do espaço público caduca se a emissão do respectivo alvará de licença não for requerida no prazo referido no n.º 1 do artigo 77.º do presente Regulamento.
+
+###### Artigo 76.º — Alvará de licença de ocupação do espaço público
+
+1 - A licença de ocupação do espaço público é titulada por alvará emitido pelo Presidente da Câmara Municipal de Leiria na sequência de requerimento a apresentar pelo interessado nos termos do disposto no artigo 77.º do presente Regulamento.
+
+2 - A emissão do alvará é condição de eficácia da licença de ocupação do espaço público.
+
+3 - O alvará de licença de ocupação do espaço público deve conter a especificação dos seguintes elementos:
+
+a) A identificação do titular da licença de ocupação do espaço público;
+
+b) A identificação do acto administrativo de licenciamento da ocupação do espaço público, com referência aos respectivos autor e data;
+
+c) A identificação da obra para cuja execução foi licenciada a ocupação do espaço público;
+
+d) A localização e a área do espaço público cuja ocupação é objecto da licença;
+
+e) O prazo de ocupação do espaço público;
+
+f) A indicação da fase de execução da obra a que respeita a ocupação do espaço público, se for esse o caso;
+
+g) Os condicionamentos a que fica sujeita a licença.
+
+4 - O alvará de licença de ocupação do espaço público é emitido em simultâneo com a emissão do alvará de licença ou da documentação que titula a comunicação prévia, se for esse o caso, ou, nos restantes casos, no prazo de 30 dias a contar da apresentação do respectivo pedido.
+
+5 - A emissão do alvará de licença de ocupação do espaço público está dependente do pagamento das taxas devidas nos termos do Regulamento para a Cobrança de Taxas em vigor no Concelho de Leiria e da prestação da caução a que haja lugar nos termos do disposto nos artigos 45.º e 67.º do presente Regulamento.
+
+6 - O alvará de licença de ocupação do espaço público deve ser conservado no local da realização das obras e, se for esse o caso, juntamente com o livro de obra a que se refere o artigo 97.º do RJUE, e deve ser exibido aos funcionários municipais sempre que estes o solicitem no decurso de uma acção de fiscalização.
+
+###### Artigo 77.º — Pedido de emissão do alvará de licença de ocupação do espaço público
+
+1 - Para efeitos do disposto no artigo 76.º do presente Regulamento, o pedido de emissão do alvará de licença de ocupação do espaço público deve ser formulado em requerimento a apresentar pelo interessado de acordo com o disposto no artigo 9.º do presente Regulamento e no prazo de um ano a contar da notificação do acto de licenciamento ou de admissão de comunicação prévia.
+
+2 - Para além dos elementos exigidos nos termos do artigo 9.º do presente Regulamento, do requerimento deve também constar a identificação do processo administrativo relativo ao licenciamento da ocupação do espaço público, com referência aos respectivos número e titular.
+
+3 - O pedido de emissão do alvará de licença de ocupação do espaço público deve ser acompanhado de documento comprovativo da prestação da caução a que haja lugar nos termos do disposto nos artigos 45.º e 67.º do presente Regulamento.
+
+4 - O pedido de emissão do alvará de licença de ocupação do espaço público só pode ser indeferido com fundamento numa das seguintes situações:
+
+a) Caducidade, revogação, anulação ou declaração de nulidade da licença de ocupação do espaço público;
+
+b) Falta de pagamento das taxas devidas pela emissão do alvará de licença de ocupação do espaço público;
+
+c) Caducidade, suspensão, anulação ou declaração de nulidade da licença ou da admissão da comunicação prévia das obras de edificação ou de urbanização.
+
+###### Artigo 78.º — Aditamentos ao alvará de licença de ocupação do espaço público
+
+1 - Para efeitos do disposto no n.º 3 do artigo 72.º do presente Regulamento, os aditamentos ao alvará de licença de ocupação do espaço público são emitidos pelo Presidente da Câmara Municipal de Leiria na sequência de requerimento a apresentar pelo interessado nos termos do disposto no artigo 79.º do mesmo Regulamento.
+
+2 - A emissão do aditamento ao alvará de licença de ocupação do espaço público está dependente do pagamento das taxas devidas nos termos do Regulamento para a Cobrança de Taxas em vigor no Concelho de Leiria e, se for esse o caso, da prestação da caução a que haja lugar nos termos do disposto nos artigos 45.º e 66.º do mesmo Regulamento.
+
+3 - Os aditamentos aos alvarás de licença de ocupação do espaço público são emitidos em simultâneo com a emissão do aditamento ao alvará de licença das obras de edificação ou de urbanização.
+
+4 - Os aditamentos ao alvará de licença de ocupação do espaço público devem conter a especificação dos elementos previstos no n.º 4 do artigo 76.º do presente Regulamento feita por referência à fase de execução da obra.
+
+###### Artigo 79.º — Pedido de emissão de aditamento ao alvará de licença de ocupação do espaço público
+
+1 - Para efeitos do disposto no artigo anterior, o pedido de emissão de aditamento ao alvará de licença de ocupação do espaço público deve ser formulado em requerimento a apresentar pelo interessado de acordo com o disposto no artigo 9.º do mesmo Regulamento e em simultâneo com o pedido de emissão de aditamento ao alvará de licença e para efeitos do disposto no n.º 5 do artigo 56.º ou do n.º 6 do artigo 59.º ambos do RJUE.
+
+2 - Para além dos elementos exigidos nos termos do artigo 9.º do presente Regulamento, do requerimento deve também constar:
+
+a) A identificação do processo administrativo relativo ao licenciamento da ocupação do espaço público, com referência aos respectivos número e titular;
+
+b) A identificação da fase de execução da operação urbanística a que respeita a ocupação do espaço público.
+
+3 - O pedido de emissão de aditamento ao alvará de licença de ocupação do espaço público deve ser acompanhado do documento comprovativo da prestação da caução a que haja lugar nos termos do disposto nos artigos 45.º e 67.º do presente Regulamento, no caso de não se manter válida a caução prestada para a ocupação do espaço público durante a primeira fase de execução das obras.
+
+4 - O pedido de emissão de aditamento ao alvará de licença de ocupação do espaço público só pode ser indeferido com fundamento numa das seguintes situações:
+
+a) Caducidade, revogação, anulação ou declaração de nulidade da licença de ocupação do espaço público;
+
+b) Falta de pagamento das taxas referidas no número anterior;
+
+c) Falta de prestação da caução referida no número anterior.
+
+###### Artigo 80.º — Prazo e eficácia da licença de ocupação do espaço público
+
+1 - A licença de ocupação do espaço público é concedida a título precário pelo prazo indicado no respectivo pedido ou fixado ao abrigo do disposto nos artigos 41.º e 42.º do presente Regulamento.
+
+2 - O prazo pelo qual foi licenciada a ocupação do espaço público inicia-se na data da emissão do respectivo alvará.
+
+###### Artigo 81.º — Prorrogação do prazo da licença de ocupação do espaço público
+
+1 - Sem prejuízo do disposto no n.º 3 do artigo 69.º e no n.º 3 do artigo 83.º ambos do presente Regulamento, o prazo da licença de ocupação do espaço público pode ser prorrogado, mediante, conforme os casos, deliberação da Câmara Municipal de Leiria ou despacho do seu Presidente a proferir na sequência de requerimento a apresentar pelo interessado nos termos do disposto no artigo 82.º do mesmo Regulamento, nos mesmos moldes em que também seja prorrogado o prazo de execução das obras fixado na licença ou na admissão da comunicação prévia, ao abrigo do disposto nos artigos 53.º e 58.º do RJUE consoante se trate, respectivamente, de obras de urbanização ou de edificação.
+
+2 - A Câmara Municipal de Leiria ou o seu Presidente, conforme os casos, decidem quanto ao pedido de prorrogação do prazo da licença de ocupação do espaço público no prazo de 30 dias a contar da apresentação do mesmo.
+
+3 - A prorrogação do prazo da licença de ocupação do espaço público é averbada no respectivo alvará de licença.
+
+###### Artigo 82.º — Pedido de prorrogação do prazo da licença de ocupação do espaço público
+
+1 - Para efeitos do disposto no artigo anterior, o pedido de prorrogação do prazo da licença de ocupação do espaço público deve ser formulado em requerimento a apresentar pelo interessado de acordo com o disposto no artigo 9.º do presente Regulamento e dentro daquele prazo ou, sempre que seja possível ao interessado, com a antecedência mínima de 30 dias relativamente ao fim do mesmo.
+
+2 - Para além dos elementos exigidos nos termos do artigo 9.º do presente Regulamento, do requerimento deve também constar:
+
+a) A identificação do processo administrativo relativo ao licenciamento da ocupação do espaço público, com referência aos respectivos número e titular;
+
+b) A justificação para a necessidade de ocupação do espaço público para além do prazo inicialmente fixado;
+
+c) O período de tempo pelo qual se pretende a prorrogação do prazo da licença de ocupação do espaço público.
+
+###### Artigo 83.º — Ocupação do espaço público durante o embargo das obras
+
+1 - Sem prejuízo do disposto no artigo 103.º do RJUE, sempre que seja ordenado o embargo das obras para cuja execução tenha sido licenciada a ocupação do espaço público, esta licença permanece válida e eficaz até ao fim do prazo por que foi concedida ou sua prorrogação, podendo o respectivo titular manter aquela ocupação nos termos em que foi licenciada.
+
+2 - A Câmara Municipal de Leiria, ou o seu Presidente, pode, em casos excepcionais e devidamente fundamentados, determinar a remoção de algum ou de alguns dos elementos com que o titular da operação urbanística proceda à ocupação do espaço público.
+
+3 - Não será concedida a prorrogação do prazo da licença de ocupação do espaço público que vá terminar durante a vigência da ordem de embargo das obras para cuja execução aquela ocupação tenha sido licenciada.
+
+4 - Em caso de caducidade da licença de ocupação do espaço público durante a vigência da ordem de embargo, deve o interessado apresentar novo pedido de licença de ocupação do espaço público em conformidade com o disposto no artigo 62.º do presente Regulamento.
+
+5 - Em caso de indeferimento do novo pedido de licença de ocupação do espaço público formulado ao abrigo do número anterior, é determinada ao titular das obras embargadas a desocupação do espaço público, no prazo de 10 dias a contar da notificação que lhe seja dirigida para o efeito, sob pena de execução do acto administrativo nos termos do disposto nos artigos 149.º e seguintes do Código do Procedimento Administrativo.
+
+6 - Verificada a situação prevista no número anterior e caso tenha entretanto caducado a ordem de embargo nos termos do disposto no artigo 104.º do RJUE, deve o titular das obras formular novo pedido de licença de ocupação do espaço público, a apresentar em conformidade com o disposto no artigo 62.º do presente Regulamento.
+
+7 - A Câmara Municipal de Leiria ou o seu Presidente, conforme ao casos, decidem quanto aos pedidos de licença de ocupação do espaço público a que se referem os n.os 4 e 6 do presente artigo, no prazo de 30 dias a contar da sua apresentação devidamente instruídos.
+
+8 - O deferimento de qualquer dos pedidos de licença de ocupação do espaço público apresentados ao abrigo do disposto no presente artigo dá lugar à emissão de novo alvará.
+
+###### Artigo 84.º — Caducidade da licença de ocupação do espaço público
+
+1 - A licença de ocupação do espaço público caduca com o decurso do prazo por que for concedida e caso não seja requerida a sua prorrogação nos termos do presente Regulamento.
+
+2 - A licença de ocupação do espaço público caduca igualmente com a caducidade da licença ou da admissão da comunicação prévia relativa à obra de edificação ou de urbanização nos termos do disposto no artigo 71.º do RJUE.
+
+3 - Verificada a caducidade da licença de ocupação do espaço público, o titular da operação urbanística deve proceder à desocupação do espaço público no prazo de 5 dias a contar da notificação que lhe seja dirigida para o efeito.
+
+4 - A caducidade da licença de ocupação do espaço público decorrente da caducidade da licença ou da admissão da comunicação prévia por força do disposto na alínea d) do n.º 3 do artigo 71.º do RJUE é declarada pela Câmara Municipal de Leiria ou pelo seu Presidente, conforme os casos, com prévia audiência do interessado, sendo simultaneamente determinada ao titular da operação urbanística a desocupação do espaço público, em prazo a fixar até ao máximo de 10 dias a contar da notificação que lhe seja dirigida para o efeito, sob pena de execução do acto administrativo nos termos do disposto nos artigos 149.º e seguintes do Código do Procedimento Administrativo.
+
+###### Artigo 85.º — Revogação da licença de ocupação do espaço público
+
+1 - A licença de ocupação do espaço público pode ser revogada sempre que:
+
+a) O imponham excepcionais razões de interesse público devidamente fundamentadas;
+
+b) O respectivo titular não dê cumprimento às normas legais e regulamentares a que está sujeito e ou às condições estabelecidas no acto de licenciamento, sem prejuízo da eventual instauração de processo de contra-ordenação.
+
+2 - Sem prejuízo do disposto no número anterior, a licença de ocupação do espaço público é revogada sempre que, ao abrigo do disposto no artigo 73.º do RJUE, o tiver sido a licença ou a admissão da comunicação prévia para a realização das obras.
+
+3 - Com a revogação da licença de ocupação do espaço público, é determinada ao titular da operação urbanística a desocupação do espaço público, em prazo a fixar até ao máximo de 10 dias a contar da notificação que lhe seja dirigida para o efeito, sob pena de execução do acto administrativo nos termos do disposto nos artigos 149.º e seguintes do Código do Procedimento Administrativo e sem prejuízo do disposto no artigo 100.º do presente Regulamento.
+
+###### Artigo 86.º — Cassação do alvará de licença de ocupação do espaço público
+
+1 - O alvará de licença de ocupação do espaço público é cassado mediante despacho do Presidente da Câmara Municipal de Leiria sempre que:
+
+a) A licença caduque ao abrigo do disposto no artigo 84.º do presente Regulamento;
+
+b) O acto de licenciamento seja anulado, declarado nulo ou revogado ao abrigo do disposto no artigo 85.º do presente Regulamento.
+
+2 - A cassação do alvará de licença de ocupação do espaço público implica a sua apreensão pelos serviços do Departamento de Operações Urbanísticas, após notificação ao respectivo titular para que o entregue no prazo de 5 dias, sob pena de a Câmara Municipal de Leiria determinar a entrega do alvará com a cominação da prática do crime de desobediência previsto e punido pelo disposto no artigo 348.º do Código Penal e sem prejuízo do disposto no artigo 100.º do presente Regulamento.
+
+3 - Aquando da entrega do alvará cassado é lavrado em duplicado um auto de apreensão, devendo um dos exemplares ser junto ao processo do licenciamento da ocupação do espaço público e o outro ser remetido ao titular da operação urbanística.
+
+#### SECÇÃO IV — Conclusão da execução das obras
+
+###### Artigo 87.º — Obrigações gerais
+
+1 - Para efeitos do disposto no artigo 86.º do RJUE, concluída a execução das obras o titular da operação urbanística deve, no prazo de 10 dias, proceder à desocupação do espaço público, ao levantamento do estaleiro, se o houver, e à limpeza do local das obras.
+
+2 - O titular da operação urbanística está também obrigado a proceder à reparação dos danos ocasionados, durante a execução das obras, em bens do domínio público ou privado do Município de Leiria, bem como, se for caso disso, à reposição da situação do espaço público anterior àquela execução, devendo dar início aos trabalhos no prazo de 10 dias ou no prazo que lhe for fixado pela Câmara Municipal de Leiria ou pelo seu Presidente.
+
+3 - Os prazos referidos nos números anteriores são contados da data da conclusão da execução das obras, mesmo que ainda não tenha decorrido o prazo que para o efeito fora estabelecido ou, se for esse o caso, o prazo da licença de ocupação do espaço público.
+
+4 - Os prazos fixados para cumprimento das obrigações previstas nos n.os 1 e 2 do presente artigo podem ser prorrogados por uma única vez e por período não superior a duas vezes o prazo inicial, mediante despacho do Presidente da Câmara Municipal de Leiria a requerimento fundamentado a apresentar pelo interessado dentro daquele prazo ou, sempre que lhe seja possível, com a antecedência mínima de 5 dias relativamente ao fim do mesmo.
+
+5 - Sem prejuízo do disposto nos artigos 43.º e 100.º do presente Regulamento, sempre que se verifique o incumprimento das obrigações impostas ao titular da operação urbanística, a Câmara Municipal de Leiria, ou o seu Presidente, promove, a expensas do infractor, a realização dos trabalhos em falta, designadamente os destinados à reparação dos danos e ou à reposição da situação do espaço público anterior à execução das obras, podendo, para o efeito, accionar a caução a que se referem os artigos 45.º e 89.º do mesmo Regulamento.
+
+###### Artigo 88.º — Remoção dos aparelhos de elevação de materiais de construção
+
+1 - Concluídos os trabalhos que, na execução das obras, impliquem a utilização de aparelhos de elevação de materiais de construção, fica o empreiteiro obrigado a, no prazo de 10 dias, retirar tais aparelhos do local da obra e a colocá-los em estaleiro adequado.
+
+2 - O prazo previsto no número anterior pode ser prorrogado por uma única vez e por período não superior a duas vezes o prazo inicial, mediante despacho do Presidente da Câmara Municipal de Leiria a requerimento fundamentado a apresentar pelo interessado dentro daquele prazo ou, sempre que lhe seja possível, com a antecedência mínima de 5 dias relativamente ao fim do mesmo.
+
+3 - Sem prejuízo do disposto nos artigos 43.º e 100.º do presente Regulamento, sempre que se verifique o incumprimento da obrigação prevista no n.º 1 a Câmara Municipal de Leiria, ou o seu Presidente, pode promover, a expensas do titular da operação urbanística, a remoção dos aparelhos de elevação de materiais de construção, podendo, para o efeito, accionar a caução a que se referem os artigos 45.º e 89.º do mesmo Regulamento.
+
+###### Artigo 89.º — Caução pela conclusão da execução das obras
+
+1 - Para garantia do cumprimento das obrigações previstas na presente Secção deste Regulamento, a Câmara Municipal de Leiria, ou o seu Presidente, pode exigir a prestação da caução a que se refere o n.º 2 do artigo 45.º do mesmo Regulamento.
+
+2 - A caução deve ser prestada aquando do levantamento do alvará de licença, no caso de operações urbanísticas sujeitas a licenciamento, ou no prazo que para o efeito seja fixado, nos restantes casos.
+
+3 - O montante da caução é fixado com o deferimento do pedido de licenciamento ou com a admissão da comunicação prévia, consoante as operações urbanísticas estejam sujeitas, respectivamente, a licenciamento ou comunicação prévia.
+
+4 - O montante da caução é determinado em função da localização, da dimensão e da natureza da obra, bem como do impacte da mesma nas infra-estruturas existentes, podendo ser aceite o montante proposto pelo titular da operação urbanística.
+
+5 - A caução é restituída após a confirmação pelos serviços do Departamento de Operações Urbanísticas de que foi dado devido cumprimento às obrigações cuja satisfação a mesma se destinava a acautelar.
+
+6 - Em caso de substituição do requerente ou apresentante da comunicação prévia, ou do titular do alvará de licença ou do apresentante da comunicação prévia, a caução deve ser prestada novamente, mantendo-se válida a caução anteriormente prestada até ao respectivo cancelamento ou restituição na sequência do averbamento daquela substituição.
+
+7 - Nas situações previstas no número anterior e sem prejuízo do devido cumprimento das normas legais e regulamentares aplicáveis, a nova caução pode ser prestada por meio diverso daquele por que fora prestada a caução anterior.
+
+###### Artigo 90.º — Comunicação da utilização da obra
+
+Para efeitos do disposto no n.º 5 do artigo 113.º do RJUE, o titular da operação urbanística deve comunicar à Câmara Municipal de Leiria a utilização da obra no prazo máximo de cinco dias a contar da produção do acto tácito.
+
+###### Artigo 91.º — Despejo administrativo
+
+1 - Para efeitos do disposto no n.º 4 do artigo 92.º do RJUE, o despejo sumário será determinado sem prévia audiência dos interessados ao abrigo do disposto na alínea a) do n.º 1 do artigo 103.º do Código do Procedimento Administrativo, sempre que deva executar-se imediatamente por haver risco iminente de desmoronamento ou grave perigo para a saúde pública.
+
+2 - A deliberação que ordenar o despejo nos termos do disposto no número anterior deve ser precedida de informação técnica elaborada pelos serviços municipais competentes na qual constem, de forma expressa, os fundamentos de facto para o risco iminente de desmoronamento ou para o grave perigo para a saúde pública.
+
+### CAPÍTULO V — Tutela da legalidade urbanística
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 92.º — Reposição da legalidade urbanística
+
+Com vista à reposição da legalidade urbanística e designadamente para efeitos do disposto no n.º 2 do artigo 106.º do RJUE, verificada que seja a existência de uma situação de incumprimento das normas legais e regulamentares aplicáveis à operação urbanística, o Presidente da Câmara Municipal de Leiria determina a notificação do titular da mesma ou de quaisquer direitos que confiram a faculdade de a realizar para apresentar, em prazo a fixar até ao máximo de 45 dias, os elementos e documentos necessários ao licenciamento ou à admissão da comunicação prévia das obras ou trabalhos ou à execução dos trabalhos de correcção ou alteração que sejam exigíveis em função da operação urbanística e da forma de procedimento de controlo prévio a que esteja sujeita.
+
+###### Artigo 93.º — Embargo
+
+1 - Por ser uma decisão com carácter urgente e destinada a evitar o agravamento da situação de ilegalidade urbanística e prejuízos irreparáveis para o interesse público, o despacho que determinar o embargo das obras ou dos trabalhos não será precedido de audiência dos interessados, ao abrigo do disposto na alínea a) do n.º 1 do artigo 103.º do Código do Procedimento Administrativo.
+
+2 - A natureza urgente do despacho que ordenar o embargo deve resultar claramente dos respectivos fundamentos de facto e de direito.
+
+3 - Os serviços do Departamento de Operações Urbanísticas devem dar cumprimento ao despacho que ordenar o embargo com a maior brevidade possível, cabendo aos respectivos funcionários, sempre que não procedam ao embargo no prazo de cinco dias, informar o Presidente da Câmara Municipal de Leiria, por escrito e de forma circunstanciada, quanto aos motivos determinantes de tal situação.
+
+4 - O embargo produz efeitos perante o empreiteiro, ainda que este não seja o titular do alvará de licença ou o apresentante da comunicação prévia.
+
+5 - A caducidade, a revogação ou a declaração de nulidade da ordem de embargo deve ser comunicada ao titular da operação urbanística.
+
+###### Artigo 94.º — Notificação do despacho de embargo
+
+1 - Para efeitos do disposto no n.º 2 do artigo 102.º do RJUE, a notificação do despacho que determinou o embargo das obras ou dos trabalhos deve obedecer ao estipulado nas normas do presente artigo.
+
+2 - A notificação do despacho de embargo que obriga à suspensão dos trabalhos deve ser feita pessoalmente e no local da obra ao director técnico da obra, bem como ao titular do alvará de licença ou apresentante da comunicação prévia ou a quem se encontre a executar a obra sem prejuízo do disposto nos n.os 4 e 5 do presente artigo.
+
+3 - Qualquer das notificações referidas no número anterior é suficiente para obrigar à suspensão dos trabalhos.
+
+4 - A notificação do despacho de embargo a que se refere o n.º 2 do presente artigo será feita por via postal, sempre que previamente não tenha sido possível a notificação pessoal em três deslocações ao local da obra, por aí não se encontrar nem o director técnico da obra nem o titular do alvará de licença ou apresentante da comunicação prévia, e os funcionários municipais não tenham igualmente procedido àquela notificação no domicílio pessoal ou profissional dos mesmos, ou em qualquer outro local, dentro do prazo de 10 dias a contar da data daquele despacho.
+
+5 - Sempre que a notificação do despacho de embargo a que se refere o n.º 2 do presente artigo seja feita por via postal ao abrigo do disposto no número anterior, deve constar da mesma a convocatória do respectivo destinatário para se apresentar nos serviços do Departamento de Operações Urbanísticas, a fim de ser lavrado o auto de embargo.
+
+6 - Sempre que o notificado do despacho de embargo não dê cumprimento à convocatória referida no número anterior, a Câmara Municipal de Leiria determinará a sua comparência com a cominação da prática do crime de desobediência previsto e punido pelo disposto no artigo 348.º do Código Penal, sem prejuízo do disposto no artigo 100.º do presente Regulamento.
+
+7 - Após a notificação a que se refere o n.º 2 do presente artigo, o despacho de embargo é notificado por via postal ao director técnico da obra ou ao titular do alvará de licença ou apresentante da comunicação prévia consoante aquele cuja notificação tenha obrigado à suspensão dos trabalhos.
+
+8 - Nas situações previstas no número anterior, sempre que o despacho de embargo tenha sido primeiramente notificado ao director técnico da obra, tal notificação ao titular do alvará de licença ou apresentante de comunicação prévia deve ser feita em simultâneo com a notificação do auto de embargo, em cumprimento do disposto no n.º 6 do artigo 102.º do RJUE e no artigo seguinte.
+
+9 - A notificação ao proprietário do imóvel no qual estejam a ser executadas as obras deve dar cumprimento ao disposto no número seguinte e ser também dirigida a todas as pessoas jurídicas que sejam, relativamente ao mesmo imóvel, titulares de quaisquer direitos que lhes confiram a faculdade de realizar a operação urbanística em causa.
+
+10 - Sem prejuízo do disposto no número seguinte, a notificação ao proprietário do imóvel no qual estejam a ser executadas as obras deve ser feita pessoalmente, por via postal ou através de edital a afixar e a publicar nos termos do disposto nos n.os 1 e 2 do artigo 91.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), conforme o que for adequado ou possível em cada caso concreto.
+
+11 - Sem prejuízo do disposto no n.º 6 do artigo 102.º do RJUE e n.os 8 e 9 do presente artigo, nos casos em que não tenha sido emitido o alvará de licença ou a documentação que titula a comunicação prévia a notificação ao proprietário do imóvel no qual estejam a ser executadas as obras é obrigatória e determina a suspensão dos trabalhos, devendo ser feita nos termos previstos nos n.os 2 a 6 do presente artigo.
+
+12 - Para efeitos do disposto no presente artigo e nos n.os 2, 6 e 7 do artigo 102.º do RJUE, as notificações por via postal do despacho de embargo são feitas através de carta registada com aviso de recepção e de modo a que este seja assinado pelo destinatário das mesmas ou pelo respectivo representante legal, excepto nas situações previstas no número seguinte.
+
+13 - Para efeitos do disposto no n.º 8 do artigo 102.º e no n.º 3 do artigo 103.º ambos do RJUE, a notificação do despacho de embargo à conservatória do registo predial e às entidades responsáveis pelo fornecimento de energia eléctrica, de água e de gás às obras embargadas deve, sempre que possível de acordo com o funcionamento dos serviços municipais, ser feita no dia útil seguinte àquele em que for lavrado o auto de embargo e através de carta registada com aviso de recepção.
+
+###### Artigo 95.º — Auto de embargo
+
+1 - Para efeitos do disposto no n.º 3 do artigo 102.º do RJUE, o auto de embargo é lavrado nos locais referidos nas alíneas seguintes consoante sejam aplicáveis os casos nelas previstos:
+
+a) No local da obra, se aí tiver sido efectuada a notificação do despacho de embargo;
+
+b) No domicílio pessoal ou profissional do notificado, se aí tiver sido efectuada a notificação do despacho de embargo;
+
+c) Nos serviços do Departamento de Operações Urbanísticas, se a notificação do despacho de embargo tiver sido feita noutro local que não o da obra ou o domicílio pessoal ou profissional do notificado;
+
+d) Nos serviços do Departamento de Operações Urbanísticas, se a notificação do despacho de embargo tiver sido feita por via postal nos termos do disposto nos n.os 4 e 5 do artigo anterior.
+
+2 - Nas situações previstas nas alíneas b) e c) do número anterior, os funcionários municipais devem deslocar-se ao local da obra, no dia da notificação do despacho de embargo ou, se tal não for possível, no dia seguinte ao conhecimento de que a mesma foi efectuada, para prestar informação quanto ao estado em que a obra se encontra, a fim de que tais elementos possam constar do auto de embargo.
+
+3 - Para efeitos do disposto no n.º 1 do presente artigo e nos n.os 3 e 4 do artigo 102.º do RJUE, considera-se notificado aquele cuja notificação do despacho de embargo obrigou à suspensão dos trabalhos.
+
+4 - A notificação do auto de embargo ao proprietário do imóvel no qual estejam a ser executadas as obras deve dar cumprimento ao disposto no número seguinte e ser também dirigida a todas as pessoas jurídicas que sejam, relativamente ao mesmo imóvel, titulares de quaisquer direitos que lhes confiram a faculdade de realizar a operação urbanística em causa.
+
+5 - Sem prejuízo do disposto no artigo anterior, as notificações do auto de embargo previstas nos n.os 6 e 7 do artigo 102.º do RJUE são feitas por via postal, através de carta registada com aviso de recepção e de modo a que este seja assinado pelo destinatário das mesmas ou pelo respectivo representante legal.
+
+6 - Para efeitos do disposto no número anterior, a notificação ao proprietário do imóvel no qual estejam a ser executadas as obras pode ser feita através de edital a afixar e a publicar nos termos do disposto nos n.os 1 e 2 do artigo 91.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), sempre que a notificação por via postal não se mostre possível.
+
+###### Artigo 96.º — Execução coerciva da ordem de embargo
+
+Para efeitos do disposto no n.º 4 do artigo 107.º do RJUE, a selagem do estaleiro pode ser feita de acordo com as normas constantes do [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro.
+
+###### Artigo 97.º — Demolição da obra e reposição do terreno
+
+1 - Para efeitos do disposto no n.º 1 do artigo 106.º do RJUE, o despacho que determinar a demolição da obra e ou a reposição do terreno deve indicar de forma expressa quais os trabalhos a realizar pelo respectivo destinatário.
+
+2 - Para efeitos do disposto no n.º 3 do artigo 106.º do RJUE, a audiência dos interessados que antecede a ordem de demolição e ou de reposição do terreno deve ser feita por escrito, excepto se for determinada a audiência oral ao abrigo do disposto no n.º 2 do artigo 100.º e no artigo 102.º ambos do Código do Procedimento Administrativo.
+
+### CAPÍTULO VI — Fiscalização
+
+#### SECÇÃO II — Fiscalização
+
+###### Artigo 98.º — Acções de fiscalização administrativa
+
+1 - Para efeitos do disposto no artigo 93.º do RJUE, os funcionários municipais responsáveis pela fiscalização de operações urbanísticas devem:
+
+a) Levar a efeito as acções de fiscalização administrativa necessárias a verificar e a garantir o cumprimento das normas legais e regulamentares relativas ao regime jurídico da urbanização e da edificação, nomeadamente as previstas no n.º 3 do presente artigo;
+
+b) Cumprir as determinações neste âmbito emanadas dos respectivos superiores hierárquicos e do Presidente da Câmara Municipal de Leiria.
+
+2 - Os trabalhadores municipais responsáveis pela fiscalização de operações urbanísticas devem prestar informação escrita quanto às verificações feitas nas deslocações ao local da operação urbanística.
+
+3 - Sem prejuízo do disposto nos artigos 95.º e 96.º do RJUE, constituem acções de fiscalização no âmbito do presente Regulamento:
+
+a) Verificar a existência, quando devida, de alvará de:
+
+Licença ou autorização da operação urbanística;
+
+Licença parcial para construção da estrutura;
+
+Permissão de execução de trabalhos de demolição e de escavação ou contenção periférica;
+
+Licença especial para conclusão de obras inacabadas;
+
+Licença de ocupação do espaço público;
+
+b) Verificar, ainda, a existência da documentação que titula a comunicação prévia, nos termos do disposto no n.º 2 do artigo 74.º do RJUE e do n.º 6 do artigo 6.º do presente Regulamento;
+
+c) Verificar a existência, no local da realização das obras e quando exigível, de:
+
+Avisos constantes da [Portaria n.º 216-F/2008](https://diariodarepublica.pt/dr/detalhe/portaria/216-f-2008-243891), de 03 de Março;
+
+## Livro de obra;
+
+Alvará de licença de ocupação do espaço público;
+
+d) Verificar a conformidade da execução da obra com os projectos aprovados e prestar informação escrita quanto ao verificado, designadamente quanto à existência de alterações sujeitas a licenciamento ou a comunicação prévia;
+
+e) Verificar o cumprimento dos prazos fixados para a conclusão das obras ou dos trabalhos ou para a ocupação do espaço público;
+
+f) Verificar a existência de qualquer comportamento susceptível de integrar a prática de uma contra-ordenação prevista do RJUE ou no presente Regulamento e, se for esse o caso, elaborar a competente participação para efeitos de processo de contra-ordenação;
+
+g) Prestar informação quanto ao verificado no local de realização da operação urbanística para efeitos da adopção das medidas de tutela da legalidade urbanística previstas no RJUE;
+
+h) Verificar os registos obrigatórios no livro de obra;
+
+i) Registar no livro de obra as acções de fiscalização e as restantes ocorrências em que tal registo se justifique;
+
+j) Verificar o cumprimento das condições de ocupação do espaço público;
+
+k) Acompanhar os despejos administrativos decretados ao abrigo do disposto nos artigos 92.º e 109.º do RJUE;
+
+l) Verificar o cumprimento das medidas de tutela da legalidade urbanística determinadas para a operação urbanística;
+
+m) Proceder à notificação do despacho de embargo e à elaboração do respectivo auto, nos termos do disposto no RJUE e no presente Regulamento;
+
+n) Acompanhar a demolição de obras e ou a reposição do terreno, sempre que tais medidas tenham sido decretadas ao abrigo do disposto no artigo 106.º do RJUE;
+
+o) Verificar o cumprimento das normas legais e regulamentares relativas à execução das obras e dos trabalhos, designadamente as constantes das Secções I, II e IV do Capítulo IV do presente Regulamento, e prestar informação quanto ao verificado para efeitos da adopção das medidas necessárias a garantir aquele cumprimento;
+
+p) Verificar a conformidade da utilização dada à edificação com o uso fixado na autorização de utilização;
+
+q) Dar indicações ao titular da operação urbanística e ou ao director técnico da obra e prestar a correspondente informação quanto ao cumprimento dessas indicações e das obrigações para eles decorrentes do RJUE e do presente Regulamento ou impostas por acto administrativo;
+
+r) Prestar informação quanto à existência de achados arqueológicos;
+
+s) Prestar qualquer informação relativa à operação urbanística que se mostre relevante para a aplicação das normas do RJUE e do presente Regulamento.
+
+4 - As acções de fiscalização administrativa devem ser desenvolvidas por equipas constituídas por pelo menos dois funcionários municipais responsáveis pela fiscalização de operações urbanísticas.
+
+###### Artigo 99.º — Queixas e denúncias particulares
+
+1 - Sem prejuízo do disposto na legislação especial aplicável, as queixas e denúncias particulares por violação das normas legais e regulamentares relativas ao regime jurídico da urbanização e da edificação devem ser apresentadas por escrito, ser dirigidas ao Presidente da Câmara Municipal de Leiria e conter os seguintes elementos:
+
+a) A identificação completa do queixoso ou denunciante, pela indicação do nome, do estado civil, da residência e dos números dos respectivos documentos de identificação pessoal e fiscal;
+
+b) A exposição dos factos denunciados de forma clara e sucinta;
+
+c) A data;
+
+d) A assinatura do queixoso ou denunciante.
+
+2 - As queixas e denúncias particulares devem ser acompanhadas de:
+
+a) Fotocópias dos documentos de identificação pessoal e fiscal do queixoso ou denunciante;
+
+b) Fotografias, plantas de localização ou quaisquer outros documentos que o queixoso ou denunciante considere relevantes para a correcta compreensão da sua exposição.
+
+3 - Sem prejuízo do disposto na legislação específica aplicável, designadamente em sede de procedimento de contra-ordenação e de procedimento disciplinar, com a queixa ou denúncia particular tem início o procedimento administrativo destinado ao apuramento dos factos nela expostos e à adopção das medidas adequadas à resolução da situação apresentada e que tramitará através de um processo administrativo próprio, o qual, se for esse o caso, pode ser anexado ao processo administrativo relativo à operação urbanística em causa.
+
+4 - O queixoso ou denunciante deve ser notificado da decisão tomada no âmbito do procedimento administrativo referido no número anterior.
+
+5 - São liminarmente rejeitadas as queixas ou denúncias não identificadas ou cujo pedido seja ininteligível.
+
+#### SECÇÃO III — Contra-ordenações e coimas
+
+###### Artigo 100.º — Contra-ordenações e coimas
+
+1 - Sem prejuízo do disposto no artigo 98.º do RJUE, são puníveis como contra-ordenação:
+
+a) A falta, no local da realização da operação urbanística e durante a execução da mesma, da documentação que titula a comunicação prévia;
+
+b) A execução de trabalhos de demolição ou de escavação e contenção periférica sem o respectivo alvará;
+
+c) A ocupação do espaço público para execução de obras de edificação e de urbanização sem o alvará da respectiva licença;
+
+d) A não entrega do alvará de licença, da documentação que titula a comunicação prévia ou do alvará de licença de ocupação do espaço público cassados dentro do prazo estabelecido para o efeito;
+
+e) A ocupação do espaço público para a execução de obras de edificação e de urbanização em desconformidade com as condições estabelecidas no acto de licenciamento;
+
+f) A ocupação do espaço público para a execução de obras de edificação e de urbanização para além do prazo fixado para o efeito e respectiva prorrogação;
+
+g) A falta do alvará de licença de ocupação do espaço público no local de realização das obras;
+
+h) xa não desocupação do espaço público dentro do prazo fixado para o efeito, no caso de revogação da respectiva licença;
+
+i) A ausência de requerimento a solicitar o averbamento da substituição do titular da licença de ocupação do espaço público, do titular do alvará de licença parcial para construção da estrutura, do titular do alvará de permissão de execução de trabalhos de demolição ou de escavação e contenção periférica ou do empreiteiro;
+
+j) O desrespeito por parte do titular da operação urbanística das obrigações para si decorrentes do disposto nas alíneas d) a f) do artigo 26.º do presente Regulamento;
+
+l) O desrespeito por parte do director técnico da obra das obrigações para si decorrentes do disposto nas alíneas d) e e) do artigo 27.º e na alínea d) do artigo 49.º ambos do presente Regulamento;
+
+m) A não comunicação do início dos trabalhos ou da utilização da obra para efeitos do disposto no n.º 5 do artigo 113.º do RJUE dentro dos prazos fixados, respectivamente, nos artigos 48.º e 90.º do presente Regulamento;
+
+n) A não manutenção dos lotes ou das parcelas não ocupados com obras de construção em perfeito estado de limpeza e salubridade nos termos do disposto no n.º 3 do artigo 52.º do presente Regulamento;
+
+o) O incumprimento das obrigações de limpeza e arrumação do local de execução das obras nos termos do disposto no artigo 53.º do presente Regulamento;
+
+p) A não colocação de tapumes a vedar a área abrangida pelas obras, ou a sua colocação em desrespeito pelo disposto nos n.os 1, 2, 4 e 5 do artigo 54.º do presente Regulamento;
+
+q) A falta de contentores ou de amassadouros, ou a sua colocação ou utilização em violação do disposto nos n.os 1 e 2 do artigo 55.º do presente Regulamento;
+
+r) O depósito ou o lançamento de entulhos e outros resíduos provenientes das obras em violação do disposto nos artigos 56.º e 57.º do presente Regulamento;
+
+s) A não desocupação do espaço público ou o não levantamento do estaleiro nos termos do disposto no n.º 1 do artigo 87.º do presente Regulamento;
+
+t) A não reparação dos danos ocasionados, durante a execução das obras, em bens do domínio público ou privado do Município de Leiria, ou a não reposição da situação do espaço público anterior àquela execução, nos termos do disposto no n.º 2 do artigo 87.º do presente Regulamento;
+
+u) A colocação ou a utilização dos aparelhos de elevação de materiais em violação do disposto nos n.os 2 e 4 do artigo 58.º do presente Regulamento, bem como a sua não remoção após a conclusão da execução das obras;
+
+v) A colocação dos andaimes em violação do disposto no n.º 2 do artigo 59.º do presente Regulamento;
+
+x) O incumprimento da convocatória para comparência na Câmara Municipal de Leiria a fim de ser lavrado o auto de embargo.
+
+2 - As contra-ordenações previstas nas alíneas a), g), i) e n) do número anterior são puníveis com coima graduada de (euro)100 até ao máximo de (euro)300, no caso de pessoa singular, ou até (euro)400, no caso de pessoa colectiva.
+
+3 - As contra-ordenações previstas nas alíneas h), j), l), o), q), r), u) e v) do n.º 1 são puníveis com coima graduada de (euro)200 até ao máximo de (euro)750, no caso de pessoa singular, ou até (euro)1.500, no caso de pessoa colectiva.
+
+4 - As contra-ordenações previstas nas alíneas e), f), m), p) e s) do n.º 1 são puníveis com coima graduada de (euro)350 até ao máximo de (euro)1.000, no caso de pessoa singular, ou até (euro)2.500, no caso de pessoa colectiva.
+
+5 - As contra-ordenações previstas nas alíneas b), c), d), t) e x) são puníveis com coima graduada de (euro)500 até ao máximo de (euro)2.500, no caso de pessoa singular, ou até (euro)3.500, no caso de pessoa colectiva.
+
+6 - A negligência é punível.
+
+7 - O produto da aplicação das coimas previstas no presente artigo reverte para o Município de Leiria, inclusive quando as mesmas sejam cobradas em juízo.
+
+###### Artigo 101.º — Sanções acessórias
+
+1 - Em caso de reincidência ou de dolo na prática da infracção ou sempre que a lesão para o interesse público resultante da infracção se revista de especial gravidade, as contra-ordenações previstas no n.º 1 do artigo anterior podem ainda ser punidas com as seguintes sanções acessórias:
+
+a) A apreensão dos objectos pertencentes ao agente que serviram ou estavam destinados a servir como instrumento da prática da infracção;
+
+b) A interdição do exercício no Município de Leiria da profissão ou actividade conexas com a infracção praticada;
+
+c) A privação do direito a subsídios a conceder pelo Município de Leiria;
+
+d) A privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou a concessão de obras públicas, o fornecimento de bens e serviços ou a concessão de serviços públicos.
+
+2 - As sanções referidas nas alíneas b) a d) do número anterior têm a duração máxima de dois anos a contar da decisão condenatória definitiva e têm como pressupostos de aplicação o disposto, respectivamente, nos n.os 2, 3 e 5 do artigo 21.º-A do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
+
+### CAPÍTULO VII — Compensações
+
+###### Artigo 102.º — Compensações
+
+1 - Para efeitos do disposto no n.º 4 do artigo 44.º e no n.º 5 do artigo 57.º ambos do RJUE, os titulares de operações urbanísticas de loteamento ou com impactes semelhantes a um loteamento ou ainda com impacte urbanístico relevante estão obrigados ao pagamento de uma compensação ao Município de Leiria sempre que, no âmbito daquelas operações urbanísticas e conforme os casos, o prédio a lotear já esteja dotado de equipamentos ou espaços verdes e de utilização colectiva e ou não se justificar a localização de quaisquer outros na área de intervenção da operação urbanística.
+
+2 - A compensação referida no número anterior pode ser paga em espécie, através de bens imóveis destinados a integrar o domínio privado do Município de Leiria.
+
+3 - Sem prejuízo do disposto no número anterior, a Câmara Municipal de Leiria poderá optar pelo pagamento da compensação em numerário, mediante a entrega de montantes a determinar pela aplicação dos critérios de cálculo definidos para as diversas situações nos artigos 103.º e 104.º do presente Regulamento.
+
+###### Artigo 103.º — Cálculo do valor da compensação em numerário nas operações de loteamento e de obras de urbanização
+
+Para efeitos do disposto no n.º 3 do artigo anterior, a compensação em numerário nas operações de loteamento e de obras de urbanização é calculada pela aplicação da seguinte fórmula:
+
+comp = L x [0,75 (A-A') x I + 0,25 (A-A')] x C
+
+em que:
+
+comp = valor em euros do montante total da compensação devida ao Município de Leiria;
+
+L - coeficiente variável em função da localização da operação urbanística:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/117000000/3349733518.pdf)
+
+A - área a ceder nos termos das normas legais e regulamentares aplicáveis para equipamentos, espaços verdes e de utilização colectiva, depósitos de água, estações de tratamento de água e de águas residuais, postos de transformação e outras infra-estruturas de natureza semelhante;
+
+A' - área que tenha sido cedida no âmbito da operação urbanística para equipamentos, espaços verdes e de utilização colectiva, vias principais sem construção adjacente, depósitos de água, estações de tratamento de água e de águas residuais, postos de transformação e outras infra-estruturas de natureza semelhante;
+
+I - índice de construção do loteamento;
+
+C - custo da construção por metro quadrado, correspondente ao preço de habitação por metro quadrado a que se refere a alínea c) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril, fixado anualmente por portaria.
+
+###### Artigo 104.º — Cálculo do valor da compensação em numerário nas operações urbanísticas com impacte urbanístico relevante e com impacte semelhante a um loteamento
+
+Para efeitos do disposto no n.º 3 do artigo 102.º do presente Regulamento, o disposto no artigo anterior é aplicável ao cálculo da compensação em numerário nas operações urbanísticas com impacte urbanístico relevante e com impacte semelhante a um loteamento, com as devidas adaptações.
+
+###### Artigo 105.º — Compensação em espécie
+
+1 - Com vista ao pagamento da compensação em espécie, o titular da operação urbanística deve apresentar os seguintes elementos:
+
+a) Requerimento dirigido ao Presidente da Câmara Municipal de Leiria, no qual esclareça a sua proposta e indique o valor do ou dos bens imóveis objecto da compensação;
+
+b) Extracto da planta de ordenamento do Plano Director Municipal;
+
+c) Planta aerofotogramétrica à escala 1:5 000 ou superior, com a indicação da localização e, se for esse o caso, a delimitação do bem imóvel;
+
+d) Levantamento topográfico do ou dos bens imóveis devidamente actualizado;
+
+e) Certidão do registo predial devidamente actualizada.
+
+2 - Os elementos apresentados nos termos do número anterior são objecto de análise e parecer técnico pelos serviços municipais competentes, devendo os mesmos pronunciar-se sobre:
+
+a) A capacidade de utilização do ou dos bens imóveis objecto da compensação;
+
+b) A localização daqueles bens imóveis e a existência de infra-estruturas;
+
+c) As possíveis utilizações do ou dos bens imóveis por parte da autarquia.
+
+3 - Os bens imóveis objecto da compensação serão avaliados por uma comissão composta por três elementos, sendo dois deles nomeados pela Câmara Municipal de Leiria e o outro designado pelo titular da operação urbanística e sendo as respectivas decisões tomadas por maioria dos votos.
+
+4 - Nas situações em que o relatório da avaliação elaborado pela comissão referida no número anterior não for aceite pela Câmara Municipal de Leiria ou pelo titular da operação urbanística, o assunto será sujeito à apreciação de uma comissão arbitral constituída nos termos do disposto no artigo 118.º do RJUE.
+
+5 - Quando se verificarem diferenças entre o valor calculado para a compensação devida em numerário e o valor dessa compensação a entregar em espécie, as mesmas serão liquidadas da seguinte forma:
+
+a) Se o diferencial for favorável ao Município de Leiria, o mesmo será pago em numerário pelo titular da operação urbanística;
+
+b) Se o diferencial for favorável ao titular da operação urbanística, o mesmo ser-lhe-á entregue em numerário pelo Município de Leiria.
+
+6 - As despesas efectuadas com o pagamento dos honorários dos avaliadores ficam a cargo do titular da operação urbanística.
+
+### CAPÍTULO VIII — Disposições finais
+
+###### Artigo 106.º — Interpretação e integração de lacunas
+
+As omissões e as dúvidas suscitadas na interpretação e aplicação do presente Regulamento serão resolvidas em conformidade com os critérios de interpretação e integração estabelecidos na lei geral.
+
+###### Artigo 107.º — Remissões
+
+As remissões para diplomas e normas legais e regulamentares constantes do presente Regulamento consideram-se feitas para os diplomas e normas que os substituam em caso de revogação.
+
+###### Artigo 108.º — Revogações
+
+Com a entrada em vigor do presente Regulamento são revogados os artigos 2.º, 5.º, 8.º-A, 16.º, 22.º, 23.º, 31.º, 33.º e 103.º e aditado o artigo 40.º-A, todos do Regulamento de Operações Urbanísticas do Município de Leiria, publicado no Diário da República, 2.ª série, n.º 173, de 07 de Setembro de 2009, actualmente em vigor.
+
+###### Artigo 109.º — Disposições transitórias
+
+1 - O presente Regulamento não se aplica aos procedimentos administrativos que decorram na Câmara Municipal de Leiria à data da entrada em vigor da [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro, que procede à sexta alteração do RJUE, de 16 de Dezembro, sem prejuízo do disposto no n.º 3.
+
+2 - Aos casos previstos no número anterior são aplicáveis as normas constantes do Regulamento Municipal de Obras Particulares publicado no Diário da República, 2.ª série, n.º 34, de 10 de Fevereiro de 1997, e as normas do Regulamento Municipal de Operações Urbanísticas e das respectivas Taxas e Compensações, publicado no Diário da República, 2.ª série, n.º 277, de 25 de Novembro de 2004.
+
+3 - O período de prorrogação do prazo para requerer a emissão do alvará previsto no n.º 4 do artigo 5.º do presente Regulamento é aplicável aos procedimentos de licenciamento ou de autorização que ainda se encontrassem a decorrer em 1 de Janeiro de 2009 e abrange o período de tempo já decorrido ao abrigo do disposto no n.º 2 do artigo 76.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, na redacção dada pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Junho, e no n.º 1 do artigo 16.º do Regulamento Municipal de Operações Urbanísticas e das respectivas Taxas e Compensações, publicado no Diário da República, 2.ª série, n.º 277, de 25 de Novembro de 2004.
+
+###### Artigo 110.º — Entrada em vigor
+
+O presente Regulamento entra em vigor no dia útil seguinte ao da sua publicação na 2.ª série do Diário da República.
+
+## ANEXO I — Estrutura da informação para levantamentos topográficos e planta de síntese
+
+QUADRO
+
+Elementos a constar do ficheiro CAD
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/06/117000000/3349733518.pdf)
+
+Leiria, 19 Maio de 2010. - O Presidente da Câmara Municipal, Raul Castro.
+
+203353338

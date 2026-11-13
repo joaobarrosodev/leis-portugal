@@ -1,0 +1,2446 @@
+---
+schema_version: '1.0'
+id: pt:dre:1166173656:por
+title: Regulamento n.º 1150/2026
+short_title: null
+summary: Regulamento Municipal de Gestão do Arvoredo em Meio Urbano.
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Torres Novas
+proposing_entity: null
+official_number: 1150/2026
+official_date: null
+publication_date: '2026-09-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 171/2026, Série II de 2026-09-03
+  number: '171'
+  series: II
+  supplement: null
+  pages: 246 - 313
+  pdf_url: https://files.diariodarepublica.pt/2s/2026/09/171000000/0024600313.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1166173656'
+  dre_path: /dr/detalhe/regulamento/1150-2026-1166173656
+  internal: pt:dre:1166173656:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1150-2026-1166173656
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1150-2026-1166173656
+  consolidated_url: null
+  retrieved_at: '2026-11-13T08:46:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0cdc06ecf1b5768e02e97cd2181069ae1013f9c6c9b2767288b1cf9881f1bfe7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T08:46:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: celex:31995L0046
+  label: null
+  source: null
+- type: cites
+  target: celex:32016R0679
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123025739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169780050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:853867971:por
+  label: null
+  source: null
+article_structure:
+  article_count: 87
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T08:46:01Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 1150/2026
+
+José Trincão Marques, Presidente da Câmara Municipal de Torres Novas:
+
+Torna público que, para efeitos do disposto no artigo 139.º do [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, a Assembleia Municipal de Torres Novas deliberou na sessão ordinária de 30/06/2026, sob proposta da Câmara Municipal, aprovar o Regulamento Municipal de Gestão do Arvoredo em Meio Urbano, nos termos que a seguir se transcreve, sendo que o mesmo entrará em vigor no dia útil a seguir à sua publicitação no Diário da República.
+
+Para constar e devidos efeitos, se publica o presente e outros de igual teor que vão ser afixados nos locais públicos de estilo do Município.
+
+24 de julho de 2026. - O Presidente, José Trincão Marques.
+
+Proposta de Regulamento Municipal de Gestão do Arvoredo em Meio Urbano
+
+A valorização do território do Município de Torres Novas é influenciada por fatores sociais, económicos, culturais e ambientais, onde a estrutura ecológica urbana municipal desempenha um papel relevante na promoção da conexão dos sistemas naturais num meio que é fortemente artificializado e, portanto, determinante na qualidade do usufruto do espaço público pela população e importante de ser conservada para as futuras gerações.
+
+A arborização pública agrega e é elemento basilar desta estrutura ecológica urbana ligando espaços verdes e desempenhando várias funções benéficas e serviços ao ecossistema urbano entre as quais a filtração de poluentes de origem antropogénica, como o monóxido de carbono (CO), o dióxido de azoto (NO2), o ozono (O3), o dióxido de enxofre (SO2) e as partículas de gases inaláveis (PM10 e PM2,5), o aumento da permeabilidade do solo e a interceção das águas das chuvas, permitindo atrasar ou reduzir em muitos casos os picos de cheia, a redução das chamadas “ilhas de calor urbano”, através da sombra fornecida pelas árvores e pela evapotranspiração das suas copas, contribuindo ainda para o controlo da temperatura e da humidade do ar locais, age como barreira contra ventos e ruído, sequestra e armazena carbono, favorece o bem-estar psicológico.
+
+Paralelamente, traduz-se na melhoria da perceção e leitura urbana dos espaços, conduzindo numa melhor apropriação dos mesmos por parte da população e no aumento de qualidade de vida dos cidadãos.
+
+O referido nos parágrafos anterior representa, também, um cabal contributo para o desenvolvimento sustentável, em linha com os Objetivos de Desenvolvimento Sustentável da ONU e para o aumento da resiliência dos sistemas naturais e das comunidades locais aos fenómenos extremos e à irregularidade dos ciclos sazonais e, consequentemente, para a implementação do Plano Municipal de Adaptação às Alterações Climáticas.
+
+Não obstante, importa acautelar uma correta articulação da arborização com as infraestruturas alojadas no subsolo e elementos instalados na sua projeção vertical, existentes e a existir, através da compatibilização de espécies arbóreas, garantindo a avaliação fitossanitária e biomecânica das árvores existentes e que o planeamento de plantação de novas espécies reflita as melhores práticas quanto às funções a desempenhar em cada espaço e espécies adaptadas às condições edafoclimáticas locais.
+
+A gestão do arvoredo urbano, bem como outro património vegetal com relevância preponderante no território do Município, constituem peças vitais de gestão ambiental e planeamento estratégico do território, pelo que é de particular importância que o Município esteja dotado de regras aplicação comum e de instrumentos regulamentares e orientadores que permitam a prossecução desses objetivos.
+
+Numa análise custo-benefício indissociável da entrada em vigor do presente regulamento e, bem assim, da sua justificação económico-financeira, e considerando que a sua natureza jurídica é executória e subordinada ao regime jurídico em vigor e que não há encargos financeiros diretamente imputáveis aos particulares, os benefícios pela adoção deste regime claramente superam quaisquer inconvenientes que se manteriam ou agravariam com a ausência de regulamentação desta matéria.
+
+Assim, considerando que:
+
+a) O uso do poder regulamentar das autarquias locais, é consagrado no artigo 241.º da Constituição da República Portuguesa, e tal qual consignado no n.º 7 do seu 112.º artigo;
+
+b) Os Municípios dispõem especialmente de atribuições no domínio do ambiente preceituadas na alínea k), do n.º 2 do artigo 23.º do Regime Jurídico aprovado pela [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro;
+
+c) Constitui competência dos municípios assegurar a classificação do património natural e paisagístico, nos termos da alínea t), n.º 1 do artigo 33.º do Regime Jurídico aprovado pela [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro;
+
+d) Sem prejuízo do que precede, é uma competência da Câmara Municipal de Torres Novas, ao abrigo da alínea qq) do n.º 1 do artigo 33.º, administrar o domínio público municipal;
+
+e) A gestão do arvoredo e do restante património vegetal com relevância exige que se estabeleçam regras, através de instrumento normativo que oriente e sistematize as intervenções referentes ao planeamento, implantação, gestão e manutenção do arvoredo, conforme estipulado no artigo 8.º e seguintes do Regime Jurídico de Gestão do Arvoredo Urbano, instituído pela [Lei n.º 59/2021](https://diariodarepublica.pt/dr/detalhe/lei/59-2021-169780050), de 18 de agosto;
+
+f) Pode a classificação de arvoredo de interesse municipal processar-se de acordo com regimes próprios concretizados em regulamento municipal, nos termos do n.º 2 do artigo 2.º da Portaria n.º 124/2014, de 24 de junho e dos n.os 12 e 13 do artigo 3.º da [Lei n.º 53/2012](https://diariodarepublica.pt/dr/detalhe/lei/53-2012-174836), de 5 de setembro;
+
+g) A definição de instrumento normativo regulamentar de natureza externa, segue quanto à sua génese a tramitação constante no Código de Procedimento Administrativo, incluindo o processo participativo de audiência e consulta (artigos 97.º a 101.º) e de publicação e vigência (artigos 139.º e 140.º).
+
+A Câmara Municipal de Torres Novas, na sua reunião de 21/05/2025, decidiu desencadear o procedimento regulamentar para a elaboração e aprovação do Regulamento Municipal de Gestão do Arvoredo em Meio Urbano. O início do procedimento foi publicitado através de comunicação em 09/06/2025 e o período para constituição de interessados e apresentação de contributos terminou no dia 18/06/2025.
+
+A consulta pública decorreu após publicação no Diário da República, 2.ª série, n.º 81, de 27/04/20226 e terminou no dia 26/05/2026.
+
+Assim, a Assembleia Municipal de Torres Novas, nos termos e para os efeitos do disposto no artigo 241.º da Constituição da República Portuguesa, do artigo 135.º e seguintes do Código do Procedimento Administrativo, do n.º 1 e das alíneas k), e n) o n.º 2 do artigo 23.º, da alínea qq) do n.º 1 do artigo 33.º todas do Regime Jurídico aprovado pela [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, e ainda do disposto na [Lei n.º 53/2012](https://diariodarepublica.pt/dr/detalhe/lei/53-2012-174836), de 5 de setembro complementada pela Portaria n.º 124/2014, de 24 de junho, aprovou ao abrigo da alínea g) do n.º 1 do artigo 25.º do dito Regime, sob proposta da Câmara Municipal, ao abrigo da alínea k) do n.º 1 do artigo 33.º do mesmo diploma, na sessão ordinária de 30/06/2026, o Regulamento Municipal de Gestão do Arvoredo em Meio Urbano do Município de Torres Novas.
+
+### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Lei habilitante
+
+O Regulamento de Gestão do Arvoredo em Meio Urbano do Município de Torres Novas é elaborado ao abrigo e nos termos do artigo 8.º da [Lei n.º 59/2021](https://diariodarepublica.pt/dr/detalhe/lei/59-2021-169780050) e do artigo 241.º da Constituição da República Portuguesa, do disposto no artigo 135.º e seguintes do Código do Procedimento Administrativo, do n.º 1 e das alíneas k) e n) e o n.º 2 do artigo 23.º, da alínea g) do n.º 1 do artigo 25.º da alínea k) e da alínea qq) do n.º 1 do artigo 33.º do Regime Jurídico aprovado pela [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na [Lei n.º 53/2012](https://diariodarepublica.pt/dr/detalhe/lei/53-2012-174836), de 5 de setembro complementada pela Portaria n.º 124/2014, de 24 de junho e ainda no Regime Geral das Contra Ordenações, aprovado pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, com as alterações vigentes, a [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, com as alterações vigentes e o artigo 90.º B da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro, que estabelece o regime financeiro das autarquias locais e das entidades intermunicipais. Para além disso, integra ainda referências orientadoras constantes do Guia de Boas Práticas para a Gestão do Arvoredo Urbano, proposto pelo ICNF nos termos do artigo 6.º da [Lei n.º 59/2021](https://diariodarepublica.pt/dr/detalhe/lei/59-2021-169780050).
+
+###### Artigo 2.º — Objeto e âmbito
+
+1 - O presente Regulamento visa disciplinar e sistematizar as intervenções no planeamento, implantação, gestão e manutenção e classificação do património arbóreo no Município de Torres Novas, numa ótica de “continuum” intergeracional tendo em vista a sua salvaguarda e longevidade.
+
+2 - O presente Regulamento aplica-se, em termos espaciais, a todo o âmbito territorial do Município de Torres Novas independentemente das especificidades territoriais existentes nas uniões de freguesias e freguesias que o integram.
+
+3 - São destinatários do presente Regulamento:
+
+a) As unidades orgânicas da Câmara Municipal de Torres Novas;
+
+b) As Uniões de Freguesias e Freguesias tendo em vista as competências que foram ou que lhe venham a ser delegadas no âmbito da gestão e manutenção de espaços verdes, sem prejuízo da harmonização entre os princípios da descentralização e da subsidiariedade e as exigências de unidade e de eficácia da ação administrativa;
+
+c) As entidades que intervenham no espaço público municipal e no respetivo subsolo, independentemente da sua qualidade e do título que legitime a sua intervenção;
+
+d) Os requerentes ou titulares de operações urbanísticas relativamente ao âmbito territorial das mesmas;
+
+e) Os proprietários, superficiários, usufrutuários, arrendatários e titulares de outros titulares de direitos reais ou obrigacionais reportados a prédios onde se situem espécies arbóreas, de acordo com as condições especialmente constantes do presente regulamento;
+
+f) Todos os que usufruam do espaço onde se situe património arbóreo.
+
+4 - Os Anexos ao presente Regulamento fazem dele parte integrante e estabelecem as condições técnicas e operacionais específicas para a preservação, conservação e fomento do arvoredo urbano no Município de Torres Novas.
+
+###### Artigo 3.º — Exclusão do âmbito de aplicação
+
+O presente regulamento não se aplica:
+
+a) A árvores existentes em pomares, olivais e noutras culturas arbóreas e florestais destinadas à exploração económica;
+
+b) A espécies invasoras previstas no [Decreto-Lei n.º 92/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), de 10 de julho, que assegura a execução, na ordem jurídica nacional, do Regulamento (EU) n.º 1143/2014, estabelecendo o regime jurídico aplicável ao controlo, à detenção, à introdução na natureza e ao repovoamento de espécies exóticas da flora e da fauna;
+
+c) Em situações de emergência, relativamente a árvores ou ramos caídos ou em risco iminente de queda, em consequência de condições meteorológicas anormais, de acidentes ou fogos rurais desde que a intervenção seja feita ou determinada pelos Serviços de Proteção Civil do Município de Torres Novas, sendo elaborado um relatório que fundamente a intervenção.
+
+###### Artigo 4.º — Definições
+
+Sem prejuízo das demais referidas na lei e em sede específica no articulado do presente regulamento, considera-se para efeitos do mesmo:
+
+a) «Abate», o corte ou derrube de uma árvore;
+
+b) «Abrolhamento», manifestação de novos rebentos ou gomos, início da atividade vegetativa;
+
+c) «Agentes abióticos», os elementos físicos como o vento, o fogo, a neve, a compactação do solo e outros, que condicionam o desenvolvimento das árvores e que podem constituir em alguns casos fatores limitativos à sua gestão;
+
+d) «Agentes bióticos», os elementos vivos dos ecossistemas que podem assumir comportamento epidémico, constituindo pragas, doenças, infestações e invasões que podem limitar o desenvolvimento das árvores e constituir nalguns casos fatores limitativos à sua gestão;
+
+e) «Alameda», passeio ou via de circulação flanqueada por duas ou mais alas de árvores;
+
+f) «Alinhamento», passeio ou via de circulação flanqueada por uma fila de quatro ou mais árvores;
+
+g) «Ancoragem», sistema de suporte ou fixação da árvore;
+
+h) «Arboreto», coleção de árvores mantidas e ordenadas cientificamente, em geral documentadas e identificadas, que tem por objetivos a investigação científica, a educação e a recreação (Portaria n.º 124/2014);
+
+i) «Arboricultor», técnico que se dedica ao estudo das técnicas de cultivo e gestão de árvores; (segundo o artigo 8.º da [Lei n.º 59/2021](https://diariodarepublica.pt/dr/detalhe/lei/59-2021-169780050), este conceito será definido pelo Governo);
+
+j) «Arboricultura», ciência da cultura, gestão e conservação de árvores e outras plantas lenhosas perenes, num contexto não florestal (do lat. “arbôre + cultura”);
+
+k) «Arborista», o técnico devidamente credenciado para a execução de operações de gestão do arvoredo;
+
+l) «Arborização», ação de instalar árvores de espécies florestais, por sementeira ou plantação, em terras que não tenham sido ocupadas por floresta anteriormente;
+
+m) «Área de proteção radicular mínima», a área útil da árvore, que equivale à projeção dos limites da copa sobre o solo, podendo, em condições de terreno favorável, corresponder a uma superfície calculada em duas vezes a dimensão da copa, ou, para as árvores «colunares e fastigiadas», numa superfície com diâmetro de 2/3 a altura da árvore, sendo esta área diferente da área de expansão radicular;
+
+n) «Árvore», planta lenhosa, perene, com tendência para a formação de um caule principal (tronco) limpo de ramos na parte inferior e cuja altura, em adulta, é superior a cinco metros;
+
+o) «Arvoredo urbano», árvores, em grupo ou isoladas, existentes no interior de perímetro urbano;
+
+p) «Arvoredo de interesse público», os povoamentos florestais, bosques ou bosquetes, arboretos, alamedas e jardins de interesse botânico, histórico, paisagístico ou artístico, bem como os exemplares isolados de espécies vegetais que pela sua representatividade, raridade, porte, idade, historial, significado cultural ou enquadramento paisagístico, possam ser considerados de relevante interesse público e se recomende a sua cuidadosa conservação, estando sujeitos a regime especial de proteção;
+
+q) «Bosquete», terreno com área inferior a 5000 m2, com a presença de pelo menos seis árvores de altura superior a 5,00 m e grau de coberto, definido pela razão entre a área da projeção horizontal das copas das árvores e a área total da superfície de terreno, maior ou igual a 10 %, ou árvores capazes de atingir esses limiares in situ;
+
+r) «Braça», ramo estrutural secundário, inserido numa pernada de uma árvore;
+
+s) «Caducifólias», árvore que perde a folha num determinado período do seu ciclo de vida;
+
+t) «Caldeira», espaço de terreno, bem delimitado, para a instalação de árvores, sobretudo em arruamento;
+
+u) «Casca inclusa», defeito estrutural que ocorre quando o ramo e o tronco, ou dois ramos codominantes, crescem tão juntos que a casca se comprime e acumula no interior da união, tornando a inserção fraca e com maior probabilidade de rutura;
+
+v) «Cepo», parte do tronco com raízes, remanescente do abate de uma árvore;
+
+w) «Compasso de plantação», distância (regular) entre as árvores no mesmo alinhamento e entre linhas quando exista mais de uma linha de plantação;
+
+x) «Colo», corresponde à zona de transição entre o sistema radicular e a estrutura aérea das plantas (sistema caulinar);
+
+y) «Colo do ramo», deformação na parte inferior do ramo na zona de inserção;
+
+z) «Condições edafoclimáticas», características do meio relativas ao solo e ao clima, que incluem nomeadamente o tipo de solo, o relevo, a temperatura, a precipitação, o vento, a humidade do ar e a radiação solar;
+
+aa) «Copa», parte da árvore que inclui os ramos que se desenvolvem a partir da zona do tronco onde se inserem as primeiras pernadas;
+
+bb) «Diâmetro à Altura do Peito (DAP)», diâmetro do tronco da árvore medido a 1,30 m do solo;
+
+cc) «Desmonte», técnica de abate de uma árvore por partes, cortando as peças;
+
+dd) «Dioica», espécie que apresenta flores femininas e masculinas em plantas separadas, vulgarmente designadas por planta macho e planta fêmea. Só as plantas fêmeas desenvolvem frutos e sementes;
+
+ee) «Doença», conjunto de alterações (sintomas) observadas numa planta em resposta à ação de organismos patogénicos ou de fatores abióticos;
+
+ff) «Domínio municipal», os espaços, equipamentos, infraestruturas e demais bens de que o município é titular, por determinação da Constituição ou de lei, e que se encontram sujeitos a um regime especial tendente à salvaguarda e realização de interesses públicos;
+
+gg) «Domínio privado do Município», os espaços, equipamentos, infraestruturas e demais bens de que o município é titular e que não integram o domínio público municipal, nos termos do disposto na alínea anterior;
+
+hh) «Entidades competentes», as Câmaras Municipais, as Juntas de Freguesia, os organismos do Estado e as empresas prestadoras de serviços;
+
+ii) «Esgaçamento», rutura de ramo ou pernada por desligamento dos tecidos;
+
+jj) «Espaços verdes», “áreas de solo enquadradas na estrutura ecológica municipal ou urbana que, além das funções de proteção e valorização ambiental e paisagística, se destinam à utilização pelos cidadãos em atividades de estadia, recreio e lazer ao ar livre” ([Decreto Regulamentar n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-2009-494182), de 29 de maio);
+
+kk) «Espécie autóctone», espécie originária de uma região específica na qual habita, apresentando como vantagens a sua adaptação ao clima e solo, excluindo os seus híbridos com espécies exóticas; sinónimo de indígena ou nativa;
+
+ll) «Espécie exótica», qualquer espécime vivo de uma espécie, subespécie ou categoria taxonómica inferior de animais, plantas, fungos ou microrganismos introduzidos fora da sua área de distribuição natural, incluindo quaisquer partes, gâmetas, sementes, ovos ou propágulos dessa espécie, bem como quaisquer híbridos, variedades ou raças, que possam sobreviver e posteriormente reproduzir-se;
+
+mm) «Espécie invasora», espécie exótica cuja introdução na natureza ou propagação num dado território, ameaça ou tem um impacto adverso, entre outros, na diversidade biológica e nos serviços dos ecossistemas a ela associados; uma espécie é considerada invasora quando nunca foi registada como ocorrendo naturalmente num determinado local, prolifera sem controlo e passa a representar ameaça para espécies nativas, desequilibrando a estrutura e o funcionamento de um sistema ecológico;
+
+nn) «Espécie naturalizada», espécie exótica que ao longo do tempo se adaptou às condições do novo habitat e coexiste, de forma equilibrada, com as espécies autóctones;
+
+oo) «Evapotranspiração», evaporação e transpiração de água pelo solo e pelas plantas;
+
+pp) «Fitossanidade», refere-se ao estado de saúde das espécies vegetais.
+
+qq) «Flecha», parte terminal do eixo principal (tronco), sobretudo na idade jovem, destacando a sua dominância na copa da árvore;
+
+rr) «Fuste», parte do eixo principal (tronco) da árvore, livre de ramos, entre o colo e a inserção das primeiras pernadas;
+
+ss) «Gomo», rebento ou botão a partir do qual se formam ramos, folhas ou flores;
+
+tt) «Grau de coberto arbóreo», razão entre a área da projeção vertical das copas das árvores e a área de terreno respetiva, expresso em percentagem;
+
+uu) «Jardim», espaço com coberto vegetal que enquadra edificações e as respetivas atividades, das quais são espaços complementares e com as quais formam conjuntos arquitetónicos, bem como os equipamentos sociais de recreio e lazer, com área geralmente inferior a 10 hectares e uma estrutura que em grande parte condiciona os utentes a permanecerem em zonas formais, pavimentadas e mobiladas;
+
+vv) «Luta biológica», redução de populações de inimigos das plantas, através da ação de organismos antagonistas naturais, indígenas ou introduzidos, atuando como parasitas, parasitoides ou predadores;
+
+ww) «Luta biotécnica», baseia-se em técnicas que condicionam e manipulam o comportamento do agente biótico nocivo, utilizando substâncias como feromonas, hormonas anti quininas, etc.;
+
+xx) «Luta cultural», compreende medidas de combate diretas e indiretas, no sentido de manter as pragas e doenças com baixos níveis de densidade ou de reduzir o seu impacte;
+
+yy) «Luta química», controlo dos agentes bióticos nocivos com recurso a produtos fitofarmacêuticos, usualmente designados por pesticidas, com diferentes princípios ativos, atuando assim com alguma especificidade no combate às pragas e apresentando diferentes modos de atuação (contato, ingestão, sistémicos, fumegantes e residuais);
+
+zz) «Mata», grande quantidade de árvores, preferencialmente da mesma espécie;
+
+aaa) «Moloch», materiais orgânicos ou inorgânicos aplicados para cobertura do solo, com a finalidade de manter a humidade e a água, impedir o desenvolvimento de plantas adventícias e contribuir para regularizar a temperatura;
+
+bbb) «Norma de Granada», o método de valoração de árvores e arbustos ornamentais e palmeiras, redigido pela Asociación Española de Parques y Jardines Públicos, que tem em conta diversos fatores que atribuem valor aos elementos vegetais, para além do valor da madeira, tais como valores paisagísticos, ambientais, sociais e culturais;
+
+ccc) «PAP», perímetro à altura do peito; perímetro do tronco da árvore medido perpendicularmente ao eixo de crescimento, à altura a 1,30 m do solo;
+
+ddd) «Passaporte fitossanitário», rótulo oficial para a circulação de vegetais, produtos vegetais e outros objetos no país e no território da União Europeia;
+
+eee) «Patogénico», organismo causador de doença;
+
+fff) «Património arbóreo», arvoredo constituído por:
+
+ggg) Árvores ou arbustos conduzidos em porte arbóreo existentes em espaços verdes urbanos de utilização coletiva como parques, jardins, praças, largos e terreiros públicos, independentemente da propriedade ou da entidade gestora;
+
+hhh) Árvores ou conjuntos arbóreos com regime especial de proteção, classificados de interesse público ou municipal, consoante legislação em vigor, situados em terrenos públicos ou privados;
+
+iii) Árvores situadas à margem das estradas nacionais e municipais, fora das áreas urbanas;
+
+jjj) «Património arbóreo pertencente ao Estado», árvores ou conjuntos arbóreos situados em terrenos públicos ou privados do Estado como Matas Nacionais, Parques Florestais; jardins de equipamentos públicos pertencentes ao Estado;
+
+kkk) «Perenifólia», árvore que mantém a copa revestida de folhas durante todo o ano;
+
+lll) «Pernada», ramo estrutural ou primário, inserido no tronco e que que fornece sustentação à copa;
+
+mmm) «Plantas adventícias», plantas recentemente introduzidas e que não se justificam no local. Vasta bibliografia refere que a gestão correta das plantas espontâneas é um importante entrave ao aumento de insetos com potencial para travarem pragas;
+
+nnn) «Plantas infestantes» são espécies vegetais nativas ou exóticas que, devido à sua elevada capacidade de dispersão e estabelecimento, proliferam sem controlo, ameaçando ecossistemas naturais, habitats ou espécies nativas, podendo causar impactos ecológicos, económicos ou na saúde pública;
+
+ooo) «Poda», cortes feitos seletivamente na árvore tais como atarraques sobre gomos, atarraques sobre ramos laterais e desramações, com objetivos técnicos específicos previamente definidos;
+
+ppp) «Poda em porte condicionado», a intervenção em árvores implantadas em espaços confinados, como arruamentos nos centros urbanos, em que o seu crescimento é condicionado regularmente através de reduções de copa, para permitir a coexistência com equipamentos urbanos envolventes, e que, por afetar geralmente uma parte significativa da área fotossintética da árvore, deve ser realizada obrigatoriamente em repouso vegetativo, com exceção de intervenções pontuais de pequena dimensão para resolver conflitos de coabitação;
+
+qqq) «Poda em porte natural», a intervenção em árvores implantadas em espaços amplos, como jardins, parques e avenidas largas, conduzindo-as sem as reduzir nem alterar a forma típica da espécie, consistindo na sua limpeza e arejamento para aumentar a permeabilidade ao vento e a resistência a tempestades, mas sem cair em excesso de «arejamento/aclaramento», ou num levantamento gradual da copa, para resolver eventuais conflitos dos ramos mais baixos com o trânsito rodoviário ou pedonal, e que, por afetar uma parte pouco significativa da área fotossintética da árvore, pode, até com vantagens, nomeadamente pela melhor visualização dos ramos mortos e doentes a eliminar e pelo mais rápido recobrimento das feridas de corte, ser realizada depois do abrolhamento primaveril;
+
+rrr) «Povoamento Florestal ou bosque», terreno com área igual ou superior a 5000 m m2 e largura média igual ou superior a 20 metros, com a presença de árvores de altura superior a cinco metros e grau de coberto, definido pela razão entre a área da projeção horizontal das copas das árvores e a área total da superfície de terreno, maior ou igual a 10 %, ou árvores capazes de atingir esses limiares “in sito”;
+
+sss) «Praga», qualquer espécie, estirpe ou biótipo de agentes patogénicos, animais ou vegetais, parasitas nocivos para os vegetais ou os produtos vegetais;
+
+ttt) «Ramos adventícios», rebentos que resultam do abrolhamento de gomos adventícios que se formam nos tecidos após a ocorrência de danos mecânicos;
+
+uuu) «Ramos codominantes», ramos com diâmetros semelhantes formados a partir da mesma inserção;
+
+vvv) «Ramos epicórios», também conhecidos como rebentos ladrões, são rebentos vigorosos que resultam do abrolhamento de gomos dormentes ou hibernantes;
+
+www) «Renque ou alinhamento», passeio ou via de circulação flanqueada por uma fila de quatro ou mais árvores, sendo considerado alinhamento quando superior a esse número;
+
+xxx) «Repouso vegetativo», período de redução sazonal da atividade das plantas que, nas espécies adaptadas a climas temperados, ocorre geralmente no inverno, quando as espécies caducifólias perdem a folhagem e as perenifólias têm menor atividade vegetativa;
+
+yyy) «Retancha», Substituição de árvores mortas ou em falta;
+
+zzz) «Revestimento de caldeiras», cobertura das caldeiras com material orgânico (designadamente, folhas secas, cascas, aparas de madeira, entre outros) ou inorgânico permeável (designadamente, cascalho solto, pedras de rios, pedras decorativas ou vidro reciclado, entre outros);
+
+aaaa) «Rolagem», termo popular que designa uma redução drástica da árvore, normalmente realizada em árvores adultas anteriormente conduzidas em porte natural, através do corte de ramos de grande calibre, deixando-a reduzida ao tronco e pernadas estruturais;
+
+bbbb) «Ruga da casca», deformação da casca na parte superior do ramo, na zona de inserção;
+
+cccc) «Sequestro de carbono», processo que retira dióxido de carbono da atmosfera e que ocorre naturalmente nos oceanos, nas florestas e em outros locais onde os organismos façam a fotossíntese. Nas árvores, o dióxido de carbono é retirado da atmosfera e passa a fazer parte constituinte da respetiva estrutura, ficando “retido” nas folhas, ramos, tronco, raízes e no solo;
+
+dddd) «Sistema radicular», conjunto de órgãos subterrâneos responsáveis pela fixação da planta ao solo e pela absorção de água e minerais;
+
+eeee) «Sobrantes vegetais», materiais vegetais derivados de operações como podas, cortes fitossanitários, abates de árvores e outras intervenções em espaços verdes;
+
+ffff) «Talhadia alta», «talhadia de cabeça», os termos que designam supressão da copa da árvore, normalmente realizada em árvores adultas anteriormente conduzidas em porte natural, através do corte de ramos de grande calibre, deixando-a reduzida ao tronco e pernadas estruturais, como pernadas e braças;
+
+gggg) «Toco», ramo cortado ou quebrado, afastado do ponto de inserção;
+
+hhhh) «Toragem», operação onde a árvore, já desramada e eventualmente descascada, é seccionada em toros de tamanho predefinido;
+
+iiii) «Torrão», terra que envolve as raízes de uma árvore a transplantar;
+
+jjjj) «Transplante», transferência de uma árvore de um lugar para outro;
+
+kkkk) «Tutor», peça, normalmente em madeira, instalada quando da plantação para servir de guia e conter a oscilação da árvore, evitando a sua quebra pela ação do vento;
+
+llll) «Tutoragem», operação que consiste em amarrar a árvore ao tutor;
+
+mmmm) «Zona de Proteção Radicular (ZPR)», zona de projeção dos limites da copa sobre o solo podendo, em condições de terreno favorável, corresponder a uma superfície calculada em duas vezes a dimensão da copa ou, para as árvores “colunares e fastigiadas”, a uma superfície com diâmetro de 2/3 da altura da árvore, sendo esta área diferente da zona crítica radicular;
+
+nnnn) «Zona Crítica Radicular (ZCR)», área à volta do tronco onde se encontram as raízes que, sob o ponto de vista biológico, se consideram essenciais para a estabilidade mecânica ou estado fitossanitário da árvore.
+
+###### Artigo 5.º — Princípios gerais
+
+1 - A aplicação do presente Regulamento está sujeita aos princípios gerais definidos no artigo 5.º do RJGAU.
+
+2 - A proteção das árvores bem como a utilização e conservação dos espaços verdes deverá efetuar-se de acordo com as normas previstas neste Regulamento, de forma a manter o equilíbrio ecológico da paisagem urbana, a promover os serviços de ecossistema associados à Estrutura Verde Municipal, a assegurar a criação de zonas de estadia, o recreio e lazer bem como a prática de exercício físico, além de possibilitar aos munícipes e utentes a defesa da melhoria da qualidade de vida.
+
+3 - O arvoredo e os espaços verdes são considerados componentes de elevada importância quer ao nível da organização do território, constituindo-se como elementos qualificadores da paisagem urbana, quer em termos de qualidade de vida dos cidadãos. Representam um relevante contributo para os Objetivos de Desenvolvimento Sustentável (ODS) da ONU (2015), que integram a Agenda 2030, designadamente nas cidades e comunidades sustentáveis (ODS 11), na ação climática (ODS 13), e na proteção da vida terrestre (ODS 15).
+
+4 - Todas as árvores existentes na área do município e restante património verde do concelho são por princípio consideradas a preservar, como elementos de importância ecológica e ambiental fundamentais para o estabelecimento da estratégia do município para a mitigação dos efeitos resultantes das alterações climáticas, nomeadamente, no que se refere à criação de ilhas-sombra em contraponto ao efeito de ilhas de calor, promoção do ensombramento em áreas de estadia, espaços pavimentados e em corredores de circulação, reduzindo consumos de energia para arrefecimento, reduzindo os efeitos negativos da poluição atmosférica e dos gases do efeito estufa, promovendo a infiltração e pureza das águas, contribuindo para a biodiversidade e o bem-estar físico e mental das populações, devendo para tal serem tomadas as diligências e medidas que acautelem a sua proteção.
+
+5 - Sempre que aplicável devem ser aproveitadas todas as oportunidades para aumentar o património arbóreo da Estrutura Ecológica Municipal, nomeadamente, através de ações que visem a manutenção da biodiversidade e dos ecossistemas naturais de acordo com o que está definido nos instrumentos de planeamento do Município de Torres Novas.
+
+6 - Deve ser mantida e potenciada a Estrutura Ecológica Municipal e qualquer intervenção nestes eixos deve assegurar a manutenção e consolidação dos elementos arbóreos, promover o aumento do número de exemplares e da área foliar do património arbóreo do município, garantir a diversidade de espécies, potenciar a conectividade da estrutura e o aumento da superfície permeável.
+
+7 - Sempre que possível, devem ser implementados novos eixos arborizados nos passeios ou eixo dos arruamentos, sem prejuízo das condições de acessibilidade e promovendo percursos pedonais e cicláveis que estabeleçam a ligação entre os espaços verdes, os equipamentos coletivos, as interfaces de transporte público e as áreas residenciais.
+
+8 - A vegetação a usar nos espaços verdes públicos deverá ser adequada às condições edafoclimáticas e às características físicas de fruição dos espaços, devendo garantir-se uma manutenção sustentável sob o ponto de vista do consumo de água e utilização de produtos químicos como fertilizantes e produtos fitofarmacêuticos.
+
+9 - É proibido o abate, poda e corte de raízes das árvores protegidas de acordo com o Anexo II do presente regulamento (lista de arvores identificadas no decurso do inventário, a proteger), sem prejuízo dos artigos seguintes.
+
+10 - Sempre que haja necessidade de intervenção que implique o abate, a transplantação, ou outra operação que de algum modo afete negativamente a vitalidade ou a longevidade das árvores, deverá ser previamente sujeita a parecer da unidade orgânica com competência para o efeito, de forma a determinar os estudos a realizar, medidas cautelares e modo de execução dos trabalhos.
+
+11 - Sempre que se verifique a necessidade de valoração de material vegetal, designadamente por dano ou para efeitos de análise custo-benefício, esta é feita segundo os princípios orientadores da quantificação dos serviços de ecossistema proporcionados pelas árvores e quantificação do seu valor estrutural, baseada em métodos de valoração reconhecidos a nível internacional, concretamente, pela Norma Granada, segundo as indicações constantes do Guia de Boas Práticas para a Gestão do Arvoredo Urbano (ICNF, I. P.) e de acordo com os regulamentos de tabelas e taxas aplicáveis.
+
+12 - A Câmara Municipal reserva-se o direito de exigir a salvaguarda e proteção de exemplares arbóreos ou arbustivos que pelo seu porte, idade, raridade botânica ou valor histórico possam vir a ser classificados de Interesse Público ou Municipal, conforme legislação em vigor.
+
+13 - A gestão das pragas e doenças de plantas do património arbóreo e em espaços verdes deve seguir as linhas gerais da promoção das soluções de base natural, na ótica da proteção integrada, promovendo a proteção fitossanitária com baixa utilização de produtos fitofarmacêuticos e observando as boas práticas, de acordo com a legislação em vigor sobre a matéria.
+
+14 - Não são permitidas ações ou comportamentos que ponham em causa estes princípios ou contribuam para a deterioração do arvoredo e dos espaços verdes.
+
+15 - Ao direito dos munícipes e cidadãos de usar e fruir deste património natural corresponde sempre o dever da sua manutenção e preservação.
+
+###### Artigo 6.º — Protocolos de Cooperação
+
+Tendo em vista promover uma participação mais ativa e empenhada das populações na qualificação do espaço urbano, com reflexos na sua qualidade de vida, a gestão dos espaços verdes pode ser confiada a moradores ou a grupo de moradores das zonas loteadas ou urbanizadas, associações ou outras pessoas singulares ou coletivas, mediante a celebração de protocolos de cooperação.
+
+###### Artigo 7.º — Deveres do Município
+
+1 - O município é responsável pela gestão, conservação e proteção do património arbóreo e demais vegetação que integra a Estrutura Ecológica Municipal em propriedade pública, visando garantir a defesa da melhoria da qualidade de vida dos cidadãos, e contribuindo para o equilíbrio ecológico e ambiental, bem como para a valorização paisagística do município.
+
+2 - Nos espaços afetos à Estrutura Ecológica Municipal inseridos em propriedade privada deverão ser seguidas as diretivas referentes aos regimes legais específicos estabelecidos para as servidões legais e restrições de utilidade pública abrangidas, assim como as diretrizes do Regulamento do Plano Diretor Municipal em vigor.
+
+3 - Ao município compete promover a educação ambiental e o envolvimento dos cidadãos no desenvolvimento de políticas de gestão, conservação e proteção do arvoredo.
+
+4 - Ao município compete, ainda, promover a vegetação autóctone, quer nos espaços de gestão pública municipal quer de outras entidades públicas e privadas.
+
+5 - Ao município compete dar resposta às necessidades prementes no combate aos efeitos das alterações climáticas no seu território, nomeadamente através da criação de estratégias de fomento de serviços de ecossistema proporcionados pelo arvoredo urbano, baseadas no reforço do seu património arbóreo.
+
+###### Artigo 8.º — Deveres gerais e especiais dos Munícipes
+
+1 - É dever de todos os munícipes colaborar na defesa do arvoredo e dos espaços verdes municipais.
+
+2 - Sem prejuízo das demais obrigações legais, os proprietários, superficiários, usufrutuários, arrendatários e titulares de outros direitos reais ou obrigacionais que confiram poderes sobre a gestão de património arbóreo confinante com o espaço público, reportados a prédios onde se situem espécies ou conjuntos de interesse identificados no âmbito do presente Regulamento, têm o dever especial de os preservar, tratar e gerir, por forma a evitar a sua degradação ou destruição.
+
+3 - Tendo em vista promover e incentivar a cidadania, através de uma participação mais ativa e empenhada das populações na qualificação do espaço urbano, com reflexos na sua qualidade de vida, a Câmara Municipal, sempre que assim o entender, pode autorizar a manutenção e/ou gestão dos espaços verdes a moradores ou associações de moradores, escolas e outras instituições, mediante a celebração de protocolos, acordos de cooperação ou contratos de concessão, sendo da competência dos respetivos serviços municipais a decisão para abates, transplantações, podas e plantações de árvores e arbustos.
+
+4 - Os proprietários e demais titulares de direitos reais sobre arvoredo classificado ou em vias de classificação estão obrigados a colaborar com os serviços da Câmara Municipal no exercício das suas competências, nomeadamente, facultando o acesso aos bens e prestando informação relevante que lhes seja solicitada, bem como comunicar qualquer intervenção que seja realizada e que possa pôr em causa a integridade ou longevidade do arvoredo classificado como de interesse público ou de interesse municipal.
+
+###### Artigo 9.º — Gestão do regulamento
+
+1 - A gestão do disposto no presente regulamento incumbe à Câmara Municipal de Torres Novas, sem prejuízo da possibilidade de delegação e subdelegação.
+
+2 - A gestão técnica do presente regulamento é desenvolvida pela unidade orgânica responsável pela gestão dos espaços verdes, sem prejuízo da intervenção das demais unidades orgânicas no seu exclusivo âmbito de competência.
+
+3 - Em caso da alteração da estrutura flexível, as incumbências referidas no número anterior reportam-se às unidades orgânicas com competências análogas à unidade orgânica responsável pela gestão dos espaços verdes na nova estrutura.
+
+###### Artigo 10.º — Autorizações
+
+1 - As autorizações previstas no presente Regulamento, são da competência da(o) Presidente da Câmara, com possibilidade de delegação e de subdelegação.
+
+2 - As autorizações referidas nos números anteriores são sempre dadas por escrito e apresentadas aos vigilantes, funcionários responsáveis pelos espaços verdes ou elementos da fiscalização, que para tal se identifiquem.
+
+###### Artigo 11.º — Estratégia Municipal para o Arvoredo Urbano
+
+1 - A Estratégia para a Gestão do Arvoredo Urbano no Município de Torres Novas tem como eixos condutores a promoção da funcionalidade do coberto arbóreo, da racionalização da utilização dos recursos materiais e humanos e da otimização dos resultados face aos meios disponíveis, na ótica da sustentabilidade a nível económico, ambiental e social.
+
+2 - O arvoredo e os espaços verdes são considerados componentes de elevada importância quer ao nível da organização do território, constituindo-se como elementos qualificadores da paisagem urbana, quer em termos de qualidade de vida dos cidadãos.
+
+3 - Para além dos princípios gerais enunciados no artigo 5.º, a gestão do arvoredo urbano municipal está vinculada à não regressividade, tendo como termo de comparação o instrumento de gestão que prevê o registo do coberto arbóreo do município, designado como inventário municipal do arvoredo em meio urbano, nomeadamente:
+
+a) O coberto arbóreo não pode ser inferior ao registado na última revisão do inventário municipal do arvoredo em meio urbano;
+
+b) Os níveis de prestação de serviços ecológicos e climáticos pelo arvoredo urbano não podem ser inferiores aos determinados pela última revisão do inventário municipal do arvoredo em meio urbano e devem, desejavelmente, devem ser incrementados.
+
+### CAPÍTULO II — INVENTÁRIO
+
+###### Artigo 12.º — Inventário do arvoredo urbano
+
+1 - Todo o arvoredo existente sob gestão autárquica ou de outras entidades públicas será registado e devidamente caracterizado na forma de inventário, designado «inventário municipal do arvoredo em meio urbano».
+
+2 - No registo da informação pode recorrer-se a aplicações informáticas que permitam a ligação à base de dados disponibilizada remotamente.
+
+3 - As entidades gestoras do arvoredo utilizarão a plataforma como instrumento de gestão corrente, registando todas as operações de intervenção na árvore ou no meio envolvente à mesma, devendo mantê-la atualizada.
+
+4 - O Município de Torres Novas elabora e disponibiliza ao público:
+
+a) Uma listagem de espécies arbóreas e arbustivas adaptadas ou suscetíveis de adaptação às condições edafoclimáticas específicas do respetivo território (Anexo IV);
+
+b) Critérios para a escolha das espécies de Árvores no Município de Torres Novas, conforme IV;
+
+c) Uma lista de exemplares arbóreos classificados de Interesse Público e de Interesse Municipal, e respetiva planta de localização, considerando as respetivas prioridades de conservação e proteção, conforme Anexo I.
+
+d) Uma lista de espécies protegidas no Município de Torres Novas, conforme Anexo II.
+
+5 - O inventário será revisto com uma periodicidade não superior a cinco anos.
+
+###### Artigo 13.º — Parâmetros do inventário do arvoredo urbano
+
+1 - O inventário completo incluirá todas as árvores do domínio público municipal e domínio privado do município, fornecendo informação precisa acerca da localização, idade e estado geral dos exemplares diversidade de espécies e ainda eventuais necessidades imediatas em termos de intervenções, sendo uma ferramenta essencial para o planeamento e gestão do coberto arbóreo.
+
+2 - Os parâmetros deverão ser obtidos para todas as árvores, ou para as árvores selecionadas segundo o método de amostragem definido, e deve constar do respetivo inventário, os seguintes elementos:
+
+a) Código numérico, a cada exemplar será atribuído um código numérico irrepetível para permitir a sua identificação num contexto mais global, associar imagens, intervenções ou futuros diagnósticos, criando um registo individual e histórico. O prefixo numérico poderá ter o código do distrito, NUT III, concelho e freguesia (DICOFRE), a área de estudo, a subárea ou setor e finalmente o número da árvore;
+
+b) Geolocalização, as árvores inventariadas serão geolocalizadas em coordenadas geográficas (latitude; longitude), datam SRC ETRS89 PT-TM06 (EPSG: 3763), fazendo referência também ao Concelho, Freguesia e Local (Ex. Rua, Praça, Jardim, Rotunda, Praceta, etc.), admitindo uma margem de erro de 0,50 metros na precisão da geolocalização, a contar do centro do tronco;
+
+c) Identificação, ao nível da espécie, da subespécie e da variedade, fazendo referência aos nomes científico e comum;
+
+d) Caracterização dendrométrica do exemplar, os parâmetros a considerar podem incluir:
+
+i) Diâmetro ou perímetro à altura do peito (DAP ou PAP), padronizado para a medição do diâmetro do tronco à altura de 1,30 m do solo, em centímetros;
+
+ii) Altura da árvore (H), altura total da árvore, em metros, arredondado às centésimas;
+
+iii) Diâmetro ou Perímetro no Colo (DC ou PC), medição do diâmetro do tronco junto à base do solo, em centímetros;
+
+iv) Altura da Base da Copa (HBCP), altura medida da base da árvore até à base da copa, em metros, arredondado às centésimas;
+
+v) Diâmetro Médio da Copa (DCP), diâmetro médio de, pelo menos, duas medições perpendiculares da copa, em metros, arredondado às centésimas;
+
+e) Classe de idade (Cl_idade), classe de idade da árvore, com intervalos de 10 em 10 anos:
+
+| Classes de Idade (anos) |  |  |  |
+| --- | --- | --- | --- |
+| [0-10] | [11-20] | [21-30] | [31-40] |
+| [41-50] | [51-60] | [61-70] | [71-80] |
+| [81-90] | [91-100] | [101-110] | [111-120] |
+| [121-130] | [131-140] | [141-150] | [> 150] |
+
+f) Estado fitossanitário, que a árvore apresenta (Saudável: Sim, Não (explicitar pragas e/ou doenças);
+
+g) Razões da classificação do exemplar, quando aplicável, como exemplar de interesse público ou de interesse municipal, em observância do disposto na [Lei n.º 53/2012](https://diariodarepublica.pt/dr/detalhe/lei/53-2012-174836), de 5 de setembro, regulamentada pela Portaria n.º 124/2014, de 24 de junho). Deverão ser contemplados os seguintes parâmetros para cada exemplar:
+
+i) Tipo de árvore (Plantada, Cepo, Caldeira Vazia, Espontânea);
+
+ii) Local da árvore (Arruamentos, Rotundas, Jardins e espaços ajardinados, Parques infantis, Escolas, Parques de estacionamento, Espaços de condomínio, Praças e Pracetas, Separadores, Cemitérios, Isolados e restantes árvores);
+
+iii) Tipo de solo (Asfalto, Calçada, Cimento, Deck, Ervado, Relvado, Saibro/Gravilha, Pavê, Lajetas de granito, Terra, Outro);
+
+iv) Viva/Morta (Viva, Morta);
+
+v) Caldeira (Sim, Não);
+
+vi) Estado do solo (Normal, Deformado, Rebentado);
+
+vii) Risco de queda (Sim, Não);
+
+viii) Rega automática (Sim, Não);
+
+h) Intervenções programadas com as respetivas datas;
+
+i) Intervenções realizadas com as respetivas datas;
+
+j) Entidade responsável pela manutenção;
+
+k) Notificações de alerta sobre intervenções a realizar;
+
+l) Outras informações (por exemplo, parâmetros que venham a revelar-se necessários para o cálculo dos serviços de ecossistema, segundo os métodos que venham a ser adotados).
+
+3 - As entidades gestoras do arvoredo urbano, devem realizar igualmente cartografia das áreas sujeitas a condicionalismos pela aplicação das normas referentes à existência das Zonas de Proteção Radicular (ZPR).
+
+4 - As ZPR devem ser estabelecidas com base na projeção da copa sobre o solo ou segundo um múltiplo do DAP, de forma a garantir o espaço mínimo indispensável à preservação das árvores, a quando da realização de trabalhos.
+
+5 - A cartografia das ZPR deve ser disponibilizada aos gestores, técnicos das autoridades locais, projetistas e empresas prestadoras de serviços, para que disponham do conhecimento de base necessário ao desenvolvimento das suas atividades de planeamento ou de construção, garantindo a preservação do coberto arbóreo.
+
+###### Artigo 14.º — Divulgação do inventário do arvoredo em meio urbano
+
+A base de dados do inventário com a caracterização do arvoredo é mantida pela entidade responsável pela sua gestão, com atributos disponibilizados em plataforma online, criada para o efeito pelo município na respetiva página institucional na internet, acessível em regime de dados abertos e deve permitir:
+
+a) Que os cidadãos coloquem questões e denunciem ocorrências relativamente aos exemplares;
+
+b) Emissão de alertas sobre intervenções a realizar, comunicadas com a antecedência mínima de 10 dias úteis, exceto em casos de manifesta urgência.
+
+### CAPÍTULO III — ESPÉCIES PROTEGIDAS E ÁRVORES CLASSIFICADAS
+
+#### SECÇÃO I — ESPÉCIES PROTEGIDAS
+
+###### Artigo 15.º — Proteção Legal
+
+1 - Sem prejuízo da proteção legal que seja ou possa vir a ser determinada para outras espécies, o [Decreto-Lei n.º 169/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2001-332749), de 25 de maio na sua redação atual estabelece medidas de proteção ao sobreiro (Quercus suber) e à azinheira (Quercus ilex subsp. rotundifolia).
+
+2 - O [Decreto-Lei n.º 423/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1989-550794), de 4 de dezembro proíbe, em todo o território do continente, o arranque, o corte total ou parcial, o transporte e a venda de azevinho espontâneo, (Ilex aquifolium).
+
+3 - A intervenção de poda e abate, nas espécies referidas no número anterior, implantadas em espaço público ou privado carece de autorização do Instituto da Conservação da Natureza e das Florestas (ICNF, I. P.), sendo os trabalhos efetuados com o seu apoio técnico.
+
+4 - De acordo com o Programa Regional de Ordenamento Florestal da Lezíria e Vale do Tejo (PROF LVT), carecem de medidas de proteção específicas os exemplares espontâneos das seguintes espécies florestais:
+
+a) Carvalho-negral (Quercus pyrenaica);
+
+b) Carvalho-roble (Quercus robur);
+
+c) Teixo (Taxus baccata).
+
+5 - Beneficiam ainda de especial proteção, as espécies com elevado valor botânico, paisagístico e patrimonial, pela raridade que representam, bem como por terem uma função de suporte de habitat, que constem do Plano Municipal de Defesa da Floresta contra Incêndios (PMDFCI) em vigor.
+
+#### SECÇÃO II — ÁRVORES CLASSIFICADAS
+
+##### SUBSECÇÃO I — DO INTERESSE PÚBLICO
+
+###### Artigo 16.º — Arvoredo de Interesse Público
+
+1 - A classificação de arvoredo de interesse público é aplicável aos povoamentos florestais, bosques ou bosquetes, arboretos, alamedas e jardins de interesse botânico, histórico, paisagístico ou artístico, bem como aos exemplares isolados de espécies vegetais que, pela sua representatividade, raridade, porte, idade, historial, significado cultural ou enquadramento paisagístico, possam ser considerados de relevante interesse público e se recomende a sua cuidadosa conservação de acordo com a legislação vigente.
+
+2 - A classificação de arvoredo de interesse público e seu regime de proteção rege-se pelo disposto na [Lei n.º 53/2012](https://diariodarepublica.pt/dr/detalhe/lei/53-2012-174836), de 5 de setembro, a qual aprovou o regime jurídico da classificação de arvoredo de interesse público pela Portaria n.º 124/2014, de 24 de junho, que regulamenta a Lei atrás referida.
+
+3 - Sem prejuízo de outro arvoredo que seja considerado de interesse público, encontra-se classificado o arvoredo constante no Anexo I ao presente Regulamento.
+
+4 - Sem prejuízo do disposto na lei ou em despacho da entidade competente, o arvoredo de interesse público referido no número anterior considera-se atualizado assim que a carta de condicionantes do Plano Diretor Municipal traduzir essa realidade.
+
+5 - Nos termos do Regime Jurídico enunciado no n.º 2 do presente artigo, nenhuma Árvore de Interesse Público pode ser cortada ou desramada sem autorização prévia do Instituto da Conservação da Natureza e das Florestas (ICNF, I. P.), sendo os trabalhos efetuados com o seu apoio técnico.
+
+##### SUBSECÇÃO II — DO INTERESSE MUNICIPAL
+
+###### Artigo 17.º — Arvoredo de Interesse Municipal
+
+1 - A classificação de arvoredo de interesse municipal constitui uma competência da Câmara Municipal de Torres Novas, ao abrigo da alínea t), n.º 1 do artigo 33.º do regime jurídico Aprovado pela [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro e para os efeitos do estabelecido no artigo 2.º da Portaria n.º 124/2014, de 24 de junho, a qual dispõe que a classificação e arvoredo de interesse municipal pode processar-se de acordo com regimes próprios concretizados na presente subsecção do regulamento municipal, que devem incorporar critérios uniformes, de acordo com o estatuído nos n.os 12 e 13 do artigo 3.º da [Lei n.º 53/2012](https://diariodarepublica.pt/dr/detalhe/lei/53-2012-174836), de 5 de setembro.
+
+2 - Cabe à Câmara Municipal, sob proposta da unidade orgânica responsável pelos espaços verdes, responsável pela gestão do arvoredo, das Uniões de Freguesias e Freguesias, de associações de defesa do ambiente, ou de cidadãos, classificar espécimes e associações vegetais de interesse municipal, em terreno particular ou público, segundo os parâmetros de apreciação e os trâmites inerentes estipulados no presente regulamento.
+
+3 - O processo de classificação depende de prévia notificação ao respetivo proprietário e será submetido à aprovação da Câmara Municipal.
+
+4 - O município publicará informação técnica relativa às árvores de Interesse Municipal, que será divulgada nos moldes aprovados pela Câmara Municipal.
+
+###### Artigo 18.º — Categorias de arvoredo passível de classificação de Interesse Municipal
+
+O arvoredo de Interesse Municipal é passível de classificação dentro das seguintes categorias:
+
+a) «Exemplar isolado», abrangendo indivíduos de espécies vegetais relativamente aos quais se recomende a sua cuidadosa conservação e que pela sua representatividade, raridade, porte, idade, historial, significado cultural ou enquadramento paisagístico, sejam considerados de relevante interesse municipal;
+
+b) «Conjunto arbóreo», abrangendo os povoamentos florestais ou bosques ou bosquetes, arboretos, alamedas e jardins de interesse botânico, histórico, paisagístico ou artístico.
+
+###### Artigo 19.º — Critérios gerais de classificação de arvoredo de Interesse Municipal
+
+1 - Constituem critérios gerais de classificação de arvoredo de Interesse Municipal, os seguintes:
+
+a) O porte;
+
+b) O desenho;
+
+c) A idade;
+
+d) A raridade;
+
+e) O relevante significado natural, histórico, cultural ou paisagístico para o Município.
+
+2 - Os critérios estabelecidos no número anterior são considerados isoladamente ou conjuntamente na classificação do arvoredo, consoante os seus atributos dentro da categoria a que pertence e a finalidade determinante do estatuto de proteção, sendo que a alínea e) de caráter vinculativo e uma avaliação negativa impede a classificação.
+
+3 - Os critérios estabelecidos no n.º 1 do presente artigo, devem seguir os parâmetros indicados no “Regulamento com o Desenvolvimento e a Densificação de Parâmetros de Apreciação e da sua Correspondência aos Critérios de Classificação de Arvoredo de Interesse Público”, de 5 de março de 2018, aprovado pelo ICNF, I. P., e a legislação em vigor.
+
+4 - Nos termos da alínea a) do n.º 1 do presente artigo, qualquer árvore com PAP superior ao indicado no Anexo I - Lista e plantas de localização das árvores classificadas de interesse público e de interesse municipal existentes no município de Torres Novas, poderá ser classificada como de Interesse Municipal. Os valores de referência a considerar para as espécies encontram-se listados no referido Anexo e têm por base os subparâmetros dendrométricos previstos no Anexo único do “Regulamento com o Desenvolvimento e a Densificação de Parâmetros de Apreciação e da sua Correspondência aos Critérios de Classificação de Arvoredo de Interesse Público”, de 5 de março de 2018 aprovado pelo ICNF, I. P., e a legislação em vigor, adaptados à realidade municipal e tendo em conta o valor ecológico das espécies, a sua raridade no concelho e a origem da espécie (facto de ser autóctone ou exótica).
+
+5 - A classificação do arvoredo de Interesse Municipal é excluída nas seguintes situações:
+
+a) Sujeição ao cumprimento de medidas fitossanitárias que impliquem a eliminação ou destruição obrigatórias do arvoredo;
+
+b) Declaração de utilidade pública expropriatória para fins de reconhecido interesse nacional do imóvel da situação do arvoredo, salvo quando, por acordo com as entidades competentes, seja encontrada alternativa viável à execução do projeto ou obra determinante da expropriação, que permita a manutenção e conservação do conjunto ou dos exemplares isolados propostos;
+
+c) Existências de árvores mortas ou com sinais de pouca resistência estrutural e mau estado vegetativo e sanitário ou a existência de risco sério para a segurança de pessoas e bens desde que de valor eminentemente superior ao visado com a proteção do arvoredo, em qualquer dos casos, quando não sejam resolúveis com o conhecimento técnico disponível.
+
+6 - Quanto ao critério enunciado na alínea a) do n.º 1, os valores a considerar devem, no seu limite máximo ser inferiores aos subparâmetros dendrométricos previstos no Anexo único do “Regulamento com o Desenvolvimento e a Densificação de Parâmetros de Apreciação e da sua Correspondência aos Critérios de Classificação de Arvoredo de Interesse Público”, de 5 de março de 2018, aprovado pelo ICNF, I. P., e a legislação em vigor.
+
+7 - Quanto ao critério enunciado na alínea c) do n.º 1 no parâmetro de especial longevidade da árvore, consideram-se tendencialmente como limites máximos os previstos no artigo 5.º do “Regulamento com o Desenvolvimento e a Densificação de Parâmetros de Apreciação e da sua Correspondência aos Critérios de Classificação de Arvoredo de Interesse Público”, de 5 de março de 2018, aprovado pelo ICNF, IP, ponderada a realidade municipal e que devem, no seu limite mínimo obedecer, consoante a espécie ao seguinte:
+
+a) Alfarrobeira, Carvalhos, Freixos, Sobreiros e Azinheiras: 50 anos;
+
+b) Áceres, Plátanos e Tílias: 60 anos;
+
+c) Cedros, Ciprestes, Liquidambar, Lódãos, Pinheiro-bravo, Sequoias 60 anos;
+
+d) Castanheiro, Jacarandás: 60 anos;
+
+e) Oliveiras e Azambujeiros: 100 anos.
+
+###### Artigo 20.º — Critérios especiais de classificação dos conjuntos arbóreos como de Interesse Municipal
+
+1 - Tratando-se de conjunto arbóreo, constituem ainda critérios especiais de classificação de arvoredo de interesse municipal, que se devem verificar cumulativamente, os seguintes:
+
+a) A singularidade do conjunto, representada pela sua individualidade natural, histórica ou paisagística;
+
+b) A coexistência de um número representativo de exemplares com características suscetíveis de justificar classificação individual como arvoredo de interesse municipal;
+
+c) A insuficiência da classificação isolada de exemplares do conjunto, analisada na perspetiva das finalidades de proteção específica a atingir com a classificação do arvoredo;
+
+d) A especial longevidade do arvoredo tendo em conta a excecional idade dos exemplares que o constitui, considerando a idade que aquela espécie pode atingir em boas condições de vegetação e a sua representatividade a nível concelhio e dentro dos exemplares mais antigos;
+
+e) O estatuto de conservação da espécie, a sua abundância no território municipal, bem como a singularidade dos exemplares propostos, quando associados ao especial reconhecimento coletivo do arvoredo.
+
+2 - Para efeitos da alínea b) do número anterior, considera-se que existe um número representativo de exemplares quando, no total da área proposta para classificação, pelo menos 30 % de indivíduos de espécies arbóreas possuem características suscetíveis de justificar classificação individual como arvoredo de interesse municipal.
+
+###### Artigo 21.º — Parâmetros de apreciação
+
+1 - A classificação de arvoredo como de Interesse Municipal é avaliada segundo parâmetros de apreciação consentâneos com cada um dos critérios gerais e cada uma das espécies arbóreas e, tratando-se de conjuntos arbóreos, dos critérios especiais aplicáveis às diferentes categorias de arvoredo.
+
+2 - Constituem parâmetro de apreciação:
+
+a) A monumentalidade do conjunto arbóreo na parte representativa dos seus elementos ou de exemplar isolado, considerada em função do seu porte;
+
+b) A forma ou estrutura do arvoredo considerada em função da beleza ou do insólito da sua conformação e configuração externas, contando que os exemplares vegetais apresentem resistência estrutural dos troncos e pernadas;
+
+c) A especial longevidade do arvoredo, aplicada a indivíduos ancestrais, centenários ou milenares e ainda a outros que, pela sua excecional idade para a espécie respetiva, sejam representativos a nível nacional dos exemplares mais antigos dessa espécie;
+
+d) O estatuto de conservação da espécie, a sua abundância no território nacional, bem como a singularidade dos exemplares propostos, quando associadas ao especial reconhecimento coletivo do arvoredo, abrangendo, nomeadamente, os exemplares únicos ou que existam em número muito reduzido e, tratando-se de espécies não autóctones, das que se aclimataram e, quando apresentam um desenvolvimento considerado normal ou superior, das que se revestem de especial interesse cultural ou de conservação a nível internacional;
+
+e) O interesse do arvoredo enquanto testemunho notável de factos históricos ou lendas de relevo nacional ou local;
+
+f) A importância determinante do arvoredo na valorização estética do espaço envolvente e dos seus elementos naturais e arquitetónicos;
+
+g) O valor cultural, histórico e patrimonial proveniente da singularidade do conjunto na realidade municipal, nacional ou mundial;
+
+h) A identificação de ameaças a curto prazo que ponham em causa a continuidade do conjunto em questão;
+
+i) O valor simbólico do arvoredo, quando associado a elementos de crenças, da memória e do imaginário coletivo nacionais ou locais, e/ou associado a figuras relevantes da cultura portuguesa, da região ou do concelho;
+
+j) A importância natural do arvoredo na integridade ecológica do concelho;
+
+k) Outras características, como sendo endógenas, terem um porte natural ou muito próximo do natural;
+
+l) O preenchimento dos demais critérios enunciados no n.º 1 do artigo 17.º
+
+3 - Podem ser classificados como de Interesse Municipal os exemplares de qualquer espécie, que não sejam considerados infestantes, com referência ao [Decreto-Lei n.º 92/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), de 10 de julho, ou versão mais atualizada, e demais legislação vigente.
+
+###### Artigo 22.º — Processo de Classificação de Arvoredo de Interesse Municipal
+
+O processo de classificação de Arvoredo de Interesse Municipal deve respeitar as seguintes fases:
+
+a) Iniciativa do procedimento;
+
+b) Apreciação do processo de classificação;
+
+c) Comunicação do andamento do procedimento e medidas de salvaguarda;
+
+d) Relatório e discussão;
+
+e) Declaração de Interesse Municipal;
+
+f) Sinalização e divulgação do arvoredo classificado;
+
+g) Monitorização.
+
+###### Artigo 23.º — Iniciativa do procedimento
+
+1 - O procedimento administrativo de classificação de arvoredo de Interesse Municipal inicia-se com a apresentação de proposta pelos respetivos proprietários ou pelos demais interessados, nomeadamente as autarquias locais competentes em razão do território, as organizações de produtores florestais ou entidades gestoras de espaços florestais, as organizações não governamentais de ambiente e os cidadãos ou movimentos de cidadãos de forma voluntária, podendo o município, nos casos que se justifique, promover internamente um processo de classificação, sem prejuízo do cumprimento da tramitação prevista no presente regulamento.
+
+2 - A proposta de classificação é apresentada, por escrito, em requerimento adequado para o efeito, disponibilizado na página da Câmara Municipal de Torres Novas, o qual deve conter, pelo menos campos para inserção dos seguintes dados:
+
+a) Identificação do requerente;
+
+b) Localização e descrição do conjunto arbóreo ou dos exemplares isolados do arvoredo proposto;
+
+c) Identificação, sempre que possível, da propriedade, posse ou outro direito real menor, relativo ao bem imóvel da situação do arvoredo proposto e da sua zona geral de proteção;
+
+d) Fundamento da classificação, por referência à categoria e critério ou critérios aplicáveis.
+
+3 - Caso o pedido de classificação seja feito por pessoa singular, no requerimento deve constar uma autorização expressa do requerente (disclaimer) para que os seus dados pessoais possam ser utilizados no âmbito da tramitação administrativa do pedido no Município de Torres Novas, de acordo com o estatuído no Regulamento Geral (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016 relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (Regulamento Geral sobre a Proteção de Dados).
+
+4 - Ao requerimento deve ser junta em suporte papel ou digital, pelo menos, uma fotografia do conjunto arbóreo ou dos exemplares isolados propostos e da sua envolvente.
+
+5 - O procedimento, caso não seja da iniciativa oficiosa dos serviços municipais, inicia-se com o preenchimento de requerimento próprio para o efeito, disponível online.
+
+6 - O início do procedimento de classificação é comunicado ao ICNF, I. P.
+
+###### Artigo 24.º — Apreciação do processo de classificação
+
+1 - A unidade orgânica responsável pela gestão dos espaços verdes, faz a apreciação do processo na sequência da abertura do procedimento, no prazo de 20 dias úteis;
+
+2 - Caso não se verifique a necessidade de aperfeiçoar o pedido, nos termos do Código de Procedimento Administrativo, realiza uma visita técnica ao exemplar sujeito a classificação, elaborando um relatório, onde deve constar:
+
+a) Identificação do proprietário, possuidor ou outro titular de um direito real menor sobre o arvoredo proposto;
+
+b) Coordenadas geográficas de localização do arvoredo;
+
+c) Descrição sumária dos dados históricos, culturais ou de enquadramento paisagístico associados ao arvoredo proposto, quando aplicável;
+
+d) Identificação da espécie ou espécies vegetais;
+
+e) Valores dos parâmetros dendrométricos e outros considerados relevantes;
+
+f) Estado fitossanitário e biomecânico do exemplar proposto;
+
+g) Identificação de regimes legais de proteção especial a que o arvoredo se encontre sujeito, com menção daqueles que forem incompatíveis com a classificação proposta, quando aplicável;
+
+h) Qualquer outro facto que possa ser relevante, determinante ou impeditivo da classificação da proposta.
+
+###### Artigo 25.º — Comunicação do prosseguimento do procedimento e medidas de salvaguarda
+
+1 - Quando, em resultado da visita técnica realizada nos termos do artigo anterior, seja de concluir que o arvoredo proposto possui atributos passíveis de justificar a sua classificação, o proprietário, o possuidor ou o titular de outro direito real sobre o arvoredo e sobre os prédios em que se situa a respetiva zona geral de proteção, e, quando diferente, o requerente, bem como a união de freguesias e freguesia territorialmente competente e outras entidades públicas competentes na matéria ou na área de jurisdição em causa, são notificados para o prosseguimento do procedimento de classificação.
+
+2 - O arvoredo é considerado em vias de classificação a partir da notificação do prosseguimento do procedimento ou da afixação do respetivo edital, consoante aquela que ocorra em primeiro lugar.
+
+3 - As notificações referidas no n.º 1 efetuam-se, em simultâneo, no prazo de 5 dias após o termo da instrução do requerimento e nas formas previstas no Código do Procedimento Administrativo, devendo ter lugar editalmente quanto não seja conhecido o proprietário, o possuidor ou outro titular de direito real sobre o arvoredo proposto ou dos prédios sobre os quais incida a respetiva zona geral de proteção e, bem assim, quando o seu o número for superior a vinte titulares de direitos.
+
+4 - Sob pena de ineficácia, as notificações a que se refere o presente artigo devem conter:
+
+a) O conteúdo, objeto e fundamentos do requerimento de classificação;
+
+b) O teor do relatório de vistoria a que se refere o n.º 2 do artigo anterior e os fundamentos determinantes do prosseguimento do procedimento, com indicação da categoria e critério ou critérios de classificação aplicáveis à apreciação do arvoredo;
+
+c) A planta de localização e implantação do arvoredo proposto e da respetiva zona geral de proteção provisória;
+
+d) A aplicação ao arvoredo em vias de classificação e aos bens prédios situados na sua zona geral de proteção provisória do regime previsto no n.º 8 do artigo 3.º e no n.º 2 do artigo 4.º da [Lei n.º 53/2012](https://diariodarepublica.pt/dr/detalhe/lei/53-2012-174836), de 5 de setembro;
+
+e) A indicação das intervenções proibidas e de todas aquelas cuja execução carece de autorização prévia do eleito com competências próprias ou delegadas e subdelegadas, sob parecer da unidade orgânica responsável pela gestão dos espaços verdes;
+
+f) Os demais efeitos do prosseguimento do procedimento, nomeadamente, os direitos de participação, reclamação e impugnação, bem como as formas e respetivos prazos de exercício.
+
+5 - O arvoredo em vias de classificação como de interesse Municipal:
+
+a) Beneficia automaticamente de uma zona geral de proteção de 15 m de raio a contar da sua base, considerando-se a zona de proteção a partir da intersecção das zonas de proteção de 15 m de raio a contar da base de cada um dos exemplares nos casos em que a classificação incida sobre um grupo de árvores;
+
+b) Pode, excecionalmente, beneficiar de uma área de proteção superior calculada em duas vezes a dimensão da copa, ou para as árvores “colunares e fastigiadas” numa superfície com diâmetro de 2/3 da altura da árvore.
+
+6 - São proibidas quaisquer intervenções que possam destruir ou danificar o arvoredo em vias de classificação como de interesse municipal, designadamente:
+
+a) O corte do tronco, ramos ou raízes;
+
+b) A remoção de terras ou outro tipo de escavação, na zona de proteção;
+
+c) O depósito de materiais, seja qual for a sua natureza, e a queima de detritos ou outros produtos combustíveis, bem como a utilização de produtos fitotóxicos na zona de proteção;
+
+d) Qualquer operação que possa causar dano, mutile, deteriore ou prejudique o estado vegetativo dos exemplares classificados.
+
+7 - Em casos pontuais admitem-se intervenções tecnicamente fundamentadas, desde que adotem boas práticas e técnicas e que não danifiquem o arvoredo, nomeadamente se estiverem associadas à gestão tradicional do arvoredo em questão.
+
+###### Artigo 26.º — Relatório e decisão
+
+1 - Concluída a apreciação do arvoredo proposto é produzido um relatório que incorpora os principais elementos da apreciação do arvoredo proposto, que habilitem a decisão do procedimento.
+
+2 - Na sequência do relatório é elaborado projeto de decisão, sujeito a audiência prévia dos interessados.
+
+3 - O projeto de decisão deve conter:
+
+a) O sentido da decisão a proferir, com a fundamentação da classificação do arvoredo proposto, por referência à categoria e critério ou critérios de apreciação relevantes, ou com a fundamentação do arquivamento do processo ou do indeferimento do requerimento, quando aquela não se justificar;
+
+b) A identificação, localização e descrição do conjunto arbóreo ou dos exemplares isolados do arvoredo proposto e a classificar;
+
+c) A identificação da propriedade, posse ou outro direito real menor, relativo aos prédios da situação do arvoredo objeto do procedimento e da respetiva zona geral de proteção, quando aplicável;
+
+d) A fixação da zona geral de proteção, através da sua descrição, elementos relevantes, esquema de representação e limites;
+
+e) A indicação das intervenções proibidas e de todas aquelas cuja execução carece de autorização prévia do eleito com competências próprias ou delegadas e subdelegadas, sob parecer da Unidade Orgânica de Espaços Verdes;
+
+f) O resumo das participações havidas no procedimento e eventuais pareceres emitidos, bem como a sua análise;
+
+g) O local e prazo durante o qual o processo administrativo se encontra acessível para consulta pelos interessados;
+
+h) O prazo para a pronúncia dos interessados.
+
+###### Artigo 27.º — Declaração de Interesse Municipal
+
+1 - Compete à Câmara Municipal a Declaração de Interesse Municipal do arvoredo devidamente fundamentada.
+
+2 - Sem prejuízo das demais que possam vir a ser classificadas, consideram-se de interesse municipal as árvores constantes do Anexo I ao presente Regulamento.
+
+3 - A desclassificação do arvoredo segue, com as devidas adaptações, a tramitação do procedimento de classificação.
+
+4 - Os atos de classificação e de desclassificação de arvoredo são comunicados ao ICNF, I. P.
+
+###### Artigo 28.º — Sinalização e divulgação do arvoredo classificado
+
+1 - O arvoredo classificado de Interesse Municipal é sinalizado por meio de placa identificativa, segundo modelo definido pelo eleito com competências próprias ou delegadas e subdelegadas, sob parecer da unidade orgânica responsável pela gestão dos espaços verdes.
+
+2 - É de a responsabilidade da unidade orgânica responsável pela gestão dos espaços verdes proceder à colocação da placa identificativa junto ao arvoredo classificado de Interesse Municipal e à manutenção da dita sinalização.
+
+3 - Na placa identificativa deve, pelo menos, figurar:
+
+a) Designação comum e científica da árvore;
+
+b) Dimensão;
+
+c) Características genéricas;
+
+d) Data da sua classificação.
+
+4 - É divulgado na página institucional na internet do Município de Torres Novas o Registo do Arvoredo de interesse Municipal, disponível ao público.
+
+###### Artigo 29.º — Monitorização
+
+1 - Após a classificação do arvoredo como de interesse municipal os serviços municipais devem efetuar avaliação periódica do estado de conservação da árvore ou do maciço.
+
+2 - A avaliação periódica referida no número anterior será, no mínimo, trienal.
+
+###### Artigo 30.º — Dever de colaboração
+
+1 - Os proprietários, possuidores e demais titulares de direitos reais sobre arvoredo classificado ou em vias de classificação, estão obrigados a colaborar com os serviços da Câmara Municipal de Torres Novas no exercício das suas competências, nomeadamente, facultando o acesso aos bens e prestando qualquer informação relevante que lhes for solicitada, incluindo informação relativa a quaisquer atos e contratos que importem a sua transmissão ou oneração e a comunicar qualquer intervenção que seja realizada e que possa vir a por em causa a integridade ou longevidade do arvoredo classificado como Interesse Municipal.
+
+2 - Sempre que se verifique recusa à colaboração ou algum impedimento, pode o Município recorrer a mecanismos de intimação de acordo com o Código de Procedimento Administrativo ou solicitar apoio à autoridade competente.
+
+###### Artigo 31.º — Sobreposição de classificações
+
+1 - A classificação pelo ICNF, I. P., de arvoredo de interesse público consome eventual classificação anterior como de interesse municipal, devendo os respetivos registos ser cancelados.
+
+2 - A notificação do prosseguimento do procedimento de classificação de arvoredo de interesse público suspende automaticamente o procedimento de classificação municipal que tenha por objeto o mesmo conjunto arbóreo ou exemplares isolados, até à sua decisão, ao arquivamento ou à extinção do procedimento.
+
+3 - O município comunica ao ICNF, I. P., o início do procedimento de classificação de Arvoredo de Interesse Municipal, bem como as decisões finais nele proferidas.
+
+###### Artigo 32.º — Condicionantes Especiais a que está Sujeito o Arvoredo de Interesse Municipal
+
+1 - Qualquer intervenção a efetuar em Árvores Classificadas de Interesse Municipal, em terreno público ou privado, carece de autorização expressa da(o) Presidente da Câmara Municipal ou em quem este delegar, nos termos do artigo 10.º Autorizações deste regulamento.
+
+2 - Sempre que haja necessidade de intervenção em exemplares arbóreos ou arbustivos classificados de Interesse Municipal ao abrigo do presente Regulamento, que implique o seu abate, transplante, poda, corte de raízes ou outra intervenção que de algum modo afete a sua vitalidade ou longevidade, esta intervenção apenas pode ser promovida após autorização do município, que determinará os estudos a realizar, as medidas cautelares a adotar, o modo de execução dos trabalhos, eventuais medidas compensatórias e procederá à fiscalização da intervenção.
+
+3 - Excetuam-se do número anterior, as situações de perigo iminente devidamente comprovadas, por motivo de reconhecido prejuízo para a salubridade e segurança de pessoas, edifícios e bens vizinhos.
+
+4 - Em conjuntos arbóreos ou em exemplares isolados classificados de Interesse Municipal é proibido:
+
+a) Realizar ações de limpeza florestal não seletiva.
+
+b) Realizar ações de silvopastorícia, sem autorização prévia.
+
+c) O uso de produtos fitofarmacêuticos, fertilizantes ou outros químicos similares, exceto se prescritos no âmbito de tratamento fitossanitário, em concordância com parecer dos serviços competentes do município.
+
+5 - A manutenção das Árvores Classificadas de Interesse Municipal, classificadas nos termos do n.º 2 do artigo 15.º, é assegurada, quando em propriedade pública, pelo município, e quando em propriedade privada, pelo seu proprietário.
+
+6 - Os proprietários de Árvores Classificadas de Interesse Municipal devem requerer junto dos serviços municipais competentes autorização prévia para a realização de intervenções de manutenção nos exemplares classificados, indicando o tipo e o motivo da intervenção ou intervenções a realizar, devendo manter em sua posse todos os comprovativos e registos relativos às operações executadas por um período até 5 anos. As mencionadas intervenções serão realizadas com recurso a meios e a expensas do proprietário.
+
+7 - Em todas as empreitadas de obras públicas/municipais e em obras decorrentes de operações urbanísticas com emissão de licenças de loteamento ou licenças de construção, em locais onde existam Árvores Classificadas de Interesse Municipal, aplica-se e é obrigatória a situação prevista no n.º 1.
+
+8 - Nas situações previstas no n.º anterior, é necessário a apresentação de um levantamento topográfico, conforme Elementos Instrutórios do Anexo I da [Portaria n.º 71-A/2024](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2024-853867971), de 27 de fevereiro, referindo na memória descritiva as medidas de proteção a adotar para cada árvore classificada ou em processo de classificação, nos termos da subalínea ii) da alínea d) do n.º 6 do Anexo I da referida portaria.
+
+### CAPÍTULO IV — PROTEÇÃO DAS ÁRVORES
+
+#### SECÇÃO I — DAS ESPÉCIES E DOS EXEMPLARES NOTÁVEIS
+
+###### Artigo 33.º — Da preservação das espécies
+
+Para além das espécies legalmente protegidas e dos exemplares classificados ao abrigo das normas constantes do Capítulo anterior, o Município de Torres Novas considera, no âmbito do presente Regulamento que devem ser preservadas as seguintes espécies:
+
+a) Olea europea;
+
+b) Gingko biloba;
+
+c) Cupressus hesperocyparis lusitânica.
+
+###### Artigo 34.º — Da preservação de exemplares notáveis
+
+No âmbito do presente regulamento são ainda protegidas todas árvores de qualquer espécie não invasora, nos termos da legislação vigente, ao abrigo do n.º 1, do artigo 16.º da [Lei n.º 59/2021](https://diariodarepublica.pt/dr/detalhe/lei/59-2021-169780050), de 18 de agosto:
+
+a) Todas as árvores pertencentes à lista de espécies existentes em malha urbana estabilizada constante do Anexo II (Outras arvores protegidas no município), desde que com perímetro (PAP) igual ou superior a 1,50 m para espécies de porte arbóreo, e com perímetro (PAP) igual ou superior a 0,45 m para espécies de porte arbustivo;
+
+b) Todas as árvores pertencentes à lista de espécies existentes em malha urbana em desenvolvimento constantes do Anexo II, desde que com perímetro (PAP) igual ou superior a 0,45 ou 0,75 m, consoante a espécie.
+
+###### Artigo 35.º — Do direito à salvaguarda
+
+1 - A Câmara Municipal de Torres Novas, através de deliberação ou de decisão do eleito com competências próprias ou delegadas e subdelegadas nesta matéria, reserva-se o direito de salvaguardar ou promover a salvaguarda de qualquer árvore referida na presente Secção do Regulamento, por si ou junto da entidade com jurisdição sobre a mesma.
+
+2 - Carecem de autorização prévia da Câmara Municipal de Torres Novas, os seguintes atos:
+
+a) Sempre que seja necessário o abate, transplante ou poda de árvores classificadas de interesse municipal em terrenos públicos ou privados;
+
+b) Sempre que haja trabalhos, em espaço público, que interfiram com um exemplar arbóreo, seja com a parte aérea ou com o sistema radicular;
+
+c) Sempre que haja intervenção no compasso de plantação em arruamentos públicos;
+
+d) Sempre que, em qualquer exemplar de domínio público, haja colocação de iluminação, publicidade ou outros objetos anormais à árvore (atos associados a eventos, feiras e outro tipo de festividades), que a ser autorizada será sempre temporária, devendo ser retirada logo após a sua utilização.
+
+e) Sempre que existam trabalhos ou obras que interfiram com algum exemplar arbóreo é necessário a apresentação de um levantamento com a caracterização das espécies e o seu estado fitossanitário, bem como de um plano de medidas cautelares com a proteção da vegetação, que terá de ser aprovado por sujeição a avaliação técnica da situação pela unidade orgânica responsável pela gestão de Espaços Verdes, sem prejuízo da autorização de entidade com jurisdição superveniente sobre a mesma.
+
+###### Artigo 36.º — Das operações urbanísticas
+
+1 - As operações urbanísticas, independentemente da sua natureza, devem acautelar a preservação das espécies e exemplares existentes, referidos na presente Secção do Regulamento, de acordo com o projeto, sendo obrigatória menção expressa do facto no respetivo título.
+
+2 - Todas as operações urbanísticas que impliquem intervenções em espécies referidas no âmbito da presente secção, devem ser objeto de prévio parecer da unidade orgânica responsável pela gestão dos espaços verdes no âmbito da respetiva apreciação pelos serviços.
+
+3 - As operações urbanísticas, independentemente da sua natureza, devem acautelar a preservação dos exemplares arbóreos existentes no espaço público, salvo se, numa base de hierarquização da vivência do espaço público, se justificar a sua remoção que será fundamentada e documentada com fotografias do exemplar e da situação condicionante que justifica e enquadra a necessidade da sua remoção.
+
+4 - Qualquer operação urbanística que interfira com zonas arborizadas públicas deve apresentar, previamente, um levantamento e caracterização da vegetação existente, designadamente das espécies e respetivos porte e estado fitossanitário.
+
+5 - Sempre que possível, deve-se salvaguardar as áreas existentes com espécies autóctones de relevante valor histórico, cultural ou ecológico, cuja preservação pode constituir uma mais-valia, por estarem adaptadas às condições locais.
+
+6 - Qualquer remoção que ocorra segundo o acima previsto, e tendo em consideração o objetivo primordial de aumentar o coberto arbóreo, deve ser sempre compensada com a plantação de nova árvore nas proximidades do local, desde que não existam condicionantes relativas a infraestruturas, à dimensão útil do espaço público, ao afastamento de outros exemplares ou a questões fitossanitárias.
+
+7 - Quando a plantação de substituição não puder ter lugar, deverão ser aplicadas as devidas medidas compensatórias.
+
+#### SECÇÃO II — DAS INTERDIÇÕES EM GERAL E DOS CONDICIONAMENTOS
+
+###### Artigo 37.º — Das proibições em geral
+
+Em árvores implantadas em espaço público ou privado municipal é proibido:
+
+a) Retirar, destruir ou danificar tutores ou outras estruturas de proteção das árvores;
+
+b) Retirar ninhos e mexer nas aves ou nos ovos que neles se encontrem;
+
+c) Danificar raízes, troncos, ramos, folhas, ou flores, nomeadamente trepar e varejar, atar, prender, pregar, agrafar ou colar objetos, revestir, riscar e inscrever gravações e outras ações que destruam ou danifiquem os tecidos vegetais;
+
+d) Prender animais às árvores;
+
+e) Danificar quimicamente, nomeadamente com despejos em canteiros ou caldeiras de árvores de quaisquer produtos que prejudiquem ou destruam gravemente tecidos vegetais;
+
+f) Podar ou proceder a qualquer tipo de corte de ramos, sem prévia autorização da Autarquia;
+
+g) Desramar até ao cimo da árvore;
+
+h) Efetuar rolagem de árvore, em quaisquer circunstâncias;
+
+i) Substituir exemplares removidos por espécie diferente, exceto se enquadrado num plano de substituição de arvoredo elaborado ou aprovado pela Câmara Municipal de Torres Novas, pelo eleito com competências próprias ou delegadas e subdelegadas ou pela unidade orgânica responsável pela gestão dos espaços verdes;
+
+j) Alterar compasso de plantação, exceto se enquadrado num plano de substituição de arvoredo elaborado ou aprovado pela Câmara Municipal de Torres Novas, pelo eleito com competências próprias ou delegadas e subdelegadas ou pela unidade orgânica responsável pela gestão dos espaços verdes;
+
+k) Alterar caldeiras (dimensões, materiais) ou eliminá-las (pavimentar), exceto se enquadrado num projeto ou plano de intervenção no espaço público elaborado ou aprovado pela unidade orgânica responsável pela gestão dos espaços verdes;
+
+l) Entregar-se a divertimentos e atividades que possam prejudicar as árvores;
+
+m) Abater árvores sem autorização do eleito com competências próprias ou delegadas e subdelegadas, exceto nas situações de emergência, atestadas pelos serviços competentes do Município.
+
+###### Artigo 38.º — Das infraestruturas em geral
+
+A instalação de infraestruturas de superfície, aéreas ou subterrâneas em locais de domínio público ou privado municipal onde existam árvores está sujeita a autorização prévia municipal, podendo ser condicionada à execução de estudos ou de medidas cautelares.
+
+###### Artigo 39.º — Trabalhos na Zona de Proteção Radicular
+
+1 - Não é permitida a execução de trabalhos de qualquer natureza na zona de proteção do sistema radicular, considerada, nos termos deste Regulamento, como a superfície do solo que corresponde à área de projeção da copa das árvores, com exceção do previsto no n.º 3 do presente artigo.
+
+2 - Quando não seja possível estabelecer a zona de proteção do sistema radicular, deve ser colocada uma cercadura na zona de segurança da árvore a qual deverá ser fixa e com dois metros de altura, nos termos do Anexo III (Implementação, manutenção do arvoredo do município de Torres Novas).
+
+3 - Exceciona-se da proibição constante do n.º 1, os trabalhos que se destinem à instalação de infraestruturas, cujo traçado seja totalmente inviabilizado sem o atravessamento da zona de proteção do sistema radicular de alguma árvore, devendo neste caso ser adotadas as medidas cautelares tecnicamente adequadas.
+
+4 - Em qualquer obra que obrigue ao atravessamento de uma zona de proteção radicular, deverão ser adotadas as medidas de proteção constantes das normas técnicas constantes do Anexo III.
+
+5 - Na eventualidade da intervenção obrigar à remoção da árvore, deve privilegiar-se a sua transplantação, caso técnica e economicamente viável, ou a substituição na envolvente do espaço, por espécie preferencialmente equivalente com PAP adequado, sob indicação do serviço de Espaços Verdes, nos termos do Anexo III.
+
+###### Artigo 40.º — Corpos Salientes
+
+Quando nos termos do Regulamento Municipal de Urbanização e Edificação, sejam excecionalmente admitidos corpos salientes nas fachadas dos edifícios confinantes com espaço público, abertos ou fechados, que se projetem no espaço público ou privado do Município, deve ser garantido que em nenhum caso seja posta em causa a preservação das árvores existentes, ou sejam prejudicados os alinhamentos e árvores que devam ou possam vir a ser aí colocadas.
+
+### CAPÍTULO V — PLANEAMENTO E IMPLANTAÇÃO DE ARVOREDO
+
+#### SECÇÃO I — REGRAS GERAIS DE PLANEAMENTO
+
+###### Artigo 41.º — Enquadramento e Princípios
+
+1 - O planeamento, a gestão e a manutenção do arvoredo deve reger-se pela valorização das áreas pedonais, de estadia e lazer, bem como o aumento e interligação dos espaços verdes para descompressão urbana, afirmando o seu papel na melhoria da qualidade de vida das populações.
+
+2 - No respeito pelos princípios e pelas normas do Plano Diretor Municipal e dos demais Instrumentos de Gestão Territorial a gestão e manutenção do arvoredo deve privilegiar uma conectividade ecológica assente nas infraestruturas verdes e azuis, aproveitando a rede hídrica que atravessa as cidades, respondendo a exigências de:
+
+a) Qualidade de vida;
+
+b) Responsabilidade ambiental;
+
+c) Respeito pelos valores naturais.
+
+3 - A conectividade entre espaços deve ser conseguida com arborizações que promovem a reabilitação da zona edificada.
+
+4 - As áreas de estacionamento ao ar livre devem ser arborizadas por forma a prover sombreamento e captação de carbono em meio urbano, e reduzir o impacto que a função de estacionamento produz na paisagem, ainda que em meio urbano, incluindo o tratamento paisagístico das áreas envolventes de proteção e enquadramento.
+
+5 - A arborização a que se refere o número anterior deve ser constituída por alinhamentos de árvores, preferencialmente caducifólias, de médio e grande porte.
+
+###### Artigo 42.º — Arborização em projeto de arranjos exteriores em operações de loteamento ou de impacto semelhante a loteamento
+
+1 - Sem prejuízo das demais prescrições legais e regulamentares, quando esteja em causa uma operação urbanística, e o [Decreto-Lei n.º 163/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2006-538624), de 8 de agosto na sua redação atual, o qual aprova as Normas Técnicas de Acessibilidade aos edifícios habitacionais, o projeto de arranjos exteriores (arborizações), elaborado nos termos previstos no presente regulamento devem ser integrados pelos seguintes elementos:
+
+a) Plano Geral ou Plano de Apresentação, a escala não inferior a 1:500, identificando, relativamente ao existente a localização e identificação das árvores nos arruamentos adjacentes, a localização das infraestruturas elétricas (colunas de iluminação, armários), das passadeiras, das diferentes áreas funcionais, incluindo equipamentos e mobiliário urbano, percursos e zonas de estadia;
+
+b) Plano de Plantações de Árvores, à escala 1:200, indicando as diferentes espécies propostas e sua localização;
+
+c) Cortes e Perfis elucidativos da solução adotada;
+
+d) Memória Descritiva e Justificativa da proposta;
+
+e) Medições do projeto;
+
+f) Orçamento da sua execução, indicando a quantidade e especificidade dos materiais e trabalhos;
+
+g) Caderno de Encargos, descrevendo pormenorizadamente a natureza e qualidade dos materiais a utilizar, bem com a forma de execução dos trabalhos;
+
+h) Cronograma dos trabalhos;
+
+i) Plano de Medidas Cautelares, a escala não inferior a 1:500, identificando os elementos construídos e vegetais a preservar e proteger durante o decurso dos trabalhos, a localização do estaleiro bem como o local para vazadouro de terras vegetais e inertes, quando aplicável e se mostra necessário;
+
+j) Plano de Rega, a escala não inferior a 1:500, especificando os materiais propostos e cálculos.
+
+2 - O Plano de plantação de árvores deve incluir identificação das espécies existentes a manter, a transplantar ou a abater, através do seu nome científico e vulgar, considerando, para as espécies propostas as dimensões no estado adulto, em pleno desenvolvimento vegetativo, elaborado à escala 1/200;
+
+3 - Quando esteja em causa uma operação urbanística o projeto de arranjos exteriores (arborização) referido nos números anteriores deve ser acompanhado da Planta de síntese da respetiva operação de loteamento.
+
+###### Artigo 43.º — Arborização em espaço público
+
+1 - Os planos ou projetos de iniciativa municipal são elaborados pelos serviços competentes da Câmara Municipal de Torres Novas ou com recurso à contratação pública e aprovados pela Câmara Municipal ou por quem tenha a competência delegada e subdelegada para o efeito.
+
+2 - Os planos ou projetos, enquanto instrumentos que coordenam e sintetizam a intervenção a executar, devem ter em conta o [Decreto-Lei n.º 163/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2006-538624), de 8 de agosto, a tipologia da via e largura do passeio definidos garantindo a acessibilidade aos edifícios e estabelecimentos que recebem público, via pública e edifícios habitacionais e os seguintes critérios:
+
+a) A escolha da espécie para cada local terá como um dos principais fatores base a dimensão da árvore no seu estado adulto;
+
+b) Será tido em conta a dimensão do passeio, o diâmetro da copa e a altura da árvore adulta;
+
+c) O compasso de plantação deve ser escolhido de acordo com as características da via e da espécie arbórea escolhida;
+
+d) Nos aglomerados urbanos consolidados deve tentar manter-se o compasso de plantação e porte das árvores existentes;
+
+e) As intervenções devem ser adequadas ao cumprimento do disposto no [Decreto-Lei n.º 163/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2006-538624), de 8 de agosto.
+
+3 - Para efeito de plantações novas, definem-se três grupos de espécies arbóreas, de acordo com o seu porte:
+
+a) «Árvores de pequeno porte», espécies que no seu estado adulto tenham diâmetro de copa até 4 metros e altura até 6 metros;
+
+b) «Árvores de médio porte», espécies que no seu estado adulto tenham diâmetro de copa entre 4 e 6 metros e altura entre 6 e 12 metros;
+
+c) «Árvores de grande porte», espécies que no seu estado adulto tenham diâmetro de copa superior a 6 metros e altura superior a 12 metros.
+
+4 - Para efeito de conjugação entre o porte das árvores e as dimensões dos espaços de implantação, agrupam-se os perfis das ruas em três situações relativamente à dimensão do passeio e à distância possível das árvores às fachadas de edifícios:
+
+a) «Passeios de largura pequena», com uma largura igual ou inferior a 2.5 m. Nestes passeios a plantação admitida é de espécies pequeno porte. O compasso de plantação é de no mínimo 8 metros. Deverá ser garantido pelo menos 1,2 metros de circulação livre ou o passeio oposto com circulação livre;
+
+b) «Passeios de largura média», onde têm uma largura entre 2,5 e 4,5 metros. Nestas ruas a plantação admitida é de espécies de porte pequeno, porte médio e porte grande, devendo o compasso de plantação mínimo ser de 8, 10 e 13 metros, respetivamente. Deverá ser garantido pelo menos 1,2 metros de circulação livre;
+
+c) «Passeios de largura grande», com uma largura igual ou superior a 4.5 metros. Nestas ruas a plantação admitida é de árvores de médio e grande porte, devendo o compasso de plantação mínimo ser de 10 e 13 metros, respetivamente. Deverá ser garantido pelo menos 1,5 metros de circulação livre.
+
+5 - Em todas as tipologias a distância mínima do limite da copa da árvore em estado adulto a semáforos, sinalização vertical e candeeiros deve permitir a respetiva visualização.
+
+6 - Não é permitida a instalação de caldeiras em pontos que possam pôr em causa a continuidade e segurança das faixas ou pistas cicláveis.
+
+7 - As espécies de árvores recomendadas para utilização em arruamentos estão indicadas no Anexo IV.
+
+###### Artigo 44.º — Caldeiras
+
+1 - Salvaguardadas as preexistências urbanas e sempre que possível as caldeiras devem ter dimensões compatíveis com o saudável e pleno crescimento das espécies arbóreas ali plantadas, não sendo admitido que o espaço disponível para o efeito, isto é, a área permeável:
+
+a) Tenha uma largura inferior a 1,20 m, no caso de adotar um formato quadrado ou retangular;
+
+b) Tenha um raio inferior a 0,50 m, no caso de adotar um formato circular ou não retangular.
+
+2 - As caldeiras a projetar para a plantação de árvores dispõem ainda dos critérios técnicos do Anexo III.
+
+### CAPÍTULO VI — GESTÃO E MANUTENÇÃO DO ARVOREDO
+
+#### SECÇÃO I — REGRAS GERAIS DE GESTÃO E MANUTENÇÃO
+
+###### Artigo 45.º — Princípios de gestão e manutenção
+
+A Gestão de Manutenção do Arvoredo Urbano no Município de Torres Novas rege-se pelos princípios constantes do Guia de Boas Práticas para a Gestão do Arvoredo Urbano, publicado pelo ICNF, I. P.
+
+###### Artigo 46.º — Instrumentos de gestão e manutenção
+
+1 - As ações de gestão e manutenção do arvoredo por parte dos serviços municipais podem decorrer de forma programada, em resposta às solicitações externas, que se afigurem pertinentes, e perante necessidades imprevisíveis e imponderáveis.
+
+2 - Constituem, entre outros, instrumentos de gestão o plano anual de podas e abates elaborado pelos serviços municipais competentes, o qual deve contemplar preferencialmente árvores distintas das intervencionadas nos dois últimos anos e o plano anual de novas plantações.
+
+3 - De cinco em cinco anos os serviços competentes da Câmara Municipal de Torres Novas elaboram ainda Relatório de Conservação do Arvoredo Urbano do Município de Torres Novas, a apresentar à Câmara Municipal de Torres Novas.
+
+4 - Na respetiva gestão e manutenção a entidade responsável deve proceder gradualmente à correção das anomalias existentes que se constatem no espaço público quanto ao arvoredo, bem como à respetiva implantação.
+
+#### SECÇÃO II — ABATES
+
+###### Artigo 47.º — Salvaguarda ao abate
+
+1 - O abate, em regra, só deverá ocorrer depois da árvore ter atingido o termo da sua longevidade, isto é, quando começar a secar, definhar ou apresentar nítidos sintomas de decrepitude.
+
+2 - As situações que não se enquadrem no número anterior devem ser ponderadas nos termos do presente regulamento e da legislação.
+
+3 - Sempre que se constatem situações passíveis de originar o abate de uma árvore, deverá ponderar-se em primeiro lugar a possibilidade de efetuar o seu transplante, ou o recurso a outras intervenções possíveis, caso seja técnica e economicamente adequado.
+
+###### Artigo 48.º — Dos abates
+
+1 - Para além dos casos que constem do plano anual de podas e abates, os mesmos só devem ocorrer quando haja perigo potencial do arvoredo existente provocar danos na sua envolvente, designadamente em pessoas, vegetação, estruturas construídas e outros bens, ou sempre que tal se justifique atendendo às condicionantes de implantação ou escolha de espécie.
+
+2 - Para evitar a descaracterização dos locais, os abates de exemplares arbóreos, em zonas classificadas ou emblemáticas do Município, bem como em aglomerados urbanos consolidados deverão ser sempre precedidos de plantações de novas árvores nas proximidades do local desde que não existam condicionantes relativas a infraestruturas, à dimensão útil do espaço público e ao afastamento a outros exemplares o permita.
+
+3 - Qualquer remoção de uma árvore deve ser fundamentada e documentada com fotografias do exemplar.
+
+###### Artigo 49.º — Abate de árvores por motivo de obras rodoviárias
+
+1 - A remoção de árvores por motivo de realização de obras em vias, tais como correções, retificações e alargamentos, deve ser condicionada por forma a reduzir a mínimo o sacrifício da arborização existente.
+
+2 - No caso de obras de alargamento de vias é indispensável ter presente que a defesa do arvoredo e outros elementos valiosos da paisagem poderão justificar que tal alargamento seja assimétrico e tenha lugar, como regra, apenas para uma das margens da via, conforme as condições locais, as conveniências de ordem técnica, a importância e o interesse dos valores a defender.
+
+###### Artigo 50.º — Abate de árvores por proximidade da faixa de rodagem
+
+1 - A excessiva proximidade de árvores da faixa de rodagem poderá representar um fator de agravamento dos acidentes de viação com danos em pessoas e bens.
+
+2 - Nos casos referidos no número anterior pode ser ponderado o abate das árvores que:
+
+a) Constituam manifestamente um risco para o trânsito, pela proximidade da faixa de rodagem, assim como, quando radicadas no interior de curvas das vias ou por aparecerem isoladas nas mesmas, principalmente quando as suas raízes provocam, nestas saliências junto ou muito perto daquela faixa;
+
+b) Fazendo parte de alinhamentos de arvoredo disposto nas bermas, deles se afastem de modo a fazerem perigar a circulação.
+
+###### Artigo 51.º — Abate de árvores por motivo de circulação de veículos e cargas com as dimensões máximas regulamentares
+
+Deve ser removido o arvoredo que invada o espaço correspondente à faixa de rodagem que prejudique a circulação de veículos, inclusive, no caso de cargas com altura máxima regulamentar, sem que tal inconveniente possa cessar, em condições aceitáveis, pela supressão de pernadas e ramos demasiado baixos.
+
+###### Artigo 52.º — Abate de árvores para melhoria da visibilidade do trânsito
+
+1 - Sempre que prejudiquem a visibilidade do trânsito ou encubram placas de sinalização em cruzamentos, separadores, ilhéus direcionais e no interior das curvas das vias, sem que tais inconvenientes possam cessar, em condições satisfatórias, por meio de aceitáveis desbastes, podas ou desramações moderadas, as árvores devem ser removidas.
+
+2 - Sempre que impeçam ou dificultem a visibilidade de sinais de trânsito, o correto uso de outros elementos já existentes ou ocultem referências de interesse público.
+
+3 - Sempre que estejam junto a passagens de peões que impeça o acesso ou visibilidade de peões ou automobilistas.
+
+4 - Sempre que a disposição no espaço público seja junto a cruzamentos, entroncamentos ou qualquer outro lugar em que o seu volume gere constrangimentos no campo visual, dificultando a visibilidade e compreensibilidade do trânsito.
+
+###### Artigo 53.º — Abate de árvores de prédios confinantes
+
+1 - No caso de arvoredo localizado nos prédios confinantes com as vias, designadamente municipais, de acordo com a legislação vigente, os respetivos proprietários são obrigados a cortar as árvores que ameacem ruir e desabar sobre a zona da via, assim como podar os ramos que prejudiquem ou ofereçam perigo para o trânsito.
+
+2 - Incumbe aos proprietários dos prédios confinantes a remoção das árvores que enraizadas no mesmo, por efeito de queda ou desabamento, se encontrem a obstruir a via.
+
+3 - A conduta omissiva dos proprietários referidos nos números anteriores, no prazo que for determinado pelo eleito com competências próprias ou delegadas e subdelegadas em adequada notificação, implica que o Município se substitua aos mesmos imputando-lhe os custos da operação, em respeito do procedimento previsto na legislação referente à posse administrativa.
+
+4 - Na falta de pagamento voluntário dos custos referidos no número anterior, proceder-se-à à cobrança coerciva da dívida através de processo de execução fiscal, servindo de título executivo a certidão emitida pelos serviços donde conste o quantitativo global das despesas.
+
+5 - Devem ser observadas as condições de mobilidade, acesso e segurança, e as árvores não devem apresentar características formais que ponham em risco a integridade física dos utentes do espaço público.
+
+6 - A localização deve observar as disposições definidas nas normas técnicas em vigor para melhoria da acessibilidade das pessoas com mobilidade condicionada, nomeadamente as publicadas no [Decreto-Lei n.º 163/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2006-538624), de 8 de agosto.
+
+7 - A localização deve garantir a circulação de viaturas e pessoas em condições de segurança, designadamente implantados perpendicularmente ao sentido do tráfego rodoviário, afastados do plano das fachadas dos edifícios, quando necessário, de modo a garantir um corredor livre de obstáculos com a largura mínima determinada no número anterior.
+
+8 - A localização não deve dificultar qualquer acesso a equipamentos desportivos ou de lazer, estabelecimentos e prédios, edifícios públicos ou privados, bem como a visibilidade de montras de estabelecimentos.
+
+###### Artigo 54.º — Abate de árvores em zonas verdes de uso público e de proteção
+
+1 - Na realização de obras em zonas verdes de uso público e de proteção, o abate de árvores não será via de regra permitido, procurando-se a preservação do existente ou seu transplante.
+
+2 - Excecionalmente podem ser ponderadas situações em que o abate possa beneficiar e valorizar grandemente o espaço disponível para recreio e lazer das populações, com base na composição paisagística do projeto de alterações, sem prejuízo do valor ambiental da totalidade do coberto vegetal.
+
+###### Artigo 55.º — Abate de árvores por razões de ordem técnica ou estética
+
+1 - Devem ser removidas as árvores que:
+
+a) Se apresentem inclinadas com perigo eminente de queda não só sobre a zona das vias, sobre vias férreas, sobre outras árvores, construções e propriedades vizinhas;
+
+b) Se apresentem completamente secas ou de tal forma decrépitas, partidas ou deformadas que a sua manutenção não represente qualquer interesse para a área onde se enquadra;
+
+c) Tenham atingido o termo da sua longevidade, isto é, quando comecem a secar ou definhar, ou ainda, apresentem nítidos sintomas de decrepitude;
+
+d) A título de desbaste, valorizem o conjunto da arborização do local;
+
+e) Sejam exemplares de espécies legalmente consideradas invasoras com comprovado poder de proliferação e que se encontrem a prejudicar o conjunto da arborização do local.
+
+2 - Quando seja inviável outra opção ou traçado, os abates de árvores, sua remoção e substituição, devidos a conflitualidade com linhas de energia, telefones e cabos de televisão ou fibra ótica, incumbe exclusivamente aos respetivos operadores que devem solicitar prévia autorização municipal e suportar integralmente os respetivos custos.
+
+###### Artigo 56.º — Normas técnicas de abate
+
+As normas técnicas referentes aos trabalhos de abate, nivelamento e desvitalização de cepos constam do Anexo III ao presente regulamento.
+
+#### SECÇÃO III — PODAS
+
+###### Artigo 57.º — Das podas em geral
+
+1 - A realização da prática cultural de poda será preferencialmente realizada no período de repouso vegetativo, excetuando-se os casos pontuais de necessária e urgente intervenção.
+
+2 - Para além dos casos que constem do plano anual de podas e abates, as podas só devem ocorrer quando haja perigo ou perigo potencial do arvoredo existente provocar danos na sua envolvente, designadamente em pessoas, vegetação, estruturas construídas e outros bens, ou sempre que tal se justifique.
+
+3 - As necessidades de poda de árvores são avaliadas pela unidade orgânica responsável pela gestão dos espaços verdes distinguindo -se dois níveis de intervenção:
+
+a) Ao Nível da Segurança de Pessoas, Bens e do Direito de Propriedade, a qual pressupõe:
+
+b) Existência de ramos baixos que estejam, ou possam vir, a afetar a normal passagem de veículos ou utentes da via;
+
+c) Ramos que impeçam a normal visualização de sinais de trânsito, placas de toponímia, sinais luminosos;
+
+d) Existência de ramos secos, em vias de secar, partidos ou esgaçados;
+
+e) Existência de ramos muito afetados por pragas e/ou doenças, em que o seu tratamento passa pela supressão dos ramos atacados;
+
+f) Existência de ramos com cavidades ou podridão do lenho;
+
+g) Ramos a invadirem propriedade privada devendo ser respeitado o disposto no artigo 1366.º do Código Civil;
+
+h) Ramos a prejudicar as condições mínimas de habitabilidade, nomeadamente que estejam a tocar em janelas ou fachadas;
+
+i) Ao Nível da Conformação e Estrutura do Exemplar, a qual pressupõe:
+
+j) Ramos malconformados;
+
+k) Ramos mal inseridos;
+
+l) Revitalização de árvores;
+
+m) Correção ou eliminação de bifurcações ou codominância com casca inclusa;
+
+n) Necessidade de adequar a forma da árvore ao seu crescimento (poda de formação);
+
+o) Remoção de ramos epicórmicos vulgarmente conhecidos por rebentos ladrões;
+
+p) Remoção de ramos mais pesados que possam afetar a estrutura da árvore ou que haja o risco de esgaçarem devido ao excesso de peso suportado;
+
+q) Supressão de ramos com problemas fitossanitários.
+
+4 - Os procedimentos a utilizar são definidos conforme o tamanho da árvore, o espaço envolvente e a espécie alvo de intervenção.
+
+5 - Não é permitido o corte da guia terminal das árvores, assim como podas de a talão, devendo ser privilegiada a forma natural do exemplar, salvo em situação pontuais expressamente assinaladas e fundamentadas pela unidade orgânica responsável pela gestão dos espaços verdes.
+
+6 - O tipo de corte deve atender à biologia da espécie, nomeadamente à sua sensibilidade o período de repouso vegetativo.
+
+7 - Deverá sempre optar-se por podas ligeiras metódicas e criteriosas de acordo com as necessidades individuais da árvore e sua interação com o espaço envolvente, em vez de podas profundas.
+
+8 - O diâmetro dos ramos a cortar não deverá por norma exceder os 8 cm, sendo que cortes de maiores dimensões só deverão ocorrer em situações excecionais, devendo apenas ser efetuados em árvores com boa capacidade de compartimentação e evitando árvores com fraca capacidade de compartimentação.
+
+9 - Consideram-se designadamente, para os efeitos do número anterior, árvores com boa capacidade de compartimentação os plátanos e os pinheiros mansos e com fraca capacidade de compartimentação os choupos, as mélias, os castanheiros da índia, jacarandás e os lódãos.
+
+10 - Nas técnicas de poda empregues, não devem ser utilizadas esporas ou outro material que danifique a casca do tronco, nem técnicas suscetíveis de provocar danos na árvore.
+
+11 - Sempre que tecnicamente adequada, a utilização de cicatrizante nas feridas de poda, pode ser empregue em caso de o corte ter sido de grande diâmetro (> 8 cm) e aplicado de acordo com as indicações do rótulo do produto, assim como de fungicidas.
+
+12 - Todas as podas devem ser revistas depois da rebentação, para ser possível corrigir e suprimir de início os ramos ladrões e os rebentos que se formaram no tronco, assim como avaliar a reação da árvore às operações efetuadas.
+
+13 - A fiscalização e eventual autuação das operações previstas neste artigo, quando não sejam de iniciativa de outros serviços municipais, incumbe ao serviço de Espaços Verdes, sempre que necessário.
+
+###### Artigo 58.º — Tipos de podas
+
+1 - No arvoredo objeto do presente regulamento pode ser necessário efetuar podas de formação, de manutenção ou fitossanitárias e de redução de copas.
+
+2 - As podas de recondução da copa ou revitalização da árvore só deverão ser excecionalmente efetuadas mediante a prévia emissão de parecer fundamentado por parte da unidade orgânica responsável pela gestão dos espaços verdes.
+
+3 - As operações de limpeza no âmbito da poda consistem na eliminação dos ramos secos, partidos e esgaçados, com problemas fitossanitários, mal conformados ou inseridos, designadamente que formem ângulos de inserção não característicos da sua espécie ou que estejam a impedir o desenvolvimento de outros bem como de ramos que estejam a prejudicar o trânsito, a iluminação pública e as habitações, sem prejuízo da eliminação de rebentos do tronco e de ramos ladrões, os quais devem ser extraídos no ponto de inserção.
+
+4 - As normas técnicas referentes aos trabalhos de poda constam do Anexo III ao presente regulamento.
+
+#### SECÇÃO IV — OUTROS TRABALHOS E MATERIAIS A UTILIZAR
+
+###### Artigo 59.º — Plantação de árvores
+
+1 - Qualquer ação de plantação de árvores em espaço público deverá ser autorizada e acompanhada pela unidade orgânica responsável pela gestão dos espaços verdes que procederá à análise técnica quanto à possibilidade de intervenção avaliando as condicionantes do local.
+
+2 - Em qualquer intervenção é necessário sinalizar devida e antecipadamente todos os locais de plantações para reduzir os obstáculos no momento das operações, designadamente quanto à presença de viaturas nos estacionamentos.
+
+3 - O transporte do material vegetal deve ser feito de forma adequadas, o acondicionamento deve ser efetuado de modo a que não danifique nenhuma parte da árvore.
+
+4 - Todo o entulho ou outras substâncias impróprias existentes nas caldeiras a plantar como sejam: entulhos, raízes, matéria morta, ervas e outros resíduos deverão ser removidos antes do início dos trabalhos.
+
+5 - A plantação de árvores obedece ainda às normas técnicas constantes do Anexo III.
+
+###### Artigo 60.º — Transplante de árvores
+
+1 - A operação de transplante, inclui todos os trabalhos preparatórios e pós transplante devendo ser efetuados por meio de métodos otimizados, que ofereçam a melhor garantia de sucesso.
+
+2 - O transplante de árvores obedece ainda às normas técnicas constantes do Anexo III.
+
+###### Artigo 61.º — Aplicação de sistemas de ancoragem
+
+1 - Considera-se como sistema de ancoragem o sistema de cabos ou estacas, aplicados por tensão ou tração entre o solo e a planta, de forma a garantir, designadamente, a estabilidade biomecânica e a orientação vertical do crescimento da mesma.
+
+2 - O Sistema de ancoragem pode verificar-se segundo as seguintes modalidades:
+
+a) «Por tração à parte aérea», consiste no apoio do tronco por um sistema de estacas (escoras) cravadas no solo, e ligadas ao tronco através de um anel com amarração própria. No caso de apoios de pernadas por tração de estacas, estas serão cravadas no solo ou sobre fundação e a transmissão far-se-á através de uma ligação apropriada;
+
+b) «Por tensão à parte aérea», consiste na aplicação de três ou mais cabos tensores, ligados por laços protegidos ao tronco ou caule das árvores e fixados por elementos de ancoragem ao solo ou a elementos fixos próximos, sendo aplicado quando a parte aérea é desproporcionada e oferece bastante resistência ao vento, podendo originar movimento bascular e a alteração da posição ou queda do exemplar;
+
+c) «Por tensão ao torrão radicular», consiste na aplicação de cabos tensores, ligados à planta através de um triângulo de madeira sobre o torrão radicular e cravados no solo através de elementos de ancoragem apropriados.
+
+###### Artigo 62.º — Retificação da tutoragem
+
+1 - Consoante o estado dos tutores e atilhos existentes, para garantir a estabilidade biomecânica e a orientação vertical do crescimento da árvore pode ser necessário proceder à retificação de tutoragem.
+
+2 - Os tutores devem ser cravados de modo a não afetar as raízes, ficando a prumo e bem fixos, tendo o cuidado de não ferir a planta na amarração.
+
+3 - A retificação dos tutores deverá ser efetuada com periodicidade, no início da primavera, no Inicio do outono e no início do inverno, podendo ser necessário, em locais ventosos, efetuar-se um maior número de intervenções por ano.
+
+4 - O tutor e atilho deverão estar corretamente posicionados, de forma a não danificarem o tronco ou ramos da árvore.
+
+5 - Caso se denote que os tutores já não são necessários, apresentando a árvore estrutura para se manter a prumo, os mesmos devem ser removidos.
+
+###### Artigo 63.º — Limpeza das caldeiras e eliminação de infestantes e sachas
+
+1 - A monda deve ser efetuada preferencialmente à mão ou com sacho nas caldeiras onde se encontram instaladas as árvores, devendo ficar limpas, sem lixos e sem infestantes.
+
+2 - As sachas não devem afetar o sistema radicular das mesmas, devendo contribuir para o arejamento e descompactação ao redor da zona do colo da árvore.
+
+###### Artigo 64.º — Revestimento das caldeiras
+
+1 - O revestimento de caldeiras pode efetuar -se com materiais orgânicos ou inorgânicos permeáveis.
+
+2 - Sem prejuízo do referido no número anterior as caldeiras podem também ser dotadas de grades, ou outro tipo de cobertura permeável que salvaguarde a árvore.
+
+###### Artigo 65.º — Substituição de árvores
+
+1 - Sempre que uma árvore morra e as condicionantes do local o permitam a mesma deve ser substituída por outra adequada.
+
+2 - A substituição de árvores contribui para a qualificação do espaço público e deve obedecer aos critérios definidos para a arborização em espaço público definidos no artigo 43.º
+
+3 - As plantações devem ser efetuadas na época apropriada relativamente a cada espécie e o material vegetal deverá obedecer aos critérios constantes das normas técnicas que integram o presente regulamento.
+
+###### Artigo 66.º — Rega de árvores
+
+1 - A rega de árvores jovens implantadas e a manter pode ser essencial no seu período de instalação podendo haver, atenta a espécie, tamanho do exemplar, tipo de substrato e condições de clima necessidade de a efetuar até um período máximo de cinco anos.
+
+2 - Em caso de eventual penúria de água, designadamente durante a época estival e em períodos em que as árvores estejam com sintomas de murchidão, deve ser realizada uma rega localizada nas árvores adultas, a qual deve ser abundante e efetuada com a periodicidade necessária à manutenção do equilíbrio hídrico dos exemplares e de acordo com o estado do tempo e o grau de humidade do solo.
+
+3 - As caldeiras devem permanecer abertas de modo a que as regas localizadas se realizem com a periodicidade adequada, conforme as necessidades do tempo, sendo que a dotação de água deverá ser de aproximadamente 30 litros/árvore.
+
+4 - A distribuição de água será feita com recurso a rega automática, a mangueiras, ligadas a bocas de rega ou através de veículo de transporte de água (carro cisterna) destinado a esse fim, ou outros meios adequados.
+
+###### Artigo 67.º — Prevenção e combate a pragas e doenças
+
+1 - Os produtos a utilizar nas ações de combate a pragas e doenças, designadamente tratamentos fitossanitários e controlo de infestantes, devem ser os mais adequados, seguros e eficientes e que apresentem a menor taxa de impacto para o meio ambiente.
+
+2 - O processo de aplicação de produtos fitofarmacêuticos deve atender ao disposto na [Lei n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/lei/26-2013-260454), de 11 de abril, na sua redação atual, ou disposição legislativa que lhe vier a suceder.
+
+3 - Os tratamentos fitossanitários devem ser reduzidos ao estritamente necessário e ser efetuados por pessoal habilitado, de acordo com a legislação em vigor sobre a matéria.
+
+4 - As entidades responsáveis pelas áreas onde se encontrem pragas e doenças que ponham em causa a saúde pública, fora do domínio municipal, são responsáveis pelo seu tratamento, podendo o Município substituir-se às mesmas e ressarcir-se dos trabalhos efetuados.
+
+###### Artigo 68.º — Materiais
+
+Os materiais a aplicar no âmbito do presente Regulamento, com especial enfoque no presente Capítulo e no anterior, devem ser da melhor qualidade e obedecer às especificações constante no Anexo III ao presente Regulamento.
+
+###### Artigo 69.º — Sobrantes Vegetais e Gestão de Resíduos
+
+1 - As intervenções de manutenção ou abate de arvoredo originam sobrantes vegetais de vários tamanhos, desde a madeira aos ramos e folhagem, que constituem biomassa florestal, enquadrando-se como exceção ao disposto no [Decreto-Lei n.º 102-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-d-2020-150908012), de 10 de dezembro, na redação vigente, que regulamentam o regime geral da gestão de resíduos.
+
+2 - Nas áreas de intervenção onde são produzidos outros tipos de sobrantes provenientes da abertura de valas e do arranque e separação de materiais constituintes de pavimentos e de demolições, que deverão ser separados removendo para fora do local da obra os que sejam considerados resíduos e armazenando os que possam ser reutilizados.
+
+###### Artigo 70.º — Proteção e Preservação de Árvores em locais de Obras
+
+1 - Dado o reconhecimento dos múltiplos serviços de ecossistema e benefícios fornecidos pelas árvores, importa implementar medidas cautelares e boas práticas para assegurar a sua proteção quando, no local onde se encontram, domínio público ou privado do município e no património arbóreo do Estado, são levadas a cabo atividades de construção.
+
+2 - As medidas cautelares para a proteção e preservação de árvores (Anexo III) pretendem garantir a melhor possibilidade da sua sobrevivência, tanto durante, como após atividades de construção. Estas orientações não garantindo pleno de sucesso, contudo pretendem mitigar os impactes negativos que decorrem de intervenções que possam causar lesões, quer ao nível do sistema radicular, quer na parte aérea, ou que resultem em alterações mais ou menos profundas na envolvência dessas mesmas árvores.
+
+###### Artigo 71.º — Segurança, Higiene e Saúde
+
+1 - Com o objetivo de reduzir os riscos profissionais e a sinistralidade e de promover a saúde e o bem-estar dos trabalhadores, nos locais de obra deverão ser cumpridas as medidas previstas nos respetivos planos de segurança e saúde, de acordo com o disposto no [Decreto-Lei n.º 273/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2003-466181), de 29 de outubro.
+
+2 - A entidade executante deverá promover o levantamento de todos os condicionalismos existentes no local de obra e seus acessos, nas construções anexas, candeeiros, redes técnicas aéreas, etc., possuir conhecimento das infraestruturas técnicas enterradas (condutas de água e outras) e registar todos os elementos que possam interferir com a obra, sobretudo aqueles que criem condições de risco à execução dos trabalhos e devam ser prevenidos em tempo útil.
+
+3 - Na situação específica do arvoredo urbano no domínio público Municipal e no domínio privado do Município e no património arbóreo do Estado, a entidade executante deverá adotar as medidas de segurança e saúde que incidirão nas seguintes áreas de trabalho:
+
+a) «Movimentação de terras», não se preveem grandes profundidades de escavação, com exceção das necessárias à implantação das redes de rega e drenagem. A drenagem superficial deverá estar sempre assegurada de modo a evitar eventuais inundações e a desestabilização dos terrenos vizinhos;
+
+b) «Circulação/movimentação de maquinaria e equipamentos», deverá ser sempre avaliada a perigosidade da circulação e movimentação de máquinas e equipamentos de escavação e transporte de produtos, sobretudo de terras para enchimento de caldeiras e valas, para além das descargas de materiais de tubagem. Deverá, igualmente, ser assegurada a necessária área de proteção para os serviços afetos à escavação e à remoção dos produtos de escavação e de carga e descarga de materiais;
+
+c) «Sinalização da zona dos trabalhos», deverá ser assegurada a adequada sinalização, diurna e noturna, da zona de trabalhos para garantia de segurança dos trabalhadores, transeuntes e circulação urbana;
+
+d) «Serviços afetados», prevendo-se que, na área da obra, existam infraestruturas como cablagens e condutas de água, gás e esgotos, deverão ser adotadas medidas adequadas à sua proteção, devendo a entidade executante dotar-se dos respetivos cadastros e proceder ao seu prévio reconhecimento no local;
+
+e) «Proteção dos trabalhadores», os trabalhadores deverão possuir todo o equipamento de proteção individual adequado a cada tipo de trabalho e a cada situação de obra e de higiene e saúde.
+
+###### Artigo 72.º — Valorização das árvores - medidas compensatórias
+
+1 - Sempre que se verifique a necessidade de valorização de material vegetal, designadamente por dano ou para efeitos de análise custo/benefício, a mesma deve ser feita segundo os princípios orientadores da Norma Granada ou recorrendo a outro método de valorização reconhecido internacionalmente (n.º 2 do artigo 17.º da [Lei n.º 59/2021](https://diariodarepublica.pt/dr/detalhe/lei/59-2021-169780050), de 18 de agosto).
+
+2 - A Norma Granada considera diversos aspetos para cálculo do valor económico de árvores, arbustos e palmeiras (aspetos ambientais, socioculturais, paisagísticos e económicos) e estabelece critérios distintos consoante os exemplares a valorizar se tratem de “árvores substituíveis” ou “árvores não substituíveis”:
+
+a) Consideram-se «árvores substituíveis», os exemplares que, pelo seu tamanho (PAP) e características, podem ser encontrados no mercado. A valorização destes exemplares é função do seu valor patrimonial e do custo de reposição, e inclui aspetos como o montante da aquisição, o estado fitossanitário e o vigor;
+
+b) Consideram-se «árvores insubstituíveis», aquelas em que a transplantação não é viável, a fórmula de avaliação do seu valor patrimonial tem em conta diversos critérios, contemplando o custo base do exemplar, fatores intrínsecos (condição fitossanitária da árvore), fatores extrínsecos (a estética, funcionalidade, representatividade e raridade da espécie, valorização do local onde se encontra a árvore, fatores históricos e culturais) e o número de anos que é expectável que o exemplar ainda sobreviva, considerando a sua condição global, condições do local (presença de outras árvores, edifícios) e características edafoclimáticas, entre outras.
+
+3 - Se um conjunto arbóreo for necessariamente afetado por obras de reparação ou por operação urbanística de qualquer natureza que impossibilite a sua manutenção no local, deve o mesmo ser compensado pela sua transplantação e ou plantação de uma área equivalente de arvoredo no mesmo concelho, em área com características territorialmente semelhantes, devendo o coberto arbóreo respetivo corresponder à projeção vertical das copas em metros quadrados do existente.
+
+4 - Em caso de abate, é obrigatória a reposição de arvoredo que garanta a duplicação do nível de sequestro de CO2, preferencialmente recorrendo a árvores nativas do concelho, num raio não superior a 10 km.
+
+5 - O cálculo do nível de sequestro de CO2 para qualquer fim necessário no âmbito do presente regulamento terá sempre como base um dos métodos previstos no Anexo 6 do Guia de Boas Práticas para a Gestão do Arvoredo Urbano.
+
+###### Artigo 73.º — Avaliação e gestão de risco de rutura de árvores
+
+1 - As entidades gestoras do arvoredo urbano em espaço público têm a responsabilidade de criar e manter o património arbóreo urbano seguro e útil para seus utilizadores.
+
+2 - As árvores devem ser alvo de inspeções periódicas para deteção de problemas estruturais que afetem a sua funcionalidade, longevidade e que, eventualmente, coloquem em causa a segurança de pessoas, animais ou bens.
+
+3 - Uma árvore é considerada perigosa se apresenta defeitos estruturais que podem causar a rutura de partes ou a sua queda, provocando danos em pessoas, animais ou bens. A gestão do risco de rutura e queda contempla o estabelecimento de um Plano de Gestão do Risco associado a árvores (PGR), que deverá integrar os Planos de Plantação e Manutenção do Arvoredo.
+
+4 - A avaliação da estabilidade mecânica de cada exemplar deve ser conduzida através avaliação visual da árvore (Visual Tree Assessment - VTA). Este método permite verificar defeitos estruturais, sintomas e danos de pragas e doenças, ao nível da copa, do tronco e do sistema radicular.
+
+5 - A avaliação deve ser apresentada sob a forma de relatório escrito, acompanhado de ficheiro informático a introduzir na plataforma informática.
+
+#### SECÇÃO V — INTERVENÇÕES EM TERRENOS PRIVADOS
+
+###### Artigo 74.º — Vegetação existente em terrenos privados
+
+1 - Sempre que se constate a existência de árvores, ainda que localizadas em propriedade privada, que ponham em causa o interesse público municipal por motivos de limpeza, higiene, salubridade, saúde ou segurança, pode o Presidente da Câmara, com competências próprias ou delegadas e subdelegadas na área, ordenar ao seu proprietário, em prazo a estipular, o abate, limpeza, desbaste, poda ou tratamento daqueles.
+
+2 - A decisão do presidente da câmara com competências próprias, delegadas ou subdelegadas que determine o referido no número anterior, deve ser sempre fundamentada com base em parecer favorável dos serviços com competência técnica nesta matéria.
+
+3 - Esgotado o prazo concedido ao proprietário do terreno para adotar as medidas ou soluções ordenadas nos termos do n.º 1, sem que este o tenha feito, pode esta proceder coercivamente à efetivação das operações determinadas, a expensas do notificado.
+
+4 - As quantias relativas às despesas a que se refere o número anterior, quando não pagas voluntariamente no prazo de 30 dias a contar da notificação para o efeito, proceder-se-á à cobrança coerciva da dívida através de processo de execução fiscal, servindo de título executivo a certidão emitida pelos serviços Município de Torres Novas, donde conste o quantitativo global das despesas.
+
+### CAPÍTULO VII — FISCALIZAÇÃO E SANÇÕES
+
+###### Artigo 75.º — Fiscalização
+
+1 - Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do disposto no presente regulamento compete à Câmara Municipal de Torres Novas, através do serviço de Fiscalização Municipal e da unidade orgânica responsável pela gestão dos espaços verdes, na sua área de intervenção específica.
+
+2 - Os agentes ao serviço da autarquia que prestem serviços de vigilância dos espaços arborizados têm o dever de comunicar à respetiva Autarquia todas as infrações ao presente Regulamento de que tomem conhecimento, no exercício das suas funções.
+
+3 - A instauração de processos de contraordenação e a aplicação das respetivas coimas e eventuais sanções acessórias são da competência do Presidente da Câmara Municipal ou em quem este delegar.
+
+###### Artigo 76.º — Contraordenações
+
+1 - Sem prejuízo da responsabilidade civil e criminal a que houver lugar nos termos da lei geral e das contraordenações especialmente consagradas na [Lei n.º 53/2012](https://diariodarepublica.pt/dr/detalhe/lei/53-2012-174836), de 5 de setembro, no que diz respeito ao regime jurídico da classificação de arvoredo de interesse público, a violação às disposições do presente regulamento constitui contraordenação ambiental punível, nos termos e com as coimas constantes na Lei-Quadro das Contraordenações Ambientais, aprovada pela [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, na atual redação, sendo graduadas em:
+
+a) Leves;
+
+b) Graves; e
+
+c) Muito graves.
+
+2 - É considerada contraordenação leve:
+
+a) A violação do disposto na alínea c) do n.º 2 do artigo 35.º;
+
+b) A violação do disposto nas alíneas a), b), c) e d) do artigo 37.º;
+
+c) A violação do disposto no n.º 1 do artigo 66.º
+
+3 - É considerada contraordenação grave:
+
+a) A violação ao disposto nas alíneas f), g), h), i), j), k) e l) do artigo 37.º;
+
+b) A violação da forma de execução e as infrações ao preceituado nos artigos artigo 38.º e artigo 39.º
+
+c) A violação das disposições do n.º 5 do artigo 59.º e do n.º 2 artigo 60.º
+
+4 - São consideradas contraordenações muito graves a violação das disposições das alíneas e) e m) do artigo 37.º das proibições em geral;
+
+5 - A tentativa é punível nas contraordenações classificadas de graves e muito graves, sendo os limites mínimos e máximos da respetiva coima reduzidos a metade.
+
+6 - A negligência nas contraordenações é sempre punível.
+
+7 - Caso a violação das disposições previstas no número anterior ocorra relativamente a árvores classificadas, a contraordenação é punível com coima elevada para o dobro nos limites mínimo e máximo.
+
+8 - A aplicação de uma coima no âmbito de um processo de contraordenação não obsta à reparação dos danos verificados, fixando-se que a valoração do material vegetal, designadamente por dano ou destruição, é feita segundo o disposto no artigo 71.º
+
+9 - Às regras relativas à instrução, tramitação, montante de aplicação das coimas e eventuais sanções acessórias, no âmbito dos processos contraordenacionais, aplicam-se as disposições constantes na Lei-Quadro das Contraordenações Ambientais.
+
+10 - Logo que seja definido o regime contraordenacional a que se refere o artigo 27.º do Regime Jurídico de Gestão do Arvoredo Urbano, aprovado pela [Lei n.º 59/2021](https://diariodarepublica.pt/dr/detalhe/lei/59-2021-169780050), de 18 de agosto, este prevalece sobre o regime contraordenacional descrito nos números anteriores.
+
+###### Artigo 77.º — Medida da coima
+
+1 - A determinação da medida da coima faz-se em função da gravidade da contraordenação, da culpa, da situação económica do agente e do benefício económico que este retirou da prática da contraordenação.
+
+2 - Sem prejuízo do disposto Lei-Quadro das Contraordenações Ambientais ou do regime contraordenacional específico que venha a ser aprovado e dentro da moldura abstratamente aplicável, referida no artigo 75.º Contraordenações, a coima deve exceder o benefício económico que o agente retirou da prática da contraordenação.
+
+###### Artigo 78.º — Processo contraordenacional
+
+1 - A decisão sobre a instauração, instrução do processo de contraordenação, aplicação das coimas e das sanções acessórias é da competência do Presidente da Câmara, sendo delegável e subdelegável, nos termos da lei.
+
+2 - O produto das coimas previstas no presente regulamento, mesmo quando estas sejam fixadas em juízo, constitui receita do Município.
+
+###### Artigo 79.º — Responsabilidade civil e criminal
+
+1 - A aplicação das sanções suprarreferidas não isenta o infrator da eventual responsabilidade civil ou criminal emergente dos factos praticados e das contraordenações especialmente consagradas na [Lei n.º 53/2012](https://diariodarepublica.pt/dr/detalhe/lei/53-2012-174836), de 5 de setembro, no que diz respeito ao regime jurídico da classificação de arvoredo de interesse público
+
+2 - Também não isenta o transgressor da aplicação de medidas compensatórias, conforme artigo 71.º Valorização das árvores - medidas compensatórias do presente Regulamento.
+
+###### Artigo 80.º — Cumprimento do dever omitido
+
+Sempre que a contraordenação resulte de omissão de um dever, o pagamento da coima não dispensa o infrator de dar cumprimento ao dever omitido, se este ainda for possível.
+
+### CAPÍTULO VIII — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+###### Artigo 81.º — Legislação e regulamentação subsidiária
+
+1 - A tudo o que não esteja especialmente previsto no presente Regulamento, sem prejuízo das disposições legais que especificamente regulem ou venham a regular as mesmas matérias, aplica-se subsidiariamente e nomeadamente:
+
+a) O Código de Procedimento Administrativo;
+
+b) O Código dos Contratos Públicos no âmbito das relações pré-contratuais e contratuais que seja necessário estabelecer no âmbito do presente regulamento;
+
+c) O Regime Jurídico de Urbanização e Edificação, Portarias complementares e o RMUE, no que se reporta às operações urbanísticas;
+
+d) A [Lei n.º 19/2014](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), de 14 de abril, a qual aprova as bases da política de ambiente;
+
+e) O [Decreto-Lei n.º 565/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/565-1999-661769), de 21 de dezembro, o qual regula a introdução na natureza de espécies não indígenas da flora e da fauna;
+
+f) A Norma de Granada quando exista a necessidade de efetuar a valoração de árvores.
+
+2 - As referências efetuadas neste Regulamento a legislação específica ou outros documentos normativos consideram-se automaticamente atualizadas sempre que estes sejam objeto de alteração ou revogação.
+
+###### Artigo 82.º — Proteção de dados
+
+1 - O tratamento dos dados pessoais é regulado pela [Lei n.º 58/2019](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), de 8 de agosto e pelo Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016, doravante RGPD.
+
+2 - O Município de Torres Novas, na qualidade de Responsável pelo tratamento de dados pessoais, assume o compromisso de cumprir e garantir o cumprimento dos Princípios de tratamento de dados pessoais estabelecidos no artigo 5.º do RGPD, em todos os tratamentos realizados no contexto do presente Regulamento.
+
+3 - Como Responsável pelo tratamento de dados pessoais compromete-se a respeitar os direitos dos titulares de dados pessoais, de acordo com o RGPD, em todos os tratamentos realizados no âmbito do presente Regulamento.
+
+4 - Compromete-se, igualmente, a determinar a legalidade dos tratamentos de dados pessoais de acordo com as possibilidades previstas nos artigos 6.º e 9.º do RGPD.
+
+5 - É responsável por garantir a legalidade dos tratamentos de dados pessoais realizados e informar os titulares, de acordo com os artigos 12.º, 13.º e 14.º do RGPD.
+
+6 - Compromete-se a tratar os dados pessoais apenas para as finalidades determinadas antes da sua recolha e informar os Titulares oportunamente sobre essas finalidades.
+
+7 - Compromete-se a limitar o tratamento dos dados pessoais ao necessário para cada finalidade específica, incluindo a quantidade de dados pessoais recolhidas, a extensão do seu tratamento, a sua acessibilidade e o prazo de conservação adequado.
+
+8 - É responsável por vincular os seus colaboradores que tenham acesso aos dados pessoais com o dever de proceder apenas a tratamentos de acordo com as suas funções ou instruções que recebam.
+
+9 - Assume o compromisso de adotar medidas técnicas e organizativas apropriadas para garantir a segurança e confidencialidade dos dados pessoais tratados no âmbito deste protocolo. Tais medidas serão adaptadas tendo em conta a natureza, âmbito, contexto e finalidades do tratamento, bem como os riscos para os direitos e liberdades dos titulares dos dados.
+
+10 - As medidas implementadas têm como objetivo proteger os dados pessoais contra tratamentos não autorizados ou ilegais, bem como contra a sua perda, destruição ou dano acidental.
+
+11 - Os colaboradores do Município de Torres Novas terão acesso aos dados pessoais apenas na medida necessária para o cumprimento das suas funções no âmbito do presente Regulamento.
+
+###### Artigo 83.º — Interpretação e casos omissos
+
+1 - As lacunas e dúvidas interpretativas suscitadas na aplicação do presente Regulamento são preenchidas ou resolvidas, na linha do seu espírito, mediante deliberação da Câmara Municipal de Torres Novas, sendo esta competência delegável no Presidente da Câmara, nos termos da lei.
+
+2 - As menções às unidades orgânicas constantes do presente regulamento, reportam-se, em caso de alteração da estrutura da Câmara Municipal àquelas que sucederem nas respetivas atribuições.
+
+###### Artigo 84.º — Norma Transitória
+
+1 - Os procedimentos que tenham sido iniciados antes da entrada em vigor do presente Regulamento tramitam e são executados nos termos do presente regulamento.
+
+2 - Os procedimentos que tenham sido iniciados antes da entrada em vigor do presente Regulamento, mas que já tenham sido decididos pelo eleito com competências próprias, delegadas e subdelegadas tramitam e são executados nos termos da regulamentação anterior ou da prática consolidada no serviço gestor.
+
+###### Artigo 85.º — Norma revogatória
+
+São revogadas todas as normas de regulamentos municipais que sejam incompatíveis com o presente regulamento.
+
+###### Artigo 86.º — Revisão do Regulamento
+
+1 - O presente Regulamento será objeto de revisão num prazo não superior a cinco anos.
+
+2 - Pode ainda ser objeto de alteração ou revisão em resultado do acompanhamento e da avaliação a efetuar para o efeito.
+
+3 - Logo que definido o regime contraordenacional a que se refere o artigo 27.º do Regime Jurídico de Gestão do Arvoredo Urbano, aprovado pela [Lei n.º 59/2021](https://diariodarepublica.pt/dr/detalhe/lei/59-2021-169780050), de 18 de agosto, pode ser igualmente revisto o presente Regulamento.
+
+###### Artigo 87.º — Entrada em vigor
+
+O presente Regulamento entra em vigor 5 dias após a sua publicação no Diário da República.
+
+## ANEXO I — Lista e plantas de localização das árvores classificadas de interesse público e de interesse municipal existentes no município de Torres Novas
+
+A - Lista das árvores classificadas de interesse público existentes no Município de Torres Novas
+
+À data de entrada em vigor do presente regulamento não se encontram definidas arvores classificadas de interesse público.
+
+B - Plantas de Localização das árvores classificadas de interesse público existentes no Município de Torres Novas
+
+À data de entrada em vigor do presente regulamento não se encontram definidas arvores classificadas de interesse público.
+
+C - Lista das árvores classificadas de interesse municipal no Município de Torres Novas
+
+À data de entrada em vigor do presente regulamento não se encontram definidas arvores classificadas de interesse municipal.
+
+D - Plantas de Localização das árvores classificadas de interesse municipal no Município de Torres Novas
+
+À data de entrada em vigor do presente regulamento não se encontram definidas arvores classificadas de interesse municipal.
+
+E - Classificação de Arvoredo de Interesse Municipal
+
+À data de entrada em vigor do presente regulamento não se encontram definidos arvoredos classificadas de interesse municipal.
+
+1 - O critério geral do porte (alínea a) do n.º 1 do artigo 19.º
+
+2 - Critérios gerais de classificação de arvoredo de Interesse Municipal) é apreciado pelo parâmetro monumentalidade, que corresponde a exemplares que apresentam grandes dimensões, no contexto da sua espécie, em qualquer um dos subparâmetros dendrométricos altura total (H), perímetro do tronco na base (PB), perímetro do tronco à altura de 1,30 m (PAP) e diâmetro médio da copa (DMC).
+
+3 - Na Tabela 1, que tem por base os subparâmetros dendrométricos previstos no Anexo único do “Regulamento com o Desenvolvimento e a Densificação de Parâmetros de Apreciação e da sua Correspondência aos Critérios de Classificação de Arvoredo de Interesse Público”, de 5 de março de 2018 aprovado pelo ICNF, I. P., e a legislação em vigor, apresentam-se ainda as espécies e respetivos valores de referência de PAP para o Município, tendo em conta a contribuição das espécies para o armazenamento e sequestro de carbono, a sua raridade no concelho e a origem da espécie (facto de ser autóctone ou exótica).
+
+4 - Para espécies não listadas deverá ser efetuada uma análise individual.
+
+5 - Sempre que os exemplares apresentem parâmetros dendrométricos que atinjam 50 % dos valores de referência propostos pelo “Regulamento com o Desenvolvimento e a Densificação de Parâmetros de Apreciação e da sua Correspondência aos Critérios de Classificação de Arvoredo de Interesse Público”, do ICNF, I. P., poderão ser propostos para classificação como Arvoredo de Interesse Municipal.
+
+TABELA 1
+
+Espécies e valores de referência para os subparâmetros dendrométricos relativos ao critério porte
+
+| Género | Epíteto Específico | Designação Vulgar | Origem | Valores de Referência (ICNF, IP) | PAP referência em [Município] (m) | CO2 |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| PB (m) | PAP (m) | H (m) | DMC (m) |  |  |  |  |  |  |
+| Aesculus | hippocastanum | Castanheiro da Índia | Exótica | 3,5 | 3,4 | 20 |  |  |  |
+| Araucaria | bidwillii | araucária-de-queensland | Exótica | 3,5 | 3,4 | 20 |  |  |  |
+| Brachychiton | populneus | árvore-garrafa | Exótica |  |  |  |  | 2 | * |
+| Camellia | japonica | cameleira | Exótica | 2 |  | 8 |  |  |  |
+| Casuarina | equisetifolia | casuarina | Exótica |  |  |  |  | 2 | * |
+| Cedrus | atlantica | cedro-do-atlas | Exótica | 3,5 | 3,5 |  |  |  |  |
+| Cedrus | deodara | cedro-do-himalaia | Exótica | 4 | 3,5 |  |  |  |  |
+| Celtis | australis | lódão-bastardo | Autóctone | 4 | 3,8 | 20 |  | 2 | * |
+| Cercis | siliquastrum | olaia | Exótica |  |  |  |  | 1,5 | * |
+| Cupressus | lusitanica | cedro-do-buçaco | Exótica | 3,2 | 3 |  |  | 2 |  |
+| Cupressus | macrocarpa | cipreste-da-califórnia | Exótica | 4,5 | 4 |  |  | 2 |  |
+| Cupressus | sempervirens | cipreste-comum | Exótica | 3,5 | 3 | 20 |  | 2 |  |
+| Dracaena | draco | dragoeiro | Exótica | 2,5 | 2 |  | 8 | 1 |  |
+| Eucalyptus | globulus | eucalipto | Exótica | 7 | 6 | 30 |  |  |  |
+| Ficus | macrophylla | figueira-da-baía-demoreton | Exótica | 7 | 5 | 19 |  |  |  |
+| Fraxinus | angustifolia | freixo | Autóctone | 4 | 3,5 |  |  | 1,5 | * |
+| Grevillea | robusta | grevilia | Exótica |  |  |  |  | 2 | * |
+| Liriodendron | tulipifera | tulipeiro-da-virgínia | Exótica | 4,3 | 3,4 | 21 |  |  |  |
+| Magnolia | grandiflora | magnólia | Exótica | 3 | 2,5 |  |  |  |  |
+| Melia | azedarach | mélia | Exótica |  |  |  |  | 2 | * |
+| Metrosideros | excelsa | metrosídero | Exótica |  |  |  |  | 2 |  |
+| Olea | europaea var. europaea | oliveira | Autóctone | 6 |  |  |  |  |  |
+| Olea | europaea var. sylvestris | zambujeiro | Autóctone | 6 |  |  |  |  |  |
+| Pinus | pinaster | pinheiro-bravo | Autóctone | 2,7 | 2,5 | 25 |  | 2 |  |
+| Pinus | pinea | pinheiro-manso | Autóctone | 4 | 3,5 | 20 |  | 2 | * |
+| Platanus | hispanica | plátano | Exótica | 5 | 4 |  |  | 2 | * |
+| Populus | spp. | choupo | Exótica | 3,5 | 3 |  |  |  |  |
+| Prunus | cerasifera | abrunheiro-dosjardins | Exótica |  |  |  |  | 2 | * |
+| Quercus | faginea | carvalho-português | Autóctone | 3 | 2,5 |  |  |  |  |
+| Quercus | ilex subsp. rotundifolia | azinheira | Autóctone | 3,5 | 3 |  |  |  |  |
+| Quercus | pyrenaica | carvalho-negral | Autóctone | 3,5 | 3 |  |  |  |  |
+| Quercus | robur | carvalho-roble | Autóctone | 4 | 3,5 |  |  |  |  |
+| Quercus | suber | sobreiro | Autóctone | 4 | 3,5 |  |  |  |  |
+| Tilia | cordata | tília-das-folhaspequenas | Exótica |  |  |  |  |  |  |
+| Tilia | platyphyllos | tília-de-folhasgrandes | Exótica |  |  |  |  | 1,5 |  |
+| Tilia | tomentosa | tília-argêntea | Exótica | 3 | 2,5 |  |  | 1,5 |  |
+| Tipuana | tipu | tipuana | Exótica |  |  |  |  | 2 | * |
+
+PB - Perímetro do tronco na base; PAP - Perímetro do tronco medido a 1,30 m de altura; H - Altura total do exemplar; DMC - diâmetro médio da copa; CO2 - espécies assinaladas com * contribuem significativamente para o armazenamento e sequestro de carbono.
+
+## ANEXO II — Outras árvores protegidas no município de Torres Novas
+
+A presente lista de espécies foi elaborada com base no elenco florístico (espécies arbustivas e arbóreas) das comunidades fitossociológicas que ocorrem no concelho de Torres Novas [Flora-On: Flora de Portugal interativa (2014)]. Sociedade Portuguesa de Botânica. www.flora-on.pt) e tendo em conta as seguintes Listas:
+
+a) “Espécies arbóreas florestais utilizáveis em Portugal continental” (ICNF, I. P.);
+
+b) “Espécies exóticas ocorrentes em Portugal Continental, não incluídas na Lista Nacional de Espécies Invasoras e para as quais não se aplica o estipulado no [Decreto-Lei n.º 92/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739)” (ICNF, I. P.);
+
+c) “Plano Municipal de Defesa contra Incêndios” ver n.º 4 do artigo 15.º do presente regulamento.
+
+Na Tabela abaixo indicam-se as espécies que integram a Lista A e a Lista B, respetivamente, de acordo com os seguintes critérios:
+
+Lista A
+
+Esta lista tem como objetivo salvaguardar árvores e arbustos existentes em malha urbana estabilizada, que se distingam pelo seu porte e demais elementos que lhe conferem o estatuto de exemplar singular na paisagem onde se inserem. No âmbito do presente regulamento são protegidas todas as árvores de espécies autóctones bem como exemplares pertencentes às espécies listadas, desde que com perímetro (PAP) igual ou superior a 1,50 m para espécies de porte arbóreo, e com perímetro (PAP) igual ou superior a 0,45 m para espécies de porte arbustivo.
+
+TABELA 2
+
+Árvores e arbustos existentes em área urbana com estatuto de exemplar singular na paisagem
+
+| Género | Epíteto específico | Designação vulgar | Origem | Regime de folha | Porte |
+| --- | --- | --- | --- | --- | --- |
+| Brachychiton | populneus | Árvore-garrafa | exótica | Perene | Árv |
+| Tília | tomentosa | tília | exótica | Caduca | Árv |
+| Cupresses | Hesperocypáris | Cipreste português | exótica | perene | Árv |
+| Cupresses | Sempervirens | cipreste | exotico | perene | Arv |
+| Fraxinus | angustifolia | freixo | autóctone | caduca | Árv |
+| Platanus | hispânica | plátano | exótica | caduca | Árv |
+| Liquidambar | styraciflua | liquidambar | exótica | caduca | árv |
+| Jacarandá | mimosifolia | Jacarandá | exotica | caduca | Arv |
+| Ginkgo | biloba | Nogueira do japão | exótica | Caduca | arv |
+| Mélia | azedearach | cinamomo | exótica | caduca | Arv |
+| Morus | Alba | amoreira | exótica | caduca | Arv |
+| Olea | Europea | oliveira | autoctone | perene | Arv |
+| Casuarina | equisetifolia | Casuarina | exotica | perene | arv |
+| Celtis | australis | logão | exótica | caduca | Arv |
+| Cercis | siliquatrum | Árvore do amor | exótica | caduca | Arv |
+| Prunus | Cerasifera “pissardi” | Ameixieira de jardim | exótica | caduca | Arv |
+| Prunus | Serrulata “kanzan” | Cerejeira de jardim | exotica | caduca | Arv |
+| Citrus | Sinensis | laranjeira | exótica | perene | Arv |
+| Lagerstroemia | indica |  | exótica | caduca | Arv |
+| Aeschus | hippocastum | Castanheiro da india | exotica | caduca | Arv |
+| Aceres | campestre | Acer | exótica | caduca | Arv |
+| Chorisia | spinosa | Chorisia | exótica | caduca | Arv |
+| Erythrina | crista (galli) | Erythrina | exótica | caduca | Arv |
+| Magnolia | virginiana | Magnolia | exótica | persistente | Arv |
+| Albizía | julibrissim | Albizia | exotica | caduca | Arv |
+
+Lista B
+
+Esta lista tem como objetivo salvaguardar árvores e arbustos existentes em malha urbana em desenvolvimento, em áreas que conservam o seu estado natural, que sejam alvo de qualquer empreitada de obras públicas/municipais e operações urbanísticas, selecionando os exemplares mais relevantes para a manutenção da identidade da paisagem local. Deste modo, pretende-se evitar cortes rasos e descaracterização paisagística do território em causa (exemplares com perímetro (PAP) igual ou superior a 0,45 m para espécies de porte arbustivo ou 0,75 m para espécies de porte arbóreo).
+
+TABELA 2
+
+Árvores e arbustos em malha urbana em desenvolvimento, relevantes para a identidade da paisagem local
+
+| Género | Epíteto específico | Designação vulgar | Origem | Regime de folha | Porte |
+| --- | --- | --- | --- | --- | --- |
+| Olea | Europea | oliveira | autoctone | perene | Arv |
+| Cupresses | Sempervirens | cipreste | exotico | perene | Arv |
+| Fraxinus | angustifolia | freixo | autóctone | Caduca | Árv |
+| Quercus | faginea | Carvalho português | Autoctone | Caduca | Arv |
+| Quercus | suber | sobreiro | autoctone | Caduca | Arv |
+| Quercus | Ilex subsp. rotundifolia | azinheira | Autóctone | caduca | Arv |
+
+TABELA 3
+
+Espécies que integram as listas das Outras Árvores Protegidas no Município de Torres Novas
+
+À data de entrada em vigor do presente regulamento não se encontram definidas outras arvores protegidas no Município de Torres Novas.
+
+## ANEXO III — Implantação, manutenção e proteção do arvoredo no município de Torres Novas
+
+Normas técnicas
+
+I - Implantação
+
+A - Plantação de Árvores
+
+1 - Trabalhos Prévios:
+
+1.1 - Todos os resíduos não orgânicos, bem como cepos, raízes ou plantas adventícias existentes nas caldeiras, deverão ser removidos antes do início dos trabalhos e ser geridos, segundo a legislação em vigor respeitante à gestão de resíduos.
+
+1.2 - Durante o transporte as plantas devem ser devidamente acondicionadas de modo que não se danifiquem. O transporte de árvores de raiz nua deverá ser alvo de cuidado adicional, garantindo a manutenção da humidade das raízes e a não exposição a ventos e à radiação solar.
+
+2 - Abertura de covas:
+
+2.1 - Após a marcação do local de plantação de uma nova árvore proceder-se-á à abertura de uma cova de forma manual ou mecânica com 1 m de profundidade e 1 m ou mais de lado ou diâmetro.
+
+2.2 - O fundo e os lados das covas deverão ser picados para permitir uma melhor aderência da terra de enchimento.
+
+3 - Características do material vegetal:
+
+3.1 - As árvores deverão apresentar-se de acordo com as características da espécie e devidamente equilibradas em termos de parte aérea/sistema radicular. Deverão ser exemplares novos, fitopatologicamente sãos, bem conformados e vigorosos.
+
+3.2 - Os exemplares a plantar deverão ter um único eixo vertical, direito, com ápice superior definido, sem ramos e pernadas codominantes, bem como o seu fuste deverá estar bem definido.
+
+3.3 - No caso das árvores revestidas da base devem apresentar a flecha intacta e as ramificações laterais devem apresentar-se com vigor proporcional entre si. As restantes características exigidas anteriormente deverão ser consideradas.
+
+3.4 - As árvores a selecionar deverão ser árvores cujo crescimento em viveiro respeitou o porte natural da espécie, não sujeitas a qualquer tipo de podas para controlo da sua altura/crescimento.
+
+3.5 - A estrutura principal da copa deve apresentar-se simétrica e equilibrada quanto ao número de ramos e à sua disposição à volta do eixo, com os ângulos de inserção correspondentes aos característicos de cada espécie. A copa deverá ter ainda ramificação bem definida e com tamanho e volume proporcional à sua altura, devendo distribuir-se na razão de 2/3 do total da árvore (a partir do colo) e os gomos devem apresentar-se intactos e vigorosos.
+
+3.6 - As árvores a plantar deverão ser fornecidas em vaso (polietileno ou “vaso geotêxtil”), cujo torrão deve estar bem consolidado resultante de envasamento/repicagem superior a um ano e inferior a dois.
+
+3.7 - O sistema radicular deve apresentar-se bem desenvolvido, com cabelame abundante e sem raízes mortas, tutoradas ou espiraladas., sem sinais de corte (poda ou rasgos) das raízes principais.
+
+3.8 - A planta deve estar centrada no contentor e o volume deste deve ser proporcional ao volume da copa (≥ 50 litros), de forma a assegurar que o sistema radicular tenha espaço para um bom desenvolvimento, sem raízes enroladas em torno de si mesma (espiraladas) ou à saída do dreno.
+
+3.9 - Em casos excecionais, devidamente validados pelos serviços técnicos, as árvores podem ser fornecidas:
+
+3.9.1 - Em torrão para plantações a efetuar entre novembro e fevereiro, para PAP até 0,12 m e desde que:
+
+3.9.1.1 - O diâmetro deste deve ser igual ou superior a três vezes o perímetro do fuste (duas vezes no caso de coníferas), medido a 1,00 m do colo;
+
+3.9.1.2 - A altura do torrão deve ser igual ou superior ao seu diâmetro multiplicado por 0,70 m (1,20 m no caso de coníferas);
+
+3.9.1.3 - Os torrões devem ser revestidos com serapilheira, envolvida por malha de arame degradável, a remover no momento da plantação. A terra que forma o torrão deve apresentar estrutura francaargilosa.
+
+3.9.2 - Em raiz nua para plantações a efetuar entre novembro e fevereiro em matas, parques, jardins ou espaços ajardinados, dendo ser exemplares de pequeno porte (PAP igual ou inferior a 0,08 m).
+
+3.10 - As árvores não devem apresentar feridas na casca causadas por meios mecânicos ou por exposição direta a radiação solar (escaldão).
+
+3.11 - As feridas provenientes de corte de ramos não devem ter uma dimensão superior a 1/3 do diâmetro do ramo ou pernada onde estava inserido e deverão apresentar o bordo limpo e as restantes com o lábio cicatrizante circular de forma homogénea.
+
+3.12 - Não devem apresentar evidências ou sintomas de pragas, doenças ou sinais de desidratação.
+
+3.13 - As árvores provenientes de viveiros devem apresentar-se em bom estado fitossanitário sem sintomas de doenças e pragas.
+
+3.14 - Os viveiros deverão apresentar:
+
+3.14.1 - A cópia da última inspeção fitossanitária emitida por organismo oficial do país de origem;
+
+3.14.2 - Se entendido necessário, um certificado fitossanitário do controlo de eventuais doenças e pragas mais comuns de acordo com as normas europeias, nomeadamente o [Decreto-Lei n.º 154/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2005-141854), de 6 de setembro, na sua redação atual.
+
+4 - Plantação:
+
+4.1 - Os trabalhos de plantação serão executados, preferencialmente, nos meses de novembro a março para a generalidade das espécies arbóreas (raízes em vaso e torrão), podendo ter lugar noutras épocas do ano consoante as características das espécies em causa e desde que sejam garantidas as condições técnicas/logísticas que assegurem as necessidades em rega.
+
+4.2 - A profundidade de plantação será determinada pelo colo da árvore (zona de transição da raiz e tronco), que deverá ficar à superfície. Em caldeiras de arruamento, a altura do solo e camada de mulch deverá permitir a rega manual das árvores, sem haver escorrimento para fora da caldeira.
+
+4.3 - Na plantação, deve haver o cuidado de deixar a parte do colo das árvores à superfície do terreno, para evitar problemas de asfixia radicular e de apodrecimento do colo.
+
+4.4 - Previamente à plantação devem ser retirados a serapilheira, arame, rede metálica ou plástica, plásticos e outros corpos estranhos que envolvam o torrão e que tenham servido de proteção do mesmo desde o viveiro até ao local da plantação.
+
+4.5 - A árvore será colocada no centro da cova previamente cheia com a quantidade de composto tal que permita o posicionamento em altura correta, na posição vertical, suspensa pelo torrão e nunca pela parte aérea.
+
+4.6 - Nas covas que possuem sistema de drenagem, camadas drenantes ou outras infraestruturas, deverão todos os trabalhos ser realizados antes de se iniciar a plantação.
+
+4.7 - As paredes da cova serão verticais e o fundo plano ou ligeiramente inclinado. Caso se verifique vitrificação das paredes laterais das covas, devido ao processo de escavação ou ao tipo de solo, as paredes e o fundo deverão ser ligeiramente escarificados para romper a camada superficial.
+
+4.8 - O enchimento da cova será feito cuidadosamente de forma a comprimir, mas nunca a compactar, o torrão ou o sistema radicular e a evitar a formação de bolsas de ar.
+
+O enchimento das covas deverá ter lugar com a terra não encharcada ou muito húmida e far-se-á calcamento, a pé, à medida que se proceder ao seu enchimento.
+
+As árvores em caldeira serão colocadas na parte central a uma profundidade tal que após o enchimento e rega abundante da cova o colo, se situe 0,10 a 0,05 m abaixo da cota do pavimento ou lancil existente, caso não seja verificada esta situação, a árvore deverá ser reposicionada. Imediatamente após o enchimento da cova proceder-se-á a uma rega por alagamento de forma a saturar o solo em toda a área da cova, sendo acrescentado composto na quantidade necessária para repor a altura final.
+
+Caso esteja exista possibilidade, será de instalar e ligar o sistema de rega por anel de brotadores e espalhada a camada de “mulch”. Depois da primeira rega, deverá ligar se a planta ao tutor, tendo o cuidado de utilizar atilhos de material apropriado e não muito apertado para evitar ferimentos na planta.
+
+5 - Colocação de tutores:
+
+5.1 - Aquando do enchimento da cova, serão aplicados os tutores e cravados no fundo da cova em terreno natural, bem fixos e a prumo, numa posição equidistante do tronco da árvore. Terá de se ter em atenção a direção dos ventos dominantes de forma a minimizar os riscos de formação de feridas, sendo que em cada rua só poderá existir uma única posição, para a colocação dos tutores ficar uniformizada.
+
+5.2 - Os tutores devem ser varas de pinho ou eucalipto. Poderá optar-se por utilizar tutores fazendo o reaproveitamento de outras madeiras ou materiais com autorização da unidade orgânica responsável pela gestão dos espaços verdes.
+
+5.3 - O diâmetro das varas deverá ser de 6 a 8 cm com uma superfície regular, diâmetro uniforme e tratadas.
+
+5.4 - As varas deverão possuir uma parte pontiaguda para permitir uma melhor cravação no solo. Por norma serão aplicados dois tutores (tutores duplos: bipeça), a uma distância mínima de cerca de 0,60 m, dependendo da espécie, podendo ser aplicados apenas um tutor ou três, caso a fiscalização o indique.
+
+5.5 - Em caso algum, os materiais de fixação deverão causar qualquer dano ao tronco, devendo os materiais a utilizar ser aprovados previamente.
+
+5.6 - Deverá preferencialmente ser utilizada cinta elástica disposta em “8”, com resistência e elasticidade suficiente para a função pretendida, sem danificar as plantas, podendo ser utilizado outro material que possua as mesmas características.
+
+5.7 - Nas caldeiras que tenham grelhas de proteção, os tutores têm de estar a uma distância máxima de 0,50 m de forma a ficarem no centro da grelha junto ao tronco.
+
+6 - Tutoragem e ancoragem:
+
+6.1 - Após a plantação serão colocados os atilhos que prendem a árvore aos tutores. A amarração far-se-á em “8”, de modo a não permitir que haja contacto entre o tronco e a superfície do tutor.
+
+6.2 - A altura da amarração da árvore ao tutor deve ter em conta o ponto em que a força exercida pelo vento possa quebrar o tronco, permitindo alguma flexibilidade ao mesmo.
+
+B. Transplante de Árvores
+
+1 - Época de transplante:
+
+Consoante a espécie, após a queda das folhas ou durante o repouso vegetativo.
+
+2 - Materiais e máquinas a utilizar:
+
+2.1 - A cova a abrir para receber a árvore a transplantar deve ser pelo menos 0,60 m maior que o torrão. A sua profundidade deve ser pelo menos 0,25 m maior que a altura do torrão para permitir a incorporação de uma camada de terra viva.
+
+2.2 - A árvore deve ser levantada por meios mecânicos adequados, guinchos, gruas, etc., que tenham capacidade para suportar o peso da árvore e do torrão. Não deve em caso algum consentir-se que a pressão para levantar a árvore seja exercida sobre o tronco. Ela deve ser feita sobre o suporte de tecido e cordas em que assenta o torrão.
+
+2.3 - Todos os materiais e máquinas a utilizar deverão ser os mais adequados para a execução dos trabalhos, dependendo do tamanho da árvore e da técnica a utilizar.
+
+3 - Preparação do exemplar e das condições de transplante:
+
+Antes da escavação e do transplante o solo deve estar húmido, se estiver seco deve ser regado 4 a 3 dias antes das operações. As podas a executar para equilibrar a parte aérea e parte radicular, devem ser feitas após a formação do torrão, devendo os ramos ser protegidos para prevenir o seu esgaçamento.
+
+4 - Execução:
+
+4.1 - Quando se proceder à escavação manter tanto quanto possível o sistema radicular, só após esta operação é que a copa deverá ser podada, de forma a equilibrar a copa da árvore transplantada com o que resta de o sistema radicular.
+
+4.2 - As raízes esgaçadas/esmagadas também devem ser cortadas e não poderão ser deixadas ao ar.
+
+4.3 - Deverá ser colocada serapilheira ou outro material adequado a envolver firmemente o solo formando um torrão, por onde deverá ser levantada e transportada a árvore, não permitindo que seja desfeito.
+
+4.4 - Poderá também optar-se por outro método que permita conter o torrão.
+
+4.5 - A árvore deve ser levantada por meios mecânicos adequados que tenham capacidade para suportar o peso do conjunto árvore mais torrão.
+
+4.6 - A pressão para levantar a árvore nunca poderá ser exercida sobre o tronco. Ela deve ser feita sobre o suporte de tecido e cordas em que assenta o torrão.
+
+4.7 - Após transplantação, a árvore deverá ser tutorada ou escorada de forma a garantir a sua imobilidade para assegurar eficaz enraizamento, nos temos aplicáveis à Plantação de Árvores.
+
+5 - Transporte:
+
+5.1 - Têm se ser tomadas precauções necessárias, devendo-se assegurar de que não batam em cabos aéreos, pontes, e outros obstáculos.
+
+5.2 - A árvore deve ficar colocada com a mesma orientação que tinha no local original, sendo para isso feita uma marca para referência.
+
+C - Materiais
+
+1 - Terra de Plantação:
+
+A terra de plantação para as covas das árvores, deverá ser de textura franca e rica em matéria orgânica, isenta de infestantes, pedras e materiais estranhos, com pH entre 5,0 e 7,0. Não são aceites terras arenosas.
+
+2 - Fertilizantes:
+
+2.1 - Antes de serem aplicados, todos os produtos devem ser validados pelo serviço de Espaços Verdes, imediatamente após a aprovação do projeto, devendo ser fornecidas amostras padrão assim como as suas características e dosagens recomendadas pelos fabricantes.
+
+2.2 - Os fertilizantes deverão ser espalhados sobre a terra das covas e depois serão bem misturados com esta, aquando do enchimento das mesmas.
+
+3 - Produtos fitofarmacêuticos e armadilhas
+
+A aplicação de produtos fitofarmacêuticos e outros produtos para controlo de pragas, doenças e infestantes deverá estar de acordo com a [Lei n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/lei/26-2013-260454), de 11 de abril.
+
+4 - Materiais não especificados:
+
+Todos os materiais não especificados e que tenham emprego nos trabalhos, deverão satisfazer as condições técnicas de resistência e segurança impostas pelos regulamentos que lhes dizem respeito, ou terem características que satisfaçam as boas normas de construção.
+
+5 - Considerações sobre materiais:
+
+Os materiais poderão ser submetidos a ensaios especiais para a sua verificação, tendo em atenção o local de emprego, fim a que se destinam e a natureza do trabalho onde vão ser utilizados.
+
+II - Proteção e Manutenção de Árvores
+
+A - Escavações
+
+1 - Antes da escavação, as árvores deverão ser ancoradas com cintas e não tracionadas, devendo ser assegurado que qualquer movimento da árvore é contrabalançado. A escavação deve começar longe das árvores e ir-se gradualmente aproximando.
+
+2 - O corte de terreno deve ser efetuado de uma forma radial em relação à árvore. À aproximação das primeiras raízes a escavação deve ser feita manualmente ou com o auxílio de jato de água ou de ar com pressão adequada.
+
+3 - As raízes expostas devem ser cobertas por um geotêxtil, regado em permanência por sistema de aspersão, duas vezes por dia. A passagem de tubagens ou afins deve ser feita em túnel, para que as raízes primárias permaneçam intactas, devendo o mesmo ser “limpo” aquando de eventuais cortes nas raízes secundárias.
+
+4 - Na poda radicular, os ângulos de corte são perpendiculares ao eixo da raiz a suprimir. Sempre que solicitado por parte da Câmara Municipal de Torres Novas antes do aterro das raízes, devem ser aplicados micorrizas e hormonas de enraizamento nas concentrações preconizadas pelos fornecedores, garantindo assim a recuperação do sistema radicular.
+
+5 - Na construção de muros ou outro tipo de construções contínuas, deve proceder-se à execução de fundações pontuais, cuja base será estabelecida em local onde não haja afetação das raízes que cumpram uma função de suporte do exemplar.
+
+6 - Tendo em vista a proteção dos ramos e copa das árvores, os ramos mais baixos devem ser suspensos e os pontos de alturas protegidos com materiais adequados para não provocarem danos às pernadas. Caso existam máquinas a trabalhar deverá ter-se em atenção o direcionamento dos gases de exaustão e aquecimento provocado pelas mesmas.
+
+7 - Caso as medidas referidas no regulamento, sejam insuficientes para proteger a copa das árvores dos trabalhos, antes de se iniciarem os trabalhos deverá ser realizada uma operação de poda de elevação de copa, aprovada pelos serviços técnicos com competência na manutenção das árvores em causa.
+
+8 - Toda a intervenção deve ter, desde o seu início, o acompanhamento da unidade orgânica responsável pela gestão dos espaços verdes para efeitos de parecer prévio e eventual fiscalização a qual pode ser concretizada localmente pelos seus técnicos. Nas obras municipais, os serviços de fiscalização devem articular a sua atividade com unidade orgânica responsável pela gestão dos espaços verdes.
+
+B - Caldeiras
+
+1 - Quando localizadas em espaços de circulação pedonal, as caldeiras deverão ser dispostas de acordo com os seguintes critérios:
+
+1.1 - Junto ao lancil ou guia de transição com a rodovia, assegurando uma distância mínima do eixo a este de 0,8 m;
+
+1.2 - Noutros pontos, conquanto seja garantida a continuidade do percurso acessível e salvaguardada uma distância mínima de 1,50 m entre o contorno da copa da árvore a plantar (estado adulto) e o perímetro exterior de implantação dos edifícios. Quando localizadas em espaços de circulação rodoviária as caldeiras deverão ser localizadas de acordo com os seguintes critérios:
+
+1.2.1 - No eixo dos separadores, quando os mesmos disponham de uma largura livre mínima igual ou superior a 1,20 m;
+
+1.2.2 - Nos limites das vias, designadamente ao longo das faixas de estacionamento, assegurando uma distância mínima do eixo ao limite da via de 1,50 m;
+
+1.2.3 - Não é permitida a instalação de caldeiras em pontos que possam pôr em causa a continuidade e segurança das faixas ou pistas cicláveis.
+
+2 - No sentido de garantir a sua correta perceção enquanto obstáculo, designadamente por invisuais, as caldeiras devem obedecer ainda aos seguintes parâmetros, quando localizadas em espaços de utilização pedonal:
+
+2.1 - Os seus limites exteriores devem estar sobrelevados em relação aos pavimentos contíguos, numa altura nunca inferior a 0,30 m;
+
+2.2 - A área permeável, quando não exista ressalto da caldeira com o pavimento envolvente, deve ser coberta por grade, grelha ou outro elemento, preferencialmente metálico, que garanta a penetração da água no solo e ofereça condições de segurança e estabilidade, devendo ainda dispor de sistema antirroubo;
+
+2.3 - Em alternativa, é também admitida a utilização de agregados.
+
+C - Podas
+
+1 - Redução de Copa:
+
+A Redução da Copa tem como objetivo diminuir o volume da árvore, reduzindo a copa sem alterar a sua forma sendo que a técnica a utilizar para o efeito baseia-se no corte de ramos de maior dimensão ou mais altos, na axila de um dos seus ramos laterais que deverá ser escolhido para fazer o prolongamento do ramo cortado, o designado de “tira-seiva”.
+
+2 - Poda de Formação:
+
+2.1 - A Poda de Formação efetua -se em árvores jovens recentemente plantadas e visa a melhoria da sua forma e estrutura, para se obter uma árvore adulta com um bom porte e com o tronco despido de ramos até uma altura de 3,5 a 4 metros, para árvores de arruamento, havendo de ter em atenção que:
+
+2.1.1 - A parte desramada de árvores jovens não deverá ser superior a 1/3 da altura;
+
+2.1.2 - Todos os ramos verticais concorrentes com o ramo principal deverão ser eliminados segundo o plano de corte correto;
+
+2.1.3 - Nos casos em que a flecha esteja partida ou murcha, deverá formar-se uma nova flecha a partir do ramo lateral vigoroso, a que se dará a orientação do eixo principal através de uma ligadura, quando necessário.
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1166173656/1166174284.png) |
+| --- |
+
+Figura 1 - Representação esquemática de poda de formação
+
+3 - Poda de Manutenção:
+
+3.1 - Corte de um ramo:
+
+Todos os cortes têm de ser feitos de modo a preservar a zona da árvore onde se localizam os tecidos que permitem o fecho das feridas efetuadas com esta operação. A zona do corte deve ter em conta a localização da ruga da casca e do colo do ramo, sendo o corte a efetuar no limite destes e nunca devendo atingi-los. O ângulo do corte é determinado pelo ângulo de inserção do ramo, situando-se no plano imediatamente seguinte à ruga da casca e à extremidade superior do colo do ramo.
+
+3.2 - Ramos horizontais:
+
+Quando os ramos fazem ângulos de 90.º com o tronco, como é o caso das resinosas, a ruga da casca forma um anel na base do ramo, pelo que neste caso o corte do ramo faz-se de forma paralela ao tronco.
+
+3.3 - Corte de uma bifurcação ou codominância
+
+O corte deverá ser efetuado no exterior da ruga da casca, de forma oblíqua, mas não exageradamente.
+
+3.4 - Corte de um ramo morto ou toco:
+
+Após a morte de um ramo, a árvore desenvolve uma primeira estrutura correspondente a um calo, devendo o corte realizar -se o mais possível sobre a parte viva, mas sem danificá-la.
+
+3.5 - Corte de ramos com muito peso ou diâmetro:
+
+Quando se efetua o corte de um ramo de considerável diâmetro de uma só vez, poderá ocorrer o seu esgaçamento devido ao peso suportado.
+
+Este esgaçamento poderá originar a destruição dos tecidos do ramo e do tronco, causando danos consideráveis. Um corte correto deverá ser realizado a vários tempos e com auxílio de cordas.
+
+3.6 - Encurtamento de um ramo:
+
+O encurtamento de um ramo deverá ser efetuado na axila de uma ramificação que desempenha o papel de “tira-seiva”, permitindo a circulação no resto do ramo para que não ocorra a sua morte.
+
+4 - Orientação da queda e descida de ramos:
+
+4.1 - Na presença de bens a conservar na proximidade das árvores, os ramos maiores deverão ser descidos com o auxílio de cordas, para orientar a sua queda. Neste caso, terá de ser avaliado o peso do ramo, que não deve exceder a carga de segurança da corda e o aquecimento das cordas por fricção.
+
+4.2 - É igualmente necessário avaliar a localização do centro de gravidade do ramo cortado, para evitar oscilações. Se os trabalhos forem executados a partir de um cesto elevatório, sempre que a situação o justificar e se for possível, deverá estar presente no “cesto”, mais um operário para ajudar a orientar a descida dos ramos. Para orientar a queda de um ramo de grande dimensão, deverá ser efetuado um primeiro entalhe oblíquo “designado comummente de queijo” do lado do ramo/tronco para onde queremos que caia. Também se deverá optar pelo corte de um ramo por secções - corte do ramo em diferentes locais - quando o mesmo é muito comprido ou pesado.
+
+5 - Tratamento das feridas do corte:
+
+5.1 - O bordo do corte deverá estar limpo e uniforme, sem apresentar partes esgaçadas ou arrancadas, de modo a permitir uma melhor cicatrização das feridas de corte. A aplicação de produtos protetores para cobrir as feridas - cicatrizantes -, deve ser realizada após o corte de um ramo de grande diâmetro. Estes produtos devem permitir que a zona afetada se regenere o mais rapidamente possível, podendo ter incorporado hormonas que favoreçam a formação do calo.
+
+5.2 - Também deverá, nos cortes de grande dimensão, ser aplicado fungicida para prevenir a ocorrência de doenças no exemplar intervencionado.
+
+6 - Trabalhos de abate, nivelamento e desvitalização de cepos.
+
+6.1 - Antes da operação de abate de qualquer exemplar, devem ser feitos trabalhos preparatórios de acautelamento relativos à segurança e preservação de pessoas, infraestruturas, equipamentos e bens.
+
+6.2 - Todos os trabalhadores, incluindo os que permanecem no solo, devem estar obrigatoriamente equipados com os meios de segurança e proteção individual, indicados para cada tipo de trabalho, pela legislação vigente.
+
+6.3 - A técnica de abate deverá ter em conta as condicionantes locais:
+
+6.3.1 - Abate direto orientado - em locais onde haja espaço suficiente não pondo em risco nenhuma pessoa ou bem, poderá optar-se pelo abate direto por queda da árvore inteira, procedendo-se ao corte na base do tronco.
+
+6.3.2 - Desmonte sequencial com retenção do material lenhoso - quando haja perigo de provocar danos, designadamente pessoas, infraestruturas, equipamentos ou bens, os abates devem ser feitos por desmonte sequencial, desde o topo da árvore até ao fuste; os ramos devem ser descidos com retenção (cordas ou gruas), para evitar danos colaterais.
+
+6.4 - O nivelamento, desvitalização de cepos e a remoção da árvore inclui também a remoção/rebaixamento do cepo, que poderá ser efetuado de forma mecânica ou manual dependendo das estruturas envolventes.
+
+6.5 - A opção por qualquer um destes processos é possível, mas, o cepo só deverá ser removido desde que essa operação não danifique ou interfira com o sistema radicular de outros exemplares a preservar ou com infraestruturas enterradas.
+
+6.6 - Caso haja qualquer possibilidade de provocar dano, deverá proceder-se ao rebaixamento do cepo até ao nível do solo e cobrir o cepo com terra vegetal aplicando com herbicida sistémico não residual nos cepos verdes, se a espécie tiver capacidade de rebentação de toiça.
+
+6.7 - Os cepos deverão ser rebaixados e/ou removidos com grande brevidade sempre que constituam obstáculo à circulação deverão ser convenientemente sinalizados. Se a causa da morte da árvore tiver sido por ataque de pragas ou doença, durante a remoção do exemplar não deverão ser deixados resíduos no terreno passíveis de infetar outros exemplares. Os resíduos referidos na subalínea anterior devem ser transportados com cuidados próprios e incinerados em local adequado para evitar a propagação da praga.
+
+7 - Desinfeção e Manutenção das Ferramentas:
+
+De modo a evitar propagação de doenças, as ferramentas de poda deverão ser desinfetadas; Este processo de desinfeção do material deve ser automático, senão é necessário realizar uma desinfeção periódica das ferramentas, antes da deslocação para outro local, ou se necessário antes da deslocação para outra árvore. Nas zonas de elevado risco de contaminação, serão tomadas precauções particulares, sendo obrigatória a desinfeção do material antes de começar o trabalho noutra árvore.
+
+8 - Trituração ou remoção de sobrantes vegetais:
+
+8.1 - Caso não se detetem problemas fitossanitários nas árvores intervencionadas, os sobrantes vegetais resultantes das intervenções de poda ou abate, sobretudo os mais finos, podem ser triturados e deixados no local para cobertura de caldeiras ou outros espaços verdes, como incremento de matéria orgânica no solo, ou direcionados para compostagem.
+
+8.2 - Poderá ainda ser prevista a toragem de troncos, pernadas, braças e ramos para posterior aproveitamento. Esta estratégia permite, ainda, diminuir os custos ambientais inerente ao seu transporte. No caso dos cepos, e sempre que possível em zonas ajardinadas, poderá optar-se pela sua manutenção, estilhaçando-o e instalando na proximidade a nova planta.
+
+8.3 - Para evitar custos com a retirada, a movimentação de terras e a danificação potencial de quantidade de matéria orgânica para a nova planta. Nas restantes árvores, com problemas fitossanitários, os sobrantes vegetais devem ser retirados imediatamente após o trabalho efetuado, para que o espaço de intervenção fique devidamente limpo, sem acumulações de lenhas ou partículas mais pequenas.
+
+8.4 - Os sobrantes podem ser transportados para vazadouro apropriado, de onde será feito o encaminhamento para destino final. Podem utilizar-se os meios que se julguem convenientes, manuais ou mecânicos, com o mínimo transtorno para a circulação rodoviária pedonal ou outra e permitindo, também, o acesso a garagens e edifícios.
+
+8.5 - O transporte e acondicionamento dos sobrantes vegetais devem ser feitos de acordo com a legislação vigente e os planos de ação específicos de controlo de pragas e doenças, como são, por exemplo, os do nemátodo-da-madeira-dopinheiro, do cancro-resinoso-do-pinheiro e do escaravelho-das-palmeiras, uma vez que o material vegetal infetado deve ter o encaminhamento previsto pelas entidades competentes.
+
+9 - Gestão de Resíduos:
+
+9.1 - Deverá garantir-se a correta gestão dos resíduos e materiais sobrantes produzidos, em cumprimento da legislação vigente, de modo que estes não venham a gerar impactes ambientais negativos durante a execução dos trabalhos.
+
+9.2 - A metodologia a seguir na gestão dos resíduos pretende valorizar, por ordem de caso.
+
+9.3 - Os materiais são, na sua maioria, resíduos inertes resultantes de escavações e sobrantes vegetais derivados das podas e abates.
+
+9.4 - As terras de escavação não contaminadas são consideradas resíduos quando cessa a possibilidade de reutilização, pelo que se pode proceder ao seu transporte, para destino adequado.
+
+9.5 - Sempre que possível e desde que isentas de contaminantes, as terras devem ser reutilizadas na mesma obra ou outra licenciada, ou ainda em local autorizado nos termos do artigo 1.º do [Decreto-Lei n.º 139/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1989-625604), de 28 de abril, relativo à proteção ao relevo natural, solo arável e revestimento vegetal.
+
+10 - Plano de Gestão do Risco:
+
+10.1 - O Plano de Gestão do Risco (PGR) tem como princípios orientadores:
+
+10.1.1 - Aumentar a segurança pública;
+
+10.1.2 - Promover o bom estado fitossanitário e biomecânico das árvores, a alcançar através da implementação de boas práticas de arboricultura, que promovam árvores estruturalmente bem conformadas e estáveis sob o ponto de vista mecânico;
+
+10.1.3 - Estabelecer um processo sistemático e regular de monitorização do arvoredo, que divida a área onde as árvores se inserem em zonas de risco, consoante a tipologia do uso e a frequência de utilização do espaço, defina métodos e cronogramas de avaliação da estabilidade mecânica e do risco de rutura de acordo com as zonas de risco, e implemente ações corretivas de forma atempada, oportuna e sustentável.
+
+10.2 - A avaliação visual da árvore (Visual Tree Assessement - VTA), é o método mais antigo, simples e tecnicamente expedito para avaliar árvores, permitindo a análise sistemática de defeitos estruturais, sintomas e danos de pragas e doenças, ao nível da copa, do tronco e do sistema radicular.
+
+10.3 - Os parâmetros considerados na avaliação visual da árvore (VTA) incluem os dados dendrométricos (DAP, altura da árvore, etc.), características estruturais ao nível da copa, tronco e sistema radicular, sintomas e danos de pragas e doenças e, ainda, características do espaço envolvente (exposição ao vento, tipo de solo, tipologia de utilização, etc.).
+
+10.4 - Ainda que existam diferentes abordagens, de uma forma geral a avaliação do risco de rutura contempla três parâmetros:
+
+10.4.1 - «Tipo de alvo e probabilidade do alvo ser atingido», estabelecida com base na duração e frequência da utilização do espaço onde a árvore se encontra. Este parâmetro está diretamente relacionado com a localização da árvore que terá condicionado a necessidade e urgência da própria avaliação;
+
+10.4.2 - «Dimensão da parte da árvore que entra em rutura estimada», com base no tamanho (diâmetro) da parte da árvore (vulgarmente designada de “peça”) que apresenta maior probabilidade de rutura (existem diferentes metodologias que consideram, para além do diâmetro, o comprimento ou a altura de ramos e do tronco, respetivamente);
+
+10.4.3 - «A probabilidade de a rutura ocorrer», baseada no tipo, posição e gravidade dos defeitos estruturais encontrados, espécie e condições particulares do local. Certos defeitos estruturais são mais propensos a originar situações de rutura do que outros. Por exemplo, ramos codominantes com casca inclusa estão na origem de muitas das ocorrências relacionadas com árvores. No caso em que o defeito estrutural está associado a podridões do lenho, que afetam a resistência mecânica dos exemplares, a gravidade depende da extensão e posição da podridão bem como dos agentes causais. Existe toda uma gama possível de diferentes tipos de podridões do lenho (da podridão castanha à podridão branca) com impacto distinto em termos de propriedades mecânicas, suficiente para influenciar a probabilidade de rutura de um ramo, pernada, tronco ou do sistema radicular.
+
+10.5 - Por outro lado, algumas espécies são reconhecidamente mais propensas a desenvolverem determinados tipos de defeitos estruturais (por ex. codominâncias com casca inclusa em Tílias pp.) ou a serem afetadas por grupos específicos de fungos basidiomicetas lenhícolas.
+
+10.6 - Para detetar, avaliar a posição e extensão das podridões do lenho pode ser necessário recorrer a instrumentos, mais ou menos invasivos, como o resistógrafo ou o tomógrafo de ultrassons ou acústico.
+
+10.7 - Esta abordagem permitirá, consoante o instrumento utilizado, avaliar a resistência da árvore (de partes ou do todo) com base na estimativa de lenhosão residuais.
+
+10.8 - A criação de uma escala de valores que expresse o risco de uma dada árvore facilita a forma de comunicar a decisão quanto às ações a tomar após a inspeção, no sentido de reduzir ou eliminar a possibilidade de ocorrência de danos pessoais, animais ou patrimoniais.
+
+10.9 - Uma escala de valores permite ainda o estabelecimento de prioridades relativamente às medidas de redução do risco a implementar, no contexto da gestão das áreas verdes.
+
+10.10 - A localização do exemplar é um fator importante na determinação, reconhecimento e gestão do risco associado a qualquer árvore, que aumenta com a frequência de ocupação humana na sua envolvência.
+
+10.11 - Uma gestão do arvoredo urbano atenta à redução do risco de rutura oferece múltiplos benefícios incluindo:
+
+10.11.1 - Menor frequência e gravidade de ocorrências com possíveis danos para pessoas, animais e bens;
+
+10.11.2 - Menos encargos com reclamações e despesas legais;
+
+10.11.3 - Árvores mais saudáveis e longevas;
+
+10.11.4 - Menores custos de manutenção;
+
+10.11.5 - Menor número de árvores a remover ao longo do tempo.
+
+10.12 - As atividades de manutenção do arvoredo urbano devem ser priorizadas e processo de inventário, procurando antever e evitar quaisquer ocorrências (quebras de ramos, quedas de árvores, etc.) que coloquem em risco pessoas, animais e bens ou que afetem irremediavelmente o estado fitossanitário e a estabilidade dos exemplares em causa e dos que lhe são próximos.
+
+10.13 - Os exemplares com grau de risco elevado ou muito elevado devem ser intervencionados de imediato com base no risco atribuído, o que geralmente requer a eliminação de defeitos estruturais como ramos mortos, secos, quebrados ou pendentes que podem estar presentes, mesmo quando a árvore se apresenta em bom estado fitossanitário.
+
+10.14 - Quando a poda dos ramos com defeitos estruturais consegue corrigir o problema reduz-se o risco se promovendo um crescimento saudável e a longevidade dos exemplares.
+
+10.15 - Embora a remoção de árvores seja, sempre, considerada o último recurso em termos de gestão do coberto arbóreo, há circunstâncias em que o abate e substituição são necessários, nomeadamente quando apresentam risco elevado ou muito elevado de rutura e queda.
+
+10.16 - A redução do risco associado à árvore pode ser alcançada de diversas formas, designadamente através de operações de poda, colocação de sistemas de sustentação ou de ancoragem ou, ainda, restringindo o acesso com limitação à circulação de pessoas, animais e bens.
+
+10.17 - Quando a poda corretiva não mitiga adequadamente o risco de rutura ou não a corrige os conflitos com o espaço envolvente e apresenta custos claramente superiores às múltiplas vantagens que a árvore trás ao espaço e à vivência urbanos, pode haver necessidade de ponderar o abate.
+
+10.18 - A poda de árvores de risco moderado e baixo é geralmente o nível seguinte de prioridade para as atividades de manutenção.
+
+10.19 - Por questões de eficiência do trabalho a sua poda pode ser feita ao intervencionar árvores adjacentes que apresentam risco elevado ou muito elevado.
+
+10.20 - Ciclos de poda devidamente planeados e implementados são essenciais para a manutenção da maioria das árvores com grau de risco de rutura moderado ou baixo e reduzem a probabilidade de ocorrências causadoras de danos.
+
+10.21 - Parte significativa das ocorrências relacionadas com a rutura ou queda de árvores deve-se a práticas inadequadas. As ações preventivas iniciam-se com a escolha adequada das espécies para cada local de plantação e respetiva utilização do espaço e com a implementação de boas práticas de manutenção.
+
+10.22 - A avaliação da estabilidade mecânica de cada exemplar arbóreo, a atribuição do grau de risco e a definição das medidas de mitigação a implementar, devem ser devidamente documentadas inseridas no inventário municipal do arvoredo em meio urbano, no contexto da sua gestão. Estas ações devem ser levadas a cabo por técnicos com qualificação na matéria, que estejam aptos a reconhecer as situações de perigo associadas à presença de árvores em espaço público e a gerir o coberto arbóreo na presença de riscos toleráveis, podendo a entidade gestora dos espaços públicos (municipais ou estatais) recorrer a empresas, se assim o entender para desempenhar essas funções.
+
+III - Medidas Cautelares para a Proteção e Preservação de Árvores em Locais de obra no Município de Torres Novas
+
+1 - Objetivo:
+
+As medidas cautelares para a proteção e preservação de árvores pretendem garantir a melhor possibilidade de sobrevivência das árvores tanto durante como após atividades de construção. Estas orientações não constituem garantia de sucesso, contudo pretendem mitigar os impactos negativos que decorrem de intervenções que causem lesões quer ao nível do sistema radicular quer na parte aérea das árvores, ou que resultem em alterações mais ou menos profundas na envolvência dessas mesmas árvores.
+
+2 - Enquadramento:
+
+2.1 - As árvores fornecem uma multiplicidade de benefícios sociais, económicos e ambientais à comunidade. As árvores aumentam o valor das propriedades, reduzem os custos de energia, contribuem para a melhoria da qualidade do ar, reduzem o escoamento de águas pluviais, entre outros benefícios.
+
+2.2 - Dado o reconhecimento dos múltiplos serviços de ecossistema fornecidos pelas árvores importa implementar Boas Práticas de Preservação de Árvores, nomeadamente quando no local onde as mesmas se encontram são levadas a cabo atividades de construção.
+
+3 - Justificação:
+
+3.1 - Qualquer obra (ex. abertura de valas, reparação ou reperfilamento de pavimentos, armazenamento de equipamento ou materiais, tráfego de pequenos veículos ou pessoas) que decorra nas imediações de uma árvore, à superfície ou no subsolo, constitui uma ameaça para a vitalidade, a sanidade, a estabilidade mecânica e, eventualmente, a sobrevivência da árvore. Entre as várias ocorrências possíveis no decurso de obra, destacam-se:
+
+3.1.1 - Estragos Físicos no Tronco e na Copa: os equipamentos de construção podem causar lesões quer no tronco quer nas pernadas e ramos inferiores das copas; dependendo da sua extensão estes danos podem comprometer as funções da árvore e a sua própria longevidade.
+
+3.1.2 - Corte de Raízes: a escavação, terraplanagem, abertura de valas para construção e instalação de redes de serviços são prejudiciais às raízes. O sistema radicular de uma árvore pode desenvolver-se horizontalmente a uma distância 1 a 3 vezes superior à altura da árvore. É importante que o corte seja feito o mais longe possível da árvore para evitar danos que comprometam o seu vigor e estabilidade.
+
+3.1.3 - Compactação do Solo: um solo ideal para o crescimento e desenvolvimento da raiz contém aproximadamente 50 % de seu volume ocupado por poros, para movimentação da água e do ar. Os equipamentos pesados de construção podem reduzir drasticamente a porosidade ao promoverem a compactação do solo. A compactação inibe o crescimento das raízes, limita a penetração da água e diminui a quantidade de oxigénio disponível para a sobrevivência da raiz.
+
+3.1.4 - Asfixia das Raízes por Deposição de Solo: a maioria das raízes de pequeno diâmetro que absorvem água e minerais está localizada nos 15-30 cm superiores do solo, onde os níveis de oxigénio e humidade são adequados ao crescimento. Alterações na cota do terreno junto à árvore podem gerar condições de decréscimo dos níveis de oxigénio ao nível das raízes finas, que mesmo pontuais, conduzem à perda de parte do sistema radicular, com as consequentes repercussões negativas em termos de sanidade e estabilidade mecânica.
+
+4 - Conceitos:
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1166173656/1166174285.png) |
+| --- |
+
+Figura 2 - Representação esquemática da dimensão e distribuição do sistema radicular
+
+4.1 - Zona de Proteção Radicular (ZPR): refere-se à área mínima que contém o volume de sistema radicular suficiente para garantir a preservação da árvore e onde a proteção das raízes e da estrutura do solo devem ser prioridade máxima durante as atividades de construção. Pode ser reconhecida equivalência ao conceito de ZPR, o constante na alínea c) do artigo 4.º da [Lei n.º 59/2021](https://diariodarepublica.pt/dr/detalhe/lei/59-2021-169780050), de 18 de agosto, que define “Área de proteção radicular mínima” «que equivale à projeção da copa sobre o solo, podendo, em condições de terreno favorável, corresponder a uma superfície calculada em duas vezes a dimensão da copa ou, para as árvores «colunares e fastigiadas», numa superfície com diâmetro de 2/3 a altura da árvore»;
+
+4.2 - Zona Crítica Radicular (ZCR): é a área à volta do tronco da árvore que é essencial para a sua estabilidade mecânica. Segundo o método mais utilizado o raio da ZCR é calculado de acordo com a seguinte equação:
+
+Raio da ZCR (em m) = (Diâmetro na zona do colo (em m) × 50)0,42 × 0,64
+
+4.3 - A ZPR é, portanto, uma área maior do que a ZCR. Se a construção ou escavação invadir significativamente a ZPR, a ZCR deverá ser calculada, se necessário com recurso a escavação superficial e observação direta do sistema radicular, como garantia de que os trabalhos não tornarão as árvores instáveis, comprometendo a respetiva estabilidade biomecânica.
+
+5 - Barreiras de Proteção:
+
+5.1 - De forma a prevenir estragos nas raízes, as atividades de construção devem ser desviadas da árvore.
+
+5.2 - Uma das formas de garantir o afastamento em relação à árvore consiste em delimitar a ZPR com vedação ou barreira adequada e convenientemente sinalizada.
+
+5.3 - As vedações devem ser colocadas antes do início da construção e mantidas intactas até à inspeção final. Devem ter pelo menos 1,20 m de altura, idealmente 2,00 m de altura, ser claramente visíveis na obra e mantidas por suportes resistentes e adequados.
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1166173656/1166174286.png) |
+| --- |
+
+Figura 3 - Representação esquemática de exemplificação da colocação de barreiras de proteção, para preservação da ZPR e da ZCR
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1166173656/1166174287.png) |
+| --- |
+
+Figura 4 - Representação esquemática de exemplo de estrutura para proteção de árvore através de cercas móveis de 3,50 × 2,00 m, formadas por painel de malha eletrossoldada e postes verticais de 40 mm de diâmetro, com acabamento galvanizado, colocados sobre bases pré-fabricadas de betão fixas ao pavimento
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1166173656/1166174288.png) |
+| --- |
+
+Figura 5 - Exemplos de estruturas para proteção de árvore através de cercas de madeira fixas diretamente no solo envoltas com rede de sombreamento
+
+5.4 - As vedações devem estar devidamente assinaladas com avisos bem visíveis.
+
+5.5 - Deve ser indicada uma pessoa para monitorizar as vedações.
+
+5.6 - Sempre que possível recomenda-se a proteção de grupos de árvores em vez de árvores individuais.
+
+5.7 - Atividades de maquinaria e equipamentos empregues em obras devem ser desviados das árvores de forma a prevenir estragos.
+
+5.8 - Sempre que não for possível garantir o isolamento da ZPR com barreiras de proteção, ou pela necessidade de remoção temporária para acesso que maquinaria, devem ser adotadas as medidas de proteção que mitiguem os danos ao nível radicular e a compactação do solo:
+
+5.9 - Proteção do tronco e pernadas principais com tábuas de madeira, com comprimento adequado ao comprimento das peças a proteger, nunca inferior a 2/3 da altura das peças.
+
+5.10 - Para os troncos é recomendando um comprimento mínimo das tábuas de 2 m, que são unidas entre si; deve ser aplicada entretela entre a casca e as tábuas de madeira.
+
+5.11 - Proteção do solo com aplicação de placas de aço ou contraplacado (circulação pedonal), ou traves de madeira sob camada de 10 cm de mulch (estilha de madeira) ou material inerte tipo gravilha, devidamente protegida da superfície do solo com tela permeável, por exemplo, manta geotêxtil.
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1166173656/1166174289.png) |
+| --- |
+
+Figura 6 - Exemplos de proteção mecânica das árvores quando se torne impossível garantir o isolamento da ZPR com barreiras de proteção
+
+6 - Implementação das Medidas Cautelares:
+
+6.1 - Fase pré-construção:
+
+Antes das atividades de construção, incluindo remoção de árvores, estradas de acesso, áreas de preparação da construção e traçado de vias ou outras infraestruturas, dever-se-à proceder à colocação das barreiras de proteção de árvores para indicar visualmente as ZPR’s. Deverá ter-se em atenção:
+
+a) Usar barreiras de proteção de árvores que sejam visíveis, resistentes e impeçam a entrada na ZPR;
+
+b) Colocar sinalização ao longo da barreira de proteção, para que ninguém perturbe esta área;
+
+c) Remover quaisquer ramos ou árvores que representem um risco imediato para estruturas ou pessoas antes de qualquer atividade de construção.
+
+6.2 - Fase de construção:
+
+6.2.1 - No início dos trabalhos deverá ser explicado aos operadores/intervenientes na construção a função das barreiras de proteção.
+
+6.2.2 - Na ZPR estão proibidas as seguintes atividades:
+
+a) Armazenamento de qualquer tipo, incluindo material de construção, detritos, solo e cobertura morta.
+
+b) Alterações da cota da superfície do solo superiores a 0,07 m de altura.
+
+c) Abertura de valas para instalação de quaisquer tipos de infraestruturas.
+
+d) Pendurar ou pregar quaisquer objetos no tronco, pernadas ou ramos das árvores.
+
+6.2.3 - Caso a obra obrigue ao atravessamento da ZPR, deverão ser adotadas as seguintes medidas de proteção:
+
+a) Antes do desaterro, as árvores deverão ser ancoradas com cintas e não tracionadas, devendo ser assegurado que qualquer movimento da árvore é contrabalançado;
+
+b) O desaterro deve começar longe das árvores e aproximar-se gradualmente;
+
+c) O corte de terreno deve ser efetuado de uma forma radial em relação à árvore;
+
+d) À aproximação das primeiras raízes, a escavação deve ser feita manualmente ou com o auxílio de jato de água com pressão adequada;
+
+e) As raízes expostas devem ser cobertas por um geotêxtil, regado em permanência por sistema de aspersão, duas vezes por dia;
+
+f) A passagem de tubagens ou afins deve ser feita em túnel, para que as raízes primárias permaneçam intactas, devendo o mesmo ser “limpo” aquando de eventuais cortes nas raízes secundárias.
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1166173656/1166174290.png) |
+| --- |
+
+Figura 7 - Exemplos de intervenções corretas e incorretas no que respeita à ZPR
+
+6.2.4 - Na construção de muros ou outro tipo de construções contínuas, deve proceder-se à execução de fundações pontuais, cuja base será estabelecida em local onde não haja afetação das raízes que cumpram uma função de suporte do exemplar arbóreo.
+
+6.2.5 - Caso as medidas referidas no n.º 3 sejam insuficientes para proteger a copa das árvores dos trabalhos, antes de se iniciarem os trabalhos deverá ser realizada uma operação de poda de elevação de copa, aprovada pelos serviços técnicos com competência na manutenção das árvores em causa.
+
+6.2.6 - As barreiras de proteção de árvores deverão ser mantidas até que o projeto seja concluído.
+
+7 - Outras Medidas cautelares na área de intervenção
+
+Os locais de trabalho deverão ser devidamente sinalizados e delimitados, criando todas as condições de segurança para peões, veículos e outros bens, de acordo com a legislação aplicável.
+
+8 - Supervisão durante o período de obra
+
+8.1 - Deverão realizar-se reuniões com os empreiteiros sempre que se considere pertinente, segundo a calendarização e avanço dos trabalhos nas diversas zonas de obra.
+
+8.2 - Nestas reuniões será sempre expresso o desejo de salvaguardar os exemplares arbóreos previamente aprovados para conservação, evitando danos desnecessários.
+
+8.3 - O responsável de obra deverá verificar regularmente o posicionamento das barreiras de proteção e o cumprimento dos requisitos acima expostos, reportando aos serviços municipais competentes quaisquer desvios ao inicialmente estabelecido e apontando as medidas de correção implementadas.
+
+8.4 - As várias etapas da obra serão acompanhadas por Técnico responsável dos Serviços Municipais, que solicitará reuniões com os empreiteiros sempre que considere pertinentes e que elaborará pareceres sempre que detete desvios ao estipulado no Parecer Normativo e na Autorização de intervenção.
+
+## ANEXO IV — Critérios para a escolha das espécies de árvores no Município de Torres Novas
+
+I - Conceitos gerais orientadores para a escolha da espécie
+
+1 - A plantação de árvores no Município requer a seleção de espécies adequadas a cada situação urbanística. Este conhecimento permite aumentar o sucesso da política de arborização do concelho e minimizar os custos de manutenção e gestão.
+
+Na construção e planeamento em espaço público, tanto em zonas consolidadas como em não consolidadas, a árvore compete com os restantes elementos urbanos que são igualmente importantes na cidade, como sejam o edificado e corpos balançados, sistemas de contentorização de resíduos urbanos e respetiva recolha, mobiliário urbano diverso, paragens de autocarro, infraestruturas como a iluminação pública, o saneamento, fibras óticas, água, gás, eletricidade, etc. Desta forma, o planeamento do espaço urbano deverá contribuir para a correta articulação, sem conflitos, de todos os elementos urbanos, na qual se inclui a estrutura arbórea, sendo fundamental que o resultado final seja o mais harmonioso e funcional possível, traduzindo-se no futuro, num menor custo de gestão e manutenção do espaço, bem como na maximização dos serviços de ecossistema proporcionados pela estrutura arbórea.
+
+Os aspetos a considerar para a seleção das espécies de árvores no Município de Torres Novas, são:
+
+a) Ecologia e adaptação às condições edafoclimáticas locais;
+
+b) Dimensão da árvore no seu estado adulto;
+
+c) Características botânicas, designadamente a dimensão de frutos e infrutescências;
+
+d) Adaptação às condições funcionais e estéticas do local e espaço envolvente;
+
+e) Potencial alergénico das espécies;
+
+f) Constrangimentos físicos ao nível da parte aérea e subterrânea (tendo em conta a dimensão média da árvore adulta);
+
+g) Características do desenvolvimento radicular das espécies;
+
+h) Características estéticas/ornamentais da espécie;
+
+i) Velocidade de crescimento;
+
+j) Suscetibilidade/resistência a pragas e doenças;
+
+k) necessidades de manutenção;
+
+l) benefícios e desserviços em termos de serviços de ecossistema.
+
+Por forma a promover a qualificação do espaço urbano e para além das opções que possam ser tomadas face ao elevado número de fatores envolvidos, em particular a complexidade do subsolo urbano, deve ser assegurada a continuidade dos alinhamentos arbóreos, o controlo dos sistemas hídricos e circulação do vento, o conforto bioclimático e a valorização do património paisagístico, visando contribuir para a melhoria da qualidade ambiental e sustentabilidade ecológica e física do meio.
+
+Deverá ser tido em conta que espaços verdes caracterizados por uma elevada diversidade de espécies, genética e classes de idade, são menos vulneráveis aos impactos das alterações climáticas e mais resilientes face a eventos adversos como pragas e doenças emergentes.
+
+Visando o aumento da resistência do arvoredo às alterações climáticas e da resiliência face a fenómenos extremos quer abióticos quer bióticos, devem adotar-se as seguintes estratégias de atuação:
+
+A espécie de árvore a selecionar deverá corresponder às condições atuais e futuras do local onde a mesma será implantada (em termos de condições de clima, solo e espaço físico aéreo e subterrâneo);
+
+Sempre que possível, deverão ser escolhidas espécies autóctones em detrimento de espécies exóticas;
+
+No caso de árvores de alinhamento que confinem com fachadas de edifícios não serão permitidas espécies de folha persistente ou palmeiras;
+
+Deve procurar-se manter ou melhorar a capacidade de o arvoredo resistir a pragas e doenças, através da introdução de material vegetal (seminal ou clonal) resistente a pragas e doenças;
+
+Nos eixos localizados em sistemas húmidos, a plantação de exemplares arbóreos deverá ser condicionada ao uso de espécies bem-adaptadas a essas condições ecológicas, embora só em fase de projeto possam ser tomadas as necessárias opções face ao elevado número de fatores envolvidos, em particular a complexidade do subsolo urbano;
+
+Em locais sujeitos a condições de inundações devem plantar-se espécies reconhecidamente adaptadas a essas mesmas condições;
+
+As espécies adaptadas a condições de seca mais ou menos prolongada devem ser plantadas em solos bem drenados ou em locais onde é difícil garantir regas estivais;
+
+Nos eixos arborizados localizados em corredores estruturantes, os mesmos deverão apresentar um máximo de diversidade possível em termos de espécies, que deverão ser predominantemente da flora autóctone, com menor exigência, em custos de manutenção e menores necessidades em rega;
+
+Poder-se-á ou dever-se-á implementar, sempre que possível, uma maior diversidade de espécies arbóreas ao longo dos alinhamentos através de agrupamentos de espécies, idealmente em conjunto com plantas arbustivas e herbáceas de revestimento, por se considerar que apresentam aspetos positivos, nomeadamente na variação da paisagem urbana, promovendo-se diferentes cores, texturas e formas, obtenção de habitats diversos para a fauna urbana, níveis mais elevados de tolerância face a pragas e doenças, e maior resiliência do arvoredo às alterações climáticas.
+
+Não é permitida a introdução de espécies invasoras constantes do [Decreto-Lei n.º 92/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2019-123025739), de 10 de julho, e eventuais atualizações.
+
+Nas áreas de proteção do Património edificado e de acordo com o Regulamento do Plano Diretor Municipal de Torres Novas, a introdução de elementos arbóreos deverá ter presente o ambiente e conforto climático na envolvente do mesmo.
+
+A seleção de espécies e os planos de plantação deverão ser objeto de estudo adequado a elaborar por técnicos com formação adequada e submetido aos serviços municipais com competência na gestão do arvoredo.
+
+II - Espécies adaptadas ou suscetíveis de adaptação às condições edafoclimáticas de Torres Novas
+
+O correto planeamento da infraestrutura verde e a adequada plantação de árvores são componentes críticos do ambiente urbano e da qualidade ecológica e social da floresta urbana. Desta forma, a seguinte Lista constitui uma proposta quanto às espécies arbóreas a utilizar no Município de Torres Novas.
+
+As espécies de árvores listadas abaixo foram consideradas em função da sua origem (facto de ser autóctone ou exótica), regime de folha (caduco ou perene), capacidade de prosperar nas condições de solo e clima do município de Torres Novas, adaptação a maior ou menor constrangimento ao nível do solo, resistência a fatores abióticos e bióticos, tamanho, características estéticas e funcionais, contribuição para o armazenamento e sequestro de carbono (calculada com base na avaliação dos serviços de ecossistema providenciados pelas árvores de arruamento do município), entre outros.
+
+É importante notar que algumas espécies podem ter aplicações muito amplas, enquanto outras serão mais adequadas a locais mais limitados ou específicos. Os tamanhos das árvores listados são apenas diretrizes e dependem das condições locais. Situações particulares de planeamento territorial e particularidades de manutenção decorrentes de limitações orçamentais podem impor orientações específicas sobre as espécies de árvores ou as combinações de espécies arbóreas e arbustivas a considerar em cada circunstância.
+
+TABELA 3
+
+Espécies adaptadas ou suscetíveis de adaptação às condições do município de Torres Novas
+
+| Tipo de árvore | Espécie |
+| --- | --- |
+| Árvores de pequeno porte Caducifólias | Prunus cerasifera var. pissardii; Prunus serrulata “Kaizan” Lagerstroemia indica Pers. Magnolia soulangeana |
+| Árvores de pequeno porte Perenifólias | Citrus Sinensis; |
+| Árvores de médio porte Caducifólias | Prunus dulcis; Liquidamber styraciflua; Mélia azedearach; Morus alba; Chorisia speciosa; Erytrina crista “galli” |
+| Árvores de médio porte Perenifólias | Olea europea; Magnolia grandiflora |
+| Árvores de grande porte Caducifólias | Platanus orientalis; Acer pseudoplatanus; Tilia tomentosa; Jacarandá mimosifolia; Brachychiton acerifolius; Aeschus hippocastum; |
+| Árvores de grande porte Perenifólias | Pinus sp; Ligustrum ovalifolium; Gravillea robusta; Casuarina equisetifolia |
+
+320036624
+
+.Tbl2 { min-height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl8 { min-height:17px; } .Tbl9 { min-height:28px; } .Tbl10 { margin-left:auto; }

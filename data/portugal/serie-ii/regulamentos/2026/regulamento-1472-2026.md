@@ -1,0 +1,636 @@
+---
+schema_version: '1.0'
+id: pt:dre:1186535384:por
+title: Regulamento n.º 1472/2026
+short_title: null
+summary: Regulamento Geral de Taxas.
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Freguesia de Seixezelo
+proposing_entity: null
+official_number: 1472/2026
+official_date: null
+publication_date: '2026-10-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 208/2026, Série II de 2026-10-27
+  number: '208'
+  series: II
+  supplement: null
+  pages: 578 - 592
+  pdf_url: https://files.diariodarepublica.pt/2s/2026/10/208000000/0057800592.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1186535384'
+  dre_path: /dr/detalhe/regulamento/1472-2026-1186535384
+  internal: pt:dre:1186535384:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1472-2026-1186535384
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1472-2026-1186535384
+  consolidated_url: null
+  retrieved_at: '2026-11-13T08:50:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 693cfb85e6bed512e2df7d4daf5a7c2fa15f805684b6b4f83eaa64bf295eac75
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T08:50:29Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:122728684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+article_structure:
+  article_count: 33
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T08:50:29Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 1472/2026
+
+Nota Justificativa
+
+Sérgio Francisco dos Santos Baptista, Presidente da Junta de Freguesia de Seixezelo, torna público o Regulamento Geral de Taxas aplicável à atividade da Junta de Freguesia de Seixezelo, em favor dos cidadãos.
+
+A fixação dos valores das taxas do presente regulamento teve em consideração o disposto na [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro com as alterações que lhe foram introduzidas pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro e pela [Lei n.º 117/2009](https://diariodarepublica.pt/dr/detalhe/lei/117-2009-482146), de 29 de dezembro, relativamente aos custos da atividade pública prestada pela Junta de Freguesia em correlação com o benefício auferido pelo cidadão, relativamente à utilização dos serviços prestados pela Junta de Freguesia, à utilização privativa de bens do domínio público ou privado da autarquia e à remoção de obstáculos jurídicos ao comportamento dos particulares, em articulação com critérios de incentivo ou de desincentivo a determinadas atividades de cidadãos com impacto negativo em valores de natureza social, ambiental ou outros relevantes para a prossecução do interesse público pela autarquia.
+
+### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Objeto
+
+O presente regulamento e tabelas anexas, têm por finalidade fixar os quantitativos a cobrar por todas as atividades da Freguesia de Seixezelo, no que se refere à prestação concreta de um serviço público local e na utilização privada de bens do domínio público e privado da freguesia.
+
+###### Artigo 2.º — Taxas das Autarquias Locais
+
+As taxas das autarquias locais são tributos que assentam na prestação concreta de um serviço público local, na utilização privada de bens do domínio público e privado, das autarquias locais, ou na remoção de um obstáculo jurídico ao comportamento dos particulares, quando seja feita a atribuição das autarquias locais, nos termos da lei.
+
+###### Artigo 3.º — Âmbito
+
+O presente regulamento é aplicável em toda a área da Freguesia de Seixezelo.
+
+###### Artigo 4.º — Sujeito
+
+1 - O sujeito ativo da relação jurídico-tributária, titular do direito de exigir aquela prestação é a Freguesia de Seixezelo.
+
+2 - O sujeito passivo é a pessoa singular ou coletiva, bem como outras entidades legalmente equiparadas que estejam vinculadas ao cumprimento da prestação tributária.
+
+3 - Estão sujeitos ao pagamento de taxas: o Estado, as Regiões Autónomas, as autarquias locais, os fundos e serviços autónomos e as entidades que integram o setor empresarial do Estado, das Regiões Autónomas e das autarquias locais.
+
+### CAPÍTULO II — PROCEDIMENTOS
+
+###### Artigo 5.º — Liquidação e Cobrança
+
+1 - A liquidação de taxas e licenças, será efetuada com base nos indicadores da Tabela, de acordo com os elementos fornecidos pelos interessados ou pelo valor dos serviços prestados.
+
+2 - De todas as taxas cobradas pela freguesia será emitido recibo próprio ou documento equivalente, que comprove o respetivo pagamento.
+
+3 - Quando a liquidação tenha sido precedida de processo, nele deverá ser anotado pelo funcionário, o número, a importância e data do documento de cobrança, salvo se for arquivado junto ao processo um exemplar do mesmo.
+
+4 - Os valores obtidos serão arredondados nos termos da Lei.
+
+###### Artigo 6.º — Isenções
+
+1 - Estão isentos de pagamento das taxas previstas no presente regulamento, todos aqueles que beneficiem de isenção prevista em outros diplomas.
+
+2 - Poderão ficar isentos do pagamento de taxas, quando a Junta deliberar nesse sentido, com exceção das taxas devidas pela concessão de sepultura/jazigo no cemitério, remissões de sepulturas e obtenção de fotocópias autenticadas ou certificadas:
+
+a) As pessoas coletivas de direito público ou de utilidade pública administrativas, as associações religiosas, culturais, desportivas e/ou recreativas, as instituições particulares de solidariedade, cooperativas, partidos políticos ou outras entidades e organismos privados que prossigam na área da freguesia, fins de interesse eminentemente público, ou como tal considerado por deliberação expressa da Junta de Freguesia;
+
+b) Os membros dos órgãos da freguesia, relativamente aos documentos que se destinem exclusivamente ao desemprenho das suas funções autárquicas;
+
+c) Os documentos que, nos termos da lei, gozem expressamente dessa isenção;
+
+3 - As isenções a que se refere a alínea c) do número anterior, não dispensam as respetivas entidades de requererem à Junta de Freguesia as necessárias licenças, quando devidas, nos termos da lei ou dos regulamentos.
+
+4 - O pagamento das taxas poderá ser reduzido à sua isenção total quando os requerentes sejam comprovadamente, particulares de fracos recursos financeiros, com exceção das devidas, pelas concessões de terrenos no cemitério, remissões e obtenção de fotocópias autenticadas, certificadas ou simples.
+
+5 - A Junta de Freguesia pode, por proposta do Presidente da Junta de Freguesia, e através de deliberação fundamentada, conceder isenções totais ou parciais relativamente às taxas.
+
+###### Artigo 7.º — Imposto do Selo
+
+Às situações geradoras de taxas constantes na tabela, acresce o imposto de selo presente nos termos da Lei.
+
+###### Artigo 8.º — Incumprimento
+
+1 - O pagamento das taxas é devido aquando da realização do ato, salvo se definido em regulamentos específicos ou em acordo de pagamento de outros prazos.
+
+2 - São devidos juros de mora pelo cumprimento extemporâneo da obrigação de pagamento de taxas estabelecidas no presente regulamento.
+
+3 - A taxa legal de juros de mora aplicável será a legalmente exigível, se o pagamento se fizer dentro do mês de calendário ou aplicado uma fração se o pagamento se fizer posteriormente.
+
+4 - As dívidas que não forem pagas voluntariamente, são objeto de cobrança coerciva através de processo de execução fiscal, nos termos do Código de Procedimento Administrativo e de Processo Tributário.
+
+###### Artigo 9.º — Caducidade
+
+O direito de liquidar as taxas, caduca se a liquidação não for validamente notificada ao sujeito passivo no prazo de quatro anos, a contar da data em que o facto tributário ocorreu.
+
+###### Artigo 10.º — Prescrição
+
+1 - As dívidas por taxas às autarquias locais prescrevem no prazo de oito anos a contar da data em que o facto tributário ocorreu.
+
+2 - A citação, a reclamação e a impugnação, interrompem a prescrição.
+
+3 - A paragem dos processos de reclamação, impugnação e execução fiscal por prazo superior a um ano por facto não imputável ao sujeito passivo, faz cessar a interrupção da prescrição, somando-se, neste caso, o tempo que decorreu após aquele período ao que tiver decorrido até à data da autuação.
+
+###### Artigo 11.º — Garantias
+
+1 - Os sujeitos passivos das taxas para as autarquias locais podem reclamar ou impugnar a respetiva liquidação.
+
+2 - A reclamação é deduzida perante a Junta de Freguesia, no prazo de 30 dias a contar da notificação da liquidação.
+
+3 - A reclamação presume-se indeferida para efeitos de impugnação judicial se não for decidida no prazo de 60 dias.
+
+4 - Do indeferimento expresso cabe impugnação judicial para o Tribunal Administrativo e Fiscal da área da Junta de Freguesia no prazo de 60 dias a contar do indeferimento.
+
+5 - A impugnação judicial depende da prévia dedução prevista no n.º 2 do presente artigo.
+
+###### Artigo 12.º — Atualização de Valores
+
+1 - A Junta de Freguesia sempre que entenda por conveniente, poderá propor à Assembleia de Freguesia a atualização extraordinária ou alteração das taxas previstas neste regulamento, mediante fundamentação económico-financeira subjacente ao novo valor.
+
+2 - A Junta de Freguesia pode atualizar o valor das taxas estabelecidas neste regulamento, através do orçamento anual, de acordo com a taxa de inflação.
+
+3 - A alteração dos valores das taxas de acordo com qualquer outro critério que não o referido no número anterior, efetua-se mediante alteração do presente regulamento, contendo a fundamentação económico-financeira subjacente ao novo valor.
+
+4 - As taxas que resultam de quantitativos fixados por disposição legal, serão atualizados de acordo com os coeficientes legalmente estabelecidos.
+
+### CAPÍTULO III — DISPOSIÇÕES ESPECIAIS
+
+###### Artigo 13.º — Pagamento em Prestações
+
+1 - Compete à Junta de Freguesia autorizar o pagamento em prestações, desde que se encontrem reunidas as condições para o efeito, designadamente, comprovação da situação económica do(a) requerente, que não lhe permita o pagamento integral da dívida de uma só vez, no prazo estabelecido para o pagamento voluntário.
+
+2 - Os pedidos de pagamento em prestações devem conter a identificação do(a) requerente, a natureza da dívida e o número de prestações pretendido, bem como os motivos que fundamentam o pedido.
+
+3 - No caso do deferimento do pedido, o valor de cada prestação mensal corresponderá ao total da dívida, dividindo pelo número de prestações autorizadas, acrescentando ao valor de cada prestação os juros de mora contados sobre o respetivo montante, desde o termo do prazo para pagamento voluntário até à data do pagamento efetivo de cada uma das prestações.
+
+4 - O deferimento do pedido de pagamento em prestações não deverá ultrapassar o número máximo de 24 prestações, nem a prestação deverá ser inferior a 25€.
+
+5 - O pagamento de cada prestação deverá ocorrer durante o mês a que corresponder.
+
+6 - A falta de pagamento de qualquer prestação implica o vencimento imediato das seguintes, assegurando-se a execução fiscal da dívida remanescente.
+
+###### Artigo 14.º — Contraordenações
+
+As infrações ao disposto do presente regulamento e respetiva tabela, constituem contraordenação punível com coima nos termos legalmente previstos.
+
+### CAPÍTULO IV — TAXAS
+
+###### Artigo 15.º — Incidência Objetiva
+
+A Junta de Freguesia cobra taxas:
+
+a) Serviços administrativos: atestados, certidões, declarações, segundas vias, termos de identidade de justificação administrativa ou quaisquer outros documentos análogos, certificação de fotocópias, fotocópias simples e outros documentos;
+
+b) Licenciamento de canídeos;
+
+c) Cemitério;
+
+d) Utilização e fruição de outros bens móveis e imóveis, propriedade da Junta de Freguesia de Seixezelo;
+
+e) Licenciamento de atividades diversas: venda ambulantes de caráter temporário, respeitantes a festas populares;
+
+f) Outros serviços prestados à comunidade.
+
+###### Artigo 16.º — Serviços Administrativos
+
+1 - As taxas a cobrar pelos Serviços Administrativos constam do Anexo I e referem-se aos documentos de interesse particular, nomeadamente, atestados, certidões, declarações, segundas vias, termos de identidade, de justificação administrativa ou quaisquer outros documentos análogos, devem ser requeridos previamente ao presidente da Junta de Freguesia, com a indicação precisa do tipo de documento que é pretendido, qual o fim a que se destina e se o pretende com urgência.
+
+2 - Nos casos de urgência, o presidente do executivo ou o seu substituto legal podem emitir os documentos a que se refere o n.º 1, independentemente de prévia deliberação do executivo.
+
+3 - De todas as taxas cobradas pela autarquia, será emitido recibo próprio com carimbo ou selo branco da autarquia.
+
+###### Artigo 17.º — Certificação de Fotocópias
+
+1 - O [Decreto-Lei n.º 28/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2000-410916), de 13 de março, atribui às Juntas de Freguesia competências para a conferência de fotocópias.
+
+2 - Em concretização das faculdades previstas no diploma, é aposta ou inscrita no documento fotocopiado a declaração de conformidade com o original, o local e a data da realização do ato, o nome e a assinatura do autor da certificação, bem como o carimbo ou selo branco da entidade que procede à certificação.
+
+3 - As fotocópias conferidas nos termos do número anterior, têm o valor probatório dos originais.
+
+4 - Conforme determina o artigo 2.º, do referido decreto-lei, as entidades fixam o preço que cobram pelos serviços de certificação que, constituindo sua receita própria, não podendo exceder o preço resultante do montante máximo constante da Tabela de Honorários e Encargos da Atividade Notarial exercida ao abrigo do Estatuto do Notariado.
+
+5 - As taxas a cobrar pela certificação de fotocópias, constam do Anexo I e têm por referência os valores estabelecidos na tabela referida no n.º anterior.
+
+###### Artigo 18.º — Base de Cálculo
+
+As taxas de atestados e outros documentos, certificação de elementos e termos de identidade, constam do Anexo I e têm como base de cálculo o tempo médio de execução dos mesmos (atendimento, registo e produção).
+
+###### Artigo 19.º — Licenciamento de Canídeos
+
+1 - O [Decreto-Lei n.º 82/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), de 27 de junho, com as alterações que lhe foram introduzidas pela [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, estabelece as regras de identificação dos animais de companhia, criando o Sistema de Informação de Animais de Companhia (SIAC).
+
+2 - Os cães registados no SIAC são objeto de licenciamento anual na Junta de Freguesia da área de recenseamento do seu titular.
+
+3 - Com exceção dos cães perigosos ou potencialmente perigosos, o registo inicial no SIAC é válido como licença por um ano a contar da data de registo.
+
+4 - Para a emissão da licença e das renovações anuais, os titulares dos cães (com exceção dos cães perigosos ou potencialmente perigosos), devem apresentar o boletim sanitário devidamente atualizado, nomeadamente a vacina antirrábica e a ficha de registo prevista no SIAC.
+
+5 - Para a emissão da licença e das suas renovações anuais, os titulares de cães perigosos ou potencialmente perigosos, devem apresentar os elementos que para o efeito forem exigidos por lei especial, devendo assegurar o licenciamento no prazo de 30 dias após registo no SIAC.
+
+6 - Os canídeos cujos titulares não apresentem carta de caçador ou declaração de guarda de bens, ou prova de cão-guia, são licenciados como cães de companhia.
+
+7 - São isentos de licença, os cães para fins militares, policiais ou de segurança do Estado, devendo, no entanto, possuir sistemas de identificação e de registo próprios sediados nas entidades onde se encontram e, cumprir todas as disposições de registo e de profilaxia médica e sanitária previstas no [Decreto-Lei n.º 82/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), de 27 de junho.
+
+8 - A instrução dos processos de contraordenações e a aplicação das coimas far-se-á de acordo com o estabelecido nos números 1 e 2, do artigo 14.º, e no n.º 1, do artigo 16.º, do [Decreto-Lei n.º 314/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2003-432863), de 17 de dezembro.
+
+###### Artigo 20.º — Taxas de Licenciamento de Canídeos
+
+1 - A taxa devida pelo licenciamento é aprovada pela Assembleia de Freguesia, devendo ter por referência o valor da taxa N de profilaxia médica para esse ano, não podendo exceder o triplo daquele valor e variando de acordo com a categoria do animal, podendo as freguesias, criarem fundamentadamente um quadro de isenções totais ou parciais.
+
+2 - A renovação anual das licenças fora dos prazos estipulados pela lei, implica o agravamento da respetiva taxa em 30 %.
+
+3 - Ficam isentos do pagamento de taxa, enquanto conservem essa qualidade, os:
+
+a) Cães-guia;
+
+b) Cães de guarda de estabelecimentos do Estado, corpos administrativos, organismos de beneficência e de utilidade pública.
+
+c) Cães que se encontrem recolhidos em instalações pertencentes a sociedades zoófilas legalmente constituídas e sem fins lucrativos e nos canis municipais;
+
+d) Cães detidos por outras entidades públicas no quadro de políticas de sensibilização ou de educação para o bem-estar animal.
+
+4 - Ficam igualmente isentos do pagamento de taxa, os titulares de canídeos em situação de insuficiência económica, bem como os detentores que tenham recolhido os cães em centros de recolha oficial de animais.
+
+5 - Os canídeos classificados nas categorias C, D e F, são isentos de qualquer taxa.
+
+###### Artigo 21.º — Cemitério
+
+1 - A concessão de terreno e ossários, constante no Anexo III, é determinada pelo valor de construção.
+
+2 - As taxas definidas pela inumação, exumação e transladação de cadáveres, no cemitério da Junta, constantes no Anexo III, são fixadas de acordo com a taxa de serviços funerários, justificada no referido anexo.
+
+3 - Nas inumações para não recenseados na freguesia, acresce aos montantes apurados nos termos dos números anteriores, uma taxa de desincentivo, justificada no referido anexo.
+
+###### Artigo 22.º — Taxas de Emparedamento, Revestimento em Mármore e Outros
+
+As taxas a pagar pelo emparedamento de jazigos, revestimento e outras da mesma natureza, previstas no Anexo III, têm como base de cálculo a taxa de obra (TO), de acordo com a justificação nele constante.
+
+###### Artigo 23.º — Colocação de Adornos em Jazigos e Outros
+
+As taxas a pagar pela colocação de adornos, previstas no Anexo III, têm como base de cálculo a taxa de colocação de adornos (TCA), conforme justificação inclusiva.
+
+###### Artigo 24.º — Aluguer da Casa Mortuária
+
+A taxa do aluguer da casa mortuária (Anexo III), pelo período de 24 horas, é determinada pelos gastos inerentes ao consumo de água e eletricidade, produtos de limpeza e conservação, bem como o valor médio da remuneração determinado pelo tempo gasto pelos funcionários afetos.
+
+###### Artigo 25.º — Remissão da Sepultura
+
+1 - A taxa a pagar pela remissão de sepultura, constante do Anexo III, tem como base de cálculo o custo referente ao valor de construção e o período temporal, sendo de 3 anos.
+
+2 - Aos pedidos de remissão formalizados após 30 dias, consecutivos, da data do seu vencimento, a taxa aplicável sofre um agravamento de 50 %.
+
+###### Artigo 26.º — Averbamentos
+
+1 - A taxa a pagar pelo averbamento da concessão a favor de familiar de 1.º grau e em linha reta, bem como a herdeiros testamentários ou legatários (Anexo III), tem como base a fórmula de cálculo a Taxa de Serviços Administrativos (TSA).
+
+2 - Nos restantes casos é aplicada uma taxa de 50 % sobre o valor da concessão, desincentivando a transmissão de inter-vivos de concessões.
+
+###### Artigo 27.º — Aluguer de Auditórios, Salão Nobre, Equipamentos Desportivos e Outros Materiais
+
+As taxas devidas pela utilização dos Auditórios, Salão Nobre, Equipamentos Desportivos e Outros Materiais da Junta, constantes no Anexo IV, têm como base de cálculo a Taxa de Cedência (TC), de acordo com a justificação nele constantes.
+
+###### Artigo 28.º — Licenciamentos de Atividades Diversas
+
+As taxas a pagar pelo licenciamento da venda ambulante de caráter temporário respeitante a festas populares, constante no Anexo V, têm como base de cálculo a Taxa de Serviços Administrativos (TSA).
+
+### CAPÍTULO V — DISPOSIÇÕES FINAIS
+
+###### Artigo 29.º — Arredondamento de Valores
+
+Os valores apurados de acordo com os cálculos definidos, poderão ser arredondados, nos termos legais.
+
+###### Artigo 30.º — Proporcionalidade/Critérios de Desincentivo
+
+Na fixação das taxas, respeitou-se a necessária proporcionalidade e recorreu-se a critérios de desincentivo para atos ou operações pontuais, atento o regime legal aplicável e que resulta da Lei 53-E/2006, de 29 de dezembro.
+
+###### Artigo 31.º — Legislação Subsidiária
+
+De acordo com a natureza das matérias, às relações jurídicas-tributarias geradoras da obrigação de pagamento de taxas às autarquias locais, aplicam-se sucessivamente:
+
+a) A [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro;
+
+b) A [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de janeiro;
+
+c) A Lei Geral Tributária;
+
+d) A [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro;
+
+e) A Lei das Autarquias Locais;
+
+f) O Estatuto dos Tribunais Administrativos e Fiscais;
+
+g) O Código de Procedimento e de Processo Tributário;
+
+h) O Código de Processo dos Tribunais Administrativos;
+
+i) O Código do Procedimento Administrativo.
+
+###### Artigo 32.º — Publicação
+
+O presente regulamento será divulgado na página oficial da Freguesia em www.jf-seixezelo.pt
+
+###### Artigo 33.º — Entrada em Vigor
+
+O presente regulamento entra em vigor após a sua publicação no Diário da República.
+
+## ANEXO I — Taxas de Serviços Administrativos
+
+(Artigos 16.º a 18.º)
+
+| Designação | Valor (€) |
+| --- | --- |
+| Atestado de Residência | 5,00 |
+| Atestado de Situação Económica | 5,00 |
+| Atestado de Incompatibilidade de Transporte Público | 2,50 |
+| Confirmação de Prova de Vida | 5,00 |
+| Confirmação de Prova de Vida (com deslocação ao local) | 10,00 |
+| Confirmação do Agregado Familiar | 5,00 |
+| Certidão para Efeitos Urbanísticos | 7,50 |
+| Certidão para Fins Diversos | 6,00 |
+| Fotocópia Simples | 0,30 |
+| Fotocópia Autenticada de Documentos Arquivados | 3,00 |
+| Certidão de Fotocópias (até 4 páginas) | 10,00 |
+| Certidão de Fotocópias (a partir da 5.ª página) | 2,00 |
+
+## ANEXO II — Taxas de Licenciamentos de Canídeos
+
+(Artigos 19.º e 20.º)
+
+| Designação | Valor (€) |
+| --- | --- |
+| Categoria A - Animais de Companhia | 5,00 |
+| Categoria B - Animais Fins Económicos | 5,00 |
+| Categoria C - Animais Fins Militares | Gratuito |
+| Categoria D - Animais para Investigação Científica | Gratuito |
+| Categoria E - Cães de Caça | 5,00 |
+| Categoria F - Cães de Guia | Gratuito |
+| Categoria G - Cães Potencialmente Perigosos | 5,00 |
+| Categoria H - Cães Perigosos | 5,00 |
+| Emissão da Licença fora do prazo (Agravamento) | 30 % |
+| Novo Proprietário | 3,00 |
+| Baixa por Morte ou Desaparecimento | Gratuito |
+
+## ANEXO III — Taxas, Licenças e Serviços de Cemitérios
+
+(Artigos 21.º a 26.º)
+
+| Designação | Valor (€) |
+| --- | --- |
+| Inumação |  |
+| Secção Geral: Recenseados | 50,00 |
+| Secção Geral: Não Recenseados | 500,00 |
+| Secção Particular | 50,00 |
+| Jazigo Capela | 60,00 |
+| Inumações aos fins de semana e feriados | 200,00 |
+| Inumações entre as 16h00 e as 18h | 100,00 |
+| Exumação |  |
+| Secção Geral - Aluguer (temporária) | 50,00 |
+| Secção Particular - Comprada (perpétua) | 50,00 |
+| Jazigo Capela - Comprada (perpétua) | 60,00 |
+| Remissões/Taxa de Ocupação |  |
+| Sepultura (3 anos) | 60,00 |
+| Multa por Atraso no Pagamento da Remissão até 1 ano | 30,00 |
+| Multa por Atraso no Pagamento da Remissão superior a 1 ano | 60,00/ano |
+| Taxa de Ocupação - após os primeiros 3 anos | 50,00/ano |
+| Concessão do Terreno |  |
+| 1 Sepultura (Sem Emparedamento) | 1 500,00 |
+| 1 Sepultura (Com Emparedamento) | 2 000,00 |
+| 2 Sepulturas | 4 000,00 |
+| Ossário |  |
+| Ossário - Compra | 300,00 |
+| Aluguer 5 anos | 60,00 |
+| Multa por Atraso no Pagamento do Aluguer até 1 ano | 20,00 |
+| Multa por Atraso no Pagamento do Aluguer superior a 1 ano | 50,00/ano |
+| Colocação/Retirada de Ossadas ou Cinzas | 40,00 |
+| Sinais Funerários | 5,00 |
+| Averbamento |  |
+| Familiares em 1.º grau em linha reta ou herdeiros | 50,00 |
+| Restantes Casos | 50 % do valor da concessão (venda) atual |
+| Transladação |  |
+| Transladação | 50,00 |
+| Transladação Sem Abertura de Covato | 40,00 |
+| Construção, Reconstrução e Manutenção |  |
+| Jazigo Completo (Inclui Taxa de Eletricidade) | 30,00 |
+| Ossário (Inclui Taxa de Eletricidade) | 10,00 |
+| Utilização de Energia Elétrica | 15,00 |
+| Pintura de Jazigo | 10,00 |
+| Sinais Funerários (Por Peça) | 5,00 |
+| Construção de Cinta em Betão - Jazigo Duplo | 500,00 |
+| Construção de Cinta em Betão - Jazigo Individual | 250,00 |
+| Elevação de Cinta em Betão - Jazigo Duplo | 150,00 |
+| Elevação de Cinta em Betão - Jazigo Individual | 75,00 |
+| Caução para Garantia de Boa Execução de Obra - Ossário | 50,00 |
+| Caução para Garantia de Boa Execução de Obra - Emparedamento | 100,00 |
+| Caução para Garantia de Boa Execução de Obra - 1 Sepultura | 150,00 |
+| Caução para Garantia de Boa Execução de Obra - 2 Sepulturas | 250,00 |
+| Emparedamento - Jazigo Duplo | 1 500,00 |
+| Emparedamento - Jazigo Individual | 750,00 |
+| Substituição de Terra por Areia | 250,00 |
+| Cedência de Jazigo Completo (Pedra/Granito) | 400,00 |
+| Cedência de Tampo (Pedra/Granito) | 150,00 |
+| Ocupação da Casa Mortuária |  |
+| Por Funeral | 100,00 |
+| Publicidade de Construtor/Marmorista |  |
+| Por Jazigo | 150,00 |
+
+## ANEXO IV — Taxas de Cedência de Bens Móveis e Imóveis da Junta de Freguesia
+
+(Artigo 27.º)
+
+| Designação | Valor (€) |
+| --- | --- |
+| Salão Nobre (09h às 18h) | 25,00/hora |
+| Salão Nobre (18h às 24h) | 35,00/hora |
+| Salão Nobre (fins de semanas e feriados até às 24h) | 50,00/hora |
+| Cedência de Palco - Dia da Semana (máximo 1 semana) | 100,00 |
+| Cedência de Palco - Fins de Semana e Feriados (máximo 1 semana) | 200,00 |
+
+## ANEXO V — Taxas de Licenciamento de Vendedor Ambulante de Caráter Temporário de Festas Populares
+
+(Artigo 28.º)
+
+| Designação | Valor (€) |
+| --- | --- |
+| Roulotte | 40,00/dia |
+| Roulotte + Esplanada | 50,00/dia |
+| Máquinas de Algodão Doce/Pipocas | 15,00/dia |
+| Espaço (Bancas/Mesas) | 4,00/m2/dia |
+| Carrosséis | 80,00/dia |
+
+Nota: Caso os valores anuais nestes serviços, ultrapassem os 10 000€, será cobrado IVA à taxa legal em vigor.
+
+Justificação económica das taxas, licenças e serviços
+
+(Artigo 16.º a 18.º)
+
+| Taxas de serviços administrativos | MIN | TME/H | VH | CAT | TOTAL | ARRED. | TSA |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Residência, Prova de Vida, Agregado Familiar, Situação Económica | 15 | 0,25 | 11,67 | 8,53 | 5,05 | 0,05 | 5,00 |
+| Transporte Público | 7,5 | 0,125 | 11,67 | 8,53 | 2,53 | 0,03 | 2,50 |
+| Efeitos Urbanísticos | 22,5 | 0,375 | 11,67 | 8,53 | 7,58 | 0,08 | 7,50 |
+| Certidões Diversas | 18 | 0,30 | 11,67 | 8,53 | 6,06 | 0,06 | 6,00 |
+| Fotocópias de Documentos Arquivados | 21 | 0,35 | 11,67 | 8,53 | 7,07 | 0,07 | 7,00 |
+| Fotocópias de Documentos Arquivados (+ 1 Página) | 3 | 0,05 | 11,67 | 8,53 | 1,01 | 0,01 | 1,00 |
+| Fotocópia Autenticada de Documentos Arquivados | 9 | 0,15 | 11,67 | 8,53 | 3,03 | 0,03 | 3,00 |
+| Certificação de Fotocópias (até 4 páginas) | 45 | 0,75 | 11,67 | 8,53 | 15,15 | 0,15 | 15,00 |
+| Certificação de Fotocópias (a partir da 5.ª página) | 6 | 0,10 | 11,67 | 8,53 | 2,02 | 0,02 | 2,00 |
+
+(Artigo 19.º e 20.º)
+
+| Taxas licenciamentos canídeos e gatídeos | % | TX N | TX LIC |
+| --- | --- | --- | --- |
+| Registo | 40 % | 5,00 | 2,00 |
+| Categoria A | 100 % | 5,00 | 5,00 |
+| Categoria B | 100 % | 5,00 | 5,00 |
+| Categoria C, D, F | 0 % | 5,00 | 0,00 |
+| Categoria E | 100 % | 5,00 | 5,00 |
+| Categoria G | 100 % | 5,00 | 5,00 |
+| Categoria H | 100 % | 5,00 | 5,00 |
+| Baixa por morte ou desaparecimento | 0 % | 5,00 | 0 % |
+
+(Artigo 21.º a 26.º)
+
+| Taxas de serviços funerários | MIN | TME/H | VH | CD | CI | Total | D | Arred. | TSF |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Taxas de Inumação |  |  |  |  |  |  |  |  |  |
+| Secção Geral: Recenseados | 130 | 2,17 | 20,5 | 0,5 | 3 | 52,08 |  | - 2,08 | 50,00 |
+| Secção Geral: Não Recenseados | 130 | 2,17 | 20,5 | 0,5 | 3 | 52,08 | 10 | - 20,80 | 500,00 |
+| Secção Particular | 130 | 2,17 | 20,5 | 0,5 | 3 | 52,08 |  | - 2,08 | 50,00 |
+| Jazigo Capela | 150 | 2,50 | 20,5 | 0,5 | 3 | 60 |  |  | 60,00 |
+| Taxas de Exumação |  |  |  |  |  |  |  |  |  |
+| Secção Geral - Aluguer (temporária) | 130 | 2,17 | 20,5 | 0,5 | 3 | 52,08 |  | - 2,08 | 50,00 |
+| Secção Particular - Comprada (perpétua) | 130 | 2,17 | 20,5 | 0,5 | 3 | 52,08 |  | - 2,08 | 50,00 |
+| Jazigo Capela - Comprada (perpétua) | 150 | 2,50 | 20,5 | 0,5 | 3 | 60 |  |  | 60,00 |
+| Taxas de Transladação |  |  |  |  |  |  |  |  |  |
+| Transladação | 102 | 1,7 | 20,5 | 0,5 | 3 | 40,80 |  | - 0,80 | 40,00 |
+| Transladação Sem Abertura de Covato | 75 | 1,25 | 20,5 | 0,5 | 3 | 30 |  |  | 30,00 |
+| Concessões de Terrenos |  |  |  |  |  |  |  |  |  |
+| 1 Sepultura | 240 | 4 | 20,5 | 75 | 380 | 1902 |  | - 52,00 | 2000,00 |
+| 2 Sepulturas | 240 | 4 | 20,5 | 150 | 760 | 3722 |  | - 22,00 | 4000,00 |
+| Ossário | 180 | 3 | 20,5 | 3 | 60 | 250,50 |  | - 0,50 | 300,00 |
+| Taxas de Emparedamento |  |  |  |  |  |  |  |  |  |
+| Jazigo Duplo | 180 | 3 | 13,7 | 420 | 3 | 1310,10 |  | - 310,10 | 1300,00 |
+| Jazigo Individual | 180 | 2 | 13,7 | 320 | 3 | 673,40 |  | - 23,40 | 650,00 |
+| Taxas de Construção de Cinta |  |  |  |  |  |  |  |  |  |
+| Jazigo Duplo | 60 | 1 | 13,7 | 200 | 3 | 216,70 | 83,30 |  | 300,00 |
+| Jazigo Individual | 60 | 1 | 13,7 | 100 | 3 | 116,70 | 33,30 |  | 150,00 |
+| Taxas de Elevação de Cinta |  |  |  |  |  |  |  |  |  |
+| Jazigo Duplo | 60 | 1 | 13,7 | 100 | 3 | 116,70 | 33,30 |  | 150,00 |
+| Jazigo Individual | 60 | 1 | 13,7 | 50 | 3 | 66,70 | 8,30 |  | 75,00 |
+| Outras Taxas |  |  |  |  |  |  |  |  |  |
+| Aluguer da Casa Mortuária |  |  |  | 90 |  | 90 |  |  | 90,00 |
+| Construção Jazigo Completo | 66 | 1,1 | 13,7 | 6,1 | 3 | 25,08 |  | - 0,08 | 25,00 |
+| Construção Ossário | 66 | 1,1 | 13,7 | 6,1 | 3 | 25,08 |  | - 0,08 | 5,00 |
+| Colocação por Peça |  |  |  | 5,50 |  | 5,50 |  | - 0,50 | 5,00 |
+| Remissão | 126 | 2,1 | 20,5 | 0,5 | 3 | 50,40 |  | - 0,40 | 50,00 |
+| Aluguer de Ossário |  |  |  | 50 |  | 50 |  |  | 50,00 |
+| Taxa de Ocupação após 3 anos | 102 | 1,7 | 20,5 | 0,5 | 3 | 40,80 |  | - 0,80 | 50,00/ano |
+| Taxa de Averbamento |  |  |  |  |  |  |  |  |  |
+| Familiares em Linha Reta | 138 | 2,3 | 11,67 | 6,1 |  | 40,87 |  | - 0,87 | 50,00 |
+
+(Artigo 27.º)
+
+| Taxas de cedência de bens móveis e imóveis | MIN | TME/H | VH | %H EXT | CD | CI | Subtotal | TX INC | Total | Arred | TC |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Salão Nobre (09h às 18h) | 60 | 1 | 13,7 | 100 % | 8,53 | 7 | 29,23 | 30 % | 20,46 | - 0,46 | 20,00/h |
+| Salão Nobre (18h às 24h) | 60 | 1 | 13,7 | 125 % | 8,53 | 7 | 36,54 | 16 % | 30,69 | - 0,69 | 30,00/h |
+| Salão Nobre (fins de semana e feriados, até às 24h) | 60 | 1 | 13,7 | 200 % | 8,53 | 14 | 58,46 | 30 % | 40,92 | - 0,92 | 40,00/h |
+| Cedência de Palco - Dia da Semana (máximo 1 Semana) | 420 | 7 | 13,7 | 100 % | 8,53 | 14 | 253,61 |  | 253,61 | - 3,61 | 100,00 |
+| Cedência - Fins de Semana e Feriados (máximo 1 Semana) | 420 | 7 | 13,7 | 200 % | 8,53 | 14 | 507,22 |  | 507,22 | - 7,22 | 200,00 |
+
+(Artigo 28.º)
+
+| Taxas de licenciamentos | TME/H | VH | CAT | Total | Arred. | TSA |
+| --- | --- | --- | --- | --- | --- | --- |
+| Roulotte | 1,5 | 15 | 7 | 33,00 | - 3,00 | 30,00 /dia |
+| Roulotte + Esplanada | 1,5 | 20 | 7 | 40,50 | - 0,50 | 40,00 /dia |
+| Máquinas de Algodão Doce/Pipocas | 0,4 | 25 | 7 | 12,80 | - 2,80 | 10,00/dia |
+| Espaço (Bancas/Mesas) | 0,1 | 25 | 7 | 3,2 | - 0,20 | 3,00 /m2 |
+| Carrosséis | 2,5 | 25 | 7 | 80 | - 5,00 | 75,00/dia |
+
+O presente Regulamento entra em vigor após a sua publicação no Diário da República.
+
+O presente Regulamento será divulgado na página oficial da Freguesia:
+
+www.jf-seixezelo.pt
+
+Aprovado em reunião de Executivo no dia 21 de setembro de 2026.
+
+Aprovado em Reunião da Assembleia de Freguesia em 30 de setembro de 2026.
+
+13 de outubro de 2026. - O Presidente da Junta de Freguesia de Seixezelo, Sérgio Francisco dos Santos Baptista.
+
+320052524
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl11 { min-height:21px; } .Tbl12 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl17 { min-height:26px; } .Tbl18 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl21 { min-height:29px; } .Tbl22 { min-height:37px; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl27 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl28 { min-height:28px; } .Tbl29 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl30 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl31 { min-height:23px; } .Tbl32 { min-height:33px; } .Tbl33 { min-height:27px; }

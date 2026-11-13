@@ -1,0 +1,309 @@
+---
+schema_version: '1.0'
+id: pt:dre:145991136:por
+title: Regulamento n.º 905/2020
+short_title: null
+summary: Alteração do Regulamento de Atribuição de Bolsas de Estudo a Alunos do Ensino Superior
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Nordeste
+proposing_entity: null
+official_number: 905/2020
+official_date: null
+publication_date: '2020-10-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 205/2020, Série II de 2020-10-21
+  number: '205'
+  series: II
+  supplement: null
+  pages: 189 - 195
+  pdf_url: https://files.diariodarepublica.pt/2s/2020/10/205000000/0018900195.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '145991136'
+  dre_path: /dr/detalhe/regulamento/905-2020-145991136
+  internal: pt:dre:145991136:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/905-2020-145991136
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/905-2020-145991136
+  consolidated_url: null
+  retrieved_at: '2026-11-13T07:03:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c6d2a48ca6684ddce82555b86b73b75bd7e1ff3373b685303228ba75c1fee2be
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T07:03:32Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+article_structure:
+  article_count: 21
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T07:03:32Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 905/2020
+
+António Miguel Borges Soares, Presidente da Câmara Municipal do Concelho do Nordeste:
+
+Torna público que a Assembleia Municipal de Nordeste, em sua sessão ordinária de 30 de setembro findo, deliberou por unanimidade, aprovar a alteração do Regulamento de Atribuição de Bolsas de Estudo a Alunos do Ensino Superior, nos termos da proposta da Câmara Municipal de 31 de agosto último, o qual abaixo se transcreve, com as respetivas alterações.
+
+Para constar se lavrou o presente Edital e outros de igual teor que vão ser afixados nos lugares públicos do estilo e página da internet do Município.
+
+1 de outubro de 2020. - O Presidente da Câmara, António Miguel Soares.
+
+Regulamento Municipal de Atribuição de Bolsas de Estudo a Alunos do Ensino Superior
+
+Nota justificativa
+
+A aposta na educação, enquanto pilar para o desenvolvimento da nossa sociedade, é uma prioridade e, hoje, mais do que nunca, urge ir ao encontro das imensas questões do presente e do futuro através da educação.
+
+A Constituição da República Portuguesa (CRP) consagra no ponto 1, do artigo 73.º, como direito basilar do nosso Estado de direito que «Todos têm acesso à educação e à cultura»; e que «O Estado promove a democratização da educação e as demais condições para que a educação [...] contribua para a igualdade de oportunidades, a superação das desigualdades económicas, sociais e culturais [...] para o progresso social (ponto 2, artigo 73.º CRP)»; e que «Todos têm direito ao ensino com garantias do direito à igualdade de oportunidades de acesso e êxito escolar».
+
+Atendendo a que «As autarquias locais são pessoas coletivas territoriais dotadas de órgãos representativos, que visam a prossecução de interesses próprios das populações respetivas» (ponto 2, do artigo 235.º CRP) e que o crescimento e o desenvolvimento territorial do nosso concelho ficam mais protegidos quando a área da educação é encarada como fator determinante que constitui uma das prioridades estratégicas de intervenção ao nível das políticas sociais locais.
+
+Desta forma e considerando que:
+
+1) O Município da Nordeste reconhece o direito à Educação como um fator estruturante da democracia e uma condição necessária para uma cidadania plena;
+
+2) A precariedade económica de alguns agregados familiares do Concelho de Nordeste constitui um entrave à prossecução dos estudos dos seus descendentes;
+
+3) Os municípios dispõem de atribuições nos domínios da educação, ensino e formação profissional, de acordo com o disposto na alínea d), do artigo 23.º, da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, que estabelece o regime jurídico das autarquias locais;
+
+4) Compete à Câmara Municipal «participar na prestação de serviços e prestar apoio a pessoas em situação de vulnerabilidade, em parceria com as entidades competentes da administração central e com instituições particulares de solidariedade social, nas condições constantes de regulamento municipal» [alínea v), do n.º 1, do artigo 33.º do supra citado diploma];
+
+5) Compete também à Câmara Municipal «deliberar no domínio da ação social escolar, designadamente no que respeita a alimentação, alojamento e atribuição de auxílios económicos a estudantes» [alínea hh), do n.º 1, do artigo 33.º do supracitado diploma].
+
+Assim, nos termos do disposto no n.º 7, do artigo 112.º e do artigo 241.º da Constituição da República Portuguesa, e nos artigos 25.º e 33.º, da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, é competência da Câmara Municipal e Assembleia Municipal a aprovação de Regulamentos.
+
+O presente Regulamento visa:
+
+1 - Atribuir até cinco bolsas de estudo a estudantes oriundos de famílias economicamente mais carenciadas, com o objetivo de ultrapassar as dificuldades socioeconómicas que dificultam o acesso destes cidadãos ao Ensino Superior, outrossim, de contribuir positivamente para o desenvolvimento cultural e educacional do Concelho.
+
+2 - Colmatar as necessidades do município, no que concerne ao conhecimento e capacidade empreendedora que os nossos nordestenses, com ensino superior, podem trazer ao desenvolvimento socioeconómico do Concelho, bem como motivar os estudantes nordestenses e fixá-los na sua terra natal.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente regulamento estabelece as disposições normativas aplicáveis à atribuição de bolsas estudo a estudantes do ensino superior cujo agregado familiar tenha residência no concelho de Nordeste, há pelo menos 3 anos, que ingressem ou frequentem estabelecimentos de ensino superior público, particular ou cooperativo no território nacional (continente e ilhas) com vista à obtenção do grau académico de licenciado, mestrado integrado ou curso superior profissional.
+
+1 - Excetuam-se alunos matriculados em cursos de pós-graduação, cursos de especialização e mestrado não integrado no curso.
+
+###### Artigo 2.º — Princípios
+
+A atribuição das bolsas de estudo nos termos previstos neste Regulamento rege-se pelos princípios da igualdade, da imparcialidade e da transparência, orientadores da atividade administrativa.
+
+###### Artigo 3.º — Objeto
+
+A atribuição de bolsas de estudo por parte do Município de Nordeste tem como objeto:
+
+a) Apoiar o ingresso e o prosseguimento dos estudos a estudantes com aproveitamento escolar que, por falta de condições económicas, têm dificuldades em continuar os estudos no ensino superior;
+
+b) Colaborar na formação de quadros técnicos superiores, contribuindo para melhoria da qualificação profissional da população, promovendo um maior desenvolvimento social, económico e cultural do concelho.
+
+###### Artigo 4.º — Natureza das Bolsas
+
+Entende-se como bolsa de estudo a prestação pecuniária de valor fixo, concedida anualmente pela Câmara Municipal, para encargos com a frequência de um curso académico.
+
+1 - O número de bolsas a atribuir anualmente, pela Câmara Municipal de Nordeste, aos alunos residentes no concelho que se encontrem a frequentar ou irão frequentar o ensino superior, em estabelecimentos de ensino devidamente reconhecidos pelo Ministério que tutela o ensino superior, podem ser ajustadas anualmente, tendo em conta o número de processos admitidos/aprovados, bem como, a disponibilidade financeira da autarquia, não sendo, no entanto, o seu número superior a 5;
+
+2 - O montante a atribuir por cada Bolsa de Estudo corresponderá a um valor anual de 1.100 Euros anuais, devendo o mesmo ser pago em duodécimos;
+
+3 - As bolsas serão liquidadas aos interessados, se maiores de 18 anos, ou caso contrário, aos respetivos responsáveis pela sua educação;
+
+4 - O valor da Bolsa de Estudo poderá ser alterado por deliberação da Câmara;
+
+5 - A atribuição do número de bolsas previstas no n.º 1 pressupõe o cumprimento integral da Lei dos Compromissos e Fundos Disponíveis.
+
+###### Artigo 5.º — Periodicidade das bolsas
+
+A Bolsa de Estudo a atribuir por este Município tem periodicidade anual, pelo que, os interessados deverão formalizar a sua candidatura todos os anos, mediante entrega de formulário próprio e no prazo estabelecido para o efeito.
+
+###### Artigo 6.º — Intransmissibilidade das bolsas
+
+As Bolsas de Estudo atribuídas nos termos do presente regulamento são intransmissíveis.
+
+### CAPÍTULO II — Procedimento de atribuição das bolsas de estudo
+
+###### Artigo 7.º — Condições de candidatura
+
+O procedimento para atribuição de bolsas de estudo é anual, sendo publicitado por edital a afixar nos locais de estilo, designadamente no átrio do edifício dos Paços do Concelho, nas Juntas de Freguesia e na Internet, no sítio institucional desta Câmara Municipal.
+
+1 - Poderão candidatar-se à atribuição das bolsas de estudo os alunos que reúnam cumulativamente os seguintes requisitos:
+
+a) Residir no concelho de Nordeste há mais de 3 anos;
+
+b) Possuir rendimento per capita não superior ao Salário Mínimo Regional, acrescido de 25 % (vinte e cinco por cento);
+
+c) Ter obtido aproveitamento escolar no ano letivo anterior da candidatura de acordo com o presente regulamento;
+
+d) Encontrar-se matriculado em regime ordinário;
+
+e) Ter terminado o ensino secundário no estabelecimento escolar concelhio, exceto os alunos que, devido à falta de oferta formativa no concelho, tenham completado os estudos ao nível do ensino secundário noutro concelho da ilha de São Miguel.
+
+###### Artigo 8.º — Publicitação de candidatura
+
+A Câmara Municipal de Nordeste publicitará ampla e atempadamente a abertura do concurso, prazos e condições de admissão de candidaturas, assim como os seus resultados, definindo um prazo para eventuais reclamações.
+
+###### Artigo 9.º — Formalização da candidatura
+
+1 - A apresentação de candidaturas decorrerá durante o mês de outubro.
+
+2 - Os candidatos às Bolsas de Estudo, ou quando se trate de menores de 18 anos, seus pais ou responsáveis pela sua educação, formalizarão os pedidos de concessão subscrevendo requerimento próprio, fornecido pelo Gabinete de Ação Social ou disponível na página eletrónica do município, onde se identificará nome completo do candidato, filiação, data de nascimento, estado civil, profissão e residência.
+
+3 - Deverão fazer parte da candidatura o requerimento devidamente preenchido, bem como, os seguintes documentos:
+
+a) Certificado de matrícula ou comprovativo autenticado;
+
+b) Declaração comprovativa de apresentação de requerimento para a atribuição de bolsa de estudo no estabelecimento de ensino superior;
+
+c) Notificação de decisão do resultado da bolsa de estudo, sendo que em caso de indeferimento da candidatura, este terá que ser devidamente justificado;
+
+d) Certificado de aproveitamento escolar obtido no último ano letivo frequentado, ou respetivo comprovativo autenticado;
+
+e) Atestado de residência no Concelho;
+
+f) Ficha-inquérito (a fornecer pela Câmara Municipal);
+
+g) Declarações comprovativas dos rendimentos anuais ilíquidos auferidos pelo agregado familiar no ano civil anterior ao ano letivo de candidatura;
+
+h) Declaração de apoios da Ação Social escolar de que foi beneficiário nos anos letivos imediatamente anteriores, caso se trate da primeira candidatura;
+
+i) Documentos comprovativos de encargos com habitação (renda, aquisição ou construção);
+
+j) Outros documentos relevantes que, eventualmente, venham a ser solicitados para apreciação da candidatura.
+
+4 - Sempre que não seja possível aos candidatos entregarem todos os documentos exigidos no artigo anterior deverão subscrever declaração, a ser entregue com o requerimento, comprometendo-se a fazê-lo até um mês após o términus da candidatura, sem os quais estão sujeitos a exclusão.
+
+###### Artigo 10.º — Conceito de Aproveitamento Escolar
+
+Para efeitos do presente regulamento, considera-se que o aluno obteve aproveitamento escolar em determinado ano letivo quando obteve sucesso em dois terços (2/3) das cadeiras nas quais estava inscrito.
+
+###### Artigo 11.º — Critérios de Seleção
+
+1 - Quando não for possível atender todos os pedidos, por a sua quantidade ser superior ao número de Bolsas a atribuir, serão consideradas as seguintes condições de preferência, pela ordem a seguir indicada:
+
+a) Menor rendimento per capita do agregado familiar;
+
+b) O ter sido bolseiro da Câmara Municipal de Nordeste no ano letivo anterior desde que se mantenham o aproveitamento escolar e o rendimento familiar per capita semelhante ao anteriormente apresentado;
+
+c) Ser o Concelho deficitário em licenciados e mestrados nas áreas dos cursos em que o candidato a bolseiro se pretende inscrever;
+
+d) Melhor classificação escolar obtida no último ano letivo frequentado.
+
+2 - Os candidatos com um grau de deficiência superior a 60 %, quando devidamente comprovado por documento médico, terão prioridade absoluta sobre os candidatos, desde que não aufiram de outra bolsa equivalente.
+
+###### Artigo 12.º — Cálculo do Rendimento Per Capita
+
+O cálculo do rendimento per capita será efetivado de acordo com a seguinte fórmula:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/10/205000000/0018900195.pdf)
+
+###### Artigo 13.º — Ordenação dos candidatos
+
+1 - Em função das condições do presente regulamento, o técnico municipal nomeado anualmente para o efeito ordenará os candidatos a bolseiros sempre que a sua quantidade seja superior ao número de Bolsas atribuir, numa lista provisória que estará patente na Câmara Municipal, para eventuais reclamações, durante 10 dias, e enviada aos interessados para se pronunciarem sobre a mesma, antes de ser tomada a decisão final.
+
+2 - Findo esse prazo elaborará proposta, devidamente fundamentada, que submeterá à Câmara Municipal para deliberação.
+
+###### Artigo 14.º — Exclusão e Sanções
+
+1 - Constituem fundamentos para a não atribuição ou para a cessação da Bolsa de Estudo por parte da Câmara Municipal:
+
+a) Desistência da frequência do curso superior;
+
+b) Prestação de falsas declarações no processo de candidatura devida a inexatidão ou omissão;
+
+c) Mudança de residência para fora do concelho;
+
+d) Obtenção de bolsa ou vantagem equivalente atribuída por outra entidade;
+
+e) Melhoria significativa de rendimentos do agregado familiar;
+
+f) Constatação de sinais exteriores de riqueza que não estejam refletidos na declaração do IRS ou IRC;
+
+2 - As falsas declarações prestadas implicam a perda do direito à Bolsa de Estudo no ano letivo correspondente e à reposição das quantias que tenham sido recebidas indevidamente.
+
+3 - A ordem de restituição a que se refere o número anterior é antecedida de audição do interessado, que dispõe de 15 dias a contar da data da sua notificação para se pronunciar sobre o conteúdo da mesma.
+
+4 - As falsas declarações, para além de fazerem incorrer o bolseiro na perda do direito à bolsa no ano letivo correspondente, determina a interdição de candidatura no ano letivo seguinte.
+
+###### Artigo 15.º — Desistência
+
+Se o bolseiro desistir de completar o curso, ou do ano do qual beneficia da bolsa, será obrigado a devolver à Câmara Municipal de Nordeste todas as importâncias recebidas até à data da desistência, salvo justificação devidamente fundamentada e aprovada pelo executivo camarário.
+
+###### Artigo 16.º — Deveres dos Bolseiros
+
+1 - Uma vez terminado o curso, o bolseiro compromete-se a prestar serviço no Concelho de Nordeste durante um período de três anos.
+
+2 - No caso de ser inviável a prestação de serviço no Concelho, o bolseiro compromete-se a prestar serviço na Região durante o mesmo período de tempo.
+
+3 - Existindo a possibilidade, o bolseiro em primeiro lugar tem de se candidatar aos estágios, quer do curso quer profissionalizantes, no Concelho do Nordeste.
+
+4 - A falta de cumprimento do disposto nos números anteriores obriga o bolseiro a devolver todas as importâncias por ele recebidas.
+
+### CAPÍTULO III — Disposições finais
+
+###### Artigo 17.º — Solicitação de informações
+
+A Câmara Municipal do Nordeste reserva-se o direito de solicitar aos estabelecimentos de ensino, informações relativas aos bolseiros ou candidatos à bolsa de estudo, bem como adotar as demais diligências necessárias.
+
+###### Artigo 18.º — Dúvidas e Omissões
+
+As dúvidas, casos omissos e interpretações resultantes da aplicação do presente regulamento são resolvidas pela Câmara Municipal.
+
+###### Artigo 19.º — Norma Revogatória
+
+São revogadas todas as normas regulamentares existentes nesta matéria.
+
+###### Artigo 20.º — Produção de efeitos
+
+O presente regulamento produz efeitos para o ano letivo 2020/2021, inclusive, e anos letivos seguintes.
+
+###### Artigo 21.º — Entrada em Vigor
+
+O presente Regulamento entra em vigor decorridos 5 dias após a sua publicação nos termos da Lei.
+
+313607671

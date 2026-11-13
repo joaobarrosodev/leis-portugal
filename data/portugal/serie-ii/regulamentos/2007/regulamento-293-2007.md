@@ -1,0 +1,845 @@
+---
+schema_version: '1.0'
+id: pt:dre:3278820:por
+title: Regulamento n.º 293/2007
+short_title: null
+summary: Regulamento Municipal de Instalação, Exploração e Funcionamento dos Estabelecimentos de Hospedagem
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Câmara Municipal de Lagoa (Algarve)
+proposing_entity: null
+official_number: 293/2007
+official_date: null
+publication_date: '2007-11-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 211/2007, Série II de 2007-11-02
+  number: '211'
+  series: II
+  supplement: null
+  pages: 31840 - 31845
+  pdf_url: https://files.diariodarepublica.pt/2s/2007/11/211000000/3184031845.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3278820'
+  dre_path: /dr/detalhe/regulamento/293-2007-3278820
+  internal: pt:dre:3278820:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/293-2007-3278820
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/293-2007-3278820
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:31:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 69a690e46d5788e61cfc847db6387118ed7354a65ec393ed06973baadca162ab
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:31:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+article_structure:
+  article_count: 41
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:31:34Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 293/2007
+
+O Dr. José Inácio Marques Eduardo, presidente da Câmara Municipal de Lagoa (Algarve), torna público que a Assembleia Municipal, em sua sessão ordinária realizada no dia 24 de Setembro de 2007, aprovou o Regulamento Municipal de Instalação, Exploração e Funcionamento dos Estabelecimentos de Hospedagem, cujo projecto foi publicado no Diário da República, 2.ª série, n.º 122, de 27 de Junho de 2007, e submetido a apreciação pública, nos termos do disposto nos artigos 117.º e 118.º do Código do Procedimento Administrativo.
+
+Estando assim cumpridos todos os requisitos necessários, a seguir se publica o mencionado Regulamento, que entrará em vigor no 5.º dia após a sua publicação no Diário da República.
+
+9 de Outubro de 2007. - O Presidente da Câmara, José Inácio Marques Eduardo.
+
+Regulamento Municipal de Instalação, Exploração e Funcionamento dos Estabelecimentos de Hospedagem
+
+Nota justificativa
+
+A actividade de hospedagem, a par da instalação e funcionamento dos empreendimentos turísticos, constitui um recurso de complementaridade ao alojamento e prestação de serviços conexos, que pode assumir importante função estrutural.
+
+O regime jurídico da instalação e funcionamento de empreendimentos turísticos, todavia, sofreu as alterações introduzidas pelo [Decreto-Lei n.º 55/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2002-250607), de 11 de Março, que veio adequá-lo ao novo regime jurídico de urbanização e edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, na redacção dada pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Junho.
+
+As alterações a este diploma têm claras implicações no regime jurídico dos estabelecimentos de hospedagem ao definirem novas regras no que concerne aos processos de licenciamento destes estabelecimentos, cuja competência é da Câmara Municipal.
+
+Pretende-se, assim, com o presente Regulamento reunir, num único documento, todas as regras e princípios que devem nortear a instalação dos estabelecimentos de hospedagem designados por hospedarias, casas de hóspedes e por quartos particulares, visando a defesa do interesse dos consumidores e a promoção da qualidade da oferta do alojamento particular, que deve ser encarado pelos seus promotores não apenas na óptica do rendimento mas também da qualidade.
+
+Nos termos dos artigos 117.º e 118.º do Código do Procedimento Administrativo, o presente projecto de Regulamento é submetido a apreciação pública pelo período de 30 dias.
+
+Assim, ao abrigo do disposto nos artigos 112.º, n.º 8, e 241.º da Constituição da República Portuguesa, nos termos da alínea a) do n.º 6 do artigo 64.º e da alínea a) do n.º 2 do artigo 53.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com as alterações que lhe foram introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, e dos artigos 15.º e 55.º da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, na sua actual redacção, foram as seguintes normas enviadas à Câmara Municipal, que as aprovou em 24 de Abril de 2007, constituindo, assim, a proposta de Regulamento Municipal de Instalação, Exploração e Funcionamento dos Estabelecimentos de Hospedagem.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Lei habilitante
+
+O presente Regulamento é elaborado ao abrigo do n.º 1 do artigo 79.º do [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho, na sua actual redacção.
+
+###### Artigo 2.º — Objecto e âmbito de aplicação
+
+O presente Regulamento visa disciplinar a instalação, exploração e funcionamento dos estabelecimentos de hospedagem no concelho de Lagoa.
+
+###### Artigo 3.º — Definição
+
+Para efeitos do presente Regulamento, consideram-se estabelecimentos de hospedagem os que se destinam a prestar, mediante um preço, serviço de alojamento temporário e outros serviços acessórios ou de apoio, sem fornecimento de refeições, exceptuando pequenos-almoços, sempre que os mesmos se encontrem expressamente incluídos, e não sejam integrados em estabelecimentos que explorem o serviço de alojamento nem possam ser classificados em qualquer dos tipos de empreendimentos previstos no [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho, na sua actual redacção.
+
+###### Artigo 4.º — Classificação
+
+Os estabelecimentos de hospedagem classificam-se em:
+
+a) Hospedarias;
+
+b) Casas de hóspedes;
+
+c) Quartos particulares.
+
+###### Artigo 5.º — Hospedarias
+
+São hospedarias os estabelecimentos constituídos por um conjunto de instalações funcionalmente independentes, situadas em edifício autónomo, sem qualquer outro tipo de ocupação, que disponha até 15 unidades de alojamento, e que se destinem a proporcionar, mediante um preço, alojamento e outros serviços complementares de apoio.
+
+###### Artigo 6.º — Casas de hóspedes
+
+São casas de hóspedes os estabelecimentos integrados em edifícios de habitação familiar, que disponham de quatro até oito unidades de alojamento, e que se destinem a proporcionar, mediante um preço, alojamento e outros serviços complementares e de apoio.
+
+###### Artigo 7.º — Quartos particulares
+
+1 - São quartos particulares aqueles que, integrados nas residências dos respectivos proprietários, arrendatários, usufrutuários, superficiários, mandatários ou titulares do direito de uso, disponham até três unidades de alojamento, e se destinem a proporcionar, mediante um preço, alojamento e outros serviços complementares, de carácter familiar.
+
+2 - Para efeitos do disposto no número anterior, tratando-se de arrendatários, a instalação de quartos particulares carece do prévio consentimento do senhorio, prestado por escrito, o qual pode constar do respectivo contrato.
+
+### CAPÍTULO II — Licenciamento
+
+###### Artigo 8.º — Alteração da licença ou autorização de utilização
+
+1 - A instalação de estabelecimentos de hospedagem em edifício ou fracção previamente licenciado para outra actividade está sujeita ao processo de alteração de licença ou autorização de utilização.
+
+2 - Ao processo de alteração da licença ou autorização de utilização aplica-se o disposto no presente Regulamento.
+
+###### Artigo 9.º — Instalação
+
+1 - Para efeitos do disposto no presente Regulamento, considera-se instalação de estabelecimento de hospedagem o processo de licenciamento ou autorização para a realização de operações urbanísticas relativas à construção e ou utilização de edifícios ou suas fracções destinados ao funcionamento desses serviços.
+
+2 - Aos processos relativos à construção e adaptação de edifícios destinados à instalação de estabelecimentos de hospedagem aplicar-se-á o disposto no regime jurídico da urbanização e da edificação, ficando ainda submetidos aos instrumentos municipais de planeamento urbanístico.
+
+3 - Os processos relativos à instalação de estabelecimentos de hospedagem estão sempre sujeitos ao parecer do Serviço Nacional de Bombeiros e do delegado de saúde do concelho.
+
+4 - Ao parecer do Serviço Nacional de Bombeiros a que se refere o número anterior aplicar-se-á o disposto no regime jurídico da urbanização e edificação.
+
+5 - Os pareceres referidos no n.º 3 quando desfavoráveis são vinculativos.
+
+###### Artigo 10.º — Licenciamento ou autorização da instalação
+
+1 - A utilização dos estabelecimentos de hospedagem depende de licenciamento ou autorização municipal.
+
+2 - O pedido de licenciamento ou autorização será feito mediante requerimento dirigido ao presidente da Câmara Municipal e deverá ser instruído com os elementos indicados no anexo I deste Regulamento.
+
+3 - O requerimento a que se refere o n.º 2 do presente artigo deverá ser entregue na Secretaria de Obras e Urbanismo do município de Lagoa.
+
+4 - A licença ou autorização de utilização para estabelecimentos de hospedagem é sempre precedida de vistoria, prevista no artigo 15.º do presente Regulamento.
+
+5 - O pedido de licenciamento ou autorização será indeferido e a licença ou autorização será recusada quando os estabelecimentos de hospedagem não cumprirem o disposto no presente Regulamento.
+
+###### Artigo 11.º — Requisitos gerais
+
+Para efeitos de emissão de licença ou autorização de utilização, os estabelecimentos de hospedagem devem obedecer aos seguintes requisitos:
+
+a) Condições de acessibilidade e enquadramento paisagístico adequado;
+
+b) Distância não inferior a 100 m de actividades ou locais insalubres, poluentes, ruidosos ou incómodos;
+
+c) Instalação em edifícios devidamente licenciados ou autorizados pela Câmara Municipal;
+
+d) Instalação em edifícios bem conservados no exterior e no interior;
+
+e) Dotadas de mobiliário, equipamento e utensílios adequados;
+
+f) Possuírem nas respectivas portas sistemas de segurança de modo a permitir a privacidade do hóspede;
+
+g) Disporem por cada unidade de alojamento de uma janela ou sacada com comunicação directa para o exterior por uma abertura não inferior a 1,2 m2 e dotada de um sistema que permita a ocultação total de luz exterior;
+
+h) Ligação às redes públicas de abastecimento de água e saneamento, exceptuando-se o previsto nos n.os 2 3 - e 4 do artigo 13.º do presente Regulamento;
+
+i) Condições de acessibilidade para pessoas com mobilidade condicionada, de acordo com as disposições legais que regulamentam a matéria para os estabelecimentos de hospedagem licenciados ou autorizados posteriormente à entrada em vigor do presente Regulamento.
+
+###### Artigo 12.º — Requisitos mínimos das instalações dos estabelecimentos de hospedagem
+
+1 - As unidades de alojamento devem ter as seguintes áreas mínimas:
+
+a) Quartos com uma cama individual - 8,5 m2;
+
+b) Quartos com duas camas individuais ou uma cama de casal - 11,5 m2;
+
+c) Quartos com três camas individuais ou uma cama de casal e uma cama individual - 14,5 m2.
+
+2 - Os quartos dos estabelecimentos de hospedagem devem estar equipados com o seguinte mobiliário:
+
+a) Cama, com as seguintes dimensões mínimas:
+
+Cama individual - 2 mx0,90 m;
+
+Cama de casal - 2 mx1,40 m;
+
+b) Uma a três mesas de cabeceira, conforme a capacidade do quarto;
+
+c) Iluminação eléctrica, geral, necessária aos níveis de comodidade de utilização do quarto;
+
+d) Um roupeiro ou espaço fechado organizado para esse fim, com cabines em número suficiente;
+
+e) Uma cadeira ou sofá;
+
+f) Tomadas de electricidade;
+
+g) Sistemas de ocultação da luz exterior;
+
+h) Sistema de segurança nas portas;
+
+i) Tapetes de cama segundo o número de ocupantes, salvo outro revestimento de pavimento que justifique a sua dispensa;
+
+j) Sistema de aquecimento e de ventilação.
+
+3 - As hospedarias poderão ainda dispor de suites com a seguinte composição:
+
+a) Suite - constituída por quarto e sala (com um mínimo de 9 m2 sem kitchenette ou 11 m2 com kitchenette), comunicantes entre si por uma antecâmara de entrada e casa de banho completa;
+
+b) Suite júnior - constituída por quarto e sala (com um mínimo de 9 m2 sem kitchenette ou 11 m2 com kitchenette), comunicando directamente e casa de banho completa.
+
+4 - Nas suites, as camas convertíveis poderão ser instaladas na sala, desde que o seu número não exceda o de camas fixas.
+
+5 - Na antecâmara de entrada, caso se trate de suite, ou na sala, caso se trate de suite júnior, pode ser instalada uma kitchenette equipada com frigorífico, fogão eléctrico, lava-louça e armário para víveres e utensílios e com um dispositivo para absorver fumos e cheiros.
+
+6 - As suites onde sejam instaladas kitchenettes devem localizar-se em zonas distintas e ser dotadas dos equipamentos necessários de modo a não perturbar os hóspedes das demais unidades de alojamento.
+
+7 - As instalações dos estabelecimentos de hospedagem devem estar dotadas de um sistema de iluminação de segurança.
+
+8 - Deverá ainda existir, no mínimo, um telefone, com ligação à rede exterior para uso dos hóspedes.
+
+9 - Os quartos particulares podem ser complementados com o uso da cozinha.
+
+###### Artigo 13.º — Requisitos das instalações sanitárias
+
+1 - Os quartos, quando dotados de instalações sanitárias privativas, devem cumprir os seguintes requisitos mínimos:
+
+a) Ligação a uma saída de esgoto, através de um ramal de ligação, salvo no caso previsto no n.º 3 do presente artigo;
+
+b) Lavatório;
+
+c) Sanita, bidé, banheira ou polibanho com braço de chuveiro;
+
+d) Revestimento de pavimentos e de paredes impermeável e de fácil lavagem;
+
+e) Sistema de ventilação que permita a renovação;
+
+f) Sistema de segurança nas portas que impeça a entrada pelo exterior;
+
+g) Casa de banho simples, com a área mínima de 2,5 m2 ou casa de banho completa, com a área mínima de 4,4 m2;
+
+h) A proporção das instalações sanitárias é, no mínimo, de uma casa de banho simples para três quartos;
+
+i) Uma tomada de electricidade localizada perto de um espelho e do lavatório.
+
+2 - Nos locais onde não exista rede pública de abastecimento de água, os estabelecimentos de hospedagem devem estar dotados de um sistema de abastecimento privativo, de origem devidamente controlada, sujeito a análises físico-químicas e microbiológicas anuais.
+
+3 - Se não existir ramal de ligação ao colector, deverá existir um sistema de recolha e tratamento adequado ao volume e natureza dessas águas, de acordo com a legislação em vigor aplicável a esta matéria.
+
+4 - Onde não exista rede de saneamento, os estabelecimentos devem ser dotados de fossas sépticas dimensionadas para a ocupação máxima admitida para os serviços nele prestados.
+
+###### Artigo 14.º — Medidas de segurança contra riscos de incêndio
+
+1 - Os estabelecimentos de hospedagem devem observar as seguintes condições de segurança:
+
+a) Todas as unidades de alojamento devem ser dotadas de um sensor iónico de detecção de fumos, devendo ainda ter um extintor de CO2;
+
+b) Sempre que possível, devem ser utilizados materiais com características de não inflamáveis;
+
+c) Nos estabelecimentos de hospedagem deverá existir uma planta em cada unidade de alojamento com o caminho da evacuação em caso de incêndio e os números de telefone para serviços de emergência;
+
+d) Nos estabelecimentos de hospedagem, os acessos ao exterior dos edifícios deverão ser dotados de sistema de iluminação de segurança.
+
+2 - As medidas de segurança contra riscos de incêndio são as preconizadas no respectivo projecto, aprovado pelo Serviço Nacional de Bombeiros.
+
+###### Artigo 15.º — Vistoria
+
+1 - A vistoria prevista no n.º 3 do artigo 10.º do presente Regulamento deve realizar-se no prazo de 30 dias úteis a contar da data da apresentação do respectivo requerimento e, sempre que possível, em data a acordar com o interessado.
+
+2 - A vistoria é efectuada por uma comissão composta por:
+
+a) Dois técnicos da Câmara Municipal;
+
+b) O delegado de saúde do concelho ou o seu representante;
+
+c) Um representante do Serviço Nacional de Bombeiros;
+
+d) Um representante da Região de Turismo do Algarve;
+
+e) Um representante da Confederação de Turismo Português, salvo se o requerente indicar no pedido de vistoria uma associação patronal que o represente.
+
+3 - Compete ao presidente da Câmara Municipal de Lagoa convocar as entidades mencionadas no número anterior com a antecedência mínima de 15 dias úteis.
+
+4 - A ausência das entidades referidas nas alíneas d) e e), desde que regularmente convocadas, não é impeditiva nem constitui justificação da não realização da vistoria.
+
+5 - A comissão referida no n.º 2, depois de proceder à vistoria, elabora o respectivo auto, devendo ser entregue uma cópia ao requerente.
+
+6 - Quando o auto de vistoria conclua em sentido desfavorável, não pode ser emitida a licença ou autorização de utilização.
+
+7 - Sempre que ocorram indícios quanto ao incumprimento do estabelecido no presente Regulamento, o presidente da Câmara Municipal poderá, em qualquer momento, determinar a realização de uma vistoria que obedecerá, com as necessárias adaptações, ao previsto nos números anteriores.
+
+###### Artigo 16.º — Alvará de licença ou de autorização de utilização
+
+1 - A licença ou autorização de utilização dos estabelecimentos de hospedagem é titulada pelo respectivo alvará, após a realização de vistoria prévia, a efectuar nos termos do artigo anterior.
+
+2 - O alvará de licença ou de autorização de utilização deve especificar:
+
+a) A identificação da entidade titular da licença;
+
+b) A tipologia e designação ou nome do estabelecimento;
+
+c) A capacidade máxima do estabelecimento;
+
+d) O período de funcionamento do estabelecimento.
+
+3 - O alvará é emitido pelo prazo de dois anos, renovável mediante comprovação de que se mantêm os requisitos exigidos para a sua emissão, através da realização da vistoria a que se refere o artigo seguinte.
+
+4 - A emissão do alvará deve ser notificada ao titular por carta registada no prazo de oito dias úteis, a contar da data da sua emissão.
+
+5 - O modelo de alvará de licença ou autorização de utilização consta do anexo II ao presente Regulamento.
+
+6 - Sempre que ocorra alteração de qualquer dos elementos constantes do alvará, a entidade titular da respectiva licença ou autorização deve, no prazo de 30 dias úteis, requerer o averbamento ao respectivo alvará, o qual é antecedido de vistoria.
+
+###### Artigo 17.º — Vistoria de rotina
+
+1 - O titular do estabelecimento de hospedagem deverá requerer, até 15 dias úteis antes do termo da validade do alvará mencionado no artigo anterior, nova vistoria de rotina, mediante requerimento dirigido ao presidente da Câmara Municipal, cujo modelo (anexo I) será fornecido pelos serviços da Câmara Municipal após o pagamento de uma taxa nos termos do artigo 38.º
+
+2 - A revalidação do alvará depende de parecer favorável resultante da vistoria efectuada.
+
+3 - A vistoria de rotina é válida por um período de dois anos.
+
+4 - A Câmara Municipal procede à realização da vistoria oficiosamente, na sequência da ocorrência de reclamações, para verificação da manutenção dos requisitos que presidiram à emissão do título.
+
+###### Artigo 18.º — Caducidade da licença ou autorização de utilização
+
+1 - A licença ou autorização de utilização caduca:
+
+a) Se o estabelecimento não iniciar o seu funcionamento no prazo de um ano a contar da data da emissão do alvará;
+
+b) Se o estabelecimento se mantiver encerrado por período superior a um ano, salvo por motivos de obras;
+
+c) Quando ao estabelecimento seja dada uma utilização diferente da prevista no alvará;
+
+d) Sempre que se verificar o incumprimento dos requisitos mencionados nos artigos 11.º, 12.º, 13.º, 18.º e 17.º, n.º 1, do presente Regulamento.
+
+2 - Caducada a licença ou autorização de utilização, o alvará é apreendido pela Câmara Municipal.
+
+3 - A apreensão do alvará tem lugar na sequência da notificação ao titular da licença de utilização sendo, de seguida, encerrado o estabelecimento.
+
+### CAPÍTULO III — Da comercialização e registo
+
+###### Artigo 19.º — Registo
+
+1 - Todos os estabelecimentos de hospedagem devidamente licenciados ou autorizados serão objecto de registo organizado pela Câmara Municipal (anexo III).
+
+2 - O registo será comunicado à Direcção-Geral de Turismo.
+
+3 - À Câmara Municipal é reservado o direito de utilizar os dados constantes do registo referido nos números anteriores.
+
+###### Artigo 20.º — Comercialização
+
+1 - Só os estabelecimentos de hospedagem devidamente licenciados ou autorizados, nos termos dos artigos anteriores, poderão ser comercializados, quer pelos seus legítimos proprietários ou possuidores quer através de operadores turísticos ou agências de viagens e turismo.
+
+2 - Para efeitos do disposto no número anterior, considera-se que há comercialização sempre que tais alojamentos forem anunciados ao público, no país ou no estrangeiro, quer directa quer indirectamente.
+
+### CAPÍTULO IV — Exploração e funcionamento
+
+###### Artigo 21.º — Nome dos estabelecimentos
+
+1 - Os nomes dos estabelecimentos de hospedagem incluem, obrigatoriamente, a referência ao tipo a que pertencem.
+
+2 - Os estabelecimentos de hospedagem não podem incluir no nome expressões próprias dos empreendimentos turísticos, nem utilizar nas suas designações as expressões "Turismo" ou "Turístico" ou, por qualquer forma, sugerir classificações que não lhes caibam ou características que não possuam.
+
+3 - Os estabelecimentos de hospedagem não podem usar nomes iguais ou, por qualquer forma, semelhantes a outros já existentes ou requeridos que possam induzir em erro ou serem susceptíveis de confusão.
+
+4 - A competência para aprovar o nome dos estabelecimentos de hospedagem é do presidente da Câmara.
+
+5 - Para efeitos do disposto no n.º 3 do presente artigo, a Câmara Municipal efectuará em livro próprio o registo de estabelecimentos de hospedagem, segundo o modelo a aprovar pela Câmara Municipal.
+
+###### Artigo 22.º — Identificação
+
+Os estabelecimentos de hospedagem devem afixar no exterior uma placa identificativa, segundo o modelo previsto no anexo IV, que poderá ser adquirida na Câmara Municipal.
+
+###### Artigo 23.º — Responsável
+
+Em todos os estabelecimentos deverá haver um responsável, a quem cabe zelar pelo seu bom funcionamento, assim como assegurar o cumprimento das disposições do presente Regulamento.
+
+###### Artigo 24.º — Recepção/portaria
+
+1 - Nas hospedarias e casas de hóspedes que não se integrem em unidades de habitação familiar, é obrigatória a prestação dos seguintes serviços:
+
+a) Registo de entradas e saídas de utentes;
+
+b) Recepção, guarda e entrega aos utentes destinatários da correspondência e de outros objectos que lhes sejam destinados;
+
+c) Anotações e transmissões aos utentes destinatários das mensagens que lhes forem dirigidas durante a sua ausência;
+
+d) Guarda das chaves das unidades de alojamento;
+
+e) Disponibilização do livro de reclamações quando solicitado;
+
+f) Disponibilização do telefone aos utentes que o queiram utilizar, quando as unidades de alojamento não disponham deste equipamento.
+
+2 - Na recepção/portaria devem ser colocadas em local visível e em português e inglês as informações respeitantes ao funcionamento do estabelecimento, designadamente sobre serviços que o mesmo preste e os respectivos preços.
+
+###### Artigo 25.º — Informações
+
+1 - No momento do registo de um hóspede no estabelecimento de hospedagem é obrigatório entregar ao interessado um cartão com as seguintes indicações:
+
+a) Tipo e nome do estabelecimento;
+
+b) Nome do hóspede;
+
+c) Identificação da unidade de alojamento quando exista;
+
+d) Preço diário a cobrar pela unidade de alojamento;
+
+e) Data da entrada no estabelecimento;
+
+f) Data prevista para a saída;
+
+g) Número de pessoas que ocupam a unidade de alojamento.
+
+2 - Em cada uma das unidades de alojamento os estabelecimentos de hospedagem devem ser prestadas aos hóspedes as seguintes informações:
+
+a) Os serviços, equipamentos e instalações cuja utilização está incluída no preço da diária da unidade de alojamento;
+
+b) Os preços e horários dos serviços prestados pelo estabelecimento, incluindo telefone;
+
+c) A não responsabilização da entidade exploradora pelo dinheiro, jóias e outros objectos de valor, a não ser que sejam entregues contra recibo, quando tal serviço seja prestado;
+
+d) A existência de livro de reclamações;
+
+e) A menção de que o hóspede será responsável pelos danos que causar na unidade de alojamento e respectivo equipamento;
+
+f) A menção de que o hóspede deve desocupar a unidade de alojamento até às 12 horas do dia da saída ou até à hora convencionada, entendendo-se que, se o não fizer, renovará a sua estadia por mais um dia.
+
+###### Artigo 26.º
+
+## Livro de reclamações
+
+1 - Em todos os estabelecimentos de hospedagem deve existir um livro de reclamações ao dispor dos utentes.
+
+2 - O livro de reclamações deve ser imediatamente facultado ao utente que o solicite.
+
+3 - O original de cada reclamação registada deve ser enviado pelo responsável do estabelecimento à Câmara Municipal, que dará conhecimento à Direcção-Geral de Turismo, no prazo máximo de quarenta e oito horas, devendo a cópia da reclamação apresentada ser entregue, de imediato, ao hóspede.
+
+4 - A segunda cópia da reclamação faz parte integrante do livro de reclamações, não podendo ser retirada do mesmo.
+
+###### Artigo 27.º
+
+## Livro de registo
+
+Deve ser organizado um livro de entrada de clientes, do qual conste a sua identificação e respectiva morada.
+
+###### Artigo 28.º — Fornecimentos incluídos no preço
+
+1 - No preço diário das unidades de alojamento está incluído, obrigatoriamente, o consumo da água, gás e electricidade.
+
+2 - O pagamento dos serviços pelo utente deverá ser feito na data de entrada ou saída, contra recibo, onde sejam especificadas as datas da estadia.
+
+###### Artigo 29.º — Arrumação e limpeza
+
+1 - As unidades dos estabelecimentos de hospedagem devem estar preparadas e limpas no momento de serem ocupadas pelos hóspedes.
+
+2 - Os serviços de arrumação e limpeza devem ter lugar diariamente.
+
+###### Artigo 30.º — Acesso
+
+1 - É livre o acesso aos estabelecimentos de hospedagem, salvo o disposto nos números seguintes.
+
+2 - Pode ser recusado o acesso ou a permanência nos estabelecimentos de hospedagem a quem perturbar o seu funcionamento normal, designadamente por:
+
+a) Não utilizar os serviços nele prestados;
+
+b) Se recusar a cumprir as normas de funcionamento privativas do estabelecimento, desde que estas se encontrem devidamente publicitadas;
+
+c) Alojar indevidamente terceiros;
+
+d) Penetrar nas áreas excluídas do serviço de hospedagem.
+
+3 - Pode ainda ser recusado o acesso, desde que devidamente publicitada tal restrição nas áreas afectas à exploração, às pessoas que se façam acompanhar por animais.
+
+4 - As entidades exploradoras dos estabelecimentos de hospedagem não podem dar alojamento ou permitir o acesso a um número de hóspedes superior ao da respectiva capacidade.
+
+### CAPÍTULO V — Fiscalização e regime sancionatório
+
+###### Artigo 31.º — Fiscalização
+
+1 - A fiscalização do cumprimento do disposto no presente Regulamento compete aos serviços competentes da Câmara Municipal e a outras entidades administrativas e policiais.
+
+2 - Para efeitos do disposto no número anterior, será sempre facultada a entrada da fiscalização e demais autoridades nos estabelecimentos de hospedagem, bem como dos documentos justificadamente solicitados.
+
+3 - As autoridades administrativas e policiais que verifiquem infracções ao disposto no presente Regulamento levantarão os respectivos autos de contra-ordenação, que serão, de imediato, remetidos à Câmara Municipal.
+
+###### Artigo 32.º — Contra-ordenações
+
+Para além das estabelecidas no artigo 98.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, na redacção dada pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Junho, constitui contra-ordenação punível com coima:
+
+a) A ausência de licença de utilização;
+
+b) A falta de arrumação e limpeza;
+
+c) A falta de placa de classificação;
+
+d) A ausência de livro de reclamações;
+
+e) A não afixação dos preços a cobrar;
+
+f) A ausência de plantas nas unidades de alojamento com o caminho de evacuação em caso de incêndio e os números de telefone para serviços de emergência;
+
+g) A ausência de extintores;
+
+h) O não cumprimento dos requisitos de funcionamento dos estabelecimentos de hospedagem previstos nos artigos 11.º, 12.º, 13.º e 14.º do presente Regulamento;
+
+i) O impedimento de acções de fiscalização;
+
+j) A comercialização de unidades de alojamento não licenciadas;
+
+k) A ausência do responsável pelo bom funcionamento do estabelecimento, quando solicitada a sua presença;
+
+l) A ausência ou deficiente qualidade na prestação dos serviços;
+
+m) O não cumprimento do estabelecido no n.º 6 do artigo 16.º
+
+2 - A tentativa e a negligência são puníveis, nos termos do regime geral das contra-ordenações.
+
+###### Artigo 33.º — Montante das coimas
+
+1 - As contra-ordenações previstas no artigo anterior são puníveis com coima de um quarto a quatro vezes o salário mínimo nacional no caso de se tratar de uma pessoa singular e de metade a sete vezes o salário mínimo nacional no caso de se tratar de pessoa colectiva.
+
+2 - Em caso de reincidência, as coimas previstas no artigo anterior serão elevadas ao montante máximo previsto.
+
+###### Artigo 34.º — Salário mínimo nacional
+
+Para efeitos do presente Regulamento, entende-se por salário mínimo nacional a remuneração mínima garantida para a indústria e serviços, devidamente actualizada, nos termos da legislação em vigor.
+
+###### Artigo 35.º — Sanções acessórias
+
+Para além das coimas referidas no artigo 33.º, e em casos de extrema gravidade, poderão ser aplicadas as seguintes sanções acessórias:
+
+a) Encerramento provisório do estabelecimento de hospedagem até que estejam sanadas as deficiências detectadas;
+
+b) Encerramento definitivo do estabelecimento de hospedagem com apreensão do alvará de licença ou autorização de utilização para hospedagem.
+
+###### Artigo 36.º — Competência para a instrução dos processos e aplicação das coimas
+
+1 - A instrução do procedimento de contra-ordenação compete, nos termos do presente Regulamento, à Câmara Municipal de Lagoa.
+
+2 - A aplicação das coimas previstas no presente Regulamento é da competência do presidente da Câmara Municipal, podendo ser delegada em qualquer dos restantes membros da Câmara Municipal.
+
+3 - O produto da aplicação das coimas constituirá receita própria da Câmara Municipal de Lagoa.
+
+4 - A aplicação das coimas e sanções acessórias obedece ao disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com respectivas alterações.
+
+### CAPÍTULO VI — Disposições finais e transitórias
+
+###### Artigo 37.º — Taxas
+
+As taxas devidas são as constantes da tabela de taxas e outras receitas do município de Lagoa.
+
+###### Artigo 38.º — Processos pendentes respeitantes a novos estabelecimentos de hospedagem
+
+Aos processos pendentes relativos ao licenciamento de estabelecimentos de hospedagem aplicam-se as normas do presente Regulamento.
+
+###### Artigo 39.º — Disposições transitórias
+
+1 - Os estabelecimentos de hospedagem já licenciados deverão satisfazer os requisitos impostos no presente Regulamento no prazo de dois anos, a contar da sua entrada em vigor, sob pena de caducidade da respectiva licença, excepto quando esse cumprimento determinar a realização de obras que se revelem materialmente impossíveis ou que comprometam a rentabilidade dos mesmos, desde que reconhecidas pela Câmara Municipal.
+
+2 - Findo o prazo referido no n.º 1, deverá ser feita uma vistoria, a realizar nos termos do previsto no artigo 15.º, com vista à verificação do cumprimento deste Regulamento.
+
+###### Artigo 40.º — Normas supletivas
+
+Em tudo o que não estiver disposto no presente Regulamento aplicar-se-ão as disposições referidas como legislação habilitante e ainda toda a legislação referida no respectivo articulado, em função da matéria em causa.
+
+###### Artigo 41.º — Entrada em vigor
+
+O presente Regulamento entra em vigor no 5.º dia após a sua publicação definitiva no Diário de República.
+
+## ANEXO I — Requerimento tipo
+
+Exmo. Sr. Presidente da Câmara Municipal de Lagoa:
+
+(indicar o nome do requerente), na qualidade de ... (proprietário, usufrutuário, locatário, titular do direito de uso, superficiário, mandatário), residente em ..., titular do bilhete de identidade n.º ..., emitido em .../.../..., pelo arquivo de identificação de ..., contribuinte n.º ..., solicita a V. Ex.ª o licenciamento/autorização de utilização de estabelecimento de hospedagem/revalidação do alvará de licença/ revalidação do alvará de utilização, na classificação de ... (indicar hospedaria/casa de hóspedes, quartos particulares), requerendo, para tanto, a realização da vistoria inicial/vistoria de rotina para o local assinalado na planta, que se junta em anexo, e cujas principais características se descrevem a seguir:
+
+Características:
+
+I - Localização ... (indicar a morada):
+
+Na residência do requerente ...;
+
+Em edifício independente ...;
+
+II - Unidades de alojamento:
+
+Número total de quartos triplos: ...;
+
+Número total de quartos duplos: ...;
+
+Número total de quartos simples: ...;
+
+III - Outras instalações:
+
+Número de salas privadas dos hóspedes: ...;
+
+Número de salas comuns: ...;
+
+Número de salas de refeições: ...;
+
+Outras: ...;
+
+IV - Instalações sanitárias:
+
+Números de casas de banho com lavatório, sanita, bidé e banheira: ...;
+
+Números de casas de banho com lavatório, sanita, bidé e chuveiro: ...;
+
+Números de casas de banho privadas dos quartos: ...;
+
+Dispõem de água quente e fria: ... (S/N);
+
+V - Infra-estruturas básicas:
+
+Com ligação à rede pública de água: ... (S/N);
+
+Com reservatório de água: ... (S/N);
+
+Com ligação à rede pública de saneamento: ... (S/N);
+
+Com telefone: ... (S/N);
+
+Outras: ...;
+
+VI - Período de funcionamento (assinalar com um X):
+
+Anual ... Sazonal ..., de ... a ...;
+
+VII - Outras características a assinalar:
+
+(local), ... (data).
+
+Pede deferimento.
+
+(assinatura do requerente).
+
+## ANEXO II — Licença ou autorização de utilização para estabelecimentos de hospedagem
+
+Câmara Municipal de Lagoa
+
+Alvará de licença ou autorização de utilização para hospedagem
+
+N.º ... (número de registo).
+
+Classificação ... (hospedaria/casas de hóspedes/quartos particulares).
+
+Titular da licença ou autorização:
+
+(nome).
+
+Capacidade do estabelecimento ... (capacidade máxima de utentes admitidos).
+
+Período de funcionamento: ...
+
+Data da última vistoria: ...
+
+Data da emissão do alvará: ...
+
+O Presidente da Câmara Municipal, ...
+
+## ANEXO III — Registo
+
+Registo e caracterização dos estabelecimentos de hospedagem
+
+Identificação do requerente
+
+Nome: ...
+
+Residência: ...
+
+Telefone/telemóvel: ...
+
+Responsável: ...
+
+Proprietário ... Arrendatário ... Usufrutuário ... Superficiário ... Mandatário ... Titular do direito de uso ...
+
+Localização do estabelecimento:
+
+Endereço: ...;
+
+Código postal: ...-...;
+
+Telefone: ...;
+
+Fax: ...
+
+Infra-estruturas:
+
+Ligação à rede pública de abastecimento de água: ...;
+
+Água proveniente de furo artesiano: ...;
+
+Água proveniente de mina: ...;
+
+Reservatório de água: ...;
+
+Ligação à rede geral de esgotos: ...;
+
+Ligação a fossa séptica: ...
+
+Características do alojamento:
+
+Apartamento: ...;
+
+Moradia:
+
+Isolada: ...;
+
+Geminada: ...;
+
+Em banda: ...;
+
+Outro: ...;
+
+Ano de construção: .../.../...;
+
+Licença de habitação: ...;
+
+Características dos quartos e respectivo número:
+
+Com uma cama individual: ...;
+
+Com uma cama de casal: ...;
+
+Com duas camas individuais: ...;
+
+Com três camas individuais: ...;
+
+Com uma cama de casal e uma cama individual: ...;
+
+Com sala privativa: ...;
+
+Com sala de banho privativa: ...;
+
+Características das instalações sanitárias e respectivo número:
+
+Casas de banho simples: ...;
+
+Casas de banho completas: ...;
+
+Tipos de mobiliário:
+
+Antigo: ...;
+
+Rústico: ...;
+
+Moderno: ...;
+
+Incaracterístico: ...;
+
+Espaços comuns de acesso permitido aos hóspedes:
+
+Sala de refeições: ...;
+
+Sala de estar: ...;
+
+Com televisor: ...;
+
+TV satélite: ...;
+
+TV cabo: ...;
+
+Terraço: ...;
+
+Jardim: ...;
+
+Piscina: ...;
+
+Serviços de carácter facultativo:
+
+Fornecimento de pequenos-almoços: ...;
+
+Tratamento de roupa de hóspedes: ...;
+
+Informações complementares: ...
+
+## ANEXO IV — Placa identificativa
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/11/211000000/3184031845.pdf)
+
+Colocar o estabelecimento a que se reporta a placa identificativa:
+
+Hospedaria, casa de hóspedes ou quartos particulares.
+
+2611059527

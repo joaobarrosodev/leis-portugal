@@ -1,0 +1,1367 @@
+---
+schema_version: '1.0'
+id: pt:dre:114627333:por
+title: Regulamento n.º 91/2018
+short_title: null
+summary: Regulamento de gestão do parque habitacional do Município de Faro
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Faro
+proposing_entity: null
+official_number: 91/2018
+official_date: null
+publication_date: '2018-02-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 25/2018, Série II de 2018-02-05
+  number: '25'
+  series: II
+  supplement: null
+  pages: 4179 - 4193
+  pdf_url: https://files.diariodarepublica.pt/2s/2018/02/025000000/0417904193.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '114627333'
+  dre_path: /dr/detalhe/regulamento/91-2018-114627333
+  internal: pt:dre:114627333:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/91-2018-114627333
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/91-2018-114627333
+  consolidated_url: null
+  retrieved_at: '2026-11-13T06:26:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 522fb895fa23aa176f37e95e811a6144ce88006ee2fe68b5423fb30a3fc9dd60
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T06:26:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:146061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69977686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75194221:por
+  label: null
+  source: null
+article_structure:
+  article_count: 63
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T06:26:33Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 91/2018
+
+Regulamento de Gestão do Parque Habitacional do Município de Faro
+
+Rogério Bacalhau Coelho, Presidente da Câmara Municipal de Faro:
+
+Torna público que o regulamento em título foi aprovada em reuniões da Câmara Municipal de 19/06/2017 e 04/12/2017 e, posteriormente, em sessão da Assembleia Municipal de 22/12/2017.
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação nos termos do artigo 139.º do Código de Procedimento Administrativo.
+
+Para constar e legais efeitos se lavrou o presente edital e outros de igual teor, os quais vão ser afixados nos lugares públicos do estilo.
+
+4 de janeiro de 2018. - O Presidente da Câmara Municipal, Rogério Bacalhau Coelho.
+
+Regulamento de Gestão do Parque Habitacional do Município de Faro
+
+Preâmbulo
+
+A Constituição da República Portuguesa consagra, no seu artigo 65.º, o direito à habitação com dimensão adequada em condições de higiene e conforto que preserve a intimidade pessoal e a privacidade familiar e impõe à Administração a definição e execução de uma política de habitação que garanta a efetividade daquele direito.
+
+Decorridos mais de seis anos desde a entrada em vigor do Regulamento de Acesso e Gestão do Parque Habitacional do Município de Faro, tendo presente a experiência adquirida com a sua aplicação e considerando as alterações legislativas entretanto introduzidas, em especial pela [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, com a redação conferida pela [Lei n.º 32/2016](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), de 24 de agosto, que estabelece o Novo Regime do Arrendamento Apoiado para Habitação, e pelo [Decreto-Lei n.º 156/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2015-69977686), de 10 de agosto, que estabelece os Regimes de Atribuição do Subsídio de Renda e de Determinação do Rendimento Anual Bruto Corrigido, entende-se ser tempo de proceder à aprovação de um novo Regulamento Municipal sobre a matéria.
+
+Considera-se de vital relevância para a política de habitação municipal a adoção de um regime jurídico que assegure uma gestão eficiente e promova a qualidade do serviço prestado aos munícipes que residem ou pretendem residir em habitação municipal, concretizando as condições de atribuição das habitações, bem como os termos da formação, vicissitudes e cessação da relação jurídica de arrendamento e ainda os direitos e deveres de cada uma das partes, inquilino e senhorio, na utilização e manutenção das habitações.
+
+No que diz respeito à ponderação dos custos e benefícios das medidas projetadas e em obediência ao artigo 99.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, importa, desde logo, sublinhar que a regulamentação que se pretende concretizar decorre expressamente da legislação supramencionada.
+
+Com efeito, o presente Regulamento não implica quaisquer novos custos ou encargos para os particulares, designadamente no que se refere ao valor da renda, na medida em que o seu cálculo, revisão e atualização resultam diretamente do regime previsto na lei habilitante, a [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, com a redação conferida pela [Lei n.º 32/2016](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), de 24 de agosto.
+
+Por outro lado, o presente Regulamento, em obediência aos princípios da igualdade e da proporcionalidade, da justiça e da imparcialidade, na prossecução do interesse público, no respeito pelos direitos e interesses dos cidadãos, visa sistematizar num único diploma as regras e critérios de gestão que permitem ao Município de Faro gerir o património habitacional municipal, incluindo as habitações que sejam arrendadas em regime de arrendamento apoiado, bem como, as normas de utilização e funcionamento dos Alojamentos de Apoio Temporário propriedade do Município, revogando expressamente o Regulamento de Acesso e Gestão do Parque Habitacional do Município de Faro, aprovado pela Assembleia Municipal em sessão de 21 de junho de 2010, conforme publicação no Diário da República, 2.ª série, n.º 137, de 16 de julho de 2010.
+
+Assim, no uso do poder regulamentar conferido às autarquias locais pelo artigo 241.º da Constituição da República Portuguesa, nos termos do disposto nas alínea i) do n.º 2 do artigo 23.º, alínea g) do n.º 1, do artigo 25.º, alínea k) do n.º 1, do artigo 33.º, todos do Anexo I da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, conjugado com a [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, com as alterações introduzidas pela [Lei n.º 32/2016](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), de 24 de agosto, procedeu-se à elaboração do presente Regulamento de Gestão do Parque Habitacional do Município de Faro, cujo respetivo Projeto foi submetido a apreciação pública, ao abrigo e nos termos do artigo 101.º do Código do Procedimento Administrativo, e do artigo 56.º do Anexo I da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, conforme publicação no Diário da República, 2.ª série, n.º 158, de 17 de agosto de 2017.
+
+O Regulamento de Gestão do Parque Habitacional do Município de Faro foi aprovado em reuniões da Câmara Municipal de 19 de junho de 2017 e 04 de dezembro de 2017, e, posteriormente, por deliberação da Assembleia Municipal em sessão de 22 de dezembro de 2017.
+
+Regulamento de Gestão do Parque Habitacional do Município de Faro
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Lei habilitante
+
+O Regulamento de Gestão do Parque Habitacional do Município de Faro é elaborado ao abrigo e nos termos do artigo 241.º da Constituição da República Portuguesa, da alínea i) do n.º 2 do artigo 23.º, alínea g) do n.º 1, do artigo 25.º, alínea k) do n.º 1, do artigo 33.º, todos do Anexo I da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, e ainda da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, com as alterações introduzidas pela [Lei n.º 32/2016](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), de 24 de agosto.
+
+###### Artigo 2.º — Objeto
+
+1 - O presente Regulamento estabelece o regime de gestão das habitações que integram o parque habitacional social do Município de Faro, incluindo a atribuição de habitações em regime de arrendamento apoiado, bem como as normas de utilização e funcionamento dos alojamentos de apoio temporário do Município.
+
+2 - Para além dos titulares do direito de ocupação das habitações que integram o parque habitacional social do Município de Faro, o presente Regulamento aplica-se a todos os elementos do respetivo agregado familiar que aí residam legalmente e com autorização municipal.
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente Regulamento, entende-se por:
+
+a) «Agregado familiar», o conjunto de pessoas que residem em economia comum na habitação arrendada, constituído pelo arrendatário e pelas pessoas referidas nas alíneas a), b), c), d) e e) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho, bem como por quem tenha sido autorizado pelo Município a permanecer na habitação;
+
+b) «Agregado familiar carenciado», aquele cujo Rendimento Anual Bruto Corrigido (RABC) seja inferior a três Remunerações Mínimas Nacionais Anuais (RMNA), conforme artigo 3.º, n.º 1, alínea d) do [Decreto-Lei n.º 135/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2004-281201), de 3 de junho, na redação conferida pelo [Decreto-Lei n.º 54/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2007-518445), de 12 de março;
+
+c) «Alojamento de apoio temporário», o alojamento de caráter temporário, designado por Alojamento Partilhado e Alojamento de Emergência, que constitui uma resposta de alojamento municipal a termo certo;
+
+d) «Alojamento de emergência», o alojamento vocacionado para agregados familiares, que necessitem de uma resposta habitacional imediata, de caráter temporário e a título gratuito;
+
+e) «Alojamento partilhado», o alojamento vocacionado para elementos isolados, que não possuam agregado familiar suscetível de prestar apoio, com efetivas carências habitacionais e dispostos a partilhar um quarto/apartamento com outros indivíduos em condições semelhantes;
+
+f) «Arrendamento apoiado», o regime aplicável às habitações detidas pelo Município que sejam ou venham a ser arrendadas ou subarrendadas com rendas calculadas em função dos rendimentos dos agregados familiares a que se destinam;
+
+g) «Coeficiente de ponderação» (Cf), é determinado pela seguinte fórmula: Rendimento Mensal Corrigido per capita/IAS = Cf;
+
+h) «Deficiente», a pessoa com deficiência com grau comprovado de incapacidade igual ou superior a 60 %;
+
+i) «Dependente», o elemento do agregado familiar que seja menor ou, que, tendo idade inferior a 26 anos, não aufira rendimento mensal líquido superior ao indexante dos apoios sociais;
+
+j) «Escalões de rendimento mensal corrigido per capita em função do Indexante dos apoios sociais», são calculados através da aplicação da seguinte fórmula: Rendimento mensal Corrigido per capita/IAS x 100 %;
+
+k) «Fator de capitação», a percentagem resultante da ponderação da composição do agregado familiar, de acordo com a tabela constante do anexo I à [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor;
+
+l) «Habitação social», unidade independente dos imóveis que integram o parque habitacional do Município, destinada a alojamento de agregados familiares carenciados;
+
+m) «Indexante dos apoios sociais» (IAS), o valor fixado nos termos da [Lei n.º 53-B/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-b-2006-197489), de 29 de dezembro, na sua redação em vigor;
+
+n) «Rendimento anual bruto corrigido» (RABC), o quantitativo que resulta da soma dos rendimentos anuais ilíquidos auferidos por todos os elementos do agregado familiar do arrendatário, corrigido pelos fatores previstos no artigo 4.º do [Decreto-Lei n.º 156/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2015-69977686), de 10 de agosto;
+
+o) «Rendimento mensal líquido» (RML), o duodécimo da soma dos rendimentos anuais líquidos de todos os membros do agregado familiar, sendo o rendimento anual líquido de cada membro obtido:
+
+i) Subtraindo ao rendimento global o valor da coleta líquida, nos termos do n.º 2 do artigo 3.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na redação conferida pela [Lei n.º 32/2016](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), de 24 de agosto; caso os rendimentos se reportem a período inferior a um ano, considera-se a proporção correspondente ao número de meses em causa;
+
+ii) Sendo zero o valor da coleta líquida ou não tendo legalmente havido lugar à entrega de declaração de rendimentos nos termos do Código do Imposto sobre o Rendimento de Pessoas Singulares, calculando o total dos rendimentos anuais auferidos, considerados nos termos do artigo 3.º do [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho, alterado pela [Lei n.º 15/2011](https://diariodarepublica.pt/dr/detalhe/lei/15-2011-287076), de 3 de maio, e pelos Decretos-Leis n.os [113/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2011-146061), de 29 de novembro, e [133/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), de 27 de junho; caso os rendimentos se reportem a período inferior a um ano, considera-se a proporção correspondente ao número de meses em causa;
+
+p) «Rendimento mensal corrigido» (RMC), o rendimento mensal líquido deduzido das quantias indicadas de seguida:
+
+i) 10 % do indexante dos apoios sociais pelo primeiro dependente;
+
+ii) 15 % do indexante dos apoios sociais pelo segundo dependente;
+
+iii) 20 % do indexante dos apoios sociais por cada dependente além do segundo;
+
+iv) 10 % do indexante dos apoios sociais por cada deficiente, que acresce aos anteriores se também couber na definição de dependente;
+
+v) 10 % do indexante dos apoios sociais por cada elemento do agregado familiar com idade igual ou superiora 65 anos;
+
+vi) 20 % do indexante dos apoios sociais em caso de família monoparental;
+
+vii) A quantia resultante da aplicação do fator de capitação, constante do anexo I à [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor, ao indexante dos apoios sociais.
+
+q) «Rendimento mensal corrigido per capita» (RO per capita) - é o quantitativo resultante da divisão do Rendimento Mensal Corrigido (RMC) pelo número de elementos do agregado familiar: Rendimento mensal corrigido/número de elementos do agregado = RO per capita;
+
+r) «Retribuição mínima nacional anual» (RMNA) - o valor da Retribuição Mínima Mensal Garantida (RMMG), a que se refere o n.º 1 do art. 273.º do Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual, multiplicado por 14 meses;
+
+s) «Retribuição mínima mensal garantida» (RMMG) - a que se refere o n.º 1 do art. 273.º do Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual.
+
+###### Artigo 4.º — Competência
+
+A gestão das habitações que integram o parque habitacional social do Município de Faro é da competência da Câmara Municipal, sem prejuízo dos poderes conferidos ao Presidente e Vereadores nos termos do presente Regulamento.
+
+### CAPÍTULO II — Atribuição de habitações
+
+#### SECÇÃO I — Regimes aplicáveis
+
+###### Artigo 5.º — Regime geral
+
+1 - A atribuição de habitações em regime de arrendamento apoiado efetua-se mediante procedimento de concurso por inscrição, nos termos previstos no presente Regulamento, sem prejuízo do disposto no artigo seguinte.
+
+2 - O concurso por inscrição tem por objeto a oferta das habitações que são identificadas, em cada momento, pelo Município de Faro para atribuição em regime de arrendamento apoiado aos candidatos que, de entre os que se encontram, à altura, inscritos em listagem própria, estejam melhor classificados, em função dos critérios de hierarquização e de ponderação estabelecidos no presente Regulamento.
+
+3 - Compete à Câmara Municipal a abertura do concurso por inscrição, a designação e constituição do júri, bem como, a homologação da lista de hierarquização das candidaturas.
+
+###### Artigo 6.º — Regime excecional
+
+1 - Têm acesso à atribuição de habitações em regime de arrendamento apoiado com dispensa do procedimento previsto no artigo anterior, os indivíduos e os agregados familiares que se encontrem em situação de necessidade habitacional urgente e ou temporária, designadamente, decorrente de:
+
+a) Desastres naturais e calamidades;
+
+b) Emergência social e outras situações de vulnerabilidade;
+
+c) Perigo físico ou moral para as pessoas, incluindo situações de violência doméstica;
+
+d) Necessidades de realojamento decorrentes de obras de interesse municipal; operações urbanísticas e risco de derrocada;
+
+e) Necessidades de realojamento específicas prosseguidas pelos Alojamentos de Apoio Temporário.
+
+2 - Nos casos previstos no número anterior não são aplicáveis as disposições do presente Regulamento que sejam incompatíveis com a natureza da situação.
+
+3 - As condições de adequação e de utilização das habitações são definidas em função da situação de necessidade habitacional que determina a respetiva atribuição.
+
+4 - Compete à Câmara Municipal a atribuição de habitação nos termos do presente artigo, sem prejuízo de, por motivos de urgência e não sendo possível reunir a Câmara Municipal, o Presidente decidir a atribuição de habitação, ficando tal ato sujeito a ratificação na primeira reunião realizada após a sua prática.
+
+#### SECÇÃO II — Acesso
+
+###### Artigo 7.º — Condições de acesso
+
+1 - Podem aceder à atribuição de habitações em regime de arrendamento apoiado os cidadãos que reúnam, cumulativamente, as seguintes condições:
+
+a) Idade igual ou superior a 18 anos, ou emancipados nos termos da legislação aplicável;
+
+b) Nacionalidade portuguesa, ou sendo de nacionalidade estrangeira detentores de títulos válidos de permanência no território nacional que reúnam as condições estabelecidas na [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor, e que não estejam em nenhuma das situações de impedimento previstas no artigo seguinte;
+
+c) Residência, em regime de permanência, há cinco ou mais anos no concelho de Faro;
+
+d) Recenseamento no concelho de Faro;
+
+e) Situação contributiva regularizada perante a Segurança Social;
+
+f) Situação regularizada relativamente a impostos devidos;
+
+g) Valor do Rendimento Mensal Corrigido per capita indexado ao IAS não superior aos seguintes valores:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/025000000/0417904193.pdf)
+
+h) Não estar abrangido por nenhuma das situações previstas no artigo seguinte.
+
+2 - A atribuição de uma habitação em regime de arrendamento apoiado confere ao Município de Faro o direito de aceder aos dados do arrendatário e dos membros do respetivo agregado familiar para fins de informação ou confirmação dos dados por eles declarados, nos termos da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor.
+
+###### Artigo 8.º — Impedimentos
+
+1 - Está impedido de tomar ou manter o arrendamento de uma habitação em regime de arrendamento apoiado quem se encontre numa das seguintes situações:
+
+a) Seja proprietário, comproprietário, usufrutuário, arrendatário ou detentor a outro título de prédio urbano ou fração autónoma de prédio urbano destinado a habitação, localizado no concelho de Faro ou em concelho limítrofe, desde que o imóvel seja adequado a satisfazer o fim habitacional do agregado e não constitua residência permanente de terceiros com direitos legais ou contratuais sobre o mesmo;
+
+b) Esteja a usufruir de apoios financeiros públicos para fins habitacionais ou seja titular, cônjuge ou unido de facto com o titular de uma habitação pública já atribuída, sem prejuízo do disposto no artigo 6.º;
+
+c) Tenha beneficiado de indemnização em alternativa à atribuição de uma habitação no âmbito de programas de realojamento;
+
+d) Esteja abrangido por uma das situações previstas no n.º 4.
+
+2 - As situações previstas nas alíneas a) e b) do número anterior podem não constituir impedimento se, até à data da celebração do contrato em regime de arrendamento apoiado, for feita prova da sua cessação.
+
+3 - No caso previsto na alínea a) do n.º 1, quando for invocado e comprovado que o prédio ou fração não está em condições de satisfazer o fim habitacional ou que o direito relativo ao mesmo é detido ou foi adquirido apenas em parte por membros do agregado familiar, cabe ao Município avaliar a situação e decidir sobre o acesso deste agregado à atribuição de habitação ou à manutenção do arrendamento, consoante for o caso.
+
+4 - Fica impedido de aceder a uma habitação no regime de arrendamento apoiado, por um período de dois anos:
+
+a) O candidato ou arrendatário que, para efeito, respetivamente, de atribuição ou manutenção de uma habitação em regime de arrendamento apoiado, utilize meios fraudulentos, proceda à prestação culposa de declarações falsas ou à omissão dolosa de informação relevante;
+
+b) O arrendatário ou o elemento do agregado familiar do arrendatário que ceda a habitação a terceiros a qualquer título, total ou parcialmente, de forma gratuita ou onerosa.
+
+5 - O arrendatário deve comunicar ao Município de Faro a existência de uma situação de impedimento, no seu caso ou no de qualquer membro do respetivo agregado familiar, no prazo máximo de 30 dias a contar da data da ocorrência.
+
+###### Artigo 9.º — Adequação das habitações
+
+1 - A habitação a atribuir em regime de arrendamento apoiado deve ser de tipologia adequada à composição do agregado familiar, por forma a evitar situações de sobreocupação ou de subocupação, não podendo ser atribuída mais do que uma habitação por agregado.
+
+2 - A adequação da habitação é verificada pela relação entre a tipologia e a composição do agregado familiar de acordo com a seguinte tabela:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/025000000/0417904193.pdf)
+
+#### SECÇÃO III — Procedimento de atribuição
+
+##### SUBSECÇÃO I — Candidatura
+
+###### Artigo 10.º — Anúncio
+
+1 - O anúncio do concurso por inscrição para efeitos de atribuição de habitações em regime de arrendamento apoiado deve conter a identificação das habitações objeto da oferta, bem como os atos e formalidades a que o mesmo obedece, devendo constar do mesmo a seguinte informação:
+
+a) Identificação do procedimento de concurso por inscrição para efeitos de atribuição de habitações em regime de arrendamento apoiado;
+
+b) Condições de inscrição, designadamente, local e forma de proceder à apresentação da candidatura por inscrição;
+
+c) Critérios de acesso e situações de impedimento;
+
+d) Classificação e critérios de desempate;
+
+e) Local e forma de divulgação da lista de hierarquização das candidaturas homologada.
+
+2 - O anúncio do concurso por inscrição a que se refere o número anterior é publicitado no sítio da Internet da Câmara Municipal de Faro e pelos meios considerados mais adequados, podendo ainda ser publicitado mediante afixação no prédio em que a habitação se integra.
+
+3 - A publicitação do concurso por inscrição deve ocorrer, preferencialmente, no mês de novembro.
+
+###### Artigo 11.º — Apresentação da candidatura
+
+1 - A candidatura para aceder à atribuição de habitação em regime de arrendamento apoiado deve ser apresentada através de formulário, em modelo próprio, disponível no sítio da Internet da Câmara Municipal de Faro, devidamente preenchido e acompanhado dos seguintes elementos instrutórios:
+
+a) Fotocópia do cartão de cidadão ou do bilhete de identidade e do cartão de contribuinte fiscal do candidato e de todos os elementos do agregado familiar;
+
+b) Fotocópia do documento de identificação civil, designadamente, cartão de cidadão estrangeiro, título de autorização de residência e passaporte, de todos os elementos do agregado familiar, relativamente a cidadãos estrangeiros;
+
+c) Documentos adequados a demonstrar inequivocamente a residência há cinco ou mais anos no concelho de Faro, designadamente, fotocópia de contrato de arrendamento, recibos de água ou eletricidade;
+
+d) Fotocópia da última declaração de IRS, acompanhada da respetiva nota de liquidação ou cobrança, de todos os elementos do agregado familiar;
+
+e) Nos casos da não obrigatoriedade de entrega de declaração de IRS, deve ser apresentada certidão negativa emitida pelo Serviço de Finanças;
+
+f) Comprovativos da situação profissional de todos os elementos do agregado familiar:
+
+i) Em caso de trabalhadores dependentes, fotocópia do respetivo recibo de vencimento atualizado;
+
+ii) Em caso de trabalhadores independentes, fotocópia de todos os recibos emitidos nos últimos três meses, devendo justificar-se eventuais falhas na sequência numérica dos mesmos;
+
+iii) Em caso de bolseiros, declaração da entidade subsidiária indicando o valor mensal da bolsa, bem como a data do início e fim da atribuição.
+
+g) Declaração da Segurança Social ou de outra entidade competente, comprovativa do tipo de pensões e subsídios auferidos pelos elementos do agregado e respetivos montantes mensais ou anuais, designadamente, de velhice, invalidez, sobrevivência, complemento solidário para idosos, complemento de assistência a terceira pessoa, complemento por cônjuge a cargo, subsídio mensal vitalício, subsídio de doença e pensão de alimentos mediante fundo de garantia;
+
+h) Em caso de desemprego, declaração da Segurança Social indicando o montante mensal respeitante a subsídio de desemprego ou subsídio social de desemprego;
+
+i) Em caso de menores sob tutela judicial, comprovativo da regulação do poder paternal;
+
+j) Em situação de família monoparental:
+
+i) Documento comprovativo do valor da pensão de alimentos dos menores, designadamente, ata de conferência dos progenitores ou, caso seja definido por mútuo acordo, declaração a confirmar o montante recebido;
+
+ii) Em caso de não receção da pensão de alimentos dos menores, comprovativo da ação de incumprimento de pensão de alimentos ou comprovativo de abertura de processo de regulação paternal.
+
+k) Em caso de algum elemento do agregado familiar ser portador de deficiência, declaração da Segurança Social ou de outra entidade competente, comprovativa do tipo de subsídio auferido e respetivo montante mensal ou anual;
+
+l) Em caso de algum elemento do agregado familiar possuir grau de incapacidade igual ou superior a 60 %, respetivo atestado médico de incapacidade multiúso;
+
+m) Em caso de vítimas de violência doméstica, documento comprovativo da atribuição do estatuto de vítima emitido pelas autoridades competentes;
+
+n) Certidão atualizada, emitida pelo Serviço de Finanças, comprovativa da inexistência de bens imóveis em nome do requerente e dos demais elementos do agregado familiar;
+
+o) Comprovativo da situação regularizada perante a administração fiscal ou autorização para a sua consulta online pelo Município de Faro;
+
+p) Comprovativo da situação regularizada perante a Segurança Social ou autorização para a sua consulta online pelo Município de Faro;
+
+q) Em caso de arrendamento, último recibo de renda devidamente assinado, datado e numerado.
+
+2 - A junção pelo requerente da reprodução do cartão de cidadão ou do bilhete de identidade nos termos do número anterior não é obrigatória, podendo, em alternativa, a identidade do respetivo titular ser objeto de conferência pelos Serviços no ato de apresentação da candidatura, mediante exibição do respetivo documento.
+
+3 - Sempre que a candidatura seja instruída com fotocópia do cartão de cidadão ou do bilhete de identidade, presume-se o consentimento do respetivo titular.
+
+4 - Para efeitos de instrução do pedido, no respeitante ao Rendimento Social de Inserção, o Município acede à informação necessária ao processo em sede de Núcleo Local de Inserção, nomeadamente, quanto ao montante mensal auferido e composição do agregado familiar beneficiário.
+
+###### Artigo 12.º — Saneamento e apreciação liminar
+
+1 - Após receção da candidatura para aceder à atribuição de habitação em regime de arrendamento apoiado, os serviços municipais procedem à sua apreciação liminar.
+
+2 - Os serviços municipais podem, a todo o tempo, solicitar documentos ou esclarecimentos complementares, bem como a apresentação de elementos instrutórios em falta.
+
+3 - A notificação a que se refere o número anterior deve ser efetuada por carta registada, dirigida para o domicílio do notificando ou, no caso deste o ter escolhido para o efeito, para outro domicílio por si indicado, fixando o prazo de 10 dias para apresentação dos esclarecimentos complementares ou documentos solicitados.
+
+4 - Os dados constantes do formulário de candidatura podem, a todo o tempo, ser confirmados pelos serviços municipais junto de entidade competente, pública ou privada.
+
+5 - Caso se considere adequado para a análise do pedido, pode ser agendado atendimento com o candidato e ou agregado familiar para recolha de informação em falta, bem como visita domiciliária para análise da situação habitacional.
+
+6 - É liminarmente rejeitada a candidatura sempre que se verifique uma das seguintes situações:
+
+a) A candidatura seja ininteligível;
+
+b) O candidato, após notificação para o efeito, não apresente os esclarecimentos complementares ou documentos solicitados nos termos do n.º 3.
+
+7 - Os candidatos devem ser notificados da rejeição liminar da candidatura e respetivos fundamentos através de carta registada ou, se forem em tal número que torne inconveniente outra forma de notificação, através de edital.
+
+###### Artigo 13.º — Indeferimento
+
+1 - A candidatura é indeferida sempre não sejam cumulativamente reunidas as condições de acesso previstas no artigo 7.º do presente Regulamento.
+
+2 - A decisão de indeferimento deve ser antecedida de audiência dos interessados, que dispõem do prazo de 10 dias, a contar da data da respetiva notificação, para se pronunciarem sobre o conteúdo da mesma.
+
+###### Artigo 14.º — Exclusão
+
+1 - A prestação de falsas declarações, a omissão dolosa de informação ou a utilização de meio fraudulento por parte dos candidatos, no âmbito ou para efeito do procedimento de atribuição de uma habitação, determina a exclusão da candidatura ou o cancelamento da inscrição, sem prejuízo de outras sanções legalmente aplicáveis.
+
+2 - Sem prejuízo do disposto no número anterior, os candidatos ficam ainda impedidos de apresentar, no prazo de 2 anos, novo pedido de candidatura para aceder à atribuição de habitação em regime de arrendamento apoiado no Município de Faro.
+
+##### SUBSECÇÃO II — Classificação
+
+###### Artigo 15.º — Classificação e critérios de desempate
+
+1 - Às candidaturas que não sejam objeto de rejeição liminar ou indeferimento nos termos dos artigos anteriores, é aplicada a seguinte matriz de classificação:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2018/02/025000000/0417904193.pdf)
+
+2 - Da aplicação da matriz de classificação resulta uma pontuação dos candidatos ordenada por ordem decrescente.
+
+3 - Em caso de empate na classificação final ou inexistência de habitações em número suficiente para os candidatos com a mesma classificação, o desempate é efetuado de acordo com os seguintes critérios de prioridade e por ordem decrescente:
+
+a) Número de elementos com doença ou deficiência com grau comprovado de incapacidade igual ou superior a 60 %;
+
+b) Agregado com rendimentos mensal corrigido per capita inferior;
+
+c) Número de menores no agregado;
+
+d) Número de elementos no agregado com idade igual ou superior a 65 anos;
+
+e) Vítimas de violência doméstica;
+
+f) Data de entrada do pedido.
+
+###### Artigo 16.º — Lista de hierarquização das candidaturas
+
+1 - Os candidatos têm o direito de ser ouvidos no procedimento antes de ser tomada a decisão final, nos termos dos artigos 121.º e 122.º do Código do Procedimento Administrativo, dispondo do prazo de 10 dias úteis para, querendo, dizerem o que se lhes oferecer, por escrito, sobre a classificação obtida em resultado da aplicação da matriz de classificação.
+
+2 - Para efeitos do disposto no número anterior será elaborada uma listagem de hierarquização das candidaturas, composta pelas candidaturas admitidas, respetiva priorização por ordem decrescente de acordo com a classificação final obtida, com aplicação de critérios de desempate se necessário e indicação das tipologias adequadas a cada agregado familiar nos termos do artigo 9.º do presente Regulamento.
+
+3 - Após análise das questões suscitadas em sede de audiência dos interessados, a proposta de classificação definitiva é submetida a homologação da Câmara Municipal.
+
+4 - A lista de hierarquização das candidaturas homologada visa a afetação das habitações de acordo com o posicionamento existente, sempre que se verifique a existência de pelo menos uma habitação devoluta em condições de ser atribuída, e é publicitada no sítio da internet da Câmara Municipal de Faro, sem prejuízo da proteção de dados pessoais ao abrigo da lei, mediante a identificação das candidaturas por número de processo.
+
+5 - Em situações excecionais, as habitações identificadas no anúncio de abertura do procedimento de concurso por inscrição podem ser atribuídas a indivíduos ou agregados familiares que se encontrem em situação de necessidade habitacional urgente e ou temporária, nos termos do artigo 6.º do presente Regulamento.
+
+###### Artigo 17.º — Validade e renovação das candidaturas
+
+1 - As candidaturas admitidas são válidas pelo período de um ano, a contar da data de homologação da lista de hierarquização.
+
+2 - Decorrido o prazo previsto no número anterior, caso não seja despoletado novo concurso por inscrição, os candidatos incluídos em lista de hierarquização homologada podem, sob pena de caducidade, proceder à renovação da respetiva candidatura para atribuição de habitação em regime de arrendamento apoiado, através de formulário próprio a disponibilizar no sítio da Internet da Câmara Municipal de Faro, até 15 dias antes do término do prazo de validade da candidatura.
+
+3 - No caso previsto no número anterior, são utilizados no novo processo os elementos que instruíram o processo anterior desde que não existam alterações de facto e de direito que justifiquem nova apresentação.
+
+4 - Os serviços municipais podem, a todo o tempo, solicitar documentos ou esclarecimentos complementares, bem como a apresentação de elementos instrutórios tidos por convenientes.
+
+5 - O procedimento de renovação obedece aos trâmites previstos no presente Regulamento para o procedimento inicial, com as necessárias adaptações.
+
+##### SUBSECÇÃO III — Formalização
+
+###### Artigo 18.º — Formalização da atribuição de habitação
+
+1 - Sempre que se verifique a existência de habitações em condições de atribuição, os candidatos melhor posicionados na lista de hierarquização das candidaturas homologada, em função da tipologia da habitação, são notificados através de carta registada para no prazo de 10 dias úteis procederem à aceitação da habitação atribuída em regime de arrendamento apoiado, sem prejuízo do disposto no número seguinte.
+
+2 - Ocorrendo a aceitação prevista no número anterior, devem os serviços solicitar ao candidato os documentos instrutórios da respetiva candidatura que já não se encontrem válidos.
+
+3 - A constatação da violação das condições de acesso previstas no artigo 7.º ou de qualquer das situações de impedimento constantes do artigo 8.º determina a não atribuição de habitação em regime de arrendamento apoiado.
+
+4 - A atribuição da habitação deve ser formalizada mediante a celebração de contrato de arrendamento apoiado, por escrito, nos termos previstos no artigo 20.º do presente Regulamento, conjugado com o artigo 17.º e seguintes da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor, em triplicado, ficando um exemplar para cada uma das partes e outro depositado no Departamento de Administração e Finanças.
+
+5 - Em casos excecionais devidamente fundamentados, a Câmara Municipal pode autorizar a atribuição de habitação social através da celebração de contrato de comodato, nos termos do artigo 1129.º do Código Civil.
+
+###### Artigo 19.º — Desistência da habitação atribuída
+
+1 - São considerados desistentes os interessados que:
+
+a) Após a notificação nos termos do n.º 1 do artigo anterior, não informem o Município da aceitação da habitação atribuída em regime de arrendamento apoiado, no prazo fixado;
+
+b) Recusem ou manifestem o seu desinteresse pela habitação atribuída.
+
+2 - A recusa ou desinteresse devem ser manifestados por escrito, através de requerimento dirigido ao Presidente da Câmara Municipal, para junção ao respetivo processo.
+
+3 - A desistência da habitação atribuída determina a exclusão da lista de hierarquização homologada.
+
+4 - Em caso de desistência, procede-se à atribuição da habitação em regime de arrendamento apoiado ao candidato imediatamente seguinte na lista de hierarquização homologada.
+
+###### Artigo 20.º — Contrato de arrendamento apoiado
+
+1 - A atribuição de habitação nos termos do presente Regulamento formaliza-se mediante a celebração de contrato de arrendamento apoiado para habitação, por escrito, sempre que possível através de documento eletrónico com assinatura eletrónica qualificada, sem prejuízo de qualquer outro regime previsto na lei.
+
+2 - Compete ao Presidente da Câmara Municipal a celebração de contrato de arrendamento apoiado, conforme minuta aprovada pela Câmara Municipal, devendo ser dado conhecimento ao órgão executivo dos contratos celebrados.
+
+3 - O contrato de arrendamento destina-se à habitação permanente e exclusiva do arrendatário e respetivo agregado familiar, e deve conter pelo menos, as seguintes menções:
+
+a) O regime legal do arrendamento;
+
+b) A identificação do senhorio/Município;
+
+c) A identificação do arrendatário ou arrendatários e de todos os elementos do agregado familiar;
+
+d) A identificação e a localização do locado;
+
+e) O prazo do arrendamento;
+
+f) O valor da renda inicial e a forma de atualização e de revisão da mesma;
+
+g) O tempo, o lugar e a forma de pagamento da renda;
+
+h) A periodicidade da apresentação da declaração de rendimentos do agregado familiar, que não pode ser superior a três anos.
+
+4 - O contrato de arrendamento é celebrado pelo prazo de 10 anos, considerando-se reduzido a este limite quando for estipulado um período superior.
+
+5 - Findo o prazo previsto no número anterior, se nenhuma das partes se tiver oposto à sua renovação mediante comunicação enviada à contraparte com antecedência de 180 dias, o contrato renova-se, automaticamente, por igual período.
+
+6 - Constitui fundamento para a não renovação do contrato o não cumprimento das condições de atribuição de habitação previstas no presente Regulamento.
+
+### CAPÍTULO III — Gestão do parque habitacional municipal
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 21.º — Âmbito
+
+1 - Os titulares do direito de ocupação das habitações que integram o parque habitacional social do Município de Faro, bem como os elementos do respetivo agregado familiar, ficam sujeitos ao cumprimento do disposto no presente Capítulo.
+
+2 - O disposto no presente Capítulo aplica-se ainda, com as devidas adaptações, aos proprietários de habitações em edifícios constituídos em propriedade horizontal que integram o parque habitacional social do Município de Faro.
+
+###### Artigo 22.º — Fim das habitações
+
+1 - Os edifícios ou frações autónomas que integram o parque habitacional social do Município de Faro destinam-se exclusivamente a residência permanente dos agregados familiares aos quais são atribuídos, não sendo permitido uso diverso daquele a que se destina.
+
+2 - Não é permitido aos moradores exercerem qualquer tipo de atividade comercial ou industrial nos edifícios ou frações autónomas que integram o parque habitacional social do Município de Faro, salvo o disposto no número seguinte.
+
+3 - Admite-se o exercício de indústria doméstica nos edifícios ou frações autónomas que integram o parque habitacional social do Município, desde que previamente autorizado pelo Presidente da Câmara Municipal ou Vereador com poderes delegados, e preenchidos os seguintes requisitos cumulativos:
+
+a) Da atividade não resultar qualquer prejuízo ou incómodo para os restantes moradores;
+
+b) Da atividade depender, de algum modo, a subsistência do agregado familiar.
+
+4 - É havida como doméstica a indústria explorada na habitação do arrendatário que não ocupe mais de três auxiliares assalariados.
+
+#### SECÇÃO II — Renda
+
+###### Artigo 23.º — Valor da renda
+
+1 - O valor da renda em regime de arrendamento apoiado é, nos termos da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor, determinado pela aplicação de uma taxa de esforço ao rendimento mensal corrigido do agregado familiar, sendo a taxa de esforço (T) o valor, arredondado à milésima, que resulta da seguinte fórmula:
+
+T = 0,067 x (RMC/IAS)
+
+em que:
+
+T = taxa de esforço;
+
+RMC = rendimento mensal corrigido do agregado familiar;
+
+IAS = indexante dos apoios sociais.
+
+2 - A taxa de esforço máxima não pode ser superior a 23 % do rendimento mensal corrigido do agregado familiar do arrendatário.
+
+3 - A renda em regime de arrendamento apoiado não pode ser de valor inferior a 1 % do indexante dos apoios sociais (IAS) vigente em cada momento.
+
+4 - A renda máxima em regime de arrendamento apoiado é a renda máxima aplicável aos contratos de arrendamento para fim habitacional em regime de renda condicionada.
+
+###### Artigo 24.º — Vencimento e pagamento da renda
+
+1 - A primeira renda vence-se no primeiro dia útil do mês a que respeita, vencendo-se cada uma das restantes no primeiro dia útil de cada mês subsequente.
+
+2 - O pagamento da renda deve ser efetuado no dia do seu vencimento e no lugar e pela forma estabelecidos no contrato, não havendo lugar a qualquer penalização caso o pagamento seja efetuado até ao dia 15 do mês a que respeita.
+
+3 - Constituindo-se o arrendatário em mora, o Município tem o direito de exigir, além das rendas em atraso, uma indemnização igual a 50 % do que for devido, salvo se o contrato for resolvido com base na falta de pagamento.
+
+4 - Cessa o direito à indemnização ou à resolução do contrato se o arrendatário fizer cessar a mora no prazo de 15 dias a contar do seu começo.
+
+5 - Enquanto não forem cumpridas as obrigações previstas no n.º 3, o Município tem o direito de recusar o recebimento das rendas seguintes, as quais são consideradas em dívida para todos os efeitos.
+
+6 - A receção de novas rendas não priva o Município do direito à resolução do contrato ou à indemnização referida, com base nas prestações em mora.
+
+7 - Em caso de mora, existindo situação de carência socioeconómica do agregado familiar, pode o arrendatário, mediante requerimento escrito para o efeito, propor-se regularizar as rendas em falta, bem como a indemnização que seja devida, através do cumprimento de um plano de pagamentos.
+
+8 - O requerimento do arrendatário previsto no número anterior deve ser objeto de decisão pelo Presidente da Câmara Municipal ou Vereador com poderes delegados, no prazo máximo de 10 dias, a contar da data da sua apresentação.
+
+9 - Em caso de deferimento, o Município de Faro comunica ao arrendatário o valor das prestações, cujo pagamento, mensal e sucessivo, será devido no mês imediatamente subsequente ao da data da receção da comunicação.
+
+10 - O pagamento de cada uma das prestações deve ser efetuado conjuntamente com o pagamento da renda mensal devida, sendo que a falta de realização de uma das prestações importa o vencimento de todas, nos termos previstos no artigo 781.º do Código Civil.
+
+###### Artigo 25.º — Atualização e revisão da renda
+
+1 - A renda é atualizada anualmente de acordo com os coeficientes de atualização legais, sendo que a primeira terá lugar decorrido um ano do início de vigência do contrato e as seguintes, sucessivamente, um ano após a atualização anterior, a qual será comunicada ao arrendatário por correio registado, com uma antecedência mínima de 30 dias.
+
+2 - Além da atualização anual prevista no número anterior, há lugar a revisão da renda a pedido do arrendatário nas situações de:
+
+a) Alteração na composição ou nos rendimentos do agregado familiar, devendo o arrendatário comunicar o facto ao Município de Faro no prazo máximo de 30 dias a contar da data da ocorrência;
+
+b) Aplicação da correção prevista na alínea g) do artigo 3.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor, em caso de superveniência de situações de incapacidade igual ou superior a 60 % ou de idade igual ou superior a 65 anos relativas a qualquer elemento do agregado familiar.
+
+3 - A revisão da renda por iniciativa do Município de Faro com os fundamentos indicados no número anterior pode ocorrer a todo o tempo.
+
+4 - A reavaliação pelo Município de Faro das circunstâncias que determinam o valor da renda realiza-se, no mínimo, a cada 3 anos.
+
+5 - No âmbito de qualquer dos processos de revisão de renda, o arrendatário deve entregar ao Município de Faro os elementos que este solicite e se mostrem adequados e necessários à verificação das circunstâncias que determinam a revisão da renda, no prazo máximo de 30 dias a contar da correspondente notificação.
+
+6 - A apresentação mencionada no número anterior pode ser dispensada relativamente a documentos administrativos, desde que o arrendatário preste o seu consentimento para que estes possam ser consultados, nos termos do artigo 28.º-A do [Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de abril, na redação que lhe foi dada pelo [Decreto-Lei n.º 73/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2014-25343691), de 13 de maio.
+
+7 - A renda atualizada ou revista nos termos dos números anteriores é devida no segundo mês subsequente ao da data da receção, pelo arrendatário, da comunicação do Município de Faro com o respetivo valor.
+
+8 - Quando da revisão da renda resulte o seu aumento e as comunicações do arrendatário tenham sido realizadas fora dos prazos previstos no n.º 2 ou no n.º 5, o Município pode exigir-lhe o pagamento do montante correspondente a 1,25 vezes a diferença entre a renda paga e a renda que seria devida desde a data da alteração.
+
+###### Artigo 26.º — Prova de rendimentos
+
+1 - Para efeitos do disposto na alínea a) do n.º 2 e n.º 5 do artigo anterior, compete ao arrendatário providenciar, no prazo fixado para o efeito, à entrega de declaração de rendimentos do agregado familiar ao Município de Faro.
+
+2 - A falta de entrega da declaração ou falsas declarações determina a imediata aplicação da renda máxima aplicável aos contratos de arrendamento para fim habitacional em regime de renda condicionada, constituindo simultaneamente fundamento de resolução do contrato de arrendamento apoiado pelo Município de Faro nos termos da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor.
+
+3 - O disposto no número anterior não prejudica, nos termos da lei geral, a eventual responsabilidade criminal do declarante.
+
+###### Artigo 27.º — Instrução e atualização dos processos
+
+1 - Compete aos serviços do Município de Faro organizar os processos administrativos tendentes à determinação do montante da renda.
+
+2 - O Município de Faro pode a todo o tempo, solicitar aos arrendatários quaisquer documentos e esclarecimentos que considere necessários para a instrução e ou atualização dos respetivos processos, fixando-lhes um prazo de resposta, sendo que o incumprimento injustificado determina a imediata aplicação da renda máxima aplicável aos contratos de arrendamento para fim habitacional em regime de renda condicionada.
+
+#### SECÇÃO III — Proibições, obrigações e direitos
+
+###### Artigo 28.º — Proibições
+
+1 - É expressamente proibido aos arrendatários de habitações sociais ou a qualquer dos elementos do seu agregado familiar, a prática dos seguintes atos:
+
+a) Destinar, no todo ou em parte, a habitação a uso diverso daquele a que se destina, ou nela realizar quaisquer atividades ilegais e imorais ou suscetíveis de perturbar a normal utilização das frações, a tranquilidade ou os bons costumes;
+
+b) Qualquer forma de cedência, total ou parcial, temporária ou permanente, onerosa ou gratuita, do gozo da habitação, designadamente, a cessão da posição contratual, o subarrendamento, a hospedagem ou o comodato;
+
+c) Danificar o imóvel por falta de reparação atempada dos seus componentes, por negligência ou uso indevido ou ainda por introdução de alterações que atinjam a segurança, a conceção arquitetónica e a estética do edificado;
+
+d) Utilizar a sanita e os lava-loiças para despejos, devendo ser colocados no recipiente do lixo todos os detritos não solúveis, designadamente, pensos, cabelos e restos de comida;
+
+e) Deitar na cuba dos lava-loiças substâncias que possam obstruir ou deteriorar as canalizações, designadamente, óleo e azeite;
+
+f) Abrir as tampas protetoras das caixas de derivação, retirar tomadas e ou os interruptores;
+
+g) Promover danças, cantares, celebrações de cultos, músicas e outro tipo de ruídos incomodativos na habitação, bem como, nas partes comuns ou zonas coletivas exteriores ao edifício, que perturbem a tranquilidade e sossego dos vizinhos no período compreendido entre as 22h00 e as 8h00;
+
+h) Perturbar os restantes moradores com ruídos derivados da má regulação da televisão e do rádio, bem como do funcionamento de outros utensílios domésticos;
+
+i) Instalar motores, máquinas ou aparelhagens normalmente desnecessárias ao uso a que a fração se destina e que perturbem a tranquilidade e a saúde dos moradores, contribuindo para a diminuição da sua qualidade de vida;
+
+j) Estacionar veículos de locomoção e de transportes próprios nas zonas comuns dos edifícios, designadamente, pátios, corredores de acesso às habitações, escadas e zonas exteriores não autorizadas para o efeito, sendo que o período de estacionamento nos locais autorizados nunca poderá ultrapassar as 48 horas;
+
+k) Alojar, de forma permanente ou temporária, nas habitações sociais e ou nos respetivos espaços comuns, animais perigosos e potencialmente perigosos nos termos do [Decreto-Lei n.º 315/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), de 29 de outubro, na sua redação em vigor;
+
+l) Possuir animais sem estarem devidamente legalizados e ou em número superior ao permitido por lei;
+
+m) Possuir animais de companhia que, pelo seu comportamento ruidoso, falta de higiene e de cuidados veterinários, bem como perigosidade, ponham em causa a saúde e a segurança públicas ou sejam motivo de incómodo para os vizinhos;
+
+n) Pendurar roupa para secar fora dos locais destinados para esse efeito;
+
+o) Lavar veículos de locomoção e de transporte próprio, carpetes, tapetes, cortinados e objetos de médio e grande porte, nos pátios e terraços comuns e zonas exteriores circundantes;
+
+p) Depositar lixo fora dos locais destinados ao efeito;
+
+q) Depositar alimentos destinados a animais nas zonas comuns;
+
+r) Regar ou deitar água e outros líquidos, despejar lixo ou outros dejetos para o exterior, de forma a conspurcar paredes, janelas, roupas, veículos e objetos;
+
+s) Armazenar ou guardar na habitação, produtos explosivos, inflamáveis ou armamento não autorizado;
+
+t) Provocar fumos, fuligens, vapores, calor ou cheiros que possam perturbar os vizinhos;
+
+u) Ocupar os espaços comuns, escadas e átrios dos edifícios com objetos pessoais;
+
+v) Colocar nas janelas quaisquer objetos, incluindo estendais, com exceção de vasos de flores ou objetos de adorno desde que devidamente protegidos contra queda;
+
+w) Instalar marquises ou alterar o arranjo estético do edifício, designadamente, com a colocação de antenas parabólicas e aparelhos de ar condicionado.
+
+2 - As obrigações constantes no número anterior aplicam-se, com as devidas adaptações, aos proprietários das habitações sociais.
+
+###### Artigo 29.º — Obrigações do Município
+
+O Município, enquanto entidade locadora, está vinculado ao cumprimento das seguintes obrigações:
+
+a) Reger-se pelo princípio da igualdade, não podendo privilegiar, beneficiar, prejudicar, privar de qualquer direito ou isentar de qualquer dever nenhum arrendatário ou candidato ao arrendamento público em razão de ascendência, sexo, etnia, língua, território de origem, religião, orientação sexual, deficiência ou doença, convicções políticas ou ideológicas, instrução ou condição social;
+
+b) Prestar aos arrendatários e candidatos ao arrendamento público as informações e os esclarecimentos de que careçam e apoiar e estimular as suas iniciativas e receber as suas sugestões e informações;
+
+c) Assegurar a realização de obras de conservação, reabilitação e beneficiação dos edifícios e frações, no que diz respeito às partes de uso privativo e de uso comum, pelo menos uma vez em cada período de oito anos e sempre que se verifique a sua necessidade, assumindo os encargos correspondentes;
+
+d) Garantir a manutenção das condições de segurança, salubridade, conforto e arranjo estético dos edifícios e das habitações;
+
+e) Assumir os encargos e despesas referentes à administração, conservação e fruição das partes comuns do edifício, bem como o pagamento de serviços de interesse comum, sem prejuízo da partilha de responsabilidades e encargos, nos termos da lei, quando haja condomínios constituídos;
+
+f) Assegurar a realização de vistorias para deteção de situações de degradação e insegurança dos edifícios e frações, nomeadamente em relação às redes de gás, água e eletricidade, aos ascensores e aos equipamentos eletromecânicos, bem como realizar vistorias a pedido dos arrendatários ou sempre que estejam em causa as condições de segurança, salubridade e conforto das habitações;
+
+g) Promover a qualidade dos conjuntos habitacionais do ponto de vista ambiental, social e cultural;
+
+h) Promover a constituição e o bom funcionamento de condomínios sempre que houver mais do que um proprietário no mesmo edifício;
+
+i) Promover a participação organizada dos arrendatários na administração, conservação, fruição e gestão das partes comuns do edifício, através, por exemplo, de comissões de lote.
+
+###### Artigo 30.º — Direitos dos arrendatários
+
+Os arrendatários de habitações sociais têm direito a:
+
+a) Fruir e utilizar a habitação para os fins a que esta se destina;
+
+b) Fazer uso dos espaços de utilização comum, aplicando-os às finalidades a que os mesmos se destinam;
+
+c) Exercer o direito de preferência em caso de venda da fração por si habitada;
+
+d) Requerer a revisão da renda nas condições previstas no presente Regulamento;
+
+e) Solicitar a transmissão do direito à habitação nas condições previstas no presente Regulamento;
+
+f) Solicitar a transferência da habitação nas condições previstas no presente Regulamento;
+
+g) Solicitar por escrito, ao Município de Faro, a realização de obras de conservação que se mostrem necessárias para assegurar o gozo da habitação para os fins a que a mesma se destina, desde que aquelas não resultem de uma utilização descuidada da habitação;
+
+h) Solicitar informações aos serviços competentes do Município de Faro;
+
+i) Reclamar de atos ou omissões que considerem lesivos dos seus interesses;
+
+j) Apresentar sugestões que visem a melhoria do funcionamento dos serviços do Município de Faro e ou a implementação de medidas que permitam um aumento da qualidade de vida no seu bairro;
+
+k) Constituir uma organização de moradores, como instrumento de reivindicação dos interesses comuns conforme previsto nos artigos 263.º a 265.º da Constituição da República Portuguesa.
+
+###### Artigo 31.º — Obrigações dos arrendatários
+
+1 - Sem prejuízo das demais obrigações previstas na lei, no presente Regulamento e no respetivo contrato de arrendamento apoiado, os arrendatários devem:
+
+a) Efetuar as comunicações e prestar as informações ao Município de Faro obrigatórias nos termos da lei e do presente Regulamento, designadamente, as relativas a impedimentos e à composição e rendimentos do agregado familiar;
+
+b) Utilizar a habitação em permanência, não se ausentando, nem o próprio nem o seu agregado familiar, por um período seguido superior a 6 meses, exceto nos casos previstos no n.º 2 do artigo 24.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor, comunicados e comprovados, por escrito, junto do Município de Faro, no prazo máximo de 6 meses a contar do início do facto que determinou a situação de ausência;
+
+c) Avisar imediatamente o Município de Faro sempre que tenha conhecimento de qualquer facto ou ato relacionado com a habitação suscetível de causar danos à mesma e ou de pôr em perigo pessoas ou bens;
+
+d) Não realizar quaisquer obras ou alterar as características da habitação, sem prévia autorização escrita do Município;
+
+e) Pagar a renda, no montante, prazo e local previstos no contrato;
+
+f) Manter o fogo habitacional, as áreas de utilização comum e todas as demais estruturas e equipamentos públicos associados à habitação, em bom estado de conservação e limpeza, fazendo uma utilização cuidada dos mesmos, ressalvando-se o desgaste de um uso normal e prudente;
+
+g) Conservar as instalações de luz elétrica, água, gás, esgotos e todas as canalizações, sendo da sua responsabilidade o pagamento das reparações sempre que se verifique uma má utilização das mesmas;
+
+h) Limpar regularmente os sifões;
+
+i) Fechar imediatamente a torneira de segurança, sempre que detetar qualquer fuga de água;
+
+j) Fechar a torneira de segurança, sempre que se ausente de casa por mais de 48 horas;
+
+k) Cortar totalmente a energia elétrica no quadro geral, antes de qualquer intervenção na sua instalação;
+
+l) Promover a instalação dos contadores de água, gás e eletricidade na habitação, sendo da sua responsabilidade o pagamento das despesas e encargos decorrentes dos respetivos contratos de fornecimento;
+
+m) Assumir os encargos com as pequenas obras necessárias à manutenção do fogo, designadamente, substituição de torneiras, loiças sanitárias, pavimentos, persianas, autoclismos e realização de pinturas;
+
+n) Não permitir a permanência ou coabitação na habitação, por período superior a um mês, de pessoa que não pertença ao agregado familiar sem autorização prévia do Município de Faro;
+
+o) Indemnizar o Município de Faro, das despesas por este efetuadas com a realização das obras necessárias para a reposição da habitação nas condições iniciais, acrescidas de 25 % sempre que, aquando do acesso à habitação pelo Município subsequente a qualquer caso de cessação do contrato, houver evidência de danos na habitação, de realização de obras não autorizadas ou de não realização de obras exigidas ao arrendatário, nos termos da lei ou do contrato;
+
+p) Responsabilizar-se pelas perdas e danos que advierem da violação das disposições do presente Regulamento;
+
+q) Responsabilizar-se pelas perdas e danos provocados por pessoal que esteja a prestar qualquer tipo de serviços e em qualquer circunstância;
+
+r) Facultar, sempre que for solicitado, a visita ou inspeção ao fogo e colaborar com a aplicação de estudos e inquéritos que os serviços técnicos do Município de Faro possam vir a realizar;
+
+s) Restituir a habitação, findo o contrato, no estado em que a recebeu e sem quaisquer deteriorações, salvo as inerentes a uma prudente utilização em conformidade com o fim do contrato e sem prejuízo do pagamento de danos, caso se verifiquem, nos termos do artigo 27.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor;
+
+t) Proceder por ordem do Município à demolição das obras ou à remoção das instalações efetuadas sem competente autorização.
+
+2 - As obras e benfeitorias efetuadas na habitação incorporam aquela, não podendo ser levantadas, e não dão direito a qualquer indemnização ou compensação, quando findar a ocupação da mesma, sem prejuízo da faculdade prevista nas alíneas o) e t) do número anterior.
+
+#### SECÇÃO IV — Administração das partes comuns
+
+###### Artigo 32.º — Regime
+
+1 - A administração das partes comuns de edifício de habitação social propriedade plena do Município de Faro, não constituído em regime de propriedade horizontal, compete à Câmara Municipal nos termos da presente Secção.
+
+2 - A administração das partes comuns de edifício de habitação social constituído em regime de propriedade horizontal obedece ao disposto nos artigos 1430.º e seguintes do Código Civil.
+
+###### Artigo 33.º — Espaços de utilização comum
+
+1 - São espaços de utilização comum do edifício:
+
+a) Solo, alicerces, colunas, pilares, paredes mestras e todas as partes restantes que constituem a estrutura do prédio;
+
+b) Telhados ou terraços de cobertura;
+
+c) Entrada do edifício, vestíbulo, escadas e corredores de uso ou passagem comum;
+
+d) Instalações gerais de água, eletricidade, gás, comunicações e semelhantes;
+
+e) Bombas de água e outras instalações mecânicas semelhantes;
+
+f) Ascensores;
+
+g) Dependências destinadas ao uso e habitação do porteiro, se aplicável;
+
+h) Arrecadações, se aplicável;
+
+i) Antenas coletivas, se aplicável;
+
+j) Em geral, as coisas que não sejam afetas ao uso exclusivo de um dos condóminos.
+
+2 - Os arrendatários de habitações sociais gozam do direito de fazer uso dos espaços de utilização comum, aplicando-os às finalidades a que os mesmos se destinam.
+
+###### Artigo 34.º — Proibições e deveres
+
+1 - Nos espaços de utilização comum está vedado aos moradores das frações autónomas dos edifícios de habitação social:
+
+a) Destiná-los a usos ofensivos dos bons costumes ou diversos dos fins a que se destinam;
+
+b) Efetuar quaisquer obras;
+
+c) Aceder à cobertura ou ao telhado, exceto nas situações autorizadas, por escrito, pelo Município;
+
+d) Colocar neles utensílios, mobiliário ou equipamentos, designadamente, bicicletas, motorizadas, bilhas de gás, móveis, estendais ou similares;
+
+e) Deixar deambular animais domésticos pelas escadas, átrios ou zonas comuns, incluindo zonas exteriores, sendo que estes, quando saiam da habitação, devem ser sempre acompanhados de pessoa responsável, açaimados e presos com trela;
+
+f) A execução de ações que emitam fumos, designadamente, assados com carvão ou queimadas de resíduos.
+
+2 - Na utilização dos espaços de utilização comum são deveres dos moradores, designadamente:
+
+a) Não conspurcar ou danificar as escadas, os ascensores e os pátios;
+
+b) Não depositar lixo nas escadas, corredores, ascensores, pátios e outras zonas comuns, ainda que exteriores, mas apenas nos locais destinados para o efeito;
+
+c) Não fazer ruídos que incomodem os vizinhos;
+
+d) Manter a porta de entrada do prédio fechada, sempre que possível, e zelar pela sua conservação e bom estado do sistema de fechadura;
+
+e) Não permitir a realização nem realizar puxadas ilegais de eletricidade, água, telefone ou televisão, ou a vandalização dos espaços e equipamentos, nomeadamente ascensores;
+
+f) Promover boas relações de vizinhança, fomentando o bem-estar geral e a resolução partilhada de problemas comuns;
+
+g) Assumir a responsabilidade pelo pagamento dos danos causados por uso indevido ou vandalização dos espaços de utilização comum e equipamentos, recaindo o respetivo custo da reparação no morador que os provocou ou, na impossibilidade de determinação do responsável, a despesa é assumida pela totalidade dos condóminos.
+
+###### Artigo 35.º — Representante do Município
+
+1 - Sob proposta do dirigente responsável pela área da ação social, compete ao Presidente da Câmara Municipal ou Vereador com poderes delegados, designar um representante do Município para cada edifício de habitação social propriedade plena do Município de Faro não constituído em regime de propriedade horizontal.
+
+2 - O Representante do Município tem as seguintes competências, junto de cada edifício:
+
+a) Garantir a administração e gestão dos espaços de utilização comum, em articulação com os serviços municipais competentes;
+
+b) Transmitir as decisões e deliberações municipais junto dos moradores, sendo interlocutor das partes;
+
+c) Assegurar o cumprimento do presente Regulamento, reportando quaisquer desconformidades e ocorrências anómalas;
+
+d) Outras funções que lhe forem superiormente determinadas.
+
+3 - O Representante do Município pode ficar responsável por um ou mais edifícios.
+
+#### SECÇÃO V — Transmissão e transferência
+
+###### Artigo 36.º — Transmissão por morte
+
+1 - O arrendamento apoiado para habitação não caduca por morte do arrendatário quando lhe sobreviva:
+
+a) Cônjuge com residência no arrendado ou a quem o arrendado, enquanto casa de morada de família, foi atribuído em resultado do divórcio;
+
+b) Pessoa que com ele vivesse em união de facto há mais de 2 anos;
+
+c) Pessoa que com ele vivesse, em economia comum, há mais de 2 anos.
+
+2 - Havendo várias pessoas com direito à transmissão, a posição do arrendatário transmite-se, em igualdade de circunstâncias, sucessivamente para o cônjuge sobrevivo ou pessoa que com o falecido vivesse em união de facto, para o parente ou afim mais próximo ou, de entre estes, para o mais velho ou para a mais velha de entre as restantes pessoas que com ele residissem em economia comum.
+
+3 - A transmissão do direito à habitação nos termos do presente artigo, deve ser comunicada ao Município de Faro, no prazo máximo de 3 meses a contar da data do falecimento, com prova da condição invocada.
+
+4 - A transmissão do direito à habitação nos termos do presente artigo dá lugar à reavaliação da renda se houver alteração do rendimento do agregado familiar.
+
+###### Artigo 37.º — Transferência de habitação
+
+1 - O Município de Faro pode promover a transferência do agregado familiar para outra habitação nas seguintes situações:
+
+a) Em caso de emergência, nomeadamente, inundações, incêndios ou catástrofes naturais, ocorridas ou iminentes, por razões de saúde pública ou existência de risco de ruína;
+
+b) Por desadequação da relação entre a tipologia e a composição do agregado familiar, conforme previsto no artigo 9.º;
+
+c) Por mau estado de conservação do locado;
+
+d) Provisoriamente, quando existam operações de requalificação urbanística devidamente aprovadas que incluam a habitação, enquanto decorrem as obras de requalificação, estando garantido o retorno do agregado familiar, salvo nas situações em que este se opuser;
+
+e) Quando existam operações de requalificação urbanística que não incluam habitação, deve ser acordado com o agregado familiar o local de realojamento, tendo em conta a situação familiar, nomeadamente o local de trabalho e estudo dos seus membros ou a necessidade de acesso a instituições de saúde, por razões de tratamentos específicos.
+
+2 - A transferência do agregado para outra habitação a pedido do arrendatário pode ser concedida, com base em:
+
+a) Motivos de saúde ou mobilidade reduzida, incompatíveis com as condições da habitação;
+
+b) Situação sócio familiar de extrema gravidade, caso em que o pedido de transferência pode ser efetuado por qualquer interessado, desde que exclusivamente para proteção e salvaguarda da vítima;
+
+c) Desadequação da tipologia atribuída face à evolução do agregado familiar;
+
+d) Degradação da habitação por responsabilidade não imputável ao arrendatário;
+
+e) Outras situações não previstas nas alíneas anteriores devem ser analisadas e decididas pelo Presidente da Câmara Municipal ou Vereador com poderes delegados.
+
+3 - Para efeitos do disposto no número anterior, a transferência do agregado para outra habitação a pedido do arrendatário depende, para além da disponibilidade de imóveis, do seguinte:
+
+a) Não existam rendas vencidas e não pagas;
+
+b) As condições de conservação do fogo o justifiquem, as quais são previamente comprovadas por pessoal técnico da Câmara Municipal.
+
+4 - A transferência da habitação, quando concedida nos termos do n.º 2, obedece à seguinte ordem de prioridades:
+
+a) Preferência manifestada pelo arrendatário;
+
+b) Localização no mesmo bloco;
+
+c) Localização no mesmo bairro;
+
+d) Outro motivo devidamente justificado e atendível.
+
+5 - Os procedimentos desenvolvidos para a transferência de habitação obedecem ao Código do Procedimento Administrativo.
+
+6 - Se a transferência for feita com caráter provisório e implicar regresso à habitação de origem, não há lugar a novo contrato de arrendamento.
+
+###### Artigo 38.º — Coabitação
+
+1 - O pedido de coabitação deve ser efetuado pelo arrendatário através de requerimento escrito, dirigido ao Presidente da Câmara Municipal ou ao Vereador com poderes delegados.
+
+2 - A coabitação só é autorizada nos casos em que o pretenso coabitante seja:
+
+a) Descendente em 1.º grau ou equiparado, desde que menor de idade;
+
+b) Outro parente ou afim, desde que os motivos o justifiquem e a tipologia do fogo o comporte.
+
+3 - A coabitação quando autorizada nos termos do presente artigo dá lugar à reavaliação da renda se houver alteração do rendimento do agregado familiar.
+
+4 - Caso o pedido não seja autorizado em virtude da inobservância do disposto no n.º 2, o pretendo coabitante é considerado pelo Município como pessoa estranha ao agregado familiar, sendo o arrendatário notificado do teor da decisão, sem prejuízo do disposto no artigo seguinte, aplicável com as devidas adaptações.
+
+###### Artigo 39.º — Ocupações sem título
+
+1 - É considerada sem título a ocupação, total ou parcial, de habitação do Município por quem não detém contrato, documento de atribuição ou autorização que a fundamente.
+
+2 - No caso previsto no número anterior, o ocupante fica obrigado a desocupar a habitação e a entregá-la, livre de pessoas e bens, até ao termo do prazo que lhe for fixado para o efeito.
+
+3 - Caso não seja cumprida voluntariamente a obrigação de desocupação e entrega da habitação nos termos do número anterior procede-se ao despejo nos termos do artigo 28.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor.
+
+#### SECÇÃO VI — Cessação
+
+###### Artigo 40.º — Resolução do contrato
+
+1 - Além das outras causas de resolução previstas no presente Regulamento, na [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor, e demais disposições legais aplicáveis, nomeadamente nos artigos 1083.º e 1084.º do Código Civil, constituem causas de resolução do contrato de arrendamento apoiado pelo Município de Faro:
+
+a) O incumprimento de qualquer das obrigações previstas no artigo 31.º do presente Regulamento;
+
+b) O conhecimento pelo Município de Faro da existência de situações de impedimento previstas no artigo 8.º do presente Regulamento;
+
+c) A prestação de falsas declarações, de forma expressa ou por omissão, sobre os rendimentos ou sobre factos e requisitos determinantes para o acesso ou manutenção do arrendamento;
+
+d) A permanência ou coabitação na habitação, por período superior a um mês, de pessoa que não pertença ao agregado familiar, sem autorização prévia do Município de Faro.
+
+2 - Sem prejuízo do disposto no número anterior, considera-se também incumprimento contratual por parte do arrendatário, constituindo fundamento de resolução do contrato pelo Município de Faro:
+
+a) A mora igual ou superior a dois meses no pagamento da renda, encargos ou despesas que corram por conta do arrendatário;
+
+b) A mora superior a 15 dias, no pagamento da renda, por mais de quatro vezes, seguidas ou interpoladas, num período de 12 meses;
+
+c) Incumprimento reiterado pelo arrendatário ou agregado familiar dos demais deveres e obrigações constantes do presente Regulamento;
+
+d) A recusa do arrendatário, após notificação para o efeito e no prazo concedido, em demolir obras ou remover instalações que tenham sido efetuadas sem autorização do Município de Faro;
+
+e) A recusa do arrendatário, após intimação para o efeito e no prazo concedido pelo Município de Faro, em reparar os danos causados no arrendado e ou espaços comuns, resultantes de causa que lhe seja imputável ou ao seu agregado familiar, ou em indemnizar o Município de Faro pelas despesas efetuadas com a reparação desses danos;
+
+f) O arrendatário e seu agregado familiar deixe de reunir as condições e ou deixe de possuir os requisitos determinantes para o acesso ou manutenção do arrendamento apoiado, nos termos do presente Regulamento e da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor;
+
+g) A falta ou a insuficiência de resposta dos arrendatários ou dos ocupantes à comunicação prevista no artigo 59.º, no prazo fixado, ou a recusa dos mesmos em celebrar o contrato de arrendamento apoiado no âmbito do procedimento previsto na mesma disposição;
+
+h) Usar ou consentir que outrem use a habitação para fins diferentes daquele a que se destina;
+
+i) Utilizar a habitação para práticas ilícitas, imorais ou desonestas;
+
+j) Realizar quaisquer obras ou alterar as características da habitação, sem autorização do Município de Faro, ou praticar atos que nele causem deteriorações consideráveis, igualmente não consentidas e que não possam justificar-se nos termos dos artigos 1043.º do Código Civil;
+
+k) Ceder, total ou parcialmente, temporária ou permanentemente, onerosa ou gratuitamente, o gozo da habitação por parte do arrendatário ou de qualquer elemento do agregado familiar, designadamente, através da cessão da posição contratual, do subarrendamento, da hospedagem ou do comodato.
+
+3 - Nos casos previstos nos números anteriores e no n.º 2 do artigo 1084.º do Código Civil, a resolução do contrato de arrendamento apoiado pelo Município de Faro opera por comunicação deste ao arrendatário, onde fundamentadamente invoque a respetiva causa, após audição do interessado, cabendo direito de recurso desta decisão pelo arrendatário.
+
+###### Artigo 41.º — Cessação do contrato por renúncia
+
+1 - Considera-se haver renúncia do arrendatário ao arrendamento da habitação quando esta não seja usada por ele ou pelo agregado familiar por período seguido superior a 6 meses a contar da data da primeira comunicação do Município de Faro, de entre as referidas na alínea a) do número seguinte.
+
+2 - Sem prejuízo do disposto na alínea b), do n.º 1, do artigo 31.º do presente Regulamento, considera-se não uso da habitação a situação em que, dentro do período mínimo de seis meses, se verifiquem cumulativamente as seguintes condições:
+
+a) Tenham sido realizadas pelo menos 3 tentativas, com intervalo mínimo de duas semanas entre cada uma delas, de entrega de comunicação na pessoa do arrendatário ou de elemento do agregado familiar, consoante for o caso, por representante do Município de Faro devidamente identificado e a entrega tenha resultado impossível por ausência dos mesmos;
+
+b) Tenha sido afixado aviso na porta da entrada da habitação, pelo período mínimo de 30 dias, de conteúdo idêntico ao da comunicação;
+
+c) Os registos do fornecimento de serviços essenciais de água e eletricidade evidenciarem a ausência de contratos de fornecimento ou de consumos relativamente ao locado.
+
+3 - A comunicação e o aviso a que se refere o número anterior devem obedecer ao disposto no n.º 3 do artigo 26.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor.
+
+4 - A cessação do contrato opera no termo do prazo de seis meses a contar da data da primeira tentativa de contacto pessoal referida na alínea a) do n.º 2 e confere ao Município o direito de tomar posse do locado e de considerar abandonados a seu favor os bens móveis nele existentes, se após o decurso do prazo de 60 dias sobre a tomada de posse do locado, não forem reclamados.
+
+###### Artigo 42.º — Despejo
+
+1 - Caso não seja cumprida voluntariamente a obrigação de desocupação e entrega da habitação ao Município de Faro, por qualquer dos motivos previstos no presente Regulamento ou demais legislação aplicável, o Presidente da Câmara Municipal ou Vereador com poderes delegados, deve ordenar e mandar executar o despejo.
+
+2 - O despejo é executado com auxílio das autoridades policiais territorialmente competentes.
+
+3 - Quando o despejo tenha por fundamento a falta de pagamento de rendas, encargos ou despesas, a decisão de promoção da correspondente execução deve ser tomada em simultâneo com a decisão do despejo.
+
+4 - Salvo acordo em sentido diferente, quaisquer bens móveis deixados na habitação, após qualquer forma de cessação do contrato e tomada de posse pelo Município, são considerados abandonados a favor deste, caso não sejam reclamados no prazo de 60 dias, podendo o Município deles dispor de forma onerosa ou gratuita, sem direito a qualquer compensação por parte do arrendatário.
+
+### CAPÍTULO IV — Alojamento de apoio temporário
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 43.º — Alojamento de apoio temporário
+
+1 - O Alojamento de Apoio Temporário, doravante designado por AAT, visa:
+
+a) Disponibilizar uma resposta urgente de alojamento transitório e temporário a pessoas ou agregados familiares em situação de especial vulnerabilidade e desproteção social ou em situação de emergência social decorrente, designadamente, de desastres naturais, calamidades ou outros;
+
+b) Promover uma intervenção adequada na crise, tendo em vista, designadamente, o encaminhamento para uma resposta adequada à inserção social;
+
+c) Promover estratégias de reforço da autoestima e de autonomia pessoal e social;
+
+d) Assegurar condições de estabilidade aos seus destinatários, reforçando a sua capacidade autonómica para a reorganização das atividades da vida diária.
+
+2 - O AAT integra as seguintes modalidades:
+
+a) Alojamento de emergência;
+
+b) Alojamento partilhado.
+
+###### Artigo 44.º — Coordenação
+
+1 - O AAT é gerido pela unidade orgânica da Câmara Municipal de Faro com competências ao nível da ação social.
+
+2 - Compete aos técnicos afetos ao AAT:
+
+a) Assegurar o cumprimento do previsto no presente Capítulo;
+
+b) Assegurar o aprovisionamento e os bens necessários ao bom funcionamento do AAT;
+
+c) Informar imediatamente a unidade orgânica da Câmara Municipal de Faro com competências ao nível da ação social sempre que ocorra algum facto que o justifique, designadamente, danos nos alojamentos, avarias ou reclamações;
+
+d) Propor medidas ou formas de atuação tendentes à melhoria do AAT;
+
+e) Zelar pelo bom funcionamento e manutenção do AAT;
+
+f) Instruir e orientar os utentes na utilização do AAT;
+
+g) Registar na base de dados de gestão do AAT todos os dados necessários para fins estatísticos;
+
+h) Elaborar relatórios de avaliação.
+
+###### Artigo 45.º — Condições de acesso
+
+1 - Têm acesso ao AAT, os indivíduos ou agregados familiares que reúnam as seguintes condições gerais:
+
+a) Nacionalidade portuguesa, ou sendo de nacionalidade estrangeira detentores de títulos válidos de permanência no território nacional que reúnam as condições estabelecidas na [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor;
+
+b) Não ser proprietário, comproprietário, usufrutuário, arrendatário ou detentor a outro título de prédio urbano ou fração autónoma de prédio urbano destinado a habitação, localizado no concelho de Faro ou em concelho limítrofe, com condições de habitabilidade;
+
+c) Residência em regime de permanência há pelo menos 5 anos e estar recenseado no concelho de Faro;
+
+d) Não ser titular ou cônjuge ou unido de facto com titular de uma habitação atribuída pelo Município;
+
+e) Valor do Rendimento Mensal Corrigido per capita (RMC) indexado ao IAS não superior aos valores previstos no artigo 7.º, n.º 1, alínea g) do presente Regulamento.
+
+2 - Ao AAT na modalidade de alojamento de emergência têm acesso os indivíduos ou agregados familiares que reúnam, ainda, as seguintes condições:
+
+a) Falta de habitação por incêndio, ruína, derrocada, inundação, catástrofe natural ou similar;
+
+b) Falta de habitação por decisão judicial decorrente de ação de despejo ou execução de hipoteca;
+
+c) Falta de habitação por cessação de permanência em estabelecimento coletivo, casa de função ou casa emprestada.
+
+3 - Ao AAT na modalidade de alojamento partilhado têm acesso os indivíduos que reúnam além das condições previstas no n.º 1, as seguintes:
+
+a) Idade igual ou superior a 18 anos, ou emancipados nos termos da legislação aplicável;
+
+b) Não possuir comprovado suporte familiar e social no concelho de Faro;
+
+c) Ser um elemento isolado sem dependentes a cargo, que não possua qualquer tipo de alojamento suscetível de ser utilizado de imediato;
+
+d) Situação contributiva regularizada perante a Segurança Social;
+
+e) Situação regularizada relativamente a impostos devidos em Portugal;
+
+f) Não ter beneficiado de indemnização em alternativa à atribuição de uma habitação no âmbito de programas de realojamento;
+
+g) Não usufruir de apoios financeiros públicos para fins habitacionais.
+
+###### Artigo 46.º — Admissão
+
+1 - Compete à Câmara Municipal deliberar sobre a admissão em AAT, sem prejuízo de, por motivos de urgência e não sendo possível reunir a Câmara Municipal, o Presidente decidir a admissão, ficando tal ato sujeito a ratificação na primeira reunião realizada após a sua prática.
+
+2 - A admissão em AAT depende de parecer prévio elaborado por técnico de ação social da Câmara Municipal de Faro, salvo em caso de impossibilidade, nas situações de alojamento de emergência, o que determina a emissão de parecer no dia útil imediatamente seguinte.
+
+3 - A formalização da admissão é efetuada mediante um contrato de alojamento temporário, conforme minuta aprovada pela Câmara Municipal, a celebrar com os utentes, o qual implica a aceitação das condições contratadas e o cumprimento das obrigações constantes no presente Regulamento.
+
+4 - O contrato de alojamento temporário deve conter pelo menos, as seguintes menções:
+
+a) Modalidade do alojamento;
+
+b) A identificação do Município;
+
+c) A identificação do utente e de todos os elementos do respetivo agregado familiar;
+
+d) A identificação e a localização do AAT;
+
+e) O período de estadia;
+
+f) Valor a pagar, se aplicável.
+
+5 - No caso de se encontrar esgotada a capacidade de resposta dos AAT na modalidade de alojamento partilhado, será constituída uma listagem de candidatos cujos critérios de prioridade são definidos pela unidade orgânica da Câmara Municipal de Faro com competências ao nível da ação social.
+
+###### Artigo 47.º — Funcionamento
+
+1 - Cada utente ou agregado familiar recebe um exemplar da chave do AAT, a qual fica sob sua responsabilidade, devendo a mesma ser devolvida ao técnico responsável no término do prazo da estadia.
+
+2 - Os utentes têm direito a utilizar os bens e equipamentos, bem como as partes comuns do AAT que lhe estejam afetos.
+
+3 - Os utentes devem, sempre que solicitado, facultar a visita ou inspeção ao AAT.
+
+4 - Os técnicos responsáveis têm acesso ao AAT, preferencialmente, na presença dos utentes ou com o seu consentimento prévio.
+
+5 - Até ao último dia do prazo da estadia, o utente ou agregado familiar deve retirar todos os seus bens do AAT.
+
+6 - O técnico responsável deve, antes da saída do utente ou agregado familiar, efetuar uma inspeção ao AAT e confirmar a desocupação de pessoas e bens, bem como, garantir a devolução da chave atribuída.
+
+7 - O técnico responsável deve elaborar relatório detalhado sempre que seja constatada qualquer situação anómala relativamente à ocupação do AAT, procedendo em conformidade com o disposto no artigo 44.º, n.º 2, alínea c).
+
+8 - O Município de Faro não se responsabiliza por furtos ou roubos de objetos ou valores pessoais dos utentes do AAT.
+
+###### Artigo 48.º — Incumprimento
+
+Em caso de incumprimento das condições de utilização e das obrigações previstas no presente Capítulo, os utentes devem ser notificados pessoalmente pelo Município de Faro para desocupar o AAT em prazo a fixar, não superior a 15 dias, sem prejuízo da responsabilidade civil ou criminal em que possam incorrer.
+
+#### SECÇÃO II — Alojamento de emergência
+
+###### Artigo 49.º — Condições de utilização do Alojamento de Emergência
+
+1 - O alojamento de emergência, em quarto ou apartamento, destina-se exclusivamente a habitação temporária do utente ou agregado familiar e é concedido pelo prazo de 72 horas, salvo quando o término do mesmo coincida com sábado, domingo ou feriado, em que o prazo é estendido para as 24 horas úteis seguintes.
+
+2 - Em situações excecionais e devidamente fundamentadas pela unidade orgânica da Câmara Municipal de Faro com competências ao nível da ação social, o alojamento de emergência pode ser concedido por um período máximo de 3 meses, suscetível de renovação por uma única vez e por igual período.
+
+3 - O acesso ao alojamento de emergência pressupõe o conhecimento e aceitação integral do presente Regulamento.
+
+4 - É expressamente proibida a introdução de indivíduos ou o acolhimento de visitas no alojamento sem prévia autorização da unidade orgânica da Câmara Municipal de Faro com competências ao nível da ação social.
+
+###### Artigo 50.º — Obrigações dos utentes do Alojamento de Emergência
+
+Constituem obrigações dos utentes do Alojamento de Emergência:
+
+a) Reger a sua permanência e atitude de acordo com as normas de civilidade exigíveis, designadamente, as decorrentes do respeito e educação pelos restantes utentes;
+
+b) Respeitar as normas de utilização do alojamento e acatar as regras e orientações transmitidas pelos técnicos responsáveis;
+
+c) Zelar pela conservação do alojamento, dando-lhe uma utilização prudente;
+
+d) Garantir a limpeza e higiene do alojamento;
+
+e) Não fazer barulhos ou outros ruídos que incomodem os restantes moradores;
+
+f) Depositar o lixo nos locais destinados para o efeito;
+
+g) Assumir a reparação dos danos por si provocados em bens e equipamentos, sem prejuízo da responsabilidade criminal em que possam incorrer;
+
+h) Proceder ao pagamento dos consumos relativos a água, eletricidade e gás, correspondentes ao período em que usufruir do alojamento, caso seja autorizada estadia por período superior a um mês.
+
+#### SECÇÃO III — Alojamento partilhado
+
+###### Artigo 51.º — Condições de utilização do alojamento partilhado
+
+1 - O alojamento partilhado, em quarto (individual ou duplo) ou apartamento, destina-se exclusivamente a habitação temporária de utente e é concedido por período não superior a 6 meses.
+
+2 - Em situações devidamente fundamentadas pela unidade orgânica da Câmara Municipal de Faro com competências ao nível da ação social, o prazo previsto no número anterior pode ser renovado por iguais períodos.
+
+3 - O utente obriga-se a aceitar novos utentes no quarto ou apartamento onde se encontra alojado e haja vaga disponível.
+
+4 - O utente pode utilizar os espaços de utilização comum do alojamento, definidos como a sala, cozinha e casas de banho.
+
+5 - O acesso ao alojamento partilhado pressupõe o conhecimento e aceitação integral do presente Regulamento.
+
+6 - É expressamente proibida a introdução de indivíduos ou o acolhimento de visitas no alojamento sem prévia autorização da unidade orgânica da Câmara Municipal de Faro com competências ao nível da ação social.
+
+###### Artigo 52.º — Obrigações dos utentes do alojamento partilhado
+
+Constituem obrigações dos utentes do alojamento partilhado:
+
+a) Reger a sua permanência e atitude de acordo com as normas de civilidade exigíveis, designadamente as decorrentes do respeito e educação pelos restantes utentes;
+
+b) Respeitar as normas de utilização do alojamento e acatar as regras e orientações transmitidas pelos técnicos responsáveis;
+
+c) Zelar pela conservação do quarto e espaços de utilização comum do alojamento, dando-lhe uma utilização prudente;
+
+d) Garantir a limpeza e higiene do alojamento;
+
+e) Não fazer barulhos ou outros ruídos que incomodem os restantes utentes;
+
+f) Depositar o lixo nos locais destinados para o efeito;
+
+g) Assumir a reparação dos danos por si provocados em bens e equipamentos, sem prejuízo da responsabilidade criminal em que possam incorrer;
+
+h) Proceder ao pagamento de uma taxa de alojamento mensal fixada em 5 % do rendimento mensal líquido, no prazo e condições previstas no presente Regulamento para o pagamento da renda apoiada;
+
+i) Proceder ao pagamento dos consumos relativos a água, eletricidade e gás, correspondentes ao período em que usufruir do alojamento, em valor proporcional ao número de utentes do alojamento.
+
+### CAPÍTULO V — Fiscalização e contraordenações
+
+###### Artigo 53.º — Fiscalização
+
+As disposições constantes do presente Regulamento encontram-se sujeitas a fiscalização do Município de Faro, através do respetivo Serviço de Fiscalização e do seu representante junto de cada edifício e demais entidades com poderes de fiscalização.
+
+###### Artigo 54.º — Contraordenações
+
+1 - Sem prejuízo da eventual resolução do contrato de arrendamento apoiado, da responsabilidade civil ou criminal, bem como das infrações contraordenacionais previstas em legislação especial, são puníveis como contraordenação:
+
+a) A violação do disposto no artigo 28.º, n.º 1, alíneas d), e), i), j), n), r), t), u) e v), no artigo 31.º, n.º 1, alíneas f), n), r) e s), e no artigo 34.º, n.º 2, alínea b), punível com coima graduada de (euro) 25 até (euro) 300;
+
+b) A violação ao disposto no artigo 31.º, n.º 1, alíneas a) e l), no artigo 34.º, n.º 1, alíneas c), d), e) e f) e no n.º 2, alínea a), punível com coima graduada de (euro) 25 até (euro) 500;
+
+c) A violação do disposto no artigo 28.º, n.º 1, alíneas b), c), f), o) e p), no artigo 31.º, n.º 1, alínea d) e t), e no artigo 34.º, n.º 1, alínea b), punível com coima graduada de (euro) 50 até (euro) 500.
+
+2 - Todas as contraordenações previstas no número anterior são puníveis a título de negligência.
+
+###### Artigo 55.º — Reincidência
+
+1 - É punido como reincidente quem cometer uma infração praticada com dolo, depois de ter sido condenado por outra infração praticada com dolo, se entre as duas infrações não tiver decorrido um prazo superior ao da prescrição da primeira.
+
+2 - Em caso de reincidência, o limite mínimo constante da moldura contraordenacional é elevado para o dobro, não podendo a coima a aplicar em concreto ser inferior à anteriormente aplicada.
+
+###### Artigo 56.º — Competência para instauração do processo contraordenacional
+
+1 - A competência para determinar a instauração dos processos de contraordenação, designar o instrutor e aplicar as coima e eventuais sanções acessórias, pertence ao Presidente da Câmara Municipal, podendo ser delegada ou subdelegada nos termos da lei.
+
+2 - O produto da aplicação das coimas reverte para o Município de Faro, inclusive quando as mesmas sejam cobradas em juízo.
+
+###### Artigo 57.º — Cumprimento do dever omitido
+
+Sempre que a contraordenação resulte de omissão de um dever, o pagamento da coima não dispensa o infrator de dar cumprimento ao dever omitido, se este ainda for possível.
+
+### CAPÍTULO VI — Disposições finais e transitórias
+
+###### Artigo 58.º — Alienação e ónus de inalienabilidade
+
+1 - Desde que não constitua prejuízo para o interesse público, os fogos atribuídos em regime de arrendamento apoiado podem ser alienados ao respetivo arrendatário, a requerimento deste, nos termos da legislação aplicável.
+
+2 - Os fogos adquiridos nos termos do número anterior são inalienáveis durante os dez anos subsequentes à aquisição.
+
+3 - O ónus de inalienabilidade deve ser inscrito no respetivo registo predial.
+
+4 - A alienação de fogos e o ónus de inalienabilidade são regulados por Regulamento Municipal, a aprovar nos termos legais.
+
+###### Artigo 59.º — Comunicações
+
+1 - A comunicação do Município de Faro a informar o arrendatário ou o ocupante da aplicação do regime do arrendamento apoiado deve conter:
+
+a) Informação sobre a aplicação do regime do arrendamento apoiado, com indicação dos elementos necessários para cálculo do valor da renda e o prazo para o respetivo envio ao Município, que não pode ser inferior a 30 dias;
+
+b) As consequências para o caso de incumprimento da obrigação de envio dos elementos solicitados ou de recusa em celebrar o contrato em regime de arrendamento apoiado.
+
+2 - Após a receção dos elementos solicitados, o Município deve comunicar ao arrendatário ou ao ocupante o valor da renda, com explicitação da forma do respetivo cálculo, bem como, se aplicável, do respetivo faseamento.
+
+3 - Cabe ao Município enviar ao arrendatário ou ao ocupante três exemplares do contrato, devendo um dos exemplares ser-lhe devolvido no prazo máximo de 30 dias, devidamente assinado, podendo o Município optar pela celebração presencial do contrato nas suas instalações.
+
+4 - As comunicações entre as partes relativas a cessação do contrato de arrendamento apoiado e atualização ou revisão da renda são realizadas nos termos do presente Regulamento e das notificações previstas no Código do Procedimento Administrativo, com as seguintes especificidades:
+
+a) As cartas dirigidas ao arrendatário ou ao ocupante devem ser remetidas, preferencialmente, para o local arrendado ou ocupado;
+
+b) As cartas dirigidas ao Município devem ser remetidas para o endereço constante do contrato de arrendamento;
+
+c) Qualquer comunicação deve conter o endereço completo da parte que a subscreve, devendo as partes comunicar mutuamente a alteração daquele;
+
+d) Quando a comunicação assinada pelo Presidente da Câmara Municipal ou Vereador com poderes delegados, for entregue em mão, deve o destinatário apor a sua assinatura na respetiva cópia, com nota de receção;
+
+e) Caso se opte pelo envio de carta registada com aviso de receção e a mesma seja devolvida por o destinatário se ter recusado a recebê-la ou não a tiver levantado no prazo previsto no regulamento dos serviços postais, ou ainda, se o aviso de receção tiver sido assinado por pessoa diferente do destinatário, o Município procederá à entrega dessa comunicação em mão;
+
+f) Se o destinatário recusar a receção da comunicação entregue em mão ou recusar a assinatura na respetiva cópia, o Município manda afixar edital com conteúdo idêntico ao da comunicação na porta da entrada da habitação arrendada ou ocupada e na entrada da sede da respetiva junta de freguesia, considerando-se a comunicação recebida no dia em que o edital for afixado.
+
+5 - A falta ou a insuficiência de resposta dos arrendatários ou dos ocupantes às comunicações no prazo fixado ou a recusa dos mesmos em celebrar o contrato de arrendamento apoiado constituem fundamento para a resolução do contrato vigente ou para a cessação da utilização da habitação, consoante for o caso.
+
+6 - A comunicação do Município, relativa à resolução ou à cessação da ocupação, é realizada nos termos do presente Regulamento e da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor, com menção à obrigação de desocupação e entrega da habitação em prazo nunca inferior a 90 dias e à consequência do seu não cumprimento.
+
+###### Artigo 60.º — Aplicação no tempo
+
+1 - O disposto no presente Regulamento aplica-se aos contratos a celebrar após a data da sua entrada em vigor.
+
+2 - O disposto no presente Regulamento aplica-se, ainda, com as alterações e especificidades constantes do número seguinte:
+
+a) Aos contratos existentes à data da sua entrada em vigor ao abrigo de regimes de arrendamento de fim social, nomeadamente de renda apoiada e de renda social;
+
+b) À ocupação de fogos a título precário ao abrigo do [Decreto n.º 35106](https://diariodarepublica.pt/dr/detalhe/decreto/35106-1945-465634), de 6 de novembro de 1945, sujeitos ao regime transitório da [Lei n.º 21/2009](https://diariodarepublica.pt/dr/detalhe/lei/21-2009-608766), de 20 de maio, que subsistam na data da entrada em vigor da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor.
+
+3 - No caso de contratos a que se tenha aplicado o regime constante do [Decreto-Lei n.º 166/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1993-274240), de 7 de maio, e esteja a decorrer faseamento de renda, aplica-se o disposto no n.º 4 do artigo 39.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação em vigor.
+
+4 - Dispõem-se que nos processos de atualização de renda em curso, ao abrigo da legislação anterior à [Lei n.º 32/2016](https://diariodarepublica.pt/dr/detalhe/lei/32-2016-75194221), de 24 de agosto, em vigor, aplicar-se-à o princípio do tratamento mais favorável ao arrendatário, nos termos do qual, da aplicação da presente lei não pode resultar um valor de renda superior ao que resultaria da aplicação da anterior redação da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro.
+
+5 - Os arrendatários podem solicitar a revisão de renda, mesmo que esteja a decorrer um processo de faseamento, sempre que da aplicação da presente decorra um valor de renda que o beneficie face ao que vigoraria pelos contratos anteriores à Lei em vigor.
+
+6 - O município disponibilizará aos interessados e às organizações de moradores informação sobre este regulamento e a lei que esteja em vigor, bem como instrumentos que permitam simular o valor da renda a aplicar com base nos seus critérios.
+
+###### Artigo 61.º — Dúvidas e omissões
+
+1 - Em tudo o mais que não estiver previsto neste Regulamento aplica-se a demais legislação em vigor no âmbito da matéria que constitui o seu objeto, com as devidas adaptações.
+
+2 - As dúvidas de interpretação são resolvidas recorrendo aos critérios legais e, em último caso, será chamada a decidir a Câmara Municipal, sem prejuízo da competência legal dos tribunais.
+
+###### Artigo 62.º — Norma revogatória
+
+Com a entrada em vigor do presente Regulamento é revogado o Regulamento de Acesso e Gestão do Parque Habitacional do Município de Faro publicado no Diário da República, 2.ª série, n.º 137, de 16 de julho de 2010.
+
+###### Artigo 63.º — Entrada em vigor
+
+O presente Regulamento entra em vigor no dia seguinte ao da sua publicação nos termos do artigo 139.º do Código do Procedimento Administrativo.
+
+311043972

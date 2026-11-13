@@ -1,0 +1,1733 @@
+---
+schema_version: '1.0'
+id: pt:dre:69901122:por
+title: Regulamento n.º 476-A/2015
+short_title: null
+summary: Regulamento Municipal de Apoios Sociais do Município de Elvas
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Elvas
+proposing_entity: null
+official_number: 476-A/2015
+official_date: null
+publication_date: '2015-07-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 146/2015, 2º Suplemento, Série II de 2015-07-29
+  number: '146'
+  series: II
+  supplement: null
+  pages: 20990-(14) a 20990-(29)
+  pdf_url: https://files.diariodarepublica.pt/2s/2015/07/146000002/0001400029.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '69901122'
+  dre_path: /dr/detalhe/regulamento/476-a-2015-69901122
+  internal: pt:dre:69901122:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/476-a-2015-69901122
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/476-a-2015-69901122
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:54:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b41bca17807bc6ef23bb61a3c5c521df487a89ba89f81dfb46c529b545acd067
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:54:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+article_structure:
+  article_count: 160
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:54:10Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 476-A/2015
+
+Dr. Carlos Alexandre Henriques Saldanha, Chefe de Divisão de Administração Urbanismo e Recursos Humanos do Município de Elvas, com subdelegação de competências conferidas por despacho de 1 de setembro de 2014.
+
+Torna público que, a Assembleia Municipal de Elvas, em sessão ordinária de 27 de julho de 2015, aprovou o Regulamento Municipal de Apoios Sociais do Município de Elvas, oportunamente aprovado em reunião de Câmara Municipal realizada no dia 20 de julho de 2015 e para os efeitos legais é feita a presente publicação do referido regulamento.
+
+Regulamento Municipal de Apoios Sociais do Município de Elvas
+
+Nota justificativa
+
+São muitos os programas sociais em vigor nesta Autarquia, sendo certo que a necessidade de uma compilação de todas as normas que os regulam se tem vindo a acentuar.
+
+Com efeito, o Município de Elvas é uma das Autarquias que mais programas sociais tem em vigor, denotando uma grande preocupação com esta área e com os problemas que se têm vindo a acentuar com a crise nacional e internacional que se atravessa.
+
+O acentuado envelhecimento da população, bem como o consequente aumento dos reformados, pensionistas e idosos, associado às baixas reformas, pensões, que dificilmente permitem fazer face a todas as despesas do dia-a-dia, constituem fatores que impedem o acesso de muitos munícipes deste escalão etário a condições de vida condignas.
+
+Surge assim uma necessidade imperiosa de criar uma nova visão estratégica de combate às desigualdades sociais, com particular incidência nos cidadãos com menores recursos.
+
+O presente regulamento tem por objetivo estabelecer normas que conduzam à melhoria da situação socioeconómica da população elvense através de várias vertentes e dirigida a todos os escalões etários.
+
+O prazo para apresentação de contributos decorreu de 01.07.2015 a 14.07.2015, tendo sido acolhidos muitas das sugestões apresentadas.
+
+Com a implementação deste Regulamento consegue-se manter todos os Programas já existentes neste Município, com elevada qualidade, repercutindo-se numa diminuição de despesa pública.
+
+Atendendo a que, nos termos da alínea h) do n.º 2 do artigo 23.º do Anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, os Municípios detêm atribuições no âmbito da ação social;
+
+Considerando que, de acordo com o mesmo Anexo à Lei 75/2013, compete às câmaras municipais apoiar atividades de natureza social (alínea u) do n.º 1 do artigo 33.º) e ainda deliberar no domínio da ação social escolar (alínea hh) do mesmo n.º 1 do artigo 33.º), bem como apresentar propostas à assembleia municipal sobre matérias da competência desta (alínea ccc) do dito n.º 1 do artigo 33.º) e elaborar e submeter para aprovação da Assembleia Municipal os projetos de regulamentos externos do Município (alínea k) do n.º 1 do artigo 33.º);
+
+Tendo em conta que compete à Assembleia Municipal "Pronunciar-se e deliberar sobre todos os assuntos que visem a prossecução das atribuições do município" (alínea k) do n.º 2 do artigo 25.º) bem como "Aprovar as posturas e os regulamentos com eficácia externa do município"(alínea g) do n.º 1 do artigo 25.º);
+
+Regulamento Municipal de Apoios Sociais do Município de Elvas
+
+### CAPÍTULO I — Disposições Gerais
+
+###### Artigo 1.º — Lei habilitante, âmbito e objeto
+
+1 - O presente Regulamento tem como lei habilitante o artigo 241.º da Constituição da República Portuguesa, bem como a h) do n.º 2 do artigo 23.º e as alíneas k), u), hh), ccc) do n.º 1 do artigo 33.º, todas do Anexo I à Lei 75/2013, de 12 de setembro.
+
+2 - O presente Regulamento estabelece os termos, condições de acesso e de utilização dos vários programas de cariz social do Município de Elvas
+
+###### Artigo 2.º — Objetivos
+
+1 - São objetivos deste Regulamento:
+
+a) Promover a inclusão e o desenvolvimento social através da criação e dinamização de respostas assentes no princípio da discriminação positiva necessária para combater problemas de exceção.
+
+b) Evidenciar e consolidar o papel determinante da pessoa enquanto instrumento mobilizador do seu processo de mudança e desenvolvimento.
+
+c) No sector social, contribuir para a qualidade de vida dos beneficiários através da comparticipação do município na aquisição/utilização de bens e serviços.
+
+### CAPÍTULO II — Cartão da Idade de Ouro
+
+###### Artigo 3.º — Conceito e Alcance
+
+1 - O Cartão da Idade de Ouro é um cartão que atribui ao seu utilizador apoios em diversas áreas de intervenção.
+
+2 - Os beneficiários do cartão podem beneficiar de apoios nas seguintes áreas de intervenção:
+
+a) Social;
+
+b) Saúde;
+
+c) Habitação.
+
+3 - O cartão da idade de ouro tem como suporte financeiro uma verba inscrita anualmente no orçamento do município de Elvas.
+
+###### Artigo 4.º — Condições de atribuição
+
+1 - São condições de atribuição do cartão da idade de ouro:
+
+a) Ter 50 ou mais anos;
+
+b) Pertencer a agregado familiar cujo rendimento mensal per capita seja igual ou inferior a quinhentos e cinquenta euros;
+
+c) Não ser titular de valores mobiliários, prestações periódicas, regalias sociais ou direitos de natureza idêntica aos referidos, bem como de bens imóveis, cujo rendimento, proveniente de qualquer um ou de todos os bens ou direitos acabados de mencionar, ultrapasse quinhentos e cinquenta euros;
+
+d) Ser residente no município de Elvas pelo menos há um ano e estar recenseado.
+
+2 - Estão ainda em condições de atribuição os reformados/pensionistas integrados institucionalmente em lares de terceira idade.
+
+3 - Em situação de dúvida em relação aos rendimentos/bens apresentados pelo requerente, a autarquia pode, se entender por necessário, munir-se de um relatório social e ou indeferir o processo.
+
+###### Artigo 5.º — Conceitos base para atribuição do cartão da idade de ouro
+
+Para efeitos de atribuição do cartão da Idade de Ouro, considera-se:
+
+a) Agregado familiar - para além do requerente, o cônjuge ou quem com ele viva em união de facto, bem como qualquer dependente daquele sobre o qual exerça o poder paternal;
+
+b) Rendimento - conjunto de todos os rendimentos e subsídios dos membros do agregado familiar qualquer que seja a sua natureza e origem, e ainda outros rendimentos de carácter não eventual, excetuando-se valores correspondentes a bolsas de estudo;
+
+c) Rendimento mensal per capita - fórmula de cálculo:
+
+RPC = (RAB agregado - Despesas anuais de habitação e saúde)/(Número de elementos do AF x 12)
+
+d) Despesas de saúde - as consideradas pelo médico competente como indispensáveis, sujeitas à escala de tributação de taxa reduzida de IVA ou isentas de IVA;
+
+e) Despesas de habitação - os gastos efetuados com a renda de casa, consumos de água, eletricidade e gás.
+
+###### Artigo 6.º — Constituição do processo
+
+1 - O cartão da idade de ouro é emitido pela Câmara Municipal de Elvas, sendo pessoal e intransmissível
+
+2 - O cartão da idade de ouro é obtido gratuitamente na Câmara Municipal de Elvas, mediante a apresentação dos seguintes documentos:
+
+a) Fotocópia dos documentos de Identificação (CC, BI/NIF/NISS) do candidato e de todos os membros que compõem o agregado familiar;
+
+b) Atestado emitido pela junta de freguesia da área de residência ou outro documento legal onde conste o tempo de residência no concelho, composição do agregado familiar e situação socioeconómica;
+
+c) Fotocópia do documento comprovativo de todos os rendimentos auferidos pelos membros do agregado familiar do candidato;
+
+d) Declaração, sob compromisso de honra, sobre a veracidade dos elementos constantes no processo;
+
+3 - Todos os documentos mencionados no número anterior dos quais se solicitam fotocópias, não estão dispensados da apresentação, para verificação e imediata devolução, dos respetivos originais.
+
+4 - Os documentos a que alude a alínea c) do n.º 2 são:
+
+a) Recibos de remunerações, pensões ou subsídios dos elementos do agregado familiar que se encontrem nessa situação;
+
+b) Certificado do rendimento social de inserção, quando aplicável, emitido pelo Centro Regional da Segurança Social, onde deverá constar a composição do agregado familiar, o valor da prestação e os rendimentos considerados para efeitos de cálculo da referida prestação;
+
+c) Declaração emitida pelo Instituto de Emprego e Formação Profissional, no caso de o requerente, ou algum dos membros do agregado familiar, se encontrar na situação de desemprego e não auferir subsídio de desemprego, ou Declaração emitida pelo Serviço Local de Elvas do Instituto de Segurança Social, I. P. no caso de o requerente, ou algum dos membros do agregado familiar, se encontrar a receber subsídio de desemprego;
+
+d) Fotocópia da última declaração de IRS ou, no caso de isenção de entrega, declaração emitida pela repartição de finanças atestando tal direito;
+
+e) Declaração de Bens Patrimoniais, requerida no Serviço de Finanças.
+
+f) Outros documentos pedidos pela autarquia, sempre que esta o considere necessário para análise do processo.
+
+5 - O cartão em referência será válido por um ano e renovar-se-á por igual período de tempo, mediante requerimento a apresentar pelo interessado, até 30 dias antes de terminar a validade do respetivo cartão, se a situação social e respetivo agregado familiar do titular se mantiver, após verificação pelos serviços desta autarquia de acordo com o disposto no presente Regulamento.
+
+###### Artigo 7.º — Benefícios pela utilização do cartão
+
+Os titulares do cartão da idade de ouro do município de Elvas usufruem dos benefícios constantes das alíneas seguintes:
+
+1) Sector social:
+
+a) Prestação de serviços - concessão de documentos (capítulo I, artigo 1.º, da tabela de taxas e licenças) - redução de 50 %;
+
+b) Entrada nos museus municipais - isento;
+
+c) Entrada em cinemas - 50 %;
+
+d) Entrada em espetáculos ou similares promovidos pela autarquia - 50 %;
+
+e) Entrada no complexo de Piscinas Municipais - isento
+
+f) Universidade Sénior - isento
+
+g) Hidroginástica sénior - isento;
+
+h) Ginástica sénior - isento;
+
+i) Viagem no comboio turístico - 50 %;
+
+j) Ligação à rede geral de abastecimento domiciliário de água - 50 %;
+
+k) Ligação à rede de esgotos - 50 %.
+
+l) Isenção do pagamento da tarifa variável do serviço de abastecimento de água e de recolha de águas residuais no primeiro escalão
+
+§ único: As percentagens de redução previstas nas alíneas j) e k) poderão ser alteradas por deliberação de Câmara.
+
+2) Sector da saúde:
+
+a) Comparticipação de 80 % nas despesas efetuadas com a aquisição de medicamentos, sempre que estas sejam consideradas pelo médico competente como indispensáveis e sujeitas à taxa reduzida de IVA ou dele isentas;
+
+b) Cada beneficiário usufruirá, no máximo, de uma comparticipação por mês (apenas uma fatura), podendo este limite ser alterado por deliberação de Câmara;
+
+c) O referido apoio deve ser proposto pelo técnico responsável, ao executivo camarário em função da apresentação dos recibos de farmácia e respetivas receitas médicas.
+
+3 - Sector da Habitação:
+
+a) Os beneficiários do cartão de Idade de Ouro poderão solicitar a mão de obra de técnicos da Autarquia para execução dos seguintes serviços no seu domicílio, no âmbito do Programa «Câmara - Mão Amiga»:
+
+Desempeno de portas e janelas;
+
+Reparação de instalações sanitárias (sanitas, bidés, bacias, banheiras, torneiras e sifões);
+
+Reparação de equipamento de cozinha (lava-loiças, torneiras)
+
+Reparação simples de serralharia, incluindo fechaduras;
+
+Reparação do sistema elétrico (tomadas, interruptores, lâmpadas, suportes)
+
+Reparação de estores e persianas;
+
+Substituição de vidros perdidos;
+
+Desobstrução de tubos de queda;
+
+Colaboração na poda de árvores do quintal/ jardim e recolha de sobrantes;
+
+Auxilio na mudança de materiais pesados e recolha de sucata porta a porta;
+
+Desentupimentos do sistema de esgotos;
+
+Colar cadeiras e mesa;
+
+Outras pequenas reparações que se entendam necessárias.
+
+###### Artigo 8.º — Formas de comparticipação
+
+1 - Relativamente aos benefícios a auferir pelo titular do cartão da idade de ouro no que respeita a taxas, tarifas e preços a pagar pela prestação de serviços municipais, o valor da comparticipação é deduzido diretamente na respetiva fatura.
+
+2 - Nas despesas com a saúde, os documentos comprovativos dos gastos efetuadas (recibo/fatura da farmácia e receita médica) deverão ser entregues na Secção Socioeducativa da Câmara Municipal de Elvas.
+
+###### Artigo 9.º — Análise social
+
+1 - A Câmara Municipal de Elvas, através dos serviços sociais, procederá à análise dos requerimentos, que poderá complementar com entrevista e visita domiciliária, emitindo parecer sobre o deferimento do pedido num prazo máximo de 30 dias úteis após a receção do mesmo.
+
+2 - Os serviços devem constituir o dossier do processo social do qual devem constar os seguintes elementos:
+
+a) Documentos solicitados;
+
+b) Informação social (diagnóstico social);
+
+c) Plano de inserção (proposta de intervenção);
+
+d) Outros documentos considerados necessários.
+
+### CAPÍTULO III — Programa Refeitório Social
+
+###### Artigo 10.º — Definições
+
+Para efeitos deste Programa Refeitório Social, considera-se:
+
+a) Agregado familiar - para além do requerente, o cônjuge ou quem com ele viva em união de facto, bem como qualquer dependente daquele sobre o qual exerça o poder paternal;
+
+b) Rendimento - conjunto de todos os rendimentos, pensões e subsídios dos membros do agregado familiar qualquer que seja a sua natureza e origem, e ainda outros rendimentos de carácter não eventual, excetuando-se valores correspondentes a bolsas de estudo;
+
+###### Artigo 11.º — Objetivos
+
+O Programa Refeitório Social tem como objetivos principais:
+
+a) Promover e assegurar as refeições diárias de agregados familiares em situação de carência económica;
+
+b) Combater a exclusão social e luta contra a pobreza.
+
+###### Artigo 12.º — Destinatários
+
+Este programa pretende apoiar agregados familiares:
+
+a) Em situação de carência económica;
+
+b) Que se encontrem desempregados, devidamente inscritos no Centro de Emprego de Elvas;
+
+c) Com situação de prisão, morte, doença, separação e abandono;
+
+d) Em situação de catástrofe
+
+e) Residentes na área do Município de Elvas sem limite de idade.
+
+###### Artigo 13.º — Carência Económica
+
+1 - Entende-se por carência económica a situação do indivíduo que por razões conjunturais ou estruturais, apresenta um deficit entre o limiar de carência e a capitação, representando uma situação de risco ou de exclusão social, desde que o rendimento per capita seja igual ou inferior a 50 % do Indexante dos Apoios Sociais.
+
+2 - Fórmula de cálculo - o rendimento per capita ou capitação resulta da aplicação da seguinte fórmula:
+
+RPC = (Rendimento mensal ilíquido - despesas fixas)/(Número de elementos do AF)
+
+###### Artigo 14.º — Duração
+
+1 - O eleito com competência delegada ou subdelegada na área, decidirá sobre a duração máxima do programa.
+
+2 - Cada beneficiário participará no programa durante um período máximo de um ano, ou enquanto se verificar nas condições referidas no artigo anterior, se esta for de duração inferior.
+
+###### Artigo 15.º — Candidatura dos beneficiários
+
+1 - Os munícipes interessados em participar no Programa devem inscrever-se nas instalações da Câmara Municipal de Elvas, através do preenchimento de formulário fornecido pela Autarquia, em qualquer altura do ano.
+
+2 - A inscrição deverá ser acompanhada pelos documentos a que aludem os números 2, 3 e 4 do artigo 6.º do presente Regulamento.
+
+###### Artigo 16.º — Seleção dos beneficiários
+
+O eleito com competência delegada ou subdelegada na área, fará a seleção dos candidatos, mediante informação dos serviços competentes tendo por base os elementos constantes na inscrição e atendendo aos seguintes critérios:
+
+a) Montante dos rendimentos familiares;
+
+b) Duração da situação de desemprego.
+
+c) O programa dará também resposta a solicitações e encaminhamentos de situações por parte de entidades competentes em matéria de Ação Social.
+
+###### Artigo 17.º — Procedimento
+
+1 - O apoio a conceder aos beneficiários será concretizado pela entrega do montante descriminado no artigo seguinte e que dependerá do número de elementos que constitui o agregado familiar;
+
+2 - Este montante será entregue aos beneficiário até dia 8 de cada mês, devendo o mesmo beneficiário fazer prova junto dos serviços da Câmara Municipal de Elvas, mediante a apresentação de faturas da qual constem os bens de primeira necessidade, no prazo máximo de 60 dias.
+
+3 - O não cumprimento do disposto no artigo anterior acarreta a suspensão do Programa.
+
+###### Artigo 18.º — Valor
+
+1 - A atribuição do montante destinado aos alimentos dependerá da constituição do agregado familiar, nos termos abaixo identificados:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/07/146000002/0001400029.pdf)
+
+###### Artigo 19.º — Alimentos
+
+Por alimentos de primeira necessidade entende-se, designadamente, a fruta, o leite branco, os legumes, a carne, o peixe, arroz, massas, pão e gás.
+
+###### Artigo 20.º — Deveres da Autarquia
+
+Constituem deveres da autarquia:
+
+a) Desenvolver o Programa de forma a dar cumprimento à sua filosofia;
+
+b) Divulgar o Programa;
+
+c) Facultar os formulários para inscrição dos potenciais beneficiários;
+
+d) Selecionar os beneficiários;
+
+e) Informar os beneficiários cujas solicitações foram aceites;
+
+f) Fazer o controlo mensal da atribuição dos cheques alimentos.
+
+### CAPÍTULO IV — Programa Família Mais
+
+###### Artigo 21.º — Objeto e âmbito
+
+1 - O Programa Família Mais, visa contribuir para o aumento da natalidade em Elvas, e ao mesmo tempo apoiar as famílias no primeiro ano de vida de seus filhos.
+
+2 - Por outro lado, o Programa apresenta outra vertente, denominada Viagens Sociais e que pretende proporcionar aos munícipes, um fim de semana ou um dia na praia.
+
+3 - O presente programa visa, ainda, apoiar famílias numerosas (três ou mais filhos) residentes em Elvas através de uma redução dos preços/taxas a pagar nos equipamentos públicos do Município de Elvas.
+
+###### Artigo 22.º — Definições
+
+Para efeitos deste Capítulo, considera-se:
+
+a) Agregado familiar - para além do requerente, o cônjuge ou quem com ele viva em união de facto, bem como qualquer dependente daquele sobre o qual exerça o poder paternal;
+
+b) Rendimento - conjunto de todos os rendimentos, pensões e subsídios dos membros do agregado familiar qualquer que seja a sua natureza e origem, e ainda outros rendimentos de carácter não eventual, excetuando-se valores correspondentes a bolsas de estudo;
+
+c) Famílias numerosas - família constituída por Pai, Mãe e três ou mais filhos;
+
+d) IAS - Indexante dos Apoios Sociais.
+
+###### Artigo 23.º — Duração
+
+1 - O eleito com competência delegada ou subdelegada na área decidirá sobre a duração máxima do programa, a qual, porém, não poderá ser inferior a um ano.
+
+2 - O eleito com competência delegada ou subdelegada na área fixará, anualmente, o número máximo de beneficiários a admitir no programa do respetivo ano.
+
+###### Artigo 24.º — Candidatura dos beneficiários
+
+1 - Os munícipes interessados em beneficiar deste Programa, em qualquer uma das suas vertentes, devem inscrever-se nas instalações da Câmara Municipal de Elvas, através do preenchimento de formulários fornecidos pela Autarquia, em qualquer altura do ano.
+
+2 - A inscrição deverá ser acompanhada pelos documentos a que aludem os números 2, 3 e 4 do artigo 6.º do presente Regulamento e ainda os seguintes:
+
+a) Certidão de nascimento ou documento comprovativo do nascimento do novo membro do agregado;
+
+b) Faturas ou outros documentos comprovativos das despesas realizadas com o bebé;
+
+c) Declaração emitida pela entidade competente comprovativa do escalão de abono de família.
+
+###### Artigo 25.º — Seleção dos beneficiários
+
+O eleito com competência delegada ou subdelegada na área fará a seleção dos candidatos, mediante os elementos constantes na inscrição, atendendo aos seguintes critérios:
+
+a) Montante dos rendimentos familiares;
+
+b) Existência de eventual situação de desemprego.
+
+###### Artigo 26.º — Apoio e destinatários
+
+1 - A Câmara Municipal de Elvas apoiará até (euro)500,00 (quinhentos euros) por cada nascimento de residentes em Elvas cujo rendimento anual do agregado familiar não exceda os 6.000,00(euro) per capita, mediante a apresentação de faturas ou outros documentos comprovativos das despesas realizadas com o recém-nascido.
+
+2 - A Câmara Municipal de Elvas apoiará ainda as famílias, aquando do primeiro ano de vida do(s) seu(s) filho(s), pela forma seguinte:
+
+a) Rendimentos correspondentes ao 1.º escalão de abono de família: apoio de montante até (euro)50,00 mensais, mediante a apresentação de faturas ou outros documentos comprovativos das despesas realizadas naquele mês;
+
+b) Rendimentos correspondentes ao 2.º escalão de abono de família: apoio de montante até (euro)40,00 mensais, mediante a apresentação de faturas ou outros documentos comprovativos das despesas realizadas naquele mês;
+
+c) Rendimentos correspondentes ao 3.º escalão de abono de família: apoio de montante até (euro)30,00 mensais, mediante a apresentação de faturas ou outros documentos comprovativos das despesas realizadas naquele mês;
+
+###### Artigo 27.º — Viagens Sociais
+
+1 - A Câmara Municipal de Elvas proporcionará transporte e estadia num parque de campismo junto à praia às famílias residentes no município de Elvas.
+
+2 - Em qualquer dos casos o Presidente da Câmara, ou o eleito da área, decidirá os dias em que se efetuarão tais viagens, consoante o número de inscrições.
+
+3 - As inscrições efetuar-se-ão junto da Secção Socioeducativa da Câmara Municipal de Elvas.
+
+###### Artigo 28.º — Família Numerosas
+
+1 - As famílias numerosas residentes em Elvas usufruem de uma redução de 50 % nos preços/taxas a pagar em eventos promovidos pela autarquia nos equipamentos públicos do Município de Elvas.
+
+2 - Usufruem ainda de Tarifas para serviços de águas para famílias numerosas conforme Regulamento e Tarifário em vigor no Município.
+
+### CAPÍTULO V — Programa "USADO VIRA NOVO"
+
+###### Artigo 29.º — Objetivos
+
+1 - É objetivo geral do programa, promover a inclusão e o desenvolvimento social através da criação e dinamização de respostas assentes no princípio da discriminação positiva necessária para combater problemas de exceção.
+
+2 - É objetivo específico do programa, contribuir para a qualidade de vida dos beneficiários através do apetrechamento de equipamentos e mobiliário no seu domicílio.
+
+###### Artigo 30.º — Situação Económica desfavorecida
+
+1 - A análise da situação económica desfavorecida do agregado familiar deve ser feita caso a caso, tendo em consideração os rendimentos dos requerentes e a sua possibilidade de aceder às condições de habitabilidade e às condições de vida com dignidade pessoal, tendo como critério de orientação o previsto na alínea c) do n.º 1 do artigo 4.º e do artigo 5.º do presente Regulamento Municipal (Capítulo do Cartão de Idade de Ouro).
+
+2 - A prova da situação económica desfavorecida pode ser feita por qualquer meio idóneo.
+
+###### Artigo 31.º — Instrução de candidaturas
+
+1 - Os pedidos de equipamentos/mobiliário previstos no presente Capítulo são efetuados na Câmara Municipal de Elvas - Secção Socioeducativa ou através de uma linha telefónica gratuita vocacionada para o efeito.
+
+2 - A inscrição deverá ser acompanhada pelos documentos a que aludem os números 2, 3 e 4 do artigo 6.º do presente Regulamento.
+
+###### Artigo 32.º — Aprovação das candidaturas
+
+1 - Sempre que o Gabinete responsável pelo programa entenda conveniente para a análise e avaliação da situação em apreço, pode solicitar a apresentação de outros elementos ou documentos.
+
+2 - Após a apresentação e análise do pedido será sempre efetuada uma visita domiciliária por parte do técnico responsável para a elaboração de um Relatório Social.
+
+3 - Será dada prioridade às famílias que integrem no seu agregado crianças, idosos e indivíduos portadores de deficiência.
+
+###### Artigo 33.º — Execução do programa
+
+1 - Para o efeito, a Câmara Municipal de Elvas receberá mobiliário/equipamento doméstico para dar resposta aos pedidos efetuados.
+
+2 - Será efetuado inventário devidamente atualizado de todos os bens disponíveis e entregues.
+
+3 - O programa poderá ainda dar resposta a pedidos e encaminhamento de situações por parte de entidades competentes em matéria de ação social.
+
+4 - Anualmente os serviços farão o balanço deste programa e eventual continuidade.
+
+###### Artigo 34.º — Procedimento de entrega de mobiliário/equipamento doméstico
+
+1 - Os interessados na entrega de mobiliário/equipamento doméstico, no âmbito deste programa, usufruirão da recolha gratuita dos bens por parte da Câmara Municipal de Elvas.
+
+2 - Apenas poderão integrar este programa os bens que ainda conservem a sua utilidade e desempenho.
+
+3 - Os pedidos de recolha de bens são efetuados na Câmara Municipal de Elvas - Secção Socioeducativa ou através de uma linha telefónica gratuita vocacionada para o efeito.
+
+4 - A recolha dos bens referida no número anterior, será sempre precedida de uma avaliação dos mesmos por parte de um técnico da Câmara Municipal de Elvas, que determinará se os mesmos reúnem condições para integrar o presente programa.
+
+5 - A análise dos bens a recolher deve ser feita caso a caso, tendo em consideração o seu estado de conservação, nomeadamente se conservam a funcionalidade e segurança.
+
+### CAPÍTULO VI — Programa Teleassistência para Idosos
+
+###### Artigo 35.º — Âmbito
+
+O presente Capítulo estabelece as condições de acesso à bolsa de Teleassistência do Município.
+
+###### Artigo 36.º — Área Geográfica
+
+A aplicação do presente Capítulo abrange a área geográfica do Município de Elvas.
+
+###### Artigo 37.º — Teleassistência
+
+A Teleassistência é um serviço telefónico que visa melhorar a qualidade de vida e segurança dos seus utentes. Abrange um conjunto de serviços de resposta que é suportado por equipamentos disponibilizados ao Utente de forma a assegurar o pronto auxílio, sempre que solicitado.
+
+###### Artigo 38.º — Funcionamento geral do Serviço
+
+1 - O Serviço de Teleassistência funciona 24 horas/dia, 365 dias/ano, através de um terminal fixo, onde o Utente pode, através de um botão de emergência, aliado a um telefone de alta voz, falar, ser localizado e identificado pelo operador, o qual faz a avaliação imediata da situação, dando a resposta mais adequada.
+
+2 - O operador após averiguar a razão e as características do alarme pode:
+
+a) Contactar familiares ou vizinhos e Instituições Particulares de Solidariedade Social (I. P. S. S.) de forma a prestarem a devida assistência;
+
+b) Envio urgente de médicos, enfermeiros, ambulâncias, polícia, bombeiros, amigos ou outras pessoas que possam prestar auxílio ao utente;
+
+c) Assessoria médica por telefone, informação sobre clínicas, hospitais, farmácias de serviço.
+
+3 - O Contacto entre o operador e o Utente ou a rede informal/formal, cessa quando deixar de se verificar o motivo de alerta.
+
+4 - O contacto será efetuado através do apertar de um botão do controlo remoto situado num bracelete tipo relógio de pulso ou colar. Através do simples apertar do botão é estabelecido um contacto imediato através do intercomunicador ligado ao telefone, o qual é automaticamente identificado pela Central de Assistência, aparecendo no monitor do operador que atende a chamada todos os dados relativos à pessoa que originou a ligação.
+
+5 - O intercomunicador permite captar com excelente nitidez o mais pequeno ruído em qualquer parte da casa, permitindo estabelecer de uma forma clara a conversação entre o operador e o utente numa área de 200 m2, independentemente das paredes ou portas.
+
+###### Artigo 39.º — Beneficiários
+
+1 - Trata-se de uma ação destinada a indivíduos de idade igual ou superior a 65 anos de idade ou cidadãos com deficiência comprovada igual ou superior a 60 %, a residirem sós, no concelho de Elvas.
+
+a) Regime Subsidiado: Será da responsabilidade da Câmara Municipal pagar a instalação do equipamento, as mensalidades do serviço e os custos das chamadas até um máximo de (euro)10,00/mês. Os equipamentos fixos e as mensalidades do serviço de Teleassistência serão atribuídos de forma totalmente gratuita pela Câmara Municipal de Elvas aos portadores do Cartão de Idade de Ouro. Os beneficiários suportarão os custos da chamada telefónica (ao nível da chamada local).
+
+b) Regime Geral (não subsidiado): Os agregados familiares com recursos económicos que não permitam candidatar-se ao Regime Subsidiado atribuído pela Câmara Municipal de Elvas, e que queiram beneficiar do Serviço de Teleassistência, poderão apresentar candidatura no serviço de Ação Social.
+
+Fica desta forma a seu cargo, as despesas inerentes ao Serviço.
+
+2 - As situações socioeconómicas graves, não enquadráveis no processo de atribuição do presente Regulamento, são objeto de apreciação e decisão pela Câmara, sob proposta da Comissão de Análise da Bolsa de Teleassistência.
+
+###### Artigo 40.º — Tipo de Serviço Atribuído na Bolsa
+
+Os equipamentos atribuídos gratuitamente pela Câmara Municipal de Elvas, são do tipo fixo e estão afetos ao Serviço Básico de Teleassistência.
+
+###### Artigo 41.º — Processo de Candidatura ao Serviço
+
+1 - Para o caso de se querer candidatar à Bolsa atribuída pela Câmara Municipal de Elvas as candidaturas devem ser apresentadas nos serviços de Ação Social.
+
+2 - A inscrição deverá ser acompanhada pelos documentos a que aludem os números 2, 3 e 4 do artigo 6.º do presente Regulamento.
+
+3 - A instrução incompleta do processo e ou a prestação de falsas declarações são causa de indeferimento liminar do requerimento da candidatura.
+
+4 - A apresentação da candidatura não confere o direito à Bolsa da Teleassistência.
+
+###### Artigo 42.º — Processo de Seleção de Atribuição do Serviço
+
+1 - A avaliação das candidaturas apresentadas será efetuada por uma Comissão composta por quatro elementos: o eleito com o pelouro da Ação Social, que preside, um técnico da área da Ação Social, a designar pela Câmara, um representante da equipa do apoio aos idosos da PSP (Apoio 65) e um elemento da Guarda Nacional Republicana.
+
+2 - No caso de existirem candidatos em igualdade de circunstâncias para a atribuição da Bolsa de Teleassistência, serão selecionados de acordo com as seguintes prioridades:
+
+a) Grau de isolamento;
+
+b) Grau de dependência;
+
+c) Valor do rendimento per capita.
+
+3 - Será, previamente elaborada uma lista ordenada, provisória, que será enviada a todos os candidatos, que poderão apresentar reclamação no prazo de 10 dias úteis.
+
+4 - A concessão do serviço de Teleassistência é da competência da Câmara Municipal de Elvas, com base no relatório elaborado pela Comissão, para a seleção de atribuição da Bolsa. Podendo esta competência ser delegada no Sr. Presidente da Câmara ou no Vereador que a Câmara Municipal designe.
+
+###### Artigo 43.º — Formas de Apoio
+
+A Câmara Municipal de Elvas oferece a Bolsa de Teleassistência que compreende:
+
+1 - Equipamento e instalação do serviço de Apoio Básico fixo de Teleassistência;
+
+2 - Pagamento da mensalidade do Serviço Básico de Teleassistência, bem como o valor das chamadas telefónicas até um máximo de (euro)10,00/mês, por um período de 12 meses, findo o qual será efetuada uma reavaliação da situação, com vista à sua renovação por igual período.
+
+###### Artigo 44.º — Contrato
+
+A atribuição da Bolsa de Teleassistência será materializada mediante acordo a celebrar entre a Câmara Municipal de Elvas e o Utente, no qual se estabelecem os direitos e as obrigações das partes.
+
+###### Artigo 45.º — Processo de Candidatura ao Serviço
+
+1 - Os candidatos que queiram usufruir do Serviço e que não tenham solicitado a Bolsa de Serviços de Teleassistência atribuída pela Câmara Municipal ou que não tenham sido contemplados, devem apresentar a sua candidatura nos Serviços de Ação Social desta.
+
+2 - As candidaturas devem ser instruídas com os seguintes documentos:
+
+a) Ficha de adesão;
+
+b) Bilhete de Identidade/Cartão do Cidadão;
+
+c) Número de Identificação Fiscal/Cartão do Cidadão;
+
+d) Número de Identificação Segurança Social/Cartão de Cidadão;
+
+e) Cartão de Pensionista;
+
+f) Outros a solicitar.
+
+### CAPÍTULO VII — Universidade Sénior de Elvas
+
+###### Artigo 46.º — Objetivos
+
+1 - São objetivos gerais da Universidade Sénior de Elvas:
+
+a) Promover a inclusão e o desenvolvimento social através da criação e da dinamização de respostas assentes no princípio da discriminação positiva necessária para combater problemas de exceção;
+
+b) Evidenciar e consolidar o papel determinante de pessoa idosa enquanto instrumento mobilizador do seu processo de mudança e desenvolvimento;
+
+c) Promover condições para um envelhecimento com qualidade.
+
+2 - São objetivos específicos da Universidade Sénior de Elvas:
+
+a) Desenvolver atividades educativas, culturais e formativas junto de pessoas com 50 ou mais anos;
+
+b) Incentivar a participação e organização de Seniores em atividades culturais, de lazer e desportivas;
+
+c) Ser polo de informação e divulgação de serviços e direitos dos Seniores;
+
+d) Desenvolver as relações interpessoais e sociais entre as diferentes gerações;
+
+e) Criar condições para elevar a auto - estima e a auto - confiança do público - alvo;
+
+f) Constituir um polo de informação e divulgação de serviços, recursos, direitos e deveres dos mais idosos;
+
+g) Incentivar o voluntariado na e para a comunidade;
+
+h) Trabalhar em articulação com entidades públicas e particulares.
+
+###### Artigo 47.º — Coordenação
+
+1 - O Município de Elvas é a entidade promotora da Universidade Sénior de Elvas.
+
+2 - A Coordenação da Universidade Sénior de Elvas será assegurada por uma comissão constituída pelo eleito da área, por um técnico superior nomeado pela entidade promotora, um professor da Universidade Sénior, alunos (nomeados pelos restantes alunos) e os presidentes das diversas freguesias rurais do concelho.
+
+3 - Compete à Comissão Coordenadora a gestão das instalações da Universidade Sénior de Elvas, o planeamento e coordenação de todas as atividades, bem como assegurar o seu normal funcionamento.
+
+###### Artigo 48.º — Local de Funcionamento
+
+As atividades da Universidade Sénior funcionarão nos seguintes locais:
+
+a) Edifício do Centro de Juventude (1.º e 2.º pisos), na Praça da República;
+
+b) Nas freguesias rurais do concelho, em locais a designar;
+
+c) Piscinas Municipais;
+
+d) Ginásio Sénior;
+
+e) Outros locais que se julguem convenientes, dependendo das atividades que se pretendam desenvolver.
+
+###### Artigo 49.º — Atividades
+
+1 - As aulas a ministrar na Universidade Sénior de Elvas dependem, quer do interesse dos alunos, quer da disponibilidade dos professores voluntários.
+
+2 - A Comissão Coordenadora da Universidade Sénior de Elvas poderá promover atividades extracurriculares, como por exemplo, visitas, passeios culturais, festas tradicionais, colóquios, entre outras.
+
+###### Artigo 50.º — Condições de Admissão
+
+Serão admitidos na Universidade Sénior de Elvas as pessoas que:
+
+a) Tenham idade igual ou superior a 50 anos;
+
+b) Demonstrem ter gosto e vontade de aprender;
+
+c) Não sofram de doença ou perturbação mental que prejudique o regular funcionamento da Universidade Sénior.
+
+d) Aceitem os princípios e normas de funcionamento da Universidade Sénior de Elvas;
+
+e) Procedam à inscrição através do preenchimento da ficha de candidatura.
+
+###### Artigo 51.º — Documentos a apresentar
+
+Os alunos que pretendam frequentar a Universidade Sénior de Elvas entregarão os seguintes documentos, conjuntamente com a ficha de inscrição:
+
+a) 1 Fotografia;
+
+b) Fotocópia do B.I. ou cartão do cidadão;
+
+c) Fotocópia cartão contribuinte.
+
+###### Artigo 52.º — Processo individual
+
+1 - Para uma melhor compreensão da evolução dos alunos da Universidade Sénior de Elvas, será elaborado, por cada aluno, um processo individual e confidencial.
+
+2 - A consulta do processo deverá ser facultada sempre que o aluno o solicite.
+
+###### Artigo 53.º — Comparticipação financeira
+
+Os alunos que pretendam frequentar a Universidade Sénior de Elvas encontram-se isentos do pagamento de qualquer mensalidade ou inscrição, podendo a Câmara Municipal de Elvas deliberar, se assim o entender, definir uma mensalidade e/ou montante de inscrição.
+
+###### Artigo 54.º — Funcionamento
+
+1 - Os serviços administrativos da Universidade Politécnica Sénior de Elvas funcionarão numa dependência da Câmara Municipal de Elvas.
+
+2 - As aulas são ministradas em horário a definir, anualmente, de acordo com a disponibilidade dos professores.
+
+###### Artigo 55.º — Programação
+
+A programação das diferentes disciplinas deverá ter em conta os interesses dos alunos e estar adaptada à realidade sociocultural do meio em que vivem.
+
+###### Artigo 56.º — Integração dos serviços
+
+A Universidade Sénior de Elvas deverá promover a colaboração de outros serviços existentes na comunidade, de forma a potenciar as respostas e de as apresentar aos alunos de forma coerente.
+
+###### Artigo 57.º — Direitos do aluno
+
+O aluno da Universidade Sénior de Elvas tem direito a:
+
+a) Participar ativamente nas atividades estabelecidas;
+
+b) Promover atividades e apresentar sugestões sobre os serviços prestados;
+
+c) Dispor de um seguro de acidentes pessoais.
+
+###### Artigo 58.º — Deveres do aluno
+
+O aluno da Universidade Sénior de Elvas deve:
+
+a) Cumprir o presente Regulamento.
+
+b) Manter um bom relacionamento com os outros alunos, professores, funcionários e colaboradores em geral;
+
+c) Zelar pelos equipamentos e instalações da Universidade Sénior de Elvas;
+
+d) Participar ativamente nas atividades/disciplinas da Universidade Sénior em que se inscreve.
+
+###### Artigo 59.º — Recursos Humanos
+
+O pessoal a afetar à Universidade Sénior será estabelecido pela Câmara Municipal de Elvas de modo a garantir a qualidade e a eficácia dos serviços.
+
+###### Artigo 60.º — Técnico responsável
+
+São funções do técnico responsável:
+
+a) Integrar a Comissão Coordenadora;
+
+b) Coordenar a ação de todo o pessoal e voluntários;
+
+c) Organizar e atualizar os processos individuais dos alunos;
+
+d) Elaborar e apresentar à Comissão Coordenadora o relatório mensal das atividades desenvolvidas.
+
+###### Artigo 61.º — Voluntários
+
+1 - O voluntário é o indivíduo que, de forma livre e gratuita, se compromete, de acordo com as suas aptidões e tempo livre, a realizar ações de voluntariado no âmbito da Universidade Sénior de Elvas.
+
+2 - As candidaturas de voluntários serão analisadas pela Comissão Coordenadora.
+
+3 - A Universidade Sénior de Elvas funcionará com o auxílio de voluntários para a realização de diversas funções, designadamente a função de lecionar.
+
+4 - A Universidade Sénior de Elvas funcionará com professores ou instituições não voluntários apenas quando se tratar de disciplinas cujo desenvolvimento não for possível através dos professores voluntários.
+
+###### Artigo 62.º — Direitos dos voluntários
+
+São direitos dos voluntários:
+
+a) Possuir um seguro;
+
+b) Exercer o seu trabalho de voluntariado em condições de higiene e segurança;
+
+c) Ser ouvido e respeitado nas decisões que possam ser tomadas relativamente ao funcionamento da Universidade Sénior de Elvas.
+
+###### Artigo 63.º — Deveres dos voluntários
+
+São deveres dos voluntários:
+
+a) Cumprir o horário previamente definido, de comum acordo, entre o voluntário e a Universidade Sénior de Elvas - no caso da impossibilidade de cumprimento de horário, tal facto deverá ser comunicado à Universidade Sénior de Elvas com 48 horas de antecedência;
+
+b) Comparecer nas reuniões (quando marcadas) com a Comissão Coordenadora, exceto quando a sua atividade profissional ou pessoal o não permita;
+
+c) Participar nas reuniões de planeamento e avaliação com a Comissão Coordenadora e com os parceiros, exceto quando a sua atividade profissional ou pessoal o não permita;
+
+d) Justificar a não comparência às reuniões e ao compromisso das atividades que lhe são confiadas;
+
+e) Comunicar à Comissão Coordenadora, através dos serviços competentes, todos os incidentes que ocorram no desenrolar das suas funções;
+
+f) Cuidar dos equipamentos que utiliza no desenvolvimento da sua ação;
+
+g) Não tomar iniciativas quanto a novas atividades sem conhecimento prévio e aprovação da Comissão Coordenadora;
+
+h) Guardar sigilo sobre todas as informações que lhe sejam transmitidas pelos alunos, outros voluntários ou qualquer membro da Universidade Sénior de Elvas;
+
+i) Partilhar com os outros os conhecimentos, experiências, informações e recursos.
+
+### CAPÍTULO VIII — Apoio a Deficientes
+
+###### Artigo 64.º — Âmbito
+
+1 - Os portadores de grau de incapacidade igual ou superior a 60 %, permanente ou não, poderão usufruir, dos benefícios elencados no artigo seguinte.
+
+2 - Para usufruírem de tais benefícios, não é necessário que estejam em situação de carência económica, bastando a prova do grau de invalidez.
+
+3 - Caso a incapacidade seja temporária, os benefícios perdurarão enquanto a mesma se mantiver.
+
+###### Artigo 65.º — Benefícios
+
+1 - Os portadores de grau de incapacidade referido no artigo anterior, se forem portadores do cartão da idade de ouro, usufruem de uma majoração 5 p.p. no apoio aos medicamentos.
+
+2 - Os portadores de grau de incapacidade referido no artigo anterior, com idade igual ou superior a 50 anos e rendimentos superiores a (euro)550,00 e inferiores a (euro)825,00, usufruem dos mesmos benefícios dos portadores do cartão da idade de ouro.
+
+3 - Os portadores de grau de incapacidade referido no artigo anterior, com idade inferior a 50 anos e rendimentos iguais ou inferiores a (euro)550,00, usufruem dos mesmos benefícios dos portadores do cartão da idade de ouro.
+
+###### Artigo 66.º — Documentos
+
+A inscrição deverá ser acompanhada pelos documentos a que aludem os números 2, 3 e 4 do artigo 6.º do presente Regulamento e ainda de Atestado de Incapacidade.
+
+### CAPÍTULO IX — Ocupação Municipal de Jovens
+
+#### Secção I — Disposições comuns aos Programas Municipais de Ocupação de Jovens
+
+###### Artigo 67.º — Objeto
+
+1 - Os Programas de Ocupação de Jovens, adiante designado OMTL e OMTJ, visam a ocupação saudável dos tempos livres dos jovens em atividades de interesse municipal, permitindo-lhes o contacto experimental com a vida profissional por forma a potenciar as suas capacidades cívicas e de participação social, sendo ao mesmo tempo um contributo para o processo educativo e/ou inserção no mundo laboral.
+
+2 - Os Programas a desenvolver tem como limite de atuação as atribuições das autarquias.
+
+3 - A admissão dos jovens aos Programas de Ocupação é da competência do eleito com o pelouro da Ação Social, cabendo a este decidir sobre o número de jovens a admitir.
+
+###### Artigo 68.º — Natureza
+
+1 - Os jovens são ocupados no desenvolvimento de atividades, nomeadamente, nas seguintes áreas:
+
+a) Educação;
+
+b) Património e cultura;
+
+c) Desporto;
+
+d) Saúde;
+
+e) Ação social;
+
+f) Ambiente e proteção civil;
+
+g) Apoio a idosos e crianças;
+
+h) Outras de reconhecido interesse municipal.
+
+2 - Independentemente da área de ocupação, os jovens não podem desenvolver atividades de natureza predominantemente administrativa nem outras usualmente desempenhadas por funcionários ou profissionais sob a orientação e direção da Câmara Municipal.
+
+###### Artigo 69.º — Orientador responsável
+
+O eleito da área designará o orientador responsável pelo acompanhamento dos jovens no desenvolvimento do Programa correspondente.
+
+###### Artigo 70.º — Apoios
+
+1 - O jovem participante no Programa tem direito, durante o período de ocupação no projeto:
+
+a) A um seguro de acidentes pessoais, da responsabilidade da Câmara Municipal de Elvas;
+
+b) A uma bolsa de montante a definir por deliberação da Câmara Municipal, valor este que poderá ser atualizado sempre que o executivo assim o entenda.
+
+2 - A bolsa referida na alínea b) do número anterior não reveste carácter de remuneração/retribuição de qualquer prestação de serviço e destina-se a fazer face a despesas que surjam do desenvolvimento das atividades.
+
+3 - O processamento do pagamento da citada bolsa é da responsabilidade da Divisão Financeira e de Desenvolvimento/Divisão de Administração Urbanística e Recursos Humanos, mediante a entrega do mapa de assiduidade.
+
+4 - Os jovens que integrarem o programa não são admitidos por contrato de trabalho nem adquirem qualquer vínculo à administração pública pela sua integração no programa.
+
+###### Artigo 71.º — Associações sem fins lucrativos, Juntas de Freguesia e Organismos Públicos
+
+1 - Poder-se-ão candidatar aos presentes programas, com o objetivo de receber jovens a ocupar nas suas atividades e projetos culturais, desportivos, recreativos e sociais, as associações sem fins lucrativos, as Juntas de Freguesia e os Organismos Públicos, com sede no Concelho.
+
+2 - A candidatura pode ser apresentada a todo o tempo mediante requerimento onde solicite o número de jovens e a finalidade pretendida.
+
+3 - As candidaturas serão analisadas e decididas pelo eleito da área, decisão que terá necessariamente em consideração a existência de jovens disponíveis, as informações elaboradas pelos serviços municipais sobre a matéria e a disponibilidade financeira para o efeito.
+
+4 - A colocação do jovem na associação terá a mesma duração do programa correspondente.
+
+5 - Os jovens colocados na Associação, Junta ou Organismo não poderão substituir funcionários contratados por aquela.
+
+###### Artigo 72.º — Deveres da Autarquia
+
+Constituem deveres da autarquia:
+
+a) Desenvolver os Programa de forma a dar cumprimento à sua filosofia;
+
+b) Divulgar os Programa;
+
+c) Facultar os formulários para inscrição dos jovens;
+
+d) Selecionar os candidatos;
+
+e) Informar os jovens cujas candidaturas foram aceites da aprovação fornecendo-lhes todos os elementos necessários para a sua participação;
+
+f) Efetuar o pagamento aos jovens participantes da bolsa referida no artigo anterior.
+
+###### Artigo 73.º — Deveres do orientador
+
+Constituem deveres do orientador:
+
+a) O cumprimento das orientações definidas no presente regulamento e sua filosofia;
+
+b) Assegurar as condições necessárias ao bom desenvolvimento das atividades a desenvolver pelos jovens que orientam;
+
+c) Acompanhar os jovens no desempenho das atividades, apoiando-os na efetiva ocupação dos seus tempos livres;
+
+d) Encarregar-se de verificar a assiduidade dos jovens e confirmá-la junto da autarquia mediante documento comprovativo.
+
+e) Entregar um Relatório de Avaliação de cada jovem no final da sua participação.
+
+###### Artigo 74.º — Deveres dos jovens participantes
+
+1 - Constituem deveres dos jovens participantes nos Programas:
+
+a) A assiduidade;
+
+b) Cumprir os horários estipulados;
+
+c) Seguir orientações definidas pela Autarquia no leque de atividades previstas pelo Programa;
+
+d) Aceitar as condições previstas no presente regulamento;
+
+e) Desenvolver as atividades que lhes foram destinadas dentro dos princípios regentes do local onde foi colocado.
+
+2 - O incumprimento de qualquer dos deveres referidos no artigo anterior determina a exclusão do jovem do Programa e o não pagamento da bolsa.
+
+###### Artigo 75.º — Certificado de Participação
+
+Os jovens recebem no final da realização do projeto um certificado da sua participação no Programa, o qual identifica o projeto, a área, as atividades desenvolvidas e o período de ocupação.
+
+#### Secção II — Ocupação Municipal Temporária de Jovens
+
+###### Artigo 76.º — Destinatários
+
+Podem participar no OMTJ todos os jovens, residentes na área do Município de Elvas, que estejam à procura do primeiro emprego ou desempregados, com idades compreendidas entre os 18 e os 26 anos, inclusive.
+
+###### Artigo 77.º — Duração
+
+1 - A colocação dos jovens no programa OMTJ tem uma duração mínima de um mês e uma duração máxima de onze meses.
+
+2 - O jovem só poderá voltar a participar no programa findo o prazo de um mês contado da data do termo da participação anterior.
+
+3 - O jovem colocado tem o direito de ser dispensado da sua assiduidade durante 10 dias úteis, a combinar com o eleito e/ou orientador.
+
+4 - O eleito com competência na área fixará, anualmente, o número máximo de jovens a admitir no programa do respetivo ano.
+
+###### Artigo 78.º — Candidatura dos jovens
+
+1 - Os jovens interessados em participar no Programa OMTJ devem inscrever-se nas instalações da Câmara Municipal de Elvas, através do preenchimento de formulário fornecido pela Autarquia, em qualquer altura do ano.
+
+2 - A inscrição deverá ser acompanhada dos seguintes documentos, a apresentar pelo interessado:
+
+a) Cópia do Bilhete de Identidade ou Cartão do Cidadão;
+
+b) Cópia do Certificado de Habilitações;
+
+c) Caso a inscrição pretendida tenha lugar no decurso de ano letivo, declaração de que, nesse mesmo ano letivo, não se encontra, ou encontrou há menos de dois meses, matriculado no ensino diurno.
+
+d) Histórico da Segurança Social.
+
+###### Artigo 79.º — Participação dos jovens
+
+As tarefas a desempenhar pelos jovens ocupam em média 6 horas diárias, em local a indicar pela autarquia.
+
+###### Artigo 80.º — Seleção dos jovens
+
+1 - O eleito com competência delegada ou subdelegada na área fará a seleção dos jovens candidatos, mediante os elementos constantes na inscrição, atendendo aos seguintes critérios:
+
+a) Interesse manifestado por uma determinada área de ocupação;
+
+b) Proximidade da residência do jovem relativamente ao desenvolvimento da atividade;
+
+c) Mais anos de idade;
+
+d) Maiores habilitações académicas.
+
+2 - A colocação dos jovens nas áreas pelas quais manifestaram interesse fica dependente das vagas existentes nas áreas em causa, podendo, sempre que essas vagas se encontrem já preenchidas, proceder-se à colocação dos jovens em área diversa.
+
+###### Artigo 81.º — Colocação dos jovens
+
+Após seleção dos jovens candidatos ao OMTJ, os serviços da Câmara Municipal, comunicam a cada jovem selecionado o local onde foi colocado, a duração e período de ocupação, o horário a cumprir, as atividades que lhe serão atribuídas e o orientador responsável pelo acompanhamento do jovem, devendo este manifestar, até cinco dias antes do início estipulado para desenvolvimento das atividades, o seu interesse em concretizá-las.
+
+#### Secção III — Ocupação Municipal dos Tempos Livres
+
+###### Artigo 82.º — Destinatários
+
+Podem participar no OMTL todos os jovens residentes na área do Município de Elvas que estejam inseridos no sistema de ensino ou no sistema de formação profissional com idades compreendidas entre os 16 e os 25 anos.
+
+###### Artigo 83.º — Duração
+
+1 - O programa OMTL (férias de verão) pretende ocupar os tempos livres dos jovens durante o período de férias escolares de verão, decorrendo de 1 de julho a 15 de setembro.
+
+2 - O programa OMTL (férias de verão) tem a duração de 2 semanas e ocupa os jovens 4 horas por dia.
+
+3 - O programa OMTL - longa duração pretende ocupar os tempos livres dos jovens que estejam a concluir até um máximo de três disciplinas.
+
+4 - O programa OMTL - longa duração tem a duração idêntica ao período de inscrição do jovem na escola nesse ano letivo e ocupa os jovens 3 horas por dia.
+
+###### Artigo 84.º — Candidatura dos jovens
+
+Os jovens interessados em participar no Programa OMTL devem inscrever-se nas instalações da Câmara Municipal de Elvas, através do preenchimento de formulário fornecido pela Autarquia, durante a segunda quinzena de maio e a primeira quinzena de junho, no caso dos OMTL férias de verão, e em qualquer altura do ano no caso dos OMTL de longa duração.
+
+###### Artigo 85.º — Participação dos jovens
+
+As tarefas a desempenhar pelos jovens ocupam em média 4 horas diárias [no caso de OMTL (férias de verão)] ou 3 horas diárias (no caso de OMTL de longa duração), em local a indicar pela autarquia.
+
+###### Artigo 86.º — Seleção dos jovens
+
+O eleito com competência delegada ou subdelegada na área fará a seleção dos jovens candidatos, mediante os elementos constantes na inscrição, atendendo a qualquer um dos seguintes critérios:
+
+a) Interesse manifestado por uma determinada área de ocupação;
+
+b) Proximidade da residência do jovem relativamente ao desenvolvimento da atividade;
+
+c) Ordem de inscrição;
+
+d) Mais anos de idade
+
+###### Artigo 87.º — Colocação dos jovens
+
+Após seleção dos jovens candidatos ao OMTL, a Câmara Municipal comunica a cada jovem selecionado o local onde foi colocado, a duração e período de ocupação, o horário a cumprir, as atividades que lhe serão atribuídas e o orientador responsável pelo acompanhamento do jovem, devendo este manifestar até cinco dias antes do início estipulado para desenvolvimento das atividades o seu interesse em concretizá-las.
+
+### CAPÍTULO X — Apoio à Formação Ativa
+
+###### Artigo 88.º — Princípios Gerais
+
+1 - O presente Capítulo tem por objeto estabelecer as condições e os procedimentos necessários para a atribuição da Bolsa Formação Ativa.
+
+2 - A Câmara Municipal de Elvas atribuirá mensalmente a Bolsa Formação Ativa, durante a vigência da formação.
+
+###### Artigo 89.º — Âmbito
+
+1 - A bolsa abrange cursos de formação ministrados pelo IEFP de Elvas que forneçam nível de qualificação 3 ou 4, a jovens entre os 18 e os 26 anos de idade que já tenham concluído o nível de qualificação 2.
+
+2 - Podem candidatar-se os jovens que preencham cumulativamente, todos os requisitos fixados no presente Capítulo.
+
+###### Artigo 90.º — Características da bolsa
+
+1 - A bolsa a que se refere o presente Capítulo consubstancia um subsídio de natureza pecuniária.
+
+2 - As bolsas terão o valor de (euro)125,00 mês por cada jovem, podendo este valor ser alterado por decisão do eleito com competência delegada ou subdelegada na área.
+
+###### Artigo 91.º — Condições de acesso
+
+1 - Os candidatos à bolsa devem satisfazer, cumulativamente, as seguintes condições:
+
+a) Residirem no concelho de Elvas;
+
+b) Terem finalizado formação profissional com nível de qualificação 2;
+
+c) Terem idade compreendida entre os 18 e os 26 anos;
+
+d) Frequentarem curso de formação profissional ministrado pelo IEFP de Elvas com nível de qualificação 3 ou 4.
+
+e) Não possuírem qualquer outra fonte de rendimento pessoal.
+
+2 - As alterações decorrentes de qualquer circunstância que possa influir nas condições de acesso à bolsa, pode, mediante deliberação da Câmara Municipal ou despacho do eleito da área, levar ao cancelamento da mesma.
+
+###### Artigo 92.º — Candidaturas
+
+1 - As candidaturas à bolsa deverão ser entregues na subunidade orgânica flexível socioeducativa da Câmara Municipal de Elvas.
+
+2 - Para efeitos de instrução das candidaturas, são necessários os seguintes documentos:
+
+a) Requerimento a solicitar a concessão/atribuição da bolsa;
+
+b) Fotocópia do bilhete de identidade e número de contribuinte ou cartão de cidadão;
+
+c) Documento probatório de conclusão de formação com nível de qualificação 2;
+
+d) Documento probatório da inscrição na formação nível de qualificação 3 ou 4, ministrada pelo IEFP de Elvas, há pelo menos 15 dias;
+
+e) Atestado de residência passado pela Junta de Freguesia.
+
+3 - Para além dos elementos mencionados no número anterior, podem ser ainda requeridos outros elementos informativos e ou técnicos, para completar o processo.
+
+4 - A entrega dos documentos necessários à instrução do processo de candidatura não confere, por si só, aos candidatos, direito à bolsa.
+
+###### Artigo 93.º — Processo de seleção
+
+As bolsas serão atribuídas aos jovens por despacho do eleito com competência delegada ou subdelegada na área, mediante informação dos serviços.
+
+###### Artigo 94.º — Obrigações do bolseiro
+
+São obrigações dos bolseiros:
+
+a) Entregar à Câmara Municipal de Elvas comprovativo da assiduidade e aproveitamento na formação onde se inscreveu;
+
+b) Prestar todos os esclarecimentos que lhe forem solicitados pela Câmara Municipal no âmbito do processo de atribuição da bolsa caso seja solicitado.
+
+### CAPÍTULO XI — Bolsas de Estudo
+
+#### Secção I — Bolsas de Estudo a Alunos do Ensino Superior e de Cursos de Especialização Tecnológica - CET's e CTeSP
+
+###### Artigo 95.º — Objeto
+
+O presente Capítulo estabelece as normas de atribuição de bolsas de estudo por parte do Município de Elvas a estudantes residentes no concelho, matriculados no ensino superior (grau de Licenciatura e mestrado integrado), em estabelecimento de ensino superior público, privado ou cooperativo, reconhecidos pelo ministério da tutela ou em Cursos de Especialização Tecnológica - CET's ou CTeSP (Cursos Técnicos Superiores Profissionais) em situação de igualdade, não descriminação e proporcionalidade com os demais alunos.
+
+###### Artigo 96.º — Natureza das Bolsas
+
+1 - A Câmara Municipal de Elvas pretende com este regulamento apoiar, através da concessão e atribuição de bolsas de estudo, os jovens estudantes em situação de carência socioeconómica, e residentes neste concelho, que pretendam frequentar, ou frequentem, o ensino superior ou cursos de especialização tecnológica - CET's ou CTeSP.
+
+2 - Podem candidatar-se os jovens estudantes que preencham, cumulativamente, todos os requisitos fixados no presente regulamento.
+
+###### Artigo 97.º — Princípios gerais
+
+1 - A Câmara Municipal de Elvas atribuirá anualmente as bolsas de estudo a jovens que pretendam frequentar ou frequentem o ensino superior ou cursos de especialização tecnológica - CET's ou CTeSP, em estabelecimentos de ensino superior público, privado ou cooperativo, ou outros reconhecidos pelo ministério da tutela.
+
+2 - Serão atribuídas anualmente 50 bolsas a alunos do ensino superior, sendo que a Câmara Municipal de Elvas ou o eleito com competência delegada ou subdelegada na área poderá deliberar/decidir número superior quando existirem mais de 50 candidatos em condições de receber a bolsa de estudo, no montante de (euro)150,00 mensais durante 10 meses.
+
+3 - Serão atribuídas anualmente 50 bolsas a alunos dos Cursos de Especialização Tecnológica - CET's ou CTeSP, sendo que a Câmara Municipal de Elvas ou o eleito com competência delegada ou subdelegada na área poderá deliberar/decidir número superior quando existirem mais de 50 candidatos em condições de receber a bolsa de estudo, no montante de (euro)50,00 mensais durante 9 meses.
+
+###### Artigo 98.º — Modalidade e periodicidade das bolsas
+
+A bolsa é atribuída mensalmente, sendo que a 1.ª prestação diz respeito ao mês de outubro e a última ao mês julho, com exceção dos CET's ou CTeSP, cuja primeira prestação respeitará ao mês da sua admissão no respetivo curso.
+
+###### Artigo 99.º — Condições de acesso
+
+1 - Os candidatos a bolseiros devem satisfazer, cumulativamente as seguintes condições:
+
+a) Residirem no concelho de Elvas;
+
+b) Estarem matriculados em estabelecimento de ensino superior público ou particular e cooperativo, reconhecidos pelo ministério da tutela;
+
+c) Terem obtido aproveitamento escolar no ano anterior, tal como definido no presente Regulamento, caso tenham estado matriculados no ensino superior no ano letivo anterior àquele para que requerem a bolsa;
+
+d) Não serem detentores de qualquer tipo de grau de ensino superior;
+
+e) O agregado familiar contar com o rendimento anual ilíquido, per capita, igual ou inferior a (euro)6.000,00 (ano anterior ao da candidatura) e não possuam bens imóveis não hipotecados de valor patrimonial superior a (euro)75.000,00 e ou tenham participações em sociedades que apresentem resultados líquidos positivos;
+
+f) Não ter qualquer tipo de divida ao Município de Elvas, à Administração Fiscal e à Segurança Social;
+
+g) Terem idade igual ou inferior a 25 anos até à data da candidatura.
+
+2 - a) As alterações supervenientes de qualquer circunstância que, no período em que o jovem é bolseiro, possam influir nas condições de acesso à bolsa pode, mediante deliberação da Câmara Municipal ou despacho do eleito com competência delegada ou subdelegada na área, levar ao cancelamento da mesma.
+
+b) Se no ano da candidatura os rendimentos do agregado familiar diminuírem para um rendimento per capita inferior a seis mil euros, considerar-se-á que o candidato reúne as condições de acesso. Para o efeito deverão ser junto documentos comprovativos da situação, nomeadamente recibos de vencimento, declaração de situação de desemprego se for o caso, e ainda declaração de compromisso de honra de entrega de demais elementos que o júri venha a considerar necessário como meio de prova, como sejam a declaração de rendimentos do ano da candidatura logo que disponível.
+
+###### Artigo 100.º — Conceito de Aproveitamento Escolar
+
+1 - Para efeitos de presente regulamento, considera-se que o aluno obteve aproveitamento escolar num ano letivo desde que a reprovação em determinadas cadeiras não acarretem reprovação do ano letivo, de acordo com as normas em vigor no respetivo estabelecimento de ensino que frequenta.
+
+2 - Os alunos que não obtenham aproveitamento escolar, nos termos referidos no número anterior, perderão o direito à bolsa de estudo, exceto por motivo de doença prolongada ou qualquer outra situação considerada especialmente grave, desde que devidamente comprovada e participada, em tempo oportuno, aos serviços da Câmara Municipal.
+
+3 - As exceções referidas no número anterior serão apreciados caso a caso, cabendo ao eleito da área decidir a manutenção ou não da bolsa de estudo.
+
+###### Artigo 101.º — Processo de Candidatura
+
+1 - O requerimento, devidamente preenchido, assinado e acompanhado pelos documentos comprovativos das condições de acesso à bolsa, deverá ser entregue na Câmara Municipal, na subunidade orgânica flexível socioeducativa, durante o período de 15 de setembro a 31 de outubro.
+
+2 - A entrega dos documentos necessários à instrução do processo de candidatura não confere por si só, aos candidatos, direito a uma bolsa de estudo.
+
+§ Único: O disposto no presente artigo não se aplica aos alunos dos CET's, podendo as candidaturas ser contínuas, uma vez que estes cursos têm prazo de inícios distintos.
+
+###### Artigo 102.º — Candidaturas
+
+1 - Para efeitos de instrução das candidaturas, são necessários os seguintes documentos:
+
+a) Requerimento a solicitar a concessão/atribuição da bolsa de estudo;
+
+b) Fotocópia do Bilhete de identidade e do número de contribuinte do candidato ou cartão de cidadão;
+
+c) Documento probatório de titularidade do curso de ensino secundário e da respetiva classificação (média);
+
+d) Atestado de residência e declaração passada pela junta de freguesia onde conste o nome e número de pessoas que compõem o agregado familiar do candidato;
+
+e) Certificado de matrícula no ensino superior ou em curso de especialização tecnológica - CET's ou CTeSP, com especificação do curso;
+
+f) Declaração do estabelecimento de ensino que frequentou no ano letivo anterior, comprovando o aproveitamento escolar, e certificado de matrícula com especificação do curso e ano quando se trata de estudantes já integrados no ensino superior;
+
+g) Fotocópia da declaração de IRS e nota de liquidação do ano anterior de todos os elementos do agregado familiar,
+
+h) Declaração de compromisso de honra referente a detenção de bens, obtenção de rendimentos e participações sociais noutras sociedades.
+
+2 - Caso estejam isentos de apresentar IRS, ou por outra razão legal não apresentem este documento, devem entregar cópias de:
+
+a) Último recibo de vencimento, ou declaração das entidades patronais de cada um dos membros do agregado familiar com mais de 16 anos, com o(s) vencimento(s) mensal(is) e respetivos descontos;
+
+b) Em caso de desemprego de qualquer um dos elementos ativos do agregado familiar ou a família se encontrar abrangida pelo rendimento social de inserção, deverá ser apresentada declaração do centro distrital de solidariedade social e segurança social comprovando o valor do subsídio auferido;
+
+c) Recibo da renda da casa ou comprovativo da entidade financiadora do empréstimo para habitação própria;
+
+d) Em caso de existir separação dos pais, documento comprovativo do poder paternal, bem como informação do quantitativo pago por decisão judicial, por cada um dos menores do agregado com quem o aluno vive,
+
+e) Fotocópia de certidão de óbito em caso de falecimento [pai/mãe/esposo(a)].
+
+3 - Para além dos elementos mencionados no número anterior, podem ser ainda requeridos outros elementos informativos e ou técnicos, nomeadamente certidão de bens patrimoniais, certidão de obtenção de rendimentos e participações sociais noutras sociedades, de todos os elementos do agregado familiar quando se entenderam pertinentes para análise da situação socioeconómica do agregado familiar.
+
+###### Artigo 103.º — Processo de seleção
+
+As bolsas de estudo serão atribuídas aos candidatos por despacho do eleito com competência delegada ou subdelegada na área, mediante parecer elaborado por um júri, constituído para atribuição de bolsas de estudo e nomeado pelo eleito do pelouro da educação, sendo escolhido de entre técnicos afetos à subunidade orgânica flexível socioeducativa e à Divisão Financeira e de Desenvolvimento, ou outros que se julguem adequados.
+
+###### Artigo 104.º — Critérios de Seleção
+
+Caso o número de estudantes que satisfaçam os requisitos fixados no presente capítulo seja superior ao número máximo de bolsas a atribuir, atender-se-á sucessivamente:
+
+a) Ao menor rendimento per capita do agregado familiar;
+
+b) A média das classificações escolares do candidato, no ano anterior.
+
+###### Artigo 105.º — Lista Provisória
+
+1 - Até ao dia 10 de novembro de cada ano será elaborada uma lista provisória contendo os nomes dos alunos a quem tiver sido atribuída a bolsa de estudo.
+
+2 - A lista provisória será tornada pública, por meio de afixação de editais a afixar em lugares de estilo e ou divulgação no sítio da internet.
+
+###### Artigo 106.º — Reclamações
+
+1 - Os candidatos que se achem penalizados deverão fazer chegar a sua reclamação por escrito no prazo de 10 dias úteis a contar da data da publicação da lista provisória.
+
+2 - O eleito com competência delegada ou subdelegada na área decidirá sobre a lista definitiva, sob proposta do júri.
+
+3 - A lista definitiva será publicitada por afixação de edital e ou publicação no boletim municipal e ou divulgação no sitio da internet e ou através da comunicação social 5 dias úteis após o despacho supra referido.
+
+###### Artigo 107.º — Renovação das bolsas
+
+1 - As bolsas poderão ser renovadas, por proposta do júri, mediante despacho do eleito com competência delegada ou subdelegada na área, para todos os anos do ensino superior, até à sua conclusão, quando se verifique a manutenção da situação de carência económica e o aproveitamento escolar.
+
+2 - A bolsa será renovada, para o tempo de duração do curso do ensino superior em que o estudante esteja inscrito, mediante requerimento a apresentar anualmente, até 30 de agosto de cada ano, devendo o mesmo ser acompanhado dos documentos referidos aquando da apresentação da candidatura inicial.
+
+#### Secção II — Bolsas de Estudo a Alunos do Ensino Secundário
+
+###### Artigo 108.º — Objeto
+
+O presente Capítulo tem por objeto estabelecer as condições e os procedimentos necessários para a atribuição de bolsas de estudo a jovens estudantes carenciados, residentes no concelho de Elvas, as quais se destinam a possibilitar-lhes, a frequência do ensino secundário, numa escola do concelho em situação de igualdade, não descriminação e proporcionalidade com os demais alunos.
+
+###### Artigo 109.º — Âmbito
+
+1 - A Câmara Municipal de Elvas pretende com este regulamento apoiar, através da concessão e atribuição de bolsas de estudo, os jovens estudantes em situação de carência sócio -económica, e residentes neste concelho, que pretendam frequentar ou frequentem o ensino secundário na escola secundária ou escola profissional com paralelismo pedagógico do concelho.
+
+2 - Podem candidatar-se os jovens estudantes que preencham, cumulativamente, todos os requisitos fixados no presente regulamento.
+
+###### Artigo 110.º — Princípios gerais
+
+1 - A Câmara Municipal de Elvas atribuirá anualmente as bolsas de estudo a jovens que pretendam frequentar ou frequentem o ensino secundário, na escola secundária ou escola profissional com paralelismo pedagógico do concelho.
+
+2 - Serão atribuídas 125 bolsas, sendo que a Câmara Municipal de Elvas, ou o eleito com competência delegada ou subdelegada na área, poderá deliberar/decidir número superior quando existirem mais de 125 candidatos em condições de receber a bolsa de estudo, no montante de (euro)30,00 mensais durante 10 meses.
+
+###### Artigo 111.º — Bolsas
+
+1 - As bolsas são atribuídas mensalmente, sendo que a 1.ª prestação diz respeito ao mês de setembro e a última ao mês de junho.
+
+2 - Os alunos deverão fazer prova da sua inscrição ativa mediante a apresentação nos serviços da Câmara dos resultados escolares obtidos no período letivo anterior, até ao 5.º dia útil após a data de afixação das respetivas avaliações.
+
+###### Artigo 112.º — Condições de acesso
+
+1 - Os candidatos a bolseiros devem satisfazer, cumulativamente as seguintes condições:
+
+a) Residirem no concelho de Elvas;
+
+b) Estarem matriculados num estabelecimento de ensino secundário ou profissional com paralelismo pedagógico. No caso do pedido se referir aos 10.º, 11.º e 12.º anos, terem transitado no ano anterior com aproveitamento escolar a todas as disciplinas, constantes na respetiva matrícula;
+
+c) O Agregado familiar contar com o rendimento anual ilíquido, per capita, igual ou inferior a (euro)6.000,00 (ano anterior ao da candidatura) e não possuir bens imóveis não hipotecados de valor patrimonial superior a (euro)75.000,00 e ou ter participações em sociedades que apresentem resultados líquidos positivos no ano anterior ao da data da candidatura ou da sua renovação.
+
+d) Terem idade igual ou inferior a 20 anos.
+
+2 - a) As alterações supervenientes de qualquer circunstância que, no período em que o jovem é bolseiro, possam influir nas condições de acesso à bolsa pode, mediante deliberação da Câmara Municipal ou despacho do eleito com competência delegada ou subdelegada na área, levar ao cancelamento da mesma.
+
+b) Se no ano da candidatura os rendimentos do agregado familiar diminuírem para um rendimento per capita inferior a seis mil euros, considerar-se-á que o candidato reúne as condições de acesso. Para o efeito deverão ser junto documentos comprovativos da situação, nomeadamente recibos de vencimento, declaração de situação de desemprego se for o caso, e ainda declaração de compromisso de honra de entrega de demais elementos que o júri venha a considerar necessário como meio de prova, como sejam a declaração de rendimentos do ano da candidatura logo que disponível.
+
+§ Quando o aluno frequente o 10.º ano pela segunda vez, poderá candidatar-se desde que essa repetição diga respeito a mudança de área pedagógica e não a reprovação escolar.
+
+###### Artigo 113.º — Processo de Candidatura
+
+1 - O requerimento, devidamente preenchido, assinado e acompanhado pelos documentos comprovativos das condições de acesso à bolsa, deverá ser entregue na Câmara Municipal, na subunidade orgânica flexível sócio -educativa, até ao dia 15 de agosto de cada ano.
+
+2 - A entrega dos documentos necessários à instrução do processo de candidatura não confere por si só, aos candidatos, direito a uma bolsa de estudo.
+
+###### Artigo 114.º — Candidaturas
+
+1 - Para efeitos de instrução das candidaturas, são necessários os seguintes documentos:
+
+a) Requerimento a solicitar a concessão/atribuição da bolsa de estudo;
+
+b) Fotocópia do bilhete de identidade e do número de contribuinte do candidato ou cartão de cidadão;
+
+c) Documento probatório de ingresso no ensino secundário. No caso de já frequentarem o ensino secundário deverão também apresenta as classificações do ano letivo anterior;
+
+d) Atestado de residência e declaração passada pela junta de freguesia onde conste o nome e número de pessoas que compõem o agregado familiar do candidato;
+
+e) Fotocópia da declaração de IRS e nota de liquidação do ano anterior de todos os elementos do agregado familiar.
+
+f) Declaração de compromisso de honra referente a detenção de bens, obtenção de rendimentos e participações sociais noutras sociedades.
+
+2 - Caso estejam isentos de apresentar IRS, ou por outra razão legal não apresentem este documento, devem entregar cópias de:
+
+a) Último recibo de vencimento, ou declaração das entidades patronais de cada um dos membros do agregado familiar com mais de 16 anos, com o(s) vencimento(s) mensal(is) e respetivos descontos;
+
+b) Em caso de desemprego de qualquer um dos elementos ativos do agregado familiar ou a família se encontrar abrangida pelo rendimento social de inserção, deverá ser apresentada declaração do centro distrital de solidariedade social e segurança social comprovando o valor do subsídio auferido;
+
+c) Recibo da renda da casa ou comprovativo da entidade financiadora do empréstimo para habitação própria;
+
+d) Em caso de existir separação dos pais, documento comprovativo do poder paternal, bem como informação do quantitativo pago por decisão judicial, por cada um dos menores do agregado com quem o aluno vive.
+
+3 - Para além dos elementos mencionados no número anterior, podem ser ainda requeridos outros elementos informativos e ou técnicos, nomeadamente certidão de bens patrimoniais, certidão de obtenção de rendimentos e participações sociais noutras sociedades dos elementos do agregado familiar, emitida pela repartição de finanças, quando se entenderam pertinentes para análise da situação socioeconómica do agregado familiar.
+
+###### Artigo 115.º — Processo de seleção
+
+As bolsas de estudo serão atribuídas aos candidatos por despacho do eleito com competência delegada ou subdelegada na área, mediante parecer elaborado por um júri, constituído para atribuição de bolsas de estudo e nomeado pelo eleito do pelouro da educação, sendo escolhido de entre técnicos afetos à subunidade orgânica flexível socioeducativa e ao departamento financeiro, ou outros que se entendam adequados.
+
+###### Artigo 116.º — Critérios de Seleção
+
+Caso o número de estudantes que satisfaçam os requisitos fixados no presente capítulo seja superior ao número máximo de bolsas a atribuir, atender-se-á sucessivamente:
+
+a) Ao menor rendimento per capita do agregado familiar;
+
+b) A média das classificações escolares do candidato, no ano anterior.
+
+###### Artigo 117.º — Lista Provisória
+
+1 - Até ao dia 30 de agosto de cada ano será elaborada uma lista provisória contendo os nomes dos alunos a quem tiver sido atribuída a bolsa de estudo.
+
+2 - A lista provisória será tornada pública, por meio de afixação de editais a afixar em lugares de estilo e ou divulgação no sítio da internet.
+
+###### Artigo 118.º — Reclamações
+
+1 - Os candidatos que se achem penalizados deverão fazer chegar a sua reclamação por escrito à Câmara Municipal no prazo de 10 dias úteis a contar da data da publicação da lista provisória.
+
+2 - O eleito com competência delegada ou subdelegada na área decidirá sobre a lista definitiva, sob proposta do júri.
+
+3 - A lista definitiva será publicitada por afixação de edital e ou publicação no boletim municipal e ou divulgação no sítio da internet e ou através da comunicação social até 5 dias úteis após o despacho referido.
+
+###### Artigo 119.º — Renovação das bolsas
+
+1 - As bolsas poderão ser renovadas, por proposta do júri, mediante despacho do eleito da área, para todos os anos do ensino secundário, até à sua conclusão, quando se verifique a manutenção da situação de carência económica e o aproveitamento escolar a todas as disciplinas.
+
+2 - A bolsa será renovada, para o tempo de duração do ensino secundário, mediante requerimento a apresentar anualmente, até 30 de julho de cada ano, devendo o mesmo ser acompanhado dos documentos necessários para a sua atribuição inicial.
+
+#### Secção III — Disposições comuns às Bolsas de Estudo
+
+###### Artigo 120.º — Obrigação dos bolseiros
+
+São obrigações dos bolseiros:
+
+a) Manter a Câmara Municipal de Elvas informada do aproveitamento dos seus estudos;
+
+b) Informar, imediatamente a Câmara Municipal de alterações supervenientes de qualquer circunstância que possa influir nas condições de acesso ou renovação das bolsas;
+
+c) Prestar todos os esclarecimentos que lhe forem solicitados pela Câmara Municipal no âmbito do processo de atribuição de bolsas de estudo.
+
+###### Artigo 121.º — Anulação do direito à bolsa de estudo
+
+1 - Constituem causas de anulação da bolsa:
+
+a) Inexatidão e ou omissão das declarações prestadas à Câmara Municipal pelo bolseiro;
+
+b) A desistência de frequência de curso;
+
+c) A reprovação/falta de aproveitamento em todas as cadeiras/disciplinas no ano letivo ao da candidatura;
+
+d) Omissão de imediata informação de alterações supervenientes de qualquer circunstância que possa influir nas condições de acesso ou renovação das bolsas;
+
+e) Incumprimento das restantes obrigações de bolseiro referidas no artigo anterior;
+
+2 - Ao verificar-se o previsto nas alíneas a), b), c) do n.º 1 deste artigo, a Câmara Municipal reserva-se o direito de exigir do bolseiro ou do seu encarregado de educação, a restituição integral da bolsa já atribuída indevidamente.
+
+3 - A doença comprovada, dificuldades sociais ou outras causas que não sejam imputáveis ao bolseiro e que o levem a desistir da escola, poderão afastar a aplicação do n.º 2 deste artigo devendo, contudo, tais circunstâncias atenuantes serem analisadas e ponderadas caso a caso.
+
+###### Artigo 122.º — Disposições finais
+
+A Câmara de Elvas reserva-se o direito de solicitar aos estabelecimentos de ensino informações relativas aos alunos bolseiros ou candidatos a bolsa de estudo.
+
+###### Artigo 123.º — Cumulação
+
+As bolsas concedidas ao abrigo do presente regulamento são cumuláveis com quaisquer outras bolsas de estudo de natureza social.
+
+### CAPÍTULO XII — Centro de Férias Infantil do Município de Elvas
+
+###### Artigo 124.º — Objeto
+
+1 - O presente capítulo estabelece as regras de funcionamento do Centro de Férias Infantil do Município de Elvas, adiante designado abreviadamente por CFIME.
+
+2 - A realização do CFIME depende da aprovação anual, por parte do eleito com competência delegada ou subdelegada na área.
+
+###### Artigo 125.º — Conceito
+
+O CFIME é uma resposta social de extrema importância para o desenvolvimento físico/psicológico e sociocultural das crianças/jovens provenientes de estratos sociais desfavorecidos.
+
+###### Artigo 126.º — Objetivos
+
+Os objetivos do centro de férias são:
+
+a) Promover estadias fora do quadro habitual de vida;
+
+b) Desenvolver mecanismos de cidadania;
+
+c) Ocupar de forma positiva os tempos livres;
+
+d) Elevar o nível de autonomia de cada jovem;
+
+e) Desenvolver e fomentar espírito de grupo;
+
+f) Desenvolver competências socioeducativas.
+
+###### Artigo 127.º — Localização e duração
+
+A localização e duração do CFIME será definida por despacho do eleito com competência delegada ou subdelegada na área.
+
+###### Artigo 128.º — Destinatários
+
+1 - O CFIME destina-se a crianças provenientes de famílias carenciadas, com residência na área do município de Elvas que reúnam as condições previstas no presente Regulamento.
+
+2 - O CFIME destina-se a crianças com idade compreendida entre os 6 e 12 anos.
+
+###### Artigo 129.º — Capacidade
+
+1 - O CFIME terá capacidade para o número de crianças, a definir pelo eleito com competência delegada ou subdelegada na área.
+
+2 - O CFIME só se realizará com um número mínimo de 10 participantes.
+
+###### Artigo 130.º — Inscrições
+
+1 - As inscrições para o CFIME terão lugar na Secção Socioeducativa da Câmara Municipal de Elvas, em data a afixar anualmente.
+
+2 - As inscrições para o CFIME serão efetuadas em impresso a fornecer pela Câmara Municipal.
+
+###### Artigo 131.º — Condições de admissão
+
+Para admissão no CFIME os candidatos deverão reunir os seguintes requisitos:
+
+a) Ser residente no concelho de Elvas;
+
+b) Ter idade compreendida entre os 6 e 12 anos;
+
+c) Não ser portador de doença ativa (febre, infeto-contagiosa.);
+
+d) Ter o boletim de vacinas atualizado;
+
+e) Ter autorização, por escrito, dos pais.
+
+###### Artigo 132.º — Comparticipações
+
+A frequência no CFIME é gratuita. As despesas são da responsabilidade da autarquia.
+
+###### Artigo 133.º — Critérios de seleção
+
+1 - A situação dos candidatos ao CFIME será analisada de acordo com os indicadores, parâmetros e pontuação que a seguir se indica.
+
+2 - Os candidatos que apresentem um rendimento per capita disponível superior ao valor do Salário Mínimo Nacional serão excluídos.
+
+3 - O valor mensal per capita disponível é calculado pela seguinte fórmula:
+
+Rendimento per capita = (RA - DF)/(N.º de elementos do agregado familiar)
+
+RA - soma dos rendimentos de todos os elementos do agregado familiar.
+
+DF - Despesas fixas, sendo consideradas as seguintes:
+
+Habitação - renda ou prestação mensal de empréstimo contraído, água, luz, gás e telefone.
+
+Saúde - despesas regulares com medicação.
+
+Frequência dos equipamentos - apoio domiciliário, centro de dia, creche, jardim de infância, etc.
+
+###### Artigo 134.º — Avaliação das candidaturas
+
+1 - A avaliação das candidaturas recebidas será realizada por uma comissão de três elementos, a designar anualmente, por despacho do presidente da Câmara Municipal ou por vereador com poderes delegados na área.
+
+2 - A comissão avaliará a situação de cada uma delas, segundo os critérios supra indicados.
+
+###### Artigo 135.º — Decisão
+
+Ao processo e formas de divulgação dos excluídos e admitidos aplicar-se-á o Código do Procedimento Administrativo.
+
+###### Artigo 136.º — Documentação
+
+Os documentos exigidos para a candidatura e frequência do CFIME são:
+
+1) Documentos a entregar no ato de inscrição:
+
+a) Boletim de inscrição;
+
+b) Fotocópia da cédula pessoal, do bilhete de identidade ou do cartão do cidadão;
+
+c) Fotocópia da declaração de rendimentos do ano anterior ao da inscrição ou fotocópia do recibo de rendimentos do agregado;
+
+d) Fotocópia do recibo de renda de casa ou de amortização;
+
+e) Recibo dos três últimos meses das despesas da luz, gás, água e telefone;
+
+f) Comprovativo das despesas de saúde emitido pela farmácia;
+
+g) Comprovativo do médico de necessidade de medicação permanente;
+
+h) Atestado da junta que comprova a constituição do agregado familiar;
+
+i) Comprovativo das despesas de frequência de equipamentos sociais;
+
+j) Declaração médica que ateste a necessidade de frequência de centro balnear;
+
+k) Outros documentos que o encarregado de educação considere necessário para justificar a necessidade da frequência do centro.
+
+2) Documentos a entregar pelos candidatos após admissão:
+
+a) Fotocópia do boletim de vacinas atualizado;
+
+b) Cartão de beneficiário da segurança social;
+
+c) Cartão de utente do centro de saúde com indicação do médico de família e do número do processo familiar;
+
+d) Boletim de identificação de saúde;
+
+e) Declaração de autorização de frequência da colónia, assinada pelos pais ou encarregado de educação;
+
+f) Declaração médica que a criança não sofre de doença infeto-contagiosa.
+
+###### Artigo 137.º — Direitos
+
+As crianças/jovens participantes têm direito a:
+
+a) Estadia, que inclui alojamento e quatro refeições diárias (Pequeno-almoço, Almoço, Lanche e Jantar);
+
+b) Transporte;
+
+c) Seguro;
+
+d) Idas a praias vigiadas;
+
+e) Participação em atividades desportivas, lúdicas, recreativas e culturais desenvolvidas;
+
+f) Acompanhamento de monitores designados para o efeito, em todas as atividades desenvolvidas e respetivas deslocações necessárias.
+
+###### Artigo 138.º — Deveres
+
+1 - Todos os utentes do CFIME deverão ser portadores de roupa e de outros objetos de higiene pessoal, que serão indicados pelo eleito com competência delegada ou subdelegada na área, em altura oportuna.
+
+2 - Todos os utentes do CFIME não deverão ser portadores de objetos de valor, pois a autarquia não se responsabiliza pelo seu desaparecimento.
+
+3 - Todos os casos de doença devem ser referidos. Em caso de tratamento médico em curso, as crianças devem trazer a medicação, com indicação médica das doses e horário das respetivas tomas.
+
+4 - Todos os utentes do CFIME devem cumprir as regras estabelecidas.
+
+###### Artigo 139.º — Coordenadores
+
+Existirão coordenadores, a designar pelo eleito com competência delegada ou subdelegada na área, que serão responsáveis pelo funcionamento do CFIME, cabendo-lhes a superintendência técnica, pedagógica e administrativa, bem como zelar pela correta utilização das instalações e equipamentos.
+
+###### Artigo 140.º — Monitores
+
+1 - Os monitores são indicados por entidades locais legalmente existentes, as quais serão comparticipadas pela prestação do serviço efetuado.
+
+2 - São deveres dos monitores:
+
+a) Acompanhar os participantes durante as atividades, prestando-lhes todo o apoio e auxílio que necessitem;
+
+b) Cumprir e assegurar o cumprimento, pelos participantes, das normas de saúde, higiene e segurança;
+
+c) Zelar pela boa conservação, manutenção e utilização dos equipamentos e materiais a utilizar pelos participantes.
+
+d) Propor e executar atividades no âmbito do estabelecido no Plano Pedagógico.
+
+###### Artigo 141.º — Outras informações
+
+Durante a estadia no CFIME todos os pais ou encarregados de educação podem contactar os seus filhos, e ou o respetivo monitor, através de telemóvel ou telefone, números e horários a confirmar.
+
+### CAPÍTULO XIII — Cartão Smart Jovem
+
+###### Artigo 142.º — âmbito
+
+O presente Capítulo estabelece os termos, condições de acesso e utilização do Cartão Smart Jovem.
+
+###### Artigo 143.º — Cartão Jovem Municipal
+
+1 - O Cartão Smart Jovem é um título pessoal e intransmissível, não podendo, em caso algum, ser revendido, emprestado ou cedido.
+
+2 - O Cartão Smart Jovem é emitido pela Câmara Municipal de Elvas.
+
+3 - O Cartão Smart Jovem possuirá a forma e demais características constantes do modelo a aprovar pelo eleito com competência delegada ou subdelegada na área.
+
+###### Artigo 144.º — Destinatários
+
+O Cartão Smart Jovem destina-se aos jovens, com idade compreendida entre os 16 (entendendo-se que a partir de 1 de Janeiro do ano em que perfaçam os 16, já podem usufruir do Cartão) e os 35 anos, residentes em Elvas e ainda aos jovens que frequentem a Escola Superior Agrária de Elvas.
+
+###### Artigo 145.º — Benefícios
+
+1 - O titular do Cartão Smart Jovem usufruirá dos seguintes benefícios:
+
+a) Descontos ao nível do comércio, serviços e indústria hoteleira elvenses aderentes ao presente programa;
+
+b) Reduções nas taxas de edificação em termos a prever no Regulamento Municipal de Taxas de Urbanização e de Edificação de Elvas;
+
+c) Reduções no pagamento de taxas e tarifas municipais, bem como no pagamento de bilhetes para espetáculos organizados exclusivamente pela Câmara Municipal de Elvas;
+
+2 - Os descontos referidos na alínea a) do número anterior serão aqueles que o comerciante ou a entidade pública ou privada aderente estabelecer aquando da subscrição da declaração referida no n.º 1 do artigo 12.º do presente Regulamento.
+
+3 - Os benefícios previstos na alínea b) do n.º 1 do presente artigo serão aplicados, apenas, após a entrada em vigor das alterações necessárias, a efetuar para o efeito, ao Regulamento Municipal de Taxas de Urbanização e de Edificação de Elvas, publicado na 2.ª série do Diário da República, n.º 76, Apêndice n.º 38-A, de 1 de abril de 2002.
+
+4 - As reduções a que alude a alínea c) do n.º 1 do presente artigo serão as seguintes:
+
+a) 20 % no bilhete de entrada nos Museus da Cidade de Elvas;
+
+b) 20 % no bilhete de entrada nas piscinas municipais;
+
+c) 10 % no bilhete de cinema;
+
+d) 20 % no bilhete de entrada em espetáculo organizado exclusivamente pela Câmara Municipal de Elvas.
+
+5 - Se o titular do Cartão Smart Jovem for casado ou viver em união de facto, os benefícios a que alude a alínea b) do n.º 1 e alíneas a) e b) do n.º 4 do presente artigo só se aplicam se a soma da idade daquele com a do seu cônjuge/companheiro dividida por dois não ultrapassar os trinta e cinco anos.
+
+###### Artigo 146.º — Emissão do CSJ
+
+1 - O Cartão Smart Jovem é gratuito.
+
+2 - Para a emissão do Cartão Smart Jovem é ainda necessária a apresentação dos seguintes documentos:
+
+a) Fotocópia do bilhete de identidade;
+
+b) Uma fotografia atual tipo passe;
+
+c) Comprovativo de matrícula na ESAE (Escola Superior Agrária de Elvas), se for o caso, podendo este comprovativo ser prestado por qualquer meio idóneo, incluindo correio eletrónico enviado pelos serviços da ESAE.
+
+d) Preenchimento da ficha de inscrição (a fornecer pelos serviços).
+
+###### Artigo 147.º — Validade
+
+O Cartão Smart Jovem é válido apenas no Município de Elvas, pelo período de 2 anos contados da data da sua emissão.
+
+###### Artigo 148.º — Informação
+
+Os titulares do Cartão Smart Jovem têm acesso gratuito à informação da qual conste as vantagens a que têm direito.
+
+###### Artigo 149.º — Perda ou extravio do Cartão Smart Jovem
+
+Em caso de perda ou extravio do cartão, o titular deverá recorrer aos serviços da Autarquia para que lhe seja passada a 2.ª via, pela qual deverá ser pago o valor de (euro)5,00 (cinco euros).
+
+###### Artigo 150.º — Obrigações dos beneficiários do Cartão Smart Jovem
+
+1 - Constituem obrigações dos beneficiários do Cartão Smart Jovem:
+
+a) Apresentar o cartão e o bilhete de identidade sempre que pretenda usufruir dos benefícios concedidos pelo Cartão Smart Jovem;
+
+b) Manifestar a vontade de utilizar o Cartão Smart Jovem antes do ato de faturação da aquisição dos bens ou do pagamento dos serviços de que pretenda beneficiar;
+
+c) Informar, previamente, a Câmara Municipal da mudança de estabelecimento de ensino;
+
+d) Devolver o Cartão Smart Jovem aos serviços competentes da Câmara Municipal de Elvas sempre que perca o direito ao mesmo.
+
+###### Artigo 151.º — Cessação do direito à utilização do Cartão Smart Jovem
+
+1 - Constitui causa de cessação imediata dos benefícios decorrentes do Cartão Smart Jovem, entre outros, a transferência de residência ou de recenseamento eleitoral para outro Município, salvo por motivo de força maior, devidamente comprovado.
+
+2 - Constitui, ainda, causa de cessação imediata dos benefícios decorrentes do Cartão Smart Jovem, o incumprimento de qualquer norma prevista no presente Regulamento
+
+3 - Os titulares do Cartão Smart Jovem que constatem qualquer incumprimento ao presente Regulamento, por parte das entidades aderentes, devem comunicar tal facto à Câmara Municipal de Elvas.
+
+###### Artigo 152.º — Entidades aderentes
+
+1 - Os comerciantes ou outras entidades, públicas ou privadas, que pretendam aderir a este projeto, no sentido de proporcionarem descontos na venda de bens ou no fornecimento de serviços, deverão preencher uma declaração, cujo modelo será disponibilizado pelos serviços.
+
+2 - A declaração referida no número anterior é valida pelo período de um ano, prorrogável por períodos iguais e sucessivos se não for denunciada, com a antecedência mínima de 30 dias contados do seu termo ou do termo da renovação em curso, conforme o caso.
+
+3 - A denúncia referida no número anterior terá de ser manifestada por escrito, mediante o envio de carta registada com aviso de receção, à Câmara Municipal de Elvas.
+
+4 - Os comerciantes ou outras entidades, públicas ou privadas aderentes possuirão um autocolante identificativo à entrada do estabelecimento que permita ao jovem titular do cartão aferir que naquele espaço terá desconto na compra dos bens ou na prestação dos serviços.
+
+5 - Os comerciantes ou outras entidades, públicas ou privadas aderentes que constatem qualquer incumprimento ao presente Regulamento, por parte dos jovens, deverão reter o CJM de imediato e devolve-lo à Câmara Municipal de Elvas.
+
+### CAPÍTULO XIV — Disposições Finais e Transitórias
+
+###### Artigo 153.º — Deveres dos beneficiários
+
+1 - Para além das condições específicas de cada Programa, constituem ainda deveres dos beneficiários dos Programas:
+
+a) Aceitar as condições previstas no presente regulamento;
+
+b) Efetuar prova em como reúnem as condições necessárias para beneficiar do programa;
+
+2 - O incumprimento de qualquer dos deveres referidos no artigo anterior determina a exclusão do beneficiário do Programa.
+
+###### Artigo 154.º — Confirmação de elementos
+
+1 - Quando, na organização dos processos, surjam dúvidas acerca dos elementos que dele devam constar, podem os competentes serviços municipais solicitar aos candidatos, por escrito, os esclarecimentos que entendam necessários, devendo estes ser prestados no prazo de 15 dias a contar da data de receção da referida notificação, sob pena de arquivamento do processo de candidatura.
+
+2 - Os competentes serviços municipais podem, ainda, em caso de dúvida relativamente à veracidade dos elementos constantes do processo, realizar as diligências necessárias no sentido de aferir a sua veracidade, podendo, inclusivamente, solicitar às entidades ou serviços competentes a confirmação dos referidos elementos.
+
+3 - A falta de comparência quando solicitada ou a falta de entrega de elementos para esclarecimentos, de acordo com o disposto no número anterior, implica a imediata suspensão do apoio, salvo se devidamente justificada.
+
+###### Artigo 155.º — Continuidade dos Programas
+
+Mediante informação/proposta dos serviços que efetue o balanço de cada um dos Programas, o eleito com competência delegada ou subdelegada na área, decidirá da eventual continuidade do mesmo.
+
+###### Artigo 156.º — Penalizações
+
+1 - Os munícipes que pratiquem fraudes das quais tenha resultado a atribuição de apoio no âmbito do cartão da idade de ouro, ficarão interditos ao acesso a qualquer programa municipal pelo período de três anos consecutivos.
+
+2 - A penalidade previstas no número anterior será decidida em reunião pública de Câmara mediante parecer dos serviços devidamente fundamentado e comprovado.
+
+3 - A aplicação da penalidade prevista será sempre nos termos do CPA, precedido do respetivo procedimento administrativo.
+
+###### Artigo 157.º — Delegação e subdelegação de competências
+
+1 - Sem prejuízo do disposto na lei geral sobre a matéria, as competências conferidas no presente Regulamento à Câmara Municipal de Elvas podem ser delegadas no presidente da Câmara Municipal de Elvas, com faculdade de subdelegação nos vereadores e nos dirigentes dos serviços municipais.
+
+2 - Sem prejuízo do disposto na lei geral sobre a matéria, as competências cometidas ao presidente da Câmara Municipal de Elvas podem ser delegadas nos vereadores, com faculdade de subdelegação, ou nos dirigentes dos serviços municipais.
+
+###### Artigo 158.º — Dúvidas e omissões
+
+1 - A tudo o que não estiver expressamente previsto no presente Regulamento aplica-se a legislação em vigor.
+
+2 - Sem prejuízo do disposto no número anterior, os casos omissos ou as dúvidas suscitadas na interpretação do presente Regulamento serão resolvidos por deliberação da Câmara Municipal de Elvas, mediante propostas dos serviços devidamente fundamentada.
+
+###### Artigo 159.º — Entrada em vigor
+
+O presente Regulamento entra em vigor no dia seguinte ao da sua publicação no Diário da República, com exceção do Capítulo III, que entrará em vigor no dia 1 de setembro de 2015, mantendo-se o Refeitório Social nos moldes anteriormente definidos até completa implementação do presente Programa.
+
+###### Artigo 160.º — Revogações
+
+Sem prejuízo do disposto no artigo anterior, são revogados todos os Regulamentos, normas, programas que contrariem as matéria ora regulamentadas com o presente instrumento.
+
+28 de julho de 2015. - O Chefe de Divisão, Carlos Alexandre Henriques Saldanha.
+
+208829377

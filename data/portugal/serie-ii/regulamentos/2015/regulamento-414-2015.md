@@ -1,0 +1,907 @@
+---
+schema_version: '1.0'
+id: pt:dre:69828893:por
+title: Regulamento n.º 414/2015
+short_title: null
+summary: Regulamento Municipal de Licenciamento das Atividades Diversas
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município de Moura
+proposing_entity: null
+official_number: 414/2015
+official_date: null
+publication_date: '2015-07-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/2015, Série II de 2015-07-17
+  number: '138'
+  series: II
+  supplement: null
+  pages: 19339 - 19348
+  pdf_url: https://files.diariodarepublica.pt/2s/2015/07/138000000/1933919348.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '69828893'
+  dre_path: /dr/detalhe/regulamento/414-2015-69828893
+  internal: pt:dre:69828893:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/414-2015-69828893
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/414-2015-69828893
+  consolidated_url: null
+  retrieved_at: '2026-11-13T05:53:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8e7388b47d6c55b7e32dfdc0c3c8e76428ff6547ff34909262129f2cfa2f371d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T05:53:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:359360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66970718:por
+  label: null
+  source: null
+article_structure:
+  article_count: 76
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T05:53:12Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 414/2015
+
+Regulamento Municipal de Licenciamento das Atividades Diversas
+
+Nota justificativa
+
+O [Decreto-Lei n.º 264/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), de 25 de novembro, transferiu para as câmaras municipais competências dos governos civis em matérias consultivas, informativas e de licenciamento.
+
+Por seu turno, o [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, estabeleceu o regime jurídico do licenciamento de atividades diversas, cometendo a competência aos municípios, no que respeita ao licenciamento das atividades de guarda-noturno, venda ambulante de lotarias, arrumador de automóveis, realização de acampamentos ocasionais, exploração de máquinas automáticas, mecânicas, elétricas de diversão, realização de espetáculos desportivos e de divertimentos públicos nas vias, jardins e demais lugares públicos ao ar livre, venda de bilhetes para espetáculos ou divertimentos públicos em agências ou postos de venda, realização de fogueiras e queimadas e a realização de leilões.
+
+O artigo 53.º deste último diploma, preceitua que o exercício das atividades nelas previstas será objeto de regulamentação municipal, nos termos da lei.
+
+Em cumprimento de tal desiderato legal foi aprovado pela Assembleia Municipal de Moura, na sua sessão ordinária realizada no dia 26 de setembro de 2003, precedendo proposta da Câmara Municipal, aprovada na reunião ordinária do dia 10 do referido mês e ano, precedendo inquérito público, o Regulamento Municipal de Licenciamento das Atividades Diversas, previstas no [Decreto-Lei n.º 264/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), de 25 de novembro, e no [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, o qual veio a ser publicado no apêndice n.º 177 do Diário da República, 2.ª série, n.º 274, de 26 de novembro de 2003.
+
+Em 01 de abril de 2011, foi publicado o [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), que introduziu alterações ao [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, eliminando o licenciamento da atividade das agências ou postos de venda de bilhetes para espetáculos ou diversões públicas e o licenciamento do exercício da atividade de realização de leilões, simplificando ainda o regime de licenciamento de algumas atividades diversas no âmbito da iniciativa "Licenciamento Zero".
+
+O [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 01 de abril, na redação dada pelos Decretos-Leis n.os [141/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2012-179788), de 11/7 e [10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16/1, que regula o regime denominado "Licenciamento Zero", procede a uma profunda alteração ao modelo de controlo prévio em diversas áreas de intervenção por parte das Autarquias Locais.
+
+O citado [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581) procura reduzir os encargos administrativos sobre os cidadãos e empresas, por via da eliminação de licenças, autorizações, vistorias e condicionamentos prévios para algumas atividades. Reduz, pois, a incidência da atividade administrativa municipal na fase do controlo prévio e acentua a tónica na fiscalização à posteriori, e, bem assim, na criação de mecanismos de responsibilização efetiva dos promotores.
+
+O regime criado pelo mencionado decreto-lei procede, ainda, à criação e disponibilização de um balcão eletrónico, hoje designado por balção do empreendedor, onde é possível ao munícipe cumprir os atos e formalidades necessários para aceder e exercer uma atividade de serviços, com o objetivo de desmaterializar procedimentos e modernizar a relação da Administração Pública com os particulares.
+
+Entretanto, em 29 de agosto de 2012, foi publicado o [Decreto-Lei n.º 204/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), o qual veio introduzir alterações ao regime de instalação e funcionamento dos recintos de espetáculos e de divertimentos públicos, assim como ao regime jurídico de licenciamento de atividades diversas, previstos, respetivamente, nos Decretos-Leis n.os [309/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2002-405759), de 16/12 e [310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18/12.
+
+Na data de 12 de setembro de 2013 é publicada a [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), que de entre outros, estabelece o regime jurídico das autarquias locais, a qual veio cometer às Juntas de Freguesia a competência para o licenciamento das seguintes atividades:
+
+a) Venda ambulante de lotarias;
+
+b) Arrumador de automóveis;
+
+c) Atividades ruidosas de caráter temporário que respeitem a festas populares, romarias, feiras, arraiais e bailes.
+
+Por último, o [Decreto-Lei n.º 51/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2015-66970718), de 13 de abril, veio estabelecer os procedimentos necessários à realização de acampamentos ocasionais por parte de membros das organizações reconhecidas pela World Association of Girl Guides and Girl Scouts e pela World Organization of the Scout Movement.
+
+Impõe-se deste modo, a necessidade de elaboração de um novo "Regulamento do Licenciamento das Atividades Diversas, adequado às alterações legislativas entretanto ocorridas.
+
+Assim, ao abrigo das disposições conjugadas do artigo 112.º e artigo 241.º, ambos da Constituição da República Portuguesa, alínea g) do n.º 1 do artigo 25.º e alínea k) do n.º 1 do artigo 33.º, ambas da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, dos Decreto-Lei n.os 264/2002, de 25 de novembro e [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, alterado pelos Decretos-Lei n.º 114/2008, de 1 de julho, n.º 48/2011, de 1 de abril, n.º 204/2012, de 29 de agosto e n.º 51/2015, de 13 de abril, e ainda, do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273) de 27 de outubro, das Leis n.os 73/2013, de 3 de setembro e n.º 53-E/2006, de 29 de dezembro, todos na sua atual redação, foi elaborado o presente projeto de Regulamento do Exercício de Diversas Atividades, previstas no [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), o qual uma vez previamente aprovado na reunião da Câmara Municipal do dia 22 de abril último, submetido a apreciação pública durante o período de 30 dias, designadamente, do Sindicato dos Trabalhadores do Comércio, Escritórios e Serviços de Portugal, da Associação da Hotelaria, Restauração e Similares de Portugal (AHRESP), da Federação de Campismo e Montanhismo de Portugal (FCMP), do Corpo Nacional de Escutas, da Associação dos Escuteiros de Portugal e dos Serviços de Inspeção de Jogos do Instituto de Turismo de Portugal, IP, enquanto entidades representativas dos interesses em causa.
+
+Foram acolhidas as recomendações de alteração ao regulamento, propostas exclusivamente pelo Corpo Nacional de Escutas (CNE).
+
+Regulamento Municipal de Licenciamento de Atividades Diversas
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Âmbito e objeto
+
+O presente Regulamento estabelece o regime do exercício das seguintes atividades:
+
+a) Guarda-noturno;
+
+b) Realização de acampamentos ocasionais;
+
+c) Exploração de máquinas automáticas, mecânicas, elétricas e eletrónicas de diversão;
+
+d) Venda de bilhetes para espetáculos ou divertimentos públicos em agências ou postos de venda;
+
+e) Realização de fogueiras e queimadas.
+
+###### Artigo 2.º — Lei habilitante
+
+O presente regulamento é elaborado ao abrigo das disposições conjugadas do artigo 112.º e artigo 241.º, ambos da Constituição da República Portuguesa, alínea g) do n.º 1 do artigo 25.º e alínea k) do n.º 1 do artigo 33.º, ambas da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, [Decreto-Lei n.º 264/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), de 25 de novembro, [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, alterado pelos [Decreto-Lei n.º 114/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), de 1 de julho, e [Decreto-Lei n.º 51/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2015-66970718) de 13 de abril, [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de junho, com a redação dada pelos [Decreto-Lei n.º 15/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), de 14 de janeiro, [Decreto-Lei n.º 17/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), de 14 de janeiro, [Decreto-Lei n.º 114/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), de 30 de novembro e [Decreto-Lei n.º 83/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2014-25345886),de 23 de maio, [Decreto-Lei n.º 309/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2002-405759), de 16 de dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 268/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-2009-490708), de 29 de setembro, pelo [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, [Decreto-Lei n.º 204/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), de 29 de agosto, [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, e ainda, do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273) de 27 de outubro, [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro e da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro, todos na sua atual redação.
+
+### CAPÍTULO II — Licenciamento do exercício da atividade de guarda-noturno
+
+#### SECÇÃO I — Criação e modificação do serviço de guardas-noturnos
+
+###### Artigo 3.º — Criação
+
+1 - A criação e extinção do serviço de guardas-noturnos em cada localidade e a fixação ou modificação das áreas de atuação de cada guarda, são da competência da câmara municipal, ouvidos os comandantes das forças de segurança locais e a junta de freguesia ou união de freguesias, conforme a localização da área a vigiar.
+
+2 - As juntas de freguesia, ou uniões de freguesia e as associações de moradores podem tomar a iniciativa de requerer a criação do serviço de guardas- noturnos em determinada localidade, bem como a fixação ou modificação das áreas de atuação de cada guarda-noturno.
+
+3 - A câmara municipal pode modificar as áreas de atuação de cada guarda-noturno, nomeadamente, mediante pedido fundamentado do (s) guarda-noturno (s), precedendo parecer dos comandantes das forças de segurança locais e a junta de freguesia ou união de freguesias, conforme a localização da área a vigiar.
+
+###### Artigo 4.º — Conteúdo da deliberação
+
+Da deliberação da câmara municipal que procede à criação do serviço de guardas-noturnos numa determinada localidade deve constar:
+
+a) A identificação dessa localidade pelo nome da localidade ou localidades ou da freguesia ou união de freguesias, que a mesma integra;
+
+b) A definição das possíveis áreas de atuação de cada guarda- noturno;
+
+c) A referência à audição prévia das forças de segurança locais e da junta de freguesia ou união de freguesias, conforme a localização da área a vigiar.
+
+###### Artigo 5.º — Publicitação
+
+A deliberação de criação ou extinção do serviço de guardas-noturnos e de fixação ou modificação das áreas de atuação será publicitada nos termos legais em vigor, nomeadamente no sítio da Internet do Município de Moura e através de edital afixado nos lugares de estilo.
+
+#### SECÇÃO II — Emissão de licença e cartão de identificação
+
+###### Artigo 6.º — Licenciamento
+
+O exercício da atividade de guarda-noturno depende da atribuição de licença pelo Presidente da Câmara Municipal.
+
+###### Artigo 7.º — Seleção
+
+1 - Criado o serviço de guardas-noturnos numa determinada localidade e definidas as áreas de atuação de cada guarda-noturno, cabe à câmara municipal promover, a pedido de qualquer interessado ou grupos de interessados, a seleção dos candidatos à atribuição de licença para o exercício de tal atividade.
+
+2 - A seleção a que se refere o número anterior será feita pelos serviços da câmara municipal, de acordo com os critérios fixados no presente Regulamento, compreendendo as fases de divulgação do lançamento do procedimento, da admissão das candidaturas, da classificação e audiência prévia dos candidatos, bem como da homologação da classificação e ordenação final da atribuição de licença.
+
+3 - O pedido de licenciamento deve ser indeferido quando o interessado não for considerado pessoa idónea para o exercício da atividade de guarda-noturno.
+
+###### Artigo 8.º — Aviso de abertura
+
+1 - O processo de seleção inicia-se com a publicitação por afixação na câmara municipal, nas juntas de freguesia ou união de freguesias e no sítio da Internet do Município de Moura, do respetivo aviso de abertura.
+
+2 - Do aviso de abertura do processo de seleção devem constar os seguintes elementos:
+
+a) Identificação da localidade ou da área da localidade com indicação da freguesia ou união de freguesias;
+
+b) Descrição dos requisitos de admissão;
+
+c) Prazo para a apresentação de candidaturas;
+
+d) Os métodos de seleção e a composição do júri;
+
+e) Indicação do local ou locais onde serão afixadas as listas dos candidatos e a lista final de graduação dos candidatos selecionados;
+
+f) O horário a praticar, o qual deve ter em conta o horário de referência constante do artigo 17.º
+
+3 - O prazo para apresentação de candidaturas é de 15 dias.
+
+4 - Findo o prazo para apresentação das candidaturas, os serviços da câmara municipal por onde corre o processo elaboram, no prazo de 10 dias, a lista dos candidatos admitidos e excluídos do processo de seleção, com indicação sucinta dos motivos de exclusão, publicitando-a através da sua afixação nos lugares de estilo e no sítio da Internet do Município de Moura.
+
+###### Artigo 9.º — Requerimento
+
+1 - O requerimento de candidatura à atribuição ou renovação de licença, disponível na página eletrónica da câmara municipal, é dirigido ao Presidente da Câmara Municipal e nele devem constar:
+
+a) Nome e domicílio do requerente;
+
+b) Declaração, sob compromisso de honra, da situação em que se encontra relativamente a cada uma das alíneas do artigo 10.º;
+
+c) Outros elementos considerados com relevância para a decisão de atribuição da licença.
+
+2 - O requerimento é acompanhado dos seguintes documentos:
+
+a) Fotocópia do bilhete de identidade ou cartão de cidadão e do cartão de identificação fiscal;
+
+b) Certificado de habilitações académicas;
+
+c) Certificado do registo criminal;
+
+d) Ficha médica que ateste a robustez física e o perfil psicológico para o exercício das suas funções, emitida, sempre que possível, por médico do trabalho, o qual deverá ser identificado pelo nome clínico e cédula profissional;
+
+e) Os que forem necessários para prova dos elementos referidos na alínea c) do número anterior;
+
+f) Duas fotografias iguais, tipo passe, sendo que na emissão da licença as mesmas poderão ser à civil, devendo na renovação ser fardadas.
+
+###### Artigo 10.º — Requisitos
+
+São requisitos de atribuição de licença para o exercício da atividade de guarda-noturno:
+
+a) Ser cidadão português, de um Estado membro da União Europeia ou do espaço económico europeu ou, em condições de reciprocidade, de país de língua oficial portuguesa;
+
+b) Ter mais de 21 anos de idade e menos de 65;
+
+c) Possuir a escolaridade mínima obrigatória;
+
+d) Não ter sido condenado, com sentença transitada em julgado, pela prática de crime doloso, nem ser arguido em processo pendente;
+
+e) Não se encontrar na situação de efetividade de serviço, pré-aposentação ou reserva de qualquer força militar ou força ou serviço de segurança;
+
+f) Possuir a robustez física e o perfil psicológico para o exercício das funções, comprovados pelo documento referido na alínea d) do n.º 2 do artigo anterior.
+
+###### Artigo 11.º — Preferências
+
+Os candidatos que se encontrem nas condições exigidas para o exercício da atividade de guarda-noturno são selecionados de acordo com o seguinte critério de preferência:
+
+a) Já exercer a atividade de guarda-noturno na localidade da área posta em concurso;
+
+b) Já exercer a atividade de guarda-noturno;
+
+c) Habilitações académicas mais elevadas;
+
+d) Ter pertencido aos quadros de uma força de segurança e não ter sido afastado por motivos disciplinares; e
+
+e) Ter menor idade.
+
+###### Artigo 12.º — Procedimentos para a seleção
+
+1 - Findo o prazo para a apresentação das candidaturas, o serviço por onde corre o processo do concurso apresentará ao Presidente da Câmara, no prazo de 10 dias, um relatório fundamentado contendo, para além da lista dos candidatos admitidos e excluídos, a ordenação dos admitidos, esta para efeitos de atribuição de licença de acordo com os critérios do artigo anterior.
+
+2 - O Presidente da Câmara Municipal, tendo em conta o relatório referido no n.º 1, dará cumprimento ao disposto nos artigos 100.º e seguintes do Código do Procedimento Administrativo, concedendo aos candidatos o prazo de 10 dias úteis para se pronunciarem, por escrito, querendo.
+
+3 - Decorrido o prazo constante do número anterior, o serviço que elaborou o relatório determinado no n.º 1, apresentará ao Presidente da Câmara um relatório final, devidamente fundamentado, para efeitos de decisão definitiva.
+
+4 - No caso de não ter havido alegações vale como definitivo o relatório referido no n.º 1, mediante despacho do Presidente da Câmara.
+
+5 - A lista de ordenação final é publicitada através da sua afixação no edifício dos Paços do Município e na sede das juntas de freguesias ou união de freguesias abrangidas e no sítio da Internet do Município de Moura.
+
+6 - Feita a publicitação referida no n.º 5, o Presidente da Câmara Municipal atribui, no prazo de 15 dias, a(s) licença(s).
+
+7 - A atribuição de licença para o exercício da atividade de guarda-noturno numa determinada área faz cessar a anterior.
+
+###### Artigo 13.º — Licença
+
+1 - A licença, pessoal e intransmissível, atribuída para o exercício da atividade de guarda-noturno numa localidade é do modelo constante do anexo i a este Regulamento.
+
+2 - No momento da atribuição da licença é emitido um cartão de identificação do guarda-noturno de modelo legalmente aprovado (atualmente modelo constante da Portaria n.º 79/2010), com a mesma validade da licença.
+
+###### Artigo 14.º — Validade e renovação
+
+1 - A licença é valida por três anos a contar da data da respetiva emissão.
+
+2 - O pedido de renovação, por igual período de tempo, deve ser requerido ao Presidente da Câmara Municipal com pelo menos 30 dias de antecedência em relação ao termo do respetivo prazo de validade.
+
+3 - As licenças não são renovadas quando não tenha sido feita a prova referida na alínea h) do artigo 18.º
+
+4 - O pedido de renovação é indeferido, por decisão fundamentada, após audiência prévia do interessado, quando se verificar a alteração de alguns requisitos que fundamentaram a atribuição da licença, no prazo de 30 dias, contados da data limite para o interessado se pronunciar em sede de audiência prévia.
+
+5 - Considera-se deferido o pedido de renovação se no prazo referido no número anterior não for proferido qualquer despacho.
+
+###### Artigo 15.º — Cessação da atividade
+
+Os guardas-noturnos que cessam a atividade comunicam esse facto ao município, até 30 dias após essa ocorrência, estando dispensados de proceder a essa comunicação se a cessação da atividade coincidir com o termo do prazo de validade da licença.
+
+###### Artigo 16.º — Registo
+
+Para efeitos do consignado nos artigos 9.º -F a 9.º -I do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, na sua atual redação, nomeadamente, para comunicação à Direção-Geral das Autarquias Locais "DGAL", a câmara municipal mantém um registo atualizado das licenças emitidas para o exercício da atividade de guarda-noturno na área do município, do qual constarão, designadamente, a data da emissão da licença e ou da sua renovação, a localidade e a área para a qual é válida a licença, bem como as contraordenações e coimas aplicadas.
+
+#### SECÇÃO III — Exercício da atividade de guarda-noturno
+
+###### Artigo 17.º — Horário
+
+1 - O horário de referência para o serviço dos guardas-noturnos compreende-se no período entre as 22 horas de cada dia e as 7 horas do dia seguinte, não podendo, contudo, a carga horária semanal ser superior à legalmente estabelecida.
+
+2 - Dentro dos limites do horário de referência referido no n.º 1 anterior, o horário respetivo será definido no aviso de abertura de concurso.
+
+3 - O horário de cada guarda-noturno poderá ser alterado, a pedido deste, desde que autorizado pela câmara municipal, ouvidos a junta de freguesia ou união de freguesias e forças de segurança territorialmente competentes.
+
+###### Artigo 18.º — Deveres
+
+No exercício da sua atividade, o guarda-noturno ronda e vigia, por conta dos respetivos moradores, os arruamentos da respetiva área de atuação, protegendo as pessoas e bens e colabora com as Forças de Segurança e de Proteção Civil, prestando o auxílio que por estas lhes seja solicitado, devendo, assim, designadamente:
+
+a) Apresentar-se pontualmente na esquadra da PSP, em Moura, no início e termo do serviço;
+
+b) Permanecer na área em que exerce a sua atividade durante o período de prestação de serviço e informar os seus clientes do modo mais expedito para ser contactado ou localizado;
+
+c) Prestar o auxílio que lhe for solicitado pelas Forças e Serviços de Segurança e de Proteção Civil;
+
+d) Frequentar anualmente um curso ou instrução de adestramento e reciclagem que for organizado pelas forças de segurança com competência na respetiva área;
+
+e) Usar, em serviço, o uniforme, cartão identificativo e o distintivo próprio (crachá);
+
+f) Usar de urbanidade e aprumo no exercício das suas funções;
+
+g) Tratar com respeito e prestar auxílio a todas as pessoas que se lhe dirijam ou careçam de auxílio;
+
+h) Fazer anualmente, no mês de fevereiro, prova de que tem regularizada a sua situação contributiva para com a segurança social;
+
+i) Não faltar ao serviço sem motivo sério, devendo, sempre que possível, solicitar a sua substituição com cinco dias úteis de antecedência;
+
+j) Efetuar e manter em vigor um seguro de responsabilidade civil, nos termos do artigo seguinte.
+
+###### Artigo 19.º — Seguro
+
+Para além dos deveres constantes do artigo 18.º o guarda-noturno é obrigado a efetuar e manter em vigor um seguro de responsabilidade civil que garanta o pagamento de uma indemnização por danos causados a terceiros no exercício e por causa da sua atividade, nos termos do disposto na alínea j) do artigo 8.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, na sua atual redação.
+
+#### SECÇÃO IV — Uniforme e insígnia
+
+###### Artigo 20.º — Uniforme e insígnia
+
+1 - Em serviço, o guarda-noturno usa uniforme e insígnia próprios.
+
+2 - Durante o serviço, o guarda-noturno deve ser portador do cartão de identificação e exibi-lo sempre que isso lhe for solicitado pelas autoridades policiais ou pelos moradores.
+
+3 - O uniforme e insígnias a usar no exercício da atividade, são de acordo com a Portaria n.º 991/2009, de 08 de setembro.
+
+#### SECÇÃO V — Equipamento e veículos
+
+###### Artigo 21.º — Equipamento
+
+1 - No exercício da sua atividade, o guarda-noturno utiliza o equipamento previsto no artigo 9.º-C do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, na sua atual redação.
+
+2 - O equipamento a usar no exercício da atividade é de acordo com a Portaria n.º 991/2009, de 8 de setembro.
+
+###### Artigo 22.º — Veículos
+
+1 - Os veículos em que transitam os guardas-noturnos devem encontrar-se devidamente identificados, concretamente de acordo com o anexo iv da Portaria n.º 991/2009, de 08 de setembro.
+
+2 - Os guardas- noturnos deverão usar um identificador de serviço de urgência de cor laranja, a usar quando se desloquem em marcha de urgência.
+
+#### SECÇÃO VI — Períodos de descanso, faltas e substituição
+
+###### Artigo 23.º — Férias, folgas e substituição
+
+1 - O guarda-noturno descansa do exercício da sua atividade uma noite após cada cinco noites consecutivas de trabalho.
+
+2 - Uma vez por mês, o guarda-noturno descansa do exercício da sua atividade duas noites.
+
+3 - No início de cada mês, o guarda-noturno deve informar o comando da força de segurança responsável pela sua área de atuação de quais as noites em que irá descansar.
+
+4 - Até ao dia 15 de abril de cada ano, o guarda-noturno deve informar o comando da força de segurança responsável pela sua área do período ou períodos em que irá gozar as suas férias.
+
+5 - Nas noites de descanso, durante os períodos de férias, e em caso de falta do guarda-noturno, a atividade na respetiva área é exercida, em acumulação, por um guarda-noturno da área contígua, para o efeito convocado pelo comandante da força de segurança territorialmente competente, sob proposta do guarda a substituir.
+
+#### SECÇÃO VII — Compensação
+
+###### Artigo 24.º — Compensação
+
+A atividade do guarda-noturno é compensada pelas contribuições voluntárias das pessoas, singulares ou coletivas, em benefício de quem é exercida.
+
+#### SECÇÃO VIII — Fiscalização e contraordenações
+
+###### Artigo 25.º — Fiscalização
+
+1 - A fiscalização do disposto no presente Regulamento compete à câmara municipal, bem como às autoridades administrativas e Forças de Segurança.
+
+2 - As autoridades administrativas e Forças de Segurança que verifiquem infrações ao disposto no presente Regulamento devem elaborar os respetivos autos de notícia, que remetem à câmara municipal no prazo de 48 horas.
+
+3 - Todas as entidades fiscalizadoras devem prestar à câmara municipal a colaboração que lhes seja solicitada.
+
+###### Artigo 26.º — Contraordenações e coimas
+
+1 - As infrações ao disposto no presente capítulo constituem contraordenações puníveis nos termos referidos no artigo 47.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, e ulteriores alterações.
+
+2 - A negligência e a tentativa são puníveis.
+
+### CAPÍTULO III — Licenciamento do exercício da atividade de acampamentos ocasionais
+
+###### Artigo 27.º — Licenciamento
+
+1 - A realização de acampamentos ocasionais fora dos locais legalmente consignados à prática do campismo e caravanismo, carece de licença a emitir pela câmara municipal, conforme modelo previsto no anexo ii, do presente Regulamento, sem prejuízo de autorização expressa do proprietário do prédio.
+
+2 - A realização de qualquer acampamento ocasional por parte de membros das organizações reconhecidas pela World Association of Girl Guides and Girl Scouts e pela World Organization of the Scout Movement, fica sujeita a comunicação prévia à câmara municipal, ao delegado de saúde e ao comandante da PSP ou da GNR, consoante os casos, bem como à autorização do proprietário do prédio, sem prejuízo do cumprimento das regras a que se refere o n.º 3 do artigo 23.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de junho, alterado pelos Decretos-Leis n.os [15/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), de 14 de janeiro, [17/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), de 14 de janeiro, [114/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), de 30 de novembro, e [83/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2014-25345886), de 23 de maio.
+
+###### Artigo 28.º — Definição
+
+Para efeitos do presente capítulo considera-se acampamento ocasional a ocupação temporária com estruturas ou equipamentos amovíveis, designadamente, tendas, lonas, caravanas ou autocaravanas, sem incorporação no solo, fora dos locais adequados à prática do campismo e caravanismo.
+
+###### Artigo 29.º — Pedido de licenciamento
+
+1 - O pedido de licenciamento da realização de um acampamento ocasional é dirigido ao Presidente da Câmara Municipal, com a antecedência mínima de 30 dias, através de requerimento próprio, do qual deverá constar a identificação completa do interessado, domicilio, estado civil e número fiscal de contribuinte, e será acompanhado dos seguintes documentos instrutórios:
+
+a) Fotocópia do bilhete de identidade ou cartão de cidadão;
+
+b) Fotocópia do cartão de identificação fiscal;
+
+c) Comprovativo do seguro de responsabilidade civil contratado para o efeito;
+
+d) Autorização expressa do proprietário do prédio onde se irá realizar o acampamento;
+
+e) Documento comprovativo da titularidade do prédio;
+
+f) Planta de localização;
+
+g) Lista descriminada de todos os animais que acompanham o promotor deste licenciamento e demais participantes, e documentos do acompanhamento profilático dos animais referidos.
+
+2 - Do requerimento deve constar, igualmente, a indicação do pedido em termos claros e precisos, identificando e descrevendo o local de realização do acampamento ocasional, o objetivo da atividade, o número máximo de participantes e a data de início e termo do mesmo.
+
+###### Artigo 30.º — Apreciação liminar
+
+1 - Compete ao Presidente da Câmara Municipal decidir sobre as questões de ordem formal ou processual que possam obstar ao conhecimento do pedido apresentado.
+
+2 - Sempre que o requerimento de licenciamento para a realização de acampamentos ocasionais não contenha a identificação completa do requerente e do local de realização da atividade, ou não seja acompanhado de qualquer dos elementos instrutórios referidos no artigo 28.º do presente Regulamento, o Presidente da Câmara Municipal profere despacho de aperfeiçoamento do pedido, no prazo de 10 dias a contar da respetiva apresentação.
+
+3 - Na situação prevista no número anterior, o requerente é notificado para, em prazo não inferior a 10 dias, corrigir ou completar a instrução do pedido, sob pena de rejeição liminar a proferir pelo Presidente da Câmara Municipal.
+
+###### Artigo 31.º — Consultas
+
+1 - Recebido o requerimento a que alude o n.º 1 do artigo 29.º deste Regulamento, e no prazo de cinco dias, será solicitado parecer às seguintes entidades:
+
+a) Delegado de saúde;
+
+b) Comandante da GNR;
+
+c) Autoridade Nacional de Proteção Civil e Bombeiros.
+
+2 - O parecer a que se refere o número anterior, quando desfavorável, é vinculativo para um eventual licenciamento.
+
+3 - As entidades consultadas devem pronunciar-se no prazo de três dias após a receção do pedido.
+
+4 - A falta de pronúncia por parte das entidades consultadas dentro do prazo estabelecido no número anterior, deverá ser considerada como parecer tácito favorável à realização do acampamento ocasional.
+
+###### Artigo 32.º — Emissão de Licença
+
+1 - A câmara municipal delibera sobre o pedido de licenciamento para a realização de acampamentos ocasionais, no prazo de 30 dias, contados da data da sua apresentação, fixando o prazo da respetiva licença, que não poderá ser superior ao período de tempo autorizado expressamente pelo proprietário do prédio onde se realizará o acampamento.
+
+2 - Compete ao Presidente da Câmara Municipal a emissão da licença para a realização de acampamentos ocasionais.
+
+###### Artigo 33.º — Regras a observar pelo responsável do acampamento e acampados
+
+1 - São deveres do titular da licença para a realização de acampamentos ocasionais exibir, sempre que lhe seja solicitado, a licença de acampamento ocasional e afixar cópia da mesma no local do acampamento.
+
+2 - Constituem deveres do responsável pela realização do acampamento e dos acampados:
+
+a) Alertar as autoridades em caso de ocorrência de situações que coloquem o local ou zona do acampamento em risco;
+
+b) Abster -se de quaisquer atos suscetíveis de incomodar os demais acampados e terceiros, designadamente fazer ruído e utilizar aparelhagens sonoras no período noturno, de acordo com o Regulamento Geral do Ruído;
+
+c) Não fazer fogo, salvo nos locais para tal destinados, e cumprir as demais regras de segurança contra riscos de incêndio;
+
+d) Zelar pelo espaço ocupado por si e pelos seus haveres.
+
+###### Artigo 34.º — Entidades com competência de fiscalização
+
+1 - A fiscalização do disposto no presente capítulo compete à câmara municipal, bem como às autoridades administrativas e policiais.
+
+2 - As autoridades administrativas e policiais que constatem as infrações ao disposto no presente capítulo, devem elaborar os respetivos autos de notícia e remetê-los, logo que possível ao Município de Moura.
+
+###### Artigo 35.º — Contra ordenações e coimas
+
+1 - De acordo com o disposto no presente capítulo constituem contraordenações puníveis com coima de (euro) 150 a (euro) 200:
+
+a) A realização de acampamentos sem a prévia licença;
+
+b) A falta de alerta das autoridades em caso de ocorrência de situações que coloquem o local ou zona do acampamento em risco.
+
+2 - A negligência e a tentativa são puníveis.
+
+###### Artigo 36.º — Processamento e aplicação de coimas
+
+1 - Compete ao Presidente da Câmara Municipal o processamento das contra ordenações e a aplicação das respetivas coimas.
+
+2 - O produto das coimas aplicadas ao abrigo do presente capítulo constitui receita do Município de Moura.
+
+###### Artigo 37.º — Medidas de tutela da legalidade
+
+As licenças concedidas nos termos do presente capítulo podem ser revogadas pela câmara municipal, a qualquer momento, com fundamento na infração das condições impostas aquando do licenciamento ou na inaptidão do seu titular para a realização de acampamentos ocasionais.
+
+###### Artigo 38.º — Revogação da licença
+
+Em casos de manifesto interesse público, designadamente para proteção de saúde ou bens dos campistas ou caravanistas, ou em situações em que estejam em causa a ordem e tranquilidade públicas, a câmara municipal poderá, a qualquer momento, revogar a licença concedida.
+
+### CAPÍTULO IV — Regime do exercício da atividade de exploração de máquinas de diversão
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 39.º — Objeto
+
+O registo e exploração de máquinas automáticas, mecânicas e eletrónicas de diversão obedecem ao regime definido no [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, e ulteriores alterações, com as especificidades constantes do presente Regulamento.
+
+###### Artigo 40.º — Âmbito
+
+São consideradas máquinas de diversão:
+
+a) Aquelas que, não pagando prémios em dinheiro, fichas ou coisas de valor económico, desenvolvem jogos cujos resultados dependem exclusiva ou fundamentalmente da perícia do utilizador, sendo permitido que ao utilizador seja concedido o prolongamento da utilização gratuita da máquina face à pontuação obtida;
+
+b) Aquelas que, tendo as características definidas na alínea anterior, permitem apreensão de objetos cujo valor económico não exceda três vezes a importância despendida pelo utilizador.
+
+c) As máquinas que, não pagando diretamente prémios em fichas ou moedas, desenvolvam temas próprios dos jogos de fortuna ou azar ou apresentem como resultado pontuações dependentes exclusiva ou fundamentalmente da sorte são reguladas pelo [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de dezembro, e diplomas regulamentares.
+
+###### Artigo 41.º — Locais de exploração
+
+As máquinas de diversão só podem ser instaladas e colocadas em funcionamento nos locais definidos no artigo 24.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro.
+
+#### SECÇÃO II — Do procedimento
+
+###### Artigo 42.º — Registo
+
+1 - A exploração de máquinas de diversão carece de registo a efetuar na câmara municipal competente.
+
+2 - O registo é requerido pelo proprietário da máquina junto do Presidente da Câmara Municipal através do balcão único eletrónico, referido nos artigos 5.º e 6.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, e no artigo 53.º-A do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, na sua atual redação, ou, quando por motivos de indisponibilidade da plataforma eletrónica tal não seja possível, por qualquer meio admissível pelos serviços competentes.
+
+3 - A comunicação do registo da máquina referido no número anterior identifica o seu proprietário, o local de exploração pretendido e a classificação do tema de jogo respetivo pelo Serviço de Inspeção de Jogos do Instituto do Turismo de Portugal, I. P.
+
+4 - O registo é titulado pelo comprovativo eletrónico de entrega no balcão único eletrónico a que se refere o n.º 2 deste artigo, bem como pelo comprovativo de pagamento das quantias eventualmente devidas.
+
+5 - Em caso de alteração da propriedade de máquina, deve o adquirente solicitar ao Presidente da Câmara Municipal o averbamento respetivo, por comunicação no balcão único eletrónico referido no n.º 2 deste artigo, que identifique o adquirente e o anterior proprietário.
+
+6 - Os documentos comprovativos a que se refere o n.º 4 deste artigo, que titulam o registo e o documento comprovativo de averbamento de alteração do proprietário da máquina de diversão, quando a ele houver lugar, devem acompanhar a máquina a que digam respeito, devendo cópia dos mesmos ser afixada na própria máquina em local visível.
+
+###### Artigo 43.º — Temas dos jogos
+
+1 - A importação, fabrico, montagem e venda de máquinas de diversão obrigam à classificação dos respetivos temas de jogo.
+
+2 - A classificação dos temas de jogo é requerida pelo interessado ao Serviço de Inspeção de Jogos do Instituto do Turismo de Portugal, I. P., devendo o requerimento ser instruído com informação do respetivo jogo.
+
+3 - O Serviço de Inspeção de Jogos do Instituto do Turismo de Portugal, I. P., pode solicitar aos interessados a apresentação de outros elementos que considere necessários para apreciação do requerimento ou fazer depender a sua classificação de exame direto à máquina.
+
+4 - Deve acompanhar a máquina cópia da decisão de classificação do respetivo tema de jogo.
+
+5 - O proprietário de qualquer máquina pode substituir o tema ou temas de jogo autorizados por qualquer outro, desde que previamente classificado pelo Serviço de Inspeção de Jogos do Instituto do Turismo de Portugal, I. P..
+
+6 - A cópia do documento que classifica o novo tema de jogo autorizado deve acompanhar a máquina de diversão.
+
+7 - A substituição referida no n.º 5 deste artigo deve ser comunicada pelo proprietário ao Presidente da Câmara Municipal através do balcão único eletrónico a que se refere o n.º 2 do artigo 41.º deste regulamento.
+
+###### Artigo 44.º — Processo individual de cada máquina
+
+A câmara municipal organiza um processo individual por cada máquina registada, do qual devem constar, além dos documentos referidos no artigo 21.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, na atual redação, os seguintes elementos:
+
+a) Número do registo;
+
+b) Nome do proprietário;
+
+c) Idade exigida para a sua utilização;
+
+d) Nome do fabricante;
+
+e) Tema de jogo;
+
+f) Tipo de máquina;
+
+g) Número de fábrica.
+
+###### Artigo 45.º — Transferência do local de exploração da máquina no mesmo município
+
+1 - A transferência da máquina de diversão para local diferente do constante do registo inicial, obriga a comunicação prévia através do balcão único eletrónico, referido nos artigos 5.º e 6.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, e no artigo 53.º-A do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, na sua atual redação, ou, quando por motivos de indisponibilidade da plataforma eletrónica tal não seja possível, através do formulário que constitui o anexo iii a este Regulamento.
+
+2 - O documento comprovativo da comunicação prévia da alteração da máquina de diversão para local diferente do registo inicial quando a ele houver lugar, deve acompanhar a máquina a que digam respeito, devendo cópia do mesmo ser afixada na própria máquina em local visível.
+
+###### Artigo 46.º — Condições de exploração
+
+1 - As máquinas de diversão não poderão ser colocadas em exploração em locais que se situem a menos de 300 m dos estabelecimentos preexistentes de educação pré-escolar ou de ensino básico ou secundário, públicos ou privados.
+
+2 - A distância prevista no número anterior é aferida por referência à distância percorrida pelo caminho pedonal mais curto, obedecendo às regras de circulação pedonal constantes do Código da Estrada.
+
+###### Artigo 47.º — Condicionamentos
+
+1 - A prática de jogos em máquinas reguladas pelo presente capítulo é interdita a menores de 16 anos, salvo quando, tendo mais de 12 anos, sejam acompanhados por quem exerce o poder paternal.
+
+2 - É obrigatória a afixação, na própria máquina, em lugar bem visível, de inscrição ou dístico contendo os elementos referidos nas alíneas a) a g) do artigo 44.º e ainda o comprovativo eletrónico de entrega no balcão único eletrónico a que se refere o n.º 2 do artigo 42.º, ambos do presente Regulamento, bem como o comprovativo do pagamento das quantias eventualmente devidas.
+
+#### SECÇÃO III — Fiscalização e procedimento contraordenacional
+
+###### Artigo 48.º — Entidades com competência de fiscalização
+
+1 - A fiscalização do disposto no presente capítulo compete à câmara municipal, bem como às demais autoridades administrativas e policiais, sendo o Turismo de Portugal, IP, a autoridade com competência técnico-consultiva e pericial nesta matéria.
+
+2 - As autoridades administrativas e policiais que verifiquem infrações ao disposto no presente capítulo, devem elaborar os respetivos autos de notícia e remetê-los, no mais curto espaço de tempo, ao Município de Moura.
+
+3 - Todas as entidades fiscalizadoras devem prestar ao Município de Moura, a colaboração que lhes seja solicitada.
+
+###### Artigo 49.º — Responsabilidade contraordenacional
+
+1 - Para efeitos do presente capítulo, consideram-se responsáveis, relativamente às contraordenações verificadas:
+
+a) O proprietário da máquina, nos casos de exploração de máquinas sem registo ou quando em desconformidade com os elementos constantes do título de registo por falta de averbamento de novo proprietário;
+
+b) O proprietário ou explorador do estabelecimento, nas demais situações.
+
+2 - Quando, por qualquer circunstância, se mostre impossível a identificação do proprietário de máquinas em exploração, considera-se responsável pelas contraordenações o proprietário ou explorador do estabelecimento onde as mesmas se encontrem.
+
+###### Artigo 50.º — Contraordenações e coimas
+
+1 - As infrações ao disposto no presente capítulo constituem contraordenações puníveis nos seguintes termos:
+
+a) Exploração de máquinas sem registo, com coima de (euro)1500 a (euro)2500 por cada máquina;
+
+b) Falsificação do título de registo, com coima de (euro)1500 a (euro)2500;
+
+c) Exploração de máquinas sem que sejam acompanhadas do original ou fotocópia autenticada do título de registo, dos documentos previstos nos números 4 e 6 do artigo 22.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, alterado, com coima de (euro)120 a (euro)200 por cada máquina;
+
+d) Desconformidade com os elementos constantes do título de registo por falta de averbamento do novo proprietário, com coima de (euro)120 a (euro)500 por cada máquina;
+
+e) Exploração de máquinas sem que o respetivo tema ou circuito de jogo tenha sido classificado pelo Serviço de Inspeção-Geral de Jogos do Instituto de Turismo de Portugal, I. P., com coima de (euro)500 a (euro)750 por cada máquina;
+
+f) Utilização de máquinas de diversão por pessoas com idade inferior à estabelecida, com coima de (euro)500 a (euro)2500;
+
+g) Falta ou afixação indevida do dístico referido no n.º 2 do artigo 25.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, alterado, bem como a omissão de qualquer dos seus elementos, com coima de (euro)270 a (euro)1100 por cada máquina.
+
+2 - A negligência e a tentativa são puníveis.
+
+###### Artigo 51.º — Processamento e aplicação de coimas
+
+1 - Compete ao Presidente da Câmara Municipal o processamento das contraordenações e a aplicação das respetivas coimas.
+
+2 - O produto das coimas aplicadas ao abrigo do presente capítulo constitui receita do Município de Moura.
+
+###### Artigo 52.º — Medidas de tutela da legalidade
+
+As licenças concedidas ou os títulos de registo obtidos nos termos do presente capítulo podem ser revogadas pela câmara municipal, a qualquer momento, com fundamento na infração das condições impostas aquando do licenciamento ou da atribuição, ou na inaptidão do seu titular para ao exercício da atividade de exploração de máquinas de diversão.
+
+### CAPÍTULO V — Regime do exercício da atividade de venda de bilhetes para espetáculos públicos
+
+###### Artigo 53.º — Licenciamento
+
+A venda de bilhetes para espetáculos ou divertimentos públicos em agências ou postos de venda não está sujeita a licenciamento, a autorização, a autenticação, a validação, a certificação, a atos emitidos na sequência de comunicações prévias com prazo, a registo ou a qualquer outro ato permissivo, nem a mera comunicação prévia.
+
+###### Artigo 54.º — Requisitos
+
+1 - A venda de bilhetes para espetáculos ou divertimentos públicos em agências ou postos de venda deve ser efetuada em estabelecimento privativo, com boas condições de apresentação e de higiene e ao qual o público tenha acesso, ou em secções de estabelecimentos de qualquer ramo de comércio que satisfaçam aqueles requisitos.
+
+2 - É obrigatória a afixação nas agências ou postos de venda, em lugar bem visível, das tabelas de preços de cada casa ou recinto cujos bilhetes comercializem.
+
+###### Artigo 55.º — Proibições
+
+Nas agências e postos de venda é proibido:
+
+a) Cobrar quantia superior em 10 % à do preço de venda ao público dos bilhetes;
+
+b) Cobrar importância superior em 20 % à do preço de venda ao público dos bilhetes, no caso de entrega ao domicílio;
+
+c) Fazer publicidade, por qualquer meio, dentro de um raio de 100 metros em torno das bilheteiras sem fazer expressa referência à diferença de preço praticada;
+
+d) Recusar a venda de qualquer bilhete em seu poder.
+
+### CAPÍTULO VI — Licenciamento do exercício da atividade de queimadas
+
+###### Artigo 56.º — Proibição da realização de fogueiras e queimadas
+
+1 - Sem prejuízo do disposto em legislação especial, é proibido acender fogueiras nas ruas, praças e demais lugares públicos das povoações, bem como a menos de 30 m de quaisquer construções e a menos de 300 m de bosques, matas, lenhas, searas, palhas, depósitos de substâncias suscetíveis de arder e, independentemente da distância, sempre que deva prever-se risco de incêndio.
+
+2 - É proibida a realização de queimadas que de algum modo possam originar danos em quaisquer culturas ou bens pertencentes a outrem.
+
+3 - Durante o período crítico, ou fora do período crítico, neste caso desde que se verifique o índice temporal de incêndio muito elevado e máximo, é proibido a realização de queimadas, realizar fogueiras para recreio ou lazer e para confeção de alimentos, bem como utilizar equipamentos de queima e de combustão destinados à iluminação ou confeção de alimentos, assim como queimar matos cortados e amontoados e qualquer tipo de sobrantes de exploração.
+
+4 - Excetuam-se do disposto no n.º 1 e 2 as atividades desenvolvidas por membros das organizações definidas no n.º 3 do artigo 3.º da [Lei n.º 23/2006](https://diariodarepublica.pt/dr/detalhe/lei/23-2006-359360) de 23 de junho, nos termos definidos na Portaria prevista no n.º 3 do artigo 23.º do [Decreto-Lei n.º 17/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), de 14 de janeiro.
+
+###### Artigo 57.º — Licenciamento
+
+1 - As situações ou casos não enquadráveis na proibição de realização de fogueiras, a efetivação das tradicionais fogueiras de Natal e dos santos populares, bem como a realização de queimadas carecem de licenciamento da câmara municipal.
+
+2 - A realização de queimadas não enquadráveis nos casos de proibições, só é permitida após licenciamento na câmara municipal, e com a presença de técnico credenciado em fogo controlado ou, na sua ausência, de equipa de bombeiros.
+
+###### Artigo 58.º — Pedido de licenciamento da realização de fogueiras tradicionais ou queimadas
+
+1 - O pedido de licenciamento da realização de fogueiras tradicionais ou queimadas é dirigido ao Presidente da Câmara Municipal, com 15 dias de antecedência, através de requerimento próprio, do qual deverá constar:
+
+a) O nome, a idade, o estado civil e a residência do requerente;
+
+b) Local da realização da queimada;
+
+c) Data proposta para a realização da queimada;
+
+d) Medidas e precauções tomadas para salvaguarda da segurança de pessoas e bens.
+
+2 - Com o requerimento devem ser juntos os seguintes documentos instrutórios:
+
+a) Documento comprovativo da legitimidade do requerente;
+
+b) Autorização do proprietário do terreno, quando aplicável;
+
+c) Planta de localização à escala de 1:25000, com o local devidamente assinalado.
+
+3 - O Presidente da Câmara Municipal solicita, no prazo máximo de cinco dias após a receção do pedido, parecer aos bombeiros da área, que determinarão as datas e os condicionalismos a observar na sua realização, caso o pedido não venha já acompanhado do respetivo parecer, com os necessários elementos.
+
+###### Artigo 59.º — Apreciação liminar
+
+1 - Compete ao Presidente da Câmara Municipal decidir sobre as questões de ordem formal e processual que possam obstar ao conhecimento do pedido apresentado.
+
+2 - Sempre que o requerimento de licenciamento para a realização de fogueiras tradicionais ou queimadas não contenha a identificação completa do requerente e do local de realização da atividade, ou não seja acompanhado de qualquer dos elementos instrutórios referido no artigo 58.º do presente Regulamento, o Presidente da Câmara Municipal profere despacho de aperfeiçoamento do pedido, no prazo de 5 dias a contar da respetiva apresentação.
+
+3 - Na situação prevista no número anterior, o requerente é notificado para, em prazo não inferior a 5 dias, corrigir ou completar a instrução do pedido, sob pena de rejeição liminar a proferir pelo Presidente da Câmara Municipal.
+
+###### Artigo 60.º — Consultas
+
+Após a receção do pedido de licenciamento, compete ao Presidente da Câmara Municipal promover as seguintes consultas:
+
+a) Bombeiros Voluntários, para que, no prazo de 5 dias, emitam parecerem considerando os seguintes elementos:
+
+i) Informação meteorológica de base e previsões;
+
+ii) Estrutura de ocupação do solo;
+
+iii) Estado de secura dos combustíveis; e
+
+iiii) Localização de infraestruturas.
+
+b) À Junta de Freguesia ou União de Freguesias da área respetiva para que, no prazo de 5 dias, emita parecer sobre o pedido de licenciamento efetuado.
+
+###### Artigo 61.º — Indeferimento do pedido
+
+A emissão de pareceres desfavoráveis pelas entidades consultadas constitui causa de indeferimento do pedido de licenciamento de fogueiras tradicionais ou queimadas.
+
+###### Artigo 62.º — Decisão
+
+A câmara municipal delibera sobre o pedido de licenciamento para a realização de fogueiras tradicionais ou queimadas, no prazo de 15 dias, contados da data da sua apresentação.
+
+###### Artigo 63.º — Emissão da licença para a realização de fogueiras tradicionais ou queimadas
+
+1 - Compete ao Presidente da Câmara Municipal a emissão da licença que é titulada por documento próprio, dela devendo constar, designadamente, o prazo da sua validade, o local, a hora da realização da fogueira tradicional ou queimada, bem como quaisquer condições que tenham sido definidas ou impostas no licenciamento, precedendo pagamento da respetiva taxa.
+
+2 - Da emissão da licença, deve ser dado conhecimento aos Bombeiros Voluntários da respetiva área.
+
+###### Artigo 64.º — Contraordenações e coimas
+
+1 - As infrações ao disposto no presente capítulo constituem contraordenações puníveis com coima graduada de (euro)140 a (euro)5000, no caso de pessoas singulares, e de (euro)800 a (euro)60 000, no caso de pessoas coletivas.
+
+2 - A negligência e a tentativa são puníveis
+
+###### Artigo 65.º — Processamento e aplicação de coimas
+
+1 - Compete ao Presidente da Câmara Municipal o processamento das contraordenações e a aplicação das respetivas coimas.
+
+2 - O produto das coimas aplicadas ao abrigo do presente capítulo constitui receita do Município de Moura.
+
+###### Artigo 66.º — Sanções acessórias
+
+Nos processos de contraordenação podem ser aplicadas as sanções acessórias previstas na lei geral.
+
+###### Artigo 67.º — Fiscalização
+
+1 - A fiscalização do estabelecido no presente capítulo compete à Guarda Nacional Republicana, à Polícia de Segurança Pública, ao Instituto de Conservação das Natureza e Florestas, à Autoridade Nacional de Proteção Civil, bem como à câmara municipal e aos vigilantes da natureza.
+
+2 - As autoridades policiais e fiscalizadoras que verifiquem infrações ao disposto no presente capítulo, devem elaborar os respetivos autos de contraordenação e remetê-los, logo que possível, ao Município de Moura.
+
+###### Artigo 68.º — Destino das coimas
+
+A afetação do produto das coimas cobradas no âmbito da aplicação deste capítulo far-se-á da seguinte forma:
+
+a) 10 % para a entidade que levantou o auto;
+
+b) 90 % para a entidade que instruiu o processo e determinou a aplicação da coima.
+
+###### Artigo 69.º — Medidas de tutela da legalidade
+
+As licenças concedidas nos termos do presente capítulo podem ser revogadas pela câmara municipal, a qualquer momento, com fundamento na infração das condições impostas aquando do licenciamento ou na inaptidão do seu titular para a realização de queimadas.
+
+### CAPÍTULO VII — Disposições finais
+
+###### Artigo 70.º — Taxas
+
+Pela prática dos atos referidos no presente Regulamento bem como pela emissão das respetivas licenças, são devidas as taxas previstas no Regulamento e Tabela de Taxas em vigor do Município de Moura.
+
+###### Artigo 71.º — Contagem dos prazos
+
+À contagem dos prazos constantes do presente Regulamento é aplicável o disposto no artigo 72.º do Código do Procedimento Administrativo.
+
+###### Artigo 72.º — Dúvidas e Interpretação
+
+As dúvidas e as omissões suscitadas pela aplicação do presente regulamento serão resolvidas por deliberação da Câmara Municipal, sem prejuízo da legislação aplicável.
+
+###### Artigo 73.º — Norma transitória
+
+O presente Regulamento com as alterações agora introduzidas, aplica-se aos licenciamentos iniciados após a sua entrada em vigor.
+
+###### Artigo 74.º — Delegação e subdelegação de competências
+
+1 - As competências previstas no presente regulamento, conferidas à câmara municipal, podem ser delegadas no Presidente da Câmara, com faculdade de subdelegação nos Vereadores e nos dirigentes dos serviços municipais.
+
+2 - As competências conferidas pelo presente Regulamento ao Presidente da Câmara Municipal, podem ser delegadas nos vereadores, com faculdade de subdelegação nos dirigentes dos serviços municipais.
+
+###### Artigo 75.º — Norma revogatória
+
+Com a entrada em vigor do presente Regulamento é revogado o anterior "Regulamento do Licenciamento das Atividades Diversas previstas no [Decreto-Lei n.º 264/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), de 25 de novembro, e no [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro, publicado no Apêndice n.º 177 ao Diário da República 2.ª série, n.º 274, de 26/11/2003, com as alterações publicadas no Apêndice n.º 51 ao Diário da República 2.ª série, n.º 99, de 27/04/2004.
+
+###### Artigo 76.º — Entrada em vigor
+
+O presente Regulamento entra em vigor no quinto dia útil após a sua publicitação, sem prejuízo de as disposições regulamentares emanadas ao abrigo do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, que pressuponham a existência do balção do empreendedor, produzirem apenas efeitos a partir da data da produção integral de efeitos do referido diploma.
+
+2 de julho de 2015. - O Presidente da Câmara Municipal, Santiago Augusto Ferreira Macias.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/07/138000000/1933919348.pdf)
+
+208779457

@@ -1,0 +1,1891 @@
+---
+schema_version: '1.0'
+id: pt:dre:105288290:por
+title: Regulamento n.º 1067/2016
+short_title: null
+summary: Regulamento Municipal da Defesa da Paisagem, Publicidade e Ocupação do Espaço Público
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Município da Ribeira Brava
+proposing_entity: null
+official_number: 1067/2016
+official_date: null
+publication_date: '2016-11-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 230/2016, Série II de 2016-11-30
+  number: '230'
+  series: II
+  supplement: null
+  pages: 35610 - 35630
+  pdf_url: https://files.diariodarepublica.pt/2s/2016/11/230000000/3561035630.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '105288290'
+  dre_path: /dr/detalhe/regulamento/1067-2016-105288290
+  internal: pt:dre:105288290:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1067-2016-105288290
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/1067-2016-105288290
+  consolidated_url: null
+  retrieved_at: '2026-11-13T06:15:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 35032857087d2d027ce09f1c881f7b010e332819fb204d110f996405b365e5f1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T06:15:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+article_structure:
+  article_count: 109
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T06:15:36Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 1067/2016
+
+Regulamento Municipal da Defesa da Paisagem, Publicidade e Ocupação do Espaço Público
+
+Ricardo António Nascimento, Presidente da Câmara Municipal de Ribeira Brava, torna público, nos termos da alínea t) do n.º 1 do artigo 35.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro e para efeitos do artigo 56.º do mesmo diploma, que a Assembleia Municipal de Ribeira Brava em sessão ordinária realizada no dia 27 de setembro de 2016, aprovou Regulamento Municipal da Defesa da Paisagem, Publicidade e Ocupação do Espaço Público, proposto de acordo com a deliberação tomada pela Câmara Municipal em reunião de 20 de setembro de 2016, entrando o mesmo em vigor após a sua publicação no Diário da República.
+
+Faz ainda saber que, nos termos do disposto no artigo 101.º e 102.º do Código de Procedimento Administrativo, o referido projeto regulamento municipal foi submetido a apreciação pública.
+
+21 de novembro de 2016. - O Presidente da Câmara, Ricardo António Nascimento.
+
+Nota Justificativa
+
+O [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, que aprovou o regime jurídico de acesso e exercício de atividades de comércio, serviço e restauração, abreviadamente designado RJACSR, veio introduzir um conjunto de alterações ao [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, designadamente no que se refere à ocupação do espaço público e à afixação e inscrição de mensagens publicitárias de natureza comercial, que importa verter no Regulamento de Ocupação do Espaço Público e de Publicidade do Município de Ribeira Brava. Surge, assim, a necessidade de adaptação das normas regulamentares existentes sobre a ocupação do espaço público e de publicidade às alterações entretanto introduzidas, das quais se salienta, em especial, a sujeição da ocupação do espaço público ao pedido de autorização a que se refere os n. os 4 e 5 do artigo 12.º do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, na redação dada pelo [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, a submeter através do "Balcão do empreendedor", em substituição do anterior procedimento da comunicação prévia com prazo.
+
+Salientam-se, ainda, as alterações regulamentares introduzidas, decorrentes do aumento, para o dobro, das molduras abstratas das coimas previstas no n.º 1 artigo 28.º do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, na redação dada pelo [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, excecionando, apenas, a manutenção da coima máxima de (euro) 25.000, para as pessoas coletivas, nas situações que se enquadrem na alínea a) do n.º 1 do mesmo artigo.
+
+Nestes termos, vem esta edilidade no uso da competência prevista no n.º 7 do artigo 112.º e no artigo 241.º da Constituição da República Portuguesa, conferida pela alínea k) do n.º 1 do artigo 33.º do Anexo I à [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na sua atual redação, conjugado com a alínea g) do n.º 1 do artigo 25.º da mesma Lei, e dos n.os 1, 5 e 7 do artigo 11.º e dos artigos 31.º e 32.º do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril; dos artigos 1.º e 11.º da [Lei n.º 97/88](https://diariodarepublica.pt/dr/detalhe/lei/97-1988-377083), de 17 de agosto; e da alínea c) do n.º 1 do artigo 11.º do [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, e após consulta pública, de acordo com o previsto no artigo 99.º ("projeto de regulamento"), 100 ("audiência de interessados") e 101.º ("consulta pública") do Código de Procedimento Administrativo.
+
+Os interessados devem, querendo, dirigir por escrito as suas sugestões à Câmara Municipal de Ribeira Brava, dentro de 30 dias úteis, a contar do dia seguinte à data de publicação da presente proposta de Regulamento, para discussão e análise.
+
+### CAPÍTULO I — Âmbito e definições
+
+###### Artigo 1.º — Objeto
+
+1 - O presente regulamento estabelece o regime e os critérios a que está sujeita a ocupação do espaço público e a afixação, inscrição e difusão de mensagens publicitárias no Município de Ribeira Brava.
+
+2 - Considera-se espaço público a área de acesso livre e de uso coletivo afeta ao domínio público das autarquias locais.
+
+3 - Considera-se publicidade, para efeitos do presente regulamento, qualquer forma de comunicação feita por entidades de natureza pública ou privada, no âmbito de uma atividade comercial, industrial, artesanal ou liberal, com o objetivo direto ou indireto de:
+
+a) Promover, com vista à sua comercialização ou alienação, quaisquer bens ou serviços;
+
+b) Promover ideias, princípios, iniciativas ou instituições.
+
+4 - Considera-se, também, publicidade qualquer forma de comunicação da Administração Pública, não prevista no número anterior, que tenha por objetivo, direto ou indireto, promover o fornecimento de bens ou serviços.
+
+5 - Não é considerada publicidade, para efeitos do presente regulamento:
+
+a) A sensibilização feita através de éditos, anúncios, notificações e demais formas de informação que se relacionem, direta ou indiretamente, com o cumprimento de prescrições legais ou com a utilização de serviços públicos;
+
+b) A difusão de comunicados, notas oficiosas e demais esclarecimentos que se prendam com a atividade de órgãos de soberania e da Administração Central e Local.
+
+###### Artigo 2.º — Critérios Gerais
+
+1 - Os critérios a que a ocupação do espaço público está sujeita, bem como os estabelecidos para o licenciamento da publicidade e para a afixação e inscrição de mensagens publicitárias não sujeitas a licenciamento, assim como para o exercício das atividades de propaganda, prosseguem os seguintes objetivos:
+
+a) Não provocar obstrução de perspetivas panorâmicas ou afetar a estética ou o ambiente dos lugares ou da paisagem;
+
+b) Não prejudicar a beleza ou o enquadramento de monumentos nacionais, de edifícios de interesse público ou outros suscetíveis de ser classificados pelas entidades públicas;
+
+c) Não causar prejuízos a terceiros;
+
+d) Não afetar a segurança das pessoas ou dos bens, nomeadamente na circulação rodoviária ou ferroviária;
+
+e) Não apresentar disposições, formatos ou cores que possam confundir-se com os da sinalização de trânsito;
+
+f) Não prejudicar a circulação dos peões, principalmente dos cidadãos portadores de deficiência.
+
+###### Artigo 3.º — Princípios gerais de ocupação do espaço público e de afixação e inscrição de publicidade
+
+1 - A ocupação do espaço público e a afixação e inscrição de publicidade não pode prejudicar:
+
+a) A saúde e o bem-estar de pessoas, principalmente por ultrapassar níveis de ruído acima dos admissíveis por lei;
+
+b) O acesso a edifícios, jardins e praças;
+
+c) A circulação rodoviária e pedonal, designadamente de pessoas com mobilidade reduzida;
+
+d) A qualidade das áreas verdes, designadamente por contribuir para a sua degradação ou por dificultar a sua conservação;
+
+e) A eficácia da iluminação pública;
+
+f) A eficácia da sinalização de trânsito;
+
+g) A utilização de outro mobiliário urbano;
+
+h) A ação dos concessionários que operam à superfície ou no subsolo;
+
+i) O acesso ou a visibilidade de imóveis classificados ou em vias de classificação ou onde funcionem hospitais, estabelecimentos de saúde, de ensino ou outros serviços públicos, locais de culto, cemitérios, elementos de estatuária e arte pública, fontes, fontanários e chafarizes;
+
+j) Os direitos de terceiros.
+
+###### Artigo 4.º — Definições
+
+1 - Para efeitos do presente regulamento, entende -se por mobiliário urbano os equipamentos instalados, projetadas ou apoiadas no espaço público, destinadas a uso público, que prestam um serviço coletivo ou que complementam uma atividade, ainda que de modo sazonal ou precário.
+
+2 - Para garantir maior certeza jurídica na ocupação do espaço público, são definidos os tipos de mobiliário urbano que mais frequentemente são instalados, projetados ou apoiados no espaço público:
+
+a) Anúncio - suporte instalado nas fachadas dos edifícios, com mensagem publicitária em uma ou ambas as faces, com ou sem iluminação;
+
+b) Anúncio eletrónico - sistema computorizado de emissão de mensagens e imagens, com possibilidade de ligação a circuitos de TV e vídeo e similares;
+
+c) Anúncio iluminado - suporte publicitário sobre o qual se faça incidir intencionalmente uma fonte de luz;
+
+d) Anúncio luminoso - suporte publicitário que emita luz própria;
+
+e) Bandeirola - suporte rígido que permaneça oscilante, afixado em poste ou estrutura idêntica;
+
+f) Blimps, balões, zepelins, insufláveis e outros - todos os suportes que, para a sua exposição no ar, careçam de gás, podendo estabelecer-se a ligação ao solo por elementos de fixação;
+
+g) Cartaz - suporte gráfico constituído por material adequado;
+
+h) Coluna publicitária - peça de mobiliário urbano de forma predominantemente cilíndrica, dotada de iluminação interior, apresentando por vezes uma estrutura dinâmica que permite a rotação das mensagens publicitárias;
+
+i) Chapa - suporte não luminoso aplicado ou pintado em paramento visível e liso, cuja maior dimensão não excede 0,60 m e a máxima saliência não excede 0,05 m;
+
+j) Esplanada aberta - a instalação no espaço público de mesas, cadeiras, guarda-ventos, guarda-sóis, estrados, floreiras, tapetes, aquecedores verticais e outro mobiliário urbano, sem qualquer tipo de proteção fixa ao solo, destinada a apoiar estabelecimentos de restauração ou de bebidas e similares ou empreendimentos turísticos;
+
+k) Esplanada fechada - a instalação no espaço público de mesas, cadeiras, guarda-ventos, guarda-sóis, estrados, floreiras, tapetes, aquecedores verticais e outro mobiliário urbano, com proteção fixa ao solo, destinada a apoiar estabelecimentos de restauração ou de bebidas e similares ou empreendimentos turísticos;
+
+l) Expositor - a estrutura própria para apresentação de produtos comercializados no interior do estabelecimento comercial, instalada no espaço público;
+
+m) Floreira - o vaso ou recetáculo para plantas destinadas ao embelezamento, marcação ou proteção do espaço público;
+
+n) Guarda-vento - a armação que protege do vento o espaço ocupado por uma esplanada;
+
+o) Letras soltas ou símbolos - a mensagem publicitária não luminosa, diretamente aplicada nas fachadas dos edifícios, nas montras, nas portas ou janelas;
+
+p) Mastro-bandeira - peça de mobiliário urbano derivado do MUPI, com a particularidade de estar integrada num mastro, que tem como principal função elevar a área de afixação publicitária acima dos 2,20 m de altura. O mastro tem como função complementar ostentar uma bandeira;
+
+q) MUPI (Mobiliário Urbano de Publicidade e Informação) - tipo de mobiliário urbano destinado a publicidade, o qual pode ou não possuir iluminação e, em alguns casos, conter também informação;
+
+r) Outdoor/ Painel - suporte gráfico constituído por moldura e respetiva estrutura fixada diretamente no solo ou fixado em tapumes, vedações ou elementos congéneres;
+
+s) Pala - elemento rígido de proteção contra agentes climatéricos, com predomínio da dimensão horizontal, fixo aos paramentos das fachadas e funcionando como suporte para afixação/inscrição de publicidade;
+
+t) Pendão - suporte em pano, lona, plástico ou outro material não rígido, fixo a um poste, candeeiro ou equipamento semelhante, que apresenta como forma característica o predomínio acentuado da dimensão vertical;
+
+u) Placa - suporte não luminoso aplicado em paramento visível, com ou sem emolduramento, cuja maior dimensão não excede 1,50 m;
+
+v) Publicidade sonora - a atividade publicitária que utiliza o som como elemento de divulgação da mensagem publicitária;
+
+w) Placas de sinalização direcional comercial - suportes de sinalização destinados a indicar a direção de uma atividade comercial de âmbito privado;
+
+x) Sanefa - elemento vertical de proteção contra agentes climatéricos, feito de lona ou material similar, colocado transversalmente na parte inferior dos toldos, no qual pode estar inserida uma mensagem publicitária;
+
+y) Suporte publicitário - o meio utilizado para a transmissão de uma mensagem publicitária;
+
+z) Tabuleta - suporte não luminoso, afixado perpendicularmente às fachadas dos edifícios, que permite a afixação de mensagens publicitárias em ambas as faces;
+
+aa) Toldo - elemento de proteção contra agentes climatéricos, feito de lona ou material similar, rebatível, aplicável em qualquer tipo de vãos, como montras, janelas ou portas de estabelecimentos comerciais, no qual pode estar inserida uma mensagem publicitária;
+
+bb) Totem - tipo de mobiliário urbano vertical destinado a publicidade, o qual pode ou não possuir iluminação e, em alguns casos, conter também informação;
+
+cc) Vitrina - mostrador envidraçado ou transparente, embutido ou saliente, colocado na fachada dos estabelecimentos comerciais, onde se expõem objetos e produtos ou se afixam informações.
+
+3 - Para efeitos de aplicação do presente regulamento, considera-se:
+
+a) Atividade publicitária - o conjunto de operações relacionadas com a difusão de uma mensagem publicitária junto dos seus destinatários, bem como as relações jurídicas e técnicas daí emergentes entre anunciantes, profissionais, agências de publicidade e entidades que explorem os suportes publicitários ou que efetuem as referidas operações;
+
+b) Aglomerado urbano - Área como tal delimitada em plano municipal de ordenamento de território;
+
+c) Anunciante - A pessoa singular ou coletiva no interesse de quem se realiza a publicidade;
+
+d) Campanhas publicitárias de rua - Todos os meios ou forma de publicidade, de caráter ocasional e efémero, que impliquem ações de rua e o contacto direto com o público, nomeadamente as que ocorrem através da distribuição de panfletos, de produtos e outras ações promocionais de natureza comercial;
+
+e) Contíguo à fachada - espaço, área ou faixa imediatamente junta ou a seguir à fachada do estabelecimento, não excedendo a largura da fachada deste;
+
+f) Destinatário - a pessoa singular ou coletiva a quem a mensagem publicitária se dirige ou que por esta seja, por qualquer forma, mediata ou imediatamente cognoscível;
+
+g) Domínio público - Todos os espaços públicos afetos ao domínio público municipal, nomeadamente passeios, avenidas, alamedas, ruas, praças, caminhos, estradas, pontes, viadutos, parques, jardins, lagos e fontes;
+
+h) Logótipo - Conjunto de elementos gráficos, formado por letras e/ou imagens, que identifica ou representa uma entidade;
+
+i) Plataforma da Estrada - O conjunto constituído pela faixa de rodagem e pelas bermas;
+
+j) Profissional ou agência de publicidade - A pessoa singular que exerce a atividade publicitária ou pessoa coletiva cuja atividade tenha por objeto o exercício da atividade publicitária;
+
+k) Publicidade aérea - A que se refere aos dispositivos publicitários instalados, inscritos ou afixados em veículos ou dispositivos aéreos, nomeadamente em transportes aéreos (aviões, helicópteros, zepelins, balões, parapentes, paraquedas e outros), bem como dispositivos publicitários aéreos cativos (insufláveis, sem contacto com o solo, mas a ele espiados);
+
+l) Publicidade em veículos - A que se refere aos dispositivos publicitários instalados, inscritos ou afixados em veículos e a publicidade inscrita em transportes públicos, nomeadamente os que ostentam inscrições publicitárias não relacionadas com a atividade que desempenham;
+
+m) Publicidade sonora - Toda a difusão de som, com fins comerciais, emitida no espaço público, dele audível ou percetível;
+
+n) Rede Regional complementar e rede municipal - As vias definidas como tal no plano rodoviário nacional;
+
+o) Unidades móveis publicitárias - Veículos e ou atrelados utilizados exclusivamente para o exercício da atividade publicitária;
+
+p) Vias municipais - todas as estradas e caminhos cuja gestão seja da competência da Câmara Municipal;
+
+q) Zona de estrada ou da via municipal - O solo ocupado pela estrada ou caminho municipal, abrangendo a faixa de rodagem, as bermas, as pontes e os viadutos nela incorporados e, quando existam, as valetas, os passeios, as banquetas e os taludes.
+
+#### SECÇÃO I — Regimes e procedimentos
+
+###### Artigo 5.º
+
+Regimes e procedimentos aplicáveis à ocupação do espaço público.
+
+1 - A ocupação do espaço público observa o regime geral de ocupação do domínio público das autarquias locais e está sujeita a licenciamento, nos termos do presente regulamento, com exceção do disposto nos números seguintes.
+
+2 - O interessado na exploração de um estabelecimento de restauração ou bebidas, de comércio de bens, de prestação de serviços ou de armazenagem, deve usar o "Balcão do empreendedor" para declarar que pretende ocupar o espaço público para algum ou alguns dos seguintes fins:
+
+a) Instalação de toldo e respetiva sanefa;
+
+b) Instalação de esplanada aberta;
+
+c) Instalação de estrado e guarda-ventos;
+
+d) Instalação de vitrina e expositor;
+
+e) Instalação de suporte publicitário, nos casos em que é dispensado o licenciamento da afixação ou da inscrição de mensagens publicitárias de natureza comercial;
+
+f) Instalação de arcas e máquinas de gelados;
+
+g) Instalação de brinquedos mecânicos e equipamentos similares;
+
+h) Instalação de floreira;
+
+i) Instalação de contentor para resíduos.
+
+3 - Aplica-se o regime da mera comunicação prévia, previsto no n.º 1 do artigo 12.º do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de Abril, à declaração referida no número anterior, se as características e localização do mobiliário urbano respeitarem os seguintes limites:
+
+a) No caso dos toldos e das respetivas sanefas, das floreiras, das vitrinas, dos expositores, das arcas e máquinas de gelados, dos brinquedos mecânicos e dos contentores para resíduos, quando a sua instalação for efetuada junto à fachada do estabelecimento;
+
+b) No caso das esplanadas abertas, quando a sua instalação for efetuada em área contígua à fachada do estabelecimento e a ocupação transversal da esplanada não exceder a largura da fachada do respetivo estabelecimento;
+
+c) No caso dos guarda-ventos, quando a sua instalação for efetuada junto das esplanadas, perpendicularmente ao plano marginal da fachada e o seu avanço não ultrapassar o da esplanada;
+
+d) No caso dos estrados, quando a sua instalação for efetuada como apoio a uma esplanada e não exceder a sua dimensão;
+
+e) No caso dos suportes publicitários:
+
+i) Quando a sua instalação for efetuada na área contígua à fachada do estabelecimento e não exceder a largura da mesma; ou
+
+ii) Quando a mensagem publicitária for afixada ou inscrita na fachada ou em mobiliário urbano referido nas alíneas anteriores.
+
+4 - A mera comunicação prévia referida no número anterior consiste numa declaração que permite ao interessado proceder imediatamente à ocupação do espaço público, após o pagamento das taxas devidas.
+
+5 - No caso das características e da localização do mobiliário urbano não respeitarem os limites referidos no n.º 3 do presente artigo a ocupação do espaço público está sujeita a autorização, nos termos previstos nos n.os 4 e 5 do artigo 12.º e artigo 15.º do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, na redação dada pelo [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro.
+
+6 - A mera comunicação prévia dispensa a prática de quaisquer outros atos permissivos relativamente à ocupação do espaço público, designadamente a necessidade de proceder a licenciamento ou à celebração de contrato de concessão.
+
+7 - Independentemente de estar ou não sujeita a licenciamento, ou autorização, a ocupação do espaço público deve observar os critérios de ocupação do espaço público definidos no presente regulamento.
+
+###### Artigo 6.º — Regimes e procedimentos aplicáveis à afixação, inscrição e difusão de mensagens publicitárias
+
+1 - A afixação, inscrição e difusão de mensagens publicitárias em bens ou espaços públicos e em bens de que são proprietárias ou legítimas possuidoras ou detentoras entidades privadas e são visíveis ou audíveis a partir do espaço público obedece às regras gerais da publicidade e depende de licenciamento prévio, salvo o disposto nos números seguintes.
+
+2 - Sem prejuízo das regras sobre a utilização do espaço público e do regime jurídico da conservação da natureza e biodiversidade, a afixação e inscrição de mensagens publicitárias de natureza comercial não estão sujeitas a licenciamento, a autorização, a autenticação, a validação, a certificação, a registo ou a qualquer outro ato permissivo, nem a mera comunicação prévia, nos seguintes casos:
+
+a) Quando as mensagens publicitárias de natureza comercial são afixadas ou inscritas em bens de que são proprietárias ou legítimas possuidoras ou detentoras entidades privadas e não são visíveis ou audíveis a partir do espaço público;
+
+b) Quando as mensagens publicitárias de natureza comercial são afixadas ou inscritas em bens de que são proprietárias ou legítimas possuidoras ou detentoras entidades privadas e a mensagem publicita os sinais distintivos do comércio do estabelecimento ou do respetivo titular da exploração ou está relacionada com bens ou serviços comercializados no prédio em que se situam, ainda que sejam visíveis ou audíveis a partir do espaço público;
+
+c) Quando as mensagens publicitárias de natureza comercial ocupam o espaço público contíguo à fachada do estabelecimento e publicitam os sinais distintivos do comércio do estabelecimento ou do respetivo titular da exploração ou estão relacionadas com bens ou serviços comercializados no estabelecimento.
+
+3 - No caso dos bens imóveis, a afixação ou a inscrição de mensagens publicitárias no próprio bem consideram-se abrangidas pelo disposto na alínea b) do número anterior.
+
+4 - Não estão, ainda, sujeitos a licenciamento municipal ou a qualquer outro ato permissivo:
+
+a) As placas, os dizeres e as indicações que resultem de imposição legal;
+
+b) Os anúncios ou reclamos colocados ou afixados dentro dos estabelecimentos ou no interior das montras de exposição destes, quando forem respeitantes a produtos ali fabricados e/ ou comercializados;
+
+c) A afixação nos produtos e/ ou nos estabelecimentos de símbolos ou certificados de qualidade ou de origem;
+
+d) Os anúncios temporariamente colocados ou afixados em prédios urbanos com a simples indicação da sua venda ou arrendamento;
+
+e) A identificação de organismo público, de instituições de solidariedade social, de cooperativas e de outras instituições sem fins lucrativos, desde que relativos à atividade que prosseguem;
+
+f) A indicação do nome do edifício;
+
+g) Os anúncios destinados à identificação de serviços públicos de saúde;
+
+h) O símbolo de farmácia, quando colocado na fachada do estabelecimento;
+
+i) Os anúncios destinados à identificação de profissões liberais, desde que especifiquem apenas os titulares, a profissão, o horário de funcionamento e, quando for caso disso, a especialização;
+
+j) A propaganda política, sindical ou religiosa;
+
+k) Os editais, avisos, notificações e comunicados relacionados com o cumprimento de prescrições legais;
+
+l) A publicidade inscrita em bandeiras, quando se trate de publicidade do Estado ou oficial e resulte de iniciativas levadas a cabo pelo Município ou outras entidades públicas;
+
+m) As referências a patrocinadores de atividades promovidas pela Câmara Municipal ou que esta considere de interesse público, desde que o valor do patrocínio seja superior ao valor da taxa que seria aplicável;
+
+n) A divulgação de eventos ou atividades organizados pela Câmara Municipal.
+
+5 - A divulgação de eventos, de manifesto e relevante interesse para o Município, que se realizem em locais fora do concelho, desde que organizados por organismos públicos, bem como a divulgação de causas, instituições sociais, entidades ou atividades sem fins comerciais, designadamente culturais, desportivas, recreativas, sindicais e políticas, estão sujeitos a autorização, solicitada com uma antecedência mínima de 10 dias, devendo o requerimento conter, designadamente os seguintes elementos:
+
+a) Identificação completa do requerente;
+
+b) Legitimidade do requerente;
+
+c) Formulação do pedido em termos claros e precisos, indicando, para o efeito, designadamente o local, os elementos a utilizar e o período de tempo pretendido.
+
+6 - Independentemente de estar ou não sujeita a licenciamento, a afixação, inscrição e difusão de mensagens publicitárias, qualquer que seja a sua natureza, deve observar os critérios de afixação, inscrição e difusão de mensagens publicitárias definidos no presente regulamento, com exceção das mensagens publicitárias afixadas ou inscritas em bens de que são proprietárias ou legítimas possuidoras ou detentoras entidades privadas e não visíveis ou audíveis a partir do espaço público.
+
+7 - O disposto no presente artigo não isenta a observância das demais normas legais e regulamentares aplicáveis.
+
+###### Artigo 7.º — Articulação com regimes conexos
+
+1 - Sempre que a ocupação do espaço público ou privado com mobiliário urbano ou suportes publicitários envolva a realização de operações urbanísticas sujeitas a controlo prévio, deve o interessado dar previamente cumprimento ao regime jurídico da urbanização e edificação previsto no [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual.
+
+2 - Caso haja lugar à concessão de espaço público para a afixação ou inscrição de mensagens publicitárias e placas de sinalização direcional, terá de se obedecer às regras estabelecidas no Código da Contratação Pública, estabelecido no [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual.
+
+### CAPÍTULO II — Critérios de ocupação do espaço público e de afixação, inscrição e difusão de mensagens publicitárias
+
+#### SECÇÃO I — Instalação de mobiliário urbano
+
+###### Artigo 8.º — Condições gerais de instalação de mobiliário urbano
+
+1 - A instalação de mobiliário urbano deve reservar um corredor de circulação de peões igual ou superior a 1,50 m entre o limite exterior do passeio e o prédio.
+
+2 - Em zonas exclusivamente pedonais, a ocupação do espaço público com mobiliário urbano, não poderá impedir a circulação dos veículos de emergência, devendo, para tal, ser deixado livre, permanentemente, um corredor com a largura mínima de 2,80 m em toda a extensão do arruamento.
+
+3 - Em zonas mistas (pedonais e de circulação de veículos automóveis):
+
+a) Deverá ser deixado um espaço de circulação pedonal com a largura mínima de 1,50 m;
+
+b) Deverá ser deixado um espaço de circulação para veículos automóveis com a largura mínima de 2,80 m;
+
+c) Não pode existir ocupação da zona de circulação de veículos automóveis, por mobiliário urbano ou seus utilizadores.
+
+4 - A instalação de mobiliário urbano deve deixar um espaço igual ou superior a 1,20 m em toda a largura do vão de porta, para garantir o acesso livre e direto à entrada do estabelecimento.
+
+5 - Nos passeios com paragens de veículos de transportes coletivos de passageiros, bem como junto a passadeiras de peões, não é permitida a instalação de mobiliário urbano numa zona de 5 m para cada lado da paragem ou da passadeira.
+
+6 - O mobiliário urbano deve integrar -se de forma harmoniosa nas características cromáticas e arquitetónicas dos edifícios confinantes e da envolvente.
+
+###### Artigo 9.º — Condições de instalação e manutenção de toldo e da respetiva sanefa
+
+1 - A instalação de toldo e da respetiva sanefa deve respeitar as seguintes condições:
+
+a) Em passeio de largura superior a 2,00 m, deixar livre um espaço igual ou superior a 0,80 m em relação ao limite externo do passeio;
+
+b) Em passeio de largura inferior a 2,00 m, deixar livre um espaço igual ou superior a 0,60 m em relação ao limite externo do passeio;
+
+c) Observar uma distância ao pavimento igual ou superior a 2,20 m, mas nunca acima do nível do teto do estabelecimento comercial a que pertença;
+
+d) Não exceder um avanço superior a 3,00 m;
+
+e) Não exceder os limites laterais das instalações pertencentes ao respetivo estabelecimento;
+
+f) Não se sobrepor a cunhais, pilastras, cornijas, emolduramentos de vãos de portas e janelas e outros elementos com interesse arquitetónico ou decorativo;
+
+g) Os toldos têm que ser rebatíveis.
+
+2 - O toldo e a respetiva sanefa não podem ser utilizados para pendurar ou afixar qualquer tipo de objetos.
+
+3 - O titular é responsável pelo bom estado de conservação e limpeza do toldo e da respetiva sanefa.
+
+###### Artigo 10.º — Condições e critérios gerais de ocupação do espaço público com esplanadas
+
+1 - Na instalação de esplanada, aberta ou fechada, devem respeitar-se as seguintes condições:
+
+a) Não alterar a superfície do passeio onde é instalada, sem prejuízo do disposto no artigo 13.º;
+
+b) Não ocupar mais de 50 % da largura do passeio onde é instalada, ou, no caso de não existirem passeios, não ocupar mais de 25 % da largura do arruamento, sem prejuízo da livre circulação automóvel.
+
+2 - Os proprietários, concessionários ou exploradores de estabelecimentos são responsáveis pelo estado de limpeza dos passeios e das esplanadas abertas na parte ocupada e na faixa contígua de 3,00 m.
+
+3 - Sempre que existam estabelecimentos em posição frontal no mesmo arruamento cujos exploradores pretendam instalar esplanadas, proceder-se-á à divisão equitativa do espaço disponível.
+
+4 - Nos casos em que se verifique que um dos requerentes é titular de licenciamento, só será aplicável o disposto no número anterior após o seu termo.
+
+###### Artigo 11.º — Restrições à instalação de esplanada aberta
+
+1 - Quando a instalação de esplanada aberta for efetuada em área contígua à fachada do estabelecimento, a ocupação transversal da esplanada não pode exceder a largura da fachada do respetivo estabelecimento.
+
+2 - O mobiliário urbano utilizado como componente de uma esplanada aberta deve cumprir os seguintes requisitos:
+
+a) Ser instalado exclusivamente na área comunicada de ocupação da esplanada;
+
+b) Ser próprio para uso no exterior e de desenho e cor adequados ao ambiente urbano em que a esplanada está inserida;
+
+c) Os guarda-sóis devem:
+
+i) Ser instalados dentro da esplanada, não excedendo os seus limites;
+
+ii) Ser instalados exclusivamente durante a época de funcionamento da esplanada;
+
+iii) Ser fixados a uma base que garanta a segurança dos utilizadores, devendo ser facilmente amovíveis;
+
+iv) Quando abertos, dispor de pé direito livre não inferior a 2,00 m.
+
+v) Ser todos iguais, tanto na cor como no tipo.
+
+d) Os aquecedores verticais devem ser próprios para uso no exterior e respeitar as condições de segurança.
+
+3 - A ocupação do espaço público com esplanadas abertas deve contemplar o espaço necessário para a instalação do mobiliário afeto à esplanada, bem como o espaço mínimo imprescindível para a circulação do empregado de mesa e respetivos utilizadores.
+
+4 - A ocupação do espaço público com esplanadas abertas não pode exceder mais do que 100 % da área do piso térreo do estabelecimento respetivo, salvo nos casos devidamente fundamentados, em que se verifique que a ocupação não colide com as restantes normas do presente regulamento.
+
+5 - A esplanada deverá ter uma composição harmoniosa, devendo os elementos que a constituem ser iguais, dentro de cada género ou tipo.
+
+6 - O perímetro da esplanada só pode ser ocupado com proteções, guarda-ventos ou outras proteções, em 50 %.
+
+###### Artigo 12.º
+
+Restrições à instalação de esplanada fechada.
+
+1 - A ocupação do espaço público com esplanadas fechadas contempla o espaço total, medido pelo exterior da estrutura a construir.
+
+2 - A ocupação do espaço público com esplanadas fechadas deverá obedecer, cumulativamente, às seguintes condições:
+
+a) A esplanada deve ser contígua à fachada do respetivo estabelecimento;
+
+b) A ocupação não pode exceder a largura da fachada do respetivo estabelecimento;
+
+c) Não pode exceder mais do que 50 % da área do piso térreo do respetivo estabelecimento;
+
+d) Mais de 50 % da área das proteções deve ser translúcida;
+
+e) O pé direito livre no interior da esplanada não deverá ser inferior a 3,00 m admitindo-se, em casos excecionais, o valor mínimo de 2,40 m.
+
+3 - A proteção fixa ao solo, quando coberta, não poderá ultrapassar a altura do piso dos rés-do-chão da edificação principal.
+
+4 - A implantação de esplanadas fechadas junto a outros estabelecimentos ou entradas de edifícios só pode fazer-se desde que entre o elemento mais saliente da esplanada e os vãos, portas, janelas ou montras, seja garantida uma distância nunca inferior a metade do corpo avançado perpendicular à fachada do edifício.
+
+5 - Na elaboração da proteção deve privilegiar-se a utilização de estruturas metálicas, podendo admitir-se a introdução de elementos valorizadores do projeto noutros materiais, sem prejuízo do caráter precário da instalação.
+
+6 - O pavimento da esplanada fechada deverá manter o material semelhante ao existente nos passeios envolventes, devido à necessidade de acesso às infraestruturas existentes no subsolo.
+
+7 - Sobre o pavimento referido no número anterior, poderá ser colocado um estrado nas condições estabelecidas no artigo 13.º
+
+8 - Os vidros ou materiais similares, quando utilizados, devem ser lisos, transparentes, temperados ou laminados, de modo a garantir a segurança dos utentes.
+
+9 - Não é permitida a afixação de toldos ou sanefas nas esplanadas fechadas.
+
+10 - Aquando da instalação de uma esplanada fechada, não podem ser efetuadas alterações à fachada do edifício, as quais pressupõem um procedimento de controlo prévio da operação urbanística previsto no [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua atual redação, que estabelece o Regime Jurídico da Urbanização e Edificação.
+
+11 - O equipamento de ar condicionado ou outros equipamentos similares, quando existam, devem ser integrados no interior da esplanada fechada.
+
+12 - Caso se preveja a incorporação de mensagens publicitárias em esplanadas fechadas, a sua definição deverá constar nas peças escritas e desenhadas, de modo a que se obtenha uma melhor integração nessas estruturas.
+
+###### Artigo 13.º
+
+Condições de instalação de estrado.
+
+1 - É permitida a instalação de estrado como apoio a esplanada, quando o desnível do pavimento ocupado pela esplanada for superior a 5 % de inclinação.
+
+2 - Os estrados devem ser amovíveis e construídos, de modo a salvaguardar as condições de segurança.
+
+3 - Os estrados devem garantir a acessibilidade de pessoas com mobilidade condicionada, nos termos do [Decreto-Lei n.º 163/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2006-538624), de 8 de agosto, garantindo uma forma de fácil acesso a meios de transporte mecânicos ou mecanizados utilizados por aqueles.
+
+4 - Os estrados não podem exceder a cota máxima da soleira da porta do estabelecimento respetivo ou 0,25 m de altura face ao pavimento.
+
+5 - Na instalação de um estrado, deve ainda respeitar-se uma distância igual ou superior a:
+
+a) 0,80 m entre o guarda-vento e outros estabelecimentos, montras e acessos;
+
+b) 2,00 m entre o guarda-vento e outro mobiliário urbano.
+
+###### Artigo 14.º
+
+Condições de instalação de guarda-vento.
+
+1 - A instalação de guarda-vento deve ser feita nas seguintes condições:
+
+a) Ser amovível;
+
+b) Não ocultar referências de interesse público, nem prejudicar a segurança, transitabilidade, salubridade, interesses de estabelecimentos contíguos, o livre acesso de pessoas e bens e a boa visibilidade local ou as árvores porventura existentes;
+
+c) Não obstruir o corredor de circulação de peões;
+
+d) Não exceder 2 m de altura contados a partir do solo;
+
+e) Não exceder o avanço da esplanada junto da qual está instalado;
+
+f) Garantir, no mínimo, 0,05 m de distância do seu plano inferior ao pavimento, desde que não tenha ressaltos superiores a 0,02 m;
+
+g) A parte opaca do guarda-vento, quando exista, não pode exceder 0,60 m contados a partir do solo.
+
+2 - Na instalação de um guarda-vento, deve ainda respeitar-se uma distância igual ou superior a:
+
+a) 0,80 m entre o guarda-vento e outros estabelecimentos, montras e acessos;
+
+b) 2,00 m entre o guarda-vento e outro mobiliário urbano.
+
+###### Artigo 15.º — Condições de instalação de vitrina
+
+Na instalação de vitrina, devem respeitar-se as seguintes condições:
+
+a) Não se sobrepor a cunhais, pilastras, cornijas, emolduramentos de vãos de portas e janelas ou a outros elementos com interesse arquitetónico e decorativo;
+
+b) A altura da vitrina em relação ao solo deve ser igual ou superior a 1,40 m;
+
+c) Não exceder 0,15 m de balanço em relação ao plano da fachada do edifício.
+
+###### Artigo 16.º — Condições de instalação de expositor
+
+1 - O expositor deve ser instalado exclusivamente durante o horário de funcionamento do estabelecimento.
+
+2 - O expositor apenas pode ser instalado em passeios com largura igual ou superior a 2 m, devendo respeitar as seguintes condições de instalação:
+
+a) Ser contíguo ao respetivo estabelecimento;
+
+b) Não prejudicar o acesso aos edifícios contíguos;
+
+c) Não exceder 1,80 m de altura a partir do solo;
+
+d) Quando se trate de um expositor de produtos alimentares, deve observar se uma altura mínima de 0,40 m, contados a partir do plano inferior do expositor, ao solo.
+
+###### Artigo 17.º — Condições de instalação de arca ou máquina de gelados
+
+Na instalação de arca ou máquina de gelados, devem respeitar-se as seguintes condições de instalação:
+
+a) Ser contígua à fachada do estabelecimento, preferencialmente junto à sua entrada;
+
+b) Não exceder 1 m de avanço, contado a partir do plano da fachada do edifício.
+
+###### Artigo 18.º — Condições de instalação de brinquedo mecânico e equipamento similar
+
+1 - Por cada estabelecimento, é permitido instalar dois brinquedos mecânicos ou equipamentos similares, servindo exclusivamente como apoio ao estabelecimento.
+
+2 - A instalação de um brinquedo mecânico ou de um equipamento similar deve ainda respeitar as seguintes condições:
+
+a) Ser contígua à fachada do estabelecimento, preferencialmente junto à sua entrada;
+
+b) Não exceder 1,00 m de avanço, contado a partir do plano da fachada do edifício.
+
+###### Artigo 19.º — Condições de instalação e manutenção de floreira
+
+1 - A instalação de floreira não deve exceder os limites da fachada do estabelecimento.
+
+2 - As plantas utilizadas nas floreiras não podem ter espinhos ou bagas venenosas.
+
+3 - O titular do estabelecimento a que a floreira pertença deve proceder à sua limpeza, rega e substituição das plantas, sempre que necessário.
+
+###### Artigo 20.º — Condições de instalação e manutenção de contentor para resíduos
+
+1 - O contentor para resíduos deve ser instalado contiguamente ao respetivo estabelecimento, servindo exclusivamente para seu apoio.
+
+2 - Sempre que o contentor para resíduos se encontre cheio, deve ser imediatamente limpo ou substituído, devendo a limpeza ser efetuada diariamente.
+
+3 - A instalação de um contentor para resíduos no espaço público não pode constituir perigo para a higiene e limpeza do espaço.
+
+4 - O contentor para resíduos deve estar sempre em bom estado de conservação, nomeadamente no que respeita a pintura, higiene e limpeza.
+
+5 - O contentor para resíduos não pode ter capacidade superior a 60 litros.
+
+#### SECÇÃO II — Zonas de proteção específica
+
+###### Artigo 21.º — Âmbito
+
+1 - Para efeitos do presente diploma são tidas como Zonas de Proteção Específica:
+
+a) Os sítios, elementos construídos ou edifícios classificados ou em vias de classificação e respetivas áreas de proteção, identificados na Planta de Condicionantes do Plano Diretor Municipal;
+
+b) As áreas, locais e edifícios, de valor histórico, patrimonial e natural, identificados nos planos municipais de ordenamento do território, nomeadamente os previstos no Plano Diretor Municipal;
+
+c) As zonas que pelas suas características mais urbanas e de maior centralidade têm sido objeto de recentes obras de requalificação
+
+###### Artigo 22.º — Zonas de Proteção Específica
+
+1 - As áreas das Zonas de Proteção Específica estão, delimitadas nas Plantas do Anexo II ao presente Regulamento;
+
+##### SUBSECÇÃO I — Instalação de esplanadas na Zona de Proteção Especifica
+
+###### Artigo 23.º — Âmbito
+
+A presente secção aplica-se à ocupação do espaço público com esplanadas na Zona de Proteção Especifica cujos limites se encontram representados no Anexo III (Ortofotomapa).
+
+###### Artigo 24.º — Condições especiais de instalação e manutenção de esplanada
+
+1 - Sem prejuízo das demais condições previstas no presente regulamento, ou em outras normas, a ocupação do espaço público na área referida no artigo anterior obedece às condições previstas nos números seguintes.
+
+2 - A instalação de esplanadas fica sujeita às seguintes condições:
+
+a) A esplanada deve ser aberta e não deve ter qualquer tipo de estrutura e/ou mobiliário de caráter fixo e/ou permanente;
+
+b) Na instalação de esplanada, deve ser salvaguardado o equilíbrio urbano e ambiental, bem como a esplanada deve integrar-se de forma harmoniosa nas características cromáticas e arquitetónicas dos edifícios confinantes e do espaço público onde se insere;
+
+c) A esplanada não deve, ainda, causar obstrução à leitura de elementos constituintes do desenho urbano na Zona de Proteção Especifica
+
+d) A esplanada pode ter uma estrutura de proteção lateral, ocupando apenas 50 % do perímetro total da área de ocupação da esplanada;
+
+e) A proteção superior da esplanada (cobertura) só pode ser efetuada através da colocação de guarda-sóis amovíveis;
+
+f) O mobiliário urbano integrante da esplanada deve respeitar, para além das condições gerais e especificas estabelecidas no Capítulo II do presente regulamento, os seguintes requisitos:
+
+i) O mobiliário da esplanada não pode ficar amontoado ou empilhado no espaço público, ainda que na área prevista para a mesma, fora do horário de funcionamento do estabelecimento, sem prejuízo do disposto na subalínea seguinte;
+
+ii) Na impossibilidade de garantir o estabelecido na subalínea anterior, deverá ser assegurada a disposição habitual do mobiliário, podendo ser utilizado, para a sua guarda e segurança, um sistema de cabo de aço, revestido a plástico, que permita a interligação de todos os elementos.
+
+g) Deve ser respeitada a localização específica dos Núcleos de Esplanadas prevista no Anexo III - Localização específica das esplanadas no passeio na Frente Mar da Ribeira Brava.
+
+i) Na "Frente Mar da Ribeira Brava";
+
+ii) No Largo Herédia
+
+iii) No Miradouro de São Sebastião;
+
+iv) Na Praceta da Tabua;
+
+v) Na praceta da Serra de Água.
+
+###### Artigo 25.º — Condições de instalação de cadeiras ou cadeirões
+
+As cadeiras e os cadeirões devem respeitar as características técnicas constantes do Anexo IV designadamente ser em alumínio, inox, metal, polipropileno ou derivado de plástico, de linha idêntica à da mesa, de cor branca ou cinzenta, podendo ser utilizada almofada para o revestimento do tampo.
+
+###### Artigo 26.º — Condições de instalação de mesas
+
+As mesas devem respeitar as características técnicas constantes do Anexo IV designadamente ser em alumínio, inox, metal, polipropileno ou derivado de plástico, de linha idêntica à da cadeira ou cadeirão, com tampo quadrado, de dimensão compreendida entre os 70 cm e os 80 cm, de cor branca ou cinzenta.
+
+###### Artigo 27.º — Condições de instalação de guarda-sol
+
+1 - Os guarda-sóis devem obedecer ao desenho e características técnicas constantes do Anexo IV designadamente ser de estrutura metálica, tecido com geometria quadrada e cor branco cru, castanho, preto ou cinza.
+
+2 - O guarda-sol é obrigatoriamente apoiado numa base amovível com 50 kg de peso e um lastro de 625 x 62 x 16 mm, devendo optar -se pela colocação de parafusos niveladores para ajustar a inclinação do guarda-sol ao desnível natural do pavimento.
+
+3 - Não é permitida a fixação do guarda-sol ao pavimento.
+
+4 - Quando abertos, a altura livre, entre a parte superior dos guarda-sóis e o pavimento, não pode ser inferior a 2,20 m ou superior a 2,40 m.
+
+5 - O afastamento entre as coberturas deve ser no mínimo de 0,25 m para proporcionar a ventilação da esplanada.
+
+6 - Não são permitidas abas laterais.
+
+###### Artigo 28.º — Condições de instalação de guarda-vento
+
+1 - Os guarda-ventos devem obedecer designadamente o material da base, moldura e peças de união, deve ser em alumínio, inox, metal, polipropileno ou derivado de plástico, de cor branca ou cinzenta.
+
+2 - A colocação do guarda-vento não pode exceder o limite exterior da esplanada.
+
+3 - A base e a moldura lateral devem ter resistência ao vento para sustentar o vidro ou acrílico, de modo a não colocar em causa a segurança de pessoas e bens no espaço público e na esplanada.
+
+4 - Os módulos devem estar agarrados entre si por fixadores, para garantir a segurança de pessoas e bens, devendo os mesmos ser de fácil montagem e desmontagem.
+
+5 - As dimensões dos módulos dos guarda-ventos devem ser uniformes:
+
+a) A altura deve ser de 1,50 m;
+
+b) A largura mínima é de 0,80 m, devendo ser variável em múltiplos crescente de 0,80 m.
+
+6 - O vidro dos guarda-ventos deve garantir os seguintes requisitos:
+
+a) Ser laminado com características de proteção aos raios UV;
+
+b) A espessura deve variar consoante as dimensões do mesmo, de forma a garantir a resistência necessária para não colocar em causa a segurança de pessoas e bens no espaço público e na esplanada.
+
+7 - O acrílico dos guarda-ventos deve garantir os seguintes requisitos:
+
+a) Ter características de proteção aos raios UV e ser resistente ao choque;
+
+b) A espessura deve variar consoante as dimensões do mesmo, de forma a garantir a resistência necessária para não colocar em causa a segurança de pessoas e bens no espaço público e na esplanada.
+
+8 - Nos guarda-ventos pode ser inscrita publicidade, desde que, para além de cumprir todos os requisitos referentes à afixação e inscrição de mensagens publicitárias, constantes do presente regulamento, respeite, ainda, as seguintes condições:
+
+a) A publicidade seja apenas referente ao estabelecimento em causa;
+
+b) Deve ser de cor branca ou cinzenta e ser constituído por um material resistente à exposição e às alterações climatéricas, em vinil ou autocolante e Bisel, consoante seja aplicado em vidro ou acrílico.
+
+###### Artigo 29.º — Condições de instalação de expositor
+
+1 - Os expositores devem ter as seguintes características, moldura e peças de união, deverão ser em Alumínio, madeira, inox, metal, polipropileno ou derivado de plástico, à cor branco ou cinzento (claro ou escuro).
+
+2 - A instalação de expositores destinados a porta-menus ou ementas, deve respeitar as condições estabelecidas no artigo 16.º do presente capítulo, o qual pode ser instalado junto da entrada dos estabelecimentos de restauração e bebidas ou na área da esplanada.
+
+3 - A estrutura do expositor deve ter a possibilidade de se sustentar sozinha ou pode estar junto a um guarda-vento, devendo ficar salvaguardado a segurança de pessoas e bens no espaço público e na esplanada.
+
+4 - A frente do expositor porta-menus, onde será colocada a descrição da ementa, deve ser protegida por uma placa em acrílico ou vidro, ambas amovíveis, de forma a permitir a colocação das ementas no seu interior.
+
+###### Artigo 30.º — Condições de instalação de floreiras
+
+1 - As floreiras devem ter as seguintes características, em polipropileno ou derivado de plástico, pedra, betão, aglomerado de pedra, de cor castanha escura, preta e cinzenta ou branca.
+
+2 - As floreiras devem ser amovíveis e localizar-se junto ou alinhadas aos guarda-ventos.
+
+3 - As floreiras devem possuir as seguintes dimensões:
+
+a) Altura máxima de 0,50 m;
+
+b) Comprimento de 0,80 m e largura de 0,50 m.
+
+4 - Não é permitido o escoamento das floreiras para o passeio público, devendo estas serem servidas por uma grelha de escoamento no interior e sem qualquer orifício para o exterior.
+
+###### Artigo 31.º — Outro mobiliário
+
+1 - A esplanada pode integrar aquecedores verticais de exterior, desde que respeitados os devidos requisitos legais, designadamente de segurança de pessoas e bens no espaço público e na esplanada.
+
+2 - Não é permitido a instalação de arcas ou máquinas de gelados, frigoríficos ou equipamentos de frio ou de qualquer espécie para exposição de alimentos, bem como de grelhadores, máquinas de bebidas.
+
+3 - Não é, ainda, permitido a instalação de:
+
+a) Brinquedo mecânico ou equipamento de diversão, brindes ou similar;
+
+b) Tapetes colocados à entrada dos estabelecimentos;
+
+c) Máquinas de tabaco;
+
+d) Elementos de decoração ou apoio à atividade do estabelecimento, como bandeirolas, baldes de lixo ou cestos de papéis, suportes informativos ou publicitários, ou qualquer outro equipamento que não descrito neste normativo, a não ser em casos excecionais previamente autorizados pela Câmara Municipal, mediante requerimento prévio dos interessados.
+
+###### Artigo 32.º — Condições de instalação de estrados
+
+1 - Não é permitido a colocação de estrados, exceto se a inclinação do espaço público impossibilitar a colocação da esplanada diretamente no pavimento existente, dependendo sempre de prévia autorização da Câmara Municipal.
+
+2 - É interdita a colocação de estrados e similares."
+
+a) Na "Frente Mar da Ribeira Brava"
+
+b) No Largo Herédia
+
+#### SECÇÃO III — Prestação de serviços com caráter não sedentário
+
+###### Artigo 33.º — Condições de ocupação do espaço público com equipamentos de apoio à prestação de serviços com caráter não sedentário
+
+1 - Deve ser reservado um corredor de circulação de peões igual ou superior a 1,50 m entre o limite exterior do passeio e os equipamentos, aquando da colocação de equipamentos de apoio à prestação de serviços de caráter não sedentário na área do Município de Ribeira Brava.
+
+2 - Em zonas exclusivamente pedonais, a ocupação do espaço público com equipamentos não poderá impedir a circulação dos veículos de emergência, devendo, para tal, ser deixado livre e permanentemente, um corredor com a largura mínima de 2,80 m em toda extensão do arruamento.
+
+3 - Em zonas mistas, pedonais e de circulação de veículos automóveis:
+
+a) Deverá ser deixado um espaço de circulação pedonal com a largura mínima de 1,50 m;
+
+b) Deverá ser deixado um espaço de circulação para veículos automóveis com a largura mínima de 2,80 m;
+
+c) Não pode existir ocupação da zona de circulação de veículos automóveis, por equipamentos de apoio ou seus utilizadores.
+
+4 - Nos passeios com paragens de veículos de transportes coletivos de passageiros, bem como junto a passadeiras de peões, não é permitida a instalação de equipamentos numa zona de 5 m para cada um dos lados da paragem ou da passadeira.
+
+5 - A instalação de equipamentos de apoio no espaço público para a prestação de serviços com caráter não sedentário deve, ainda, respeitar as seguintes condições:
+
+a) Não alterar a superfície do pavimento onde é instalada, sem prejuízo da possibilidade de instalação de um estrado, amovível, e apenas caso a inclinação do pavimento assim o justifique;
+
+b) Não ocupar mais de 50 % da largura do passeio onde é instalada, ou, no caso de não existirem passeios, não ocupar mais de 25 % da largura do arruamento, sem prejuízo da livre circulação automóvel;
+
+c) Ser instalado exclusivamente na área de ocupação autorizada para a venda ambulante, prevista no respetivo regulamento municipal, não podendo exceder os seus limites;
+
+d) Ser próprio para uso no exterior e de desenho e cor adequados ao ambiente urbano em que o mobiliário está inserido;
+
+e) Ser instalado exclusivamente durante a permanência do prestador de serviços no local, devendo ser retirado com a retirada do prestador de serviços;
+
+f) Os guarda-sóis, quando existam, devem ser fixos a uma base que garanta a segurança dos utilizadores, devendo ser facilmente removíveis, não podendo o mesmo local conter mais de um tipo de guarda-sóis diferentes.
+
+6 - A ocupação do espaço público para a prestação de serviços com caráter não sedentário deve contemplar o espaço necessário para a instalação dos equipamentos de apoio, bem como o espaço mínimo imprescindível para a circulação dos utentes ou utilizadores.
+
+###### Artigo 34.º — Zonas de proteção
+
+1 - É proibida a atividade de prestação de serviços de caráter não sedentário em locais situados nas Zona de Proteção Específica.
+
+2 - É proibida a atividade de prestação de serviços de caráter não sedentário no "Adro da Igreja da Ribeira Brava";
+
+3 - É ainda proibida a atividade de prestação de serviços de caráter não sedentário na frente de estabelecimentos comerciais ou a uma distância inferior a 20 metros de estabelecimentos que comercializem a mesma categoria de produtos.
+
+4 - Para além do previsto no n.º 2 deste artigo nas áreas delimitadas no Anexo II não é permitido a ocupação do espaço público para prestação de serviços de restauração ou de bebidas com caráter não sedentário, exceto nos eventos culturais/religiosos/comerciais devidamente reconhecidos, autorizados e organizados pelo Município da Ribeira Brava onde expressamente o autorize.
+
+5 - Para além do previsto no número anterior, nas áreas delimitadas no Anexo II é permitido a ocupação pontual do espaço público para prestação de serviços de restauração ou de bebidas com caráter não sedentário desde que autorizada, pelo presidente da câmara, podendo esta competência ser delegada nos vereadores.
+
+#### SECÇÃO IV — Afixação, inscrição e difusão de mensagens publicitárias e de instalação de suportes publicitários
+
+##### SUBSECÇÃO I — Regras gerais
+
+###### Artigo 35.º — Condições gerais de afixação e inscrição de mensagens publicitárias
+
+1 - A afixação e inscrição de mensagens publicitárias não é permitida sempre que possa causar danos irreparáveis nos materiais de revestimento exterior dos edifícios e que os suportes utilizados prejudiquem o ambiente, afetem a estética e a beleza da paisagem ou a salubridade dos lugares ou causem danos a terceiros, nomeadamente quando se trate de:
+
+a) Faixas de pano, plástico, papel ou outro material semelhante;
+
+b) Pintura, colagem ou afixação de cartazes nas fachadas dos edifícios ou em qualquer outro mobiliário urbano sem suporte próprio;
+
+c) Suportes que excedam a frente do estabelecimento;
+
+d) Utilização de panfletos ou meios semelhantes projetados ou lançados por meios marítimos, terrestres ou aéreos;
+
+e) Afixação ou inscrição de mensagens publicitárias que violem o Código de Publicidade, estabelecido no [Decreto-Lei n.º 330/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1990-565417), de 23 de outubro, na sua redação atual;
+
+f) Afixação ou inscrição de mensagens publicitárias em qualquer tipo de contentorização instalada para a recolha de Resíduos Sólidos Urbanos.
+
+2 - A afixação e inscrição de mensagens publicitárias não são permitidas sempre que possa prejudicar a segurança de pessoas e bens, designadamente quando:
+
+a) Afete a iluminação pública;
+
+b) Prejudique a visibilidade de placas toponímicas, semáforos e sinais de trânsito;
+
+c) Afete a circulação de veículos e de peões, especialmente dos cidadãos com mobilidade condicionada;
+
+d) Não fique um espaço mínimo, livre de quaisquer objetos, para circulação pedonal, com, pelo menos, 1,50 m de largura;
+
+e) Seja afixada:
+
+i) Nos postes ou candeeiros de iluminação;
+
+ii) Nos semáforos e demais sinais de trânsito;
+
+iii) Nos corredores para os peões ou para suporte de sinalização;
+
+iv) A menos de 10,00 m do início ou do fim das rotundas, cruzamentos e entroncamentos, quando situados no interior dos aglomerados urbanos.
+
+3 - Na afixação e inscrição de mensagens de publicidade, devem ser utilizados, preferencialmente, materiais biodegradáveis.
+
+4 - Os meios publicitários que atravessem a via pública, nomeadamente faixas de pano, plástico, papel ou outro material semelhante, só excecionalmente poderão ser licenciados, por curtos períodos de tempo, para anunciar exposições, feiras, festas, jogos ou espetáculos e desde que não prejudiquem a circulação rodoviária.
+
+5 - A afixação ou inscrição de mensagens publicitárias não pode colocar em risco a ordem e a segurança pública, nem constituir uma ofensa à moral pública ou aos valores, princípios e instituições fundamentais constitucionalmente consagrados.
+
+###### Artigo 36.º — Condições de afixação ou inscrição de mensagens publicitárias na proximidade de património cultural
+
+Salvo se a mensagem publicitária se circunscrever ao nome do estabelecimento, à identificação da atividade exercida no imóvel ou daquele que a exerce, não é permitida a afixação ou inscrição de mensagens publicitárias em locais, edifícios ou monumentos de interesse histórico, cultural, arquitetónico ou paisagístico, designadamente:
+
+a) Os imóveis, classificados ou em vias de classificação ou abrangidos por zonas de proteção dos mesmos, nomeadamente os de interesse público, nacional ou municipal;
+
+b) Os imóveis contemplados com prémios de arquitetura;
+
+c) Imóveis onde funcionem, em exclusivo, serviços públicos;
+
+d) Templos de culto religioso e cemitérios;
+
+e) Estabelecimentos de ensino;
+
+f) Árvores e espaços verdes.
+
+###### Artigo 37.º — Condições de afixação ou inscrição de mensagens publicitárias de natureza comercial em mobiliário urbano
+
+1 - É permitida a afixação ou inscrição de mensagens publicitárias de natureza comercial em mobiliário urbano.
+
+2 - A afixação ou inscrição de mensagens publicitárias de natureza comercial em esplanadas ou toldos deve limitar-se ao nome comercial do estabelecimento, à mensagem comercial relacionada com bens ou serviços comercializados no estabelecimento ou ao logótipo da marca comercial.
+
+###### Artigo 38.º — Condições de afixação ou inscrição de mensagens publicitárias na proximidade da rede de estradas regionais
+
+1 - A afixação ou inscrição de publicidade, fora dos aglomerados urbanos, na proximidade das estradas regionais depende dependente de parecer da entidade responsável pela gestão da Rede Rodoviária Regional.
+
+2 - Não estão dependentes do parecer referido no número anterior:
+
+a) Os meios de publicidade que se destinem a identificar edifícios ou estabelecimentos, públicos ou privados, desde que tal publicidade seja afixada ou inscrita nesses mesmos edifícios ou estabelecimentos;
+
+b) Os anúncios temporários de venda ou arrendamento de imóveis, desde que neles localizados;
+
+c) Os meios de publicidade de interesse cultural e turístico.
+
+3 - Não estão, igualmente, dependentes do parecer referido no n.º 1, os objetos de publicidade colocados em construções existentes no interior de aglomerados populacionais e, bem assim, quando os mesmos se destinem a identificar instalações públicas ou particulares.
+
+4 - A afixação ou inscrição de mensagens publicitárias na proximidade da rede de estradas nacionais e regionais abrangidas pelo n.º 3 do artigo 1.º da [Lei n.º 97/88](https://diariodarepublica.pt/dr/detalhe/lei/97-1988-377083), de 17 de agosto, na sua atual redação, obedece aos seguintes critérios:
+
+a) A mensagem ou os seus suportes não poderão ocupar a zona da estrada que constitui domínio público rodoviário Regional;
+
+b) A ocupação temporária da zona da estrada para a instalação ou manutenção das mensagens ou dos seus suportes está sujeita ao prévio licenciamento da Direção Regional de Estradas;
+
+c) A mensagem ou os seus suportes não deverão interferir com as normais condições de visibilidade da estrada e/ou com os equipamentos de sinalização e segurança;
+
+d) A mensagem ou os seus suportes não deverão constituir obstáculos rígidos em locais que se encontrem na direção espectável de despiste de veículos;
+
+e) A mensagem ou os seus suportes não deverão possuir qualquer fonte de iluminação direcionada para a estrada capaz de provocar encandeamento;
+
+f) A luminosidade das mensagens publicitárias não deverá ultrapassar as quatro candelas por m2;
+
+g) Não deverão ser inscritas ou afixadas quaisquer mensagens nos equipamentos de sinalização e segurança da estrada;
+
+h) A afixação ou inscrição das mensagens publicitárias não poderá obstruir os órgãos de drenagem ou condicionar de qualquer forma o livre escoamento das águas pluviais;
+
+i) Deverá ser garantida a circulação em segurança, nomeadamente os de mobilidade condicionada, pelo que para tal, a zona de circulação pedonal livre de qualquer mensagem ou suporte publicitário não deverá ser inferior a 1,50 m.
+
+###### Artigo 39.º — Condições de afixação ou inscrição de mensagens publicitárias na proximidade da rede de estradas municipais
+
+1 - A publicidade a afixar nas imediações das vias municipais fora dos aglomerados urbanos deve obedecer ao disposto nos artigos 67.º a 70.º e 79.º do Regulamento Geral das Estradas e Caminhos Municipais, estabelecido na [Lei n.º 2110](https://diariodarepublica.pt/dr/detalhe/lei/2110-1961-172974) de 19 de agosto de 1961, na sua atual redação, designadamente quanto aos seguintes condicionamentos:
+
+a) Nas estradas municipais, a publicidade deve ser colocada a uma distância mínima de 25,00 m do limite da zona da via municipal;
+
+b) Nos caminhos municipais, a publicidade deve ser colocada a uma distância mínima de 20,00 m do limite da zona da via municipal;
+
+c) Em caso de proximidade de cruzamento ou entroncamento com outras vias de comunicação, a publicidade deve ser colocada a uma distância mínima de 50 m do limite da zona da via municipal.
+
+2 - Os condicionamentos previstos no artigo anterior não são aplicáveis aos meios de publicidade relativos a serviços de interesse público e a casos especiais de publicidade de interesse cultural ou turístico, em que se reconheça não ser afetado o interesse público da segurança rodoviária.
+
+3 - Sem prejuízo do disposto no artigo 37.º e no n.º 1 do presente artigo, apenas é permitida a afixação ou inscrição de mensagens publicitárias nas rotundas, quer dentro, quer fora dos aglomerados urbanos, desde que se destinem a identificar edifícios ou estabelecimentos, públicos ou particulares, e que a publicidade seja afixada ou inscrita nesses mesmos edifícios ou estabelecimentos.
+
+###### Artigo 40.º — Condições e restrições de difusão de mensagens publicitárias sonoras
+
+1 - É permitida a publicidade sonora, desde que respeite os limites impostos pelo Regulamento Geral do Ruído.
+
+2 - A publicidade sonora não poderá ser licenciada por períodos superiores a cinco dias úteis, exceto em casos devidamente fundamentados.
+
+3 - É permitida a difusão de mensagens publicitárias sonoras de natureza comercial que possam ser ouvidas dentro dos respetivos estabelecimentos ou na via pública, cujo objetivo imediato seja atrair ou reter a atenção do público.
+
+4 - A difusão sonora de mensagens publicitárias de natureza comercial apenas pode ocorrer:
+
+a) No período compreendido entre as 9 e as 20 horas;
+
+b) A uma distância mínima de 100,00 m de edifícios escolares, durante o seu horário de funcionamento, de hospitais, cemitérios e locais de culto.
+
+##### SUBSECÇÃO II — Instalação de suportes publicitário
+
+###### Artigo 41.º — Condições gerais de instalação de suporte publicitário
+
+1 - À instalação de suporte publicitário são aplicáveis as condições gerais de instalação de mobiliário urbano, previstas no artigo 8.º do presente regulamento, com as necessárias adaptações.
+
+2 - Em passeios com largura igual ou inferior a 1,50 m, não é permitida a instalação de suporte publicitário.
+
+3 - Na instalação de suporte publicitário, deve garantir-se um afastamento de 0,50 m em relação ao limite externo do passeio.
+
+###### Artigo 42.º — Deveres do titular do suporte publicitário
+
+Constituem deveres do titular do suporte publicitário:
+
+a) Cumprir as condições gerais e específicas a que a afixação e a inscrição de mensagens publicitárias estão sujeitas;
+
+b) Conservar o suporte, bem como a mensagem, em boas condições de conservação e segurança;
+
+c) Eliminar quaisquer danos em bens públicos resultantes da afixação ou inscrição da mensagem publicitária.
+
+###### Artigo 43.º — Condições e restrições de aplicação de chapas, placas e tabuletas
+
+1 - Em cada edifício, as chapas, placas ou tabuletas devem apresentar dimensão, cores, materiais e alinhamentos adequados à estética do edifício.
+
+2 - A instalação das placas deve fazer-se a uma distância do solo igual ou superior ao nível do piso do 1.º andar dos edifícios.
+
+3 - A instalação de uma placa deve respeitar as seguintes condições:
+
+a) Não se sobrepor a gradeamentos ou zonas vazadas em varandas;
+
+b) Não ocultar elementos decorativos ou outros com interesse na composição arquitetónica das fachadas.
+
+4 - As chapas só podem ser instaladas ao nível do rés-do-chão dos edifícios.
+
+5 - Não é permitida a instalação de mais de uma chapa por cada fração autónoma ou fogo.
+
+6 - A instalação de uma tabuleta deve respeitar as seguintes condições:
+
+a) O limite inferior da tabuleta deve ficar a uma distância do solo igual ou superior a 2,20 m;
+
+b) Não exceder o balanço de 0,60 m em relação ao plano marginal do edifício, exceto no caso de ruas sem passeios, em que o balanço não excede 0,20 m;
+
+c) Deixar uma distância igual ou superior a 3.00 m entre tabuletas.
+
+###### Artigo 44.º — Condições de instalação de bandeirolas
+
+1 - As bandeirolas devem permanecer oscilantes, só podendo ser colocadas em posição perpendicular à via mais próxima e afixadas do lado interior do poste.
+
+2 - A dimensão máxima das bandeirolas deve ser de 0,60 m de comprimento e 1 m de altura.
+
+3 - A distância entre a fachada do edifício mais próximo e a parte mais saliente da bandeirola deve ser igual ou superior a 2,00 m.
+
+4 - A distância entre a parte inferior da bandeirola e o solo deve ser igual ou superior a 3 m.
+
+5 - A distância entre bandeirolas afixadas ao longo das vias deve ser igual ou superior a 50 m.
+
+###### Artigo 45.º — Condições de aplicação de letras soltas ou símbolos
+
+A aplicação de letras soltas ou símbolos deve respeitar as seguintes condições:
+
+a) Não exceder 0,50 m de altura e 0,15 m de saliência;
+
+b) Não ocultar elementos decorativos ou outros com interesse na composição arquitetónica das fachadas, sendo aplicados diretamente sobre o paramento das paredes;
+
+c) Ter em atenção a forma e a escala, de modo a respeitar a integridade estética dos próprios edifícios.
+
+###### Artigo 46.º — Condições de instalação de palas
+
+1 - As palas não podem exceder o limite lateral dos estabelecimentos, nem um balanço de 0,80 m em relação à fachada.
+
+2 - A instalação deve fazer-se a uma distância do solo igual ou superior a 2,20 m e nunca acima do nível do teto do estabelecimento a que pertençam.
+
+3 - A instalação de uma pala deve respeitar as seguintes condições:
+
+a) Em passeio de largura superior a 2,00 m, deixar livre um espaço igual ou superior a 0,80 m em relação ao limite externo do passeio;
+
+b) Em passeio de largura inferior a 2,00 m, deixar livre um espaço igual ou superior a 0,60 m em relação ao limite externo do passeio.
+
+###### Artigo 47.º — Condições de instalação de painéis
+
+1 - A estrutura de suporte dos painéis deve ser metálica e na cor que melhor se integre na envolvente.
+
+2 - A estrutura não pode, em caso algum, permanecer no local sem mensagem.
+
+3 - Na estrutura deve ser afixado, em local legível e visível, o número do processo de licenciamento e a data de emissão da licença.
+
+4 - Os painéis deverão estar sempre nivelados, exceto quando o tapume, vedação ou elemento congénere, se localize em arruamento inclinado, caso em que se admite a sua disposição em socalcos, acompanhando de forma harmoniosa a pendente do terreno.
+
+5 - Os painéis de publicidade exterior só podem ter as seguintes dimensões:
+
+a) 2,40 m de largura por 1,70 m de altura;
+
+b) 4,00 m de largura por 3,00 m de altura;
+
+c) 8,00 m de largura por 3.00 m de altura.
+
+6 - No interior dos aglomerados urbanos, poderá ser restringida a colocação de painéis de grandes dimensões, por motivos devidamente fundamentados.
+
+7 - Nas situações previstas no número anterior, privilegiar-se-á a aplicação de telas ou lonas nas empenas cegas dos edifícios existentes.
+
+8 - Poderão ser licenciados, a título excecional, painéis com outras dimensões desde que não seja posto em causa o ambiente e a estética dos locais pretendidos.
+
+###### Artigo 48.º — Condições de instalação de painéis em tapumes, vedações ou elementos congéneres
+
+1 - Só é autorizada a instalação de painéis em tapumes, vedações ou elementos congéneres enquanto no local decorrerem obras.
+
+2 - O número máximo de painéis a instalar em tapumes, vedações ou elementos congéneres será definido caso a caso.
+
+3 - Na instalação dos painéis, a estrutura de fixação ao solo terá de ficar colocada no interior do tapume, vedação ou elemento congénere.
+
+###### Artigo 49.º — Condições de instalação de anúncios luminosos, iluminados, eletrónicos e semelhantes
+
+1 - À instalação de anúncios luminosos, iluminados, eletrónicos e semelhantes fixos ao solo aplica-se, com as necessárias adaptações, o disposto no artigo 46.º com exceção do disposto no n.º 5 do mesmo artigo.
+
+2 - Os anúncios luminosos, iluminados, eletrónicos e semelhantes fixos ao solo estão, ainda, sujeitos ao cumprimento dos seguintes requisitos:
+
+a) A distância entre o solo e a parte inferior do anúncio não pode ser inferior a 2,50 m;
+
+b) O dispositivo de iluminação dos anúncios publicitários não poderá perturbar a tranquilidade e segurança de pessoas e bens, nem colocar em causa a circulação pedonal e rodoviária.
+
+3 - As estruturas dos anúncios luminosos, iluminados, sistemas eletrónicos ou semelhantes instalados em espaço público devem ficar, tanto quanto possível, encobertas e ser pintadas com a cor que lhes dê o menor destaque.
+
+###### Artigo 50.º — Condições de instalação de MUPI
+
+1 - A área máxima de superfície publicitária permitida é de 1,75 m por 1,20 m.
+
+2 - Excetuam-se do disposto no número anterior os casos em que, contratualmente, tenham sido cedidas à empresa concessionária as duas faces do equipamento, em que a superfície máxima publicitária será 2 vezes 1,75 m por 1,20 m.
+
+###### Artigo 51.º — Condições de instalação de Totem
+
+1 - Os Totem devem ser instalados em espaços amplos.
+
+2 - A altura do Totem não deve exceder os 6 m e a sua largura 1,20 m.
+
+###### Artigo 52.º — Condições de instalação de mastros-bandeira
+
+Na instalação de mastros-bandeira, devem observar-se as seguintes condições:
+
+a) Devem ser instalados preferencialmente em placas separadoras de sentidos de tráfego;
+
+b) A distância entre o solo e a parte inferior da bandeira não pode ser inferior a 2,50 m.
+
+###### Artigo 53.º — Colunas publicitárias
+
+1 - As colunas publicitárias devem ser instaladas em espaços amplos, preferencialmente em praças, largos e passeios de largura igual superior a 6,00 m.
+
+###### Artigo 54.º — Condições de instalação de placas de sinalização direcional comercial
+
+1 - À ocupação do espaço público com placas de sinalização direcional comercial aplica-se o disposto no [Decreto Regulamentar n.º 22-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), de 1 de outubro, na sua redação atual.
+
+2 - O requerente da ocupação do espaço público com placas de sinalização direcional comercial deverá fazer prova do licenciamento da atividade, cuja direção pretende sinalizar.
+
+3 - Na instalação de placas de sinalização direcional comercial devem observar-se as seguintes condições:
+
+a) O modelo das placas de sinalização comercial será o adotado pela Câmara para todo o concelho;
+
+b) A sinalização comercial será colocada pela Câmara Municipal ou através de uma empresa com quem possa efetuar contratos de concessão;
+
+c) As dimensões, características e critérios de colocação das placas de sinalização comercial serão as constantes no [Decreto Regulamentar n.º 22-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), de 1 de outubro, na sua redação atual e demais normas aplicáveis sobre a matéria;
+
+d) As placas direcionais têm que ser colocadas em prumos de secção circular, devendo ser instaladas em passeios, ficando sempre garantida uma largura livre de 1,50 metros, devendo a distância entre a extremidade do sinal e a faixa não ser inferior a 0,50 metros;
+
+e) A distância entre a parte inferior da moldura das caixas, que compõem a placa, e o solo não poderá ser inferior a 2,20 metros;
+
+f) As placas de sinalização comercial têm que ser colocadas em prumo de sinalização próprio, ou seja, não podem estar conjuntamente com as placas direcionais de localidade ou de interesse público;
+
+g) As caixas devem ser implantadas em placas metálicos oferecendo a solidez e resistência suficientes e necessárias a não pôr em risco a segurança dos utentes da via pública;
+
+h) As caixas devem ser orientadas preferencialmente para o lado interior do passeio ou da berma;
+
+i) As setas devem ser posicionadas no lado esquerdo da caixa, na proximidade da faixa de rodagem, no sentido do trânsito, quando as setas indiquem direções em frente, devem situar-se à direita, exceto se houver indicações para a direita e não houver para a esquerda, caso em que devem ser colocadas no lado esquerdo, devendo os símbolos ou logótipos ser colocados junto à seta de direção;
+
+j) A ordem de colocação das placas de sinalização, de cima para baixo, deve ser, primeiro em frente, segundo à esquerda e terceiro à direita;
+
+k) Não podem ser colocadas mais do que 6 placas direcionais por prumo;
+
+l) As placas não poderão ter uma distância entre si inferior a 20,00 metros;
+
+m) A distância entre as caixas e a fachada do edifício mais próximo não deverá ser inferior a 2,00 metros;
+
+n) Aquando da instalação de uma placa, o pavimento e outras infraestruturas presentes deverão ser imediatamente repostos;
+
+o) As placas de sinalização direcional comercial devem observar os seguintes critérios na sua colocação:
+
+i) Ser colocadas de modo a não afetar a segurança das pessoas e das coisas, nomeadamente na circulação pedonal ou rodoviária;
+
+ii) Não prejudicar ou dificultar a circulação ou acesso de veículos de socorro e emergência;
+
+iii) Não prejudicar a visibilidade em curvas ou ainda perturbar a atenção do condutor prejudicando a segurança da condução;
+
+iv) Não devem ser colocados sobre ou na proximidade de sinais do trânsito e placas de sinalização direcionais de localidades ou de interesse público ou prejudicar a sua visibilidade ou reconhecimento;
+
+v) Devem ser colocadas de modo a não prejudicar ou dificultar os acessos e vistas dos edifícios vizinhos;
+
+vi) Devem ser colocadas fora do alcance de varandas e/ou janelas
+
+vii) Não devem prejudicar a circulação pedonal, designadamente, de cidadãos com mobilidade condicionada;
+
+viii) Não devem prejudicar a beleza ou enquadramento de monumentos nacionais, de edifícios de interesse público ou outros passíveis de classificação pelas entidades públicas;
+
+ix) Devem ser colocadas de modo a não provocar obstrução de perspetivas panorâmicas ou afetar a estética ou ambiente dos lugares ou da paisagem;
+
+x) Não devem prejudicar a visibilidade de caixas toponímicas e números de polícia;
+
+xi) Devem ser colocadas de modo a não afetar a iluminação pública;
+
+xii) Não devem causar prejuízos a terceiros;
+
+p) Não é, ainda, permitida a sua instalação:
+
+i) A menos de 10,00 metros de uma passagem para peões;
+
+ii) A menos de 10,00 metros de rotundas e cruzamentos no interior de aglomerados urbanos, sendo a medição do afastamento efetuada a partir do inicio ou final da curvatura da linha de concordância;
+
+iii) Em locais que possa contribuir para a degradação da qualidade, conservação, salubridade e manutenção do ambiente urbano;
+
+iv) Em locais que condicionem o acesso às infraestruturas existentes por parte das entidades gestoras para efeitos de manutenção e conservação;
+
+v) Em locais sujeitos a parecer vinculativo de entidades externas ao Município, sem que a instalação dos suportes publicitários ou mobiliário urbano seja previamente aprovada pela entidade respetiva.
+
+###### Artigo 55.º — Critérios de licenciamento da instalação de placas de sinalização direcional comercial
+
+No licenciamento da ocupação do espaço público com placas de sinalização direcional comercial serão ponderados os seguintes aspetos:
+
+a) A localização da empresa ou da atividade a sinalizar;
+
+b) O local onde o requerente pretende a colocação das placas de sinalização direcional;
+
+c) A coerência da sinalética proposta com a característica das vias de circulação;
+
+d) A existência de sinalização direcional no local onde o requerente pretende a colocação das placas de sinalização comercial.
+
+###### Artigo 56.º — Cabinas telefónicas
+
+É permitida a afixação ou inscrição de publicidade em cabinas telefónicas, desde que não prejudique ou obstrua a visibilidade de e para o interior, devendo manterse no mínimo 75 % da sua transparência.
+
+##### SUBSECÇÃO III — Afixação ou inscrição de mensagens publicitárias em edifícios
+
+###### Artigo 57.º — Condições gerais de afixação ou inscrição de mensagens publicitárias em edifícios
+
+1 - A instalação de publicidade em edifícios só poderá ocorrer quando se integrar harmoniosamente na arquitetura do imóvel e constituir um elemento valorizador do edifício e da paisagem envolvente, considerando-se como aspetos essenciais a ter em atenção, para este efeito, a composição, a escala, a forma e as cores da mensagem.
+
+2 - Os suportes publicitários de publicidade em edifícios não devem ser colocados acima do piso térreo, exceto quando a própria natureza do suporte o justifique ou em casos devidamente fundamentados.
+
+3 - Os suportes publicitários de publicidade em edifícios não podem exceder o balanço total de 0,80 m, perpendicular à fachada do edifício e devem respeitar as seguintes condições:
+
+a) Em passeio de largura superior a 2,00 m, deixar livre um espaço igual ou superior a 0,80 m em relação ao limite externo do passeio;
+
+b) Em passeio de largura inferior a 2,00 m, deixar livre um espaço igual ou superior a 0,60 m em relação ao limite externo do passeio.
+
+4 - A espessura dos anúncios não deve exceder 0,20 m, quando emitam luz própria ou 0,05 m, quando não emitam luz própria.
+
+5 - A distância entre o bordo exterior do elemento e o limite do passeio não poderá prejudicar a circulação de peões, o tráfego automóvel, nem a existência ou previsão de instalação de equipamento urbano.
+
+6 - O limite inferior dos anúncios de dupla face ou dos anúncios que possuam saliência superior a 0,10 m não poderá distar menos de 2,20 m do solo.
+
+7 - As chapas de proibição de afixação de publicidade são colocadas, preferencialmente, nos cunhais dos prédios, mas nunca próximo das que designam os arruamentos, não podendo as dimensões exceder 0,35 m por 0,40 m.
+
+8 - Os suportes publicitários não devem colocar em risco a estrutura do edifício onde estão fixados.
+
+9 - Os suportes publicitários não devem esconder elementos arquitetónicos, de valor apreciável, inseridos nos edifícios que globalmente afetem, negativamente, a sua qualidade e valor artístico.
+
+###### Artigo 58.º — Publicidade instalada em telhados, coberturas ou terraços
+
+1 - A instalação de publicidade em telhados, coberturas ou terraços só será permitida quando observadas as seguintes condições:
+
+a) Não obstrua o campo visual envolvente, tanto no que se refere a elementos naturais, como construídos;
+
+b) As estruturas de suporte dos dispositivos publicitários a instalar não assumam uma presença visual destacada e esteja assegurada a sua sinalização, para efeitos de segurança;
+
+c) Só é permitida a instalação de anúncios, estáticos ou rotativos, ou de dispositivos eletrónicos em telhados, coberturas ou terraços de edifícios, quando não prejudique a segurança.
+
+2 - A altura máxima dos dispositivos publicitários a instalar em telhados, coberturas ou terraços dos edifícios deve obedecer aos seguintes limites:
+
+a) Não deve exceder um quarto da altura maior da fachada do edifício;
+
+b) Não deve, em qualquer caso, ter uma altura superior a 5,00 m;
+
+c) Em relação ao solo a altura máxima não deve ultrapassar a largura do respetivo arruamento.
+
+###### Artigo 59.º — Publicidade instalada em fachadas e empenas
+
+A instalação de suportes publicitários em fachadas ou empenas só poderá ocorrer quando, cumulativamente, forem observadas as seguintes condições:
+
+a) As mensagens publicitárias e os suportes respetivos não excederem os limites físicos das empenas que lhes servem de suporte;
+
+b) O motivo publicitário a instalar seja constituído por um único dispositivo, não sendo admitida mais do que uma licença por fachada ou empena.
+
+###### Artigo 60.º — Condições de instalação de anúncios luminosos, iluminados, eletrónicos e semelhantes em edifícios
+
+1 - Os anúncios luminosos, iluminados, eletrónicos e semelhantes devem ser colocados sobre as saliências das fachadas e respeitar as seguintes condições:
+
+a) O balanço total não pode exceder 0,80 m;
+
+b) A distância entre o solo e a parte inferior do anúncio não pode ser menor do que 2,20 m nem superior a 4,00 m;
+
+c) Caso o balanço não exceda 0,15 m, a distância entre a parte inferior do anúncio e o solo não pode ser menor do que 2,00 m nem superior a 4,00 m.
+
+2 - O dispositivo de iluminação dos anúncios publicitários não poderá perturbar a tranquilidade e segurança de pessoas e bens, nem colocar em causa a circulação pedonal e rodoviária.
+
+3 - As estruturas dos anúncios luminosos, iluminados, sistemas eletrónicos ou semelhantes instalados nas fachadas de edifícios devem ficar, tanto quanto possível, encobertas e ser pintadas com a cor que melhor se integre na envolvente.
+
+##### SUBSECÇÃO IV — Afixação ou inscrição de mensagens publicitárias em veículos e unidades móveis publicitárias
+
+###### Artigo 61.º — Licenciamento de publicidade em veículos
+
+1 - A afixação ou inscrição de mensagens publicitárias em veículos automóveis, transportes públicos, táxis e outros meios de locomoção que circulem na área do município, carece de licenciamento prévio da Câmara Municipal nos termos deste regulamento e da demais legislação aplicável sempre que o proprietário ou locatário do veículo ali tenha residência ou sede.
+
+2 - A atividade publicitária em veículos ou unidades móveis publicitárias está sujeita a licenciamento, nos termos do presente regulamento.
+
+3 - A publicidade inscrita nos meios de locomoção previstos no presente artigo não poderá constituir perigo para a segurança de pessoas e bens, devendo limitar-se ao mínimo essencial, de forma a não desviar a atenção dos outros condutores.
+
+###### Artigo 62.º — Transportes públicos
+
+Nos transportes públicos, a inscrição ou afixação de mensagens publicitárias não pode, por questões de segurança, sobrepor-se ou cobrir as superfícies transparentes dos veículos, nomeadamente, portas e janelas, com exceção do vidro da retaguarda.
+
+###### Artigo 63.º — Estacionamento
+
+1 - As unidades móveis publicitárias não podem permanecer estacionadas no mesmo local público por período superior a oito horas.
+
+2 - A unidade móvel publicitária que seja também emissora de som não pode estacionar dentro dos aglomerados urbanos, salvo se tiver o equipamento de som desligado.
+
+##### SUBSECÇÃO V — Afixação ou inscrição de mensagens publicitárias em transportes aéreos e dispositivos publicitários aéreos cativos
+
+###### Artigo 64.º — Princípio regulador
+
+Não é permitida a inscrição, afixação ou transporte de dispositivos publicitários afetos a meios ou suportes aéreos que invadam zonas sujeitas a servidões militares ou aeronáuticas, exceto se for apresentado pedido de licenciamento acompanhado de autorização prévia e expressa da entidade com jurisdição sobre esses espaços.
+
+###### Artigo 65.º — Meios de apoio
+
+1 - Serão observados os princípios e as condições gerais de ocupação do espaço público, relativamente aos meios de apoio, aos dispositivos publicitários aéreos cativos instalados no solo.
+
+2 - Os meios aqui referidos apenas poderão ser utilizados como integrantes de campanhas publicitárias e com as respetivas restrições, de acordo com o presente regulamento.
+
+##### SUBSECÇÃO VI — Campanhas publicitárias de rua
+
+###### Artigo 66.º — Princípios reguladores
+
+1 - As diferentes formas de campanhas publicitárias de rua não poderão ocasionar conflitos com outras funções urbanas que interesse salvaguardar, nomeadamente no que se refere às condições de circulação pedonal e automóvel e ao estado de salubridade dos espaços públicos.
+
+2 - É obrigatória a remoção de todos os panfletos, invólucros de produtos, ou outros resíduos resultantes de qualquer campanha publicitária de rua, abandonados no espaço público, num raio de 100,00 m em redor dos locais de distribuição, pelo que, no final de cada dia e de cada campanha não poderão existir quaisquer vestígios da ação publicitária ali desenvolvida.
+
+3 - As campanhas publicitárias de rua só poderão ser autorizadas por um período máximo de três dias, exceto em casos devidamente fundamentados.
+
+#### SECÇÃO V — Critérios adicionais
+
+###### Artigo 67.º — Critérios adicionais definidos por outras entidades
+
+1 - Sempre que exista interesse relevante, podem ser definidos critérios adicionais por outras entidades com jurisdição sobre a área do espaço público a ocupar e sobre os locais onde a publicidade é afixada ou inscrita.
+
+2 - Os critérios adicionais referidos no número anterior são disponibilizados para consulta no "Balcão do empreendedor", os quais se dão por integralmente reproduzidos para o presente regulamento, para todos os efeitos legais.
+
+### CAPÍTULO III — Controlo Prévio
+
+###### Artigo 68.º — Pedido de Informação de Viabilidade
+
+O procedimento de informação inicia-se através da apresentação de requerimento dirigido ao Presidente da Câmara Municipal onde deverá constar informação sobre o local, a previsão temporal, o espaço pretendido ocupar e todos os elementos sobre os quais pretende que a informação prévia a emitir se pronuncie, devendo o mesmo ser instruído, sem prejuízo de demais elementos que pretenda juntar, com:
+
+a) Memória descritiva da publicidade bem como do respetivo suporte ou ocupação pretendida;
+
+b) Planta de localização e enquadramento à escala da planta de ordenamento do plano diretor municipal, assinalando devidamente os limites da área objeto da operação, com o local assinalado a vermelho;
+
+c) Fotografia a cores, indicando o local previsto para a instalação.
+
+#### SECÇÃO I — Procedimento
+
+###### Artigo 69.º — Requerimento
+
+1 - O procedimento de licenciamento previsto no n.º 1 do artigo 5.º e no n.º 1 do artigo 6.º do presente regulamento inicia-se através da apresentação de requerimento dirigido ao Presidente da Câmara Municipal, contendo, designadamente, os seguintes elementos:
+
+a) A identificação do requerente, com menção do nome ou firma, da morada ou sede e do número de identificação fiscal;
+
+b) O endereço do local para o qual é solicitado o licenciamento;
+
+c) A legitimidade do requerente;
+
+d) A indicação do fim e do período de tempo pretendidos;
+
+e) A indicação das características e da localização do mobiliário urbano ou suporte publicitário a colocar;
+
+f) A declaração do requerente de que respeita integralmente as obrigações legais e regulamentares aplicáveis;
+
+g) O código de acesso à certidão permanente do registo comercial, caso se trate de pessoa coletiva sujeita a registo comercial;
+
+h) O consentimento de consulta da declaração de início ou de alteração de atividade, caso se trate de pessoa coletiva;
+
+i) Identificação do alvará de licença de utilização, quando aplicável.
+
+2 - O requerimento referido no número anterior deverá ser instruído, designadamente, com os seguintes elementos:
+
+a) Documento comprovativo da legitimidade do requerente;
+
+b) Memória descritiva com indicação dos materiais, forma e cores;
+
+c) Ortofotomapa assinalando o local previsto para a instalação à escala adequada;
+
+d) Planta de implantação à escala 1:200 ou 1:500 devidamente cotada, com a representação gráfica das construções, arruamentos, passeios e mobiliário urbano e indicação dos afastamentos ao local previsto para a instalação;
+
+e) Planta, cortes e alçados, à escala 1:50, que pormenorizem a ocupação do espaço público e ou a instalação do suporte publicitário, incluindo a indicação do meio de suporte e sua fixação ao solo ou parede, com a indicação da forma, cor, dimensão, balanço de afixação e distância ao extremo do passeio e perfil transversal do mesmo, quando aplicável;
+
+f) Fotografia a cores, indicando o local previsto para a instalação;
+
+g) Caso a instalação incida sobre edificações contíguas a outras ou em banda deverá ser apresentado um alçado do conjunto das edificações, numa extensão mínima de 10.00 m para cada um dos lados do local da instalação, ou uma fotomontagem a cores que abranja todo o conjunto.
+
+3 - Quando se trate do licenciamento de publicidade em unidades móveis e o suporte publicitário utilizado exceda as dimensões do veículo, ou seja, tratando-se de um atrelado, deverá ser junto ao requerimento uma autorização emitida pela entidade competente.
+
+4 - Os elementos que as meras comunicações prévias e os pedidos de autorização referidos no artigo 5.º do presente regulamento devem conter encontram-se estabelecidos no artigo 12.º do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril e em Portaria dos membros do governo responsável pelas áreas da modernização administrativas, das autarquias locais e da economia.
+
+###### Artigo 70.º — Saneamento e apreciação liminar
+
+1 - Compete ao Presidente da Câmara Municipal, por sua iniciativa ou por indicação dos serviços, decidir as questões de ordem formal e processual que possam obstar ao conhecimento do pedido de licenciamento.
+
+2 - O Presidente da Câmara Municipal profere despacho de aperfeiçoamento do pedido, no prazo de oito dias a contar da respetiva apresentação, sempre que o requerimento não contenha a identificação do requerente, do pedido ou da localização do objeto do licenciamento, bem como no caso de faltar documento instrutório exigível que seja indispensável ao conhecimento da pretensão e cuja falta não possa ser oficiosamente suprida.
+
+3 - Na hipótese prevista no número anterior, o requerente é notificado para, no prazo de 15 dias, corrigir ou completar o pedido, ficando suspensos os termos ulteriores do procedimento, sob pena de rejeição liminar.
+
+4 - No prazo de 10 dias a contar da apresentação do requerimento, o Presidente da Câmara Municipal pode igualmente proferir despacho de rejeição liminar, oficiosamente ou por indicação dos serviços, quando da análise dos elementos instrutórios resultar que o pedido é manifestamente contrário às normas legais ou regulamentares aplicáveis.
+
+5 - Não ocorrendo rejeição liminar ou convite para corrigir ou completar o pedido, no prazo previsto nos números 2 a 4, presume-se que o requerimento se encontra corretamente instruído.
+
+6 - Sem prejuízo do disposto nos números anteriores, os serviços devem dar a conhecer ao Presidente da Câmara Municipal, até à decisão final, qualquer questão que prejudique o desenvolvimento normal do procedimento ou impeça a tomada de decisão sobre o objeto do pedido, nomeadamente a ilegitimidade do requerente.
+
+7 - Se a decisão final depender da decisão de uma questão que seja da competência de outro órgão administrativo ou dos tribunais, deve o presidente da câmara municipal suspender o procedimento até que o órgão ou o tribunal competente se pronunciem, notificando o requerente desse ato, sem prejuízo do disposto no Código do Procedimento Administrativo.
+
+8 - Sem prejuízo do disposto no número anterior, o interessado pode requerer a continuação do procedimento em alternativa à suspensão, ficando a decisão final condicionada, na sua execução, à decisão que vier a ser proferida pelo órgão administrativo ou tribunal competente.
+
+9 - Havendo rejeição do pedido, nos termos do presente artigo, o interessado que apresente novo pedido para o mesmo fim está dispensado de juntar os documentos utilizados anteriormente que se mantenham válidos e adequados.
+
+10 - Após a admissão liminar do requerimento podem, ainda, ser solicitados ao requerente, elementos complementares necessários ao conhecimento do pedido, sempre que se verifiquem dúvidas suscetíveis de comprometer a sua apreciação;
+
+11 - O requerimento será indeferido se não forem indicados ou entregues os elementos ou esclarecimentos complementares solicitados no prazo máximo de 15 dias contados da data da notificação que solicite a sua apresentação, prazo este que poderá ser prorrogado até 30 dias a pedido do requerente.
+
+12 - O Presidente da Câmara Municipal pode delegar nos vereadores, com faculdade de subdelegação, ou nos dirigentes dos serviços municipais, as competências referidas no presente artigo.
+
+###### Artigo 71.º — Consulta a entidades externas
+
+1 - A decisão sobre o pedido de licenciamento é precedida de parecer vinculativo das entidades com jurisdição sobre os locais da pretensão, nomeadamente:
+
+a) A Direção Regional de Estradas;
+
+b) A Direção Regional de Economia e Transportes.
+
+2 - O parecer referido no número anterior deve ser solicitado nos 20 dias seguintes à entrada do requerimento ou nos 10 dias seguintes à junção dos elementos complementares referidos no n.º 10 do artigo 70.º do presente regulamento.
+
+3 - Sem prejuízo do disposto nos números anteriores, pode ser solicitado, sempre que se julgue necessário para a tomada de decisão, parecer a outras entidades, designadamente às Juntas de Freguesia, tendo em conta a prossecução dos objetivos e os princípios gerais estabelecidos no presente regulamento.
+
+4 - Considera-se haver concordância das entidades consultadas com a pretensão formulada, se os respetivos pareceres não forem emitidos no prazo de 20 dias contados da data em que foram solicitados.
+
+###### Artigo 72.º — Decisão sobre o pedido de licenciamento
+
+1 - A decisão sobre o pedido de licenciamento deve ser proferida no prazo de 90 dias contados a partir:
+
+a) Da data da ressecção do requerimento ou dos elementos solicitados nos termos do n.º 3 ou do n.º 10 do artigo 70.º do presente regulamento;
+
+b) Da data da ressecção do último dos pareceres emitidos pelas entidades exteriores ao município, quando tenha havido lugar a consultas; ou
+
+c) Do termo do prazo para a ressecção dos pareceres, sempre que alguma das entidades consultadas não se pronuncie até essa data.
+
+2 - O pedido de licenciamento ou de renovação da licença é indeferido quando:
+
+a) Não respeitar as normas legais e regulamentares aplicáveis;
+
+b) Não obedecer aos limites legalmente estabelecidos no âmbito do Regulamento Geral do Ruído, quando se trate de publicidade sonora;
+
+c) Tenha sido aplicada ao requerente, em processo de contraordenação, a pena acessória de interdição de toda e qualquer atividade publicitária;
+
+d) Quando o pedido de licenciamento se reporte à inscrição, afixação ou transporte de dispositivos publicitários afetos a meios ou suportes aéreos que invadam zonas sujeitas a servidões militares ou aeronáuticas e não se encontre instruído com a autorização prévia e expressa da entidade com jurisdição sobre aquelas zonas;
+
+e) Quando seja suscetível de afetar negativamente o património arqueológico, histórico, cultural ou paisagístico natural ou edificado;
+
+f) Quando esteja em causa o interesse público devidamente fundamentado.
+
+###### Artigo 73.º — Audiência prévia dos interessados
+
+1 - Concluída a instrução e salvo o disposto no Código do Procedimento Administrativo, os interessados têm o direito de ser ouvidos no procedimento antes de ser tomada a decisão final de indeferimento, devendo ser informados, nomeadamente, sobre a respetiva fundamentação.
+
+2 - A audiência dos interessados, prevista no número anterior, é efetuada por escrito, sendo os interessados notificados para se pronunciarem sobre o sentido da decisão, no prazo de 10 dias úteis.
+
+###### Artigo 74.º — Notificação da decisão final
+
+1 - Os interessados serão notificados, por escrito, da decisão final.
+
+2 - Nos casos em que tenha sido proferida decisão favorável, deverá constar na notificação o seguinte:
+
+a) Referência ao objeto do licenciamento com identificação do local e área aprovados, bem como a descrição dos elementos que serão utilizados e o período de tempo licenciado;
+
+b) O prazo concedido para proceder ao levantamento do título da licença e pagamento das taxas previstas no Regulamento e Tabela de Taxas em vigor e o prazo determinado para proceder à instalação pretendida;
+
+c) Que o titular da licença está obrigado a possuir contrato de seguro de responsabilidade civil, quando exigido e a exibi-lo aquando do levantamento da licença.
+
+#### SECÇÃO II — Validade e eficácia da licença
+
+###### Artigo 75.º
+
+## Título da licença
+
+1 - Após a obtenção do deferimento do pedido de licenciamento é emitida um Alvará de Licença conforme Anexo I, a qual constitui o título jurídico que legitima o seu titular a exercer os direitos nela referidos.
+
+2 - A licença deverá conter, nos termos do ato de deferimento do pedido de licenciamento, os seguintes elementos:
+
+a) A identificação do titular da licença, pelo nome, firma ou denominação social, número de identificação fiscal, domicílio ou sede;
+
+b) O endereço do local objeto do licenciamento;
+
+c) O ramo de atividade exercido, se aplicável;
+
+d) O número de ordem atribuído à licença;
+
+e) O objeto do licenciamento, o local, a área e o período licenciados;
+
+f) A indicação das condições a cujo cumprimento o seu titular fica obrigado, sob pena de revogação da mesma e sem prejuízo da aplicação das demais disposições previstas neste regulamento e noutros instrumentos legais e normativos vigentes.
+
+g) O valor da taxa ou menção da isenção da taxa.
+
+3 - A entrega da licença depende do pagamento das taxas respetivas e da apresentação de fotocópia do contrato de seguro de responsabilidade civil, quando exigido.
+
+###### Artigo 76.º — Natureza
+
+1 - As licenças previstas no presente regulamento têm caráter precário, ainda que resultem de atribuição em regime de concessão.
+
+2 - Pode proceder-se à revogação ou suspensão da licença, suspendendo-se os seus efeitos pelo tempo necessário, quando tal se justifique por razões de interesse público, designadamente pela realização de evento organizado ou considerado relevante que careça do espaço objeto do licenciamento.
+
+###### Artigo 77.º — Renovação
+
+1 - As licenças são concedidas pelo período máximo de 1 ano, podendo ser renovadas por igual período.
+
+2 - A renovação da licença deve ser requerida no mínimo, 30 dias antes do término do prazo da licença, através da apresentação de requerimento dirigido ao Presidente da Câmara Municipal, cujo modelo é disponibilizado na página eletrónica da Câmara Municipal.
+
+3 - O requerimento deve ser acompanho do original da licença conferida inicialmente, bem como de uma fotografia atualizada do mobiliário urbano ou suporte licenciado, para aferir a sua adequação ao inicialmente licenciado.
+
+4 - O titular da exploração do estabelecimento que tenha efetuado mera comunicação prévia ou tenha um pedido de autorização deferido, é obrigado a manter atualizados todos os dados comunicados através do "Balcão do empreendedor", devendo proceder a essa atualização no prazo máximo de 60 dias após a ocorrência de qualquer modificação.
+
+###### Artigo 78.º — Revogação
+
+1 - Sempre que estejam em causa imperativos de reordenamento do espaço público ou outros interesses públicos, tais como a aprovação de planos municipais de ordenamento do território, realização de obras ou outros, pode ser revogada a licença e ordenada, pelo Presidente da Câmara, a consequente remoção de equipamentos urbanos, mobiliário urbano e suportes publicitários.
+
+2 - Quando possível, os casos previstos no número anterior podem dar lugar à alteração dos termos e condições da licença, nomeadamente quando à localização e dimensões da instalação.
+
+3 - A revogação e alteração da licença nos termos previstos nos números anteriores não dão lugar a qualquer indemnização.
+
+###### Artigo 79.º — Caducidade
+
+1 - A licença caduca, designadamente, nos seguintes casos:
+
+a) Quando o titular não cumpra os prazos estipulados para proceder ao pagamento das taxas devidas à Câmara Municipal;
+
+b) Quando o titular não proceda ao levantamento da licença no prazo de 30 dias a contar da notificação do deferimento do pedido;
+
+c) Quando o titular não exerça o direito titulado pela licença no prazo de 30 dias a contar do levantamento da licença;
+
+d) Quando o titular cesse o exercício do direito titulado pela licença;
+
+e) Quando o titular cessar o exercício da atividade ou encerrar o estabelecimento no âmbito do qual foi atribuída a licença;
+
+f) Quando o titular não solicite a renovação da licença com a antecedência mínima de 30 dias do seu termo;
+
+g) Nas situações previstas no n.º 1 do artigo 7.º do presente regulamento, quando o titular do alvará de licença de obras não proceda ao levantamento do mesmo no prazo concedido para o efeito ou não ocorra a execução da obra no prazo estipulado, sem prejuízo de eventuais prorrogações atribuídas;
+
+h) Por dissolução da pessoa coletiva titular da licença;
+
+2 - A licença caducará, igualmente, quando ocorra qualquer alteração ao objeto do licenciamento.
+
+3 - O interessado a que se refere o n.º 2 do artigo 5.º do presente regulamento deve usar o "Balcão do empreendedor" para comunicar a cessação da ocupação do espaço público para os fins anteriormente declarados, dispensando -se esta comunicação no caso da cessação da ocupação resultar do encerramento do estabelecimento, bastando, para esse efeito, a declaração de encerramento do estabelecimento, conforme estabelecido no Regulamento Jurídico de Acesso e Exercício de Atividades de Comércio, Serviços e Restauração aprovado em anexo ao [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro.
+
+###### Artigo 80.º — Cassação da licença
+
+A licença é caçada quando ocorra a sua caducidade, nos termos previstos no artigo 76.º do presente regulamento, bem como nos casos em que a mesma seja revogada ao abrigo do disposto no artigo 78.º, anulada ou declarada nula.
+
+###### Artigo 81.º — Remoção
+
+1 - Quando haja lugar à caducidade ou revogação da licença, incumbe ao respetivo titular proceder à remoção do mobiliário urbano, dos suportes publicitários instalados e à eliminação da mensagem publicitária, bem como à reposição das condições anteriormente existentes no local.
+
+2 - A remoção e reposição referidas no número anterior deverão ser efetuadas no prazo de 15 dias, a contar da data em que ocorra a caducidade ou da notificação da revogação da licença.
+
+3 - Caso o titular da licença não proceda à remoção e reposição referidas nos números anteriores, incumbe à Câmara Municipal a sua execução aplicando-se o disposto nos artigos 81.º e seguintes do presente regulamento.
+
+4 - A mera comunicação prévia ou o deferimento do pedido de autorização, efetuados nos termos do artigo 5.º do presente regulamento, não impedem o município de ordenar a remoção do mobiliário urbano que ocupar o espaço público quando, por razões de interesse público devidamente fundamentadas, tal se afigure necessário.
+
+###### Artigo 82.º — Transmissibilidade da titularidade da licença
+
+As licenças previstas no presente regulamento podem ser transmitidas, desde que não haja alterações ao objeto do licenciamento, estando sujeitas a averbamento, nos termos do artigo seguinte.
+
+###### Artigo 83.º — Averbamento
+
+1 - Sempre que haja alteração do titular da licença, deve ser solicitado o respetivo averbamento, no prazo de 30 dias a contar da data do facto que lhe deu origem, através da apresentação de requerimento dirigido ao Presidente da Câmara Municipal, cujo modelo é disponibilizado na página eletrónica da Câmara Municipal.
+
+2 - Pelo averbamento previsto no presente regulamento são devidas as taxas estabelecidas na Tabela de Taxas em vigor no Município.
+
+###### Artigo 84.º — Deveres do titular da licença
+
+O titular da licença fica obrigado, em especial, ao cumprimento dos seguintes deveres:
+
+a) Respeitar integralmente as condições de licenciamento;
+
+b) Possuir contrato de seguro de responsabilidade civil válido para o período da licença, quando exigido;
+
+c) Ceder, a título gratuito, nos períodos de campanha eleitoral, o espaço, meio ou suporte publicitário quando tal se afigure necessário e seja notificado para esse efeito;
+
+d) Submeter novo pedido de licenciamento quando a licença caduque por força do disposto no n.º 2 do artigo 76.º do presente regulamento;
+
+e) Proceder à reposição das condições do local, na situação em que este se encontrava à data do licenciamento, após o termo da licença.
+
+###### Artigo 85.º — Condições de higiene e segurança
+
+1 - Incumbe ao titular da licença o dever de conservar o mobiliário urbano, suportes publicitários e demais equipamentos utilizados nas melhores condições de higiene e de segurança.
+
+2 - Incumbe, ainda, ao titular da licença zelar pela manutenção da higiene no espaço envolvente, bem como dar o destino final adequado aos resíduos produzidos.
+
+###### Artigo 86.º — Obras de conservação
+
+1 - Sempre que tal se afigure necessário, o titular deve proceder à realização de obras de conservação do mobiliário urbano, suportes publicitários e demais equipamentos utilizados.
+
+2 - Estão sujeitas a autorização da Câmara Municipal a realização das obras de conservação que, designadamente:
+
+a) Incidam sobre mobiliário urbano, suportes publicitários e demais equipamentos propriedade do Município;
+
+b) Impliquem a alteração dos materiais ou da configuração ou estética do mobiliário urbano, suportes publicitários e demais equipamentos.
+
+###### Artigo 87.º — Responsabilidade Civil
+
+A responsabilidade civil emergente da instalação e funcionamento dos equipamentos caberá exclusivamente aos proprietários e utilizadores dos mesmos.
+
+### CAPÍTULO IV — Fiscalização, medidas de controlo da legalidade e regime sancionatório
+
+###### Artigo 88.º — Fiscalização
+
+Sem prejuízo da competência atribuída por lei a outras entidades, a fiscalização do cumprimento do disposto no presente regulamento incumbe aos serviços municipais competentes.
+
+###### Artigo 89.º — Dever de colaboração
+
+1 - As autoridades policiais ou administrativas que verifiquem ou tenham conhecimento de quaisquer factos suscetíveis de infringir o disposto no presente regulamento devem lavrar ou elaborar os respetivos autos de notícia ou participações e remetê-los a esta Câmara Municipal, tempestivamente.
+
+2 - As entidades fiscalizadoras devem prestar a colaboração que lhes seja solicitada pela esta Câmara Municipal, no mais curto espaço de tempo.
+
+###### Artigo 90.º — Ocupação ilícita do espaço público
+
+1 - O Presidente da Câmara pode, notificado o infrator, remover ou por qualquer forma inutilizar os elementos que ocupem o espaço público em violação das disposições do presente regulamento bem como do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, nos termos do disposto no artigo 26.º do referido diploma legal.
+
+2 - O Presidente da Câmara é, ainda, competente para, notificado o infrator, embargar ou demolir obras que contrariem o disposto no presente regulamento.
+
+3 - Os encargos com a remoção de elementos que ocupem o espaço público, ainda que efetuada por serviços públicos, são suportados pela entidade responsável pela ocupação ilícita.
+
+4 - Quando as quantias devidas nos termos do número anterior não forem pagas voluntariamente no prazo de 20 dias a contar da notificação para o efeito, as mesmas serão cobradas judicialmente em processo de execução fiscal, servindo de título executivo a certidão emitida pelos serviços municipais competentes, comprovativa das despesas efetuadas.
+
+5 - O pagamento dos encargos em sede de execução fiscal não confere ao infrator o direito à devolução do equipamento removido, considerando-se o mesmo perdido a favor do Município se não for reclamado pelos seus proprietários no prazo de 10 dias, após a sua notificação.
+
+###### Artigo 91.º — Notificação para remoção
+
+1 - Detetada a ocupação do espaço público e a afixação ou inscrição de publicidade ilícitas ou em desrespeito com as condições de licenciamento, nos termos do presente regulamento, serão notificados os infratores para que procedam à sua remoção, fixando-lhes, para o efeito, um prazo razoável, a contar da data da sua notificação, sem prejuízo da eventual responsabilidade civil e contraordenacional a que houver lugar.
+
+2 - A ordem de remoção a que se refere o número anterior é antecedida de audiência do interessado nos termos do Código do Procedimento Administrativo.
+
+3 - No caso de não serem identificáveis todos os infratores, haverá lugar à afixação de editais, nos termos do Código do Procedimento Administrativo.
+
+4 - Decorrido o prazo sem que a ordem de remoção se mostre cumprida, a entidade licenciadora determina a remoção coerciva a expensas do infrator.
+
+5 - A Câmara Municipal pode proceder à imediata remoção do mobiliário urbano, equipamento ou suporte publicitário não autorizado, designadamente quando esteja em causa a segurança de pessoas e bens e a circulação de veículos e pessoas.
+
+6 - Consideram-se perdidos, a favor do Município, os objetos provenientes de remoção coerciva se não forem reclamados pelos seus proprietários, no prazo de 10 dias, após a sua notificação.
+
+7 - Os trabalhadores incumbidos de proceder à remoção regulada nos números anteriores gozam de proteção, competindo às autoridades policiais disponibilizar os meios humanos e materiais adequados.
+
+8 - Quando necessário para efeitos da boa execução da operação de remoção, nomeadamente para garantir, a todo o tempo, o acesso de trabalhadores, viaturas e máquinas ao local onde se encontre a ocupação de espaço público, ou a afixação ou inscrição de publicidade ilícita, as entidades fiscalizadoras podem tomar posse administrativa do prédio respetivo, nos termos do artigo seguinte.
+
+9 - Não haverá lugar a posse administrativa sempre que a operação de remoção da publicidade ilícita implique o acesso de trabalhadores, viaturas e máquinas ao domicílio de cidadãos.
+
+###### Artigo 92.º — Posse administrativa de imóvel com afixação ilícita de publicidade
+
+1 - O presidente da câmara pode determinar a posse administrativa do imóvel onde se encontra ilegalmente afixada a publicidade, de forma a permitir a execução coerciva de tal medida.
+
+2 - O ato administrativo que tiver determinado a posse administrativa é notificado ao proprietário do imóvel onde se encontra ilegalmente afixada a publicidade, bem como aos demais titulares de direitos reais, caso sejam conhecidos e, ainda, ao proprietário do suporte publicitário.
+
+3 - A posse administrativa é realizada pelos serviços municipais competentes, mediante a elaboração de um auto onde, para além de se identificar o ato referido no número anterior, é especificado o estado em que se encontra o imóvel e suporte publicitário.
+
+4 - A posse administrativa do prédio e dos equipamentos mantém-se pelo período necessário à execução coerciva da respetiva medida de tutela da legalidade, caducando no termo do prazo fixado para a mesma.
+
+###### Artigo 93.º — Publicidade abusiva
+
+1 - Sem prejuízo do disposto nos artigos anteriores e da eventual aplicação de coimas e sanções acessórias, a Câmara Municipal pode, independentemente de prévia notificação, proceder à remoção da publicidade e respetivos suportes ou materiais, sempre que tenha havido utilização abusiva do espaço público ou se verifique a existência de perigo evidente para a segurança de pessoas e bens.
+
+2 - Os proprietários ou titulares de outros direitos sobre locais onde forem afixadas, inscritas ou difundidas mensagens publicitárias em violação do disposto no presente regulamento podem destruir, rasgar, apagar ou por qualquer forma inutilizar e remover os suportes utilizados.
+
+###### Artigo 94.º — Embargo ou demolição de obras de construção civil para a ocupação de espaço público ou a instalação de suportes publicitários
+
+1 - O Presidente da Câmara pode ordenar, nos termos do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual, o embargo ou demolição das obras de construção civil que tenham em vista a ocupação de espaço público e ou a instalação de suportes publicitários em violação ao disposto no presente regulamento, bem como a reposição do terreno nas condições em que se encontrava antes do início das obras.
+
+2 - As obras de demolição a que se refere o número anterior não carecem de licença.
+
+3 - As quantias relativas às despesas realizadas nos termos do presente artigo, incluindo quaisquer indemnizações ou sanções pecuniárias que a Administração tenha de suportar para o efeito, são da responsabilidade do infrator.
+
+4 - Quando as quantias devidas não forem pagas voluntariamente no prazo de 20 dias a contar da notificação para o efeito, são cobradas judicialmente em processo de execução fiscal, servindo de título executivo certidão emitida pelos serviços competentes, comprovativa das despesas efetuadas, podendo ainda a Câmara aceitar, para extinção da dívida, dação em pagamento ou outras formas de cumprimento, nos termos da lei.
+
+###### Artigo 95.º — Contraordenações e coimas
+
+1 - Sem prejuízo da punição pela prática de crime de falsas declarações e do disposto noutras disposições legais, constituem contraordenações as infrações previstas no n.º 1 do artigo 28.º do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, na redação introduzida pelo [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro.
+
+2 - É da competência do Município de Ribeira Brava a instrução dos processos referidos nas alíneas a), b), c), d) e e) do n.º 1 do artigo 28.º do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril, na redação dada pelo [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro na sequência das seguintes infrações:
+
+a) Emissão de uma declaração do titular da exploração a atestar o cumprimento das obrigações legais e regulamentares sobre a ocupação do espaço público que não corresponda à verdade, punível com coima de (euro) 1.000 a (euro) 7.000, tratando-se de uma pessoa singular, ou de (euro) 3.000 a (euro) 25.000, no caso de se tratar de pessoa coletiva;
+
+b) Não realização da comunicação prévia prevista no n.º 1 do artigo 5.º do presente regulamento, punível com coima de (euro) 700 a (euro) 5.000, tratando-se de uma pessoa singular, ou de (euro) 2.000 a (euro) 15.000, no caso de se tratar de uma pessoa coletiva;
+
+c) Falta, não suprida em 10 dias após notificação eletrónica, de algum elemento essencial da mera comunicação prévia prevista no n.º 1 do artigo 5.º do presente regulamento, punível com coima de (euro) 400 a (euro) 2.000, tratando-se de uma pessoa singular, ou de (euro) 1.000 a (euro) 5.000, no caso de se tratar de uma pessoa coletiva;
+
+d) Não atualização de todos os dados comunicados pelo titular da exploração do estabelecimento, punível com coima de (euro) 300 a (euro) 1.500, tratando-se de uma pessoa singular, ou de (euro) 800 a (euro) 4.000, no caso de se tratar de pessoa coletiva;
+
+e) Cumprimento fora do prazo máximo de 60 dias após a ocorrência de qualquer modificação da obrigação de manter atualizados todos os dados comunicados, pelo titular da exploração do estabelecimento, punível com coima de (euro) 100 a (euro) 500, tratando-se de uma pessoa singular, ou de (euro) 400 a (euro) 2.000, no caso de se tratar de uma pessoa coletiva.
+
+3 - Constitui também, contraordenação, a ocupação do espaço público sem que tenha sido efetuado previamente o pedido de autorização, previsto no n.º 5 do artigo 5.º do regulamento ou caso o pedido tenha sido indeferido, punível com coima graduada de (euro) 3,74 a (euro) 3.740,98, tratando-se de uma pessoa singular, ou de (euro) 3,74 a (euro) 44.891,81, no caso de se tratar de uma pessoa coletiva;
+
+4 - Constitui, ainda, contraordenação, a ocupação do espaço público:
+
+a) Sem o necessário licenciamento municipal, ou em desconformidade com as condições aprovadas, punível com coima graduada de (euro) 3,74 a (euro) 3.740,98 tratando-se de uma pessoa singular, ou com coima graduada até (euro) 44,891,81 no caso de se tratar de pessoa coletiva.
+
+5 - Constitui, ademais, contraordenação, no âmbito da publicidade:
+
+a) A afixação ou inscrição de mensagens publicitárias de natureza comercial sem o respetivo licenciamento municipal ou autorização, em infração ao disposto nos n.º 1 e 5 do artigo 6.º presente regulamento;
+
+b) A afixação ou inscrição de mensagens de publicidade nos lugares ou espaços de propriedade particular sem consentimento do respetivo proprietário, usufrutuário ou possuidor;
+
+c) A afixação ou inscrição de mensagens publicitárias e respetivos meios amovíveis que provoque obstrução de perspetivas panorâmicas ou afete a estética e o ambiente dos lugares ou da paisagem;
+
+d) A afixação ou inscrição de mensagens publicitárias e respetivos meios amovíveis que prejudique a beleza ou o enquadramento de monumentos nacionais, edifícios de interesse público ou outros, suscetíveis de serem classificados pelas entidades competentes;
+
+e) A afixação ou inscrição de mensagens publicitárias e respetivos meios amovíveis que cause prejuízos a terceiros;
+
+f) A afixação ou inscrição de mensagens publicitárias e respetivos meios amovíveis que afete a segurança das pessoas ou das coisas, designadamente na circulação rodoviária ou ferroviária;
+
+g) A afixação ou inscrição de mensagens publicitárias e respetivos meios amovíveis que apresente disposições, formatos ou cores que possam confundir -se com os da sinalização de tráfego;
+
+h) A afixação ou inscrição de mensagens publicitárias e respetivos meios amovíveis que prejudique a circulação de peões, designadamente dos que possuam mobilidade condicionada;
+
+i) A afixação ou inscrição de publicidade e respetivos meios amovíveis, de pinturas murais ou de outras inscrições em monumentos nacionais, edifícios religiosos, sedes de órgãos de autarquias locais, em sinais de trânsito, placas de sinalização rodoviária, interior de quaisquer repartições ou edifícios públicos ou franquiados ao público, incluindo centros históricos como tal declarados ao abrigo da competente regulamentação urbanística;
+
+j) A afixação ou inscrição de publicidade fora dos aglomerados urbanos em quaisquer locais onde a mesma for visível das estradas nacionais;
+
+k) A afixação ou inscrição de publicidade em infração ao disposto na subalínea iv) da alínea e) do n.º 2 do artigo 35.º e nos artigos 36.º e 37.º do presente regulamento;
+
+l) O estacionamento de unidades móveis publicitárias no mesmo local público por período superior a 8 horas;
+
+m) O estacionamento de unidades móveis publicitárias, que sejam também emissoras de som, dentro dos aglomerados urbanos e cujo equipamento de som esteja ligado;
+
+n) A não reposição da situação existente no local, tal como se encontrava à data da instalação do suporte, da afixação ou inscrição da mensagem publicitária ou da sua utilização com o evento publicitário, findo o prazo da licença;
+
+o) A não remoção dos suportes publicitários ou outros elementos de utilização do espaço público dentro do prazo de remoção imposto pela Câmara Municipal ou, nos casos previstos na alínea a) do presente artigo, no prazo de 10 dias contados da notificação da decisão de indeferimento;
+
+p) A não observância das obrigações decorrentes do licenciamento previstas no artigo 83.º do presente regulamento;
+
+q) A falta de conservação e manutenção dos suportes publicitários e demais equipamentos, em infração ao disposto nos artigos 86.º e 87.º do presente regulamento;
+
+r) A ocupação do espaço público com placas de sinalização comercial sem licenciamento.
+
+6 - As contraordenações previstas nas alíneas a) a i) do número anterior são puníveis com coima graduada de (euro) 150 a (euro) 3.740,98 tratando-se de uma pessoa singular, ou com coima graduada até (euro) 44,891,81 no caso de se tratar de pessoa coletiva.
+
+7 - As contraordenações previstas nas alíneas j), n), o) e p) do n.º 5 são puníveis com coima graduada de (euro) 249,39 a (euro) 3.740,98, no caso de pessoa singular ou de (euro) 498,80 a (euro) 44.891,81, no caso de pessoa coletiva.
+
+8 - As contraordenações previstas nas alíneas k), l), m) e q) do n.º 5 são puníveis com coima graduada de (euro) 249,39 a (euro) 3.740,98 no caso de pessoa singular, ou de (euro) 498,80 a (euro) 40.000, no caso de pessoa coletiva.
+
+9 - O desrespeito dos atos administrativos que determinem a remoção da publicidade ilegal, a posse administrativa, o embargo, a demolição de obras ou a reposição do terreno na situação anterior à infração constituem contraordenações, puníveis com coima de (euro) 249,39 a (euro) 3.740,98, no caso de pessoa singular ou de (euro) 498,80 a (euro) 44.891,81 no caso de pessoa coletiva.
+
+10 - As contraordenações previstas na alínea r) do n.º 5 são puníveis com coima graduada de (euro) 249,39 a (euro) 3.740,98 no caso de pessoa singular, ou de (euro) 498,80 a (euro) 40.000, no caso de pessoa coletiva.
+
+11 - Em caso de reincidência da infração, a coima aplicável nos termos dos números anteriores é especialmente agravada, sendo os seus limites elevado para o dobro.
+
+12 - Compete ao Presidente da Câmara ou ao Vereador com competência delegada determinar a instauração e decidir os processos de contraordenação da competência do Município de Ribeira Brava.
+
+13 - São aplicáveis aos processos de contraordenação as regras processuais constantes do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na sua redação atual.
+
+###### Artigo 96.º — Negligência
+
+A negligência é sempre punível com coima prevista para a respetiva contraordenação, reduzindo -se o seu limite máximo a metade.
+
+###### Artigo 97.º — Tentativa
+
+A tentativa é sempre punível com coima prevista para a respetiva contraordenação, reduzindo-se de um terço o seu limite máximo e de metade o seu limite mínimo.
+
+###### Artigo 98.º — Produto das coimas
+
+O produto das coimas apreendido nos processos de contraordenação reverte na totalidade para o Município de Ribeira Brava.
+
+###### Artigo 99.º — Sanções acessórias
+
+1 - Em função da gravidade da infração e da culpa do agente, simultaneamente com a coima, podem ser aplicadas as sanções acessórias de encerramento de estabelecimento e de interdição do exercício da atividade, com os seguintes pressupostos de aplicação:
+
+a) A interdição do exercício de atividade apenas pode ser decretada se o agente praticar a contraordenação com flagrante e grave abuso da função que exerce ou com manifesta e grave violação dos deveres que lhe são inerentes;
+
+b) O encerramento do estabelecimento apenas pode ser decretado quando a contraordenação tenha sido praticada por causa do funcionamento do estabelecimento.
+
+2 - A duração das sanções acessórias referidas no número anterior não pode exceder o período de dois anos.
+
+3 - Em função da gravidade da infração e da culpa do agente, poderão ser aplicáveis às contraordenações previstas no artigo 95.º, em especial, as seguintes sanções acessórias:
+
+a) Perda de objetos pertencentes ao agente;
+
+b) Privação do direito a subsídio ou benefício outorgado pelo Município da Ribeira Brava;
+
+c) Privação do direito de participar em arrematações ou concursos públicos que tenham por objeto a empreitada ou a concessão de obras públicas, o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;
+
+d) Suspensão de autorizações e licenças.
+
+4 - As sanções acessórias previstas nas alíneas b) a d) do número anterior têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva.
+
+5 - A sanção acessória referida na alínea a) do n.º 3 só pode ser decretada quando os objetos serviram ou estavam destinados a servir para a prática da contraordenação, ou por esta foram produzidos.
+
+6 - A sanção acessória referida na alínea b) do n.º 3 só pode ser decretada quando a contraordenação tiver sido praticada no exercício ou por causa da atividade a favor da qual é atribuído o subsídio.
+
+7 - A sanção acessória referida na alínea c) do n.º 3 só pode ser decretada quando a contraordenação tiver sido praticada durante ou por causa dos atos públicos ou no exercício ou por causa das atividades mencionadas nessa alínea.
+
+8 - A sanção acessória referida na alínea d) do n.º 3 só pode ser decretada quando a contraordenação tenha sido praticada no exercício ou por causa da atividade a que se referem as autorizações e licenças ou por causa do funcionamento do estabelecimento.
+
+### CAPÍTULO V — Disposições finais
+
+###### Artigo 100.º — Competência material
+
+A competência para proferir despachos relativos à apresentação de pedidos de licenciamento ou de autorização, à remoção de situações de ocupação e de mensagens publicitárias em desconformidade com o presente regulamento, à emissão de mandados de notificação e às demais matérias regulamentadas, pertence ao Presidente da Câmara Municipal ou ao Vereador com competência delegada na matéria.
+
+###### Artigo 101.º — Taxas
+
+1 - As taxas devidas pelos procedimentos estabelecidos no presente regulamento são as determinadas no Regulamento e Tabela de Taxas em vigor no Município da Ribeira Brava, publicitado na página eletrónica da Câmara Municipal.
+
+2 - As taxas devidas para efeitos da mera comunicação prévia e pedido de autorização e a forma de liquidação do seu valor são, ainda, divulgadas no "Balcão do empreendedor".
+
+3 - Quando esteja em causa a utilização do espaço público, as taxas referidas no número anterior são devidas em função da área e/ou pela utilização por um determinado período de tempo.
+
+4 - Pela ocupação do espaço público à qual seja aplicável a emissão de licenças previstas no presente regulamento, e pelas respetivas renovações, são devidas taxas em função da área e/ou tempo a utilizar.
+
+5 - Pela emissão de licenças de publicidade previstas no presente regulamento, bem como pelas respetivas renovações, são devidas taxas em função da área e/ou tempo a utilizar.
+
+6 - No caso de cancelamento ou suspensão determinada pela Câmara Municipal, as taxas poderão ser devolvidas no valor proporcional ao tempo não utilizado.
+
+7 - A liquidação do valor das taxas no regime de licenciamento é efetuada aquando do levantamento da licença ou, no caso de renovação da licença, no prazo fixado para o efeito, sob pena de caducidade do respetivo direito.
+
+###### Artigo 102.º — Dúvidas e omissões
+
+As dúvidas e omissões que surjam da interpretação ou aplicação do presente regulamento serão resolvidas por despacho do Presidente da Câmara Municipal ou do Vereador com competência delegada, atenta a legislação vigente aplicável e os princípios gerais de direito.
+
+###### Artigo 103.º — Norma revogatória
+
+São revogados as disposições contrárias ao estabelecido no presente regulamento.
+
+###### Artigo 104.º — Norma transitória
+
+Quando, por motivos de indisponibilidade do "Balcão do empreendedor", não for possível o cumprimento do disposto neste regulamento, podem os procedimentos ser realizados através do preenchimento do formulário próprio disponível no sítio da Internet da Direção Regional de Economia e Transportes (http://www.madeira.gov.pt/dret/Estrutura/Transportes) e no sítio da Internet da Câmara Municipal da Ribeira Brava (http://www.cm-ribeirabrava.pt) e entregue nos serviços do Município da Ribeira Brava, presencialmente.
+
+###### Artigo 105.º — Entrada em vigor
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicitação no Diário da República.
+
+## ANEXO I — Modelo de alvará
+
+###### Artigo 1.º — Titulação
+
+1 - As licenças de ocupação do espaço público e de publicidade são titulados por alvará do qual consta, obrigatoriamente, as seguintes especificações:
+
+a) Número de alvará;
+
+b) Número de processo;
+
+c) Identificação do titular;
+
+d) Localização da publicidade ou da ocupação de espaço público;
+
+e) Descrição da mensagem ou da ocupação de espaço público, por referência à sua área;
+
+f) Prazo de duração;
+
+g) Prazo para comunicar a não renovação da licença.
+
+2 - Os modelos previstos no presente ANEXO, podem ser objeto de alteração em virtude de imposição legal, ou atendendo às necessidades sentidas pelos serviços.
+
+###### Artigo 2.º — Modelo de Alvará de Publicidade
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/11/230000000/3561035630.pdf)
+
+###### Artigo 3.º — Modelo de Alvará de Ocupação de Espaço Público
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/11/230000000/3561035630.pdf)
+
+###### Artigo 4.º — Modelo de Alvará de Publicidade e Ocupação de Espaço Público
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/11/230000000/3561035630.pdf)
+
+## ANEXO II — Zona de Proteção Específica
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/11/230000000/3561035630.pdf)
+
+## ANEXO III — Identificação de núcleos de esplanadas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/11/230000000/3561035630.pdf)
+
+## ANEXO IV — Modelos tipo
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2016/11/230000000/3561035630.pdf)
+
+210036745

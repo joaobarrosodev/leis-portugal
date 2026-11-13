@@ -1,0 +1,248 @@
+---
+schema_version: '1.0'
+id: pt:dre:114986136:por
+title: Regulamento n.º 215/2018
+short_title: null
+summary: Alteração e republicação do Regulamento do Estudante Internacional do Instituto Superior Manuel Teixeira Gomes n.º
+  371/2014, de 13 de agosto
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Cofac - Cooperativa de Formação e Animação Cultural, C. R. L.
+proposing_entity: null
+official_number: 215/2018
+official_date: null
+publication_date: '2018-04-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 68/2018, Série II de 2018-04-06
+  number: '68'
+  series: II
+  supplement: null
+  pages: 9921 - 9922
+  pdf_url: https://files.diariodarepublica.pt/2s/2018/04/068000000/0992109922.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '114986136'
+  dre_path: /dr/detalhe/regulamento/215-2018-114986136
+  internal: pt:dre:114986136:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/215-2018-114986136
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/215-2018-114986136
+  consolidated_url: null
+  retrieved_at: '2026-11-13T06:28:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0080360f1988d41f5a4c9ff24e3087aadc76c1166b02373134e7c74345018990
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T06:28:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:159114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56057966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572431:por
+  label: null
+  source: null
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T06:28:15Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 215/2018
+
+A COFAC - Cooperativa de Formação e Animação Cultural, Crl, entidade instituidora do Instituto Superior Manuel Teixeira Gomes, procede, nos termos do n.º 3 do artigo 14.º do [Decreto-Lei n.º 36/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2014-572431), de 10 de março, à alteração e republicação do [Regulamento n.º 371/2014](https://diariodarepublica.pt/dr/detalhe/regulamento/371-2014-56057966), de 13 de agosto, publicado no Diário da República, 2.ª série, n.º 155, Regulamento do Estudante Internacional.
+
+22 de março de 2018. - O Presidente da Direção, Manuel de Almeida Damásio.
+
+Regulamento do Estudante Internacional
+
+No cumprimento do artigo 14.º, do [Decreto-Lei n.º 36/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2014-572431), de 10 março, as alterações ao Regulamento do Estudante Internacional do Instituto Superior Manuel Teixeira Gomes (ISMAT) foram aprovadas pelo Conselho Científico em reunião de 26 de janeiro de 2018.
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente regulamento aplica-se exclusivamente aos estudantes internacionais que pretendam frequentar cursos de 1.º ciclo ou de mestrado integrado.
+
+###### Artigo 2.º — Conceito de estudante internacional
+
+1) É estudante internacional o estudante que não tem nacionalidade portuguesa.
+
+2) Não são abrangidos pela definição de estudante internacional prevista no número anterior:
+
+a) Os nacionais de um Estado membro da União Europeia;
+
+b) Os que não sendo nacionais de um Estado membro da União Europeia residam legalmente em Portugal há mais de dois anos, de forma ininterrupta, em 31 de agosto do ano em que pretendem ingressar no ensino superior, bem como os filhos que com eles residam legalmente;
+
+c) Os que requeiram o ingresso no ensino superior através dos regimes especiais de acesso e ingresso regulados pelo [Decreto-Lei n.º 393-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-a-1999-159114), de 2 de outubro, alterado pelo [Decreto-Lei n.º 272/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), de 1 de outubro.
+
+3) Não são, igualmente, abrangidos pelo conceito de estudante internacional os estudantes estrangeiros que se encontrem a frequentar um ciclo de estudos, no âmbito de um programa de mobilidade internacional, para realização de parte do mesmo, numa instituição de ensino superior estrangeira com quem o ISMAT tenha estabelecido acordo de intercâmbio com esse objetivo.
+
+###### Artigo 3.º — Qualidade de estudante internacional
+
+Os estudantes internacionais mantêm a respetiva qualidade até ao final do ciclo de estudos em que se inscreveram inicialmente ou para que transitem, com exceção dos que entretanto adquiram a nacionalidade de um Estado membro da União Europeia, caso em que a produção de efeitos se aplica no ano letivo subsequente à data da aquisição da nacionalidade.
+
+###### Artigo 4.º — Concurso especial de acesso e ingresso
+
+O ingresso dos estudantes internacionais é, nos termos da legislação aplicável e do presente regulamento, concretizado através de um concurso especial de acesso e ingresso.
+
+###### Artigo 5.º — Condições de acesso
+
+Podem candidatar-se à matrícula e inscrição nos ciclos de estudos a que se refere o artigo 1.º os estudantes internacionais:
+
+a) Titulares de uma qualificação que dê acesso ao ensino superior, entendida como qualquer diploma ou certificado emitido por uma autoridade competente que ateste a aprovação num programa de ensino e lhes confira o direito de se candidatar e poder ingressar no ensino superior no país em que foi conferido;
+
+b) Titulares de um diploma de ensino secundário português ou de habilitação legalmente equivalente.
+
+###### Artigo 6.º — Diplomas e certificados
+
+1) Os diplomas e certificados referidos no artigo anterior têm de evidenciar as circunstâncias da sua emissão de forma fidedigna e devem ser autenticados pelo Consulado Português no país emitente ou, se for caso disso, apostilados, nos termos da Convenção de Haia e traduzidos para a língua portuguesa por tradutor ajuramentado quando estiverem elaborados em língua diferente da portuguesa, espanhola, francesa ou inglesa.
+
+2) Dos diplomas e certificados referidos no número anterior tem de constar, obrigatoriamente, a escala de classificação e a classificação final obtida no programa de ensino.
+
+###### Artigo 7.º — Condições de ingresso
+
+1) Para efeito de ingresso no respetivo ciclo de estudos, os estudantes internacionais têm obrigatoriamente que demonstrar:
+
+a) Qualificação académica específica para ingresso nesse ciclo de estudos;
+
+b) Conhecimento da língua ou línguas em que o ensino vai ser ministrado;
+
+c) Cumprimento dos pré-requisitos, quando for caso disso, nos termos da legislação aplicável.
+
+2) A verificação da qualificação académica específica:
+
+a) Incide sobre as matérias das provas de ingresso fixadas para o ciclo de estudos em causa, no âmbito do regime geral de acesso e ingresso;
+
+b) Deve assegurar que os estudantes internacionais têm conhecimento das matérias das provas de ingresso de nível e conteúdo equivalentes aos dos estudantes admitidos através do regime geral de acesso e ingresso regulado pelo [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de setembro.
+
+3) Os estudantes internacionais devem ter um nível de conhecimento da língua adequado ao ciclo de estudos a que se candidatam, a demonstrar por uma das seguintes vias:
+
+a) A língua da sua qualificação académica é a língua da frequência para o ciclo de estudos a que se candidata;
+
+b) Apresentação de certificado comprovativo de um domínio independente da língua em causa (nível B2, de acordo com o Quadro Europeu Comum de Referência para Línguas);
+
+c) A realização no Instituto de uma prova destinada à verificação da satisfação do nível de conhecimentos da língua requerida.
+
+4) A verificação da satisfação dos pré-requisitos que tenham sido fixados para o par instituição/ciclo de estudos em causa.
+
+5) A verificação a que se referem as alíneas a) e b) do n.º 1 pode ser feita através de prova documental ou por exames escritos, eventualmente complementados por exames orais.
+
+6) Anualmente, serão definidos por despacho do Diretor as condições perante as quais a verificação da condição de ingresso será feita apenas pela apresentação de prova documental, bem como da forma de cálculo da nota de candidatura.
+
+7) Nas restantes situações, a verificação da satisfação das condições de ingresso é feita através da realização de exames escritos.
+
+8) Os exames escritos e eventuais exames orais são elaborados por um júri de avaliação nomeado pelo Diretor composto por 3 doutorados no mínimo, a quem cabe produzir, aprovar os modelos de exame escrito, definir critérios de avaliação, bem como supervisionar o decorrente serviço de exames.
+
+9) Todos os documentos relacionados com a verificação da satisfação das condições de ingresso, incluindo os exames escritos realizados pelos estudantes internacionais, integram o seu processo.
+
+###### Artigo 8.º — Vagas
+
+Cabe ao Diretor do ISMAT fixar, por ciclo de estudos, o número de vagas, tendo em consideração os limites e os requisitos previstos no regime jurídico do Estudante Internacional.
+
+###### Artigo 9.º — Candidaturas
+
+1) As candidaturas são apresentadas diretamente ao ISMAT, em função da prévia definição de fases e prazo de candidatura.
+
+2) As fases e o prazo de apresentação da candidatura são anualmente fixados por despacho do Diretor e Administrador, nos termos da legislação em vigor, e divulgados no sítio do ISMAT.
+
+3) A candidatura à matrícula e à inscrição é realizada através do concurso especial a que se refere o artigo 4.º, mediante a verificação do cumprimento das condições de acesso e de ingresso previstas nos artigos 5.º e 7.º deste regulamento.
+
+4) A candidatura é válida apenas para o ano em que se realiza.
+
+###### Artigo 10.º — Seriação dos candidatos
+
+1) A seriação dos candidatos a cada ciclo de estudos é feita por ordem decrescente da classificação final.
+
+2) A nota final de candidatura é expressa numa escala de 0 a 200.
+
+3) A nota final de candidatura tem de ser igual ou superior a 95 pontos.
+
+4) Sempre que dois ou mais candidatos em situação de empate disputem o último lugar, são criadas vagas adicionais.
+
+###### Artigo 11.º — Documentação
+
+1) Os estudantes internacionais devem apresentar no ato de candidatura ao concurso especial de acesso e ingresso os documentos seguintes:
+
+a) Boletim de candidatura, devidamente preenchido;
+
+b) Declaração, sob compromisso de honra, de que o candidato não tem nacionalidade portuguesa, nem está abrangido pelas exceções previstas na lei e no artigo 2.º do presente regulamento;
+
+c) Diploma ou certificado emitido por uma autoridade competente que ateste a aprovação num programa de ensino e confira ao seu titular o direito de se candidatar e poder ingressar no ensino superior no país em que foi obtido ou documento comprovativo da conclusão do ensino secundário português ou equivalente;
+
+d) Documento que ateste o conhecimento da língua de ensino do curso a que se candidata;
+
+e) Fotocópia do passaporte ou de outro documento legalmente equivalente.
+
+2) Os estudantes internacionais devem igualmente satisfazer o pagamento do emolumento respeitante à candidatura constante da tabela em vigor.
+
+###### Artigo 12.º — Matrícula e inscrição
+
+1) Os candidatos admitidos devem realizar a sua matrícula e inscrição no prazo fixado no calendário respetivo para o efeito.
+
+2) Não há lugar a devolução de emolumentos pagos.
+
+###### Artigo 13.º — Emolumentos e propinas
+
+Os emolumentos e propinas são fixados anualmente pela Direção da entidade Instituidora do ISMAT, mediante tabela própria, e são divulgados no sítio da internet do Instituto no prazo estabelecido para a apresentação das candidaturas.
+
+###### Artigo 14.º — Interpretação e omissões
+
+As situações omissas ou dúvidas de interpretação do presente regulamento serão decididas por despacho do Diretor, bem como pela legislação em vigor.
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente regulamento entra em vigor no dia seguinte à sua publicação no Diário da República.
+
+311227478

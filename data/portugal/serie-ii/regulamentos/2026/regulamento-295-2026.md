@@ -1,0 +1,260 @@
+---
+schema_version: '1.0'
+id: pt:dre:1076923206:por
+title: Regulamento n.º 295/2026
+short_title: null
+summary: Regulamento do Perfil de Competências do Enfermeiro de Cuidados Gerais.
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Ordem dos Enfermeiros
+proposing_entity: null
+official_number: 295/2026
+official_date: null
+publication_date: '2026-03-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 59/2026, Série II de 2026-03-25
+  number: '59'
+  series: II
+  supplement: null
+  pages: 297 - 304
+  pdf_url: https://files.diariodarepublica.pt/2s/2026/03/059000000/0029700304.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1076923206'
+  dre_path: /dr/detalhe/regulamento/295-2026-1076923206
+  internal: pt:dre:1076923206:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/295-2026-1076923206
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/295-2026-1076923206
+  consolidated_url: null
+  retrieved_at: '2026-11-13T08:34:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: af1d75964d761a0c9e23fa333778fd52f7590262ef07753905323f9bdc3e6a9c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T08:34:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:211059785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67058782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:837135328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:945197554:por
+  label: null
+  source: null
+article_structure:
+  article_count: 13
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T08:34:13Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 295/2026
+
+Regulamento do Perfil de Competências do Enfermeiro de Cuidados Gerais
+
+Preâmbulo
+
+A entrada em vigor da [Lei n.º 12/2023](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), de 28 de março e da [Lei n.º 8/2024](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), de 19 de janeiro, alteraram o Estatuto da Ordem dos Enfermeiros, adiante designado Estatuto, determinando que a Ordem dos Enfermeiros, adiante designada Ordem, proceda à adaptação dos regulamentos em vigor ao novo quadro normativo.
+
+Entre os diversos regulamentos a rever, aquele que rege o perfil de competências do enfermeiro de cuidados gerais assume uma importância central e imprescindível nos cuidados ao cidadão, família e comunidades, nos diferentes domínios e nos três níveis de prevenção.
+
+Na sua prática, o enfermeiro adota uma conduta responsável e ética, atuando no respeito pela legis artis, pela deontologia e pelos direitos e interesses legalmente protegidos dos cidadãos, responsabilizando-os pelas suas decisões, pelos atos que pratica e pelas tarefas que delega.
+
+No presente regulamento procedeu-se à necessária atualização, acrescentando-se alterações formais que contribuem para uma melhor sistematização dos respetivos descritivos e critérios de competência, agora apresentados em três anexos, um por cada domínio: a) responsabilidade profissional, ética e legal, b) prestação e gestão dos cuidados, e c) desenvolvimento profissional, como instrumento de orientação para a implementação do processo de certificação de competências.
+
+Assim, nos termos da alínea h) do n.º 1 do artigo 27.º do Estatuto, o conselho diretivo, sob proposta do conselho de enfermagem e parecer favorável do conselho jurisdicional, deliberou aprovar o Regulamento do Perfil de Competências do Enfermeiro de Cuidados Gerais em 16 de dezembro de 2025, o qual foi submetido a consulta pública pelo período de 30 dias através do [Aviso n.º 28029/2025/2](https://diariodarepublica.pt/dr/detalhe/aviso/28029-2025-945197554), de 11 de novembro, nos termos do disposto do artigo 101.º do Código do Procedimento Administrativo e aprovado, conforme a alínea h) do n.º 1 do artigo 19.º do Estatuto, pelo conselho nacional de enfermeiros em reunião extraordinária de 19 de dezembro de 2025, com a seguinte redação:
+
+### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Objeto
+
+O presente regulamento define o perfil das competências, a autonomia e responsabilidade dos enfermeiros de cuidados gerais.
+
+###### Artigo 2.º — Âmbito
+
+O presente regulamento aplica-se aos membros regularmente inscritos na Ordem que reúnam as condições para o exercício previstas no Estatuto e sejam portadores do título profissional de “Enfermeiro”.
+
+###### Artigo 3.º — Conceitos
+
+Para os efeitos do presente Regulamento, entende-se por:
+
+a) “Domínio de competência”, uma esfera de ação compreendendo um conjunto de competências com linha condutora semelhante e um conjunto de elementos agregados;
+
+b) “Descritivo de competência”, explicita a competência relativamente aos atributos gerais e específicos, sendo decomposta em segmentos menores, podendo descrever os conhecimentos, as habilidades e operações que devem ser desempenhadas e aplicadas em distintas situações do exercício profissional;
+
+c) “Unidade de competência”, um segmento da competência representado como uma função que reporta a uma realização concreta, revestindo-se de um significado claro e de valor reconhecido;
+
+d) “Critérios de competência”, compreendem o conjunto integrado dos elementos que devem ser entendidos como evidência do desempenho profissional, expressando as características dos resultados.
+
+### CAPÍTULO II — COMPETÊNCIAS
+
+###### Artigo 4.º — Perfil de competências
+
+1 - O perfil de competências do enfermeiro de cuidados gerais visa prover um enquadramento regulador para a certificação das competências e comunicar aos destinatários dos cuidados de enfermagem o que podem esperar.
+
+2 - Pela certificação destas competências assegura-se que o enfermeiro de cuidados gerais possui um conjunto de conhecimentos, habilidades e atitudes que mobiliza em contexto profissional e que lhe permite identificar e responder às necessidades de saúde da pessoa, família, grupo e comunidade, em todos os contextos de vida e em todos os níveis de prevenção.
+
+###### Artigo 5.º — Domínios de competências
+
+Os domínios de competências do enfermeiro de cuidados gerais são:
+
+a) A responsabilidade profissional, ética e legal;
+
+b) A prestação e gestão de cuidados;
+
+c) O desenvolvimento profissional.
+
+###### Artigo 6.º — Domínio da responsabilidade profissional, ética e legal
+
+1 - A competência do enfermeiro de cuidados gerais no domínio da responsabilidade profissional, ética e legal é:
+
+a) Desenvolve uma prática profissional, ética e legal de acordo com as normas legais, os princípios éticos e a deontologia profissional.
+
+2 - A competência prevista no número anterior é apresentada com descritivo, unidades de competência e critérios de competência no anexo I do presente Regulamento.
+
+###### Artigo 7.º — Domínio da prestação e gestão de cuidados
+
+1 - A competência do enfermeiro de cuidados gerais no domínio da prestação e gestão de cuidados é:
+
+a) Desenvolve um processo de cuidados de enfermagem, num contexto de intervenção multidisciplinar e seguro, estabelecendo uma comunicação e relações interpessoais eficazes, com responsabilidade.
+
+2 - A competência prevista no número anterior é apresentada com descritivo, unidades de competência e critérios de competência no anexo II do presente Regulamento.
+
+###### Artigo 8.º — Domínio do desenvolvimento profissional
+
+1 - A competência do enfermeiro de cuidados gerais no domínio do desenvolvimento profissional é:
+
+a) Desenvolve estratégias promotoras do desenvolvimento e da valorização profissional, contribuindo para a melhoria contínua da qualidade dos cuidados de enfermagem.
+
+2 - A competência prevista no número anterior é apresentada com descritivo, unidades de competência e critérios de competência no anexo III do presente Regulamento.
+
+### CAPÍTULO III — AUTONOMIA E RESPONSABILIDADE
+
+###### Artigo 9.º — Autonomia
+
+1 - A atuação do enfermeiro é autónoma no âmbito das competências próprias da enfermagem, cabendo-lhe a responsabilidade pela avaliação das necessidades em saúde, pela formulação de diagnósticos de enfermagem, pela prescrição, implementação e avaliação de intervenções de enfermagem, bem como pela monitorização dos resultados sensíveis aos cuidados prestados, sem prejuízo da articulação necessária com outros profissionais de saúde.
+
+2 - No exercício profissional só existe relação de subordinação hierárquica e dependência funcional entre enfermeiros, inexistindo em relação a qualquer outro profissional ou grupo profissional.
+
+###### Artigo 10.º — Liberdade de exercício
+
+No exercício profissional, os enfermeiros gozam de plena liberdade e autonomia podendo solicitar a disponibilização dos meios e condições que garantam o respeito pela profissão e pelo direito dos cidadãos a cuidados de enfermagem seguros e de qualidade, bem como recorrer à cooperação de entidades públicas, privadas ou sociais, sempre que isso se revele indispensável para o exercício profissional.
+
+###### Artigo 11.º — Responsabilidade
+
+1 - O enfermeiro é responsável pelas decisões que toma, pelos atos próprios da profissão necessários para o exercício profissional que pratica e pelas tarefas que delega.
+
+2 - O enfermeiro é responsável por manter elevados padrões de exercício e pelo aperfeiçoamento e consolidação das suas competências profissionais.
+
+3 - Na sua responsabilidade individual, encontra-se vedada ao enfermeiro a participação, ou qualquer outra forma de envolvimento, em ações de formação, estágio ou acompanhamento de outros profissionais que não enfermeiros, destinadas a viabilizar a utilização de práticas, técnicas e competências próprias da profissão a profissionais não enfermeiros.
+
+### CAPÍTULO IV — DISPOSIÇÕES FINAIS
+
+###### Artigo 12.º — Norma revogatória
+
+É revogado o [Regulamento n.º 190/2015](https://diariodarepublica.pt/dr/detalhe/regulamento/190-2015-67058782), de 23 de abril.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no Diário da República.
+
+## ANEXO I — Domínio da responsabilidade profissional, ética e legal
+
+A - Responsabilidade profissional, ética e legal
+
+Competência: Desenvolve uma prática profissional, ética e legal de acordo com as normas legais, os princípios éticos e a deontologia profissional.
+
+Descritivo: O enfermeiro demonstra um exercício profissional seguro, responsável e com consciência do seu âmbito de intervenção. A competência assenta num corpo de conhecimentos, habilidades e atitudes e na avaliação sistemática da prática profissional sustentada na deontologia e nos referenciais legais e na análise e interpretação de cada situação específica, habilitantes a uma tomada de decisão fundamentada.
+
+| Unidades de competência | Critérios de competência |
+| --- | --- |
+| A1 - Concretiza uma prática profissional responsável. | A 1.1 - Atua autonomamente no âmbito das suas competências.A 1.2 - Assume a responsabilidade, respondendo pelos juízos profissionais que formula, pela tomada de decisão e pelas ações que pratica.A 1.3 - Reconhece os limites de competência do enfermeiro de cuidados gerais.A 1.4 - Referencia, sempre que necessário, para outros enfermeiros de acordo com as necessidades e problemas identificados.A 1.5 - Referencia para outros profissionais de saúde e, ou, organizações quando é requerida uma intervenção que está para além da sua competência. |
+| A2 - Exerce a sua prática profissional de acordo com os valores, princípios ético-deontológicos e normas legais. | A 2.1 - Atua de acordo com a os princípios ético-deontológicos, normas legais e legis artis.A 2.2 - Envolve-se de forma efetiva na tomada de decisão ética.A 2.3 - Protege os direitos, a saúde e a segurança das pessoas.A 2.4 - Respeita o direito das pessoas no acesso à informação.A 2.5 - Garante a confidencialidade e a segurança da informação, escrita e oral, adquirida enquanto profissional.A 2.6 - Respeita o direito da pessoa à privacidade.A 2.7 - Respeita o direito da pessoa à escolha e à autodeterminação referente aos cuidados de enfermagem e de saúde.A 2.8 - Identifica práticas de risco, adotando medidas apropriadas.A 2.9 - Abstém-se de práticas de cuidados que comprometam a segurança, a privacidade ou a dignidade da pessoa.A 2.10 - Reconhece as suas crenças e valores, obstando a sua influência na prática profissional.A 2.11 - Respeita os valores, os costumes, as crenças espirituais e as práticas das pessoas, grupos e comunidades.A 2.12 - Presta cuidados culturalmente congruentes.A 2.13 - Reconhece as situações de infração ou violação da lei e, ou, da deontologia profissional, que estão relacionadas com o exercício profissional, atuando em conformidade.A 2.14 - Reporta situações identificadas de risco social, vulnerabilidade, abuso, maus tratos e, ou, exploração, respeitando o sigilo profissional.A 2.15 - Age contra discriminação, violência e, ou violação de direitos. |
+
+## ANEXO II — Domínio da prestação e gestão de cuidados
+
+B - Prestação e gestão de cuidados
+
+Competência: Desenvolve um processo de cuidados de enfermagem, num contexto de intervenção multidisciplinar e seguro, estabelecendo uma comunicação e relações interpessoais eficazes, com responsabilidade.
+
+Descritivo: O enfermeiro conceptualiza e assegura o processo de prestação e gestão de cuidados de qualidade, de forma sistematizada, estruturando as práticas clínicas de enfermagem de forma a mobilizar a melhor evidência disponível na concretização do processo de enfermagem e supervisionando as tarefas delegadas. O enfermeiro estabelece relações terapêuticas com as pessoas, capacitando-as de modo a ajuda-las a tomar decisões adequadas ao seu projeto de saúde, através da utilização de comunicação apropriada e capacidades interpessoais. O enfermeiro assume o papel de interlocutor privilegiado no seio da equipa multiprofissional, promovendo a resposta adequada, a gestão do risco e a garantia da qualidade dos cuidados.
+
+| Unidades de competência | Critérios de competência |
+| --- | --- |
+| B1 - Concebe o processo de prestação e gestão de cuidados de qualidade, ao longo do ciclo vital, morte e luto. | B 1.1 - Mobiliza conhecimentos, técnicas e recursos próprios da profissão com vista à promoção, manutenção, paliação e recuperação das funções vitais, necessidades e bem-estar global em saúde.B 1.2 - Incorpora a evidência científica no exercício profissional como garantia da qualidade dos cuidados.B 1.3 - Demonstra pensamento crítico na análise sistemática e objetiva das situações para tomar decisões e resolver problemas. |
+|  | B 1.4 - Ajuíza, tomando decisões fundamentadas, nos diferentes contextos da prestação de cuidados.B 1.5 - Garante processo de cuidados centrado na pessoa, família, comunidades, promovendo conforto e dignidade.B 1.6 - Fundamenta os cuidados de enfermagem prestados.B 1.7 - Organiza o trabalho, gerindo o tempo e utilizando os recursos adequados.B 1.8 - Decide sobre técnicas, recursos e meios de diagnóstico a utilizar no processo de cuidados, nos diferentes contextos, entre eles, a consulta de enfermagem e a telessaúde.B 1.9 - Compreende os processos do direito associados aos cuidados de saúde.B 1.10 - Envolve-se na discussão sobre inovação na enfermagem e nos cuidados de saúde.B 1.11 - Atua como um recurso para a pessoa ao longo do ciclo vital, a família e a comunidade.B 1.12 - Participa em redes comunitárias, sociais e de saúde.B 1.13 - Apresenta a informação de forma objetiva e sucinta.B 1.14 - Interpreta adequadamente os dados objetivos e subjetivos, tendo em vista uma prestação de cuidados de qualidade.B 1.15 - Compreende os planos de emergência, agindo adequadamente em situações de catástrofe. |
+| B2 - Contribui para a promoção da saúde e prevenção da doença em todos os contextos e ao longo do ciclo vital. | B 2.1 - Compreende as políticas de saúde e sociais.B 2.2 - Trabalha em articulação com outros profissionais e outras comunidades.B 2.3 - Considera a pessoa, a família e a comunidade numa perspetiva holística, capacitando para a adoção de estilos de vida saudáveis, gestão e adesão ao regime terapêutico.B 2.4 - Participa nas iniciativas de promoção da saúde e prevenção da doença, contribuindo para a sua avaliação e reformulação.B 2.5 - Participa em programas e atividades de promoção, capacitação e literacia em saúde.B 2.6 - Promove a literacia em saúde da pessoa, da família e da comunidade, visando a adoção de decisões informadas.B 2.7 - Fomenta estratégias para o desenvolvimento e, ou, manutenção das capacidades para uma vivência promotora da saúde.B 2.8 - Reconhece o potencial da educação para a saúde.B 2.9 - Incorpora na prática clínica os múltiplos determinantes de saúde, assegurando a prevenção e gestão da doença, bem como a continuidade do plano terapêutico.B 2.10 - Aplica o conhecimento sobre estratégias de ensino e de aprendizagem nas interações com a pessoa, a família e a comunidade.B 2.11 - Avalia a compreensão e a aprendizagem acerca das práticas de saúde. |
+| B3 - Utiliza o processo de enfermagem como metodologia científica. | B 3.1 - Recolhe dados relevantes sobre cada situação para a identificação de necessidades em saúde e de enfermagem, em particular.B 3.2 - Efetua, de forma sistemática, a apreciação de dados relevantes para a formulação do diagnóstico de enfermagem e prescrição de cuidados de enfermagem.B 3.3 - Formula diagnósticos de enfermagem com base no julgamento clínico autónomo, integrando os dados objetivos e subjetivos, evidência científica e contexto da pessoa, família e comunidade, assumindo responsabilidade pelas decisões tomadas.B 3.4 - Prescreve o plano de intervenção e de tratamento, de acordo com os diagnósticos formulados, prioridades identificadas e previsão de recursos adequados.B 3.5 - Define resultados esperados e o intervalo de tempo para serem atingidos e, ou, revistos.B 3.6 - Executa o plano de intervenção e de tratamento prescritos, à pessoa ao longo do ciclo vital, fim de vida e luto.B 3.7 - Avalia os resultados da implementação do plano de cuidados e de tratamento, reformulando-o sempre que necessário. |
+|  | B 3.8 - Envolve, sempre que possível, a pessoa, a família e a comunidade no processo de enfermagem.B 3.9 - Consulta outros membros da equipa multiprofissional, sempre que necessário.B 3.10 - Garante que a pessoa e, ou, o cuidador compreendem a informação que sustenta o consentimento dos cuidados.B 3.11 - Documenta com exatidão todas as etapas do processo de cuidados.B 3.12 - Identifica situações inesperadas ou situações que se alteram rapidamente, respondendo com eficiência.B 3.13 - Age em situações de emergência, respondendo de acordo com as competências que detém e os recursos disponíveis, para manter ou recuperar as funções vitais.B 3.14 - Utiliza os dados da avaliação para rever o planeamento de cuidados. |
+| B4 - Fomenta uma comunicação e relações interpessoais eficazes. | B 4.1 - Estabelece relação terapêutica com a pessoa e, ou, cuidadores, através da utilização de comunicação apropriada e capacidades interpessoais.B 4.2 - Transmite informação relevante, fidedigna e compreensível, usando diferentes formas de comunicação.B 4.3 - Assegura que a informação transmitida à pessoa e demais intervenientes no processo de cuidados é apresentada de forma apropriada e clara.B 4.4 - Responde apropriadamente às questões e solicitações das pessoas.B 4.5 - Comunica com as pessoas de forma a empoderá-las para a tomada de decisão.B 4.6 - Usa a tecnologia de informação de forma apropriada. |
+| B5 - Promove a segurança do ambiente de cuidados. | B 5.1 - Recorre a estratégias de garantia da qualidade e de gestão do risco clínico e ambiental para criar um ambiente de cuidados seguro.B 5.2 - Utiliza instrumentos de avaliação adequados para identificar riscos.B 5.3 - Garante a segurança da administração de substâncias terapêuticas, utilizando o procedimento adequado, prevendo e detetando os seus efeitos e atuando em conformidadeB 5.4 - Implementa procedimentos de prevenção e controlo de infeção associada aos cuidados de saúde.B 5.5 - Documenta preocupações e ocorrências relativas à segurança dos cuidados, comunicando à entidade competente.B 5.6 - Participa em atividades inerentes à situação de saúde/doença nos diferentes contextos em que as pessoas se insiram, prevenindo riscos profissionais. |
+| B6 - Promove cuidados de saúde no âmbito da equipa multiprofissional. | B 6.1 - Mobiliza o conhecimento sobre práticas de trabalho multiprofissional.B 6.2 - Estabelece relações de trabalho construtivas com enfermeiros e restante equipa.B 6.3 - Contribui para um trabalho de equipa multidisciplinar e eficaz, mantendo relações de colaboração.B 6.4 - Valoriza os papéis e as capacidades de todos os membros da equipa multidisciplinar.B 6.5 - Envolve-se na tomada de decisão respeitante à pessoa, família, comunidade.B 6.6 - Participa, contínua e sistematicamente, com a equipa multidisciplinar, no planeamento, execução e avaliação de planos de cuidados. |
+| B7 - Supervisiona a realização de tarefas delegadas. | B 7.1 - Delega tarefas em profissionais funcionalmente dele dependentes e com a habilitação necessária à execução das mesmas.B 7.2 - Adequa estratégias de suporte na supervisão das tarefas delegadas.B 7.3 - Assume responsabilidade quando delega tarefas em outros profissionais. |
+
+## ANEXO III — Domínio do desenvolvimento profissional
+
+C - Desenvolvimento profissional
+
+Competência: Desenvolve estratégias promotoras do desenvolvimento e da valorização profissional, contribuindo para a melhoria contínua da qualidade dos cuidados de enfermagem.
+
+Descritivo: O enfermeiro adota uma atitude reflexiva sobre as suas práticas, identificando necessidades de formação, promovendo a melhoria contínua dos cuidados de enfermagem, contribuindo para o desenvolvimento e valorização profissional, e dando visibilidade ao seu espaço no trabalho multiprofissional.
+
+| Unidades de competência | Critérios de competência |
+| --- | --- |
+| C1 - Contribui para o desenvolvimento e valorização profissional. | C 1.1 - Promove a imagem dignificante da enfermagem.C 1.2 - Participa na implementação de políticas e programas de saúde.C 1.3 - Valoriza os resultados de investigação científica como contributo para o desenvolvimento da enfermagem.C 1.4 - Atua como um modelo efetivo no âmbito da equipa multidisciplinar.C 1.5 - Assume responsabilidades de liderança quando for relevante para a prática de cuidados.C 1.6 - Participa em redes profissionais e interinstitucionais, promotoras do desenvolvimento profissional. |
+| C2 - Garante processos de formação contínua. | C 2.1 - Realiza uma autoavaliação das suas práticas.C 2.2 - Assume responsabilidade pela aprendizagem ao longo da vida e pelo desenvolvimento de competências.C 2.3 - Procura respostas para as suas necessidades de formação contínua.C 2.4 - Coopera na formação e no desenvolvimento profissional de estudantes enfermagem e de outros enfermeiros.C 2.5 - Providencia a supervisão clínica de estudantes de enfermagem e de outros enfermeiros.C 2.6 - Aproveita as oportunidades de aprendizagem em equipa.C 2.7 - Participa na implementação do plano formativo da equipa. |
+| C3 - Contribui para a melhoria contínua da qualidade dos cuidados de enfermagem. | C 3.1 - Participa em programas de melhoria contínua da qualidade.C 3.2 - Participa em procedimentos de garantia da qualidade.C 3.3 - Coopera na elaboração e concretização de protocolos, procedimentos, normas de orientação clínica e terapêutica.C 3.4 - Utiliza indicadores sensíveis aos cuidados de enfermagem. |
+
+17 de março de 2026. - O Bastonário, Luís Filipe Barreira.
+
+319977645
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:108px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl8 { min-height:309px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { min-height:81px; } .Tbl12 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:241px; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl17 { min-height:238px; } .Tbl18 { min-height:173px; } .Tbl19 { text-align:justify; text-align-last:justify; } .Tbl20 { min-height:145px; } .Tbl21 { min-height:123px; } .Tbl22 { min-height:152px; } .Tbl23 { min-height:58px; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl26 { min-height:139px; } .Tbl27 { min-height:74px; }

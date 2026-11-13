@@ -1,0 +1,489 @@
+---
+schema_version: '1.0'
+id: pt:dre:884790063:por
+title: Regulamento n.º 934/2024
+short_title: null
+summary: Aprova o Regulamento e Tabela Geral de Taxas e Licenças.
+jurisdiction: portugal
+territory: null
+document_type: regulamento
+document_type_label: Regulamento
+issuing_authority:
+- Freguesia de Tonda
+proposing_entity: null
+official_number: 934/2024
+official_date: null
+publication_date: '2024-08-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 160/2024, Série II de 2024-08-20
+  number: '160'
+  series: II
+  supplement: null
+  pages: 820 - 829
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/08/160000000/0082000829.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '884790063'
+  dre_path: /dr/detalhe/regulamento/934-2024-884790063
+  internal: pt:dre:884790063:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regulamento/934-2024-884790063
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/regulamento/934-2024-884790063
+  consolidated_url: null
+  retrieved_at: '2026-11-13T08:04:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6185892ad1b937dd8d49602cc3cc6d712af1f9b7dd5012e7e6dcbfde33f432d5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T08:04:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:144994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+article_structure:
+  article_count: 22
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T08:04:21Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento n.º 934/2024
+
+Regulamento e Tabela Geral de Taxas e Licenças
+
+Freguesia de Tonda
+
+Nota Justificativa
+
+Na elaboração do presente Regulamento a Junta de Freguesia de Tonda analisou os valores a adotar e, considerando os custos diretos e indiretos, concluiu que alguns dos atos aqui tabelados, têm um valor muito abaixo do seu custo real, principalmente na área da secretaria. Contudo a Junta de Freguesia optou por praticar taxas sem correspondência direta com esses custos, mantendo valores próximos dos atualmente em vigor, tendo em consideração o meio socioeconómico em que estamos inseridos e evitando onerar demasiadamente os utentes dos serviços.
+
+Assim, em conformidade com o disposto nas alíneas d) e f) do n.º 1 do artigo 9.º, conjugado com a alínea h) do n.º 1 do artigo 16.º do Regime Jurídico das Autarquias Locais ([Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro), e tendo em vista o estabelecido no Regime Financeiro das Autarquias Locais e das Entidades Intermunicipais ([Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro) e no Regime Geral das Taxas das Autarquias Locais ([Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 dezembro), é aprovado o presente Regulamento e Tabela de Taxas e Licenças em vigor na Freguesia de Tonda.
+
+### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Objeto
+
+O presente regulamento e tabela anexa têm por finalidade fixar os quantitativos a cobrar por todas as atividades da Junta de Freguesia no que se refere à prestação concreta de um serviço público local e na utilização privada de bens do domínio público e privado da Freguesia.
+
+###### Artigo 2.º — Sujeitos
+
+1 - O sujeito ativo da relação jurídico-tributária, titular do direito de exigir aquela prestação é a Junta de Freguesia.
+
+2 - O sujeito passivo é a pessoa singular ou coletiva e outras entidades legalmente equiparadas que estejam vinculadas ao cumprimento da prestação tributária.
+
+3 - Estão sujeitos ao pagamento de taxas o Estado, as Regiões Autónomas, as Autarquias Locais, os fundos e serviços autónomos e as entidades que integram o setor empresarial do Estado, das Regiões Autónomas e das Autarquia Locais.
+
+###### Artigo 3.º — Isenções
+
+1 - Estão isentos do pagamento das taxas previstas no presente Regulamento, todos aqueles que beneficiem de isenção prevista em outros diplomas.
+
+2 - O pagamento das taxas poderá, por decisão da Junta de Freguesia, ser reduzido até à isenção total quando os requerentes sejam considerados, comprovadamente, particulares de fracos recursos financeiros.
+
+3 - Poderão ficar isentos do pagamento de taxas, quando a Junta deliberar nesse sentido, as pessoas coletivas de direito público ou de utilidade pública administrativa, as associações culturais, desportivas, recreativas, religiosas, as instituições particulares de solidariedade social, ou outras entidades e organismos privados que prossigam na área da freguesia fins de interesse eminentemente público, ou como tal considerado por deliberação expressa da Junta de Freguesia de Tonda.
+
+4 - Estão isentos de pagamento de taxas relativas a documentos administrativos, (atestados, certidões, provas de vida, declarações e fotocópias) os Antigos Combatentes, detentores do seu cartão de antigo combatente.
+
+5 - Noutras situações, além das previstas nos números anteriores, a Assembleia de Freguesia pode, por proposta da Junta de Freguesia, através de deliberação fundamentada, conceder isenções totais ou parciais relativamente às taxas.
+
+### CAPÍTULO II — TAXAS E LICENÇAS
+
+###### Artigo 4.º — Taxas
+
+A Junta de Freguesia de Tonda cobra taxas pelos seguintes serviços prestados à população:
+
+a) Serviços administrativos: emissão de atestados, declarações e certidões, termos de identidade e justificação administrativa, certificação de fotocópias em conformidade com o documento original e outros documentos;
+
+b) Licenciamento e Registo de canídeos e gatídeos;
+
+c) Cemitérios;
+
+d) Licenciamento de atividades diversas, como atividades ruidosas de carater temporário que respeitem a festas populares, romarias, feiras, arraiais e bailes organizados nas vias, jardins e demais lugares públicos ao ar livre
+
+e) Outros serviços prestados à comunidade.
+
+###### Artigo 5.º — Serviços Administrativos
+
+1 - As taxas de atestados e termos de justificação administrativa constam do anexo I e têm como base de cálculo o tempo médio de execução dos mesmos (atendimento, registo, produção).
+
+2 - A fórmula de cálculo é a seguinte:
+
+TSA = tme x vh + cu
+
+em que,
+
+TSA: Taxa dos Serviços Administrativos;
+
+tme: tempo médio de execução (1/2 hora para todos os documentos administrativos)
+
+vh: valor hora do funcionário ou equiparado, tendo em consideração o índice da escala salarial de valor médio;
+
+cu: custo unitário de prestação do serviço (inclui material de escritório, consumíveis, etc.).
+
+3 - As taxas de certificação de fotocópias, em conformidade com o original, constam do anexo I e têm por base o valor estipulado no Regulamento Emolumentar dos Registos e Notariado.
+
+4 - As taxas para os não recenseados na freguesia acrescem 50 %.
+
+###### Artigo 6.º — Classificação dos cães e gatos
+
+1 - Os cães e gatos classificam-se nas seguintes categorias, conforme a legislação em vigor:
+
+a) Categoria A - cão de companhia;
+
+b) Categoria B - Cão com fins económicos;
+
+c) Categoria C - Cão para fins militares, policiais e de segurança pública;
+
+d) Categoria D - Cão para investigação científica;
+
+e) Categoria E - Cão de caça;
+
+f) Categoria F - Cão-guia;
+
+g) Categoria G - Cão potencialmente perigoso (Cão de fila brasileiro, Dogue argentino, Pitbull terrier, Rottweiller, Staffordshire terrier americano, Staffordshire bull terrier, Tosa inu).
+
+h) Categoria H - Cão perigoso;
+
+i) Categoria I - Gato.
+
+###### Artigo 7.º — Registo e Licenciamento de Canídeos e Gatídeos
+
+1 - As taxas de registo e licenças de canídeos e gatídeos, constantes do Anexo II, são indexadas à Taxa N de profilaxia médica.
+
+2 - A fórmula de cálculo é a seguinte:
+
+a) Registo canídeos e gatídeos: 50 % da taxa N de profilaxia médica;
+
+b) Licenças das Classes A e B 100 % da taxa N de profilaxia médica;
+
+c) Licenças da Classe E 120 % da taxa N de profilaxia médica;
+
+d) Licenças da Classe G 200 % da taxa N de profilaxia médica;
+
+e) Licenças da Classe H o triplo da taxa N de profilaxia médica;
+
+f) Licenças da Classe I (gatos) 50 % da taxa N de profilaxia médica.
+
+3 - Os cães classificados nas categorias C, D e F estão isentos de qualquer taxa.
+
+4 - Ficam isentos do pagamento de taxa de licença os detentores de canídeos e gatideos que tenham recolhido os cães e gatos em centros de recolha oficial de animais, associações de proteção animal, sociedades zoófilas sem fins lucrativos e canis municipais.
+
+5 - O valor da taxa N de profilaxia médica é atualizado, anualmente, por despacho conjunto dos membros do governo com competências específicas nessa matéria.
+
+(*) - A profilaxia médica é o ato médico veterinário obrigatório para os cães, por razões de saúde pública, que tem sido há anos a esta parte unicamente a vacina antirrábica (vulgarmente designada vacina contra a raiva). Esta tem uma Taxa N (normal) e uma Taxa E (especial), em conformidade com o Despacho n.º 6756/2012, de 18 de maio (último que saiu e se mantém em vigor). O valor da Taxa N é presentemente de € 5.
+
+6 - Para obtenção do registo e licença é necessário apresentar os seguintes documentos:
+
+a) Boletim sanitário de cães e gatos, com prova de vacinação Antirrábica e de identificação eletrónica, quando obrigatória;
+
+b) Carta de caçador atualizado, no caso de cães de caça;
+
+c) Declaração dos bens a guardar, assinada pelo detentor no caso dos cães de guarda;
+
+d) Termo de responsabilidade nos termos da lei, registo criminal do detentor “limpo”, comprovativo de aprovação em formação para detenção desta categoria de canídeos, seguro de responsabilidade civil e bilhete de identidade ou cartão do cidadão para confirmação da sua maioridade, no caso dos cães perigosos ou potencialmente perigosos.
+
+7 - A licença de canídeos e gatídeos é anual e de renovação obrigatória, tendo a validade que dela constar expressamente.
+
+8 - Sempre que a licença do canídeo ou gatídeo não for renovada anualmente caduca automaticamente. Para que haja lugar a uma renovação os detentores são obrigados a pagar as licenças dos anos em atraso, no máximo até dois anos.
+
+###### Artigo 8.º — Cemitérios
+
+1 - As taxas a cobrar pelos serviços funerários (inumações, exumações, transladações, alvarás e averbamentos), têm como base de calculo o tempo médio de execução dos mesmos e a fórmula de cálculo é a seguinte:
+
+TSF = tme x vh + ct
+
+em que,
+
+tme: tempo médio de execução;
+
+vh: valor hora;
+
+ct: custo total necessário estimado para a prestação do serviço;
+
+2 - As taxas a pagar pela concessão de terrenos para sepulturas perpétuas e jazigos, previstas no anexo III, têm como base de cálculo a seguinte fórmula:
+
+TCT= a x i x ct + d
+
+em que,
+
+TCT: Taxa de Concessão de Terreno a: área do terreno (m2);
+
+i: Percentagem a aplicar tendo em conta o espaço ocupado (% da área total do cemitério);
+
+ct: custo total anual necessário para a prestação do serviço (custo anual do serviço de manutenção do cemitério);
+
+d: critério de desincentivo à concessão de terrenos. *
+
+(*) - (critério constante do n.º 2, do artigo 4.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492)) valor livremente aplicável, para facilitar indiscriminadamente a aquisição de terrenos a concessão de terrenos nos Cemitérios, o que poderia criar problemas de interesse público, pelo esgotamento do espaço (este é um dos casos de aplicação do critério de desincentivo)
+
+3 - As taxas referentes à concessão de Ossários, previstas no anexo III têm como base de cálculo o tempo médio do processo administrativo, o custo de produção (direto e indireto) do ossário, acrescido do fator de desincentivo à concessão.
+
+4 - As taxas a pagar pelos serviços funerários, concessão de terrenos e ossários a não recenseados na freguesia implica um agravamento de 50 % da taxa.
+
+a) Estão isentos da taxa de 50 % os não recenseados naturais de Tonda, conjugues, a pessoa que viva em condições análogas às dos cônjuges e filhos.
+
+5 - Os serviços prestados pelo de coveiro serão pagos ao próprio pelo contratante, tendo conta que o mesmo exerce a função em regime de trabalhador independente, sendo apenas da responsabilidade da autarquia a supervisão dos valores cobrados.
+
+###### Artigo 9.º — Concessão de Licença para Realização de Atividades Ruidosas de Caráter Temporário
+
+1 - A realização de arraiais, romarias, bailes e outros divertimentos públicos organizados nas vias, jardins e demais lugares públicos, carece de licenciamento pela junta de freguesia.
+
+2 - O pedido de licenciamento é dirigido ao presidente da junta de freguesia, com pelo menos 10 dias úteis de antecedência, através de requerimento próprio, do qual deve constar a identificação completa do interessado, morada, estado civil, e número de contribuinte fiscal, atividade que se pretende realizar, local do exercício da atividade, dias e horas em que a atividade ocorrerá, e será acompanhado dos seguintes documentos:
+
+a) Fotocópia do BI /cartão de cidadão;
+
+b) Quaisquer outros necessários ao cabal esclarecimento da pretensão.
+
+3 - A junta de freguesia delibera sobre o pedido de licenciamento no prazo máximo de 5 dias úteis, contados da receção do pedido.
+
+3 - As taxas pagas pela concessão de licenças para realização de atividades ruidosas de carater temporário, constantes do anexo IV, têm por base de cálculo a seguinte fórmula:
+
+TAR = tme x vh + cu
+
+em que,
+
+TAR: Taxa de Atividades Ruidosas tme: tempo médio de execução;
+
+vh: valor hora do funcionário;
+
+cu: custo unitário para a prestação do serviço (inclui material de escritório, consumíveis, etc.).
+
+###### Artigo 10.º — Ocupação do Espaço Público e Privado da Freguesia de Tonda
+
+1 - As taxas relativas à ocupação do domínio público, que sejam da competência da Junta de Freguesia de Tonda, regem-se pelas mesmas normas que se encontram estabelecidas no Regulamento Geral e Tabela de Taxas, Licenças e Outras Receitas do Município de Tondela e no Regulamento sobre Ocupação do Espaço Público e Publicidade do Município de Tondela.
+
+2 - As taxas relativas à ocupação do espaço privado da Freguesia de Tonda são definidas casuisticamente após análise do pedido do requerente.
+
+3 - O requerente deve formular o pedido por escrito, dirigido ao Presidente da junta de Freguesia de Tonda, com a indicação do tipo de ocupação pretendida, finalidade e duração.
+
+###### Artigo 11.º — Outros serviços prestados à comunidade
+
+1 - Os preços e outras receitas a aplicar em todas as relações que se estabeleçam entre a autarquia e as pessoas singulares ou coletivas ou que respeitam, entre outros, as atividades sociais, recreativas, educativas, desportivas e culturais da freguesia (desporto sénior, educação, atividades de tempos livres ou cursos/formações, etc) são definidos e aprovados pela Junta de Freguesia.
+
+###### Artigo 12.º — Atualização de Valores
+
+A Junta de Freguesia, sempre que entenda conveniente, poderá propor à Assembleia de Freguesia a atualização extraordinária ou alteração das taxas previstas neste regulamento, mediante fundamentação económico-financeira subjacente ao novo valor.
+
+###### Artigo 13.º — Validade das Licenças
+
+1 - As licenças concedidas ao abrigo da tabela de taxas anexa caducam pelo decurso do prazo pelo qual foram concedidas, exceto, se entretanto, quando legalmente possível, for renovado o seu prazo.
+
+2 - Os prazos das licenças contam-se nos termos da alínea c) do artigo 279.º do Código Civil.
+
+3 - Para além dos motivos referidos supra, as licenças caducam ainda por determinação legal, por decisão judicial ou por decisão administrativa.
+
+### CAPÍTULO III — LIQUIDAÇÃO
+
+###### Artigo 14.º — Pagamento
+
+1 - A relação jurídico-tributária extingue-se através do pagamento da taxa.
+
+2 - As prestações tributárias são pagas em moeda corrente ou por cheque, débito em conta, transferência ou por outros meios previstos na lei e pelos serviços.
+
+3 - Salvo disposição em contrário, o pagamento das taxas será efetuado antes ou no momento da prática de execução do ato ou serviços a que respeitem.
+
+4 - O pagamento das taxas é feito mediante guia de recebimento a emitir pela Junta de Freguesia.
+
+###### Artigo 15.º — Pagamento em Prestações
+
+1 - Compete à Junta de Freguesia autorizar o pagamento em prestações, desde que se encontrem reunidas as condições para o efeito, designadamente, comprovação da situação económica do requerente, que não lhe permite o pagamento integral da dívida de uma só vez, no prazo estabelecido para pagamento voluntário.
+
+2 - Os pedidos de pagamento em prestações devem conter a identificação do requerente, a natureza da dívida e o número de prestações pretendido, bem como os motivos que fundamentam o pedido.
+
+3 - No caso do deferimento do pedido, o valor de cada prestação mensal corresponderá ao total da dívida, dividido pelo número de prestações autorizado, acrescendo ao valor de cada prestação os juros de mora contados sobre o respetivo montante, desde o termo do prazo para pagamento voluntário até à data do pagamento efetivo de cada uma das prestações.
+
+4 - O pagamento de cada prestação deverá ocorrer durante o mês a que corresponder.
+
+5 - A falta de pagamento de qualquer prestação implica o vencimento imediato das seguintes, assegurando-se a execução fiscal da dívida remanescente mediante a extração da respetiva certidão de dívida.
+
+###### Artigo 16.º — Incumprimento
+
+1 - São devidos juros de mora pelo cumprimento extemporâneo da obrigação de pagamento das taxas.
+
+2 - A taxa legal ([Decreto-Lei n.º 73/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1999-144994), de 16 de março) de juros de mora é de 1 %, se o pagamento se fizer dentro do mês do calendário em que se verificou a sujeição aos mesmos juros, aumentando-se uma unidade por cada mês de calendário ou fração se o pagamento se fizer posteriormente.
+
+3 - O não pagamento voluntário das dividas é objeto de cobrança coerciva através de execução fiscal, nos termos do Código de Procedimento e de Processo Tributário
+
+### CAPÍTULO IV — DISPOSIÇÕES GERAIS
+
+###### Artigo 17.º — Garantias
+
+1 - Os sujeitos passivos das taxas podem reclamar ou impugnar a respetiva liquidação.
+
+2 - A reclamação deverá ser feita por escrito e dirigida à Junta de Freguesia, no prazo de 30 dias a contar da notificação da liquidação.
+
+3 - A reclamação presume-se indeferida para efeitos de impugnação judicial se não for decidida no prazo de 60 dias.
+
+4 - Do indeferimento tácito ou expresso cabe impugnação judicial para o Tribunal Administrativo e Fiscal da área da Freguesia, no prazo de 60 dias a contar do indeferimento.
+
+5 - A impugnação judicial depende da prévia dedução da reclamação prevista no n.º 2.
+
+###### Artigo 18.º — Contraordenações
+
+1 - As infrações ao disposto no presente Regulamento e respetiva tabela constituem contraordenação punível com coima.
+
+2 - A competência para determinar a instrução dos processos de contraordenação e para aplicação das coimas pertence ao presidente do executivo, podendo ser delegada a qualquer dos restantes membros, e far-se-á nos termos da legislação em vigor, nomeadamente, do Regime Geral de Contraordenações, desde que não prevista em lei especial.
+
+###### Artigo 19.º — Situações omissas
+
+Em tudo o que neste regulamento estiver omisso, caberá à Junta de Freguesia deliberar, suportada pela legislação em vigor e aplicável à Administração Pública.
+
+###### Artigo 20.º — Revogação
+
+É revogado o Regulamento e Tabela Geral de Taxas e Licenças anteriormente vigente.
+
+###### Artigo 21.º — Legislação Subsidiária
+
+Em tudo quanto não estiver, expressamente, previsto neste Regulamento são aplicáveis, sucessivamente:
+
+a) O Regime Geral das Taxas das Autarquias Locais;
+
+b) O regime financeiro das autarquias locais e das entidades intermunicipais
+
+c) A Lei Geral Tributária;
+
+d) O regime jurídico das Autarquias Locais;
+
+e) O Estatuto dos Tribunais Administrativos e Fiscais;
+
+f) O Código de Procedimento e de Processo Tributário;
+
+g) O Código de Processo nos Tribunais Administrativos;
+
+h) O Código do Procedimento Administrativo;
+
+i) O Código Civil e o código de processo Civil.
+
+###### Artigo 22.º — Entrada em Vigor
+
+O presente Regulamento entra em vigor no primeiro dia útil seguinte ao da sua publicação no Diário da República.
+
+Aprovado em reunião do Órgão Executivo a 11 de junho 2024
+
+Aprovado em reunião do Órgão Deliberativo a 20 de junho de 2024
+
+20 de junho de 2024. - O Presidente da Junta de freguesia de Tonda, Carlos Coimbra.
+
+## ANEXO I — Tabela de taxas e licenças
+
+Serviços administrativos
+
+|  |  |
+| --- | --- |
+| Atestados, declarações e certidões emitidas pela Junta de Freguesia * | 3.00 € |
+| Atestados, Declarações, Certidões e Confirmações em impresso próprio * | 2.50 € |
+| Atestados ou declarações para comprovar insuficiência económica | Isento |
+| Atestados, provas de vida, certidões, declarações e fotocópias (ex-combatentes, c/ cartão) | isento |
+| Confirmação da data de construção de imóvel * | 10,00€ |
+| Certidões de ata (por página) * | 20,00€ |
+| Termos de Identidade e Justificação administrativa * | 5.00€ |
+| Outros documentos * | 3,50€ |
+| Certificação de Fotocópias (até 4 páginas) ** | 8,00€ |
+| Certificação de Fotocópias (5.º Página e seguintes por página) * | 1.00€ |
+| Emissão de 2.ª vias de documentos * | 5.00€ |
+| Fotocópias/Impressão A4 frente * | 0,20€ |
+| Fotocópias Impressão A4 frente e verso * | 0,30€ |
+| Digitalização de documentos (cada folha) * | 0,20€ |
+
+* Não recenseados na freguesia acresce 50 %.
+
+## ANEXO II — Canídeos e gatídeos
+
+Licenças de canídeos e gatídeos
+
+|  |  |
+| --- | --- |
+| Registo canídeos e gatídeos | 2,50 € |
+| Categoria A-Licença de Cães de Companhia | 5,00 € |
+| Categoria B-Licença de Cães com Fins Económicos (inclui Guarda e Pastor) | 5,00 € |
+| Categoria C- Licença de Cães com Fins Militares | Isento |
+| Categoria D - Licença de Cães para Investigação | Isento |
+| Categoria E - Licença de Cães de Caça | 6,00 € |
+| Categoria F - Licença de Cães de Guia | Isento |
+| Categoria G - Licença de Cães Potencialmente Perigosos | 10,00 € |
+| Categoria H - Licença de Cães Perigosos | 15,00 € |
+| Categoria I - Licença de Gatos | 2,50 € |
+| Transferência de proprietário | 2,50 € |
+| Baixa por morte ou desaparecimento | Isento |
+
+## ANEXO III — Cemitérios
+
+|  |  |
+| --- | --- |
+| Concessão de terreno para Sepultura Perpétua * | 690,00€ |
+| Concessão de terreno para Jazigos até 4m2 * | 3.000,00€ |
+| Cada m2 ou fração a mais * | 750,00€ |
+| Alvará de sepultura perpétua, jazigos e ossários * (2.ª Via acresce 50 %) | 10,00€ |
+| Trasladação nos cemitérios da freguesia * | 25,00€ |
+| Trasladação de e para outro cemitério fora da freguesia * | 75,00€ |
+| Trasladação para ossários * | 25,00€ |
+| Concessão de Ossários Perpétua * | 650,00€ |
+| Concessão de ossários por vinte anos * | 250,00€ |
+| Concessão de Ossários por dez anos * | 150,00€ |
+| Averbamento de transmissão de sepultura, ossários ou jazigo entre familiares (Classes de sucessíveis, nos termos da alínea a, b, c do n.º 1 do artigo 2133.º do código civil) | 50,00€ |
+| Averbamento de transmissão de jazigos (n/familiares) * | 1.500,00€ |
+| Averbamento de transmissão de sepulturas (n/familiares) * | 350,00€ |
+| Taxa inumação em sepulturas e jazigos * ** | 35,00€ |
+| Cinzas em sepultura, jazigo ou ossário * ** | 20,00€ |
+
+* Não recenseados na freguesia acresce 50 %;
+
+Estão isentos da taxa de 50 % os não recenseados naturais de Tonda, conjugues, a pessoa que viva em condições análogas às dos cônjuges e filhos.
+
+** Ex combatentes Grátis
+
+## ANEXO IV — Atividades ruidosas de caráter temporário
+
+Licenciamento de atividades diversas Licenciamento de atividades ruidosas de caráter temporário:
+
+Festas populares, romarias, feiras, arraiais e bailes - 5,00€,dia
+
+317968137
