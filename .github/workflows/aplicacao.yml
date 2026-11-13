@@ -64,3 +64,5 @@ jobs:
         run: |
           gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1 || gh release create "$GITHUB_REF_NAME" --title "Aplicação $GITHUB_REF_NAME" --notes "Leis de Portugal para Mac e Windows. Não assinada: ver COMO-USAR.md." || true
           gh release upload "$GITHUB_REF_NAME" "${{ matrix.ficheiro }}" --clobber
+          # Uma Release cuja etiqueta foi reposta fica em rascunho: publicar sempre.
+          gh release edit "$GITHUB_REF_NAME" --draft=false
