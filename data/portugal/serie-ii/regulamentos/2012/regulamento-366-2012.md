@@ -29,13 +29,13 @@ legal_status_basis:
   source: norma_revogatoria
   evidence:
   - status: repealed
-    provenance: 'norma revogatória: pt:dre:75422377:por#art-11'
-    detail: É revogado o [Regulamento n.º 366/2012], de 28 de julho de 2012, publicado no Diário da República, 2.ª série,
-      N.º 158, de 16 de agosto de 2012.
-  - status: repealed
     provenance: 'norma revogatória: pt:dre:169624920:por#texto'
     detail: É revogado o [Regulamento n.º 366/2012], de 28 de julho de 2012, publicado no Diário da República, 2.ª série,
       n.º 158, de 16 de agosto de 2012.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:75422377:por#art-11'
+    detail: É revogado o [Regulamento n.º 366/2012], de 28 de julho de 2012, publicado no Diário da República, 2.ª série,
+      N.º 158, de 16 de agosto de 2012.
 notes: []
 language: por
 version:

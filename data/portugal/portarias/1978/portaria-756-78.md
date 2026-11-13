@@ -25,7 +25,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29300/27222724.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 756/78: revogação total pela norma revogatória do diploma Portaria n.º 431/79 (18.º (Disposição revogatória)),
+    lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:377538:por'
+    detail: É revogada a Portaria n.º 756/78, de 22 de Dezembro.
 notes: []
 language: por
 version:
@@ -106,6 +115,12 @@ relationships:
   target: pt:dre:391211:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:377538:por
+  label: 'Portaria n.º 756/78: revogação total pela norma revogatória do diploma Portaria n.º 431/79 (18.º (Disposição revogatória)),
+    lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1979-08-17'
 article_structure:
   article_count: 0
   section_count: 0

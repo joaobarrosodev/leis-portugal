@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Aviso do Banco de Portugal n.º 6/2003: revogação total pela norma revogatória do diploma Aviso do Banco de Portugal
+    n.º 1/2019 (Artigo 11.º, n.º 1, al. a)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:118813255:por'
+    detail: a) Aviso do Banco de Portugal n.º 6/2003
 notes: []
 language: por
 version:
@@ -134,6 +144,13 @@ relationships:
   target: pt:dre:646111:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/201/2002/09/26/p/dre
+- type: repealed_by
+  target: pt:dre:118813255:por
+  label: 'Aviso do Banco de Portugal n.º 6/2003: revogação total pela norma revogatória do diploma Aviso do Banco de Portugal
+    n.º 1/2019 (Artigo 11.º, n.º 1, al. a)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2019-01-31'
 article_structure:
   article_count: 7
   section_count: 0

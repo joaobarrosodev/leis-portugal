@@ -36,7 +36,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 75/94: revogação total pela norma revogatória do diploma Portaria n.º 470/2003 (Norma revogatória
+    (art. final); Entrada em vigor: dia imediatamente a seguir ao da publicação), lida no texto e verificada na amostra de
+    2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:683233:por'
+    detail: São revogadas as Portarias n.os 780/91, de 8 de Agosto, e 75/94, de 4 de Fevereiro.
 notes: []
 language: por
 version:
@@ -106,6 +116,13 @@ relationships:
   label: "Revogada pela PORT.470/2003.2003.06.11.MF, DR.IS-B [134]\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/470-2003-683233
   date: '2003-06-11'
+- type: repealed_by
+  target: pt:dre:683233:por
+  label: 'Portaria n.º 75/94: revogação total pela norma revogatória do diploma Portaria n.º 470/2003 (Norma revogatória (art.
+    final); Entrada em vigor: dia imediatamente a seguir ao da publicação), lida no texto e verificada na amostra de 2026-11-13
+    (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2003-06-12'
 article_structure:
   article_count: 0
   section_count: 0

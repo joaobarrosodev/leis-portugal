@@ -35,13 +35,7 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: repealed
-legal_status_basis:
-  source: norma_revogatoria
-  evidence:
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:1190370817:por#art-56'
-    detail: b) O [Decreto-Lei n.º 126-B/2021], de 31 de dezembro.
+legal_status: unknown
 notes: []
 language: por
 version:

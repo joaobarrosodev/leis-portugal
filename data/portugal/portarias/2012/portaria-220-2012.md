@@ -35,7 +35,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 220/2012: revogação total pela norma revogatória do diploma Portaria n.º 215/2026/1 (art. 2.º), lida
+    no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:1119818249:por'
+    detail: É revogada a Portaria n.º 220/2012, de 20 de julho.
 notes: []
 language: por
 version:
@@ -91,6 +100,12 @@ relationships:
   target: pt:dre:638754:por
   label: null
   source: http://data.dre.pt/eli/port/641/2007/05/30/p/dre
+- type: repealed_by
+  target: pt:dre:1119818249:por
+  label: 'Portaria n.º 220/2012: revogação total pela norma revogatória do diploma Portaria n.º 215/2026/1 (art. 2.º), lida
+    no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2026-05-13'
 article_structure:
   article_count: 9
   section_count: 0

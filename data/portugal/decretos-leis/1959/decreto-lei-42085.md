@@ -25,7 +25,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1959/01/00200/00040004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 42085: revogação total pela norma revogatória do diploma Decreto-Lei n.º 501/77 (Art. 6.º, alínea
+    b)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em
+    vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:281246:por'
+    detail: b) O Decreto-Lei n.º 42085, de 3 de Janeiro de 1959
 notes: []
 language: por
 version:
@@ -69,7 +79,13 @@ subjects:
 - Delegação de Competências
 - Direcção Geral da Educação Física Desportos e Saúde Escolar
 - Ministério da Educação Nacional
-relationships: []
+relationships:
+- type: repealed_by
+  target: pt:dre:281246:por
+  label: 'Decreto-Lei n.º 42085: revogação total pela norma revogatória do diploma Decreto-Lei n.º 501/77 (Art. 6.º, alínea
+    b)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em
+    vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

@@ -31,11 +31,14 @@ legal_status_basis:
   source: norma_revogatoria
   evidence:
   - status: repealed
-    provenance: 'norma revogatória: pt:dre:304356:por#art-65'
-    detail: '[Decreto n.º 39175], de 17 de Abril de 1953'
-  - status: repealed
     provenance: 'norma revogatória: pt:dre:1815974:por#art-66-2'
     detail: '[Decreto n.º 39175], de 17 de abril de 1953'
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:3661718:por#art-66'
+    detail: '[Decreto n.º 39175], de 17 de abril de 1953'
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:304356:por#art-65'
+    detail: '[Decreto n.º 39175], de 17 de Abril de 1953'
   - status: repealed
     provenance: 'norma revogatória: pt:dre:3280818:por#art-66'
     detail: '[Decreto n.º 39175], de 17 de abril de 1953'

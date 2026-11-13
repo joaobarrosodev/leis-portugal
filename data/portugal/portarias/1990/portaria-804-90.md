@@ -34,7 +34,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 804/90: revogação total pela norma revogatória do diploma Portaria n.º 21/2014 (Artigo 2.º), lida
+    no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:570724:por'
+    detail: c) Portaria n.º 804/90, de 8 de setembro
 notes: []
 language: por
 version:
@@ -116,6 +125,12 @@ relationships:
     \ de 31.01.2014\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/21-2014-570724
   date: '2014-01-31'
+- type: repealed_by
+  target: pt:dre:570724:por
+  label: 'Portaria n.º 804/90: revogação total pela norma revogatória do diploma Portaria n.º 21/2014 (Artigo 2.º), lida no
+    texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2014-02-05'
 article_structure:
   article_count: 0
   section_count: 0

@@ -25,13 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1932/01/01100/01360137.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
-legal_status_basis:
-  source: norma_revogatoria
-  evidence:
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:442317:por#n-2'
-    detail: II) [Decreto n.º 20757], de 14 de Janeiro de 1932
+legal_status: unknown
 notes: []
 language: por
 version:

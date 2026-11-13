@@ -24,7 +24,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/11/27100/14501452.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 18828: revogação total pela norma revogatória do diploma Portaria n.º 19483 (13.º / 14.º), lida no
+    texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:156195:por'
+    detail: 13.º Fica revogada a Portaria n.º 18828, de 22 do Novembro de 1961.
 notes: []
 language: por
 version:
@@ -74,6 +83,11 @@ relationships:
   target: pt:dre:512793:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:156195:por
+  label: 'Portaria n.º 18828: revogação total pela norma revogatória do diploma Portaria n.º 19483 (13.º / 14.º), lida no
+    texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

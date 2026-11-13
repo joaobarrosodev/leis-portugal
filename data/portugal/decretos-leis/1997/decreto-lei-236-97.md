@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 236/97: revogação total pela norma revogatória do diploma Decreto Regulamentar n.º 53/2007 (Artigo
+    11.º, alínea a)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE
+    dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:520873:por'
+    detail: a) O Decreto-Lei n.º 236/97, de 3 de Setembro
 notes: []
 language: por
 version:
@@ -125,6 +135,13 @@ relationships:
   label: "Rectificado pela Decl-Rect 15-G/97.1997.09.30.PCM, DR.IS-A [226]2ºSupl \0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-g-1997-232768
   date: '1997-09-30'
+- type: repealed_by
+  target: pt:dre:520873:por
+  label: 'Decreto-Lei n.º 236/97: revogação total pela norma revogatória do diploma Decreto Regulamentar n.º 53/2007 (Artigo
+    11.º, alínea a)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE
+    dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2007-05-01'
 article_structure:
   article_count: 40
   section_count: 10

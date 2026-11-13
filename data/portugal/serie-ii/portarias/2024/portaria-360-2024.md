@@ -29,11 +29,11 @@ legal_status_basis:
   source: norma_revogatoria
   evidence:
   - status: repealed
-    provenance: 'norma revogatória: pt:dre:891997309:por#n-4'
+    provenance: 'norma revogatória: pt:dre:915282910:por#n-4'
     detail: 4 - Determinar que a presente portaria revoga a [Portaria n.º 360/2024], publicada no Diário da República, 2.ª
       série, n.º 42, de 28 de fevereiro de 2024.
   - status: repealed
-    provenance: 'norma revogatória: pt:dre:915282910:por#n-4'
+    provenance: 'norma revogatória: pt:dre:891997309:por#n-4'
     detail: 4 - Determinar que a presente portaria revoga a [Portaria n.º 360/2024], publicada no Diário da República, 2.ª
       série, n.º 42, de 28 de fevereiro de 2024.
 notes: []

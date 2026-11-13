@@ -24,7 +24,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2000/09/217000000/1537915380.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:108152286:por'
+    detail: Revogado, a partir de 18.09.2017, o Plano de Pormenor da UZ2 (antigos terrenos da Cimpor) publicado pela presente
+      Declaração, na redação da Decl 177/2003 (2.ª série) de 03-mai, pelo(a) Aviso n.º 10633/2017 - Diário da República n.º
+      179/2017, Série II de 2017-09-15
 notes: []
 language: por
 version:

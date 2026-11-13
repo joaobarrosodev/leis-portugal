@@ -34,7 +34,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 129/93: revogação total pela norma revogatória do diploma Decreto-Lei n.º 148/2026 (Artigo 36.º,
+    alínea a)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:1149265697:por'
+    detail: a) O Decreto-Lei n.º 129/93, de 22 de abril, alterado pelas Leis n.os113/97, de 16 de setembro, e 62/2007, de
+      10 de setembro, e pelo Decreto-Lei n.º 204/2009 de 31 de agosto
 notes: []
 language: por
 version:
@@ -142,6 +153,13 @@ relationships:
   target: pt:dre:444447:por
   label: null
   source: http://data.dre.pt/eli/lei/30-c/1992/12/28/p/dre
+- type: repealed_by
+  target: pt:dre:1149265697:por
+  label: 'Decreto-Lei n.º 129/93: revogação total pela norma revogatória do diploma Decreto-Lei n.º 148/2026 (Artigo 36.º,
+    alínea a)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2026-07-25'
 article_structure:
   article_count: 30
   section_count: 5

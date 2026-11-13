@@ -33,7 +33,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Despacho Normativo n.º 196-A/79: revogação total pela norma revogatória do diploma Despacho Normativo n.º 95/80
+    (n.º 5), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:678248:por'
+    detail: 5 - Este despacho substitui e revoga o Despacho Normativo n.º 196-A/79, de 30 de Julho, publicado no Diário da
+      República, 1.ª série, n.º 185, de 11 de Agosto de 1979, e entra em vigor no dia imediato ao da sua publicação.
 notes: []
 language: por
 version:
@@ -91,6 +102,13 @@ relationships:
   label: Rectificado pela DECL.DD7124.06.10.1979.PCM, DR.IS [231] de 06.10.1979
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-365148
   date: '1979-10-06'
+- type: repealed_by
+  target: pt:dre:678248:por
+  label: 'Despacho Normativo n.º 196-A/79: revogação total pela norma revogatória do diploma Despacho Normativo n.º 95/80
+    (n.º 5), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1980-03-20'
 article_structure:
   article_count: 0
   section_count: 0

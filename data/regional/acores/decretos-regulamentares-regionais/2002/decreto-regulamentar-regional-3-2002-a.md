@@ -35,7 +35,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto Regulamentar Regional n.º 3/2002/A: revogação total pela norma revogatória do diploma Decreto Legislativo
+    Regional n.º 11/2006/A (Artigo 11.º, n.º 1, alínea e)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:667771:por'
+    detail: e) Decreto Regulamentar Regional n.º 3/2002/A, de 7 de Janeiro
 notes: []
 language: por
 version:
@@ -167,6 +177,13 @@ relationships:
     \ até que sejam revistos os quadros de escola.\0.\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2006-667771
   date: '2006-03-07'
+- type: repealed_by
+  target: pt:dre:667771:por
+  label: 'Decreto Regulamentar Regional n.º 3/2002/A: revogação total pela norma revogatória do diploma Decreto Legislativo
+    Regional n.º 11/2006/A (Artigo 11.º, n.º 1, alínea e)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2006-04-01'
 article_structure:
   article_count: 11
   section_count: 0

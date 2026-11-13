@@ -34,14 +34,7 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: repealed
-legal_status_basis:
-  source: norma_revogatoria
-  evidence:
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:180398388:por#art-5'
-    detail: '[Portaria n.º 167-D/2022 - Diário da República n.º 126/2022, 1º Suplemento, Série I de 2022-07-01] mantém em
-      vigor o presente artigo, a partir de 04.07.2022 e com efeitos até 04.09.2022.'
+legal_status: unknown
 notes: []
 language: por
 version:

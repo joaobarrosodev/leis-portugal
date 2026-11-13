@@ -13,7 +13,7 @@ from leis_portugal.domain.articles import number_slug, parse_articles, part_slug
 from leis_portugal.domain.entry_into_force import compute, extract
 from leis_portugal.domain.validity import label_scope, propose, repeals_in
 from leis_portugal.infrastructure.markdown import render_markdown
-from leis_portugal.services.structure import compare
+from leis_portugal.services.structure import compare, competent, plausible
 
 
 def link(label: str, path: str) -> str:
@@ -395,6 +395,67 @@ def test_repeals_read_from_the_repealing_norm():
         ("pt:dre:7:por", "total"),
         ("pt:dre:8:por", "total"),
     }
+
+
+@pytest.mark.parametrize(
+    ("text", "scope"),
+    [
+        # Excertos reais de diplomas que o DRE dá em vigor: só a revogação imediata e por inteiro conta.
+        (f"6.º Fica revogada a {link('Portaria n.º 1/80', 'portaria/1-1980-9')}, de 28 de Novembro, em tudo quanto se oponha ao presente diploma.", "parcial"),
+        (f"Findo o processo de transição fixado nos termos do artigo 31.º do Regulamento, é revogada a {link('Portaria n.º 1/80', 'portaria/1-1980-9')}, de 16 de Julho.", None),
+        (f"Concluído o processo a que se refere o n.º 24.º, é revogada a {link('Portaria n.º 1/80', 'portaria/1-1980-9')}, de 22 de Junho.", None),
+        (f"d) A {link('Portaria n.º 1/80', 'portaria/1-1980-9')}, de 16 de Julho, com efeito à data em que caduque o calendário venatório.", None),
+        (f"É revogado o {link('Decreto n.º 1/80', 'decreto/1-1980-9')}, com efeitos reportados à data da entrada em vigor da portaria prevista no artigo anterior.", None),
+        (f"São revogadas as Portarias n.os {link('1/80', 'portaria/1-1980-9')} e 2/80, a partir da data da publicação das classificações profissionais.", None),
+        (f"Ficam revogados o {link('Decreto n.º 1/80', 'decreto/1-1980-9')}, a partir do momento em que entrarem em vigor as disposições do presente decreto-lei.", None),
+        (f"É revogada a {link('Portaria n.º 1/80', 'portaria/1-1980-9')}, de 17 de fevereiro, de acordo com a calendarização de produção de efeitos fixada no artigo seguinte.", None),
+        (f"17.º É revogado o {link('Aviso n.º 1/80', 'aviso/1-1980-9')}, permanecendo, contudo, em vigor até 31 de Dezembro de 2007 relativamente às instituições.", None),
+        (f"Na data da posse dos membros do CCR é revogada a {link('Resolução n.º 1/80', 'resolucao/1-1980-9')}, de 3 de Novembro.", None),
+        (f"Fica revogada a {link('Portaria n.º 1/80', 'portaria/1-1980-9')}, de 7 de Maio, na matéria respeitante aos Aeroportos de Santa Maria.", "parcial"),
+        (f"No ponto que respeita às empresas adiante mencionadas, é revogado o {link('Despacho Normativo n.º 1/80', 'despacho/1-1980-9')}, de 19 de Janeiro.", "parcial"),
+        (f"3. Fica revogado o {link('Decreto n.º 1/80', 'decreto/1-1980-9')}, salvas as disposições transitórias dos seus artigos 27.º e 32.º.", "parcial"),
+        (f"d) A {link('Portaria n.º 1/80', 'portaria/1-1980-9')}, após a entrada em vigor da portaria referida no artigo 2.º.", None),
+        # Imediatas: continuam totais.
+        (f"Este decreto entra em vigor na data da sua publicação e revoga o {link('Decreto n.º 1/80', 'decreto/1-1980-9')}.", "total"),
+        (f"Esta portaria entra em vigor no dia imediato ao da publicação e revoga a {link('Portaria n.º 1/80', 'portaria/1-1980-9')}, de 23 de Agosto.", "total"),
+        (f"É revogada a {link('Lei n.º 1/80', 'lei/1-1980-9')}, bem como as demais disposições que se mostrem incompatíveis com o presente regime.", "total"),
+    ],
+)
+def test_deferred_and_conditional_repeals(text, scope):
+    found = {item.scope for item in repeals_in([], text, source="pt:dre:1:por") if item.target == "pt:dre:9:por"}
+    assert found == ({scope} if scope else set())
+
+
+def test_list_items_inherit_the_condition_of_the_opening_sentence():
+    text = (
+        "###### Artigo 5.º — Norma revogatória\n\nFindo o processo de transição, são revogadas:\n\n"
+        f"a) A {link('Portaria n.º 1/80', 'portaria/1-1980-9')}, de 1 de Março;\n\n"
+        f"b) A {link('Portaria n.º 2/80', 'portaria/2-1980-10')}, de 2 de Março.\n"
+    )
+    assert repeals_in(parse_articles(text), text, source="pt:dre:1:por") == []
+
+
+def test_a_regional_act_does_not_repeal_national_acts():
+    # Resolução da Assembleia Legislativa da Madeira que aprova uma proposta de lei ("É revogada a Lei n.º 30/2000"),
+    # e o DRR 5/2002/M, cuja "Portaria n.º 116/98, de 19 de Junho" (regional) o DRE liga à Portaria n.º 116/98 nacional.
+    resolution = {"jurisdiction": "regional", "document_type": "resolucao-assembleia-legislativa-regional"}
+    regional_decree = {"jurisdiction": "regional", "document_type": "decreto-regulamentar-regional"}
+    assert not competent(resolution, {"jurisdiction": "portugal", "document_type": "lei"})
+    assert not competent(regional_decree, {"jurisdiction": "portugal", "document_type": "portaria"})
+    assert competent(regional_decree, {"jurisdiction": "regional", "document_type": "portaria"})
+    assert competent({"jurisdiction": "portugal", "document_type": "lei"}, {"jurisdiction": "regional", "document_type": "portaria"})
+    assert competent(regional_decree, None)
+
+
+def test_a_repeal_needs_a_later_act_already_in_force():
+    source = {"jurisdiction": "portugal", "publication_date": "2026-09-16", "entry_into_force": {"date": "2026-09-21"}}
+    target = {"jurisdiction": "portugal", "publication_date": "1999-12-23"}
+    assert plausible(source, target, today="2026-11-13")
+    # O DL 183/2026 só entra em vigor em 2027-03-01; a Portaria 111-A/2022 é anterior ao "revogado" (nota editorial).
+    assert not plausible({**source, "entry_into_force": {"date": "2027-03-01"}}, target, today="2026-11-13")
+    assert not plausible({**source, "publication_date": "1999-01-01"}, target, today="2026-11-13")
+    assert not plausible({**source, "jurisdiction": "regional"}, target, today="2026-11-13")
+    assert plausible(source, None, today="2026-11-13")
 
 
 @pytest.mark.parametrize(

@@ -37,7 +37,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 120/85: revogação total pela norma revogatória do diploma Portaria n.º 55-A/86 (2.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:222837:por'
+    detail: 2.º Fica revogada a Portaria n.º 120/85, de 23 de Fevereiro.
 notes: []
 language: por
 version:
@@ -95,6 +104,12 @@ relationships:
   target: pt:dre:667557:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:222837:por
+  label: 'Portaria n.º 120/85: revogação total pela norma revogatória do diploma Portaria n.º 55-A/86 (2.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1986-02-18'
 article_structure:
   article_count: 0
   section_count: 0

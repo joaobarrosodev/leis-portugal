@@ -23,6 +23,16 @@ publication:
   pages: 21376-(2) a 21376-(208)
   pdf_url: https://files.diariodarepublica.pt/2s/2001/12/298000001/0000200208.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'na mesma data, estabeleceria o regime fiscal do IABA, procedendo à fusão dos Decretos-Lei n.os 117/92, de 22 de Junho,
+    e 104/93, de 5 de Abril, aperfeiçoando as normas de carácter técnico já em vigor '
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -25,7 +25,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/07/16200/17551756.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 428/77: revogação total pela norma revogatória do diploma Decreto-Lei n.º 378/80 (Artigo 40.º, n.º
+    1; Artigo 41.º), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE
+    dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:460787:por'
+    detail: 1 - São revogadas as Portarias n.os 282/73 e 428/77, respectivamente de 13 de Abril e de 15 de Julho.
 notes: []
 language: por
 version:
@@ -107,6 +117,13 @@ relationships:
   label: Rectificado o mapa I pelo(a) Declaração - Diário da República n.º 225/1977, 1º Suplemento, Série I de 1977-09-28
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-222388
   date: '1977-09-28'
+- type: repealed_by
+  target: pt:dre:460787:por
+  label: 'Portaria n.º 428/77: revogação total pela norma revogatória do diploma Decreto-Lei n.º 378/80 (Artigo 40.º, n.º
+    1; Artigo 41.º), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE
+    dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1980-09-14'
 article_structure:
   article_count: 0
   section_count: 0

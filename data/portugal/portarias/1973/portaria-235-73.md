@@ -24,7 +24,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/04/07800/05120512.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 235/73: revogação total pela norma revogatória do diploma Portaria n.º 915/73 (Ponto 3.º, alínea b)),
+    lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:411151:por'
+    detail: b) A Portaria n.º 235/73, de 2 de Abril
 notes: []
 language: por
 version:
@@ -70,6 +79,11 @@ relationships:
   target: pt:dre:249521:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:411151:por
+  label: 'Portaria n.º 235/73: revogação total pela norma revogatória do diploma Portaria n.º 915/73 (Ponto 3.º, alínea b)),
+    lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

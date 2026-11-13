@@ -24,7 +24,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/10/25201/00010019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 572/79: revogação total pela norma revogatória do diploma Decreto-Lei n.º 61/80 (Artigo 1.º, n.º 1),
+    lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:682065:por'
+    detail: 1 - São revogadas as Portarias n.os 572/79, 573/79 e 574/79, de 31 de Outubro.
 notes: []
 language: por
 version:
@@ -75,6 +84,11 @@ relationships:
   target: pt:dre:381133:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:682065:por
+  label: 'Portaria n.º 572/79: revogação total pela norma revogatória do diploma Decreto-Lei n.º 61/80 (Artigo 1.º, n.º 1),
+    lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

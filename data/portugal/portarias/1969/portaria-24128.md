@@ -25,7 +25,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/06/14200/06900691.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 24128: revogação total pela norma revogatória do diploma Portaria n.º 315/75 (n.º 6), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:336124:por'
+    detail: 6. Fica revogada a Portaria n.º 24128, de 19 de Junho de 1969.
 notes: []
 language: por
 version:
@@ -79,6 +88,11 @@ relationships:
   target: pt:dre:469869:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:336124:por
+  label: 'Portaria n.º 24128: revogação total pela norma revogatória do diploma Portaria n.º 315/75 (n.º 6), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 - type: repealed_by
   target: pt:dre:336124:por
   label: Revogada pelo(a) Portaria n.º 315/75 - Diário do Governo n.º 114/1975, Série I de 1975-05-17

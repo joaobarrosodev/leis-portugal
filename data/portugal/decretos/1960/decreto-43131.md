@@ -26,7 +26,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/08/19600/19021902.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto n.º 43131: revogação total pela norma revogatória do diploma Decreto n.º 44793 (art. 4.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:155059:por'
+    detail: É revogado o Decreto n.º 43131, de 24 Agosto de 1960.
 notes: []
 language: por
 version:
@@ -72,6 +81,11 @@ relationships:
   target: pt:dre:321313:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:155059:por
+  label: 'Decreto n.º 43131: revogação total pela norma revogatória do diploma Decreto n.º 44793 (art. 4.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

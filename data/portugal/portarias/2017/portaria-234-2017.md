@@ -38,16 +38,8 @@ entry_into_force:
 end_of_validity_date: null
 legal_status: repealed
 legal_status_basis:
-  source: norma_revogatoria
+  source: relacao_dre
   evidence:
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:124539910:por#art-41'
-    detail: 1 - São revogadas a [Portaria n.º 260/2013], de 13 de agosto, e a [Portaria n.º 234/2017], de 28 de julho, de
-      acordo com a calendarização de produção de efeitos fixada no artigo seguinte.
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:124539911:por#art-47'
-    detail: 1 - São revogadas a [Portaria n.º 260/2013], de 13 de agosto, e a [Portaria n.º 234/2017], de 28 de julho, de
-      acordo com a calendarização de produção de efeitos fixada no artigo seguinte.
   - status: repealed
     provenance: 'DRE repealed_by: pt:dre:124539910:por'
     detail: Revogada, pelo(a) Portaria n.º 294/2019 - Diário da República n.º 172/2019, Série I de 2019-09-09 de acordo com

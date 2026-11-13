@@ -26,7 +26,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/12/29700/18541854.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 23782: revogação total pela norma revogatória do diploma Portaria n.º 24047 (n.º 2.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:201641:por'
+    detail: 2.º Fica revogada a Portaria n.º 23782, de 18 de Dezembro de 1968.
 notes: []
 language: por
 version:
@@ -76,6 +85,11 @@ relationships:
   target: pt:dre:475085:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:201641:por
+  label: 'Portaria n.º 23782: revogação total pela norma revogatória do diploma Portaria n.º 24047 (n.º 2.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

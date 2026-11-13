@@ -34,13 +34,7 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: repealed
-legal_status_basis:
-  source: norma_revogatoria
-  evidence:
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:1855525:por#art-101'
-    detail: h) [Regulamento da CMVM n.º 2/2001], de 26 de Abril
+legal_status: unknown
 notes: []
 language: por
 version:
