@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:tc:decisao-sumaria:2008:196
+title: Decisão sumária do Tribunal Constitucional n.º 196/2008
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: decisao-sumaria-tribunal-constitucional
+document_type_label: Decisão sumária do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 196/2008
+official_date: '2008-04-02'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 12/08'
+- 'Formação: 2ª'
+- 'Relator: Cons. Benjamim Rodrigues'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:decisao-sumaria:2008:196
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20080196.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20080101-0200.html
+  content_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20080196.html
+  consolidated_url: null
+  retrieved_at: '2026-11-12T23:59:07Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: b860e6a8fe0dc082c066c19f040d39ee25402adb84ad393b4929f9ab1603601b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc --sumarias
+  generated_at: '2026-11-12T23:59:07Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T23:59:07Z'
+  warnings: []
+  errors: []
+---
+
+# Decisão sumária do Tribunal Constitucional n.º 196/2008
+
+DECISÃO SUMÁRIA N.º 196/2008
+
+Processo n.º 12/08
+
+2.ª Secção
+
+Relator: Conselheiro Benjamim Rodrigues
+
+1 – O Ministério Público, junto do Tribunal da Relação de Lisboa, recorre para o Tribunal Constitucional, ao abrigo do disposto na alínea g) do n.º 1 do art. 70.º e do art. 72.º, n.º 1, alínea a), e n.º 3, da Lei n.º 28/82, de 15 de Novembro, na sua actual versão (LTC), do acórdão da Relação de Lisboa, de 13 de Novembro de 2007, pedindo a apreciação da questão de constitucionalidade da norma constante “das disposições conjugadas dos art.ºs 119.º, n.º 1, alínea a), do Código Penal de 1982, e 336.º, n.º 1, do Código de Processo Penal de 1987, ambos na redacção originária, na interpretação segundo a qual a prescrição do procedimento criminal se suspende com a declaração de contumácia”, por o mesmo haver feito um juízo de constitucionalidade contrário ao que foi efectuado no Acórdão do Tribunal Constitucional n.º 110/07, em que se concluiu pela sua inconstitucionalidade, por violação do art. 29.º, n.º 1 e 3, da Constituição da República Portuguesa.
+
+2 – O acórdão recorrido concedera provimento ao recurso interposto da decisão da 2.ª Vara Criminal de Lisboa, por haver concluído, seguindo a doutrina constante do Assento do Tribunal de Justiça n.º 10/2000, relativa à interpretação de tais preceitos, que o procedimento criminal exercido contra o arguido António Carvalho Maia não se achava prescrito.
+
+3 – Porque se configura uma situação que se enquadra na hipótese recortada no n.º 1 do art. 78.º-A da LTC passa a decidir-se imediatamente.
+
+4 – Na verdade, embora com voto de vencido do aqui relator, no Acórdão n.º 183/08, disponível já em www.tribunalconstitucional.pt, o Tribunal Constitucional declarou, com força obrigatória geral, a inconstitucionalidade, “por violação do artigo 29º, nºs 1 e 3, da Constituição, da norma extraída das disposições conjugadas do artigo 119º, nº 1, alínea a), do Código Penal e do artigo 336º, nº 1, do Código de Processo Penal, ambos na redacção originária, na interpretação segundo a qual a prescrição do procedimento criminal se suspende com a declaração de contumácia”.
+
+É essa declaração de inconstitucionalidade que importa aplicar aqui, nos termos do art. 282.º, n.º 1, da Constituição.
+
+5 – Destarte, atento tudo o exposto, o Tribunal Constitucional por aplicação daquele Acórdão n.º 183/2008:
+
+a) Julga inconstitucional a norma constante das disposições conjugadas dos art.ºs 119.º, n.º 1, alínea a), do Código Penal de 1982, e 336.º, n.º 1, do Código de Processo Penal de 1987, ambos na redacção originária, na interpretação segundo a qual a prescrição do procedimento criminal se suspende com a declaração de contumácia,
+
+b) Consequentemente, concede provimento ao recurso e ordena a reforma da decisão recorrida em função do precedente juízo de inconstitucionalidade.
+
+Sem custas.
+
+Lisboa, 2 de Abril de 2008
+
+Benjamim Rodrigues

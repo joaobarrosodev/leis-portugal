@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:tc:decisao-sumaria:2007:140
+title: Decisão sumária do Tribunal Constitucional n.º 140/2007
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: decisao-sumaria-tribunal-constitucional
+document_type_label: Decisão sumária do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 140/2007
+official_date: '2007-03-19'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 464/06'
+- 'Formação: 1ª'
+- 'Relator: Cons. Pamplona Oliveira'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:decisao-sumaria:2007:140
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20070140.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20070101-0200.html
+  content_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20070140.html
+  consolidated_url: null
+  retrieved_at: '2026-11-13T00:01:49Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: e9d17a31344f7c588afdf491389f682bf442dd2dab2467e8624cd6eee3f73e25
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc --sumarias
+  generated_at: '2026-11-13T00:01:49Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-13T00:01:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decisão sumária do Tribunal Constitucional n.º 140/2007
+
+DECISÃO SUMÁRIA n.º 140/07
+
+Processo n.º 464/06
+
+1ª Secção
+
+Relator: Conselheiro Pamplona Oliveira
+
+Em 7 de Fevereiro de 2006 foi proferida sentença no 2º Juízo do Tribunal Administrativo e Fiscal de Lisboa a julgar "procedente" a oposição deduzida por A. contra a execução, por reversão, referente a contribuições em dívida à Segurança Social relativas aos meses de Setembro de 1992 a Março de 2003, movida contra o oponente pela Fazenda Pública. Em consequência, a sentença anulou o despacho determinativo da reversão e declarou extinta a execução.
+
+Para assim concluir, o Juiz julgou materialmente inconstitucionais "os artigos 23º e 24º da LGT e 160º do CPPT", com fundamento nos quais havia sido proferido o despacho que determinara a reversão, recusando, com esse fundamento, a sua aplicação ao caso concreto em análise.
+
+O Ministério Público, com invocação da alínea a) do n.º 1 do artigo 70º da Lei n.º 28/82 de 15 de Novembro (LTC), recorreu desta decisão para o Tribunal Constitucional, e o recurso foi logo admitido com subida imediata e efeito suspensivo.
+
+Cumpre apreciar.
+
+O Tribunal Constitucional já decidiu, em plenário, a questão de inconstitucionalidade que substancia o presente recurso, embora tomando como referência um quadro normativo não inteiramente coincidente (em causa estavam os artigos 43.º alínea g), 239.º n.º 2, 13.º e 246.º n.º 1 do Código de Processo Tributário e 23.º n.º 1 da Lei Geral Tributária).
+
+Fê-lo no Acórdão n.º 160/2007, ainda não publicado, mas já disponível em (www.tribunalconstitucional.pt), decidindo, ao contrário da posição tomada pelo tribunal recorrido, que as normas em análise – na parte em que permitem que, por despacho do Chefe de Serviço de Finanças, se efective a reversão no processo de execução fiscal contra responsáveis subsidiários por dívidas fiscais – não violam a Constituição.
+
+A fundamentação do Acórdão n.º 160/2007 (para o qual se remete) é inteiramente transponível para o presente caso, no qual, embora com referência aos artigos 23º e 24º da LGT e 160º do CPPT, igualmente se havia concluído pela inconstitucionalidade do regime legal que permitia que, por despacho do Chefe de Serviço de Finanças, se efective a reversão no processo de execução fiscal contra responsáveis subsidiários por à Segurança Social.
+
+Nestes termos, ao abrigo do n.º 1 do artigo 78º-A da LTC, decide-se conceder provimento aos recursos interpostos, revogando a decisão recorrida e determinando a sua reforma em conformidade com o juízo de não inconstitucionalidade que ora se formula.
+
+Lisboa, 19 de Março de 2007
+
+Carlos Pamplona de Oliveira

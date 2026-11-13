@@ -1,0 +1,133 @@
+---
+schema_version: '1.0'
+id: pt:tc:decisao-sumaria:2019:534
+title: Decisão sumária do Tribunal Constitucional n.º 534/2019
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: decisao-sumaria-tribunal-constitucional
+document_type_label: Decisão sumária do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 534/2019
+official_date: '2019-07-16'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 616/19'
+- 'Formação: 3ª'
+- 'Relator: Cons. Joana Fernandes Costa'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:decisao-sumaria:2019:534
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20190534.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20190501-0600.html
+  content_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20190534.html
+  consolidated_url: null
+  retrieved_at: '2026-11-12T23:21:00Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: cee0a6eacd09a1dacd479029bb7e7c260c3b508e9b746887b9b7d2c4bcc4fd03
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc --sumarias
+  generated_at: '2026-11-12T23:21:00Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T23:21:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decisão sumária do Tribunal Constitucional n.º 534/2019
+
+DECISÃO SUMÁRIA N.º 534/2019
+
+Processo n.º 616/2019
+
+3ª Secção
+
+Relator: Conselheira Joana Fernandes Costa
+
+DECISÃO SUMÁRIA
+
+I – Relatório
+
+1. Nos presentes autos, em que é recorrente o Ministério Público e recorrida A., S.A., foi interposto recurso, ao abrigo da alínea a) do n.º 1 do artigo 70.º da Lei do Tribunal Constitucional («LTC»), da sentença do Tribunal Administrativo e Fiscal de Aveiro, proferida em 27 de maio de 2019, que recusou a aplicação, com fundamento em inconstitucionalidade orgânica, por ofensa da reserva relativa de competência legislativa da Assembleia da República, das normas constantes dos artigos 2.º, n.º 1, 4.º, n.º 2 e 5.º, n.º 1, do Regulamento Municipal de Proteção Civil de Aveiro e, em consequência, julgou procedente a impugnação e anulou a liquidação impugnada pela ora recorrida.
+
+2. O requerimento de interposição do recurso tem o seguinte teor:
+
+«A Magistrada do Ministério Público junto deste Tribunal vem, ao abrigo do disposto nas disposições conjugadas dos art. ºs 70º, nº 1, al. a), 72º, n.ºs 1, alínea a) e 3, 75º, n.º 1, 75º­A, n.º 1 e 78º, n.º 4 da Lei 28/82, de 15/11, interpor recurso para o Tribunal Constitucional da douta sentença proferida no dia 27/05/2019, nos autos à margem referendados, com os seguintes fundamentos:
+
+1 - A douta sentença anulou a denominada Taxa Municipal de Proteção Civil, referente ao ano de 2014, que foi liquidada à Impugnante nos termos do disposto no art.º 4º, n.º 2 do Regulamento da Taxa Municipal de Proteção Civil de Aveiro, por considerar que aquela taxa é, na verdade, um imposto, cuja aprovação é da competência exclusiva da Assembleia da República, nos termos do disposto no art.º 165º, n.º 1, al. i) da Constituição da República Portuguesa.
+
+2 - Porém, a mencionada TMPC de Aveiro não foi criada por lei da Assembleia da República ou por decreto-lei autorizado do Governo, tendo sido emitida com base em normas organicamente inconstitucionais, designadamente, com base nas normas constantes dos art. ºs 2º, n.º 1, 4º, n.º 2 e 5º, n.º 1, todas do Regulamento Municipal de Proteção Civil de Aveiro,
+
+3 - Recusando, assim, a aplicação de tais normas, no caso concreto, com fundamento em inconstitucionalidade orgânica.
+
+Requer, por isso, se digne admitir o recurso ora interposto».
+
+Cumpre apreciar e decidir.
+
+II – Fundamentação
+
+3. O presente recurso foi interposto ao abrigo da alínea a) do n.º 1 do artigo 70.º da LTC, tendo por objeto as normas constantes Regulamento da Taxa Municipal de Proteção Civil de Aveiro que se encontram na génese da criação da Taxa Municipal de Proteção Civil de Aveiro, as quais se extraem dos artigos 2.º, n.º 1, 4.º, n.º 2 e 5.º, n.º 1, daquele regulamento municipal.
+
+A exata questão que constitui objeto do presente recurso foi já apreciada pelo Tribunal Constitucional no Acórdão n.º 366/2019, que julgou inconstitucional «as normas constantes dos artigos 2.º, n.º 1, 4.º, n.º 2, e 5.º, n.º 1, do Regulamento da Taxa Municipal de Proteção Civil de Aveiro», uma vez que «a TMPCA não pode ser juridicamente qualificada como taxa; trata[ndo]-se, ao invés, de um verdadeiro imposto, cuja aprovação é da exclusiva responsabilidade da Assembleia da República, nos termos da alínea i) do n.º 1 do artigo 165.º da Constituição», ainda que numa situação em que estava em causa a aplicação do tributo a entidades gestoras de estruturas inseridas em outros ramos de atividade.
+
+Tal como é fácil de concluir, a circunstância de o ato de liquidação impugnado no âmbito do processo-base ter tido por destinatária uma sociedade concessionária de serviço público de redes e serviços de comunicações eletrónicas é insuscetível de justificar qualquer desvio ao juízo aí exposto.
+
+O Tribunal considerou que «a agregação dos gastos municipais com o serviço de proteção civil, através de critérios não concretamente objetivados, seguida da sua imputação (também) à [ali] recorrida, na qualidade de entidade gestora de infraestrutura integrante da rede ferroviária nacional, impedem que, a partir da estrutura do tributo, se consiga delimitar a relação comutativa pressuposta por qualquer taxa».
+
+Isso mesmo foi reconhecido já por este Tribunal nas Decisões Sumárias n.ºs 226/2019, 253/2019, 262/2019, 272/2019, 272/2019, 295/2019 e 492/2019, que se pronunciaram pela inconstitucionalidade orgânica das normas do referido Regulamento da Taxa Municipal de Proteção Civil de Aveiro, também em situações que estava em causa a aplicação do tributo a entidades gestoras de estruturas inseridas em diferentes ramos de atividade.
+
+Reafirmando uma vez mais tal orientação, cumpre julgar inconstitucionais, nos termos do disposto no n.º 1 do artigo 78.º-A da LTC, as normas objeto do presente recurso, com base nos fundamentos constantes do Acórdão n.º 366/2019.
+
+III – Decisão
+
+Em face do exposto, decide-se:
+
+a) Julgar inconstitucionais as normas constantes dos artigos 2.º, n.º 1, 4.º, n.º 2, e 5.º, n.º 1, do Regulamento da Taxa Municipal de Proteção Civil de Aveiro;
+
+e, em consequência,
+
+b) Negar provimento ao presente recurso.
+
+Sem custas.
+
+Lisboa, 16 de julho de 2019 - Joana Fernandes Costa

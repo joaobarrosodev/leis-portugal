@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:tc:decisao-sumaria:2012:36
+title: Decisão sumária do Tribunal Constitucional n.º 36/2012
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: decisao-sumaria-tribunal-constitucional
+document_type_label: Decisão sumária do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 36/2012
+official_date: '2012-01-23'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 905/11'
+- 'Formação: 3ª'
+- 'Relator: Cons. Vítor Gomes'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:decisao-sumaria:2012:36
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20120036.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20120001-0100.html
+  content_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20120036.html
+  consolidated_url: null
+  retrieved_at: '2026-11-12T23:45:38Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: 2c6593c0cbedd0961429f0ad0eafefbb11dd33efe9c43576e15757c6372f7a20
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc --sumarias
+  generated_at: '2026-11-12T23:45:38Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T23:45:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decisão sumária do Tribunal Constitucional n.º 36/2012
+
+DECISÃO SUMÁRIA N.º 36/2012
+
+Processo n.º 905/11
+
+3ª Secção
+
+Relator: Conselheiro Vítor Gomes
+
+DECISÃO SUMÁRIA
+
+Recorrente: Ministério Público
+
+Recorridos: A.
+
+1. Por sentença de 18 de outubro de 2011, o Tribunal Administrativo e Fiscal de Leiria recusou aplicação, por violação dos princípios constitucionais da culpa, da igualdade e da proporcionalidade, à norma do n.º 1 do artigo 8.º do Regime Geral das Infrações Tributárias (RGIT), aprovado pela Lei n.º 15/2001, de 5 de junho, interpretado com o sentido de que aí se consagra uma responsabilização subsidiária pelas coimas que se efetiva através do mecanismo da reversão da execução fiscal contra gerentes e administradores da sociedade devedora.
+
+O Ministério Público interpôs recurso obrigatório desta decisão, nos termos dos artigos 70.º, n.º 1, alínea a) e 72.º, n.º 3, da Lei n.º 28/82, de 15 de novembro (LTC).
+
+2. Sucede que, pelo Acórdão n.º 437/11, disponível em www.tribunalconstitucional.pt, tendo ponderado todos os argumentos que determinaram a decisão recorrida quanto à questão de constitucionalidade, o Plenário do Tribunal Constitucional decidiu não julgar inconstitucional a norma que é objeto do presente recurso.
+
+É este entendimento que aqui se reitera.
+
+3. Decisão
+
+Pelo exposto, concedendo provimento ao recurso no uso dos poderes conferidos pelo n.º 1 do artigo 78.º-A da LTC, decide-se:
+
+a) Não julgar inconstitucional a referida norma;
+
+b) Determinar a reforma da decisão recorrida em conformidade com o agora decidido quanto à questão de constitucionalidade.
+
+c) Sem custas.
+
+Lisboa, 23 de janeiro de 2012.- Vítor Gomes.
