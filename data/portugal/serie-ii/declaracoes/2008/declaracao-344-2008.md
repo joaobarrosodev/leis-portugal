@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2008/10/202000000/4244142442.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Declaração n.º 344/2008: revogação total pela norma revogatória do diploma Declaração n.º 63/2024/2 (Artigo 12.º
+    (e 13.º entrada em vigor no dia seguinte)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:885385211:por'
+    detail: É revogada a Declaração n.º 344/2008, de 17 de outubro, Regulamento dos CCO.
 notes: []
 language: por
 version:
@@ -79,6 +89,12 @@ relationships:
   target: pt:dre:539218:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:885385211:por
+  label: 'Declaração n.º 344/2008: revogação total pela norma revogatória do diploma Declaração n.º 63/2024/2 (Artigo 12.º
+    (e 13.º entrada em vigor no dia seguinte)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 12
   section_count: 0

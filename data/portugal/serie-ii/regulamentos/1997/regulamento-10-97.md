@@ -24,7 +24,17 @@ publication:
   pdf_url: null
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Regulamento n.º 10/97: revogação total pela norma revogatória do diploma Regulamento da CMVM n.º 20/2000 (Artigo
+    7.º / 8.º), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:1721841:por'
+    detail: É revogado o Regulamento n.º 10/97 da Comissão do Mercado de Valores Mobiliários.
 notes:
 - 'Fonte sem texto: o DRE não tem texto eletrónico nem PDF deste diploma; o registo tem só os metadados (verificado em 2026-10-26).'
 language: por
@@ -70,7 +80,13 @@ subjects:
 - Fundo de Investimento Mobiliário
 - Prémio de Rendibilidade
 - Regulamento
-relationships: []
+relationships:
+- type: repealed_by
+  target: pt:dre:1721841:por
+  label: 'Regulamento n.º 10/97: revogação total pela norma revogatória do diploma Regulamento da CMVM n.º 20/2000 (Artigo
+    7.º / 8.º), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

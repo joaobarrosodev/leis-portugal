@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Oliveira do Bairro (Resolução do Conselho de Ministros n.º 80/99), em vigor desde
+    1999-08-03 (regra supletiva do 5.º dia após a publicação, Lei n.º 74/98, art. 2.º, n.º 2, sem cláusula própria). O DRE
+    dá a Portaria n.º 134/86 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:346082:por'
+    detail: Ratificar a revisão do Plano Director Municipal de Oliveira do Bairro.
 notes: []
 language: por
 version:
@@ -102,6 +112,13 @@ relationships:
   target: pt:dre:392388:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:346082:por
+  label: Substituído pela revisão do PDM de Oliveira do Bairro (Resolução do Conselho de Ministros n.º 80/99), em vigor desde
+    1999-08-03 (regra supletiva do 5.º dia após a publicação, Lei n.º 74/98, art. 2.º, n.º 2, sem cláusula própria). O DRE
+    dá a Portaria n.º 134/86 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1999-08-03'
 article_structure:
   article_count: 0
   section_count: 0

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 13969 - 13974
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/059000000/1396913974.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-03-25'
+entry_into_force:
+  date: '2011-03-25'
+  rule: no dia imediato ao da sua publicação no Diário da República, e tem um prazo de vigência de 10 anos, podendo ser revisto
+    sempre que a Câmara Municipal considere que se tornaram inadequadas as disposiçõ
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

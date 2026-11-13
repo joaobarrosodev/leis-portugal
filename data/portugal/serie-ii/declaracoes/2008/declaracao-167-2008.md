@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 19354 - 19361
   pdf_url: https://files.diariodarepublica.pt/2s/2008/04/083000000/1935419361.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-04-30'
+entry_into_force:
+  date: '2008-04-30'
+  rule: no dia imediato ao da sua publicação no Diário da República e tem um prazo de vigência de 10 anos, podendo ser revisto
+    nos termos legais
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

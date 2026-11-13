@@ -18,7 +18,7 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - os: macos-14
+          - os: macos-latest
             ficheiro: Leis-de-Portugal-mac.zip
           - os: windows-latest
             ficheiro: Leis-de-Portugal-windows.zip

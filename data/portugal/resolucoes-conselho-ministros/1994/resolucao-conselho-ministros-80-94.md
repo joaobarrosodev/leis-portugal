@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado pela revisão do PDM de Armamar (Aviso n.º 12387/2016), em vigor desde 2016-10-11 (cláusula de entrada em
+    vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 80/94 como em vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:75492471:por'
+    detail: O PDM de Armamar entra em vigor no dia seguinte ao da sua publicação no Diário da República, revogando automaticamente
+      o PDM ratificado pela Resolução de Conselho de Ministros n.º 80/94, de 10 de setembro.
 notes: []
 language: por
 version:
@@ -119,6 +129,12 @@ relationships:
   target: pt:dre:475547:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:75492471:por
+  label: Revogado pela revisão do PDM de Armamar (Aviso n.º 12387/2016), em vigor desde 2016-10-11 (cláusula de entrada em
+    vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 80/94 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2016-10-11'
 article_structure:
   article_count: 57
   section_count: 16

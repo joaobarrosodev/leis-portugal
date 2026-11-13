@@ -24,7 +24,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/07/15800/10071008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 21403: revogação total pela norma revogatória do diploma Portaria n.º 1014/83 (N.º 10.º), lida no
+    texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:442952:por'
+    detail: 10.º Fica revogada a Portaria n.º 21403, de 17 de Julho de 1965.
 notes: []
 language: por
 version:
@@ -70,6 +79,12 @@ relationships:
   target: pt:dre:296180:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:442952:por
+  label: 'Portaria n.º 21403: revogação total pela norma revogatória do diploma Portaria n.º 1014/83 (N.º 10.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1983-12-08'
 article_structure:
   article_count: 0
   section_count: 0

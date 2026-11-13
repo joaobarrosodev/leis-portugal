@@ -25,7 +25,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/05/12500/12711288.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 42994: revogação total pela norma revogatória do diploma Decreto-Lei n.º 538/79 (Art. 20.º, n.º
+    1, al. d) (art. 21.º: entra em vigor no dia imediato ao da publicação)), lida no texto e verificada na amostra de 2026-11-13
+    (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:230891:por'
+    detail: d) O Decreto-Lei n.º 42994, de 28 de Maio de 1960
 notes: []
 language: por
 version:
@@ -87,6 +97,13 @@ relationships:
   target: pt:dre:418637:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:230891:por
+  label: 'Decreto-Lei n.º 42994: revogação total pela norma revogatória do diploma Decreto-Lei n.º 538/79 (Art. 20.º, n.º
+    1, al. d) (art. 21.º: entra em vigor no dia imediato ao da publicação)), lida no texto e verificada na amostra de 2026-11-13
+    (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1980-01-01'
 article_structure:
   article_count: 0
   section_count: 0

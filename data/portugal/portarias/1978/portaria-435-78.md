@@ -25,7 +25,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/17600/15861586.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 435/78: revogação total pela norma revogatória do diploma Portaria n.º 329/82 (Artigo 12.º), lida
+    no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:608213:por'
+    detail: É revogada a Portaria n.º 435/78, de 2 de Agosto.
 notes: []
 language: por
 version:
@@ -86,6 +95,12 @@ relationships:
   label: "Revogada pela PORT.329/82.1982.03.27.MAS, DR.IS [72]\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/329-1982-608213
   date: '1982-03-27'
+- type: repealed_by
+  target: pt:dre:608213:por
+  label: 'Portaria n.º 435/78: revogação total pela norma revogatória do diploma Portaria n.º 329/82 (Artigo 12.º), lida no
+    texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1982-04-01'
 article_structure:
   article_count: 0
   section_count: 0

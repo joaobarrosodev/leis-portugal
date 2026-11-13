@@ -34,7 +34,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Alcácer do Sal (Aviso n.º 13020/2017), em vigor desde 2017-10-31 (cláusula de
+    entrada em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 25/94 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:114123401:por'
+    detail: a Assembleia Municipal de Alcácer do Sal, em sessão realizada em 26 de setembro de 2017, deliberou aprovar, por
+      unanimidade, a proposta final da revisão do Plano Diretor Municipal de Alcácer do Sal, não sujeito a ratificação, incluindo
+      o regulamento, a planta de ordenamento e a planta de condicionantes.
 notes: []
 language: por
 version:
@@ -159,6 +170,12 @@ relationships:
   target: pt:dre:624389:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:114123401:por
+  label: Substituído pela revisão do PDM de Alcácer do Sal (Aviso n.º 13020/2017), em vigor desde 2017-10-31 (cláusula de
+    entrada em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 25/94 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2017-10-31'
 article_structure:
   article_count: 33
   section_count: 6

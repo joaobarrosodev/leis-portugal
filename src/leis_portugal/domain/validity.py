@@ -38,7 +38,6 @@ class Repeal:
     source: str
     article: str | None
     text: str
-
     def to_dict(self) -> dict[str, str | None]:
         return {"target": self.target, "scope": self.scope, "source": self.source, "article": self.article, "text": self.text}
 
@@ -92,13 +91,24 @@ _CONTEXT_WORDS = re.compile(
 _CONDITIONAL = re.compile(
     r"a\s+partir\s+d[ao]s?\s+(?:entrada\s+em\s+vigor|publica[çc][ãa]o|in[íi]cio)|com\s+a\s+entrada\s+em\s+vigor|"
     r"transitoriamente|at[ée]\s+(?:à|a)\s+(?:entrada|publica|aprova)|mantendo-se|mant[ée]m-se|continua(?:m)?\s+(?:em\s+vigor|a\s+aplicar)|"
-    r"na\s+data\s+(?:da|de)\s+entrada\s+em\s+vigor|produz(?:indo)?\s+efeitos\s+(?:a\s+partir|em|no|na)|n[ãa]o\s+(?:é|são)\s+revogad",
+    r"na\s+data\s+d[ao]s?\s+(?!sua\s+publica|publica[çc][ãa]o\s+d[oa]\s+presente)|produz(?:indo)?\s+efeitos\s+(?:a\s+partir|em|no|na)|n[ãa]o\s+(?:é|são)\s+revogad|"
+    # Diferidas: "Findo o processo de transição…", "Concluído o processo…", "a partir do momento em que…",
+    # "com efeito à data da entrada em vigor da regulamentação", "de acordo com a calendarização…".
+    r"\bfind[oa]s?\s+(?:o|a|os|as)\b|\bconclu[íi]d[oa]s?\s+(?:o|a|os|as)\b|a\s+partir\s+do\s+momento|"
+    r"a\s+partir\s+da\s+data\s+(?:da|de|em)\s+(?!sua\s+publica|publica[çc][ãa]o\s+d[oa]\s+presente)|"
+    r"com\s+efeitos?\s+(?:reportados?\s+)?(?:(?:à|a)\s+data|após|a\s+partir\s+da\s+(?:entrada|publica))|calendariza[çc]|"
+    r"\bdependente\b|\bpermanecendo\b|mant[êée]m(?:-se)?\s+(?:em\s+vigor|aplic[áa]ve|a\s+vig)|vig[êe]ncia\s+transit|"
+    r"at[ée]\s+que\b|at[ée]\s+(?:à|ao)\s+(?:altera|aprova|publica|entrada|revis)|repristin|\bcaduque\b|"
+    r"em\s+rela[çc][ãa]o\s+(?:à|ao|às|aos)\b|ap[óo]s\s+a\s+(?:entrada\s+em\s+vigor|publica[çc][ãa]o)\s+d[oa]s?\s+(?!presente)",
     re.IGNORECASE,
 )
 _LINK_URL = re.compile(r"\]\([^)]*\)")
 _CLAUSE_PARTIAL = re.compile(
     r"\bna\s+parte\b|\bnas\s+partes\b|com\s+exce|\bexce[tp]to\b|\bsalvo\b|em\s+tudo\s+o\s+que|ressalvad|à\s+exce|"
-    r"sem\s+preju[íi]zo|\bparcialmente\b|\bapenas\s+(?:o|a|os|as|n[ao])\b|no\s+que\s+(?:respeita|se\s+refere|diz\s+respeito)",
+    r"sem\s+preju[íi]zo|\bparcialmente\b|\bapenas\s+(?:o|a|os|as|n[ao])\b|no\s+que\s+(?:respeita|se\s+refere|diz\s+respeito)|"
+    # "em tudo quanto se oponha ao presente diploma", "na matéria respeitante a…", "quanto às disposições…".
+    r"em\s+tudo\s+quanto|tudo\s+o\s+que\s+(?:contrari|se\s+op)|na\s+mat[ée]ria|\bquanto\s+(?:à|ao|às|aos)\b|no\s+ponto\s+que|"
+    r"\bsalv[ao]s\s+(?:as|os)\b|na\s+medida\s+em\s+que|\ba\s+parte\s+que",
     re.IGNORECASE,
 )
 _AFTER_PARTIAL = re.compile(
@@ -163,16 +173,23 @@ def repeals_in(articles: list[Article], text: str, *, source: str) -> list[Repea
     found: dict[tuple[str, str], Repeal] = {}
     for anchor, block, epigraph in blocks:
         listing = False
+        intro = ""
         for paragraph in _unquoted_paragraphs(block):
             has_verb = bool(_REPEAL_VERB.search(paragraph))
-            in_context = epigraph or has_verb or (listing and _LIST_ITEM.match(paragraph))
+            item = listing and bool(_LIST_ITEM.match(paragraph))
+            in_context = epigraph or has_verb or item
             if has_verb:
                 listing = paragraph.rstrip().endswith(":")
-            elif not (listing and _LIST_ITEM.match(paragraph)):
+                intro = paragraph
+            elif not item:
                 listing = listing and epigraph
+                intro = ""
             if not in_context:
                 continue
-            for repeal in _paragraph_repeals(paragraph, source=source, article=anchor):
+            # Os itens de uma lista ("São revogados: a) …") herdam a condição da frase que a abre
+            # ("Findo o processo de transição…, são revogadas:").
+            lead = intro if (item and not has_verb) else ""
+            for repeal in _paragraph_repeals(paragraph, source=source, article=anchor, lead=lead):
                 key = (repeal.target, repeal.scope)
                 found.setdefault(key, repeal)
     # Total e parcial do mesmo diploma no mesmo texto: fica a total só se não houver dúvida.
@@ -184,13 +201,18 @@ def repeals_in(articles: list[Article], text: str, *, source: str) -> list[Repea
     return result
 
 
-def _paragraph_repeals(paragraph: str, *, source: str, article: str | None) -> list[Repeal]:
+def _paragraph_repeals(paragraph: str, *, source: str, article: str | None, lead: str = "") -> list[Repeal]:
     repeals: list[Repeal] = []
     links = list(_DRE_LINK.finditer(paragraph))
     # Os URLs das ligações ficam tapados (mesmo comprimento): o ":" de "https:" não separa itens.
     masked = _LINK_URL.sub(lambda match: "](" + "x" * (len(match.group()) - 3) + ")", paragraph)
     verb = _REPEAL_VERB.search(masked)
     start = verb.end() if verb else 0
+    # O que vem antes do verbo (ou a frase que abre a lista) também pode diferir ou limitar a revogação.
+    lead = _LINK_URL.sub("]", lead) + " " + (masked[: verb.start()] if verb else "")
+    if _CONDITIONAL.search(lead):
+        return []
+    lead_partial = bool(_CLAUSE_PARTIAL.search(lead))
     context_item: int | None = None
     for index, link in enumerate(links):
         if verb and link.start() < verb.start():
@@ -210,7 +232,7 @@ def _paragraph_repeals(paragraph: str, *, source: str, article: str | None) -> l
             context_item = item_start
         elif context_item == item_start and index and _filler_only(segment):
             scope = None
-        if scope == "total" and _CLAUSE_PARTIAL.search(_LINK_URL.sub("]", clause)):
+        if scope == "total" and (lead_partial or _CLAUSE_PARTIAL.search(_LINK_URL.sub("]", clause))):
             # "O Decreto-Lei n.º 350/88, de 30 de setembro, com excepção dos artigos 5.º e 6.º"
             scope = "parcial"
         if scope is None:

@@ -35,7 +35,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 405/2000: revogação total pela norma revogatória do diploma Portaria n.º 890/2003 (n.º 2.º), lida
+    no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:632724:por'
+    detail: 2.º É revogada a Portaria n.º 405/2000, de 17 de Julho.
 notes: []
 language: por
 version:
@@ -111,6 +120,12 @@ relationships:
   label: "Revogada pela PORT.890/2003.2003.08.26.MF DR.IS-B [196]\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-2003-632724
   date: '2003-08-26'
+- type: repealed_by
+  target: pt:dre:632724:por
+  label: 'Portaria n.º 405/2000: revogação total pela norma revogatória do diploma Portaria n.º 890/2003 (n.º 2.º), lida no
+    texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2003-08-31'
 article_structure:
   article_count: 0
   section_count: 0

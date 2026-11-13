@@ -36,11 +36,8 @@ entry_into_force:
 end_of_validity_date: null
 legal_status: repealed
 legal_status_basis:
-  source: norma_revogatoria
+  source: relacao_dre
   evidence:
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:1172560828:por#art-5'
-    detail: É revogada a [Portaria n.º 36/2018], de 26 de janeiro, e revogado o [Despacho n.º 5635-A/2014], de 28 de abril.
   - status: repealed
     provenance: 'DRE repealed_by: pt:dre:1172560828:por'
     detail: Revogada, a partir de 20 de dezembro de 2026, a presente portaria, pelo(a) Portaria n.º 433-B/2026/1 - Diário

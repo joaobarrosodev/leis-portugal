@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/08/19100/10811086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto n.º 393/70: revogação total pela norma revogatória do diploma Decreto-Lei n.º 75/74 (Art. 56.º, alínea
+    u)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em
+    vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:261929:por'
+    detail: u) O Decreto n.º 393/70, de 19 de Agosto
 notes: []
 language: por
 version:
@@ -88,6 +98,12 @@ relationships:
   label: "Revogado pelo DEC LEI.75/74.28.02.1974.MECO, DG.IS [50-Supl] de 28.02.1974\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1974-261929
   date: '1974-02-28'
+- type: repealed_by
+  target: pt:dre:261929:por
+  label: 'Decreto n.º 393/70: revogação total pela norma revogatória do diploma Decreto-Lei n.º 75/74 (Art. 56.º, alínea u)),
+    lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1974-06-28'
 article_structure:
   article_count: 0
   section_count: 0

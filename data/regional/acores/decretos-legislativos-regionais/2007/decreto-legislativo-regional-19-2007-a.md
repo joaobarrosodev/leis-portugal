@@ -27,7 +27,7 @@ entry_into_force:
   date: null
   rule: no 1.º dia útil seguinte ao da sua publicação
   method: clausula
-  article: art-41
+  article: art-43
   effects_date: null
   effects_rule: null
   end_date: null

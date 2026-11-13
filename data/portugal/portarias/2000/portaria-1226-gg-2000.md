@@ -27,7 +27,7 @@ entry_into_force_dates:
 - '2001-01-01'
 entry_into_force:
   date: '2001-01-01'
-  rule: no dia 1 de Janeiro de 2001 e a Comissão de Protecção de Crianças e Jovens inicia funções no dia 1 de Fevereiro de
+  rule: no dia 1 de Janeiro de 2001 e a comissão de protecção de crianças e jovens inicia funções no dia 1 de Fevereiro de
     2001
   method: clausula
   article: n-9

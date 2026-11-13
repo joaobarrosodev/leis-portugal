@@ -24,7 +24,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/10/22800/25532554.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto Regional n.º 22/79/M: revogação total pela norma revogatória do diploma Decreto Regional n.º 12/81/M (Art.
+    5.º), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em
+    vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:573679:por'
+    detail: Pelo presente diploma fica revogado o Decreto Regional n.º 22/79/M, de 2 de Outubro, e demais legislação regional
+      sobre o assunto.
 notes: []
 language: por
 version:
@@ -70,7 +81,14 @@ subjects:
 - Multa
 - Poluição Sonora
 - Regulamento
-relationships: []
+relationships:
+- type: repealed_by
+  target: pt:dre:573679:por
+  label: 'Decreto Regional n.º 22/79/M: revogação total pela norma revogatória do diploma Decreto Regional n.º 12/81/M (Art.
+    5.º), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em
+    vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1981-05-22'
 article_structure:
   article_count: 0
   section_count: 0

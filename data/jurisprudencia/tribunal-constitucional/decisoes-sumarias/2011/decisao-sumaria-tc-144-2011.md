@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:tc:decisao-sumaria:2011:144
+title: Decisão sumária do Tribunal Constitucional n.º 144/2011
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: decisao-sumaria-tribunal-constitucional
+document_type_label: Decisão sumária do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 144/2011
+official_date: '2011-03-01'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 130/11'
+- 'Formação: 1ª'
+- 'Relator: Cons. José Borges Soeiro'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:decisao-sumaria:2011:144
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20110144.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20110101-0200.html
+  content_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20110144.html
+  consolidated_url: null
+  retrieved_at: '2026-11-12T23:48:24Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: 0297915ffcf8fbefb9684c555e0aa39913aa484931fbd1b5503c4c2b558ee3f6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc --sumarias
+  generated_at: '2026-11-12T23:48:24Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T23:48:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decisão sumária do Tribunal Constitucional n.º 144/2011
+
+DECISÃO SUMÁRIA N.º 144/2011
+
+Processo n.º 130/11
+
+1.ª Secção
+
+Relator: Conselheiro José Borges Soeiro
+
+Decisão Sumária nos termos do artigo 78.º-A, n.º 1, da Lei n.º 28/82, de 15 de Novembro
+
+I – Relatório
+
+1. A., indiciado pela prática de um crime de condução de veículo em estado de embriaguez, foi absolvido pelo Tribunal Judicial da Lousã, “ (…) em virtude da inconstitucionalidade orgânica do disposto nos artigos 152.º, n.º 3, 153.º, n.º 8 e 156.º, n.º 2 do Código da Estrada.”
+
+2. O Exmo. Magistrado do Ministério Público junto do referido Tribunal, interpôs recurso para o Tribunal Constitucional da “ (…) sentença proferida nos autos em epígrafe, na parte em que recusou a aplicação das normas constantes dos artigos 152.º, n.º 3, 153.º, n.º 8 e 156.º, n.º 2 do Código da Estrada com fundamento na sua inconstitucionalidade orgânica, vem nos termos do disposto nos artigos 3.º, n.º 1, als. c) e f), e n.º 2 da Lei n.º 47/86 de 15/10 e artigos 70.º, n.º 1, al. a), 72.º, n.º 1, al. a) e n.º 3, e 75.º da Lei n.º 28/82 de 15/11, com as alterações introduzidas pela Lei n.º 13/A/98 de 26 de Fevereiro.”
+
+Cumpre decidir.
+
+II – Fundamentação
+
+3. Não obstante o Ministério Público ter pedido a apreciação do artigo 153.º, n.º 8 do Código da Estrada, o facto é que, e como se disse no recente Acórdão proferido por este Tribunal Constitucional, n.º 479/2010 (disponível em www.tribunalconstitucional.pt):
+
+“ (…) não tem qualquer efeito útil a apreciação da constitucionalidade de norma cuja recusa pela decisão recorrida não integre a sua ratio decidendi, surgindo a mesma apenas como um argumento ad ostentationem.
+
+Na decisão em apreço estava em questão saber se era possível valorar os resultados de exame de pesquisa de álcool no sangue recolhido ao arguido em hospital, após este ter sido interveniente num acidente, na condução de um veículo automóvel, sem este ter sido previamente informado que a recolha de sangue tinha como finalidade essa pesquisa.
+
+A decisão recorrida entendeu que para determinar a validade daquele meio de prova, obtido da forma referida, era necessário verificar se era possível o arguido recu­sar-se a ser submetido a tal exame, tendo procurado a resposta a essa questão na conjuga­ção do disposto nos artigos 156.º, n. 2, e 152.º, n.º 3, do Código da Estrada, na redac­ção do Decreto-Lei n.º 44/2005, de 23 de Fevereiro, cuja aplicação recusou, com funda­mento na sua inconstitucionalidade orgânica.
+
+Já o constante do artigo 153.º, n.º 8, do mesmo diploma, não tinha qualquer aplicação a esta hipótese, uma vez que o exame em causa foi realizado na sequência de um acidente de viação, cujo regime tem uma previsão específica no referido artigo 156.º, não se apli­cando o regime do artigo 153.º, o qual regula a fiscalização da condução sob o efeito de álcool em situações em que não ocorreu qualquer acidente. A referência a este preceito pela decisão recorrida inseriu-se apenas num enquadramento sistemático do regime legal da matéria em discussão, não resultando da sua aplicação a solução encon­trada.
+
+Não tendo, pois, assumido relevância para a decisão da causa a recusa de aplicação do disposto no artigo 153.º, n.º 8, do Código da Estrada, não há interesse em apreciar a sua constitucionalidade.
+
+O Ministério Público também suscitou a questão da utilidade do conhecimento do recurso, perante a alegada existência de um segundo fundamento da decisão recor­rida, além da recusa de aplicação daquelas normas por inconstitucionalidade, que consis­tiria na ilegalidade da prova pericial, devido à colheita de sangue ter sido efectuada sem ter sido dado conhecimento ao arguido da finalidade probatória dessa colheita.
+
+Ora, apesar da construção da decisão recorrida ser algo equivoca, da sua lei­tura parece resultar que, mesmo que se considerasse aplicável o disposto nos artigos 156.º, n.º 2, e 152.º, n.º 3, do Código da Estrada, na redacção, do Decreto-Lei n.º 44/2005, de 23 de Fevereiro, a prova pericial realizada seria também ilegal, por falta de conheci­mento do arguido da finalidade da recolha do sangue objecto de análise.
+
+Contudo, apesar de se poder intuir da decisão recorrida este entendimento, ela recusou a aplicação daquelas normas, uma vez que as considerou afectadas pelo vício da inconstitucionalidade orgânica, tendo aplicado em sua substituição o anteriormente disposto no Código da Estrada, na redacção do Decreto-Lei n.º 2/98, de 3 de Janeiro.
+
+Assim, mantém toda a utilidade o conhecimento do mérito do recurso, uma vez que, em caso de não ser confirmado o juízo de inconstitucionalidade constante da decisão recorrida, a mesma terá de ser reformulada, pelo menos, na sua fundamentação.
+
+Por estas razões, cumpre proceder à fiscalização da constitucionalidade orgâ­nica dos artigos 152.º, n.º 3, e 156.º, n.º 2, do Código da Estrada, na redacção do Decreto-Lei n.º 44/2005, de 23 de Fevereiro, na parte em que não admitem a possibili­dade da pessoa interveniente em acidente recusar-se a ser submetida a recolha de sangue para detecção do estado de influenciado pelo álcool, tipificando tal recusa como um crime de desobediência.”
+
+4. Assim sendo, sobre a concreta questão de constitucionalidade que se perfila nos autos exarou recentemente este Tribunal o já citado Acórdão n.º 479/2010 e ainda o n.º 487/2010 (também disponível em www.tribunalconstitucional.pt), decidindo não julgar organicamente inconstitucionais as normas dos artigos 152.º, n.º 3 e 156.º, n.º 2, do Código da Estrada.
+
+É esta a jurisprudência que cumpre agora reiterar, para ela se remetendo inteiramente.
+
+III – Decisão
+
+5. Assim, em aplicação do exarado nos aludidos arestos, decide-se:
+
+a) Não conhecer do recurso na parte referente ao artigo 153.º, n.º 8 do Código da Estrada;
+
+b) Não julgar organicamente inconstitucionais, as normas dos artigos 152.º, n.º 3 e 156.º, n.º 2 do Código da Estrada e,
+
+c) Ordenar a reforma da decisão recorrida em conformidade com o agora decidido quanto à questão de constitucionalidade.
+
+Sem custas.
+
+Lisboa, 1 de Março de 2011.
+
+José Borges Soeiro

@@ -34,7 +34,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Carregal do Sal (Resolução do Conselho de Ministros n.º 171/2001), em vigor desde
+    2001-12-26 (regra supletiva do 5.º dia após a publicação, Lei n.º 74/98, art. 2.º, n.º 2, sem cláusula própria). O DRE
+    dá a Resolução do Conselho de Ministros n.º 22/94 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:537584:por'
+    detail: Ratificar a revisão do Plano Director Municipal de Carregal do Sal, publicando-se em anexo o Regulamento e as
+      plantas de ordenamento e de condicionantes, que fazem parte integrante desta resolução.
 notes: []
 language: por
 version:
@@ -169,6 +180,13 @@ relationships:
   target: pt:dre:631400:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:537584:por
+  label: Substituído pela revisão do PDM de Carregal do Sal (Resolução do Conselho de Ministros n.º 171/2001), em vigor desde
+    2001-12-26 (regra supletiva do 5.º dia após a publicação, Lei n.º 74/98, art. 2.º, n.º 2, sem cláusula própria). O DRE
+    dá a Resolução do Conselho de Ministros n.º 22/94 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2001-12-26'
 article_structure:
   article_count: 27
   section_count: 6

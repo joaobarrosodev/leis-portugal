@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 31971 - 31971
   pdf_url: https://files.diariodarepublica.pt/2s/2013/10/208000000/3197131971.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-10-29'
+entry_into_force:
+  date: '2013-10-29'
+  rule: no dia seguinte ao da publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

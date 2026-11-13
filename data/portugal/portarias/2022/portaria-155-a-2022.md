@@ -34,15 +34,7 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: repealed
-legal_status_basis:
-  source: norma_revogatoria
-  evidence:
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:180398388:por#art-5'
-    detail: '[Artigo 3.º, Portaria n.º 155-A/2022 - Diário da República n.º 108/2022, 1º Suplemento, Série I de 2022-06-03]
-      mantém em vigor o art. 4.º da Portaria n.º 140-A/2022, de 29 de abril, o qual mantém em vigor os arts. 4.º e 5.º do
-      presente diploma, a partir de 06.06.2022 e com efeitos até 19.06.2022.'
+legal_status: unknown
 notes: []
 language: por
 version:

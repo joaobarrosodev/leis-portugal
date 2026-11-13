@@ -35,15 +35,7 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: repealed
-legal_status_basis:
-  source: norma_revogatoria
-  evidence:
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:70236274:por#art-36'
-    detail: '[Artigo 13.º, Decreto-Lei n.º 101-F/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07]
-      O n.º 3 do artigo 36.º da Lei n.º 146/2015, de 9 de setembro, na redação dada pelo presente decreto-lei, não se aplica
-      a inspeções de renovação realizadas antes da entrada em vigor do p'
+legal_status: unknown
 notes: []
 language: por
 version:

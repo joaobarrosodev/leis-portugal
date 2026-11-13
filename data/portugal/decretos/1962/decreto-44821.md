@@ -25,7 +25,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/12/29700/18871887.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto n.º 44821: revogação total pela norma revogatória do diploma Decreto n.º 44889 (Art. 2.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:193261:por'
+    detail: Em consequência do disposto no artigo anterior, fica revogado o Decreto n.º 44821, já citado.
 notes: []
 language: por
 version:
@@ -71,6 +80,11 @@ relationships:
   target: pt:dre:164618:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:193261:por
+  label: 'Decreto n.º 44821: revogação total pela norma revogatória do diploma Decreto n.º 44889 (Art. 2.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

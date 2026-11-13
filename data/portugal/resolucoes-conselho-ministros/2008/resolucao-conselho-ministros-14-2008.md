@@ -31,8 +31,8 @@ entry_into_force:
   rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
   method: supletiva
   article: null
-  effects_date: '2008-01-24'
-  effects_rule: na data da sua publicação
+  effects_date: null
+  effects_rule: null
   end_date: null
   end_rule: null
 end_of_validity_date: null

@@ -35,7 +35,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 373/99: revogação total pela norma revogatória do diploma Portaria n.º 597/2000 (4.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:337257:por'
+    detail: 4.º É revogada a Portaria n.º 373/99, de 21 de Maio.
 notes: []
 language: por
 version:
@@ -106,6 +115,12 @@ relationships:
   label: "Revogada pela PORT.597/2000.2000.08.14.MDN DR.IS [187]\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/597-2000-337257
   date: '2000-08-14'
+- type: repealed_by
+  target: pt:dre:337257:por
+  label: 'Portaria n.º 373/99: revogação total pela norma revogatória do diploma Portaria n.º 597/2000 (4.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2000-08-19'
 article_structure:
   article_count: 0
   section_count: 0

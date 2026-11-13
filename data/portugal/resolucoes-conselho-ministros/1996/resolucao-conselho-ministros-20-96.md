@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Grândola (Aviso n.º 15049/2017), em vigor desde 2017-12-15 (cláusula de entrada
+    em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 20/96 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:114352488:por'
+    detail: a Assembleia Municipal de Grândola, na sua 4.ª sessão ordinária realizada a 19 de setembro de 2017, deliberou
+      por maioria aprovar a 1.ª revisão do Plano Diretor Municipal de Grândola
 notes: []
 language: por
 version:
@@ -250,6 +260,12 @@ relationships:
   target: pt:dre:645302:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:114352488:por
+  label: Substituído pela revisão do PDM de Grândola (Aviso n.º 15049/2017), em vigor desde 2017-12-15 (cláusula de entrada
+    em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 20/96 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2017-12-15'
 article_structure:
   article_count: 38
   section_count: 9

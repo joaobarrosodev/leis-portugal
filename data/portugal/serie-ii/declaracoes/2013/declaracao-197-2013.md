@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 30146 - 30147
   pdf_url: https://files.diariodarepublica.pt/2s/2013/10/191000000/3014630147.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-10-04'
+entry_into_force:
+  date: '2013-10-04'
+  rule: no dia seguinte ao da publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

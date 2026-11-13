@@ -25,10 +25,10 @@ publication:
 entry_into_force_dates:
 - '1986-09-15'
 entry_into_force:
-  date: '1986-09-15'
-  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
-  method: supletiva
-  article: null
+  date: null
+  rule: depois de assinado pelas entidades outorgantes e de homologado pelo Ministro do Trabalho e Segurança Social
+  method: clausula
+  article: n-2
   effects_date: null
   effects_rule: null
   end_date: null

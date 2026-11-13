@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:tc:decisao-sumaria:2011:175
+title: Decisão sumária do Tribunal Constitucional n.º 175/2011
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: decisao-sumaria-tribunal-constitucional
+document_type_label: Decisão sumária do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 175/2011
+official_date: '2011-03-14'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 202/11'
+- 'Formação: 3ª'
+- 'Relator: Cons. Vítor Gomes'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:decisao-sumaria:2011:175
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20110175.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20110101-0200.html
+  content_url: https://www.tribunalconstitucional.pt/tc/decsumarias/20110175.html
+  consolidated_url: null
+  retrieved_at: '2026-11-12T23:48:31Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: e94aeccbaad84b3c568a9d95efd9c0fbd9df667581be4d24aacb365cbda4c0ba
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc --sumarias
+  generated_at: '2026-11-12T23:48:31Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T23:48:31Z'
+  warnings: []
+  errors: []
+---
+
+# Decisão sumária do Tribunal Constitucional n.º 175/2011
+
+DECISÃO SUMÁRIA N.º 175/2011
+
+Processo n.º 202/11
+
+3ª Secção
+
+Relator: Conselheiro Vítor Gomes
+
+DECISÃO SUMÁRIA
+
+Recorrente: Ministério Público
+
+Recorrido: A., Lda.
+
+1. O Ministério Público interpôs recurso, ao abrigo dos artigos 70.º, n.º 1, alínea a) e 72.º, n.ºs 1, alínea a) e 3 da Lei n.º 28/82, de 15 de Novembro, do acórdão do Supremo Tribunal Administrativo (Pleno – 2ª Secção Tributária) que recusou a aplicação à norma constante do § 7º da Portaria n.º 234/97, de 4 de Abril, e, consequentemente, julgou procedente a impugnação, anulando a liquidação impugnada.
+
+2. A questão que é objecto de presente recurso foi já objecto de apreciação pelo Plenário do Tribunal Constitucional no acórdão n.º 176/10, publicado no Diário da República, II Série, de 28 de Junho de 2010, aliás seguido no acórdão recorrido.
+
+Nesse acórdão decidiu-se “julgar organicamente inconstitucional, por violação dos artigos 103.º, n.º 2, e 165.º, n.º 1, alínea i), da Constituição (na sua numeração actual), a norma do § 7.º da Portaria n.º 234/97, de 4 de Abril, na medida em que responsabiliza os proprietários ou os responsáveis legais pela exploração dos postos autorizados para a venda ao público do gasóleo colorido e marcado pelo pagamento do ISP resultante da diferença entre a taxa do imposto aplicável ao gasóleo rodoviário e a taxa do imposto aplicável ao gasóleo colorido e marcado, em relação às quantidades que venderem e que não fiquem documentadas no sistema de controlo subjacente à obrigatoriedade de a venda ser feita a titulares de cartões com microcircuito”.
+
+É este entendimento que, fazendo aplicação da doutrina do referido acórdão Plenário, se reitera.
+
+3. Pelo exposto, nega-se provimento ao recurso, confirmando a decisão recorrida no que à referida questão de constitucionalidade respeita.
+
+Sem custas.
+
+Lisboa, 14 de Março de 2011.- Vítor Gomes.

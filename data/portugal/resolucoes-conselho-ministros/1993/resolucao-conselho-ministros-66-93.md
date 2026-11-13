@@ -34,7 +34,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Nelas (Aviso n.º 33/2014), em vigor desde 2014-01-03 (cláusula de entrada em
+    vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 66/93 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:1950564:por'
+    detail: deliberou por unanimidade, aprovar a versão final da revisão do Plano Diretor Municipal de Nelas
 notes: []
 language: por
 version:
@@ -258,6 +267,12 @@ relationships:
   target: pt:dre:631400:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:1950564:por
+  label: Substituído pela revisão do PDM de Nelas (Aviso n.º 33/2014), em vigor desde 2014-01-03 (cláusula de entrada em vigor
+    do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 66/93 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2014-01-03'
 article_structure:
   article_count: 94
   section_count: 20

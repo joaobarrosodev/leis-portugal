@@ -35,7 +35,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Regulamento n.º 717/2026: revogação total pela norma revogatória do diploma Regulamento n.º 1324-A/2026 (Artigo
+    21.º / 22.º), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:1179982900:por'
+    detail: É revogado o Regulamento n.º 717/2026, de 9 de junho, na sua redação atual.
 notes: []
 language: por
 version:
@@ -146,6 +156,13 @@ relationships:
     Suplemento, Série II de 2026-10-13
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/regulamento/1324-a-2026-1179982900
   date: '2026-10-13'
+- type: repealed_by
+  target: pt:dre:1179982900:por
+  label: 'Regulamento n.º 717/2026: revogação total pela norma revogatória do diploma Regulamento n.º 1324-A/2026 (Artigo
+    21.º / 22.º), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2026-10-23'
 article_structure:
   article_count: 21
   section_count: 7

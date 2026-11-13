@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado pela revisão do PDM de Viseu (Aviso n.º 12115/2013), em vigor desde 2013-10-01 (cláusula de entrada em
+    vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 173/95 como em vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:1597499:por'
+    detail: São revogados todos os planos municipais de ordenamento do território, anteriores à entrada em vigor do presente
+      plano, com exceção dos correspondentes às UOPG 1.
 notes: []
 language: por
 version:
@@ -461,6 +471,12 @@ relationships:
     DR.IS-B [42] de 19/Fev/2003 3
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/23-2003-190591
   date: '2003-01-23'
+- type: repealed_by
+  target: pt:dre:1597499:por
+  label: Revogado pela revisão do PDM de Viseu (Aviso n.º 12115/2013), em vigor desde 2013-10-01 (cláusula de entrada em vigor
+    do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 173/95 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2013-10-01'
 article_structure:
   article_count: 60
   section_count: 24

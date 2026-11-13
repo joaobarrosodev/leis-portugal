@@ -35,7 +35,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto Regulamentar Regional n.º 16/99/M: revogação total pela norma revogatória do diploma Decreto Regulamentar
+    Regional n.º 11/2002/M (Artigo 27.º / 28.º), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:188489:por'
+    detail: São revogados os Decretos Regulamentares Regionais n.os 7/93/M, de 27 de Março, 13/96/M, de 17 de Outubro, e 16/99/M,
+      de 30 de Novembro, bem como a Portaria n.º 7/98, de 4 de Fevereiro.
 notes: []
 language: por
 version:
@@ -120,6 +131,13 @@ relationships:
   label: "Revogado pelo DRR.11/2002/M.2002.06.19.PG-RAM DR.IS-B [169] de 24/Jul/2002\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2002-188489
   date: '2002-06-19'
+- type: repealed_by
+  target: pt:dre:188489:por
+  label: 'Decreto Regulamentar Regional n.º 16/99/M: revogação total pela norma revogatória do diploma Decreto Regulamentar
+    Regional n.º 11/2002/M (Artigo 27.º / 28.º), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2002-07-25'
 article_structure:
   article_count: 5
   section_count: 0

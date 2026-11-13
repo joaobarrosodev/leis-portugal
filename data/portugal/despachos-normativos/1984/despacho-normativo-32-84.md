@@ -35,7 +35,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Despacho Normativo n.º 32/84: revogação total pela norma revogatória do diploma Portaria n.º 1141-D/95 (n.º 55.º,
+    al. a)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:672133:por'
+    detail: a) O Despacho Normativo n.º 32/84, de 9 de Fevereiro, e suas alterações constantes dos Despachos Normativos n.os
+      112/84, de 28 de Maio, 23/85, de 8 de Abril, 11-A/86, de 12 de Fevereiro e 1-A/95, de 6 de Janeiro
 notes: []
 language: por
 version:
@@ -209,6 +220,12 @@ relationships:
   label: Retificado pelo(a) Declaração - Diário da República n.º 77/1984, 2º Suplemento, Série I de 1984-03-31
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-631462
   date: '1984-03-31'
+- type: repealed_by
+  target: pt:dre:672133:por
+  label: 'Despacho Normativo n.º 32/84: revogação total pela norma revogatória do diploma Portaria n.º 1141-D/95 (n.º 55.º,
+    al. a)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 - type: repealed_by
   target: pt:numero:portaria:1141-D/95
   label: REVOGADO A PARTIR DO ANO ESCOLAR DE 1997-1998, PELA PORT 1141-D/95 DE 15-SET DR.IS-B [214]2SUPL
