@@ -38,11 +38,8 @@ entry_into_force:
 end_of_validity_date: null
 legal_status: repealed
 legal_status_basis:
-  source: norma_revogatoria
+  source: relacao_dre
   evidence:
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:1162304245:por#art-33'
-    detail: d) [Portaria n.º 65/2021], de 17 de março.
   - status: repealed
     provenance: 'DRE repealed_by: pt:dre:1162304245:por'
     detail: Revogada, a partir de 28 de agosto de 2026, com efeitos a 31 de dezembro de 2026, pelo(a) Portaria n.º 394/2026/1

@@ -24,7 +24,19 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/117b00/27102724.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela 2.ª revisão do PDM de Braga (Aviso n.º 11741/2015), em vigor desde 2015-10-15 (art. 114.º). A 1.ª
+    revisão (Resolução do Conselho de Ministros n.º 9/2001) tinha mantido em vigor os artigos 71.º, 73.º, 79.º, 80.º e 81.º
+    do Regulamento de 1994; a 2.ª revisão aprova um Regulamento novo para todo o concelho e revoga o PDM de 2001 (art. 113.º,
+    alínea a)). O DRE dá a Resolução do Conselho de Ministros n.º 35/94 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:70686085:por'
+    detail: a Assembleia Municipal de Braga deliberou, na sua Reunião de 26 de junho de 2015, aprovar a 2.ª Revisão do Plano
+      Diretor Municipal de Braga
 notes: []
 language: por
 version:
@@ -165,6 +177,14 @@ relationships:
   target: pt:dre:613898:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:70686085:por
+  label: Substituído pela 2.ª revisão do PDM de Braga (Aviso n.º 11741/2015), em vigor desde 2015-10-15 (art. 114.º). A 1.ª
+    revisão (Resolução do Conselho de Ministros n.º 9/2001) tinha mantido em vigor os artigos 71.º, 73.º, 79.º, 80.º e 81.º
+    do Regulamento de 1994; a 2.ª revisão aprova um Regulamento novo para todo o concelho e revoga o PDM de 2001 (art. 113.º,
+    alínea a)). O DRE dá a Resolução do Conselho de Ministros n.º 35/94 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2015-10-15'
 article_structure:
   article_count: 103
   section_count: 15

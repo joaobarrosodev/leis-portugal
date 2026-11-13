@@ -26,7 +26,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/08/20100/12301230.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto n.º 48543: revogação total pela norma revogatória do diploma Decreto-Lei n.º 376/77 (Art. 25.º), lida no
+    texto e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:286493:por'
+    detail: Ficam revogados o Decreto-Lei n.º 47892 e o Decreto n.º 48543, respectivamente de 4 de Setembro de 1967 e 26 de
+      Agosto de 1968.
 notes: []
 language: por
 version:
@@ -72,6 +83,13 @@ relationships:
   target: pt:dre:390474:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:286493:por
+  label: 'Decreto n.º 48543: revogação total pela norma revogatória do diploma Decreto-Lei n.º 376/77 (Art. 25.º), lida no
+    texto e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1977-09-05'
 article_structure:
   article_count: 0
   section_count: 0

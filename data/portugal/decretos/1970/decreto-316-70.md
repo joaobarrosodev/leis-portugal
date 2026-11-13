@@ -25,7 +25,19 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/07/15800/08960897.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto n.º 316/70: revogação total pela norma revogatória do diploma Decreto n.º 368/73 (Art. 57.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:421868:por'
+    detail: Ficam revogados os Decretos n.os 46421, de 5 de Julho de 1965, 47239, de 4 de Outubro de 1966, e 48333, de 15
+      de Abril de 1968, artigo 8.º do Decreto n.º 48883, de 28 de Fevereiro de 1969, e Decretos n.os 316/70, de 9 de Julho,
+      e 514/71, de 22 de Novembro.
 notes: []
 language: por
 version:
@@ -79,6 +91,12 @@ relationships:
   target: pt:dre:478197:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:421868:por
+  label: 'Decreto n.º 316/70: revogação total pela norma revogatória do diploma Decreto n.º 368/73 (Art. 57.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

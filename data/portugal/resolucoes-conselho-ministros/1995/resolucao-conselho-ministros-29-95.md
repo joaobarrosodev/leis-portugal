@@ -34,7 +34,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela 1.ª revisão do PDM de Bragança (Aviso n.º 12248-A/2010, publicado a 2010-06-18), em vigor desde
+    2010-06-21 (o Regulamento entra em vigor no dia útil seguinte ao da publicação). O DRE dá a Resolução do Conselho de Ministros
+    n.º 29/95 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:1774742:por'
+    detail: a Assembleia Municipal de Bragança aprovou, em 19 de Março de 2010, a proposta final de revisão do Plano Director
+      Municipal de Bragança.
 notes: []
 language: por
 version:
@@ -334,6 +345,13 @@ relationships:
   target: pt:dre:678600:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:1774742:por
+  label: Substituído pela 1.ª revisão do PDM de Bragança (Aviso n.º 12248-A/2010, publicado a 2010-06-18), em vigor desde
+    2010-06-21 (o Regulamento entra em vigor no dia útil seguinte ao da publicação). O DRE dá a Resolução do Conselho de Ministros
+    n.º 29/95 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2010-06-21'
 article_structure:
   article_count: 94
   section_count: 21

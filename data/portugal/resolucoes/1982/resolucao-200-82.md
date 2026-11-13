@@ -24,7 +24,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/25700/37353736.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Resolução n.º 200/82: revogação total pela norma revogatória do diploma Decreto-Lei n.º 404/83 (Art. 18.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:443738:por'
+    detail: É revogada a Resolução n.º 200/82, de 30 de Setembro, publicada no Diário da República, 1.ª série, de 6 de Novembro
+      seguinte.
 notes: []
 language: por
 version:
@@ -70,7 +81,14 @@ subjects:
 - Fraude Comercial
 - GNR
 - Guarda Fiscal
-relationships: []
+relationships:
+- type: repealed_by
+  target: pt:dre:443738:por
+  label: 'Resolução n.º 200/82: revogação total pela norma revogatória do diploma Decreto-Lei n.º 404/83 (Art. 18.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1983-11-22'
 article_structure:
   article_count: 0
   section_count: 0

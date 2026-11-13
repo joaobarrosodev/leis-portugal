@@ -99,6 +99,34 @@ def test_explicit_target_with_other_document_is_a_collision(repo_root: Path):
         acervo.save(_record("pt:dre:200:por"), "# B", target=first.path)
 
 
+def test_concurrent_saves_of_different_documents_to_one_path_collide(repo_root: Path):
+    """Sem o trinco por ficheiro, as duas threads viam o caminho livre e a segunda gravava
+    por cima da primeira, sem erro (o teste do `collect eurlex` com 2 workers era instável)."""
+    import threading
+    import time
+
+    acervo = Acervo(repo_root)
+    target = repo_root / "data/portugal/decretos-leis/2020/decreto-lei-1-2020.md"
+    target.parent.mkdir(parents=True)
+    # O `enrich` corre entre ver se o ficheiro existe e gravá-lo: a pausa abre a janela da corrida.
+    policy = SavePolicy(enrich=lambda _record, _body: time.sleep(0.05))
+    outcomes: list[str] = []
+
+    def save(record_id: str) -> None:
+        try:
+            acervo.save(_record(record_id), "# x", target=target, policy=policy)
+            outcomes.append("gravado")
+        except StorageError:
+            outcomes.append("colisão")
+
+    threads = [threading.Thread(target=save, args=(record_id,)) for record_id in ("pt:dre:100:por", "pt:dre:200:por")]
+    for thread in threads:
+        thread.start()
+    for thread in threads:
+        thread.join()
+    assert sorted(outcomes) == ["colisão", "gravado"]
+
+
 def test_eu_paths_use_celex_year_and_base_type(repo_root: Path):
     acervo = Acervo(repo_root)
     record = LegalRecord.from_dict(record_dict(

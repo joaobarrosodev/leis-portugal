@@ -25,7 +25,19 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1956/07/14400/10861086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 40681: revogação total pela norma revogatória do diploma Decreto-Lei n.º 427/72 (Artigo 43.º),
+    lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o
+    DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:291607:por'
+    detail: Decreto-Lei n.º 24949, de 10 de Janeiro de 1935, Decreto-Lei n.º 26695, de 16 de Junho de 1936, Decreto-Lei n.º
+      26890, de 14 de Agosto de 1936, Decreto n.º 27148, de 30 de Outubro de 1936, Decreto-Lei n.º 27286, de 24 de Novembro
+      de 1936, Decreto-Lei n.º 28009, de 3 de Setembro de 1937,
 notes: []
 language: por
 version:
@@ -68,7 +80,14 @@ reuse:
 subjects:
 - Comissão Reguladora do Comércio de Cereais do Arquipélago dos Açores
 - Ministério da Economia
-relationships: []
+relationships:
+- type: repealed_by
+  target: pt:dre:291607:por
+  label: 'Decreto-Lei n.º 40681: revogação total pela norma revogatória do diploma Decreto-Lei n.º 427/72 (Artigo 43.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1973-01-01'
 article_structure:
   article_count: 0
   section_count: 0

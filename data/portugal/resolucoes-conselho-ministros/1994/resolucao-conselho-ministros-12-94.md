@@ -34,7 +34,20 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Substituído pela 1.ª revisão do PDM de Condeixa-a-Nova (Aviso n.º 11025/2015), que só produz efeitos depois da
+    portaria de delimitação da REN do município: Portaria n.º 31/2016, publicada a 2016-02-23 e eficaz no dia seguinte (art.
+    3.º). A data conta desde a eficácia da portaria; o artigo final do Regulamento, que fala da publicação do aviso, cede
+    à condição expressa do aviso.'
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:70402820:por'
+    detail: A 1.ª Revisão do Plano Diretor Municipal de Condeixa-a-Nova produzirá efeitos no dia seguinte à aprovação da delimitação
+      da Reserva Ecológica Nacional do Município de Condeixa-a-Nova, por portaria do membro do Governo responsável pela área
+      do ambiente e do ordenamento do território.
 notes: []
 language: por
 version:
@@ -281,6 +294,14 @@ relationships:
   target: pt:dre:662331:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:70402820:por
+  label: 'Substituído pela 1.ª revisão do PDM de Condeixa-a-Nova (Aviso n.º 11025/2015), que só produz efeitos depois da portaria
+    de delimitação da REN do município: Portaria n.º 31/2016, publicada a 2016-02-23 e eficaz no dia seguinte (art. 3.º).
+    A data conta desde a eficácia da portaria; o artigo final do Regulamento, que fala da publicação do aviso, cede à condição
+    expressa do aviso.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2016-02-24'
 article_structure:
   article_count: 93
   section_count: 21

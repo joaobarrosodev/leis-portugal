@@ -34,7 +34,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 963/83: revogação total pela norma revogatória do diploma Portaria n.º 120/84 (n.º 4.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:661323:por'
+    detail: 4.º Ficam revogadas as Portarias n.os 917/82, 1353/82 e 963/83, de 29 de Setembro, de 31 de Dezembro e 7 de Novembro,
+      respectivamente.
 notes: []
 language: por
 version:
@@ -101,6 +112,13 @@ relationships:
   label: "Revogada pela PORT.120/84.1984.02.23.MES DR.IS [46]\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/120-1984-661323
   date: '1984-02-23'
+- type: repealed_by
+  target: pt:dre:661323:por
+  label: 'Portaria n.º 963/83: revogação total pela norma revogatória do diploma Portaria n.º 120/84 (n.º 4.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1984-02-28'
 article_structure:
   article_count: 0
   section_count: 0

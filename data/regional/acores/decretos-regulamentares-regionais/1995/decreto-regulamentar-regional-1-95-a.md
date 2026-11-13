@@ -24,7 +24,19 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/026b00/05860586.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto Regulamentar Regional n.º 1/95/A: revogação total pela norma revogatória do diploma Decreto Regulamentar
+    Regional n.º 21/98/A (Art. 16.º (Cap. IV)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c,
+    reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:423891:por'
+    detail: São revogados o Decreto Regulamentar Regional n.º 10/92/A, de 4 de Março, o Decreto Regulamentar Regional n.º
+      22/93/A, de 23 de Novembro, o Decreto Regulamentar Regional n.º 1/95/A, de 31 de Janeiro e o Decreto Regulamentar Regional
+      n.º 24/96/A, de 14 de Junho, cessando, para todos os efeito
 notes: []
 language: por
 version:
@@ -79,6 +91,13 @@ relationships:
   target: pt:dre:674448:por
   label: null
   source: http://data.dre.pt/eli/decregulreg/22/1993/11/23/a/dre
+- type: repealed_by
+  target: pt:dre:423891:por
+  label: 'Decreto Regulamentar Regional n.º 1/95/A: revogação total pela norma revogatória do diploma Decreto Regulamentar
+    Regional n.º 21/98/A (Art. 16.º (Cap. IV)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c,
+    reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1998-07-14'
 article_structure:
   article_count: 2
   section_count: 0

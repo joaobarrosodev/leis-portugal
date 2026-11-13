@@ -88,6 +88,13 @@ class Acervo:
         self.schema = SchemaValidator(self.root)
         self._index: dict[str, Path] | None = None
         self._lock = threading.Lock()
+        self._path_locks: dict[Path, threading.Lock] = {}
+        self._path_locks_lock = threading.Lock()
+
+    def _path_lock(self, path: Path) -> threading.Lock:
+        """Um trinco por ficheiro: ler o que lá está e gravar por cima é uma só operação entre threads."""
+        with self._path_locks_lock:
+            return self._path_locks.setdefault(path, threading.Lock())
 
     # --------------------------------------------------------------------- caminhos
 
@@ -241,7 +248,12 @@ class Acervo:
         record.add_relationships()
         self.validate(record)
         target = target or self.locate(record)
+        # Sem o trinco, duas threads com registos diferentes no mesmo caminho viam ambas o
+        # ficheiro por criar e a segunda gravava por cima da primeira, sem a colisão.
+        with self._path_lock(target):
+            return self._save_at(record, body, target, policy)
 
+    def _save_at(self, record: LegalRecord, body: str, target: Path, policy: SavePolicy) -> WriteResult:
         action = "written"
         if target.exists():
             existing, existing_body = self.read(target)
@@ -351,6 +363,11 @@ def _preserve_derived(new: LegalRecord, existing: LegalRecord) -> None:
         new.legal_status_basis = {**basis, "dre_status": new.legal_status}
         new.legal_status = existing.legal_status
         new.add_relationships(manual)
+    elif basis.get("source") == "norma_revogatoria_contra_dre":
+        # A norma revogatória de outro diploma, num segmento de precisão medida, sobrepõe-se ao estado do
+        # DRE da mesma forma: o que a fonte diz agora fica em `dre_status`.
+        new.legal_status_basis = {**basis, "dre_status": new.legal_status}
+        new.legal_status = existing.legal_status
     elif new.legal_status == "unknown" and basis:
         new.legal_status, new.legal_status_basis = existing.legal_status, existing.legal_status_basis
 

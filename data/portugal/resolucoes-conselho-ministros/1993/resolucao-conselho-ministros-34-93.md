@@ -34,7 +34,20 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Substituído pela 1.ª revisão do PDM de Vila Nova de Poiares (Aviso n.º 706/2014), que só produz efeitos depois
+    da portaria de delimitação da REN do município: Portaria n.º 215/2014, publicada a 2014-10-16 e eficaz no dia seguinte
+    (art. 3.º). A data conta desde a eficácia da portaria; o artigo final do Regulamento, que fala da publicação do aviso,
+    cede à condição expressa do aviso.'
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:2147473:por'
+    detail: A 1.ª Revisão do Plano Diretor Municipal de Vila Nova de Poiares produzirá efeitos no dia seguinte à aprovação
+      da delimitação da Reserva Ecológica Nacional do Município de Vila Nova de Poiares, por portaria do membro do Governo
+      responsável pela área do ambiente e do ordenamento do território.
 notes: []
 language: por
 version:
@@ -214,6 +227,14 @@ relationships:
   target: pt:dre:303606:por
   label: RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 143/93, DE 29 DE JULHO, PUBLICADA NO DR.IS-B, 178, DE 930731. 30731.
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/143-1993-303606
+- type: repealed_by
+  target: pt:dre:2147473:por
+  label: 'Substituído pela 1.ª revisão do PDM de Vila Nova de Poiares (Aviso n.º 706/2014), que só produz efeitos depois da
+    portaria de delimitação da REN do município: Portaria n.º 215/2014, publicada a 2014-10-16 e eficaz no dia seguinte (art.
+    3.º). A data conta desde a eficácia da portaria; o artigo final do Regulamento, que fala da publicação do aviso, cede
+    à condição expressa do aviso.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2014-10-17'
 article_structure:
   article_count: 69
   section_count: 17

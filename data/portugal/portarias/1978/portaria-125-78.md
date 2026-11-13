@@ -25,7 +25,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/05300/04610472.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 125/78: revogação total pela norma revogatória do diploma Portaria n.º 26-A/79 (n.º 3), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:574750:por'
+    detail: 3 - É revogada a Portaria n.º 125/78, de 4 de Março.
 notes: []
 language: por
 version:
@@ -77,6 +87,12 @@ relationships:
   target: pt:dre:574750:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:574750:por
+  label: 'Portaria n.º 125/78: revogação total pela norma revogatória do diploma Portaria n.º 26-A/79 (n.º 3), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 - type: repealed_by
   target: pt:dre:574750:por
   label: "Revogada pela PORT.26-A/79.24.01.1979.MEIC, DR.IS [20-Supl] de 24.01.1979\09\0"

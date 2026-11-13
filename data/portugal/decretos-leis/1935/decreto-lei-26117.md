@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1935/11/27201/17921797.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 26117: revogação total pela norma revogatória do diploma Decreto-Lei n.º 339/98 (Artigo 23.º (norma
+    revogatória)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:223017:por'
+    detail: a) O Decreto-Lei n.º 26117, de 23 de Novembro de 1935
 notes: []
 language: por
 version:
@@ -199,6 +209,13 @@ relationships:
   label: "Revogado pelo DEC LEI.339/98.1998.11.03.MEPAT, DR.IS-A [254]\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-1998-223017
   date: '1998-11-03'
+- type: repealed_by
+  target: pt:dre:223017:por
+  label: 'Decreto-Lei n.º 26117: revogação total pela norma revogatória do diploma Decreto-Lei n.º 339/98 (Artigo 23.º (norma
+    revogatória)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1998-12-03'
 - type: repealed_by
   target: pt:dre:392034:por
   label: "Revogado, no que se refere à Junta Autónoma dos Portos do Norte, pelo DEC LEI.242/99.1999.06.28.MEPAT, DR.IS-A [148]\0\

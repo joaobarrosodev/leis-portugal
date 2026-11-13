@@ -26,7 +26,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/02/03100/02090210.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 46861: revogação total pela norma revogatória do diploma Decreto-Lei n.º 47470 (Art. 10.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:488097:por'
+    detail: Fica revogado o Decreto-Lei n.º 46861, de 7 de Fevereiro de 1966.
 notes: []
 language: por
 version:
@@ -85,6 +95,13 @@ relationships:
   target: pt:dre:685992:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:488097:por
+  label: 'Decreto-Lei n.º 46861: revogação total pela norma revogatória do diploma Decreto-Lei n.º 47470 (Art. 10.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1967-01-01'
 article_structure:
   article_count: 0
   section_count: 0

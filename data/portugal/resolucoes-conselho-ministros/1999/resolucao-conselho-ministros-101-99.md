@@ -24,7 +24,20 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/210b00/62406249.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Substituído pela 1.ª revisão do PDM de Penacova (Aviso n.º 9079/2015), que só produz efeitos depois da portaria
+    de delimitação da REN do município: Portaria n.º 73/2016, publicada a 2016-04-06 e eficaz no dia seguinte (art. 3.º).
+    A data conta desde a eficácia da portaria; o artigo final do Regulamento, que fala da publicação do aviso, cede à condição
+    expressa do aviso.'
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:70027211:por'
+    detail: Mais se torna público que a 1.ª Revisão do Plano Diretor Municipal de Penacova produzirá efeitos no dia seguinte
+      à aprovação da delimitação da Reserva Ecológica Nacional do Município de Penacova, por portaria do membro do Governo
+      responsável pela área do ambiente e do ordenamento do território
 notes: []
 language: por
 version:
@@ -399,6 +412,14 @@ relationships:
   target: pt:dre:668278:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:70027211:por
+  label: 'Substituído pela 1.ª revisão do PDM de Penacova (Aviso n.º 9079/2015), que só produz efeitos depois da portaria
+    de delimitação da REN do município: Portaria n.º 73/2016, publicada a 2016-04-06 e eficaz no dia seguinte (art. 3.º).
+    A data conta desde a eficácia da portaria; o artigo final do Regulamento, que fala da publicação do aviso, cede à condição
+    expressa do aviso.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2016-04-07'
 article_structure:
   article_count: 47
   section_count: 11

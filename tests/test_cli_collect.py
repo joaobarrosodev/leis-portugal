@@ -53,7 +53,7 @@ def test_collect_eurlex_by_dates_and_existing(repo_root: Path, monkeypatch, caps
     assert run(repo_root, "collect", "eurlex", "--date", "2022-12-27", "--types", "L", "--workers", "2") == 0
     assert "Atos recolhidos: 2" in capsys.readouterr().out
     assert run(repo_root, "collect", "eurlex", "--existing") == 0
-    assert "1 ato(s) da UE no acervo a atualizar" in capsys.readouterr().err
+    assert "2 ato(s) da UE no acervo a atualizar" in capsys.readouterr().err
 
 
 def test_collect_eurlex_referenced_by_portuguese_law(repo_root: Path, monkeypatch, capsys):

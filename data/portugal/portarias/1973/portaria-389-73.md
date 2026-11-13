@@ -34,7 +34,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 389/73: revogação total pela norma revogatória do diploma Decreto-Lei n.º 530/79 (Artigo 51.º, alínea
+    c)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:231286:por'
+    detail: c) O Decreto-Lei n.º 32651, de 2 de Fevereiro de 1943, o Decreto-Lei n.º 33527, de 12 de Fevereiro de 1944, as
+      Portarias n.os 287/70, de 16 de Junho, 377/73, de 30 de Maio, 389/73, de 1 de Junho, e 4/77, de 5 de Janeiro
 notes: []
 language: por
 version:
@@ -97,6 +108,13 @@ relationships:
     \ conforme o disposto no art. 2º do Dec Lei 81/80, de 19 de Abril)\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/530-1979-231286
   date: '1979-12-31'
+- type: repealed_by
+  target: pt:dre:231286:por
+  label: 'Portaria n.º 389/73: revogação total pela norma revogatória do diploma Decreto-Lei n.º 530/79 (Artigo 51.º, alínea
+    c)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1980-01-01'
 - type: repealed_by
   target: pt:dre:405702:por
   label: "Revogada pelo DEC LEI.74-C/84.1984.03.02.PCM DR.IS [53]2ºSupl\0\0"

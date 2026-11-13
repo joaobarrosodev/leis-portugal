@@ -830,3 +830,246 @@ def test_manual_proof_without_the_quoted_sentence_is_refused(repo_root: Path, ca
     assert _structure(repo_root) != 0
     assert message in capsys.readouterr().err
     assert old.read_text(encoding="utf-8") == before
+
+
+# ------------------------------------------- norma revogatória contra o in_force do DRE
+
+
+def test_editorial_notes_and_lists_under_a_repealing_epigraph_repeal_nothing():
+    # Aviso n.º 13300/2013 (PDM da Figueira da Foz), art. 66.º: depois da revogação do PGU, a lista de imóveis classificados.
+    pdm = (
+        "###### Artigo 66.º — Norma revogatória\n\n"
+        "É revogado o Plano Geral de Urbanização da Figueira da Foz, aprovado por despacho de 17 de julho de 1967.\n\n"
+        "Imóveis classificados - Concelho da Figueira da Foz\n\n"
+        f"{link('Decreto n.º 251/70', 'decreto/251-1970-9')}, de 3 de junho.\n"
+    )
+    assert repeals_in(parse_articles(pdm), pdm, source="pt:dre:1:por") == []
+    # Portaria n.º 111-A/2022: nota do DRE sobre outra portaria.
+    note = (
+        "###### Artigo 5.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1/2022.\n\n"
+        f"> Nota: {link('Artigo 3.º, Portaria n.º 128-A/2022 - Diário da República n.º 60/2022', 'portaria/128-a-2022-9')} "
+        "A presente portaria entra em vigor no dia 28 de março de 2022.\n"
+    )
+    assert repeals_in(parse_articles(note), note, source="pt:dre:1:por") == []
+    # Uma lista aberta pelo verbo continua a contar, com ou sem marca.
+    listing = (
+        "###### Artigo 9.º — Revogação\n\nSão revogados:\n\n"
+        f"{link('Decreto n.º 1/80', 'decreto/1-1980-9')}, de 1 de março;\n\n"
+        f"{link('Decreto n.º 2/80', 'decreto/2-1980-10')}, de 2 de março.\n\n"
+        f"{link('Decreto n.º 3/80', 'decreto/3-1980-11')}, de 3 de março.\n"
+    )
+    assert {item.target for item in repeals_in(parse_articles(listing), listing, source="pt:dre:1:por")} == {"pt:dre:9:por", "pt:dre:10:por"}
+
+
+@pytest.mark.parametrize(
+    "text",
+    [
+        # Lei n.º 42/2016, art. 109.º: descreve a revogação feita por outra lei.
+        f"O Governo fica autorizado, nos termos do artigo 8.º da {link('Lei Orgânica n.º 7/2015', 'lei-organica/7-2015-8')}, de 18 de maio, "
+        f"que aprova a lei de programação militar e revoga a {link('Lei Orgânica n.º 4/2006', 'lei-organica/4-2006-9')}, de 29 de agosto.",
+        # Portaria n.º 338/89: o sumário de outro diploma, num índice.
+        f"Sujeita a licenciamento prévio a abertura de poços e furos em alguns concelhos. Revoga o {link('Decreto-Lei n.º 47892', 'decreto-lei/47892-1967-9')}.",
+    ],
+)
+def test_a_described_repeal_is_not_a_repeal(text):
+    assert repeals_in([], text, source="pt:dre:1:por") == []
+
+
+def test_a_repeal_saved_in_another_article_is_not_total():
+    text = (
+        "###### Artigo 23.º — Norma revogatória\n\nSão revogados:\n\n"
+        f"a) A {link('Portaria n.º 213/2000', 'portaria/213-2000-9')}, de 8 de Abril;\n\n"
+        f"b) A {link('Portaria n.º 214/2000', 'portaria/214-2000-10')}, de 8 de Abril.\n\n"
+        "###### Artigo 24.º — Norma transitória\n\n"
+        "2 - Até à publicação das portarias previstas no artigo 5.º, mantém-se em vigor a Portaria n.º 213/2000.\n\n"
+        f"3 - A regulamentação emitida ao abrigo da {link('Portaria n.º 214/2000', 'portaria/214-2000-10')} mantém-se em vigor.\n"
+    )
+    found = {(item.target, item.scope) for item in repeals_in(parse_articles(text), text, source="pt:dre:1:por")}
+    # A ressalva da 213/2000 torna-a parcial; manter a regulamentação emitida ao abrigo da 214/2000 não a ressalva.
+    assert found == {("pt:dre:9:por", "parcial"), ("pt:dre:10:por", "total")}
+
+
+def test_cited_date_and_entity_of_the_linked_act():
+    text = (
+        f"13.º Ficam revogadas as Portarias n.os {link('680/71', 'portaria/680-1971-11')}, {link('515/72', 'portaria/515-1972-2')} e "
+        f"{link('690/73', 'portaria/690-1973-3')}, respectivamente, de 7 de Dezembro, de 1 de Setembro e de 7 de Setembro.\n\n"
+        f"14.º É revogado o {link('Aviso n.º 6/2002', 'aviso/6-2002-4')} do Banco de Portugal.\n\n"
+        f"15.º É revogada a {link('Portaria n.º 216/85', 'portaria/216-1985-5')}, de 15 de Maio de 1985.\n"
+    )
+    found = {item.target: (item.label, item.cited_date, item.cited_entity) for item in repeals_in([], text, source="pt:dre:1:por")}
+    assert found == {
+        "pt:dre:11:por": ("680/71", "--12-07", None),
+        "pt:dre:2:por": ("515/72", "--09-01", None),
+        "pt:dre:3:por": ("690/73", "--09-07", None),
+        "pt:dre:4:por": ("Aviso n.º 6/2002", None, "Banco de Portugal"),
+        "pt:dre:5:por": ("Portaria n.º 216/85", "1985-05-15", None),
+    }
+
+
+@pytest.mark.parametrize(
+    ("label", "cited", "entity", "target", "expected"),
+    [
+        ("Portaria n.º 216/85", "--04-15", None, {"official_number": "216/85", "publication_date": "1985-04-18"}, ("confirmada", [])),
+        ("216/85", None, None, {"official_number": "216/85", "publication_date": "1985-04-18"}, ("so_numero", [])),
+        # Dezembro citado, publicado em janeiro.
+        ("Decreto n.º 44889", "--12-28", None, {"official_number": "44889", "publication_date": "1963-01-04"}, ("confirmada", [])),
+        # Portaria n.º 216/85, de 15 de Maio, ligada à de 18 de Abril; a 690/73 de 7 de Setembro ligada à de 10 de Outubro.
+        ("Portaria n.º 216/85", "--05-15", None, {"official_number": "216/85", "publication_date": "1985-04-18"}, ("suspeita", ["data"])),
+        ("690/73", "--09-07", None, {"official_number": "690/73", "publication_date": "1973-10-10"}, ("suspeita", ["data"])),
+        ("Portaria n.º 216/86", None, None, {"official_number": "216/85", "publication_date": "1985-04-18"}, ("suspeita", ["numero"])),
+        ("Regulamento", None, None, {"official_number": "1/97", "publication_date": "1997-01-01"}, ("suspeita", ["sem_numero"])),
+        ("Aviso n.º 6/2002", None, "Banco de Portugal",
+         {"official_number": "6/2002", "publication_date": "2002-02-07", "issuing_authority": ["Ministério dos Negócios Estrangeiros"]},
+         ("suspeita", ["entidade"])),
+        ("Portaria n.º 1/77", None, "Secretaria Regional da Educação",
+         {"official_number": "1/77", "publication_date": "1977-01-04", "jurisdiction": "portugal"}, ("suspeita", ["entidade"])),
+    ],
+)
+def test_identity_of_the_linked_act(label, cited, entity, target, expected):
+    from leis_portugal.domain.validity import Repeal, identity
+
+    repeal = Repeal("pt:dre:9:por", "total", "pt:dre:1:por", "art-1", "", label=label, cited_date=cited, cited_entity=entity)
+    assert identity(repeal, target) == expected
+
+
+def _row(record_id: str, **extra):
+    return {
+        "id": record_id, "jurisdiction": "portugal", "document_type": "portaria", "publication_date": "2000-01-01", "official_number": "1/2000",
+        "title": "Portaria n.º 1/2000", "issuing_authority": [], "relations": [], "entry_into_force": None, **extra,
+    }
+
+
+def test_signals_against_a_text_repeal_of_an_act_in_force():
+    from leis_portugal.domain.validity import Repeal
+    from leis_portugal.services.structure import proof_segment, proof_signals
+
+    repeal = Repeal("pt:dre:9:por", "total", "pt:dre:1:por", "n-3", "3.º É revogada a [Portaria n.º 1/2000], de 1 de Janeiro.",
+                    label="Portaria n.º 1/2000", cited_date="--01-01")
+    source = _row("pt:dre:1:por", publication_date="2005-01-01", official_number="5/2005")
+    target = _row("pt:dre:9:por")
+    by_id = {"pt:dre:1:por": source, "pt:dre:9:por": target}
+    clean = proof_signals(source, repeal, target, by_id)
+    assert clean == {"identidade": "confirmada", "sinais": [], "nacional": True} and proof_segment(clean) == "a"
+    # Alterada pelo DRE depois do revogador: um diploma revogado não se altera.
+    later = {**target, "relations": [{"type": "amended_by", "target": "pt:dre:7:por", "label": "", "date": "2007-03-01"}]}
+    assert proof_signals(source, repeal, later, by_id)["sinais"] == ["alteracao_posterior"]
+    # O DRE dá-lhe outro revogador, ou uma revogação parcial.
+    other = {**target, "relations": [{"type": "repealed_by", "target": "pt:dre:8:por", "label": "Revogado o n.º 2 pela PORT 8/2001"}]}
+    assert proof_signals(source, repeal, other, by_id)["sinais"] == ["conflito_dre"]
+    # Uma declaração de retificação; "toda a legislação em contrário, nomeadamente"; um aviso do Banco de Portugal.
+    assert proof_signals({**source, "document_type": "declaracao-retificacao"}, repeal, target, by_id)["sinais"] == ["retificacao"]
+    contrary = Repeal(**{**repeal.to_dict(), "text": "Fica revogada toda a legislação em contrário, nomeadamente o [Decreto-Lei n.º 37517]"})
+    assert proof_signals(source, contrary, target, by_id)["sinais"] == ["legislacao_em_contrario"]
+    bdp = {**source, "title": "Aviso do Banco de Portugal n.º 1/2026"}
+    assert proof_signals(bdp, repeal, {**target, "issuing_authority": ["Ministério dos Negócios Estrangeiros"]}, by_id)["sinais"] == ["entidade"]
+    assert proof_signals(bdp, repeal, {**target, "title": "Aviso do Banco de Portugal n.º 6/2003"}, by_id)["sinais"] == []
+    # Sem data citada: segmento b; regional ou com sinais: c.
+    undated = proof_signals(source, Repeal(**{**repeal.to_dict(), "cited_date": None}), target, by_id)
+    assert proof_segment(undated) == "b"
+    assert proof_segment(proof_signals({**source, "jurisdiction": "regional"}, repeal, {**target, "jurisdiction": "regional"}, by_id)) == "c"
+
+
+def test_deferred_effects_of_the_repealing_act():
+    target = {"jurisdiction": "portugal", "publication_date": "2002-07-17"}
+    source = {"jurisdiction": "portugal", "publication_date": "2005-01-01", "entry_into_force": {"date": "2005-01-02"}}
+    assert plausible(source, target, today="2026-11-13")
+    rule = {"date": "2005-01-02", "effects_rule": "com a entrada em vigor do decreto regulamentar regional", "effects_date": None}
+    assert not plausible({**source, "entry_into_force": rule}, target, today="2026-11-13")
+    future = {"date": "2026-09-21", "effects_rule": "a 1 de janeiro de 2027", "effects_date": "2027-01-01"}
+    assert not plausible({**source, "entry_into_force": future}, target, today="2026-11-13")
+    past = {"date": "2005-01-02", "effects_rule": "desde 1 de janeiro de 2005", "effects_date": "2005-01-01"}
+    assert plausible({**source, "entry_into_force": past}, target, today="2026-11-13")
+    # Sem data, mas retroativas ou imediatas: não diferem a revogação.
+    for rule in ("desde a data da sua assinatura", "imediatos", "a partir do ano lectivo de 2006-2007",
+                 "apenas para os procedimentos cuja decisão de contratar ocorrer após a data da sua entrada em vigor"):
+        assert plausible({**source, "entry_into_force": {"date": "2005-01-02", "effects_rule": rule, "effects_date": None}}, target, today="2026-11-13")
+
+
+def test_text_repeal_against_the_dre_status_in_an_approved_segment(repo_root: Path, capsys, monkeypatch):
+    from leis_portugal.infrastructure.markdown import read_markdown_record
+    from leis_portugal.infrastructure.repository import Acervo
+    from leis_portugal.services import structure
+
+    target = repo_root / "data/portugal/portarias/2002/portaria-654-2002.md"
+    target.parent.mkdir(parents=True)
+    target.write_text(render_markdown(record_dict(
+        "pt:dre:146249:por", title="Portaria n.º 654/2002", document_type="portaria", official_number="654/2002", legal_status="in_force",
+        publication_date="2002-06-17", publication={"series": "I"},
+    ), "# Portaria n.º 654/2002\n\n1.º É criada a zona de caça.\n"), encoding="utf-8")
+    source = repo_root / "data/portugal/portarias/2003/portaria-351-2003.md"
+    source.parent.mkdir(parents=True)
+    repealing = (
+        "# Portaria n.º 351/2003\n\n1.º É renovada a zona de caça.\n\n2.º É revogada a "
+        + link("Portaria n.º 654/2002", "portaria/654-2002-146249") + ", de 14 de Junho.\n"
+    )
+    source.write_text(render_markdown(record_dict(
+        "pt:dre:571878:por", title="Portaria n.º 351/2003", document_type="portaria", official_number="351/2003", legal_status="in_force",
+        publication_date="2003-05-02", publication={"series": "I"},
+    ), repealing), encoding="utf-8")
+
+    # Sem segmento aprovado, o estado do DRE fica: a prova só se conta, com o segmento.
+    assert _structure(repo_root) == 0
+    assert read_markdown_record(target)[0]["legal_status"] == "in_force"
+    summary = json.loads((repo_root / "reports/estrutura.json").read_text(encoding="utf-8"))["vigencia"]["texto_contra_dre"]
+    assert summary["por_segmento"] == {"a": 1, "b": 0, "c": 0} and summary["revogados_automaticamente"] == 0
+
+    monkeypatch.setattr(structure, "APPROVED_SEGMENTS", frozenset({"a"}))
+    assert _structure(repo_root) == 0
+    metadata, _ = read_markdown_record(target)
+    assert metadata["legal_status"] == "repealed"
+    assert metadata["legal_status_basis"] == {
+        "source": "norma_revogatoria_contra_dre", "dre_status": "in_force", "segment": "a",
+        "evidence": [{"status": "repealed", "provenance": "norma revogatória: pt:dre:571878:por#n-2",
+                      "detail": "2.º É revogada a [Portaria n.º 654/2002], de 14 de Junho."}],
+    }
+    acervo = Acervo(repo_root)
+    assert acervo.schema.record_errors(metadata) == []
+    before = target.read_text(encoding="utf-8")
+    assert _structure(repo_root) == 0
+    assert target.read_text(encoding="utf-8") == before
+
+    # Uma nova recolha do DRE (que continua a dizer `in_force`) não apaga a base.
+    record, body = acervo.read(target)
+    fresh = type(record).from_dict({key: value for key, value in record.to_dict().items() if key != "legal_status_basis"} | {"legal_status": "in_force"})
+    acervo.save(fresh, body, target=target)
+    metadata, _ = read_markdown_record(target)
+    assert metadata["legal_status"] == "repealed" and metadata["legal_status_basis"]["dre_status"] == "in_force"
+
+    # A prova deixa de existir (o revogador já não revoga): volta o estado do DRE.
+    source.write_text(source.read_text(encoding="utf-8").replace("É revogada a", "É alterada a"), encoding="utf-8")
+    assert _structure(repo_root) == 0
+    assert "1 com a vigência retirada" in capsys.readouterr().out
+    metadata, _ = read_markdown_record(target)
+    assert metadata["legal_status"] == "in_force" and "legal_status_basis" not in metadata
+
+
+def test_cited_series_and_repristination_signals():
+    from leis_portugal.domain.validity import Repeal
+    from leis_portugal.services.structure import proof_signals
+
+    source = _row("pt:dre:1:por", publication_date="2005-01-01")
+    target = _row("pt:dre:9:por", series="I", official_number="857/2004", publication_date="2004-07-19")
+    # Portaria n.º 1141/2004: a "Portaria n.º 857/2004, publicada na 2.ª série", ligada à da 1.ª série (zona de caça).
+    second = Repeal("pt:dre:9:por", "total", "pt:dre:1:por", "n-3",
+                    "3.º É revogada a [Portaria n.º 857/2004], publicada na 2.ª série do Diário da República de 30 de Julho de 2004.",
+                    label="Portaria n.º 857/2004")
+    assert proof_signals(source, second, target, {})["sinais"] == ["serie"]
+    azores = Repeal(**{**second.to_dict(), "text": "c) A [Portaria n.º 857/2004], publicada no Jornal Oficial dos Açores, 1.ª série."})
+    assert "serie" in proof_signals(source, azores, target, {})["sinais"]
+    first = Repeal(**{**second.to_dict(), "text": "É revogada a [Portaria n.º 857/2004], publicada no Diário da República, 1.ª série-B."})
+    assert proof_signals(source, first, target, {})["sinais"] == []
+    # DL 94/2007: o revogador (DL 208/2012) foi revogado e o DRE regista "Repõe em vigor".
+    restored = {**target, "relations": [{"type": "amended_by", "target": "pt:dre:7:por", "label": "Repoe em Vigor Diploma", "date": "2004-07-20"}]}
+    assert "repristinado" in proof_signals(source, first, restored, {})["sinais"]
+
+
+@pytest.mark.parametrize(
+    ("text", "scope"),
+    [
+        (f"b) O {link('Decreto n.º 36974', 'decreto/36974-1948-9')}, à data da entrada em vigor das portarias mencionadas no artigo anterior.", None),
+        (f"24.º O presente diploma revoga a {link('Portaria n.º 264/85', 'portaria/264-1985-9')}, de 9 de Maio, e aplica-se aos processos em curso à data da sua entrada em vigor.", "total"),
+    ],
+)
+def test_repeal_at_the_entry_into_force_of_other_acts(text, scope):
+    found = {item.scope for item in repeals_in([], text, source="pt:dre:1:por") if item.target == "pt:dre:9:por"}
+    assert found == ({scope} if scope else set())

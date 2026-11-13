@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/01/00100/00200020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 1/72: revogação total pela norma revogatória do diploma Portaria n.º 670/73 (5.º), lida no texto e
+    verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em
+    vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:413043:por'
+    detail: 5.º Ficam revogadas as Portarias n.os 386/70, de 5 de Agosto, e 1/72, de 3 de Janeiro.
 notes: []
 language: por
 version:
@@ -74,6 +84,12 @@ relationships:
   target: pt:dre:469867:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:413043:por
+  label: 'Portaria n.º 1/72: revogação total pela norma revogatória do diploma Portaria n.º 670/73 (5.º), lida no texto e
+    verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em
+    vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

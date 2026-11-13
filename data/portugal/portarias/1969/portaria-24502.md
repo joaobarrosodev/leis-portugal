@@ -27,7 +27,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/12/30400/19731974.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 24502: revogação total pela norma revogatória do diploma Portaria n.º 310/70 (2.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:140873:por'
+    detail: 2.º Fica revogada a Portaria n.º 24502, de 31 de Dezembro de 1969.
 notes: []
 language: por
 version:
@@ -81,6 +91,12 @@ relationships:
   target: pt:dre:475085:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:140873:por
+  label: 'Portaria n.º 24502: revogação total pela norma revogatória do diploma Portaria n.º 310/70 (2.º), lida no texto e
+    verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em
+    vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

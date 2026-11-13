@@ -9,7 +9,8 @@
 <meta property="og:description" content="A legislação portuguesa em formato aberto, ligada às fontes oficiais e atualizada todos os dias.">
 <meta property="og:image" content="https://joaobarrosodev.github.io/leis-portugal/social-preview.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="color-scheme" content="light">
+<meta name="color-scheme" content="light dark">
+<script>try { const t = localStorage.getItem("tema"); if (t) document.documentElement.dataset.tema = t; } catch (e) {}</script>
 <link rel="icon" href="icone.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,7 +21,7 @@
     --papel-claro: #fbf9f4;
     --tinta: #161512;
     --suave: #4f4b43;
-    --tenue: #8b857a;
+    --tenue: #66615a;
     --regra: #161512;
     --fio: rgba(22, 21, 18, .16);
     --vermelho: #b3122c;
@@ -28,6 +29,20 @@
     --verde-fundo: #dde9df;
     --serif: "Newsreader", "Iowan Old Style", Georgia, serif;
     --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+    --sombra-cor: #e4dccb;
+  }
+  /* Modo escuro: segue o sistema, a não ser que se escolha no botão do topo (data-tema). */
+  :root[data-tema="escuro"] {
+    --papel: #141310; --papel-claro: #1d1b17; --tinta: #ece6d8; --suave: #c9c2b4; --tenue: #a39c8e;
+    --regra: #ece6d8; --fio: rgba(236, 230, 216, .18); --vermelho: #ff8a96; --verde: #7fd3a5; --verde-fundo: #1c3a2b; --sombra-cor: #2a2721;
+    color-scheme: dark;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-tema="claro"]) {
+      --papel: #141310; --papel-claro: #1d1b17; --tinta: #ece6d8; --suave: #c9c2b4; --tenue: #a39c8e;
+      --regra: #ece6d8; --fio: rgba(236, 230, 216, .18); --vermelho: #ff8a96; --verde: #7fd3a5; --verde-fundo: #1c3a2b; --sombra-cor: #2a2721;
+      color-scheme: dark;
+    }
   }
   * { box-sizing: border-box; }
   [hidden] { display: none !important; }
@@ -35,7 +50,12 @@
   body { margin: 0; background: var(--papel); color: var(--tinta); font: 19px/1.62 var(--serif); font-optical-sizing: auto; -webkit-font-smoothing: antialiased; }
   a { color: inherit; text-decoration-color: var(--tenue); text-underline-offset: 3px; text-decoration-thickness: 1px; }
   a:hover { text-decoration-color: var(--tinta); }
-  .mono { font-family: var(--mono); font-size: 12.5px; letter-spacing: .04em; text-transform: uppercase; }
+  :focus-visible { outline: 3px solid var(--verde); outline-offset: 3px; }
+  .saltar { position: absolute; left: 12px; top: -60px; background: var(--tinta); color: var(--papel); padding: 10px 14px; z-index: 20; }
+  .saltar:focus { top: 12px; }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }
+  .mono { font-family: var(--mono); font-size: 14px; letter-spacing: .02em; }
+  .maiusculas { text-transform: uppercase; letter-spacing: .05em; font-size: 13px; }
 
   /* A página tem a medida de um diploma: margem para os números, texto, e notas à margem. */
   .folha { max-width: 1180px; margin: 0 auto; padding: 0 28px; }
@@ -43,17 +63,20 @@
   .margem { grid-column: 1; }
   .texto { grid-column: 2; }
   .lado { grid-column: 3; align-self: start; max-width: 270px; }
-  .nota-margem { font-size: 14.5px; line-height: 1.5; color: var(--suave); border-top: 1px solid var(--fio); padding-top: 10px; }
+  .nota-margem { font-size: 16.5px; line-height: 1.55; color: var(--suave); border-top: 1px solid var(--fio); padding-top: 10px; }
   .nota-margem .mono { display: block; color: var(--tenue); margin-bottom: 4px; }
   @media (max-width: 1080px) { .linha { grid-template-columns: 110px minmax(0, 1fr); } .lado { grid-column: 2; max-width: none; margin-top: 20px; } }
   @media (max-width: 680px) { .folha { padding: 0 18px; } .linha { grid-template-columns: 1fr; } .margem, .texto, .lado { grid-column: 1; } body { font-size: 18px; } }
 
   /* cabeçalho de gazeta */
   .cabecalho { padding-top: 24px; }
-  .faixa-topo { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; padding-bottom: 10px; color: var(--suave); }
-  .faixa-topo nav { display: flex; gap: 18px; flex-wrap: wrap; }
-  .faixa-topo a { text-decoration: none; }
-  .faixa-topo a:hover { text-decoration: underline; }
+  .faixa-topo { display: flex; justify-content: space-between; align-items: center; gap: 12px 16px; flex-wrap: wrap; padding-bottom: 14px; color: var(--suave); }
+  .faixa-topo nav { display: flex; gap: 8px; flex-wrap: wrap; }
+  .botao-nav { display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 0 14px; border: 1px solid var(--regra); background: var(--papel-claro); color: var(--tinta); font: 500 15px var(--mono); text-decoration: none; cursor: pointer; transition: background .15s, color .15s; }
+  .botao-nav:hover { background: var(--tinta); color: var(--papel); }
+  .botao-nav[aria-pressed] { background: transparent; }
+  .botao-nav[aria-pressed]:hover { background: var(--tinta); color: var(--papel); }
+  @media (max-width: 680px) { .faixa-topo nav { width: 100%; } .botao-nav { flex: 1 1 auto; justify-content: center; } }
   .titulo-gazeta { border-top: 3px solid var(--regra); border-bottom: 1px solid var(--regra); padding: 16px 0 12px; display: flex; align-items: center; justify-content: space-between; gap: 18px; }
   .titulo-gazeta h1 { margin: 0; font-weight: 500; font-size: clamp(50px, 9.5vw, 124px); line-height: .9; letter-spacing: -.025em; }
   .titulo-gazeta h1 em { font-weight: 400; }
@@ -62,7 +85,7 @@
 
   /* abertura */
   .abertura { padding: 46px 0 8px; }
-  .rotulo { font-size: 13px; margin: 6px 0 0; color: var(--tenue); }
+  .rotulo { font-size: 14px; margin: 6px 0 0; color: var(--tenue); }
   .sumario { font-size: clamp(25px, 2.6vw, 31px); line-height: 1.3; margin: 0 0 18px; font-weight: 400; }
   .sumario em { color: var(--verde); }
   .abertura .texto > p { color: var(--suave); margin: 0 0 8px; }
@@ -72,26 +95,26 @@
   .descarga::before { content: ""; position: absolute; inset: 4px; border: 1px solid var(--fio); pointer-events: none; }
   .descarga h2 { margin: 0 0 12px; font-weight: 500; }
   .descarregar { display: flex; justify-content: space-between; align-items: center; gap: 12px; background: var(--tinta); color: var(--papel); text-decoration: none; padding: 12px 14px; margin-bottom: 8px; font-size: 18px; transition: transform .15s; }
-  .descarregar:hover { background: #2c2a25; transform: translateY(-1px); }
-  .descarregar small { font-family: var(--mono); font-size: 11px; opacity: .75; letter-spacing: .03em; white-space: nowrap; }
+  .descarregar:hover { background: color-mix(in srgb, var(--tinta) 86%, var(--papel)); transform: translateY(-1px); }
+  .descarregar small { font-family: var(--mono); font-size: 13px; opacity: .75; letter-spacing: .03em; white-space: nowrap; }
   .descarga .descarregar { flex-direction: column; align-items: flex-start; gap: 2px; font-size: 19px; line-height: 1.2; }
   .descarga .descarregar::after { content: "↓"; position: absolute; right: 14px; top: 50%; transform: translateY(-50%); font-size: 18px; }
   .descarga .descarregar { position: relative; padding-right: 40px; }
   .descarregar.segundo { background: transparent; color: var(--tinta); box-shadow: inset 0 0 0 1px var(--regra); }
   .descarregar.segundo:hover { background: var(--papel); }
-  .descarga p { font-size: 14px; color: var(--suave); margin: 10px 0 0; line-height: 1.45; }
+  .descarga p { font-size: 16px; color: var(--suave); margin: 10px 0 0; line-height: 1.45; }
 
   /* demonstração: a mesma norma em duas datas */
   .demo-secao { padding: 34px 0 0; }
-  .demo { border: 1px solid var(--regra); background: var(--papel-claro); box-shadow: 6px 6px 0 #e4dccb; }
+  .demo { border: 1px solid var(--regra); background: var(--papel-claro); box-shadow: 6px 6px 0 var(--sombra-cor); }
   .demo-topo { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; padding: 12px 16px; border-bottom: 1px solid var(--regra); }
   .demo-topo b { font-weight: 600; }
   .datas { display: inline-flex; border: 1px solid var(--regra); }
-  .datas button { font: 500 12.5px var(--mono); letter-spacing: .03em; background: transparent; color: var(--tinta); border: 0; padding: 8px 13px; cursor: pointer; }
+  .datas button { font: 500 15px var(--mono); background: transparent; color: var(--tinta); border: 0; padding: 0 16px; min-height: 44px; min-width: 44px; cursor: pointer; }
   .datas button + button { border-left: 1px solid var(--regra); }
   .datas button:hover { background: var(--papel); }
   .datas button[aria-pressed="true"] { background: var(--tinta); color: var(--papel); }
-  .demo-corpo { padding: 16px 18px 6px; font-size: 17px; line-height: 1.55; }
+  .demo-corpo { padding: 16px 18px 6px; font-size: 18px; line-height: 1.55; }
   .demo-corpo p { margin: 0 0 12px; }
   .demo-corpo .n { color: var(--tenue); }
   .velho { color: var(--vermelho); text-decoration: line-through; text-decoration-thickness: 1.5px; }
@@ -100,7 +123,7 @@
 
   /* artigos */
   .artigo { padding: 64px 0 0; }
-  .numero-artigo { font-size: 13px; margin: 8px 0 0; color: var(--tenue); }
+  .numero-artigo { font-size: 14px; margin: 8px 0 0; color: var(--tenue); }
   .numero-artigo b { display: block; font-family: var(--serif); text-transform: none; letter-spacing: 0; font-size: 30px; font-weight: 500; line-height: 1; margin-top: 4px; color: var(--tinta); }
   .epigrafe { font-size: 32px; line-height: 1.15; font-weight: 500; margin: 0 0 18px; }
   .artigo p { margin: 0 0 14px; }
@@ -116,14 +139,14 @@
   .acervo div { padding: 16px 14px 14px 0; border-bottom: 1px solid var(--fio); }
   .acervo div:nth-last-child(-n+3) { border-bottom: 0; }
   .acervo b { display: block; font-size: 34px; line-height: 1.05; font-weight: 500; font-variant-numeric: lining-nums; }
-  .acervo span { font-size: 15px; color: var(--suave); line-height: 1.4; display: block; margin-top: 4px; }
+  .acervo span { font-size: 16.5px; color: var(--suave); line-height: 1.4; display: block; margin-top: 4px; }
   @media (max-width: 680px) { .acervo { grid-template-columns: 1fr 1fr; } .acervo div:nth-last-child(-n+3) { border-bottom: 1px solid var(--fio); } .acervo div:nth-last-child(-n+2) { border-bottom: 0; } }
 
   /* anexo: a tabela da qualidade */
   .anexo { margin: 20px 0 6px; }
   .anexo-titulo { text-align: center; margin: 0 0 10px; color: var(--suave); }
   table { width: 100%; border-collapse: collapse; font-size: 16.5px; }
-  thead th { font-family: var(--mono); font-size: 11.5px; font-weight: 500; letter-spacing: .05em; text-transform: uppercase; text-align: right; color: var(--suave); padding: 8px 6px; border-top: 2px solid var(--regra); border-bottom: 1px solid var(--regra); vertical-align: bottom; }
+  thead th { font-family: var(--mono); font-size: 13px; font-weight: 500; letter-spacing: .05em; text-transform: uppercase; text-align: right; color: var(--suave); padding: 8px 6px; border-top: 2px solid var(--regra); border-bottom: 1px solid var(--regra); vertical-align: bottom; }
   thead th:first-child { text-align: left; }
   tbody td { padding: 10px 6px; border-bottom: 1px solid var(--fio); text-align: right; font-variant-numeric: tabular-nums lining-nums; }
   tbody td:first-child { text-align: left; }
@@ -135,7 +158,7 @@
   .ias div { padding: 14px 14px 14px 0; }
   .ias div + div { border-left: 1px solid var(--fio); padding-left: 14px; }
   .ias b { font-size: 22px; font-weight: 500; display: block; }
-  .ias span { font-size: 15px; color: var(--suave); line-height: 1.4; display: block; margin-top: 4px; }
+  .ias span { font-size: 16.5px; color: var(--suave); line-height: 1.4; display: block; margin-top: 4px; }
   .ias .medido { color: var(--verde); }
   @media (max-width: 680px) { .ias { grid-template-columns: 1fr; } .ias div + div { border-left: 0; padding-left: 0; border-top: 1px solid var(--fio); } }
 
@@ -150,35 +173,56 @@
   .fecho .publique { font-style: italic; font-size: 26px; }
   .rodape { border-top: 3px double var(--regra); margin-top: 40px; padding: 18px 0 44px; color: var(--suave); display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
   .rodape nav { display: flex; gap: 16px; flex-wrap: wrap; }
+
+  /* Uma só coluna: o número do artigo por cima do título, as notas dentro do texto, o mesmo
+     espaço entre todas as secções. Mais fácil de seguir do que três colunas. */
+  .linha { display: block; max-width: 760px; margin: 0 auto; }
+  .margem p { margin: 0 0 6px; }
+  .numero-artigo b { display: inline; font-size: inherit; font-family: var(--mono); color: var(--tenue); margin: 0 0 0 6px; }
+  .numero-artigo { font-size: 14px; }
+  .lado { max-width: none; margin-top: 22px; }
+  .nota-margem { border-top: 0; border-left: 3px solid var(--regra); background: var(--papel-claro); padding: 14px 18px; }
+  .artigo, .convite { padding: 52px 0 0; margin-top: 52px; border-top: 1px solid var(--fio); }
+  .convite { border-top: 3px solid var(--regra); border-bottom: 1px solid var(--regra); padding-bottom: 40px; }
+  .abertura { padding: 44px 0 0; }
+  .demo-secao { padding: 0; margin-top: 44px; }
+  .epigrafe { margin-bottom: 20px; }
+  .descarga { display: grid; grid-template-columns: 1fr 1fr; column-gap: 10px; }
+  .descarga h2, .descarga p { grid-column: 1 / -1; }
+  .descarga .descarregar { margin-bottom: 0; }
+  @media (max-width: 560px) { .descarga { grid-template-columns: 1fr; row-gap: 8px; } }
 </style>
 </head>
 <body>
+<a class="saltar" href="#conteudo">Saltar para o conteúdo</a>
 <div class="folha">
 
   <header class="cabecalho">
-    <div class="faixa-topo mono">
-      <span>Open source · Dados abertos · Gratuito</span>
-      <nav>
-        <a href="#funcionamento">Como funciona</a>
-        <a href="#fiabilidade">Fiabilidade</a>
-        <a href="#instalacao">Instalação</a>
-        <a href="https://github.com/joaobarrosodev/leis-portugal">GitHub</a>
+    <div class="faixa-topo">
+      <span class="mono maiusculas">Open source · Dados abertos · Gratuito</span>
+      <nav aria-label="Secções">
+        <a class="botao-nav" href="#funcionamento">Como funciona</a>
+        <a class="botao-nav" href="#fiabilidade">Quanto acerta</a>
+        <a class="botao-nav" href="#instalacao">Como instalar</a>
+        <a class="botao-nav" href="https://github.com/joaobarrosodev/leis-portugal">GitHub ↗</a>
+        <button class="botao-nav" type="button" id="tema" aria-pressed="false">◐ <span>Modo escuro</span></button>
       </nav>
     </div>
     <div class="titulo-gazeta">
       <h1>Leis de <em>Portugal</em></h1>
       <img src="icone.png" alt="">
     </div>
-    <div class="edicao mono">
+    <div class="edicao mono maiusculas">
       <span>Edição aberta · Série única</span>
       <span>Versão 0.1.0 · 13 de novembro de 2026</span>
     </div>
   </header>
 
+  <main id="conteudo">
   <section class="abertura linha">
-    <div class="margem"><p class="rotulo mono">Sumário</p></div>
+    <div class="margem"><p class="rotulo mono maiusculas">Sumário</p></div>
     <div class="texto">
-      <p class="sumario">Pergunta pelo que diz a lei. Recebe <em>a lei, o artigo e a redação em vigor</em> na data que escolheres. Quando não houver base, a resposta é "não sei".</p>
+      <p class="sumario">Pergunta o que diz a lei. Recebes <em>a lei, o artigo e a versão em vigor</em> na data que escolheres. Se não houver base para responder, diz "não sei".</p>
       <p>Uma aplicação gratuita para Mac e Windows, feita sobre um repositório aberto com quase dois séculos de Diário da República e o direito da União Europeia em vigor.</p>
     </div>
     <aside class="lado">
@@ -194,6 +238,7 @@
   <section class="demo-secao linha" aria-label="Exemplo: a mesma norma em duas datas">
     <div class="margem"><p class="rotulo mono">Experimenta</p></div>
     <div class="texto">
+      <p style="margin:0 0 14px;color:var(--suave)">A lei muda. Escolhe a data e vê o mesmo artigo antes e depois de ser alterado.</p>
       <div class="demo" aria-live="polite">
         <div class="demo-topo">
           <span><b>Código do Trabalho</b>, artigo 238.º — Duração do período de férias</span>
@@ -211,13 +256,13 @@
           <p data-versao="hoje"><span class="n">4 —</span> <span class="novo">(Revogado).</span></p>
         </div>
         <div class="demo-pe mono">
-          <span data-versao="2011" hidden>Redação original da Lei n.º 7/2009, em vigor até 31 jul 2012</span>
-          <span data-versao="hoje">Redação dada pela Lei n.º 23/2012, em vigor desde 1 ago 2012</span>
+          <span data-versao="2011" hidden>Versão original da Lei n.º 7/2009, em vigor até 31 de julho de 2012</span>
+          <span data-versao="hoje">Versão da Lei n.º 23/2012, em vigor desde 1 de agosto de 2012</span>
           <span>Texto do acervo</span>
         </div>
       </div>
     </div>
-    <aside class="lado nota-margem"><span class="mono">Exemplo verdadeiro</span>Até 2012, quem não faltasse tinha até três dias de férias a mais. Pergunta com uma data de 2011 e a resposta é essa; pergunta com a data de hoje e já não é. O acervo guarda cada redação de cada artigo.</aside>
+    <aside class="lado nota-margem"><span class="mono">Exemplo verdadeiro</span>Até 2012, quem não faltasse tinha até três dias de férias a mais. Pergunta com uma data de 2011 e a resposta é essa; pergunta com a data de hoje e já não é. O projeto guarda cada versão de cada artigo.</aside>
   </section>
 
   <section class="artigo linha" id="funcionamento">
@@ -225,7 +270,7 @@
     <div class="texto">
       <h2 class="epigrafe">Como funciona</h2>
       <ol class="numeros">
-        <li>A pergunta é reescrita em linguagem jurídica e procurada em cerca de 1,5 milhões de artigos e redações de artigos, só entre os que estavam em vigor na data pedida.</li>
+        <li>A pergunta é reescrita em linguagem jurídica e procurada em cerca de 1,5 milhões de artigos (e versões antigas de artigos), só entre os que estavam em vigor na data pedida.</li>
         <li>Os oito artigos mais próximos vão à inteligência artificial que escolheres. Ela escreve uma resposta curta e literal e cita cada artigo que usa. Sem citação, não há resposta.</li>
         <li>A aplicação diz "não sei", e explica porquê, quando:
           <ol class="alineas">
@@ -243,7 +288,7 @@
   <section class="artigo linha" id="acervo">
     <div class="margem"><p class="numero-artigo mono">Artigo<b>2.º</b></p></div>
     <div class="texto">
-      <h2 class="epigrafe">O acervo</h2>
+      <h2 class="epigrafe">O que tem lá dentro</h2>
       <p>Recolhido das fontes oficiais, ligado a elas e atualizado todos os dias:</p>
       <div class="acervo">
         <div><b>275 mil</b><span>registos nacionais; a 1.ª Série desde 1833, praticamente completa</span></div>
@@ -260,13 +305,13 @@
   <section class="artigo linha" id="fiabilidade">
     <div class="margem"><p class="numero-artigo mono">Artigo<b>3.º</b></p></div>
     <div class="texto">
-      <h2 class="epigrafe">Fiabilidade</h2>
+      <h2 class="epigrafe">Quanto acerta</h2>
       <ol class="numeros">
-        <li>Quando responde, a aplicação acerta em cerca de 19 em cada 20 perguntas, nos termos do Anexo I.</li>
+        <li>Quando responde, a aplicação acerta em cerca de 19 em cada 20 perguntas (ver a tabela).</li>
         <li>Os valores foram medidos <strong>só com o Claude Opus 5.5</strong>, com quatro juízes de inteligência artificial às cegas e sem revisão de jurista. Ainda não foram medidos com perguntas de advogados.</li>
       </ol>
       <div class="anexo">
-        <p class="anexo-titulo mono">Anexo I · a que se refere o n.º 1 do artigo 3.º</p>
+        <p class="anexo-titulo mono">Quanto acerta, por tipo de pergunta</p>
         <div class="rolar">
           <table>
             <thead><tr><th>Perguntas</th><th>Certas, quando responde</th><th>No pior caso</th><th>Responde a</th></tr></thead>
@@ -287,7 +332,7 @@
   <section class="artigo linha" id="ia">
     <div class="margem"><p class="numero-artigo mono">Artigo<b>4.º</b></p></div>
     <div class="texto">
-      <h2 class="epigrafe">A tua inteligência artificial</h2>
+      <h2 class="epigrafe">Que inteligência artificial usar</h2>
       <div class="ias">
         <div><b>Claude</b><span class="medido">Recomendado. O único com a qualidade medida (Claude Opus 5.5).</span></div>
         <div><b>OpenAI</b><span>Mesmas instruções e mesmo modo estrito. Qualidade não medida.</span></div>
@@ -300,7 +345,7 @@
   <section class="artigo linha" id="instalacao">
     <div class="margem"><p class="numero-artigo mono">Artigo<b>5.º</b></p></div>
     <div class="texto">
-      <h2 class="epigrafe">Instalação</h2>
+      <h2 class="epigrafe">Como instalar</h2>
       <ol class="numeros">
         <li><strong>Mac:</strong> abre o .zip e arrasta a aplicação para as Aplicações. Da primeira vez, botão direito → Abrir; se o macOS não deixar, Definições do Sistema → Privacidade e Segurança → Abrir mesmo assim.</li>
         <li><strong>Windows:</strong> extrai a pasta do .zip e abre "Leis de Portugal.exe". Se aparecer "O Windows protegeu o computador", Mais informações → Executar mesmo assim.</li>
@@ -313,7 +358,7 @@
   <section class="artigo linha" id="sigilo">
     <div class="margem"><p class="numero-artigo mono">Artigo<b>6.º</b></p></div>
     <div class="texto">
-      <h2 class="epigrafe">Sigilo</h2>
+      <h2 class="epigrafe">Privacidade e sigilo</h2>
       <p>A pergunta é enviada à inteligência artificial que escolheres. Não escrevas nomes, factos ou dados de clientes: pergunta só pelo que diz a lei. As tuas avaliações ficam no teu computador.</p>
     </div>
   </section>
@@ -330,7 +375,7 @@
   <section class="artigo linha" id="finais">
     <div class="margem"><p class="numero-artigo mono">Artigo<b>7.º</b></p></div>
     <div class="texto">
-      <h2 class="epigrafe">Disposições finais</h2>
+      <h2 class="epigrafe">Licença e avisos</h2>
       <ol class="numeros">
         <li>O código é publicado sob a licença MIT. Os textos legais seguem as condições de cada fonte oficial, nos termos das <a href="https://github.com/joaobarrosodev/leis-portugal/blob/main/REUTILIZACAO.md">condições de reutilização</a>.</li>
         <li>O conteúdo não constitui aconselhamento jurídico. A versão que faz fé é a do Diário da República.</li>
@@ -338,6 +383,8 @@
       </ol>
     </div>
   </section>
+
+</main>
 
   <div class="fecho">
     <p class="publique">Publique-se.</p>
@@ -364,6 +411,21 @@
     win.classList.remove("segundo");
     mac.classList.add("segundo");
   }
+  // Modo claro / escuro: o botão troca e guarda a escolha.
+  const botaoTema = document.getElementById("tema");
+  const escuroAgora = () => (document.documentElement.dataset.tema || (matchMedia("(prefers-color-scheme: dark)").matches ? "escuro" : "claro")) === "escuro";
+  function mostrarTema() {
+    const escuro = escuroAgora();
+    botaoTema.setAttribute("aria-pressed", String(escuro));
+    botaoTema.querySelector("span").textContent = escuro ? "Modo claro" : "Modo escuro";
+  }
+  botaoTema.addEventListener("click", () => {
+    const novo = escuroAgora() ? "claro" : "escuro";
+    document.documentElement.dataset.tema = novo;
+    try { localStorage.setItem("tema", novo); } catch (e) {}
+    mostrarTema();
+  });
+  mostrarTema();
   // A mesma norma em duas datas.
   document.querySelectorAll("[data-data]").forEach((b) =>
     b.addEventListener("click", () => {

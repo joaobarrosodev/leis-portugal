@@ -35,7 +35,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto Regulamentar n.º 58/94: revogação total pela norma revogatória do diploma Decreto Regulamentar n.º 11/98
+    (Artigo 34.º), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:522378:por'
+    detail: b) O Decreto Regulamentar n.º 58/94, de 22 de Setembro.
 notes: []
 language: por
 version:
@@ -105,6 +115,13 @@ relationships:
   target: pt:dre:612219:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
+- type: repealed_by
+  target: pt:dre:522378:por
+  label: 'Decreto Regulamentar n.º 58/94: revogação total pela norma revogatória do diploma Decreto Regulamentar n.º 11/98
+    (Artigo 34.º), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1998-05-20'
 article_structure:
   article_count: 2
   section_count: 1

@@ -35,7 +35,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 549/99: revogação total pela norma revogatória do diploma Portaria n.º 851/99 (3.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:672608:por'
+    detail: 3.º É revogada a Portaria n.º 549/99, de 24 de Julho.
 notes: []
 language: por
 version:
@@ -93,6 +103,13 @@ relationships:
   target: pt:dre:405765:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+- type: repealed_by
+  target: pt:dre:672608:por
+  label: 'Portaria n.º 549/99: revogação total pela norma revogatória do diploma Portaria n.º 851/99 (3.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1999-07-15'
 - type: repealed_by
   target: pt:dre:672608:por
   label: "Revogada pela PORT.851/99.1999.10.04.MADRP DR.IS-B [232]\0\0"

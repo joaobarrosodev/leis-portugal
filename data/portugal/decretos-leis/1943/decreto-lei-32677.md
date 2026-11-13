@@ -27,7 +27,19 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1943/02/04100/01290129.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 32677: revogação total pela norma revogatória do diploma Decreto-Lei n.º 157/80 (Art. 16.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:474525:por'
+    detail: São revogadas todas as disposições ainda em vigor do Decreto n.º 7248, de 25 de Janeiro de 1921, o artigo 8.º
+      do Decreto n.º 19968, de 29 de Junho de 1931, o Decreto-Lei n.º 32677 e o Decreto n.º 32678, ambos de 20 de Fevereiro
+      de 1943, o Decreto-Lei n.º 46495, de 18 de Agosto de 1965, e o
 notes: []
 language: por
 version:
@@ -72,7 +84,13 @@ subjects:
 - Moeda
 - Tesouraria da Fazenda Pública
 - VALE de Correio
-relationships: []
+relationships:
+- type: repealed_by
+  target: pt:dre:474525:por
+  label: 'Decreto-Lei n.º 32677: revogação total pela norma revogatória do diploma Decreto-Lei n.º 157/80 (Art. 16.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

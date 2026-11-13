@@ -34,7 +34,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto Regulamentar n.º 21/85: revogação total pela norma revogatória do diploma Decreto Regulamentar n.º 80/85
+    (Artigo 18.º, n.º 1), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:170522:por'
+    detail: 1 - São revogados o artigo 14.º do Decreto Regulamentar n.º 92/82, de 30 de Novembro, o Decreto Regulamentar n.º
+      92-B/84, de 28 de Dezembro e o Decreto Regulamentar n.º 21/85, de 4 de Abril.
 notes: []
 language: por
 version:
@@ -91,6 +102,13 @@ relationships:
   target: pt:dre:691622:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:170522:por
+  label: 'Decreto Regulamentar n.º 21/85: revogação total pela norma revogatória do diploma Decreto Regulamentar n.º 80/85
+    (Artigo 18.º, n.º 1), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1985-12-01'
 article_structure:
   article_count: 11
   section_count: 4

@@ -25,7 +25,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/05/11300/10761077.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 42978: revogação total pela norma revogatória do diploma Decreto-Lei n.º 195/78 (Art. 12.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:297411:por'
+    detail: É revogado o Decreto-Lei n.º 42978, de 14 de Maio de 1960.
 notes: []
 language: por
 version:
@@ -105,6 +115,12 @@ relationships:
   target: pt:dre:158934:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:297411:por
+  label: 'Decreto-Lei n.º 42978: revogação total pela norma revogatória do diploma Decreto-Lei n.º 195/78 (Art. 12.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

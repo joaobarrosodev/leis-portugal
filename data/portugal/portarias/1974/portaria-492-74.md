@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/08/18500/08790880.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 492/74: revogação total pela norma revogatória do diploma Portaria n.º 830-B/74 (2.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:251989:por'
+    detail: 2.º É revogada a Portaria n.º 492/74, de 9 de Agosto.
 notes: []
 language: por
 version:
@@ -74,6 +84,12 @@ relationships:
   target: pt:dre:560235:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:251989:por
+  label: 'Portaria n.º 492/74: revogação total pela norma revogatória do diploma Portaria n.º 830-B/74 (2.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 - type: repealed_by
   target: pt:dre:251989:por
   label: Revogada a partir de 20 de dezembro de 1974, a presente portaria, pelo(a) Portaria n.º 830-B/74 - Diário do Governo

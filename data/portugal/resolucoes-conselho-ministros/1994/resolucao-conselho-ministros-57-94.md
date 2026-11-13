@@ -24,7 +24,19 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/167b00/40244035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Substituído pela 1.ª revisão do PDM de Proença-a-Nova (Aviso n.º 8666/2015), que só produz efeitos depois da portaria
+    de delimitação da REN do município: Portaria n.º 44/2016, publicada a 2016-03-15 e eficaz no dia seguinte (art. 3.º).
+    A data conta desde a eficácia da portaria; o artigo final do Regulamento, que fala da publicação do aviso, cede à condição
+    expressa do aviso.'
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:69968679:por'
+    detail: A 1.ª Revisão do Plano Diretor Municipal de Proença-a-Nova entra em vigor após publicação da portaria de aprovação
+      da delimitação da Reserva Ecológica Nacional do Município de Proença-a-Nova.
 notes: []
 language: por
 version:
@@ -375,6 +387,14 @@ relationships:
   target: pt:dre:673852:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:69968679:por
+  label: 'Substituído pela 1.ª revisão do PDM de Proença-a-Nova (Aviso n.º 8666/2015), que só produz efeitos depois da portaria
+    de delimitação da REN do município: Portaria n.º 44/2016, publicada a 2016-03-15 e eficaz no dia seguinte (art. 3.º).
+    A data conta desde a eficácia da portaria; o artigo final do Regulamento, que fala da publicação do aviso, cede à condição
+    expressa do aviso.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2016-03-16'
 article_structure:
   article_count: 58
   section_count: 25

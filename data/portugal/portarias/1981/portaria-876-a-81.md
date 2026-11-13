@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 876-A/81: revogação total pela norma revogatória do diploma Portaria n.º 104/82 (N.º 11.º), lida no
+    texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:601717:por'
+    detail: 11.º Fica revogada a Portaria n.º 876-A/81, de 30 de Setembro.
 notes: []
 language: por
 version:
@@ -90,6 +100,13 @@ relationships:
   target: pt:dre:568099:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:601717:por
+  label: 'Portaria n.º 876-A/81: revogação total pela norma revogatória do diploma Portaria n.º 104/82 (N.º 11.º), lida no
+    texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1982-01-24'
 article_structure:
   article_count: 0
   section_count: 0

@@ -26,7 +26,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/02/04000/06680668.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 17598: revogação total pela norma revogatória do diploma Portaria n.º 21037 (8.º), lida no texto e
+    verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em
+    vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:226606:por'
+    detail: 8.º Ficam revogados o n.º 24.º da Portaria n.º 16730 e a Portaria n.º 17598, de 18 de Fevereiro de 1960.
 notes: []
 language: por
 version:
@@ -76,6 +86,12 @@ relationships:
   target: pt:dre:462613:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:226606:por
+  label: 'Portaria n.º 17598: revogação total pela norma revogatória do diploma Portaria n.º 21037 (8.º), lida no texto e
+    verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em
+    vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

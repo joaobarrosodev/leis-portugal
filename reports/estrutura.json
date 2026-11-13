@@ -1,38 +1,38 @@
 {
  "gerado_em": "2026-11-13",
  "artigos": {
-  "registos": 323150,
-  "com_texto": 221977,
+  "registos": 323151,
+  "com_texto": 221978,
   "por_unidade": {
-   "artigos": 66109,
-   "nenhum": 96609,
-   "numeros": 58666,
+   "artigos": 66110,
+   "nenhum": 96608,
+   "numeros": 58667,
    "so_anexos": 593
   },
-  "com_artigos": 66109,
-  "com_artigos_ou_numeros": 124775,
+  "com_artigos": 66110,
+  "com_artigos_ou_numeros": 124777,
   "em_vigor_com_texto": 134286,
   "em_vigor_com_artigos": 38911,
-  "em_vigor_com_artigos_ou_numeros": 78355,
-  "artigos_identificados": 994441,
-  "numeros_identificados": 286709,
+  "em_vigor_com_artigos_ou_numeros": 78356,
+  "artigos_identificados": 994525,
+  "numeros_identificados": 286711,
   "com_anexos": 6621,
   "com_numeracao_repetida": 1082,
   "ids_duplicados": 0,
-  "so_texto_corrido": 83635,
-  "com_titulos": 41733,
-  "artigos_antes": 40233
+  "so_texto_corrido": 83636,
+  "com_titulos": 41734,
+  "artigos_antes": 40234
  },
  "entrada_em_vigor": {
-  "com_texto": 221977,
+  "com_texto": 221978,
   "por_metodo": {
    "clausula_com_data": 31035,
-   "clausula_so_regra": 4081,
+   "clausula_so_regra": 4082,
    "sem_clausula": 134446,
    "supletiva": 52415
   },
   "calculadas_do_texto": 31035,
-  "so_regra": 4081,
+  "so_regra": 4082,
   "supletivas": 52415,
   "sem_clausula": 134446,
   "com_data_de_efeitos": 12268,
@@ -110,7 +110,7 @@
    },
    "portugal / série II": {
     "clausula_com_data": 3014,
-    "clausula_so_regra": 425,
+    "clausula_so_regra": 426,
     "sem_clausula": 47653
    },
    "regional / série ?": {
@@ -129,60 +129,173 @@
   }
  },
  "vigencia": {
-  "desconhecidos": 124274,
+  "desconhecidos": 124275,
   "por_categoria": {
    "caducado": 22,
-   "conflito": 6,
-   "historico_so_pdf": 61808,
+   "conflito": 7,
+   "historico_so_pdf": 61812,
    "revogacao_parcial": 138,
    "revogacao_por_confirmar": 49,
-   "revogado": 330,
-   "sem_prova": 61921
+   "revogado": 320,
+   "sem_prova": 61927
   },
   "estado_proposto": {
    "not_in_force": 22,
-   "repealed": 330
+   "repealed": 320
   },
-  "resolvidos": 352,
-  "revogacoes_lidas_no_texto": 17623,
-  "diplomas_revogados_no_texto": 15316,
+  "resolvidos": 342,
+  "revogacoes_lidas_no_texto": 17131,
+  "diplomas_revogados_no_texto": 15068,
   "precisao_nos_estados_conhecidos": {
    "texto": {
-    "repealed": 312,
-    "not_in_force": 9947,
-    "em_vigor": 951,
-    "concordam": 10259,
-    "total": 11210,
-    "taxa": 0.9152
+    "repealed": 292,
+    "not_in_force": 9597,
+    "em_vigor": 827,
+    "concordam": 9889,
+    "total": 10716,
+    "taxa": 0.9228
    },
    "relacao": {
     "repealed": 0,
     "not_in_force": 20410,
-    "em_vigor": 1101,
+    "em_vigor": 1106,
     "concordam": 20410,
-    "total": 21511,
-    "taxa": 0.9488
+    "total": 21516,
+    "taxa": 0.9486
    }
   },
   "texto_contra_dre": {
-   "diplomas": 785,
-   "provas": 824,
+   "diplomas": 729,
+   "provas": 736,
+   "por_segmento": {
+    "a": 507,
+    "b": 35,
+    "c": 194
+   },
+   "por_segmento_e_tipo": {
+    "a": {
+     "declaracao": 1,
+     "decreto": 69,
+     "decreto-lei": 62,
+     "decreto-regulamentar": 16,
+     "despacho": 3,
+     "despacho-normativo": 34,
+     "lei": 2,
+     "portaria": 318,
+     "regulamento": 1,
+     "resolucao-conselho-ministros": 1
+    },
+    "b": {
+     "aviso-banco-portugal": 1,
+     "decreto": 4,
+     "decreto-lei": 3,
+     "despacho": 1,
+     "despacho-normativo": 3,
+     "portaria": 19,
+     "regulamento": 2,
+     "resolucao": 1,
+     "resolucao-conselho-ministros": 1
+    },
+    "c": {
+     "aviso": 3,
+     "decreto": 5,
+     "decreto-legislativo-regional": 6,
+     "decreto-lei": 31,
+     "decreto-regional": 4,
+     "decreto-regulamentar": 5,
+     "decreto-regulamentar-regional": 19,
+     "despacho-normativo": 16,
+     "lei": 7,
+     "portaria": 96,
+     "resolucao": 1,
+     "resolucao-conselho-ministros": 1
+    }
+   },
+   "segmentos_aplicados": [],
+   "revogados_automaticamente": 0,
    "amostra_verificada": {
-    "data": "2026-11-13",
-    "amostra": 113,
-    "certos": 78,
-    "errados": 33,
-    "duvidas": 2,
-    "regra_atual": {
-     "amostra": 99,
+    "limiar": 0.98,
+    "primeira": {
+     "data": "2026-11-13",
+     "amostra": 113,
      "certos": 78,
-     "errados": 19,
+     "errados": 33,
      "duvidas": 2
     },
-    "limiar": 0.98
+    "afinacao": {
+     "a": {
+      "amostra": 54,
+      "certos": 54
+     },
+     "b": {
+      "amostra": 9,
+      "certos": 9
+     },
+     "c": {
+      "amostra": 23,
+      "certos": 14
+     },
+     "fora": {
+      "amostra": 27,
+      "certos": 1,
+      "nota": "o certo cortado: os mapas anexos ao revogado ficam em vigor noutro artigo"
+     }
+    },
+    "segunda": {
+     "data": "2026-11-14",
+     "seed": 20261114,
+     "amostra": 150,
+     "auditoria": {
+      "casos": 45,
+      "concordam": 43
+     },
+     "por_segmento": {
+      "a": {
+       "amostra": 95,
+       "certos": 89,
+       "ponderada": 0.936,
+       "wilson_95": [
+        0.867,
+        0.97
+       ]
+      },
+      "b": {
+       "amostra": 29,
+       "certos": 22,
+       "ponderada": 0.759,
+       "wilson_95": [
+        0.579,
+        0.878
+       ]
+      },
+      "c": {
+       "amostra": 26,
+       "certos": 16,
+       "ponderada": 0.614,
+       "wilson_95": [
+        0.416,
+        0.78
+       ]
+      }
+     }
+    },
+    "depois_da_segunda": {
+     "a": {
+      "amostra": 92,
+      "certos": 89
+     },
+     "b": {
+      "amostra": 26,
+      "certos": 22
+     },
+     "c": {
+      "amostra": 31,
+      "certos": 16
+     }
+    }
    }
   },
-  "provas_manuais": 85
+  "provas_manuais": 248
  },
  "validacao": {}
 }

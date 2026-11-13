@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto Regulamentar n.º 48/91: revogação total pela norma revogatória do diploma Decreto-Lei n.º 536/99 (Artigo
+    9.º), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:632930:por'
+    detail: É revogado o Decreto Regulamentar n.º 48/91, de 20 de Setembro.
 notes: []
 language: por
 version:
@@ -104,6 +114,13 @@ relationships:
   label: "Revogado pelo DEC LEI.536/99.1999.12.13.MF, DR.IS-A [288]\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/536-1999-632930
   date: '1999-12-13'
+- type: repealed_by
+  target: pt:dre:632930:por
+  label: 'Decreto Regulamentar n.º 48/91: revogação total pela norma revogatória do diploma Decreto-Lei n.º 536/99 (Artigo
+    9.º), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1999-12-18'
 article_structure:
   article_count: 0
   section_count: 0

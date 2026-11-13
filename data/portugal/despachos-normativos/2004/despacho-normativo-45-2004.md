@@ -36,7 +36,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Despacho Normativo n.º 45/2004: revogação total pela norma revogatória do diploma Despacho Normativo n.º 2/2010
+    (Artigo 35.º, n.º 3), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:3670078:por'
+    detail: 3 - É revogado o Despacho Normativo n.º 45/2004, publicado no Diário da República, 1.ª série-B, n.º 254, de 28
+      de Outubro de 2004.
 notes: []
 language: por
 version:
@@ -97,6 +108,13 @@ relationships:
   target: celex:32004R2237
   label: null
   source: http://data.europa.eu/eli/reg/2004/2237/oj
+- type: repealed_by
+  target: pt:dre:3670078:por
+  label: 'Despacho Normativo n.º 45/2004: revogação total pela norma revogatória do diploma Despacho Normativo n.º 2/2010
+    (Artigo 35.º, n.º 3), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2010-01-30'
 article_structure:
   article_count: 11
   section_count: 0

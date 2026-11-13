@@ -34,7 +34,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Substituído pela revisão do PDM da Murtosa (Aviso n.º 7246/2015), em vigor desde 2015-07-05 (regra supletiva do
+    5.º dia após a publicação, Lei n.º 74/98, art. 2.º, n.º 2, sem cláusula própria no texto do acervo: o Regulamento não
+    foi extraído para o acervo). O DRE dá a Resolução do Conselho de Ministros n.º 75/2002 como em vigor.'
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:67637909:por'
+    detail: deliberou, por maioria, aprovar a versão final da Revisão do Plano Diretor Municipal da Murtosa (RPDMM), incluindo
+      o Regulamento
 notes: []
 language: por
 version:
@@ -179,6 +190,13 @@ relationships:
   target: pt:dre:655682:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:67637909:por
+  label: 'Substituído pela revisão do PDM da Murtosa (Aviso n.º 7246/2015), em vigor desde 2015-07-05 (regra supletiva do
+    5.º dia após a publicação, Lei n.º 74/98, art. 2.º, n.º 2, sem cláusula própria no texto do acervo: o Regulamento não
+    foi extraído para o acervo). O DRE dá a Resolução do Conselho de Ministros n.º 75/2002 como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2015-07-05'
 - type: repealed_by
   target: pt:dre:121357916:por
   label: Revogada a al a) do n.º 2 do art. 4.º e renumerado o Regulamento do Plano Diretor Municipal da Murtosa, ratificado

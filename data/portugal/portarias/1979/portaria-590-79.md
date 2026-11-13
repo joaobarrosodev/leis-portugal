@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/25900/28762878.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 590/79: revogação total pela norma revogatória do diploma Portaria n.º 762/83 (Disposição revogatória),
+    lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o
+    DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:453776:por'
+    detail: É revogada a Portaria n.º 590/79, de 9 de Novembro.
 notes: []
 language: por
 version:
@@ -72,6 +82,13 @@ relationships:
   target: pt:dre:309534:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:453776:por
+  label: 'Portaria n.º 590/79: revogação total pela norma revogatória do diploma Portaria n.º 762/83 (Disposição revogatória),
+    lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o
+    DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1983-07-16'
 article_structure:
   article_count: 0
   section_count: 0

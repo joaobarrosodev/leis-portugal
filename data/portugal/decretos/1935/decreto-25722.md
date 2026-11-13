@@ -25,7 +25,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1935/08/18000/11631164.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto n.º 25722: revogação total pela norma revogatória do diploma Decreto n.º 48539 (Art. 7.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:276059:por'
+    detail: Fica revogado o Decreto n.º 25722, de 6 de Agosto de 1935.
 notes: []
 language: por
 version:
@@ -70,6 +80,12 @@ subjects:
 - Exército
 - Regulamento
 relationships:
+- type: repealed_by
+  target: pt:dre:276059:por
+  label: 'Decreto n.º 25722: revogação total pela norma revogatória do diploma Decreto n.º 48539 (Art. 7.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 - type: repealed_by
   target: pt:dre:668565:por
   label: "Revogado nos termos do artigo 9.º, o artigo 4.º pelo DEC.38887.29.08.1952.MX, DG.IS [191] de 29.08.1952\0\0"

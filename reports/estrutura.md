@@ -6,16 +6,16 @@ Gerado por `leis-portugal structure --dry-run` em 2026-11-13. Nenhum registo foi
 
 | | Diplomas | % dos com texto |
 | --- | --: | --: |
-| Registos portugueses e regionais | 323.150 | |
-| Com texto | 221.977 | 100% |
-| Com artigos identificados (artigos, bases ou cláusulas) | 66.109 | 29,8% |
-| Só com números do dispositivo (`1.º`, `1 -`) | 58.666 | 26,4% |
+| Registos portugueses e regionais | 323.151 | |
+| Com texto | 221.978 | 100% |
+| Com artigos identificados (artigos, bases ou cláusulas) | 66.110 | 29,8% |
+| Só com números do dispositivo (`1.º`, `1 -`) | 58.667 | 26,4% |
 | Artigos só nos anexos | 593 | 0,3% |
-| Sem divisão (texto único) | 96.609 | 43,5% |
+| Sem divisão (texto único) | 96.608 | 43,5% |
 
-- Diplomas com artigos identificados por títulos `######` (o que o export conta hoje): 40.233; só em texto corrido (novos): 83.635.
-- Em vigor com texto: 134.286; com artigos: 38.911 (29,0%); com artigos ou números: 78.355 (58,3%).
-- Artigos com id: 994.441; números com id: 286.709.
+- Diplomas com artigos identificados por títulos `######` (o que o export conta hoje): 40.234; só em texto corrido (novos): 83.636.
+- Em vigor com texto: 134.286; com artigos: 38.911 (29,0%); com artigos ou números: 78.356 (58,4%).
+- Artigos com id: 994.525; números com id: 286.711.
 - Diplomas com anexos com artigos: 6.621; com numeração repetida na mesma parte (chave `art-5-2`): 1.082; com ids repetidos: 0.
 
 ## Entrada em vigor
@@ -23,7 +23,7 @@ Gerado por `leis-portugal structure --dry-run` em 2026-11-13. Nenhum registo foi
 | | Diplomas | % dos com texto |
 | --- | --: | --: |
 | Data calculada a partir da cláusula | 31.035 | 14,0% |
-| Só a regra (não dá para calcular) | 4.081 | 1,8% |
+| Só a regra (não dá para calcular) | 4.082 | 1,8% |
 | Regra supletiva (5.º dia após a publicação) | 52.415 | 23,6% |
 | Sem cláusula e sem regra supletiva | 134.446 | 60,6% |
 
@@ -53,35 +53,43 @@ Por jurisdição e série:
 | | Com data | Só regra | Supletiva | Sem cláusula |
 | --- | --: | --: | --: | --: |
 | portugal / série I | 23.211 | 3.322 | 52.415 | 80.439 |
-| portugal / série II | 3.014 | 425 | 0 | 47.653 |
+| portugal / série II | 3.014 | 426 | 0 | 47.653 |
 | regional / série ? | 0 | 0 | 0 | 4 |
 | regional / série I | 4.754 | 333 | 0 | 6.110 |
 | regional / série II | 56 | 1 | 0 | 240 |
 
 ## Vigência desconhecida
 
-Diplomas com `legal_status: unknown`: 124.274. Estado proposto com prova: **352** (not_in_force: 22, repealed: 330).
+Diplomas com `legal_status: unknown`: 124.275. Estado proposto com prova: **342** (not_in_force: 22, repealed: 320).
 
 | Categoria | Diplomas |
 | --- | --: |
 | Caducado (vigência temporária já passada, sem alterações) | 22 |
-| Provas em conflito (o mesmo revogador, total e parcial) | 6 |
-| Só PDF e anterior a 1960: histórico, fora do índice de lei atual | 61.808 |
+| Provas em conflito (o mesmo revogador, total e parcial) | 7 |
+| Só PDF e anterior a 1960: histórico, fora do índice de lei atual | 61.812 |
 | Só revogação parcial: o resto continua desconhecido | 138 |
 | Revogação sem âmbito conhecido (relação sem etiqueta) | 49 |
-| Revogado (prova de revogação total) | 330 |
-| Sem prova | 61.921 |
+| Revogado (prova de revogação total) | 320 |
+| Sem prova | 61.927 |
 
-Revogações lidas nas normas revogatórias: 17.623 (sobre 15.316 diplomas).
+Revogações lidas nas normas revogatórias: 17.131 (sobre 15.068 diplomas).
 
 Precisão das provas de revogação total nos diplomas cujo estado o DRE conhece:
 
 | Prova | DRE: revogado | DRE: sem vigência | DRE: em vigor | Concordam |
 | --- | --: | --: | --: | --: |
-| Norma revogatória (texto) | 312 | 9.947 | 951 | 91,5% |
-| Relação do DRE (etiqueta) | 0 | 20.410 | 1.101 | 94,9% |
+| Norma revogatória (texto) | 292 | 9.597 | 827 | 92,3% |
+| Relação do DRE (etiqueta) | 0 | 20.410 | 1.106 | 94,9% |
 
-**Texto contra o DRE.** 785 diplomas que o DRE dá em vigor têm uma revogação total lida na norma revogatória de outro diploma do acervo (824 provas). Numa amostra verificada às cegas (2026-11-13, 113 casos estratificados por tipo, lida a norma inteira do revogador), 78 eram revogações totais, imediatas e incondicionais (69,0%); com a regra de hoje, 78 de 99 (78,8%, medido na mesma amostra). Os erros: ligação do DRE para outro diploma com o mesmo número (sobretudo diplomas regionais ligados a nacionais), revogações diferidas ou parciais noutro artigo, diplomas só citados (listas de imóveis classificados, notas). Abaixo dos 98%, o estado do DRE não se substitui por esta prova: só os casos verificados entram, como prova manual (`vigencia-manual.jsonl`). Lista e veredictos: `vigencia-texto-contra-dre.jsonl`.
+**Texto contra o DRE.** 729 diplomas que o DRE dá em vigor têm uma revogação total lida na norma revogatória de outro diploma do acervo (736 provas). Cada prova tem um segmento: a identidade do diploma ligado (o número do rótulo, a data citada até 20 dias antes da publicação, a entidade e a série) e os sinais contra (alteração registada no DRE depois do revogador, outro revogador ou revogação parcial no DRE, repristinação, declaração de retificação, "legislação em contrário").
+
+| Segmento | Provas | Amostra às cegas | Certos | Precisão ponderada | Wilson 95 % |
+| --- | --: | --: | --: | --: | --: |
+| a: identidade confirmada (número e data), nacional, sem sinais contra | 507 | 95 | 89 | 93,6% | 86,7% – 97,0% |
+| b: só o número confirmado (sem data citada), nacional, sem sinais contra | 35 | 29 | 22 | 75,9% | 57,9% – 87,8% |
+| c: algum sinal contra (identidade suspeita, série, alteração posterior, conflito no DRE, repristinação, retificação) ou regional | 194 | 26 | 16 | 61,4% | 41,6% – 78,0% |
+
+Amostra de 2026-11-14 (seed 20261114, 150 casos nunca verificados, estratificada por segmento e tipo): verificadores às cegas e auditoria de todos os "não" e de 20 "sim" (43 de 45 concordam; prevalece a auditoria). A primeira amostra (2026-11-13, 113 casos: 78 certos, 69,0%) serviu para afinar a regra e não conta para a medida. Os erros que ficam: outro diploma com o mesmo número e data próxima (só a matéria os distingue), ressalvas de situações em curso noutro artigo e revogações diferidas. Nenhum segmento chega aos 98%: o estado do DRE não se substitui por esta prova. Só os casos verificados entram, como prova manual (`vigencia-manual.jsonl`). Lista, segmentos e veredictos: `vigencia-texto-contra-dre.jsonl`.
 
 As propostas, com as provas e a proveniência de cada uma, estão em `vigencia-proposta.jsonl`.
 

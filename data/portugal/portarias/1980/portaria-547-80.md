@@ -25,7 +25,19 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19800/24312434.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 547/80: revogação total pela norma revogatória do diploma Decreto-Lei n.º 166/91 (Artigo 26.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:609645:por'
+    detail: Ficam revogados o Decreto-Lei n.º 485/77, de 17 de Novembro, e a Portaria n.º 547/80, de 28 de Agosto, Portaria
+      n.º 795/80, de 7 de Outubro, Portaria n.º 880/81, de 2 de Outubro, Portaria n.º 128/85, de 6 de Março, Portaria n.º
+      754/85, de 4 de Outubro, e Portaria n.º 461/87, de 2 de Ju
 notes: []
 language: por
 version:
@@ -197,6 +209,13 @@ relationships:
   label: "Revogada no que se refere à Comissão da Condição Feminina, pelo DEC LEI.166/91.1991.05.09.PCM, DR.IS-A [106]\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-1991-609645
   date: '1991-05-09'
+- type: repealed_by
+  target: pt:dre:609645:por
+  label: 'Portaria n.º 547/80: revogação total pela norma revogatória do diploma Decreto-Lei n.º 166/91 (Artigo 26.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1991-05-14'
 article_structure:
   article_count: 0
   section_count: 0

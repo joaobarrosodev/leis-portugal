@@ -277,12 +277,17 @@
             "norma_revogatoria",
             "relacao_dre",
             "clausula_vigencia",
-            "prova_manual"
+            "prova_manual",
+            "norma_revogatoria_contra_dre"
           ]
         },
         "dre_status": {
           "type": "string",
-          "description": "Prova manual: o estado que a fonte dá (volta se a prova for retirada de reports/vigencia-manual.jsonl)."
+          "description": "Prova manual ou norma revogatória contra o DRE: o estado que a fonte dá (volta se a prova for retirada)."
+        },
+        "segment": {
+          "type": "string",
+          "description": "Norma revogatória contra o DRE: o segmento de precisão medida da prova (reports/estrutura.md)."
         },
         "reason": {
           "type": "string",

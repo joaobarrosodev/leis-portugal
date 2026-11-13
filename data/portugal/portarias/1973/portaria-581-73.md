@@ -25,7 +25,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/08/19900/15111512.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 581/73: revogação total pela norma revogatória do diploma Portaria n.º 640/74 (21.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:483418:por'
+    detail: 21.º Ficam revogadas as Portarias n.os 468/71 e 581/73, respectivamente de 30 e 25 de Agosto.
 notes: []
 language: por
 version:
@@ -75,6 +85,12 @@ relationships:
   target: pt:dre:605807:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:483418:por
+  label: 'Portaria n.º 581/73: revogação total pela norma revogatória do diploma Portaria n.º 640/74 (21.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

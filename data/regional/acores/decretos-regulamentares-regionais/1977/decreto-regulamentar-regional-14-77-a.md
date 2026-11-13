@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08900/08600860.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto Regulamentar Regional n.º 14/77/A: revogação total pela norma revogatória do diploma Decreto Regulamentar
+    Regional n.º 13/78/A (Art. 39.º), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:298052:por'
+    detail: É revogado o Decreto Regulamentar Regional n.º 14/77/A, de 16 de Abril.
 notes: []
 language: por
 version:
@@ -73,7 +83,13 @@ subjects:
 - Governo Regional
 - Orgânica
 - Secretaria Regional da Educação e Cultura
-relationships: []
+relationships:
+- type: repealed_by
+  target: pt:dre:298052:por
+  label: 'Decreto Regulamentar Regional n.º 14/77/A: revogação total pela norma revogatória do diploma Decreto Regulamentar
+    Regional n.º 13/78/A (Art. 39.º), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

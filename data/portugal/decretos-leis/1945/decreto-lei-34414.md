@@ -29,7 +29,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1945/02/03700/00930093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 34414: revogação total pela norma revogatória do diploma Decreto-Lei n.º 12/74 (Art. 39.º, n.º
+    1, al. a)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:408298:por'
+    detail: a) O Decreto-Lei n.º 34414, de 20 de Fevereiro de 1945, e o Decreto-Lei n.º 42131, de 31 de Janeiro de 1959
 notes: []
 language: por
 version:
@@ -74,7 +84,14 @@ subjects:
 - Funchal
 - Pessoal Contratado
 - Remuneração
-relationships: []
+relationships:
+- type: repealed_by
+  target: pt:dre:408298:por
+  label: 'Decreto-Lei n.º 34414: revogação total pela norma revogatória do diploma Decreto-Lei n.º 12/74 (Art. 39.º, n.º 1,
+    al. a)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1974-03-01'
 article_structure:
   article_count: 0
   section_count: 0

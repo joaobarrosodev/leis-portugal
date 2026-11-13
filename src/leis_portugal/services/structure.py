@@ -28,7 +28,7 @@ from leis_portugal.domain.articles import Article, number_slug, parse_articles
 from leis_portugal.domain.entry_into_force import extract
 from leis_portugal.domain.history import render_version, version_at
 from leis_portugal.domain.record import Relationship
-from leis_portugal.domain.validity import Repeal, propose, repeals_in
+from leis_portugal.domain.validity import Repeal, identity, label_scope, propose, repeals_in
 from leis_portugal.infrastructure.markdown import read_markdown_record, write_if_changed
 from leis_portugal.infrastructure.markdown import render_markdown as render_record
 from leis_portugal.infrastructure.repository import PORTUGUESE_SCOPES, Acervo
@@ -81,13 +81,18 @@ def analyse(path: str, root: str) -> dict[str, Any] | None:
     )
     repeals = repeals_in(articles, body, source=record_id) if quality == "texto" and record_id else []
     relations = [
-        {"type": item.get("type"), "target": item.get("target"), "label": item.get("label")}
+        {"type": item.get("type"), "target": item.get("target"), "label": item.get("label"), "date": item.get("date")}
         for item in metadata.get("relationships") or []
         if item.get("type") in _RELATION_TYPES
     ]
     return {
         "id": record_id,
         "path": os.path.relpath(path, root),
+        # Identificação, para confirmar que uma ligação de uma norma revogatória aponta para este diploma.
+        "official_number": metadata.get("official_number"),
+        "title": metadata.get("title"),
+        "summary": (metadata.get("summary") or "")[:400],
+        "issuing_authority": list(metadata.get("issuing_authority") or []),
         "jurisdiction": metadata.get("jurisdiction"),
         "document_type": metadata.get("document_type"),
         "series": publication.get("series"),
@@ -158,6 +163,8 @@ class StructureReport:
     validation: dict[str, Any] = field(default_factory=dict)
     rows: list[dict[str, Any]] = field(default_factory=list)
     manual: list[ManualProof] = field(default_factory=list)
+    # Provas de revogação total lidas no texto de diplomas que o DRE dá em vigor, com os sinais e o segmento.
+    against_dre: list[dict[str, Any]] = field(default_factory=list)
 
 
 def _status_group(status: str) -> str:
@@ -176,16 +183,159 @@ def competent(source: dict[str, Any], target: dict[str, Any] | None) -> bool:
     return source.get("jurisdiction") != "regional" or target.get("jurisdiction") == "regional"
 
 
+# Uma regra de efeitos sem data que depende de outro ato ("com a entrada em vigor do decreto
+# regulamentar regional…"); as retroativas ("desde a data da sua assinatura", "imediatos") não diferem nada.
+_DEFERRED_EFFECTS = re.compile(
+    r"(?:entrada\s+em\s+vigor|publica[çc][ãa]o|aprova[çc][ãa]o|in[íi]cio\s+de\s+(?:vig[êe]ncia|funcionamento))\s+d(?:[oa]s?)\s+(?!presente|sua\b)|"
+    r"regulamenta[çc][ãa]o|\bquando\b|\bap[óo]s\s+(?:a|o)\s+(?!data\s+da\s+sua|sua)",
+    re.IGNORECASE,
+)
+
+
 def plausible(source: dict[str, Any], target: dict[str, Any] | None, *, today: str) -> bool:
     """Se uma revogação lida no texto pode ser do diploma para que a ligação aponta, e já produziu efeitos:
     o revogador tem competência, não é anterior ao revogado (uma "revogação" num diploma mais antigo é
-    uma nota editorial) e já entrou em vigor (um decreto-lei de 2026 que só vigora em 2027 ainda não revogou)."""
+    uma nota editorial), já entrou em vigor (um decreto-lei de 2026 que só vigora em 2027 ainda não revogou)
+    e já produz efeitos (sem uma regra de efeitos por datar nem uma data de efeitos futura)."""
     if not competent(source, target):
         return False
-    eif = (source.get("entry_into_force") or {}).get("date")
-    if eif and eif > today:
+    eif = source.get("entry_into_force") or {}
+    if eif.get("date") and eif["date"] > today:
+        return False
+    # Efeitos diferidos: "produz efeitos na data de entrada em vigor do decreto regulamentar regional…"
+    # (só a regra, sem data) ou uma data de efeitos ainda por chegar.
+    if eif.get("effects_rule") and not eif.get("effects_date") and _DEFERRED_EFFECTS.search(eif["effects_rule"]):
+        return False
+    if eif.get("effects_date") and eif["effects_date"] > today:
         return False
     return target is None or (source.get("publication_date") or "9999") >= (target.get("publication_date") or "")
+
+
+# Segmentos das provas de revogação total contra o `in_force` do DRE (ver `proof_segment`). Só os
+# segmentos com precisão medida de pelo menos `AGAINST_DRE_SAMPLE["limiar"]` entram como base automática.
+SEGMENTS = {
+    "a": "identidade confirmada (número e data), nacional, sem sinais contra",
+    "b": "só o número confirmado (sem data citada), nacional, sem sinais contra",
+    "c": "algum sinal contra (identidade suspeita, série, alteração posterior, conflito no DRE, repristinação, retificação) ou regional",
+}
+APPROVED_SEGMENTS: frozenset[str] = frozenset()
+
+
+def proof_signals(source: dict[str, Any], repeal: Repeal, target: dict[str, Any] | None, by_id: dict[str, dict[str, Any]]) -> dict[str, Any]:
+    """Os sinais de uma revogação total lida no texto: a identidade do diploma ligado e o que a contraria."""
+    state, signals = identity(repeal, target)
+    signals = list(signals)
+    if source.get("document_type") == "declaracao-retificacao":
+        # Uma declaração de retificação corrige (ou republica) outro diploma: não revoga.
+        signals.append("retificacao")
+    if _IN_CONTRARY.search(repeal.text):
+        # "Fica revogada toda a legislação em contrário, nomeadamente o…": pode ficar pela incompatibilidade.
+        signals.append("legislacao_em_contrario")
+    cited_series = _cited_series(repeal.text)
+    if target and cited_series and cited_series != _series_group(target.get("series"), target.get("jurisdiction")):
+        # "A Portaria n.º 857/2004, publicada na 2.ª série", ou "no Jornal Oficial dos Açores", ligada a um diploma da 1.ª série.
+        signals.append("serie")
+    if target and any(_REPRISTINATED.search(relation.get("label") or "") for relation in target.get("relations") or []):
+        # "Repõe em vigor": o revogador foi revogado e o revogado repristinado (DL 94/2007 pela Lei n.º 7-A/2016).
+        signals.append("repristinado")
+    regulator = _regulator(" ".join([*(source.get("issuing_authority") or []), source.get("title") or ""]))
+    if target and regulator and _regulator(" ".join([*(target.get("issuing_authority") or []), target.get("title") or ""])) != regulator:
+        # Um regulador (Banco de Portugal, CMVM, seguros) só revoga atos seus: o "Aviso n.º 12/2001" de um
+        # aviso do Banco de Portugal não é o aviso do Ministério dos Negócios Estrangeiros com o mesmo número.
+        signals.append("entidade")
+    published = source.get("publication_date") or ""
+    if target:
+        for relation in target.get("relations") or []:
+            other = relation.get("target")
+            if relation.get("type") == "amended_by" and other != source.get("id"):
+                when = relation.get("date") or (by_id.get(other) or {}).get("publication_date") or ""
+                if published and when > published:
+                    # Um diploma revogado não se altera: o DRE regista uma alteração posterior ao revogador.
+                    signals.append("alteracao_posterior")
+                    break
+        for relation in target.get("relations") or []:
+            if relation.get("type") != "repealed_by":
+                continue
+            scope = label_scope("repealed_by", relation.get("label"))
+            if relation.get("target") != source.get("id") or scope in ("parcial", "condicional", "outro"):
+                signals.append("conflito_dre")
+                break
+    for relation in source.get("relations") or []:
+        if relation.get("type") == "repeals" and relation.get("target") == repeal.target:
+            if label_scope("repeals", relation.get("label")) in ("parcial", "condicional"):
+                signals.append("conflito_dre")
+            break
+    national = source.get("jurisdiction") == "portugal" and (target or {}).get("jurisdiction") == "portugal"
+    return {"identidade": state, "sinais": sorted(set(signals)), "nacional": national}
+
+
+_CITED_SERIES = re.compile(r"(?P<two>\b2\.?\s*[ªa]\s*s[ée]rie|\(2\.ª\s+s[ée]rie\)|II\s+s[ée]rie)|(?P<one>\b1\.?\s*[ªa]\s*s[ée]rie)|(?P<regional>Jornal\s+Oficial)", re.IGNORECASE)
+
+
+def _cited_series(text: str) -> str | None:
+    match = _CITED_SERIES.search(text)
+    if not match:
+        return None
+    if match.group("regional"):
+        return "regional"
+    return "II" if match.group("two") else "I"
+
+
+def _series_group(series: str | None, jurisdiction: str | None) -> str | None:
+    if jurisdiction == "regional":
+        return "regional"
+    return "II" if (series or "").upper().startswith("II") else "I"
+
+
+_REPRISTINATED = re.compile(r"rep[õo]e\s+em\s+vigor|repristin", re.IGNORECASE)
+_IN_CONTRARY = re.compile(r"em\s+contr[áa]rio", re.IGNORECASE)
+_REGULATORS = {
+    "banco de portugal": "bdp", "valores mobili": "cmvm", "cmvm": "cmvm", "seguros de portugal": "seguros",
+    "supervisão de seguros": "seguros", "supervisao de seguros": "seguros",
+}
+
+
+def _regulator(text: str) -> str | None:
+    lowered = text.lower()
+    return next((value for key, value in _REGULATORS.items() if key in lowered), None)
+
+
+def proof_segment(signals: dict[str, Any]) -> str:
+    if signals["sinais"] or not signals["nacional"]:
+        return "c"
+    return "a" if signals["identidade"] == "confirmada" else "b"
+
+
+AGAINST_DRE_CATEGORY = "revogado_contra_dre"
+AGAINST_DRE_SOURCE = "norma_revogatoria_contra_dre"
+
+
+def _against_dre(row: dict[str, Any], repeals: list[Repeal], proposal: Any, by_id: dict[str, dict[str, Any]]) -> dict[str, Any]:
+    """As provas de revogação total de um diploma `in_force` no DRE, com o segmento de cada uma, e a
+    proposta `repealed` quando uma prova é de um segmento aprovado e nenhuma outra a contraria
+    (revogação parcial ou condicional, conflito)."""
+    proofs: list[dict[str, Any]] = []
+    for repeal in repeals:
+        if repeal.scope != "total":
+            continue
+        source = by_id.get(repeal.source) or {}
+        signals = proof_signals(source, repeal, row, by_id)
+        proofs.append({
+            "alvo": row["id"], "revogador": repeal.source, "artigo": repeal.article, "excerto": repeal.text,
+            "rotulo": repeal.label, "data_citada": repeal.cited_date, "entidade_citada": repeal.cited_entity,
+            **signals, "segmento": proof_segment(signals),
+        })
+    approved = [item for item in proofs if item["segmento"] in APPROVED_SEGMENTS]
+    against = any(item.status in ("partially_repealed", "unclear") for item in proposal.evidence)
+    if not approved or against or any(item["segmento"] not in APPROVED_SEGMENTS for item in proofs):
+        return {"provas": proofs, "proposta": None}
+    chosen = {f"norma revogatória: {item['revogador']}#{item['artigo'] or 'texto'}" for item in approved}
+    evidence = [item.to_dict() for item in proposal.evidence if item.provenance in chosen]
+    segment = min(item["segmento"] for item in approved)
+    return {
+        "provas": proofs,
+        "proposta": {"status": "repealed", "category": AGAINST_DRE_CATEGORY, "dre_status": "in_force", "segmento": segment, "evidence": evidence},
+    }
 
 
 def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
@@ -269,6 +419,9 @@ def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
     # Diplomas que o DRE dá em vigor e que uma norma revogatória de outro diploma revoga por inteiro.
     against_dre: set[str] = set()
     against_dre_proofs = 0
+    segments: Counter[str] = Counter()
+    segments_by_type: Counter[tuple[str, str]] = Counter()
+    proposed_against_dre = 0
     for row in rows:
         relations = row["relations"]
         eif = row["entry_into_force"] or {}
@@ -301,6 +454,15 @@ def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
                 if source == "texto" and row["legal_status"] == "in_force":
                     against_dre.add(row["id"])
                     against_dre_proofs += 1
+            if row["legal_status"] == "in_force":
+                against = _against_dre(row, text_repeals.get(row["id"], []), proposal, by_id)
+                for item in against["provas"]:
+                    segments[item["segmento"]] += 1
+                    segments_by_type[(item["segmento"], row["document_type"])] += 1
+                    report.against_dre.append(item)
+                if against["proposta"]:
+                    report.proposals.append({"id": row["id"], "path": row["path"], **against["proposta"]})
+                    proposed_against_dre += 1
             continue
         categories[proposal.category] += 1
         if proposal.status:
@@ -330,6 +492,13 @@ def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
         "texto_contra_dre": {
             "diplomas": len(against_dre),
             "provas": against_dre_proofs,
+            "por_segmento": {key: segments[key] for key in SEGMENTS},
+            "por_segmento_e_tipo": {
+                key: dict(sorted((kind, count) for (segment, kind), count in segments_by_type.items() if segment == key))
+                for key in SEGMENTS
+            },
+            "segmentos_aplicados": sorted(APPROVED_SEGMENTS),
+            "revogados_automaticamente": proposed_against_dre,
             "amostra_verificada": AGAINST_DRE_SAMPLE,
         },
     }
@@ -337,16 +506,35 @@ def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
     return report
 
 
-# Verificação às cegas (2026-11-13) das revogações totais lidas no texto de diplomas que o DRE dá
-# em vigor: amostra estratificada por tipo, seed 20261113; subagentes leram a norma inteira do
-# revogador e responderam se revoga o alvo por inteiro, de imediato e sem condição. Lista e
-# veredictos em `reports/vigencia-texto-contra-dre.jsonl`. `regra_atual`: os casos da amostra que
-# a regra de hoje ainda conta (sem os regionais contra nacionais, os revogadores ainda sem vigência
-# e os anteriores ao revogado) — medida na mesma amostra que a afinou, portanto otimista.
+# Verificação às cegas das revogações totais lidas no texto de diplomas que o DRE dá em vigor: os
+# verificadores leram a norma inteira do revogador e as transitórias, confirmaram a identidade do alvo
+# pelo front matter e responderam se o revoga por inteiro, de imediato e sem condição. Lista e
+# veredictos em `reports/vigencia-texto-contra-dre.jsonl`.
+# - `primeira` (2026-11-13, seed 20261113, por tipo): a regra de então; serviu para afinar a de hoje.
+# - `afinacao`: a regra de hoje nesses 113 casos, por segmento (otimista: afinada neles).
+# - `segunda` (seed 20261114, só casos nunca verificados, por segmento × tipo): 10 verificadores Sonnet;
+#   auditoria (Opus) de todos os não e de 20 sim, cujo veredicto prevalece; precisão ponderada pelo
+#   tamanho de cada estrato na população, com o intervalo de Wilson (n efetivo de Kish).
+# - `depois_da_segunda`: a regra final (série citada, repristinação, "à data da entrada em vigor das
+#   portarias…", juntados depois de medir) na mesma amostra: otimista.
+# Um segmento só se aplica sem prova manual com precisão ponderada >= `limiar`; nenhum chegou.
 AGAINST_DRE_SAMPLE = {
-    "data": "2026-11-13", "amostra": 113, "certos": 78, "errados": 33, "duvidas": 2,
-    "regra_atual": {"amostra": 99, "certos": 78, "errados": 19, "duvidas": 2},
     "limiar": 0.98,
+    "primeira": {"data": "2026-11-13", "amostra": 113, "certos": 78, "errados": 33, "duvidas": 2},
+    "afinacao": {
+        "a": {"amostra": 54, "certos": 54}, "b": {"amostra": 9, "certos": 9}, "c": {"amostra": 23, "certos": 14},
+        "fora": {"amostra": 27, "certos": 1, "nota": "o certo cortado: os mapas anexos ao revogado ficam em vigor noutro artigo"},
+    },
+    "segunda": {
+        "data": "2026-11-14", "seed": 20261114, "amostra": 150,
+        "auditoria": {"casos": 45, "concordam": 43},
+        "por_segmento": {
+            "a": {"amostra": 95, "certos": 89, "ponderada": 0.936, "wilson_95": [0.867, 0.970]},
+            "b": {"amostra": 29, "certos": 22, "ponderada": 0.759, "wilson_95": [0.579, 0.878]},
+            "c": {"amostra": 26, "certos": 16, "ponderada": 0.614, "wilson_95": [0.416, 0.780]},
+        },
+    },
+    "depois_da_segunda": {"a": {"amostra": 92, "certos": 89}, "b": {"amostra": 26, "certos": 22}, "c": {"amostra": 31, "certos": 16}},
 }
 
 
@@ -595,6 +783,13 @@ def legal_status_basis(proposal: dict[str, Any]) -> dict[str, Any]:
     """`legal_status_basis` de uma proposta: a fonte da primeira prova do estado proposto e as provas."""
     provenance = next(item["provenance"] for item in proposal["evidence"] if item["status"] == proposal["status"])
     source = next(value for prefix, value in _BASIS_SOURCES.items() if provenance.startswith(prefix))
+    if proposal.get("dre_status"):
+        # Norma revogatória contra o estado do DRE (segmento aprovado): o estado do DRE fica guardado
+        # e volta se a prova deixar de existir.
+        return {
+            "source": AGAINST_DRE_SOURCE, "dre_status": proposal["dre_status"], "segment": proposal["segmento"],
+            "evidence": [dict(item) for item in proposal["evidence"]],
+        }
     return {"source": source, "evidence": [dict(item) for item in proposal["evidence"]]}
 
 
@@ -639,7 +834,9 @@ def apply(acervo: Acervo, report: StructureReport, rows: list[dict[str, Any]], *
             summary.manual += 1
         elif "proposal" in change:
             proposal = change["proposal"]
-            if proposal and (record.legal_status == "unknown" or record.legal_status_basis):
+            if proposal and (
+                record.legal_status == "unknown" or record.legal_status_basis or proposal.get("dre_status") == record.legal_status
+            ):
                 record.legal_status = proposal["status"]
                 record.legal_status_basis = legal_status_basis(proposal)
                 record.relationships = _without_manual_relations(record.relationships)
@@ -810,19 +1007,47 @@ def _against_dre_lines(v: dict[str, Any]) -> list[str]:
     against = v.get("texto_contra_dre")
     if not against:
         return []
-    sample, current = against["amostra_verificada"], against["amostra_verificada"]["regra_atual"]
-    return [
+    sample = against["amostra_verificada"]
+    first, second = sample["primeira"], sample["segunda"]
+    segments = against.get("por_segmento") or {}
+    lines = [
         f"**Texto contra o DRE.** {_n(against['diplomas'])} diplomas que o DRE dá em vigor têm uma revogação total lida na norma "
-        f"revogatória de outro diploma do acervo ({_n(against['provas'])} provas). Numa amostra verificada às cegas "
-        f"({sample['data']}, {sample['amostra']} casos estratificados por tipo, lida a norma inteira do revogador), "
-        f"{sample['certos']} eram revogações totais, imediatas e incondicionais ({_pct(sample['certos'], sample['amostra'])}); "
-        f"com a regra de hoje, {current['certos']} de {current['amostra']} ({_pct(current['certos'], current['amostra'])}, medido na "
-        "mesma amostra). Os erros: ligação do DRE para outro diploma com o mesmo número (sobretudo diplomas regionais ligados a "
-        "nacionais), revogações diferidas ou parciais noutro artigo, diplomas só citados (listas de imóveis classificados, notas). "
-        f"Abaixo dos {sample['limiar']:.0%}, o estado do DRE não se substitui por esta prova: só os casos verificados entram, "
-        "como prova manual (`vigencia-manual.jsonl`). Lista e veredictos: `vigencia-texto-contra-dre.jsonl`.",
+        f"revogatória de outro diploma do acervo ({_n(against['provas'])} provas). Cada prova tem um segmento: a identidade do "
+        "diploma ligado (o número do rótulo, a data citada até 20 dias antes da publicação, a entidade e a série) e os sinais "
+        "contra (alteração registada no DRE depois do revogador, outro revogador ou revogação parcial no DRE, repristinação, "
+        "declaração de retificação, \"legislação em contrário\").",
+        "",
+        "| Segmento | Provas | Amostra às cegas | Certos | Precisão ponderada | Wilson 95 % |",
+        "| --- | --: | --: | --: | --: | --: |",
+    ]
+    for key, label in SEGMENTS.items():
+        item = second["por_segmento"].get(key) or {}
+        interval = item.get("wilson_95") or [None, None]
+        lines.append(
+            f"| {key}: {label} | {_n(segments.get(key, 0))} | {item.get('amostra', 0)} | {item.get('certos', 0)} | "
+            f"{_pct(round(item['ponderada'] * 1000), 1000) if item else '—'} | "
+            f"{_pct(round(interval[0] * 1000), 1000) if interval[0] is not None else '—'} – "
+            f"{_pct(round(interval[1] * 1000), 1000) if interval[1] is not None else '—'} |"
+        )
+    applied = against.get("segmentos_aplicados") or []
+    lines += [
+        "",
+        f"Amostra de {second['data']} (seed {second['seed']}, {second['amostra']} casos nunca verificados, estratificada por segmento "
+        f"e tipo): verificadores às cegas e auditoria de todos os \"não\" e de 20 \"sim\" ({second['auditoria']['concordam']} de "
+        f"{second['auditoria']['casos']} concordam; prevalece a auditoria). A primeira amostra ({first['data']}, {first['amostra']} casos: "
+        f"{first['certos']} certos, {_pct(first['certos'], first['amostra'])}) serviu para afinar a regra e não conta para a medida. "
+        "Os erros que ficam: outro diploma com o mesmo número e data próxima (só a matéria os distingue), ressalvas de situações em "
+        "curso noutro artigo e revogações diferidas. "
+        + (
+            f"Segmentos aplicados como base automática (`norma_revogatoria_contra_dre`): {', '.join(applied)}."
+            if applied
+            else f"Nenhum segmento chega aos {sample['limiar']:.0%}: o estado do DRE não se substitui por esta prova. Só os casos "
+            "verificados entram, como prova manual (`vigencia-manual.jsonl`). Lista, segmentos e veredictos: "
+            "`vigencia-texto-contra-dre.jsonl`."
+        ),
         "",
     ]
+    return lines
 
 
 _CATEGORY_LABELS = {

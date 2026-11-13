@@ -36,7 +36,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Despacho Normativo n.º 79/79: revogação total pela norma revogatória do diploma Despacho Normativo n.º 83/80 (2.º),
+    lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o
+    DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:679176:por'
+    detail: 2.º Fica revogado o Despacho Normativo n.º 79/79, publicado no suplemento ao Diário da República, 1.ª série, n.º
+      85, de 11 de Abril de 1979.
 notes: []
 language: por
 version:
@@ -105,6 +116,13 @@ relationships:
   label: Rectificado pela DECL.DD7423.08.06.1979.PCM, DR.IS [132] de 08.06.1979
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-383228
   date: '1979-06-08'
+- type: repealed_by
+  target: pt:dre:679176:por
+  label: 'Despacho Normativo n.º 79/79: revogação total pela norma revogatória do diploma Despacho Normativo n.º 83/80 (2.º),
+    lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o
+    DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1980-04-10'
 article_structure:
   article_count: 0
   section_count: 0

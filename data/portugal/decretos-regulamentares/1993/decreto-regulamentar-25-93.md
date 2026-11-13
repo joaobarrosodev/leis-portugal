@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto Regulamentar n.º 25/93: revogação total pela norma revogatória do diploma Decreto Regulamentar n.º 8/2003
+    (Artigo 2.º), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:226227:por'
+    detail: São revogados os Decretos Regulamentares n.os 61/91 e 25/93, respectivamente de 27 de Novembro e de 17 de Agosto.
 notes: []
 language: por
 version:
@@ -139,6 +149,13 @@ relationships:
   label: "Revogado pelo DR.8/2003.2003.03.28.MECO, DR.IS-B [86], a partir da sua entrada em vigor\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/8-2003-226227
   date: '2003-03-28'
+- type: repealed_by
+  target: pt:dre:226227:por
+  label: 'Decreto Regulamentar n.º 25/93: revogação total pela norma revogatória do diploma Decreto Regulamentar n.º 8/2003
+    (Artigo 2.º), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2003-05-11'
 article_structure:
   article_count: 24
   section_count: 0

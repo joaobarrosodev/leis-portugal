@@ -25,7 +25,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1941/10/23700/08980898.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 31565: revogação total pela norma revogatória do diploma Decreto-Lei n.º 319/72 (Art. 10.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:676460:por'
+    detail: Fica revogado o Decreto-Lei n.º 31565, de 10 de Outubro de 1941.
 notes: []
 language: por
 version:
@@ -79,6 +89,12 @@ relationships:
     \ art. 1.º, pela PORT.20043.03.09.1963.MECO, DG.IS [207] de 03.09.1963\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20043-1963-685775
   date: '1963-09-03'
+- type: repealed_by
+  target: pt:dre:676460:por
+  label: 'Decreto-Lei n.º 31565: revogação total pela norma revogatória do diploma Decreto-Lei n.º 319/72 (Art. 10.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0
