@@ -1,8 +1,10 @@
-"""Acórdãos do Tribunal Constitucional (www.tribunalconstitucional.pt).
+"""Acórdãos e decisões sumárias do Tribunal Constitucional (www.tribunalconstitucional.pt).
 
 As listagens anuais estão em blocos de 100 números (`/tc/acordaos/AAAA0001-0100.html`),
 com o processo, a formação, a espécie, a data e o relator; cada acórdão tem uma página
-HTML (`/tc/acordaos/AAAANNNN.html`) gerada a partir do Word. Não há API.
+HTML (`/tc/acordaos/AAAANNNN.html`) gerada a partir do Word. As decisões sumárias (do
+relator, desde 1998) estão em `/tc/decsumarias/`, com a mesma organização; o site só
+publica parte delas, por isso há números em falta. Não há API.
 """
 
 from __future__ import annotations
@@ -29,7 +31,8 @@ from leis_portugal.sources.content import SourceContent, SourceDocument
 from leis_portugal.sources.decisions import MONTHS, sha256
 
 
-BASE_URL = "https://www.tribunalconstitucional.pt/tc/acordaos/"
+SITE_URL = "https://www.tribunalconstitucional.pt/tc/"
+BASE_URL = f"{SITE_URL}acordaos/"
 SOURCE_ID = "tribunal-constitucional"
 SOURCE_NAME = "Tribunal Constitucional"
 FIRST_YEAR = 1983
@@ -48,6 +51,27 @@ REUSE = Reuse(
 
 
 @dataclass(frozen=True)
+class Collection:
+    path: str  # pasta do site: "acordaos"
+    slug: str  # no id: "pt:tc:acordao:2024:401"
+    label: str
+    document_type: str
+    first_year: int
+    option: str  # opção do `collect tc` que a recolhe
+
+    @property
+    def base_url(self) -> str:
+        return f"{SITE_URL}{self.path}/"
+
+
+ACORDAOS = Collection("acordaos", "acordao", "Acórdão do Tribunal Constitucional", DOCUMENT_TYPE, FIRST_YEAR, "")
+SUMARIAS = Collection(
+    "decsumarias", "decisao-sumaria", "Decisão sumária do Tribunal Constitucional",
+    "decisao-sumaria-tribunal-constitucional", 1998, " --sumarias",
+)
+
+
+@dataclass(frozen=True)
 class Listed:
     number: int
     year: int
@@ -57,6 +81,7 @@ class Listed:
     kind: str | None
     decided: str | None  # AAAA-MM-DD
     rapporteur: str | None
+    collection: Collection = ACORDAOS
 
     @property
     def official_number(self) -> str:
@@ -64,7 +89,7 @@ class Listed:
 
     @property
     def url(self) -> str:
-        return urljoin(BASE_URL, self.href)
+        return urljoin(self.collection.base_url, self.href)
 
 
 def decode(content: bytes) -> str:
@@ -75,24 +100,28 @@ def decode(content: bytes) -> str:
         return content.decode("cp1252", "replace")
 
 
-def block_url(year: int, start: int) -> str:
-    return f"{BASE_URL}{year}{start:04d}-{start + 99:04d}.html"
+def block_url(year: int, start: int, collection: Collection = ACORDAOS) -> str:
+    return f"{collection.base_url}{year}{start:04d}-{start + 99:04d}.html"
 
 
 def _date(value: str | None) -> str | None:
-    match = re.fullmatch(r"(\d{1,2})\.(\d{1,2})\.(\d{4})", (value or "").strip())
+    # As listagens das decisões sumárias dão o ano com dois algarismos ("02.01.25").
+    match = re.fullmatch(r"(\d{1,2})\.(\d{1,2})\.(\d{4}|\d{2})", (value or "").strip())
     if not match:
         return None
+    year = int(match.group(3))
+    if len(match.group(3)) == 2:
+        year += 1900 if year >= 83 else 2000
     try:
-        return date(int(match.group(3)), int(match.group(2)), int(match.group(1))).isoformat()
+        return date(year, int(match.group(2)), int(match.group(1))).isoformat()
     except ValueError:
         return None
 
 
-def parse_listing(page: str, year: int) -> list[Listed]:
+def parse_listing(page: str, year: int, collection: Collection = ACORDAOS) -> list[Listed]:
     soup = BeautifulSoup(page, "html.parser")
     items: list[Listed] = []
-    for row in soup.select("table.ilistashtmlminimal_in tr"):
+    for row in soup.select("table.ilistashtmlminimal_in tr, #dslistagem tr"):
         link = row.select_one("a[href]")
         if not link:
             continue
@@ -115,6 +144,7 @@ def parse_listing(page: str, year: int) -> list[Listed]:
                 kind=cell("especie"),
                 decided=_date(cell("data")),
                 rapporteur=cell("relator"),
+                collection=collection,
             )
         )
     return items
@@ -132,7 +162,7 @@ def judgment_markdown(page: str) -> str:
     sections = soup.find_all("div", class_=_SECTION)
     if not sections:
         # Algumas páginas trazem o documento Word inteiro dentro de #acimport, sem secções.
-        sections = [node for node in soup.select("#acimport") if node.find("p")]
+        sections = [node for node in soup.select("#acimport, #dsimport") if node.find("p")]
     if not sections:
         raise NoSourceText("Página sem o texto do acórdão (sem secções WordSection nem Section).")
     paragraphs: list[str] = []
@@ -153,24 +183,29 @@ class TcClient:
     def __init__(self, http: HttpClient | None = None) -> None:
         self.http = http or HttpClient(min_interval=1.0)
 
-    def listing(self, year: int) -> list[Listed]:
-        """Todos os acórdãos de um ano, bloco a bloco, até ao primeiro bloco vazio ou inexistente."""
+    def listing(self, year: int, collection: Collection = ACORDAOS) -> list[Listed]:
+        """Todas as decisões de um ano, bloco a bloco, até ao primeiro bloco vazio ou inexistente."""
         items: dict[int, Listed] = {}
         start = 1
         while True:
             try:
-                response = self.http.get(block_url(year, start))
+                response = self.http.get(block_url(year, start, collection))
             except FetchError as exc:
                 if "HTTP 404" in str(exc) and start > 1:
                     break
                 raise
-            block = parse_listing(decode(response.content), year)
+            block = parse_listing(decode(response.content), year, collection)
             if not block:
                 break
-            items.update((item.number, item) for item in block)
+            for item in block:
+                # Uma linha repetida com o mesmo número (a ligação errada de outra decisão): fica a
+                # que tem a data do ano do número.
+                earlier = items.get(item.number)
+                if earlier is None or not (earlier.decided or "").startswith(str(year)):
+                    items[item.number] = item
             start += 100
         if not items:
-            raise MetadataError(f"Tribunal Constitucional {year}: listagem sem acórdãos")
+            raise MetadataError(f"Tribunal Constitucional {year}: listagem sem decisões ({collection.path})")
         return [items[number] for number in sorted(items)]
 
     def page(self, item: Listed) -> SourceContent:
@@ -179,7 +214,7 @@ class TcClient:
 
 
 def record_id(item: Listed) -> str:
-    return f"pt:tc:acordao:{item.year}:{item.number}"
+    return f"pt:tc:{item.collection.slug}:{item.year}:{item.number}"
 
 
 # A linha da assinatura: "Lisboa, 3 de dezembro de 2019" (às vezes com o ano cortado: "de 199").
@@ -233,7 +268,8 @@ def decision_date(item: Listed, text: str) -> tuple[str | None, str | None]:
 
 
 def to_document(item: Listed, content: SourceContent, *, dre_id: str | None = None) -> SourceDocument:
-    title = f"Acórdão do Tribunal Constitucional n.º {item.official_number}"
+    collection = item.collection
+    title = f"{collection.label} n.º {item.official_number}"
     text = judgment_markdown(decode(content.content))
     notes = [
         f"{label}: {value}"
@@ -252,8 +288,8 @@ def to_document(item: Listed, content: SourceContent, *, dre_id: str | None = No
         id=record_id(item),
         title=title,
         jurisdiction="portugal",
-        document_type=DOCUMENT_TYPE,
-        document_type_label="Acórdão do Tribunal Constitucional",
+        document_type=collection.document_type,
+        document_type_label=collection.label,
         issuing_authority=[SOURCE_NAME],
         official_number=item.official_number,
         official_date=official_date,
@@ -264,12 +300,12 @@ def to_document(item: Listed, content: SourceContent, *, dre_id: str | None = No
             id=SOURCE_ID,
             name=SOURCE_NAME,
             official_url=item.url,
-            metadata_url=block_url(item.year, ((item.number - 1) // 100) * 100 + 1),
+            metadata_url=block_url(item.year, ((item.number - 1) // 100) * 100 + 1, collection),
             content_url=item.url,
             retrieval_method=RETRIEVAL_METHOD,
         ),
         integrity=Integrity(source_sha256=content.sha256),
-        provenance=Provenance(collector="leis-portugal Tribunal Constitucional", generated_by="leis-portugal collect tc"),
+        provenance=Provenance(collector="leis-portugal Tribunal Constitucional", generated_by=f"leis-portugal collect tc{collection.option}"),
         reuse=REUSE,
     )
     return SourceDocument(record=record, body=f"# {title}\n\n{text}", content=content)
