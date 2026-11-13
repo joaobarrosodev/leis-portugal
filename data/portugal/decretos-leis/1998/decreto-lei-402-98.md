@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 402/98: revogação total pela norma revogatória do diploma Decreto-Lei n.º 181/2003 (Art. 39.º,
+    alínea c)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:660295:por'
+    detail: c) Decreto-Lei n.º 402/98, de 17 de Dezembro
 notes: []
 language: por
 version:
@@ -104,6 +114,13 @@ relationships:
   label: "Revogado pelo DEC LEI.181/2003.2003.08.16.MC DR.IS-A [188]\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2003-660295
   date: '2003-08-16'
+- type: repealed_by
+  target: pt:dre:660295:por
+  label: 'Decreto-Lei n.º 402/98: revogação total pela norma revogatória do diploma Decreto-Lei n.º 181/2003 (Art. 39.º, alínea
+    c)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2003-09-01'
 article_structure:
   article_count: 2
   section_count: 0

@@ -24,7 +24,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/13400/08080808.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 362/75: revogação total pela norma revogatória do diploma Portaria n.º 882/92 (n.º 10.º), lida no
+    texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:239430:por'
+    detail: 10.º São revogadas as Portarias n.os 362/75, de 12 de Junho, e 533/85, de 1 de Agosto, cessando a validade do
+      crachá e do cartão emitidos ao seu abrigo em 31 de Dezembro de 1992.
 notes: []
 language: por
 version:
@@ -77,6 +88,13 @@ relationships:
   target: pt:dre:634734:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:239430:por
+  label: 'Portaria n.º 362/75: revogação total pela norma revogatória do diploma Portaria n.º 882/92 (n.º 10.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1992-09-16'
 article_structure:
   article_count: 0
   section_count: 0

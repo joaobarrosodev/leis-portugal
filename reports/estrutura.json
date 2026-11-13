@@ -5,21 +5,21 @@
   "com_texto": 221978,
   "por_unidade": {
    "artigos": 66110,
-   "nenhum": 96609,
-   "numeros": 58666,
+   "nenhum": 96608,
+   "numeros": 58667,
    "so_anexos": 593
   },
   "com_artigos": 66110,
-  "com_artigos_ou_numeros": 124776,
+  "com_artigos_ou_numeros": 124777,
   "em_vigor_com_texto": 134286,
   "em_vigor_com_artigos": 38911,
-  "em_vigor_com_artigos_ou_numeros": 78355,
+  "em_vigor_com_artigos_ou_numeros": 78356,
   "artigos_identificados": 994525,
-  "numeros_identificados": 286709,
+  "numeros_identificados": 286711,
   "com_anexos": 6621,
   "com_numeracao_repetida": 1082,
   "ids_duplicados": 0,
-  "so_texto_corrido": 83635,
+  "so_texto_corrido": 83636,
   "com_titulos": 41734,
   "artigos_antes": 40234
  },
@@ -132,28 +132,28 @@
   "desconhecidos": 124275,
   "por_categoria": {
    "caducado": 22,
-   "conflito": 6,
-   "historico_so_pdf": 61808,
+   "conflito": 7,
+   "historico_so_pdf": 61812,
    "revogacao_parcial": 138,
    "revogacao_por_confirmar": 49,
-   "revogado": 330,
-   "sem_prova": 61922
+   "revogado": 320,
+   "sem_prova": 61927
   },
   "estado_proposto": {
    "not_in_force": 22,
-   "repealed": 330
+   "repealed": 320
   },
-  "resolvidos": 352,
-  "revogacoes_lidas_no_texto": 17623,
-  "diplomas_revogados_no_texto": 15316,
+  "resolvidos": 342,
+  "revogacoes_lidas_no_texto": 17131,
+  "diplomas_revogados_no_texto": 15068,
   "precisao_nos_estados_conhecidos": {
    "texto": {
-    "repealed": 312,
-    "not_in_force": 9947,
-    "em_vigor": 951,
-    "concordam": 10259,
-    "total": 11210,
-    "taxa": 0.9152
+    "repealed": 292,
+    "not_in_force": 9597,
+    "em_vigor": 827,
+    "concordam": 9889,
+    "total": 10716,
+    "taxa": 0.9228
    },
    "relacao": {
     "repealed": 0,
@@ -165,189 +165,137 @@
    }
   },
   "texto_contra_dre": {
-   "diplomas": 785,
-   "provas": 824,
+   "diplomas": 729,
+   "provas": 736,
+   "por_segmento": {
+    "a": 507,
+    "b": 35,
+    "c": 194
+   },
+   "por_segmento_e_tipo": {
+    "a": {
+     "declaracao": 1,
+     "decreto": 69,
+     "decreto-lei": 62,
+     "decreto-regulamentar": 16,
+     "despacho": 3,
+     "despacho-normativo": 34,
+     "lei": 2,
+     "portaria": 318,
+     "regulamento": 1,
+     "resolucao-conselho-ministros": 1
+    },
+    "b": {
+     "aviso-banco-portugal": 1,
+     "decreto": 4,
+     "decreto-lei": 3,
+     "despacho": 1,
+     "despacho-normativo": 3,
+     "portaria": 19,
+     "regulamento": 2,
+     "resolucao": 1,
+     "resolucao-conselho-ministros": 1
+    },
+    "c": {
+     "aviso": 3,
+     "decreto": 5,
+     "decreto-legislativo-regional": 6,
+     "decreto-lei": 31,
+     "decreto-regional": 4,
+     "decreto-regulamentar": 5,
+     "decreto-regulamentar-regional": 19,
+     "despacho-normativo": 16,
+     "lei": 7,
+     "portaria": 96,
+     "resolucao": 1,
+     "resolucao-conselho-ministros": 1
+    }
+   },
+   "segmentos_aplicados": [],
+   "revogados_automaticamente": 0,
    "amostra_verificada": {
-    "data": "2026-11-13",
-    "amostra": 113,
-    "certos": 78,
-    "errados": 33,
-    "duvidas": 2,
-    "regra_atual": {
-     "amostra": 99,
+    "limiar": 0.98,
+    "primeira": {
+     "data": "2026-11-13",
+     "amostra": 113,
      "certos": 78,
-     "errados": 19,
+     "errados": 33,
      "duvidas": 2
     },
-    "limiar": 0.98
+    "afinacao": {
+     "a": {
+      "amostra": 54,
+      "certos": 54
+     },
+     "b": {
+      "amostra": 9,
+      "certos": 9
+     },
+     "c": {
+      "amostra": 23,
+      "certos": 14
+     },
+     "fora": {
+      "amostra": 27,
+      "certos": 1,
+      "nota": "o certo cortado: os mapas anexos ao revogado ficam em vigor noutro artigo"
+     }
+    },
+    "segunda": {
+     "data": "2026-11-14",
+     "seed": 20261114,
+     "amostra": 150,
+     "auditoria": {
+      "casos": 45,
+      "concordam": 43
+     },
+     "por_segmento": {
+      "a": {
+       "amostra": 95,
+       "certos": 89,
+       "ponderada": 0.936,
+       "wilson_95": [
+        0.867,
+        0.97
+       ]
+      },
+      "b": {
+       "amostra": 29,
+       "certos": 22,
+       "ponderada": 0.759,
+       "wilson_95": [
+        0.579,
+        0.878
+       ]
+      },
+      "c": {
+       "amostra": 26,
+       "certos": 16,
+       "ponderada": 0.614,
+       "wilson_95": [
+        0.416,
+        0.78
+       ]
+      }
+     }
+    },
+    "depois_da_segunda": {
+     "a": {
+      "amostra": 92,
+      "certos": 89
+     },
+     "b": {
+      "amostra": 26,
+      "certos": 22
+     },
+     "c": {
+      "amostra": 31,
+      "certos": 16
+     }
+    }
    }
   },
-  "provas_manuais": 121
+  "provas_manuais": 248
  },
- "validacao": {
-  "amostra": 177,
-  "consolidados_no_acervo": 8381,
-  "atual": {
-   "diplomas": 177,
-   "mesmo_numero_de_artigos": 172,
-   "tudo_igual": 170,
-   "partes_iguais": 174,
-   "artigos_dre": 6554,
-   "artigos_parser": 6539,
-   "epigrafes_iguais": 6444
-  },
-  "original": {
-   "diplomas": 152,
-   "mesmo_numero_de_artigos": 150,
-   "tudo_igual": 150,
-   "partes_iguais": 149,
-   "artigos_dre": 5170,
-   "artigos_parser": 5163,
-   "epigrafes_iguais": 5115
-  },
-  "diferencas": [
-   {
-    "path": "data/portugal/decretos-leis/1988/decreto-lei-5-a-88.md",
-    "artigos_parser": 50,
-    "artigos_dre": 49,
-    "mesmo_numero_de_artigos": false,
-    "numeros_iguais": 2,
-    "epigrafes_iguais": 2,
-    "partes_iguais": true,
-    "primeira_diferenca": {
-     "posicao": 2,
-     "parser": [
-      "",
-      "3.º",
-      "Órgãos e serviços"
-     ],
-     "dre": [
-      "",
-      "4.º",
-      "Presidente"
-     ]
-    }
-   },
-   {
-    "path": "data/portugal/decretos-leis/2000/decreto-lei-281-2000.md",
-    "artigos_parser": 22,
-    "artigos_dre": 22,
-    "mesmo_numero_de_artigos": true,
-    "numeros_iguais": 22,
-    "epigrafes_iguais": 21,
-    "partes_iguais": true,
-    "primeira_diferenca": {
-     "posicao": 5,
-     "parser": [
-      "",
-      "4.º-A",
-      ""
-     ],
-     "dre": [
-      "",
-      "4.º-A",
-      "Teor de enxofre máximo nos combustíveis navais utilizados em mares territoriais, zonas económicas exclusivas e zonas de controlo da poluição, incluindo zonas de controlo das emissões de SO(índice x) e pelos navios de passageiros que efetuam serviços regulares com partida ou destino em portos da União Europeia."
-     ]
-    }
-   },
-   {
-    "path": "data/portugal/decretos-leis/2015/decreto-lei-163-2015.md",
-    "artigos_parser": 39,
-    "artigos_dre": 39,
-    "mesmo_numero_de_artigos": true,
-    "numeros_iguais": 39,
-    "epigrafes_iguais": 36,
-    "partes_iguais": true,
-    "primeira_diferenca": {
-     "posicao": 15,
-     "parser": [
-      "",
-      "16.º",
-      ""
-     ],
-     "dre": [
-      "",
-      "16.º",
-      "Contraordenações no âmbito do Regulamento (UE) 2015/340, da Comissão, de 20 de fevereiro de 2015, e da secção vi do Regulamento (UE) 2018/1139, do Parlamento Europeu e do Conselho, de 4 de julho de 2018"
-     ]
-    }
-   },
-   {
-    "path": "data/portugal/portarias/2000/portaria-1226-du-2000.md",
-    "artigos_parser": 0,
-    "artigos_dre": 12,
-    "mesmo_numero_de_artigos": false,
-    "numeros_iguais": 0,
-    "epigrafes_iguais": 0,
-    "partes_iguais": false,
-    "primeira_diferenca": null
-   },
-   {
-    "path": "data/portugal/portarias/2015/portaria-373-2015.md",
-    "artigos_parser": 56,
-    "artigos_dre": 55,
-    "mesmo_numero_de_artigos": false,
-    "numeros_iguais": 19,
-    "epigrafes_iguais": 19,
-    "partes_iguais": true,
-    "primeira_diferenca": {
-     "posicao": 19,
-     "parser": [
-      "",
-      "20.º",
-      "Escolas de formação de nadadores-salvadores profissionais"
-     ],
-     "dre": [
-      "",
-      "21.º",
-      "Organização interna"
-     ]
-    }
-   },
-   {
-    "path": "data/portugal/portarias/2024/portaria-155-a-2024-1.md",
-    "artigos_parser": 10,
-    "artigos_dre": 8,
-    "mesmo_numero_de_artigos": false,
-    "numeros_iguais": 6,
-    "epigrafes_iguais": 5,
-    "partes_iguais": true,
-    "primeira_diferenca": {
-     "posicao": 5,
-     "parser": [
-      "",
-      "6.º",
-      "[...]"
-     ],
-     "dre": [
-      "",
-      "6.º",
-      "Alteração ao anexo iv da Portaria n.º 54-Q/2023, de 27 de fevereiro"
-     ]
-    }
-   },
-   {
-    "path": "data/portugal/resolucoes-conselho-ministros/1997/resolucao-conselho-ministros-13-97.md",
-    "artigos_parser": 1,
-    "artigos_dre": 8,
-    "mesmo_numero_de_artigos": false,
-    "numeros_iguais": 0,
-    "epigrafes_iguais": 0,
-    "partes_iguais": true,
-    "primeira_diferenca": {
-     "posicao": 0,
-     "parser": [
-      "",
-      "6.º",
-      "Natureza e cálculo dos incentivos a fundo perdido"
-     ],
-     "dre": [
-      "",
-      "1.º",
-      "Candidaturas"
-     ]
-    }
-   }
-  ]
- }
+ "validacao": {}
 }

@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/23203/00050006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 640/74: revogação total pela norma revogatória do diploma Portaria n.º 319/77 (26.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:253016:por'
+    detail: 26.º Ficam revogadas as Portarias n.os 640/74 e 642/74, de 4 de Outubro.
 notes: []
 language: por
 version:
@@ -90,6 +100,13 @@ relationships:
   target: pt:dre:630260:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:253016:por
+  label: 'Portaria n.º 640/74: revogação total pela norma revogatória do diploma Portaria n.º 319/77 (26.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1977-06-01'
 article_structure:
   article_count: 0
   section_count: 0

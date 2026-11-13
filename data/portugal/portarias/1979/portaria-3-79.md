@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/01/00200/00110012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 3/79: revogação total pela norma revogatória do diploma Portaria n.º 53/80 (1.º), lida no texto e
+    verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em
+    vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:679382:por'
+    detail: 1.º É revogada a Portaria n.º 3/79, de 3 de Janeiro.
 notes: []
 language: por
 version:
@@ -88,6 +98,11 @@ relationships:
   label: Rectificada pela DECL.DD7059.17.01.1979.PCM, DR.IS [14] de 17.01.1979
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-392060
   date: '1979-01-17'
+- type: repealed_by
+  target: pt:dre:679382:por
+  label: 'Portaria n.º 3/79: revogação total pela norma revogatória do diploma Portaria n.º 53/80 (1.º), lida no texto e verificada
+    às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

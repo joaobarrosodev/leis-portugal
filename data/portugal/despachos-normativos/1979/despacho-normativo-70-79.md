@@ -38,7 +38,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Despacho Normativo n.º 70/79: revogação total pela norma revogatória do diploma Despacho Normativo n.º 149/80 (n.º
+    4), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:475128:por'
+    detail: 4 - Fica revogado o Despacho Normativo n.º 70/79, de 6 de Abril, das Secretarias de Estado do Orçamento, do Comércio
+      e Indústrias Agrícolas e do Comércio Interno.
 notes: []
 language: por
 version:
@@ -93,6 +104,13 @@ relationships:
   target: pt:dre:656399:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:475128:por
+  label: 'Despacho Normativo n.º 70/79: revogação total pela norma revogatória do diploma Despacho Normativo n.º 149/80 (n.º
+    4), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1980-05-06'
 article_structure:
   article_count: 0
   section_count: 0

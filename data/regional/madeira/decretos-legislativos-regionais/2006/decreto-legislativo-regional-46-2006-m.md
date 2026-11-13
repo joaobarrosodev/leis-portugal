@@ -35,7 +35,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto Legislativo Regional n.º 46/2006/M: revogação total pela norma revogatória do diploma Decreto Legislativo
+    Regional n.º 17/2012/M (Artigo 21.º), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:175319:por'
+    detail: É revogado o Decreto Legislativo Regional n.º 46/2006/M, de 24 de agosto.
 notes: []
 language: por
 version:
@@ -119,6 +129,13 @@ relationships:
   label: "Revogado, a partir de 15.10.2012, pelo DLR.17/2012/M.16.08.2012.AL-RAM, DR.IS [158] de 16.08.2012\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2012-175319
   date: '2012-08-16'
+- type: repealed_by
+  target: pt:dre:175319:por
+  label: 'Decreto Legislativo Regional n.º 46/2006/M: revogação total pela norma revogatória do diploma Decreto Legislativo
+    Regional n.º 17/2012/M (Artigo 21.º), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2012-10-15'
 article_structure:
   article_count: 4
   section_count: 0

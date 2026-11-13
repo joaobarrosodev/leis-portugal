@@ -36,17 +36,7 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: repealed
-legal_status_basis:
-  source: norma_revogatoria
-  evidence:
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:935257200:por#art-4'
-    detail: b) A [Portaria n.º 40/2019], de 29 de janeiro.
-  - status: repealed
-    provenance: 'DRE repealed_by: pt:dre:935257200:por'
-    detail: Revogada, a partir de 20 de setembro de 2025, pelo(a) Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025,
-      Série I de 2025-09-15 nos termos do artigo 3.º e alínea b) do artigo 4.º deste
+legal_status: unknown
 notes: []
 language: por
 version:

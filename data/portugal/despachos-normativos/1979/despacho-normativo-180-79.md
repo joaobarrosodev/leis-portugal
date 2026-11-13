@@ -25,7 +25,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17300/17471747.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Despacho Normativo n.º 180/79: revogação total pela norma revogatória do diploma Despacho Normativo n.º 297/79
+    (Artigo único (texto do despacho)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:369785:por'
+    detail: Este despacho entra em vigor no dia 1 de Setembro e revoga o Despacho Normativo n.º 180/79.
 notes: []
 language: por
 version:
@@ -82,6 +92,12 @@ relationships:
   target: pt:dre:502786:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:369785:por
+  label: 'Despacho Normativo n.º 180/79: revogação total pela norma revogatória do diploma Despacho Normativo n.º 297/79 (Artigo
+    único (texto do despacho)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

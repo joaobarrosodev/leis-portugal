@@ -25,7 +25,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/12/30200/19301931.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 46110: revogação total pela norma revogatória do diploma Decreto-Lei n.º 48461 (Art. 4.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:272861:por'
+    detail: São revogados os artigos 13.º e 17.º do Decreto-Lei n.º 38144, de 30 de Dezembro de 1950, bem como o Decreto-Lei
+      n.º 46110, de 28 de Dezembro de 1964.
 notes: []
 language: por
 version:
@@ -83,6 +94,13 @@ relationships:
   target: pt:dre:489039:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:272861:por
+  label: 'Decreto-Lei n.º 46110: revogação total pela norma revogatória do diploma Decreto-Lei n.º 48461 (Art. 4.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1968-08-01'
 article_structure:
   article_count: 0
   section_count: 0

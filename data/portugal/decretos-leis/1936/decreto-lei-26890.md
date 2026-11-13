@@ -24,7 +24,19 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1936/08/19000/09750976.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 26890: revogação total pela norma revogatória do diploma Decreto-Lei n.º 427/72 (Artigo de revogação
+    (após o art. de disposições finais)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:291607:por'
+    detail: Decreto-Lei n.º 24949, de 10 de Janeiro de 1935, Decreto-Lei n.º 26695, de 16 de Junho de 1936, Decreto-Lei n.º
+      26890, de 14 de Agosto de 1936, Decreto n.º 27148, de 30 de Outubro de 1936, Decreto-Lei n.º 27286, de 24 de Novembro
+      de 1936, Decreto-Lei n.º 28009, de 3 de Setembro de 1937,
 notes:
 - As primeiras páginas da imagem contêm um preâmbulo que é comum a vários actos, seguindo-se então o acto.
 language: por
@@ -76,6 +88,13 @@ relationships:
   label: "Substituído o art.16.º, pelo DEC LEI.27938.09.08.1937.MA, DG.IS [184] de 09.08.1937\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27938-1937-427647
   date: '1937-08-09'
+- type: repealed_by
+  target: pt:dre:291607:por
+  label: 'Decreto-Lei n.º 26890: revogação total pela norma revogatória do diploma Decreto-Lei n.º 427/72 (Artigo de revogação
+    (após o art. de disposições finais)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1973-01-01'
 article_structure:
   article_count: 0
   section_count: 0

@@ -18,12 +18,19 @@ quando a prova o fixa sem ambiguidade.
 
 Uma revogação parcial não diz se o resto está em vigor: o estado fica desconhecido e a
 revogação parcial fica registada como prova.
+
+Contra um estado do DRE (`in_force`), a norma revogatória só conta se a ligação apontar mesmo
+para o diploma revogado (`identity`: o número do rótulo, a data citada e a entidade) e se nenhum
+outro artigo do revogador a ressalvar (`saving_clauses`). Não contam as notas do DRE ("> Nota:"),
+os parágrafos sem verbo de um artigo "Revogação" (a lista de legislação de um PDM) nem as
+revogações descritas ("…que aprova… e revoga a Lei Orgânica n.º 4/2006").
 """
 
 from __future__ import annotations
 
 import re
 from dataclasses import dataclass, field
+from datetime import date as _date
 
 from leis_portugal.domain.articles import Article
 from leis_portugal.domain.identifiers import pt_record_id
@@ -38,8 +45,18 @@ class Repeal:
     source: str
     article: str | None
     text: str
+    # O rótulo da ligação ("Portaria n.º 216/85"), a data citada a seguir ("--05-15" sem ano,
+    # "1985-05-15" com ano) e a entidade nomeada ("Banco de Portugal"): confirmam se a ligação do
+    # DRE aponta para o diploma que o texto revoga (ver `identity`).
+    label: str = ""
+    cited_date: str | None = None
+    cited_entity: str | None = None
+
     def to_dict(self) -> dict[str, str | None]:
-        return {"target": self.target, "scope": self.scope, "source": self.source, "article": self.article, "text": self.text}
+        return {
+            "target": self.target, "scope": self.scope, "source": self.source, "article": self.article, "text": self.text,
+            "label": self.label, "cited_date": self.cited_date, "cited_entity": self.cited_entity,
+        }
 
 
 @dataclass
@@ -91,7 +108,7 @@ _CONTEXT_WORDS = re.compile(
 _CONDITIONAL = re.compile(
     r"a\s+partir\s+d[ao]s?\s+(?:entrada\s+em\s+vigor|publica[çc][ãa]o|in[íi]cio)|com\s+a\s+entrada\s+em\s+vigor|"
     r"transitoriamente|at[ée]\s+(?:à|a)\s+(?:entrada|publica|aprova)|mantendo-se|mant[ée]m-se|continua(?:m)?\s+(?:em\s+vigor|a\s+aplicar)|"
-    r"na\s+data\s+d[ao]s?\s+(?!sua\s+publica|publica[çc][ãa]o\s+d[oa]\s+presente)|produz(?:indo)?\s+efeitos\s+(?:a\s+partir|em|no|na)|n[ãa]o\s+(?:é|são)\s+revogad|"
+    r"(?:na|à)\s+data\s+d[ao]s?\s+(?!sua\s+(?:publica|entrada)|publica[çc][ãa]o\s+d[oa]\s+presente|entrada\s+em\s+vigor\s+d[oa]\s+presente)|produz(?:indo)?\s+efeitos\s+(?:a\s+partir|em|no|na)|n[ãa]o\s+(?:é|são)\s+revogad|"
     # Diferidas: "Findo o processo de transição…", "Concluído o processo…", "a partir do momento em que…",
     # "com efeito à data da entrada em vigor da regulamentação", "de acordo com a calendarização…".
     r"\bfind[oa]s?\s+(?:o|a|os|as)\b|\bconclu[íi]d[oa]s?\s+(?:o|a|os|as)\b|a\s+partir\s+do\s+momento|"
@@ -175,14 +192,25 @@ def repeals_in(articles: list[Article], text: str, *, source: str) -> list[Repea
         listing = False
         intro = ""
         for paragraph in _unquoted_paragraphs(block):
+            if paragraph.startswith(">"):
+                # Notas do DRE ("> Nota: [Artigo 3.º, Portaria n.º 128-A/2022 - Diário da República …]"):
+                # não são texto do diploma.
+                listing = False
+                continue
             has_verb = bool(_REPEAL_VERB.search(paragraph))
-            item = listing and bool(_LIST_ITEM.match(paragraph))
-            in_context = epigraph or has_verb or item
+            # Numa lista aberta por uma frase com o verbo ("São revogados:"), contam os itens com marca
+            # ("a) …") e, num artigo de epígrafe revogatória, os itens sem marca enquanto a lista continua
+            # (o anterior acabou em ":" ou ";"). Sem verbo, um parágrafo de um artigo "Revogação" (a lista
+            # de legislação ou de imóveis classificados de um PDM) não revoga nada.
+            item = listing and (bool(_LIST_ITEM.match(paragraph)) or epigraph)
+            in_context = has_verb or item
             if has_verb:
                 listing = paragraph.rstrip().endswith(":")
                 intro = paragraph
-            elif not item:
-                listing = listing and epigraph
+            elif item:
+                listing = bool(_LIST_ITEM.match(paragraph)) or paragraph.rstrip().endswith((";", ":"))
+            else:
+                listing = False
                 intro = ""
             if not in_context:
                 continue
@@ -198,7 +226,69 @@ def repeals_in(articles: list[Article], text: str, *, source: str) -> list[Repea
         if scope == "parcial" and (target, "total") in found:
             continue
         result.append(repeal)
+    saved = saving_clauses([article.text for article in own] or [text], result)
+    for repeal in result:
+        if repeal.scope == "total" and repeal.target in saved:
+            # "Mantém-se em vigor a Portaria n.º 213/2000 até à publicação das portarias…", noutro artigo.
+            repeal.scope = "parcial"
     return result
+
+
+# Ressalvas e vigência transitória do revogado noutro artigo (ou noutro número) do revogador.
+_SAVING = re.compile(
+    r"mant[êée]m(?:-se)?\s+(?:em\s+vigor|a\s+vig[êe]ncia|aplic[áa]ve)|mant[êe]m-se\b|mant[êe]m\s+a\s+vig[êe]ncia|"
+    r"continua(?:m)?\s+(?:a\s+(?:aplicar-se|vigorar|produzir)|em\s+vigor)|at[ée]\s+(?:à|ao)\s+(?:publica[çc][ãa]o|entrada\s+em\s+vigor)|"
+    r"transitoriamente|permanece(?:m)?\s+em\s+vigor|ressalv|sem\s+preju[íi]zo\s+d[oa]\s+dispost",
+    re.IGNORECASE,
+)
+
+
+def _number_of(label: str) -> str | None:
+    match = _LABEL_NUMBER.search(label)
+    return match.group("number").lower() if match else None
+
+
+_LABEL_NUMBER = re.compile(r"(?:n\.?\s*[º°o]s?\s*|^)(?P<number>\d+(?:-[a-z]{1,3})?(?:/\d{2,4})?(?:/[a-z])?)(?![\w/])", re.IGNORECASE)
+
+
+def saving_clauses(blocks: list[str], repeals: list[Repeal]) -> set[str]:
+    """Os alvos de revogações totais que outro parágrafo do revogador ressalva ou mantém em vigor
+    ("mantêm-se em vigor… até à publicação", "continua a aplicar-se transitoriamente"). Procura-se
+    o alvo pela ligação (id do DRE) ou pelo número do rótulo."""
+    keys: dict[str, list[str]] = {}
+    for repeal in repeals:
+        if repeal.scope != "total":
+            continue
+        dre_id = repeal.target.split(":")[2] if repeal.target.count(":") >= 2 else repeal.target
+        number = _number_of(repeal.label)
+        keys[repeal.target] = [f"-{dre_id})"] + ([number] if number and "/" in number else [])
+    saved: set[str] = set()
+    if not keys:
+        return saved
+    for block in blocks:
+        for paragraph in _unquoted_paragraphs(block):
+            if paragraph.startswith(">") or not _SAVING.search(_LINK_URL.sub("]", paragraph)):
+                continue
+            lowered = paragraph.lower()
+            for target, needles in keys.items():
+                if any(_mentions(lowered, needle) for needle in needles):
+                    saved.add(target)
+    return saved
+
+
+# "A regulamentação emitida ao abrigo do [Decreto-Lei n.º 129/93] mantém-se em vigor": o que fica é
+# outro ato, não o revogado.
+_DERIVED = re.compile(r"(?:ao\s+abrigo|emitid[oa]s?|regulamenta[çc][ãa]o|regulamentos?|aprovad[oa]s?\s+(?:ao\s+abrigo|nos\s+termos))\s+(?:d[oa]s?|n[oa]s?|pel[oa]s?)\s+(?:\[\s*)?(?:[\w.º-]+\s+){0,3}$")
+
+
+def _mentions(text: str, needle: str) -> bool:
+    for match in re.finditer(re.escape(needle) if needle.endswith(")") else rf"(?<![\w/-]){re.escape(needle)}(?![\w/])", text):
+        before = text[max(0, match.start() - 160) : match.start()]
+        if needle.endswith(")"):
+            before = before[: before.rfind("[")] if "[" in before else before
+        if not _DERIVED.search(before):
+            return True
+    return False
 
 
 def _paragraph_repeals(paragraph: str, *, source: str, article: str | None, lead: str = "") -> list[Repeal]:
@@ -207,6 +297,11 @@ def _paragraph_repeals(paragraph: str, *, source: str, article: str | None, lead
     # Os URLs das ligações ficam tapados (mesmo comprimento): o ":" de "https:" não separa itens.
     masked = _LINK_URL.sub(lambda match: "](" + "x" * (len(match.group()) - 3) + ")", paragraph)
     verb = _REPEAL_VERB.search(masked)
+    if verb and _DESCRIPTIVE.search(masked[: verb.end()]):
+        # "…a [Lei Orgânica n.º 7/2015], que aprova a lei de programação militar e revoga a [Lei Orgânica
+        # n.º 4/2006]" ou o sumário "…em alguns concelhos. Revoga o [Decreto-Lei n.º 47892]": descreve uma
+        # revogação feita por outro diploma.
+        return []
     start = verb.end() if verb else 0
     # O que vem antes do verbo (ou a frase que abre a lista) também pode diferir ou limitar a revogação.
     lead = _LINK_URL.sub("]", lead) + " " + (masked[: verb.start()] if verb else "")
@@ -214,6 +309,7 @@ def _paragraph_repeals(paragraph: str, *, source: str, article: str | None, lead
         return []
     lead_partial = bool(_CLAUSE_PARTIAL.search(lead))
     context_item: int | None = None
+    dates = _cited_dates(masked, links)
     for index, link in enumerate(links):
         if verb and link.start() < verb.start():
             continue
@@ -240,8 +336,76 @@ def _paragraph_repeals(paragraph: str, *, source: str, article: str | None, lead
         target = pt_record_id(link.group("id"))
         if target == source:
             continue
-        repeals.append(Repeal(target, scope, source, article, re.sub(r"\]\([^)]*\)", "]", clause).strip()[:300]))
+        repeals.append(Repeal(
+            target, scope, source, article, re.sub(r"\]\([^)]*\)", "]", clause).strip()[:300],
+            label=link.group("label"), cited_date=dates.get(index), cited_entity=_entity(masked[link.end() : link.end() + 160]),
+        ))
     return repeals
+
+
+# Um diploma citado como o sujeito de "que aprova… e revoga", ou um sumário que começa por "Revoga o".
+_DESCRIPTIVE = re.compile(
+    r"\]\([x]*\)[^\[\];]{0,200}?\bque\s+(?:[^\[\];.]{0,200}?\s)?(?:revoga|revogam|revogou)$|[a-zà-ú)\]]\.\s+Revoga\s*$"
+)
+_MONTHS = {
+    "janeiro": 1, "fevereiro": 2, "março": 3, "marco": 3, "abril": 4, "maio": 5, "junho": 6, "julho": 7, "agosto": 8,
+    "setembro": 9, "outubro": 10, "novembro": 11, "dezembro": 12,
+}
+_DATE = r"(?P<day>\d{1,2})(?:\.?\s*[º°o])?\s+de\s+(?P<month>[A-Za-zçÇ]+)(?:\s*(?:de\s+)?(?P<year>1[89]\d\d|20\d\d))?"
+# A data citada a seguir à ligação: ", de 19 de Junho [de 1998]", ", publicado no Diário da República, 1.ª série-B, de 28 de Setembro de 2002".
+_CITED_DATE = re.compile(
+    r"^\s*,?\s*(?:\([^)]{0,80}\)\s*,?\s*)?(?:publicad[oa]s?\s+no\s+Di[áa]rio\s+(?:da\s+Rep[úu]blica|do\s+Governo)[^,;]{0,40},\s*(?:[^,;]{0,25}s[ée]rie[^,;]{0,10},\s*)?(?:n\.?\s*º\s*\d+,\s*)?)?de\s+"
+    + _DATE,
+    re.IGNORECASE,
+)
+_RESPECTIVELY = re.compile(r"respectiv|respetiv", re.IGNORECASE)
+_ANY_DATE = re.compile(r"\bde\s+" + _DATE, re.IGNORECASE)
+_ENTITY = re.compile(
+    r"^\s*,?\s*(?:de\s+\d{1,2}\s+de\s+\w+(?:\s+de\s+\d{4})?\s*,?\s*)?(?:,\s*)?(?:do|da|dos|das)\s+(?P<entity>"
+    r"Banco\s+de\s+Portugal|CMVM|Comiss[ãa]o\s+do\s+Mercado\s+de\s+Valores\s+Mobili[áa]rios|Instituto\s+de\s+Seguros\s+de\s+Portugal|"
+    r"Autoridade\s+de\s+Supervis[ãa]o\s+de\s+Seguros|Secretari[ao]\s+Regional[^,;.]{0,60}|Governo\s+Regional[^,;.]{0,30}|"
+    r"Regi[ãa]o\s+Aut[óo]noma[^,;.]{0,30}|Assembleia\s+Legislativa[^,;.]{0,40}|Presid[êe]ncia\s+do\s+Governo\s+Regional)",
+    re.IGNORECASE,
+)
+
+
+def _iso(day: str, month: str, year: str | None) -> str | None:
+    number = _MONTHS.get(month.lower())
+    if not number or not 1 <= int(day) <= 31:
+        return None
+    return f"{year}-{number:02d}-{int(day):02d}" if year else f"--{number:02d}-{int(day):02d}"
+
+
+def _entity(after: str) -> str | None:
+    match = _ENTITY.match(after)
+    return re.sub(r"\s+", " ", match.group("entity")).strip() if match else None
+
+
+def _cited_dates(masked: str, links: list[re.Match[str]]) -> dict[int, str]:
+    """A data citada de cada ligação (índice -> data), lida a seguir à ligação; numa enumeração
+    "As Portarias n.os [282/73] e [428/77], respectivamente de 13 de Abril e de 15 de Julho", pela ordem."""
+    dates: dict[int, str] = {}
+    pending: list[int] = []
+    for index, link in enumerate(links):
+        end = links[index + 1].start() if index + 1 < len(links) else len(masked)
+        after = masked[link.end() : end]
+        match = _CITED_DATE.match(after)
+        if match:
+            value = _iso(match.group("day"), match.group("month"), match.group("year"))
+            if value:
+                dates[index] = value
+            pending = []
+            continue
+        pending.append(index)
+        head = re.split(r"[;:]", after, maxsplit=1)[0]
+        if _RESPECTIVELY.search(head) and len(pending) > 1:
+            values = [_iso(m.group("day"), m.group("month"), m.group("year")) for m in _ANY_DATE.finditer(head)]
+            if len(values) == len(pending) and all(values):
+                dates.update(dict(zip(pending, values, strict=True)))
+            pending = []
+        elif not re.fullmatch(r"\s*(?:,|e|,\s*e)\s*", head):
+            pending = []
+    return dates
 
 
 # ------------------------------------------------------------ relações do DRE
@@ -369,3 +533,96 @@ _RECORD_ID = re.compile(r"pt:dre:\d+:por")
 def _repealer(item: Evidence) -> str | None:
     match = _RECORD_ID.search(item.provenance)
     return match.group() if match else None
+
+
+# ------------------------------------------------- identidade do diploma ligado
+
+# A data citada ("Portaria n.º 216/85, de 15 de Maio") é a da assinatura ou a da publicação: fica
+# entre 0 e `IDENTITY_DAYS` dias antes da publicação do diploma para que a ligação aponta. Medido nos
+# 113 casos verificados em 2026-11-13: nos certos, no máximo 12 dias; nos errados, 29 e 33 (a "Portaria
+# n.º 690/73, de 7 de Setembro" ligada à de 10 de Outubro).
+IDENTITY_DAYS = 20
+
+
+def _number_key(number: str) -> tuple[str, str]:
+    """(número, ano em dois dígitos): "216/85" e "216/1985" são o mesmo."""
+    parts = number.lower().replace(" ", "").split("/")
+    head = parts[0]
+    year = next((part for part in parts[1:] if part.isdigit()), "")
+    return head, year[-2:]
+
+
+def _days_before(cited: str, publication: str) -> int | None:
+    """Dias da data citada até à publicação; sem ano, o ano que a põe mais perto (antes) da publicação."""
+    try:
+        published = _date.fromisoformat(publication)
+    except ValueError:
+        return None
+    if not cited.startswith("--"):
+        try:
+            return (published - _date.fromisoformat(cited)).days
+        except ValueError:
+            return None
+    month, day = int(cited[2:4]), int(cited[5:7])
+    best: int | None = None
+    for year in (published.year, published.year - 1):
+        try:
+            delta = (published - _date(year, month, day)).days
+        except ValueError:
+            continue
+        if delta >= 0 and (best is None or delta < best):
+            best = delta
+    if best is None:
+        try:
+            best = (published - _date(published.year, month, day)).days
+        except ValueError:
+            return None
+    return best
+
+
+def identity(repeal: Repeal, target: dict[str, object] | None) -> tuple[str, list[str]]:
+    """Se a ligação do DRE aponta para o diploma que o texto revoga.
+
+    `confirmada` (o número do rótulo e a data citada batem com o alvo), `so_numero` (o número bate,
+    sem data citada) ou `suspeita`, com os motivos: `numero` (o rótulo tem outro número), `sem_numero`,
+    `data` (a data citada não é a do alvo: a "Portaria n.º 216/85, de 15 de Maio" ligada à de 18 de
+    Abril) e `entidade` (o texto nomeia uma entidade, "do Banco de Portugal", que não emitiu o alvo)."""
+    if target is None:
+        return "suspeita", ["alvo_fora_do_acervo"]
+    reasons: list[str] = []
+    official = str(target.get("official_number") or "")
+    cited = _number_of(repeal.label)
+    if not cited or not official:
+        reasons.append("sem_numero")
+    elif _number_key(cited) != _number_key(official):
+        reasons.append("numero")
+    dated = False
+    if repeal.cited_date and target.get("publication_date"):
+        delta = _days_before(repeal.cited_date, str(target["publication_date"]))
+        if delta is not None:
+            dated = True
+            if not 0 <= delta <= IDENTITY_DAYS:
+                reasons.append("data")
+    if repeal.cited_entity:
+        authority = " ".join(str(item) for item in (target.get("issuing_authority") or []))
+        haystack = f"{authority} {target.get('title') or ''} {target.get('summary') or ''}".lower()
+        entity = repeal.cited_entity.lower()
+        regional = any(word in entity for word in ("regional", "região", "regiao", "assembleia legislativa"))
+        if regional:
+            if target.get("jurisdiction") != "regional":
+                reasons.append("entidade")
+        elif not any(word in haystack for word in _entity_words(entity)):
+            reasons.append("entidade")
+    if reasons:
+        return "suspeita", reasons
+    return ("confirmada" if dated else "so_numero"), []
+
+
+def _entity_words(entity: str) -> list[str]:
+    if "banco de portugal" in entity:
+        return ["banco de portugal"]
+    if "cmvm" in entity or "valores mobili" in entity:
+        return ["cmvm", "valores mobili"]
+    if "seguros" in entity:
+        return ["seguros"]
+    return [entity]

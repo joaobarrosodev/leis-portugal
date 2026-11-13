@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29600/33443350.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto Regional n.º 29/79/A: revogação total pela norma revogatória do diploma Decreto Legislativo Regional n.º
+    14/88/A (Artigo 15.º, n.º 3), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:286525:por'
+    detail: 3 - É revogado o Decreto Regional n.º 29/79/A, de 26 de Dezembro, e demais legislação que disponha em contrário.
 notes: []
 language: por
 version:
@@ -79,6 +89,12 @@ relationships:
   label: Rectificado pela DECL.DD6770.22.02.1980.PCM, DR.IS [59] de 11.03.1980
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-679073
   date: '1980-02-22'
+- type: repealed_by
+  target: pt:dre:286525:por
+  label: 'Decreto Regional n.º 29/79/A: revogação total pela norma revogatória do diploma Decreto Legislativo Regional n.º
+    14/88/A (Artigo 15.º, n.º 3), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

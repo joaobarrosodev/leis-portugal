@@ -35,7 +35,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 443/87: revogação total pela norma revogatória do diploma Portaria n.º 235/2011 (Artigo 8.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:670019:por'
+    detail: É revogada a Portaria n.º 443/87, de 27 de Maio.
 notes: []
 language: por
 version:
@@ -130,6 +140,13 @@ relationships:
   label: Altera Anexo; Altera III; Altera VII; Altera IX; Altera XII; Altera XXIII
   source: https://diariodarepublica.pt/dr/detalhe/portaria/260-2025-921435825
   date: '2025-06-16'
+- type: repealed_by
+  target: pt:dre:670019:por
+  label: 'Portaria n.º 443/87: revogação total pela norma revogatória do diploma Portaria n.º 235/2011 (Artigo 8.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2011-06-16'
 article_structure:
   article_count: 33
   section_count: 9

@@ -37,7 +37,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 120/84: revogação total pela norma revogatória do diploma Portaria n.º 167-C/85 (4.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:546382:por'
+    detail: 4.º Fica revogada a Portaria n.º 120/84, de 23 de Fevereiro.
 notes: []
 language: por
 version:
@@ -116,6 +126,13 @@ relationships:
   label: "Revogada pela PORT.167-C/85.1985.03.28.MES DR.IS [73]Supl\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/167-c-1985-546382
   date: '1985-03-28'
+- type: repealed_by
+  target: pt:dre:546382:por
+  label: 'Portaria n.º 120/84: revogação total pela norma revogatória do diploma Portaria n.º 167-C/85 (4.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1985-04-02'
 article_structure:
   article_count: 0
   section_count: 0

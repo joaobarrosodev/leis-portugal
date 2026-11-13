@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/04/08500/04640466.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 154/70: revogação total pela norma revogatória do diploma Decreto-Lei n.º 111/83 (Artigo 55.º,
+    alínea a)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:311444:por'
+    detail: a) O Decreto-Lei n.º 154/70, de 11 à Abril
 notes: []
 language: por
 version:
@@ -101,6 +111,12 @@ relationships:
   target: pt:dre:650764:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:311444:por
+  label: 'Decreto-Lei n.º 154/70: revogação total pela norma revogatória do diploma Decreto-Lei n.º 111/83 (Artigo 55.º, alínea
+    a)), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

@@ -35,7 +35,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 623/2003: revogação total pela norma revogatória do diploma Portaria n.º 1173/2003 (n.º 3.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:484114:por'
+    detail: 3.º É revogada a Portaria n.º 623/2003, de 23 de Julho.
 notes: []
 language: por
 version:
@@ -92,6 +102,13 @@ relationships:
   target: pt:dre:649351:por
   label: null
   source: http://data.dre.pt/eli/port/577/1991/06/27/p/dre
+- type: repealed_by
+  target: pt:dre:484114:por
+  label: 'Portaria n.º 623/2003: revogação total pela norma revogatória do diploma Portaria n.º 1173/2003 (n.º 3.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2003-06-28'
 - type: repealed_by
   target: pt:dre:484114:por
   label: "Revogada pela PORT.1173/2003.02.10.2003.MADRP, DR.IS-B [228] de 02.10.2003 \0 \0"

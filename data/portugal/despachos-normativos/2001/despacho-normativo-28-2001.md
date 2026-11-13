@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Despacho Normativo n.º 28/2001: revogação total pela norma revogatória do diploma Despacho Normativo n.º 3/2006
+    (6), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:1567651:por'
+    detail: 6 - Pelo presente despacho normativo é revogado o Despacho Normativo n.º 28/2001, de 7 de Junho.
 notes: []
 language: por
 version:
@@ -120,6 +130,13 @@ relationships:
   label: "Revogado pelo DN.3/2006.26.06.2006.MC, DR.IIS [134] de 13.07.2006\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/3-2006-1567651
   date: '2006-06-26'
+- type: repealed_by
+  target: pt:dre:1567651:por
+  label: 'Despacho Normativo n.º 28/2001: revogação total pela norma revogatória do diploma Despacho Normativo n.º 3/2006
+    (6), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2006-07-14'
 article_structure:
   article_count: 15
   section_count: 0

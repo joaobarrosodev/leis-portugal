@@ -351,6 +351,11 @@ def _preserve_derived(new: LegalRecord, existing: LegalRecord) -> None:
         new.legal_status_basis = {**basis, "dre_status": new.legal_status}
         new.legal_status = existing.legal_status
         new.add_relationships(manual)
+    elif basis.get("source") == "norma_revogatoria_contra_dre":
+        # A norma revogatória de outro diploma, num segmento de precisão medida, sobrepõe-se ao estado do
+        # DRE da mesma forma: o que a fonte diz agora fica em `dre_status`.
+        new.legal_status_basis = {**basis, "dre_status": new.legal_status}
+        new.legal_status = existing.legal_status
     elif new.legal_status == "unknown" and basis:
         new.legal_status, new.legal_status_basis = existing.legal_status, existing.legal_status_basis
 

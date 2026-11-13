@@ -26,7 +26,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/26101/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 723/74: revogação total pela norma revogatória do diploma Portaria n.º 314/77 (N.º 29.º), lida no
+    texto e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:252990:por'
+    detail: 29.º Ficam revogadas as Portarias n.os 641/74 e 723/74, respectivamente de 4 de Outubro e 9 de Novembro.
 notes: []
 language: por
 version:
@@ -76,6 +86,13 @@ relationships:
   target: pt:dre:560231:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:252990:por
+  label: 'Portaria n.º 723/74: revogação total pela norma revogatória do diploma Portaria n.º 314/77 (N.º 29.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1977-05-31'
 article_structure:
   article_count: 0
   section_count: 0

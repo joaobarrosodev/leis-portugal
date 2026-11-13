@@ -35,7 +35,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 264/85: revogação total pela norma revogatória do diploma Portaria n.º 365/86 (Art. 24.º), lida no
+    texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:228048:por'
+    detail: 24.º O presente diploma revoga a Portaria n.º 264/85, de 9 de Maio, e aplica-se aos processos em curso à data
+      da sua entrada em vigor.
 notes: []
 language: por
 version:
@@ -89,6 +100,13 @@ relationships:
   target: pt:dre:328843:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:228048:por
+  label: 'Portaria n.º 264/85: revogação total pela norma revogatória do diploma Portaria n.º 365/86 (Art. 24.º), lida no
+    texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1986-07-20'
 article_structure:
   article_count: 0
   section_count: 0

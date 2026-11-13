@@ -35,7 +35,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 517/2003: revogação total pela norma revogatória do diploma Portaria n.º 970/2003 (Art. 1.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:503270:por'
+    detail: 1.º É revogada a Portaria n.º 517/2003, de 2 de Julho.
 notes: []
 language: por
 version:
@@ -96,6 +106,12 @@ relationships:
   target: pt:dre:536243:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/338/2001/12/26/p/dre
+- type: repealed_by
+  target: pt:dre:503270:por
+  label: 'Portaria n.º 517/2003: revogação total pela norma revogatória do diploma Portaria n.º 970/2003 (Art. 1.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 - type: repealed_by
   target: pt:dre:503270:por
   label: "Revogada pela PORT.970/2003.2003.09.13.MECO DR.IS-B [212]\0\0"

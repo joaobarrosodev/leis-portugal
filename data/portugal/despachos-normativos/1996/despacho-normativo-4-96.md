@@ -34,7 +34,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Despacho Normativo n.º 4/96: revogação total pela norma revogatória do diploma Despacho Normativo n.º 9/2002 (Artigo
+    79.º), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:284374:por'
+    detail: São revogados os Estatutos da Universidade Aberta, homologados pelos Despachos Normativos n.os 197/94, de 25 de
+      Março, e 4/96, de 12 de Janeiro.
 notes: []
 language: por
 version:
@@ -88,6 +99,13 @@ relationships:
   target: pt:dre:355494:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:284374:por
+  label: 'Despacho Normativo n.º 4/96: revogação total pela norma revogatória do diploma Despacho Normativo n.º 9/2002 (Artigo
+    79.º), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2002-02-19'
 - type: repealed_by
   target: pt:dre:1196782:por
   label: "Revogados os Estatutos da Universidade Aberta pelo DN.65-B/2008.22.12.2008.MCTES, DR.IIS [246]2ºSupl de 22.12.2008\0\

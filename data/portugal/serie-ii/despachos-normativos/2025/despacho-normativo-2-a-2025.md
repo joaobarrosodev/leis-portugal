@@ -35,15 +35,7 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: repealed
-legal_status_basis:
-  source: norma_revogatoria
-  evidence:
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:1144685820:por#art-1'
-    detail: O presente despacho normativo procede à primeira alteração ao [Despacho Normativo n.º 3/2026], de 23 de fevereiro,
-      que aprova o Regulamento das Provas de Avaliação Externa e das Provas de Equivalência à Frequência dos Ensinos Básico
-      e Secundário para os anos letivos de 2025-2026 a 2027-2028, e revog
+legal_status: unknown
 notes: []
 language: por
 version:

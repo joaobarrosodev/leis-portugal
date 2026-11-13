@@ -35,7 +35,19 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Despacho Normativo n.º 97/89: revogação total pela norma revogatória do diploma Portaria n.º 578/2005 (1.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:233153:por'
+    detail: 1.º São revogadas as Portarias n.os 31-A/85, de 12 de Janeiro, 76/86, de 11 de Março, 96/88, de 10 de Fevereiro,
+      995/89, de 16 de Novembro, 1046/89, de 4 de Dezembro, e 302/92, de 3 de Abril, e os Despachos Normativos n.os 60/82,
+      de 26 de Abril, 61/82, de 26 de Abril, 16/84, de 28
 notes: []
 language: por
 version:
@@ -89,6 +101,13 @@ relationships:
   target: pt:dre:579351:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:233153:por
+  label: 'Despacho Normativo n.º 97/89: revogação total pela norma revogatória do diploma Portaria n.º 578/2005 (1.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2005-07-07'
 article_structure:
   article_count: 0
   section_count: 0

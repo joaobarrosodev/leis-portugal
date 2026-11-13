@@ -34,7 +34,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Despacho Normativo n.º 30/79: revogação total pela norma revogatória do diploma Despacho Normativo n.º 189/80 (n.º
+    4.º), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:473712:por'
+    detail: 4.º É revogado o Despacho Normativo n.º 30/79, publicado no Diário da República, 1.ª série, n.º 31, de 6 de Fevereiro
+      de 1979.
 notes: []
 language: por
 version:
@@ -94,6 +105,13 @@ relationships:
   target: pt:dre:509026:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:473712:por
+  label: 'Despacho Normativo n.º 30/79: revogação total pela norma revogatória do diploma Despacho Normativo n.º 189/80 (n.º
+    4.º), lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1980-06-24'
 article_structure:
   article_count: 0
   section_count: 0

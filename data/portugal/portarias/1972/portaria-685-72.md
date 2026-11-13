@@ -24,7 +24,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/11/27000/16941694.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 685/72: revogação total pela norma revogatória do diploma Portaria n.º 642/74 (6.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:483417:por'
+    detail: 6.º Ficam revogadas as Portarias n.os 685/72, 232/73 e 904/73, respectivamente de 20 de Novembro, 31 de Março
+      e 20 de Dezembro.
 notes: []
 language: por
 version:
@@ -89,6 +100,12 @@ relationships:
   target: pt:dre:147601:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:483417:por
+  label: 'Portaria n.º 685/72: revogação total pela norma revogatória do diploma Portaria n.º 642/74 (6.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

@@ -35,7 +35,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 615-M2/91: revogação total pela norma revogatória do diploma Portaria n.º 667-N1/93 (N.º 9.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:402374:por'
+    detail: 9.º É revogada a Portaria n.º 615-M2/91, de 8 de Julho.
 notes: []
 language: por
 version:
@@ -99,6 +109,13 @@ relationships:
   target: pt:dre:620697:por
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: repealed_by
+  target: pt:dre:402374:por
+  label: 'Portaria n.º 615-M2/91: revogação total pela norma revogatória do diploma Portaria n.º 667-N1/93 (N.º 9.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento c, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1993-07-19'
 article_structure:
   article_count: 0
   section_count: 0

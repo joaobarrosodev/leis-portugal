@@ -24,7 +24,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/203000000/5160451608.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Regulamento n.º 786/2010: revogação total pela norma revogatória do diploma Regulamento n.º 548/2017 (Artigo 33.º),
+    lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o
+    DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:108292420:por'
+    detail: É revogado o Regulamento n.º 786/2010, Regulamento de Publicidade e Imagem dos Solicitadores e Agentes de Execução,
+      publicado na 2.ª série - N.º 203, do Diário da República de 19 de outubro de 2010.
 notes: []
 language: por
 version:
@@ -91,6 +102,13 @@ relationships:
     \ pela DECL-RECT.2193/2010.29.10.2010.CS, DR.IIS [211] de 29.10.2010\00\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2193-2010-3283500
   date: '2010-10-29'
+- type: repealed_by
+  target: pt:dre:108292420:por
+  label: 'Regulamento n.º 786/2010: revogação total pela norma revogatória do diploma Regulamento n.º 548/2017 (Artigo 33.º),
+    lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o
+    DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2017-11-01'
 article_structure:
   article_count: 42
   section_count: 14

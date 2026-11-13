@@ -35,7 +35,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 327-C/76: revogação total pela norma revogatória do diploma Decreto-Lei n.º 75-S/77 (Art. 3.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento b, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:509052:por'
+    detail: São revogados o Decreto-Lei n.º 427-C/76, de 1 de Junho, e a Portaria n.º 327-C/76, da mesma data.
 notes: []
 language: por
 version:

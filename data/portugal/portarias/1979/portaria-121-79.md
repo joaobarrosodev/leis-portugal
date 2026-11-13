@@ -25,7 +25,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/03/06300/04160417.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 121/79: revogação total pela norma revogatória do diploma Portaria n.º 987/80 (n.º 2.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:458272:por'
+    detail: 2.º São revogadas as Portarias n.os 548/78, de 14 de Setembro, e 121/79, de 16 de Março, e os n.os 4.º, 5.º, 6.º
+      e 7.º da Portaria n.º 549/78, de 14 de Setembro.
 notes: []
 language: por
 version:
@@ -82,6 +93,13 @@ relationships:
   target: pt:dre:560231:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:458272:por
+  label: 'Portaria n.º 121/79: revogação total pela norma revogatória do diploma Portaria n.º 987/80 (n.º 2.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1980-11-16'
 article_structure:
   article_count: 0
   section_count: 0

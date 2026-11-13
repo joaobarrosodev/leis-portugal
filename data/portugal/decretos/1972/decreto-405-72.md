@@ -26,7 +26,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/10/24900/15471547.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto n.º 405/72: revogação total pela norma revogatória do diploma Decreto do Governo n.º 6/83 (Art. 2.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:307791:por'
+    detail: Ficam revogados os Decretos n.os 405/72, de 25 de Outubro, e 144/75, de 20 de Março.
 notes: []
 language: por
 version:
@@ -72,6 +82,12 @@ relationships:
   target: pt:dre:445881:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:307791:por
+  label: 'Decreto n.º 405/72: revogação total pela norma revogatória do diploma Decreto do Governo n.º 6/83 (Art. 2.º), lida
+    no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

@@ -25,7 +25,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/10400/11691170.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 474/82: revogação total pela norma revogatória do diploma Portaria n.º 1353/82 (4.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:626801:por'
+    detail: 4.º Fica revogada a Portaria n.º 474/82, de 6 de Maio.
 notes: []
 language: por
 version:
@@ -87,6 +97,12 @@ relationships:
   target: pt:dre:621756:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:626801:por
+  label: 'Portaria n.º 474/82: revogação total pela norma revogatória do diploma Portaria n.º 1353/82 (4.º), lida no texto
+    e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 - type: repealed_by
   target: pt:dre:626801:por
   label: "Revogada pela PORT.1353/82.1982.12.31.MHOPT DR.IS [301]Supl\0\0"

@@ -34,7 +34,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 291/74: revogação total pela norma revogatória do diploma Decreto Regulamentar n.º 5/83 (Artigo 10.º),
+    lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o
+    DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:308561:por'
+    detail: São revogados a Portaria n.º 291/74, de 23 de Abril, e os despachos do Secretário de Estado da Segurança Social
+      de 4 de Junho de 1975 e de 13 de Abril de 1976.
 notes: []
 language: por
 version:
@@ -98,6 +109,13 @@ relationships:
   target: pt:dre:686801:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:308561:por
+  label: 'Portaria n.º 291/74: revogação total pela norma revogatória do diploma Decreto Regulamentar n.º 5/83 (Artigo 10.º),
+    lida no texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o
+    DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1983-02-01'
 article_structure:
   article_count: 0
   section_count: 0

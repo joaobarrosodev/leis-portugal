@@ -25,7 +25,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/05/12600/07240725.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto n.º 45734: revogação total pela norma revogatória do diploma Decreto-Lei n.º 48824 (Art. 24.º), lida no
+    texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:256667:por'
+    detail: São revogados o Decreto-Lei n.º 43183, de 23 de Setembro de 1960, e o Decreto n.º 45734, de 27 de Maio de 1964.
 notes: []
 language: por
 version:
@@ -94,6 +104,12 @@ relationships:
   target: pt:dre:686801:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:256667:por
+  label: 'Decreto n.º 45734: revogação total pela norma revogatória do diploma Decreto-Lei n.º 48824 (Art. 24.º), lida no
+    texto e verificada às cegas na amostra de 2026-11-14 (segmento a, reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o
+    como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0
