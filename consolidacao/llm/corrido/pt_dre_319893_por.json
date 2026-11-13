@@ -23,9 +23,8 @@
   "insercoes": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Portaria 1284/2001), 1.º: plano de estudos (anexo) passa a ser o do anexo; títulos do anexo e dos quadros iguais, por isso substituí só as unidades 57 e 60 (imagens) pelos quadros 1 e 2 em Markdown com a nota (a) de cada um.",
-    "Alterador 1, 2.º: norma de aplicação no tempo, sem alteração textual.",
-    "Alterador 2 (Portaria 269/2006), 1.º: o ponto com a epígrafe «Regulamento» (9.º) passa a ter redação única; substituí as unidades 39 a 42 (n.os 1 a 4) pelo novo texto. A lista de portarias do anexo só vem em imagem; apliquei por esta portaria vir indicada como alteradora da 77/2001."
+    "Alterador 1 (Portaria 1284/2001), 1.º: o plano de estudos (anexo) passa a ser o do anexo do alterador; os quadros n.º 1 e n.º 2, antes só em imagem, substituídos pelas tabelas e notas (a) do alterador (unidades 57 e 60); títulos inalterados mantidos. 2.º (aplicação) não é textual.",
+    "Alterador 2 (Portaria 269/2006), 1.º: o número com a epígrafe Regulamento das portarias do anexo passa a ter nova redação; a 77/2001 consta do anexo (número 9.º); corpo do 9.º (unidades 39 a 42) substituído pelo texto único novo."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

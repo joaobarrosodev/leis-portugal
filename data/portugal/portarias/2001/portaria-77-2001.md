@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-03-18'
+version_history:
+  file: portaria-77-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-02-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-03-18'
+    amending: pt:dre:604841:por
+    amending_title: Portaria n.º 1284/2001; Portaria n.º 269/2006
+    changes:
+    - Altera Artigo unidades 39-42
+    - Altera Artigo unidades 57-57
+    - Altera Artigo unidades 60-60
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/77/2001/02/07/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:34:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1284/2001; Portaria
+    n.º 269/2006. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-77-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -211,13 +228,9 @@ A orientação das dissertações deve ser assegurada por docentes titulares do 
 
 Regulamento
 
-1 - O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809), de 13 de Outubro, e as respectivas alterações estão sujeitos a registo.
+O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.
 
-2 - O registo efectua-se através de despacho do Ministro da Educação, ouvida a comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março).
-
-3 - O registo do regulamento é recusado se o mesmo for desconforme com a lei ou com os Estatutos da Universidade Lusíada.
-
-4 - Após o registo, a entidade instituidora faz publicar o regulamento, bem como as suas alterações, na 2.ª série do Diário da República.
+> Alterado pelo/a [Portaria n.º 269/2006](https://diariodarepublica.pt/dr/detalhe/portaria/269-2006-667161), publicado em 2006-03-17.
 
 10.º
 
@@ -247,10 +260,34 @@ QUADRO N.º 1
 
 Área de especialização em História da Arte e Cultura
 
-[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Metodologia de Um Trabalho Científico em História da Arte | Semestral | 3 |  |  | 4 |  |
+| História da Cultura e Património Artístico | Semestral | 3 |  |  | 4 |  |
+| História das Artes Decorativas | Semestral | 3 |  |  | 4 |  |
+| Análise das Linguagens Artísticas | Semestral | 1,5 |  |  | 2 | (a) |
+| Arte Religiosa | Semestral | 1,5 |  |  | 2 | (a) |
+| História da Crítica de Arte | Semestral | 1,5 |  |  | 2 | (a) |
+| Iconologia e Heráldica | Semestral | 1,5 |  |  | 2 | (a) |
+
+(a) Unidades curriculares de opção a regulamentar pelo órgão legal e estatutariamente competente.
+
+> Alterado pelo/a [Portaria n.º 1284/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1284-2001-604841), publicado em 2001-11-15.
 
 QUADRO N.º 2
 
 Área de especialização em Teorias de Conservação e Restauros do Património Artístico
 
-[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Metodologia de Um Trabalho Científico em História da Arte | Semestral | 3 |  |  | 4 |  |
+| História da Cultura e Património Artístico | Semestral | 3 |  |  | 4 |  |
+| História das Artes Decorativas | Semestral | 3 |  |  | 4 |  |
+| História das Técnicas Artísticas | Semestral | 1,5 |  |  | 2 | (a) |
+| Problemáticas e Investigação em História da Arquitectura e do Urbanismo | Semestral | 1,5 |  |  | 2 | (a) |
+| Restauro e Conservação das Artes Plásticas | Semestral | 1,5 |  |  | 2 | (a) |
+| Restauro Monumental, Teorias e Prática | Semestral | 1,5 |  |  | 2 | (a) |
+
+(a) Unidades curriculares de opção a regulamentar pelo órgão legal e estatutariamente competente.
+
+> Alterado pelo/a [Portaria n.º 1284/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1284-2001-604841), publicado em 2001-11-15.

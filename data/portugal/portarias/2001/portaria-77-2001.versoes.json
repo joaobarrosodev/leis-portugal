@@ -1,0 +1,85 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:319893:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-02-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d5da001f69dc9717",
+    "c36946608aee853c"
+   ]
+  },
+  {
+   "date": "2006-03-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:604841:por",
+     "title": "Portaria n.º 1284/2001",
+     "published": "2001-11-15",
+     "dre_path": "/dr/detalhe/portaria/1284-2001-604841"
+    },
+    {
+     "id": "pt:dre:667161:por",
+     "title": "Portaria n.º 269/2006",
+     "published": "2006-03-17",
+     "dre_path": "/dr/detalhe/portaria/269-2006-667161"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 39-42",
+    "Altera Artigo unidades 57-57",
+    "Altera Artigo unidades 60-60"
+   ],
+   "fragments": [
+    "0a112b924c412009",
+    "aafe939e87b66267"
+   ]
+  }
+ ],
+ "fragments": {
+  "d5da001f69dc9717": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Fevereiro\n\nA requerimento da CEUL - Cooperativa de Ensino Universidade Lusíada, C. R. L., entidade instituidora da Universidade Lusíada (Lisboa), cuja criação foi autorizada, ao abrigo do [Decreto-Lei n.º 100-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-b-1985-187955), de 8 de Abril, pelo despacho n.º 135/MEC/86, publicado no Diário da República, 2.ª série, de 28 de Junho de 1986;\n\nConsiderando o disposto no [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809), de 13 de Outubro;\n\nConsiderando o disposto na [Portaria n.º 928/93](https://diariodarepublica.pt/dr/detalhe/portaria/928-1993-655884), de 22 de Setembro;\n\nAo abrigo do disposto no n.º 5 do artigo 53.º e no artigo 67.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março):\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nObjecto\n\nA presente portaria visa regular a atribuição do grau de mestre na especialidade de História da Arte pela Universidade Lusíada (Lisboa), autorizada pela [Portaria n.º 928/93](https://diariodarepublica.pt/dr/detalhe/portaria/928-1993-655884), de 22 de Setembro.\n\n2.º\n\nRegime aplicável\n\nO regime aplicável à atribuição do grau de mestre é o fixado pelo [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809), de 13 de Outubro.\n\n3.º\n\nÁreas de especialização\n\nO grau de mestre em História da Arte pela Universidade Lusíada (Lisboa) é conferido nas seguintes áreas de especialização:\n\na) História da Arte e Cultura;\n\nb) Teorias de Conservação e Restauros do Património Artístico.\n\n4.º\n\nGrau\n\nO grau de mestre na especialidade de História da Arte pela Universidade Lusíada (Lisboa) é concedido aos que satisfaçam, cumulativamente, as seguintes condições:\n\na) Conclusão com aproveitamento de todas as unidades curriculares que integram o plano de estudos do curso de especialização;\n\nb) Elaboração, discussão e aprovação de uma dissertação especialmente escrita para o efeito.\n\n5.º\n\nPlano de estudos\n\nO plano de estudos do curso de especialização conducente ao grau de mestre em História da Arte pela Universidade Lusíada (Lisboa) passa a ser o constante do anexo à presente portaria.\n\n6.º\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 25.\n\n2 - A frequência global do curso de especialização não pode exceder 40 alunos.\n\n7.º\n\nCondições de acesso\n\nAs condições de acesso ao curso de especialização são as fixadas nos termos da lei e do regulamento.\n\n8.º\n\nOrientação das dissertações\n\nA orientação das dissertações deve ser assegurada por docentes titulares do grau de doutor.\n\n9.º\n\nRegulamento\n\n1 - O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809), de 13 de Outubro, e as respectivas alterações estão sujeitos a registo.\n\n2 - O registo efectua-se através de despacho do Ministro da Educação, ouvida a comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março).\n\n3 - O registo do regulamento é recusado se o mesmo for desconforme com a lei ou com os Estatutos da Universidade Lusíada.\n\n4 - Após o registo, a entidade instituidora faz publicar o regulamento, bem como as suas alterações, na 2.ª série do Diário da República.\n\n10.º\n\nCondicionamento\n\nA autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino de cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Educação, quer por não cumprimento dos pressupostos de autorização e reconhecimento, quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo.\n\n11.º\n\nAplicação\n\nO disposto na presente portaria aplica-se a partir do ano lectivo de 2000-2001, inclusive.\n\n12.º\n\nDisposição revogatória\n\nSão revogados os n.os 2.º a 7.º da [Portaria n.º 928/93](https://diariodarepublica.pt/dr/detalhe/portaria/928-1993-655884).\n\nPelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 16 de Janeiro de 2001."
+  },
+  "c36946608aee853c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Universidade Lusíada (Lisboa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Universidade Lusíada (Lisboa)\n\nGrau de mestre na especialidade de História da Arte\n\nQUADRO N.º 1\n\nÁrea de especialização em História da Arte e Cultura\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)\n\nQUADRO N.º 2\n\nÁrea de especialização em Teorias de Conservação e Restauros do Património Artístico\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)"
+  },
+  "0a112b924c412009": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-03-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 269/2006](https://diariodarepublica.pt/dr/detalhe/portaria/269-2006-667161), publicado em 2006-03-17."
+   ],
+   "markdown": "de 7 de Fevereiro\n\nA requerimento da CEUL - Cooperativa de Ensino Universidade Lusíada, C. R. L., entidade instituidora da Universidade Lusíada (Lisboa), cuja criação foi autorizada, ao abrigo do [Decreto-Lei n.º 100-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-b-1985-187955), de 8 de Abril, pelo despacho n.º 135/MEC/86, publicado no Diário da República, 2.ª série, de 28 de Junho de 1986;\n\nConsiderando o disposto no [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809), de 13 de Outubro;\n\nConsiderando o disposto na [Portaria n.º 928/93](https://diariodarepublica.pt/dr/detalhe/portaria/928-1993-655884), de 22 de Setembro;\n\nAo abrigo do disposto no n.º 5 do artigo 53.º e no artigo 67.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março):\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nObjecto\n\nA presente portaria visa regular a atribuição do grau de mestre na especialidade de História da Arte pela Universidade Lusíada (Lisboa), autorizada pela [Portaria n.º 928/93](https://diariodarepublica.pt/dr/detalhe/portaria/928-1993-655884), de 22 de Setembro.\n\n2.º\n\nRegime aplicável\n\nO regime aplicável à atribuição do grau de mestre é o fixado pelo [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809), de 13 de Outubro.\n\n3.º\n\nÁreas de especialização\n\nO grau de mestre em História da Arte pela Universidade Lusíada (Lisboa) é conferido nas seguintes áreas de especialização:\n\na) História da Arte e Cultura;\n\nb) Teorias de Conservação e Restauros do Património Artístico.\n\n4.º\n\nGrau\n\nO grau de mestre na especialidade de História da Arte pela Universidade Lusíada (Lisboa) é concedido aos que satisfaçam, cumulativamente, as seguintes condições:\n\na) Conclusão com aproveitamento de todas as unidades curriculares que integram o plano de estudos do curso de especialização;\n\nb) Elaboração, discussão e aprovação de uma dissertação especialmente escrita para o efeito.\n\n5.º\n\nPlano de estudos\n\nO plano de estudos do curso de especialização conducente ao grau de mestre em História da Arte pela Universidade Lusíada (Lisboa) passa a ser o constante do anexo à presente portaria.\n\n6.º\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 25.\n\n2 - A frequência global do curso de especialização não pode exceder 40 alunos.\n\n7.º\n\nCondições de acesso\n\nAs condições de acesso ao curso de especialização são as fixadas nos termos da lei e do regulamento.\n\n8.º\n\nOrientação das dissertações\n\nA orientação das dissertações deve ser assegurada por docentes titulares do grau de doutor.\n\n9.º\n\nRegulamento\n\nO regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.\n\n> Alterado pelo/a [Portaria n.º 269/2006](https://diariodarepublica.pt/dr/detalhe/portaria/269-2006-667161), publicado em 2006-03-17.\n\n10.º\n\nCondicionamento\n\nA autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino de cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Educação, quer por não cumprimento dos pressupostos de autorização e reconhecimento, quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo.\n\n11.º\n\nAplicação\n\nO disposto na presente portaria aplica-se a partir do ano lectivo de 2000-2001, inclusive.\n\n12.º\n\nDisposição revogatória\n\nSão revogados os n.os 2.º a 7.º da [Portaria n.º 928/93](https://diariodarepublica.pt/dr/detalhe/portaria/928-1993-655884).\n\nPelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 16 de Janeiro de 2001."
+  },
+  "aafe939e87b66267": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Universidade Lusíada (Lisboa)",
+   "in_force_from": "2006-03-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1284/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1284-2001-604841), publicado em 2001-11-15.",
+    "Alterado pelo/a [Portaria n.º 1284/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1284-2001-604841), publicado em 2001-11-15."
+   ],
+   "markdown": "## ANEXO — Universidade Lusíada (Lisboa)\n\nGrau de mestre na especialidade de História da Arte\n\nQUADRO N.º 1\n\nÁrea de especialização em História da Arte e Cultura\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Metodologia de Um Trabalho Científico em História da Arte | Semestral | 3 |  |  | 4 |  |\n| História da Cultura e Património Artístico | Semestral | 3 |  |  | 4 |  |\n| História das Artes Decorativas | Semestral | 3 |  |  | 4 |  |\n| Análise das Linguagens Artísticas | Semestral | 1,5 |  |  | 2 | (a) |\n| Arte Religiosa | Semestral | 1,5 |  |  | 2 | (a) |\n| História da Crítica de Arte | Semestral | 1,5 |  |  | 2 | (a) |\n| Iconologia e Heráldica | Semestral | 1,5 |  |  | 2 | (a) |\n\n(a) Unidades curriculares de opção a regulamentar pelo órgão legal e estatutariamente competente.\n\n> Alterado pelo/a [Portaria n.º 1284/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1284-2001-604841), publicado em 2001-11-15.\n\nQUADRO N.º 2\n\nÁrea de especialização em Teorias de Conservação e Restauros do Património Artístico\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Metodologia de Um Trabalho Científico em História da Arte | Semestral | 3 |  |  | 4 |  |\n| História da Cultura e Património Artístico | Semestral | 3 |  |  | 4 |  |\n| História das Artes Decorativas | Semestral | 3 |  |  | 4 |  |\n| História das Técnicas Artísticas | Semestral | 1,5 |  |  | 2 | (a) |\n| Problemáticas e Investigação em História da Arquitectura e do Urbanismo | Semestral | 1,5 |  |  | 2 | (a) |\n| Restauro e Conservação das Artes Plásticas | Semestral | 1,5 |  |  | 2 | (a) |\n| Restauro Monumental, Teorias e Prática | Semestral | 1,5 |  |  | 2 | (a) |\n\n(a) Unidades curriculares de opção a regulamentar pelo órgão legal e estatutariamente competente.\n\n> Alterado pelo/a [Portaria n.º 1284/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1284-2001-604841), publicado em 2001-11-15."
+  }
+ }
+}

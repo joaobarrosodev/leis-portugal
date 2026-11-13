@@ -2,6 +2,12 @@
   "id": "pt:dre:656077:por",
   "substituicoes": [
     {
+      "de": 13,
+      "ate": 16,
+      "texto": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
+      "alterador": 2
+    },
+    {
       "de": 24,
       "ate": 24,
       "texto": "QUADRO N.º 1\n\n1.º trimestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Economia para Gestores | Trimestral | 2,5 |  |  | 1,5 |  |\n| Finanças | Trimestral | 2,5 |  |  | 1,5 |  |\n| Contabilidade | Trimestral | 2,5 |  |  | 1,5 |  |\n\nQUADRO N.º 2\n\n2.º trimestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Comportamento Organizacional | Trimestral | 2,5 |  |  | 1,5 |  |\n| Gestão de Operações | Trimestral | 2,5 |  |  | 1,5 |  |\n| Marketing | Trimestral | 2,5 |  |  | 1,5 |  |\n\nQUADRO N.º 3\n\n3.º trimestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Estratégia Empresarial | Trimestral | 2,5 |  |  | 1,5 |  |\n| Sistemas de Informação de Gestão | Trimestral | 2,5 |  |  | 1,5 |  |\n\nEspecializações\n\nUma área curricular de entre as seguintes:\n\nÁrea financeira:\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Tópicos de Finanças | Trimestral | 2,5 |  |  | 1,5 | (a) |\n| Opção | Trimestral | 2,5 |  |  | 1,5 | (b) |\n\nÁrea de Marketing:\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Tópicos de Marketing | Trimestral | 2,5 |  |  | 1,5 | (a) |\n| Opção | Trimestral | 2,5 |  |  | 1,5 | (c) |\n\n(a) Obrigatória.\n\n(b) A escolher entre Investimentos e Mercados Financeiros e Gestão de Risco.\n\n(c) A escolher entre Marketing Research e Publicidade.",
@@ -9,12 +15,10 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2 (Portaria n.º 269/2006), n.º 1.º: dá nova redação ao número com a epígrafe «Regulamento» das portarias referidas no seu anexo, mas esse anexo só vem em imagem (ver tabela no documento original), pelo que não é possível confirmar que a Portaria n.º 1191/2000 consta da lista. Se constar, as unidades 13 a 16 (n.os 1 a 4 do 2.º) passariam a ser o parágrafo único «O regulamento a que se refere o artigo 9.º do Decreto-Lei n.º 216/92 é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.»",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, 1.º: o anexo passa a ser o do alterador; cabeçalho, 'Curso de Gestão' e 'Grau de mestre' iguais (unidades 21-23 mantidas, sem a nota editorial); unidade 24 (imagem dos quadros) substituída pelos quadros 1 a 3, especializações e notas (a)-(c) copiados letra a letra.",
-    "Alterador 1, 2.º (aplicação): norma do próprio alterador, nada a mudar.",
-    "Alterador 2, 1.º: nova redação do número 'Regulamento' das portarias do anexo; anexo só em imagem, não aplicado (ver nao_aplicavel).",
-    "Alterador 2, 2.º e 3.º: produção de efeitos e entrada em vigor do próprio alterador, nada a mudar."
+    "Alterador 1 (Portaria 1285/2001), 1.º: o anexo passa a ser o do alterador; a unidade 24 (quadros só em imagem) substituída pelos quadros n.º 1 a 3, especializações e notas do alterador; títulos Curso de Gestão e Grau de mestre inalterados. 2.º (aplicação) não é textual.",
+    "Alterador 2 (Portaria 269/2006), 1.º: a 1191/2000 consta do anexo (número 2.º, epígrafe Regulamento); corpo do 2.º (unidades 13 a 16) substituído pelo texto único novo."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

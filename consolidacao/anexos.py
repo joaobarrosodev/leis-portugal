@@ -23,7 +23,7 @@ A especificação (JSON):
      "quadros": [{"ocorrencia": N, "blocos": [
          {"tipo": "texto", "partes": [{"pagina": P, "de": y0, "ate": y1}]},
          {"tipo": "quadro", "partes": [{"pagina": P, "de": y0, "ate": y1, "x_de": 0, "x_ate": 300}],
-          "colunas": [...], "valores_no_fim": false}]}]}
+          "colunas": [...], "valores_no_fim": false, "recuo": null, "colunas_de_valor": []}]}]}
 
 - "ocorrencia" é a N-ésima ligação a uma imagem do DR no texto do alterador (`texto.IMAGEM_DR`);
 - "partes" são faixas de y (o centro da linha, em pontos, a contar do topo) numa ou mais páginas;
@@ -32,10 +32,14 @@ A especificação (JSON):
   linha com alguma palavra fora da 1.ª coluna é uma linha do quadro; uma linha só com a 1.ª coluna
   continua a célula de cima ou, com "valores_no_fim", começa a da linha seguinte. O cabeçalho sai
   dos nomes das colunas, copiados da imagem; deixa-se fora das faixas;
+- com "recuo" (um x), as continuações vêm recuadas: só abre linha do quadro a linha com uma palavra
+  da 1.ª coluna antes desse x, e as outras continuam as células de cima, coluna a coluna; nas
+  "colunas_de_valor", que não partem em duas linhas, um segundo valor (os agrupados por uma
+  chaveta) fica na mesma célula, depois de "<br>", e o carácter da chaveta ("{") sai;
 - um bloco de texto junta as linhas em parágrafos (um intervalo maior do que 1,6 vezes o habitual
   abre um parágrafo novo);
 - em todas as células: os pontos de guia saem ("…… 4" e "virgem*." seguido de ". . ."), uma palavra
-  partida no fim da linha junta-se ("Ali-" + "mentar."), e "1.o"/"N.o" passam a "1.º"/"N.º".
+  partida no fim da linha junta-se ("Ali-" + "mentar."; "Pós-" + "-Coloniais." dá "Pós-Coloniais."), e "1.o"/"N.o" passam a "1.º"/"N.º".
 
 A transcrição confere-se à parte, contra a imagem da página (`scripts/pdfpagina.swift`), por quem
 não a fez, e o resultado fica em "conferido". Uma transcrição sem conferência não serve para
@@ -65,6 +69,7 @@ from texto import ANEXOS, IMAGEM_DR, RAIZ, front_matter, publicado
 PDFCHARS = Path(os.environ.get("LEIS_PORTUGAL_PDFCHARS") or RAIZ / ".cache" / "pdfchars")
 _ORDINAL = re.compile(r"\b(\d+)\.o\s*(?=[a-záéíóú])")
 _NUMERO = re.compile(r"\b([Nn])\.o(?=\s|\d|$)")  # "N.o 1" é "N.º 1" com o º em expoente
+_SO_ORDINAL = re.compile(r"^(\d+)\.o$")  # uma célula só com "10.o" é "10.º"
 
 
 def caixas(pdf: Path, pagina: int) -> list[Caixa]:
@@ -82,9 +87,11 @@ def _celula(partes: list[str]) -> str:
     for p in partes:
         if texto.endswith("-") and p[:1].islower():
             texto = texto[:-1] + p
+        elif texto.endswith("-") and p.startswith("-") and p[1:2].isalpha():
+            texto = texto + p[1:]  # "Pós-" + "-Coloniais.": o DR repete o hífen de uma palavra composta
         else:
             texto = f"{texto} {p}".strip()
-    return _NUMERO.sub(r"\1.º", _ORDINAL.sub(r"\1.º ", texto)).strip()
+    return _SO_ORDINAL.sub(r"\1.º", _NUMERO.sub(r"\1.º", _ORDINAL.sub(r"\1.º ", texto)).strip())
 
 
 def _linhas_das_partes(pdf: Path, partes: list[dict]):
@@ -96,20 +103,39 @@ def _linhas_das_partes(pdf: Path, partes: list[dict]):
                 yield yc, palavras(chs)
 
 
-def quadro(pdf: Path, partes: list[dict], colunas: list[list], valores_no_fim: bool = False) -> str:
+def quadro(pdf: Path, partes: list[dict], colunas: list[list], valores_no_fim: bool = False,
+           recuo: float | None = None, colunas_de_valor: list[int] = ()) -> str:
     """O quadro em Markdown: cabeçalho das colunas e uma linha por linha do quadro.
 
     Uma linha com alguma palavra fora da 1.ª coluna é uma linha do quadro. Uma linha só com a 1.ª
     coluna continua a célula de cima, ou, com `valores_no_fim`, começa a da linha seguinte (quando
-    os valores estão na última linha de uma designação longa)."""
+    os valores estão na última linha de uma designação longa).
+
+    Com `recuo` (um x), as continuações vêm recuadas em todas as colunas (a lista da Portaria
+    269/2006): só começa uma linha do quadro a que tem uma palavra da 1.ª coluna antes de `recuo`.
+    As outras continuam, coluna a coluna, as células de cima. Nas `colunas_de_valor` (índices a
+    partir de 0), que nunca partem em duas linhas, uma continuação numa célula já cheia é outro valor
+    da mesma célula (os valores agrupados por uma chaveta), e fica separado por "<br>"."""
     limites = [float(x) for _, x in colunas]
     linhas_quadro: list[list[list[str]]] = []
     pendente: list[str] = []
     for _, ps in _linhas_das_partes(pdf, partes):
         celulas: list[list[str]] = [[] for _ in colunas]
         for x0, _, texto in ps:
+            if colunas_de_valor and texto in ("{", "}"):
+                continue  # a chaveta que agrupa os valores: fica dita pelo "<br>"
             k = max(i for i, limite in enumerate(limites) if x0 >= limite) if x0 >= limites[0] else 0
             celulas[k].append(texto)
+        if recuo is not None:
+            if any(x0 < recuo for x0, _, _ in ps) or not linhas_quadro:
+                linhas_quadro.append(celulas)
+                continue
+            for k, c in enumerate(celulas):
+                if c and k in colunas_de_valor and linhas_quadro[-1][k]:
+                    linhas_quadro[-1][k] += ["<br>"] + c
+                else:
+                    linhas_quadro[-1][k] += c
+            continue
         if any(celulas[1:]) or (not linhas_quadro and not valores_no_fim):
             celulas[0] = pendente + celulas[0]
             pendente = []
@@ -122,8 +148,20 @@ def quadro(pdf: Path, partes: list[dict], colunas: list[list], valores_no_fim: b
         raise ValueError(f"texto da 1.ª coluna sem linha de valores a seguir: {' '.join(pendente)[:80]}")
     saida = ["| " + " | ".join(nome for nome, _ in colunas) + " |", "| " + " | ".join("---" for _ in colunas) + " |"]
     for celulas in linhas_quadro:
-        saida.append("| " + " | ".join(_celula(c) for c in celulas) + " |")
+        saida.append("| " + " | ".join(_valores(c) for c in celulas) + " |")
     return "\n".join(saida)
+
+
+def _valores(partes: list[str]) -> str:
+    """Uma célula com um ou mais valores separados por "<br>" (ver `quadro`, `colunas_de_valor`)."""
+    valores, atual = [], []
+    for p in partes + ["<br>"]:
+        if p == "<br>":
+            valores.append(_celula(atual))
+            atual = []
+        else:
+            atual.append(p)
+    return "<br>".join(valores)
 
 
 def texto_corrido(pdf: Path, partes: list[dict]) -> str:
@@ -146,7 +184,7 @@ def texto_corrido(pdf: Path, partes: list[dict]) -> str:
 def bloco(pdf: Path, b: dict, colunas: list[list] | None) -> str:
     if b.get("tipo") == "texto":
         return texto_corrido(pdf, b["partes"])
-    return quadro(pdf, b["partes"], b.get("colunas") or colunas, bool(b.get("valores_no_fim")))
+    return quadro(pdf, b["partes"], b.get("colunas") or colunas, bool(b.get("valores_no_fim")), b.get("recuo"), b.get("colunas_de_valor") or ())
 
 
 def _caminho(id_: str) -> Path:
