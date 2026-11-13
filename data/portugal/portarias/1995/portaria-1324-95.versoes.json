@@ -1,0 +1,77 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:674014:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-11-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ebf8f806a7ff224b",
+    "61c822137da17961"
+   ]
+  },
+  {
+   "date": "2005-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:246133:por",
+     "title": "Portaria n.º 706/2005",
+     "published": "2005-08-23",
+     "dre_path": "/dr/detalhe/portaria/706-2005-246133"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 7",
+    "Altera Artigo unidades 17-17"
+   ],
+   "fragments": [
+    "2eca2e180d1ae6f8",
+    "35649de2c828a898"
+   ]
+  }
+ ],
+ "fragments": {
+  "ebf8f806a7ff224b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Novembro\n\nA requerimento da Universidade Portucalense, Cooperativa de Ensino Superior Universitário, C. R. L., titular da Universidade Portucalense Infante D. Henrique, estabelecimento de ensino reconhecido, ao abrigo e nos termos do [Decreto-Lei n.º 100-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-b-1985-187955), de 8 de Abril, pelo Despacho n.º 122/MEC/86, de 21 de Junho, publicado no 2.º suplemento ao Diário da República, 2.ª série, n.º 146, de 28 de Junho de 1986;\n\nInstruído, organizado e apreciado o respectivo processo nos termos do n.º 1 do artigo 57.º e do artigo 59.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro;\n\nEm cumprimento do disposto no n.º 2 do artigo 30.º do referido Estatuto e com base no previsto no artigo 64.º do mesmo Estatuto:\n\nManda o Governo, pela Ministra da Educação, o seguinte:\n\n1.º É autorizada a Universidade Portucalense Infante D. Henrique, reconhecida pelo Despacho n.º 122/MEC/86, de 21 de Junho, a ministrar o curso de Educação Social, de acordo com o plano de estudos anexo à presente portaria, no Porto, nas instalações sitas na Rua de São Tomé, 712.\n\n2.º Aos diplomas de conclusão do curso referido no número anterior é reconhecido o grau de licenciatura.\n\n3.º As habilitações mínimas que permitem o ingresso no referido curso de Educação Social são as exigidas legalmente, sem prejuízo de outros requisitos que sejam estabelecidos no regulamento interno da Universidade Portucalense Infante D. Henrique.\n\n4.º Para o ano lectivo de 1995-1996, é fixado em 60 o número de vagas para a matrícula e inscrição no curso a que se refere a presente portaria.\n\n5.º O reconhecimento e autorização estabelecidos na presente portaria não prejudicam, sob pena de revogação, a obrigação dos órgãos responsáveis da Universidade Portucalense Infante D. Henrique do cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Educação, quer em resultado da análise do processo que fundamentou a presente portaria, quer no âmbito das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro.\n\nMinstério da Educação.\n\nAssinada em 29 de Setembro de 1995.\n\nPela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior."
+  },
+  "61c822137da17961": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Universidade Portucalense Infante D. Henrique",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Universidade Portucalense Infante D. Henrique\n\nCurso de Educação Social\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/258b00/68676867.pdf)"
+  },
+  "2eca2e180d1ae6f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2005-08-28",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 706/2005](https://diariodarepublica.pt/dr/detalhe/portaria/706-2005-246133), publicado em 2005-08-23."
+   ],
+   "markdown": "de 8 de Novembro\n\nA requerimento da Universidade Portucalense, Cooperativa de Ensino Superior Universitário, C. R. L., titular da Universidade Portucalense Infante D. Henrique, estabelecimento de ensino reconhecido, ao abrigo e nos termos do [Decreto-Lei n.º 100-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-b-1985-187955), de 8 de Abril, pelo Despacho n.º 122/MEC/86, de 21 de Junho, publicado no 2.º suplemento ao Diário da República, 2.ª série, n.º 146, de 28 de Junho de 1986;\n\nInstruído, organizado e apreciado o respectivo processo nos termos do n.º 1 do artigo 57.º e do artigo 59.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro;\n\nEm cumprimento do disposto no n.º 2 do artigo 30.º do referido Estatuto e com base no previsto no artigo 64.º do mesmo Estatuto:\n\nManda o Governo, pela Ministra da Educação, o seguinte:\n\n1.º É autorizada a Universidade Portucalense Infante D. Henrique, reconhecida pelo Despacho n.º 122/MEC/86, de 21 de Junho, a ministrar o curso de Educação Social, de acordo com o plano de estudos anexo à presente portaria, no Porto, nas instalações sitas na Rua de São Tomé, 712.\n\n1.º-A\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 90.\n\n2 - A frequência global do curso não pode exceder 360 alunos.\n\n1.º-B\n\nUnidades curriculares de opção\n\nO elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n> Aditado pelo/a [Portaria n.º 706/2005](https://diariodarepublica.pt/dr/detalhe/portaria/706-2005-246133), publicado em 2005-08-23.\n\n2.º Aos diplomas de conclusão do curso referido no número anterior é reconhecido o grau de licenciatura.\n\n3.º As habilitações mínimas que permitem o ingresso no referido curso de Educação Social são as exigidas legalmente, sem prejuízo de outros requisitos que sejam estabelecidos no regulamento interno da Universidade Portucalense Infante D. Henrique.\n\n4.º Para o ano lectivo de 1995-1996, é fixado em 60 o número de vagas para a matrícula e inscrição no curso a que se refere a presente portaria.\n\n5.º O reconhecimento e autorização estabelecidos na presente portaria não prejudicam, sob pena de revogação, a obrigação dos órgãos responsáveis da Universidade Portucalense Infante D. Henrique do cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Educação, quer em resultado da análise do processo que fundamentou a presente portaria, quer no âmbito das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro.\n\nMinstério da Educação.\n\nAssinada em 29 de Setembro de 1995.\n\nPela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior."
+  },
+  "35649de2c828a898": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Universidade Portucalense Infante D. Henrique",
+   "in_force_from": "2005-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 706/2005](https://diariodarepublica.pt/dr/detalhe/portaria/706-2005-246133), publicado em 2005-08-23."
+   ],
+   "markdown": "## ANEXO — Universidade Portucalense Infante D. Henrique\n\nCurso de Educação Social\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Introdução às Ciências da Educação | 1.º semestre |  | 4 |  |  |  |  |\n| Tendências da Sociedade Contemporânea | 1.º semestre |  | 4 |  |  |  |  |\n| Educação, Saúde e Sexualidade | 1.º semestre |  | 4 |  |  |  |  |\n| Psicossociologia das Organizações | 1.º semestre |  | 4 |  |  |  |  |\n| Introdução à Informática e Tecnologias Educativas | 1.º semestre |  | 4 |  |  |  |  |\n| Introdução à Pedagogia Social | 1.º semestre |  | 4 |  |  |  |  |\n| Teorias Pedagógicas Contemporâneas | 2.º semestre |  | 4 |  |  |  |  |\n| Educação Ambiental | 2.º semestre |  | 4 |  |  |  |  |\n| Primeiros Socorros e Procedimentos de Emergência | 2.º semestre |  | 4 |  |  |  |  |\n| Psicossociologia das Marginalizações | 2.º semestre |  | 4 |  |  |  |  |\n| Métodos e Técnicas de Investigação em Educação Social | 2.º semestre |  | 4 |  |  |  |  |\n| Educação Social Comparada | 2.º semestre |  | 4 |  |  |  |  |\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Psicologia do Desenvolvimento I | 1.º semestre |  | 4 |  |  |  |  |\n| Legislação Social I | 1.º semestre |  | 4 |  |  |  |  |\n| Deficiências e Construção dos Projectos de Vida I | 1.º semestre |  | 4 |  |  |  |  |\n| Pedagogia e Intervenção Familiar | 1.º semestre |  | 4 |  |  |  |  |\n| Sociologia e Educação | 1.º semestre |  | 4 |  |  |  |  |\n| Educação Intercultural | 1.º semestre |  | 4 |  |  |  |  |\n| Psicologia do Desenvolvimento II | 2.º semestre |  | 4 |  |  |  |  |\n| Legislação Social II | 2.º semestre |  | 4 |  |  |  |  |\n| Deficiências e Construção dos Projectos de Vida II | 2.º semestre |  | 4 |  |  |  |  |\n| Sociopedagogia dos Tempos Livres | 2.º semestre |  | 4 |  |  |  |  |\n| Antropologia Cultural | 2.º semestre |  | 4 |  |  |  |  |\n| Técnicas de Animação Sociocultural | 2.º semestre |  | 4 |  |  |  |  |\n\nQUADRO N.º 3\n\n3.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Intervenção Educativa nos Comportamentos Aditivos | 1.º semestre |  | 4 |  |  |  |  |\n| Problemáticas da Adultez e Educação de Adultos | 1.º semestre |  | 4 |  |  |  |  |\n| Políticas de Acção Social | 1.º semestre |  | 4 |  |  |  |  |\n| Pedagogia Penitenciária e Políticas de Reinserção Social | 1.º semestre |  | 4 |  |  |  |  |\n| Opção | 1.º semestre |  | 4 |  |  |  |  |\n| Opção | 1.º semestre |  | 4 |  |  |  |  |\n| Tipologia dos Comportamentos Aditivos | 2.º semestre |  | 4 |  |  |  |  |\n| Gerontologia Social e Educacional | 2.º semestre |  | 4 |  |  |  |  |\n| Organização e Gestão das Instituições Socioeducativas | 2.º semestre |  | 4 |  |  |  |  |\n| Opção | 2.º semestre |  | 4 |  |  |  |  |\n| Opção | 2.º semestre |  | 4 |  |  |  |  |\n| Estágio I | 2.º semestre |  |  |  |  | 80 | (*) |\n\n(*) Escolaridade em horas totais.\n\nQUADRO N.º 4\n\n4.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Ética e Educação | 1.º semestre |  | 4 |  |  |  |  |\n| Planeamento, Gestão e Avaliação de Projectos Sociais | 1.º semestre |  | 4 |  |  |  |  |\n| Opção | 1.º semestre |  | 4 |  |  |  |  |\n| Opção | 1.º semestre |  | 4 |  |  |  |  |\n| Estágio II | 1.º semestre |  |  |  |  | 100 | (*) |\n| Projecto Profissional I | 1.º semestre |  | 4 |  |  |  |  |\n| Estágio III | 2.º semestre |  |  |  |  | 250 | (*) |\n| Projecto Profissional II | 2.º semestre |  | 4 |  |  |  |  |\n\n(*) Escolaridade em horas totais.\n\n> Alterado pelo/a [Portaria n.º 706/2005](https://diariodarepublica.pt/dr/detalhe/portaria/706-2005-246133), publicado em 2005-08-23."
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "id": "pt:dre:2437034:por",
+ "titulo": "Despacho Normativo n.º 14/2008 — Anexo (valores por tonelada de azeite)",
+ "pdf": "https://files.diariodarepublica.pt/2s/2008/03/044000000/0855908560.pdf",
+ "pdf_sha256": "3f10c7b6a8406a1513bc4eebce3c608d42538c8e2354b034b7b95fac181f4d0b",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 1 imagens, 8 linhas e 16 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 160,
+       "ate": 250,
+       "x_ate": 300
+      }
+     ],
+     "colunas": [
+      [
+       "Produto",
+       0
+      ],
+      [
+       "Valores por tonelada (em euros)",
+       250
+      ]
+     ],
+     "valores_no_fim": true
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 258,
+       "ate": 272,
+       "x_ate": 300
+      }
+     ]
+    }
+   ],
+   "colunas": null,
+   "texto": "| Produto | Valores por tonelada (em euros) |\n| --- | --- |\n| Azeite com acidez igual ou inferior a 0,8 % | 120 |\n| Azeite virgem extra* | 120 |\n| Azeite com acidez superior a 0,8 % e igual ou inferior a 2 % | 60 |\n| Azeite virgem* | 60 |\n| Azeite com certificado DOP | 180 |\n| Azeite equivalente resultante de azeitonas com calibre igual ou menor que 500 frutos por quilograma | 120 |\n| Azeite equivalente resultante de azeitonas com certificação DOP | 180 |\n\n*aplicável apenas quando a análise seja efectuada ao lote de azeite obtido a partir de entregas realizadas por vários olivicultores."
+  }
+ ]
+}

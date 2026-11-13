@@ -97,7 +97,7 @@ def test_reescrita_usa_a_ia_escolhida_e_falha_para_a_pergunta(monkeypatch, ia):
 
     monkeypatch.setenv("RAG_PROVEDOR", "openai")
     monkeypatch.setenv("OPENAI_API_KEY", "sk-x")
-    monkeypatch.setattr(provedores.importlib.util, "find_spec", lambda nome: object())
+    monkeypatch.setattr(provedores, "_instalado", lambda pacote: True)
     ia.texto = "prazo de pagamento da coima"
     assert reescrita.reescrever("quanto tempo tenho pra pagar a multa") == "prazo de pagamento da coima"
     ia.erro = provedores.ErroIA("sem rede")
@@ -111,3 +111,16 @@ def test_mensagens_de_erro_simples():
 
     assert "não é válida" in provedores._mensagem_de_erro("openai", Erro("Incorrect API key provided"))
     assert "créditos" in provedores._mensagem_de_erro("claude", Exception("Your credit balance is too low"))
+
+
+def test_gemini_precisa_do_proprio_pacote_e_nao_so_do_espaco_google(monkeypatch):
+    monkeypatch.setenv("RAG_PROVEDOR", "gemini")
+    monkeypatch.setenv("GEMINI_API_KEY", "x")
+    vistos = []
+
+    def find_spec(nome):
+        vistos.append(nome)
+        return object() if nome == "google" else None  # outro pacote da Google, sem o google-genai
+
+    monkeypatch.setattr(provedores.importlib.util, "find_spec", find_spec)
+    assert not provedores.disponivel() and vistos == ["google.genai"]

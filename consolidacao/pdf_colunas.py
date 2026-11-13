@@ -57,8 +57,11 @@ def palavras(chs: list[Caixa]) -> list[tuple[float, float, str]]:
         else:
             juntas.append([c[0], c[1], c[2], c[4]])
     saida = []
-    for x0, _, x1, texto in juntas:
-        texto = re.sub(r"(?:\s*\.){3,}\s*$", "", texto).strip()
+    for i, (x0, _, x1, texto) in enumerate(juntas):
+        guia_a_seguir = i + 1 < len(juntas) and re.fullmatch(r"[.\s]+", juntas[i + 1][3])
+        # os pontos de guia: três ou mais no fim, ou os que se colam à palavra antes de um grupo
+        # só de pontos ("virgem*." + ". . ."); um ponto final sem guia a seguir fica
+        texto = re.sub(r"(?:\s*\.)+\s*$" if guia_a_seguir else r"(?:\s*\.){3,}\s*$", "", texto).strip()
         if texto and not re.fullmatch(r"[.\s]+", texto):
             saida.append((x0, x1, texto))
     return saida

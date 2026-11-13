@@ -8,7 +8,7 @@ Guia passo a passo para quem não é programador: instalar, criar a chave da API
 
 ## A forma mais simples: a aplicação
 
-Para Mac e Windows, sem Terminal: descarregas, abres, e um passo a passo pede a IA que queres usar (Claude, OpenAI ou Gemini) e a chave. A chave fica no cofre do computador e os dados descarregam-se sozinhos. Ver [`app/README.md`](app/README.md). **Ainda não está publicada:** até lá, usa este guia.
+Para Mac e Windows, sem Terminal: descarrega-a em [joaobarrosodev.github.io/leis-portugal](https://joaobarrosodev.github.io/leis-portugal/), abre-a, e um passo a passo pede a IA que queres usar (Claude, OpenAI ou Gemini) e a chave. A chave fica no cofre do computador e os dados descarregam-se sozinhos. Ver [`app/README.md`](app/README.md).
 
 Este guia é para quem a quer usar a partir do repositório. Com `./perguntar --web` (passo 6) tem a mesma página da aplicação, no browser.
 

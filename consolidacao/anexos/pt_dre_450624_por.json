@@ -13,11 +13,16 @@
  "transcricoes": [
   {
    "ocorrencia": 1,
-   "partes": [
+   "blocos": [
     {
-     "pagina": 2,
-     "de": 305,
-     "ate": 445
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 305,
+       "ate": 445
+      }
+     ]
     }
    ],
    "colunas": [
@@ -54,11 +59,16 @@
   },
   {
    "ocorrencia": 2,
-   "partes": [
+   "blocos": [
     {
-     "pagina": 2,
-     "de": 535,
-     "ate": 650
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 535,
+       "ate": 650
+      }
+     ]
     }
    ],
    "colunas": [
@@ -95,16 +105,21 @@
   },
   {
    "ocorrencia": 3,
-   "partes": [
+   "blocos": [
     {
-     "pagina": 2,
-     "de": 740,
-     "ate": 800
-    },
-    {
-     "pagina": 3,
-     "de": 120,
-     "ate": 180
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 740,
+       "ate": 800
+      },
+      {
+       "pagina": 3,
+       "de": 120,
+       "ate": 180
+      }
+     ]
     }
    ],
    "colunas": [
@@ -141,11 +156,16 @@
   },
   {
    "ocorrencia": 4,
-   "partes": [
+   "blocos": [
     {
-     "pagina": 3,
-     "de": 270,
-     "ate": 385
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 270,
+       "ate": 385
+      }
+     ]
     }
    ],
    "colunas": [
@@ -182,11 +202,16 @@
   },
   {
    "ocorrencia": 5,
-   "partes": [
+   "blocos": [
     {
-     "pagina": 3,
-     "de": 470,
-     "ate": 560
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 470,
+       "ate": 560
+      }
+     ]
     }
    ],
    "colunas": [

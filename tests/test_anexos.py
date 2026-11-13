@@ -63,3 +63,45 @@ def test_quadro_poe_cada_numero_na_sua_coluna(monkeypatch):
     md = anexos.quadro(Path("x.pdf"), [{"pagina": 1, "de": 0, "ate": 200}], colunas).split("\n")
     assert md[2] == "| Laboratório | 1.º semestre |  | 20 | 40 |"
     assert md[3] == "| Indústria Alimentar. | 1.º semestre | 30 |  |  |"
+
+
+def test_pontos_de_guia_colados_a_palavra_saem_e_o_ponto_final_fica():
+    guia = _letras("virgem*.", 45) + _letras(". . . .", 90, largura=3) + _letras("60", 300)
+    assert [t for _, _, t in palavras(guia)] == ["virgem*", "60"]
+    final = _letras("Alimentar.", 45)
+    assert [t for _, _, t in palavras(final)] == ["Alimentar."]
+
+
+def test_corte_pelo_x_tira_a_coluna_do_lado(monkeypatch):
+    esquerda = _letras("Azeite", 50, 100) + _letras("120", 250, 100)
+    direita = _letras("Despacho", 320, 100)
+    monkeypatch.setattr(anexos, "caixas", lambda pdf, pagina: esquerda + direita)
+    md = anexos.quadro(Path("x.pdf"), [{"pagina": 1, "de": 0, "ate": 200, "x_ate": 300}], [["Produto", 0], ["Valor", 200]])
+    assert md.split("\n")[2] == "| Azeite | 120 |"
+
+
+def test_texto_corrido_e_numero_com_expoente(monkeypatch):
+    linhas_ = _letras("QUADRO N.o 1 do", 45, 100) + _letras("plano", 45, 110) + _letras("1.o ano", 45, 140)
+    monkeypatch.setattr(anexos, "caixas", lambda pdf, pagina: linhas_)
+    texto_ = anexos.texto_corrido(Path("x.pdf"), [{"pagina": 1, "de": 0, "ate": 200}])
+    assert texto_ == "QUADRO N.º 1 do plano\n\n1.º ano"
+
+
+def test_refazer_confirma_e_apanha_diferencas(tmp_path, monkeypatch):
+    import hashlib
+
+    pdf = tmp_path / "x.pdf"
+    pdf.write_bytes(b"pdf")
+    linha = _letras("Física", 45, 100) + _letras("30", 343, 100)
+    monkeypatch.setattr(anexos, "caixas", lambda p, pagina: linha)
+    monkeypatch.setattr(anexos, "ANEXOS", tmp_path)
+    colunas = [["Unidade", 0], ["Horas", 300]]
+    blocos = [{"tipo": "quadro", "partes": [{"pagina": 1, "de": 0, "ate": 200}]}]
+    texto_ = anexos.quadro(pdf, blocos[0]["partes"], colunas)
+    dados = {"pdf_sha256": hashlib.sha256(b"pdf").hexdigest(),
+             "transcricoes": [{"ocorrencia": 1, "blocos": blocos, "colunas": colunas, "texto": texto_}]}
+    (tmp_path / "pt_dre_1_por.json").write_text(json.dumps(dados), encoding="utf-8")
+    assert anexos.refazer("pt:dre:1:por", pdf) == 0
+    dados["transcricoes"][0]["texto"] = texto_.replace("30", "40")
+    (tmp_path / "pt_dre_1_por.json").write_text(json.dumps(dados), encoding="utf-8")
+    assert anexos.refazer("pt:dre:1:por", pdf) == 1

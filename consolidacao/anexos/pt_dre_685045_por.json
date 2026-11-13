@@ -1,0 +1,141 @@
+{
+ "id": "pt:dre:685045:por",
+ "titulo": "Portaria n.º 1174/97 — anexo (plano de estudos do curso de Ensino Precoce das Línguas Estrangeiras, alteração ao anexo da Portaria n.º 239/95)",
+ "pdf": "https://files.diariodarepublica.pt/1s/1997/11/266b00/62416242.pdf",
+ "pdf_sha256": "c8ec3da1a3d9ddfe51f2a8bb26bf9295b5f66f2b6111882d905f972e0676a688",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 1 imagens, 13 linhas e 91 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 155,
+       "ate": 166
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 172,
+       "ate": 182
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 185,
+       "ate": 194
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 250,
+       "ate": 312
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 320,
+       "ate": 330
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 345,
+       "ate": 356
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 361,
+       "ate": 371
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 428,
+       "ate": 480
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 488,
+       "ate": 498
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     280
+    ],
+    [
+     "Escolaridade (em horas totais) — Aulas teóricas",
+     376
+    ],
+    [
+     "Escolaridade (em horas totais) — Aulas teórico-práticas",
+     410
+    ],
+    [
+     "Escolaridade (em horas totais) — Aulas práticas",
+     444
+    ],
+    [
+     "Escolaridade (em horas totais) — Seminários e estágios",
+     474
+    ],
+    [
+     "Observações",
+     515
+    ]
+   ],
+   "texto": "Diploma de estudos superiores especializados\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua Estrangeira I | Anual |  |  | 180 |  | (a) |\n| Civilização e Cultura da Língua Estrangeira | Anual | 45 |  | 45 |  | (a) |\n| Psicolinguística | Semestral | 60 |  |  |  |  |\n| Expressão para a Comunicação | Semestral |  | 45 |  |  |  |\n| Didáctica da Língua Estrangeira I | Semestral |  | 45 |  |  | (a) |\n| Investigação em Educação | Semestral |  | 60 |  |  |  |\n\n(a) Francês ou Inglês.\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua Estrangeira II | Anual |  |  | 150 |  | (a) |\n| Projecto de Intervenção | Anual |  |  | 90 |  |  |\n| Seminário | Anual |  |  |  | 120 |  |\n| Didáctica da Língua Estrangeira II | Semestral |  | 45 |  |  | (a) |\n| Laboratório de Construção de Materiais | Semestral |  | 75 |  |  |  |\n\n(a) Francês ou Inglês."
+  }
+ ]
+}

@@ -69,11 +69,25 @@ Os deltas dão o mesmo índice que uma reconstrução de raiz. Isso é testado n
 
 `pages/index.html` é a página de descarga, publicada pelo workflow `.github/workflows/site.yml` no GitHub Pages. É preciso ativar uma vez: Settings → Pages → Source: GitHub Actions. Os botões apontam para os ficheiros da última Release.
 
+## Lançar uma versão nova
+
+1. Subir a versão em `app/leis-portugal.spec` (`CFBundleShortVersionString`) e no site (`pages/index.html`, no cabeçalho e no rodapé).
+2. Pôr a etiqueta e enviá-la: `git tag -a app-v0.1.1 -m "…" && git push origin app-v0.1.1`.
+3. O workflow constrói as duas versões e publica a Release; o site descarrega sempre a última (`releases/latest/download/…`).
+4. Confirmar os tamanhos dos `.zip` e, se mudaram, acertá-los na caixa de descarga do site.
+
+Não se repõe uma etiqueta já publicada: o GitHub passa a Release a rascunho. O workflow volta a publicá-la (`gh release edit --draft=false`), mas é melhor usar sempre uma etiqueta nova.
+
 ## O que falta
 
 - **Assinatura:** a aplicação não é assinada. O macOS (Gatekeeper) e o Windows (SmartScreen) avisam da primeira vez, e o site e o `COMO-USAR.md` explicam como passar esse aviso. Para assinar é preciso uma conta Apple Developer (99 USD por ano, com notarização) e um certificado de assinatura de código para Windows.
-- **Testado:** a construção para Mac, o executável a responder a uma pergunta com o índice verdadeiro, e os pedidos da página (`tests/test_web.py`).
+- **Só Mac com chip Apple:** o runner `macos-latest` é ARM. Para Macs com Intel, juntar uma construção num runner Intel.
+- **Testado:**
+  - a versão 0.1.0 para Mac, descarregada da Release: arranca, leva a janela, o cofre, as três IAs, o reranker e a página, e responde a uma pergunta com o índice verdadeiro;
+  - a construção para Windows, incluindo o passo `--verificar` (as importações);
+  - a página da aplicação, percorrida com respostas simuladas (passo a passo, "não sei", resposta com fonte);
+  - os pedidos da página (`tests/test_web.py`) e a descarga dos dados a partir do Hugging Face.
 - **Não testado:**
-  - a janela (pywebview);
-  - a construção para Windows, que só corre no workflow;
+  - abrir a janela de facto (pywebview), no Mac e no Windows;
+  - o `.exe` a correr num Windows;
   - as chamadas reais às três IAs, que precisam de chaves.

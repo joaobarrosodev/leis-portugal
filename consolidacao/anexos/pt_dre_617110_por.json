@@ -1,0 +1,57 @@
+{
+ "id": "pt:dre:617110:por",
+ "titulo": "Portaria n.º 69/2010 — Anexo (limites máximos, por produtor, de venda de volumes de biocombustíveis isentos de ISP)",
+ "pdf": "https://files.diariodarepublica.pt/1s/2010/02/02400/0029300294.pdf",
+ "pdf_sha256": "ef7375d073bd2724d62d65ea2c190640094c8fcf3d0a3c57f0aa9206bbbc9aba",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 1 imagens, 6 linhas e 18 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 455,
+       "ate": 461
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 495,
+       "ate": 540
+      }
+     ],
+     "colunas": [
+      [
+       "Produtor",
+       0
+      ],
+      [
+       "2009",
+       190
+      ],
+      [
+       "2010",
+       242
+      ]
+     ],
+     "valores_no_fim": false
+    }
+   ],
+   "colunas": null,
+   "texto": "(Metros cúbicos)\n\n| Produtor | 2009 | 2010 |\n| --- | --- | --- |\n| Iberol | 76 159 | 82 426 |\n| Torrejana | 66 691 | 77 654 |\n| Biovegetal | 54 700 | 68 993 |\n| Prio | 52 498 | 67 111 |\n| Sovena | 37 024 | 62 981 |"
+  }
+ ]
+}

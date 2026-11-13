@@ -1,0 +1,209 @@
+{
+ "id": "pt:dre:314452:por",
+ "titulo": "Portaria n.º 65/2001 — anexo, quadros n.os 1 a 4 (plano de estudos do curso de Educação Social)",
+ "pdf": "https://files.diariodarepublica.pt/1s/2001/01/026b00/05560557.pdf",
+ "pdf_sha256": "4e1afb4b8d17f8b520bd5af10a6ccd2677de283a2a1a3ba98b8578cdd4c6f1c3",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 4,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 4 imagens, 33 linhas e 231 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 725,
+       "ate": 790
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     233
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     327
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     370
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     412
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     498
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Pedagogia e Ciências da Educação | Anual | 2 |  | 2 |  |  |\n| Introdução à Pedagogia Social | Anual | 2 |  | 2 |  |  |\n| Psicossociologia das Organizações | Anual | 2 |  | 2 |  |  |\n| História das Instituições Sócio-Educativas | Anual | 2 |  | 2 |  |  |\n| História e Tendências da Sociedade Contemporânea | Anual | 2 |  | 2 |  |  |\n| Introdução à Informática | Anual | 2 |  | 2 |  |  |"
+  },
+  {
+   "ocorrencia": 2,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 150,
+       "ate": 230
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     233
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     327
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     370
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     412
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     498
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Psicologia do Desenvolvimento | Anual | 2 |  | 2 |  |  |\n| Fundamentos de Antropologia Social e Cultural | Anual | 2 |  | 2 |  |  |\n| Legislação Social | Anual | 2 |  | 2 |  |  |\n| Deficiências e Construção dos Projectos de Vida | Anual | 2 |  | 2 |  |  |\n| Sócio-Pedagogia dos Tempos Livres | Semestral | 2 |  | 2 |  |  |\n| Metodologias de Investigação | Semestral | 2 |  | 2 |  |  |\n| Educação Social Comparada | Semestral | 2 |  | 2 |  |  |\n| Educação Intercultural | Semestral | 2 |  | 2 |  |  |"
+  },
+  {
+   "ocorrencia": 3,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 325,
+       "ate": 420
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     233
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     327
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     370
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     412
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     498
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Organização e Gestão de Instituições Sócio-Educativas. | Anual | 2 |  | 2 |  |  |\n| Tipologia das Toxicodependências e Intervenção Educativa. | Anual | 2 |  | 2 |  |  |\n| Técnicas de Animação Sócio-Cultural I | Semestral | 3 |  | 3 |  |  |\n| Problemática da Infância e da Juventude | Semestral | 2 |  | 2 |  |  |\n| Problemática da Adultez e da Terceira Idade | Semestral | 2 |  | 2 |  |  |\n| Psicossociologia das Marginalizações | Semestral | 2 |  | 2 |  |  |\n| Educação Ambiental | Semestral | 2 |  | 2 |  |  |\n| Estágio I | Semestral |  |  |  | 60 |  |"
+  },
+  {
+   "ocorrencia": 4,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 520,
+       "ate": 600
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 605,
+       "ate": 620
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     233
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     327
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     370
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     412
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     498
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Técnicas de Animação Sócio-Cultural II | Semestral | 3 |  | 3 |  |  |\n| Pedagogia Penitenciária e Políticas de Reinserção Social. | Semestral | 2 |  | 2 |  |  |\n| Educação e Saúde | Semestral | 3 |  | 3 |  |  |\n| Filosofia da Educação | Semestral | 2 |  | 2 |  |  |\n| Estágio II | Anual |  |  |  | 250 |  |\n| Projecto Profissional | Anual |  |  |  |  |  |\n| Opção | Anual | 2 |  | 2 |  | (a) |\n\n(a) A escolher de entre um elenco a fixar anualmente pelo órgão estatutariamente competente da instituição."
+  }
+ ]
+}

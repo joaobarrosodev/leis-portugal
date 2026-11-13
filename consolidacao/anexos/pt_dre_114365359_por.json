@@ -1,0 +1,68 @@
+{
+ "id": "pt:dre:114365359:por",
+ "titulo": "Portaria n.º 374/2017 — Anexo, Quadro n.º 1 (plano de estudos do curso de pós-licenciatura de especialização em Enfermagem de Reabilitação)",
+ "pdf": "https://files.diariodarepublica.pt/1s/2017/12/24100/0662406624.pdf",
+ "pdf_sha256": "b811d937c5321484f2587afc79acf896e262d8be25f408231ba1e6c82d6060f9",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 1 imagens, 13 linhas e 78 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 605,
+       "ate": 765
+      }
+     ],
+     "colunas": [
+      [
+       "Unidades curriculares",
+       0
+      ],
+      [
+       "Área científica",
+       314
+      ],
+      [
+       "Tipo",
+       344
+      ],
+      [
+       "Tempo de trabalho (horas) — Total",
+       430
+      ],
+      [
+       "Tempo de trabalho (horas) — Contacto",
+       460
+      ],
+      [
+       "Créditos",
+       516
+      ]
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 770,
+       "ate": 782
+      }
+     ]
+    }
+   ],
+   "colunas": null,
+   "texto": "| Unidades curriculares | Área científica | Tipo | Tempo de trabalho (horas) — Total | Tempo de trabalho (horas) — Contacto | Créditos |\n| --- | --- | --- | --- | --- | --- |\n| Fundamentos de Enfermagem de Reabilitação | ENF | 1.º semestre | 135 | TP:38; PL:5 | 5 |\n| Enfermagem de Reabilitação em Neurologia | ENF | 1.º semestre | 135 | TP:35; PL:4 | 5 |\n| Enfermagem de Reabilitação Cardiorrespiratória | ENF | 1.º semestre | 81 | TP:26; PL:4 | 3 |\n| Enfermagem de Reabilitação em Ortopedia e Traumatologia | ENF | 1.º semestre | 135 | TP:35; PL:4 | 5 |\n| Enfermagem de Reabilitação na Família e Comunidade | ENF | 1.º semestre | 81 | TP:26; PL:4 | 3 |\n| Prática Baseada na Evidência | ENF | 1.º semestre | 81 | T:13 | 3 |\n| Ética e Direito em Saúde | FET | 1.º semestre | 81 | T:13 | 3 |\n| Gestão, Inovação e Supervisão Clínica | ENF | 1.º semestre | 81 | T:13 | 3 |\n| Ensino Clínico I — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Neurológicos. | ENF | 2.º semestre | 162 | E:116 | 6 |\n| Ensino Clínico II — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Neurológicos de Causa Traumática. | ENF | 2.º semestre | 162 | E:116 | 6 |\n| Ensino Clínico III -Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Orto-traumatológicos e Vertebro-medulares. | ENF | 2.º semestre | 162 | E:116 | 6 |\n| Ensino Clínico IV — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Cardiorrespiratórios. | ENF | 2.º semestre | 162 | E:116 | 6 |\n| Ensino Clínico V — Cuidados de Enfermagem de Reabilitação na Comunidade | ENF | 2.º semestre | 162 | E:116 | 6 |\n\nNota. — T: ensino teórico; TP: ensino teórico-prático; PL: ensino prático e laboratorial; E: estágio; S: seminário; OT: orientação tutorial."
+  }
+ ]
+}

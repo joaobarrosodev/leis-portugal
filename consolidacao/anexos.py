@@ -2,23 +2,49 @@
 
 No acervo, um quadro de um alterador é muitas vezes só uma ligação "(ver quadro no documento
 original)" para o PDF do DR. Desde 1997 esses PDFs têm camada de texto. O texto simples perde as
-colunas, mas a posição de cada palavra não (ver "Anexos só em imagem" em `README.md`). Aqui:
+colunas, mas a posição de cada palavra não (ver "Anexos só em imagem" em `README.md`, com o guia
+passo a passo). Aqui:
 
 - `quadros ID ESPEC PDF` lê, com `scripts/pdfchars.swift` (compilado em `.cache/pdfchars`, ou no
-  caminho de `LEIS_PORTUGAL_PDFCHARS`), as páginas e as faixas de y que a especificação dá. Cada
-  palavra vai para a coluna em que começa, pelas fronteiras de x da especificação. Uma linha com
-  alguma palavra fora da 1.ª coluna começa uma linha do quadro. Uma linha só com a 1.ª coluna
-  continua a célula de cima. Escreve `anexos/<id>.json` com a especificação, o hash do PDF e o
-  quadro em Markdown, para cada imagem do texto do alterador que se troca;
-- `texto.com_anexos` troca, no texto do alterador, as imagens por esses quadros. Todos os pedidos
+  caminho de `LEIS_PORTUGAL_PDFCHARS`), as páginas e as faixas de y que a especificação dá, e
+  escreve `anexos/<id>.json`: a especificação, o hash do PDF, o número de imagens do texto do
+  alterador e o texto de cada imagem que se troca;
+- `refazer ID PDF` volta a transcrever a partir do próprio `anexos/<id>.json` e diz se o texto mudou;
+- `mostrar ID` mostra as transcrições;
+- `texto.com_anexos` troca, no texto do alterador, as imagens pelas transcrições. Todos os pedidos
   ao LLM, as verificações letra a letra e as vistas às cegas leem o alterador por
-  `texto.alterador`, e por isso veem o quadro.
+  `texto.alterador`, e por isso veem o quadro. O original nunca se transcreve.
 
-A transcrição confere-se à parte, contra a imagem da página, por quem não a fez. O resultado fica
-em "conferido" no ficheiro. Uma transcrição sem conferência não deve servir para aplicar nada.
+A especificação (JSON):
+
+    {"titulo": "...", "pdf": "<URL do PDF no DR>",
+     "colunas": [["Nome da coluna", x_inicial], ...],          # por omissão, para os quadros
+     "conferido": {"data": "...", "por": "...", "resultado": "..."},
+     "quadros": [{"ocorrencia": N, "blocos": [
+         {"tipo": "texto", "partes": [{"pagina": P, "de": y0, "ate": y1}]},
+         {"tipo": "quadro", "partes": [{"pagina": P, "de": y0, "ate": y1, "x_de": 0, "x_ate": 300}],
+          "colunas": [...], "valores_no_fim": false}]}]}
+
+- "ocorrencia" é a N-ésima ligação a uma imagem do DR no texto do alterador (`texto.IMAGEM_DR`);
+- "partes" são faixas de y (o centro da linha, em pontos, a contar do topo) numa ou mais páginas;
+  "x_de"/"x_ate" cortam uma coluna da página, quando o DR tem outro diploma ao lado;
+- num quadro, cada palavra vai para a coluna cujo x inicial é o maior que não passa do x0 dela. Uma
+  linha com alguma palavra fora da 1.ª coluna é uma linha do quadro; uma linha só com a 1.ª coluna
+  continua a célula de cima ou, com "valores_no_fim", começa a da linha seguinte. O cabeçalho sai
+  dos nomes das colunas, copiados da imagem; deixa-se fora das faixas;
+- um bloco de texto junta as linhas em parágrafos (um intervalo maior do que 1,6 vezes o habitual
+  abre um parágrafo novo);
+- em todas as células: os pontos de guia saem ("…… 4" e "virgem*." seguido de ". . ."), uma palavra
+  partida no fim da linha junta-se ("Ali-" + "mentar."), e "1.o"/"N.o" passam a "1.º"/"N.º".
+
+A transcrição confere-se à parte, contra a imagem da página (`scripts/pdfpagina.swift`), por quem
+não a fez, e o resultado fica em "conferido". Uma transcrição sem conferência não serve para
+aplicar nada. O que o PDF não dá letra a letra ("€" lido como "E", palavras coladas sem espaço,
+células com chavetas) não se transcreve: corrigir à mão deixaria de ser uma transcrição.
 
 Uso:
     python consolidacao/anexos.py quadros ID ESPEC.json FICHEIRO.pdf
+    python consolidacao/anexos.py refazer ID FICHEIRO.pdf
     python consolidacao/anexos.py mostrar ID
 """
 
@@ -38,6 +64,7 @@ from texto import ANEXOS, IMAGEM_DR, RAIZ, front_matter, publicado
 
 PDFCHARS = Path(os.environ.get("LEIS_PORTUGAL_PDFCHARS") or RAIZ / ".cache" / "pdfchars")
 _ORDINAL = re.compile(r"\b(\d+)\.o\s*(?=[a-záéíóú])")
+_NUMERO = re.compile(r"\b([Nn])\.o(?=\s|\d|$)")  # "N.o 1" é "N.º 1" com o º em expoente
 
 
 def caixas(pdf: Path, pagina: int) -> list[Caixa]:
@@ -57,29 +84,69 @@ def _celula(partes: list[str]) -> str:
             texto = texto[:-1] + p
         else:
             texto = f"{texto} {p}".strip()
-    return _ORDINAL.sub(r"\1.º ", texto).strip()
+    return _NUMERO.sub(r"\1.º", _ORDINAL.sub(r"\1.º ", texto)).strip()
 
 
-def quadro(pdf: Path, partes: list[dict], colunas: list[list]) -> str:
-    """O quadro em Markdown: cabeçalho das colunas e uma linha por linha do quadro."""
+def _linhas_das_partes(pdf: Path, partes: list[dict]):
+    for parte in partes:
+        # "x_de"/"x_ate" cortam uma coluna da página (o DR tem duas, com outros diplomas ao lado)
+        cs = [c for c in caixas(pdf, parte["pagina"]) if parte.get("x_de", 0) <= c[0] < parte.get("x_ate", 1e9)]
+        for yc, chs in linhas(cs):
+            if parte["de"] <= yc <= parte["ate"]:
+                yield yc, palavras(chs)
+
+
+def quadro(pdf: Path, partes: list[dict], colunas: list[list], valores_no_fim: bool = False) -> str:
+    """O quadro em Markdown: cabeçalho das colunas e uma linha por linha do quadro.
+
+    Uma linha com alguma palavra fora da 1.ª coluna é uma linha do quadro. Uma linha só com a 1.ª
+    coluna continua a célula de cima, ou, com `valores_no_fim`, começa a da linha seguinte (quando
+    os valores estão na última linha de uma designação longa)."""
     limites = [float(x) for _, x in colunas]
     linhas_quadro: list[list[list[str]]] = []
-    for parte in partes:
-        for yc, chs in linhas(caixas(pdf, parte["pagina"])):
-            if not parte["de"] <= yc <= parte["ate"]:
-                continue
-            celulas: list[list[str]] = [[] for _ in colunas]
-            for x0, _, texto in palavras(chs):
-                k = max(i for i, limite in enumerate(limites) if x0 >= limite) if x0 >= limites[0] else 0
-                celulas[k].append(texto)
-            if any(celulas[1:]) or not linhas_quadro:
-                linhas_quadro.append(celulas)
-            else:
-                linhas_quadro[-1][0] += celulas[0]
+    pendente: list[str] = []
+    for _, ps in _linhas_das_partes(pdf, partes):
+        celulas: list[list[str]] = [[] for _ in colunas]
+        for x0, _, texto in ps:
+            k = max(i for i, limite in enumerate(limites) if x0 >= limite) if x0 >= limites[0] else 0
+            celulas[k].append(texto)
+        if any(celulas[1:]) or (not linhas_quadro and not valores_no_fim):
+            celulas[0] = pendente + celulas[0]
+            pendente = []
+            linhas_quadro.append(celulas)
+        elif valores_no_fim:
+            pendente += celulas[0]
+        else:
+            linhas_quadro[-1][0] += celulas[0]
+    if pendente:
+        raise ValueError(f"texto da 1.ª coluna sem linha de valores a seguir: {' '.join(pendente)[:80]}")
     saida = ["| " + " | ".join(nome for nome, _ in colunas) + " |", "| " + " | ".join("---" for _ in colunas) + " |"]
     for celulas in linhas_quadro:
         saida.append("| " + " | ".join(_celula(c) for c in celulas) + " |")
     return "\n".join(saida)
+
+
+def texto_corrido(pdf: Path, partes: list[dict]) -> str:
+    """Parágrafos de texto: as linhas juntam-se, e um intervalo maior do que 1,6 vezes o habitual
+    entre linhas abre um parágrafo novo."""
+    ls = [(yc, " ".join(t for _, _, t in ps)) for yc, ps in _linhas_das_partes(pdf, partes) if ps]
+    if not ls:
+        return ""
+    saltos = sorted(b[0] - a[0] for a, b in zip(ls, ls[1:], strict=False) if b[0] > a[0])
+    normal = saltos[(len(saltos) - 1) // 2] if saltos else 0
+    paragrafos: list[list[str]] = [[ls[0][1]]]
+    for (y0, _), (y1, t) in zip(ls, ls[1:], strict=False):
+        if normal and (y1 - y0 > 1.6 * normal or y1 < y0):
+            paragrafos.append([t])
+        else:
+            paragrafos[-1].append(t)
+    return "\n\n".join(_celula(p) for p in paragrafos)
+
+
+def bloco(pdf: Path, b: dict, colunas: list[list] | None) -> str:
+    if b.get("tipo") == "texto":
+        return texto_corrido(pdf, b["partes"])
+    return quadro(pdf, b["partes"], b.get("colunas") or colunas, bool(b.get("valores_no_fim")))
 
 
 def _caminho(id_: str) -> Path:
@@ -106,8 +173,9 @@ def quadros(id_: str, espec: Path, pdf: Path) -> None:
     for q in e["quadros"]:
         if not 1 <= q["ocorrencia"] <= n_imagens:
             raise SystemExit(f"ocorrência {q['ocorrencia']} fora das {n_imagens} imagens do texto")
-        transcricoes.append({"ocorrencia": q["ocorrencia"], "partes": q["partes"], "colunas": e["colunas"],
-                             "texto": quadro(pdf, q["partes"], e["colunas"])})
+        blocos = q.get("blocos") or [{"tipo": "quadro", "partes": q["partes"]}]
+        texto = "\n\n".join(bloco(pdf, b, e.get("colunas")) for b in blocos)
+        transcricoes.append({"ocorrencia": q["ocorrencia"], "blocos": blocos, "colunas": e.get("colunas"), "texto": texto})
     dados = {
         "id": id_,
         "titulo": e["titulo"],
@@ -123,6 +191,19 @@ def quadros(id_: str, espec: Path, pdf: Path) -> None:
     print(f"{_caminho(id_).relative_to(RAIZ)}: {len(transcricoes)} quadros de {n_imagens} imagens")
 
 
+def refazer(id_: str, pdf: Path) -> int:
+    """Volta a transcrever a partir da especificação guardada no próprio ficheiro e diz se o texto
+    mudou. Não escreve nada: serve para confirmar que uma transcrição conferida se reproduz."""
+    dados = json.loads(_caminho(id_).read_text(encoding="utf-8"))
+    if hashlib.sha256(pdf.read_bytes()).hexdigest() != dados["pdf_sha256"]:
+        print(f"{id_}: o PDF não é o da transcrição (sha256 diferente)")
+        return 1
+    diferentes = [t["ocorrencia"] for t in dados["transcricoes"]
+                  if "\n\n".join(bloco(pdf, b, t.get("colunas")) for b in t["blocos"]) != t["texto"]]
+    print(f"{id_}: " + (f"o texto muda nas imagens {diferentes}" if diferentes else "igual à transcrição guardada"))
+    return 1 if diferentes else 0
+
+
 def mostrar(id_: str) -> None:
     for t in json.loads(_caminho(id_).read_text(encoding="utf-8"))["transcricoes"]:
         print(f"## Imagem {t['ocorrencia']}\n\n{t['texto']}\n")
@@ -135,11 +216,16 @@ def main() -> None:
     q.add_argument("id")
     q.add_argument("espec", type=Path)
     q.add_argument("pdf", type=Path)
+    r = sub.add_parser("refazer")
+    r.add_argument("id")
+    r.add_argument("pdf", type=Path)
     m = sub.add_parser("mostrar")
     m.add_argument("id")
     a = ap.parse_args()
     if a.cmd == "quadros":
         quadros(a.id, a.espec, a.pdf)
+    elif a.cmd == "refazer":
+        raise SystemExit(refazer(a.id, a.pdf))
     else:
         mostrar(a.id)
 

@@ -1,0 +1,89 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:515449:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-08-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c28c42bce80996cf",
+    "d59b067fde3972f0"
+   ]
+  },
+  {
+   "date": "2005-04-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:350135:por",
+     "title": "Portaria n.º 1520/2004",
+     "published": "2004-12-31",
+     "dre_path": "/dr/detalhe/portaria/1520-2004-350135"
+    },
+    {
+     "id": "pt:dre:563259:por",
+     "title": "Portaria n.º 365/2005",
+     "published": "2005-04-04",
+     "dre_path": "/dr/detalhe/portaria/365-2005-563259"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 23-23",
+    "Altera Artigo unidades 31-31",
+    "Altera Artigo unidades 34-34",
+    "Altera Artigo unidades 37-37",
+    "Altera Artigo unidades 40-40"
+   ],
+   "fragments": [
+    "324fb32566af2b69",
+    "7236eb44d1f91483"
+   ]
+  }
+ ],
+ "fragments": {
+  "c28c42bce80996cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Agosto\n\nA requerimento da CEUPA - Cooperativa de Desenvolvimento Universitário e Politécnico do Algarve, C. R. L., entidade instituidora do Instituto Superior D. Afonso III, reconhecido como de interesse público pelo [Decreto-Lei n.º 301/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1997-674473), de 31 de Outubro, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nConsiderando o disposto na [Portaria n.º 1269/97](https://diariodarepublica.pt/dr/detalhe/portaria/1269-1997-419821), de 22 de Dezembro;\n\nInstruído, organizado e apreciado o processo nos termos do artigo 67.º do Estatuto do Ensino Superior Particular e Cooperativo;\n\nColhido o parecer da comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto:\n\nManda o Governo, pela Ministra da Ciência e do Ensino Superior, o seguinte:\n\n1.º\n\nAlteração do plano de estudos\n\nO anexo à [Portaria n.º 1269/97](https://diariodarepublica.pt/dr/detalhe/portaria/1269-1997-419821), de 22 de Dezembro, que fixou o plano de estudos do curso de licenciatura em Gestão Ambiental ministrado pelo Instituto Superior D. Afonso III, passa a ter a redacção constante do anexo à presente portaria.\n\n2.º\n\nDuração do semestre lectivo\n\nO número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n3.º\n\nMonografia e estágio\n\nA unidade curricular Monografia e Estágio realiza-se nos termos fixados por regulamento a aprovar pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n4.º\n\nTransição\n\nAs regras de transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n5.º\n\nProdução de efeitos\n\nO disposto na presente portaria produz efeitos desde o ano lectivo de 2004-2005, inclusive.\n\nA Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 28 de Junho de 2004."
+  },
+  "d59b067fde3972f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — (alteração ao anexo à [Portaria n.º 1269/97](https://diariodarepublica.pt/dr/detalhe/portaria/1269-1997-419821), de 22 de Dezembro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — (alteração ao anexo à [Portaria n.º 1269/97](https://diariodarepublica.pt/dr/detalhe/portaria/1269-1997-419821), de 22 de Dezembro)\n\nInstituto Superior D. Afonso III\n\nCurso de Gestão Ambiental\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)](https://files.diariodarepublica.pt/1s/2004/08/187b00/51615163.pdf)"
+  },
+  "324fb32566af2b69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2005-04-09",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1520/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1520-2004-350135), publicado em 2004-12-31."
+   ],
+   "markdown": "de 10 de Agosto\n\nA requerimento da CEUPA - Cooperativa de Desenvolvimento Universitário e Politécnico do Algarve, C. R. L., entidade instituidora do Instituto Superior D. Afonso III, reconhecido como de interesse público pelo [Decreto-Lei n.º 301/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1997-674473), de 31 de Outubro, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nConsiderando o disposto na [Portaria n.º 1269/97](https://diariodarepublica.pt/dr/detalhe/portaria/1269-1997-419821), de 22 de Dezembro;\n\nInstruído, organizado e apreciado o processo nos termos do artigo 67.º do Estatuto do Ensino Superior Particular e Cooperativo;\n\nColhido o parecer da comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto:\n\nManda o Governo, pela Ministra da Ciência e do Ensino Superior, o seguinte:\n\n1.º\n\nAlteração do plano de estudos\n\nO anexo à [Portaria n.º 1269/97](https://diariodarepublica.pt/dr/detalhe/portaria/1269-1997-419821), de 22 de Dezembro, que fixou o plano de estudos do curso de licenciatura em Gestão Ambiental ministrado pelo Instituto Superior D. Afonso III, passa a ter a redacção constante do anexo à presente portaria.\n\n2.º\n\nDuração do semestre lectivo\n\nO número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n3.º\n\nMonografia e estágio\n\nA unidade curricular Monografia e Estágio realiza-se nos termos fixados por regulamento a aprovar pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n4.º\n\nTransição\n\nAs regras de transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n5.º\n\nProdução de efeitos\n\nO disposto na presente portaria produz efeitos desde o ano lectivo de 2002-2003, inclusive.\n\n> Alterado pelo/a [Portaria n.º 1520/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1520-2004-350135), publicado em 2004-12-31.\n\nA Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 28 de Junho de 2004."
+  },
+  "7236eb44d1f91483": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — (alteração ao anexo à [Portaria n.º 1269/97](https://diariodarepublica.pt/dr/detalhe/portaria/1269-1997-419821), de 22 de Dezembro)",
+   "in_force_from": "2005-04-09",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 365/2005](https://diariodarepublica.pt/dr/detalhe/portaria/365-2005-563259), publicado em 2005-04-04.",
+    "Alterado pelo/a [Portaria n.º 365/2005](https://diariodarepublica.pt/dr/detalhe/portaria/365-2005-563259), publicado em 2005-04-04.",
+    "Alterado pelo/a [Portaria n.º 365/2005](https://diariodarepublica.pt/dr/detalhe/portaria/365-2005-563259), publicado em 2005-04-04.",
+    "Alterado pelo/a [Portaria n.º 365/2005](https://diariodarepublica.pt/dr/detalhe/portaria/365-2005-563259), publicado em 2005-04-04."
+   ],
+   "markdown": "## ANEXO — (alteração ao anexo à [Portaria n.º 1269/97](https://diariodarepublica.pt/dr/detalhe/portaria/1269-1997-419821), de 22 de Dezembro)\n\nInstituto Superior D. Afonso III\n\nCurso de Gestão Ambiental\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Matemática I | Semestral | 2 | 2 |  |  |  |  |\n| Física e Química | Semestral | 2 | 2 |  |  |  |  |\n| Macroeconomia | Semestral | 2 | 2 |  |  |  |  |\n| Introdução à Informática | Semestral | 1 | 3 |  |  |  |  |\n| Inglês | Semestral | 2 | 2 |  |  |  |  |\n| Matemática II | Semestral | 2 | 2 |  |  |  |  |\n| Gestão de Riscos | Semestral | 2 | 2 |  |  |  |  |\n| Microeconomia | Semestral | 2 | 2 |  |  |  |  |\n| Inglês Técnico Comercial | Semestral | 2 | 2 |  |  |  |  |\n| Geologia Geral | Semestral | 2 | 2 |  |  |  |  |\n\n> Alterado pelo/a [Portaria n.º 365/2005](https://diariodarepublica.pt/dr/detalhe/portaria/365-2005-563259), publicado em 2005-04-04.\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Estatística | Semestral | 2 | 2 |  |  |  |  |\n| Informática de Gestão | Semestral | 1 | 3 |  |  |  |  |\n| Biologia Ambiental | Semestral | 2 | 2 |  |  |  |  |\n| Geologia Aplicada à Gestão Ambiental | Semestral | 2 | 2 |  |  |  |  |\n| Alemão | Semestral | 2 | 2 |  |  |  |  |\n| Economia do Ambiente | Semestral | 2 | 2 |  |  |  |  |\n| Ecologia I | Semestral | 2 | 2 |  |  |  |  |\n| Climatologia | Semestral | 2 | 2 |  |  |  |  |\n| Direito Económico | Semestral | 3 | 1 |  |  |  |  |\n| Alemão Técnico e Comercial | Semestral | 1 | 3 |  |  |  |  |\n\n> Alterado pelo/a [Portaria n.º 365/2005](https://diariodarepublica.pt/dr/detalhe/portaria/365-2005-563259), publicado em 2005-04-04.\n\nQUADRO N.º 3\n\n3.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Gestão da Informação | Semestral | 3 | 1 |  |  |  |  |\n| Seminários sobre Tecnologias Ambientais | Semestral |  |  |  | 3 |  |  |\n| Ecologia II | Semestral | 2 | 1 |  |  |  |  |\n| Protecção do Mar | Semestral | 2 | 1 |  |  |  |  |\n| Estética | Semestral | 2 | 1 |  |  |  |  |\n| Cartografia | Semestral | 2 | 2 |  |  |  |  |\n| Psicossociologia das Organizações | Semestral | 2 | 2 |  |  |  |  |\n| Gestão dos Recursos Naturais | Semestral | 2 | 1 |  |  |  |  |\n| Controlo da Poluição | Semestral | 2 | 1 |  |  |  |  |\n| Gestão do Património | Semestral | 2 | 1 |  |  |  |  |\n| Direito Internacional | Semestral | 3 | 1 |  |  |  |  |\n| Avaliação de Impactes e Indicadores Ambientais. | Semestral | 1 | 2 |  |  |  |  |\n\n> Alterado pelo/a [Portaria n.º 365/2005](https://diariodarepublica.pt/dr/detalhe/portaria/365-2005-563259), publicado em 2005-04-04.\n\nQUADRO N.º 4\n\n4.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Direito do Ambiente | Semestral | 2 | 1 |  |  |  |  |\n| Estratégia | Semestral | 2 | 2 |  |  |  |  |\n| Modelação Ambiental | Semestral | 1 | 2 |  |  |  |  |\n| Ética Ambiental | Semestral | 2 | 1 |  |  |  |  |\n| Políticas do Ambiente e Ordenamento do Território. | Semestral | 2 | 2 |  |  |  |  |\n| Auditorias Ambientais | Semestral | 1 | 2 |  |  |  |  |\n| Monografia | Semestral | 3 |  |  |  |  |  |\n| Estágio | Semestral |  |  |  |  | 20 |  |\n\n> Alterado pelo/a [Portaria n.º 365/2005](https://diariodarepublica.pt/dr/detalhe/portaria/365-2005-563259), publicado em 2005-04-04."
+  }
+ }
+}

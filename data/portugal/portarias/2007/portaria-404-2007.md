@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2017-12-23'
+version_history:
+  file: portaria-404-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-04-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-12-23'
+    amending: pt:dre:114365359:por
+    amending_title: Portaria n.º 374/2017
+    changes:
+    - Altera Artigo unidades 18-18
+    - Altera Artigo unidades 21-21
+    - Altera Artigo unidades 39-42
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/404/2007/04/10/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:23:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 374/2017. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-404-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,13 +185,17 @@ O curso cujo funcionamento é autorizado pela presente portaria rege-se pelo dis
 
 Duração
 
-O curso tem a duração de três semestres lectivos.
+O curso tem a duração de dois semestres letivos.
+
+> Alterado pelo/a [Portaria n.º 374/2017](https://diariodarepublica.pt/dr/detalhe/portaria/374-2017-114365359), publicado em 2017-12-18.
 
 4.º
 
 Créditos
 
-O número de créditos, segundo o sistema europeu de transferência e acumulação de créditos, necessário à obtenção do diploma de especialização em Enfermagem de Reabilitação é de 90.
+O número de créditos, segundo o sistema europeu de transferência e acumulação de créditos, necessário à obtenção do diploma de especialização em Enfermagem de Reabilitação é de 60.
+
+> Alterado pelo/a [Portaria n.º 374/2017](https://diariodarepublica.pt/dr/detalhe/portaria/374-2017-114365359), publicado em 2017-12-18.
 
 5.º
 
@@ -210,10 +231,28 @@ A autorização e o reconhecimento operados pelo presente diploma não prejudica
 
 O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 21 de Março de 2007.
 
-## ANEXO — Instituto Politécnico de Saúde do Norte
-
-Escola Superior de Saúde do Vale do Ave
+## ANEXO — Escola Superior de Saúde do Vale do Ave do Instituto Politécnico de Saúde do Norte
 
 Curso de pós-licenciatura de especialização em Enfermagem de Reabilitação
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07000/22852286.pdf)
+QUADRO N.º 1
+
+| Unidades curriculares | Área científica | Tipo | Tempo de trabalho (horas) — Total | Tempo de trabalho (horas) — Contacto | Créditos |
+| --- | --- | --- | --- | --- | --- |
+| Fundamentos de Enfermagem de Reabilitação | ENF | 1.º semestre | 135 | TP:38; PL:5 | 5 |
+| Enfermagem de Reabilitação em Neurologia | ENF | 1.º semestre | 135 | TP:35; PL:4 | 5 |
+| Enfermagem de Reabilitação Cardiorrespiratória | ENF | 1.º semestre | 81 | TP:26; PL:4 | 3 |
+| Enfermagem de Reabilitação em Ortopedia e Traumatologia | ENF | 1.º semestre | 135 | TP:35; PL:4 | 5 |
+| Enfermagem de Reabilitação na Família e Comunidade | ENF | 1.º semestre | 81 | TP:26; PL:4 | 3 |
+| Prática Baseada na Evidência | ENF | 1.º semestre | 81 | T:13 | 3 |
+| Ética e Direito em Saúde | FET | 1.º semestre | 81 | T:13 | 3 |
+| Gestão, Inovação e Supervisão Clínica | ENF | 1.º semestre | 81 | T:13 | 3 |
+| Ensino Clínico I — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Neurológicos. | ENF | 2.º semestre | 162 | E:116 | 6 |
+| Ensino Clínico II — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Neurológicos de Causa Traumática. | ENF | 2.º semestre | 162 | E:116 | 6 |
+| Ensino Clínico III -Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Orto-traumatológicos e Vertebro-medulares. | ENF | 2.º semestre | 162 | E:116 | 6 |
+| Ensino Clínico IV — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Cardiorrespiratórios. | ENF | 2.º semestre | 162 | E:116 | 6 |
+| Ensino Clínico V — Cuidados de Enfermagem de Reabilitação na Comunidade | ENF | 2.º semestre | 162 | E:116 | 6 |
+
+Nota. — T: ensino teórico; TP: ensino teórico-prático; PL: ensino prático e laboratorial; E: estágio; S: seminário; OT: orientação tutorial.
+
+> Alterado pelo/a [Portaria n.º 374/2017](https://diariodarepublica.pt/dr/detalhe/portaria/374-2017-114365359), publicado em 2017-12-18.

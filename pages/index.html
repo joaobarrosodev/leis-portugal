@@ -4,113 +4,383 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Leis de Portugal</title>
-<meta name="description" content="A legislação portuguesa em formato aberto, com uma aplicação gratuita para Mac e Windows que responde com a lei e o artigo em vigor.">
+<meta name="description" content="A legislação portuguesa e europeia em formato aberto, e uma aplicação gratuita para Mac e Windows que responde com a lei e o artigo em vigor.">
 <meta property="og:title" content="Leis de Portugal">
 <meta property="og:description" content="A legislação portuguesa em formato aberto, ligada às fontes oficiais e atualizada todos os dias.">
-<meta property="og:image" content="social-preview.png">
+<meta property="og:image" content="https://joaobarrosodev.github.io/leis-portugal/social-preview.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="color-scheme" content="light">
 <link rel="icon" href="icone.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --fundo: #f7f2e7; --cartao: #fffdf8; --tinta: #1d2a24; --suave: #5b6660; --linha: #e2d9c6;
-    --verde: #0f3d2e; --verde-claro: #2e8b57; --ouro: #b07d1f; --ouro-fundo: #fbf1dc; --vermelho: #b3122c;
-    --serif: "Baskerville", "Iowan Old Style", Georgia, serif; --sans: "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root { --fundo: #0a2c21; --cartao: #11392b; --tinta: #f2ecdf; --suave: #b8c4bc; --linha: #24513f; --verde-claro: #5fbf8a; --ouro: #e0b25a; --ouro-fundo: #3a321b; --vermelho: #ff8b98; }
+    --papel: #f5f1e8;
+    --papel-claro: #fbf9f4;
+    --tinta: #161512;
+    --suave: #4f4b43;
+    --tenue: #66615a;
+    --regra: #161512;
+    --fio: rgba(22, 21, 18, .16);
+    --vermelho: #b3122c;
+    --verde: #17603f;
+    --verde-fundo: #dde9df;
+    --serif: "Newsreader", "Iowan Old Style", Georgia, serif;
+    --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
   }
   * { box-sizing: border-box; }
-  body { margin: 0; background: var(--fundo); color: var(--tinta); font: 18px/1.6 var(--sans); }
-  a { color: var(--verde-claro); }
-  .heroi { background: linear-gradient(135deg, #0f3d2e, #0a2c21); color: #f7f2e7; padding: 64px 16px 56px; border-bottom: 6px solid; border-image: linear-gradient(90deg, #046a38 40%, #c8102e 40%) 1; }
-  .heroi .dentro, section { max-width: 920px; margin: 0 auto; }
-  .heroi .rotulo { color: #d9a441; letter-spacing: .2em; text-transform: uppercase; font-size: 14px; font-weight: 600; }
-  .heroi h1 { font: 400 clamp(52px, 9vw, 92px)/1 var(--serif); margin: 14px 0 18px; }
-  .heroi h1 em { color: #d9a441; }
-  .heroi p { font-size: 21px; max-width: 640px; color: rgba(247, 242, 231, .88); }
-  .botoes { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 28px; }
-  .botao { display: inline-block; padding: 14px 24px; border-radius: 8px; background: #2e8b57; color: #fff; text-decoration: none; font-weight: 600; }
-  .botao.secundario { background: transparent; border: 1px solid rgba(247, 242, 231, .5); color: #f7f2e7; }
-  .pequeno { font-size: 14px; color: rgba(247, 242, 231, .7); margin-top: 12px; }
-  section { padding: 44px 16px 8px; }
-  h2 { font: 400 34px/1.15 var(--serif); margin: 0 0 14px; }
-  .grelha { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 14px; }
-  .numero { background: var(--cartao); border: 1px solid var(--linha); border-radius: 8px; padding: 18px; }
-  .numero b { display: block; font: 400 38px/1 var(--serif); }
-  .numero span { color: var(--suave); font-size: 15px; }
-  .cartao { background: var(--cartao); border: 1px solid var(--linha); border-radius: 8px; padding: 22px; margin-bottom: 14px; }
-  .aviso { background: var(--ouro-fundo); border-left: 4px solid var(--ouro); border-radius: 6px; padding: 14px 16px; margin: 14px 0; }
-  .aviso.vermelho { border-color: var(--vermelho); }
-  ol li, ul li { margin-bottom: 8px; }
-  footer { max-width: 920px; margin: 40px auto 0; padding: 24px 16px 48px; color: var(--suave); font-size: 15px; border-top: 1px solid var(--linha); }
+  [hidden] { display: none !important; }
+  html { scroll-behavior: smooth; }
+  body { margin: 0; background: var(--papel); color: var(--tinta); font: 19px/1.62 var(--serif); font-optical-sizing: auto; -webkit-font-smoothing: antialiased; }
+  a { color: inherit; text-decoration-color: var(--tenue); text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  a:hover { text-decoration-color: var(--tinta); }
+  :focus-visible { outline: 3px solid var(--verde); outline-offset: 3px; }
+  .saltar { position: absolute; left: 12px; top: -60px; background: var(--tinta); color: var(--papel); padding: 10px 14px; z-index: 20; }
+  .saltar:focus { top: 12px; }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }
+  .mono { font-family: var(--mono); font-size: 14px; letter-spacing: .02em; }
+  .maiusculas { text-transform: uppercase; letter-spacing: .05em; font-size: 13px; }
+
+  /* A página tem a medida de um diploma: margem para os números, texto, e notas à margem. */
+  .folha { max-width: 1180px; margin: 0 auto; padding: 0 28px; }
+  .linha { display: grid; grid-template-columns: 150px minmax(0, 660px) 1fr; column-gap: 44px; }
+  .margem { grid-column: 1; }
+  .texto { grid-column: 2; }
+  .lado { grid-column: 3; align-self: start; max-width: 270px; }
+  .nota-margem { font-size: 16.5px; line-height: 1.55; color: var(--suave); border-top: 1px solid var(--fio); padding-top: 10px; }
+  .nota-margem .mono { display: block; color: var(--tenue); margin-bottom: 4px; }
+  @media (max-width: 1080px) { .linha { grid-template-columns: 110px minmax(0, 1fr); } .lado { grid-column: 2; max-width: none; margin-top: 20px; } }
+  @media (max-width: 680px) { .folha { padding: 0 18px; } .linha { grid-template-columns: 1fr; } .margem, .texto, .lado { grid-column: 1; } body { font-size: 18px; } }
+
+  /* cabeçalho de gazeta */
+  .cabecalho { padding-top: 24px; }
+  .faixa-topo { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; padding-bottom: 10px; color: var(--suave); }
+  .faixa-topo nav { display: flex; gap: 18px; flex-wrap: wrap; }
+  .faixa-topo a { text-decoration: none; }
+  .faixa-topo a:hover { text-decoration: underline; }
+  .titulo-gazeta { border-top: 3px solid var(--regra); border-bottom: 1px solid var(--regra); padding: 16px 0 12px; display: flex; align-items: center; justify-content: space-between; gap: 18px; }
+  .titulo-gazeta h1 { margin: 0; font-weight: 500; font-size: clamp(50px, 9.5vw, 124px); line-height: .9; letter-spacing: -.025em; }
+  .titulo-gazeta h1 em { font-weight: 400; }
+  .titulo-gazeta img { width: clamp(44px, 6vw, 72px); height: auto; flex: none; }
+  .edicao { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; border-bottom: 3px double var(--regra); padding: 8px 0 9px; color: var(--suave); }
+
+  /* abertura */
+  .abertura { padding: 46px 0 8px; }
+  .rotulo { font-size: 14px; margin: 6px 0 0; color: var(--tenue); }
+  .sumario { font-size: clamp(25px, 2.6vw, 31px); line-height: 1.3; margin: 0 0 18px; font-weight: 400; }
+  .sumario em { color: var(--verde); }
+  .abertura .texto > p { color: var(--suave); margin: 0 0 8px; }
+
+  /* descarga */
+  .descarga { border: 1px solid var(--regra); padding: 18px 18px 16px; background: var(--papel-claro); position: relative; }
+  .descarga::before { content: ""; position: absolute; inset: 4px; border: 1px solid var(--fio); pointer-events: none; }
+  .descarga h2 { margin: 0 0 12px; font-weight: 500; }
+  .descarregar { display: flex; justify-content: space-between; align-items: center; gap: 12px; background: var(--tinta); color: var(--papel); text-decoration: none; padding: 12px 14px; margin-bottom: 8px; font-size: 18px; transition: transform .15s; }
+  .descarregar:hover { background: #2c2a25; transform: translateY(-1px); }
+  .descarregar small { font-family: var(--mono); font-size: 13px; opacity: .75; letter-spacing: .03em; white-space: nowrap; }
+  .descarga .descarregar { flex-direction: column; align-items: flex-start; gap: 2px; font-size: 19px; line-height: 1.2; }
+  .descarga .descarregar::after { content: "↓"; position: absolute; right: 14px; top: 50%; transform: translateY(-50%); font-size: 18px; }
+  .descarga .descarregar { position: relative; padding-right: 40px; }
+  .descarregar.segundo { background: transparent; color: var(--tinta); box-shadow: inset 0 0 0 1px var(--regra); }
+  .descarregar.segundo:hover { background: var(--papel); }
+  .descarga p { font-size: 16px; color: var(--suave); margin: 10px 0 0; line-height: 1.45; }
+
+  /* demonstração: a mesma norma em duas datas */
+  .demo-secao { padding: 34px 0 0; }
+  .demo { border: 1px solid var(--regra); background: var(--papel-claro); box-shadow: 6px 6px 0 #e4dccb; }
+  .demo-topo { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; padding: 12px 16px; border-bottom: 1px solid var(--regra); }
+  .demo-topo b { font-weight: 600; }
+  .datas { display: inline-flex; border: 1px solid var(--regra); }
+  .datas button { font: 500 15px var(--mono); background: transparent; color: var(--tinta); border: 0; padding: 0 16px; min-height: 44px; min-width: 44px; cursor: pointer; }
+  .datas button + button { border-left: 1px solid var(--regra); }
+  .datas button:hover { background: var(--papel); }
+  .datas button[aria-pressed="true"] { background: var(--tinta); color: var(--papel); }
+  .demo-corpo { padding: 16px 18px 6px; font-size: 18px; line-height: 1.55; }
+  .demo-corpo p { margin: 0 0 12px; }
+  .demo-corpo .n { color: var(--tenue); }
+  .velho { color: var(--vermelho); text-decoration: line-through; text-decoration-thickness: 1.5px; }
+  .novo { background: var(--verde-fundo); color: var(--verde); padding: 1px 3px; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .demo-pe { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; padding: 10px 16px; border-top: 1px solid var(--fio); color: var(--suave); }
+
+  /* artigos */
+  .artigo { padding: 64px 0 0; }
+  .numero-artigo { font-size: 14px; margin: 8px 0 0; color: var(--tenue); }
+  .numero-artigo b { display: block; font-family: var(--serif); text-transform: none; letter-spacing: 0; font-size: 30px; font-weight: 500; line-height: 1; margin-top: 4px; color: var(--tinta); }
+  .epigrafe { font-size: 32px; line-height: 1.15; font-weight: 500; margin: 0 0 18px; }
+  .artigo p { margin: 0 0 14px; }
+  ol.numeros { list-style: none; counter-reset: n; padding: 0; margin: 0; }
+  ol.numeros > li { counter-increment: n; position: relative; padding-left: 40px; margin-bottom: 14px; }
+  ol.numeros > li::before { content: counter(n) " —"; position: absolute; left: 0; color: var(--tenue); font-variant-numeric: tabular-nums; }
+  ol.alineas { list-style: none; padding: 0; margin: 8px 0 0; counter-reset: a; }
+  ol.alineas > li { counter-increment: a; position: relative; padding-left: 30px; margin-bottom: 8px; }
+  ol.alineas > li::before { content: counter(a, lower-alpha) ")"; position: absolute; left: 0; font-style: italic; color: var(--tenue); }
+
+  /* números do acervo */
+  .acervo { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 2px solid var(--regra); border-bottom: 2px solid var(--regra); margin: 6px 0 4px; }
+  .acervo div { padding: 16px 14px 14px 0; border-bottom: 1px solid var(--fio); }
+  .acervo div:nth-last-child(-n+3) { border-bottom: 0; }
+  .acervo b { display: block; font-size: 34px; line-height: 1.05; font-weight: 500; font-variant-numeric: lining-nums; }
+  .acervo span { font-size: 16.5px; color: var(--suave); line-height: 1.4; display: block; margin-top: 4px; }
+  @media (max-width: 680px) { .acervo { grid-template-columns: 1fr 1fr; } .acervo div:nth-last-child(-n+3) { border-bottom: 1px solid var(--fio); } .acervo div:nth-last-child(-n+2) { border-bottom: 0; } }
+
+  /* anexo: a tabela da qualidade */
+  .anexo { margin: 20px 0 6px; }
+  .anexo-titulo { text-align: center; margin: 0 0 10px; color: var(--suave); }
+  table { width: 100%; border-collapse: collapse; font-size: 16.5px; }
+  thead th { font-family: var(--mono); font-size: 13px; font-weight: 500; letter-spacing: .05em; text-transform: uppercase; text-align: right; color: var(--suave); padding: 8px 6px; border-top: 2px solid var(--regra); border-bottom: 1px solid var(--regra); vertical-align: bottom; }
+  thead th:first-child { text-align: left; }
+  tbody td { padding: 10px 6px; border-bottom: 1px solid var(--fio); text-align: right; font-variant-numeric: tabular-nums lining-nums; }
+  tbody td:first-child { text-align: left; }
+  tbody tr:last-child td { border-bottom: 2px solid var(--regra); }
+  .rolar { overflow-x: auto; }
+
+  /* IAs */
+  .ias { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 2px solid var(--regra); border-bottom: 2px solid var(--regra); margin: 6px 0 18px; }
+  .ias div { padding: 14px 14px 14px 0; }
+  .ias div + div { border-left: 1px solid var(--fio); padding-left: 14px; }
+  .ias b { font-size: 22px; font-weight: 500; display: block; }
+  .ias span { font-size: 16.5px; color: var(--suave); line-height: 1.4; display: block; margin-top: 4px; }
+  .ias .medido { color: var(--verde); }
+  @media (max-width: 680px) { .ias { grid-template-columns: 1fr; } .ias div + div { border-left: 0; padding-left: 0; border-top: 1px solid var(--fio); } }
+
+  /* convite */
+  .convite { margin-top: 72px; border-top: 3px solid var(--regra); border-bottom: 1px solid var(--regra); padding: 36px 0 32px; }
+  .convite .epigrafe { font-size: clamp(32px, 3.4vw, 42px); }
+  .convite .descarregar { display: inline-flex; gap: 18px; margin-top: 6px; }
+
+  /* fecho */
+  .fecho { padding: 60px 0 10px; text-align: center; }
+  .fecho p { margin: 0 0 6px; }
+  .fecho .publique { font-style: italic; font-size: 26px; }
+  .rodape { border-top: 3px double var(--regra); margin-top: 40px; padding: 18px 0 44px; color: var(--suave); display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
+  .rodape nav { display: flex; gap: 16px; flex-wrap: wrap; }
 </style>
 </head>
 <body>
-<header class="heroi">
-  <div class="dentro">
-    <div class="rotulo">Open source · dados abertos</div>
-    <h1>Leis de<br><em>Portugal</em></h1>
-    <p>Pergunta pelo que diz a lei. A aplicação responde com a lei e o artigo, na redação em vigor, e diz que não sabe quando não tem a certeza.</p>
-    <div class="botoes" id="botoes">
-      <a class="botao" id="mac" href="https://github.com/joaobarrosodev/leis-portugal/releases/latest/download/Leis-de-Portugal-mac.zip">Descarregar para Mac</a>
-      <a class="botao" id="windows" href="https://github.com/joaobarrosodev/leis-portugal/releases/latest/download/Leis-de-Portugal-windows.zip">Descarregar para Windows</a>
+<a class="saltar" href="#conteudo">Saltar para o conteúdo</a>
+<div class="folha">
+
+  <header class="cabecalho">
+    <div class="faixa-topo mono maiusculas">
+      <span>Open source · Dados abertos · Gratuito</span>
+      <nav>
+        <a href="#funcionamento">Como funciona</a>
+        <a href="#fiabilidade">Quanto acerta</a>
+        <a href="#instalacao">Como instalar</a>
+        <a href="https://github.com/joaobarrosodev/leis-portugal">GitHub</a>
+      </nav>
     </div>
-    <p class="pequeno">Gratuita. Usa a tua própria chave de uma IA (Claude, OpenAI ou Gemini). Da primeira vez descarrega cerca de 5 GB de legislação.</p>
+    <div class="titulo-gazeta">
+      <h1>Leis de <em>Portugal</em></h1>
+      <img src="icone.png" alt="">
+    </div>
+    <div class="edicao mono maiusculas">
+      <span>Edição aberta · Série única</span>
+      <span>Versão 0.1.0 · 13 de novembro de 2026</span>
+    </div>
+  </header>
+
+  <main id="conteudo">
+  <section class="abertura linha">
+    <div class="margem"><p class="rotulo mono maiusculas">Sumário</p></div>
+    <div class="texto">
+      <p class="sumario">Pergunta o que diz a lei. Recebes <em>a lei, o artigo e a versão em vigor</em> na data que escolheres. Se não houver base para responder, diz "não sei".</p>
+      <p>Uma aplicação gratuita para Mac e Windows, feita sobre um repositório aberto com quase dois séculos de Diário da República e o direito da União Europeia em vigor.</p>
+    </div>
+    <aside class="lado">
+      <div class="descarga" id="descarga">
+        <h2>Descarregar</h2>
+        <a class="descarregar" id="mac" href="https://github.com/joaobarrosodev/leis-portugal/releases/latest/download/Leis-de-Portugal-mac.zip">Mac <small>Apple Silicon · 78 MB</small></a>
+        <a class="descarregar segundo" id="windows" href="https://github.com/joaobarrosodev/leis-portugal/releases/latest/download/Leis-de-Portugal-windows.zip">Windows <small>10 e 11 · 84 MB</small></a>
+        <p>Usa a tua chave do Claude, da OpenAI ou da Gemini. <a href="#instalacao">Requisitos</a>.</p>
+      </div>
+    </aside>
+  </section>
+
+  <section class="demo-secao linha" aria-label="Exemplo: a mesma norma em duas datas">
+    <div class="margem"><p class="rotulo mono">Experimenta</p></div>
+    <div class="texto">
+      <p style="margin:0 0 14px;color:var(--suave)">A lei muda. Escolhe a data e vê o mesmo artigo antes e depois de ser alterado.</p>
+      <div class="demo" aria-live="polite">
+        <div class="demo-topo">
+          <span><b>Código do Trabalho</b>, artigo 238.º — Duração do período de férias</span>
+          <span class="datas" role="group" aria-label="Lei em vigor em">
+            <button type="button" data-data="2011" aria-pressed="false">Em 2011</button>
+            <button type="button" data-data="hoje" aria-pressed="true">Hoje</button>
+          </span>
+        </div>
+        <div class="demo-corpo">
+          <p><span class="n">1 —</span> O período anual de férias tem a duração mínima de 22 dias úteis.</p>
+          <p><span class="n">2 —</span> <span style="color:var(--tenue)">(…)</span></p>
+          <p data-versao="2011" hidden><span class="n">3 —</span> A duração do período de férias é aumentada no caso de o trabalhador não ter faltado ou ter apenas faltas justificadas no ano a que as férias se reportam, nos seguintes termos: a) Três dias de férias, até uma falta ou dois meios dias; b) Dois dias de férias, até duas faltas ou quatro meios dias; c) Um dia de férias, até três faltas ou seis meios dias.</p>
+          <p data-versao="hoje"><span class="n">3 —</span> <span class="velho">A duração do período de férias é aumentada no caso de o trabalhador não ter faltado (…): a) Três dias de férias (…)</span> <span class="novo">Caso os dias de descanso do trabalhador coincidam com dias úteis, são considerados para efeitos do cálculo dos dias de férias, em substituição daqueles, os sábados e os domingos que não sejam feriados.</span></p>
+          <p data-versao="2011" hidden><span class="n">4 —</span> Para efeitos do número anterior, são considerados faltas os dias de suspensão do contrato de trabalho por facto respeitante ao trabalhador (…)</p>
+          <p data-versao="hoje"><span class="n">4 —</span> <span class="novo">(Revogado).</span></p>
+        </div>
+        <div class="demo-pe mono">
+          <span data-versao="2011" hidden>Versão original da Lei n.º 7/2009, em vigor até 31 de julho de 2012</span>
+          <span data-versao="hoje">Versão da Lei n.º 23/2012, em vigor desde 1 de agosto de 2012</span>
+          <span>Texto do acervo</span>
+        </div>
+      </div>
+    </div>
+    <aside class="lado nota-margem"><span class="mono">Exemplo verdadeiro</span>Até 2012, quem não faltasse tinha até três dias de férias a mais. Pergunta com uma data de 2011 e a resposta é essa; pergunta com a data de hoje e já não é. O projeto guarda cada versão de cada artigo.</aside>
+  </section>
+
+  <section class="artigo linha" id="funcionamento">
+    <div class="margem"><p class="numero-artigo mono">Artigo<b>1.º</b></p></div>
+    <div class="texto">
+      <h2 class="epigrafe">Como funciona</h2>
+      <ol class="numeros">
+        <li>A pergunta é reescrita em linguagem jurídica e procurada em cerca de 1,5 milhões de artigos (e versões antigas de artigos), só entre os que estavam em vigor na data pedida.</li>
+        <li>Os oito artigos mais próximos vão à inteligência artificial que escolheres. Ela escreve uma resposta curta e literal e cita cada artigo que usa. Sem citação, não há resposta.</li>
+        <li>A aplicação diz "não sei", e explica porquê, quando:
+          <ol class="alineas">
+            <li>os artigos encontrados não respondem à pergunta;</li>
+            <li>o artigo é o texto original de um diploma alterado sem versão consolidada;</li>
+            <li>a pergunta é sobre um caso concreto, jurisprudência ou lei estrangeira.</li>
+          </ol>
+        </li>
+        <li>Os avisos (artigo revogado, redação antiga, vigência desconhecida) vêm dos dados, não da inteligência artificial, e aparecem sempre.</li>
+      </ol>
+    </div>
+    <aside class="lado nota-margem"><span class="mono">No teu computador</span>A pesquisa corre localmente e a chave fica no cofre do sistema. Só a pergunta e os artigos encontrados vão para a inteligência artificial.</aside>
+  </section>
+
+  <section class="artigo linha" id="acervo">
+    <div class="margem"><p class="numero-artigo mono">Artigo<b>2.º</b></p></div>
+    <div class="texto">
+      <h2 class="epigrafe">O que tem lá dentro</h2>
+      <p>Recolhido das fontes oficiais, ligado a elas e atualizado todos os dias:</p>
+      <div class="acervo">
+        <div><b>275 mil</b><span>registos nacionais; a 1.ª Série desde 1833, praticamente completa</span></div>
+        <div><b>54 mil</b><span>atos da União Europeia, 96% dos que estão em vigor</span></div>
+        <div><b>31 mil</b><span>registos regionais dos Açores e da Madeira</span></div>
+        <div><b>10 mil</b><span>diplomas com o histórico de versões</span></div>
+        <div><b>2,6 mil</b><span>com o texto em vigor consolidado pelo projeto, sem valor oficial</span></div>
+        <div><b>1 milhão</b><span>de relações: alterações, revogações, citações, transposições</span></div>
+      </div>
+    </div>
+    <aside class="lado nota-margem"><span class="mono">Fontes</span>Diário da República Eletrónico e EUR-Lex. Há também mais de 29 mil acórdãos do Tribunal Constitucional, numa coleção separada. Valores aproximados, de novembro de 2026.</aside>
+  </section>
+
+  <section class="artigo linha" id="fiabilidade">
+    <div class="margem"><p class="numero-artigo mono">Artigo<b>3.º</b></p></div>
+    <div class="texto">
+      <h2 class="epigrafe">Quanto acerta</h2>
+      <ol class="numeros">
+        <li>Quando responde, a aplicação acerta em cerca de 19 em cada 20 perguntas (ver a tabela).</li>
+        <li>Os valores foram medidos <strong>só com o Claude Opus 5.5</strong>, com quatro juízes de inteligência artificial às cegas e sem revisão de jurista. Ainda não foram medidos com perguntas de advogados.</li>
+      </ol>
+      <div class="anexo">
+        <p class="anexo-titulo mono">Quanto acerta, por tipo de pergunta</p>
+        <div class="rolar">
+          <table>
+            <thead><tr><th>Perguntas</th><th>Certas, quando responde</th><th>No pior caso</th><th>Responde a</th></tr></thead>
+            <tbody>
+              <tr><td>Portugal, bem escritas (530)</td><td>95%</td><td>93%</td><td>83%</td></tr>
+              <tr><td>Portugal, como fala uma pessoa comum (281)</td><td>95%</td><td>92%</td><td>89%</td></tr>
+              <tr><td>Portugal, a citar o diploma (407)</td><td>100%</td><td>99%</td><td>99%</td></tr>
+              <tr><td>Portugal, diplomas alterados (99)</td><td>98%</td><td>88%</td><td>43%</td></tr>
+              <tr><td>União Europeia, a citar o ato (142)</td><td>100%</td><td>97%</td><td>100%</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <aside class="lado nota-margem"><span class="mono">Ler assim</span>"No pior caso" é o limite inferior com 95% de confiança. "Responde a" é a parte das perguntas a que o sistema responde; nas outras diz "não sei". O método está no <a href="https://github.com/joaobarrosodev/leis-portugal/blob/main/rag/README.md">relatório</a>.</aside>
+  </section>
+
+  <section class="artigo linha" id="ia">
+    <div class="margem"><p class="numero-artigo mono">Artigo<b>4.º</b></p></div>
+    <div class="texto">
+      <h2 class="epigrafe">Que inteligência artificial usar</h2>
+      <div class="ias">
+        <div><b>Claude</b><span class="medido">Recomendado. O único com a qualidade medida (Claude Opus 5.5).</span></div>
+        <div><b>OpenAI</b><span>Mesmas instruções e mesmo modo estrito. Qualidade não medida.</span></div>
+        <div><b>Gemini</b><span>Da Google, com as mesmas regras. Qualidade não medida.</span></div>
+      </div>
+      <p>A aplicação e os dados são gratuitos. A inteligência artificial é paga por uso, diretamente à empresa dela, na tua conta: estimamos uns cêntimos por pergunta. A chave fica no cofre do teu computador.</p>
+    </div>
+  </section>
+
+  <section class="artigo linha" id="instalacao">
+    <div class="margem"><p class="numero-artigo mono">Artigo<b>5.º</b></p></div>
+    <div class="texto">
+      <h2 class="epigrafe">Como instalar</h2>
+      <ol class="numeros">
+        <li><strong>Mac:</strong> abre o .zip e arrasta a aplicação para as Aplicações. Da primeira vez, botão direito → Abrir; se o macOS não deixar, Definições do Sistema → Privacidade e Segurança → Abrir mesmo assim.</li>
+        <li><strong>Windows:</strong> extrai a pasta do .zip e abre "Leis de Portugal.exe". Se aparecer "O Windows protegeu o computador", Mais informações → Executar mesmo assim.</li>
+        <li>Um passo a passo pede a inteligência artificial e a chave, e testa-a sem gastar créditos. Depois descarrega os dados, só da primeira vez; as atualizações trazem só o que mudou.</li>
+      </ol>
+    </div>
+    <aside class="lado nota-margem"><span class="mono">Requisitos</span>Mac com chip Apple (M1 ou mais recente), ou Windows 10 e 11 de 64 bits. Cerca de 7 GB livres. Internet para descarregar e para a resposta escrita; a pesquisa é local.<br><br><span class="mono">Porque avisa</span>A aplicação ainda não é assinada pela Apple nem pela Microsoft. O código é público e a aplicação é construída a partir dele.</aside>
+  </section>
+
+  <section class="artigo linha" id="sigilo">
+    <div class="margem"><p class="numero-artigo mono">Artigo<b>6.º</b></p></div>
+    <div class="texto">
+      <h2 class="epigrafe">Privacidade e sigilo</h2>
+      <p>A pergunta é enviada à inteligência artificial que escolheres. Não escrevas nomes, factos ou dados de clientes: pergunta só pelo que diz a lei. As tuas avaliações ficam no teu computador.</p>
+    </div>
+  </section>
+
+  <section class="convite linha">
+    <div class="margem"><p class="numero-artigo mono">Convite</p></div>
+    <div class="texto">
+      <h2 class="epigrafe">És advogado ou jurista?</h2>
+      <p>O sistema ainda não foi posto à prova por quem trabalha com a lei. Precisamos de perguntas reais da tua prática, com a resposta e o artigo que esperas, e de quem reveja respostas sem saber quais estão certas. Sem dados de clientes.</p>
+      <a class="descarregar" href="https://github.com/joaobarrosodev/leis-portugal/issues">Quero ajudar <small>→</small></a>
+    </div>
+  </section>
+
+  <section class="artigo linha" id="finais">
+    <div class="margem"><p class="numero-artigo mono">Artigo<b>7.º</b></p></div>
+    <div class="texto">
+      <h2 class="epigrafe">Licença e avisos</h2>
+      <ol class="numeros">
+        <li>O código é publicado sob a licença MIT. Os textos legais seguem as condições de cada fonte oficial, nos termos das <a href="https://github.com/joaobarrosodev/leis-portugal/blob/main/REUTILIZACAO.md">condições de reutilização</a>.</li>
+        <li>O conteúdo não constitui aconselhamento jurídico. A versão que faz fé é a do Diário da República.</li>
+        <li>O código e os dados estão no <a href="https://github.com/joaobarrosodev/leis-portugal">GitHub</a>; o índice de pesquisa, no <a href="https://huggingface.co/datasets/joaobarrosodev/leis-portugal-indice">Hugging Face</a>.</li>
+      </ol>
+    </div>
+  </section>
+
+</main>
+
+  <div class="fecho">
+    <p class="publique">Publique-se.</p>
+    <p class="mono" style="color:var(--tenue)">13 de novembro de 2026 · Projeto leis-portugal</p>
   </div>
-</header>
 
-<section>
-  <h2>O que tem</h2>
-  <div class="grelha">
-    <div class="numero"><b>360 mil</b><span>diplomas e atos</span></div>
-    <div class="numero"><b>1833</b><span>a 1.ª Série do Diário da República desde então</span></div>
-    <div class="numero"><b>54 mil</b><span>atos da União Europeia</span></div>
-    <div class="numero"><b>29 mil</b><span>acórdãos do Tribunal Constitucional</span></div>
-  </div>
-  <p>Cada texto liga à fonte oficial. A legislação atualiza-se todos os dias no <a href="https://github.com/joaobarrosodev/leis-portugal">repositório público</a>.</p>
-</section>
-
-<section>
-  <h2>Quanto acerta</h2>
-  <div class="cartao">
-    <ul>
-      <li><strong>Quando responde, acerta em cerca de 19 em cada 20 perguntas</strong> (95%).</li>
-      <li>Responde a mais de 8 em cada 10 perguntas. Nas outras, diz que não sabe em vez de inventar.</li>
-      <li>Mostra sempre a lei, o artigo e a redação em vigor na data. Se a lei foi revogada, diz por qual.</li>
-    </ul>
-    <div class="aviso"><strong>Medido só com o Claude Opus 5.5</strong>, com juízes de IA às cegas e sem revisão de jurista. Com a OpenAI ou a Gemini funciona da mesma forma, mas a qualidade não foi medida. Os pormenores estão no <a href="https://github.com/joaobarrosodev/leis-portugal/blob/main/rag/README.md">relatório</a>.</div>
-    <div class="aviso vermelho"><strong>É um protótipo.</strong> Não substitui um advogado nem a consulta do Diário da República. A pergunta é enviada à IA que escolheres: não escrevas dados de clientes.</div>
-  </div>
-</section>
-
-<section>
-  <h2>Como começar</h2>
-  <ol>
-    <li>Descarrega a aplicação para o teu computador e abre o ficheiro .zip.</li>
-    <li><strong>Mac:</strong> arrasta "Leis de Portugal" para as Aplicações. Da primeira vez, abre-a com o botão direito do rato → Abrir (a aplicação ainda não é assinada pela Apple). Se o macOS não deixar, vai a Definições do Sistema → Privacidade e Segurança → Abrir mesmo assim.</li>
-    <li><strong>Windows:</strong> extrai a pasta e abre "Leis de Portugal.exe". Se o Windows mostrar "O Windows protegeu o computador", carrega em Mais informações → Executar mesmo assim (a aplicação ainda não é assinada).</li>
-    <li>A aplicação mostra um passo a passo: escolhes a IA, crias a chave na conta dessa IA e colas a chave. A chave fica no cofre do teu computador.</li>
-    <li>Descarrega os dados (cerca de 5 GB, só da primeira vez) e começa a perguntar.</li>
-  </ol>
-  <p>Cada pergunta custa uns cêntimos na conta da IA escolhida. A aplicação e a legislação são gratuitas.</p>
-</section>
-
-<section>
-  <h2>És advogado ou jurista?</h2>
-  <div class="cartao">
-    <p>O sistema ainda não foi testado com perguntas de advogados nem revisto por juristas. Se quiseres ajudar, há duas formas: escrever perguntas da tua prática, com a resposta e o artigo que esperas, ou rever respostas sem saber quais estão certas. Sem dados de clientes.</p>
-    <p>Na aplicação, cada resposta tem "Está certo?". As tuas avaliações ficam no teu computador e podes enviá-las ao projeto.</p>
-  </div>
-</section>
-
-<footer>
-  Leis de Portugal é um projeto open source (código MIT). Os textos legais seguem as condições de cada fonte oficial. O texto em vigor produzido pelo projeto não tem valor oficial. Para o Diário da República, consulta <a href="https://diariodarepublica.pt/">diariodarepublica.pt</a>.
-</footer>
+  <footer class="rodape mono">
+    <span>Leis de Portugal · Versão 0.1.0</span>
+    <nav>
+      <a href="https://github.com/joaobarrosodev/leis-portugal">GitHub</a>
+      <a href="https://github.com/joaobarrosodev/leis-portugal/releases">Versões</a>
+      <a href="https://github.com/joaobarrosodev/leis-portugal/blob/main/rag/README.md">Relatório</a>
+      <a href="https://diariodarepublica.pt/">Diário da República</a>
+    </nav>
+  </footer>
+</div>
 
 <script>
-  // O botão do sistema de quem visita fica primeiro.
-  const windows = /Windows/i.test(navigator.userAgent);
-  if (windows) document.getElementById("botoes").prepend(document.getElementById("windows"));
-  document.getElementById(windows ? "mac" : "windows").classList.add("secundario");
+  // Quem visita a partir do Windows vê primeiro o botão do Windows.
+  if (/Windows/i.test(navigator.userAgent)) {
+    const caixa = document.getElementById("descarga");
+    const win = document.getElementById("windows"), mac = document.getElementById("mac");
+    caixa.insertBefore(win, mac);
+    win.classList.remove("segundo");
+    mac.classList.add("segundo");
+  }
+  // A mesma norma em duas datas.
+  document.querySelectorAll("[data-data]").forEach((b) =>
+    b.addEventListener("click", () => {
+      document.querySelectorAll("[data-data]").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+      document.querySelectorAll("[data-versao]").forEach((p) => (p.hidden = p.dataset.versao !== b.dataset.data));
+    })
+  );
 </script>
 </body>
 </html>

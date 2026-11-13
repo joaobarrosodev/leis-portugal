@@ -1,0 +1,132 @@
+{
+ "id": "pt:dre:604841:por",
+ "titulo": "Portaria n.º 1284/2001 — anexo (Portaria n.º 77/2001, alteração): quadros n.os 1 e 2",
+ "pdf": "https://files.diariodarepublica.pt/1s/2001/11/265b00/73017302.pdf",
+ "pdf_sha256": "8006e3b0251c35204e03a5cea6c436ccbf450af561ce8faf777c37fd8440a15f",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 2,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 2 imagens, 14 linhas e 98 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 570,
+       "ate": 632
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 645,
+       "ate": 658
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     300
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     360
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     395
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários",
+     429
+    ],
+    [
+     "Unidades de crédito",
+     463
+    ],
+    [
+     "Observações",
+     497
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Metodologia de Um Trabalho Científico em História da Arte | Semestral | 3 |  |  | 4 |  |\n| História da Cultura e Património Artístico | Semestral | 3 |  |  | 4 |  |\n| História das Artes Decorativas | Semestral | 3 |  |  | 4 |  |\n| Análise das Linguagens Artísticas | Semestral | 1,5 |  |  | 2 | (a) |\n| Arte Religiosa | Semestral | 1,5 |  |  | 2 | (a) |\n| História da Crítica de Arte | Semestral | 1,5 |  |  | 2 | (a) |\n| Iconologia e Heráldica | Semestral | 1,5 |  |  | 2 | (a) |\n\n(a) Unidades curriculares de opção a regulamentar pelo órgão legal e estatutariamente competente."
+  },
+  {
+   "ocorrencia": 2,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 770,
+       "ate": 792
+      },
+      {
+       "pagina": 2,
+       "de": 140,
+       "ate": 186
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 195,
+       "ate": 206
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     300
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     360
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     395
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários",
+     429
+    ],
+    [
+     "Unidades de crédito",
+     463
+    ],
+    [
+     "Observações",
+     497
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Metodologia de Um Trabalho Científico em História da Arte | Semestral | 3 |  |  | 4 |  |\n| História da Cultura e Património Artístico | Semestral | 3 |  |  | 4 |  |\n| História das Artes Decorativas | Semestral | 3 |  |  | 4 |  |\n| História das Técnicas Artísticas | Semestral | 1,5 |  |  | 2 | (a) |\n| Problemáticas e Investigação em História da Arquitectura e do Urbanismo | Semestral | 1,5 |  |  | 2 | (a) |\n| Restauro e Conservação das Artes Plásticas | Semestral | 1,5 |  |  | 2 | (a) |\n| Restauro Monumental, Teorias e Prática | Semestral | 1,5 |  |  | 2 | (a) |\n\n(a) Unidades curriculares de opção a regulamentar pelo órgão legal e estatutariamente competente."
+  }
+ ]
+}

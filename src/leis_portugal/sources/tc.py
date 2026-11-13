@@ -250,7 +250,8 @@ def decision_date(item: Listed, text: str) -> tuple[str | None, str | None]:
     listed = date.fromisoformat(item.decided) if item.decided else None
     if listed and listed.year == item.year:
         return item.decided, None
-    shown = listed.strftime("%d.%m.%Y") if listed else "sem data válida"
+    # Ano sempre com 4 algarismos: o strftime("%Y") do Linux escreve o ano 205 como "205" (o do macOS, "0205").
+    shown = f"{listed.day:02d}.{listed.month:02d}.{listed.year:04d}" if listed else "sem data válida"
     signature = _signature(text)
     if signature:
         day, month, year = signature

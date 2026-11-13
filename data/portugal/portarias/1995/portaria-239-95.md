@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-11-22'
+version_history:
+  file: portaria-239-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-03-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-11-22'
+    amending: pt:dre:685045:por
+    amending_title: Portaria n.º 1174/97
+    changes:
+    - Adita Artigo depois da unidade 24
+    - Altera Artigo unidades 110-110
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/239/1995/03/28/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:57:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1174/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-239-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -170,6 +186,18 @@ Por despacho do presidente do Instituto Politécnico de Leiria, poderão ser afe
 Limitações quantitativas
 
 A matrícula e a inscrição no curso estão sujeitas a limitações quantitativas a fixar anualmente por portaria da Ministra da Educação, sob proposta do Instituto Politécnico de Leiria.
+
+5.º-A
+
+Supranumerários
+
+1 - Para além das vagas fixadas nos termos do n.º 5.º, pode ainda ser criado um contingente especial destinado a estudantes nacionais dos países africanos de expressão portuguesa, desde que a candidatura seja apresentada previamente pela via diplomática, através do Departamento do Ensino Superior, no âmbito dos acordos de cooperação firmados pelo Estado Português.
+
+2 - O número de vagas deste contingente é fixado pelo presidente do Instituto e não pode ser superior a 10% das vagas fixadas nos termos do n.º 5.º
+
+3 - Os estudantes a que se refere o n.º 1 devem satisfazer as condições de acesso fixadas nos termos do n.º 3.º e estão sujeitos, se excederem o número de vagas fixadas nos termos do número anterior, às regras e critérios de selecção e seriação estabelecidos pela presente portaria.
+
+> Aditado pelo/a [Portaria n.º 1174/97](https://diariodarepublica.pt/dr/detalhe/portaria/1174-1997-685045), publicado em 1997-11-17.
 
 6.º
 
@@ -341,4 +369,43 @@ Assinada em 13 de Fevereiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/074b00/17031705.pdf)
+ANEXO
+
+Instituto Politécnico de Leiria
+
+Escola Superior de Educação
+
+Curso: Ensino Precoce das Línguas Estrangeiras
+
+Diploma de estudos superiores especializados
+
+QUADRO N.º 1
+
+1.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Língua Estrangeira I | Anual |  |  | 180 |  | (a) |
+| Civilização e Cultura da Língua Estrangeira | Anual | 45 |  | 45 |  | (a) |
+| Psicolinguística | Semestral | 60 |  |  |  |  |
+| Expressão para a Comunicação | Semestral |  | 45 |  |  |  |
+| Didáctica da Língua Estrangeira I | Semestral |  | 45 |  |  | (a) |
+| Investigação em Educação | Semestral |  | 60 |  |  |  |
+
+(a) Francês ou Inglês.
+
+QUADRO N.º 2
+
+2.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Língua Estrangeira II | Anual |  |  | 150 |  | (a) |
+| Projecto de Intervenção | Anual |  |  | 90 |  |  |
+| Seminário | Anual |  |  |  | 120 |  |
+| Didáctica da Língua Estrangeira II | Semestral |  | 45 |  |  | (a) |
+| Laboratório de Construção de Materiais | Semestral |  | 75 |  |  |  |
+
+(a) Francês ou Inglês.
+
+> Alterado pelo/a [Portaria n.º 1174/97](https://diariodarepublica.pt/dr/detalhe/portaria/1174-1997-685045), publicado em 1997-11-17.

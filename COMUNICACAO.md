@@ -8,6 +8,12 @@ Números de 12 de novembro de 2026.
 
 > A legislação portuguesa em formato aberto: mais de 360 mil diplomas e atos, ligados às fontes oficiais e atualizados todos os dias.
 
+## Ligações
+
+- Site e descarga da aplicação: https://joaobarrosodev.github.io/leis-portugal/
+- Repositório: https://github.com/joaobarrosodev/leis-portugal
+- Índice de pesquisa: https://huggingface.co/datasets/joaobarrosodev/leis-portugal-indice
+
 ## Num parágrafo curto (redes sociais)
 
 > O leis-portugal reúne num repositório público e gratuito a legislação portuguesa desde 1833, o direito da União Europeia em vigor e os acórdãos do Tribunal Constitucional. Cada texto liga à fonte oficial e o histórico de alterações fica registado. Tem também um protótipo de perguntas: responde com a lei e o artigo em vigor e, quando não tem a certeza, diz que não sabe.
@@ -18,7 +24,7 @@ Números de 12 de novembro de 2026.
 >
 > Além do texto publicado, o projeto liga os diplomas entre si (cerca de um milhão de relações de alteração, revogação e citação) e guarda as versões, para se poder ler a lei como estava numa data. Nos diplomas alterados que o Diário da República não consolida, produz o texto em vigor, verificado às cegas e marcado como sem valor oficial.
 >
-> Por cima destes dados há um protótipo de perguntas. Quando responde, acerta em cerca de 95% das vezes. Responde a mais de 8 em cada 10 perguntas e, nas restantes, diz que não sabe em vez de inventar. Cita sempre a lei e o artigo, na redação em vigor. É um protótipo e não substitui um advogado.
+> Por cima destes dados há um protótipo de perguntas. Quando responde, acerta em cerca de 95% das vezes. Responde a mais de 8 em cada 10 perguntas e, nas restantes, diz que não sabe em vez de inventar. Cita sempre a lei e o artigo, na redação em vigor. É um protótipo e não substitui um advogado. A aplicação para Mac e Windows descarrega-se em joaobarrosodev.github.io/leis-portugal.
 
 ## Números que se podem usar
 

@@ -262,7 +262,17 @@ def test_sem_publicacao_diz_que_ainda_nao_foi_publicado(tmp_path, alojamento):
         dados.ler_manifesto()
 
 
-def test_enviar_manda_os_ficheiros_antes_do_manifesto_e_limpa(tmp_path, alojamento):
+def test_enviar_manda_os_ficheiros_antes_do_manifesto_e_limpa(tmp_path, alojamento, monkeypatch):
+    import sys
+    import types
+
+    try:
+        import huggingface_hub  # noqa: F401
+    except ImportError:  # o CI só instala o extra dev
+        falso = types.ModuleType("huggingface_hub")
+        falso.CommitOperationAdd = lambda path_in_repo, path_or_fileobj: types.SimpleNamespace(path_in_repo=path_in_repo)
+        falso.CommitOperationDelete = lambda path_in_repo: types.SimpleNamespace(path_in_repo=path_in_repo)
+        monkeypatch.setitem(sys.modules, "huggingface_hub", falso)
     _publicar(tmp_path, A, "2026-11-01")
     manifesto, enviar = _publicar(tmp_path, B, "2026-11-08", limite=0.0001)
 

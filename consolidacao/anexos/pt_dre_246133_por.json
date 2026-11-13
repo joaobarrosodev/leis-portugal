@@ -1,0 +1,240 @@
+{
+ "id": "pt:dre:246133:por",
+ "titulo": "Portaria n.º 706/2005 — anexo, quadros n.os 1 a 4 (plano de estudos do curso de Educação Social)",
+ "pdf": "https://files.diariodarepublica.pt/1s/2005/08/161b00/48924893.pdf",
+ "pdf_sha256": "1c4bc211827d6087f1db227fc740aba79ee1c23a28ab5df8b9b4a1ca6afbe71e",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 4,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 4 imagens, 48 linhas e 384 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 715,
+       "ate": 795
+      },
+      {
+       "pagina": 2,
+       "de": 130,
+       "ate": 170
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     258
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     330
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     367
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     398
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários",
+     430
+    ],
+    [
+     "Escolaridade (em horas semanais) — Estágios",
+     468
+    ],
+    [
+     "Observações",
+     500
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Introdução às Ciências da Educação | 1.º semestre |  | 4 |  |  |  |  |\n| Tendências da Sociedade Contemporânea | 1.º semestre |  | 4 |  |  |  |  |\n| Educação, Saúde e Sexualidade | 1.º semestre |  | 4 |  |  |  |  |\n| Psicossociologia das Organizações | 1.º semestre |  | 4 |  |  |  |  |\n| Introdução à Informática e Tecnologias Educativas | 1.º semestre |  | 4 |  |  |  |  |\n| Introdução à Pedagogia Social | 1.º semestre |  | 4 |  |  |  |  |\n| Teorias Pedagógicas Contemporâneas | 2.º semestre |  | 4 |  |  |  |  |\n| Educação Ambiental | 2.º semestre |  | 4 |  |  |  |  |\n| Primeiros Socorros e Procedimentos de Emergência | 2.º semestre |  | 4 |  |  |  |  |\n| Psicossociologia das Marginalizações | 2.º semestre |  | 4 |  |  |  |  |\n| Métodos e Técnicas de Investigação em Educação Social | 2.º semestre |  | 4 |  |  |  |  |\n| Educação Social Comparada | 2.º semestre |  | 4 |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 2,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 275,
+       "ate": 380
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     258
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     330
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     367
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     398
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários",
+     430
+    ],
+    [
+     "Escolaridade (em horas semanais) — Estágios",
+     468
+    ],
+    [
+     "Observações",
+     500
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Psicologia do Desenvolvimento I | 1.º semestre |  | 4 |  |  |  |  |\n| Legislação Social I | 1.º semestre |  | 4 |  |  |  |  |\n| Deficiências e Construção dos Projectos de Vida I | 1.º semestre |  | 4 |  |  |  |  |\n| Pedagogia e Intervenção Familiar | 1.º semestre |  | 4 |  |  |  |  |\n| Sociologia e Educação | 1.º semestre |  | 4 |  |  |  |  |\n| Educação Intercultural | 1.º semestre |  | 4 |  |  |  |  |\n| Psicologia do Desenvolvimento II | 2.º semestre |  | 4 |  |  |  |  |\n| Legislação Social II | 2.º semestre |  | 4 |  |  |  |  |\n| Deficiências e Construção dos Projectos de Vida II | 2.º semestre |  | 4 |  |  |  |  |\n| Sociopedagogia dos Tempos Livres | 2.º semestre |  | 4 |  |  |  |  |\n| Antropologia Cultural | 2.º semestre |  | 4 |  |  |  |  |\n| Técnicas de Animação Sociocultural | 2.º semestre |  | 4 |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 3,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 485,
+       "ate": 595
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 600,
+       "ate": 610
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     258
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     330
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     367
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     398
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários",
+     430
+    ],
+    [
+     "Escolaridade (em horas semanais) — Estágios",
+     468
+    ],
+    [
+     "Observações",
+     500
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Intervenção Educativa nos Comportamentos Aditivos | 1.º semestre |  | 4 |  |  |  |  |\n| Problemáticas da Adultez e Educação de Adultos | 1.º semestre |  | 4 |  |  |  |  |\n| Políticas de Acção Social | 1.º semestre |  | 4 |  |  |  |  |\n| Pedagogia Penitenciária e Políticas de Reinserção Social | 1.º semestre |  | 4 |  |  |  |  |\n| Opção | 1.º semestre |  | 4 |  |  |  |  |\n| Opção | 1.º semestre |  | 4 |  |  |  |  |\n| Tipologia dos Comportamentos Aditivos | 2.º semestre |  | 4 |  |  |  |  |\n| Gerontologia Social e Educacional | 2.º semestre |  | 4 |  |  |  |  |\n| Organização e Gestão das Instituições Socioeducativas | 2.º semestre |  | 4 |  |  |  |  |\n| Opção | 2.º semestre |  | 4 |  |  |  |  |\n| Opção | 2.º semestre |  | 4 |  |  |  |  |\n| Estágio I | 2.º semestre |  |  |  |  | 80 | (*) |\n\n(*) Escolaridade em horas totais."
+  },
+  {
+   "ocorrencia": 4,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 700,
+       "ate": 775
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 780,
+       "ate": 792
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     258
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     330
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     367
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     398
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários",
+     430
+    ],
+    [
+     "Escolaridade (em horas semanais) — Estágios",
+     468
+    ],
+    [
+     "Observações",
+     500
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Ética e Educação | 1.º semestre |  | 4 |  |  |  |  |\n| Planeamento, Gestão e Avaliação de Projectos Sociais | 1.º semestre |  | 4 |  |  |  |  |\n| Opção | 1.º semestre |  | 4 |  |  |  |  |\n| Opção | 1.º semestre |  | 4 |  |  |  |  |\n| Estágio II | 1.º semestre |  |  |  |  | 100 | (*) |\n| Projecto Profissional I | 1.º semestre |  | 4 |  |  |  |  |\n| Estágio III | 2.º semestre |  |  |  |  | 250 | (*) |\n| Projecto Profissional II | 2.º semestre |  | 4 |  |  |  |  |\n\n(*) Escolaridade em horas totais."
+  }
+ ]
+}

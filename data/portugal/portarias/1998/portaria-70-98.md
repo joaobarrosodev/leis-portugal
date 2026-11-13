@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-01-28'
+version_history:
+  file: portaria-70-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-02-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-01-28'
+    amending: pt:dre:173167:por
+    amending_title: Portaria n.º 96/2003
+    changes:
+    - Adita Artigo depois da unidade 10
+    - Altera Artigo unidades 20-23
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/70/1998/02/18/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:10:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 96/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-70-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,6 +162,26 @@ Alteração do plano de estudos
 
 O plano de estudos do curso de licenciatura em Urbanismo ministrado pelo Instituto Superior de Matemática e Gestão - ISMAG, cujo funcionamento foi autorizado pela [Portaria n.º 1124/91](https://diariodarepublica.pt/dr/detalhe/portaria/1124-1991-343937), de 29 de Outubro, passa a ser o constante do anexo à presente portaria.
 
+1.º-A
+
+Duração
+
+1 - O curso tem a duração de cinco anos.
+
+2 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.
+
+3 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.
+
+1.º-B
+
+Número máximo de alunos
+
+1 - O número de novos alunos a admitir anualmente no curso não pode exceder 50.
+
+2 - A frequência global do curso não pode exceder 250 alunos.
+
+> Aditado pelo/a [Portaria n.º 96/2003](https://diariodarepublica.pt/dr/detalhe/portaria/96-2003-173167), publicado em 2003-01-23.
+
 2.º
 
 Aplicação
@@ -164,10 +200,81 @@ Assinada em 2 de Fevereiro de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
-## ANEXO — Instituto Superior de Matemática e Gestão - ISMAG
+## ANEXO
 
-Curso: Urbanismo
+Universidade Lusófona de Humanidades e Tecnologias
 
-Grau: licenciado
+Curso de Urbanismo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06580659.pdf)
+Grau de licenciado
+
+QUADRO N.º 1
+
+1.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| História e Teoria do Urbanismo | Anual | 4 |  |  |  |  |
+| Geografia Urbana | Anual | 2 |  |  |  |  |
+| Geografia Física e Urbanismo | Anual | 2 |  |  |  |  |
+| Topografia e Cartografia | Anual |  | 2 |  |  |  |
+| Matemática | Anual |  | 2 |  |  |  |
+| Informática I (CAD) | Anual |  | 3 |  |  |  |
+| Técnicas de Desenho | Anual |  |  | 3 |  |  |
+| Projecto Urbanístico I | Anual |  |  | 4 |  |  |
+
+QUADRO N.º 2
+
+2.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Sociologia Urbana | Anual | 2 |  |  |  |  |
+| Ecologia Urbana | Anual | 2 |  |  |  |  |
+| Economia Urbana | Anual |  | 2 |  |  |  |
+| Teoria do Planeamento | Anual | 3 |  |  |  |  |
+| Infraestruturas | Anual |  | 4 |  |  |  |
+| Introdução ao Pensamento Contemporâneo | Anual | 2 |  |  |  |  |
+| Informática II (CAD) | Anual |  | 3 |  |  |  |
+| Projecto Urbanístico II | Anual |  |  | 4 |  |  |
+
+QUADRO N.º 3
+
+3.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Análise Sociodemográfica | Anual | 2 |  |  |  |  |
+| Direito para Urbanismo | Anual | 3 |  |  |  |  |
+| Planeamento de Transportes | Anual |  | 4 |  |  |  |
+| Elementos de Arquitectura | Anual |  | 3 |  |  |  |
+| Informática III (CAD) | Anual |  | 3 |  |  |  |
+| Planeamento Urbanístico e Ordenamento do Território | Anual | 3 |  |  |  |  |
+| Arquitectura Paisagística | Anual |  | 2 |  |  |  |
+| Projecto Urbanístico III | Anual |  |  | 4 |  |  |
+
+QUADRO N.º 4
+
+4.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Urbanismo e Património | Anual | 3 |  |  |  |  |
+| Urbanismo e Autarquias | Anual | 2 |  |  |  |  |
+| Reabilitação Urbana | Anual |  | 3 |  |  |  |
+| Gestão Urbanística | Anual | 2 |  |  |  |  |
+| Desenvolvimento Urbano em Meio Rural | Anual |  | 3 |  |  |  |
+| Estudos Urbanos Aprofundados | Anual | 2 |  |  |  |  |
+| Sistemas de Informação Geográfica | Anual |  | 3 |  |  |  |
+| Projecto Urbanístico IV | Anual |  |  | 4 |  |  |
+| Deontologia e Prática Profissional | Semestral | 2 |  |  |  |  |
+
+QUADRO N.º 5
+
+5.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Trabalho final de curso | Anual |  | 10 |  |  |  |
+
+> Alterado pelo/a [Portaria n.º 96/2003](https://diariodarepublica.pt/dr/detalhe/portaria/96-2003-173167), publicado em 2003-01-23.
