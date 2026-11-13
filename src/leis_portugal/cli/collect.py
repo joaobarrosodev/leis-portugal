@@ -99,10 +99,14 @@ def register(commands) -> None:
     cnpd_parser.set_defaults(handler=collect_cnpd)
 
     tc_parser = sources.add_parser("tc", help="Recolher acórdãos do Tribunal Constitucional (do ano mais recente para o mais antigo).")
-    tc_parser.add_argument("--from-year", type=int, default=tc.FIRST_YEAR, help=f"Ano mais antigo (por omissão: {tc.FIRST_YEAR}).")
+    tc_parser.add_argument("--from-year", type=int, default=None, help=f"Ano mais antigo (por omissão: {tc.FIRST_YEAR}; {tc.SUMARIAS.first_year} nas decisões sumárias).")
     tc_parser.add_argument("--to-year", type=int, default=date.today().year, help="Ano mais recente (por omissão: o atual).")
     tc_parser.add_argument("--limit", type=int, default=None, help="Recolher no máximo N acórdãos.")
     tc_parser.add_argument("--refresh", action="store_true", help="Descarregar de novo os acórdãos já gravados.")
+    tc_parser.add_argument(
+        "--sumarias", action="store_true",
+        help="Recolher as decisões sumárias (desde 1998) em vez dos acórdãos; falhas em reports/tc_sumarias_failures.jsonl.",
+    )
     tc_parser.set_defaults(handler=collect_tc)
 
 
@@ -325,7 +329,12 @@ def collect_cnpd(args) -> int:
 
 def collect_tc(args) -> int:
     repository = acervo(args)
-    service = TcIngestion(repository, refresh=args.refresh, failures_path=repository.root / "reports" / "tc_failures.jsonl")
-    years = list(range(args.to_year, args.from_year - 1, -1))
-    summary = service.ingest(years=years, limit=args.limit, progress=progress)
-    return _decision_report(summary, "Tribunal Constitucional")
+    collection = tc.SUMARIAS if args.sumarias else tc.ACORDAOS
+    report = "tc_sumarias_failures.jsonl" if args.sumarias else "tc_failures.jsonl"
+    service = TcIngestion(repository, refresh=args.refresh, failures_path=repository.root / "reports" / report)
+    # Na atualização diária, um ano anterior ao início da coleção (1997 nas sumárias) não existe no site.
+    from_year = max(args.from_year or collection.first_year, collection.first_year)
+    years = list(range(args.to_year, from_year - 1, -1))
+    summary = service.ingest(years=years, limit=args.limit, progress=progress, collection=collection)
+    label = "Tribunal Constitucional (decisões sumárias)" if args.sumarias else "Tribunal Constitucional"
+    return _decision_report(summary, label)

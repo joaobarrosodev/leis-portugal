@@ -57,6 +57,7 @@ run leis-portugal collect eurlex --from "$FROM" --to "$TO" --workers 4
 FROM_YEAR=$(( 10#${FROM:0:4} - 1 ))
 TO_YEAR=$(( 10#${TO:0:4} ))
 run leis-portugal collect tc --from-year "$FROM_YEAR" --to-year "$TO_YEAR"
+run leis-portugal collect tc --sumarias --from-year "$FROM_YEAR" --to-year "$TO_YEAR"
 run leis-portugal collect cnpd --from-year "$FROM_YEAR" --to-year "$TO_YEAR"
 run leis-portugal link
 

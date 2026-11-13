@@ -155,3 +155,85 @@ def test_codigo_anterior_na_data_do_acordao():
 def test_data_com_gralha_no_site_fica_vazia():
     md = ACORDAO.replace("official_date: '2022-04-19'", "official_date: '1922-04-19'")
     assert j.julgamentos(md)[0].data is None
+
+
+def test_formas_antigas_de_declarar():
+    assert j.sentido(
+        "Nestes termos, o Tribunal Constitucional declara a inconstitucionalidade, com força obrigatória geral, "
+        "das normas dos artigos 7.º, n.º 2, do Decreto-Lei n.º 387-B/87"
+    ) == "declara_fog"
+    assert j.sentido(
+        "Assim, declara-se, com força obrigatória geral, e com referência ao disposto no artigo 168º, nº 1, alínea q), "
+        "da Constituição, a inconstitucionalidade das normas do Decreto-Lei n.º 1/80"
+    ) == "declara_fog"
+    assert j.sentido("Nos termos expostos, não se declara a ilegalidade da norma do artigo 59.º, n.º 2, da Lei Orgânica n.º 2/2013") == "nao_declara_fog"
+    assert j.sentido("o Tribunal Constitucional não declara a ilegalidade, nem a inconstitucionalidade, das normas do artigo 69.º-D") == "nao_declara_fog"
+    assert j.sentido("decide-se não declarar a inconstitucionalidade de qualquer das normas do Decreto-Lei n.º 2/80") == "nao_declara_fog"
+    assert j.sentido("b) Não declarar inconstitucional a parte restante da mesma norma") == "nao_declara_fog"
+    # "declarado" não é o verbo da decisão.
+    assert j.sentido("o artigo já declarado a inconstitucionalidade") is None
+
+
+def test_hifen_invisivel_dos_acordaos_antigos():
+    texto = ACORDAO.replace("declarar a inconstitucionalidade, com força obrigatória geral, da norma constante",
+                            "declarar a inconsti\u00adtucionalidade, com força obrigatória geral, da norma constante")
+    assert [x.sentido for x in j.julgamentos(texto)] == ["declara_fog"]
+
+
+def _acordao_antigo(decisao):
+    return ACORDAO.split("III – Decisão")[0].replace("pt:tc:acordao:2022:268", "pt:tc:acordao:1984:56") + decisao + "\n\nLisboa, 2 de maio de 1984\n"
+
+
+def test_verbo_antes_das_alineas():
+    texto = _acordao_antigo(
+        "28 — Pelos motivos expostos, o Tribunal Constitucional: Não conhece, por inútil, da constitucionalidade dos "
+        "artigos 7.º, n.ºs 3 e 4, do Decreto-Lei n.º 349-B/83; Declara com força obrigatória geral: a) Por violação dos "
+        "artigos 168.º, n.º 1, alínea c), da Constituição, a inconstitucionalidade dos artigos 2.º, n.ºs 1 e 2, do "
+        "Decreto-Lei n.º 349-B/83; b) E por violação do artigo 189.º, a inconstitucionalidade do artigo 6.º do mesmo diploma."
+    )
+    assert [x.sentido for x in j.julgamentos(texto)] == ["declara_fog", "declara_fog"]
+
+
+def test_abertura_antiga_da_decisao():
+    texto = _acordao_antigo(
+        "16 — De harmonia com o exposto, decide o Tribunal Constitucional não declarar a inconstitucionalidade, da norma "
+        "constante do ponto 6.5 do Regulamento do Conselho Superior de Polícia."
+    ).replace("No Acórdão n.º 160/88", "Acordam, em plenário, no Tribunal Constitucional:\n\nNo Acórdão n.º 160/88")
+    assert [x.sentido for x in j.julgamentos(texto)] == ["nao_declara_fog"]
+
+
+def test_parametro_entre_travessoes_e_leis_antigas_pelo_nome():
+    alinea = ("Julgar inconstitucionais - por violação do artigo 29º, nº 4, da Constituição - os artigos 2º e 5º, nº 2, "
+              "do Decreto-Lei nº 20-A/90, de 15 de Janeiro, interpretados no sentido de visarem impedir a aplicação da nova lei")
+    assert [(n.artigo, n.diploma_texto) for n in j.normas(alinea)] == [("2.º", "Decreto-Lei nº 20-A/90"), ("5.º", "Decreto-Lei nº 20-A/90")]
+    alinea = "Não julgar inconstitucional o artigo 24º, alínea b) da Lei de Processo nos Tribunais Administrativos, na parte em que remete"
+    [norma] = j.normas(alinea)
+    assert (norma.artigo, norma.tipo, norma.numero) == ("24.º", "decreto-lei", "267/85")
+    assert [(n.artigo, n.numero) for n in j.normas("não julgar inconstitucionais as normas dos artigos 66.º e 77.º, n.º 4, da LOPTC")] == [
+        ("66.º", "98/97"), ("77.º", "98/97")]
+
+
+def test_redaccao_antiga_e_art_o():
+    alinea = ("não julgar inconstitucionais as normas constantes do artigo 53º, nº 3, do Decreto-Lei nº 214/88, de 17 de Junho, "
+              "na redacção do Decreto-Lei nº 312/93, de 15 de Setembro e do artigo 55º, nº 2, na redacção do Decreto-Lei nº 206/91")
+    assert [(n.artigo, n.numero) for n in j.normas(alinea) if n.artigo] == [("53.º", "214/88"), ("55.º", "214/88")]
+    assert all(n.artigo for n in j.normas("Não julgar inconstitucional a norma do artigo 1º do Decreto-Lei nº 362/78, com a redacção do Decreto-Lei nº 23/80"))
+    alinea = ("julgar inconstitucional, por violação da al. c) do art.º 167.º da Constituição na sua primitiva redacção, "
+              "o art.º 7.º do Decreto Regional n.º 21/80/A, de 11 de Setembro")
+    assert [(n.artigo, n.numero) for n in j.normas(alinea)] == [("7.º", "21/80/A")]
+
+
+def test_cabecalho_acordam_nao_e_a_decisao():
+    texto = ("Acordam no plenário do Tribunal Constitucional:\n\nI\n\nO procurador-geral requer a declaração da inconstitucionalidade "
+             "das normas da Lei n.º 16/79.\n\n" + "Fundamentação longa. " * 200 +
+             "\n\nDeclara-se, com força obrigatória geral, a inconstitucionalidade das normas dos artigos 1.º a 7.º do Decreto-Lei n.º 280/85."
+             "\n\nLisboa, 8 de fevereiro de 1989.\n")
+    assert j.decisao(texto).startswith("Declara-se, com força obrigatória geral")
+
+
+def test_citacao_longe_do_inicio_nao_e_decisao():
+    relatorio = "Relatório do processo, com as alegações das partes e a decisão recorrida. " * 8
+    assert j._citacao_e_nao_decisao(relatorio + "O Tribunal firmou jurisprudência no sentido de não julgar inconstitucional a norma do artigo 64.º do Código da Estrada")
+    assert not j._citacao_e_nao_decisao(relatorio + "Assim, decide-se, pelos fundamentos constantes do Acórdão nº 331/92, publicado no Diário da República, "
+                                        "não julgar inconstitucional a norma do artigo 9.º do Decreto-Lei n.º 154/91")
+    assert not j._citacao_e_nao_decisao("Não julgar inconstitucional a norma do artigo 9.º do Decreto-Lei n.º 154/91")

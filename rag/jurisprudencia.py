@@ -33,9 +33,16 @@ SAIDA = PASTA_TC / "normas-julgadas.jsonl"
 # ------------------------------------------------------------------ sentido da decisão
 
 # Ordem importa: as formas negativas e as mais compridas primeiro.
+# "declarar", e nos acórdãos antigos "o Tribunal declara", "declara-se", "não se declara"; entre o
+# verbo e o objeto pode vir "com força obrigatória geral" ou outra oração entre vírgulas.
+_DECLARAR = r"declar(?:ar|a|am)(?:-se)?\b"
+_OBJETO_DECLARADO = (
+    r"(?:(?:\s*,[^;]{0,250}?,)?\s*(?:a|as)\s+(?:inconstitucionalidade|ilegalidade)"
+    r"|\s+(?:inconstitucional|ilega)\w*)"  # "não declarar inconstitucional a parte restante da norma"
+)
 SENTIDOS = [
-    ("nao_declara_fog", r"não\s+declarar\s+a\s+(?:inconstitucionalidade|ilegalidade)"),
-    ("declara_fog", r"declarar\s*(?:,\s*com\s+força\s+obrigatória\s+geral\s*,\s*)?a\s+(?:inconstitucionalidade|ilegalidade)"),
+    ("nao_declara_fog", r"não\s+(?:se\s+)?" + _DECLARAR + _OBJETO_DECLARADO),
+    ("declara_fog", _DECLARAR + _OBJETO_DECLARADO),
     ("nao_pronuncia", r"não\s+se\s+pronunciar\s+pela\s+(?:inconstitucionalidade|ilegalidade)"),
     ("pronuncia", r"pronunciar-se\s+pela\s+(?:inconstitucionalidade|ilegalidade)"),
     ("nao_julga", r"não\s+julgar\s+(?:inconstitucion|ilega)"),
@@ -59,12 +66,27 @@ ROTULOS = {
 _TITULO_DECISAO = re.compile(r"^\s*(?:[IVXL]+|\d+)?\s*[.\-–—)]*\s*(?:Decisão|DECISÃO|Dispositivo)\s*:?\s*$", re.M)
 _ABERTURA = re.compile(
     r"(?:Pelo\s+exposto|Nestes\s+termos|Termos\s+em\s+que|Em\s+face\s+do\s+exposto|Face\s+ao\s+exposto|"
-    r"Pelos\s+fundamentos\s+expostos|Tudo\s+considerado|Em\s+consequência|Nos\s+termos\s+e\s+pelos\s+fundamentos|Assim\s*,|Em\s+conclusão|Em\s+suma)"
+    r"Pelos\s+fundamentos\s+expostos|Tudo\s+considerado|Em\s+consequência|Nos\s+termos\s+e\s+pelos\s+fundamentos|Assim\s*,|Em\s+conclusão|Em\s+suma|"
+    # Fórmulas dos acórdãos antigos.
+    r"De\s+harmonia\s+com\s+o\s+exposto|Nos\s+termos\s+expostos|Pelos\s+(?:motivos|fundamentos|razões)\s+(?:expostos|expendidos|aduzidos)|"
+    r"Atento\s+o\s+exposto|Tendo\s+em\s+conta\s+o\s+exposto|Face\s+ao\s+que\s+fica\s+exposto|Por\s+(?:todo\s+)?o\s+exposto)"
     r"[^\n]{0,200}?(?:decide|acorda|pronuncia|declara)",
     re.I,
 )
 _DECIDE = re.compile(r"(?:o\s+Tribunal\s+Constitucional\s+)?(?:decide(?:-se)?|decidem|acordam)[^.\n]{0,60}:", re.I)
 _ASSINATURA = re.compile(r"^\s*(?:Lisboa|Lisbon)\s*,", re.M)
+
+
+def _ultimo_paragrafo_com_decisao(texto: str) -> int | None:
+    """Sem título nem fórmula de abertura: o último parágrafo antes da assinatura que decide
+    ("Declara-se…", "Não julgar inconstitucional…")."""
+    assinaturas = list(_ASSINATURA.finditer(texto))
+    fim = assinaturas[-1].start() if assinaturas else len(texto)
+    paragrafos = list(re.finditer(r"[^\n]+", texto[:fim]))
+    for m in reversed(paragrafos[-6:]):
+        if any(padrao.search(m.group(0)) for _, padrao in _SENTIDOS):
+            return m.start()
+    return None
 
 
 def decisao(texto: str) -> str:
@@ -76,8 +98,12 @@ def decisao(texto: str) -> str:
         inicio = titulos[-1].end()
     else:
         aberturas = list(_ABERTURA.finditer(texto)) or list(_DECIDE.finditer(texto))
+        # "Acordam no plenário do Tribunal Constitucional:" no cabeçalho não é a decisão.
+        aberturas = [a for a in aberturas if a.start() > 400 or len(texto) < 3000]
         if aberturas:
             inicio = aberturas[-1].start()
+    if inicio is None:
+        inicio = _ultimo_paragrafo_com_decisao(texto)
     if inicio is None:
         return ""
     resto = texto[inicio:]
@@ -163,6 +189,8 @@ SIGLAS: dict[str, str | tuple[str, str]] = {
     "CExp": ("lei", "168/99"),
     "CE99": ("lei", "168/99"),
     "LTC": ("lei", "28/82"),
+    "LOPTC": ("lei", "98/97"),
+    "LPTA": ("decreto-lei", "267/85"),
     "LOTC": ("lei", "28/82"),
     "ETAF": ("lei", "13/2002"),
     "RCP": ("decreto-lei", "34/2008"),
@@ -173,6 +201,7 @@ SIGLAS: dict[str, str | tuple[str, str]] = {
     "CRP_PREDIAL": ("decreto-lei", "224/84"),
     "EOA": ("lei", "145/2015"),
     "NRAU": ("lei", "6/2006"),
+    "RAU": ("decreto-lei", "321-B/90"),
     "LN": ("lei", "37/81"),
     "RJCESE": ("lei", "83-C/2013"),
     "CESE": ("lei", "83-C/2013"),
@@ -191,6 +220,8 @@ NOMES: dict[str, tuple[str, str]] = {
     "código dos valores mobiliários": ("decreto-lei", "486/99"),
     "código das expropriações": ("lei", "168/99"),
     "lei do tribunal constitucional": ("lei", "28/82"),
+    "lei de processo nos tribunais administrativos": ("decreto-lei", "267/85"),
+    "lei de organização e processo do tribunal de contas": ("lei", "98/97"),
     "lei da organização, funcionamento e processo do tribunal constitucional": ("lei", "28/82"),
     "estatuto dos tribunais administrativos e fiscais": ("lei", "13/2002"),
     "regulamento das custas processuais": ("decreto-lei", "34/2008"),
@@ -202,6 +233,8 @@ NOMES: dict[str, tuple[str, str]] = {
     "código do registo predial": ("decreto-lei", "224/84"),
     "estatuto da ordem dos advogados": ("lei", "145/2015"),
     "novo regime do arrendamento urbano": ("lei", "6/2006"),
+    "regime do arrendamento urbano": ("decreto-lei", "321-B/90"),
+    "regime jurídico do arrendamento urbano": ("decreto-lei", "321-B/90"),
     "lei da nacionalidade": ("lei", "37/81"),
     "código da insolvência": ("decreto-lei", "53/2004"),
     "código processo penal": ("decreto-lei", "78/87"),
@@ -254,6 +287,7 @@ def nome_canonico(nome: str) -> tuple[str | None, tuple[str, str] | None]:
 
 _NOME_CODIGO = re.compile(
     r"(?<!\w)((?:Código|Regime\s+Geral|Lei\s+Geral|Estatuto|Regulamento\s+das\s+Custas|Lei\s+do\s+Tribunal|Lei\s+da\s+Nacionalidade|"
+    r"Lei\s+de\s+Processo\s+nos\s+Tribunais|Lei\s+de\s+Organização\s+e\s+Processo|"
     r"Novo\s+Regime)[^,;()\n\d]{3,110}?)(?=\s*(?:\(|,|;|\.|$|\d|\s+na\s+reda|\s+aprovad|\s+quando|\s+na\s+parte|\s+interpretad|\s+no\s+sentido|\s+e\s+(?:d[oa]s?|o|a|os|as|n\.|artigos?|art\.)\s))",
 )
 _SIGLA = re.compile(r"(?<![\w-])(" + "|".join(sorted((re.escape(s) for s in SIGLAS if "_" not in s), key=len, reverse=True)) + r")(?![\w-])")
@@ -343,11 +377,12 @@ _INTERPRETACAO = re.compile(
     r"segundo\s+a\s+qual|no\s+segmento|no\s+sentido\s+(?:de|segundo)|ao\s+(?:prever|estabelecer|fazer|determinar|impor)|enquanto)\b",
     re.I,
 )
-_ALTERACAO_MENCAO = re.compile(r"(?:reda[cç][aã]o|alterad[oa]s?|republicad[oa]|introduzid[oa]|prorrogad[oa]|aditad[oa])[^;]{0,45}$", re.I)
+_ALTERACAO_MENCAO = re.compile(r"(?:redac?[cç][aã]o|alterad[oa]s?|republicad[oa]|introduzid[oa]|prorrogad[oa]|aditad[oa])[^;]{0,45}$", re.I)
 _ALTERACAO_ANTES = re.compile(r"(?:aprovad|criad|introduzid|alterad|prorrogad|conferid|dad|republicad|mantid|aditad)[oa]s?[^,;()]{0,40}?\s+pel[oa]s?\b[^;()]{0,30}$", re.I)
 # "da mesma lei", "deste diploma": o diploma é o citado antes. "do mesmo preceito" (o mesmo artigo) não conta.
 _MESMO_DIPLOMA = re.compile(r"\b(?:mesm[oa]|dest[ea]|daquel[ea]|referid[oa])\s+(?:lei|diploma|código|decreto|portaria|regime|estatuto|regulamento)", re.I)
-_RETOMA = re.compile(r",\s*(?:a|as|o|os|da|das|do|dos)\s+(?:norma|normas|interpreta[çc][ãa]o|disposto|artigo|segmento|dimens[ãa]o|regime|preceito|n\.\s*[º°o]s?|al[íi]nea)", re.I)
+# Também entre travessões: "Julgar inconstitucionais - por violação do artigo 29.º da Constituição - os artigos…".
+_RETOMA = re.compile(r"(?:,|\s-)\s*(?:a|as|o|os|da|das|do|dos)\s+(?:norma|normas|interpreta[çc][ãa]o|disposto|artigo|art\.?\s*º|segmento|dimens[ãa]o|regime|preceito|n\.\s*[º°o]s?|al[íi]nea)", re.I)
 
 
 def objeto(alinea: str) -> str:
@@ -391,7 +426,7 @@ def normas(alinea: str, siglas: dict[str, str | tuple[str, str]] | None = None) 
             fim = min(fim, seguinte[0])
         if k + 1 < len(palavras):
             fim = min(fim, palavras[k + 1].start())
-        redacao = re.search(r"\bna\s+reda[cç][aã]o|\baprovad", texto[m.start(): fim], re.I)
+        redacao = re.search(r"\bna\s+redac?[cç][aã]o|\baprovad", texto[m.start(): fim], re.I)
         if redacao:
             fim = m.start() + redacao.start()
         artigos.append((m.start(), f"{m.group(1)}.º" + (f"-{m.group(2).upper()}" if m.group(2) else "")))
@@ -419,9 +454,15 @@ def normas(alinea: str, siglas: dict[str, str | tuple[str, str]] | None = None) 
         if depois and not _MESMO_DIPLOMA.search(entre):
             i = depois[0]
             if i in alteracao:
-                # O diploma do artigo não foi reconhecido ("Lei de Organização e Funcionamento dos Tribunais
-                # Judiciais, na redação introduzida pela Lei n.º 46/2011"): melhor sem diploma do que o errado.
-                continue
+                anteriores = [k for k, m in enumerate(mencoes) if m.fim <= pos and k not in alteracao]
+                if anteriores and not re.search(r"\b(?:d[oa]s?|n[oa]s?)\s+[A-ZÁÉÍÓÚ]", entre):
+                    # "do artigo 53.º do Decreto-Lei n.º 214/88 … e do artigo 55.º, n.º 2, na redacção do
+                    # Decreto-Lei n.º 206/91": sem diploma entre o artigo e a redação, é o diploma anterior.
+                    i = anteriores[-1]
+                else:
+                    # O diploma do artigo não foi reconhecido ("Lei de Organização e Funcionamento dos Tribunais
+                    # Judiciais, na redação introduzida pela Lei n.º 46/2011"): melhor sem diploma do que o errado.
+                    continue
         else:
             anteriores = [i for i, m in enumerate(mencoes) if m.fim <= pos]
             if not anteriores:
@@ -469,10 +510,30 @@ class Julgamento:
 _YAML_CAMPO = re.compile(r"^(id|official_number|official_date|official_url):\s*'?([^'\n]*)'?\s*$", re.M)
 
 
+# "Declara com força obrigatória geral: a) … a inconstitucionalidade dos artigos…": o verbo fica antes
+# das alíneas e cada alínea só traz o objeto.
+_VERBO_ANTES_DAS_ALINEAS = re.compile(r"(?<!\w)(não\s+(?:se\s+)?)?" + _DECLARAR + r"[^:;]{0,200}:?\s*$", re.I)
+_NAO_CONHECE = re.compile(r"conhec|extin|inutilidade|prejudicad", re.I)
+_OBJETO_SEM_VERBO = re.compile(r"(?<!\w)(?:a|as)\s+(?:inconstitucionalidade|ilegalidade)|(?<!\w)(?:a|as)\s+normas?\b|(?<!\w)(?:o|os)\s+artigos?\b", re.I)
+
+
+# Uma alínea muito comprida em que o verbo só aparece longe do início é quase sempre o relatório ou
+# a fundamentação ("firmou jurisprudência no sentido de não julgar…", "O presente acórdão declara…"),
+# tirada de uma página antiga onde não se encontrou a decisão. Fica se o verbo vier depois de
+# "decide-se" / "acordam" na mesma frase ("decide-se, pelos fundamentos do Acórdão n.º 331/92, não julgar…").
+_DECIDE_ANTES = re.compile(r"(?<!\w)(?:decide(?:-se)?|decidem|acordam|acorda-se)(?!\w)(?![^.]*\.\s+[A-ZÁÉÍÓÚ])[^;]*$", re.I)
+
+
+def _citacao_e_nao_decisao(alinea: str) -> bool:
+    inicio = min((m.start() for _, padrao in _SENTIDOS if (m := padrao.search(alinea))), default=0)
+    return inicio > 400 and not _DECIDE_ANTES.search(alinea[max(0, inicio - 400): inicio])
+
+
 def julgamentos(markdown: str) -> list[Julgamento]:
     cabecalho = markdown[: markdown.find("\n---\n", 4)] if markdown.startswith("---\n") else ""
     campos = {m.group(1): m.group(2).strip() for m in _YAML_CAMPO.finditer(cabecalho)}
-    texto = corpo(markdown)
+    # Os acórdãos antigos têm hífens invisíveis no meio das palavras ("inconsti\u00adtucionalidade").
+    texto = corpo(markdown).replace("\u00ad", "")
     siglas = siglas_do_acordao(texto)
     data = campos.get("official_date") or None
     ano = campos.get("official_number", "").rpartition("/")[2]
@@ -481,8 +542,21 @@ def julgamentos(markdown: str) -> list[Julgamento]:
         # do que escolher o código pela data errada. Um acórdão de dezembro pode ter o número do ano seguinte.
         data = None
     resultado = []
-    for alinea in alineas(decisao(texto)):
+    herdado = None
+    partes = alineas(dispositivo := decisao(texto))
+    # O verbo só se herda do preâmbulo, o texto antes da primeira alínea.
+    primeira = _ALINEA.search(dispositivo)
+    preambulo = dispositivo[: primeira.start()].strip() if primeira else ""
+    if not (partes and partes[0] == preambulo):
+        preambulo = ""
+    if preambulo and (m := _VERBO_ANTES_DAS_ALINEAS.search(preambulo)):
+        herdado = "nao_declara_fog" if m.group(1) else ("declara_fog" if _FOG.search(preambulo) else "julga")
+    for i, alinea in enumerate(partes):
         nome = sentido(alinea)
+        if nome and _citacao_e_nao_decisao(alinea):
+            continue
+        if nome is None and herdado and i > 0 and _OBJETO_SEM_VERBO.search(alinea) and not _NAO_CONHECE.search(alinea):
+            nome = herdado
         if nome is None:
             continue
         resultado.append(Julgamento(
@@ -598,6 +672,10 @@ def construir(pesquisa, pasta: Path = PASTA_TC, saida: Path = SAIDA, progresso=p
     contas: Counter = Counter()
     linhas = []
     for caminho in sorted(pasta.rglob("*.md")):
+        if "decisoes-sumarias" in caminho.relative_to(pasta).parts:
+            # Decisões do relator em casos concretos: não declaram nada com força obrigatória geral
+            # e ficam fora até se medir a extração nelas.
+            continue
         contas["acordaos"] += 1
         lista = julgamentos(caminho.read_text(encoding="utf-8"))
         if lista:
