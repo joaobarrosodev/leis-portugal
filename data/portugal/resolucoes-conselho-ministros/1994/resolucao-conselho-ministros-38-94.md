@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado pelo art. 40.º do Regulamento da revisão do PDM de Borba (Edital n.º 35/2008), em vigor no dia seguinte
+    à publicação (2008-01-09). O DRE dá a RCM n.º 38/94 como em vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:1789903:por'
+    detail: Artigo 40.º — Norma revogatória É revogado o anterior Plano Director Municipal de Borba, aprovado pela Resolução
+      de Concelho de Ministros n.º 38/94 de 30 de Maio
 notes: []
 language: por
 version:
@@ -201,6 +211,12 @@ relationships:
   target: pt:dre:624389:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:1789903:por
+  label: Revogado pelo art. 40.º do Regulamento da revisão do PDM de Borba (Edital n.º 35/2008), em vigor no dia seguinte
+    à publicação (2008-01-09). O DRE dá a RCM n.º 38/94 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2008-01-09'
 article_structure:
   article_count: 69
   section_count: 30
