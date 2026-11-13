@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:cnpd:64512
+title: Autorização da CNPD n.º 4247/2014
+short_title: null
+summary: Surpresa Secreta, Lda — Videovigilância - Protecção de Pessoas e bens
+jurisdiction: regulator
+territory: null
+document_type: autorizacao-cnpd
+document_type_label: Autorização da Comissão Nacional de Proteção de Dados
+issuing_authority:
+- Comissão Nacional de Proteção de Dados
+proposing_entity: null
+official_number: 4247/2014
+official_date: null
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Entidade: Surpresa Secreta, Lda'
+language: por
+version:
+  kind: original
+  label: Texto da decisão publicada no site da CNPD
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:cnpd:64512
+source:
+  id: cnpd
+  name: Comissão Nacional de Proteção de Dados
+  official_url: https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/64512
+  metadata_url: https://www.cnpd.pt/decisoes/historico-de-decisoes/?year=2014&type=1
+  content_url: https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/64512
+  consolidated_url: null
+  retrieved_at: '2026-11-12T21:31:26Z'
+  retrieval_method: Histórico de decisões do site da CNPD (páginas HTML) e descarga do PDF de cada decisão; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: 740551a57058573d49e4f820c9d8a630d24cc8cc6c66a70e414b78907cc80a18
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal CNPD
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect cnpd
+  generated_at: '2026-11-12T21:31:26Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: Comissão Nacional de Proteção de Dados (www.cnpd.pt) — todos os direitos reservados
+  reference: https://www.cnpd.pt/avisos-legais-e-outras-informacoes/
+  notes: Reprodução total ou parcial permitida com distribuição gratuita, integridade dos documentos e citação expressa do
+    site com a menção de direitos reservados; uso pessoal, associativo ou profissional, sem fins comerciais ou publicitários.
+    Só a cópia certificada tem valor legal.
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T21:31:26Z'
+  warnings: []
+  errors: []
+---
+
+# Autorização da CNPD n.º 4247/2014
+
+Processo n.º 5822/ 2014
+AUTORIZAÇÃO N.º 4247/ 2014
+Surpresa Secreta, Lda notificou um tratamento de dados pessoais resultante de videovigilância, com a finalidade de proteção de pessoas e bens e fiscalização das salas de jogo, a realizar nas suas instalações com a designação Bingo Amora e endereço Av. 1º de Maio Centro Comercial De
+Amora Sala 002 2845-162 Amora
+O sistema é composto por 18 câmaras colocadas nos seguintes locais:
+Acessos a partir do exterior/ Cofres/ Zonas de circulação/ Zonas técnicas/
+Há visualização das imagens em tempo real.
+Não há transmissão das imagens para o exterior do local da instalação do sistema.
+Não há Comissão de Trabalhadores.
+A CNPD já se pronunciou na sua Deliberação n.º 61/2004, de 19 de abril 1 sobre os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados Pessoais, em matéria de videovigilância, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de proteção de pessoas e bens. Decorrem desses princípios, bem como da lei laboral (artigos 20.º e 21.º do Código do Trabalho), os seguintes limites ao tratamento:
+ A recolha de imagens deve confinar-se à propriedade do responsável, não podendo as câmaras incidir sobre a via pública ou propriedades de terceiros;
+ No caso de existirem terminais de pagamento ATM, as câmaras não podem estar direcionadas de modo a captar a digitação dos códigos;
+ Não podem as câmaras incidir regularmente sobre os trabalhadores durante a atividade laboral, nem as imagens podem ser utilizadas para o controlo da atividade dos trabalhadores, seja para aferir a produtividade seja para efeitos de responsabilização disciplinar (cf. artigos 20º e 21º do Código do Trabalho);
+ Apenas a recolha de imagens nos locais declarados está abrangida pela presente autorização, não podendo, em circunstância alguma, ser recolhidas imagens de acessos a instalações sanitárias nem do seu interior, acessos e interiores de vestiários, áreas de descanso ou outras áreas destinadas aos trabalhadores, aparelhos biométricos, zonas de espera, bares, restaurantes, copas, palco e zonas destinada a espetáculos.
+O tratamento em análise, com as limitações referidas, é adequado, pertinente e não excessivo face à finalidade declarada (cf. artigo 5.º, n.º1, alínea b),da Lei n.º67/98, de 26 de outubro – LPD) e à atividade desenvolvida.
+O tratamento de dados pessoais efetuado no âmbito da videovigilância enquadra-se no conceito de 1 Disponível em www.cnpd.pt/bin/orientacoes/principiosvideo.htm
+
+vida privada, previsto no n.º 2 do artigo 7º da LPD. O artigo 31.º da Lei n.º34/2013, de 16 de maio, bem como o artigo 52.º do Decreto-lei n.º 422/89, de 2 de dezembro2, na versão dada pelo Decreto-
+Lei n.º 114/11, de 30 de novembro, constituem o fundamento que legitima a instalação destes sistemas.
+Assim, com os limites fixados, autoriza-se o tratamento notificado ao abrigo do disposto nos artigos 7.º, n.º 2, 28.º n.º 1, alínea a), 29.º e 30.º, n.º 1.º, da LPD, nos seguintes termos:
+Responsável Surpresa Secreta, Lda
+Finalidade Proteção de pessoas e bens e fiscalização das salas de jogo.
+Categoria de dados pessoais tratados Imagens e som processados pelo sistema.
+Forma de exercício do direito de acesso
+Por solicitação Presencial/ ao responsável no seguinte endereço/contacto:Av. 1º de Maio Centro Comercial De
+Amora Sala 002 2845-162 Amora
+Comunicação das imagens
+As imagens só podem ser transmitidas no termos da lei processual penal.
+Detetada a eventual infração penal, o responsável deverá, juntamente com a participação, enviar à autoridade judiciária ou ao órgão de polícia criminal competentes as imagens recolhidas.
+Noutras situações em que as autoridades solicitem acesso às imagens, tal só poderá ocorrer, no âmbito de processo judicial devidamente identificado, em cumprimento de despacho fundamentado da autoridade judiciária competente.
+Fora destas condições não pode o responsável comunicar as imagens.
+Interconexões Não há
+Fluxo transfronteiriço para países terceiros Não há
+Conservação dos dados 30 dias
+Qualquer pessoa abrangida pela gravação das imagens (titular dos dados) tem o direito de a elas aceder (artigo 11º, n.º 1, da LPD), salvo se as imagens estiverem a ser utilizadas no âmbito de investigação criminal, situação em que o pedido do titular deve ser endereçado à CNPD (n.º 2 do mesmo artigo).
+Ao disponibilizar as imagens ao titular dos dados, o responsável deve adotar as medidas técnicas necessárias para ocultar as imagens de terceiros que possam ter sido abrangidos pela gravação.
+Deverão ser afixados, em locais bem visíveis, avisos informativos da existência de videovigilância, 2 Lei do Jogo.
+
+nos termos exigidos pelo artigo 52º
+, n.º 7, do Decreto-lei n.º 422/89, de 2 de dezembro, na versão dada pelo Decreto-Lei n.º 114/11, de 30 de novembro.
+O responsável deve adotar as medidas de segurança previstas nos artigos 14º e 15º da LPD.
+Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento é a esta que cabe assegurar o resultado da efetiva segurança das imagens.
+O responsável pelo tratamento deve, também, manter sempre atualizadas a data e hora das gravações.
+Lisboa, 2014-04-30
+Ana Roque, Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Maria Cândida Guedes de Oliveira, Luís Paiva de Andrade.
+Filipa Calvão (Presidente)
+￼

@@ -19,7 +19,7 @@ O objetivo é tornar o ordenamento jurídico português mais acessível, pesquis
 | Versões | ~10 mil diplomas e atos com o histórico de versões (`.versoes.json`) e consulta do texto numa data (`version-at`) |
 | Texto em vigor consolidado pelo leis-portugal | mais de 2,6 mil diplomas que o DRE dá como alterados mas não consolida: alterações aplicadas por regras ou por um LLM e verificadas às cegas por outro modelo; marcados como **sem valor oficial** (ver [`consolidacao/`](consolidacao/README.md)) |
 | Relações | ~1,04 milhões de relações (alterações, revogações, retificações, citações, transposições); ~89% apontam para um documento do acervo |
-| Decisões (fora da legislação) | 7.892 decisões da CNPD (todas menos as autorizações, ainda em recolha), só 41 % com texto porque a maioria dos PDF são digitalizações; 29.392 acórdãos do Tribunal Constitucional, todos os de 1983 a 2026 que têm texto no site, e 5.320 decisões sumárias de 1998 a 2026; 8.966 normas julgadas tiradas da decisão dos de 1983 a 2026, com 371 declarações de inconstitucionalidade com força obrigatória geral, ligadas ao diploma (precisão medida às cegas: 90 % em 2016–2026, 78 % antes de 2016) |
+| Decisões (fora da legislação) | 122.223 decisões da CNPD, todas as do histórico de 1994 a 2026 (114.331 autorizações anteriores ao RGPD), 70 % com texto (nos pareceres e deliberações só 6 a 7 %, porque a maioria dos PDF são digitalizações); 29.392 acórdãos do Tribunal Constitucional, todos os de 1983 a 2026 que têm texto no site, e 5.320 decisões sumárias de 1998 a 2026; 8.966 normas julgadas tiradas da decisão dos de 1983 a 2026, com 371 declarações de inconstitucionalidade com força obrigatória geral, ligadas ao diploma (precisão medida às cegas: 90 % em 2016–2026, 78 % antes de 2016) |
 | Fontes operacionais | Diário da República Eletrónico (DRE), EUR-Lex/CELLAR, CNPD e Tribunal Constitucional |
 | Atualização | Diária, por GitHub Actions |
 | Exportação | Índice de relações (JSONL), SQLite e Parquet com os metadados (`leis-portugal export`) |
@@ -116,7 +116,7 @@ O projeto privilegia fontes primárias e páginas institucionais.
 | [Tribunal Constitucional](https://www.tribunalconstitucional.pt/) | Acórdãos de 1983 a 2026, numa coleção separada da legislação (`data/jurisprudencia/`), ligados ao DR quando lá publicados. | Operacional |
 | [Supremo Tribunal de Justiça](https://www.stj.pt/) | Jurisprudência, numa coleção separada. | Planeada (por agora só os acórdãos publicados no DR) |
 | [Supremo Tribunal Administrativo](https://www.stadministrativo.pt/) | Jurisprudência administrativa e fiscal. | Planeada (por agora só os acórdãos publicados no DR) |
-| [Comissão Nacional de Proteção de Dados](https://www.cnpd.pt/) | Pareceres, deliberações, diretrizes, regulamentos, registos e autorizações (1994–2026), numa coleção separada (`data/entidades/`). | Operacional (tudo menos as autorizações; estas em curso) |
+| [Comissão Nacional de Proteção de Dados](https://www.cnpd.pt/) | Pareceres, deliberações, diretrizes, regulamentos, registos e autorizações (1994–2026), numa coleção separada (`data/entidades/`). | Operacional |
 
 O registo das fontes, com o mecanismo de acesso, o âmbito verificado, os limites e as condições de reutilização de cada uma, está em [`config/sources.yml`](config/sources.yml).
 
@@ -488,7 +488,7 @@ Os PDF são sobretudo digitalizações de 1910 a 1959, sem texto que se possa pe
 
 Dos 1.248 que faltam, 1.241 não têm versão em português no EUR-Lex (1.237 anteriores a 1986, ano da adesão de Portugal), 3 não têm XHTML nem HTML e 4 são decisões cujo número oficial coincide com o de outra já gravada, que o repositório recusa sobrepor (`reports/eurlex_em_vigor_failures.jsonl`). Contando os que já não estão em vigor, o repositório tem cerca de 54 mil atos da UE.
 
-**Decisões fora da legislação** (12/11/2026; coleções separadas em `data/entidades/` e `data/jurisprudencia/`, que não entram nos números acima):
+**Decisões fora da legislação** (13/11/2026; coleções separadas em `data/entidades/` e `data/jurisprudencia/`, que não entram nos números acima):
 
 | CNPD, por tipo | No site | No repositório | Com texto |
 |---|--:|--:|--:|
@@ -496,7 +496,8 @@ Dos 1.248 que faltam, 1.241 não têm versão em português no EUR-Lex (1.237 an
 | Deliberações | 883 | 883 | 63 (7 %) |
 | Registos (anteriores ao RGPD) | 5.202 | 5.202 | 3.012 (58 %) |
 | Diretrizes e regulamentos | 9 | 9 | 9 |
-| Autorizações (anteriores ao RGPD) | 114.331 | em recolha | — |
+| Autorizações (anteriores ao RGPD) | 114.331 | 114.331 | 82.588 (72 %) |
+| **Total** | **122.223** | **122.223** | **85.788 (70 %)** |
 
 O número no site é o que o histórico de decisões anuncia para cada ano e tipo; a recolha falha se a listagem não lhe chegar. Os registos sem texto são digitalizações sem camada de texto (num PDF verificado à mão: 3 páginas de imagem de uma fotocopiadora, nenhuma fonte). Ficam com os metadados, a entidade, o início do assunto e a ligação ao PDF oficial, e com a nota «Fonte sem texto»; `collect cnpd --without-text` volta a extraí-los, com OCR do macOS (Vision) quando corre fora de um sandbox.
 

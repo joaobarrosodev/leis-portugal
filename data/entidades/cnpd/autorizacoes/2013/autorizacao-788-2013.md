@@ -1,0 +1,80 @@
+---
+schema_version: '1.0'
+id: pt:cnpd:51032
+title: Autorização da CNPD n.º 788/2013
+short_title: null
+summary: INEM - INSTITUTO NACIONAL DE EMERGÊNCIA MÉDICA — Gravação de Chamadas - Fazer prova do cumprimento das obrigações
+  relativas ao serviço de emergência…
+jurisdiction: regulator
+territory: null
+document_type: autorizacao-cnpd
+document_type_label: Autorização da Comissão Nacional de Proteção de Dados
+issuing_authority:
+- Comissão Nacional de Proteção de Dados
+proposing_entity: null
+official_number: 788/2013
+official_date: null
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Entidade: INEM - INSTITUTO NACIONAL DE EMERGÊNCIA MÉDICA'
+- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+language: por
+version:
+  kind: original
+  label: Texto da decisão publicada no site da CNPD
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:cnpd:51032
+source:
+  id: cnpd
+  name: Comissão Nacional de Proteção de Dados
+  official_url: https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51032
+  metadata_url: https://www.cnpd.pt/decisoes/historico-de-decisoes/?year=2013&type=1
+  content_url: https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51032
+  consolidated_url: null
+  retrieved_at: '2026-11-13T01:30:26Z'
+  retrieval_method: Histórico de decisões do site da CNPD (páginas HTML) e descarga do PDF de cada decisão; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: 0dc9da54b9f378d1d1af292bfb6a1ea2ffde110f075876c7d8d6f3364e526f30
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal CNPD
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect cnpd
+  generated_at: '2026-11-13T01:30:26Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: Comissão Nacional de Proteção de Dados (www.cnpd.pt) — todos os direitos reservados
+  reference: https://www.cnpd.pt/avisos-legais-e-outras-informacoes/
+  notes: Reprodução total ou parcial permitida com distribuição gratuita, integridade dos documentos e citação expressa do
+    site com a menção de direitos reservados; uso pessoal, associativo ou profissional, sem fins comerciais ou publicitários.
+    Só a cópia certificada tem valor legal.
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-13T01:30:26Z'
+  warnings:
+  - Sem texto extraído do PDF.
+  errors: []
+---
+
+# Autorização da CNPD n.º 788/2013
+
+O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51032](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51032).
