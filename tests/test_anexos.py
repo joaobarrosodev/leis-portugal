@@ -105,3 +105,47 @@ def test_refazer_confirma_e_apanha_diferencas(tmp_path, monkeypatch):
     dados["transcricoes"][0]["texto"] = texto_.replace("30", "40")
     (tmp_path / "pt_dre_1_por.json").write_text(json.dumps(dados), encoding="utf-8")
     assert anexos.refazer("pt:dre:1:por", pdf) == 1
+
+
+def test_continuacoes_recuadas_chaveta_e_valor_deslocado(monkeypatch):
+    """A lista da Portaria 269/2006: só abre linha quem começa antes do recuo; nas colunas de valor
+    um segundo valor fica depois de "<br>" e a chaveta sai; um valor numa linha só completa a de cima."""
+    caixas_ = (
+        _letras("Universidade Lusófona de Tecno-", 45, 100) + _letras("Mestrado em Pós-", 229, 100)
+        + _letras("{", 370, 100) + _letras("177/98", 384, 100) + _letras("9.o", 518, 100)
+        + _letras("logias.", 54, 110) + _letras("-Coloniais.", 237, 110) + _letras("1188/2000", 382, 110) + _letras("9.o", 518, 110)
+        + _letras("Universidade Portucalense", 45, 120) + _letras("Mestrado em Conservação", 229, 120) + _letras("77/2003", 382, 120)
+        + _letras("10.o", 516, 130)
+        + _letras("Escola Superior", 45, 140) + _letras("Mestrado em Semiótica", 229, 140) + _letras("952/2005", 382, 140) + _letras("11.o", 516, 140)
+    )
+    monkeypatch.setattr(anexos, "caixas", lambda pdf, pagina: caixas_)
+    colunas = [["Estabelecimento", 45], ["Mestrado", 225], ["Portaria", 378], ["Número", 505]]
+    md = anexos.quadro(Path("x.pdf"), [{"pagina": 1, "de": 0, "ate": 200}], colunas, recuo=50, colunas_de_valor=[2, 3]).split("\n")
+    assert md[2:] == [
+        "| Universidade Lusófona de Tecnologias. | Mestrado em Pós-Coloniais. | 177/98<br>1188/2000 | 9.º<br>9.º |",
+        "| Universidade Portucalense | Mestrado em Conservação | 77/2003 | 10.º |",
+        "| Escola Superior | Mestrado em Semiótica | 952/2005 | 11.º |",
+    ]
+
+
+def test_sem_recuo_o_quadro_fica_como_antes(monkeypatch):
+    """As opções novas não mudam os quadros já transcritos: sem "recuo", "{" fica e a regra é a antiga."""
+    caixas_ = _letras("Física", 45, 100) + _letras("30", 343, 100) + _letras("Aplicada", 54, 110)
+    monkeypatch.setattr(anexos, "caixas", lambda pdf, pagina: caixas_)
+    md = anexos.quadro(Path("x.pdf"), [{"pagina": 1, "de": 0, "ate": 200}], [["Unidade", 0], ["Horas", 300]])
+    assert md.split("\n")[2] == "| Física Aplicada | 30 |"
+
+
+def test_pedido_completo_troca_o_corpo_de_um_anexo_sem_artigos():
+    import llm_completo
+    from texto import dividir
+
+    corpo = dividir("###### Artigo 1.º\n\nTexto.\n\nO Ministro, Fulano.\n\n## ANEXO — (a que se refere o artigo 1.º)\n\nProduto ... 120\n")
+    feito, erro = llm_completo._mudar_corpo_do_anexo(
+        corpo, {"titulo": "## ANEXO — (a que se refere o artigo 1.º)", "texto": "| Produto | Valor |\n| --- | --- |\n| Azeite | 60 |"},
+        "[Despacho 2](u)", "2008-03-03")
+    assert erro is None and feito.operacao == "substituir"
+    assert corpo.texto() == ("###### Artigo 1.º\n\nTexto.\n\nO Ministro, Fulano.\n\n## ANEXO — (a que se refere o artigo 1.º)\n\n"
+                             "| Produto | Valor |\n| --- | --- |\n| Azeite | 60 |\n\n> Alterado pelo/a [Despacho 2](u), publicado em 2008-03-03.\n")
+    _, erro = llm_completo._mudar_corpo_do_anexo(corpo, {"titulo": "ANEXO II", "texto": "x"}, "l", "d")
+    assert "não existe" in erro

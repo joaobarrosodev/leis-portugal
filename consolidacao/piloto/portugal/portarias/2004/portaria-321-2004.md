@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:667161:por
     title: Portaria n.º 269/2006
     publication_date: '2006-03-17'
+  - id: pt:dre:143336:por
+    title: Portaria n.º 829/2005
+    publication_date: '2005-09-14'
 ---
 
 # Portaria n.º 321/2004
@@ -114,4 +117,17 @@ Curso de especialização em Gestão Arquitectónica e do Ambiente Urbano
 
 Grau de mestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/073b00/19541956.pdf)
+| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários | Escolaridade (em horas totais) — Estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Gestão da Arquitectura — Projectos Integrados de Arquitectura. | Anual |  | 170 |  |  |  |  |
+| Tecnologia de Informação | Semestral |  | 20 |  |  |  |  |
+| Gestão do Ambiente | Semestral |  | 10 |  |  |  |  |
+| Gestão da Construção | Semestral |  | 10 |  |  |  |  |
+| Gestão da Qualidade Total na Construção | Semestral |  | 10 |  |  |  |  |
+| Saúde e Segurança no Ambiente Urbano | Semestral |  | 10 |  |  |  |  |
+| Reabilitação Arquitectónica e Urbana de Edifícios Históricos. | Semestral |  | 20 |  |  |  |  |
+| Sistemas Inteligentes | Semestral |  | 10 |  |  |  |  |
+| Gestão dos Recursos Físicos e de Sistemas | Semestral |  | 10 |  |  |  |  |
+| Workshops | Semestral |  | 10 |  |  |  |  |
+
+> Alterado pelo/a [Portaria n.º 829/2005](https://diariodarepublica.pt/dr/detalhe/portaria/829-2005-143336), publicado em 2005-09-14.

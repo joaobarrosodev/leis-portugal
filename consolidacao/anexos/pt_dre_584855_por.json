@@ -1,0 +1,291 @@
+{
+ "id": "pt:dre:584855:por",
+ "titulo": "Portaria n.º 17/2002, anexo: quadros n.os 1 a 6 do plano de estudos",
+ "pdf": "https://files.diariodarepublica.pt/1s/2002/01/003b00/00720074.pdf",
+ "pdf_sha256": "10baa171b3fd6c2e4de8ce9c5495e702f1ea0cfcb89239f9eaf2cc6fdd6ca572",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 6,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 6 quadros, 68 linhas e 476 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 645,
+       "ate": 785
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     240
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     320
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     365
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     415
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     495
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Matemática | 1.º semestre | 2 | 2 |  |  |  |\n| Física | 1.º semestre | 2 | 2 |  |  |  |\n| Bases de Informática | 1.º semestre |  | 2 |  |  |  |\n| Química Analítica | 1.º semestre | 2 | 2 | 2 |  |  |\n| Anatomia Funcional I | 1.º semestre | 2 | 1 |  |  |  |\n| Biologia Celular I | 1.º semestre | 2 |  | 2 |  |  |\n| Técnicas de Laboratório | 1.º semestre | 1 |  | 2 |  |  |\n| História da Saúde e Cultura Contemporâneas | 1.º semestre | 1 | 2 |  |  |  |\n| Biomatemática e Estatística | 2.º semestre | 3 | 2 |  |  |  |\n| Biofísica | 2.º semestre | 2 |  | 2 |  |  |\n| Química Orgânica I | 2.º semestre | 2 | 2 |  |  |  |\n| Anatomia Funcional II | 2.º semestre | 2 | 1 |  |  |  |\n| Biologia Celular II | 2.º semestre | 2 |  | 2 |  |  |\n| Biologia Vegetal | 2.º semestre | 2 |  | 2 |  |  |\n| Bioquímica I | 2.º semestre | 2 |  | 2 |  |  |"
+  },
+  {
+   "ocorrencia": 2,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 175,
+       "ate": 292
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     240
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     320
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     365
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     415
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     495
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Bioestatística | 1.º semestre | 2 | 2 |  |  |  |\n| Bioquímica II | 1.º semestre | 2 |  | 2 |  |  |\n| Fisiologia Humana I | 1.º semestre | 2 |  | 2 |  |  |\n| Química-Física | 1.º semestre | 3 |  | 2 |  |  |\n| Métodos Analíticos I | 1.º semestre | 2 |  | 4 |  |  |\n| Química Orgânica II | 1.º semestre | 2 |  | 3 |  |  |\n| Informação e Recursos Informáticos | 2.º semestre | 2 | 2 |  |  |  |\n| Fisiologia Humana II | 2.º semestre | 2 |  | 2 |  |  |\n| Farmacologia I | 2.º semestre | 3 | 1 | 2 |  |  |\n| Métodos Analíticos II | 2.º semestre | 2 |  | 4 |  |  |\n| Química Farmacêutica Inorgânica | 2.º semestre | 3 |  | 2 |  |  |\n| Introdução à Economia e Gestão | 2.º semestre |  | 2 |  |  |  |"
+  },
+  {
+   "ocorrencia": 3,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 410,
+       "ate": 532
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     240
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     320
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     365
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     415
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     495
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Fisiopatologia | 1.º semestre | 3 |  | 2 |  |  |\n| Farmacologia II | 1.º semestre | 3 |  | 2 |  |  |\n| Farmacognosia I | 1.º semestre | 2 |  | 2 |  |  |\n| Farmácia Galénica | 1.º semestre | 2 |  | 4 |  |  |\n| Química Farmacêutica Orgânica | 1.º semestre | 3 |  | 4 |  |  |\n| Biologia Molecular | 1.º semestre | 2 |  | 2 |  |  |\n| Imunologia | 2.º semestre | 2 |  | 2 |  |  |\n| Genética Humana | 2.º semestre | 2 |  | 2 |  |  |\n| Microbiologia Geral | 2.º semestre | 3 |  | 4 |  |  |\n| Biofarmácia | 2.º semestre | 2 | 1 | 2 |  |  |\n| Farmacognosia II | 2.º semestre | 2 |  | 2 |  |  |\n| Tecnologia Farmacêutica I | 2.º semestre | 2 |  | 4 |  |  |"
+  },
+  {
+   "ocorrencia": 4,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 648,
+       "ate": 785
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     240
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     320
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     365
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     415
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     495
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Virologia | 1.º semestre | 2 |  | 2 |  |  |\n| Farmacocinética | 1.º semestre | 2 | 3 |  |  |  |\n| Tecnologia Farmacêutica II | 1.º semestre | 2 |  | 4 |  |  |\n| Dermofarmácia | 1.º semestre | 2 |  | 2 |  |  |\n| Deontologia e Legislação Farmacêutica | 1.º semestre | 2 |  |  |  |  |\n| Opção | 1.º semestre | 2 |  | 2 |  |  |\n| Opção | 1.º semestre | 2 |  | 2 |  |  |\n| Biotecnologia Industrial Farmacêutica | 2.º semestre | 2 | 1 |  |  |  |\n| Farmacoterapia | 2.º semestre | 2 | 2 |  |  |  |\n| Farmacoepidemiologia | 2.º semestre | 2 | 2 |  |  |  |\n| Parasitologia | 2.º semestre | 2 |  | 2 |  |  |\n| Saúde Pública | 2.º semestre | 2 | 2 |  |  |  |\n| Opção | 2.º semestre | 2 |  | 2 |  |  |\n| Opção | 2.º semestre | 2 |  | 2 |  |  |"
+  },
+  {
+   "ocorrencia": 5,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 170,
+       "ate": 290
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     240
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     320
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     365
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     415
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     495
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Toxicologia Geral | 1.º semestre | 2 |  | 2 |  |  |\n| Farmácia Clínica | 1.º semestre | 2 | 2 |  |  |  |\n| Bioquímica Clínica | 1.º semestre | 1 |  | 2 |  |  |\n| Tecnologia Farmacêutica III | 1.º semestre | 2 |  | 4 |  |  |\n| Metodologia Estatística e Epidemiológica | 1.º semestre | 1 | 2 |  |  |  |\n| Opção | 1.º semestre | 2 |  | 2 |  |  |\n| Opção | 1.º semestre | 2 |  | 2 |  |  |\n| Bioinformática | 2.º semestre | 1 | 2 |  |  |  |\n| Farmacotoxicologia | 2.º semestre | 2 |  | 2 |  |  |\n| Veiculação de Fármacos | 2.º semestre | 2 |  |  |  |  |\n| Prática Farmacêutica | 2.º semestre | 1 |  | 3 |  |  |\n| Comunicação | 2.º semestre | 1 | 2 |  |  |  |\n| Opção | 2.º semestre | 2 |  | 2 |  |  |\n| Opção | 2.º semestre | 2 |  | 2 |  |  |"
+  },
+  {
+   "ocorrencia": 6,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 400,
+       "ate": 415
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     240
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     320
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     365
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     415
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     455
+    ],
+    [
+     "Observações",
+     495
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Estágio | 1.º semestre |  |  |  | 40 |  |"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:423070:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-08-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b5ea4cccd6c762de",
+    "805327461439828b"
+   ]
+  },
+  {
+   "date": "2004-11-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:584855:por",
+     "title": "Portaria n.º 17/2002",
+     "published": "2002-01-04",
+     "dre_path": "/dr/detalhe/portaria/17-2002-584855"
+    },
+    {
+     "id": "pt:dre:548666:por",
+     "title": "Portaria n.º 1391/2004",
+     "published": "2004-11-10",
+     "dre_path": "/dr/detalhe/portaria/1391-2004-548666"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 13-14",
+    "Altera Artigo unidades 40-42"
+   ],
+   "fragments": [
+    "f236468f64beb96d",
+    "b3e75973d8b459e0"
+   ]
+  }
+ ],
+ "fragments": {
+  "b5ea4cccd6c762de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Agosto\n\nA requerimento da COFAC - Cooperativa de Formação e Animação Cultural, C. R. L., entidade instituidora da Universidade Lusófona de Humanidades e Tecnologias, reconhecida como de interesse público pelo [Decreto-Lei n.º 92/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1998-167074), de 14 de Abril, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nInstruído, organizado e apreciado o processo nos termos dos artigos 57.º e 59.º do Estatuto do Ensino Superior Particular e Cooperativo;\n\nColhido o parecer da comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto e na alínea b) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, alterado pelo [Decreto-Lei n.º 99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de Março:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAutorização de funcionamento\n\nÉ autorizado o funcionamento do curso de licenciatura em Ciências Farmacêuticas na Universidade Lusófona de Humanidades e Tecnologias, nas instalações sitas em Lisboa que estejam autorizadas nos termos da lei.\n\n2.º\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 50.\n\n2 - A frequência global do curso não pode exceder 300 alunos.\n\n3.º\n\nDuração\n\n1 - O curso tem a duração de 11 semestres.\n\n2 - A duração mínima do semestre curricular é de 15 semanas lectivas efectivas.\n\n4.º\n\nPlano de estudos\n\n1 - É aprovado o plano de estudos do curso nos termos do anexo à presente portaria.\n\n2 - O elenco de disciplinas de opção e as condições de inscrição nas mesmas são fixados pelo órgão legal e estatutariamente competente da Universidade.\n\n5.º\n\nGrau\n\nA conclusão com aproveitamento de todas as unidades curriculares que integram o plano de estudos do curso confere o direito à atribuição do grau de licenciado.\n\n6.º\n\nInício de funcionamento do curso\n\nO curso pode começar a funcionar a partir do ano lectivo de 1999-2000, inclusive, um ano curricular em cada ano lectivo.\n\n7.º\n\nCondições de acesso\n\nAs condições de acesso ao curso são as fixadas nos termos da lei.\n\n8.º\n\nCondicionamento\n\nA autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino de cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Educação, quer por não cumprimento dos pressupostos de autorização e reconhecimento, quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo.\n\n9.º\n\nVagas para 1999-2000\n\nO número de vagas para a candidatura à matrícula e inscrição no ano lectivo de 1999-2000 é fixado em 40.\n\nPelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior, em 16 de Julho de 1999."
+  },
+  "805327461439828b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Universidade Lusófona de Humanidades e Tecnologias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Universidade Lusófona de Humanidades e Tecnologias\n\nCurso: Ciências Farmacêuticas\n\nGrau: licenciado\n\n[(ver quadros n.os 1 a 6 no documento original)](https://files.diariodarepublica.pt/1s/1999/08/186b00/52795282.pdf)"
+  },
+  "f236468f64beb96d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2004-11-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1391/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2004-548666), publicado em 2004-11-10."
+   ],
+   "markdown": "de 11 de Agosto\n\nA requerimento da COFAC - Cooperativa de Formação e Animação Cultural, C. R. L., entidade instituidora da Universidade Lusófona de Humanidades e Tecnologias, reconhecida como de interesse público pelo [Decreto-Lei n.º 92/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1998-167074), de 14 de Abril, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nInstruído, organizado e apreciado o processo nos termos dos artigos 57.º e 59.º do Estatuto do Ensino Superior Particular e Cooperativo;\n\nColhido o parecer da comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto e na alínea b) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, alterado pelo [Decreto-Lei n.º 99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de Março:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAutorização de funcionamento\n\nÉ autorizado o funcionamento do curso de licenciatura em Ciências Farmacêuticas na Universidade Lusófona de Humanidades e Tecnologias, nas instalações sitas em Lisboa que estejam autorizadas nos termos da lei.\n\n2.º\n\nNúmero máximo de alunos\n\n1 - O número máximo de novos alunos a admitir anualmente não pode exceder 75.\n\n2 - A frequência global do curso não pode exceder 450 alunos.\n\n> Alterado pelo/a [Portaria n.º 1391/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2004-548666), publicado em 2004-11-10.\n\n3.º\n\nDuração\n\n1 - O curso tem a duração de 11 semestres.\n\n2 - A duração mínima do semestre curricular é de 15 semanas lectivas efectivas.\n\n4.º\n\nPlano de estudos\n\n1 - É aprovado o plano de estudos do curso nos termos do anexo à presente portaria.\n\n2 - O elenco de disciplinas de opção e as condições de inscrição nas mesmas são fixados pelo órgão legal e estatutariamente competente da Universidade.\n\n5.º\n\nGrau\n\nA conclusão com aproveitamento de todas as unidades curriculares que integram o plano de estudos do curso confere o direito à atribuição do grau de licenciado.\n\n6.º\n\nInício de funcionamento do curso\n\nO curso pode começar a funcionar a partir do ano lectivo de 1999-2000, inclusive, um ano curricular em cada ano lectivo.\n\n7.º\n\nCondições de acesso\n\nAs condições de acesso ao curso são as fixadas nos termos da lei.\n\n8.º\n\nCondicionamento\n\nA autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino de cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Educação, quer por não cumprimento dos pressupostos de autorização e reconhecimento, quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo.\n\n9.º\n\nVagas para 1999-2000\n\nO número de vagas para a candidatura à matrícula e inscrição no ano lectivo de 1999-2000 é fixado em 40.\n\nPelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior, em 16 de Julho de 1999."
+  },
+  "b3e75973d8b459e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Universidade Lusófona de Humanidades e Tecnologias",
+   "in_force_from": "2004-11-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 17/2002](https://diariodarepublica.pt/dr/detalhe/portaria/17-2002-584855), publicado em 2002-01-04."
+   ],
+   "markdown": "## ANEXO — Universidade Lusófona de Humanidades e Tecnologias\n\nCurso de Ciências Farmacêuticas\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Matemática | 1.º semestre | 2 | 2 |  |  |  |\n| Física | 1.º semestre | 2 | 2 |  |  |  |\n| Bases de Informática | 1.º semestre |  | 2 |  |  |  |\n| Química Analítica | 1.º semestre | 2 | 2 | 2 |  |  |\n| Anatomia Funcional I | 1.º semestre | 2 | 1 |  |  |  |\n| Biologia Celular I | 1.º semestre | 2 |  | 2 |  |  |\n| Técnicas de Laboratório | 1.º semestre | 1 |  | 2 |  |  |\n| História da Saúde e Cultura Contemporâneas | 1.º semestre | 1 | 2 |  |  |  |\n| Biomatemática e Estatística | 2.º semestre | 3 | 2 |  |  |  |\n| Biofísica | 2.º semestre | 2 |  | 2 |  |  |\n| Química Orgânica I | 2.º semestre | 2 | 2 |  |  |  |\n| Anatomia Funcional II | 2.º semestre | 2 | 1 |  |  |  |\n| Biologia Celular II | 2.º semestre | 2 |  | 2 |  |  |\n| Biologia Vegetal | 2.º semestre | 2 |  | 2 |  |  |\n| Bioquímica I | 2.º semestre | 2 |  | 2 |  |  |\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Bioestatística | 1.º semestre | 2 | 2 |  |  |  |\n| Bioquímica II | 1.º semestre | 2 |  | 2 |  |  |\n| Fisiologia Humana I | 1.º semestre | 2 |  | 2 |  |  |\n| Química-Física | 1.º semestre | 3 |  | 2 |  |  |\n| Métodos Analíticos I | 1.º semestre | 2 |  | 4 |  |  |\n| Química Orgânica II | 1.º semestre | 2 |  | 3 |  |  |\n| Informação e Recursos Informáticos | 2.º semestre | 2 | 2 |  |  |  |\n| Fisiologia Humana II | 2.º semestre | 2 |  | 2 |  |  |\n| Farmacologia I | 2.º semestre | 3 | 1 | 2 |  |  |\n| Métodos Analíticos II | 2.º semestre | 2 |  | 4 |  |  |\n| Química Farmacêutica Inorgânica | 2.º semestre | 3 |  | 2 |  |  |\n| Introdução à Economia e Gestão | 2.º semestre |  | 2 |  |  |  |\n\nQUADRO N.º 3\n\n3.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Fisiopatologia | 1.º semestre | 3 |  | 2 |  |  |\n| Farmacologia II | 1.º semestre | 3 |  | 2 |  |  |\n| Farmacognosia I | 1.º semestre | 2 |  | 2 |  |  |\n| Farmácia Galénica | 1.º semestre | 2 |  | 4 |  |  |\n| Química Farmacêutica Orgânica | 1.º semestre | 3 |  | 4 |  |  |\n| Biologia Molecular | 1.º semestre | 2 |  | 2 |  |  |\n| Imunologia | 2.º semestre | 2 |  | 2 |  |  |\n| Genética Humana | 2.º semestre | 2 |  | 2 |  |  |\n| Microbiologia Geral | 2.º semestre | 3 |  | 4 |  |  |\n| Biofarmácia | 2.º semestre | 2 | 1 | 2 |  |  |\n| Farmacognosia II | 2.º semestre | 2 |  | 2 |  |  |\n| Tecnologia Farmacêutica I | 2.º semestre | 2 |  | 4 |  |  |\n\nQUADRO N.º 4\n\n4.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Virologia | 1.º semestre | 2 |  | 2 |  |  |\n| Farmacocinética | 1.º semestre | 2 | 3 |  |  |  |\n| Tecnologia Farmacêutica II | 1.º semestre | 2 |  | 4 |  |  |\n| Dermofarmácia | 1.º semestre | 2 |  | 2 |  |  |\n| Deontologia e Legislação Farmacêutica | 1.º semestre | 2 |  |  |  |  |\n| Opção | 1.º semestre | 2 |  | 2 |  |  |\n| Opção | 1.º semestre | 2 |  | 2 |  |  |\n| Biotecnologia Industrial Farmacêutica | 2.º semestre | 2 | 1 |  |  |  |\n| Farmacoterapia | 2.º semestre | 2 | 2 |  |  |  |\n| Farmacoepidemiologia | 2.º semestre | 2 | 2 |  |  |  |\n| Parasitologia | 2.º semestre | 2 |  | 2 |  |  |\n| Saúde Pública | 2.º semestre | 2 | 2 |  |  |  |\n| Opção | 2.º semestre | 2 |  | 2 |  |  |\n| Opção | 2.º semestre | 2 |  | 2 |  |  |\n\nQUADRO N.º 5\n\n5.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Toxicologia Geral | 1.º semestre | 2 |  | 2 |  |  |\n| Farmácia Clínica | 1.º semestre | 2 | 2 |  |  |  |\n| Bioquímica Clínica | 1.º semestre | 1 |  | 2 |  |  |\n| Tecnologia Farmacêutica III | 1.º semestre | 2 |  | 4 |  |  |\n| Metodologia Estatística e Epidemiológica | 1.º semestre | 1 | 2 |  |  |  |\n| Opção | 1.º semestre | 2 |  | 2 |  |  |\n| Opção | 1.º semestre | 2 |  | 2 |  |  |\n| Bioinformática | 2.º semestre | 1 | 2 |  |  |  |\n| Farmacotoxicologia | 2.º semestre | 2 |  | 2 |  |  |\n| Veiculação de Fármacos | 2.º semestre | 2 |  |  |  |  |\n| Prática Farmacêutica | 2.º semestre | 1 |  | 3 |  |  |\n| Comunicação | 2.º semestre | 1 | 2 |  |  |  |\n| Opção | 2.º semestre | 2 |  | 2 |  |  |\n| Opção | 2.º semestre | 2 |  | 2 |  |  |\n\nQUADRO N.º 6\n\n6.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Estágio | 1.º semestre |  |  |  | 40 |  |\n\n> Alterado pelo/a [Portaria n.º 17/2002](https://diariodarepublica.pt/dr/detalhe/portaria/17-2002-584855), publicado em 2002-01-04."
+  }
+ }
+}

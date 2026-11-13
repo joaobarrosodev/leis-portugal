@@ -6,14 +6,19 @@
       "ate": 20,
       "texto": "O curso tem a duração de três semestres lectivos.",
       "alterador": 1
+    },
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários | Escolaridade (em horas totais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Estágio de Planeamento da Saúde | Anual |  |  |  |  | 300 |  |\n| Epidemiologia Estatística e Demografia | 1.º semestre | 30 | 15 |  |  |  |  |\n| Enfermagem Comunitária | 1.º semestre | 90 | 45 |  |  |  |  |\n| Ambiente e Saúde | 1.º semestre | 30 |  |  |  |  |  |\n| Administração em Saúde | 1.º semestre | 45 | 15 |  |  |  |  |\n| Economia e Saúde | 2.º semestre | 30 |  |  |  |  |  |\n| Educação e Saúde | 2.º semestre | 30 |  |  |  |  |  |\n| Psicossociologia do Trabalho e das Organizações de Saúde. | 2.º semestre | 30 |  |  |  |  |  |\n| Ética e Ambiente | 2.º semestre | 30 | 15 |  |  |  |  |\n| Metodologia do Diagnóstico de Saúde | 2.º semestre | 15 | 30 |  |  |  |  |\n| Estágio de Intervenção Comunitária I | 2.º semestre |  |  |  |  | 300 |  |\n| Estágio de Intervenção Comunitária II | 3.º semestre |  |  |  |  | 300 |  |",
+      "alterador": 1
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Portaria n.º 371/2005, 2.º: o anexo (plano de estudos) passa a ter nova redação, mas o quadro só vem em imagem; não se aplica.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do n.º 4.º (duração) - substituído o corpo (unidade 20), epígrafe mantida",
-    "Alterador 1, 2.º: substitui o anexo - quadro só em imagem, não aplicado",
-    "Alterador 1, 3.º: aplicação - norma própria"
+    "Alterador 1, 1.º: nova redação do n.º 4.º; muda só o corpo (unidade 20).",
+    "Alterador 1, 2.º: anexo com a redação do anexo da Portaria 371/2005; unidade 40 substituída pelo quadro, copiado como vem."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

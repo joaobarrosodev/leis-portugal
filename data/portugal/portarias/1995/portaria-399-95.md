@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-12-19'
+version_history:
+  file: portaria-399-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-05-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-12-19'
+    amending: pt:dre:583251:por
+    amending_title: Portaria n.º 1173/2000
+    changes:
+    - Altera Artigo unidades 31-31
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/399/1995/05/03/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:01:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1173/2000. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-399-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -182,4 +197,52 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 ## ANEXO — Curso de mestrado em Direito
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/102b00/24772478.pdf)
+Curso de Direito
+
+Grau de mestre
+
+QUADRO N.º 1
+
+Área de especialização em Ciências Jurídico-Civilísticas
+
+| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |
+| --- | --- | --- | --- | --- | --- | --- |
+| Direito Civil | Anual | 3 |  |  |  |  |
+| Processo Civil | Anual | 3 |  |  |  |  |
+| Direito Internacional Privado ou | Anual | 3 |  |  |  |  |
+| Direito Comercial e das Empresas | Anual | 3 |  |  |  |  |
+
+QUADRO N.º 2
+
+Área de especialização em Ciências Jurídico-Empresariais
+
+| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |
+| --- | --- | --- | --- | --- | --- | --- |
+| Direito Comercial e das Empresas | Anual | 3 |  |  |  |  |
+| Direito do Trabalho | Anual | 3 |  |  |  |  |
+| Direito Comunitário ou | Anual | 3 |  |  |  |  |
+| Direito Fiscal | Anual | 3 |  |  |  |  |
+
+QUADRO N.º 3
+
+Área de especialização em Ciências Jurídico-Políticas
+
+| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |
+| --- | --- | --- | --- | --- | --- | --- |
+| Direito Constitucional | Anual | 3 |  |  |  |  |
+| Direito Administrativo | Anual | 3 |  |  |  |  |
+| Direito Internacional Público ou | Anual | 3 |  |  |  |  |
+| Direito Comunitário | Anual | 3 |  |  |  |  |
+
+QUADRO N.º 4
+
+Área de especialização em Ciências Jurídico-Criminais
+
+| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |
+| --- | --- | --- | --- | --- | --- | --- |
+| Direito Penal | Anual | 3 |  |  |  |  |
+| Processo Penal | Anual | 3 |  |  |  |  |
+| Processo Civil ou | Anual | 3 |  |  |  |  |
+| Direito Constitucional | Anual | 3 |  |  |  |  |
+
+> Alterado pelo/a [Portaria n.º 1173/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1173-2000-583251), publicado em 2000-12-14.

@@ -26,5 +26,19 @@
     "unidade": [],
     "diploma": "pt:dre:147636:por",
     "alterador": "pt:dre:640973:por"
+  },
+  {
+    "artigo": "unidades 23-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185b00/57985799.pdf)",
+    "depois": "| Componentes de formação | Total de horas (a) (ciclo de formação) |\n| --- | --- |\n| Sócio-cultural: |  |\n| Português | 320 |\n| Língua Estrangeira I, II ou III (b) | 220 |\n| Área de Integração | 220 |\n| Tecnologias da Informação e Comunicação | 100 |\n| Educação Física | 140 |\n| Subtotal | 1 000 |\n\n| Componentes de formação | Total de horas (a) (ciclo de formação) |\n| --- | --- |\n| Científica: |  |\n| História da Cultura e das Artes | 200 |\n| Geometria Descritiva | 200 |\n| Matemática | 100 |\n| Subtotal | 500 |\n| Técnica: |  |\n| Vitrinismo e Exposição | 380 |\n| Merchandising | 300 |\n| Design e Tecnologias da Comunicação | 300 |\n| Desenho | 200 |\n| Formação em Contexto de Trabalho | 420 |\n| Subtotal | 1 600 |\n| Total de horas/curso | 3 100 |\n\n(a) Carga horária global não compartimentada pelos três anos do ciclo de formação, a gerir pela escola no âmbito da sua autonomia pedagógica, acautelando o equilíbrio da carga anual de forma a optimizar a gestão modular e a formação em contexto de trabalho.\n\n(b) O aluno escolhe uma língua estrangeira. Se tiver estudado apenas uma língua estrangeira no ensino básico, iniciará, obrigatoriamente, uma segunda língua no ensino secundário.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:147636:por",
+    "alterador": "pt:dre:640973:por"
   }
 ]

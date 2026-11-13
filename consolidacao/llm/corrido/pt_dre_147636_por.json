@@ -12,16 +12,21 @@
       "ate": 13,
       "texto": "4.º - (Revogado.)",
       "alterador": 1
+    },
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "| Componentes de formação | Total de horas (a) (ciclo de formação) |\n| --- | --- |\n| Sócio-cultural: |  |\n| Português | 320 |\n| Língua Estrangeira I, II ou III (b) | 220 |\n| Área de Integração | 220 |\n| Tecnologias da Informação e Comunicação | 100 |\n| Educação Física | 140 |\n| Subtotal | 1 000 |\n\n| Componentes de formação | Total de horas (a) (ciclo de formação) |\n| --- | --- |\n| Científica: |  |\n| História da Cultura e das Artes | 200 |\n| Geometria Descritiva | 200 |\n| Matemática | 100 |\n| Subtotal | 500 |\n| Técnica: |  |\n| Vitrinismo e Exposição | 380 |\n| Merchandising | 300 |\n| Design e Tecnologias da Comunicação | 300 |\n| Desenho | 200 |\n| Formação em Contexto de Trabalho | 420 |\n| Subtotal | 1 600 |\n| Total de horas/curso | 3 100 |\n\n(a) Carga horária global não compartimentada pelos três anos do ciclo de formação, a gerir pela escola no âmbito da sua autonomia pedagógica, acautelando o equilíbrio da carga anual de forma a optimizar a gestão modular e a formação em contexto de trabalho.\n\n(b) O aluno escolhe uma língua estrangeira. Se tiver estudado apenas uma língua estrangeira no ensino básico, iniciará, obrigatoriamente, uma segunda língua no ensino secundário.",
+      "alterador": 1
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, n.os 2.º e 3.º: alterações ao plano de estudos do anexo n.º 1 e sua republicação; o quadro só existe em imagem (ver documento original), não há texto onde aplicar.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alt. 1, 1.º: nova redação do n.º 2.º (área 341 - comércio); substituída a unidade 11.",
-    "Alt. 1, 2.º: alterações ao plano de estudos (Língua Estrangeira, chamada de nota); quadro em imagem, não aplicado.",
-    "Alt. 1, 3.º: republicação do plano de estudos em anexo, só em imagem; não aplicado.",
-    "Alt. 1, 4.º: revogado o n.º 4.º; unidade 13 passa a '4.º - (Revogado.)'.",
-    "Alt. 1, 5.º: produção de efeitos; não altera o texto."
+    "1.º: nova redação do n.º 2.º (unidade 11)",
+    "2.º e 3.º: plano de estudos alterado e republicado; a unidade 23 (quadro em imagem) passa a ser o quadro republicado com as notas (a) e (b)",
+    "4.º: revogado o n.º 4.º (unidade 13)",
+    "5.º: produção de efeitos, não textual"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

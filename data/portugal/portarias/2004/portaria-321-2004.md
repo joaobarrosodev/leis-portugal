@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-03-18'
+version_history:
+  file: portaria-321-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-03-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-03-18'
+    amending: pt:dre:143336:por
+    amending_title: Portaria n.º 829/2005; Portaria n.º 269/2006
+    changes:
+    - Altera Artigo unidades 43-46
+    - Altera Artigo unidades 54-54
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/321/2004/03/26/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:58:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 829/2005; Portaria n.º
+    269/2006. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-321-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -222,13 +238,9 @@ As condições de acesso ao curso de especialização são as fixadas nos termos
 
 Regulamento
 
-1 - O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) e as respectivas alterações estão sujeitos a registo.
+O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.
 
-2 - O registo efectua-se através de despacho do Ministro da Ciência e do Ensino Superior, ouvida a comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto do Ensino Superior Particular e Cooperativo.
-
-3 - O Ministro da Ciência e do Ensino Superior recusa o registo se o mesmo for desconforme com a lei ou com os Estatutos da Universidade Lusófona de Humanidades e Tecnologias.
-
-4 - Após o registo, a entidade instituidora faz publicar o regulamento, bem como as suas alterações, na 2.ª série do Diário da República.
+> Alterado pelo/a [Portaria n.º 269/2006](https://diariodarepublica.pt/dr/detalhe/portaria/269-2006-667161), publicado em 2006-03-17.
 
 11.º
 
@@ -244,4 +256,17 @@ Curso de especialização em Gestão Arquitectónica e do Ambiente Urbano
 
 Grau de mestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/073b00/19541956.pdf)
+| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários | Escolaridade (em horas totais) — Estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Gestão da Arquitectura — Projectos Integrados de Arquitectura. | Anual |  | 170 |  |  |  |  |
+| Tecnologia de Informação | Semestral |  | 20 |  |  |  |  |
+| Gestão do Ambiente | Semestral |  | 10 |  |  |  |  |
+| Gestão da Construção | Semestral |  | 10 |  |  |  |  |
+| Gestão da Qualidade Total na Construção | Semestral |  | 10 |  |  |  |  |
+| Saúde e Segurança no Ambiente Urbano | Semestral |  | 10 |  |  |  |  |
+| Reabilitação Arquitectónica e Urbana de Edifícios Históricos. | Semestral |  | 20 |  |  |  |  |
+| Sistemas Inteligentes | Semestral |  | 10 |  |  |  |  |
+| Gestão dos Recursos Físicos e de Sistemas | Semestral |  | 10 |  |  |  |  |
+| Workshops | Semestral |  | 10 |  |  |  |  |
+
+> Alterado pelo/a [Portaria n.º 829/2005](https://diariodarepublica.pt/dr/detalhe/portaria/829-2005-143336), publicado em 2005-09-14.

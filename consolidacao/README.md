@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.721 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.733 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -12,7 +12,7 @@ Na última ronda em que cada diploma esteve, 2.285 ficaram com tudo `certo` e 77
 
 | Causa | Diplomas | Resolúvel? |
 |---|--:|---|
-| Anexo, quadro, mapa ou planta só em imagem ou PDF | 447 | Em parte: desde 1997 o PDF do DR tem o texto dos quadros, que se transcreve pelas coordenadas (6 aplicados; ver "Anexos só em imagem"). Plantas, mapas e digitalizações anteriores a 1997 não |
+| Anexo, quadro, mapa ou planta só em imagem ou PDF | 447 | Em parte: desde 1997 o PDF do DR tem o texto dos quadros, que se transcreve pelas coordenadas (18 aplicados; ver "Anexos só em imagem"). Plantas, mapas e digitalizações anteriores a 1997 não |
 | Erro de texto do LLM (palavra, número, alínea) | 252 | Em parte: repedir só o artigo errado ao mesmo modelo resolveu alguns |
 | Títulos de divisão e epígrafes (secção, capítulo) | 74 | Em grande parte: o formato com títulos (rondas 40–43 e 60–61) já os trata |
 | Artigos a mais ou a menos | 39 | Caso a caso |
@@ -181,13 +181,67 @@ Cuidados:
 - O `juntar` reescreve as linhas de todos os diplomas em `llm/juntados-*.jsonl` e pode mudar-lhes a ordem. Antes de fazer commit, confirma-se que só mudaram os diplomas da ronda e repõe-se a ordem.
 - Uma ligação ao mesmo PDF pode aparecer em vários alteradores (a Portaria 269/2006 altera várias portarias). Cada transcrição é do alterador, não do original, e serve a todos os que ele altera.
 
+**Ronda 108: o corpo de um anexo sem artigos no pedido completo (13/11/2026).** Resultado: **2 aplicados**, a DN 11/2006 e a Portaria 353-E/2009.
+- **O problema.** No pedido completo, um anexo sem artigos (um quadro, uma lista) só aparecia como "Título de divisão", e a resposta só tinha artigos. A DN 11/2006 ficou sem o quadro, e na 353-E/2009 a resposta inventou um "Artigo ANEXO", que levou a assinatura de 2009 para depois dele.
+- **A escolha.** Em vez de mandar estes diplomas pelo pedido corrido (perdiam as notas por artigo e mudavam de formato), o `llm_completo.py` passou a aceitar o corpo do anexo. O pedido mostra o corpo a seguir ao título ("#### Corpo do anexo:"), só nos títulos "## Anexo …". A resposta tem um campo novo, `anexos` (`titulo`, `texto`, `alterador`), com a mesma verificação letra a letra dos artigos. `_mudar_corpo_do_anexo` troca as linhas entre o título e o título seguinte, seguidas da nota "> Alterado pelo/a …". O título tem de existir letra a letra e uma só vez.
+- **Os já verificados não mudam.** As respostas guardadas não têm o campo `anexos`, e o `juntar` só mudou estes dois diplomas no `juntados-completo.jsonl`.
+- **Consolidação.** Um pedido novo aos dois (Opus) passou a verificação letra a letra. Às cegas (`verificacao/entrada-piloto-108-lote-01.jsonl`, Sonnet), todos os trechos ficaram `certo`, cada um com a instrução citada ("Desp. Norm. 14/2008, art. 3.º: o anexo é substituído…"), e a assinatura ficou no sítio. O art. 4.º do Despacho Normativo 14/2008 ("as referências ao INGA consideram-se feitas ao IFAP") é uma remissão e não foi aplicado ao texto; o verificador concordou. `acervo.py`: `Recusados: 0`.
+
+**Ronda 109: a lista da Portaria 269/2006 (13/11/2026).** Resultado: **2 aplicados**, as Portarias 77/2001 e 1191/2000.
+- **A lista.** São 103 linhas (47 + 45 + 11) em três páginas, com 4 colunas: estabelecimento, mestrado, portaria e número. Não foi preciso ler os traços do quadro. As continuações vêm recuadas em todas as colunas (x 54 contra 45 na 1.ª, e 237 contra 229 na 2.ª), e uma linha nova começa sempre na 1.ª coluna sem recuo. O `anexos.py` passou a ter:
+  - `"recuo"`: só abre linha do quadro a linha com uma palavra da 1.ª coluna antes desse x; as outras continuam as células de cima, coluna a coluna;
+  - `"colunas_de_valor"`: nas colunas que nunca partem em duas linhas, um segundo valor fica na mesma célula, depois de "<br>". É o caso da chaveta do "Mestrado em Espaço Lusófono", com 177/98 e 1188/2000. O carácter "{" da chaveta, que o PDF tem como glifo, sai;
+  - um valor sozinho numa linha completa a célula vazia de cima: o "9.º" deslocado da Portaria 77/2003, que a imagem põe entre duas linhas;
+  - "Pós-" no fim da linha e "-Coloniais." na seguinte dão "Pós-Coloniais." (o DR repete o hífen das palavras compostas), e uma célula só com "10.o" passa a "10.º".
+
+  Nenhuma das transcrições já conferidas muda: as regras novas só se aplicam com "recuo", e nenhuma tinha "- -" nem células "N.o".
+- **Conferência.** Um verificador Sonnet que não fez a transcrição comparou as 412 células com as imagens. Achou 1 erro ("Pós- -Coloniais."), que levou à regra do hífen repetido. Corrigida a regra, só essa célula mudou. A chaveta e o 9.º deslocado conferem com a imagem.
+- **Consolidação.** Repetiu-se o pedido corrido (Opus). Na 1191/2000, a nova redação do «Regulamento» (n.º 2.º) entrou; na 77/2001 já tinha entrado na ronda 107, e o consolidado não mudou. Como o `cegas.py` só põe numa ronda os consolidados que mudaram, a linha da 77/2001 juntou-se à mão à entrada da ronda 109 (`cegas.linha_de`), com o alterador já com a lista. Às cegas (Sonnet), os 5 trechos ficaram `certo`. O verificador encontrou cada uma das duas portarias na lista (77/2001 com o n.º 9.º, 1191/2000 com o n.º 2.º). `Recusados: 0`.
+
+**Os 3 parciais da amostra** (DRR 13-D/97/M, Portarias 559/2005 e 412-I/99) não se resolvem com o recuo. Têm células fundidas na vertical, escritas uma só vez e centradas no vão, rótulos que valem até ao rótulo seguinte, quadros que passam da coluna esquerda para a direita e grupos "muitos para um" ligados por "ou" e "cumulativamente com". O alcance de uma célula fundida só se vê pelos traços horizontais do quadro. O PDFKit dá os caracteres mas não os traços, e por isso estes ficam por fazer.
+
+**Ronda 110: o guia sobre mais 9 dos travados por imagem (13/11/2026).** Resultado: **8 aplicados** de 9 tentados: as Portarias 908/2005, 321/2004, 913/98, 635/99, 641/98, 399/95, 1397/2004 e 793/89.
+- **A lista refeita.** Na última ronda de cada diploma (`verificacao/saida-piloto-*.jsonl`), **237** têm só reparos sobre imagem, quadro, tabela, mapa, planta ou PDF (eram 239: os aplicados saíram). Desses, 132 têm alteradores de 1997 em diante e não estão na amostra de 30, e 16 são planos de estudos.
+- **O lote.** 9 dos planos de estudos, escolhidos por ordem de id: as Portarias 908/2005, 120/99, 321/2004, 913/98, 635/99, 641/98, 399/95, 1397/2004 e 793/89. Um subagente Opus por diploma escreveu a especificação e correu o `anexos.py`; outro verificador, Sonnet, conferiu cada transcrição contra a imagem.
+  - **8 transcritos e conferidos, todos `certo`**, um alterador cada: 22 quadros, 214 linhas, cerca de 1.340 células, 0 erros. Os alteradores são as Portarias 997/2007, 829/2005, 328/2003, 17/2002, 877/2003, 1173/2000, 371/2005 e 1290/2002.
+  - **1 parado: Portaria 120/99.** Os dois alteradores (Portarias 1073/99 e 153/2003) têm "CAD 2D" e "CAD 3D" escritos sem espaço no PDF ("CAD2D"): o espaço só existe como largura a mais do "D". Pela regra, palavras coladas não se transcrevem.
+  - Formas que o verificador aceitou: um quadro que passa da coluna esquerda para a direita fica como dois quadros com o cabeçalho repetido, como no DR (Portaria 997/2007); um "ou" sozinho numa linha junta-se à unidade de cima ("Direito Internacional Privado ou") (Portaria 1173/2000).
+- **Consolidação.** Os 8 originais são de texto corrido e foram pelo pedido corrido (Opus, 2 pedidos de 4). As 8 respostas passaram a verificação letra a letra. Às cegas (`verificacao/entrada-piloto-110-lote-01.jsonl`, 3 vistas Sonnet), os 17 trechos ficaram `certo`, cada um com a instrução citada. Os quadros foram comparados célula a célula com os do alterador. Não houve instruções em falta. Uma ressalva: na Portaria 399/95, a 1173/2000 manda mudar "o plano de estudos do curso … autorizado pela Portaria n.º 750/89, alterada pela Portaria n.º 399/95". Como a 399/95 tinha substituído o plano da 750/89 pelo seu próprio anexo, o plano em vigor era o anexo da 399/95, e é esse que muda. O verificador e eu lemos o mesmo. Na 793/89, a Portaria 107/2005 visa outra portaria (182/95) e, bem, não se aplicou. `acervo.py`: aplicáveis 8, `Recusados: 0`.
+
+#### Balanço das rondas 106 a 110
+
+| Ronda | O quê | Tentados | Aplicados |
+| --- | --- | --: | --: |
+| 106 | Portaria 690/97 (primeiro caso) | 1 | 1 |
+| 107 | os outros 10 da amostra de 30 | 10 | 5 |
+| 108 | anexo sem artigos no pedido completo | 2 | 2 |
+| 109 | lista da Portaria 269/2006 | 2 | 2 |
+| 110 | guia sobre 9 planos de estudos fora da amostra | 9 | 8 |
+| **Total** | | **24** | **18** |
+
+Com os 18, há **2.733 diplomas** com o texto em vigor em `data/`. Em 13/11/2026 o caminho de uma transcrição custa, por diploma, um subagente Opus (a especificação), um verificador Sonnet (a conferência), um pedido Opus (a consolidação) e uma parte de uma vista às cegas Sonnet.
+
+#### OCR das digitalizações anteriores a 1997: medição (13/11/2026)
+
+O Vision não corre dentro do sandbox destas sessões. Tanto o `scripts/pdftext.swift` como o novo `scripts/pdfocr.swift` dão a página como "sem texto". Também não há outro motor de OCR na máquina (tesseract, ocrmypdf ou pytesseract). O `pdfocr.swift` dá, no formato do `pdfchars`, a caixa de cada palavra reconhecida, para o `pdf_colunas.py` fazer as colunas como no texto dos PDFs depois de 1997. Fica pronto para correr fora do sandbox.
+
+O que se mediu foi a leitura direta da imagem por dois modelos de visão, independentes um do outro (Sonnet e Opus). Usaram-se 3 páginas das 7 digitalizações da amostra de 30: o plano de estudos da Portaria 1420/95 (1995), os anexos da Portaria 106/92 (1993) e o quadro de pessoal do Decreto 355/72 (1972).
+
+| Página | Células (Sonnet / Opus) | Iguais letra a letra | Diferenças |
+| --- | --: | --: | --- |
+| Portaria 1420/95 (plano de estudos, impressão fraca) | 106 / 98 | 96 | "Obstétrica" / "Obtstétrica"; "Obstetrícia" / "Obstetricia"; linhas de cabeçalho contadas de forma diferente |
+| Portaria 106/92 (3 anexos pequenos) | 12 / 12 | 11 | uma célula com as linhas juntas por "<br>" ou por espaço |
+| Decreto 355/72 (quadro de pessoal, 54 cargos) | 158 / 158 | 158 | as 54 linhas de cargos iguais; os subtotais de cada grupo ficaram em linhas à parte numa leitura e não na outra |
+
+**Leitura.** As duas leituras discordam em 2 de cerca de 265 células de texto, e as duas discordâncias são de letra, nos sítios de impressão fraca. Também discordam na forma de cabeçalhos e subtotais. A concordância não prova fidelidade, porque os dois modelos podem errar da mesma maneira. Numa delas, um dos leitores também disse que "Pagador" tinha manchas. Assim, **não há fidelidade letra a letra provada, e nada daqui se aplicou.** Para aplicar seria preciso, pelo menos, um OCR a sério (o Vision fora do sandbox) com as colunas pelo `pdfocr`, e mais duas leituras independentes, aceitando só as células em que as três coincidem.
+
 #### O que falta
 
-1. **O pedido completo não substitui o corpo de um anexo sem artigos.** O anexo só tem o título de divisão como chave, e a resposta não tem onde pôr o quadro. Por isso falharam a DN 11/2006, com o quadro conferido mas sem sítio no consolidado, e a Portaria 353-E/2009, cuja chave "ANEXO" inventada levou consigo a assinatura. A correção é deixar o `llm_completo` aceitar o corpo de uma divisão, ou mandar estes diplomas pelo pedido corrido.
-2. **Listas com chavetas e continuações noutra coluna.** É o caso da lista da Portaria 269/2006: cerca de 170 linhas com as portarias a que se aplica a nova redação do «Regulamento». Sem ela, a Portaria 77/2001 fica em dúvida e a 1191/2000 com a instrução em falta. Ler os traços do quadro, que o PDF tem como segmentos, resolveria as chavetas e as células fundidas (também os 3 parciais da amostra).
-3. **PDFs com caracteres mal codificados.** Nos anexos da Portaria 919/2003 (Portarias 559/2004, 230/2005 e 1358/2006), "€" sai como "E" e há palavras sem espaço. Isto não se resolve sem corrigir à mão, e por isso fica de fora.
-4. **Digitalizações anteriores a 1997** (7 em 30): só com OCR de quadros, que não foi tentado. O OCR do Vision já está em `scripts/pdftext.swift`, mas sem as colunas.
-5. **Os outros 209 dos 239** não foram vistos. O passo seguinte é correr o guia sobre os de 1997 em diante, começando pelos planos de estudos, que são os que mais rendem.
+1. **Células fundidas na vertical e quadros que passam de coluna** (os 3 parciais da amostra). É preciso ler os traços horizontais do quadro, que o PDFKit não dá. O caminho é uma ferramenta com o `CGPDFScanner` (operadores `re`, `m`, `l`, com a matriz de transformação) que escreva os segmentos. O `anexos.py` daria então o vão de cada célula.
+2. **PDFs com caracteres mal codificados ou palavras coladas.** É o caso dos anexos da Portaria 919/2003 (Portarias 559/2004, 230/2005 e 1358/2006), com "€" lido como "E", e da Portaria 120/99 ("CAD2D"). Ficam de fora. As únicas fontes oficiais são o PDF do DR e o DRE, que só tem a ligação para a imagem. Não se encontrou outra fonte oficial com o texto certo, e por isso nada se reavaliou.
+3. **Digitalizações anteriores a 1997:** ver a medição acima. Falta correr o Vision fora do sandbox (`scripts/pdfocr.swift`) e medir com três leituras.
+4. **Os outros travados por imagem.** Dos 132 com alteradores de 1997 em diante, fora da amostra, viram-se 9. Rendimento da ronda 110: 8 em 9, muito acima do limite de 1 em 8, e por isso vale a pena seguir com lotes de 10. Seguem-se os outros 7 planos de estudos e, depois, os quadros que não são planos de estudos.
+5. **A Portaria 269/2006 altera muitas outras portarias de mestrado.** A lista transcrita serve a todas, mas só se repediram a 77/2001 e a 1191/2000, que já estavam na consolidação. As outras entram quando a consolidação as pedir.
 
 ### Triagem: alterações que as regras não leem (12/11/2026)
 

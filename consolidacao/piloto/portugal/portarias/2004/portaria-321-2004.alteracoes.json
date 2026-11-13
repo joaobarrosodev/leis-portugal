@@ -11,6 +11,20 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:210653:por",
-    "alterador": "pt:dre:667161:por"
+    "alterador": "pt:dre:667161:por;pt:dre:143336:por"
+  },
+  {
+    "artigo": "unidades 54-54",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/073b00/19541956.pdf)",
+    "depois": "| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários | Escolaridade (em horas totais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Gestão da Arquitectura — Projectos Integrados de Arquitectura. | Anual |  | 170 |  |  |  |  |\n| Tecnologia de Informação | Semestral |  | 20 |  |  |  |  |\n| Gestão do Ambiente | Semestral |  | 10 |  |  |  |  |\n| Gestão da Construção | Semestral |  | 10 |  |  |  |  |\n| Gestão da Qualidade Total na Construção | Semestral |  | 10 |  |  |  |  |\n| Saúde e Segurança no Ambiente Urbano | Semestral |  | 10 |  |  |  |  |\n| Reabilitação Arquitectónica e Urbana de Edifícios Históricos. | Semestral |  | 20 |  |  |  |  |\n| Sistemas Inteligentes | Semestral |  | 10 |  |  |  |  |\n| Gestão dos Recursos Físicos e de Sistemas | Semestral |  | 10 |  |  |  |  |\n| Workshops | Semestral |  | 10 |  |  |  |  |",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:210653:por",
+    "alterador": "pt:dre:667161:por;pt:dre:143336:por"
   }
 ]

@@ -6,13 +6,20 @@
       "ate": 46,
       "texto": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
       "alterador": 2
+    },
+    {
+      "de": 54,
+      "ate": 54,
+      "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários | Escolaridade (em horas totais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Gestão da Arquitectura — Projectos Integrados de Arquitectura. | Anual |  | 170 |  |  |  |  |\n| Tecnologia de Informação | Semestral |  | 20 |  |  |  |  |\n| Gestão do Ambiente | Semestral |  | 10 |  |  |  |  |\n| Gestão da Construção | Semestral |  | 10 |  |  |  |  |\n| Gestão da Qualidade Total na Construção | Semestral |  | 10 |  |  |  |  |\n| Saúde e Segurança no Ambiente Urbano | Semestral |  | 10 |  |  |  |  |\n| Reabilitação Arquitectónica e Urbana de Edifícios Históricos. | Semestral |  | 20 |  |  |  |  |\n| Sistemas Inteligentes | Semestral |  | 10 |  |  |  |  |\n| Gestão dos Recursos Físicos e de Sistemas | Semestral |  | 10 |  |  |  |  |\n| Workshops | Semestral |  | 10 |  |  |  |  |",
+      "alterador": 1
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, 1.º: o novo anexo (plano de estudos) só vem em imagem; não aplicado. 2.º e 3.º do alterador 1 são normas autónomas.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, 1.º: substituição do anexo por quadro em imagem, não aplicada",
-    "Alterador 2, 1.º: nova redação do número com a epígrafe Regulamento (10.º), corpo (unidades 43-46) substituído"
+    "Alterador 1, 1.º: novo plano de estudos do anexo; a unidade 54 (quadro em imagem) passa a ser o quadro do alterador (cabeçalhos do anexo iguais)",
+    "Alterador 1, 2.º e 3.º: transição e aplicação, não textuais",
+    "Alterador 2, 1.º: o n.º 10.º Regulamento (321/2004 consta do anexo) passa a ter o corpo novo único; unidades 43 a 46 substituídas, ficam número e epígrafe"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

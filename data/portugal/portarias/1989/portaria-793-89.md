@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-09-28'
+version_history:
+  file: portaria-793-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-09-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-09-28'
+    amending: pt:dre:647536:por
+    amending_title: Portaria n.º 1290/2002
+    changes:
+    - Adita Artigo depois da unidade 8
+    - Altera Artigo unidades 16-17
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:01:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1290/2002. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-793-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,6 +140,22 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Curso superior de Serviço Social.
 
+2.º-A
+
+Unidades curriculares de opção
+
+O elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.
+
+2.º-B
+
+Duração do ano e semestre lectivos
+
+1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.
+
+2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.
+
+> Aditado pelo/a [Portaria n.º 1290/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1290-2002-647536), publicado em 2002-09-23.
+
 3.º Ao curso referido no número anterior são reconhecidos os efeitos correspondentes aos da titularidade do grau de licenciatura do ensino superior público.
 
 4.º As habilitações mínimas que permitem o ingresso no curso atrás referido são as exigidas para o mesmo ou similares cursos do ensino público, sem prejuízo de outros requisitos que sejam estabelecidos no regulamento interno do Instituto Superior de Serviço Social de Lisboa, ora reconhecido.
@@ -138,6 +170,78 @@ O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 ## Anexo — INSTITUTO SUPERIOR DE SERVIÇO SOCIAL DE LISBOA
 
-Curso Superior de Serviço Social
+Instituto Superior de Serviço Social de Lisboa
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20700/39373938.pdf)
+Curso de Serviço Social
+
+Grau de licenciado
+
+QUADRO N.º 1
+
+1.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |
+| --- | --- | --- | --- | --- | --- |
+| Sociologia | Anual | 3 |  |  |  |
+| Economia | Anual | 3 |  |  |  |
+| Psicologia do Desenvolvimento | Anual | 3 |  |  |  |
+| História das Instituições Sociais e do Serviço Social | 1.º semestre | 4 |  |  |  |
+| Antropologia Cultural | 1.º semestre | 3 |  |  |  |
+| Introdução ao Estudo do Direito | 1.º semestre | 2 |  |  |  |
+| População e Território | 1.º semestre | 2 |  |  |  |
+| Teoria e Metodologia do Serviço Social I | 2.º semestre | 4 |  |  |  |
+| Métodos e Técnicas de Investigação Social I | 2.º semestre | 3 |  |  |  |
+| Direito de Família | 2.º semestre | 2 |  |  |  |
+| Contextos e Práticas do Serviço Social | 2.º semestre |  | 2 |  |  |
+
+QUADRO N.º 2
+
+2.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |
+| --- | --- | --- | --- | --- | --- |
+| Teoria e Metodologia do Serviço Social II | Anual | 4 |  |  |  |
+| Política Social I | Anual | 3 |  |  |  |
+| Métodos e Técnicas de Investigação Social II | Anual |  | 3 |  |  |
+| Estatística para as Ciências Sociais | Anual | 3 |  |  |  |
+| Sociologia da Organização Social | 1.º semestre | 3 |  |  |  |
+| Psicologia da Personalidade | 1.º semestre | 3 |  |  |  |
+| Economia Portuguesa e Europeia | 1.º semestre | 3 |  |  |  |
+| Sociologia da Vida Quotidiana | 2.º semestre | 3 |  |  |  |
+| Psicologia Social | 2.º semestre | 3 |  |  |  |
+| Economia Social | 2.º semestre | 3 |  |  |  |
+| Contexto e Práticas do Serviço Social | 2.º semestre |  | 2 |  |  |
+
+QUADRO N.º 3
+
+3.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |
+| --- | --- | --- | --- | --- | --- |
+| Teoria e Metodologia do Serviço Social III | Anual | 4 |  |  |  |
+| Seminário de Intervenção em Serviço Social | Anual | 3 |  |  |  |
+| Política Social II | 1.º semestre | 3 |  |  |  |
+| Supervisão em Serviço Social | 1.º semestre | 2 |  |  |  |
+| Administração Social | 1.º semestre | 3 |  |  |  |
+| Interacção Cultural nas Sociedades Complexas | 1.º semestre | 2 |  |  |  |
+| Psicologia Organizacional | 1.º semestre | 2 |  |  |  |
+| Direito de Menores | 1.º semestre | 2 |  |  |  |
+| Ética e Serviço Social | 2.º semestre | 2 |  |  |  |
+| Psicopatologia | 2.º semestre | 2 |  |  |  |
+| Estágio | 2.º semestre |  |  |  | 14 |
+
+QUADRO N.º 4
+
+4.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |
+| --- | --- | --- | --- | --- | --- |
+| Investigação em Serviço Social | Anual | 2 |  |  |  |
+| Seminário de Intervenção em Serviço Social | Anual | 3 |  |  |  |
+| Estágio | Anual |  |  |  | 18 |
+| Deontologia do Serviço Social | 1.º semestre | 2 |  |  |  |
+| Opção | 1.º semestre | 2 |  |  |  |
+| Opção | 2.º semestre | 2 |  |  |  |
+| Trabalho Final de Curso |  |  |  |  |  |
+
+> Alterado pelo/a [Portaria n.º 1290/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1290-2002-647536), publicado em 2002-09-23.

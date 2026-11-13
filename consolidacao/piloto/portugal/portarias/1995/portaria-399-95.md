@@ -7,9 +7,9 @@ consolidacao:
     pelo LLM), sem valor oficial'
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:644519:por
-    title: Portaria n.º 887/97
-    publication_date: '1997-09-10'
+  - id: pt:dre:583251:por
+    title: Portaria n.º 1173/2000
+    publication_date: '2000-12-14'
 ---
 
 # Portaria n.º 399/95
@@ -72,86 +72,52 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 ## ANEXO — Curso de mestrado em Direito
 
-Universidade Lusíada
+Curso de Direito
 
-Grau de mestre em Direito
+Grau de mestre
 
-Estrutura curricular do curso de especialização
+QUADRO N.º 1
 
-1 - Área científica - Direito.
+Área de especialização em Ciências Jurídico-Civilísticas
 
-2 - Áreas de especialização:
+| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |
+| --- | --- | --- | --- | --- | --- | --- |
+| Direito Civil | Anual | 3 |  |  |  |  |
+| Processo Civil | Anual | 3 |  |  |  |  |
+| Direito Internacional Privado ou | Anual | 3 |  |  |  |  |
+| Direito Comercial e das Empresas | Anual | 3 |  |  |  |  |
 
-a) Ciências Jurídico-Civilísticas;
+QUADRO N.º 2
 
-b) Ciências Jurídico-Empresariais;
+Área de especialização em Ciências Jurídico-Empresariais
 
-c) Ciências Jurídico-Políticas;
+| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |
+| --- | --- | --- | --- | --- | --- | --- |
+| Direito Comercial e das Empresas | Anual | 3 |  |  |  |  |
+| Direito do Trabalho | Anual | 3 |  |  |  |  |
+| Direito Comunitário ou | Anual | 3 |  |  |  |  |
+| Direito Fiscal | Anual | 3 |  |  |  |  |
 
-d) Ciências Jurídico-Criminais.
+QUADRO N.º 3
 
-3 - Duração normal do curso - dois semestres lectivos.
+Área de especialização em Ciências Jurídico-Políticas
 
-4 - Total de unidades de crédito necessárias para a conclusão do curso de especialização - 15.
+| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |
+| --- | --- | --- | --- | --- | --- | --- |
+| Direito Constitucional | Anual | 3 |  |  |  |  |
+| Direito Administrativo | Anual | 3 |  |  |  |  |
+| Direito Internacional Público ou | Anual | 3 |  |  |  |  |
+| Direito Comunitário | Anual | 3 |  |  |  |  |
 
-5 - Unidades de crédito:
+QUADRO N.º 4
 
-5.1 - Área de especialização em Ciências Jurídico-Civilísticas:
+Área de especialização em Ciências Jurídico-Criminais
 
-5.1.1 - Obrigatórias:
+| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |
+| --- | --- | --- | --- | --- | --- | --- |
+| Direito Penal | Anual | 3 |  |  |  |  |
+| Processo Penal | Anual | 3 |  |  |  |  |
+| Processo Civil ou | Anual | 3 |  |  |  |  |
+| Direito Constitucional | Anual | 3 |  |  |  |  |
 
-Direito Civil - 5;
-
-Processo Civil - 5;
-
-5.1.2 - Opcionais:
-
-Direito Internacional Privado - 5;
-
-Direito Comercial - 5;
-
-5.2 - Áreas de especialização em Ciências Jurídico-Empresariais:
-
-5.2.1 - Obrigatórias:
-
-Direito Comercial - 5;
-
-Direito do Trabalho - 5;
-
-5.2.2 - Opcionais:
-
-Direito das Empresas - 5;
-
-Direito Fiscal - 5;
-
-Direito da Segurança Social - 5;
-
-5.3 - Área de especialização em Ciências Jurídico-Políticas:
-
-5.3.1 - Obrigatórias:
-
-Direito Constitucional - 5;
-
-Direito Administrativo - 5;
-
-Direito Internacional Público - 5;
-
-5.3.2 - Opcionais - não tem.
-
-5.4 - Área de especialização em Ciências Jurídico-Criminais:
-
-5.4.1 - Obrigatórias:
-
-Direito Penal - 5;
-
-Processo Penal - 5;
-
-5.4.2 - Opcionais:
-
-Processo Civil - 5;
-
-Direito Constitucional - 5;
-
-Direito Internacional Penal - 5.
-
-> Alterado pelo/a [Portaria n.º 887/97](https://diariodarepublica.pt/dr/detalhe/portaria/887-1997-644519), publicado em 1997-09-10.
+> Alterado pelo/a [Portaria n.º 1173/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1173-2000-583251), publicado em 2000-12-14.

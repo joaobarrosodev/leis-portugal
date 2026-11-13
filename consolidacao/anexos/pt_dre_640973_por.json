@@ -1,0 +1,130 @@
+{
+ "id": "pt:dre:640973:por",
+ "titulo": "Portaria n.º 997/2007, anexo: plano de estudos republicado do curso profissional de técnico de vitrinismo",
+ "pdf": "https://files.diariodarepublica.pt/1s/2007/08/16500/0583505836.pdf",
+ "pdf_sha256": "ed3057f8dc993c4f0760f15caf87fd366f81a20f92df86a70ef838566571a6a9",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 1 quadros, 19 linhas e 42 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "colunas": [
+      [
+       "Componentes de formação",
+       0
+      ],
+      [
+       "Total de horas (a) (ciclo de formação)",
+       230
+      ]
+     ],
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 715,
+       "ate": 785,
+       "x_de": 0,
+       "x_ate": 300
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "colunas": [
+      [
+       "Componentes de formação",
+       0
+      ],
+      [
+       "Total de horas (a) (ciclo de formação)",
+       490
+      ]
+     ],
+     "recuo": 395,
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 120,
+       "ate": 128,
+       "x_de": 300
+      },
+      {
+       "pagina": 2,
+       "de": 137,
+       "ate": 141,
+       "x_de": 300
+      },
+      {
+       "pagina": 2,
+       "de": 132,
+       "ate": 137,
+       "x_de": 300
+      },
+      {
+       "pagina": 2,
+       "de": 146,
+       "ate": 150,
+       "x_de": 300
+      },
+      {
+       "pagina": 2,
+       "de": 141,
+       "ate": 145,
+       "x_de": 300
+      },
+      {
+       "pagina": 2,
+       "de": 155,
+       "ate": 160,
+       "x_de": 300
+      },
+      {
+       "pagina": 2,
+       "de": 150.5,
+       "ate": 155,
+       "x_de": 300
+      },
+      {
+       "pagina": 2,
+       "de": 165,
+       "ate": 275,
+       "x_de": 300
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 290,
+       "ate": 307,
+       "x_de": 300
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 309,
+       "ate": 322,
+       "x_de": 300
+      }
+     ]
+    }
+   ],
+   "colunas": null,
+   "texto": "| Componentes de formação | Total de horas (a) (ciclo de formação) |\n| --- | --- |\n| Sócio-cultural: |  |\n| Português | 320 |\n| Língua Estrangeira I, II ou III (b) | 220 |\n| Área de Integração | 220 |\n| Tecnologias da Informação e Comunicação | 100 |\n| Educação Física | 140 |\n| Subtotal | 1 000 |\n\n| Componentes de formação | Total de horas (a) (ciclo de formação) |\n| --- | --- |\n| Científica: |  |\n| História da Cultura e das Artes | 200 |\n| Geometria Descritiva | 200 |\n| Matemática | 100 |\n| Subtotal | 500 |\n| Técnica: |  |\n| Vitrinismo e Exposição | 380 |\n| Merchandising | 300 |\n| Design e Tecnologias da Comunicação | 300 |\n| Desenho | 200 |\n| Formação em Contexto de Trabalho | 420 |\n| Subtotal | 1 600 |\n| Total de horas/curso | 3 100 |\n\n(a) Carga horária global não compartimentada pelos três anos do ciclo de formação, a gerir pela escola no âmbito da sua autonomia pedagógica, acautelando o equilíbrio da carga anual de forma a optimizar a gestão modular e a formação em contexto de trabalho.\n\n(b) O aluno escolhe uma língua estrangeira. Se tiver estudado apenas uma língua estrangeira no ensino básico, iniciará, obrigatoriamente, uma segunda língua no ensino secundário."
+  }
+ ]
+}

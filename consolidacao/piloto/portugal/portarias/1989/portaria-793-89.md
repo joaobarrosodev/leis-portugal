@@ -58,6 +58,78 @@ O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 ## Anexo — INSTITUTO SUPERIOR DE SERVIÇO SOCIAL DE LISBOA
 
-Curso Superior de Serviço Social
+Instituto Superior de Serviço Social de Lisboa
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20700/39373938.pdf)
+Curso de Serviço Social
+
+Grau de licenciado
+
+QUADRO N.º 1
+
+1.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |
+| --- | --- | --- | --- | --- | --- |
+| Sociologia | Anual | 3 |  |  |  |
+| Economia | Anual | 3 |  |  |  |
+| Psicologia do Desenvolvimento | Anual | 3 |  |  |  |
+| História das Instituições Sociais e do Serviço Social | 1.º semestre | 4 |  |  |  |
+| Antropologia Cultural | 1.º semestre | 3 |  |  |  |
+| Introdução ao Estudo do Direito | 1.º semestre | 2 |  |  |  |
+| População e Território | 1.º semestre | 2 |  |  |  |
+| Teoria e Metodologia do Serviço Social I | 2.º semestre | 4 |  |  |  |
+| Métodos e Técnicas de Investigação Social I | 2.º semestre | 3 |  |  |  |
+| Direito de Família | 2.º semestre | 2 |  |  |  |
+| Contextos e Práticas do Serviço Social | 2.º semestre |  | 2 |  |  |
+
+QUADRO N.º 2
+
+2.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |
+| --- | --- | --- | --- | --- | --- |
+| Teoria e Metodologia do Serviço Social II | Anual | 4 |  |  |  |
+| Política Social I | Anual | 3 |  |  |  |
+| Métodos e Técnicas de Investigação Social II | Anual |  | 3 |  |  |
+| Estatística para as Ciências Sociais | Anual | 3 |  |  |  |
+| Sociologia da Organização Social | 1.º semestre | 3 |  |  |  |
+| Psicologia da Personalidade | 1.º semestre | 3 |  |  |  |
+| Economia Portuguesa e Europeia | 1.º semestre | 3 |  |  |  |
+| Sociologia da Vida Quotidiana | 2.º semestre | 3 |  |  |  |
+| Psicologia Social | 2.º semestre | 3 |  |  |  |
+| Economia Social | 2.º semestre | 3 |  |  |  |
+| Contexto e Práticas do Serviço Social | 2.º semestre |  | 2 |  |  |
+
+QUADRO N.º 3
+
+3.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |
+| --- | --- | --- | --- | --- | --- |
+| Teoria e Metodologia do Serviço Social III | Anual | 4 |  |  |  |
+| Seminário de Intervenção em Serviço Social | Anual | 3 |  |  |  |
+| Política Social II | 1.º semestre | 3 |  |  |  |
+| Supervisão em Serviço Social | 1.º semestre | 2 |  |  |  |
+| Administração Social | 1.º semestre | 3 |  |  |  |
+| Interacção Cultural nas Sociedades Complexas | 1.º semestre | 2 |  |  |  |
+| Psicologia Organizacional | 1.º semestre | 2 |  |  |  |
+| Direito de Menores | 1.º semestre | 2 |  |  |  |
+| Ética e Serviço Social | 2.º semestre | 2 |  |  |  |
+| Psicopatologia | 2.º semestre | 2 |  |  |  |
+| Estágio | 2.º semestre |  |  |  | 14 |
+
+QUADRO N.º 4
+
+4.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |
+| --- | --- | --- | --- | --- | --- |
+| Investigação em Serviço Social | Anual | 2 |  |  |  |
+| Seminário de Intervenção em Serviço Social | Anual | 3 |  |  |  |
+| Estágio | Anual |  |  |  | 18 |
+| Deontologia do Serviço Social | 1.º semestre | 2 |  |  |  |
+| Opção | 1.º semestre | 2 |  |  |  |
+| Opção | 2.º semestre | 2 |  |  |  |
+| Trabalho Final de Curso |  |  |  |  |  |
+
+> Alterado pelo/a [Portaria n.º 1290/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1290-2002-647536), publicado em 2002-09-23.

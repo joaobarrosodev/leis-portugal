@@ -1,0 +1,89 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:147636:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-09-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "55f4852d9ca6c415",
+    "793ec3a8b2ffd26d",
+    "3d92fbb605312ffb"
+   ]
+  },
+  {
+   "date": "2007-09-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:640973:por",
+     "title": "Portaria n.º 997/2007",
+     "published": "2007-08-28",
+     "dre_path": "/dr/detalhe/portaria/997-2007-640973"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 11-11",
+    "Altera Artigo unidades 13-13",
+    "Altera Artigo unidades 23-23"
+   ],
+   "fragments": [
+    "165780fba50158ac",
+    "466849c0bbfc0f89",
+    "3d92fbb605312ffb"
+   ]
+  }
+ ],
+ "fragments": {
+  "55f4852d9ca6c415": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Setembro\n\nO [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, estabeleceu os princípios orientadores da organização e gestão do currículo, bem como da avaliação e certificação das aprendizagens do nível secundário de educação, definindo a diversidade da oferta formativa do referido nível de educação, na qual se incluem os cursos profissionais vocacionados para a qualificação inicial dos alunos, privilegiando a sua inserção no mundo do trabalho e permitindo o prosseguimento de estudos.\n\nNo n.º 5 do seu artigo 5.º, determina o supramencionado decreto-lei que os cursos de nível secundário e os respectivos planos de estudos são criados e aprovados por portaria do Ministro da Educação.\n\nEntretanto, e ainda de acordo com o mesmo diploma, veio a [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio, regular, na sua especificidade, os cursos profissionais, definindo, no seu artigo 7.º, os requisitos formais a observar e determinando, no seu artigo 2.º, que a criação e a organização dos mesmos deverão obedecer, quanto às disciplinas, formação em contexto de trabalho e respectivas cargas horárias, à matriz curricular aprovada, bem como aos referenciais de formação das famílias profissionais em que se enquadram, concebidos, validados e aprovados de acordo com o estabelecido no seu artigo 3.º\n\nAssim, no âmbito da revisão curricular do ensino profissional e da racionalização da oferta formativa consagradas nos diplomas acima referidos, importa proceder à reestruturação dos cursos actualmente em vigor, criados ao abrigo da legislação anterior, e, consequentemente, aprovar os novos cursos e planos de estudos, à luz das novas regras e matriz curricular estabelecidas pelos citados [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, e [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio.\n\nNestes termos:\n\nAtento o disposto no n.º 5 do artigo 5.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, e ao abrigo dos n.os 1 e 2 do artigo 7.º da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio:\n\nManda o Governo, pela Ministra da Educação, o seguinte:\n\n1.º É criado o curso profissional de Técnico de Vitrinismo, visando a saída profissional de técnico de vitrinismo.\n\n2.º O curso criado no número anterior enquadra-se na família profissional de comércio e integra-se na área de educação e formação de Design (214), de acordo com a classificação aprovada pela [Portaria n.º 256/2005](https://diariodarepublica.pt/dr/detalhe/portaria/256-2005-572672), de 16 de Março.\n\n3.º O plano de estudos do curso agora criado é o constante do anexo n.º 1 da presente portaria, da qual faz parte integrante, e que resulta da reestruturação do curso profissional aprovado pelo diploma a que se refere o n.º 6.º\n\n4.º A componente de formação científica do referido curso é constituída pelas disciplinas de História da Cultura e das Artes, Geometria Descritiva e Matemática, das quais as duas primeiras, conjuntamente com a disciplina de Português, serão sujeitas a avaliação sumativa externa concretizada na realização de exames nacionais, nos termos e para os efeitos estabelecidos no artigo 11.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, conjugado com os artigos 26.º, 27.º e 30.º a 33.º da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio.\n\n5.º O perfil de desempenho à saída do curso é o constante do anexo n.º 2 do presente diploma.\n\n6.º Com a publicação da presente portaria é extinto o curso profissional de Técnico de Vitrinismo e Apresentação Visual, criado pela [Portaria n.º 607/2000](https://diariodarepublica.pt/dr/detalhe/portaria/607-2000-337254), de 14 de Agosto.\n\n7.º Pela presente, é revogada a portaria mencionada no número anterior.\n\n8.º Sem prejuízo do disposto no n.º 7.º, o plano de estudos do curso profissional agora extinto continuará em vigor até à conclusão do curso por parte dos alunos que, entretanto, o tiverem iniciado.\n\n9.º Aos alunos que concluírem com aproveitamento o presente curso profissional será atribuído um diploma de conclusão do nível secundário de educação e um certificado de qualificação profissional de nível 3, de acordo com o previsto nos n.os 1 e 2 do artigo 15.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, e no n.º 1 do artigo 33.º da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio.\n\n10.º A presente portaria produz efeitos a partir da data da sua assinatura.\n\nPela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Educação, em 7 de Setembro de 2005."
+  },
+  "793ec3a8b2ffd26d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO N.º 1 — Curso profissional de Técnico de Vitrinismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO N.º 1 — Curso profissional de Técnico de Vitrinismo\n\nPlano de estudos\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185b00/57985799.pdf)"
+  },
+  "3d92fbb605312ffb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO N.º 2 — Curso profissional de Técnico de Vitrinismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO N.º 2 — Curso profissional de Técnico de Vitrinismo\n\nSaída profissional: técnico de vitrinismo\n\nFamília profissional: comércio\n\nÁrea de educação e formação: 214 - Design\n\nPerfil de desempenho à saída do curso\n\nO técnico de vitrinismo é o profissional qualificado apto a conceber, organizar e executar a exposição e decoração de espaços de venda, de acordo com o posicionamento definido, com o objectivo de promover a imagem e o potencial dos produtos e ou serviços, garantindo a optimização da atractividade e rentabilidade desse espaço.\n\nAs actividades principais desempenhadas por este técnico são:\n\nAdaptar a dinâmica do mercado a diferentes espaços de venda;\n\nElaborar projectos de vitrinismo para os diferentes espaços de exposição, utilizando técnicas criativas e inovadoras, convidando o cliente à compra;\n\nAnalisar as potencialidades de exposição do produto e ou serviço e o perfil do público alvo através da recolha e análise de informações internas e externas à empresa;\n\nParticipar na concepção e execução de actividades de animação e promoção comercial;\n\nExecutar a exposição e decoração do espaço de venda de acordo com o projecto, bem como a sua manutenção e respectiva desmontagem;\n\nUtilizar o design como linguagem capaz de criar estilo, identidade da marca, da loja e da empresa, de acordo com o posicionamento definido;\n\nPropor e colaborar em projectos de decoração e de cenografia, relativos à organização, exposição e decoração, através de esboço, maquetas ou desenho técnico;\n\nUtilizar as novas tecnologias e as potencialidades da sociedade da informação e da comunicação na rentabilização do espaço de venda.\n\nCertificação escolar e profissional\n\nCurso do nível secundário de educação.\n\nQualificação profissional de nível 3."
+  },
+  "165780fba50158ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2007-09-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 997/2007](https://diariodarepublica.pt/dr/detalhe/portaria/997-2007-640973), publicado em 2007-08-28.",
+    "Alterado pelo/a [Portaria n.º 997/2007](https://diariodarepublica.pt/dr/detalhe/portaria/997-2007-640973), publicado em 2007-08-28."
+   ],
+   "markdown": "de 26 de Setembro\n\nO [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, estabeleceu os princípios orientadores da organização e gestão do currículo, bem como da avaliação e certificação das aprendizagens do nível secundário de educação, definindo a diversidade da oferta formativa do referido nível de educação, na qual se incluem os cursos profissionais vocacionados para a qualificação inicial dos alunos, privilegiando a sua inserção no mundo do trabalho e permitindo o prosseguimento de estudos.\n\nNo n.º 5 do seu artigo 5.º, determina o supramencionado decreto-lei que os cursos de nível secundário e os respectivos planos de estudos são criados e aprovados por portaria do Ministro da Educação.\n\nEntretanto, e ainda de acordo com o mesmo diploma, veio a [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio, regular, na sua especificidade, os cursos profissionais, definindo, no seu artigo 7.º, os requisitos formais a observar e determinando, no seu artigo 2.º, que a criação e a organização dos mesmos deverão obedecer, quanto às disciplinas, formação em contexto de trabalho e respectivas cargas horárias, à matriz curricular aprovada, bem como aos referenciais de formação das famílias profissionais em que se enquadram, concebidos, validados e aprovados de acordo com o estabelecido no seu artigo 3.º\n\nAssim, no âmbito da revisão curricular do ensino profissional e da racionalização da oferta formativa consagradas nos diplomas acima referidos, importa proceder à reestruturação dos cursos actualmente em vigor, criados ao abrigo da legislação anterior, e, consequentemente, aprovar os novos cursos e planos de estudos, à luz das novas regras e matriz curricular estabelecidas pelos citados [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, e [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio.\n\nNestes termos:\n\nAtento o disposto no n.º 5 do artigo 5.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, e ao abrigo dos n.os 1 e 2 do artigo 7.º da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio:\n\nManda o Governo, pela Ministra da Educação, o seguinte:\n\n1.º É criado o curso profissional de Técnico de Vitrinismo, visando a saída profissional de técnico de vitrinismo.\n\n2.º O curso criado no número anterior enquadra-se na família profissional de comércio e integra-se na área de educação e formação de comércio (341), de acordo com a classificação aprovada pela [Portaria n.º 256/2005](https://diariodarepublica.pt/dr/detalhe/portaria/256-2005-572672), de 16 de Março.\n\n> Alterado pelo/a [Portaria n.º 997/2007](https://diariodarepublica.pt/dr/detalhe/portaria/997-2007-640973), publicado em 2007-08-28.\n\n3.º O plano de estudos do curso agora criado é o constante do anexo n.º 1 da presente portaria, da qual faz parte integrante, e que resulta da reestruturação do curso profissional aprovado pelo diploma a que se refere o n.º 6.º\n\n4.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 997/2007](https://diariodarepublica.pt/dr/detalhe/portaria/997-2007-640973), publicado em 2007-08-28.\n\n5.º O perfil de desempenho à saída do curso é o constante do anexo n.º 2 do presente diploma.\n\n6.º Com a publicação da presente portaria é extinto o curso profissional de Técnico de Vitrinismo e Apresentação Visual, criado pela [Portaria n.º 607/2000](https://diariodarepublica.pt/dr/detalhe/portaria/607-2000-337254), de 14 de Agosto.\n\n7.º Pela presente, é revogada a portaria mencionada no número anterior.\n\n8.º Sem prejuízo do disposto no n.º 7.º, o plano de estudos do curso profissional agora extinto continuará em vigor até à conclusão do curso por parte dos alunos que, entretanto, o tiverem iniciado.\n\n9.º Aos alunos que concluírem com aproveitamento o presente curso profissional será atribuído um diploma de conclusão do nível secundário de educação e um certificado de qualificação profissional de nível 3, de acordo com o previsto nos n.os 1 e 2 do artigo 15.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, e no n.º 1 do artigo 33.º da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio.\n\n10.º A presente portaria produz efeitos a partir da data da sua assinatura.\n\nPela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Educação, em 7 de Setembro de 2005."
+  },
+  "466849c0bbfc0f89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO N.º 1 — Curso profissional de Técnico de Vitrinismo",
+   "in_force_from": "2007-09-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 997/2007](https://diariodarepublica.pt/dr/detalhe/portaria/997-2007-640973), publicado em 2007-08-28."
+   ],
+   "markdown": "## ANEXO N.º 1 — Curso profissional de Técnico de Vitrinismo\n\nPlano de estudos\n\n| Componentes de formação | Total de horas (a) (ciclo de formação) |\n| --- | --- |\n| Sócio-cultural: |  |\n| Português | 320 |\n| Língua Estrangeira I, II ou III (b) | 220 |\n| Área de Integração | 220 |\n| Tecnologias da Informação e Comunicação | 100 |\n| Educação Física | 140 |\n| Subtotal | 1 000 |\n\n| Componentes de formação | Total de horas (a) (ciclo de formação) |\n| --- | --- |\n| Científica: |  |\n| História da Cultura e das Artes | 200 |\n| Geometria Descritiva | 200 |\n| Matemática | 100 |\n| Subtotal | 500 |\n| Técnica: |  |\n| Vitrinismo e Exposição | 380 |\n| Merchandising | 300 |\n| Design e Tecnologias da Comunicação | 300 |\n| Desenho | 200 |\n| Formação em Contexto de Trabalho | 420 |\n| Subtotal | 1 600 |\n| Total de horas/curso | 3 100 |\n\n(a) Carga horária global não compartimentada pelos três anos do ciclo de formação, a gerir pela escola no âmbito da sua autonomia pedagógica, acautelando o equilíbrio da carga anual de forma a optimizar a gestão modular e a formação em contexto de trabalho.\n\n(b) O aluno escolhe uma língua estrangeira. Se tiver estudado apenas uma língua estrangeira no ensino básico, iniciará, obrigatoriamente, uma segunda língua no ensino secundário.\n\n> Alterado pelo/a [Portaria n.º 997/2007](https://diariodarepublica.pt/dr/detalhe/portaria/997-2007-640973), publicado em 2007-08-28."
+  }
+ }
+}

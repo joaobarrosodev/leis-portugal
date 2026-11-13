@@ -60,7 +60,37 @@ Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Ed
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185b00/57985799.pdf)
+| Componentes de formação | Total de horas (a) (ciclo de formação) |
+| --- | --- |
+| Sócio-cultural: |  |
+| Português | 320 |
+| Língua Estrangeira I, II ou III (b) | 220 |
+| Área de Integração | 220 |
+| Tecnologias da Informação e Comunicação | 100 |
+| Educação Física | 140 |
+| Subtotal | 1 000 |
+
+| Componentes de formação | Total de horas (a) (ciclo de formação) |
+| --- | --- |
+| Científica: |  |
+| História da Cultura e das Artes | 200 |
+| Geometria Descritiva | 200 |
+| Matemática | 100 |
+| Subtotal | 500 |
+| Técnica: |  |
+| Vitrinismo e Exposição | 380 |
+| Merchandising | 300 |
+| Design e Tecnologias da Comunicação | 300 |
+| Desenho | 200 |
+| Formação em Contexto de Trabalho | 420 |
+| Subtotal | 1 600 |
+| Total de horas/curso | 3 100 |
+
+(a) Carga horária global não compartimentada pelos três anos do ciclo de formação, a gerir pela escola no âmbito da sua autonomia pedagógica, acautelando o equilíbrio da carga anual de forma a optimizar a gestão modular e a formação em contexto de trabalho.
+
+(b) O aluno escolhe uma língua estrangeira. Se tiver estudado apenas uma língua estrangeira no ensino básico, iniciará, obrigatoriamente, uma segunda língua no ensino secundário.
+
+> Alterado pelo/a [Portaria n.º 997/2007](https://diariodarepublica.pt/dr/detalhe/portaria/997-2007-640973), publicado em 2007-08-28.
 
 ## ANEXO N.º 2 — Curso profissional de Técnico de Vitrinismo
 

@@ -1,6 +1,13 @@
 {
   "id": "pt:dre:448290:por",
-  "substituicoes": [],
+  "substituicoes": [
+    {
+      "de": 37,
+      "ate": 39,
+      "texto": "Universidade Lusófona de Humanidades e Tecnologias\n\nCurso de Filosofia\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Lógica | Anual |  | 3 |  |  |  |\n| História da Filosofia I | Anual |  | 3 |  |  |  |\n| Introdução ao Pensamento Contemporâneo | Anual |  | 2 |  |  |  |\n| Língua Clássica I | Anual |  | 4 |  |  |  |\n| Língua Moderna I | Anual |  | 3 |  |  |  |\n| Seminário I: Leitura, Exegese e Hermenêutica de Textos Filosóficos | Anual |  |  |  | 2 |  |\n| Epistemetodologia das Ciências Sociais e Humanas | Semestral |  | 3 |  |  |  |\n| Informática e Computação | Semestral |  | 3 |  |  |  |\n| Metodologia do Trabalho Científico | Semestral |  | 3 |  |  |  |\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Metafísica | Anual |  | 3 |  |  |  |\n| Cosmologia e Filosofia das Ciências | Anual |  | 3 |  |  |  |\n| Psicologia — Antropologia | Anual |  | 3 |  |  |  |\n| História da Filosofia II | Anual |  | 3 |  |  |  |\n| Língua Clássica II | Anual |  | 4 |  |  |  |\n| Língua Moderna II | Anual |  | 3 |  |  |  |\n| Seminário II: Leitura, Exegese e Hermenêutica de Textos Filosóficos | Anual |  |  |  | 2 |  |\n\nQUADRO N.º 3\n\n3.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| História da Filosofia III | Anual |  | 3 |  |  |  |\n| Seminário III: Leitura, Exegese e Hermenêutica de Textos Filosóficos | Anual |  |  |  | 2 |  |\n| Teologia ou Filosofia da Religião | Semestral |  | 3 |  |  |  |\n| Filosofia Política | Semestral |  | 3 |  |  |  |\n| Ética ou Filosofia Moral | Semestral |  | 3 |  |  |  |\n| Semiótica e Filosofia da Linguagem | Semestral |  | 3 |  |  |  |\n| Eco-Filosofia ou Filosofia Economológica | Semestral |  | 3 |  |  |  |\n| Filosofia da História | Semestral |  | 3 |  |  |  |\n| Filosofia do Direito | Semestral |  | 3 |  |  |  |\n| Estética e Poética | Semestral |  | 3 |  |  |  |\n| Introdução às Ciências Cognitivas | Semestral |  | 3 |  |  |  |\n| Opção | Semestral |  | 3 |  |  |  |\n\nQUADRO N.º 4\n\n4.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| História da Filosofia IV | Anual |  | 3 |  |  |  |\n| Inter-Transdisciplinaridades | Anual |  | 2 |  |  |  |\n| Seminário IV: Leitura, Exegese e Hermenêutica de Textos Filosóficos | Anual |  |  |  | 2 |  |\n| Filosofia da Educação, da Cultura e da Técnica | Semestral |  | 3 |  |  |  |\n| Filosofia da Vida Quotidiana | Semestral |  | 3 |  |  |  |\n| Filosofia no Espaço Lusófono: Portugal | Semestral |  | 3 |  |  |  |\n| Filosofia no Espaço Lusófono: Brasil | Semestral |  | 3 |  |  |  |\n| Filosofia no Espaço Lusófono: África e Ásia | Semestral |  | 3 |  |  |  |\n| Opção | Semestral |  | 3 |  |  |  |\n| Opção | Semestral |  | 3 |  |  |  |",
+      "alterador": 1
+    }
+  ],
   "insercoes": [
     {
       "depois_de": 17,
@@ -8,11 +15,10 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, 1.º: o anexo passa a ter a redacção do anexo da Portaria n.º 877/2003, cujos quadros só vêm em imagem; não aplicado.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, 1.º: substituição do anexo por quadros em imagem; não aplicada.",
-    "Alterador 1, 2.º: aditamento dos n.os 3.º-A e 3.º-B; inseridos a seguir ao 3.º (unidade 17).",
-    "Alterador 1, 3.º e 4.º: transição e aplicação; disposições autónomas, ignoradas."
+    "Alterador 1, 1.º: anexo passa a ter a redação do anexo da Portaria 877/2003; corpo do anexo (unidades 37-39) substituído pelos quadros, copiados como vêm.",
+    "Alterador 1, 2.º: aditados os n.os 3.º-A e 3.º-B; inseridos depois da unidade 17 (fim do 3.º)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

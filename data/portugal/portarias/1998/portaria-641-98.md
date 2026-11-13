@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-08-25'
+version_history:
+  file: portaria-641-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-08-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-25'
+    amending: pt:dre:654706:por
+    amending_title: Portaria n.º 877/2003
+    changes:
+    - Adita Artigo depois da unidade 17
+    - Altera Artigo unidades 37-39
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/641/1998/08/28/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:10:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 877/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-641-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,6 +175,22 @@ Plano de estudos
 
 É aprovado o plano de estudos do curso, nos termos do anexo à presente portaria.
 
+3.º-A
+
+Unidades curriculares de opção
+
+O elenco das unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.
+
+3.º-B
+
+Duração do ano e semestre lectivos
+
+1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.
+
+2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.
+
+> Aditado pelo/a [Portaria n.º 877/2003](https://diariodarepublica.pt/dr/detalhe/portaria/877-2003-654706), publicado em 2003-08-20.
+
 4.º
 
 Grau
@@ -197,8 +229,76 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 ## ANEXO — Universidade Lusófona de Humanidades e Tecnologias
 
-Curso: Filosofia
+Universidade Lusófona de Humanidades e Tecnologias
 
-Grau: licenciado
+Curso de Filosofia
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/08/198b00/44764478.pdf)
+Grau de licenciado
+
+QUADRO N.º 1
+
+1.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Lógica | Anual |  | 3 |  |  |  |
+| História da Filosofia I | Anual |  | 3 |  |  |  |
+| Introdução ao Pensamento Contemporâneo | Anual |  | 2 |  |  |  |
+| Língua Clássica I | Anual |  | 4 |  |  |  |
+| Língua Moderna I | Anual |  | 3 |  |  |  |
+| Seminário I: Leitura, Exegese e Hermenêutica de Textos Filosóficos | Anual |  |  |  | 2 |  |
+| Epistemetodologia das Ciências Sociais e Humanas | Semestral |  | 3 |  |  |  |
+| Informática e Computação | Semestral |  | 3 |  |  |  |
+| Metodologia do Trabalho Científico | Semestral |  | 3 |  |  |  |
+
+QUADRO N.º 2
+
+2.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Metafísica | Anual |  | 3 |  |  |  |
+| Cosmologia e Filosofia das Ciências | Anual |  | 3 |  |  |  |
+| Psicologia — Antropologia | Anual |  | 3 |  |  |  |
+| História da Filosofia II | Anual |  | 3 |  |  |  |
+| Língua Clássica II | Anual |  | 4 |  |  |  |
+| Língua Moderna II | Anual |  | 3 |  |  |  |
+| Seminário II: Leitura, Exegese e Hermenêutica de Textos Filosóficos | Anual |  |  |  | 2 |  |
+
+QUADRO N.º 3
+
+3.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| História da Filosofia III | Anual |  | 3 |  |  |  |
+| Seminário III: Leitura, Exegese e Hermenêutica de Textos Filosóficos | Anual |  |  |  | 2 |  |
+| Teologia ou Filosofia da Religião | Semestral |  | 3 |  |  |  |
+| Filosofia Política | Semestral |  | 3 |  |  |  |
+| Ética ou Filosofia Moral | Semestral |  | 3 |  |  |  |
+| Semiótica e Filosofia da Linguagem | Semestral |  | 3 |  |  |  |
+| Eco-Filosofia ou Filosofia Economológica | Semestral |  | 3 |  |  |  |
+| Filosofia da História | Semestral |  | 3 |  |  |  |
+| Filosofia do Direito | Semestral |  | 3 |  |  |  |
+| Estética e Poética | Semestral |  | 3 |  |  |  |
+| Introdução às Ciências Cognitivas | Semestral |  | 3 |  |  |  |
+| Opção | Semestral |  | 3 |  |  |  |
+
+QUADRO N.º 4
+
+4.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| História da Filosofia IV | Anual |  | 3 |  |  |  |
+| Inter-Transdisciplinaridades | Anual |  | 2 |  |  |  |
+| Seminário IV: Leitura, Exegese e Hermenêutica de Textos Filosóficos | Anual |  |  |  | 2 |  |
+| Filosofia da Educação, da Cultura e da Técnica | Semestral |  | 3 |  |  |  |
+| Filosofia da Vida Quotidiana | Semestral |  | 3 |  |  |  |
+| Filosofia no Espaço Lusófono: Portugal | Semestral |  | 3 |  |  |  |
+| Filosofia no Espaço Lusófono: Brasil | Semestral |  | 3 |  |  |  |
+| Filosofia no Espaço Lusófono: África e Ásia | Semestral |  | 3 |  |  |  |
+| Opção | Semestral |  | 3 |  |  |  |
+| Opção | Semestral |  | 3 |  |  |  |
+
+> Alterado pelo/a [Portaria n.º 877/2003](https://diariodarepublica.pt/dr/detalhe/portaria/877-2003-654706), publicado em 2003-08-20.

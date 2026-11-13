@@ -120,12 +120,22 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 ## ANEXO — Universidade Lusófona de Humanidades e Tecnologias
 
-Curso: Ciências da Educação
+Curso de especialização em Ciências da Educação
 
-Grau: mestre
+Grau de mestre
 
-QUADRO ÚNICO
+| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| O Desenvolvimento Pessoal e Social. A Natureza, a Cultura e a Sociedade. | Semestral | 30 |  |  |  |  |
+| Mundialização da Economia e Desenvolvimento Local. Aspectos Sociais do Desenvolvimento. | Semestral | 30 |  |  |  |  |
+| Educação, Ciência e Tecnologia, Investimento Imaterial e Prioridade à Produção de Conhecimentos. | Semestral | 30 |  |  |  |  |
+| Formação de Recursos Humanos, Mercado de Trabalho e Políticas Educativas. | Semestral | 30 |  |  |  |  |
+| Processos de Produção de Conhecimentos | Semestral | 30 |  |  |  |  |
+| Metodologias de Investigação em Educação | Semestral |  | 44 |  |  |  |
+| Projecto de Investigação | Semestral |  |  |  | 60 |  |
+| As Teorias da Mudança Social e a Mudança Educativa | Semestral | 30 |  |  |  |  |
+| A Formação dos Modernos Sistemas Educativos. Uma Perspectiva Histórica. | Semestral | 30 |  |  |  |  |
+| O Estado e as Políticas de Educação. Aspectos Metodológicos. | Semestral | 30 |  |  |  |  |
+| Educação Comparada. Perspectivas e Debates Actuais | Semestral | 45 |  |  |  |  |
 
-1.º ano
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/242b00/54765477.pdf)
+> Alterado pelo/a [Portaria n.º 328/2003](https://diariodarepublica.pt/dr/detalhe/portaria/328-2003-239778), publicado em 2003-04-22.

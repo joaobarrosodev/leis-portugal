@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:513065:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-05-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "629d39b8a7d9b6f1",
+    "fbea11a8c0493edf"
+   ]
+  },
+  {
+   "date": "2000-12-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:583251:por",
+     "title": "Portaria n.º 1173/2000",
+     "published": "2000-12-14",
+     "dre_path": "/dr/detalhe/portaria/1173-2000-583251"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 31-31"
+   ],
+   "fragments": [
+    "629d39b8a7d9b6f1",
+    "a0b99161d4781e0f"
+   ]
+  }
+ ],
+ "fragments": {
+  "629d39b8a7d9b6f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Maio\n\nTendo em conta a proposta apresentada ao Ministério da Educação pelos responsáveis da Universidade Lusíada, estabelecimento de ensino autorizado, ao abrigo e nos termos do [Decreto-Lei n.º 100-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-b-1985-187955), de 8 de Abril, pelo Despacho n.º 135/MEC/86, de 21 de Junho;\n\nConsiderando que aquela proposta foi elaborada sob a responsabilidade do competente conselho pedagógico e científico da Universidade Lusíada;\n\nAo abrigo do artigo 67.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, e com base no n.º 1 do artigo 64.º do mesmo diploma:\n\nManda o Governo, pela Ministra da Educação, o seguinte:\n\n1.º É alterado o regime do curso de mestrado em Direito da Universidade Lusíada e respectivo plano curricular de acordo com a presente portaria.\n\n2.º O regime e plano curricular ora publicados substituem o aprovado pela [Portaria n.º 750/89](https://diariodarepublica.pt/dr/detalhe/portaria/750-1989-547008), de 31 de Agosto, e considera-se em vigor a partir do ano lectivo de 1994-1995.\n\n3.º A Universidade Lusíada confere o grau de mestre em Direito nas seguintes áreas de especialização:\n\na) Ciências Jurídico-Civilísticas;\n\nb) Ciências Jurídico-Empresariais;\n\nc) Ciências Jurídico-Políticas;\n\nd) Ciências Jurídico-Criminais.\n\n4.º A área científica do curso é a de Direito.\n\n5.º O curso de especialização, conducente ao mestrado em Direito, em qualquer das suas especializações, está sujeito ao sistema de unidades de crédito, podendo incluir disciplinas de opção ao lado de disciplinas fixas ou obrigatórias.\n\n6.º São 15 as unidades de crédito necessárias à conclusão do curso de especialização, das quais pelo menos 10 terão de corresponder a disciplinas fixas ou obrigatórias.\n\n7.º Cada disciplina do curso de especialização, quer fixa ou obrigatória, quer de opção, será leccionada em dois semestres consecutivos, equivalendo a sua frequência com aproveitamento final a 5 unidades de crédito.\n\n8.º As disciplinas fixas ou obrigatórias e de opção para cada uma das áreas de especialização são as constantes do quadro anexo à presente portaria.\n\n9.º De entre as disciplinas de opção, o conselho pedagógico e científico indicará, em cada ano, aquelas que deverão funcionar para cada área de especialização.\n\n10.º A duração normal do curso de especialização é de dois semestres lectivos.\n\n11.º O curso de mestrado concluir-se-á com a apreciação e discussão de uma dissertação sobre qualquer dos temas das áreas de especialização frequentadas, que o mestrando apresentará no prazo de um ano após a conclusão do curso de especialização.\n\n12.º - 1 - São admitidos à primeira matrícula no curso os licenciados em Direito ou titulares de habilitação legalmente equivalente com classificação igual ou superior a 14 valores.\n\n2 - Excepcionalmente, em casos devidamente justificados, pode o júri de admissão admitir à candidatura à matrícula no curso candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.\n\n13.º - 1 - As regras de matrícula e de inscrição, de composição e de funcionamento dos júris de admissão, o regime de precedências, os métodos de avaliação de conhecimentos e o calendário lectivo serão fixados pelos órgãos competentes da Universidade.\n\n2 - Em tudo o que não estiver previsto na presente portaria aplicar-se-ão as normas gerais regulamentadoras dos cursos de mestrado e, subsidiariamente, as normas por que se regem os cursos de licenciatura afins.\n\n14.º O funcionamento do curso fica dependente da existência na Universidade Lusíada de todos os recursos humanos e materiais necessários ao seu regular funcionamento.\n\nMinistério da Educação.\n\nAssinada em 16 de Março de 1995.\n\nPela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior."
+  },
+  "fbea11a8c0493edf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Curso de mestrado em Direito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Curso de mestrado em Direito\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/102b00/24772478.pdf)"
+  },
+  "a0b99161d4781e0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Curso de mestrado em Direito",
+   "in_force_from": "2000-12-19",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1173/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1173-2000-583251), publicado em 2000-12-14."
+   ],
+   "markdown": "## ANEXO — Curso de mestrado em Direito\n\nCurso de Direito\n\nGrau de mestre\n\nQUADRO N.º 1\n\nÁrea de especialização em Ciências Jurídico-Civilísticas\n\n| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |\n| --- | --- | --- | --- | --- | --- | --- |\n| Direito Civil | Anual | 3 |  |  |  |  |\n| Processo Civil | Anual | 3 |  |  |  |  |\n| Direito Internacional Privado ou | Anual | 3 |  |  |  |  |\n| Direito Comercial e das Empresas | Anual | 3 |  |  |  |  |\n\nQUADRO N.º 2\n\nÁrea de especialização em Ciências Jurídico-Empresariais\n\n| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |\n| --- | --- | --- | --- | --- | --- | --- |\n| Direito Comercial e das Empresas | Anual | 3 |  |  |  |  |\n| Direito do Trabalho | Anual | 3 |  |  |  |  |\n| Direito Comunitário ou | Anual | 3 |  |  |  |  |\n| Direito Fiscal | Anual | 3 |  |  |  |  |\n\nQUADRO N.º 3\n\nÁrea de especialização em Ciências Jurídico-Políticas\n\n| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |\n| --- | --- | --- | --- | --- | --- | --- |\n| Direito Constitucional | Anual | 3 |  |  |  |  |\n| Direito Administrativo | Anual | 3 |  |  |  |  |\n| Direito Internacional Público ou | Anual | 3 |  |  |  |  |\n| Direito Comunitário | Anual | 3 |  |  |  |  |\n\nQUADRO N.º 4\n\nÁrea de especialização em Ciências Jurídico-Criminais\n\n| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |\n| --- | --- | --- | --- | --- | --- | --- |\n| Direito Penal | Anual | 3 |  |  |  |  |\n| Processo Penal | Anual | 3 |  |  |  |  |\n| Processo Civil ou | Anual | 3 |  |  |  |  |\n| Direito Constitucional | Anual | 3 |  |  |  |  |\n\n> Alterado pelo/a [Portaria n.º 1173/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1173-2000-583251), publicado em 2000-12-14."
+  }
+ }
+}

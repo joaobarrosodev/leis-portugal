@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-09-02'
+version_history:
+  file: portaria-908-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-09-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-09-02'
+    amending: pt:dre:640973:por
+    amending_title: Portaria n.º 997/2007
+    changes:
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 23-23
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/908/2005/09/26/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:09:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 997/2007. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-908-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,11 +158,15 @@ Manda o Governo, pela Ministra da Educação, o seguinte:
 
 1.º É criado o curso profissional de Técnico de Vitrinismo, visando a saída profissional de técnico de vitrinismo.
 
-2.º O curso criado no número anterior enquadra-se na família profissional de comércio e integra-se na área de educação e formação de Design (214), de acordo com a classificação aprovada pela [Portaria n.º 256/2005](https://diariodarepublica.pt/dr/detalhe/portaria/256-2005-572672), de 16 de Março.
+2.º O curso criado no número anterior enquadra-se na família profissional de comércio e integra-se na área de educação e formação de comércio (341), de acordo com a classificação aprovada pela [Portaria n.º 256/2005](https://diariodarepublica.pt/dr/detalhe/portaria/256-2005-572672), de 16 de Março.
+
+> Alterado pelo/a [Portaria n.º 997/2007](https://diariodarepublica.pt/dr/detalhe/portaria/997-2007-640973), publicado em 2007-08-28.
 
 3.º O plano de estudos do curso agora criado é o constante do anexo n.º 1 da presente portaria, da qual faz parte integrante, e que resulta da reestruturação do curso profissional aprovado pelo diploma a que se refere o n.º 6.º
 
-4.º A componente de formação científica do referido curso é constituída pelas disciplinas de História da Cultura e das Artes, Geometria Descritiva e Matemática, das quais as duas primeiras, conjuntamente com a disciplina de Português, serão sujeitas a avaliação sumativa externa concretizada na realização de exames nacionais, nos termos e para os efeitos estabelecidos no artigo 11.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, conjugado com os artigos 26.º, 27.º e 30.º a 33.º da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio.
+4.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 997/2007](https://diariodarepublica.pt/dr/detalhe/portaria/997-2007-640973), publicado em 2007-08-28.
 
 5.º O perfil de desempenho à saída do curso é o constante do anexo n.º 2 do presente diploma.
 
@@ -165,7 +186,37 @@ Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Ed
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185b00/57985799.pdf)
+| Componentes de formação | Total de horas (a) (ciclo de formação) |
+| --- | --- |
+| Sócio-cultural: |  |
+| Português | 320 |
+| Língua Estrangeira I, II ou III (b) | 220 |
+| Área de Integração | 220 |
+| Tecnologias da Informação e Comunicação | 100 |
+| Educação Física | 140 |
+| Subtotal | 1 000 |
+
+| Componentes de formação | Total de horas (a) (ciclo de formação) |
+| --- | --- |
+| Científica: |  |
+| História da Cultura e das Artes | 200 |
+| Geometria Descritiva | 200 |
+| Matemática | 100 |
+| Subtotal | 500 |
+| Técnica: |  |
+| Vitrinismo e Exposição | 380 |
+| Merchandising | 300 |
+| Design e Tecnologias da Comunicação | 300 |
+| Desenho | 200 |
+| Formação em Contexto de Trabalho | 420 |
+| Subtotal | 1 600 |
+| Total de horas/curso | 3 100 |
+
+(a) Carga horária global não compartimentada pelos três anos do ciclo de formação, a gerir pela escola no âmbito da sua autonomia pedagógica, acautelando o equilíbrio da carga anual de forma a optimizar a gestão modular e a formação em contexto de trabalho.
+
+(b) O aluno escolhe uma língua estrangeira. Se tiver estudado apenas uma língua estrangeira no ensino básico, iniciará, obrigatoriamente, uma segunda língua no ensino secundário.
+
+> Alterado pelo/a [Portaria n.º 997/2007](https://diariodarepublica.pt/dr/detalhe/portaria/997-2007-640973), publicado em 2007-08-28.
 
 ## ANEXO N.º 2 — Curso profissional de Técnico de Vitrinismo
 

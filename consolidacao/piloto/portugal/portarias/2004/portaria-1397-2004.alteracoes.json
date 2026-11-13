@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:548672:por",
     "alterador": "pt:dre:563255:por"
+  },
+  {
+    "artigo": "unidades 40-40",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/264b00/66926693.pdf)",
+    "depois": "| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários | Escolaridade (em horas totais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Estágio de Planeamento da Saúde | Anual |  |  |  |  | 300 |  |\n| Epidemiologia Estatística e Demografia | 1.º semestre | 30 | 15 |  |  |  |  |\n| Enfermagem Comunitária | 1.º semestre | 90 | 45 |  |  |  |  |\n| Ambiente e Saúde | 1.º semestre | 30 |  |  |  |  |  |\n| Administração em Saúde | 1.º semestre | 45 | 15 |  |  |  |  |\n| Economia e Saúde | 2.º semestre | 30 |  |  |  |  |  |\n| Educação e Saúde | 2.º semestre | 30 |  |  |  |  |  |\n| Psicossociologia do Trabalho e das Organizações de Saúde. | 2.º semestre | 30 |  |  |  |  |  |\n| Ética e Ambiente | 2.º semestre | 30 | 15 |  |  |  |  |\n| Metodologia do Diagnóstico de Saúde | 2.º semestre | 15 | 30 |  |  |  |  |\n| Estágio de Intervenção Comunitária I | 2.º semestre |  |  |  |  | 300 |  |\n| Estágio de Intervenção Comunitária II | 3.º semestre |  |  |  |  | 300 |  |",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:548672:por",
+    "alterador": "pt:dre:563255:por"
   }
 ]

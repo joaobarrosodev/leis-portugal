@@ -1,0 +1,184 @@
+{
+ "id": "pt:dre:647536:por",
+ "titulo": "Portaria n.º 1290/2002, anexo: quadros n.os 1 a 4 do plano de estudos",
+ "pdf": "https://files.diariodarepublica.pt/1s/2002/09/220b00/65146516.pdf",
+ "pdf_sha256": "1ed6ef7700758ce4b0e398a04b613da0fbeb83c4f6b9ea43d80c86f2ad8a4a0f",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 4,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 4 quadros, 40 linhas e 240 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 235,
+       "ate": 348
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     301
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     380
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     440
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     472
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     505
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |\n| --- | --- | --- | --- | --- | --- |\n| Sociologia | Anual | 3 |  |  |  |\n| Economia | Anual | 3 |  |  |  |\n| Psicologia do Desenvolvimento | Anual | 3 |  |  |  |\n| História das Instituições Sociais e do Serviço Social | 1.º semestre | 4 |  |  |  |\n| Antropologia Cultural | 1.º semestre | 3 |  |  |  |\n| Introdução ao Estudo do Direito | 1.º semestre | 2 |  |  |  |\n| População e Território | 1.º semestre | 2 |  |  |  |\n| Teoria e Metodologia do Serviço Social I | 2.º semestre | 4 |  |  |  |\n| Métodos e Técnicas de Investigação Social I | 2.º semestre | 3 |  |  |  |\n| Direito de Família | 2.º semestre | 2 |  |  |  |\n| Contextos e Práticas do Serviço Social | 2.º semestre |  | 2 |  |  |"
+  },
+  {
+   "ocorrencia": 2,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 455,
+       "ate": 565
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     301
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     380
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     440
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     472
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     505
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |\n| --- | --- | --- | --- | --- | --- |\n| Teoria e Metodologia do Serviço Social II | Anual | 4 |  |  |  |\n| Política Social I | Anual | 3 |  |  |  |\n| Métodos e Técnicas de Investigação Social II | Anual |  | 3 |  |  |\n| Estatística para as Ciências Sociais | Anual | 3 |  |  |  |\n| Sociologia da Organização Social | 1.º semestre | 3 |  |  |  |\n| Psicologia da Personalidade | 1.º semestre | 3 |  |  |  |\n| Economia Portuguesa e Europeia | 1.º semestre | 3 |  |  |  |\n| Sociologia da Vida Quotidiana | 2.º semestre | 3 |  |  |  |\n| Psicologia Social | 2.º semestre | 3 |  |  |  |\n| Economia Social | 2.º semestre | 3 |  |  |  |\n| Contexto e Práticas do Serviço Social | 2.º semestre |  | 2 |  |  |"
+  },
+  {
+   "ocorrencia": 3,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 676,
+       "ate": 787
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     301
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     380
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     440
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     472
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     505
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |\n| --- | --- | --- | --- | --- | --- |\n| Teoria e Metodologia do Serviço Social III | Anual | 4 |  |  |  |\n| Seminário de Intervenção em Serviço Social | Anual | 3 |  |  |  |\n| Política Social II | 1.º semestre | 3 |  |  |  |\n| Supervisão em Serviço Social | 1.º semestre | 2 |  |  |  |\n| Administração Social | 1.º semestre | 3 |  |  |  |\n| Interacção Cultural nas Sociedades Complexas | 1.º semestre | 2 |  |  |  |\n| Psicologia Organizacional | 1.º semestre | 2 |  |  |  |\n| Direito de Menores | 1.º semestre | 2 |  |  |  |\n| Ética e Serviço Social | 2.º semestre | 2 |  |  |  |\n| Psicopatologia | 2.º semestre | 2 |  |  |  |\n| Estágio | 2.º semestre |  |  |  | 14 |"
+  },
+  {
+   "ocorrencia": 4,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 158,
+       "ate": 225
+      }
+     ],
+     "recuo": 50
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     301
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     380
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     440
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     472
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     505
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |\n| --- | --- | --- | --- | --- | --- |\n| Investigação em Serviço Social | Anual | 2 |  |  |  |\n| Seminário de Intervenção em Serviço Social | Anual | 3 |  |  |  |\n| Estágio | Anual |  |  |  | 18 |\n| Deontologia do Serviço Social | 1.º semestre | 2 |  |  |  |\n| Opção | 1.º semestre | 2 |  |  |  |\n| Opção | 2.º semestre | 2 |  |  |  |\n| Trabalho Final de Curso |  |  |  |  |  |"
+  }
+ ]
+}

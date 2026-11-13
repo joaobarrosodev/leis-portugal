@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-04-27'
+version_history:
+  file: portaria-913-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-10-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-04-27'
+    amending: pt:dre:239778:por
+    amending_title: Portaria n.º 328/2003
+    changes:
+    - Adita Artigo depois da unidade 28
+    - Altera Artigo unidades 51-55
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/913/1998/10/20/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:11:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 328/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-913-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,6 +197,14 @@ Número máximo de alunos
 
 2 - O número de novos alunos a admitir anualmente não pode exceder 20.
 
+5.º-A
+
+Duração
+
+O curso de especialização tem a duração de dois semestres lectivos.
+
+> Aditado pelo/a [Portaria n.º 328/2003](https://diariodarepublica.pt/dr/detalhe/portaria/328-2003-239778), publicado em 2003-04-22.
+
 6.º
 
 Plano de estudos
@@ -225,12 +249,22 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 ## ANEXO — Universidade Lusófona de Humanidades e Tecnologias
 
-Curso: Ciências da Educação
+Curso de especialização em Ciências da Educação
 
-Grau: mestre
+Grau de mestre
 
-QUADRO ÚNICO
+| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| O Desenvolvimento Pessoal e Social. A Natureza, a Cultura e a Sociedade. | Semestral | 30 |  |  |  |  |
+| Mundialização da Economia e Desenvolvimento Local. Aspectos Sociais do Desenvolvimento. | Semestral | 30 |  |  |  |  |
+| Educação, Ciência e Tecnologia, Investimento Imaterial e Prioridade à Produção de Conhecimentos. | Semestral | 30 |  |  |  |  |
+| Formação de Recursos Humanos, Mercado de Trabalho e Políticas Educativas. | Semestral | 30 |  |  |  |  |
+| Processos de Produção de Conhecimentos | Semestral | 30 |  |  |  |  |
+| Metodologias de Investigação em Educação | Semestral |  | 44 |  |  |  |
+| Projecto de Investigação | Semestral |  |  |  | 60 |  |
+| As Teorias da Mudança Social e a Mudança Educativa | Semestral | 30 |  |  |  |  |
+| A Formação dos Modernos Sistemas Educativos. Uma Perspectiva Histórica. | Semestral | 30 |  |  |  |  |
+| O Estado e as Políticas de Educação. Aspectos Metodológicos. | Semestral | 30 |  |  |  |  |
+| Educação Comparada. Perspectivas e Debates Actuais | Semestral | 45 |  |  |  |  |
 
-1.º ano
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/10/242b00/54765477.pdf)
+> Alterado pelo/a [Portaria n.º 328/2003](https://diariodarepublica.pt/dr/detalhe/portaria/328-2003-239778), publicado em 2003-04-22.

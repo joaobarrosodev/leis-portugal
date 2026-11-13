@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-11-15'
+version_history:
+  file: portaria-635-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-08-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-11-15'
+    amending: pt:dre:584855:por
+    amending_title: Portaria n.º 17/2002; Portaria n.º 1391/2004
+    changes:
+    - Altera Artigo unidades 13-14
+    - Altera Artigo unidades 40-42
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/635/1999/08/11/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:16:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 17/2002; Portaria n.º
+    1391/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-635-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -160,9 +176,11 @@ Autorização de funcionamento
 
 Número máximo de alunos
 
-1 - O número de novos alunos a admitir anualmente não pode exceder 50.
+1 - O número máximo de novos alunos a admitir anualmente não pode exceder 75.
 
-2 - A frequência global do curso não pode exceder 300 alunos.
+2 - A frequência global do curso não pode exceder 450 alunos.
+
+> Alterado pelo/a [Portaria n.º 1391/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2004-548666), publicado em 2004-11-10.
 
 3.º
 
@@ -214,8 +232,118 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 ## ANEXO — Universidade Lusófona de Humanidades e Tecnologias
 
-Curso: Ciências Farmacêuticas
+Curso de Ciências Farmacêuticas
 
-Grau: licenciado
+Grau de licenciado
 
-[(ver quadros n.os 1 a 6 no documento original)](https://files.diariodarepublica.pt/1s/1999/08/186b00/52795282.pdf)
+QUADRO N.º 1
+
+1.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Matemática | 1.º semestre | 2 | 2 |  |  |  |
+| Física | 1.º semestre | 2 | 2 |  |  |  |
+| Bases de Informática | 1.º semestre |  | 2 |  |  |  |
+| Química Analítica | 1.º semestre | 2 | 2 | 2 |  |  |
+| Anatomia Funcional I | 1.º semestre | 2 | 1 |  |  |  |
+| Biologia Celular I | 1.º semestre | 2 |  | 2 |  |  |
+| Técnicas de Laboratório | 1.º semestre | 1 |  | 2 |  |  |
+| História da Saúde e Cultura Contemporâneas | 1.º semestre | 1 | 2 |  |  |  |
+| Biomatemática e Estatística | 2.º semestre | 3 | 2 |  |  |  |
+| Biofísica | 2.º semestre | 2 |  | 2 |  |  |
+| Química Orgânica I | 2.º semestre | 2 | 2 |  |  |  |
+| Anatomia Funcional II | 2.º semestre | 2 | 1 |  |  |  |
+| Biologia Celular II | 2.º semestre | 2 |  | 2 |  |  |
+| Biologia Vegetal | 2.º semestre | 2 |  | 2 |  |  |
+| Bioquímica I | 2.º semestre | 2 |  | 2 |  |  |
+
+QUADRO N.º 2
+
+2.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bioestatística | 1.º semestre | 2 | 2 |  |  |  |
+| Bioquímica II | 1.º semestre | 2 |  | 2 |  |  |
+| Fisiologia Humana I | 1.º semestre | 2 |  | 2 |  |  |
+| Química-Física | 1.º semestre | 3 |  | 2 |  |  |
+| Métodos Analíticos I | 1.º semestre | 2 |  | 4 |  |  |
+| Química Orgânica II | 1.º semestre | 2 |  | 3 |  |  |
+| Informação e Recursos Informáticos | 2.º semestre | 2 | 2 |  |  |  |
+| Fisiologia Humana II | 2.º semestre | 2 |  | 2 |  |  |
+| Farmacologia I | 2.º semestre | 3 | 1 | 2 |  |  |
+| Métodos Analíticos II | 2.º semestre | 2 |  | 4 |  |  |
+| Química Farmacêutica Inorgânica | 2.º semestre | 3 |  | 2 |  |  |
+| Introdução à Economia e Gestão | 2.º semestre |  | 2 |  |  |  |
+
+QUADRO N.º 3
+
+3.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Fisiopatologia | 1.º semestre | 3 |  | 2 |  |  |
+| Farmacologia II | 1.º semestre | 3 |  | 2 |  |  |
+| Farmacognosia I | 1.º semestre | 2 |  | 2 |  |  |
+| Farmácia Galénica | 1.º semestre | 2 |  | 4 |  |  |
+| Química Farmacêutica Orgânica | 1.º semestre | 3 |  | 4 |  |  |
+| Biologia Molecular | 1.º semestre | 2 |  | 2 |  |  |
+| Imunologia | 2.º semestre | 2 |  | 2 |  |  |
+| Genética Humana | 2.º semestre | 2 |  | 2 |  |  |
+| Microbiologia Geral | 2.º semestre | 3 |  | 4 |  |  |
+| Biofarmácia | 2.º semestre | 2 | 1 | 2 |  |  |
+| Farmacognosia II | 2.º semestre | 2 |  | 2 |  |  |
+| Tecnologia Farmacêutica I | 2.º semestre | 2 |  | 4 |  |  |
+
+QUADRO N.º 4
+
+4.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Virologia | 1.º semestre | 2 |  | 2 |  |  |
+| Farmacocinética | 1.º semestre | 2 | 3 |  |  |  |
+| Tecnologia Farmacêutica II | 1.º semestre | 2 |  | 4 |  |  |
+| Dermofarmácia | 1.º semestre | 2 |  | 2 |  |  |
+| Deontologia e Legislação Farmacêutica | 1.º semestre | 2 |  |  |  |  |
+| Opção | 1.º semestre | 2 |  | 2 |  |  |
+| Opção | 1.º semestre | 2 |  | 2 |  |  |
+| Biotecnologia Industrial Farmacêutica | 2.º semestre | 2 | 1 |  |  |  |
+| Farmacoterapia | 2.º semestre | 2 | 2 |  |  |  |
+| Farmacoepidemiologia | 2.º semestre | 2 | 2 |  |  |  |
+| Parasitologia | 2.º semestre | 2 |  | 2 |  |  |
+| Saúde Pública | 2.º semestre | 2 | 2 |  |  |  |
+| Opção | 2.º semestre | 2 |  | 2 |  |  |
+| Opção | 2.º semestre | 2 |  | 2 |  |  |
+
+QUADRO N.º 5
+
+5.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Toxicologia Geral | 1.º semestre | 2 |  | 2 |  |  |
+| Farmácia Clínica | 1.º semestre | 2 | 2 |  |  |  |
+| Bioquímica Clínica | 1.º semestre | 1 |  | 2 |  |  |
+| Tecnologia Farmacêutica III | 1.º semestre | 2 |  | 4 |  |  |
+| Metodologia Estatística e Epidemiológica | 1.º semestre | 1 | 2 |  |  |  |
+| Opção | 1.º semestre | 2 |  | 2 |  |  |
+| Opção | 1.º semestre | 2 |  | 2 |  |  |
+| Bioinformática | 2.º semestre | 1 | 2 |  |  |  |
+| Farmacotoxicologia | 2.º semestre | 2 |  | 2 |  |  |
+| Veiculação de Fármacos | 2.º semestre | 2 |  |  |  |  |
+| Prática Farmacêutica | 2.º semestre | 1 |  | 3 |  |  |
+| Comunicação | 2.º semestre | 1 | 2 |  |  |  |
+| Opção | 2.º semestre | 2 |  | 2 |  |  |
+| Opção | 2.º semestre | 2 |  | 2 |  |  |
+
+QUADRO N.º 6
+
+6.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Estágio | 1.º semestre |  |  |  | 40 |  |
+
+> Alterado pelo/a [Portaria n.º 17/2002](https://diariodarepublica.pt/dr/detalhe/portaria/17-2002-584855), publicado em 2002-01-04.

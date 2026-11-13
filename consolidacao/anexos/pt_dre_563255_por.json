@@ -1,0 +1,65 @@
+{
+ "id": "pt:dre:563255:por",
+ "titulo": "Portaria n.º 371/2005, anexo: plano de estudos do curso de pós-licenciatura de especialização em Enfermagem Comunitária",
+ "pdf": "https://files.diariodarepublica.pt/1s/2005/04/065b00/28292830.pdf",
+ "pdf_sha256": "83cb3109d4747a2f8a22ef09f46258094ea54c19a17d7e9d62f79d3824936736",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 1 quadros, 12 linhas e 96 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 270,
+       "ate": 390
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     199
+    ],
+    [
+     "Escolaridade (em horas totais) — Aulas teóricas",
+     289
+    ],
+    [
+     "Escolaridade (em horas totais) — Aulas teórico-práticas",
+     332
+    ],
+    [
+     "Escolaridade (em horas totais) — Aulas práticas",
+     376
+    ],
+    [
+     "Escolaridade (em horas totais) — Seminários",
+     419
+    ],
+    [
+     "Escolaridade (em horas totais) — Estágios",
+     462
+    ],
+    [
+     "Observações",
+     506
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários | Escolaridade (em horas totais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Estágio de Planeamento da Saúde | Anual |  |  |  |  | 300 |  |\n| Epidemiologia Estatística e Demografia | 1.º semestre | 30 | 15 |  |  |  |  |\n| Enfermagem Comunitária | 1.º semestre | 90 | 45 |  |  |  |  |\n| Ambiente e Saúde | 1.º semestre | 30 |  |  |  |  |  |\n| Administração em Saúde | 1.º semestre | 45 | 15 |  |  |  |  |\n| Economia e Saúde | 2.º semestre | 30 |  |  |  |  |  |\n| Educação e Saúde | 2.º semestre | 30 |  |  |  |  |  |\n| Psicossociologia do Trabalho e das Organizações de Saúde. | 2.º semestre | 30 |  |  |  |  |  |\n| Ética e Ambiente | 2.º semestre | 30 | 15 |  |  |  |  |\n| Metodologia do Diagnóstico de Saúde | 2.º semestre | 15 | 30 |  |  |  |  |\n| Estágio de Intervenção Comunitária I | 2.º semestre |  |  |  |  | 300 |  |\n| Estágio de Intervenção Comunitária II | 3.º semestre |  |  |  |  | 300 |  |"
+  }
+ ]
+}

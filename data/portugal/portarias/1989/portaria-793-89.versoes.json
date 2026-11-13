@@ -1,0 +1,77 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:547236:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-09-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b5162feb95482b9e",
+    "acb083ceef327b1d"
+   ]
+  },
+  {
+   "date": "2002-09-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:647536:por",
+     "title": "Portaria n.º 1290/2002",
+     "published": "2002-09-23",
+     "dre_path": "/dr/detalhe/portaria/1290-2002-647536"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 8",
+    "Altera Artigo unidades 16-17"
+   ],
+   "fragments": [
+    "d386dac6508a8c19",
+    "c6f2a6533b08f3ad"
+   ]
+  }
+ ],
+ "fragments": {
+  "b5162feb95482b9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Setembro\n\nA requerimento do ISSS - Instituto Superior de Serviço Social, C. R. L., com sede em Lisboa;\n\nAo abrigo e nos termos dos artigos 17.º, n.º 1, 18.º, n.º 1, 19.º, 21.º, n.º 1, 25.º e 53.º do [Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º É reconhecido o Instituto Superior de Serviço Social de Lisboa, de que é titular o ISSS - Instituto Superior de Serviço Social, C. R. L., a funcionar nas instalações que possui em Lisboa.\n\n2.º É autorizado o início do funcionamento, no Instituto Superior de Serviço Social de Lisboa, em Lisboa, do seguinte curso, de acordo com o plano de estudos publicado em anexo à presente portaria:\n\nCurso superior de Serviço Social.\n\n3.º Ao curso referido no número anterior são reconhecidos os efeitos correspondentes aos da titularidade do grau de licenciatura do ensino superior público.\n\n4.º As habilitações mínimas que permitem o ingresso no curso atrás referido são as exigidas para o mesmo ou similares cursos do ensino público, sem prejuízo de outros requisitos que sejam estabelecidos no regulamento interno do Instituto Superior de Serviço Social de Lisboa, ora reconhecido.\n\n5.º O conselho científico do Instituto apresentará, para aprovação ministerial, no prazo de 30 dias a contar da presente portaria, uma proposta do plano de estudos que permita a transição dos alunos que actualmente frequentem o curso ministrado no Instituto para o plano de estudos aprovado pela presente portaria.\n\nMinistério da Educação.\n\nAssinada em 17 de Agosto de 1989.\n\nO Ministro da Educação, Roberto Artur da Luz Carneiro."
+  },
+  "acb083ceef327b1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo — INSTITUTO SUPERIOR DE SERVIÇO SOCIAL DE LISBOA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — INSTITUTO SUPERIOR DE SERVIÇO SOCIAL DE LISBOA\n\nCurso Superior de Serviço Social\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20700/39373938.pdf)"
+  },
+  "d386dac6508a8c19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2002-09-28",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 1290/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1290-2002-647536), publicado em 2002-09-23."
+   ],
+   "markdown": "de 8 de Setembro\n\nA requerimento do ISSS - Instituto Superior de Serviço Social, C. R. L., com sede em Lisboa;\n\nAo abrigo e nos termos dos artigos 17.º, n.º 1, 18.º, n.º 1, 19.º, 21.º, n.º 1, 25.º e 53.º do [Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º É reconhecido o Instituto Superior de Serviço Social de Lisboa, de que é titular o ISSS - Instituto Superior de Serviço Social, C. R. L., a funcionar nas instalações que possui em Lisboa.\n\n2.º É autorizado o início do funcionamento, no Instituto Superior de Serviço Social de Lisboa, em Lisboa, do seguinte curso, de acordo com o plano de estudos publicado em anexo à presente portaria:\n\nCurso superior de Serviço Social.\n\n2.º-A\n\nUnidades curriculares de opção\n\nO elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n2.º-B\n\nDuração do ano e semestre lectivos\n\n1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n> Aditado pelo/a [Portaria n.º 1290/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1290-2002-647536), publicado em 2002-09-23.\n\n3.º Ao curso referido no número anterior são reconhecidos os efeitos correspondentes aos da titularidade do grau de licenciatura do ensino superior público.\n\n4.º As habilitações mínimas que permitem o ingresso no curso atrás referido são as exigidas para o mesmo ou similares cursos do ensino público, sem prejuízo de outros requisitos que sejam estabelecidos no regulamento interno do Instituto Superior de Serviço Social de Lisboa, ora reconhecido.\n\n5.º O conselho científico do Instituto apresentará, para aprovação ministerial, no prazo de 30 dias a contar da presente portaria, uma proposta do plano de estudos que permita a transição dos alunos que actualmente frequentem o curso ministrado no Instituto para o plano de estudos aprovado pela presente portaria.\n\nMinistério da Educação.\n\nAssinada em 17 de Agosto de 1989.\n\nO Ministro da Educação, Roberto Artur da Luz Carneiro."
+  },
+  "c6f2a6533b08f3ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo — INSTITUTO SUPERIOR DE SERVIÇO SOCIAL DE LISBOA",
+   "in_force_from": "2002-09-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1290/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1290-2002-647536), publicado em 2002-09-23."
+   ],
+   "markdown": "## Anexo — INSTITUTO SUPERIOR DE SERVIÇO SOCIAL DE LISBOA\n\nInstituto Superior de Serviço Social de Lisboa\n\nCurso de Serviço Social\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |\n| --- | --- | --- | --- | --- | --- |\n| Sociologia | Anual | 3 |  |  |  |\n| Economia | Anual | 3 |  |  |  |\n| Psicologia do Desenvolvimento | Anual | 3 |  |  |  |\n| História das Instituições Sociais e do Serviço Social | 1.º semestre | 4 |  |  |  |\n| Antropologia Cultural | 1.º semestre | 3 |  |  |  |\n| Introdução ao Estudo do Direito | 1.º semestre | 2 |  |  |  |\n| População e Território | 1.º semestre | 2 |  |  |  |\n| Teoria e Metodologia do Serviço Social I | 2.º semestre | 4 |  |  |  |\n| Métodos e Técnicas de Investigação Social I | 2.º semestre | 3 |  |  |  |\n| Direito de Família | 2.º semestre | 2 |  |  |  |\n| Contextos e Práticas do Serviço Social | 2.º semestre |  | 2 |  |  |\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |\n| --- | --- | --- | --- | --- | --- |\n| Teoria e Metodologia do Serviço Social II | Anual | 4 |  |  |  |\n| Política Social I | Anual | 3 |  |  |  |\n| Métodos e Técnicas de Investigação Social II | Anual |  | 3 |  |  |\n| Estatística para as Ciências Sociais | Anual | 3 |  |  |  |\n| Sociologia da Organização Social | 1.º semestre | 3 |  |  |  |\n| Psicologia da Personalidade | 1.º semestre | 3 |  |  |  |\n| Economia Portuguesa e Europeia | 1.º semestre | 3 |  |  |  |\n| Sociologia da Vida Quotidiana | 2.º semestre | 3 |  |  |  |\n| Psicologia Social | 2.º semestre | 3 |  |  |  |\n| Economia Social | 2.º semestre | 3 |  |  |  |\n| Contexto e Práticas do Serviço Social | 2.º semestre |  | 2 |  |  |\n\nQUADRO N.º 3\n\n3.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |\n| --- | --- | --- | --- | --- | --- |\n| Teoria e Metodologia do Serviço Social III | Anual | 4 |  |  |  |\n| Seminário de Intervenção em Serviço Social | Anual | 3 |  |  |  |\n| Política Social II | 1.º semestre | 3 |  |  |  |\n| Supervisão em Serviço Social | 1.º semestre | 2 |  |  |  |\n| Administração Social | 1.º semestre | 3 |  |  |  |\n| Interacção Cultural nas Sociedades Complexas | 1.º semestre | 2 |  |  |  |\n| Psicologia Organizacional | 1.º semestre | 2 |  |  |  |\n| Direito de Menores | 1.º semestre | 2 |  |  |  |\n| Ética e Serviço Social | 2.º semestre | 2 |  |  |  |\n| Psicopatologia | 2.º semestre | 2 |  |  |  |\n| Estágio | 2.º semestre |  |  |  | 14 |\n\nQUADRO N.º 4\n\n4.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |\n| --- | --- | --- | --- | --- | --- |\n| Investigação em Serviço Social | Anual | 2 |  |  |  |\n| Seminário de Intervenção em Serviço Social | Anual | 3 |  |  |  |\n| Estágio | Anual |  |  |  | 18 |\n| Deontologia do Serviço Social | 1.º semestre | 2 |  |  |  |\n| Opção | 1.º semestre | 2 |  |  |  |\n| Opção | 2.º semestre | 2 |  |  |  |\n| Trabalho Final de Curso |  |  |  |  |  |\n\n> Alterado pelo/a [Portaria n.º 1290/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1290-2002-647536), publicado em 2002-09-23."
+  }
+ }
+}

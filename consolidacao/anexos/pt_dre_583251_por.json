@@ -1,0 +1,171 @@
+{
+ "id": "pt:dre:583251:por",
+ "titulo": "Portaria n.º 1173/2000, anexo: quadros n.os 1 a 4 do plano de estudos do mestrado em Direito (Universidade Lusíada, Lisboa)",
+ "pdf": "https://files.diariodarepublica.pt/1s/2000/12/287b00/71997201.pdf",
+ "pdf_sha256": "09f34240d67b1a69cba2b8effe9dabff66961ebda4f62319fc76a26bc73a342e",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 4 quadros, 16 linhas e 140 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 455,
+       "ate": 462
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 475,
+       "ate": 481
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 540,
+       "ate": 595
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 648,
+       "ate": 655
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 663,
+       "ate": 670
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 735,
+       "ate": 785
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 70,
+       "ate": 80
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 88,
+       "ate": 95
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 165,
+       "ate": 215
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 250,
+       "ate": 260
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 265,
+       "ate": 275
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 345,
+       "ate": 395
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     284
+    ],
+    [
+     "Escolaridade em horas semanais — Aulas teóricas",
+     370
+    ],
+    [
+     "Escolaridade em horas semanais — Aulas teórico-práticas",
+     403
+    ],
+    [
+     "Escolaridade em horas semanais — Aulas práticas",
+     437
+    ],
+    [
+     "Escolaridade em horas semanais — Seminários",
+     472
+    ],
+    [
+     "Escolaridade em horas semanais — Estágios",
+     506
+    ]
+   ],
+   "texto": "QUADRO N.º 1\n\nÁrea de especialização em Ciências Jurídico-Civilísticas\n\n| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |\n| --- | --- | --- | --- | --- | --- | --- |\n| Direito Civil | Anual | 3 |  |  |  |  |\n| Processo Civil | Anual | 3 |  |  |  |  |\n| Direito Internacional Privado ou | Anual | 3 |  |  |  |  |\n| Direito Comercial e das Empresas | Anual | 3 |  |  |  |  |\n\nQUADRO N.º 2\n\nÁrea de especialização em Ciências Jurídico-Empresariais\n\n| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |\n| --- | --- | --- | --- | --- | --- | --- |\n| Direito Comercial e das Empresas | Anual | 3 |  |  |  |  |\n| Direito do Trabalho | Anual | 3 |  |  |  |  |\n| Direito Comunitário ou | Anual | 3 |  |  |  |  |\n| Direito Fiscal | Anual | 3 |  |  |  |  |\n\nQUADRO N.º 3\n\nÁrea de especialização em Ciências Jurídico-Políticas\n\n| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |\n| --- | --- | --- | --- | --- | --- | --- |\n| Direito Constitucional | Anual | 3 |  |  |  |  |\n| Direito Administrativo | Anual | 3 |  |  |  |  |\n| Direito Internacional Público ou | Anual | 3 |  |  |  |  |\n| Direito Comunitário | Anual | 3 |  |  |  |  |\n\nQUADRO N.º 4\n\nÁrea de especialização em Ciências Jurídico-Criminais\n\n| Unidades curriculares | Tipo | Escolaridade em horas semanais — Aulas teóricas | Escolaridade em horas semanais — Aulas teórico-práticas | Escolaridade em horas semanais — Aulas práticas | Escolaridade em horas semanais — Seminários | Escolaridade em horas semanais — Estágios |\n| --- | --- | --- | --- | --- | --- | --- |\n| Direito Penal | Anual | 3 |  |  |  |  |\n| Processo Penal | Anual | 3 |  |  |  |  |\n| Processo Civil ou | Anual | 3 |  |  |  |  |\n| Direito Constitucional | Anual | 3 |  |  |  |  |"
+  }
+ ]
+}

@@ -1,6 +1,13 @@
 {
   "id": "pt:dre:547236:por",
-  "substituicoes": [],
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 17,
+      "texto": "Instituto Superior de Serviço Social de Lisboa\n\nCurso de Serviço Social\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |\n| --- | --- | --- | --- | --- | --- |\n| Sociologia | Anual | 3 |  |  |  |\n| Economia | Anual | 3 |  |  |  |\n| Psicologia do Desenvolvimento | Anual | 3 |  |  |  |\n| História das Instituições Sociais e do Serviço Social | 1.º semestre | 4 |  |  |  |\n| Antropologia Cultural | 1.º semestre | 3 |  |  |  |\n| Introdução ao Estudo do Direito | 1.º semestre | 2 |  |  |  |\n| População e Território | 1.º semestre | 2 |  |  |  |\n| Teoria e Metodologia do Serviço Social I | 2.º semestre | 4 |  |  |  |\n| Métodos e Técnicas de Investigação Social I | 2.º semestre | 3 |  |  |  |\n| Direito de Família | 2.º semestre | 2 |  |  |  |\n| Contextos e Práticas do Serviço Social | 2.º semestre |  | 2 |  |  |\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |\n| --- | --- | --- | --- | --- | --- |\n| Teoria e Metodologia do Serviço Social II | Anual | 4 |  |  |  |\n| Política Social I | Anual | 3 |  |  |  |\n| Métodos e Técnicas de Investigação Social II | Anual |  | 3 |  |  |\n| Estatística para as Ciências Sociais | Anual | 3 |  |  |  |\n| Sociologia da Organização Social | 1.º semestre | 3 |  |  |  |\n| Psicologia da Personalidade | 1.º semestre | 3 |  |  |  |\n| Economia Portuguesa e Europeia | 1.º semestre | 3 |  |  |  |\n| Sociologia da Vida Quotidiana | 2.º semestre | 3 |  |  |  |\n| Psicologia Social | 2.º semestre | 3 |  |  |  |\n| Economia Social | 2.º semestre | 3 |  |  |  |\n| Contexto e Práticas do Serviço Social | 2.º semestre |  | 2 |  |  |\n\nQUADRO N.º 3\n\n3.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |\n| --- | --- | --- | --- | --- | --- |\n| Teoria e Metodologia do Serviço Social III | Anual | 4 |  |  |  |\n| Seminário de Intervenção em Serviço Social | Anual | 3 |  |  |  |\n| Política Social II | 1.º semestre | 3 |  |  |  |\n| Supervisão em Serviço Social | 1.º semestre | 2 |  |  |  |\n| Administração Social | 1.º semestre | 3 |  |  |  |\n| Interacção Cultural nas Sociedades Complexas | 1.º semestre | 2 |  |  |  |\n| Psicologia Organizacional | 1.º semestre | 2 |  |  |  |\n| Direito de Menores | 1.º semestre | 2 |  |  |  |\n| Ética e Serviço Social | 2.º semestre | 2 |  |  |  |\n| Psicopatologia | 2.º semestre | 2 |  |  |  |\n| Estágio | 2.º semestre |  |  |  | 14 |\n\nQUADRO N.º 4\n\n4.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios |\n| --- | --- | --- | --- | --- | --- |\n| Investigação em Serviço Social | Anual | 2 |  |  |  |\n| Seminário de Intervenção em Serviço Social | Anual | 3 |  |  |  |\n| Estágio | Anual |  |  |  | 18 |\n| Deontologia do Serviço Social | 1.º semestre | 2 |  |  |  |\n| Opção | 1.º semestre | 2 |  |  |  |\n| Opção | 2.º semestre | 2 |  |  |  |\n| Trabalho Final de Curso |  |  |  |  |  |",
+      "alterador": 1
+    }
+  ],
   "insercoes": [
     {
       "depois_de": 8,
@@ -8,12 +15,11 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, n.º 1.º: o novo plano de estudos que substitui o anexo (unidade 17) só existe em imagem; não aplicado.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Portaria n.º 1290/2002), 1.º: o plano de estudos do curso passa a ser o do anexo da portaria, só em imagem; não aplicado.",
-    "Alterador 1 (Portaria n.º 1290/2002), 2.º: aditados os n.os 2.º-A e 2.º-B; inseridos a seguir ao n.º 2.º (depois da unidade 8).",
-    "Alterador 1, 3.º e 4.º: regras próprias de transição e aplicação; não alteram o texto do original.",
-    "Alterador 2 (Portaria n.º 107/2005): altera o anexo da Portaria n.º 182/95 (curso de mestrado), não o original; as normas 2.º a 6.º são próprias; ignorado."
+    "Alterador 1, 1.º: plano de estudos passa a ser o anexo da Portaria 1290/2002; corpo do anexo (unidades 16-17) substituído pelos quadros, copiados como vêm.",
+    "Alterador 1, 2.º: aditados os n.os 2.º-A e 2.º-B; inseridos depois da unidade 8 (fim do 2.º).",
+    "Alterador 2 (Portaria 107/2005): altera o anexo da Portaria 182/95, outro diploma; ignorado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

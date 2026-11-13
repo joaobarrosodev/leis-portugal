@@ -1,6 +1,13 @@
 {
   "id": "pt:dre:239988:por",
-  "substituicoes": [],
+  "substituicoes": [
+    {
+      "de": 51,
+      "ate": 55,
+      "texto": "Curso de especialização em Ciências da Educação\n\nGrau de mestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| O Desenvolvimento Pessoal e Social. A Natureza, a Cultura e a Sociedade. | Semestral | 30 |  |  |  |  |\n| Mundialização da Economia e Desenvolvimento Local. Aspectos Sociais do Desenvolvimento. | Semestral | 30 |  |  |  |  |\n| Educação, Ciência e Tecnologia, Investimento Imaterial e Prioridade à Produção de Conhecimentos. | Semestral | 30 |  |  |  |  |\n| Formação de Recursos Humanos, Mercado de Trabalho e Políticas Educativas. | Semestral | 30 |  |  |  |  |\n| Processos de Produção de Conhecimentos | Semestral | 30 |  |  |  |  |\n| Metodologias de Investigação em Educação | Semestral |  | 44 |  |  |  |\n| Projecto de Investigação | Semestral |  |  |  | 60 |  |\n| As Teorias da Mudança Social e a Mudança Educativa | Semestral | 30 |  |  |  |  |\n| A Formação dos Modernos Sistemas Educativos. Uma Perspectiva Histórica. | Semestral | 30 |  |  |  |  |\n| O Estado e as Políticas de Educação. Aspectos Metodológicos. | Semestral | 30 |  |  |  |  |\n| Educação Comparada. Perspectivas e Debates Actuais | Semestral | 45 |  |  |  |  |",
+      "alterador": 1
+    }
+  ],
   "insercoes": [
     {
       "depois_de": 28,
@@ -8,11 +15,11 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, n.º 1.º: o novo anexo (plano de estudos) só vem como quadro em imagem; não aplicado.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, n.º 1.º: substitui o anexo; o quadro só existe em imagem, ficou em nao_aplicavel.",
-    "Alterador 1, n.º 2.º: adita o n.º 5.º-A; inserido a seguir ao n.º 5.º (unidade 28).",
-    "Alterador 1, n.os 3.º e 4.º: transição e aplicação, sem texto a mudar no original."
+    "1.º: o anexo passa a ter a redação do anexo do alterador; unidades 51 a 55 (designação do curso, grau, QUADRO ÚNICO, 1.º ano e quadro em imagem) substituídas pelo texto e quadro novos; fica o título do anexo",
+    "2.º: aditado o n.º 5.º-A Duração, inserido depois do n.º 5.º (unidade 28)",
+    "3.º e 4.º: transição e aplicação, não textuais"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

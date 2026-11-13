@@ -1,0 +1,65 @@
+{
+ "id": "pt:dre:143336:por",
+ "titulo": "Portaria n.º 829/2005, anexo: plano de estudos do curso de especialização em Gestão Arquitectónica e do Ambiente Urbano (Portaria n.º 321/2004 — alteração)",
+ "pdf": "https://files.diariodarepublica.pt/1s/2005/09/177b00/55765577.pdf",
+ "pdf_sha256": "a2f984666c6342c06f8d6bf60563b1ed384b723d86b960f848478e73d1352f9e",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 1 quadros, 10 linhas e 80 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 430,
+       "ate": 550
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     208
+    ],
+    [
+     "Escolaridade (em horas totais) — Aulas teóricas",
+     285
+    ],
+    [
+     "Escolaridade (em horas totais) — Aulas teórico-práticas",
+     325
+    ],
+    [
+     "Escolaridade (em horas totais) — Aulas práticas",
+     371
+    ],
+    [
+     "Escolaridade (em horas totais) — Seminários",
+     412
+    ],
+    [
+     "Escolaridade (em horas totais) — Estágios",
+     454
+    ],
+    [
+     "Observações",
+     497
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários | Escolaridade (em horas totais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Gestão da Arquitectura — Projectos Integrados de Arquitectura. | Anual |  | 170 |  |  |  |  |\n| Tecnologia de Informação | Semestral |  | 20 |  |  |  |  |\n| Gestão do Ambiente | Semestral |  | 10 |  |  |  |  |\n| Gestão da Construção | Semestral |  | 10 |  |  |  |  |\n| Gestão da Qualidade Total na Construção | Semestral |  | 10 |  |  |  |  |\n| Saúde e Segurança no Ambiente Urbano | Semestral |  | 10 |  |  |  |  |\n| Reabilitação Arquitectónica e Urbana de Edifícios Históricos. | Semestral |  | 20 |  |  |  |  |\n| Sistemas Inteligentes | Semestral |  | 10 |  |  |  |  |\n| Gestão dos Recursos Físicos e de Sistemas | Semestral |  | 10 |  |  |  |  |\n| Workshops | Semestral |  | 10 |  |  |  |  |"
+  }
+ ]
+}
