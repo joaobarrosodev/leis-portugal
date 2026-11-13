@@ -55,6 +55,14 @@ python -m rag.dados publicar --versao 2026-11-20 --enviar
 - **Base do próximo delta:** fica em `dist/dados/publicado.sqlite`. Não a apagues.
 - **Descrição do repositório:** é o `rag/dados_cartao.md`, com a licença (as condições de cada fonte oficial).
 
+**Toda a semana, sozinho:** `scripts/publicar_indice.sh` faz o `git pull`, o export, o índice e a publicação. Para o agendar no Mac (domingo às 04:00, ou quando o Mac acordar), corre uma vez:
+
+```bash
+scripts/agendar_publicacao.sh
+```
+
+O registo fica em `rag/resultados/privado/publicacao.log`. Para deixar de agendar, usa `scripts/agendar_publicacao.sh --tirar`. Se a base local do delta faltar (por exemplo, noutro computador), o `publicar` reconstrói-a a partir do próprio Hugging Face.
+
 Os deltas dão o mesmo índice que uma reconstrução de raiz. Isso é testado nos índices pequenos de `tests/test_dados.py` e no índice inteiro com `rag/navegador/equivalencia.py`.
 
 ## Site
