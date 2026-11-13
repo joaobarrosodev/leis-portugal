@@ -640,5 +640,3 @@ Aos preços previstos no presente regulamento é aplicável a seguinte tabela:
 (1) Atualizável em função do valor fixado para a função pública para transporte de automóvel próprio.
 
 319972284
-
-.Tbl2 { min-height:16px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl5 { min-height:18px; } .Tbl6 { min-height:28px; } .Tbl7 { min-height:94px; } .Tbl8 { text-align:justify; text-align-last:justify; }

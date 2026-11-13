@@ -744,5 +744,3 @@ Nos termos da lei, e mediante o presente regulamento, são criadas as seguintes 
 06/08/2025. - O Presidente da Junta de Freguesia de Casal de Cambra, Mário Pedro de Moura Lopes dos Santos.
 
 319409378
-
-.Tbl2 { background-color:rgb(126,192,238); } .Tbl3 { background-color:rgb(217,217,217); }

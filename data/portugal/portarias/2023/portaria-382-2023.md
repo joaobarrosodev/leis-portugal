@@ -189,5 +189,3 @@ Coordenadas dos vértices da zona alargada
 | d ... | -26 950 | -40 935 |
 
 117071847
-
-.Tbl1 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl3 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

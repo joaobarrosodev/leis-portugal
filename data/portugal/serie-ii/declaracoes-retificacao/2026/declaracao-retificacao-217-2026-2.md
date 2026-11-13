@@ -128,5 +128,3 @@ deve ler-se:
 9 de março de 2026. - O Reitor, Prof. Doutor Paulo Pereira.
 
 319973925
-
-.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:17px; }

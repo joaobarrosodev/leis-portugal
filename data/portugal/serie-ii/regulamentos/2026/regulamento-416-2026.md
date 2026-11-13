@@ -355,5 +355,3 @@ Aprovado na sessão da Assembleia de Freguesia do Salão de 6 de abril de 2026.
 | 2.ª Via de alvará | 10,00€ |
 
 319988543
-
-.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:21px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl6 { min-height:18px; } .Tbl7 { text-align:center; }

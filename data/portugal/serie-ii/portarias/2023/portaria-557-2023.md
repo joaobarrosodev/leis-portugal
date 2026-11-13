@@ -152,5 +152,3 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 16 de outubro de 2023. - O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira. - 26 de setembro de 2023. - A Secretária de Estado do Desenvolvimento Regional, Isabel Cristina Fernandes Rodrigues Ferreira.
 
 316959996
-
-.Tbl1 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl3 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

@@ -109,5 +109,3 @@ Tabela de Taxas e Emolumentos da Ordem dos Médicos Veterinários
 6 de janeiro de 2026. - O Presidente da Assembleia Geral, João José Rato Niza Ribeiro.
 
 319948161
-
-.Tbl2 { min-height:18px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl5 { text-align:center; } .Tbl6 { min-height:28px; }

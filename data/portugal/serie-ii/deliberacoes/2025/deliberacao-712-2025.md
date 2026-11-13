@@ -131,5 +131,3 @@ Nestes termos, determina-se o seguinte:
 6 de maio de 2025. - A Reitora e Presidente do Conselho de Gestão, Maria de Lurdes Rodrigues.
 
 319103975
-
-.Tbl2 { min-height:26px; } .Tbl3 { background-color:rgb(0,141,210); vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { min-height:17px; } .Tbl6 { vertical-align:bottom; } .Tbl7 { background-color:rgb(241,244,249); vertical-align:bottom; }

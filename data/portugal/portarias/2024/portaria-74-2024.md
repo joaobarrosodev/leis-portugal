@@ -266,5 +266,3 @@ Equipas de apoio domiciliário - Ano de 2023
 | II - Infância e adolescência... | 24,02 (euro) | 11,17 (euro) | 35,19 (euro) |
 
 117399874
-
-.Tbl1 { text-align:center; vertical-align:center; } .Tbl2 { text-align:justify; vertical-align:center; } .Tbl3 { text-align:justify; vertical-align:top; } .Tbl4 { text-align:center; vertical-align:top; } .Tbl5 { text-align:center; vertical-align:bottom; }

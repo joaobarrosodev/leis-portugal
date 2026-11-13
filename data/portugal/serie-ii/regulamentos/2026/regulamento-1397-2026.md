@@ -531,5 +531,3 @@ Arrumadores de automóveis - 5,00€
 Atividades ruidosas de caráter temporário que respeitem as festas populares, romarias, feiras, arraiais e bailes organizados nas vias, jardins e demais lugares públicos ao ar livre, salvo quando tais atividades decorram em recintos já licenciados pela Direção-Geral de Espetáculos - 5,00€.
 
 320046474
-
-.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:18px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl6 { text-align:center; }

@@ -112,5 +112,3 @@ deve ler-se:
 13 de abril de 2026. - O Presidente do Conselho Diretivo, Pedro Portugal Gaspar.
 
 319987789
-
-.Tbl2 { min-height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl7 { height:26px; }

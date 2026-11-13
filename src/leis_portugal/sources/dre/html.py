@@ -52,6 +52,10 @@ class DreHtmlConverter:
 
     def convert(self, html: str) -> Conversion:
         soup = BeautifulSoup(html or "", "html.parser")
+        # O DRE põe às vezes o estilo das tabelas (`.Tbl2 { min-height:26px; } …`) dentro do
+        # texto; sem isto, o CSS passava para o Markdown como um parágrafo.
+        for tag in soup.find_all(["style", "script"]):
+            tag.decompose()
         self._cited: list[str] = []
         blocks = [block for block in self._blocks(soup) if block[1].strip()]
         lines: list[str] = []

@@ -1445,5 +1445,3 @@ Instruções de preenchimento:
 (s) Indicar a data prevista para a conclusão da operação.
 
 117405542
-
-.Tbl1 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Bold; font-size:9.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Bold; font-size:9.5; vertical-align:top; }

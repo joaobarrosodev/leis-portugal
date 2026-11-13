@@ -124,5 +124,3 @@ deve ler-se:
 8 de agosto de 2025. - O Responsável do Serviço de Recursos Humanos da ULSCB, EPE, Dr. José António Basílio.
 
 319417834
-
-.Tbl1 { border-collapse:collapse; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

@@ -598,5 +598,3 @@ ___
 10 de setembro de 2025. - O Presidente da Câmara de Serpa, João Francisco Efigénio Palma.
 
 319598627
-
-.Tbl2 { min-height:18px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl4 { min-height:33px; }

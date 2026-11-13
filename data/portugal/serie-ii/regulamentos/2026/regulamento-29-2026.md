@@ -1645,5 +1645,3 @@ Nota. - Todas as situações omissas serão analisadas caso a caso.
 29/12/2025. - O Presidente da Câmara Municipal, Luís Paulo Carreira Fonseca da Costa.
 
 319938146
-
-.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:19px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl7 { min-height:29px; }

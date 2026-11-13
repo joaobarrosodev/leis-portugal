@@ -749,5 +749,3 @@ ___
 12 Na redação do [Decreto-Lei n.º 109/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), de 14 de outubro e da [Lei n.º 14/2016](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), de 9 de junho.
 
 320023242
-
-.Tbl2 { min-height:46px; } .Tbl3 { border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-width:0px; border-top-width:0px; border-left-style:solid; border-right-width:0px; border-top-style:solid; } .Tbl4 { text-indent:0px; } .Tbl5 { min-height:22px; }

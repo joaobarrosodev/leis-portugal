@@ -648,5 +648,3 @@ Do relatório de realização da atividade deve constar obrigatoriamente:
 7 de janeiro de 2026. - O Bastonário, Luís Filipe Barreira.
 
 319948724
-
-.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:28px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl7 { min-height:37px; } .Tbl8 { min-height:30px; } .Tbl9 { min-height:40px; } .Tbl10 { min-height:19px; } .Tbl11 { text-align:justify; text-align-last:justify; } .Tbl12 { min-height:18px; }

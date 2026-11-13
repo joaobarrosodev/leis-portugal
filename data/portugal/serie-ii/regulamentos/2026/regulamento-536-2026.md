@@ -876,5 +876,3 @@ c) Descrição do(s) bem(ns)
 d) Assinatura do trabalhador
 
 319995519
-
-.Tbl2 { min-height:24px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl4 { text-align:center; }

@@ -197,5 +197,3 @@ A montagem e decoração dos stands/tendas, bem como dos terrados deverá ser ef
 * Se a inscrição for efetuada fora da data limite indicada no presente regulamento, o custo de inscrição terá um aumento de 50 % sobre os valores tabelados.
 
 320018756
-
-.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:17px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl7 { min-height:27px; }

@@ -232,5 +232,3 @@ Os casos omissos e as dúvidas suscitadas na interpretação do presente Regulam
 O presente Regulamento entra em vigor no primeiro dia do mês seguinte ao da sua publicação
 
 319133589
-
-.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:14px; } .Tbl3 { vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; } .Tbl7 { border-top-color:rgb(0,0,0); border-top-width:1px; border-top-style:solid; vertical-align:middle; } .Tbl8 { border-top-color:rgb(0,0,0); border-top-width:1px; border-top-style:solid; }

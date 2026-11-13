@@ -920,5 +920,3 @@ CPC - Conselho de Prevenção para a Corrupção CT - Código do Trabalho
 LGTFP - Lei Geral do Trabalho em Funções Públicas ME - Município de Estremoz
 
 319976404
-
-.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:21px; } .Tbl3 { vertical-align:top; } .Tbl5 { min-height:18px; } .Tbl6 { min-height:36px; } .Tbl7 { min-height:27px; }

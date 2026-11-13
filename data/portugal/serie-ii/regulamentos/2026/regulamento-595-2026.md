@@ -825,5 +825,3 @@ O presente regulamento produz efeitos no dia seguinte ao da aprovação no órg�
 30 de abril de 2026. - O Presidente da Junta de Freguesia, Luís Carlos de Fontoura Soares.
 
 319999367
-
-.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl2 { min-height:28px; } .Tbl3 { border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-width:0px; border-top-width:0px; border-left-style:solid; border-right-width:0px; border-top-style:solid; } .Tbl5 { text-align:right; } .Tbl6 { min-height:18px; } .Tbl7 { border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl8 { min-height:10px; }

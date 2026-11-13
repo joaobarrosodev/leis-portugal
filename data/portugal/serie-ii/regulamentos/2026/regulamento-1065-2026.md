@@ -708,5 +708,3 @@ O presente Regulamento entra em vigor no ano letivo 2026/2027.
 31 de julho de 2026. - A Presidente da Escola Superior de Enfermagem da Universidade de Lisboa, Patrícia Carla da Silva Pereira.
 
 320029125
-
-.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; }

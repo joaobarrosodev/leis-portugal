@@ -592,5 +592,3 @@ Pedido de Apoio Utilização de Bens da Freguesia
 O pedido de apoio pressupõe o conhecimento Regulamento de Atribuição de Apoios a Entidades sem Fins Lucrativos e de Apoios Sociais aos Cidadãos da Freguesia dos Altares e a sua aceitação.
 
 320023246
-
-.Tbl2 { min-height:59px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; }

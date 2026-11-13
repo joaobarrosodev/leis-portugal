@@ -699,5 +699,3 @@ O presente anexo estabelece através da tabela seguinte, a altura máxima dos co
 | De 80 a 100 % | 25 cm |
 
 319969067
-
-.Tbl2 { min-height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

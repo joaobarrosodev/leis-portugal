@@ -710,5 +710,3 @@ O presente projeto foi aprovado em reunião do Executivo em 23/02/2026.
 * Este critério é livremente aplicável, de modo a evitar a aquisição indiscriminada de terrenos nos cemitérios, conforme o disposto no n.º 2 do artigo 4.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de dezembro.
 
 320021658
-
-.Tbl2 { min-height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl7 { min-height:19px; } .Tbl8 { min-height:34px; } .Tbl9 { min-height:29px; } .Tbl10 { min-height:28px; }

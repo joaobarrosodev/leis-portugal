@@ -327,5 +327,3 @@ validation:
 17 de maio de 2026. - A Diretora do Departamento Geral de Administração, Maria da Luz Andrade.
 
 320004391
-
-.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:32px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-top-color:rgb(0,0,0); border-right-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-top-color:rgb(0,0,0); border-right-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-left-color:rgb(0,0,0); } .Tbl8 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-left-color:rgb(0,0,0); } .Tbl9 { min-height:20px; } .Tbl10 { min-height:28px; } .Tbl11 { min-height:18px; } .Tbl12 { min-height:27px; } .Tbl13 { min-height:46px; } .Tbl14 { min-height:37px; } .Tbl15 { min-height:33px; }

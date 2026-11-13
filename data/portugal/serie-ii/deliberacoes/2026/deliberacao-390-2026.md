@@ -521,5 +521,3 @@ c) O encerramento das Ofertas na Bolsa de Emprego Pública.
 10 de março de 2026. - O Vice-Presidente do Conselho Diretivo, Telmo Antunes.
 
 319979201
-
-.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:17px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl7 { min-height:18px; }

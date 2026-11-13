@@ -367,5 +367,3 @@ Pontuação:
 | Símbolo central da identidade e memória coletiva do Barreiro | 4 pontos |
 
 319571386
-
-.Tbl2 { min-height:21px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl5 { text-align:center; } .Tbl6 { min-height:18px; } .Tbl7 { height:21px; } .Tbl8 { height:18px; } .Tbl9 { min-height:28px; } .Tbl10 { height:28px; }

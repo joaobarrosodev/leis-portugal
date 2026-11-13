@@ -603,5 +603,3 @@ No total, estão previstas novas concessões de serviço público a serem lança
 | Sines | Terminal Vasco da Gama | Transhipment de Contentores | 3 milhões de TEU | 560 |
 
 119408195
-
-.Tbl2 { background-color:rgb(192,192,192); }

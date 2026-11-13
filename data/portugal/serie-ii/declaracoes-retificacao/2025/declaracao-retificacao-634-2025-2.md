@@ -866,5 +866,3 @@ Universidade do Minho, Braga, «Celebração_do_contrato».
 | --- | --- |
 
 319239326
-
-.Tbl2 { min-height:91px; } .Tbl3 { border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-width:0px; border-top-width:0px; border-left-style:solid; border-right-width:0px; border-top-style:solid; } .Tbl4 { text-align:center; }

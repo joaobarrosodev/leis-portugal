@@ -212,5 +212,3 @@ Plano de Financiamento Anual Indicativo
 | Total... | 150,25 | 220,25 | 320,25 | 150,25 | 124 | 150 | 150 | 150 | 155 | 160 | 1 730 |
 
 117177341
-
-.Tbl1 { text-align:center; vertical-align:center; } .Tbl2 { text-align:justify; vertical-align:top; } .Tbl3 { text-align:center; vertical-align:top; } .Tbl4 { text-align:justify; vertical-align:bottom; } .Tbl5 { text-align:center; vertical-align:bottom; }

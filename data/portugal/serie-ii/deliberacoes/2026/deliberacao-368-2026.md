@@ -152,5 +152,3 @@ A presente deliberação produz efeitos a partir da data da sua assinatura.
 4 de março de 2026. - A Presidente do Conselho Diretivo do Instituto para os Comportamentos Aditivos e as Dependências, I. P., Joana Teixeira.
 
 319978397
-
-.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; }

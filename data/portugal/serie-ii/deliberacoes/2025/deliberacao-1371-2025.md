@@ -128,5 +128,3 @@ Tabela 1 - Projetos Aviso AAC n.º 01/C05-i13/2025
 | Total | 2 383 129,88 |
 
 319657627
-
-.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-width:1px; border-left-width:0px; border-top-width:1px; border-right-width:1px; vertical-align:top; } .Tbl6 { border-bottom-width:1px; border-left-width:1px; border-top-width:1px; border-right-width:0px; vertical-align:top; } .Tbl7 { text-align:right; }

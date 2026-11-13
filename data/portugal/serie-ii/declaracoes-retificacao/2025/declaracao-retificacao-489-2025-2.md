@@ -157,5 +157,3 @@ deve ler-se:
 7 de maio de 2025. - O Presidente da Câmara Municipal, Januário Vieira da Cunha.
 
 319034541
-
-.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:18px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl4 { text-indent:0px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl6 { text-indent:0px; text-align:center; } .Tbl7 { border-collapse:collapse; border-width:1px; } .Tbl8 { min-height:28px; }

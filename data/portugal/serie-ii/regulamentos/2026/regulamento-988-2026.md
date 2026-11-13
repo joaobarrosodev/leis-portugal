@@ -190,5 +190,3 @@ Tabela 34
 10 de julho de 2026. - O Reitor, Artur Manuel Soares da Silva.
 
 320025425
-
-.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl7 { min-height:49px; } .Tbl8 { min-height:28px; } .Tbl9 { min-height:31px; } .Tbl10 { margin-left:28px; } .Tbl11 { margin-left:65px; } .Tbl12 { min-height:47px; }

@@ -970,5 +970,3 @@ Síntese dos principais resultados da investigação, destacando as implicaçõe
 Anexos (opcionais)
 
 319692749
-
-.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:54px; } .Tbl3 { vertical-align:top; } .Tbl4 { text-align:center; } .Tbl5 { min-height:19px; }

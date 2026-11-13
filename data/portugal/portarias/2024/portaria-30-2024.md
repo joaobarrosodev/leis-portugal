@@ -476,5 +476,3 @@ Categorias de auxílio potencialmente aplicáveis
 | Auxílios de minimis ([Regulamento (UE) 2023/2831](http://data.europa.eu/eli/reg/2023/2831/oj?locale=pt), de 13 de dezembro de 2023. | Outros custos não financiados no âmbito das categorias de auxílios do RGIC anteriormente referidas | Limite máximo de 300 mil euros durante três anos por empresa única. |
 
 117291235
-
-.Tbl1 { text-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:justify; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; }

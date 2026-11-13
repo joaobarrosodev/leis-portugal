@@ -354,5 +354,3 @@ O presente regulamento entra em vigor no primeiro dia do mês seguinte à sua pu
 A percentagem prevista na Tabela - I incide sobre o valor de referência: 300,00€ para o ano de 2026, sendo automaticamente atualizado anualmente, de acordo com o valor do índice da taxa anual de inflação.
 
 320048054
-
-.Tbl2 { height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:18px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; }

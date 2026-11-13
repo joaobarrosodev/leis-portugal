@@ -725,5 +725,3 @@ O presente Regulamento entra em vigor no dia útil seguinte ao da publicação n
 | Luís Silva Val Flores |
 
 319233137
-
-.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl2 { min-height:18px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; }

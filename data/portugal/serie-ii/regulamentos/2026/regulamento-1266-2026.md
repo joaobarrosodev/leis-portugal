@@ -515,5 +515,3 @@ c) Todas as normas regulamentares ou disposições que eventualmente tenham sido
 O presente Regulamento entra em vigor no dia útil seguinte ao da sua publicação no Diário da República.
 
 320048708
-
-.Tbl2 { min-height:18px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; } .Tbl5 { text-align:center; }

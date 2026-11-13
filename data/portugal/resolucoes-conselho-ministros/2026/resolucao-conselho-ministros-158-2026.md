@@ -205,5 +205,3 @@ Presidência do Conselho de Ministros, 3 de julho de 2026. - O Primeiro-Ministro
 | Cursos de Artes Visuais e Audiovisuais | 30 | 30 |
 
 119949019
-
-.Tbl1 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl2 { height:26px; } .Tbl3 { border-left-width:0px; border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:17px; }

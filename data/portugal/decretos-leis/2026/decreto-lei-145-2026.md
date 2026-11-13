@@ -431,5 +431,3 @@ j) Prédio urbano sito no Lugar do Ribeiro ou Bouça, 4200-001 Porto, inscrito n
 k) Prédio urbano sito no Lugar do Bouço, 4050-221 Porto, inscrito na matriz sob o artigo 12647 da freguesia de Paranhos, concelho do Porto.
 
 119949043
-
-.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:28px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl8 { min-height:18px; }

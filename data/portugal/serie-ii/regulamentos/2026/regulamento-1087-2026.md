@@ -282,5 +282,3 @@ h) Não é permitido fumar.
 6 de julho de 2026. - A Presidente da AMRS, Ana Teresa Vicente Custódio de Sá.
 
 320030735
-
-.Tbl1 { border-collapse:collapse; border-width:5px; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:33px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl8 { min-height:43px; } .Tbl9 { min-height:53px; } .Tbl10 { min-height:18px; }

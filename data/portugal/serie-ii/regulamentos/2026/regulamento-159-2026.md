@@ -389,5 +389,3 @@ Limite de n.º de participantes/espaço
 Excecionalmente, poderá haver lugar a algum ajuste, desde que o pedido se encontre devidamente fundamentado e após avaliação e autorização por parte do GIPMO/CMO.
 
 319960892
-
-.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:25px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

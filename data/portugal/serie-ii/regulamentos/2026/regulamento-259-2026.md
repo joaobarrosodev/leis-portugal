@@ -440,5 +440,3 @@ Este Regulamento e Tabela Geral de Taxas e Licenças da Freguesia de Aguçadoura
 22 de dezembro de 2025. - O Presidente da Junta de Freguesia, Alípio Ricardo Barbosa de Campos.
 
 319974535
-
-.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

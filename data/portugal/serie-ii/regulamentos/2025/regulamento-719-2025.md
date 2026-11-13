@@ -696,5 +696,3 @@ O presente Regulamento entra em vigor no primeiro dia do mês seguinte ao da sua
 | Pedido de licenciamento para a realização de queimadas | 4,83 € |
 
 319129563
-
-.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:18px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl6 { text-align:justify; text-align-last:center; } .Tbl7 { min-height:22px; }

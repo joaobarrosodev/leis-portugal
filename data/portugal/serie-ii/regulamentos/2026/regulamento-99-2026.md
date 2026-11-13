@@ -1597,5 +1597,3 @@ d) A reclamar à autoridade de controlo (CNPD - Comissão Nacional de Proteção
 10 - O Segundo Outorgante reconhece o seu dever de sigilo profissional e de confidencialidade, obrigando-se a adotar, no desempenho das suas funções, os procedimentos implementados pelo Primeiro Outorgante, por forma a garantir a proteção de dados pessoais, obrigando-se a não divulgar dados pessoais tratados, exceto em cumprimento das devidas obrigações legais.
 
 319953581
-
-.Tbl2 { min-height:18px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; }

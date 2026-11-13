@@ -573,5 +573,3 @@ O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - A Ministra do 
 | Até 1965 | 42,508 3 |
 
 119926782
-
-.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl8 { border-collapse:collapse; border-width:1px; margin-left:auto; }

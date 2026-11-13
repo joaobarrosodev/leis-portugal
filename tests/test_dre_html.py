@@ -36,3 +36,16 @@ def test_links_become_absolute_and_are_recorded_as_citations():
 def test_tables_are_converted_and_pipes_escaped():
     markdown = _converted().markdown
     assert "| Coluna A | Coluna B |\n| --- | --- |\n| 1 | 2 \\| 3 |" in markdown
+
+
+def test_table_styles_are_not_converted_to_text():
+    html = (
+        "<p>O júri é composto por três membros.</p>"
+        "<table><tr><td>Cargo</td><td>Nome</td></tr></table>"
+        "<p>319176535</p>"
+        "<style>.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); }</style>"
+        "<div><p>Fim.</p><style>.Tbl4 { text-align:center; }</style></div>"
+    )
+    markdown = DreHtmlConverter().convert(html).markdown
+    assert ".Tbl" not in markdown and "min-height" not in markdown
+    assert markdown.endswith("319176535\n\nFim.")
