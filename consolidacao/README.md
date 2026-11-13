@@ -12,7 +12,7 @@ Na última ronda em que cada diploma esteve, 2.285 ficaram com tudo `certo` e 77
 
 | Causa | Diplomas | Resolúvel? |
 |---|--:|---|
-| Anexo, quadro, mapa ou planta só em imagem ou PDF | 447 | Não por texto: o conteúdo não está no acervo |
+| Anexo, quadro, mapa ou planta só em imagem ou PDF | 447 | Em parte: desde 1997 o PDF do DR tem o texto dos quadros, que se transcreve pelas coordenadas (6 aplicados; ver "Anexos só em imagem"). Plantas, mapas e digitalizações anteriores a 1997 não |
 | Erro de texto do LLM (palavra, número, alínea) | 252 | Em parte: repedir só o artigo errado ao mesmo modelo resolveu alguns |
 | Títulos de divisão e epígrafes (secção, capítulo) | 74 | Em grande parte: o formato com títulos (rondas 40–43 e 60–61) já os trata |
 | Artigos a mais ou a menos | 39 | Caso a caso |
@@ -152,6 +152,42 @@ Na amostra de 30, o caminho dá assim 6 diplomas aplicados (a 690/97 e estes 5),
 - o pedido completo não tratar o corpo de um anexo;
 - uma instrução que depende de uma lista que fica em imagem;
 - PDFs com caracteres mal codificados.
+
+#### Balanço da amostra de 30 (13/11/2026)
+
+| | Diplomas |
+| --- | --: |
+| Planta ou mapa (sem texto possível) | 4 |
+| Digitalização anterior a 1997 (só com OCR, não feito) | 7 |
+| O reparo não era afinal sobre a imagem | 3 |
+| Quadro com texto no PDF, mas com células fundidas, chavetas ou grupos (parciais) | 3 |
+| Quadro recuperável pelas coordenadas | 13 |
+| … transcrito e conferido | 11 |
+| … **aplicado** (rondas 106 e 107) | **6** |
+
+Os 6 aplicados são as Portarias 690/97, 239/95, 1324/95, 70/98, 1032/2004 e 404/2007, todos planos de estudos. Rendimento: 6 em 30 (20 %) na amostra dos 239 travados só por imagem. Extrapolar para os 239 daria perto de 50, mas a amostra é pequena, e os planos de estudos podem estar sobre-representados.
+
+#### Guia: transcrever os quadros de mais um diploma
+
+1. **Escolher.** Um diploma cuja última ronda só tem reparos de imagem (`verificacao/saida-piloto-*.jsonl`), com o alterador publicado em 1997 ou depois. Antes disso, os PDFs do DR são digitalizações.
+2. **Descarregar** o PDF de cada ligação "(ver … no documento original)" do alterador (`files.diariodarepublica.pt`), cada um numa pasta só sua.
+3. **Ver as coordenadas.** Compilar `scripts/pdfchars.swift` e `scripts/pdfpagina.swift` (`swiftc -O … -o .cache/…`). Depois, `.cache/pdfchars F.pdf P > p.tsv && python consolidacao/pdf_colunas.py p.tsv` dá cada linha com o x de cada palavra, e `.cache/pdfpagina F.pdf P p.png` desenha a página.
+4. **Escrever a especificação** (formato na docstring de `anexos.py`): uma entrada por imagem do texto do alterador, pela ordem; faixas de y sem o cabeçalho; fronteiras de x a meio do espaço entre colunas; nomes das colunas copiados da imagem (um cabeçalho com dois níveis junta-se com " — "). Não se repete o que o Markdown do alterador já tem à volta da ligação (o título do anexo, "QUADRO N.º 1", "1.º ano").
+5. **Transcrever:** `python consolidacao/anexos.py quadros ID_DO_ALTERADOR ESPEC.json F.pdf`, e depois `mostrar`. Confere-se contra o PNG e corrige-se a especificação até estar exato. O JSON nunca se edita à mão.
+6. **Conferir.** Um verificador que não fez a transcrição compara-a célula a célula com a imagem: linhas, ordem, coluna de cada valor, pontos finais verdadeiros e pontos de guia. Só com `certo` se põe "conferido" na especificação e se volta a correr `quadros`. `refazer ID F.pdf` confirma que a transcrição guardada se reproduz.
+7. **Consolidar** pelo fluxo normal: os pedidos (`llm_corrido.py` ou `llm_completo.py pedidos`) já trazem o quadro; depois `importar`, `juntar`, `cegas.py --ronda N --escala`, `cegas_vista.py vistas/saida`, verificadores às cegas com citação da instrução de cada trecho, `acervo.py --dry-run` e `acervo.py` só com tudo `certo` e `Recusados: 0`.
+
+Cuidados:
+- O `juntar` reescreve as linhas de todos os diplomas em `llm/juntados-*.jsonl` e pode mudar-lhes a ordem. Antes de fazer commit, confirma-se que só mudaram os diplomas da ronda e repõe-se a ordem.
+- Uma ligação ao mesmo PDF pode aparecer em vários alteradores (a Portaria 269/2006 altera várias portarias). Cada transcrição é do alterador, não do original, e serve a todos os que ele altera.
+
+#### O que falta
+
+1. **O pedido completo não substitui o corpo de um anexo sem artigos.** O anexo só tem o título de divisão como chave, e a resposta não tem onde pôr o quadro. Por isso falharam a DN 11/2006, com o quadro conferido mas sem sítio no consolidado, e a Portaria 353-E/2009, cuja chave "ANEXO" inventada levou consigo a assinatura. A correção é deixar o `llm_completo` aceitar o corpo de uma divisão, ou mandar estes diplomas pelo pedido corrido.
+2. **Listas com chavetas e continuações noutra coluna.** É o caso da lista da Portaria 269/2006: cerca de 170 linhas com as portarias a que se aplica a nova redação do «Regulamento». Sem ela, a Portaria 77/2001 fica em dúvida e a 1191/2000 com a instrução em falta. Ler os traços do quadro, que o PDF tem como segmentos, resolveria as chavetas e as células fundidas (também os 3 parciais da amostra).
+3. **PDFs com caracteres mal codificados.** Nos anexos da Portaria 919/2003 (Portarias 559/2004, 230/2005 e 1358/2006), "€" sai como "E" e há palavras sem espaço. Isto não se resolve sem corrigir à mão, e por isso fica de fora.
+4. **Digitalizações anteriores a 1997** (7 em 30): só com OCR de quadros, que não foi tentado. O OCR do Vision já está em `scripts/pdftext.swift`, mas sem as colunas.
+5. **Os outros 209 dos 239** não foram vistos. O passo seguinte é correr o guia sobre os de 1997 em diante, começando pelos planos de estudos, que são os que mais rendem.
 
 ### Triagem: alterações que as regras não leem (12/11/2026)
 
@@ -499,6 +535,10 @@ A amostra de 50 diplomas (`consolidar.py --amostra 50 --semente 1`) serviu para 
 | `cegas.py` | Entrada da verificação às cegas (`--ronda N`): os aplicados por regra e os juntados com o LLM que não estão nas rondas anteriores |
 | `acervo.py` | Aplicação ao acervo dos consolidados verificados às cegas, rondas e lotes (`--dry-run` só mostra; `--supor-verificados` com ele conta os lotes ainda sem saída) |
 | `medir.py` | Números do piloto (`medicao.json`) |
+| `anexos.py` | Quadros só em imagem transcritos do PDF do DR pelas coordenadas (`quadros`, `refazer`, `mostrar`); ver "Anexos só em imagem" |
+| `anexos/<id do alterador>.json` | Uma transcrição conferida: especificação, hash do PDF e texto de cada imagem; `texto.alterador` usa-a |
+| `pdf_colunas.py` | As linhas de uma página de PDF com o x de cada palavra (de `scripts/pdfchars.swift`) |
+| `verificacao/anexos-imagem-amostra-30.jsonl`, `anexos-imagem-coordenadas-14.jsonl` | A medição dos anexos em imagem: o PDF tem o texto? E as colunas pelas coordenadas? |
 | `selecao.jsonl` | Os 671, com o diploma que altera, os rótulos do DRE e os artigos que mencionam o original |
 | `resultados.jsonl` | Estado e motivo por diploma |
 | `pendentes.jsonl` | As instruções por aplicar, com o texto dos artigos do original em causa |

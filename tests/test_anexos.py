@@ -85,3 +85,23 @@ def test_texto_corrido_e_numero_com_expoente(monkeypatch):
     monkeypatch.setattr(anexos, "caixas", lambda pdf, pagina: linhas_)
     texto_ = anexos.texto_corrido(Path("x.pdf"), [{"pagina": 1, "de": 0, "ate": 200}])
     assert texto_ == "QUADRO N.º 1 do plano\n\n1.º ano"
+
+
+def test_refazer_confirma_e_apanha_diferencas(tmp_path, monkeypatch):
+    import hashlib
+
+    pdf = tmp_path / "x.pdf"
+    pdf.write_bytes(b"pdf")
+    linha = _letras("Física", 45, 100) + _letras("30", 343, 100)
+    monkeypatch.setattr(anexos, "caixas", lambda p, pagina: linha)
+    monkeypatch.setattr(anexos, "ANEXOS", tmp_path)
+    colunas = [["Unidade", 0], ["Horas", 300]]
+    blocos = [{"tipo": "quadro", "partes": [{"pagina": 1, "de": 0, "ate": 200}]}]
+    texto_ = anexos.quadro(pdf, blocos[0]["partes"], colunas)
+    dados = {"pdf_sha256": hashlib.sha256(b"pdf").hexdigest(),
+             "transcricoes": [{"ocorrencia": 1, "blocos": blocos, "colunas": colunas, "texto": texto_}]}
+    (tmp_path / "pt_dre_1_por.json").write_text(json.dumps(dados), encoding="utf-8")
+    assert anexos.refazer("pt:dre:1:por", pdf) == 0
+    dados["transcricoes"][0]["texto"] = texto_.replace("30", "40")
+    (tmp_path / "pt_dre_1_por.json").write_text(json.dumps(dados), encoding="utf-8")
+    assert anexos.refazer("pt:dre:1:por", pdf) == 1

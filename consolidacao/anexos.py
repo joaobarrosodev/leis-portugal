@@ -2,23 +2,49 @@
 
 No acervo, um quadro de um alterador é muitas vezes só uma ligação "(ver quadro no documento
 original)" para o PDF do DR. Desde 1997 esses PDFs têm camada de texto. O texto simples perde as
-colunas, mas a posição de cada palavra não (ver "Anexos só em imagem" em `README.md`). Aqui:
+colunas, mas a posição de cada palavra não (ver "Anexos só em imagem" em `README.md`, com o guia
+passo a passo). Aqui:
 
 - `quadros ID ESPEC PDF` lê, com `scripts/pdfchars.swift` (compilado em `.cache/pdfchars`, ou no
-  caminho de `LEIS_PORTUGAL_PDFCHARS`), as páginas e as faixas de y que a especificação dá. Cada
-  palavra vai para a coluna em que começa, pelas fronteiras de x da especificação. Uma linha com
-  alguma palavra fora da 1.ª coluna começa uma linha do quadro. Uma linha só com a 1.ª coluna
-  continua a célula de cima. Escreve `anexos/<id>.json` com a especificação, o hash do PDF e o
-  quadro em Markdown, para cada imagem do texto do alterador que se troca;
-- `texto.com_anexos` troca, no texto do alterador, as imagens por esses quadros. Todos os pedidos
+  caminho de `LEIS_PORTUGAL_PDFCHARS`), as páginas e as faixas de y que a especificação dá, e
+  escreve `anexos/<id>.json`: a especificação, o hash do PDF, o número de imagens do texto do
+  alterador e o texto de cada imagem que se troca;
+- `refazer ID PDF` volta a transcrever a partir do próprio `anexos/<id>.json` e diz se o texto mudou;
+- `mostrar ID` mostra as transcrições;
+- `texto.com_anexos` troca, no texto do alterador, as imagens pelas transcrições. Todos os pedidos
   ao LLM, as verificações letra a letra e as vistas às cegas leem o alterador por
-  `texto.alterador`, e por isso veem o quadro.
+  `texto.alterador`, e por isso veem o quadro. O original nunca se transcreve.
 
-A transcrição confere-se à parte, contra a imagem da página, por quem não a fez. O resultado fica
-em "conferido" no ficheiro. Uma transcrição sem conferência não deve servir para aplicar nada.
+A especificação (JSON):
+
+    {"titulo": "...", "pdf": "<URL do PDF no DR>",
+     "colunas": [["Nome da coluna", x_inicial], ...],          # por omissão, para os quadros
+     "conferido": {"data": "...", "por": "...", "resultado": "..."},
+     "quadros": [{"ocorrencia": N, "blocos": [
+         {"tipo": "texto", "partes": [{"pagina": P, "de": y0, "ate": y1}]},
+         {"tipo": "quadro", "partes": [{"pagina": P, "de": y0, "ate": y1, "x_de": 0, "x_ate": 300}],
+          "colunas": [...], "valores_no_fim": false}]}]}
+
+- "ocorrencia" é a N-ésima ligação a uma imagem do DR no texto do alterador (`texto.IMAGEM_DR`);
+- "partes" são faixas de y (o centro da linha, em pontos, a contar do topo) numa ou mais páginas;
+  "x_de"/"x_ate" cortam uma coluna da página, quando o DR tem outro diploma ao lado;
+- num quadro, cada palavra vai para a coluna cujo x inicial é o maior que não passa do x0 dela. Uma
+  linha com alguma palavra fora da 1.ª coluna é uma linha do quadro; uma linha só com a 1.ª coluna
+  continua a célula de cima ou, com "valores_no_fim", começa a da linha seguinte. O cabeçalho sai
+  dos nomes das colunas, copiados da imagem; deixa-se fora das faixas;
+- um bloco de texto junta as linhas em parágrafos (um intervalo maior do que 1,6 vezes o habitual
+  abre um parágrafo novo);
+- em todas as células: os pontos de guia saem ("…… 4" e "virgem*." seguido de ". . ."), uma palavra
+  partida no fim da linha junta-se ("Ali-" + "mentar."), e "1.o"/"N.o" passam a "1.º"/"N.º".
+
+A transcrição confere-se à parte, contra a imagem da página (`scripts/pdfpagina.swift`), por quem
+não a fez, e o resultado fica em "conferido". Uma transcrição sem conferência não serve para
+aplicar nada. O que o PDF não dá letra a letra ("€" lido como "E", palavras coladas sem espaço,
+células com chavetas) não se transcreve: corrigir à mão deixaria de ser uma transcrição.
 
 Uso:
     python consolidacao/anexos.py quadros ID ESPEC.json FICHEIRO.pdf
+    python consolidacao/anexos.py refazer ID FICHEIRO.pdf
     python consolidacao/anexos.py mostrar ID
 """
 
@@ -165,6 +191,19 @@ def quadros(id_: str, espec: Path, pdf: Path) -> None:
     print(f"{_caminho(id_).relative_to(RAIZ)}: {len(transcricoes)} quadros de {n_imagens} imagens")
 
 
+def refazer(id_: str, pdf: Path) -> int:
+    """Volta a transcrever a partir da especificação guardada no próprio ficheiro e diz se o texto
+    mudou. Não escreve nada: serve para confirmar que uma transcrição conferida se reproduz."""
+    dados = json.loads(_caminho(id_).read_text(encoding="utf-8"))
+    if hashlib.sha256(pdf.read_bytes()).hexdigest() != dados["pdf_sha256"]:
+        print(f"{id_}: o PDF não é o da transcrição (sha256 diferente)")
+        return 1
+    diferentes = [t["ocorrencia"] for t in dados["transcricoes"]
+                  if "\n\n".join(bloco(pdf, b, t.get("colunas")) for b in t["blocos"]) != t["texto"]]
+    print(f"{id_}: " + (f"o texto muda nas imagens {diferentes}" if diferentes else "igual à transcrição guardada"))
+    return 1 if diferentes else 0
+
+
 def mostrar(id_: str) -> None:
     for t in json.loads(_caminho(id_).read_text(encoding="utf-8"))["transcricoes"]:
         print(f"## Imagem {t['ocorrencia']}\n\n{t['texto']}\n")
@@ -177,11 +216,16 @@ def main() -> None:
     q.add_argument("id")
     q.add_argument("espec", type=Path)
     q.add_argument("pdf", type=Path)
+    r = sub.add_parser("refazer")
+    r.add_argument("id")
+    r.add_argument("pdf", type=Path)
     m = sub.add_parser("mostrar")
     m.add_argument("id")
     a = ap.parse_args()
     if a.cmd == "quadros":
         quadros(a.id, a.espec, a.pdf)
+    elif a.cmd == "refazer":
+        raise SystemExit(refazer(a.id, a.pdf))
     else:
         mostrar(a.id)
 
