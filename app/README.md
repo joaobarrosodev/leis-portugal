@@ -36,17 +36,26 @@ git tag app-v0.1.0 && git push origin app-v0.1.0
 
 ## Publicar os dados
 
-A aplicação descarrega o índice a partir do endereço em `MANIFESTO`, em `rag/dados.py` (ou da variável `RAG_DADOS_URL`). Enquanto esse endereço estiver vazio, a aplicação diz que os dados ainda não foram publicados.
+O índice está no Hugging Face, em [`joaobarrosodev/leis-portugal-indice`](https://huggingface.co/datasets/joaobarrosodev/leis-portugal-indice) (`rag/dados.py`). Lá ficam:
+- a versão completa;
+- os **deltas** desde ela, com os diplomas novos, alterados e removidos, que são poucos MB numa semana normal;
+- a versão completa anterior, para poder voltar atrás.
+
+Uma aplicação atualizada descarrega só os deltas. Uma aplicação nova, ou parada há muito tempo, descarrega a versão completa.
+
+Para publicar, depois de reconstruir o índice (`python -m rag.indice`) e com a sessão do Hugging Face iniciada (`hf auth login`):
 
 ```bash
-python -m rag.dados publicar --url-base https://huggingface.co/datasets/<conta>/leis-portugal-indice/resolve/main/ --saida dist/dados
+python -m rag.dados publicar --versao 2026-11-20 --enviar
 ```
 
-Depois:
-1. carregar `dist/dados/indice.sqlite.gz` e `versao.json` para esse alojamento;
-2. pôr o endereço do `versao.json` em `MANIFESTO`.
+- **Delta ou versão completa:** se o delta passar de 30% da versão completa, publica-se uma completa nova (para forçar, usar `--completo`).
+- **Ordem do envio:** os ficheiros vão primeiro e o `versao.json` depois, para nunca apontar para um ficheiro que ainda não lá está. Só no fim se apagam os ficheiros que já não fazem falta e se limpa o histórico (`super_squash_history`), para o espaço não crescer.
+- **Privacidade:** o caminho local do export sai da cópia publicada, porque tinha o nome do utilizador da máquina.
+- **Base do próximo delta:** fica em `dist/dados/publicado.sqlite`. Não a apagues.
+- **Descrição do repositório:** é o `rag/dados_cartao.md`, com a licença (as condições de cada fonte oficial).
 
-O índice comprimido tem vários GB, por isso não cabe numa Release do GitHub (máximo de 2 GB por ficheiro). O Hugging Face Datasets aceita ficheiros grandes e é gratuito para dados abertos.
+Os deltas dão o mesmo índice que uma reconstrução de raiz. Isso é testado nos índices pequenos de `tests/test_dados.py` e no índice inteiro com `rag/navegador/equivalencia.py`.
 
 ## Site
 
