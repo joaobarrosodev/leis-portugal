@@ -14,11 +14,11 @@
     "alterador": "pt:dre:617110:por"
   },
   {
-    "artigo": "ANEXO",
-    "operacao": "aditar",
+    "artigo": "ANEXO — (a que se refere o n.º 2 do artigo 2.º)",
+    "operacao": "substituir",
     "regra": "llm",
-    "antes": "",
-    "depois": "###### Artigo ANEXO — (a que se refere o n.º 2 do artigo 2.º)\n\nLimites máximos, por produtor, de venda de volumes de biocombustíveis que beneficiem do regime de isenção de imposto sobre os produtos petrolíferos e energéticos (ISP).\n\n(Metros cúbicos)\n\n| Produtor | 2009 | 2010 |\n| --- | --- | --- |\n| Iberol | 76 159 | 82 426 |\n| Torrejana | 66 691 | 77 654 |\n| Biovegetal | 54 700 | 68 993 |\n| Prio | 52 498 | 67 111 |\n| Sovena | 37 024 | 62 981 |\n\n> Aditado pelo/a [Portaria n.º 69/2010](https://diariodarepublica.pt/dr/detalhe/portaria/69-2010-617110), publicado em 2010-02-04.",
+    "antes": "## ANEXO — (a que se refere o n.º 2 do artigo 2.º)\nLimites máximos, por produtor, de venda de volumes de biocombustível que beneficiem do regime de isenção de imposto sobre os produtos petrolíferos e energéticos (ISP).\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06602/0004800049.pdf)",
+    "depois": "## ANEXO — (a que se refere o n.º 2 do artigo 2.º)\n\nLimites máximos, por produtor, de venda de volumes de biocombustíveis que beneficiem do regime de isenção de imposto sobre os produtos petrolíferos e energéticos (ISP).\n\n(Metros cúbicos)\n\n| Produtor | 2009 | 2010 |\n| --- | --- | --- |\n| Iberol | 76 159 | 82 426 |\n| Torrejana | 66 691 | 77 654 |\n| Biovegetal | 54 700 | 68 993 |\n| Prio | 52 498 | 67 111 |\n| Sovena | 37 024 | 62 981 |\n\n> Alterado pelo/a [Portaria n.º 69/2010](https://diariodarepublica.pt/dr/detalhe/portaria/69-2010-617110), publicado em 2010-02-04.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-02-09'
+version_history:
+  file: portaria-353-e-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-04-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-02-09'
+    amending: pt:dre:617110:por
+    amending_title: Portaria n.º 69/2010
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo ANEXO — (a que se refere o n.º 2 do artigo 2.º)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/353-e/2009/04/03/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 69/2010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-353-e-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,7 +168,7 @@ em que:
 
 A = index FAME + isenção ISP;
 
-B = index gasóleo + isenção ISP - desconto logístico + 10/(percentagem da obrigação);
+B = index gasóleo + isenção de ISP - desconto logístico + 148
 
 C = index mix óleos + index frete + index metanol + custos variáveis prod. + outros custos prod.
 
@@ -194,6 +210,8 @@ em que os termos «index mix óleos», «index frete», «index metanol» e «cu
 
 7 - As situações a que se referem os n.os 1 e 6, por parte de uma entidade referida na alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2009-604599), de 26 de Fevereiro, aplica-se, em qualquer mês, às quantidades de biocombustíveis correspondentes às que, no mês anterior, essa entidade não tenha conseguido adquirir a qualquer a qualquer produtor referido na alínea a) do n.º 1 do artigo 2.º do aludido decreto-lei, com fundamento em qualquer das situações previstas na presente portaria.
 
+> Alterado pelo/a [Portaria n.º 69/2010](https://diariodarepublica.pt/dr/detalhe/portaria/69-2010-617110), publicado em 2010-02-04.
+
 ###### Artigo 2.º — Limites máximos de venda de volumes de biocombustível que beneficiem do regime de isenção de imposto sobre os produtos petrolíferos e energéticos (ISP)
 
 1 - Nos termos do disposto no n.º 4 do artigo 4.º do [Decreto-Lei n.º 49/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2009-604599), de 26 de Fevereiro, os limites máximos, por produtor, de venda de volumes de biocombustível que beneficiem do regime de isenção de imposto sobre os produtos petrolíferos e energéticos (ISP), para os anos de 2009 e 2010, são proporcionais às quantidades constantes dos despachos do director-geral de Energia e Geologia em aplicação das correcções previstas na [Portaria n.º 1554-A/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1554-a-2007-627662), de 7 de Dezembro.
@@ -206,6 +224,16 @@ O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinh
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 2.º)
 
-Limites máximos, por produtor, de venda de volumes de biocombustível que beneficiem do regime de isenção de imposto sobre os produtos petrolíferos e energéticos (ISP).
+Limites máximos, por produtor, de venda de volumes de biocombustíveis que beneficiem do regime de isenção de imposto sobre os produtos petrolíferos e energéticos (ISP).
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06602/0004800049.pdf)
+(Metros cúbicos)
+
+| Produtor | 2009 | 2010 |
+| --- | --- | --- |
+| Iberol | 76 159 | 82 426 |
+| Torrejana | 66 691 | 77 654 |
+| Biovegetal | 54 700 | 68 993 |
+| Prio | 52 498 | 67 111 |
+| Sovena | 37 024 | 62 981 |
+
+> Alterado pelo/a [Portaria n.º 69/2010](https://diariodarepublica.pt/dr/detalhe/portaria/69-2010-617110), publicado em 2010-02-04.

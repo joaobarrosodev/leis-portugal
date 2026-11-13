@@ -16,14 +16,21 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 1, art. 3.º (substituição do anexo): o texto atual só traz o título de divisão '## ANEXO — (a que se referem o n.º 1 do artigo 3.º e o n.º 1 do artigo 9.º)', sem nenhuma unidade (chave) onde colocar o corpo do anexo; o título fica igual e o novo quadro (tabela Markdown de 7 linhas e a nota '*aplicável apenas quando a análise seja efectuada ao lote de azeite obtido a partir de entregas realizadas por vários olivicultores.') não foi colocado por falta de chave. Alterador 1, art. 4.º (as referências ao INGA consideram-se feitas ao IFAP): remissão interpretativa, não é alteração textual; o texto mantém 'INGA' onde não foi reescrito.",
+  "anexos": [
+    {
+      "titulo": "## ANEXO — (a que se referem o n.º 1 do artigo 3.º e o n.º 1 do artigo 9.º)",
+      "texto": "| Produto | Valores por tonelada (em euros) |\n| --- | --- |\n| Azeite com acidez igual ou inferior a 0,8 % | 120 |\n| Azeite virgem extra* | 120 |\n| Azeite com acidez superior a 0,8 % e igual ou inferior a 2 % | 60 |\n| Azeite virgem* | 60 |\n| Azeite com certificado DOP | 180 |\n| Azeite equivalente resultante de azeitonas com calibre igual ou menor que 500 frutos por quilograma | 120 |\n| Azeite equivalente resultante de azeitonas com certificação DOP | 180 |\n\n*aplicável apenas quando a análise seja efectuada ao lote de azeite obtido a partir de entregas realizadas por vários olivicultores.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Artigo 4.º do Despacho Normativo n.º 14/2008 (as referências ao INGA consideram-se feitas ao IFAP) é uma regra de remissão geral, não uma alteração textual: o texto dos artigos mantém \"INGA\" onde nenhuma nova redação o substitui.",
   "instrucoes": [
-    "Alt. 1, art. 1.º: nova redação do n.º 2 do art. 6.º (n.os 1 e 3 mantidos) - aplicado.",
-    "Alt. 1, art. 1.º: nova redação do n.º 1 do art. 8.º (n.os 2 a 5 mantidos) - aplicado.",
-    "Alt. 1, art. 2.º: aditados n.os 4 e 5 ao art. 6.º - aplicado.",
-    "Alt. 1, art. 3.º: substituição do anexo - não aplicado (sem chave para o corpo do anexo no texto atual), ver nao_aplicavel.",
-    "Alt. 1, art. 4.º: referências ao INGA passam a IFAP - remissão não textual, não aplicada.",
-    "Alt. 1, art. 5.º: entrada em vigor do alterador - não altera o original."
+    "Art. 1.º: nova redação do n.º 2 do artigo 6.º (n.os 1 e 3 mantidos) — aplicada.",
+    "Art. 1.º: nova redação do n.º 1 do artigo 8.º (n.os 2 a 5 mantidos) — aplicada.",
+    "Art. 2.º: aditados os n.os 4 e 5 ao artigo 6.º — aplicada.",
+    "Art. 3.º: anexo substituído pelo anexo do Despacho Normativo n.º 14/2008 — aplicada em \"anexos\".",
+    "Art. 4.º: referências ao INGA consideram-se feitas ao IFAP — não aplicada ao texto (remissão geral), indicada em nao_aplicavel.",
+    "Art. 5.º: entrada em vigor do alterador — não altera o original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

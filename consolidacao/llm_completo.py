@@ -17,6 +17,13 @@ das regras, sem recusar os artigos que as regras já tinham alterado (o LLM viu 
 Escreve `llm/juntados-completo.jsonl`, que `cegas.py --escala` e `acervo.py` leem por cima de
 `llm/juntados-escala.jsonl`.
 
+**Corpo de um anexo fora dos artigos (`anexos`):** um anexo sem artigos (um quadro, uma lista) é,
+no texto, só o título "## Anexo …" e as linhas até ao título seguinte. O pedido mostra esse corpo a
+seguir ao título ("#### Corpo do anexo:"), e a resposta substitui-o em "anexos" (`titulo`, `texto`,
+`alterador`), com a mesma verificação letra a letra dos artigos. O corpo novo fica seguido da nota
+"> Alterado pelo/a …". As respostas antigas não têm o campo e juntam-se como antes (ver "Anexos só
+em imagem" no `README.md`, ronda 108).
+
 **Passagens (`passagem`):** para os diplomas cujo pedido inteiro não cabe num contexto (os 93 de
 `llm/pedido-completo-grandes.tsv`), os alteradores partem-se em grupos por ordem de aplicação e
 cada grupo vai num pedido à parte, sobre o texto que as passagens anteriores deixaram. Por diploma,
@@ -100,6 +107,14 @@ Regras:
   copiado letra a letra do diploma que altera) ou null para o eliminar, "alterador": o número}.
   Não inventes títulos que não estão no texto atual. Põe-nos pela ordem do texto: um título que
   se repete (o mesmo "TÍTULO II" em dois livros) entende-se o primeiro a seguir ao anterior da lista.
+- O texto de um anexo que está fora dos artigos (um quadro, uma lista, uma tabela) vem logo a seguir
+  ao título dele, como "#### Corpo do anexo:" (ou "#### Corpo do anexo: (vazio)"). Uma instrução que
+  substitui ou altera esse texto vai em "anexos": {"titulo": a linha do título tal como vem, sem
+  "#### Título de divisão: ", "texto": o corpo novo inteiro, sem o título (parágrafos separados por
+  uma linha em branco, copiado letra a letra do diploma que altera; um quadro em Markdown copia-se
+  como vem), "alterador": o número}. Não ponhas o corpo de um anexo em "artigos" nem inventes chaves
+  como "ANEXO": "artigos" é só para os artigos. O título do anexo não muda por aqui (isso é em
+  "titulos"), e as assinaturas e fórmulas finais do diploma não entram no corpo do anexo.
 - Se uma instrução não se puder aplicar com segurança (alvo ambíguo, texto que não existe no
   texto atual, anexo ou quadro que só vem em imagem, alteração que não é textual), não a
   inventes: diz em "nao_aplicavel" qual é e porquê. Se tudo ficou aplicado, "nao_aplicavel" é null.
@@ -114,8 +129,8 @@ SISTEMA_RESPOSTA = ESQUEMA | {
 FORMATO = """
 ## Formato da resposta
 Escreve (com a ferramenta Write) um ficheiro JSON com uma lista, um objeto por diploma do pedido (todos), assim:
-`{"id": "<id>", "artigos": [{"chave": "...", "epigrafe": "...", "texto": "...", "alterador": 1}], "removidos": ["chave", ...], "titulos": [{"atual": "#### SECÇÃO IV — …", "novo": "#### SECÇÃO IV — …", "alterador": 2}], "nao_aplicavel": null ou "texto", "instrucoes": ["resumo curto de cada instrução do original e o que fizeste"]}`
-Só usas o pedido; não leias mais nada. O "texto" de cada artigo é o corpo inteiro (sem o título "Artigo N.º"), parágrafos separados por uma linha em branco, copiado letra a letra do alterador ou do texto atual. "removidos" é [] quando nenhum artigo desaparece; "titulos" é [] quando nenhum título de divisão muda. Confirma no fim que o JSON é válido e que respondeste a todos os "<<<DIPLOMA id=...>>>".
+`{"id": "<id>", "artigos": [{"chave": "...", "epigrafe": "...", "texto": "...", "alterador": 1}], "removidos": ["chave", ...], "titulos": [{"atual": "#### SECÇÃO IV — …", "novo": "#### SECÇÃO IV — …", "alterador": 2}], "anexos": [{"titulo": "## ANEXO …", "texto": "...", "alterador": 1}], "nao_aplicavel": null ou "texto", "instrucoes": ["resumo curto de cada instrução do original e o que fizeste"]}`
+Só usas o pedido; não leias mais nada. O "texto" de cada artigo é o corpo inteiro (sem o título "Artigo N.º"), parágrafos separados por uma linha em branco, copiado letra a letra do alterador ou do texto atual. "removidos" é [] quando nenhum artigo desaparece; "titulos" é [] quando nenhum título de divisão muda; "anexos" é [] quando nenhum corpo de anexo muda. Confirma no fim que o JSON é válido e que respondeste a todos os "<<<DIPLOMA id=...>>>".
 """
 
 _TITULO_DIVISAO = re.compile(r"^#{2,5} ")
@@ -142,6 +157,10 @@ def verificar_resposta(resultado: dict, selecao: dict, textos_atuais: list[str] 
             if _REVOGADO.match(p) or vem_de_algum(_plano(p)) or vem_de_algum(_plano(_NUMERACAO.sub("", p))):
                 continue
             problemas.append(f"{artigo['chave']}: parágrafo que não está no alterador nem no original: {p[:80]}")
+    for anexo in resultado.get("anexos") or []:
+        for p in (x.strip() for x in (anexo.get("texto") or "").split("\n\n") if x.strip()):
+            if not vem_de_algum(_plano(p)):
+                problemas.append(f"anexo {str(anexo.get('titulo'))[:40]}: parágrafo que não está no alterador nem no original: {p[:80]}")
     for titulo in resultado.get("titulos") or []:
         novo = titulo.get("novo")
         if novo is None:
@@ -180,7 +199,12 @@ def pedido(registo: dict, extra: dict, alteradores: list[dict] | None = None, in
     chaves = consolidado.chaves_unicas()
     for s in consolidado.segmentos:
         if not isinstance(s, Artigo):
-            partes += [f"#### Título de divisão: {l.strip()}" for l in s if _TITULO_DIVISAO.match(l)]
+            for k, l in enumerate(s):
+                if _TITULO_DIVISAO.match(l):
+                    partes.append(f"#### Título de divisão: {l.strip()}")
+                    if texto_mod._ANEXO.match(l):
+                        corpo = _NOTA.sub("", "\n".join(s[k + 1 : _fim_do_corpo(s, k)])).strip()
+                        partes += [f"#### Corpo do anexo:{'' if corpo else ' (vazio)'}"] + ([corpo, ""] if corpo else [])
             continue
         chave = chaves[id(s)]
         sinal = (" [já alterado por um programa]" if s.chave in tocados
@@ -205,7 +229,7 @@ def _fundir(respostas: list[dict]) -> dict:
     o texto de um artigo é o da última resposta que o deu; os removidos somam-se (um artigo
     removido e depois dado outra vez deixa de estar removido); `nao_aplicavel` e `instrucoes`
     juntam-se."""
-    saida: dict = {"id": None, "artigos": [], "removidos": [], "titulos": [], "nao_aplicavel": None, "instrucoes": []}
+    saida: dict = {"id": None, "artigos": [], "removidos": [], "titulos": [], "anexos": [], "nao_aplicavel": None, "instrucoes": []}
     por_chave: dict[str, dict] = {}
     for r in respostas:
         saida["id"] = saida["id"] or r.get("id")
@@ -221,6 +245,7 @@ def _fundir(respostas: list[dict]) -> dict:
             saida["nao_aplicavel"] = (saida["nao_aplicavel"] + " | " if saida["nao_aplicavel"] else "") + str(r["nao_aplicavel"])
         saida["instrucoes"] += list(r.get("instrucoes") or [])
         saida["titulos"] += list(r.get("titulos") or [])  # aplicam-se pela ordem
+        saida["anexos"] += list(r.get("anexos") or [])  # o mesmo anexo duas vezes: fica o último
     saida["artigos"] = list(por_chave.values())
     return saida
 
@@ -333,7 +358,7 @@ def importar(ficheiros: list[Path]) -> None:
         resposta = partes[0] if len(partes) == 1 else _fundir(partes)
         resposta |= {"modelo": resposta.get("modelo") or "claude-opus-5-5", "pedido": "completo"}
         resposta["problemas"] = verificar_resposta(resposta, selecao[i])
-        tipo = "com problemas" if resposta["problemas"] else "sem alterações" if not resposta.get("artigos") else "sem problemas"
+        tipo = "com problemas" if resposta["problemas"] else "sem alterações" if not (resposta.get("artigos") or resposta.get("anexos")) else "sem problemas"
         contagem[tipo] = contagem.get(tipo, 0) + 1
         (COMPLETO / (i.replace(":", "_") + ".json")).write_text(json.dumps(resposta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(contagem)
@@ -375,6 +400,20 @@ def _aplicar(resposta: dict, registo: dict, consolidado) -> tuple[list[Registo],
     for artigo in a_remover:  # por identidade: com chaves repetidas, dois artigos podem ser iguais
         consolidado.segmentos = [s for s in consolidado.segmentos if s is not artigo]
         registos_llm.append(Registo(artigo.chave, "revogar", "llm", "\n".join(artigo.linhas).strip(), "", "", "", metodo="llm"))
+    for anexo in resposta.get("anexos") or []:
+        n = next(iter(sorted({int(x) for x in re.findall(r"\d+", str(anexo.get("alterador") or ""))} & set(por_numero))), None)
+        escolhidos = [por_numero[n]] if n else alteradores
+        ligacoes = []
+        for a in escolhidos:
+            url = (front_matter((RAIZ / a["path"]).read_text(encoding="utf-8")).get("source") or {}).get("official_url") or ""
+            ligacoes.append(f"[{a['title']}]({url})" if url else a["title"])
+        data = max((a.get("publication_date") or "" for a in escolhidos), default="")
+        feito, erro = _mudar_corpo_do_anexo(consolidado, anexo, " e ".join(ligacoes), data)
+        if erro:
+            return registos_llm, citados, erro
+        if feito is not None:
+            registos_llm.append(feito)
+            citados.update({a["id"]: a for a in escolhidos})
     cursor = (-1, -1)  # os títulos vêm pela ordem do texto: um repetido é o primeiro a seguir ao anterior
     for titulo in resposta.get("titulos") or []:
         feito, erro, cursor = _mudar_titulo(consolidado, titulo, cursor)
@@ -475,6 +514,37 @@ def _mudar_titulo(consolidado, titulo: dict, cursor: tuple[int, int] = (-1, -1))
         return None, None, posicao
     segmento[i] = depois
     return Registo(sem_marca(antes), "substituir", "llm", antes, depois, "", "", metodo="llm"), None, posicao
+
+
+def _fim_do_corpo(segmento: list[str], k: int) -> int:
+    """O fim (exclusivo) do corpo do título na linha `k` de um segmento fora dos artigos: a linha
+    do título seguinte, ou o fim do segmento."""
+    return next((j for j in range(k + 1, len(segmento)) if texto_mod._TITULO.match(segmento[j])), len(segmento))
+
+
+def _mudar_corpo_do_anexo(consolidado, anexo: dict, ligacao: str, data: str):
+    """Troca o corpo de um anexo que está fora dos artigos (as linhas entre o título "## Anexo …" e
+    o título seguinte) pelo `texto` da resposta, seguido da nota "> Alterado pelo/a …". O título tem
+    de existir letra a letra e uma só vez. Devolve (registo, erro); (None, None) quando o corpo novo
+    é igual ao atual."""
+    titulo = re.sub(r"^#+\s*", "", str(anexo.get("titulo") or "").strip())
+    lugares = [(s, i) for s in consolidado.segmentos if not isinstance(s, Artigo)
+               for i, l in enumerate(s) if texto_mod._ANEXO.match(l) and re.sub(r"^#+\s*", "", l.strip()) == titulo]
+    if len(lugares) != 1:
+        return None, f"anexo {titulo[:60]}: o título " + ("não existe no texto" if not lugares else "repete-se no texto")
+    segmento, i = lugares[0]
+    fim = _fim_do_corpo(segmento, i)
+    paragrafos = [p.strip() for p in (anexo.get("texto") or "").split("\n\n") if p.strip()]
+    antes = "\n".join(segmento[i + 1 : fim]).strip()
+    if "\n\n".join(paragrafos) == re.sub(r"\n{2,}", "\n\n", _NOTA.sub("", antes).strip()):
+        return None, None
+    linhas = [""]
+    for p in paragrafos:
+        linhas += [p, ""]
+    linhas += [f"> {'Alterado' if paragrafos else 'Revogado'} pelo/a {ligacao}, publicado em {data}.", ""]
+    segmento[i + 1 : fim] = linhas
+    depois = "\n".join(segmento[i : i + len(linhas) + 1]).strip()
+    return Registo(titulo, "substituir" if paragrafos else "revogar", "llm", "\n".join([segmento[i], antes]).strip(), depois, "", "", metodo="llm"), None
 
 
 def _recolocar_assinaturas(consolidado, ultimos: set[str] | None = None) -> None:
@@ -597,7 +667,7 @@ def passagem(ids: list[str], pasta: Path, max_chars: int) -> None:
             (COMPLETO / (i.replace(":", "_") + ".json")).write_text(json.dumps(final, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
             estado["feito"] = True
             ficheiro_estado.write_text(json.dumps(estado, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-            tipo = "com problemas" if problemas else "sem alterações" if not final["artigos"] and not final["removidos"] else "sem problemas"
+            tipo = "com problemas" if problemas else "sem alterações" if not final["artigos"] and not final["removidos"] and not final["anexos"] else "sem problemas"
             print(f"{i} {registo['title']}: feito em {len(estado['passagens'])} passagens, {len(final['artigos'])} artigos, {tipo}")
             continue
         base = sum(len(a.chave) + len(a.epigrafe or "") + len(_NOTA.sub("", a.texto)) + 10 for a in consolidado.artigos) + 2000
@@ -631,7 +701,7 @@ def juntar() -> None:
             linhas.append({"id": resposta["id"], "title": selecao[resposta["id"]]["title"], "estado": "não junto", "motivo": "juntado por llm_gigantes.py (llm/juntados-corrido.jsonl)"})
         elif resposta["problemas"]:
             linhas.append({"id": resposta["id"], "title": selecao[resposta["id"]]["title"], "estado": "não junto", "motivo": "a resposta não passou a verificação letra a letra: " + "; ".join(resposta["problemas"])[:300]})
-        elif not resposta["artigos"] and not resposta.get("removidos") and not resposta.get("titulos"):
+        elif not resposta["artigos"] and not resposta.get("removidos") and not resposta.get("titulos") and not resposta.get("anexos"):
             linhas.append({"id": resposta["id"], "title": selecao[resposta["id"]]["title"], "estado": "não junto", "motivo": "a resposta não tem artigos: " + str(resposta.get("nao_aplicavel"))[:200]})
         else:
             linhas.append(_junto(resposta, selecao[resposta["id"]]))

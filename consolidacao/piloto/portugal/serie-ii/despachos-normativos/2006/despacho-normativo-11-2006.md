@@ -140,14 +140,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO — (a que se referem o n.º 1 do artigo 3.º e o n.º 1 do artigo 9.º)
 
-Produto ... Valores por tonelada (em euros)
+| Produto | Valores por tonelada (em euros) |
+| --- | --- |
+| Azeite com acidez igual ou inferior a 0,8 % | 120 |
+| Azeite virgem extra* | 120 |
+| Azeite com acidez superior a 0,8 % e igual ou inferior a 2 % | 60 |
+| Azeite virgem* | 60 |
+| Azeite com certificado DOP | 180 |
+| Azeite equivalente resultante de azeitonas com calibre igual ou menor que 500 frutos por quilograma | 120 |
+| Azeite equivalente resultante de azeitonas com certificação DOP | 180 |
 
-Azeite com acidez igual ou inferior a 0,8% ...120
+*aplicável apenas quando a análise seja efectuada ao lote de azeite obtido a partir de entregas realizadas por vários olivicultores.
 
-Azeite com acidez superior a 0,8% e inferior a 2% ... 60
-
-Azeite com certificado DOP ... 180
-
-Azeite equivalente resultante de azeitonas com calibre igual ou menor que 500 frutos por quilograma ... 120
-
-Azeite equivalente resultante de azeitonas com certificação DOP ... 180
+> Alterado pelo/a [Despacho Normativo n.º 14/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2008-2437034), publicado em 2008-03-03.

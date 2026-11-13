@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-03-03'
+version_history:
+  file: despacho-normativo-11-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-10-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-03-03'
+    amending: pt:dre:2437034:por
+    amending_title: Despacho Normativo n.º 14/2008
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo ANEXO — (a que se referem o n.º 1 do artigo 3.º e o n.º 1 do artigo 9.º)
 identifiers:
   celex: null
   eli: null
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:06:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 14/2008. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2006/despacho-normativo-11-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -187,9 +204,15 @@ a) Encontrarem-se devidamente licenciados;
 
 b) Disporem de um sistema de contabilidade de matéria ligado à contabilidade financeira que permita assegurar o registo das quantidades entradas, laboradas e saídas.
 
-2 - Para efeitos do respectivo reconhecimento, os lagares devem fazer prova, mediante declaração a apresentar ao INGA, de que é assegurada a realização das análises, por laboratório acreditado ou externo ao lagar, tendo em vista a determinação do teor em gordura ou do grau de acidez das entregas individuais de azeitona e do azeite obtido por olivicultor.
+2 - Para efeitos do respectivo reconhecimento, os lagares devem fazer prova, mediante declaração a apresentar ao Instituto de Financiamento da Agricultura e Pescas, I.P. (IFAP), de que é assegurada a realização, por laboratório acreditado ou externo ao lagar, da análise do teor em gordura e do grau de acidez das entregas individuais de azeitona ou do azeite obtido a partir das entregas de azeitona efectuadas por um ou vários olivicultores.
 
 3 - Para efeitos do respectivo reconhecimento, as unidades de transformação de azeitona de mesa devem fazer prova, mediante declaração a apresentar ao INGA, de que é assegurada a realização de testes de calibragem, tendo em vista a diferenciação de qualidade da azeitona.
+
+4 - Para a campanha 2007-2008, caso as análises sejam efectuadas em laboratório diferente do já declarado ao IFAP nos termos do n.º 2, devem os lagares rectificar essa informação até 15 de Março de 2008.
+
+5 - Para efeitos do disposto no n.º 2, a análise ao lote de azeite obtido a partir de entregas de azeitona por vários olivicultores só pode ser efectuada desde que haja acordo escrito entre estes, devendo o lagar assegurar um registo que comprove a correspondência entre o lote de azeite analisado e as entregas individuais que lhe deram origem.
+
+> Alterado pelo/a [Despacho Normativo n.º 14/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2008-2437034), publicado em 2008-03-03.
 
 ###### Artigo 7.º — Comunicações
 
@@ -199,7 +222,7 @@ b) Disporem de um sistema de contabilidade de matéria ligado à contabilidade f
 
 ###### Artigo 8.º — Certificados de entrega
 
-1 - Os lagares reconhecidos emitem e entregam aos olivicultores um certificado de entrega elaborado com base no registo das quantidades de azeitona entregues e nas quantidades de azeite obtido, discriminando, por lote, a quantidade de azeitona entregue, a data de entrega e o número do respectivo documento suporte, bem como a quantidade de azeite obtido e o correspondente grau de acidez, identificando, sempre que se justifique, a menção DOP e a sua designação.
+1 - Os lagares reconhecidos emitem e entregam aos olivicultores um certificado de entrega elaborado com base no registo das quantidades de azeitona entregues e nas quantidades de azeite obtido, discriminando, por lote, a quantidade de azeitona entregue, a data de entrega e o número do respectivo documento suporte, bem como a quantidade de azeite obtido e o correspondente grau de acidez, identificando, sempre que se justifique, a menção qualitativa de azeite virgem extra ou azeite virgem ou ainda a menção DOP e a sua designação.
 
 2 - As unidades de transformação de azeitona de mesa reconhecidas emitem e entregam aos olivicultores um certificado de entrega discriminando, por lote, a quantidade de azeitona entregue e transformada, a data de entrega e o número do respectivo documento suporte, bem como o calibre da azeitona, identificando, sempre que se justifique, a menção DOP e a sua designação.
 
@@ -208,6 +231,8 @@ b) Disporem de um sistema de contabilidade de matéria ligado à contabilidade f
 4 - A partir do ano de 2008, os certificados emitidos pelos lagares e unidades de transformação de azeitona de mesa, nos termos do presente artigo, são remetidos ao INGA, até ao termo do prazo de entrega do pedido único de ajuda "Superfícies", em suporte electrónico, de acordo com modelo a definir pelo INGA.
 
 5 - Os certificados referidos nos n.os 1 e 2 do presente artigo devem ser emitidos e entregues no prazo máximo de 15 dias anteriores ao termo do prazo de entrega do pedido de ajuda "Superfícies".
+
+> Alterado pelo/a [Despacho Normativo n.º 14/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2008-2437034), publicado em 2008-03-03.
 
 ###### Artigo 9.º — Montante dos pagamentos complementares
 
@@ -253,14 +278,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO — (a que se referem o n.º 1 do artigo 3.º e o n.º 1 do artigo 9.º)
 
-Produto ... Valores por tonelada (em euros)
+| Produto | Valores por tonelada (em euros) |
+| --- | --- |
+| Azeite com acidez igual ou inferior a 0,8 % | 120 |
+| Azeite virgem extra* | 120 |
+| Azeite com acidez superior a 0,8 % e igual ou inferior a 2 % | 60 |
+| Azeite virgem* | 60 |
+| Azeite com certificado DOP | 180 |
+| Azeite equivalente resultante de azeitonas com calibre igual ou menor que 500 frutos por quilograma | 120 |
+| Azeite equivalente resultante de azeitonas com certificação DOP | 180 |
 
-Azeite com acidez igual ou inferior a 0,8% ...120
+*aplicável apenas quando a análise seja efectuada ao lote de azeite obtido a partir de entregas realizadas por vários olivicultores.
 
-Azeite com acidez superior a 0,8% e inferior a 2% ... 60
-
-Azeite com certificado DOP ... 180
-
-Azeite equivalente resultante de azeitonas com calibre igual ou menor que 500 frutos por quilograma ... 120
-
-Azeite equivalente resultante de azeitonas com certificação DOP ... 180
+> Alterado pelo/a [Despacho Normativo n.º 14/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2008-2437034), publicado em 2008-03-03.

@@ -26,5 +26,19 @@
     "unidade": [],
     "diploma": "pt:dre:2808268:por",
     "alterador": "pt:dre:2437034:por"
+  },
+  {
+    "artigo": "ANEXO — (a que se referem o n.º 1 do artigo 3.º e o n.º 1 do artigo 9.º)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — (a que se referem o n.º 1 do artigo 3.º e o n.º 1 do artigo 9.º)\nProduto ... Valores por tonelada (em euros)\n\nAzeite com acidez igual ou inferior a 0,8% ...120\n\nAzeite com acidez superior a 0,8% e inferior a 2% ... 60\n\nAzeite com certificado DOP ... 180\n\nAzeite equivalente resultante de azeitonas com calibre igual ou menor que 500 frutos por quilograma ... 120\n\nAzeite equivalente resultante de azeitonas com certificação DOP ... 180",
+    "depois": "## ANEXO — (a que se referem o n.º 1 do artigo 3.º e o n.º 1 do artigo 9.º)\n\n| Produto | Valores por tonelada (em euros) |\n| --- | --- |\n| Azeite com acidez igual ou inferior a 0,8 % | 120 |\n| Azeite virgem extra* | 120 |\n| Azeite com acidez superior a 0,8 % e igual ou inferior a 2 % | 60 |\n| Azeite virgem* | 60 |\n| Azeite com certificado DOP | 180 |\n| Azeite equivalente resultante de azeitonas com calibre igual ou menor que 500 frutos por quilograma | 120 |\n| Azeite equivalente resultante de azeitonas com certificação DOP | 180 |\n\n*aplicável apenas quando a análise seja efectuada ao lote de azeite obtido a partir de entregas realizadas por vários olivicultores.\n\n> Alterado pelo/a [Despacho Normativo n.º 14/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2008-2437034), publicado em 2008-03-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2808268:por",
+    "alterador": "pt:dre:2437034:por"
   }
 ]
