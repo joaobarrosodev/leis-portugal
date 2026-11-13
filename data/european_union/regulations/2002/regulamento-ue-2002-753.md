@@ -302,6 +302,18 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/ee452451-0dd9-4eee-aa39-dd4561461a13
   date: '1999-07-21'
 - type: cited_by
+  target: pt:dre:1178035:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1686415:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2243876:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:452915:por
   label: null
   source: null

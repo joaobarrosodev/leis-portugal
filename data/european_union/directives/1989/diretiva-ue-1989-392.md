@@ -100,6 +100,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/174102e5-dc58-4345-acbf-207151885f81
   date: '1986-02-28'
 - type: cited_by
+  target: pt:dre:1033399169:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:216510:por
   label: null
   source: null
@@ -125,6 +129,22 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:665154:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:911344322:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:911689083:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:915864954:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:920792847:por
   label: null
   source: null
 - type: cites

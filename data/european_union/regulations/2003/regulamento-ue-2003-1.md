@@ -228,11 +228,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1622861:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:187538042:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:2850100:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:3567918:por
   label: null
   source: null
 - type: cited_by

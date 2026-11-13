@@ -167,6 +167,14 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1149748198:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1182870898:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:141382321:por
   label: null
   source: null
@@ -394,6 +402,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/2644663d-dfa1-41e2-8737-08f1e06511da
   date: '2007-12-06'
+- type: transposed_by
+  target: pt:dre:1118663123:por
+  label: null
+  source: null
 - type: transposed_by
   target: pt:dre:116130011:por
   label: null

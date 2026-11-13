@@ -89,6 +89,14 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/6b390c35-d623-4785-86a0-1fb492a32cab
   date: '2012-11-23'
+- type: cited_by
+  target: pt:dre:105703021:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:917105611:por
+  label: null
+  source: null
 - type: cites
   target: celex:31995L0046
   label: null
@@ -172,6 +180,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/6091bf4a-b31d-11eb-8aca-01aa75ed71a1
   date: '2021-05-12'
+- type: transposed_by
+  target: pt:dre:105711019:por
+  label: null
+  source: null
 - type: transposed_by
   target: pt:dre:70196967:por
   label: null

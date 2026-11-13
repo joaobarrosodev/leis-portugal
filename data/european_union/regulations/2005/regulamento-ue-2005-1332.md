@@ -84,6 +84,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/84f42716-b5ca-49ef-9bc2-c14b2f2b9331
   date: '1997-03-05'
+- type: cited_by
+  target: pt:dre:207483825:por
+  label: null
+  source: null
 - type: cites
   target: celex:31979L0409
   label: null

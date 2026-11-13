@@ -914,6 +914,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:185092179:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:200268066:por
   label: null
   source: null
@@ -935,6 +939,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:211711493:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:212694391:por
   label: null
   source: null
 - type: cited_by

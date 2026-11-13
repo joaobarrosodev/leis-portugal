@@ -290,7 +290,15 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:127064077:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:142735878:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:146238758:por
   label: null
   source: null
 - type: cited_by

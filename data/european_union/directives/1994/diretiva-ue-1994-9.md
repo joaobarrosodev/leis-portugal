@@ -189,6 +189,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/fa856924-f221-415c-9fe0-88241e140041
   date: '1982-03-02'
+- type: transposed_by
+  target: pt:dre:107774650:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 17

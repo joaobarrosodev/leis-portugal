@@ -157,6 +157,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:114481887:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1169277025:por
   label: null
   source: null
@@ -169,6 +173,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:208462387:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:214252942:por
   label: null
   source: null
@@ -177,11 +185,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:2344448:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:553952:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:66761450:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:75066654:por
   label: null
   source: null
 - type: cited_by

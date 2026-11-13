@@ -190,6 +190,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:120489653:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:124831327:por
   label: null
   source: null
@@ -211,6 +215,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:520665:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:861245:por
   label: null
   source: null
 - type: cites

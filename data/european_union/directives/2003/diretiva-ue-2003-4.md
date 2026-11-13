@@ -220,11 +220,51 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/adc195c3-5384-4ea5-9875-9741b33c665b
   date: '1990-06-23'
 - type: transposed_by
+  target: pt:dre:126870454:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:129902576:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:130472616:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:156125111:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:159993738:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:167651416:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:170221042:por
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:205748169:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:229915578:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:75177807:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:839220510:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:926749009:por
   label: null
   source: null
 article_structure:

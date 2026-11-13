@@ -121,6 +121,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/0368c109-57a1-402e-8ec5-1a538d68a44c
   date: '2010-03-08'
+- type: cited_by
+  target: pt:dre:74414918:por
+  label: null
+  source: null
 - type: cites
   target: celex:31987R3846
   label: null

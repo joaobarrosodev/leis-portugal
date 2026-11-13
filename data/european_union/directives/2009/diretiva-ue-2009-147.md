@@ -498,6 +498,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/27895d9e-9266-4ebd-b493-9a5b03163189
   date: '2008-12-04'
 - type: transposed_by
+  target: pt:dre:1003479544:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:1022092627:por
   label: null
   source: null
@@ -683,6 +687,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:1088732651:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:1128525249:por
   label: null
   source: null
 - type: transposed_by

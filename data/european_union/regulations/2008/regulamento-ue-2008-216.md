@@ -310,11 +310,27 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:107774650:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114481887:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1169277025:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:1169277026:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:124006827:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:132431550:por
   label: null
   source: null
 - type: cited_by
@@ -342,11 +358,23 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:61382544:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:66761450:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:70025054:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:74365544:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:897260778:por
   label: null
   source: null
 - type: cites

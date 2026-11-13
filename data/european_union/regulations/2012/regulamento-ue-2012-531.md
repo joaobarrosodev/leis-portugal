@@ -186,6 +186,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/d5a84f05-84b6-456e-92d5-e94879c9719a
   date: '2010-04-27'
 - type: cited_by
+  target: pt:dre:121784730:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:139472786:por
   label: null
   source: null

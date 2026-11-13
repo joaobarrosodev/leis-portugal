@@ -102,7 +102,15 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/a7c572b0-ad13-4fd5-8d49-c4b69cd1e32d
   date: '2012-11-23'
 - type: cited_by
+  target: pt:dre:123640122:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:124097548:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:147782875:por
   label: null
   source: null
 - type: cited_by

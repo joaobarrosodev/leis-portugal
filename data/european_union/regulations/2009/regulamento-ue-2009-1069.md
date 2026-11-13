@@ -170,6 +170,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/171e521a-3ffe-46ac-90eb-ed97dbb7dcd2
   date: '2007-01-31'
 - type: cited_by
+  target: pt:dre:1065266163:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:106647823:por
   label: null
   source: null
@@ -183,6 +187,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:1070724089:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1125313320:por
   label: null
   source: null
 - type: cited_by
@@ -210,11 +218,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1185251979:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:118748847:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:150509334:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:150571193:por
   label: null
   source: null
 - type: cited_by
@@ -258,6 +274,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:186222509:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:186429710:por
   label: null
   source: null
@@ -270,7 +290,15 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:25688681:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:261159:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:261869040:por
   label: null
   source: null
 - type: cited_by
@@ -351,6 +379,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:898378511:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:905659972:por
   label: null
   source: null
 - type: cited_by

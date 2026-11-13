@@ -100,6 +100,18 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/f6da0352-5478-4be2-b50b-b3f8a854a9cd
   date: '1002-02-02'
 - type: transposed_by
+  target: pt:dre:1092127:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:2405984:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:57377192:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:75208918:por
   label: null
   source: null

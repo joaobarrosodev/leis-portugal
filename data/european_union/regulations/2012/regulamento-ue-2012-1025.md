@@ -360,6 +360,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:70437597:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:74672467:por
   label: null
   source: null

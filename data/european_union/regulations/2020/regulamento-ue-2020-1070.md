@@ -110,7 +110,27 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/4bb873d0-01d2-11e9-adde-01aa75ed71a1
   date: '2018-12-17'
 - type: cited_by
+  target: pt:dre:1051479330:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1051704531:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:898378508:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:933935466:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:933935467:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:998612386:por
   label: null
   source: null
 - type: cites

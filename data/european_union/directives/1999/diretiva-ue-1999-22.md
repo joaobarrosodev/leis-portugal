@@ -132,6 +132,10 @@ relationships:
   target: celex:31997R0338
   label: null
   source: http://publications.europa.eu/resource/cellar/84f42716-b5ca-49ef-9bc2-c14b2f2b9331
+- type: transposed_by
+  target: pt:dre:129735076:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0

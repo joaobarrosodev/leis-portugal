@@ -144,6 +144,10 @@ relationships:
   target: pt:dre:75468668:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:962602460:por
+  label: null
+  source: null
 - type: cites
   target: celex:12002E005
   label: null

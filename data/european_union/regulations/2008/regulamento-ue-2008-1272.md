@@ -1111,6 +1111,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1088735255:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1128002422:por
   label: null
   source: null
@@ -1120,6 +1124,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:114177787:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1154234620:por
   label: null
   source: null
 - type: cited_by
@@ -1327,11 +1335,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:911344329:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:918308225:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:928506355:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:932271476:por
   label: null
   source: null
 - type: cited_by

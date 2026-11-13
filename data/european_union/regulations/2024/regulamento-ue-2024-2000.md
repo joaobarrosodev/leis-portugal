@@ -85,6 +85,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/4bb873d0-01d2-11e9-adde-01aa75ed71a1
   date: '2018-12-17'
+- type: cited_by
+  target: pt:dre:1051479330:por
+  label: null
+  source: null
 - type: cites
   target: celex:31999H0519
   label: null

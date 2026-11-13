@@ -185,7 +185,59 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:1641519:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:1829137:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:1881010:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:1961589:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:201517431:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:2568875:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:2793131:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:2927470:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:2955429:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:3192958:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:3304107:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:3314445:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:3375611:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:3487571:por
   label: null
   source: null
 - type: transposed_by

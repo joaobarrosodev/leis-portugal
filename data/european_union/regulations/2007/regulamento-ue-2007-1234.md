@@ -990,11 +990,35 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:114833861:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:115200303:por
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:115933833:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:116821059:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:116877128:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:122403203:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:125752618:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:140950523:por
   label: null
   source: null
 - type: cited_by
@@ -1015,6 +1039,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:1516516:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:153663436:por
   label: null
   source: null
 - type: cited_by
@@ -1058,11 +1086,27 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:2048496:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:2049273:por
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:213940438:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:2168600:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:220949508:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:223736637:por
   label: null
   source: null
 - type: cited_by
@@ -1071,6 +1115,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:244923:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2450646:por
   label: null
   source: null
 - type: cited_by
@@ -1103,6 +1151,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:278913:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2795821:por
   label: null
   source: null
 - type: cited_by
@@ -1323,6 +1375,18 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:73807561:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:74651397:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:853548012:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:872631791:por
   label: null
   source: null
 - type: cites

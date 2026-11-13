@@ -172,6 +172,22 @@ relationships:
   target: pt:dre:808125341:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:916353581:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:918823432:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:925412469:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:928660128:por
+  label: null
+  source: null
 - type: cites
   target: celex:11997E014
   label: null

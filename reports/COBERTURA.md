@@ -1,14 +1,14 @@
 # Cobertura do acervo
 
-Relatório gerado em 2026-11-12 a partir dos registos presentes em `data/`.
+Relatório gerado em 2026-11-13 a partir dos registos presentes em `data/`.
 
 **Este relatório não representa cobertura integral da legislação portuguesa ou europeia.**
 A metodologia conta apenas ficheiros existentes e válidos no repositório; não usa estimativas.
 
 ## Totais verificados
 
-- Documentos recolhidos: 359823
-- Documentos validados: 359823
+- Documentos recolhidos: 434317
+- Documentos validados: 434317
 - Fontes registadas: 5
 - Fontes operacionais: 4
 
@@ -16,8 +16,8 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Fonte | Estado operacional | Reutilização | Documentos no repositório | Âmbito verificado |
 |---|---|---|---|---|
-| eurlex-cellar | operational | permitted_with_conditions | 53937 | Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos regulamentos, diretivas e decisões referidos por documentos do acervo; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos. |
-| dre | operational | permitted | 305886 | 1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores); documentos em falta e documentos referidos encontrados pelos sitemaps públicos (todas as séries); catálogo do Jornal Oficial dos Açores; legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data). |
+| eurlex-cellar | operational | permitted_with_conditions | 53947 | Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos regulamentos, diretivas e decisões referidos por documentos do acervo; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos. |
+| dre | operational | permitted | 380370 | 1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores); documentos em falta e documentos referidos encontrados pelos sitemaps públicos (todas as séries); catálogo do Jornal Oficial dos Açores; legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data). |
 | parlamento | planned | unresolved | 0 | — |
 | cnpd | operational | permitted_with_conditions | 0 | Histórico de decisões de 1994 a 2026 por ano e tipo (pareceres, deliberações, diretrizes, regulamentos, registos e autorizações; 122.223 anunciados a 12/11/2026, dos quais 114.331 autorizações), com o PDF de cada decisão e o texto extraído quando o PDF tem camada de texto. |
 | tribunal-constitucional | operational | restricted | 0 | Acórdãos de 1983 a 2026: listagens anuais em blocos de 100 (processo, formação, espécie, data e relator) e o texto HTML de cada acórdão; ligação ao registo do DRE quando o acórdão foi publicado no Diário da República. |
@@ -26,35 +26,37 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Jurisdição | Documentos |
 |---|---:|
-| european_union | 53937 |
-| portugal | 275333 |
-| regional | 30553 |
+| european_union | 53947 |
+| portugal | 348677 |
+| regional | 31693 |
 
 ## Por região
 
 | Região | Documentos |
 |---|---:|
-| acores | 26998 |
-| madeira | 3555 |
-| nacional | 329270 |
+| acores | 28126 |
+| madeira | 3567 |
+| nacional | 402624 |
 
 ## Por tipo de diploma
 
 | Tipo | Documentos |
 |---|---:|
-| portaria | 114803 |
+| portaria | 114806 |
 | decreto | 47478 |
+| edital | 39378 |
 | decreto-lei | 31725 |
-| regulation | 29857 |
-| decision | 19914 |
+| regulation | 29864 |
+| declaracao | 25759 |
+| decision | 19917 |
+| regulamento | 18839 |
 | declaracao-retificacao | 17447 |
 | resolucao | 15239 |
 | despacho-normativo | 13625 |
-| aviso | 13328 |
-| declaracao | 8495 |
+| aviso | 13329 |
 | resolucao-conselho-ministros | 6915 |
 | lei | 6716 |
-| decreto-presidente-republica | 6068 |
+| decreto-presidente-republica | 6069 |
 | resolucao-assembleia-republica | 4908 |
 | directive | 4166 |
 | despacho | 3378 |
@@ -65,8 +67,6 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 | aviso-extrato | 771 |
 | rectificacao | 636 |
 | despacho-extrato | 576 |
-| edital | 515 |
-| regulamento | 487 |
 | acordao | 457 |
 | decreto-governo | 293 |
 | decreto-regional | 280 |
@@ -157,53 +157,53 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Versão | Documentos |
 |---|---:|
-| consolidated | 14139 |
-| original | 345684 |
+| consolidated | 14513 |
+| original | 419804 |
 
 ## Origem do texto
 
 | Origem | Documentos |
 |---|---:|
 | importacao_inicial | 1 |
-| recolha_direta | 359822 |
+| recolha_direta | 434316 |
 
 ## Qualidade do texto (texto pesquisável, só PDF oficial ou só metadados)
 
 | Qualidade | Documentos |
 |---|---:|
-| metadados | 24114 |
-| pdf | 69904 |
-| texto | 265805 |
+| metadados | 26817 |
+| pdf | 76054 |
+| texto | 331446 |
 
 ## Por estado de vigência
 
 | Estado | Documentos |
 |---|---:|
-| in_force | 191501 |
-| not_in_force | 38079 |
-| partially_in_force | 780 |
-| repealed | 14660 |
-| unknown | 114803 |
+| in_force | 199231 |
+| not_in_force | 38393 |
+| partially_in_force | 788 |
+| repealed | 14841 |
+| unknown | 181064 |
 
 ## Relações registadas
 
 | Relação | Relações |
 |---|---:|
-| amended_by | 169576 |
-| amends | 36179 |
-| based_on | 74959 |
-| cited_by | 26728 |
-| cites | 713656 |
-| corrected_by | 26942 |
+| amended_by | 170255 |
+| amends | 36225 |
+| based_on | 74970 |
+| cited_by | 28895 |
+| cites | 954282 |
+| corrected_by | 27150 |
 | corrects | 826 |
 | implicitly_repeals | 8153 |
 | interpreted_by | 9658 |
-| repealed_by | 46484 |
-| repeals | 10894 |
+| repealed_by | 47014 |
+| repeals | 10908 |
 | republished_by | 35 |
 | republishes | 12 |
-| transposed_by | 2107 |
-| transposes | 2113 |
+| transposed_by | 2498 |
+| transposes | 2505 |
 
 ## Por ano de publicação
 
@@ -219,7 +219,7 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 | 1856 | 2 |
 | 1859 | 1 |
 | 1861 | 2 |
-| 1863 | 2 |
+| 1863 | 3 |
 | 1865 | 1 |
 | 1868 | 1 |
 | 1869 | 3 |
@@ -250,123 +250,123 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 | 1907 | 5 |
 | 1908 | 1 |
 | 1909 | 1 |
-| 1910 | 422 |
-| 1911 | 1928 |
-| 1912 | 1884 |
-| 1913 | 1773 |
-| 1914 | 1380 |
-| 1915 | 1416 |
-| 1916 | 1332 |
-| 1917 | 1396 |
-| 1918 | 1815 |
-| 1919 | 1964 |
-| 1920 | 1587 |
-| 1921 | 1339 |
-| 1922 | 1149 |
-| 1923 | 1347 |
-| 1924 | 1753 |
-| 1925 | 1303 |
-| 1926 | 1883 |
-| 1927 | 2195 |
-| 1928 | 2195 |
-| 1929 | 2264 |
-| 1930 | 1783 |
-| 1931 | 1778 |
-| 1932 | 1594 |
-| 1933 | 1631 |
-| 1934 | 1627 |
-| 1935 | 1763 |
-| 1936 | 1579 |
-| 1937 | 1283 |
-| 1938 | 1225 |
-| 1939 | 1156 |
-| 1940 | 1150 |
-| 1941 | 1026 |
-| 1942 | 1111 |
-| 1943 | 1138 |
-| 1944 | 1140 |
-| 1945 | 1505 |
-| 1946 | 1098 |
-| 1947 | 1202 |
-| 1948 | 1050 |
-| 1949 | 799 |
-| 1950 | 816 |
-| 1951 | 853 |
-| 1952 | 929 |
-| 1953 | 923 |
-| 1954 | 1037 |
-| 1955 | 972 |
-| 1956 | 931 |
-| 1957 | 958 |
-| 1958 | 1046 |
-| 1959 | 1258 |
-| 1960 | 1361 |
-| 1961 | 1462 |
-| 1962 | 1408 |
-| 1963 | 1388 |
-| 1964 | 1402 |
-| 1965 | 1479 |
-| 1966 | 1356 |
-| 1967 | 1483 |
-| 1968 | 1426 |
-| 1969 | 1498 |
-| 1970 | 1497 |
-| 1971 | 1539 |
-| 1972 | 1577 |
-| 1973 | 1900 |
-| 1974 | 1934 |
-| 1975 | 2296 |
-| 1976 | 3580 |
-| 1977 | 3657 |
-| 1978 | 3551 |
-| 1979 | 4011 |
-| 1980 | 4597 |
-| 1981 | 3973 |
-| 1982 | 4444 |
-| 1983 | 4094 |
-| 1984 | 4171 |
-| 1985 | 4362 |
-| 1986 | 4055 |
-| 1987 | 4466 |
-| 1988 | 4093 |
-| 1989 | 4367 |
-| 1990 | 4520 |
-| 1991 | 5263 |
-| 1992 | 5251 |
-| 1993 | 5520 |
-| 1994 | 5810 |
-| 1995 | 5369 |
-| 1996 | 4646 |
-| 1997 | 5556 |
-| 1998 | 5281 |
-| 1999 | 5801 |
-| 2000 | 6610 |
-| 2001 | 6815 |
-| 2002 | 6417 |
-| 2003 | 6187 |
-| 2004 | 6140 |
-| 2005 | 5484 |
-| 2006 | 6899 |
-| 2007 | 6583 |
-| 2008 | 6541 |
-| 2009 | 9578 |
-| 2010 | 8282 |
-| 2011 | 6160 |
-| 2012 | 4763 |
-| 2013 | 4586 |
-| 2014 | 3833 |
-| 2015 | 4024 |
-| 2016 | 3508 |
-| 2017 | 3866 |
-| 2018 | 3551 |
-| 2019 | 3820 |
-| 2020 | 3719 |
-| 2021 | 4217 |
-| 2022 | 6357 |
-| 2023 | 7103 |
-| 2024 | 7118 |
-| 2025 | 7227 |
-| 2026 | 6172 |
+| 1910 | 424 |
+| 1911 | 1933 |
+| 1912 | 1893 |
+| 1913 | 1801 |
+| 1914 | 1411 |
+| 1915 | 1429 |
+| 1916 | 1354 |
+| 1917 | 1402 |
+| 1918 | 1820 |
+| 1919 | 1973 |
+| 1920 | 1595 |
+| 1921 | 1357 |
+| 1922 | 1170 |
+| 1923 | 1371 |
+| 1924 | 1783 |
+| 1925 | 1317 |
+| 1926 | 1896 |
+| 1927 | 2210 |
+| 1928 | 2212 |
+| 1929 | 2284 |
+| 1930 | 1829 |
+| 1931 | 1823 |
+| 1932 | 1644 |
+| 1933 | 1721 |
+| 1934 | 1720 |
+| 1935 | 2059 |
+| 1936 | 1840 |
+| 1937 | 1510 |
+| 1938 | 1450 |
+| 1939 | 1400 |
+| 1940 | 1374 |
+| 1941 | 1241 |
+| 1942 | 1306 |
+| 1943 | 1348 |
+| 1944 | 1319 |
+| 1945 | 1696 |
+| 1946 | 1311 |
+| 1947 | 1416 |
+| 1948 | 1285 |
+| 1949 | 977 |
+| 1950 | 1029 |
+| 1951 | 1046 |
+| 1952 | 1145 |
+| 1953 | 1149 |
+| 1954 | 1239 |
+| 1955 | 1179 |
+| 1956 | 1155 |
+| 1957 | 1166 |
+| 1958 | 1286 |
+| 1959 | 1539 |
+| 1960 | 1624 |
+| 1961 | 1729 |
+| 1962 | 1647 |
+| 1963 | 1595 |
+| 1964 | 1594 |
+| 1965 | 1703 |
+| 1966 | 1565 |
+| 1967 | 1697 |
+| 1968 | 1643 |
+| 1969 | 1717 |
+| 1970 | 1734 |
+| 1971 | 1752 |
+| 1972 | 1873 |
+| 1973 | 2204 |
+| 1974 | 2203 |
+| 1975 | 2538 |
+| 1976 | 3587 |
+| 1977 | 3673 |
+| 1978 | 3636 |
+| 1979 | 4065 |
+| 1980 | 4710 |
+| 1981 | 4072 |
+| 1982 | 4529 |
+| 1983 | 4203 |
+| 1984 | 4256 |
+| 1985 | 4428 |
+| 1986 | 4104 |
+| 1987 | 4531 |
+| 1988 | 4180 |
+| 1989 | 4437 |
+| 1990 | 4629 |
+| 1991 | 5407 |
+| 1992 | 5378 |
+| 1993 | 5651 |
+| 1994 | 5923 |
+| 1995 | 5500 |
+| 1996 | 4820 |
+| 1997 | 5724 |
+| 1998 | 5442 |
+| 1999 | 5986 |
+| 2000 | 8431 |
+| 2001 | 8557 |
+| 2002 | 9232 |
+| 2003 | 9050 |
+| 2004 | 9350 |
+| 2005 | 7439 |
+| 2006 | 8697 |
+| 2007 | 8404 |
+| 2008 | 8577 |
+| 2009 | 11390 |
+| 2010 | 10503 |
+| 2011 | 8306 |
+| 2012 | 6570 |
+| 2013 | 6352 |
+| 2014 | 5644 |
+| 2015 | 6341 |
+| 2016 | 5821 |
+| 2017 | 5513 |
+| 2018 | 5648 |
+| 2019 | 6592 |
+| 2020 | 6265 |
+| 2021 | 6412 |
+| 2022 | 8874 |
+| 2023 | 10420 |
+| 2024 | 10383 |
+| 2025 | 10585 |
+| 2026 | 8301 |
 
 ## Falhas de recolha registadas
 

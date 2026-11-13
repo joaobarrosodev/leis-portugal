@@ -261,6 +261,10 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:67027875:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:75644170:por
   label: null
   source: null

@@ -407,6 +407,34 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/b86a5126-9bcd-4a14-982a-e82c9d09bf0e
   date: '1992-08-31'
 - type: cited_by
+  target: pt:dre:105355617:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106404713:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106449992:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106589698:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106589699:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106613856:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106821871:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:108185253:por
   label: null
   source: null
@@ -415,11 +443,83 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:114792293:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114833861:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:114913771:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:114913772:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:115132697:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:115400292:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:115933833:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:120675213:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:122403203:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:123813743:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:125752618:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:127283902:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:136365089:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:138217366:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:141209935:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:157114836:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:183800866:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:202641407:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:207177789:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:213761227:por
   label: null
   source: null
 - type: cited_by
@@ -472,6 +572,62 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:66229856:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:69867324:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:70420833:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:70508930:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:70762122:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:70844832:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:73462806:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:73865487:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:74216917:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:74448391:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:74860781:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:75216328:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:75425651:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:856357059:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:871048345:por
   label: null
   source: null
 - type: cited_by

@@ -220,11 +220,31 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:158480275:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:456812:por
   label: null
   source: null
 - type: transposed_by
   target: pt:dre:840278734:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:855804440:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:872279862:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:904227468:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:913590308:por
   label: null
   source: null
 article_structure:

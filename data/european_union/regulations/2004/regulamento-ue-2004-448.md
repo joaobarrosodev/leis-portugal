@@ -87,6 +87,42 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/0495cad8-bda6-4b4f-852c-ce3dd3022392
   date: '1999-06-30'
+- type: cited_by
+  target: pt:dre:1120912:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1205418:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2025681:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2128136:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2988842:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:3185793:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:3185794:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:3185795:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:957417:por
+  label: null
+  source: null
 - type: cites
   target: celex:32002R0445
   label: null

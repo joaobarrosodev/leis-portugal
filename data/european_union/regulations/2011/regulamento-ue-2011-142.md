@@ -694,6 +694,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1125313320:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1138714123:por
   label: null
   source: null
@@ -707,6 +711,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:221990535:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:261869040:por
   label: null
   source: null
 - type: cites

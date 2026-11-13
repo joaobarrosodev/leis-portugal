@@ -240,6 +240,10 @@ relationships:
   target: pt:dre:642503:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:846777:por
+  label: null
+  source: null
 - type: cites
   target: celex:11997E005
   label: null

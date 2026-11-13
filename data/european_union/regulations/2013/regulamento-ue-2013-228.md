@@ -362,6 +362,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:835606191:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:840256583:por
   label: null
   source: null

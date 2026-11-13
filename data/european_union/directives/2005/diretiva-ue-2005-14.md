@@ -179,6 +179,14 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/510d4015-9752-4295-8a7f-774575a1396d
   date: '2009-10-07'
 - type: transposed_by
+  target: pt:dre:2573780:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:3421137:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:449200:por
   label: null
   source: null

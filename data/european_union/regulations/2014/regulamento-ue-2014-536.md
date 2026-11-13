@@ -167,7 +167,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:181454231:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:25344024:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:862906617:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:904363470:por
   label: null
   source: null
 - type: cites

@@ -206,6 +206,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:3230818:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:480913:por
   label: null
   source: null
@@ -290,6 +294,14 @@ relationships:
   date: '2019-06-07'
 - type: transposed_by
   target: pt:dre:107703392:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:2770032:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:73852364:por
   label: null
   source: null
 article_structure:

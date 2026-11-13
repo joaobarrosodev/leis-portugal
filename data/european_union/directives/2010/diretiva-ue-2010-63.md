@@ -179,6 +179,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/d5a84f05-84b6-456e-92d5-e94879c9719a
   date: '2010-04-27'
 - type: cited_by
+  target: pt:dre:203261350:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:498488:por
   label: null
   source: null
@@ -302,11 +306,51 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:136473280:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:182090853:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:183432483:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:187454915:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:219973656:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:854546360:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:865171161:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:891107797:por
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:913253492:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:913946017:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:922704110:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:938325839:por
   label: null
   source: null
 article_structure:

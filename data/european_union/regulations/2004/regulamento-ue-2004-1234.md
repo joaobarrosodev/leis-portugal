@@ -84,6 +84,22 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/936b8185-375c-4398-acf0-395e7f0baac0
   date: '2010-03-08'
+- type: cited_by
+  target: pt:dre:1434900:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1741727:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2654493:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:756602:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0

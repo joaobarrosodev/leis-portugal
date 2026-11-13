@@ -207,6 +207,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/77d8f3bb-cfe1-43e0-a854-f8c51b9ccda8
   date: '1999-05-31'
 - type: cited_by
+  target: pt:dre:121784730:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:139472786:por
   label: null
   source: null
@@ -517,6 +521,10 @@ relationships:
   date: '2018-12-17'
 - type: transposed_by
   target: pt:dre:2173443:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:2227173:por
   label: null
   source: null
 article_structure:

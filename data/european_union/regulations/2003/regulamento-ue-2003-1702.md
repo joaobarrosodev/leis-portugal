@@ -140,11 +140,23 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/d64fc51e-4bcc-4b7c-b833-fafed49e7f61
   date: '2002-09-10'
 - type: cited_by
+  target: pt:dre:1150610989:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2452678:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:454813:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:519626:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:846777:por
   label: null
   source: null
 - type: cites

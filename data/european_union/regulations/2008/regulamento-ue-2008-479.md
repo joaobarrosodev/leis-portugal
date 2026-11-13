@@ -261,11 +261,23 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:114081110:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1151622:por
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1741727:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:2078926:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2208343:por
   label: null
   source: null
 - type: cited_by

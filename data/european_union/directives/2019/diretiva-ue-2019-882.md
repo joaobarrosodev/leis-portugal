@@ -309,6 +309,10 @@ relationships:
   target: pt:dre:216598400:por
   label: null
   source: null
+- type: transposed_by
+  target: pt:dre:853692194:por
+  label: null
+  source: null
 article_structure:
   article_count: 35
   section_count: 22

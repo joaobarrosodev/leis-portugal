@@ -84,6 +84,14 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:261869040:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2932175:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:490439:por
   label: null
   source: null

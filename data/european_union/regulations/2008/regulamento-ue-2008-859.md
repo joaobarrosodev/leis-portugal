@@ -91,7 +91,31 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1474543:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1474544:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1474545:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:190214:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2344448:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:3050291:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:3121494:por
   label: null
   source: null
 - type: corrected_by

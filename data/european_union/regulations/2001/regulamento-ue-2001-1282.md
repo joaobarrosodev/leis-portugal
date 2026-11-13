@@ -86,7 +86,15 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/ee452451-0dd9-4eee-aa39-dd4561461a13
   date: '1999-07-21'
 - type: cited_by
+  target: pt:dre:2208343:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:246539:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:3189813:por
   label: null
   source: null
 - type: cited_by

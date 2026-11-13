@@ -411,6 +411,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1800904:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:25676934:por
   label: null
   source: null
@@ -529,6 +533,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/b11ac130-fd92-46f8-a63a-940b0663bd79
   date: '2009-12-15'
+- type: transposed_by
+  target: pt:dre:3680613:por
+  label: null
+  source: null
 - type: transposed_by
   target: pt:dre:474478:por
   label: null

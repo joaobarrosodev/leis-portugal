@@ -495,11 +495,23 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/aeee2e82-bcac-40d4-8637-340ccc78241c
   date: '2008-03-19'
 - type: cited_by
+  target: pt:dre:1065235172:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1150610989:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1169277025:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:1169277026:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:158872602:por
   label: null
   source: null
 - type: cited_by
@@ -511,7 +523,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:897260778:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:906519103:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:912690440:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:924486212:por
   label: null
   source: null
 - type: corrected_by

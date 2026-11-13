@@ -446,6 +446,14 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/72d5da67-0af9-4aa9-911a-df3f940c1409
   date: '2008-01-15'
 - type: transposed_by
+  target: pt:dre:114609237:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:126870454:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:131124444:por
   label: null
   source: null

@@ -110,6 +110,18 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/757b23c4-c2b5-437d-a73b-f6c4aa6d3ee8
   date: '2003-02-11'
 - type: cited_by
+  target: pt:dre:105320847:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106520610:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106630549:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:107494013:por
   label: null
   source: null
@@ -135,6 +147,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:115167050:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:163863239:por
   label: null
   source: null
 - type: cited_by
@@ -183,6 +199,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:67098361:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:69900856:por
   label: null
   source: null
 - type: cited_by

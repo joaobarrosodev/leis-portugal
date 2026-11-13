@@ -203,6 +203,18 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:2048496:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2450646:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2795821:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:494515:por
   label: null
   source: null

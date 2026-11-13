@@ -372,6 +372,10 @@ relationships:
   target: pt:dre:73986213:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:962602460:por
+  label: null
+  source: null
 - type: cites
   target: celex:31967L0548
   label: null
@@ -421,7 +425,19 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:145438947:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:224427488:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:868418288:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:935998213:por
   label: null
   source: null
 article_structure:

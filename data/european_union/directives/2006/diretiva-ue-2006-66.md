@@ -155,6 +155,10 @@ relationships:
   target: pt:dre:896271472:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:962602460:por
+  label: null
+  source: null
 - type: cites
   target: celex:31988Y0204(03)
   label: null

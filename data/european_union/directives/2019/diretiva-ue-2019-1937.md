@@ -224,6 +224,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:895356893:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:902120308:por
   label: null
   source: null
@@ -507,6 +511,34 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/69dc2f81-e4f6-11ef-bc1c-01aa75ed71a1
   date: '2025-02-07'
 - type: transposed_by
+  target: pt:dre:1079638503:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:1082861079:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:1085333072:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:1114075712:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:1144707505:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:1171382703:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:1179418864:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:152639826:por
   label: null
   source: null
@@ -519,7 +551,35 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:205182182:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:206107798:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:207752456:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:207881777:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:212553203:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:216251945:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:220949213:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:229915578:por
   label: null
   source: null
 - type: transposed_by
@@ -527,11 +587,63 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:853818480:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:856357055:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:857575652:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:862903137:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:865334933:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:876155630:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:884583521:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:891779150:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:905852034:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:907289193:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:916268331:por
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:932849359:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:942401303:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:942971686:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:953219143:por
   label: null
   source: null
 article_structure:

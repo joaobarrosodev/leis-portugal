@@ -96,6 +96,14 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/dc576cb4-5040-42c2-837e-c6f19c43d6c4
   date: '1957-03-25'
 - type: cited_by
+  target: pt:dre:1723438:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1723439:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:186546:por
   label: null
   source: null

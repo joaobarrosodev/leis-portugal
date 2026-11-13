@@ -339,6 +339,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/d482349d-3eed-11f1-814f-01aa75ed71a1
   date: '2026-04-23'
+- type: transposed_by
+  target: pt:dre:186362050:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 23

@@ -316,11 +316,23 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:25683643:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:334973:por
   label: null
   source: null
 - type: transposed_by
   target: pt:dre:539393:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:56307178:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:69986558:por
   label: null
   source: null
 article_structure:

@@ -163,11 +163,55 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/71e4e668-a5cf-11e8-99ee-01aa75ed71a1
   date: '2018-08-22'
 - type: cited_by
+  target: pt:dre:1049506587:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1065235172:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:132721015:por
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:136047794:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:173109815:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:207863521:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:210543543:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:212322841:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:214665358:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:221904925:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:867194095:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:871585119:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:911131314:por
   label: null
   source: null
 - type: cited_by

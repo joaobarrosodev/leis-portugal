@@ -93,6 +93,14 @@ relationships:
   target: pt:dre:117537589:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:151733880:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:898014578:por
+  label: null
+  source: null
 - type: cites
   target: celex:32004L0051
   label: null
@@ -152,6 +160,10 @@ relationships:
   date: '2026-04-29'
 - type: transposed_by
   target: pt:dre:1194495725:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:126680235:por
   label: null
   source: null
 article_structure:

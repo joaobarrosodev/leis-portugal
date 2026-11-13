@@ -604,6 +604,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/6160e7c3-34f7-43b3-9509-88d1a54a05b8
   date: '1998-04-08'
+- type: transposed_by
+  target: pt:dre:121784730:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0

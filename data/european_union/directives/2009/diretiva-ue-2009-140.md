@@ -211,6 +211,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/4cd9911c-65c8-4ed8-b961-1f8263e843f1
   date: '2001-01-11'
 - type: transposed_by
+  target: pt:dre:121784730:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:581061:por
   label: null
   source: null

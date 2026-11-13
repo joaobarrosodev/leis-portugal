@@ -106,6 +106,10 @@ relationships:
   target: pt:dre:1169277025:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:889623960:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 9

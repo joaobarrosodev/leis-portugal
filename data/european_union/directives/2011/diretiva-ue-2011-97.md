@@ -108,6 +108,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/a32ddb30-1a98-4911-964a-e4f4f638f20d
 - type: transposed_by
+  target: pt:dre:126870454:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:150908012:por
   label: null
   source: null

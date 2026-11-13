@@ -154,7 +154,15 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/ee452451-0dd9-4eee-aa39-dd4561461a13
   date: '1999-07-21'
 - type: cited_by
+  target: pt:dre:2243877:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:453273:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:948388:por
   label: null
   source: null
 - type: cites

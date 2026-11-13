@@ -400,7 +400,23 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/cdc39167-df71-40ca-a817-12537381ae5e
   date: '2007-11-16'
 - type: cited_by
+  target: pt:dre:114833861:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:115933833:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:116877128:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:122403203:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:125752618:por
   label: null
   source: null
 - type: cited_by

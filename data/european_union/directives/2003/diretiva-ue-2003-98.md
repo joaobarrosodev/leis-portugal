@@ -226,7 +226,51 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/a6ef4c41-97eb-11e9-9369-01aa75ed71a1
   date: '2019-06-26'
 - type: transposed_by
+  target: pt:dre:126870454:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:129902576:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:130472616:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:149595284:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:156125111:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:159993738:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:167651416:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:205748169:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:229915578:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:75177807:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:839220510:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:926749009:por
   label: null
   source: null
 article_structure:

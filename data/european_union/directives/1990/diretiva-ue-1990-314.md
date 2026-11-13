@@ -123,6 +123,10 @@ relationships:
   target: pt:dre:673400:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:858196712:por
+  label: null
+  source: null
 - type: cites
   target: celex:31981Y0603(01)
   label: null
