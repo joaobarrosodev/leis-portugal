@@ -1,7 +1,7 @@
 """Resposta a partir dos artigos encontrados.
 
-Com `ANTHROPIC_API_KEY` no ambiente (e o pacote `anthropic`), um LLM escreve a resposta só a
-partir dos artigos dados e cita-os; sem chave, a "resposta" é o primeiro artigo encontrado,
+Com a chave de uma IA no ambiente (`rag.provedores`: Claude por omissão, OpenAI ou Gemini), um LLM
+escreve a resposta só a partir dos artigos dados e cita-os; sem chave, a "resposta" é o primeiro artigo encontrado,
 com os avisos. Em ambos os casos a resposta é "não sei" quando:
 
 - a pergunta cita um diploma que não está no acervo (e nenhum outro que esteja);
@@ -16,14 +16,13 @@ de um código republicado) vêm sempre da pesquisa e juntam-se à resposta, não
 from __future__ import annotations
 
 import json
-import os
 import re
 from dataclasses import dataclass, field
 
+from rag import provedores
 from rag.pesquisa import Consulta, Resultado
 
 
-MODELO = os.environ.get("RAG_MODELO", "claude-opus-5-5")
 LIMIAR_PADRAO = 3.0  # do reranker, sem LLM: o artigo do topo é a resposta (rag/README.md)
 # Com LLM, o LLM lê os artigos e recusa quando não respondem: entre 1 e 3, nas perguntas que o limiar 3
 # recusava, respondeu a 43 de 61 e 41 estavam certas para os quatro juízes (rag/README.md, `limiar1`).
@@ -62,6 +61,9 @@ class Resposta:
     avisos: list[str] = field(default_factory=list)
     motivo: str = ""  # porque não responde
     com_llm: bool = False
+    modelo: str = ""  # a IA e o modelo que escreveram a resposta
+    aviso_modelo: str | None = None  # quando não é o modelo medido (rag.provedores.aviso_medicao)
+    erro: str = ""  # a chamada à IA falhou (chave, créditos, rede): não é um "não sei" da lei
     # A segunda resposta: os acórdãos do Tribunal Constitucional que julgaram os artigos citados.
     # Vem dos dados (rag.jurisprudencia), não do LLM, e fica separada da resposta da lei.
     jurisprudencia: list[dict] = field(default_factory=list)
@@ -129,13 +131,7 @@ def _responder(consulta: Consulta, *, limiar: float | None = None, usar_llm: boo
 
 
 def llm_disponivel() -> bool:
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        return False
-    try:
-        import anthropic  # noqa: F401
-    except ImportError:
-        return False
-    return True
+    return provedores.disponivel()
 
 
 def contexto(consulta: Consulta) -> tuple[str, list[Resultado]]:
@@ -178,17 +174,15 @@ def interpretar(dados: dict, artigos: list[Resultado], *, estrito: bool = True) 
 
 
 def _com_llm(consulta: Consulta) -> Resposta:
-    import anthropic
-
     texto_artigos, artigos = contexto(consulta)
-    cliente = anthropic.Anthropic()
-    resposta = cliente.messages.create(
-        model=MODELO,
-        max_tokens=16000,
-        system=INSTRUCOES,
-        output_config={"effort": "medium"},
-        messages=[{"role": "user", "content": mensagem(consulta, texto_artigos)}],
-    )
-    if resposta.stop_reason == "refusal":
-        return Resposta(False, "Não sei.", motivo="o modelo recusou", com_llm=True)
-    return interpretar(extrair_json("".join(b.text for b in resposta.content if b.type == "text")), artigos)
+    quem, aviso = provedores.descricao(), provedores.aviso_medicao()
+    try:
+        escrita = provedores.escrever(INSTRUCOES, mensagem(consulta, texto_artigos), max_tokens=16000, esforco="medium")
+    except provedores.ErroIA as e:
+        return Resposta(False, "Não sei.", motivo=str(e), com_llm=True, modelo=quem, aviso_modelo=aviso, erro=str(e))
+    if escrita.recusou:
+        resposta = Resposta(False, "Não sei.", motivo="o modelo recusou", com_llm=True)
+    else:
+        resposta = interpretar(extrair_json(escrita.texto), artigos)
+    resposta.modelo, resposta.aviso_modelo = quem, aviso
+    return resposta

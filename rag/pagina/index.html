@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="codigo" content="__CODIGO__">
+<title>Leis de Portugal</title>
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+<header class="topo">
+  <div class="marca">
+    <span class="marca-leis">Leis de</span> <em>Portugal</em>
+  </div>
+  <div class="topo-direita">
+    <span id="ia-atual" class="pilula" hidden></span>
+    <button id="abrir-definicoes" class="botao-fantasma" type="button">Definições</button>
+  </div>
+</header>
+
+<main>
+  <div id="faixa-estado" class="faixa" hidden></div>
+
+  <!-- Passo a passo da primeira vez -->
+  <section id="assistente" class="cartao assistente" hidden>
+    <ol class="passos" aria-label="Passos">
+      <li data-passo="1">Boas-vindas</li>
+      <li data-passo="2">Escolher a IA</li>
+      <li data-passo="3">Criar a chave</li>
+      <li data-passo="4">Colar a chave</li>
+    </ol>
+
+    <div class="passo" data-passo="1">
+      <h1>Bem-vindo</h1>
+      <p>Faz perguntas sobre a legislação portuguesa e europeia. A resposta vem com a lei e o artigo, na redação em vigor na data que escolheres. Quando não tem a certeza, diz que não sabe.</p>
+      <div class="aviso aviso-ouro">
+        <strong>É um protótipo.</strong> Não substitui um advogado nem a consulta do Diário da República.
+      </div>
+      <div class="aviso aviso-vermelho">
+        <strong>Sigilo.</strong> A pergunta e os artigos encontrados são enviados à IA que escolheres, para escrever a resposta. <strong>Não escrevas nomes, factos ou dados de clientes.</strong> Pergunta só pelo que diz a lei.
+      </div>
+      <label class="caixa"><input type="checkbox" id="percebi"> Percebi</label>
+      <div class="acoes"><button class="botao" type="button" data-ir="2" id="comecar" disabled>Começar</button></div>
+    </div>
+
+    <div class="passo" data-passo="2" hidden>
+      <h1>Que IA queres usar?</h1>
+      <p>A IA lê os artigos que a pesquisa encontra e escreve a resposta. Usas a tua própria conta: pagas só o que usares, diretamente à empresa da IA.</p>
+      <div id="escolha-ia" class="escolhas"></div>
+      <p class="nota">Os resultados publicados (cerca de 95% de respostas certas quando responde) foram medidos <strong>só com o Claude Opus 5.5</strong>. Com as outras IAs funciona da mesma forma, mas a qualidade não foi medida.</p>
+      <div class="acoes">
+        <button class="botao-fantasma" type="button" data-ir="1">Voltar</button>
+        <button class="botao-fantasma" type="button" id="sem-ia">Continuar sem IA</button>
+        <button class="botao" type="button" data-ir="3">Seguinte</button>
+      </div>
+    </div>
+
+    <div class="passo" data-passo="3" hidden>
+      <h1>Criar a chave da <span class="nome-ia"></span></h1>
+      <ol id="passos-chave" class="lista-passos"></ol>
+      <div class="aviso aviso-ouro">A chave dá acesso à tua conta e aos teus créditos. Não a partilhes. Esta aplicação guarda-a no cofre do teu computador e só a envia à própria IA.</div>
+      <div class="acoes">
+        <button class="botao-fantasma" type="button" data-ir="2">Voltar</button>
+        <button class="botao" type="button" data-ir="4">Já tenho a chave</button>
+      </div>
+    </div>
+
+    <div class="passo" data-passo="4" hidden>
+      <h1>Colar a chave</h1>
+      <label class="campo">Chave da <span class="nome-ia"></span>
+        <input type="password" id="chave" autocomplete="off" spellcheck="false" placeholder="Cola aqui a chave">
+      </label>
+      <label class="campo">Modelo
+        <select id="modelo"></select>
+      </label>
+      <p id="resultado-chave" class="nota" role="status"></p>
+      <div class="acoes">
+        <button class="botao-fantasma" type="button" data-ir="3">Voltar</button>
+        <button class="botao" type="button" id="testar">Testar e guardar</button>
+      </div>
+      <p class="nota">O teste confirma a chave e o modelo sem gastar créditos.</p>
+    </div>
+  </section>
+
+  <!-- Perguntas -->
+  <section id="principal" hidden>
+    <form id="formulario" class="cartao formulario">
+      <label class="campo-pergunta" for="pergunta">O que queres saber sobre a lei?</label>
+      <textarea id="pergunta" rows="3" maxlength="2000" placeholder="Por exemplo: quantos dias de férias tem um trabalhador por ano?" required></textarea>
+      <div class="linha-formulario">
+        <label class="campo-data">A lei em vigor em
+          <input type="date" id="data">
+        </label>
+        <button class="botao" type="submit" id="perguntar">Perguntar</button>
+      </div>
+      <p class="nota">Sem dados de clientes: a pergunta é enviada à IA escolhida.</p>
+    </form>
+    <div id="respostas"></div>
+  </section>
+</main>
+
+<dialog id="definicoes" class="dialogo">
+  <form method="dialog" class="dialogo-corpo">
+    <h2>Definições</h2>
+    <p id="def-atual" class="nota"></p>
+    <label class="campo">IA
+      <select id="def-provedor"></select>
+    </label>
+    <label class="campo">Modelo
+      <select id="def-modelo"></select>
+    </label>
+    <label class="campo">Chave nova (opcional se só mudas o modelo da mesma IA)
+      <input type="password" id="def-chave" autocomplete="off" spellcheck="false" placeholder="Cola a chave">
+    </label>
+    <p id="def-resultado" class="nota" role="status"></p>
+    <p class="nota">Os resultados publicados foram medidos com o Claude Opus 5.5. Com outra IA ou modelo, a qualidade não foi medida.</p>
+    <h3>Dados</h3>
+    <p id="def-dados" class="nota" role="status"></p>
+    <button class="botao-fantasma" type="button" id="def-atualizar">Procurar atualização</button>
+    <div class="acoes">
+      <button class="botao-fantasma perigo" type="button" id="def-apagar">Apagar a chave</button>
+      <button class="botao-fantasma" value="fechar">Fechar</button>
+      <button class="botao" type="button" id="def-guardar">Testar e guardar</button>
+    </div>
+  </form>
+</dialog>
+
+<footer class="rodape">
+  Protótipo do <a href="https://github.com/joaobarrosodev/leis-portugal" target="_blank" rel="noopener">leis-portugal</a>. Não substitui um advogado nem o Diário da República.
+</footer>
+
+<template id="modelo-resposta">
+  <article class="cartao resposta">
+    <p class="r-pergunta"></p>
+    <p class="r-pesquisa nota" hidden></p>
+    <div class="r-corpo"></div>
+    <div class="r-avisos"></div>
+    <div class="r-fontes" hidden><h3>Fontes</h3><ul></ul></div>
+    <div class="r-juris" hidden>
+      <h3>Jurisprudência do Tribunal Constitucional sobre estes artigos</h3>
+      <p class="nota">Segunda resposta, separada da lei: tirada da decisão de cada acórdão, sem IA.</p>
+      <ul></ul>
+    </div>
+    <details class="r-outros" hidden><summary>Outros artigos encontrados</summary><ul></ul></details>
+    <div class="r-avaliar">
+      <span>Está certo?</span>
+      <button class="botao-pequeno" type="button" data-certo="1">Sim</button>
+      <button class="botao-pequeno" type="button" data-certo="0">Não</button>
+      <div class="r-esperado" hidden>
+        <textarea rows="2" placeholder="O que esperavas? (artigo e lei, se souberes)"></textarea>
+        <button class="botao-pequeno" type="button" data-enviar>Enviar</button>
+      </div>
+      <span class="r-gravado nota" hidden>Obrigado, ficou gravado.</span>
+    </div>
+  </article>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>

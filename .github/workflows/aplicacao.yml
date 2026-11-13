@@ -1,0 +1,66 @@
+name: Aplicação (Mac e Windows)
+
+# Constrói a aplicação Leis de Portugal com o PyInstaller (app/leis-portugal.spec) em macOS e
+# Windows. Com uma etiqueta app-v* (por exemplo app-v0.1.0), põe os ficheiros numa Release do
+# GitHub, que é de onde o site os descarrega. Sem etiqueta (à mão), deixa-os só como artefactos.
+# A aplicação não é assinada: o macOS e o Windows avisam da primeira vez (ver COMO-USAR.md).
+on:
+  push:
+    tags: ["app-v*"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  construir:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: macos-14
+            ficheiro: Leis-de-Portugal-mac.zip
+          - os: windows-latest
+            ficheiro: Leis-de-Portugal-windows.zip
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            app
+            rag
+            src
+            avaliacao/comum.py
+            data/jurisprudencia/tribunal-constitucional/normas-julgadas.jsonl
+            pyproject.toml
+            README.md
+            LICENSE
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar
+        run: python -m pip install -e ".[rag,app]"
+      - name: Confirmar que tudo se importa
+        run: python app/leis_portugal_app.py --verificar
+      - name: Construir
+        run: pyinstaller app/leis-portugal.spec --noconfirm
+      - name: Comprimir (macOS)
+        if: runner.os == 'macOS'
+        run: ditto -c -k --keepParent "dist/Leis de Portugal.app" "${{ matrix.ficheiro }}"
+      - name: Comprimir (Windows)
+        if: runner.os == 'Windows'
+        shell: pwsh
+        run: Compress-Archive -Path "dist/Leis de Portugal" -DestinationPath "${{ matrix.ficheiro }}"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.ficheiro }}
+          path: ${{ matrix.ficheiro }}
+      - name: Pôr na Release
+        if: startsWith(github.ref, 'refs/tags/app-v')
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1 || gh release create "$GITHUB_REF_NAME" --title "Aplicação $GITHUB_REF_NAME" --notes "Leis de Portugal para Mac e Windows. Não assinada: ver COMO-USAR.md." || true
+          gh release upload "$GITHUB_REF_NAME" "${{ matrix.ficheiro }}" --clobber

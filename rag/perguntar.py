@@ -20,6 +20,7 @@ from __future__ import annotations
 import argparse
 import importlib.util
 import json
+import os
 import sys
 import textwrap
 from collections import Counter
@@ -32,7 +33,8 @@ from rag.pesquisa import Consulta, Pesquisa
 from rag.resposta import LIMIAR_COM_LLM, LIMIAR_PADRAO, llm_disponivel, responder
 
 
-REGISTO = RAIZ / "rag" / "resultados" / "privado" / "perguntas-testadas.jsonl"
+# A aplicação instalada grava na sua pasta de dados (RAG_REGISTO); o repositório, em rag/resultados/privado/.
+REGISTO = Path(os.environ.get("RAG_REGISTO") or RAIZ / "rag" / "resultados" / "privado" / "perguntas-testadas.jsonl")
 LARGURA = 100
 
 
@@ -43,7 +45,9 @@ def _paragrafos(texto: str, maximo: int) -> str:
 
 def mostrar(consulta: Consulta, resposta, k: int) -> None:
     print()
-    if not resposta.responde:
+    if resposta.erro:
+        print(f"→ Erro da IA: {resposta.erro}")
+    elif not resposta.responde:
         print(f"→ Não sei. ({resposta.motivo})")
     elif resposta.com_llm:
         print("→ " + textwrap.fill(resposta.texto.strip(), LARGURA, subsequent_indent="  "))
@@ -55,6 +59,8 @@ def mostrar(consulta: Consulta, resposta, k: int) -> None:
         print(_paragrafos(topo.texto, 600))
     for aviso in resposta.avisos:
         print(f"   ⚠ {aviso}")
+    if resposta.aviso_modelo:
+        print(f"   ⓘ {resposta.aviso_modelo}")
     if consulta.pesquisa_por:
         print(f"   Pesquisa por: {consulta.pesquisa_por}")
     if consulta.diplomas_em_falta:
@@ -95,6 +101,7 @@ def registar(consulta: Consulta, resposta, anotacao: dict) -> None:
         "pesquisa_por": consulta.pesquisa_por,
         "responde": resposta.responde,
         "com_llm": resposta.com_llm,
+        "modelo": resposta.modelo,
         "resposta": resposta.texto,
         "motivo": resposta.motivo,
         "jurisprudencia": [{"acordao": j["acordao"], "sentido": j["sentido"]} for j in resposta.jurisprudencia],
@@ -168,7 +175,7 @@ def main(argv: list[str] | None = None) -> int:
         if not pergunta:
             break
         uma(pergunta, interativo=True)
-    print(f"Obrigado! As perguntas ficaram em {REGISTO.relative_to(RAIZ)}", file=sys.stderr)
+    print(f"Obrigado! As perguntas ficaram em {REGISTO}", file=sys.stderr)
     return 0
 
 

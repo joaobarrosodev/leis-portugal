@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leis de Portugal</title>
+<meta name="description" content="A legislação portuguesa em formato aberto, com uma aplicação gratuita para Mac e Windows que responde com a lei e o artigo em vigor.">
+<meta property="og:title" content="Leis de Portugal">
+<meta property="og:description" content="A legislação portuguesa em formato aberto, ligada às fontes oficiais e atualizada todos os dias.">
+<meta property="og:image" content="social-preview.png">
+<link rel="icon" href="icone.png">
+<style>
+  :root {
+    --fundo: #f7f2e7; --cartao: #fffdf8; --tinta: #1d2a24; --suave: #5b6660; --linha: #e2d9c6;
+    --verde: #0f3d2e; --verde-claro: #2e8b57; --ouro: #b07d1f; --ouro-fundo: #fbf1dc; --vermelho: #b3122c;
+    --serif: "Baskerville", "Iowan Old Style", Georgia, serif; --sans: "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --fundo: #0a2c21; --cartao: #11392b; --tinta: #f2ecdf; --suave: #b8c4bc; --linha: #24513f; --verde-claro: #5fbf8a; --ouro: #e0b25a; --ouro-fundo: #3a321b; --vermelho: #ff8b98; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--fundo); color: var(--tinta); font: 18px/1.6 var(--sans); }
+  a { color: var(--verde-claro); }
+  .heroi { background: linear-gradient(135deg, #0f3d2e, #0a2c21); color: #f7f2e7; padding: 64px 16px 56px; border-bottom: 6px solid; border-image: linear-gradient(90deg, #046a38 40%, #c8102e 40%) 1; }
+  .heroi .dentro, section { max-width: 920px; margin: 0 auto; }
+  .heroi .rotulo { color: #d9a441; letter-spacing: .2em; text-transform: uppercase; font-size: 14px; font-weight: 600; }
+  .heroi h1 { font: 400 clamp(52px, 9vw, 92px)/1 var(--serif); margin: 14px 0 18px; }
+  .heroi h1 em { color: #d9a441; }
+  .heroi p { font-size: 21px; max-width: 640px; color: rgba(247, 242, 231, .88); }
+  .botoes { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 28px; }
+  .botao { display: inline-block; padding: 14px 24px; border-radius: 8px; background: #2e8b57; color: #fff; text-decoration: none; font-weight: 600; }
+  .botao.secundario { background: transparent; border: 1px solid rgba(247, 242, 231, .5); color: #f7f2e7; }
+  .pequeno { font-size: 14px; color: rgba(247, 242, 231, .7); margin-top: 12px; }
+  section { padding: 44px 16px 8px; }
+  h2 { font: 400 34px/1.15 var(--serif); margin: 0 0 14px; }
+  .grelha { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 14px; }
+  .numero { background: var(--cartao); border: 1px solid var(--linha); border-radius: 8px; padding: 18px; }
+  .numero b { display: block; font: 400 38px/1 var(--serif); }
+  .numero span { color: var(--suave); font-size: 15px; }
+  .cartao { background: var(--cartao); border: 1px solid var(--linha); border-radius: 8px; padding: 22px; margin-bottom: 14px; }
+  .aviso { background: var(--ouro-fundo); border-left: 4px solid var(--ouro); border-radius: 6px; padding: 14px 16px; margin: 14px 0; }
+  .aviso.vermelho { border-color: var(--vermelho); }
+  ol li, ul li { margin-bottom: 8px; }
+  footer { max-width: 920px; margin: 40px auto 0; padding: 24px 16px 48px; color: var(--suave); font-size: 15px; border-top: 1px solid var(--linha); }
+</style>
+</head>
+<body>
+<header class="heroi">
+  <div class="dentro">
+    <div class="rotulo">Open source · dados abertos</div>
+    <h1>Leis de<br><em>Portugal</em></h1>
+    <p>Pergunta pelo que diz a lei. A aplicação responde com a lei e o artigo, na redação em vigor, e diz que não sabe quando não tem a certeza.</p>
+    <div class="botoes" id="botoes">
+      <a class="botao" id="mac" href="https://github.com/joaobarrosodev/leis-portugal/releases/latest/download/Leis-de-Portugal-mac.zip">Descarregar para Mac</a>
+      <a class="botao" id="windows" href="https://github.com/joaobarrosodev/leis-portugal/releases/latest/download/Leis-de-Portugal-windows.zip">Descarregar para Windows</a>
+    </div>
+    <p class="pequeno">Gratuita. Usa a tua própria chave de uma IA (Claude, OpenAI ou Gemini). Da primeira vez descarrega cerca de 5 GB de legislação.</p>
+  </div>
+</header>
+
+<section>
+  <h2>O que tem</h2>
+  <div class="grelha">
+    <div class="numero"><b>360 mil</b><span>diplomas e atos</span></div>
+    <div class="numero"><b>1833</b><span>a 1.ª Série do Diário da República desde então</span></div>
+    <div class="numero"><b>54 mil</b><span>atos da União Europeia</span></div>
+    <div class="numero"><b>29 mil</b><span>acórdãos do Tribunal Constitucional</span></div>
+  </div>
+  <p>Cada texto liga à fonte oficial. A legislação atualiza-se todos os dias no <a href="https://github.com/joaobarrosodev/leis-portugal">repositório público</a>.</p>
+</section>
+
+<section>
+  <h2>Quanto acerta</h2>
+  <div class="cartao">
+    <ul>
+      <li><strong>Quando responde, acerta em cerca de 19 em cada 20 perguntas</strong> (95%).</li>
+      <li>Responde a mais de 8 em cada 10 perguntas. Nas outras, diz que não sabe em vez de inventar.</li>
+      <li>Mostra sempre a lei, o artigo e a redação em vigor na data. Se a lei foi revogada, diz por qual.</li>
+    </ul>
+    <div class="aviso"><strong>Medido só com o Claude Opus 5.5</strong>, com juízes de IA às cegas e sem revisão de jurista. Com a OpenAI ou a Gemini funciona da mesma forma, mas a qualidade não foi medida. Os pormenores estão no <a href="https://github.com/joaobarrosodev/leis-portugal/blob/main/rag/README.md">relatório</a>.</div>
+    <div class="aviso vermelho"><strong>É um protótipo.</strong> Não substitui um advogado nem a consulta do Diário da República. A pergunta é enviada à IA que escolheres: não escrevas dados de clientes.</div>
+  </div>
+</section>
+
+<section>
+  <h2>Como começar</h2>
+  <ol>
+    <li>Descarrega a aplicação para o teu computador e abre o ficheiro .zip.</li>
+    <li><strong>Mac:</strong> arrasta "Leis de Portugal" para as Aplicações. Da primeira vez, abre-a com o botão direito do rato → Abrir (a aplicação ainda não é assinada pela Apple). Se o macOS não deixar, vai a Definições do Sistema → Privacidade e Segurança → Abrir mesmo assim.</li>
+    <li><strong>Windows:</strong> extrai a pasta e abre "Leis de Portugal.exe". Se o Windows mostrar "O Windows protegeu o computador", carrega em Mais informações → Executar mesmo assim (a aplicação ainda não é assinada).</li>
+    <li>A aplicação mostra um passo a passo: escolhes a IA, crias a chave na conta dessa IA e colas a chave. A chave fica no cofre do teu computador.</li>
+    <li>Descarrega os dados (cerca de 5 GB, só da primeira vez) e começa a perguntar.</li>
+  </ol>
+  <p>Cada pergunta custa uns cêntimos na conta da IA escolhida. A aplicação e a legislação são gratuitas.</p>
+</section>
+
+<section>
+  <h2>És advogado ou jurista?</h2>
+  <div class="cartao">
+    <p>O sistema ainda não foi testado com perguntas de advogados nem revisto por juristas. Se quiseres ajudar, há duas formas: escrever perguntas da tua prática, com a resposta e o artigo que esperas, ou rever respostas sem saber quais estão certas. Sem dados de clientes.</p>
+    <p>Na aplicação, cada resposta tem "Está certo?". As tuas avaliações ficam no teu computador e podes enviá-las ao projeto.</p>
+  </div>
+</section>
+
+<footer>
+  Leis de Portugal é um projeto open source (código MIT). Os textos legais seguem as condições de cada fonte oficial. O texto em vigor produzido pelo projeto não tem valor oficial. Para o Diário da República, consulta <a href="https://diariodarepublica.pt/">diariodarepublica.pt</a>.
+</footer>
+
+<script>
+  // O botão do sistema de quem visita fica primeiro.
+  const windows = /Windows/i.test(navigator.userAgent);
+  if (windows) document.getElementById("botoes").prepend(document.getElementById("windows"));
+  document.getElementById(windows ? "mac" : "windows").classList.add("secundario");
+</script>
+</body>
+</html>
