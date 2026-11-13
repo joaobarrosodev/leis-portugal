@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado pelo art. 104.º da 1.ª revisão do PDM da Batalha (Aviso n.º 9808/2015), em vigor no dia útil seguinte à
+    publicação (2015-08-31). O DRE dá a RCM n.º 136/95 como em vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:70133775:por'
+    detail: Com a entrada em vigor da presente revisão, é revogado o Plano Diretor Municipal da Batalha aprovado pela Assembleia
+      Municipal em 8 de novembro de 1994 e 26 de junho de 1995, ratificado pela Resolução do Conselho de Ministros n.º 136/95
 notes: []
 language: por
 version:
@@ -327,6 +337,12 @@ relationships:
   target: pt:dre:678600:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:70133775:por
+  label: Revogado pelo art. 104.º da 1.ª revisão do PDM da Batalha (Aviso n.º 9808/2015), em vigor no dia útil seguinte à
+    publicação (2015-08-31). O DRE dá a RCM n.º 136/95 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2015-08-31'
 article_structure:
   article_count: 47
   section_count: 15

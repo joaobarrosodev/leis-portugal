@@ -659,3 +659,113 @@ def test_structure_command_writes_entry_into_force_and_proven_status(repo_root: 
     metadata, _ = read_markdown_record(repealed)
     assert metadata["legal_status"] == "repealed" and metadata["entry_into_force"]["date"] == "1986-08-27"
     assert metadata["entry_into_force_dates"] == ["1986-08-27"]
+
+
+def _pdm_records(repo_root: Path) -> tuple[Path, Path]:
+    # RCM n.º 94/94 (PDM de Lisboa) e Aviso n.º 11622/2012 (a revisão), em excerto.
+    old = repo_root / "data/portugal/resolucoes-conselho-ministros/1994/resolucao-conselho-ministros-94-94.md"
+    old.parent.mkdir(parents=True)
+    old.write_text(render_markdown(record_dict(
+        "pt:dre:609283:por", title="Resolução do Conselho de Ministros n.º 94/94", document_type="resolucao-conselho-ministros",
+        legal_status="in_force", publication_date="1994-09-29", publication={"series": "I"},
+        relationships=[{"type": "amended_by", "target": "pt:dre:138128:por", "label": "Suspensa", "source": None, "date": "1999-03-25"}],
+    ), "# Resolução do Conselho de Ministros n.º 94/94\n\n1 - Ratificar o Plano Director Municipal de Lisboa.\n"), encoding="utf-8")
+    new = repo_root / "data/portugal/serie-ii/avisos/2012/aviso-11622-2012.md"
+    new.parent.mkdir(parents=True)
+    new.write_text(render_markdown(record_dict(
+        "pt:dre:1787349:por", title="Aviso n.º 11622/2012", document_type="aviso", legal_status="in_force", publication_date="2012-08-30",
+        publication={"series": "II"},
+    ), "# Aviso n.º 11622/2012\n\nTorna-se público que a Assembleia Municipal de Lisboa deliberou, através da "
+       "[Deliberação n.º 46/AML/2012](https://example.org), aprovar a Revisão do Plano Diretor Municipal de Lisboa,\n"
+       "incluindo o Regulamento, que se publica em anexo.\n"), encoding="utf-8")
+    return old, new
+
+
+def _manual_line(**extra) -> str:
+    item = {
+        "id": "pt:dre:609283:por", "estado": "not_in_force", "substituido_por": "pt:dre:1787349:por", "data": "2012-08-31",
+        "citacao": "através da Deliberação n.º 46/AML/2012, aprovar a Revisão do Plano Diretor Municipal de Lisboa, incluindo o Regulamento",
+        "motivo": "Substituído pela revisão do PDM de Lisboa (Aviso n.º 11622/2012).",
+    }
+    return json.dumps({**item, **extra}, ensure_ascii=False) + "\n"
+
+
+def _structure(repo_root: Path) -> int:
+    return main(["--root", str(repo_root), "structure", "--workers", "1", "--today", "2026-11-12", "--validation-sample", "0"])
+
+
+def test_manual_proof_overrides_the_dre_status_and_names_the_replacement(repo_root: Path, capsys):
+    from leis_portugal.infrastructure.markdown import read_markdown_record
+    from leis_portugal.infrastructure.repository import Acervo
+    from leis_portugal.services.structure import MANUAL_RELATION_SOURCE
+
+    old, new = _pdm_records(repo_root)
+    untouched = new.read_text(encoding="utf-8")
+    (repo_root / "reports").mkdir(exist_ok=True)
+    manual = repo_root / "reports/vigencia-manual.jsonl"
+    manual.write_text(_manual_line(), encoding="utf-8")
+
+    assert _structure(repo_root) == 0
+    assert "1 com vigência provada (1 por prova manual)" in capsys.readouterr().out
+    metadata, _ = read_markdown_record(old)
+    assert metadata["legal_status"] == "not_in_force"
+    assert metadata["legal_status_basis"] == {
+        "source": "prova_manual", "dre_status": "in_force", "reason": "Substituído pela revisão do PDM de Lisboa (Aviso n.º 11622/2012).",
+        "evidence": [{"status": "not_in_force", "provenance": "prova manual: pt:dre:1787349:por",
+                      "detail": "através da Deliberação n.º 46/AML/2012, aprovar a Revisão do Plano Diretor Municipal de Lisboa, incluindo o Regulamento"}],
+    }
+    assert {"type": "repealed_by", "target": "pt:dre:1787349:por", "label": "Substituído pela revisão do PDM de Lisboa (Aviso n.º 11622/2012).",
+            "source": MANUAL_RELATION_SOURCE, "date": "2012-08-31"} in metadata["relationships"]
+    assert any(item["type"] == "amended_by" for item in metadata["relationships"])
+    acervo = Acervo(repo_root)
+    assert acervo.schema.record_errors(metadata) == []
+    summary = json.loads((repo_root / "reports/estrutura.json").read_text(encoding="utf-8"))
+    assert summary["vigencia"]["provas_manuais"] == 1 and summary["vigencia"]["desconhecidos"] == 0
+    # Só o diploma substituído muda (fora a entrada em vigor, que este comando também grava).
+    assert read_markdown_record(new)[0]["legal_status"] == "in_force"
+    assert "legal_status_basis" not in read_markdown_record(new)[0]
+    del untouched
+
+    # Segunda passagem: nada muda (o reset não apaga a prova manual).
+    before = old.read_text(encoding="utf-8")
+    assert _structure(repo_root) == 0
+    assert old.read_text(encoding="utf-8") == before
+
+    # Uma nova recolha do DRE (que continua a dizer `in_force`) não apaga a prova nem a relação.
+    record, body = acervo.read(old)
+    fresh = type(record).from_dict(
+        {key: value for key, value in record.to_dict().items() if key != "legal_status_basis"}
+        | {"legal_status": "in_force", "relationships": [item for item in record.to_dict()["relationships"] if item["type"] == "amended_by"]}
+    )
+    acervo.save(fresh, body, target=old)
+    metadata, _ = read_markdown_record(old)
+    assert metadata["legal_status"] == "not_in_force" and metadata["legal_status_basis"]["dre_status"] == "in_force"
+    assert any(item["type"] == "repealed_by" for item in metadata["relationships"])
+
+    # A prova sai do ficheiro: volta o estado do DRE e a relação desaparece.
+    manual.write_text("", encoding="utf-8")
+    assert _structure(repo_root) == 0
+    assert "1 com a vigência retirada" in capsys.readouterr().out
+    metadata, _ = read_markdown_record(old)
+    assert metadata["legal_status"] == "in_force" and "legal_status_basis" not in metadata
+    assert [item["type"] for item in metadata["relationships"]] == ["amended_by"]
+
+
+@pytest.mark.parametrize(
+    "line, message",
+    [
+        (_manual_line(citacao="revoga a Resolução do Conselho de Ministros n.º 94/94"), "citação"),
+        (_manual_line(estado="in_force"), "estado"),
+        (_manual_line(motivo=""), "campos em falta"),
+        (_manual_line(substituido_por="pt:dre:1:por"), "não está no acervo"),
+        (_manual_line() * 2, "repetido"),
+    ],
+)
+def test_manual_proof_without_the_quoted_sentence_is_refused(repo_root: Path, capsys, line: str, message: str):
+    old, _ = _pdm_records(repo_root)
+    before = old.read_text(encoding="utf-8")
+    (repo_root / "reports").mkdir(exist_ok=True)
+    (repo_root / "reports/vigencia-manual.jsonl").write_text(line, encoding="utf-8")
+    assert _structure(repo_root) != 0
+    assert message in capsys.readouterr().err
+    assert old.read_text(encoding="utf-8") == before

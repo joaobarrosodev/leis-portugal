@@ -27,6 +27,7 @@ from typing import Any
 from leis_portugal.domain.articles import Article, number_slug, parse_articles
 from leis_portugal.domain.entry_into_force import extract
 from leis_portugal.domain.history import render_version, version_at
+from leis_portugal.domain.record import Relationship
 from leis_portugal.domain.validity import Repeal, propose, repeals_in
 from leis_portugal.infrastructure.markdown import read_markdown_record, write_if_changed
 from leis_portugal.infrastructure.markdown import render_markdown as render_record
@@ -92,8 +93,13 @@ def analyse(path: str, root: str) -> dict[str, Any] | None:
         "series": publication.get("series"),
         "publication_date": metadata.get("publication_date"),
         # Um estado gravado por este comando (com `legal_status_basis`) volta a avaliar-se
-        # como desconhecido: se a prova deixar de existir, a escrita retira-o.
-        "legal_status": "unknown" if metadata.get("legal_status_basis") else metadata.get("legal_status") or "unknown",
+        # como o que estava antes (desconhecido, ou o do DRE numa prova manual): se a prova
+        # deixar de existir, a escrita retira-o.
+        "legal_status": (
+            (metadata["legal_status_basis"].get("dre_status") or "unknown")
+            if metadata.get("legal_status_basis")
+            else metadata.get("legal_status") or "unknown"
+        ),
         "proven_status": bool(metadata.get("legal_status_basis")),
         "version_kind": (metadata.get("version") or {}).get("kind"),
         "text_quality": quality,
@@ -151,6 +157,7 @@ class StructureReport:
     proposals: list[dict[str, Any]] = field(default_factory=list)
     validation: dict[str, Any] = field(default_factory=dict)
     rows: list[dict[str, Any]] = field(default_factory=list)
+    manual: list[ManualProof] = field(default_factory=list)
 
 
 def _status_group(status: str) -> str:
@@ -416,6 +423,10 @@ def run(
     progress(f"Registos lidos: {len(rows)}")
     report = aggregate(rows, today=today)
     report.rows = rows
+    report.manual = check_manual(acervo, rows, load_manual(acervo.root / MANUAL_FILE))
+    report.summary["vigencia"]["provas_manuais"] = len(report.manual)
+    if report.manual:
+        progress(f"Provas manuais de vigência: {len(report.manual)} ({MANUAL_FILE})")
     if validation_sample:
         progress(f"A validar o parser em {validation_sample} consolidados…")
         report.validation = validate_consolidated(acervo, rows, sample=validation_sample)
@@ -425,7 +436,10 @@ def run(
 # ------------------------------------------------------------------ escrita nos registos
 
 # Prova -> `legal_status_basis.source`.
-_BASIS_SOURCES = {"norma revogatória": "norma_revogatoria", "DRE repealed_by": "relacao_dre", "cláusula de vigência": "clausula_vigencia"}
+_BASIS_SOURCES = {
+    "norma revogatória": "norma_revogatoria", "DRE repealed_by": "relacao_dre", "cláusula de vigência": "clausula_vigencia",
+    "prova manual": "prova_manual",
+}
 # Entrada em vigor que se grava: lida numa cláusula ou pela regra supletiva (sem cláusula, nada).
 _WRITTEN_METHODS = {"clausula", "supletiva"}
 
@@ -435,8 +449,97 @@ class ApplySummary:
     entry_into_force: int = 0
     legal_status: int = 0
     withdrawn: int = 0
+    manual: int = 0
     updated: int = 0
     changed_paths: list[Path] = field(default_factory=list)
+
+
+# ------------------------------------------------------------------ provas manuais
+
+# Provas registadas à mão de que um diploma deixou de estar em vigor, quando nenhuma das
+# fontes automáticas o diz (p. ex. um PDM revisto: o aviso da revisão aprova um Regulamento
+# novo sem revogar a resolução que ratificou o antigo, e o DRE continua a dá-la em vigor).
+# Uma linha JSON por diploma; só esta fonte se sobrepõe a um estado do DRE.
+MANUAL_FILE = "reports/vigencia-manual.jsonl"
+MANUAL_SOURCE = "prova_manual"
+# `Relationship.source` da relação `repealed_by` que a prova manual junta ao registo.
+MANUAL_RELATION_SOURCE = f"leis-portugal structure ({MANUAL_FILE})"
+_MANUAL_STATUSES = {"repealed", "not_in_force"}
+_MANUAL_FIELDS = ("id", "estado", "substituido_por", "data", "citacao", "motivo")
+
+
+@dataclass(frozen=True)
+class ManualProof:
+    """Uma linha de `vigencia-manual.jsonl`: `citacao` é uma frase do diploma `substituido_por`
+    (copiada do texto do acervo, que se confirma), `data` o dia em que deixou de vigorar."""
+
+    id: str
+    status: str
+    replaced_by: str
+    date: str | None
+    quote: str
+    reason: str
+
+
+def load_manual(path: Path) -> list[ManualProof]:
+    """Lê o ficheiro de provas manuais (sem ficheiro, nenhuma). Uma linha mal formada é um erro:
+    não se aplica uma prova incompleta."""
+    if not path.is_file():
+        return []
+    proofs: list[ManualProof] = []
+    for number, line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
+        if not line.strip():
+            continue
+        item = json.loads(line)
+        missing = [key for key in _MANUAL_FIELDS if key != "data" and not str(item.get(key) or "").strip()]
+        if missing or set(item) - set(_MANUAL_FIELDS):
+            raise ValueError(f"{path.name}:{number}: campos em falta {missing} ou desconhecidos {sorted(set(item) - set(_MANUAL_FIELDS))}")
+        if item["estado"] not in _MANUAL_STATUSES:
+            raise ValueError(f"{path.name}:{number}: estado {item['estado']!r} (aceites: {sorted(_MANUAL_STATUSES)})")
+        if item.get("data") is not None:
+            date.fromisoformat(item["data"])
+        if item["id"] in {proof.id for proof in proofs}:
+            raise ValueError(f"{path.name}:{number}: {item['id']} repetido")
+        proofs.append(ManualProof(item["id"], item["estado"], item["substituido_por"], item.get("data"), item["citacao"], item["motivo"]))
+    return proofs
+
+
+def _plain(text: str) -> str:
+    """Texto para comparar a citação: sem ligações markdown e com os espaços normalizados."""
+    return " ".join(re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text).split())
+
+
+def check_manual(acervo: Acervo, rows: list[dict[str, Any]], proofs: list[ManualProof]) -> list[ManualProof]:
+    """Confirma cada prova: os dois diplomas existem no acervo e a citação está, letra a letra,
+    no texto do diploma que substitui. Falhar uma é um erro (nada se marca sem a frase da fonte)."""
+    paths = {row["id"]: row["path"] for row in rows if row.get("id")}
+    for proof in proofs:
+        for record_id in (proof.id, proof.replaced_by):
+            if record_id not in paths:
+                raise ValueError(f"{MANUAL_FILE}: {record_id} não está no acervo")
+        _, body = read_markdown_record(str(acervo.root / paths[proof.replaced_by]))
+        if _plain(proof.quote) not in _plain(body):
+            raise ValueError(f"{MANUAL_FILE}: a citação de {proof.id} não está no texto de {proof.replaced_by}")
+    return proofs
+
+
+def manual_basis(proof: ManualProof, dre_status: str) -> dict[str, Any]:
+    """`legal_status_basis` de uma prova manual; `dre_status` guarda o estado anterior, que volta
+    se a prova for retirada do ficheiro."""
+    return {
+        "source": MANUAL_SOURCE,
+        "dre_status": dre_status,
+        "reason": proof.reason,
+        "evidence": [{"status": proof.status, "provenance": f"prova manual: {proof.replaced_by}", "detail": proof.quote}],
+    }
+
+
+def manual_relation(proof: ManualProof) -> Relationship:
+    return Relationship(type="repealed_by", target=proof.replaced_by, label=proof.reason, source=MANUAL_RELATION_SOURCE, date=proof.date)
+
+
+def _without_manual_relations(relations: list[Relationship]) -> list[Relationship]:
+    return [relation for relation in relations if relation.source != MANUAL_RELATION_SOURCE]
 
 
 def legal_status_basis(proposal: dict[str, Any]) -> dict[str, Any]:
@@ -462,6 +565,9 @@ def apply(acervo: Acervo, report: StructureReport, rows: list[dict[str, Any]], *
     for proposal in report.proposals:
         if proposal["status"]:
             changes[proposal["path"]]["proposal"] = proposal
+    paths = {row["id"]: row["path"] for row in rows if row.get("id")}
+    for proof in report.manual:
+        changes[paths[proof.id]]["manual"] = proof
     summary = ApplySummary()
     for index, (relative, change) in enumerate(sorted(changes.items()), start=1):
         path = acervo.root / relative
@@ -471,15 +577,29 @@ def apply(acervo: Acervo, report: StructureReport, rows: list[dict[str, Any]], *
             if not record.entry_into_force_dates and record.entry_into_force.get("date"):
                 record.entry_into_force_dates = [record.entry_into_force["date"]]
             summary.entry_into_force += 1
-        if "proposal" in change:
+        if "manual" in change:
+            # A prova manual prevalece sobre as automáticas e sobre o estado do DRE.
+            proof = change["manual"]
+            previous = record.legal_status_basis or {}
+            dre_status = previous.get("dre_status") or ("unknown" if previous else record.legal_status)
+            record.legal_status = proof.status
+            record.legal_status_basis = manual_basis(proof, dre_status)
+            record.relationships = _without_manual_relations(record.relationships)
+            record.add_relationships([manual_relation(proof)])
+            summary.legal_status += 1
+            summary.manual += 1
+        elif "proposal" in change:
             proposal = change["proposal"]
             if proposal and (record.legal_status == "unknown" or record.legal_status_basis):
                 record.legal_status = proposal["status"]
                 record.legal_status_basis = legal_status_basis(proposal)
+                record.relationships = _without_manual_relations(record.relationships)
                 summary.legal_status += 1
             elif not proposal and record.legal_status_basis:
-                # A prova deixou de existir: o estado volta a desconhecido.
-                record.legal_status, record.legal_status_basis = "unknown", None
+                # A prova deixou de existir: o estado volta ao anterior (desconhecido, ou o do DRE).
+                record.legal_status = record.legal_status_basis.get("dre_status") or "unknown"
+                record.legal_status_basis = None
+                record.relationships = _without_manual_relations(record.relationships)
                 summary.withdrawn += 1
         if write_if_changed(path, render_record(record.to_dict(), body)):
             summary.updated += 1
