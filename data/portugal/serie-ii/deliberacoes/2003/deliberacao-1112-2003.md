@@ -1,0 +1,153 @@
+---
+schema_version: '1.0'
+id: pt:dre:1512246:por
+title: Deliberação n.º 1112/2003
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: deliberacao
+document_type_label: Deliberação
+issuing_authority:
+- Universidade do Algarve - Serviços Académicos
+proposing_entity: null
+official_number: 1112/2003
+official_date: null
+publication_date: '2003-08-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 176/2003, Série II de 2003-08-01
+  number: '176'
+  series: II
+  supplement: null
+  pages: 11551 - 11552
+  pdf_url: https://files.diariodarepublica.pt/2s/2003/08/176000000/1155111552.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1512246'
+  dre_path: /dr/detalhe/deliberacao/1112-2003-1512246
+  internal: pt:dre:1512246:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/1112-2003-1512246
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/1112-2003-1512246
+  consolidated_url: null
+  retrieved_at: '2026-11-13T10:47:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7bbcca0f0ecaf722fb017362766821eb0659fe600e73eb61c56e7a994e3c891d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T10:47:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:308506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T10:47:53Z'
+  warnings: []
+  errors: []
+---
+
+# Deliberação n.º 1112/2003
+
+Deliberação n.º 1112/2003. - Ao abrigo do disposto na alínea e) do artigo 17.º dos Estatutos da Universidade do Algarve, homologados pelo despacho 31/ME/89, de 8 de Março, com as alterações constantes do [Despacho Normativo n.º 2/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2001-340817), de 11 de Dezembro de 2000, publicado no Diário da República, de 12 de Janeiro de 2001, nomeadamente no artigos 8.º e 17.º, o senado, através da Secção de Ensino Universitário, em reunião do dia 21 de Maio de 2003, decidiu o constante no articulado que se segue:
+
+1.º
+
+Alteração
+
+O curso de licenciatura em Gestão de Empresas, criado pelo [Decreto-Lei n.º 46/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1983-308506), de 24 de Junho, e regulamentado pela [Portaria n.º 711/87](https://diariodarepublica.pt/dr/detalhe/portaria/711-1987-417639), de 19 de Agosto, posteriomente alterado pelas deliberações SU-37/93, de 28 de Junho, e SU-04/99, de 21 de Abril, ambas aprovadas pelo senado universitário, passa a ter a estrutura curricular constante do anexo n.º 1 à presente deliberação.
+
+2.º
+
+Plano de estudos e regime de transição
+
+1 - O plano de estudos da alteração da estrutura curricular, referida no artigo anterior, é o constante do anexo n.º 2 à presente deliberação e poderá ser alterado por despacho reitoral, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.
+
+2 - O regime de integração dos alunos que hajam estado inscritos no anterior plano de estudos será aprovado por despacho reitoral, sob proposta do conselho científico da Faculdade de Economia.
+
+3.º
+
+Aplicação
+
+A presente deliberação aplica-se a partir do ano lectivo de 2003-2004, inclusive, de acordo com o regime de integração previsto no n.º 2 do artigo 2.º
+
+17 de Julho de 2003. - A Directora, Julieta Mateus.
+
+## ANEXO N.º 1 — Curso de licenciatura em Gestão de Empresas
+
+Área científica do curso - Gestão.
+
+Duração normal do curso - quatro anos lectivos.
+
+Condições necessárias à atribuição de graus:
+
+1 - Obtenção de um número de unidades de crédito entre um mínimo de 124 e um máximo de 135;
+
+2 - Número de semestres lectivos de inscrição não inferiores a oito;
+
+3 - Aproveitamento em todas as disciplinas obrigatórias, representando um total de 116 unidades de crédito;
+
+4 - Obtenção, nos dois últimos semestres do curso, de um mínimo de 8 unidades de crédito em disciplinas optativas por blocos coerentes de especialização sectorial ou num projecto de fim de curso;
+
+5 - As 11 unidades de crédito facultativas, entre o mínimo de 124 e o máximo de 135, poderão ser obtidas em outras disciplinas optativas do curso de Gestão de Empresas ou em disciplinas obrigatórias ou optativas de outros cursos da Faculdade de Economia, ou ainda num projecto de fim de curso;
+
+6 - Aprovação no curso não creditado de Introdução à Informática;
+
+7 - Aprovação no curso não creditado de Matemática Propedêutica ou habilitação considerada equivalente.
+
+Áreas científicas e distribuição do número mínimo de unidades de crédito
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/08/176000000/1155111552.pdf)
+
+## ANEXO N.º 2 — Plano de estudos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/08/176000000/1155111552.pdf)

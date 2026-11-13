@@ -1,0 +1,97 @@
+---
+schema_version: '1.0'
+id: pt:dre:986842:por
+title: Deliberação n.º 368/2000 - AP
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: deliberacao
+document_type_label: Deliberação
+issuing_authority:
+- Ministério da Saúde - Direcção-Geral da Saúde - Maternidade do Dr. Alfredo da Costa
+proposing_entity: null
+official_number: 368/2000 - AP
+official_date: null
+publication_date: '2000-03-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 55/2000, Apêndice 33/2000, Série II de 2000-03-06
+  number: '55'
+  series: II
+  supplement: null
+  pages: 47 - 47
+  pdf_url: https://files.diariodarepublica.pt/2s/2000/03/055033000/0004700047.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '986842'
+  dre_path: /dr/detalhe/deliberacao/368-2000-986842
+  internal: pt:dre:986842:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/368-2000-986842
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/368-2000-986842
+  consolidated_url: null
+  retrieved_at: '2026-11-13T09:20:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 13a668934080ff447f21ea5f64cea951a33189d04ccd093b3e20dec45bfe3899
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T09:20:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:424686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T09:20:40Z'
+  warnings: []
+  errors: []
+---
+
+# Deliberação n.º 368/2000 - AP
+
+Deliberação n.º 368/2000 - AP. - Por deliberação do conselho de administração da Maternidade do Dr. Alfredo da Costa de 31 de Janeiro de 2000, proferida por competência própria:
+
+Deliberado renovar o contrato de trabalho a termo certo celebrado com Ana Sofia Tello Gonçalves, nos termos do artigo único do [Decreto-Lei n.º 218/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1998-424686), de 17 de Julho, que deu nova redacção ao artigo 20.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, para o exercício de funções equiparáveis a técnica superior de serviço social, com efeitos a partir de 1 de Fevereiro de 2000.
+
+1 de Fevereiro de 2000. - O Administrador-Delegado, Leonel Rodrigues.

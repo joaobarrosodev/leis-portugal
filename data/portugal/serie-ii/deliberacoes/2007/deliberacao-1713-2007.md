@@ -1,0 +1,87 @@
+---
+schema_version: '1.0'
+id: pt:dre:1070454:por
+title: Deliberação n.º 1713/2007
+short_title: null
+summary: Nomeação de Catarina Viana Moniz Sá como técnica de análises clínicas e saúde pública de 2.ª classe
+jurisdiction: portugal
+territory: null
+document_type: deliberacao
+document_type_label: Deliberação
+issuing_authority:
+- Hospital do Divino Espírito Santo, E. P. E.
+proposing_entity: null
+official_number: 1713/2007
+official_date: null
+publication_date: '2007-08-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 167/2007, Série II de 2007-08-30
+  number: '167'
+  series: II
+  supplement: null
+  pages: 25147 - 25147
+  pdf_url: https://files.diariodarepublica.pt/2s/2007/08/167000000/2514725147.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1070454'
+  dre_path: /dr/detalhe/deliberacao/1713-2007-1070454
+  internal: pt:dre:1070454:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/1713-2007-1070454
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/1713-2007-1070454
+  consolidated_url: null
+  retrieved_at: '2026-11-13T09:43:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 06ea3ed052147ed443e4decc53c1a3946361f4dd80c6bb5e7812efb626e25739
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T09:43:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T09:43:15Z'
+  warnings: []
+  errors: []
+---
+
+# Deliberação n.º 1713/2007
+
+Por deliberação do conselho de administração do Hospital do Divino Espírito Santo de Ponta Delgada, E. P. E., de 1 de Agosto de 2007, foi Catarina Viana Moniz Sá nomeada técnica de análises clínicas e saúde pública de 2.ª classe, escalão 1, índice 114.
+
+7 de Agosto de 2007. - O Vogal do Conselho de Administração, Arlindo Gomes Martins Mano.

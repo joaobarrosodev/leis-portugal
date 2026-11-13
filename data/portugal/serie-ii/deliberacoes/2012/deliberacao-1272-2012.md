@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:2529140:por
+title: Deliberação n.º 1272/2012
+short_title: null
+summary: Reposicionamento remuneratório
+jurisdiction: portugal
+territory: null
+document_type: deliberacao
+document_type_label: Deliberação
+issuing_authority:
+- Hospital de Magalhães Lemos, E. P. E.
+proposing_entity: null
+official_number: 1272/2012
+official_date: null
+publication_date: '2012-09-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 182/2012, Série II de 2012-09-19
+  number: '182'
+  series: II
+  supplement: null
+  pages: 31809 - 31810
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/09/182000000/3180931810.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2529140'
+  dre_path: /dr/detalhe/deliberacao/1272-2012-2529140
+  internal: pt:dre:2529140:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/1272-2012-2529140
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/1272-2012-2529140
+  consolidated_url: null
+  retrieved_at: '2026-11-13T13:22:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 39177890f0c1097828e3e5e8ecb803833e886b7ee4e52c9ace4670a620bf37c9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T13:22:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:309024:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T13:22:21Z'
+  warnings: []
+  errors: []
+---
+
+# Deliberação n.º 1272/2012
+
+Por deliberação do Conselho de Administração do Hospital de Magalhães Lemos, E. P. E., de 31 de janeiro de 2012, foram aprovadas as seguintes listas de enfermeiros, em regime de contrato de trabalho em funções públicas, reposicionados na 1.ª posição remuneratória da tabela remuneratória, nos termos previstos nas alíneas a) e b) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 122/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2010-309024) de 11 de novembro, com efeitos reportados a 01.01.2011 e 01.01.2012, respetivamente:
+
+1 de janeiro de 2011
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/09/182000000/3180931810.pdf)
+
+1 de janeiro de 2012
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2012/09/182000000/3180931810.pdf)
+
+(Isento de fiscalização prévia do Tribunal de Contas)
+
+13 de setembro de 2012. - O Presidente do Conselho de Administração, António Alfredo de Sá Leuschner Fernandes.
+
+206385347

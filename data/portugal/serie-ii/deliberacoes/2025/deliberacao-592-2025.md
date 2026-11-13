@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: pt:dre:915864876:por
+title: Deliberação n.º 592/2025
+short_title: null
+summary: Delegação de competências do conselho diretivo do Instituto da Segurança Social, I. P., no diretor de Segurança Social
+  do Centro Nacional de Pensões, Miguel Filipe Neves de Sá.
+jurisdiction: portugal
+territory: null
+document_type: deliberacao
+document_type_label: Deliberação
+issuing_authority:
+- Trabalho, Solidariedade e Segurança Social - Instituto da Segurança Social, I. P.
+proposing_entity: null
+official_number: 592/2025
+official_date: null
+publication_date: '2025-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 80/2025, Série II de 2025-04-24
+  number: '80'
+  series: II
+  supplement: null
+  pages: 165 - 166
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/04/080000000/0016500166.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '915864876'
+  dre_path: /dr/detalhe/deliberacao/592-2025-915864876
+  internal: pt:dre:915864876:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/592-2025-915864876
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/592-2025-915864876
+  consolidated_url: null
+  retrieved_at: '2026-11-13T14:24:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 77c904de98b9d305e7ed586c1f53748164db4aac05a97c54bf624ae4941f7401
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T14:24:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T14:24:49Z'
+  warnings: []
+  errors: []
+---
+
+# Deliberação n.º 592/2025
+
+Nos termos do disposto conjugadamente no n.º 1 do artigo 44.º do Código do Procedimento Administrativo (CPA) e no n.º 3 do artigo 20.º dos Estatutos do Instituto da Segurança Social, I. P., (ISS, I. P.), aprovados pela Portaria n.º 135/2012, de 8 de maio, na sua redação atual, o Conselho Diretivo delibera delegar no Diretor de Segurança Social do Centro Nacional de Pensões (CNP), o licenciado Miguel Filipe Neves de Sá, com a faculdade de subdelegação, os poderes necessários para, no âmbito de intervenção deste serviço, praticar os seguintes atos:
+
+1 - Em matéria de gestão em geral, e desde que, precedendo do indispensável e prévio cabimento orçamental, sejam observados os condicionalismos legais, os regulamentos aplicáveis e as orientações técnicas emitidas sobre a matéria:
+
+1.1 - Assinar a correspondência relacionada com assuntos de natureza corrente necessária ao normal funcionamento do serviço, incluindo a dirigida aos tribunais, com exceção da que for dirigida ao Presidente da República, à Assembleia da República, ao Governo e aos titulares destes órgãos de soberania, à Provedoria da Justiça e a outras entidades de idêntica ou superior posição na hierarquia do Estado, salvaguardando situações de mero expediente ou de natureza urgente;
+
+1.2 - Apresentar queixas-crime em nome e no interesse do ISS, I. P., relativamente a factos ocorridos na área de intervenção própria do referido serviço;
+
+1.3 - Despachar os planos e os relatórios anuais de atividades, no quadro do Plano de Atividades do ISS, I. P. e proceder à respetiva avaliação;
+
+1.4 - Autorizar o pagamento de multas, preparos e custas judiciais bem como, nos processos e ações judiciais em que a representação do ISS, I. P. seja assegurada pelo Centro Nacional de Pensões;
+
+1.5 - Autorizar a realização de despesas urgentes e inadiáveis com a aquisição de bens e serviços necessários para o funcionamento dos serviços do Centro Nacional de Pensões até ao limite de €25.000,00;
+
+1.6 - Autorizar o pagamento em prestações mensais de pensões e complementos indevidamente recebidos, ao abrigo da legislação aplicável, e demais orientações normativas em vigor;
+
+1.7 - Autorizar o reembolso de quotizações de invalidez, velhice e morte de acordo com o disposto no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social e demais orientações em vigor;
+
+1.8 - Decidir sobre outras matérias que se insiram no âmbito das atribuições do referido serviço e cujo interesse institucional o justifique;
+
+1.9 - Reconhecer o direito às pensões e outras prestações de proteção social relativas às eventualidades de invalidez, velhice e morte e outras previstas na lei;
+
+1.10 - Autorizar o processamento de pensões e outras prestações que com elas se relacionem ou sejam determinadas pelo mesmo facto;
+
+1.11 - Autorizar o processamento de pensões e de outras prestações com estas relacionadas a cargo e por conta de instituições estrangeiras, no quadro da aplicação dos instrumentos internacionais de segurança social;
+
+1.12 - Promover e decidir os processos relativos à aplicação dos regimes sancionatórios por violação de normas referentes às prestações diferidas do sistema de segurança social.
+
+2 - Quanto ao pessoal que se encontra afeto ao respetivo serviço, e desde que observados os mesmos pressupostos, condicionalismos e orientações:
+
+2.1 - Propor os horários mais adequados ao funcionamento do serviço;
+
+2.2 - Autorizar a realização de trabalho extraordinário, de trabalho noturno, de trabalho em dia de descanso semanal, obrigatório e complementar, e em dia feriado, com exceção do pessoal dirigente e de chefia, desde que respeitados os pressupostos e os limites legais aplicáveis;
+
+2.3 - Aprovar os mapas de férias e autorizar as respetivas alterações, bem como a acumulação com as férias do ano seguinte;
+
+2.4 - Autorizar férias antes da aprovação do mapa anual de férias, bem como o gozo interpolado de férias, nos termos da lei aplicável;
+
+2.5 - Despachar os pedidos de justificação de faltas;
+
+2.6 - Decidir sobre os meios de prova dos motivos justificativos das faltas ao serviço invocados pelos trabalhadores;
+
+2.7 - Despachar os pedidos de tratamento ambulatório e de dispensa para consultas médicas ou exames complementares de diagnóstico;
+
+2.8 - Requerer a fiscalização da doença e a realização de juntas médicas consoante os casos, nos termos da lei aplicável;
+
+2.9 - Afetar o pessoal na área de intervenção do respetivo serviço;
+
+2.10 - Autorizar as deslocações em serviço, bem como as ajudas de custo e o reembolso de despesas de transporte a que haja lugar, nos termos da lei aplicável;
+
+2.11 - Qualificar os acidentes de trabalho dos trabalhadores do respetivo serviço;
+
+2.12 - Conceder licenças sem retribuição por períodos de tempo não superior a 30 dias e autorizar o regresso antecipado à atividade no âmbito destas licenças;
+
+2.13 - Autorizar a realização de estágios curriculares ou académicos e assinar os acordos individuais de estágio, de acordo com as orientações internas na matéria.
+
+3 - A presente deliberação produz efeitos imediatos e, por força dela e do disposto no n.º 3 do artigo 164.º do CPA, ficam ratificados todos os atos praticados pelo mencionado dirigente no âmbito da aplicação da presente delegação de competências.
+
+10 de abril de 2025. - Pelo Conselho Diretivo, o Presidente, Octávio Félix de Oliveira.
+
+318958954

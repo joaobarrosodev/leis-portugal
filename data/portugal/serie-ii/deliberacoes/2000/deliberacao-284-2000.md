@@ -1,0 +1,89 @@
+---
+schema_version: '1.0'
+id: pt:dre:1943319:por
+title: Deliberação n.º 284/2000
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: deliberacao
+document_type_label: Deliberação
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade - Centro Regional de Segurança Social do Alentejo
+proposing_entity: null
+official_number: 284/2000
+official_date: null
+publication_date: '2000-03-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 75/2000, Série II de 2000-03-29
+  number: '75'
+  series: II
+  supplement: null
+  pages: 5889 - 5889
+  pdf_url: https://files.diariodarepublica.pt/2s/2000/03/075000000/0588905889.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1943319'
+  dre_path: /dr/detalhe/deliberacao/284-2000-1943319
+  internal: pt:dre:1943319:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/284-2000-1943319
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/284-2000-1943319
+  consolidated_url: null
+  retrieved_at: '2026-11-13T12:06:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4d0845b709902c44f90beeca25189f35c3b954a05e5ce0785fe40b4982feca9d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T12:06:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T12:06:34Z'
+  warnings: []
+  errors: []
+---
+
+# Deliberação n.º 284/2000
+
+Deliberação n.º 284/2000. - Por deliberação do conselho directivo do Centro Regional de Segurança Social do Alentejo de 29 de Fevereiro de 2000:
+
+Almerinda de Jesus Mangerona Janeiro Meira, Ana Isabel Pinto Alcario Lavaredas, António Carlos Ribeiro Borges, António José Damásio Lopes, Cidália de Lurdes Cordeiro Gonçalves Cortes, Deolinda de Jesus Martinho Santos Reis, Deolinda de Jesus Gomes Salgado Ramos, Elvira Maria Baptista Barrocas, Francisco Maria Amendoeira, Francisco Machuco Carrasco, Isabel Maria Garção Cesário, Jacinta Maria Silva Costa Barbado, Joaquim Henrique Fonte Santa Alegria, Joaquim Manuel Varela Pereira, José Agostinho Ferro Gonçalves, José António Caeiro Piteira, José Carlos Militão Lavadinho, José David Ventura Pestana, José Rosa Santos, Luís Manuel Silva Fernandes, Luísa Maria Figueiredo Videira, Manuel José Ferro, Manuel Mendes Velez, Margarida Isabel Vaz Rato Cruz Martins, Margarida Maria Rita Carvalho Carvão Trindade, Maria Adélia Feio Pereira Viola, Maria Amélia Chagas Mendonça Cambeta, Maria Antónia Barreiros Macau Leitão Pãozinho, Maria Antónia Calca Penedo Sagaço, Maria Celeste Zambujo Godinho, Maria da Conceição Espadinha Neto Alves, Maria da Conceição Esteves Silva Patrício, Maria de Fátima Belo Dourado, Maria Fernanda Fernandes, Maria Isabel Santos Galandim Paixão, Maria Joana Beringel Fragoso Paulino, Maria Joana Faz-Bulha Pé-Leve Loureiro, Maria José Carvalho Venes Baptista, Maria José Guerreiro Honrado, Maria José Martins Bugia Barradas, Maria Nazaré Borga Lino, Maria Piedade Batista Carvalho Narciso, Maria Teresa Fernandes Camejo Pereira, Maria Teresa Lopes Costa Saboeiro Sousa Rovisco, Maria Teresa Silva Soares Carvalho Simões, Mariana Coelho Rodrigues Semedo Santos e Natália Paixão Lopes Garcia, assistentes administrativos do quadro do Centro Regional de Segurança Social do Alentejo - nomeados, após concurso, assistentes administrativos principais do mesmo quadro, considerando-se exonerados dos lugares anteriores a partir da aceitação dos novos lugares. (Não carece de fiscalização prévia do Tribunal de Contas.)
+
+10 de Março de 2000. - O Vogal do Conselho Directivo, Carlos Silva Barbas.

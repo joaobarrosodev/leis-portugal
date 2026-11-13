@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:1244238:por
+title: Deliberação n.º 1732/2003
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: deliberacao
+document_type_label: Deliberação
+issuing_authority:
+- Instituto Politécnico de Viseu - Escola Superior Agrária
+proposing_entity: null
+official_number: 1732/2003
+official_date: null
+publication_date: '2003-11-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 262/2003, Série II de 2003-11-12
+  number: '262'
+  series: II
+  supplement: null
+  pages: 16911 - 16911
+  pdf_url: https://files.diariodarepublica.pt/2s/2003/11/262000000/1691116911.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1244238'
+  dre_path: /dr/detalhe/deliberacao/1732-2003-1244238
+  internal: pt:dre:1244238:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/1732-2003-1244238
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/1732-2003-1244238
+  consolidated_url: null
+  retrieved_at: '2026-11-13T10:09:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 51175f045c05bac13bf21cde7fe7dd92585c6fb4e6649c0c14be4ffcf8aff2ab
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T10:09:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T10:09:35Z'
+  warnings: []
+  errors: []
+---
+
+# Deliberação n.º 1732/2003
+
+Deliberação n.º 1732/2003. - Ao abrigo da [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro, do artigo 35.º do Código do Procedimento Administrativo e do artigo 27.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, o conselho administrativo da Escola Superior Agrária, de Viseu deliberou em reunião de 3 de Outubro de 2003 delegar, sem prejuízo do direito de avocação, no presidente do conselho administrativo da Escola Superior Agrária, de Viseu, engenheiro Pedro Rodrigues, a competência para:
+
+a) Autorizar despesas com execução de obras e aquisições de bens e serviços, até ao limite de Euro 4987,98;
+
+b) Autorizar o processamento de despesas resultantes de contratos de adesão.
+
+Consideram-se ratificadas as autorizações proferidas desde 30 de Setembro de 2003 no âmbito das competências ora delegadas.
+
+23 de Outubro de 2003. - O Presidente do Conselho Directivo, Pedro Rodrigues.

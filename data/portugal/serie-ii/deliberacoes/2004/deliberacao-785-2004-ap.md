@@ -1,0 +1,93 @@
+---
+schema_version: '1.0'
+id: pt:dre:1459856:por
+title: Deliberação n.º 785/2004 - AP
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: deliberacao
+document_type_label: Deliberação
+issuing_authority:
+- Ministério da Saúde - Administração Regional de Saúde do Centro - Sub-Região de Saúde de Coimbra
+proposing_entity: null
+official_number: 785/2004 - AP
+official_date: null
+publication_date: '2004-05-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 117/2004, Apêndice 64/2004, Série II de 2004-05-19
+  number: '117'
+  series: II
+  supplement: null
+  pages: 10 - 10
+  pdf_url: https://files.diariodarepublica.pt/2s/2004/05/117064000/0001000010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1459856'
+  dre_path: /dr/detalhe/deliberacao/785-2004-1459856
+  internal: pt:dre:1459856:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/785-2004-1459856
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/785-2004-1459856
+  consolidated_url: null
+  retrieved_at: '2026-11-13T10:39:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6280f8168c6a01db8d16f6496e24815accb752a308b69fefd103c88c180bb832
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T10:39:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:622997:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T10:39:01Z'
+  warnings: []
+  errors: []
+---
+
+# Deliberação n.º 785/2004 - AP
+
+Deliberação n.º 785/2004 - AP. - Por deliberação de 29 de Março de 2004 do conselho de administração da Administração Regional de Saúde do Centro:
+
+Isabel Maria Paiva Vaz Ferreira, auxiliar de acção médica do quadro de pessoal do Instituto da Droga e Toxicodependência, Delegação Regional do Centro, Centro de Atendimento a Toxicodependentes da Figueira da Foz - autorizada a transferência para os serviços de âmbito sub-regional desta Sub-Região de Saúde, com efeitos a 1 de Março de 2004, na mesma categoria, em lugar deixado vago por movimentação da titular Maria Irene Figueiredo Brito Santos, do quadro de pessoal da Administração Regional de Saúde do Centro, aprovado pela [Portaria n.º 772-B/96](https://diariodarepublica.pt/dr/detalhe/portaria/772-b-1996-622997), de 31 de Dezembro. (Isento de fiscalização do Tribunal de Contas.)
+
+7 de Abril de 2004. - O Coordenador, Luiz Miguel Santiago.

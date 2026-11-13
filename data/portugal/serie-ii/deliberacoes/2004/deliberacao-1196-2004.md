@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:2408779:por
+title: Deliberação n.º 1196/2004
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: deliberacao
+document_type_label: Deliberação
+issuing_authority:
+- Ministério da Saúde - Instituto Nacional da Farmácia e do Medicamento
+proposing_entity: null
+official_number: 1196/2004
+official_date: null
+publication_date: '2004-09-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 231/2004, Série II de 2004-09-30
+  number: '231'
+  series: II
+  supplement: null
+  pages: 14563 - 14671
+  pdf_url: https://files.diariodarepublica.pt/2s/2004/09/231000000/1456314671.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2408779'
+  dre_path: /dr/detalhe/deliberacao/1196-2004-2408779
+  internal: pt:dre:2408779:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/1196-2004-2408779
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/deliberacao/1196-2004-2408779
+  consolidated_url: null
+  retrieved_at: '2026-11-13T13:07:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bb40d485989e5b4faf480ebc4441600bef07a0f6ed88d0bf230654905684aefa
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T13:07:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:218536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441099:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T13:07:27Z'
+  warnings: []
+  errors: []
+---
+
+# Deliberação n.º 1196/2004
+
+Deliberação n.º 1196/2004. - O artigo 5.º, n.º 1, do [Decreto-Lei n.º 270/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2002-441099), de 2 de Dezembro, que instituiu o sistema de preços de referência, com a redacção dada pelo [Decreto-Lei n.º 81/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2004-218536), de 10 Abril, estabelece que as listas de grupos homogéneos são definidas e publicadas até ao 15.º dia do último mês de cada trimestre civil pelo conselho de administração do Instituto Nacional da Farmácia e do Medicamento.
+
+Os grupos homogéneos actualmente em vigor foram aprovados pela deliberação n.º 936/2004 (2.ª série), publicada no Diário da República, 2.ª série, n.º 161, de 10 de Julho de 2004.
+
+Tendo em consideração o definido no artigo 3.º do [Decreto-Lei n.º 270/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2002-441099), de 2 de Dezembro, com a redacção dada pelo [Decreto-Lei n.º 81/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2004-218536), de 10 Abril, procedeu-se à análise do mercado de medicamentos. Decorrente desta análise, foram actualizados grupos homogéneos aprovados e foram criados 29 novos grupos homogéneos, em resultado da introdução no mercado de novos medicamentos genéricos.
+
+Mantêm-se válidos os pressupostos da citada deliberação.
+
+Nestes termos e ao abrigo do artigo 5.º, n.º 1, do [Decreto-Lei n.º 270/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2002-441099), de 2 de Dezembro, com a redacção dada pelo [Decreto-Lei n.º 81/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2004-218536), de 10 Abril, o conselho de administração do INFARMED delibera o seguinte:
+
+1 - É aprovada a lista de grupos homogéneos que consta do anexo da presente deliberação, que dela faz parte integrante.
+
+2 - A presente deliberação entra em vigor no dia 1 de Outubro de 2004.
+
+13 de Setembro de 2004. - O Conselho de Administração: Rui Santos Ivo, presidente - António Faria Vaz, vice-presidente - Manuel Neves Dias, vogal - Alexandra Bordalo, vogal.
+
+## ANEXO — Lista de grupos homogéneos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/09/231000000/1456314671.pdf)
