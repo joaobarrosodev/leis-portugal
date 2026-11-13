@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.733 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.739 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -208,7 +208,25 @@ Cuidados:
   - Formas que o verificador aceitou: um quadro que passa da coluna esquerda para a direita fica como dois quadros com o cabeçalho repetido, como no DR (Portaria 997/2007); um "ou" sozinho numa linha junta-se à unidade de cima ("Direito Internacional Privado ou") (Portaria 1173/2000).
 - **Consolidação.** Os 8 originais são de texto corrido e foram pelo pedido corrido (Opus, 2 pedidos de 4). As 8 respostas passaram a verificação letra a letra. Às cegas (`verificacao/entrada-piloto-110-lote-01.jsonl`, 3 vistas Sonnet), os 17 trechos ficaram `certo`, cada um com a instrução citada. Os quadros foram comparados célula a célula com os do alterador. Não houve instruções em falta. Uma ressalva: na Portaria 399/95, a 1173/2000 manda mudar "o plano de estudos do curso … autorizado pela Portaria n.º 750/89, alterada pela Portaria n.º 399/95". Como a 399/95 tinha substituído o plano da 750/89 pelo seu próprio anexo, o plano em vigor era o anexo da 399/95, e é esse que muda. O verificador e eu lemos o mesmo. Na 793/89, a Portaria 107/2005 visa outra portaria (182/95) e, bem, não se aplicou. `acervo.py`: aplicáveis 8, `Recusados: 0`.
 
-#### Balanço das rondas 106 a 110
+**Ronda 111: mais 12 dos travados por imagem, 6 planos de estudos e 6 outros quadros (13/11/2026).** Resultado: **8 aplicados** de 12 tentados: as Portarias 868/2000, 672/90, 1128/2001, 931/93, 1197/2000 e 301/2010, e os Despachos 31203/2008 e 2849/2009.
+- **A lista refeita.** Pelo mesmo critério da ronda 110, a contagem deu **239** diplomas com só reparos sobre imagem, quadro, tabela, mapa, planta ou PDF, e 122 com algum alterador de 1997 em diante, fora da amostra de 30. A ronda 110 tinha contado 237 e 132. A diferença está nas palavras-chave e na leitura do ano de cada alterador, e o script não ficou guardado. Os planos de estudos (original ou alterador com "plano de estudos") com id acima dos 9 da ronda 110 são **6**, e não 7: as Portarias 868/2000, 672/90, 1128/2001, 931/93, 1197/2000 e 1075/93. Juntaram-se 6 quadros que não são planos de estudos: as Portarias 301/2010, 225/97 e 288/2010, o DRR 16/2010/A e os Despachos 31203/2008 e 2849/2009. Os dois despachos entraram para substituir a 288/2010 e o DRR, que pararam logo.
+- **Transcrição.** Um subagente Opus por diploma; outro verificador, Sonnet, conferiu cada transcrição contra a imagem. **10 alteradores transcritos e conferidos, todos `certo`:** 40 quadros, 412 linhas e cerca de 2.840 células, 0 erros. São as Portarias 1313/2003, 876/2000, 182/2003, 1544/2002 (12 quadros), 1178/97, 58/2003, 1067/99 e 1053/2010, e os Despachos 19692/2009 e 2613/2011. Não foi preciso mudar o `anexos.py`. As formas usadas foram:
+  - `"recuo"` em planos de estudos para guardar como linha própria uma unidade sem valores ("Trabalho de fim de curso.", Portaria 1313/2003);
+  - `"valores_no_fim"` numa designação em duas linhas (Despacho 19692/2009);
+  - um cabeçalho de 1.ª coluna vazio, como na imagem;
+  - "1.osemestre" sem espaço no PDF lido como "1.º semestre", pela regra da ronda 106 (o espaço existe como largura a mais do "o" em expoente).
+- **Pararam 3 na transcrição:**
+  - **Portaria 288/2010** (Portaria 556/2010, calendário venatório): células fundidas na vertical em quase todos os grupos de espécies. É o mesmo bloqueio dos 3 parciais da amostra.
+  - **DRR 16/2010/A** (DRR 20/2011/A, quadro de pessoal docente): a imagem diz "11" vagas no grupo 110 e a camada de texto só dá um "1", nas duas ocorrências. Pela regra, não se corrige à mão.
+  - **Portaria 225/97** (Aviso 2821/2020, quadro I de um plano de pormenor): o quadro está em páginas rodadas 90°. O `pdfchars` dá as caixas no referencial da página em pé, e o `pdf_colunas` junta as letras em colunas verticais. Falta uma opção de rotação (ver "O que falta").
+- **Consolidação.** 8 pedidos corridos (Opus, 4 pedidos de 2) e 1 completo (Portaria 301/2010: o quadro II entra pelo campo `anexos`, e o quadro I fica em imagem, porque não muda). As 9 respostas passaram a verificação letra a letra. O `juntar` mudou só estas 9 linhas nos `juntados-*.jsonl`, e repôs-se a ordem.
+- **Às cegas** (`verificacao/entrada-piloto-111-lote-01.jsonl`, 6 vistas Sonnet), os 33 trechos ficaram todos `certo`, cada um com a instrução citada, e os quadros foram comparados célula a célula. Dois juízos a registar:
+  - Na 672/90, o DL 206/2012 revoga o n.º 1.º "no que respeita ao reconhecimento", e esse número só trata do reconhecimento. Aplicou-se como revogação inteira, e o verificador concordou. O plano em vigor é o da Portaria 182/2003, que substitui o da 640/96 (só em imagem, de 1996) e o da 876/2000.
+  - Na 2849/2009, a Portaria 76/2013 só mantém o despacho em vigor até ao fim de 2013 e não lhe muda o texto.
+- **1 parado na verificação: Portaria 1075/93.** Os 6 quadros e os n.os 4.º e 5.º ficaram `certo`, mas o 1.º da Portaria 250/2002 adita ao plano "o estágio com a duração de um semestre lectivo" sem trazer quadro nem linha. O verificador deu-o como instrução em falta, e o diploma não se aplica: o plano em vigor teria uma unidade que o texto não mostra.
+- `acervo.py`: aplicáveis 8, `Recusados: 0`. Seis são novos no acervo. A 931/93 e a 1197/2000 já tinham texto consolidado (rondas 29 e 33) sem o anexo novo, e passam a tê-lo.
+
+#### Balanço das rondas 106 a 111
 
 | Ronda | O quê | Tentados | Aplicados |
 | --- | --- | --: | --: |
@@ -217,9 +235,10 @@ Cuidados:
 | 108 | anexo sem artigos no pedido completo | 2 | 2 |
 | 109 | lista da Portaria 269/2006 | 2 | 2 |
 | 110 | guia sobre 9 planos de estudos fora da amostra | 9 | 8 |
-| **Total** | | **24** | **18** |
+| 111 | 6 planos de estudos e 6 outros quadros | 12 | 8 |
+| **Total** | | **36** | **26** |
 
-Com os 18, há **2.733 diplomas** com o texto em vigor em `data/`. Em 13/11/2026 o caminho de uma transcrição custa, por diploma, um subagente Opus (a especificação), um verificador Sonnet (a conferência), um pedido Opus (a consolidação) e uma parte de uma vista às cegas Sonnet.
+Com os 26, há **2.739 diplomas** com o texto em vigor em `data/` (dos 8 da ronda 111, 6 são novos e 2 já lá estavam sem o anexo). Em 13/11/2026 o caminho de uma transcrição custa, por diploma, um subagente Opus (a especificação), um verificador Sonnet (a conferência), um pedido Opus (a consolidação) e uma parte de uma vista às cegas Sonnet.
 
 #### OCR das digitalizações anteriores a 1997: medição (13/11/2026)
 
@@ -237,11 +256,13 @@ O que se mediu foi a leitura direta da imagem por dois modelos de visão, indepe
 
 #### O que falta
 
-1. **Células fundidas na vertical e quadros que passam de coluna** (os 3 parciais da amostra). É preciso ler os traços horizontais do quadro, que o PDFKit não dá. O caminho é uma ferramenta com o `CGPDFScanner` (operadores `re`, `m`, `l`, com a matriz de transformação) que escreva os segmentos. O `anexos.py` daria então o vão de cada célula.
-2. **PDFs com caracteres mal codificados ou palavras coladas.** É o caso dos anexos da Portaria 919/2003 (Portarias 559/2004, 230/2005 e 1358/2006), com "€" lido como "E", e da Portaria 120/99 ("CAD2D"). Ficam de fora. As únicas fontes oficiais são o PDF do DR e o DRE, que só tem a ligação para a imagem. Não se encontrou outra fonte oficial com o texto certo, e por isso nada se reavaliou.
+1. **Células fundidas na vertical e quadros que passam de coluna** (os 3 parciais da amostra e a Portaria 288/2010 da ronda 111). É preciso ler os traços horizontais do quadro, que o PDFKit não dá. O caminho é uma ferramenta com o `CGPDFScanner` (operadores `re`, `m`, `l`, com a matriz de transformação) que escreva os segmentos. O `anexos.py` daria então o vão de cada célula.
+2. **PDFs com caracteres mal codificados ou palavras coladas.** É o caso dos anexos da Portaria 919/2003 (Portarias 559/2004, 230/2005 e 1358/2006), com "€" lido como "E", e da Portaria 120/99 ("CAD2D"). Na ronda 111 juntou-se o DRR 16/2010/A (DRR 20/2011/A), onde a camada de texto dá "1" e a imagem "11". Ficam de fora. As únicas fontes oficiais são o PDF do DR e o DRE, que só tem a ligação para a imagem. Não se encontrou outra fonte oficial com o texto certo, e por isso nada se reavaliou.
 3. **Digitalizações anteriores a 1997:** ver a medição acima. Falta correr o Vision fora do sandbox (`scripts/pdfocr.swift`) e medir com três leituras.
-4. **Os outros travados por imagem.** Dos 132 com alteradores de 1997 em diante, fora da amostra, viram-se 9. Rendimento da ronda 110: 8 em 9, muito acima do limite de 1 em 8, e por isso vale a pena seguir com lotes de 10. Seguem-se os outros 7 planos de estudos e, depois, os quadros que não são planos de estudos.
+4. **Os outros travados por imagem.** Dos cerca de 122 a 132 com alteradores de 1997 em diante, fora da amostra, viram-se 21 (rondas 110 e 111). Rendimento da ronda 111: 8 em 12, acima do limite de 1 em 8, e por isso vale a pena seguir. Os planos de estudos da lista estão esgotados. Seguem-se os outros quadros, com menos rendimento: dos 6 da ronda 111, só 3 chegaram ao acervo. Fora da ronda 111 ficaram, entre outros, o DRR 7/2008/M (3 alteradores com mapas), o DRR 21/97/M, a Portaria 390/98 e a RCM 69/2025.
 5. **A Portaria 269/2006 altera muitas outras portarias de mestrado.** A lista transcrita serve a todas, mas só se repediram a 77/2001 e a 1191/2000, que já estavam na consolidação. As outras entram quando a consolidação as pedir.
+6. **Páginas rodadas.** O quadro I do Aviso 2821/2020 (Portaria 225/97) está em páginas rodadas 90°. Bastaria uma opção `"rotacao"` em cada parte do `anexos.py`, que trocasse x e y pela rotação da página antes de juntar as linhas.
+7. **Estágio aditado sem quadro (Portaria 1075/93).** A Portaria 250/2002 adita um estágio ao plano de estudos sem dar a linha do quadro. Só sai com uma fonte que tenha o plano completo.
 
 ### Triagem: alterações que as regras não leem (12/11/2026)
 

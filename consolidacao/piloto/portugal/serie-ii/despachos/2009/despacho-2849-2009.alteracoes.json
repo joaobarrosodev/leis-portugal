@@ -1,5 +1,19 @@
 [
   {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/01/015000000/0323003231.pdf)",
+    "depois": "| Tipo de apoio | Montante do apoio (euros) |\n| --- | --- |\n| Aniversário de homologação da AHB |  |\n| 25 anos | 10 000,00 |\n| 50 anos | 15 000,00 |\n| 75 anos | 20 000,00 |\n| 100 anos | 50 000,00 |\n| 125 anos | 30 000,00 |\n| 150 anos | 35 000,00 |",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1636841:por",
+    "alterador": "pt:dre:2649494:por;pt:dre:3215718:por"
+  },
+  {
     "artigo": "unidades 12-12",
     "operacao": "substituir",
     "regra": "llm",
@@ -11,6 +25,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:1636841:por",
-    "alterador": "pt:dre:3215718:por"
+    "alterador": "pt:dre:2649494:por;pt:dre:3215718:por"
   }
 ]

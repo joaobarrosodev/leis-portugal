@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-09-01'
+version_history:
+  file: portaria-672-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-08-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-09-01'
+    amending: pt:dre:189763:por
+    amending_title: Portaria n.º 182/2003; Decreto-Lei n.º 206/2012
+    changes:
+    - Altera Artigo unidades 6-6
+    - Altera Artigo unidades 22-22
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:27:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 182/2003; Decreto-Lei
+    n.º 206/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-672-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +156,9 @@ Ao abrigo e nos termos do n.º 3 do artigo 17.º, dos n.os 1 e 7 do artigo 18.º
 
 Manda o Governo, pelo Ministro da Educação, o seguinte:
 
-1.º São reconhecidas a Escola Superior de Design e a Escola Superior de Marketing e Publicidade, integradas no Instituto de Artes Visuais, Design e Marketing, a funcionar nas instalações próprias, em Lisboa, do IADE - Instituto de Artes Visuais, Design e Marketing, S. A., entidade titular das Escolas acima mencionadas.
+1.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 206/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2012-174821), publicado em 2012-08-31.
 
 2.º É autorizado o início do funcionamento, a partir do ano lectivo de 1990-1991, da Escola Superior de Design, onde será ministrado o curso superior de Design, com as seguintes opções de especialização:
 
@@ -172,4 +190,123 @@ Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de E
 
 ## ANEXO II — CURSO DE MARKETING E PUBLICIDADE
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18700/33373339.pdf)
+Escola Superior de Marketing e Publicidade
+
+Curso de Marketing e Publicidade
+
+Grau de licenciado
+
+QUADRO N.º 1
+
+1.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Introdução ao Marketing | Anual | 4 |  |  |  |  |  |
+| Introdução à Comunicação Empresarial | Anual | 3 |  |  |  |  |  |
+| Introdução à Economia | Anual | 3 |  |  |  |  |  |
+| Organização e Gestão de Empresas | Anual | 3 |  |  |  |  |  |
+| Matemática | Anual | 3 |  |  |  |  |  |
+| Linguagem e Comunicação | Anual | 2 |  |  |  |  |  |
+| Ideias e Tendências da Época Contemporânea | Anual | 1,5 |  |  |  |  |  |
+| Metodologia do Trabalho Científico | Anual | 1,5 |  |  |  |  |  |
+| Inglês I | Anual |  | 1 |  |  |  |  |
+
+QUADRO N.º 2
+
+2.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Comunicação Publicitária | 1.º semestre |  | 3 |  |  |  |  |
+| Marketing Mix | 1.º semestre |  | 3 |  |  |  |  |
+| Introdução à Estatística | 1.º semestre | 3 |  |  |  |  |  |
+| Estudos de Mercado I | 1.º semestre | 2 |  |  |  |  |  |
+| Sociologia | 1.º semestre | 2 |  |  |  |  |  |
+| Relações Públicas | 1.º semestre | 2 |  |  |  |  |  |
+| Gestão e Administração de Vendas | 1.º semestre |  | 1,5 |  |  |  |  |
+| Didáctica da Escrita Criativa I | 1.º semestre | 2 |  |  |  |  |  |
+| Inglês II | 1.º semestre |  | 1,5 |  |  |  |  |
+| Mix da Comunicação | 2.º semestre |  | 3 |  |  |  |  |
+| Pesquisa e Auditoria de Marketing | 2.º semestre |  | 3 |  |  |  |  |
+| Análise de Dados | 2.º semestre | 3 |  |  |  |  |  |
+| Estudos de Mercado II | 2.º semestre |  | 2 |  |  |  |  |
+| Psicologia da Comunicação | 2.º semestre | 2 |  |  |  |  |  |
+| Comunicação Institucional | 2.º semestre | 2 |  |  |  |  |  |
+| Promoção de Vendas | 2.º semestre |  | 1,5 |  |  |  |  |
+| Didáctica da Escrita Criativa II | 2.º semestre | 2 |  |  |  |  |  |
+| Inglês Comercial | 2.º semestre |  | 1,5 |  |  |  |  |
+
+QUADRO N.º 3
+
+3.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Comunicação de Marca | 1.º semestre |  | 3 |  |  |  |  |
+| Estratégia de Marketing | 1.º semestre |  | 3 |  |  |  |  |
+| Data Base Marketing | 1.º semestre | 2 |  |  |  |  |  |
+| Inovação e Criatividade: O Processo Criativo | 1.º semestre |  | 2,5 |  |  |  |  |
+| Correntes Culturais e Estéticas da Modernidade I | 1.º semestre | 2 |  |  |  |  |  |
+| Liderança e Negociação | 1.º semestre | 2 |  |  |  |  |  |
+| Contabilidade | 1.º semestre |  | 2 |  |  |  |  |
+| Ética da Comunicação | 1.º semestre | 1,5 |  |  |  |  |  |
+| Informática I | 1.º semestre |  |  | 1,5 |  |  |  |
+| Estratégia de Comunicação | 2.º semestre |  | 3 |  |  |  |  |
+| Planificação e Simulação em Marketing | 2.º semestre |  | 3 |  |  |  |  |
+| Marketing Directo | 2.º semestre | 2 |  |  |  |  |  |
+| Inovação e Criatividade: A Psicologia Analítica e a Criatividade. | 2.º semestre |  | 2,5 |  |  |  |  |
+| Correntes Culturais e Estéticas da Modernidade II | 2.º semestre | 2 |  |  |  |  |  |
+| Concorrência Europeia | 2.º semestre | 2 |  |  |  |  |  |
+| Análise Financeira | 2.º semestre |  | 2 |  |  |  |  |
+| Deontologia da Comunicação | 2.º semestre | 1,5 |  |  |  |  |  |
+| Informática II | 2.º semestre |  |  | 1,5 |  |  |  |
+
+Ramo de Marketing
+
+QUADRO N.º 4
+
+4.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Marketing da Distribuição | 1.º semestre |  | 4 |  |  |  |  |
+| Avaliação e Controlo em Marketing | 1.º semestre |  | 3 |  |  |  |  |
+| Marketing Internacional | 1.º semestre |  | 2 |  |  |  |  |
+| Estratégia Empresarial — Projecto I | 1.º semestre |  | 2 |  |  |  |  |
+| História Económica e Social | 1.º semestre | 3 |  |  |  |  |  |
+| Informática de Gestão I | 1.º semestre |  |  | 2 |  |  |  |
+| Comércio Internacional | 1.º semestre | 1,5 |  |  |  |  |  |
+| Distribuição Moderna e e-Commerce | 2.º semestre |  | 4 |  |  |  |  |
+| Marketing Relacional e e-Marketing | 2.º semestre |  | 3 |  |  |  |  |
+| Estratégia Empresarial — Projecto II | 2.º semestre |  | 2 |  |  |  |  |
+| História Económica Neo-Liberal | 2.º semestre | 3 |  |  |  |  |  |
+| Informática de Gestão II | 2.º semestre |  |  | 2 |  |  |  |
+| Direito do Marketing | 2.º semestre | 2 |  |  |  |  |  |
+
+Ramo de Publicidade
+
+QUADRO N.º 5
+
+4.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Projecto de Comunicação I | 1.º semestre |  | 4 |  |  |  |  |
+| Computação Gráfica I | 1.º semestre |  |  | 4 |  |  |  |
+| Estratégia dos Média | 1.º semestre |  | 2 |  |  |  |  |
+| Direito e Organização da Publicidade | 1.º semestre | 2 |  |  |  |  |  |
+| Multimédia I | 1.º semestre |  | 2 |  |  |  |  |
+| Rádio I | 1.º semestre |  | 1,5 |  |  |  |  |
+| Teoria da Semiótica da Publicidade | 1.º semestre |  | 1,5 |  |  |  |  |
+| Texto Publicitário | 1.º semestre |  | 1,5 |  |  |  |  |
+| Projecto de Comunicação II | 2.º semestre |  | 4 |  |  |  |  |
+| Computação Gráfica II | 2.º semestre |  |  | 4 |  |  |  |
+| Planificação dos Média | 2.º semestre |  | 2 |  |  |  |  |
+| Multimédia II | 2.º semestre |  | 2 |  |  |  |  |
+| Rádio II | 2.º semestre |  | 1,5 |  |  |  |  |
+| Análise da Semiótica da Publicidade | 2.º semestre |  | 1,5 |  |  |  |  |
+| Ética e Estética da Publicidade | 2.º semestre | 1,5 |  |  |  |  |  |
+| Produção Gráfica | 2.º semestre |  | 1,5 |  |  |  |  |
+
+> Alterado pelo/a [Portaria n.º 182/2003](https://diariodarepublica.pt/dr/detalhe/portaria/182-2003-189763), publicado em 2003-02-20.

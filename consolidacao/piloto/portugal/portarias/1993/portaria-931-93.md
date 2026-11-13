@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:177783:por
     title: Portaria n.º 638/96
     publication_date: '1996-11-07'
+  - id: pt:dre:685664:por
+    title: Portaria n.º 1178/97
+    publication_date: '1997-11-18'
 ---
 
 # Portaria n.º 931/93
@@ -242,4 +245,53 @@ Assinada em 20 de Agosto de 1993.
 
 O Ministro da Educação, António Fernando Couto dos Santos.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/223b00/52315234.pdf)
+Instituto Politécnico de Lisboa
+
+Escola Superior de Educação
+
+Diploma de estudos superiores especializados em Línguas Estrangeiras
+
+QUADRO N.º 1
+
+1.º semestre
+
+| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Língua e Cultura Francesa ou Inglesa I | Semestral |  | 66 |  |  |  |
+| Modelos de Aquisição da Língua Estrangeira | Semestral | 30 |  |  |  |  |
+| Novas Tecnologias e Ensino da Língua Estrangeira | Semestral |  |  | 30 |  |  |
+| Comunicação Intercultural | Semestral | 30 |  |  |  |  |
+| Interacções Sociais e Desenvolvimento dos Alunos | Semestral | 30 |  |  |  |  |
+
+QUADRO N.º 2
+
+2.º semestre
+
+| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Língua e Cultura Francesa ou Inglesa II | Semestral |  | 66 |  |  |  |
+| Didáctica da Língua Estrangeira I | Semestral |  | 66 |  |  |  |
+| Linguística Francesa ou Inglesa I | Semestral | 30 |  |  |  |  |
+| Investigação e Intervenção Educativa I | Semestral |  | 22 |  |  |  |
+| Organização Curricular | Semestral | 30 |  |  |  |  |
+
+QUADRO N.º 3
+
+3.º semestre
+
+| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Língua e Cultura Francesa ou Inglesa III | Semestral |  | 66 |  |  |  |
+| Didáctica da Língua Estrangeira II | Semestral |  | 66 |  |  |  |
+| Linguística Francesa ou Inglesa II | Semestral | 30 |  |  |  |  |
+| Investigação e Intervenção Educativa II | Semestral |  | 44 |  |  |  |
+
+QUADRO N.º 4
+
+4.º semestre
+
+| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Acompanhamento e Avaliação do Projecto Educativo | Semestral |  |  |  | 66 |  |
+
+> Alterado pelo/a [Portaria n.º 1178/97](https://diariodarepublica.pt/dr/detalhe/portaria/1178-1997-685664), publicado em 1997-11-18.

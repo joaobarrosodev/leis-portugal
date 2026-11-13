@@ -1,0 +1,62 @@
+{
+ "id": "pt:dre:1663988:por",
+ "titulo": "Despacho n.º 19692/2009, n.º 2: tabela do n.º 2.4 da parte A do apêndice à licença da VALORPNEU (Despacho n.º 31203/2008 — alteração)",
+ "pdf": "https://files.diariodarepublica.pt/2s/2009/08/166000000/3482734828.pdf",
+ "pdf_sha256": "ad8b9de0395e70a668bc510e29128f963e3226f4d37dcda3b33b8fc9c774a905",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 1 quadro, 4 linhas e 28 células conferidas (24 valores dígito a dígito), 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 305,
+       "ate": 365
+      }
+     ],
+     "valores_no_fim": true
+    }
+   ],
+   "colunas": [
+    [
+     "",
+     0
+    ],
+    [
+     "2008",
+     238
+    ],
+    [
+     "2009",
+     289
+    ],
+    [
+     "2010",
+     340
+    ],
+    [
+     "2011",
+     391
+    ],
+    [
+     "2012",
+     443
+    ],
+    [
+     "2013",
+     494
+    ]
+   ],
+   "texto": "|  | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 |\n| --- | --- | --- | --- | --- | --- | --- |\n| Quantidade de pneus usados gerados (kg) | 96 130 284 | 98 990 192 | 101 935 797 | 101 935 797 | 101 935 797 | 101 935 797 |\n| Quantidade de pneus usados gerados recolhidos (kg) | 92 285 073 | 95 030 584 | 97 858 365 | 97 858 365 | 97 858 365 | 97 858 365 |\n| Quantidade de pneus usados gerados preparados para reutilização ou reutilizados (kg) | 25 955 177 | 26 727 352 | 27 522 665 | 27 522 665 | 27 522 665 | 27 522 665 |\n| Quantidade de pneus usados gerados reciclados (kg) | 45 767 628 | 47 129 230 | 48 531 633 | 48 531 633 | 48 531 633 | 48 531 633 |"
+  }
+ ]
+}

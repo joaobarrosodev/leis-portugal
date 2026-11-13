@@ -1,0 +1,43 @@
+{
+ "id": "pt:dre:2649494:por",
+ "titulo": "Despacho n.º 2613/2011, n.º 1: quadro dos tipos e montantes de apoios extraordinários (nova redação do n.º 1 do Despacho n.º 2849/2009)",
+ "pdf": "https://files.diariodarepublica.pt/2s/2011/02/026000000/0681906820.pdf",
+ "pdf_sha256": "2bec3bb687429de917cd22c5c6552602bc3886a89250b952a771bee3c73a68c0",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 1 quadro, 7 linhas e 14 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 205,
+       "ate": 280,
+       "x_de": 0,
+       "x_ate": 300
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Tipo de apoio",
+     0
+    ],
+    [
+     "Montante do apoio (euros)",
+     235
+    ]
+   ],
+   "texto": "| Tipo de apoio | Montante do apoio (euros) |\n| --- | --- |\n| Aniversário de homologação da AHB |  |\n| 25 anos | 10 000,00 |\n| 50 anos | 15 000,00 |\n| 75 anos | 20 000,00 |\n| 100 anos | 50 000,00 |\n| 125 anos | 30 000,00 |\n| 150 anos | 35 000,00 |"
+  }
+ ]
+}

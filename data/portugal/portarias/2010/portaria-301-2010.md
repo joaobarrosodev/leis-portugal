@@ -30,10 +30,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-10-19'
+version_history:
+  file: portaria-301-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-06-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-19'
+    amending: pt:dre:307674:por
+    amending_title: Portaria n.º 1053/2010
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo ANEXO — Montante das compensações
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/301/2010/06/02/p/dre/pt/html
@@ -59,7 +78,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1053/2010. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2010/portaria-301-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -189,9 +209,15 @@ b) As embarcações novas, construídas em substituição de outras integradas n
 
 3 - A cessação temporária de actividade é comprovada através da entrega da licença de pesca na capitania até ao 1.º dia da mesma, sendo dispensada desta entrega sempre que a embarcação objecto de cessação esteja equipada com o sistema de VMS.
 
-4 - Sempre que, por razões não imputáveis ao promotor, não seja possível efectuar a comprovação da paragem pela entrega da licença na capitania, nos termos do número anterior, para os casos em que a embarcação não dispõe de VMS, a paragem poderá ser validada pela DGPA mediante declaração da capitania em que se consigne os dias efectivos de paragem da embarcação.
+4 - No caso das embarcações equipadas com sistema VMS, sempre que, por alguma razão, não seja possível efectuar a comprovação da paragem através desse sistema, a cessação temporária da actividade é comprovada através da entrega da licença na capitania até ao 1.º dia da paragem.
 
-5 - Nos casos de paragens ocorridas antes da data de entrada em vigor do presente regime, a comunicação referida no n.º 2 deve ser efectuada no prazo máximo de 25 dias, a contar da data de entrada em vigor do presente Regulamento.
+5 - Quando o promotor constate a impossibilidade de comprovação da cessação temporária da actividade através do VMS depois de iniciada a paragem, entregará de imediato a licença, sendo o período de cessação, neste caso, comprovado em parte através do VMS e no remanescente mediante a entrega da licença na capitania.
+
+6 - Sempre que, por razões não imputáveis ao promotor, não seja possível efectuar a comprovação da paragem pela entrega da licença na capitania, nos termos previstos nos n.os 3, 4 e 5, a paragem poderá ser validada pela DGPA mediante declaração da capitania em que se consigne os dias efectivos de paragem da embarcação.
+
+7 - Nos casos de paragens ocorridas antes da data de entrada em vigor do presente regime, a comunicação referida no n.º 2 deve ser efectuada no prazo máximo de 90 dias, a contar da data de entrada em vigor do presente Regulamento.
+
+> Alterado pelo/a [Portaria n.º 1053/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1053-2010-307674), publicado em 2010-10-14.
 
 ###### Artigo 5.º — Natureza e montante do apoio
 
@@ -201,7 +227,9 @@ a) Uma compensação financeira cujo beneficiário é o armador, atribuída em f
 
 b) Uma compensação salarial destinada aos tripulantes durante o período de imobilização temporária da actividade da embarcação, nos termos do quadro ii do anexo do presente Regulamento.
 
-2 - O pagamento da compensação salarial referida na alínea b) é efectuado aos armadores, após comprovação de estes terem pago o montante correspondente aos tripulantes respectivos, mediante transferência bancária, nos termos referidos na alínea b) do artigo 9.º, e não prejudica o pagamento de quaisquer prestações com natureza remuneratória que sejam contratualmente devidas, sempre que a embarcação se encontre em porto.
+2 - O pagamento da compensação salarial referida na alínea b) é efectuado aos armadores, mediante transferência bancária, nos termos referidos no artigo 9.º, e não prejudica o pagamento de quaisquer prestações com natureza remuneratória que sejam contratualmente devidas, sempre que a embarcação se encontre em porto.
+
+> Alterado pelo/a [Portaria n.º 1053/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1053-2010-307674), publicado em 2010-10-14.
 
 ###### Artigo 6.º — Condições de acesso relativas aos tripulantes
 
@@ -217,11 +245,13 @@ d) Não exerçam qualquer actividade, devendo as respectivas cédulas marítimas
 
 ###### Artigo 7.º — Candidaturas
 
-1 - As candidaturas são apresentadas pelos armadores nas direcções regionais de agricultura e pescas, adiante designadas por DRAP, no prazo de 25 dias, contados a partir do último dia de paragem previsto no artigo 4.º
+1 - As candidaturas são apresentadas pelos armadores nas direcções regionais de agricultura e pescas, adiante designadas por DRAP, no prazo de 90 dias, contados a partir do último dia do último período de paragem previsto no artigo 4.º
 
-2 - Tratando-se de paragens integralmente verificadas antes da data de entrada em vigor do presente regime, a candidatura deve ser efectuada no prazo máximo de 25 dias, a contar da data de entrada em vigor do presente Regulamento.
+2 - Tratando-se de paragens integralmente verificada antes da data de entrada em vigor do presente regime, a candidatura deve ser efectuada no prazo máximo de 90 dias, a contar da data de entrada em vigor do presente Regulamento.
 
 3 - Após a recepção da candidatura, podem ser solicitados pelas DRAP quaisquer esclarecimentos ou documentos que se entendam necessários, devendo o promotor responder no prazo máximo de 10 dias, se outro prazo não for fixado, findo o qual, na ausência de resposta, o processo será arquivado.
+
+> Alterado pelo/a [Portaria n.º 1053/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1053-2010-307674), publicado em 2010-10-14.
 
 ###### Artigo 8.º — Decisão e contratação
 
@@ -229,17 +259,21 @@ d) Não exerçam qualquer actividade, devendo as respectivas cédulas marítimas
 
 2 - As candidaturas devem estar decididas no prazo máximo de 25 dias a contar da data da sua apresentação nas DRAP, desde que o processo esteja completo, considerando-se aquele prazo suspenso sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.
 
-3 - O Instituto de Financiamento da Agricultura e Pescas, I. P., adiante designado por IFAP, I. P., notifica o promotor, no prazo de 10 dias, após o seu conhecimento, da decisão final de concessão do apoio, remetendo o contrato para assinatura, ou informando o local onde o mesmo pode ser assinado.
+3 - O Instituto de Financiamento da Agricultura e Pescas, I. P., adiante designado por IFAP, I. P., notifica o promotor, no prazo de 10 dias, após o seu conhecimento, da decisão final de concessão do apoio, encontrando-se dispensada a celebração formal do contrato.
+
+> Alterado pelo/a [Portaria n.º 1053/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1053-2010-307674), publicado em 2010-10-14.
 
 ###### Artigo 9.º — Pagamento dos apoios
 
 O pagamento dos apoios é efectuado pelo IFAP, I. P., em duas prestações:
 
-a) A primeira correspondente a 75 % do montante do apoio calculado nos termos do previsto na alínea a) do n.º 1 do artigo 5.º, a que acresce o valor da compensação prevista na alínea b) do n.º 1 do artigo 5.º, que deve ser paga no prazo de 30 dias a contar da data de celebração do respectivo contrato;
+a) A primeira correspondente a 75 % do montante do apoio calculado nos termos previstos na alínea a) do n.º 1 do artigo 5.º, a que acresce o valor da compensação prevista na alínea b) do n.º 1 do artigo 5.º, no prazo de 30 dias a contar da data da notificação prevista no n.º 3 do artigo 8.º;
 
 b) A segunda, correspondente aos restantes 25 % do montante do apoio calculado nos termos do previsto na alínea a) do n.º 1 do artigo 5.º, após a apresentação pelo armador de documento da transferência bancária comprovativo do pagamento das compensações salariais aos tripulantes respectivos;
 
-c) Caso o promotor não cumpra na íntegra o número de dias de actividade a que se refere o artigo 10.º, deve repor a percentagem do apoio igual à percentagem dos dias de actividade em falta, sem prejuízo das situações de força maior.
+c) Caso o promotor não cumpra na íntegra o número de dias de actividade a que se refere o artigo 10.º, deve repor a percentagem do apoio referido na alínea a) do n.º 1 do artigo 5.º igual à percentagem dos dias de actividade em falta, sem prejuízo das situações de força maior.
+
+> Alterado pelo/a [Portaria n.º 1053/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1053-2010-307674), publicado em 2010-10-14.
 
 ###### Artigo 10.º — Obrigações dos beneficiários
 
@@ -281,4 +315,14 @@ Compensações salariais destinadas aos tripulantes
 
 [alínea b) do n.º 1 do artigo 5.º]
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10700/0189701900.pdf)
+| Categoria profissional | Montante do apoio diário (euros) |
+| --- | --- |
+| Oficiais | 26,7 |
+| Mestrança | 23,7 |
+
+| Categoria profissional | Montante do apoio diário (euros) |
+| --- | --- |
+| Marinhagem | 16,7 |
+| Pescador | 15,8 |
+
+> Alterado pelo/a [Portaria n.º 1053/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1053-2010-307674), publicado em 2010-10-14.

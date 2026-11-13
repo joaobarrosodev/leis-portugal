@@ -6,13 +6,19 @@
       "ate": 27,
       "texto": "As vagas para o curso de estudos superiores especializados em Línguas Estrangeiras, fixadas nos termos do n.º 3.º, serão distribuídas pelos contingentes e afectadas a cada um deles de acordo com as seguintes percentagens:",
       "alterador": 1
+    },
+    {
+      "de": 115,
+      "ate": 115,
+      "texto": "Instituto Politécnico de Lisboa\n\nEscola Superior de Educação\n\nDiploma de estudos superiores especializados em Línguas Estrangeiras\n\nQUADRO N.º 1\n\n1.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua e Cultura Francesa ou Inglesa I | Semestral |  | 66 |  |  |  |\n| Modelos de Aquisição da Língua Estrangeira | Semestral | 30 |  |  |  |  |\n| Novas Tecnologias e Ensino da Língua Estrangeira | Semestral |  |  | 30 |  |  |\n| Comunicação Intercultural | Semestral | 30 |  |  |  |  |\n| Interacções Sociais e Desenvolvimento dos Alunos | Semestral | 30 |  |  |  |  |\n\nQUADRO N.º 2\n\n2.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua e Cultura Francesa ou Inglesa II | Semestral |  | 66 |  |  |  |\n| Didáctica da Língua Estrangeira I | Semestral |  | 66 |  |  |  |\n| Linguística Francesa ou Inglesa I | Semestral | 30 |  |  |  |  |\n| Investigação e Intervenção Educativa I | Semestral |  | 22 |  |  |  |\n| Organização Curricular | Semestral | 30 |  |  |  |  |\n\nQUADRO N.º 3\n\n3.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua e Cultura Francesa ou Inglesa III | Semestral |  | 66 |  |  |  |\n| Didáctica da Língua Estrangeira II | Semestral |  | 66 |  |  |  |\n| Linguística Francesa ou Inglesa II | Semestral | 30 |  |  |  |  |\n| Investigação e Intervenção Educativa II | Semestral |  | 44 |  |  |  |\n\nQUADRO N.º 4\n\n4.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Acompanhamento e Avaliação do Projecto Educativo | Semestral |  |  |  | 66 |  |",
+      "alterador": 2
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2 substitui o anexo (plano de estudos), que só vem em imagem e não existe como texto no original; não aplicado.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1: nova redação do n.º 6.º; só muda o corpo (unidade 27), alíneas a) e b) mantêm-se ('...')",
-    "Alterador 2: novo anexo do plano de estudos só em imagem; não aplicado"
+    "Portaria 638/96: nova redação do n.º 6.º; epígrafe igual e alíneas a) e b) com '...' (ficam); substituído só o corpo (unidade 27).",
+    "Portaria 1178/97, 1.º: anexo (plano de estudos) passa a ter a redação do anexo da portaria — a unidade 115 (anexo só em imagem) substituída pelo novo texto com os quadros 1 a 4 copiados letra a letra. 2.º e 3.º (aplicação, transição) não alteram o texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

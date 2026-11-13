@@ -1,0 +1,231 @@
+{
+ "id": "pt:dre:631777:por",
+ "titulo": "Portaria n.º 1067/99, anexo: quadros n.os 1 a 6 do plano de estudos do curso de Engenharia Topográfica (Escola Superior de Tecnologia e Gestão da Guarda; Portaria n.º 1075/93 — alteração)",
+ "pdf": "https://files.diariodarepublica.pt/1s/1999/12/284b00/86848685.pdf",
+ "pdf_sha256": "617205303896449d269dc78b62e0f3d3557a884c908025dcbfb8b7736b06d60a",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 6 quadros, 33 linhas e 231 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 490,
+       "ate": 498
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 505,
+       "ate": 514
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 575,
+       "ate": 635
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 654,
+       "ate": 662
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 668,
+       "ate": 677
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 738,
+       "ate": 790
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 72,
+       "ate": 81
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 86,
+       "ate": 95
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 155,
+       "ate": 200
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 220,
+       "ate": 229
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 234,
+       "ate": 243
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 300,
+       "ate": 348
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 368,
+       "ate": 377
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 382,
+       "ate": 391
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 450,
+       "ate": 505
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 524,
+       "ate": 533
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 538,
+       "ate": 547
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 605,
+       "ate": 662
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     276
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     360
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     395
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     429
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários/estágios",
+     463
+    ],
+    [
+     "Observações",
+     497
+    ]
+   ],
+   "texto": "QUADRO N.º 1\n\n1.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Álgebra | Semestral | 2 |  | 4 |  |  |\n| Matemática I | Semestral | 2 |  | 4 |  |  |\n| Física | Semestral | 2 |  | 3 |  |  |\n| Geometria Cotada | Semestral |  | 3 |  |  |  |\n| Informática | Semestral | 1 |  | 3 |  |  |\n| Geomorfologia | Semestral | 2 |  | 1 |  |  |\n\nQUADRO N.º 2\n\n2.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Matemática II | Semestral | 2 |  | 4 |  |  |\n| Cartografia I | Semestral | 2 |  | 4 |  |  |\n| Geometria Descritiva | Semestral |  | 4 |  |  |  |\n| Desenho Assistido por Computador | Semestral | 2 |  | 3 |  |  |\n| Fotogrametria I | Semestral |  | 4 |  |  |  |\n\nQUADRO N.º 3\n\n3.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Topografia I | Semestral | 2 |  | 3 |  |  |\n| Fotogrametria II | Semestral | 1 |  | 2 |  |  |\n| Complementos de Matemática | Semestral | 2 |  | 2 |  |  |\n| Cartografia II | Semestral | 2 |  | 4 |  |  |\n| Hidráulica Geral | Semestral | 2 |  | 4 |  |  |\n\nQUADRO N.º 4\n\n4.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Fotogrametria III | Semestral | 1 |  | 2 |  |  |\n| Topografia II | Semestral | 2 |  | 4 |  |  |\n| Teledetecção | Semestral | 1 |  | 2 |  |  |\n| Urbanismo e Ordenamento do Território | Semestral | 2 |  | 4 |  |  |\n| Implantação de Obras de Engenharia Civil | Semestral | 2 |  | 4 |  |  |\n\nQUADRO N.º 5\n\n5.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Economia e Gestão de Empresas | Semestral | 2 |  | 2 |  |  |\n| Geodesia | Semestral | 2 |  | 3 |  |  |\n| Cartografia Matemática | Semestral | 2 |  | 2 |  |  |\n| Cadastro e Legislação | Semestral |  | 4 |  |  |  |\n| Compensação de Observações | Semestral | 2 |  | 2 |  |  |\n| Topografia III | Semestral | 2 |  | 3 |  |  |\n\nQUADRO N.º 6\n\n6.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Topografia IV | Semestral | 2 |  | 3 |  |  |\n| Geodesia Física (Gravimetria) | Semestral | 2 |  | 2 |  |  |\n| Sistemas de Informação Geográfica | Semestral | 2 |  | 3 |  |  |\n| Vias de Comunicação | Semestral | 2 |  | 4 |  |  |\n| Saneamento Básico | Semestral | 2 |  | 2 |  |  |\n| Ambiente e Recursos Naturais | Semestral |  | 3 |  |  |  |"
+  }
+ ]
+}

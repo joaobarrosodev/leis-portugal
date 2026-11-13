@@ -1,0 +1,55 @@
+{
+ "id": "pt:dre:176504:por",
+ "titulo": "Portaria n.º 58/2003, anexo: plano de estudos do curso de especialização do mestrado em Teoria da Arquitectura (Universidade Lusíada em Lisboa)",
+ "pdf": "https://files.diariodarepublica.pt/1s/2003/01/013b00/01750176.pdf",
+ "pdf_sha256": "33d2f67d11af11913123c7c37f2ea71b33fbb5aa1e3ab0a414da6fe69b6e1734",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 1 quadros, 19 linhas e 76 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "recuo": 66,
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 640,
+       "ate": 795
+      },
+      {
+       "pagina": 2,
+       "de": 140,
+       "ate": 225
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     45
+    ],
+    [
+     "Tipo",
+     368
+    ],
+    [
+     "Escolaridade (em horas totais) — Aulas teóricas",
+     460
+    ],
+    [
+     "Escolaridade (em horas totais) — Aulas teórico-práticas",
+     500
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas |\n| --- | --- | --- | --- |\n| Módulo I: A Ideia de Contemporaneidade: entre a Imagem e a Palavra: |  |  |  |\n| A Arquitectura e as Artes Visuais no Princípio do Século XXI | Semestral | 15 |  |\n| A Imagem e a Palavra | Semestral | 15 |  |\n| A Utopia da Informação | Semestral | 15 |  |\n| Módulo II: O Espaço Habitável Contemporâneo: |  |  |  |\n| Lugar Mínimo — Habitação Social: a Intervenção do Supérfluo — Cinco Obras em Portugal: 1950-1980. | Semestral | 22,5 |  |\n| O Novo Lugar Habitável — Da Morada Colectiva de Cidade — Cinco Obras em Portugal: 1950-1980. | Semestral | 15 |  |\n| A Urbanidade: Origens e Contradições da Cidade Moderna | Semestral | 7,5 |  |\n| Módulo III: Espaço e Forma na Sociedade da Informação: |  |  |  |\n| Século XX: Os Antecedendes Ideológicos na Ruptura e na Utopia | Semestral | 15 |  |\n| A Certeza na Incerteza da Arquitectura Virtual | Semestral | 15 |  |\n| Supermodernidades e Oportunidades da Eficácia do Pluralismo | Semestral | 15 |  |\n| Módulo IV: Metodologias Interpretativas de Arquitectura Contemporânea: |  |  |  |\n| Considerações Epistemológicas | Semestral | 4,5 |  |\n| A Ordem do Pensamento | Semestral | 10,5 |  |\n| A Ordem da Composição | Semestral | 15 |  |\n| Dimensões da Sensibilidade: Contribuições para a Interpretação de Estratégias Conceptuais do Projecto. | Semestral | 15 |  |\n| Laboratórios | Anual |  | 66 |\n| Projecto | Anual | 45 |  |"
+  }
+ ]
+}

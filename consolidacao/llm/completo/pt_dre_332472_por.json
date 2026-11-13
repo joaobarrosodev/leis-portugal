@@ -33,14 +33,23 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Art. 2.º da Portaria n.º 1053/2010 altera o quadro II do anexo do Regulamento, que só vem em imagem.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO — Montante das compensações",
+      "texto": "As compensações financeiras e salariais a que se referem as alíneas a) e b) do n.º 1 do artigo 5.º são calculadas de acordo com os quadros I e II, respectivamente:\n\nQUADRO I\n\nCompensações aos armadores das embarcações\n\n[alínea a) do n.º 1 do artigo 5.º]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10700/0189701900.pdf)\n\nQUADRO II\n\nCompensações salariais destinadas aos tripulantes\n\n[alínea b) do n.º 1 do artigo 5.º]\n\n| Categoria profissional | Montante do apoio diário (euros) |\n| --- | --- |\n| Oficiais | 26,7 |\n| Mestrança | 23,7 |\n\n| Categoria profissional | Montante do apoio diário (euros) |\n| --- | --- |\n| Marinhagem | 16,7 |\n| Pescador | 15,8 |",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Art. 4.º: n.os 1-3 mantidos; n.os 4 e 5 substituídos pelos novos n.os 4 a 7",
-    "Art. 5.º: nova redação do n.º 2",
-    "Art. 7.º: nova redação dos n.os 1 e 2",
-    "Art. 8.º: nova redação do n.º 3",
-    "Art. 9.º: nova redação das alíneas a) e c)",
-    "Quadro II do anexo: só em imagem, não aplicado"
+    "Art. 1.º do alterador 1: art. 4.º mantém n.os 1-3, n.os 4 e 5 substituídos pelos novos n.os 4 a 7",
+    "Art. 1.º: art. 5.º n.º 2 substituído, n.º 1 mantido",
+    "Art. 1.º: art. 7.º n.os 1 e 2 substituídos, n.º 3 mantido",
+    "Art. 1.º: art. 8.º n.º 3 substituído",
+    "Art. 1.º: art. 9.º proémio e alínea b) mantidos, alíneas a) e c) substituídas",
+    "Art. 2.º: quadro II do anexo substituído pelos quadros em Markdown; quadro I e texto introdutório mantidos",
+    "Art. 3.º (entrada em vigor/efeitos) não altera texto"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

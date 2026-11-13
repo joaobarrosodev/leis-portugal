@@ -1,0 +1,577 @@
+{
+ "id": "pt:dre:405322:por",
+ "titulo": "Portaria n.º 1544/2002 — anexo (Portaria n.º 1128/2001, alteração): quadros n.os 1 a 12",
+ "pdf": "https://files.diariodarepublica.pt/1s/2002/12/297b00/80638068.pdf",
+ "pdf_sha256": "1d44594fed6e2fa3b8e44f22dffbf09b48ffb1daa7ff1a684f92ecbb61c37de4",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 12,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 12 quadros, 169 linhas e 1183 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 240,
+       "ate": 375
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     183
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     285
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     336
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     387
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     438
+    ],
+    [
+     "Observações",
+     489
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Estatística I | 1.º semestre | 2 | 2 |  |  |  |\n| Neurobiologia I | 1.º semestre | 2 | 2 |  |  |  |\n| Antropossociologia | 1.º semestre | 3 |  |  |  |  |\n| História e Sistemas de Psicologia | 1.º semestre | 3 |  |  |  |  |\n| Relações Interpessoais e Dinâmica de Grupos. | 1.º semestre |  | 3 |  |  |  |\n| Metodologia da Investigação Científica. | 1.º semestre |  | 3 |  |  |  |\n| Introdução à Informática | 1.º semestre |  | 3 |  |  |  |\n| Estatística II | 2.º semestre | 2 | 2 |  |  |  |\n| Neurobiologia II | 2.º semestre | 2 | 2 |  |  |  |\n| Antropologia Cultural | 2.º semestre | 3 |  |  |  |  |\n| Métodos de Investigação em Psicologia | 2.º semestre |  | 3 |  |  |  |\n| Teoria da Personalidade | 2.º semestre | 3 |  |  |  |  |\n| Etologia | 2.º semestre | 3 |  |  |  |  |\n| Inglês | 2.º semestre |  |  | 3 |  |  |"
+  },
+  {
+   "ocorrencia": 2,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 485,
+       "ate": 603
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     183
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     285
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     336
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     387
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     438
+    ],
+    [
+     "Observações",
+     489
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Estatística III | 1.º semestre | 2 | 2 |  |  |  |\n| Psicologia Cognitiva I | 1.º semestre | 3 |  |  |  |  |\n| Psicopatologia I | 1.º semestre | 2 | 2 |  |  |  |\n| Psicologia Social | 1.º semestre |  | 3 |  |  |  |\n| Teoria dos Testes | 1.º semestre |  | 3 |  |  |  |\n| Psicologia Organizacional | 1.º semestre |  | 3 |  |  |  |\n| Psicologia do Desenvolvimento | 1.º semestre | 3 |  |  |  |  |\n| Estatística IV | 2.º semestre | 2 | 2 |  |  |  |\n| Psicologia Cognitiva II | 2.º semestre | 3 |  |  |  |  |\n| Psicopatologia II | 2.º semestre | 2 | 2 |  |  |  |\n| Psicologia Educacional | 2.º semestre |  | 3 |  |  |  |\n| Técnicas Psicométricas | 2.º semestre |  |  | 3 |  |  |\n| Psicologia Diferencial | 2.º semestre | 3 |  |  |  |  |\n| Psiconeurologia | 2.º semestre | 3 |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 3,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 730,
+       "ate": 790
+      },
+      {
+       "pagina": 3,
+       "de": 128,
+       "ate": 225
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     183
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     285
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     336
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     387
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     438
+    ],
+    [
+     "Observações",
+     489
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Relação de Ajuda | 1.º semestre |  | 3 |  |  |  |\n| Técnicas Projectivas | 1.º semestre |  | 3 |  |  |  |\n| Intervenção Comunitária e de Grupo | 1.º semestre |  | 3 |  |  |  |\n| Psicossociologia da Comunicação | 1.º semestre | 3 |  |  |  |  |\n| Ética e Psicologia | 1.º semestre |  | 3 |  |  |  |\n| Psicologia da Linguagem | 1.º semestre |  | 3 |  |  |  |\n| Psicologia Clínica | 1.º semestre |  | 3 |  |  |  |\n| Psicopedagogia | 1.º semestre |  | 3 |  |  |  |\n| Aconselhamento e Psicoterapia | 2.º semestre | 3 |  |  |  |  |\n| Inteligência Artificial | 2.º semestre | 3 |  |  |  |  |\n| Diagnóstico Psicológico | 2.º semestre |  | 3 |  |  |  |\n| Psicologia Económica | 2.º semestre | 3 |  |  |  |  |\n| Deontologia | 2.º semestre |  | 3 |  |  |  |\n| Psicolinguística Genética e Experimental. | 2.º semestre |  | 3 |  |  |  |\n| Estudos Aprofundados de Psicopatologia. | 2.º semestre |  | 3 |  |  |  |\n| Psicologia Organizacional da Saúde | 2.º semestre |  | 3 |  |  |  |"
+  },
+  {
+   "ocorrencia": 4,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 363,
+       "ate": 515
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     183
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     285
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     336
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     387
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     438
+    ],
+    [
+     "Observações",
+     489
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Relação de Ajuda | 1.º semestre |  | 3 |  |  |  |\n| Técnicas Projectivas | 1.º semestre |  | 3 |  |  |  |\n| Intervenção Comunitária e de Grupo | 1.º semestre |  | 3 |  |  |  |\n| Psicossociologia da Comunicação | 1.º semestre | 3 |  |  |  |  |\n| Ética e Psicologia | 1.º semestre |  | 3 |  |  |  |\n| Medição e Gestão de Conflitos | 1.º semestre |  | 3 |  |  |  |\n| Consultoria de Organizações | 1.º semestre |  | 3 |  |  |  |\n| Técnicas Avançadas de Análise de Dados. | 1.º semestre |  | 3 |  |  |  |\n| Aconselhamento e Psicoterapia | 2.º semestre | 3 |  |  |  |  |\n| Inteligência Artificial | 2.º semestre | 3 |  |  |  |  |\n| Diagnóstico Psicológico | 2.º semestre |  | 3 |  |  |  |\n| Psicologia Económica | 2.º semestre | 3 |  |  |  |  |\n| Deontologia | 2.º semestre |  | 3 |  |  |  |\n| Psicossociologia do Desenvolvimento | 2.º semestre |  | 3 |  |  |  |\n| Psicologia Social do Espaço | 2.º semestre |  | 3 |  |  |  |\n| Comunicação Pública e Política | 2.º semestre |  | 3 |  |  |  |"
+  },
+  {
+   "ocorrencia": 5,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 643,
+       "ate": 782
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     183
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     285
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     336
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     387
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     438
+    ],
+    [
+     "Observações",
+     489
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Estágio Clínico I | 1.º semestre |  |  |  | 3 |  |\n| Seminário de Estágio I | 1.º semestre |  |  |  | 3 |  |\n| Métodos de Aconselhamento e Psicoterapia I. | 1.º semestre | 3 |  | 3 |  |  |\n| Sistemas de Saúde e Saúde Pública | 1.º semestre | 3 |  |  |  |  |\n| Epidemiologia e Técnicas de Avaliação | 1.º semestre | 2 | 3 |  |  |  |\n| Doenças Comportamentais | 1.º semestre | 3 |  |  |  |  |\n| Estágio Clínico II | 2.º semestre |  |  |  | 6 |  |\n| Seminário de Estágio II | 2.º semestre |  |  |  | 3 |  |\n| Seminário de Dissertação | 2.º semestre |  |  |  | 3 |  |\n| Teorias e Técnicas de Gestão do Stress | 2.º semestre |  | 3 |  |  |  |\n| Prevenção e Promoção da Saúde | 2.º semestre | 3 |  |  |  |  |\n| Métodos de Aconselhamento e Psicoterapia II. | 2.º semestre |  | 3 |  |  |  |\n| Psicologia Social da Saúde | 2.º semestre | 3 |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 6,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 4,
+       "de": 178,
+       "ate": 304
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     183
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     285
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     336
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     387
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     438
+    ],
+    [
+     "Observações",
+     489
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Estágio Clínico I | 1.º semestre |  |  |  | 3 |  |\n| Seminário de Estágio I | 1.º semestre |  |  |  | 3 |  |\n| Método de Aconselhamento e Terapia I. | 1.º semestre | 3 |  | 3 |  |  |\n| Psicologia Social Disfuncional | 1.º semestre | 3 |  |  |  |  |\n| Relação Psicológica com o Cliente | 1.º semestre |  |  | 3 |  |  |\n| Doenças Neurológicas e Deficitárias | 1.º semestre | 3 |  |  |  |  |\n| Perturbações do Desenvolvimento | 1.º semestre | 3 |  |  |  |  |\n| Estágio Clínico II | 2.º semestre |  |  |  | 6 |  |\n| Seminário de Estágio II | 2.º semestre |  |  |  | 3 |  |\n| Seminário de Dissertação | 2.º semestre |  |  |  | 3 |  |\n| Método de Aconselhamento e Terapia II. | 2.º semestre | 3 |  | 3 |  |  |\n| Comportamentos Desviantes | 2.º semestre |  | 3 |  |  |  |\n| Terapias Biológicas e Psicofarmacologias | 2.º semestre | 3 |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 7,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 4,
+       "de": 432,
+       "ate": 576
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     183
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     285
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     336
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     387
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     438
+    ],
+    [
+     "Observações",
+     489
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Estágio Clínico I | 1.º semestre |  |  |  | 3 |  |\n| Seminário de Estágio I | 1.º semestre |  |  |  | 3 |  |\n| Otorrinolaringologia e Ortodoncia I | 1.º semestre | 3 |  |  |  |  |\n| Trabalhos Práticos de Logopedia I | 1.º semestre |  |  | 6 |  |  |\n| Perturbações da Linguagem Oral e Escrita I. | 1.º semestre | 6 |  |  |  |  |\n| Neuropsicologia da Linguagem | 1.º semestre | 3 |  |  |  |  |\n| Estágio Clínico II | 2.º semestre |  |  |  | 6 |  |\n| Seminário de Estágio II | 2.º semestre |  |  |  | 3 |  |\n| Seminário de Dissertação | 2.º semestre |  |  |  | 3 |  |\n| Informática Aplicada à Psicopatologia da Linguagem e Logopedia. | 2.º semestre |  | 3 |  |  |  |\n| Psicomotricidade e Reeducação Psicomotora. | 2.º semestre | 3 |  |  |  |  |\n| Trabalhos Práticos de Logopedia II | 2.º semestre |  |  | 3 |  |  |\n| Perturbações da Linguagem Oral e Escrita II. | 2.º semestre | 3 |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 8,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 4,
+       "de": 705,
+       "ate": 790
+      },
+      {
+       "pagina": 5,
+       "de": 128,
+       "ate": 200
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     183
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     285
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     336
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     387
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     438
+    ],
+    [
+     "Observações",
+     489
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Estágio I | 1.º semestre |  |  |  | 3 |  |\n| Seminário de Estágio I | 1.º semestre |  |  |  | 3 |  |\n| Estudos de Mercado | 1.º semestre | 3 | 3 |  |  |  |\n| Estratégia Empresarial | 1.º semestre | 3 |  |  |  |  |\n| Comportamento do Consumidor: Nível Individual. | 1.º semestre |  | 3 |  |  |  |\n| Comportamento do Consumidor: Nível Grupal. | 1.º semestre |  | 3 |  |  |  |\n| Comportamento do Consumidor: Nível Organizacional e Contextual. | 1.º semestre |  | 3 |  |  |  |\n| Estágio II | 2.º semestre |  |  |  | 6 |  |\n| Seminário de Estágio II | 2.º semestre |  |  |  | 3 |  |\n| Seminário de Dissertação | 2.º semestre |  |  |  | 3 |  |\n| Técnicas de Comunicação Publicitária e Comercial. | 2.º semestre |  | 3 |  |  |  |\n| Psicologia da Publicidade | 2.º semestre | 3 |  |  |  |  |\n| Marketing Estratégico | 2.º semestre | 3 |  |  |  |  |\n| Marketing e Negócios Internacionais | 2.º semestre | 3 |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 9,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 5,
+       "de": 330,
+       "ate": 495
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     183
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     285
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     336
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     387
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     438
+    ],
+    [
+     "Observações",
+     489
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Estágio I | 1.º semestre |  |  |  | 3 |  |\n| Seminário de Estágio I | 1.º semestre |  |  |  | 3 |  |\n| Gestão de Recursos Humanos | 1.º semestre | 2 |  | 3 |  |  |\n| Psicossociologia das Organizações | 1.º semestre | 3 |  |  |  |  |\n| Direito do Trabalho | 1.º semestre | 3 |  |  |  |  |\n| Ergonomia das Actividades Físicas e Mentais e Saúde. | 1.º semestre | 3 |  |  |  |  |\n| Mudança e Desenvolvimento Organizacional. | 1.º semestre | 3 |  |  |  |  |\n| Estágio II | 2.º semestre |  |  |  | 6 |  |\n| Seminário de Estágio II | 2.º semestre |  |  |  | 3 |  |\n| Seminário de Dissertação | 2.º semestre |  |  |  | 3 |  |\n| Criatividade e Inovação nas Organizações. | 2.º semestre |  | 3 |  |  |  |\n| Conflitos de Trabalho e Negociações | 2.º semestre | 3 |  |  |  |  |\n| Comunicação Empresarial | 2.º semestre |  | 3 |  |  |  |\n| Desenvolvimento Pessoal e Formação Profissional. | 2.º semestre |  | 3 |  |  |  |"
+  },
+  {
+   "ocorrencia": 10,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 5,
+       "de": 626,
+       "ate": 782
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     183
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     285
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     336
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     387
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     438
+    ],
+    [
+     "Observações",
+     489
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Estágio I | 1.º semestre |  |  |  | 3 |  |\n| Seminário de Estágio I | 1.º semestre |  |  |  | 3 |  |\n| Gestão de Recursos Humanos | 1.º semestre | 2 | 3 |  |  |  |\n| Modelos e Técnicas de Formação | 1.º semestre | 3 |  |  |  |  |\n| Princípios de Pedagogia e Andragogia | 1.º semestre | 3 |  |  |  |  |\n| Diagnóstico do Potencial Humano | 1.º semestre |  | 3 |  |  |  |\n| Princípios Básicos de Formação de Formadores. | 1.º semestre | 3 |  |  |  |  |\n| Estágio II | 2.º semestre |  |  |  | 6 |  |\n| Seminário de Estágio II | 2.º semestre |  |  |  | 3 |  |\n| Seminário de Dissertação | 2.º semestre |  |  |  | 3 |  |\n| Gestão e Organização da Formação | 2.º semestre | 3 |  |  |  |  |\n| Novas Tecnologias de Formação | 2.º semestre | 3 |  |  |  |  |\n| Métodos de Investigação em Formação Profissional e Desenvolvimento do Potencial Humano. | 2.º semestre |  | 3 |  |  |  |\n| Desenvolvimento da Pessoa | 2.º semestre |  | 3 |  |  |  |"
+  },
+  {
+   "ocorrencia": 11,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 6,
+       "de": 178,
+       "ate": 348
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     183
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     285
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     336
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     387
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     438
+    ],
+    [
+     "Observações",
+     489
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Estágio I | 1.º semestre |  |  |  | 3 |  |\n| Seminário de Estágio I | 1.º semestre |  |  |  | 3 |  |\n| Psicossociologia da Aprendizagem | 1.º semestre | 3 |  |  |  |  |\n| Consulta Psicológica em Aconselhamento Escolar. | 1.º semestre | 3 |  |  |  |  |\n| Orientação Vocacional | 1.º semestre | 2 |  |  |  |  |\n| Psicossociologia da Educação | 1.º semestre | 3 |  | 3 |  |  |\n| Avaliação Psicológica em Aconselhamento Escolar. | 1.º semestre |  | 3 |  |  |  |\n| Estágio II | 2.º semestre |  |  |  | 6 |  |\n| Seminário de Estágio II | 2.º semestre |  |  |  | 3 |  |\n| Seminário de Dissertação | 2.º semestre |  |  |  | 3 |  |\n| Intervenção em Instituições Educativas. | 2.º semestre |  | 3 |  |  |  |\n| Psicossociologia da Gestão de Instituições Escolares. | 2.º semestre | 3 |  |  |  |  |\n| Técnicas de Intervenção Terapêutica | 2.º semestre |  | 3 |  |  |  |\n| Administração Escolar | 2.º semestre | 3 |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 12,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 6,
+       "de": 476,
+       "ate": 657
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     183
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     285
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     336
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     387
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários e estágios",
+     438
+    ],
+    [
+     "Observações",
+     489
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Estágio I | 1.º semestre |  |  |  | 3 |  |\n| Seminário de Estágio I | 1.º semestre |  |  |  | 3 |  |\n| Introdução à Educação Especial | 1.º semestre | 3 |  |  |  |  |\n| Reinserção Social e Profissional | 1.º semestre | 3 |  |  |  |  |\n| Consulta Psicológica em Educação Especial e Reabilitação. | 1.º semestre |  | 3 |  |  |  |\n| Psicossociologia das Deficiências | 1.º semestre | 3 |  |  |  |  |\n| Métodos de Aconselhamento e Psicoterapia I. | 1.º semestre | 3 |  |  |  |  |\n| Estágio II | 2.º semestre |  |  |  | 6 |  |\n| Seminário de Estágio II | 2.º semestre |  |  |  | 3 |  |\n| Seminário de Dissertação | 2.º semestre |  |  |  | 3 |  |\n| Comportamentos Desviantes | 2.º semestre | 3 |  |  |  |  |\n| Avaliação Psicológica em Educação Especial e Reabilitação. | 2.º semestre |  |  | 3 |  |  |\n| Aspectos Bio-Médicos das Deficiências. | 2.º semestre | 3 |  |  |  |  |\n| Métodos de Aconselhamento e Psicoterapia II. | 2.º semestre |  |  | 3 |  |  |"
+  }
+ ]
+}

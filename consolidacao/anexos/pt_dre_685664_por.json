@@ -1,0 +1,186 @@
+{
+ "id": "pt:dre:685664:por",
+ "titulo": "Portaria n.º 1178/97 — anexo (plano de estudos do curso de estudos superiores especializados em Línguas Estrangeiras da ESE do IP de Lisboa, alteração ao anexo da Portaria n.º 931/93)",
+ "pdf": "https://files.diariodarepublica.pt/1s/1997/11/267b00/62636264.pdf",
+ "pdf_sha256": "4329f4cd6d62256b096503f5ad5f78d1f35ffe16e5ca49f00aaa0b8613a9f39c",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 4 quadros, 15 linhas e 105 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 382,
+       "ate": 392
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 397,
+       "ate": 406
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 412,
+       "ate": 422
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 480,
+       "ate": 525
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 544,
+       "ate": 554
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 558,
+       "ate": 568
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 627,
+       "ate": 671
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 689,
+       "ate": 699
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 703,
+       "ate": 713
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 773,
+       "ate": 792
+      },
+      {
+       "pagina": 2,
+       "de": 128,
+       "ate": 147
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 167,
+       "ate": 177
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 182,
+       "ate": 191
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 250,
+       "ate": 262
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     280
+    ],
+    [
+     "Escolaridade (em horas totais) — Aulas teóricas",
+     377
+    ],
+    [
+     "Escolaridade (em horas totais) — Aulas teórico-práticas",
+     411
+    ],
+    [
+     "Escolaridade (em horas totais) — Aulas práticas",
+     445
+    ],
+    [
+     "Escolaridade (em horas totais) — Seminários e projectos",
+     480
+    ],
+    [
+     "Observações",
+     514
+    ]
+   ],
+   "texto": "Diploma de estudos superiores especializados em Línguas Estrangeiras\n\nQUADRO N.º 1\n\n1.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua e Cultura Francesa ou Inglesa I | Semestral |  | 66 |  |  |  |\n| Modelos de Aquisição da Língua Estrangeira | Semestral | 30 |  |  |  |  |\n| Novas Tecnologias e Ensino da Língua Estrangeira | Semestral |  |  | 30 |  |  |\n| Comunicação Intercultural | Semestral | 30 |  |  |  |  |\n| Interacções Sociais e Desenvolvimento dos Alunos | Semestral | 30 |  |  |  |  |\n\nQUADRO N.º 2\n\n2.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua e Cultura Francesa ou Inglesa II | Semestral |  | 66 |  |  |  |\n| Didáctica da Língua Estrangeira I | Semestral |  | 66 |  |  |  |\n| Linguística Francesa ou Inglesa I | Semestral | 30 |  |  |  |  |\n| Investigação e Intervenção Educativa I | Semestral |  | 22 |  |  |  |\n| Organização Curricular | Semestral | 30 |  |  |  |  |\n\nQUADRO N.º 3\n\n3.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua e Cultura Francesa ou Inglesa III | Semestral |  | 66 |  |  |  |\n| Didáctica da Língua Estrangeira II | Semestral |  | 66 |  |  |  |\n| Linguística Francesa ou Inglesa II | Semestral | 30 |  |  |  |  |\n| Investigação e Intervenção Educativa II | Semestral |  | 44 |  |  |  |\n\nQUADRO N.º 4\n\n4.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Acompanhamento e Avaliação do Projecto Educativo | Semestral |  |  |  | 66 |  |"
+  }
+ ]
+}

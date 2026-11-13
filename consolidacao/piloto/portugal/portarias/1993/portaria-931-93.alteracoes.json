@@ -11,6 +11,20 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:655886:por",
-    "alterador": "pt:dre:177783:por"
+    "alterador": "pt:dre:177783:por;pt:dre:685664:por"
+  },
+  {
+    "artigo": "unidades 115-115",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/223b00/52315234.pdf)",
+    "depois": "Instituto Politécnico de Lisboa\n\nEscola Superior de Educação\n\nDiploma de estudos superiores especializados em Línguas Estrangeiras\n\nQUADRO N.º 1\n\n1.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua e Cultura Francesa ou Inglesa I | Semestral |  | 66 |  |  |  |\n| Modelos de Aquisição da Língua Estrangeira | Semestral | 30 |  |  |  |  |\n| Novas Tecnologias e Ensino da Língua Estrangeira | Semestral |  |  | 30 |  |  |\n| Comunicação Intercultural | Semestral | 30 |  |  |  |  |\n| Interacções Sociais e Desenvolvimento dos Alunos | Semestral | 30 |  |  |  |  |\n\nQUADRO N.º 2\n\n2.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua e Cultura Francesa ou Inglesa II | Semestral |  | 66 |  |  |  |\n| Didáctica da Língua Estrangeira I | Semestral |  | 66 |  |  |  |\n| Linguística Francesa ou Inglesa I | Semestral | 30 |  |  |  |  |\n| Investigação e Intervenção Educativa I | Semestral |  | 22 |  |  |  |\n| Organização Curricular | Semestral | 30 |  |  |  |  |\n\nQUADRO N.º 3\n\n3.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua e Cultura Francesa ou Inglesa III | Semestral |  | 66 |  |  |  |\n| Didáctica da Língua Estrangeira II | Semestral |  | 66 |  |  |  |\n| Linguística Francesa ou Inglesa II | Semestral | 30 |  |  |  |  |\n| Investigação e Intervenção Educativa II | Semestral |  | 44 |  |  |  |\n\nQUADRO N.º 4\n\n4.º semestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e projectos | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Acompanhamento e Avaliação do Projecto Educativo | Semestral |  |  |  | 66 |  |",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:655886:por",
+    "alterador": "pt:dre:177783:por;pt:dre:685664:por"
   }
 ]

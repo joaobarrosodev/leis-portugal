@@ -1,0 +1,270 @@
+{
+ "id": "pt:dre:189763:por",
+ "titulo": "Portaria n.º 182/2003, anexo: plano de estudos do curso de licenciatura em Marketing e Publicidade (Escola Superior de Marketing e Publicidade)",
+ "pdf": "https://files.diariodarepublica.pt/1s/2003/02/043b00/11791182.pdf",
+ "pdf_sha256": "dcdcefd7de73979a8e5a4fb23554c701a77983ca50c228c7d04145d95a07bce7",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 5,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 5 quadros, 74 linhas e 592 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 510,
+       "ate": 590
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     250
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     328
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     362
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     398
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários",
+     428
+    ],
+    [
+     "Escolaridade (em horas semanais) — Estágios",
+     465
+    ],
+    [
+     "Observações",
+     496
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Introdução ao Marketing | Anual | 4 |  |  |  |  |  |\n| Introdução à Comunicação Empresarial | Anual | 3 |  |  |  |  |  |\n| Introdução à Economia | Anual | 3 |  |  |  |  |  |\n| Organização e Gestão de Empresas | Anual | 3 |  |  |  |  |  |\n| Matemática | Anual | 3 |  |  |  |  |  |\n| Linguagem e Comunicação | Anual | 2 |  |  |  |  |  |\n| Ideias e Tendências da Época Contemporânea | Anual | 1,5 |  |  |  |  |  |\n| Metodologia do Trabalho Científico | Anual | 1,5 |  |  |  |  |  |\n| Inglês I | Anual |  | 1 |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 2,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 695,
+       "ate": 800
+      },
+      {
+       "pagina": 3,
+       "de": 134,
+       "ate": 210
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     250
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     328
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     362
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     398
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários",
+     428
+    ],
+    [
+     "Escolaridade (em horas semanais) — Estágios",
+     465
+    ],
+    [
+     "Observações",
+     496
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Comunicação Publicitária | 1.º semestre |  | 3 |  |  |  |  |\n| Marketing Mix | 1.º semestre |  | 3 |  |  |  |  |\n| Introdução à Estatística | 1.º semestre | 3 |  |  |  |  |  |\n| Estudos de Mercado I | 1.º semestre | 2 |  |  |  |  |  |\n| Sociologia | 1.º semestre | 2 |  |  |  |  |  |\n| Relações Públicas | 1.º semestre | 2 |  |  |  |  |  |\n| Gestão e Administração de Vendas | 1.º semestre |  | 1,5 |  |  |  |  |\n| Didáctica da Escrita Criativa I | 1.º semestre | 2 |  |  |  |  |  |\n| Inglês II | 1.º semestre |  | 1,5 |  |  |  |  |\n| Mix da Comunicação | 2.º semestre |  | 3 |  |  |  |  |\n| Pesquisa e Auditoria de Marketing | 2.º semestre |  | 3 |  |  |  |  |\n| Análise de Dados | 2.º semestre | 3 |  |  |  |  |  |\n| Estudos de Mercado II | 2.º semestre |  | 2 |  |  |  |  |\n| Psicologia da Comunicação | 2.º semestre | 2 |  |  |  |  |  |\n| Comunicação Institucional | 2.º semestre | 2 |  |  |  |  |  |\n| Promoção de Vendas | 2.º semestre |  | 1,5 |  |  |  |  |\n| Didáctica da Escrita Criativa II | 2.º semestre | 2 |  |  |  |  |  |\n| Inglês Comercial | 2.º semestre |  | 1,5 |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 3,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 324,
+       "ate": 516
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     250
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     328
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     362
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     398
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários",
+     428
+    ],
+    [
+     "Escolaridade (em horas semanais) — Estágios",
+     465
+    ],
+    [
+     "Observações",
+     496
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Comunicação de Marca | 1.º semestre |  | 3 |  |  |  |  |\n| Estratégia de Marketing | 1.º semestre |  | 3 |  |  |  |  |\n| Data Base Marketing | 1.º semestre | 2 |  |  |  |  |  |\n| Inovação e Criatividade: O Processo Criativo | 1.º semestre |  | 2,5 |  |  |  |  |\n| Correntes Culturais e Estéticas da Modernidade I | 1.º semestre | 2 |  |  |  |  |  |\n| Liderança e Negociação | 1.º semestre | 2 |  |  |  |  |  |\n| Contabilidade | 1.º semestre |  | 2 |  |  |  |  |\n| Ética da Comunicação | 1.º semestre | 1,5 |  |  |  |  |  |\n| Informática I | 1.º semestre |  |  | 1,5 |  |  |  |\n| Estratégia de Comunicação | 2.º semestre |  | 3 |  |  |  |  |\n| Planificação e Simulação em Marketing | 2.º semestre |  | 3 |  |  |  |  |\n| Marketing Directo | 2.º semestre | 2 |  |  |  |  |  |\n| Inovação e Criatividade: A Psicologia Analítica e a Criatividade. | 2.º semestre |  | 2,5 |  |  |  |  |\n| Correntes Culturais e Estéticas da Modernidade II | 2.º semestre | 2 |  |  |  |  |  |\n| Concorrência Europeia | 2.º semestre | 2 |  |  |  |  |  |\n| Análise Financeira | 2.º semestre |  | 2 |  |  |  |  |\n| Deontologia da Comunicação | 2.º semestre | 1,5 |  |  |  |  |  |\n| Informática II | 2.º semestre |  |  | 1,5 |  |  |  |"
+  },
+  {
+   "ocorrencia": 4,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 3,
+       "de": 646,
+       "ate": 790
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     250
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     328
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     362
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     398
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários",
+     428
+    ],
+    [
+     "Escolaridade (em horas semanais) — Estágios",
+     465
+    ],
+    [
+     "Observações",
+     496
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Marketing da Distribuição | 1.º semestre |  | 4 |  |  |  |  |\n| Avaliação e Controlo em Marketing | 1.º semestre |  | 3 |  |  |  |  |\n| Marketing Internacional | 1.º semestre |  | 2 |  |  |  |  |\n| Estratégia Empresarial — Projecto I | 1.º semestre |  | 2 |  |  |  |  |\n| História Económica e Social | 1.º semestre | 3 |  |  |  |  |  |\n| Informática de Gestão I | 1.º semestre |  |  | 2 |  |  |  |\n| Comércio Internacional | 1.º semestre | 1,5 |  |  |  |  |  |\n| Distribuição Moderna e e-Commerce | 2.º semestre |  | 4 |  |  |  |  |\n| Marketing Relacional e e-Marketing | 2.º semestre |  | 3 |  |  |  |  |\n| Estratégia Empresarial — Projecto II | 2.º semestre |  | 2 |  |  |  |  |\n| História Económica Neo-Liberal | 2.º semestre | 3 |  |  |  |  |  |\n| Informática de Gestão II | 2.º semestre |  |  | 2 |  |  |  |\n| Direito do Marketing | 2.º semestre | 2 |  |  |  |  |  |"
+  },
+  {
+   "ocorrencia": 5,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 4,
+       "de": 179,
+       "ate": 317
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     250
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     328
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     362
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     398
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários",
+     428
+    ],
+    [
+     "Escolaridade (em horas semanais) — Estágios",
+     465
+    ],
+    [
+     "Observações",
+     496
+    ]
+   ],
+   "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Projecto de Comunicação I | 1.º semestre |  | 4 |  |  |  |  |\n| Computação Gráfica I | 1.º semestre |  |  | 4 |  |  |  |\n| Estratégia dos Média | 1.º semestre |  | 2 |  |  |  |  |\n| Direito e Organização da Publicidade | 1.º semestre | 2 |  |  |  |  |  |\n| Multimédia I | 1.º semestre |  | 2 |  |  |  |  |\n| Rádio I | 1.º semestre |  | 1,5 |  |  |  |  |\n| Teoria da Semiótica da Publicidade | 1.º semestre |  | 1,5 |  |  |  |  |\n| Texto Publicitário | 1.º semestre |  | 1,5 |  |  |  |  |\n| Projecto de Comunicação II | 2.º semestre |  | 4 |  |  |  |  |\n| Computação Gráfica II | 2.º semestre |  |  | 4 |  |  |  |\n| Planificação dos Média | 2.º semestre |  | 2 |  |  |  |  |\n| Multimédia II | 2.º semestre |  | 2 |  |  |  |  |\n| Rádio II | 2.º semestre |  | 1,5 |  |  |  |  |\n| Análise da Semiótica da Publicidade | 2.º semestre |  | 1,5 |  |  |  |  |\n| Ética e Estética da Publicidade | 2.º semestre | 1,5 |  |  |  |  |  |\n| Produção Gráfica | 2.º semestre |  | 1,5 |  |  |  |  |"
+  }
+ ]
+}

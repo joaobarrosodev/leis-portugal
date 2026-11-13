@@ -68,5 +68,19 @@
     "unidade": [],
     "diploma": "pt:dre:332472:por",
     "alterador": "pt:dre:307674:por"
+  },
+  {
+    "artigo": "ANEXO — Montante das compensações",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Montante das compensações\nAs compensações financeiras e salariais a que se referem as alíneas a) e b) do n.º 1 do artigo 5.º são calculadas de acordo com os quadros I e II, respectivamente:\n\nQUADRO I\n\nCompensações aos armadores das embarcações\n\n[alínea a) do n.º 1 do artigo 5.º]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10700/0189701900.pdf)\n\nQUADRO II\n\nCompensações salariais destinadas aos tripulantes\n\n[alínea b) do n.º 1 do artigo 5.º]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10700/0189701900.pdf)",
+    "depois": "## ANEXO — Montante das compensações\n\nAs compensações financeiras e salariais a que se referem as alíneas a) e b) do n.º 1 do artigo 5.º são calculadas de acordo com os quadros I e II, respectivamente:\n\nQUADRO I\n\nCompensações aos armadores das embarcações\n\n[alínea a) do n.º 1 do artigo 5.º]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10700/0189701900.pdf)\n\nQUADRO II\n\nCompensações salariais destinadas aos tripulantes\n\n[alínea b) do n.º 1 do artigo 5.º]\n\n| Categoria profissional | Montante do apoio diário (euros) |\n| --- | --- |\n| Oficiais | 26,7 |\n| Mestrança | 23,7 |\n\n| Categoria profissional | Montante do apoio diário (euros) |\n| --- | --- |\n| Marinhagem | 16,7 |\n| Pescador | 15,8 |\n\n> Alterado pelo/a [Portaria n.º 1053/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1053-2010-307674), publicado em 2010-10-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:332472:por",
+    "alterador": "pt:dre:307674:por"
   }
 ]

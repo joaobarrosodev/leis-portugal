@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:265505:por
     title: Portaria n.º 250/2002
     publication_date: '2002-03-12'
+  - id: pt:dre:631777:por
+    title: Portaria n.º 1067/99
+    publication_date: '1999-12-07'
 ---
 
 # Portaria n.º 1075/93
@@ -73,3 +76,91 @@ Ministério da Educação.
 Assinada em 29 de Setembro de 1993.
 
 O Ministro da Educação, António Fernando Couto dos Santos.
+
+
+## ANEXO
+
+Instituto Politécnico da Guarda
+
+Escola Superior de Tecnologia e Gestão
+
+Curso de Engenharia Topográfica
+
+Grau de bacharel
+
+QUADRO N.º 1
+
+1.º semestre
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Álgebra | Semestral | 2 |  | 4 |  |  |
+| Matemática I | Semestral | 2 |  | 4 |  |  |
+| Física | Semestral | 2 |  | 3 |  |  |
+| Geometria Cotada | Semestral |  | 3 |  |  |  |
+| Informática | Semestral | 1 |  | 3 |  |  |
+| Geomorfologia | Semestral | 2 |  | 1 |  |  |
+
+QUADRO N.º 2
+
+2.º semestre
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Matemática II | Semestral | 2 |  | 4 |  |  |
+| Cartografia I | Semestral | 2 |  | 4 |  |  |
+| Geometria Descritiva | Semestral |  | 4 |  |  |  |
+| Desenho Assistido por Computador | Semestral | 2 |  | 3 |  |  |
+| Fotogrametria I | Semestral |  | 4 |  |  |  |
+
+QUADRO N.º 3
+
+3.º semestre
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Topografia I | Semestral | 2 |  | 3 |  |  |
+| Fotogrametria II | Semestral | 1 |  | 2 |  |  |
+| Complementos de Matemática | Semestral | 2 |  | 2 |  |  |
+| Cartografia II | Semestral | 2 |  | 4 |  |  |
+| Hidráulica Geral | Semestral | 2 |  | 4 |  |  |
+
+QUADRO N.º 4
+
+4.º semestre
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Fotogrametria III | Semestral | 1 |  | 2 |  |  |
+| Topografia II | Semestral | 2 |  | 4 |  |  |
+| Teledetecção | Semestral | 1 |  | 2 |  |  |
+| Urbanismo e Ordenamento do Território | Semestral | 2 |  | 4 |  |  |
+| Implantação de Obras de Engenharia Civil | Semestral | 2 |  | 4 |  |  |
+
+QUADRO N.º 5
+
+5.º semestre
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Economia e Gestão de Empresas | Semestral | 2 |  | 2 |  |  |
+| Geodesia | Semestral | 2 |  | 3 |  |  |
+| Cartografia Matemática | Semestral | 2 |  | 2 |  |  |
+| Cadastro e Legislação | Semestral |  | 4 |  |  |  |
+| Compensação de Observações | Semestral | 2 |  | 2 |  |  |
+| Topografia III | Semestral | 2 |  | 3 |  |  |
+
+QUADRO N.º 6
+
+6.º semestre
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Topografia IV | Semestral | 2 |  | 3 |  |  |
+| Geodesia Física (Gravimetria) | Semestral | 2 |  | 2 |  |  |
+| Sistemas de Informação Geográfica | Semestral | 2 |  | 3 |  |  |
+| Vias de Comunicação | Semestral | 2 |  | 4 |  |  |
+| Saneamento Básico | Semestral | 2 |  | 2 |  |  |
+| Ambiente e Recursos Naturais | Semestral |  | 3 |  |  |  |
+
+> Aditado pelo/a [Portaria n.º 1067/99](https://diariodarepublica.pt/dr/detalhe/portaria/1067-1999-631777), publicado em 1999-12-07.

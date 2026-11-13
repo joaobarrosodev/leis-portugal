@@ -1,0 +1,261 @@
+{
+ "id": "pt:dre:560426:por",
+ "titulo": "Portaria n.º 876/2000, anexo: plano de estudos do curso de licenciatura em Marketing e Publicidade (Escola Superior de Marketing e Publicidade)",
+ "pdf": "https://files.diariodarepublica.pt/1s/2000/09/223b00/51995201.pdf",
+ "pdf_sha256": "f6e62fa7363888ad2f15aca80b02cf8d601726fa59975d4c98f0a940b569323f",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 5 quadros, 48 linhas e 336 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 440,
+       "ate": 450
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 453,
+       "ate": 462
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 465,
+       "ate": 475
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 545,
+       "ate": 620
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 640,
+       "ate": 650
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 653,
+       "ate": 662
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 1,
+       "de": 735,
+       "ate": 800
+      },
+      {
+       "pagina": 2,
+       "de": 140,
+       "ate": 200
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 215,
+       "ate": 225
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 228,
+       "ate": 238
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 310,
+       "ate": 400
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 418,
+       "ate": 428
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 434,
+       "ate": 445
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 449,
+       "ate": 458
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 462,
+       "ate": 471
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 545,
+       "ate": 625
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 647,
+       "ate": 657
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 662,
+       "ate": 672
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 676,
+       "ate": 685
+      }
+     ]
+    },
+    {
+     "tipo": "texto",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 688,
+       "ate": 697
+      }
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 770,
+       "ate": 800
+      },
+      {
+       "pagina": 3,
+       "de": 140,
+       "ate": 205
+      }
+     ]
+    }
+   ],
+   "colunas": [
+    [
+     "Unidades curriculares",
+     0
+    ],
+    [
+     "Tipo",
+     268
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teóricas",
+     370
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas teórico-práticas",
+     404
+    ],
+    [
+     "Escolaridade (em horas semanais) — Aulas práticas",
+     440
+    ],
+    [
+     "Escolaridade (em horas semanais) — Seminários/estágios",
+     470
+    ],
+    [
+     "Observações",
+     505
+    ]
+   ],
+   "texto": "Grau: licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Introdução à Publicidade | Anual |  | 3 |  |  |  |\n| Introdução ao Marketing | Anual |  | 4 |  |  |  |\n| Linguagem e Comunicação | Anual | 2 |  |  |  |  |\n| Introdução à Economia | Anual | 3 |  |  |  |  |\n| Organização e Gestão de Empresas | Anual | 3 |  |  |  |  |\n| Matemática | Anual | 3 |  |  |  |  |\n| Ideias e Tendências da Época Contemporânea | Anual | 1,5 |  |  |  |  |\n| Inglês I | Anual |  | 1,5 |  |  |  |\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Comunicação Publicitária | Anual |  | 3 |  |  |  |\n| Pesquisa e Previsão do Marketing | Semestral |  | 3 |  |  |  |\n| Marketing Mix | Semestral |  | 3 |  |  |  |\n| Psicologia da Comunicação | Anual | 1,5 |  |  |  |  |\n| Didáctica da Escrita Criativa | Anual | 2 |  |  |  |  |\n| Gestão e Administração de Vendas | Semestral |  | 1,5 |  |  |  |\n| Promoção de Vendas | Semestral |  | 1,5 |  |  |  |\n| Sociologia | Anual | 1,5 |  |  |  |  |\n| Informática I | Anual | 1,5 |  |  |  |  |\n| Relações Públicas | Anual | 2 |  |  |  |  |\n| Inglês II | Anual |  | 1 |  |  |  |\n| Estatística Descritiva e Indutiva | Anual | 3 |  |  |  |  |\n\nQUADRO N.º 3\n\n3.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Correntes Culturais e Estéticas da Modernidade | Anual | 2 |  |  |  |  |\n| Liderança e Negociação | Anual | 2 |  |  |  |  |\n| Deontologia da Comunicação | Anual | 1,5 |  |  |  |  |\n| Inovação e Criatividade | Anual |  | 2,5 |  |  |  |\n| Marketing Directo | Anual |  | 2 |  |  |  |\n| Estratégia da Comunicação | Anual |  | 3 |  |  |  |\n| Auditoria de Marketing | Semestral |  | 3 |  |  |  |\n| Planeamento Estratégico de Marketing | Semestral |  | 4 |  |  |  |\n| Informática II | Anual |  |  | 1,5 |  |  |\n| Estudos de Mercado | Anual | 3 |  |  |  |  |\n\nOpção: Marketing\n\nGrau: licenciado\n\nQUADRO N.º 4\n\n4.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Distribuição | Semestral |  | 4 |  |  |  |\n| Marketing Internacional | Semestral |  | 2 |  |  |  |\n| Contabilidade | Semestral |  | 2 |  |  |  |\n| Análise Financeira | Semestral |  | 2 |  |  |  |\n| Auditoria e Marketing | Semestral |  | 3 |  |  |  |\n| Estratégia Empresarial | Anual |  | 2 |  |  |  |\n| História Económica e Social | Anual | 3 |  |  |  |  |\n| Direito do Marketing | Anual | 2 |  |  |  |  |\n| Comércio Internacional | Anual | 2 |  |  |  |  |\n\nOpção: Publicidade\n\nGrau: licenciado\n\nQUADRO N.º 5\n\n4.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários/estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Planificação e Estratégia dos Media | Anual |  | 2 |  |  |  |\n| Direito e Organização da Publicidade | Anual | 1,5 |  |  |  |  |\n| Fotografia | Anual |  |  | 1,5 |  |  |\n| Rádio | Anual |  |  | 1,5 |  |  |\n| Cinema e Vídeo | Anual |  |  | 1,5 |  |  |\n| Produção Gráfica | Anual |  |  | 1,5 |  |  |\n| Expressão Visual | Anual |  |  | 2 |  |  |\n| Semiótica da Publicidade | Anual |  | 1,5 |  |  |  |\n| Projecto de Comunicação | Anual |  | 4 |  |  |  |"
+  }
+ ]
+}

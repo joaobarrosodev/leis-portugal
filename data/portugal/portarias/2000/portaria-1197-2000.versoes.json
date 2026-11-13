@@ -20,6 +20,12 @@
    "future": false,
    "acts": [
     {
+     "id": "pt:dre:176504:por",
+     "title": "Portaria n.º 58/2003",
+     "published": "2003-01-16",
+     "dre_path": "/dr/detalhe/portaria/58-2003-176504"
+    },
+    {
      "id": "pt:dre:667161:por",
      "title": "Portaria n.º 269/2006",
      "published": "2006-03-17",
@@ -27,11 +33,13 @@
     }
    ],
    "changes": [
-    "Altera Artigo unidades 16-19"
+    "Altera Artigo unidades 16-19",
+    "Altera Artigo unidades 24-24",
+    "Altera Artigo unidades 27-27"
    ],
    "fragments": [
     "76f14fc83562d9dd",
-    "5c5f3904340ffd19"
+    "f7d165ab0c0ec5a4"
    ]
   }
  ],
@@ -61,6 +69,17 @@
     "Alterado pelo/a [Portaria n.º 269/2006](https://diariodarepublica.pt/dr/detalhe/portaria/269-2006-667161), publicado em 2006-03-17."
    ],
    "markdown": "de 20 de Dezembro\n\nA requerimento da CEUL - Cooperativa de Ensino Universidade Lusíada, C. R. L., entidade instituidora da Universidade Lusíada (Lisboa), cuja criação foi autorizada, ao abrigo do [Decreto-Lei n.º 100-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-b-1985-187955), de 8 de Abril, pelo despacho n.º 135/MEC/86, publicado no Diário da República, 2.ª série, de 28 de Junho de 1986;\n\nConsiderando o disposto no [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809), de 13 de Outubro;\n\nConsiderando o disposto na [Portaria n.º 938/93](https://diariodarepublica.pt/dr/detalhe/portaria/938-1993-653966), de 23 de Setembro;\n\nAo abrigo do disposto no n.º 5 do artigo 53.º e no artigo 67.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março):\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAlteração da denominação\n\nA denominação do curso de mestrado em Arquitectura, cujo funcionamento foi autorizado na Universidade Lusíada (Lisboa) pela [Portaria n.º 938/93](https://diariodarepublica.pt/dr/detalhe/portaria/938-1993-653966), de 23 de Setembro, passa a ser de Teoria da Arquitectura.\n\n2.º\n\nAlteração do plano de estudos\n\nO plano de estudos do curso de especialização conducente ao grau de mestre em Teoria da Arquitectura pela Universidade Lusíada (Lisboa) passa a ser o constante do anexo à presente portaria.\n\n3.º\n\nRegulamento\n\nO regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.\n\n> Alterado pelo/a [Portaria n.º 269/2006](https://diariodarepublica.pt/dr/detalhe/portaria/269-2006-667161), publicado em 2006-03-17.\n\n4.º\n\nAplicação\n\nO disposto na presente portaria aplica-se a partir do ano lectivo de 2000-2001, inclusive.\n\nPelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 17 de Novembro de 2000."
+  },
+  "f7d165ab0c0ec5a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Universidade Lusíada em Lisboa",
+   "in_force_from": "2006-03-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 58/2003](https://diariodarepublica.pt/dr/detalhe/portaria/58-2003-176504), publicado em 2003-01-16.",
+    "Alterado pelo/a [Portaria n.º 58/2003](https://diariodarepublica.pt/dr/detalhe/portaria/58-2003-176504), publicado em 2003-01-16."
+   ],
+   "markdown": "## ANEXO — Universidade Lusíada em Lisboa\n\n> Alterado pelo/a [Portaria n.º 58/2003](https://diariodarepublica.pt/dr/detalhe/portaria/58-2003-176504), publicado em 2003-01-16.\n\nCurso de Teoria da Arquitectura\n\nGrau de mestre\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas |\n| --- | --- | --- | --- |\n| Módulo I: A Ideia de Contemporaneidade: entre a Imagem e a Palavra: |  |  |  |\n| A Arquitectura e as Artes Visuais no Princípio do Século XXI | Semestral | 15 |  |\n| A Imagem e a Palavra | Semestral | 15 |  |\n| A Utopia da Informação | Semestral | 15 |  |\n| Módulo II: O Espaço Habitável Contemporâneo: |  |  |  |\n| Lugar Mínimo — Habitação Social: a Intervenção do Supérfluo — Cinco Obras em Portugal: 1950-1980. | Semestral | 22,5 |  |\n| O Novo Lugar Habitável — Da Morada Colectiva de Cidade — Cinco Obras em Portugal: 1950-1980. | Semestral | 15 |  |\n| A Urbanidade: Origens e Contradições da Cidade Moderna | Semestral | 7,5 |  |\n| Módulo III: Espaço e Forma na Sociedade da Informação: |  |  |  |\n| Século XX: Os Antecedendes Ideológicos na Ruptura e na Utopia | Semestral | 15 |  |\n| A Certeza na Incerteza da Arquitectura Virtual | Semestral | 15 |  |\n| Supermodernidades e Oportunidades da Eficácia do Pluralismo | Semestral | 15 |  |\n| Módulo IV: Metodologias Interpretativas de Arquitectura Contemporânea: |  |  |  |\n| Considerações Epistemológicas | Semestral | 4,5 |  |\n| A Ordem do Pensamento | Semestral | 10,5 |  |\n| A Ordem da Composição | Semestral | 15 |  |\n| Dimensões da Sensibilidade: Contribuições para a Interpretação de Estratégias Conceptuais do Projecto. | Semestral | 15 |  |\n| Laboratórios | Anual |  | 66 |\n| Projecto | Anual | 45 |  |\n\n> Alterado pelo/a [Portaria n.º 58/2003](https://diariodarepublica.pt/dr/detalhe/portaria/58-2003-176504), publicado em 2003-01-16."
   }
  }
 }

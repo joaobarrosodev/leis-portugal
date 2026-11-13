@@ -1,0 +1,77 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:560420:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-09-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "20245f5f97f49d6d",
+    "9a757f0a69973c9b"
+   ]
+  },
+  {
+   "date": "2003-12-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:437424:por",
+     "title": "Portaria n.º 1313/2003",
+     "published": "2003-11-27",
+     "dre_path": "/dr/detalhe/portaria/1313-2003-437424"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 10",
+    "Altera Artigo unidades 32-32"
+   ],
+   "fragments": [
+    "570d3f3cfa19fd27",
+    "9db0e9f1fc24dbb5"
+   ]
+  }
+ ],
+ "fragments": {
+  "20245f5f97f49d6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Setembro\n\nSob proposta do Instituto Politécnico de Portalegre e da sua Escola Superior Agrária de Elvas;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nConsiderando o disposto na [Portaria n.º 495/99](https://diariodarepublica.pt/dr/detalhe/portaria/495-1999-368775), de 12 de Julho;\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro) e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nO plano de estudos do curso de bacharelato em Produção e Utilização de Cavalos, ministrado pela Escola Superior Agrária de Elvas, criado pela [Portaria n.º 495/99](https://diariodarepublica.pt/dr/detalhe/portaria/495-1999-368775), de 12 de Julho, é o fixado em anexo à presente portaria.\n\n2.º\n\nAno e semestre lectivo\n\n1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n3.º\n\nRegimes escolares\n\nOs regimes de frequência, avaliação de conhecimentos, transição de ano, precedência e prescrição do direito à inscrição são fixados pelo órgão legal e estatutariamente competente.\n\n4.º\n\nCondições para a obtenção do grau\n\nÉ condição para a obtenção do grau de bacharel em Produção e Utilização de Cavalos a aprovação na totalidade das unidades curriculares que integram o plano de estudos do curso.\n\n5.º\n\nClassificação final\n\n1 - A classificação final do curso é a média aritmética ponderada arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas) das classificações das unidades curriculares que integram o plano de estudos do curso.\n\n2 - Os coeficientes de ponderação são fixados pelo órgão legal e estatutariamente competente.\n\n6.º\n\nEntrada em funcionamento\n\nO curso entra em funcionamento progressivamente, um ano curricular em cada lectivo, a partir do ano lectivo de 1999-2000, inclusive.\n\nPelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 30 de Agosto de 2000."
+  },
+  "9a757f0a69973c9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Portalegre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Instituto Politécnico de Portalegre\n\nEscola Superior Agrária de Elvas\n\nCurso de Produção e Utilização de Cavalos\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/09/223b00/51805182.pdf)"
+  },
+  "570d3f3cfa19fd27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2003-12-02",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 1313/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1313-2003-437424), publicado em 2003-11-27."
+   ],
+   "markdown": "de 26 de Setembro\n\nSob proposta do Instituto Politécnico de Portalegre e da sua Escola Superior Agrária de Elvas;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nConsiderando o disposto na [Portaria n.º 495/99](https://diariodarepublica.pt/dr/detalhe/portaria/495-1999-368775), de 12 de Julho;\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro) e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nO plano de estudos do curso de bacharelato em Produção e Utilização de Cavalos, ministrado pela Escola Superior Agrária de Elvas, criado pela [Portaria n.º 495/99](https://diariodarepublica.pt/dr/detalhe/portaria/495-1999-368775), de 12 de Julho, é o fixado em anexo à presente portaria.\n\n1.º-A\n\nTrabalho de fim de curso\n\nA unidade curricular 'Trabalho de fim de curso' realiza-se nos termos fixados por regulamento a aprovar pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n> Aditado pelo/a [Portaria n.º 1313/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1313-2003-437424), publicado em 2003-11-27.\n\n2.º\n\nAno e semestre lectivo\n\n1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n3.º\n\nRegimes escolares\n\nOs regimes de frequência, avaliação de conhecimentos, transição de ano, precedência e prescrição do direito à inscrição são fixados pelo órgão legal e estatutariamente competente.\n\n4.º\n\nCondições para a obtenção do grau\n\nÉ condição para a obtenção do grau de bacharel em Produção e Utilização de Cavalos a aprovação na totalidade das unidades curriculares que integram o plano de estudos do curso.\n\n5.º\n\nClassificação final\n\n1 - A classificação final do curso é a média aritmética ponderada arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas) das classificações das unidades curriculares que integram o plano de estudos do curso.\n\n2 - Os coeficientes de ponderação são fixados pelo órgão legal e estatutariamente competente.\n\n6.º\n\nEntrada em funcionamento\n\nO curso entra em funcionamento progressivamente, um ano curricular em cada lectivo, a partir do ano lectivo de 1999-2000, inclusive.\n\nPelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 30 de Agosto de 2000."
+  },
+  "9db0e9f1fc24dbb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Portalegre",
+   "in_force_from": "2003-12-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1313/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1313-2003-437424), publicado em 2003-11-27."
+   ],
+   "markdown": "## ANEXO — Instituto Politécnico de Portalegre\n\nEscola Superior Agrária de Elvas\n\nCurso de Produção e Utilização de Cavalos\n\nGrau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Equitação I | Anual |  | 4 |  |  |  |\n| Anatomia e Fisiologia I | 1.º semestre |  | 4 |  |  |  |\n| Matemática | 1.º semestre | 2 |  | 2 |  |  |\n| Química Geral | 1.º semestre | 2 |  | 2 |  |  |\n| Meteorologia e Climatologia | 1.º semestre | 2 |  | 2 |  |  |\n| Informática | 1.º semestre |  | 3 |  |  |  |\n| Actividades Agrícolas | 1.º semestre |  | 3 |  |  |  |\n| Anatomia e Fisiologia II | 2.º semestre |  | 4 |  |  |  |\n| Bioquímica | 2.º semestre | 2 |  | 2 |  |  |\n| Pedologia | 2.º semestre | 2 |  | 2 |  |  |\n| Biologia Vegetal | 2.º semestre | 2 |  | 2 |  |  |\n| Economia I | 2.º semestre | 2 |  | 2 |  |  |\n| Técnicas de Produção Agrícola I | 2.º semestre |  | 3 |  |  |  |\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Técnicas de Produção Agrícola II | Anual |  | 4 |  |  |  |\n| Equitação II | Anual |  | 4 |  |  |  |\n| Nutrição e Alimentação I | 1.º semestre |  | 4 |  |  |  |\n| Genética e Reprodução Equinas | 1.º semestre | 2 |  | 2 |  |  |\n| Máquinas e Automação I | 1.º semestre |  | 3 |  |  |  |\n| Organização e Gestão da Empresa I | 1.º semestre |  | 3 |  |  |  |\n| Contabilidade Geral | 1.º semestre |  | 4 |  |  |  |\n| Nutrição e Alimentação II | 2.º semestre | 2 |  | 2 |  |  |\n| Técnicas de Maneio e Siderotecnia | 2.º semestre |  | 4 |  |  |  |\n| Máquinas e Automação II | 2.º semestre |  | 3 |  |  |  |\n| Desenho e Topografia | 2.º semestre |  | 4 |  |  |  |\n| Contabilidade de Gestão | 2.º semestre |  | 4 |  |  |  |\n\nQUADRO N.º 3\n\n3.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Equitação III | Anual |  | 4 |  |  |  |\n| Organização de Eventos Hípicos | 1.º semestre |  | 3 |  |  |  |\n| Sistemas Agro-Silvo-Pastoris | 1.º semestre |  | 3 |  |  |  |\n| Análise de Projectos e Investimentos | 1.º semestre |  | 4 |  |  |  |\n| Economia e Política Agrárias | 1.º semestre |  | 4 |  |  |  |\n| Higiene e Sanidade | 1.º semestre |  | 4 |  |  |  |\n| Estatística e Delineamento Experimental | 1.º semestre | 2 |  | 2 |  |  |\n| Turismo em Espaço Rural | 2.º semestre |  | 3 |  |  |  |\n| Instalações e Equipamentos | 2.º semestre |  | 4 |  |  |  |\n| Tópicos de Legislação e Fiscalidade | 2.º semestre |  | 4 |  |  |  |\n| Fisiologia do Exercício e Treino do Cavalo de Desporto | 2.º semestre |  | 4 |  |  |  |\n| Trabalho de fim de curso. |  |  |  |  |  |  |\n\n> Alterado pelo/a [Portaria n.º 1313/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1313-2003-437424), publicado em 2003-11-27."
+  }
+ }
+}

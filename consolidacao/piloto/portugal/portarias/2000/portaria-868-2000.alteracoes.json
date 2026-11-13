@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:560420:por",
     "alterador": "pt:dre:437424:por"
+  },
+  {
+    "artigo": "unidades 32-32",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/09/223b00/51805182.pdf)",
+    "depois": "Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Equitação I | Anual |  | 4 |  |  |  |\n| Anatomia e Fisiologia I | 1.º semestre |  | 4 |  |  |  |\n| Matemática | 1.º semestre | 2 |  | 2 |  |  |\n| Química Geral | 1.º semestre | 2 |  | 2 |  |  |\n| Meteorologia e Climatologia | 1.º semestre | 2 |  | 2 |  |  |\n| Informática | 1.º semestre |  | 3 |  |  |  |\n| Actividades Agrícolas | 1.º semestre |  | 3 |  |  |  |\n| Anatomia e Fisiologia II | 2.º semestre |  | 4 |  |  |  |\n| Bioquímica | 2.º semestre | 2 |  | 2 |  |  |\n| Pedologia | 2.º semestre | 2 |  | 2 |  |  |\n| Biologia Vegetal | 2.º semestre | 2 |  | 2 |  |  |\n| Economia I | 2.º semestre | 2 |  | 2 |  |  |\n| Técnicas de Produção Agrícola I | 2.º semestre |  | 3 |  |  |  |\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Técnicas de Produção Agrícola II | Anual |  | 4 |  |  |  |\n| Equitação II | Anual |  | 4 |  |  |  |\n| Nutrição e Alimentação I | 1.º semestre |  | 4 |  |  |  |\n| Genética e Reprodução Equinas | 1.º semestre | 2 |  | 2 |  |  |\n| Máquinas e Automação I | 1.º semestre |  | 3 |  |  |  |\n| Organização e Gestão da Empresa I | 1.º semestre |  | 3 |  |  |  |\n| Contabilidade Geral | 1.º semestre |  | 4 |  |  |  |\n| Nutrição e Alimentação II | 2.º semestre | 2 |  | 2 |  |  |\n| Técnicas de Maneio e Siderotecnia | 2.º semestre |  | 4 |  |  |  |\n| Máquinas e Automação II | 2.º semestre |  | 3 |  |  |  |\n| Desenho e Topografia | 2.º semestre |  | 4 |  |  |  |\n| Contabilidade de Gestão | 2.º semestre |  | 4 |  |  |  |\n\nQUADRO N.º 3\n\n3.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Equitação III | Anual |  | 4 |  |  |  |\n| Organização de Eventos Hípicos | 1.º semestre |  | 3 |  |  |  |\n| Sistemas Agro-Silvo-Pastoris | 1.º semestre |  | 3 |  |  |  |\n| Análise de Projectos e Investimentos | 1.º semestre |  | 4 |  |  |  |\n| Economia e Política Agrárias | 1.º semestre |  | 4 |  |  |  |\n| Higiene e Sanidade | 1.º semestre |  | 4 |  |  |  |\n| Estatística e Delineamento Experimental | 1.º semestre | 2 |  | 2 |  |  |\n| Turismo em Espaço Rural | 2.º semestre |  | 3 |  |  |  |\n| Instalações e Equipamentos | 2.º semestre |  | 4 |  |  |  |\n| Tópicos de Legislação e Fiscalidade | 2.º semestre |  | 4 |  |  |  |\n| Fisiologia do Exercício e Treino do Cavalo de Desporto | 2.º semestre |  | 4 |  |  |  |\n| Trabalho de fim de curso. |  |  |  |  |  |  |",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:560420:por",
+    "alterador": "pt:dre:437424:por"
   }
 ]

@@ -1,0 +1,93 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:573705:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1990-08-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0670bb39bcf1c74c",
+    "c73b0f287e5395fb",
+    "98040fea67fb71b5"
+   ]
+  },
+  {
+   "date": "2012-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:189763:por",
+     "title": "Portaria n.º 182/2003",
+     "published": "2003-02-20",
+     "dre_path": "/dr/detalhe/portaria/182-2003-189763"
+    },
+    {
+     "id": "pt:dre:174821:por",
+     "title": "Decreto-Lei n.º 206/2012",
+     "published": "2012-08-31",
+     "dre_path": "/dr/detalhe/decreto-lei/206-2012-174821"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6",
+    "Altera Artigo unidades 22-22"
+   ],
+   "fragments": [
+    "e3a01ca23751cb0e",
+    "c73b0f287e5395fb",
+    "2838981851f9e3af"
+   ]
+  }
+ ],
+ "fragments": {
+  "0670bb39bcf1c74c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Agosto\n\nA requerimento do IADE - Instituto de Artes Visuais, Design e Marketing, S. A., com sede em Lisboa;\n\nAo abrigo e nos termos do n.º 3 do artigo 17.º, dos n.os 1 e 7 do artigo 18.º, do artigo 19.º, dos n.os 1, 3 e 4 do artigo 21.º e do artigo 25.º do [Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º São reconhecidas a Escola Superior de Design e a Escola Superior de Marketing e Publicidade, integradas no Instituto de Artes Visuais, Design e Marketing, a funcionar nas instalações próprias, em Lisboa, do IADE - Instituto de Artes Visuais, Design e Marketing, S. A., entidade titular das Escolas acima mencionadas.\n\n2.º É autorizado o início do funcionamento, a partir do ano lectivo de 1990-1991, da Escola Superior de Design, onde será ministrado o curso superior de Design, com as seguintes opções de especialização:\n\nDesign Visual;\n\nDesign Industrial;\n\nDesign de Interiores;\n\nde acordo com o plano de estudos anexo (I) à presente portaria.\n\n3.º É igualmente autorizado o início de funcionamento, a partir do ano lectivo de 1990-1991, da Escola Superior de Marketing e Publicidade, onde será ministrado o curso superior de Marketing e Publicidade, com as opções de especialização de Marketing e de Publicidade, de acordo com o plano de estudos anexo (II) à presente portaria.\n\n4.º Aos cursos referidos nos n.os 2.º e 3.º são reconhecidos os efeitos correspondentes aos da titularidade do grau de bacharelato do ensino superior público.\n\n5.º As habilitações mínimas exigidas para o ingresso em cada um dos cursos referidos nos n.os 2.º e 3.º são as exigidas para os mesmos ou similares cursos do ensino público, sem prejuízo de outros requisitos que sejam estabelecidos nos regulamentos internos das Escolas Superiores de Design e de Marketing e Publicidade.\n\n6.º O reconhecimento e autorização estabelecidos na presente portaria não prejudicam, sob pena de revogação, a obrigação do cumprimento de eventuais adaptações ou correcções que sejam determinadas pela Direcção-Geral do Ensino Superior, quer em resultado da análise do processo que fundamentou a presente portaria, quer de futuras informações dos serviços de inspecção daquele departamento, de acordo com a legislação vigente.\n\nMinistério da Educação.\n\nAssinada em 18 de Julho de 1990.\n\nPelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior."
+  },
+  "c73b0f287e5395fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — CURSO DE DESIGN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — CURSO DE DESIGN\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18700/33373339.pdf)"
+  },
+  "98040fea67fb71b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — CURSO DE MARKETING E PUBLICIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — CURSO DE MARKETING E PUBLICIDADE\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18700/33373339.pdf)"
+  },
+  "e3a01ca23751cb0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 206/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2012-174821), publicado em 2012-08-31."
+   ],
+   "markdown": "de 14 de Agosto\n\nA requerimento do IADE - Instituto de Artes Visuais, Design e Marketing, S. A., com sede em Lisboa;\n\nAo abrigo e nos termos do n.º 3 do artigo 17.º, dos n.os 1 e 7 do artigo 18.º, do artigo 19.º, dos n.os 1, 3 e 4 do artigo 21.º e do artigo 25.º do [Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 206/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2012-174821), publicado em 2012-08-31.\n\n2.º É autorizado o início do funcionamento, a partir do ano lectivo de 1990-1991, da Escola Superior de Design, onde será ministrado o curso superior de Design, com as seguintes opções de especialização:\n\nDesign Visual;\n\nDesign Industrial;\n\nDesign de Interiores;\n\nde acordo com o plano de estudos anexo (I) à presente portaria.\n\n3.º É igualmente autorizado o início de funcionamento, a partir do ano lectivo de 1990-1991, da Escola Superior de Marketing e Publicidade, onde será ministrado o curso superior de Marketing e Publicidade, com as opções de especialização de Marketing e de Publicidade, de acordo com o plano de estudos anexo (II) à presente portaria.\n\n4.º Aos cursos referidos nos n.os 2.º e 3.º são reconhecidos os efeitos correspondentes aos da titularidade do grau de bacharelato do ensino superior público.\n\n5.º As habilitações mínimas exigidas para o ingresso em cada um dos cursos referidos nos n.os 2.º e 3.º são as exigidas para os mesmos ou similares cursos do ensino público, sem prejuízo de outros requisitos que sejam estabelecidos nos regulamentos internos das Escolas Superiores de Design e de Marketing e Publicidade.\n\n6.º O reconhecimento e autorização estabelecidos na presente portaria não prejudicam, sob pena de revogação, a obrigação do cumprimento de eventuais adaptações ou correcções que sejam determinadas pela Direcção-Geral do Ensino Superior, quer em resultado da análise do processo que fundamentou a presente portaria, quer de futuras informações dos serviços de inspecção daquele departamento, de acordo com a legislação vigente.\n\nMinistério da Educação.\n\nAssinada em 18 de Julho de 1990.\n\nPelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior."
+  },
+  "2838981851f9e3af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — CURSO DE MARKETING E PUBLICIDADE",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 182/2003](https://diariodarepublica.pt/dr/detalhe/portaria/182-2003-189763), publicado em 2003-02-20."
+   ],
+   "markdown": "## ANEXO II — CURSO DE MARKETING E PUBLICIDADE\n\nEscola Superior de Marketing e Publicidade\n\nCurso de Marketing e Publicidade\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Introdução ao Marketing | Anual | 4 |  |  |  |  |  |\n| Introdução à Comunicação Empresarial | Anual | 3 |  |  |  |  |  |\n| Introdução à Economia | Anual | 3 |  |  |  |  |  |\n| Organização e Gestão de Empresas | Anual | 3 |  |  |  |  |  |\n| Matemática | Anual | 3 |  |  |  |  |  |\n| Linguagem e Comunicação | Anual | 2 |  |  |  |  |  |\n| Ideias e Tendências da Época Contemporânea | Anual | 1,5 |  |  |  |  |  |\n| Metodologia do Trabalho Científico | Anual | 1,5 |  |  |  |  |  |\n| Inglês I | Anual |  | 1 |  |  |  |  |\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Comunicação Publicitária | 1.º semestre |  | 3 |  |  |  |  |\n| Marketing Mix | 1.º semestre |  | 3 |  |  |  |  |\n| Introdução à Estatística | 1.º semestre | 3 |  |  |  |  |  |\n| Estudos de Mercado I | 1.º semestre | 2 |  |  |  |  |  |\n| Sociologia | 1.º semestre | 2 |  |  |  |  |  |\n| Relações Públicas | 1.º semestre | 2 |  |  |  |  |  |\n| Gestão e Administração de Vendas | 1.º semestre |  | 1,5 |  |  |  |  |\n| Didáctica da Escrita Criativa I | 1.º semestre | 2 |  |  |  |  |  |\n| Inglês II | 1.º semestre |  | 1,5 |  |  |  |  |\n| Mix da Comunicação | 2.º semestre |  | 3 |  |  |  |  |\n| Pesquisa e Auditoria de Marketing | 2.º semestre |  | 3 |  |  |  |  |\n| Análise de Dados | 2.º semestre | 3 |  |  |  |  |  |\n| Estudos de Mercado II | 2.º semestre |  | 2 |  |  |  |  |\n| Psicologia da Comunicação | 2.º semestre | 2 |  |  |  |  |  |\n| Comunicação Institucional | 2.º semestre | 2 |  |  |  |  |  |\n| Promoção de Vendas | 2.º semestre |  | 1,5 |  |  |  |  |\n| Didáctica da Escrita Criativa II | 2.º semestre | 2 |  |  |  |  |  |\n| Inglês Comercial | 2.º semestre |  | 1,5 |  |  |  |  |\n\nQUADRO N.º 3\n\n3.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Comunicação de Marca | 1.º semestre |  | 3 |  |  |  |  |\n| Estratégia de Marketing | 1.º semestre |  | 3 |  |  |  |  |\n| Data Base Marketing | 1.º semestre | 2 |  |  |  |  |  |\n| Inovação e Criatividade: O Processo Criativo | 1.º semestre |  | 2,5 |  |  |  |  |\n| Correntes Culturais e Estéticas da Modernidade I | 1.º semestre | 2 |  |  |  |  |  |\n| Liderança e Negociação | 1.º semestre | 2 |  |  |  |  |  |\n| Contabilidade | 1.º semestre |  | 2 |  |  |  |  |\n| Ética da Comunicação | 1.º semestre | 1,5 |  |  |  |  |  |\n| Informática I | 1.º semestre |  |  | 1,5 |  |  |  |\n| Estratégia de Comunicação | 2.º semestre |  | 3 |  |  |  |  |\n| Planificação e Simulação em Marketing | 2.º semestre |  | 3 |  |  |  |  |\n| Marketing Directo | 2.º semestre | 2 |  |  |  |  |  |\n| Inovação e Criatividade: A Psicologia Analítica e a Criatividade. | 2.º semestre |  | 2,5 |  |  |  |  |\n| Correntes Culturais e Estéticas da Modernidade II | 2.º semestre | 2 |  |  |  |  |  |\n| Concorrência Europeia | 2.º semestre | 2 |  |  |  |  |  |\n| Análise Financeira | 2.º semestre |  | 2 |  |  |  |  |\n| Deontologia da Comunicação | 2.º semestre | 1,5 |  |  |  |  |  |\n| Informática II | 2.º semestre |  |  | 1,5 |  |  |  |\n\nRamo de Marketing\n\nQUADRO N.º 4\n\n4.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Marketing da Distribuição | 1.º semestre |  | 4 |  |  |  |  |\n| Avaliação e Controlo em Marketing | 1.º semestre |  | 3 |  |  |  |  |\n| Marketing Internacional | 1.º semestre |  | 2 |  |  |  |  |\n| Estratégia Empresarial — Projecto I | 1.º semestre |  | 2 |  |  |  |  |\n| História Económica e Social | 1.º semestre | 3 |  |  |  |  |  |\n| Informática de Gestão I | 1.º semestre |  |  | 2 |  |  |  |\n| Comércio Internacional | 1.º semestre | 1,5 |  |  |  |  |  |\n| Distribuição Moderna e e-Commerce | 2.º semestre |  | 4 |  |  |  |  |\n| Marketing Relacional e e-Marketing | 2.º semestre |  | 3 |  |  |  |  |\n| Estratégia Empresarial — Projecto II | 2.º semestre |  | 2 |  |  |  |  |\n| História Económica Neo-Liberal | 2.º semestre | 3 |  |  |  |  |  |\n| Informática de Gestão II | 2.º semestre |  |  | 2 |  |  |  |\n| Direito do Marketing | 2.º semestre | 2 |  |  |  |  |  |\n\nRamo de Publicidade\n\nQUADRO N.º 5\n\n4.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Escolaridade (em horas semanais) — Estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Projecto de Comunicação I | 1.º semestre |  | 4 |  |  |  |  |\n| Computação Gráfica I | 1.º semestre |  |  | 4 |  |  |  |\n| Estratégia dos Média | 1.º semestre |  | 2 |  |  |  |  |\n| Direito e Organização da Publicidade | 1.º semestre | 2 |  |  |  |  |  |\n| Multimédia I | 1.º semestre |  | 2 |  |  |  |  |\n| Rádio I | 1.º semestre |  | 1,5 |  |  |  |  |\n| Teoria da Semiótica da Publicidade | 1.º semestre |  | 1,5 |  |  |  |  |\n| Texto Publicitário | 1.º semestre |  | 1,5 |  |  |  |  |\n| Projecto de Comunicação II | 2.º semestre |  | 4 |  |  |  |  |\n| Computação Gráfica II | 2.º semestre |  |  | 4 |  |  |  |\n| Planificação dos Média | 2.º semestre |  | 2 |  |  |  |  |\n| Multimédia II | 2.º semestre |  | 2 |  |  |  |  |\n| Rádio II | 2.º semestre |  | 1,5 |  |  |  |  |\n| Análise da Semiótica da Publicidade | 2.º semestre |  | 1,5 |  |  |  |  |\n| Ética e Estética da Publicidade | 2.º semestre | 1,5 |  |  |  |  |  |\n| Produção Gráfica | 2.º semestre |  | 1,5 |  |  |  |  |\n\n> Alterado pelo/a [Portaria n.º 182/2003](https://diariodarepublica.pt/dr/detalhe/portaria/182-2003-189763), publicado em 2003-02-20."
+  }
+ }
+}

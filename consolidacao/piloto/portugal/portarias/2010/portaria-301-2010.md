@@ -184,4 +184,14 @@ Compensações salariais destinadas aos tripulantes
 
 [alínea b) do n.º 1 do artigo 5.º]
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/10700/0189701900.pdf)
+| Categoria profissional | Montante do apoio diário (euros) |
+| --- | --- |
+| Oficiais | 26,7 |
+| Mestrança | 23,7 |
+
+| Categoria profissional | Montante do apoio diário (euros) |
+| --- | --- |
+| Marinhagem | 16,7 |
+| Pescador | 15,8 |
+
+> Alterado pelo/a [Portaria n.º 1053/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1053-2010-307674), publicado em 2010-10-14.

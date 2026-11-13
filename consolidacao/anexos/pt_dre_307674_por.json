@@ -1,0 +1,65 @@
+{
+ "id": "pt:dre:307674:por",
+ "titulo": "Portaria n.º 1053/2010, art. 2.º: quadro II do anexo do Regulamento aprovado pela Portaria n.º 301/2010 (compensações salariais destinadas aos tripulantes)",
+ "pdf": "https://files.diariodarepublica.pt/1s/2010/10/20000/0452604527.pdf",
+ "pdf_sha256": "e56add21e88f9ed3584774bf33b838010bbf2d2fef846f4e45f7f020942eef7e",
+ "metodo": "camada de texto do PDF, colunas pelas coordenadas (consolidacao/anexos.py, scripts/pdfchars.swift)",
+ "imagens_no_texto": 1,
+ "conferido": {
+  "data": "2026-11-13",
+  "por": "verificador Sonnet, que não fez a transcrição, contra a imagem das páginas do DR",
+  "resultado": "certo: 2 quadros (um partido entre colunas, com o cabeçalho repetido), 6 linhas e 12 células conferidas, 0 erros"
+ },
+ "transcricoes": [
+  {
+   "ocorrencia": 1,
+   "blocos": [
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 770,
+       "ate": 795,
+       "x_de": 0,
+       "x_ate": 300
+      }
+     ],
+     "colunas": [
+      [
+       "Categoria profissional",
+       0
+      ],
+      [
+       "Montante do apoio diário (euros)",
+       243
+      ]
+     ]
+    },
+    {
+     "tipo": "quadro",
+     "partes": [
+      {
+       "pagina": 2,
+       "de": 110,
+       "ate": 128,
+       "x_de": 300
+      }
+     ],
+     "colunas": [
+      [
+       "Categoria profissional",
+       0
+      ],
+      [
+       "Montante do apoio diário (euros)",
+       499
+      ]
+     ]
+    }
+   ],
+   "colunas": null,
+   "texto": "| Categoria profissional | Montante do apoio diário (euros) |\n| --- | --- |\n| Oficiais | 26,7 |\n| Mestrança | 23,7 |\n\n| Categoria profissional | Montante do apoio diário (euros) |\n| --- | --- |\n| Marinhagem | 16,7 |\n| Pescador | 15,8 |"
+  }
+ ]
+}

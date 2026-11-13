@@ -82,4 +82,64 @@ Escola Superior Agrária de Elvas
 
 Curso de Produção e Utilização de Cavalos
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/09/223b00/51805182.pdf)
+Grau de bacharel
+
+QUADRO N.º 1
+
+1.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Equitação I | Anual |  | 4 |  |  |  |
+| Anatomia e Fisiologia I | 1.º semestre |  | 4 |  |  |  |
+| Matemática | 1.º semestre | 2 |  | 2 |  |  |
+| Química Geral | 1.º semestre | 2 |  | 2 |  |  |
+| Meteorologia e Climatologia | 1.º semestre | 2 |  | 2 |  |  |
+| Informática | 1.º semestre |  | 3 |  |  |  |
+| Actividades Agrícolas | 1.º semestre |  | 3 |  |  |  |
+| Anatomia e Fisiologia II | 2.º semestre |  | 4 |  |  |  |
+| Bioquímica | 2.º semestre | 2 |  | 2 |  |  |
+| Pedologia | 2.º semestre | 2 |  | 2 |  |  |
+| Biologia Vegetal | 2.º semestre | 2 |  | 2 |  |  |
+| Economia I | 2.º semestre | 2 |  | 2 |  |  |
+| Técnicas de Produção Agrícola I | 2.º semestre |  | 3 |  |  |  |
+
+QUADRO N.º 2
+
+2.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Técnicas de Produção Agrícola II | Anual |  | 4 |  |  |  |
+| Equitação II | Anual |  | 4 |  |  |  |
+| Nutrição e Alimentação I | 1.º semestre |  | 4 |  |  |  |
+| Genética e Reprodução Equinas | 1.º semestre | 2 |  | 2 |  |  |
+| Máquinas e Automação I | 1.º semestre |  | 3 |  |  |  |
+| Organização e Gestão da Empresa I | 1.º semestre |  | 3 |  |  |  |
+| Contabilidade Geral | 1.º semestre |  | 4 |  |  |  |
+| Nutrição e Alimentação II | 2.º semestre | 2 |  | 2 |  |  |
+| Técnicas de Maneio e Siderotecnia | 2.º semestre |  | 4 |  |  |  |
+| Máquinas e Automação II | 2.º semestre |  | 3 |  |  |  |
+| Desenho e Topografia | 2.º semestre |  | 4 |  |  |  |
+| Contabilidade de Gestão | 2.º semestre |  | 4 |  |  |  |
+
+QUADRO N.º 3
+
+3.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Equitação III | Anual |  | 4 |  |  |  |
+| Organização de Eventos Hípicos | 1.º semestre |  | 3 |  |  |  |
+| Sistemas Agro-Silvo-Pastoris | 1.º semestre |  | 3 |  |  |  |
+| Análise de Projectos e Investimentos | 1.º semestre |  | 4 |  |  |  |
+| Economia e Política Agrárias | 1.º semestre |  | 4 |  |  |  |
+| Higiene e Sanidade | 1.º semestre |  | 4 |  |  |  |
+| Estatística e Delineamento Experimental | 1.º semestre | 2 |  | 2 |  |  |
+| Turismo em Espaço Rural | 2.º semestre |  | 3 |  |  |  |
+| Instalações e Equipamentos | 2.º semestre |  | 4 |  |  |  |
+| Tópicos de Legislação e Fiscalidade | 2.º semestre |  | 4 |  |  |  |
+| Fisiologia do Exercício e Treino do Cavalo de Desporto | 2.º semestre |  | 4 |  |  |  |
+| Trabalho de fim de curso. |  |  |  |  |  |  |
+
+> Alterado pelo/a [Portaria n.º 1313/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1313-2003-437424), publicado em 2003-11-27.
