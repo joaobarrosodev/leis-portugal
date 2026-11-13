@@ -14,7 +14,7 @@ O objetivo é tornar o ordenamento jurídico português mais acessível, pesquis
 
 | | |
 |---|---|
-| Registos | ~360 mil: ~275 mil da legislação nacional (1.ª Série desde 1833, praticamente completa face aos sitemaps do DRE, e parte da 2.ª Série), ~31 mil regionais (Açores e Madeira, incluindo o catálogo do Jornal Oficial dos Açores) e ~54 mil atos da UE (96 % dos que estão em vigor) |
+| Registos | ~460 mil: ~375 mil da legislação nacional (1.ª Série desde 1833, praticamente completa face aos sitemaps do DRE, e parte da 2.ª Série), ~31 mil regionais (Açores e Madeira, incluindo o catálogo do Jornal Oficial dos Açores) e ~54 mil atos da UE (96 % dos que estão em vigor) |
 | Texto | ~246 mil com texto pesquisável; ~70 mil só com o PDF oficial (sobretudo 1910–1959, digitalizações); ~24 mil só com metadados, porque a fonte não tem texto nem PDF |
 | Versões | ~10 mil diplomas e atos com o histórico de versões (`.versoes.json`) e consulta do texto numa data (`version-at`) |
 | Texto em vigor consolidado pelo leis-portugal | mais de 2,6 mil diplomas que o DRE dá como alterados mas não consolida: alterações aplicadas por regras ou por um LLM e verificadas às cegas por outro modelo; marcados como **sem valor oficial** (ver [`consolidacao/`](consolidacao/README.md)) |
@@ -450,9 +450,21 @@ A cobertura é medida a partir dos próprios dados por `leis-portugal reports`, 
 | O quê | No repositório | No DRE | % |
 |---|--:|--:|--:|
 | Tipos principais: leis, decretos-leis, portarias, decretos, resoluções, despachos normativos, decretos regionais… (39 tipos) | 268.444 | 268.476 | **99,99 %** |
-| 2.ª Série: despachos, avisos, editais, deliberações, regulamentos… | 16.902 | 809.931 | **2,1 %** |
+| 2.ª Série: despachos, avisos, editais, deliberações, regulamentos… (10 tipos; comparação de 13/11/2026 nos cinco recolhidos por inteiro) | 116.876 | 810.091 | **14,4 %** |
 
-A 2.ª Série só se recolhe quando um diploma do acervo a cita ou a altera; a recolha integral não está planeada.
+Cinco tipos da 2.ª Série estão completos face aos sitemaps do DRE desde 13/11/2026: regulamentos, editais, deliberações, declarações e acordos coletivos de trabalho (109.596 de 109.603; os 7 em falta foram publicados durante a recolha e entram com a atualização diária). Dos outros, despachos e avisos (cerca de 700 mil), só há os que um diploma do acervo cita ou altera.
+
+**Regras gerais na 2.ª Série.** Amostras de 100 documentos ao acaso por tipo, lidas e classificadas à mão (13/11/2026):
+
+| Tipo | No acervo | Regras gerais | Projetos em consulta pública | Atos concretos | Outros |
+|---|--:|--:|--:|--:|--:|
+| Regulamentos | 18.839 | 90 (15 de organização interna) | 7 | 1 | 2 sem texto |
+| Acordos coletivos de trabalho | 2.142 | 86 (29 só em PDF) | 0 | 0 | 14 sem texto |
+| Editais | 39.377 | 16 | 10 | 62 | 10 informativos, 2 sem texto |
+| Declarações | 25.754 | 6 | 0 | 54 | 34 retificações, 4 informativos, 2 sem texto |
+| Deliberações | 23.484 | 3 (2 de organização interna) | 0 | 95 | 2 sem texto |
+
+Regras gerais: regulamentos municipais (taxas, águas, cemitérios, apoios sociais), regulamentos de universidades, ordens profissionais e reguladores, e as normas de trabalho dos acordos coletivos de empregador público. Atos concretos: concursos e pessoal, suspensões de inscrição na Ordem dos Advogados, alterações de autorizações de medicamentos, delegações de competências. Os acordos só em PDF vêm da base de regulamentação do trabalho do DRE, sem sumário nem emissor. Numa amostra de 50 documentos com texto e PDF por tipo, conferidos contra o PDF oficial, não houve texto cortado nem trocado; faltam tabelas que o DRE só dá como imagem ("ver documento original", 0 a 5 em 50 por tipo), e 2.147 registos de todo o acervo trazem no fim o estilo CSS das tabelas do DRE. Estes cinco tipos ficam fora do índice do RAG por omissão ([`rag/README.md`](rag/README.md), `--com-serie-ii`).
 
 **Texto pesquisável** (export de 12/11/2026):
 
@@ -516,7 +528,7 @@ Medição às cegas, 1983–2015 (13/11/2026), com o mesmo método (outro modelo
 
 "Responde a" é a parte das perguntas com resposta a que o sistema responde; nas outras diz "não sei". Todas as medições usam a reescrita da pergunta em consulta jurídica (menos a de diplomas alterados) e foram feitas com sessões do Claude, não com a API.
 
-**Leitura.** Para a legislação portuguesa principal, a coleção está completa face ao DRE. As lacunas estão no texto (um quarto dos nacionais só em PDF), na 2.ª Série, no texto em vigor de metade dos diplomas alterados sem consolidação oficial e na vigência de muitos diplomas, que o DRE não indica. Na jurisprudência, só há os acórdãos do Tribunal Constitucional (os do STJ e do STA, não). Ainda não há legislação local (regulamentos municipais).
+**Leitura.** Para a legislação portuguesa principal, a coleção está completa face ao DRE. As lacunas estão no texto (um quarto dos nacionais só em PDF), na 2.ª Série, no texto em vigor de metade dos diplomas alterados sem consolidação oficial e na vigência de muitos diplomas, que o DRE não indica. Na jurisprudência, só há os acórdãos do Tribunal Constitucional (os do STJ e do STA, não). A legislação local resume-se aos regulamentos, editais e deliberações municipais publicados na 2.ª Série do DR; os que os municípios só publicam no seu sítio não estão no acervo.
 
 ## Qualidade e validação
 

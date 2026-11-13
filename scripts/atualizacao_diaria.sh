@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Atualização diária do acervo: DRE (1.ª Série) e EUR-Lex (Jornal Oficial) de um
+# Atualização diária do acervo: DRE (1.ª Série e cinco tipos da 2.ª) e EUR-Lex (Jornal Oficial) de um
 # intervalo de datas; acórdãos do Tribunal Constitucional e decisões da CNPD novos
 # (do ano anterior e do atual, porque o site publica com atraso); ligação
 # Portugal–UE, validação e relatórios.
@@ -51,6 +51,11 @@ run() {
 
 echo "Atualização de $FROM a $TO"
 run leis-portugal collect dre --from "$FROM" --to "$TO"
+# 2.ª Série: os cinco tipos mais prováveis de ter regras gerais (regulamentos,
+# deliberações, ACT, editais e declarações; ~17 por dia útil em 2026) chegam pelos
+# sitemaps do DRE, não pela lista diária da 1.ª Série. --limit trava a recolha se
+# houver um atraso grande acumulado.
+run leis-portugal collect dre --missing --types regulamento,deliberacao,acordo-coletivo-trabalho,edital,declaracao --limit 300
 run leis-portugal collect eurlex --from "$FROM" --to "$TO" --workers 4
 # O TC e a CNPD não se pesquisam por data de publicação: relê-se a listagem dos
 # anos e recolhe-se só o que ainda não está no acervo.
