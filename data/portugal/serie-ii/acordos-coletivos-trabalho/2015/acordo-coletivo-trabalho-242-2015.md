@@ -1,0 +1,333 @@
+---
+schema_version: '1.0'
+id: pt:dre:72831274:por
+title: Acordo Coletivo de Trabalho n.º 242/2015
+short_title: null
+summary: Acordo coletivo de empregador público celebrado entre a União das Freguesias de Castanheira do Ribatejo e Cachoeiras
+  e o STAL
+jurisdiction: portugal
+territory: null
+document_type: acordo-coletivo-trabalho
+document_type_label: Acordo Coletivo de Trabalho
+issuing_authority:
+- Ministério das Finanças - Direção-Geral da Administração e do Emprego Público
+proposing_entity: null
+official_number: 242/2015
+official_date: null
+publication_date: '2015-12-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 239/2015, Série II de 2015-12-07
+  number: '239'
+  series: II
+  supplement: null
+  pages: 35665 - 35667
+  pdf_url: https://files.diariodarepublica.pt/2s/2015/12/239000000/3566535667.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '72831274'
+  dre_path: /dr/detalhe/acordo-coletivo-trabalho/242-2015-72831274
+  internal: pt:dre:72831274:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/acordo-coletivo-trabalho/242-2015-72831274
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/acordo-coletivo-trabalho/242-2015-72831274
+  consolidated_url: null
+  retrieved_at: '2026-11-13T15:00:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1f8100e371e5c12cb8d0b21674123e8063a211e2e6fe7dda1884a15262f2ed26
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T15:00:58Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acordo Colectivo de Trabalho
+- Administração Pública
+- Junta de Freguesia
+- Sindicato
+- Vila Franca de Xira
+relationships:
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T15:00:58Z'
+  warnings: []
+  errors: []
+---
+
+# Acordo coletivo de trabalho n.º 242/2015
+
+Acordo Coletivo de Entidade Empregadora Pública entre a União de Freguesias de Castanheira do Ribatejo e Cachoeiras e o STAL - Sindicato Nacional dos Trabalhadores da Administração Local e Regional, Empresas Públicas, Concessionárias e Afins.
+
+### Capítulo I — Âmbito e Vigência
+
+Cláusula 1.ª
+
+Âmbito de aplicação
+
+1 - O presente acordo coletivo de entidade empregadora pública, adiante designado por ACEEP, obriga por um lado, União das Freguesias de Castanheira do Ribatejo e Cachoeiras, adiante designado por Entidade Empregadora Pública (EEP) e por outro, a totalidade dos trabalhadores da EEP filiados no STAL - Sindicato Nacional dos Trabalhadores da Administração Local e Regional, Empresas Públicas, Concessionárias e Afins, no momento do início do processo negocial, bem como os que se venham a filiar neste sindicato durante o período de vigência do presente ACEEP.
+
+2 - O presente ACEEP é celebrado ao abrigo do disposto no artigo 343.º n.º 2 do Regime do Contrato de Trabalho em Funções Públicas, adiante designado por RCTFP, aplica-se no âmbito territorial abrangido pela EEP, constituindo um todo orgânico e vinculando, reciprocamente, as partes outorgantes ao seu cumprimento integral.
+
+3 - Para efeitos da alínea g) do artigo 350.º do RCTFP serão abrangidos pelo presente ACEEP, cerca de 20 (vinte) trabalhadores.
+
+Cláusula 2.ª
+
+Vigência, denúncia e revisão
+
+1 - O presente ACEEP entra em vigor cinco dias após a sua publicação e terá uma vigência de 2 anos, renovando-se por iguais períodos.
+
+2 - Sem prejuízo do disposto nos artigos 363.º e seguintes do RCTFP, havendo lugar a denúncia, total ou parcial, as matérias objeto da mesma, ou o ACEEP denunciado, consoante o caso, mantém-se em vigor até serem substituídas.
+
+### Capítulo II — Organização do Tempo de Trabalho
+
+Cláusula 3.ª
+
+Período normal de trabalho
+
+1 - O período normal de trabalho não poderá exceder as trinta e cinco horas em cada semana, nem as sete horas diárias.
+
+2 - Sem prejuízo do disposto noutras disposições deste ACEEP ou no RCTFP, o período normal de trabalho diário será interrompido por um intervalo para refeição ou descanso não inferior a uma nem superior a duas horas, não podendo os trabalhadores prestar mais de cinco horas seguidas de trabalho.
+
+3 - Os dias de descanso semanal são dois, e serão gozados em dias completos e sucessivos, nos termos seguintes:
+
+a) Sábado e domingo; ou
+
+b) Domingo e segunda-feira; ou
+
+c) Sexta-feira e sábado;
+
+d) Outros, necessariamente consecutivos, em situações de contratos a tempo parcial cuja duração do horário semanal não seja superior a 25 horas.
+
+4 - Nos casos das alíneas a) e b) do número anterior, o dia de descanso semanal obrigatório é o Domingo, sendo que no caso da alínea c) o descanso obrigatório é o Sábado.
+
+5 - Para os trabalhadores da área administrativa que na sua atividade não tenham relação direta com o público, os dias de descanso semanal serão o sábado e o domingo.
+
+6 - Os trabalhadores que efetuem trabalho aos fins de semana têm direito a gozar como dias de descanso semanal, pelo menos, um fim de semana completo em cada mês de trabalho efetivo.
+
+7 - Os trabalhadores que efetuem trabalho ao Domingo, têm direito a gozar como dia de descanso semanal obrigatório, um Domingo de descanso por cada dois Domingos de trabalho efetivo.
+
+Cláusula 4.ª
+
+Horário de trabalho
+
+1 - Entende-se por horário de trabalho a determinação das horas do início e do termo do período de trabalho diário normal, bem como dos intervalos de descanso diários.
+
+2 - Compete à EEP estabelecer os horários de trabalho aplicáveis a cada um dos seus serviços e respetivos trabalhadores, por intermédio de negociação direta com a organização sindical.
+
+3 - Excetua-se do disposto no número anterior a alteração do horário de trabalho cuja duração não exceda uma semana, não podendo a EEP recorrer a este regime mais de três vezes por ano, desde que seja registada em livro próprio e sujeita a parecer prévio da comissão sindical, salvo casos excecionais e devidamente fundamentados em que não seja possível este parecer prévio, casos em que a consulta à comissão sindical deverá ser feita assim que possível.
+
+4 - Sem prejuízo do disposto nos n.º 2 e 3 desta cláusula, se pela EEP ou pelo trabalhador surgirem situações pontuais, e desde que devidamente fundamentadas, que necessitem de ajustamentos relativos ao horário de trabalho, poderá este ser alterado, desde que exista acordo prévio por escrito entre as partes, e comunicação à organização sindical
+
+5 - A EEP está obrigada a afixar o mapa do horário em local bem visível.
+
+6 - Qualquer alteração que implique um acréscimo de despesas para os trabalhadores, e desde que devidamente justificadas, conferem aos mesmos o direito a compensação económica.
+
+7 - Havendo na EEP trabalhadores que pertençam ao mesmo agregado familiar, a organização do horário de trabalho tomará sempre esse facto em conta, procurando assegurar a prática de horários compatíveis com a vida familiar.
+
+Cláusula 5.ª
+
+Modalidades de horário de trabalho
+
+Sem prejuízo do disposto nas cláusulas anteriores, os regimes próprios de horário previstos neste ACEEP são organizados nas seguintes modalidades de horário de trabalho:
+
+a) Horário Rígido, incluindo a modalidade de horários desfasados;
+
+b) Jornada Contínua;
+
+c) Horário Flexível;
+
+d) Isenção de Horário.
+
+Cláusula 6.ª
+
+Horário rígido
+
+1 - A modalidade de horário rígido, consiste naquela, ou naquelas que, exigindo o cumprimento da duração semanal de trabalho, se reparte por dois períodos diários, com hora de entrada e de saída fixas, separadas por um intervalo de descanso.
+
+2 - Para efeitos da parte final da alínea a) do n.º 1 da cláusula anterior, horários desfasados são aqueles que, mantendo inalterado o período normal de trabalho diário, permitem estabelecer, serviço a serviço ou para determinado grupo ou grupos de trabalhadores, horas fixas diferentes de entrada e de saída.
+
+Cláusula 7.ª
+
+Jornada contínua
+
+1 - A modalidade de jornada contínua, consiste na prestação ininterrupta de trabalho, salvo um período de descanso de trinta minutos, obrigatoriamente gozado por forma a que cada trabalhador não preste mais de cinco horas consecutivas de trabalho.
+
+2 - O tempo de pausa conta, para todos os devidos efeitos, como tempo de trabalho efetivo.
+
+3 - A jornada contínua deve ocupar predominantemente um dos períodos do dia e determina uma redução de uma hora de trabalho ao período normal diário de trabalho estipulado nos termos do disposto na Cláusula 3.ª deste ACEEP (Período Normal de Trabalho).
+
+4 - A jornada contínua será atribuída, mediante requerimento do trabalhador, nos seguintes casos:
+
+a) Trabalhador progenitor com filhos até à idade de doze anos, ou, independentemente da idade, com deficiência ou doença crónica;
+
+b) Trabalhador adotante, nas mesmas condições dos trabalhadores progenitores;
+
+c) Trabalhador que, substituindo-se aos progenitores, tenha a seu cargo neto com idade inferior a 12 anos;
+
+d) Trabalhador adotante, ou tutor, ou pessoa a quem foi deferida a confiança judicial ou administrativa do menor, bem como o cônjuge ou a pessoa em união de facto com qualquer daqueles ou com progenitor, desde que viva em comunhão de mesa e habitação com o menor;
+
+e)Trabalhador estudante.
+
+5 - Pode ainda ser requerida pelo trabalhador ou autorizada pelo responsável máximo do serviço, nos seguintes casos:
+
+a) No interesse do trabalhador, sempre que outras circunstâncias relevantes, devidamente fundamentadas, o justifiquem;
+
+b) No interesse do serviço, quando devidamente fundamentado.
+
+Cláusula 8.ª
+
+Horário flexível
+
+1 - A modalidade de horário flexível consiste naquele que permite aos trabalhadores de um determinado serviço gerir os seus tempos de trabalho e a sua disponibilidade, escolhendo as horas de entrada e de saída, sem prejuízo do cumprimento do período normal de trabalho estipulado e das plataformas fixas, nos termos estabelecidos na presente cláusula.
+
+2 - Para efeitos do presente ACEEP, consideram-se:
+
+a) Plataformas fixas - os períodos diários de presença obrigatória;
+
+b) Plataformas móveis - os períodos diários de presença não obrigatória.
+
+3 - As plataformas fixas são as seguintes:
+
+a) Período da manha - das 9 horas e 30 minutos às 12 horas;
+
+b) Período da tarde - das 14 horas e trinta minutos às 17 horas.
+
+4 - Na modalidade de horário flexível a prestação laboral pode ser efetuada entre as 8 horas e 30 minutos e as 19 horas, com estrita obediência aos dois períodos de presença obrigatória constantes das plataformas fixas a que se referem o número precedente.
+
+5 - A adoção e prática de qualquer horário de trabalho flexível está sujeita às regras seguintes:
+
+a) A flexibilidade não pode afetar, em caso algum, o regular e eficaz funcionamento dos serviços, especialmente no que respeita às relações com o público;
+
+b) Não podem ser prestadas por dia mais de nove horas de trabalho;
+
+c) Não podem ser prestadas, por dia, mais de cinco horas de trabalho consecutivas;
+
+d) O período mínimo de intervalo de descanso diário entre o fim da primeira plataforma fixa e o início da segunda é de uma hora;
+
+e) O cumprimento da duração de trabalho deve ser aferido por referência ao período de um mês.
+
+6 - Verificando-se a existência de um excesso ou crédito de horas no final de cada um dos períodos de aferição, o mencionado excesso ou crédito de horas transita para o período de aferição imediatamente seguinte, sendo gozado no referido período de aferição imediatamente subsequente, até ao limite máximo do período igual à duração média diária do trabalho.
+
+7 - O débito de horas, apurado no final de cada período de aferição, dá lugar a marcação de uma falta, a qual deve ser justificada nos termos da legislação aplicável, por cada período igual ou inferior à duração média diária do trabalho.
+
+8 - A marcação das faltas a que se refere o número antecedente reporta-se ao último dia, ou dias, do período de aferição a que o débito respeita.
+
+9 - Relativamente aos trabalhadores portadores de deficiência, o excesso ou débito de horas apurado no final de cada um dos períodos de aferição pode ser transportado para o período de aferição imediatamente seguinte e nele gozado ou compensado, desde que não ultrapasse o limite de 10 horas para o mês.
+
+10 - Para efeitos do disposto nos números anteriores, a duração média do trabalho diário é de sete horas e, nos serviços com funcionamento aos sábados, o que resultar do respetivo regulamento administrativo municipal interno de duração, horários de trabalho e controlo de assiduidade e pontualidade, o qual será elaborado e aprovado pela entidade empregadora pública, mediante consulta prévia à associação sindical subscritora do presente ACEEP.
+
+11 - Os trabalhadores sujeitos ao cumprimento de horário flexível, em contrapartida do direito de gestão individual do respetivo horário de trabalho, estão obrigados a:
+
+a) Cumprir as tarefas programadas e em curso, dentro dos prazos superiormente fixados, não podendo, em todo caso, a flexibilidade ditada pelas plataformas móveis originar, em caso algum, a inexistência de pessoal que assegure o normal funcionamento dos serviços;
+
+b) Assegurar a realização e a continuidade de tarefas urgentes, o atendimento ao público e os contactos ou reuniões de trabalho, mesmo que tal se prolongue para além dos períodos de presença obrigatória.
+
+Cláusula 9.ª
+
+Isenção de horário
+
+1 - A modalidade de isenção de horário aplica-se a trabalhadores cujas funções profissionais, pela sua natureza, tenham de ser efetuadas fora dos limites dos horários normais de trabalho, ou que sejam regularmente exercidas fora do estabelecimento onde o trabalhador está colocado, dependendo de acordo entre a EEP e o trabalhador, com respeito pelo disposto nesta cláusula e demais disposições, legais e constantes deste ACEEP, em vigor.
+
+2 - Os trabalhadores isentos de horário de trabalho, não estão sujeitos aos limites máximos dos períodos normais de trabalho, mas a isenção não prejudica o direito aos dias de descanso semanal, aos feriados obrigatórios e ao pagamento do trabalho suplementar nos termos do disposto nas disposições legais em vigor.
+
+3 - O disposto nesta cláusula não isenta o trabalhador do dever de assiduidade, sem prejuízo da aplicação de especiais regras da sua verificação quando o trabalho tenha que ser realizado fora do estabelecimento onde o trabalhador está colocado.
+
+4 - O trabalho prestado em dia de descanso semanal ou feriado será pago como trabalho extraordinário nos termos do artigo 212.º n.º 3 do RCTFP.
+
+Cláusula 10.ª
+
+Trabalho noturno
+
+Considera-se trabalho em período noturno, o trabalho realizado entre as 20 horas de um dia e as 7 horas do dia seguinte.
+
+Cláusula 11.ª
+
+Limites do trabalho extraordinário
+
+1 - Ao abrigo do disposto no n.º 3 do artigo 161.º do RCTFP o trabalho extraordinário efetuado ao abrigo do disposto no n.º 1 do artigo 160.º do RCTFP fica sujeito ao limite de 200 horas por ano.
+
+2 - O limite fixado no n.º anterior pode ser ultrapassado, nos termos previstos na lei, desde que não implique uma remuneração por trabalho extraordinário superior a 60 % da remuneração base.
+
+3 - Os dirigentes dos serviços ficam obrigados a preencher o mapa de registo de horas por trabalho extraordinário, antes e depois do mesmo ter sido prestado, devendo o trabalhador abrangido pela prestação do trabalho extraordinário apor o correspondente visto imediatamente a seguir à sua efetiva prestação, salvo quando o registo tenha sido efetuado pelo próprio trabalhador.
+
+4 - O mapa referido no número anterior deve conter os fundamentos do recurso ao trabalho extraordinário nos termos do disposto no artigo 160.º do RCTFP, bem como os períodos de descanso compensatório gozados ou a gozar pelo trabalhador, nos termos da legislação em vigor.
+
+### Capítulo III — Disposições Finais
+
+Cláusula 12.ª
+
+Divulgação Obrigatória
+
+Este ACEEP é de conhecimento obrigatório de todos quantos exercem atividades na EEP, pelo que deve ser distribuído um exemplar a cada trabalhador.
+
+Cláusula 13.ª
+
+Procedimento Culposo
+
+A violação das normas previstas neste ACEEP é passível de procedimento disciplinar, nos termos da legislação aplicável.
+
+Cláusula 14.ª
+
+Resolução de Conflitos Coletivos
+
+1 - As partes adotam, na resolução dos conflitos coletivos emergentes do presente ACEEP, os meios e termos legalmente previstos de conciliação, mediação e arbitragem.
+
+2 - As partes comprometem-se a usar de boa fé na condução e participação nas diligências de resolução de conflitos coletivos, designando com prontidão os representantes e comparecendo em todas as reuniões que para o efeito forem marcadas.
+
+Castanheira do Ribatejo, 14 de fevereiro de 2014.
+
+Pelo Empregador Público:
+
+Pela União de Freguesias de Castanheira do Ribatejo e Cachoeiras
+
+Luís Miguel Silva de Almeida, na qualidade de Presidente da União das Freguesias de Castanheira do Ribatejo e Cachoeiras.
+
+Pela Associação Sindical
+
+Pelo STAL - Sindicato Nacional dos Trabalhadores da Administração Local e Regional, Empresas Públicas, Concessionárias e Afins:
+
+Isabel Maria Gabriel Rosa Amor, na qualidade de Membro da Direção Nacional e Mandatário por efeito do disposto do artigo 48.º dos Estatutos do STAL, publicados no Boletim do Trabalho e Emprego, 1.ª série, n.º 3 de 22 de janeiro de 2014.
+
+Frederico Nuno Silva Vilas Santos Simões, na qualidade de Membro da Direção Nacional e Mandatário, por efeito do disposto do artigo 48.º dos Estatutos do STAL, publicados no Boletim do Trabalho e Emprego, 1.ª série, n.º 3 de 22 de janeiro de 2014.
+
+Depositado em 12 de novembro de 2015, ao abrigo do artigo 368.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, sob o n.º 241/2015, a fls. 66 do Livro n.º 1.
+
+12 de novembro de 2015. - A Diretora-Geral, Joana Ramos.
+
+209142498
