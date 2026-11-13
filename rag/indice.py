@@ -95,6 +95,15 @@ def rotulo(doc: Documento, parte: str, numero: str, epigrafe: str) -> str:
     return " › ".join(partes)
 
 
+def textos_fts(titulo: str, sumario: str, parte: str, epigrafe: str, texto: str) -> tuple[str, str]:
+    """Os termos de um pedaço na tabela de pesquisa (cabeçalho e texto).
+
+    A tabela é sem conteúdo (`content=''`): para apagar um pedaço é preciso dar-lhe os mesmos termos
+    com que entrou. Por isso a construção (`construir`) e os deltas (`rag.dados`) usam esta função."""
+    cabecalho = f"{titulo} {sumario[:300]} {parte} {epigrafe}"
+    return " ".join(termos_mod.termos(cabecalho)), " ".join(termos_mod.termos(texto))
+
+
 def _blocos(texto: str) -> Iterator[str]:
     """Texto sem artigos identificados, em blocos de ~300 palavras que acabam num parágrafo."""
     atual: list[str] = []
@@ -235,13 +244,11 @@ def construir(saida: Path, documentos: list[Documento], export: Path, *, fios: i
                     "INSERT INTO relacoes VALUES (?, 'texto_em_vigor_em', ?, ?, NULL)", [(doc.id, alvo, titulos.get(alvo, alvo)) for alvo in em_vigor_em]
                 )
                 linhas, fts = [], []
-                cabecalho_doc = f"{doc.titulo} {doc.sumario[:300]}"
                 for ordem, p in enumerate(pedacos):
                     texto = p.texto[:MAX_CARACTERES]
                     linhas.append((proximo_id, doc.id, p.parte, p.numero, p.epigrafe, p.chave, rotulo(doc, p.parte, p.numero, p.epigrafe),
                                    texto, p.notas, p.desde, p.ate, ordem))
-                    cabecalho = f"{cabecalho_doc} {p.parte} {p.epigrafe}"
-                    fts.append((proximo_id, " ".join(termos_mod.termos(cabecalho)), " ".join(termos_mod.termos(texto))))
+                    fts.append((proximo_id, *textos_fts(doc.titulo, doc.sumario, p.parte, p.epigrafe, texto)))
                     proximo_id += 1
                 con.executemany("INSERT INTO pedacos VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", linhas)
                 con.executemany("INSERT INTO pedacos_fts (rowid, cabecalho, texto) VALUES (?, ?, ?)", fts)
