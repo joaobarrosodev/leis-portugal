@@ -1,0 +1,5229 @@
+---
+schema_version: '1.0'
+id: pt:dre:2847623:por
+title: Edital n.º 279/2006 (2.ª série) - AP
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Câmara Municipal da Sertã
+proposing_entity: null
+official_number: 279/2006 (2.ª série) - AP
+official_date: null
+publication_date: '2006-06-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/2006, Apêndice 52/2006, Série II de 2006-06-05
+  number: '108'
+  series: II
+  supplement: null
+  pages: 9 - 56
+  pdf_url: https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2847623'
+  dre_path: /dr/detalhe/edital/279-2006-2847623
+  internal: pt:dre:2847623:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/279-2006-2847623
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/279-2006-2847623
+  consolidated_url: null
+  retrieved_at: '2026-11-12T22:41:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 529c40626d69915493e0d8ec616c5e678e6655d58ce18a68950be52ee505e59f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T22:41:57Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:176339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689635:por
+  label: null
+  source: null
+article_structure:
+  article_count: 211
+  section_count: 50
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T22:41:57Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 279/2006 (2.ª série) - AP
+
+Edital n.º 279/2006 (2.ª série) - AP. - Projecto de regulamento municipal de edificações e urbanização (RMEU). - Dr. José Paulo Barata Farinha, presidente da Câmara Municipal da Sertã, torna público, de harmonia com a deliberação de Câmara tomada em reunião ordinária realizada no passado dia 9 de Março e nos termos do disposto no artigo 118.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, que, a partir da publicação do presente edital no Diário da República e pelo prazo de 30 dias, irá decorrer inquérito público para recolha de sugestões sobre o projecto de regulamento acima indicado.
+
+O projecto de regulamento, publicado em anexo, poderá ser consultado nas juntas de freguesia do município da Sertã e na Divisão de Obras e Serviços Urbanos, todos os dias úteis, durante o horário de expediente.
+
+Para constar e devidos efeitos se passou o presente edital e outros de igual teor, que vão ser afixados nos lugares do costume.
+
+3 de Maio de 2006. - O Presidente da Câmara, Paulo Farinha.
+
+Proposta de regulamento municipal da edificação e urbanização (RMEU) sobre taxas e compensações urbanísticas para o município da Sertã.
+
+Preâmbulo
+
+O novo regime jurídico da urbanização e edificação, estabelecido pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, alterado pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Junho, prevê, no artigo 3.º, que os municípios aprovem regulamentos municipais de urbanização e de edificação, bem como regulamentos relativos ao lançamento e liquidação de taxas que, nos termos da lei, sejam devidas pela realização de operações urbanísticas.
+
+Tendo presente a experiência adquirida com a aplicação do referido regime jurídico, consideram-se como objectivos a alcançar com o presente Regulamento:
+
+- Regulamentar as matérias que obrigatoriamente são impostas pelo diploma base e aquelas cuja regulamentação se impõe com vista a contribuir para uma ocupação ordenada e qualificada do território, complementando os Planos Municipais de Ordenamento do Território em vigor, através do enquadramento urbanístico, arquitectónico e técnico-construtivo das diversas operações urbanísticas;
+
+- Clarificar e tornar mais transparentes os critérios de análise dos projectos e mais célere a sua apreciação por parte dos serviços municipais;
+
+- Sistematizar um conjunto de procedimentos técnicos e administrativos relativos às operações urbanísticas promovidas por particulares, permitindo a modernização dos serviços administrativos, com vista ao melhoramento da prestação do serviço ao munícipe, no domínio da urbanização e da edificação;
+
+- Clarificar os deveres dos técnicos e promotores no que se refere à execução e acompanhamento das operações urbanísticas, incluindo a conservação e respeito pelo espaço público e consequente compreensão das funções da Fiscalização Municipal;
+
+- Garantir uma justa comparticipação no financiamento da construção da infra-estrutura pública.
+
+Para o efeito, o Regulamento é organizado em seis títulos, dos quais se destacam as Normas Técnicas, os Procedimentos e as Taxas e Compensações.
+
+As "Normas Técnicas" integram princípios para a urbanização e edificação, bem como regras urbanísticas e construtivas a ser seguidas nos projectos de arquitectura e urbanização, com especial incidência no dimensionamento do espaço público e do estacionamento.
+
+Parte-se de um conjunto de definições, que complementam as existentes no Regulamento do Plano Director Municipal e clarificam alguns conceitos aí utilizados e na comunicação diária entre os técnicos municipais e projectistas.
+
+De acordo com a legislação em vigor, são definidas:
+
+- As operações urbanísticas que devem configurar um impacte semelhante a loteamento, ficando sujeitas às mesmas regras que os loteamentos no que se refere à previsão e, ou, criação de áreas para espaços verdes e de utilização colectiva, infra-estruturas e equipamentos;
+
+- As obras de escassa relevância urbanística, cuja realização fica apenas obrigada à comunicação previa.
+
+Estabelecem-se regras sobre:
+
+- A qualidade e dimensão dos espaços de cedência, a fim de evitar que áreas fragmentadas ou com acesso deficiente possam passar para o domínio municipal;
+
+- O dimensionamento do espaço público;
+
+- A colocação de infra-estruturas de suporte de radiotelecomunicações;
+
+- A ocupação do espaço público por motivo de obras, por se considerar urgente disciplinar este tipo de intervenções, já que se assiste ao desrespeito sistemático da propriedade pública e das normas mínimas de segurança de trânsito pedonal e viário.
+
+Para definição das regras relativas a acessibilidade e estacionamento, atende-se:
+
+- Aos níveis globais de acessibilidade das zonas, garantidos pelos diferentes modos de transporte disponíveis ou planeados;
+
+- Às características fundamentais dos espaços urbanos, no que se refere à topologia dos espaços e ao modo e qualidade de vida desejados.
+
+Para tanto:
+
+- Estabelecem-se índices mínimos de estacionamento que variam com o uso previsto para a operação urbanística.
+
+- Definem-se as situações em que é obrigatória a apresentação de estudos específicos de condições de acessibilidade e estacionamento;
+
+- Incluem-se normas de dimensionamento para o desenho dos estacionamentos e respectivos acessos, capazes de garantir níveis de qualidade adequados.
+
+O Título "Procedimentos" define as operações urbanísticas sujeitas a comunicação prévia e integra normas relativas à instrução dos processos em cada tipo de controlo prévio, remetendo para o Anexo I ao presente Regulamento, do qual faz parte integrante, a enumeração dos elementos instrutores de cada tipo de pedido.
+
+Este título contempla ainda normas relativas à toponímia e às obrigações dos técnicos projectistas e responsáveis pela direcção das obras.
+
+No Título "Taxas e Compensações" são definidos, de acordo com os princípios da igualdade e equidade, valores correspondentes à remoção do limite legal à possibilidade de construir ou urbanizar, à compensação das desigualdades geradas pelos Planos Municipais de Ordenamento do Território quando consagram diferentes usos do solo, às comparticipações no custo da apreciação técnico-administrativa dos processos e ao esforço financeiro municipal na construção de infra-estruturas e equipamentos.
+
+No Título V são reguladas as funções da Fiscalização através da definição das suas competências e deveres.
+
+Deste modo, dá-se um forte contributo para a eficácia e simplificação administrativa pela existência de normas, procedimentos e responsabilidades claras e reconhecidas de todas as partes intervenientes na urbanização e edificação - promotores, projectistas e administração municipal, para as quais se conta com a colaboração de todos e no respeito dos deveres e direitos de cada interveniente, afim de promover a qualidade de vida que os munícipes da Sertã querem alcançar.
+
+## TÍTULO I — Objecto e âmbito
+
+###### Artigo 1.º — Lei habilitante
+
+Nos termos do disposto no artigo 241.º da Constituição da República Portuguesa, no uso da competência conferida pela alínea a) do n.º 2 do artigo 53.º e alínea a) do n.º 6 do artigo 64.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, o presente Regulamento é elaborado ao abrigo do disposto no n.º 1 do artigo 3.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, alterado pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Junho e pela [Lei n.º 15/2002](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920) de 22 de Fevereiro (RJUE), do Regulamento Geral de Edificações Urbanas, aprovado pelo [Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de Agosto de 1951 (RGEU), do [Decreto-Lei n.º 292/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1995-689635), de 14 de Novembro, da [Lei n.º 42/98](https://diariodarepublica.pt/dr/detalhe/lei/42-1998-435422), de 6 de Agosto, do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, alterado pelo [Decreto-Lei n.º 115/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2001-362688), de 7 de Abril, [Decreto-Lei n.º 53/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2000-494840) de 7 de Abril e [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro, [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de Setembro (LBPC), [Decreto-Lei n.º 11/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2003-176339), de 18 de Janeiro, [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), de 10 de Fevereiro e [Decreto-Lei n.º 68/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2004-211028), de 25 de Março.
+
+###### Artigo 2.º — Objecto e âmbito de aplicação
+
+1 - O presente Regulamento tem por objecto a fixação de regras relativas:
+
+a) À urbanização e edificação, complementares dos Planos Municipais de Ordenamento do Território e demais legislação em vigor, designadamente em termos da defesa do meio ambiente, da qualificação do espaço público, da estética, salubridade e segurança das edificações;
+
+b) Às competências dos técnicos e actividade fiscalizadora;
+
+c) Às cedências de terrenos e compensações devidas ao Município da Sertã;
+
+d) Às taxas devidas pela concessão de licenças ou autorizações e emissão dos respectivos alvarás, pela realização, manutenção e reforço de infra-estruturas;
+
+e) Às taxas devidas pela prestação de serviços administrativos e outras situações conexas com a área da administração urbanística.
+
+2 - O presente Regulamento aplica-se à totalidade do território do Município da Sertã, sem prejuízo da legislação em vigor nesta matéria e do disposto nos Planos Municipais de Ordenamento do Território, plenamente eficazes e de outros regulamentos de âmbito especial.
+
+## TÍTULO II — NORMAS TÉCNICAS
+
+### CAPÍTULO I — Disposições gerais e casos especiais
+
+#### SECÇÃO I — Definições e regras gerais
+
+###### Artigo 3.º — Definições
+
+1 - Para efeitos do presente Regulamento e visando a uniformização do vocabulário urbanístico em todos os documentos que regulem a actividade urbanística do município, são consideradas as seguintes definições:
+
+a) Alinhamento: linha que em planta separa uma via pública dos edifícios existentes ou previstos ou dos terrenos contíguos, e que é definida pela intersecção dos planos verticais das fachadas, muros ou vedações, com o plano horizontal dos arruamentos adjacentes;
+
+b) Alpendre: zona exterior coberta, delimitada por pilares, directamente ligada à construção principal;
+
+c) Andar recuado - Recuo do espaço coberto de um piso ou andar (geralmente o último) de um edifício, relativamente ao plano da fachada, pode ser consequência da determinação da sua altura por aplicação da regra da cércea;
+
+d) Anexo: dependência coberta de um só piso e com pé direito máximo de 3,00 m, medido no ponto mais desfavorável, se a cobertura for inclinada, não incorporada no edifício principal e entendida como complemento funcional deste, destinado a estacionamento, arrumos ou actividades;
+
+e) Área bruta de construção (Abc): o somatório das áreas brutas de pavimentos, expressa em m2, de todos os edifícios que existem ou podem ser realizados no(s) prédio(s), com exclusão de:
+
+I - Terraços descobertos;
+
+II - Galerias exteriores de utilização pública;
+
+III - Sótão afecto ao fogo ou a actividade económica sem pé-direito regulamentar para fins habitacionais;
+
+IV - Estacionamentos em cave afectos aos fogos ou actividades económicas, incluindo as áreas de acesso;
+
+V - Áreas técnicas abaixo do solo (PT, central térmica, compartimentos de recolha de lixo, casa das máquinas dos elevadores, depósitos de água e central de bombagem, entre outras);
+
+f) Área de impermeabilização (Ai): soma da área bruta de implantação mais a área resultante dos solos pavimentados com materiais impermeáveis ou que propiciem o mesmo efeito, incluindo as caves para além da área de implantação, expressa em m2;
+
+g) Área bruta de implantação (Abi): Valor numérico, expresso em metros quadrados (m2), do somatório das áreas resultantes da projecção no plano horizontal de todos os edifícios (residenciais ou não residenciais), incluindo anexos, mas excluindo varandas e platibandas;
+
+h) Área bruta de pavimento (Abp): É a área por piso, delimitada pelas paredes exteriores incluindo a espessura das mesmas, adicionada à área das varandas;
+
+i) Áreas comuns do edifício: as áreas de pavimentos cobertos e logradouros, expressas em metros quadrados (m2), correspondentes a átrios e espaços de comunicação horizontal e vertical dos edifícios, com estatuto de parte comum em regime de propriedade horizontal ou aptos a esse estatuto, medidas pela meação das paredes;
+
+j) Área média do fogo: Área resultante do quociente entre a área total de construção para habitação e o número de fogos previsto para uma determinada área;
+
+k) Balanço - É a medida de qualquer saliência tomada para além dos planos da fachada dados pelos alinhamentos propostos para o local;
+
+l) Cave: Espaço enterrado ou semienterrado, coberto por laje, em que as diferenças entre a cota do plano inferior dessa laje e as cotas de qualquer arruamento que sirva o terreno ou do espaço exterior mais próximo sejam cumulativamente:
+
+I - Iguais ou inferiores a 50 cm, no ponto médio da fachada principal do edifício, ou outra desde que confinante com a via pública.
+
+II - Iguais ou inferiores a 120 cm medido no ponto médio das fachadas exteriores não confinantes com a via pública, podendo uma delas ficar completamente desafogada.
+
+m) Cércea - Dimensão vertical da construção, medida a partir do ponto de cota média do terreno marginal ao alinhamento da fachada até à linha superior do beirado, platibanda ou guarda do terraço, incluindo andares recuados, mas excluindo acessórios: chaminés, casa de máquinas de ascensores, depósito de água, etc.;
+
+n) Coeficiente de Ocupação do Solo (COS) - É o quociente entre a área bruta de implantação e a superfície em referência onde se pretende aplicar de forma homogénea o coeficiente, expresso em metros quadrados (m2);
+
+o) Corpo balançado: elemento saliente e em balanço relativamente às fachadas de um edifício;
+
+p) Cota de soleira: a demarcação altimétrica do nível do pavimento da entrada principal do edifício, que deve ser como tal identificada quando o edifício se situar entre dois arruamentos a diferentes níveis e com entradas por ambos;
+
+q) Densidade bruta - É o quociente entre o número de fogos edificados ou susceptíveis de edificação e a superfície em referência onde se pretende aplicar de forma homogénea a densidade, expresso em fogos por hectare (fogos/ha);
+
+r) Edificabilidade (do prédio): área bruta de construção que é possível realizar, expresso em m², reconhecido em licença ou autorização administrativa;
+
+s) Edificação - A actividade ou o resultado da construção, reconstrução, ampliação, alteração ou conservação de um imóvel destinado a utilização humana, bem como de qualquer outra construção que se incorpore no solo com carácter de permanência (presume-se carácter de permanência quando se acharem assentes no mesmo local por um período superior a um ano e quando afectos a fins não transitórios);
+
+t) Edifício - Construção autónoma que compreende uma ou várias unidades, coberta, limitada ou não por paredes exteriores e destinada a uma ou várias utilizações específicas;
+
+u) Eixo da estrada - a linha de separação dos dois sentidos do trânsito ou, no caso de existir separador, a linha que divide ao meio, ou ainda, no caso dos ramos dos nós de acesso de ligação entre estradas não nacionais, a linha que divide ao meio a faixa ou faixas de rodagem que constituem o ramo do nó;
+
+v) Equipamentos - São áreas e edificações destinadas à prestação de serviços à colectividade (nomeadamente saúde, educação, assistência social, segurança, protecção civil), à prestação de serviços de carácter económico (matadouros, feiras, etc.) e à prática, pela colectividade, de actividades culturais, de desporto e de recreio e lazer;
+
+w) Espaço e via privada de uso público: Áreas do domínio privado da propriedade abertas à presença e circulação pública de pessoas e/ou veículos;
+
+x) Espaço e via públicos: Área do domínio público destinada à presença e circulação de pessoas e/ou veículos;
+
+y) Fogo - É uma unidade destinada à instalação da função habitacional, constituindo uma unidade de utilização;
+
+z) Frente urbana: A superfície em projecção no plano vertical definida pelo conjunto das fachadas dos edifícios confinantes com uma dada via pública ou compreendida entre duas vias públicas sucessivas que nela concorrem;
+
+aa) Índice de Utilização do Solo (IUS) - É o quociente entre a área bruta de construção e a superfície em referência onde se pretende aplicar de forma homogénea o índice;
+
+bb) Infra-estruturas locais: As que se inserem dentro da área objecto da operação urbanística e decorrem directamente desta;
+
+cc) Infra-estruturas de ligação - As que estabelecem a ligação entre as infra-estruturas locais e as gerais;
+
+dd) Infra-estruturas gerais: as que tendo um carácter estruturante ou estejam previstas em Plano Municipal de Ordenamento do Território (PMOT), servem ou visam servir mais que uma operação urbanística, sendo da responsabilidade da autarquia ou do promotor, se se mostrarem necessárias para a viabilização das operações urbanísticas envolvidas;
+
+ee) Logradouro: área de terreno livre de um lote, ou parcela, adjacente à(s) construção(s) nele implantada(s) e que, funcionalmente se encontra conexa com ele, servindo de jardim, quintal, pátio ou estacionamento;
+
+ff) Lote: área de terreno resultante de uma operação de loteamento licenciada nos termos da legislação em vigor;
+
+gg) Obras de construção - As obras de criação de novas edificações;
+
+hh) Obras de reconstrução - As obras de construção subsequentes à demolição total ou parcial de uma edificação existente, das quais resulte a manutenção ou a reconstituição da estrutura das fachadas, da cércea e do número de pisos;
+
+ii) Obras de ampliação - As obras de que resulte o aumento da área de pavimento ou de implantação, da cércea, ou do volume de uma edificação existente;
+
+jj) Obras de alteração - as obras de que resulte a modificação das características físicas de uma edificação existente ou sua fracção, designadamente a respectiva estrutura resistente, o número de fogos ou divisões interiores, ou a natureza e cor dos materiais de revestimento exterior, sem aumento da área de pavimento ou de implantação ou da cércea;
+
+kk) Obras de conservação - As obras destinadas a manter uma edificação nas condições existente à data da sua construção, reconstrução, ampliação ou alteração, designadamente as obras de restauro, reparação ou limpeza;
+
+ll) Obras de demolição - as obras de destruição total ou parcial, de uma edificação existente;
+
+mm) Obras de urbanização - As obras de criação e remodelação de infra-estruturas destinadas a servir directamente os espaços urbanos ou as edificações, designadamente arruamentos viários e pedonais, rede de esgotos e de abastecimento de água, electricidade, gás e telecomunicações, e ainda espaços verdes e outros espaços de utilização colectiva;
+
+nn) Operações de loteamento - As acções que tenham por objecto ou por efeito a constituição de um ou mais lotes destinados imediata ou subsequentemente à edificação urbana, e que resulte da divisão de um ou vários prédios, ou do seu emparcelamento, ou reparcelamento;
+
+oo) Operações urbanísticas - As operações materiais de urbanização, de edificação ou de utilização do solo e das edificações nele implantadas para fins não exclusivamente agrícolas, pecuários, florestais, mineiros ou de abastecimento público de água;
+
+pp) Parcela - Prédio correspondente a uma unidade cadastral não resultante de uma operação de loteamento ou que por força da operação de loteamento não se destina à edificação urbana;
+
+qq) Perímetro urbano - É a linha que delimita exteriormente o aglomerado urbano de acordo com PMOT eficaz;
+
+rr) Plataforma da estrada - o conjunto constituído pela faixa de rodagem e pelas bermas;
+
+ss) Polígono base de implantação - perímetro que demarca a área na qual pode(m) ser implantado(s) o(s) edifício(s) num dado prédio e envolvente da projecção no plano horizontal dos pisos acima da cota da soleira;
+
+tt) Prédio - Unidade de propriedade fundiária, na titularidade de uma pessoa singular ou colectiva, ou em regime de compropriedade, podendo classificar-se como urbano, rústico ou misto e, eventualmente, a sujeitar a operação urbanística;
+
+uu) Rés-do-Chão - Pavimento de um edifício imediatamente acima da cota de soleira;
+
+vv) Sótão - Aproveitamento do vão do telhado, para determinado uso;
+
+ww) Terraço - Pavimento descoberto sobre edifício ou nível de andar, com ligação aos espaços interiores do edifício, podendo funcionar como prolongamento dos espaços cobertos;
+
+xx) Trabalhos de Remodelação dos Terrenos - As operações urbanísticas não compreendidas na edificação, obras de construção, obras de reconstrução, obras de ampliação, obras de alteração, obras de conservação, obras de demolição e obras de urbanização, que impliquem a destruição do revestimento vegetal, alteração do relevo natural e das camadas de solo arável ou o derrube de árvores de alto porte ou em maciço para fins não exclusivamente agrícolas, pecuários, florestais ou mineiros;
+
+yy) Unidade comercial de dimensão relevante (UCDR) - Estabelecimento, considerado individualmente ou no quadro de um conjunto pertencente a uma mesma empresa ou grupo, em que se exerça a actividade comercial e relativamente ao qual se verificam as condições estabelecidas no n.º 1 do artigo 4.º do [Decreto-Lei n.º 218/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1997-195799) de 20 de Agosto;
+
+zz) Unidade funcional - Cada um dos espaços autónomos de um edifício, associados a um determinado uso;
+
+aaa) Uso - Funções ou actividades específicas e autónomas que se desenvolvem num edifício;
+
+bbb) Volume de construção (V) - O espaço acima do solo correspondente a todos os edifícios que existem ou podem ser realizados no prédio, exceptuando elementos ou saliências com fins exclusivamente decorativos, ou estritamente destinados a instalações técnicas e chaminés, mas incluindo o volume da cobertura, expresso em metros cúbicos (m3);
+
+ccc) Zona da estrada - o solo ocupado pela estrada, abrangendo a faixa de rodagem, as bermas, as pontes e os viadutos nela incorporados e, quando existam, as valetas, os passeios, as banquetas e os taludes.
+
+2 - Todo o restante vocabulário urbanístico não definido no presente regulamento tem o significado que lhe é atribuído no artigo 2.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, com a nova redacção dada pelo Decreto-Lei n.º 177/01, de 4 de Junho e restante legislação aplicável, nomeadamente as publicações da DGOTDU.
+
+###### Artigo 4.º — Condições gerais de edificabilidade
+
+1 - É condição necessária para que um prédio seja considerado apto para a edificação urbana, que satisfaça, cumulativamente, as seguintes exigências mínimas:
+
+a) Tenha edificabilidade de acordo com o estipulado em PMOT e reúna as condições da legislação aplicável;
+
+b) A sua dimensão, configuração e circunstâncias topográficas sejam adaptadas ao aproveitamento previsto, em boas condições de funcionalidade, salubridade e acessos;
+
+2 - No licenciamento ou autorização de construções em prédios que não exijam a criação de novas vias públicas, serão sempre asseguradas as adequadas condições de acessibilidade de veículos e peões, prevendo-se, quando possível, a beneficiação do arruamento existente, nomeadamente no que se refere ao respectivo traçado e largura do perfil transversal, à melhoria da faixa de rodagem e à criação de passeios, baías de estacionamento e espaços verdes.
+
+3 - As operações urbanísticas devem:
+
+a) Valorizar a manutenção, recuperação e reabilitação dos edifícios existentes;
+
+b) Assegurar uma correcta integração urbana, física e paisagística, bem como a preservação dos principais pontos de vistas;
+
+c) Ser coesas com o tecido urbano envolvente, nomeadamente ao nível da rede viária e outras infra-estruturas, tipologias e cérceas;
+
+d) Tratar de forma cuidada os limites ou espaços intersticiais entre as novas intervenções e os prédios confinantes, com especial relevo para a vitalização das charneiras dos diferentes conjuntos urbanos;
+
+e) Preservar os principais elementos e valores naturais, as linhas de água, os leitos de cheia e a estrutura verde;
+
+f) Proporcionar espaços públicos exteriores, destinados a circulação ou lazer, que proporcionem ambientes calmos e seguros;
+
+g) Requalificar os acessos e outros espaços públicos existentes;
+
+h) Beneficiar o enquadramento dos valores paisagísticos, dos edifícios e dos espaços classificados.
+
+###### Artigo 5.º — Compatibilidade de usos e actividades
+
+1 - São condições de indeferimento de licenciamento ou autorização, as utilizações, ocupações ou actividades a instalar que:
+
+a) Dêem lugar à produção de fumos, cheiros ou resíduos que afectem as condições de salubridade ou dificultem a sua melhoria;
+
+b) Perturbem gravemente as condições de trânsito e estacionamento ou provoquem movimentos de cargas e descargas que prejudiquem as condições de utilização da via pública;
+
+c) Acarretem agravados riscos de incêndio ou explosão;
+
+d) Prejudiquem a salvaguarda e valorização do património classificado ou de reconhecido valor cultural, arquitectónico, paisagístico ou ambiental;
+
+e) Correspondam a outras situações de incompatibilidade que a lei geral considere como tal, designadamente as constantes no Regulamento do Exercício da Actividade Industrial e no Regime Legal sobre a Poluição Sonora.
+
+###### Artigo 6.º — Acessos de pessoas com mobilidade condicionada
+
+1 - Os edifícios e o espaço público devem ser projectados e executados de forma a garantir o acesso de pessoas com mobilidade condicionada.
+
+2 - Exceptuam-se total ou parcialmente do disposto no número anterior:
+
+a) As moradias;
+
+b) Os edifícios que pelas suas características não disponham de condições para a resolução técnica dos acessos necessários.
+
+3 - Nos casos de obras de recuperação, ampliação ou alteração, podem ser dispensados do disposto no número anterior os edifícios que, pelas suas características, inviabilizem de forma inequívoca as condições para a resolução técnica deste tipo de acessibilidades.
+
+4 - Nos casos previstos no número anterior, deve projectar-se no sentido da melhoria das condições de acessibilidade.
+
+###### Artigo 7.º — Condicionamentos arqueológicos, patrimoniais e ambientais
+
+1 - A Câmara Municipal pode impor condicionamentos ao alinhamento, implantação e volumetria ou ao aspecto exterior das edificações e, ainda, à percentagem de impermeabilização do solo, bem como à alteração do coberto vegetal, desde que, justificadamente, tal se destine a preservar ou promover os valores arqueológicos, patrimoniais e ambientais dessa área e do Concelho da Sertã no seu conjunto.
+
+2 - A Câmara Municipal pode impedir, por condicionantes patrimoniais e ambientais devidamente justificadas, a demolição total ou parcial de qualquer edificação, bem como de espécies arbóreas ou arbustivas de inegável valor botânico e paisagístico para o concelho.
+
+3 - As obras de demolição, totais ou parciais, só serão deferidas depois de aprovado o projecto de arquitectura para o local, nos termos da legislação aplicável, salvo nos casos que ofereçam manifesto perigo para a segurança de pessoas e bens ou ainda por acções no âmbito da higiene e salubridade autorizáveis pela Câmara Municipal.
+
+4 - Os materiais construtivos e decorativos com valor arquitectónico ou histórico - elementos cerâmicos de revestimento ou decoração, cantarias lavradas, elementos em ferro - existentes em edifícios a demolir, deverão ser inventariados e preservados, com vista à sua reutilização ou aquisição pela Câmara Municipal.
+
+###### Artigo 8.º — Níveis máximos de ruído
+
+1 - O licenciamento ou autorização das operações urbanísticas está sujeito às condições especiais relativas ao ruído previstas na Carta de Ruído.
+
+2 - Enquanto não existir uma Carta de Ruído, adopta-se nas zonas urbanas não industriais o limite de 65 db(A) no período diurno e 55 dB(A) no período nocturno, para o nível sonoro contínuo equivalente (LAeq), corrigido, conforme especificado nos anexos ao Regulamento Geral sobre o Ruído.
+
+3 - Sem prejuízo da apresentação dos projectos de condicionamento acústico, os pedidos de licenciamento ou autorização de loteamentos, edifícios ou equipamentos de uso colectivo, edifícios com impacte semelhante a loteamento, edifícios de utilização mista, comercial, de serviços, indústria ou armazenagem, devem incluir:
+
+a) Extracto do mapa de ruído ou, na sua ausência, relatório de dados acústicos relativos ao ruído ambiente, efectuado de acordo com a normalização aplicável;
+
+b) Avaliação acústica do local e projectos das medidas e obras a executar, tendentes a respeitar os níveis de ruído ambiente indicados no ponto 2.
+
+#### SECÇÃO II — Casos especiais
+
+###### Artigo 9.º — Obras de escassa relevância urbanística
+
+1 - Para efeitos do disposto no n.º 2 do artigo 6.º do RJUE, são consideradas obras de escassa relevância urbanística, as obras de edificação ou demolição que, não estando incluídas em áreas sujeitas a servidões administrativas e restrições de utilidade pública, se integram esteticamente no conjunto edificado, não prejudicando vistas e condições de salubridade dos prédios e edifícios vizinhos, e se refiram exclusivamente a:
+
+a) Reconstrução de coberturas em estrutura de madeira ou elementos prefabricados em betão, quando não haja alteração do tipo de telhado e da sua forma, nomeadamente no que se refere ao alteamento ou inclinação das águas;
+
+b) Instalação ou renovação das redes prediais de abastecimento de água ou saneamento;
+
+c) Estruturas para grelhadores e estufas de jardim, desde que a altura relativamente ao solo não exceda 2,5 m, a área não exceda 6,0 m2, e se localizem no logradouro posterior de edifícios;
+
+d) Abrigos para animais de estimação, de caça ou de guarda, desde que a altura relativamente ao solo e área não excedam os 2,0 m e 4,0 m2, respectivamente, se localizem a uma distância não inferior ao do alinhamento da construção existente ou prevista e nunca a menos de 3,0 m da via pública;
+
+e) Muros de vedação que distem mais de 10 m do espaço público, não ultrapassem a altura de 1,70 m e não se destinem a exercer simultaneamente funções de suporte;
+
+f) Rampas de acesso para deficientes motores e eliminação de barreiras arquitectónicas, quando localizadas dentro de logradouros ou edifícios, sem prejuízo do disposto na alínea d) do n.º 2 do artigo 4.º do RJUE;
+
+g) Pavimentação e ajardinamento de logradouros, cuja área impermeabilizada não seja ultrapassada em 50% e não se preveja o abate de árvores ou espécies vegetais notáveis;
+
+h) Eiras e tanques de rega distando mais de 20 m do espaço público;
+
+i) Modelação de terrenos com área inferior a 1000 m2, que não implique uma variação das cotas altimétricas superior a 1 m nem prejudique a drenagem e os leitos de cheia.
+
+2 - As obras referidas no número anterior pressupõem a aprovação do condomínio, se exigível, e estão sujeitas ao procedimento de comunicação prévia previsto no n.º 3 do artigo 6.º e artigos 34.º a 36.º do RJUE.
+
+###### Artigo 10.º — Operações urbanísticas com impacte semelhante a loteamento
+
+Para efeitos de n.º 5 do artigo 57.º do RJUE, consideram-se operações urbanísticas com impacte semelhante a loteamento, os edifícios contíguos, funcionalmente ligados entre si, que apresentem uma das seguintes características:
+
+a) Mais de uma caixa de escada de acesso comum a:
+
+I - Oito ou mais fogos, ou
+
+II - Nove ou mais fracções ou unidades funcionais destinadas a comércio ou serviços;
+
+b) Com uma ou mais caixas de escada de acesso comum a treze ou mais fracções ou unidades funcionais;
+
+c) Três ou mais fracções ou unidades funcionais, com acesso directo a partir do espaço exterior;
+
+d) Área bruta de construção, superior a 700,00 m2 e área de implantação superior a 300,00 m2;
+
+e) Soluções de edificações autónomas funcionalmente ligadas ou que ao nível do subsolo possuam elementos estruturais de acesso comuns.
+
+### CAPÍTULO II — Edificação
+
+#### SECÇÃO I — Edifícios em geral
+
+###### Artigo 11.º — Profundidade das edificações e ocupação dos logradouros
+
+1 - No caso de os edifícios encostarem a preexistências a manter, possuidoras de alinhamentos de fachadas desfasadas, a transição far-se-á por criação de corpos volumétricos articulando os alinhamentos das fachadas existentes contíguas, resolvendo o desfasamento entre os planos existentes e a criar com a nova edificação.
+
+2 - Na existência de logradouro, este deverá ter no mínimo uma área de pelo menos 25% permeável (cobertura vegetal e arborização).
+
+3 - Os anexos devem respeitar os condicionantes previstos no artigo seguinte.
+
+###### Artigo 12.º — Anexos aos edifícios
+
+1 - A construção de anexos não pode afectar a estética e as condições de salubridade e insolação dos edifícios, sendo obrigatória uma solução arquitectónica e de implantação que minimize o impacto sobre os prédios confrontantes ou sobre o espaço público.
+
+2 - A construção de anexos deve ainda obedecer aos seguintes critérios:
+
+a) Quando localizados dentro do perímetro urbano, não exceder as seguintes áreas: 10% da área do lote ou 40 m2;
+
+b) Não ter mais de um piso;
+
+3 - Quando os anexos encostarem aos limites do lote e conforme exemplificado na figura 1:
+
+a) Não podem ter cobertura visitável;
+
+b) A parede de meação não pode exceder uma altura superior a 3.50 m, medida a partir da cota do terreno mais alto, caso existam desníveis entre os terrenos confrontantes;
+
+c) As águas pluviais da cobertura devem ser encaminhadas para o logradouro.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 1
+
+###### Artigo 13.º — Andar recuado
+
+1 - Em caso da construção confinar com edifício(s) já existentes o andar recuado só é possível, quando nesse ou nesses edifícios já existam andares recuados e se entender necessário manter a mesma imagem urbana.
+
+2 - No caso referido no ponto anterior o recuo deverá alinhar pelo já existente.
+
+3 - Nos casos em que exista ou seja permitida a edificação de um andar recuado, não será autorizado o aproveitamento do vão da cobertura desse mesmo andar para fins habitacionais.
+
+###### Artigo 14.º — Alinhamentos e alargamentos
+
+1 - O titular de licença ou autorização de obra tem de executar ou reconstruir o passeio público confinante com as características a indicar pela Câmara Municipal.
+
+2 - No caso de cedência de terreno para alargamento da via pública, o cedente deve dotar a respectiva área com as características construtivas, a determinar pela Câmara Municipal, nomeadamente passeio, bermas, valetas e aquedutos de águas pluviais, num lanço equivalente à frente do prédio.
+
+3 - A Câmara Municipal pode determinar a construção de "baías" ou zonas de estacionamento, quando justificável.
+
+4 - Os alinhamentos das edificações serão em regra apoiados numa linha paralela ao eixo das vias que delimitam o terreno;
+
+5 - Em edificações localizadas em zonas consolidadas e como tal reconhecidas pela Câmara Municipal, os edifícios a construir ou a ampliar, devem implantar-se nos lotes de forma a cumprir, cumulativamente, os seguintes afastamentos mínimos:
+
+a) Nos alçados principal e posterior, o afastamento entre fachadas será o previsto nos artigos 59.º a 62.º do RGEU, como exemplificado na fig. 2.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 2
+
+b) Nos alçados laterais, com janelas de compartimentos habitáveis:
+
+I - Em terrenos nivelados, em edificações até dois pisos, o afastamento entre alçados de seis (6.00) metros;
+
+II - Em terrenos nivelados, em edificações com mais de dois pisos, uma distância que garanta o cumprimento do artigo 59.º do RGEU;
+
+III - Em terrenos desnivelados separados por muros de suporte, os alçados laterais de edificações devem afastar-se do muro uma distância que garanta o cumprimento do artigo 59.º do RGEU, com o mínimo de três (3.00) metros, como exemplificado na fig. 3.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 3
+
+6 - Sem prejuízo de legislação específica, em PMOT's e loteamentos aprovados, ou de alinhamentos preexistentes marcantes, o afastamento mínimo das edificações e muros relativamente a vias públicas deverão ser os seguintes:
+
+a) Afastamento de edificações:
+
+I.P. (Itinerário Principal) - 50 m do eixo e nunca a menos de 20 m da zona da estrada;
+
+I.C. (Itinerário Complementar) - 35 m do eixo e nunca a menos de 15 m da zona da estrada;
+
+O.E. (Outra Estrada) - 20 m do eixo e nunca a menos de 5 m da zona da estrada;
+
+E.N. (Estrada Nacional), 1.ª Classe - 15 m do limite da plataforma;
+
+E.N. (Estrada Nacional), 2.ª Classe - 12 m do limite da plataforma;
+
+E.N. (Estrada Nacional), 3.ª Classe - 10 m do limite da plataforma;
+
+E. M. (Estrada Municipal) - 6 m do eixo; (ver nota *)
+
+C.M. (Caminho Municipal) - 4,5 m do eixo; (ver nota **)
+
+(nota *) 50 m da zona da estrada quando se trata de estabelecimentos industriais.
+
+(nota **) 30 m da zona da estrada quando se trata de estabelecimentos industriais.
+
+b) Afastamento de muros:
+
+I.P. (Itinerário Principal) - nunca a menos de 7 m da zona da estrada;
+
+I.C. (Itinerário Complementar) - nunca a menos de 7 m da zona da estrada;
+
+O.E. (Outra Estrada) - nunca a menos de 5 m da zona da estrada;
+
+E.N. (Estrada Nacional), 1.ª Classe - 6,5 m do limite da plataforma e nunca a menos de 1 m da zona da estrada;
+
+E.N. (Estrada Nacional), 2.ª Classe - 6,5 m do limite da plataforma e nunca a menos de 1 m da zona da estrada;
+
+E.N. (Estrada Nacional), 3.ª Classe - 4,0 m do limite da plataforma e nunca a menos de 1 m da zona da estrada;
+
+E. M. (Estrada Municipal) - 5 m do eixo e nunca a menos de 1 m da zona da estrada;
+
+C.M. (Caminho Municipal) - 4 m do eixo e nunca a menos de 1 m da zona da estrada.
+
+###### Artigo 15.º — Altura útil e áreas técnicas de pisos destinados a actividades económicas
+
+1 - Em edifícios destinados a actividades económicas admite-se, sem prejuízo do cumprimento do pé-direito mínimo estabelecido na legislação especifica, a redução da altura útil dos pisos, em virtude da colocação de tectos falsos e ou pavimentos técnicos.
+
+2 - Sempre que a introdução de tectos falsos e ou pavimentos técnicos conduza a uma altura útil livre inferior a 2,70m tem de ser instalado sistema de ventilação e climatização, de acordo com projecto de especialidade especifico, subscrito por técnico responsável legalmente habilitado.
+
+###### Artigo 16.º — Coberturas
+
+1 - As coberturas serão preferencialmente em telha de barro à cor natural (vermelha) não vidrado, com inclinações máximas de 30º ou em soluções de terraço, podendo ser aceite outra solução devidamente justificada.
+
+2 - O acesso à cobertura deve ser seguro, e evitar o seu uso indevido.
+
+3 - Não são permitidos beirados livres que lancem as águas da cobertura directamente sobre a via pública, devendo as mesmas ser recolhidas em algerozes ou caleiras e conduzidas aos ramais de descarga ou aos tubos de queda.
+
+4 - Quando não exista rede pública de drenagem, o tubo de queda pode descarregar até uma altura máxima de 0,10 m acima do solo, ou, quando exista passeio, canalizados sob este até à face do lancil. Poderão ainda descarregar em valetas de arruamentos, directamente ou através de caleiras ou tubos devidamente protegidos contra sobrecargas previsíveis.
+
+5 - Em todos os edifícios é obrigatória a ligação, através de ramais de ligação, do sistema de drenagem pluvial ao sistema público de drenagem pluvial, quando existente.
+
+###### Artigo 17.º — Caves
+
+1 - As caves dos edifícios de habitação colectiva, escritórios ou serviços devem destinar-se preferencialmente, a parqueamento.
+
+2 - As caves para parqueamento devem contemplar, para além dos dispositivos de combate a incêndio, pelo menos, um ponto de água.
+
+3 - Os pisos das caves destinadas a parqueamento devem ter inclinação suficiente e dispor de caleiras ou ralos, de modo adequado ao escoamento das águas de lavagem dos pavimentos para posterior lançamento na rede de drenagem pluvial, quando existente.
+
+4 - O sistema de drenagem de águas residuais das caves para parqueamento colectivo deve incorporar câmaras retentoras de hidrocarbonetos destinadas a separar por flutuação os materiais leves, nomeadamente hidrocarbonetos e gorduras a separar por sedimentação de matérias pesadas, designadamente por lamas, e a reter as matérias assim separadas.
+
+5 - Todas as águas residuais domésticas ou pluviais recolhidas acima ou ao mesmo nível do arruamento onde está instalado o colector público em que vão descarregar devem ser escoadas para este colector por meio da acção da gravidade.
+
+6 - As águas residuais domésticas ou pluviais ou de lavagem recolhidas abaixo do arruamento, como é o caso das caves, mesmo que localizadas acima do nível do colector público, devem ser elevadas para um nível igual ou superior ao do arruamento, atendendo ao possível funcionamento em carga do colector público.
+
+7 - Em casos especiais, a aplicação de soluções técnicas que garantam o não alagamento das caves pode dispensar a exigência do número anterior.
+
+8 - As caves devem ter ventilação natural ou forçada.
+
+###### Artigo 18.º — Instalação de equipamento
+
+Não é permitida a instalação de equipamento na fachada dos edifícios, devendo o mesmo instalar-se na cobertura, salvo nos casos em que o projecto de arquitectura defina a localização dos mesmos e desde que o pedido seja acompanhado de declaração de autorização do autor do projecto, por forma a salvaguardar a estética.
+
+###### Artigo 19.º — Interiores
+
+1 - Partes comuns:
+
+a) Nos edifícios sujeitos ao regime de propriedade horizontal com mais de seis fracções é obrigatório a existência de uma sala de condóminos, com dimensão correspondente a 1 m2 por fracção, com uma área mínima de 10 m2 e funcionalmente vocacionado para possibilitar a realização das respectivas Assembleias de Condomínio, da gestão corrente e da manutenção das coisas comuns;
+
+b) Os espaços para a realização de reuniões e assembleias descritos no número anterior terão que possuir pé-direito regulamentar, ventilação adequada, ser dotados de instalação sanitária composta por antecâmara com lavatório e compartimento dotado de pelo menos uma sanita;
+
+c) Nos edifícios multifamiliares deve existir um compartimento destinado a arrecadação de material de limpeza dos espaços comuns, com acesso a partir do mesmo, um ponto de luz, água, recolha e encaminhamento para colector de águas residuais domésticas.
+
+2 - Guardas:
+
+a) As escadas interiores das edificações devem ter guardas com a altura mínima de 0,90 m;
+
+b) Todas as escadas devem ser com corrimão.
+
+3 - Nas cozinhas recomenda-se a instalação de recipientes para a recolha selectiva de resíduos sólidos urbanos.
+
+4 - Nas edificações para habitação, a instalação sanitária principal deve ter uma dimensão que possibilite a inscrição de uma circunferência de 1,20 m de diâmetro livre de qualquer obstáculo.
+
+5 - Os corredores devem ter uma largura mínima de 1,20 m, sem prejuízo dos corredores secundários com comprimento igual ou menor a 1,50 m, que podem ter a largura mínima de 1 m.
+
+6 - Os vestíbulos devem ter uma dimensão mínima que possibilite a inscrição de uma circunferência com 1,5 m de diâmetro.
+
+7 - O raio de abertura de uma porta sobre o patamar deve ficar afastado 0,60 m de qualquer lanço de escada.
+
+8 - As portas interiores devem respeitar as condicionantes a seguir definidas:
+
+a) O acesso ao fogo deve ser realizado por vãos com largura útil não inferior a 0,90 m;
+
+b) O acesso a todos os compartimentos e à instalação sanitária principal deve ser realizado por vãos com uma largura útil não inferior a 0,75 m;
+
+###### Artigo 20.º — Acessos pedonais
+
+1 - Sem prejuízo da legislação em vigor, nas edificações de habitação colectiva, comércio e serviços, a ligação entre o espaço público e as comunicações verticais devem sempre que possíveis ser estabelecidas sem ressaltos superiores a 0,02 m.
+
+2 - As rampas:
+
+a) Não devem ter inclinações e lanços com valores superiores aos definidos no quadro 1 e a largura inferior a 1,20 m:
+
+QUADRO 1
+
+Inclinação máxima ... Lanço máximo
+
+10% ... 3 m
+
+8% ... 4 m
+
+6% ... 6 m
+
+b) As plataformas de descanso entre cada lanço devem apresentar a mesma largura da rampa e comprimento mínimo de 1,50 m;
+
+c) Devem ser ladeadas com corrimão duplo com a altura de 0,90 m e de 0,75 m;
+
+d) Nos casos que o desnível é inferior a 0,40 m pode ser dispensado o corrimão.
+
+3 - No espaço público não são permitidas rampas ou degraus de acesso a edificações, excepto nas edificações existentes e desde que se destinem a resolver problemas de acessibilidade ou contribuam para garantir a valorização do mesmo.
+
+4 - Nas edificações destinadas a habitação, comércio ou serviços, os acessos aos pisos habitacionais devem ser diferenciados dos restantes acessos.
+
+5 - Nos edifícios de habitação colectiva, comércio ou serviços com mais de três pisos, incluindo os existentes abaixo da cota de soleira do R/Chão, deve prever-se a existência de uma caixa para futura instalação de ascensor com o mínimo de 1,30 m de largura e 1,50 m de profundidade, abrangendo todos os pisos, sem prejuízo do disposto na legislação aplicável no que respeita a ascensores ou caixa para futura instalação de ascensores.
+
+6 - Quando a solução arquitectónica optar pela instalação de ascensores com casa de máquinas, esta não deve surgir como elemento dissonante na imagem do aglomerado.
+
+7 - Nos edifícios de habitação colectiva, comércio e serviços com mais de quatro fogos, a ligação entre os pisos destinados a estacionamento e as escadas de acesso aos restantes pisos deve ser feita através de câmara corta-fogo, com o mínimo de 3m2 e não deve ter dimensão inferior a 1,40 m, podendo servir conjuntamente escadas e ascensor.
+
+###### Artigo 21.º — Elementos com valor arquitectónico paisagístico
+
+1 - Nas obras que envolvam demolições de elementos de valor arquitectónico, nomeadamente cantarias, gradeamentos, caixilharias, devem os autores dos projectos sumariar esses elementos e indicar o fim a que se destinam.
+
+2 - Caso não haja utilização dos materiais referidos no número anterior em futuras construções pelo seu proprietário, os mesmos devem reverter a favor do município, mediante condições preestabelecidas.
+
+3 - Quando não referidos pelos técnicos autores dos projectos, os serviços técnicos responsáveis pela análise dos processos devem solicitar ao IPPAR, sempre que as características da edificação o justifique, um parecer sobre os elementos eventualmente a preservar/salvaguardar.
+
+#### SECÇÃO II — Fachadas
+
+###### Artigo 22.º — Fachadas
+
+Os paramentos das empenas laterais não colmatáveis por encostos de construções existentes ou futuras, sendo que nesta última situação deverá possuir projecto de arquitectura aprovado pela Câmara Municipal, devem ter tratamento adequado com preocupações de ordem estética em consonância com as fachadas contíguas.
+
+###### Artigo 23.º — Corpos balançados
+
+1 - Nas fachadas dos edifícios confinantes com as vias públicas, logradouros, ou outros lugares públicos, sob a administração municipal, poderão ser admitidas saliências em avanço sobre o plano das fachadas, cuja altura mínima acima do passeio é de 3 metros, podendo a Câmara Municipal aceitar soluções alternativas desde que devidamente justificadas e que cumpram a legislação em vigor.
+
+2 - Nas fachadas confinantes com áreas sem utilização pública, não se aplica o disposto no ponto anterior, quanto á altura, devendo contudo ser salvaguardadas as condições de segurança para os utilizadores.
+
+###### Artigo 24.º — Corpos balançados fechados
+
+1 - Os corpos balançados fechados só são de admitir em arruamentos de largura igual ou superior a 9 metros (passeios e faixa de rodagem), sem prejuízo do disposto no artigo 60.º do Regulamento Geral das Edificações Urbanas.
+
+2 - O balanço permitido para os corpos salientes e varandas envidraçadas será de 10% da largura da rua, não podendo ultrapassar 50% da largura do passeio existente, até um máximo de 1,00 m.
+
+3 - Os balanços não devem ocupar a fachada numa área superior a dois terços da área acima do piso térreo, podendo no entanto elevar-se até à sua linha de cornija; quando o remate da edificação se fizer por platibanda esta pode acompanhar o remate do corpo balançado fechado.
+
+4 - Se a concordância entre as duas fachadas se fizer por gaveto, na zona da fachada compreendida nessa parte poderão ser adoptadas saliências que não ultrapassem os planos definidos pelos balanços permitidos nas fachadas confinantes.
+
+5 - Exceptuam-se dos números anteriores as intervenções em prédios localizados em frente urbana consolidada, nas quais não são admitidos balanços de corpos salientes e varandas envidraçadas que ultrapassem os alinhamentos dos existentes nos edifícios contíguos.
+
+###### Artigo 25.º — Corpos balançados abertos
+
+1 - Os corpos balançados abertos serão autorizados apenas em ruas de largura igual ou superior a 7 metros (passeios e faixa de rodagem), podendo a Câmara Municipal aceitar outras soluções desde que devidamente justificadas pela correcta integração na envolvente.
+
+2 - Nas fachadas das edificações à face de arruamento público, o valor máximo do balanço dos corpos será de 10% da largura desse arruamento, não podendo ultrapassar 50% da largura do passeio existente, até um máximo de 1,40 m.
+
+3 - Os corpos balançados abertos devem ser afastados das linhas divisórias dos edifícios contíguos de uma distância igual ou superior ao dobro do balanço respectivo, criando-se, deste modo, entre a varanda e as referidas linhas divisórias, espaços livres de qualquer saliência.
+
+4 - Exceptuam-se dos números anteriores as novas edificações em espaços de colmatação e as intervenções em prédios localizados em frente urbana consolidada, nos quais não são admitidos varandas abertas em balanço que ultrapassem os alinhamentos dos existentes nos edifícios contíguos.
+
+5 - Os corpos balançados abertos não poderão ser envidraçados, excepto se verificarem cumulativamente as seguintes condições:
+
+a) O estudo global do alçado merecer parecer estético favorável;
+
+b) Todas as fracções envolvidas nessa reformulação apresentem compromisso quanto à execução da mesma;
+
+c) Não sejam ultrapassados os índices de edificabilidade admitidos para o prédio.
+
+###### Artigo 26.º — Guardas
+
+1 - As varandas devem estar protegidas por uma guarda com pelo menos 0,90 m de altura e não deve existir um intervalo superior a 0,10 m entre os elementos que a constituem.
+
+2 - As guardas devem ser dimensionadas com especial atenção à sua função de protecção.
+
+3 - Nas varandas, terraços e alpendres não é permitida a utilização de balaústres, salvo nos casos em que o edifício pelas suas características arquitectónicas e escala o justifique.
+
+###### Artigo 27.º — Elementos adicionais fixos, alpendres, ornamentos e quebra-luzes
+
+1 - Os alpendres devem deixar sempre livre uma altura mínima de 2,20 m.
+
+2 - Os ornamentos e quebra-luzes quando situados acima de 3,0 m de altura do passeio, podem ter uma saliência de 2% da largura da rua, não excedendo 0,60 m e, se localizados abaixo, a saliência não pode exceder 0,20 metros.
+
+3 - As soluções especiais ou diversas das previstas no presente Regulamento, só serão de admitir depois de uma apreciação da qual resulte um parecer técnico e urbanístico favorável.
+
+###### Artigo 28.º — Elementos adicionais amovíveis
+
+1 - Os elementos adicionais amovíveis colocados acima de 3,0 m de altura do passeio, não poderão ultrapassar o plano das guardas das varandas, deverão ser colocados de forma a não prejudicar a segurança e conforto de terceiros.
+
+2 - Os aparelhos de ar condicionado não poderão ficar instalados em fachadas que confrontem com a via pública e nunca a menos de 10 m desta.
+
+###### Artigo 29.º — Estendais
+
+1 - Os projectos de habitação deverão prever, na organização dos fogos, um espaço de estendal.
+
+2 - Não serão admitidas alterações de fachada que diminuam as condições adequadas de localização dos estendais.
+
+3 - Não será permitida a colocação de estendais, qualquer que seja a fachada do edifício, no seu exterior, admitindo-se contudo que se localizem no interior das varandas e nos terraços resguardadas da visibilidade exterior.
+
+4 - As soluções especiais ou diversas das previstas no presente Regulamento, poderão ser excepcionalmente admitidas depois de uma apreciação da qual resulte um parecer técnico e urbanístico favorável.
+
+###### Artigo 30.º — Vãos
+
+1 - As janelas com abertura devem ter protecções de segurança para crianças (fechos ou limitadores de abertura), mas que sejam de fácil manipulação para um adulto em caso de incêndio.
+
+2 - As portas de vidro, painéis e janelas a menos de 1 m do pavimento devem ser em vidro temperado ou laminado, devendo ser evitada a colocação no fim das escadas.
+
+3 - As portas exteriores dos edifícios para habitação devem ter largura útil mínima de 0,90 m.
+
+4 - O movimento de abertura ou fecho das portas da garagem, ou outras, não pode atingir espaço de utilização público.
+
+###### Artigo 31.º — Receptáculos postais
+
+1 - Os receptáculos postais domiciliários devem inserir-se harmoniosamente nos alçados dos edifícios ou muros confinantes com a via pública e permitir que a distribuição postal se faça pelo exterior dos edifícios ou da propriedade, respectivamente.
+
+2 - O número de receptáculos postais será o correspondente ao número de fracções ou unidades acrescido de mais um destinado ao condomínio, se for caso disso.
+
+3 - As dimensões dos receptáculos postais são as constantes na legislação aplicável.
+
+###### Artigo 32.º — Publicidade
+
+É permitida nos alçados desde que o projecto de arquitectura defina a sua localização ou quando perfeitamente enquadrado com o edifício.
+
+#### SECÇÃO III — Delimitação do prédio
+
+###### Artigo 33.º — Vedações
+
+1 - Os muros de delimitação dos prédios no interior dos quarteirões, não podem exceder 2,00 m de altura, a partir da cota do terreno, admitindo-se até um máximo de 3,50 m para enquadramento de anexos e, ou, para integração com muros já existentes.
+
+2 - Sem prejuízo do previsto no número anterior, podem ser permitidas vedações com altura superior, em sebes vivas, gradeamentos metálicos, ou outro material que se considere adequado, desde que se enquadrem no local e não limitem os direitos de terceiros, nomeadamente, de insolação ou de vistas.
+
+3 - Nos casos em que o muro de vedação separe terrenos com cotas diferentes, as alturas máximas admitidas no número anterior serão contadas a partir da cota mais elevada.
+
+4 - À face da via pública, os muros de vedação não poderão ter altura superior a 1,20 m, extensiva aos muros laterais na parte correspondente ao recuo da edificação, quando este existir, sendo permitidas vedações até à altura de 1,50 m.
+
+5 - Sem prejuízo dos números anteriores, poderão ser exigidas outras dimensões de modo a evitar soluções dissonantes relativamente à envolvente existente.
+
+#### SECÇÃO IV — Estacionamento
+
+###### Artigo 34.º — Estacionamento
+
+1 - As construções novas devem assegurar estacionamento dentro do prédio na proporção definida no n.º 1 do artigo 58.º Não é aplicável a percentagem mínima de estacionamento público prevista naquele artigo.
+
+2 - Os lugares de estacionamento ficam sempre afectos às fracções ou unidades, excepto nos casos em que o número de lugares é superior ao exigido; podem os lugares sobrantes constituir fracções independentes.
+
+3 - A Câmara Municipal, por deliberação, pode determinar a isenção total ou parcial da aplicação dos n.os 1 e 2 do presente artigo, quando se verifique uma das seguintes condições:
+
+a) No caso de obras inseridas no núcleo histórico, assim definido em PMOT;
+
+b) O seu cumprimento implicar a alteração da arquitectura original de edifícios ou outras construções que pelo seu valor arquitectónico próprio, integração em conjuntos edificados característicos ou em áreas de reconhecido valor paisagístico, devam ser preservados;
+
+c) A nova edificação se localize em falha da malha urbana estabilizada e quando a criação dos acessos ao estacionamento no interior do lote comprometa, do ponto de vista arquitectónico, a continuidade do conjunto edificado resultante;
+
+d) Quando da impossibilidade ou da inconveniência de natureza técnica, nomeadamente em função de características geológicas do solo, níveis freáticos, comprometimento da segurança de edificações envolventes, interferência com equipamentos e infra-estruturas e da funcionalidade dos sistemas de circulação públicos;
+
+e) As obras de alteração com vista à reutilização de salas de uso público existentes, desde que não seja aumentada a sua capacidade inicial em mais de 15% dos lugares ou espaços, não ficam obrigadas à dotação de estacionamento;
+
+4 - Nos casos do ponto anterior a Câmara Municipal deve condicionar o licenciamento à materialização do estacionamento em falta noutros locais, designadamente através da participação dos requerentes noutras soluções que se destinem à satisfação de aparcamento permanente de moradores, e apenas nos casos em que essas soluções estejam em curso e se localizem a menos de 450 metros da operação em licenciamento.
+
+5 - Em qualquer caso, a Câmara Municipal pode aceitar soluções alternativas para o cumprimento da dotação de estacionamento fora do prédio ou lote em questão, desde que não sejam encontrados outros inconvenientes de ordem urbanística ou inerente ao funcionamento dos sistemas de circulação públicos.
+
+6 - Para efeitos da aplicação do presente artigo, os índices de dimensionamento do estacionamento interno para comércio e serviços que constam do n.º 1 do artigo 58.º, poderão ser reduzidos até 0,80 dos valores indicados, caso os usos em causa se localizem a menos de 450 metros, de parques de estacionamentos públicos, assim definidos em PMOT.
+
+7 - Para efeitos de aplicação dos números 4 e 6 do presente artigo, considera-se que a distância de 450 metros deverá ser medida ao longo do percurso em passeio, segundo o trajecto mais curto possível de demonstrar.
+
+###### Artigo 35.º — Acesso à via pública
+
+O acesso viário ao parqueamento deve ser independente do acesso pedonal e obedecer às seguintes condições:
+
+a) Localizar-se à maior distância possível de gavetos;
+
+b) Localizar-se no arruamento de menor intensidade de tráfego, nos casos de edifícios de gaveto;
+
+c) Permitir a manobra de veículos sem mudança de via de circulação;
+
+d) Evitar situações de interferências com obstáculos localizados na via pública, nomeadamente semáforos, árvores e candeeiros;
+
+e) No caso de atravessar percursos pedonais deve utilizar-se pavimento diferenciado.
+
+###### Artigo 36.º — Rampas em estacionamento
+
+1 - A tipologia a adoptar em função da utilização do edifício deve obedecer aos valores mínimos definidos no quadro seguinte:
+
+QUADRO 2
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+2 - Largura e concordância de rampas e zonas de espera:
+
+a) Em função das tipologias as larguras mínimas das rampas são as indicadas na figura 4:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 4
+
+b) Em função das tipologias, a largura mínima das rampas em curvatura são as indicadas na figura 5:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 5
+
+3 - O interior dos edifícios ou prédios deve contemplar uma zona de espera sem quaisquer obstáculos junto à via pública, que deve obedecer às seguintes condições:
+
+a) Comprimento mínimo de 3 m a partir do plano marginal, podendo ser definido valor superior caso se justifique;
+
+b) É obrigatório o encerramento da zona de espera junto ao plano marginal, podendo ser admitida outra solução caso o projecto de arquitectura contemple um jogo de planos que integre o vão;
+
+c) O movimento de abertura ou fecho não deve atingir o espaço público.
+
+4 - Para efeitos do estipulado no número anterior, admite-se para o patamar uma inclinação máxima de 5%, sem redução das dimensões mínimas.
+
+5 - A inclinação deve obedecer às seguintes condições:
+
+a) Não deve ultrapassar os 20%, medida pelo seu ponto mais desfavorável;
+
+b) Caso ultrapasse os 12%, deve contemplar concordância com um raio não inferior a 20 m:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 6
+
+c) No caso de edifícios destinados a garagens, as estações de serviço, grandes áreas comerciais e silos automóveis, a inclinação máxima da rampa deve ser 15%.
+
+6 - O pé direito livre deve ter um valor mínimo de 2,20 m à face inferior das vigas ou quaisquer outras instalações técnicas.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 7
+
+###### Artigo 37.º — Características do estacionamento
+
+1 - As dimensões mínimas permitidas para o lugar de estacionamento e acesso são as constantes na figura 8 e no quadro 3:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 8
+
+QUADRO 3
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Onde:
+
+A - Largura do lugar de estacionamento;
+
+C - Comprimento da faixa por lugar de estacionamento;
+
+E - Intrusão efectiva do lugar de estacionamento;
+
+M - Espaço de manobra para o veículo;
+
+L - Largura total do limite do lugar à mediana da via de acesso;
+
+V - Via de acesso adjacente ao estacionamento.
+
+2 - Raios de curvatura:
+
+a) O raio de curvatura interior mínimo para o estacionamento em estrutura edificada deve ser de 2,50 m;
+
+b) O raio de curvatura das rampas nos estacionamentos públicos deve ser delineado em função da especialidade de cada projecto;
+
+c) Nos estacionamentos de veículos pesados as propostas são analisadas caso a caso.
+
+3 - Áreas de circulação de veículos:
+
+a) A circulação no interior dos pisos de estacionamento deve ser garantida sem recurso a manobras nos percursos de ligação aos pisos;
+
+b) A largura mínima da faixa de rodagem é de 3 m ou 4,50 m, no caso de faixas com um ou dois sentidos, respectivamente;
+
+c) É admissível reduzir a largura da faixa de rodagem, no caso de faixas com dois sentidos, excepto nas zonas de fraca visibilidade e nos troços de dimensão superior a 10 m, faixa de rodagem em curvatura ou estacionamentos públicos;
+
+d) A redução prevista na alínea anterior deve respeitar a largura mínima de 3 m;
+
+e) Sempre que se verifiquem situações de impasse em faixas de rodagem de largura inferior a 5,50 m, deve prever-se a existência de local de inversão de marcha a uma distância máxima de 15 m;
+
+f) Nas garagens, sempre que possível, deve evitar-se os impasses privilegiando a existência de percursos contínuos de circulação;
+
+g) As faixas e o sentido de circulação devem estar assinalados no pavimento;
+
+h) Os pilares ou outros obstáculos à circulação devem estar assinalados e protegidos contra o choque de veículos;
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 9
+
+i) Nos pisos de estacionamento deve aplicar-se antiderrapante.
+
+###### Artigo 38.º — Impasses
+
+1 - As dimensões mínimas para os impasses são as constantes na figura 10:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 10
+
+2 - No caso de estacionamento público, só é admissível a existência de impasses com faixas de rodagem de largura igual ou superior a 5,50 m e comprimento máximo de 15 m.
+
+###### Artigo 39.º — Sistema alternativo de estacionamento
+
+1 - São permitidos sistemas alternativos de estacionamento de veículos, nomeadamente, através de meios mecânicos ou electromecânicos, de forma a optimizar o espaço.
+
+2 - Os sistemas alternativos são analisados pelo Serviço Nacional de Bombeiros, mediante apresentação de projecto.
+
+###### Artigo 40.º — Monta-carros/veículos
+
+1 - É permitida a existência de monta-cargas em substituição de rampas, desde que justificáveis e desde que cumpram os seguintes requisitos:
+
+a) Servir um parqueamento com capacidade máxima de 50 lugares, distribuídos por um máximo de três pisos;
+
+b) Prever a aplicação de um monta-carros por cada 25 veículos;
+
+c) A plataforma deve ter a dimensão mínima livre de 2,50 m de largura e 5 m de comprimento;
+
+d) Prever zonas de espera de acordo com o n.º 3 do artigo 36.º do presente Regulamento;
+
+e) Devem estar dotados de sistema energético alternativo.
+
+2 - Não é permitida a instalação de monta-carros em estabelecimentos de hotelaria, centros comerciais, edifícios de comércio e serviços de grandes dimensões e estacionamentos públicos.
+
+###### Artigo 41.º — Ventilação
+
+As garagens colectivas devem ter ventilação natural ou forçada mínima exigível.
+
+###### Artigo 42.º — Circulação de pessoas
+
+Aos estacionamentos destinados ao público, com mais de 150 lugares, aplica-se o disposto nos artigos 34.º a 41.º do presente regulamento, bem como as seguintes condições:
+
+a) As passadeiras devem ter uma largura mínima de 1,00 m;
+
+b) No caso de existirem caminhos de evacuação ao longo das rampas, estes devem ser sobrelevados de 0,10 m em relação às mesmas e com uma largura mínima de 0,90 m;
+
+c) Á largura referida na alínea anterior deve ser acrescida a largura da rampa definida no n.º 2 do artigo 36.º do presente regulamento, excepto para núcleos históricos, assim definidos em PMOT;
+
+d) Os lugares destinados a pessoas com mobilidade condicionada são demarcados a amarelo no pavimento e assinalados com uma placa indicativa de acessibilidade.
+
+#### SECÇÃO V — Infra-estruturas
+
+###### Artigo 43.º — Redes prediais de águas e saneamento
+
+1 - Caso não exista rede pública de abastecimento de água e ou saneamento, é obrigatório a existência de infra-estruturas autónomas.
+
+2 - Os proprietários ou usufrutuários de prédios situados em local servido por sistema público de abastecimento de água ou de drenagem de águas residuais terão obrigatoriamente de requerer as respectivas ligações à Câmara Municipal.
+
+###### Artigo 44.º — Colocação de equipamentos nas fachadas e coberturas dos edifícios
+
+1 - A fim de eliminar progressivamente as tubagens à vista, os projectos relativos a obras de construção, reconstrução, ampliação, alteração e conservação dos edifícios devem prever:
+
+a) Espaços para colocação de equipamentos de infra-estruturas, nomeadamente, aparelhos de ar condicionado, exaustão, ventilação, aquecimento, chaminés e outros, para que, quando colocados, não sejam visíveis a partir do espaço público;
+
+b) Calhas internas, para instalação dos cabos de telefones, TV, electricidade e outros, devendo ser requerida, às respectivas entidades, a mudança dos cabos para o interior daquelas.
+
+2 - Os projectos dos edifícios plurifamiliares contemplarão somente antenas colectivas de TV, sendo interdita a instalação de antenas individuais.
+
+###### Artigo 45.º — Tubos de queda e caleiras
+
+1 - A instalação de tubos de queda deve obedecer às seguintes condições:
+
+a) É proibida a utilização de material plástico, excepto das séries DIN, devendo, neste caso, o último troço, de altura relacionada com a altura das portas ou outro alinhamento relevante, ser metálico ou protegido por tubagem metálica, devidamente fixada à parede;
+
+b) Devem ficar ligados às sarjetas ou colectores, através de caixas de pavimento ou, no caso de não existir passeio, através de curva do tubo, que encaminhe as águas no sentido do escoamento.
+
+2 - A drenagem das varandas deve ser encaminhada para os tubos de queda do edifício.
+
+3 - Não é permitida a utilização de plástico ou de qualquer tipo de chapa zincada na execução das caleiras exteriores.
+
+###### Artigo 46.º — Instalação de infra-estruturas de suporte das estações de radiotelecomunicações
+
+1 - Sem prejuízo de outras disposições contidas em legislação especial, a instalação de infra-estruturas de suporte das estações de radiotelecomunicações, deve obedecer às seguintes condições:
+
+a) Respeitar o máximo de afastamento dos limites frontal e lateral do imóvel, quando instaladas em coberturas de edifícios;
+
+b) Não prejudicar, do ponto de vista estético e de segurança, o edifício, a paisagem e o ambiente envolventes, devendo garantir, sempre que se justificar, a dissimulação dos equipamentos, o tratamento paisagístico e a iluminação pública dos espaços adjacentes aos equipamentos;
+
+c) Utilizar postes tubulares metálicos em detrimento de estruturas treliçadas, visando minimizar os impactos visuais;
+
+d) Identificar correctamente o nome da operadora, endereço, contacto telefónico, nome do responsável técnico e número da autorização municipal;
+
+e) Cumprir as normas de segurança legais, devendo a área ser isolada, iluminada e sinalizada com placas, bem visíveis, advertindo para a radiação não ionizante.
+
+2 - A estrutura de suporte de qualquer nova antena a instalar deve ser partilhável por qualquer operador.
+
+3 - A autorização municipal para instalação das infra-estruturas de suporte das estações de radiotelecomunicações tem a validade máxima de dois anos renováveis.
+
+4 - A Câmara Municipal pode mandar efectuar ou solicitar à operadora, medições, visadas pelo ICP ANACOM, do nível de radiações emitidas por tais equipamentos.
+
+5 - Não se consideram abrangidas por este artigo as antenas de entidades públicas ou privadas de utilidade pública que prossigam fins de segurança ou saúde públicas.
+
+### CAPÍTULO III — Urbanização
+
+#### SECÇÃO I — Princípios
+
+###### Artigo 47.º — Desenho urbano
+
+1 - As operações de loteamento ou suas alterações, assim como as operações urbanísticas que determinem impactes semelhantes a uma operação de loteamento definidas no artigo 10.º devem:
+
+a) Tornar coesa a intervenção urbanística no tecido urbano envolvente, nomeadamente, ao nível da rede viária;
+
+b) Evitar a criação de impasses, quer ao nível da morfologia, quer ao nível da tipologia;
+
+c) Tratar de forma cuidada os limites ou espaços intersticiais entre a nova urbanização e as parcelas confinantes, com especial relevo para a vitalização das charneiras entre os conjuntos urbanos preexistentes;
+
+d) Criar espaços exteriores de passagem ou circulação de forma a proporcionar ambientes calmos e seguros;
+
+e) Requalificar os acessos existentes;
+
+f) Promover pólos de animação na malha urbana, nomeadamente alamedas, praças, pracetas e jardins.
+
+2 - A implantação:
+
+As edificações devem implantar-se nos lotes ou parcelas de forma que o menor afastamento aos limites laterais seja de 5 m, sem prejuízo do disposto no artigo 60.º do RGEU;
+
+3 - Acesso aos prédios:
+
+a) Os acessos viários aos prédios devem ser feitos directamente pelas vias públicas;
+
+b) Os acessos viários aos prédios confinantes devem associar-se dois a dois;
+
+c) A Câmara, mediante deliberação, pode aceitar outras soluções, desde que tecnicamente justificável.
+
+4 - As operações urbanísticas devem prever a instalação de mobiliário urbano ou qualquer outro tipo de equipamento, desmontável ou fixo, designadamente floreiras, papeleiras, bancos, bebedouros, parques infantis, paragens de transportes públicos, cabines telefónicas, bocas ou marcos de incêndio, a instalar nos espaços exteriores públicos, mediante aprovação do projecto "arranjos exteriores" pela Câmara Municipal.
+
+5 - As edificações devem estabelecer uma relação com o terreno que possibilite preservar os valores naturais, urbanísticos e paisagísticos, pelo que apenas serão aceites movimentações de terras em casos devidamente justificados.
+
+###### Artigo 48.º — Áreas para espaços verdes e de utilização colectiva, infra-estruturas e equipamentos
+
+1 - Sem prejuízo do disposto no artigo 44.º do RJUE, devem prever-se áreas (públicas e, ou, privadas) destinadas à implantação de espaços verdes e de utilização colectiva, infra-estruturas e equipamentos:
+
+a) As operações de loteamento ou suas alterações;
+
+b) As operações urbanísticas que determinem impactes semelhantes a uma operação de loteamento definidas no artigo 10.º
+
+2 - As áreas destinadas a espaços verdes e de utilização colectiva e a equipamentos de utilização colectiva devem ter acesso directo a arruamentos e a sua localização deve contribuir para a qualificação do espaço urbano onde se integram e para o bem-estar da população instalada ou a instalar.
+
+3 - As áreas destinadas a espaços verdes e de utilização colectiva e a equipamentos de utilização colectiva a ceder para o domínio público, devem constituir, pela sua dimensão, implantação e demais características, unidades autónomas e identificáveis.
+
+4 - As áreas de cedência para equipamentos de utilização colectiva devem localizar-se:
+
+a) Ao longo das vias estruturantes do loteamento;
+
+b) Em áreas estratégicas da malha urbana;
+
+c) Em áreas livres de servidões ou restrições que condicionem a sua utilização;
+
+d) Junto à estrutura verde.
+
+5 - No caso de o prédio a urbanizar contemplar elementos de interesse histórico ou cultural, a Câmara Municipal, mediante deliberação, pode determinar que estes sejam integrados nos espaços verdes e de utilização colectiva de cedência a favor do domínio público.
+
+6 - Os espaços verdes e de utilização colectiva de cedência devem estar integrados no desenho urbano que se deseja implementar, livres de servidões ou restrições que condicionem a sua utilização, não podendo constituir-se como espaços residuais ou canais sobrantes das áreas que constituem os lotes.
+
+7 - Quando as áreas a urbanizar sejam atravessadas ou confinem com linhas de água, estas podem ser associadas à estrutura verde urbana.
+
+8 - Excepcionalmente, podem ser contabilizados como espaços verdes de cedência as faixas dos passeios que excedam as dimensões previstas no n.º 1 do artigo 59.º do presente Regulamento, desde que exista nestas faixas mobiliário urbano que possibilite uma utilização menos condicionada por parte dos utilizadores deste espaço.
+
+9 - A Câmara, e caso o desenho urbano o justifique, pode deliberar que os espaços verdes sejam abrangidas por servidões ou restrições e nesses casos serão contabilizados como áreas de cedência.
+
+###### Artigo 49.º — Execução e gestão de espaços verdes e de utilização colectiva
+
+1 - A execução dos espaços verdes e de utilização colectiva referidos no n.º 1 do artigo anterior é da responsabilidade do promotor da operação urbanística, salvo se se tratar de áreas a integrar em grandes parques verdes, devendo neste caso determinar-se, antes da aprovação da operação urbanística, as condições de participação.
+
+2 - A execução prevista no n.º 1 sujeita-se às condições impostas pela Câmara Municipal, em conformidade com o projecto de intervenção paisagística, que deverá ser elaborado de acordo com os princípios estabelecidos no presente capítulo.
+
+3 - As condições de conservação e manutenção dos espaços verdes e de utilização colectiva são fixadas aquando do licenciamento ou autorização da operação urbanística, podendo abranger a celebração de acordos de cooperação ou de contratos de concessão, no caso dos espaços cedidos ao município.
+
+###### Artigo 50.º — Parâmetros qualitativos
+
+O projecto de intervenção paisagística deve:
+
+a) Assegurar o respeito pela identidade do local, reflectindo a sua história, funções e afinidades com o espaço adjacente;
+
+b) Promover a integração do novo espaço, assegurando a ligação dos seus elementos às redes preexistentes (infra-estruturas, equipamentos, revestimento vegetal);
+
+c) Considerar os factores condicionantes do conforto humano, nomeadamente, o microclima, a qualidade acústica e visual, a qualidade do ar e a segurança;
+
+d) Contribuir para a criação de espaços multifuncionais, que possibilitem a utilização simultânea por pessoas de mobilidade condicionada, de diferentes idades, com motivações e interesses distintos e a adaptabilidade a novas finalidades ou usos.
+
+###### Artigo 51.º — Regras relativas ao dimensionamento dos espaços verdes e de utilização colectiva
+
+1 - Sem prejuízo dos parâmetros definidos em PMOT aplicáveis à realização da operação urbanística, as áreas mínimas de cedência para espaços verdes e de utilização colectiva e equipamentos de utilização colectiva, são os seguintes:
+
+QUADRO 4
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+2 - Em projectos de interesse público relevante pode a Câmara Municipal aprovar parâmetros diferentes das previstas na alínea anterior, desde que devidamente fundamentadas em estudos e projectos específicos.
+
+###### Artigo 52.º — Infra-estruturas
+
+1 - Nas operações de urbanização as redes de infra-estruturas devem ser enterradas.
+
+2 - A Câmara Municipal pode determinar a existência de galerias técnicas.
+
+3 - O projecto de abastecimento de água deve contemplar a localização dos contadores de rega, as bocas-de-incêndio e os marcos de água.
+
+###### Artigo 53.º — Contratos de urbanização
+
+As operações urbanísticas podem ser condicionadas à celebração de contratos de urbanização com a Câmara Municipal.
+
+###### Artigo 54.º — Início dos trabalhos
+
+O início da execução das obras de urbanização deve obedecer às seguintes condições:
+
+a) Comunicação, por escrito, à Câmara Municipal, com a antecedência mínima de quinze dias;
+
+b) Prévio consentimento do responsável pela direcção técnica da obra, declarado no livro de obra.
+
+###### Artigo 55.º — Execução das obras de urbanização
+
+Nas operações de loteamento, durante a execução das obras de urbanização, a movimentação de terras deve incluir a modelação dos lotes de acordo com a proposta apresentada, com excepção das respeitantes aos pisos da cave.
+
+#### SECÇÃO II — Estrutura viária
+
+###### Artigo 56.º — Estudo de tráfego
+
+1 - Estão sujeitas a estudo de tráfego todas as novas urbanizações.
+
+2 - O estudo de tráfego deve conter elementos que permitam avaliar, designadamente:
+
+a) A acessibilidade do local em relação ao transporte individual e colectivo;
+
+b) O esquema de circulação na área de influência directa do empreendimento;
+
+c) Os acessos às edificações;
+
+d) A capacidade das vias envolventes;
+
+e) A capacidade de estacionamento na parcela do empreendimento e nas vias que constituam a sua envolvente imediata;
+
+f) O funcionamento das operações de carga e descarga;
+
+g) O impacte gerado pelo empreendimento na rede viária.
+
+###### Artigo 57.º — Faixa de rodagem
+
+1 - Traçado em planta
+
+a) O raio mínimo a considerar em planta para curvas circulares, será de:
+
+I - Dentro dos aglomerados urbanos: r = 40 m;
+
+II - Fora dos aglomerados urbanos: r = 70 m;
+
+III - Valores inferiores justificam a consideração e o cálculo de sobrelarguras;
+
+IV - Estes valores não se aplicam aos acessos privados.
+
+b) O raio de curvatura, em planta, na concordância de intersecções, deve respeitar:
+
+I - Em zonas industriais: mínimo de 12 metros ao lancil;
+
+II - Em zonas urbanas:
+
+i) Mínimo de 9 metros ao lancil;
+
+ii) Mínimo de 5,0 metros nos casos em que se preveja apenas a circulação de veículos ligeiros.
+
+2 - Perfil transversal - tipo
+
+a) Para duas vias de tráfego, o perfil transversal-tipo é o indicado na fig. 11.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 11
+
+b) Para uma única via de tráfego, a largura é de 3,50 m.
+
+c) Para vias de tráfego de percurso rodoviário que abranja os pontos do sistema de deposição de resíduos sólidos, a largura é igual ou superior a 3,5 m.
+
+d) Para zonas industriais e de armazéns, o perfil transversal-tipo é o indicado na fig. 12.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 12
+
+e) A inclinação transversal é de 2%, a partir do eixo, para ambos os lados;
+
+f) No caso de rotundas recomenda-se a inclinação de 2% para o exterior, em toda a faixa de rodagem, de modo a evitar-se a acumulação de águas pluviais no interior, no caso de entupimento dos sistemas de drenagem.
+
+3 - Perfil longitudinal
+
+Os trainéis correspondentes ao perfil longitudinal dos arruamentos devem respeitar os seguintes parâmetros:
+
+a) Inclinação máxima: 12%. Em situações excepcionais podem ser admitidas inclinações superiores, até ao máximo de 20%;
+
+b) Inclinação mínima: 0,5%, sendo de evitar inclinações inferiores a 1%;
+
+c) Raio mínimo de curva convexa: 500m;
+
+d) Raio mínimo de curva côncava: 250m.
+
+4 - Intersecções e impasses
+
+a) Fora das zonas urbanas, o dimensionamento de separadores centrais, placas e outras figuras de regulação do trânsito a utilizar nos cruzamentos e entroncamentos devem observar as normas de projecto do Instituto de Estradas de Portugal;
+
+b) No dimensionamento e desenho de impasses deverá poder inscrever-se um círculo, lancil a lancil, com 16m de diâmetro, de modo a facilitar as manobras de veículos especiais.
+
+c) São admissíveis outros tipos de impasses conforme ilustrado na figura seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 13
+
+5 - Constituição do pavimento
+
+a) Nas vias municipais principais e secundárias, a constituição do pavimento deve obedecer a estudos técnicos específicos, nomeadamente de tráfego, geológicos, hidrológicos e paisagísticos;
+
+b) Nos restantes casos o pavimento das faixas de rodagem tem a seguinte constituição:
+
+I - Camada de base em agregado britado de granulometria extensa, com 0,30 m de espessura, executada em duas camadas de 0,15 m cada, devidamente regadas até ao teor óptimo de humidade, e compactadas;
+
+II - Rega de impregnação;
+
+III - Camada de regularização e ligação com mistura betuminosa densa (binder) na espessura de 0,05 m, após recalque;
+
+IV - Rega de colagem;
+
+V - Camada de desgaste em betão betuminoso com 0,05 m após recalque.
+
+c) Nos arruamentos em que seja previsível a circulação de veículos pesados, nomeadamente zonas industriais, as espessuras definidas na alínea b) deverão ser aumentadas para:
+
+I - Camada de base: 0,40m, constituída por duas camadas de 0,20m;
+
+II - Camada de regularização: 0,06m;
+
+III - Camada de desgaste: 0,06m.
+
+d) Independentemente do referido nas alíneas b) e c), o projectista deve ter em conta a classe do solo de fundação, podendo a Câmara Municipal exigir a realização de ensaios, a adopção de espessuras superiores ou a execução de outros trabalhos, sempre que tal se mostre necessário para a boa execução e manutenção do pavimento;
+
+e) A adopção de espessuras inferiores às mencionadas na alínea b) deve ser justificada através de cálculo. Em nenhum caso são admitidos valores inferiores a:
+
+I - Camada de base: 0,20 m;
+
+II - Camada de betuminoso:
+
+Em uma camada (desgaste): 0,06 m;
+
+Em duas camadas: ("binder"): 0,04 m; (desgaste): 0,04 m.
+
+###### Artigo 58.º — Estacionamento
+
+1 - Dimensionamento;
+
+As operações de loteamento e as construções a que se refere o artigo 34.º devem assegurar estacionamento dentro do prédio na proporção de:
+
+a) Nas moradias unifamiliares, dois lugares por área bruta de construção até 300 m2 e três lugares para valores superiores;
+
+b) Nos edifícios de habitação colectiva sem indicação da tipologia:
+
+Um lugar até 90 m2 de área média de fogo;
+
+Dois lugares com área superior a 90 m2 e até 130 m2 de área média de fogo;
+
+Três lugares com área média de fogo superior a 130 m2;
+
+c) Nos edifícios de habitação colectiva com indicação da tipologia:
+
+Um lugar por fogo T0 ou T1;
+
+Dois lugares por fogo T2 ou T3;
+
+Três lugares por fogo T4 ou superior;
+
+d) Nos edifícios e áreas destinados a comércios é obrigatória a constituição de estacionamento equivalente a um lugar por cada 30 m2, se a área bruta de construção for inferior a 1000 m2, um lugar por cada 25 m2, se a área bruta de construção for superior ou igual a 1000 m2 e inferior ou igual a 2500 m2, um lugar por cada 15 m2, se a área bruta de construção for superior a 2500 m2, acrescido de um lugar de pesados por cada 200 m2 de área bruta de construção;
+
+e) Nos edifícios destinados a serviços é obrigatória a constituição de estacionamento equivalente a três lugares por cada 100 m2, se a área bruta de construção for inferior ou igual a 500 m2, e cinco lugares por cada 100 m2, se a área bruta de construção for superior a 500 m2;
+
+f) Nos edifícios com uso de indústria ou armazém é obrigatória a constituição de estacionamento equivalente a um lugar por cada 75 m2 de área bruta de construção e um lugar para veículos pesados por cada 500 m2 de área bruta de construção;
+
+g) Nos edifícios destinados ao uso de turismo, um lugar por cada 4 camas e um lugar para cada 50 camas para veículos pesados de passageiros;
+
+h) Nos edifícios destinados a espectáculos e divertimentos públicos, um lugar por cada 10 lugares de lotação do respectivo edifício;
+
+i) Nos edifícios destinados a equipamentos não abrangidos pela alínea anterior, as condições de acessibilidade e a capacidade de estacionamento são analisadas em função do projecto, não podendo o valor obtido ser inferior a um lugar por cada 100 m2 de área bruta de construção;
+
+QUADRO 5
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+2 - Localização;
+
+a) Os lugares de estacionamento público devem agrupar-se ao longo dos arruamentos, próximo do edifício ou lote, de forma a não prejudicar a definição e continuidade dos espaços ajardinados e arborizados e a circulação de pessoas e rodoviária nas áreas adjacentes;
+
+b) Os lugares de estacionamento privados e de serviço devem localizar-se no interior do lote ou edifício a licenciar;
+
+c) A Câmara Municipal pode autorizar a materialização parcial ou total dos estacionamentos noutros locais funcionalmente próximos, mediante a apresentação de estudo de tráfego que avalie a acessibilidade e mobilidade nos espaços envolvidos;
+
+d) Não é admissível a existência de estacionamento ao longo das vias colectoras, a menos que se localizem em vias próprias de serviço.
+
+3 - Regras construtivas
+
+a) O projecto de implantação dos espaços de estacionamento deve incluir a análise e resolução de todos os condicionantes do acesso e da utilização, respeitando o conjunto de regras específicas apresentadas nos pontos seguintes;
+
+b) Na via pública as dimensões dos lugares de estacionamento para veículos ligeiros são as indicadas na figura 14 e quadro 6.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 14
+
+QUADRO 6
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Onde:
+
+A - Largura do lugar de estacionamento;
+
+C - Comprimento da faixa por lugar de estacionamento;
+
+E - Intrusão efectiva do lugar de estacionamento;
+
+M - Espaço de manobra para o veículo;
+
+L - Largura total do limite do lugar à mediana da via de acesso;
+
+V - Via de acesso adjacente ao estacionamento.
+
+c) Os espaços de estacionamento devem ter a seguinte orientação em relação ao eixo da via:
+
+I - Vias distribuidoras locais ou de acesso local: a= 90º;
+
+II - Vias distribuidoras principais: paralela ao eixo da via.
+
+d) Os critérios de dimensionamento dos lugares de estacionamento, devem ser adequados à utilização, tipo de utilizadores, categoria de veículos, motivo e duração do estacionamento;
+
+e) Os valores mínimos apresentados na alínea b) do n.º 3 devem ser utilizados em vias distribuidoras locais e de acesso local, com baixo nível de rotatividade e utilização;
+
+f) Os valores máximos apresentados na alínea b) do n.º 3 devem ser aplicados em vias estruturantes, com elevado nível de rotatividade e utilização;
+
+g) Os lugares de estacionamento para veículos pesados devem ser objecto de estudo técnico, que avalie o tipo de actividade económica a servir, localização e condições de acesso;
+
+h) Nos espaços para cargas e descargas, as dimensões não devem ser inferiores a 8,0mx2,5m (para ligeiros de mercadorias);
+
+i) Nos casos previstos na alínea anterior, pode a largura mínima ser de 2,15m, se o lugar se desenvolver na continuidade de espaços de estacionamento com essa dimensão e não coloque em causa a normal fluidez do tráfego.
+
+4 - Inclinação Transversal, figura 15
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 15
+
+a) Estacionamento na faixa de rodagem, não inserido em baía de estacionamento, a inclinação é no sentido do limite exterior do estacionamento (junto ao lancil ou outro limite), na continuidade da faixa de rodagem;
+
+b) Estacionamento na faixa de rodagem, inserido em baía de estacionamento, a inclinação é no sentido do limite interior (faixa de rodagem), entre o valor mínimo de 2% e máximo de 3,5%.
+
+5 - Constituição do pavimento
+
+a) As áreas de estacionamento construídas nos termos da alínea a) do n.º 4 são pavimentadas com o mesmo material da faixa de rodagem, sendo os lugares de estacionamento delimitados através de pintura própria;
+
+b) Em baías de estacionamento de arruamentos de trânsito local e em parques de estacionamento, a pavimentação deve ser executada da seguinte forma:
+
+I - Camada de base em agregado britado de granulometria extensa, com a espessura mínima idêntica à da camada de base da faixa de rodagem contígua;
+
+II - Delimitação da faixa de rodagem através de guia de calcário ou betão, sobreelevada de 0,02 m.
+
+6 - Dimensionamento de paragens de autocarros
+
+a) As paragens de autocarros devem ser localizadas tendo em conta a sinalização rodoviária existente e a projectar e a segurança e comodidade dos utentes ao nível do acesso e da espera;
+
+b) Devem ter as seguintes dimensões mínimas, conforme exemplificado na fig. 16:
+
+I - Comprimento mínimo total, exterior: 36 m;
+
+II - Desenvolvimento mínimo de entrada e saída, com orientação oblíqua, com raios de 10,5 m;
+
+III - Comprimento efectivo para a permanência do autocarro: 15m;
+
+IV - Largura da paragem: 3m.
+
+c) Os abrigos localizados nos passeios devem garantir uma faixa livre de largura mínima de 1,20m, conforme exemplificado na fig. 16.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 16
+
+7 - Estacionamento para pessoas com mobilidade condicionada
+
+a) Nos casos em que o número de lugares resultantes da aplicação do n.º 1 do presente artigo seja superior a 20, dois deverão ser destinados ao estacionamento de veículos em que um dos ocupantes seja uma pessoa com mobilidade condicionada;
+
+b) Os lugares de referidos no número anterior, deverão ter as dimensões previstas no [Decreto-Lei n.º 123/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1997-397953), de 22 de Maio.
+
+8 - Excepções:
+
+A Câmara Municipal, por deliberação, pode determinar a isenção total ou parcial do cumprimento da dotação mínima de estacionamentos estabelecida neste Regulamento, quando se verifique uma das seguintes condições:
+
+a) O seu cumprimento implicar a alteração da arquitectura original de edifícios ou outras construções que pelo seu valor arquitectónico próprio, integração em conjuntos edificados característicos ou em áreas de reconhecido valor paisagístico, devam ser preservados;
+
+b) Quando da impossibilidade ou da inconveniência de natureza técnica, nomeadamente em função de características geológicas do solo, níveis freáticos, comprometimento da segurança de edificações envolventes, interferência com equipamentos e infra-estruturas e da funcionalidade dos sistemas de circulação públicos;
+
+c) Poderão ainda ficar isentas de dotação de estacionamento no exterior dos lotes as operações de loteamento à face de via pública existente e que não criem novos arruamentos, sempre que tal se torne manifestamente desadequado ao perfil do arruamento;
+
+d) Nos casos dos pontos anteriores a Câmara Municipal deve condicionar o licenciamento à materialização do estacionamento em falta noutros locais, designadamente através da participação dos requerentes noutras soluções que se destinem à satisfação de aparcamento permanente de moradores, e apenas nos casos em que essas soluções estejam em curso e se localizem a menos de 450 metros da operação em licenciamento;
+
+e) Em qualquer caso, a Câmara Municipal pode aceitar soluções alternativas para o cumprimento da oferta de estacionamento fora do prédio ou lote em questão, desde que não sejam encontrados outros inconvenientes de ordem urbanística ou inerente ao funcionamento dos sistemas de circulação públicos;
+
+f) Os índices de dimensionamento do estacionamento interno para comércio e serviços que constam do n.º 1 do artigo 58.º, poderão ser reduzidos até 0,80 dos valores indicados, caso os usos em causa se localizem a menos de 450 metros, de parques de estacionamentos públicos, assim definidos em PMOT;
+
+g) Para efeitos de aplicação das alínea d) e f), considera-se que a distância de 450 metros deverá ser medida ao longo do percurso em passeio, segundo o trajecto mais curto possível de demonstrar.
+
+###### Artigo 59.º — Passeios
+
+1 - Dimensionamento;
+
+a) Os passeios na zona urbana, salvo em situações consolidadas e encravadas, devem ter uma dimensão adequada às funções que lhe estão subjacentes com os seguintes valores mínimos, indicados neste ponto:
+
+I - Situação A: frente urbana à face do passeio; arruamento sem arborização, fig. 17-a;
+
+II - Situação B: frente urbana recuada; arruamento com possibilidade de arborização, fig. 17-b;
+
+III - Situação C: frente urbana à face do passeio; arruamento com possibilidade de arborização, fig. 17-c.
+
+b) No caso de frentes comerciais deve adoptar-se o perfil mínimo de 5,0m, conforme representado na figura 18. Existindo galeria comercial, a largura da mesma poderá ser contabilizada para largura efectiva do passeio;
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 18
+
+c) A inclinação do passeio é de 2% na direcção da faixa de rodagem ou estacionamentos contíguos e não pode ser prejudicada pelos acessos aos lotes, devendo os desníveis existentes ser vencidos no interior destes;
+
+d) O pavimento é aplicado sobre camada de fundação em material britado de granulometria extensa, com 0,10m de espessura mínima ou 0,20m em zonas de acesso a veículos.
+
+2 - Pavimentação;
+
+a) Na pavimentação de passeios em geral pode ser utilizado o bloco de betão pré-fabricado, de forma quadrangular, com um mínimo de 0,06 m de espessura, em tom claro (areia, camurça, ocre claro, etc.);
+
+b) Em situações específicas, a Câmara municipal pode exigir que a pavimentação de passeios seja realizada em calçadinha de vidraço. Neste caso e em situações de inclinação igual ou superior a 12%, deve ser intercalado no pavimento de calçadinha de vidraço outro material que, pelas suas características texturais, promova uma adequada aderência. Na ausência de estudos e projectos específicos, o material a intercalar deve ser o bloco de betão pré-fabricado, de acordo com as condições constantes no ponto seguinte;
+
+c) São admitidas excepções ao referido no ponto anterior, quando:
+
+I - As características do local, pelo seu valor histórico e, ou, patrimonial, justifiquem a aplicação de outro tipo de material;
+
+II - Em complemento de situações preexistentes, tais como ligações e reposição pontual de pavimentos;
+
+III - Justificado por estudos de conjunto (ex. loteamentos) e projectos de arruamentos.
+
+d) Os pavimentos existentes em material betuminoso devem ser substituídos de acordo com as regras do presente Regulamento.
+
+3 - Lancis;
+
+a) Devem ser utilizados lancis de calcário ou outra pedra adequada nas zonas de passeio referido na alínea b) do número anterior e de betão nas zonas de passeio referido na alínea a) do número anterior, com as seguintes dimensões:
+
+I - Lancil normal de face superior com 0,15m de largura e 0,14m de espelho, rebaixando-se para 0,12m nas zonas de rampa para acesso de veículos, sendo o pavimento acertado numa faixa envolvente do lancil, de cerca de 0,20m;
+
+II - Lancil rampeado com largura total de 0,30m;
+
+III - Guia de face superior com largura de 0,08m.
+
+b) É admissível a utilização de lancis de pedra ou de betão pré-fabricado com dimensões diversas das indicadas no número anterior:
+
+I - Para completar situações preexistentes;
+
+II - Quando justificado por projecto da especialidade aprovado.
+
+4 - Arborização e Caldeiras
+
+a) Os arruamentos serão arborizados no mínimo numa das suas frentes;
+
+b) As árvores devem estar alinhadas e instaladas em caldeiras conforme a figura 19 (a). Nos arruamentos de comércio e serviços devem adoptar-se as soluções da figura n.º 19 (b);
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+figura 19(a)
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 19 (b)
+
+c) Excepcionalmente, a Câmara Municipal, mediante deliberação, pode aceitar outras soluções, desde que justificável.
+
+5 - Rebaixamentos
+
+a) Apenas é admissível o rebaixamento de passeios no acesso a zonas de travessia pedonal, conforme representado na figura 20.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 20
+
+b) Em locais de travessia do passeio por veículo automóvel, deve existir lancil rampeado que não ponha em causa a continuidade do percurso pedonal e que respeite o alinhamento externo do lancil normal, conforme exemplificado na figura 21.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 21
+
+c) É admissível a conjugação de rebaixamentos com passadeiras elevadas.
+
+###### Artigo 60.º — Sinalização
+
+1 - Regras Gerais;
+
+A sinalização horizontal, vertical e o equipamento de balizagem, devem ser executados nos termos do "Código da Estrada" e de acordo com o disposto no presente número.
+
+2 - Sinalização vertical da rede viária;
+
+a) Os sinais devem estar fixados com abraçadeiras a um tubo em ferro galvanizado de diâmetro 5,8cm e comprimento de 3,5m, garantindo uma altura livre de 2,20m.
+
+b) Os prumos de suporte do sinal devem:
+
+I. Estar enterrados em pelo menos 20 cm, em maciço de fundação de betão com forma de tronco de pirâmide de bases quadradas, com lado da base inferior, de 30 cm e lado da face superior, de 20 cm;
+
+II. Fixar-se de modo a garantir a maior largura possível de passeio, não devendo o sinal ultrapassar o plano definido pela face do lancil;
+
+III. Ser pintados à cor cinza;
+
+IV. Ser tamponados.
+
+c) Os sinais devem ter as seguintes dimensões, representadas na figura 22:
+
+I. 0,60m de diâmetro nos sinais de proibição, informação e obrigação;
+
+II. 0,60m o diâmetro da circunferência no sinal de stop;
+
+III. 0,60m de lado nos sinais de perigo e de prioridade.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 22
+
+3 - Sinalização horizontal da rede viária;
+
+a) As marcas longitudinais, transversais e sinais de pavimento, devem ser executados com material termoplástico reflector branco, aplicado a quente.
+
+b) As marcas longitudinais devem ter as seguintes dimensões:
+
+I. Largura da linha contínua: 0,12m;
+
+II. Largura da linha tracejada: 0,12m, com relação de traço de 4,00m/3,00m ou 5,00m/2,00m.
+
+c) As marcas transversais devem ter as seguintes dimensões:
+
+I. Linha de paragem: largura de 0,50m e comprimento em toda a largura da meia faixa de rodagem;
+
+II. Passadeiras: largura de 0,50m espaçadas de 0,50m e comprimento de 4,00m;
+
+III. Raias oblíquas: largura de 0,30m.
+
+4 - Sinalização luminosa
+
+a) Em zonas escolares ou de intenso trânsito pedonal deve prever-se a aplicação de passadeiras e sinais de limite de velocidade.
+
+b) Em cruzamentos de elevado fluxo de trânsito deve aplicar-se um sistema de semaforização.
+
+5 - Atravessamento de peões
+
+Nas passadeiras das zonas escolares ou de intenso trânsito pedonal, deve prever-se a colocação de piso de segurança e iluminação própria.
+
+#### SECÇÃO III — Espaços Verdes
+
+###### Artigo 61.º — Espaço Verde
+
+1 - O espaço verde deve ter as seguintes áreas mínimas:
+
+a) 20 m2 quando integrados num conjunto coerente e estruturante do desenho urbano, com largura mínima de 2 m, sem plantação de relva ou prado, mas com plantação de espécies de fácil manutenção.
+
+b) 50 m2 quando isolados, com largura mínima de 5m, com plantação de relva ou prado, por forma a permitir a fácil manutenção.
+
+2 - O espaço verde deve ser concentrado e contemplar um pólo estruturante, de forma a constituir um jardim ou praceta.
+
+3 - Os taludes devem apresentar inclinações estáveis na proporção de um para três e devem ser revestidos com espécies herbáceas e arbustivas adequadas à estabilização dos mesmos.
+
+4 - Caso não seja possível respeitar a inclinação referida no número anterior, a Câmara, mediante deliberação, pode aceitar outra solução, desde que justificável.
+
+###### Artigo 62.º — Vegetação
+
+1 - Regras gerais
+
+a) O património vegetal, público ou privado, constituído pelas espécies ou conjuntos vegetais notáveis, existentes no território do município pode ser declarado de interesse público, devendo ser preservado e tomadas todas as medidas necessárias que impeçam qualquer tipo de intervenção que prejudique os elementos vegetais.
+
+b) A Câmara Municipal pode impor a preservação das espécies vegetais que, pela sua importância, se justifique.
+
+c) Se não existirem condições que possibilitem a preservação deste património pode, após vistoria e parecer técnico, ser autorizado o abate ou transplante de árvores ou arbustos de porte arbóreo, podendo a Câmara Municipal determinar a realização de estudos, adopção de medidas cautelares, modo de execução dos trabalhos e indemnizações a pagar pela delapidação do património vegetal do município.
+
+d) A avaliação das árvores ou arbustos de porte arbóreo, quer sejam para preservar, transplantar ou abater, será realizada de acordo com a Norma de Granada.
+
+e) Os danos provocados em árvores ou arbustos de porte arbóreo, ou o seu abate indevido, obriga ao pagamento de uma indemnização ao município, calculada nos termos da Norma de Granada, a pagar, preferencialmente, em espécies vegetais colocadas em locais a indicar pelo município.
+
+f) O tratamento dos espaços verdes e a escolha da vegetação (árvores, arbustos e herbáceas) deve considerar os seguintes aspectos:
+
+I. Localização geográfica, vocação, potencialidades e debilidades do território;
+
+II. Características específicas de cada espécie (porte, folhagem, floração, frutos e sistema radicular), grau de rusticidade e necessidades de água;
+
+III. Características edafo-climáticas da área, topografia e geologia, nível de insolação ou ensombramento do local de plantação;
+
+IV. Usos, existentes ou previstos, para a zona;
+
+V. Proximidade a edifícios;
+
+VI. Espécies existentes nos locais limítrofes;
+
+VII. Nível de poluição atmosférica;
+
+VIII. Tipo de ambiente que se pretende atribuir ao espaço;
+
+IX. Cuidados de manutenção.
+
+g) Toda a terra vegetal movimentada e as árvores e arbustos passíveis de ser transplantados devem ser reaproveitos na construção dos espaços verdes.
+
+h) As espécies vegetais a utilizar não devem ser susceptíveis a pragas e doenças (p. ex. ulmeiro), nem promover a infestação (p. ex. acácia, ailanthus).
+
+i) As árvores e arbustos não destinados à constituição de sebes formais, devem utilizar-se na sua forma e dimensão naturais, não sendo autorizadas quaisquer podas para além das de carácter fitossanitário e de formação.
+
+j) A existência de exemplares notáveis, na área de intervenção de projectos de espaço público ou privado, deve determinar o desenho de soluções que criem condições para a sua manutenção no local, de forma a permitir a sua observação e contemplação, assumindo um papel de referência identitária e um lugar de destaque no âmbito do projecto.
+
+k) Para efeitos da avaliação do valor botânico e ornamental das espécies ou conjuntos vegetais a classificar como notáveis, consideram-se os seguintes itens:
+
+I. Adaptabilidade: todas as espécies, autóctones ou não, com porte acima da média e com densidade de floração e foliação acentuada;
+
+II. Relevância: aqueles cuja espécie é autóctone ou cuja presença é única no local, funcionando como um elemento de identificação deste;
+
+III. Função: funções das espécies vegetais em análise, nomeadamente enquadramento de estruturas viárias e ferroviárias, cortina vegetal (visual, eólica, sonora, etc.), galeria ripícola, fixação do solo, enquadramento paisagístico e amenização climática local.
+
+2 - Arborização.
+
+a) As árvores devem:
+
+I. Ser escolhidas em função do seu carácter, porte, efeito formal e densidade de folhagem;
+
+II. Constituir, preferencialmente, espécies autóctones ou naturalizadas, que se tenham adaptado bem ao ambiente urbano local ou a terrenos e climas similares;
+
+III. Possuir fuste direito e altura e diâmetro à altura do peito (DAP) mínimos, aquando da plantação, de 3,0m e 0,12m;
+
+IV. Ser tutoradas, a uma altura mínima de 1,80m, com cintas de material que permita o normal engrossamento do tronco;
+
+b) Em cada unidade urbanística homogénea (rua, praça, estacionamento,...) devem plantar-se árvores que acentuem a identidade e imagens próprias de cada lugar e concorram para o seu reconhecimento.
+
+3 - Arbustos
+
+a) Deve favorecer-se a plantação arbustiva em maciços de composição mista, que contribuam para diversificar a paleta de cores e odores da paisagem e para realçar os ciclos sazonais.
+
+b) A altura mínima admitida para os arbustos, aquando da plantação, é de 0,60m.
+
+4 - Herbáceas
+
+a) O revestimento herbáceo deve ser constituído por herbáceas vivazes, resistentes ao tempo seco e com necessidades hídricas mínimas; não devem conter espécies exóticas com comportamento infestante.
+
+b) As misturas para relvado devem ser de baixa manutenção e de alta resistência a doenças e pisoteio.
+
+c) A relva deve apenas ser utilizada em áreas de razoável dimensão.
+
+5 - Sistemas de rega
+
+a) A fim de garantir níveis adequados de humidade, devem ser instalados sistemas de rega automática, utilizando, preferencialmente, sistemas com recurso a origem própria ou água reciclada.
+
+b) Para alimentação do sistema de rega das zonas verdes pode prever-se a recolha e armazenamento da água pluvial, se necessário articulado com outros sistemas de alimentação, como furo artesiano, desde que licenciado pela entidade competente.
+
+c) Sem prejuízo do número anterior, deve prever-se a possibilidade de recorrer a ligação à rede pública de abastecimento de água.
+
+d) Todos os sistemas de rega devem ser equipados com programador e higrómetro.
+
+e) As árvores em caldeira devem ser regadas com sistema gota-a-gota.
+
+f) As zonas de arbustos devem ser regadas preferencialmente com rega gota-a-gota ou brotejadores, de modo a reduzir os gastos de água e a evapotranspiração.
+
+g) Devem ser colocadas bocas de rega que abranjam a totalidade da área a regar (1 boca de rega/50m de raio), por forma a colmatar eventuais falhas do sistema de rega automática.
+
+h) Sempre que possível recomenda-se a construção de cisternas para armazenamento da água da chuva, a utilizar para regas e limpezas.
+
+###### Artigo 63.º — Mobiliário Urbano
+
+1 - Regras gerais
+
+a) A localização e implantação do mobiliário urbano deve ter em atenção os seguintes critérios:
+
+I. Não constituir obstáculo à livre circulação de pessoas e bens ou à fruição do espaço onde se insere;
+
+II. A função que desempenha;
+
+III. A comodidade e segurança da sua utilização;
+
+IV. Fácil limpeza e conservação, assim como do local onde se insere;
+
+V. Obedecer a modelo(s) aprovado(s) pela Câmara Municipal;
+
+b) O mobiliário urbano, as cabinas telefónicas, as paragens de autocarros, colunas de iluminação pública ou outro tipo de elementos, devem ser concebidos e colocados de forma a deixarem sempre uma largura mínima livre de passagem de 1,20m.
+
+#### SECÇÃO IV — Equipamentos de Higiene Pública
+
+###### Artigo 64.º — Papeleiras
+
+1 - Em projectos de arruamentos urbanos devem colocar-se papeleiras nas seguintes condições:
+
+a) Espaçamento máximo de 50 m;
+
+b) Junto às passadeiras, devem ser colocadas nos dois lados do arruamento;
+
+c) Devem ser basculantes, com capacidade de 40 litros, com aro interior para fixação de sacos de plástico e coerentes com o design do restante mobiliário urbano.
+
+2 - Em projectos de zonas de estar e espaços verdes, devem colocar-se papeleiras com capacidade de 60 litros, em pontos estratégicos e próximo dos caminhos pedonais.
+
+###### Artigo 65.º — Capitação e localização de contentores de RSU
+
+1 - Os valores mínimos para o cálculo do número de equipamentos de recolha selectiva de resíduos sólidos urbanos são os fixados no quadro seguinte:
+
+QUADRO 7
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+2 - Nas edificações de uso misto (habitação, comércio e serviços), a produção diária é determinada pelo somatório do cálculo para os respectivos usos.
+
+3 - No caso dos contentores semienterrados, deve existir um contentor de 5000 l para deposição indiferenciada de RSU por cada 50 fogos.
+
+4 - No caso de recolha selectiva de RSU, deve, no mínimo, existir um ecoponto semienterrado ou de superfície (contentor para vidro, papel, embalagens e pilhas) por cada 200 fogos.
+
+5 - Os contentores para vidro, papel e embalagens devem, no mínimo, ter uma capacidade de 2.500 m3.
+
+###### Artigo 66.º — Capitação e localização dos ecopontos
+
+1 - É obrigatória a existência de um ecoponto completo (vidro, papel, embalagens e os restantes resíduos valorizáveis que possam vir a ser objecto de recolha selectiva no concelho) por cada 300 habitantes.
+
+2 - O projecto de loteamentos com 100 fogos deve prever a implantação, no mínimo, de um ecoponto.
+
+3 - Sem prejuízo do que é referido em 1 e 2, deve prever-se o reforço do número de ecopontos, considerando a existência de unidades comerciais ou de serviços que o justifiquem.
+
+4 - O espaço necessário para um ecoponto é de 6 x 1,4m2, a criar em reentrâncias próprias, em superfície rebaixada ao nível da faixa de rodagem.
+
+5 - Em casos devidamente fundamentados (reduzida dimensão da operação de loteamento, proximidade a um ecoponto ou ao ecocentro), a Câmara Municipal pode dispensar a implantação de ecopontos.
+
+#### SECÇÃO V — Situações Especiais
+
+###### Artigo 67.º — Indústrias
+
+1 - As indústrias devem adoptar medidas que minimizem os problemas ambientais, de forma a cumprir a legislação aplicável.
+
+2 - Sempre que possível, as indústrias e depósitos de materiais devem estar protegidos com cortinas de árvores, sem prejuízo do disposto na legislação aplicável.
+
+3 - As indústrias não devem:
+
+a) Provocar movimentos de carga e descarga em regime permanente, de forma a prejudicar a via pública e o ambiente local;
+
+b) Criar perigo de incêndio ou explosão.
+
+###### Artigo 68.º — Resíduos de indústrias
+
+1 - Os proprietários das indústrias são responsáveis pelo destino dos resíduos que produzem.
+
+2 - É proibida a deposição de resíduos no solo.
+
+3 - É proibida a descarga de óleos usados no solo, nas águas ou nos esgotos.
+
+4 - É proibida a eliminação de óleos usados por processos de queima que provoquem poluição atmosférica.
+
+5 - Na recolha e transporte de óleos usados, as operações de carregamento, descarga e manuseamento devem ser acompanhadas de cuidados preventivos ao risco de inflamação.
+
+6 - A descarga de águas residuais nos sistemas de drenagem pública é regida por legislação específica.
+
+7 - Sem prejuízo de legislação especial, é interdito o lançamento no sistema de drenagem pública, qualquer que seja o seu tipo, directamente ou por intermédio de canalizações prediais, de:
+
+a) Matérias explosivas ou inflamáveis;
+
+b) Matérias radioactivas em concentrações consideradas inaceitáveis pelas entidades competentes;
+
+c) Efluentes de laboratórios ou de instalações hospitalares que, pela sua natureza química ou microbiológica, constituam um elevado risco para a saúde pública ou para a conservação dos sistemas de drenagem;
+
+d) Entulhos, areias ou cinzas;
+
+e) Águas residuais a temperaturas superiores a 30º C;
+
+f) Lamas extraídas de fossas sépticas, gorduras ou óleos de câmaras retentoras ou dispositivos similares que resultem das operações de manutenção;
+
+g) Quaisquer substâncias, nomeadamente sobejos de comida e outros resíduos, triturados ou não, que possam obstruir ou danificar os colectores e os acessórios ou inviabilizar o processo de tratamento;
+
+###### Artigo 69.º — Exploração e indústria extractiva
+
+Sem prejuízo do disposto na legislação aplicável, a exploração de recursos geológicos deve efectuar-se de forma a minimizar o impacte ambiental e garantir a salvaguarda da qualidade de vida da população.
+
+###### Artigo 70º — Instalações agro-pecuárias, instalações de apoio e outras actividades susceptíveis de serem consideradas insalubres ou incómodas
+
+Sem prejuízo do disposto nos planos municipais de ordenamento do território, as agro-pecuárias, instalações de apoio ou outras actividades susceptíveis de serem consideradas insalubres ou incómodas devem respeitar as seguintes condições:
+
+a) Localizar-se a mais de 500 m de captações de água ou estações de tratamento de águas para abastecimento público;
+
+b) Assegurar as condições mínimas de salubridade relativamente aos incómodos que possam causar a terceiros;
+
+c) Ter uma vedação de segurança a uma distância mínima de 10 m da actividade com um portão que permita controlar a circulação de pessoas, viaturas e animais;
+
+d) Ter água potável em quantidade suficiente para o seu abastecimento;
+
+e) Ter sistema de tratamento de efluentes líquidos;
+
+f) Ter um local e meios adequados para o armazenamento dos estrumes dos animais, conforme o código de boas práticas agrícolas;
+
+g) Ter vestiários e instalações sanitárias para o pessoal, com localização e dimensões adequadas à actividade, bem como a utilização de material de fácil limpeza, lavagem e desinfecção;
+
+h) Ter uma correcta ventilação
+
+###### Artigo 71.º — Estufas
+
+1 - É da responsabilidade do proprietário da estufa a reposição do terreno no seu estado originário depois de abandonada, considerando-se abandonada 12 meses após a última colheita efectuada.
+
+2 - Os resíduos resultantes do desmantelamento da estrutura devem ser encaminhados para um destino final adequado.
+
+3 - No caso de existência de um posto de venda ao público deve ser elaborado um projecto de arranjos exteriores.
+
+4 - As estufas devem obedecer a uma correcta integração no terreno e na paisagem.
+
+### CAPÍTULO IV — Ocupação e execução de operações urbanísticas no espaço público
+
+#### SECÇÃO I — Ocupação do espaço público
+
+###### Artigo 72.º — Regras gerais de ocupação do espaço público
+
+A ocupação do espaço público implica a observância das seguintes condições:
+
+a) Ser sinalizada e restringir-se ao estritamente necessário, de forma a não prejudicar o trânsito de veículos e de peões e a minimizar os danos estéticos, urbanísticos ou de utilização do espaço público;
+
+b) Ser efectuada a reparação integral dos danos ou prejuízos decorrentes da ocupação;
+
+c) Serem repostas as boas condições de utilização imediatamente após a execução das obras ou decorrido o prazo de validade da licença.
+
+###### Artigo 73.º — Pedido de licença
+
+1 - A ocupação do espaço público está sujeita a licenciamento municipal.
+
+2 - O pedido de licenciamento da ocupação do espaço público decorrente da execução de operações urbanísticas, é instruído com os elementos referidos no Título III, Capítulo II, Secção V.
+
+3 - O pedido de licença de ocupação do espaço público deve ser efectuado no momento:
+
+a) Da apresentação dos projectos de especialidade, em caso de realização de operações urbanísticas sujeitas a licença;
+
+b) Do requerimento da autorização, em caso de realização de operações urbanísticas sujeitas a autorização;
+
+c) Da apresentação da comunicação prévia, em caso de realização de operações urbanísticas sujeitas a comunicação prévia.
+
+4 - O alvará de licença de ocupação do espaço público, sem o qual não poderá ser efectuada a ocupação, é emitido após a apresentação do comprovativo do pagamento da taxa, cauções devidas, apólice de seguro que cubra a responsabilidade pela reparação dos danos emergentes de acidentes de trabalho e termo de responsabilidade assinado pelo técnico responsável, quando necessário montar andaimes ou outras estruturas.
+
+5 - O prazo previsto para a ocupação do espaço público não pode exceder o prazo previsto para a execução da respectiva operação urbanística.
+
+###### Artigo 74.º — Tapumes
+
+1 - Em todas as obras é obrigatória a montagem de tapumes ou resguardos, que tornem inacessível, aos transeuntes, a área destinada aos trabalhos.
+
+2 - Os tapumes devem, conforme exemplificado na fig. 22:
+
+a) Ser em material resistente, de preferência metálicos, com desenho e execução cuidada;
+
+b) Ter a altura mínima de 2.20m, devendo existir uma faixa opaca, de pelo menos 0.50m em toda a sua extensão, que impeça a saída ou escorrência de materiais para a via pública;
+
+c) Ter portas de acesso a abrir para dentro;
+
+d) Ter cabeceiras pintadas com faixas reflectoras alternadas, de cor branca e vermelha e com sinalização nocturna, luminosa;
+
+e) Se necessário, prever a construção de passagem pedonal devidamente protegida.
+
+3 - Nas ruas onde existam bocas-de-incêndio ou de rega, os tapumes são executados para que aqueles fiquem acessíveis a partir da via pública.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 22
+
+4 - É proibido utilizar o espaço exterior ao tapume.
+
+5 - Sem prejuízo do disposto no número anterior, desde que não prejudique o trânsito, pode ser utilizado o espaço exterior ao tapume nos seguintes casos:
+
+a) Operações de carga e descarga, nos termos indicados no artigo 80.º;
+
+b) Colocação de contentores destinados ao depósito de entulhos.
+
+6 - Todas as máquinas e materiais utilizados na execução das obras, bem como os amassadouros e depósitos de entulhos, devem ser colocados no interior do tapume.
+
+7 - Deve prever-se, sempre que necessário, um sistema de lavagem de rodados das viaturas que saem do local da obra.
+
+8 - A Câmara pode dispensar o tapume a delimitar a zona do andaime, estabelecendo condições de segurança e comodidade para as pessoas e para o edifício, com um estanque no mínimo ao nível do primeiro tecto, no caso de obras efectuadas em edifícios com actividade comercial.
+
+9 - Quando a instalação de um tapume ocupar, nomeadamente, boca-de-incêndio, sarjeta, placa de sinalização, ou outra infra-estrutura, o promotor tem de instalar um equipamento equivalente do lado de fora do tapume nas condições a indicar pelos serviços municipais competentes.
+
+###### Artigo 75.º — Andaimes e coberturas
+
+1 - Os andaimes e as coberturas devem ser fixos ao terreno ou às paredes dos edifícios, excepto nos suspensos, que só são permitidos quando tecnicamente justificáveis.
+
+2 - Na montagem dos andaimes e das coberturas devem ser, rigorosamente, observadas as regras de segurança estabelecidas na lei.
+
+3 - Na montagem de andaimes é obrigatório o seu revestimento vertical a toda a altura, pelo lado de fora e nas cabeceiras, com redes de malha fina ou telas, por forma a impedir a queda de materiais, projecção de poeiras e fragmentos para o espaço público, bem como garantir condições de segurança para as pessoas.
+
+4 - Durante o decurso das obras, os andaimes e as coberturas devem ser objecto de fiscalização por parte do responsável da obra e dos seus encarregados.
+
+###### Artigo 76.º — Amassadouros ou depósitos
+
+1 - Os amassadouros e os depósitos de materiais ou de entulhos devem ficar no interior dos tapumes e junto às respectivas obras, salvo quando a largura da rua for diminuta.
+
+2 - Os amassadouros e depósitos de materiais ou de entulhos devem ter base própria com resguardos circundantes, de forma a não assentar directamente sobre os pavimentos construídos e a evitar o entupimento de sarjetas e sumidouros.
+
+3 - Os resíduos provenientes da lavagem de máquinas ou utensílios e restos de materiais não devem ser encaminhados directamente para as sarjetas.
+
+###### Artigo 77.º — Corredores para peões
+
+A pedido do interessado, e se tal se mostrar necessário, a Câmara Municipal pode licenciar a ocupação total do passeio e parcial da faixa de rodagem ou de zonas de estacionamento, desde que sejam construídos corredores para peões nas seguintes condições, conforme exemplificado na fig. 23:
+
+a) Confinantes com o tapume;
+
+b) Largura mínima de 1,00m;
+
+c) Vedados pelo lado de fora com prumos e corrimão em tubo redondo, metálico, com pintura a branco e vermelho;
+
+d) Interligados com o passeio existente a fim de assegurar a continuidade do percurso e a utilização por pessoas com mobilidade condicionada.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 23
+
+###### Artigo 78.º — Elevação de materiais
+
+1 - A elevação de materiais para a construção de edifícios deve efectuar-se por meio de guinchos, gruas ou outros equipamentos apropriados.
+
+2 - O equipamento de elevação de materiais deve ser examinado com frequência, de forma a garantir a segurança.
+
+###### Artigo 79.º — Protecção de árvores e mobiliário urbano
+
+1 - As árvores, candeeiros e mobiliário urbano, que se encontrem junto à obra devem ser protegidos com resguardos que impeçam quaisquer danos.
+
+2 - A Câmara Municipal pode determinar a retirada ou a deslocação do mobiliário urbano, devendo o requerente, a expensas suas, promover a desmontagem e transporte até ao armazém municipal ou o seu reposicionamento, bem como a sua recolocação após a conclusão da obra.
+
+###### Artigo 80.º — Cargas e descargas na via pública
+
+1 - A ocupação da via pública com cargas e descargas de materiais, autobetoneiras e equipamento de bombagem de betão, só é permitida nas seguintes condições:
+
+a) Durante as horas de menor intensidade de tráfego, por período estritamente necessário à execução dos trabalhos;
+
+b) Com colocação de sinalização adequada, a uma distância mínima de 5.00m em relação ao veículo estacionado.
+
+2 - Sempre que se verifiquem transtornos do trânsito, o dono da obra deve recorrer às autoridades policiais para assegurarem a sua disciplina.
+
+3 - Imediatamente após os trabalhos referidos nos números anteriores, é obrigatória a limpeza da via pública, com especial incidência nos sumidouros, sarjetas e tampas de caixas de visita.
+
+###### Artigo 81.º — Condutas de descarga de entulhos
+
+Os entulhos devem ser vazados através de conduta fechada e recebidos em recipientes fechados.
+
+###### Artigo 82.º — Contentores para depósito de materiais e recolha de entulhos
+
+1 - É permitida a recolha de entulhos em contentores metálicos, os quais devem ser removidos quando se encontrem cheios ou neles tenha sido depositado qualquer material que possa provocar insalubridade.
+
+2 - Os contentores não podem ser instalados em local que afecte a normal circulação de peões e veículos, com excepção de casos justificados e desde que sejam adoptadas as medidas previstas nesta Secção.
+
+###### Artigo 83.º — Stands de venda
+
+1 - A instalação de stands de venda de lotes, edifícios ou suas fracções autónomas carece de licenciamento municipal.
+
+2 - A instalação de stands de venda de empresas imobiliárias apenas é permitida em urbanizações.
+
+3 - O pedido de licenciamento referido no número 1 deve ser acompanhado de um plano geral de ocupação prevendo o número e a localização dos stands.
+
+4 - Os stands de venda devem ser retirados no prazo máximo de doze meses, após a recepção provisória das obras de urbanização.
+
+###### Artigo 84.º — Realização de acontecimento público
+
+No caso de realização de qualquer acontecimento público, e que seja incompatível com a existência de tapumes, andaimes ou materiais, a Câmara, após notificação pessoal, ao proprietário da obra e empreiteiro, com cinco dias de antecedência, pode proceder à remoção dos mesmos, a expensas do proprietário, repondo-os logo após a realização dos referidos acontecimentos.
+
+###### Artigo 85.º — Toldos e estruturas amovíveis
+
+1 - Os toldos podem ocupar toda a frente do edifício, recuados pelo menos a 0,40 m do limite do lancil do passeio e situados a uma altura nunca inferior a 2,20 m, medidos a partir da cota do passeio.
+
+2 - Só são admissíveis toldos nos casos em que o passeio tenha largura igual ou superior a 1 m.
+
+3 - Os toldos devem ser reversíveis e, nos núcleos antigos, devem ter o perfil recto, com uma única baia e sem abas laterais.
+
+4 - As estruturas amovíveis devem assegurar um afastamento horizontal mínimo de 1 m relativamente ao limite da guia do passeio e só para os casos em que este tenha a largura superior a 2 m.
+
+5 - A altura mínima à parte inferior das estruturas amovíveis é sempre de 2,60 m medidos a partir da cota do passeio.
+
+###### Artigo 86.º — Vitrinas
+
+As vitrinas devem enquadrar-se nas fachadas, de forma a não prejudicar a linha arquitectónica e a não sobrepor-se a elementos notáveis dos alçados.
+
+###### Artigo 87.º — Guarda-ventos
+
+1 - Os guarda-ventos não devem exceder os 2 m de altura e devem ficar afastados do solo a 0,05 m.
+
+2 - Os guarda-ventos não devem ter largura superior a 3 m e devem garantir um espaço livre mínimo de passeio de 1,60 m.
+
+3 - A parte opaca dos guarda-ventos não deve ter altura superior a 0,60 m, sendo daí para cima transparentes.
+
+###### Artigo 88.º — Esplanadas e quiosques
+
+Só é permitida a instalação de esplanadas ou quiosques com estrados de madeira ou outro tipo de material sobre o pavimento nas seguintes condições:
+
+a) O pavimento existente não seja danificado;
+
+b) Não afecte a imagem estética e urbana do local;
+
+c) Garanta o acesso a deficientes;
+
+d) A altura não exceda 0,17 m;
+
+###### Artigo 89.º — Armários e quadros técnicos
+
+1 - Sempre que seja necessária a localização na via pública de armários ou quadros técnicos, estes nunca poderão constituir obstáculo ao uso pleno desse espaço, devendo ser preferencialmente embutidos nos pavimentos, muros ou paredes adjacentes, com um acabamento exterior igual ou idêntico ao já existente no local, mantendo um corredor de no mínimo 1,20m de largura, livre de obstáculos, sempre que possível.
+
+2 - Sempre que a localização se situe em espaços verdes públicos ou outros espaços do domínio público com interesse de salvaguarda patrimonial ou ambiental, deverão ser apresentados para análise urbanística e arquitectónica os elementos que definam o tipo de estrutura e materiais utilizados, bem como o seu enquadramento paisagístico e relação com a envolvente.
+
+###### Artigo 90.º — Postos de transformação
+
+Enquanto não existir por parte dos Serviços Municipais projecto tipo a aplicar deverão apresentar-se para análise urbanística e arquitectónica os elementos escritos e gráficos que definam a solução pretendida e a sua relação com a envolvente, bem como a definição dos materiais de revestimento e cores a utilizar.
+
+###### Artigo 91.º — Antenas Emissoras de Radiação electromagnéticas
+
+A instalação, construção, ampliação ou alteração de antenas emissoras de radiações electromagnéticas, designadamente antenas referentes à rede de comunicações móveis, ou estruturas que lhes sirvam de suporte físico, carece de autorização ou licença administrativa, devendo, obedecer, sem prejuízo de outras disposições contidas em legislação especial, às seguintes condições:
+
+a) Respeitar um raio de afastamento mínimo de 100 m a estabelecimentos escolares, creches e unidades de saúde;
+
+b) Apresentar para análise urbanística e arquitectónica os elementos que definam o tipo de estrutura e materiais utilizados, bem como o seu enquadramento paisagístico e relação com a envolvente.
+
+###### Artigo 92.º — Indeferimento do pedido de licenciamento
+
+O pedido de licenciamento da ocupação da via pública é indeferido quando:
+
+a) Da ocupação requerida resultem prejuízos para o trânsito, segurança de pessoas e bens e estética das povoações ou beleza da paisagem;
+
+b) A ocupação resulte de operação urbanística embargada não licenciada ou autorizada;
+
+c) A ocupação viole as normas legais e regulamentares aplicáveis;
+
+d) A ocupação ou a natureza dos materiais a manusear seja susceptível de danificar as infra estruturas existentes, salvo se for prestada caução.
+
+#### SECÇÃO II — Execução de obras no espaço público
+
+##### SUBSECÇÃO I — Regras gerais
+
+###### Artigo 93.º — Licenciamento
+
+1 - A realização de obras, no domínio público municipal, para instalação de infra-estruturas, por entidades públicas, privadas ou concessionárias de serviços públicos, está sujeita a licenciamento municipal.
+
+2 - Estão isentos de licença municipal os trabalhos promovidos por entidades concessionárias de obras ou serviços públicos, quando se reconduzam à prossecução do objecto da concessão nos termos da alínea e), do numero 1, do artigo 7.º do RJUE.
+
+3 - Sempre que se preveja a interrupção do trânsito, o requerente deve entregar, aquando do levantamento do alvará, cópia do aviso publicado na imprensa nos termos do número 3 do artigo 104.º.
+
+4 - As obras referidas no número 1 não podem ser iniciadas sem que se mostrem pagas as taxas correspondentes, prestadas as cauções necessárias e apresentado o documento comprovativo da existência do seguro de responsabilidade civil.
+
+5 - As obras previstas no número 2 ficam sujeitas a parecer prévio não vinculativo da Câmara Municipal nos termos do n.º 2, do artigo 7.º do RJUE e devem observar as normas legais e regulamentares que lhe são aplicáveis designadamente as constantes de instrumento de gestão territorial e as normas técnicas de construção.
+
+6 - Sem prejuízo das demais normas legais e regulamentares aplicáveis, as obras referidas nos números anteriores devem ser executadas de acordo com as determinações do presente Regulamento.
+
+7 - A execução de obras no espaço público preexistente, inseridas e previstas em alvará de loteamento, deve ser comunicada aos serviços municipais, com uma antecedência mínima de 20 dias, e está sujeita aos condicionamentos previstos na presente Secção e no anexo II, nos termos dos quais devem ser executadas as medições de projecto e estabelecida a caução.
+
+###### Artigo 94.º — Prestação de caução
+
+1 - A entrega do alvará de licença para execução de obras no espaço público depende da apresentação de comprovativo do depósito de caução, garantia bancária ou seguro/caução, nos termos do RJUE, visando assegurar a correcta reposição dos pavimentos ou outras infra-estruturas.
+
+2 - Nos casos com carácter de urgência, definidos no artigo 100.º, a caução é prestada no prazo máximo de 5 dias úteis após a comunicação, pela Câmara, do seu valor.
+
+3 - O montante da caução corresponde à estimativa do valor dos trabalhos de reposição dos pavimentos ou outras infra-estruturas afectadas pelas obras executadas no espaço público.
+
+4 - Admite-se, mediante a prévia celebração de acordo escrito, que a caução a prestar seja global, para o conjunto das obras previsivelmente a realizar num ano; este acordo deverá prever a garantia e modo de execução das reparações que se venham a demonstrar necessárias, no prazo de garantia de cinco anos.
+
+5 - A conclusão dos trabalhos, redução da caução, deficiências de execução, recepção e garantias da obra são as previstas na subsecção VII da presente secção.
+
+###### Artigo 95.º — Organização e coordenação
+
+1 - Os planos de utilização do espaço público e suas actualizações devem ser entregues atempadamente, nos serviços municipais, de modo a permitir o planeamento global, a coordenação e o acompanhamento das obras.
+
+2 - Os planos referidos no número anterior não substituem o licenciamento municipal, a requerer, nos termos da Subsecção II do presente capítulo.
+
+###### Artigo 96.º — Reajuste de infra-estruturas
+
+Sempre que a Câmara Municipal promova rectificações ou recargas de pavimento, constitui obrigação das entidades com infra-estruturas na via pública, a sua reposição ou ajuste em altimetria e/ou alinhamento, aplicando-se a estas obras o regime previsto para as obras com carácter de urgência, com as devidas adaptações.
+
+##### SUBSECÇÃO II — Licenciamento
+
+###### Artigo 97.º — Pedido de licenciamento
+
+O pedido de licenciamento para a execução de obras na via pública, deve ser efectuado com uma antecedência mínima de 20 dias úteis e instruído com os elementos referidos no Titulo III, Capitulo II, Secção V.
+
+###### Artigo 98.º — Condicionamento e indeferimento do pedido de licenciamento
+
+1 - A Câmara Municipal pode determinar alterações à programação e execução dos trabalhos, tendo em conta o volume da obra, as condições do trânsito e a importância do local.
+
+2 - As características do espaço público podem determinar condições especiais de reposição de materiais.
+
+3 - O tipo e localização da intervenção a realizar, pode obrigar à colocação de tubagens adicionais (negativos) para instalação futura de outras infra-estruturas.
+
+4 - O pedido de licenciamento de execução de obras em espaço público é indeferido quando:
+
+a) As obras provoquem prejuízos para a segurança de pessoas e bens;
+
+b) As obras violem as normas legais e regulamentares aplicáveis.
+
+###### Artigo 99.º — Alteração à programação dos trabalhos
+
+1 - Tendo em conta o volume de obra, o trânsito e a importância do local, a Câmara Municipal pode determinar alterações à programação e execução dos trabalhos, nomeadamente, períodos do dia, dias da semana e prazos de execução.
+
+2 - Quando, por conveniência do dono da obra, devidamente fundamentada, haja alteração na data do início da obra ou necessidade de prorrogação do prazo de execução, a alteração deve ser comunicada à Câmara Municipal, com a antecedência mínima de 6 dias úteis, não podendo os trabalhos iniciar-se ou prosseguir sem que seja efectuado o aditamento ao alvará.
+
+##### SUBSECÇÃO III — Obras com carácter de urgência
+
+###### Artigo 100.º — Carácter de urgência das obras
+
+São obras com carácter de urgência, aquelas que requeiram execução imediata, nomeadamente:
+
+a) Reparação de fugas de água ou gás;
+
+b) Reparações de avarias em cabos;
+
+c) Substituição de postes ou outros elementos, em perigo iminente de queda;
+
+d) Reparação de infra-estruturas cujo estado constitua perigo para pessoas e bens.
+
+###### Artigo 101.º — Início das obras com carácter de urgência
+
+1 - A execução das obras com carácter de urgência pode iniciar-se de imediato, devendo o início das mesmas ser comunicado por escrito, podendo ser "via fax" ou por correio electrónico, até ao primeiro dia útil seguinte ao da ocorrência da intervenção.
+
+2 - Sempre que a intervenção exija a interrupção do trânsito, a comunicação da situação deve ser feita de imediato à Guarda Nacional Republicana e á Câmara Municipal da Sertã.
+
+##### SUBSECÇÃO IV — Identificação, sinalização e medidas de segurança
+
+###### Artigo 102.º — Identificação da obra
+
+1 - A realização de obras no domínio público municipal, salvo os casos previstos no artigo 100.º, está sujeita à colocação de painéis em material imperecível, contendo as seguintes indicações:
+
+a) Identificação do dono da obra;
+
+b) Identificação da entidade e do técnico responsáveis pela execução da obra;
+
+c) Número do alvará do exercício da actividade de construção;
+
+d) Número do alvará de licença;
+
+e) Prazo de execução.
+
+2 - Os painéis devem ser colocados em locais bem visíveis, em cada frente de trabalho e junto ao estaleiro da obra.
+
+3 - Os painéis identificativos devem ser retirados no prazo máximo de 3 dias após a conclusão dos trabalhos.
+
+###### Artigo 103.º — Sinalização da obra
+
+1 - O dono da obra é responsável pela ocorrência de qualquer acidente cujas causas lhe sejam imputáveis.
+
+2 - A sinalização dos trabalhos é da responsabilidade do dono da obra e deve ser feita nos termos seguintes:
+
+a) De acordo com a legislação em vigor relativa à sinalização de carácter temporário de obras e obstáculos na via pública, incluindo iluminação nocturna;
+
+b) Deve ser retirada do local depois de repostas as condições normais de circulação e imediatamente após a conclusão dos trabalhos.
+
+3 - Na fase de colocação da sinalização deve o promotor comunicar o início dos trabalhos à Câmara Municipal, por escrito, podendo ser "via fax", e com uma antecedência mínima de 3 dias úteis.
+
+###### Artigo 104.º — Medidas de segurança
+
+1 - Os trabalhos devem ser executados de modo a garantir o trânsito pedonal e automóvel, sendo utilizados todos os meios adequados a manter a segurança e comodidade da circulação, nomeadamente, passadiços, guardas e outros dispositivos de acesso às propriedades e ligação entre vias, incluindo, se necessário, a requisição de intervenção de meios policiais.
+
+2 - A zona dos trabalhos deve ser protegida por tapumes, redes plásticas, guardas ou grades fabricadas para o efeito, para além da sinalização específica adequada.
+
+3 - O dono da obra deve publicitar a interrupção do trânsito nos meios de comunicação social (em pelo menos um jornal de âmbito local), indicando o local, as horas e os dias em que tal ocorrerá e os circuitos alternativos.
+
+##### SUBSECÇÃO V — Execução da obra
+
+###### Artigo 105.º — Condições técnicas
+
+As condições técnicas de execução da obra são as constantes do Anexo II do presente Regulamento.
+
+###### Artigo 106.º — Mudança de frente e natureza de trabalho
+
+1 - A mudança significativa da frente de trabalho ou da sua natureza, deve ser previamente comunicada à Câmara Municipal.
+
+2 - No caso de incumprimento do disposto no número anterior, a Câmara Municipal pode exigir ao promotor a realização de ensaios e sondagens antes da recepção das obras.
+
+3 - Os ensaios previstos no n.º 2 devem ser realizados por entidades acreditadas, na presença de técnicos municipais.
+
+##### SUBSECÇÃO VI — Fiscalização técnica e embargo da obra
+
+###### Artigo 107.º — Elementos a disponibilizarem no local da obra
+
+No local das obras devem estar disponíveis a cópia do projecto aprovado pela Câmara Municipal, o alvará de licença e o livro de obra, devendo ser facultados à fiscalização sempre que sejam solicitados.
+
+###### Artigo 108.º — Embargo
+
+1 - Sempre que se verifique a violação do disposto nesta Secção e o estipulado no alvará de licenciamento, deve a Câmara Municipal embargar a obra, parcial ou totalmente.
+
+2 - São ainda motivos de embargo da obra:
+
+a) Utilização de material de aterro com características desadequadas;
+
+b) Deficiente compactação de aterro;
+
+c) Reposição incorrecta do pavimento;
+
+d) Incumprimento dos prazos aprovados ou regulamentares;
+
+e) Ausência ou deficiente sinalização;
+
+f) Utilização de meios técnicos desadequados;
+
+g) Falta de condições de segurança;
+
+h) Incorrecto acondicionamento de materiais;
+
+i) Danificação ou deterioração da área envolvente.
+
+3 - Em caso de embargo, é da responsabilidade do dono da obra a manutenção das condições de trânsito para veículos e peões, podendo a Câmara Municipal substituir-se-lhe, nos termos previstos nos artigos 205.º e 206.º
+
+##### SUBSECÇÃO VII — Conclusão e recepção da obra
+
+###### Artigo 109.º — Conclusão da obra
+
+1 - A conclusão da obra deve ser comunicada à Câmara Municipal.
+
+2 - Após a comunicação referida no número anterior, a Câmara Municipal realiza uma vistoria no prazo máximo de 22 dias, após o qual a obra é considerada recebida provisoriamente, se outra coisa não for referida no auto de vistoria.
+
+3 - Após a recepção provisória, a requerimento do interessado, a caução pode ser reduzida até um valor não inferior a 10% do seu valor total.
+
+4 - O interessado deve requerer a recepção definitiva da obra cinco anos após a recepção provisória.
+
+5 - A caução será libertada após a recepção definitiva da obra.
+
+###### Artigo 110.º — Deficiências de execução
+
+1 - Caso se verifiquem deficiências que determinem a reexecução das obras, no todo ou em parte, a Câmara Municipal notifica a entidade responsável, fixando o prazo para execução dos trabalhos, sem prejuízo da colocação imediata, sempre que se justifique, da sinalização e protecção da zona a reparar.
+
+2 - Sem prejuízo do disposto no número anterior, a entidade responsável deve providenciar o início dos trabalhos de reparação no prazo de 72 horas.
+
+3 - Após a conclusão das obras referidas no número anterior, o interessado deve proceder à comunicação referida no n.º 1 do artigo 109.º
+
+###### Artigo 111.º — Garantia da obra
+
+1 - Até à recepção definitiva da obra são da inteira responsabilidade da entidade promotora os prejuízos que advenham, para o interesse público ou para terceiros, por causa imputável à realização dos trabalhos e sua manutenção.
+
+2 - Sempre que, no decorrer do prazo de garantia de cinco anos, se verifiquem anomalias que prejudiquem a normal circulação do trânsito, a correcção deve ser realizada de acordo com os procedimentos referidos no artigo anterior.
+
+3 - Em caso de incumprimento do disposto no número anterior a Câmara Municipal pode substituir-se ao dono da obra, nos termos previstos nos artigos 205.º e 206.º.
+
+## TÍTULO III — Procedimentos
+
+### CAPÍTULO I — Técnicos
+
+###### Artigo 112.º — Inscrição
+
+1 - Para projectar ou dirigir obras relativas às operações urbanísticas referidas no RJUE, os técnicos podem inscrever-se na Câmara Municipal ficando, neste caso, isentos da apresentação da prova da inscrição em associação pública de natureza profissional ou de habilitação adequada previstas no artigo 10.º do RJUE.
+
+2 - A inscrição a que se refere o número anterior tem a validade de três anos, renovável.
+
+3 - A renovação da inscrição efectua-se a requerimento do interessado, o qual deve ser apresentado até vinte dias antes do termo do prazo de validade.
+
+4 - Só podem inscrever-se na Câmara Municipal os técnicos que, de acordo com a legislação em vigor, tenham qualificação e habilitações profissionais suficientes.
+
+5 - Os técnicos inscritos devem manter actualizados os dados constantes na ficha de inscrição, devendo, para o efeito, comunicar por escrito qualquer alteração, nomeadamente a informação quanto à validade da inscrição em associação pública de natureza profissional ou eventual alteração de residência.
+
+6 - A Câmara Municipal manterá uma listagem dos técnicos e das operações urbanísticas de que são responsáveis.
+
+7 - Os técnicos da administração pública são dispensados dos procedimentos previstos nos números anteriores, sempre que intervenham em operações urbanísticas isentas de licença ou autorização, nos termos previstos no artigo 7.º do RJUE.
+
+###### Artigo 113.º — Processamento
+
+A inscrição ou a renovação efectua-se mediante requerimento do interessado, acompanhado dos seguintes documentos, actualizados:
+
+a) Documento comprovativo de inscrição na associação pública profissional ou de habilitação adequada;
+
+b) Duas fotografias tipo passe.
+
+###### Artigo 114.º — Anulação e caducidade da inscrição
+
+1 - A inscrição é anulada:
+
+a) A requerimento do interessado;
+
+b) A requerimento da associação profissional onde o técnico esteja inscrito, desde que devidamente fundamentada;
+
+c) Por aplicação de sanção acessória em processo de contra-ordenação.
+
+2 - A inscrição caduca:
+
+a) Pelo decorrer do prazo de validade da inscrição, nos termos do número 2 do artigo 71.º
+
+b) Se, no caso da actividade estar abrangida por inscrição em associação pública de natureza profissional, aquela inscrição, por razões estatutárias, perder a validade.
+
+3 - A anulação da inscrição por força das alíneas b) e c) do número 1 será comunicada ao técnico e à Ordem ou Associação em que aquele estiver inscrito, no prazo de vinte dias.
+
+4 - O cancelamento da inscrição por força do número 2 será comunicado ao técnico no prazo de vinte dias.
+
+###### Artigo 115.º — Qualificação dos técnicos autores dos projectos
+
+Sem prejuízo de legislação específica, é obrigatório os projectos de arquitectura serem elaborados por arquitectos, quando inseridos em:
+
+a) Núcleo(s) Histórico(s), assim definidos em PMOT;
+
+b) Imóveis classificados e respectivas zonas de protecção;
+
+c) Empreendimentos turísticos, nos termos da legislação em vigor.
+
+###### Artigo 116.º — Competências e obrigações dos técnicos autores dos projectos e directores técnicos de obras
+
+Sem prejuízo de qualquer outra competência ou obrigação definida na lei, os técnicos responsáveis devem:
+
+a) Cumprir a legislação em vigor e os regulamentos municipais aplicáveis aos projectos, apresentando os processos devidamente instruídos e sem erros ou omissões;
+
+b) Cumprir ou fazer cumprir nas obras sob a sua direcção e responsabilidade, todos os projectos aprovados, normas de execução, disposições legais aplicáveis e intimações que sejam feitas pela Câmara Municipal;
+
+c) Dirigir técnica e efectivamente as obras da sua responsabilidade, registando as suas visitas no livro de obra;
+
+d) Tratar de todos os assuntos de natureza técnica que se relacionem com a elaboração dos projectos e direcção de obra, junto dos serviços municipais.
+
+### CAPÍTULO II — Instrução de pedidos
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 117.º — Operações urbanísticas sujeitas a comunicação prévia
+
+1 - As operações urbanísticas referidas na alínea a) do n.º 1 do artigo 6.º do RJUE, desde que em edifícios localizados nos Núcleos Históricos, assim definidos em PMOT, as da alínea b) do mesmo número e artigo, em edifícios classificados e suas zonas de protecção, assim como as obras de escassa relevância urbanística, definidas no art.º 9.º do presente regulamento, devem ser previamente comunicadas à Câmara Municipal e ficam sujeitas ao regime dos artigos 34.º, 35.º e 36.º do RJUE.
+
+2 - As obras sujeitas a comunicação prévia, nos termos do número anterior, devem cumprir a legislação em vigor, nomeadamente em matéria de ordenamento do território, da utilização do solo e do domínio público hídrico.
+
+###### Artigo 118.º — Projecto de execução
+
+1 - Para efeitos do disposto no número 4 do artigo 80.º do RJUE, dispensa-se a apresentação dos projectos de execução de arquitectura e das várias especialidades, nos casos de obras de escassa relevância urbanística, definidas no art.º 9.º do presente regulamento, dispensa esta que não isenta do dever de possuir projecto e de só executar obras de acordo com o mesmo.
+
+2 - Em todas as restantes operações urbanísticas e no prazo de 60 dias a contar do início dos trabalhos, deve o promotor da obra apresentar os projectos de execução de arquitectura e das várias especialidades, em formato digital.
+
+3 - Ao disposto no número anterior acresce a obrigação de apresentar uma cópia em suporte de papel nas seguintes situações:
+
+a) Obras que pela sua natureza e dimensão justifiquem maior pormenorização, a determinar aquando da apreciação e decisão sobre o projecto base;
+
+b) Projectos de imóveis classificados;
+
+c) Projectos de obras situadas em zonas de protecção a imóveis classificados;
+
+d) Projectos de edifícios de equipamento de utilização colectiva;
+
+e) Projectos de intervenção paisagística.
+
+###### Artigo 119.º — Projectos de especialidades ou de infra-estruturas
+
+1 - Todos os projectos das especialidades ou das infra-estruturas referentes à autorização ou licenciamento de qualquer operação urbanística devem ser entregues simultaneamente e nos prazos fixados no RJUE.
+
+2 - Sempre que a localização do prédio ou o tipo de obra o justifique, podem ser solicitados, fundamentadamente, estudos complementares como de tráfego, sondagens ou estudos arqueológicos e geológicos ou outros.
+
+3 - No caso de autorizações administrativas, os projectos referidos nos números anteriores, devem ser acompanhados dos respectivos pareceres de aprovação das entidades competentes exteriores ao município.
+
+###### Artigo 120.º — Normas de apresentação dos projectos
+
+1 - As peças escritas e desenhadas devem ser numeradas e ordenadas conforme as normas de instrução do pedido, Anexo I e III, e incluir um índice que refira o número de páginas e documentos apresentados.
+
+2 - Todas as peças escritas e desenhadas devem ser datadas e assinadas pelo autor do projecto.
+
+3 - As peças escritas devem ter formato A4. As desenhadas devem ser dobradas no formato A4, quando de dimensão superior.
+
+4 - As escalas indicadas nos desenhos não dispensam a cotagem.
+
+5 - Em desenhos de alteração e sobreposição (plantas e alçados) devem ser representados:
+
+a) A preto, os elementos a conservar;
+
+b) A vermelho, os elementos a construir;
+
+c) A amarelo, os elementos a demolir.
+
+6 - Os projectos e as telas finais devem ser apresentados em papel e em formato digital.
+
+7 - Não se aceitam peças rasuradas.
+
+8 - As peças que integram os requerimentos devem ser apresentadas e dobradas em formato A4 e com faixa de furação; cada exemplar deve ser furado e envolvido por elástico, não se aceitando capas, caixas, argolas ou qualquer outra forma de apresentação.
+
+###### Artigo 121.º — Elementos adicionais
+
+A Câmara Municipal pode solicitar, por uma vez, em cada fase do procedimento, a entrega de elementos adicionais quando considerados necessários à apreciação dos pedidos referidos nas secções II a V do presente capítulo.
+
+###### Artigo 122.º — Toponímia e números de polícia
+
+1 - O procedimento de atribuição de topónimos e de números de polícia inicia-se com a emissão do alvará de loteamento e com a aprovação do pedido de licenciamento ou de autorização de edificação.
+
+2 - As placas de toponímia devem estar colocadas nos arruamentos e espaços públicos à data da vistoria para recepção provisória das obras de urbanização.
+
+3 - Nas operações de loteamento sem obras de urbanização é avaliada pelos serviços municipais a necessidade de atribuição de topónimos.
+
+4 - Sempre que se preveja a afixação de placas toponímicas em edificações a construir, deve prever-se suporte provisório da sinalização toponímica.
+
+5 - Os suportes de toponímia, ainda que colocados em edifícios particulares, são propriedade da Câmara Municipal e, ou, das Juntas de Freguesia, a quem compete a respectiva manutenção e substituição.
+
+6 - A numeração de polícia e os topónimos são atribuídos no momento da aprovação do projecto de arquitectura da edificação, constando dos alvarás de licença ou autorização de construção e de utilização.
+
+7 - A numeração das portas deve ser conservada em bom estado, não sendo permitido retirar ou alterar a numeração de polícia sem prévia autorização da Câmara Municipal.
+
+8 - No caso de demolição de edificações, a remoção de placas toponímicas carece de prévia autorização da Câmara Municipal.
+
+#### SECÇÃO II — Operações de loteamento e obras de urbanização
+
+###### Artigo 123.º — Instrução dos pedidos
+
+A instrução dos pedidos relativos às operações de loteamento e obras de urbanização é feita nos termos das normas, constantes no anexo I:
+
+a) Informação prévia de operações de loteamento - norma 1;
+
+b) Informação prévia de obras de urbanização - norma 2;
+
+c) Autorização de operações de loteamento - norma 8;
+
+d) Licenciamento de operações de loteamento - norma 9;
+
+e) Licenciamento de operações de emparcelamento de prédios, de que resulte um só lote - norma 10;
+
+f) Autorização de obras de urbanização - norma 11;
+
+g) Licenciamento de obras de urbanização - norma 12;
+
+h) Projecto de arruamentos - norma 13;
+
+i) Projecto de intervenção paisagística - norma 14;
+
+j) Redução parcial do valor da caução - norma 36;
+
+k) Recepção provisória e definitiva das obras de urbanização - norma 37;
+
+l) Renovação do licenciamento ou autorização de operações de loteamento (Art. 72.º RJUE) - norma 41;
+
+m) Renovação do licenciamento ou autorização de obras de urbanização ou trabalhos de remodelação de terrenos (Art. 72.º RJUE) - norma 42.
+
+###### Artigo 124.º — Equipa multidisciplinar para projectos de loteamento
+
+Para os efeitos do disposto no artigo 4.º do [Decreto-Lei n.º 292/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1995-689635), de 14 de Novembro:
+
+a) Os projectos de operações de loteamento são elaborados por equipas multidisciplinares que devem incluir, pelo menos, um arquitecto, um engenheiro civil ou um engenheiro técnico civil, e um arquitecto paisagista;
+
+b) As equipas multidisciplinares de projectos de loteamento dispõem de um coordenador técnico designado entre os seus membros;
+
+c) Os técnicos devem subscrever uma declaração conjunta, comprovativa da constituição da equipa técnica para a realização do projecto em causa, identificando o coordenador técnico do projecto a apresentar com o projecto de loteamento.
+
+###### Artigo 125.º — Dispensa de equipa técnica
+
+1 - Para além das excepções previstas na legislação em vigor, dispensam-se do disposto no artigo anterior as operações de loteamento que:
+
+a) Cumulativamente, não exceda os 17 fogos ou unidades funcionais e a área total a lotear de 5000 m2;
+
+b) Incidam em áreas abrangidas por Plano de Urbanização ou de Pormenor;
+
+c) Cujos lotes confinem todos com arruamentos públicos existentes, não implicando alterações às redes viária pública e de infra-estruturas exteriores aos prédios.
+
+2 - Os projectos de operações de loteamento urbano previstos no número anterior podem ser elaborados, individualmente, por arquitecto, engenheiro civil, engenheiro técnico civil ou técnico urbanista (ver nota *).
+
+3 - Qualquer loteamento em zona de protecção a edifícios classificados deve ser elaborado por arquitecto ou por equipa multidisciplinar, consoante a área esteja ou não abrangida por plano de urbanização, de pormenor ou de salvaguarda.
+
+(nota *) Para efeitos do presente regulamento consideram-se técnicos urbanistas os definidos no art.º 3º do [Decreto-Lei n.º 292/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1995-689635) de 14 de Novembro.
+
+###### Artigo 126.º — Execução
+
+1 - Antes do início dos trabalhos, o técnico responsável pela direcção técnica das obras deve apresentar o programa de execução das mesmas, às entidades responsáveis envolvidas.
+
+2 - Sem prejuízo do disposto no artigo 56.º do RJUE, o prazo para execução da totalidade das obras não pode exceder 5 anos.
+
+3 - Na execução dos trabalhos de urbanização devem ser tomadas medidas que evitem perturbar a vida urbana na envolvente, para além do estritamente necessário.
+
+4 - É da responsabilidade do promotor a correcção e recuperação das infra-estruturas públicas danificadas por força da execução das obras de urbanização.
+
+5 - Após a conclusão dos trabalhos é solicitada à Câmara Municipal a recepção provisória das obras de urbanização.
+
+###### Artigo 127.º — Recepção provisória das obras de urbanização
+
+No momento da recepção provisória das obras de urbanização, que será precedida de vistoria, devem verificar-se as seguintes condições:
+
+a) Os arruamentos e restantes infra-estruturas, incluindo espaços verdes e sistemas de rega (programados e em funcionamento) e iluminação pública devem estar executadas de acordo com o definido em alvará de loteamento ou contrato de urbanização;
+
+b) Os lotes devem estar modelados, piquetados e assinalados por meio de marcos;
+
+c) O mobiliário urbano deve estar instalado.
+
+###### Artigo 128.º — Recepção provisória parcial das obras de urbanização
+
+Pode admitir-se a recepção parcial e provisória das obras de urbanização nos casos em que a Câmara Municipal reconheça ser necessário, nomeadamente, nos casos de arruamentos, zonas verdes ou de utilização colectiva.
+
+#### SECÇÃO III — Edificação
+
+###### Artigo 129.º — Instrução dos pedidos
+
+A instrução dos pedidos relativos à edificação, demolição e utilização é feita nos termos das normas seguintes:
+
+a) Informação prévia de obras de edificação - norma 3;
+
+b) Informação prévia de obras de edificação (no Núcleo Histórico e/ou a submeter à apreciação do IPPAR / IPA) - norma 4;
+
+c) Informação prévia sobre obras de demolição - norma 5;
+
+d) Informação prévia sobre alteração de utilização (de edifícios ou fracções) - norma 6;
+
+e) Autorização de obras de edificação - norma 15;
+
+f) Licenciamento de obras de edificação - norma 16;
+
+g) Memória descritiva e justificativa - Licenciamento ou autorização de obras de edificação - norma 17;
+
+h) Memória descritiva e justificativa - Licenciamento de obras de edificação no Núcleo Histórico e/ou a submeter à apreciação do IPPAR - norma 18;
+
+i) Projecto de arquitectura - Licenciamento ou autorização de obras de edificação - norma 19;
+
+j) Projecto de arquitectura - Licenciamento de obras de edificação no Núcleo Histórico e/ou a submeter à apreciação do IPPAR - norma 20;
+
+k) Projectos das especialidades - Licenciamento ou autorização de obras de edificação - norma 21;
+
+l) Projecto de condicionamento acústico - norma 22;
+
+m) Propriedade horizontal - norma 23;
+
+n) Autorização de obras de demolição - norma 24;
+
+o) Licenciamento de obras de demolição - norma 25;
+
+p) Autorização de utilização - norma 26;
+
+q) Licenciamento ou Autorização de alteração de utilização - norma 27;
+
+r) Licenciamento ou Autorização da construção de muros - norma 31;
+
+s) Demolição, escavação e contenção periférica - norma 32;
+
+t) Projecto de escavação e contenção periférica - norma 33;
+
+u) Comunicação prévia - norma 35;
+
+v) Renovação do licenciamento ou autorização de obras em edifícios (Art. 72.º RJUE) - norma 40;
+
+w) Licença especial para conclusão de obras inacabadas (Art. 88.º RJUE) - norma 43.
+
+###### Artigo 130.º — Propriedade horizontal
+
+1 - A requerimento do interessado, pode ser emitida certidão do cumprimento dos requisitos para constituição ou alteração do edifício em propriedade horizontal se da análise do projecto de arquitectura, ou não existindo projecto aprovado, por não ser exigível, da vistoria ao edifício, assim se concluir.
+
+2 - Para além dos requisitos previstos no regime da propriedade horizontal, consideram-se requisitos para a constituição ou alteração da propriedade horizontal:
+
+a) O prédio estar legalmente constituído;
+
+b) Não ser necessário a sua divisão através de um processo de loteamento;
+
+c) Não se verificar a existência de obras não licenciadas;
+
+d) Cada uma das fracções autónomas a constituir disponha, ou possa vir a dispor, após a realização de obras, das condições de utilização legalmente exigíveis;
+
+e) As garagens ou os lugares de estacionamento privado devem ficar integrados nas fracções que os motivaram, na proporção regulamentar;
+
+f) As garagens em número para além do exigido neste Regulamento, podem constituir fracções autónomas;
+
+g) Os espaços físicos destinados ao estacionamento colectivo privado, quer se situem na área coberta ou descoberta do lote, as dependências destinadas a arrumos, o vão do telhado não podem constituir fracções autónomas, devendo ficar incluídos nos espaços comuns do edifício ou, no caso dos arrumos, incluídos nas fracções de habitação, comércio ou serviços.
+
+###### Artigo 131.º — Identificação de fogos ou fracções
+
+1 - Nos edifícios possuindo dois fogos ou fracções por piso, com entrada comum, a designação de "esquerdo" caberá ao fogo ou fracção que se situe à esquerda de quem acede ao patamar respectivo, pelas escadas.
+
+2 - Se em cada andar houver três ou mais fogos ou fracções, estes deverão ser referenciados segundo a chegada ao patamar nos termos do número anterior, pelas letras do alfabeto, de A em diante e no sentido do movimento dos ponteiros do relógio, conforme exemplificado na figura 24.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+Figura 24
+
+###### Artigo 132.º — Estimativa orçamental das obras
+
+O valor da estimativa do custo de obras de edificação sujeitas a licenciamento ou autorização é elaborado com base no valor unitário de custo de construção fixado de acordo com a seguinte fórmula:
+
+E = Cm x K, em que:
+
+E - corresponde ao valor do custo de construção por metro quadrado de área bruta de construção;
+
+Cm - corresponde ao custo do metro quadrado de construção para o concelho, fixado por portaria, publicada anualmente nos termos do n.º 1 do artigo 7.º do Decreto-Lei n.º13/86, de 23 de Janeiro;
+
+K - corresponde ao factor a aplicar a cada tipo de obra, sendo:
+
+Habitação unifamiliar ou colectiva - 0.60;
+
+Caves, garagens e anexos - 0.30;
+
+Edifícios para estabelecimentos comerciais, serviços e multiusos - 0.50;
+
+Pavilhões comercias ou industriais - 0.35;
+
+Construções rurais para agricultura ou pavilhões agrícolas - 0.20;
+
+Muros confinantes com a via pública (m/l) - 0.05;
+
+Muros não confinantes com via pública (m/l) - 0.025.
+
+###### Artigo 133.º — Autorização para construção em loteamentos
+
+1 - A autorização para a realização de obras de edificação em lotes resultantes de uma operação de loteamento, antes de efectuada a recepção provisória das obras de urbanização, apenas pode ser concedida nas seguintes condições:
+
+a) A caução a que se refere o artigo 54.º do RJUE seja suficiente para assegurar a execução das obras de urbanização em falta, o que deve ser expressamente reconhecido;
+
+b) Os arruamentos, as infra-estruturas de água e saneamento e a rede de distribuição de energia eléctrica, iluminação pública, gás e telecomunicações, que servem o lote em causa, se encontrem em adiantado estado de execução.
+
+2 - Por "adiantado estado de execução", entende-se que estão concluídas as infra-estruturas subterrâneas e executados os arruamentos, à excepção da camada de desgaste.
+
+###### Artigo 134.º — Conclusão da obra de edificação
+
+Considera-se que uma obra de edificação está concluída, quando estiverem executados:
+
+a) Todos os trabalhos previstos nos projectos aprovados e nas condições de licenciamento ou autorização, designadamente, muros de vedação, arranjo dos logradouros e arranjos exteriores, incluindo a colocação de iluminação pública, mobiliário urbano, plantação de espécies vegetais ou o ajardinamento de espaços públicos;
+
+b) A remoção de todos os materiais e resíduos da obra;
+
+c) A reparação de quaisquer estragos ou deteriorações causados em infra-estruturas pública.
+
+###### Artigo 135.º — Licença ou autorização de utilização dos edifícios
+
+1 - A licença ou autorização de utilização deve ser requerida pelo titular da licença ou autorização de construção, após conclusão da obra e antes do edifício ou fracção ser utilizado, nos termos do disposto no artigo 76º do RJUE.
+
+2 - A licença ou autorização de utilização dos edifícios ou das suas fracções autónomas não é concedida em caso de incumprimento do disposto no artigo 134.º do presente regulamento.
+
+#### SECÇÃO IV — Trabalhos de remodelação de terrenos e outras operações urbanísticas
+
+###### Artigo 136.º — Instrução dos pedidos
+
+A instrução dos pedidos de remodelação de terrenos e outras operações urbanísticas é feita nos termos das normas seguintes:
+
+a) Informação prévia sobre remodelação de terrenos e outras operações urbanísticas - norma 7;
+
+b) Autorização de obras de remodelação de terrenos - norma 28;
+
+c) Licenciamento de obras de remodelação de terrenos - norma 21;
+
+d) Autorização de outras operações urbanísticas - norma 30;
+
+e) Destaque - norma 34;
+
+f) Autorização de instalação de infra-estruturas de suporte de estações de radiotelecomunicações - norma 39;
+
+g) Renovação do licenciamento ou autorização de obras de urbanização ou de trabalhos de remodelação de terrenos (Art. 72.º RJUE) - norma 42;
+
+h) Pedido de parecer sobre constituição de compropriedade ou alteração de número de compartes de prédios rústicos (Artigo 54.º da [Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/lei/64-2003-655965), de 23/08) - norma 45.
+
+#### SECÇÃO V — Ocupação e execução de obras no espaço público
+
+###### Artigo 137.º — Instrução dos pedidos
+
+A instrução dos pedidos de ocupação e utilização do espaço público é feita nos termos das normas seguintes:
+
+a) Licenciamento de ocupação de via pública - norma 38;
+
+b) Licenciamento de execução de obras na via pública - norma 44.
+
+## TÍTULO IV — Taxas e compensações
+
+### CAPÍTULO I — Regras gerais
+
+###### Artigo 138.º — Princípios de equidade relativos a operações urbanísticas
+
+1 - As taxas e as compensações definidas neste Regulamento prosseguem os princípios de igualdade e equidade de tratamento das diversas operações urbanísticas e de uma justa distribuição de encargos pelos diversos agentes, no processo de ocupação do território.
+
+2 - Os encargos referidos no número anterior correspondem a:
+
+a) Contraprestação pela concessão de licença ou autorização de loteamento, de licença ou autorização de obras de urbanização, de execução de obras de edificação e demolição, de ocupação da via pública por motivo de obras e de utilização de edifícios, bem como de obras para ocupação ou de utilização do solo, subsolo e espaço aéreo do domínio público municipal, correspondentes à contrapartida pela remoção do limite legal à possibilidade de realizar a operação urbanística e pelos serviços técnico/administrativos prestados;
+
+b) Contraprestação pela realização, manutenção e reforço de infra-estruturas urbanísticas;
+
+c) Compensação pela não cedência de terreno para construção de espaços verdes públicos, equipamentos de utilização colectiva e infra-estruturas.
+
+3 - As taxas e compensações correspondentes a loteamentos e a edificações são proporcionais à "área bruta de construção" a licenciar ou autorizar aos promotores.
+
+###### Artigo 139.º — Regime de pagamento
+
+1 - Sem prejuízo de outro regime admitido por lei, as taxas previstas no presente Regulamento são pagas:
+
+a) No momento de entrega do pedido, as previstas nos artigos 142.º a 144.º; 147.º; 161.º; 162.º; 166.º; 167.º; 178.º a 181.º; 196.º, 197.º números 1 e 2;
+
+b) Faseadamente, nos momentos da entrega do pedido e do levantamento da documentação solicitada, as previstas nos artigos 145.º; 146.º; 148.º a 151.º; 154.º a 157.º; 159.º; 165.º; 168.º; 169.º; 172.º a 174.º; 177.º; 182.º a 185.º;
+
+c) No momento do levantamento da documentação solicitada, as previstas nos artigos 152.º; 153.º; 158.º; 160.º; 163.º; 164.º; 170.º; 171.º; 175.º; 176.º; 186.º a 195.º; 197.º números 3 a 13;
+
+2 - Os actos administrativos, alvarás e outros documentos referidos no número anterior, não são emitidos ou fornecidos sem que se mostrem pagas as taxas devidas.
+
+###### Artigo 140.º — Liquidação das taxas
+
+1 - Com o deferimento do pedido de licenciamento ou autorização são liquidadas as taxas previstas no presente Regulamento.
+
+2 - A notificação da liquidação das taxas deve conter a fundamentação da liquidação, o montante devido, o prazo para pagamento, bem como a advertência da consequência do não pagamento.
+
+3 - Quando se verifique que na liquidação das taxas e compensações se cometeram erros imputáveis aos serviços municipais e dos quais tenha resultado prejuízo para o Município, promover-se-á, de imediato, a liquidação adicional se, sobre o facto tributário, não houver decorrido mais de quatro anos.
+
+4 - A notificação da liquidação adicional deve conter as menções referidas no número 2.
+
+5 - Quando tenha sido liquidada quantia superior à devida, devem os serviços, no prazo de 30 dias, mediante despacho do presidente da Câmara Municipal, proceder à restituição da importância indevidamente paga.
+
+6 - Não há lugar à liquidação adicional de quantias de valor inferior a cinco euros.
+
+###### Artigo 141.º — Actualização
+
+As taxas previstas no presente Regulamento são actualizadas anualmente, por aplicação da taxa de variação anual de preços no consumidor, excluindo habitação, fornecida pelo Instituto Nacional de Estatística.
+
+### CAPÍTULO II — Edificações
+
+###### Artigo 142.º — Informação prévia
+
+A emissão de informação prévia sobre a realização de obras de edificação está sujeito à taxa de: 40 euros
+
+###### Artigo 143.º — Comunicação prévia
+
+A comunicação prévia prevista no artigo 117.º do presente Regulamento está sujeita à taxa de: 30 euros
+
+###### Artigo 144.º — Aditamentos aos projectos de arquitectura ou especialidades sem alteração à licença ou autorização
+
+Cada aditamento aos projectos de arquitectura ou especialidades está sujeito à taxa de: 30 euros
+
+###### Artigo 145.º — Emissão de alvará de licença ou autorização de obras de edificação
+
+1 - A emissão de alvará de licença ou autorização de obras de edificação está sujeita ao pagamento, pelo dono da obra, de uma taxa correspondente a:
+
+a) Parcela A, correspondente à remoção do limite legal à possibilidade de construir e contraprestação pelos serviços técnico/administrativos prestados: 30 euros (a pagar no momento da entrega do pedido de licenciamento ou autorização);
+
+b) Parcela B, correspondente à contraprestação pelos investimentos municipais na realização, manutenção e reforço das infra-estruturas: N x Ab x L / 10
+
+2 - A taxa prevista no número um corresponde a: T = Parcela A + Parcela B
+
+T= 30 euros + (N x Ab x L / 10)
+
+Em que se designa:
+
+a) T: taxa;
+
+b) N: o número de meses ou fracção aprovada para a execução da obra; no caso de legalização, este período é estimado em função da área de construção a legalizar e da complexidade da obra;
+
+c) Ab: "Área bruta de construção" aprovada ao promotor;
+
+d) L: Conforme a localização dos prédios assume os valores do quadro 8.
+
+Tratando-se de edificação em lote constituído através de loteamento, em conformidade com este, assume o valor 0,5.
+
+QUADRO 8
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+###### Artigo 146.º — Emissão de alvará de licença ou autorização para edifícios com impacte semelhante a loteamento
+
+A emissão de alvará de licença ou autorização de obras de edificação com impacte semelhante a loteamento está sujeita ao encargo previsto no artigo 167.º
+
+###### Artigo 147.º — Demolição escavação e contenção periférica
+
+Para efeitos do disposto no artigo 81.º do RJUE, a demolição, escavação e contenção periférica está sujeita à taxa de: 20 euros
+
+###### Artigo 148.º — Emissão de alvará de licença ou autorização para execução de obras de edificação por fases
+
+A emissão do alvará de licença ou autorização para execução das obras de edificação por fases, está sujeita ao pagamento das seguintes taxas:
+
+1 - Emissão do alvará de licença ou autorização da 1ª fase:
+
+a) Parcela A, correspondente à remoção do limite legal à possibilidade de construir e contraprestação pelos serviços técnico/administrativos prestados: 30 euros (a pagar no momento da entrega do pedido de licenciamento ou autorização);
+
+b) Parcela B, correspondente à contraprestação pelos investimentos municipais na realização, manutenção e reforço das infra-estruturas: N x Ab1ª x L / 10
+
+2 - A taxa prevista no número 1 corresponde a: T = Parcela A + Parcela B
+
+T= 30 euros + (N1ª x Ab1ª x L / 10)
+
+Em que se designa:
+
+a) T: taxa;
+
+b) N1ª: o número de meses ou fracção aprovado para a execução da 1.ª fase da obra;
+
+c) Ab1ª: "Área bruta de construção" aprovada ao promotor na 1ª Fase;
+
+d) L: Conforme a localização dos prédios assume os valores do quadro 8.
+
+3 - Emissão de aditamento ao alvará, para as fases subsequentes:
+
+a) Parcela A, correspondente à remoção do limite legal à possibilidade de construir e contraprestação pelos serviços técnico/administrativos prestados: 30 euros (a pagar no momento da entrega do pedido);
+
+b) Parcela B, correspondente à contraprestação pelos investimentos municipais na realização, manutenção e reforço das infra-estruturas: NSub x AbSub x L / 10
+
+4 - A taxa prevista no número 3 corresponde a: T = Parcela A + Parcela B
+
+T= 30 euros + (NSub x AbSub x L / 10)
+
+Em que se designa:
+
+a) T: taxa;
+
+b) NSub: o número de meses ou fracção aprovada para a execução da fase subsequente da obra; no caso de legalização, este período é estimado em função da área de construção a legalizar e da complexidade da obra;
+
+c) AbSub: "Área bruta de construção" aprovada ao promotor para a fase subsequente;
+
+d) L: Conforme a localização dos prédios assume os valores do quadro 8. Tratando-se de edificação em lote constituído através de loteamento, L assume o valor 0,5.
+
+###### Artigo 149.º — Emissão de alvará de licença ou autorização para execução de obras de edificação com impacte semelhante a loteamento por fases
+
+A emissão do alvará de licença ou autorização para execução das obras de edificação com impacte semelhante a loteamento por fases, está sujeita ao pagamento das taxas previstas no artigo 168.º
+
+###### Artigo 150.º — Alteração ao alvará de licença ou autorização de obras de edificação
+
+1 - A emissão de aditamento ao alvará de licença ou autorização de obras de edificação está sujeita ao pagamento das seguintes taxas:
+
+a) Parcela A, correspondente à remoção do limite legal à possibilidade de construir e contraprestação pelos serviços técnico/administrativos prestados: 30 euros (a pagar no momento da entrega do pedido);
+
+b) Parcela B, correspondente à contraprestação pelos investimentos municipais na realização, manutenção e reforço das infra-estruturas: NExc x AbExc x L / 10
+
+2 - A taxa prevista no número 1 corresponde a: T = Parcela A + Parcela B
+
+T= 30euros + (NExc x AbExc x L / 10)
+
+Em que se designa:
+
+a) T: taxa;
+
+b) NExc: o número de meses ou fracção em excesso relativamente ao prazo anteriormente aprovado para a execução da obra. No caso de não haver alteração ao prazo anteriormente aprovado NExc assume o valor 1;
+
+c) AbExc: "Área bruta de construção" em excesso relativamente ao alvará anterior;
+
+d) L: Conforme a localização dos prédios assume os valores do quadro 8. Tratando-se de edificação em lote constituído através de loteamento, L assume o valor 0,5.
+
+###### Artigo 151.º — Alteração ao alvará de licença ou autorização de obras de edificação com impacte semelhante a loteamento
+
+A emissão de aditamento ao alvará de licença ou autorização das obras de edificação com impacte semelhante a loteamento, está sujeito ao pagamento das taxas previstas no artigo 170.º
+
+###### Artigo 152.º — Prorrogação de prazo para conclusão de obras de edificação
+
+1 - A prorrogação do prazo para conclusão de obras de edificação está sujeita ao pagamento das seguintes taxas, por cada prorrogação:
+
+a) Parcela A, correspondente à remoção do limite legal à possibilidade de construir e contraprestação pelos serviços técnico/administrativos prestados: 30 euros (a pagar no momento da entrega do pedido);
+
+b) Parcela B, correspondente à contraprestação pelos investimentos municipais na realização, manutenção e reforço das infra-estruturas: NPro x Ab x L / 10
+
+2 - A taxa prevista no número 1 corresponde a: T = Parcela A + Parcela B
+
+T= 30euros + (NPro x Ab x L / 10)
+
+Em que se designa:
+
+a) T: taxa;
+
+b) NPro: o número de meses ou fracção de prorrogação solicitada para conclusão da obra;
+
+c) Ab: "Área bruta de construção" autorizada ao promotor;
+
+d) L: Conforme a localização dos prédios assume os valores do quadro 8. Tratando-se de edificação em lote constituído através de loteamento, L assume o valor 0,5.
+
+###### Artigo 153.º — Prorrogação de prazo para conclusão de obras de edificação com impacte semelhante a loteamento
+
+A prorrogação do prazo para conclusão de obras de edificação com impacte semelhante a loteamento está sujeita ao pagamento das taxas previstas no art.º 171.º:
+
+###### Artigo 154.º — Renovação da licença ou autorização de obras de edificação
+
+1 - Para efeitos do artigo 72.º do RJUE, a emissão do alvará de renovação de licença ou autorização está sujeita à seguinte taxa:
+
+a) Parcela A, correspondente à remoção do limite legal à possibilidade de construir e contraprestação pelos serviços técnico/administrativos prestados: 30 euros (a pagar no momento da entrega do pedido de licenciamento ou autorização);
+
+b) Parcela B, correspondente à contraprestação pelos investimentos municipais na realização, manutenção e reforço das infra-estruturas: NRen x Ab x L / 10
+
+2 - A taxa prevista no número 1 corresponde a: T = Parcela A + Parcela B
+
+T= NRen x Ab x L / 10
+
+Em que se designa:
+
+a) T: taxa;
+
+b) NRen: o número de meses ou fracção de prazo aprovado para conclusão da obra;
+
+c) Ab: "Área bruta de construção" autorizada ao promotor;
+
+d) L: Conforme a localização dos prédios assume os valores do quadro 8. Tratando-se de edificação em lote constituído através de loteamento, L assume o valor 0,5.
+
+###### Artigo 155.º — Renovação da licença ou autorização de obras de edificação com impacte semelhante a loteamento
+
+Para efeitos do artigo 72.º do RJUE, a emissão do alvará de renovação de licença ou autorização de obras de edificação com impacte semelhante a loteamento está sujeita à taxa prevista art.º 172º.
+
+###### Artigo 156.º — Emissão de licença especial para conclusão de obras inacabadas
+
+1 - A emissão da licença especial para a conclusão de obras inacabadas nos termos do artigo 88.º do RJUE, sujeita-se à seguinte à taxa:
+
+a) Parcela A, correspondente à remoção do limite legal à possibilidade de construir e contraprestação pelos serviços técnico/administrativos prestados: 30 euros (a pagar no momento da entrega do pedido);
+
+b) Parcela B, correspondente à contraprestação pelos investimentos municipais na realização, manutenção e reforço das infra-estruturas: NEsp x Ab x L / 10
+
+2 - A taxa prevista no número 1 corresponde a: T = Parcela A + Parcela B
+
+T= 30euros +(NEsp x Ab x L / 10)
+
+Em que se designa:
+
+a) T: taxa;
+
+b) NEsp: o número de meses ou fracção aprovado para conclusão da obra;
+
+c) Ab: "Área bruta de construção" autorizada ao promotor;
+
+d) L: Conforme a localização dos prédios assume os valores do quadro 8. Tratando-se de edificação em lote constituído através de loteamento, L assume o valor 0,5.
+
+###### Artigo 157.º — Emissão de alvará de licença ou autorização de obras de demolição
+
+1 - Pela emissão do alvará de licença ou autorização de demolição, não precedendo licença ou autorização de construção, no momento do pedido, é devida a seguinte taxa:
+
+a) Parcela A, correspondente à remoção do limite legal à possibilidade de construir e contraprestação pelos serviços técnico/administrativos prestados: 30 euros (a pagar no momento da entrega do pedido de licenciamento ou autorização);
+
+b) Parcela B, correspondente à contraprestação pelos investimentos municipais na realização, manutenção e reforço das infra-estruturas: NDem x AbDem x L / 10
+
+2 - A taxa prevista no número 1 corresponde a: T = Parcela A + Parcela B
+
+T= NDem x AbDem x L / 10
+
+Em que se designa:
+
+a) T: taxa;
+
+b) NDem: o número de meses ou fracção aprovada para a demolição;
+
+c) AbDem: "Área bruta de construção" a demolir;
+
+d) L: Conforme a localização dos prédios assume os valores do quadro 8. Tratando-se de edificação em lote constituído através de loteamento, L assume o valor 0,5.
+
+###### Artigo 158.º — Corpos salientes sobre espaço público
+
+1 - Os corpos salientes de construções, na parede projectados sobre vias públicas, logradouros ou outros lugares públicos, sob administração municipal, estão sujeitas às seguintes taxas e a acumular com as previstas no presente capítulo, quando aplicável:
+
+a) Corpos balançados abertos, por piso e por m2 ou fracção: 10 euros;
+
+b) Corpos balançados fechados, por piso e por m2 ou fracção: 25 euros;
+
+c) Elementos adicionais fixos, alpendres, ornamentos e quebra luzes, por piso e por m2 ou fracção: 25 euros.
+
+###### Artigo 159.º — Emissão de licença ou autorização de utilização
+
+1 - A emissão do alvará de licença ou autorização de utilização nos termos do art. 64.º RJUE fica sujeita ao pagamento da taxa de:
+
+a) 30 euros, a pagar no momento da entrega do pedido;
+
+b) Acresce, 0,1euros por metro quadrado de área bruta de construção.
+
+2 - Em todos os outros casos, a emissão do alvará de licença ou autorização de utilização fica sujeita ao pagamento da taxa de:
+
+a) 30euros, a pagar no momento da entrega do pedido;
+
+b) Acresce, 1euros por metro quadrado de área bruta de construção.
+
+3 - No caso de alterações ao uso, a emissão do alvará de licença ou autorização de utilização fica sujeita ao pagamento da taxa de:
+
+a) 30euros, a pagar no momento da entrega do pedido;
+
+b) Acresce, 10euros por metro quadrado de área bruta de construção.
+
+###### Artigo 160.º — Certificação para efeitos de propriedade horizontal
+
+A certificação, pela Câmara Municipal, de que um edifício satisfaz os requisitos legais para a constituição em regime de propriedade horizontal está sujeita ao pagamento da seguinte taxa:
+
+a) Emissão de certidão: 50euros
+
+b) Acresce por fracção autónoma: 10euros
+
+c) Emissão de certidão para rectificação ou renovação: 50% dos valores referidos nas alíneas a) e b);
+
+###### Artigo 161.º — Vistorias
+
+1 - Conservação do edificado: Realização de vistoria, por unidade funcional: 60euros
+
+2 - Ascensores, monta cargas, escadas mecânicas e tapetes rolantes: Inspecções periódicas, inspecções extraordinárias e reinspecções: 120euros
+
+###### Artigo 162.º — Ficha técnica da habitação
+
+Depósito da ficha técnica, por prédio ou fracção: 15euros
+
+Emissão de 2ª via, por prédio ou fracção: 10euros
+
+###### Artigo 163.º — Emissão de alvará de licença ou autorização para construção de postos de abastecimento de combustíveis
+
+A emissão de alvará licença ou autorização para construção de postos de abastecimento de combustíveis está sujeita ao pagamento das seguintes taxas:
+
+1 - Por cada alvará emitido:
+
+QUADRO 9
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+2 - Acresce:
+
+a) Por cada área de abastecimento, sendo o número de áreas de abastecimento o número máximo de veículos ligeiros que pode ser abastecido simultaneamente com o mesmo tipo de combustível:
+
+QUADRO 10
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+b) Por cada unidade de lavagem associada:
+
+QUADRO 11
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+3 - Por cada área de abastecimento para gás e/ou electricidade associada: 500,00euros
+
+###### Artigo 164.º — Emissão de alvará de licença ou de autorização de construção de unidades de lavagem de veículos
+
+A emissão de alvará de licença ou de autorização de construção de unidades de lavagem de veículos está sujeita ao pagamento das seguintes taxas:
+
+1 - Por cada alvará emitido:
+
+QUADRO 12
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+2 - Acresce, por cada área de lavagem, sendo o número de unidades de lavagem o número máximo de veículos ligeiros que podem ser lavados simultaneamente:
+
+QUADRO 13
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+###### Artigo 165.º — Operações urbanísticas diversas
+
+A emissão de alvará de licença ou autorização para as operações urbanísticas a seguir descriminadas sujeita-se ao pagamento das seguintes taxas:
+
+a) Construção de muros de vedação: 2euros /ml confinante com espaço público;
+
+b) Construção de piscinas, tanques: 3euros /m3 ou fracção;
+
+c) Construção de campos de jogos: 1euros /m2;
+
+d) Instalação de bases de sustentação de infra-estruturas de radiotelecomunicações para exploração comercial, por cada: 2.500euros.
+
+### CAPÍTULO III — Loteamentos e obras de urbanização
+
+###### Artigo 166.º — Informação prévia
+
+A emissão de informação prévia sobre a realização de determinada operação de loteamento ou de obras de urbanização, está sujeita ao pagamento das seguintes taxas:
+
+a) Relativa à possibilidade de realização da operação em terreno de área até 5 ha: 80euros
+
+b) Relativa à possibilidade de realização da operação em terreno de área superior a 5 ha, por cada ha ou fracção a mais, e em acumulação com o montante previsto no número anterior: 5euros
+
+###### Artigo 167.º — Aditamentos aos projectos de loteamento ou obras de urbanização sem alteração à licença ou autorização
+
+Por aditamento ao projecto de loteamento ou obras de urbanização: 50euros
+
+###### Artigo 168.º — Emissão de alvará de licença ou autorização de loteamento
+
+1 - A emissão de alvará de licença ou autorização de loteamento está sujeita ao pagamento, pelo dono da obra, de um encargo correspondente a:
+
+a) Parcela A, correspondente à remoção do limite legal à possibilidade de urbanizar e contraprestação pelos serviços técnico/administrativos prestados: 80euros (a pagar no momento da entrega do pedido de licenciamento ou autorização);
+
+b) Parcela B, correspondente à contraprestação pelos investimentos municipais na realização, manutenção e reforço das infra-estruturas: N x Ab x L / 10;
+
+c) Parcela C, correspondente à compensação pela não cedência de terrenos para construção de espaços verdes públicos, equipamentos de utilização colectiva e infra-estruturas: (Ab x 0,5 - Ced) x V;
+
+2 - O encargo previsto no número 1 corresponde a:
+
+E= 80euros + (N x Ab x L / 10) + (Ab x 0,5 - Ced) x V
+
+Em que se designa:
+
+a) E: encargo;
+
+b) N: o número de meses ou fracção aprovado para a execução da obra; no caso de legalização, este período é estimado em função da área de construção a legalizar e da complexidade da obra;
+
+c) Ab: "Área bruta de construção" autorizada ao promotor;
+
+d) L: Conforme a localização dos prédios assume os valores do quadro 14.
+
+QUADRO 14
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/108052000/0000900056.pdf)
+
+e) Ced: Área cedida ao domínio público municipal para espaços verdes e de utilização colectiva e equipamentos de utilização colectiva;
+
+f) v: valor do terreno por metro quadrado ou fracção, que assume os valores indicados no quadro 15;
+
+QUADRO 15
+
+3 - Para os efeitos do disposto nos artigos 43.º e 44.º do RJUE e na alínea e) do número 2 do presente artigo, considera-se "área cedida" a área destinada a equipamentos e a zonas verdes de dimensão significativa, nas seguintes condições:
+
+a) Esta área não é, em princípio, inferior a 0,5 Ab, sendo Ab a área bruta de construção permitida ao promotor;
+
+b) Se não se justificar a cedência de 0,5 Ab para os efeitos previstos na alínea a), haverá lugar ao pagamento da compensação prevista na parcela C da fórmula expressa no número 1;
+
+c) O pagamento da compensação referida em b) é efectuado em numerário ou em espécie;
+
+d) Sendo em espécie, a compensação é feita através da cedência para domínio privado municipal de terreno nas seguintes condições:
+
+I. A avaliação do terreno será efectuada para esse efeito pela Divisão de Obras e Serviços Urbanos da Câmara Municipal da Sertã, e aprovados pela Câmara Municipal
+
+II. A Câmara municipal da Sertã reserva-se no direito de não aceitar a proposta de compensação em espécie, sempre que tal não se mostre conveniente para a prossecução dos interesses públicos.
+
+###### Artigo 169.º — Emissão de alvará de licença ou autorização para execução das obras de urbanização por fases
+
+A emissão de alvará de licença ou autorização para execução das obras de urbanização por fases está sujeita ao pagamento dos seguintes encargos:
+
+a) Alvará de licença ou autorização da 1ª fase: encargo previsto no artigo 167.º, considerando-se a "área bruta de construção (Ab)" e o "prazo de execução (N)" que integra a 1ª fase, na parcela B e a "área bruta de construção (Ab)" e "área cedida para o domínio público municipal para espaços verdes e de utilização colectiva e equipamentos de utilização colectiva (Ced)" que integram as várias fases, na parcela C;
+
+b) Emissão de aditamento ao alvará, para as fases subsequentes: encargo previsto nas parcelas A e B do artigo 167.º, considerando-se a "área bruta de construção (Ab)" e o "prazo de execução (N)" que integra cada uma das fases subsequentes na parcela B.
+
+###### Artigo 170.º — Alteração à licença ou autorização de loteamento
+
+1 - A emissão de aditamento ao alvará de licença ou autorização de loteamento está sujeita ao pagamento, pelo dono da obra, de um encargo correspondente a:
+
+a) Parcela A, correspondente à remoção do limite legal à possibilidade de urbanizar e contraprestação pelos serviços técnico/administrativos prestados: 80euros (a pagar no momento da entrega do pedido);
+
+b) Parcela B, correspondente à contraprestação pelos investimentos municipais na realização, manutenção e reforço das infra-estruturas: NExc x AbExc x L / 10;
+
+c) Parcela C, correspondente à compensação pela não cedência de terrenos para construção de espaços verdes públicos, equipamentos de utilização colectiva e infra-estruturas: (AbExc x 0,5 - CedExc) x V;
+
+2 - O encargo previsto no número 1 corresponde a:
+
+E= 80euros + (NExc x AbExc x L / 10) + (AbExc x 0,5 - CedExc) x V
+
+Em que se designa:
+
+a) E: encargo;
+
+b) NExc: o número de meses ou fracção em excesso relativamente ao alvará anterior para a execução da obra. No caso de não haver alteração ao prazo anteriormente aprovado NExc assume o valor 1;
+
+c) AbExc: "Área bruta de construção" em excesso relativamente ao alvará anterior;
+
+d) L: Conforme a localização dos prédios assume os valores do quadro 14.
+
+e) CedExc: Área cedida em excesso relativamente ao alvará anterior ao domínio público municipal para espaços verdes e de utilização colectiva e equipamentos de utilização colectiva;
+
+f) v: valor do terreno por metro quadrado ou fracção, que assume os valores indicados no quadro 15.
+
+###### Artigo 171.º — Prorrogação de prazos de execução das obras de urbanização
+
+A prorrogação de prazos de execução das obras de urbanização está sujeita ao pagamento das seguintes taxas:
+
+1.ª prorrogação: Parcela A + B do artigo 168.º;
+
+2.ª prorrogação, quando a obra se encontra em fase de acabamento: Parcela A + B do artigo 168.º
+
+Em que se designa:
+
+a) NPro: o número de meses ou fracção de prorrogação;
+
+b) Ab: "Área bruta de construção" constante do alvará em vigor;
+
+c) L: Conforme a localização dos prédios assume os valores do quadro 14.
+
+###### Artigo 172.º — Renovação da licença ou autorização de loteamento
+
+A emissão do alvará de licença ou autorização, para efeitos do artigo 72.º do RJUE está sujeita ao pagamento das taxas previstas nas parcelas A e B do artigo 168.º do presente regulamento, em que:
+
+a) NRen: o número de meses ou fracção de prorrogação;
+
+b) Ab: "Área bruta de construção" constante do alvará em vigor;
+
+c) L: Conforme a localização dos prédios assume os valores do quadro 14.
+
+###### Artigo 173.º — Emissão de alvará de licença ou autorização de obras de urbanização não incluídas em loteamento
+
+A emissão do alvará de licença ou autorização de obras de urbanização não incluídas em loteamento está sujeita á taxa de:
+
+1 - 30euros, a pagar no momento da entrega do pedido de licenciamento ou autorização;
+
+2 - Acresce ao n.º 1: N x 20euros, sendo:
+
+N cada mês ou fracção, permitido pelo alvará;
+
+###### Artigo 174.º — Alteração à licença ou autorização de obras de urbanização não incluídas em loteamento
+
+1 - Por aditamento ao alvará de licença ou autorização: 15euros
+
+2 - No caso de existir alteração do prazo de execução de obras de urbanização associado à alteração dos projectos, acresce ao número 1: N x 20euros, sendo:
+
+N cada mês ou fracção a mais, permitido pelo alvará.
+
+###### Artigo 175.º — Prorrogação de prazo de execução das obras de urbanização não incluídas em loteamento
+
+A prorrogação de prazo de execução das obras de urbanização não incluídas em loteamento está sujeita à taxa de: N x 20euros, sendo:
+
+N cada mês ou fracção, permitido pelo alvará.
+
+###### Artigo 176.º — Renovação da licença ou autorização de obras de urbanização não incluídas em loteamento
+
+A emissão do alvará de renovação de licença ou autorização de obras de urbanização não incluídas em loteamento, está sujeita à taxa de:
+
+1 - 30euros, a pagar no momento do pedido;
+
+2 - Acresce ao n.º 1: N x 20euros, sendo:
+
+N cada mês ou fracção, permitido pelo alvará.
+
+###### Artigo 177.º — Informação prévia
+
+Aditamentos aos projectos de loteamento ou obras de urbanização sem alteração à licença ou autorização.
+
+Emissão de alvará de licença ou autorização de loteamento.
+
+Emissão de alvará de licença ou autorização para execução das obras de urbanização por fases.
+
+Alteração à licença ou autorização de loteamento.
+
+Prorrogação de prazos de execução das obras de urbanização.
+
+Renovação da licença ou autorização de loteamento.
+
+Emissão de alvará de licença ou autorização de obras de urbanização não incluídas em loteamento.
+
+Alteração à licença ou autorização de obras de urbanização não incluídas em loteamento.
+
+Prorrogação de prazo de execução das obras de urbanização não incluídas em loteamento.
+
+Renovação da licença ou autorização de obras de urbanização não incluídas em loteamento.
+
+Emissão de licença especial para conclusão de obras de urbanização inacabadas.
+
+Para emissão da licença especial para a conclusão de obras inacabadas nos termos do artigo 88.º do RJUE, aplica-se a taxa prevista no artigo 173.º
+
+###### Artigo 178.º — Recepção provisória ou definitiva de obras de urbanização
+
+O requerimento de pedido de recepção provisória ou definitiva de obras de urbanização, está sujeita à taxa de: 100euros + 0,01euros x Ab, em que:
+
+Ab é a área bruta de construção autorizada ao promotor.
+
+###### Artigo 179.º — Redução ou cancelamento da caução
+
+A redução ou cancelamento da caução está sujeita à taxa de: 50euros + 0,005euros x Ab, em que:
+
+Ab é a área bruta de construção autorizada ao promotor.
+
+### CAPÍTULO IV — Trabalhos de remodelação de terrenos
+
+###### Artigo 180.º — Informação prévia
+
+A emissão de informação prévia sobre a realização de trabalhos de remodelação de terrenos, está sujeita ao pagamento das seguintes taxas:
+
+1 - Em terreno de área até 1 ha: 30euros
+
+2 - Em terreno de área superior a 1 ha, por cada 1 ha ou fracção a mais, e em acumulação com o montante previsto no número anterior: 10euros
+
+###### Artigo 181.º — Comunicação prévia
+
+A comunicação prévia prevista no artigo 118.º do presente regulamento está sujeita à taxa de: 25euros
+
+###### Artigo 182.º — Emissão de alvará de licença ou autorização para remodelação de terrenos
+
+A emissão de alvará de licença ou autorização para remodelação de terrenos está sujeita à seguinte taxa:
+
+1 - 40euros, a pagar no momento do pedido de licenciamento ou autorização;
+
+2 - Acresce ao número 1: 15euros por cada 1000 m2 ou fracção e por cada mês ou fracção.
+
+###### Artigo 183.º — Prorrogação de prazo para remodelação de terrenos
+
+A prorrogação do prazo de licença ou autorização de remodelação de terrenos estão sujeitas à seguinte taxa:
+
+1 - 40euros, a pagar no momento da entrega do pedido;
+
+2 - Acresce ao número 1: 15euros por cada 1000 m2 ou fracção e por cada mês ou fracção.
+
+###### Artigo 184.º — Renovação da licença ou autorização para remodelação de terrenos
+
+Para efeitos do número 1 e 2, do artigo 72.º do RJUE, a emissão do alvará de renovação de licença ou autorização para remodelação de terrenos está sujeita à taxa prevista no artigo 182.º.
+
+###### Artigo 185.º — Emissão de licença especial para conclusão de remodelação de terrenos inacabada
+
+A emissão da licença especial para a conclusão de remodelação de terrenos inacabada, sujeita-se à taxa prevista no artigo 182.º.
+
+### CAPÍTULO V — Ocupação e utilização do espaço público
+
+#### SECÇÃO I — Ocupação do espaço público por motivo de execução de operações urbanísticas
+
+###### Artigo 186.º — Tapumes
+
+Os tapumes e outros resguardos, por metro quadrado ou fracção de espaço público ocupado, por período de um mês ou fracção, sujeitam-se à seguinte taxa: 1euros
+
+###### Artigo 187.º — Andaimes
+
+Os andaimes, na parte não defendida por tapumes, por metro quadrado ou fracção de espaço público ocupado, por período de um mês ou fracção, sujeitam-se à seguinte taxa: 1euros
+
+###### Artigo 188.º — Gruas, guindastes ou similares
+
+As gruas, guindastes ou similares, colocados no espaço público, ou que se projectem sobre o espaço público, por cada equipamento e por período de um mês ou fracção, estão sujeitos à taxa de: 5euros
+
+###### Artigo 189.º — Valas
+
+As valas, por metro linear ou fracção, por mês ou fracção estão sujeitas à taxa de: 5euros
+
+###### Artigo 190.º — Stands de venda
+
+1 - A emissão de licença para ocupação do espaço público por stands de venda sujeita-se à taxa de: 500euros
+
+2 - Acresce, por metro quadrado ou fracção de espaço público ocupado, por período de um mês ou fracção: 50euros
+
+###### Artigo 191.º — Outras Ocupações do Solo
+
+Quaisquer outras ocupações do solo em espaço público, por metro quadrado ou fracção, por período de um mês ou fracção: 5euros
+
+###### Artigo 192.º — Subsolo
+
+A utilização subterrânea do solo, por mês ou fracção, está sujeita ao pagamento da seguinte taxa, por metro quadrado ou fracção: 2euros
+
+#### SECÇÃO II — Utilização do Espaço Público por Mobiliário e Equipamento Urbano
+
+###### Artigo 193.º — Mobiliário Urbano
+
+1 - Quiosque, por m2 ou fracção e por mês: 10euros;
+
+2 - Bancas, por m2 ou fracção e por mês: 5euros
+
+3 - Esplanadas abertas, incluindo mesas, cadeiras e guarda-sóis com ou sem estrado, por m2 ou fracção e por mês: 5euros
+
+4 - Guarda-ventos, por metro linear ou fracção e por mês: 5euros
+
+5 - Esplanadas fechadas fixas ou amovíveis, não integradas nos edifícios, por m2 ou fracção e por mês: 10euros;
+
+6 - Toldos, por metro quadrado ou fracção e por ano: 10euros;
+
+7 - Alpendres e palas, por m2 ou fração e por ano: 10euros;
+
+8 - Vitrinas, por m2 ou fracção e por ano: 10euros;
+
+9 - Expositores, por m2 ou fracção e por ano: 10euros;
+
+10 - Arcas de gelados, brinquedos mecânicos e equipamentos similares, por m2 ou fracção e por mês: 10euros;
+
+11 - Máquinas de tiragem de gelados, de venda de tabacos e dispensadores de serviços, por m2 ou fracção e por mês: 10euros;
+
+12 - Máquinas de profilácticos, a partir da 2.ª máquina, por m2 ou fracção e por ano: 10 euros
+
+###### Artigo 194.º — Ocupações Diversas
+
+1 - Cabina telefónica, por unidade e por ano: 50euros;
+
+2 - Tubos, condutas, cabos condutores e semelhantes, por metro linear ou fracção e por ano:
+
+a) Com diâmetro até 20 cm: 0,50euros;
+
+b) Com diâmetro superior a 20 cm: 1 euros;
+
+3 - Fios, cabos ou outros dispositivos de qualquer natureza e fim, atravessando ou projectando-se na via pública, por metro linear ou fracção e por ano: 0,50 euros;
+
+4 - Antenas colocadas sobre a via pública, por unidade e por ano: 10 euros;
+
+5 - Postos de transformação, cabinas telefónicas e semelhantes, por m3 ou fracção e por ano:
+
+a) Até 3 m3: 10 euros;
+
+b) Cada m3 a mais ou fracção: 5 euros;
+
+6 - Passarelas e outras construções ou ocupações do espaço aéreo, por m2 ou fracção de projecção sobre a via pública e por ano: 5 euros;
+
+7 - Circos, por m2 ou fracção e por semana: 0,50 euros;
+
+8 - Carróceis e outros similares, por m2 ou fracção e por semana: 1 euros;
+
+9 - Fita ou faixa anunciadora, por m2 ou fracção e por mês: 10 euros;
+
+10 - Dispositivos destinados a anúncios ou reclamos, por m2 ou fracção e por ano: 5euros;
+
+11 - Outras ocupações da via pública, por m2 ou fracção e por ano: 1euros
+
+### CAPÍTULO VI — Situações conexas com as operações urbanísticas
+
+###### Artigo 195.º — Técnicos
+
+A inscrição dos técnicos na Câmara Municipal, válida por 3 anos, está sujeita à taxa de: 300euros
+
+A renovação trienal está sujeita à taxa de: 200euros
+
+###### Artigo 196.º — Atribuição de número de polícia
+
+Atribuição de número de polícia: 25euros
+
+###### Artigo 197.º — Prestação de Serviços Administrativos
+
+1 - Os averbamentos de titulares autores dos projectos, responsáveis pela direcção técnica da obra, titulares de classificação de industrial de construção civil e titulares de registo na actividade de construção estão sujeitos à taxa de: 20 euros
+
+2 - A emissão de certidões está sujeita ás seguintes taxas:
+
+a) Operação de destaque: 50euros
+
+b) Documentos destinados à obtenção de título de registo ou certificado de classificação de industrial de construção civil, nomeadamente, sobre estimativa do custo de obras e modo como as mesmas foram executadas: 30euros
+
+3 - Cópia simples
+
+a) De peças escritas:
+
+i. Formato A4 ou fracção: 0,06 euros
+
+ii. Autenticação de cópia: 6 euros + 0,20 euros por cada A4 ou fracção
+
+b) De peças desenhadas, por metro quadrado ou fracção:
+
+i. Em papel "ozalid" ou semelhante: 10 euros
+
+ii. Em papel "reprolar" ou semelhante: 15 euros
+
+iii. Acresce no caso de autenticação, por metro quadrado ou fracção: 10 euros
+
+4 - Cartografia:
+
+a) Por cada pedido satisfeito: 10 euros
+
+b) Acresce no caso de autenticação: 10 euros
+
+c) Acresce, ainda:
+
+I. Por cada A4:
+
+(1) Em papel: 0.25 euros
+
+(2) Em película transparente (ou semelhante): 2 euros
+
+II. Por cada A3:
+
+(1) Em papel: 0.35 euros
+
+(2) Em película transparente (ou semelhante): 3 euros
+
+III. Para outros formatos, por metro quadrado:
+
+(1) Em papel: 6 euros
+
+(2) Em película transparente (ou semelhante): 12 euros
+
+5 - Cartografia digital:
+
+a) Escala 1/1000 - ficheiro correspondente a uma área de 40 ha (800 x 500 m):
+
+I. Planimetria - por ficheiro: 60euros
+
+II. Altimetria - por ficheiro: 30euros
+
+b) Escala 1/2000 - ficheiro correspondente a uma área de 160 ha (1600 x 1000 m)
+
+I. Planimetria - por ficheiro: 120euros
+
+II. Altimetria - por ficheiro: 60euros
+
+c) Cartas topográficas anteriores a 1993:
+
+I. Em fotocópia (folha): 40euros
+
+II. Em película transparente (ou semelhante): 80euros
+
+III. Em suporte informático: 100euros
+
+6 - No caso dos ficheiros referidos nas alíneas a) e b), do ponto anterior correspondem a 1/4, 1/2 ou 3/4 da folha, será pago o valor proporcional.
+
+7 - Fotografia aérea (vários anos):
+
+a) Positivos de fotografia aérea: 10euros
+
+b) Em suporte informático: 20euros
+
+8 - Exceptua-se do definido no número 4 o fornecimento de plantas topográficas, em papel, de formato A4, que sendo para instruir processos relativos ao presente Regulamento, são: grátis.
+
+9 - Conferição e autenticação de documentos, por cada folha: 1euros
+
+10 - Fornecimento de livro de obras: 5euros
+
+11 - Fornecimento de avisos de publicitação do pedido de licenciamento ou autorização e da emissão de alvará: 4euros
+
+12 - Fornecimento do Regulamento do Plano Director Municipal: 10euros
+
+13 - Fornecimento dos cartogramas e anexos do Plano Director Municipal, cada:
+
+a) Cartografias:
+
+I. Em papel (ou semelhante): 15euros
+
+II. Em película transparente (ou semelhante): 35euros
+
+b) Anexos:
+
+I. Em papel (ou semelhante): 7,50euros
+
+II. Em película transparente (ou semelhante): 17,50euros
+
+### CAPÍTULO VII — Casos Especiais
+
+###### Artigo 198.º — Deferimento tácito
+
+A emissão dos alvarás de licença ou autorização, nos casos de deferimento tácito do pedido de operação urbanística, está sujeita ao pagamento da taxa que seria devida pela prática do respectivo acto expresso.
+
+###### Artigo 199.º — Reapreciação do pedido
+
+No caso do requerente assumir a realização dos trabalhos previstos no n.º 1 do art.º 25º do RJUE, o valor a pagar pela emissão do alvará de licença ou autorização será reduzida de acordo com os seguintes critérios:
+
+a) A parcela B do n.º 1 do art.º 145.º e n.º 1 do art.º 168 do presente regulamento será reduzida em 10% do valor dos trabalhos orçamentados nos termos do n.º 3 do art.º 25.º do RJUE;
+
+b) A parcela B referida na alínea anterior tomará o valor zero quando o valor calculado nos termos da alínea anterior for negativo.
+
+###### Artigo 200.º — Isenções
+
+1 - Estão isentas do pagamento das taxas previstas no presente Regulamento:
+
+c) As entidades referidas no artigo 33.º da [Lei n.º 42/98](https://diariodarepublica.pt/dr/detalhe/lei/42-1998-435422), de 6 de Agosto;
+
+d) O agregado familiar com rendimento líquido per capita não superior a um salário mínimo nacional, desde que, cumulativamente, se verifiquem os seguintes requisitos:
+
+I. As obras se destinem a habitação própria permanente do agregado familiar até 250 m2 de área bruta de construção;
+
+II. Não ser proprietário de outros prédios para habitação no município da Sertã;
+
+III. Não ter beneficiado anteriormente de qualquer isenção ou redução da mesma natureza;
+
+e) Os promotores de loteamentos e de edificações destinadas exclusivamente a indústrias transformadoras;
+
+f) As pessoas colectivas de direito público ou de direito privado, às quais a lei confira tal isenção.
+
+2 - A isenção de taxas prevista no número anterior carece de formalização de pedido fundamentado, acompanhado dos seguintes documentos:
+
+a) Nos casos da alínea b) do número 1:
+
+I. Última nota de liquidação (IRS);
+
+II. Fotocópia do bilhete de identidade;
+
+III. Certidão da Repartições de Finanças da Sertã, comprovativa de que não é proprietário de imóveis para habitação;
+
+b) Nos casos previstos na alínea d) do número 1, documentos comprovativos da natureza jurídica e objecto estatutário.
+
+###### Artigo 201.º — Dispensa e redução do pagamento de taxas
+
+1 - Pode ser dispensado ou reduzido o pagamento das taxas previstas no presente Regulamento, mediante deliberação da Câmara Municipal:
+
+a) A pessoas colectivas de utilidade pública administrativa, desde que no desenvolvimento dos seus fins estatutários;
+
+b) Aos promotores de operações urbanísticas que revistam relevante interesse público;
+
+c) Aos requerentes de cópias de documentos necessários à elaboração de estudos académicos, ensino, investigação ou outros, sem fins lucrativos.
+
+2 - O montante das taxas previstas no presente Regulamento pode ainda ser reduzido até 50%, mediante deliberação da Câmara Municipal, nos seguintes casos:
+
+a) Promotores de loteamentos e edificações destinadas a actividades empresariais localizadas em espaços e áreas empresariais consideradas prioritárias para o desenvolvimento económico do concelho;
+
+b) Pessoas singulares que no município da Sertã prossigam fins de relevante interesse público;
+
+c) Agregado familiar com rendimento líquido per capita não superior a dois salários mínimos nacionais e desde que cumulativamente se verifiquem os requisitos constantes na alínea b) do número um do artigo anterior.
+
+3 - A dispensa e redução de taxas carece de formalização de pedido fundamentado, acompanhado dos seguintes documentos:
+
+a) No caso previsto na alínea a), do número um, documentos comprovativos da natureza jurídica e objecto estatutário;
+
+b) No caso previsto na alínea c) do número um, cartão de estudante, docente ou outro documento comprovativo;
+
+c) No caso previsto na alínea c), do número dois, os documentos constantes da alínea a) do número dois do artigo anterior.
+
+4 - Pode ser dispensado ou reduzido o pagamento das taxas previstas no presente Regulamento, a ocupação da via pública ou a execução de obras no âmbito de intervenções prioritárias que obedeçam a objectivos estratégicos, nas seguintes áreas:
+
+a) Núcleos históricos;
+
+b) Abrangidas por projectos urbanísticos ou definidas como zonas de reconversão urbanística.
+
+5 - Para efeitos do número anterior, a delimitação das áreas é da competência da Câmara Municipal e a definição do âmbito da dispensa ou redução das taxas, da Assembleia Municipal.
+
+## TÍTULO V — Fiscalização, sansões e reposição da legalidade urbanística
+
+### CAPÍTULO I — Fiscalização
+
+###### Artigo 202.º — Exercício da actividade de fiscalização
+
+1 - Para efeitos do disposto no número 1 do artigo 94.º do RJUE, a actividade fiscalizadora é exercida pela fiscalização e técnicos afectos à fiscalização.
+
+2 - Além dos funcionários e agentes indicados no número anterior, impende sobre os demais funcionários e agentes municipais o dever de comunicarem as infracções de que tiverem conhecimento em matéria de normas legais e regulamentares.
+
+3 - Os funcionários e agentes incumbidos da actividade fiscalizadora de operações urbanísticas podem recorrer às autoridades policiais, sempre que necessitem, para o bom desempenho das suas funções.
+
+###### Artigo 203.º — Objecto
+
+1 - A fiscalização administrativa destina-se a assegurar a conformidade da realização de quaisquer operações urbanísticas com as disposições legais e regulamentares aplicáveis e a prevenir os perigos que da sua realização possam resultar para a saúde e segurança das pessoas.
+
+2 - Compreendem-se, no âmbito da fiscalização administrativa de operações urbanísticas, os seguintes actos:
+
+a) Esclarecer e divulgar junto dos munícipes os regulamentos municipais, promovendo uma acção pedagógica que conduza a uma diminuição dos casos de infracção;
+
+b) Zelar pelo cumprimento da lei, regulamentos, posturas e execução coerciva dos actos administrativos em matéria urbanística;
+
+c) Realizar vistorias, inspecções ou exames técnicos;
+
+d) Efectuar notificações pessoais;
+
+e) Verificar a afixação do aviso a publicitar o pedido de licenciamento ou autorização;
+
+f) Verificar a existência do alvará de licença ou autorização e a afixação do aviso dando publicidade à emissão do mesmo;
+
+g) Verificar a afixação, no prédio, da placa identificadora do director técnico da obra e do projectista;
+
+h) Verificar se a publicidade à alienação de lotes, de edifícios ou fracções autónomas neles construídos, em construção ou a construir, contém o número de alvará de loteamento e a data da sua emissão;
+
+i) Verificar a existência do livro da obra e sua conformidade com as normas legais;
+
+j) Verificar as condições de segurança e higiene na obra;
+
+k) Verificar o alinhamento e as cotas de soleira;
+
+l) Verificar a conformidade da execução da obra com o projecto aprovado;
+
+m) Verificar o licenciamento da ocupação da via pública;
+
+n) Verificar o cumprimento da execução da obra no prazo fixado no alvará de licença ou autorização de construção;
+
+o) Verificar a limpeza do local da obra após a sua conclusão, e a reposição dos equipamentos e infra estruturas públicos deteriorados ou alterados em consequência da execução das obras e/ou ocupações da via pública;
+
+p) Verificar se há ocupação de edifícios ou de suas fracções autónomas sem licença ou autorização de utilização ou em desacordo com o uso fixado no alvará de licença ou autorização de utilização;
+
+q) A realização de embargos administrativos de obras ou loteamentos, quando estejam a ser efectuados sem licença, autorização ou em desconformidade com ela, lavrando os respectivos autos;
+
+r) Proceder à notificação do embargo determinado pelo presidente da Câmara Municipal e verificar a suspensão dos trabalhos;
+
+s) Verificar o cumprimento do prazo fixado pelo presidente da Câmara Municipal ao infractor, para demolir a obra e repor o terreno na situação anterior;
+
+t) Obter e prestar informações e elaborar relatórios no domínio da gestão urbanística, nomeadamente participações de infracções sobre o não cumprimento de disposições legais e regulamentares relativas ao licenciamento municipal, sobre o desrespeito de actos administrativos que hajam determinado embargo, a demolição de obras e/ou a reposição do terreno nas condições em que se encontrava antes da data de início das obras ou trabalhos, para efeitos de instauração de processos de contra-ordenação e participação do crime de desobediência.
+
+###### Artigo 204.º — Deveres dos intervenientes na execução da obra
+
+1 - O titular da licença ou autorização e o técnico responsável pela direcção técnica da obra são obrigados a facultar aos funcionários municipais incumbidos da actividade fiscalizadora, o acesso à obra, todas as informações e respectiva documentação.
+
+2 - As entidades referidas no número anterior são responsáveis solidariamente, pela existência, no local da obra, dos projectos aprovados e do livro de obra.
+
+3 - O titular do alvará de licença ou autorização de operações urbanísticas deve afixar os avisos de obras a que se referem as Portarias 1106/2001 e 1108/2001, de 18 de Setembro, nas seguintes condições:
+
+a) Preenchidos com letra legível;
+
+b) Recobertos com material impermeável e transparente;
+
+c) Colocados a uma altura não superior a 4 metros, preferencialmente no plano limite de confrontação com o espaço público, ou, em alternativa, em local com boas condições de visibilidade a partir do espaço público.
+
+4 - Durante a execução de obras de urbanização, nomeadamente de rede viária, abastecimento de água, de saneamento, águas pluviais e zonas verdes, o titular da licença ou autorização ou o director técnico da obra devem solicitar a presença dos serviços da Câmara Municipal, a fim de estes verificarem os materiais a utilizar e fiscalizarem a sua aplicação.
+
+###### Artigo 205.º — Incompatibilidades
+
+1 - É incompatível e incorrem em responsabilidade disciplinar os funcionários e agentes da Câmara Municipal que elaborem projecto, subscrevam declarações de responsabilidade ou se encarreguem de quaisquer trabalhos relacionados com operações urbanísticas a executar no município que estejam subordinados ao controle administrativo da Câmara Municipal, com excepção dos que estão na situação de licença sem vencimento de duração ilimitada.
+
+2 - Nenhum funcionário ou agente pode, por forma oculta ou pública, ter qualquer intervenção na elaboração de projectos, petições, requerimentos ou quaisquer trabalhos ou procedimentos relacionados directa ou indirectamente com operações urbanísticas, incorrendo em responsabilidade disciplinar.
+
+### CAPÍTULO II — Sanções
+
+###### Artigo 206.º — Sanções
+
+1 - Sem prejuízo do disposto no artigo 98.º do RJUE e nos artigos 203.º e 204.º do presente Regulamento, são ainda puníveis como contra-ordenação:
+
+a) O não arrolamento e a não preservação dos materiais construtivos e decorativos com valor arquitectónico ou histórico existentes em edifícios a demolir, previstas no n.º 4 do art.º 7.º.
+
+b) A não comunicação à Câmara Municipal do início das obras de urbanização, nos termos da alínea a) do art.º 54.º.
+
+c) A não conservação e preservação do património vegetal, nos termos do n.º 2 do art.º 7.º
+
+d) A colocação de equipamentos nas fachadas e coberturas dos edifícios, tubos de queda e caleiras, em desconformidade com as condições previstas nos art.ºs 44.º e 45.º.
+
+e) A instalação de infra-estruturas de suporte das estações de radiotelecomunicações em desconformidade com as condições previstas no art.º 46.º.
+
+f) A ocupação do espaço público em desconformidade com as condições estabelecidas nos art.ºs 72.º, 74.º, 75.º, 76.º, 77.º, 78.º, 79.º, 80.º, 81.º e 82.º;
+
+g) O não cumprimento da notificação para remoção e limpeza do local e suspensão dos trabalhos para a realização de eventos públicos previstas no art.º 84.º;
+
+h) A não comunicação prévia à Câmara Municipal do inicio da execução das obras no espaço publico municipal preexistente, inseridas e previstas em alvará de loteamento, em violação do estipulado no n.º 7 do art.º 93.º;
+
+i) A não comunicação à Câmara Municipal do início da execução de obras no espaço público com carácter de urgência, em violação do estipulado no art.º 101.º;.
+
+j) A execução de obras no espaço público em desconformidade com as condições relativas a identificação, sinalização e medidas de segurança, previstas nos art.ºs 102.º, n.ºs 2 e 3 do art.º 103.º e art.º 104.º;
+
+k) A falta da apresentação da cópia do projecto aprovado pela Câmara Municipal, do alvará de licença ou do livro de obra, no local da obra, em violação do estipulado no art.º 107.º.
+
+l) A não rectificação das deficiências de execução da obra no espaço público municipal nos termos do estipulado nos n.ºs 1 e 2 do art.º 110.º.
+
+m) O desrespeito por parte do director técnico da obra das obrigações para si decorrentes do disposto no art.º 116.º.
+
+n) A não conservação e manutenção da numeração polícia e a remoção de placas toponímicas em violação do disposto nos n.ºs 7 e 8 do art.º 122.º.
+
+2 - As contra-ordenações previstas nas alíneas c), k) e n) do número anterior são puníveis com coima graduada de 300 euros até ao máximo de 750 euros.
+
+3 - As contra-ordenações previstas nas alíneas a), b), d), e), g), h) e i) do número 1 são puníveis com coima graduada de 350 euros até ao máximo de 2000 euros.
+
+4 - As contra-ordenações previstas nas alíneas e), f), j), l) e m) do número 1 são puníveis com coima graduada de 750 euros até ao máximo de 3650 euros.
+
+### CAPÍTULO III — Reposição da legalidade urbanística
+
+###### Artigo 207.º — Trabalhos executados pela Câmara Municipal em substituição dos proprietários
+
+1 - Sem prejuízo da responsabilidade criminal ou contra-ordenacional, e do disposto no artigo 107.º do RJUE, quando o dono da obra ou demais titulares de direitos reais sobre o prédio, se recusarem a executar, no prazo fixado, quaisquer trabalhos impostos pela Câmara Municipal no uso das suas competências, esta pode substituir-se, por conta daqueles, através dos serviços municipais ou por recurso a entidade exterior.
+
+2 - O custo dos trabalhos executados nos termos do número anterior, quando não pago voluntariamente no prazo de 20 dias a contar da notificação para o efeito, será cobrado nos termos do artigo 108.º do RJUE.
+
+###### Artigo 208.º — Reparação dos danos no espaço público
+
+1 - A reparação dos danos provocados no espaço público municipal, em consequência da execução de obras ou outras acções, constitui encargo dos responsáveis pelas mesmas que, sem prejuízo da comunicação à Câmara Municipal, devem proceder ao início da sua execução no prazo máximo de 48 horas, a partir da produção do dano.
+
+2 - Ultrapassado o prazo previsto no número anterior, a Câmara Municipal pode substituir-se ao responsável, nos termos do artigo anterior, sem necessidade de aviso prévio.
+
+## TÍTULO VI — Disposições finais e transitórias
+
+###### Artigo 209.º — Tapumes
+
+Andaimes
+
+Gruas, guindastes ou similares
+
+Valas
+
+Stands de venda
+
+Outras Ocupações do Solo
+
+Subsolo
+
+Mobiliário Urbano
+
+Ocupações Diversas
+
+Técnicos
+
+Atribuição de número de polícia
+
+Prestação de Serviços Administrativos
+
+Deferimento tácito
+
+Reapreciação do pedido
+
+Isenções
+
+Dispensa e redução do pagamento de taxas
+
+Exercício da actividade de fiscalização
+
+Objecto
+
+Deveres dos intervenientes na execução da obra
+
+Incompatibilidades
+
+Sanções
+
+Trabalhos executados pela Câmara Municipal em substituição dos proprietários
+
+Reparação dos danos no espaço público
+
+Norma transitória
+
+Para os processos a decorrer na Câmara Municipal, as taxas apenas se aplicam seis meses após a data de entrada em vigor do presente Regulamento.
+
+###### Artigo 210.º — Norma revogatória
+
+1 - Com a entrada em vigor do presente Regulamento consideram-se revogados os regulamentos e todas as disposições de natureza regulamentar aprovadas pelo município da Sertã, em data anterior à da entrada em vigor do presente Regulamento e que com ele estejam em contradição.
+
+2 - Ficam expressamente revogados com a entrada em vigor do presente Regulamento:
+
+a) Regulamento Municipal das edificações e obras particulares, loteamentos urbanos e fiscalização do Concelho da Sertã, Edital n.º 27/96, de 2 de Abril de 1996, aprovado pela Assembleia Municipal em 27 de Fevereiro de 1996;
+
+b) Capítulo IV, Secção I do Capitulo V, Capítulo VI, Secção I do Capítulo VII da Tabela de taxas e licenças, Edital n.º 27/96, de 2 de Abril de 1996, aprovado pela Assembleia Municipal em 27 de Fevereiro de 1996.
+
+###### Artigo 209.º — Entrada em vigor
+
+O presente Regulamento entra em vigor 15 dias após a sua publicação na II Série do Diário da República.
+
+## ANEXO I — Norma 1 - Informação Prévia de Operações de Loteamento
+
+1 - Requerimento.
+
+2 - Quando o interessado não seja o proprietário do prédio, identificação do proprietário bem como dos titulares de qualquer outro direito real sobre o prédio, através da certidão emitida pela Conservatória do Registo Predial.
+
+3 - Extracto da planta de ordenamento e da planta de condicionantes do plano municipal de ordenamento do território vigente, de maior pormenor, assinalando a área objecto da operação.
+
+4 - Planta de localização e enquadramento, à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da área objecto da operação, incluindo uma faixa envolvente não inferior a 50 metros, medidos a partir dos seus limites, assinalando os elementos e valores naturais e construídos, as servidões administrativas e restrições de utilidade pública.
+
+5 - Memória descritiva esclarecendo devidamente a pretensão e indicando a localização do prédio, a área abrangida, a descrição dos elementos essenciais das redes de infra-estruturas, área total de construção acima e abaixo da cota de soleira e respectivos usos pretendidos, as cérceas, o número de pisos acima e abaixo da cota de soleira, área total de implantação e áreas destinadas a infra-estruturas e estacionamento, espaços verdes e de utilização colectiva e equipamentos.
+
+6 - Planta síntese da proposta, à escala 1:500 ou 1:1000 com delimitação da área objecto da pretensão, lotes e implantação dos edifícios, áreas destinadas a infra-estruturas e estacionamento, espaços verdes e de utilização colectiva e equipamento, identificando as áreas a integrar nos domínios público e privado municipal, quadro sinóptico, com identificação e áreas dos lotes, área bruta de construção, cércea máxima e número de pisos acima e abaixo da cota de soleira, usos, com identificação do número máximo de fogos e das unidades afectas a outros usos, área destinada a estacionamento e número mínimo de lugares de estacionamento, privados e públicos.
+
+7 - Extracto do mapa de ruído ou, na sua ausência, relatório sobre recolha de dados acústicos.
+
+8 - Fotografias, a cores, do local.
+
+9 - Outros elementos que o requerente queira apresentar.
+
+10 - Em área abrangida por plano de pormenor:
+
+a) Requerimento;
+
+b) Memória descritiva esclarecendo devidamente a pretensão e indicando a área objecto do pedido;
+
+c) Extractos das plantas de implantação e condicionantes do plano de pormenor;
+
+d) Os elementos referidos em 3, 6 e 7.
+
+11 - Número de exemplares: 2. No caso do prédio se localizar em zona de servidão administrativa ou restrição de utilidade pública deve anexar-se uma cópia por cada entidade a consultar.
+
+Norma 2 - Informação Prévia de Obras de Urbanização
+
+1 - Requerimento.
+
+2 - Quando o interessado não seja o proprietário do prédio, identificação do proprietário bem como dos titulares de qualquer outro direito real sobre o prédio, através da certidão emitida pela Conservatória do Registo Predial.
+
+3 - Extracto da planta de ordenamento e da planta de condicionantes do plano municipal de ordenamento do território vigente, de maior pormenor, assinalando a área objecto da pretensão.
+
+4 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da aérea objecto da operação, incluindo uma faixa não inferior a 50 metros, medidos a partir dos seus limites, assinalando os elementos e valores naturais construídos, as servidões e restrições de utilidade pública.
+
+5 - Memória descritiva explicitando as obras, designadamente arruamentos, redes de abastecimento de águas, de saneamento, de gás, de infra-estruturas eléctricas (redes de baixa, média e alta tensão e de iluminação pública), de telecomunicações e intervenção paisagística.
+
+6 - Número de exemplares:2. No caso do prédio se localizar em zona de servidão administrativa ou restrição de utilidade pública, deve anexar-se uma cópia por cada entidade a consultar.
+
+Norma 3 - Informação Prévia de Obras de Edificação
+
+1 - Requerimento.
+
+2 - Quando o interessado não seja o proprietário do prédio, identificação do proprietário bem como dos titulares de qualquer outro direito real sobre o prédio, através da certidão emitida pela Conservatória do registo Predial.
+
+3 - Extracto da planta de ordenamento e da planta de condicionantes do plano municipal de ordenamento do território vigente, de maior pormenor e da planta de síntese do loteamento, quando exista, assinalando a área objecto da pretensão.
+
+4 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da aérea objecto da operação.
+
+5 - Memória descritiva e justificativa esclarecendo devidamente a pretensão.
+
+6 - Planta de implantação à esc. 1:500 ou superior, definindo o alinhamento e perímetro da edificação em causa, dos anexos e das edificações adjacentes, vizinhas.
+
+7 - Perfis esquemáticos, à escala 1:200 ou 1:500, para análise da integração volumétrica caso se proponham alterações significativas relativamente à envolvente.
+
+8 - Peças desenhadas indicando as cérceas e número de pisos acima e abaixo da cota de soleira, plantas cotadas de todos os pisos incluindo coberturas, alçados, cortes transversais e longitudinais cotados, área total de construção e utilização.
+
+9 - Nos processos de obras de recuperação, renovação e/ou alteração, levantamento do existente (plantas, cortes e alçados) sumariamente cotado.
+
+10 - Fotografias a cores, de ângulos opostos ou complementares que classifiquem as confrontações da parcela quer com a via pública quer com as parcelas vizinhas, bem como de todas as construções existentes na parcela, quando for o caso. Tomadas de vista longínquas ou de cota superior, sempre que tal se verifique necessário para uma análise correcta de integração da proposta no ambiente existente.
+
+11 - Número de exemplares: 2. No caso do prédio se localizar em zona de servidão administrativa ou restrição de utilidade pública, deve anexar-se mais uma cópia por cada entidade a consultar.
+
+Norma 4 - Informação Prévia de Obras de Edificação (no NH e/ou a submeter à apreciação do IPPAR)
+
+1 - Requerimento.
+
+2 - Quando o interessado não seja o proprietário do prédio, identificação do proprietário bem como dos titulares de qualquer outro direito real sobre o prédio, através da certidão emitida pela Conservatória do registo Predial.
+
+3 - Extracto da planta de ordenamento e da planta de condicionantes do plano municipal de ordenamento do território vigente, de maior pormenor, e da planta de síntese do loteamento, quando exista, assinalando a área objecto da pretensão.
+
+4 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da aérea objecto da operação.
+
+5 - Memória descritiva e justificativa contendo leitura histórica e urbanística do local da obra (sendo projecto de raiz) e ainda análise arquitectónica do edifício e conjunto, caso se trate de alteração, renovação ou substituição do edifício existente, uso e/ou sua alteração, caracterização do sistema construtivo no caso de intervenção em edifício existente, técnicas de construção, sistemas estruturais, escoramentos e demolições (quando necessário), materiais e cores a utilizar com especial detalhe nas fachadas e coberturas.
+
+6 - Planta de implantação à esc. 1:500 ou superior, definindo o alinhamento e perímetro das edificações.
+
+7 - Perfis esquemáticos, à escala 1:200 ou 1:500, para análise da integração volumétrica caso se proponham alterações significativas relativamente à envolvente.
+
+8 - Peças desenhadas indicando as cérceas e número de pisos acima e abaixo da cota de soleira, plantas cotadas de todos os pisos incluindo coberturas, alçados com representação das cores e materiais e dos edifícios imediatamente confinantes, cortes transversais e longitudinais cotados.
+
+9 - Nos processos de obras de recuperação, renovação e/ou alteração, levantamento do existente (plantas, cortes e alçados) sumariamente cotado.
+
+10 - Nos processos de obras de construção, relatório das sondagens e estudo arqueológico, caracterizador do potencial patrimonial do local.
+
+11 - Fotografias, a cores, de ângulos opostos ou complementares que classifiquem as confrontações da parcela quer com a via pública quer com as parcelas vizinhas, bem como de todas as construções existentes na parcela, quando for o caso. Tomadas de vista longínquas ou de cota superior, sempre que tal se verifique necessário para uma análise correcta de integração da proposta no ambiente existente.
+
+12 - Número de exemplares:4. No caso do prédio se localizar em zona de servidão ou restrição de utilidade pública, que implique a consulta a outras entidades para além do IPPAR, mais um exemplar por cada entidade a consultar.
+
+Norma 5 - Informação Prévia sobre Obras de Demolição
+
+1 - Requerimento.
+
+2 - Quando o interessado não seja o proprietário do prédio, identificação do proprietário bem como dos titulares de qualquer outro direito real sobre o prédio, através de certidão emitida pela Conservatória do Registo Predial.
+
+3 - Extracto da planta de ordenamento e de condicionantes do plano municipal de ordenamento do território de maior pormenor e da planta de síntese do loteamento quando exista, assinalando a área objecto da pretensão.
+
+4 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da área objecto da operação.
+
+5 - Memória descritiva esclarecendo devidamente a pretensão e indicando a área objecto do pedido bem como o estado de conservação do imóvel.
+
+6 - Descrição sumária da utilização futura do terreno.
+
+7 - Fotografias do imóvel (do interior e exterior).
+
+8 - Número de exemplares: 2. No caso do prédio se localizar no Centro Histórico. No caso do prédio se localizar em zona de servidão administrativa ou restrição de utilidade pública, deve anexar-se mais uma cópia por cada entidade a consultar.
+
+Norma 6 - Informação Prévia sobre Alteração da Utilização (de Edifícios ou Fracções)
+
+1 - Requerimento.
+
+2 - Quando o interessado não seja o proprietário do prédio, identificação do proprietário bem como dos titulares de qualquer outro direito real sobre o prédio, através da certidão emitida pela Conservatória do Registo Predial.
+
+3 - Extracto da planta de ordenamento e de condicionantes do plano municipal de ordenamento do território de maior pormenor vigente e da planta de síntese de loteamento quando exista, assinalando a área objecto da operação.
+
+4 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da área objecto da operação.
+
+5 - Dados que permitam localizar o processo de autorização ou licenciamento, arquivado na Câmara Municipal: ano de construção do edifício, titular do processo, números dos alvarás de construção e utilização.
+
+6 - Memória descritiva indicando a área objecto do pedido e esclarecendo devidamente a pretensão; devem ser indicados os lugares de estacionamento público e privados existentes e a criar, número de funcionários e utilizadores da fracção ou edifício, horários de funcionamento e outros dados que permitam avaliar o impacto da alteração.
+
+7 - Plantas do edifício ou da fracção com identificação dos compartimentos e acessos e do respectivo prédio.
+
+8 - Número de exemplares. 2. No caso do prédio se localizar em zona de servidão administrativa ou restrição de utilidade pública, deve anexar-se mais uma cópia por cada entidade a consultar.
+
+Norma 7 - Informação Prévia sobre Remodelações de Terrenos e Outras Operações Urbanísticas
+
+1 - Requerimento.
+
+2 - Quando o interessado não seja o proprietário do prédio, identificação do proprietário bem como dos titulares de qualquer outro direito real sobre o prédio, através de certidão emitida pela Conservatória do Registo Predial.
+
+3 - Extracto da planta de ordenamento e de condicionantes do plano municipal de ordenamento do território de maior pormenor e da planta de síntese do loteamento, quando exista assinalando a área objecto da pretensão.
+
+4 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da área objecto da operação.
+
+5 - Memória descritiva esclarecendo devidamente a pretensão e indicando a área objecto do pedido.
+
+6 - Número de exemplares: 2. No caso do prédio se localizar em zona de servidão administrativa ou restrição de utilidade pública, deve anexar-se mais uma cópia por cada entidade a consultar.
+
+Norma 8 - Autorização das Operações de Loteamento
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos. (Original ou autenticada).
+
+4 - Cópia da notificação da Câmara Municipal a comunicar a aprovação de um pedido de informação prévia, quando esta exista e estiver em vigor.
+
+5 - Extractos das plantas de implantação e de condicionantes do plano de pormenor, assinalando devidamente a área objecto da operação.
+
+6 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da área objecto da operação, incluindo uma faixa envolvente com dimensão adequada à avaliação da integração da operação na área em que se insere, assinalando os elementos ou valores naturais e construídos, infra-estruturas existentes e as servidões administrativas e restrições de utilidade pública, incluindo os solos abrangidos pelos regimes de RAN e REN.
+
+7 - Declaração conjunta nos termos do disposto no D.L. 292/95 de 14/11, dos técnicos que integram a equipa técnica, com identificação do coordenador técnico do projecto, quando exigível.
+
+8 - Termos de responsabilidade subscritos pelos autores dos projectos quanto ao cumprimento das disposições legais e regulamentares aplicáveis.
+
+9 - Memória descritiva e justificativa, esclarecendo o enquadramento da pretensão nos planos municipais de ordenamento do território existentes, a localização e área do prédio ou prédios abrangidos, a integração paisagística da operação, índices urbanísticos adoptados e áreas de construção, espaços verdes e de uso colectivo e de cedência resultantes, número de lotes e respectivas áreas, áreas de construção, cérceas, número de pisos acima e abaixo da cota de soleira, utilização e número máximo de fogos de cada edifício, condicionantes relativas à implantação dos edifícios e construções anexas, áreas destinadas a espaços de utilização colectiva, incluindo espaços verdes e respectivos arranjos, natureza e dimensionamento dos equipamentos, natureza das actividades não habitacionais e dimensionamento das áreas a elas destinadas, solução adoptada para o funcionamento das redes de abastecimento de água, de águas residuais, de infraestruturas eléctricas (redes de baixa, média e alta tensão e de iluminação pública), de gás e de telecomunicações e suas ligações às redes gerais, quando for o caso, estrutura viária adoptada, especificando acessos e estacionamento de veículos, incluindo os previstos em cave.
+
+10 - Levantamento topográfico, à escala 1:500 ou superior, georeferenciado, planimétrico e altimétrico, com indicação do Datum utilizado. (ver nota a)
+
+11 - Planta de apresentação, à escala 1:1000, indicando, nomeadamente a superfície total do terreno objecto da pretensão, estrutura viária, divisão em lotes, sua numeração e finalidade, polígono de base para a implantação das construções, localização de equipamentos e das áreas que lhe sejam destinadas, bem como das áreas para espaços verdes e utilização colectiva.
+
+12 - Planta de síntese, à escala 1:500 ou superior, elaborada com base no levantamento topográfico indicando, nomeadamente, a localização do terreno, modelação proposta, a estrutura viária, as redes de abastecimento de água, de saneamento, de energia eléctrica (localização de armários de distribuição e das colunas de iluminação), de gás e de condutas destinadas à instalação de infra-estruturas de telecomunicações (localização de armários de distribuição), a divisão em lotes, sua numeração, finalidade, áreas de implantação e de construção, numero de fogos com especificação dos fogos destinados a habitações custos controlados quando previstos, áreas destinadas a infra-estruturas e estacionamento, espaços verdes e de utilização colectiva e equipamento, quadro sinóptico, com indicação, por lote, de identificação dos lotes, áreas dos lotes, áreas máximas de implantação dos edifícios, áreas brutas de construção, número de pisos acima e abaixo da cota de soleira, cérceas, usos, com identificação do número máximo de fogos, com especificação dos destinados a habitação a custos controlados e das unidades afectas a outros usos, área destinada a estacionamento e número mínimo de lugares de estacionamento, privados e públicos.(ver nota a).
+
+13 - Planta cadastral, à escala 1:500 ou superior, elaborada com base no levantamento topográfico, com indicação numérica e gráfica das áreas de cedência para os domínios público e privado municipal. (ver nota a)
+
+14 - Pareceres, autorizações ou aprovações, legalmente exigidos, com menos de um ano da data do requerimento de autorização. (No âmbito do disposto no art.º 37.º do D.L. 177/01 de 04/06).
+
+15 - Fotografias, a cores, do local. Nalguns casos, poderá ser exigida maquete da proposta.
+
+16 - Regulamento das construções , incluindo muros, do tratamento dos espaços livres e/ou projectos tipo.
+
+17 - Extracto do mapa de ruído ou, na sua ausência, relatório sobre recolha de dados acústicos; avaliação acústica e soluções adequadas e preconizadas para minimização dos impactes acústicos negativos.
+
+18 - Ficha com os elementos estatísticos devidamente preenchida com os dados referentes à operação urbanística a realizar.
+
+19 - Número de exemplares: 3.
+
+(nota a) devem ser entregues também em formato digital
+
+Norma 9 - Licenciamento das Operações de Loteamento
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos. (Original ou autenticada).
+
+4 - Cópia da notificação da Câmara Municipal a comunicar a aprovação de um pedido de informação prévia, quando esta exista e estiver em vigor.
+
+5 - Extractos das plantas de ordenamento e de condicionantes do plano municipal de ordenamento do território vigente, de maior pormenor, assinalando a área objecto da operação.
+
+6 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da área objecto da operação, incluindo uma faixa envolvente com dimensão adequada à avaliação da integração da operação na área em que se insere, assinalando os elementos ou valores naturais e construídos, infra-estruturas existentes e as servidões administrativas e restrições de utilidade pública, incluindo os solos abrangidos pelos regimes de RAN e REN.
+
+7 - Declaração conjunta nos termos do disposto no D.L. 292/95 de 14/11, dos técnicos que integram a equipa técnica, com identificação do coordenador técnico do projecto, quando exigível.
+
+8 - Termos de responsabilidade subscritos pelos autores dos projectos quanto ao cumprimento das disposições legais e regulamentares aplicáveis.
+
+9 - Memória descritiva e justificativa, esclarecendo o enquadramento e adequabilidade do projecto com a política de ordenamento do território contida nos planos municipais de ordenamento do território vigentes, a localização e área do prédio ou prédios abrangidos, a integração paisagística da operação, índices urbanísticos adoptados e áreas de construção, espaços verdes e de uso colectivo e de cedência resultantes, número de lotes e respectivas áreas, áreas de construção, cérceas, número de pisos acima e abaixo da cota de soleira, utilização e número máximo de fogos de cada edifício, condicionantes relativas à implantação dos edifícios e construções anexas, áreas destinadas a espaços de utilização colectiva, incluindo espaços verdes e respectivos arranjos, natureza e dimensionamento dos equipamentos, natureza das actividades não habitacionais e dimensionamento das áreas a elas destinadas, solução adoptada para o funcionamento das redes de abastecimento de água, de águas residuais, de infra-estruturas eléctricas (redes de baixa, média e alta tensão e de iluminação pública), de gás e de telecomunicações e suas ligações às redes gerais, quando for o caso, estrutura viária adoptada, especificando acessos e estacionamento de veículos, incluindo os previstos em cave, referência à adequabilidade da proposta de loteamento às normas e princípios de ordenamento contidos no Plano Director Municipal.
+
+10 - Levantamento topográfico, à escala 1:500 ou superior, georeferenciado, planimétrico e altimétrico, com indicação do Datum utilizado. (ver nota a)
+
+11 - Planta de apresentação, à escala 1:1000, indicando, nomeadamente, a superfície total do terreno objecto da pretensão, a estrutura viária, divisão em lotes, sua numeração e finalidade, polígono de base para a implantação das construções, localização de equipamentos e das áreas que lhe sejam destinadas, bem como das áreas para espaços verdes e utilização colectiva.
+
+12 - Planta de síntese, à escala 1:500 ou superior, elaborada com base no levantamento topográfico, indicando, nomeadamente, a localização do terreno, modelação proposta, a estrutura viária, espaços verdes e de utilização colectiva, equipamento, a divisão em lotes, sua numeração, finalidade, áreas de implantação e de construção, número de fogos com especificação dos fogos destinados a habitações a custos controlados quando previstos, quadro sinóptico, com indicação, por lote, de identificação dos lotes, áreas dos lotes, áreas máximas de implantação dos edifícios, áreas brutas de construção, número de pisos acima e abaixo da cota de soleira, cérceas, usos, com identificação do número máximo de fogos, com especificação dos destinados a habitação a custos controlados e das unidades afectas a outros usos, área destinada a estacionamento e número mínimo de lugares de estacionamento, privados e públicos. (ver nota a)
+
+13 - Planta de infra-estruturas, à escala 1:500 ou superior, elaborada com base no levantamento topográfico, indicando, nomeadamente, a localização do terreno, modelação proposta, a estrutura viária (traçado com indicação das concordâncias ao eixo e lancil; perfil longitudinal à escala H1:1000, V1:100, com indicação dos arruamentos existentes a interceptar e das linhas de água ), as redes de abastecimento de água, de saneamento, de energia eléctrica (localização de PTs, armários de distribuição e das colunas de iluminação), de gás e de condutas destinadas à instalação de infra-estruturas de telecomunicações (localização de armários de distribuição), áreas destinadas a infra-estruturas e estacionamento, espaços verdes e de utilização colectiva e equipamento.
+
+14 - Planta cadastral, à escala 1:500 ou superior, elaborada com base no levantamento topográfico, com indicação numérica e gráfica das áreas de cedência para os domínios público e privado municipal. (ver nota a)
+
+15 - Pareceres, autorizações ou aprovações, legalmente exigidos, com menos de um ano da data do requerimento de licenciamento. (no âmbito do disposto no art.º 37.º do D.L. 177/01 de 04/06)
+
+16 - Fotografias, a cores, do local. Nalguns casos, poderá ser exigida maqueta da proposta.
+
+17 - Regulamento das construções, incluindo muros, do tratamento dos espaços livres e ou projectos tipo, se justificado.
+
+18 - Extracto do mapa de ruído ou, na sua ausência, recolha de dados acústicos; avaliação acústica e soluções adequadas e preconizadas para minimização dos impactes acústicos negativos.
+
+19 - Ficha com os elementos estatísticos devidamente preenchida com os dados referentes à operação urbanística a realizar.
+
+20 - Número de exemplares: 3. No caso do prédio se localizar em zona de servidão administrativa ou restrição de utilidade pública, deverá anexar-se uma cópia por cada entidade a consultar.
+
+(nota a) devem ser entregues também em formato digital
+
+Norma 10 - Licenciamento de Operações de Loteamento (Emparcelamento de Prédios)
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos. (Original ou autenticada).
+
+4 - Cópia da notificação da Câmara Municipal a comunicar a aprovação de um pedido de informação prévia, quando esta exista e estiver em vigor.
+
+5 - Extractos das plantas de ordenamento e de condicionantes do plano municipal de ordenamento do território vigente, de maior pormenor, assinalando a área objecto da operação.
+
+6 - Termo de responsabilidade subscrito pelo autor do projecto quanto ao cumprimento das disposições legais e regulamentares aplicáveis.
+
+7 - Memória descritiva e justificativa, esclarecendo a localização e área dos prédios abrangidos, índices urbanísticos adoptados, espaços verdes e de utilização colectiva e de cedência eventualmente resultantes, número do lote e respectiva área, áreas de construção, cércea, número de pisos acima e abaixo da cota de soleira, utilização e número máximo de fogos, condicionantes relativas à implantação do edifício e construções anexas, áreas destinadas a espaços de utilização pública, solução adoptada para a ligação às redes de abastecimento de água, de águas residuais, de infra-estruturas eléctricas, de gás e de telecomunicações, estrutura viária existente e correcções eventualmente necessárias, acessos e estacionamento de veículos, incluindo os previstos em cave, referência à adequabilidade da proposta de loteamento às normas e princípios de ordenamento contidos no Plano Director Municipal.
+
+8 - Levantamento topográfico, à escala 1:500 ou superior, georeferenciado, planimétrico e altimétrico, com indicação do Datum utilizado. (ver nota a)
+
+9 - Planta de síntese, à escala 1:500 ou superior, elaborada com base no levantamento topográfico, indicando, nomeadamente, a localização do terreno, modelação proposta, a estrutura viária, espaços verdes e de utilização colectiva, equipamento, a divisão em lotes, sua numeração, finalidade, áreas de implantação e de construção, número de fogos com especificação dos fogos destinados a habitações a custos controlados quando previstos, quadro sinóptico, com indicação, por lote, de identificação dos lotes, áreas dos lotes, áreas máximas de implantação dos edifícios, áreas brutas de construção, número de pisos acima e abaixo da cota de soleira, cérceas, usos, com identificação do número máximo de fogos, com especificação dos destinados a habitação a custos controlados e das unidades afectas a outros usos, área destinada a estacionamento e número mínimo de lugares de estacionamento, privados e públicos. (ver nota a)
+
+10 - Pareceres, autorizações ou aprovações, legalmente exigidos, com menos de um ano da data do requerimento de licenciamento. (no âmbito do disposto no art.º 37.º do D.L. 177/01 de 04/06).
+
+11 - Ficha com os elementos estatísticos devidamente preenchida com os dados referentes à operação urbanística a realizar.
+
+12 - Número de exemplares: 3. No caso do prédio se localizar em zona de servidão administrativa ou restrição de utilidade pública, deverá anexar-se uma cópia por cada entidade a consultar.
+
+(nota a) devem ser entregues também em formato digital.
+
+Norma 11 - Autorização de Obras de Urbanização
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos.
+
+4 - Cópia da notificação da câmara municipal a comunicar a aprovação de um pedido de informação prévia, quando esta exista e estiver em vigor.
+
+5 - Cópia da notificação do deferimento do pedido de licenciamento ou de autorização da operação de loteamento.
+
+6 - Projectos das diferentes especialidades que integram as obras, designadamente das infra estruturas viárias, de sinalização viária, redes de abastecimento de águas, esgotos e drenagem, de gás, de infra-estruturas eléctricas (redes de baixa, média e alta tensão e de iluminação pública), de telecomunicações, de intervenção paisagística, de minimização dos impactes acústicos, devendo cada projecto conter memória descritiva e justificativa, bem como os cálculos, se for caso disso, e as peças desenhadas, em escala tecnicamente adequada, com os respectivos termos de responsabilidade dos técnicos autores dos projectos.
+
+7 - Pareceres das entidades exteriores ao município, relativos aos projectos de infraestruturas.
+
+8 - Orçamento da obra, por especialidades e global, baseado na quantidade e qualidades dos trabalhos necessários à sua execução, devendo neles ser adoptadas as normas portugueses em vigor ou as especificações do Laboratório Nacional de Engenharia Civil.
+
+9 - Condições técnicas gerais e especiais do caderno de encargos, incluindo prazos para o inicio e para o termo da execução dos trabalhos.
+
+10 - Declaração conjunta nos termos do disposto no D.L. 292/95 de 14/11, dos técnicos que integram a equipa técnica, com identificação do coordenador técnico do projecto, quando exigível.
+
+11 - Termos de responsabilidade subscritos pelos autores dos projectos quanto ao cumprimento das disposições legais e regulamentares aplicáveis.
+
+12 - Contrato de urbanização, caso o requerente entenda proceder, desde logo, à sua apresentação.
+
+13 - Número de exemplares: 3
+
+Norma 12 - Licenciamento de Obras de Urbanização
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente as prédio ou prédios abrangidos.
+
+4 - Extractos das plantas de ordenamento e de condicionantes do plano municipal de ordenamento do território vigente, de maior pormenor, assinalando a área objecto da operação.
+
+5 - Cópia da notificação da Câmara municipal a comunicar a aprovação de um pedido de informação prévia, quando esta exista e estiver em vigor.
+
+6 - Levantamento topográfico, à escala 1:500 ou superior, georeferenciado, planimétrico e altimétrico, com indicação do Datum utilizado (ver nota a).
+
+7 - Planta de apresentação, à escala 1:1000, indicando, nomeadamente a estrutura viária, divisão em lotes, sua numeração e finalidade, polígono de base para a implantação das construções, localização de equipamentos e das áreas que lhe sejam destinadas, bem como das áreas para espaços verdes e utilização colectiva.
+
+8 - Projectos das diferentes especialidades que integram a obra, designadamente das infra-estruturas viárias, de sinalização viária, redes de abastecimento de águas, incluindo o abastecimento aos sistemas de rega, de esgotos e drenagem, de gás, de infra-estruturas eléctricas (redes de baixa, média e alta tensão e iluminação pública), de telecomunicações, de intervenção paisagística, de minimização dos impactes acústicos, devendo cada projecto conter memória descritiva e justificativa, bem como os cálculos, se for caso disso, e as peças desenhadas, em escala tecnicamente adequada, com os respectivos termos de responsabilidade dos técnicos autores dos projectos.
+
+9 - Orçamento da obra, por especialidades e global, baseado em quantidades e qualidades dos trabalhos necessários à sua execução, devendo neles ser adoptada as normas portuguesas em vigor ou as especificações do Laboratório Nacional de Engenharia Civil.
+
+10 - Condições técnicas gerais e especiais do caderno de encargos, incluindo prazos para o inicio e para o termo da execução dos trabalho.
+
+11 - Declaração conjunta nos termos do disposto no D.L. 292/95 de 14/11, dos técnicos que integram a equipa técnica, com identificação do coordenador técnico do projecto, quando exigível.
+
+12 - Termos de responsabilidade subscritos pelos autores dos projectos quanto ao cumprimento das disposições legais e regulamentares aplicáveis.
+
+13 - Proposta de contrato de urbanização, caso o requerente entenda proceder, desde logo, à sua apresentação.
+
+14 - Número de exemplares: 3. No caso do prédio se localizar em zona de servidão administrativa ou de restrição de utilidade pública, deverá anexar-se mais uma cópia por cada entidade a consultar.
+
+nota a) Devem ser entregues também em formato digital.
+
+Norma 13 - Projecto de Arruamentos
+
+Peças Escritas
+
+1 - Termo de responsabilidade do autor do projecto.
+
+2 - Memória descritiva e justificativa: deverá descrever e justificar a solução proposta, especificando materiais a aplicar, dimensões, técnicas e métodos de construção e descrição de pormenores. Deverá existir uma parte, nos mesmos termos, para a sinalização.
+
+3 - Especificações técnicas de execução: definição exaustiva do modo de execução dos pormenores de trabalho e suas técnicas construtivas com definição de limites, tolerâncias e ensaios.
+
+4 - Mapa de movimentação de terras.
+
+5 - Medições e orçamento: onde constem todos os trabalhos necessários à execução das obras, sem excepção. Os preços unitários deverão estar actualizados de acordo com os preços médios praticados no mercado, tendo em conta a afectação dos custos directos e indirectos da mão de obra, equipamento e materiais.
+
+6 - Programa de trabalhos: descrição e justificação do modo de execução da obra; plano de trabalhos definindo o início e a conclusão das diferentes fases da obra e sua sequência com escalonamento no tempo; o intervalo e o ritmo da execução das diversas espécies de trabalho.
+
+Peças Desenhadas
+
+1 - Levantamento topográfico completo, exaustivo e actual, à escala 1:500 ou superior (ver nota *).
+
+2 - Planta de implantação ou de trabalho, geo-referenciada, à escala 1:500 ou superior (ver nota *) na qual deverão estar identificados os eixos e perfis transversais dos arruamentos projectados e os acessos e linhas de água e cotas de soleira existentes ou outros elementos que condicionem o projecto.
+
+3 - Planta de pavimentos à escala 1:500 ou superior (ver nota *) com representação de todas as áreas do domínio público referente ao projecto em causa, especificação dos materiais de pavimentos ou de superfícies a aplicar e localização das tampas das caixas das diferentes infra-estruturas.
+
+4 - Perfil longitudinal elaborado à escala 1:1000 no eixo horizontal e no eixo vertical 1:100 ou proporcionalmente superiores (nota *), com indicação dos arruamentos intersectados.
+
+a) O perfil longitudinal deve ser representado até ao eixo dos arruamentos existentes, com a indicação de todas as intersecções intermédias, e ser prolongado para além dos limites da intervenção, no caso de se prever a futura continuidade do arruamento.
+
+b) Em regra, as concordâncias dos trainéis com os arruamentos transversais devem efectuar-se ao limite da faixa de rodagem destes e não ao seu eixo.
+
+c) Devem evitar-se concordâncias côncavas em zonas de drenagem deficiente de águas pluviais ou de fácil obstrução.
+
+d) Os perfis longitudinais devem representar todos os elementos da razante e do terreno existente para verificação em projecto e implantação em obra.
+
+5 - Perfis transversais à escala 1:200 ou superior (ver nota *), com indicação das áreas de aterro, escavação e cota diferencial ao eixo.
+
+a) Devem representar o terreno realmente existente, de modo a permitir observar-se as alturas dos taludes e a distância a construções eventualmente existentes, e devem também representar a localização dos muros que seja necessário construir.
+
+b) Em função das condições de drenagem de águas pluviais existentes e projectadas, poderá determinar-se o recurso a valas de crista ou de pé de talude, bem como a outro tipo de tratamento ou contenção que facilitem a sua estabilização.
+
+6 - Perfil transversal-tipo à escala 1:50 ou superior (ver nota *) devendo incluir dimensões e materiais e ser acompanhado de legendas com descrições sucintas. Este elemento servirá de base à pormenorização da execução.
+
+7 - Perfis longitudinais das concordâncias em intersecções (leques de ligação).
+
+8 - Definição de todas as características técnicas dos cruzamentos e zonas adjacentes.
+
+9 - Perfis transversais das valas, indicativos da localização das diversas infra-estruturas, em todos os pontos notáveis.
+
+10 - Planta de sinalização à escala 1:500 ou superior (ver nota *), com representação de todas as marcas rodoviárias, horizontais e verticais.
+
+11 - Pormenores à escala adequada para a boa e inequívoca execução da obra.
+
+12 - Medições e Orçamento.
+
+13 - Número de exemplares: 2
+
+(nota *) - Excepcionalmente, podem ser admitidas escalas inferiores desde que justificável pela dimensão da obra sendo, neste caso, exigidas plantas de pormenorização a escalas adequadas.
+
+Norma 14 - Projecto de Intervenção Paisagística
+
+1 - Memória Descritiva e Justificativa da proposta.
+
+2 - Caderno de encargos, descrevendo pormenorizadamente a natureza e qualidade dos materiais a utilizar, bem com a forma de execução dos trabalhos.
+
+3 - Medições e orçamento, indicando a quantidade e qualidade dos trabalhos, bem como a estimativa de custo.
+
+4 - Plano geral ou plano de apresentação, a escala não inferior a 1:500, identificando:
+
+a) Relativamente ao existente - a localização e identificação das árvores nos arruamentos adjacentes, a localização das infra-estruturas eléctricas (colunas de iluminação, armários) e passadeiras.
+
+b) Relativamente ao proposto - as diferentes áreas funcionais, as áreas pavimentadas, as áreas plantadas (especificando a localização de árvores, arbustos e herbáceas) as áreas semeadas, os equipamentos e mobiliário urbano, percursos, zonas de estadia, etc. Deverá dar uma noção do aspecto definitivo da obra em pleno desenvolvimento vegetativo.
+
+5 - Plano de medidas cautelares, identificando os elementos construídos e vegetais a preservar e proteger durante o decurso dos trabalhos, a localização do estaleiro bem como o local para vazadouro de terras vegetais e inertes, quando aplicável e se mostra necessário.
+
+6 - Cortes e perfis elucidativos da solução adoptada.
+
+7 - Plano altimétrico e planimétrico, com representação da situação actual e proposta, incluindo todas as indicações necessárias à correcta implantação da solução projectada. Poderá ser desdobrado em Plano de implantação e Plano de modulação do terreno caso fique comprometida a legibilidade da informação que fornece.
+
+8 - Plano de plantações e sementeiras, indicando as diferentes espécies propostas e sua localização. Para efeito de uma leitura adequada poderá ser desdobrado em:
+
+a) Plano de plantação de árvores e sementeiras;
+
+b) Plano de plantação de arbustos e herbáceas.
+
+(Nota - A identificação das espécies neste(s) plano(s) deverá ser feita através do seu nome vulgar e botânico)
+
+9 - Plano de drenagem interna e superficial, especificando os materiais propostos e cálculo da rede de drenagem.
+
+10 - Plano de pavimentos, indicando os diferentes tipos de pavimentos propostos, sua localização e tipo de delimitação proposto.
+
+11 - Perfis longitudinais e transversais de caminhos e percursos pedonais.
+
+12 - Plano de rega, especificando os materiais propostos e cálculos.
+
+13 - Plano de equipamentos e mobiliário urbano, com indicação do tipo e localização, incluindo a localização e tipo de colunas de iluminação pública.
+
+a) Deve ser justificado o equipamento de recreio proposto, considerando a situação existente nas zonas mais próximas.
+
+b) Devem ser indicadas as idades a que se destinam este tipo de equipamentos.
+
+14 - Pormenores de construção, necessários à correcta execução dos planos e elementos construídos propostos.
+
+15 - Plano de manutenção para o primeiro ano e seguintes da implantação da zona verde.
+
+16 - Número de exemplares: 2. No caso de se localizar no núcleo histórico: 3 .
+
+Norma 15 - Autorização de Obras de Edificação
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos.
+
+4 - Extracto da planta de ordenamento do plano municipal de ordenamento do território, de maior pormenor e da planta síntese do loteamento, se existir, assinalando a área objecto da pretensão.
+
+5 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, com a indicação precisa do local onde se pretende executar a obra.
+
+6 - Cópia da notificação da Câmara Municipal a comunicar a aprovação de um pedido de informação prévia, quando esta existir e estiver em vigor.
+
+7 - Quando se trate de obras em edifícação existente deve ainda ser junta fotografia de imóvel.
+
+8 - Memória descritiva e justificativa.
+
+9 - Projecto de arquitectura.
+
+10 - Estimativa do custo total da obra.
+
+11 - Calendarização da execução da obra.
+
+12 - Termos de responsabilidade subscritos pelo autores dos projectos quanto ao cumprimento das normas legais e regulamentares aplicáveis.
+
+13 - Ficha com os elementos estatísticos devidamente preenchida com os dados referentes à operação urbanística a realizar.
+
+14 - Projectos das especialidades, com pareceres das entidades exteriores ao município.
+
+15 - Número de exemplares: 2.
+
+Norma 16 - Licenciamento de Obras de Edificação
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade da realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos.
+
+4 - Extractos das plantas de ordenamento e de condicionantes do plano municipal de ordenamento do território vigente, de maior pormenor, assinalando a área objecto da operação.
+
+5 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da área objecto da operação.
+
+6 - Cópia da notificação da câmara municipal a comunicar a aprovação de um pedido de informação prévia, quando esta existir e estiver em vigor.
+
+7 - Fotografias, a cores, dos ângulos opostos ou complementares que definam as confrontações da parcela quer com a via pública, quer com as parcelas vizinhas, bem como de todas as construções existentes na parcela, quando for o caso.
+
+8 - No caso de obras de edificação no Núcleo Histórico e/ou o submeter à apreciação do IPPAR, devem acrescentar-se fotografias com tomadas de vista longínquas ou de cotas superior, sempre que tal se verifique necessário para uma análise correcta da integração da proposta no ambiente existente. Levantamento fotográfico do edificado, bem como do interior existente, no caso de obras de ampliação. Levantamento fotográfico dos alçados do edificado envolvente onde se pretende integrar a construção.
+
+9 - Nos processos de obras de construção no Núcleo Histórico, cópia do relatório das sondagens e estudo arqueológico, caracterizador do potencial patrimonial do local.
+
+10 - Memória descritiva e justificativa(ver nota a).
+
+11 - Projecto de arquitectura (ver nota a).
+
+12 - Estimativa do custo total da obra.
+
+13 - Calendarização da execução da obra.
+
+14 - Projectos das especialidades, caso o requerente entenda proceder, desde logo, à sua apresentação (modelo 13C).
+
+15 - Termos de responsabilidade subscritos pelos autores dos projectos quanto ao cumprimento das normas legais e regulamentares aplicáveis.
+
+16 - Ficha com os elementos estatísticos devidamente preenchida com os dados referentes à operação urbanística a realizar.
+
+17 - Número de exemplares: 2. No caso do prédio se localizar em zona de servidão administrativa ou de restrição de utilidade pública, deverá anexar-se mais uma cópia por cada entidade a consultar.
+
+nota a) Devem ser entregues também em formato digital
+
+Notas:
+
+1 - Para instalação de estabelecimentos a que se refere o DL168/97, com a redacção dada pelo DL 57/2002 de 11/03, e a Portaria 33/2000 de 28/01, devem ser entregues: projecto de instalação eléctrica, no caso de estabelecimentos com fabrico próprio de pastelaria, panificação e gelados; acta da reunião de condomínio autorizando a alteração das fachadas ou outras partes comuns do edifício, caso a instalação obrigue a esse tipo de obras.
+
+2 - No caso do projecto carecer de aprovação da administração central, nos termos da legislação especial aplicável, deverá ser apresentado documento comprovativo da referida aprovação.
+
+Norma 17 - Memória Descritiva e Justificativa
+
+Licenciamento ou Autorização de Obras de Edificação
+
+1 - Localização e área do prédio.
+
+2 - Descrição e justificação da proposta para a edificação.
+
+3 - Enquadramento e adequabilidade do projecto com a política de ordenamento do território contida nos planos municipais de ordenamento do território vigentes.
+
+4 - Adequação da edificação à utilização pretendida.
+
+5 - Inserção urbana e paisagística da edificação referindo em especial a sua articulação com o edificado existente e o espaço público envolvente.
+
+6 - Indicação da natureza e condições do terreno.
+
+7 - Adequação às infra-estruturas e redes existentes.
+
+8 - Avaliação acústica e soluções adequadas e preconizadas, relativas ao cumprimento do disposto no Regulamento Geral do Ruído, quando aplicável.
+
+9 - Área de construção, volumetria, área de implantação, cércea e número de pisos acima e abaixo da cota de soleira, número de fogos e respectiva tipologia.
+
+Norma 18 - Memória Descritiva e Justificativa
+
+Licenciamento de Obras de Edificação no Núcleo Histórico e/ou a submeter à apreciação do IPPAR
+
+1 - Localização e área do prédio.
+
+2 - Quando se trate do pedido inserido em área unicamente abrangida por plano director municipal deve também referir-se a adequabilidade do projecto com a política de ordenamento do território contida naquele plano.
+
+3 - Leitura histórica e urbanística do local da obra e ainda análise arquitectónica do edifício e conjunto, caso se trate de alteração, renovação ou substituição do edifício existente; uso e/ou alteração do uso; caracterização do sistema construtivo no caso de intervenção em edifício existente; técnicas de construção, sistemas estruturais, escoramentos, quando necessários, materiais e cores a utilizar, com especial detalhe nas fachadas e coberturas.
+
+4 - Enquadramento da pretensão nos planos municipais de ordenamento do território vigentes.
+
+5 - Adequação da edificação à utilização pretendida.
+
+6 - Indicação da natureza e condições do terreno.
+
+7 - Avaliação acústica e soluções adequadas e preconizadas relativamente ao cumprimento do disposto no Regulamento Geral do Ruído.
+
+8 - Adequação às infra-estruturas e redes existentes.
+
+9 - Área de construção, volumetria, área de implantação, cércea e número de pisos acima e abaixo da cota de soleira, número de fogos e respectiva tipologia.
+
+Norma 19 - Projecto de Arquitectura
+
+Licenciamento ou Autorização de Obras de Edificação
+
+1 - Levantamento topográfico, à escala 1:500 ou superior, georeferenciado, planimétrico e altimétrico, com indicação do Datum.(ver nota a)
+
+2 - Planta de implantação e cadastral, elaborada sobre o levantamento topográfico, incluindo o arruamento de acesso, com indicação das dimensões e áreas do terreno, áreas impermeabilizadas e, numa faixa com o mínimo de 15m, a representação das construções adjacentes. Quando for o caso, indicação numérica, gráfica e de registo predial, das áreas de cedência para o domínio público municipal.(ver nota a)
+
+3 - Plantas à escala 1:50 ou 1:100, incluindo coberturas, contendo as dimensões e áreas e usos de todos os compartimentos, bem como a representação do mobiliário fixo e equipamento sanitário; Deve incluir uma Planta de Estacionamento, devidamente cotada, com o pré-dimensionamento da estrutura e onde devem estar assinalados os lugares de estacionamento numerados, os sentidos de circulação, os percursos de acesso a cada lugar, passadeiras, bem como quaisquer outros elementos relevantes para a análise.(ver nota a)
+
+4 - Alçados à escala 1:50 ou 1:100 com a indicação das cores e dos materiais dos elementos que constituem as fachada, a cobertura e muros bem como as construções adjacentes, quando existam, numa faixa com o mínimo de 10 m.(ver nota a)
+
+5 - Cortes longitudinais e transversais à escala de 1:100 ou 1:200 abrangendo o terreno, com indicação do perfil existente e o proposto, bem como das cotas dos diversos pisos, muros e a representação das construções existentes numa faixa com o mínimo de 10 m.(ver nota a)
+
+6 - Pormenores de construção, à escala adequada, esclarecendo a solução construtiva adoptada para as paredes exteriores do edifício e sua articulação com a cobertura, vãos de iluminação/ventilação e de acesso, bem como o pavimento exterior envolvente.(ver nota a)
+
+7 - Caso se pretenda que o edifício fique sujeito ao regime da propriedade horizontal:
+
+a) Memória descritiva, com descrição sumária do prédio, referindo a área do lote, as áreas coberta e descoberta e as fracções autónomas, as quais deverão ser designadas por letras maiúsculas. Na descrição e identificação das fracções deverá indicar-se a sua composição referindo-se a existência de arrumos, terraços, logradouros e estacionamentos, se existirem, a localização (andar, direito, esquerdo, centro, frente, trás, etc.) destino (habitação, comércio, garagem, etc.), e o número de polícia pelo qual se processa o acesso à fracção, sempre que este exista ou já tenha sido atribuído. Na descrição de cada fracção deve incluir-se a respectiva percentagem ou permilagem relativamente ao valor total do edifício.
+
+Indicação de zonas comuns: descrição das zonas comuns a determinado grupo de fracções ou zonas comuns a todas as fracções e números de polícia pelos quais se processa o seu acesso;
+
+b) Plantas com a composição, identificação e designação de todas as fracções autónomas pela letra maiúscula respectiva, incluindo a existência de arrumos, terraços, logradouros e estacionamentos, e com a delimitação a cores, de cada fracção e das zonas comuns.
+
+8 - Caso se pretenda ocupar o espaço público:
+
+a) Planta cotada, com delimitação correcta da área do domínio público que se pretende ocupar, assinalando os tapumes, sinalização vertical, candeeiros de iluminação pública, bocas de rega ou marcos de incêndio, sarjetas, caixas de visita, árvores e quaisquer outras instalações fixas de utilidade pública;
+
+b) Implantação dos equipamentos, nomeadamente betoneiras e gruas, com a respectiva área de influência;
+
+c) Local para depósito de materiais de construção.
+
+Norma 20 - Projecto de Arquitectura
+
+Licenciamento de Obras de Edificação no Núcleo Histórico e/ou a submeter à apreciação do IPPAR
+
+1 - Levantamento topográfico, à escala 1:500 ou superior, georeferenciado, planimétrico e altimétrico, com indicação do Datum.(ver nota a)
+
+2 - Planta de implantação e cadastral, elaborada sobre o levantamento topográfico, incluindo o arruamento de acesso, com indicação das dimensões e áreas do terreno, áreas impermeabilizadas e representação dos edifícios imediatamente confinantes. Quando for o caso, indicação numérica, gráfica e do registo predial, das áreas de cedência para o domínio público municipal. (ver nota a)
+
+3 - Levantamento rigoroso do edifício existente e representação da proposta com as cores convencionais. (ver nota a)
+
+4 - Plantas à escala 1:50 ou 1:100, incluindo coberturas, contendo as dimensões e áreas e usos de todos os compartimentos, bem como a representação do mobiliário fixo e equipamento sanitário. (ver nota a)
+
+5 - Alçados à escala 1:50 ou 1:100, com a indicação das cores e dos materiais dos elementos que constituem as fachadas e a cobertura, bem como os edifícios imediatamente confinantes. (ver nota a)
+
+6 - Cortes longitudinais e transversais à escala de 1:50 ou 1:100, abrangendo o terreno, com indicação do perfil existente e o proposto, bem como das cotas dos diversos pisos e a representação dos edifícios imediatamente confinantes. (ver nota a)
+
+7 - Perfis esquemáticos para análise de integração volumétrica caso se proponham alterações significativas relativamente à envolvente. (ver nota a)
+
+8 - Pormenores de construção, à escala adequada, esclarecendo a solução construtiva adoptada para as paredes exteriores do edifício e sua articulação com a cobertura, vãos de iluminação/ventilação e de acesso, pormenorização de acabamentos dos elementos integrantes de fachadas, guarnição de vãos, caixilharias, guardas, beirados, etc., á escala 1:20 ou 1:10. (ver nota a)
+
+9 - Desenho em perspectiva, fotomontagem, ou maqueta, da intervenção e do edificado confinante.
+
+10 - Caso se pretenda que o edifício fique sujeito ao regime da propriedade horizontal:
+
+a) Memória descritiva, com descrição sumária do prédio, referindo a área do lote, as áreas coberta e descoberta e as fracções autónomas, as quais deverão ser designadas por letras maiúsculas. Na descrição e identificação das fracções deverá indicar-se a sua composição referindo-se a existência de arrumos, terraços, logradouros e estacionamentos, se existirem, a localização (andar, direito, esquerdo, centro, frente, trás, etc.) destino (habitação, comércio, garagem, etc.), e o número de polícia pelo qual se processa o acesso à fracção, sempre que este exista ou já tenha sido atribuído. Na descrição de cada fracção deve incluir-se a respectiva percentagem ou permilagem relativamente ao valor total do edifício;
+
+Indicação de zonas comuns: descrição das zonas comuns a determinado grupo de fracções ou zonas comuns a todas as fracções e números de polícia pelos quais se processa o seu acesso;
+
+b) Plantas com a composição, identificação e designação de todas as fracções autónomas pela letra maiúscula respectiva, incluindo a existência de arrumos, terraços, logradouros e estacionamentos, e com a delimitação a cores, de cada fracção e das zonas comuns.
+
+11 - Caso se pretenda ocupar o espaço público:
+
+a) Planta cotada, com delimitação correcta da área do domínio público que se pretende ocupar, assinalando os tapumes, sinalização vertical, candeeiros de iluminação pública, bocas de rega ou marcos de incêndio, sarjetas, caixas de visita, árvores e quaisquer outras instalações fixas de utilidade pública;
+
+b) Implantação dos equipamentos, nomeadamente betoneiras e gruas, com a respectiva área de influência;
+
+c) Local para depósito de materiais de construção.
+
+(nota a) - Deve ser entregue também em formato digital.
+
+Norma 21 - Projectos das Especialidades
+
+Licenciamento ou Autorização de Obras de Edificação
+
+1 - Projecto de estabilidade que inclua o projecto de escavação e contenção periférica e a caracterização sumária dos terrenos (2 ex.).
+
+2 - Projecto de alimentação e distribuição de energia eléctrica (2 ex.).
+
+3 - Projecto de instalação de gás, quando exigível, nos termos da lei (2 ex.).
+
+4 - Projecto de redes prediais de água e drenagem de águas residuais e pluviais (incluindo: memórias descritivas da rede de água e de esgotos e estimativa do custo, separadas, planta de implantação do lote com a representação das canalizações exteriores de água e esgotos, peças desenhadas com corte vertical - esquema da fossa séptica com o respectivo órgão de tratamento complementar, caso não exista no local, rede de saneamento) (3 ex.).
+
+5 - Projectos de intervenção paisagística (2 ex.).
+
+6 - Projecto de instalações telefónicas e de telecomunicações (2 ex.).
+
+7 - Estudo de comportamento térmico (2 ex.).
+
+8 - Projecto de instalações electromecânicas, incluindo as de transporte de pessoas e ou mercadorias, quando exigível nos termos da Lei (2 ex.).
+
+9 - Projecto de segurança contra incêndios (3 ex.).
+
+10 - Projecto de condicionamento acústico (2 ex.).
+
+11 - Projecto de aquecimento, ventilação e ar condicionado - AVAC - em edifício de serviços e/ou comércio, mistos de habitação e serviços e/ou comércio ou de utilização colectiva
+
+12 - Estudo de avaliação geológica e geotécnica, se aplicável.
+
+Nota: É recomendável que os projectos das especialidades sejam entregues na Câmara Municipal juntamente comos pareceres das entidades exteriores ao município, que, nos termos da lei, têm de emitir parecer.
+
+Norma 22 - Projecto de Condicionamento Acústico
+
+1 - Localização e área do prédio.
+
+2 - Descrição das características do edifício, complementada com peças desenhadas do projecto de arquitectura.
+
+3 - Enquadramento do edifício com os requisitos regulamentares e a indicação expressa dos valores limite aplicáveis, tendo em vista a sua utilização.
+
+4 - Descrição das soluções construtivas consideradas.
+
+5 - Descrição dos equipamentos colectivos do edifício (no caso de edifícios mistos, comércio e indústria devem, sempre que possível, ser indicados os equipamentos afectos às actividades que aí se pretendem desenvolver e as respectivas potências acústicas).
+
+6 - Descrição justificativa das soluções específicas preconizadas para o condicionamento acústico, complementada com a apresentação de peças desenhadas.
+
+7 - Apresentação das características dos materiais e descrição dos elementos de construção considerados.
+
+8 - Apresentação dos cálculos relevantes para a obtenção dos Índices de Isolamento (D2m,n,w; Dn,w; L'n,w), Tempos de Reverberação (T), Áreas de Absorção Equivalentes (A) e Níveis de Avaliação (LAr).
+
+9 - Verificação da conformidade dos valores projectados (calculados) com os impostos pelo RRAE (DL 129/2002 de 11/05).
+
+10 - Termo de responsabilidade do técnico autor do projecto.
+
+11 - Declaração da entidade profissional respectiva, em como o técnico está habilitado para executar este tipo de projectos.
+
+Norma 23 - Propriedade Horizontal
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor, emitida pela Conservatória do Registo Predial, referente ao prédio.
+
+4 - Dados que permitam localizar o processo de autorização ou licenciamento arquivado na Câmara Municipal: ano de construção do edifício, titular do processo, números dos alvarás de licença ou autorização, quando exista, número do processo.
+
+5 - Memória descritiva, com descrição sumária do prédio, referindo a área do lote, as áreas coberta e descoberta e as fracções autónomas, as quais deverão ser designadas por letras maiúsculas. Na descrição e identificação das fracções deverá indicar-se a sua composição referindo-se a existência de arrumos, terraços, logradouros e estacionamentos, se existirem, a localização (andar, direito, esquerdo, centro, frente, trás, etc.) destino (habitação, comércio, garagem, etc.), e o número de polícia pelo qual se processa o acesso à fracção, sempre que este exista ou já tenha sido atribuído. Na descrição de cada fracção deve incluir-se a respectiva percentagem ou permilagem relativamente ao valor total do edifício.
+
+Indicação de zonas comuns: descrição das zonas comuns a determinado grupo de fracções ou zonas comuns a todas as fracções e números de polícia pelos quais se processa o seu acesso.
+
+Nos edifícios possuindo dois fogos ou fracções por piso, com entrada comum, a designação de "esquerdo" caberá ao fogo ou fracção que se situe à esquerda de quem acede ao patamar respectivo, pelas escadas.
+
+Se em cada andar houver três ou mais fogos ou fracções, estes deverão ser referenciados segundo a chegada ao patamar nos termos do número anterior, pelas letras do alfabeto, de A em diante e no sentido do movimento dos ponteiros do relógio, conforme exemplificado na figura 24.
+
+6 - Plantas com a composição, identificação e designação de todas as fracções autónomas pela letra maiúscula respectiva, incluindo a existência de arrumos, terraços, logradouros e estacionamentos, e com a delimitação a cores, de cada fracção e das zonas comuns.
+
+7 - Nos casos de vistoria ao local - na hipótese de não se encontrar em arquivo projecto aprovado do imóvel - devem ser anexados plantas, alçados e cortes que evidenciem os pés direitos dos diferentes andares.
+
+8 - Número de exemplares: 2
+
+Norma 24 - Autorização de Obras de Demolição
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos.
+
+4 - Extractos das plantas de ordenamento e de condicionantes do plano de ordenamento do território, de maior pormenor e da planta de síntese do loteamento se existir, assinalando a área objecto da pretensão.
+
+5 - Planta de localização e enquadramento, à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da área objecto da operação, os elementos e valores naturais e construídos, servidões administrativas e restrições de utilidade pública.
+
+6 - Cópia da notificação da Câmara Municipal a comunicar a aprovação de um pedido de informação prévia, quando esta existir e estiver em vigor.
+
+7 - Pareceres, autorizações ou aprovações, legalmente exigidos, com menos de uma ano da data do requerimento da autorização (no âmbito do disposto no art.º 37.º do D.L. 177/01 de 04/06).
+
+8 - Memória descritiva e justificativa esclarecendo devidamente a pretensão, descrevendo sumariamente o estado de conservação do imóvel com junção de elementos fotográficos, indicando os prazos em que se propõe iniciar e concluir a obra, as técnicas de demolição a utilizar, as quais são acompanhadas de peças escritas e desenhadas justificativas das mesmas, bem como o local de depósito dos entulhos.
+
+9 - Descrição da utilização futura do terreno, com junção do projecto de arquitectura da nova edificação, se existir.
+
+10 - Ficha com os elementos estatísticos devidamente preenchida com os dados referentes à operação urbanística a realizar.
+
+11 - Número de exemplares: 2. No caso do prédio se localizar no Núcleo Histórico: 3. No caso do prédio se localizar em zona de servidão administrativa ou restrição de utilidade pública, deverá anexar-se mais uma cópia por cada entidade a consultar.
+
+Norma 25 - Licenciamento de Obras de Demolição
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos.
+
+4 - Extractos das plantas de ordenamento e de condicionantes do plano municipal de ordenamento do território de maior pormenor e da planta de síntese do loteamento se existir, assinalando a área objecto da pretensão.
+
+5 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da área objecto da operação, os elementos e valores naturais e construídos, servidões administrativas e restrições de utilidade pública.
+
+6 - Cópia da notificação da câmara municipal a comunicar a aprovação de um pedido de informação prévia, quando esta existir em vigor.
+
+7 - Memória descritiva esclarecendo devidamente a pretensão, descrevendo sumariamente o estado de conservação do imóvel com junção de elementos fotográficos, enunciando as razões demonstradoras da impossibilidade de recurso a outra solução, indicando os prazos em que se propõe iniciar e concluir a obra, as técnicas de demolição a utilizar, as quais são acompanhadas de peças escritas e desenhadas justificativas das mesmas, bem como o local de depósito dos entulhos.
+
+8 - Descrição da utilização futura do terreno, com junção do projecto de arquitectura da nova edificação, se existir.
+
+9 - Ficha com os elementos estatísticos devidamente preenchida com os dados referentes à operação urbanística a realizar.
+
+10 - Número de exemplares: 2. No caso do prédio se localizar no Núcleo Histórico: 3. No caso do prédio se localizar em zona de servidão administrativa ou de restrição de utilidade pública, deverá anexar se mais uma cópia por cada entidade a consultar.
+
+Norma 26 - Autorização de Utilização
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos.
+
+4 - Certificado de conformidade relativo ao regime jurídico sobre poluição sonora, quando aplicável.
+
+5 - Plano de emergência e organização de segurança, relativo ao risco de incêndio, no caso de edifícios, estabelecimentos e equipamentos de utilização pública.
+
+6 - Ficha com os elementos estatísticos devidamente preenchida com os dados referentes à operação urbanística a realizar.
+
+Acresce:
+
+a) Para pedidos de autorização de utilização em sequência de processos de edificação:
+
+7 - Indicação do número do processo de licenciamento ou autorização da edificação.
+
+8 - Termo de responsabilidade subscrito pelo técnico responsável pela direcção técnica da obra.
+
+9 - Telas finais, quando aplicável.
+
+10 - Livro de Obra.
+
+b) Para outros pedidos de autorização de utilização de edifícios ou suas fracções:
+
+11 - Cópia do alvará de licença ou autorização de utilização anterior, quando exista.
+
+12 - Dados que permitam localizar o processo de autorização ou licenciamento, arquivado na Câmara Municipal: ano de construção do edifício, titular do processo, números dos alvarás de licença ou autorização de construção, número do processo.
+
+No caso de não existir processo de licenciamento:
+
+Se o edifício se situar no perímetro urbano da Sertã, deve ser apresentado comprovativo em como foi construído antes de 7 de Agosto de 1951;
+
+Se o edifício se situar no exterior do perímetro urbano da Sertã, deve ser apresentado comprovativo em como foi construído antes de 16 de Junho de 1970.
+
+13 - Número de exemplares: 1.
+
+Norma 27 - Licenciamento ou Autorização de Alteração de Utilização
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo predial referente ao prédio ou prédios abrangidos.
+
+4 - Extractos das plantas de ordenamento e de condicionantes do plano municipal de ordenamento do território, de maior pormenor, assinalando a área objecto da pretensão.
+
+5 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da área objecto da operação.
+
+6 - Cópia da notificação da câmara municipal a comunicar a aprovação de um pedido de informação prévia, quando esta existir e estiver em vigor.
+
+7 - Cópia do alvará de licença ou autorização de utilização anterior, quando exista.
+
+8 - Dados que permitam localizar o processo de autorização ou licenciamento, arquivado na Câmara Municipal: ano de construção do edifício, titular do processo, números dos alvarás de licença ou autorização de utilização anterior, quando exista, número do processo.
+
+No caso de não existir processo de licenciamento:
+
+Se o edifício se situar no perímetro urbano da Sertã, deve ser apresentado comprovativo em como foi construído antes de 7 de Agosto de 1951;
+
+Se o edifício se situar no exterior do perímetro urbano da Sertã, deve ser apresentado comprovativo em como foi construído antes de 16 de Junho de 1970.
+
+9 - Memória descritiva indicando a área objecto do pedido e esclarecendo devidamente a pretensão; devem ser indicados os lugares de estacionamento público e privados existentes e a criar, número de funcionários e utilizadores da fracção ou edifício, horários de funcionamento e outros dados que permitam avaliar o impacto da alteração. Sempre que se trate de alteração para utilização mista, comercial, industrial, de serviços, ou qualquer uso colectivo, deve ser entregue o estudo de caracterização do ruído ambiental e a descrição das soluções adequadas e preconizadas relativamente ao cumprimento do disposto no Regulamento Geral sobre o Ruído.
+
+10 - Planta e corte do edifício ou da fracção com identificação dos compartimentos, acessos e respectivo prédio.
+
+11 - Termo de responsabilidade subscrito pelo técnico responsável pela direcção técnica da obra, quando aplicável, e termo de responsabilidade subscrito conforme o disposto no n.º. 2 do art.º 63.º do Decreto-lei n.º. 555/99, de 16 de Dezembro.
+
+12 - Telas finais, quando aplicável.
+
+13 - Livro de obra, quando tenham sido realizadas obras.
+
+14 - Certificado de conformidade relativo ao regime jurídico sobre poluição sonora, quando aplicável.
+
+15 - Plano de emergência e organização de segurança, relativo ao risco de incêndio, no caso de edifícios, estabelecimentos e equipamentos de utilização pública.
+
+16 - Ficha com os elementos estatísticos devidamente preenchida com os dados referentes à operação urbanística a realizar.
+
+17 - Número de exemplares: 1.
+
+Norma 28 - Autorização de Obras de Remodelação de Terrenos
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos.
+
+4 - Extracto da planta de síntese do loteamento, assinalando devidamente os limites da área objecto da pretensão.
+
+5 - Cópia da notificação da Câmara Municipal a comunicar a aprovação de um pedido de informação prévia, quando esta existir e estiver em vigor.
+
+6 - Pareceres, autorizações ou aprovações, legalmente exigidos, com menos de um ano da data do requerimento de autorização (no âmbito do disposto no art.º 37.º do D.L. 177/01 de 04/06).
+
+7 - Memória descritiva e justificativa esclarecendo devidamente a pretensão.
+
+8 - Projecto de execução dos trabalhos.
+
+9 - Projectos das especialidades necessários à execução dos trabalhos, com pareceres das entidades exteriores ao município.
+
+10 - Estimativa do custo total dos trabalhos.
+
+11 - Calendarização da execução dos trabalhos.
+
+12 - Termos de responsabilidade subscritos pelos autores dos projectos quanto ao cumprimento das normas legais e regulamentares aplicáveis.
+
+13 - Ficha com os elementos estatísticos devidamente preenchida com os dados referentes à operação urbanística a realizar.
+
+14 - Número de exemplares: 2.
+
+Norma 29 - Licenciamento de Obras de Remodelação de Terrenos
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos.
+
+4 - Extractos das plantas de ordenamento e de condicionantes do plano municipal de ordenamento do território existente de maior pormenor, assinalando a área objecto da pretensão.
+
+5 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da área objecto da operação.
+
+6 - Cópia da notificação da câmara municipal a comunicar a aprovação de um pedido de informação prévia, quando esta existir e estiver em vigor.
+
+7 - Memória descritiva e justificativa esclarecendo devidamente a pretensão.
+
+8 - Projecto de execução dos trabalhos.
+
+9 - Projectos das especialidades necessários à execução dos trabalhos, com pareceres das entidades exteriores ao município.
+
+10 - Estimativa do custo total dos trabalhos.
+
+11 - Calendarização da execução dos trabalhos.
+
+12 - Termos de responsabilidade subscritos pelos autores dos projectos quanto ao cumprimento das normas legais e regulamentares aplicáveis.
+
+13 - Fotografias, a cores, do local.
+
+14 - Ficha com os elementos estatísticos devidamente preenchida com os dados referentes à operação urbanística a realizar.
+
+15 - Número de exemplares: 2. No caso do prédio se localizar em zona de servidão administrativa ou de restrição de utilidade pública, deverá anexar-se mais uma cópia por cada entidade a consultar.
+
+Norma 30 - Autorização de Outras Operações Urbanísticas
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos.
+
+4 - Extractos das plantas de ordenamento e de condicionantes do plano municipal de ordenamento do território vigente, de maior pormenor e da planta síntese do loteamento, se existir, assinalando a área objecto da pretensão.
+
+5 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, com a indicação precisa do local onde se pretende executar a obra.
+
+6 - Cópia da notificação da Câmara Municipal a comunicar a aprovação de um pedido de informação prévia, quando esta existir e estiver em vigor.
+
+7 - Pareceres, autorizações ou aprovações, legalmente exigidos, com menos de um ano da data do requerimento de autorização (no âmbito do disposto no art.º 37.º do D.L. 177/01 de 04/06).
+
+8 - Memória descritiva e justificativa esclarecendo devidamente a pretensão.
+
+9 - Projecto da operação.
+
+10 - Estimativa do custo total da operação.
+
+11 - Calendarização da execução da operação.
+
+12 - Projectos das especialidades necessários à execução da operação, quando aplicável, com pareceres das entidades exteriores ao município.
+
+13 - Termos de responsabilidade subscritos pelo autores dos projectos quanto ao cumprimento das normas legais e regulamentares aplicáveis.
+
+14 - Número de exemplares: 2
+
+Norma 31 - Licenciamento ou Autorização da Construção de Muros
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos.
+
+4 - Extractos das plantas de ordenamento e de condicionantes do plano municipal de ordenamento do território, de maior pormenor e da planta síntese do loteamento, se existir, assinalando a área objecto da pretensão.
+
+5 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, com a indicação precisa do local onde se pretende executar a obra.
+
+6 - Memória descritiva e justificativa.
+
+7 - Planta de implantação, à escala 1:500 ou superior, com indicação das dimensões do terreno e localização do muro a construir.
+
+8 - Alçado do muro, à escala 1:100 ou superior, com indicação da sua integração com os muros e construções adjacentes, numa faixa com o mínimo de 10 metros, cores e materiais a utilizar.
+
+9 - Cortes, à escala 1:100 ou superior, com indicação das cotas do muro e dos terrenos adjacentes em todos os pontos relevantes.
+
+10 - Pormenores da construção, se necessário.
+
+11 - Estimativa do custo total da obra.
+
+12 - Calendarização da execução da obra.
+
+13 - Termo de responsabilidade, subscrito pelo autor do projecto quanto ao cumprimento das normas legais e regulamentares aplicáveis.
+
+14 - Projecto de estabilidade com respectivo termo de responsabilidade, se se tratar de muro de suporte.
+
+15 - Número de exemplares: 2. No caso do prédio se localizar em zona de servidão administrativa ou restrição de utilidade pública, deverá anexar-se mais uma cópia por cada entidade a consultar.
+
+Norma 32 - Demolição, Escavação e Contenção Periférica
+
+1 - Requerimento.
+
+2 - Cópia da notificação da Câmara Municipal a comunicar a aprovação do pedido de informação prévia ou do projecto de arquitectura.
+
+3 - Plano de demolições.
+
+4 - Projecto de estabilidade de e/ou projecto escavação e contenção periférica.
+
+5 - Indicação do local de depósito de entulhos ou terras, em vazadouro.
+
+6 - Termo de responsabilidade pela direcção técnica da obra.
+
+7 - Número de exemplares:1.
+
+Norma 33 - Projecto de Escavação e Contenção Periférica
+
+A. Memória Descritiva e Justificativa, contendo:
+
+1 - Descrição geral da obra;
+
+2 - Apresentação dos aspectos condicionantes da concepção das soluções;
+
+3 - Apresentação dos elementos justificativos considerados necessários para a compreensão do processo e metodologia adoptados;
+
+4 - Geologia e geotecnia:
+
+a) Descrição geológica dos terrenos abrangidos pela obra, com o pormenor que os trabalhos justificarem;
+
+b) Descrição das condições geotécnicas da zona:
+
+i. Relatório geológico-geotécnico, incluindo a prospecção específica para a realização da escavação e contenção periférica, no caso de obras das Categorias Geotécnicas 2 ou 3;
+
+ii. Análise, pelo projectista, das condições geotécnicas, se discordante ou complementar da análise realizada no relatório geológico-geotécnico;
+
+iii. Identificação dos parâmetros adoptados no projecto;
+
+c) Indicação da posição de explorações antigas ou em actividade de materiais de construção (areeiros, barreiros, pedreiras, etc.) no local ou na vizinhança;
+
+d) Referência à existência de depósitos, aterros ou escavações antigas ou em curso, na vizinhança;
+
+e) Referência às águas freáticas ou cativas e, se possível, ordem de grandeza de caudais; caso seja necessário, referência à necessidade de bombagens ou rebaixamentos e tipo de precauções a adoptar para segurança das estruturas e infra-estruturas vizinhas;
+
+f) Referência ao período do ano em que se prevê a realização dos trabalhos com indicação de eventuais cuidados suplementares a adoptar em condições atmosféricas adversas;
+
+g) Definição de eventuais trabalhos complementares do estudo geológico-geotécnico a efectuar antes do início ou durante a obra.
+
+5 - Elementos relativos à própria estrutura e estruturas e infra-estruturas contíguas ou vizinhas:
+
+a) Referência à área construída e logradouros, tipos de construção, estado geral de conservação, tipos de fundações (com os respectivos pormenores de projecto e de obra, se relevantes) e respectiva cota de apoio, ocupação, sobrecargas temporárias ou permanentes, número de pisos em elevação e de caves totais ou parciais;
+
+b) Justificação, descrição e faseamento geral da execução de eventuais obras de reforço de fundações, recalçamento, amarração ou melhoramento da superestrutura dos edifícios vizinhos;
+
+c) Referência às vias vizinhas da obra e respectivo tipo de tráfego. Referência e localização rigorosa de galerias, túneis e instalações de subsolo nas confrontações imediatas;
+
+d) Localização de infra-estruturas de abastecimento de água, esgotos, electricidade (baixa e alta tensão), telecomunicações, gás e outras.
+
+6 - Fases de trabalho e modos de execução.
+
+7 - Dimensionamento. Justificação das soluções adoptadas:
+
+a) Definição dos elementos estruturais de contenção, tendo em linha de conta a estrutura geral da obra a construir, incluindo o posicionamento de todos os elementos estruturais, nomeadamente os pilares periféricos, (com indicação da sua secção e armadura), as fundações e as lajes e vigas, devendo ser indicados os modos de ligação e os respectivos esforços;
+
+b) Definição das inclinações admitidas para os taludes, indicando as acções tidas em consideração e os coeficientes de segurança adoptados; será tida em consideração a natureza temporária ou permanente da obra;
+
+c) Dimensionamento de eventuais reforços de fundações, bem como das amarrações ou reforço das estruturas dos edifícios vizinhos;
+
+d) Dimensionamento (em relação aos estados limites últimos e de utilização) das paredes, escoras, ancoragens, pregagens e elementos verticais eventualmente usados na contenção, tendo em atenção o seu carácter temporário ou permanente, incluindo a justificação e a definição de:
+
+i. Diagramas de pressões que se exercem sobre a contenção tendo em conta o processo construtivo utilizado;
+
+ii. Esforços nas paredes de contenção;
+
+iii. Características das ancoragens (localização, tracção de serviço, comprimento livre e de selagem, período de vida útil, etc.);
+
+iv. Características das pregagens (localização, cargas, comprimento, diâmetro de furação, período de vida útil, etc.)
+
+v. Características das escoras e respectivos sistemas de apoio, de travamento e de aperto e de centragem das cargas (localização, cargas, etc.);
+
+vi. Características dos elementos verticais provisórios e definitivos;
+
+vii. Deslocamentos da estrutura de contenção e das estruturas localizadas nas proximidades da escavação (obrigatória sempre que se trate de obra da Categoria Geotécnica 3 ou 2 em que as estruturas adjacentes sejam particularmente sensíveis (monumentos, estruturas de alvenaria, outras estruturas incapazes de absorver deslocamentos significativos).
+
+e) Definição das dimensões e inclinações dos taludes laterais e frontais, caso no processo construtivo sejam utilizadas banquetas intercalares;
+
+f) Consideração do efeito da água, quer como acção, quer como factor condicionador da resposta mecânica dos terrenos em causa;
+
+g) Descrição e dimensionamento geral dos sistemas e dispositivos de filtragem e drenagem, quer na fase de escavação, quer na fase de utilização da obra;
+
+h) Dimensionamento às acções sísmicas, quer para obras de escavação e contenção periférica definitivas, quer para as provisórias, nas obras de Categorias Geotécnicas 2 e 3.
+
+8 - Ancoragens:
+
+a) Dimensionamento e métodos de execução (que devem atender ao exposto na EN 1537 "Execution of special geotechnical work - ground anchors". CEN/TC288 N115E. 1996);
+
+b) Definição dos ensaios prévios e de recepção de acordo com o especificado no Eurocódigo 7;
+
+c) Indicação do procedimento a respeitar na realização dos ensaios prévios e de recepção das ancoragens (devendo este preferencialmente corresponder a um dos procedimentos definidos na EN 1537 - Anexo E).
+
+B. Peças Desenhadas:
+
+1 - Planta de localização à escala a fornecer pela Câmara Municipal, com a indicação precisa do local onde se pretende executar a obra.
+
+2 - Levantamento topográfico actualizado, á escala 1:100 ou 1:200, evidenciando pontos notáveis e as confrontações e edifícios existentes.
+
+3 - Elementos de arquitectura necessários à apresentação isolada do projecto, planta ao nível do subsolo, cortes alçados com indicação do declive dos arruamentos.
+
+4 - Plantas de localização dos trabalhos de prospecção e cortes geológico-geotécnicos interpretativos.
+
+5 - Planta com soluções de escavação, de contenção ou de fundações, indicando cotas, inclinações de taludes, banquetas, etc.
+
+6 - Cortes transversais, longitudinais e alçados contendo os elementos necessários à compreensão da solução preconizada e referência às estruturas vizinhas, em particular no subsolo.
+
+7 - Plantas, alçados e cortes, com indicação dos elementos de contenção nas escalas mais adequadas.
+
+Nomeadamente no caso de paredes ancoradas ou escoradas devem constar:
+
+a) Planta indicando o posicionamento das ancoragens, escoras e perfis verticais e faseamento da execução (1:200 ou 1:100);
+
+b) Alçados das paredes de contenção, níveis de escavação, ancoragens ou escoramentos e perfis verticais (1:200 ou 1:100);
+
+c) Cortes, com indicação das formações geológicas, secções das paredes de contenção, armaduras, características das ancoragens, escoras e pregagens, (1:20, 1:25 ou 1:50) (capacidade de carga, inclinações e comprimento livre e de selagem previsto);
+
+d) Desenhos de pormenor do betão armado incluindo as zonas da cabeça das ancoragens ou apoio das escoras (1:10 ou 1:20);
+
+e) Definições de eventuais dispositivos de drenagem.
+
+8 - Planta de localização e definição dos dispositivos de observação a instalar.
+
+Norma 34 - Destaque
+
+A. Existindo edifício na parcela a destacar:
+
+1 - Requerimento.
+
+2 - Certidão da descrição e de todas as inscrições em vigor, emitida pela Conservatória do Registo Predial, referente ao prédio objecto do destaque.
+
+3 - Autorização escrita dos co-proprietários ou proprietários do prédio, quando este não seja o requerente, devidamente autenticada.
+
+4 - Extractos das plantas de ordenamento e de condicionantes do plano municipal de ordenamento do território, de maior pormenor, com a delimitação da área total do prédio.
+
+5 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites do prédio e da parcela a destacar.
+
+6 - Planta do destaque - elaborada à escala 1:200, 1:500 ou 1:1000, sobre levantamento topográfico, definindo:
+
+a) Os limites e a orientação do prédio alvo da operação de destaque;
+
+b) As confrontações do terreno pela forma como estejam indicadas no título de propriedade;
+
+c) A delimitação da parcela a destacar;
+
+d) A indicação da área total do prédio e da parcela a destacar e elementos que caracterizam a construção existente, caso não exista projecto na Câmara Municipal;
+
+e) As confrontações da parcela após a efectivação do destaque;
+
+f) Os arruamentos, estradas ou caminhos públicos que confrontam com o prédio.
+
+7 - Número de exemplares: 1
+
+B. Não existindo edifício na parcela a destacar:
+
+1 - Projecto de licenciamento do edifício a construir na parcela que se pretende destacar.
+
+2 - Planta do destaque, conforme número 6 do caso A.
+
+Norma 35 - Comunicação Prévia
+
+Requerimento.
+
+A) Obras de escassa relevância urbanística:
+
+1 - Extractos das plantas de ordenamento e de condicionantes do plano municipal de ordenamento do território, de maior pormenor e da planta síntese do loteamento, se existir, assinalando a área objecto da pretensão.
+
+2 - Extracto das cartas da REN, RAN e condicionantes, do Plano Municipal de Ordenamento do Território em vigor.
+
+3 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, com a indicação precisa do local onde se pretende executar a obra.
+
+4 - Peças escritas e desenhadas indispensáveis à identificação dos trabalhos a realizar.
+
+5 - Fotografias a cores do local.
+
+6 - Termo de responsabilidade subscrito pelo autor do projecto quanto ao cumprimento das normas legais e regulamentares aplicáveis.
+
+B) Obras de alteração no interior de edifícios não classificados ou suas fracções que não impliquem modificações da estrutura resistente dos edifícios, das cérceas, das fachadas e da forma dos telhados.
+
+1 - Extracto da planta de ordenamento e de condicionantes do plano municipal de ordenamento do território de maior pormenor e da planta síntese do loteamento, se existir, assinalando a área objecto da pretensão.
+
+2 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, com a indicação precisa do local onde se pretende executar a obra.
+
+3 - Memória descritiva e justificativa onde deverá constar a justificação das alterações pretendidas, bem como a sua funcionalidade, articulação, aproveitamento interior e utilização.
+
+4 - Plantas e cortes à escala 1:100 ou superior, dos vários pisos da edificação sujeitos a alteração, nos quais se indiquem a amarelo as demolições e a vermelho as construções.
+
+5 - Telas finais dos mesmos pisos.
+
+6 - Termo de responsabilidade subscrito pelo autor do projecto quanto ao cumprimento das normas legais e regulamentares aplicáveis.
+
+C) Em qualquer dos casos:
+
+Caso se pretenda ocupar o espaço público:
+
+1 - Planta cotada, com delimitação correcta da área do domínio público que se pretende ocupar, assinalando os tapumes, sinalização vertical, candeeiros de iluminação pública, bocas de rega ou marcos de incêndio, sarjetas, caixas de visita, árvores e quaisquer outras instalações fixas de utilidade pública.
+
+2 - Implantação dos equipamentos, nomeadamente betoneiras e gruas, com a respectiva área de influência.
+
+3 - Local para depósito de materiais de construção.
+
+Número de exemplares: 1.
+
+Nota: Todas as peças escritas e desenhadas serão rubricadas pelo técnico autor do projecto.
+
+Norma 36 - Redução Parcial do Valor da Caução
+
+1 - Requerimento.
+
+2 - Declaração do técnico responsável pela direcção técnica das obras de urbanização, atestando que as obras já realizadas e incluídas no auto de medição, obedeceram aos projectos aprovados e eventuais alterações aprovadas pela Câmara Municipal.
+
+3 - Auto de medição dos trabalhos executados, e respectivos custos, com base no orçamento aprovado pela Câmara Municipal, dos trabalhos de arruamentos e espaços exteriores realizado pelo técnico responsável pela direcção técnica das obras de urbanização.
+
+4 - Informação da EDP, Portugal Telecom e outras entidades com jurisdição sobre o estado de realização dos trabalhos respectivos e valor das obras em falta.
+
+5 - Número de exemplares: 1.
+
+Norma 37 - Recepção Provisória e Definitiva das Obras de Urbanização
+
+1 - Requerimento.
+
+2 - Declaração do técnico responsável pela direcção técnica das obras de urbanização, atestando que as obras realizadas obedeceram aos projectos aprovados e eventuais alterações aprovadas pela Câmara Municipal.
+
+3 - Livro de obra, devidamente encerrado pelo técnico responsável pela direcção técnica das obras e pelo dono da obra (no caso da recepção provisória).
+
+4 - Declaração das entidades concessionárias de serviço público (EDP; PORTUGAL TELECOM, etc), em com as respectivas infra-estruturas foram recepcionadas provisoriamente.
+
+5 - Declaração da empresa instaladora de gás, declarando a conformidade da obra executada com o projecto aprovado e as normas e regulamentação técnica aplicável (quando aplicável).
+
+6 - Número de exemplares: 1.
+
+Nota: No caso da RECEPÇÃO DEFINITIVA o requerimento é instruído com as declarações das entidades concessionárias de serviço público, em com as infra-estruturas foram recepcionadas definitivamente (quando aplicável).
+
+Norma 38 - Licenciamento de Ocupação de Via Pública
+
+1 - Requerimento.
+
+2 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da área objecto da operação.
+
+3 - Planta cotada, com delimitação correcta da área do domínio público que se pretende ocupar, assinalando os tapumes, sinalização vertical, colunas de iluminação pública, bocas de rega ou marcos de incêndio, sarjetas, caixas de visita, árvores e quaisquer outras instalações fixas de utilidade pública.
+
+4 - Planta de Implantação dos equipamentos, nomeadamente betoneiras e gruas, com a respectiva área de influência.
+
+5 - Indicação do local para depósito de materiais de construção.
+
+6 - Quando o plano de ocupação for entregue no âmbito de um processo de licenciamento ou autorização, devem os dados referentes ao prazo de ocupação da via pública constar no requerimento e memória descritiva.
+
+7 - Número de exemplares: 2
+
+Nota: O prazo previsto para a ocupação da via pública, a indicar no requerimento, não poderá exceder o prazo previsto para a execução da respectiva obra.
+
+Norma 39 - Autorização de Instalação de Infra-estruturas de Suporte das Estações de Tele e Radiocomunicações
+
+1 - Requerimento.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos.
+
+4 - Copia do documento de que conste a autorização expressa do proprietário ou condóminos do/s prédio/s para a instalação das infra-estruturas de suporte das estações de radiocomunicações e respectivos acessórios.
+
+5 - Extractos das plantas de ordenamento e de condicionantes do plano municipal de ordenamento do território, de maior pormenor e da planta síntese do loteamento, se existir, assinalando a área objecto da pretensão.
+
+6 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, com a indicação precisa do local onde se pretende instalar a infra-estrutura.
+
+7 - Identificação do título emitido pelo ICP-ANACOM, quando existente, nos termos do DL 151-A/2000, de 20/07.
+
+8 - Memória descritiva da instalação (com indicação dos critérios adoptados, condicionantes, materiais empregues, métodos construtivos e de fixação).
+
+9 - Projecto da antena (plantas e alçados) e estrutura metálica ou de betão que suporta a antena. Deve incluir a localização, tipo e orientação de antenas existentes num raio de 100metros.
+
+10 - Estudo justificativo da estabilidade das edificações sob o ponto de vista estrutural e da fixação das infra-estruturas.
+
+11 - Fotografias actualizadas do imóvel ou prédio, mínimo de duas com formato mínimo de 13cmX15cm, tiradas de ângulos opostos.
+
+12 - Termo de responsabilidade subscrito pelos técnicos responsáveis pela instalação, quer a nível civil, quer a nível das instalações eléctricas.
+
+13 - Declaração emitida pelo operador que garanta a conformidade da instalação em causa com os níveis de referência de radiação aplicáveis, de acordo com o normativos nacionais ou internacionais em vigor.
+
+14 - Parecer do IPC-ANACOM sobre o projecto de instalação da infra-estrutura, nomeadamente no que se refere aos níveis de radiações resultantes, considerando as antenas já instaladas num raio de 100 metros.
+
+15 - Número de exemplares: 2.
+
+Norma 40 - Renovação do Licenciamento ou Autorização de Obras em Edifícios (Art. 72.º RJUE)
+
+1 - Requerimento, indicando as peças escritas e desenhadas do processo inicial, a utilizar.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade da realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos.
+
+4 - Estimativa do custo total da obra em falta.
+
+5 - Calendarização da execução da obra em falta.
+
+6 - Projectos das especialidades em falta no processo inicial, de acordo com a legislação aplicável, e respectivos termos de responsabilidade.
+
+7 - Número de exemplares: 2.
+
+Norma 41 - Renovação do Licenciamento ou Autorização das Operações de Loteamento (Art. 72.º RJUE)
+
+1 - Requerimento, indicando as peças escritas e desenhadas do processo inicial, a utilizar.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos. (Original ou autenticada).
+
+4 - Pareceres, autorizações ou aprovações, legalmente exigidos, com menos de um ano da data do requerimento de renovação do licenciamento ou autorização (no âmbito do disposto no art.º 37.º do D.L. 177/01 de 04/06).
+
+5 - Se justificável, extracto do mapa de ruído ou, na sua ausência, recolha de dados acústicos; avaliação acústica e soluções adequadas e preconizadas para minimização dos impactes acústicos negativos.
+
+6 - Número de exemplares: 2.
+
+Norma 42 - Renovação do Licenciamento ou Autorização de Obras de Urbanização ou Trabalhos de Remodelação de Terrenos (Art 72.º RJUE)
+
+1 - Requerimento, indicando as peças escritas e desenhadas do processo inicial, a utilizar.
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade de realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente as prédio ou prédios abrangidos.
+
+4 - Projectos das diferentes especialidades que integram a obra, em falta no processo inicial e de acordo com a legislação aplicável (das infra-estruturas viárias, de sinalização viária, redes de abastecimento de águas, incluindo o abastecimento aos sistemas de rega, de esgotos e drenagem, de gás, de infra-estruturas eléctricas (redes de baixa, média e alta tensão e iluminação pública), de telecomunicações, de intervenção paisagística, de minimização dos impactes acústicos, devendo cada projecto conter memória descritiva e justificativa, bem como os cálculos, se for caso disso, e as peças desenhadas, em escala tecnicamente adequada, com os respectivos termos de responsabilidade dos técnicos autores dos projectos).
+
+5 - Estimativa do custo das obras, por especialidades e global, baseado em quantidades e qualidade dos trabalhos necessários à conclusão da obra, devendo neles ser adoptada as normas portuguesas em vigor ou as especificações do Laboratório Nacional de Engenharia Civil.
+
+6 - Condições técnicas gerais e especiais do caderno de encargos, incluindo prazos para o inicio e para o termo da execução dos trabalhos em falta.
+
+7 - Declaração conjunta nos termos do disposto no D.L. 292/95 de 14/11, dos técnicos que integram a equipa técnica, com identificação do coordenador técnico do projecto.
+
+8 - Contrato de urbanização, caso o requerente entenda proceder à sua apresentação ou alteração.
+
+9 - Número de exemplares: 2.
+
+Norma 43 - Licença Especial para Conclusão de Obras Inacabadas (Art. 88.º RJUE)
+
+1 - Requerimento, descrevendo o estado das obras. (ver nota *)
+
+2 - Documentos comprovativos da qualidade de titular de qualquer direito que confira a faculdade da realização da operação.
+
+3 - Certidão da descrição e de todas as inscrições em vigor emitida pela Conservatória do Registo Predial referente ao prédio ou prédios abrangidos.
+
+4 - Estimativa do custo total da obra em falta.
+
+5 - Calendarização da execução da obra em falta.
+
+6 - Número de exemplares: 1.
+
+(nota *) Conforme legislação, as obras devem estar em estado avançado de execução, o que se considera para este efeito, estar em falta a execução de:
+
+a) Pinturas e limpezas no interior dos edifícios, acabamentos exteriores, arranjos dos logradouros, de espaços públicos adjacentes ao edifício ou lote;
+
+b) Recolha dos materiais resultantes de demolições e limpeza da área;
+
+c) Acabamentos e limpezas nas áreas de domínio público resultantes de loteamentos, obras de urbanização ou de remodelação de terrenos.
+
+Norma 44 - Licenciamento de Execução de Obras na Via Pública
+
+1 - Requerimento.
+
+2 - Planta de localização e enquadramento à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites da área objecto da operação.
+
+3 - Planta cotada, com delimitação correcta da área do domínio público em que se pretende intervir assinalando a sinalização vertical existente, colunas de iluminação pública, bocas de rega ou marcos de incêndio, sarjetas, caixas de visita, árvores e quaisquer outras instalações fixas de utilidade pública.
+
+4 - Memória descritiva e justificativa da execução dos trabalhos, da qual constem os tipos de pavimentos a levantar, as respectivas extensões, a largura das valas e a profundidade da instalação do equipamento.
+
+5 - Calendarização dos trabalhos, indicando a data prevista para início dos trabalhos e o prazo para a sua execução, e, no caso de ser imprescindível a interrupção total do trânsito numa via, a indicação expressa do horário e datas em que tal ocorrerá.
+
+6 - Planta(s) de sinalização provisória a implementar durante a execução dos trabalhos, acompanhada das respectivas notas explicativas e indicação dos previstos prazos parciais
+
+7 - Projecto (plantas e cortes) da obra a executar, quando a dimensão ou complexidade da obra o justificar.
+
+8 - Número de exemplares: 4.
+
+Norma 45 - Pedido de parecer sobre constituição de compropriedade ou ampliação de número de compartes de prédios rústicos (Artigo 54.º da Lei 64/2003 de 23/08)
+
+1 - Requerimento contendo:
+
+a) Identificação dos potenciais compartes;
+
+b) Identificação do prédio objecto do negócio jurídico;
+
+c) Indicação da percentagem respectiva na constituição da compropriedade;
+
+d) Enquadramento do pedido na legislação vigente aplicável (números 1 e 2 do artigo 54.º da Lei 91/95, de 2 de Setembro, com a redacção que lhe foi dada pela Lei 165/99, de 14 de Setembro, alterada e republicada pela Lei 64/2003, de 23 de Agosto).
+
+2 - Certidão emitida pela Conservatória do Registo Predial.
+
+3 - Extracto da planta de ordenamento e da planta de condicionantes do plano municipal de ordenamento do território vigente, de maior pormenor, assinalando a área objecto da operação.
+
+4 - Planta de localização, à escala a fornecer pela Câmara Municipal, assinalando devidamente os limites do prédio.
+
+## ANEXO II — Execução de obras no espaço público
+
+Condições técnicas
+
+A execução da obra deve obedecer às condições técnicas a seguir indicadas:
+
+1 - A reposição dos pavimentos e reparação de outras infra-estruturas públicas municipais afectadas é realizada no prazo máximo de 24 horas após a conclusão dos trabalhos, salvo se outro prazo tiver sido estabelecido no alvará de licenciamento.
+
+2 - Os aterros das valas devem ser executados da seguinte forma:
+
+a) Preenchimento da vala com areia, fortemente regada, vibrada e, ou, compactada;
+
+b) Aplicação de tout-venant em duas camadas 0,15m de espessura cada, devidamente compactadas.
+
+3 - A reposição dos pavimentos é realizada com materiais e características de assentamento iguais aos existentes, salvo outras indicações da Câmara Municipal.
+
+4 - A reposição de pavimentos betuminosos deve ser executada da seguinte forma:
+
+a) Em semi-penetração betuminosa:
+
+i) Aplicação de semi-penetração betuminosa com 0,08m de espessura de brita e asfalto 180/200 à taxa de 4,0Kg/m2de betume, seguida de revestimento superficial betuminoso simples e asfalto 180/200 à taxa de 1,5Kg/m2 de betume; ou
+
+ii) Aplicação dos materiais previstos no ponto seguinte.
+
+b) Em betão betuminoso:
+
+i) Rega de impregnação com emulsão à taxa de 1,5Kg/m2;
+
+ii) Aplicação de mistura betuminosa densa ("binder") com 0,06m de espessura;
+
+iii) Aplicação de camada de desgaste com tapete betuminoso a quente (isenta de inertes de calcário) com 0,05 m de espessura, após rega de colagem com emulsão catiónica rápida à taxa de 0,5 Kg/m2;
+
+(1) A camada de desgaste será aplicada na caixa aberta nas seguintes condições:
+
+(a) Nas faixas de rodagem e em passeios, no caso de cortes transversais, a uma distância não inferior a 0,10m de ambos os bordos da vala é efectuado o corte ou fresagem do pavimento existente contíguo à vala, a uma profundidade de 0,05 m, definindo linhas rectas e paralelas;
+
+(b) No caso de cortes longitudinais em faixas de rodagem, é utilizado o procedimento descrito na alínea anterior, em toda a extensão da vala, e desenvolvendo linhas paralelas e à semelhança do traçado da via;
+
+(c) Em passeios até 1,5 m de largura, em cortes longitudinais, a reposição é em toda a sua largura; e em passeios de largura superior, na metade do passeio onde foi aberta a vala;
+
+(2) Depois de concluída a intervenção, desde que a vala seja pavimentada provisoriamente com algum tipo de material betuminoso ao nível da razante da via, o procedimento referido em ca) pode ser realizado até três meses depois do fim do tapamento da vala ou logo que se verifique falta de solidez do material de reposição ou de segurança da circulação;
+
+(a) O procedimento mencionado em cb) obriga a comunicação à Câmara Municipal logo após a execução do pavimento provisório, e obriga igualmente a comunicação, com a antecedência de 6 dias úteis, da data de início dos trabalhos a executar nos termos de ca), bem como da sua duração;
+
+(b) Para efeitos do n.º 1 do artigo 68.º, a intervenção na via pública só é considerada concluída após o fim das obras executadas nos termos de cb).
+
+5 - No caso de calçada ou calçadinha, o material de assentamento deve possuir um traço de cimento não inferior a 1:4.
+
+6 - Quando o volume de entulhos, materiais de construção e resíduos depositados no espaço público municipal o justifique, a Câmara Municipal pode exigir a colocação de contentores especiais.
+
+7 - Imediatamente após a conclusão dos trabalhos deve ser feita a limpeza do local, removendo e transportando para locais adequados todos os materiais sobrantes.

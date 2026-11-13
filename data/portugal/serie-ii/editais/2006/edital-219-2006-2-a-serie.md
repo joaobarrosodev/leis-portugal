@@ -1,0 +1,360 @@
+---
+schema_version: '1.0'
+id: pt:dre:2115942:por
+title: Edital n.º 219/2006 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Instituto Politécnico da Saúde de Lisboa - Escolas Superiores de Enfermagem de Artur Ravara, de Calouste Gulbenkian de Lisboa,
+  de Francisco Gentil e de Maria Fernanda Resende
+proposing_entity: null
+official_number: 219/2006 (2.ª série)
+official_date: null
+publication_date: '2006-05-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 87/2006, Série II de 2006-05-05
+  number: '87'
+  series: II
+  supplement: null
+  pages: 6633 - 6637
+  pdf_url: https://files.diariodarepublica.pt/2s/2006/05/087000000/0663306637.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2115942'
+  dre_path: /dr/detalhe/edital/219-2006-2115942
+  internal: pt:dre:2115942:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/219-2006-2115942
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/219-2006-2115942
+  consolidated_url: null
+  retrieved_at: '2026-11-12T21:25:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 844b162e994ee7f94bebac2995ef354f054b006465350f64f5ae4674b51a6717
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T21:25:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:265299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T21:25:45Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 219/2006 (2.ª série)
+
+Edital n.º 219/2006 (2.ª série). - Nos termos do disposto no artigo 11.º do [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195), de 3 de Setembro, e em conformidade com o Regulamento Geral dos Cursos de Pós-Licenciatura de Especialização em Enfermagem, segundo a [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março (e demais disposições aplicáveis), faz-se público que está aberto concurso para a candidatura à matrícula e inscrição no curso de pós-licenciatura de especialização em Enfermagem de Reabilitação das quatro escolas superiores de enfermagem públicas de Lisboa (Escola Superior de Enfermagem de Artur Ravara, Escola Superior de Enfermagem de Calouste Gulbenkian de Lisboa, Escola Superior de Enfermagem de Francisco Gentil e Escola Superior de Enfermagem de Maria Fernanda Resende), aprovado pela [Portaria n.º 296/2005](https://diariodarepublica.pt/dr/detalhe/portaria/296-2005-579101), de 22 de Março, segundo procedimentos e prazos constantes no anexo II, a ministrar na Escola Superior de Enfermagem de Calouste Gulbenkian de Lisboa, com início no ano lectivo 2006-2007.
+
+1 - Candidaturas:
+
+1.1 - As candidaturas deverão ser formalizadas em requerimento dirigido à presidente do conselho directivo da Escola Superior de Enfermagem de Calouste Gulbenkian de Lisboa, segundo o modelo publicado no anexo I do presente edital.
+
+1.2 - As candidaturas deverão ser entregues na Secção de Apoio ao Ensino desta Escola, Avenida do Professor Egas Moniz, 1600-190 Lisboa, de 2 a 15 de Maio de 2006, ou enviadas pelo correio sob registo com aviso de recepção, desde que o carimbo do correio seja de 15 de Maio de 2006 ou anterior.
+
+1.3 - A candidatura está sujeita a emolumentos, nos termos do n.º 5.5 do aviso n.º 9168/2003 (2.ª série) (tabela de emolumentos em vigor nesta Escola), no montante de Euro 50.
+
+1.4 - A apresentação de candidaturas com penalização (fora de prazo) será acrescida de multa (n.º 12.1 da tabela de emolumentos), no valor de Euro 10 por dia, até no máximo cinco dias úteis, sendo 22 de Maio de 2006 a data limite.
+
+1.5 - A candidatura é válida apenas para o ano lectivo 2006-2007.
+
+2 - Condições de acesso:
+
+2.1 - De acordo com o artigo 11.º do [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195), de 3 de Setembro, e do artigo 12.º da [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março, pode concorrer o candidato que satisfaça cumulativamente as seguintes condições:
+
+a) Ser titular do grau de licenciado em Enfermagem ou equivalente legal;
+
+b) Ser detentor do título profissional de enfermeiro;
+
+c) Ter, pelo menos, dois anos de experiência profissional como enfermeiro.
+
+3 - Documentos:
+
+3.1 - O requerimento de candidatura (anexo I) deverá ser, obrigatoriamente, acompanhado, sob pena de rejeição liminar, dos seguintes documentos, na presença dos originais:
+
+a) Fotocópia do bilhete de identidade;
+
+b) Fotocópia do cartão de contribuinte fiscal;
+
+c) Fotocópia da cédula profissional ou declaração comprovativa da inscrição na Ordem dos Enfermeiros, válida;
+
+d) Certidão comprovativa da titularidade do grau de licenciado em Enfermagem indicando a respectiva classificação final ou do seu equivalente legal. Os candidatos que tenham obtido o grau de licenciado por equivalência concedida ao abrigo do n.º 1 ou do n.º 2 do artigo 10.º do [Decreto-Lei n.º 480/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1988-361157), de 23 de Dezembro, alterado pelo [Decreto-Lei n.º 100/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1990-333290), de 20 de Março, deverão apresentar documentos comprovativos:
+
+i) Da classificação obtida no curso de Enfermagem Geral ou equivalente legal;
+
+ii) Da classificação dos cursos de que sejam titulares, dentre aqueles a que se referem as alíneas a), b) e c) do n.º 1 do artigo 10.º do [Decreto-Lei n.º 480/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1988-361157), de 23 de Dezembro;
+
+e) Certidão comprovativa do tempo de serviço e experiência profissional como enfermeiro, discriminando a categoria profissional e o tempo de exercício na mesma;
+
+f) Currículo académico e profissional segundo o modelo do anexo IV do presente edital;
+
+g) Documentos comprovativos das declarações constantes no currículo académico e profissional relativas a:
+
+Formação académica e profissional;
+
+Formação contínua relevante para a área do curso a que se candidata (acções ou cursos de formação profissional);
+
+Publicações e comunicações de cariz científico no âmbito dos cuidados de enfermagem;
+
+Projectos e programas no âmbito dos cuidados de enfermagem;
+
+Tempo de exercício profissional;
+
+Experiências relevantes no exercício profissional.
+
+3.2 - Os candidatos poderão juntar ao currículo académico e profissional outros documentos que entendam relevantes para apreciação do mesmo.
+
+4 - Procedimentos e prazos v. anexo II.
+
+5 - Rejeição liminar:
+
+5.1 - Caso o requerimento não se encontre adequadamente instruído, o candidato é notificado das lacunas e tem sete dias consecutivos para as suprir.
+
+5.2 - Serão rejeitadas liminarmente as candidaturas que não satisfaçam a condição expressa no n.º 2 ou a não apresentação dos documentos referidos no n.º 3.
+
+5.3 - Dos candidatos rejeitados liminarmente será organizada lista onde constam os fundamentos da rejeição, que será tornada pública e afixada na Escola até 31 de Maio de 2006.
+
+6 - Vagas:
+
+6.1 - O número total de vagas é 40.
+
+6.2 - Em conformidade com o artigo 14.º da [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março, são criados os seguintes contingentes:
+
+6.2.1 - 50% das vagas (20) serão afectos ao contingente geral;
+
+6.2.2 - 25% das vagas (10) serão afectos prioritariamente a enfermeiros provenientes de organizações de saúde que tenham protocolos de formação com as quatro escolas superiores de enfermagem públicas de Lisboa, no máximo de uma vaga por instituição, sendo os candidatos ordenados por ordem decrescente de classificação (v. lista de instituições - anexo V);
+
+6.2.3 - 25% das vagas (10) serão afectos prioritariamente a enfermeiros que desenvolvam a sua actividade profissional principal e com carácter de permanência em organizações de saúde sediadas na área de influência dos quatro estabelecimentos de ensino, sendo os candidatos ordenados por ordem decrescente de classificação.
+
+7 - Seriação e selecção:
+
+7.1 - A seriação e selecção dos candidatos terá por base a grelha com as regras e critérios de selecção dos candidatos (anexo III).
+
+7.2 - A seriação e selecção será realizada por análise do currículo académico e profissional (anexo IV), tendo sido nomeado pelos conselhos directivos, sob proposta do conselhos científicos, um júri com essa competência.
+
+7.3 - Serão seleccionados, em primeiro lugar, os 20 candidatos com melhor classificação pertencentes ao contingente geral; seguidamente, serão seleccionados os 10 candidatos mais bem classificados que pertencem a organizações de saúde que tenham protocolos de formação com as quatro escolas superiores de enfermagem públicas de Lisboa, no máximo de uma vaga por instituição, e, por fim, serão seleccionados os 10 candidatos mais bem classificados que desenvolvam a sua actividade profissional principal e com carácter de permanência em organizações de saúde sediadas na área de influência dos quatro estabelecimentos de ensino.
+
+8 - Reclamações:
+
+8.1 - Do resultado da selecção, divulgado em 7 de Julho de 2006, poderão os candidatos apresentar reclamação, devidamente fundamentada, no prazo fixado, de 10 a 14 de Julho de 2006 (anexo II), dirigido à presidente do júri de selecção e seriação de candidatos, com possibilidade de recurso hierárquico para a presidente do conselho directivo da Escola Superior de Enfermagem de Calouste Gulbenkian de Lisboa.
+
+8.2 - As decisões sobre as reclamações são homologadas pelo conselho directivo. Não há lugar a audiência de interessados nos termos do disposto na alínea c) do n.º 1 do artigo 103.º do Código do Procedimento Administrativo.
+
+8.3 - Serão liminarmente indeferidas as reclamações não fundamentadas ou as que forem apresentadas fora de prazo.
+
+8.4 - Quando, na sequência da aceitação de uma reclamação, um candidato venha a ficar situado na lista ordenada em posição de colocado, tem direito a colocação, mesmo que para tal seja necessário criar vaga adicional.
+
+8.5 - A rectificação da colocação abrange apenas o candidato cuja reclamação foi provida, não tendo qualquer efeito sobre os restantes candidatos, colocados ou não.
+
+8.6 - A publicação da lista definitiva dos candidatos admitidos será divulgada em 28 de Julho de 2006 (anexo II).
+
+8.7 - Os documentos apresentados pelos candidatos não admitidos serão eliminados caso não sejam solicitados até 90 dias após o início do curso.
+
+9 - Matrícula, inscrições e propinas:
+
+9.1 - Os candidatos admitidos deverão proceder à matrícula e inscrição no período de 4 a 12 de Setembro de 2006.
+
+9.2 - Caso algum candidato admitido desista expressamente da matrícula e inscrição ou não compareça a realizar as mesmas, a Secção de Apoio ao Ensino, no dia útil imediato ao do fim do prazo das matrículas e inscrições, através de carta registada com aviso de recepção, convocará para a matrícula e inscrição o candidato seguinte na lista ordenada, até esgotar as vagas ou os candidatos.
+
+9.3 - Os candidatos convocados terão o prazo improrrogável de três dias úteis após a recepção da notificação para procederem à sua matrícula e inscrição.
+
+9.4 - Emolumentos a pagar:
+
+9.4.1 - Matrícula (inclui o seguro escolar) - Euro 100;
+
+9.4.2 - Propina anual - Euro 2500 (que poderá ser divida em 10 prestações mensais de Euro 250).
+
+10 - Horário de funcionamento:
+
+10.1 - O curso terá início em 27 de Setembro de 2006 e funcionará com a carga horária média de vinte e cinco horas semanais, com sessões lectivas e trabalho autónomo do estudante três dias por semana.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/05/087000000/0663306637.pdf)
+
+10.2 - Os períodos de ensino clínico decorrerão no 2.º semestre do curso e, de acordo com as instituições/serviços onde os mesmos forem realizados, funcionarão com uma carga horária mínima de vinte e cinco horas e máxima de trinta e cinco horas semanais.
+
+6 de Abril de 2006. - Pela Presidente do Conselho Directivo da Escola Superior de Enfermagem de Artur Ravara, a Vice-Presidente, (Assinatura ilegível.) - A Presidente do Conselho Directivo da Escola Superior de Enfermagem de Calouste Gulbenkian de Lisboa, (Assinatura ilegível.) - A Presidente do Conselho Directivo da Escola Superior de Enfermagem de Francisco Gentil, (Assinatura ilegível.) - A Presidente do Conselho Directivo da Escola Superior de Enfermagem de Maria Fernanda Resende, (Assinatura ilegível.)
+
+## ANEXO I — Requerimento de candidatura ao curso de pós-licenciatura de especialização em Enfermagem de Reabilitação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/05/087000000/0663306637.pdf)
+
+## ANEXO II
+
+De acordo com o artigo 17.º da [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março, os prazos de candidatura, afixação dos resultados da seriação e selecção, reclamações e matrícula e inscrição relativamente ao curso de pós-licenciatura de especialização em Enfermagem de Reabilitação a iniciar nesta Escola no ano lectivo 2006-2007 são os que constam do quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/05/087000000/0663306637.pdf)
+
+## ANEXO III — Regras e critérios de selecção dos candidatos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/05/087000000/0663306637.pdf)
+
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/2s/2006/05/087000000/0663306637.pdf)
+
+## ANEXO V — Entidades com as quais as quatro escolas superiores de enfermagem públicas de Lisboa têm protocolos de formação
+
+Entidades hospitalares
+
+Casa de Saúde do Telhal.
+
+Centro de Medicina de Reabilitação de Alcoitão, Santa Casa da Misericórdia de Lisboa.
+
+Centro de Saúde Mental de Lisboa-Oeiras.
+
+Centro Hospitalar de Lisboa - Zona Central (Hospital dos Capuchos, Hospital do Desterro e Hospital de São José).
+
+Centro Hospitalar de Lisboa - Zona Ocidental, E. P. E. (Hospital de Egas Moniz, Hospital de Santa Cruz e Hospital de São Francisco Xavier).
+
+Clínica de São José.
+
+Hospital da Cruz Vermelha Portuguesa.
+
+Hospital de Curry Cabral.
+
+Hospital das Descobertas.
+
+Hospital de Nossa Senhora do Rosário (Barreiro).
+
+Hospital de São Bernardo (Setúbal).
+
+Hospital do SAMS.
+
+Hospital de D. Estefânia.
+
+Hospital de Fernando da Fonseca (Amadora-Sintra).
+
+Hospital de Garcia de Orta (Almada).
+
+Hospital de Júlio de Matos.
+
+Hospital de Miguel Bombarda.
+
+Hospital de Pulido Valente.
+
+Hospital de Santa Maria.
+
+Hospital de Santa Marta.
+
+Instituto de Acção Social das Forças Armadas (IASFA).
+
+Instituto Nacional de Emergência Médica (INEM).
+
+Instituto Português de Oncologia Francisco Gentil - Lisboa.
+
+Maternidade Dr. Alfredo da Costa.
+
+Centros de saúde/CAT
+
+Centro de Atendimento a Toxicodependentes das Taipas.
+
+Centro de Atendimento a Toxicodependentes de Xabregas.
+
+Centro de Saúde da Amora.
+
+Sub-Região de Saúde de Lisboa.
+
+Associações
+
+Associação Spina Bífida e Hidrocefalia de Portugal.
+
+Associação Cultural Moinho da Juventude.
+
+Associação pela Dignidade na Vida e na Morte (AMARA).
+
+Associação Portuguesa de Doentes de Parkinson.
+
+Associação Portuguesa de Familiares e Amigos de Doentes de Alzheimer.
+
+Associação Protectora de Diabéticos de Portugal.
+
+## ANEXO VI — F - Experiências relevantes no exercício profissional
+
+F-1 - Prestação de cuidados de enfermagem como enfermeiro generalista por período superior a dois anos
+
+Unidades/serviços
+
+Centros de saúde.
+
+Cirurgia e especialidades cirúrgicas.
+
+Consultas de enfermagem (afectas a consultas externas).
+
+Cuidados continuados.
+
+Cuidados intensivos.
+
+Cuidados paliativos.
+
+Hospitais de dia.
+
+Instituto Nacional de Emergência Médica (INEM).
+
+Medicina e especialidades médicas.
+
+Medicina física e reabilitação.
+
+Pediatria.
+
+Saúde mental e psiquiatria.
+
+Transplantes.
+
+Urgências hospitalares.

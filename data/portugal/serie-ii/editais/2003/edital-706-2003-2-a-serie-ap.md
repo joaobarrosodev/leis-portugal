@@ -1,0 +1,97 @@
+---
+schema_version: '1.0'
+id: pt:dre:2339584:por
+title: Edital n.º 706/2003 (2.ª série) - AP
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Câmara Municipal de Albufeira
+proposing_entity: null
+official_number: 706/2003 (2.ª série) - AP
+official_date: null
+publication_date: '2003-09-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 210/2003, Apêndice 138/2003, Série II de 2003-09-11
+  number: '210'
+  series: II
+  supplement: null
+  pages: 18 - 18
+  pdf_url: https://files.diariodarepublica.pt/2s/2003/09/210138000/0001800018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2339584'
+  dre_path: /dr/detalhe/edital/706-2003-2339584
+  internal: pt:dre:2339584:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/706-2003-2339584
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/706-2003-2339584
+  consolidated_url: null
+  retrieved_at: '2026-11-12T21:50:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6373c7b741d6c1042c69cadf5cfdbc187b518b2d365ed17b3ade62fa26a8c8b9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T21:50:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T21:50:27Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 706/2003 (2.ª série) - AP
+
+Edital n.º 706/2003 (2.ª série) - AP. - Desidério Jorge da Silva, presidente da Câmara Municipal de Albufeira:
+
+Torna público que esta Câmara, na reunião realizada no dia 22 de Julho de 2003, aprovou, por maioria e no uso da competência que lhe confere a alínea b) do n.º 1 do artigo 20.º da Lei das Finanças Locais n.º 42/98, de 6 de Agosto, e a alínea j) do n.º 1 do artigo 64.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, fixar o seguinte tarifário relativo à drenagem e tratamento de águas residuais do município de Albufeira, com efeitos a partir das leituras a efectuar após o dia 16 de Novembro de 2003.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/09/210138000/0001800018.pdf)
+
+E para que não se alegue desconhecimento, publica-se este edital e outros de teor idêntico que vão ser afixados nos locais mais públicos do costume.
+
+8 de Agosto de 2003. - O Presidente da Câmara, Desidério Jorge da Silva.

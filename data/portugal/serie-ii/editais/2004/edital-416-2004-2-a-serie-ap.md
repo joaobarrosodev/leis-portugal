@@ -1,0 +1,317 @@
+---
+schema_version: '1.0'
+id: pt:dre:3245094:por
+title: Edital n.º 416/2004 (2.ª série) - AP
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Câmara Municipal de Elvas
+proposing_entity: null
+official_number: 416/2004 (2.ª série) - AP
+official_date: null
+publication_date: '2004-06-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 136/2004, Apêndice 78/2004, Série II de 2004-06-11
+  number: '136'
+  series: II
+  supplement: null
+  pages: 55 - 57
+  pdf_url: https://files.diariodarepublica.pt/2s/2004/06/136078000/0005500057.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3245094'
+  dre_path: /dr/detalhe/edital/416-2004-3245094
+  internal: pt:dre:3245094:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/416-2004-3245094
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/416-2004-3245094
+  consolidated_url: null
+  retrieved_at: '2026-11-12T23:38:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: cfea05eea5f5dd863c6a7e884995731ed98435a031c816a478c33b01c9e2fd4e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T23:38:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:241646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+article_structure:
+  article_count: 17
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T23:38:23Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 416/2004 (2.ª série) - AP
+
+Edital n.º 416/2004 (2.ª série) - AP. - Projecto de Regulamento de Taxas para Inspecção de Ascensores, Monta-Cargas, Escadas Mecânicas e Tapetes Rolantes. - Pedro Manuel Brilha Barrena, vice-presidente da Câmara Municipal de Elvas:
+
+Torna público que nos termos do artigo 118.º do Código de Procedimento Administrativo, se encontra em fase de inquérito público, pelo prazo de 30 dias, a contar da data de publicação do presente edital no Diário da República, 2.ª série, o projecto de Regulamento de Taxas para Inspecção de Ascensores, Monta-Cargas, Escadas Mecânicas e Tapetes Rolantes, aprovado em reunião de Câmara realizada no dia 14 de Abril de 2004.
+
+Mais torna público, que o referido projecto de Regulamento poderá ser consultado nos Paços do Município, na Divisão de Administração Urbanística, Secção Administrava de Obras Particulares.
+
+Quaisquer sugestões e reclamações deverão ser dirigidas, por escrito, ao presidente da Câmara Municipal de Elvas dentro do prazo já invocado no presente edital.
+
+Por ser verdade e para que conste, passei o presente edital e outros de igual teor, que vão ser afixados nos lugares do costume.
+
+3 de Maio de 2004. - Por delegação de competências, o Vice-Presidente da Câmara, Pedro Manuel Briha Barrena.
+
+Projecto de Regulamento de Taxas para Inspecção de Ascensores, Monta-Cargas, Escadas Mecânicas e Tapetes Rolantes.
+
+Preâmbulo
+
+O [Decreto-Lei n.º 320/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2002-391196), regulamenta a transferência de competência relativas à inspecção de ascensores, das direcções regionais de economia para as respectivas câmaras municipais.
+
+Nos termos do artigo 7.º do citado decreto-lei, passou a ser da competência das câmaras municipais, as inspecções a serem efectuadas a todos os elevadores, escadas mecânicas, tapetes rolantes e monta-cargas, existentes na jurisdição territorial de cada município.
+
+Assim, torna-se necessário regulamentar tal assunção de competências, bem como definir e fixar as taxas a cobrar por tais inspecções, reinspecções e inspecções extraordinárias.
+
+O valor das taxas reflecte a necessidade de garantir o cumprimento da prestação dos serviços de inspecção a realizar pelas entidades de inspecção prevista nos n.os 3 e 4 do artigo 10.º do supra referido diploma, considerando também as despesas decorrentes da tramitação administrativa adequada à delegação de tais competências.
+
+Porém, porque existem dificuldades nas tarefas concretas em que se traduz o exercício destas competências, o município de Elvas, em conjunto com os municípios do norte alentejano, contratar, e porque a lei o permite, uma empresa de inspecção (EI).
+
+Disposições gerais
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma estabelece as disposições aplicáveis à manutenção e inspecção de ascensores, monta-cargas, escadas mecânicas e tapetes rolantes, de agora em adiante designadas abreviadamente por instalações, após a sua entrada em serviço.
+
+2 - Excluem-se do âmbito de aplicação do presente diploma as instalações identificadas no n.º 2 do artigo 2.º do [Decreto-Lei n.º 295/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1998-241646), de 22 de Setembro, bem como os monta-cargas de carga nominal inferior a 100 kg.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma, entende-se por:
+
+a) Entrada em serviço ou entrada em funcionamento - o momento em que a instalação é colocada à disposição dos utilizadores;
+
+b) Manutenção - o conjunto de operações de verificação, conservação e repartição efectuadas corno finalidade de manter uma instalação em boas condições de segurança e funcionamento;
+
+c) Inspecção - O conjunto de exames e ensaios efectuadas a uma instalação de carácter geral ou incidindo sobre aspectos específicos, para comprovar o cumprimento dos requisitos regulamentes;
+
+d) Empresa de manutenção de ascensores (EMA) - a entidade que efectua e é responsável pela manutenção das instalações cujo estatuto constitui o anexo I do [Decreto-Lei n.º 320/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2002-391196), de 28 de Dezembro;
+
+e) Entidade inspectora (EI) - a empresa habilitada a efectuar inspecções a instalações, bem como a realizar inquéritos, peritagens, relatórios e pareceres, cujo estatuto constitui o anexo IV do [Decreto-Lei n.º 320/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2002-391196), de 28 de Dezembro.
+
+Manutenção
+
+###### Artigo 3.º — Obrigação e manutenção
+
+1 - As instalações abrangidas pelo presente diploma, ficam obrigatoriamente sujeitas a manutenção regular, a qual é assegurada por uma EMA que assumirá a responsabilidade, criminal e civil, pelos acidentes causados pela deficiente manutenção das instalações ou pelo incumprimento das normas aplicáveis.
+
+2 - O proprietário da instalação é responsável solidariamente nos termos do número anterior, sem prejuízo da transferência da responsabilidade por uma entidade seguradora.
+
+3 - Para efeitos de responsabilidade criminal ou civil, presume-se que os contratos de manutenção a que respeita o artigo seguinte integram sempre os requisitos mínimos estabelecidos para o respectivo tipo, estabelecidos no artigo 5.º
+
+4 - A EMA tem o dever de informar, por escrito, o proprietário das reparações que se torne necessário efectuar.
+
+5 - Caso seja detectada situação de grave risco para o funcionamento da instalação a EMA deve proceder à sua imediata imobilização, dando disso conhecimento por escrito ao proprietário e à Câmara Municipal de Elvas, no prazo de quarenta e oito horas.
+
+###### Artigo 4.º — Contrato de manutenção
+
+1 - O proprietário de uma instalação em serviço é obrigado a celebrar um contrato de manutenção com uma EMA.
+
+2 - O contrato de manutenção, no caso de instalações novas, deverá iniciar a sua vigência no momento da entrada em serviço da instalação sem prejuízo do disposto no número seguinte.
+
+Durante o primeiro ano de funcionamento da instalação, a entidade instaladora fica obrigada, directamente ou atrás de uma EMA, a assegurar a sua manutenção, salvo se o proprietário a desobrigar, através da celebração de um contrato de manutenção com uma EMA.
+
+###### Artigo 5.º — Tipos de contrato e manutenção
+
+1 - O contrato de manutenção, a estabelecer entre o proprietário de uma instalação e uma EMA, pode corresponder a um dos seguintes tipos:
+
+a) Contrato de manutenção simples, destinado a manter a instalação em boas condições de segurança e funcionamento, sem incluir substituição ou reparação de componentes;
+
+b) Contrato de manutenção completo, destinado a manter a instalação em boas condições de segurança e funcionamento incluindo a substituição ou reparação de componentes, sempre que se justificar.
+
+2 - Nos contratos referidos no número anterior devem constar os serviços mínimos e os respectivos planos de manutenção identificados no anexo II do [Decreto-Lei n.º 320/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2002-391196), de 28 de Dezembro.
+
+3 - Na instalação, designadamente na cabina do ascensor, devem ser afixados, de forma bem visível e legível, a identificação da EMA, os respectivos contactos e o tipo de contrato de manutenção celebrado.
+
+###### Artigo 6.º — Competências da Câmara Municipal
+
+1 - Sem prejuízo das atribuições e competências legalmente atribuídas ou delegadas a outra entidade, a Câmara Municipal, no âmbito do presente diploma, é competente para:
+
+a) Efectuar inspecções periódicas e reinspecções às instalações;
+
+b) Efectuar inspecções extraordinárias, sempre que o considerem necessárias, ou a pedido fundamentado dos interessados;
+
+c) Realizar inquéritos a acidentes decorrentes da utilização ou das operações de manutenção das instalações.
+
+2 - É cobrada uma taxa pela realização das actividades referidas nas alíneas a) e b) do número anterior, quando realizadas a pedido dos interessados.
+
+3 - Para o exercício das competências a que se refere o n.º 1 do presente artigo, a Câmara Municipal pode recorrer à entidades previstas no artigo 10.º do [Decreto-Lei n.º 320/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2002-391196), de 28 de Dezembro.
+
+###### Artigo 7.º — Realizações de inspecções
+
+1 - As instalações devem ser sujeitas a inspecção com a seguinte periodicidade:
+
+a) Ascensores:
+
+I) Dois anos, quando situados em edifícios comerciais ou de prestação de serviços abertos ao público;
+
+II) Quatro anos, quando situados em edifícios mistos de habitação e comerciais ou de prestação de serviços;
+
+III) Quatro anos, quando situados em edifícios habitacionais com mais de 32 fogos ou mais de 8 pisos;
+
+IV) Seis anos, quando situados em edifícios habitacionais não incluídos no número anterior;
+
+V) Seis anos, quando situados em estabelecimentos industriais;
+
+VI) Seis anos, nos casos não previstos nos números anteriores.
+
+b) Escadas mecânicas e tapetes rolantes, dois anos;
+
+c) Monta-cargas, seis anos.
+
+2 - Para efeitos do número anterior, não são considerados os estabelecimentos comerciais ou de prestação de serviços situados ao nível do acesso principal do edifício.
+
+3 - Sem prejuízo do menor prazo que resulte da aplicação do disposto no n.º 1, decorridas que sejam duas inspecções periódicas, as mesmas passarão a ser de periodicidade bienal.
+
+4 - As inspecções periódicas devem obedecer ao disposto no anexo V do [Decreto-Lei n.º 320/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2002-391196), de 28 de Dezembro.
+
+5 - Sem resultado das inspecções periódicas, forem impostas cláusulas referentes à segurança das pessoas, deverá proceder-se a um reinspecção, para verificar o cumprimento dessas cláusulas nos termos do definido no anexo V do [Decreto-Lei n.º 320/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2002-391196), de 28 de Dezembro.
+
+6 - Os utilizadores poderão participar à Câmara Municipal competente o deficiente funcionamento das instalações, ou a sua manifesta falta de segurança, podendo a Câmara Municipal determinar a realização de uma inspecção extraordinária.
+
+###### Artigo 8.º — Acidentes
+
+1 - As EMA e os proprietários das instalações directamente ou através daqueles, são obrigados a participar à Câmara Municipal todos os acidentes ocorridos nas instalações, no prazo máximo de três dias após a ocorrência, devendo essa comunicação ser imediata no caso de haver vitimas mortais.
+
+2 - Sempre que dos acidentes resultem mortos, ferimentos graves ou prejuízos materiais importantes deve a instalação ser imobilizada e selada, até ser feita uma reinspecção a fim de ser elaborado um relatório técnico que faça a descrição pormenorizada do acidente.
+
+3 - Os inquéritos visando o apuramento das causas e das condições em que ocorreu um acidente devem ser instruídos com o relatório técnico emitido nos termos do número anterior.
+
+4 - A Câmara Municipal deve enviar à DGE cópia com os inquéritos realizados, no âmbito do presente artigo.
+
+###### Artigo 9.º — Entidades inspectoras
+
+1 - Sem prejuízo das competências atribuídas às câmaras municipais, as acções de inspecção, inquéritos, peritagens, relatórios e pareceres no âmbito deste diploma podem ser efectuadas por entidades inspectoras (EI) reconhecidas pela DGE.
+
+2 - A entidade reconhecida como EI pode efectuar quaisquer outras acções complementares da sua actividade que lhe seja solicitadas.
+
+3 - O estatuto das entidades inspectoras consta no anexo IV do [Decreto-Lei n.º 320/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2002-391196), de 28 de Dezembro.
+
+###### Artigo 10.º — Selagem das instalações
+
+1 - Sempre que as instalações não ofereçam as necessárias condições de segurança, compete à Câmara Municipal proceder à sua selagem.
+
+2 - A selagem prevista no número anterior será feita por meio de selos de chumbo e fios metálicos ou de outro material adequado, sendo deste facto dado conhecimento ao proprietário e à EMA.
+
+3 - Após a selagem das instalações, estas não podem ser postas em serviço sem inspecção prévia que verifique as condições de segurança, sem prejuízo da prévia realização dos trabalhos de reparação das deficiências, a realizar sob a responsabilidade de uma EMA.
+
+4 - A selagem das instalações pode igualmente ser feita por uma EI, desde que para tanto haja sido habilitada pela Câmara Municipal.
+
+###### Artigo 11.º — Presença de um técnico de manutenção
+
+1 - No acto da realização de inspecção, inquérito ou peritagem, é obrigatória a presença de um técnico da EMA responsável pela manutenção, o qual deverá providenciar os meios para a realização dos ensaios ou testes que seja necessário efectuar.
+
+2 - Em casos justificados, o técnico responsável referido no número anterior poderá fazer-se representar por um delegado, devidamente credenciado.
+
+Sanções
+
+###### Artigo 12.º — Contra-ordenação
+
+1 - Constitui contra-ordenação punível com coima:
+
+a) De 250 euros a 1000 euros, a falta da presença do técnico responsável pela manutenção de ascensores no acto da inspecção, nos termos previstos no número anterior;
+
+b) De 250 euros a 5000 euros, o não requerimento da realização de inspecção nos prazos previstos no n.º 1 do anexo V do [Decreto-Lei n.º 320/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2002-391196), de 28 de Dezembro;
+
+c) De 1000 euros a 5000 euros, o funcionamento de um ascensor, monta-cargas, escada mecânica e tapete rolante, sem existência de contrato de manutenção nos termos previstos no n.º 4.
+
+2 - A negligencia e a tentativa são puníveis;
+
+3 - A imobilização das instalações é aplicável o disposto no artigo 162.º do Regulamento Geral de Edificações Urbanas, aprovado pelo Decreto Regulamentar n.º 38 382, de 7 de Agosto de 1951.
+
+4 - No caso de pessoa singular, o montante máximo da coima a aplicar é de 3750 euros.
+
+5 - Em função da gravidade da infracção e da culpa do infractor, podem ser aplicados as sanções acessórias, previstas no n.º 1 do artigo 21.º do Decreto-Lei n.º 4333/82, de 14 de Setembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de Setembro.
+
+###### Artigo 13.º — Instrução do processo e aplicação das coimas e sanções acessórias
+
+1 - A competência para determinar a instauração dos processos de contra-ordenação e aplicar as coimas e sanções acessórias pertence ao presidente da Câmara Municipal.
+
+###### Artigo 14.º — Distribuição dos produtos das coimas
+
+1 - O produto das coimas aplicadas pelo presidente da Câmara reverte para a Câmara Municipal.
+
+###### Artigo 15.º — Obras em ascensores
+
+1 - As obras a efectuar nos ascensores presumem-se:
+
+a) Benfeitorias necessárias, as de manutenção;
+
+b) Benfeitorias úteis, as de beneficiação.
+
+2 - A enumeração das obras que integraram a classificação no número anterior consta do anexo III do [Decreto-Lei n.º 320/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2002-391196), de 28 de Dezembro.
+
+3 - Os encargos com as obras classificadas no n.º 1 são suportadas nos termos da legislação aplicável, nomeadamente no regime urbano da propriedade horizontal.
+
+4 - No caso das entidades hoteleiras as obras serão realizadas pelo explorador da entidade legalmente constituída.
+
+5 - Os proprietários dos ascensores não podem opor-se à realização de obras de beneficiação pelo inquilinos, desde que aquelas sejam exigidas por disposições regulamentares de segurança.
+
+###### Artigo 16.º — Taxas
+
+1 - As taxas devidas à Câmara Municipal pela realização de inspecções periódicas, reinspecções e outras inspecções, previstas no n.º 2 do artigo 6.º, são as seguintes:
+
+a) Respeitante às alíneas a) e b) do artigo 7.º do [Decreto-Lei n.º 320/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2002-391196), de 28 de Dezembro, é fixada pela Câmara Municipal a taxa de 110 euros, acrescido de IVA, pelas inspecções periódicas de ascensores, monta-cargas, escadas mecânicas e tapetes rolantes, bem como pelas reinspecções necessárias e inspecções extraordinárias, nos termos do referido decreto-lei;
+
+b) Reportando-se a alínea c) do mesmo n.º 1, a Câmara Municipal cobrará uma taxa calculada pela soma do montante cobrado pela entidade inspectora, acrescida de 20% e de IVA sobre o total obtido, nos termos da lei.
+
+2 - As taxas são automaticamente actualizadas de acordo com o índice de inflação para habitação publicado pelo INE com arredondamento para a dezena de cêntimos imediatamente superior
+
+###### Artigo 17.º — Fiscalização
+
+1 - A competência para a fiscalização do cumprimento das disposições relativas às instalações previstas neste diploma compete às câmaras municipais, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+2 - O disposto no número anterior não prejudica a execução das acções necessárias à realização de auditorias às EMA e EI no âmbito das competências atribuídas à DGE.

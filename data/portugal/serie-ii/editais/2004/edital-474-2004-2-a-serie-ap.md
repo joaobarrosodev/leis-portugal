@@ -1,0 +1,93 @@
+---
+schema_version: '1.0'
+id: pt:dre:2458822:por
+title: Edital n.º 474/2004 (2.ª série) - AP
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Câmara Municipal de Vila Nova de Poiares
+proposing_entity: null
+official_number: 474/2004 (2.ª série) - AP
+official_date: null
+publication_date: '2004-07-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 160/2004, Apêndice 91/2004, Série II de 2004-07-09
+  number: '160'
+  series: II
+  supplement: null
+  pages: 79 - 80
+  pdf_url: https://files.diariodarepublica.pt/2s/2004/07/160091000/0007900080.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2458822'
+  dre_path: /dr/detalhe/edital/474-2004-2458822
+  internal: pt:dre:2458822:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/474-2004-2458822
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/474-2004-2458822
+  consolidated_url: null
+  retrieved_at: '2026-11-12T22:01:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a8d8be54f429c1a5c4399d1f6258ef75b9fab59fef17f1b30b2004da792a8985
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T22:01:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T22:01:02Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 474/2004 (2.ª série) - AP
+
+Edital n.º 474/2004 (2.ª série) - AP. - Aditamento ao Regulamento do Ordenamento de Trânsito em Vila Nova de Poiares. - Jaime Carlos Marta Soares, presidente da Câmara Municipal de Vila Nova de Poiares:
+
+Faz saber que esta Câmara Municipal e a Assembleia Municipal em suas reuniões realizadas, respectivamente, em 20 e 29 de Abril, ambas do corrente ano, deliberaram aprovar, em aditamento ao Regulamento de Trânsito existente no concelho, a proposta de ordenamento de trânsito e distribuição da respectiva sinalização vertical na vila e em São Miguel de Poiares, nos termos constantes das plantas em anexo, que se dão por reproduzidas para os devidos efeitos.
+
+Para constar e devidos efeitos se publica o presente e outros de igual teor, que vão ser afixados nos lugares do costume.
+
+19 de Maio de 2004. - Pelo Presidente da Câmara, (Assinatura ilegível.)
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2004/07/160091000/0007900080.pdf)

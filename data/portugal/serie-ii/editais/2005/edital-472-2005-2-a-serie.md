@@ -1,0 +1,381 @@
+---
+schema_version: '1.0'
+id: pt:dre:2258054:por
+title: Edital n.º 472/2005 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Instituto Politécnico da Guarda - Escola Superior de Saúde da Guarda
+proposing_entity: null
+official_number: 472/2005 (2.ª série)
+official_date: null
+publication_date: '2005-04-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 66/2005, Série II de 2005-04-05
+  number: '66'
+  series: II
+  supplement: null
+  pages: 5437 - 5439
+  pdf_url: https://files.diariodarepublica.pt/2s/2005/04/066000000/0543705439.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2258054'
+  dre_path: /dr/detalhe/edital/472-2005-2258054
+  internal: pt:dre:2258054:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/472-2005-2258054
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/472-2005-2258054
+  consolidated_url: null
+  retrieved_at: '2026-11-12T21:40:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3d667226caeaa77ae393f63316993ce84a9c713fe4b11ad68e56a854cf9a73b0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T21:40:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:265299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T21:40:20Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 472/2005 (2.ª série)
+
+Edital n.º 472/2005 (2.ª série). - Curso de pós-licenciatura de especialização em Enfermagem Médico-Cirúrgica - ano lectivo de 2004-2005. - 1 - Nos termos do disposto nos artigos 17.º, 18.º e seguintes da [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março, conjugados com a [Portaria n.º 220/2005](https://diariodarepublica.pt/dr/detalhe/portaria/220-2005-608039), de 24 de Fevereiro, faz-se público que, pelo despacho n.º 3/P.CD. ESEnfG/2005, de 24 de Fevereiro, do presidente do conselho directivo, se encontra aberto concurso para admissão de candidatos ao curso de pós-licenciatura de especialização em Enfermagem Médico-Cirúrgica, criado pela [Portaria n.º 220/2005](https://diariodarepublica.pt/dr/detalhe/portaria/220-2005-608039), de 24 de Fevereiro, da Escola Superior de Saúde da Guarda, a ter início no ano lectivo de 2004-2005.
+
+2 - De acordo com a [Portaria n.º 220/2005](https://diariodarepublica.pt/dr/detalhe/portaria/220-2005-608039), de 24 de Fevereiro, as vagas fixadas para a Escola Superior de Saúde da Guarda são em número de 25.
+
+3 - De acordo com o artigo 14.º da [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março, e por decisão do conselho directivo da Escola Superior de Saúde da Guarda, a afectação das vagas obedecerá à seguinte ordem:
+
+a) Conforme a alínea a) do n.º 1 do artigo 14.º da [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março, os primeiros 25% das vagas serão afectados a candidatos oriundos das instituições com as quais a Escola Superior de Saúde da Guarda tem protocolos de cooperação:
+
+Hospital de Sousa Martins, Guarda - duas vagas;
+
+Sub-Região de Saúde da Guarda - uma vaga;
+
+Hospital de Nossa Senhora da Assunção - Seia - uma vaga;
+
+Centro Hospitalar da Cova da Beira, S. A. - uma vaga;
+
+Sub-Região de Saúde de Castelo Branco - uma vaga;
+
+Hospitais da Universidade de Coimbra - uma vaga;
+
+b) Conforme a alínea b) do n.º 1 do artigo 14.º da [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março, 25% das vagas serão ainda afectados a candidatos que desenvolvam a sua actividade profissional principal e com carácter de permanência em instituições sediadas na área de influência da Escola Superior de Saúde da Guarda, nomeadamente:
+
+Hospital de Sousa Martins, Guarda - uma vaga;
+
+Sub-Região de Saúde da Guarda - uma vaga;
+
+Hospital de Nossa Senhora da Assunção - Seia - uma vaga;
+
+Centro Hospitalar da Cova da Beira, S. A. - uma vaga;
+
+Sub-Região de Saúde de Castelo Branco - uma vaga;
+
+Outras instituições de saúde - uma vaga (a qual, caso não haja candidatos, reverterá para o Hospital de Sousa Martins);
+
+c) As restantes vagas serão preenchidas por ordem de classificação dos candidatos.
+
+4 - As condições de candidatura, de acordo com os artigos 11.º do [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195), de 3 de Setembro, e 19.º da [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março, são, cumulativamente, as seguintes:
+
+a) Ser titular do grau de licenciado em Enfermagem ou equivalente legal;
+
+b) Ser detentor do título profissional de enfermeiro;
+
+c) Ter, pelo menos, dois anos de experiência profissional como enfermeiro.
+
+5 - A candidatura é válida apenas para o ano lectivo de 2004-2005.
+
+6 - A candidatura é formalizada em requerimento dirigido ao presidente do conselho directivo da Escola Superior de Saúde da Guarda, a apresentar dentro dos prazos previstos, segundo impresso modelo a fornecer na Secção de Serviços Académicos da Escola.
+
+7 - O requerimento de candidatura terá de ser, obrigatoriamente, acompanhado dos seguintes documentos:
+
+a) Fotocópia do bilhete de identidade;
+
+b) Cédula profissional ou certificado de inscrição na Ordem dos Enfermeiros, válidos;
+
+c) Certidão comprovativa da titularidade do grau de licenciado em Enfermagem ou equivalente legal, indicando a respectiva classificação final;
+
+d) Certidão comprovativa da categoria profissional que possui e do tempo de serviço contado em anos, meses e dias (até 31 de Janeiro de 2005), passada pela instituição, com assinatura autenticada com selo branco;
+
+e) Currículo profissional e académico do requerente (impresso a fornecer pela Secção de Serviços Académicos da Escola);
+
+f) Comprovativos dos dados constantes do currículo.
+
+Os requerentes que tenham obtido o grau de licenciado a que se refere a alínea c) na Escola Superior de Saúde da Guarda estão dispensados da entrega do documento aí referido.
+
+Os requerentes que tenham obtido o grau de licenciado por equivalência concedida ao abrigo do n.º 1 ou do n.º 2 do artigo 10.º do [Decreto-Lei n.º 480/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1988-361157), de 23 de Dezembro, alterado pelo [Decreto-Lei n.º 100/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1990-333290), de 20 de Março, instruem o requerimento de candidatura igualmente com documentos comprovativos da classificação do curso de Enfermagem Geral ou equivalente legal e ou da classificação dos cursos de que sejam titulares, de entre aqueles a que se referem as alíneas a), b) e c) do n.º 1 do artigo 10.º do [Decreto-Lei n.º 480/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1988-361157).
+
+8 - O júri poderá solicitar outros documentos que venha a considerar necessários.
+
+9 - Serão liminarmente rejeitadas as candidaturas que não satisfaçam os requisitos exigidos no presente edital.
+
+10 - O requerimento de candidatura e os documentos referidos nos n.os 6 e 7 devem ser entregues contra recibo ou enviados por correio, com aviso de recepção, dentro dos prazos fixados no presente edital, para o presidente do conselho directivo da Escola Superior de Saúde da Guarda, Avenida da Rainha D. Amélia, sem número de polícia, 6300-749 Guarda.
+
+11 - A análise das candidaturas e a seriação daí resultantes terão por base as regras e os critérios de selecção aprovados pelo conselho científico da Escola Superior de Saúde da Guarda e homologados pelo respectivo presidente do conselho directivo, em conformidade com o disposto no n.º 3 do artigo 22.º da [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março, que constam do anexo deste edital, que dele faz parte integrante.
+
+12 - Caberá ao júri nomeado pelo conselho directivo, sob proposta do conselho científico, a análise curricular, que se traduz na valoração da formação e da experiência dos candidatos, conforme os artigos 21.º e 22.º da [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março, bem como a deliberação sobre todas as situações que necessitem de clarificação ou sejam omissas, da qual não haverá recurso.
+
+13 - De acordo com o artigo 17.º da [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março, os termos e os prazos para candidatura, para afixação dos resultados da seriação dos candidatos, para reclamação e para matrícula e inscrição no curso de pós-licenciatura de especialização em Enfermagem Médico-Cirúrgica, a iniciar no 2.º semestre do ano lectivo de 2004-2005, são os seguintes:
+
+Afixação do edital de candidatura - 9 de Março de 2005;
+
+Apresentação de candidaturas - de 14 a 24 de Março de 2005;
+
+Seriação e selecção - de 4 a 14 de Abril de 2005;
+
+Afixação dos resultados - até 15 de Abril de 2005;
+
+Apresentação de reclamações - de 18 a 22 de Abril de 2005;
+
+Decisão de reclamações - até 28 de Abril de 2005;
+
+Matrícula e inscrição - de 2 a 6 Maio de 2005;
+
+Início do curso - 11 de Maio de 2005.
+
+14 - O funcionamento do curso será conciliado com as necessidades pedagógicas e com a operacionalidade deste primeiro curso, a iniciar fora dos períodos habituais. O ensino teórico decorrerá à quarta-feira, das 13 horas e 30 minutos às 18 horas e 30 minutos, e à quinta-feira e sexta-feira, das 8 horas e 30 minutos às 17 horas e 30 minutos, podendo funcionar em horário diferente, de acordo com os interesses e necessidades da Escola e dos estudantes e quando assim for entendido pela coordenação do curso. O ensino clínico, com a duração de trinta e cinco horas semanais, terá o horário da instituição onde se realiza.
+
+15 - O início do curso fica condicionado à matrícula e inscrição de 15 alunos.
+
+16 - Nos termos dos artigos 16.º, n.º 3, e 17.º, alínea b), da [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), de 22 de Agosto, é fixada para este curso a propina mensal de Euro 250.
+
+17 - As reclamações a apresentar devem ser dirigidas ao presidente do conselho directivo da Escola Superior de Saúde da Guarda.
+
+18 - Os documentos apresentados pelos candidatos não admitidos serão eliminados caso não sejam solicitados até 90 dias após o início do curso.
+
+14 de Março de 2005. - O Presidente do Conselho Directivo, Abílio Madeira Figueiredo.
+
+## ANEXO — Curso de pós-licenciatura de especialização em Enfermagem Médico-Cirúrgica - Ano lectivo de 2004-2005
+
+([Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março)
+
+Critérios gerais a considerar na seriação e selecção dos candidatos:
+
+I - Critérios de seriação:
+
+A - Formação académica e profissional - 10 pontos:
+
+a) Classificação do curso de licenciatura em Enfermagem ou equivalente legal (pontuação máxima - 4 pontos):
+
+=< 12 valores - 1 ponto;
+
+13-14 valores - 2 pontos;
+
+15-16 valores - 3 pontos;
+
+>= 17 valores - 4 pontos;
+
+b) Formação profissional (pontuação máxima - 4 pontos) cursos de formação pós-básica e pós-graduada, ministrados em escolas superiores de Enfermagem - 2 pontos por cada;
+
+c) Formação académica noutras áreas científicas (pontuação máxima - 2 pontos):
+
+Bacharelato - 1 ponto;
+
+Licenciatura - 1,5 pontos,
+
+Outros - 2 pontos.
+
+Nota. - Aos candidatos com curso de licenciatura em Enfermagem obtido através de equivalência de habilitações estrangeiras de nível superior às correspondentes habilitações portuguesas que não apresentam nota de equivalência será atribuída a pontuação de 1 ponto.
+
+B - Cursos/acções de formação profissional devidamente certificados (realizados a partir de 1 de Janeiro de 1999) - 10 pontos:
+
+a) Com duração de doze a trinta horas - 1 ponto por cada;
+
+b) Com duração de trinta e uma a sessenta horas - 2 pontos por cada;
+
+c) Com duração superior a sessenta horas - 3 pontos por cada.
+
+Notas
+
+Só será considerada a formação realizada por entidades formadoras acreditadas, DEPE/CEF, escolas, associações profissionais, sindicais ou outras entidades em que no certificado de formação emitido esteja claramente mencionado o despacho que a acredita.
+
+Só serão considerados os cursos/acções de formação profissional no âmbito da prestação de cuidados/formação/gestão/investigação em enfermagem e outros afins.
+
+Para as formações com indicação temporal em dias, considera-se um dia correspondente a seis horas.
+
+O candidato deverá proceder à selecção de acções de formação com duração igual ou superior a doze horas.
+
+As visitas de estudo não serão consideradas.
+
+Os estágios deverão ter a indicação do número total de horas.
+
+C - Funções desempenhadas no âmbito da saúde - 10 pontos:
+
+a) Gestão (2,5 pontos):
+
+Gestão de unidade de cuidados - 0,5 pontos por ano;
+
+Orientação e coordenação de equipas de enfermagem na prestação de cuidados - 0,25 pontos por ano;
+
+b) Educação permanente (2,5 pontos);
+
+Responsável por DEPE/CEF - 1 ponto por ano;
+
+Responsável pela formação em serviço - 0,5 pontos por ano;
+
+Realização de acções de formação em serviço - 0,1 pontos por cada acção;
+
+c) Ensino (2,5 pontos):
+
+Leccionação de ensino teórico em escolas de enfermagem - 0,1 pontos por cada hora lectiva;
+
+Orientação e avaliação de alunos de enfermagem em estágio - 0,5 pontos por cada estágio;
+
+d) Investigação (2,5 pontos) - realização de trabalhos de investigação em enfermagem (não académicos) - 1,25 pontos por cada trabalho.
+
+Notas
+
+As funções desempenhadas no âmbito da saúde deverão ser certificadas pelas direcções das instituições onde desempenha/desempenhou a actividade profissional.
+
+As funções desempenhadas no âmbito do ensino deverão ser certificadas pelas escolas superiores de enfermagem.
+
+Só serão considerados os períodos de acompanhamento de alunos em estágio com duração igual ou superior a quatro semanas consecutivas.
+
+Só serão considerados os trabalhos de investigação concluídos.
+
+Só serão considerados os trabalhos de investigação integrados no desenvolvimento do conteúdo funcional dos enfermeiros (excluem-se os trabalhos desenvolvidos durante as formações académicas).
+
+Os trabalhos de investigação deverão ser certificados pelas direcções das instituições com a indicação dos objectivos e do tempo de realização.
+
+O candidato deverá apresentar o resumo do trabalho de investigação.
+
+Quando o candidato é co-autor de um trabalho de investigação:
+
+Serão aceites as certificações apresentadas pelo coordenador da investigação;
+
+Deverão encontrar-se expressas as suas funções na investigação realizada.
+
+D - Participação na elaboração, na operacionalização ou no acompanhamento de projectos ou programas no âmbito da saúde (devidamente certificados) 10 pontos:
+
+Concepção/elaboração/avaliação - 3 pontos por cada;
+
+Operacionalização/acompanhamento - 2 pontos por cada.
+
+Notas
+
+A certificação deverá ser efectuada pela instituição/coordenador promotores do projecto ou programa no âmbito da saúde.
+
+Só serão aceites os projectos e programas certificados com:
+
+Indicação dos objectivos e tempo de início/realização;
+
+Indicação das funções realizadas no âmbito do programa/projecto.
+
+Não serão considerados os programas/projectos no âmbito da formação em serviço.
+
+E - Publicações e comunicações de cariz científico no âmbito da saúde (devidamente certificadas) - 10 pontos:
+
+a) Publicação de artigos em revistas científicas - 1 ponto por cada, até ao máximo de 3 pontos;
+
+b) Publicação de livros científicos - 2 pontos por cada, até ao máximo de 4 pontos;
+
+c) Comunicações em reuniões científicas - 1 ponto por cada, até ao máximo de 3 pontos.
+
+Notas
+
+A certificação das publicações deverá ser efectuada através da referência bibliográfica e da respectiva cópia comprovativa.
+
+Não serão consideradas as comunicações no âmbito da formação académica e da formação em serviço.
+
+Os posters serão considerados comunicações.
+
+As funções de organização de actividades, moderação, introdução e conclusão de trabalhos não serão consideradas.
+
+F - Tempo de serviço como enfermeiro 0,5 pontos por cada ano, até ao máximo de 10 pontos.
+
+Notas
+
+O tempo de serviço como enfermeiro será contabilizado em número de anos completos, de acordo com o expresso no documento comprovativo, devendo este apresentar de forma clara:
+
+O número de anos de exercício profissional
+
+O período a que se reporta a contagem do número de anos.
+
+O tempo máximo a ser contabilizado é de 20 anos de tempo de serviço completo em tempo integral até à data da candidatura.
+
+O período superior a seis meses arredonda para o ano seguinte.
+
+Não será contabilizado o tempo de serviço exercido em acumulação de funções.
+
+Classificação final:
+
+CF=((A+B+C+D+E+F)/6)+10
+
+A classificação final foi convertida na escala de 10 a 20 valores, pelo que se acrescentou o valor 10 ao resultado.
+
+II - Critérios gerais de desempate:
+
+1) Categoria profissional mais elevada;
+
+2) Maior antiguidade na categoria(anos/meses/dias);
+
+3) Melhor classificação no curso de licenciatura em Enfermagem ou equivalente legal;
+
+4) Maior antiguidade na obtenção do grau de licenciatura.

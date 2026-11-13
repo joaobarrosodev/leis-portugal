@@ -1,0 +1,328 @@
+---
+schema_version: '1.0'
+id: pt:dre:902131377:por
+title: Edital n.º 6/2025
+short_title: null
+summary: Abertura de um concurso documental interno de promoção para dois professores catedráticos para a área disciplinar
+  de Ciência de Computadores da Faculdade de Ciências desta Universidade.
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Universidade do Porto
+proposing_entity: null
+official_number: 6/2025
+official_date: null
+publication_date: '2025-01-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 3/2025, Série II de 2025-01-06
+  number: '3'
+  series: II
+  supplement: null
+  pages: 397 - 403
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/01/003000000/0039700403.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '902131377'
+  dre_path: /dr/detalhe/edital/6-2025-902131377
+  internal: pt:dre:902131377:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/6-2025-902131377
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/6-2025-902131377
+  consolidated_url: null
+  retrieved_at: '2026-11-13T03:57:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b27cac43b5d7022b21e7726e1a536e0a4fdd08331c809df9e9e2ed479bd8bb1c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T03:57:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:121784766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175865937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3041150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615031:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T03:57:39Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 6/2025
+
+Doutor José Manuel Pereira Dias de Castro Lopes, Professor Catedrático da Faculdade de Medicina da Universidade do Porto, Vice-Reitor da mesma Universidade:
+
+Faço saber que, por meu despacho de 14 de junho de 2023, no uso de competência delegada no artigo 3.º do Despacho n.º 9493/2022, publicado no Diário da República, 2.ª série, n.º 148, de 2 de agosto, pelo prazo de 30 (trinta) dias úteis a contar do dia imediato ao da publicação do presente edital no Diário da República, se abre concurso documental interno de promoção para 2 (dois) professores catedráticos para a área disciplinar de Ciência de Computadores da Faculdade de Ciências desta Universidade.
+
+1 - Disposições legais aplicáveis
+
+O presente concurso é aberto ao abrigo do regime de concursos internos de promoção a categorias intermédias e de topo das carreiras docentes do ensino superior e da carreira de investigação científica, aprovado pelo [Decreto-Lei n.º 112/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2021-175865937), de 14 de dezembro, sendo-lhe ainda aplicável - em tudo o que não esteja especialmente regulado no mencionado DL 112/2021 - o disposto nos artigos 38.º e seguintes do Estatuto da Carreira Docente Universitária, republicado pelo [Decreto-Lei n.º 205/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2009-488485), de 31 de agosto (abreviadamente designado por ECDU), e alterado pela [Lei n.º 8/2010](https://diariodarepublica.pt/dr/detalhe/lei/8-2010-615031), de 13 de maio, bem como o Despacho n.º 12913/2010, que publicou o Regulamento dos Concursos para Recrutamento de Professores Catedráticos, Associados e Auxiliares da Universidade do Porto (abreviadamente designado por Regulamento), no Diário da República, n.º 154, de 10 de agosto, alterado pela [Deliberação (extrato) n.º 380/2019](https://diariodarepublica.pt/dr/detalhe/deliberacao-extrato/380-2019-121784766) publicada no Diário da República, n.º 64, de 1 de abril.
+
+2 - Requisitos de admissão administrativa ao concurso
+
+A admissão administrativa ao concurso depende do cumprimento cumulativo dos requisitos previstos no artigo 2.º do [Decreto-Lei n.º 112/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2021-175865937), de 14 de dezembro, sem prejuízo dos requisitos previstos no ECDU e no Regulamento, podendo ser opositores ao concurso os professores auxiliares ou associados com contrato por tempo indeterminado com a Faculdade de Ciências da Universidade do Porto, ainda que não esteja concluído o respetivo período experimental, que cumulativamente:
+
+a) sejam titulares do grau de doutor há mais de cinco anos contados até ao dia anterior do limite de entrega de candidaturas e detentores do título de agregado;
+
+b) pertençam ao mapa de pessoal docente da Unidade Orgânica em que é aberto o concurso para a categoria de professor catedrático.
+
+3 - Aprovação em mérito absoluto
+
+3.1 - Inexistindo fundamentos de rejeição das candidaturas por incumprimento do previsto no número anterior, o Júri deliberará sobre a sua aprovação ou não aprovação em mérito absoluto, por votação nominal justificada, não sendo admitidas abstenções.
+
+3.2 - Considera-se aprovado em mérito absoluto o candidato que seja aprovado por maioria absoluta dos membros do júri votantes.
+
+3.3 - A aprovação em mérito absoluto dos candidatos depende da posse de um currículo global que o júri considere fundamentadamente revestir mérito científico e pedagógico, capacidade de investigação e atividade desenvolvida, compatíveis com a área disciplinar para a qual foi aberto o concurso e adequados à respetiva categoria docente, tal como documentados na informação apresentada a concurso.
+
+3.4 - Para efeitos da avaliação a que se refere o ponto anterior, a aprovação fundamentada em mérito absoluto dos candidatos dependerá da observância de requisitos de natureza qualitativa e quantitativa, fixados em conformidade com o artigo 2.º n.º 4 do [Decreto-Lei n.º 112/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2021-175865937), de 14 de dezembro:
+
+O voto desfavorável deve ser fundamentado no incumprimento pelo candidato de um ou mais dos seguintes requisitos:
+
+a) Ser (co)autor de pelo menos 25 artigos na Área, publicados em revistas indexadas na Web-of-Science ou Scopus com quartil Q1 ou Q2, ou em atas de conferências internacionais classificadas no sistema CORE com A*, A ou B;
+
+b) Ter orientado com sucesso pelo menos 3 estudantes de doutoramento na Área;
+
+c) Ter sido Investigador Principal (PI) em pelo menos um projeto com financiamento competitivo;
+
+d) Ter sido membro arguente externo em júri de provas de doutoramento;
+
+d) Ter exercido atividade letiva na Área com diversidade de tópicos e níveis;
+
+e) Ter exercido cargo de gestão institucional ou pelo menos uma direção de curso;
+
+3.5 - A não satisfação de um dos requisitos quantitativos indicados em 3.4 pode ser suprida por uma descrição justificativa, sucinta e adequada, de que a não satisfação é compensada por aspetos específicos de qualidade e/ou impacto excecional do trabalho desenvolvido pelo candidato, se essa descrição for aceite pelo júri.
+
+4 - Avaliação e seriação em mérito relativo
+
+Uma vez identificados, em definitivo, os candidatos aprovados em mérito absoluto, passa-se à sua ordenação em mérito relativo, com base nas vertentes e critérios de seriação, respetiva ponderação e sistema de valoração final, que a seguir se discriminam, estabelecidos de acordo com o disposto no n.º 6 do artigo 50.º do ECDU e no artigo 14.º do Regulamento e, sem prejuízo dos mínimos identificados nas alíneas do ponto 3.4 deste edital, se aplicável.
+
+4.1 - Metodologia e vertentes de avaliação
+
+Os candidatos aprovados em mérito absoluto são sujeitos a uma avaliação curricular, tendo por base as funções gerais dos docentes previstas no artigo 4.º do ECDU, incidindo sobre as seguintes vertentes e projeto:
+
+a) Mérito Científico (VMC) - 40 %
+
+b) Mérito Pedagógico (VMP) - 20 %
+
+c) Tarefas de Extensão Universitária e de Valorização Económica e Social do Conhecimento (VTC) - 12,5 %
+
+d) Gestão Universitária (VGU) - 15 %
+
+e) Projeto Científico-Pedagógico (VPCP) -12,5 %
+
+4.2 - Critérios de avaliação
+
+Os critérios a ter em consideração na avaliação de cada uma das vertentes de avaliação e projeto, identificados no ponto anterior, e a ponderação a atribuir a cada um deles na classificação final são os que a seguir se discriminam:
+
+4.2.1 - Critérios para avaliação da vertente Mérito Científico (VMC) - 40 %
+
+4.2.1.1 - Produção científica. Qualidade da produção científica relevante para a área em concurso (incluindo livros, artigos em revistas, artigos em atas de congressos, capítulos em livros coletivos, protótipos ou patentes), aferida pelo tipo e qualidade dos meios de publicação e referências feitas por outros autores, e pelo potencial impacto dos protótipos ou patentes.
+
+4.2.1.2 - Projetos científicos. Importância da participação em projetos científicos com relevância para a área em concurso e financiados numa base competitiva. Deve atender-se ao nível de coordenação exercida, financiamento obtido, grau de exigência do concurso, e avaliações realizadas.
+
+4.2.1.3 - Equipas científicas. Capacidade para criar, organizar e liderar equipas científicas, incluindo a orientação de investigadores em trabalhos de pós-doutoramento, doutoramento e mestrado.
+
+4.2.1.4 - Reconhecimento científico. Grau de reconhecimento pela comunidade científica e profissional, expresso nomeadamente pela colaboração na edição de revistas e na avaliação de artigos, pela participação em comissões de programa de eventos científicos, pelo exercício de cargos em organizações, pela apresentação de palestras convidadas, pela participação em júris académicos, e pela obtenção de prémios.
+
+4.2.2 - Critérios para avaliação da vertente Mérito Pedagógico (VMP) - 20 %
+
+4.2.2.1 - Atividade letiva. Experiência e qualidade da atividade letiva realizada em unidades curriculares da área em concurso, considerando o seu escopo e diversidade bem como dados objetivos baseados em recolhas de opinião alargadas (inquéritos pedagógicos).
+
+4.2.2.2 - Projetos pedagógicos. Envolvimento em novos projetos educativos (propostas de novos cursos ou de novas unidades curriculares), em projetos de melhoria pedagógica (reformulação de cursos ou de unidades curriculares existentes), ou noutros projetos com impacto no processo de ensino/aprendizagem.
+
+4.2.2.3 - Material pedagógico. Qualidade e inovação do material pedagógico produzido, valorizando as publicações de índole pedagógica em revistas ou conferências internacionais de prestígio.
+
+4.2.3 - Critérios para avaliação da vertente Tarefas de Extensão Universitária e de Valorização Económica e Social do Conhecimento (VTC) - 12,5 %
+
+4.2.3.1 - Valorização Social e Económica. Autoria e coautoria de patentes, envolvimento na elaboração de projetos legislativos e normas técnicas, envolvimento na criação em spin-offs de empresas, tendo em consideração o seu tempo de vida e sucesso de curto/médio prazo.
+
+4.2.3.2 - Consultoria e prestação de serviços. Participação em atividades que envolvam o meio empresarial e o setor público, tendo em consideração o tipo de participação, a dimensão, a diversidade, a intensidade tecnológica e a inovação.
+
+4.2.3.3 - Divulgação científica e tecnológica. Participação e coordenação de iniciativas de divulgação científica e tecnológica, nomeadamente livros, revistas, palestras, cursos de formação, media, dias abertos, concursos de programação, mostra da universidade para as escolas, universidade júnior, entre outros.
+
+4.2.4 - Critérios para avaliação da vertente Gestão Universitária (VGU) - 15 %
+
+4.2.4.1 - Cargos em órgãos centrais. Desempenho de cargos em órgãos centrais de gestão de faculdade/escola ou universidade, tendo em conta a natureza, responsabilidade e duração.
+
+4.2.4.2 - Outros cargos. Tem em conta o cargo, o universo de atuação e os resultados obtidos pelo candidato no exercício de funções de gestão departamental, de unidades de investigação, de cursos ou de áreas científicas.
+
+4.2.4.3 - Tarefas temporárias. Participação em júris de provas académicas ou de concursos, e desempenho de tarefas temporárias atribuídas por órgãos de gestão
+
+4.2.5 - Critérios para avaliação da vertente Projeto Científico-Pedagógico (VPCP) - 12,5 %
+
+É aqui avaliado o documento da candidatura exigido na alínea e) do ponto 6.2, segundo estes dois critérios:
+
+4.2.5.1 - Potencial da contribuição. Valor para a entidade recrutadora dos contributos planeados e plausíveis do candidato a nível de investigação, ensino e outras dimensões.
+
+4.2.5.2 - Coerência e visão. Adequação do plano à atividade anterior, capacidade de o enquadrar no contexto local e global da área em concurso, e maturidade expositiva
+
+5 - Modo de funcionamento do Júri
+
+5.1 - Pontuação dos candidatos
+
+Cada membro do júri faz a sua apreciação fundamentada, pontuando cada um dos candidatos em relação a cada vertente, numa escala de 0 a 100, tomando em consideração os critérios aprovados para cada vertente, com um grau de exigência ajustado à categoria para que o concurso é aberto.
+
+5.2 - Resultado Final
+
+O Resultado Final (RF) da avaliação de cada um dos candidatos por cada membro do júri é calculado através da ponderação das várias vertentes curriculares.
+
+Na sequência da apreciação fundamentada individual, cada membro do júri elabora a sua lista ordenada de avaliação dos candidatos, com a qual participa nas votações que conduzem à decisão e à ordenação final dos candidatos nos termos do ponto 4, não sendo possível a existência de empate entre candidatos na classificação final.
+
+5.3 - Deliberações do júri
+
+5.3.1 - Qualquer deliberação resultará do artigo 17.º, n.º 12, do Regulamento, aplicável por força do artigo 83.º -A do ECDU que determinou a aprovação do mesmo com vista à execução das normas daquele diploma legal, abrangendo a tramitação procedimental dos concursos, designadamente o sistema de avaliação e de classificação final.
+
+Em consequência, nos termos do artigo 17.º., n.º 12 do referido Regulamento, o júri deliberará através de votação nominal fundamentada nos critérios de seleção adotados e divulgados a aprovação e a ordenação dos candidatos, sendo exigida a maioria absoluta para qualquer deliberação, não sendo permitidas abstenções.
+
+5.3.2 - Metodologia de seriação
+
+Nas várias votações, cada membro do júri deve respeitar a sua lista de ordenação, observando-se nas votações o seguinte:
+
+a) A primeira votação destina-se a determinar o candidato colocado em 1.º lugar, contabilizando o número de votos que cada candidato obteve para esse lugar;
+
+b) Se um candidato obtiver a maioria absoluta dos votos para o 1.º lugar, fica colocado na respetiva posição e é removido do escrutínio, iniciando-se o procedimento para escolher o candidato que ocupará o 2.º lugar;
+
+c) Caso nenhum candidato obtenha a maioria absoluta dos votos para o 1.º lugar, inicia-se um novo escrutínio, apenas entre os candidatos que obtiveram votos para o 1.º lugar, depois de retirado o candidato menos votados para esse lugar na votação anterior;
+
+d) Caso se verifique um empate entre dois ou mais candidatos na posição de menos votado, procede-se a uma votação de desempate apenas estes, contabilizando-se o número de primeiras posições relativas de cada um, sendo removido o menos votado;
+
+e) Caso o empate subsista entre dois ou mais candidatos na posição de menos votado, mas tendo sido reduzido o número de candidatos empatados na posição de menos votado, relativamente à ronda da votação anterior, procede-se a uma nova votação de desempate apenas entre os candidatos empatados na posição de menos votados, contabilizando-se o número de primeiras posições relativas de cada um, sendo removido o menos votado;
+
+f) Caso o empate subsista entre dois ou mais candidatos na posição de menos votado, sem que tenha sido reduzido o número de candidatos empatados na posição de menos votado, relativamente à ronda da votação anterior, o desempate é feito através do voto de qualidade do Presidente ou pelo exercício de voto de desempate, conforme o caso, sendo escolhido para integrar a votação subsequente para o mesmo lugar o candidato votado pelo Presidente;
+
+g) Havendo empate quando só restarem dois ou mais candidatos para o 1.º lugar, o desempate é feito através do voto de qualidade do Presidente do júri ou pelo exercício do voto de desempate, conforme o caso;
+
+h) Escolhido o candidato para o 1.º lugar, este sai das votações e inicia-se o procedimento de escolha para o candidato a colocar em 2.º lugar, repetindo-se o processo referido nas alíneas anteriores para os lugares subsequentes até se obter uma única lista ordenada de todos os candidatos.
+
+6 - Apresentação de candidaturas
+
+6.1 - Entrega das candidaturas
+
+A candidatura deve ser entregue exclusivamente na página da Internet da Faculdade de Ciências da Universidade do Porto, no seguinte endereço https://sigarra.up.pt/fcup/pt/cnt_cand_geral.concursos_list até ao termo do prazo.
+
+6.2 - Instrução de candidaturas
+
+A candidatura deve ser obrigatoriamente instruída com os seguintes documentos, sob pena de exclusão:
+
+a) Requerimento de candidatura (dados pessoais e declarações), integralmente preenchido, datado e assinado, de acordo com o formulário de utilização obrigatória, disponível em https://sigarra.up.pt/up/pt/conteudos_geral.ver?pct_pag_id=1004282&pct_parametros=p_pagina=1004282&pct_grupo=3123&pct_grupo=2013&pct_grupo=2015&pct_grupo=2461#2461;
+
+b) Certidão de doutoramento e certidão do título de agregado, exceto para os casos correspondentes à obtenção do grau de doutor e/ou do título de agregado na Universidade do Porto;
+
+c) Comprovativo do reconhecimento do Doutoramento conferido por instituição de ensino superior estrangeira, por instituição de ensino superior portuguesa (se aplicável);
+
+d) Curriculum Vitae, contendo todas as informações pertinentes para a avaliação da candidatura, assim como para a demonstração do cumprimento dos critérios fixados no ponto 3 do presente edital, tendo em consideração os critérios de avaliação e seriação constantes no ponto 4.3. do presente edital para as vertentes e parâmetros da avaliação;
+
+e) Projeto Científico-Pedagógico, descrevendo o plano pessoal de contribuições, durante os próximos cinco anos, para o desenvolvimento da Área nas vertentes de investigação, ensino e outras relevantes, no contexto da instituição contratante, do estado da arte e da atividade anterior do candidato; este documento terá no máximo oito páginas A4, com tamanho mínimo de texto de 11 pt;
+
+f) Relatório de desempenho, que deve corresponder a uma análise feita pelo candidato sobre os trabalhos e elementos do seu curriculum vitae que considere mais relevantes, nomeadamente no que respeita ao desenvolvimento do conhecimento na Área; este documento terá no máximo cinco páginas A4, com tamanho mínimo de texto de 11 pt;
+
+g) Publicações de índole científica, até um máximo de cinco, que o candidato considere como as suas mais significativas para a Área;
+
+h) Quaisquer outros documentos que o candidato entenda serem relevantes para apreciação do seu mérito.
+
+6.3 - Cada um dos documentos indicados na alínea g) do ponto 6.2. do Edital do concurso deve ser submetido num ficheiro individual e em versão integral no sistema Sigarra. Os documentos podem ser integrados em pastas com formato compactado (zip, rar, 7z) sendo, porém, necessário considerar o limite do sistema para upload, que se fixa num máximo de 720MB por ficheiro ou pasta compactada. Cada candidatura pode submeter vários ficheiros ou pastas compactadas, cada um com o limite de 720 MB, não estando limitado o número total de ficheiros/pastas compactadas submetidas.
+
+6.4 - Para efeitos de avaliação das candidaturas, não serão considerados quaisquer documentos cujo acesso seja facultado através de links, com a exceção daqueles que remetam para publicações com DOI, mantendo-se, contudo, a obrigatoriedade da submissão desses mesmos documentos no sistema Sigarra, tal como definido no ponto 6.3. supra.
+
+6.5 - Os documentos mencionados no ponto 6.2. devem ser submetidos em formato não editável.
+
+6.6 - O incumprimento do disposto no 6.1. determina a exclusão da candidatura.
+
+6.7 - A falta de apresentação ou a apresentação fora do prazo dos documentos referidos nas alíneas a) a g) do n.º 6.2 determina a não admissão da candidatura.
+
+7 - Notificações e audiência dos interessados
+
+7.1 - O Serviço de Recursos Humanos do Centro de Recursos e Serviços Comuns da Universidade do Porto, notificará os candidatos do despacho de admissão ou não admissão administrativa ao concurso, o qual se baseará no cumprimento ou incumprimento dos requisitos exigidos na legislação vigente, das condições estabelecidas no n.º 2 deste edital, e das condições estabelecidas quanto à instrução de candidatura referidas nos números 6.1. e 6.2.
+
+7.2 - Há lugar a audiência prévia, nos termos do disposto nos artigos 121.º e 122.º do Código do Procedimento Administrativo, aos candidatos que não tenham sido admitidos administrativamente, aos candidatos não aprovados em mérito absoluto e aos candidatos ordenados em lugar da lista de ordenação dos candidatos não passível de ser provido no posto de trabalho a concurso.
+
+Todos os candidatos são notificados da homologação da deliberação final do júri.
+
+7.3 - As notificações são efetuadas por correio eletrónico, nos termos dos artigos 112.º, n.º 1, alínea c) e 113.º, n.º 5, do CPA.
+
+O prazo para os candidatos se pronunciarem, por escrito, é de dez dias úteis.
+
+8 - Composição do Júri
+
+Presidente: Professora Doutora Joana Rita Pinho Resende, Vice-Reitora da Universidade do Porto, no uso de competência delegada por Despacho n.º 9493/2022 publicado no Diário da República, 2.ª série, n.º 148, de 2 de agosto;
+
+Vogais:
+
+Doutora Marília Pascoal Curado, Professora Catedrática da Universidade de Coimbra;
+
+Doutor Luís Manuel Dias Coelho Soares Barbosa, Professor Catedrático da Faculdade de Ciências da Universidade do Minho;
+
+Doutora Susana Isabel Barreto de Miranda Sargento, Professora Catedrática da Universidade de Aveiro;
+
+Doutora Maribel Yasmina Campos Alves Santos, Professora Catedrática da Escola de Engenharia da Universidade do Minho;
+
+Doutor Fernando Manuel Augusto da Silva, Professor Catedrático da Faculdade de Ciências da Universidade do Porto;
+
+Doutor Luís Filipe Coelho Antunes, Professor Catedrático da Faculdade de Ciências da Universidade do Porto;
+
+Doutor Alípio Mário Guedes Jorge, Professor Catedrático da Faculdade de Ciências da Universidade do Porto.
+
+9 - Outras Disposições
+
+O De[Despacho Conjunto n.º 373/2000](https://diariodarepublica.pt/dr/detalhe/despacho-conjunto/373-2000-3041150)de 31 de março, do Ministro da Reforma do Estado e da Administração Pública e da Ministra para a Igualdade, determina a obrigatoriedade de nos concursos de ingresso e acesso se proceder à seguinte menção:
+
+“Em cumprimento da alínea h) do artigo 9.º da Constituição, a Administração Pública, enquanto entidade empregadora, promove ativamente uma política de igualdade de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação”. Neste sentido, os termos “candidato(s)”, “professor(es)” e outros similares não são usados neste edital para referir o género das pessoas.
+
+De igual modo, nenhum candidato pode ser privilegiado, beneficiado, prejudicado ou privado de qualquer direito ou isento de qualquer dever em razão, nomeadamente, de ascendência, idade, orientação sexual, estado civil, situação familiar, situação económica, instrução, origem ou condição social, património genético, capacidade de trabalho reduzida, deficiência, doença crónica, nacionalidade, origem étnica, território de origem, língua, religião, convicções políticas ou ideológicas e filiação sindical.
+
+19 de dezembro de 2024. - O Vice-Reitor, Prof. Doutor José Manuel Pereira Dias de Castro Lopes.
+
+318505028

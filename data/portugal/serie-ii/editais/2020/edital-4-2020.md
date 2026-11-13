@@ -1,0 +1,242 @@
+---
+schema_version: '1.0'
+id: pt:dre:127648399:por
+title: Edital n.º 4/2020
+short_title: null
+summary: Concurso de ingresso ao curso de pós-licenciatura de especialização em Enfermagem Médico-Cirúrgica para a Escola
+  Superior de Saúde do Instituto Politécnico de Viseu
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Instituto Politécnico de Viseu
+proposing_entity: null
+official_number: 4/2020
+official_date: null
+publication_date: '2020-01-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 1/2020, Série II de 2020-01-02
+  number: '1'
+  series: II
+  supplement: null
+  pages: 91 - 94
+  pdf_url: https://files.diariodarepublica.pt/2s/2020/01/001000000/0009100094.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '127648399'
+  dre_path: /dr/detalhe/edital/4-2020-127648399
+  internal: pt:dre:127648399:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/4-2020-127648399
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/4-2020-127648399
+  consolidated_url: null
+  retrieved_at: '2026-11-13T02:05:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 522d9af9e976f95b4f02be33c5f27b33e044dca973e3a47ccf919a6db2b516e9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T02:05:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:117575064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T02:05:59Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 4/2020
+
+Curso de pós-licenciatura de especialização em Enfermagem Médico-Cirúrgica 8.ª edição
+
+Nos termos do disposto do [Decreto-Lei n.º 42/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2005-606304) de 22 de fevereiro e no disposto nos artigos 17.º, 18.º e seguintes da Portaria 268/2002 de 13 de março conjugado com [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195), de 3 de setembro e Portaria n.º 316/2019 de 18 de setembro, faz-se público, sob proposta do Conselho Técnico Científico e após audição do júri nomeado pelo Presidente da ESSV, pelo [Despacho n.º 79/2019](https://diariodarepublica.pt/dr/detalhe/despacho/79-2019-117575064), de 21 de novembro, que está aberto concurso de ingresso ao curso de Pós-Licenciatura de Especialização em Enfermagem Médico-Cirúrgica, a iniciar no ano letivo 2019/2020 - 2.º Semestre, o qual se rege pelas seguintes disposições:
+
+I - O Instituto Politécnico de Viseu através da Escola Superior de Saúde confere o Diploma de Especialização em Enfermagem Médico-Cirúrgica, conducente ao Título Profissional de Enfermeiro Especialista em Enfermagem Médico-Cirúrgica, pela Ordem dos Enfermeiros.
+
+II - Podem candidatar-se ao CPLEEMC, os candidatos que satisfaçam cumulativamente as condições previstas no artigo 12.º da Portaria 268/2002 de 13 de março:
+
+Ser titular do grau de licenciado em Enfermagem, ou equivalente legal;
+
+Ser detentor do título profissional de enfermeiro;
+
+Ter pelo menos dois anos de experiência profissional como enfermeiro.
+
+1 - Formalização das candidaturas
+
+a) As candidaturas deverão ser formalizadas em requerimento segundo impresso próprio, disponível nos serviços académicos ou em http://www.essv.ipv.pt;
+
+b) As candidaturas poderão ser efetuadas por correio registado com aviso de receção, remetidas para os Serviços Académicos da Escola Superior de Saúde de Viseu, Rua D. João Crisóstomo Gomes de Almeida, n.º 102, 3500-843 Viseu, anexando ao processo cheque ou vale postal à ordem de: IPV - Escola Superior de Saúde de Viseu.
+
+Podem ainda ser formalizadas através da plataforma online - Portal do Candidato ou entregues presencialmente nos Serviços Académicos da ESSV. Não serão admitidas candidaturas submetidas via e-mail;
+
+c) As candidaturas estão sujeitas à tabela de taxas e emolumentos em vigor na Escola, nomeadamente a taxa de candidatura no valor de 20,00(euro).
+
+2 - Prazo de validade
+
+As candidaturas são válidas apenas para o ano letivo 2019/2020.
+
+3 - Processo de candidatura
+
+O requerimento de candidatura a fornecer pela Escola deverá ser acompanhado, sob pena de rejeição liminar, de fotocópia dos seguintes documentos, na presença dos respetivos originais:
+
+a) Boletim de candidatura, devidamente preenchido, salvo se candidatura através da plataforma on-line;
+
+b) Fotocópia do documento de identificação;
+
+c) Fotocópia do cartão de contribuinte fiscal (se aplicável);
+
+d) Fotocópia da certidão comprovativa da titularidade do grau de licenciado e enfermagem ou equivalente legal, indicando a respetiva classificação final;
+
+e) Fotocópia da cédula profissional ou certificado de inscrição na Ordem dos Enfermeiros, válidos;
+
+f) Certidão comprovativa do tempo de serviço e experiência profissional como enfermeiro;
+
+g) Curriculum académico e profissional (apresentado exclusivamente em modelo da ESSV).
+
+No caso de candidaturas remetidas por correio ou submetidas através da plataforma online, posteriormente poderão ser solicitados os respetivos originais.
+
+4 - Seleção e seriação
+
+A seleção e seriação de candidatos são da competência do júri nomeado, de acordo com os seguintes critérios:
+
+A. Formação académica e profissional;
+
+B. Experiência profissional;
+
+C. Frequência de cursos e ações de formação na área da especialidade;
+
+D. Atividades como formador;
+
+E. Publicações e comunicações de caráter científico;
+
+F. Outras atividades ou formações relevantes;
+
+G. Colaboração com a Escola Superior de Saúde de Viseu.
+
+Cada critério é classificado de zero a dez pontos e a classificação final é a resultante da aplicação da seguinte fórmula:
+
+CF = (A + B + C + D + E + F + G + 10)/7
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/01/001000000/0009100094.pdf)
+
+São critérios de desempate:
+
+1) Maior classificação do grau de licenciado.
+
+2) Precedência do registo da candidatura.
+
+Da decisão de seleção não cabe recurso, salvo se arguida de vício de forma, devendo ser apresentado ao Presidente da ESSV. Os documentos apresentados pelos candidatos não admitidos serão eliminados caso não sejam solicitados até 90 dias após o início do curso.
+
+5 - Calendário
+
+Período de candidatura - até 31.01.2020
+
+Publicação de resultados da seriação - até 04.02.2020
+
+Período de reclamações - até 05.02.2020
+
+Decisão das reclamações - até 07.02.2020
+
+Matrículas - de 10 a 14.02.2020
+
+Inicio do curso - na semana de 02 de março a 6 de março de 2020
+
+6 - Vagas
+
+O número de vagas colocadas a concurso para ingresso na Pós-Licenciatura de Especialização em Enfermagem Médico-Cirúrgica (CPLEEMC) é de 20, na edição do ano letivo 2019/2020.
+
+Findo os prazos indicados no ponto 5, e o número mínimo de matrículas não for atingido ou o número total de vagas não for preenchido, pode o Presidente por despacho, calendarizar uma 2.ª Fase de Candidaturas.
+
+7 - Reclamações
+
+a) Do resultado da seleção os candidatos poderão apresentar reclamação, devidamente fundamentada, no prazo fixado, dirigida ao Presidente da ESSV;
+
+b) As decisões sobre as reclamações são da competência do Presidente. Não há lugar a audiência de interessados, nos termos do disposto na alínea c) do n.º 1 do artigo 103.º do Código do Procedimento Administrativo;
+
+c) Serão liminarmente indeferidas as reclamações não fundamentadas ou as que forem apresentadas fora do prazo;
+
+d) Quando, na sequência da aceitação de uma reclamação, um candidato venha a ficar situado na lista ordenada em posição de colocado tem direito a colocação, mesmo que para tal seja necessário criar vaga adicional
+
+e) A retificação da colocação abrange apenas o candidato cuja reclamação foi deferida, não tendo qualquer efeito sobre os restantes candidatos.
+
+8 - Funcionamento do curso
+
+Caso o número de estudantes matriculados/inscritos seja inferior a 15, o mesmo poderá não funcionar. O curso funcionará na componente teórica nas instalações da ESSV concentrando-se as aulas prioritariamente em dois/três dias por semana (previsivelmente às segundas e terças-feiras). Na componente de estágio estão previstos em média 24 horas semanais e decorrerão em serviços de saúde a definir posteriormente pela ESSV, de acordo com as suas especificidades.
+
+9 - Matrícula, inscrições e propinas
+
+a) Os candidatos admitidos deverão proceder à matrícula e inscrição no período previsto;
+
+b) Os candidatos colocados que não formalizarem a matrícula e inscrição dentro do prazo previsto, ou que desistam antes do início das atividades letivas, serão substituídos pelos candidatos suplentes caso existam;
+
+c) Os candidatos que não formalizarem a matrícula e inscrição dentro do prazo previsto terão um prazo improrrogável de dois dias úteis, após a data da notificação, que será efetuada através de correio eletrónico, para procederem à sua matrícula e inscrição;
+
+d) Caso, depois de colocados todos os candidatos (efetivos e suplentes), subsistam vagas não preenchidas, o presidente pode aceitar requerimentos de candidatura de admissão à matrícula e inscrição, em qualquer momento do ano letivo, desde que o requerente reúna os requisitos de acesso previstos no presente edital e o presidente entenda existirem, ou poder criar, condições de integração no curso;
+
+e) São devidos os seguintes emolumentos:
+
+Taxa de matrícula: 50,00(euro)/ano letivo
+
+Seguro escolar: 4,36(euro)/ano letivo
+
+f) São devidos os seguintes valores de propina:
+
+Inscrição na 8.ª Edição do curso de Pós-licenciatura de Especialização em Enfermagem Médico-Cirúrgica: 960,00(euro)/ano letivo (podendo ser paga em mensalidades)
+
+ou
+
+Inscrição na 7.ª Edição do curso Mestrado de Enfermagem Médico-Cirúrgica e na 8.ª Edição do curso de Pós-licenciatura de Especialização em Enfermagem Médico-Cirúrgica, com início simultâneo: 1.090,00(euro)/ano letivo (podendo ser paga em mensalidades)
+
+g) No caso, do não funcionamento do curso, os candidatos matriculados serão ressarcidos de todos os montantes pagos a título de propinas e emolumentos referentes à candidatura, matrícula e inscrição.
+
+10 de dezembro de 2019. - O Presidente do Instituto Politécnico de Viseu, João Luís Monney de Sá Paiva.
+
+312842456

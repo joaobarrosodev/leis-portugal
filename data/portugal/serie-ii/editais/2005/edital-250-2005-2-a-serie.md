@@ -1,0 +1,215 @@
+---
+schema_version: '1.0'
+id: pt:dre:3185874:por
+title: Edital n.º 250/2005 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Instituto Politécnico da Saúde de Coimbra - Escola Superior de Tecnologia da Saúde de Coimbra
+proposing_entity: null
+official_number: 250/2005 (2.ª série)
+official_date: null
+publication_date: '2005-02-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 23/2005, Série II de 2005-02-02
+  number: '23'
+  series: II
+  supplement: null
+  pages: 1657 - 1658
+  pdf_url: https://files.diariodarepublica.pt/2s/2005/02/023000000/0165701658.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3185874'
+  dre_path: /dr/detalhe/edital/250-2005-3185874
+  internal: pt:dre:3185874:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/250-2005-3185874
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/250-2005-3185874
+  consolidated_url: null
+  retrieved_at: '2026-11-12T23:31:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 320e0afa1b530b293a799dc14c436dee0970bab6cb92dc51840cf5d556dec192
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T23:31:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:182227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T23:31:45Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 250/2005 (2.ª série)
+
+Edital n.º 250/2005 (2.ª série). - Lúcia Maria Simões Fernandes Costa, directora da Escola Superior de Tecnologia da Saúde de Coimbra, faz saber que:
+
+1 - Autorizado por seu despacho de 5 de Janeiro de 2005, no uso de competência própria, nos termos do artigo 11.º do [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), de 21 de Julho, conjugado com a alínea i) do artigo 23.º do [Decreto-Lei n.º 24/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1994-495503), de 27 de Janeiro, encontra-se aberto, pelo prazo de 30 dias consecutivos contados a partir da data da publicação do presente edital no Diário da República, concurso documental para recrutamento de um professor-adjunto do mapa de pessoal da Escola Superior de Tecnologia da Saúde de Coimbra na área científica de Fisioterapia, em conformidade com o artigo 6.º do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), de 23 de Dezembro, e os artigos 5.º, 7.º, n.º 1, 15.º, 16.º, n.º 1, 17.º, 20.º e 24.º do [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho, e o artigo 5.º do [Decreto-Lei n.º 192/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1985-182227), de 24 de Junho.
+
+2 - Nos termos da alínea b) do n.º 1 do artigo 16.º do [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho, é considerada como área científica afim a área de Biocinética do Desenvolvimento.
+
+3 - Em cumprimento da alínea h) do artigo 9.º da Constituição, a Administração Pública, enquanto entidade empregadora, promove activamente uma política de igualdade de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação.
+
+4 - Ao referido concurso podem candidatar-se os indivíduos que se encontrem nas condições exigidas pelo artigo 17.º do [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho, e que sejam detentores de mestrado na área científica para que é aberto o concurso.
+
+5 - O concurso é válido para o preenchimento da respectiva vaga, caducando com o seu preenchimento.
+
+6 - O conteúdo funcional é o descrito no n.º 4 do artigo 3.º do [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho.
+
+7 - As candidaturas deverão ser formalizadas através de requerimento dirigido à directora da Escola Superior de Tecnologia da Saúde de Coimbra, sita na Rua de 5 de Outubro, apartado 7006, 3046-854 Coimbra, dele constando os seguintes elementos:
+
+a) Nome completo;
+
+b) Filiação;
+
+c) Naturalidade;
+
+d) Data e localidade de nascimento;
+
+e) Número do bilhete de identidade, data e serviço emissor;
+
+f) Estado civil;
+
+g) Categoria profissional e cargo que actualmente ocupa;
+
+h) Residência e número de telefone;
+
+i) Habilitações académicas reconhecidas oficialmente e respectiva classificação final;
+
+j) Identificação do concurso a que se candidata e referência ao Diário da República em que foi publicado o presente edital;
+
+k) Situação militar (se for caso disso).
+
+8 - O requerimento deve ser acompanhado de:
+
+a) Fotocópia do bilhete de identidade;
+
+b) Certidão do registo criminal;
+
+c) Certidão narrativa completa de nascimento;
+
+d) Documento comprovativo dos deveres militares ou serviço cívico, quando obrigatórios;
+
+e) Documento comprovativo de que possui robustez física para o exercício das funções e de que cumpriu as leis da vacinação obrigatória;
+
+f) Documentos comprovativos das suas habilitações académicas donde conste a classificação final;
+
+g) Comprovativo de exercício das funções de docência nas ESTES;
+
+h) Quatro exemplares do curriculum vitae;
+
+i) Lista completa da documentação apresentada.
+
+8.1 - Os documentos referidos nas alíneas b), c), d) e e) poderão ser substituídos por declaração, sob compromisso de honra, em que o candidato indique a situação precisa em que se encontra relativamente a cada um dos requisitos que aqueles documentos se destinam a comprovar.
+
+8.2 - É dispensada aos funcionários e agentes da Escola Superior de Tecnologia da Saúde de Coimbra a apresentação dos documentos referidos nas alíneas a), b), c), d), e) e f) do n.º 8 do referido edital, desde que os mesmos constem dos respectivos processos individuais.
+
+9 - Critérios de selecção e ordenação das candidaturas:
+
+a) Posse do grau de mestre em Fisioterapia ou equivalente legal;
+
+b) Posse de formação de nível superior em Fisioterapia e grau de mestre em área científica afim;
+
+c) Mérito académico, profissional, científico e pedagógico, nomeadamente:
+
+Experiência de docência na formação pré-graduada em Fisioterapia;
+
+Outra experiência de docência na formação pré-graduada em Fisioterapia;
+
+Envolvimento em projectos científicos no âmbito da fisioterapia;
+
+Envolvimento em projectos de escolas superiores onde se ministrem cursos de fisioterapia;
+
+Experiência profissional em cuidados de fisioterapia.
+
+10 - As falsas declarações prestadas pelos candidatos estão sujeitas às punições previstas nos termos da lei.
+
+11 - O júri poderá exigir aos candidatos a apresentação dos documentos comprovativos das suas declarações.
+
+12 - O não cumprimento do estipulado no presente edital implica a exclusão liminar dos candidatos.
+
+13 - Das decisões proferidas pelo júri não cabe recurso, excepto quando arguidas de vício de forma, nos termos do artigo 29.º do [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho.
+
+14 - A admissão far-se-á por contrato administrativo de provimento ou em comissão de serviço extraordinária.
+
+15 - A apresentação de candidaturas pode ser feita directamente nos Serviços de Pessoal da Escola Superior de Tecnologia da Saúde de Coimbra ou enviadas por correio, sob registo, dirigidas para a Rua de 5 de Outubro, apartado 7006, 3046-854 Coimbra.
+
+16 - Após deliberação do conselho científico, foram designados para integrar o júri do concurso os seguintes elementos:
+
+Presidente - João António Neves Gil, professor-coordenador da Escola Superior de Tecnologia da Saúde de Coimbra.
+
+Vogais efectivos:
+
+Luís Manuel Neves da Silva Cavalheiro, professor-adjunto da Escola Superior de Tecnologia da Saúde de Coimbra.
+
+Anabela Correia Martins, professora-adjunta da Escola Superior de Tecnologia da Saúde de Coimbra.
+
+Vogais suplentes:
+
+Maria António Ferreira de Castro, professora-adjunta da Escola Superior de Tecnologia da Saúde de Coimbra.
+
+Maria Teresa Pena Escudeiro Oliveira Bastos, professora-adjunta da Escola Superior de Tecnologia da Saúde do Porto.
+
+O 1.º vogal efectivo substituirá o presidente nas suas faltas e impedimentos.
+
+18 de Janeiro de 2005. - A Directora, Lúcia Maria Simões F. Costa.

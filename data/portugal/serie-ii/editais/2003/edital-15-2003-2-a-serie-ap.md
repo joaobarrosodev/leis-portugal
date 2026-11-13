@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:3487926:por
+title: Edital n.º 15/2003 (2.ª série) - AP
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Câmara Municipal de Marco de Canaveses
+proposing_entity: null
+official_number: 15/2003 (2.ª série) - AP
+official_date: null
+publication_date: '2003-01-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 5/2003, Apêndice 4/2003, Série II de 2003-01-07
+  number: '5'
+  series: II
+  supplement: null
+  pages: 38 - 39
+  pdf_url: https://files.diariodarepublica.pt/2s/2003/01/005004000/0003800039.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3487926'
+  dre_path: /dr/detalhe/edital/15-2003-3487926
+  internal: pt:dre:3487926:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/15-2003-3487926
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/15-2003-3487926
+  consolidated_url: null
+  retrieved_at: '2026-11-13T00:05:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e61526830b7ac02509cdd9fb3fbd5863ba6acf79d4bd6e80e0bb838adac6959c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T00:05:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T00:05:19Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 15/2003 (2.ª série) - AP
+
+Edital n.º 15/2003 (2.ª série) - AP. - Em virtude de o edital desta Câmara Municipal de 23 de Outubro de 2001 referir a deliberação da Assembleia Municipal a que se reportava como tendo ocorrido em 17 de Outubro de 2001, por manifesto lapso, o presidente da Câmara Municipal faz publicar este novo edital. Assim:
+
+Nos termos do n.º 2 do artigo 49.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, faço público que a Assembleia Municipal de Marco de Canaveses, na sessão extraordinária de 17 de Outubro de 2001, aprovou a proposta da Câmara Municipal constante da sua deliberação de 8 de Outubro de 2001, do teor seguinte:
+
+"Ao abrigo do preceituado no artigo 59.º, n.os 2 e 3, do Regulamento do PDM, em conjugação com o disposto no artigo 97.º, n.os 1, alínea d), e 2, alínea c), do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, esclarecem-se as seguintes dúvidas que aquele Regulamento suscita:
+
+1.º A alteração da redacção do n.º 9) do artigo 13.º do Regulamento do PDM, operada pela deliberação da Assembleia Municipal de 18 de Dezembro de 1998, publicada no Diário da República, 2.ª série, n.º 115, de 18 de Maio de 1999, foi interpretativa da redacção anterior;
+
+2.º O conceito de cércea referido nos n.os 5, de cada um dos artigos 10.º, 11.º e 12.º do Regulamento do PDM do Marco é o conceito de cércea angular descrito no artigo 59.º do Regulamento Geral das Edificações Urbanas, aprovado pelo [Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de Agosto de 1951;
+
+3.º O conceito de cércea dominante do conjunto em que se insere, constante dos mesmos preceitos referidos no número anterior, traduz-se na maior das cérceas desse conjunto.
+
+Para constar se publica este edital e outros de igual teor, que vão ser afixados nos lugares de estilo.
+
+2 de Dezembro de 2002. - O Presidente da Câmara, Avelino Ferreira Torres.

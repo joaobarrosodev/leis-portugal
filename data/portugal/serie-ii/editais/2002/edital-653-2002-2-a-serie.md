@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:3039563:por
+title: Edital n.º 653/2002 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Instituto Politécnico de Setúbal
+proposing_entity: null
+official_number: 653/2002 (2.ª série)
+official_date: null
+publication_date: '2002-04-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 77/2002, Série II de 2002-04-02
+  number: '77'
+  series: II
+  supplement: null
+  pages: 5980 - 5980
+  pdf_url: https://files.diariodarepublica.pt/2s/2002/04/077000000/0598005980.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3039563'
+  dre_path: /dr/detalhe/edital/653-2002-3039563
+  internal: pt:dre:3039563:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/653-2002-3039563
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/653-2002-3039563
+  consolidated_url: null
+  retrieved_at: '2026-11-12T23:14:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e6e8ac15ad9f489505ca32eeb769f446e9f7b73e1afd18c0c90b28a6ab9eda7f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T23:14:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:138543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T23:14:01Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 653/2002 (2.ª série)
+
+Edital n.º 653/2002 (2.ª série). - 1 - Maria Cristina Corrêa Figueira, presidente do Instituto Politécnico de Setúbal, ao abrigo da alínea h) do n.º 1 do artigo 16.º dos Estatutos do Instituto Politécnico de Setúbal, homologados pelo [Despacho Normativo n.º 6/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-1995-138543), publicado no Diário da República, 1.ª série-B, n.º 29, de 3 de Fevereiro de 1995, faz saber que, nos termos do Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico ([Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho), se encontra aberto, pelo prazo de 30 dias úteis a partir da data da publicação do presente edital no Diário da República, concurso documental para recrutamento de um professor-adjunto para a Escola Superior de Saúde do Instituto Politécnico de Setúbal, para a área científica de Fisioterapia (Terapia Manual).
+
+2 - A este concurso são admitidos candidatos com mestrado, nos termos do disposto no artigo 5.º, no n.º 1 do artigo 7.º e no artigo 17.º do Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico.
+
+3 - A selecção dos candidatos terá em conta as habilitações académicas, o currículo científico e pedagógico e a experiência profissional, assim como o resultado de uma entrevista, se o júri o entender necessário.
+
+4 - Os candidatos devem apresentar um requerimento de admissão ao concurso dirigido à presidente do Instituto Politécnico de Setúbal, onde deverá constar o nome completo, a filiação, a naturalidade, a data e o local de nascimento, o estado civil, a residência actual, o número e a data do bilhete de identidade e o serviço de identificação que o emitiu, o grau académico e a respectiva classificação final, a categoria profissional e o cargo que ocupa.
+
+5 - Os candidatos devem instruir os requerimentos com os seguintes documentos:
+
+a) Certificado do registo criminal;
+
+b) Atestado de robustez física e psíquica ([Decreto-Lei n.º 319/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1999-423056), de 11 de Agosto);
+
+c) Documento comprovativo de terem sido cumpridas as leis de recrutamento militar;
+
+d) Fotocópia do certificado de habilitações literárias;
+
+e) Curriculum vitae pormenorizado, em triplicado, a que deverão juntar um exemplar de cada trabalho ou publicação nele referido.
+
+6 - É dispensada a apresentação dos documentos referidos nas alíneas a), b) e c) do número anterior, devendo, para tal, os candidatos declarar nos requerimentos, sob compromisso de honra, a situação precisa em que se encontram relativamente a cada um dos requisitos. Serão, no entanto, exigidos os referidos documentos ao candidato que venha a ser provido.
+
+6.1 - É igualmente dispensada a apresentação dos mesmos documentos aos candidatos com qualquer tipo de vínculo ao Instituto Politécnico de Setúbal, desde que se encontrem arquivados no processo individual.
+
+7 - Nos termos do disposto no despacho conjunto n.º 373/2000, de 1 de Março, publicado no Diário da República, 2.ª série, n.º 77, de 31 de Março de 2000, faz-se constar a seguinte menção: "Em cumprimento da alínea h) do artigo 9.º da Constituição, a Administração Pública, enquanto entidade empregadora, promove activamente uma política de igualdade de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação."
+
+8 - As candidaturas devem ser entregues ou remetidas pelo correio, através de carta registada com aviso de recepção, no ou para o Instituto Politécnico de Setúbal, Largo dos Defensores da República, 1, 2910-470 Setúbal.
+
+7 de Março de 2002. - A Presidente, Maria Cristina Corrêa Figueira.

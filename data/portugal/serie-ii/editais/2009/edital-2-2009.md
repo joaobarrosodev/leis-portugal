@@ -1,0 +1,150 @@
+---
+schema_version: '1.0'
+id: pt:dre:1626083:por
+title: Edital n.º 2/2009
+short_title: null
+summary: Concurso de provas públicas para professor-adjunto na área científica de Sistemas e Tecnologias da Informação para
+  a Escola Superior de Tecnologia deste Instituto
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Instituto Politécnico de Castelo Branco
+proposing_entity: null
+official_number: 2/2009
+official_date: null
+publication_date: '2009-01-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 2/2009, Série II de 2009-01-05
+  number: '2'
+  series: II
+  supplement: null
+  pages: 355 - 356
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/01/002000000/0035500356.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1626083'
+  dre_path: /dr/detalhe/edital/2-2009-1626083
+  internal: pt:dre:1626083:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/2-2009-1626083
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/2-2009-1626083
+  consolidated_url: null
+  retrieved_at: '2026-11-12T20:35:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 948c1bebb04c8862c726bbb7fef5ea9c19efc4465fadb4aa09b5cb7a8cd1567f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T20:35:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T20:35:27Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 2/2009
+
+1 - Em conformidade com os artigos 15.º e 16.º do [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho, e demais disposições legais em vigor, encontra-se aberto, pelo prazo de 30 dias seguidos a contar da data da publicação do presente edital no Diário da República, concurso de provas públicas para recrutamento de um professor-adjunto, da área Científica de Sistemas e Tecnologias de Informação, grupo de disciplinas de Multimédia e Interacção Homem-Máquina para a Escola Superior de Tecnologia, do Instituto Politécnico de Castelo Branco.
+
+2 - O concurso é válido apenas para o lugar mencionado, caducando com o seu preenchimento.
+
+3 - Ao concurso serão admitidos os candidatos habilitados com curso superior de Engenharia Informática ou afim, que se encontrem nas condições previstas no artigo 18.º do [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678) de 1 de Julho.
+
+4 - Nos termos do disposto no n.º 2 do artigo 16.º do [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678) de 1 de Julho, no âmbito da apreciação e discussão do curriculum vitae, poderão ser valorizados os seguintes elementos curriculares:
+
+Formação em Multimédia e ou interação Homem-Máquina ao nível de mestrado e ou doutoramento;
+
+Actividade científica nas áreas de Multimédia e ou interação Homem-Máquina
+
+Experiência técnico-profissional nas áreas de Multimédia e ou interação Homem-Máquina;
+
+Experiência pedagógica, no ensino superior, na leccionação de disciplinas das áreas de Multimédia e ou interação Homem-Máquina
+
+5 - Do requerimento de admissão ao concurso, dirigido ao Presidente do Instituto Politécnico de Castelo Branco, deverão constar os seguintes elementos: nome completo, filiação, naturalidade, data de nascimento, estado civil, residência actual, número de telefone, número e a data do bilhete de identidade e serviço de identificação que o emitiu, grau académico e respectiva classificação final, a categoria profissional e cargo que actualmente ocupa.
+
+6 - Os candidatos deverão fazer acompanhar o requerimento dos seguintes documentos:
+
+a) Fotocópia do bilhete de identidade;
+
+b) Certificado do registo criminal;
+
+c) Atestado médico comprovativo da robustez física e perfil psíquico para o exercício de funções públicas;
+
+d) Documento comprovativo de terem satisfeito a Lei do Serviço Militar, se for caso disso;
+
+e) Documentos comprovativos de estarem nas condições exigidas no presente edital;
+
+f) Cinco exemplares do curriculum vitae, detalhado e actualizado, bem como de quaisquer documentos que comprovem as habilitações científicas, as publicações ou que facilitem a formação de um juízo sobre aptidões dos candidatos para o exercício do cargo a concurso;
+
+g) Cinco exemplares do estudo a que se refere a alínea b) do n.º 1 do artigo 25.º do [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho.
+
+6.1 - É dispensada a apresentação dos documentos referidos nas alíneas b), c) e d) do número anterior aos candidatos que declarem no respectivo requerimento, em alíneas separadas, sob compromisso de honra, a situação em que se encontram relativamente ao conteúdo de cada uma daquelas alíneas.
+
+6.2 - O currículo vitae deverá pôr em evidência o equilíbrio entre as competências pedagógica e científica dos candidatos e a sua adequação à docência no Ensino Superior, traduzida na experiência docente na área científica, ou afim, para a qual foi aberto o concurso.
+
+7 - O não cumprimento do estipulado no presente edital implica a exclusão dos candidatos.
+
+8 - Os processos de candidatura deverão ser entregues pessoalmente ou remetidos pelo correio, registado, com aviso de recepção, para o Instituto Politécnico de Castelo Branco, Av. Pedro Álvares Cabral, n.º 12, 6000-084 Castelo Branco, atendendo-se, neste último caso, à data do registo.
+
+9 - Em cumprimento da alínea h) do artigo 9.º da Constituição, a Administração Pública, enquanto entidade empregadora, promove activamente uma política de igualdade de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação.
+
+10 - O júri do concurso terá a constituição que a seguir se refere:
+
+Presidente - Armando Lopes Ramalho, Professor-adjunto, Director da Escola Superior de Tecnologia do Instituto Politécnico de Castelo Branco
+
+Vogais efectivos:
+
+Arnaldo Joaquim Castro Abrantes, Professor-coordenador do Departamento de Engenharia Electrotécnica e Telecomunicações e de Computadores do Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa;
+
+Arminda da Conceição dos Santos Guerra e Lopes, Professora-coordenadora do Departamento de Engenharia das Tecnologias da Informação da Escola Superior de Tecnologia do Instituto Politécnico de Castelo Branco
+
+Pedro Miguel Torres Mendo Jorge, Professor-adjunto do Departamento de Engenharia Electrotécnica e Telecomunicações e de Computadores do Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa;
+
+Vogais suplentes:
+
+José Carlos Meireles Monteiro Metrôlho, Professor-adjunto do Departamento de Engenharia Informática da Escola Superior de Tecnologia do Instituto Politécnico de Castelo Banco.
+
+16 de Dezembro de 2008. - A Presidente, Ana Maria Baptista Oliveira Dias Malva Vaz.

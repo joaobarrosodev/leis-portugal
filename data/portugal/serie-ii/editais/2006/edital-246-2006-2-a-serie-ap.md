@@ -1,0 +1,461 @@
+---
+schema_version: '1.0'
+id: pt:dre:1296578:por
+title: Edital n.º 246/2006 (2.ª série) - AP
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Câmara Municipal de Santa Marta de Penaguião
+proposing_entity: null
+official_number: 246/2006 (2.ª série) - AP
+official_date: null
+publication_date: '2006-05-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 96/2006, Apêndice 45/2006, Série II de 2006-05-18
+  number: '96'
+  series: II
+  supplement: null
+  pages: 108 - 111
+  pdf_url: https://files.diariodarepublica.pt/2s/2006/05/096045000/0010800111.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1296578'
+  dre_path: /dr/detalhe/edital/246-2006-1296578
+  internal: pt:dre:1296578:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/246-2006-1296578
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/246-2006-1296578
+  consolidated_url: null
+  retrieved_at: '2026-11-12T20:02:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7c22051185ef226d1f011382dbbd8bc014e0ff52fe756e82c7d11b73eb7ca77f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T20:02:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+article_structure:
+  article_count: 32
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T20:02:26Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 246/2006 (2.ª série) - AP
+
+Edital n.º 246/2006 (2.ª série) - AP. - Francisco José Guedes Ribeiro, presidente da Câmara Municipal de Santa Marta de Penaguião, faz público, nos termos da alínea v) do n.º 1 do artigo 68.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, e ao abrigo do n.º 3 do artigo 57.º da mesma lei, que o executivo municipal, em reunião ordinária realizada em 3 de Abril de 2006, aprovou, por unanimidade, o projecto de regulamento para a concessão de apoios a agregados familiares desfavorecidos do concelho de Santa Marta de Penaguião, e decidiu submetê-lo a audiência e apreciação pública, nos termos dos artigos 117.º e 118.º do Código do Procedimento Administrativo.
+
+Os interessados devem dirigir por escrito as suas sugestões ao órgão com competência regulamentar, dentro do prazo de 30 dias contados da data da publicação do projecto de regulamento.
+
+Para constar e produzir efeitos legais se publica este e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+
+6 de Abril de 2006. - O Presidente da Câmara, Francisco José Guedes Ribeiro.
+
+Nota justificativa
+
+Considerando que o nosso Regulamento para a Concessão de Apoios a Estratos Sociais Desfavorecidos comporta algumas lacunas que só com o decorrer do tempo foram emergindo e que naturalmente urge colmatar;
+
+Considerando ainda a necessidade de uniformizar critérios para a concessão de apoios aos agregados familiares mais desfavorecidos do concelho, bem como actualizar os montantes de apoio a conceder e os procedimentos a adoptar quer na instrução quer na selecção e decisão final:
+
+Propõe-se que a Câmara Municipal, ao abrigo do disposto na alínea c) do n.º 4 do artigo 64.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, aprove o presente projecto de regulamento a fim de ser submetido a discussão pública, nos termos dos artigos 117.º e 118.º do Código do Procedimento Administrativo.
+
+Proposta de regulamento para a concessão de apoios a agregados familiares desfavorecidos do concelho de Santa Marta de Penaguião.
+
+###### Artigo 1.º — Princípios
+
+O presente regulamento tem por objectivo a definição dos critérios de atribuição de apoios financeiros destinados à melhoria das con-
+
+dições de vida dos agregados familiares desfavorecidos do município de Santa Marta de Penaguião.
+
+###### Artigo 2.º — Condições de atribuição
+
+A atribuição de apoios a agregados familiares desfavorecidos depende da satisfação cumulativa das seguintes condições:
+
+a) Residência no concelho;
+
+b) Situação comprovada de carência económica;
+
+c) Fornecimento de todos os meios de prova que lhes sejam solicitados, com vista ao apuramento da situação económica dos membros do agregado familiar.
+
+###### Artigo 3.º — Agregado familiar
+
+Entende-se por agregado familiar o conjunto de pessoas ligadas entre si por um vínculo de parentesco, casamento ou outras situações assimiláveis, desde que vivam em economia comum.
+
+###### Artigo 4.º — Agregado familiar carenciado
+
+Entende-se por agregado familiar carenciado o conjunto de pessoas ligadas entre si por um vínculo de parentesco, casamento ou outras situações assimiláveis, desde que vivam em economia comum e cujo rendimento per capita não seja superior a 80% do salário mínimo nacional.
+
+###### Artigo 5.º — Tipo de apoios
+
+1 - Atribuição de auxílios económicos a estudantes economicamente mais carenciados - bolsas de estudo.
+
+2 - Atribuição de apoio aos agregados familiares carenciados, em condições habitacionais comprovadamente desfavoráveis.
+
+### CAPÍTULO I — Atribuição das bolsas de estudo
+
+###### Artigo 6.º — Destinatários
+
+A Câmara Municipal poderá conceder bolsas de estudo a alunos do ensino secundário (a partir do 9.º ano) e do ensino superior.
+
+###### Artigo 7.º — Natureza das bolsas
+
+As bolsas a atribuir nos termos do presente regulamento têm um carácter social e destinam-se prioritariamente a incentivar a continuação dos estudos aos alunos oriundos de famílias de menores recursos.
+
+###### Artigo 8.º — Montante e periodicidade
+
+1 - As bolsas de estudo serão de valor a fixar anualmente, por deliberação da Câmara Municipal.
+
+2 - O número de bolsas de estudo a atribuir será fixado anualmente por deliberação da Câmara Municipal.
+
+3 - As bolsas de estudo serão para o ano lectivo que o bolseiro frequenta e pagas de uma só vez.
+
+###### Artigo 9.º — Condições de acesso
+
+1 - Podem requerer a bolsa de estudo os estudantes que satisfaçam, cumulativamente, as seguintes condições:
+
+a) Ser de nacionalidade portuguesa;
+
+b) Ser residente do concelho;
+
+c) Frequência ou inscrição em estabelecimento de ensino secundário ou ensino superior público;
+
+d) Ter aproveitamento escolar no ano lectivo anterior, salvo se a reprovação for devida a motivos de força maior, devidamente comprovada, designadamente por doença prolongada;
+
+e) Não possuir habilitação equivalente àquela que pretende adquirir;
+
+f) Cada agregado familiar só poderá apresentar uma única candidatura por cada nível de ensino.
+
+###### Artigo 10.º — Instrução do processo de candidatura
+
+1 - O processo de candidatura decorre da seguinte forma:
+
+a) Divulgação das candidaturas para atribuição de bolsas de estudo realizada anualmente através de anúncio na imprensa local e de edital a afixar nos locais habituais;
+
+b) O anúncio de abertura do concurso deverá especificar as condições da sua atribuição, o tipo de documentos a apresentar, o local para entrega da candidatura e os prazos que deverão ser respeitados pelos interessados;
+
+c) Entrega do impresso de candidatura fornecido pela Câmara Municipal, devidamente preenchido e acompanhado dos documentos comprovativos das condições de acesso previstas no artigo seguinte, nos serviços competentes da Câmara Municipal, no período estabelecido para o efeito.
+
+2 - Prazo de reclamação:
+
+a) Aceitação de reclamações no prazo de 10 dias após a afixação da lista provisória;
+
+b) A divulgação da decisão final será afixada, de acordo com o disposto na alínea a) do n.º 1;
+
+c) Todos os candidatos serão informados, por escrito, da atribuição ou não da bolsa de estudo.
+
+###### Artigo 11.º — Formalização da candidatura
+
+1 - As candidaturas à concessão das bolsas de estudo serão formalizadas através do preenchimento de uma ficha individual de candidatura, a fornecer pelos serviços da Câmara Municipal, devendo ser complementada com os seguintes documentos:
+
+a) Fotocópia do bilhete de identidade;
+
+b) Fotocópia do número de identificação fiscal;
+
+c) Documento comprovativo de aproveitamento escolar do ano lectivo anterior, no qual conste a média final obtida ou o comprovativo da causa da reprovação, por motivos de força maior, se for o caso;
+
+d) Certificado de matrícula do ano lectivo a que se refere o pedido da bolsa;
+
+e) Declaração da junta de freguesia comprovativa da composição do agregado familiar;
+
+f) Fotocópia da declaração do IRS de todo o agregado familiar, acompanhada da fotocópia do recibo de vencimento, recibo de pensões, recibo de subsídio de desemprego, ou ainda declaração autenticada da entidade patronal referindo o montante salarial e trabalho desempenhado;
+
+g) Fotocópia do recibo de renda ou encargo com a habitação;
+
+h) Declaração de bens patrimoniais do agregado familiar passada pela repartição de finanças da área de residência.
+
+2 - A comissão de análise, se entender como conveniente, poderá solicitar quaisquer outros documentos adicionais, bem como quaisquer outras informações que possam obter junto de outros serviços.
+
+3 - Tem legitimidade para apresentar candidatura:
+
+a) O estudante, quando maior de 18 anos de idade;
+
+b) O encarregado de educação, quando o estudante for menor.
+
+4 - Os candidatos que não apresentarem os documentos previstos no presente artigo serão excluídos do concurso.
+
+###### Artigo 12.º — Processo de selecção
+
+1 - As candidaturas serão objecto de avaliação por parte de uma comissão de análise com a seguinte constituição:
+
+a) Presidente da Câmara Municipal;
+
+b) Vereador do pelouro da Acção Social e Solidariedade;
+
+c) Um representante do município no Conselho Municipal de Educação.
+
+2 - Na selecção dos candidatos, a comissão já referida utilizará obrigatoriamente os seguintes critérios, aos quais atribuirá uma pontuação, determinando o escalonamento dos candidatos:
+
+a) Situação sócio-económica (50 pontos);
+
+b) Melhor aproveitamento escolar (20 pontos);
+
+c) Maior distância do estabelecimento de ensino superior ou profissional que frequentem em relação ao local de residência do agregado familiar (5 pontos).
+
+3 - A situação sócio-económica será determinada por:
+
+a) Cálculo do rendimento per capita;
+
+b) Análise sócio-económica.
+
+3.1 - O cálculo do rendimento per capita é feito pela aplicação da seguinte fórmula:
+
+R = [RI - (H + S)] / N
+
+em que:
+
+R = rendimento per capita;
+
+RI = rendimento familiar anual bruto referente ao ano anterior da candidatura, determinado pela declaração de IRS ou por quaisquer outros elementos que a comissão de análise apure no decorrer do processo de candidatura;
+
+H = encargos fixos anuais com a habitação;
+
+S = encargos anuais com a saúde constantes na declaração de IRS;
+
+N = número de elementos do agregado familiar.
+
+4 - A comissão de análise poderá ainda completar a análise sócio-económica dos agregados familiares através de visitas domiciliárias e identificação de eventuais sinais exteriores de riqueza.
+
+5 - No caso de igualdade de pontuação terá preferência o candidato que tiver melhor classificação académica no ano lectivo anterior, sendo que, caso subsista a igualdade, será factor de preferência a maior distância do estabelecimento de ensino superior que frequentem em relação ao local de residência do agregado familiar.
+
+6 - Após a ordenação dos candidatos a comissão deverá proceder à audiência prévia dos mesmos, tendo em conta as eventuais reclamações e elaborará um relatório final, para efeitos de homologação pela Câmara Municipal.
+
+7 - Da lista nominativa dos candidatos e das bolsas de estudo atribuídas constará:
+
+1.º Nome completo;
+
+2.º Posição obtida;
+
+3.º Admitido ou excluído (com fundamento no presente regulamento).
+
+8 - A decisão final será publicitada nos termos do disposto da alínea a) do n.º 1 do artigo 10.º
+
+###### Artigo 13.º — Exclusão dos candidatos
+
+Serão excluídos todos os candidatos que:
+
+a) A avaliação da situação sócio-económica do agregado familiar não corresponda aos rendimentos declarados;
+
+b) Não preencham os requisitos exigidos no artigo 8.º do presente regulamento;
+
+c) Utilizem qualquer metodologia fraudulenta com vista à obtenção de benefícios.
+
+###### Artigo 14.º — Deveres dos bolseiros
+
+Constituem deveres dos bolseiros:
+
+a) Comunicar à Câmara Municipal todas as circunstâncias ocorridas posteriormente ao processo de candidatura, que tenham melhorado significativamente a sua situação económica, bem como a mudança de residência, ou ainda a mudança de curso.
+
+###### Artigo 15.º — Cessação do direito à bolsa
+
+1 - Constituem cessação imediata do direito à bolsa:
+
+a) A inexactidão e ou omissão das declarações prestadas à Câmara Municipal de Santa Marta de Penaguião pelo bolseiro ou pelo seu encarregado de educação;
+
+### CAPÍTULO II
+
+Atribuição de apoio aos agregados familiares carenciados em condições habitacionais comprovadamente desfavoráveis.
+
+###### Artigo 16.º — Âmbito
+
+O presente capítulo estabelece as regras de atribuição de apoio para a autoconstrução, reconstrução, conservação, beneficiação ou recuperação de habitação própria.
+
+###### Artigo 17.º — Natureza dos apoios
+
+Apoios económicos, nomeadamente:
+
+a) Reparação de telhados;
+
+b) Reparação e ou construção de instalações sanitárias;
+
+c) Apoio orientado noutros domínios, sempre relacionados com as condições de habitabilidade, em situações excepcionais, devidamente caracterizadas e justificadas.
+
+###### Artigo 18.º — Destinatários
+
+Podem candidatar-se ao apoio económico no âmbito deste regulamento os munícipes cujas habitações se encontrem em condição habitacional comprovadamente desfavorável ou degradada.
+
+###### Artigo 19.º — Condições de acesso
+
+1 - Têm acesso ao apoio previsto no presente regulamento os indivíduos e agregados familiares que cumulativamente preencham as seguintes condições:
+
+a) Idoso, pensionistas e agregados familiares com comprovada carência económica, cujo rendimento per capita não seja superior a 80% do salário mínimo nacional;
+
+b) Possuam residência fixa no concelho;
+
+c) Residam em permanência na habitação inscrita para o apoio;
+
+d) Não pode o candidato ou qualquer outro membro do agregado familiar ser proprietário de outros imóveis destinados à habitação, arrendatário ou titular de rendimentos prediais a qualquer título.
+
+2 - O cálculo do rendimento per capita é realizado nos termos do n.º 3.1 do artigo 12.º do presente regulamento.
+
+###### Artigo 20.º — Valor dos apoios
+
+1 - O valor dos apoios será calculado mediante a avaliação da situação habitacional e económica do agregado do requerente e não poderá ultrapassar os Euro 3000.
+
+2 - O valor do apoio atribuído assume a modalidade de apoio único e será entregue ao requerente quando a obra estiver concluída.
+
+###### Artigo 21.º — Formalização do pedido
+
+O pedido de apoio deverá ser formalizado por requerimento dirigido ao presidente da Câmara e entregue no Gabinete de Atendimento ao Munícipe da Câmara Municipal.
+
+###### Artigo 22.º — Instrução do pedido
+
+1 - O pedido de apoio, formalizado pelo requerimento, é instruído com os seguintes documentos:
+
+a) Fotocópias do bilhete de identidade e número de identificação fiscal de todos os elementos do agregado familiar;
+
+b) Fotocópia da declaração do IRS de todo o agregado familiar, acompanhada da fotocópia do recibo de vencimento, recibo de pensões, recibo de subsídio de desemprego, ou ainda declaração autenticada da entidade patronal referindo o montante salarial e trabalho desempenhado;
+
+c) Certidão de conservatória actualizada no que respeita à titularidade do imóvel em questão;
+
+d) Declaração da junta de freguesia a atestar a posse do imóvel e o número de anos em que o requerente reside no mesmo, caso este não esteja em nome do requerente;
+
+e) Declaração da junta de freguesia comprovativa da composição do agregado familiar;
+
+f) Quaisquer outros que se considere conveniente.
+
+2 - O simples facto de apresentação de um requerimento não confere qualquer direito ao requerente.
+
+###### Artigo 23.º — Prioridades da decisão
+
+1 - Serão prioritariamente decididos os processos que configurem situações urgentes, designadamente pela verificação de uma das seguintes condições:
+
+a) Os requerentes que sejam reformados ou idosos;
+
+b) Os requerentes que sejam portadores de deficiências ou integrem no seu agregado familiar indivíduos com patologias dessa natureza;
+
+c) Os requerentes cujas habitações se encontrem destituídas de equipamentos hígi-sanitários ou não reúnam quaisquer condições de salubridade.
+
+2 - Do estabelecimento das prioridades implica que:
+
+a) O deferimento dos apoios é efectuado por ordem da qualificação do grau de carência das habitações dos requerentes;
+
+b) Os apoios não são atribuídos por ordem cronológica de entrada nos serviços da autarquia.
+
+###### Artigo 24.º — Parecer
+
+1 - Será realizada uma visita domiciliária e elaborado um relatório social sobre a carência económica e habitacional do agregado familiar do requerente.
+
+2 - Após a realização da visita domiciliária, o requerente tem 10 dias para entregar na Câmara Municipal um orçamento onde conste o valor discriminado dos materiais e mão-de-obra da obra a realizar.
+
+3 - O processo, depois de integralmente instruído, será submetido à apreciação do executivo municipal que delibera sobre o apoio a atribuir.
+
+###### Artigo 25.º — Execução das obras
+
+1 - As obras devem ser iniciadas no prazo máximo de dois meses a contar da data de notificação da atribuição do apoio e ser concluídas no prazo máximo de seis meses após o início das mesmas, salvo em casos excepcionais e aceites pela Câmara Municipal.
+
+2 - Caso o requerente não compareça na Câmara Municipal num prazo máximo de 60 dias após a data de notificação da atribuição do apoio, o processo caduca automaticamente, sendo arquivado.
+
+###### Artigo 26.º — Fim das habitações
+
+As habitações cuja construção, reconstrução, beneficiação ou recuperação tenha sido financiada ao abrigo deste regulamento, destinam-se à habitação própria permanente dos proprietários e do respectivo agregado familiar.
+
+###### Artigo 27.º — Outros apoios
+
+Para além dos apoios referidos no presente regulamento, a Câmara Municipal pode ainda deliberar pontualmente sobre os seguintes tipos de apoio:
+
+a) Apoio e comparticipação nas deslocações de deficientes a consultas e exames complementares de diagnóstico do foro médico a realizar fora do concelho;
+
+b) Comparticipação nos encargos resultantes da frequência de deficientes em associações/instituições sediadas no distrito.
+
+###### Artigo 28.º — Situações excepcionais
+
+Nas situações pontuais de calamidade, resultantes de incêndio, temporal ou outros, a Câmara Municipal, através dos Serviços de Protecção Civil, articular-se-á com as entidades competentes no sentido de prestar o apoio necessário.
+
+###### Artigo 29.º — Omissões
+
+As omissões do presente regulamento serão supridas por deliberação da Câmara Municipal.
+
+###### Artigo 30.º — Revisão do regulamento
+
+Este regulamento será revisto sempre que seja necessário proceder por força de legislação de ordem superior ou por manifestar desadequação à nova realidade entretanto surgida.
+
+###### Artigo 31.º — Revogação
+
+A entrada em vigor do presente regulamento revoga todos os anteriores que o contrariam.
+
+###### Artigo 32.º — Entrada em vigor
+
+O presente regulamento entra em vigor 15 dias após a sua publicação no Diário da República.
+
+## ANEXO I — Mapa de classificação da ficha de candidatura para atribuição de bolsas de estudo
+
+Situação económica do agregado familiar:
+
+a) Rendimento per capita do agregado familiar:
+
+Inferior a Euro 192,95 - 25 pontos;
+
+De Euro 192,95 a Euro 289,43 - 15 pontos;
+
+De Euro 289,43 a Euro 385,90 - 10 pontos;
+
+De Euro 385,90 a Euro 450 - 5 pontos;
+
+Mais de Euro 450 - exclusão do candidato;
+
+b) Análise sócio-económica:
+
+Análise sócio-económica correspondente aos rendimentos declarados - 25 pontos;
+
+Análise sócio-económica não correspondente aos rendimentos declarados - exclusão do candidato;
+
+c) Aproveitamento escolar do concorrente:
+
+> 18 valores (Muito bom) - 20 pontos;
+
+De 18 valores a 14 valores (Bom) - 10 pontos;
+
+< 13 valores (Suficiente) - 5 pontos;
+
+d) Distância do estabelecimento de ensino em relação ao local de residência do agregado familiar:
+
+Até 100 km - 3 pontos;
+
+Mais de 100 km - 5 pontos.

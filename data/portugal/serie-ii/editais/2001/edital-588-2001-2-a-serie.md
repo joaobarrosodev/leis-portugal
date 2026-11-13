@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:2476371:por
+title: Edital n.º 588/2001 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Instituto Politécnico do Porto - Escola Superior de Música e das Artes do Espectáculo
+proposing_entity: null
+official_number: 588/2001 (2.ª série)
+official_date: null
+publication_date: '2001-08-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 197/2001, Série II de 2001-08-25
+  number: '197'
+  series: II
+  supplement: null
+  pages: 14526 - 14527
+  pdf_url: https://files.diariodarepublica.pt/2s/2001/08/197000000/1452614527.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2476371'
+  dre_path: /dr/detalhe/edital/588-2001-2476371
+  internal: pt:dre:2476371:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/588-2001-2476371
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/588-2001-2476371
+  consolidated_url: null
+  retrieved_at: '2026-11-12T22:03:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 86165bc3e84f4e524437edabcfd9e53367985c233c861a886200a267be89df1c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T22:03:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T22:03:35Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 588/2001 (2.ª série)
+
+Edital n.º 588/2001 (2.ª série). - Prazos aplicáveis ao concurso local de acesso - ano lectivo de 2001-2002 - cursos de Jazz e de Formação Musical. - Luís de Jesus Santos Soares, professor catedrático e presidente do Instituto Politécnico do Porto, faz saber que:
+
+1 - Os prazos relativos ao concurso local de acesso à 1.ª inscrição nos cursos da Escola Superior de Música e das Artes do Espectáculo - cursos de Jazz e de Formação Musical - são os constantes do anexo I.
+
+2 - Os prazos e as provas aplicam-se não só aos candidatos habilitados com o 12.º ano mas igualmente aos habilitados com cursos médios e superiores, bem como aos titulares das demais habilitações especiais, e ainda aos alunos que frequetam ou tenham frequentado outros cursos do ensino superior (mudança de curso).
+
+3 - Excepcionam-se do número anterior os candidatos que:
+
+a) Já tenham estado matriculados e inscritos no mesmo curso e na mesma escola e cuja matrícula caducou (reingresso);
+
+b) Tenham estado inscritos no mesmo curso noutra escola superior de música, quer a matrícula tenha ou não caducado (transferência).
+
+27 de Julho de 2001. - O Presidente, Luís J. S. Soares.
+
+## ANEXO I — Departamento de Música
+
+Cursos de Jazz e de Formação Musical
+
+Afixação do edital ... 1 de Agosto.
+
+Divulgação do conteúdo específico das provas ... 1 de Agosto.
+
+Nomeação do júri ... 3 de Setembro.
+
+Divulgação da constituição das provas ... 3 de Setembro.
+
+Afixação do horário de realização das provas ... 3 de Setembro.
+
+Candidaturas ... De 3 a 28 de Setembro.
+
+Envio dos processos à ESMAE pelos Serviços Académicos ... 4 de Outubro.
+
+Realização das provas ... De 8 a 12 de Outubro.
+
+Afixação dos resultados e envio das listas de selecção aos Serviços Académicos pela ESMAE ... 15 de Outubro.
+
+Reclamações ... De 15 a 17 de Outubro.
+
+Matrículas e inscrições ... De 15 a 17 de Outubro.
+
+Início das aulas ... 22 de Outubro.

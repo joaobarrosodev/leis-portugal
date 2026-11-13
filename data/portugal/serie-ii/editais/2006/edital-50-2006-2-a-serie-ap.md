@@ -1,0 +1,753 @@
+---
+schema_version: '1.0'
+id: pt:dre:3316510:por
+title: Edital n.º 50/2006 (2.ª série) - AP
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Câmara Municipal de Grândola
+proposing_entity: null
+official_number: 50/2006 (2.ª série) - AP
+official_date: null
+publication_date: '2006-01-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 21/2006, Apêndice 10/2006, Série II de 2006-01-30
+  number: '21'
+  series: II
+  supplement: null
+  pages: 9 - 16
+  pdf_url: https://files.diariodarepublica.pt/2s/2006/01/021010000/0000900016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3316510'
+  dre_path: /dr/detalhe/edital/50-2006-3316510
+  internal: pt:dre:3316510:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/50-2006-3316510
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/50-2006-3316510
+  consolidated_url: null
+  retrieved_at: '2026-11-12T23:47:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 753747bd2ee1c900c02e9b8bd777a657a2be7fafaa38036c2bfb23048564bb10
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T23:47:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+article_structure:
+  article_count: 43
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T23:47:05Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 50/2006 (2.ª série) - AP
+
+Edital n.º 50/2006 (2.ª série) - AP. - Carlos Vicente Morais Beato, presidente da Câmara Municipal de Grândola, faz público, nos termos das disposições conjugadas do artigo 91.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886) de 18 de Setembro, com a redacção que lhe foi dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, e artigos 117.º e 118.º do Código do Procedimento Administrativo e, ainda, na sequência da deliberação de Câmara de 22 de Dezembro de 2005, que se encontra em fase de apreciação pública, pelo prazo de 30 dias úteis a contar da data de publicação no Diário da República do presente edital, o projecto de regulamento de resíduos sólidos urbanos do concelho de Grândola, podendo qualquer interessado consultar os respectivos documentos na Divisão de Ambiente e Serviços Urbanos, sita na Rua das Figueiras Bravas, em Grândola, durante o horário normal de expediente, entre as 9 e as 16 horas.
+
+Qualquer interessado poderá apresentar sugestões, devendo estas ser formuladas por escrito e dirigidas ao presidente da Câmara Municipal de Grândola ou em livro disponível para o efeito no local acima referido.
+
+Para constar se lavrou o presente edital e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+
+6 de Janeiro de 2006. - O Presidente da Câmara, Carlos Beato.
+
+Projecto de regulamento de resíduos sólidos urbanos do município de Grândola
+
+Preâmbulo e nota justificativa
+
+A [Lei n.º 11/87](https://diariodarepublica.pt/dr/detalhe/lei/11-1987-666148), de 7 de Abril, Lei de Bases do Ambiente, estabelece o princípio de que os resíduos e efluentes devem ser recolhidos, armazenados, transportados, eliminados ou neutralizados de tal forma que não constituam perigo imediato ou potencial para a saúde humana nem causem prejuízo para o meio ambiente.
+
+A gestão dos resíduos sólidos urbanos produzidos na área do município de Grândola é da responsabilidade do respectivo município, nos termos da alínea a) do n.º 2 do artigo 6.º do [Decreto-Lei n.º 239/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1997-644295), de 9 de Setembro.
+
+Em resultado do desenvolvimento tecnológico, implementação das várias actividades económicas, evolução de hábitos de vida e aumento do consumo, são produzidas quantidades de resíduos sólidos que se não forem sujeitos a uma gestão adequada e controlada provocam a degradação do ambiente, da saúde e da qualidade de vida.
+
+A construção do aterro sanitário intermunicipal, sediado no concelho de Santiago do Cacém, para deposição final dos resíduos sólidos urbanos produzidos na área de intervenção da Associação de Municípios Alentejanos para a Gestão Regional do Ambiente (AMAGRA), permite que a gestão dos resíduos sólidos urbanos seja devidamente controlada.
+
+Considerando o disposto na alínea c) do n.º 2 do artigo 5.º e na alínea a) do n.º 2 do artigo 6.º do [Decreto-Lei n.º 239/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1997-644295), de 9 de Setembro, o município de Grândola, através do presente regulamento, pretende dar mais um passo decisivo na política de gestão dos resíduos sólidos no quadro da estratégia de protecção do ambiente e qualidade de vida de todos os cidadãos.
+
+Assim, o presente regulamento tem como legislação habilitante o disposto no artigo 241.º da Constituição da República Portuguesa, o [Decreto-Lei n.º 239/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1997-644295), de 9 de Setembro, a [Lei n.º 42/98](https://diariodarepublica.pt/dr/detalhe/lei/42-1998-435422), de 6 de Agosto, alterada pela [Lei n.º 94/2001](https://diariodarepublica.pt/dr/detalhe/lei/94-2001-516052), de 20 de Agosto, e na alínea a) do n.º 7 do artigo 64.º e na alínea a) do n.º 2 do artigo 53.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com a alteração introduzida pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504) de 11 de Janeiro.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Âmbito
+
+O presente regulamento estabelece as regras a que fica sujeita a gestão de resíduos sólidos urbanos (RSU) da área do município de Grândola.
+
+###### Artigo 2.º — Competências e responsabilidades
+
+1 - É da competência da Câmara Municipal de Grândola efectuar o planeamento e a gestão dos RSU produzidos na área do respectivo município.
+
+2 - A deposição dos resíduos sólidos é da responsabilidade dos respectivos produtores ou detentores.
+
+3 - A remoção, transporte, tratamento e destino final dos resíduos sólidos industriais produzidos na área do município de Grândola são da responsabilidade das respectivas unidades industriais produtoras ou detentoras.
+
+4 - A remoção, transporte e eliminação de resíduos sólidos clínicos e hospitalares produzidos na área do município de Grândola são da responsabilidade das respectivas unidades de saúde.
+
+5 - Os serviços e actividades atribuídos pelo presente regulamento à Câmara Municipal de Grândola poderão ser concessionados ou delegados, no todo ou em parte, a outra ou outras entidades, nos termos da legislação em vigor.
+
+### CAPÍTULO II — Tipos de resíduos sólidos
+
+###### Artigo 3.º — Definição de resíduos
+
+Nos termos do [Decreto-Lei n.º 239/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1997-644295), de 9 de Setembro, para efeitos do presente regulamento, entende-se por "resíduos" quaisquer substâncias ou objectos de que o detentor se desfaz ou tem intenção de se desfazer, ou obrigação de se desfazer, nomeadamente os previstos na lei, em conformidade com o Catálogo Europeu de Resíduos, aprovado por decisão da Comissão Europeia.
+
+###### Artigo 4.º — Resíduos sólidos urbanos (RSU)
+
+Para efeitos do presente regulamento, consideram-se resíduos sólidos urbanos (RSU) os seguintes resíduos:
+
+a) Resíduos urbanos - os resíduos domésticos ou outros resíduos semelhantes, em razão da sua natureza ou composição, nomeadamente os provenientes do sector de serviços ou de estabelecimentos comerciais ou industriais e de unidades prestadoras de cuidados de saúde, desde que, em qualquer dos casos, a produção diária não exceda 1100l por produtor;
+
+b) Resíduos domésticos - os produzidos nas habitações ou noutros locais que se assemelhem, designadamente os provenientes das actividades de preparação de alimentos e da limpeza normal desses locais, e, ainda, em termos gerais, quaisquer géneros alimentícios lançados na via pública;
+
+c) Resíduos domésticos volumosos - os resíduos domésticos cuja remoção não se torne possível pelos meios normais atendendo ao volume, forma ou dimensões que apresentam;
+
+d) Resíduos verdes - os resultantes da conservação e manutenção de jardins e outros espaços verdes particulares, tais como aparas, ramos, troncos ou folhas, desde que a produção diária não exceda 1100l por produtor;
+
+e) Resíduos de limpeza pública - os resultantes da limpeza pública de jardins, parques, vias, cemitérios e outros espaços públicos.
+
+###### Artigo 5.º — Resíduos sólidos especiais
+
+São considerados resíduos sólidos especiais e, portanto, excluídos do conceito e do regime de RSU previsto no presente regulamento os seguintes resíduos:
+
+a) Resíduos sólidos de grandes produtores comerciais - os resíduos sólidos que, embora apresentem características semelhantes aos definidos na alínea a) do artigo anterior, atinjam uma produção diária superior a 1100l por produtor;
+
+b) Resíduos sólidos industriais - os resíduos gerados em actividades industriais, bem como os que resultem das actividades de produção e distribuição de electricidade, gás e água, não incluídos na alínea c) do artigo 3.º do [Decreto-Lei n.º 239/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1997-644295), de 9 de Setembro;
+
+c) Resíduos sólidos tóxicos ou perigosos - os resíduos que se podem incluir na definição de resíduos tóxicos ou perigosos nos termos da alínea b) do artigo 3.º do [Decreto-Lei n.º 239/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1997-644295), de 9 de Setembro - anexo I do presente regulamento;
+
+d) Resíduos sólidos hospitalares - os provenientes de hospitais, centros de saúde, laboratórios, clínicas veterinárias ou outros estabelecimentos similares e que possam estar contaminados por quaisquer produtos biológicos, físicos ou químicos que constituam riscos para a saúde humana ou perigo para o ambiente - anexo II do presente regulamento;
+
+e) resíduos sólidos agrícolas - os resíduos gerados na explorações agrícolas, incluindo despojos de cadáveres de animais resultantes da actividade pecuária;
+
+f) Entulhos - resto de construções, caliças, pedras, escombros, terras e similares resultantes de obras públicas ou particulares;
+
+g) Resíduos sólidos radioactivos - os contaminados por substância radioactiva;
+
+h) Veículos automóveis e sucata - os que sejam considerados resíduos nos termos da legislação em vigor;
+
+i) Outros detritos - os produtos ou objectos que vierem a ser expressamente referidos pela Câmara Municipal através dos respectivos serviços, ouvida, quando se justifique, a autoridade sanitária competente;
+
+j) Monstros - os objectos volumosos não provenientes das habitações ou de locais semelhantes, nomeadamente carcaças de viaturas, que, pelo seu volume forma ou dimensões, não possam ser recolhidos pelos meios normais;
+
+l) Lamas e partículas - os resíduos que fazem parte de efluentes líquidos (lamas) ou das emissões para a atmosfera (partículas), que se encontrem sujeitos a legislação respeitante à poluição da água e do ar, respectivamente;
+
+m) Resíduos resultantes da prospecção, extracção, tratamento físico, armazenagem de recursos minerais, bem como da exploração de pedreiras;
+
+n) Resíduos provenientes de processos antipoluição.
+
+### CAPÍTULO III — Sistema de resíduos sólidos urbanos
+
+###### Artigo 6.º — Definição
+
+1 - Define-se o sistema de resíduos sólidos urbanos (SRSU) como o conjunto de obras de construção civil, equipamentos mecânicos e ou eléctricos, viaturas, recipientes e acessórios, recursos humanos, institucionais e financeiros e de estruturas de gestão destinado a assegurar, em condições de conforto, economia, eficiência, segurança e inocuidade, a deposição, recolha, transporte, valorização, tratamento e eliminação dos resíduos, sob quaisquer formas enunciadas no [Decreto-Lei n.º 239/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1997-644295), de 9 de Setembro.
+
+2 - Entende-se por gestão do sistema de resíduos sólidos urbanos o conjunto das actividades de carácter técnico, administrativo e financeiro necessárias à deposição, recolha, transporte, tratamento, valorização e eliminação dos resíduos, incluindo o planeamento e a fiscalização dessas operações, bem como a monitorização dos locais de destino final, depois de se proceder ao seu encerramento.
+
+###### Artigo 7.º — Instalações e operações técnicas
+
+O sistema de resíduos sólidos urbanos (SRSU) engloba as instalações e operações técnicas seguintes:
+
+I) Produção;
+
+II) Remoção:
+
+a) Deposição indiferenciada;
+
+b) Deposição selectiva;
+
+c) Recolha indiferenciada;
+
+d) Recolha selectiva;
+
+III) Transporte;
+
+IV) Armazenagem;
+
+V) Estação de transferência;
+
+VI) Central de triagem;
+
+VII) Valorização;
+
+VIII) Tratamento;
+
+IX) Eliminação.
+
+###### Artigo 8.º — Definições
+
+Para efeitos da gestão dos RSU, definem-se as instalações e operações referidas no artigo anterior:
+
+a) Produção - quaisquer actividades, ou qualquer acto, geradores de RSU;
+
+b) Remoção - a retirada dos RSU dos locais de produção mediante deposição, recolha e transporte, integrando ainda a limpeza pública;
+
+c) Transporte - a condução dos RSU, em viaturas próprias, desde os locais de deposição até ao tratamento e ou de destino final, com ou sem passagem por estações de transferência;
+
+d) Armazenagem - a deposição temporária de resíduos, controlada e por prazo não indeterminado, antes do seu tratamento, valorização ou eliminação;
+
+e) Estações de transferência - as instalações onde os resíduos são descarregados com o objectivo de os preparar para serem transportados para outro local de tratamento, valorização ou eliminação;
+
+f) Central de triagem - a instalação onde os resíduos são separados, mediante processos manuais ou mecânicos, em materiais constituintes destinados a valorização ou a outras operações de gestão;
+
+g) Valorização - as operações que permitem o reaproveitamento dos resíduos, englobando a reciclagem e a valorização energética;
+
+h) Tratamento - qualquer processo manual, mecânico ou físico, químico ou biológico, que altere as características dos resíduos de forma a reduzir o seu volume ou perigosidade e ou a facilitar a sua movimentação, valorização ou eliminação;
+
+i) Eliminação - a operação que vise dar o destino final adequado aos RSU, em condições que garantam o mínimo de prejuízos para a saúde pública e para o ambiente.
+
+### CAPÍTULO IV — Remoção de resíduos sólidos urbanos
+
+#### SECÇÃO I — Deposição e acondicionamento
+
+###### Artigo 9.º — Deposição e recolha
+
+1 - "Deposição" é a fase da remoção a que corresponde a colocação dos RSU nos recipientes ou contentores determinados pela Câmara Municipal de Grândola, a fim de serem recolhidos, compreendendo a deposição selectiva, que é a colocação de fracções de RSU, segundo a sua natureza, destinadas a valorização ou eliminação adequada, em recipientes ou locais com características específicas, indicados para o efeito.
+
+2 - "Recolha" é a fase da remoção que corresponde à transferência dos RSU dos recipientes de deposição, com ou sem inclusão destes, para as viaturas de transporte, compreendendo a recolha selectiva, que é a transferência de fracções seleccionadas de RSU, passíveis de valorização ou eliminação adequada e depositadas selectivamente.
+
+###### Artigo 10.º — Tipo de recipientes para deposição
+
+1 - Para efeitos de deposição dos RSU, serão utilizados pelos munícipes os seguintes recipientes, conforme os seus fins específicos e a sua disponibilidade:
+
+a) Recipientes herméticos, colocados nos edifícios ou na via pública, com capacidades de 60l a 360l;
+
+b) Contentores herméticos distribuídos na via e outros espaços públicos, nos locais de produção de RSU, das áreas do município servidas por recolha hermética, destinados a deposição desses resíduos, com capacidades de 800l a 1100l;
+
+c) Contentores herméticos enterrados e semienterrados na via ou outros espaços públicos, com capacidade de 1000l a 7000l, para deposição em profundidade;
+
+d) Outro equipamento de deposição, designadamente papeleiras, conforme o modelo aprovado, de capacidade variável, distribuído pelos locais de produção de RSU, destinado a deposição desses resíduos, em áreas específicas do município;
+
+e) Outro equipamento de utilização colectiva, de capacidade variável, colocado nas vias e outros espaços públicos, nomeadamente contentores de 2500l a 7500l para recolha dos resíduos verdes, entulhos de obras e objectos volumosos fora de uso.
+
+2 - São ainda de considerar, para efeitos de deposição selectiva:
+
+a) Ecopontos - baterias de contentores destinados a receberem fracções valorizáveis de RSU;
+
+b) Papelões - contentores destinados a receberem fracções valorizáveis de papel e cartão;
+
+c) Vidrões - contentores destinados a receber fracções valorizáveis de vidro;
+
+d) Embalões - contentores destinados a receber fracções valorizáveis de embalagens multimaterial.
+
+###### Artigo 11.º — Distribuição e colocação de contentores
+
+1 - Compete à Câmara Municipal de Grândola definir o tipo e local de instalação dos contentores na via pública, devendo nas zonas urbanas a sua colocação ser feita sempre que possível segundo as seguintes regras:
+
+a) Colocação em zonas pavimentadas e de fácil acesso para a circulação das viaturas de recolha;
+
+b) A densidade de colocação deve ser de pelo menos um contentor de 800l a 1100l por cada 20 fogos.
+
+2 - Os projectos de loteamento deverão, desde logo, prever os locais de colocação de equipamentos de deposição de RSU, calculados de forma a satisfazer as necessidades do loteamento, respeitando as regras do número anterior ou indicação específica dos respectivos serviços da Câmara Municipal.
+
+3 - Para a vistoria definitiva dos loteamentos, é condição necessária a certificação pela Câmara Municipal de que o equipamento previsto e instalado pelo promotor do loteamento está em conformidade com o projecto aprovado.
+
+4 - Nas zonas fora do perímetro urbano, os contentores serão localizados de forma a servir o maior número possível de munícipes, providenciando a Câmara Municipal de Grândola a colocação dos mesmos ao longo das vias de circulação.
+
+5 - Os recipientes colocados na via ou outros focais públicos são propriedade da Câmara Municipal de Grândola.
+
+6 - Os recipientes destinados à deposição de resíduos sólidos industriais ou de grandes produtores comerciais ou de serviços devem ser adquiridos pela respectiva entidade produtora, de acordo com os modelos aprovados pela Câmara Municipal, e por aquela mantidos, sendo vedada a tais produtores a utilização dos recipientes públicos camarários.
+
+###### Artigo 12.º — Acondicionamento e deposição
+
+1 - Os resíduos sólidos urbanos devem ser convenientemente acondicionados, permitindo a sua deposição adequada dentro dos contentores indicados no artigo 16.º, de forma a evitar o seu espalhamento na via pública.
+
+2 - Entende-se por deposição adequada de resíduos sólidos urbanos nos recipientes indicados no artigo 10.º a sua colocação em sacos, em condições de estanquicidade e higiene, acondicionados de forma a evitar qualquer insalubridade naqueles recipientes.
+
+3 - Após a deposição dos resíduos sólidos urbanos nas condições indicadas nos n.os 1 e 2, deverá proceder-se ao fecho dos contentores com a respectiva tampa.
+
+4 - Os produtores de RSU são responsáveis pela correcta deposição dos mesmos nos termos dos números anteriores.
+
+5 - Os responsáveis pela deposição dos resíduos sólidos urbanos devem reter nos locais de produção os sacos indicados no n.º 2 sempre que os contentores se encontrem com a capacidade esgotada.
+
+###### Artigo 13.º — Horário de deposição
+
+1 - A deposição de RSU nos recipientes da propriedade da Câmara Municipal só poderá ser efectuada entre as 19 e as 24 horas, excepto para as entidades cujo horário de funcionamento termina antes das 19 horas, desde que tal facto seja comunicado à Câmara Municipal.
+
+2 - A deposição selectiva não está sujeita a horário.
+
+###### Artigo 14.º — Responsabilidade do produtor ou detentor de resíduos
+
+1 - Compete ao produtor ou detentor de resíduos assegurar a sua gestão adequada, designadamente:
+
+a) Proceder às operações de armazenagem e deposição dos RSU em condições seguras e segundo as regras definidas no presente regulamento;
+
+b) Dar destino adequado aos resíduos industriais, resíduos hospitalares ou outro tipo que não possa ser integrado nos circuitos municipais de recolha.
+
+2 - Nos espaços ocupados por esplanadas e quiosques, os titulares da sua exploração devem colocar recipientes de lixo em número suficiente e distribuídos para fácil utilização, cabendo-lhe a obrigação de fazer diariamente a deposição dos RSU aí recolhidos.
+
+#### SECÇÃO II — Recolha e transporte dos resíduos sólidos urbanos
+
+###### Artigo 15.º — Recolha e transporte
+
+A recolha e transporte dos RSU é da competência da Câmara Municipal de Grândola, reservando-se a possibilidade de outras entidades virem a executar estes serviços por autorização, concessão ou acordo da Câmara Municipal.
+
+###### Artigo 16.º — Limpeza pública
+
+A limpeza pública compreende um conjunto de actividades, levadas a efeito pelos serviços municipais ou por outras entidades devidamente autorizadas por concessão ou acordo com a Câmara Municipal, com a finalidade de libertar de sujidades e resíduos as vias e outros espaços públicos, nomeadamente:
+
+a) Limpeza de arruamentos, passeios, praias e outros espaços públicos, incluindo a varredura, a limpeza de sarjetas, a lavagem de pavimentos, o corte de ervas e a limpeza de outras infra-estruturas e equipamentos de uso público municipal;
+
+b) Recolha de RSU contidos em papeleiras e outros recipientes com finalidades idênticas, colocados em espaços públicos.
+
+### CAPÍTULO V — Remoção dos resíduos sólidos especiais
+
+###### Artigo 17.º — Resíduos sólidos de grandes produtores
+
+Os produtores ou detentores de quaisquer resíduos equiparados a urbanos cuja produção diária exceda 1100 l são responsáveis por lhes dar destino adequado, devendo promover a sua recolha, armazenagem, transporte e eliminação ou utilização de tal forma que não ponham em perigo a saúde pública nem causem prejuízos ao ambiente, podendo no entanto acordar a prestação dos serviços referidos com a Câmara Municipal de Grândola ou com empresas a tal autorizadas.
+
+###### Artigo 18.º — Entulhos
+
+1 - Os empreiteiros ou promotores de obras ou trabalhos que produzam e causem entulhos são responsáveis pela sua deposição, recolha e transporte para o local de destino final adequado.
+
+2 - É expressamente proibido o vazamento e despejo de entulhos fora dos locais para tal destinados.
+
+###### Artigo 19.º — Recolha de resíduos sólidos domésticos volumosos
+
+1 - A recolha de resíduos sólidos domésticos volumosos é um serviço municipal destinado aos particulares que pretendam eliminar objectos domésticos de utilização nas suas habitações, não se aplicando à actividade industrial ou comercial.
+
+2 - São objecto de transporte de resíduos sólidos domésticos volumosos, mediante solicitação por escrito a apresentar nos serviços de atendimento geral da Câmara Municipal, para volumes superiores a 1100 l, ou através de linha telefónica específica, para volumes inferiores a 1100 l, os resíduos que pela sua natureza, volume e peso não podem ser removidos e transportados nos circuitos normais de recolha.
+
+3 - A recolha será gratuita para volumes até 1100 l, sendo passível a aplicação de tarifa para volumes superiores.
+
+4 - A remoção efectua-se em data e hora a acordar entre os respectivos serviços da Câmara Municipal e o munícipe.
+
+###### Artigo 20.º — Recolha de resíduos verdes urbanos
+
+1 - É proibido colocar nas vias públicas e outros espaços públicos resíduos verdes, definidos nos termos da alínea d) do artigo 4.º deste regulamento.
+
+2 - Em casos especiais e sempre que se justifique, os utentes interessados podem solicitar por escrito, em requerimento a apresentar nos serviços de atendimento geral da Câmara Municipal, para o caso de volumes superiores a 1100 l, ou através de linha telefónica específica, para volumes inferiores a 1100 l, o transporte de resíduos verdes pelos serviços específicos da autarquia.
+
+3 - A recolha será gratuita para volumes até 1100 l, sendo passível a aplicação de tarifa para volumes superiores.
+
+4 - A remoção efectua-se em data e hora a acordar entre os respectivos serviços da Câmara Municipal e o munícipe.
+
+5 - Compete aos utentes interessados acondicionar, em sacos ou atados, os resíduos verdes, sem dificultar a segurança da circulação de peões e ou veículos e segundo as instruções dadas pelos respectivos serviços da Câmara Municipal.
+
+6 - Nos casos de resíduos de grandes dimensões e peso elevado, o acondicionamento no veículo de recolha deverá ser acompanhado e apoiado pelos utentes interessados.
+
+7 - Os ramos de árvores não podem exceder 1 m de comprimento, e os troncos com diâmetro superior a 20 cm não podem exceder 50 cm de comprimento.
+
+8 - As empresas de jardinagem cujos resíduos sejam provenientes de limpezas de jardins e podas de árvores deverão, nestes casos, dar o destino final adequado aos seus resíduos, aplicando-se-lhes o regime do artigo 17.º deste regulamento.
+
+###### Artigo 21.º — Outros resíduos sólidos especiais
+
+A recolha, transporte, armazenagem, eliminação ou utilização dos resíduos sólidos especiais definidos no artigo 5.º do presente regulamento e não contemplados nas normas anteriores do presente capítulo são da exclusiva responsabilidade dos seus produtores ou detentores, os quais devem assumir integralmente os custos da sua gestão, bem como promover a sua recolha, acondicionamento e armazenagem no interior das suas instalações, e assegurar a sua eliminação ou valorização, tudo de modo que não sejam causados danos, ou perigo de danos, nem à saúde pública nem ao ambiente.
+
+### CAPÍTULO VI — Remoção selectiva e reciclagem
+
+###### Artigo 22.º — Recolha selectiva e reciclagem
+
+1 - A deposição selectiva de materiais para posterior reciclagem é efectuada pelos munícipes, utilizando, para o efeito, os recipientes afectos a esses materiais, que se encontrem em ecopontos.
+
+2 - Tratando-se de grandes quantidades de materiais passíveis de reciclagem, devem os produtores dirigir-se directamente, para a sua deposição, às estações de recepção e armazenamento ou às estações de transferência de RSU.
+
+### CAPÍTULO VII — Limpeza das áreas exteriores de estabelecimentos e estaleiros de obras
+
+###### Artigo 23.º — Áreas de ocupação comercial e confinantes
+
+1 - Os estabelecimentos comerciais devem proceder à limpeza diária das áreas confinantes aos mesmos e da sua zona de influência, bem como das áreas objecto de licenciamento para ocupação da via pública, removendo os resíduos provenientes da sua actividade.
+
+2 - Para efeitos deste regulamento, estabelece-se como área de influência de um estabelecimento comercial uma faixa de 2 m de zona pedonal a contar do perímetro da área de ocupação da via pública.
+
+3 - Os resíduos sólidos provenientes da limpeza da área anteriormente considerada devem ser depostos adequadamente nos recipientes para a deposição dos resíduos provenientes dos respectivos estabelecimentos.
+
+###### Artigo 24.º — Áreas confinantes com estaleiros
+
+É da responsabilidade dos promotores de obras a remoção de terras, entulhos e outros resíduos dos espaços exteriores confinantes com os estaleiros, nomeadamente dos acessos e canais de escoamento de águas pluviais, quando estes se encontrem parcial ou totalmente obstruídos pelo resultado da própria actividade.
+
+### CAPÍTULO VIII — Tratamento, valorização e destino final
+
+###### Artigo 25.º — Responsabilidade
+
+Cabe à Câmara Municipal de Grândola decidir o tratamento, valorização e destino final dos RSU, bem como de outros resíduos que, nos termos deste regulamento, sejam depostos no sistema municipal, com observância das normas de protecção da saúde e do ambiente.
+
+###### Artigo 26.º — Utilização do aterro sanitário
+
+A utilização do aterro sanitário intermunicipal por utilizadores particulares deve ser efectuada de acordo com as normas técnicas definidas em regulamento da entidade gestora do sistema.
+
+###### Artigo 27.º — Utilização de terrenos e instalações não licenciadas
+
+1 - É proibido depositar, armazenar ou eliminar resíduos sólidos em terrenos, locais ou instalações não licenciados para o efeito.
+
+2 - Os proprietários dos terrenos ou locais referidos no número anterior serão notificados para proceder à remoção dos resíduos sólidos indevidamente depositados.
+
+### CAPÍTULO IX — Tarifas, fiscalização e sanções
+
+#### SECÇÃO I — Tarifas
+
+###### Artigo 28.º — Designação
+
+Com vista à satisfação dos encargos relativos à remoção e tratamento de RSU na área do município de Grândola, é devida a tarifa adiante designada por tarifa de resíduos sólidos - nos termos constantes do artigo seguinte.
+
+###### Artigo 29.º — Tarifa de resíduos sólidos
+
+1 - As tarifas de resíduos sólidos são estabelecidas do seguinte modo:
+
+a) Para os consumidores domésticos, pessoas colectivas de utilidade pública e autarquias, através de cálculo resultante de uma constante sobre o salário mínimo mais elevado, adiante designado por SMIME, e em função dos escalões do consumo de água, sendo o valor da tarifa cobrado através da factura/recibo da água, de acordo com as tabelas I e II do anexo III do presente regulamento;
+
+b) Para os consumidores empresariais e serviços do Estado, utiliza-se a fórmula T=CF+CV, sendo que T é a tarifa a aplicar, CF a componente fixa, no valor de 0,001 x SMIME, e CV a componente variável que resulta de uma constante sobre o SMIME em função do grupo do Código de Actividade Económica (CAE) em que se insere a actividade, conforme o constante do anexo IV do presente regulamento, sendo o valor da tarifa cobrado através da factura/recibo da água;
+
+c) Para os resíduos sólidos domésticos volumosos e resíduos verdes, as tarifas são estabelecidas através de uma constante sobre o SMIME e em função do volume dos resíduos, de acordo com as tabelas III e IV do anexo III do presente regulamento, sendo a cobrança das tarifas aplicáveis a este tipo de resíduos efectuada no acto da requisição do serviço, nos respectivos serviços da Câmara Municipal.
+
+###### Artigo 30.º — Isenções
+
+1 - Ficam isentas do pagamento de todas as taxas e tarifas previstas no presente regulamento as instituições particulares de solidariedade social (IPSS) e as entidades equiparadas a IPSS.
+
+2 - Para efeitos de concessão das isenções indicadas no número anterior, devem as referidas entidades apresentar documentos comprovativos da sua qualidade de IPSS.
+
+###### Artigo 31.º — Actualização de códigos da actividade económica (CAE)
+
+1 - Os consumidores empresariais e serviços de Estado existentes no concelho à data da entrada em vigor do presente regulamento devem apresentar, no prazo máximo de um ano, nos respectivos serviços da Câmara Municipal, o código da actividade económica (CAE) em que se encontram inseridos, devidamente actualizado.
+
+2 - Os consumidores empresariais e serviços de Estado que venham a instalar-se no concelho devem comunicar o respectivo código da actividade económica (CAE) aquando da celebração do contrato de fornecimento de água e saneamento.
+
+3 - O não cumprimento dos números anteriores do presente artigo implica a utilização do coeficiente mais alto da tabela do anexo IV, no cálculo da fórmula da alínea b) do artigo 29.º do actual regulamento, até ser devidamente corrigido/fornecido o respectivo código da actividade económica (CAE).
+
+#### SECÇÃO II — Fiscalização e contra-ordenações
+
+###### Artigo 32.º — Fiscalização
+
+A fiscalização das disposições do presente regulamento compete aos Serviços de Fiscalização Municipal e à autoridade policial competente.
+
+###### Artigo 33.º — Proibições relativas à deposição dos resíduos sólidos
+
+É proibido:
+
+a) Despejar qualquer tipo de resíduos sólidos fora dos contentores a eles destinados;
+
+b) Utilizar outro tipo de recipientes não mencionado no artigo 10.º do presente regulamento para deposição de resíduos sólidos urbanos;
+
+c) A deposição de resíduos sólidos urbanos fora dos horários estabelecidos pela Câmara Municipal de Grândola;
+
+d) A deposição nos contentores destinados à recolha selectiva de quaisquer outros resíduos que não sejam aqueles a que os contentores referidos se destinam;
+
+e) Destruir ou danificar, total ou parcialmente, os contentores colocados pelos serviços da Câmara Municipal;
+
+f) Desviar dos seus lugares os contentores que se encontram na via pública;
+
+g) Lançar nos contentores de resíduos sólidos urbanos entulhos, pedras, terras, animais mortos, aparas de jardins ou objectos volumosos que devam ser objecto de recolha especial;
+
+h) Lançar nos contentores matérias incandescentes, produtos tóxicos ou perigosos, metais resultantes das respectivas indústrias e resíduos clínicos;
+
+i) Pintar e ou afixar propaganda ou publicidade nos contentores;
+
+j) Mexer no lixo colocado nos contentores, dispersá-lo na via pública ou retirá-lo, no todo ou em parte.
+
+###### Artigo 34.º — Interdições em geral
+
+É proibido:
+
+a) Fazer a remoção privada dos resíduos sólidos, excepto nos casos previstos neste regulamento;
+
+b) Abandonar na via pública móveis velhos, electrodomésticos fora de uso, caixas de embalagens, aparas de jardins ou outro tipo de resíduos que devam ser objecto de recolha especial;
+
+c) Abandonar na via pública viaturas em estado de degradação ou outro tipo de sucata;
+
+d) Abandonar em qualquer área do município resíduos tóxicos ou perigosos e resíduos clínicos, sendo os responsáveis notificados para procederem à respectiva remoção no prazo máximo de dois dias;
+
+e) O abandono de resíduos sólidos industriais em qualquer área do município, sendo os responsáveis notificados para procederem à respectiva remoção no prazo máximo de cinco dias;
+
+f) Colocar materiais de construção, nomeadamente areias e britas, na via pública em condições que prejudiquem o asseio das ruas e a drenagem das águas pluviais;
+
+g) Fazer vazadouros, montureiras ou lixeiras fora dos locais autorizados para o efeito;
+
+h) Fazer uso indevido das papeleiras, afixando-lhes propaganda, danificando-as ou colocando nas mesmas resíduos inadequados, nomeadamente sacos de lixo que devam ser recolhidos pelos veículos normais de recolha;
+
+i) Depositar nos contentores de entulhos outros tipos de resíduos;
+
+j) Por negligência, não providenciar à limpeza e desmatação regular da propriedade integrada em aglomerado urbano ou permitir que a mesma seja utilizada como depósito de resíduos;
+
+k) A utilização dos contentores de resíduos sólidos urbanos colocados na via pública para deposição de resíduos sólidos industriais ou clínicos e hospitalares;
+
+l) Efectuar queimadas de resíduos sólidos ou sucata a céu aberto.
+
+###### Artigo 35.º — Interdições e proibições nos espaços públicos
+
+Em todos os espaços públicos do município de Grândola não é permitido:
+
+a) Lançar para o chão resíduos sólidos, nomeadamente papéis, latas, vidros, restos de alimentos, pontas de cigarros e resíduos que provoquem a sujidade das ruas;
+
+b) Alimentar animais na via pública;
+
+c) Manter cães ou outros animais na via pública em desrespeito da legislação específica ou em situação de provocar sujidade devido aos seus excrementos;
+
+d) Proceder ao lançamento de papéis ou folhetos de publicidade e propaganda para o chão;
+
+e) Manter sujos os espaços ocupados por esplanadas e quiosques, sendo os titulares da sua exploração obrigados a colocar recipientes de lixo em número suficiente e distribuídos para fácil utilização pelos clientes e proceder à limpeza diária desses espaços;
+
+f) Escarrar, urinar ou defecar na via pública ou em outros espaços públicos;
+
+g) Deixar derramar na via pública quaisquer materiais que sejam transportados em viaturas;
+
+h) Limpar, reparar, lavar, pintar ou lubrificar veículos;
+
+i) Acender fogueiras nas zonas pavimentadas ou em espaços tratados, excepto nos casos devidamente autorizados pela Câmara Municipal de Grândola;
+
+j) Vazar águas provenientes de lavagens para a via pública;
+
+k) Lançar quaisquer detritos ou objectos nas sarjetas ou sumidoros.
+
+###### Artigo 36.º — Contra-ordenações e coimas
+
+Qualquer violação ao disposto no presente regulamento constitui contra-ordenação, punível com coima a fixar em processo competente, de acordo com as penalidades seguintes:
+
+1) Com coima de Euro 25 a Euro 74:
+
+a) As alíneas a), b), c) e d) do artigo 33.º;
+
+b) As alíneas a) e b) do artigo 35.º;
+
+2) Com coima de Euro 75 a Euro 174:
+
+a) As alíneas c) e f) do artigo 35.º;
+
+3) Com coima de Euro 175 a Euro 249:
+
+a) As alíneas f), i) e j) do artigo 33.º;
+
+b) A alínea h) do artigo 34.º;
+
+c) A alínea d) do artigo 35.º;
+
+4) Com coima de Euro 250:
+
+a) As alíneas e), g) e h) do artigo 33.º;
+
+b) As alíneas a), b) e j) do artigo 34.º;
+
+c) A alínea e) do artigo 35.º;
+
+5) Com coima de Euro 251 a Euro 2500:
+
+a) As alíneas c), d), e), f), g), i) e k) do artigo 34.º;
+
+b) As alíneas g), h), i), j) e k) do artigo 35.º
+
+###### Artigo 37.º — Pessoas colectivas e reincidências
+
+As coimas regulamentadas no presente regulamento elevam-se para o dobro no caso de pessoas colectivas e de reincidência nas infracções constantes dos artigos 33.º, 34.º e 35.º
+
+###### Artigo 38.º — Tentativa e negligência
+
+A tentativa e a negligência são sempre puníveis nos termos gerais.
+
+###### Artigo 39.º — Sanções acessórias
+
+Às contra-ordenações previstas nos números anteriores podem, em simultâneo com a coima e nos termos da lei geral, ser aplicadas as seguintes sanções acessórias:
+
+a) Perda, a favor da Câmara Municipal de Grândola, dos objectos pertencentes ao agente e utilizados na prática da infracção, quando for caso disso;
+
+b) Privação, até dois anos, do direito de participar em concursos públicos que tenham por objecto a concessão de serviços públicos e a atribuição de licenças ou alvarás;
+
+c) Encerramento, até dois anos, de estabelecimento sujeito a autorização ou licença camarária;
+
+d) Suspensão, até dois anos, de autorizações, licenças e alvarás.
+
+###### Artigo 40.º — Produtores e detentores de resíduos sólidos especiais
+
+1 - Os produtores e detentores de resíduos sólidos especiais, previstos no artigo 6.º do presente regulamento, são responsáveis pelo destino final desses resíduos, em conformidade com o disposto no n.º 1 do artigo 6.º do [Decreto-Lei n.º 239/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1997-644295), de 9 de Setembro.
+
+2 - As infracções ao regime previsto no número anterior constituem contra-ordenações puníveis nos termos dos artigo 20.º e 21.º do mesmo diploma legal.
+
+### CAPÍTULO X — Disposições finais
+
+###### Artigo 41.º — Omissões do regulamento
+
+Os casos omissos no presente regulamento serão regulados pela legislação vigente.
+
+###### Artigo 42.º — Norma revogatória
+
+Ficam revogadas todas as posturas e regulamentos anteriores que disponham em sentido contrário ao presente regulamento.
+
+###### Artigo 43.º — Entrada em vigor
+
+O presente regulamento entra em vigor 30 dias após a sua publicação na 2.ª série do Diário da República, depois da respectiva aprovação pela Assembleia Municipal, podendo o mesmo ser consultado no sítio da Internet da Câmara Municipal - www.cm-grandola.pt - ou no Serviço de Atendimento Geral, onde poderá ainda ser adquirido mediante pagamento da quantia correspondente ao seu custo.
+
+## ANEXO I — Listagem de resíduos tóxicos ou perigosos
+
+1 - Arsénio e compostos de arsénio.
+
+2 - Mercúrio e compostos de mercúrio.
+
+3 - Cádmio e compostos de cádmio.
+
+4 - Tálio e compostos de tálio.
+
+5 - Berílio e compostos de berílio.
+
+6 - Compostos de crómio hexavalente.
+
+7 - Chumbo e compostos de chumbo.
+
+8 - Antimónio e compostos de antimónio.
+
+9 - Cianetos orgânicos e inorgânicos.
+
+10 - Fenóis e compostos fenólicos.
+
+11 - Isocianetos.
+
+12 - Compostos organo-halogenados, com exclusão de substâncias polimerizadas inertes.
+
+13 - Solventes clorados.
+
+14 - Solventes orgânicos.
+
+15 - Biocidas e substâncias fitofarmacêuticas.
+
+16 - Produtos à base de alcatrão, provenientes de operações de refinação e resíduos provenientes da operação de destilação.
+
+17 - Compostos farmacêuticos.
+
+18 - Peróxidos, cloratos, percioratos e azotetos.
+
+19 - Éteres.
+
+20 - Substâncias químicas de laboratório não identificadas e ou novas cujos efeitos sobre o ambiente sejam desconhecidos.
+
+21 - Amianto (poeiras e fibras).
+
+22 - Selénio e compostos de selénio.
+
+23 - Telúrio e compostos de telúrio.
+
+24 - Compostos aromáticos policiclicos (de efeitos cancerígenos).
+
+25 - Compostos solúveis de cobre.
+
+26 - Carbonilos de metais.
+
+27 - Substâncias ácidas ou básicas utilizadas nos tratamentos de superfície dos metais.
+
+28 - Todas as que contarem na legislação aprovada e em vigor.
+
+## ANEXO II — Listagem de tipos de resíduos hospitalares
+
+1 - Anatómicos - fetos; placentas; peças anatómicas; material de biopsia.
+
+2 - Ortopédicos - material de próteses retiradas de doentes; talas; gessos.
+
+3 - Bacteriológicos - pipetas; meios de cultura; sangue infectado; todos os resíduos de enfermarias de infecto-contagiosos e de hemodialisados; de unidades de cuidados intensivos; de blocos operatórios e de salas de tratamentos; material de laboratório; cadáveres de animais.
+
+4 - Material de utilização - pensos; ligaduras; luvas; máscaras.
+
+5 - Químicos - reagentes de laboratório.
+
+6 - Material radioactivo.
+
+7 - Farmacêutico - medicamentos fora de prazo ou não utilizados.
+
+## ANEXO III — Tabelas de tarifas de resíduos sólidos
+
+Escalões ... Limites de consumo mensal de água (metros cúbicos) ... Tarifa de resíduos sólidos a aplicar
+
+Tabela I - Consumidores domésticos
+
+1.º ... 0 a 5 ... 0,0096 SMIME
+
+2.º ... 0 a 15 ... 0,012 SMIME
+
+3.º ... 0 a 25 ... 0,013 SMIME
+
+4.º ... 0 a 50 ... 0,014 SMIME
+
+5.º ... 0 a>50 ... 0,015 SMIME
+
+Tabela II - Pessoas colectivas de utilidade pública e autarquia
+
+Único .. - ... 0,0096 SMIME
+
+Volumes ... Tarifa a aplicar
+
+Tabela III - Resíduos sólidos domésticos volumosos
+
+<1100 L ... Recolha gratuita.
+
+>1100 L ... 0,20 SMIME por cada 250 l acima dos 1100 l.
+
+Tabela IV - Resíduos verdes
+
+<1100 L ... Recolha gratuita.
+
+>1100 L ... 0,20 SMIME por cada 250 l acima dos 1100 l.
+
+Consumidores empresariais e serviços do Estado
+
+Fórmula a aplicar:
+
+T=CF+CV
+
+sendo:
+
+T - tarifa a aplicar;
+
+CF - componente fixa no valor de 0,030 SMIME;
+
+CV - componente variável que resulta de uma constante sobre o SMIME em função do grupo CAE em que a actividade se insere.
+
+Tabela dos grupos CAE e constante sobre o SMIME
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/01/021010000/0000900016.pdf)

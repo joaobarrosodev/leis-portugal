@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:2409039:por
+title: Edital n.º 705/2000 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Ministério da Saúde - Departamento de Recursos Humanos da Saúde - Escola Superior de Enfermagem de São João
+proposing_entity: null
+official_number: 705/2000 (2.ª série)
+official_date: null
+publication_date: '2000-10-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 231/2000, Série II de 2000-10-06
+  number: '231'
+  series: II
+  supplement: null
+  pages: 16228 - 16228
+  pdf_url: https://files.diariodarepublica.pt/2s/2000/10/231000000/1622816228.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2409039'
+  dre_path: /dr/detalhe/edital/705-2000-2409039
+  internal: pt:dre:2409039:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/705-2000-2409039
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/705-2000-2409039
+  consolidated_url: null
+  retrieved_at: '2026-11-12T21:56:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 066183897b31bce926b25ee6aeaaad300e3af59cbb0bd3625f03e26b7716de78
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T21:56:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:274641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T21:56:05Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 705/2000 (2.ª série)
+
+Edital n.º 705/2000 (2.ª série). - 1 - Em conformidade com o [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho, e demais disposições legais em vigor, torna-se público que, por despacho de 18 de Setembro de 2000 da presidente do conselho directivo da Escola Superior de Enfermagem de São João, sob proposta do conselho científico, se encontra aberto, pelo prazo de 30 dias a contar da data da publicação do presente edital no Diário da República, concurso documental para recrutamento de dois professores-adjuntos da carreira do ensino superior politécnico do quadro de pessoal docente desta Escola.
+
+2 - O concurso é aberto para as áreas científicas de Ciências de Enfermagem.
+
+3 - Ao presente concurso serão admitidos os candidatos que se encontrem nas condições previstas no artigo 17.º do [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho.
+
+4 - O concurso é válido apenas para os lugares mencionados.
+
+5 - Conteúdo funcional - o descrito no n.º 4 do artigo 3.º do [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho.
+
+6 - Do requerimento de admissão ao concurso, dirigido à directora da Escola Superior de Enfermagem de São João, Rua do Dr. António Bernardino de Almeida, 4200-072 Porto, deverão constar os seguintes elementos:
+
+a) Nome completo;
+
+b) Filiação;
+
+c) Data e localidade de nascimento;
+
+d) Estado civil;
+
+e) Número e data do bilhete de identidade e serviço de identificação que o emitiu;
+
+f) Residência, código postal e telefone;
+
+g) Classificação final da licenciatura;
+
+h) Categoria profissional e cargo que ocupa.
+
+6.1 - As candidaturas devem ser entregues ou remetidas pelo correio, com aviso de recepção, expedido até ao termo do prazo fixado, para a Escola Superior de Enfermagem de São João, Rua do Dr. António Bernardino de Almeida, 4200-072 Porto.
+
+7 - Os candidatos deverão instruir o seu processo de candidatura com os seguintes documentos:
+
+a) Certidão de nascimento;
+
+b) Certificado de habilitações literárias;
+
+c) Bilhete de identidade ou pública-forma;
+
+d) Certidão do registo criminal;
+
+e) Atestado e certificado referidos no artigo 4.º do [Decreto-Lei n.º 48359](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48359-1968-274641), de 27 de Abril de 1968;
+
+f) Documento comprovativo de ter satisfeito a Lei do Serviço Militar, se for caso disso;
+
+g) Três exemplares do curriculum vitae detalhado e quaisquer documentos que facilitem a formação de um juízo sobre as aptidões dos candidatos para o exercício do cargo a concurso.
+
+7.1 - É dispensada a apresentação dos documentos referidos nas alíneas a), c), d), e) e f) do número anterior aos candidatos que declararem no respectivo requerimento, em alíneas separadas, sob compromisso de honra, a situação precisa em que se encontram relativamente a cada uma das mesmas.
+
+7.2 - Aos candidatos que venham exercendo funções nesta Escola é dispensada a apresentação dos documentos referidos no n.º 7 assim como da declaração referida no número anterior, desde que constem do seu processo individual.
+
+8 - Critérios de selecção dos candidatos:
+
+a) Experiência pedagógica numa escola superior de enfermagem com, pelo menos, seis anos;
+
+b) Adequação do candidato ao projecto educativo da Escola Superior de Enfermagem de São João.
+
+9 - O não cumprimento do presente edital ou a entrega dos documentos fora de prazo implica a eliminação dos candidatos.
+
+10 - As falsas declarações serão punidas nos termos da lei penal.
+
+11 - O júri reserva a possibilidade de solicitar informações complementares, se tal considerar necessário.
+
+12 - Das decisões finais proferidas pelo júri não cabe recurso, excepto quando arguidas do vício de forma.
+
+13 - O júri do concurso terá a seguinte composição:
+
+Presidente - Maria Fernanda Neves Cardoso Pereira, vice-presidente do conselho directivo da Escola Superior de Enfermagem de São João.
+
+Vogais:
+
+Ana Paula Santos Jesus Marques França, professora-adjunta da Escola Superior de Enfermagem de São João.
+
+Maria Cândida Morato Pires Koch, professora-adjunta da Escola Superior de Enfermagem de São João.
+
+Alzira Teresa Vieira Martins Ferreira dos Santos, professora-adjunta da Escola Superior de Enfermagem de São João.
+
+19 de Setembro de 2000. - A Presidente do Conselho Directivo, Maria Celeste da Silva Gomes Marques.

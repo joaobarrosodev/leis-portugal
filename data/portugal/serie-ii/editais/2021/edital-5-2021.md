@@ -1,0 +1,1857 @@
+---
+schema_version: '1.0'
+id: pt:dre:152944754:por
+title: Edital n.º 5/2021
+short_title: null
+summary: Procede à publicação do Edital da Capitania do Porto de Cascais
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Defesa Nacional - Autoridade Marítima Nacional - Direção-Geral da Autoridade Marítima
+proposing_entity: null
+official_number: 5/2021
+official_date: null
+publication_date: '2021-01-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 2/2021, Série II de 2021-01-05
+  number: '2'
+  series: II
+  supplement: null
+  pages: 21 - 59
+  pdf_url: https://files.diariodarepublica.pt/2s/2021/01/002000000/0002100059.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '152944754'
+  dre_path: /dr/detalhe/edital/5-2021-152944754
+  internal: pt:dre:152944754:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/5-2021-152944754
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/5-2021-152944754
+  consolidated_url: null
+  retrieved_at: '2026-11-13T02:26:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 18ab32d41fe0bb70da2dc4a7a2180ea5e70377096f47bc87ba5132df36e028cb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T02:26:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: celex:32006L0007
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116547927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116950304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117128623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123737290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125865390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134308456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2774592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3000132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3525401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70086390:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T02:26:39Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 5/2021
+
+Paulo Sérgio Gomes Agostinho, Capitão-de-Fragata e Capitão do Porto de Cascais, no uso das competências que lhe são conferidas pela alínea g), do n.º 4, do artigo 13.º do [Decreto-Lei n.º 44/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2002-251979), de 2 de março, conjugadas com o disposto na Regra 1 alínea b) do Regulamento Internacional para Evitar Abalroamentos no Mar, aprovado pelo [Decreto-Lei n.º 55/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1978-446954), de 27 de junho, com as alterações introduzidas pelo Aviso publicado no Diário da República, 1.ª série, n.º 258, de 9 de novembro de 1983, e pelos Decretos-Leis n.os 45/90, de 20 de outubro, n.º 56/91, de 21 de setembro, n.º 27/2005, de 28 de dezembro, e n.º 1/2006, de 2 de janeiro, faz saber que:
+
+1) Este Edital aplica-se em todo o espaço de jurisdição da Capitania do Porto de Cascais.
+
+2) Sem prejuízo da legislação que regula as diferentes atividades, as infrações ao estabelecido no presente Edital, são passíveis de sancionamento contraordenacional, nos termos do estabelecido no [Decreto-Lei n.º 45/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2002-251982), de 2 de março, alterado pelos Decretos-Leis n.os 108/2004, de 27 de julho, n.º 263/2009, de 28 de setembro e n.º 52/2012, de 7 de março, se outro regime mais grave lhe não for aplicável.
+
+3) O presente Edital entra em vigor no dia seguinte à data da sua publicação e revoga, na mesma data, o [Edital n.º 651/2020](https://diariodarepublica.pt/dr/detalhe/edital/651-2020-134308456), publicado no Diário da República, 2.ª série, n.º 102, de 26 de maio de 2020.
+
+15 de dezembro de 2020. - O Capitão do Porto de Cascais, Paulo Sérgio Gomes Agostinho, Capitão-de-Fragata.
+
+### CAPÍTULO I — Disposições Gerais
+
+1) Área de jurisdição
+
+a) O espaço de jurisdição da Capitania do Porto de Cascais (CPCSC), ou Autoridade Marítima Local (AML), está delimitado: desde a ponta da foz do Rio Sisandro até à Torre de São Julião da Barra, exclusive, e engloba a Delegação Marítima da Ericeira (DME), cuja área de jurisdição se estende da ponta da foz do rio Sisandro até ao Forte de Santa Maria (Ribeira do Vale);
+
+b) Para efeitos de proteção ambiental no espaço de jurisdição da CPCSC aplicam-se as disposições constantes no Programa da Orla Costeira de Alcobaça - Cabo Espichel (POC-ACE), aprovado pela RCM n.º 66/2019, de 11 de abril, no Regulamento de Gestão das Praias Marítimas e do Domínio Hídrico do troço Alcobaça-Cabo Espichel, conforme no Aviso APA, IP Nr.º12492/2019, divulgado em Diário da República, 2.ª série n.º 129/19, de 6 de agosto (Parte C), a Lei da Água, aprovada pela [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, na sua redação atual, pelo Regime de Utilização dos Recursos Hídricos, aprovado pelo [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de maio, na sua redação atual, sem o prejuízo específico das competências de outras entidades, designadamente, da regulamentação específica existente para o Portinho da Ericeira ([Deliberação n.º 1574/2008](https://diariodarepublica.pt/dr/detalhe/deliberacao/1574-2008-3000132) do Instituto Portuário e dos Transportes Marítimos, I. P., de 16 de maio), e atento o Regulamento de Exploração e Utilização da Marina de Cascais (Despacho conjunto n.º 734/2001, do Secretário de Estado da Administração Marítima e Portuária);
+
+c) Para efeitos de gestão administrativa, são ainda considerados integrantes do espaço de jurisdição da CPCSC, as disposições constantes da Lei-quadro da transferência de competências para as autarquias, [Lei n.º 50/2018](https://diariodarepublica.pt/dr/detalhe/lei/50-2018-116068877), de 16 de agosto, complementada pelo [Decreto-Lei n.º 97/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2018-117128623), de 27 de novembro, no campo de aplicação definido para as praias identificadas por águas balneares, no âmbito da Diretiva 2006/7/CE, do Parlamento Europeu e do Conselho, de 15 de fevereiro de 2006, e da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro (na sua redação atual), considerando-se ainda que estas podem ser revistas/alteradas por portaria conjunta do Ministro da Defesa Nacional/Ministro do Ambiente e da Ação Climática (MDN/MAAC), anualmente;
+
+d) Para efeitos de gestão dos fundeadouros locais, deve ainda ser considerado ainda o Despacho do Chefe do Departamento Marítimo do Centro (CDMC) n.º 09/2019, de 6 de janeiro de 2020, quanto à gestão operacional do fundeadouro Sul;
+
+e) Para os efeitos do disposto no presente Edital e demais preceitos aplicáveis do [Decreto-Lei n.º 93/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2018-116950304), de 13 de novembro (Regulamento da Náutica de Recreio), consideram-se portos de abrigo, a que se refere a alínea 1) do artigo 2.º desse Regulamento, na área de jurisdição da Capitania do Porto de Cascais, os seguintes locais:
+
+(1) Baía de Cascais;
+
+(2) Portinho da Ericeira;
+
+(3) Porto dos Barcos da Assenta, nos meses de junho a setembro;
+
+2) Documentos náuticos
+
+a) As cartas náuticas (CN) que cobrem o espaço de jurisdição marítima da CPCSC, são as seguintes:
+
+INT 1; 24204 (INT 1816); 24203 (INT 1815); 26303 (INT 1875); 27504; 24P04 (Pescas); 25R06 (Recreio) e 25R07 (Recreio);
+
+b) Para além da cartografia náutica deve ser consultado o Roteiro da Costa de Portugal - Do Cabo Carvoeiro ao Cabo de São Vicente - Vol. II, que contém informação destinada aos navegantes com as indicações detalhadas e atualizadas necessárias ao planeamento de uma viagem e à condução da navegação, bem como as demais publicações náuticas editadas pelo Serviço Hidrográfico Nacional (Instituto Hidrográfico).
+
+3) Aspetos de navegação
+
+a) As orientações, informações e determinações constantes neste Edital não prejudicam a aplicação do Regulamento Internacional para Evitar Abalroamentos no Mar (RIEAM).
+
+b) As designações "navio" e "embarcação" são aplicadas indistintamente nestas orientações, informações e determinações, tendo ambas o significado de «todo o veículo aquático de qualquer natureza, incluindo os veículos sem imersão e os hidroaviões, utilizado ou suscetível de ser utilizado como meio de transporte sobre a água», conforme definição constante no RIEAM, na sua Regra 3 - Definições gerais.
+
+c) Todas as coordenadas geográficas indicadas neste Edital são referidas ao sistema geodésico WGS84 e os azimutes ao norte verdadeiro.
+
+4) Sinais de situação da barra e avisos de mau tempo
+
+a) O Capitão do Porto pode determinar o fecho, ou o condicionamento, da barra por imperativos decorrentes da alteração da ordem pública, com base em razões respeitantes às condições de tempo e mar.
+
+b) Sempre que surjam dúvidas sobre os avisos em vigor, relativos à situação da barra ou a outros que se relacionem com a segurança da navegação, devem ser contactados os serviços da CPCSC, o piquete do Comando Local da Polícia Marítima (CLPM), bem como consultado o endereço: http://anavnet.hidrografico.pt
+
+5) Acesso à orla costeira
+
+a) É interdito o acesso e circulação apeada ou com utilização de qualquer veículo ou meio de transporte em zonas do domínio público sinalizadas, para o efeito, sempre que promulgado aviso meteorológico laranja ou superior pelo Instituto Português do Mar e da Atmosfera, a que corresponda a situação de risco na agitação marítima.
+
+b) Por razões de segurança e de salvaguarda da vida humana, é proibida a transposição de barreira ou sinalética, colocada por entidade competente, nessas zonas de domínio público marítimo, área envolvente, ou demais áreas interditas.
+
+6) Comunicações em VHF
+
+a) O plano de comunicações em vigor no Porto de Cascais, e demais espaços de jurisdição da CPCSC, cumpre com o preceituado na [Portaria n.º 630/2002](https://diariodarepublica.pt/dr/detalhe/portaria/630-2002-146726), de 12 de junho, retificada pela Declaração de Retificação n.º 26-D/2002, de 31 de julho, que aprova o plano nacional de frequências em VHF (ondas métricas) para o serviço móvel marítimo.
+
+b) No Porto de Cascais, os navegantes devem, obrigatoriamente, manter escuta permanente no canal 13 - Segurança da navegação - e a possibilidade de utilização dos seguintes canais:
+
+i) Canal 09 - Navegação de recreio.
+
+ii) Canal 10 - Manobra de navios (operações de reboque).
+
+iii) Canal 11 - Comunicações com entidades oficiais.
+
+iv) Canal 12 - Chamada comum de porto.
+
+v) Canal 14 - Autoridade portuária (pilotagem).
+
+vi) Canal 16 - Socorro, urgência, segurança e chamada.
+
+7) Contactos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/01/002000000/0002100059.pdf)
+
+### CAPÍTULO II — Interior do porto e área marítima
+
+8) Poluição
+
+a) Qualquer ocorrência de poluição deve ser prontamente comunicada à CPCSC.
+
+b) Prevenção da poluição
+
+i) É proibida toda a descarga ou derrame de produto poluente suscetível de provocar alterações às características naturais do meio marinho, bem como toda a operação de imersão não autorizada, e ainda qualquer prática que introduza ou deposite, direta ou indiretamente, substância ou organismo que contribua para a degradação do ambiente e possa fazer perigar ou danificar bens jurídicos, nomeadamente:
+
+(1) Que produza danos nos recursos vivos e no sistema ecológico marinho.
+
+(2) Que cause prejuízo às outras atividades que nos termos da lei se desenvolvam no meio marinho.
+
+ii) Nos termos do que precede, é proibido o lançamento ou despejo nos espaços marítimos sob soberania ou jurisdição nacional de quaisquer substâncias nocivas ou residuais passíveis de poluir as águas e praias, bem como lançar à água detritos, incluindo peixe, destroços, objetos e outros materiais, tais como plásticos, redes, madeiras e embalagens provenientes de embarcações ou cais, que para além da poluição que geram possam contribuir para o decréscimo da segurança da navegação ou assoreamento do porto.
+
+iii) Sempre que as ocorrências envolvam agressões de grandes proporções ao meio marinho, das quais resultem a deterioração do estado aquático, danos para o ecossistema e sejam suscetíveis de criar perigo para a saúde pública, tal comportamento pode configurar o tipo penal, previsto e punido pelos artigos 278.º e 279.º do Código Penal, na sua redação atual.
+
+iv) Em caso de ilícito de contraordenação de poluição do meio marinho, para além da coima que venha a ser aplicada pela autoridade administrativa competente, são ainda devidos os pagamentos das despesas resultantes do combate à poluição, bem como das indemnizações a terceiros.
+
+c) Uso de dispersantes
+
+A fim de evitar a poluição indiscriminada por meios químicos de combate à poluição, que podem provocar formas ainda mais graves de poluição, devem ser observadas as seguintes disposições:
+
+i) O uso de dispersantes é interdito no interior do porto e em águas pouco profundas, por se constituir em fonte adicional de contaminação.
+
+ii) O uso de dispersantes no mar é analisado caso-a-caso e precedido de autorização das autoridades competentes.
+
+9) Dragagem e deposição de inertes
+
+a) A Agência Portuguesa do Ambiente é a autoridade nacional responsável por estabelecer os requisitos a que devem obedecer as operações de dragagem e de imersão dos materiais dragados, e emitir a respetiva licença de utilização dos recursos hídricos para dragagens e deposição de dragados.
+
+b) Em locais de jurisdição da Docapesca, compete à Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos (DGRM) as atribuições definidas no parágrafo anterior, acordo artigo 18.º, do Decreto-Lei 16/2014, de 3 de fevereiro.
+
+c) Compete ao Capitão do Porto emitir parecer sobre dragagens, promovendo as ações preventivas para salvaguarda da segurança da navegação, da proteção e conservação do domínio público marítimo e da defesa do património cultural subaquático.
+
+d) Toda a navegação deve dar o resguardo conveniente para que as operações decorram com segurança, devendo as embarcações de pesca manter a área onde ocorram tais operações desimpedida de quaisquer artes de pesca.
+
+e) O Capitão do Porto pode impor policiamento, a efetuar pela Polícia Marítima (PM), para acompanhar as operações de dragagem e fiscalizar o cumprimento do estabelecido.
+
+f) A entidade responsável pelas dragagens deve fornecer à CPCSC, até 48 horas antes do início dos trabalhos, a seguinte informação:
+
+i) As coordenadas geográficas das áreas a dragar (em WGS84 - graus, minutos e centésimos de minuto), para que seja promulgado o correspondente Aviso à Navegação Local;
+
+ii) Qual o tipo e características da sinalização colocada para delimitarem as áreas;
+
+iii) A identificação da draga e das embarcações de apoio;
+
+iv) O(s) nome(s) e o(s) contacto(s) do(s) responsável(eis) da empresa que acompanha os trabalhos.
+
+### CAPÍTULO III — Acesso, permanência e saída do porto
+
+10) Aspetos de segurança
+
+a) Na aproximação, entrada e saída da barra do Porto de Cascais, todos devem adotar os procedimentos de segurança adequados à plataforma, à visibilidade, ao estado da barra, às condições meteorológicas e de agitação marítima e à densidade do tráfego marítimo/fluvial.
+
+b) A entrada no porto de navios com água aberta, fogo a bordo, limitações nos sistemas de propulsão e governo ou suscetíveis de provocar acidentes ambientais, deve ser prontamente comunicado ao piquete do CLPM, pelo meio mais expedito. A entrada só é permitida após autorização do Capitão do Porto, que estabelece caso-a-caso as condições a observar.
+
+c) Depois de autorizado a praticar o porto, na sequência de relato de anomalia referido no ponto anterior, o comandante do navio, seu armador ou agente de navegação, requer à CPCSC a realização das vistorias que atestem a reposição das condições de segurança e navegabilidade e procede à entrega da documentação do navio ou embarcação, de modo a que possa ser emitido o despacho de largada.
+
+d) Devem ser ainda asseguradas as seguintes medidas, por forma a minimizar riscos, designadamente:
+
+i) Tomar conhecimento da previsão meteorológica;
+
+ii) Obter informação da Autoridade Marítima Local sobre a situação da barra;
+
+iii) Garantir que todos os equipamentos de navegação, comunicações, segurança, propulsão e governo se encontram em boas condições de funcionamento;
+
+iv) Determinar que os tripulantes enverguem os coletes de salvação e se despojem de botas de borracha de cano alto, ou qualquer outro equipamento ou vestuário que possa dificultar a flutuabilidade;
+
+v) Garantir que todo o material existente nos compartimentos funcionais e nos espaços habitacionais, bem como as artes e apetrechos de pesca, se encontram devidamente acondicionados e peados;
+
+vi) Garantir a estanqueidade do navio ou embarcação, mantendo as portas, escotilhas e vigias que dão para o exterior fechadas e desobstruídas;
+
+vii) Garantir que as portas, escotilhas, vigias, escadas, passagens e troncos de fuga se encontram assinalados e desobstruídos.
+
+11) Fundeadouros
+
+a) Os navios na situação de arribados ou que não tenham Cascais como porto de destino, só podem fundear com autorização expressa do Capitão do Porto e sempre sujeitos aos procedimentos normais de entrada e saída.
+
+b) Nos vários fundeadouros, os navios devem fundear por forma a não criar impedimentos ou dificuldades à navegação que entre ou saia do porto.
+
+c) Devem ser cumpridos os resguardos convenientes entre os navios fundeados para que, evitando possíveis abalroamentos, sejam aproveitados os espaços disponíveis para outros navios, na mesma área de fundeadouro.
+
+d) Os navios que transportem mercadorias perigosas ou poluentes e que, por qualquer razão, tenham de fundear, devem manter uma distância mínima de 550 m aos restantes navios, ou outra distância, se for aplicável uma restrição superior face ao tipo e quantidade de mercadoria transportada.
+
+e) Os navios fundeados não podem isolar a instalação propulsora e de governo, devendo manter-se prontos a operar. Em caso de indisponibilidade do aparelho propulsor e de governo do navio fundeado, deve ser disponibilizado um rebocador de potência e características apropriadas que garanta a manutenção da posição do navio em caso de emergência.
+
+f) Os navios que, por qualquer razão, se encontrem de quarentena ou a sua tripulação impedida de desembarcar, são fundeados em qualquer dos fundeadouros, desde que a sua localização satisfaça as exigências das autoridades competentes para o efeito.
+
+g) Os navios fundeados não devem efetuar deslocamentos de pesos que alterem profundamente o caimento e o adornamento normais, tendo em vista a estabilidade do navio e os esforços anormais que possam passar a exercer-se sobre os ferros e as amarras.
+
+h) Para além da proibição de fundear fora dos fundeadouros autorizados, é proibido fundear nas zonas de passagem de cabos submarinos.
+
+i) Em casos excecionais, a analisar caso-a-caso, pode ser autorizada ou determinada, pela CPCSC, a permanência de navios fora da área de fundeadouro.
+
+j) Na Baía de Cascais estão estabelecidos dois fundeadouros exteriores, encontrando-se os mesmos representados nas CN 26303 (INT 1875) e 27504, conforme imagem construída tendo por base a 9.ª edição da CN 26303.
+
+k) Os fundeadouros autorizados no Porto de Cascais encontram-se divididos nos seguintes quadros ou zonas (anexo 1):
+
+i) Fundeadouro Norte (navios de calado inferior a 5 metros) - compreendido entre os paralelos 38.º40.9N-38.º41.3N e os meridianos 009.º23.5W-009.º24.5W. Em regra, por questões de segurança, a utilização do fundeadouro norte não é autorizada, tendo em conta que o fundeadouro sul atende às necessidades;
+
+ii) Fundeadouro Sul (navios de calado superior a 5 metros) - apesar de compreendido no espaço de jurisdição da Capitania do Porto de Lisboa, a gestão operacional encontra-se na esfera da Capitania do Porto de Cascais, conforme Despacho CDMC n.º 09/2019, de 06 de janeiro de 2019 - Polígono definido pelos pontos: 38º39.60N-009º25.30W; 38º40.50N-009º25.30W; 38º40.50N-009º23.50W; 38º40.02N-009º23.50W; 38º40.02N-009º23.97W; 38º39.78N-009º23.97W; 38º39.78N-009º23.50W; 38º39.60N-009º23.50W.
+
+12) Pedidos de fundeadouro
+
+a) Os pedidos de fundeadouro devem ser elaborados de acordo com o modelo indicado em Anexo 2. A não inclusão dessa informação poderá ser motivo de indeferimento do pedido;
+
+b) A utilização dos fundeadouros está condicionada, por razões de segurança, no máximo, a 72 horas. Assim, eventuais pedidos de prorrogação implicam a obrigatoriedade de o navio suspender, sair do fundeadouro e, caso venha a ser autorizado, voltar a fundear, independentemente da existência de condições meteorológicas favoráveis;
+
+c) Os pedidos de fundeadouro Sul, devem ser efetuados, por correio eletrónico, pela Agência de Navegação representante do respetivo navio, dirigido ao Capitão do Porto de Cascais, com uma antecedência mínima de 4 horas;
+
+d) Os pedidos de fundeadouro Norte, devem ser efetuados, por correio eletrónico, pela Agência de Navegação representante do respetivo navio, dirigido ao Capitão do Porto de Cascais, com uma antecedência mínima de 4 horas;
+
+e) É obrigatória a discriminação da carga a bordo, nos pedidos de fundeadouro. Caso seja carga IMO, deve-se mencionar a respetiva categoria. Caso não seja carga IMO, deve ser descriminada a carga ou a não existência da mesma;
+
+f) No pedido de fundeadouro deverão constar eventuais situações anómalas que possam existir a bordo, tais como:
+
+i) Avarias;
+
+ii) Limitações do sistema de propulsão ou de governo;
+
+iii) Migrantes irregulares;
+
+iv) Doentes.
+
+13) Comunicações e aspetos de segurança
+
+a) As comunicações são efetuadas com a Polícia Marítima de Cascais, que mantém escuta em VHF - canal 16. Todo o navio fundeado deverá manter escuta permanente neste canal;
+
+b) Antes de ocupar o lugar no fundeadouro, o navio terá que se certificar da posição que poderá ocupar atentas as restrições do próprio fundeadouro, assinaladas na CN respetiva ou promulgadas em aviso à navegação, e de que, após fundear, não interferirá com os outros navios já fundeados, por escassez de distância de resguardo;
+
+c) Antes de suspender ou de fundear, o navio terá que comunicar à Polícia Marítima de Cascais, via VHF - canal 16, as suas intenções;
+
+d) Todo o navio fundeado deve manter a instalação propulsora e de governo com a prontidão adequada à situação em que se encontre e sempre disponíveis para fazerem face a alterações bruscas das condições meteorológicas ou da segurança da navegação;
+
+e) A prática dos fundeadouros exteriores da Baía de Cascais, fica interdita com condições de mar grosso (vaga superior a 2.5 metros) ou vento muito fresco (superior a Força 5 na escala de Beaufort), devendo o navio suspender caso essas condições se verifiquem. Paralelamente, atendendo às previsões meteorológica, estado do mar ou tempo presente, o navio poderá ser ordenado a abandonar o fundeadouro por ordem expressa do Capitão de Porto de Cascais.
+
+14) Pilotos
+
+O embarque e desembarque de Pilotos far-se-á por intermédio de embarcação de pilotos ou helicóptero, a Sul da Baía de Cascais, não podendo o navio ultrapassar batimétricas inferiores a 1,5 vezes o seu calado, cruzar o paralelo 38.º 41.3N, nem se aproximar a menos de 0,6 milhas náuticas da linha de costa. A aproximação do navio deve ser feita a velocidade reduzida e sem interferir com os navios fundeados.
+
+Quando os fundeadouros se encontrem interditos, todas as operações de pilotagem devem ser suspensas nos fundeadouros, por motivos de segurança.
+
+15) Visita de entrada
+
+a) À chegada ao Porto de Cascais, a AML, através da PM, efetua visita de entrada aos navios e embarcações que:
+
+i) Tenham avaria;
+
+ii) Pretendam efetuar trabalhos a bordo;
+
+iii) Arvorem bandeira de país não comunitário;
+
+iv) Transportem cargas ou substâncias perigosas;
+
+v) Arvorem bandeira de país comunitário, quando provenientes de porto de país não comunitário;
+
+vi) Pretendam aceder a águas territoriais e a águas interiores, aos que nelas pretendam fundear ou navegar em direção a um porto nacional e, ainda, àqueles sobre os quais exista algum tipo de suspeita quanto a avaria ou relativa à tripulação, carga, ou à prática de algum ilícito penal ou contraordenacional.
+
+b) Os navios ou embarcações que peçam arribada estão sempre sujeitos a visita de entrada.
+
+c) Sem prejuízo do anteriormente disposto, os navios de comércio nacionais e os que arvorem bandeira de país comunitário estão isentos de visita de entrada, desde que provenientes de porto nacional ou de porto de país comunitário.
+
+d) Os navios que tenham avarias ou que pretendam realizar trabalhos a bordo que coloquem em causa a segurança e a navegabilidade, estão ainda sujeitos a vistorias a realizar por perito da AML.
+
+16) Despacho de largada
+
+a) Os navios que tenham contacto com terra, que tenham sofrido danos, avaria ou trabalhos que possam afetar a segurança do navio, estarão sujeitos às formalidades de visita e de despacho de largada das autoridades, nos termos da legislação em vigor.
+
+b) O despacho de largada, emitido pela CPCSC, consiste num documento que atesta que um navio que larga do Porto de Cascais preenche todos os requisitos respeitantes a segurança, pessoas e bens embarcados e que cumpriu todas as formalidades necessárias e obrigações pecuniárias no espaço nacional, aplicável aos fundeadouros exteriores da Baía de Cascais, Norte e Sul;
+
+c) A documentação necessária para a emissão do despacho de largada é fornecida à Autoridade Marítima pelas autoridades aduaneira, sanitária e de estrangeiros e fronteiras, através do representante legal do navio, presencialmente ou via correio eletrónico, na CPCSC;
+
+d) Estão isentos de despacho de largada:
+
+i) Os navios das marinhas de guerra e outros navios de Estado;
+
+ii) Os navios e embarcações de tráfego local;
+
+iii) Os navios e embarcações de pesca, com exceção das embarcações de pesca do largo;
+
+iv) Os rebocadores e embarcações auxiliares, locais ou costeiros.
+
+e) Nenhum navio/embarcação pode largar do Porto de Cascais sem que tenha sido emitido o respetivo despacho de largada, salvo nas condições em que esteja isento.
+
+f) São vedadas quaisquer movimentações de carga ou de saída e entrada de pessoas a bordo a partir da notificação do despacho de largada ao comandante do navio ou ao seu representante legal.
+
+17) Visita de saída
+
+a) A largada de navios/embarcações do Porto de Cascais pode, por decisão fundamentada do Capitão do Porto, ser antecedida de uma visita de saída, a efetuar pela AML, através da PM.
+
+b) Caso ocorra visita de saída, o elemento da AML que a efetua, acompanhado ou não de perito, procede, após efetuar as últimas verificações, à entrega do despacho de largada ao comandante do navio.
+
+c) Quando se verificar alguma anomalia relativa ao navio, à carga ou às pessoas embarcadas, o elemento da AML informa o comandante do navio e as demais autoridades em razão da matéria.
+
+d) A suspensão da largada é confirmada pelo Capitão do Porto e não pode exceder o prazo de validade do despacho emitido, sob pena de caducidade e necessidade de emissão de novo despacho de largada.
+
+e) As autoridades referidas em c) devem desenvolver as atividades necessárias, no âmbito das suas competências, com vista à resolução e clarificação célere das anomalias e suspeitas verificadas.
+
+18) Acesso aos navios
+
+Os navios que se encontrem fundeados devem dispor de meios próprios que garantam o acesso de pessoal a bordo, com as necessárias condições de segurança, nomeadamente:
+
+a) Escada de portaló, dotada de balaustrada e corrimão;
+
+b) Rede de proteção, montada debaixo da escada, que cubra todo o seu vão, podendo ser dispensada quando o portaló disponha de sanefas contínuas;
+
+c) Iluminação adequada durante a noite.
+
+19) Pagamento dos serviços
+
+Os serviços que tenham que ser prestados, no âmbito das disposições do presente Edital, serão liquidados pelos interessados ou pelas respetivas Agências de Navegação, de acordo com o regime legal em vigor.
+
+20) Proibições
+
+a) Aos navios surtos nos fundeadouros exteriores de Cascais, é proibido:
+
+i) Realizar pinturas no costado;
+
+ii) Alijar para o mar produtos ou matérias suscetíveis de causar poluição;
+
+iii) Inertizar;
+
+iv) Efetuar trasfega de combustível;
+
+v) Efetuar transbordo de carga.
+
+b) Aos navios surtos nos fundeadouros exteriores de Cascais, sem a prévia autorização do Capitão do Porto, é proibido:
+
+i) Efetuar contacto físico com terra;
+
+ii) Suspender ou arrear embarcações;
+
+iii) Realizar exercícios de "Homem ao Mar" com ou sem utilização de embarcações auxiliares;
+
+iv) Efetuar reparações que impliquem a perda de capacidade propulsora ou de governo;
+
+v) Rocegar;
+
+vi) Deslastrar;
+
+vii) Estivar carga;
+
+viii) Mudar de lugar no fundeadouro.
+
+c) É interdita a pesca com redes e artes de pesca nas áreas dos fundeadouros, por motivos de segurança.
+
+21) Operações de bancas
+
+a) As operações de bancas poderão ser autorizadas no fundeadouro sul, nas seguintes condições, mediante a apresentação atempada (mínimo de 48 horas) de requerimento para análise, caso a caso, o qual deverá fazer referência a toda a informação relevante, nomeadamente:
+
+i) Identificação dos navios envolvidos;
+
+ii) Suas características;
+
+iii) Tipo e quantidade de combustível a transferir;
+
+iv) Duração estimada das operações de trasfega;
+
+v) Outra informação julgada pertinente.
+
+b) Escrupuloso cumprimento da legislação aplicável, nomeadamente da convenção MARPOL, do Plano Mar Limpo (RCM n.º 25/93, de 4 de fevereiro), do Regulamento Geral das Capitanias, deste Edital e de outra regulamentação aplicável;
+
+c) Existência de condições meteorológicas favoráveis (ondulação e vaga inferior a 1.25 m, vento inferior a 16 nós). O decurso das operações, em caso de agravamento das condições meteorológicas, poderá ser interrompido por determinação do Capitão do Porto, por razões de segurança;
+
+d) Imposição de policiamento, através de um agente da Polícia Marítima embarcado a bordo do navio reabastecedor, durante toda a operação;
+
+e) A Autoridade Marítima Local poderá recomendar a adoção de medidas particulares de segurança de acordo com o tipo e local do abastecimento;
+
+f) A empresa abastecedora deverá estar autorizada pelos organismos competentes para o transporte do tipo de produtos combustíveis a fornecer aos navios e possuir pessoal devidamente habilitado para a condução e operação dos equipamentos utilizados;
+
+g) Os equipamentos de transporte, bombagem e trasfega, bem como os flexíveis e dispositivos de corte e medição dos fluxos de fornecimento, deverão estar devidamente certificados por entidade competente, recomendando-se o cumprimento das respetivas normas nacionais e internacionais, no sentido de se prevenir eventuais falhas mecânicas e estruturais;
+
+h) A empresa abastecedora deve estar devidamente preparada, em procedimentos e equipamentos, para a contenção de um derrame de dimensão razoável para o seu tipo de operação, produto e capacidade. Para a obtenção desse desiderato, a empresa abastecedora deverá, com caráter obrigatório, manter no local ou disponibilizar no imediato, no mínimo, o seguinte material de combate à poluição:
+
+i) Previamente ao início da manobra de trasfega terá de estar instalado, no mínimo, o seguinte material:
+
+(1) Duas quarteladas de barreira (individuais), com sistema de acoplamento eficaz, adequadas para zona costeira, para serem acopladas à proa e a ré dos navios, antes do início da operação, com a função de se selar o espaço entre navios, no que toca a eventual derrame entre ambos;
+
+(2) O navio abastecedor deverá estar dotado com os procedimentos e equipamentos previstos no respetivo SOPEP (Ship Oil Pollution Emergency Plan);
+
+ii) Em terra, e no sentido de recuperar o hidrocarboneto uma vez ocorrido o derrame, deverá existir pronto a deslocar para a área acidentada:
+
+(1) Um recuperador, em bom estado de funcionamento, adequado ao tipo de hidrocarbonetos ou combustíveis utilizados;
+
+(2) Tanques para armazenamento do hidrocarboneto recolhido;
+
+(3) Material absorvente adicional (granulado, manta, barreira);
+
+(4) Um conjunto de barreiras de contenção, de montagem rápida;
+
+(5) No sentido de aumentar, de forma eficiente, a capacidade de resposta a um potencial derrame de hidrocarbonetos, deverá existir uma embarcação de apoio, localizada estrategicamente para, num prazo máximo de 60 minutos, poder deslocar para a área do incidente todo o material referido, transportar o pessoal para acompanhamento das operações e auxiliar na colocação de barreiras adicionais.
+
+iii) A empresa abastecedora deverá possuir seguro de responsabilidade civil suficiente para cobrir os eventuais riscos de poluição causada por deficiências ou acidentes na sua operação;
+
+iv) Deverá ser tempestivamente apresentada ao Órgão Local da Autoridade Marítima a lista de verificação de pré-embarque (Bunker Safety Check List) que inclua plano de carga e descarga assinada pelos responsáveis de ambos os navios;
+
+v) As manobras de ligação de flexíveis, início, interrupção ou fim de bombagem do combustível ou ainda de atracação da embarcação de abastecimento, quando aplicável, deverão ser previamente acordadas com o navio e comunicadas à Autoridade Marítima Local. Das horas destas manobras deverá ser mantido registo pela empresa fornecedora. Deverá igualmente ser elaborado registo das comunicações entre navios e, com periodicidade não superior a 30 minutos, dos seguintes parâmetros:
+
+(1) Pressão de bombagem;
+
+(2) Sondagens aos tanques.
+
+vi) Deverá ficar salvaguardado que a obrigatoriedade dos registos terá também de recair no navio a abastecer, visto também ser da sua responsabilidade o controlo da operação;
+
+vii) As defensas serão colocadas pelo navio abastecedor, devendo essas defensas ser adequadas para este tipo de operação (do tipo Yokohama);
+
+viii) Não são permitidas operações de lastro, deslastro ou trasfega interna de carga ou bancas, durante as manobras de atracação e desatracação;
+
+ix) Sempre que seja julgado conveniente pela AML, e antes de efetuada a ligação dos flexíveis, deverão ser colocadas barreiras flutuantes em redor dos dois navios. A responsabilidade de colocação deste equipamento é do armador do navio responsável pela operação de trasfega;
+
+x) A operação de trasfega pode ser interrompida, ou não chegar a ter início, se as medidas de segurança adequadas não forem cumpridas por qualquer dos navios;
+
+xi) Estas regras são aplicadas sem prejuízo de outras regulamentações ou recomendações de outras entidades ou autoridades nacionais e internacionais sobre esta matéria.
+
+22) Substâncias perigosas (transporte ou movimento)
+
+a) De acordo com o Código Internacional Marítimo das Mercadorias Perigosas (IMDG) da IMO, são consideradas cargas e substâncias perigosas, todas as especificadas nas classes 1 a 9.
+
+b) Pela sua maior perigosidade, recaem condições de segurança excecionais sobre os navios que transportem as seguintes cargas e/ou substâncias perigosas do Código IMDG:
+
+i) Classe 1 - Explosivos
+
+ii) Classe 2 - Gases comprimidos, liquefeitos ou dissolvidos sobre pressão
+
+iii) Classe 3 - Líquidos inflamáveis
+
+iv) Classe 4 - Sólidos inflamáveis
+
+v) Classe 5 - Substâncias oxidantes e peróxidos orgânicos
+
+vi) Classe 6 - Substâncias venenosas/tóxicas e infeciosas
+
+vii) Classe 7 - Substâncias radioativas
+
+viii) Classe 8 - Substâncias corrosivas
+
+ix) Classe 9 - Substâncias e artigos perigosos diversos
+
+c) São, igualmente, consideradas perigosas as cargas e/ou substâncias transportadas a bordo que estejam abrangidas pelos seguintes códigos e convenções:
+
+i) Código Internacional Relativo à Construção e ao Equipamento dos Navios Destinados ao Transporte de Substâncias Químicas Perigosas a Granel (IBC), capítulo 17;
+
+ii) Código Internacional Relativo à Construção e ao Equipamento dos Navios Utilizados no Transporte de Gases Liquefeitos a Granel (IGC), capítulo 19;
+
+iii) Código Internacional para a Segurança do Transporte de Combustível Nuclear Irradiado, do Plutónio e de Resíduos Altamente Radioativos em Barris a Bordo de Navios (INF);
+
+iv) Convenção Internacional para a Prevenção da Poluição do Mar por Navios (MARPOL), anexos n.os 1, 2 e 3;
+
+v) Código de Transporte de Matérias Perigosas a Granel (IMSBC);
+
+vi) Outras convenções, códigos, diretivas ou legislação específica para transporte de cargas ou substâncias perigosas;
+
+d) Os navios que transportem mercadorias perigosas ou poluentes especificados no Código IMDG, das Classes 6, 7 e 8 e Acrilonitrilo - Cianeto de Vinil (Classe 3), não estão autorizados a fundear;
+
+e) Os navios que transportem mercadorias perigosas ou poluentes especificados no Código IMDG, da Classes 1, 2, 3 (exceto Acrilonitrilo - Cianeto de Vinil), 4, 5 e 9 estão sujeitos a visita e verificação das condições de segurança, após a sua chegada ao fundeadouro, aplicando-se as seguintes regras:
+
+i) Independentemente do seu calado, utilizarão exclusivamente o fundeadouro Sul;
+
+ii) Devem garantir uma distância mínima de 500 jardas entre navios;
+
+f) Feridos, doentes ou cadáveres
+
+No caso de navios que pretendam desembarcar feridos, doentes ou cadáveres, a agência de navegação terá de especificar, no pedido por escrito, os sintomas ou causas que terão estado na origem, ficando a autorização sujeita ao parecer da Autoridade de Saúde competente, bem como da Alfandega e Serviço de Estrangeiros e Fronteiras (SEF).
+
+g) Migrantes irregulares
+
+No caso de navios que transportem migrantes irregulares a bordo, a agência de navegação terá de especificar, no pedido por escrito, o seu número, nacionalidade e outras informações pertinentes, ficando a autorização sujeita ao parecer do SEF.
+
+h) Arribadas, Avarias e Reparações a bordo:
+
+i) No âmbito da CPCSC, considera-se, genericamente, como arribada a demanda dos fundeadouros, não previsto como destino, por qualquer navio ou embarcação, desviando-se da rota planeada, devido a:
+
+(1) Existência de incêndio a bordo ou alagamento, apresentando perigo de explosão ou poluição das águas;
+
+(2) A flutuabilidade, navegabilidade, manobrabilidade ou estabilidade estarem parcial ou totalmente afetadas ou reduzidas;
+
+(3) Necessidade de efetuar reparações de avarias inopinadas;
+
+(4) Necessidade de desembarcar doentes, feridos, náufragos ou cadáveres;
+
+ii) Os navios que pretendam fundear na situação de arribados, deverão especificar qual o motivo da arribada, para que, no âmbito da segurança da navegação, sejam estabelecidas eventuais formas de acesso ao mar territorial ou a sua interdição;
+
+iii) Qualquer deficiência ou avaria a bordo de um navio ou embarcação que possa afetar, de qualquer modo, a segurança marítima, deverá ser prontamente comunicada à Capitania do Porto de Cascais;
+
+iv) Em resposta à declaração de arribada, a CPCSC enviará para o agente de navegação, com informação para outras autoridades ou entidades que devam ser informadas no âmbito das suas competências, um despacho a definir as condições de acesso ao mar territorial;
+
+v) Nas situações em que a capacidade de manobra do navio esteja condicionada, deverá ser assegurada a presença de rebocadores de potência e características apropriadas, por forma a garantir a manutenção da posição ou a movimentação do navio, enquanto essa limitação se verificar;
+
+vi) Qualquer trabalho de reparação a bordo, durante a estadia de um navio nos fundeadouros, necessita de prévio licenciamento do Capitão do Porto;
+
+vii) A realização de determinados trabalhos a bordo, quer se trate ou não de navios arribados, poderá implicar a necessidade de acompanhamento e vistoria por parte de peritos da Capitania e/ou de elementos da PM. Nestes casos, no despacho do Capitão do Porto será mencionado que a execução dos trabalhos fica condicionada a vistoria, a realizar por perito da Capitania, ou, a acompanhamento por parte de elementos da PM.
+
+viii) A não declaração de arribada ou a prestação de informações erradas constituem infração a este Edital, o que configura uma contraordenação.
+
+23) Arribada e outras condicionantes
+
+a) Os navios que pretendam demandar o Porto de Cascais na situação de arribada, devem declará-lo explicitamente no seu pedido de fundeadouro e em caso de contingência enviar, à CPCSC, a informação pelo modo mais expedito, para que, no âmbito da segurança da navegação, sejam estabelecidas eventuais formas de acesso ao Mar Territorial ou a sua interdição, onde constem, no aplicável, os seguintes elementos:
+
+i) Nome, tipo de navio, bandeira de registo e número IMO, arqueação, comprimento e calado máximo do navio à chegada;
+
+ii) Motivo de arribada;
+
+iii) Número de pessoas embarcadas;
+
+iv) Existência de migrantes irregulares;
+
+v) Existência de vidas humanas em perigo ou que necessitem de assistência;
+
+vi) Existência de risco de alagamento, afundamento, incêndio, explosão ou poluição;
+
+vii) Existência de danos, avarias e anomalias, que condicionem a estabilidade, a navegabilidade e/ou manobrabilidade do navio;
+
+viii) Existência de condicionantes à utilização das ajudas à navegação, radar, comunicações, cartas náuticas, agulha ou sonda;
+
+ix) Tipo e quantidade de carga existente a bordo e sua condição;
+
+x) Existência de mercadorias perigosas e/ou poluentes, sua identificação (número ONU), classificação Código IMDG e quantidade;
+
+xi) Indicação se vem rebocado e, caso afirmativo, o nome e potência do rebocador;
+
+xii) Hora Estimada de Chegada;
+
+xiii) Destino, local de atracação ou fundeadouro.
+
+b) Em resposta à declaração de arribada, a AML emite resposta por email ou, em caso de contingência, pelo modo mais expedito para o agente de navegação, com informação para as outras autoridades/entidades que devam ser informadas no âmbito das suas competências, através de despacho a definir as condições de acesso ao Mar Territorial.
+
+c) A entrada do navio arribado no porto com limitações graves no sistema de propulsão ou governo, deve ser realizada com o apoio de rebocadores com a potência adequada e autorizados para operar no Porto de Cascais, sendo necessário uma vistoria de segurança ao trem de reboque antes do inicio da movimentação, a realizar por perito da AML.
+
+d) Após a atracação do navio, é necessário elaborar o pedido de trabalhos para reparação da avaria que motivou a arribada, através do agente de navegação e via email, sendo imposta vistoria por perito da AML e eventual acompanhamento da entidade classificadora, que ateste a reposição das condições de segurança e de navegabilidade.
+
+e) Mediante análise casuística, o Capitão do Porto pode recomendar/propor que o navio que apresenta anomalias seja sujeito a inspeção técnica no âmbito do controlo de navios pelo Estado do Porto (Port State Control - PSC), através de comunicação a esta entidade.
+
+f) A não declaração de arribada e de condicionantes ou o incumprimento do presente Edital são sancionados a título contraordenacional.
+
+g) Para além das situações de arribada e de transporte de carga e/ou substâncias perigosas devem declarar, obrigatoriamente, os navios que detenham quaisquer outras condicionantes, nomeadamente a existência de:
+
+i) Migrantes irregulares;
+
+ii) Vidas humanas em perigo;
+
+iii) Risco de alagamento, de afundamento, de incêndio, de explosão e de poluição;
+
+iv) Danos, avarias e anomalias, que condicionem a estabilidade, a navegabilidade e/ou manobrabilidade do navio;
+
+v) Condicionantes à utilização das ajudas à navegação, radar, comunicações, cartas náuticas, agulha ou sonda;
+
+vi) Trem de reboque (rebocador - rebocado).
+
+h) Em caso de contingência, a declaração de condicionantes deve ser comunicada pelo modo mais expedito à CPCSC, sendo o disposto aplicável, igualmente, aos navios que, na situação de arribada, pretendam utilizar local ou fundeadouro, situado fora da área do Porto de Cascais.
+
+i) Em resposta à declaração de arribada, a CPCSC emite via email ou em caso de contingência pelo meio mais expedito, para o agente de navegação, com informação a outras autoridades/entidades que devam ser informadas no âmbito das suas competências, um despacho a definir as condições de acesso ao Mar Territorial.
+
+24) Ancoradouros Interiores da Baía de Cascais
+
+a) A Baía de Cascais encontra-se dividida em 4 áreas (Anexo 3), de acordo com as respetivas utilizações, tendo em vista acolher, de uma forma funcional, os diversos tipos de atividades e embarcações que nela se congregam;
+
+b) Essas áreas estão representadas nas CN 26303 (INT 1875) e 27504, conforme plano B da 1.ª edição da CN 27504;
+
+c) Existe um canal de acesso, onde é proibido fundear, que tem por finalidade garantir o acesso fácil e seguro das embarcações às diversas áreas e cais. Este canal centra-se na orientação do Cais Estacado e tem uma largura de 50 jardas;
+
+d) Nas referidas áreas e respetivos acessos, deverão ser empregues velocidades reduzidas (inferior a 3 nós);
+
+i) Área A - Fundeadouro de embarcações locais e costeiras:
+
+(1) Limites:
+
+(a) Nor-noroeste (NNW) - Alinhamento da ponta do Cais Estacado com o cotovelo do Molhe da Praia do Tamariz;
+
+(b) Noroeste (NW) - Alinhamento do Cais Marítimo-Turístico da Marina com o terraço do Palácio da Duquesa;
+
+(c) Sudeste (SE) - Alinhamento do Pontão da Praia das Moitas com o Farol Sta. Marta;
+
+(d) Sudoeste (SW) - Delimitado pelo Canal de acesso ao Cais Estacado da Praia da Ribeira.
+
+(2) Vigora durante todo o ano, exceto em caso de mau tempo ou por determinação do Capitão do Porto,
+
+(3) Salvo autorização expressa, as embarcações de pesca costeiras, de comércio e de recreio só deverão fundear dentro desta área;
+
+(4) O período de permanência máximo na Área A é, salvo autorização expressa do Capitão do Porto, de três dias, por razões de segurança. Após fundearem e antes de suspenderem a Polícia Marítima de Cascais deverá ser contactada;
+
+(5) Condições de segurança:
+
+(a) A escolha da posição de largar o ferro deverá ter sempre em conta a não interferência com outras embarcações já fundeadas, quer durante a fase de aproximação quer após fundeio;
+
+(b) Deverão ser sempre usadas velocidades reduzidas na área do fundeadouro, mas que garantam o governo.
+
+(c) Deve ter-se especial atenção com as condições de Mar a partir de "Mar Grosso" do quadrante de S a W ou vento superior a vento "Fresco" (aplicando-se o disposto na alínea h. do presente número);
+
+(6) Durante o período em que se encontrem fundeados é expressamente proibido alijar qualquer produto ou matéria que possa causar poluição.
+
+ii) Área B - Amarrações de Embarcações de Pesca Locais e Costeiras:
+
+(1) Limites:
+
+(a) Nordeste (NE) - Delimitado pelo Canal de Acesso ao Cais Estacado da Praia da Ribeira;
+
+(b) Noroeste (NW) -Praia da Ribeira;
+
+(c) Sudoeste (SW) - Cais dos Aprestos;
+
+(d) Sudeste (SE) - Alinhamento da rampa do CNC com a ponta do molhe da praia do Tamariz.
+
+(2) Vigora durante todo o ano, exceto em caso de mau tempo, (aplicando-se o disposto na alínea h. do presente número), ou por determinação do Capitão do Porto;
+
+(3) Destinada a embarcações de pesca registadas na Capitania do Porto de Cascais, as quais, sob autorização do Capitão do Porto e supervisão do serviço de Patronia da Capitania, poderão fundear boias de amarração;
+
+(4) Esta área, para além de outras regras de carácter mais geral, rege-se da seguinte forma:
+
+(a) A sua utilização carece de licenciamento por parte do Capitão do Porto;
+
+(b) As amarrações serão colocadas em local designado pelo Capitão do Porto;
+
+(c) Anualmente, durante o mês de fevereiro, deverá ser requerido ao Capitão do Porto a renovação do licenciamento das amarrações, que será autorizado desde que:
+
+i) A licença de pesca da embarcação tenha sido renovada;
+
+ii) O aparelho de amarração se encontre no local atribuído e em bom estado de conservação, facto que será aferido em vistoria efetuada por perito da Capitania.
+
+iii) Área C - Amarrações de Recreio
+
+(1) Limites:
+
+(a) Nor-noroeste (NNW) - Alinhamento da ponta do Cais Estacado com o cotovelo do Molhe da Praia do Tamariz;
+
+(b) Sudeste (SE) - Alinhamento do Cais Marítimo-Turístico da Marina com o terraço do Palácio da Duquesa;
+
+(c) Sudoeste (SW) - Delimitado pelo canal de acesso ao Cais Estacado.
+
+(2) Vigora de 1 de junho a 15 de outubro, exceto em caso de mau tempo, ou por determinação do Capitão do Porto, devendo, até ao dia 31 de outubro do ano referente ao licenciamento, ser retiradas as amarrações;
+
+(3) Destinada a embarcações de recreio, até ao número máximo de 40, com comprimento fora-a-fora não superior a 8 metros;
+
+(4) Anualmente será publicado um aviso com a definição da data de receção dos requerimentos e das condições de acesso;
+
+(5) Esta área, para além de outras regras de carácter mais geral, rege-se da seguinte forma:
+
+(a) A sua utilização carece de licenciamento por parte do Capitão do Porto;
+
+(b) O aparelho a utilizar é constituído, obrigatoriamente, por:
+
+(i) Dois ferros e tornel (consentâneos com o deslocamento da embarcação);
+
+(ii) Boia:
+
+aa) Deve ser de cor vermelha e com um diâmetro mínimo de 50 cm;
+
+ab) Deve ser identificada com o número de registo da respetiva;
+
+ac) Embarcação e o número da amarração, atribuído pela Capitania;
+
+ad) Será colocada em local designado pela Capitania;
+
+ae) Será utilizada, exclusivamente, pelas respetivas embarcações licenciadas.
+
+(c) Todo o aparelho deve encontrar-se em bom estado de conservação, facto que será aferido em vistoria efetuada por perito da Capitania;
+
+(d) Em situações de mau tempo, os proprietários devem promover a pronta retirada e transporte das embarcações para local seguro, sendo responsáveis pelos danos por elas provocados em caso de acidente;
+
+(e) São proibidas as operações de reabastecimento de combustível ou óleo;
+
+(f) A segurança do fundeadouro deve ser garantida através da utilização de:
+
+(i) Velocidades reduzidas na área e no acesso ao fundeadouro;
+
+(ii) Medidas necessárias para se evitarem acidentes de poluição.
+
+(g) A prática desta área deve ter em conta o previsto no art. 45.º do Regulamento da Náutica de Recreio, uma vez que confina com praias de banhos (Praias da Rainha, Conceição e Duquesa).
+
+iv) Área D - Clube Naval de Cascais (CNC)
+
+(1) Limites
+
+(a) Nordeste (NE) - Delimitado pelo canal de acesso ao Cais Estacado;
+
+(b) Noroeste (NW) - Alinhamento da rampa do CNC com o pontão da praia do Tamariz;
+
+(c) Sudoeste (SW) - Rampa W do Clube Naval de Cascais até ao Marégrafo;
+
+(d) Sudeste (SE) - Alinhamento do Cais Marítimo Turístico com o pontão da praia das Moitas.
+
+(2) Vigora durante todo o ano, exceto em caso de mau tempo, aplicando-se o disposto na alínea h) do presente número;
+
+(3) Destinada a embarcações de recreio pertencentes exclusivamente ao CNC;
+
+(4) Esta área, para além de outras regras de carácter mais geral, rege-se pelas seguintes regras:
+
+(a) A sua utilização carece de licenciamento por parte do Capitão do Porto;
+
+(b) As amarrações serão colocadas em local designado pelo Capitão do Porto;
+
+(c) Anualmente, durante o mês de novembro, deverá ser requerido à Capitania a renovação do licenciamento das amarrações.
+
+v) Abrigos Alternativos
+
+Em caso de mau tempo, em que se torne insegura a permanência de embarcações na Baía de Cascais, deverão ser observados os seguintes procedimentos:
+
+(1) As embarcações de Pesca Local e Costeira deverão, com a antecedência necessária, devem procurar abrigo em infraestruturas piscatórias portuárias que permitam um resguardo seguro, designadamente no Porto de Lisboa;
+
+(2) As embarcações de Pesca Local e Costeira, que não consigam antecipadamente procurar abrigo na instalação piscatória portuária mais próxima (Lisboa), podem ser varadas para o areal ou para a Esplanada dos Pescadores, caso esteja disponível, sob autorização do Capitão do Porto de Cascais;
+
+(3) As embarcações de recreio que estiverem amarradas a boias ou fundeadas poderão procurar abrigo na Marina de Cascais, mediante autorização prévia daquela entidade, ficando sujeita às normas regulamentares estabelecidas pela Marina. Alternativamente deverão procurar ser resguardadas em abrigos mais próximos na área do porto de Lisboa;
+
+(4) Sem prejuízo da responsabilidade pela segurança das suas embarcações quando as mesmas se encontrarem fundeadas ou amarradas nos ancoradouros, os mestres, arrais, patrões e proprietários deverão consultar diariamente o boletim meteorológico e inteirarem-se das previsões do estado do tempo, de forma a poderem atuar em tempo;
+
+vi) Baía de Cascais - área restrita
+
+A área restrita da Baía de Cascais corresponde ao espaço interior delimitado pelo alinhamento do farolim da ponta do molhe Sul da Marina com o Pontão da Praia das Moitas, estando devidamente assinalada nas CN 26303 e 27504.
+
+Por motivos de segurança, em virtude da diversidade de atividades desenvolvidas nesta área, que compreende os ancoradouros interiores, canal de acesso ao Cais Estacado e acessos à Marina, Cais de Aprestos e Clube Naval, não é permitido, por motivos de segurança, salvo autorização expressa do Capitão do Porto:
+
+(1) A prática de desportos náuticos, devendo toda a navegação dar resguardos de segurança adequados e utilizar velocidades reduzidas (inferior a 3 nós);
+
+(2) Nadar nas zonas de fundeadouros e do Canal de Acesso;
+
+(3) O exercício de pesca, com qualquer tipo de artes;
+
+(4) Atividade de mergulho;
+
+(5) Qualquer embarcação fundear ou estabelecer amarrações fixas no Canal de Acesso;
+
+(6) Embarcações de recreio fundear ou estabelecer amarrações fixas na área destinada às embarcações de pesca;
+
+(7) Embarcações de pesca fundear ou estabelecer amarrações fixas na área destinada exclusivamente às embarcações de recreio;
+
+(8) Fundear embarcações ou fundear boias, fora das áreas designadas ou sem ser detentor da respetiva licença;
+
+vii) Marina de Cascais
+
+(1) A Marina de Cascais, criada ao abrigo do [Decreto-Lei n.º 335/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1991-304330), de 17 de setembro, alterado pelo [Decreto-Lei n.º 14/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1994-510801), de 20 de janeiro, com Regulamento Interno de Funcionamento aprovado pelo Despacho Conjunto n.º 734/01, de 9 de agosto, e atribuída em concessão para exploração privada, em regime de Serviço Público, é uma infraestrutura portuária apenas destinada às Embarcações de Recreio;
+
+(2) A área da Marina de Cascais é delimitada por dois molhes exteriores: o "molhe de retenção" ou "molhe Norte" e o "quebra-mar" ou "molhe Sul":
+
+(a) O Molhe Norte inicia-se junto do Marégrafo na direção NE, infletindo para SE e terminando com um farolim na cabeça do molhe, local onde se situa o heliporto. Neste molhe encontra-se um edifício, onde estão instalados alguns serviços da Marina;
+
+(b) O Molhe Sul inicia-se imediatamente a Leste da Ponta do Salmodo (junto ao Farol de Sta. Marta), desenvolvendo-se no sentido SE, infletindo depois bruscamente, cerca de 90 graus para NE e termina com um farolim na cabeça do molhe. De salientar ainda que em torno da cabeça do molhe fica visível um enrocamento com cerca de 15 metros e que ao longo de todo o molhe existe uma berma submersa com 50 metros de largura, visível na baixa-mar, que constitui perigo para a navegação.
+
+(3) Devido à sua configuração e às atividades a ela associadas, são estipulados por motivos de segurança as seguintes limitações:
+
+(a) Velocidade máxima a praticar:
+
+i) Aproximação final à Marina - 5 nós (ou à mínima velocidade que permita governo);
+
+ii) No interior da Marina - 3 nós.
+
+(4) Definida uma Zona de exclusão do molhe Sul, na qual é proibido navegar:
+
+(a) Para Norte das boias cardeais, designadas por MC1, MC2 e MC3, situadas ao longo do molhe e que delimitam o enrocamento que fica submerso, exceto quando já aproado com a entrada da Marina;
+
+(b) Para Norte do alinhamento das boias MC3 e CC2;
+
+(c) Entre a cabeça do molhe e a boia CC2.
+
+(5) A entrada ou saída da Marina de Cascais deve ser feita com o resguardo necessário ao molhe, por forma a safar do enrocamento existente em volta da cabeça do molhe.
+
+(6) Numa perspetiva de segurança e como forma de prevenir a ocorrência de acidentes, de acordo com o Regulamento da Marina, a obtenção de permissão para entrada de embarcações de recreio na Marina é obrigatória e feita através de contacto prévio com os serviços de controlo, através de comunicações Rádio (VHF Canal 62);
+
+(7) O acesso à Marina está, por força da sua natureza jurídica, vedado a embarcações que não de recreio. No entanto, desde que manifestamente não existam condições de segurança na Baía de Cascais, as situações de risco abaixo descritas poderão constituir exceções:
+
+(a) Risco para vidas humanas - Em situações em que exista risco para vidas humanas, resultante de acidente ou de temporal;
+
+(b) Risco para as embarcações - Em caso de súbito temporal que se abata sobre a Baía de Cascais e que não permita a procura de refúgio nos abrigos alternativos mencionados no presente Edital. Nesta última situação, não se enquadram aquelas em que o temporal é previsível, tendo o agravamento do estado do tempo e do mar sido divulgados pelos meios habituais.
+
+(8) A procura de abrigo na Marina, no caso da situação mencionada na alínea anterior, fica sujeita aos seguintes procedimentos:
+
+(a) Para ambas as situações de risco anteriormente descritas, a autorização para acesso será dada pela Autoridade Marítima Local, a qual estabelecerá contacto com a Marina;
+
+(b) Esta autorização não exonera os responsáveis pelas embarcações (mestre, arrais, proprietário, etc.) da responsabilidade civil que decorra de eventuais danos, pessoais ou materiais, causados pelas embarcações, podendo haver nesta situação, direito a indemnização;
+
+(c) Em ambas as situações, após a entrada, os mestres, arrais ou proprietários, obrigatoriamente, devem manter sempre a bordo os tripulantes necessários e suficientes para guardar a embarcação e garantir que nenhum dano seja causado pela mesma;
+
+(d) Os mestres, arrais ou proprietários devem proceder a amarração das embarcações nos cais designados pela Marina e consoante as melhores práticas de marinharia.
+
+25) Infraestruturas relacionadas com a atividade piscatória
+
+a) Cais dos Aprestos
+
+(1) O Cais de Aprestos da Baía de Cascais tem por objetivo apoiar a frota de pesca local no desenvolvimento da sua atividade, nomeadamente, no armazenamento das artes de pesca e como espaço dedicado à execução das tarefas preparatórias das fainas;
+
+(2) O Cais de Aprestos tem acesso:
+
+(a) Terrestre - Através da rampa existente no seu topo Norte;
+
+(b) Marítimo - Através do fundeadouro das amarrações das embarcações de pesca local, existindo um pontão destinado à atracação temporária para efeitos de embarque e desembarque de pessoal e material.
+
+(3) O cais de aprestos encontra-se dividido em 6 (seis) zonas, de uso individual ou coletivo, com as finalidades abaixo descritas:
+
+(a) Corredor de Segurança (Coletivo) - Espaço destinado à movimentação de viaturas e materiais. Consiste num corredor ao longo de todo o cais, destinado à circulação de viaturas de emergência e acesso a viaturas para carga e descarga de artes ou outros materiais utilizados na atividade piscatória, não sendo permitida a sua permanência para além do período estritamente necessário ao desenvolvimento das referidas ações;
+
+(b) Zona de Cacifos (Individual) - Local utilizado para mudança de roupa e guarda de pertenças pessoais;
+
+(c) Zona de Balneários;
+
+(d) Depósito de Lixo (Coletivo) - Local próximo da entrada do cais destinado à colocação dos desperdícios dos materiais utilizados na atividade piscatória;
+
+(e) Zona de Transição (Coletivo) - Local utilizado para efetuar as lavagens das artes que chegam do mar ou para movimentação de material;
+
+(f) Zona de Depósito de Material (Individual) - Local de armazenamento das artes de pesca.
+
+(4) As responsabilidades quanto ao funcionamento do cais de aprestos dividem-se pela Capitania do Porto de Cascais, Câmara Municipal de Cascais (CMC), Associações de Pescadores e seus utilizadores, e são as seguintes:
+
+(a) Capitania do Porto de Cascais - Autoridade Marítima Local;
+
+(b) Câmara Municipal de Cascais - Entidade administrativa responsável pelo fornecimento de água, energia elétrica e recolha de lixo;
+
+(c) CMC ou entidade gestora do espaço, por essa nomeada - Responsável pela gestão cuidada do cais dos aprestos, competindo-lhe:
+
+i) Elaborar e divulgar as normas de utilização, devendo as mesmas abordar, entre outros, os seguintes aspetos:
+
+ii) Critérios de atribuição das Zona de Depósito de Material;
+
+iii) Regras de utilização das zonas coletivas (Zona de Transição e do Depósito de Lixo);
+
+iv) Zelar pela existência de boas condições higiénicas e sanitárias;
+
+v) Elaborar e manter atualizado o registo dos utilizadores autorizados, fornecendo essa informação à Capitania do Porto de Cascais e Câmara Municipal de Cascais.
+
+(5) Utilizadores - Os utilizadores do Cais de Aprestos são responsáveis pelo cumprimento das normas de utilização, em particular no que respeita a:
+
+(a) Manutenção das condições de segurança;
+
+(b) Garantir as boas condições higiénicas e sanitárias da sua Zona de Depósito de Material, assim como, dos demais espaços coletivos e individuais por si utilizados.
+
+(6) Em virtude do tipo de materiais armazenados e da atividade efetuada no cais e atento às competências desta Autoridade Marítima, é expressamente proibido:
+
+(a) Proceder à descarga de pescado;
+
+(b) Fazer lume;
+
+(c) Encalhar embarcações;
+
+(d) A permanência das embarcações atracadas ao pontão flutuante para além do tempo estritamente necessário para o embarque e desembarque de material e pessoal;
+
+(e) A permanência de objetos:
+
+(i) No corredor de segurança;
+
+(ii) Estranhos à atividade piscatória;
+
+(f) Pescar com quaisquer artes ou exercer pesca lúdica.
+
+b) Cais Estacado
+
+(1) Considerando as suas especificidades técnicas, operacionais e de segurança, esta infraestrutura destina-se apenas a apoiar a frota de pesca, não sendo adequada a um uso de âmbito geral público ou privado. Assim, a utilização do Cais Estacado da Baía de Cascais tem por objetivo o desenvolvimento das seguintes atividades:
+
+(a) Descargas do pescado;
+
+(b) Efetuar aguada e reabastecimento de combustível a embarcações, exceto de recreio;
+
+(c) Operações através da grua, nos termos do exposto na presente alínea;
+
+(d) Outras atividades, desde que expressamente autorizadas pelo Capitão do Porto.
+
+(2) O Cais Estacado tem acesso:
+
+(a) Terrestre - Através da Esplanada dos Pescadores;
+
+(b) Marítimo - Através do canal de acesso à Baia de Cascais, existindo 3 escadas, em que a do lado nascente possui balaustrada que permite o seu uso em condições de segurança;
+
+(3) O Cais Estacado possui uma grua, propriedade da Câmara Municipal de Cascais, que é explorada pela/as Associação/ões de Pescadores Local/ais, com vista a apoiar a comunidade de pesca local, entre outros, na movimentação (içar/arriar) de embarcações de pesca local, de cargas e de aprestos da pesca. Compete à entidade administrativa competente (CMC) ou por sua nomeação, a uma entidade exploradora da grua, garantir:
+
+(a) A existência de normas de utilização, obrigando-se a divulgá-las junto dos utilizadores;
+
+(b) A existência de um seguro de responsabilidade civil que cubra eventuais danos provocados pela operação da grua;
+
+(c) A operação da grua em segurança por pessoal devidamente certificado e adestrado, devendo ser as suas identidades comunicadas à Capitania;
+
+(d) A manutenção e o funcionamento da grua.
+
+(4) O Cais Estacado tem capacidade de efetuar reabastecimento de combustível a embarcações de pesca através da estação de reabastecimento da Petrogal.
+
+(5) Visando a proteção das pessoas e bens, no que respeita à utilização desta infraestrutura, face às suas características, existe a necessidade de impor limitações à circulação de pessoas, assim como ao desenvolvimento de outras atividades. Assim, impõe-se a criação de 4 zonas de segurança, delimitadas e marcadas a tinta amarela na superfície do cais, de acordo com as seguintes atividades:
+
+(a) Reabastecimento de combustível;
+
+(b) Atracação de embarcações;
+
+(c) Zona de receção temporária de material (apenas ativada com autorização expressa da Capitania);
+
+(d) Movimentação da grua.
+
+(6) Na sequência do exposto e atento às competências desta Autoridade Marítima Local, é expressamente proibido:
+
+(a) Nas zonas de segurança, a passagem ou permanência de objetos ou pessoas, exceto as autorizadas e diretamente envolvidas nas respetivas atividades;
+
+(b) Durante operações de reabastecimentos de combustível - fumar ou fazer fogo, devendo ser içada a bandeira do Código Internacional de Sinais (CIS) Bravo;
+
+(c) A operação da grua sem que existam boas condições de funcionamento, nomeadamente do ponto de vista técnico;
+
+(d) A permanência de pessoas e bens, nomeadamente artes de pesca, a não ser para as atividades acima referidas, apenas pelo tempo estritamente necessário (até um máximo de três dias para permanência de material), e após autorização expressa das autoridades competentes;
+
+(e) Atracar ou amarrar embarcações, de modo a restringir o acesso a qualquer das escadas;
+
+(f) Permanência das embarcações atracadas para além do tempo estritamente necessário;
+
+(g) Efetuar lavagem e reparação das artes;
+
+(h) Atracar embarcações de recreio;
+
+(i) Pescar com quaisquer artes ou exercer pesca lúdica;
+
+(j) Saltos de mergulho para a água.
+
+(7) O material que seja colocado no Cais Estacado terá de estar devidamente autorizado pelo Capitão do Porto, devendo ser devidamente peado e identificado na zona de receção temporária de material. É obrigação do requerente garantir que após a retirada do material, o espaço fica limpo.
+
+c) Esplanada dos Pescadores
+
+(1) No que se relaciona com a atividade da pesca, a Esplanada dos Pescadores poderá servir pontualmente de apoio temporário às embarcações de pesca local, para pequenas reparações ou para abrigo de mau tempo;
+
+(2) O encalhe de embarcações de pesca local na Esplanada apenas é permitido desde que devidamente autorizado pelo Capitão do Porto;
+
+(3) Existe um guincho de emergência, situado na Esplanada dos Pescadores, no topo da rampa de acesso à praia, utilizado para encalhar as embarcações de pesca. Este equipamento pertence às Associações de Pescadores de Cascais, sendo a operação e manutenção da sua responsabilidade, devendo o seu estado de funcionamento ser garantido pela entidade administrativa (CMC).
+
+(4) Salvo autorização expressa do Capitão do Porto, e por razões de segurança, são proibidos, o estacionamento e a circulação de veículos motorizados, em toda a extensão da Esplanada dos Pescadores.
+
+d) Descarga de Pescado na Baía de Cascais
+
+(1) A zona de descarga de pescado na Baía de Cascais encontra-se restringida ao Cais Estacado;
+
+(2) Uma vez descarregado, o pescado deverá ir diretamente para a Lota, passando pela Esplanada dos Pescadores e pela frente do edifício da Polícia Marítima;
+
+(3) Todo o pescado descarregado fora desta zona ou que tome um percurso diferente do estipulado, salvo por motivo de força maior e expressamente autorizado pela DOCAPESCA, será considerado em fuga à Lota e, como tal, passível de sancionamento nos termos legais vigentes.
+
+26) Navios de cruzeiro
+
+Aos navios de cruzeiro é imposto policiamento, a efetuar pela PM, durante as operações de embarque e desembarque, até à sua largada.
+
+27) Reboque
+
+a) A atividade de reboque no Porto de Cascais é considerada serviço de interesse público.
+
+b) As entidades que exerçam a atividade de reboque de embarcações ficam vinculadas ao dever de colaboração com as demais entidades competentes, no que respeita à prevenção de sinistros e de situações de emergência e segurança no porto.
+
+c) Os trens de reboque que larguem ou demandem o Porto de Cascais estão sujeitos a vistoria por perito da AML, caso esteja envolvido rebocado e/ou rebocador de pavilhão nacional.
+
+d) No Porto de Cascais só é permitido o exercício da atividade de reboque por entidades devidamente autorizadas pela Autoridade Marítima Local.
+
+28) Bandeiras, distintivos e sinais autorizados
+
+Os navios que praticam o Porto de Cascais ou os seus fundeadouros, com exceção dos navios de guerra, só podem ter içado as seguintes bandeiras ou distintivos:
+
+i) Bandeira da sua nacionalidade;
+
+ii) Bandeira Portuguesa;
+
+iii) Bandeiras e outros distintivos previstos no Código Internacional de Sinais;
+
+iv) Bandeiras ou sinais do RIEAM;
+
+v) Distintivo da companhia armadora.
+
+29) Portinho da Ericeira
+
+a) O portinho da Ericeira (Anexo 4) situa-se a cerca de 12 milhas náuticas a Norte do Cabo da Roca e a cerca de 22 milhas náuticas do Porto de Cascais; a cerca de 5,5 milhas náuticas a sul do Porto dos Barcos da Assenta e a cerca de 24 milhas náuticas a sul de Peniche;
+
+b) O portinho, conforme imagem construída tendo por base o plano D da 1.ª edição da CN 27504, construído na zona da praia da Ribeira, ou praia do Peixe, tem reduzidas dimensões e destina-se a proporcionar abrigo à frota de embarcações de pesca local. Consta, essencialmente, de um molhe, no interior do qual existem cais e uma rampa varadouro. O molhe tem cerca de 380 metros de extensão, seguindo a parte final a orientação 035º- 215º. O cais, com cerca de 60 metros de extensão, tem fundos adjacentes baixos, com tendência a assorear. A rampa serve de varadouro às embarcações e estas são aladas, com recurso a tratores ou guincho móvel, fixo para esse efeito;
+
+c) No portinho da Ericeira não estão definidos fundeadouros, nem existe serviço de Pilotagem;
+
+d) A administração portuária, encontra-se atribuída à DOCAPESCA, dependente de unidade orgânica em Peniche;
+
+e) Instruções especiais para demanda do Portinho da Ericeira:
+
+(1) A entrada ou saída do portinho da Ericeira é regulada pelo presente Edital, devendo ser consultado o Roteiro de Portugal, Avisos aos Navegantes, documentos, publicações e CN 27504, publicadas pelo Instituto Hidrográfico;
+
+(2) O mau tempo, em especial do quadrante de SW a NW, torna a prática do portinho pelas embarcações extremamente perigosa;
+
+(3) Toda a área do portinho é sujeita a frequentes e intensos assoreamentos, existindo também zonas rochosas;
+
+(4) É proibida a demanda ou a saída do portinho com ondulação e vaga superior a 1.5 metros e de vento superior a FORÇA 4, devendo, nestas condições, ser considerada fechada a "barra" do Portinho da Ericeira;
+
+(5) Em condições normais de utilização do cais ou varadouro, os arrais, os mestres, armadores ou proprietários das embarcações, são responsáveis pelo embarque e desembarque de tripulantes e passageiros, bem como das suas embarcações, devendo sempre que saiam para o mar, comunicar à Polícia Marítima da Ericeira e manter escuta permanente VHF canal 16;
+
+(6) As embarcações afetas à atividade maritimo-turistica são obrigadas a comunicar por escrito a identificação dos passageiros embarcados, bem como o percurso e período previsto para cada viagem. Todos os passageiros estão obrigados a envergar colete de salvação.
+
+30) Portinho da Assenta
+
+O Porto dos Barcos da Assenta pode ser usado como apoio às embarcações de pesca locais, no período compreendido entre junho a setembro, inclusive, mediante respetiva licença de encalhe e existência de condições meteorológicas favoráveis, aplicando-se o indicado no número (4) da alínea e) do 29).
+
+### CAPÍTULO IV — Avarias e vistorias
+
+31) Trabalhos a bordo
+
+a) Qualquer trabalho de reparação a bordo que afete as condições de segurança, navegabilidade ou o ecossistema marinho, durante a estadia de um navio no Porto de Cascais, implicam a necessidade de acompanhamento e vistoria para efeito de verificação das condições de segurança por perito da AML, sem prejuízo das competências próprias da Autoridade Portuária ou do Controlo de Navios pelo Estado no Porto (PSC).
+
+b) O requerimento destes trabalhos a bordo deve ser solicitado por correio eletrónico diretamente à CPCSC. Em caso de contingência devem enviar, à CPCSC, a informação pelo modo mais expedito, ou presencialmente pelos representantes legais dos navios. Em todas as situações, o pedido deve ser realizado com a antecedência mínima de 24 horas e antes da entrada em águas territoriais, para que, no âmbito da segurança da navegação, sejam estabelecidas as formas de acesso ou a sua interdição, assim como outras instruções que se revelem necessárias.
+
+c) Pela sua natureza, a realização de determinados trabalhos pode implicar a necessidade de acompanhamento na sua execução e da verificação das condições finais. Nestes casos, no despacho de autorização/licenciamento emitido pela AML, é mencionado que a realização dos trabalhos fica condicionada às vistorias a serem efetuadas por perito.
+
+d) Os trabalhos com visita obrigatória do perito da AML, sem prejuízo de melhor avaliação de outras situações, são os seguintes:
+
+i) Trabalhos a quente
+
+(1) O trabalho é autorizado após asseguradas as condições de segurança para a sua realização, devendo o impresso de autorização de trabalho a quente (hot work permit) ser previamente anexo ao pedido.
+
+(2) Caso o perito verifique a necessidade de implementar medidas de segurança adicionais, estas são comunicadas ao responsável de bordo por forma a serem observadas no local.
+
+(3) Para a realização de trabalhos a quente em tanques de combustível, na sua vizinhança ou na proximidade de equipamentos ou zonas com potenciais atmosferas explosivas (ATEX), é obrigatória a implementação de medidas para ventilar ou inertizar estes espaços, atestadas pela emissão de um certificado de desgaseificação (gas free certificate) realizado por uma entidade terceira.
+
+(4) São agendadas vistorias adicionais até ao final da conclusão dos trabalhos, sempre que o perito concluir que existem condições de segurança a serem verificadas no final da sua realização ou que os trabalhos envolvam ações de reparação (corte e soldadura) nos elementos primários do casco (casco, balizas, cavernas ou outros). Estes trabalhos envolvem o conhecimento obrigatório da administração marítima da Bandeira e/ou da Organização Reconhecida responsável pela certificação do navio.
+
+ii) Trabalhos de máquinas
+
+Em função da avaliação do perito, os trabalhos de máquinas a bordo podem obrigar, no mínimo, a uma vistoria inicial para determinação da natureza da avaria/manutenção e ações de reparação planeadas e uma vistoria final para verificação da operacionalidade dos sistemas intervencionados. Os trabalhos de máquinas podem ser dos seguintes tipos:
+
+(1) Imobilização do sistema de propulsão;
+
+(2) Imobilização do sistema de produção de energia elétrica;
+
+(3) Imobilização do sistema de governo;
+
+(4) Sistema de esgoto e lastro.
+
+iii) Trabalhos em altura
+
+Na realização destes trabalhos é necessário que o navio garanta a verificação das condições de segurança e saúde das pessoas. Para este efeito, o navio deve enviar a autorização interna para o período dos trabalhos (work permit), com a validação do responsável de bordo como anexo ao pedido, via correio eletrónico, e assegurar as seguintes condições durante a sua realização: o uso de arnês; o uso do material necessário ao trabalho em altura, apresentar-se preso e seguro à queda; a delimitação e restrição de acesso numa área contígua à zona de queda de objetos; a presença de uma pessoa no pavimento do navio, com comunicações com elemento nos trabalhos em altura e para monitorização das condições de segurança na zona de queda de objetos.
+
+e) Nos pedidos para a realização de trabalhos a bordo, a enviar pelo menos com três horas de antecedência, devem ser discriminados os seguintes elementos pelo agente de navegação: Tipo de avaria e trabalho a efetuar; Empresa reparadora e o técnico responsável; Hora prevista para o seu início e fim.
+
+f) Qualquer embarcação que efetue docagem a seco ou varagem deve comunica-lo à CPCSC e solicitar as respetivas vistorias.
+
+32) Objeto móvel e embarcação em mau estado, acidentada, naufragada ou abandonada
+
+a) As embarcações em mau estado, acidentadas, naufragadas ou abandonadas, que possam indiciar propensão para a ocorrência de incidentes, bem como outros objetos móveis, devem ser retiradas do plano de água pelo respetivo proprietário ou por quem o represente.
+
+b) Os proprietários e armadores de embarcações sem certificado de navegabilidade ou termo de vistoria válidos, ainda que atracadas ou varadas no espaço de jurisdição da AML, devem comunicar, e manter atualizado, na CPCSC, o contacto próprio ou de representante que habilite comunicação expedita de qualquer anomalia que possa vir a ocorrer.
+
+c) Sempre que subsistam dúvidas sobre a flutuabilidade de embarcações desprovidas de certificado de navegabilidade ou termo de vistoria válidos, o Capitão do Porto pode impor vistoria destinada a avaliar as condições de segurança da embarcação quando esta se encontre atracada ou fundeada.
+
+d) Os objetos móveis e as embarcações abandonadas devem ser prontamente removidos pelo respetivo proprietário e/ou representante legal; se, depois de instado, não o fizer, poderá ocorrer a sua remoção compulsiva pela Administração, com inerentes custas processuais para aquele, sem prejuízo da responsabilidade civil, criminal ou contraordenacional a que haja lugar.
+
+33) Relatório de mar
+
+a) De acordo com o disposto no artigo 13.º do [Decreto-Lei n.º 384/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1999-556240), de 23 setembro, entende-se por "acontecimento de mar" todo o facto extraordinário que ocorra no mar ou em águas sob jurisdição nacional, que tenha causado ou possa causar danos a navios, engenhos flutuantes, pessoas ou objetos que neles se encontrem ou por eles sejam transportadas.
+
+b) Nos termos do artigo 14.º do mesmo diploma, após a ocorrência de acontecimento de mar, o capitão ou quem exerça as funções de comando deve elaborar um "relatório de mar" (também conhecido por "protesto de mar"), onde seja descrito pormenorizadamente o ocorrido, devendo o mesmo ser apresentado à AML ou autoridade consular com jurisdição no primeiro porto de escala onde essa autoridade exista no prazo de 48 horas, contado a partir do momento em que o navio atracar ou fundear no mencionado porto, sendo que, em caso de perda total do navio, o prazo se conta desde a data da chegada do capitão ou de quem o substitua.
+
+c) Relativamente aos relatórios de mar elaborados pelos capitães de embarcações comunitárias ou de países terceiros, nos termos conjugados do artigo 6.º do Título I do Código Comercial e da alínea f) do n.º 2 do artigo 13.º do [Decreto-Lei n.º 44/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2002-251979), de 2 de março, na falta de autoridade consular residente do Estado de Bandeira da embarcação em causa, e só neste caso, sob requerimento do capitão ou do agente de navegação, o Capitão do Porto pode receber e confirmar esses relatórios, endereçando-os à autoridade consular do país de bandeira da embarcação em causa, ainda que o mesmo não tenha merecido um despacho de confirmação da AML.
+
+d) Salvo autorização concedida por escrito pelo Capitão do Porto, as operações de descarga do navio não podem ser iniciadas enquanto o procedimento de confirmação do relatório de mar não estiver concluído.
+
+34) Vistorias
+
+a) De acordo com o artigo 72.º, do RIM, [Decreto-Lei n.º 166/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2019-125865390), de 31 de outubro, a AML assegura vistorias para os seguintes atos técnicos e administrativos e, no aplicável, emite os respetivos documentos, referentes a embarcações e outro material flutuante, relativas ao seguinte:
+
+i) Renovação ou prorrogação dos certificados de navegabilidade.
+
+ii) Emissão de certificados de navegabilidade especiais.
+
+iii) Renovação de certificados de linhas de água carregada (quando aplicável).
+
+iv) Emissão de certificados de lotação para as seguintes embarcações nacionais:
+
+(1) De pesca local;
+
+(2) Rebocadores locais;
+
+(3) Embarcações auxiliares locais;
+
+(4) Embarcações auxiliares locais e embarcações de recreio tipo 4 e 5, no exercício da atividade marítimo-turística;
+
+(5) Embarcações de tráfego local, com exceção das que transportam mais de 12 passageiros.
+
+v) Desmantelamento de embarcações nacionais, comunitárias ou de países terceiros.
+
+vi) Verificação das condições de segurança das embarcações de recreio dos tipos 4 e 5, através de vistorias iniciais, periódicas e extraordinárias.
+
+b) Verificação das condições de segurança em embarcações nacionais, comunitárias e de países terceiros, de qualquer tipo, que tenham:
+
+i) Sido afetadas em resultado de sinistro (encalhe, colisão ou outro).
+
+ii) Solicitado trabalhos cuja natureza afete a segurança das mesmas tais como, a imobilização do sistema de propulsão, imobilização do sistema de governo, imobilização do sistema de produção de energia, imobilização sistema de carga e descarga, imobilização do sistema de esgoto e lastro, trabalhos a quente, embarque de cargas perigosas, ou outras condições que coloquem em causa a segurança e navegabilidade.
+
+iii) Solicitado arribada por motivo de avaria.
+
+c) Verificação das condições de segurança e de navegabilidade das embarcações de pesca com pavilhão não nacional, de comprimento superior a 24 m.
+
+d) Verificação das condições de segurança das embarcações e outro material flutuante, de pavilhão não nacional, envolvidas em obras portuárias, como por exemplo dragagens, para efeitos da emissão do certificado de navegabilidade a vigorar durante o período da sua realização.
+
+e) Verificação das condições de segurança de pontões e outro material flutuante sem propulsão, não destinado à navegação.
+
+f) Arqueação de embarcações de tráfego local (com exceção das embarcações que transportem mais de 12 passageiros), embarcações auxiliares locais sem motor e pesca local, desde que estejam dispensadas da apresentação de projeto de construção ou modificação (arqueação inferior a 10 Ton de Arqueação Bruta - toneladas Moorsoon).
+
+g) Com vista à emissão de certificados de navegabilidade especiais, que incluem os requisitos impostos para a viagem, designadamente no que respeita a reforço da lotação de segurança, meios de bordo e condições de mar e tempo, para as embarcações locais poderem efetuar navegação costeira.
+
+h) Verificação das condições de segurança dos trens de reboque a embarcações que larguem ou demandem o Porto de Lisboa.
+
+### CAPÍTULO V — Atividades de natureza profissional e comercial
+
+35) Pesca comercial
+
+a) Na jurisdição da CPCSC, sem prejuízo de outra legislação específica sobre esta atividade, as normas reguladoras do exercício da pesca estão definidas na legislação que regulamenta as diversas atividades piscatórias.
+
+b) Entende-se por pesca comercial, a que as espécies capturadas se destinam a ser objeto de comércio, sob qualquer forma, quer no estado em que são extraídas da água, quer após subsequente preparação, modificação ou transformação.
+
+c) É proibida a atividade de pesca comercial nos locais previamente referidos, acrescendo áreas balneares, durante o período de 01 de maio a 15 de outubro, a menos de 200 m da linha da praia.
+
+36) Mergulho profissional
+
+a) A realização de trabalhos subaquáticos em navios, embarcações, material flutuante ou estruturas, bem como de outras atividades com recurso a mergulhadores, no espaço de jurisdição da CPCSC, está sujeita à autorização e ao licenciamento do Capitão do Porto, sem prejuízo de outras autorizações a emitir por entidades competentes em razão do território, devendo o respetivo requerimento ser efetuado pelos comandantes, mestres ou arrais, armadores, representantes legais dos navios/embarcações, encarregado da estrutura, responsável da atividade ou empresa de mergulho, no qual devem indicar a seguinte informação:
+
+i) Identificação do navio, embarcação, material flutuante ou estrutura;
+
+ii) Indicação da atividade a realizar com recurso a mergulhadores;
+
+iii) Local, data e horário de realização dos trabalhos subaquáticos;
+
+iv) Identificação e categoria profissional dos mergulhadores profissionais;
+
+v) Profundidade a que se realizam os trabalhos;
+
+vi) Data de validade das inspeções médicas periódicas dos mergulhadores profissionais;
+
+vii) Identificação das embarcações de apoio (se aplicável);
+
+viii) Indicação do ponto de contacto, e correspondente meio de comunicação, do responsável pelos trabalhos, para efeitos de coordenação e segurança.
+
+b) Para permitir a execução dos trabalhos subaquáticos, garantindo a segurança de pessoas e bens, a CPCSC procede à promulgação de um Aviso à Navegação Local e define as condições de navegação na proximidade do local dos trabalhos.
+
+c) Sempre que a área de trabalhos inclua áreas de navegação é imposto policiamento, a efetuar pela PM, para garantir a segurança das equipas de mergulhadores, assim como a passagem safa de navios e embarcações, bem como o desenrolar de outras atividades.
+
+d) Para apoio e segurança das equipas de mergulhadores, devem ser observadas as normas legais vigentes para o mergulho profissional, previstas na [Lei n.º 70/2014](https://diariodarepublica.pt/dr/detalhe/lei/70-2014-56384930), de 1 de setembro.
+
+e) A prática de mergulho a profundidades superiores a 40 m far-se-á nos termos do disposto no [Despacho n.º 8086/2013](https://diariodarepublica.pt/dr/detalhe/despacho/8086-2013-3525401), do Diretor-Geral da Autoridade Marítima, de 4 de junho, publicado no Diário da República, 2.ª série, n.º 118, de 21 de junho.
+
+f) Após a realização de trabalhos subaquáticos em navios, embarcações ou material flutuante, o responsável pela sua execução deve remeter à CPCSC, no período máximo de 5 (cinco) dias úteis, um relatório sumário da intervenção e dos resultados obtidos.
+
+37) Estabelecimento de culturas marinhas
+
+a) No espaço de jurisdição da CPCSC, pode ser licenciada a instalação de estabelecimentos de culturas marinhas, devendo respeitar a legislação vigente sobre a matéria, nomeadamente a aprovação do projeto por parte de todos os organismos e entidades competentes a pronunciar-se em razão da matéria e do território em causa.
+
+b) Por razões de segurança, a implementação no terreno deste tipo de estabelecimentos, em canais de navegação ou em locais que de alguma maneira possam afetar a fruição do tráfego marítimo, nas suas proximidades ou acessos, não merece o parecer favorável da AML.
+
+38) Realização de atividades de natureza desportiva e recreativa (em espaços identificados como praias de uso balnear)
+
+a) De acordo com o enquadramento legislativo previsto no parágrafo 1. C), as utilizações dominiais e matérias objeto do licenciamento asseguradas pelos municípios são (aplicável somente a atividades a desenvolver em espaço balnear, até ao limite de 1 milha náutica):
+
+i) Apoios balneares;
+
+ii) Apoios recreativos;
+
+iii) Realização de atividades desportivas, e recreativas;
+
+iv) Operação de desportos de deslize (surf e modalidades afins) em espaço dominial;
+
+v) Operação de empresas de animação turística em âmbito da prática de desportos de natureza e atividades conexas;
+
+vi) Venda ambulante, em areal;
+
+vii) Atividades de natureza publicitária, no aplicável (quando permitido pelo POCASE);
+
+viii) Atividades de saúde e bem-estar (massagens e outras atividades afins).
+
+b) Os licenciamentos previstos no ponto anterior, obrigam à emissão de parecer vinculativo do Capitão do Porto de Cascais, Autoridade Marítima Local, relativo às condições de segurança, sempre que esteja em causa pessoas, bens e equipamentos;
+
+c) Os pedidos de emissão de parecer, devem dar entrada na repartição marítima com uma antecedência de 10 dias úteis;
+
+d) Quando não requisitado, no âmbito do licenciamento, por questões de segurança e de garantia de ordenamento, poderá ser imposto pelo parecer, vistoria de segurança anterior e/ou policiamento, na permanência, quando aplicável;
+
+e) O teor do parecer proferido pelo Capitão do Porto deverá obrigatoriamente ser dado a conhecer à entidade administrante da área em que o evento se realiza;
+
+f) Em termos administrativos e depois de emitido cada parecer, este só será válido para o evento, período e condições consideradas, pelo que em caso de cancelamento ou adiamento, deverá ser submetido novo pedido de parecer;
+
+g) O requerente deve garantir as condições de segurança adequadas à realização do evento, devendo, atenta a natureza e risco associado ao evento, apresentar um plano de segurança que discrimine ações e meios de salvamento empenhados;
+
+h) Durante a vigência da época balnear, a realização de eventos desta natureza que possam conflituar com as praias de banhos, com a zona de banhos ou plano de água associado, serão analisados caso a caso;
+
+39) Realização de atividades de natureza desportiva e recreativa (em espaços identificados como praias de uso não balnear)
+
+a) A realização destes eventos no Domínio Público Marítimo continua sujeita a autorização e respetivo licenciamento do Capitão do Porto;
+
+b) Os requerimentos para a realização dos eventos devem dar entrada na repartição marítima com uma antecedência mínima de dez dias úteis antes da sua realização ou períodos acordados anualmente;
+
+c) Quando não requisitado, no âmbito do licenciamento, por questões de segurança e de garantia de ordenamento, poderá ser imposto, vistoria de segurança anterior e/ou policiamento, na permanência, quando aplicável;
+
+d) O teor do despacho proferido pelo Capitão do Porto deverá obrigatoriamente ser dado a conhecer à entidade administrante da área em que o evento se realiza;
+
+e) Em termos administrativos, e depois de emitida a respetiva licença, a desistência do pedido ou cancelamento do evento não prejudicam o pagamento dos atos e serviços já assegurados.
+
+f) O requerente deve garantir as condições de segurança adequadas à realização do evento, devendo, atenta a natureza e risco associado ao evento, apresentar um plano de segurança que discrimine ações e meios de salvamento empenhados;
+
+g) Durante a época balnear a realização de eventos desta natureza que possa conflituar com as praias de banhos, com a zona de banhos ou plano de água associado, serão analisados caso a caso;
+
+40) Filmagem, sessão fotográfica e atividade de natureza publicitária
+
+a) Sem prejuízo de outras autorizações legalmente exigíveis, a realização de filmagens, sessões fotográficas e atividades de natureza publicitária de âmbito profissional, em área de jurisdição marítima, está sujeita à autorização e ao licenciamento do Capitão do Porto. Qualquer pedido que dê entrada no prazo de três dias úteis antes da data da realização do evento fica sujeito à aplicação da taxa de urgência, prevista na Tabela dos Serviços Prestados pelos Órgãos e Serviços da Autoridade Marítima (TSP), aprovada pela [Portaria n.º 506/2018](https://diariodarepublica.pt/dr/detalhe/portaria/506-2018-116547927), de 2 de outubro.
+
+b) O requerimento deve ser acompanhado da autorização da entidade administrante do espaço a utilizar (no seu todo ou em parte) ou de quem tiver a competência para licenciar, bem como da seguinte informação sobre a atividade a executar:
+
+i) Identificação completa da produtora;
+
+ii) Localização exata, com imagem ilustrativa;
+
+iii) Número de pessoas envolvidas, data e horário;
+
+iv) Finalidade e resumo da ação;
+
+v) Indicação da entrada de pessoas na água;
+
+vi) Utilização de embarcações (remeter cópia dos livretes) ou drones (remeter cópia da autorização da Autoridade Aeronáutica Nacional e, se aplicável, da Autoridade Nacional da Aviação Civil);
+
+vii) Colocação de qualquer tipo de equipamento ou estrutura amovível (indicar a medida das áreas a ocupar);
+
+viii) Circulação de viaturas no areal;
+
+ix) Eventual conflito com a fruição pública.
+
+c) No âmbito das suas competências, a AML emite parecer com indicação das condições de segurança a que o requerente tem que obedecer para poder realizar as atividades propostas, incluindo ou não a necessidade de policiamento, a efetuar pela PM (apeada e/ou embarcada).
+
+d) Em termos administrativos, depois de emitida a respetiva licença, a desistência do pedido ou cancelamento do evento fica sujeito ao pagamento das taxas inerentes aos atos assegurados pela Capitania.
+
+41) Fogo-de-artifício
+
+a) O lançamento de fogo-de-artifício, no espaço de jurisdição marítima da CPCSC, está sujeito ao licenciamento do Capitão do Porto, sem prejuízo de outras licenças a apresentar pelo promotor, nos termos da legislação aplicável a esta atividade.
+
+b) Com o requerimento ao Capitão do Porto devem ser apresentados os seguintes documentos e informação:
+
+i) Identificação do promotor, da empresa de pirotecnia e dos técnicos responsáveis pela montagem e lançamento do fogo (nome/denominação, morada, número de identificação fiscal/civil, telefone para contacto e endereço de correio eletrónico).
+
+ii) Declaração de fornecimento, com a quantidade e o tipo de material (descrição do fogo).
+
+iii) Cópia das autorizações da Navegação Aérea de Portugal (espaço aéreo), da PSP/GNR (credenciação e licença para lançamento de foguetes e fogo-de-artifício); da Autoridade Portuária ou outra entidade administrante (ocupação da área), da Câmara Municipal respetiva (licença especial de ruído) e Bombeiros (parecer de segurança).
+
+iv) Cópia do Alvará e da Carta de Estanqueiro da empresa de pirotecnia.
+
+v) Cópia dos seguros de responsabilidade civil e de acidentes de trabalho.
+
+vi) Plano de Montagem, Segurança e Emergência, que deve incluir, entre outra informação pertinente, a descrição dos locais, das tarefas e dos horários de carregamento, montagem e lançamento do fogo.
+
+vii) Ponto de contacto e respetivo meio de comunicação do responsável pela operação de lançamento do fogo, para efeitos de coordenação e segurança.
+
+c) No caso de o fogo-de-artifício ser efetuado em terra, o mesmo tem policiamento, a efetuar pela PM, no local utilizado para o lançamento do fogo, desde o início da montagem dos pirotécnicos até ao lançamento, sem prejuízo da presença de outras forças ou serviços de segurança e socorro.
+
+d) Se o fogo for efetuado no rio/mar está sujeito às seguintes formalidades:
+
+i) É realizada uma vistoria, por perito da CPCSC, a todas as plataformas/embarcações onde venham a ser instalados os pirotécnicos, no sentido de verificar se estas reúnem as condições de segurança para o efeito.
+
+ii) O carregamento dos pirotécnicos e a deslocação das plataformas/embarcações (entre os locais de carregamento e lançamento) tem policiamento, a efetuar pela PM, bem como a área circundante (perímetro de segurança), para interdição do tráfego, desde o momento em que são fundeadas até ao lançamento do fogo.
+
+iii) O reboque das plataformas/embarcações é efetuado por rebocador devidamente licenciado para a atividade de reboque ou, na sua inexistência, por embarcação de potência adequada, a qual deve permanecer nas proximidades enquanto aquelas se mantêm fundeadas no local de lançamento do fogo, garantindo o respetivo posicionamento.
+
+e) O local de lançamento do fogo e/ou a posição do fundeadouro da plataforma/embarcação deve cumprir com o raio de segurança estabelecido em função da quantidade e tipo de material explosivo utilizado.
+
+### CAPÍTULO V — Atividades de natureza lúdica, desportiva ou outra
+
+42) Pesca e apanha lúdica
+
+a) Entende-se por pesca lúdica a que é praticada apenas com fins lúdicos ou de desporto, não podendo o produto da pesca ser comercializado direta ou indiretamente. A pesca lúdica pode ser exercida de terra (a que se exerce de terra firme) ou de embarcação (a que se exerce a bordo de uma embarcação registada no recreio ou na atividade marítimo-turística).
+
+b) As normas reguladoras do exercício da pesca lúdica estão definidas no [Decreto-Lei n.º 246/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2000-553876), de 29 de setembro, na sua redação atual, e na Portaria n.º 14/2014, de 23 de janeiro.
+
+c) Até à distância de 100 m (cem metros) de docas, portos de abrigo, embarcadouros, estaleiros de construção naval, estabelecimentos de aquicultura, zonas de esgoto, portos de pesca e marinas de recreio, não será permitida a colocação de concorrentes.
+
+d) A apanha lúdica no espaço de jurisdição da CPCSC não carece de licença, o que não obsta a que, nos termos da lei, sejam cumpridos os quantitativos de captura, bem como os tamanhos mínimos.
+
+e) Devem cumprir com o estabelecido pelo Capitão do Porto e/ou Editais dedicados e complementares, relativos à apanha e captura de determinadas espécies para comercialização e consumo.
+
+f) Os praticantes de pesca lúdica com embarcação devem fazer uso de colete de salvação.
+
+g) As embarcações no exercício da pesca lúdica não podem impedir as embarcações de pesca comercial de exercerem a sua atividade.
+
+h) O presente normativo sobre a pesca lúdica não prejudica nem prevalece sobre o quadro legal aplicável, nomeadamente o preceituado no artigo 8.º da Portaria n.º 14/2014, de 23 de janeiro.
+
+43) Mergulho recreativo
+
+a) Atento ao preceituado no regime jurídico aplicável ao mergulho recreativo, designadamente no artigo 9.º da [Lei n.º 24/2013](https://diariodarepublica.pt/dr/detalhe/lei/24-2013-259882), de 20 de março, a prática do mergulho recreativo é vedada nos canais de navegação, fundeadouros e barras.
+
+b) Para efeitos do número anterior, são exceção as atividades autorizadas pela CPCSC, no âmbito do mergulho com fins científicos, culturais e de limpeza subaquática.
+
+44) Zonas Interditas à Atividade de Pesca e Mergulho
+
+a) É interdita a pesca nos seguintes locais:
+
+i) Nas áreas dos fundeadouros Norte e Sul da Baía de Cascais;
+
+ii) Nas aéreas de praias balneares, durante a Época Balnear, a menos de 300 metros da linha de costa e a menos de 100 metros dos limites das zonas balneares;
+
+iii) Na Zona do Emissário da Guia;
+
+iv) Na Zona dos Cabos Submarinos de Carcavelos;
+
+v) Na Zona de Interdição - Trabalhos Arqueológicos Subaquáticos;
+
+vi) Na Zona de Interesse Biofísico das Avencas;
+
+vii) Na zona do enfiamento da barra norte.
+
+b) No âmbito da Portaria n.º 14/2014, de 23 de janeiro, artigo 8.º, é ainda proibida a pesca lúdica (incluindo a Caça Submarina):
+
+i) Na Baía de Cascais-zona restrita;
+
+ii) Na Marina de Cascais e nos portos de abrigo;
+
+iii) No Cais de Aprestos;
+
+iv) No Cais Estacado;
+
+v) A menos de 100 metros de acessos a embarcadouros, docas, estaleiros e estabelecimentos de aquicultura;
+
+vi) A menos de 100 metros da embocadura de qualquer esgoto;
+
+c) Nos demais locais indicados no presente Edital.
+
+45) Prática de desportos de deslize
+
+a) Atento o risco associado à prática do surf, bodyboard, windsurf, kitesurf, stand up paddle, canoagem e demais atividades náuticas afins, devem ser tidas em conta um conjunto de regras básicas de segurança, nomeadamente:
+
+i) Só devem decorrer se as condições meteorológicas permitirem a realização das atividades em segurança, estando interditas em caso de aviso de mau tempo promulgado, nos termos do [Decreto-Lei n.º 283/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1987-420612), de 25 de julho, ou promulgação pelo Instituto Português do Mar e da Atmosfera (IPMA) de aviso meteorológico que corresponda a situação de risco na agitação marítima. Paralelamente, devem existir boas condições de visibilidade.
+
+ii) O exercício das atividades não deve colidir com o uso público da praia nem com outras atividades devidamente autorizadas;
+
+iii) Sugere-se que, antes do início da atividade, cada praticante dê conhecimento a um familiar ou amigo em terra acerca do local e período que tenciona estar no mar;
+
+b) Prática de Surf, Bodyboard e Bodysurf
+
+i) A prática de surf, bodyboard e bodysurf na área de jurisdição da Capitania do Porto de Cascais só é permitida durante o período diurno;
+
+c) Prática de Windsurf
+
+i) Só podem exercer a atividade desde o nascer do sol até uma hora antes do pôr-do-sol, com boa visibilidade e até vento forte (força 8 na escala de Beaufort; 40 nós), estando interdita a atividade em caso de emissão de aviso meteorológico amarelo pelo Instituto Português do Mar e da Atmosfera (IPMA), que corresponda a situação de risco no vento.
+
+ii) O praticante singular, quando integrado nas atividades de clube ou associação desportiva, que possua licença desportiva da Federação Portuguesa de Vela e que esteja acompanhado por treinador credenciado, em embarcação de recreio motorizada, fica excluído da limitação imposta pela anteriormente referida promulgação de aviso pelo IPMA.
+
+iii) Os praticantes de windsurf, que utilizem pranchas equipadas com hydrofoils, devem fazer uso de capacete e colete de salvação ou de impacto.
+
+iv) Os praticantes que utilizem pranchas insufláveis devem fazer uso de colete de salvação.
+
+v) Os praticantes que velejem ao largo (a partir dos 500 m da costa) devem transportar uma pequena bandeira cor de laranja (com as dimensões recomendadas de 50 x 50 cm), confecionada em material de secagem rápida, para utilização como meio de pedir socorro, recomendando-se a utilização complementar de apito e safety light stick/strob light à prova de água ou aparelho de comunicação GSM (vulgo telemóvel) em bolsa estanque, exceto se nas condições referidas em ii).
+
+vi) Entre 01 de maio e 15 de outubro, os praticantes não podem exercer a atividade a menos de 300 m (trezentos metros) da linha de água e, para largarem ou abicarem à praia, utilizam obrigatoriamente, quando existam, os corredores demarcados destinados às embarcações de recreio.
+
+vii) No caso de não existirem os referidos corredores, os praticantes devem afastar ou aproximar da praia por deslocação, num percurso perpendicular a esta e não inferior a 100 m (cem metros), atendendo às condições e vento e ondulação ou remando com os braços em auto resgate, com o aparelho da vela deitado sobre a prancha.
+
+d) Prática de Kitesurf
+
+i) A prática de kitesurf na área de jurisdição da Capitania do Porto de Cascais só é permitida durante o período diurno até uma hora antes do pôr-do-sol;
+
+(1) Os momentos de entrada e saída da água dos praticantes podem oferecer alguma perigosidade para os restantes utilizadores das zonas balneares, assim:
+
+(2) Os praticantes, para largarem ou abicarem a praia, utilizarão obrigatoriamente os corredores demarcados para o efeito;
+
+(3) É proibido exercer esta atividade a menos de 300 metros da linha de água das praias de banhos;
+
+ii) Os praticantes têm a obrigação de se afastar de todos os navios ou embarcações que naveguem e demandam os fundeadouros e os portos de abrigo da área de jurisdição da Capitania do Porto de Cascais;
+
+iii) Em mar aberto, só é permitido o afastamento até 2000 m da costa;
+
+iv) Os praticantes de kitesurf deverão transportar uma pequena bandeira cor de laranja, confecionada em material de rápida secagem para utilizar como meio de pedir socorro;
+
+e) Prática de stand up paddle (SUP)
+
+i) A prática de SUP na área de jurisdição da Capitania do Porto de Cascais só é permitida durante o período diurno até uma hora antes do pôr-do-sol;
+
+ii) A prática de SUP não pode ser exercida mais de 300 metros da borda de água;
+
+iii) A prática de SUP implica o uso obrigatório de colete salva-vidas e leash;
+
+iv) A prática de SUP não pode ser exercida com vento superior a F4 da escala de Beaufort (até 16 nós).
+
+v) O praticante de SUP deve dispor de comunicações móveis em condições de comunicar com o número nacional de emergência (112) e com o número do piquete da PM de Cascais, em caso de acidente;
+
+46) Desporto náutico motorizado (Jet-Ski, motos de água ou similares)
+
+a) Por razões de segurança e salvaguarda da vida humana no mar a utilização destes veículos está condicionada ao cumprimento das seguintes disposições:
+
+i) Só é permitida a sua utilização durante o período diurno até uma hora antes do pôr-do-sol e com boas condições meteorológicas e oceanográficas;
+
+ii) Não é permitido navegar, durante a época balnear, nas praias de banhos, a menos de 300 metros da linha da borda de água;
+
+iii) Durante a época balnear, a entrada na zona de banhos só é permitida pelos corredores para o efeito demarcados, a velocidade reduzida e suficiente para o governo, sendo o trajeto efetuado sempre perpendicularmente à linha da costa. No caso de não existirem os referidos corredores, não é permitido o acesso à praia;
+
+iv) Em situação de arribada de emergência, e no caso de não existirem os referidos corredores, a travessia da zona de banhos deve ser feita à velocidade mínima e numa direção perpendicular à praia, na zona de menor concentração de banhistas ou onde haja menor perigo para estes.
+
+47) Natação
+
+a) Por razões de salvaguarda da segurança dos praticantes e fruição do tráfego local, por norma, não é permitida a prática de natação nos fundeadouros interiores e exteriores da Baía de Cascais, exceto nas praias de banhos descritas em legislação própria e nos locais identificados pelas entidades administrantes.
+
+b) Podem ser consideradas situações, a título de evento, excecionais, que obrigam a autorização expressa do Capitão do Porto.
+
+48) Coasteering
+
+a) O crescimento do número de praticantes de coasteering na zona costeira impõe o estabelecimento de normativos adequados que contribuam para o incremento da segurança na orla marítima tanto para os praticantes da modalidade como para os restantes utentes daqueles espaços do DPM.
+
+b) Todos os praticantes devem cumprir escrupulosamente as normas em vigor estabelecidas pela respetiva federação que tutela esta atividade.
+
+c) A prática destas atividades só é permitida a grupos integrados em Agentes de Animação Turística devidamente registados no Turismo de Portugal (com RNAAT), mediante as seguintes condicionantes:
+
+i) durante o período diurno até uma hora antes do pôr-do-sol, com bom tempo e mar de pequena vaga até 1 metro de altura;
+
+ii) O número de participantes por grupo não poderá ser inferior a 2 pessoas e o máximo de 12 pessoas, garantindo sempre 2 monitores e uma embarcação de apoio, tripulada por elemento legalmente habilitado, que garanta a rápida evacuação em caso de incidente;
+
+iii) Todos os participantes, durante a realização das atividades, devem utilizar equipamentos individuais de proteção, designadamente: capacete, fato em neoprene (que permita a necessária liberdade de movimentos), calçado adequado, equipamento auxiliar de flutuação adequado ao peso do utilizador, bem como material segurança adequado ao percurso de escalada em terra (cabos e arneses) devidamente homologado;
+
+iv) Todos os elementos que prestam apoio às atividades em concreto, deverão estar munidos com equipamentos/sistema de comunicação, por forma a serem asseguradas contactos de emergência, designadamente em situação de sinistro ou acidente;
+
+v) Deverão ser referenciados pontos de saída de emergência a meio do percurso, bem como os pontos de salto para a água com altura superior a 2 metros, devendo todos os locais de realização de saltos para a água terem a adequada profundidade para o efeito.
+
+d) Deverá ser sempre criada um ponto de contacto com alguém que não está envolvido na atividade, informando o início da mesma, onde se encontram e previsão de fim, dando novo contacto do final, confirmando a ausência de incidente.
+
+49) Evento recreativo, desportivo, cultural ou religioso
+
+a) Nas praias, sem prejuízo das competências legalmente atribuídas a outras entidades, a realização de qualquer evento recreativo, desportivo, cultural ou religioso está sujeito a parecer da AML, quanto à definição das condições de segurança, quando esteja em causa a segurança das pessoas, bens e equipamentos, bem como a proteção e preservação do meio marinho; incluindo ou não a necessidade de policiamento, a efetuar pela PM (apeada e/ou embarcada), caso não tenha sido requisitado.
+
+b) Nos restantes espaços de jurisdição da CPCSC, a realização de qualquer evento está sujeita à autorização e ao licenciamento do Capitão do Porto. Qualquer requerimento ou pedido que dê entrada nos 3 (três) dias úteis antes da data da realização do evento, fica sujeito à aplicação da taxa de urgência, prevista na TSP.
+
+i) O requerimento ao Capitão do Porto deve ser acompanhado da autorização da entidade administrante do espaço a utilizar (no seu todo ou em parte), ou de quem tiver a competência, bem como da seguinte informação sobre o evento:
+
+(1) Identificação do requerente/representante legal (nome, morada, número de identificação fiscal, telefone para contacto e endereço de correio eletrónico);
+
+(2) Localização e caracterização do evento e número de pessoas envolvidas, data e horário;
+
+(3) Declaração da situação contributiva regularizada perante a Segurança Social;
+
+(4) Certidão da situação tributária regularizada, pela Autoridade Tributária e Aduaneira;
+
+(5) Indicação da entrada de pessoas na água durante o evento;
+
+(6) Quando aplicável, plano de prevenção e segurança do evento e/ou meios humanos e materiais para garantir a segurança e o apoio das pessoas envolvidas, com parecer/avaliação da Autoridade Nacional de Proteção Civil;
+
+(7) Utilização de embarcações (remeter cópia dos livretes) ou drones (remeter cópia da autorização da Autoridade Aeronáutica Nacional e, se aplicável, da Autoridade Nacional da Aviação Civil);
+
+(8) Colocação de qualquer tipo de equipamento ou estrutura amovível (indicar a medida da área a ocupar), incluindo no plano de água;
+
+(9) Quando aplicável, homologação da prova pela Federação Portuguesa da modalidade;
+
+(10) Quando aplicável, cópia das Licenças de Publicidade, Especial de Ruído, SPA ou PassMúsica;
+
+(11) Sempre que o evento ocorra em área classificada do Parque Natural de Sintra-Cascais, deve ser obtida autorização a essa entidade.
+
+ii) No âmbito das suas competências, a CPCSC estabelece as condições de segurança a que o requerente tem que obedecer para poder realizar os eventos autorizados, incluindo ou não a necessidade de policiamento, a efetuar pela PM (apeada e/ou embarcada), caso não tenha sido requisitado.
+
+iii) Nos casos em que os eventos ocorram em águas restritas ou em locais onde a navegação é tal que possa fazer perigar a realização do evento em segurança, a CPCSC emite o correspondente Aviso à Navegação Local.
+
+iv) Em termos administrativos, depois de emitida a respetiva licença, a desistência do pedido ou cancelamento do evento fica sujeito ao pagamento das verbas inerentes à execução de atos ou execução de serviços já prestados.
+
+50) Remo, canoa e caiaque
+
+a) Só podem exercer a atividade entre o nascer-do-sol e uma hora antes do pôr-do-sol, com boa visibilidade, bom tempo e mar de pequena vaga até 1 m (um metro) de altura significativa, devendo ter sempre em atenção a sua capacidade técnica, experiência e condição física.
+
+b) A prática não deve interferir com a atividade portuária e a pesca comercial local.
+
+c) A AML recomenda o uso de colete de salvação a todos os praticantes de remo, canoa e caiaque, no espaço de jurisdição da CPCSC.
+
+d) Os praticantes devem transportar uma pequena bandeira cor de laranja (com as dimensões recomendadas de 50 x 50 cm), confecionada em material de secagem rápida, para utilização como meio de pedir socorro, recomendando-se a utilização complementar de apito e safety light stick/strob light à prova de água ou aparelho de comunicação GSM em bolsa estanque.
+
+51) Skimboard
+
+Nas praias, em especial nos locais de forte afluência balnear, a prática de skimboard envolve alguma perigosidade, pelo que, entre 01 de maio e 15 de outubro, não é permitida nas frentes de praia assinaladas como zona de banhos recomendadas.
+
+52) Detetor de metal
+
+De acordo com o artigo 2.º da [Lei n.º 121/99](https://diariodarepublica.pt/dr/detalhe/lei/121-1999-434009), de 20 de agosto, conjugado com a alínea g), do n.º 1, do artigo 4.º do [Decreto-Lei n.º 115/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2012-177827), de 25 de maio, a emissão de licenças de utilização de detetores de metais e de qualquer outro equipamento de deteção é da competência do Diretor-Geral do Património Cultural, não sendo autorizada pelo Capitão do Porto a utilização destes equipamentos no espaço de jurisdição da CPCSC, sem o licenciamento daquela entidade.
+
+53) Sistema de aeronave não tripulada
+
+a) Na área de jurisdição da CPCSC, é permitida a realização de levantamento aéreo, com recurso a sistema de aeronave não tripulada (drone), sendo necessário dispor da correspondente autorização da Autoridade Aeronáutica Nacional e observar as seguintes condicionantes:
+
+i) Os voos devem cumprir os requisitos necessários, de modo a não ficar sujeitos à autorização da Autoridade Nacional de Aviação Civil (ANAC), conforme previsto no artigo 10.º do Regulamento ANAC n.º 1093/2016, de 24 de novembro.
+
+ii) Sejam cumpridas as disposições constantes na Lei da Proteção de Dados Pessoais, aprovada pela [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de outubro e alterada pela [Lei n.º 103/2015](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), de 24 de agosto, bem como do Regulamento 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril.
+
+b) A PM é uma das entidades competentes para fiscalizar o cumprimento destas determinações, nos termos da alínea e) do n.º 1 do artigo 18.º do [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de janeiro, pelo que, tendo em vista o cumprimento das determinações impostas pelo Capitão do Porto, pode ser imposto policiamento durante o exercício daquela atividade.
+
+54) Venda ambulante
+
+O licenciamento da venda ambulante processa-se nos termos do [Decreto-Lei n.º 48/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), de 1 de abril; [Decreto-Lei n.º 159/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2012-179368), de 24 de julho; [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), de 16 de janeiro, atento o regulamento municipal de venda ambulante do respetivo município e tendo em conta os pareceres da Autoridade de Saúde de nível local emitido no exercício das suas competências próprias promulgadas através do [Decreto-Lei n.º 82/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2009-603229), de 2 de abril, alterada pelo [Decreto-Lei n.º 135/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2013-500190) de 4 de outubro.
+
+### CAPÍTULO VII — Diversos
+
+55) Objeto suspeito ou achado
+
+a) Quem encontrar objeto, no mar, na orla marítima ou em qualquer outro local sob jurisdição da AML, cuja aparência leve a admitir tratar-se de material de guerra ou de engenho explosivo, deve efetuar os seguintes procedimentos:
+
+i) Abster-se de lhe tocar ou de o meter a bordo, se o achado for no mar.
+
+ii) Assinalar, se possível, o local e providenciar, tanto quanto as circunstâncias lho permitam, para que ninguém dele se aproxime.
+
+iii) Comunicar o achado, com a maior brevidade, à Autoridade Marítima (CPCSC, Delegação Marítima ou PM) ou, se isso não for possível, a qualquer autoridade militar ou civil, descrevendo o objeto e sua localização, o melhor que puder.
+
+b) Quem achar ou localizar quaisquer vestígio ou indício que testemunhe a presença humana, possuidor de valor histórico, artístico ou científico, situado no espaço de jurisdição da AML, fica obrigado a dar conhecimento do achado à CPCSC ou à Autoridade Alfandegária, Forças e Serviços de Segurança, ou diretamente à Direção-Geral do Património Cultural (DGPC), no prazo de 48 horas, em conformidade com a [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, e com o [Decreto-Lei n.º 164/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1997-162668), de 27 de junho, sem prejuízo de eventual responsabilidade civil, criminal ou contraordenacional a que haja lugar.
+
+56) Operação de Scooping
+
+a) As áreas de Scooping destinam-se a permitir a uma aeronave, do tipo hidroavião ou helicóptero de combate a incêndios, reabastecer de água para o referido combate, de forma rápida e em condições de segurança. Estas áreas são ativadas pelo Comando Nacional das Operações de Socorro da Autoridade Nacional de Proteção Civil e pela Capitania do Porto;
+
+b) Quando uma área de Scooping é ativada, a Autoridade Marítima:
+
+i) Promulga e divulga um aviso local à navegação em canal 16;
+
+ii) Implementa um plano de interdição da área;
+
+c) Na área de jurisdição da Capitania do Porto de Cascais existem duas áreas de Scooping (Anexo 1) representadas na CN 24204 (INT 1816); 24203 (INT 1815); 26303 (INT 1875):
+
+i) Área retangular:
+
+38º39'.351N-009º24'.381W; 38º39'.297N-009º24'.386W;
+
+38º39'.197N-009º22'.586W; 38º 39'.197N-009º22'.586W;
+
+ii) Área circular:
+
+Área centrada na posição 38.º40.72N-009.º22.33W, com um raio de 0,6 milhas.
+
+57) Património cultural subaquático
+
+a) Tendo em vista a salvaguarda do património cultural e/ou para permitir a realização de trabalhos arqueológicos subaquáticos, é proibido mergulhar, fundear, dragar ou alterar a topografia do fundo e exercer qualquer prática de pesca, com exceção das atividades autorizadas pela AML e pela DGPC, nos locais seguintes:
+
+i) Área adjacente aos limites do Forte de S. Julião, com 250 m de largura;
+
+ii) Cabos Submarinos de Carcavelos - Atento ao estipulado pela Convenção Internacional para a Proteção dos Cabos Submarinos, com vista à sua proteção, na área com os seguintes limites:
+
+(1) NW - linha definida pelo enfiamento do canto SW do Hotel Praia Mar (38º40.99N- 009º20.50W) com o farolim amarelo (Ajuda n.º 204 - Marconi) instalado junto à Ponta da Rana - extremo NW da Praia de Carcavelos (38º40.86N-009º20.77W), entre a linha de costa e a batimétrica dos 100 metros, marcando um Azimute Verdadeiro (Zv) 058;
+
+(2) SW - linha batimétrica dos 100 metros, entre o limite NW e o meridiano dos 009º23.08' W;
+
+(3) E - meridiano dos 009º23,08' W, entre a batimétrica dos 100 metros e o enfiamento da Marca de Caxias pelo Farol da Mama;
+
+(4) SE - linha definida pelo enfiamento da Marca de Caxias e pelo Farol da Mama, entre a linha de Entre Torres (alinhamento dos faróis do Bugio e o de São Julião da Barra) até ao meridiano dos 009º23.08W;
+
+(5) NE - linha de costa e linha de Entre Torres, entre o limite NW e o limite SE.
+
+iii) O esquema de assinalamento marítimo, com vista a sinalizar os limites da área de proteção mencionada, consta do seguinte:
+
+(1) Farolim instalado numa Torre Amarela (Ajuda n.º 204 - Marconi), instalado junto à Ponta da Rana (38º40.86N-009º20.77W), de luz Isofásica com período de 3 segundos, possuindo 3 sectores: Vermelho (Zv= 048 a 058), Branco (Zv= 058 a 068) e Obscuro (Zv= 068 a 048);
+
+(2) O enfiamento do limite SE aproveita as marcas já existentes:
+
+(i) Marca de Caxias (38º41.97N-009º16.10W);
+
+(ii) Marca da Mama (38º43.65N-009º13.63W).
+
+iv) Qualquer violação ao definido no presente Edital, neste âmbito, está sujeita aos regimes contraordenacionais previstos na [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, no [Decreto-Lei n.º 164/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1997-162668), de 27 de junho, e no [Decreto-Lei n.º 45/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2002-251982), de 2 de março.
+
+b) Zona de Interdição - Trabalhos Arqueológicos Subaquáticos
+
+i) Através do [Despacho n.º 10](https://diariodarepublica.pt/dr/detalhe/despacho/10-1995-2774592).192/2005, conjugado com o Despacho n.º 7125/2006, da Ministra da Cultura, foi inventariado o sítio arqueológico constituído pelos destroços do navio Pedro Nunes (ex-Thermopylae), afundado em 1907 na Baía de Cascais. Este sítio arqueológico subaquático, não só merece este estatuto por razões culturais e patrimoniais, como encerra em si um potencial multidisciplinar, nas vertentes educativa, turística e recreativa. No sentido de preservar a integridade física do património cultural existente foi criada uma zona de interdição;
+
+ii) A zona de interdição estabelecida corresponde a uma área circular de 200 metros de diâmetro, cujo centro se situa na posição geográfica 38º39.903N-009º23.762W;
+
+iii) Estão interditas em toda esta zona as seguintes atividades:
+
+(1) Fundear embarcações e navios;
+
+(2) Quaisquer atividades amadoras ou profissionais de pesca, calagem de armadilhas e de redes de emalhar, bem como de sinalizações;
+
+(3) Quaisquer atividades amadoras ou profissionais de mergulho subaquático;
+
+(4) Quaisquer obras que possam ter efeitos intrusivos e perturbadores dos vestígios em questão ou do seu meio envolvente, quer altere ou não a sua topografia, como dragagens, deposição de sedimentos, inertes ou quaisquer outros elementos;
+
+(5) Excetuam-se ao disposto no número anterior, o seguinte:
+
+(a) As atividades promovidas pelo organismo que tutela esta área do património arqueológico ou por entidades singulares e coletivas, públicas ou privadas, por ele credenciadas;
+
+(b) Os dispositivos de sinalização e amarração acordados pelo organismo que tutela esta área do património arqueológico com as entidades competentes na matéria;
+
+(c) As obras ou atividades acordadas com o organismo que tutela esta área do património arqueológico e por ele acompanhadas.
+
+(6) As entidades autorizadas a efetuar os estudos ou outras atividades na zona de interdição, devem:
+
+(a) Contactar com uma antecedência mínima de 4 horas o Comando Local da Polícia Marítima de Cascais, informando do período previsto para os mergulhos;
+
+(b) No local, comunicar o início e o fim dos mergulhos.
+
+c) Emissário da Guia
+
+Com vista à proteção do emissário submarino da Guia, foi definida área com assinalamento marítimo permanente, com 4 boias do tipo Marca Especial, sinalizadas nas CN.
+
+d) Zonas de Interesse Arqueológico
+
+i) São interditas as atividades de pesca e de mergulho, desde 6 de setembro de 1995, na área compreendida pelos paralelos 38º40.320N-38º40.353N e os meridianos 009º19.380W-009º19.546W (faixa retangular com comprimento de 300 jardas e largura entre as distâncias de 70 e 140 jardas à ponta da Laje do Forte de São Julião da Barra);
+
+ii) Tendo em vista a necessidade do Estado se dotar dos meios legais, permitindo o controlo efetivo de sítios arqueológicos referenciados, objeto de trabalhos arqueológicos calendarizados, mas que fora desses períodos ficam sem proteção legal, o Diretor do Centro Nacional de Arqueologia Subaquática, interdita as atividades de pesca com rede e mergulho com equipamento de mergulho, nas áreas correspondentes a círculos com 500 metros de diâmetro, centrados nas seguintes posições:
+
+(a) 38º57.370N-009º26.580W;
+
+(b) 38º57.710N-009º26.680W;
+
+(c) 38º58.220N-009º26.980W.
+
+e) Área Marinha Protegida das Avencas
+
+i) A Área Marinha Protegida (AMP) das Avencas é considerada área de interesse biofísico em observância do Capítulo IV - artigo 42.º e seguintes do [Aviso n.º 12492/2019](https://diariodarepublica.pt/dr/detalhe/aviso/12492-2019-123737290) de 6 de agosto da APA, que aprovou o Regulamento de Gestão das Praias Marítimas e do Domínio Hídrico do troço Alcobaça-Cabo Espichel. A zona em questão tem por objetivo preservar a integridade biofísica do espaço, dos recursos e do património cultural e natural existente;
+
+ii) Esta zona está delimitada pelas coordenadas (WGS84): 38º41'35" N; 9º22'03" W | 38º41'10" N; 9º21'15" W | 38º41'23" N; 9º22'11" W | 38º40'57" N; 9º21'21" W, entre a praia da Parede e da Bafureira, tendo como limite anterior a Estrada Marginal e limite posterior a distância de um quarto de milha da costa, encontrando-se representada na CN 26303;
+
+iii) Estão interditas em toda esta zona, as seguintes atividades:
+
+(1) A introdução de espécies não indígenas, da flora ou da fauna, de acordo com a legislação em vigor;
+
+(2) Recolha de amostras biológicas e geológicas ou quaisquer atos que contribuam para a degradação ou destruição do património natural, com exceção das realizadas para fins exclusivamente científicos e devidamente autorizadas pela Autoridade Nacional da Água;
+
+(3) Alterações à morfologia do solo e modificação do coberto vegetal, com exceção das intervenções de recuperação ambiental autorizadas pela Autoridade Nacional da Água;
+
+(4) Ações que possam vir a introduzir alterações na dinâmica costeira e na modificação da costa, à exceção da manutenção de estruturas de defesa costeira existentes;
+
+(5) A realização de operações de alimentação artificial das praias dentro dos limites da AMP das Avencas;
+
+(6) A ancoragem de qualquer tipo de embarcação, com exceção dos casos de embarcações inseridas em projetos de investigação científica ou de conservação da natureza, nas condições previstas nas respetivas licenças ou autorizações;
+
+(7) A instalação de unidades de aquacultura;
+
+(8) A prática de desportos náuticos motorizados;
+
+(9) A realização de competições de pesca desportiva;
+
+(10) A apanha, lúdica ou profissional, de quaisquer exemplares da fauna e da flora locais;
+
+(11) A pesca com quaisquer artes de arrasto, incluindo a ganchorra;
+
+(12) A utilização de redes de emalhar.
+
+iv) Para além de outros condicionalismos legais e regulamentares em vigor designadamente os que decorram de épocas de defeso, dentro dos limites da AMP das Avencas a prática da pesca lúdica apenas é permitida nas modalidades de cana e de pesca submarina, nos seguintes termos:
+
+(1) Ser portador do cartão 'Pescador Sustentável' obtido na formação obrigatória para o efeito e emitido pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos;
+
+(2) Os praticantes, quando apeados, devem respeitar uma distância mínima de 10 m entre si e apenas utilizar uma linha com um anzol por praticante;
+
+(3) Os praticantes de pesca submarina ficam condicionados a um peso máximo total de captura diária de 7,5 kg, não sendo contemplado para o efeito o exemplar de maior peso;
+
+v) Dentro dos limites da AMP das Avencas ficam sujeitos a autorização prévia da Capitania do Porto de Cascais os seguintes atos e atividades que, quando autorizados, estarão sujeitos a orientações e normas de conduta:
+
+(1) A realização de trabalhos de investigação/monitorização;
+
+(2) A realização de atividades de turismo de natureza;
+
+(3) As ações de educação e sensibilização ambiental.
+
+vi) As ações de educação e sensibilização ambiental devem contemplar a existência de dois responsáveis por cada 15 participantes.
+
+vii) A deslocação dos utilizadores sobre as plataformas rochosas aquando da maré baixa deve seguir os caminhos demarcados e/ou as demais orientações existentes para o efeito.
+
+## ANEXO 1 — Fundeadouros de navios mercantes e áreas de operações Scooping
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/01/002000000/0002100059.pdf)
+
+## ANEXO 2 — Informação a prestar pelas agências de navegação nos pedidos de fundeadouro
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/01/002000000/0002100059.pdf)
+
+## ANEXO 3 — Ancoradouros Interiores da Baia de Cascais
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/01/002000000/0002100059.pdf)
+
+## ANEXO 4 — Portinho da Ericeira
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2021/01/002000000/0002100059.pdf)
+
+313817267

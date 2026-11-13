@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:1672844:por
+title: Edital n.º 91-A/2014
+short_title: null
+summary: Publicação oficial dos resultados do ato eleitoral para o Conselho de Deontologia da Madeira, ocorrido em 10 de janeiro
+  de 2014, e indicação dos candidatos eleitos
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Ordem dos Advogados
+proposing_entity: null
+official_number: 91-A/2014
+official_date: null
+publication_date: '2014-02-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 24/2014, 1º Suplemento, Série II de 2014-02-04
+  number: '24'
+  series: II
+  supplement: null
+  pages: 3530-(2) a 3530-(2)
+  pdf_url: https://files.diariodarepublica.pt/2s/2014/02/024000001/0000200002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1672844'
+  dre_path: /dr/detalhe/edital/91-a-2014-1672844
+  internal: pt:dre:1672844:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/91-a-2014-1672844
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/91-a-2014-1672844
+  consolidated_url: null
+  retrieved_at: '2026-11-12T20:40:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7da81ee8c1929038b64967b0948023750eff2d045f6d82575f4fdd4ccc879e2e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T20:40:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:1502629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887768:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T20:40:45Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 91-A/2014
+
+Nos termos e para os efeitos do disposto no artigo 45.º do Regulamento Eleitoral, aprovado em sessão plenária do Conselho Geral de 4 de junho de 2007, [Regulamento n.º 146/2007](https://diariodarepublica.pt/dr/detalhe/regulamento/146-2007-887768), publicado no Diário da República, 2.ª série, n.º 129, de 6 de julho de 2007, alterado e republicado pela deliberação aprovada em sessão plenária do Conselho Geral, de 26 de julho de 2007, [Deliberação n.º 1640/2007](https://diariodarepublica.pt/dr/detalhe/deliberacao/1640-2007-1502629), publicada no Diário da República, 2.ª série, n.º 164, de 27 de agosto de 2007, procede-se à publicação oficial dos resultados do ato eleitoral para o Conselho de Deontologia da Madeira, ocorrido em 10 de janeiro de 2014, e à indicação dos candidatos eleitos:
+
+Conselho de Deontologia da Madeira:
+
+Lista A - 56 votos;
+
+Lista B - 221 votos;
+
+Votos nulos - 16;
+
+Votos em branco - 9.
+
+Eleitos:
+
+Conselho de Deontologia da Madeira:
+
+Presidente - Dr. Artur Jorge Baptista
+
+Vice-Presidente:
+
+Dr.ª Doroteia Leça
+
+Vogais:
+
+Dr.ª Clara Conde
+
+Dr. António Franco Fernandes
+
+Dr. João Viveiros
+
+3 de fevereiro de 2014. - A Bastonária, Elina Fraga.
+
+207590108

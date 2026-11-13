@@ -1,0 +1,226 @@
+---
+schema_version: '1.0'
+id: pt:dre:1949901:por
+title: Edital n.º 4/2012
+short_title: null
+summary: Abertura de concurso documental para um professor catedrático da área disciplinar de Física e Astronomia da Faculdade
+  de Ciências da Universidade do Porto
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Universidade do Porto - Reitoria
+proposing_entity: null
+official_number: 4/2012
+official_date: null
+publication_date: '2012-01-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 1/2012, Série II de 2012-01-02
+  number: '1'
+  series: II
+  supplement: null
+  pages: 20 - 22
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/01/001000000/0002000022.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1949901'
+  dre_path: /dr/detalhe/edital/4-2012-1949901
+  internal: pt:dre:1949901:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/4-2012-1949901
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/4-2012-1949901
+  consolidated_url: null
+  retrieved_at: '2026-11-12T21:08:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f45afd3454c149baa4dc56e346fb923d66bb3b025273fa78cdb800e301b135e5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T21:08:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:3199923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641418:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T21:08:36Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 4/2012
+
+Doutor Jorge Manuel Moreira Gonçalves, Professor Catedrático da Faculdade de Farmácia da Universidade do Porto, Vice-Reitor da mesma Universidade:
+
+No uso de competência delegada por despacho publicado no Diário da República, 2.ª série, n.º 203 de 19 de outubro de 2010, faço saber que, por despacho reitoral de 15 de novembro de 2011, pelo prazo de cinquenta dias úteis a contar do dia imediato ao da publicação do presente edital no Diário da República, se abre concurso documental para um Professor Catedrático da Área Disciplinar de Física e Astronomia da Faculdade de Ciências desta Universidade.
+
+I - As disposições legais aplicáveis são as seguintes:
+
+1 - Artigos 37.º a 51.º e 62.º-A, do Estatuto da Carreira Docente Universitária, republicado pelo [Decreto-Lei n.º 205/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2009-488485), de 31 de agosto, e alterado pela [Lei n.º 8/2010](https://diariodarepublica.pt/dr/detalhe/lei/8-2010-615031), de 13 de maio; Regulamento dos Concursos para Recrutamento de Professores Catedráticos, Associados e Auxiliares da Universidade do Porto - [Despacho n.º 12913/2010](https://diariodarepublica.pt/dr/detalhe/despacho/12913-2010-3199923), publicado no Diário da República, n.º 154, de 10 de agosto de 2010.
+
+II - Ao concurso podem candidatar-se:
+
+1 - Os titulares do grau de doutor há mais de cinco anos, que sejam detentores do título de agregado.
+
+Caso o doutoramento tenha sido conferido por instituição de ensino superior estrangeira, o mesmo tem de ser reconhecido por instituição de ensino superior portuguesa, nos termos do disposto no artigo 4.º do [Decreto-Lei n.º 341/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-2007-641418), publicado no Diário da República, 1.ª série, n.º 197, de 12 de outubro.
+
+Esta formalidade tem de estar cumprida até à data do termo do prazo para a candidatura.
+
+III - O processo de candidatura ao concurso é instruído com:
+
+1 - Carta de candidatura em que os candidatos deverão indicar os seguintes elementos:
+
+a) Nome completo;
+
+b) Filiação;
+
+c) Número e data do bilhete de identidade e serviço que o emitiu;
+
+d) Data e localidade de nascimento;
+
+e) Estado civil;
+
+f) Profissão;
+
+g) Residência ou endereço de contacto;
+
+h) Telefone ou telemóvel de contacto
+
+i) Endereço eletrónico de contacto.
+
+2 - Documentos comprovativos do preenchimento das condições fixadas no n.º 1 do capítulo anterior, designadamente, a certidão de doutoramento e a certidão de agregação, exceto para os casos correspondentes à obtenção do grau de doutor ou do título de agregado na Universidade do Porto;
+
+3 - Exemplares, em suporte digital e em duplicado (2 CDs ou 2 DVDs), dos seguintes documentos:
+
+a) Currículo contendo todas as informações pertinentes para a avaliação da candidatura tendo em consideração os critérios de seleção e seriação constantes do capítulo VI do presente edital;
+
+b) Trabalhos mencionados no currículo apresentado, podendo os candidatos destacar até dez dos que considerem mais representativos da atividade por si desenvolvida.
+
+IV - As instruções para a apresentação da informação, em suporte digital, encontram-se disponíveis na área de Concursos de Pessoal do SIGARRA U.PORTO, no endereço http://sigarra.up.pt/up/web_base.gera_pagina?p_pagina=1004282.
+
+V - A Reitoria comunicará aos candidatos o despacho de admissão ou não admissão administrativa ao concurso, o qual se baseará no preenchimento ou na falta de preenchimento, por parte daqueles, das condições estabelecidas no capítulo II -1 deste edital.
+
+VI - Critérios e parâmetros de avaliação em concursos para Professor Catedrático
+
+Nos concursos para Professor Catedrático os critérios de seleção e seriação dos candidatos são o mérito científico, o mérito pedagógico e a participação em outras atividades relevantes para a missão da Universidade do Porto.
+
+A. Na avaliação do mérito científico dos candidatos serão considerados os seguintes parâmetros (0 a 12 valores):
+
+I. Liderança científica (0 a 7 valores). Este indicador avalia a capacidade consolidada de autonomia científica do candidato, nomeadamente pela afirmação e relevância de um projeto científico próprio, sendo analisados:
+
+i. Sinais de reconhecimento internacional de liderança científica, por exemplo, manifestado através de convites para conferências de prestígio, para conselhos editoriais de revistas ou de simples intervenção como par avaliador.
+
+ii. Coordenação de projetos de investigação com financiamento externo obtido em concurso, dando atenção ao valor do financiamento, à composição da equipa proposta, aos resultados de avaliações de que tenham sido objeto, bem como aos resultados obtidos, seja em termos científicos, seja em termos de protótipos concretizados, seja ainda em termos de impacto na comunidade envolvente, através do desenvolvimento de aplicações práticas e ou ações de transferência de tecnologia.
+
+iii. Supervisão de estudantes de mestrado ou de doutoramento cujos resultados sejam reconhecidos pela comunidade científica em publicação.
+
+iv. Publicações de artigos científicos, nomeadamente aqueles em que o candidato seja reconhecidamente autor principal, devendo o candidato indicar os que considera mais relevantes e explicitar a sua participação em casos de coautoria.
+
+v. Realização de obras de grande mérito e com forte componente científica ou de inovação tecnológica.
+
+II. Outros indicadores da qualidade do desempenho científico (0 a 5 valores). Serão analisados:
+
+i. A produção científica do candidato que tenha resultado quer em livros, quer em publicações científicas indexadas internacionalmente (por exemplo, Thomson Scientific ou Scopus), considerando o seu número, impacto da revista e citações já feitas por outros autores, a indicar pelo candidato.
+
+ii. Outra produção científica concretizada em resultados práticos, nomeadamente, o desenvolvimento de protótipos ou a produção de aplicações informáticas.
+
+iii. O registo de patentes nacionais, europeias, e internacionais, em particular quando estejam já a ser exploradas.
+
+iv. Quando aplicável, a valorização económica dos resultados de investigação alcançados medida pelos contratos de desenvolvimento e de transferência de tecnologia a que deram origem, as patentes que resultaram e as empresas de spin-off para cuja criação tenham contribuído.
+
+B. Na avaliação do mérito pedagógico dos candidatos serão considerados os seguintes parâmetros (0 a 6 valores):
+
+Serão considerados todos os aspetos com relevância pedagógica que o candidato tenha trazido ao conhecimento do júri, desde que sejam suscetíveis de avaliação qualitativa verificável:
+
+i. Publicações de índole pedagógica, quer em livros, quer em publicações científicas indexadas internacionalmente (por exemplo, Thomson Scientific ou Scopus), bem como o desenvolvimento e produção de materiais pedagógicos, em particular utilizando novas tecnologias (e-learning, ensino à distância), dando particular ênfase à qualidade e originalidade do material pedagógico produzido pelo candidato; os materiais pedagógicos deverão ser disponibilizados em formato papel ou eletrónico.
+
+ii) Qualidade e diversidade da atividade letiva desenvolvida pelo candidato; a avaliação da qualidade far-se-á recorrendo, sempre que possível, a métodos de avaliação pedagógica objetivos.
+
+iii) Desenvolvimento de novos programas de disciplinas, criação e coordenação de novos cursos ou programas de estudos, bem como a realização de projetos com impacto no processo de ensino/aprendizagem.
+
+C. Na avaliação da participação em outras atividades relevantes para a missão da Universidade do Porto (0 a 2 valores) serão considerados nomeadamente:
+
+i) Participação em órgãos de gestão das Instituições a que esteve vinculado.
+
+ii) Realização de tarefas atribuídas por órgãos de gestão das Instituições a que esteve vinculado e que se incluam no âmbito da atividade de docente universitário.
+
+iii) Participação em tarefas de extensão universitária, de divulgação científica e de valorização económica e social do conhecimento.
+
+VII - O júri tem a seguinte composição:
+
+Presidente: Prof. Doutor Jorge Manuel Moreira Gonçalves, Vice-Reitor da Universidade do Porto.
+
+Vogais:
+
+Prof. Doutor Luís Miguel Bernardo, Professor Catedrático da Faculdade de Ciências da Universidade do Porto;
+
+Prof. Doutor Orfeu Bertolami Neto, Professor Catedrático da Faculdade de Ciências da Universidade do Porto;
+
+Prof. Doutor José Luís Campos de Oliveira Santos, Professor Catedrático da Faculdade de Ciências da Universidade do Porto;
+
+Prof. Doutor Martin Andrischky, Professor Catedrático da Universidade do Minho;
+
+Prof. Doutor Luís António Ferreira Martins Dias Carlos, Professor Catedrático da Universidade de Aveiro;
+
+Prof. Doutor José António de Carvalho Paixão, Professor Catedrático da Faculdade de Ciências e Tecnologia da Universidade de Coimbra;
+
+Prof.ª Doutora Maria Adelaide de Almeida Pedro de Jesus, Professora Catedrática da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa;
+
+Prof. Doutor Robertus Potting, Professor Catedrático da Faculdade de Ciências e Tecnologia da Universidade do Algarve;
+
+Prof. Doutor Christophe Sauty, Professor no Observatoire de Paris, Laboratoire Univers et Théories.
+
+VIII - Em cumprimento da alínea h) do artigo 9.º da Constituição, a Administração Pública, enquanto entidade empregadora, promove ativamente uma política de igualdade de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação.
+
+27 de dezembro de 2011. - O Reitor, José C. D. Marques dos Santos.
+
+205523385

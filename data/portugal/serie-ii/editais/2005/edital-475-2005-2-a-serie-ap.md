@@ -1,0 +1,713 @@
+---
+schema_version: '1.0'
+id: pt:dre:3594319:por
+title: Edital n.º 475/2005 (2.ª série) - AP
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Câmara Municipal da Horta
+proposing_entity: null
+official_number: 475/2005 (2.ª série) - AP
+official_date: null
+publication_date: '2005-08-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 157/2005, Apêndice 112/2005, Série II de 2005-08-17
+  number: '157'
+  series: II
+  supplement: null
+  pages: 50 - 58
+  pdf_url: https://files.diariodarepublica.pt/2s/2005/08/157112000/0005000058.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3594319'
+  dre_path: /dr/detalhe/edital/475-2005-3594319
+  internal: pt:dre:3594319:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/475-2005-3594319
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/475-2005-3594319
+  consolidated_url: null
+  retrieved_at: '2026-11-13T00:14:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 105863f2929ad48dc60a6da21e336cd8c6bff8089927f12b9ce171b3b5922511
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T00:14:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:221347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632067:por
+  label: null
+  source: null
+article_structure:
+  article_count: 60
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T00:14:34Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 475/2005 (2.ª série) - AP
+
+Edital n.º 475/2005 (2.ª série) - AP. - João Fernando Brum de Azevedo e Castro, presidente da Câmara Municipal da Horta:
+
+Torna público, nos termos e para os efeitos do disposto no artigo 118.º do Código de Procedimento Administrativo, que se encontra em fase de apreciação pública, para recolha de sugestões, um projecto de Regulamento - Transporte Público de Aluguer em Veículos Automóveis Ligeiros de Passageiros - Transporte em Táxi.
+
+Os interessados devem dirigir por escrito as suas sugestões ao órgão com competência regulamentar dentro do prazo de 30 dias contados da data da publicação desta proposta no Diário da República.
+
+6 de Julho de 2005. - O Presidente da Câmara, João Fernando Brum de Azevedo e Castro.
+
+Proposta de Regulamento do Transporte Público de Aluguer em Veículos Automóveis Ligeiros de Passageiros - Transportes em Táxi
+
+Concelho da Horta
+
+Preâmbulo
+
+Em 22 de Agosto de 2000 foi publicado no Jornal Oficial, 2.ª série, n.º 193, o edital n.º 355/2000 (2.ª série), que editou o Regulamento de Transporte Público de Aluguer em Veículos Automóveis Ligeiros de Passageiros - Transporte em Táxi para o concelho da Horta, ao abrigo das competências conferidas pelo [Decreto-Lei n.º 251/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1998-438069), de 11 de Agosto.
+
+Decorridos três anos da sua vigência, justifica-se a realização de uma revisão sustentada nos seguintes factos:
+
+Introdução de novos diplomas legais que estabeleceram alterações significativas aos pressupostos de base da concepção do regulamento no ano de 2000, tanto em matéria de acesso e organização do mercado, como em matérias relativas às características dos táxis; e,
+
+Actualização do contingente, do regime de estacionamento e locais de estacionamento.
+
+No pressuposto de que a proposta de revisão têm como objectivo regular e orientar a actividade de transporte em táxi foram ouvidas as entidades representativas do sector, bem como as entidades com tutela sobre o exercício desta actividade.
+
+Deste modo submete-se a presente proposta de regulamento à apreciação da Câmara Municipal da Horta, resultando na validação desta o início dos procedimentos de inquérito público, nos termos da legislação em vigor.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente Regulamento aplica-se a toda a área do município da Horta.
+
+###### Artigo 2.º — Objecto
+
+O presente Regulamento tem por objecto o desenvolvimento de um quadro regulador do acesso e da organização ao mercado de transportes públicos de aluguer em veículos ligeiros de passageiros, como tal definidos pelo [Decreto-Lei n.º 251/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1998-438069), de 11 de Agosto, com a redacção dada pelas Leis n.os [156/99](https://diariodarepublica.pt/dr/detalhe/lei/156-1999-570556), de 14 de Setembro, e [106/2001](https://diariodarepublica.pt/dr/detalhe/lei/106-2001-632067), de 31 de Agosto, e com as alterações introduzidas pelo [Decreto-Lei n.º 41/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), de 11 de Março, e adiante designados por transporte em táxi.
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente regulamento considera-se:
+
+Táxi - o veículo automóvel ligeiro de passageiros afecto ao transporte público, equipado com aparelho de medição de tempo e distância, com distintivos próprios e devidamente licenciados para o exercício da actividade pela Câmara Municipal;
+
+Transporte em táxi - o transporte efectuado por meio de veículo a que se refere a alínea anterior, ao serviço de uma só entidade, segundo itinerário da sua escolha e mediante retribuição;
+
+Transportador em táxi - a empresa habilitada com alvará para o exercício da actividade de transportes em táxi;
+
+Estacionamento livre - os táxis podem circular livremente à disposição do público, não existindo locais obrigatórios para o estacionamento;
+
+Estacionamento condicionado - os táxis podem estacionar em qualquer dos locais reservados para o efeito, até ao limite dos lugares fixados;
+
+Estacionamento fixo - os táxis são obrigados a estacionar em locais determinados e constantes da respectiva licença;
+
+Estacionamento por escala - os táxis são obrigados a cumprir um regime sequencial de prestação de serviço.
+
+### CAPÍTULO II — Acesso à actividade
+
+###### Artigo 4.º — Licenciamento da actividade
+
+1 - A actividade de transporte em táxi só pode ser exercida por sociedades comerciais ou cooperativas portadoras de alvará emitido pela Direcção dos Serviços de Viação e Transportes Terrestres da Horta ou por empresários em nome individual no caso de pretenderem explorar uma única licença.
+
+2 - Aos concursos para a concessão de licenças para a actividade de transporte em táxi podem concorrer para além das entidades previstas no número anterior, os trabalhadores por conta de outrem, bem como os membros de cooperativas licenciadas pelos Direcção dos Serviços de Viação e Transportes Terrestres da Horta e que preencham as condições de acesso e exercício da profissão definidas nos termos do [Decreto-Lei n.º 251/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1998-438069), de 11 de Agosto, com a redacção dada pelas Leis n.os [156/99](https://diariodarepublica.pt/dr/detalhe/lei/156-1999-570556), de 14 de Setembro, e [106/2001](https://diariodarepublica.pt/dr/detalhe/lei/106-2001-632067), de 31 de Agosto, e com as alterações introduzidas pelo [Decreto-Lei n.º 41/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), de 11 de Março, e adiante designados por transporte em táxi.
+
+3 - A licença para o exercício da actividade de transportes em táxi consubstancia-se num alvará, o qual é intransmissível e é emitido por um prazo não superior a cinco anos, renovável mediante a comprovação de que se mantêm os requisitos de acesso à actividade.
+
+4 - A Direcção dos Serviços de Viação e Transportes Terrestres da Horta procede ao registo de todas as empresas titulares de alvará para o exercício desta actividade.
+
+###### Artigo 5.º — Requisitos de acesso
+
+São requisitos de acesso à actividade a idoneidade, a capacidade técnica ou profissional e a capacidade financeira.
+
+###### Artigo 6.º — Idoneidade
+
+1 - O requisito de idoneidade deve ser preenchido por todos os gerentes, directores ou administradores da empresa ou, no caso de empresário em nome individual, pelo próprio.
+
+2 - São consideradas idóneas as pessoas relativamente às quais se não verifique algum dos seguintes impedimentos:
+
+a) Proibição legal do exercício do comércio;
+
+b) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício da profissão de transportador;
+
+c) Condenação, com trânsito em julgado, por infracções graves e repetidas à regulamentação sobre os tempos de condução e de repouso ou à regulamentação sobre a segurança rodoviária, nos casos em que tenha sido decretada a interdição do exercício da profissão de transportador;
+
+d) Condenação, com trânsito em julgado, por infracções cometidas no exercício da actividade transportadora às normas relativas ao regime das prestações de natureza retributiva ou às condições de higiene e segurança no trabalho, nos casos em que tenha sido decretada a interdição do exercício da profissão de transportador.
+
+###### Artigo 7.º — Capacidade técnica ou profissional
+
+1 - O requisito de capacidade técnica ou profissional consiste na posse dos conhecimentos necessários para o exercício da actividade, verificada no âmbito de um exame efectuado pela Direcção dos Serviços de Viação e Transportes Terrestres da Horta, nos termos e sobre as matérias que vierem a ser definidas por portaria do membro do Governo responsável pela área dos transportes, ou comprovada por cinco anos de experiência na gestão de uma empresa de transportes rodoviários de passageiros.
+
+2 - O requisito de capacidade técnica ou profissional deve ser preenchido, no caso de sociedades comerciais, por um gerente ou administrador, nas cooperativas, por um dos seus directores que detenha a direcção efectiva e, no caso de empresário em nome individual, pelo próprio ou por seu mandatário.
+
+###### Artigo 8.º — Capacidade financeira
+
+A capacidade financeira consiste na posse dos recursos financeiros necessários para garantir a boa gestão da empresa, nos termos a definir por portaria do membro do Governo responsável pela área dos transportes.
+
+###### Artigo 9.º — Falta superveniente de requisitos
+
+1 - A falta superveniente dos requisitos de idoneidade, de capacidade profissional ou de capacidade financeira deve ser suprida no prazo de um ano a contar da data da sua ocorrência.
+
+2 - Decorrido o prazo previsto no número anterior sem que a falta seja suprida, caduca o alvará para o exercício da actividade de transportador em táxi.
+
+###### Artigo 10.º — Dever de informação
+
+1 - As empresas devem comunicar à Direcção dos Serviços de Viação e Transportes Terrestres da Horta as alterações ao pacto social, designadamente modificações na administração, direcção ou gerência, bem como mudanças de sede, no prazo de 30 dias a contar da sua ocorrência.
+
+2 - O disposto no número anterior aplica-se, com as devidas adaptações, aos empresários em nome individual.
+
+### CAPÍTULO III — Acesso e organização do mercado
+
+#### SECÇÃO I — Acesso ao mercado
+
+###### Artigo 11.º — Veículos
+
+1 - Nos transportes em táxi só podem ser utilizados veículos automóveis ligeiros de passageiros de matrícula nacional, com lotação não superior a nove lugares, incluindo o do condutor, equipado com taxímetro e conduzidos por motoristas habilitados com certificado de aptidão profissional.
+
+2 - As normas de identificação, o tipo de veículo, as condições de afixação de publicidade e outras características a que devem obedecer os táxis, são as estabelecidas na Portaria n.º 227-A/99, de 15 de Abril, com as alterações introduzidas pela [Portaria n.º 1318/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), de 29 de Novembro.
+
+3 - Por despacho do membro do Governo responsável pela área dos transportes pode ainda prever-se um regime especial de inspecção aos veículos que considere, designadamente, as condições de funcionamento e segurança do veículo, bem como o seu estado de conservação, exterior e interior, e de comodidade.
+
+###### Artigo 12.º — Licenciamento dos veículos
+
+1 - Os veículos afectos ao transporte em táxi estão sujeitos a uma licença a emitir pela Câmara Municipal da Horta, nos termos do capítulo IV do presente Regulamento, e são averbados no alvará pela Direcção dos Serviços de Viação e Transportes Terrestres da Horta.
+
+2 - A licença do táxi e o alvará ou sua cópia certificada devem estar a bordo do veículo e em local visível.
+
+###### Artigo 13.º — Fixação de contingente
+
+1 - O número de táxis em actividade no município é o estabelecido pelo contingente fixado pela Câmara Municipal e que abrangerá todo o concelho da Horta.
+
+2 - A fixação do contingente será revista com uma periodicidade não inferior a dois anos e será sempre precedida de audição das entidades representativas do sector.
+
+3 - Na fixação do contingente serão tomadas em consideração as necessidades globais de transporte em táxi na área do município.
+
+4 - A Câmara Municipal procederá à fixação do contingente de táxis no prazo de três meses após a entrada em vigor do presente Regulamento.
+
+5 - As actualizações ou alterações ao contingente de táxis devem ser comunicados à Direcção dos Serviços de Viação e Transportes Terrestres da Horta.
+
+###### Artigo 14.º — Preenchimento dos lugares do contingente
+
+1 - A atribuição de novas licenças, dentro do contingente fixado, far-se-á por meio de concurso público aberto às entidades referidas nos n.os 1 e 2 do artigo 4.º e nos termos do capítulo IV do presente Regulamento.
+
+2 - No caso de a licença em concurso ser atribuída a uma das pessoas a que se refere o n.º 2 do artigo 4.º deste Regulamento, esta dispõe de um prazo de 180 dias para efeitos de licenciamento para o exercício da actividade, findo o qual caduca o respectivo direito à licença.
+
+#### SECÇÃO II — Organização do mercado
+
+###### Artigo 15.º — Tipos de serviço
+
+Os serviços de transporte em táxi são prestados em função da distância percorrida e dos tempos de espera, ou:
+
+a) À hora, em função da duração do serviço;
+
+b) A percurso, em função dos preços estabelecidos para determinados itinerários;
+
+c) A contrato, em função de acordo reduzido a escrito estabelecido por prazo não inferior a 30 dias, onde constem obrigatoriamente o respectivo prazo, a identificação das partes e o preço acordado.
+
+###### Artigo 16.º — Locais e regimes de estacionamento
+
+1 - Na área do município, e em conformidade com a fixação dos contingentes e licenças emitidas pelo município, são autorizados os seguintes regimes de estacionamento:
+
+a) Nas freguesias rurais - estacionamento livre;
+
+b) Na cidade da Horta - estacionamento livre/condicionado, existindo os seguintes locais de estacionamento:
+
+1) Praça localizada no parque de estacionamento das instalações comerciais do Modelo (com lotação para três veículos);
+
+2) Praça em frente ao Clube Naval da Horta, na Rua Vasco da Gama (com lotação máxima de 14 veículos);
+
+3) Praça localizada na Rua Conselheiro Miguel da Silveira (com lotação máxima de quatro veículos);
+
+4) Praça localizada no Largo Duque d'Ávila e Bolama, entre o antigo edifício da PSP e a Casa das Casimiras (com lotação máxima de seis veículos);
+
+5) Praça localizada do lado sul da Praça da República (com lotação máxima de 12 veículos);
+
+6) Praça temporária do Aeroporto (com lotação máxima de 29 veículos);
+
+7) Praça temporária do Porto Comercial da Horta, terminal de passageiros (condicionada à chegada e partida de passageiros).
+
+2 - Os locais referidos no número anterior estão assinalados respectivamente nos mapas em anexo.
+
+3 - Por protocolo estabelecido entre a Câmara Municipal e as entidades representantes do sector pode ser criado um regime de estacionamento por escala.
+
+4 - Pode a Câmara Municipal da Horta, no uso das suas competências próprias em matéria de ordenação de trânsito criar novos locais de estacionamento, dentro da área para que os contingentes são fixados, bem como extinguir e alterar os locais onde os veículos podem estacionar.
+
+5 - Excepcionalmente, por ocasião de eventos que determinam um acréscimo excepcional de procura, a Câmara Municipal poderá criar locais de estacionamento temporários para os táxis, em local diferente do fixado e definir as condições em que o estacionamento é autorizado nesses locais.
+
+6 - Pode a Câmara Municipal, no uso das suas competências, deliberar a alteração do regime de estacionamento, em área de estacionamento ou praças a designar, nos meses de Junho, Julho, Agosto e Setembro, abrangendo ou não todos os táxis do contingente.
+
+7 - Os locais destinados ao estacionamento de táxis serão devidamente assinalados através de sinalização vertical, podendo ser complementado por sinalização horizontal.
+
+8 - Nos locais de estacionamento dos táxis, estabelece-se a prioridade da prestação do serviço segundo a ordem de chegada ao local de estacionamento pelos táxis.
+
+9 - Exceptuam-se do disposto no n.º 8 do presente artigo:
+
+a) Os táxis de taxa superior que, podendo utilizar os locais de estacionamento previstos, ficam sujeitos ao direito de opção do utente por um táxi de tarifa normal estacionado posteriormente;
+
+b) O direito do utente de optar por um táxi de taxa superior, mesmo que estacionado posteriormente.
+
+###### Artigo 17.º — Abandono do exercício da actividade
+
+1 - Salvo caso fortuito ou de força maior, bem como de exercício de cargos sociais ou políticos, considera-se que há abandono do exercício da actividade sempre que os táxis não estejam à disposição do público durante 30 dias consecutivos ou 60 dias interpolados dentro do período de um ano.
+
+2 - Sempre que haja abandono de exercício da actividade caduca o direito à licença.
+
+### CAPÍTULO IV — Atribuição de licenças
+
+###### Artigo 18.º — Atribuição de licenças
+
+1 - A atribuição de licenças para o transporte em táxi é feita por concurso público.
+
+2 - O concurso público é aberto por deliberação da Câmara Municipal da Horta, de onde constará também a aprovação do programa de concurso.
+
+###### Artigo 19.º — Abertura de concurso
+
+1 - Quando se verifique a necessidade de aumentar o contingente deverá abrir-se concurso público.
+
+2 - Quando se verifique a libertação de licenças poderá ser aberto concurso para atribuição das mesmas.
+
+###### Artigo 20.º — Publicitação do concurso
+
+1 - O concurso público inicia-se com a publicação de um aviso na 2.ª série do Jornal Oficial da Região Autónoma dos Açores.
+
+2 - O concurso será publicitado, em simultâneo com aquela publicação, num jornal de circulação nacional ou num de circulação local ou regional, bem como por edital a afixar nos locais de estilo.
+
+3 - O período para apresentação de candidaturas será, no mínimo, de 15 dias contados da última publicação.
+
+4 - No período referido no número anterior o programa de concurso estará exposto para consulta do público nas instalações da Câmara Municipal da Horta.
+
+###### Artigo 21.º — Programa de concurso
+
+1 - O programa de concurso define os termos a que obedece o concurso e especificará, nomeadamente, o seguinte:
+
+a) Identificação do concurso;
+
+b) Identificação da entidade que preside ao concurso;
+
+c) O endereço do município, com menção do horário de funcionamento;
+
+d) A data limite para apresentação das candidaturas;
+
+e) Os requisitos mínimos de admissão ao concurso;
+
+f) A forma que deve revestir a apresentação das candidaturas, nomeadamente modelos de requerimentos e declarações;
+
+g) Os documentos que acompanham obrigatoriamente as candidaturas;
+
+h) Os critérios que presidirão à hierarquização dos concorrentes e consequente atribuição de licenças.
+
+2 - Da identificação do concurso constará expressamente: a área e o tipo de serviço para que é aberto e o regime de estacionamento.
+
+###### Artigo 22.º — Requisitos de admissão a concurso
+
+1 - Aos concursos para concessão de licenças para a actividade de transportes em táxi podem concorrer as entidades previstas no artigo 4.º do presente Regulamento.
+
+2 - Deverão fazer prova de regularização de dívidas por impostos ao Estado e por contribuições para a segurança social.
+
+3 - Para efeitos do número anterior, considera-se que têm situação regularizada os contribuinte que preencham os seguintes requisitos:
+
+a) Não sejam devedores perante a fazenda nacional de quaisquer impostos ou prestações tributárias e respectivos juros;
+
+b) Estejam a proceder ao pagamento da dívida em prestações nas condições e termos autorizados;
+
+c) Tenham reclamado, recorrido, ou impugnado judicialmente aquelas dívidas, salvo se, pelo facto de não ter sido prestada garantia nos termos do Código de Processo Tributário e não tiver sido suspensa a respectiva execução.
+
+###### Artigo 23.º — Apresentação da candidatura
+
+1 - As candidaturas serão apresentadas por mão própria ou pelo correio até ao termo do prazo fixado no anúncio do concurso, no serviço municipal por onde corra o processo.
+
+2 - Quando entregues por mão própria, serão passados aos apresentantes recibos de todos os requerimentos, documentos e declarações entregues.
+
+3 - As candidaturas que não sejam apresentadas até ao limite do prazo fixado, de forma a nesse dia darem entrada nos serviços municipais, serão consideradas excluídas.
+
+4 - A não apresentação de quaisquer documentos a entregar no acto de candidatura, que devam ser obtidos perante qualquer entidade pública, pode não originar a imediata exclusão do concurso, desde que seja apresentado recibo passado pela entidade em como os mesmo documentos foram requeridos em tempo útil.
+
+5 - No caso previsto no número anterior, será a candidatura admitida condicionalmente, devendo aqueles ser apresentados nos dois dias úteis seguintes ao do limite do prazo para apresentação das candidaturas, findos os quais será aquela excluída.
+
+###### Artigo 24.º — Da candidatura
+
+1 - A candidatura é feita mediante requerimento dirigido ao presidente da Câmara Municipal, de acordo com modelo a aprovar pela Câmara Municipal da Horta e deverá ser acompanhada dos seguintes documentos:
+
+a) Documento comprovativo de que reúne os requisitos previstos no artigo 4.º do presente Regulamento;
+
+b) Documento comprovativo de que se encontra regularizada a sua situação relativamente às contribuições para a segurança social;
+
+c) Documento comprovativo de que se encontra em situação regularizada relativamente a impostos ao Estado;
+
+d) Documento comprovativo da localização da sede social da empresa;
+
+e) Documento relativo ao número de postos de trabalho com carácter de permanência, afectos à actividade e com a categoria de motoristas.
+
+2 - Para demonstração da localização da sede social da empresa é exigível a apresentação de uma certidão emitida pela conservatória do registo comercial.
+
+###### Artigo 25.º — Análise das candidaturas
+
+Findo o prazo a que se refere o n.º 3 do artigo 20.º, o serviço por onde corre o processo de concurso, apresentará à Câmara Municipal, no prazo de 10 dias, um relatório fundamentado com a classificação ordenada dos candidatos para efeitos de atribuição da licença, de acordo com o critério de classificação fixado.
+
+###### Artigo 26.º — Critérios de atribuição de licenças
+
+1 - Na classificação dos concorrentes e na atribuição de licenças serão tidos em consideração os seguintes critérios de preferência, por ordem decrescente:
+
+a) Localização da sede social na área do concelho;
+
+b) Número de postos de trabalho com carácter de permanência, afectos a cada viatura, referente aos dois anos anteriores ao do concurso;
+
+c) Localização da sede social no município mais próximo;
+
+d) Número de anos de actividade no sector.
+
+2 - A cada candidato será concedida apenas uma licença em cada concurso.
+
+###### Artigo 27.º — Atribuição de licenças
+
+1 - A Câmara Municipal da Horta, tendo sempre presente o relatório apresentado, dará cumprimento ao artigo 100.º e seguintes do Código de Procedimento Administrativo, dando aos candidatos o prazo de 15 dias para se pronunciarem sobre o mesmo.
+
+2 - Recebidas as reclamações dos candidatos, serão as mesmas analisadas pelo serviço que elaborou o relatório de classificação inicial, e que apresentará à Câmara Municipal um relatório final, devidamente fundamentado, para decisão definitiva sobre a atribuição de licença.
+
+3 - Da deliberação que decida a atribuição de licença deve constar obrigatoriamente:
+
+a) Identificação do titular da licença;
+
+b) O tipo de serviço que está autorizado a praticar;
+
+c) O regime de estacionamento e o local de estacionamento se for caso disso;
+
+d) O número dentro do contingente;
+
+e) O prazo para o futuro titular da licença proceder ao licenciamento do veículo, nos termos dos artigos 12.º e 28.º deste Regulamento.
+
+###### Artigo 28.º — Emissão da licença
+
+1 - Dentro do prazo estabelecido na alínea f) do n.º 3 do artigo anterior, o futuro titular da licença apresentará o veículo à Direcção dos Serviços de Viação e Transportes Terrestres da Horta para verificação das condições constantes da Portaria n.º 227-A/99, de 15 de Abril, com as alterações introduzidas pela [Portaria n.º 1318/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1318-2001-568092), de 29 de Novembro.
+
+2 - Após a vistoria ao veículo nos termos do número anterior, e nada havendo a assinalar, a licença é emitida pelo presidente da Câmara Municipal, a pedido do interessando, devendo o requerimento ser feito em impresso próprio fornecido pela Câmara Municipal, e ser acompanhado dos seguintes documentos que, os quais serão devolvidos ao requerente após conferência:
+
+a) Alvará de acesso à actividade emitido pela Direcção dos Serviços de Viação e Transportes Terrestres da Horta;
+
+b) Certidão emitida pela Conservatória do Registo Comercial ou bilhete de identidade no caso de pessoas singulares;
+
+c) Livrete do veículo e título de registo de propriedade;
+
+d) Declaração do anterior titular da licença, com assinatura reconhecida presencialmente, nos casos em que ocorra a transmissão da licença prevista no artigo 32.º do presente Regulamento;
+
+e) Alvará emitido pela Direcção dos Serviços de Viação e Transportes Terrestres da Horta no caso de substituição das licenças previstas no artigo 31.º deste Regulamento.
+
+3 - Pela emissão da licença é devida uma taxa de montante estabelecido no Regulamento de Taxas e Licenças.
+
+4 - Por cada averbamento que não seja da responsabilidade do município, é devida a taxa prevista no Regulamento de Taxas e Licenças.
+
+5 - A Câmara Municipal devolverá ao requerente um duplicado do requerimento devidamente autenticado, o qual substitui a licença por um período máximo de 30 dias.
+
+6 - A licença obedece ao modelo e condicionalismo previsto no Despacho n.º 8894/99 (2.ª série) da Direcção-Geral de Transportes Terrestres (Diário da República n.º 104, de 5 de Maio de 1999).
+
+###### Artigo 29.º — Caducidade da licença
+
+1 - A licença do táxi caduca se não for iniciada a exploração no prazo fixado pela Câmara municipal ou, na falta deste, 90 dias após a emissão da licença, e sempre que não seja renovado o alvará.
+
+2 - Quando haja abandono da actividade nos termos do artigo 17.º do presente Regulamento.
+
+3 - Em caso de morte do titular da licença, a actividade pode continuar a ser exercida por herdeiros legitimários ou cabeça-de-casal, provisoriamente, pelo período de um ano a partir da data do óbito, durante o qual os herdeiros ou cabeça-de-casal deve habilitar-se como transportador em táxi ou transmitir a licença a uma sociedade comercial ou cooperativa titular de alvará para o exercício da actividade de transporte em táxi.
+
+###### Artigo 30.º — Prova de emissão e renovação do alvará
+
+1 - Os titulares de licenças emitidas pela Câmara Municipal devem fazer prova da renovação do alvará no prazo máximo de 10 dias, sob pena da caducidade das licenças.
+
+2 - Caducada a licença, a Câmara Municipal determina a sua apreensão, a qual tem lugar na sequência de notificação ao respectivo titular.
+
+###### Artigo 31.º — Substituição das licenças
+
+1 - Verifica-se a substituição da licença quando houver permuta de veículo, validadas as condições para o exercício da actividade pela Direcção dos Serviços de Viação e Transportes Terrestres da Horta, por renovação ou novos averbamentos no alvará, por transmissão ou transferência da licença, e ainda por alterações da licença decorrentes da fixação de contingentes ou outras situações que possam ser estabelecidas pela Câmara Municipal.
+
+2 - O processo de licenciamento obedece ao estabelecido nos artigos 12.º e 28.º do presente Regulamento, com as necessárias adaptações.
+
+###### Artigo 32.º — Transmissão ou transferência das licenças
+
+1 - A transmissão ou transferência das licenças apenas pode ocorrer entre empresas devidamente habilitadas com alvará, e deve ser previamente comunicada à Câmara Municipal.
+
+2 - Num prazo de 15 dias após a transmissão ou transferência da licença tem o interessado de proceder à substituição da licença, nos termos deste Regulamento.
+
+###### Artigo 33.º — Publicidade e divulgação da concessão de licença
+
+1 - A Câmara Municipal dará imediata publicidade à concessão da licença através de:
+
+a) Publicação do aviso em boletim municipal, quando exista, e através de edital a afixar nos Paços do Município;
+
+b) Publicação do aviso num dos jornais mais lidos na área do município.
+
+2 - A Câmara Municipal comunicará a concessão da licença e o teor desta a:
+
+a) Comandante da força policial existente no concelho;
+
+b) Direcção dos Serviços de Viação e Transportes Terrestres da Horta;
+
+c) Organizações socioprofissionais do sector.
+
+###### Artigo 34.º — Obrigações fiscais
+
+No âmbito do dever de cooperação com a administração fiscal que impende sobre as autarquias locais, a Câmara Municipal comunicará à direcção de finanças respectiva a emissão de licenças para exploração da actividade de transporte em táxi.
+
+### CAPÍTULO V — Condições de exploração do serviço
+
+###### Artigo 35.º — Prestação obrigatória de serviços
+
+1 - Os táxis devem estar à disposição do público, de acordo com o regime de estacionamento que lhes for fixado, não podendo ser recusados os serviços solicitados em conformidade com a tipologia prevista no presente Regulamento, salvo o disposto no número seguinte.
+
+2 - Podem ser recusados os seguintes serviços:
+
+a) Os que impliquem a circulação em vias manifestamente intransitáveis pelo difícil acesso ou em locais que ofereçam notório perigo para a segurança dos passageiros, do motorista e do veículo;
+
+b) Os que sejam solicitados por pessoas com comportamento suspeito de perigosidade.
+
+###### Artigo 36.º — Transporte de bagagens e de animais
+
+1 - O transporte de bagagens só pode ser recusado nos casos em que as suas características prejudiquem a conservação do veículo.
+
+2 - É obrigatório o transporte de cães-guias de passageiros invisuais e de cadeiras de rodas ou outros meios de marcha de pessoas com mobilidade reduzida, bem como de carrinhos e acessórios para o transporte de crianças.
+
+3 - Não poder ser recusado o transporte de animais de companhia, desde que devidamente acompanhados e acondicionados, salvo motivo atendível, designadamente a perigosidade, o estado de saúde ou de higiene.
+
+###### Artigo 37.º — Regime de preços
+
+1 - Os transportes em táxi estão sujeitos ao regime de preços fixado em legislação especial.
+
+2 - O regime tarifário deve estar em local bem visível pelos passageiros, não podendo ser autorizados os veículos para o exercício da actividade que não cumpram esta condição.
+
+###### Artigo 38.º — Taxímetros
+
+1 - Os táxis devem estar equipados com taxímetros homologados e aferidos por entidade reconhecida para efeitos de controlo metrológico dos aparelhos de medição de tempo e de distância.
+
+2 - Os taxímetros devem ser colocados na metade superior do tablier ou em cima deste, em local bem visível pelos passageiros, não podendo ser aferidos os que não cumpram esta condição.
+
+3 - Por portaria ou despacho do membro do Governo responsável pelos transportes terrestres será fixado o prazo para a colocação e aferição de taxímetros nos veículos ligeiros de aluguer.
+
+### CAPÍTULO VI — Regimes especiais
+
+###### Artigo 39.º — Táxis para pessoas com mobilidade reduzida
+
+1 - A Câmara Municipal atribuirá licenças de táxis para o transporte de pessoas com mobilidade reduzida, desde que devidamente adaptados, de acordo com as regras definidas por despacho do director regional dos Transportes Terrestres.
+
+2 - As licenças a que se refere o número anterior são atribuídas pela Câmara Municipal fora do contingente e sempre que a necessidade deste tipo de veículos não possa ser assegurada pela adaptação dos táxis existentes no município.
+
+3 - A atribuição de licenças de táxis para transporte de pessoas com mobilidade reduzida fora do contingente será feita por concurso, nos termos estabelecidos neste Regulamento.
+
+###### Artigo 40.º — Veículos turísticos e isentos de distintivos
+
+O regime de acesso à actividade previsto no capítulo II do presente diploma aplica-se às empresas que efectuem transportes com veículos turísticos ou com veículos isentos de distintivos.
+
+###### Artigo 41.º — Transportes colectivos em táxi
+
+A Direcção dos Serviços de Viação e Transportes Terrestres da Horta pode autorizar a realização de transportes colectivos em táxi, em condições a definir por despacho do membro do Governo responsável pela área dos transportes.
+
+### CAPÍTULO VII — Motorista de táxi
+
+###### Artigo 42.º — Motoristas de táxi
+
+1 - No exercício da sua actividade os táxis apenas poderão ser conduzidos por motoristas titulares de certificado de aptidão profissional, nos termos do [Decreto-Lei n.º 263/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1998-444693), de 19 de Agosto, alterado pelo [Decreto-Lei n.º 298/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2003-438046), de 29 de Novembro e da [Portaria n.º 788/98](https://diariodarepublica.pt/dr/detalhe/portaria/788-1998-241634), de 21 de Setembro com as alterações introduzidas pelas Portarias n.º 195/99, de 23 de Março, e n.º 1130-A/99, de 31 de Dezembro.
+
+2 - O certificado de aptidão profissional para o exercício da profissão de motoristas de táxi deve ser colocado no lado direito do tablier, de forma visível para os passageiros.
+
+###### Artigo 43.º — Deveres do motorista de táxi
+
+1 - Os deveres do motorista de táxi são os estabelecidos no artigo 5.º do [Decreto-Lei n.º 263/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1998-444693), de 19 de Agosto, alterado pelo [Decreto-Lei n.º 298/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2003-438046), de 29 de Novembro.
+
+2 - A violação dos deveres do motorista de táxi constitui contra-ordenação punível com coima, podendo ainda ser determinada a aplicação de sanções acessórias, nos termos do estabelecido nos artigos 11.º e 12.º do diploma supracitado.
+
+### CAPÍTULO VIII — Fiscalização e regime sancionatório
+
+###### Artigo 44.º — Entidades fiscalizadoras
+
+São competentes para a fiscalização das normas constantes do presente regulamento, a Direcção dos Serviços de Viação e Transportes Terrestres da Horta, a Câmara Municipal da Horta, a Guarda Nacional Republicana e a Polícia de Segurança Pública.
+
+###### Artigo 45.º — Contra-ordenações
+
+1 - O processo de contra-ordenação inicia-se oficiosamente mediante participação das autoridades fiscalizadoras ou denúncia particular.
+
+2 - A tentativa e a negligência são sempre puníveis.
+
+###### Artigo 46.º — Competência para a aplicação das coimas
+
+1 - Sem prejuízo das competências atribuídas a outras entidades fiscalizadoras, o processamento das contra-ordenações previstas no presente regulamento compete à Direcção dos Serviços de Viação e Transportes Terrestres da Horta, e a aplicação das coimas, assim como das sanções acessórias, é da competência do director dos Serviços de Viação e Transportes Terrestres da Horta.
+
+2 - O processamento das contra-ordenações previstas no n.º 2 do artigo 49.º, compete à Câmara Municipal da Horta e a aplicação das coimas é da competência do presidente da Câmara.
+
+3 - A Câmara Municipal comunica à Direcção dos Serviços de Viação e Transportes Terrestres da Horta as infracções cometidas e as respectivas sanções.
+
+4 - A Direcção dos Serviços de Viação e Transportes Terrestres da Horta organizará, nos termos da legislação em vigor, o registo das infracções cometidas e informará as câmaras municipais.
+
+###### Artigo 47.º — Exercício da actividade sem licença
+
+O exercício da actividade sem o alvará a que se refere o artigo 4.º do presente Regulamento, é punível com coima de 1247,00 euros a 3740,00 euros ou de 4988,00 euros a 14 964,00 euros, consoante se trate de pessoa singular ou colectiva.
+
+###### Artigo 48.º — Incumprimento do dever de informação
+
+O incumprimento do disposto no artigo 10.º é punível com coima de 100,00 euros a 300,00 euros.
+
+###### Artigo 49.º — Exercício irregular da actividade
+
+1 - São puníveis com coima de 1247,00 euros a 3740,00 euros as seguintes infracções:
+
+a) A utilização do veículo não licenciado ou não averbado no alvará;
+
+b) A viciação do alvará ou da licença do veículo, sem prejuízo da responsabilidade criminal a que houver lugar.
+
+2 - São puníveis com coima de 150,00 euros a 449,00 euros, as seguintes infracções:
+
+a) A inobservância das normas de identificação e características dos táxis referidas no artigo 11.º;
+
+b) A inexistência dos documentos a que se refere o n.º 2 do artigo 12.º;
+
+c) O incumprimento do disposto no artigo 15.º;
+
+d) O incumprimento de qualquer dos regimes de estacionamento previstos no artigo 16.º;
+
+e) O abandono da exploração do táxi nos termos do artigo 17.º;
+
+f) O abandono injustificado do veículo em violação do disposto no n.º 1 do artigo 35.º
+
+###### Artigo 50.º — Falta de apresentação de documentos
+
+A não apresentação da licença do táxi, do alvará ou da sua cópia certificada no acto de fiscalização constitui contra-ordenação e é punível com a coima prevista para a alínea c) do n.º 2 do artigo anterior, salvo se o documento em falta for apresentado no prazo de oito dias à autoridade indicada pelo agente de fiscalização, caso em que a coima é de 50,00 euros a 250,00 euros.
+
+###### Artigo 51.º — Imputabilidade das infracções
+
+As infracções ao disposto no presente diploma são da responsabilidade do titular do alvará, sem prejuízo do direito de regresso, salvo a infracção prevista no artigo 47.º, que é da responsabilidade do seu autor.
+
+###### Artigo 52.º — Sanções acessórias
+
+1 - Com a aplicação da coima prevista no artigo 47.º pode ser decretada a sanção acessória de interdição do exercício da actividade de transportador em táxi.
+
+2 - Com a aplicação de qualquer das coimas previstas no n.º 1 do artigo 49.º pode ser decretada a sanção acessória de suspensão da licença ou alvará.
+
+3 - As sanções de interdição de exercício da actividade ou suspensão de licença ou alvará têm a duração máxima de dois anos.
+
+4 - No caso de suspensão de licença ou alvará, a empresa infractora é notificada para proceder voluntariamente ao depósito do respectivo alvará na Direcção dos Serviços de Viação e Transportes Terrestres da Horta, sob pena de apreensão.
+
+###### Artigo 53.º — Produto das coimas
+
+O produto das coimas é distribuído da seguinte forma:
+
+a) 20% para a entidade competente para a aplicação da coima, constituindo receita própria;
+
+b) 20% para a entidade fiscalizadora, excepto quando esta não disponha de faculdade de arrecadar receitas próprias, revertendo neste caso para o Estado;
+
+c) 60% para o Estado.
+
+### CAPÍTULO IX — Disposições finais e transitórias
+
+###### Artigo 54.º — Regime supletivo
+
+Aos procedimentos do concurso para atribuição das licenças são aplicáveis subsidiariamente e com as necessárias adaptações, as normas dos concursos para aquisição de bens e serviços.
+
+###### Artigo 55.º — Reconhecimento da capacidade profissional
+
+É reconhecida capacidade profissional às pessoas que à data da publicação do [Decreto-Lei n.º 41/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347), de 11 de Março, sejam titulares de licenças e às que comprovem a qualidade de sócio de uma cooperativa titular destas licenças ou a de gerente director ou administrador da sociedade que exerça a actividade de transporte de aluguer em veículos ligeiros de passageiros.
+
+###### Artigo 56.º — Capacidade financeira
+
+Até à publicação da portaria referida no artigo 8.º, considera-se que todas as empresas regularmente constituídas, ou que se constituam sob a forma de sociedades comerciais ou cooperativas, preenchem o requisito de capacidade financeira para efeitos de emissão de alvará para o exercício da actividade.
+
+###### Artigo 57.º — Instalação de taxímetros
+
+Por portaria do membro do Governo responsável pelos transportes terrestres será fixado o prazo para a colocação e aferição de taxímetros nos veículos ligeiros de aluguer que à data da publicação do presente Regulamento não estavam sujeitos a esta obrigação.
+
+###### Artigo 58.º — Características dos veículos
+
+Ficam obrigados todos os veículos afectos ao contingente ou outros que o venham a integrar a obedecer às normas de identificação, o tipo de veículo e as condições de afixação de publicidade e outras de características que sejam estabelecidas por portaria ou despacho do membro do Governo responsável pela área dos transportes.
+
+###### Artigo 59.º — Norma revogatória
+
+É revogado o anterior Regulamento de Transporte Público de Aluguer em Veículos Automóveis Ligeiros de Passageiros - Transporte em Táxi.
+
+###### Artigo 60.º — Entrada em vigor
+
+O presente Regulamento entra em vigor 15 dias após a sua publicação.
+
+ANEXOS
+
+P1 - Praça da República
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2005/08/157112000/0005000058.pdf)
+
+P2 - Largo Duque d'Ávila e Bolama
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2005/08/157112000/0005000058.pdf)
+
+P3 - Canto Dona Joana
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2005/08/157112000/0005000058.pdf)
+
+P4 - Rua Vasco da Gama
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2005/08/157112000/0005000058.pdf)
+
+P5 - Instalações comerciais Modelo
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2005/08/157112000/0005000058.pdf)
+
+P6 - Hospital da Horta
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2005/08/157112000/0005000058.pdf)

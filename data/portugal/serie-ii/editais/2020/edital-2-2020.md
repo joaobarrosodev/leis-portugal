@@ -1,0 +1,224 @@
+---
+schema_version: '1.0'
+id: pt:dre:127648390:por
+title: Edital n.º 2/2020
+short_title: null
+summary: Concurso documental para um professor catedrático para a área disciplinar de Ciências da Educação da Faculdade de
+  Psicologia e de Ciências da Educação desta Universidade
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Universidade do Porto
+proposing_entity: null
+official_number: 2/2020
+official_date: null
+publication_date: '2020-01-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 1/2020, Série II de 2020-01-02
+  number: '1'
+  series: II
+  supplement: null
+  pages: 61 - 64
+  pdf_url: https://files.diariodarepublica.pt/2s/2020/01/001000000/0006100064.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '127648390'
+  dre_path: /dr/detalhe/edital/2-2020-127648390
+  internal: pt:dre:127648390:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/2-2020-127648390
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/2-2020-127648390
+  consolidated_url: null
+  retrieved_at: '2026-11-13T02:05:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 60b2260bb1f0dd37ede3f75f7e88a21ea601eb265bf7b70a09be147b11be646b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T02:05:57Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:116068880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121784766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3199923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615031:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T02:05:57Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 2/2020
+
+Doutora Maria de Fátima de Sousa Basto Vieira, Professora Associada com Agregação da Faculdade de Letras da Universidade do Porto, Vice-Reitora da mesma Universidade:
+
+Faço saber que, por meu despacho de 13 de dezembro de 2019, no uso de competência delegada por despacho publicado no Diário da República, 2.ª série, n.º 157 de 16 de agosto de 2018, pelo prazo de trinta dias úteis a contar do dia imediato ao da publicação do presente edital no Diário da República, se abre concurso documental para um Professor Catedrático para a área disciplinar de Ciências da Educação da Faculdade de Psicologia e de Ciências da Educação desta Universidade.
+
+Caso a data limite de candidatura termine num dia de fecho da Universidade do Porto, considera-se o dia útil imediatamente a seguir.
+
+As disposições legais aplicáveis são as seguintes:
+
+1 - Artigos 37.º a 51.º e 62.º-A, do Estatuto da Carreira Docente Universitária, republicado pelo [Decreto-Lei n.º 205/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2009-488485), de 31 de agosto, e alterado pela [Lei n.º 8/2010](https://diariodarepublica.pt/dr/detalhe/lei/8-2010-615031), de 13 de maio; Regulamento dos Concursos para Recrutamento de Professores Catedráticos, Associados e Auxiliares da Universidade do Porto - [Despacho n.º 12913/2010](https://diariodarepublica.pt/dr/detalhe/despacho/12913-2010-3199923), publicado no Diário da República, n.º 154, de 10 de agosto de 2010 e a [Deliberação (extrato) n.º 380/2019](https://diariodarepublica.pt/dr/detalhe/deliberacao-extrato/380-2019-121784766) que publicou a Alteração do Regulamento dos concursos para Recrutamento de Professores Catedráticos, Associados e Auxiliares da Universidade do Porto, no Diário da República, n.º 64, de 1 de abril.
+
+2 - Requisitos de admissão administrativa ao concurso:
+
+Ser titular do grau de doutor há mais de cinco anos, contados até ao dia anterior do limite de entrega das candidaturas, e do título de agregado, nos termos do artigo 40.º do ECDU.
+
+Caso o doutoramento tenha sido conferido por instituição de ensino superior estrangeira, o mesmo tem de ser reconhecido por instituição de ensino superior portuguesa, nos termos do disposto no [Decreto-Lei n.º 66/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), publicado no Diário da República, 1.ª série, n.º 157, de 16 de agosto.
+
+Esta formalidade tem de estar cumprida até à data do termo do prazo para a candidatura.
+
+3 - Critérios de aprovação em mérito absoluto:
+
+Considera-se aprovado em mérito absoluto o candidato que seja aprovado por maioria absoluta dos membros do júri votantes, em votação nominal justificada, onde não são admitidas abstenções (um voto deverá ser favorável sempre que o membro do júri tenha atribuído uma pontuação igual ou superior a 50), de acordo com a metodologia de avaliação curricular e com o modo de funcionamento do júri descritos no ponto 4 infra.
+
+4 - Vertentes e critérios de avaliação:
+
+4.1 - Mérito científico (55 %) - VMC - diz respeito à atividade científica, que se quer internacionalizada, nas suas vertentes de coordenação, conceção, produção e divulgação, bem como o exercício de funções de especialista, valorizando a utilidade social desta atividade.
+
+4.1.1 - Coordenação e realização de projetos científicos (15 %) - Avalia-se a qualidade do trabalho de investigação, a capacidade de coordenar de projetos, atribuindo-se uma maior importância aos que tenham sido objeto de financiamento nacional ou internacional. Na avaliação deste parâmetro, deve ser tido em consideração a quantidade e o reconhecimento da qualidade do projeto pela agência de financiamento, bem como o tipo de envolvimento do investigador (coordenador ou participante).
+
+4.1.2 - Publicação científica (25 %) - avalia-se a qualidade dos produtos de atividade através da publicação de livros, capítulos, artigos em revistas com peritagem, nomeadamente referenciadas em bases de dados internacionais. Na avaliação deste parâmetro, deve ser tido em consideração a quantidade, a originalidade e a diversidade da produção, o grau de internacionalização e o reconhecimento pela comunidade científica nacional e internacional (prémios ou outras formas de reconhecimento e distinção).
+
+4.1.3 - Dinamização e intervenção da atividade científica (10 %) - avalia-se a capacidade de criação e liderança de unidades ou equipas de investigação, de gestão da atividade científica e as funções de coordenação de unidades ou equipas de investigação. Avalia-se também a orientação de dissertações, teses e projetos de pós-doutoramento concluídos e a qualidade científica dos trabalhos supervisionados. Avalia-se ainda a organização de eventos científicos, nacionais e internacionais, a participação em comissões de eventos científicos e na edição, avaliação e revisão de publicações científicas nacionais e internacionais. Na avaliação deste parâmetro deve ser tido em consideração o número e a diversidade das atividades.
+
+4.1.4 - Avaliação científica (5 %) - avalia-se a participação em júris nacionais ou internacionais de provas académicas e a participação em painéis nacionais ou internacionais de avaliação e consultoria científica de bolsas, projetos, investigadores ou unidades de investigação. Na avaliação deste parâmetro deve ser tido em consideração o número, o papel desempenhado e a diversidade das atividades.
+
+4.2 - Mérito pedagógico (25 %) - VMP - incide sobre a atividade pedagógica, nas suas vertentes de coordenação, conceção, produção e avaliação, sendo esta dirigida para públicos diversificados e articulada com a atividade científica.
+
+4.2.1 - Participação em projetos pedagógicos (10 %) - avalia-se o envolvimento na gestão das unidades curriculares (coordenador ou docente), o envolvimento em projetos pedagógicos, a promoção de atividades pedagógicas tendentes a melhorar os processos de ensino e aprendizagem e a participação em cursos de graduação e pós-graduação. Também se considera a participação em cursos não concorrentes com os da instituição a que o candidato se encontra vinculado, considerando a sua internacionalização.
+
+4.2.2 - Conceção de novos cursos de graduação e pós-graduação ou de novas unidades curriculares (15 %) - avalia-se a coordenação e a participação na reestruturação de planos de estudos ou de unidades curriculares. Na avaliação deste parâmetro, deve ser tida em consideração o número, a natureza e a diversidade dos projetos e unidades curriculares e a sua articulação com a atividade científica.
+
+4.3 - Outras atividades relevantes para a missão das instituições em que estiveram envolvidos (20 %) - VGU - avalia-se o envolvimento dos candidatos em processos de gestão institucional e de prestação de serviços à comunidade.
+
+4.3.1 - Gestão institucional (15 %) - avalia-se a participação em órgãos de gestão da instituição e de cursos, nomeadamente ao nível da coordenação, bem como de serviços ou grupos não previstos nos pontos 4.1 e 4.2. Na avaliação deste parâmetro, deve ser tido em consideração o número, a duração, a natureza e a diversidade das atividades.
+
+4.3.2 - Participação em projetos de intervenção na comunidade (5 %) - avalia-se a qualidade e o impacto de trabalhos de extensão universitária, de que são exemplo a realização de serviços de consultoria, a participação em equipas de conceção, de acompanhamento e de avaliação de projetos de intervenção. Na avaliação deste parâmetro deve ser tida em consideração o número, a diversidade e a relevância social das atividades.
+
+5 - Modo de funcionamento do Júri
+
+Cada membro do júri faz o seu exercício avaliativo, pontuando cada candidato em relação a cada critério, numa escala de 0 a 100 pontos, avaliando qualitativamente cada vertente e construindo a sua lista ordenada com a qual participa nas votações que, segundo o ECDU, conduzem à ordenação.
+
+A seriação dos candidatos realizar-se-á através de avaliação curricular, tendo em conta o perfil das funções de professor catedrático e potencialidades manifestadas para o exercício dessas funções, nomeadamente as que dizem respeito à coordenação científica e pedagógica, com particular ênfase no domínio das pós-graduações e na internacionalização.
+
+O resultado final (RF) de avaliação de cada candidato por cada membro do júri é calculado através da fórmula de ponderação das várias vertentes curriculares:
+
+RF = 55*V(índice MC) + 25*V(índice MP) + 20*V(índice GU)
+
+a qual reflete os pesos associados a cada vertente, constantes da Tabela 1.
+
+TABELA 1
+
+Pesos associados às vertentes e critérios de avaliação
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2020/01/001000000/0006100064.pdf)
+
+6 - Apresentação de candidaturas
+
+6.1 - A candidatura pode ser entregue presencialmente, durante o horário normal de expediente, no Serviço de Expediente, na Universidade do Porto, Praça Gomes Teixeira, 4099-002 Porto, Sala 114, ou remetida por correio registado para o mesmo endereço, até ao termo do prazo.
+
+6.2 - Instrução de candidaturas
+
+A candidatura deve ser obrigatoriamente instruída com os seguintes documentos:
+
+a) Requerimento de candidatura (dados pessoais e declarações), apresentados em suporte de papel integralmente preenchidos, datados e assinados, de acordo com os formulários de utilização obrigatória, sob pena de não admissão ao concurso, disponíveis em https://sigarra.up.pt/up/pt/conteudos_geral.ver?pct_pag_id=1004282;
+
+b) Documentos comprovativos do preenchimento das condições fixadas no n.º 2 deste edital, designadamente, a certidão de doutoramento e a certidão de agregação, exceto para os casos correspondentes à obtenção do grau de doutor ou do título de agregado na Universidade do Porto;
+
+6.2.1 - Os documentos abaixo mencionados devem ser entregues em duplicado (dois CD, dois DVD ou duas Pen USB protegidas de edição), em formato pdf (permitindo cópia de texto, mas não edição):
+
+a) Currículo contendo todas as informações pertinentes para a avaliação da candidatura tendo em consideração os critérios de seleção e seriação constantes do n.º 4 do presente edital;
+
+b) Trabalhos mencionados no currículo apresentado, podendo os candidatos destacar até dez dos que considerem mais representativos da atividade por si desenvolvida.
+
+7 - As instruções para a apresentação da informação, em suporte digital, encontram-se disponíveis na área de Concursos de Pessoal do Sigarra U. Porto, no endereço https://sigarra.up.pt/up/pt/conteudos_geral.ver?pct_pag_id=1004282.
+
+8 - Notificação e audiência dos candidatos
+
+A Reitoria, através da Unidade de Planeamento, Contratação e Desenvolvimento do Serviço de Recursos Humanos do Centro de Recursos e Serviços Comuns da Universidade do Porto, comunicará aos candidatos o despacho de admissão ou não admissão administrativa ao concurso, o qual se baseará no preenchimento ou na falta de preenchimento, por parte daqueles, das condições estabelecidas no n.º 2 deste edital.
+
+Há lugar a audiência prévia, nos termos do disposto nos artigos 121.º e 122.º do Código do Procedimento Administrativo, aos candidatos não admitidos administrativamente, aos excluídos em mérito absoluto e aos ordenados em lugar da lista de ordenação dos candidatos não passível de ser provido no posto de trabalho a concurso.
+
+Todos os candidatos serão notificados da decisão de homologação da decisão final.
+
+8.1 - A notificação dos candidatos é efetuada por correio eletrónico.
+
+O prazo para os candidatos se pronunciarem, por escrito, é de dez dias úteis, contados: da data de acesso à mensagem enviada para a sua caixa postal eletrónica, nos termos previstos no Código do Procedimento Administrativo, respeitada a dilação prevista no Código do Procedimento Administrativo.
+
+O processo de concurso poderá ser consultado em qualquer fase, mediante agendamento prévio, através no email: recrutamentorh@sp.up.pt,na Unidade de Planeamento, Contratação e Desenvolvimento do Serviço de Recursos Humanos, durante o horário de expediente.
+
+9 - O Júri tem a seguinte composição:
+
+Presidente: Prof.ª Doutora Maria de Fátima de Sousa Basto Vieira, Vice-Reitora da Universidade do Porto.
+
+Vogais:
+
+Doutor Licínio Carlos Viana da Silva Lima, Professor Catedrático do Instituto de Educação da Universidade do Minho;
+
+Doutor Jorge Adelino Costa, Professor Catedrático do Departamento de Educação e Psicologia da Universidade de Aveiro;
+
+Doutor Luís Miguel de Figueiredo Silva de Carvalho, Professor Catedrático do Instituto de Educação da Universidade de Lisboa;
+
+Doutora Maria Amélia Costa Lopes, Professora Catedrática da Faculdade de Psicologia e de Ciências da Educação da Universidade do Porto;
+
+Doutora Isabel Maria Alves e Menezes Figueiredo, Professora Catedrática da Faculdade de Psicologia e de Ciências da Educação da Universidade do Porto.
+
+10 - Em cumprimento da alínea h) do artigo 9.º da Constituição, a Administração Pública, enquanto entidade empregadora, promove ativamente uma política de igualdade de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação.
+
+13 de dezembro de 2019. - A Vice-Reitora, Doutora Maria de Fátima de Sousa Basto Vieira.
+
+312878786

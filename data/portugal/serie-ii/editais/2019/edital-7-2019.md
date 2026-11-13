@@ -1,0 +1,211 @@
+---
+schema_version: '1.0'
+id: pt:dre:117575050:por
+title: Edital n.º 7/2019
+short_title: null
+summary: Concurso documental internacional de recrutamento, na modalidade de contrato de trabalho em funções públicas por
+  tempo indeterminado, para 1 (um) posto de trabalho para a categoria de Professor/a Auxiliar, na área disciplinar de Ciências
+  da Comunicação do Departamento de Sociologia do ISCTE-IUL
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- ISCTE - Instituto Universitário de Lisboa
+proposing_entity: null
+official_number: 7/2019
+official_date: null
+publication_date: '2019-01-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 2/2019, Série II de 2019-01-03
+  number: '2'
+  series: II
+  supplement: null
+  pages: 194 - 196
+  pdf_url: https://files.diariodarepublica.pt/2s/2019/01/002000000/0019400196.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '117575050'
+  dre_path: /dr/detalhe/edital/7-2019-117575050
+  internal: pt:dre:117575050:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/7-2019-117575050
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/7-2019-117575050
+  consolidated_url: null
+  retrieved_at: '2026-11-13T01:43:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ab9d3dcbbbcfc40d14d33f62d7f9fdda6e781a981f6249323d89b8197a0942a8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-13T01:43:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:488485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641418:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-13T01:43:12Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 7/2019
+
+Torna-se público que por meu despacho de 19 de junho de 2018 se encontra aberto, pelo prazo de trinta dias úteis a contar do dia imediato ao da publicação do presente edital no Diário da República, concurso documental internacional de recrutamento, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, para 1 (um) posto de trabalho para a categoria de Professor/a Auxiliar, na área disciplinar de Ciências da Comunicação do Departamento de Sociologia do ISCTE-IUL. O concurso é aberto nos termos dos artigos 37.º a 51.º e 62.º -A do Estatuto da Carreira Docente Universitária, anexo ao [Decreto-Lei n.º 205/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2009-488485), de 31 de agosto, e alterado pela [Lei n.º 8/2010](https://diariodarepublica.pt/dr/detalhe/lei/8-2010-615031), de 13 de maio, adiante designado por ECDU, e demais legislação aplicável, designadamente do Regulamento de Recrutamento, Seleção e Contratação de Pessoal Docente de Carreira do ISCTE-IUL, publicado no Diário da República, 2.ª série, n.º 193, de 4 de outubro de 2010, e esgota-se com o preenchimento do posto de trabalho colocado a concurso. A avaliação do período experimental é feita nos termos do Regulamento do Regime de Vinculação do Pessoal Docente do ISCTE-IUL tendo em conta o estabelecido no Regulamento de Serviço dos Docentes do ISCTE-IUL e no Regulamento de Avaliação de Desempenho dos Docentes do ISCTE-IUL.
+
+I - Requisitos de admissão
+
+1 - Ser titular do grau de doutor na área de Ciências da Comunicação ou de Sociologia, especialidade Sociologia da Comunicação. Caso o doutoramento tenha sido conferido por instituição de ensino superior estrangeira, o mesmo tem de ser reconhecido por instituição de ensino superior portuguesa, nos termos do disposto no [Decreto-Lei n.º 341/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-2007-641418), de 12 de outubro. Para mais informações consulte http://www.dges.gov.pt/pt/pagina/registo-de-diploma
+
+2 - Possuir domínio das línguas portuguesa e inglesa, faladas e escritas.
+
+II - Apresentação das candidaturas
+
+1 - As candidaturas são entregues, pessoalmente, durante o horário normal de expediente, ou remetidas por correio, registado e com aviso de receção, até ao termo do prazo, para Unidade de Recursos Humanos do ISCTE-IUL, sita na Avenida das Forças Armadas, 1649-026 Lisboa.
+
+2 - Não são aceites candidaturas enviadas por correio eletrónico.
+
+III - Local de trabalho
+
+ISCTE - Instituto Universitário de Lisboa
+
+Av. das Forças Armadas
+
+1649 - 026 Lisboa, Portugal
+
+IV - Instrução da candidatura
+
+A candidatura é instruída com os seguintes documentos:
+
+1 - Requerimento dirigido à Reitora do ISCTE-IUL, solicitando a aceitação da candidatura e de onde conste nome completo e nome adotado em referências bibliográficas, número e data do bilhete de identidade ou número de identificação civil, residência ou endereço de contacto, incluindo endereço eletrónico, contacto telefónico e situação laboral presente. No requerimento o candidato deve, obrigatoriamente, manifestar o seu consentimento para que as comunicações e notificações no âmbito do procedimento concursal possam ter lugar por correio eletrónico indicando o respetivo endereço (ver documento tipo em https://www.iscte-iul.pt/conteudos/iscteiul/quem-somos/trabalhar-no-iscteiul/990/concursos).
+
+2 - Documentos comprovativos do preenchimento dos requisitos exigidos nos pontos 1 e 2 do número I do presente edital.
+
+2.1 - Os/As titulares do grau de doutor/a obtido no estrangeiro têm de apresentar documento comprovativo do seu reconhecimento por instituição de ensino superior portuguesa, nos termos do disposto no [Decreto-Lei n.º 341/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-2007-641418), de 12 de outubro devendo quaisquer formalidades aí estabelecidas estar cumpridas até à data do termo do prazo para a candidatura.
+
+2.2 - Os/As candidatos/as têm de apresentar declaração, sob compromisso de honra, do domínio das línguas portuguesa e inglesa a um nível que permita a lecionação nessas línguas.
+
+3 - Um exemplar impresso e dois em formato eletrónico não editável (pdf) do curriculum vitae do/a candidato/a, com a indicação das obras e trabalhos efetuados e publicados, bem como da atividade pedagógica desenvolvida. O/A candidato/a tem de assinalar 4 (quatro) trabalhos e/ou obras que considere mais representativos da atividade desenvolvida na área disciplinar para que o concurso é aberto e indicar os 4 (quatro) artigos que considere responder ao critério de admissão em mérito absoluto. O curriculum vitae dos/as candidatos/as tem obrigatoriamente de ser organizado de acordo com os critérios de avaliação constantes no ponto VI deste edital.
+
+4 - Dois (2) exemplares de cada um dos trabalhos mencionados no curriculum. Os trabalhos podem ser entregues em suporte papel ou em formato eletrónico não editável (pdf).
+
+5 - Quaisquer outros elementos relevantes que ilustrem a sua aptidão para o exercício do cargo a prover.
+
+6 - Não é exigida a apresentação de documentos comprovativos da posse dos requisitos gerais de constituição de relação jurídica de emprego público, bastando a declaração do/a candidato/a, sob compromisso de honra, no requerimento de candidatura ou em documento à parte, da situação precisa em que se encontra relativamente ao conteúdo de cada uma das seguintes alíneas (modelo disponível em https://www.iscte-iul.pt/conteudos/iscteiul/quem-somos/trabalhar-no-iscteiul/990/concursos:
+
+a) Não estar inibido/a do exercício de funções públicas ou interdito/a para o exercício das funções a que se candidata;
+
+b) Possuir a robustez física e o perfil psíquico indispensáveis ao exercício das funções e ter cumprido as leis de vacinação obrigatória.
+
+7 - Os documentos que instruem a candidatura têm de ser apresentados em língua portuguesa ou inglesa. A não apresentação dos documentos exigidos nos termos do presente edital, a sua apresentação fora do prazo estipulado ou a apresentação de documento falso determina a exclusão do procedimento.
+
+V - Critério de avaliação em mérito absoluto
+
+Encontrando-se as candidaturas devidamente instruídas de acordo com o exigido no presente edital, a admissão em mérito absoluto dos/as candidatos/as depende da posse de currículo global, que o júri considere revestir mérito científico e pedagógico compatível com a área disciplinar das Ciências da Comunicação, e que demonstre que o/a candidato/a possui sólida formação teórica e metodológica, bem com um perfil orientado para a investigação e o ensino, cumulativamente com a apresentação pelo/a candidato/a de, pelo menos, 4 (quatro) artigos publicados, ou aceites definitivamente para publicação, na área disciplinar para que é aberto o concurso domínio das Ciências da Comunicação ou Sociologia da Comunicação, em revistas científicas indexadas na Web of Science, na SCOPUS ou na ERIHPlus.
+
+VI - Método de seleção e critérios de avaliação
+
+1 - Aos/Às candidatos/as aprovados/as em mérito absoluto será aplicado o método de seleção da Avaliação Curricular de acordo com os critérios de avaliação definidos no ponto seguinte.
+
+2 - Critérios de avaliação
+
+A ordenação dos candidatos ao concurso terá por fundamento o mérito científico e pedagógico dos candidatos na área disciplinar para que é aberto o concurso, valorizando-se em 50 %, os itens curriculares na área de Estudos Sociológicos da Internet, tendo em consideração os seguintes parâmetros:
+
+A - Mérito científico (57,5 %)
+
+Na avaliação do mérito científico, ter-se-á em consideração os seguintes itens:
+
+A-1) Produção científica (20 %) - livros, artigos em revistas científicas, capítulos em livros, comunicações em conferências e organização de eventos científicos nacionais ou internacionais. Na avaliação deste critério deve ser tida em consideração a qualidade, a originalidade, a diversidade e a quantidade da produção, a autonomia científica revelada, o grau de internacionalização, o reconhecimento pela comunidade científica (prémios ou outras formas de reconhecimento e distinção da comunidade científica, académica ou profissional) e o impacto da produção científica.
+
+A-2) Projetos científicos (20 %) - participação em projetos científicos com financiamento nacional ou internacional (público ou privado). Na avaliação deste critério deverá ser tida em consideração a quantidade, o grau de inserção do projeto (rede nacional ou internacional), o caráter competitivo do projeto em termos de financiamento, o contributo em termos de património e recursos para as estruturas de investigação e o tipo de envolvimento do investigador (coordenador ou participante).
+
+A-3) Avaliação científica (17,5 %) - participação em júris nacionais ou internacionais de provas académicas e a participação em painéis nacionais ou internacionais de avaliação e consultoria científica de bolsas, projetos, investigadores ou unidades de investigação, participação em comissões de eventos científicos, colaboração ativa na edição, avaliação e revisão de publicações científicas nacionais ou internacionais. Na avaliação deste parâmetro deverão ser tidas em consideração o número, o papel desempenhado e diversidade das atividades.
+
+B - Mérito pedagógico (37,5 %)
+
+Na avaliação do mérito pedagógico ter-se-á em consideração os seguintes itens:
+
+B-1) Atividade docente (15 %) - lecionação de unidades curriculares, o grau de envolvimento na gestão das unidades curriculares (docente ou coordenador). Na avaliação deste critério deverão ser tidas em consideração o número e diversidade das unidades curriculares lecionadas e a avaliação do desempenho pedagógico.
+
+B-2) Inovação pedagógica (7,5 %) - promoção de iniciativas pedagógicas tendentes a melhorar os processos de ensino e aprendizagem, elaboração de novos cursos de graduação e pós-graduação ou de novas unidades curriculares e reestruturação de planos de estudos ou de unidades curriculares, participação em estruturas de âmbito pedagógico, promoção e dinamização de processos de melhoria da atividade pedagógica de ciclos de estudo ou de outras atividades de ensino. Na avaliação deste parâmetro deverão ser tidas em consideração o número, natureza e diversidade das atividades.
+
+B-3) Orientação (15 %) - orientação de dissertações, teses e de projetos de pós-doutoramento e a excelência científica dos trabalhos supervisionados. Na avaliação deste parâmetro deverão ser tidas em consideração o número e diversidade das orientações em qualquer nível de ciclo de estudos, com consideração das já concluídas e das em curso.
+
+C - Serviço à instituição (5 %). Na avaliação da participação em órgãos universitários ter-se-á em consideração a realização de atividades resultantes da participação em órgãos de gestão universitária, incluindo coordenação de cursos e participação em comissões científicas, promoção da instituição, comissões ad hoc, recrutamento de novos alunos e demais atividades para o regular funcionamento das instituições de ensino superior.
+
+3 - Ordenação e metodologia de votação
+
+A deliberação é tomada por maioria absoluta, isto é, por metade mais um dos votos dos membros do júri presentes na reunião. Para o efeito, antes de se iniciarem as votações, cada membro do júri apresenta um documento escrito, que posteriormente deverá integrar a ata, no qual propõe a ordenação dos candidatos, devidamente fundamentada nos critérios de avaliação indicados no n.º 2, no qual classificou os candidatos na escala inteira de 0 a 100 em cada indicador de avaliação. Nas várias votações, cada membro do júri deve respeitar a ordenação que apresentou, não sendo permitidas abstenções. A primeira votação destina-se a determinar o candidato a colocar em primeiro lugar. No caso de um candidato obter mais de metade dos votos dos membros do júri presentes na reunião, fica desde logo colocado em primeiro lugar. Caso tal não se verifique, repete-se a votação depois de retirado o candidato menos votado na primeira votação. Se houver empate entre dois ou mais candidatos na posição de menos votado, procede-se a uma votação sobre eles para desempatar, e se ainda assim o empate persistir, o presidente do júri decide qual o candidato a retirar. O processo repetir-se-á até que um candidato obtenha maioria absoluta para ficar classificado em primeiro lugar. Repete-se o mesmo processo para obter o candidato classificado em segundo lugar, e assim sucessivamente até que se obtenha uma lista ordenada de todos os candidatos. Sempre que se verifique igualdade de número de votos em todos os candidatos a votação, o presidente do júri tem voto de qualidade nos termos do artigo 12.º do Regulamento de Recrutamento, Seleção e Contratação do Pessoal Docente de Carreira do ISCTE-IUL
+
+4 - Audições públicas
+
+O júri delibera sobre a necessidade de proceder à realização de audições públicas dos/as candidatos/as admitidos/as, as quais, a realizarem-se, obedecem ao preceituado nos artigos 8.º, n.º 2 e 20 do Regulamento de Recrutamento, Seleção e Contratação do Pessoal Docente de Carreira do ISCTE-IUL.
+
+VII - Constituição do júri
+
+O júri é presidido pela Doutora Maria Helena Chaves Carreiras, Diretora da Escola de Sociologia e Políticas Públicas e Professora Associada do ISCTE-IUL, e constituído pelos seguintes professores, que no entendimento da Comissão Científica do Departamento de Sociologia, pertencem à área disciplinar para que é aberto o concurso.
+
+Vogais:
+
+Doutor Emili Prado Pico, Professor Catedrático da Universidade Autónoma de Barcelona;
+
+Doutor Fausto Colombo, Professore Ordinario (Catedrático) da Faculdade de Ciência Política da Universidade Católica de Milão;
+
+Doutor João Miguel Trancoso Vaz Teixeira Lopes, Professor Catedrático da Universidade do Porto;
+
+Doutora Maria Cláudia Silva Afonso e Álvares, Professora Associada da Universidade Lusófona de Humanidades e Tecnologias;
+
+Doutor Gustavo Alberto Guerreiro Seabra Leitão Cardoso, Professor Catedrático do ISCTE-IUL
+
+VIII - Das listas de candidatos/as admitidos/as e excluídos/as bem como da lista de classificação final e ordenação dos/as candidatos/as será dado conhecimento aos interessados/as mediante notificação eletrónica. O processo de concurso poderá ser consultado pelos/as candidatos/as na Unidade de Recursos Humanos, nos termos indicados na notificação referida.
+
+IX - Em cumprimento da alínea h) do artigo 9.º da Constituição, a Administração Pública, enquanto entidade empregadora, promove uma política de igualdade de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação, também adotando uma linguagem inclusiva.
+
+3 de dezembro de 2018. - A Reitora, Maria de Lurdes Rodrigues.
+
+311889265

@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:2916753:por
+title: Edital n.º 380/2000 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Universidade Nova de Lisboa - Reitoria
+proposing_entity: null
+official_number: 380/2000 (2.ª série)
+official_date: null
+publication_date: '2000-06-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 131/2000, Série II de 2000-06-06
+  number: '131'
+  series: II
+  supplement: null
+  pages: 9717 - 9717
+  pdf_url: https://files.diariodarepublica.pt/2s/2000/06/131000000/0971709717.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2916753'
+  dre_path: /dr/detalhe/edital/380-2000-2916753
+  internal: pt:dre:2916753:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/380-2000-2916753
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/380-2000-2916753
+  consolidated_url: null
+  retrieved_at: '2026-11-12T23:00:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 259e56519e60a9917cd660022f93005b820f16e7a5417b6144d3cb9aa156e965
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T23:00:54Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T23:00:54Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 380/2000 (2.ª série)
+
+Edital n.º 380/2000 (2.ª série). - Perante a Reitoria da Universidade Nova de Lisboa está aberto concurso documental pelo prazo de 30 dias úteis a contar do dia imediato ao da publicação deste extracto no Diário da República, para provimento de lugares de professor associado para os grupos abaixo discriminados da Faculdade de Ciência Sociais e Humanas desta Universidade, devendo os candidatos entregar, dentro do prazo, os seus requerimentos instruídos com os documentos mencionados no edital afixado nas instalações da Reitoria da Universidade Nova de Lisboa, Praça do Príncipe Real, 26, rés-do-chão, 1269-150 Lisboa:
+
+Antropologia ... 2
+
+Ciências da Comunicação ... 2
+
+Ciências Musicais ... 2
+
+Estudos Ingleses, Americanos e Anglo-Portugueses ... 2
+
+Geografia ... 1
+
+História ... 2
+
+História da Arte ... 1
+
+História e Teoria das Ideias ... 2
+
+Linguística ... 2
+
+Sociologia ... 2
+
+23 de Maio de 2000. - O Vice-Reitor, José Esteves Pereira.

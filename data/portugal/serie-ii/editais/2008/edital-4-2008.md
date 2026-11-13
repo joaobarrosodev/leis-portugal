@@ -1,0 +1,104 @@
+---
+schema_version: '1.0'
+id: pt:dre:1954864:por
+title: Edital n.º 4/2008
+short_title: null
+summary: Discussão pública de alteração do loteamento com o alvará n.º 08/85 do processo n.º 6304/06 em nome de CAROS - Construções
+  António Rosa, Lda.
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Câmara Municipal da Maia
+proposing_entity: null
+official_number: 4/2008
+official_date: null
+publication_date: '2008-01-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 1/2008, Série II de 2008-01-02
+  number: '1'
+  series: II
+  supplement: null
+  pages: 34 - 34
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/01/001000000/0003400034.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1954864'
+  dre_path: /dr/detalhe/edital/4-2008-1954864
+  internal: pt:dre:1954864:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/4-2008-1954864
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/4-2008-1954864
+  consolidated_url: null
+  retrieved_at: '2026-11-12T21:09:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f13bd0d2dcf5f1b54815b0f76696963a5dcbefc65c228ca0d4f7165b10a5cac8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T21:09:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T21:09:12Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 4/2008
+
+Alteração de operação de loteamento - Discussão pública
+
+Torna-se público que, em cumprimento do disposto no n.º 2 do artigo 27.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, com a redacção dada pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Junho, decorrerá um período de discussão pública sobre o pedido de alteração da licença de operação de loteamento, registada na Câmara Municipal da Maia sob o n.º 6304 em 01.08.2006 em nome de CAROS - Construções António Rosa, Lda., proprietário do lote 5, do loteamento titulado pelo alvará n.º 08/85 localizado na Rua Isolino Domingues da Silva, freguesia de Vila Nova da Telha, com a duração de 15 dias e início 8 dias após a data de publicação do presente edital no Diário da República.
+
+Para os devidos efeitos, o projecto da operação de loteamento, acompanhado da informação técnica elaborada pelos serviços municipais, estará à disposição para quem o pretenda consultar nos Serviços Administrativos de Obras Particulares e Loteamentos desta Câmara Municipal.
+
+Os interessados devem apresentar as suas reclamações, observações ou sugestões, por escrito, no Gabinete de Atendimento Municipal ou nos Serviços de correspondência, desta Câmara Municipal.
+
+17 de Dezembro de 2007. - O Presidente da Câmara, António Gonçalves Bragança Fernandes.
+
+2611074848

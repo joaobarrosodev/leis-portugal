@@ -1,0 +1,216 @@
+---
+schema_version: '1.0'
+id: pt:dre:1995285:por
+title: Edital n.º 7/2013
+short_title: null
+summary: Abertura de concurso documental para professor coordenador para o setor de Psicologia e Ciências da Educação, área
+  disciplinar de Educação de Adultos
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Instituto Politécnico de Coimbra
+proposing_entity: null
+official_number: 7/2013
+official_date: null
+publication_date: '2013-01-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 3/2013, Série II de 2013-01-04
+  number: '3'
+  series: II
+  supplement: null
+  pages: 317 - 318
+  pdf_url: https://files.diariodarepublica.pt/2s/2013/01/003000000/0031700318.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1995285'
+  dre_path: /dr/detalhe/edital/7-2013-1995285
+  internal: pt:dre:1995285:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/7-2013-1995285
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/7-2013-1995285
+  consolidated_url: null
+  retrieved_at: '2026-11-12T21:13:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 496be2f9a891f0689724fa1a22d21d997c6e7e4dbaec9d8d768d4a27732d9a4d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T21:13:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:209596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:828522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:853724:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T21:13:14Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 7/2013
+
+Nos termos do Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico (ECPDESP) e do Regulamento de Concursos para Contratação de Professores do IPC, aprovado por [Despacho n.º 9208/2010](https://diariodarepublica.pt/dr/detalhe/despacho/9208-2010-828522), publicado no Diário da República, 2.ª série, n.º 104, de 28 de maio de 2010, torna-se público que, por meu despacho de 19 de dezembro de 2012, se encontra aberto, pelo prazo de 30 dias úteis, a contar da publicação do presente aviso no Diário da República, concurso documental para constituição de relação jurídica de emprego público, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, para contratação de um Professor Coordenador para o setor de áreas disciplinares de Psicologia e Ciências da Educação - Área disciplinar de Educação de Adultos, previsto no mapa de pessoal docente do IPC de 2012, afeto à Escola Superior de Educação de Coimbra.
+
+1 - Local de trabalho: Escola Superior de Educação de Coimbra.
+
+2 - Conteúdo funcional e posição remuneratória: As funções genéricas dos docentes do ensino superior encontram-se previstas no artigo 2.º-A do ECPDESP, sendo o conteúdo funcional da categoria o constante do artigo 3.º, n.º 5 do ECPDESP. À categoria de Professor Coordenador corresponde a posição remuneratória prevista na tabela anexa ao [Decreto-Lei n.º 408/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1989-673395), de 18 de novembro, com as alterações introduzidas pelo [Decreto-Lei n.º 76/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1996-435392), de 18 de junho, e pelo [Decreto-Lei n.º 212/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1997-209596), de 16 de agosto.
+
+3 - Prazo de validade do concurso: O concurso é válido para o lugar posto a concurso, caducando com o provimento do mesmo.
+
+4 - Requisitos de admissão:
+
+4.1 - Requisitos gerais: Poderá candidatar-se ao presente concurso quem reúna, até ao termo do prazo fixado para a apresentação de candidaturas, os requisitos de admissão previstos no artigo 8.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, a saber:
+
+a) Ter 18 anos de idade completos;
+
+b) Não estar inibido do exercício de funções públicas ou interdito para o exercício das funções que se propõe desempenhar;
+
+c) Possuir robustez física e perfil psíquico indispensáveis ao exercício de funções;
+
+d) Ter cumprido as leis da vacinação obrigatória.
+
+4.2 - Requisitos especiais: Ao presente concurso serão admitidos os candidatos que, até ao termo do prazo fixado para a apresentação de candidaturas, se encontrem nas condições previstas no artigo 19.º do ECPDESP: podem candidatar-se os detentores do grau de doutor ou do título de especialista, obtido há mais de cinco anos, na área ou área afim daquela para que é aberto o concurso. Podem ainda candidatar-se os atuais equiparados a professor coordenador titulares do grau de doutor na área ou área afim daquela para que é aberto o concurso que à data da abertura do concurso contem pelo menos cinco anos continuados de serviço como equiparados a professor adjunto e ou a professor coordenador em regime de dedicação exclusiva ou de tempo integral e os professores adjuntos da carreira titulares do grau de doutor na área ou área afim daquela para que é aberto o concurso que à data da abertura do concurso contem, pelo menos, cinco anos continuados de serviço nessa categoria na carreira, conforme previsto no artigo 8.º do [Decreto-Lei n.º 207/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), de 31 de agosto, com a redação dada pela [Lei n.º 7/2010](https://diariodarepublica.pt/dr/detalhe/lei/7-2010-615030), 13 de maio. Os candidatos detentores de habilitações estrangeiras devem comprovar o reconhecimento, equivalência ou registo de grau de doutor, nos termos da legislação aplicável.
+
+5 - Forma, prazo e língua de apresentação da candidatura: A apresentação da candidatura é efetuada em suporte papel, através de correio registado para a morada do Instituto Politécnico de Coimbra, Av. Dr. Marnoco e Sousa, n.º 30, 3000-271 Coimbra ou entregue pessoalmente naquela morada - das 09h00 às 12h30 e das 14h00 às 17h30, até ao termo do prazo fixado, devendo os documentos da candidatura ser apresentados em língua portuguesa ou inglesa.
+
+6 - Instrução da candidatura:
+
+6.1 - A candidatura deverá ser apresentada mediante requerimento de admissão ao concurso, dirigido ao Presidente do Instituto Politécnico de Coimbra, onde deverão constar: nome completo, filiação, data e local de nascimento, número e data do bilhete de identidade/cartão de cidadão e serviço emissor, residência, número de telefone, endereço eletrónico, estado civil, graus académicos e respetiva classificação final, categoria profissional e cargo que atualmente ocupa, indicação do concurso a que se candidata, número de edital com menção ao Diário da República em que foi publicado, bem como lista dos documentos que acompanham o requerimento.
+
+6.2 - A apresentação de candidatura deverá ser acompanhada, sob pena de exclusão, dos seguintes documentos:
+
+a) Cópia do bilhete de identidade ou do cartão de cidadão (documento de identificação civil estrangeiro (U.E.)/passaporte;
+
+b) Certificado de registo criminal;
+
+c) Cópia do documento de identificação fiscal;
+
+d) Seis exemplares do curriculum vitae detalhado, datado e assinado pelo próprio;
+
+e) Seis exemplares do Formulário de candidatura especificamente construído para este concurso;
+
+f) Declaração do candidato, sob compromisso de honra, na qual assegure não estar inibido do exercício de funções públicas ou interdito para o exercício das funções que se propõe desempenhar, possuir a robustez física e o perfil psíquico exigidos para o exercício das funções e ter cumprido as leis da vacinação obrigatória;
+
+g) DVD com cópia digitalizada do requerimento e de todos os documentos entregues.
+
+6.3 - Do curriculum vitae deverá constar:
+
+a) Identificação completa;
+
+b) Forma de contacto, morada, telefone e e-mail;
+
+c) Cópia de todos os outros elementos que comprovem que o candidato reúne os requisitos legalmente exigidos para admissão ao concurso, conforme previsto no ponto 4.2 do presente edital;
+
+d) Descrição pormenorizada e contextualizada dos elementos curriculares, organizada de acordo com a estrutura do formulário de candidatura, de modo a permitir uma melhor apreciação dos dados apresentados no referido formulário.
+
+6.4 - No Formulário de candidatura, disponível no site institucional da Escola Superior de Educação e do Instituto Politécnico de Coimbra, deverão ser identificados os elementos curriculares acompanhados, em anexo, dos respetivos comprovativos.
+
+6.5 - A não apresentação dos documentos comprovativos do currículo apresentado pelo candidato implica a não valoração dos elementos que deveriam comprovar, salvo se o júri optar por utilizar a faculdade prevista no artigo 27.º do Regulamento de Concursos para Contratação de Professores do IPC.
+
+6.6 - Os candidatos que exerçam funções no Instituto Politécnico de Coimbra ficam dispensados da apresentação dos documentos que já existem nos respetivos processos individuais, devendo o facto ser expressamente declarado no respetivo requerimento e no Formulário de Candidatura.
+
+7 - Audições públicas: Caso o júri entenda necessário promover audições públicas a incidir sobre o currículo dos candidatos, as mesmas serão realizadas no prazo de 60 dias após a admissão dos candidatos.
+
+8 - Critérios e metodologia de classificação e seriação dos candidatos:
+
+8.1 - A apreciação das candidaturas far-se-á de acordo com o artigo 25.º do [Despacho n.º 9208/2010](https://diariodarepublica.pt/dr/detalhe/despacho/9208-2010-828522) de 28 de Maio (Regulamento de Concursos para Contratação de Professores do IPC);
+
+8.2 - A ponderação a atribuir aos parâmetros de avaliação bem como os critérios de seleção e seriação, aprovados em reunião do Conselho Técnico-Científico da Escola Superior de Educação de Coimbra de 18 de dezembro de 2012, constam do documento "Critérios e metodologia de classificação e ordenação dos candidatos ao Concurso Documental para contratação de um Professor Coordenador para o setor de áreas disciplinares de Psicologia e Ciências da Educação - Área disciplinar de Educação de Adultos" disponível no site institucional da Escola Superior de Educação de Coimbra e do Instituto Politécnico de Coimbra.
+
+9 - Modo de avaliação e classificação final:
+
+9.1 - A classificação final será expressa na escala de 0 a 100 pontos, considerando-se não aprovados os candidatos que obtiverem classificação final inferior a 50 pontos e aprovados em mérito absoluto os candidatos que obtiverem classificação final igual ou superior a 50 pontos.
+
+9.2 - A fórmula e descrição da metodologia para obtenção da classificação final está disponível no site institucional da Escola Superior de Educação de Coimbra e do Instituto Politécnico de Coimbra.
+
+9.3 - As listas dos candidatos não aprovados e a lista ordenada dos candidatos aprovados em mérito absoluto serão comunicadas aos candidatos, para efeitos de realização da audiência dos interessados, nos termos do Código do Procedimento Administrativo, sendo a notificação efetuada no prazo de 3 dias úteis.
+
+9.4 - Os candidatos serão notificados do ato de homologação das deliberações finais do júri.
+
+10 - Notificação dos candidatos: A notificação dos candidatos é efetuada, sucessivamente, por uma das seguintes formas:
+
+a) E-mail, com recibo de entrega da notificação;
+
+b) Ofício registado;
+
+c) Notificação pessoal;
+
+d) Aviso publicado na 2.ª série do Diário da República, informando da afixação em local visível e público da Escola Superior de Educação de Coimbra e da disponibilização da sua página eletrónica.
+
+11 - Restituição de documentos:
+
+11.1 - A documentação apresentada pelos candidatos respeitantes a procedimentos de concurso que tenham sido objeto de impugnação jurisdicional só poderá ser restituída após a execução de decisão transitada em julgado.
+
+11.2 - Salvo o disposto no número anterior, os documentos serão restituídos aos candidatos, a pedido destes, até um ano após a cessação do concurso, data a partir da qual é destruída a documentação apresentada pelos candidatos.
+
+12 - Composição e identificação do júri: O júri do concurso foi nomeado por [Despacho n.º 15734/2012](https://diariodarepublica.pt/dr/detalhe/despacho/15734-2012-853724), publicado no Diário da República, 2.ª série, n.º 238, de 10.12.1012.
+
+21 de dezembro de 2012. - O Presidente do Instituto Politécnico de Coimbra, Rui Jorge da Silva Antunes.
+
+206624289

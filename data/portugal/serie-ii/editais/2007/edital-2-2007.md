@@ -1,0 +1,230 @@
+---
+schema_version: '1.0'
+id: pt:dre:1955418:por
+title: Edital n.º 2/2007
+short_title: null
+summary: Concurso para admissão ao curso de pós-licenciatura de especialização em Enfermagem Comunitária, para o ano lectivo
+  2006-2007, criado pela Portaria n.º 508/2006, de 1 de Junho
+jurisdiction: portugal
+territory: null
+document_type: edital
+document_type_label: Edital
+issuing_authority:
+- Instituto Politécnico de Portalegre
+proposing_entity: null
+official_number: 2/2007
+official_date: null
+publication_date: '2007-01-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 1/2007, Série II de 2007-01-02
+  number: '1'
+  series: II
+  supplement: null
+  pages: 42 - 42
+  pdf_url: https://files.diariodarepublica.pt/2s/2007/01/001000000/0004200042.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1955418'
+  dre_path: /dr/detalhe/edital/2-2007-1955418
+  internal: pt:dre:1955418:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/edital/2-2007-1955418
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/edital/2-2007-1955418
+  consolidated_url: null
+  retrieved_at: '2026-11-12T21:09:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 03e9f6f68943c489edf0e0128c02c993fe71954ee4576c7633b9f4e4db47eb31
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-11-12T21:09:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:265299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452538:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T21:09:12Z'
+  warnings: []
+  errors: []
+---
+
+# Edital n.º 2/2007
+
+Curso de pós-licenciatura de especialização em Enfermagem Comunitária
+
+([Portaria n.º 508/2006](https://diariodarepublica.pt/dr/detalhe/portaria/508-2006-353755), de 1 de Junho)
+
+1 - Por despacho de 4 de Dezembro de 2006 da presidente do conselho directivo da Escola Superior de Saúde de Portalegre e nos termos do disposto nos artigos 12.º e seguintes da [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março, e em conformidade com as demais disposições legais aplicáveis, faz-se público que se encontra aberto concurso para admissão ao curso de pós-licenciatura de especialização em Enfermagem Comunitária para o ano lectivo 2006-2007, criado pela [Portaria n.º 508/2006](https://diariodarepublica.pt/dr/detalhe/portaria/508-2006-353755), de 1 de Junho. Este curso funcionará na Escola Superior de Saúde de Portalegre.
+
+2 - O presente concurso é válido apenas para o ano lectivo a que respeita.
+
+3 - As condições de candidatura são, cumulativamente, as seguintes:
+
+a) Ser titular do grau de licenciado em Enfermagem ou equivalente legal;
+
+b) Ser detentor do título profissional de enfermeiro;
+
+c) Ter, pelo menos, dois anos de experiência profissional como enfermeiro.
+
+4 - A candidatura deverá ser formulada em requerimento dirigido à presidente do conselho directivo da Escola Superior de Saúde de Portalegre, em impresso modelo fornecido pelos Serviços Académicos da Escola, disponível também na Internet, no endereço www.essp.pt, contendo obrigatoriamente os seguintes elementos:
+
+a) Nome completo;
+
+b) Filiação;
+
+c) Naturalidade e data de nascimento;
+
+d) Estado civil;
+
+e) Residência;
+
+f) Número do bilhete de identidade, data de emissão e arquivo de identificação;
+
+g) Grau académico, com a respectiva classificação e instituição que o conferiu;
+
+h) Instituição onde desempenha funções;
+
+i) Cargo/função que desempenha;
+
+j) Categoria profissional.
+
+5 - O requerimento de candidatura terá de ser, obrigatoriamente, acompanhado dos seguintes documentos:
+
+a) Fotocópia do bilhete de identidade;
+
+b) Cédula profissional ou certificado de inscrição na Ordem dos Enfermeiros, válidos;
+
+c) Certidão comprovativa da titularidade do grau de licenciado em Enfermagem ou equivalente legal, indicando a respectiva classificação final;
+
+d) Os requerentes que tenham obtido o grau de licenciado por equivalência concedida ao abrigo do n.º 1 ou do n.º 2 do artigo 10.º do [Decreto-Lei n.º 480/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1988-361157), de 23 de Dezembro, alterado pelo [Decreto-Lei n.º 100/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1990-333290), de 20 de Março, instruem o processo de candidatura igualmente com documento comprovativo da classificação do Curso Geral de Enfermagem ou equivalente legal e da classificação dos cursos de que sejam detentores, de entre aqueles a que se referem as alíneas a), b) e c) do artigo 10.º do [Decreto-Lei n.º 480/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1988-361157).
+
+Os requerentes que obtiveram equivalência ao abrigo do disposto no [Decreto-Lei n.º 283/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1983-452538), de 21 de Julho, instruem o processo com o documento comprovativo da respectiva equivalência;
+
+e) Certidão comprovativa do tempo de serviço e de experiência profissional como enfermeiro;
+
+f) Ficha curricular, fornecida pelos Serviços Académicos ou na página da Escola onde se encontra a referida matriz em formato PDF, devidamente preenchida;
+
+g) Documentos comprovativos, certificados pela direcção da instituição, de tudo o que foi declarado na ficha curricular preenchida pelo candidato.
+
+6 - O júri, se o entender, solicitará a apresentação de outros documentos que venha a considerar relevantes para a apreciação do currículo.
+
+7 - Os parâmetros gerais de seriação são:
+
+a) Formação académica - 5 pontos;
+
+b) Experiência profissional - 45 pontos;
+
+c) Colaboração na docência - 25 pontos;
+
+d) Trabalhos científicos - 10 pontos;
+
+e) Formação em serviço - 10 pontos;
+
+f) Júri de concursos e grupos de trabalho - 5 pontos.
+
+A grelha de onde constam os critérios de seriação e desempate será afixada na Escola, em local de acesso público, podendo igualmente ser consultada na página oficial da Escola.
+
+8 - A análise de candidaturas e seriação daí resultante terá por base as regras e os critérios de selecção aprovados pelo conselho científico e homologados pela presidente do conselho directivo da Escola Superior de Saúde de Portalegre, em conformidade com o disposto no n.º 3 do artigo 22.º da [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março, que constam do anexo I deste edital e que dele faz parte integrante.
+
+9 - O número de vagas é de 50, por proposta do conselho científico da Escola Superior de Saúde de Portalegre, aguardando aprovação do ministério da tutela, considerando-se como número mínimo para o funcionamento do curso 25 alunos.
+
+As vagas serão distribuídas pelos seguintes contingentes:
+
+Contingente A - para candidatos provenientes das organizações com as quais a ESSP mantém protocolos de cooperação, num total de 13 vagas, distribuídas do seguinte modo:
+
+Quatro vagas para os candidatos oriundos da zona de implantação da Escola Superior de Saúde de Portalegre;
+
+Três vagas para candidatos oriundos da zona de implantação da Escola Superior de Enfermagem São João de Deus de Évora;
+
+Três vagas para candidatos oriundos da zona de implantação da Escola Superior de Saúde de Beja;
+
+Três vagas para candidatos oriundos da zona de implantação da Escola Superior de Saúde de Faro;
+
+Contingente B - para candidatos oriundos da zona de implantação da Escola Superior de Saúde de Portalegre, num total de 12 vagas;
+
+Contingente C - para todos os candidatos não incluídos nos contingentes anteriores, num total de 25 vagas.
+
+As vagas não preenchidas no contingente A ou B revertem para o contingente C.
+
+10 - O curso funcionará de segunda-feira a sábado, em horário a propor semestralmente pelos órgãos próprios e segundo o calendário escolar.
+
+11 - O requerimento e os respectivos documentos de candidatura devem ser entregues, contra recibo, ou enviados pelo correio com aviso de recepção, dentro dos prazos fixados neste edital, para a Escola Superior de Saúde de Portalegre, Serviços Académicos, Avenida de Santo António, apartado 89, 7301-901 Portalegre.
+
+12 - A inscrição à candidatura está sujeita ao pagamento de emolumentos no valor de Euro 75 - O valor da matrícula será de Euro 25 e o da propina de Euro 3000 (pagável em três prestações de Euro 1000 ou em 10 mensalidades de Euro 300), acrescida de uma taxa administrativa de Euro 10 por cada mês de atraso no seu pagamento.
+
+13 - Os documentos apresentados pelos candidatos não admitidos serão eliminados caso não sejam solicitados até 90 dias após a data de início do curso. Nesta última situação, os encargos de reenvio ficam a cargo dos candidatos.
+
+14 - O calendário do processo de concurso é o seguinte:
+
+Candidaturas - 2 a 5 de Janeiro de 2007;
+
+Afixação da lista de rejeição liminar - até 12 de Janeiro de 2007;
+
+Selecção e seriação - até 9 de Fevereiro de 2007;
+
+Afixação dos resultados - 12 de Fevereiro de 2007;
+
+Reclamações - até 19 de Fevereiro de 2007;
+
+Comunicação da decisão das reclamações - até 26 de Fevereiro de 2007;
+
+Matrícula e inscrição - de 5 a 9 de Março de 2007;
+
+Início do curso - 19 de Março de 2007.
+
+Os prazos constantes do processo de concurso são meramente indicativos, podendo ser alterados por razões supervenientes.
+
+13 de Dezembro de 2006. - O Presidente, Nuno Manuel Grilo de Oliveira.
