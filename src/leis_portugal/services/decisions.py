@@ -216,19 +216,24 @@ class TcIngestion(_Ingestion):
         super().__init__(acervo, **kwargs)
         self.client = client_factory()
 
-    def ingest(self, *, years: list[int], limit: int | None = None, progress: Progress = silent) -> DecisionRunSummary:
+    def ingest(
+        self, *, years: list[int], limit: int | None = None, progress: Progress = silent,
+        collection: tc.Collection = tc.ACORDAOS,
+    ) -> DecisionRunSummary:
         summary = DecisionRunSummary()
         known = self._known = existing_ids(self.acervo.data / CASE_LAW_SCOPE / "tribunal-constitucional")
-        published = dre_judgments(self.acervo)
+        # Só os acórdãos são publicados no Diário da República.
+        published = dre_judgments(self.acervo) if collection == tc.ACORDAOS else {}
+        label = "TC" if collection == tc.ACORDAOS else "TC decisões sumárias"
         for year in years:
             self._attempt("listagem", str(year))
             try:
-                listed = self.client.listing(year)
+                listed = self.client.listing(year, collection)
             except LeisPortugalError as exc:
                 summary.failures.append(failure("listagem", str(year), exc))
-                progress(f"TC {year}: falha na listagem: {exc}")
+                progress(f"{label} {year}: falha na listagem: {exc}")
                 continue
-            progress(f"TC {year}: {len(listed)} acórdão(s) na listagem")
+            progress(f"{label} {year}: {len(listed)} na listagem")
 
             def collect(item: tc.Listed) -> WriteResult:
                 record_id, dre = published.get(item.official_number, (None, None))
@@ -245,7 +250,7 @@ class TcIngestion(_Ingestion):
                 return summary
             self._run(
                 listed, key=tc.record_id, collect=collect, known=known, summary=summary,
-                progress=progress, label=f"TC {year}", limit=remaining,
+                progress=progress, label=f"{label} {year}", limit=remaining,
             )
         self._flush(summary)
         return summary

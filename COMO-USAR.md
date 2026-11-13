@@ -6,6 +6,12 @@ Guia passo a passo para quem não é programador: instalar, criar a chave da API
 
 > **Sigilo.** A pergunta e os artigos encontrados são enviados à API da Anthropic para o Claude escrever a resposta. **Não escrevas nomes, factos ou dados de clientes.** Pergunta só pelo que diz a lei.
 
+## A forma mais simples: a aplicação
+
+Para Mac e Windows, sem Terminal: descarregas, abres, e um passo a passo pede a IA que queres usar (Claude, OpenAI ou Gemini) e a chave. A chave fica no cofre do computador e os dados descarregam-se sozinhos. Ver [`app/README.md`](app/README.md). **Ainda não está publicada:** até lá, usa este guia.
+
+Este guia é para quem a quer usar a partir do repositório. Com `./perguntar --web` (passo 6) tem a mesma página da aplicação, no browser.
+
 ## O que precisas
 
 - Um computador com **macOS** ou **Linux**. Em Windows, funciona dentro do WSL (o Linux do Windows; ver [Windows](#windows)).
@@ -113,6 +119,14 @@ Depois escreves a pergunta e carregas em Enter. Para cada pergunta, o sistema mo
 - os outros artigos que encontrou.
 
 No fim, pergunta se a resposta está certa e, se não, o que esperavas. Isso fica guardado só no teu computador, em `rag/resultados/privado/perguntas-testadas.jsonl`. **Se quiseres ajudar a melhorar o sistema, envia esse ficheiro ao autor**: as perguntas que falham entram no conjunto de avaliação.
+
+**Numa página, no browser** (a mesma da aplicação: escolher a IA e a chave, perguntar, ver as fontes e avaliar):
+
+```bash
+./perguntar --web
+```
+
+Com a página, a chave escreve-se nas Definições e fica no cofre do computador; não precisas do passo 4. As avaliações ficam no mesmo ficheiro.
 
 Para uma só pergunta, sem o modo interativo:
 

@@ -1,0 +1,41 @@
+name: Site (GitHub Pages)
+
+# Publica a página de descarga da aplicação (pages/) no GitHub Pages. Precisa, uma vez, de
+# Settings → Pages → Source: GitHub Actions.
+on:
+  push:
+    branches: [main]
+    paths: ["pages/**", "app/icone.png", ".github/social-preview.png", ".github/workflows/site.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            pages
+            app/icone.png
+            .github/social-preview.png
+          sparse-checkout-cone-mode: false
+      - name: Juntar as imagens
+        run: cp app/icone.png .github/social-preview.png pages/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: pages
+      - id: deploy
+        uses: actions/deploy-pages@v4

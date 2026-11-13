@@ -92,7 +92,36 @@ O `juntar` do pedido completo passa agora a deixar como "não junto" os diplomas
 
 **Ronda 105: Decreto 45205 (Regulamento das Radiocomunicações de 1959).** Foi pelo `llm_gigantes.py`, numa só passagem, porque tem 1 alterador, o Decreto Regulamentar 10-A/77. O texto atual tem 846 mil caracteres e foi num ficheiro à parte. O respondedor Opus não encontrou nenhuma instrução para aplicar. O decreto regulamentar só aprova a revisão de Genebra de 1971, e as alterações estão nos anexos 1 a 19. No acervo, o alterador tem 12 mil caracteres: o preâmbulo, as assinaturas e ligações "(ver documento original)" para o PDF. O `juntar` deixou-o como "não junto" (a resposta não muda nada), por isso não há vistas nem verificação às cegas. **Não foi aplicado.** Juntou-se ao `llm/gigantes-ids.txt`.
 
-Depois foram-se buscar os anexos ao PDF do DR (`files.diariodarepublica.pt/1s/1977/02/02701/00010176.pdf`, 176 páginas). O PDF está cifrado (AESV2, sem palavra-passe) e cada página é uma imagem CCITT G4, sem texto. Decifradas e convertidas, as páginas leem-se bem. Os anexos ocupam as páginas 10 a 176, com instruções por número de parágrafo (MOD, SUP, ADI, INA) e quadros de atribuição de frequências substituídos por inteiro. **Mesmo com o texto, não se aplica, porque misturaria versões.** A revisão de 1971 parte do Regulamento já revisto pelas conferências de 1963, 1966 e 1967. Muitos dos números que ela altera ou suprime (84AE, 84AL, 233B, 374A, 383A, 639CP, 639BM) vêm dessas revisões e não existem no texto do original. Essas revisões estão no acervo noutros diplomas (Decreto 48404, de 1968, e Decreto 434/71), mas o DRE não os dá como alteradores do Decreto 45205. Além disso, os quadros de frequências do próprio original só existem em imagem (182 "ver documento original"). É o mesmo motivo do Regulamento para Evitar Abalroamentos no Mar, na ronda 100. Para o consolidar, seria preciso aplicar primeiro, por ordem, todas as revisões do Regulamento e transcrever os quadros. Ficou de fora, e o aviso "Texto original; alterado por…" mantém-se. O Regulamento de 1959 foi substituído pelos regulamentos seguintes da UIT, por isso o valor para o RAG é baixo.
+Depois foram-se buscar os anexos ao PDF do DR (`files.diariodarepublica.pt/1s/1977/02/02701/00010176.pdf`, 176 páginas). O PDF está cifrado (AESV2, sem palavra-passe) e cada página é uma imagem CCITT G4, sem texto. Decifradas e convertidas, as páginas leem-se bem. Os anexos ocupam as páginas 10 a 176, com instruções por número de parágrafo (MOD, SUP, ADI, INA) e quadros de atribuição de frequências substituídos por inteiro. **Mesmo com o texto, não se aplica, porque misturaria versões.** A revisão de 1971 parte do Regulamento já revisto pelas conferências de 1963, 1966 e 1967. Muitos dos números que ela altera ou suprime (84AE, 84AL, 233B, 374A, 383A, 639CP, 639BM) vêm dessas revisões e não existem no texto do original. Essas revisões estão no acervo noutros diplomas (Decreto 48404, de 1968, e Decreto 434/71), mas o DRE não os dá como alteradores do Decreto 45205. Além disso, os quadros de frequências do próprio original só existem em imagem (182 "ver documento original"). É o mesmo motivo do Regulamento para Evitar Abalroamentos no Mar, na ronda 100. Para o consolidar, seria preciso aplicar primeiro, por ordem, todas as revisões do Regulamento e transcrever os quadros. Ficou de fora, e o aviso "Texto original; alterado por…" mantém-se. **E não está em vigor:** o Decreto n.º 39-A/92, que aprova o Regulamento das Radiocomunicações de 1979, revoga-o no art. 2.º, alínea a), e revoga também os Decretos 46425, 48404 e 434/71. Mesmo assim, o acervo dá os quatro como `in_force`. A correção da vigência ficou com a sessão da vigência manual.
+
+### Anexos só em imagem: o PDF do DR tem o texto? (amostra de 30, 12/11/2026)
+
+A ronda 104 mostrou um caso em que a "imagem" do acervo era, no PDF do DR, texto com camada de texto. Para saber se isto abre caminho aos diplomas travados por anexos em imagem, mediu-se uma amostra.
+
+- **A população.** Na última ronda de cada diploma (`verificacao/saida-piloto-*.jsonl`), 336 têm reparos que citam imagem, quadro, tabela, mapa, planta ou PDF, e **239 só têm reparos desses**. São os que um texto do anexo poderia desbloquear por inteiro. A contagem de 447 do ponto 1 usa outras palavras-chave e é mais larga.
+- **A amostra.** 30 dos 239, ao acaso (semente 104). Descarregaram-se os 63 PDFs do DR das ligações "(ver … no documento original)" do original e dos alteradores, e o texto saiu com o PDFKit (`scripts/pdftext.swift`, sem OCR). Um verificador Sonnet comparou o conteúdo do reparo com a imagem da página. Resultado em `verificacao/anexos-imagem-amostra-30.jsonl`.
+- **Data.** Todos os PDFs anteriores a 1997 são digitalizações sem camada de texto, e todos os de 1997 em diante têm texto.
+
+| Categoria | Diplomas |
+| --- | --: |
+| A: texto fiel no PDF, aproveitável sem juízo | 2 |
+| B: texto no PDF, mas as colunas do quadro perdem-se | 14 |
+| C: digitalização, só com OCR (todos quadros, nenhum desenho) | 7 |
+| D: planta ou mapa, sem texto possível | 4 |
+| E: o reparo não é afinal sobre a imagem | 3 |
+
+**Leitura.** Com o texto simples do PDF, só **2 em 30** (7 %) ficam resolvidos. Os B são quase todos planos de estudos: a camada dá "História e Teoria do Urbanismo … Anual …. 4", mas só a imagem diz que o 4 está na coluna das aulas teóricas, porque as células vazias não deixam marca no texto. Os C pedem OCR de quadros, com mais risco de erro. Os D não têm solução por texto. Nada disto foi aplicado.
+
+**As colunas pelas coordenadas (testado).** O PDF guarda a posição de cada carácter. `scripts/pdfchars.swift` (PDFKit) dá a caixa de cada um, e `consolidacao/pdf_colunas.py` junta-os em linhas e palavras com o seu x. Na Portaria 70/98, o 4 da História e Teoria do Urbanismo fica em x≈346 (aulas teóricas), o 2 da Topografia em x≈389 (teórico-práticas) e o 3 das Técnicas de Desenho em x≈431 (práticas), como na imagem. Um verificador Sonnet conferiu os 14 B com a imagem das páginas, célula a célula (`verificacao/anexos-imagem-coordenadas-14.jsonl`):
+- **11 resolvidos.** Cada célula cai num intervalo de x de uma só coluna, as linhas ficam inteiras, e as células conferidas batem com a imagem. Uma regra mecânica (fronteiras entre as colunas do cabeçalho) refaz o quadro. São 9 planos de estudos, uma matriz de × e dois quadros pequenos de valores. Conferi eu também a Portaria 690/97 contra a imagem.
+- **3 parciais:** DRR 13-D/97/M, Portaria 559/2005 e Portaria 412-I/99. As colunas estão certas, mas há células fundidas na vertical, escritas uma só vez e sem os traços do quadro no texto, grupos "um para muitos" ligados por "ou", e quadros que continuam noutra página ou coluna.
+
+Com as coordenadas, a amostra passa de 2 para **13 em 30** com o texto do quadro recuperável (cerca de 43 %; 11 dos 14 B mais os 2 A). Não é ainda texto no acervo. Falta:
+1. Escrever o quadro reconstruído em texto ou Markdown.
+2. Pô-lo no alterador ou no original, por um caminho que o projeto ainda não tem.
+3. Repedir a consolidação e verificá-la às cegas.
+
+Para os parciais, o passo seguinte seria ler também os traços do quadro, que o PDF tem como segmentos.
 
 ### Triagem: alterações que as regras não leem (12/11/2026)
 

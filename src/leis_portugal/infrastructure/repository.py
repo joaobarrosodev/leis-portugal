@@ -125,7 +125,8 @@ class Acervo:
 
     def _decision_path(self, record: LegalRecord, *, disambiguate: bool) -> Path:
         """Decisões fora da legislação: `data/entidades/cnpd/<tipo>/<ano>/` e
-        `data/jurisprudencia/tribunal-constitucional/<ano>/`."""
+        `data/jurisprudencia/tribunal-constitucional/<ano>/` (as decisões sumárias em
+        `decisoes-sumarias/<ano>/`)."""
         number = record.official_number or ""
         year = number.split("/")[-1] if "/" in number else (record.official_date or "0000")[:4]
         local_id = record.id.rsplit(":", 1)[-1]
@@ -136,6 +137,9 @@ class Acervo:
         else:
             directory = self.data / CASE_LAW_SCOPE / "tribunal-constitucional"
             stem = slugify(f"acordao tc {number}")
+            if record.document_type == "decisao-sumaria-tribunal-constitucional":
+                directory = directory / "decisoes-sumarias"
+                stem = slugify(f"decisao sumaria tc {number}")
         if disambiguate:
             stem = f"{stem}-{local_id}"
         return directory / year / f"{stem}.md"

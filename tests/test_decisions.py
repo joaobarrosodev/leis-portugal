@@ -234,8 +234,8 @@ class FakeTcClient:
     def __init__(self) -> None:
         self.pages: list[str] = []
 
-    def listing(self, year):
-        return tc.parse_listing(TC_LISTING, year)[:1]
+    def listing(self, year, collection=tc.ACORDAOS):
+        return tc.parse_listing(TC_LISTING, year, collection)[:1]
 
     def page(self, item):
         self.pages.append(item.url)
@@ -353,3 +353,33 @@ def test_failure_list_keeps_the_note_when_the_same_page_fails_again(repo_root: P
     TcIngestion(Acervo(repo_root), client_factory=Broken, failures_path=path).ingest(years=[2024])
     [entry] = [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines()]
     assert entry["nota"] == "erro 401" and entry["error"] != "velho"
+
+
+TC_SUMMARY_LISTING = """<div id="dslistagem"><table>
+<tr><th class="decisao">Decisão</th></tr>
+<tr><td class="decisao"><a href="20250001.html">1/25</a></td><td class="tdright processo">1101/24</td>
+<td class="tdcenter seccao">1ª</td><td class="tdcenter data">02.01.25</td><td class="tdleft relator">Cons. A</td></tr>
+<tr><td class="decisao"><a href="20250010.html">10/25</a></td><td class="tdright processo">1441/25</td>
+<td class="tdcenter seccao">3ª</td><td class="tdcenter data">06.01.26</td><td class="tdleft relator">Cons. B</td></tr>
+<tr><td class="decisao"><a href="20250010.html">10/25</a></td><td class="tdright processo">1165/24</td>
+<td class="tdcenter seccao">1ª</td><td class="tdcenter data">07.01.25</td><td class="tdleft relator">Cons. C</td></tr>
+</table></div>"""
+
+
+def test_tc_summary_decisions_listing_with_two_digit_years_and_a_repeated_row(repo_root: Path):
+    http = FakeHttp({tc.block_url(2025, 1, tc.SUMARIAS): TC_SUMMARY_LISTING.encode()})
+    items = tc.TcClient(http).listing(2025, tc.SUMARIAS)
+    assert [(item.number, item.process, item.decided) for item in items] == [
+        (1, "1101/24", "2025-01-02"), (10, "1165/24", "2025-01-07"),
+    ]
+    assert items[0].url == "https://www.tribunalconstitucional.pt/tc/decsumarias/20250001.html"
+    assert tc.record_id(items[0]) == "pt:tc:decisao-sumaria:2025:1"
+
+    page = SourceContent(url=items[0].url, content=TC_PAGE.encode(), media_type="text/html", sha256="e" * 64)
+    document = tc.to_document(items[0], page)
+    assert document.record.title == "Decisão sumária do Tribunal Constitucional n.º 1/2025"
+    assert document.record.document_type == "decisao-sumaria-tribunal-constitucional"
+    result = Acervo(repo_root).save(document.record, document.body, target=Acervo(repo_root).resolve_target(document.record))
+    assert Acervo(repo_root).relative(result.path) == (
+        "data/jurisprudencia/tribunal-constitucional/decisoes-sumarias/2025/decisao-sumaria-tc-1-2025.md"
+    )
