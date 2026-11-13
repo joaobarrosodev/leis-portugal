@@ -155,6 +155,24 @@
   .fecho .publique { font-style: italic; font-size: 26px; }
   .rodape { border-top: 3px double var(--regra); margin-top: 40px; padding: 18px 0 44px; color: var(--suave); display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
   .rodape nav { display: flex; gap: 16px; flex-wrap: wrap; }
+
+  /* Uma só coluna: o número do artigo por cima do título, as notas dentro do texto, o mesmo
+     espaço entre todas as secções. Mais fácil de seguir do que três colunas. */
+  .linha { display: block; max-width: 760px; margin: 0 auto; }
+  .margem p { margin: 0 0 6px; }
+  .numero-artigo b { display: inline; font-size: inherit; font-family: var(--mono); color: var(--tenue); margin: 0 0 0 6px; }
+  .numero-artigo { font-size: 14px; }
+  .lado { max-width: none; margin-top: 22px; }
+  .nota-margem { border-top: 0; border-left: 3px solid var(--regra); background: var(--papel-claro); padding: 14px 18px; }
+  .artigo, .convite { padding: 52px 0 0; margin-top: 52px; border-top: 1px solid var(--fio); }
+  .convite { border-top: 3px solid var(--regra); border-bottom: 1px solid var(--regra); padding-bottom: 40px; }
+  .abertura { padding: 44px 0 0; }
+  .demo-secao { padding: 0; margin-top: 44px; }
+  .epigrafe { margin-bottom: 20px; }
+  .descarga { display: grid; grid-template-columns: 1fr 1fr; column-gap: 10px; }
+  .descarga h2, .descarga p { grid-column: 1 / -1; }
+  .descarga .descarregar { margin-bottom: 0; }
+  @media (max-width: 560px) { .descarga { grid-template-columns: 1fr; row-gap: 8px; } }
 </style>
 </head>
 <body>
