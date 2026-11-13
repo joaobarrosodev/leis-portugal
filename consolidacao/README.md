@@ -110,7 +110,18 @@ A ronda 104 mostrou um caso em que a "imagem" do acervo era, no PDF do DR, texto
 | D: planta ou mapa, sem texto possível | 4 |
 | E: o reparo não é afinal sobre a imagem | 3 |
 
-**Leitura.** Com o texto simples do PDF, só **2 em 30** (7 %) ficam resolvidos. Os B são quase todos planos de estudos: a camada dá "História e Teoria do Urbanismo … Anual …. 4", mas só a imagem diz que o 4 está na coluna das aulas teóricas, porque as células vazias não deixam marca no texto. O PDF guarda a posição de cada palavra, e um extrator que use as coordenadas pode recuperar as colunas. Isso **não foi testado**: se funcionar, os 14 B podem passar a A (até ~50 % da amostra). Os C pedem OCR de quadros, com mais risco de erro. Os D não têm solução por texto. Nada disto foi aplicado.
+**Leitura.** Com o texto simples do PDF, só **2 em 30** (7 %) ficam resolvidos. Os B são quase todos planos de estudos: a camada dá "História e Teoria do Urbanismo … Anual …. 4", mas só a imagem diz que o 4 está na coluna das aulas teóricas, porque as células vazias não deixam marca no texto. Os C pedem OCR de quadros, com mais risco de erro. Os D não têm solução por texto. Nada disto foi aplicado.
+
+**As colunas pelas coordenadas (testado).** O PDF guarda a posição de cada carácter. `scripts/pdfchars.swift` (PDFKit) dá a caixa de cada um, e `consolidacao/pdf_colunas.py` junta-os em linhas e palavras com o seu x. Na Portaria 70/98, o 4 da História e Teoria do Urbanismo fica em x≈346 (aulas teóricas), o 2 da Topografia em x≈389 (teórico-práticas) e o 3 das Técnicas de Desenho em x≈431 (práticas), como na imagem. Um verificador Sonnet conferiu os 14 B com a imagem das páginas, célula a célula (`verificacao/anexos-imagem-coordenadas-14.jsonl`):
+- **11 resolvidos.** Cada célula cai num intervalo de x de uma só coluna, as linhas ficam inteiras, e as células conferidas batem com a imagem. Uma regra mecânica (fronteiras entre as colunas do cabeçalho) refaz o quadro. São 9 planos de estudos, uma matriz de × e dois quadros pequenos de valores. Conferi eu também a Portaria 690/97 contra a imagem.
+- **3 parciais:** DRR 13-D/97/M, Portaria 559/2005 e Portaria 412-I/99. As colunas estão certas, mas há células fundidas na vertical, escritas uma só vez e sem os traços do quadro no texto, grupos "um para muitos" ligados por "ou", e quadros que continuam noutra página ou coluna.
+
+Com as coordenadas, a amostra passa de 2 para **13 em 30** com o texto do quadro recuperável (cerca de 43 %; 11 dos 14 B mais os 2 A). Não é ainda texto no acervo. Falta:
+1. Escrever o quadro reconstruído em texto ou Markdown.
+2. Pô-lo no alterador ou no original, por um caminho que o projeto ainda não tem.
+3. Repedir a consolidação e verificá-la às cegas.
+
+Para os parciais, o passo seguinte seria ler também os traços do quadro, que o PDF tem como segmentos.
 
 ### Triagem: alterações que as regras não leem (12/11/2026)
 
