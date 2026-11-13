@@ -93,10 +93,14 @@ class FakeCellar(CellarClient):
                 {"direction": "in", "relation": "http://x#resource_legal_corrects_resource_legal", "target": "http://c/4", "celex": "32022L2555R(01)", "date": "2023-02-01"},
             ]
         if "resource_legal_id_celex ?celex ." in query:
+            # Cada CELEX com o seu tipo e número: com os mesmos, o 32022R2554 ia para o ficheiro da
+            # Diretiva 2022/2555 e o teste com duas threads só passava quando as gravações coincidiam.
+            regulation = '"32022R2554"' in query
+            kind, number = ("reg", "2554") if regulation else ("dir", "2555")
             return [
-                {"work": "http://c/work", "eli": "http://data.europa.eu/eli/dir/2022/2555/oj", "signature_date": "2022-12-14",
-                 "entry_date": "2023-01-16", "end_date": "9999-12-31", "in_force": self.in_force, "type_code": "L",
-                 "year": "2022", "number": "2555", "oj_date": "2022-12-27", "oj_id": "oj:JOL_2022_333_R", "oj_number": "333",
+                {"work": "http://c/work", "eli": f"http://data.europa.eu/eli/{kind}/2022/{number}/oj", "signature_date": "2022-12-14",
+                 "entry_date": "2023-01-16", "end_date": "9999-12-31", "in_force": self.in_force, "type_code": "R" if regulation else "L",
+                 "year": "2022", "number": number, "oj_date": "2022-12-27", "oj_id": "oj:JOL_2022_333_R", "oj_number": "333",
                  "author": "http://publications.europa.eu/resource/authority/corporate-body/EP"},
                 {"work": "http://c/work", "author": "http://publications.europa.eu/resource/authority/corporate-body/CONSIL"},
             ]
