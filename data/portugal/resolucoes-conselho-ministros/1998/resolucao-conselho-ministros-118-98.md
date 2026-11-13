@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Montemor-o-Velho (Aviso n.º 10379/2015), em vigor desde 2015-09-14 (cláusula
+    de entrada em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 118/98 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:70237761:por'
+    detail: a Assembleia Municipal aprovou, na sessão ordinária de 26 de junho de 2015, a 1.ª Revisão do Plano Diretor Municipal
+      de Montemor-o-Velho
 notes: []
 language: por
 version:
@@ -312,6 +322,12 @@ relationships:
   target: pt:dre:690809:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:70237761:por
+  label: Substituído pela revisão do PDM de Montemor-o-Velho (Aviso n.º 10379/2015), em vigor desde 2015-09-14 (cláusula de
+    entrada em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 118/98 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2015-09-14'
 article_structure:
   article_count: 54
   section_count: 24

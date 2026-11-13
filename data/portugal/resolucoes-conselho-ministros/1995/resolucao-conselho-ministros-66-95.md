@@ -34,7 +34,18 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Ovar (Aviso n.º 9622/2015), em vigor desde 2015-08-27 (cláusula de entrada em
+    vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 66/95 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:70108532:por'
+    detail: a Assembleia Municipal, em sessão ordinária realizada em 29 de junho de 2015, deliberou, por maioria, aprovar
+      a versão final da Revisão do Plano Diretor Municipal de Ovar, incluindo o Regulamento, a planta de ordenamento, desdobrada
+      em quatro plantas e a planta de condicionantes, desdobrada em cinco plantas, que se publicam em anexo
 notes: []
 language: por
 version:
@@ -319,6 +330,12 @@ relationships:
   target: pt:dre:682209:por
   label: null
   source: http://data.dre.pt/eli/lei/54/1991/08/08/p/dre
+- type: repealed_by
+  target: pt:dre:70108532:por
+  label: Substituído pela revisão do PDM de Ovar (Aviso n.º 9622/2015), em vigor desde 2015-08-27 (cláusula de entrada em
+    vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 66/95 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2015-08-27'
 article_structure:
   article_count: 56
   section_count: 12

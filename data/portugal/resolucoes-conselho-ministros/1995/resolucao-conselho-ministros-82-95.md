@@ -35,7 +35,19 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Paredes de Coura (Aviso n.º 143/2016), em vigor desde 2016-01-12 (regra supletiva
+    do 5.º dia após a publicação, Lei n.º 74/98, art. 2.º, n.º 2, sem cláusula própria). O DRE dá a Resolução do Conselho
+    de Ministros n.º 82/95 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:73047244:por'
+    detail: a Assembleia Municipal em sessão ordinária realizada a dezanove de dezembro de dois mil e catorze, deliberou,
+      por maioria, aprovar a primeira revisão ao Plano Diretor Municipal de Paredes de Coura, incluindo o Regulamento, a Planta
+      de Ordenamento e a Planta de Condicionantes, que se publicam em anexo.
 notes: []
 language: por
 version:
@@ -107,6 +119,13 @@ relationships:
   target: pt:dre:680643:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:73047244:por
+  label: Substituído pela revisão do PDM de Paredes de Coura (Aviso n.º 143/2016), em vigor desde 2016-01-12 (regra supletiva
+    do 5.º dia após a publicação, Lei n.º 74/98, art. 2.º, n.º 2, sem cláusula própria). O DRE dá a Resolução do Conselho
+    de Ministros n.º 82/95 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2016-01-12'
 article_structure:
   article_count: 75
   section_count: 6

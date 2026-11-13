@@ -34,7 +34,20 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'PDM de Loures de 1994 (também abrangia Odivelas): no território de Loures, substituído pela revisão (Aviso n.º
+    6808/2015, em vigor desde 2015-06-19, que revoga a versão anterior do Plano); no de Odivelas, revogado pelo PDM de Odivelas
+    (Aviso n.º 10014/2015, em vigor no dia útil seguinte, 2015-09-03). O DRE dá a Resolução do Conselho de Ministros n.º 54/94
+    como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:70170154:por'
+    detail: 5 - Com a entrada em vigor do presente plano, ficam revogados todos os diplomas relativos ao Plano Diretor Municipal
+      de Loures (ratificado pela Resolução de Conselho de Ministros n.º 54/94, de 14 de julho), na parte respeitante ao território
+      do município de Odivelas.
 notes: []
 language: por
 version:
@@ -607,6 +620,14 @@ relationships:
   target: pt:dre:678600:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:70170154:por
+  label: 'PDM de Loures de 1994 (também abrangia Odivelas): no território de Loures, substituído pela revisão (Aviso n.º 6808/2015,
+    em vigor desde 2015-06-19, que revoga a versão anterior do Plano); no de Odivelas, revogado pelo PDM de Odivelas (Aviso
+    n.º 10014/2015, em vigor no dia útil seguinte, 2015-09-03). O DRE dá a Resolução do Conselho de Ministros n.º 54/94 como
+    em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2015-09-03'
 article_structure:
   article_count: 0
   section_count: 63

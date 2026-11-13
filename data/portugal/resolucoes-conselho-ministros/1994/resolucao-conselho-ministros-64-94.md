@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/183b00/45204545.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Anadia (Aviso n.º 9333/2015), em vigor desde 2015-08-24 (cláusula de entrada
+    em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 64/94 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:70072071:por'
+    detail: a Assembleia Municipal de Anadia, em sessão ordinária realizada no dia 19 de junho de 2015, deliberou, por maioria,
+      aprovar a Primeira Revisão do Plano Diretor Municipal de Anadia
 notes: []
 language: por
 version:
@@ -356,6 +366,12 @@ relationships:
   target: pt:dre:682209:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:70072071:por
+  label: Substituído pela revisão do PDM de Anadia (Aviso n.º 9333/2015), em vigor desde 2015-08-24 (cláusula de entrada em
+    vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 64/94 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2015-08-24'
 article_structure:
   article_count: 80
   section_count: 19

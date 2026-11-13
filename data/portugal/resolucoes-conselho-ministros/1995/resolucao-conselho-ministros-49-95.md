@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/116b00/30863106.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Macedo de Cavaleiros (Aviso n.º 11026/2015), em vigor desde 2015-09-30 (cláusula
+    de entrada em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 49/95 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:70402822:por'
+    detail: aprovou, por maioria, a 1.ª revisão de Plano Diretor Municipal de Macedo de Cavaleiros, incluindo o regulamento,
+      a planta de ordenamento e a planta de condicionantes
 notes: []
 language: por
 version:
@@ -264,6 +274,12 @@ relationships:
   target: pt:dre:673852:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:70402822:por
+  label: Substituído pela revisão do PDM de Macedo de Cavaleiros (Aviso n.º 11026/2015), em vigor desde 2015-09-30 (cláusula
+    de entrada em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 49/95 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2015-09-30'
 article_structure:
   article_count: 57
   section_count: 23

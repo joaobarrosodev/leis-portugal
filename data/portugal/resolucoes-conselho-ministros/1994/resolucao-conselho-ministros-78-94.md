@@ -35,7 +35,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Valença (Aviso (extracto) n.º 12235/2010), em vigor desde 2010-06-18 (cláusula
+    de entrada em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 78/94 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:3620853:por'
+    detail: a Assembleia Municipal deste concelho, em sua sessão de 29 do mesmo mês de Abril, aprovou a proposta de Revisão
+      do Plano Director Municipal de Valença
 notes: []
 language: por
 version:
@@ -138,6 +148,12 @@ relationships:
   target: pt:dre:661895:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:3620853:por
+  label: Substituído pela revisão do PDM de Valença (Aviso (extracto) n.º 12235/2010), em vigor desde 2010-06-18 (cláusula
+    de entrada em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 78/94 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2010-06-18'
 article_structure:
   article_count: 65
   section_count: 12

@@ -34,7 +34,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Leiria (Aviso n.º 9343/2015), em vigor desde 2015-08-22 (cláusula de entrada
+    em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 84/95 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:70072282:por'
+    detail: aprovar a 1.ª Revisão do Plano Diretor Municipal de Leiria
 notes: []
 language: por
 version:
@@ -353,6 +362,12 @@ relationships:
     e pelo Av 8229/2012, de 18-jun, pela DECL-RECT.1526/2012.22.11.2012.MLEIRIA, DR.IIS [226] de 22.11.2012
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/1526-2012-1269227
   date: '2012-11-22'
+- type: repealed_by
+  target: pt:dre:70072282:por
+  label: Substituído pela revisão do PDM de Leiria (Aviso n.º 9343/2015), em vigor desde 2015-08-22 (cláusula de entrada em
+    vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 84/95 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2015-08-22'
 article_structure:
   article_count: 97
   section_count: 20

@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Sátão (Aviso n.º 10603/2013), em vigor desde 2013-08-28 (cláusula de entrada
+    em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 64/93 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:1500255:por'
+    detail: a Assembleia Municipal, em sessão extraordinária de 6 de agosto de 2013, deliberou com 26 votos a favor e 3 abstenções
+      aprovar a versão final da 1.ª Revisão do Plano Diretor Municipal de Sátão, que se publica em anexo.
 notes: []
 language: por
 version:
@@ -216,6 +226,12 @@ relationships:
   target: pt:dre:631400:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:1500255:por
+  label: Substituído pela revisão do PDM de Sátão (Aviso n.º 10603/2013), em vigor desde 2013-08-28 (cláusula de entrada em
+    vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 64/93 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2013-08-28'
 article_structure:
   article_count: 67
   section_count: 17

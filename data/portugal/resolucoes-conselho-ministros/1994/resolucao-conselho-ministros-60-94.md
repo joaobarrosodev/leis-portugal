@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/175b00/42964325.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Mealhada (Aviso n.º 4234/2015), em vigor desde 2015-04-21 (cláusula de entrada
+    em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 60/94 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:67027893:por'
+    detail: a Assembleia Municipal da Mealhada, na sessão ordinária do dia 10 de abril de 2015, deliberou por maioria aprovar
+      a Revisão do Plano Diretor Municipal de Mealhada.
 notes: []
 language: por
 version:
@@ -396,6 +406,12 @@ relationships:
     DR.IIS [171] de 05.09.2013
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/956-2013-3136676
   date: '2013-09-05'
+- type: repealed_by
+  target: pt:dre:67027893:por
+  label: Substituído pela revisão do PDM de Mealhada (Aviso n.º 4234/2015), em vigor desde 2015-04-21 (cláusula de entrada
+    em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 60/94 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2015-04-21'
 article_structure:
   article_count: 81
   section_count: 17

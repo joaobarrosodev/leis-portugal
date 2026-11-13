@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Pedrógão Grande (Aviso n.º 10650/2015), em vigor desde 2015-09-19 (cláusula de
+    entrada em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 135/95 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:70331676:por'
+    detail: a Assembleia Municipal de Pedrógão Grande, em sessão ordinária pública de 26 de junho de 2015, deliberou aprovar,
+      por unanimidade de votos, a versão final da Revisão do Plano Diretor Municipal de Pedrógão Grande
 notes: []
 language: por
 version:
@@ -255,6 +265,12 @@ relationships:
   target: pt:dre:682209:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:70331676:por
+  label: Substituído pela revisão do PDM de Pedrógão Grande (Aviso n.º 10650/2015), em vigor desde 2015-09-19 (cláusula de
+    entrada em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 135/95 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2015-09-19'
 article_structure:
   article_count: 45
   section_count: 20

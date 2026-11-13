@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Viana do Alentejo (Aviso n.º 11913/2015), em vigor desde 2015-10-17 (cláusula
+    de entrada em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 12/97 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:70722381:por'
+    detail: a Assembleia Municipal de Viana do Alentejo, na sua sessão ordinária de 26 de junho de 2015, deliberou, por unanimidade,
+      aprovar a 1.ª da Revisão do Plano Diretor Municipal de Viana do Alentejo
 notes: []
 language: por
 version:
@@ -100,6 +110,12 @@ relationships:
     Série II de 2016-04-26
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/5400-2016-74257019
   date: '2016-04-26'
+- type: repealed_by
+  target: pt:dre:70722381:por
+  label: Substituído pela revisão do PDM de Viana do Alentejo (Aviso n.º 11913/2015), em vigor desde 2015-10-17 (cláusula
+    de entrada em vigor do Regulamento). O DRE dá a Resolução do Conselho de Ministros n.º 12/97 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2015-10-17'
 article_structure:
   article_count: 71
   section_count: 36
