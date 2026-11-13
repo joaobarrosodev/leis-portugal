@@ -11,6 +11,34 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:319893:por",
-    "alterador": "pt:dre:667161:por"
+    "alterador": "pt:dre:667161:por;pt:dre:604841:por"
+  },
+  {
+    "artigo": "unidades 57-57",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)",
+    "depois": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Metodologia de Um Trabalho Científico em História da Arte | Semestral | 3 |  |  | 4 |  |\n| História da Cultura e Património Artístico | Semestral | 3 |  |  | 4 |  |\n| História das Artes Decorativas | Semestral | 3 |  |  | 4 |  |\n| Análise das Linguagens Artísticas | Semestral | 1,5 |  |  | 2 | (a) |\n| Arte Religiosa | Semestral | 1,5 |  |  | 2 | (a) |\n| História da Crítica de Arte | Semestral | 1,5 |  |  | 2 | (a) |\n| Iconologia e Heráldica | Semestral | 1,5 |  |  | 2 | (a) |\n\n(a) Unidades curriculares de opção a regulamentar pelo órgão legal e estatutariamente competente.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:319893:por",
+    "alterador": "pt:dre:667161:por;pt:dre:604841:por"
+  },
+  {
+    "artigo": "unidades 60-60",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)",
+    "depois": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Metodologia de Um Trabalho Científico em História da Arte | Semestral | 3 |  |  | 4 |  |\n| História da Cultura e Património Artístico | Semestral | 3 |  |  | 4 |  |\n| História das Artes Decorativas | Semestral | 3 |  |  | 4 |  |\n| História das Técnicas Artísticas | Semestral | 1,5 |  |  | 2 | (a) |\n| Problemáticas e Investigação em História da Arquitectura e do Urbanismo | Semestral | 1,5 |  |  | 2 | (a) |\n| Restauro e Conservação das Artes Plásticas | Semestral | 1,5 |  |  | 2 | (a) |\n| Restauro Monumental, Teorias e Prática | Semestral | 1,5 |  |  | 2 | (a) |\n\n(a) Unidades curriculares de opção a regulamentar pelo órgão legal e estatutariamente competente.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:319893:por",
+    "alterador": "pt:dre:667161:por;pt:dre:604841:por"
   }
 ]

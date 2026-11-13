@@ -94,6 +94,22 @@ em que os termos «index mix óleos», «index frete», «index metanol» e «cu
 
 3 - As vendas mensais, por produtor, de volumes de biocombustíveis que beneficiem do regime de isenção de imposto sobre os produtos petrolíferos e energéticos (ISP) não podem exceder a décima parte do respectivo volume anual previsto nos números anteriores para efeitos de incorporação no gasóleo rodoviário.
 
+###### Artigo ANEXO — (a que se refere o n.º 2 do artigo 2.º)
+
+Limites máximos, por produtor, de venda de volumes de biocombustíveis que beneficiem do regime de isenção de imposto sobre os produtos petrolíferos e energéticos (ISP).
+
+(Metros cúbicos)
+
+| Produtor | 2009 | 2010 |
+| --- | --- | --- |
+| Iberol | 76 159 | 82 426 |
+| Torrejana | 66 691 | 77 654 |
+| Biovegetal | 54 700 | 68 993 |
+| Prio | 52 498 | 67 111 |
+| Sovena | 37 024 | 62 981 |
+
+> Aditado pelo/a [Portaria n.º 69/2010](https://diariodarepublica.pt/dr/detalhe/portaria/69-2010-617110), publicado em 2010-02-04.
+
 O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 3 de Abril de 2009.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 2.º)

@@ -1,6 +1,13 @@
 {
   "id": "pt:dre:173287:por",
-  "substituicoes": [],
+  "substituicoes": [
+    {
+      "de": 110,
+      "ate": 110,
+      "texto": "ANEXO\n\nInstituto Politécnico de Leiria\n\nEscola Superior de Educação\n\nCurso: Ensino Precoce das Línguas Estrangeiras\n\nDiploma de estudos superiores especializados\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua Estrangeira I | Anual |  |  | 180 |  | (a) |\n| Civilização e Cultura da Língua Estrangeira | Anual | 45 |  | 45 |  | (a) |\n| Psicolinguística | Semestral | 60 |  |  |  |  |\n| Expressão para a Comunicação | Semestral |  | 45 |  |  |  |\n| Didáctica da Língua Estrangeira I | Semestral |  | 45 |  |  | (a) |\n| Investigação em Educação | Semestral |  | 60 |  |  |  |\n\n(a) Francês ou Inglês.\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua Estrangeira II | Anual |  |  | 150 |  | (a) |\n| Projecto de Intervenção | Anual |  |  | 90 |  |  |\n| Seminário | Anual |  |  |  | 120 |  |\n| Didáctica da Língua Estrangeira II | Semestral |  | 45 |  |  | (a) |\n| Laboratório de Construção de Materiais | Semestral |  | 75 |  |  |  |\n\n(a) Francês ou Inglês.",
+      "alterador": 1
+    }
+  ],
   "insercoes": [
     {
       "depois_de": 24,
@@ -8,11 +15,11 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, n.º 2.º: o novo anexo (plano de estudos) só vem em imagem e o original não tem cabeçalho de anexo identificável (a unidade 110 é só a ligação para o documento original); não aplicado.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, 1.º: aditado o n.º 5.º-A (Supranumerários) — inserido a seguir à unidade 24 (fim do n.º 5.º).",
-    "Alterador 1, 2.º: anexo substituído pelo do alterador — só em imagem, não aplicado (nao_aplicavel).",
-    "Alterador 1, 3.º e 4.º: aplicação e transição — normas próprias do alterador, nada a mudar."
+    "1.º da Portaria 1174/97: aditado o n.º 5.º-A (Supranumerários), inserido depois da unidade 24 (fim do 5.º).",
+    "2.º da Portaria 1174/97: o anexo (plano de estudos) passa a ter a redação do anexo do alterador; a unidade 110 (remissão para o documento original, onde estava o anexo em imagem) substituída pelo novo anexo transcrito, sem a nota editorial do título.",
+    "3.º e 4.º (aplicação e transição): normas próprias do alterador, nada a mudar no original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

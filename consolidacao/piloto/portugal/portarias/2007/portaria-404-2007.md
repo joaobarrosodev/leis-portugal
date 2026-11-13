@@ -92,10 +92,28 @@ A autorização e o reconhecimento operados pelo presente diploma não prejudica
 
 O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 21 de Março de 2007.
 
-## ANEXO — Instituto Politécnico de Saúde do Norte
-
-Escola Superior de Saúde do Vale do Ave
+## ANEXO — Escola Superior de Saúde do Vale do Ave do Instituto Politécnico de Saúde do Norte
 
 Curso de pós-licenciatura de especialização em Enfermagem de Reabilitação
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07000/22852286.pdf)
+QUADRO N.º 1
+
+| Unidades curriculares | Área científica | Tipo | Tempo de trabalho (horas) — Total | Tempo de trabalho (horas) — Contacto | Créditos |
+| --- | --- | --- | --- | --- | --- |
+| Fundamentos de Enfermagem de Reabilitação | ENF | 1.º semestre | 135 | TP:38; PL:5 | 5 |
+| Enfermagem de Reabilitação em Neurologia | ENF | 1.º semestre | 135 | TP:35; PL:4 | 5 |
+| Enfermagem de Reabilitação Cardiorrespiratória | ENF | 1.º semestre | 81 | TP:26; PL:4 | 3 |
+| Enfermagem de Reabilitação em Ortopedia e Traumatologia | ENF | 1.º semestre | 135 | TP:35; PL:4 | 5 |
+| Enfermagem de Reabilitação na Família e Comunidade | ENF | 1.º semestre | 81 | TP:26; PL:4 | 3 |
+| Prática Baseada na Evidência | ENF | 1.º semestre | 81 | T:13 | 3 |
+| Ética e Direito em Saúde | FET | 1.º semestre | 81 | T:13 | 3 |
+| Gestão, Inovação e Supervisão Clínica | ENF | 1.º semestre | 81 | T:13 | 3 |
+| Ensino Clínico I — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Neurológicos. | ENF | 2.º semestre | 162 | E:116 | 6 |
+| Ensino Clínico II — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Neurológicos de Causa Traumática. | ENF | 2.º semestre | 162 | E:116 | 6 |
+| Ensino Clínico III -Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Orto-traumatológicos e Vertebro-medulares. | ENF | 2.º semestre | 162 | E:116 | 6 |
+| Ensino Clínico IV — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Cardiorrespiratórios. | ENF | 2.º semestre | 162 | E:116 | 6 |
+| Ensino Clínico V — Cuidados de Enfermagem de Reabilitação na Comunidade | ENF | 2.º semestre | 162 | E:116 | 6 |
+
+Nota. — T: ensino teórico; TP: ensino teórico-prático; PL: ensino prático e laboratorial; E: estágio; S: seminário; OT: orientação tutorial.
+
+> Alterado pelo/a [Portaria n.º 374/2017](https://diariodarepublica.pt/dr/detalhe/portaria/374-2017-114365359), publicado em 2017-12-18.

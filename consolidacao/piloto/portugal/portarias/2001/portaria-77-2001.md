@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:667161:por
     title: Portaria n.º 269/2006
     publication_date: '2006-03-17'
+  - id: pt:dre:604841:por
+    title: Portaria n.º 1284/2001
+    publication_date: '2001-11-15'
 ---
 
 # Portaria n.º 77/2001
@@ -120,10 +123,34 @@ QUADRO N.º 1
 
 Área de especialização em História da Arte e Cultura
 
-[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Metodologia de Um Trabalho Científico em História da Arte | Semestral | 3 |  |  | 4 |  |
+| História da Cultura e Património Artístico | Semestral | 3 |  |  | 4 |  |
+| História das Artes Decorativas | Semestral | 3 |  |  | 4 |  |
+| Análise das Linguagens Artísticas | Semestral | 1,5 |  |  | 2 | (a) |
+| Arte Religiosa | Semestral | 1,5 |  |  | 2 | (a) |
+| História da Crítica de Arte | Semestral | 1,5 |  |  | 2 | (a) |
+| Iconologia e Heráldica | Semestral | 1,5 |  |  | 2 | (a) |
+
+(a) Unidades curriculares de opção a regulamentar pelo órgão legal e estatutariamente competente.
+
+> Alterado pelo/a [Portaria n.º 1284/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1284-2001-604841), publicado em 2001-11-15.
 
 QUADRO N.º 2
 
 Área de especialização em Teorias de Conservação e Restauros do Património Artístico
 
-[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06490651.pdf)
+| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Metodologia de Um Trabalho Científico em História da Arte | Semestral | 3 |  |  | 4 |  |
+| História da Cultura e Património Artístico | Semestral | 3 |  |  | 4 |  |
+| História das Artes Decorativas | Semestral | 3 |  |  | 4 |  |
+| História das Técnicas Artísticas | Semestral | 1,5 |  |  | 2 | (a) |
+| Problemáticas e Investigação em História da Arquitectura e do Urbanismo | Semestral | 1,5 |  |  | 2 | (a) |
+| Restauro e Conservação das Artes Plásticas | Semestral | 1,5 |  |  | 2 | (a) |
+| Restauro Monumental, Teorias e Prática | Semestral | 1,5 |  |  | 2 | (a) |
+
+(a) Unidades curriculares de opção a regulamentar pelo órgão legal e estatutariamente competente.
+
+> Alterado pelo/a [Portaria n.º 1284/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1284-2001-604841), publicado em 2001-11-15.

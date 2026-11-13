@@ -6,13 +6,26 @@
       "ate": 42,
       "texto": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
       "alterador": 2
+    },
+    {
+      "de": 57,
+      "ate": 57,
+      "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Metodologia de Um Trabalho Científico em História da Arte | Semestral | 3 |  |  | 4 |  |\n| História da Cultura e Património Artístico | Semestral | 3 |  |  | 4 |  |\n| História das Artes Decorativas | Semestral | 3 |  |  | 4 |  |\n| Análise das Linguagens Artísticas | Semestral | 1,5 |  |  | 2 | (a) |\n| Arte Religiosa | Semestral | 1,5 |  |  | 2 | (a) |\n| História da Crítica de Arte | Semestral | 1,5 |  |  | 2 | (a) |\n| Iconologia e Heráldica | Semestral | 1,5 |  |  | 2 | (a) |\n\n(a) Unidades curriculares de opção a regulamentar pelo órgão legal e estatutariamente competente.",
+      "alterador": 1
+    },
+    {
+      "de": 60,
+      "ate": 60,
+      "texto": "| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários | Unidades de crédito | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Metodologia de Um Trabalho Científico em História da Arte | Semestral | 3 |  |  | 4 |  |\n| História da Cultura e Património Artístico | Semestral | 3 |  |  | 4 |  |\n| História das Artes Decorativas | Semestral | 3 |  |  | 4 |  |\n| História das Técnicas Artísticas | Semestral | 1,5 |  |  | 2 | (a) |\n| Problemáticas e Investigação em História da Arquitectura e do Urbanismo | Semestral | 1,5 |  |  | 2 | (a) |\n| Restauro e Conservação das Artes Plásticas | Semestral | 1,5 |  |  | 2 | (a) |\n| Restauro Monumental, Teorias e Prática | Semestral | 1,5 |  |  | 2 | (a) |\n\n(a) Unidades curriculares de opção a regulamentar pelo órgão legal e estatutariamente competente.",
+      "alterador": 1
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "A Portaria n.º 1284/2001 substitui o plano de estudos do anexo (quadros n.os 1 e 2), que só vem em imagem; a alteração não é textual.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, n.º 1.º: novo plano de estudos (quadros n.os 1 e 2 do anexo) - não aplicado, quadros só em imagem.",
-    "Alterador 2, n.º 1.º: nova redação do número com a epígrafe Regulamento (9.º) - substituídos os n.os 1 a 4 (unidades 39 a 42) pelo texto único novo; epígrafe e numeração 9.º mantidas."
+    "Alterador 1 (Portaria 1284/2001), 1.º: plano de estudos (anexo) passa a ser o do anexo; títulos do anexo e dos quadros iguais, por isso substituí só as unidades 57 e 60 (imagens) pelos quadros 1 e 2 em Markdown com a nota (a) de cada um.",
+    "Alterador 1, 2.º: norma de aplicação no tempo, sem alteração textual.",
+    "Alterador 2 (Portaria 269/2006), 1.º: o ponto com a epígrafe «Regulamento» (9.º) passa a ter redação única; substituí as unidades 39 a 42 (n.os 1 a 4) pelo novo texto. A lista de portarias do anexo só vem em imagem; apliquei por esta portaria vir indicada como alteradora da 77/2001."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

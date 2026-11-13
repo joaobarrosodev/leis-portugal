@@ -12,14 +12,21 @@
       "ate": 21,
       "texto": "O número de créditos, segundo o sistema europeu de transferência e acumulação de créditos, necessário à obtenção do diploma de especialização em Enfermagem de Reabilitação é de 60.",
       "alterador": 1
+    },
+    {
+      "de": 39,
+      "ate": 42,
+      "texto": "## ANEXO — Escola Superior de Saúde do Vale do Ave do Instituto Politécnico de Saúde do Norte\n\nCurso de pós-licenciatura de especialização em Enfermagem de Reabilitação\n\nQUADRO N.º 1\n\n| Unidades curriculares | Área científica | Tipo | Tempo de trabalho (horas) — Total | Tempo de trabalho (horas) — Contacto | Créditos |\n| --- | --- | --- | --- | --- | --- |\n| Fundamentos de Enfermagem de Reabilitação | ENF | 1.º semestre | 135 | TP:38; PL:5 | 5 |\n| Enfermagem de Reabilitação em Neurologia | ENF | 1.º semestre | 135 | TP:35; PL:4 | 5 |\n| Enfermagem de Reabilitação Cardiorrespiratória | ENF | 1.º semestre | 81 | TP:26; PL:4 | 3 |\n| Enfermagem de Reabilitação em Ortopedia e Traumatologia | ENF | 1.º semestre | 135 | TP:35; PL:4 | 5 |\n| Enfermagem de Reabilitação na Família e Comunidade | ENF | 1.º semestre | 81 | TP:26; PL:4 | 3 |\n| Prática Baseada na Evidência | ENF | 1.º semestre | 81 | T:13 | 3 |\n| Ética e Direito em Saúde | FET | 1.º semestre | 81 | T:13 | 3 |\n| Gestão, Inovação e Supervisão Clínica | ENF | 1.º semestre | 81 | T:13 | 3 |\n| Ensino Clínico I — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Neurológicos. | ENF | 2.º semestre | 162 | E:116 | 6 |\n| Ensino Clínico II — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Neurológicos de Causa Traumática. | ENF | 2.º semestre | 162 | E:116 | 6 |\n| Ensino Clínico III -Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Orto-traumatológicos e Vertebro-medulares. | ENF | 2.º semestre | 162 | E:116 | 6 |\n| Ensino Clínico IV — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Cardiorrespiratórios. | ENF | 2.º semestre | 162 | E:116 | 6 |\n| Ensino Clínico V — Cuidados de Enfermagem de Reabilitação na Comunidade | ENF | 2.º semestre | 162 | E:116 | 6 |\n\nNota. — T: ensino teórico; TP: ensino teórico-prático; PL: ensino prático e laboratorial; E: estágio; S: seminário; OT: orientação tutorial.",
+      "alterador": 1
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1 (Portaria 374/2017), art. 2.º: o plano de estudos (anexo) passa a ter a redação do anexo da portaria, cujo quadro só vem em imagem (ver documento original); não aplicável com segurança.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação do 3.º (duração: dois semestres letivos) — unidade 18 substituída; epígrafe mantida ([...]).",
-    "Alterador 1, art. 1.º: nova redação do 4.º (créditos: 60) — unidade 21 substituída; epígrafe mantida ([...]).",
-    "Alterador 1, art. 2.º: substituição do plano de estudos — quadro só em imagem, não aplicada."
+    "Art. 1.º (3.º): duração passa a dois semestres letivos — substituída a unidade 18.",
+    "Art. 1.º (4.º): créditos passam a 60 — substituída a unidade 21.",
+    "Art. 2.º: plano de estudos passa a ter a redação do anexo — anexo (unidades 39-42) substituído pelo novo anexo com o Quadro n.º 1 e a nota.",
+    "Arts. 3.º e 4.º (transição, aplicação): normas próprias do alterador, nada a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

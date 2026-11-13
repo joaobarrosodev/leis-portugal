@@ -242,4 +242,43 @@ Assinada em 13 de Fevereiro de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/074b00/17031705.pdf)
+ANEXO
+
+Instituto Politécnico de Leiria
+
+Escola Superior de Educação
+
+Curso: Ensino Precoce das Línguas Estrangeiras
+
+Diploma de estudos superiores especializados
+
+QUADRO N.º 1
+
+1.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Língua Estrangeira I | Anual |  |  | 180 |  | (a) |
+| Civilização e Cultura da Língua Estrangeira | Anual | 45 |  | 45 |  | (a) |
+| Psicolinguística | Semestral | 60 |  |  |  |  |
+| Expressão para a Comunicação | Semestral |  | 45 |  |  |  |
+| Didáctica da Língua Estrangeira I | Semestral |  | 45 |  |  | (a) |
+| Investigação em Educação | Semestral |  | 60 |  |  |  |
+
+(a) Francês ou Inglês.
+
+QUADRO N.º 2
+
+2.º ano
+
+| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e estágios | Observações |
+| --- | --- | --- | --- | --- | --- | --- |
+| Língua Estrangeira II | Anual |  |  | 150 |  | (a) |
+| Projecto de Intervenção | Anual |  |  | 90 |  |  |
+| Seminário | Anual |  |  |  | 120 |  |
+| Didáctica da Língua Estrangeira II | Semestral |  | 45 |  |  | (a) |
+| Laboratório de Construção de Materiais | Semestral |  | 75 |  |  |  |
+
+(a) Francês ou Inglês.
+
+> Alterado pelo/a [Portaria n.º 1174/97](https://diariodarepublica.pt/dr/detalhe/portaria/1174-1997-685045), publicado em 1997-11-17.

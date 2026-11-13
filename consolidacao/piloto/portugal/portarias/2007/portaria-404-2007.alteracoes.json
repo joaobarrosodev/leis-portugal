@@ -26,5 +26,19 @@
     "unidade": [],
     "diploma": "pt:dre:519993:por",
     "alterador": "pt:dre:114365359:por"
+  },
+  {
+    "artigo": "unidades 39-42",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Instituto Politécnico de Saúde do Norte\n\nEscola Superior de Saúde do Vale do Ave\n\nCurso de pós-licenciatura de especialização em Enfermagem de Reabilitação\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07000/22852286.pdf)",
+    "depois": "## ANEXO — Escola Superior de Saúde do Vale do Ave do Instituto Politécnico de Saúde do Norte\n\nCurso de pós-licenciatura de especialização em Enfermagem de Reabilitação\n\nQUADRO N.º 1\n\n| Unidades curriculares | Área científica | Tipo | Tempo de trabalho (horas) — Total | Tempo de trabalho (horas) — Contacto | Créditos |\n| --- | --- | --- | --- | --- | --- |\n| Fundamentos de Enfermagem de Reabilitação | ENF | 1.º semestre | 135 | TP:38; PL:5 | 5 |\n| Enfermagem de Reabilitação em Neurologia | ENF | 1.º semestre | 135 | TP:35; PL:4 | 5 |\n| Enfermagem de Reabilitação Cardiorrespiratória | ENF | 1.º semestre | 81 | TP:26; PL:4 | 3 |\n| Enfermagem de Reabilitação em Ortopedia e Traumatologia | ENF | 1.º semestre | 135 | TP:35; PL:4 | 5 |\n| Enfermagem de Reabilitação na Família e Comunidade | ENF | 1.º semestre | 81 | TP:26; PL:4 | 3 |\n| Prática Baseada na Evidência | ENF | 1.º semestre | 81 | T:13 | 3 |\n| Ética e Direito em Saúde | FET | 1.º semestre | 81 | T:13 | 3 |\n| Gestão, Inovação e Supervisão Clínica | ENF | 1.º semestre | 81 | T:13 | 3 |\n| Ensino Clínico I — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Neurológicos. | ENF | 2.º semestre | 162 | E:116 | 6 |\n| Ensino Clínico II — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Neurológicos de Causa Traumática. | ENF | 2.º semestre | 162 | E:116 | 6 |\n| Ensino Clínico III -Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Orto-traumatológicos e Vertebro-medulares. | ENF | 2.º semestre | 162 | E:116 | 6 |\n| Ensino Clínico IV — Cuidados de Enfermagem de Reabilitação a Pessoas com Problemas Cardiorrespiratórios. | ENF | 2.º semestre | 162 | E:116 | 6 |\n| Ensino Clínico V — Cuidados de Enfermagem de Reabilitação na Comunidade | ENF | 2.º semestre | 162 | E:116 | 6 |\n\nNota. — T: ensino teórico; TP: ensino teórico-prático; PL: ensino prático e laboratorial; E: estágio; S: seminário; OT: orientação tutorial.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:519993:por",
+    "alterador": "pt:dre:114365359:por"
   }
 ]

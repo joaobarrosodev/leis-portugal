@@ -1,0 +1,77 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:209670:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-02-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c28e019f151b9f6e",
+    "7f0ad7f545b52291"
+   ]
+  },
+  {
+   "date": "2003-01-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:173167:por",
+     "title": "Portaria n.º 96/2003",
+     "published": "2003-01-23",
+     "dre_path": "/dr/detalhe/portaria/96-2003-173167"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 10",
+    "Altera Artigo unidades 20-23"
+   ],
+   "fragments": [
+    "ce8c18cf83cb4a5d",
+    "cd71145f32f39804"
+   ]
+  }
+ ],
+ "fragments": {
+  "c28e019f151b9f6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Fevereiro\n\nA requerimento da COFAC - Cooperativa de Formação e Animação Cultural, C. R. L., entidade instituidora do Instituto Superior de Matemática e Gestão - ISMAG, reconhecido oficialmente, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo ([Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto), pela [Portaria n.º 808/89](https://diariodarepublica.pt/dr/detalhe/portaria/808-1989-547459), de 12 de Setembro;\n\nConsiderando o disposto na [Portaria n.º 1124/91](https://diariodarepublica.pt/dr/detalhe/portaria/1124-1991-343937), de 29 de Outubro;\n\nTendo em vista o disposto no artigo 67.º e no n.º 5 do artigo 53.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAlteração do plano de estudos\n\nO plano de estudos do curso de licenciatura em Urbanismo ministrado pelo Instituto Superior de Matemática e Gestão - ISMAG, cujo funcionamento foi autorizado pela [Portaria n.º 1124/91](https://diariodarepublica.pt/dr/detalhe/portaria/1124-1991-343937), de 29 de Outubro, passa a ser o constante do anexo à presente portaria.\n\n2.º\n\nAplicação\n\nO disposto na presente portaria aplica-se a partir do ano lectivo de 1997-1998, inclusive.\n\n3.º\n\nTransição\n\nA transição entre o anterior e o novo plano de estudos processa-se nos termos fixados pelos órgãos estatutariamente competentes do Instituto.\n\nMinistério da Educação.\n\nAssinada em 2 de Fevereiro de 1998.\n\nPelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior."
+  },
+  "7f0ad7f545b52291": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Superior de Matemática e Gestão - ISMAG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Instituto Superior de Matemática e Gestão - ISMAG\n\nCurso: Urbanismo\n\nGrau: licenciado\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/02/041b00/06580659.pdf)"
+  },
+  "ce8c18cf83cb4a5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2003-01-28",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 96/2003](https://diariodarepublica.pt/dr/detalhe/portaria/96-2003-173167), publicado em 2003-01-23."
+   ],
+   "markdown": "de 18 de Fevereiro\n\nA requerimento da COFAC - Cooperativa de Formação e Animação Cultural, C. R. L., entidade instituidora do Instituto Superior de Matemática e Gestão - ISMAG, reconhecido oficialmente, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo ([Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto), pela [Portaria n.º 808/89](https://diariodarepublica.pt/dr/detalhe/portaria/808-1989-547459), de 12 de Setembro;\n\nConsiderando o disposto na [Portaria n.º 1124/91](https://diariodarepublica.pt/dr/detalhe/portaria/1124-1991-343937), de 29 de Outubro;\n\nTendo em vista o disposto no artigo 67.º e no n.º 5 do artigo 53.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAlteração do plano de estudos\n\nO plano de estudos do curso de licenciatura em Urbanismo ministrado pelo Instituto Superior de Matemática e Gestão - ISMAG, cujo funcionamento foi autorizado pela [Portaria n.º 1124/91](https://diariodarepublica.pt/dr/detalhe/portaria/1124-1991-343937), de 29 de Outubro, passa a ser o constante do anexo à presente portaria.\n\n1.º-A\n\nDuração\n\n1 - O curso tem a duração de cinco anos.\n\n2 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n3 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n1.º-B\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente no curso não pode exceder 50.\n\n2 - A frequência global do curso não pode exceder 250 alunos.\n\n> Aditado pelo/a [Portaria n.º 96/2003](https://diariodarepublica.pt/dr/detalhe/portaria/96-2003-173167), publicado em 2003-01-23.\n\n2.º\n\nAplicação\n\nO disposto na presente portaria aplica-se a partir do ano lectivo de 1997-1998, inclusive.\n\n3.º\n\nTransição\n\nA transição entre o anterior e o novo plano de estudos processa-se nos termos fixados pelos órgãos estatutariamente competentes do Instituto.\n\nMinistério da Educação.\n\nAssinada em 2 de Fevereiro de 1998.\n\nPelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior."
+  },
+  "cd71145f32f39804": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": "2003-01-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 96/2003](https://diariodarepublica.pt/dr/detalhe/portaria/96-2003-173167), publicado em 2003-01-23."
+   ],
+   "markdown": "## ANEXO\n\nUniversidade Lusófona de Humanidades e Tecnologias\n\nCurso de Urbanismo\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| História e Teoria do Urbanismo | Anual | 4 |  |  |  |  |\n| Geografia Urbana | Anual | 2 |  |  |  |  |\n| Geografia Física e Urbanismo | Anual | 2 |  |  |  |  |\n| Topografia e Cartografia | Anual |  | 2 |  |  |  |\n| Matemática | Anual |  | 2 |  |  |  |\n| Informática I (CAD) | Anual |  | 3 |  |  |  |\n| Técnicas de Desenho | Anual |  |  | 3 |  |  |\n| Projecto Urbanístico I | Anual |  |  | 4 |  |  |\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Sociologia Urbana | Anual | 2 |  |  |  |  |\n| Ecologia Urbana | Anual | 2 |  |  |  |  |\n| Economia Urbana | Anual |  | 2 |  |  |  |\n| Teoria do Planeamento | Anual | 3 |  |  |  |  |\n| Infraestruturas | Anual |  | 4 |  |  |  |\n| Introdução ao Pensamento Contemporâneo | Anual | 2 |  |  |  |  |\n| Informática II (CAD) | Anual |  | 3 |  |  |  |\n| Projecto Urbanístico II | Anual |  |  | 4 |  |  |\n\nQUADRO N.º 3\n\n3.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Análise Sociodemográfica | Anual | 2 |  |  |  |  |\n| Direito para Urbanismo | Anual | 3 |  |  |  |  |\n| Planeamento de Transportes | Anual |  | 4 |  |  |  |\n| Elementos de Arquitectura | Anual |  | 3 |  |  |  |\n| Informática III (CAD) | Anual |  | 3 |  |  |  |\n| Planeamento Urbanístico e Ordenamento do Território | Anual | 3 |  |  |  |  |\n| Arquitectura Paisagística | Anual |  | 2 |  |  |  |\n| Projecto Urbanístico III | Anual |  |  | 4 |  |  |\n\nQUADRO N.º 4\n\n4.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Urbanismo e Património | Anual | 3 |  |  |  |  |\n| Urbanismo e Autarquias | Anual | 2 |  |  |  |  |\n| Reabilitação Urbana | Anual |  | 3 |  |  |  |\n| Gestão Urbanística | Anual | 2 |  |  |  |  |\n| Desenvolvimento Urbano em Meio Rural | Anual |  | 3 |  |  |  |\n| Estudos Urbanos Aprofundados | Anual | 2 |  |  |  |  |\n| Sistemas de Informação Geográfica | Anual |  | 3 |  |  |  |\n| Projecto Urbanístico IV | Anual |  |  | 4 |  |  |\n| Deontologia e Prática Profissional | Semestral | 2 |  |  |  |  |\n\nQUADRO N.º 5\n\n5.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Trabalho final de curso | Anual |  | 10 |  |  |  |\n\n> Alterado pelo/a [Portaria n.º 96/2003](https://diariodarepublica.pt/dr/detalhe/portaria/96-2003-173167), publicado em 2003-01-23."
+  }
+ }
+}

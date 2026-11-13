@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:173287:por",
     "alterador": "pt:dre:685045:por"
+  },
+  {
+    "artigo": "unidades 110-110",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/074b00/17031705.pdf)",
+    "depois": "ANEXO\n\nInstituto Politécnico de Leiria\n\nEscola Superior de Educação\n\nCurso: Ensino Precoce das Línguas Estrangeiras\n\nDiploma de estudos superiores especializados\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua Estrangeira I | Anual |  |  | 180 |  | (a) |\n| Civilização e Cultura da Língua Estrangeira | Anual | 45 |  | 45 |  | (a) |\n| Psicolinguística | Semestral | 60 |  |  |  |  |\n| Expressão para a Comunicação | Semestral |  | 45 |  |  |  |\n| Didáctica da Língua Estrangeira I | Semestral |  | 45 |  |  | (a) |\n| Investigação em Educação | Semestral |  | 60 |  |  |  |\n\n(a) Francês ou Inglês.\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas totais) — Aulas teóricas | Escolaridade (em horas totais) — Aulas teórico-práticas | Escolaridade (em horas totais) — Aulas práticas | Escolaridade (em horas totais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Língua Estrangeira II | Anual |  |  | 150 |  | (a) |\n| Projecto de Intervenção | Anual |  |  | 90 |  |  |\n| Seminário | Anual |  |  |  | 120 |  |\n| Didáctica da Língua Estrangeira II | Semestral |  | 45 |  |  | (a) |\n| Laboratório de Construção de Materiais | Semestral |  | 75 |  |  |  |\n\n(a) Francês ou Inglês.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:173287:por",
+    "alterador": "pt:dre:685045:por"
   }
 ]

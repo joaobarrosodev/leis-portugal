@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.716 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.721 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -131,6 +131,27 @@ Para os parciais, o passo seguinte seria ler também os traços do quadro, que o
 - **Correção no `llm_corrido.py juntar`.** Um consolidado cuja última troca cai no fim do texto acaba agora em "\n", como no `llm_gigantes.py`. Sem isso, a nota "> Alterado pelo/a …" entrava no texto verificado. Só se aplica a consolidados que mudam: os já verificados ficam como estavam.
 
 Para fazer os outros: uma especificação por alterador (páginas, faixas de y e fronteiras das colunas, tiradas do `pdf_colunas.py`), a conferência contra a imagem e o fluxo normal. Os 10 resolvidos da amostra são os candidatos seguintes.
+
+**Ronda 107: os outros 10 da amostra (13/11/2026).** Resultado: **5 aplicados**, as Portarias 239/95, 1324/95, 70/98, 1032/2004 e 404/2007.
+- **Transcrição.** Um subagente Opus por diploma escreveu a especificação e correu o `anexos.py`, e um verificador Sonnet que não a fez conferiu cada transcrição com a imagem. Foram 11 alteradores, 26 imagens e cerca de 1.600 células, todas `certo` (o resultado fica em "conferido" em cada `anexos/<id>.json`). O `anexos.py` passou a ter:
+  - blocos de texto entre quadros;
+  - quadros com os valores na última linha da designação;
+  - corte de uma coluna da página pelo x, porque no DR há outros diplomas ao lado;
+  - "N.o" lido como "N.º";
+  - pontos de guia colados à palavra ("virgem*." seguido de ". . .") retirados, mantendo o ponto final verdadeiro.
+- **Ficaram de fora 2 transcrições:**
+  - **Portaria 919/2003:** os anexos das Portarias 559/2004, 230/2005 e 1358/2006 têm "€" lido como "E", palavras coladas sem espaço ("acçõesAeCsãoelegíveis"), células com chavetas e linhas sem valores. Só sairiam com correções à mão.
+  - **Portaria 269/2006:** a lista das portarias a que se aplica tem continuações noutra coluna e chavetas.
+- **Consolidação:** 9 pedidos novos (Opus), todos aceites pela verificação letra a letra. A DN 11/2006 não mudou: o pedido completo não tem onde pôr o corpo de um anexo sem artigos, e a resposta deixou-o em "nao_aplicavel".
+- **Às cegas** (`verificacao/entrada-piloto-107-lote-01.jsonl`, 5 vistas Sonnet), os 5 aplicados ficaram com tudo `certo`. Os outros 3 têm reparos:
+  - **Portaria 77/2001:** dúvida na nova redação do «Regulamento» (Portaria 269/2006). A lista a que ela se aplica está em imagem, e a transcrição dela ficou de fora.
+  - **Portaria 1191/2000:** a mesma instrução, que o respondedor não aplicou, em falta.
+  - **Portaria 353-E/2009:** a resposta pôs o anexo numa chave "ANEXO", e a assinatura de 2009 passou para o fim do anexo (dúvida no art. 2.º).
+
+Na amostra de 30, o caminho dá assim 6 diplomas aplicados (a 690/97 e estes 5), de 11 com o quadro recuperável. Os que falham são por:
+- o pedido completo não tratar o corpo de um anexo;
+- uma instrução que depende de uma lista que fica em imagem;
+- PDFs com caracteres mal codificados.
 
 ### Triagem: alterações que as regras não leem (12/11/2026)
 

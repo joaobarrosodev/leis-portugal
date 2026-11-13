@@ -1,6 +1,13 @@
 {
   "id": "pt:dre:209670:por",
-  "substituicoes": [],
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 23,
+      "texto": "## ANEXO\n\nUniversidade Lusófona de Humanidades e Tecnologias\n\nCurso de Urbanismo\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| História e Teoria do Urbanismo | Anual | 4 |  |  |  |  |\n| Geografia Urbana | Anual | 2 |  |  |  |  |\n| Geografia Física e Urbanismo | Anual | 2 |  |  |  |  |\n| Topografia e Cartografia | Anual |  | 2 |  |  |  |\n| Matemática | Anual |  | 2 |  |  |  |\n| Informática I (CAD) | Anual |  | 3 |  |  |  |\n| Técnicas de Desenho | Anual |  |  | 3 |  |  |\n| Projecto Urbanístico I | Anual |  |  | 4 |  |  |\n\nQUADRO N.º 2\n\n2.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Sociologia Urbana | Anual | 2 |  |  |  |  |\n| Ecologia Urbana | Anual | 2 |  |  |  |  |\n| Economia Urbana | Anual |  | 2 |  |  |  |\n| Teoria do Planeamento | Anual | 3 |  |  |  |  |\n| Infraestruturas | Anual |  | 4 |  |  |  |\n| Introdução ao Pensamento Contemporâneo | Anual | 2 |  |  |  |  |\n| Informática II (CAD) | Anual |  | 3 |  |  |  |\n| Projecto Urbanístico II | Anual |  |  | 4 |  |  |\n\nQUADRO N.º 3\n\n3.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Análise Sociodemográfica | Anual | 2 |  |  |  |  |\n| Direito para Urbanismo | Anual | 3 |  |  |  |  |\n| Planeamento de Transportes | Anual |  | 4 |  |  |  |\n| Elementos de Arquitectura | Anual |  | 3 |  |  |  |\n| Informática III (CAD) | Anual |  | 3 |  |  |  |\n| Planeamento Urbanístico e Ordenamento do Território | Anual | 3 |  |  |  |  |\n| Arquitectura Paisagística | Anual |  | 2 |  |  |  |\n| Projecto Urbanístico III | Anual |  |  | 4 |  |  |\n\nQUADRO N.º 4\n\n4.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Urbanismo e Património | Anual | 3 |  |  |  |  |\n| Urbanismo e Autarquias | Anual | 2 |  |  |  |  |\n| Reabilitação Urbana | Anual |  | 3 |  |  |  |\n| Gestão Urbanística | Anual | 2 |  |  |  |  |\n| Desenvolvimento Urbano em Meio Rural | Anual |  | 3 |  |  |  |\n| Estudos Urbanos Aprofundados | Anual | 2 |  |  |  |  |\n| Sistemas de Informação Geográfica | Anual |  | 3 |  |  |  |\n| Projecto Urbanístico IV | Anual |  |  | 4 |  |  |\n| Deontologia e Prática Profissional | Semestral | 2 |  |  |  |  |\n\nQUADRO N.º 5\n\n5.º ano\n\n| Unidades curriculares | Tipo | Escolaridade (em horas semanais) — Aulas teóricas | Escolaridade (em horas semanais) — Aulas teórico-práticas | Escolaridade (em horas semanais) — Aulas práticas | Escolaridade (em horas semanais) — Seminários e estágios | Observações |\n| --- | --- | --- | --- | --- | --- | --- |\n| Trabalho final de curso | Anual |  | 10 |  |  |  |",
+      "alterador": 1
+    }
+  ],
   "insercoes": [
     {
       "depois_de": 10,
@@ -8,11 +15,11 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, 1.º: a nova redação do anexo (plano de estudos) vem só em quadros em imagem; não aplicada.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do anexo; quadros só em imagem, não aplicada.",
-    "Alterador 1, 2.º: aditados os n.os 1.º-A e 1.º-B; inseridos depois da unidade 10 (fim do 1.º).",
-    "Alterador 1, 3.º e 4.º: regras de transição e aplicação da própria portaria alteradora; não alteram o original."
+    "1.º: o anexo passa a ter a redação do anexo da Portaria 96/2003 — unidades 20-23 substituídas pelo novo anexo (quadros 1 a 5), sem a nota editorial no título.",
+    "2.º: aditados os n.os 1.º-A (Duração) e 1.º-B (Número máximo de alunos) — inseridos depois da unidade 10.",
+    "3.º e 4.º (transição e aplicação) são normas próprias da Portaria 96/2003, não alteram o texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
