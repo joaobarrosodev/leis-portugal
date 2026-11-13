@@ -25,7 +25,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/05600/03220322.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 188/74: revogação total pela norma revogatória do diploma Portaria n.º 700/74 (9.º / 10.º), lida no
+    texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:471311:por'
+    detail: 9.º Ficam revogadas as Portarias n.os 252/72, 604/72 e 188/74, respectivamente de 5 de Maio, 11 de Outubro e 7
+      de Março.
 notes: []
 language: por
 version:
@@ -79,6 +89,11 @@ relationships:
   target: pt:dre:691827:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:471311:por
+  label: 'Portaria n.º 188/74: revogação total pela norma revogatória do diploma Portaria n.º 700/74 (9.º / 10.º), lida no
+    texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

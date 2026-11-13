@@ -36,7 +36,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 540/89: revogação total pela norma revogatória do diploma Portaria n.º 956/90 (n.º 9.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:555643:por'
+    detail: 9.º É revogada a Portaria n.º 540/89, de 13 de Julho.
 notes: []
 language: por
 version:
@@ -92,6 +101,12 @@ relationships:
   target: pt:dre:455890:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:555643:por
+  label: 'Portaria n.º 540/89: revogação total pela norma revogatória do diploma Portaria n.º 956/90 (n.º 9.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1990-10-14'
 article_structure:
   article_count: 0
   section_count: 0

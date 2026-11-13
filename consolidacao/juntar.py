@@ -42,6 +42,7 @@ from alteracoes import ler
 from aplicar import Falha, Fonte, Registo, _bloco, _inserir, _reescrever, aplicar
 from consolidar import PILOTO, _markdown, processar
 from texto import RAIZ, Artigo, com_titulos, dividir, front_matter, publicado
+from texto import alterador as texto_do_alterador
 from verificar import _REVOGADO
 
 
@@ -99,7 +100,7 @@ def juntar(resposta: dict, registo: dict, estado: dict) -> dict:
     tocados: set[str] = set()
     if estado["estado"] == "para LLM" and estado.get("aplicadas"):
         # As instruções que as regras aplicaram; as que falharam foram para o LLM.
-        leitura = ler(publicado(RAIZ / alterador["path"]), registo["title"], original)
+        leitura = ler(texto_do_alterador(RAIZ / alterador["path"]), registo["title"], original)
         resultado = aplicar(consolidado, leitura.instrucoes, fonte)
         registos, tocados = resultado.registos, resultado.tocados
 

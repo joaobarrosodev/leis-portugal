@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 160/2007: revogação total pela norma revogatória do diploma Decreto-Lei n.º 208/2012 (Art. 26.º,
+    al. d) (entrada em vigor: art. 27.º, 1.º dia do mês seguinte ao da publicação)), lida no texto e verificada na amostra
+    de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:174867:por'
+    detail: d) O Decreto-Lei n.º 160/2007, de 27 de abril.
 notes: []
 language: por
 version:
@@ -189,6 +199,13 @@ relationships:
   target: pt:dre:655312:por
   label: null
   source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+- type: repealed_by
+  target: pt:dre:174867:por
+  label: 'Decreto-Lei n.º 160/2007: revogação total pela norma revogatória do diploma Decreto-Lei n.º 208/2012 (Art. 26.º,
+    al. d) (entrada em vigor: art. 27.º, 1.º dia do mês seguinte ao da publicação)), lida no texto e verificada na amostra
+    de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2012-10-01'
 article_structure:
   article_count: 39
   section_count: 9

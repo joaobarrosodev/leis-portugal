@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto-Lei n.º 450/88: revogação total pela norma revogatória do diploma Decreto-Lei n.º 562/99 (Artigo 6.º, n.º
+    1), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em
+    vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:661766:por'
+    detail: 1 - São revogados o Decreto-Lei n.º 112/88, de 2 de Abril, e o Decreto-Lei n.º 450/88, de 12 de Dezembro.
 notes: []
 language: por
 version:
@@ -108,6 +118,13 @@ relationships:
   label: "Revogado pelo DEC LEI.562/99.1999.12.21.MF DR.IS-A [295]\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/562-1999-661766
   date: '1999-12-21'
+- type: repealed_by
+  target: pt:dre:661766:por
+  label: 'Decreto-Lei n.º 450/88: revogação total pela norma revogatória do diploma Decreto-Lei n.º 562/99 (Artigo 6.º, n.º
+    1), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em
+    vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1999-12-22'
 article_structure:
   article_count: 0
   section_count: 0

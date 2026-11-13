@@ -317,13 +317,47 @@ def _entrada(caminho: Path, url_base: str, **extra) -> dict:
     return {"nome": caminho.name, "url": url_base + caminho.name, "bytes": caminho.stat().st_size, "sha256": _sha256(caminho), **extra}
 
 
-def publicar(indice: Path, pasta: Path, versao: str, *, url_base: str = URL_BASE, completo: bool = False, limite: float = LIMITE_DELTA) -> tuple[dict, list[Path]]:
+def _manifesto_publicado(pasta: Path, remoto: bool) -> dict | None:
+    """O manifesto da última publicação: o do alojamento (manda) ou, sem rede, o guardado em `pasta`."""
+    if remoto:
+        try:
+            return ler_manifesto()
+        except RuntimeError:  # 404: ainda nada publicado
+            return None
+        except Exception as e:
+            print(f"Sem acesso ao manifesto publicado ({e}); uso o guardado em {pasta}.")
+    local = pasta / "versao.json"
+    return json.loads(local.read_text(encoding="utf-8")) if local.exists() else None
+
+
+def _base(pasta: Path, anterior: dict) -> Path:
+    """O índice tal como foi publicado (a base do próximo delta).
+
+    Usa `pasta/publicado.sqlite` se for dessa versão; senão reconstrói-o a partir do alojamento
+    (completa + deltas), como faz a aplicação. Assim publica-se de qualquer pasta ou computador."""
+    publicado = pasta / "publicado.sqlite"
+    if publicado.exists():
+        with sqlite3.connect(f"file:{publicado}?mode=ro", uri=True) as con:
+            if dict(con.execute("SELECT chave, valor FROM meta")).get("versao") == anterior["versao"]:
+                return publicado
+    print(f"A reconstruir a base (versão {anterior['versao']}) a partir do alojamento…")
+    reconstrucao = pasta / "reconstrucao"
+    shutil.rmtree(reconstrucao, ignore_errors=True)
+    descarregar(reconstrucao, manifesto=anterior)
+    os.replace(reconstrucao / "indice.sqlite", publicado)
+    shutil.rmtree(reconstrucao, ignore_errors=True)
+    return publicado
+
+
+def publicar(
+    indice: Path, pasta: Path, versao: str, *, url_base: str = URL_BASE, completo: bool = False, limite: float = LIMITE_DELTA, remoto: bool = True
+) -> tuple[dict, list[Path]]:
     """Prepara em `pasta` a versão `versao`: um delta desde a última publicada ou uma completa nova.
 
-    Devolve o manifesto novo e os ficheiros a enviar (o `versao.json` em último). `pasta/publicado.sqlite`
-    guarda o índice da última publicação, que é a base do próximo delta."""
+    Devolve o manifesto novo e os ficheiros a enviar (o `versao.json` em último). A última publicação
+    vem do alojamento (`remoto`); a base do delta é `pasta/publicado.sqlite` ou reconstrói-se (`_base`)."""
     pasta.mkdir(parents=True, exist_ok=True)
-    anterior = json.loads((pasta / "versao.json").read_text(encoding="utf-8")) if (pasta / "versao.json").exists() else None
+    anterior = _manifesto_publicado(pasta, remoto)
     publicado = pasta / "publicado.sqlite"
     if anterior and versao <= anterior["versao"]:
         raise RuntimeError(f"A versão {versao} não é posterior à publicada ({anterior['versao']}).")
@@ -331,7 +365,8 @@ def publicar(indice: Path, pasta: Path, versao: str, *, url_base: str = URL_BASE
     _copia_publica(indice, novo, versao)
     enviar: list[Path] = []
     manifesto = None
-    if anterior and publicado.exists() and not completo:
+    if anterior and not completo:
+        publicado = _base(pasta, anterior)
         caminho_delta = pasta / f"delta-{anterior['versao']}-{versao}.sqlite"
         contagem = gerar_delta(publicado, novo, caminho_delta, anterior["versao"], versao)
         comprimido = caminho_delta.with_name(caminho_delta.name + ".gz")

@@ -24,7 +24,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/04/09100/07750775.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 179/80: revogação total pela norma revogatória do diploma Decreto-Lei n.º 219/83 (Art. 19.º), lida
+    no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:451826:por'
+    detail: São revogados os artigos 8.º, 18.º a 24.º e 30.º do Decreto com força de lei n.º 19478, de 18 de Março de 1931,
+      o artigo 13.º do Decreto-Lei n.º 46369, de 2 de Julho de 1965, a Portaria n.º 179/80, de 18 de Abril, os artigos 3.º,
+      n.º 1, alínea d), e 9.º do Decreto-Lei n.º 446/80, de 6 de Outub
 notes: []
 language: por
 version:
@@ -91,6 +102,12 @@ relationships:
   label: "Revogada pelo DEC LEI.219/83.1983.05.26.MFP, DR.IS [121]\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1983-451826
   date: '1983-05-26'
+- type: repealed_by
+  target: pt:dre:451826:por
+  label: 'Portaria n.º 179/80: revogação total pela norma revogatória do diploma Decreto-Lei n.º 219/83 (Art. 19.º), lida
+    no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1983-08-24'
 article_structure:
   article_count: 0
   section_count: 0

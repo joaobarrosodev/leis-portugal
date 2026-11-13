@@ -24,7 +24,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/10/23800/24902492.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Despacho Normativo n.º 199/77: revogação total pela norma revogatória do diploma Despacho Normativo n.º 325/81
+    (n.º 7), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como
+    em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:568892:por'
+    detail: 7 - Ficam revogados o Despacho Normativo n.º 199/77, de 14 de Outubro, e o Despacho Normativo n.º 91/80, de 15
+      de Março.
 notes: []
 language: por
 version:
@@ -97,6 +108,12 @@ relationships:
   target: pt:dre:159907:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:568892:por
+  label: 'Despacho Normativo n.º 199/77: revogação total pela norma revogatória do diploma Despacho Normativo n.º 325/81 (n.º
+    7), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em
+    vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

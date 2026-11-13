@@ -25,9 +25,9 @@ publication:
 entry_into_force_dates: []
 entry_into_force:
   date: null
-  rule: 10 dias úteis após a sua publicação
+  rule: no dia útil seguinte ao da sua publicação no Diário da República
   method: clausula
-  article: art-72
+  article: art-68
   effects_date: null
   effects_rule: null
   end_date: null

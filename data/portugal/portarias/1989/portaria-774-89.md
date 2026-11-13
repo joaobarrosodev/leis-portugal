@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 774/89: revogação total pela norma revogatória do diploma Portaria n.º 680/93 (n.º 8.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:392231:por'
+    detail: São revogadas as Portarias n.os 443/88, de 7 de Julho, 774/89, de 6 de Setembro, 851/90, de 18 de Setembro, e
+      151/91, de 20 de Fevereiro.
 notes: []
 language: por
 version:
@@ -84,6 +94,12 @@ relationships:
   target: pt:dre:498083:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:392231:por
+  label: 'Portaria n.º 774/89: revogação total pela norma revogatória do diploma Portaria n.º 680/93 (n.º 8.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1993-07-25'
 article_structure:
   article_count: 0
   section_count: 0

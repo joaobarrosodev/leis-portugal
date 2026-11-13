@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Resolução do Conselho de Ministros n.º 52/96: revogação total pela norma revogatória do diploma Resolução do Conselho
+    de Ministros n.º 191/96 (n.º 5), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:186763:por'
+    detail: 5 - É revogada a Resolução do Conselho de Ministros n.º 52/96, de 5 de Junho.
 notes: []
 language: por
 version:
@@ -97,6 +107,13 @@ relationships:
   target: pt:dre:555832:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:186763:por
+  label: 'Resolução do Conselho de Ministros n.º 52/96: revogação total pela norma revogatória do diploma Resolução do Conselho
+    de Ministros n.º 191/96 (n.º 5), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1996-12-14'
 article_structure:
   article_count: 0
   section_count: 0

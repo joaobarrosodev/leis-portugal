@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2000/06/131000000/0969509698.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:74257002:por'
+    detail: Revogado pelo(a) Aviso n.º 5384/2016 - Diário da República n.º 80/2016, Série II de 2016-04-26
 notes: []
 language: por
 version:

@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto Regulamentar n.º 60/79: revogação total pela norma revogatória do diploma Decreto Regulamentar n.º 63/86
+    (Artigo 24.º, n.º 2), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o
+    DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:220759:por'
+    detail: 2 - Fica revogado o Decreto Regulamentar n.º 60/79, de 16 de Outubro.
 notes: []
 language: por
 version:
@@ -91,6 +101,13 @@ relationships:
   target: pt:dre:252872:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:220759:por
+  label: 'Decreto Regulamentar n.º 60/79: revogação total pela norma revogatória do diploma Decreto Regulamentar n.º 63/86
+    (Artigo 24.º, n.º 2), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o
+    DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1986-11-17'
 article_structure:
   article_count: 0
   section_count: 0

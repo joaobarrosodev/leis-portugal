@@ -27,7 +27,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/11/27600/18231823.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 645/71: revogação total pela norma revogatória do diploma Portaria n.º 264/75 (n.º 2.º (n.º 3.º: entra
+    imediatamente em vigor)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:158397:por'
+    detail: 2.º É revogada a Portaria n.º 645/71, de 24 de Novembro.
 notes: []
 language: por
 version:
@@ -73,6 +83,12 @@ relationships:
   target: pt:dre:156660:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:158397:por
+  label: 'Portaria n.º 645/71: revogação total pela norma revogatória do diploma Portaria n.º 264/75 (n.º 2.º (n.º 3.º: entra
+    imediatamente em vigor)), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

@@ -43,28 +43,28 @@ legal_status_basis:
     provenance: 'norma revogatória: pt:dre:1161149392:por#art-6'
     detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
   - status: repealed
-    provenance: 'norma revogatória: pt:dre:1161149393:por#art-6'
-    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:1161149394:por#art-6'
-    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:1161801435:por#art-6'
-    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
-  - status: repealed
-    provenance: 'norma revogatória: pt:dre:1161801436:por#art-6'
-    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
-  - status: repealed
     provenance: 'norma revogatória: pt:dre:1161801437:por#art-6'
     detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
   - status: repealed
+    provenance: 'norma revogatória: pt:dre:1161149393:por#art-6'
+    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
+  - status: repealed
     provenance: 'norma revogatória: pt:dre:1161801438:por#art-6'
+    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1161149394:por#art-6'
     detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
   - status: repealed
     provenance: 'norma revogatória: pt:dre:1161801439:por#art-6'
     detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
   - status: repealed
     provenance: 'norma revogatória: pt:dre:1161801440:por#art-6'
+    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1161801435:por#art-6'
+    detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1161801436:por#art-6'
     detail: b) [Portaria n.º 58/2022], de 27 de janeiro.
   - status: repealed
     provenance: 'DRE repealed_by: pt:dre:1161149392:por'

@@ -171,7 +171,20 @@ def alojamento(tmp_path, monkeypatch):
 
 
 def _publicar(tmp_path, documentos, versao, **k):
+    k.setdefault("remoto", False)
     return dados.publicar(_construir(tmp_path / f"i-{versao}.sqlite", documentos), tmp_path / "pub", versao, url_base="https://exemplo.pt/d/", **k)
+
+
+def test_publicar_noutra_pasta_reconstroi_a_base_a_partir_do_alojamento(tmp_path, alojamento):
+    pub, pedidos = alojamento
+    _publicar(tmp_path, A, "2026-11-01")
+    (pub / "publicado.sqlite").unlink()  # outra pasta ou outro computador: sem a base local
+    manifesto, enviar = _publicar(tmp_path, B, "2026-11-08", limite=10, remoto=True)
+    assert "completo-2026-11-01.sqlite.gz" in [n for n, _ in pedidos]  # descarregou a completa para refazer a base
+    assert [d["para"] for d in manifesto["deltas"]] == ["2026-11-08"]
+    app = tmp_path / "app"
+    dados.descarregar(app)
+    assert _conteudo(app / "indice.sqlite") == _conteudo(tmp_path / "i-2026-11-08.sqlite")
 
 
 def test_primeira_publicacao_e_completa_e_sem_o_caminho_local(tmp_path, alojamento):

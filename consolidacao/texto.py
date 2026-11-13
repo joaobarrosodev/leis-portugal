@@ -19,6 +19,7 @@ from pathlib import Path
 
 import yaml
 
+
 RAIZ = Path(__file__).resolve().parents[1]
 
 _ARTIGO = re.compile(r"^#{6} Artigo (\S+)(?: — (.*))?$")
@@ -63,6 +64,38 @@ def publicado(caminho: Path) -> str:
     if meta["id"] not in _PUBLICADOS:
         raise ValueError(f"{caminho}: consolidado pelo leis-portugal sem entrada da verificação às cegas")
     return _PUBLICADOS[meta["id"]]
+
+
+ANEXOS = RAIZ / "consolidacao" / "anexos"
+# Uma ligação a uma imagem do DR como o DRE a escreve, às vezes com os parênteses repetidos:
+# "[[(ver quadro no documento original)](https://files…pdf)](https://files…pdf)".
+IMAGEM_DR = re.compile(r"\[+\(ver [^)\]]*\)(?:\]\(https://files\.diariodarepublica\.pt/[^)\s]+\))+")
+
+
+def com_anexos(texto: str, id_: str) -> str:
+    """O texto com as imagens do DR trocadas pela transcrição de `consolidacao/anexos/<id>.json`,
+    quando existe (ver `consolidacao/anexos.py`). A transcrição diz quantas imagens o texto tem e
+    a que ocorrência corresponde cada uma; se o texto não bate, é um erro e não uma troca às cegas."""
+    caminho = ANEXOS / (id_.replace(":", "_") + ".json")
+    if not caminho.exists():
+        return texto
+    dados = json.loads(caminho.read_text(encoding="utf-8"))
+    imagens = list(IMAGEM_DR.finditer(texto))
+    if len(imagens) != dados["imagens_no_texto"]:
+        raise ValueError(f"{caminho.name}: o texto tem {len(imagens)} imagens e a transcrição espera {dados['imagens_no_texto']}")
+    trocas = {t["ocorrencia"]: t["texto"] for t in dados["transcricoes"]}
+    partes, fim = [], 0
+    for n, m in enumerate(imagens, 1):
+        if n in trocas:
+            partes += [texto[fim : m.start()], trocas[n]]
+            fim = m.end()
+    return "".join(partes) + texto[fim:]
+
+
+def alterador(caminho: Path) -> str:
+    """O texto de um alterador para a consolidação: o publicado, com as imagens transcritas."""
+    texto = publicado(caminho)
+    return com_anexos(texto, str(front_matter(caminho.read_text(encoding="utf-8")).get("id") or ""))
 
 
 def front_matter(markdown: str) -> dict:
@@ -256,7 +289,7 @@ def _artigo_escapado(corpo_: Corpo) -> bool:
     """Uma linha "Art. 12. …" ou "Art. 220:º …" dentro de outro artigo, com o número que falta
     entre o artigo e o seguinte: o parser não a reconheceu e o artigo ficaria colado ao anterior."""
     artigos = corpo_.artigos
-    for atual, seguinte in zip(artigos, artigos[1:] + [None]):
+    for atual, seguinte in zip(artigos, artigos[1:] + [None], strict=False):
         de = int(re.match(r"\d+", atual.numero).group()) if re.match(r"\d+", atual.numero) else None
         ate = int(re.match(r"\d+", seguinte.numero).group()) if seguinte and re.match(r"\d+", seguinte.numero) else None
         if de is None:

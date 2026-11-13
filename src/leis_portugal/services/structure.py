@@ -164,6 +164,30 @@ def _status_group(status: str) -> str:
     return {"in_force": "em_vigor", "partially_in_force": "em_vigor"}.get(status, status)
 
 
+def competent(source: dict[str, Any], target: dict[str, Any] | None) -> bool:
+    """Se o diploma `source` pode revogar `target` (sem o alvo no acervo, não se sabe: conta).
+
+    Um órgão regional não revoga atos do Estado. Quando um diploma regional "revoga" um diploma
+    nacional, a ligação do DRE aponta quase sempre para outro diploma com o mesmo número (a
+    "Portaria n.º 116/98, de 19 de Junho" da Madeira ligada à Portaria n.º 116/98 nacional), ou o
+    texto é uma proposta de lei aprovada por resolução da assembleia legislativa regional."""
+    if target is None:
+        return True
+    return source.get("jurisdiction") != "regional" or target.get("jurisdiction") == "regional"
+
+
+def plausible(source: dict[str, Any], target: dict[str, Any] | None, *, today: str) -> bool:
+    """Se uma revogação lida no texto pode ser do diploma para que a ligação aponta, e já produziu efeitos:
+    o revogador tem competência, não é anterior ao revogado (uma "revogação" num diploma mais antigo é
+    uma nota editorial) e já entrou em vigor (um decreto-lei de 2026 que só vigora em 2027 ainda não revogou)."""
+    if not competent(source, target):
+        return False
+    eif = (source.get("entry_into_force") or {}).get("date")
+    if eif and eif > today:
+        return False
+    return target is None or (source.get("publication_date") or "9999") >= (target.get("publication_date") or "")
+
+
 def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
     report = StructureReport()
     by_id = {row["id"]: row for row in rows if row.get("id")}
@@ -231,7 +255,8 @@ def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
     text_repeals: dict[str, list[Repeal]] = defaultdict(list)
     for row in rows:
         for item in row["repeals"]:
-            text_repeals[item["target"]].append(Repeal(**item))
+            if plausible(row, by_id.get(item["target"]), today=today):
+                text_repeals[item["target"]].append(Repeal(**item))
     incoming: dict[str, list[dict[str, str | None]]] = defaultdict(list)
     for row in rows:
         for relation in row["relations"]:
@@ -241,6 +266,9 @@ def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
     categories = Counter()
     proposed = Counter()
     agreement = Counter()
+    # Diplomas que o DRE dá em vigor e que uma norma revogatória de outro diploma revoga por inteiro.
+    against_dre: set[str] = set()
+    against_dre_proofs = 0
     for row in rows:
         relations = row["relations"]
         eif = row["entry_into_force"] or {}
@@ -270,6 +298,9 @@ def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
             for item in totals:
                 source = "texto" if item.provenance.startswith("norma revogatória") else "relacao"
                 agreement[(source, _status_group(row["legal_status"]))] += 1
+                if source == "texto" and row["legal_status"] == "in_force":
+                    against_dre.add(row["id"])
+                    against_dre_proofs += 1
             continue
         categories[proposal.category] += 1
         if proposal.status:
@@ -296,9 +327,27 @@ def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
         "revogacoes_lidas_no_texto": sum(len(items) for items in text_repeals.values()),
         "diplomas_revogados_no_texto": len(text_repeals),
         "precisao_nos_estados_conhecidos": precision,
+        "texto_contra_dre": {
+            "diplomas": len(against_dre),
+            "provas": against_dre_proofs,
+            "amostra_verificada": AGAINST_DRE_SAMPLE,
+        },
     }
     report.summary = {"gerado_em": today, "artigos": articles, "entrada_em_vigor": entry, "vigencia": validity}
     return report
+
+
+# Verificação às cegas (2026-11-13) das revogações totais lidas no texto de diplomas que o DRE dá
+# em vigor: amostra estratificada por tipo, seed 20261113; subagentes leram a norma inteira do
+# revogador e responderam se revoga o alvo por inteiro, de imediato e sem condição. Lista e
+# veredictos em `reports/vigencia-texto-contra-dre.jsonl`. `regra_atual`: os casos da amostra que
+# a regra de hoje ainda conta (sem os regionais contra nacionais, os revogadores ainda sem vigência
+# e os anteriores ao revogado) — medida na mesma amostra que a afinou, portanto otimista.
+AGAINST_DRE_SAMPLE = {
+    "data": "2026-11-13", "amostra": 113, "certos": 78, "errados": 33, "duvidas": 2,
+    "regra_atual": {"amostra": 99, "certos": 78, "errados": 19, "duvidas": 2},
+    "limiar": 0.98,
+}
 
 
 # ------------------------------------------------------------- validação (DRE)
@@ -706,6 +755,7 @@ def render_markdown(report: StructureReport) -> str:
             for key, value in v["precisao_nos_estados_conhecidos"].items()
         ],
         "",
+        *_against_dre_lines(v),
         "As propostas, com as provas e a proveniência de cada uma, estão em `vigencia-proposta.jsonl`.",
         "",
         "### Como se resolve, sem inferir sem prova",
@@ -754,6 +804,25 @@ def render_markdown(report: StructureReport) -> str:
                     f"primeira diferença: {json.dumps(item['primeira_diferenca'], ensure_ascii=False)}"
                 )
     return "\n".join(lines) + "\n"
+
+
+def _against_dre_lines(v: dict[str, Any]) -> list[str]:
+    against = v.get("texto_contra_dre")
+    if not against:
+        return []
+    sample, current = against["amostra_verificada"], against["amostra_verificada"]["regra_atual"]
+    return [
+        f"**Texto contra o DRE.** {_n(against['diplomas'])} diplomas que o DRE dá em vigor têm uma revogação total lida na norma "
+        f"revogatória de outro diploma do acervo ({_n(against['provas'])} provas). Numa amostra verificada às cegas "
+        f"({sample['data']}, {sample['amostra']} casos estratificados por tipo, lida a norma inteira do revogador), "
+        f"{sample['certos']} eram revogações totais, imediatas e incondicionais ({_pct(sample['certos'], sample['amostra'])}); "
+        f"com a regra de hoje, {current['certos']} de {current['amostra']} ({_pct(current['certos'], current['amostra'])}, medido na "
+        "mesma amostra). Os erros: ligação do DRE para outro diploma com o mesmo número (sobretudo diplomas regionais ligados a "
+        "nacionais), revogações diferidas ou parciais noutro artigo, diplomas só citados (listas de imóveis classificados, notas). "
+        f"Abaixo dos {sample['limiar']:.0%}, o estado do DRE não se substitui por esta prova: só os casos verificados entram, "
+        "como prova manual (`vigencia-manual.jsonl`). Lista e veredictos: `vigencia-texto-contra-dre.jsonl`.",
+        "",
+    ]
 
 
 _CATEGORY_LABELS = {

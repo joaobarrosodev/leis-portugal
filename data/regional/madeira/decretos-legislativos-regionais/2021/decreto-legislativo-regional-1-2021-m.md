@@ -35,7 +35,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Decreto Legislativo Regional n.º 1/2021/M: revogação total pela norma revogatória do diploma Decreto Legislativo
+    Regional n.º 9/2026/M (Artigo 45.º / 46.º), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:1118713684:por'
+    detail: É revogado o Decreto Legislativo Regional n.º 1/2021/M, de 6 de janeiro.
 notes: []
 language: por
 version:
@@ -169,6 +179,13 @@ relationships:
   target: pt:dre:66528823:por
   label: null
   source: http://data.dre.pt/eli/lei/14/2015/02/16/p/dre
+- type: repealed_by
+  target: pt:dre:1118713684:por
+  label: 'Decreto Legislativo Regional n.º 1/2021/M: revogação total pela norma revogatória do diploma Decreto Legislativo
+    Regional n.º 9/2026/M (Artigo 45.º / 46.º), lida no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl);
+    o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2026-05-12'
 article_structure:
   article_count: 32
   section_count: 0

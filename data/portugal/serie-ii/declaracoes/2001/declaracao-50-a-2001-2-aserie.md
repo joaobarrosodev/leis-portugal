@@ -22,7 +22,19 @@ publication:
   supplement: null
   pages: 2976-(2) a 2976-(207)
   pdf_url: https://files.diariodarepublica.pt/2s/2001/02/036000001/0000200207.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-05-01'
+entry_into_force:
+  date: '2000-05-01'
+  rule: no dia 1 de Maio de 2000 (ver nota 46), esta administração-geral estará encarregue de assegurar a direcção superior,
+    a coordenação, o controlo e o planeamento estratégico, bem como a gestão das tarefa
+  method: clausula
+  article: n-1
+  effects_date: '1999-01-01'
+  effects_rule: a partir de 1 de Janeiro de 1999, o diploma revoga o artigo 56.º do Código do Imposto sobre o Rendimento das
+    Pessoas Singulares (CIRS) e os artigos 39.º, 39.º-A e 40.º do Código do Imposto sobre o Ren
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

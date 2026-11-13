@@ -25,7 +25,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/05/11800/06960696.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 20590: revogação total pela norma revogatória do diploma Portaria n.º 20796 (n.º 3.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:537382:por'
+    detail: 3.º Fica revogada a Portaria n.º 20590, de 18 de Maio de 1964.
 notes: []
 language: por
 version:
@@ -79,6 +88,11 @@ relationships:
   target: pt:dre:685803:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:537382:por
+  label: 'Portaria n.º 20590: revogação total pela norma revogatória do diploma Portaria n.º 20796 (n.º 3.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0

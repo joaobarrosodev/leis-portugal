@@ -35,7 +35,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 956/2003: revogação total pela norma revogatória do diploma Portaria n.º 459/2008 (n.º 5.º), lida
+    no texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:449903:por'
+    detail: 5.º É revogada a Portaria n.º 956/2003, de 9 de Setembro.
 notes: []
 language: por
 version:
@@ -106,6 +115,12 @@ relationships:
   target: pt:dre:594974:por
   label: null
   source: http://data.dre.pt/eli/port/1103/2000/11/23/p/dre
+- type: repealed_by
+  target: pt:dre:449903:por
+  label: 'Portaria n.º 956/2003: revogação total pela norma revogatória do diploma Portaria n.º 459/2008 (n.º 5.º), lida no
+    texto e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2008-06-25'
 article_structure:
   article_count: 0
   section_count: 0

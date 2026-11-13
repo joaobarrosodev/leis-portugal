@@ -35,7 +35,14 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:58728924:por#art-7'
+    detail: É revogado o [Aviso do Banco de Portugal n.º 7/2010], de 30 de dezembro, na data de entrada em vigor do [Decreto-Lei
+      n.º 157/2014], de 24 de outubro.
 notes: []
 language: por
 version:

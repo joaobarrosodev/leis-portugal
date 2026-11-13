@@ -24,7 +24,17 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/10/23800/18181818.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 22957: revogação total pela norma revogatória do diploma Portaria n.º 289/72 (N.º 10.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:681819:por'
+    detail: 10.º Esta portaria entrará em vigor trinta dias após a data da sua publicação e revoga a Portaria n.º 22957, de
+      12 de Outubro de 1967, bem como os despachos proferidos nos termos do seu n.º 5.º
 notes: []
 language: por
 version:
@@ -74,6 +84,12 @@ relationships:
   target: pt:dre:477364:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:681819:por
+  label: 'Portaria n.º 22957: revogação total pela norma revogatória do diploma Portaria n.º 289/72 (N.º 10.º), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '1972-06-22'
 article_structure:
   article_count: 0
   section_count: 0

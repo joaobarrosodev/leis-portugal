@@ -24,7 +24,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/03/05600/02890289.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Portaria n.º 126/71: revogação total pela norma revogatória do diploma Portaria n.º 225/79 (n.º 9), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:383209:por'
+    detail: 9.º É revogada a Portaria n.º 126/71, de 8 de Março.
 notes: []
 language: por
 version:
@@ -85,6 +94,11 @@ relationships:
   target: pt:dre:475918:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:383209:por
+  label: 'Portaria n.º 126/71: revogação total pela norma revogatória do diploma Portaria n.º 225/79 (n.º 9), lida no texto
+    e verificada na amostra de 2026-11-13 (reports/vigencia-texto-contra-dre.jsonl); o DRE dá-o como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 article_structure:
   article_count: 0
   section_count: 0
