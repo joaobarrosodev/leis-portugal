@@ -9,7 +9,8 @@
 <meta property="og:description" content="A legislação portuguesa em formato aberto, ligada às fontes oficiais e atualizada todos os dias.">
 <meta property="og:image" content="https://joaobarrosodev.github.io/leis-portugal/social-preview.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="color-scheme" content="light">
+<meta name="color-scheme" content="light dark">
+<script>try { const t = localStorage.getItem("tema"); if (t) document.documentElement.dataset.tema = t; } catch (e) {}</script>
 <link rel="icon" href="icone.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -28,6 +29,20 @@
     --verde-fundo: #dde9df;
     --serif: "Newsreader", "Iowan Old Style", Georgia, serif;
     --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+    --sombra-cor: #e4dccb;
+  }
+  /* Modo escuro: segue o sistema, a não ser que se escolha no botão do topo (data-tema). */
+  :root[data-tema="escuro"] {
+    --papel: #141310; --papel-claro: #1d1b17; --tinta: #ece6d8; --suave: #c9c2b4; --tenue: #a39c8e;
+    --regra: #ece6d8; --fio: rgba(236, 230, 216, .18); --vermelho: #ff8a96; --verde: #7fd3a5; --verde-fundo: #1c3a2b; --sombra-cor: #2a2721;
+    color-scheme: dark;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-tema="claro"]) {
+      --papel: #141310; --papel-claro: #1d1b17; --tinta: #ece6d8; --suave: #c9c2b4; --tenue: #a39c8e;
+      --regra: #ece6d8; --fio: rgba(236, 230, 216, .18); --vermelho: #ff8a96; --verde: #7fd3a5; --verde-fundo: #1c3a2b; --sombra-cor: #2a2721;
+      color-scheme: dark;
+    }
   }
   * { box-sizing: border-box; }
   [hidden] { display: none !important; }
@@ -55,10 +70,13 @@
 
   /* cabeçalho de gazeta */
   .cabecalho { padding-top: 24px; }
-  .faixa-topo { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; padding-bottom: 10px; color: var(--suave); }
-  .faixa-topo nav { display: flex; gap: 18px; flex-wrap: wrap; }
-  .faixa-topo a { text-decoration: none; }
-  .faixa-topo a:hover { text-decoration: underline; }
+  .faixa-topo { display: flex; justify-content: space-between; align-items: center; gap: 12px 16px; flex-wrap: wrap; padding-bottom: 14px; color: var(--suave); }
+  .faixa-topo nav { display: flex; gap: 8px; flex-wrap: wrap; }
+  .botao-nav { display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 0 14px; border: 1px solid var(--regra); background: var(--papel-claro); color: var(--tinta); font: 500 15px var(--mono); text-decoration: none; cursor: pointer; transition: background .15s, color .15s; }
+  .botao-nav:hover { background: var(--tinta); color: var(--papel); }
+  .botao-nav[aria-pressed] { background: transparent; }
+  .botao-nav[aria-pressed]:hover { background: var(--tinta); color: var(--papel); }
+  @media (max-width: 680px) { .faixa-topo nav { width: 100%; } .botao-nav { flex: 1 1 auto; justify-content: center; } }
   .titulo-gazeta { border-top: 3px solid var(--regra); border-bottom: 1px solid var(--regra); padding: 16px 0 12px; display: flex; align-items: center; justify-content: space-between; gap: 18px; }
   .titulo-gazeta h1 { margin: 0; font-weight: 500; font-size: clamp(50px, 9.5vw, 124px); line-height: .9; letter-spacing: -.025em; }
   .titulo-gazeta h1 em { font-weight: 400; }
@@ -77,7 +95,7 @@
   .descarga::before { content: ""; position: absolute; inset: 4px; border: 1px solid var(--fio); pointer-events: none; }
   .descarga h2 { margin: 0 0 12px; font-weight: 500; }
   .descarregar { display: flex; justify-content: space-between; align-items: center; gap: 12px; background: var(--tinta); color: var(--papel); text-decoration: none; padding: 12px 14px; margin-bottom: 8px; font-size: 18px; transition: transform .15s; }
-  .descarregar:hover { background: #2c2a25; transform: translateY(-1px); }
+  .descarregar:hover { background: color-mix(in srgb, var(--tinta) 86%, var(--papel)); transform: translateY(-1px); }
   .descarregar small { font-family: var(--mono); font-size: 13px; opacity: .75; letter-spacing: .03em; white-space: nowrap; }
   .descarga .descarregar { flex-direction: column; align-items: flex-start; gap: 2px; font-size: 19px; line-height: 1.2; }
   .descarga .descarregar::after { content: "↓"; position: absolute; right: 14px; top: 50%; transform: translateY(-50%); font-size: 18px; }
@@ -88,7 +106,7 @@
 
   /* demonstração: a mesma norma em duas datas */
   .demo-secao { padding: 34px 0 0; }
-  .demo { border: 1px solid var(--regra); background: var(--papel-claro); box-shadow: 6px 6px 0 #e4dccb; }
+  .demo { border: 1px solid var(--regra); background: var(--papel-claro); box-shadow: 6px 6px 0 var(--sombra-cor); }
   .demo-topo { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; padding: 12px 16px; border-bottom: 1px solid var(--regra); }
   .demo-topo b { font-weight: 600; }
   .datas { display: inline-flex; border: 1px solid var(--regra); }
@@ -180,13 +198,14 @@
 <div class="folha">
 
   <header class="cabecalho">
-    <div class="faixa-topo mono maiusculas">
-      <span>Open source · Dados abertos · Gratuito</span>
-      <nav>
-        <a href="#funcionamento">Como funciona</a>
-        <a href="#fiabilidade">Quanto acerta</a>
-        <a href="#instalacao">Como instalar</a>
-        <a href="https://github.com/joaobarrosodev/leis-portugal">GitHub</a>
+    <div class="faixa-topo">
+      <span class="mono maiusculas">Open source · Dados abertos · Gratuito</span>
+      <nav aria-label="Secções">
+        <a class="botao-nav" href="#funcionamento">Como funciona</a>
+        <a class="botao-nav" href="#fiabilidade">Quanto acerta</a>
+        <a class="botao-nav" href="#instalacao">Como instalar</a>
+        <a class="botao-nav" href="https://github.com/joaobarrosodev/leis-portugal">GitHub ↗</a>
+        <button class="botao-nav" type="button" id="tema" aria-pressed="false">◐ <span>Modo escuro</span></button>
       </nav>
     </div>
     <div class="titulo-gazeta">
@@ -392,6 +411,21 @@
     win.classList.remove("segundo");
     mac.classList.add("segundo");
   }
+  // Modo claro / escuro: o botão troca e guarda a escolha.
+  const botaoTema = document.getElementById("tema");
+  const escuroAgora = () => (document.documentElement.dataset.tema || (matchMedia("(prefers-color-scheme: dark)").matches ? "escuro" : "claro")) === "escuro";
+  function mostrarTema() {
+    const escuro = escuroAgora();
+    botaoTema.setAttribute("aria-pressed", String(escuro));
+    botaoTema.querySelector("span").textContent = escuro ? "Modo claro" : "Modo escuro";
+  }
+  botaoTema.addEventListener("click", () => {
+    const novo = escuroAgora() ? "claro" : "escuro";
+    document.documentElement.dataset.tema = novo;
+    try { localStorage.setItem("tema", novo); } catch (e) {}
+    mostrarTema();
+  });
+  mostrarTema();
   // A mesma norma em duas datas.
   document.querySelectorAll("[data-data]").forEach((b) =>
     b.addEventListener("click", () => {
