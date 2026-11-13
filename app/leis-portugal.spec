@@ -66,5 +66,5 @@ if sys.platform == "darwin":
         name=f"{NOME}.app",
         icon=str(RAIZ / "app" / "icone.icns"),
         bundle_identifier="pt.leis-portugal.app",
-        info_plist={"CFBundleShortVersionString": "0.1.0", "NSHighResolutionCapable": True, "LSApplicationCategoryType": "public.app-category.reference"},
+        info_plist={"CFBundleShortVersionString": "0.1.1", "NSHighResolutionCapable": True, "LSApplicationCategoryType": "public.app-category.reference"},
     )

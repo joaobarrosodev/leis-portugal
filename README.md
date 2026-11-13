@@ -44,7 +44,7 @@ O que ainda não consegue (sem isto, os números enganam):
 
 Os números por tipo de pergunta estão em [Cobertura e progresso](#cobertura-e-progresso) e o pormenor em [`rag/README.md`](rag/README.md). Para divulgar o projeto, há textos prontos e a lista do que não se pode afirmar em [`COMUNICACAO.md`](COMUNICACAO.md).
 
-**Para o experimentar no teu computador**, com a tua chave da IA (Claude, OpenAI ou Gemini): [`COMO-USAR.md`](COMO-USAR.md), passo a passo, sem precisar de saber programar. Há também uma página no browser (`./perguntar --web`) e uma aplicação para Mac e Windows a caminho ([`app/`](app/README.md)).
+**Para o experimentar no teu computador:** a aplicação para Mac e Windows, gratuita e com um passo a passo, descarrega-se em [joaobarrosodev.github.io/leis-portugal](https://joaobarrosodev.github.io/leis-portugal/) ([`app/`](app/README.md)). A partir do repositório, com a tua chave da IA (Claude, OpenAI ou Gemini): [`COMO-USAR.md`](COMO-USAR.md), ou a página no browser com `./perguntar --web`.
 
 ## Índice
 

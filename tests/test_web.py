@@ -127,7 +127,7 @@ def test_configurar_so_guarda_chave_valida(servico, monkeypatch):
     estado, r = pedir(servico, "POST", "/api/configurar", {"provedor": "gemini", "modelo": "gemini-4-carbon", "chave": "boa"})
     assert r["ok"] is True and "cofre" in r["mensagem"]  # sem cofre nos testes: avisa que fica só até fechar
     assert definicoes.ler() == {"provedor": "gemini", "modelo": "gemini-4-carbon"}
-    assert r["estado"]["com_chave"] is (provedores.importlib.util.find_spec("google") is not None)
+    assert r["estado"]["com_chave"] is provedores._instalado("google.genai")
     assert "não foi medida" in r["estado"]["aviso_medicao"]
     assert pedir(servico, "POST", "/api/esquecer", {"provedor": "gemini"})[1]["ok"]
     assert definicoes.ler_chave("gemini") is None

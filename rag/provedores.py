@@ -79,13 +79,21 @@ def chave(nome: str | None = None) -> str | None:
     return os.environ.get(PROVEDORES[nome or provedor()]["variavel"]) or None
 
 
+def _instalado(pacote: str) -> bool:
+    """O pacote está instalado (para `google.genai`, o próprio subpacote, não só o espaço `google`)."""
+    try:
+        return importlib.util.find_spec(pacote) is not None
+    except (ImportError, ValueError):
+        return False
+
+
 def disponivel() -> bool:
     """Há chave para o provedor escolhido e o pacote dele está instalado."""
     try:
         nome = provedor()
     except ErroIA:
         return False
-    return bool(chave(nome)) and importlib.util.find_spec(PROVEDORES[nome]["pacote"].split(".")[0]) is not None
+    return bool(chave(nome)) and _instalado(PROVEDORES[nome]["pacote"])
 
 
 def descricao() -> str:
