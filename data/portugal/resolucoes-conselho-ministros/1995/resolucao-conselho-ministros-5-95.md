@@ -35,7 +35,18 @@ entry_into_force:
   end_rule: pelo prazo de 10 anos, sendo revisto ou alterado de acordo com o estabelecido no Decreto-Lei n.º 69/90, de 2 de
     Março, com a redacção do Decreto-Lei n.º 211/92
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: 'Substituído pela revisão do PDM de Vila Nova de Cerveira (Aviso n.º 7785/2012), em vigor desde 2012-06-09 (regra
+    supletiva do 5.º dia após a publicação, Lei n.º 74/98, art. 2.º, n.º 2, sem cláusula própria no texto do acervo: o Regulamento
+    não foi extraído para o acervo). O DRE dá a Resolução do Conselho de Ministros n.º 5/95 como em vigor.'
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:2358698:por'
+    detail: a Assembleia Municipal de Vila Nova de Cerveira, aprovou, em 27 de abril de 2012, a proposta final de revisão
+      do Plano Diretor Municipal de Vila Nova de Cerveira.
 notes: []
 language: por
 version:
@@ -129,6 +140,13 @@ relationships:
     República n.º 238/2014, Série II de 2014-12-10
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/1281-2014-63456869
   date: '2014-12-10'
+- type: repealed_by
+  target: pt:dre:2358698:por
+  label: 'Substituído pela revisão do PDM de Vila Nova de Cerveira (Aviso n.º 7785/2012), em vigor desde 2012-06-09 (regra
+    supletiva do 5.º dia após a publicação, Lei n.º 74/98, art. 2.º, n.º 2, sem cláusula própria no texto do acervo: o Regulamento
+    não foi extraído para o acervo). O DRE dá a Resolução do Conselho de Ministros n.º 5/95 como em vigor.'
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2012-06-09'
 article_structure:
   article_count: 80
   section_count: 5

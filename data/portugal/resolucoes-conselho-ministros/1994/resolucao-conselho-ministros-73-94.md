@@ -34,7 +34,19 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Substituído pela revisão do PDM de Santa Comba Dão (Resolução do Conselho de Ministros n.º 127/2002), em vigor desde
+    2002-10-30 (regra supletiva do 5.º dia após a publicação, Lei n.º 74/98, art. 2.º, n.º 2, sem cláusula própria no texto
+    do acervo). A Resolução n.º 143/2003 só refez a ratificação dos artigos 13.º, 14.º e 23.º do Regulamento revisto, publicados
+    por lapso; não repõe nada do PDM de 1994. O DRE dá a Resolução do Conselho de Ministros n.º 73/94 como em vigor.
+  evidence:
+  - status: not_in_force
+    provenance: 'prova manual: pt:dre:434645:por'
+    detail: Ratificar a revisão do Plano Director Municipal de Santa Comba Dão, cujo Regulamento, planta de ordenamento e
+      planta de condicionantes se publicam em anexo à presente resolução e dela fazem parte integrante.
 notes: []
 language: por
 version:
@@ -235,6 +247,14 @@ relationships:
   target: pt:dre:662331:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:434645:por
+  label: Substituído pela revisão do PDM de Santa Comba Dão (Resolução do Conselho de Ministros n.º 127/2002), em vigor desde
+    2002-10-30 (regra supletiva do 5.º dia após a publicação, Lei n.º 74/98, art. 2.º, n.º 2, sem cláusula própria no texto
+    do acervo). A Resolução n.º 143/2003 só refez a ratificação dos artigos 13.º, 14.º e 23.º do Regulamento revisto, publicados
+    por lapso; não repõe nada do PDM de 1994. O DRE dá a Resolução do Conselho de Ministros n.º 73/94 como em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2002-10-30'
 article_structure:
   article_count: 0
   section_count: 17

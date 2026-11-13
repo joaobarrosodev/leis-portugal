@@ -297,12 +297,12 @@ Na ronda 100 foram para as exclusões:
   - Viseu: "São revogados todos os planos municipais […] anteriores".
   - Loures: o território de Odivelas saiu pelo Aviso 10014/2015, que revoga a RCM 54/94 nessa parte, desde 2015-09-03.
 - **4 têm a data pela regra supletiva do 5.º dia (Lei 74/98), por não terem cláusula própria:** Oliveira do Bairro, Carregal do Sal, Arraiolos e Paredes de Coura.
-- **9 ficaram por marcar:**
-  - Poiares, Condeixa, Proença-a-Nova e Penacova: a revisão só produz efeitos depois de uma portaria da REN que não está no acervo.
-  - Braga: a 1.ª revisão foi ratificada só em parte.
-  - Santa Comba Dão: a revisão foi depois revogada em parte.
-  - Vila Nova de Cerveira e Murtosa: o texto não tem o Regulamento nem a cláusula de vigor.
-  - Bragança: só há a retificação.
+- **Os 9 que tinham ficado por marcar foram marcados depois (13/11/2026), também como `not_in_force`:**
+  - Poiares, Condeixa, Proença-a-Nova e Penacova: a revisão só produz efeitos depois da portaria da REN do município. As 4 portarias estavam afinal no acervo (Portarias 215/2014, 31/2016, 44/2016 e 73/2016), e a data é o dia seguinte à publicação da portaria, quando ela produz efeitos. O artigo final de cada Regulamento fala da publicação do aviso, mas a condição expressa do aviso prevalece. Se a data contasse desde a assinatura da portaria, seria uns dias antes.
+  - Braga: a 1.ª revisão (RCM 9/2001) manteve 5 artigos do Regulamento de 1994. A 2.ª revisão (Aviso 11741/2015) aprova um Regulamento novo para todo o concelho e revoga o PDM de 2001 (art. 113.º). Por isso o PDM de 1994 está fora de vigor desde 2015-10-15.
+  - Santa Comba Dão: a RCM 143/2003 só refez a ratificação de 3 artigos da revisão de 2002, que tinham sido publicados por lapso. O PDM de 1994 saiu por inteiro com a revisão.
+  - Vila Nova de Cerveira e Murtosa: o aviso aprova a revisão, mas o Regulamento não foi extraído para o acervo. A data é a da regra supletiva do 5.º dia.
+  - Bragança: o que estava no acervo era a retificação de outro aviso, o da discussão pública. Recolheu-se do DRE o aviso da revisão, o Aviso 12248-A/2010, que entra em vigor no dia útil seguinte à publicação (2010-06-21).
 
 **Ronda 104: Resolução da AR 31-A/2004** (`pt:dre:346750:por`, o Acordo de Associação UE–Chile, 866 mil caracteres). Foi pelo `llm_gigantes.py`: 2 alteradores numa passagem.
 - O Decreto do PR 18-A/2004 só ratifica.
