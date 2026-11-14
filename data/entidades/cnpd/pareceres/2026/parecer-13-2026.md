@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Assembleia da República - Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias'
-- 'Texto incompleto: 10 de 17 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 10 de 17 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,12 +70,128 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:46:30Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 13/2026
+
+PAR/2026/13 | 1
+CNPD
+PARECER/2026/13
+I. Pedido 1. A Comissão de Assuntos Constitucionais, Direitos, liberdades e Garantias solicitou em 04 de fevereiro de 2026 à Comissão Nacional de Proteção de Dados (CNPD), para se pronunciar sobre o Projeto de Lei 398 XVII 1 (PSD)
+que Estabelece medidas de proteção de crianças em ambientes digitais (doravante Projeto de Lei), cuja discussão na generalidade foi agendada para o Plenário do dia 12 de fevereiro de 2026.
+2. O pedido de parecer não veio instruído com qualquer estudo de impacto sobre a proteção de dados pessoais.
+3. A CNPD emite parecer no âmbito das suas atribuições e competências enquanto autoridade administrativa independente com poderes de autoridade para controlo dos tratamentos de dados pessoais, conferidos pela alínea c) do n.º 1 do artigo 57°, conjugado com a alínea b) do n.º 3 do artigo 58° e com o n.º 4 do artigo 36°, todos do Regulamento (UE) 2016/679, de 27 de abril de 2016 - Regulamento Geral sobre a Proteção de Dados (doravante RGPD), em conjugação com o disposto no artigo 3°, n.º 2 do artigo 4° e na alínea a) do n.º 1 do artigo 6°, todos da Lei n.° 58/2019, de 8 de agosto, que executa na ordem jurídica interna o RGPD (doravante LERGPD).
+II. Análise 1. A tutela jurídica dos dados pessoais 4. A Constituição da República portuguesa (CRP) no seu registo normativo sobre os direitos, liberdades e garantias estabelece os direitos fundamentais à reserva da intimidade da vida privada e familiar (artigo 26.°, n.° 1), assim como à autonomia informativa, o que passa pela proteção dos dados pessoais (artigo 35.°, n.º 1 e 2).
+5. Trata-se de matéria da competência legislativa exclusiva da Assembleia da República, salvo autorização concedida pela mesma ao Governo, dai designar-se como reserva relativa de competéncia legislativa (artigo 165.°, n.º 1, alínea b) CRP). Quando tal sucede "As leis de autorização legislativa devem definir o objeto, o sentido, a extensão e a duração da autorização, a qual pode ser prorrogada." (artigo 165.°, n. ° 2 CRP)
+6. Por sua vez, será de referir que a tutela jurídica europeia e nacional específica para a proteção dos dados pessoais a convocar para a apreciação do presente Projeto de Lei, designadamente quanto aos princípios relativos ao tratamento dos dados pessoais, tem o seu núcleo essencial no Tratado sobre o Funcionamento da
+União Europeia (doravante TFUE), na Carta dos Direitos Fundamentais da União Europeia (doravante CDFUE), e no Regulamento Geral sobre a Proteção de Dados.
+7. O TFUE consagra no artigo 16.º, n.º 1 que "todas as pessoas têm direito à proteção de dados de carácter pessoal que lhes digam respeito".
+
+PAR/2026/13
+CNPD 8. Neste alinhamento, a CDFUE estabelece no artigo 8.° que o tratamento dos dados de carácter pessoal deve processar-se no estrito respeito pelos direitos, liberdades e garantias das pessoas singulares, em especial pelo direito à proteção dos dados pessoais (princípio da legalidade).
+9. A noção legal de dados pessoais está estabelecida no artigo 4.°, 1) do RGPD considerando que os mesmos correspondem à "informação relativa a uma pessoa singular identificada ou identificável («titular dos dados»); é considerada identificável uma pessoa singular que possa ser identificada, direta ou indiretamente, em especial por referência a um identificador, como por exemplo um nome, um número de identificação, dados de localização, identificadores por via eletrónica ou a um ou mais elementos específicos da identidade física, fisiológica, genética, mental, económica, cultural ou social dessa pessoa singular,".
+10. O mesmo RGPD veio consignar no artigo 5.°
+, n.º 1 que os dados pessoais são: i) Objeto de um tratamento lícito, leal e transparente (licitude, lealdade e transparência); ii) Recolhidos para finalidades determinadas, explícitas e legítimas, não podendo ser tratados de forma incompatível com essas finalidades (limitação das finalidades); iii) Adequados, pertinentes e limitados ao mínimo necessário à prossecução das finalidades para as quais são tratados (minimização dos dados); iv) Exatos e atualizados sempre que necessário, devendo ser tomadas todas as medidas razoáveis para que os dados inexatos sejam apagados ou retificados sem demora (exatidão dos dados); v) Conservados de forma a permitir a identificação dos titulares dos dados apenas durante o período necessário para as finalidades para as quais são tratados (limitação da conservação); vi) Tratados de uma forma que garanta a sua segurança, incluindo a proteção contra o seu tratamento não autorizado ou ilícito e contra a sua perda, destruição ou danificação acidentais, recorrendo a medidas técnicas ou organizativas adequadas (integridade e confidencialidade).
+11. Mais será de referir que o RGPD através do artigo 5.°
+°, n.° 2 veio estabelecer o comando de que o responsável pelo tratamento deve adotar as medidas que lhe permitam comprovar que o tratamento de dados pessoais é realizado em conformidade com os princípios enunciados (responsabilidade).
+12. O European Data Protection Board (EDPB) (Comité Europeu para a Proteção de Dados), veio em 11 de fevereiro de 2025, produzir a sua Declaração 1/2025 sobre a certificação da idade, tendo por referência o quadro jurídico europeu, com destaque para o RGPD e o RSD.
+13. A Comissão Europeia divulgou em 10 de fevereiro de 2026 o designado "Action plan against cyberbulling:
+Safer online, stronger together" [COM(2026)71], inserindo no mesmo o "Action plan against cyberbulling -protecting children online", referenciando as medidas políticas e legais relevantes para o efeito, destacando no 1 Acessível em https://www.edpb.europa.eu/our-work-tools/our-documents/statements/statement-12025-age-assurance_pt.
+
+PAR/2026/13 | 2
+CNPD que concerne ao RGPD que os dados pessoais das crianças merecem uma proteção específica e enunciando o seguinte:iO direito ao apagamento dos dados pessoais é particularmente relevante quando o titular dos dados deu o seu consentimento enquanto criança e pode não ter tido plena consciência dos riscos envolvidos, nomeadamente no contexto do ciberbullying"z.
+O Projeto de Lei e a sua sustentabilidade na proteção dos dados pessoais 14. A exposição de motivos encontra-se alicerçada em quatro pilares essenciais: o primeiro vai no sentido de que la] ascensão das redes sociais, operada a um ritmo sem precedentes históricos, deslocou silenciosamente funções que durante séculos pertenceram à família, à escola e à comunidade. Essa mudança ocorreu de forma abrupta, sem preparação institucional, sem regulação adequada e sem consciência plena dos custos psicológicos, educativos, sociais e culturais associados".
+15. O segundo conjugaio uso precoce e continuado das redes sociais tem provocado efeitos adversos relevantes na saúde mental e emocional das crianças", com os "prejuízos ao nível da capacidade de concentração, do rendimento escolar e da resistência cognitiva, bem como o isolamento, dificuldades de socialização com colegas, pais, professores e comunidade em geral", incluindo a "exposição a conteúdos inadequados, a vulnerabilidade ao bullying e cyberbullying, à manipulação emocional, ao aliciamento por terceiros hostis tornou-se uma realidade diária no mundo digital".
+16. O terceiro visa estabelecer uma "matriz protetora que a lei estabeleça uma idade mínima clara e adequada para o acesso das crianças aos ambientes digitais, espaço que hoje concentra riscos superiores a outros comportamentos tradicionalmente regulados".
+17. O quarto vai no sentido de "estabelecer regras para proteger crianças e jovens, permitindo-lhes navegar com liberdade e segurança no mundo digital e dotando-os de capacidade para tomar decisões informadas sobre as suas atividades online, sem comportamentos aditivos, maximizando os benefícios e minimizando os riscos para o seu bem-estar mental e social" 18. Para o efeito o presente Projeto de Lei contempla vinte e duas (22) disposições, estabelecendo o seu objeto (artigo 1.°), âmbito de aplicação (artigo 2.°), alteração à Lei n.º 58/2019 (LERGPD), definições (artigo 4.°), idade mínima digital (artigo 5.°), consentimento parental (artigo 6.°), obrigação geral de verificação de idade (artigo 7.°), requisitos técnicos da verificação de idade (artigo 8.°), prestadores de conteúdo de risco elevado (artigo 9.°), configurações seguras por defeito (artigo 10.°), prevenção da edição digital (artigo 11.°), proteção contra aliciamento e violência digital sobre as crianças (artigo 12.°), autoridades competentes (artigo 13.9), relatório 2 Acessível em https://digital-strategy.ec.europa.eu/en/policies/cyberbullying, sendo nossa a tradução.
+
+PAR/2026/13 2V.
+CNPD e transparência (artigo 14.°), contraordenações (artigo 15.), responsabilidade (artigo 16.°), campanhas públicas de informação (artigo 17.°), certificação de boas práticas (artigo 18.°), avaliação da aplicação (artigo 19.°), cooperação europeia (artigo 20.°), disposição final (artigo 21.°), entrada em vigor (artigo 22.°)
+19. O projetado diploma, quer na sua globalidade, quer através de algumas disposições em particular, tem um impacto direto na proteção dos dados pessoais, enquanto outras são susceptíveis de ter um impacto indireto, pelo que iremos apreciar as mesmas.
+20. O Projeto de Lei, de acordo com o seu artigo 1°, tem como objeto "estabelecer medidas de proteção de crianças em ambientes digitais", fixando para o efeito, mas agora através do seu artigo 5.°, a idade mínima digital nos 16 (dezasseis) anos (n.º 1), permitindo o acesso relativamente às crianças entre os 13 e os 16 anos de idade, através do consentimento parental informado e expresso (n.° 2), e interditando o acesso aos menores de 10 anos de idade (n.° 3).
+21. No entanto, a CNPD verifica que o Projeto de Lei estende o seu âmbito à LERGPD (artigo 3.9), reconfigurando e aumentando a idade mínima de 13 para 16 anos de idade, enquanto critério objetivo, para o consentimento com vista ao tratamento dos dados pessoais.
+22. Assim, ocorre uma dessintonia entre o objeto e o âmbito deste Projeto de Lei, que seria aconselhável revisitar.
+23. A CNPD também constata que o consentimento digital, enquanto fundamento de licitude de acesso às redes digitais tem carácter objetivo (16 anos de idade), não estabelece quaisquer outros requisitos, designadamente como acontece no consentimento para o tratamento dos dados pessoais (artigo 4.9, 11) do
+RGPD).
+24. Nesta conformidade, sugere-se que as definições constantes no artigo 4.° passem a integrar o
+*consentimento digital", através da sua densificação através da exigência de uma manifestação de vontade, livre, específica, informada e inequívoca, mediante uma declaração ou ato positivo explícito para aceder às plataformas digitais referenciadas no âmbito de aplicação deste Projeto de Lei (artigo 2.°, n.º 1 e 2).
+25. A CNPD também regista a previsão do consentimento parental no que concerne aos menores de 16 anos, que se encontra contemplado nos artigos 5.°, n.º 2 e 6.° do Projeto de Lei, o qual é prestado pelos titulares das responsabilidades parentais.
+26. Mas resta saber se a previsão desta exigência legal exige o consentimento de um ou de ambos os progenitores, o que deverá ser esclarecido, sendo de recordar para o efeito o disposto no artigo 1902.°, n.º 1 do Código Civil, onde se preceitua queise um dos pais praticar acto que integre o exercício das
+
+PAR/2026/13 3
+CNPD responsabilidades parentais, presume-se que age de acordo com o outro, salvo quando a lei expressamente exija o consentimento de ambos os progenitores ou se trate de acto de particular importância; a falta de acordo não é oponível a terceiro de boa fé".
+27. Mais será de referir que a previsão legal do consentimento parental está essencialmente dirigida para as situações de "normalidade parental" ou então em que a responsabilidade parental está exclusivamente conferida a um dos progenitores, seja pai ou mãe.
+28. Porém, as crianças nos casos de divórcio ou de separação dos seus progenitores podem se encontrar numa situação de partilha das responsabilidades parentais, podendo também ocorrer uma situação de institucionalização, em que as responsabilidades parentais podem estar suspensas.
+29. Estas situações não se encontram devidamente delineadas no Projeto de Lei e podem ter implicações na tutela dos dados pessoais dos menores de 16 anos de idade, para além de poderem ser uma fonte de conflitualidade parental, em situações pós-conjugais ou pós-união de facto.
+30. A CNPD no que concerne à obrigação geral de verificação de idade e aos correspondentes requisitos técnicos, respetivamente previstos nos artigos 7.° e 8º do Projeto de Lei, considera que se impõe a correspondente análise da robustez técnica do sistema a implementar, em conjugação com a coadunação jurídica decorrente das exigências de proteção dos dados pessoais, nomeadamente na vertente da sua minimização. Este último tratamento de dados pessoais em grande escala, para todas as pessoas maiores de 16 anos de idade, pode não respeitar o teste de proporcionalidade relativamente à proteção dos dados pessoais.
+31. Em primeiro lugar, será de questionar se existe um repositório centralizado com a informação sobre a identidade dos titulares das responsabilidades parentais da criança, chamando-se a atenção de que o detentor do exercício da responsabilidade parental pode não ser o respetivo progenitor, sendo atributos completamente distintos.
+32. Em segundo lugar, aquando da identificação dos sujeitos que exercem as responsabilidades parentais é necessário igualmente conhecer a identidade da criança. Trata-se de uma condição sine qua non, cujo modo de funcionamento não aparenta coadunar-se com a definição avançada na alínea g) do artigo 4.° do Projeto de
+Lei: "comprovar apenas o limiar etário, sem revelar a identidade do utilizador ou outros dados pessoais".
+33. Em terceiro lugar, iremos previamente chamar à colação o disposto no n.° 3 do artigo 6° do Projeto de Lei, o qual refere que "as plataformas, serviços, jogos e aplicações acessíveis a crianças devem disponibilizar um painel, acessível à criança e aos titulares das responsabilidades parentais".
+
+PAR/2026/13 3v.
+CNPD 34. Ora, a definição funcional estabelecida no referido número mimetiza as funcionalidade existentes nos controlos parentais disponibilizados por detentores de VLOP como o Microsoft Family Safety e o Google Family
+Link. Estes painéis implicam uma parametrização sobre a informação do agregado familiar e tem de haver um perfil de utilizador, com senha, para que possam ter acesso e preservar as configurações.
+35. Nesta conformidade, estamos num cenário em que o operador da plataforma ou serviço digital ficaria com informação sobre o menor e os respetivos responsáveis parentais. Esta implementação não é um mecanismo viável com o pretendido «Sistema de prova de idade com preservação de privacidade».
+36. Aliás, no que concerne ao exercício das responsabilidades parentais em ambiente digital, damos conta que na documentação on-line Chave Móvel Digital (doravante CMD) está referido que "Não há idade mínima para ter Chave Móvel Digital. Qualquer pessoa adulta, criança ou bebé pode ter uma Chave Móvel Digital, mas precisa de ter o seu próprio número de telemóvel" 3.
+37. Com esta premissa, no caso de uso em que a criança não tenha telemóvel, terá de ser um dos titulares da responsabilidade parental a autenticar-se com a sua identidade e garantir a permissão de acesso.
+38. A CNPD também considera a necessidade de responsabilização dos titulares das responsabilidades parentais, quando estes sejam autores ou cúmplices de uma utilização ou acesso indevido por parte dos menores a sítios da internet relativamente aos quais deveriam estar excluídos, em virtude de os seus conteúdos não serem ajustados à sua menoridade, como sucede com os designados "conteúdos de risco elevado" Projeto de Lei (artigos 2., n.° 1;9.°, n.º 1).
+39. Tal não exclui a responsabilização que deve estar atribuída aos responsáveis pelo tratamento dos dados pessoais e a correspondente verificação da idade mínima para efeitos dos acessos digitais.
+40. A CNPD considera que o único modelo preconizado para uso da CMD com vista à validação da faixa etária, que poderia preservar o anonimato do titular dos dados, é o de verificação através da plataforma autenticaco.gov.pt e, no passo em que se confronta o utilizador com os atributos que serão transmitidos ao operador cujo serviço ou aplicação implica verificação de idade, apenas deverá surgir o indicador binário,
+SIM/NÃO, de que o titular é maior de 16 anos. Este indicador, na gíria técnica um "token", transmite ao serviço ou plataforma de destino se o titular dos dados é realmente da faixa etária que permite o seu uso.
+41. Não se encontra contemplado na proposta legislativa, mas é importante especificar que o mecanismo de verificação não deve permitir atribuir um identificador nem construir um perfil sobre o respetivo utilizador.
+3 https://www.gov.pt/servicos/ativar-a-chave-movel-digital
+
+PAR/2026/13 | 4
+CNPD 42. De igual modo, deve ser desconexo de outros sistemas e impedir a rastreabilidade transversal do utilizador entre diferentes plataformas. Esta é uma prática recorrente nas redes de publicidade digital e de recolha de dados analíticos de utilização.
+43. No âmbito da presente proposta e estando em causa pessoas de menoridade, considera-se de todo relevante que o token de verificação de idade não seja partilhado de forma alguma. Idealmente, o processo de verificação de idade é totalmente executado na aplicação da carteira/chave móvel digital.
+44. A CNPD também sustenta que o token em causa deve ter um prazo de validade definido, ao fim do qual será exigida nova verificação.
+45. A CNPD no que concerne à proteção contra o aliciamento e violência digital sobre as crianças, constata que o artigo 12.° do Projeto de Lei tem precisamente esse âmbito. No entanto, a responsabilidade é conferida ao serviços e plataformas destinatário do projetado diploma.
+46. Porém, a alínea b) do n.° 1 do artigo 12.°, pode comportar um nível inadmissível de intrusão pelos agentes económicos na plataformas e serviços digitais que operam. Para conseguir o propósito de bloquear automaticamente mensagens contendo material ofensivo, o operador terá de ter acesso ao conteúdo de todas as mensagens, de todos os utilizadores da plataforma que potencialmente poderão enviar comunicações aos titulares menores de idade. No limite são todos os utilizadores.
+47. Tal implica a vigilância e acesso ao teor de todas as comunicações, desvirtuando quaisquer mecanismos de encriptação e inviabilizando comunicações seguras ponto-a-ponto. A pretexto da defesa das crianças, as comunicações e serviços digitais ficam obrigadas a exercer uma vigilância sobre todas as comunicações 48. Nesta conformidade, poderá revelar-se completamente desproporcional, por não ser adequado, necessário e na devida justa medida, realizar o rastreamento e a vigilância do teor de todas as comunicações, podendo ser ainda fonte provável de autocensura. Esta iniciativa, embora preventiva, é intrusiva e deve ser evitada a todo o custo.
+49. A CNPD sugere como alternativa viável que, concomitantemente à necessária responsabilização das plataformas e dos prestadores de serviços digitais pelo tratamento dos dados pessoais, haja a implementação de listas de contactos autorizados pelos responsáveis parentais a comunicar com a conta dos menores no serviço ou plataforma digital.
+50. A CNPD constata que o artigo 13.° do Projeto de Lei, através do seu n.º 1, atribui à Autoridade Nacional de
+Comunicações e à Comissão Nacional de Proteção de Dados a competência para "fiscalizar o cumprimento da presente lei, no âmbito das suas competências".
+
+PAR/2026/13 4v.
+CNPD 51. Por sua vez, o artigo 15.° do Projeto de Lei vem estabelecer uma lista tipificadora de contraordenações (n.° 1) e das suas sanções (n.º 2), os critérios para a determinação das respetivas coimas (n.º 3), assim como a atribuição de competências para o efeito (n.º 4), nos seguintes termos: "A instrução dos processos de contraordenação compete à Autoridade Nacional de Comunicações ou à Comissão Nacional de Proteção de
+Dados, no âmbito das respetivas competências, cabendo a decisão à autoridade que tenha instruído o processo".
+52. Ora esta regulamentação, essencialmente abstrata e induzivamente incompreensível das competências em razão da matéria para fiscalização e responsabilização contraordenacional, é certamente uma fonte de conflitos negativos ou positivos de competência.
+53. Para o efeito, a Proposta de Lei deveria precisar no seu texto o âmbito dessas competências, seguindo, por exemplo, o desenho legislativo da designada Lei das Comunicações Eletrónicas, aprovada pela Lei n.° 41/2004, de 18 de agosto, alterada pela Lei n.º 46/2012, de 29 de agosto, tal como consta no seu artigo 15.9, epigrafado de "Processamento e aplicação de coimas".
+54. O Projeto de Lei e retomando o artigo 13.°, mais precisamente o seu n.º 2, dispõe o seguinte: "A Autoridade
+Nacional de Comunicações, além do regulamento com o Referencial Técnico Nacional de Verificação de Idade previsto no artigo 8.°, pode aprovar outros regulamentos e emitir as orientações técnicas necessárias à plena execução da presente lei, bem como solicitar auditorias independentes aos prestadores de serviços por ela abrangidos." 55. A CNPD constata que este segmento normativo revela fragilidades constitucionais, numa matéria de direitos fundamentais de proteção de dados, que, como anteriormente mencionámos, é da reserva relativa de competência legislativa da Assembleia da República.
+56. E isto porque a verificação da idade de acesso às plataformas digitais que estão no âmbito deste Projeto de Lei, exige o tratamento de dados pessoais, tais como o nome e a idade.
+57. Deste modo, o designado Referencial Técnico Nacional de Verificação de Idade tem nítidas implicações no domínio da proteção dos dados pessoais, atenta a noção legal conferida pelo RGPD, que o legislador ordinário não pode contornar, atenta a primazia do direito da União Europeia no ordenamento jurídico nacional.
+58. Assim, reenviar esta matéria regulamentadora, mais precisamente, os designados "outros regulamentos" para um organismo administrativo, qualquer que seja o mesmo, contende com a exigência constitucional de que a mesma se encontra nos parâmetros de reserva relativa de competência legislativa da Assembleia da
+República.
+
+PAR/2026/13 5
+CNPD
+O estudo de impacto da Proposta de Lei na proteção dos dados pessoais 59. A CNPD chama também a atenção para a observância do disposto do artigo 18.°, n.º 4 da Lei n.º 43/2004, de 18 de agosto (Lei de Organização e Funcionamento da Comissão Nacional de Proteção de Dados), segundo o qual "Os pedidos de parecer sobre disposições legais e regulamentares em preparação devem ser remetidos à CNPD pelo titular do órgão com poder legiferante ou regulamentar, instruídos com o respetivo estudo de impacto sobre a proteção de dados pessoais".
+60. Deste modo, tal omissão compromete a realização de um parecer sustentado e sustentável quanto a validade e fiabilidade relativamente aos prováveis riscos decorrentes dos tratamentos de dados pessoais constantes nesta Proposta.
+Conclusão 61. Nos termos e fundamentos expostos, a CNPD recomenda:
+a) A reformulação do objeto do Projeto de Lei de modo a abranger a fixação da idade para o consentimento com vista à proteção dos dados pessoais;
+b) A previsão no artigo 4.° do Projeto de Lei da definição do consentimento digital", estabelecendo a sua densificação;
+c) A densificação das previsões em que ocorre o consentimento parental digital, de modo a abranger as situações referenciadas nos itens 25-29;
+d) A clarificação do desenho legal da obrigação geral de verificação de idade e do Referencial Técnico
+Nacional de Verificação de Idade, respetivamente previstos nos artigos 7.° e 8.° do Projeto de Lei, assim como da implementação dos correspondentes mecanismos, atento o referenciado nos itens 30-3/;
+e) A responsabilização dos titulares das responsabilidades parentais, quando estes sejam autores ou cúmplices de uma utilização ou acesso indevido por parte dos menores a sítios da internet relativamente aos quais deveriam estar excluídos;
+f) A implementação de funcionalidades de verificação de idades através do desenho técnico mencionado nos itens 40 a 49;
+
+PAR/2026/13 5v.
+CNPD g) A delimitação e especificação das competências entre a Autoridade Nacional de Comunicações e a
+Comissão Nacional de Proteção de Dados h) A eliminação da previsão da implementação de "outros regulamentos" por parte da autoridade administrativa, prevista no artigo 13.°, n.º 2 do Projeto de Lei, ou atraves de qualquer outra;
+i) A realização do respetivo estudo de impacto sobre a proteção de dados pessoais, antes da aprovação do presente Projeto de Lei.
+Lisboa, 23 de fevereiro de 2026
+Paula Meira Lourenço (Presidente)
+Assinado por: PAULA CRISTINA MEIRA LOURENÇO
+Data: 2026.02.23 23:55:48+00'001
+Certificado por: Diário da República
+Atributos certificados: Presidente - Comissão Nacional de Proteção de Dados
+CARTÃO DE CIDADÃO
+....
 
 Declaração de Voto 1. 2. 3. 4. 5. 6. 7. Votei favoravelmente o parecer emitido sobre o Projeto de Lei n.º 398/XVII/1.ª, por concordar, no essencial, com a sua orientação geral quanto à necessidade de reforço da proteção das crianças em ambiente digital e à centralidade das garantias decorrentes do
 Regulamento Geral sobre a Proteção de Dados.
