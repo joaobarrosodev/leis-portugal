@@ -517,11 +517,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:183800793:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:202959162:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:204552612:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:205744067:por
   label: null
   source: null
 - type: cited_by

@@ -738,6 +738,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:2648223:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:2727523:por
   label: null
   source: null

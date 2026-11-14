@@ -198,6 +198,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:207483488:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:73943620:por
   label: null
   source: null
@@ -211,6 +215,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:895287958:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:907742765:por
   label: null
   source: null
 - type: cited_by

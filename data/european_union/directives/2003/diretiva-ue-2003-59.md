@@ -284,6 +284,14 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/9a46264c-c2c5-4229-965d-89827cdc36f6
   date: '1976-12-29'
 - type: transposed_by
+  target: pt:dre:1019056:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:1019882:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:147533136:por
   label: null
   source: null

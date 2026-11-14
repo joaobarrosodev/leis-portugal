@@ -113,6 +113,14 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/174102e5-dc58-4345-acbf-207151885f81
   date: '1986-02-28'
 - type: cited_by
+  target: pt:dre:1339245:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1339246:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:293320:por
   label: null
   source: null

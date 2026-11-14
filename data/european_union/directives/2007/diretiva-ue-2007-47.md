@@ -185,6 +185,18 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/83bdc18f-315d-11e7-9412-01aa75ed71a1
   date: '2017-05-05'
 - type: transposed_by
+  target: pt:dre:1339244:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:1339245:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:1339246:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:201773286:por
   label: null
   source: null

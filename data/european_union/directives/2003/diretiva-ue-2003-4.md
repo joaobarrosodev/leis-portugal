@@ -220,6 +220,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/adc195c3-5384-4ea5-9875-9741b33c665b
   date: '1990-06-23'
 - type: transposed_by
+  target: pt:dre:1167944781:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:126870454:por
   label: null
   source: null

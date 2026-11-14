@@ -114,6 +114,14 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/6af3ed69-c00a-4629-9deb-a7003a30a52d
   date: '2001-11-30'
 - type: transposed_by
+  target: pt:dre:2508848:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:2604732:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:517789:por
   label: null
   source: null

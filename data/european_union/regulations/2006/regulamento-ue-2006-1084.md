@@ -84,6 +84,26 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/2063c49c-6da4-4719-9f55-5093ff1899a8
   date: '2003-02-11'
+- type: cited_by
+  target: pt:dre:1737769:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2430330:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2534381:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:899719:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:924991:por
+  label: null
+  source: null
 - type: cites
   target: celex:31996D1692
   label: null

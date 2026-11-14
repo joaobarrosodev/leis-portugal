@@ -108,6 +108,30 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/e9f8d476-68b1-463e-b1c7-6eca39f49e24
   date: '2016-06-09'
+- type: cited_by
+  target: pt:dre:206105544:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:206105545:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:835808123:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:901971919:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:925769511:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:993807519:por
+  label: null
+  source: null
 - type: cites
   target: celex:12016E036
   label: null

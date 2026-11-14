@@ -101,6 +101,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/7a29eaff-0218-4a50-8002-8b1726d04bdc
   date: '2007-01-31'
+- type: cited_by
+  target: pt:dre:1752179:por
+  label: null
+  source: null
 - type: cites
   target: celex:31989D0382
   label: null

@@ -500,7 +500,15 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:215269523:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:216055970:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:222514928:por
   label: null
   source: null
 - type: cited_by

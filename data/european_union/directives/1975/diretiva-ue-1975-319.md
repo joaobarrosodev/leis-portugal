@@ -110,7 +110,79 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/51fd33b3-06d4-4283-b44e-6027f3f4b82f
   date: '1957-03-25'
 - type: cited_by
+  target: pt:dre:1150469:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1217122:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1264672:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1264673:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1264674:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1264775:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1264776:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:143325:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1649663:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1670621:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1722026:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1869716:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2268981:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2268982:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2268984:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2291331:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2380784:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2509149:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2518888:por
   label: null
   source: null
 - type: cited_by
@@ -131,6 +203,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:621764:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:862282:por
   label: null
   source: null
 - type: cites

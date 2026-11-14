@@ -552,6 +552,26 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:181065826:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:181065827:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:185156441:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:200134029:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:201153573:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:204552592:por
   label: null
   source: null

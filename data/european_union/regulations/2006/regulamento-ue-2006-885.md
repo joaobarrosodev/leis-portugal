@@ -220,6 +220,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:2648223:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:278913:por
   label: null
   source: null

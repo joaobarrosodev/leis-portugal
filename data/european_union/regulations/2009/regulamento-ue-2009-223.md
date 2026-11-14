@@ -98,6 +98,18 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/7a29eaff-0218-4a50-8002-8b1726d04bdc
   date: '2007-01-31'
+- type: cited_by
+  target: pt:dre:206105545:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:853818188:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:924050223:por
+  label: null
+  source: null
 - type: cites
   target: celex:31995L0046
   label: null

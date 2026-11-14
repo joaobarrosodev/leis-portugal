@@ -80,6 +80,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/f709b117-368d-4e6f-82a2-0834af9a4e3c
   date: '2004-07-13'
+- type: cited_by
+  target: pt:dre:862750999:por
+  label: null
+  source: null
 - type: cites
   target: celex:32010R1158
   label: null

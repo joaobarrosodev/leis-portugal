@@ -123,6 +123,14 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/174102e5-dc58-4345-acbf-207151885f81
   date: '1986-02-28'
 - type: cited_by
+  target: pt:dre:1339245:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1339246:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:197909:por
   label: null
   source: null
@@ -339,6 +347,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/279843ff-f020-414c-9d85-86b28adb6255
   date: '1976-09-27'
+- type: transposed_by
+  target: pt:dre:1100884:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 22

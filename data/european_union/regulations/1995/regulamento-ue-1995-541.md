@@ -115,6 +115,22 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/8f32cba4-c8fd-4e93-bcc0-5e855d63bda4
   date: '1981-11-06'
 - type: cited_by
+  target: pt:dre:1416331:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1416332:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2590781:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:2590782:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:344944:por
   label: null
   source: null

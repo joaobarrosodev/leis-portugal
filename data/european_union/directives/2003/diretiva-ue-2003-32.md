@@ -145,6 +145,14 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/13ac0254-4e7f-41e0-9549-2ed1602dc869
   date: '1993-07-12'
 - type: cited_by
+  target: pt:dre:1339245:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1339246:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:261504:por
   label: null
   source: null

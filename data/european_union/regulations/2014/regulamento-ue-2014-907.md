@@ -185,11 +185,23 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:185704351:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:222146598:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:66936945:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:874326634:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:893148126:por
   label: null
   source: null
 - type: cites

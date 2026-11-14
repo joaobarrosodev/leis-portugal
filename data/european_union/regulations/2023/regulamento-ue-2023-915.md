@@ -148,6 +148,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/928b6e8f-0a41-449b-a8fd-b514d78b2d31
   date: '1993-02-13'
+- type: cited_by
+  target: pt:dre:868696771:por
+  label: null
+  source: null
 - type: cites
   target: celex:32002R0178
   label: null

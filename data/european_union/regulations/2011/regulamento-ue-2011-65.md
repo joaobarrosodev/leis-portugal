@@ -123,6 +123,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/66e23393-08dd-4716-8fc9-141694e60ca6
   date: '2010-03-08'
 - type: cited_by
+  target: pt:dre:1706586:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:176364:por
   label: null
   source: null

@@ -388,6 +388,10 @@ relationships:
   target: pt:dre:202849025:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:207600250:por
+  label: null
+  source: null
 - type: cites
   target: celex:12016E218
   label: null
