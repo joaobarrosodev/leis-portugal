@@ -48,7 +48,7 @@ Quatro lacunas nos dados impedem os 95%; a primeira é a maior.
 | Alterados sem consolidação | 27.086 diplomas em vigor (2.139 com 10 ou mais citações no acervo) | O sistema cita texto que já não é lei |
 | Sem identificadores por artigo | ~247 mil de 282 mil diplomas | Sem artigo não há citação precisa nem verificação |
 | Vigência desconhecida | 109.044 diplomas | Não se sabe se a norma ainda se aplica |
-| Datas de entrada em vigor | Vazias em todos os diplomas portugueses | Perguntas sobre uma data concreta não têm resposta fiável |
+| Datas de entrada em vigor | Vazias em todos os diplomas portugueses quando este plano foi escrito; desde a fase 3, 37,6 % dos com texto têm data (14,0 % pela cláusula, 23,6 % pela regra supletiva) e 60,6 % ficam sem nada (`reports/estrutura.md`, 13/11/2026) | Perguntas sobre uma data concreta não têm resposta fiável |
 
 Há ainda ~70 mil registos só com PDF (sobretudo 1910–1959) e as relações de alteração podem ter falhas: um diploma "nunca alterado" só o é se o DRE tiver registado todas as alterações.
 

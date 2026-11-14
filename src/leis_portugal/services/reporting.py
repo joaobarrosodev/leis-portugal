@@ -245,8 +245,12 @@ def _coverage_markdown(coverage: dict[str, Any], source_status: dict[str, Any], 
         "- O Jornal Oficial dos Açores entra pelo catálogo que o DRE guarda; muitas entradas têm só os metadados (sem texto nem PDF).",
         "- 2.ª Série: estão no acervo os documentos já recolhidos; despachos, avisos, editais e deliberações são contados nos"
         " sitemaps do DRE mas só recolhidos a pedido (`collect dre --missing --all`).",
-        "- Vigência: o DRE não indica o estado de vigência de muitos diplomas (`legal_status: unknown`); não é inferido.",
-        "- Datas de entrada em vigor dos diplomas portugueses ainda não são preenchidas (`entry_into_force_dates`).",
+        "- Vigência: o DRE não indica o estado de vigência de muitos diplomas (`legal_status: unknown`). Uma revogação lida no texto"
+        " de outro diploma só muda o estado depois de verificada à mão (`reports/vigencia-manual.jsonl`); as outras ficam como"
+        " propostas (`reports/vigencia-proposta.jsonl`).",
+        "- Datas de entrada em vigor (`entry_into_force`): lidas na cláusula do próprio diploma ou, sem cláusula, dadas pela regra"
+        " supletiva da lei formulário (só 1.ª Série nacional, desde 30/07/1983); nos outros ficam vazias. A cobertura está em"
+        " `reports/estrutura.md`.",
         "- Atos da UE: recolhidos os publicados no JO nos intervalos executados e os referidos por documentos do acervo; não é o"
         " acervo completo do EUR-Lex. Referências entre atos da UE a atos não recolhidos ficam por resolver no índice de relações.",
         "- As transposições de diretivas são detetadas no texto português (\"transpõe…\") e podem ter falsos negativos.",

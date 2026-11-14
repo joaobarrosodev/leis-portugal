@@ -30,6 +30,10 @@ Os IDs têm falhas onde uma pergunta saiu do conjunto (`rev-004`, `lit-231`, `tm
 
 As novas foram tiradas com outras sementes de `amostra.py` (20261028 a 20261031), sem repetir diplomas do piloto. Ficaram de fora os diplomas que já caducaram na prática (os que "vigoram até" uma data passada), os anexos de republicação, os artigos só de alteração de outro diploma e os de entrada em vigor.
 
+## Revisão por jurista (protocolo, 14/11/2026)
+
+Tudo o que está aqui foi verificado por modelos. O protocolo da primeira revisão por um jurista está em [`juristas/`](juristas/README.md): cerca de 160 respostas do protótipo, incluindo recusas e respostas que os juízes deram como erradas, e 150 artigos consolidados pelo `leis-portugal`. Tem um pacote de leitura com o texto integral dos artigos, uma folha para o veredicto e a causa, e a concordância com os juízes. O `juristas.py` tira as amostras e faz as contas. Ainda não há resultados.
+
 ## Perguntas sobre direito da UE (12/11/2026)
 
 `perguntas-ue.jsonl`: 167 perguntas com `ambito: "ue"` e ids `ue-lit-`, `ue-rev-` e `ue-sem-`, com os tipos de sempre (`literal`, `revogada`, `sem_resposta`). Candidatos de `amostra.py --ue --semente 20261112` (e `20261113` para os substitutos): artigos de atos da UE em vigor, consolidados ou nunca alterados, sem os artigos finais (entrada em vigor, aplicação, destinatários). Geração por subagentes Opus com as regras de `ue/REGRAS-geracao.md`; verificação literal (167 de 167); verificação às cegas por Sonnet (`ue/REGRAS-verificacao.md`, `verificacao/entrada-ue.jsonl` e `respostas-b-ue.jsonl`): 136 confirmadas automaticamente e as outras 31 revistas à mão (19 revogadas em que B não sabia da revogação, que vem dos metadados do CELLAR e não do texto; 5 com as mesmas respostas por outras palavras; 7 em que o artigo remete para um anexo ou outro ato mas a resposta está no texto). Das 243 escritas, 76 sobre a data de entrada em vigor ou de aplicação foram retiradas por serem triviais. Medição em `rag/README.md`, "Direito da União Europeia".

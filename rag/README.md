@@ -179,7 +179,7 @@ O que isto diz, sem arredondar a favor:
 - **Compostas (75%).** As 19 falhas são respostas incompletas: a pergunta pede dois artigos e um deles não chega ao contexto do LLM.
 - **Reais: 95% mas com 36% de "não sei".** Nas 281 reais, o artigo certo está em 1.º em 42% e nos 10 primeiros em 77%, bem abaixo das 136 afinadas (58%/86%): as 136 estavam inflacionadas por afinação.
 - **O juiz sem referência é demasiado brando** (deu 99% de corretas onde os outros apanharam erros); só vale como controlo, e o veredicto exige que os quatro concordem.
-- Os juízes são todos o mesmo modelo: falta a revisão de um jurista numa amostra.
+- Os juízes são todos o mesmo modelo: falta a revisão de um jurista numa amostra (protocolo em [`avaliacao/juristas/`](../avaliacao/juristas/README.md), ainda sem resultados).
 
 **Modo estrito** (05/11/2026, mesmas 530 perguntas, respostas já julgadas, medido e não simulado): o sistema recusa quando o artigo citado traz o aviso "Texto original; alterado por…" ou quando a própria resposta diz que a norma não está nos artigos dados.
 
