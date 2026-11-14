@@ -124,10 +124,6 @@ relationships:
   target: pt:dre:66581992:por
   label: null
   source: http://data.dre.pt/eli/lei/16/2015/02/24/p/dre
-- type: cites
-  target: pt:dre:864224972:por
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/32/2024/05/10/p/dre
 article_structure:
   article_count: 55
   section_count: 8
@@ -383,7 +379,7 @@ Imóveis
 | Antigo Posto Fiscal de São Jacinto | S. Jacinto | Rua 25 de abril, 3800-901 São Jacinto | Aveiro | Aveiro | S. Jacinto | U-175.º | 3165 (Vera Cruz) | MAI/GNR |
 | Casa Florestal do Rocião (D-030) | Mata Nacional das Dunas de Vagos | n/a | Aveiro | Vagos | Santo André de Vagos. | U-486.º | Sem informação | ICNF, I. P. |
 | Casa Florestal de Sul (D-152) | Mata Nacional da Fôja, Estrada dos Cunhas | n/a | Coimbra | Figueira da Foz | Ferreira-a-Nova | U-1304.º | 391 (Santana) | ICNF, I. P. |
-| Casa Florestal das Regalheiras (D-166) | Mata Nacional das Dunas da Costa de Lavos | n/a | Coimbra | Figueira da Foz | Lavos | U-559.º[Decreto-Lei n.º 32/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2024-864224972)-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-left-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-left-style: solid; vertical-align: top;">6647 (Lavos) | ICNF, I. P. |  |
+| Casa Florestal das Regalheiras (D-166) | Mata Nacional das Dunas da Costa de Lavos | n/a | Coimbra | Figueira da Foz | Lavos | U-559.º | 6647 (Lavos) | ICNF, I. P. |
 | Casa da Vela (D-160) | Parque Florestal da Serra da Boa Viagem | n/a | Coimbra | Figueira da Foz | Quiaios | U-2136.º | Sem informação | ICNF, I. P. |
 | Casa Florestal de Sapadores ou Casa Florestal de Nascente ou Casa do Sapador Florestal (D-159) | Parque Florestal da Serra da Boa Viagem | n/a | Coimbra | Figueira da Foz | Quiaios | U-2137.º | Sem informação | ICNF, I. P. |
 | Antigo Posto Fiscal de Quiaios | Murtinheira | Rua da Praia, 3850-514 Murtinheira | Coimbra | Figueira da Foz | Quiaios | U-1557.º | 749 (Quaios) | MAI/GNR |

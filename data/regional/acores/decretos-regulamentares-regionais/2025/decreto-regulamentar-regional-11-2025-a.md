@@ -96,18 +96,6 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/declegreg/6/2022/03/22/a/dre
 - type: cites
-  target: pt:dre:204916688:por
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/84-f/2022/12/16/p/dre
-- type: cites
-  target: pt:dre:211996385:por
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/26-b/2023/04/18/p/dre
-- type: cites
-  target: pt:dre:224615906:por
-  label: null
-  source: http://data.dre.pt/eli/dec-lei/108/2023/11/22/p/dre
-- type: cites
   target: pt:dre:534789:por
   label: null
   source: http://data.dre.pt/eli/declegreg/2/2005/05/09/a/dre
@@ -119,10 +107,6 @@ relationships:
   target: pt:dre:638174:por
   label: null
   source: http://data.dre.pt/eli/declegreg/13/2007/06/05/a/dre
-- type: cites
-  target: pt:dre:836437685:por
-  label: null
-  source: null
 - type: cites
   target: pt:dre:902120311:por
   label: null
@@ -267,7 +251,7 @@ ANEXO II
 | [...] | [...] | [...] |  |
 |  | Direção Regional da Agricultura, Veterinária e Alimentação |  |  |
 |  | Pessoal Dirigente |  |  |
-| [Decreto-Lei n.º 26-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-b-2023-211996385) border-bottom-color: r[Decreto-Lei n.º 108/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2023-224615906)color: rgb(0, 0, 0); border-[Decreto-Lei n.º 13/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2024-836437685)-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-left-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-left-style: solid; vertical-align: top;">[...] | [...] |  |  |
+| [...] | [...] | [...] |  |
 | [...] | [...] | [...] |  |
 | [...] | [...] | [...] |  |
 | [...] | [...] | [...] |  |

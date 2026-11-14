@@ -261,10 +261,6 @@ relationships:
   label: null
   source: null
 - type: cites
-  target: pt:dre:670030:por
-  label: null
-  source: null
-- type: cites
   target: pt:dre:672144:por
   label: null
   source: null
@@ -1857,7 +1853,7 @@ Parâmetros químicos
 
 ## PARTE C — Parâmetros indicadores
 
-| Parâmetro | Valor<br>paramét[Decreto-Lei n.º 83/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2011-670030)t-align:center; border-left-color:Black; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent;color:#000000; font-style:Regular; font-size:6.5; vertical-align:center;">Unidade | Observações |  |
+| Parâmetro | Valor<br>paramétrico | Unidade | Observações |
 | --- | --- | --- | --- |
 |  |  |  |  |
 | Alumínio... | 200 | (mi)g/l Al |  |
