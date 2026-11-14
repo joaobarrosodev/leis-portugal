@@ -253,7 +253,9 @@ class CellarXhtmlMarkdownConverter:
         if article_count == 0:
             # HTML simples dos atos antigos do JO: sem classes, artigos reconhecidos pelo texto.
             plain_lines, plain_articles, plain_sections, plain_title = self._plain_html(soup, source_url)
-            if plain_articles:
+            # Decisões curtas sem artigos: vale o texto simples se a conversão por classes ficou vazia.
+            empty = sum(len(line) for line in lines) < 200
+            if plain_articles or (empty and sum(len(line) for line in plain_lines) > 200):
                 lines, article_count, section_count = plain_lines, plain_articles, plain_sections
                 title_hint = title_hint or plain_title
         markdown = self._compact_blank_lines(lines).strip() + "\n"
@@ -302,16 +304,18 @@ class CellarXhtmlMarkdownConverter:
             return f"*{text}*" if text else ""
         return content
 
-    _PLAIN_ARTICLE = re.compile(r"^Artigo\s+\S+$", re.IGNORECASE)
+    # Também nas outras línguas: os atos sem versão portuguesa vêm em inglês, francês…
+    _PLAIN_ARTICLE = re.compile(r"^(?:Artigo|Article|Artikel|Articolo|Artículo)\s+\S+$", re.IGNORECASE)
     _PLAIN_DIVISIONS = (
-        (re.compile(r"^(PARTE|LIVRO|T[ÍI]TULO|ANEXO)\b", re.IGNORECASE), "##"),
-        (re.compile(r"^CAP[ÍI]TULO\b", re.IGNORECASE), "###"),
-        (re.compile(r"^SEC[ÇC][ÃA]O\b", re.IGNORECASE), "####"),
+        (re.compile(r"^(PARTE|LIVRO|T[ÍI]TULO|ANEXO|PART|TITLE|ANNEX|TITRE|ANNEXE|LIVRE|TEIL|TITEL|ANHANG)\b", re.IGNORECASE), "##"),
+        (re.compile(r"^(CAP[ÍI]TULO|CHAPTER|CHAPITRE|KAPITEL)\b", re.IGNORECASE), "###"),
+        (re.compile(r"^(SEC[ÇC][ÃA]O|SECTION|ABSCHNITT)\b", re.IGNORECASE), "####"),
     )
 
     def _plain_html(self, soup: BeautifulSoup, source_url: str | None) -> tuple[list[str], int, int, str | None]:
         """Conversão por texto para o HTML sem classes dos atos antigos do JO."""
-        body = soup.body or soup
+        # As páginas antigas do EUR-Lex têm o texto em div#TexteOnly; o resto é o cabeçalho do site.
+        body = soup.select_one("div#TexteOnly") or soup.body or soup
         blocks: list[tuple[str, str]] = []
         for element in body.find_all(["p", "table"]):
             # O HTML antigo aninha <p> dentro de <p>: conta só os parágrafos-folha.

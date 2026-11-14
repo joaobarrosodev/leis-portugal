@@ -19,7 +19,8 @@ SCHEMA_VERSION = "1.0"
 # Precedência entre registos do mesmo diploma: um texto consolidado prevalece sobre o
 # texto publicado e, no mesmo tipo de versão, a recolha direta na fonte prevalece sobre
 # o texto da importação inicial (bytes convertidos, `imported_derived_markdown`).
-_KIND_RANK = {"original": 0, "corrigendum": 0, "republication": 1, "consolidated": 2}
+# Uma tradução não oficial (atos da UE sem versão portuguesa) cede a qualquer texto oficial.
+_KIND_RANK = {"translation": -1, "original": 0, "corrigendum": 0, "republication": 1, "consolidated": 2}
 IMPORTED_SCOPE = "imported_derived_markdown"
 SOURCE_GAP_PREFIX = "Fonte sem texto:"
 

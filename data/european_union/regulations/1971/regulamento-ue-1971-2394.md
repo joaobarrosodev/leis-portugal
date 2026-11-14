@@ -1,0 +1,148 @@
+---
+schema_version: '1.0'
+id: eu:celex:31971R2394:por
+title: Regulamento (CEE) n.º 2394/71 do Conselho, de 8 de novembro de 1971, relativo à aplicação da recomendação da Comissão
+  Mista n.º 1/71 que fixa os métodos de cooperação administrativa no domínio aduaneiro para a aplicação do acordo entre a
+  Comunidade Económica Europeia e o Estado de Israel
+short_title: null
+summary: null
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 1971/2394
+official_date: null
+publication_date: '1971-11-10'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 249 de 10.11.1971
+  number: '249'
+  series: null
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/8c18ead0-1e91-4e1d-9a71-5108e376cde8.0001.02/DOC_1
+entry_into_force_dates:
+- '1971-11-13'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes:
+- 'Traduzido do texto em francês publicado no EUR-Lex: https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A31971R2394'
+- 'Sem versão portuguesa no EUR-Lex: ato anterior à adesão de Portugal (1986).'
+- Tradução automática por Claude (claude-sonnet-5-5, subagentes do Claude Code), em 2026-11-14; só o texto original é autêntico.
+language: por
+version:
+  kind: translation
+  label: Tradução não oficial para português europeu do texto em francês (EUR-Lex); sem valor jurídico
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31971R2394
+  eli: http://data.europa.eu/eli/reg/1971/2394/oj
+  oj: null
+  dre: null
+  dre_path: null
+  internal: eu:celex:31971R2394:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A31971R2394
+  metadata_url: http://publications.europa.eu/resource/cellar/8c18ead0-1e91-4e1d-9a71-5108e376cde8.0001
+  content_url: http://publications.europa.eu/resource/cellar/8c18ead0-1e91-4e1d-9a71-5108e376cde8.0001.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-14T10:28:46Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2013-07-13T12:25:42.365+02:00'
+integrity:
+  source_sha256: 8d97e2ff02aab5606711089e40bd8bc110f992467eb864cead5e99e86f2ad2c9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-traducao
+  generated_at: '2026-11-14T10:28:46Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Israel
+- acordo económico
+- acordo internacional
+- cooperação administrativa
+- regulamentação aduaneira
+relationships:
+- type: based_on
+  target: celex:11957E113
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8204c9eb-d7d2-443d-a4c1-e6a7f2089338
+  date: '1957-03-25'
+- type: cites
+  target: celex:21970A0629(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dd61c916-2a73-4868-9fe4-762d8b908dfa
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-14T10:28:46Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CEE) n.º 2394/71 do Conselho, de 8 de novembro de 1971, relativo à aplicação da recomendação da Comissão Mista n.º 1/71 que fixa os métodos de cooperação administrativa no domínio aduaneiro para a aplicação do acordo entre a Comunidade Económica Europeia e o Estado de Israel
+
+> Tradução não oficial para português europeu do texto em francês. Original (autêntico) no EUR-Lex: [31971R2394](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A31971R2394).
+
+Regulamento (CEE) n.º 2394/71 do Conselho
+
+de 8 de novembro de 1971
+
+relativo à aplicação da recomendação da Comissão Mista n.º 1/71 que fixa os métodos de cooperação administrativa no domínio aduaneiro para a aplicação do acordo entre a Comunidade Económica Europeia e o Estado de Israel
+
+O CONSELHO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Económica Europeia, nomeadamente o seu artigo 113.º,
+
+Tendo em conta a proposta da Comissão,
+
+Considerando que um acordo entre a Comunidade Económica Europeia e o Estado de Israel [1] foi assinado em 29 de junho de 1970 e entrou em vigor em 1 de outubro de 1970;
+
+Considerando que, por força do n.º 2 do artigo 16.º do protocolo relativo à definição da noção de "produtos originários" e aos métodos de cooperação administrativa, protocolo que faz parte integrante do referido acordo, a Comissão Mista formulou, em 20 de janeiro de 1971, a recomendação n.º 1/71 que fixa os métodos de cooperação administrativa no domínio aduaneiro para a aplicação do acordo;
+
+Considerando que é necessário aplicar na Comunidade as medidas previstas por essa recomendação,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+No que respeita aos métodos de cooperação administrativa no domínio aduaneiro para a aplicação do acordo entre a Comunidade Económica Europeia e o Estado de Israel, são aplicáveis as disposições previstas pela recomendação da Comissão Mista n.º 1/71, de 20 de janeiro de 1971, anexa ao presente regulamento.
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 8 de novembro de 1971.
+
+Pelo Conselho
+
+O Presidente
+
+A. Moro
+
+[1] JO n.º L 183 de 17.8.1970, p. 1.
+
+--------------------------------------------------

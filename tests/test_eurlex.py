@@ -231,3 +231,30 @@ def test_case_law_celex_is_accepted():
     assert normalize_celex("62017CJ0496") == "62017CJ0496"
     assert parse_celex("62017CJ0496").document_type_code == "CJ"
     assert parse_celex("32016R0679").document_type_code == "R"
+
+
+def test_plain_html_of_old_acts_in_english_without_portuguese():
+    from leis_portugal.sources.eurlex.xhtml import CellarXhtmlMarkdownConverter
+
+    html = """<html><body><div id="banner"><p><a href="../../../editorial/legal_notice.htm">Avis juridique important</a></p></div>
+    <h1>31970D0376</h1><p><strong>70/376/EEC: Council Decision</strong><em>Official Journal L 170</em></p>
+    <div id="TexteOnly"><p><txt_te><p>COUNCIL DECISION of 20 July 1970 on the conclusion of the Protocol</p>
+    <p>THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p><p>Having regard to the Treaty establishing the European Economic Community;</p>
+    <p>HAS DECIDED AS FOLLOWS:</p><p>Article 1</p><p>The Protocol for the Accession of the United Arab Republic to GATT is hereby concluded.</p>
+    <p>Article 2</p><p>The President of the Council shall deposit the instrument.</p></txt_te></p></div></body></html>""".encode()
+    result = CellarXhtmlMarkdownConverter().convert(html)
+    assert result.article_count == 2
+    assert "###### Article 1" in result.markdown
+    assert "Having regard to the Treaty" in result.markdown
+    assert "Official Journal L 170" not in result.markdown and "Avis juridique" not in result.markdown
+
+
+def test_plain_html_without_articles_keeps_the_text():
+    from leis_portugal.sources.eurlex.xhtml import CellarXhtmlMarkdownConverter
+
+    text = "The apparatus described as 'Gilford - Computer-Assisted Analyzer, model System 4' may not be imported free of duties. " * 3
+    html = f"""<html><body><div id="TexteOnly"><p><txt_te><p>COMMISSION DECISION of 4 May 1983</p>
+    <p>{text}</p><p>This Decision is addressed to the Member States.</p></txt_te></p></div></body></html>""".encode()
+    result = CellarXhtmlMarkdownConverter().convert(html)
+    assert "may not be imported free of duties" in result.markdown
+    assert "This Decision is addressed to the Member States." in result.markdown

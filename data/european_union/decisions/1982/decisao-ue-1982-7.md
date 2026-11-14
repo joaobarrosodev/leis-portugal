@@ -1,0 +1,159 @@
+---
+schema_version: '1.0'
+id: eu:celex:31982D0007:por
+title: '82/7/CEE: Decisão da Comissão, de 9 de dezembro de 1981, relativa à execução da reforma das estruturas agrícolas na
+  Irlanda, nos termos da Diretiva 72/159/CEE do Conselho (Apenas faz fé o texto em língua inglesa)'
+short_title: null
+summary: null
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1982/7
+official_date: null
+publication_date: '1982-01-09'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 5 de 9.1.1982
+  number: '5'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/25bbbb30-1b93-41cd-8d75-e530399cbbfa.0006.02/DOC_1
+entry_into_force_dates:
+- '1982-01-09'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes:
+- 'Traduzido do texto em inglês publicado no EUR-Lex: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A31982D0007'
+- 'Sem versão portuguesa no EUR-Lex: ato anterior à adesão de Portugal (1986).'
+- Tradução automática por Claude (claude-sonnet-5-5, subagentes do Claude Code), em 2026-11-14; só o texto original é autêntico.
+language: por
+version:
+  kind: translation
+  label: Tradução não oficial para português europeu do texto em inglês (EUR-Lex); sem valor jurídico
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31982D0007
+  eli: http://data.europa.eu/eli/dec/1982/7/oj
+  oj: oj:JOL_1982_005_R_0018_017
+  dre: null
+  dre_path: null
+  internal: eu:celex:31982D0007:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A31982D0007
+  metadata_url: http://publications.europa.eu/resource/cellar/25bbbb30-1b93-41cd-8d75-e530399cbbfa.0006
+  content_url: http://publications.europa.eu/resource/cellar/25bbbb30-1b93-41cd-8d75-e530399cbbfa.0006.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-14T10:31:36Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-21T19:20:21.534+02:00'
+integrity:
+  source_sha256: d14180a7c2a01d61bd0c1933c34d65baaa4de38b37171195f113eedf91f00633
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-traducao
+  generated_at: '2026-11-14T10:31:36Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- FEOGA orientação
+- Irlanda
+- auxílio estatal
+- modernização da exploração agrícola
+- plano de desenvolvimento agrícola
+- reforma agrária
+relationships:
+- type: based_on
+  target: celex:31972L0159
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c9c0e382-b55c-4bd5-9a02-d616e80eb4b1
+  date: '1972-04-23'
+- type: based_on
+  target: celex:31981D0598
+  label: null
+  source: http://publications.europa.eu/resource/cellar/61865e5f-6b10-4ffd-b8bf-3292f0cbc17c
+  date: '1981-08-06'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-14T10:31:36Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# 82/7/CEE: Decisão da Comissão, de 9 de dezembro de 1981, relativa à execução da reforma das estruturas agrícolas na Irlanda, nos termos da Diretiva 72/159/CEE do Conselho (Apenas faz fé o texto em língua inglesa)
+
+> Tradução não oficial para português europeu do texto em inglês. Original (autêntico) no EUR-Lex: [31982D0007](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A31982D0007).
+
+*****
+
+DECISÃO DA COMISSÃO
+
+de 9 de dezembro de 1981
+
+relativa à execução da reforma das estruturas agrícolas na Irlanda, nos termos da Diretiva 72/159/CEE do Conselho
+
+(Apenas faz fé o texto em língua inglesa)
+
+(82/7/CEE)
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Económica Europeia,
+
+Tendo em conta a Diretiva 72/159/CEE do Conselho, de 17 de abril de 1972, relativa à modernização das explorações agrícolas (1), com a última redação que lhe foi dada pela Diretiva 81/528/CEE (2), e nomeadamente o n.º 3 do seu artigo 18.º,
+
+Tendo em conta a Decisão 81/598/CEE do Conselho, de 27 de julho de 1981, relativa ao nível da bonificação de juros prevista pela Diretiva 72/159/CEE relativa à modernização das explorações agrícolas, a aplicar na Irlanda (3), e nomeadamente o n.º 1 do seu artigo 4.º,
+
+Considerando que, em 7 de outubro de 1981, o Governo irlandês transmitiu, nos termos do n.º 4 do artigo 17.º da Diretiva 72/159/CEE, o regime de concessão de uma bonificação de juros a determinadas categorias de agricultores;
+
+Considerando que o n.º 3 do artigo 18.º da Diretiva 72/159/CEE exige que a Comissão determine se, tendo em conta a comunicação acima referida, as disposições existentes na Irlanda para a execução da referida diretiva continuam a satisfazer as condições para a participação financeira da Comunidade em ações comuns, na aceção do artigo 15.º da mesma;
+
+Considerando que o regime acima referido de concessão de uma bonificação de juros a determinadas categorias de agricultores satisfaz os requisitos da Diretiva 72/159/CEE e da Decisão 81/598/CEE;
+
+Considerando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente das Estruturas Agrícolas,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+Tendo em conta o regime de concessão de uma bonificação de juros a determinadas categorias de agricultores, transmitido em 7 de outubro de 1981, as disposições existentes na Irlanda para a execução da Diretiva 72/159/CEE continuam a satisfazer as condições para a participação financeira da Comunidade em ações comuns, na aceção do artigo 15.º da Diretiva 72/159/CEE.
+
+###### Artigo 2.º
+
+A Irlanda é a destinatária da presente decisão.
+
+Feito em Bruxelas, em 9 de dezembro de 1981.
+
+Pela Comissão
+
+Poul DALSAGER
+
+Membro da Comissão
+
+(1) JO n.º L 96 de 23. 4. 1972, p. 1.
+
+(2) JO n.º L 197 de 20. 7. 1981, p. 41.
+
+(3) JO n.º L 220 de 6. 8. 1981, p. 27.

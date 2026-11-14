@@ -479,14 +479,18 @@ Os PDF são sobretudo digitalizações de 1910 a 1959, sem texto que se possa pe
 
 **Direito da União Europeia, face ao CELLAR.** A lista dos atos em vigor é a do CELLAR de 11/11/2026: regulamentos, diretivas e decisões com CELEX `3AAAA[RLD]NNNN` e `resource_legal_in-force` verdadeiro.
 
-| Atos da UE em vigor | No repositório | Na UE | % |
-|---|--:|--:|--:|
-| Regulamentos | 16.240 | 16.325 | **99,5 %** |
-| Diretivas | 1.284 | 1.306 | **98,3 %** |
-| Decisões | 15.438 | 16.579 | **93,1 %** |
-| **Total** | **32.962** | **34.210** | **96,4 %** |
+| Atos da UE em vigor | Com versão portuguesa oficial | Em tradução não oficial | Na UE | % no repositório |
+|---|--:|--:|--:|--:|
+| Regulamentos | 16.240 | 78 | 16.325 | **99,96 %** |
+| Diretivas | 1.284 | 14 | 1.306 | **99,4 %** |
+| Decisões | 15.438 | 1.126 | 16.579 | **99,9 %** |
+| **Total** | **32.962** | **1.218** | **34.210** | **99,9 %** |
 
-Dos 1.248 que faltam, 1.241 não têm versão em português no EUR-Lex (1.237 anteriores a 1986, ano da adesão de Portugal), 3 não têm XHTML nem HTML e 4 são decisões cujo número oficial coincide com o de outra já gravada, que o repositório recusa sobrepor (`reports/eurlex_em_vigor_failures.jsonl`). Contando os que já não estão em vigor, o repositório tem cerca de 54 mil atos da UE.
+Com versão portuguesa oficial há 32.962 (96,4 %). Os **1.218 que o EUR-Lex não tem em português** estão no repositório numa **tradução não oficial para português europeu** (14/11/2026), feita a partir do texto em inglês (1.140), em francês (77) ou em irlandês (1, a Decisão 2015/1890, só publicada nessa língua). Quase todos (1.214) são anteriores a 1986, o ano da adesão de Portugal, e dirigidos a outros Estados ou a empresas concretas (auxílios de Estado, isenção de direitos para aparelhos científicos, processos de concorrência, estruturas agrícolas de outras regiões); os 4 posteriores são decisões do BCE sobre sistemas de pagamento, só em inglês. O EUR-Lex conta-os em vigor porque nunca foram revogados.
+
+Cada tradução está marcada no próprio registo: `version.kind: translation`, o rótulo «Tradução não oficial para português europeu do texto em inglês (EUR-Lex); sem valor jurídico», uma nota «Traduzido do texto em inglês publicado no EUR-Lex: <ligação ao ato em inglês>», a ligação ao original autêntico no topo do texto, e quem traduziu e quando. Se o EUR-Lex vier a publicar a versão portuguesa oficial, a recolha normal substitui a tradução (`collect eurlex-sem-pt` prepara os originais; `collect eurlex-traducao` grava as traduções). A tradução foi feita por subagentes do Claude (`claude-sonnet`), por lotes, com regras da terminologia do Jornal Oficial em português (`Considerando que`, `ADOTOU A PRESENTE DECISÃO`, `Estado-Membro`, `Regulamento (CEE) n.º`). Medição às cegas: outro modelo comparou 40 traduções ao acaso com o original, frase a frase. **37 de 40 sem nenhum erro grave**; os 3 erros graves (uma qualificação acrescentada, uma palavra omitida, um número com o separador trocado) foram corrigidos; houve 39 reparos menores de terminologia ou estilo em 40 atos («Decreto Real» por «Decreto Régio», «vidro fundido» por «vidro vazado»). Só o texto original faz fé.
+
+Faltam 30: 3 sem texto em nenhuma forma no CELLAR e 4 decisões cujo número oficial coincide com o de outra já gravada, que o repositório recusa sobrepor (`reports/eurlex_em_vigor_failures.jsonl`); os outros 23 são a diferença entre a lista do CELLAR de 11/11/2026 e o relatório de falhas, por verificar. Contando os que já não estão em vigor, o repositório tem cerca de 55 mil atos da UE.
 
 **Decisões fora da legislação** (13/11/2026; coleções separadas em `data/entidades/` e `data/jurisprudencia/`, que não entram nos números acima):
 

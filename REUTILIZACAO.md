@@ -34,6 +34,7 @@ Inclui o catálogo do Jornal Oficial dos Açores que o DRE guarda.
 - **Base:** o [aviso jurídico do EUR-Lex](https://eur-lex.europa.eu/content/legal-notice/legal-notice.html), que permite a reutilização com indicação da fonte.
 - **Atribuição:** "União Europeia, EUR-Lex / Publicações da União Europeia".
 - **Atenção:** só os textos publicados no Jornal Oficial da União Europeia fazem fé. As versões consolidadas são instrumentos de documentação sem valor jurídico. Não apresente material editorial como texto oficial.
+- **Traduções não oficiais:** os 1.218 atos em vigor que o EUR-Lex não tem em português estão traduzidos para português europeu pelo leis-portugal (`version.kind: translation`). São obra derivada dos textos do EUR-Lex, cuja reutilização a [Decisão 2011/833/UE](https://eur-lex.europa.eu/eli/dec/2011/833/oj) permite com indicação da fonte e das alterações: cada registo diz que é uma tradução, de que língua, e liga ao original autêntico no EUR-Lex. Não têm valor jurídico e não devem ser apresentadas como texto oficial.
 
 ### Comissão Nacional de Proteção de Dados (CNPD)
 

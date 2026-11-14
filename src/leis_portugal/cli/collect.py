@@ -1,4 +1,4 @@
-"""collect dre | eurlex | dre-consolidated | cnpd | tc"""
+"""collect dre | eurlex | eurlex-sem-pt | eurlex-traducao | dre-consolidated | cnpd | tc"""
 
 from __future__ import annotations
 
@@ -9,6 +9,7 @@ from datetime import date
 from leis_portugal.cli.output import acervo, progress, write_failures
 from leis_portugal.infrastructure.repository import ENTITIES_SCOPE
 from leis_portugal.infrastructure.sitemap_cache import CachedSitemapClient
+from leis_portugal.services import eu_translation
 from leis_portugal.services.coverage import TypeCoverage, sitemap_coverage, write_coverage
 from leis_portugal.services.decisions import CnpdIngestion, DecisionRunSummary, TcIngestion, ids_without_text
 from leis_portugal.services.dre import DreIngestion, imported_references
@@ -65,6 +66,21 @@ def register(commands) -> None:
     eurlex.add_argument("--no-consolidated", action="store_true", help="Usar sempre o texto do JO, mesmo que exista versão consolidada.")
     eurlex.add_argument("--language", default="por", help="Língua da expressão CELLAR (por omissão: por).")
     eurlex.set_defaults(handler=collect_eurlex)
+
+    without_pt = sources.add_parser(
+        "eurlex-sem-pt",
+        help="Descarregar noutra língua (inglês, francês…) os atos da UE em vigor sem versão portuguesa, para tradução.",
+    )
+    without_pt.add_argument("--celex", action="append", default=None, help="CELEX (repetível); por omissão, os 'sem_texto_na_fonte' de reports/eurlex_em_vigor_failures.jsonl.")
+    without_pt.add_argument("--workers", type=int, default=4, help="Sessões CELLAR em paralelo (por omissão: 4).")
+    without_pt.set_defaults(handler=collect_eurlex_without_pt)
+
+    translation = sources.add_parser(
+        "eurlex-traducao",
+        help="Gravar no acervo as traduções PT-PT (.cache/ue-traduzir/<CELEX>.pt.md) dos atos da UE sem versão portuguesa.",
+    )
+    translation.add_argument("--tradutor", required=True, help="Quem traduziu, para a nota do registo (p. ex. 'Claude (claude-sonnet-5-5)').")
+    translation.set_defaults(handler=collect_eurlex_translation)
 
     eu_history = sources.add_parser(
         "eurlex-consolidated", help="Histórico de versões consolidadas dos atos da UE já presentes no acervo (EUR-Lex)."
@@ -275,6 +291,32 @@ def collect_eurlex(args) -> int:
     for failure in summary.failures:
         print(f"Falha: {failure['celex']}: {failure['error']}", file=sys.stderr)
     return 1 if summary.failures and not summary.results else 0
+
+
+def collect_eurlex_without_pt(args) -> int:
+    repository = acervo(args)
+    celex_list = args.celex or eu_translation.pending_celex(repository.root)
+    progress(f"{len(celex_list)} ato(s) da UE sem versão portuguesa a preparar")
+    summary = eu_translation.prepare(
+        celex_list, repository.root / eu_translation.CACHE, workers=args.workers, progress=progress
+    )
+    languages = ", ".join(f"{eu_translation.LANGUAGES[k][0]}: {n}" for k, n in sorted(summary.prepared.items()))
+    print(
+        f"Preparados: {sum(summary.prepared.values())} ({languages or '—'}); já na cache: {summary.skipped}; "
+        f"só em PDF: {len(summary.only_pdf)}; falhas: {len(summary.failures)}"
+    )
+    write_failures(repository.root / "reports" / "eurlex_sem_pt_failures.jsonl", summary.failures, sort_key="celex")
+    return 1 if summary.failures and not summary.prepared else 0
+
+
+def collect_eurlex_translation(args) -> int:
+    repository = acervo(args)
+    summary = eu_translation.assemble(repository, repository.root / eu_translation.CACHE, translator=args.tradutor, progress=progress)
+    print(
+        f"Traduções gravadas: {summary.written}; inalteradas: {summary.unchanged}; ainda por traduzir: {len(summary.missing)}; "
+        f"falhas: {len(summary.failures)}"
+    )
+    return 1 if summary.failures else 0
 
 
 def collect_consolidated(args) -> int:

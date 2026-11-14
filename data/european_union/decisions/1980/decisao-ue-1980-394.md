@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: eu:celex:31980D0394:por
+title: '80/394/CEE: Decisão da Comissão, de 20 de março de 1980, relativa à execução, nos termos da Diretiva 72/159/CEE, da
+  reforma das estruturas agrícolas no Reino dos Países Baixos (Apenas faz fé o texto em língua neerlandesa)'
+short_title: null
+summary: null
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1980/394
+official_date: null
+publication_date: '1980-04-15'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 97 de 15.4.1980
+  number: '97'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/4f6a50c9-3b0b-485d-a748-4c14a39c8304.0006.02/DOC_1
+entry_into_force_dates:
+- '1002-02-02'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes:
+- 'Traduzido do texto em inglês publicado no EUR-Lex: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A31980D0394'
+- 'Sem versão portuguesa no EUR-Lex: ato anterior à adesão de Portugal (1986).'
+- Tradução automática por Claude (claude-sonnet-5-5, subagentes do Claude Code), em 2026-11-14; só o texto original é autêntico.
+language: por
+version:
+  kind: translation
+  label: Tradução não oficial para português europeu do texto em inglês (EUR-Lex); sem valor jurídico
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31980D0394
+  eli: http://data.europa.eu/eli/dec/1980/394/oj
+  oj: oj:JOL_1980_097_R_0043_032
+  dre: null
+  dre_path: null
+  internal: eu:celex:31980D0394:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A31980D0394
+  metadata_url: http://publications.europa.eu/resource/cellar/4f6a50c9-3b0b-485d-a748-4c14a39c8304.0006
+  content_url: http://publications.europa.eu/resource/cellar/4f6a50c9-3b0b-485d-a748-4c14a39c8304.0006.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-14T10:30:31Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-21T06:59:16.913+02:00'
+integrity:
+  source_sha256: e26d39b86fcdc1e6d13c19ad790322ed2e42fa083c0bbd552a49c9bf4b811970
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-traducao
+  generated_at: '2026-11-14T10:30:31Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- FEOGA orientação
+- Países Baixos
+- auxílio estatal
+- modernização da exploração agrícola
+- plano de desenvolvimento agrícola
+- reforma agrária
+relationships:
+- type: based_on
+  target: celex:31972L0159
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c9c0e382-b55c-4bd5-9a02-d616e80eb4b1
+  date: '1972-04-23'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-14T10:30:31Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# 80/394/CEE: Decisão da Comissão, de 20 de março de 1980, relativa à execução, nos termos da Diretiva 72/159/CEE, da reforma das estruturas agrícolas no Reino dos Países Baixos (Apenas faz fé o texto em língua neerlandesa)
+
+> Tradução não oficial para português europeu do texto em inglês. Original (autêntico) no EUR-Lex: [31980D0394](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A31980D0394).
+
+DECISÃO DA COMISSÃO, de 20 de março de 1980, relativa à execução, nos termos da Diretiva 72/159/CEE, da reforma das estruturas agrícolas no Reino dos Países Baixos (Apenas faz fé o texto em língua neerlandesa) (80/394/CEE)
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Económica Europeia,
+
+Tendo em conta a Diretiva 72/159/CEE do Conselho, de 17 de abril de 1972, relativa à modernização das explorações agrícolas (1), e nomeadamente o n.º 3 do seu artigo 18.º,
+
+Considerando que, em 22 de janeiro de 1980, o Governo dos Países Baixos notificou, nos termos do n.º 4 do artigo 17.º da referida diretiva, a sua nova fixação do rendimento de referência para 1980, na aceção do artigo 4.º da mesma;
+
+Considerando que o n.º 3 do artigo 18.º da diretiva exige que a Comissão verifique se, tendo em conta a comunicação acima referida, as disposições existentes nos Países Baixos para a execução da diretiva continuam a satisfazer as condições para a participação financeira da Comunidade nas ações comuns, na aceção do artigo 15.º da mesma;
+
+Considerando que a fixação do rendimento de referência para 1980 satisfaz as exigências da diretiva, em especial do n.º 1 do seu artigo 4.º;
+
+Considerando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente das Estruturas Agrícolas,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+Tendo em conta a fixação do rendimento de referência para 1980, as disposições de execução da Diretiva 72/159/CEE nos Países Baixos continuam a satisfazer as condições para a participação financeira da Comunidade nas ações comuns, na aceção do artigo 15.º da mesma.
+
+###### Artigo 2.º
+
+O Reino dos Países Baixos é o destinatário da presente decisão.
+
+Feito em Bruxelas, em 20 de março de 1980.
+
+Pela Comissão
+
+Finn GUNDELACH
+
+Vice-Presidente (1)JO n.º L 96 de 23.4.1972, p. 1.

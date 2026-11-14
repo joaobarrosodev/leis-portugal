@@ -463,6 +463,10 @@ Por ordem de ganho esperado:
 4. **Trocar `fontes.ler_artigos` pelo parser da fase 3** e reconstruir o índice (5 min); medir outra vez.
 5. **Velocidade**: o reranker leva 7 a 8 s por pergunta em CPU; para uso real, um reranker mais pequeno, menos candidatos ou GPU.
 
+### Atos da UE em tradução não oficial (14/11/2026)
+
+Os 1.218 atos da UE em vigor sem versão portuguesa estão no acervo em tradução não oficial (`version.kind: translation`, `language: por`). Entram no índice na próxima reconstrução, como os outros atos da UE. Falta: a resposta mostrar o `version.label` («Tradução não oficial … sem valor jurídico») quando cita um destes atos, e decidir se ficam no índice, porque quase todos são decisões antigas dirigidas a outros Estados e podem aparecer em perguntas gerais sobre agricultura ou alfândegas.
+
 ### Jurisprudência (estado em 12/11/2026)
 
 1. **Acórdãos do TC de 1983 a 2015.** Recolhidos e no main (12/11/2026): 29.392 dos 29.405 acórdãos de 1983 a 2026; os 13 que faltam são lacunas do site, com o motivo em `reports/tc_failures.jsonl` (o 652/2021 incluído). O `normas-julgadas.jsonl` foi refeito com todos os anos (13/11/2026): 5.773 alíneas, 371 declarações com força obrigatória geral (eram 64). Medido às cegas antes de 2016: 78 % de precisão e 82 % de cobertura das normas (90 % e 88 % em 2016–2026); números e erros no README, em "Normas julgadas pelo Tribunal Constitucional". Falta:
