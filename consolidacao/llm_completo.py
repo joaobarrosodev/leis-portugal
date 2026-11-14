@@ -51,13 +51,13 @@ import re
 from dataclasses import asdict
 from pathlib import Path
 
+import texto as texto_mod
 from aplicar import _NOMES, Registo
 from cegas import VERIFICACAO, _texto_alterador
 from consolidar import PILOTO, _markdown, processar
 from juntar import METODO, _aplicar_resposta
 from llm import ESQUEMA
 from llm import _alteradores as _alteradores_da_selecao
-import texto as texto_mod
 from texto import RAIZ, Artigo, front_matter, publicado
 from texto import alterador as texto_do_alterador
 from verificar import _REVOGADO, _plano
@@ -171,6 +171,133 @@ def verificar_resposta(resultado: dict, selecao: dict, textos_atuais: list[str] 
         if not (vem_de_algum(_plano(texto)) or vem_de_algum(_plano(epigrafe))):
             problemas.append(f"título {novo[:60]}: texto que não está no alterador nem no original")
     return problemas
+
+
+_REPUBLICA = re.compile(r"(?:é|são) republicad[oa]|republica-se|em anexo .{0,80}republicad", re.I)
+_RENUMERA = re.compile(r"renumerad|ordem num[ée]rica|passa(?:m|ndo)?\b[^;]{0,40}?\ba (?:ser )?(?:os? )?(?:artigos? |n\.?\s*[ºo]s? )?\d+\.?\s*[º°o]", re.I)
+_DE_ARTIGO = re.compile(r"(?:artigos?|arts?\.|n\.?\s*[ºo]s?|al[íi]neas?|n[úu]meros?|anexos?|§)\s*[^;:]{0,60}?\b(?:d[oa]s?|a[oa]s?)\s*$", re.I)
+_VERBO_ROTULO = re.compile(r"^\s*(?:alterad|revogad|aditad|dada nova reda|nova reda|eliminad|suprimid|substituíd)", re.I)
+_ARTIGOS_ROTULO = re.compile(r"\b(?:arts?\.|artigos?)\s*((?:\d+\s*\.?\s*[º°o](?:\s*-\s*[A-Z])?\s*(?:,|e|a)?\s*)+)", re.I)
+_DE_OUTRO_ROTULO = re.compile(r"c[óo]digo|na reda[cç]+[ãa]o d[oa] presente|estatuto|regulamento|anexo", re.I)
+
+
+def _numero(chave: str) -> str:
+    """O número do artigo numa chave da resposta: "Anexo I::5.º-A#2" → "5.º-A"."""
+    return chave.split("::")[-1].split("#")[0].strip()
+
+
+def _mencoes_numero(numero: str) -> re.Pattern[str] | None:
+    m = re.match(r"(\d+)\.?º?(?:-([A-Z]+))?$", numero)
+    if not m:
+        return None
+    letra = rf"\s*-\s*{m.group(2)}\b" if m.group(2) else r"(?!\s*-\s*[A-Z]\b)"
+    # "5.º", "5.º-A", e também "Art. 45-A" ou "artigo 5" sem o º (textos antigos).
+    return re.compile(rf"(?<![\d.,/]){m.group(1)}\s*\.?\s*[º°o]{letra}|\bart(?:igos?|s?\.)\s*{m.group(1)}{letra}(?![\d/])", re.I)
+
+
+def _revoga_o_diploma(texto: str, padrao: re.Pattern[str]) -> bool:
+    """Se o alterador revoga o original como diploma (por inteiro, com exceções ou "sem prejuízo"):
+    um verbo de revogação e a menção do original sem "o artigo … do" antes. Junta o cabeçalho de
+    uma lista ("São revogados:") a cada alínea."""
+    from alteracoes import _VERBO_REVOGAR
+
+    cabecalho = ""
+    for paragrafo in (x.strip() for x in texto.split("\n\n") if x.strip()):
+        if re.match(r"^(?:[a-z]{1,2}\)|\d+\s*-)\s", paragrafo) and cabecalho:
+            frase = cabecalho + " " + paragrafo
+        else:
+            frase = paragrafo
+            cabecalho = paragrafo if _VERBO_REVOGAR.search(paragrafo) and paragrafo.rstrip().endswith(":") else ""
+        verbo = _VERBO_REVOGAR.search(frase) or re.search(r"considera(?:m)?-se revogad", frase, re.I)
+        if not verbo:
+            continue
+        for m in padrao.finditer(frase, verbo.end()):
+            if not _DE_ARTIGO.search(frase[verbo.end() : m.start()]):
+                return True
+    return False
+
+
+def _no_intervalo(texto: str, numero: str) -> bool:
+    inteiro = re.match(r"(\d+)\.?º?$", numero)
+    return bool(inteiro) and any(int(a) <= int(inteiro.group(1)) <= int(b) for a, b in re.findall(r"(\d+)\.?\s*[º°o]\s+a\s+(\d+)\.?\s*[º°o]", texto))
+
+
+def numeros_do_rotulo(rotulo: str) -> list[str]:
+    """Os artigos do original que um rótulo de análise jurídica do DRE dá como alterados ou revogados
+    ("Alterados os artigos 16.º e 17.º, pelo …"). Só a primeira lista e só quando o rótulo começa
+    pelo verbo; nada quando fala de um código, estatuto, regulamento ou anexo (pode ser outro diploma
+    com a mesma numeração) ou depois de "com excepção de"."""
+    verbo = _VERBO_ROTULO.match(rotulo)
+    m = _ARTIGOS_ROTULO.search(rotulo)
+    # A lista vem logo a seguir ao verbo ("Alterados os arts. …", "Alterados, a partir de …, os arts.").
+    if not verbo or not m or m.start() - verbo.end() > 60 or _DE_OUTRO_ROTULO.search(rotulo[: m.end() + 60]):
+        return []
+    antes, depois = rotulo[max(0, m.start() - 30) : m.start()], rotulo[m.end() : m.end() + 50]
+    if re.search(r"exce[pç]+[ãa]o|\bexceto\b|\bsalvo\b|nos termos d|criad[oa] pel", antes, re.I):
+        return []
+    # Depois da lista, outro diploma ("do Dec Lei 225/85", "do DLR 2/99/A", "na redacção dada pelo …")
+    # quer dizer que os artigos são desse diploma, não do original.
+    if re.match(r"\s*(?:,\s*)?(?:d[oa]s?|na reda[cç]+[ãa]o)\s+(?!presente\b)", depois, re.I):
+        return []
+    return [f"{n}.º" + (f"-{l}" if l else "") for n, l in re.findall(r"(\d+)\s*\.?\s*[º°o](?:\s*-\s*([A-Z]))?", m.group(1))]
+
+
+def verificar_alvos(resultado: dict, registo: dict, tocados: set[str] | None = None) -> dict[str, list[str]]:
+    """As duas verificações que a letra a letra não faz (ver `README.md`, "Verificação dos alvos").
+
+    - `sem_instrucao` (bloqueia): um artigo da resposta cujo número nenhum alterador menciona, nem
+      numa lista ("artigos 5.º a 9.º") nem como título de uma nova redação. Com os parágrafos todos
+      tirados do original ou dos alteradores, passava a letra a letra. Não se aplica quando um
+      alterador republica o original ou renumera artigos.
+    - `rotulo_por_aplicar` (aviso): um artigo que o DRE dá como alterado ou revogado por um destes
+      alteradores (`rotulos_dre`) e que nem a resposta, nem as regras (`tocados`), nem o
+      "nao_aplicavel" tocam. É o caso da redação antiga que fica: a resposta não o devolve, por isso
+      a letra a letra não o vê. Fica como aviso porque os rótulos do DRE são texto livre.
+    """
+    alteradores = _alteradores(registo)
+    textos = [texto_mod.sem_ligacoes(_texto_alterador(a["path"], registo["title"])[0]) for a in alteradores]
+    # Republicação, renumeração ou retificação ("onde se lê"): o alvo não vem pelo número.
+    livre = any(_REPUBLICA.search(t) or _RENUMERA.search(t) or re.search(r"onde se l[êe]", t, re.I) for t in textos)
+    # Revogação do diploma inteiro ou com exceções: os artigos revogados não vêm nomeados um a um.
+    padrao_original = texto_mod.padrao_diploma(registo["title"])
+    revogado_inteiro = bool(padrao_original) and any(_revoga_o_diploma(t, padrao_original) for t in textos)
+    # O último artigo de cada parte leva as fórmulas finais e, às vezes, o anexo sem título.
+    ultimos = {_numero(c) for c in _ultimos_do_original(registo)}
+    sem_instrucao = []
+    devolvidos = set()
+    for artigo in resultado.get("artigos") or []:
+        numero = _numero(artigo["chave"])
+        devolvidos.add(numero)
+        padrao = _mencoes_numero(numero)
+        if livre or padrao is None or numero in ultimos:
+            continue
+        if revogado_inteiro and _REVOGADO.match(artigo["texto"].strip()):
+            continue
+        if not any(padrao.search(t) or _no_intervalo(t, numero) for t in textos):
+            sem_instrucao.append(f"{artigo['chave']}: nenhum alterador menciona o artigo {numero}")
+    devolvidos |= {_numero(c) for c in resultado.get("removidos") or []}
+    tocados_n = {_numero(c) for c in (tocados or set())}
+    nao_aplicavel = str(resultado.get("nao_aplicavel") or "")
+    por_aplicar = []
+    for a in alteradores:
+        for rotulo in a.get("rotulos_dre") or []:
+            for numero in numeros_do_rotulo(rotulo):
+                if numero in devolvidos or numero in tocados_n:
+                    continue
+                padrao = _mencoes_numero(numero)
+                if padrao and padrao.search(nao_aplicavel):
+                    continue
+                por_aplicar.append(f"{numero}: o DRE diz «{rotulo.strip()[:90]}» ({a.get('title')}) e nem a resposta nem as regras o mudam")
+    return {"sem_instrucao": sem_instrucao, "rotulo_por_aplicar": list(dict.fromkeys(por_aplicar))}
+
+
+def _alvos_com_regras(resposta: dict, registo: dict) -> dict[str, list[str]]:
+    """`verificar_alvos`; os artigos que as regras já mudaram só se calculam (correndo as regras)
+    quando há avisos de rótulos sem elas."""
+    alvos = verificar_alvos(resposta, registo)
+    if alvos["rotulo_por_aplicar"]:
+        alvos["rotulo_por_aplicar"] = verificar_alvos(resposta, registo, set(_estado(registo).get("tocados") or ()))["rotulo_por_aplicar"]
+    return alvos
 
 
 def _estado(registo: dict) -> dict:
@@ -358,6 +485,9 @@ def importar(ficheiros: list[Path]) -> None:
         resposta = partes[0] if len(partes) == 1 else _fundir(partes)
         resposta |= {"modelo": resposta.get("modelo") or "claude-opus-5-5", "pedido": "completo"}
         resposta["problemas"] = verificar_resposta(resposta, selecao[i])
+        alvos = _alvos_com_regras(resposta, selecao[i])
+        resposta["problemas"] += alvos["sem_instrucao"]
+        resposta["avisos"] = alvos["rotulo_por_aplicar"]
         tipo = "com problemas" if resposta["problemas"] else "sem alterações" if not (resposta.get("artigos") or resposta.get("anexos")) else "sem problemas"
         contagem[tipo] = contagem.get(tipo, 0) + 1
         (COMPLETO / (i.replace(":", "_") + ".json")).write_text(json.dumps(resposta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -469,6 +599,8 @@ def _junto(resposta: dict, registo: dict) -> dict:
         linha["titulos_normalizados"] = True
     if resposta.get("nao_aplicavel"):
         linha["parcial"] = resposta["nao_aplicavel"]
+    if resposta.get("avisos"):
+        linha["avisos_alvos"] = resposta["avisos"]
     return linha
 
 
@@ -663,6 +795,9 @@ def passagem(ids: list[str], pasta: Path, max_chars: int) -> None:
                 return not m or ultima.get(m.group(2)) == int(m.group(1))
             problemas = [x for x in problemas if vale(x)]
             final = _fundir(respostas) | {"id": i, "modelo": "claude-fable-5-1", "pedido": "completo", "passagens": estado["passagens"], "problemas": problemas}
+            alvos = verificar_alvos(final, registo, set(extra["tocados"]))
+            final["problemas"] += alvos["sem_instrucao"]
+            final["avisos"] = alvos["rotulo_por_aplicar"]
             COMPLETO.mkdir(parents=True, exist_ok=True)
             (COMPLETO / (i.replace(":", "_") + ".json")).write_text(json.dumps(final, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
             estado["feito"] = True

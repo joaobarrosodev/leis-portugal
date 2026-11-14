@@ -94,6 +94,42 @@ O `juntar` do pedido completo passa agora a deixar como "não junto" os diplomas
 
 Depois foram-se buscar os anexos ao PDF do DR (`files.diariodarepublica.pt/1s/1977/02/02701/00010176.pdf`, 176 páginas). O PDF está cifrado (AESV2, sem palavra-passe) e cada página é uma imagem CCITT G4, sem texto. Decifradas e convertidas, as páginas leem-se bem. Os anexos ocupam as páginas 10 a 176, com instruções por número de parágrafo (MOD, SUP, ADI, INA) e quadros de atribuição de frequências substituídos por inteiro. **Mesmo com o texto, não se aplica, porque misturaria versões.** A revisão de 1971 parte do Regulamento já revisto pelas conferências de 1963, 1966 e 1967. Muitos dos números que ela altera ou suprime (84AE, 84AL, 233B, 374A, 383A, 639CP, 639BM) vêm dessas revisões e não existem no texto do original. Essas revisões estão no acervo noutros diplomas (Decreto 48404, de 1968, e Decreto 434/71), mas o DRE não os dá como alteradores do Decreto 45205. Além disso, os quadros de frequências do próprio original só existem em imagem (182 "ver documento original"). É o mesmo motivo do Regulamento para Evitar Abalroamentos no Mar, na ronda 100. Para o consolidar, seria preciso aplicar primeiro, por ordem, todas as revisões do Regulamento e transcrever os quadros. Ficou de fora, e o aviso "Texto original; alterado por…" mantém-se. **E não está em vigor:** o Decreto n.º 39-A/92, que aprova o Regulamento das Radiocomunicações de 1979, revoga-o no art. 2.º, alínea a), e revoga também os Decretos 46425, 48404 e 434/71. Mesmo assim, o acervo dá os quatro como `in_force`. A correção da vigência ficou com a sessão da vigência manual.
 
+### Verificação dos alvos das respostas do LLM (14/11/2026)
+
+A verificação letra a letra de `llm_completo.verificar_resposta` confirma que cada parágrafo de um artigo devolvido vem de um alterador **ou do original**. Deixava passar dois casos:
+
+- **um artigo que nenhuma instrução visa**, montado só com parágrafos do original (ou de outro artigo);
+- **um artigo visado que fica com a redação antiga**: a resposta não o devolve, e por isso a letra a letra nunca o vê.
+
+`verificar_alvos` trata dos dois. Corre no `importar` e no fim das `passagem`.
+
+- **`sem_instrucao` (bloqueia):** um artigo da resposta cujo número nenhum alterador menciona, nem numa lista ("artigos 3.º a 7.º"), nem como título de uma nova redação ("Art. 45-A"). Vai para os `problemas`, e a resposta deixa de se juntar. Não conta quando um alterador republica o original, renumera artigos ("passando o artigo 19.º a 18.º") ou retifica ("onde se lê"). Também não conta no último artigo de cada parte, onde estão as fórmulas finais, nem num artigo "(Revogado.)" quando o alterador revoga o diploma inteiro ou com exceções ("considera-se revogado …, com excepção do artigo 45.º").
+- **`rotulo_por_aplicar` (aviso):** um artigo que um rótulo do DRE dá como alterado ou revogado por um destes alteradores ("Alterados os artigos 16.º e 17.º, pelo …"), e que nem a resposta, nem as regras, nem o `nao_aplicavel` tocam. Vai para `avisos` na resposta e para `avisos_alvos` no `juntados-completo.jsonl`. Não bloqueia, porque os rótulos são texto livre. Lê-se só a primeira lista de artigos, logo a seguir ao verbo, e nada quando a lista é de outro diploma ("do Dec Lei 225/85", "do Código …", "na redacção dada pelo …") ou vem depois de "com excepção de".
+
+**Medição nas 1.772 respostas guardadas em `llm/completo/`** (10.747 artigos):
+
+| Verificação | Respostas | Artigos | Destas, aplicadas em `data/` |
+|---|--:|--:|--:|
+| `sem_instrucao`, primeira versão | 81 | 1.459 | 67 |
+| `sem_instrucao`, com as isenções acima | 7 | 32 | 3 |
+| `rotulo_por_aplicar`, já sem os artigos que as regras mudaram | 40 | 256 | 12 |
+
+A primeira versão era quase só casos falsos. Foram lidos um a um, e as isenções vêm deles: revogações do diploma inteiro com todos os artigos "(Revogado.)", renumerações, retificações de datas na assinatura e alterações ao anexo que está dentro do último artigo.
+
+**`sem_instrucao`: as 3 aplicadas, para rever.** Nenhuma é um erro de texto óbvio, mas as três merecem ser lidas:
+- **DL 82/73**: o DL 553/77 revoga o "Decreto n.º 82/73", e o original é o Decreto-Lei n.º 82/73. O LLM aplicou a revogação a todos os artigos; a identidade do diploma revogado está por confirmar.
+- **DL 92/92**: o 13.º-A ficou "(Revogado.)" porque o DL 78/2007 revoga o artigo 2.º do DL 92/92, o artigo que adita os 13.º-A e 13.º-B a outro diploma.
+- **DRR 2/2005/M**: a chave "212.º" no pedido é o artigo 21.º lido mal pelo parser. A revogação dos arts. 21.º a 32.º está certa; a chave não.
+
+**`rotulo_por_aplicar`: amostra das 12 aplicadas.** Há de tudo:
+- **Falso:** na Lei 77/2017, o rótulo do DL 12/2019 fala dos artigos do DL 96/2013 que a Lei 77/2017 altera, e o LLM ignorou-o bem.
+- **Parece real:** no DL 376/87, a Lei 44/96 alterou os arts. 2.º, 82.º e 85.º "do presente diploma"; a resposta muda o 82.º e o 85.º, mas não o 2.º.
+- **Estrutural:** na Portaria 769/2006, o art. 2.º não tem chave própria no texto atual, e o LLM devolveu a redação dentro do 1.º.
+
+Por isso fica como aviso, até haver uma medida da precisão. As 12 são as candidatas para a próxima ronda de reparos: Lei 77/2017, Portaria 287/2017, Regulamento da CMVM 2/2007, DL 204/97, DL 44703, Lei 82/77, DRR 10/97/M, DL 32/78, Portaria 769/2006, DL 316/2007, DL 376/87 e DL 474-A/99. Nada do que já está em `data/` foi mudado.
+
+Testes: `tests/test_alvos.py`.
+
 ### Anexos só em imagem: o PDF do DR tem o texto? (amostra de 30, 12/11/2026)
 
 A ronda 104 mostrou um caso em que a "imagem" do acervo era, no PDF do DR, texto com camada de texto. Para saber se isto abre caminho aos diplomas travados por anexos em imagem, mediu-se uma amostra.
